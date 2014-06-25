@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the yeepgame.com privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531182559id_/http%3A//www.yeepgame.com/support/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yeepgame.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625134024id_/http%3A//www.yeepgame.com/support/Privacy_Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="SHORTCUT ICON" href="http://static.yeepgame.com/images/favicon.ico">
 <title>Privacy Policy-Yeepgame.com-Play free online game; build your own kingdom in Yeepgame!</title>
@@ -9,12 +9,12 @@
 <meta content="Yeepgame support center offers with payment and account FAQ, refund policy, and other help for the users" name="description">
 <link media="screen" href="http://static.yeepgame.com/css/base.css?1=1" type="text/css" rel="stylesheet">
 <link media="screen" href="http://static.yeepgame.com/css/style.css?1=1" type="text/css" rel="stylesheet">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/zh_CN/all.js#xfbml=1"></script><script type="text/javascript" id="janrainAuthWidget" src="https://rpxnow.com/js/lib/yeepgame/engage.js"></script><script type="text/javascript" src="http://static.yeepgame.com/js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/zh_CN/all.js#xfbml=1"></script><script type="text/javascript" id="janrainAuthWidget" src="https://rpxnow.com/js/lib/yeepgame/engage.js"></script><script type="text/javascript" src="http://static.yeepgame.com/js/jquery-1.4.4.min.js"></script>
 <script type="text/javascript" src="http://static.yeepgame.com/js/common.js"></script>
 <!--[if IE 6]>
 <script type="text/javascript" src="http://static.yeepgame.com/js/iepng.js"></script>
 <![endif]-->
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
 	<!-- head -->
 				<script type="text/javascript">
@@ -27,6 +27,29 @@ $(function(){
 		$('.newwin_bg').hide();
 	});
 });
+$(document).ready(function(){
+	//第一种
+	$(".login_d .input_txt").each(function(){
+		var thisVal=$(this).val();
+		//判断文本框的值是否为空，有值的情况就隐藏提示语，没有值就显示
+		if(thisVal!=""){
+			$(this).siblings("span").hide();
+		}else{
+			$(this).siblings("span").show();
+		}
+		//聚焦型输入框验证 
+		$(this).focus(function(){
+			$(this).siblings("span").hide();
+		}).blur(function(){
+			var val=$(this).val();
+			if(val!=""){
+				$(this).siblings("span").hide();
+			}else{
+				$(this).siblings("span").show();
+			} 
+		});
+	});
+})
 </script>
 <link href="http://static.yeepgame.com/css/newstyle.css?1=1" rel="stylesheet" type="text/css">
 <link href="http://static.yeepgame.com/css/20121227.css?1=1" rel="stylesheet" type="text/css">
@@ -54,7 +77,7 @@ _top:expression(offsetParent.scrollTop + 300);/*IE6水平居中*/
 			<a href="/games/home" class="nav_1"></a>
 			<a href="/news/all" class="nav_2"></a>
 			<a href="/community/index" class="nav_3"></a>
-			<a href="/support/FAQ" class="nav_fous"></a>
+			<a href="/support/search" class="nav_fous"></a>
             <a href="/payment2/main" class="nav_5"></a>
 			<a class="nav_6" href="http://bbs.yeepgame.com"></a>				
         </div>
@@ -63,116 +86,114 @@ _top:expression(offsetParent.scrollTop + 300);/*IE6水平居中*/
 </div><!--导航 end-->
 
 <div class="winlogin"><!--登录弹窗-->
-    <div class="newLogin_in">
-    	<a href="javascript:;" class="guanbi"><img src="http://static.yeepgame.com/images/close.gif" class="closewin1"></a>
-        <p class="login_tu1"><img src="http://static.yeepgame.com/images/login_tu1.png" class="pngimg"></p>
-        <div class="login_a">
-            <h4><img src="http://static.yeepgame.com/images/zi2.jpg"></h4>
-            <div style="padding-top:15px;">	
-                <span style="color:#4b4b4b;">Log in with</span>
-                <p class="newico">
-                    <a href="http://www.yeepgame.com/login/facebook/" target="_blank"><img src="http://static.yeepgame.com/images/newico.jpg"></a>
-                    <a href="javascript:void(0);" class="janrainEngage"><img src="http://static.yeepgame.com/images/newico1.jpg"></a>
-                    <a href="javascript:void(0);" class="janrainEngage"><img src="http://static.yeepgame.com/images/newico2.jpg"></a>
-                </p>
-            </div>
-            <a href="http://www.yeepgame.com/member/register" class="login_zi">Not a member yet? Sign up now !</a>	
-            <p style="position:absolute; top:135px; left:50px; color:#e64b4b;" id="new_email_notice_login"></p>
-        </div>
-        <div class="login_d">	
-            <table cellspacing="0" cellpadding="0" width="100%" border="0">
-                <tbody> 
-                    <tr> 
-                        <td align="right" width="37%" style="font-size:14px; font-weight:bold; color:#818181;"><img src="http://static.yeepgame.com/images/zi7.jpg"></td>
-                        <td><input type="text" class="login_bt2" id="new_email_login"></td>
-                        <td align="left" id="new_user_image4"></td>
-                    </tr>
-                    <tr><td colspan="3" height="18" style="color:#F00; padding-left:155px;"></td></tr>
-                    <tr> 
-                        <td align="right" style="font-size:14px; font-weight:bold; color:#818181;"><img src="http://static.yeepgame.com/images/zi4.jpg"></td>
-                        <td><input type="password" class="login_bt2" id="new_pwd_login"></td>
-                        <td align="left" id="new_user_image5"></td>
-                    </tr>
-                    <tr><td colspan="3" height="18" style="color:#F00; padding-left:155px;" id="new_email_notice_login"></td></tr>
-                    <tr>
-                        <td colspan="3">
-                            <a href="http://passport.yeepgame.com/member/getpassMail" class="login_d_a">forget password? </a>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-            <input type="button" value="" class="login_bt4" id="new_submit_login">
-        </div>
-    </div>
+	<div class="newLogin_in">
+		<a href="javascript:;" class="guanbi"><img src="http://static.yeepgame.com/images/close.gif" class="closewin1"></a>
+		<h4>Login to your account</h4>
+		<p class="login_tu1"><img src="http://static.yeepgame.com/images/login_tu1.png" class="pngimg"></p>
+		<div class="login_d">
+			<table cellspacing="0" cellpadding="0" width="100%" border="0">
+				<tbody> 
+					<tr> 
+						<td style=" width:300px;"><div class="login_name"><span>Email Address</span><input class="input_txt" id="new_email_login" value="" type="text"></div></td>
+						<td align="left" id="new_user_image4"></td>
+					</tr>
+					<tr><td colspan="3" style="color:#F00; padding-left:145px;" height="12"></td></tr>
+					<tr>
+						<td style=" width:300px;"><div class="login_pass"><span>Password</span><input class="input_txt" id="new_pwd_login" type="password"></div></td>
+						<td align="left" id="new_user_image5"></td>
+					</tr>
+					<tr><td style="color:#e64b4b; width:300px; height:20px; text-align:center;" id="new_email_notice_login"></td></tr>
+					<tr><td colspan="3" height="16"><input value="http://www.yeepgame.com/support/Privacy_Policy" name="referer" type="hidden"></td></tr>
+					<tr>
+						<td width:300px;=""><a href="http://passport.yeepgame.com/member/getpassMail" class="login_d_a">forget password? </a><input type="checkbox" value="1" id="remember_me"> Remember me </td>
+					</tr>
+				</tbody>
+			</table>
+			<input type="button" value="" id="new_submit_login" class="login_bt4">
+		</div>
+		<div class="login_a">
+			<span>Quick Login</span>
+			<p class="newico">
+			  <a href="http://www.yeepgame.com/login/facebook/" target="_blank"><img src="http://static.yeepgame.com/images/newico.jpg"></a>
+			  <a href="javascript:void(0);" class="janrainEngage"><img src="http://static.yeepgame.com/images/newico1.jpg"></a>
+			  <a href="javascript:void(0);" class="janrainEngage"><img src="http://static.yeepgame.com/images/newico2.jpg"></a>
+			</p>
+			<p>Not a gamer yet? <a href="http://passport.yeepgame.com/member/register/?referer=http://www.yeepgame.com/support/Privacy_Policy" class="login_zi">Click here to sign-up！</a></p>
+		</div>
+	</div>
 </div><!--登录弹窗 end-->
 
 <div class="winreg"><!--注册弹窗-->
 	<div class="newLogin_in1">
-    	<a href="javascript:;" class="guanbi"><img src="http://static.yeepgame.com/images/close.gif" class="closewin1"></a>
-        <p class="login_tu1"><img src="http://static.yeepgame.com/images/login_tu1.png" class="pngimg"></p>
-        <div class="login_a">
-            <h4><img src="http://static.yeepgame.com/images/zi5.jpg"></h4>
-            <div style="padding-top:15px;">	
-                <span style="color:#4b4b4b;">Log in with</span>
-                <p class="newico">
-                    <a href="http://www.yeepgame.com/login/facebook/" target="_blank"><img src="http://static.yeepgame.com/images/newico.jpg"></a>
-                    <a href="javascript:void(0);" class="janrainEngage"><img src="http://static.yeepgame.com/images/newico1.jpg"></a>
-                    <a href="javascript:void(0);" class="janrainEngage"><img src="http://static.yeepgame.com/images/newico2.jpg"></a>
-                </p>
-            </div>
-            <span class="login_zi1">Already have a account? <a href="http://www.yeepgame.com/member/login" style="color:#4bbcfe;">Login now !</a></span>	
-            <p style="position:absolute; top:135px; left:50px; color:#e64b4b;" id="new_notice_email"></p>
-        </div>
-        <div class="login_d">		
-            <table cellspacing="0" cellpadding="0" width="100%" border="0">
-                <tbody> 
-                    <tr> 
-                        <td align="right" width="34%" style="font-size:14px; font-weight:bold; color:#818181;"><img src="http://static.yeepgame.com/images/zi7.jpg"></td>
-                        <td><input type="text" class="login_bt2" id="new_email_reg" maxlength="40"></td>
-                        <td align="left" id="new_user_image"></td>
-                    </tr>
-                    <tr><td colspan="3" height="18" style="color:#F00; padding-left:145px;"></td></tr>
-                    <tr> 
-                        <td align="right" style="font-size:14px; font-weight:bold; color:#818181;"><img src="http://static.yeepgame.com/images/zi8.jpg"></td>
-                        <td><input type="password" class="login_bt2" id="new_pwd1_reg" maxlength="20"></td>
-                        <td align="left" id="new_user_image1"></td>
-                    </tr>
-                    <tr><td colspan="3" height="18" style="color:#F00; padding-left:145px;"></td></tr>
-                    <tr> 
-                        <td align="right" style="font-size:14px; font-weight:bold; color:#818181;"><img src="http://static.yeepgame.com/images/zi18.jpg"></td>
-                        <td><input type="password" class="login_bt2" id="new_pwd2_reg" maxlength="20"></td>
-                        <td align="left" id="new_user_image2"></td>
-                    </tr>
-                    <tr><td colspan="3" height="15" style="color:#F00; padding-left:145px;"></td></tr>
-                    <tr> 
-                        <td align="right" style="font-size:14px; font-weight:bold; color:#818181;"></td>
-                        <td>
-                            <div class="strength">
-                                <p id="img1" style=""><img src="http://static.yeepgame.com/images/strength1.gif"></p>
-                                <p id="img2" style="display:none;"><img src="http://static.yeepgame.com/images/strength2.gif"></p>
-                                <p id="img3" style="display:none;"><img src="http://static.yeepgame.com/images/strength3.gif"></p>
-                            </div>
-                        </td>
-                        <td align="left"></td>
-                    </tr>
-                    <tr><td colspan="3" height="15" style="color:#9bccf9; padding:11px 0px 10px 90px;">8 or more characters, 1 upper, 1 lower, 1 number</td></tr>
-                    <tr> 
-                        <td align="right" style="font-size:14px; font-weight:bold; color:#818181;">Birthday</td>
-                        <td colspan="2" style="padding-left:10px;">
-                            <select id="month"><option>--Month--</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option></select> 
-                            <select id="day"><option>--Day--</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select> 
-                            <select id="year"><option>--Year--</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option><option value="1914">1914</option><option value="1913">1913</option></select> 
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-            <p style="padding:15px 0px 15px 50px; color:#4b4b4b;"><input type="checkbox" checked="checked">&nbsp;I would love to receive the newsletter of Yeepgame</p>
-            <input type="button" value="" class="signin_bt" id="new_submit_reg">
-            <div class="signin_zi">
-                By clicking "Sign up and Play", you are indicating that you have read and agree to our <a href="http://www.yeepgame.com/support/Terms_of_Service" target="_blank">Terms of Service</a> and <a href="http://www.yeepgame.com/support/Privacy_Policy" target="_blank">Privacy Policy</a>
-            </div>
-        </div>
-    </div>
+		<a href="javascript:;" class="guanbi"><img src="http://static.yeepgame.com/images/close.gif" class="closewin1"></a>
+		<h4>Create your Yeepgame Account</h4>
+		<p class="login_tu1"><img src="http://static.yeepgame.com/images/login_tu1.png" class="pngimg"></p>
+		<div class="login_d">
+			<table cellspacing="0" cellpadding="0" width="100%" border="0">
+				<tbody> 
+					<tr> 
+						<td style=" width:300px;"><div class="login_name"><span>Email Address</span><input id="new_email_reg" maxlength="40" type="text" class="input_txt"></div></td>
+						<td align="left" id="new_user_image"></td>
+					</tr>
+					<tr><td colspan="3" height="17" style="color:#F00; padding-left:145px;"></td></tr>
+					<tr> 
+						<td style=" width:300px;"><div class="login_pass"><span>Password</span><input type="password" class="input_txt" id="new_pwd1_reg" maxlength="20"></div></td>
+						<td align="left" id="new_user_image1"></td>
+					</tr>
+					<tr><td colspan="3" height="17" style="color:#F00; padding-left:145px;"></td></tr>
+					<tr> 
+						<td style=" width:300px;"><div class="login_pass"><span> Repeat Password</span><input type="password" class="input_txt" id="new_pwd2_reg" maxlength="20"></div></td>
+						<td align="left" id="new_user_image2"></td>
+					</tr>
+					<tr><td height="31" style="color:#F00; width:300px; text-align:center;" id="new_notice_email"></td></tr>
+					<tr> 
+						<td style="width:300px;">
+							<div class="strength">
+								<p id="img1" style="">
+								<img src="http://static.yeepgame.com/images/strength1.gif"></p>
+								<p id="img2" style="display:none;">
+								<img src="http://static.yeepgame.com/images/strength2.gif"></p>
+								<p id="img3" style="display:none;">
+								<img src="http://static.yeepgame.com/images/strength3.gif"></p>
+							</div>
+						</td>
+						<td align="left"></td>
+					</tr>
+					<tr><td colspan="3" height="15" style="color:#9bccf9; padding:11px 0px 10px 44px;">Your password should be 7 characters</td></tr>
+					<tr> 
+						<td align="left" style="font-size:14px;  padding-left:103px; font-weight:bold; color:#393939;">Birthday</td><td></td>
+					</tr>
+					<tr><td colspan="3" height="10" style="color:#F00; padding-left:145px;"></td></tr>
+					<tr>
+						<td colspan="2" style="padding-left:50px;">
+							<select id="month" class="reg_input2"><option>--Month--</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option></select> 
+							<select id="day" class="reg_input2"><option>--Day--</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select> 
+							<select id="year" class="reg_input2"><option>--Year--</option><option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option><option value="1914">1914</option></select> 
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<p style="padding:15px 0px 15px 10px; color:#4b4b4b;"><input type="checkbox" checked="checked">&nbsp;I would love to get Yeepgame’s newsletter!</p>
+			<div><input type="button" value="" class="signin_bt" id="new_submit_reg"></div>
+		</div>
+		<div class="login_b">
+			<div>	
+				<span style="color:#4b4b4b;">Quick Login</span>
+				<p class="newico">
+					<a href="http://www.yeepgame.com/login/facebook/" target="_blank">
+					<img src="http://static.yeepgame.com/images/newico.jpg"></a>
+					<a href="javascript:void(0);" class="janrainEngage">
+					<img src="http://static.yeepgame.com/images/newico1.jpg"></a>
+					<a href="javascript:void(0);" class="janrainEngage">
+					<img src="http://static.yeepgame.com/images/newico2.jpg"></a>
+				</p>					
+			</div>
+			<p class="login_zi1">Already have a account? <a href="http://passport.yeepgame.com/member/login/?referer=http://www.yeepgame.com/support/Privacy_Policy">Login now !</a></p>	
+		</div>
+		<div class="signin_zi">
+		   By clicking "Sign up and Play", you agree to our<br><a href="http://www.yeepgame.com/support/Terms_of_Service" target="_blank">Terms of Service</a> and <a href="http://www.yeepgame.com/support/Privacy_Policy" target="_blank">Privacy Policy</a>
+		</div>
+	</div>
 </div><!--注册弹窗 end-->
 <script type="text/javascript">
 (function() {
@@ -201,24 +222,42 @@ _top:expression(offsetParent.scrollTop + 300);/*IE6水平居中*/
 	var s = document.getElementsByTagName('script')[0];
 	s.parentNode.insertBefore(e, s);
 })();
+</script>
+
+<script type="text/javascript">
+adroll_adv_id = "NZ53TFIUPVFQ3EXN3ULUXI";
+adroll_pix_id = "PWRTMPQLINA6RHX52CFKIG";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
 </script>		<!-- head:end -->
 	<!-- center -->
 		<div class="wrap_snd2"><!--bg2-->
 	<div class="wrap">
-		<div class="faq_cont floatL"><!--support nav-->
-				<a href="/support/FAQ" class="faq_1"></a>		
-	<a href="/support/Privacy_Policy" class="faq_1_3"></a>	
-	<a href="/support/Terms_of_Service" class="faq_4"></a>	
-	<a href="/support/Contact_us" class="faq_5"></a>	
-	<a href="/support/Refund_Policy" class="faq_6"></a>	
-		
-		</div><!--support nav end-->
+		<div class="newleft floatL"><!--05.20-->
+			<a href="/support/search" class="newleft_1"></a>
+<a href="/support/index" class="newleft_2"></a>
+<a href="/support/contact" class="newleft_3"></a>
+<a href="/support/Contact_us" class="newleft_4"></a>
+<a href="/support/Refund_Policy" class="newleft_5"></a>	
+	
+		</div><!--05.20 end-->	
         
 		<div class="newContact"><!--右边-->
        		<h3 class="contact_top">Privacy Policy</h3> 
         	<div class="contact_con">
            		<div class="Policy_box"><!--内容-->
-					<!--[if gte mso 9]><xml>  <o:officedocumentsettings>   <o:relyonvml />   <o:allowpng />  </o:officedocumentsettings> </xml><![endif]--><!--[if gte mso 9]><xml>  <w:worddocument>   <w:view>Normal</w:view>   <w:zoom>0</w:zoom>   <w:trackmoves />   <w:trackformatting />   <w:punctuationkerning />   <w:drawinggridverticalspacing>7.8 磅</w:drawinggridverticalspacing>   <w:displayhorizontaldrawinggridevery>0</w:displayhorizontaldrawinggridevery>   <w:displayverticaldrawinggridevery>2</w:displayverticaldrawinggridevery>   <w:validateagainstschemas />   <w:saveifxmlinvalid>false</w:saveifxmlinvalid>   <w:ignoremixedcontent>false</w:ignoremixedcontent>   <w:alwaysshowplaceholdertext>false</w:alwaysshowplaceholdertext>   <w:donotpromoteqf />   <w:lidthemeother>EN-US</w:lidthemeother>   <w:lidthemeasian>ZH-CN</w:lidthemeasian>   <w:lidthemecomplexscript>X-NONE</w:lidthemecomplexscript>   <w:compatibility>    <w:spaceforul />    <w:balancesinglebytedoublebytewidth />    <w:donotleavebackslashalone />    <w:ultrailspace />    <w:donotexpandshiftreturn />    <w:adjustlineheightintable />    <w:breakwrappedtables />    <w:snaptogridincell />    <w:wraptextwithpunct />    <w:useasianbreakrules />    <w:dontgrowautofit />    <w:splitpgbreakandparamark />    <w:enableopentypekerning />    <w:dontflipmirrorindents />    <w:overridetablestylehps />    <w:usefelayout />   </w:compatibility>   <m:mathpr>    <m:mathfont m:val="Cambria Math" />    <m:brkbin m:val="before" />    <m:brkbinsub m:val="&#45;-" />    <m:smallfrac m:val="off" />    <m:dispdef />    <m:lmargin m:val="0" />    <m:rmargin m:val="0" />    <m:defjc m:val="centerGroup" />    <m:wrapindent m:val="1440" />    <m:intlim m:val="subSup" />    <m:narylim m:val="undOvr" />   </m:mathpr></w:worddocument> </xml><![endif]--><!--[if gte mso 9]><xml>  <w:latentstyles deflockedstate="false" defunhidewhenused="true" defsemihidden="true" defqformat="false" defpriority="99" latentstylecount="267">   <w:lsdexception locked="false" priority="0" semihidden="false" unhidewhenused="false" qformat="true" name="Normal" />   <w:lsdexception locked="false" priority="9" semihidden="false" unhidewhenused="false" qformat="true" name="heading 1" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 2" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 3" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 4" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 5" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 6" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 7" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 8" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 9" />   <w:lsdexception locked="false" priority="39" name="toc 1" />   <w:lsdexception locked="false" priority="39" name="toc 2" />   <w:lsdexception locked="false" priority="39" name="toc 3" />   <w:lsdexception locked="false" priority="39" name="toc 4" />   <w:lsdexception locked="false" priority="39" name="toc 5" />   <w:lsdexception locked="false" priority="39" name="toc 6" />   <w:lsdexception locked="false" priority="39" name="toc 7" />   <w:lsdexception locked="false" priority="39" name="toc 8" />   <w:lsdexception locked="false" priority="39" name="toc 9" />   <w:lsdexception locked="false" priority="35" qformat="true" name="caption" />   <w:lsdexception locked="false" priority="10" semihidden="false" unhidewhenused="false" qformat="true" name="Title" />   <w:lsdexception locked="false" priority="1" name="Default Paragraph Font" />   <w:lsdexception locked="false" priority="11" semihidden="false" unhidewhenused="false" qformat="true" name="Subtitle" />   <w:lsdexception locked="false" priority="22" semihidden="false" unhidewhenused="false" qformat="true" name="Strong" />   <w:lsdexception locked="false" priority="20" semihidden="false" unhidewhenused="false" qformat="true" name="Emphasis" />   <w:lsdexception locked="false" priority="59" semihidden="false" unhidewhenused="false" name="Table Grid" />   <w:lsdexception locked="false" unhidewhenused="false" name="Placeholder Text" />   <w:lsdexception locked="false" priority="1" semihidden="false" unhidewhenused="false" qformat="true" name="No Spacing" />   <w:lsdexception locked="false" priority="60" semihidden="false" unhidewhenused="false" name="Light Shading" />   <w:lsdexception locked="false" priority="61" semihidden="false" unhidewhenused="false" name="Light List" />   <w:lsdexception locked="false" priority="62" semihidden="false" unhidewhenused="false" name="Light Grid" />   <w:lsdexception locked="false" priority="63" semihidden="false" unhidewhenused="false" name="Medium Shading 1" />   <w:lsdexception locked="false" priority="64" semihidden="false" unhidewhenused="false" name="Medium Shading 2" />   <w:lsdexception locked="false" priority="65" semihidden="false" unhidewhenused="false" name="Medium List 1" />   <w:lsdexception locked="false" priority="66" semihidden="false" unhidewhenused="false" name="Medium List 2" />   <w:lsdexception locked="false" priority="67" semihidden="false" unhidewhenused="false" name="Medium Grid 1" />   <w:lsdexception locked="false" priority="68" semihidden="false" unhidewhenused="false" name="Medium Grid 2" />   <w:lsdexception locked="false" priority="69" semihidden="false" unhidewhenused="false" name="Medium Grid 3" />   <w:lsdexception locked="false" priority="70" semihidden="false" unhidewhenused="false" name="Dark List" />   <w:lsdexception locked="false" priority="71" semihidden="false" unhidewhenused="false" name="Colorful Shading" />   <w:lsdexception locked="false" priority="72" semihidden="false" unhidewhenused="false" name="Colorful List" />   <w:lsdexception locked="false" priority="73" semihidden="false" unhidewhenused="false" name="Colorful Grid" />   <w:lsdexception locked="false" priority="60" semihidden="false" unhidewhenused="false" name="Light Shading Accent 1" />   <w:lsdexception locked="false" priority="61" semihidden="false" unhidewhenused="false" name="Light List Accent 1" />   <w:lsdexception locked="false" priority="62" semihidden="false" unhidewhenused="false" name="Light Grid Accent 1" />   <w:lsdexception locked="false" priority="63" semihidden="false" unhidewhenused="false" name="Medium Shading 1 Accent 1" />   <w:lsdexception locked="false" priority="64" semihidden="false" unhidewhenused="false" name="Medium Shading 2 Accent 1" />   <w:lsdexception locked="false" priority="65" semihidden="false" unhidewhenused="false" name="Medium List 1 Accent 1" />   <w:lsdexception locked="false" unhidewhenused="false" name="Revision" />   <w:lsdexception locked="false" priority="34" semihidden="false" unhidewhenused="false" qformat="true" name="List Paragraph" />   <w:lsdexception locked="false" priority="29" semihidden="false" unhidewhenused="false" qformat="true" name="Quote" />   <w:lsdexception locked="false" priority="30" semihidden="false" unhidewhenused="false" qformat="true" name="Intense Quote" />   <w:lsdexception locked="false" priority="66" semihidden="false" unhidewhenused="false" name="Medium List 2 Accent 1" />   <w:lsdexception locked="false" priority="67" semihidden="false" unhidewhenused="false" name="Medium Grid 1 Accent 1" />   <w:lsdexception locked="false" priority="68" semihidden="false" unhidewhenused="false" name="Medium Grid 2 Accent 1" />   <w:lsdexception locked="false" priority="69" semihidden="false" unhidewhenused="false" name="Medium Grid 3 Accent 1" />   <w:lsdexception locked="false" priority="70" semihidden="false" unhidewhenused="false" name="Dark List Accent 1" />   <w:lsdexception locked="false" priority="71" semihidden="false" unhidewhenused="false" name="Colorful Shading Accent 1" />   <w:lsdexception locked="false" priority="72" semihidden="false" unhidewhenused="false" name="Colorful List Accent 1" />   <w:lsdexception locked="false" priority="73" semihidden="false" unhidewhenused="false" name="Colorful Grid Accent 1" />   <w:lsdexception locked="false" priority="60" semihidden="false" unhidewhenused="false" name="Light Shading Accent 2" />   <w:lsdexception locked="false" priority="61" semihidden="false" unhidewhenused="false" name="Light List Accent 2" />   <w:lsdexception locked="false" priority="62" semihidden="false" unhidewhenused="false" name="Light Grid Accent 2" />   <w:lsdexception locked="false" priority="63" semihidden="false" unhidewhenused="false" name="Medium Shading 1 Accent 2" />   <w:lsdexception locked="false" priority="64" semihidden="false" unhidewhenused="false" name="Medium Shading 2 Accent 2" />   <w:lsdexception locked="false" priority="65" semihidden="false" unhidewhenused="false" name="Medium List 1 Accent 2" />   <w:lsdexception locked="false" priority="66" semihidden="false" unhidewhenused="false" name="Medium List 2 Accent 2" />   <w:lsdexception locked="false" priority="67" semihidden="false" unhidewhenused="false" name="Medium Grid 1 Accent 2" />   <w:lsdexception locked="false" priority="68" semihidden="false" unhidewhenused="false" name="Medium Grid 2 Accent 2" />   <w:lsdexception locked="false" priority="69" semihidden="false" unhidewhenused="false" name="Medium Grid 3 Accent 2" />   <w:lsdexception locked="false" priority="70" semihidden="false" unhidewhenused="false" name="Dark List Accent 2" />   <w:lsdexception locked="false" priority="71" semihidden="false" unhidewhenused="false" name="Colorful Shading Accent 2" />   <w:lsdexception locked="false" priority="72" semihidden="false" unhidewhenused="false" name="Colorful List Accent 2" />   <w:lsdexception locked="false" priority="73" semihidden="false" unhidewhenused="false" name="Colorful Grid Accent 2" />   <w:lsdexception locked="false" priority="60" semihidden="false" unhidewhenused="false" name="Light Shading Accent 3" />   <w:lsdexception locked="false" priority="61" semihidden="false" unhidewhenused="false" name="Light List Accent 3" />   <w:lsdexception locked="false" priority="62" semihidden="false" unhidewhenused="false" name="Light Grid Accent 3" />   <w:lsdexception locked="false" priority="63" semihidden="false" unhidewhenused="false" name="Medium Shading 1 Accent 3" />   <w:lsdexception locked="false" priority="64" semihidden="false" unhidewhenused="false" name="Medium Shading 2 Accent 3" />   <w:lsdexception locked="false" priority="65" semihidden="false" unhidewhenused="false" name="Medium List 1 Accent 3" />   <w:lsdexception locked="false" priority="66" semihidden="false" unhidewhenused="false" name="Medium List 2 Accent 3" />   <w:lsdexception locked="false" priority="67" semihidden="false" unhidewhenused="false" name="Medium Grid 1 Accent 3" />   <w:lsdexception locked="false" priority="68" semihidden="false" unhidewhenused="false" name="Medium Grid 2 Accent 3" />   <w:lsdexception locked="false" priority="69" semihidden="false" unhidewhenused="false" name="Medium Grid 3 Accent 3" />   <w:lsdexception locked="false" priority="70" semihidden="false" unhidewhenused="false" name="Dark List Accent 3" />   <w:lsdexception locked="false" priority="71" semihidden="false" unhidewhenused="false" name="Colorful Shading Accent 3" />   <w:lsdexception locked="false" priority="72" semihidden="false" unhidewhenused="false" name="Colorful List Accent 3" />   <w:lsdexception locked="false" priority="73" semihidden="false" unhidewhenused="false" name="Colorful Grid Accent 3" />   <w:lsdexception locked="false" priority="60" semihidden="false" unhidewhenused="false" name="Light Shading Accent 4" />   <w:lsdexception locked="false" priority="61" semihidden="false" unhidewhenused="false" name="Light List Accent 4" />   <w:lsdexception locked="false" priority="62" semihidden="false" unhidewhenused="false" name="Light Grid Accent 4" />   <w:lsdexception locked="false" priority="63" semihidden="false" unhidewhenused="false" name="Medium Shading 1 Accent 4" />   <w:lsdexception locked="false" priority="64" semihidden="false" unhidewhenused="false" name="Medium Shading 2 Accent 4" />   <w:lsdexception locked="false" priority="65" semihidden="false" unhidewhenused="false" name="Medium List 1 Accent 4" />   <w:lsdexception locked="false" priority="66" semihidden="false" unhidewhenused="false" name="Medium List 2 Accent 4" />   <w:lsdexception locked="false" priority="67" semihidden="false" unhidewhenused="false" name="Medium Grid 1 Accent 4" />   <w:lsdexception locked="false" priority="68" semihidden="false" unhidewhenused="false" name="Medium Grid 2 Accent 4" />   <w:lsdexception locked="false" priority="69" semihidden="false" unhidewhenused="false" name="Medium Grid 3 Accent 4" />   <w:lsdexception locked="false" priority="70" semihidden="false" unhidewhenused="false" name="Dark List Accent 4" />   <w:lsdexception locked="false" priority="71" semihidden="false" unhidewhenused="false" name="Colorful Shading Accent 4" />   <w:lsdexception locked="false" priority="72" semihidden="false" unhidewhenused="false" name="Colorful List Accent 4" />   <w:lsdexception locked="false" priority="73" semihidden="false" unhidewhenused="false" name="Colorful Grid Accent 4" />   <w:lsdexception locked="false" priority="60" semihidden="false" unhidewhenused="false" name="Light Shading Accent 5" />   <w:lsdexception locked="false" priority="61" semihidden="false" unhidewhenused="false" name="Light List Accent 5" />   <w:lsdexception locked="false" priority="62" semihidden="false" unhidewhenused="false" name="Light Grid Accent 5" />   <w:lsdexception locked="false" priority="63" semihidden="false" unhidewhenused="false" name="Medium Shading 1 Accent 5" />   <w:lsdexception locked="false" priority="64" semihidden="false" unhidewhenused="false" name="Medium Shading 2 Accent 5" />   <w:lsdexception locked="false" priority="65" semihidden="false" unhidewhenused="false" name="Medium List 1 Accent 5" />   <w:lsdexception locked="false" priority="66" semihidden="false" unhidewhenused="false" name="Medium List 2 Accent 5" />   <w:lsdexception locked="false" priority="67" semihidden="false" unhidewhenused="false" name="Medium Grid 1 Accent 5" />   <w:lsdexception locked="false" priority="68" semihidden="false" unhidewhenused="false" name="Medium Grid 2 Accent 5" />   <w:lsdexception locked="false" priority="69" semihidden="false" unhidewhenused="false" name="Medium Grid 3 Accent 5" />   <w:lsdexception locked="false" priority="70" semihidden="false" unhidewhenused="false" name="Dark List Accent 5" />   <w:lsdexception locked="false" priority="71" semihidden="false" unhidewhenused="false" name="Colorful Shading Accent 5" />   <w:lsdexception locked="false" priority="72" semihidden="false" unhidewhenused="false" name="Colorful List Accent 5" />   <w:lsdexception locked="false" priority="73" semihidden="false" unhidewhenused="false" name="Colorful Grid Accent 5" />   <w:lsdexception locked="false" priority="60" semihidden="false" unhidewhenused="false" name="Light Shading Accent 6" />   <w:lsdexception locked="false" priority="61" semihidden="false" unhidewhenused="false" name="Light List Accent 6" />   <w:lsdexception locked="false" priority="62" semihidden="false" unhidewhenused="false" name="Light Grid Accent 6" />   <w:lsdexception locked="false" priority="63" semihidden="false" unhidewhenused="false" name="Medium Shading 1 Accent 6" />   <w:lsdexception locked="false" priority="64" semihidden="false" unhidewhenused="false" name="Medium Shading 2 Accent 6" />   <w:lsdexception locked="false" priority="65" semihidden="false" unhidewhenused="false" name="Medium List 1 Accent 6" />   <w:lsdexception locked="false" priority="66" semihidden="false" unhidewhenused="false" name="Medium List 2 Accent 6" />   <w:lsdexception locked="false" priority="67" semihidden="false" unhidewhenused="false" name="Medium Grid 1 Accent 6" />   <w:lsdexception locked="false" priority="68" semihidden="false" unhidewhenused="false" name="Medium Grid 2 Accent 6" />   <w:lsdexception locked="false" priority="69" semihidden="false" unhidewhenused="false" name="Medium Grid 3 Accent 6" />   <w:lsdexception locked="false" priority="70" semihidden="false" unhidewhenused="false" name="Dark List Accent 6" />   <w:lsdexception locked="false" priority="71" semihidden="false" unhidewhenused="false" name="Colorful Shading Accent 6" />   <w:lsdexception locked="false" priority="72" semihidden="false" unhidewhenused="false" name="Colorful List Accent 6" />   <w:lsdexception locked="false" priority="73" semihidden="false" unhidewhenused="false" name="Colorful Grid Accent 6" />   <w:lsdexception locked="false" priority="19" semihidden="false" unhidewhenused="false" qformat="true" name="Subtle Emphasis" />   <w:lsdexception locked="false" priority="21" semihidden="false" unhidewhenused="false" qformat="true" name="Intense Emphasis" />   <w:lsdexception locked="false" priority="31" semihidden="false" unhidewhenused="false" qformat="true" name="Subtle Reference" />   <w:lsdexception locked="false" priority="32" semihidden="false" unhidewhenused="false" qformat="true" name="Intense Reference" />   <w:lsdexception locked="false" priority="33" semihidden="false" unhidewhenused="false" qformat="true" name="Book Title" />   <w:lsdexception locked="false" priority="37" name="Bibliography" />   <w:lsdexception locked="false" priority="39" qformat="true" name="TOC Heading" />  </w:latentstyles> </xml><![endif]--><!--[if gte mso 10]>
+					<!--[if gte mso 9]><xml>  <o:officedocumentsettings>   <o:relyonvml />   <o:allowpng />  </o:officedocumentsettings> </xml><![endif]--><!--[if gte mso 9]><xml>  <w:worddocument>   <w:view>Normal</w:view>   <w:zoom>0</w:zoom>   <w:trackmoves />   <w:trackformatting />   <w:punctuationkerning />   <w:drawinggridverticalspacing>7.8 磅</w:drawinggridverticalspacing>   <w:displayhorizontaldrawinggridevery>0</w:displayhorizontaldrawinggridevery>   <w:displayverticaldrawinggridevery>2</w:displayverticaldrawinggridevery>   <w:validateagainstschemas />   <w:saveifxmlinvalid>false</w:saveifxmlinvalid>   <w:ignoremixedcontent>false</w:ignoremixedcontent>   <w:alwaysshowplaceholdertext>false</w:alwaysshowplaceholdertext>   <w:donotpromoteqf />   <w:lidthemeother>EN-US</w:lidthemeother>   <w:lidthemeasian>ZH-CN</w:lidthemeasian>   <w:lidthemecomplexscript>X-NONE</w:lidthemecomplexscript>   <w:compatibility>    <w:spaceforul />    <w:balancesinglebytedoublebytewidth />    <w:donotleavebackslashalone />    <w:ultrailspace />    <w:donotexpandshiftreturn />    <w:adjustlineheightintable />    <w:breakwrappedtables />    <w:snaptogridincell />    <w:wraptextwithpunct />    <w:useasianbreakrules />    <w:dontgrowautofit />    <w:splitpgbreakandparamark />    <w:enableopentypekerning />    <w:dontflipmirrorindents />    <w:overridetablestylehps />    <w:usefelayout />   </w:compatibility>   <m:mathpr>    <m:mathfont m:val="Cambria Math" />    <m:brkbin m:val="before" />    <m:brkbinsub m:val="--" />    <m:smallfrac m:val="off" />    <m:dispdef />    <m:lmargin m:val="0" />    <m:rmargin m:val="0" />    <m:defjc m:val="centerGroup" />    <m:wrapindent m:val="1440" />    <m:intlim m:val="subSup" />    <m:narylim m:val="undOvr" />   </m:mathpr></w:worddocument> </xml><![endif]--><!--[if gte mso 9]><xml>  <w:latentstyles deflockedstate="false" defunhidewhenused="true" defsemihidden="true" defqformat="false" defpriority="99" latentstylecount="267">   <w:lsdexception locked="false" priority="0" semihidden="false" unhidewhenused="false" qformat="true" name="Normal" />   <w:lsdexception locked="false" priority="9" semihidden="false" unhidewhenused="false" qformat="true" name="heading 1" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 2" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 3" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 4" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 5" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 6" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 7" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 8" />   <w:lsdexception locked="false" priority="9" qformat="true" name="heading 9" />   <w:lsdexception locked="false" priority="39" name="toc 1" />   <w:lsdexception locked="false" priority="39" name="toc 2" />   <w:lsdexception locked="false" priority="39" name="toc 3" />   <w:lsdexception locked="false" priority="39" name="toc 4" />   <w:lsdexception locked="false" priority="39" name="toc 5" />   <w:lsdexception locked="false" priority="39" name="toc 6" />   <w:lsdexception locked="false" priority="39" name="toc 7" />   <w:lsdexception locked="false" priority="39" name="toc 8" />   <w:lsdexception locked="false" priority="39" name="toc 9" />   <w:lsdexception locked="false" priority="35" qformat="true" name="caption" />   <w:lsdexception locked="false" priority="10" semihidden="false" unhidewhenused="false" qformat="true" name="Title" />   <w:lsdexception locked="false" priority="1" name="Default Paragraph Font" />   <w:lsdexception locked="false" priority="11" semihidden="false" unhidewhenused="false" qformat="true" name="Subtitle" />   <w:lsdexception locked="false" priority="22" semihidden="false" unhidewhenused="false" qformat="true" name="Strong" />   <w:lsdexception locked="false" priority="20" semihidden="false" unhidewhenused="false" qformat="true" name="Emphasis" />   <w:lsdexception locked="false" priority="59" semihidden="false" unhidewhenused="false" name="Table Grid" />   <w:lsdexception locked="false" unhidewhenused="false" name="Placeholder Text" />   <w:lsdexception locked="false" priority="1" semihidden="false" unhidewhenused="false" qformat="true" name="No Spacing" />   <w:lsdexception locked="false" priority="60" semihidden="false" unhidewhenused="false" name="Light Shading" />   <w:lsdexception locked="false" priority="61" semihidden="false" unhidewhenused="false" name="Light List" />   <w:lsdexception locked="false" priority="62" semihidden="false" unhidewhenused="false" name="Light Grid" />   <w:lsdexception locked="false" priority="63" semihidden="false" unhidewhenused="false" name="Medium Shading 1" />   <w:lsdexception locked="false" priority="64" semihidden="false" unhidewhenused="false" name="Medium Shading 2" />   <w:lsdexception locked="false" priority="65" semihidden="false" unhidewhenused="false" name="Medium List 1" />   <w:lsdexception locked="false" priority="66" semihidden="false" unhidewhenused="false" name="Medium List 2" />   <w:lsdexception locked="false" priority="67" semihidden="false" unhidewhenused="false" name="Medium Grid 1" />   <w:lsdexception locked="false" priority="68" semihidden="false" unhidewhenused="false" name="Medium Grid 2" />   <w:lsdexception locked="false" priority="69" semihidden="false" unhidewhenused="false" name="Medium Grid 3" />   <w:lsdexception locked="false" priority="70" semihidden="false" unhidewhenused="false" name="Dark List" />   <w:lsdexception locked="false" priority="71" semihidden="false" unhidewhenused="false" name="Colorful Shading" />   <w:lsdexception locked="false" priority="72" semihidden="false" unhidewhenused="false" name="Colorful List" />   <w:lsdexception locked="false" priority="73" semihidden="false" unhidewhenused="false" name="Colorful Grid" />   <w:lsdexception locked="false" priority="60" semihidden="false" unhidewhenused="false" name="Light Shading Accent 1" />   <w:lsdexception locked="false" priority="61" semihidden="false" unhidewhenused="false" name="Light List Accent 1" />   <w:lsdexception locked="false" priority="62" semihidden="false" unhidewhenused="false" name="Light Grid Accent 1" />   <w:lsdexception locked="false" priority="63" semihidden="false" unhidewhenused="false" name="Medium Shading 1 Accent 1" />   <w:lsdexception locked="false" priority="64" semihidden="false" unhidewhenused="false" name="Medium Shading 2 Accent 1" />   <w:lsdexception locked="false" priority="65" semihidden="false" unhidewhenused="false" name="Medium List 1 Accent 1" />   <w:lsdexception locked="false" unhidewhenused="false" name="Revision" />   <w:lsdexception locked="false" priority="34" semihidden="false" unhidewhenused="false" qformat="true" name="List Paragraph" />   <w:lsdexception locked="false" priority="29" semihidden="false" unhidewhenused="false" qformat="true" name="Quote" />   <w:lsdexception locked="false" priority="30" semihidden="false" unhidewhenused="false" qformat="true" name="Intense Quote" />   <w:lsdexception locked="false" priority="66" semihidden="false" unhidewhenused="false" name="Medium List 2 Accent 1" />   <w:lsdexception locked="false" priority="67" semihidden="false" unhidewhenused="false" name="Medium Grid 1 Accent 1" />   <w:lsdexception locked="false" priority="68" semihidden="false" unhidewhenused="false" name="Medium Grid 2 Accent 1" />   <w:lsdexception locked="false" priority="69" semihidden="false" unhidewhenused="false" name="Medium Grid 3 Accent 1" />   <w:lsdexception locked="false" priority="70" semihidden="false" unhidewhenused="false" name="Dark List Accent 1" />   <w:lsdexception locked="false" priority="71" semihidden="false" unhidewhenused="false" name="Colorful Shading Accent 1" />   <w:lsdexception locked="false" priority="72" semihidden="false" unhidewhenused="false" name="Colorful List Accent 1" />   <w:lsdexception locked="false" priority="73" semihidden="false" unhidewhenused="false" name="Colorful Grid Accent 1" />   <w:lsdexception locked="false" priority="60" semihidden="false" unhidewhenused="false" name="Light Shading Accent 2" />   <w:lsdexception locked="false" priority="61" semihidden="false" unhidewhenused="false" name="Light List Accent 2" />   <w:lsdexception locked="false" priority="62" semihidden="false" unhidewhenused="false" name="Light Grid Accent 2" />   <w:lsdexception locked="false" priority="63" semihidden="false" unhidewhenused="false" name="Medium Shading 1 Accent 2" />   <w:lsdexception locked="false" priority="64" semihidden="false" unhidewhenused="false" name="Medium Shading 2 Accent 2" />   <w:lsdexception locked="false" priority="65" semihidden="false" unhidewhenused="false" name="Medium List 1 Accent 2" />   <w:lsdexception locked="false" priority="66" semihidden="false" unhidewhenused="false" name="Medium List 2 Accent 2" />   <w:lsdexception locked="false" priority="67" semihidden="false" unhidewhenused="false" name="Medium Grid 1 Accent 2" />   <w:lsdexception locked="false" priority="68" semihidden="false" unhidewhenused="false" name="Medium Grid 2 Accent 2" />   <w:lsdexception locked="false" priority="69" semihidden="false" unhidewhenused="false" name="Medium Grid 3 Accent 2" />   <w:lsdexception locked="false" priority="70" semihidden="false" unhidewhenused="false" name="Dark List Accent 2" />   <w:lsdexception locked="false" priority="71" semihidden="false" unhidewhenused="false" name="Colorful Shading Accent 2" />   <w:lsdexception locked="false" priority="72" semihidden="false" unhidewhenused="false" name="Colorful List Accent 2" />   <w:lsdexception locked="false" priority="73" semihidden="false" unhidewhenused="false" name="Colorful Grid Accent 2" />   <w:lsdexception locked="false" priority="60" semihidden="false" unhidewhenused="false" name="Light Shading Accent 3" />   <w:lsdexception locked="false" priority="61" semihidden="false" unhidewhenused="false" name="Light List Accent 3" />   <w:lsdexception locked="false" priority="62" semihidden="false" unhidewhenused="false" name="Light Grid Accent 3" />   <w:lsdexception locked="false" priority="63" semihidden="false" unhidewhenused="false" name="Medium Shading 1 Accent 3" />   <w:lsdexception locked="false" priority="64" semihidden="false" unhidewhenused="false" name="Medium Shading 2 Accent 3" />   <w:lsdexception locked="false" priority="65" semihidden="false" unhidewhenused="false" name="Medium List 1 Accent 3" />   <w:lsdexception locked="false" priority="66" semihidden="false" unhidewhenused="false" name="Medium List 2 Accent 3" />   <w:lsdexception locked="false" priority="67" semihidden="false" unhidewhenused="false" name="Medium Grid 1 Accent 3" />   <w:lsdexception locked="false" priority="68" semihidden="false" unhidewhenused="false" name="Medium Grid 2 Accent 3" />   <w:lsdexception locked="false" priority="69" semihidden="false" unhidewhenused="false" name="Medium Grid 3 Accent 3" />   <w:lsdexception locked="false" priority="70" semihidden="false" unhidewhenused="false" name="Dark List Accent 3" />   <w:lsdexception locked="false" priority="71" semihidden="false" unhidewhenused="false" name="Colorful Shading Accent 3" />   <w:lsdexception locked="false" priority="72" semihidden="false" unhidewhenused="false" name="Colorful List Accent 3" />   <w:lsdexception locked="false" priority="73" semihidden="false" unhidewhenused="false" name="Colorful Grid Accent 3" />   <w:lsdexception locked="false" priority="60" semihidden="false" unhidewhenused="false" name="Light Shading Accent 4" />   <w:lsdexception locked="false" priority="61" semihidden="false" unhidewhenused="false" name="Light List Accent 4" />   <w:lsdexception locked="false" priority="62" semihidden="false" unhidewhenused="false" name="Light Grid Accent 4" />   <w:lsdexception locked="false" priority="63" semihidden="false" unhidewhenused="false" name="Medium Shading 1 Accent 4" />   <w:lsdexception locked="false" priority="64" semihidden="false" unhidewhenused="false" name="Medium Shading 2 Accent 4" />   <w:lsdexception locked="false" priority="65" semihidden="false" unhidewhenused="false" name="Medium List 1 Accent 4" />   <w:lsdexception locked="false" priority="66" semihidden="false" unhidewhenused="false" name="Medium List 2 Accent 4" />   <w:lsdexception locked="false" priority="67" semihidden="false" unhidewhenused="false" name="Medium Grid 1 Accent 4" />   <w:lsdexception locked="false" priority="68" semihidden="false" unhidewhenused="false" name="Medium Grid 2 Accent 4" />   <w:lsdexception locked="false" priority="69" semihidden="false" unhidewhenused="false" name="Medium Grid 3 Accent 4" />   <w:lsdexception locked="false" priority="70" semihidden="false" unhidewhenused="false" name="Dark List Accent 4" />   <w:lsdexception locked="false" priority="71" semihidden="false" unhidewhenused="false" name="Colorful Shading Accent 4" />   <w:lsdexception locked="false" priority="72" semihidden="false" unhidewhenused="false" name="Colorful List Accent 4" />   <w:lsdexception locked="false" priority="73" semihidden="false" unhidewhenused="false" name="Colorful Grid Accent 4" />   <w:lsdexception locked="false" priority="60" semihidden="false" unhidewhenused="false" name="Light Shading Accent 5" />   <w:lsdexception locked="false" priority="61" semihidden="false" unhidewhenused="false" name="Light List Accent 5" />   <w:lsdexception locked="false" priority="62" semihidden="false" unhidewhenused="false" name="Light Grid Accent 5" />   <w:lsdexception locked="false" priority="63" semihidden="false" unhidewhenused="false" name="Medium Shading 1 Accent 5" />   <w:lsdexception locked="false" priority="64" semihidden="false" unhidewhenused="false" name="Medium Shading 2 Accent 5" />   <w:lsdexception locked="false" priority="65" semihidden="false" unhidewhenused="false" name="Medium List 1 Accent 5" />   <w:lsdexception locked="false" priority="66" semihidden="false" unhidewhenused="false" name="Medium List 2 Accent 5" />   <w:lsdexception locked="false" priority="67" semihidden="false" unhidewhenused="false" name="Medium Grid 1 Accent 5" />   <w:lsdexception locked="false" priority="68" semihidden="false" unhidewhenused="false" name="Medium Grid 2 Accent 5" />   <w:lsdexception locked="false" priority="69" semihidden="false" unhidewhenused="false" name="Medium Grid 3 Accent 5" />   <w:lsdexception locked="false" priority="70" semihidden="false" unhidewhenused="false" name="Dark List Accent 5" />   <w:lsdexception locked="false" priority="71" semihidden="false" unhidewhenused="false" name="Colorful Shading Accent 5" />   <w:lsdexception locked="false" priority="72" semihidden="false" unhidewhenused="false" name="Colorful List Accent 5" />   <w:lsdexception locked="false" priority="73" semihidden="false" unhidewhenused="false" name="Colorful Grid Accent 5" />   <w:lsdexception locked="false" priority="60" semihidden="false" unhidewhenused="false" name="Light Shading Accent 6" />   <w:lsdexception locked="false" priority="61" semihidden="false" unhidewhenused="false" name="Light List Accent 6" />   <w:lsdexception locked="false" priority="62" semihidden="false" unhidewhenused="false" name="Light Grid Accent 6" />   <w:lsdexception locked="false" priority="63" semihidden="false" unhidewhenused="false" name="Medium Shading 1 Accent 6" />   <w:lsdexception locked="false" priority="64" semihidden="false" unhidewhenused="false" name="Medium Shading 2 Accent 6" />   <w:lsdexception locked="false" priority="65" semihidden="false" unhidewhenused="false" name="Medium List 1 Accent 6" />   <w:lsdexception locked="false" priority="66" semihidden="false" unhidewhenused="false" name="Medium List 2 Accent 6" />   <w:lsdexception locked="false" priority="67" semihidden="false" unhidewhenused="false" name="Medium Grid 1 Accent 6" />   <w:lsdexception locked="false" priority="68" semihidden="false" unhidewhenused="false" name="Medium Grid 2 Accent 6" />   <w:lsdexception locked="false" priority="69" semihidden="false" unhidewhenused="false" name="Medium Grid 3 Accent 6" />   <w:lsdexception locked="false" priority="70" semihidden="false" unhidewhenused="false" name="Dark List Accent 6" />   <w:lsdexception locked="false" priority="71" semihidden="false" unhidewhenused="false" name="Colorful Shading Accent 6" />   <w:lsdexception locked="false" priority="72" semihidden="false" unhidewhenused="false" name="Colorful List Accent 6" />   <w:lsdexception locked="false" priority="73" semihidden="false" unhidewhenused="false" name="Colorful Grid Accent 6" />   <w:lsdexception locked="false" priority="19" semihidden="false" unhidewhenused="false" qformat="true" name="Subtle Emphasis" />   <w:lsdexception locked="false" priority="21" semihidden="false" unhidewhenused="false" qformat="true" name="Intense Emphasis" />   <w:lsdexception locked="false" priority="31" semihidden="false" unhidewhenused="false" qformat="true" name="Subtle Reference" />   <w:lsdexception locked="false" priority="32" semihidden="false" unhidewhenused="false" qformat="true" name="Intense Reference" />   <w:lsdexception locked="false" priority="33" semihidden="false" unhidewhenused="false" qformat="true" name="Book Title" />   <w:lsdexception locked="false" priority="37" name="Bibliography" />   <w:lsdexception locked="false" priority="39" qformat="true" name="TOC Heading" />  </w:latentstyles> </xml><![endif]--><!--[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -248,7 +287,7 @@ the privacy of your information on the internet and your own personal privacy.
 To better help you understand how we collect, use, and protect the information
 you give to us, please read the following Privacy Policy.</span></p>
 <span style="font-size:12px;font-family:Verdana;"> </span><p class="MsoNoSpacing"><span style="font-size:12px;font-family:Verdana;" lang="EN-US">&nbsp;</span></p>
-<span style="font-size:12px;font-family:Verdana;"> </span><p class="MsoNoSpacing" style="margin-left:18.0pt;text-indent:-18.0pt;mso-list: l0 level1 lfo1"><b style="mso-bidi-font-weight:normal;"><span style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;" lang="EN-US"><span style="font-size:12px;font-family:Verdana;">1.<span style="font:12px Verdana;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span></b><b style="mso-bidi-font-weight:normal;"><span style="font-size:12px;font-family:Verdana;" lang="EN-US">What information we gather</span></b></p>
+<span style="font-size:12px;font-family:Verdana;"> </span><p class="MsoNoSpacing" style="margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo1;"><b style="mso-bidi-font-weight:normal;"><span style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;" lang="EN-US"><span style="font-size:12px;font-family:Verdana;">1.<span style="font:12px Verdana;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span></b><b style="mso-bidi-font-weight:normal;"><span style="font-size:12px;font-family:Verdana;" lang="EN-US">What information we gather</span></b></p>
 <span style="font-size:12px;font-family:Verdana;"> </span><p class="MsoNoSpacing"><span style="font-size:12px;font-family:Verdana;" lang="EN-US">&nbsp;We gather personal information
 from all registering members. We will request your email address when
 registering for your account safety concern. Besides, gender, birthday, country
@@ -276,7 +315,7 @@ company or the site; (b) protect and defend the rights or property of our
 company, including the Yeepgame website; or (c) act under exigent circumstances
 to protect the personal safety of users of Yeepgame, its web sites, or the public.</span></p>
 <span style="font-size:12px;font-family:Verdana;"> </span><p class="MsoNoSpacing"><span style="font-size:12px;font-family:Verdana;" lang="EN-US">&nbsp;</span></p>
-<span style="font-size:12px;font-family:Verdana;"> </span><p class="MsoNoSpacing"><b style="mso-bidi-font-weight:normal;"><span style="font-size:12px;font-family:Verdana;" lang="EN-US">3.</span></b><span style="font-size:12px;font-family:Verdana;" lang="EN-US"><span style="font-size:12px;font-family:Verdana;">&nbsp;</span><b style="mso-bidi-font-weight:normal;"><span style="font-size:12px;font-family:Verdana;">Use of Cookies</span></b><br>
+<span style="font-size:12px;font-family:Verdana;"> </span><p class="MsoNoSpacing"><b style="mso-bidi-font-weight:normal;"><span style="font-size:12px;font-family:Verdana;" lang="EN-US">3.</span></b><span style="font-size:12px;font-family:Verdana;" lang="EN-US"><span style="font-size:12px;font-family:Verdana;"> </span><b style="mso-bidi-font-weight:normal;"><span style="font-size:12px;font-family:Verdana;">Use Google Cookies</span></b><br>
 A cookie is a text file that is placed on your hard disk by a Web page server.
 Cookies cannot be used to run programs or deliver viruses to your computer.
 Cookies are uniquely assigned to you, and can only be read by a web server in
@@ -372,33 +411,23 @@ Customer Support - <a href="mailto:service@seasonmall.com"><span style="color:#3
         </ul>
         <div style="text-align:center;">
         	<p style="padding:20px 0px;">
-            	<a href="http://www.gamewave.net/"><img src="http://static.yeepgame.com/images/logo.jpg"></a>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="http://www.yeepgame.com/"><img src="http://static.yeepgame.com/images/logo1.png"></a>
+            	
             </p>	
-            <p style="color:#515151;">Copyright 2011-2013 yeepgame.com, all rights reserved.</p>
+            <p style="color:#515151;">Copyright 2011-2014 yeepgame.com, all rights reserved.</p>
         </div>
     </div>	
 </div><!--尾部 end-->
-<script type="text/javascript" src="http://static.yeepgame.com/js/pageclick.js?version=JS_CACHE_VERSION"></script>
+
 <script type="text/javascript">
-pageView.domain   = 'http://www.yeepgame.com/';
-pageView.pageurl   = window.location;
-pageView.soururl   = document.referrer;
-pageView.pagetitle = 'Privacy Policy-Yeepgame.com-Play free online game; build your own kingdom in Yeepgame!';
-pageView.pageRedirect();
-</script>	<script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-23262062-1']);
   _gaq.push(['_setDomainName', '.yeepgame.com']);
   _gaq.push(['_trackPageview']);
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>	
-
 
 </body></html>
