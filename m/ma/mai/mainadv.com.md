@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mainadv.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214100941id_/http%3A//mainadv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainadv.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082511id_/http%3A//www.mainadv.com/privacy.php) for the most accurate reproduction.*
 
-# Main ADV
+# mainADV
 
-**MainADV SRL** is firmly committed to protect the privacy of Internet users as well as to foster user confidence in the Internet, online advertising and direct marketing. 
+**mainADV SRL** is firmly committed to protect the privacy of Internet users as well as to foster user confidence in the Internet, online advertising and direct marketing. 
 
 We continuously evaluate innovative ways to protect online user privacy while also offering our clients the ability to own and use information regarding interactions with their customers. 
 
@@ -43,7 +43,7 @@ We believe that the use of these tools enable us and our advertiser clients to p
 
 You may at all times adjust your computer's web browser settings to refuse all cookies, but by doing so you may not be able to use certain features on the websites you visit nor take full advantage of all the website offerings and interest-based advertising. You can remove cookies by following directions provided in your Internet browser's "help" file. 
 
-You may also simply opt out to receive interest-based advertising by [**clicking here**](https://web.archive.org/web/20131214100941id_/http%3A//mainadv.com/privacy.php?del=1). 
+You may also simply opt out to receive interest-based advertising by [**clicking here**](https://web.archive.org/web/20140625082511id_/http%3A//www.mainadv.com/privacy.php?del=1). 
 
 Our opt-out cookies are programmed to expire ten years after they are initially issued. If you buy a new computer, upgrade or change Web browsers or delete this "opt-out" cookie, you will need to perform this opt-out process again. In order for the opt-out to work, your browser must be set to accept third party cookies. Opting out does not necessarily delete or replace all cookies from our domain. 
 
@@ -73,4 +73,4 @@ We do not intentionally send unsolicited e-mail messages that could be construed
 In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all data (including any personally identifiable information a user may have provided through the "Contact us" page) that is in our possession or under our control to such acquiring party. 
 
 **\- Questions or Comments about this Privacy Policy**  
-If you have questions or concerns regarding this statement, you should first contact us through email. You can address your general questions and comments by e-mail to **info@mainadv.com** or by mail: **mainADV SRL, Via Nicola Fabrizi, n°38, 65126 Pescara, Italy Attn: Legal Department**. 
+If you have questions or concerns regarding this statement, you should first contact us through email. You can address your general questions and comments by e-mail to **info@mainADV.com** or by mail: **mainADV SRL, piazza Alessandrini, n°25, 65127 Pescara, Italy Attn: Legal Department**. 
