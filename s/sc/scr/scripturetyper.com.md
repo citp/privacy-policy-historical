@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripturetyper.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115131316id_/http%3A//scripturetyper.com/TermsAndPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripturetyper.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120055id_/http%3A//scripturetyper.com/TermsAndPrivacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -23,7 +23,7 @@ Scripture Typer makes use of email to contact members in certain situations.  M
 
 Review is essential for successful scripture memorization, and all members will by default receive a weekly email detailing their memorization progress.  The frequency of this review can be changed or turned off from the User Profile page.  The options are Weekly Review, Daily Review and Do Not Review.  Select 'Do Not Review' to stop receiving all review reminders. 
 
-Bugs do arise from time to time, and we may need to contact you if your account is effected in some way.  If you prefer not to be contacted, just deselect the option to be notified of important account updates on your user profile page.
+Bugs do arise from time to time, and we may need to contact you if your account is affected in some way.  If you prefer not to be contacted, just deselect the option to be notified of important account updates on your user profile page.
 
 ## 4\. Securing your information
 
