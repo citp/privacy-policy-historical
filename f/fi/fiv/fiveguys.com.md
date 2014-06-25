@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fiveguys.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013211109id_/http%3A//www.fiveguys.com/contact-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiveguys.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044509id_/http%3A//www.fiveguys.com/contact-us/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Five Guys Burgers and Fries
+# Privacy Policy| Five Guys Burgers and Fries
 
 Five Guys ("us" or "we") respects the privacy of visitors to our Sites and registrants of our Services. This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information you submit to use through our Sites.
 
@@ -67,8 +67,7 @@ You may contact the Privacy Officer to access, correct or delete your Personal I
 If you have any questions or complaints, please contact the Privacy Officer. The Privacy Officer can be reached by email at [websupport@fiveguys.com](mailto:websupport@fiveguys.com); or by mail at:
 
 Five Guys Enterprises, LLC  
-10440 Furnace Road  
-Suite 205  
+10718 Richmond Highway  
 Lorton, VA 22079 USA  
 Attn: Privacy Officer
 
