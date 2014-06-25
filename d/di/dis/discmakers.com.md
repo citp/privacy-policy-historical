@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discmakers.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028024830id_/http%3A//www.discmakers.com/community/about/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discmakers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625163848id_/http%3A//www.discmakers.com/community/about/Privacy.asp) for the most accurate reproduction.*
 
 # Disc Makers Privacy Policy
 
@@ -34,3 +34,7 @@ Disc Makers takes appropriate steps to communicate our privacy policy and guidel
 Disc Makers' privacy policy is subject to change at any time. Disc Makers will provide notice 30 days prior to implementing any major changes to our privacy policy. 
 
 If you have any question specific to privacy, please contact us at [privacy@discmakers.com.](mailto:privacy@discmakers.com)
+
+Backstage Emails 
+
+All Backstage deals, discounts, and giveaways are provided at the sole discretion of the advertising partner. Disc Makers, and its parent company, AVL Digital Group, is not responsible for fulfillment of any products, services, or advertised offers provided by the advertising partners. All customer service inquiries will be handled by the advertising partner. All Backstage offers are valid for a period of 7 days, and are advertised as such. 
