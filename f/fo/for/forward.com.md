@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forward.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021164656id_/http%3A//forward.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forward.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120020id_/http%3A//forward.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Forward.com
 
@@ -8,8 +8,8 @@ This privacy policy sets out how the Forward uses and protects any information t
 
 While use of this site does not require submitting any personal information, you may submit some information when subscribing to some of our services. We may collect the following information such as:
 
-  * Contact information including email address
-  * Demographic information such as State and country
+  * Contact information including email address.
+  * Geographic information such as your state, country and postal code.
 
 
 
@@ -27,6 +27,8 @@ We require this information to understand your needs and provide you with a bett
 
 ### How we use cookies
 
-We may use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to our reader's needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+We may use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website, tailoring it to our readers' needs and interests.
+
+We also use Google Analytics and the DoubleClick cookie to collect traffic data, including aggregate statistics regarding the age, gender, location and interests of our users. We and third-party vendors, including Google, may use cookies to optimize and serve ads based on your past visits, but will not match or merge this data with any of your personally-identifiable information.
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
