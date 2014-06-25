@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soft4boost.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208192724id_/http%3A//soft4boost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft4boost.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133752id_/http%3A//soft4boost.com/privacy) for the most accurate reproduction.*
 
-# Soft4Boost - Privacy
+# Soft4Boost - system utilities, audio, video, image and burning software.
 
 [Soft4Boost.com](https://web.archive.org/) respects the privacy of all its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains Soft4Boost.com treatment of your personally identifiable information collected in connection with your activities on the Soft4Boost.com web site.
 
