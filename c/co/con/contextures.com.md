@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contextures.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109013700id_/http%3A//www.contextures.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contextures.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085316id_/http%3A//contextures.com/privacy.html) for the most accurate reproduction.*
 
 # Contextures Privacy Policy
 
@@ -17,3 +17,5 @@ These advertisers may use cookies which are collected by the advertising compani
 If you have any questions or concerns please contact me at ddalgleish@contextures.com 
 
 Privacy policy dated April 2009.
+
+**Affiliate Disclosure** : Contextures is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. 
