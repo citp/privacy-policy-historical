@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828064243id_/http%3A//www.cyberguys.com/company-information/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054726id_/http%3A//www.cyberguys.com/company-information/Privacy.aspx) for the most accurate reproduction.*
 
 # Cyberguys.com - Privacy Policy
 
 |  |  |   
 ---  
-| [](http://www.cyberguys.com/ "Continue Shopping") |  |   
+| [](http://cyberguys.com/product-listings/?categoryid=1223 "Continue Shopping") |  |   
 ---|---|---  
   
 | 
@@ -48,7 +48,7 @@ We take privacy and security matters very seriously and it is important to us th
   
 | 1. | For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).  
 ---|---  
-2. | We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit.  
+2. | We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages a consumer accessed or visited, user-specific information on what pages a consumer accessed or visited.  
 3. | We also collect usage information from you when you visit our web site. Web site usage information is not personally identifiable information. It describes how our web site is used and navigated, including the number and frequency of visitors to each web page and the length of their stay. Website usage information also includes the domain names of browsers that visit our website, time of day the web site was visited and other non-personally identifiable information.  
 4. | With respect to cookies: We set cookies to remember personal preferences only. No information is stored that would be considered personal or private.  
 5. | If you do not want to receive e-mail from us in the future, please let us know by contacting us by one of the means above.  
