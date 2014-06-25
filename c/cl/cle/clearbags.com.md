@@ -1,17 +1,37 @@
-> *The following text is extracted and transformed from the clearbags.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210190827id_/http%3A//www.clearbags.com%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearbags.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051119id_/http%3A//www.clearbags.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# ClearBags Online Privacy Policy
 
-### Privacy Policy
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-[ClearBags.com](http://www.clearbags.com/) is an online catalog and order processing tool that was designed and developed for Clear Image, Inc. dba Impact Images, Inc. by [4HTML](http://www.4html.com/). This privacy policy applies to all customers and any other parties with respect to information that is gathered throughout this Web site. Information that is collected is intended for the sole purpose of conducting legal business practices including all aspects of order fulfillment and customer service inquiries between the visitor and Impact Images. 
+Any of the information we collect from you may be used in one of the following ways: ; To personalize your experience (your information helps us to better respond to your individual needs) ; To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you) ; To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs) ; To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. ; To send periodic emails The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, We include unsubscribe instructions at the bottom of each email. You may also contact our Customer Service Department to remove, or adjust, email and/or settings.
 
-**Impact Images, Inc. does not sell or share any of your personal information without your authorization.** When contacting Impact Images, they reserve the right to contact you directly for their order fulfillment requirements and information about their products and services only. None of the information will be used or given to any other parties unless specifically requested by the visitor to do so. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, financials, etc.) will be kept on file for more than 60 days in order to offer you more timely and accurate service. 
 
-### Our Commitment to Your Security
+Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to help us remember and process the items in your shopping cart. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have implemented physical, electronic, and managerial procedures to safeguard and secure the information we collect. This site uses up to 256bit SSL (Secure Socket Layer) encryption to secure sensitive information. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-### How to Contact Us
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Should you have any further questions or concerns about our privacy policy, please feel free to [contact us](https://web.archive.org/?contact_us). 
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at any time by contacting our customer service representatives at CA - 800.233.2630; TN - 800.328.1847 or sales@clearbags.com. 
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.clearbags.com/faqs>.
+
+By using our site, you consent to our websites privacy policy.
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below. This policy was last modified on 3/5/2014. 
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+www.ClearBags.com  
+4949 Windplay Drive Ste. 100  
+El Dorado Hills, California 95762 U.S.A  
+
+
+Email: sales@clearbags.com or marketing@clearbags.com  
+West - 800.233.2630; East - 800.328.1847
