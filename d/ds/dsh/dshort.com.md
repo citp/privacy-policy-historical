@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the dshort.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104020248id_/http%3A//advisorperspectives.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dshort.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064432id_/http%3A//advisorperspectives.com/privacy.php) for the most accurate reproduction.*
 
 # Advisor Perspectives
-
-### **Privacy Policy**
 
 This is the web site of **Advisor Perspectives, Inc.**.
 
 Our postal address is:  
-**Box 380  
-Lexington, MA 02420**
 
-We can be reached via e-mail at [info@advisorperspectives.com](mailto:info@advisorperspectives.com)  
-or you can reach us by telephone at 781-376-0050
+
+Box 380  
+Lexington, MA 02420 
+
+We can be reached via e-mail at or you can reach us by telephone at 781-376-0050
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
