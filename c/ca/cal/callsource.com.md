@@ -1,16 +1,30 @@
-> *The following text is extracted and transformed from the callsource.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231170551id_/http%3A//www.callsource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callsource.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001442id_/http%3A//www.callsource.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CallSource
 
+### CallSource Privacy Policy
+
+Effective Date: January 1, 2014
+
 We are committed to protecting online user privacy. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below.
 
-This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. Capitalized terms shall have the meaning designated in the CallSource Networks Terms of Service located at http://www.callsource.com/legal/terms.php, unless specifically defined in this Privacy Policy. All references herein to "we" or "us" refer to CallSource® ("CallSource"). All references to the "site" refer to our website located at http://www.callsource.com/.
+This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. Capitalized terms shall have the meaning designated in the CallSource Networks Terms of Service located at http://www.callsource.com/legal/terms.php, unless specifically defined in this Privacy Policy. All references herein to "we" or "us" refer to CallSource® ("CallSource"). All references to the "site" refer to our website located at <http://www.callsource.com/>. All references to the “service” refer to our platforms: CallTrack® and Results®.
 
 ### Children's Privacy Policy
 
 Our Site is not directed towards children 13 years of age or under and we do not knowingly collect any information from children 13 years of age or under through the Site.
 
-## What We Collect and How We Use It
+### What We Collect and How We Use It
+
+#### Information Related to Data Collected for our Clients When We are Operating as a Data Processor
+
+CallSource collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes.
+
+We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly. 
+
+CallSource may transfer personal information to companies that help us provide our service. Transfers to these third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
+
+CallSource has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the CallSource’s Client (the data controller). If the Client requests CallSource to remove the data, we will respond to their request within 30 business days.
 
 ### Personally Identifiable Information
 
@@ -57,20 +71,20 @@ We may ask for demographic or profile (age, gender, household, interests, etc.) 
 
 ### Security, Opting Out, and Access to Information
 
-CallSource uses commercially reasonable efforts to keep personally identifiable information secure. Only authorized CallSource employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information and only to help CallSource administer its promotional programs and the site.
+CallSource uses commercially reasonable efforts to keep personally identifiable information secure. When you enter sensitive information (such as billing information or login credentials) within our platform, we encrypt the transmission of that information using secure socket layer technology (SSL).  Only authorized CallSource employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information and only to help CallSource administer its promotional programs and the site. If you have any questions regarding security you can contact us at http://www.callsource.com/home/contact/.
 
-If you have signed up to participate in our partner programs or receive newsletters and email from us, we will make every effort to have all such communications allow you to opt-out of further such communications. To otherwise unsubscribe from our mailing list(s) or opt-out of receiving communications from CallSource, you can always email us at http://www.callsource.com/about/more_info.php.
+If you have signed up to participate in our partner programs or receive newsletters and email from us, we will make every effort to have all such communications allow you to opt-out of further such communications. To otherwise unsubscribe from our mailing list(s) or opt-out of receiving communications from CallSource, you can always follow the unsubscribe instructions contained in the emails you receive or email us at http://www.callsource.com/home/contact. If you have provided us with your consent to share your personal information with our third party partners and wish to have your information no longer used you may notify us via email to marketingdepartment@callsource.com.
 
-If enabled on the site, you may visit your account settings page to delete your account and/or information. You can also contact us at http://www.callsource.com/about/more_info.php to request deletion of your account and/or information. Please note that any information that we have may remain in back-up storage for some period of time after your deletion request. This may be the case even though no information about your account remains in our active user databases. Also please note that log files are not affected by account deletion requests.
+If enabled on the site, you may visit your account settings page to delete your account and/or information. You can also contact us at http://www.callsource.com/about/more_info.php to access your information, amend any inaccuracies or request deletion of your account and/or information. Please note that any information that we have from your or that we process on your behalf may remain in back-up storage for some period of time after your deletion request. This may be the case even though no information about your account remains in our active user databases. Also please note that log files are not affected by account deletion requests.
 
 ### General
 
 Third party Internet sites accessible through hyperlinks from this site have their own privacy practices, and CallSource has no responsibility or liability for these independent practices. Please review their privacy practices for yourself.
 
-We reserve the right to amend this Privacy Policy periodically. Any amendments made to this Privacy Policy will be considered effective ten (10) days after the amendments are posted on the site.
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 ### Contact Information
 
 If you have any questions about our services or Privacy Policy, please contact CallSource 31280 Oak Crest Drive, Suite 3 Westlake Village, CA 91361
 
-You may also email http://www.callsource.com/about/more_info.php with questions about our Privacy Policy or with questions about our services.
+You may also email http://www.callsource.com/home/contact/ with questions about our Privacy Policy or with questions about our services.
