@@ -1,23 +1,25 @@
-<!--The following is the downloaded HTML source of the apliiq.com privacy policy that was archived on 2013-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131114133559id_/http%3A//www.apliiq.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apliiq.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626015413id_/http%3A//www.apliiq.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js no-flexbox flexbox-legacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
-    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=194710450639671"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>
+    <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=194710450639671"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>
         _udn = "apliiq.com";
         _utcp = "/";
     </script>
     <meta charset="utf-8">
     <meta http-equiv="cleartype" content="on">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable = no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable = no, minimal-ui">
     <title>Privacy Policy</title> 
     <meta name="description" content="Apliiq - created with love in Los Angeles">
     <meta name="keywords" content="Apliiq - created with love in Los Angeles">
     <meta property="og:image" content="">
-    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
-    <link href="/Bundles/AppStyle?v=n0eGAnh7hA4mZo0xphuMCg9fcNt8f_bX7xj9RcMzwhg1" rel="stylesheet" type="text/css">
+    <link href="/favicon.ico?v=3" rel="shortcut icon" type="image/x-icon">     
+	<link href="http://fonts.googleapis.com/css?family=Questrial" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet" type="text/css">
+    <link href="/Bundles/AppStyle?v=tzxsP_kxm-wjsqDQqG1okyEMCwWLsL-e-cdEGD0-g_E1" rel="stylesheet" type="text/css">
 
      
-    <script src="/Bundles/HeaderScript?v=rGcoDow97GYrNMSwHq7xCCjlcB3UIY4_OhPRc6BBSQA1" type="text/javascript"></script>
+    <script src="/Bundles/HeaderScript?v=CErqcI_zKv5THOIJJO7jlKbJGzGdw49lijIe08N5iRM1" type="text/javascript"></script>
 
    
     <script type="text/javascript">
@@ -33,63 +35,97 @@
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     </script>    
+    
+		
 </head>
 <body class="PageController">
-    
    <div id="fb-root"></div>
     <script>(function (d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
+    js = d.createElement(s); js.id = id;js.async = true;
     js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=194710450639671";
     fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));        
 </script>
-    <header>
+    <section id="modal" data-bind="visible: master.showModal">
+    </section>
+    <header data-bind="{vslideVisible: animateControl.ctrlToShow}" class="onPageRender">
+	<div class="phoneWrap">
+		<div style="floa:right; text-align:right;" class="mobilePhone">the #fabriclove line; give us a call, we don't bite: 1-213-253-2727</div>
+	</div>
         <div id="header-wrapper" class="container">
-            <a class="HomeButtonNav" href="/">
-                <img id="header-logo" src="/Images/Header/logo-full.png" alt="apliiq"></a>
-            <nav class="left-nav">
-                <ul class="horizontal">
-                    <li>
-                        <span class="clickable " data-bind="{ click: master.selectCategory }">shop </span><span id="shop-dropdown" data-bind="{ click: master.selectCategory }">&nbsp;</span>
-                        <menu id="select-category" class="dropdown-menu" data-bind="visible: master.showCategoryDropdown" style="display: none;">
-                                <ul>
-                                    <li><a href="/Shop/Mens/All/80/1">mens</a></li>
-                                    <li><a href="/Shop/Womens/All/80/1">womens</a></li>
-                                    <li><a href="/Shop/Kids/All/80/1">kids &amp; babies</a></li>
-                                    <li><a href="/Shop/Accessories/All/80/1">accessories</a></li>
-                                    <li><a href="/Shop/GiftCards/All/80/1">gift cards</a></li>
-                                </ul>      
+			<div id="show-filters" class="show-filters" data-bind="{click: animateControl.showCtrlAction}">menu</div>
+			
+            <nav style="margin:0;">
+				<a class="HomeButtonNav" href="/"><img id="header-logo" src="/Images/Header/apliiq.png" alt="apliiq"></a>
+			</nav>
+            <nav id="right-nav">
+				 <ul class="horizontal">
+                    
+                    <li class="myApliiq">
+                        <span class="clickable selector-dropdown myapliiq" data-bind="{ click: master.myapliiq }">sign in</span>
+                        <span id="myapliiq-dropdown" data-bind="{ click:  master.myapliiq }">&nbsp;</span>                        
+                        <menu id="myapliiqoptions" class="dropdown-menuitem dropdown-menu" data-bind="visible: master.myapliiqoptions">
+                            <ul>
 
+                                
+                                <li><span style="font-size:16px;" data-bind="click: function() { master.login(function(){master.getun();}); }">saved designs</span></li>
+                                <li><span style="font-size:16px;" data-bind="click: function() { master.login(function() { window.location = '//shop.apliiq.com/myapliiq/myorders.aspx'; }) }">orders</span></li>
+                                <li><span style="font-size:16px;" data-bind="click: function() { master.login(function() { window.location = '//shop.apliiq.com/myapliiq/myaccount.aspx'; }) }">account</span></li>
+                                
+                                <li class="newApliiq" data-bind="visible: master.isAuthenticated() == false"><span class="clickable"><button data-bind="click: function() { window.location='/site/signup' }">sign up</button></span></li>
+                                                                <li class="nonAuth" data-bind="visible: master.isAuthenticated() == false"><span class="buttonGray" style="font-size:16px;" data-bind="click: function() { master.login(function(){master.getun();}) }">login</span></li>
+                                <li data-bind="visible: master.isAuthenticated"><a href="/Account/LogOff" class="selected">logout</a></li>
+                               
+                            </ul>
                         </menu>
                     </li>
-					<li class="newsLetterListItem"><a class="NewsLetterNav" href="#footer-newsletter">Newsletter</a></li>
-                    <li class="customListItem"><a href="/designyourown/" class="">customize</a></li>
-                    <li class="fabricListItem"><a class="" href="/Fabric/All/20/1">fabrics</a></li>
-                    <li class="storyListItem"><a href="/our-story/" class="">our story</a></li>
-                    
-                </ul>
-            </nav>
-            
-            <nav id="right-nav">
-                <ul class="horizontal">
-                    <li><span class="clickable" style="font-size:13px;" data-bind="click: function() { master.login(function() { window.location = 'http://shop.apliiq.com/myapliiq/mystore.aspx'; }) }">login</span><a class="secondary logout-link clickable" data-bind="visible: master.isAuthenticated" href="/Account/LogOff" style="display: none;">logout</a></li>
-                    <li id="header-cart" data-bind="{ text: master.cartCount, click: master.viewCart }">0</li>
+                    <li id="header-cart" data-bind="{ text: master.cartCount, click: master.viewCart }"></li>
                 </ul>
             </nav>
         </div>
-        <hr style="clear: both;">
-        <div id="submenu" class="container clearfix">
-              
-            <nav class="left-nav submenu">
-                
-            </nav>          
-        </div>
+        <hr style="clear: both;">        
     </header>
-	<div class="scrollWrap">
-    <section id="main-content">
-        
+    <section id="filterMenu" class="filterWrap onPageRender" data-bind="{filterVslideVisible: animateControl.ctrlToShow}">
+       <div id="submenu">
+			<div class="product-filters">
+					<menu>
+						<ul>
+							<li>
+								<a href="/" class="homeIcon">home</a>
+							</li>
+						</ul>
+					</menu>
+					<menu>
+					<span class="category">designs</span>
+					<ul>
+						<li><a class="designyourownIcon " href="/designyourown/">design your own</a></li>
+						<li><a class="communityIcon " href="/custom/all/All/20/1">community designs</a></li>
+						<li><a class="featuredIcon " href="/new-releases/all/All/20/1">apliiq designs</a></li>
+												
+					</ul>
+				</menu>
+					<menu id="shopcategoryoptions">
+						<span class="category">gender</span>
+                                <ul>
+                                    <li><a class="" href="/custom/Mens/All/20/1">mens</a></li>
+                                    <li><a class="" href="/custom/Womens/All/20/1">womens</a></li>
+                                    <li><a class="" href="/custom/Kids/All/20/1">kids &amp; babies</a></li>                                    
+                                   
+                                </ul>      
+
+                    </menu>				
+				  
+				</div>
+			<nav class="">
+				
+			</nav>          
+		</div>
+    </section>
+    <section class="mainContainer">
+        <section id="main-content" class="onPageRender" data-bind="{vslideVisible: animateControl.ctrlToShow}">
+            
 
 <script src="http://www.apliiq.com/CommonLib/lib/INC_jsFields.js"></script>
 
@@ -296,469 +332,88 @@
 
 
 
-<!-- PROD/ASPX 0.031s R: 11/14/2013 5:35:59 AM -->
+<!-- PROD/ASPX 0.015s R: 6/25/2014 6:54:13 PM -->
 
 
 </section>
 
-    </section>
-    <section id="modal" data-bind="visible: master.showModal" style="display: none;">
-    </section>
-    <section class="footer">
-    <div class="container">
-        
-        
-        <p class="footerPlove">
-            created with love in Los Angeles
-        </p>
-        <div class="clearfix">    
-            <section id="footer-left-column">
-                <article class="experience">
-                    <hr>
-                    <h2>experience fabric expression</h2>
-                    <p>It's one of the basic necessities of life, we need it to stay warm and cover our privates, but it so often goes unnoticed, overlooked in a sea of mass produced trends.</p>
-                    <p>Envision a world where fabric tells a story, where it means something special because you chose it, it's your style, it's unique. Join us in making fabric a platform for creativity and expression, revolutionizing consumption one patch at a time. Own what you wear, and be you.</p>
-                </article>
-                <div class="clearfix">
-                    <article class="column">
-                        <hr>
-                        <h2>contact</h2>
-                        <nav>
-                            <ul>
-                                <li><a class="secondary" href="/Contact">contact</a></li>
-                                <li><a class="secondary" href="/our-story">our story</a></li>
-                                <li><a class="secondary" href="/Family">family</a></li>
-                                <li><a class="secondary" href="/Jobs">jobs</a></li>
-                            </ul>
-                        </nav>
-                    </article>
-                    <article class="column">
-                        <hr>
-                        <h2>social</h2>
-                        <nav>
-                            <ul>
-                                <li><a class="secondary" href="http://www.facebook.com/theapliiqpage" target="_blank">facebook</a></li>
-                                <li><a class="secondary" href="http://www.twitter.com/apliiq" target="_blank">twitter</a></li>
-                                <li><a class="secondary" href="http://apliiq.tumblr.com/" target="_blank">tumblr</a></li>
-                                <li><a class="secondary" href="http://pinterest.com/source/shop.apliiq.com/" target="_blank">pinterest</a></li>
-                                <li><a class="secondary" href="http://blog.apliiq.com/site/" target="_blank">blog</a></li>
-                                <li><a class="secondary" href="/Videos" target="_blank">videos</a></li>
-								<li><a class="secondary" href="/clearance">clearance</a></li>
-                                
-                            </ul>
-                        </nav>
-                    </article>
-                    <article class="column">
-                        <hr>
-                        <h2>educate</h2>
-                        <nav>
-                            <ul>
-                                <li><a class="secondary" href="/Faq">faqs</a></li>
-                                <li><a class="secondary" href="/Policies">exchanges/returns</a></li>
-                                <li><a class="secondary" href="/SizeChart">size chart</a></li>
-                                <li><a class="secondary" href="/Testimonials">testimonials</a></li>
-                                <li><a class="secondary" href="/Discounts">discounts</a></li>
-								<li><a class="secondary" href="http://shop.apliiq.com/sell" target="_blank">sell</a></li>
-                            </ul>
-                        </nav>
-                    </article>
-                </div>
-            </section>
-            <section id="footer-right-column">
-                <div class="bg">
-                    <article id="footer-showlove">
-                        <hr>
-                        <h2>show us some love</h2>
-                        <menu>
-                            <ul class="horizontal">
-                                <li><div class="fb-like" data-href="http://www.facebook.com/theapliiqpage" data-width="450" data-colorscheme="dark" data-layout="button_count" data-show-faces="true" data-send="false"></div></li>
-                                <li><a href="https://twitter.com/apliiq" class="twitter-follow-button" data-show-count="false">Follow @apliiq</a>
-                                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li>
-                            </ul>
-                        </menu>
-                    </article>
-                </div>
-                <div class="bg">
-                    <article name="footer-newsletter" id="footer-newsletter" class="">
-                        <hr>
-                        <h2 class="title">email newsletter</h2>
-                        <p id="signupMsg"></p>
-                        <form id="newsletterform" class="footer_newsletterform" method="post" onsubmit="return CheckForm334425(this);">
-                            <input value="" name="Reload" id="Reload" type="hidden">
-                            <input value="" name="MngEmail" id="MngEmail" type="hidden">
-                            <input value="http://sphere.apliiq.com/site/apps/ka/ct/contactus.asp?c=twLZKdN1LvH&amp;b=6301911&amp;en=grJILSNBKfIKKTOGLcLHLWOIIrIZI1NAIgKVK0NDLfIMJ6OUE" name="Caller" id="Caller" type="hidden">
-                            <input value="Contact Us-Mail List" name="Source" id="Source" type="hidden">
-                            <input value="Y" name="Individual" id="Individual" type="hidden">
-                            <input value="" name="LoginID" id="LoginID" type="hidden">
-                            <input value="" name="ActionID" id="ActionID" type="hidden">
-                            <input type="hidden" value="" name="ParticipantSupporterID" id="ParticipantSupporterID">
-                            <input type="hidden" value="" name="CreditTeamID" id="CreditTeamID">
-                            <input value="" name="RelationSupporterID" id="RelationSupporterID" type="hidden">
-                            <input value="" name="volunteerPositionIDList" id="volunteerPositionIDList" type="hidden">
-                            <input value="" name="MarketingSourceID" id="MarketingSourceID" type="hidden">
-                            <input value="Online" name="first_name" id="first_name" type="hidden">
-                            <input value="User" name="last_name" id="last_name" type="hidden">
-                            <input type="text" name="email_address" id="email_address" placeholder="Enter email address" data-bind="value: master.newsLetterEmail">
-                            <button id="submit-newsletter" data-bind="click: master.doNewsLetter">submit</button>
-                        </form>
-                    </article>
-                </div>
-                <div class="down-arrow"></div>
-				<div class="mobileContact">
+        </section>
+        <section class="footer onPageRender" data-bind="{vslideVisible: animateControl.ctrlToShow}">
+	<div class="HomePageContent"></div>
+	<div class="container">
+		<div class="topBlock">
+			<ul class="link column">
+				<li><a href="/our-story">our story</a></li>
+				<li><a href="/Fabric/All/20/1">fabric library</a></li>
+				<li><a href="http://blog.apliiq.com/site/" target="_blank">blog</a></li>
+				<li><a href="/Testimonials">testimonials</a></li>
+				<li><a href="/Contact">contact us</a></li>
+				<li><a href="/Policies">shipping and returns policy</a></li>
+				<li><a href="/Faq">frequently asked questions</a></li>
+				<li><a href="/Jobs">careers</a></li>
+				<li><a href="/wholesale">wholesale</a></li>
+			</ul>
+			<div class="brand column">
+				<a class="badgeWrap" href="/our-story/handmade-by-apliiq">
+					<img class="badge" src="/Images/Home/handcrafted-badge.png">
+				</a>
+			</div>
+			<div class="column">
+				<ul class="social block">
+					<li><a id="tumblr" href="http://apliiq.tumblr.com/" target="_blank">tumblr</a></li>
+					<li><a id="pinterest" href="https://www.pinterest.com/apliiq/" target="_blank">pinterest</a></li>
+					<li><a id="facebook" href="http://www.facebook.com/theapliiqpage" target="_blank">facebook</a></li>
+					<li><a id="youtube" href="https://www.youtube.com/apliiq" target="_blank">youtube</a></li>
+					<li><a id="twitter" href="http://www.twitter.com/apliiq" target="_blank">twitter</a></li>
+					<li><a id="instagram" href="http://www.instagram.com/apliiq" target="_blank">instagram</a></li>
+				</ul>
+				<div class="block">
+					<a class="uspsLogoLink" href="/Policies"><img class="uspsLogoImg" src="/Images/Footer/usps-logo-black.png" alt="We Ship USPS Internationally and To P.O. Box"></a>
+				</div>
+				<div class="block">
+					<div class="paymentLogos"><img class="paymentOptions" src="/Images/Footer/payment-types-black.png" alt="We accept Paypal, Visa, Mastercard, Discover, and AmEx"></div>
+				</div>
+			</div>
+			<div class="mobileContact">
 				<a class="mobilePhone" href="tel:1-213-253-2727">Call Us: 1-213-253-2727</a>
 				<a class="mobileEmail" href="mailto:cs@apliiq.com">Email Us: cs@apliiq.com</a>
-				</div>
-            </section>
-        </div>
-        
-        
-        <section id="footer-branding">
-            <img src="/Images/Footer/logo-footer.png" alt="apliiq">
-        </section>
-        <p id="footer-disclaimer">Use of this web site constitutes acceptance of the <a style="color:#959595;font-size:10px; font-family: Helvetica, Arial, sans-serif;" href="/Terms">Terms and Conditions</a> and <a style="color:#959595;font-size:10px; font-family: Helvetica, Arial, sans-serif;" href="/Privacy">Privacy Policy</a>. Copyright © 2009-2012, Apliiq Inc. All rights reserved.</p>
-    </div>
-</section></div> 
+			</div>
+		</div>
+	</div>
+	<div class="legal">
+		<ul class="container">
+			<li class="terms column"><a href="/Terms">Terms</a> | <a href="/Privacy">Privacy Policy</a></li>
+			<li class="column"><p class="footerPlove">created with love in Los Angeles</p></li>
+			<li class="copyright column"><p id="footer-disclaimer">Copyright © 2014, Apliiq Inc. All rights reserved.</p></li>
+		</ul>
+	</div>
+</section>
+
+
+    </section>
     <script src="http://sphere.apliiq.com/CommonLib/lib/INC_jsFields.js" type="text/javascript"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-    <script src="/Bundles/AppScript?v=rIqvUcwZfhWay0KD0QBJXUER68h4_j1GpCfg3ckEzVQ1" type="text/javascript"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="/Bundles/AppScript?v=Pk4tQysKFdC6iW6Ngq3i2nP3olMZzF_s2ZVvecOMEJQ1" type="text/javascript"></script>
  
-    <script>
-        var viewModel = {
-            master: {
-                isAuthenticated: ko.observable(false),
-                    loginEmail: ko.observable(),
-                    loginPassword: ko.observable(),
-                    doLogout: function () {
-
-                    },
-                    register: function (callback) {
-                        $('#modal').html('');
-                        viewModel.master.showModal(true);
-                        _gaq.push(['_trackEvent', 'User', 'Register', 'Shop']);
-                        $('#modal').load('/Account/Register');
-                    },
-                    resetPassword: function () {
-                        $('#modal').html('');
-                        viewModel.master.showModal(true);
-                        $('#modal').load('/Account/ForgotPassword');
-                    },
-                    loginError: ko.observable(false),
-                    registerError: ko.observable(false),
-                    resetPasswordError: ko.observable(false),
-                    resetPasswordSuccess: ko.observable(false),
-                    resetPasswordEmail: ko.observable(''),
-                    registerFirstName: ko.observable(''),
-                    registerLastName: ko.observable(''),
-                    registerEmail: ko.observable(''),
-                    registerPassword: ko.observable(''),
-                    savedesignemail: ko.observable(''),
-                    designedname: ko.observable(''),
-                    designedDescription:ko.observable(''),
-                    registerCallback: null,
-                    doResetPassword: function () {
-                        viewModel.master.resetPasswordError(false);
-                        viewModel.master.resetPasswordSuccess(false);
-                        if (!viewModel.master.resetPasswordEmail()) {
-                            return;
-                        }
-
-                        $.ajax({
-                            url: "/Account/ResetPassword",
-                            type: "POST",
-                            data: {
-                                email: viewModel.master.resetPasswordEmail()
-                            },
-                            dataType: "json"
-                        }).done(function (success) {
-                            if (success) {
-                                viewModel.master.resetPasswordSuccess(true);
-                            } else {
-                                viewModel.master.resetPasswordError(true);
-                            }
-                        }).fail(function (jqXHR, textStatus) {
-                            console.log("Failed to login: " + textStatus);
-                        });
-                    },
-                    doRegister: function () {
-                        if (!viewModel.master.registerFirstName() || !viewModel.master.registerLastName() ||
-                            !viewModel.master.registerEmail() || !viewModel.master.registerPassword()) {
-                            return;
-                        }
-
-                        $.ajax({
-                            url: "/Account/Register",
-                            type: "POST",
-                            data: {
-                                firstName: viewModel.master.registerFirstName(),
-                                lastName: viewModel.master.registerLastName(),
-                                email: viewModel.master.registerEmail(),
-                                password: viewModel.master.registerPassword()
-                            },
-                            dataType: "json"
-                        }).done(function (success) {
-                            if (success) {
-                                viewModel.master.isAuthenticated(success);
-                                viewModel.master.closeModal();
-                                if (viewModel.master.loginCallback) {
-                                    viewModel.master.loginCallback();
-                                    viewModel.master.loginCallback = null;
-                                }
-                            } else {
-                                viewModel.master.registerError(true);
-                            }
-                        }).fail(function (jqXHR, textStatus) {
-                            console.log("Failed to login: " + textStatus);
-                        });
-                    },
-                    doLogin: function () {
-                        if (!viewModel.master.loginEmail() || !viewModel.master.loginPassword()) {
-                            return;
-                        }
-
-                        $.ajax({
-                            url: "/Account/Login",
-                            type: "POST",
-                            data: {
-                                email: viewModel.master.loginEmail(),
-                                password: viewModel.master.loginPassword()
-                            },
-                            dataType: "json"
-                        }).done(function (success) {
-                            if (success) {
-                                viewModel.master.isAuthenticated(success);
-                                viewModel.master.closeModal();
-                                if (viewModel.master.loginCallback) {
-                                    viewModel.master.loginCallback();
-                                    viewModel.master.loginCallback = null;
-                                }
-                            } else {
-                                viewModel.master.loginError(true);
-                            }
-                        }).fail(function (jqXHR, textStatus) {
-                            console.log("Failed to login: " + textStatus);
-                        });
-                    },
-                    doSave: function(){
-                        if ( viewModel.master.savedesignemail() )
-                        {
-                            MyCustomizer.SaveDesign(viewModel.master.savedesignemail(), viewModel.master.designedname(), viewModel.master.designedDescription());
-                        }
-                        else
-                        {
-                            alert("email is required so we can email you the link!");
-                        }
-                    },
-                    selectedSize: ko.observable(0),
-                    selectedProductId: ko.observable(0),
-                    showModal: ko.observable(false),
-                    cartCount: ko.observable(0),
-                    viewCart: function () {
-                        window.location = 'https://secure.apliiq.com';
-                    },
-                    checkout: function () {
-                        window.location = 'https://secure.apliiq.com';
-                    },
-                    selectedCategory: ko.observable('all'),
-                    selectedGarment: ko.observable('all'),
-                    category: ko.observable('shop '),
-                    showCategoryDropdown: ko.observable(false),
-                    loginCallback: null,
-                    closeModal: function () {
-                        $('#modal').html('');
-                        viewModel.master.showModal(false);
-                    },
-                    login: function (callback) {
-                        if (viewModel.master.isAuthenticated()) {
-                            if (typeof callback == "function") {
-                                callback();
-                            }
-
-                            return;
-                        }
-                        viewModel.master.loginCallback = callback;
-                        viewModel.master.showModal(true);
-                        _gaq.push(['_trackPageview', 'shop/login']);
-                        $('#modal').load('/Account/Login');
-                    },
-                    pickSize: function (productId) {
-                        $('#modal').html('');
-                        viewModel.master.showModal(true);
-                        _gaq.push(['_trackPageview', 'shop/whatsyoursize']);
-                        $('#modal').load('/PickSize/' + productId);
-                    },
-                    sizeProceed: function () {
-                        if (!viewModel.master.selectedSize()) {
-                            return;
-                        }
-                        viewModel.master.showModal(false);
-                        viewModel.master.addProductToCart(viewModel.master.selectedProductId(), viewModel.master.selectedSize());
-                    },
-                    doSellIt: function (userStoreId, productId) {
-                        if (!userStoreId || !productId) {
-                            return;
-                        }
-                        $('#modal').html('');
-                        viewModel.master.showModal(true);
-                        $.ajax({
-                            url: "/UserStore/AddProduct",
-                            type: "POST",
-                            data: {
-                                userStoreId: userStoreId,
-                                productId: productId
-                            },
-                            dataType: "json"
-                        }).done(function (success) {
-                            if (success) {
-                                $('#modal').load('/UserStore/InTheStore');
-                            } else {
-                                viewModel.master.showModal(false);
-                            }
-                        }).fail(function (jqXHR, textStatus) {
-                            viewModel.master.showModal(false);
-                            console.log("Failed to add product to store: " + textStatus);
-                        });
-                    },
-                    sellIt: function (productId) {
-                        if (!productId) {
-                            return;
-                        }
-
-                        if (!viewModel.master.isAuthenticated()) {
-                            viewModel.master.login(function () {
-                                viewModel.master.sellIt(productId);
-                            });
-                            return;
-                        }
-
-                        $.ajax({
-                            url: "/UserStore/GetList",
-                            type: "POST",
-                            data: {
-                                productId: productId
-                            },
-                            dataType: "json"
-                        }).done(function (stores) {
-                            var storeCount = stores.length;
-                            if (storeCount == 0) {
-                                window.location = 'http://shop.apliiq.com/myapliiq/newstore.aspx';
-                            } else if (storeCount == 1) {
-                                viewModel.master.doSellIt(stores[0].Id, productId);
-                            } else {
-                                $('#modal').html('');
-                                viewModel.master.showModal(true);
-                                $('#modal').load('/UserStore/SelectStore', { productId: productId });
-                            }
-                        }).fail(function (jqXHR, textStatus) {
-                            console.log("Failed to get stores: " + textStatus);
-                        });
-                    },
-                    addProductToCart: function (productId, sizeId) {
-                        if (!sizeId) {
-                            viewModel.master.pickSize(productId);
-                            return;
-                        }
-                        $.ajax({
-                            url: "/Cart/AddProduct",
-                            type: "POST",
-                            data: {
-                                productId: productId,
-                                sizeId: sizeId
-                            },
-                            dataType: "json"
-                        }).done(function () {
-                            viewModel.master.cartCount(viewModel.master.cartCount() + 1);
-                            $('#modal').html('');
-                            viewModel.master.showModal(true);
-                            _gaq.push(['_trackPageview', 'shop/addtocart']);
-                            $('#modal').load('/InTheCart');
-                        }).fail(function (jqXHR, textStatus) {
-                            console.log("Failed to add item to cart: " + textStatus);
-                        });
-                    },
-                    selectCategory: function () {
-                        viewModel.master.showCategoryDropdown(true);
-                        $(document).bind('mousemove.select-category', function (e) {
-                            var distance = calculateDistance($('#select-category'), e.pageX, e.pageY);
-                            if (distance >= 40) {
-                                viewModel.master.showCategoryDropdown(false);
-                                $(document).unbind('mousemove.select-category');
-                            }
-                        });
-                    },
-                    newsLetterEmail: ko.observable(''),
-                    discountCodePID: ko.observable(-1),
-                    validateEmail: function(email){
-                        var emailRegexStr = "^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$";
-                        var isvalid = email.match(emailRegexStr); 
-                        if (isvalid == null){
-                            return false;
-                        }
-                        return true;
-                    },
-                    doNewsLetter: function () {
-                        if (!viewModel.master.newsLetterEmail()) {
-                            return;
-                        }
-                        else{
-                            var isvalid = viewModel.master.validateEmail(viewModel.master.newsLetterEmail());
-                            if (!isvalid){
-                                alert("please enter a valid email");
-                                return;
-                            }
-                        }
-                        var discCodeID = viewModel.master.discountCodePID();
-                        $.ajax({
-                            url: "/Account/NewsLetterPopup",
-                            type: "POST",
-                            data: {
-                                email: viewModel.master.newsLetterEmail()
-                            },
-                            dataType: "json"
-                        }).done(function (success) {
-                            if (success) {
-                                $('#modal').html('');
-                                viewModel.master.showModal(true);
-                                _gaq.push(['_trackPageview', 'emailsignupconfirmation']);
-                                $('#modal').load('/Account/NewsLetterDiscountPopup', {disCode:  discCodeID } );
-                            } else {
-                                //viewModel.master.resetPasswordError(true);
-                            }
-                        }).fail(function (jqXHR, textStatus) {
-                            console.log("Failed to show NewsLetterPopup: " + textStatus);
-                        });
-
-                    }
-                }
-            };
-
-
-    </script>
     
     <script>
-        ko.applyBindings(viewModel);
+        viewModel.master.isAuthenticated= ko.observable(false);
+        viewModel.master.cartCount= ko.observable(0);
+        viewModel.master.selectedCategory= ko.observable('all');
+        viewModel.master.selectedGarment= ko.observable('all');
+        viewModel.master.category= ko.observable('shop ');
+        viewModel.master.storeID = 0;
+        if (viewModel.master.isAuthenticated()){
+            viewModel.master.userName('');
+        }       
     </script>
-     <script>
-         $(document).ready(function () {
-             var ie;
-             var ua = navigator.userAgent.toLowerCase();
-             var s;
-             (s = ua.match(/msie ([\d.]+)/)) ? ie = s[1] : 0;
-             if (parseInt(ie) <= 7) {
-                 $('#modal').html('');
-                 viewModel.master.showModal(true);
-                 $('#modal').load('/Home/SystemIE');
-             }
-         });
-		/* When ready...*/
-        window.addEventListener("load",function() {
-	        /* Set a timeout...*/
-	        setTimeout(function(){
-		        /* Hide the address bar!*/
-		        window.scrollTo(0, 1);
-	        }, 0);
-        });
-</script>
-
+           
+<script type="text/javascript">
+    ko.applyBindings(viewModel);
+	$('.HomePageContent').css({ 'background-image': 'url(/Images/Footer/apliiq-brand-mark-white.png), url(http://blob.apliiq.com/sitestorage/cropped-fabrics/720_944_550.jpg)' });
+</script>  
+<script src="/Bundles/MiScript?v=1aN--ECsu-Tb3wXLfUswOsHSnAfwlDHksrTbp9HQGaA1" type="text/javascript"></script>
+ 
 
 
 </body></html>
