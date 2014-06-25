@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the dust514.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617044649id_/http%3A//dust514.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dust514.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070500id_/http%3A//dust514.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DUST 514
 
-CCP hf (“CCP”, “we,” “our,” “us”) recognises that you care how information about you is collected and used.  CCP has created this privacy policy to inform you of our practices regarding collection, use, and sharing of information.  Please read the following carefully to understand our views and practices regarding your personal data and how it will be treated. 
+CCP hf. (“CCP”, “we,” “our,” “us”) recognises that you care how information about you is collected and used. CCP has created this privacy policy to inform you of our practices regarding collection, use, and sharing of information. Please read the following carefully to understand our views and practices regarding your personal data and how it will be treated.
 
-The practices described in this privacy policy apply to information gathered through our websites, [www.dust514.com](http://www.dust514.com/), [www.eveonline.com](http://www.eveonline.com/), [www.ccpgames.com](http://www.ccpgames.com/) and our online games EVE Online® and DUST 514® (collectively, “Site”) and do not necessarily reflect our practices with respect to information gathered through off-line means. Use of a Site is also subject to any applicable Terms of Use for a given Site and to our personal information gathering and dissemination practices and policies described below. This privacy policy forms part of our each Terms of Use.  For the purpose of any applicable data protection and privacy legislation, our data controller is CCP hf of Grandagardur 8, 101 Reykjavik Iceland, who may be reached at: [privacy@ccpgames.com.](mailto:privacy@ccpgames.com) 
+The practices described in this privacy policy apply to information gathered through our websites, [www.dust514.com](http://dust514.com/), [www.eveonline.com](http://www.eveonline.com/), [www.ccpgames.com](http://www.ccpgames.com/) and our online games EVE Online® and DUST 514® (collectively, “Site”) and do not necessarily reflect our practices with respect to information gathered through off-line means. Use of a Site is also subject to any applicable Terms of Use for a given Site and to our personal information gathering and dissemination practices and policies described below. This privacy policy forms part of our Terms of Use. For the purpose of any applicable data protection and privacy legislation, our data controller is CCP hf of Grandagardur 8, 101 Reykjavik Iceland, who may be reached at: [privacy@ccpgames.com](mailto:privacy@ccpgames.com).
 
-This privacy policy will be published in English, but may be translated into additional languages for convenience of the reader. If this privacy policy is published in any language other than English, the English language version will be the governing agreement and shall control interpretation of all matters discussed below. 
+This privacy policy will be published in English, but may be translated into additional languages for convenience of the reader. If this privacy policy is published in any language other than English, the English language version will be the governing agreement and shall control interpretation of all matters discussed below.
 
 ## WE COLLECT THE FOLLOWING TYPES OF INFORMATION:
 
 ### YOUR PERSONAL INFORMATION
 
-We collect personal information that you provide when you create an account or otherwise purchase or request services from CCP or our business partners. This personal information includes information provided at the time of registering to use our Site, downloading to our games, posting material, or requesting or purchasing other services. We also may ask you for information when you enter a competition or promotion sponsored by our business partners or when you report a problem with our Site.
+We collect personal information that you provide when you create an account or otherwise purchase or request services from CCP or our business partners. This personal information includes information provided at the time of registering to use our Site, downloading or registering to use our games, posting material, or requesting or purchasing other services. We also may ask you for information when you enter a competition or promotion sponsored by our business partners or when you report a problem with our Site.
 
-When you create an account or otherwise purchase services, you are required to submit your name, your email address, and other contact information. Once you sign into the Site using your login information, you are not anonymous to us.
+When you create an account or otherwise purchase services, you are required to submit your name, your age, your valid email address, and other contact information. Once you sign into the Site using your login information, you are not anonymous to us.
 
 ### IP ADDRESS
 
@@ -22,34 +22,48 @@ When you use a Site, we gather information about your computer, including your I
 
 ### SITE USAGE
 
-We collect information regarding customer traffic patterns and Site usage. This information may include details of (1) transactions you carry out through our Site, (2) the fulfillment of your orders and (3) your visits to our Site, such as location data, traffic, weblogs and other communication data, and resources you access. We may collect this information regardless of whether required for our own billing purposes. This information is used to analyze and improve the Site and to provide CCP users with a more fulfilling experience.
+We collect information regarding customer traffic patterns and Site usage. This information may include details of (1) transactions you carry out through our Site, (2) the fulfillment of your orders and (3) your visits to our Site, such as location data, traffic, weblogs, referring web addresses, and other communication data and resources you access. We may collect this information regardless of whether required for our own billing purposes. This information is used to analyze and improve the Site and to provide CCP users with a more fulfilling experience.
 
 ### COOKIES
 
 This section explains how and why we use cookies on our Sites.
 
-Cookies are small files that reside on your computer’s hard drive and store information about your use of our Site. Cookies help us to improve our Site and deliver a more personalized service. Generally speaking, cookies enable us to:
+Cookies are small files that reside on your data storage device (such as a computer or smartphone) and store information about your use of our Site. Cookies help us to improve our Site and deliver a more personalized service. Generally speaking, cookies enable us to:
 
-  * To estimate our audience size and usage pattern
-  * To store information about your preferences, and so allow us to customize our Site according to your individual interests
-  * To speed up your searches
-  * To recognize you when you return to our Site
+  * estimate our audience size and usage pattern;
+  * store information about your preferences, and so allow us to customize our Site according to your individual interests;
+  * speed up your searches; and,
+  * recognise you when you return to our Site.
 
 
 
 For your information, we use the following specific types of cookies on our Site:
 
-  * **“Strictly necessary cookies”** :These are cookies that are required for the operation of a website. They include, for example, cookies that enable users to log into secure areas of a website, use a shopping cart or make use of e-billing services.
-  * **“Analytical/performance cookies”** :These types of cookies allow providers to recognise and count the number of visitors and to see how visitors move around their website when they are using it. This assists providers in improving the way their website works, for example, by ensuring that users are finding what they are looking for easily.
-  * **“Functionality cookies”** :These are used to recognise users when they return to a website. They enable the personalisation of content, the recognition of users and remember user preferences (for example, their choice of language or region).
-  * **“Targeting cookies”** :These cookies record a user's visit to a website, the individual pages visited and the links followed. If the cookie is set by a third party (for example, an advertising network) which also monitors traffic on other websites, this type of cookies may also be used to track a user's movements across different website and to create profiles of their general online behaviour. Information collected by tracking cookies is commonly used to serve users with targeted online advertising.
+  * **“Strictly necessary cookies”:** These are cookies that are required for the operation of a website. They include, for example, cookies that enable users to log into secure areas of a website, use a shopping cart or make use of e-billing services.
+  * **“Analytical/performance cookies”:** These types of cookies allow providers to recognise and count the number of visitors and to see how visitors move around their website when they are using it. This assists providers in improving the way their website works, for example, by ensuring that users are finding what they are looking for easily.
+  * **“Functionality cookies”:** These are used to recognise users when they return to a website. They enable the personalisation of content, the recognition of users and remember user preferences (for example, their choice of language or region).
+  * **“Targeting cookies”:** These cookies record a user's visit to a website, the individual pages visited and the links followed. If the cookie is set by a third party (for example, an advertising network) which also monitors traffic on other websites, this type of cookies may also be used to track a user's movements across different websites and to create profiles of their general online behaviour. Information collected by tracking cookies is commonly used to serve users with targeted online advertising.
 
 
 
- Please note that third parties, such as advertisers, may also use cookies, over which we have no control.
+Please note that third parties, such as advertisers, may also use cookies, over which we have no control.
 
-You may refuse to accept cookies by adjusting your internet browser to refuse cookies. However, if you chose this setting you may be unable to access portions of our Site.  Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Site.  
-  
+You may refuse to accept cookies by adjusting your internet browser to refuse cookies. However, if you choose this setting you may be unable to access portions of our Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Site.
+
+## USE OF WEB ANALYTICS AND COOKIES
+
+Some of CCP’s business partners show our advertisements on sites across the internet. In connection with these advertisements and our Site, we may use certain web analytics services provided by Google, Inc. (“Google”) and other partners. The web analytics help us understand how users use our Site and help us advertise online. Such services include, but are not limited to, “Remarketing with Google Analytics” and “Google Display Network Impression Reporting”.
+
+To facilitate these web analytics, we often use cookies. Specifically, CCP and its business partners, including Google, use analytical and targeting cookies (such as the Google Analytics cookie and the DoubleClick cookie) to:
+
+  * inform, optimize, and serve ads based on your past visits to the Site; and
+  * report on how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our Site.
+
+
+
+The information generated by the cookies about your use of the Site (including your IP address) may be transmitted to and stored by our business partners on servers outside the European Economic Area. Our partners will use this information to evaluate your use of the Site, compile reports on Site activity for us and provide us other services relating to website activity and internet usage. Our business partners perform these services for us under written confidentiality and data protection obligations. From time to time, our partners may be required to transfer this information to third parties where required to do so by law, or where third parties process the information on CCP’s or our partner’s behalf (for more information, please see “THIRD PARTY USE” below).
+
+We will not (and will not allow any third party to) use the web analytics tools to track or to collect any personally identifiable information of visitors to our Site (such as name, email address, or billing address, but excluding IP addresses). With respect to services provided by Google, you may opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads using the following link: <https://www.google.com/settings/ads>.
 
 ## WE MAY SHARE AND DISCLOSE YOUR INFORMATION IN THE FOLLOWING WAYS:
 
@@ -60,9 +74,9 @@ We may use your personal information to contact you. For example, we may send yo
   * to respond to an inquiry or request for information;
   * to thank you for contacting us;
   * to welcome you to the Site;
-  * to explain new offerings and features of the Company;
-  * to communicate with you regarding your use of the Site; and
-  * to to notify you about changes to our service; and
+  * to explain new offerings and features of CCP;
+  * to communicate with you regarding your use of the Site;
+  * to notify you about changes to our service; and
   * to market CCP’s products and services and the products and services of our business partners.
 
 
@@ -81,7 +95,7 @@ We may collect aggregated demographic information about our users, such as age, 
 
 ### THIRD PARTY USE
 
-We may share your personally identifiable information with our subsidiary companies, our affiliates and our business partners, all of whom work with or on behalf of CCP under confidentiality and data protection obligations. These companies may use your personal information to assist CCP in performing services you requested, or for communicating with you about the Site, CCP, or other offerings of CCP or our business partners. Such third parties will be contractually obligated to protect your information.
+We may share your personally identifiable information with our subsidiary companies, our affiliates and our business partners, all of whom work with or on behalf of CCP under confidentiality and data protection obligations. These companies may use your personal information to assist CCP in performing services you requested, or for communicating with you about the Site, CCP, or other offerings of CCP. Such third parties will be contractually obligated to protect your information.
 
 ### DISCLOSURE OF YOUR INFORMATION
 
@@ -92,21 +106,19 @@ We may use and disclose your personally identifiable information to the extent r
   * to protect our rights and property and the rights and property of others;
   * to take precautions against liability;
   * to respond to claims that your information violates the rights and interests of third parties;
+  * in the event that we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer (and their respective employees, contractors, officers and directors) of such business or assets;
+  * if CCP or any of its assets are acquired by a third party, personal data we hold about our users may be one of the transferred assets;
   * as required by law or to respond to judicial process; and
   * as permitted under other provisions of law, to provide personal information to law enforcement agencies or for an investigation on a matter related to public safety, including exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
-  * in the event that we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer (and their respective employees, contractors, officers and directors) of such business or assets;
-  * if CCP or any of its assets are acquired by a third party, personal data we hold about our users may be one of the transferred assets;
 
-
-
- You understand and agree that technical processing of your information is and may be required to:
+You understand and agree that technical processing of your information is and may be required to:
 
   * send and receive messages regarding your use of the Site;
   * conform to the technical requirements of connecting networks;
   * conform to the limitations of our service; or
-  * conform to other, similar technical requirements.  
+  * conform to other, similar technical requirements.
 
 
 
@@ -118,7 +130,7 @@ We may monitor how our users use our Site including without limitation search te
 
 This Site may contain links to other websites. We are not responsible for and shall not have any liability arising from the privacy practices or the content of other websites.
 
-## PROCESSING (INCLUDING STORAGE AND TRANSFER) OF PERSONAL INFORMATION
+## PROCESSING, STORAGE AND TRANSFER OF PERSONAL INFORMATION
 
 We may store information collected via the Site, including without limitation your personally identifiable information, indefinitely. **The data we collect from you may be transferred to, stored and processed at one or more destinations whether inside or outside the European Economic Area ("EEA"), including, without limitation, the United States of America or the People’s Republic of China for any purposes set out in this privacy policy. The data we collect also may be processed by staff and/or contractors located whether inside or outside the EEA who work for us or for our suppliers.** Such staff and/or contractors may be engaged in, among other things, the fulfillment of your order, the processing of your payment details, and the provision of support services. By submitting your personal data, you agree to this transfer, storing, or processing. We will take steps reasonably necessary to ensure your data is treated securely and in accordance with this privacy policy. Where we have given you (or where you have chosen) a password that enables you access to certain parts of our Site, you are solely responsible for keeping this password confidential. We ask that you not share a password with anyone.
 
@@ -138,7 +150,7 @@ By using our Site, you acknowledge and consent to our privacy policy. However, w
 
 If CCP experiences a “change in control” (defined below), then we may amend our information practices as described in this privacy policy. We will disclose your personally identifiable information to the company or other legal entity that succeeds our operation of the Site. The privacy policy of the succeeding legal entity will then govern the personally identifiable information that we have collected from you under this privacy policy. However, if applicable law prohibits the succeeding legal entity’s privacy policy from governing your personally identifiable information, then this privacy policy shall continue to govern.
 
-"Change in control" means any of the following events:
+“Change in control” means any of the following events:
 
   * a reorganization, merger, consolidation, acquisition or other restructuring involving all or substantially all of our voting securities and/or assets, by operation of law or otherwise;
   * insolvency;
@@ -153,4 +165,4 @@ If CCP experiences a “change in control” (defined below), then we may amend 
 
 If you have any questions about this privacy policy or the personal information practices of our Site, please contact us at [privacy@ccpgames.com](mailto:privacy@ccpgames.com).
 
-Effective Date: Sept 5, 2012
+Effective Date: 31 October 2013
