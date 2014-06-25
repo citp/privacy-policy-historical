@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishexpat.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112195507id_/http%3A//britishexpat.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishexpat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065051id_/http%3A//britishexpat.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy | BritishExpat
 
@@ -37,13 +37,3 @@ From time to time (every week or so) we send round an opt-in newsletter by email
 Britishexpat.com is hosted by UKWebDev. Their servers are protected by a range of measures against physical and technical attack.
 
 British Expat Ltd operates its own computers from behind a firewall and from within a secure compound.
-
-#### [Author: British Expat](http://britishexpat.com/author/british-expat/ "View all posts by British Expat Author British Expat")
-
-British Expat Ltd is a private limited company registered in England & Wales. Registration number 4165796.
-
-Registered address: 95 High Street, Barry, Vale of Glamorgan, United Kingdom CF62 7DY  
-(Please do not write to us at this address, which is maintained solely to meet the requirements of English company law.)
-
-Managing Director: Kay McMahon  
-Non-executive Director: David McMahon.
