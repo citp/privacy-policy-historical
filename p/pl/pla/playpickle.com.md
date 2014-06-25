@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playpickle.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126084705id_/http%3A//playpickle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playpickle.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115307id_/http%3A//playpickle.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy » PlayPickle
 
 _Last Updated: October 10, 2012_
 
