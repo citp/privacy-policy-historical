@@ -1,31 +1,9 @@
-> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207010712id_/http%3A//bellroy.com/pages/customer-care/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055045id_/http%3A//bellroy.com/pages/customer-care/%23privacy) for the most accurate reproduction.*
 
 # Customer Care - Slim Leather Wallets by Bellroy
 
-The following information is here to help answer any of your questions. If there’s something more specific you’d like to know, then don’t hestitate to [Contact Us](https://web.archive.org/pages/contact)
+The following information is here to help answer any of your questions. If there’s something more specific you’d like to know, then don’t hesitate to [Contact Us](https://web.archive.org/pages/contact)
 
-## Shipping & Delivery
-
-With customers all around the world, we are happy to send our wallets to anywhere that has a letterbox. P.O. Boxes in the U.S. and Canada can be sent to with the regular shipping option.
-
-While we always dispatch an order within 2 working days, we can’t directly control the delivery times beyond our end.
-
-As a general rule, assume that regular post will take 3-8 days for Australia, North America, & the UK, and 6-28 days for the rest of the world. Express post is generally 1-3 days for Australia, North America & the UK, and 2-8 days for other International.
-
-If you live down a donkey track in Tuana Tuva, please allow a little bit extra.
-
-Destination| Regular| Express  
----|---|---  
-Australia| Free!| $6.00 USD  
-New Zealand| Free!| $14.00 USD  
-USA| Free!| $6.00 USD  
-Canada| $6.00 USD| Not Available  
-UK| Free!| $9.00 USD  
-Europe| Free!| $12.00 USD  
-Asia| $8.00 USD| $14.00 USD  
-South America| $11.00 USD| $18.00 USD  
-Other Countries| $11.00 USD| $18.00 USD  
-  
 ## 3 YEAR WARRANTY
 
 Bellroy wallets are warranted to be free from defects in materials and workmanship for three years from original date of purchase when used under normal conditions and for the purpose intended.
@@ -56,9 +34,9 @@ Bellroy is committed to providing exceptional customer service and quality produ
 
 ### 4\. Return Policy
 
-Bellroy stands by the quality of our products with a 3 year warranty. If the wallet is faulty or flawed, no worries — get in touch with us and we'll sort out an exchange or refund straight away.
+Bellroy stands by the quality of our products with a 3 year warranty. If the wallet is faulty or flawed, no worries – get in touch with us and we'll sort out an exchange or refund straight away.
 
-However, we discourage returns simply for a change of mind. Unnecessary shipping and processing go against our [core goals](https://web.archive.org/pages/environment/). Please choose carefully. 
+However, we discourage returns simply for a change of mind. Unnecessary shipping and processing go against our [core goals](https://web.archive.org/pages/environment/). Please choose carefully.
 
 ### 5\. Warranty
 
@@ -74,7 +52,7 @@ You may not reproduce (except as noted above), publish, transmit, distribute, di
 
 ### 7\. Security
 
-When purchasing from Bellroy your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. 128-bit SSL encryption is the current industry standard. If you have any questions regarding our security policy, please contact us via email at [support@bellroy.com.](mailto:support@bellroy.com).
+When purchasing from Bellroy your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. 128-bit SSL encryption is the current industry standard. If you have any questions regarding our security policy, please contact us via email at [support@bellroy.com](mailto:support@bellroy.com).
 
 ## PRIVACY POLICY
 
