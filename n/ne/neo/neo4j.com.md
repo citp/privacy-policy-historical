@@ -1,59 +1,67 @@
-> *The following text is extracted and transformed from the neo4j.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203224654id_/http%3A//www.neo4j.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neo4j.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625175643id_/http%3A//neo4j.com/privacy-policy) for the most accurate reproduction.*
 
-# Neo4j - The World's Leading Graph Database - Privacy
+# Privacy Policy | Neo4j Graph Database
 
-## Privacy Policy
+Thank you for visiting this Internet web site (“Site”) offered by Neo Technology, Inc. (“Neo Technology”).  This Privacy Policy describes our policies for Neo Technology’s collection, use and disclosure of personally identifiable information about users of our Site and users of the services on this Site.
 
-This privacy policy applies to the use of [Neo4j.org](http://neo4j.org/). We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
+##### Privacy Policy Updates
 
-### Links to Other Websites
+Due to the Internet’s rapidly evolving nature, Neo Technology may need to update this Privacy Policy from time to time. If so, Neo Technology will post our updated Privacy Policy on our Site along with notice that the Privacy Policy has been changed so you are always aware of what personally identifiable information we may collect and how we may use this information. Neo Technology may also send registered users of the Site e-mail notifications notifying such users of any material changes to the Privacy Policy. Neo Technology encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
 
-This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
+##### Information Collection and Use
 
-### Registration and Use of Personal Information
+You can generally visit our Site without revealing any personally identifiable information about yourself. However, to use some of the services and functionality of the Site, such as to download a book, software or other information or subscribe to a newsletter, you may be required to register for an account. When you register for an account or otherwise contact us with questions or comments, we will collect personally identifiable information such as your name, e-mail address, company name, job title and/or function and any other contact or personally identifiable information that you voluntarily transmit with your communications to us. We also may collect personally identifiable information about you that you elect to upload to the Site when you use our Site and services.  When you download our products we may collect information about the usage of our products, product edition and version downloaded and database instance identifier.
 
-Registration is not required in order to use or access this website. However, this site may make forums, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles.
+We may use your personally identifiable information to register you to use our services and to provide our services to you, contact you to deliver certain services or information to our registered users, verify your authority to enter our Site, send you marketing communications regarding products or services that we believe may be of interest to you, improve the content and general administration of the Site and our services and provide you with notices regarding our services.
 
-If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.
+If you elect to post a comment otherwise make personally identifiable information publicly available on our Site, other users of the Site will be able to view such comment and/or your personally identifiable information. 
 
-Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.
+##### Choice
 
-We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address. These communications will include our monthly newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at [webinfo@neotechnology.com](mailto:webinfo@neotechnology.com), by clicking on the “unsubscribe” link in any email we send to you, by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line, or by visiting this URL: <http://info.neotechnology.com/UnsubscribePage.html>.
+You have the ability to “opt-out” or unsubscribe from continuing to receive any Neo Technology marketing communications via email at [webinfo@neotechnology.com ](mailto:webinfo@neotechnology.com)at any time. Neo Technology also provides opt-out information in all marketing communications via an “unsubscribe” link in communication emails, which directly unsubscribes you from any further communication from Neo Technology.
 
-Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent.
+##### Children’s Privacy
 
-### Access to Personally Identifiable Information
+Neo Technology recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. This Site is not intended for children under the age of 13. Neo Technology does not target its services or this Site to children under 13. Neo Technology does not knowingly collect personally identifiable information from children under the age of 13.
 
-If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by emailing us at [webinfo@neotechnology.com](mailto:webinfo@neotechnology.com).
+##### Cookies and Tracking Data
 
-### Security
+We may use small text files called cookies to improve overall Site experience. We use both session ID cookies and persistent cookies on our Site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time.
 
-We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore – as is the case with any organization – we are not in a position to guarantee the absolute security of your information.
+On our Site, we use session cookies to make it easier for you to navigate the Site by saving your preferences and to improve and track the overall Site experience.  For our password protected areas of the Site, we set a persistent cookie to authenticate your login and authorization to use the password protected areas. If you reject cookies, you may still use our Site, but your ability to use some areas of our Site may be limited.  All major browsers allow you to block or delete cookies from your system. To learn more about your ability to manage cookies and web beacons, please consult the privacy features in your browser. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
-### Cookies
+This Site uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics and other third parties, such as Marketo, may track your use of this Site and on other websites and use “cookies”, which are text files placed on your computer, to help the website analyze how users use the Site. Information about cookies that are placed by Marketo can be found at <http://www.marketo.com/trust/privacy.php>. These third-party vendors, including Marketo, use cookies to serve ads based on a user’s prior visit to our Site.
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+The information generated by the cookie about your use of the Site (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the Site, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this Site. By using this Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+##### Aggregate Information
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+The Site collects information about the use of the Site that is maintained, used and disclosed in aggregate form only and which will not contain your personally identifiable information, for example, without limitation, the total number of visitors to our Site, the number of visitors to each page of our Site, browser type, External Web Sites (defined below) linked to and IP addresses. We may analyze this data for trends and statistics in the aggregate, and we may use such aggregate information to administer and improve the Site, track users’ movement, and gather broad demographic information for aggregate use.
 
-### Links to Other Websites
+##### Disclosure
 
-This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
+We may provide your personally identifiable information and the data generated by cookies and the aggregate information to the vendors and service agencies that we may engage to assist us in providing our services to you for their use solely to provide us with such assistance. We will also disclose your personally identifiable information (a) if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an ongoing investigation of a governmental authority, (b) to enforce the Neo Technology Terms of Use agreement or to protect our rights or (c) to protect the safety of users of our Site and our services. We will not sell your personally identifiable information to any company or organization, but we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Neo Technology participates or to a purchaser or acquirer of all or substantially all of Neo Technology’s assets to which this Site relates.
 
-### Legal Disclaimer
+##### Links to Third Party Sites
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
+The Site may provide links to other Web sites or resources over which Neo Technology does not have control (“External Web Sites”). Such links do not constitute an endorsement by Neo Technology of those External Web Sites. You acknowledge that Neo Technology is providing these links to you only as a convenience, and further agree that Neo Technology is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
 
-### Special Note to International Users
+##### Security
 
-The website is hosted in the United States and is intended for and directed to users in the United States. If you are accessing the Website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Website, which is governed by U.S. law, this Privacy Policy, and our [Terms and Conditions of Use](https://web.archive.org/terms), you are transferring your personal information to the United States and you consent to that transfer.
+We may employ procedural and technological measures, consistent with industry practice. Such measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Neo Technology may use secure socket layer and other security measures to help prevent unauthorized access to your personally identifiable information.
 
-### Changes and Updates to this Privacy Policy
+##### Updating Personally Identifiable Information
 
-This Privacy Policy may be revised periodically and this will be reflected by the date below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received the personal information you provided. Your continued use of the Website constitutes your agreement to this Privacy Policy and any future revisions.
+Neo Technology provides you with the ability to review and update the registration information that you provide to us by contacting us at [webinfo@neotechnology.com ](mailto:webinfo@neotechnology.com).
 
-For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information. If you have any questions about our privacy policy, please contact us at [webinfo@neotechnology.com](mailto:webinfo@neotechnology.com).
+##### Questions
 
-This privacy policy was last updated on December 1, 2012.
+If you have any questions regarding this Privacy Policy please contact us via email at [webinfo@neotechnology.com ](mailto:webinfo@neotechnology.com).
+
+##### Notice to Users Outside of the United States of America
+
+This Site and the services on this Site are targeted for users in the United States of America.  Any information you enter on this Site may be transferred outside of the European Union to the United States of America which does not offer an equivalent level of protection to that required in the European Union. In particular, you are advised that the United States of America uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. Article 26 of the European Union’s Data Protection Directive (Directive 95/46/EC, 1995 O.J. (L 281) 31) allows for transfer of personal data from the European Union to a third country if the individual has unambiguously given his consent to the transfer of personally identifiable information, regardless of the third country’s level of protection. By using this Site or the services, you consent to the transfer of all such information to the United States of America which may not offer an equivalent level of protection to that required in the European Union and to the processing of that information by Neo Technology on its servers located in the United States of America as described in this Privacy Policy.
+
+This Privacy Policy was last updated: January 28, 2014
+
+This Privacy Policy is effective as of: January 28, 2014
