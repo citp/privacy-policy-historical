@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bforex.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513065148id_/http%3A//www.bforex.com/About-bforex/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bforex.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165116id_/http%3A//www.bforex.com/About-bforex/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-bforex respects each individual's right to privacy. We value our relationship with you, and we take great pride in maintaining the privacy and therefore the loyalty of each individual client, by providing the required security. The provisions of this notice apply to both former and current customers. 
+Bforex respects each individual's right to privacy. We value our relationship with you, and we take great pride in maintaining the privacy and therefore the loyalty of each individual client, by providing the required security. The provisions of this notice apply to both former and current customers. 
 
 ### 1\. Personal Information
 
@@ -14,7 +14,7 @@ In order to provide you with the very best service, when you apply to become a b
 
 Transaction Information – Information about your transactions with us and/or our affiliates, and records of past communications. These may include your account balances, trading activity, past inquiries and our responses.
 
-Verification Information – This may be required to verify your identity, and may include passport or drivers license.
+Verification Information – This may be required to verify your identity, and may include passport or driver’s license.
 
 Note: Anti-Money Laundering ("AML") regulations and the USA Patriot Act requires financial institutions to collect information and take action where necessary, in order to verify a customer’s identity.
 
@@ -30,15 +30,15 @@ a. Affiliates
 We may share some or all of the personal information described above with our affiliates in order to service client accounts or inform clients of new products and services. Our affiliates may include companies controlled or owned by us, as well as companies which have an ownership interest in our company. Our affiliates maintain the privacy of your information in the same manner and to the same extent as bforex, and in accordance with this privacy policy.
 
 b. Third Parties  
-bforex does not disclose your personal information to third parties, except as described in this privacy policy. Third party disclosures may include sharing such information with non-affiliated companies that perform support services for your account or facilitate your transactions with bforex. These companies may include those that provide professional, legal or accounting services to bforex. Non-affiliate companies that assist bforex in providing services are required to maintain the confidentiality of such information to the extent they receive it. In addition, they are obligated to use your personal information only in the course of providing such services and only for the purposes dictated by bforex.
+Bforex does not disclose your personal information to third parties, except as described in this privacy policy. Third party disclosures may include sharing such information with non-affiliated companies that perform support services for your account or facilitate your transactions with bforex. These companies may include those that provide professional, legal or accounting services to bforex. Non-affiliate companies that assist bforex in providing services are required to maintain the confidentiality of such information to the extent they receive it. In addition, they are obligated to use your personal information only in the course of providing such services and only for the purposes dictated by bforex.
 
-bforex may disclose a customer’s personal information to a third party in order to fulfill their instructions or pursuant to express consent. It is important to us that you know that bforex will not sell your personal information.
+Bforex may disclose a customer’s personal information to a third party in order to fulfill their instructions or pursuant to express consent. It is important to us that you know that bforex will not sell your personal information.
 
 c. Regulators  
-bforex may disclose your personal information to third parties as permitted by, or in order to comply with applicable laws and regulations. This may include disclosing personal information in order to cooperate with regulatory authorities and law enforcement agencies, as may be necessary to protect our property or rights.
+Bforex may disclose your personal information to third parties as permitted by, or in order to comply with applicable laws and regulations. This may include disclosing personal information in order to cooperate with regulatory authorities and law enforcement agencies, as may be necessary to protect our property or rights.
 
 d. Merger or Bankruptcy  
-bforex is obliged to maintain customer information according to its incorporation laws. In the event of a merger, the information will merge along with the company. In the event of bankruptcy, different legal statuses shall apply in accordance with its incorporation laws and its recordkeeping requirements.
+Bforex is obliged to maintain customer information according to its incorporation laws. In the event of a merger, the information will merge along with the company. In the event of bankruptcy, different legal statuses shall apply in accordance with its incorporation laws and its recordkeeping requirements.
 
 e. Payment Information  
 bforex does not keep, in any form, customer payment information. 
@@ -59,7 +59,7 @@ Any amendments to our privacy policy that affect the personal information of use
 
 ### 8\. Mailing Information
 
-Whether you wish to talk to us about our privacy policy or any other issue, the professional team at bforex is available to assist you 24/7. Please feel free to contact us via e-mail, phone, fax and mailing address. You can also or use our chat facility to IM a customer service representative.
+Whether you wish to talk to us about our privacy policy or any other issue, the professional team at bforex is available to assist you 24/7. Please feel free to contact us via e-mail, phone, fax and mailing address. You can also use our chat facility to IM a customer service representative.
 
 Mailing Address:
 
@@ -69,7 +69,7 @@ SW1W SQX
 United Kingdom
 
   * Fax: +44 207 806 8094
-  * Tel: +44 203 318 9464
+  * Tel: +44 203 514 0458
   * E-mail: [support.en@bforex.com](mailto:support.en@bforex.com)
 
 
