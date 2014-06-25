@@ -1,16 +1,19 @@
-> *The following text is extracted and transformed from the thetecnica.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119040616id_/http%3A//thetecnica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetecnica.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040618id_/http%3A//thetecnica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | thetecnica
 
-Since the very beginning of this blog, we have always taken proper care of privacy of the readers. ** ******
+[Home](http://thetecnica.com/) Privacy Policy
 
-Personal Information  
+Since the very beginning of this website, we have always taken proper care of privacy of the readers.
+
+**Personal Information**
+
 About personal information like name, contact and email address. ** **  
 ****
 
   1.  We do not sell it.
   2.  We can send Affiliate products, reviews of products of our partners.
-  3.  Our Business /advertisement partner may use your personal information to share their offers and make advertisement experience better.
+  3. Our Business /advertisement partner may use your personal information to share their offers and make advertisement experience better.
 
 
 
@@ -26,4 +29,4 @@ We use Log files to understand reader’s behavior, their demographics, the cont
 
 This information is anonymous and will never be leaked under any circumstance.
 
-If you have any other query regarding the privacy policy, you can always write us at contact@thetecnica.com
+If you have any other query regarding privacy policy, you can always write us at contact@thetecnica.com
