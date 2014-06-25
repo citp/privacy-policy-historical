@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdbaby.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101041858id_/http%3A//www.cdbaby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdbaby.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140205id_/http%3A//cdbaby.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CD Baby Music Store
 
@@ -20,6 +20,7 @@ We receive and store any information you enter on our Website or provide to us i
 
   * We receive and store certain types of information whenever you interact with our Website or services. CD Baby automatically receives and records information on our server logs from your browser including your IP address, CD Baby cookie information, the page you requested, and the media you have consumed (e.g., viewed, played, downloaded, uploaded, and shared).
   * Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components, similar to TV ratings that indicate how many people watched a particular show. This type of data enables us to figure out how often consumers use parts of the Website or services so that we can make the Website appealing to as many consumers as possible, and improve those services.
+  * This site uses the ClickTale customer experience analytics service. The ClickTale service helps us analyze how visitors use our Website. We do not collect through the ClickTale service or transfer to ClickTale any personal identifiable information. We only use the ClickTale service to record, on a completely anonymous basis, information such as mouse clicks, mouse movements, scrolling activity as well as non-Personally Identifiable Information text you type in this website. ClickTale does not create a user profile for the purpose of tracking a user across unrelated web sites and will only use such information pursuant to its Privacy Policy (located at http://www.clicktale.com/privacy_service.aspx). You can choose to disable the ClickTale service at http://www.clicktale.net/disable.html. 
 
 
 
