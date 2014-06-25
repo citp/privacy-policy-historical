@@ -1,142 +1,213 @@
-> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129130848id_/http%3A//www.sunsuper.com.au/content/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142730id_/http%3A//www.sunsuper.com.au/content/privacy.cfm) for the most accurate reproduction.*
 
 # Sunsuper Privacy Policy
 
-At Sunsuper* we aim to provide members with the best possible service and in doing so we are committed to protecting your privacy and the security of your personal information.
+### 1 Overview
 
-This document sets out our policies and procedures in relation to the management of the personal information we collect.
+At Sunsuper we aim to provide members with the best possible service and in doing so we are committed to protecting your privacy and the security of your personal information. 
 
-### What does 'personal information' mean?
+We are required under the Privacy Act 1988 (Cth) (the Privacy Act) to have an up-to-date privacy policy with information about how Sunsuper collects, uses and manages your personal information, including personal information collected via our website. This policy describes how we will comply with our obligations under the Privacy Act, and manage the personal information we collect. You should note that our website contains links and references to other websites to which this privacy policy does not apply. You should review the privacy policy of each of those websites and assess whether those policies are acceptable to you before you use those websites.
 
-Personal information is any information about you from which you can be identified or by which your identity can be reasonably determined.
+### 2 What does ‘personal information’ mean?
 
-### What information do we collect and why do we collect it?
+“Personal information” is any information that can identify you or that can reasonably enable your identification. This information could include information such as your name, postal or email address, date of birth or financial details.
 
-When you join the Sunsuper Superannuation Fund ( **Fund** ), or when you make a benefit payment request or an insurance claim, you will need to provide us with personal information, which may include:
+Personal information includes ‘sensitive information’. Sensitive information is any personal information about your racial or ethnic origin, political opinions, membership of a political association, religious beliefs or affiliations, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual preferences or practices, criminal record, health or genetic information.
 
-  * your name and residential address, date of birth, gender, phone and other contact details, occupation and employer,
-  * insurance related information such as your medical history, salary information and other health information, and/or
-  * bank account or other financial institution details where a benefit is to be paid.
+### 3 What personal information do we collect?
 
+The type of personal information we collect and hold about you will depend on the dealings you have with Sunsuper. When you deal with Sunsuper (including for the purposes described in section 4 of this policy) the types of personal information you may be required to provide include:
 
-
-The collection, use and disclosure of your personal information by Sunsuper is essential to enable us to conduct our business of offering and providing our range of products and services.
-
-Your identification details are used to process your application, manage your participation in the Fund, ensure that you receive your entitlements from the Fund, provide you with information about your superannuation benefits from time to time and to ensure that we comply with our legal and regulatory obligations.
-
-Your insurance-related information is collected so that your eligibility for death and disability insurance can be assessed. If you make a claim for a disability benefit, more information may be collected about your disability in order to assess your eligibility for the benefit.
-
-During the time you are a member of the Fund we will hold investment-related information about you including the amount of your superannuation contributions (including rollovers, employer contributions, salary sacrifice contributions and spouse contributions) and your investment preferences.
-
-When a benefit is due to be paid to you or a beneficiary, Sunsuper is required by law to confirm that you or the beneficiary are the person to whom the benefit belongs. We do this by asking you or the beneficiary to provide acceptable identification documents.
-
-If you die, we will need personal information about persons who are entitled to be considered for distribution of the death benefit. This includes your spouse, children, any other dependant, and any person who might be a beneficiary of your estate. The information we will ask for about those persons will include their name and residential address, gender, date of birth, details of their financial position and financial needs, and any other information that will assist us in deciding to whom the death benefit should be distributed. On your death, we normally collect information about potential beneficiaries from the beneficiaries themselves. However, we will also collect some information about the identity of potential beneficiaries from your executor or administrator or whoever notifies us of your death.
-
-### How do we collect personal information?
-
-We collect information about you through your Membership application form, Benefit payment request form and through various other forms. Some information (e.g. change of address) can be provided by you over the phone. Some information about you is collected from employers. When you join Sunsuper, your employer may provide us with your name, address, birth date and Tax file number.
-
-When a benefit is payable, employers provide us with details of the date of termination of employment. Employers may also notify us of updated address details from time to time.
-
-If you make a claim for a disability benefit, most of the information about the disability is collected from you directly, but information may also be collected from doctors and other experts and sometimes from your employer. New members are asked to give their consent to information being collected from these other sources if they make a claim for a disability benefit.
-
-### How do we use information we collect?
-
-Generally, we only use personal information that we collect from you for the purpose of managing your participation in Sunsuper, and for meeting our legal and regulatory obligations. We may also use the personal information we collect to occasionally notify you about:
-
-  * important changes to Sunsuper and its products,
-  * other new products which you might find valuable, or
-  * products offered by other parties we believe you may be interested in.
+  * your contact details, date of birth, gender, occupation, employer and employment history;
+  * financial information, potentially including your spouse’s financial information (if applicable);
+  * your investment preferences;
+  * your medical history and other health information;
+  * your salary information and beneficiaries;
+  * your Tax File Number;
+  * your bank account or other financial institution details where a benefit is to be paid or when we have received a request to set up a direct debit;
+  * Family Law information such as Financial Agreements or Court Orders; and
+  * identification documents.
 
 
 
-We give new members the option to nominate not to receive direct marketing communications. You can also exercise this option each time information of this type is sent to you.
+### 4 For what purposes will Sunsuper use your personal information?
 
-### Do we disclose your personal information to anyone?
+We collect, use and disclose your personal information in order to provide superannuation benefits and related services to you, including for the following purposes:
 
-Sunsuper may disclose your personal information in certain circumstances. Generally, we do not disclose your personal information to a party outside the Sunsuper group unless that party is contracted to Sunsuper to provide administrative services or other activities on our behalf and that party is bound by the same privacy rules we follow.
+  * Your identification details are used to process your member application, manage your participation in the Sunsuper Superannuation Fund (the Fund), ensure that you receive your entitlements from the Fund, provide you with information about your superannuation benefits from time to time, process superannuation contributions including through our clearing house and to ensure that we comply with our legal and regulatory obligations. 
+  * Your insurance-related information is collected so that your eligibility for death and disability insurance cover can be assessed. If you make an insurance claim, additional personal information may be collected about your claim in order to assess your eligibility for the benefit. 
+  * During the time you are a member of the Fund we will hold investment-related information about you including the amount of your superannuation contributions (including rollovers and other contributions) and your investment preferences.
+  * Your Tax File Number is collected in order for Sunsuper to be able to accept all types of contributions for you, and to ensure that your superannuation is taxed correctly.
+  * When a benefit is due to be paid to you or a beneficiary, Sunsuper is required by law to confirm that you or the beneficiary are the person to whom the benefit belongs. We do this by asking you or the beneficiary to provide acceptable identification documents. 
+  * If you die, we will need personal information about who is entitled to be considered for distribution of the death benefit. This includes your spouse, children, any other dependant, and any person who might be a beneficiary of your estate. The information we will ask for about those persons will include their name and residential address, gender, date of birth, details of their financial position and financial needs, and any other information that will assist us in deciding to whom the death benefit should be distributed. 
+  * To provide you with financial advice you request, we will ask for certain financial information and personal information about you and your spouse (if applicable) in order to assess your situation. 
+  * In the event that a Family Law situation involving superannuation arises, we will require the necessary information and instructions in order to proceed as required in accordance with family law superannuation splitting provisions.  
 
-Some examples of who we may disclose your personal information to and the reason for disclosure, are:
-
-  * Sunsuper's administration service provider, for the purposes of administering the superannuation fund.
-  * Mail service providers, for the mailing of member statements and other information.
-  * Insurers, insurance assessors or medical practitioners, for the purpose of the assessment of claims for insurance benefits or request for insurance cover.
-  * Legal advisers and other experts, if there is a dispute about a benefit.
-  * Regulatory and legal bodies, as required by law (e.g. Australian Taxation Office, the Australian Transaction Reports and Analysis Centre (AUSTRAC) or a Court of law).
-  * Auditors, in order to assist them in conducting their independent audit and review activities of Sunsuper's financial statements and operations.
-  * Third parties, if you give us permission to do so (e.g. a financial planner with whom you are dealing).
+  * Your identification details are used to register your attendance at Sunsuper events and seminars, when you enter into Sunsuper competitions, and to provide you with information about important changes to Sunsuper and any superannuation benefits and related services.
+  * We may also use your personal information for any purpose: 
+    * for which your personal information was originally collected or you have consented;
+    * for enforcement related activities conducted by, or on behalf of, an enforcement body; or
+    * which is authorised or required by a court/tribunal order or an Australian law.
+ 
 
 
 
-### Can you access the personal information we hold about you?
+We may also collect, use and disclose your personal information to provide you with information about our products and services and products offered by other parties that we believe may be of interest to you (including by way of direct mail, telephone, email, SMS and MMS, secure Sunsuper portals, and online advertising and marketing) or to request your feedback for research purposes. You always have the right to opt-out of receiving such information. You may exercise that right by contacting us as set out below in section 13.
 
-You may request access to any of the personal information we hold about you. A summary of personal information such as your name and address details, contact phone numbers, insurance cover and superannuation accounts you have with us, is available to you by calling us on 13 11 84.
+### 5 How do we collect personal information?
 
-Sunsuper is required under law to retain your personal information for a period of time after you have ended your relationship with us, which in some cases can be for several years. When it is no longer necessary to hold your personal information in our archiving system we attend to the secure destruction or deletion of your personal information.
+Sunsuper will generally collect your personal information as much as possible directly from you. For example, we collect information about you through your Membership application form, Benefit payment request form and through various other forms. 
 
-### How do we protect your information and ensure it is accurate?
+On occasion, we may collect your personal information from publicly available sources of information and from third parties. Examples of third parties we may collect your personal information from include:
 
-We have systems, practices and procedures in place to protect your privacy. The people who handle your personal information have the training, knowledge, skills and commitment to protect your personal information from unauthorised access or misuse.
+  * When you join Sunsuper, your employer may provide us with your contact details, birth date and tax file number. Employers also provide us with details of the date of termination of employment (where relevant), and notify us of updated address details from time to time. 
+  * If you make an insurance claim, most of the information about the claim is collected from you directly, but information may also be collected from doctors and other experts and sometimes from your employer.  
 
-To ensure that the information we hold about you remains accurate, complete and up-to-date, we may ask you to check and correct your personal details from time to time. We may do this when your Annual member statement is sent out or when you make a telephone enquiry.
+  * In the event Family Law matters involving superannuation arise, we may receive personal information and instructions as to required action from a third party such as a law firm.
+  * On your death, we normally collect information about potential beneficiaries from the beneficiaries themselves. However, we will also collect some information about the identity of potential beneficiaries from your executor or administrator or whoever notifies us of your death.
+  * We may collect personal information (including your health information) from medical practitioners for insurance purposes.
+  * If we cannot contact you we may try to obtain your contact details through other organisations that provide contact details such as Australia Post and Australian Taxation Office.
+  * We may also collect your personal information from direct marketing organisations and data providers.
 
-### Dealing with Sunsuper via the Internet
 
-You may have concerns about the personal information collected about you online or the security of your personal information that may be exchanged between us online.
 
-#### Information collected about you online
+We only collect ‘sensitive information’ if you have consented to the collection of the information and the information is reasonably necessary for one or more of our functions or activities or if the collection of sensitive information is authorised or required by a court/tribunal order or an Australian law, including the relevant Australian Laws set out in Appendix A.
 
-The Sunsuper website relies on "[cookies](http://www.sunsuper.com.au/Forms_and_Tools/Footer_docs/Sunsuper_Cookie_Policy/ "Sunsuper Cookie Policy")" to provide a number of services to you. A cookie is a piece of data that a website can send to your browser, which may then be stored on your computer. Cookies generally allow the website to interact more efficiently with your computer. Usually you can set your browser to notify you before you receive a cookie so that you can decide whether to accept it. You may also be able to set your browser to turn off cookies. However, sometimes not accepting a cookie may affect your use of our website. We sometimes use cookies to monitor which pages on our website you visit, in order to improve our service.
+### 6 Who do we disclose your personal information to?
 
-#### Security of your personal information online
+As set out in sections 4 and 5 above, there are a range of people and organisations we disclose your personal information to and collect your personal information from. The particular party we may disclose your personal information to will depend on the dealings you have with Sunsuper. Some examples of the parties to whom we may disclose your personal information include:
 
-Our website uses industry standard security protocols to protect the personal information you disclose in using our Member Online and Employer Online facilities.
+  * Sunsuper’s clearing house for the purpose of facilitating payment of employer contributions.
+  * Mail and electronic mail service providers for the communication of member statements and other information.
+  * Insurers, insurance assessors or medical practitioners for the purpose of the assessment of claims for insurance benefits or request for insurance cover.
+  * Legal advisers and other experts.
+  * Regulatory authorities and legal bodies as required by law (e.g. Australian Taxation Office, the Australian Transaction Reports and Analysis Centre (AUSTRAC), Australian Prudential Regulation Authority (APRA) or a Court or tribunal).
+  * Auditors - in order to assist them in conducting their independent audit and review activities of Sunsuper’s financial statements and operations. 
+  * Third parties - if you give us permission to do so (e.g. a financial planner with whom you are dealing).
+  * Overseas superannuation funds and overseas regulators (e.g. a foreign tax office) where you have requested a transfer to or from the overseas superannuation fund.
+  * Sunsuper’s overseas service provider for conducting surveys, if you participate in a survey.
+  * Sunsuper’s overseas service provider for our online member community, if you join the online community.
+  * Other third party service providers so that they can provide contracted services to Sunsuper such as information technology support, hosting services, telephony services, mailing or sending other documentation.
 
-Sunsuper uses encryption to provide more secure communications when using our Member Online and Employer Online facilities. In addition, when you join Member Online or Employer Online you must read and sign terms and conditions relating to privacy and security.
 
-You can review them now by clicking on the links below:
+
+We may also share your personal information with an organisation where we have obtained your consent.
+
+### 7 Do we disclose your personal information overseas?
+
+We may disclose personal information to overseas recipients. For a list of overseas countries where recipients of information that Sunsuper may disclose are located please refer to Appendix B. 
+
+Sunsuper will only disclose your personal information to a recipient overseas in accordance with the Privacy Act. Circumstances in which we will do this include:
+
+  * you have asked us to or we have your consent to do so;
+  * we have outsourced a business activity or function to an overseas provider;
+  * we reasonably believe that the overseas recipient is subject to a law or binding scheme that protects the information in a way that is substantially similar to the way the information is protected under the Privacy Act and the Australian Privacy Principles, and there are mechanisms you can access to take action to enforce that protection; or
+  * the disclosure is required or authorised by or under an Australian law or a court/tribunal order.
+
+
+
+### 8 Do you have to provide your personal information to us?
+
+If lawful and practicable, we offer you the opportunity to deal with us anonymously or by using a pseudonym. For example, we can provide general information to you about our products or services, or general guidance on how to fill out our forms without collecting any personal information. 
+
+However, in order to provide our services to you it is normally impracticable for us to deal with you anonymously or by using a pseudonym. For example if you do not provide your personal information to us, Sunsuper will be unable to properly administer your benefits, notify you about your entitlements, or adequately provide our services.
+
+### 9 Can you access the personal information we hold about you?
+
+You may request access to any of the personal information we hold about you by contacting us as set out below in section 13. A summary of personal information such as your name and contact details, insurance cover and superannuation accounts you have with us is available to you upon request. We will provide you with access to your personal information in accordance with the Privacy Act. Under the Privacy Act we can deny access to some or all of your personal information in specified circumstances, and will provide reasons for any refusal in writing.
+
+### 10 Can you correct any personal information held by us that is incorrect?
+
+Sunsuper endeavours to ensure that the personal information we hold about you is accurate, up-to-date, complete, and relevant and not misleading. Please let us know if you believe any of your personal information is incorrect by contacting us as set out below in section 13. 
+
+To ensure that the information we hold about you remains accurate, complete and up-to-date, we may ask you to check and correct your personal details from time to time. We may do this when your annual member statement is sent out, when you make a telephone enquiry, or through other means.
+
+### 11 How do we protect your personal information?
+
+Sunsuper has security policies and systems in place to protect your personal information. We implement multiple layers of security controls throughout our systems so that in the event that one control fails, or a vulnerability is exploited, there are other measures still in place to protect your personal information.
+
+The people who handle your personal information have the training and skills to protect your personal information from unauthorised access or misuse. 
+
+Our website uses industry standard security protocols to protect the personal information you disclose in using our Member Online and Employer Online facilities. Sunsuper uses encryption to provide more secure communications when using our Member Online and Employer Online facilities. In addition, when you join Member Online or Employer Online you must read and accept terms and conditions relating to privacy and security. 
+
+You can review the Member Online or Employer Online Terms and Conditions by clicking on the links below:
 
   * [Member Online Terms and Conditions](http://www.sunsuper.com.au/content.aspx?id=2147484039)
-  * [Employer Online Terms and Conditions](http://www.sunsuper.com.au/content.aspx?id=2147484382 "Employer Online Terms and Conditions")
-
-  
+  * [Employer Online Terms and Conditions](http://www.sunsuper.com.au/content.aspx?id=2147484382)
 
 
-### Who should you contact if you have any questions regarding our Privacy Policy?
 
-We have appointed a dedicated Privacy Officer to answer your queries by phone, fax, mail, or email.
+### 12 Cookies
 
-**Call** | 13 11 84  
----|---  
-**Fax** | (07) 3016 7722  
-**Email** | [Contact us form](http://www.sunsuper.com.au/Contact_us_forms/Contact_us/ "Contact us form")  
-**Mail** | The Privacy Officer  
-Sunsuper  
-GPO Box 2924  
-Brisbane QLD 4001  
-  
-#### Can you complain about a breach of your privacy? 
+The Sunsuper website uses “[cookies](http://www.sunsuper.com.au/Forms_and_Tools/Footer_docs/Sunsuper_Cookie_Policy/)” to provide a number of services to you. A cookie is a piece of data that a website can send to your browser, which may then be stored on your computer. Cookies generally allow the website to interact more efficiently with your computer. Usually you can set your browser to notify you before you receive a cookie so that you can decide whether to accept it. You may also be able to set your browser to turn off cookies. However, sometimes not accepting a cookie may affect your use of our website. We sometimes use cookies to monitor which pages on our website you visit, in order to improve our service.
 
-If you believe that we have not protected your personal information as set out in this privacy policy you may lodge a complaint with us by phone, fax, email, or mail.
+### 13 Who should you contact if you have any questions regarding our Privacy Policy?
 
-**Call** | 13 11 84  
----|---  
-**Fax** | (07) 3016 7722  
-**Email** | [Contact us form](http://www.sunsuper.com.au/Contact_us_forms/Contact_us/ "Contact us form")  
-**Mail** | The Privacy Officer  
-Sunsuper  
-GPO Box 2924  
-Brisbane QLD 4001  
-  
-#### What if you are not satisfied with our response?
+We have appointed a Privacy Officer. If you have any queries you can contact us by the following means: 
 
-If you are not satisfied with the result of your complaint to Sunsuper, you can refer your complaint to the Federal Privacy Commissioner by phone or mail.
+Call: 13 11 84  
+Email: Contact Us Online at <http://www.sunsuper.com.au/contactus>  
+Mail: The Privacy Officer  
+         Sunsuper Pty Ltd  
+         GPO Box 2924  
+         Brisbane Qld 4001
 
-**Phone** | 1300 363 992  
----|---  
-**Mail** | Director of Complaints  
-Office of the Federal Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 1042  
-  
-* Sunsuper is the name we use to describe the business that offers a range of superannuation products and related financial services. Sunsuper Pty Ltd (ABN 88 010 720 840) (RSE Licence no: L0000291) is the Trustee of the Sunsuper Superannuation Fund. Financial product advice is provided by representatives of Sunsuper Pty Ltd (ABN 88 010 720 840, AFSL No. 228975) or Sunsuper Financial Services Pty Ltd (ABN 50 087 154 818, AFSL No. 227 867). You can contact us in writing at GPO Box 2924, Brisbane, QLD 4001 or call us on 13 11 84 between 8.00am and 6.30pm Brisbane time Monday to Friday.
+### 14 Can you complain about a breach of your privacy?
+
+If you believe that we have not protected your personal information as set out in this privacy policy you may lodge a complaint with us by phone, email, or mail:
+
+Call: 13 11 84  
+Email: Contact Us Online at <http://www.sunsuper.com.au/contactus>  
+Mail: The Privacy Officer  
+         Sunsuper Pty Ltd  
+         GPO Box 2924  
+         Brisbane Qld 4001
+
+We will endeavour to resolve the issue as quickly as possible. If we have not resolved your complaint within 21 days, we will write to you about the progress of your complaint. 
+
+If you are not happy with Sunsuper’s response to your complaint or Sunsuper has not responded within 30 days, you can refer your complaint to the Office of the Australian Information Commissioner (OAIC) by: 
+
+  * the online Privacy Complaint form: located at <http://www.oaic.gov.au/privacy/making-a-privacy-complaint>
+  * mail: GPO Box 5218,Sydney NSW 2001
+  * fax: +61 2 9284 9666
+  * email : [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
+  * phone: 1300 363 992
+
+
+
+Full details about making a complaint to the OAIC can be obtained at <http://www.oaic.gov.au/privacy/making-a-privacy-complaint>
+
+### 15 Changes to this privacy policy
+
+This privacy policy may change from time to time. Before providing us with personal information, please check this policy for any changes either by logging on to [www.sunsuper.com.au](http://www.sunsuper.com.au/) or by contacting us as set out above in section 13 to request an up to date copy. This Privacy Policy was last updated 22 November 2013.
+
+* Sunsuper is the name we use to describe the business that offers a range of superannuation products and related financial services. Sunsuper Pty Ltd (ABN 88 010 720 840, AFSL No. 228975) is the Trustee of the Sunsuper Superannuation Fund. Financial product advice is provided by representatives of Sunsuper Financial Services Pty Ltd (ABN 50 087 154 818, AFSL No. 227867), wholly owned by the Sunsuper Superannuation Fund. Administration services are provided by Precision Administration Services Pty Ltd (ABN 47 098 977 667, AFSL No. 246604), wholly owned by the Sunsuper Superannuation Fund. You can contact us in writing at GPO Box 2924, Brisbane, QLD 4001 or call us on 13 11 84 between 8.00am and 6.30pm AEST Monday to Friday.
+
+* * *
+
+### Appendix A
+
+#### Australian Laws under which Sunsuper is required or authorised to collect information.
+
+**Australian Law**  
+Anti-Money Laundering and Counter-Terrorism Financing Act 2006  
+Corporations Act 2001  
+Family Law Act 1975  
+Income Tax Assessment Act 1936  
+Income Tax Assessment Act 1997  
+Privacy Act 1988  
+Superannuation (Unclaimed Money and Lost Members) Act 1999  
+Superannuation Industry (Supervision) Act 1993
+
+* * *
+
+### Appendix B
+
+#### Overseas Countries where Sunsuper may disclose information
+
+  * Canada
+  * New Zealand
+  * United Kingdom
+  * United States of America
+
+
