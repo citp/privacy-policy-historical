@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sweetpenniesfromheaven.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206172421id_/http%3A//www.sweetpenniesfromheaven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetpenniesfromheaven.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121327id_/http%3A//www.sweetpenniesfromheaven.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sweet Pennies from Heaven | Saving Money | DIY | Frugal Tips | Recipes
 
 _This post may contain affiliate links or sponsored content. Please see our  [privacy](http://sweetpenniesfromheaven.com/privacy-policy/) and [disclosure policy](http://sweetpenniesfromheaven.com/disclosure_policy/) for more information._
 
- **Privacy Policy:**
+**Privacy Policy:**
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -19,3 +19,12 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+### [Jenni](http://sweetpenniesfromheaven.com/author/admin/ "Jenni")
+
+Jenni here! I'm the owner and primary blogger here at Sweet Pennies from Heaven. Married to my better half for 17 years and mom to one awesome little boy. We have 2 dogs, Pepper and Izzy. My favorite thing to do is nap. I love sweets and coffee. Sweet coffee.
+
+[More Posts](http://sweetpenniesfromheaven.com/author/admin/ "More posts by Jenni") \- [Website](http://www.sweetpenniesfromheaven.com/ "Jenni")
+
+Follow Me:  
+[](http://www.twitter.com/sweetpennies)[](http://www.facebook.com/http://www.facebook.com/pages/Sweet-Pennies-from-Heaven/337431812765)[](http://www.pinterest.com/http://pinterest.com/sweetpennies/)[](https://plus.google.com/115007932944919050044/)
