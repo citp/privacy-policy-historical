@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the goldsgym.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211062212id_/http%3A//www.goldsgym.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldsgym.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105434id_/http%3A//www.goldsgym.com/privacy-policy) for the most accurate reproduction.*
 
 # Gold's Gym | Privacy Policy | Fitness Gym
 
 Gold’s Gym is committed to protecting the privacy of its visitors and has prepared the following statement to inform users how personally identifying information and non-personally identifying information is gathered from our Web site and used by GOLDSGYM.COM. GOLD’S GYM encourages its Web site users to be smart about choosing when, and to whom, to release information online.
 
 **PRIVACY POLICY UPDATES**  
-Whenever our Privacy Poliicy is modified we will notify you that changes have been made by updating the month, day, and year currently displayed beside the link to our privacy policy statement. This link is located at the bottom of each page within the GOLDSGYM.COM Web site.
+Whenever our Privacy Policy is modified we will notify you that changes have been made by updating the month, day, and year currently displayed beside the link to our privacy policy statement. This link is located at the bottom of each page within the GOLDSGYM.COM Web site.
 
 **CHILDREN**  
 Children (persons under the age of 18) are not eligible to use the Web site unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18, you may only use this Web site in conjunction with and under the supervision of your parents or guardians.
@@ -59,10 +59,18 @@ Internal Service Providers for Our Operations. We may use third parties that we 
 **SECURITY**  
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, GOLDSGYM.COM cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we use reasonable efforts to ensure that collected personally identifiable information is secure and not readily accessible to unapproved individuals or third parties. GOLDSGYM.COM has limited the number of people who have physical access to our database servers and has implemented electronic security systems and password protections which help further guard against unauthorized access.
 
-Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Web site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. CONTACT INFORMATION If you have any questions, comments or concerns regarding GOLD’S GYM’s privacy policy and/or practices, write us at
+Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Web site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+
+**CONTACT INFORMATION**
+
+If you have any questions, comments or concerns regarding GOLD’S GYM’s privacy policy and/or practices, write us at:
 
 Gold’s Gym  
+Matt Holder  
+Director of Digital Marketing  
 4001 Maple Ave., Suite 200  
 Dallas, TX 75219
 
 This policy, like the online medium itself, is subject to change and, as such, we encourage you to review this policy from time to time.
+
+Effective Date: 06/02/2014
