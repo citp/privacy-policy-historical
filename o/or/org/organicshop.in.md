@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organicshop.in privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220013113id_/http%3A//organicshop.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicshop.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625162928id_/http%3A//organicshop.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Organic Shop
 
