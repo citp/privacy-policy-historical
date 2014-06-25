@@ -1,46 +1,64 @@
-> *The following text is extracted and transformed from the rashaentertainment.com privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814074752id_/http%3A//www.rashaentertainment.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rashaentertainment.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045325id_/http%3A//rashaentertainment.com/private-policy) for the most accurate reproduction.*
 
-# Rasha Entertainment, LLC
+# PRIVATE POLICY » Rasha Entertainment Music Industry Blog
 
-  
+**Last updated: December 1, 2013**
 
+RashaEntertainment.com (also referred to herein as “us, “we,” and the “Website”) respects your privacy and is committed to protecting it at all times. This Internet Privacy Notice (the “Privacy Notice”) explains how we collect, use and safeguard information on this website. Please read this Privacy Notice carefully.  
+Information Collection and Use by RashaEntertainment.com.
 
-## Internet & Privacy Policies  
+RashaEntertainment.com collects user submitted information such as name, email address, and age to authenticate users and to send notifications to those users relating to the RashaEntertainment.com service. RashaEntertainment.com also collects other profile data including but not limited to: personal interests, gender, age, and geographical location in order to assist users in finding and communicating with each other.
 
+RashaEntertainment.com.com also logs non-personally-identifiable information including IP address, profile information, aggregate user data, cookie information, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes  
+We may also use a user’s email address to send updates, a newsletter, or news regarding the service, though users may choose not to receive email of this type.  
+From time to time, RashaEntertainment.com or a partner may sponsor a promotion, sweepstake or contest onRashaEntertainment.com. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.  
+**Invitations and Other Communications to Non-members:**  
+RashaEntertainment.com members can invite friends to join the service by sending invitation emails via our automated invitation system. RashaEntertainment.com stores the email addresses that members provide so that the respondents may be added to the friend’s list of the member sending the invitations, and also to send reminders of the invitations. RashaEntertainment.com does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address).
 
-**Internet Security Policy**
+Recipients of invitations from RashaEntertainment.com may contact RashaEntertainment.com to request the removal of their information from our database.
 
-Welcome to Rasha Entertainment, Inc.'s web site. This section explains our policy regarding any personal information you might supply to us when you visit this site. Our goal is to protect your information on the Internet in the same way that we protect it in all the other ways we interact with you: in the office, in person and If you do provide personal information, such as address, e-mail, telephone and fax numbers, as well as demographic, iit will be sent to us over a secure connection using Secure Sockets Layer (SSL) technology. We will maintain this information, as well as any business activities and transactions, according to our usual strict security and confidentiality standards.
+You may prevent RashaEntertainment.com email invitations and other messages from being sent to any email address you control by sending a single email with the subject “BLOCK INVITE” to Rahiem@RashaEntertainment.com.com. Please note that the email must come from the account you wish to block.
 
-In order to provide better service, we use "cookies". A cookie is a small piece of information which a web site stores on your web browser on your computer and can later retrieve. The cookie cannot be read by a web site other than the one that set the cookie. We use cookies for a number of administrative purposes, for example, to store your preferences for certain kinds of information. 
+**Use of Cookies:**  
+RashaEntertainment.com uses cookies to store visitor’s preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same promotions and advertisements, and to customize newsletter, advertising, and Web page content based on browser type and user profile information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set – each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences – however, you must enable cookies from RashaEntertainment.com in order to use most functions on the site.
 
-Most cookies last only through a single session, or visit. None will contain information that will enable anyone to contact you by telephone, e-mail, or postal mail. You can set up your web browser to inform you when cookies are sent, or to prevent cookies from being set. 
+**[Links](http://rashaentertainment.com/category/links/ "Links"):**  
+RashaEntertainment.com contains links to sites. RashaEntertainment.com is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on RashaEntertainment.com.  
+Chat Rooms, Message Boards, and Public Forums:
 
-**Privacy Policy**
+**Chat Rooms, Message Boards, and Public Forums** :  
+RashaEntertainment.com is not responsible for readers or [articles](http://rashaentertainment.com/category/articles/ "articles") that are?voluntarily post(ed) on public information to Journals, WebLogs, Message Boards, Classifieds, Public Forum or any other taken from other blogs/media outlets?that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.  
+**Correcting/Updating or Removing Information** :  
+RashaEntertainment.com users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Profile and Account Info. If a [article](http://rashaentertainment.com/category/article/ "article") needs to be removed from the site the site editor has the right to override any content, article or post that does not meet the criteria of the site. If an article is subject to legalities or a “cease and desist,” the article will be removed.  
+**Third Party Advertising**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp  
+**Security**  
+RashaEntertainment.com member accounts are secured by member-created passwords. RashaEntertainment.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on RashaEntertainment.com, please contact us at info@RashaEntertainment.com  
+**Sharing and Disclosure of Information RashaEntertainment.com Collects** :  
+Except as otherwise described in this privacy statement, RashaEntertainment.com will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by RashaEntertainment.com, whether or not a response is required by applicable law; (2) to enforce the RashaEntertainment.com Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. For more information see the “Changes in Our Privacy Policy” section below.
 
-YOUR PRIVACY MATTERS TO US. We recognize the importance to you of keeping your information secure and confidential. We will not sell or share nonpublic personal information about you with third parties either outside or within our corporate family except as explained in this Privacy Policy. This Privacy Policy covers personally identifiable information about both current and former customers who obtain products or services from us for personal, family or household purposes, and commercial use, and is provided as required by the Federal Privacy Law. 
+**In the[Event](http://rashaentertainment.com/category/event/ "Event") of Merger, Sale, or Bankruptcy**:  
+In the event that RashaEntertainment.com is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors rights generally, we may not be able to control how your personal information is treated, transferred, or used.  
+**Special Note to International Users** :  
+RashaEntertainment.com is hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing RashaEntertainment.com from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of RashaEntertainment.com, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.  
+**Changes in Our Privacy Policy** :  
+From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted If, however, we are going to use users personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days.  
+**Your Consent:? Unless specifically provided for herein, or as:**  
+Otherwise required by law, you acknowledge and agree that you will not receive any notice when the personal information we have collected will be sent to third parties…  
+**How Secure Is My Personal Information?**  
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
 
-COLLECTING INFORMATION. When you seek to obtain products and services from us, we may collect nonpublic personal information about you from the following sources: 
+We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.  
+It is your responsibility to protect against unauthorized access to your password and to your computer. Be sure to sign off when you finish using a shared computer and to close the web browser you used.
 
-Applications and other forms, or through other communication including information provided by mail, telephone, in person or electronically. Such information may include your name, address, employment, income, and other identifying information. Your transactions with us, members of our corporate family, or others. Such information may include, for example, your account balance and payment history. Consumer reporting agencies or other companies, which may include, for example, information regarding your creditworthiness or credit history. Other sources which may include, for example, verification of your employment history, other representations made by you. 
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that the personally identifiable information that we collect will never be disclosed to and/or accessed by any third party in a manner that is inconsistent with this Privacy Notice.
 
-SHARING INFORMATION OUTSIDE OF OUR CORPORATE FAMILY. We may share all of the information described above with our service providers, whose services may include, for example, mailing account statements. Service providers may include, for example, insurance companies, payment processing companies, mail service companies, check printing companies, and data processing companies. We may also share the information described above with companies that perform marketing services on our behalf. Such companies have agreed to keep confidential the information that we provide to them and to use the information only to carry out the functions we have asked them to perform. We do not share your nonpublic personal information with any company outside our corporate family for the purpose of marketing that company’s products or services. Finally, we may disclose all of the information above as permitted by law.
+**What Information Can I Access?**  
+RashaEntertainment.com.com gives you access to a broad range of information, about your account and your interactions with RashaEntertainment.com for the limited purpose of viewing and,? in certain cases,? updating that information. The list of information you can access may change as our Website evolves.
 
-FORMER CUSTOMERS. If you were, but are no longer, our customer, the policies and practices described in this Privacy Policy will apply to you except as stated below in the section on “Additional Rights and Modifications.”
+**Are Children Allowed To UseRashaEntertainment.com?**  
+RashaEntertainment.com.does NOT provide services to children or sell products for purchase by children.  
+**Conditions of Use, Notices, and Revisions**  
+If you choose to visit RashaEntertainment.com, your visit, any subsequent visit, and any dispute over privacy or any other matter related to the Website is subject to the terms of this Privacy Notice and the Conditions of Use, which include, among other things, your consent to limitations on any damages you may be entitled to, your agreement to waive any right to a trial you may have and your agreement to arbitrate any disputes, and application of the laws of the State of California. If you have any concern about this Privacy Notice and/or the privacy of your personal information at RashaEntertainment.com, please contact us with a thorough description of your concern, and we will try to address it.
 
-PROTECTING CONFIDENTIALITY AND SECURITY. We restrict access to nonpublic personal information about you to only those employees whom we have determined need to know that information in the course of their job responsibilities. We maintain physical, electronic, and procedural safeguards that comply with applicable federal standards to protect nonpublic personal information.
-
-ADDITIONAL RIGHTS AND MODIFICATIONS. You may have other privacy protections under state law. We will provide notice of our Privacy Policy to you annually, as long as you maintain a customer relationship with us. We reserve the right to change this Privacy Policy in any respect at any time, and we will inform you of changes as required by law.
-
-Identity Theft Information. If you believe you may be a victim of identity theft with regard to a Rasha Entertainment, Inc. transaction, please submit your written statement to Campbelton Rd, Atlanta, Georgia. If you have already filed a report with a law enforcement agency, please include a copy of the report with your correspondence. Additional information from you may be requested.
-
-This Privacy Policy applies to:
-
-Rasha Entertainment, Inc.  
-Campbelton  
-Atlanta GA   
-404-999-9999 
-
-Effective January 1, 2006
-
-| 
+Our [business](http://rashaentertainment.com/category/business/ "business") changes constantly, and our Website, this Privacy Notice and the Conditions of Use are subject to change as well. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but we are not obligated to do so, and you should check our Website frequently to see any changes to any of our policies that may affect you. Unless we specifically state otherwise, the Privacy Notice applies to all personal information that we may have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of personally identifiable information collected in the past without attempting to notify those affected customers.
