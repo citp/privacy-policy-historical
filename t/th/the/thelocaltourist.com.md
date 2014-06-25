@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelocaltourist.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206154948id_/http%3A//thelocaltourist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocaltourist.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055957id_/http%3A//thelocaltourist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Local Tourist
 
@@ -74,6 +74,6 @@ The Local Tourist
 5332 Riverview Dr  
 Lisle, Illinois 60532  
 United States  
-[info@thelocaltourist.com](mailto:info@thelocaltourist.com)
+info@thelocaltourist.com
 
 This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
