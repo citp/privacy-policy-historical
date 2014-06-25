@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehimalayantimes.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207162215id_/http%3A//www.thehimalayantimes.com/privacypolicy.php%3Ftitle%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehimalayantimes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122835id_/http%3A//www.thehimalayantimes.com/privacypolicy.php%3Ftitle%3Dprivacypolicy) for the most accurate reproduction.*
 
 # The Himalayan Times - Nepal News, News on Nepal, News of Nepal, Nepali News, Nepalese News
 
@@ -84,4 +84,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 **Contact Us**
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20131207162215id_/http%3A//www.thehimalayantimes.com/contactus.php).
+If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20140625122835id_/http%3A//www.thehimalayantimes.com/contactus.php).
