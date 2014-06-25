@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainsigma.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805185955id_/http%3A//domainsigma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsigma.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053410id_/http%3A//www.domainsigma.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DomainSigma
 
@@ -44,6 +44,9 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 **Google Adsense**  
 Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
+**Google Analytics**  
+Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of domainsigma.com, to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. We may use the 3rd-party audience data (such as age, gender, and interests) by Google Analytics, to analyze and provide a much better service through our website.
+
 **Changes to this privacy policy**  
 Domainsigma has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
@@ -55,4 +58,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [Domainsigma](http://domainsigma.com/)  
 [http://domainsigma.com](http://domainsigma.com/)
 
-This document was last updated on June 11, 2013
+This document was last updated on March 2, 2014
