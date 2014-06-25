@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeasily.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219080750id_/http%3A//codeasily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeasily.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072408id_/http%3A//codeasily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CodEasily.com
 
@@ -53,7 +53,7 @@ CodEasily.com, has created this privacy policy to demonstrate our commitment to 
 
 **Refund Policy**
 
-  * To preserve the rarity of our templates, we do not offer credits, exchanges, or refunds. All sales are final. No exceptions.
+  * To preserve the rarity of our templates, we do not offer credits or refunds. All sales are final. No exceptions.
 
 
 
@@ -63,6 +63,4 @@ CodEasily.com, has created this privacy policy to demonstrate our commitment to 
 
 
 
-© Copyright - CodEasily.com
-
-
+Scroll to top
