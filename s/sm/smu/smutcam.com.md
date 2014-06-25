@@ -1,55 +1,77 @@
-> *The following text is extracted and transformed from the smutcam.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513185517id_/http%3A//www.smutcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smutcam.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065813id_/http%3A//smutcam.com/privacy) for the most accurate reproduction.*
 
-# Free Smut Cams - Privacy
+# Live Sex Cams: XXX Adult Sex Shows, Live Porn Chat - smutcam.com
 
-[Home](http://www.smutcams.com/) / Privacy Policy
+LAST REVISION: SEPTEMBER 19, 2013
 
-By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
+PLEASE READ THIS smutcam.com PRIVACY POLICY ("Beronata Services PRIVACY POLICY") CAREFULLY. IT SETS FORTH THE PRACTICES OF Beronata Services, LTD ("Beronata Services") WITH RESPECT TO INFORMATION COLLECTED FROM BASIC MEMBERS, PREMIUM MEMBERS, GUESTS AND VISITORS TO smutcam.com WITH RESPECT TO ALL SERVICES PROVIDED BY Beronata Services OR SERVICES REQUIRING A LOG-IN OR PASSWORD (THE "SERVICES"). BY VISITING THE SITE, OR COMPLETING THE REGISTRATION PROCESS AND CLICKING THE "SUBMIT" BUTTON, YOU AGREE TO BE BOUND BY ALL OF THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY.
 
-SmutCams respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use SmutCams, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the SmutCams website.
+Beronata Services DOES NOT KNOWINGLY COLLECT PERSONAL DATA FROM CHILDREN. IF YOU ARE UNDER THE AGE OF EIGHTEEN (18), PLEASE DO NOT GIVE US ANY PERSONAL DATA. IF YOU HAVE REASON TO BELIEVE THAT ANYONE UNDER 18 HAS PROVIDED PERSONAL DATA TO Beronata Services, PLEASE CONTACT US, AND WE WILL ENDEAVOR TO DELETE THAT INFORMATION FROM OUR DATABASES
 
-SmutCams will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
+Beronata Services may change the Privacy Policy at any time by posting a revised version in place of this document. The last revision will be indicated at the top of this document and takes precedence over all previous versions. You agree to review the Privacy Policy periodically to be aware of such changes. If any change is unacceptable to you, you may terminate your membership as provided in your Subscriber Agreement. Your use, or continued use of the Services following the Effective Date of any such change to the Privacy Policy constitutes acceptance of all such changes.
 
-If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
+## 1\. Introduction.
 
-When you do provide us with personal identifying information, such information will be gathered solely by SmutCams, and is for use solely by SmutCams and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
+1.1. General.
 
-SmutCams may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
+The following presents important information relating to Beronata Services's Privacy Policy. Because protecting your privacy is very important to Beronata Services, we have established a privacy policy that safeguards your personal information, and are committed to protecting its confidentiality. We will limit the collection and use of personally identifiable information ("Individual Information"), to what is necessary to administer our business, provide you with the quality Services, and offer you opportunities we think will be of interest. We will NOT disclose any Individual Information unless (i) we believe that such action is necessary to comply with applicable law or valid legal process (including without limitation search warrants, court orders, or providing assistance to law-enforcement authorities investigating the alleged commission of a crime), (2) with respect to payment processing and billing (e.g., to a credit-card bank may help us prove the legitimacy of a credit-card charge or bill), (3) if the disclosure of Individual Information is necessary to provide services that third parties provide to you on Beronata Services's behalf, or (4) as otherwise set forth herein (i.e., in Section 5 hereunder).
 
-SmutCams may request personal identifying information on specific pages that allow users to contact SmutCams. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
+1.2. Types of Individual Information.
 
-There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of SmutCams or those of SmutCams customers or chat hosts, (4) under exigent circumstances to protect the physical safety of SmutCams, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
+Individual Information is any information, data or records that relate to your Beronata Services membership or use of Beronata Services and identifies you or your individual Member account. The three types of Individual Information are; (1) "identity and billing information," including without limitation your name, street address, telephone number, billing information, and any account information associated with your screen names; (2) "navigational and transactional information," including without limitation information about which pages or products or services you access through Beronata Services; and (3) "private communications," including without limitation the contents of e-mail, or private chat room communications.
 
-Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
+## 2\. Member Identity and Billing Information.
 
-We may use cookies to:
+2.1. Collection and Storage.
 
-  * Deliver content specific to your interests.
-  * Save your password so you don’t have to re-enter it each time you visit our sites.
+We maintain various types of identity and billing information ("Billing Information"), including without limitation, your name, street address, telephone number(s), length of membership, and payment information. We may also keep information on your communications with our customer service department, employees or contractors, and general account history, such as accumulated usage credits or written complaints relating to your account. We safeguard Billing Information from unauthorized access and only authorized employees or agents who need to carry out legitimate business functions are permitted access to Individual Information. Beronata Services employees who violate Beronata Services's privacy policies are subject to disciplinary actions, including possible termination. We may use agents, who are bound by strict confidentiality guidelines, to perform storage, processing, and other limited functions on Beronata Services's behalf.
 
+2.2. Use.
 
+We use Billing Information to administer our business, ensure that you are properly billed and to communicate with you if the need arises.
 
-We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties.
+2.3. Disclosure.
 
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
+Except as set forth in Section 5 herein, our policy is not to disclose Billing Information to third parties, unless required to do so by applicable law or valid legal process (including without limitation search warrants, court orders or providing assistance to law-enforcement authorities investigating the alleged commission of a crime) or as required to process any payments made to Beronata Services by you or Beronata Services bills. Beronata Services, at its sole discretion, reserves the right to make exceptions to this policy in extraordinary circumstances (including without limitation a bomb or suicide threat, or instances of suspected illegal activity) on a case-by-case basis. When feasible, we do allow our Members to access and verify their Billing Information. We also allow our Members to request corrections to this information. Beronata Services intends to abide by applicable laws governing the disclosure to governmental entities of Individual Information and other records. If we are under a legal obligation to disclose Individual Information to a private citizen or entity, we may make efforts under the circumstances to notify the affected Member(s) in advance of releasing it in order to provide the Member(s) an opportunity to pursue any available legal protection.
 
-This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
+2.4. Compelling Obligation.
 
-Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. SmutCams does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
+Although Beronata Services will take reasonable measures not to disclose Billing Information, we may be compelled to do so in the good faith belief that such action is reasonably necessary (a) to comply with the law; (b) to comply with legal process; (c) to enforce Beronata Services's terms and conditions; (d) to respond to claims that any content violates the rights of third parties; or (e) to protect the interests of Beronata Services or others.
 
-Members areas of SmutCams may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@smutcams.com](https://web.archive.org/contactsupport.php?).
+## 3\. Navigational and Transactional Information.
 
-SmutCams does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from SmutCams, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?).
+3.1. Collection.
 
-SmutCams also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if SmutCams becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, SmutCams reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the SmutCams program, termination of SmutCams services, and forfeiture of all commissions.
+We may collect and store certain navigational and transactional information ("Navigational Information"), such as data on the choices you make from the range of available services, and the times and ways you use Beronata Services.
 
-If you have any questions about this Privacy Policy, please contact our customer service department at [support@smutcams.com](https://web.archive.org/contactsupport.php?) and provide us with your name, your SmutCams login name, and any information you feel is important.
+3.2. Use.
 
-The address for correspondence by post is
+Beronata Services uses Navigational Information to personalize Beronata Services and for programming and editorial research. For example, we may use this information to understand our Members' reactions to menu items, and Services, and to customize Beronata Services based on our Members' interests.
 
-Streamates Limited  
-c/o Ariel Secretaries Limited  
-196, Arch Makarios Ave, Ariel Corner,  
-1st Flr, Office 102  
-P.O. Box 57528  
-3316 Limassol - Cyprus
+3.3. Disclosure.
+
+Except as set forth in section 5, Beronata Services will not disclose to third parties Navigational Information (e.g., what you view or access through Beronata Services), except to comply with applicable law or valid legal process (including without limitation search warrant, court order, or providing assistance to law-enforcement authorities investigating the alleged commission of a crime).
+
+## 4\. Private Communications.
+
+4.1. Collection and Storage.
+
+The Beronata Services computer system automatically records and retains all chat room communications ("Communications"). However, to keep copies of any communications, you should store them on your personal computer hard drive or in print form. You agree that Beronata Services may employ e-mail virus-checking technology to protect its system and its members from viruses.
+
+TO THE EXTENT NECESSARY, YOU EXPLICITLY CONSENT AND AGREE TO Beronata Services's RECORDATION OF ALL CHAT ROOM COMMUNICATIONS, AND HEREBY WAIVE ANY RIGHTS YOU MAY HAVE UNDER STATE, FEDERAL, OR LOCAL LAW, INCLUDING BUT NOT LIMITED TO THE STORED COMMUNICATIONS ACT, STATE EAVESDROPPING LAWS, AND THE ELECTRONIC COMMUNICATIONS PRIVACY ACT.
+
+4.2. Use.
+
+Beronata Services treats Communications as strictly confidential. Beronata Services does not access, use or disclose the contents of Communications, except in limited circumstances as specifically provided herein. You acknowledge that private communications directed at a person or entity, including Beronata Services, may be used or disclosed by the intended recipient(s) without restrictions relating to privacy or confidentiality.
+
+4.3. Disclosure.
+
+Beronata Services does not access or disclose the contents of Communications (e.g., e-mail, Member-created private rooms, online communications), unless it in good faith believes that such action is necessary (1) to comply with applicable law or valid legal process (including without limitation search warrants, court orders or providing assistance to law-enforcement authorities investigating the alleged commission of a crime); (2) to protect the rights or property of Beronata Services; or (3) in emergencies when Beronata Services believes that physical safety is at risk. Beronata Services reserves the right to treat as public any private chat room whose directory or room name is published or becomes generally known or available.
+
+## 5\. Sale, Merger or other Corporate Transaction.
+
+Beronata Services reserves the right to disclose any Individual Information to any person or entity in the event of a sale (of all or a portion of Beronata Services's assets), merger, reorganization, dissolution or similar event.
+
+## 6\. Questions.
+
+If you have any questions whatsoever regarding Beronata Services's Subscriber Privacy Policy, e-mail [support@beronata.com](mailto:support@beronata.com).
