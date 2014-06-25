@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newrecruitments.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602143829id_/http%3A//www.newrecruitments.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newrecruitments.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044634id_/http%3A//www.newrecruitments.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # NewRecruitments.com privacy policy
 
@@ -48,13 +48,6 @@ We would request you please provide us as much information as possible to resolv
   
 | 
 
-Skilled Writer?
-
-Part time content writers wanted for several websites to **work online from home**.   
-Skills: Excellent English writing skills. Good English skills with basic computing knowledge needed. Visit the link below for more details
-
-[Online Content Writing Jobs](https://web.archive.org/forum/798-Content-writers-required-work-from-home.aspx)
-
-Online People  
+Browse Jobs by State/City  
   
 ---|---
