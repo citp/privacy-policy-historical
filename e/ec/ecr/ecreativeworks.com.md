@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ecreativeworks.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019012818id_/http%3A//www.ecreativeworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecreativeworks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625164544id_/http%3A//www.ecreativeworks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ecreativeworks
 
-## Effective: July 1, 2004
+## Effective: July 1, 2013
 
 Ecreativeworks is committed to protecting the privacy of visitors to our website and will not sell or provide any non-public personal information to anyone without your permission.
 
