@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartable.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818111912id_/http%3A//apartable.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartable.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135812id_/https%3A//apartable.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Apartable
 
@@ -18,7 +18,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 #### What do we use your information for?
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one or more of the following ways: 
 
   * To personalize your experience (your information helps us to better respond to your individual needs); 
   * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you;
@@ -85,6 +85,6 @@ This policy was last modified on February 1, 2012
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [Apartable](http://apartable.com/)  
-675 3rd Ave, Suite 2600  
-New York, NY 10017 USA  
+222 Broadway, 20th Floor  
+New York, NY 10007 USA  
 Email: [hello@apartable.com](mailto:hello@apartable.com). 
