@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meylah.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222082554id_/http%3A//meylah.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meylah.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124110id_/http%3A//meylah.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Meylah
 
@@ -83,5 +83,6 @@ If we change our privacy policies and procedures, we will post those changes on 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at privacy@meylah.com, or send mail to:
 
 Meylah, Corp.  
-3037 278th Court SE  
-Fall City, WA 98024
+3020 Issaquah-Pine Lake Road SE,  
+PMB 540  
+Sammamish, WA 98074
