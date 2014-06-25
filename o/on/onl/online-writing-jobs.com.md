@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-writing-jobs.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021025851id_/http%3A//www.online-writing-jobs.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-writing-jobs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082409id_/http%3A//www.online-writing-jobs.com/privacypolicy.php) for the most accurate reproduction.*
 
 # ONLINE WRITING JOBS - Freelance Writing Jobs
 
@@ -37,7 +37,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site.
 
 Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>.
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/policies/technologies/ads/>.
 
 **Children**
 
