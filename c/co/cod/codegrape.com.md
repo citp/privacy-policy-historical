@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codegrape.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204231942id_/http%3A//www.codegrape.com/resources/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codegrape.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114815id_/http%3A//www.codegrape.com/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CodeGrape
 
@@ -61,9 +61,7 @@ We collect information from people who use the Membership Section of our Site ("
 
 If you choose to buy or sell on our Site we collect information about your buying and selling behaviour.
 
-If you use a payment facilitator on the Site, we collect additional necessary information, including but not limited to billing address, credit card number and credit card expiry date.
-
-**USE OF INFORMATION AND DISCLOSURE**
+If you use a payment facilitator on the Site, we collect additional necessary information, including but not limited to billing address, credit card number and credit card expiry date. **USE OF INFORMATION AND DISCLOSURE**
 
 CodeGrape will only use the information it collects through the Site for the following purposes:
 
