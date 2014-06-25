@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eduresultbd.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208122044id_/http%3A//eduresultbd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduresultbd.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114857id_/http%3A//eduresultbd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Admission, Exam, Result
+# Privacy Policy | eduresultbd.com
 
 This Privacy Policy governs the manner in which eduresultbd.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://eduresultbd.com](http://eduresultbd.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by eduresultbd.com. 
 
