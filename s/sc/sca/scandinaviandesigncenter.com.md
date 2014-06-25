@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the scandinaviandesigncenter.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805164008id_/http%3A//www.scandinaviandesigncenter.com/CustomerService/SecurityPolicy/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scandinaviandesigncenter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625175901id_/http%3A//www.scandinaviandesigncenter.com/CustomerService/SecurityPolicy/Privacy) for the most accurate reproduction.*
 
 # Security and privacy policy at scandinaviandesigncenter.com
 
-[](http://www.scandinaviandesigncenter.com/ "Home")
+NEW IN THE SHOPPING CART
+
+|   
+---|---  
+  
+[ ](http://www.scandinaviandesigncenter.com/ "Home")
 
 ### Introduction
 
-Scand. Design OnLine AB, www.scandinaviandesigncenter.com, wants you to know how we handle the personal information you share with us when you visit our website. Below, you will find a detailed account of our business. If you have any questions, contact customerservice@designonline.se. We assemble information according to regulations defined by the Swedish Data Inspection Board. Scand. Design OnLine AB is responsible for how personal information is handled. If you have any further questions, contact the Swedish Data Inspection Board at datainspektionen@datainspektionen.se. When you make a purchase at www.scandinaviandesigncenter.com we need to know your name, address, E-mail and telephone number. When you complete your purchase, you have the opportunity to sign up for our free newsletters and other information from us by E-mail. Your E-mail address is never to be sold or given away to any third party outside Scand. Design OnLine AB and its partners that take part in handling your order. 
+Scand. Design OnLine AB, www.scandinaviandesigncenter.com, wants you to know how we handle the personal information you share with us when you visit our website. Below, you will find a detailed account of our business. If you have any questions, contact customerservice@scandinaviandesigncenter.com. We assemble information according to regulations defined by the Swedish Data Inspection Board. Scand. Design OnLine AB is responsible for how personal information is handled. If you have any further questions, contact the Swedish Data Inspection Board at datainspektionen@datainspektionen.se. When you make a purchase at www.scandinaviandesigncenter.com we need to know your name, address, E-mail and telephone number. When you complete your purchase, you have the opportunity to sign up for our free newsletters and other information from us by E-mail. Your E-mail address is never to be sold or given away to any third party outside Scand. Design OnLine AB and its partners that take part in handling your order. 
 
 ### Security
 
@@ -21,15 +26,6 @@ Scand. Design OnLine AB is using a technique called cookies. The cookie is a ser
 Any changes in the Privacy Policies of Scand. Design OnLine AB will be clear and able to take part of at www.scandinaviandesigncenter.com. See “Privacy Policies”. 
 
 ### To make contact with Scand. Design OnLine AB
-
-Scand. Design Online AB  
-Privacy Policy Coordinator  
-Trångsundsvägen 4  
-SE-392 39 KALMAR  
-SWEDEN
-
-E-mail: [customerservice@designonline.se](mailto:customerservice@designonline.se)  
-Tel: +46 (0) 480-449920, Monday - Thursday 12.30-15.30pm CET.
 
 Thank you, for signing up to our Newsletter.  
 
