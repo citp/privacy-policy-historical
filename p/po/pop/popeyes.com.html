@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the popeyes.com privacy policy that was archived on 2013-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206192924id_/http%3A//popeyes.com/company/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the popeyes.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625080644id_/http%3A//popeyes.com/company/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
-<meta charset="UTF-8">
+<meta charset="UTF-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o?o:n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({D5DuLP:[function(t,n){function e(t,n){var e=r[t];return e?e.apply(this,n):(o[t]||(o[t]=[]),void o[t].push(n))}var r={},o={};n.exports=e,e.queues=o,e.handlers=r},{}],handle:[function(t,n){n.exports=t("D5DuLP")},{}],G9z0Bl:[function(t,n){function e(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&p&&p.body){l.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",i("mark",["onload",a()]);var n=p.createElement("script");n.src=l.proto+t.agent,p.body.appendChild(n)}}function r(){"complete"===p.readyState&&o()}function o(){i("mark",["domContent",a()])}function a(){return(new Date).getTime()}var i=t("handle"),u=window,p=u.document,s="addEventListener",c="attachEvent",f=(""+location).split("?")[0],l=n.exports={offset:a(),origin:f,features:[]};p[s]?(p[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(p[c]("onreadystatechange",r),u[c]("onload",e)),i("mark",["firstbyte",a()])},{handle:"D5DuLP"}],loader:[function(t,n){n.exports=t("G9z0Bl")},{}]},{},["G9z0Bl"]);</script>
 <title>Privacy Policy | Company | Popeyes</title>
+<link rel="canonical" href="http://popeyes.com/company/privacy-policy.php">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="stylesheet" type="text/css" media="all" href="/css/futura.css">
 <link rel="stylesheet" type="text/css" media="all" href="/style.css">
@@ -15,7 +16,7 @@
     // Location Search
 $('#btnHeaderRadiusSearch').live('click', function () {
     if ($('#tbHeaderRadiusSearch').val()) {
-        window.location = "/find-a-popeyes?q=" + $('#tbHeaderRadiusSearch').val();
+        window.location = "/find-a-popeyes?q=" + $('#tbHeaderRadiusSearch').val() +"&c=" + $('#searchCountry').val();
     }
 });
 </script>
@@ -47,6 +48,13 @@ $('#btnHeaderRadiusSearch').live('click', function () {
 .btn-main, btn-sec {behavior: url( /pie.htc);}
 </style>
 <![endif]-->
+<script>
+$(document).ready(function () {
+			$('#searchCountry').change(function(){
+				$('#btnHeaderRadiusSearch').click();
+			});
+});
+</script>
 <style type="text/css">
 p {
 font-size: 1.1em;
@@ -140,7 +148,44 @@ padding: 0 30px 8px 0;
       <ul>
         <li><a href="http://popeyes.com/" style="width:500px;text-align:left;padding-left:10px;font-family: Arial, sans-serif; text-transform:none;font-size: 13px; line-height: 13px;">Popeyes Louisiana Kitchen &gt;</a></li>
         <li class="find">
-          <div id="popeyes-search"><span><a href="/find-a-popeyes">Find A Popeyes</a>&nbsp;&nbsp;</span><input class="search-box" id="tbHeaderRadiusSearch"><input id="btnHeaderRadiusSearch" class="search-button" type="image" src="/images/btn/btn-search.jpg"></div>
+          <div id="popeyes-search"><input class="search-box ui-autocomplete-input" id="tbHeaderRadiusSearch" value="Find a Popeyes" onfocus="this.value = this.value=='Find a Popeyes' ? '' : this.value; this.style.color='#000';" onfocusout="this.value = this.value == '' ? this.value = 'Find a Popeyes' : this.value; this.value=='Find a Popeyes' ? this.style.color='#ccc' : this.style.color='#000'" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true" style="color: rgb(204, 204, 204);"><input id="btnHeaderRadiusSearch" class="search-button" type="image" src="/images/btn/btn-search.jpg">
+<select id="searchCountry" name="countries" style="width: 140px;margin: 0px 10px 0px 0px;  padding: 1px 0px 1px 0px;  height: 25px;  width: 140px;  border-width: 0px;  color: #999999;  font-size: 13px;  border-top: #989898 1px solid;float: right;">
+<option value="US" selected="selected">United States</option>
+<option value="AF">Afghanistan</option>
+<option value="CA">Canada</option>
+<option value="KY">Cayman Islands</option>
+<option value="CL">Chile</option>
+<option value="CR">Costa Rica</option>
+<option value="CY">Cyprus</option>
+<option value="GE">Georgia</option>
+<option value="DE">Germany</option>
+<option value="GU">Guam</option>
+<option value="GY">Guyana</option>
+<option value="HN">Honduras</option>
+<option value="HK">Hong Kong</option>
+<option value="IT">Italy</option>
+<option value="JM">Jamaica</option>
+<option value="JP">Japan</option>
+<option value="JO">Jordan</option>
+<option value="KR">Korea, Republic of</option>
+<option value="KW">Kuwait</option>
+<option value="MY">Malaysia</option>
+<option value="PA">Panama</option>
+<option value="PE">Peru</option>
+<option value="PR">Puerto Rico</option>
+<option value="QA">Qatar</option>
+<option value="SA">Saudi Arabia</option>
+<option value="SG">Singapore</option>
+<option value="SR">Suriname</option>
+<option value="TT">Trinidad and Tobago</option>
+<option value="TR">Turkey</option>
+<option value="AE">United Arab Emirates</option>
+<option value="GB">United Kingdom</option>
+<option value="VN">Viet Nam</option>
+
+
+</select>
+</div>
         </li>
       </ul>
     </nav>
@@ -165,7 +210,7 @@ padding: 0 30px 8px 0;
 <div id="main_col" style="width:900px;">
 					
 					<h2 style="display:none">Privacy Policy</h2>
-                    <p>Welcome to the Website of AFC Enterprises, Inc.  AFC Enterprises, Inc. (hereinafter referred to as either, "AFC" "The Company", "We", "Us", or "Our") is committed to protecting the privacy of personal information you may provide us on this Website ("Site").  We believe it is important for you to know how the Company treats your personal information.  We updated this Privacy Policy effective as of June 1, 2009. From time to time, it may be necessary for AFC to change this Privacy Policy. If we change our Policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our Privacy Policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information. The terms of this Privacy Policy apply to all users of this Site.  If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of this Site.</p>
+                    <p>Welcome to the Website of Popeyes Louisiana Kitchen, Inc. (hereinafter referred to as either, "PLK" "The Company", "We", "Us", or "Our") is committed to protecting the privacy of personal information you may provide us on this Website ("Site").  We believe it is important for you to know how the Company treats your personal information.  We updated this Privacy Policy effective as of June 1, 2009. From time to time, it may be necessary for PLK to change this Privacy Policy. If we change our Policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our Privacy Policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information. The terms of this Privacy Policy apply to all users of this Site.  If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of this Site.</p>
                     <p>When you visit this Site, we recognize only your apparent network address (IP address). We will see your e-mail address only if you fill out a form or send us an e-mail message. If you provide information about yourself by registering on a page, by filling out a survey, or otherwise by voluntarily telling us about yourself or your activities, we will collect that information for our own use to improve our products and services and the content of this Site. We collect Site use information which includes information about your internet service provider, browser type, domain name, IP address, the web site that referred you to us, the web pages you request, the date and time of those requests, and entry and exit points. Collection of Site use information is described in more detail here. Our collection of Site use information may involve the use of cookies and pixel tags. A cookie is a small removable data file that is stored by your web browser on your computer.</p>
                     <p>We may also collect aggregated data, which is data from which the identity of an individual cannot be determined.</p>
 <p>Below you will find answers to several questions regarding our Privacy Policy.   
@@ -196,18 +241,18 @@ The Company will not sell, rent, loan, transfer, or otherwise disclose any Perso
 <p><strong>5. How does the Company protect the security of my Personal Information?</strong></p>
 <p>All information is housed on servers in a secure, controlled environment with state of the art security. In the event of a security breach whereas your Personal Information is acquired by an unauthorized person, the Company will take appropriate steps to contain the breach and to notify you of the unauthorized acquisition.</p>
 <p><strong>6. Is this Site Linked to Other Sites?</strong></p>
-<p>We may offer links to sites that are not operated by AFC. If you visit one of these linked sites, you should review their privacy and other policies. We are not responsible for the policies and practices of other companies, and any information you submit to those companies is subject to their privacy policies.</p>
-<p> AFC reserves the right to change or update this policy at any time.</p>
+<p>We may offer links to sites that are not operated by PLK. If you visit one of these linked sites, you should review their privacy and other policies. We are not responsible for the policies and practices of other companies, and any information you submit to those companies is subject to their privacy policies.</p>
+<p> PLK reserves the right to change or update this policy at any time.</p>
 
 <p>Last Revised: June 1, 2009 </p>
 					<!--
-					<p>Welcome to the Web site of AFC Enterprises. We would like you to know what information we learn about you when you visit this site, what we do with that information, and how you can change the information we have.</p>
+					<p>Welcome to the Web site of Popeyes Louisiana Kitchen. We would like you to know what information we learn about you when you visit this site, what we do with that information, and how you can change the information we have.</p>
 
                     <p>When you visit this site, we recognize only your apparent network address (IP address). We will see your e-mail address only if you fill out a form or send us an e-mail message. If you provide information about yourself by registering on a page, by filling out a survey, or otherwise by voluntarily telling us about yourself or your activities, we will collect that information for our own use to improve our products and services and the content of this site. We may also use it to send you information. If you do not want to receive e-mail communications from us, please <a href="/our-company/contact-us/" title="let us know">let us know</a>, telling us that you do not want to receive e-mail communications from our company.</p>
                     
                    <p> We <strong>do not</strong> share your information with other companies for marketing and promotional purposes.</p>
                     
-                    <p>AFC Enterprises reserves the right to change or update this policy at any time.</p>-->
+                    <p>Popeyes Louisiana Kitchen reserves the right to change or update this policy at any time.</p>-->
 
 </div>
 
@@ -233,7 +278,7 @@ The Company will not sell, rent, loan, transfer, or otherwise disclose any Perso
       <div class="find-us-pintrest"><a href="http://pinterest.com/Popeyes/pins/" target="_blank"><img alt="Pintrest" src="/images/icon/icon-pintrest.png" width="30" height="30"></a></div>
     </div>
     <div id="legal"> <a href="/company/terms-of-use.php">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/company/privacy-policy.php">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-    <p class="legal" style="">Popeyes® Louisiana Kitchen © 2013 AFC Enterprises, Inc. All rights reserved.  
+    <p class="legal" style="">Popeyes® Louisiana Kitchen © 2014 Popeyes Louisiana Kitchen, Inc. All rights reserved.  
     All trademarks belong to their respective owners. 
     </p>
   </div>
@@ -269,6 +314,6 @@ try {
 var pageTracker = _gat._getTracker("UA-11957493-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"8e7e1e8e19","applicationID":"3598440","transactionName":"YwNQNUVQXRdYUkVRX1pJZxNeHlALVEFQVkkbFkAIQVBQHRRBXlRZVx8cEV9B","queueTime":0,"applicationTime":5,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
