@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonobos.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014032932id_/http%3A//www.bonobos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonobos.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061127id_/http%3A//bonobos.com/privacy) for the most accurate reproduction.*
 
 # Bonobos Men's Clothes - Pants, Shirts and Suits
 
@@ -24,7 +24,7 @@ We use your Personal Information (in some cases, in conjunction with your Non-Id
 
 Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information. We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Bonobos Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Site and Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions. 
 
-We also use your Personal Information to contact you with marketing and promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or contact us at [ninjas@bonobos.com](mailto:ninjas@bonobos.com?subject=Privacy) with "Privacy" as the subject line of the email. (See "Changing or Deleting Your Information," below.) 
+We also use your Personal Information (like your email or postal address) to contact you with marketing and promotional materials and other information that may be of interest to you (some of which may be sent by a third party service provider). If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or if you do not want us to share your Personal Information with these third party service providers, contact us at [ninjas@bonobos.com](mailto:ninjas@bonobos.com?subject=Privacy) with "Privacy" as the subject line of the email. (See "Changing or Deleting Yo ur Information," below.) 
 
 #### Log Data
 
