@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210002122id_/http%3A//www.carbonite.com/terms-of-use/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081249id_/http%3A//www.carbonite.com/terms-of-use/privacy) for the most accurate reproduction.*
 
-# Carbonite's Privacy Policy
+# Carbonite's Privacy Policy | Carbonite
 
-This Privacy Policy is subject to and incorporated into the terms of service (the "Terms") between You and Carbonite. You may access the Terms at www.carbonite.com or by clicking [Terms](https://web.archive.org/terms-of-use/terms). Capitalized words used in this Privacy Policy without definition have the meaning given to them in the Terms. By agreeing to the Terms and installing, accessing or using the Services, You are agreeing to this Privacy Policy and the terms contained herein.
+_This Privacy Policy is subject to and incorporated into the terms of service (the "Terms") between You and Carbonite. You may access the Terms at www.carbonite.com or by clicking[Terms](https://web.archive.org/terms-of-use/terms). Capitalized words used in this Privacy Policy without definition have the meaning given to them in the Terms. By agreeing to the Terms and installing, accessing or using the Services, You are agreeing to this Privacy Policy and the terms contained herein._
 
 This Privacy Policy applies to Carbonite's collection and use of personally identifying information that Carbonite may gather when You contact us, visit our web site or purchase, license or use the Services. By installing, accessing or using the Services, You expressly consent to the collection, processing and use of Your personal information according to this Privacy Policy. 
 
