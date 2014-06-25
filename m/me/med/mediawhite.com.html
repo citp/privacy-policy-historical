@@ -1,74 +1,49 @@
-<!--The following is the downloaded HTML source of the mediawhite.com privacy policy that was archived on 2013-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103160743id_/http%3A//www.mediawhite.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mediawhite.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625120446id_/http%3A//mediawhite.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
+<!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
 <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
-
 <meta name="keywords" content="Publishers, Advertiser, Solutions, Contact, Video Display, Inventory, Audience Targeting, Dedicated Account Management, Reach, Mobile Display, Lead Acquisition, Ad Space, 
-
 web site ad sapce, Media White Publishers, Media White Advertiser, Media White Solutions, Media White Contact, Media White Video Display, Media White Inventory, Media White Audience Targeting, 
-
 Media White Dedicated Account Management, Media White Reach, Media White Mobile Display, 
-
 Media White Lead Acquisition, Media White Ad Space, Media White web site ad sapce, mediawhite.com, etc..  ">
-
 <meta name="description" content="Advertiser Benefits and Publishers Benefits we have web site spce for add Having worked with a range of brands, agencies and direct clients in mediawhite.com">
-
 <title>mediawhite.com</title>
-
 <link rel="stylesheet" type="text/css" href="css/default.css">
-
 <link rel="stylesheet" type="text/css" href="css/animation.css">
-
 <link rel="stylesheet" type="text/css" href="css/styleB.css">
-
 <link rel="stylesheet" type="text/css" href="css/popbox.css">
+<link rel="stylesheet" type="text/css" href="css/iview.css">
+<link rel="stylesheet" type="text/css" href="css/style_skin.css">
+<link rel="stylesheet" type="text/css" href="css/demo.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/custom01.css">
+<script async="" charset="utf-8" src="//cdn.zopim.com/?1HuONLECUXAhFtnb4TtIFLm57F9vWjIy" type="text/javascript"></script><script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
+<noscript>
+<link rel="stylesheet" type="text/css" href="css/styleNoJS.css" />
+</noscript>
 
-
+<!--next-->
+<script type="text/javascript">
+var $j = jQuery.noConflict();
+</script>
 
 <!--next-->
 
-<script async="" charset="utf-8" src="//cdn.zopim.com/?1HuONLECUXAhFtnb4TtIFLm57F9vWjIy" type="text/javascript"></script><script src="js/ga.js" async="" type="text/javascript"></script>
-
+<script src="js/ga.js" async="" type="text/javascript"></script>
 <script type="text/javascript" src="js/jquery-1.js"></script>
-
 <script type="text/javascript" src="js/jquery_004.js"></script>
-
-
 
 <!--next-->
 
 <script type="text/javascript" src="js/animation.js"></script>
-
 <script type="text/javascript" src="js/jquery.js"></script>
-
 <script type="text/javascript" src="js/page.js"></script>
-
-
-
-<!--Banner-->
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.5.3/jquery-ui.min.js"></script>
-
-<script type="text/javascript">
-
-	$(document).ready(function(){
-
-		$("#featured > ul").tabs({fx:{opacity: "toggle"}}).tabs("rotate", 5000, true);
-
-	});
-
-</script>
-
-
 
 <!--Main menu-->
 
 <script type="text/javascript" src="js/ddsmoothmenu.js"></script>
-
 <script type="text/javascript">
 
 
@@ -88,16 +63,13 @@ ddsmoothmenu.init({
 })
 
 </script>
-
 <script type="text/javascript" src="js/script.js"></script>
-
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 
 <!--Accordion-->
 
 <link href="css/jquery.akordeon.css" rel="stylesheet" type="text/css">
-
 <script src="js/jquery.akordeon.js" type="text/javascript"></script>
-
 <script type="text/javascript">
 
 jQuery(document).ready(function () {
@@ -109,8 +81,6 @@ jQuery(document).ready(function () {
 });
 
 </script>
-
-
 
 <!--Start of Zopim Live Chat Script-->
 
@@ -129,503 +99,343 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 </script>
 
 <!--End of Zopim Live Chat Script-->
+<!--Banner-->
+<script type="text/javascript" src="js/jquery.ba-cond.min.js"></script>
+<script type="text/javascript" src="js/jquery.slitslider.js"></script>
+<script type="text/javascript">	
+			$(function() {
+			
+				var Page = (function() {
 
+					var $navArrows = $( '#nav-arrows' ),
+						$nav = $( '#nav-dots > span' ),
+						slitslider = $( '#slider' ).slitslider( {
+							onBeforeChange : function( slide, pos ) {
 
+								$nav.removeClass( 'nav-dot-current' );
+								$nav.eq( pos ).addClass( 'nav-dot-current' );
 
+							}
+						} ),
 
+						init = function() {
 
-</head>
+							initEvents();
+							
+						},
+						initEvents = function() {
 
+							// add navigation events
+							$navArrows.children( ':last' ).on( 'click', function() {
 
+								slitslider.next();
+								return false;
 
-<body class="pageBghome">
+							} );
 
+							$navArrows.children( ':first' ).on( 'click', function() {
+								
+								slitslider.previous();
+								return false;
+
+							} );
+
+							$nav.each( function( i ) {
+							
+								$( this ).on( 'click', function( event ) {
+									
+									var $dot = $( this );
+									
+									if( !slitslider.isActive() ) {
+
+										$nav.removeClass( 'nav-dot-current' );
+										$dot.addClass( 'nav-dot-current' );
+									
+									}
+									
+									slitslider.jump( i + 1 );
+									return false;
+								
+								} );
+								
+							} );
+
+						};
+
+						return { init : init };
+
+				})();
+
+				Page.init();
+
+				/**
+				 * Notes: 
+				 * 
+				 * example how to add items:
+				 */
+
+				/*
+				
+				var $items  = $('<div class="sl-slide sl-slide-color-2" data-orientation="horizontal" data-slice1-rotation="-5" data-slice2-rotation="10" data-slice1-scale="2" data-slice2-scale="1"><div class="sl-slide-inner bg-1"><div class="sl-deco" data-icon="t"></div><h2>some text</h2><blockquote><p>bla bla</p><cite>Margi Clarke</cite></blockquote></div></div>');
+				
+				// call the plugin's add method
+				ss.add($items);
+
+				*/
+			
+			});
+		</script>
+
+<!--SLIDER-->
+<script type="text/javascript" src="js/raphael-min.js"></script>
+<script type="text/javascript" src="js/jquery.easing.js"></script>
+<script src="js/iview.js"></script>
+<script>
+			$(document).ready(function(){
+			
+				$('#iview2').iView({
+					pauseTime:8000,
+					pauseOnHover: true,
+					directionNav: true,
+					directionNavHide: false,
+					controlNav: true,
+					controlNavNextPrev: false,
+					controlNavTooltip: false,
+					playLabel: "Jugada",
+					pauseLabel: "Pausa",
+					timer: "360Bar",
+					timerBg: "#EEE",
+					timerColor: "#000",
+					timerDiameter: 40,
+					timerPadding: 4,
+					timerStroke: 8,
+					timerPosition: "bottom-right"
+				});
+			});
+		</script>
+<script type="text/javascript" src="js/jquery.bxSlider.min.js"></script>
+<script type="text/javascript">
+
+  
+  $(".bx-wrapper a").click(function(){
+		bannerslider.startShow();
+	});
+  
+  
+  $(function(){
+    var slider = $('#recent_slide').bxSlider({
+    displaySlideQty:8,
+    moveSlideQty: 2,
+    auto: true,
+	pause:4000,
+	controls:true,
+	randomStart:false,
+  });
+	$(".bx-wrapper a").click(function(){
+		slider.startShow();
+	});
+});
+
+</script>
+</head><body class="pageBghome">
 <div id="wrapper">
-
   <div id="site">
-
     <div id="headerSpace"></div>
-
     <div id="header">
-
       <div class="headerTop">
-
-        <div class="widthPage"> <a href="index.php">Home</a> <a href="index.php?page=network">Networks</a> <span class="popbox"><a class="open" href="#">Customer Login</a>
-
-          <div class="collapse">
-
-            <div class="box">
-
-              <div class="arrow"></div>
-
-              <div id="serach_boxA" class="left">
-
-                <p>Username</p>
-
-                <input type="text" name="" class="txtfield" value="">
-
-                <p>Password</p>
-
-                <input type="text" name="" class="txtfield" value="">
-
-                <input name="" type="button" class="close left search_btn" value="Submit">
-
-              </div>
-
-              
-
-            </div>
-
-          </div>
-
-          </span> <a href="index.php?page=signup">Sign Up</a> <a href="http://mediawhite.com/blog/">Blog</a> <a href="index.php?page=partners">Partners</a> <a href="index.php?page=contact">Contact</a> </div>
-
+        <div class="widthPage"> <a href="index.php">Home</a> <a href="index.php?page=network">Networks</a><a href="index.php?page=events">Events</a><a href="index.php?page=entertainment_division">entertainment division</a><a href="index.php?page=signup">Sign Up</a> <a href="http://mediawhite.com/blog/">Blog</a> <a href="index.php?page=partners">Partners</a> <a href="index.php?page=contact">Contact</a> </div>
       </div>
-
       <div class="headerBottom">
-
         <div class="widthPage">
-
           <div class="left headerLogo"><a href="index.php"><img src="images/logoMW.png" alt="media white"></a></div>
-
           <div class="right main_menu">
-
             <div id="nav">
-
               <ul>
-
                 <li><a href="javascript:void(0);">About Us</a><img src="images/menu_li.png" alt="">
-
                   <ul>
-
                     <li><a href="index.php?page=company_overview">Company Overview</a></li>
-
                     <li><a href="index.php?page=core_values">Core Values</a></li>
-
                     <li><a href="index.php?page=whychoose">Why Choose Media White?</a></li>
-
                     <li><a href="index.php?page=service">Services around the clock 24/7</a></li>
-
                   </ul>
-
                 </li>
-
                 <li><a href="javascript:void(0);">Solutions</a><img src="images/menu_li.png" alt="">
-
                   <ul>
-                  
-                   <li><a href="index.php?page=webdesign">Design your Website</a></li>
-
+                    <li><a href="index.php?page=webdesign">Design your Website</a></li>
                     <li><a href="index.php?page=video_display">Video Display</a></li>
-
                     <li><a href="index.php?page=inventory">Inventory</a></li>
-
                     <li><a href="index.php?page=audience_targeting">Audience Targeting</a></li>
-
                     <li><a href="index.php?page=dedicated_account_management">Dedicated Account Management</a></li>
-
                     <li><a href="index.php?page=reach">Reach</a></li>
-
                     <li><a href="index.php?page=mobile_display">Mobile Display</a></li>
-
                     <li><a href="index.php?page=lead_acquisition">Lead Acquisition</a></li>
-
                     <li><a href="index.php?page=ad_space">Ad Space</a></li>
-
                   </ul>
-
                 </li>
-
                 <li><a href="javascript:void(0);">Publishers</a><img src="images/menu_li.png" alt="">
-
                   <ul>
-
                     <li><a href="index.php?page=publishers_overview">Publishers Overview</a></li>
-
                     <li><a href="index.php?page=multicultural">MediaWhite Multicultural</a></li>
-
                     <li><a href="index.php?page=mobile_display">Mobile Display</a></li>
-
                     <li><a href="index.php?page=faq">FAQ's</a></li>
-
                     <li><a href="index.php?page=signup">Sign Up</a></li>
-
                   </ul>
-
                 </li>
-
                 <li><a href="javascript:void(0);">Advertiser</a><img src="images/menu_li.png" alt="">
-
                   <ul>
-
                     <li><a href="index.php?page=advertiser_overview">Advertisers Overview</a></li>
-
                     <li><a href="index.php?page=private_market">MediaWhite Private Market Place</a></li>
-
                     <li><a href="index.php?page=realtime_bidding">Real Time Bidding</a></li>
-
                     <li><a href="index.php?page=audience_targeting">Targeting the Audience</a></li>
-
                     <li><a href="index.php?page=reach">Reach</a></li>
-
                     <li><a href="index.php?page=signup_advt">Sign Up</a></li>
-
                   </ul>
-
                 </li>
-
               </ul>
-
             </div>
-
             <div class="both"></div>
-
           </div>
-          
-          
-          
-          
-
           <div class="both"></div>
-
         </div>
-
       </div>
-
     </div>
-
-            
-
-     
-
-    <div id="content">
-
+    
+    
+  <!--  <div id="content">-->
+  
+     <div id="content">
       <div id="index">
-
         <div class="elevatorInfo">
-
           <div class="right elevatorInfoCorner"></div>
-
           <div class="right elevatorInfoInner"></div>
-
         </div>
-
         <div class="elevator">
-
           <div class="elevatorMenu"><img src="images/menu.png" alt=""></div>
-
           <div class="elevatorBg">
-
             <div class="elevatorBt active"><a href="javascript:void(0);" etitle="Privacy Policy"></a></div>
-
-            <div class="elevatorBt"><a href="javascript:void(0);" etitle="Advertising Solutions"></a></div>
-
             <div class="elevatorBt" style="margin:0 auto;"><a href="javascript:void(0);" etitle="News and Blog"></a></div>
-
           </div>
-
         </div>
-
         <div class="widthPage">
-
           <div class="bgShadow margebt elevatorPos">
-
             <div class="noiseBg">
-
               <div class="padInner companyAA">
-
                 <h2>Privacy Policy</h2>
-
                 <div class="companyA companyA_h3">
-
                   <p>Media White is an advertising network that delivers the advertisements on websites across the globe. We have created this Privacy and Data use policy to aware the website visitor about what information we collect on this website and when we serve advertisements to the Websites owned by the publishers and also how much information is used and shared with the other third parties.</p>
-
                   <p>Media White is an advertising network that delivers the advertisements on websites across the globe. We have created this Privacy and Data use policy to aware the website visitor about what information we collect on this website and when we serve advertisements to the Websites owned by the publishers and also how much information is used and shared with the other third parties.</p>
-
                   <p>The terms “we”, “our” and “us” refers to Media White company and the terms “you” and “your” refers to the consumer/visitor of the website. We are extremely concerned for protecting the privacy of internet users. We at Media White, frequently review our policy for improvement to ensure the safety and protection of consumer information.</p>
-
-                  <div class="rowSepA"></div>
-
+                  <div class="rowSepAA"></div>
                   <h3>Consumer Information</h3>
-
                   <p>Media White uses one or more third party ad serving technology to serve ads at this site and at our client’s sites. In the course of delivering an ad to you, the third party ad serving party may place or recognize a unique cookie on your browser and use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you.</p>
-
-                  <div class="rowSepA"></div>
-
+                  <div class="rowSepAA"></div>
                   <h3>Efforts to Protect Consumer Privacy</h3>
-
                   <p>Media White is dedicated in serving it users by protecting their privacy. We strictly follow the industry guidelines. The cookies used by Media White and by the third part are not meant to invade your privacy or damage your system or files in anyway; rather it is used to enhance your web experience. A cookie that is stored on file on your computer is a unique number that is assigned to you first time you are served with an ad. It ensures that you are not repeatedly served with the same ad again. Cookies help advertisers to keep measure of how you utilize a website that is displaying you an ad. This helps the advertisers serve you with an enhanced experience that is it uses the information and provides you with ads that are of your interest. It is not necessary for Media White or the third parties to place cookies to deliver the ad to you, however it serves the purpose of enhancing your web experience by not serving the same ads to you again and placing specific ads that may be of your interest.</p>
-
-                  <div class="rowSepA"></div>
-
+                  <div class="rowSepAA"></div>
                   <h3>Contact Information</h3>
-
-                  <p>If you have any queries or questions regarding the Privacy statement, please feel free to contact us,<a href="contact.html" style="text-decoration:none; color:#26509A"> cleck here to Contact us</a> </p>
-
+                  <p>If you have any queries or questions regarding the Privacy statement, please feel free to contact us,<a style="text-decoration:none; color:#26509A" href="contact.html"> cleck here to Contact us</a> </p>
                 </div>
-
                 <div class="fclear"></div>
-
               </div>
-
             </div>
-
           </div>
+          
+                    
+<!--          Weekly Payments By and blog-->  
 
+       
           <div class="bgShadow margebt elevatorPos">
-
             <div class="noiseBg">
-
-              <div class="padInner Advertising_Solutions">
-
-                <h2>Media White Advertising Solutions</h2>
-
-                <div id="boxes03">
-
-                  <div class="boxAA box01">
-
-                    <h3>Publishers</h3>
-
-                    <h4>Overview</h4>
-
-                    <span><img src="images/banner_thamb01.png" alt=""></span>
-
-                    <p>Our advertisers range from small local companies to world-wide advertising agencies, to demand side platforms, real time bidders, ad networks...</p>
-
-                    <a href="index.php?page=publishers_overview">Read more</a> </div>
-
-                  <div class="boxAA box02">
-
-                    <h3>Ecosystem</h3>
-
-                    <h4>Media White</h4>
-
-                    <span><img src="images/banner_thamb02.png" alt=""></span>
-
-                    <p>How can we help you?<br>
-
-                      Join the Media White Ecosystem, Meet all in one place! easy right?<br>
-
-                      View Media White Ecosystem... </p>
-
-                    <a href="index.php?page=mediawhite_ecosystem">Read more</a> </div>
-
-                  <div class="boxAA box03 margin0">
-
-                    <h3>Solutions</h3>
-
-                    <h4>Overview</h4>
-
-                    <span><img src="images/banner_thamb03.png" alt=""></span>
-
-                    <p>Ads implanted in the apps that are already downloaded on your devices is an extremely efficient method of interaction with the specific target...</p>
-
-                    <a href="index.php?page=mobile_display">Read more</a> </div>
-
-                </div>
-
-                <div class="fclear"></div>
-
-              </div>
-
-            </div>
-
-          </div>
-
-          <div class="bgShadow margebt elevatorPos">
-
-            <div class="noiseBg">
-
               <div class="padInner Insight">
-
                 <h2>Insight from Media White</h2>
-
                 <div class="Insight_hom">
-
                   <div class="Insight01">
-
                     <h4>Media White Blog</h4>
-
-                    
-                    <p> <a href="http://mediawhite.com/blog/?p=57" class="Insight01A">Some Interesting Facts  </a> <a href="http://mediawhite.com/blog/?p=57">Here are some really interesting facts about the online advertising, Enjoy!.
+                                          
+                    <p> <a href="http://mediawhite.com/blog/?p=57" class="Insight01A">Some Interesting Facts   </a> <a href="http://mediawhite.com/blog/?p=57">Here are some really interesting facts about the online advertising, Enjoy!.
  </a> </p>
-
-                   
-
-                    
-                    <p> <a href="http://mediawhite.com/blog/?p=53" class="Insight01A">The biggest surprise in </a> <a href="http://mediawhite.com/blog/?p=53">As per reports, this year Google made one of the biggest changes to the engine </a> </p>
-
-                   
-
-                    
-                  </div>
-
+                                           
+                    <p> <a href="http://mediawhite.com/blog/?p=53" class="Insight01A">The biggest surprise in  </a> <a href="http://mediawhite.com/blog/?p=53">As per reports, this year Google made one of the biggest changes to the engine </a> </p>
+                                         </div>
                   <div class="Insight01 Insight02">
-
                     <h4>Latest News</h4>
-
                     <p> <a href="#" class="Insight01A">Evolution of Online ads</a> <a href="#">Media White serves an extensive pool of 4 million impressions per minute, and this data is used for behavioral </a> </p>
-
                     <p style="border:0px; padding:0px; margin:0px"> <a href="#" class="Insight01A">Ad-Networking Videos</a> <a href="#">Ad-Networking Videos an extensive pool of 4 million impressions per minute, and this data is used for behavioral </a> </p>
-
                   </div>
-
                   <div class="Insight03">
-
                     <h4>Our Newsletter</h4>
-
                     <p> <a href="#" class="Insight01A">Subscribe to our newsletter</a> Subscribe to our newsletter serves pool of 4 million impressions..</p>
-
                     <div>
-
                       <input type="text" onfocus="if (this.value == 'Your Name') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Your Name';}" onclick="this.value = &quot;&quot;;" value="Your Name" class="txtfield" id="con_name" name="">
-
                       <input type="text" onfocus="if (this.value == 'Email Address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Email Address';}" onclick="this.value = &quot;&quot;;" value="Email Address" class="txtfield" id="con_name" name="">
-
                       <input name="" type="button" value="Submit" class="submit_button">
-
                     </div>
-
+                    
+                    
+                    
                   </div>
-
                 </div>
-
                 <div class="fclear"></div>
-
-              </div>
-
+              </div>            
+              
             </div>
-
           </div>
 
         </div>
-
       </div>
-
       <div class="fclear"></div>
-
-    </div>
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    <div id="footer">
-
+    </div> 
+  
+  
+      <div id="footer">
       <div class="widthPage">
-
         <div class="footerAA">
-
           <h2>Media White </h2>
-
           <ul>
-
             <li><a href="mediakit/mediakit.pdf">Media Kit</a></li>
-
-            <li><a href="mediakit/On_Board_Kit.pdf">On-Board Kit</a></li>
-
+          <!--  <li><a href="mediakit/On_Board_Kit.pdf">On-Board Kit</a></li> -->
             <li><a href="index.php?page=glossary">Glossary</a></li>
-
             <li><a href="index.php?page=faq">FAQ's</a></li>
-
             <li><a href="index.php?page=privacy_policy">Privacy Policy</a></li>
-
             <li><a href="index.php?page=terms_conditions"> Terms and Conditions</a></li>
-
           </ul>
-
         </div>
-
         <div class="footerAA">
-
           <h2>Quick links </h2>
-
           <ul>
-
             <li><a href="index.php">Home </a></li>
-
             <li><a href="index.php?page=publishers_overview">Publishers Overview</a></li>
-
             <li><a href="index.php?page=mediawhite_ecosystem">Mediawhite Ecosystem</a></li>
-
             <li><a href="index.php?page=advertiser_overview"> Advertiser Overview</a></li>
-
             <li><a href="index.php?page=signup"> Publishers Sign Up</a></li>
-
             <li><a href="index.php?page=signup_advt"> Advertiser Sign Up</a></li>
-
           </ul>
-
         </div>
-
         <div class="footerAA">
-
           <h2>Contact With us</h2>
-
           <p>Media White FZ-LLC,<br>
-
-            Dubai Studio City, Office 202,<br>
-
-            Floor 02, Building BS-10, <br>
-
-            PO BOX 478804, Dubai, UAE.<br>
-
+            Dubai Studio City, <br>
+            2<sup>nd</sup> Floor, Building BS-10, <br>
+            PO Box 478804, Dubai, UAE.<br>
             Email: global@mediawhite.com </p>
-
         </div>
-
         <div class="footerAA footerBB">
-
           <p>Dubai office: +971 4 421 2476<br>
-
-           
             Fax: +971 4 421 2468<br>
-
             Email: info@mediawhite.com<br>
-
             <a href="http://www.facebook.com/admediawhite"><img src="images/fb.png" alt=""></a> <a href="https://twitter.com/Mediawhite_ad"> <img src="images/tw.png" alt=""></a><a href="http://www.youtube.com/AdMediaWhite"><img src="images/yb.png" alt=""></a> </p>
-
         </div>
-
-        <p class="fclear" style="text-align:center; padding-top:30px; padding-bottom:20px;"><img src="images/footer_lin.png" alt=""></p>
-
-        <p class="fclear" style="text-align:center; color:#959595;">© 2013 www.mediawhite.com. All Rights Reserved </p>
-
+        <p class="fclear" style="text-align:center; padding-top:16px; padding-bottom:18px;"><img src="images/footer_lin.png" alt=""></p>
+        <p class="fclear" style="text-align:center; color:#959595;">© 2014 www.mediawhite.com. All Rights Reserved </p>
         <div class="fclear"></div>
-
       </div>
-
     </div>
-
   </div>
-
   <script type="text/javascript">
-
 		$(document).ready(function(){
-
 			initPage();
-
 		});
-
 	</script> 
-
 </div>
-
-
 
 </body></html>
