@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4seating.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529185449id_/http%3A//www.4seating.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4seating.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050750id_/http%3A//4seating.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Please view our terms of sale/terms of use agreement for more information regard
 
 **Privacy Policy**
 
-We are part of  HT Room, Inc. which includes HT Room,  4Seating, and The Hot Rod Mall. We are committed to respecting your privacy and protecting the necessary personal information you share with us. This includes your Name, Phone numbers, addresses, email address, etc. The purpose of this privacy policy is to inform you of the ways we will use the information we collect from you. If you do not agree with this policy, you should not use our web sites. 
+We are committed to respecting your privacy and protecting the necessary personal information you share with us. This includes your Name, Phone numbers, addresses, email address, etc. The purpose of this privacy policy is to inform you of the ways we will use the information we collect from you. If you do not agree with this policy, you should not use our website. 
 
 **Collecting Information**
 
@@ -22,7 +22,7 @@ We may share information with companies who provide certain services including c
 
 **Editing and Updating Personal Information**
 
-If you prefer we do not contact you regarding specials, promotions, services, and offers, please email your request to [ info@HTRoom.com](mailto:info@HTRoom.com) and include your order number or name and phone number. Please do the same if you would like to update your information if you have moved or changed phone numbers or email addresses and would still like to receive communications from us.
+If you prefer we do not contact you regarding specials, promotions, services, and offers, please email your request to [ support@4seating.com](mailto:support@4seating.com) and include your order number or name and phone number. Please do the same if you would like to update your information if you have moved or changed phone numbers or email addresses and would still like to receive communications from us.
 
 **Security**
 
