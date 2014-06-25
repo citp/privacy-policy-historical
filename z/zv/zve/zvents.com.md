@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zvents.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114054025id_/http%3A//www.zvents.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zvents.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625171237id_/http%3A//www.zvents.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zvents
 
