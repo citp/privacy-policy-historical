@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walkhighlands.co.uk privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102204913id_/http%3A//www.walkhighlands.co.uk/Forum/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkhighlands.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063932id_/http%3A//www.walkhighlands.co.uk/Forum/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Walkhighlands • User Control Panel • Privacy policy
 
@@ -6,7 +6,7 @@ This policy explains in detail how Walkhighlands and its affiliated companies us
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or BT), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-You can register on the site to receive our monthly email newsletter, log your hill ascents, rate walking routes, view Ordnance Survey 1:25 000 mapping. We will not share or sell your email address to any third party unless required to do so under the law. You can unsubscribe from our newsletters at any time using the link given in the footer of each newsletter.   
+You can register on the site to receive our twice-monthly email newsletter, log your hill ascents, rate walking routes, view Ordnance Survey 1:25 000 mapping. We will not share or sell your email address to any third party unless required to do so under the law. You can unsubscribe from our newsletters at any time using the link given in the footer of each newsletter.   
 Browsing the site will cause our software to create a number of cookies, which are small text files that are downloaded on to your computer’s web browser temporary files. The first two cookies just contain a user identifier (hereinafter “user-id”) and an anonymous session identifier (hereinafter “session-id”), automatically assigned to you by the phpBB forum software we use. A third cookie will be created once you have browsed topics within “Walkhighlands” and is used to store which topics have been read, thereby improving your user experience.
 
 Use of our mapping software will create further cookies. These store the last location you have viewed on our mapping, and the scale, so that the map can be reopened in the same position when you return to it. These cookies are intended entirely for your own convenience.
