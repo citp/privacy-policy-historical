@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the survivingthestores.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524091047id_/http%3A//www.survivingthestores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivingthestores.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165030id_/http%3A//www.survivingthestores.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Surviving The Stores™
 
 This Privacy Policy governs the manner in which CrossNetwork Media, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.survivingthestores.com website (“Site”). This privacy policy applies to the Site and all products and services offered by CrossNetwork Media, LLC.
 
@@ -71,3 +71,5 @@ admin@survivingthestores.com
 This document was last updated on May 23, 2011
 
 Privacy policy created by http://www.generateprivacypolicy.com
+
+Disclosure of Material Connection: Some of the links in the post above may be "affiliate links." This means if you click on the link and purchase the item, I will receive an affiliate commission. Regardless, I only recommend products or services I use personally and believe will add value to my readers. I am disclosing this in accordance with the Federal Trade Commission's [16 CFR, Part 255](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html): "Guides Concerning the Use of Endorsements and Testimonials in Advertising." 
