@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buybluesteel.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819193934id_/http%3A//www.buybluesteel.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buybluesteel.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045703id_/http%3A//www.buybluesteel.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Buybluesteel.com: Privacy Policy
+# Privacy Policy | Blue Steel
 
 BLUE STEEL is committed to ensuring that our customers’ personal privacy and information is protected. 
 
@@ -49,7 +49,8 @@ Occasionally, our website may include links to other websites of interest. These
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * when you are asked to fill in a form on our website, please look for and click on the box indicating that you do not want any information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at [customerservice@buybluesteel.com](mailto:customerservice@buybluesteel.com) or writing to us at: Blue Steel, 8615 Commodity Circle, Suite 15, Orlando, FL, USA, 32819 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at [customerservice@buybluesteel.com](mailto:customerservice@buybluesteel.com) or writing to us at: Blue Steel, po box 177, Gay, GA 30218  
+
 
 
 
