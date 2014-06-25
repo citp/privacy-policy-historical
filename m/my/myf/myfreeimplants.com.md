@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreeimplants.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126074912id_/http%3A//myfreeimplants.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreeimplants.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112605id_/http%3A//myfreeimplants.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Breast Implants, Free Boob Job, Free Plastic Surgery Financing. MyFreeImplants.com
 
