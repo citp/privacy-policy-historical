@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wkbn.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001141841id_/http%3A//www.wkbn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkbn.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115846id_/http%3A//wkbn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WKBN First News
+# Privacy Policy | WKBN.com
 
 **Privacy Policy**
 
-The following Privacy Policy governs the online information collection practices of WKBN. ****com (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the WKBN. ****com web site (the “Site”) and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+The following Privacy Policy governs the online information collection practices of WKBN.com (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the WKBN.com web site (the “Site”) and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
 Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy and our Terms and Conditions. We may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on the Site and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
