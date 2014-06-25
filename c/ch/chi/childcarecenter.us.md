@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the childcarecenter.us privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224173955id_/http%3A//childcarecenter.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childcarecenter.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113142id_/http%3A//childcarecenter.us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ChildcareCenter.us
+# Privacy Policy
 
 This privacy notice discloses the privacy practices for ChildcareCenter.us. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
@@ -9,7 +9,10 @@ This privacy notice discloses the privacy practices for ChildcareCenter.us. This
   3. The security procedures in place to protect the misuse of your information.
   4. How you can correct any inaccuracies in the information.
 
-**Information Collection, Use, and Sharing**
+  
+
+
+### Information Collection, Use, and Sharing
 
 We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
@@ -25,7 +28,10 @@ You may opt out of any future contacts from us at any time. You can do the follo
   * Have us delete any data we have about you.
   * Express any concern you have about our use of your data.
 
-**Security**
+  
+
+
+### Security
 
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
@@ -35,28 +41,28 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 In order to use this website, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required.
 
-**Cookies**
+### Cookies
 
 We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
 
 Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
-**Sharing**
+### Sharing
 
 We share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
 
-**Links**
+### Links
 
 This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
-**Surveys & Contests**
+### Surveys & Contests
 
 From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-**Our Commitment To Children's Privacy**
+### Our Commitment To Children's Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-**How To Contact Us**
+### How To Contact Us
 
 If you feel that we are not abiding by this privacy policy, or should you have other questions or concerns about these privacy policies, please send us an email at [contact us](https://web.archive.org/contact).
