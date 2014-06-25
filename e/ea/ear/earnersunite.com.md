@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the earnersunite.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529202520id_/http%3A//earnerslist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnersunite.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101349id_/http%3A//earnerslist.com/privacy.php) for the most accurate reproduction.*
 
 # Earners List
 
-[](http://earnerslist.com/banclick.php?code=ea1818cbe59c23b20f1a10a8aa083a82)  
+[](http://earnerslist.com/banclick.php?code=4d0b954f0bef437c29dfa73fafdf3fa5)  
 
 
 Earners List Privacy Policy
@@ -35,7 +35,7 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
-Copyright (c) 2013 Earners List All Rights Reserved - Part of the [Trax Web](http://traxweb.com/)
+Copyright (c) 2014 Earners List All Rights Reserved - Part of the [Trax Web](http://www.traxhelpdesk.com/sites/)
 
 [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [Privacy Policy](https://web.archive.org/privacy.php)   
 
