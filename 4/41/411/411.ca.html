@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 411.ca privacy policy that was archived on 2013-07-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130723112807id_/http%3A//411.ca/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 411.ca privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625145638id_/http%3A//411.ca/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-CA" xml:lang="en-CA" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -15,6 +15,16 @@
 	_gaq.push(['secondTracker._setAccount','UA-26713659-1']); 
 	_gaq.push(['secondTracker._trackPageview']);
 
+
+	function gaTrackOutboundLink(link, category, action) {
+		try {
+			_gaq.push(['_trackEvent', category , action]);
+		} catch(err){}
+ 
+		setTimeout(function() {
+			document.location.href = link.href;
+		}, 100);
+	}
 		
 </script>
 
@@ -29,10 +39,12 @@
 	<meta property="fb:app_id" content="180762301964351">
 	<meta property="og:image" content="http://ui.411.ca/logo.png">
 	
+	<meta name="robots" content="NOODP">
+	
 	<link rel="icon" type="image/x-icon" href="http://ui.411.ca/favicon.ico">
 	<link rel="shortcut icon" href="http://ui.411.ca/favicon.ico">
-	<title>411.ca - Canada's Local Search Engine</title>	<link rel="stylesheet" type="text/css" href="http://jc.411static.ca/css/1307230211/a9rCustom.v2.css">
-<link rel="stylesheet" type="text/css" href="http://jc.411static.ca/css/1307230211/v2/pages.css">
+	<title>411.ca - Canada's Local Search Engine</title>	<link rel="stylesheet" type="text/css" href="http://jc.411static.ca/css/1406241432/a9rCustom.v2.css">
+<link rel="stylesheet" type="text/css" href="http://jc.411static.ca/css/1406241432/v2/pages.css">
 		
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.15/jquery-ui.min.js"></script>
@@ -79,11 +91,13 @@
 
 			<div class="top_links">
 				
-				<a href="/ov?campaignId=411caSearchHeaderEN&amp;source=other">Add Your Business</a>
+				<a href="/ov800?campaignId=411caSearchHeaderEN-ov800&amp;source=other">Add Your Business</a>
 				&nbsp;|&nbsp;
 				<a href="javascript:a9rRegister.open()">User Sign Up</a>
 				&nbsp;|&nbsp;
 				<a id="hdr_auth_login" href="javascript:a9rLogin.open()">Login</a>
+				&nbsp;|&nbsp;
+				<a href="/blog">Blog</a>
 				&nbsp;|&nbsp;
 				<a href="http://fr.411.ca/pages/privacy?lang=fr" title="French">Français</a>
 			</div>
@@ -338,10 +352,12 @@ $(function() {
 
 		
 			<div class="clear"></div>
-						<div id="global-footer" class="footer_line">
+						<div id="global-footer" class="footer_line line-2-social">
 				<div class="footer">
+				
+										
 					<div class="left">
-					<span style="float:left;margin-right:10px;">© 411 Local Search Corp 2013</span>
+					<span class="copy">© 411 Local Search Corp 2014</span>
 						<span class="social">
 							<a href="http://www.facebook.com/411ca?sk=wall&amp;filter=2" target="_blank"><div class="f"></div></a>
 							<a href="http://www.twitter.com/411_ca" target="_blank"><div class="t"></div></a>
@@ -351,6 +367,9 @@ $(function() {
 						</span>
 
 					</div>
+					<a target="_blank" href="https://www.google.ca/partners/#a_profile;idtf=016346447482248588398;">
+					<div class="google-partner-logo"></div>
+					</a>
 					<div class="r1">
 						<a href="http://m.411.ca">Mobile</a><br>
 						<a href="/pages/terms">Terms &amp; Conditions</a><br>
@@ -369,7 +388,7 @@ $(function() {
 					<div class="r4">
 						<a href="/pages/advertise">Advertise With Us</a><br>
 						<a href="/adwords">Google AdWords Plans</a><br>
-												<a href="/ov?campaignId=411caFooterEN&amp;source=other">Add Your Business</a>
+												<a href="/ov800?campaignId=411caFooterEN-ov800&amp;source=other">Add Your Business</a>
 					</div>
 				</div>
 			</div>
@@ -379,8 +398,7 @@ $(function() {
 			
 	        			<div class="bottom_bg"></div>
 			
-		
-<div class="overlay ui-widget ui-widget-content" id="global_error_box">
+				<div class="overlay ui-widget ui-widget-content" id="global_error_box">
 	<div class="msgContainer">
 		<p class="errorMsg"></p>
 		<div class="buttonsContainer">
@@ -399,7 +417,7 @@ $(function() {
 		</div>
 	</div>
 </div>
-<script type="text/javascript" src="http://jc.411static.ca/js/1307230211/a9rCustom3rd-min.js"></script><script type="text/javascript" src="http://jc.411static.ca/js/1307230211/a9rCustom.v2-min.js"></script><script type="text/javascript">
+<script type="text/javascript" src="http://jc.411static.ca/js/1406241432/a9rCustom3rd-min.js"></script><script type="text/javascript" src="http://jc.411static.ca/js/1406241432/a9rCustom.v2-min.js"></script><script type="text/javascript">
     //<![CDATA[
 var jsFilesToLoad = null;
     //]]>
