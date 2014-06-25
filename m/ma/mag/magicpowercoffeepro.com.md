@@ -1,47 +1,80 @@
-> *The following text is extracted and transformed from the magicpowercoffeepro.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105033120id_/http%3A//www.magicpowercoffeepro.com/corp/en/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicpowercoffeepro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625152259id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Magic Power Coffee Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-Magic Power Coffee is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Magic Power Coffee Web site and governs data collection and usage. By using the Magic Power Coffee website, you consent to the data practices described in this statement.
+[Home](http://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-## Collection of your Personal Information
+**What information do we collect?**
 
-Magic Power Coffee collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Magic Power Coffee also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-There is also information about your computer hardware and software that is automatically collected by Magic Power Coffee. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Magic Power Coffee for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Magic Power Coffee Web site.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Magic Power Coffee public message boards, this information may be collected and used by others. Note: Magic Power Coffee does not read any of your private online communications.
+**What do we use your information for?**
 
-Magic Power Coffee encourages you to review the privacy statements of Web sites you choose to link to from Magic Power Coffee so that you can understand how those Web sites collect, use and share your information. Magic Power Coffee is not responsible for the privacy statements or other content on Web sites outside of the Magic Power Coffee and Magic Power Coffee family of Web sites.
+Any of the information we collect from you may be used in one of the following ways: 
 
-## Use of your Personal Information
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Magic Power Coffee collects and uses your personal information to operate the Magic Power Coffee Web site and deliver the services you have requested. Magic Power Coffee also uses your personally identifiable information to inform you of other products or services available from Magic Power Coffee and its affiliates. Magic Power Coffee may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-Magic Power Coffee does not sell, rent or lease its customer lists to third parties. Magic Power Coffee may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Magic Power Coffee may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Magic Power Coffee, and they are required to maintain the confidentiality of your information.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-Magic Power Coffee does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+• To process transactions
 
-Magic Power Coffee keeps track of the Web sites and pages our customers visit within Magic Power Coffee, in order to determine what Magic Power Coffee services are the most popular. This data is used to deliver customized content and advertising within Magic Power Coffee to customers whose behavior indicates that they are interested in a particular subject area.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-Magic Power Coffee Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Magic Power Coffee or the site; (b) protect and defend the rights or property of Magic Power Coffee; and, (c) act under exigent circumstances to protect the personal safety of users of Magic Power Coffee, or the public.
+• To send periodic emails
 
-## Use of Cookies
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-The Magic Power Coffee Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Magic Power Coffee pages, or register with Magic Power Coffee site or services, a cookie helps Magic Power Coffee to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Magic Power Coffee Web site, the information you previously provided can be retrieved, so you can easily use the Magic Power Coffee features that you customized.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Magic Power Coffee services or Web sites you visit.
+**How do we protect your information?**
 
-## Security of your Personal Information
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-Magic Power Coffee secures your personal information from unauthorized access, use or disclosure. Magic Power Coffee secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-## Changes to this Statement
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-Magic Power Coffee will occasionally update this Statement of Privacy to reflect company and customer feedback. Magic Power Coffee encourages you to periodically review this Statement to be informed of how Magic Power Coffee is protecting your information.
+**Do we use cookies?**
 
-## Contact Information
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-Magic Power Coffee welcomes your comments regarding this Statement of Privacy. If you believe that Magic Power Coffee has not adhered to this Statement, please contact Magic Power Coffee at [support@magicpowercoffee.com](mailto:support@magicpowercoffee.com) . We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.HugeDomains.com](http://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](http://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
