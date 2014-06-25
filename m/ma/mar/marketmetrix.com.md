@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the marketmetrix.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119203353id_/http%3A//corp.marketmetrix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketmetrix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052826id_/http%3A//corp.marketmetrix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Market Metrix
 
-Effective Date: February 8, 2013
+Effective Date: April 2, 2014
+
+This privacy policy applies to www.marketmetrix.com owned and operated by Market Metrix, LLC. This privacy policy describes how Market Metrix, LLC collects and uses the personal information you provide on our web site: [www.marketmetrix.com](http://www.marketmetrix.com/).
 
 Market Metrix, LLC is committed to protecting the privacy of the information in our care. In providing services to our clients, we act as a Data Processor; collecting and analyzing survey data from our clients’ customers and presenting the results back to our clients. We do not collect personally identifiable information of our client’s customers. We return aggregate reporting data to our clients.
 
@@ -54,8 +56,13 @@ Market Metrix uses unique identifiers on survey invitation emails to ensure prop
 **Law Enforcement and Legal**  
 We reserve the right to disclose personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
+We may also disclose your information if Market Metrix, LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
 **Links to 3rd Party Sites**  
 Our Site includes links to other Web sites whose privacy practices may differ from those of Market Metrix, LLC. If you submit personally identifiable information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+
+**Social Media Widgets**  
+****Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and  may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 **CHANGES TO THIS PRIVACY POLICY**
 
