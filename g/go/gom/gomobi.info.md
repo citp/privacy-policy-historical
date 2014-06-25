@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomobi.info privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217112452id_/http%3A//gomobi.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomobi.info privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165257id_/http%3A//www.gomobi.info/privacy-policy) for the most accurate reproduction.*
 
 # goMobi
 
@@ -64,7 +64,17 @@ You may refuse to accept cookies by activating the setting on your browser which
 
 Please note that third party external websites to which we provide links (over which we have no control and do not stand over in any way) may also use cookies.
 
-## 9\. Your rights
+## 9\. Internet Advertising
+
+Third party vendors, such as Google, may show our ads on sites on the Internet. Third party vendors, such as Google, use cookies to serve ads based on a user's prior visits to our website. Users can opt out of cookies used by Google for advertising. You can opt out by: 
+
+  * **Opting out of DoubleClick cookies:** Users can opt out of DoubleClick cookies by visiting the [DART Ad-Serving and Search Cookie Opt-Out](http://www.doubleclick.com/privacy/dart_adserving.aspx) page.
+  * **Opting out of Google advertising cookies:** Users can opt out of Google's use of cookies for advertising by visiting Google's [Advertising and Privacy](http://www.google.com/privacy_ads.html) page.
+  * **Opting out of cookies from all participating advertisers:** Users can opt out of third-party advertising cookies from a wide range of advertising services, including Google, by visiting the Network Advertising Initiative's Opt-Out page at <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+
+
+## 10\. Your rights
 
 You have a right to be given a copy of your personal data which is held by us. We may charge a fee for this which will not exceed €10.
 
@@ -82,21 +92,21 @@ You should include with any such request any personal identifiers which you supp
 
 We reserve the right to request you to provide additional information in order to enable us to identify your personal information and/or to verify your identity. If such information is required, this may affect the timeline within which we deal with your request.
 
-## 10\. Security
+## 11\. Security
 
 We take our security responsibilities seriously, employing appropriate physical, organisational and technical measures. We review our security policy regularly.
 
-## 11\. Governing law and jurisdiction
+## 12\. Governing law and jurisdiction
 
 This privacy statement and all issues regarding this website are governed by Irish law and are subject to the exclusive jurisdiction of the Irish courts.
 
-## 12\. Contacting us
+## 13\. Contacting us
 
 If you have any questions about this privacy statement, our practices relating to this website or your dealing with this website you can contact us at the following address:
 
 E-mail: [legal@dotmobi.com](mailto:legal@dotmobi.com)
 
-## 13\. Glossary of Technical Terms
+## 14\. Glossary of Technical Terms
 
 Cookies: Small pieces of information, stored in simple text files, placed on your computer by a website. Cookies can be read by the website on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the website can "remember" you on your return visit. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the website.
 
