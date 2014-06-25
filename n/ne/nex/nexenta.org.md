@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nexenta.org privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112015903id_/http%3A//www.nexenta.org/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexenta.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091733id_/http%3A//www.nexenta.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Nexenta
 
 **Privacy Policy**
 
@@ -27,7 +27,7 @@ You can browse the Nexenta site without telling us who you are or revealing any 
 We may collect and store the following information:
 
   * email address, physical contact information, and, depending on the requirements of the service used financial information, such as credit card or payment methods;
-  * transactional information based on your activities on the Site (including but not limited to purchases you make, purchase content, and searches conducted, as related to your account activity); 
+  * transactional information based on your activities on the Site (including but not limited to purchases you make, purchase content, and searches conducted, as related to your account activity);
   * billing and other information you provide to access our site and/or content;
   * correspondence through the Site, and correspondence sent to us;
   * computer sign-on data, statistics on page views, traffic to and from the Site, ad data and other information, including IP addresses and standard Web log information; and supplemental information from third parties.
