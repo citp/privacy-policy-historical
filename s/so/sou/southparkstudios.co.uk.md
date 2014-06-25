@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southparkstudios.co.uk privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107073320id_/http%3A//www.southparkstudios.co.uk/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southparkstudios.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132942id_/http%3A//www.southparkstudios.co.uk/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - South Park Studios UK & Ireland
 
