@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127012205id_/http%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112247id_/http%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
 
-# Run your Football, March Madness, Baseball, Golf, and other pools at RunYourPool.com
+# Run your March Madness, Football, Baseball, Golf, and other pools at RunYourPool.com
 
 It is the policy of runyourpool.com that personal information, such as your name and email address, is private and confidential. Because your privacy is important to us, runyourpool.com maintains this website privacy statement to protect your personal information. By using this site, you consent to the terms of our privacy policy for the collection, use and disclosure of your personal information for the purposes set out below. We do not collect, use or disclose your personal information for any purpose other than those identified below, except with your consent or as required by law. 
 
