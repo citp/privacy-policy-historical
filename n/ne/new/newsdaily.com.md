@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsdaily.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106204004id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsdaily.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125136id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
 
-# ScienceDaily: Privacy Policy
+# Privacy Policy -- ScienceDaily
 
 Most web sites collect some sort of information about their visitors in order to gather statistics about how many visitors they get each month, what are the most and least popular pages on the web site, where there may be problems in serving certain pages to visitors, etc. In an effort to answer questions such as these, ScienceDaily also collects certain basic information about its visitors.
 
@@ -27,10 +27,3 @@ If you would like more information about advertising-related data collection pra
 If you wish not to have anyone keep any records of your visit to our site, even though it is our policy not to personally identify individual users but only to gather overall cumulative information about our visitors, then we suggest that you use an anonymous web browsing service. Such services typically hide all information about particular users from web sites, which log visits from the anonymizing service instead of the users' own computers.
 
 If you have any questions about our privacy policy, please contact Dan Hogan, editor of ScienceDaily, at [editor@sciencedaily.com](mailto:editor@sciencedaily.com "mailto:editor@sciencedaily.com").
-
-* * *
-
-_Recommend this page on **Facebook** , **Twitter** ,   
-and **Google +1** :_
-
-_Other bookmarking and sharing tools:_
