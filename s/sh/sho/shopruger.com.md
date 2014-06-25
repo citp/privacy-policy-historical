@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shopruger.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208052917id_/http%3A//shopruger.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopruger.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071151id_/http%3A//shopruger.com/privacy.asp) for the most accurate reproduction.*
 
-# -Sturm, Ruger & Co., Inc.
+# -ShopRuger
+
+| 
 
 **This Web Site Privacy Policy applies solely to our online data collection practices as contained in this web site.**
 
@@ -44,4 +46,6 @@ We appreciate the trust that you, our customers, have placed in us and look forw
 **Changes to our Web Site Privacy Policy**  
 We may amend this web site privacy policy from time to time. If we make any substantial changes in the way we use personal information, we will post a prominent announcement on this web site.
 
-Date last revised: 1-13-05
+Date last revised: 1-13-05  
+  
+---|---
