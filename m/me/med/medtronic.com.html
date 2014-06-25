@@ -1,28 +1,87 @@
-<!--The following is the downloaded HTML source of the medtronic.com privacy policy that was archived on 2013-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131105111441id_/http%3A//www.medtronic.com/statements/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medtronic.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626003021id_/http%3A//www.medtronic.com/statements/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- Sites that are to be cookie law compliant should be added to this list -->
 <!-- Sites that allow GA before cookie message is dismissed by visitor should be added to this list -->
+		<script src="//ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+			function getTherapyType() {
+				var ga_therapies = document.getElementsByName("therapy");
+				var ga_therapies_output="";
+				for (var i = 0; i < ga_therapies.length; i++) {
+ 					ga_therapies_output += ga_therapies[i].value + ":";   
+				}
+				ga_therapies_output = ga_therapies_output.replace(/\:$/, '');
+			
+				return (doTherapyLookup(ga_therapies_output));
+			}
+			function doTherapyLookup(myTherapies) {
+				var arr_therapies = myTherapies.split(":");
+				var therapyOutput = "";
+				for(var i = 0; i < arr_therapies.length; i++) {
+					switch(arr_therapies[i]) {
+						case "1":
+							therapyOutput += "InterStim - Urinary:";
+							break;
+						case "2":
+							therapyOutput += "Activa:";
+							break;
+						case "3":
+							therapyOutput += "Pain - Pump:";
+							break;
+						case "4":
+							therapyOutput += "ITB:";
+							break;
+						case "5":
+							therapyOutput += "InterStim - Bowel:";
+							break;
+						case "6":
+							therapyOutput += "";
+							break;
+						case "7":
+							therapyOutput += "Enterra:";
+							break;
+						case "8":
+							therapyOutput += "DBS - Psychiatric:";
+							break;
+						case "9":
+							therapyOutput += "Pain - Stim:";
+							break;
+						case "99":
+							therapyOutput += "Back – Pain:";
+							break;
+						default:
+							therapyOutput += "";
+					}				
+				}
+				if (therapyOutput === "") {
+					therapyOutput = "Non-Neuro Therapy";	
+				}
+				else {
+					therapyOutput = therapyOutput.replace(/\:$/, '');
+				}
+				return therapyOutput;			
+			}
+		</script>
 	<!--GA HEADER-->
 	
 
-			<script src="//ssl.google-analytics.com/ga.js"></script><script>
+			<script>
 						var _gaq = _gaq || [];
-						_gaq.push(['_setAccount', 'UA-28302736-1']); /* Global Roll-up */
-						_gaq.push(['_setSiteSpeedSampleRate', 100]); // #protip
-						_gaq.push(['_setDomainName', '.medtronic.com']); /* Your Site Domain */
-						_gaq.push(['_setAllowLinker', true]); /* Add setAllowLinker to allow tracking cross domains */
-						_gaq.push(['_trackPageview']);
+						_gaq.push(['global._setAccount', 'UA-28302736-1']); /* Global Roll-up */
+						_gaq.push(['global._setSiteSpeedSampleRate', 100]); // #protip
+						_gaq.push(['global._setDomainName', 'medtronic.com']); /* Your Site Domain */
+						_gaq.push(['global._setAllowLinker', true]); /* Add setAllowLinker to allow tracking cross domains */
+							_gaq.push(['global._setCustomVar',1,'Therapy Type',getTherapyType(),2]);
+						_gaq.push(['global._trackPageview']);
 
-						var _gaq = _gaq || [];
-						_gaq.push(['_setAccount', 'UA-26704824-1']); /* Your Site Domain tracking code */
-						_gaq.push(['_setSiteSpeedSampleRate', 100]); // #protip
-								var hostname = location.hostname;
-								var siteDomain = hostname.indexOf("www") > -1 ? hostname.replace("www","") : "." + hostname;
-							_gaq.push(['_setDomainName', siteDomain]); /* Your Site Domain */
-							_gaq.push(['_setAllowLinker', true]); /* Add setAllowLinker to allow tracking cross domains */
-						_gaq.push(['_trackPageview']);
+						_gaq.push(['site._setAccount', 'UA-26704824-1']); /* Your Site Domain tracking code */
+						_gaq.push(['site._setSiteSpeedSampleRate', 100]); // #protip
+													
+							_gaq.push(['site._setDomainName', 'medtronic.com']); /* Your Site Domain */
+							_gaq.push(['site._setAllowLinker', true]); /* Add setAllowLinker to allow tracking cross domains */
+							_gaq.push(['site._setCustomVar',1,'Therapy Type',getTherapyType(),2]);
+						_gaq.push(['site._trackPageview']);
 			</script>
 
   <script id="ssInfo" type="text/xml" warning="DO NOT MODIFY!">
@@ -43,7 +102,7 @@
         <element  id="region5_element1" name="ContactUs" label="Contact Us" type="2" flags="1100000000000000011000111110000000000000000000010000000000001000000000000000" fragmentid="SS_FRAG_MDT_CONTACT_US" library="server:SS_FRAG_LIB_MDT_CONTACT_US_SL">
           
 			
-      <element  id="0" name="company" label="Company" type="6" flags="111110000000000000000000000000000000000000000100000001000000000000000000000000000000000000000000">
+      <element  id="0" name="company" label="Company" type="6" flags="111110000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000">
           
         <description >Medtronic</description>
         <validate  docname="SS_DEFAULT_VALIDATION_SCRIPT" language="javascript" methodname="fnSSVDefaultPlainTextValidation" paramtype="html">
@@ -68,11 +127,11 @@
           <parameters ><parameter ></parameter><parameter ></parameter><parameter ></parameter><parameter >false</parameter></parameters>
         </validate>
       </element>
-      <element  id="4" name="email" label="Email" type="1" flags="1111100000000000111000000000000000000000000000110000000100101000000000000000">
+      <element  id="4" name="email" label="Email" type="1" flags="111110000000000011100000000000000000000000000011000000010010100000000000000000000000000000000000">
           
         <description >The word email with the mailto address linked to it</description>
       </element>
-      <element  id="5" name="phone1type" label="Phone Type" type="1" flags="1111100000000000111000000000000000000000000000110000000100101000000000000000">
+      <element  id="5" name="phone1type" label="Phone Type" type="1" flags="111110000000000011100000000000000000000000000011000000010010100000000000000000000000000000000000">
           
       </element>
       <element  id="6" name="phone" label="Phone" type="6" flags="111110000000000000000000000000000000000000000000000001000000000000001000000000000000000000000000">
@@ -82,7 +141,7 @@
           <parameters ><parameter ></parameter><parameter ></parameter><parameter ></parameter><parameter >false</parameter></parameters>
         </validate>
       </element>
-      <element  id="7" name="phone2type" label="Alternate Phone type" type="1" flags="1111100000000000111010000000000000000000000000110000000100101000000000000000">
+      <element  id="7" name="phone2type" label="Alternate Phone type" type="1" flags="111110000000000011101000000000000000000000000011000000010010100000000000000000000000000000000000">
           
       </element>
       <element  id="8" name="phone2" label="Alternate Phone" type="6" flags="111110000000000000000000000000000000000000000000000001000000000000001000000000000000000000000000">
@@ -122,7 +181,7 @@
           <parameters ><parameter ></parameter><parameter ></parameter><parameter ></parameter><parameter >false</parameter></parameters>
         </validate>
       </element>
-      <element  id="14" name="message" label="WYSIWYG Message Area" type="1" flags="1111100000000000111000000000000000000000000010110000000100101000000000000000">
+      <element  id="14" name="message" label="WYSIWYG Message Area" type="1" flags="111110000000000011100000000000000000000000001011000000010010100000000000000000000000000000000000">
           
       </element>
 		
@@ -234,7 +293,7 @@
 <link rel="canonical" href="http://www.medtronic.com/statements/privacy.htm">
 			
   <!--SS_END_SNIPPET(fragment17,1)-->
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body id="privacy">
 		<ul id="skip-links">
@@ -245,7 +304,7 @@
   <div id="wrapper">
     <div id="container">
       		<div id="mdt-header">
-      			<div id="logo"><a href="http://www.medtronic.com" accesskey="1" title="return to the home page"><img src="//video.medtronic.com/img/mdt-logo-hd.png" alt="Medtronic" width="206" height="43"></a></div>
+      			<div id="logo"><a href="http://www.medtronic.com" accesskey="1" title="Return to the Medtronic.com home page"><img src="//video.medtronic.com/img/mdt-logo-hd.png" alt="Return to the Medtronic.com home page" width="206" height="43"></a></div>
       			 
 	<!-- Section = passed from referring page-->
 	<style type="text/css">
@@ -493,11 +552,13 @@
 	<!--default is english-->
 	<!--if the content last updated date is older than the launch date
 	display the launch date-->
-
-
+	
+	
 	<!--Format the date based on site-->
+		
+		 
 	<div id="WCM_PROD004768" class="release-date">Last updated: 8 Oct 2013</div>
-
+	
 			<!-- SS_END_SNIPPET(fragment27,1)-->
         </div>
 
@@ -543,7 +604,7 @@
 <div id="mdt-footer">
 	<footer>
 		<ul>
-			<li class="copyright">© 2013 Medtronic, Inc.</li>
+			<li class="copyright">© 2014 Medtronic, Inc.</li>
 			<li class="privacy"><a href="/statements/privacy.htm" accesskey="7">Privacy Statement</a></li>
 			<li class="terms"><a href="/statements/terms/index.htm" accesskey="8">Terms of Use</a></li>
 			<li class="contact"><a href="/contact-us/index.htm" onclick="recordOutboundLink(this, 'Outbound Links', 'Click', '/contact-us/index.htm');return false;" accesskey="9">Contact Us</a></li>
@@ -720,12 +781,31 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
       			g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js'; 
       			s.parentNode.insertBefore(g,s)}(document,'script')); 
 			</script>
-			
-				<script type="text/javascript" src="//video.medtronic.com/js/libs/google-analytics/mdt_linktracker.min.js"></script>
+						
+							
+						
+					<script type="text/javascript" src="/wcm/groups/mdtcom_sg/@mdt/documents/webassets/hcp_rpl_linktracker.js"></script>
 		<script type="text/javascript" src="//video.medtronic.com/js/libs/google-analytics/social-tracking/5.0/ga_social_tracking.min.js"></script>
 		<script type="text/javascript">
   		_ga.trackSocial();
 		</script>
+	<script type="text/javascript">
+		adroll_adv_id = "Q2PZRCTDUBA3FJQW3LOSCP";
+		adroll_pix_id = "L57HYCNR6FBDVCKYHUYQVY";
+		(function () {
+		var oldonload = window.onload;
+		window.onload = function(){
+   		__adroll_loaded=true;
+   		var scr = document.createElement("script");
+   		var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   		scr.setAttribute('async', 'true');
+   		scr.type = "text/javascript";
+   		scr.src = host + "/j/roundtrip.js";
+   		((document.getElementsByTagName('head') || [null])[0] ||
+    		document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   		if(oldonload){oldonload()}};
+		}());
+	</script>
 
 	<!--SS_BEGIN_SNIPPET(fragment11,Accordion)-->
   						<script type="text/javascript" src="/wcm/groups/mdtcom_sg/@shared/documents/webassets/ss_js_hover-intent.js"></script>
