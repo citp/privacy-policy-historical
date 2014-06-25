@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyogawithme.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216082440id_/http%3A//www.doyogawithme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyogawithme.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625225114id_/http%3A//www.doyogawithme.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DoYogaWithMe.com
 
