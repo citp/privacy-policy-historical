@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103110747id_/http%3A//www.biggerbras.com/service/d-privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062209id_/http%3A//www.biggerbras.com/service/d-privacy.shtml) for the most accurate reproduction.*
 
 # BiggerBras.com: Privacy Policy
 
@@ -42,7 +42,7 @@ In an effort to reduce the thousands of inappropriate email (i.e. SPAM lists) se
 
 In order to better assist our existing customers, BGB attempts to personally answer all customer inquiries within 72 to 96 hours. Occasionally, responses may take an additional day. If you do not receive a response in this time-frame and your question is not answered in our help section, call us. Our toll free number is 1-866-352-4494.
 
-Please check our [Help and Frequently Asked Questions](http://www.biggerbras.com/d-help.shtml) page for common questions and answers.
+Please check our [Help and Frequently Asked Questions](http://www.biggerbras.com/service/d-help.shtml) page for common questions and answers.
 
 If you are an existing customer, please include your full name, email address, order date and order-id number in your email, AND complete questions or instructions. One word instructions such as "Cancel" or "Change" can not be processed.
 
@@ -66,4 +66,4 @@ Conclusion
 
 BGB receives thousands of visitors each day to our website and we reserve the right to modify or adapt this policy to further protect the privacy of our visitors, the security, aesthetics and functionality of our site, and to provide a quality shopping experience for our customers.
 
-Do you have a bra or swimsuit question? Ask us on Facebook. <http://www.facebook.com/BigGirlsBras>
+Do you have a bra or swimsuit question? Please call us directly at 1-954-484-2701.
