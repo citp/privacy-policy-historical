@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the versace.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809105637id_/http%3A//www.versace.com/en/legal-notes/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the versace.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093425id_/http%3A//www.versace.com/en/legal-notes/privacy) for the most accurate reproduction.*
 
-# Versace 2013
+# Versace 2014
 
 ## THE PRIVACY POLICY OF THIS WEBSITE
 
