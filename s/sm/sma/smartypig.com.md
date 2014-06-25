@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805185633id_/https%3A//www.smartypig.com/disclosures/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130521id_/https%3A//www.smartypig.com/disclosures/privacy-policy) for the most accurate reproduction.*
 
 # SmartyPig®: Privacy Policy
 
@@ -6,9 +6,9 @@
 
 The _Privacy Policy_ can also be downloaded in [ Adobe® PDF](http://get.adobe.com/reader) format. Click the link below to save the Privacy Policy to your hard drive. 
 
-[Download Privacy Policy](https://web.archive.org/web/20130805185633id_/https%3A//www.smartypig.com/render/disclaimer?disclaimerId=a9b2e3ff-d9db-48a2-9cef-28f4e0006c75) (PDF 240k)
+[Download Privacy Policy](https://web.archive.org/web/20140625130521id_/https%3A//www.smartypig.com/render/disclaimer?disclaimerId=a9b2e3ff-d9db-48a2-9cef-28f4e0006c75) (PDF 294k)
 
-Last Updated: September 13, 2012 
+Last Updated: January 31, 2014 
 
 * * *
 
@@ -21,6 +21,8 @@ Your Savings Account with BBVA Compass is governed by the BBVA Compass Consumer 
 This privacy policy applies to www.smartypig.com owned and operated by SmartyPig, LLC. This privacy policy describes how SmartPig, LLC collects and uses the personally identifiable information you provide on our web site: www.smartypig.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
 SmartyPig, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://watchdog.truste.com/pvr.php?page=complaint) including transparency, accountability and choice regarding the collection and use of your personally identifiabe information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.smartypig.com.
+
+* <http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html>
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@smartypig.com. If you are not satisfied with our response you can contact TRUSTe at <http://watchdog.truste.com/pvr.php?page=complaint>.
 
@@ -45,14 +47,10 @@ We begin by safeguarding the security and integrity of customer information that
   * We ensure our physical, electronic, and procedural safeguards meet or exceed federal standards regarding the protection of customer information.
   * We require independent contractors and outside companies who work with us to adhere to strict privacy standards through their contracts with us. Privacy language is included in all contracts.
   * We use technological means (such as backup files, virus detection and eradication software, firewalls, and other computer software and hardware) to protect against unauthorized access or alterations to customer data.
-
-
-
-We collect and maintain customer information as part of servicing your account and your customer relationship. In the course of serving you, we collect information about you from a variety of sources, such as:
-
-  * Information you provide to us on applications or forms.
-  * Information we receive from an outside company, such as a credit bureau, regarding your credit history.
-  * Information about your transactions or experiences with companies partnering with SmartyPig.
+  * We collect and maintain customer information as part of servicing your account and your customer relationship. In the course of serving you, we collect information about you from a variety of sources, such as: 
+    * Information you provide to us on applications or forms.
+    * Information we receive from an outside company, such as a credit bureau, regarding your credit history.
+    * Information about your transactions or experiences with companies partnering with SmartyPig.
 
 
 
@@ -82,7 +80,7 @@ We use Google Analytics, a third-party tracking service, which uses cookies to t
 
 We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: [http://www.macromedia.com/support/documentation /en/flashplayer/help/settings_manager.html#117118](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
 
 #### Information About Your Friends
 
@@ -138,7 +136,7 @@ The e-mail will include the following statement:
 
 #### Choice/Opt-out
 
-SmartyPig users may choose to opt-in to receiving marketing information from selected partners, such as our banking service provider, BBVA Compass. This can be done during the registration process. Registered users may also opt-in to receiving this information at anytime under the EDIT MY PROFILE. Visit the BBVA Compass privacy policy at <http://www.bbvacompass.com/compass/policy/disclosure.cfm> for additional information.
+SmartyPig users may choose to opt-in to receiving marketing information from selected partners, such as our banking service provider, BBVA Compass. This can be done during the registration process. Registered users may also opt-in to receiving this information at anytime under the Messages Settings section. Visit the BBVA Compass privacy policy at <http://www.bbvacompass.com/compass/policy/disclosure.cfm> for additional information.
 
 You may not opt-out of receiving service related emails from SmartyPig that relate to the general usage of smartypig.com.
 
@@ -150,7 +148,7 @@ It is possible that we may need to disclose personally identifiable information 
 
 #### Accessing and Changing Your Account Information
 
-You can review the personally identifiable information you provided us and make any desired changes to the information, or to the settings for your SmartyPig account, at any time by logging into your account on the SmartyPig Website and editing the information on your Profile page. When you close your SmartyPig account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the SmartyPig Privacy Policy to which you have previously agreed.
+You can review the personally identifiable information you provided us and make any desired changes to the information, or to the settings for your SmartyPig account, at any time by logging into your account on the SmartyPig Website and editing the information on your Profile page. When you close your SmartyPig account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non- personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the SmartyPig Privacy Policy to which you have previously agreed.
 
 #### Links to Other Sites
 
