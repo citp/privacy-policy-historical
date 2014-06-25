@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fmeextensions.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102124135id_/http%3A//www.fmeextensions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmeextensions.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002128id_/http%3A//www.fmeextensions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | FME Extensions
 
 ## Privacy Statement
 
