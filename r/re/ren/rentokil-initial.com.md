@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentokil-initial.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129032056id_/http%3A//www.rentokil-initial.com/cookie-and-privacy-policy/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentokil-initial.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626014352id_/http%3A//www.rentokil-initial.com/cookie-and-privacy-policy/privacy/index.html) for the most accurate reproduction.*
 
-# Rentokil Initial - Privacy Policy - Rentokil Initial
+# Privacy Policy | Rentokil Initial - Rentokil Initial
 
 In this policy **“We”** , **“us”** and **“our”** means Rentokil Initial Plc and its subsidiaries worldwide.
 
@@ -21,9 +21,12 @@ Since we operate globally, the information you submit may be transferred anywher
 You have a right to access the personal data that is held about you. To obtain a copy of the personal data which Rentokil Initial plc holds about you please write to:
 
 > The Data Protection Officer,  
-> Rentokil Initial plc  
-> 2 City Place, Beehive Ring Road  
-> Gatwick Airport,  
-> RH6 0HA
+>  Rentokil Initial plc  
+>  Riverbank  
+>  Meadows Business Park  
+>  Blackwater  
+>  Camberley  
+>  Surrey  
+>  GU17 9AB
 
 Or send an e-mail to [dpofficer@rentokil-initial.com](mailto:dpofficer@rentokil-initial.com "Use your default mail program to email dpofficer@rentokil-initial.com") providing your postal details. You must also send a cheque or postal order for £10 payable to Rentokil Initial plc.
