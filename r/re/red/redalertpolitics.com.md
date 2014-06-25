@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redalertpolitics.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212110411id_/http%3A//redalertpolitics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redalertpolitics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115027id_/http%3A//redalertpolitics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Red Alert Politics
 
 **SCOPE OF THIS PRIVACY POLICY**  
 Thank you for visiting RedAlertPolitics.com, (the “Site”). This Site is owned and operated by Clarity Media Group, Inc. (“Clarity Media Group”), at 555 17th Street, Suite 700, Denver, CO 80202. Your access to and use of this Site is subject to the following Privacy Policy (“Privacy Policy”) and all applicable laws. The terms “we”, “us” and “our” when used in this Privacy Policy means Clarity Media Group, Inc., its parent company, and their respective subsidiaries and affiliates. The terms “you” and “your” when used in this Privacy Policy means any user of this Site.
