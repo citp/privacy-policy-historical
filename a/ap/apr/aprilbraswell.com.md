@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aprilbraswell.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729172411id_/http%3A//aprilbraswell.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aprilbraswell.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103913id_/http%3A//www.aprilbraswell.com/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Dating and Relationship Expert, Internet Profile Writer and Coach | Woman Motivational Speaker - April Braswell - Privacy Policy
+# Dating Relationship Expert, Internet Profile Writer, Coach Women Over 40 | Woman Motivational Speaker - Privacy Policy
 
 AprilBraswell.com and PromoteYouOnline, Inc. are committed to maintaining the privacy of our Web site visitors. You are not required to reveal any personal information, such as your name, address, or telephone number, in order to visit our Web site and access all of the free content.
 
