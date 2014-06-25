@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elasticemail.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824113226id_/http%3A//elasticemail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elasticemail.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043538id_/http%3A//elasticemail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
