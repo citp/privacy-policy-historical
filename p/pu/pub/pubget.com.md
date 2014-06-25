@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pubget.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126090209id_/http%3A//pubget.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubget.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081924id_/http%3A//pubget.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Pubget - Pubget
+# Search engine for life-science PDFs - Pubget
 
 EffectiveNov 30, 2012
 
@@ -48,8 +48,8 @@ You have the right to correct your personal information. This may be accomplishe
 
 Pubget Corporation  
 ATTN: Privacy Manager  
-300 Summer Street  
-Boston, Massachusetts 02210  
+2 Liberty Square, 2nd Floor  
+Boston, Massachusetts 02109  
 privacy@pubget.com
 
 When you contact us please include your name, address and/or e-mail address, account number (if known) and a detailed explanation of your request.
