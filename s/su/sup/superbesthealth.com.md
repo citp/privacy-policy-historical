@@ -1,22 +1,71 @@
-> *The following text is extracted and transformed from the superbesthealth.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112062516id_/http%3A//www.superbesthealth.com/p/blog-page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbesthealth.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085158id_/http%3A//superbesthealth.com/health/index.php/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | HEALTH
+# PRIVACY POLICY | SUPERBESTHEALTH.COM
 
-**superbesthealth.com** takes your Privacy seriously. This privacy policy describes what personal Information we collect and how we use it. See this privacy policy primer To learn more about privacy policies in general.
+**Cookies & 3rd Party Advertisements**
 
-**Routine Information Collection**  
-All Web servers track basic information about their visitors. This Information includes, but is not limited to, IP addresses, browser Details, timestamps and referring pages. None of this information can Personally identify specific visitors to this site. The information is Tracked for routine administration and maintenance purposes.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:admin@superbesthealth.com).
+
+At superbesthealth.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by superbesthealth.com and how we use it.
+
+**Log Files**  
+Like many other Web sites, superbesthealth.com makes use of log files. These files merely log visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies and Web Beacons**  
-Where Necessary, The Car Gallery uses cookies to store information about a Visitor's preferences and history in order to better serve the visitor And/or present the visitor with customized content.
+superbesthealth.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-Advertising Partners and other third parties may also use cookies, scripts and/or Web beacons to track visitors to our site in order to display Advertisements and other useful information. Such tracking is done Directly by the third parties through their own servers and is subject Their own privacy policies.
+**DoubleClick DART Cookie**
 
-**Controlling Your Privacy**  
-Note That you can change your browser settings to disable cookies if you Have privacy concerns. Disabling cookies for all sites is not Recommended as it may interfere with your use of some sites. The best Option is to disable or enable cookies on a per-site basis. Consult your Browser documentation for instructions on how to block cookies and Other tracking mechanisms. This list of web browser privacy management Links may also be useful.
+→ Google, as a third party vendor, uses cookies to serve ads on superbesthealth.com.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to superbesthealth.com and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-**Special Note About Google Advertising**  
-Any The advertisements served by Google, Inc., and affiliated companies may be Controlled using cookies. These cookies allow Google to display ads Based on your visits to this site and other sites that use Google Advertising services. Learn how to opt out of Google's cookie usage. As Mentioned above, any tracking done by Google through cookies, and other Mechanisms are subject to Google's own privacy policies. ** **
+**Our Advertising Partners**
 
-**Contact Information**  
-Concerns or questions about this privacy policy can be directed to admin@superbesthealth for further clarification.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
+
+  * Google
+  * Commission Junction
+  * Amazon
+  * Widget Bucks
+  * Adbrite
+  * Clickbank
+  * Linkshare
+  * Yahoo! Publisher Network
+  * Azoogle
+  * Chitika
+  * Kontera
+  * TradeDoubler
+  *   * Other
+
+
+
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of superbesthealth.com._
+
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on superbesthealth.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+
+superbesthealth.com has no access to or control over these cookies that are used by third-party advertisers.
+
+**Third Party Privacy Policies**
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. superbesthealth.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. superbesthealth.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that superbesthealth.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
+
+**Update**  
+This Privacy Policy was last updated on: Thursday, January 16th, 2014.  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
