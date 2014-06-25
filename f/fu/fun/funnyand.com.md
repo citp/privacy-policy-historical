@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyand.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221123844id_/http%3A//funnyand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyand.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075238id_/http%3A//funnyand.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FunnyAnd.com
 
@@ -21,6 +21,8 @@ We have included links on this site for your use and reference. We are not respo
 ### Changes to this Privacy Statement
 
 The contents of this statement may be altered at any time, at our discretion.   
-Our Privacy Policy explains:   
-\- What information we collect and why we collect it. \- How we use that information. \- The choices we offer, including how to access and update information.   
+Our Privacy Policy explains: 
+
+\- What information we collect and why we collect it. \- How we use that information. \- The choices we offer, including how to access and update information. 
+
 The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of FunnyAnd.com then you may [contact us](http://funnyand.com/contact-us/ "contact us")
