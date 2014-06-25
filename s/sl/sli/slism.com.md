@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the slism.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208210033id_/http%3A//slism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slism.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050421id_/http%3A//slism.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY – Slism
+# Privacy Policy | Slism
 
 ## PRIVACY POLICY
 
-Effective Joly 6, 2012
+Effective July 6, 2012
 
-Amaze, Inc (“We”, “The Company”) is committed to protecting the privacy of users (“You”, “The Person”) on our sites (“the Site”). The treatment of information collected through the use the sites we administer are governed by the present privacy policy.
+Amaze, Inc ("We", "The Company") is committed to protecting the privacy of users ("You", "The Person") on our sites ("the Site"). The treatment of information collected through the use the sites we administer are governed by the present privacy policy.
 
 BY USING THIS SITE YOU AGREE TO ACCEPT THE PRESENT PRIVACY POLICY ACKNOWLEDGING THAT THE USE OF THE SITE OUT OF ITS DEFINED SCOPE ARE AT ONES OWN DISCRETION AND RESPONSIBILITY SUCH THAT THE COMPANY SHALL NOT BE HELD LIABLE FOR THE PERSON
 
@@ -32,7 +32,7 @@ We do not acquire personal information by a deception or other wrongfol means.
 
 ## 4\. Notice of the Purpose of Utilization at the Time of Acquisition
 
-When having acquired personal information, we shall, except in the case in which the Purpose of Utilization has already been publicly announce, promptly notify the person of the Purpose of Utilization or publicly announce the Purpose of Utilization; however, we can’t guarantee this in the following cases:
+When having acquired personal information, we shall, except in the case in which the Purpose of Utilization has already been publicly announce, promptly notify the person of the Purpose of Utilization or publicly announce the Purpose of Utilization; however, we can't guarantee this in the following cases:
 
   1. Cases in which notifying the person of the Purpose of Utilization or publicly announcing it are likely to harm the life, body, property, or other rights or interests of the person or a third party
   2. Cases in which notifying the person of the Purpose of Utilization or publicly announcing it are likely to our rights or legitimate interest
@@ -116,7 +116,7 @@ When requested by a person to discontinue using or to erase such retained person
 
 ## 14\. Advertisement
 
-The company in which this Site is managed by uses third party services to generate renew from ads presents on this Site. The improve the quality of ads being served to our valued users, access information (excluding personal information including but not limited to your name, address, and telephone number) either on this Site and other sites you may have visited is used to improve your viewing experience. For more detailed information, regarding the ad process and how to prevent this information from being used by without your permission see Google’s page on Advertising privacy FAQ page <http://www.google.com/policies/privacy/ads/>.
+The company in which this Site is managed by uses third party services to generate renew from ads presents on this Site. The improve the quality of ads being served to our valued users, access information (excluding personal information including but not limited to your name, address, and telephone number) either on this Site and other sites you may have visited is used to improve your viewing experience. For more detailed information, regarding the ad process and how to prevent this information from being used by without your permission see Google's page on Advertising privacy FAQ page <http://www.google.com/policies/privacy/ads/>.
 
 ## 15\. Changes in Privacy Policy
 
