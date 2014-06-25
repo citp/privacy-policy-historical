@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cymath.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127235709id_/http%3A//www.cymath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cymath.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095714id_/http%3A//cymath.com/privacy) for the most accurate reproduction.*
 
-# CyMath - Contact Us
+# Contact Us
 
 This privacy policy discloses the privacy practices for cymath.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
