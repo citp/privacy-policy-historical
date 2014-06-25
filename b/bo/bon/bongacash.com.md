@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bongacash.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207025356id_/http%3A//bongacash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongacash.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110739id_/http%3A//bongacash.com/privacy) for the most accurate reproduction.*
 
 # BongaCash - The best adult webcam affiliate program
 
