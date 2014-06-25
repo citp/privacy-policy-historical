@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockshopper.com privacy policy that was archived on 2013-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130802034151id_/http%3A//www.blockshopper.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockshopper.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122243id_/http%3A//blockshopper.com/privacy_policy.html) for the most accurate reproduction.*
 
 # BlockShopper - About Us
 
