@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asiacube.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814214631id_/http%3A//asiacube.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiacube.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113451id_/http%3A//asiacube.com/privacy-policy.php) for the most accurate reproduction.*
 
-# AsiaCube - The Best Free Social Exchange Site!
+# AsiaCube.com
 
 AsiaCube.com is commited to safeguarding your privacy online. Please read the following policy to understand how your information will be treated as you make use of our web site. This policy may change from time to time so please check back periodically.
 
