@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102021400id_/http%3A//www.fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625152326id_/http%3A//www.fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | The FMD
 
 This Policy describes the information that the Fashion Model Directory and its operated Websites (collectively, the "websites" or "we") collect about you, how this information is used and the choices you can make about the uses of your personal information.   
 This Privacy Policy applies to Fashionmodeldirectory.com and all subordinated domains and projects.
@@ -39,7 +39,7 @@ We may obtain geographic information such as zip code clustering from other sour
 
 The major part of the online advertising on the website is being delivered by third-party advertising companies, which may use cookies so that they are able, among other things, to determine whether you have already seen a certain advertisement and avoid showing duplicate advertisements.  
 These cookies may also enable the advertising companies to serve you tailored ads. Online advertising companies generally conduct this activity in an anonymous format, with online information not combined with information that would allow for your identification, such as a name, address or email address.   
-If you need more information about the collection, use and disclosure practices of our third party advertising companies and to know your choices about not having this information used by these companies, visit our [ advertising page ](http://www.fashionmodeldirectory.com/www.fashionmodeldirectory.com/info/advertising/) and follow the links to the company websites.  
+If you need more information about the collection, use and disclosure practices of our third party advertising companies and to know your choices about not having this information used by these companies, visit our [ advertising page ](http://www.fashionmodeldirectory.com/info/advertising/) and follow the links to the company websites.  
 You may "opt-out" of certain third party programs by following the instructions located [at NAI here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 ## V. Special Information Sharing
@@ -93,8 +93,6 @@ By using our site, you agree to our privacy policy.
 ## XIII. Changes to Privacy Policy 
 
 Changes to this privacy policy will be posted on this page.   
-_Last Update: May 6th 2011_
+_Last Update: Jan 6th 2014_
 
-## [Please contact us if you have further questions.](http://www.fashionmodeldirectory.com/contact/)
-
-### Sign-up for our Free Newsletters!
+## [Please contact us if you have further questions.](https://web.archive.org/contact/)
