@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901013310id_/http%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091459id_/http%3A//freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Free Stuff
 
 **Who is[Freestuff.eu](https://web.archive.org/index.php)?**
 
