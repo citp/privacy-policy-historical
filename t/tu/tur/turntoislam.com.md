@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turntoislam.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106044042id_/http%3A//turntoislam.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turntoislam.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233735id_/http%3A//turntoislam.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » TurnToIslam Muslim Social Network
+# Privacy Policy » Salamyou Muslim Social Network
 
 Privacy Policy   
 This privacy policy sets out how TurnToIslam uses and protects any information that you provide, whilst using TurnToIslam products and services. This includes, but is not limited to, TurnToIslam.com and any associated websites and sub-domains. 
