@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the router-switch.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820080458id_/http%3A//www.router-switch.com/faq_info.html%3Ffaqs_id%3D113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the router-switch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075707id_/http%3A//www.router-switch.com/faq_info.html%3Ffaqs_id%3D113) for the most accurate reproduction.*
 
-# Privacy Policy Router-switch.com
+# Privacy Policy - Router-switch.com
 
 We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of Router-switch.com.  
 If you have visited our website, that will be considered to be your acceptance to this privacy policy.  
