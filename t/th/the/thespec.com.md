@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thespec.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625234433id_/http%3A//www.metroland.com/page/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thespec.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625193725id_/http%3A//www.metroland.com/page/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Metroland.com - Privacy Policy
 
