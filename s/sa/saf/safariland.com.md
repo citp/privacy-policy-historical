@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safariland.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213222435id_/http%3A//www.safariland.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safariland.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114737id_/http%3A//www.safariland.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Safariland™ - Privacy Policy
 
