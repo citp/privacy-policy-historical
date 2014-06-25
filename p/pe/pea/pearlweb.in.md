@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearlweb.in privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216103701id_/http%3A//www.pearlweb.in/privacy-p23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearlweb.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100355id_/http%3A//pearlweb.in/privacy-p23) for the most accurate reproduction.*
 
 # Privacy Policy - Buy / Sell / Promote / Find Anything
 
