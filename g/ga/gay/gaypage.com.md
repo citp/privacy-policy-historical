@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaypage.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221105452id_/http%3A//gaypage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaypage.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060756id_/http%3A//gaypage.com/privacy) for the most accurate reproduction.*
 
 # GayPage - Privacy Policy
 
