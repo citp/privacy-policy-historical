@@ -1,193 +1,89 @@
-> *The following text is extracted and transformed from the scmp.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621053331id_/http%3A//www.scmp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scmp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064735id_/http%3A//www.scmp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | South China Morning Post
 
-Welcome to the SCMP.com Web site, owned and operated by the SCMP Group Limited and its subsidiary, affiliate and associate corporations, successors and assigns (collectively referred to as "SCMP", "we", "our" or "us"). Our products and services are offered through web pages at or linked to the uniform resource locator [http://www.scmp.com](http://www.scmp.com/) . (and other Web sites that we establish from time to time ("SCMP.com Web site") and are made available subject to the terms and conditions set out in this statement. This statement ("Privacy Policy") describes the privacy practices we have adopted with respect to personal data in operating the SCMP.com Web site.
+We respect your privacy.
 
-"Personal data" means data relating directly or indirectly to an individual from which it is practicable for the identify of the individual to be directly or indirectly ascertained.
+We are fully committed to implementing and complying with the Personal Data (Privacy) Ordinance (“Ordinance”). Every effort is made to ensure that we handle and protect your personal data according to its requirements.
 
-"You" and "Your" when used in this Privacy Policy include any person who accesses the SCMP.com Web site and submits personal data.
+_**Kinds of Personal Data Held** _
 
-##  Our Commitment to Privacy
+There are two broad categories of personal data held in South China Morning Post Publishers Limited (“SCMPP”). They are personal data contained in:
 
-Our Privacy Policy was developed as an extension of our commitment to seek to combine the highest quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal data you provide to us and to assist you in making informed decisions when using the SCMP.com Web site and our products and services. We endeavour to continuously assess our privacy practices in light of new technologies, business practices and our customers' needs. Our Privacy Policy may therefore be amended from time to time. You should check our Privacy Policy regularly to ensure you are aware of our latest policies.
+_**Subscription and Free Trial Records**_ , which include records containing information supplied by individuals who explore or subscribe to any print or electronic publication of SCMPP.
 
-##  What Information Do We Collect?
+_**Event Records**_ , which include personal data provided to SCMPP from individuals for participating promotional, entertainment and training activities organized by SCMPP, either on its own or jointly with its business partners.
 
-When you visit the SCMP.com Web site, we may collect two types of information from you: personal data you knowingly choose to disclose that is collected on an individual basis and the SCMP.com Web site user information collected on an aggregate basis as you and others browse the SCMP.com Web site.
+_**Main Purposes of keeping Personal Data**_
 
-###  1\. Personal Information You Choose to Provide
+Personal data held in:
 
-####  Registration
+_**Subscription and Free Trial Records**_
 
-During the registration process prior to using the SCMP.com Web site, we require that you supply a unique subscriber ID and password, your name, e-mail address, and demographic information (country, age, sex). Failure to provide such information may result in our being unable to provide you with our services including access to the SCMP.com Web site. On occasion, we may also collect additional personal data from you in connection with optional contests, surveys, or special offers. You agree that we may store and deal with any information you provide as part of the registration process or in connection with optional contests, surveys or special offers in accordance with this Privacy Policy.
+These are kept for the purposes of: (i) administering the subscription and free trials; (ii) responding to and taking follow-up action on existing or potential subscribers’ inquiries; and (iii) improving on such services. Please note that we need to disclose your personal data in the Subscription and Free Trial Records to:
 
-####  Credit Card Information
+(a) Our delivery agents for delivering the newspapers and/or other products in respect of your subscription or free trial;
 
-If you choose to purchase products or services from us, you may need to give personal data and authorise us to obtain information from various credit services. For example, you may need to provide the following information:
+(b) Credit card companies, financial institutions and debt collection agencies for processing or handling your payment and/or any amounts that you owe us;
 
-  * Name
-  * E-mail address
-  * Identity reference
-  * Credit card number and expiry date
-  * Telephone or fax or pager number
+(c) Our professional advisors (such as lawyers, accountants and financial advisors) to assist us with attending to such matters as stated in (i) and (ii) above under the “Subscription and Free Trial Records” section; and
 
+(d) To such persons or institutions and for such purposes as required under law or by an order of a court, regulatory authority or governmental body.
 
+_**Event records**_
 
-In addition to providing the foregoing personal data to us, if you choose to correspond further with us through e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
+These are kept for: (i) administering the promotional, entertainment and training activities (collectively the “Activities”); (ii) responding to and taking follow-up action on existing or potential attendees’ inquiries; and (iii) improving the Activities.
 
-####  SCMP Security Statement
+_**Data Disclosure and Marketing Usage**_
 
-This web site is secured to protect your credit card number, name and other personal information from unauthorized access. All personal information is also encrypted for transmission over the Internet (using 128-bit SSL encryption).
+The personal data disclosure regarding the Subscription and Free Trial Records stated in points (a) to (d) above will only be made subject to our compliance with the Ordinance.
 
-If unauthorized use of your personal credit card occurs as a result of sending the credit card number to this web site as part of subscribing, SCMP.com will reimburse the actual amount (if any) your credit card issuer requires you to bear for such unauthorized use, up to a maximum of HK$250, provided you present evidence that you have given written notice to your credit card issuer as soon as you become aware of the unauthorized use, and were required to and have paid your credit card issuer for the particular instance of unauthorized use. You will not be entitled to claim such reimbursement if the unauthorized use was due to your default, negligence or omission.
+If we need to disclose your personal data for purposes other than those stated above, we can only do so subject to obtaining your consent and complying with all relevant provisions under the Ordinance.
 
-###  2\. SCMP.com Web site User Information
+We may occasionally use the personal data in the Subscription and Free Trial Records and Event Records for direct marketing: (i) the publications of South China Morning Post Publishers Limited; and (ii) such specified products and/or services of our business partners, provided that you have explicitly consented to such use and we have complied with all relevant requirements or provisions under the Ordinance.
 
-####  Cookies
+We only retain your personal data for such period as necessary for such data usage purposes as you have consented to.
 
-The SCMP.com Web site utilises Web server logs and will use a standard technology called "cookies" (see explanation below, "What Are Cookies?") to recognize you and your access privileges on the SCMP.com Web site as well as to collect information about how the SCMP.com Web site is used. Information gathered by using cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at the SCMP.com Web site, and the web sites you visited immediately before and after the SCMP.com Web site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
+_**Practices**_
 
-####  IP Addresses
+We use our best efforts to monitor our compliance with the Ordinance.
 
-We also log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We do not use IP address logs to track your session or your behaviour on the SCMP.com Web site.
+The following are maintained to ensure compliance with the Ordinance:
 
-##  How Do We Use the Information That You Provide to Us?
+• A Data Protection Log Book to record data access and correction requests.
 
-Broadly speaking, we use personal data for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the personal data we collect to notify you about important changes to the SCMP.com Web site, new services and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers' personal data. You will be given the opportunity to notify us of your desire not to receive these offers.
+• A Data Protection Operations Manual to set out the operational procedures and standards for protecting personal data.
 
-####  The main purposes for which personal data may be used by us are:
+• Staff training sessions on personal data privacy.
 
-  * Processing your application or registration for our services, enquiry or feedback
-  * Incorporation into our user database
-  * Provision of contacts and business details in response to enquiries and complaints
-  * Operations
-  * Service surveys
-  * Direct marketing
-  * Processing subscriptions, billing and payment
-  * Meeting requirements to make disclosure under any law applicable in or outside Hong Kong
-  * Public notices
-  * Auditing
-  * Other related purposes
+• Data Access Request Form for access/correction requests relating to your personal data.
 
+You have the right to opt-out, at any time, of any marketing materials that you have agreed to receive and/or you have been receiving.
 
+Data access/correction and/or opt-out requests to us may be addressed to our " _ **Customer Relationship Management Team**_ " at:
 
-We may use your personal data both in and outside Hong Kong.
+South China Morning Post Publishers Limited
 
-####  Disclosure to Third Parties
+Morning Post Centre
 
-Personal data held by us will be kept confidential but we may provide such data to:
+22 Dai Fat Street
 
-  * Banks and other financial institutions in connection with the collection of payments;
-  * Any personnel, agent, adviser, auditor, contractor or service provider who provides services or advice to us in connection with our operations;
-  * Any person under a duty of confidentiality to us;
-  * Any person to whom we are required to make disclosure under any law applicable in or outside Hong Kong; and
-  * Any actual or proposed transferee of our business or the SCMP.com Web site or any part of our business or SCMP.com Web site or participant in our operations.
+Tai Po Industrial Estate
 
+New Territories
 
-
-We shall comply with the relevant privacy laws and regulations in respect of our provision of personal data to third parties.
-
-Except as otherwise provided in this Privacy Policy, personal data about you as an individual subscriber will not be provided to any third party without your consent.
-
-####  Sharing Information with SCMP and the Group
-
-Your personal data may be disclosed to and used by us or other companies controlled by, or under common control with, SCMP (the "Group"), for the purposes of direct marketing or the provision of customized information regarding the Group's network of Internet and other products and services.
-
-##  What Do We Do with the Information We Gather?
-
-Statistical Analysis and Banner Advertising
-
-We may perform statistical analyses of user behaviour in order to measure interest in the various areas of the SCMP.com Web site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. We also use demographic and preference information to allow advertising banners on the SCMP.com Web site to be targeted, in aggregate, to the readers for whom they are most relevant. This means that readers see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the advertisement. For these purposes, we will disclose information to third parties only in aggregate form.
-
-##  What Are Cookies?
-
-Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. They are small pieces of data that are stored by a user's Web browser on the user's hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized.
-
-##  How Do We Use Information We Collect from Cookies?
-
-We use Web site browser software tools such as cookies and Web server logs to gather information about the SCMP.com Web site users' browsing activities in order to constantly improve the SCMP.com Web site and better serve our customers. This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve the SCMP.com Web site to better meet the needs of our customers and prospective customers.
-
-Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users of our Website as they move from one page to another. Web server logs allow us to count how many people visit the SCMP.com Web site and evaluate the SCMP.com Web site's visitor capacity. We do not use these technologies to capture your individual e-mail address or any personally identifying data about you although they do permit us to send focused online banner advertisements and other such responses to you.
-
-From time to time you may notice offers from outside companies advertised on the SCMP.com Web site. We endeavour to take measures to select product or service providers that are responsible and afford privacy protections to their customers. However, we do not make any representations about the practices and policies of these companies. You may opt-out of sharing your personal data with such affiliates by choosing not to use their service or content.
-
-##  How Do We Share Information with Strategic Partners?
-
-We may enter into strategic marketing alliances or partnerships with third parties who may be given access to personal information including your name, address, telephone number and e-mail for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to your personal data.
-
-####  Notice of New Services and Changes
-
-Occasionally, we may also use the information we collect to notify you about important changes to the SCMP.com Web site, and new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer or by sending us an e-mail request at [info@scmp.com](mailto:info@scmp.com).
-
-####  Information Transmissions
-
-Personal data or e-mail that you send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information.
-
-##  How Do We Protect Your Personal Data?
-
-####  Information Security
-
-We utilise encryption/security software to safeguard the confidentiality of personal data we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.
-
-Evaluation of Information Protection Practices
-
-Periodically, our operations and business practices are reviewed for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information. This policy may be updated from time to time so please check this statement periodically as it is your responsibility to make sure you are aware of our latest policies.
-
-####  Employee Access
-
-Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions. Employees designated to handle personal data will be instructed to do so only according to this Privacy Policy.
-
-##  What Are your Rights Under the Personal Data (Privacy) Ordinance?
-
-Under the Personal Data (Privacy) Ordinance of Hong Kong, you have the right:
-
-  * To check whether we hold data about you and to access such data;
-  * To require us to correct any inaccurate data relating to you; and
-  * To be told our policies and practices in relation to personal data and the kind of personal data held by us.
-
-
-
-We may charge a reasonable fee for processing any data access request.
-
-##  How Can You Access and Correct Your Information?
-
-You may address data access or correction requests, and questions or complaints to:
-
-Customer Relationship Team  
-South China Morning Post Publishers Limited,  
-Morning Post Centre,  
-22 Dai Fat Street,  
-Tai Po Industrial Estate,  
-New Territories,  
 Hong Kong
 
-####  Use of Personal Data in Legal Procedures
+Email Address: [cs@scmp.com](mailto:cs@scmp.com)
 
-If it becomes necessary that we take legal action against you for any reason whatsoever including copyright infringement, you expressly agree that the personal data provided by you can be relied upon in identifying and taking action against you.
+_**Anonymous Browsing**_
 
-##  What About Legally Compelled Disclosure of Information?
+Visitors can browse our Website on an anonymous basis. We have not configured our Website to collect any personal information from your computer without your input. This means we will not know your identity and/or personal data about you unless you, as an anonymous visitor, voluntarily and knowingly provide us with such information.
 
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
+_**Use of Cookies**_
 
-####  Data Retention
+We use cookies to gather information about SCMP.com users’ browsing activities so as to improve our services – (i) date/time of your last visit; (ii) which articles that you have commented on; and (iii) what content you have posted on SCMP.com.
 
-We retain personal data so long as the data is still required for the purposes mentioned above.
+While such cookies are capable of collecting information about which articles on SCMP.com that you have read and the number of these articles, such information will stay on the computer or device that you use to browse SCMP.com. We will not have records of the same.
 
-Your personal data is stored on our server in Hong Kong and is accessible only to authorised employees.
-
-We reserve the right to retain copies indefinitely for our archives.
-
-##  What About Other Web sites Linked to the SCMP.com Web site?
-
-Please note that the SCMP.com Web site contains links to other sites and occasionally allows other sites to be co-branded with the SCMP.com name. Please remember that when you use a link to go from our Website to another Web site or when you use a co-branded site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites that have a link to the SCMP.com Web site, is subject to that Web site's own rules and policies which may differ from that of the SCMP.com Web site.
-
-We are not responsible for the practices employed by websites linked to or from our Website nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our Website.
-
-####  Your Consent
-
-By using the SCMP.com Web site you consent to our collection and use of your personal data as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on the SCMP.com Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
-
-##  What Do We Do with the Information We Gather?
-
-We may use third-party advertising companies to serve or track ads on our web site and other web sites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services that may be of interest to you. 
+We do not use cookies to capture your email address or other personally identifying data about you. You can choose not to accept cookies. If you do, you cannot read free articles on SCMP.com as anonymous users/non-subscribers but you can still access all index pages. If you are a SCMP.com subscriber, you can still view the articles even if you do not accept cookies.
