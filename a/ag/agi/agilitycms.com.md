@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agilitycms.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109180452id_/http%3A//www.agilitycms.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilitycms.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052125id_/http%3A//agilitycms.com/privacy-policy) for the most accurate reproduction.*
 
-# Agility CMS Privacy Policy
+# Agility | Privacy Policy
 
 Your privacy is critically important to us!  At Agility Inc. (“ **Agility** ”) we have a few fundamental principles:
 
@@ -24,11 +24,11 @@ Agility also collects potentially personal information like Internet Protocol (I
 
 Agility may collect statistics about the behaviour of visitors to its websites. For instance, Agility may monitor the most popular solutions built on Agility. Agility may display this information publicly or provide it to others. However, Agility does not disclose personal information other than as described below.
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Agility uses cookies to help Agility identify and track visitors, their usage of Agility website, and their website access preferences. Agility visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using 
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Agility uses cookies to help Agility identify and track visitors, their usage of Agility website, and their website access preferences. Agility visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using
 
 Agility’s websites, with the drawback that certain features of Agility’s websites may not function properly without the aid of cookies.
 
-Certain visitors to Agility’s websites choose to interact with Agility in ways that require Agility to gather personal information. The amount and type of information that Agility gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at agilitycms.com or contentmanager.agilitycms.com provide an email address and as well as are asked to provide additional information, including as necessary the personal and financial information required to process licensing transactions. In each case, Agility collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Agility. And visitors can always refuse to supply personal information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Agility’s websites choose to interact with Agility in ways that require Agility to gather personal information. The amount and type of information that Agility gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at agilitycms.com or contentmanager.agilitycms.com to provide an email address and as well are asked to provide additional information, including as necessary the personal and financial information required to process licensing transactions. In each case, Agility collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Agility. And visitors can always refuse to supply personal information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 **How Do We Use the Personal Information We Collect?**  
 
@@ -46,8 +46,4 @@ Agility discloses potentially personal and personal information only to those of
 
 **Privacy Policy Changes**
 
-Agility may change its Privacy Policy from time to time, and in Agility’s sole discretion.  If we do, and you are a registered user of our websites. If you have an agilitycms.com/contentmanager.agilitycms.com account, we will email you at the email address you have registered with us. Agility encourages other visitors to frequently check this page for any changes to its Privacy Policy  
-
-**Change log:**
-
-Created March 11th, 2011.
+Agility may change its Privacy Policy from time to time, and in Agility’s sole discretion.  If we do, and you are a registered user of our websites. If you have an agilitycms.com pr contentmanager.agilitycms.com account, we will email you at the email address you have registered with us. Agility encourages other visitors to frequently check this page for any changes to its Privacy Policy
