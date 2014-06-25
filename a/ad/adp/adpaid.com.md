@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806000151id_/http%3A//adpaid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054114id_/http%3A//adpaid.com/privacy.php) for the most accurate reproduction.*
 
 # AdPaid.com Privacy Statement
 
@@ -29,5 +29,4 @@ AdPaid.com gives users the following options for changing and modifying informat
 
 ## **Sponsor Ads**
 
-[](http://adpaid.com/scripts/runner.php?BA=3159&hash=6a856f6db8376db48b5749db5031fbce&url=http%3A%2F%2Fwww.greensmoke.com%2Fearn%2Fearn1.php%3Fid%3D3935%26url%3Dhttp%3A%2F%2Fwww.greensmoke.com%2Ftrivia)  
-
+[](http://www.v2cigs.com/3459-32-1-680.html)
