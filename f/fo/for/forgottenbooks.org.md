@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forgottenbooks.org privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211001339id_/http%3A//www.forgottenbooks.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forgottenbooks.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113655id_/http%3A//www.forgottenbooks.org/privacypolicy) for the most accurate reproduction.*
 
 # Forgotten Books' Privacy Policy
 
@@ -32,11 +32,11 @@ Your private information (credit cards, social security numbers, financials, etc
 
  **Do we use cookies?**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to enable you to log in to your Forgotten Books membership and access our services at your request.
 
-Additionally we utilize Google Analytics Demographics and Interest Reporting based on Google's DoubleClick cookie. The DoubleClick cookie is a third-party cookie used to to provide us and Google with audience data (such as age, gender and interests) that we use to improve and market our services. This demographic information is not personal and is not linked to your name or any personally identifiable information, it is only used in a pool in which you are an anonymous statistic. Google may also use it to decide which ads to serve to you based on web sites you have visited. You can opt-out or customize your cookie settings at [Google Ad Settings](http://www.google.com/settings/ads). Google also offers a [browser add on](https://tools.google.com/dlpage/gaoptout/) for people who want to opt-out of everything (this will not mean you are not served ads, only that the ads will not be relevant to what you are looking for.) 
+Additionally we utilize Google Analytics Demographics and Interest Reporting based on Google's DoubleClick cookie. The DoubleClick cookie is a third-party cookie used to to provide us and Google with audience data (such as age, gender and interests) that we use to improve and market our services. This demographic information is not personal and is not linked to your name or any personally identifiable information. Google may also use it to decide which ads to serve to you based on web sites you have visited. You can opt-out or customize your cookie settings at [Google Ad Settings](http://www.google.com/settings/ads). Google also offers a [browser add on](https://tools.google.com/dlpage/gaoptout/) for people who want to opt-out of everything (this will not mean you are not served ads, only that the ads will not be relevant to what you are looking for.) 
 
 **Do we disclose any information to outside parties?**
 
@@ -64,8 +64,7 @@ This policy was last modified on 22/11/2013.
 
 If there are any questions regarding this privacy policy you may contact us [here](https://web.archive.org/help).
 
-Forgotten Books AG  
-1301 Bank of America Tower  
-12 Harcourt Road  
-Central  
-Hong Kong 
+FB &c Ltd  
+Dalton House  
+60 Windsor Avenue  
+London 
