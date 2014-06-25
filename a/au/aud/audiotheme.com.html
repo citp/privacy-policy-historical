@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the audiotheme.com privacy policy that was archived on 2013-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131201011358id_/http%3A//audiotheme.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the audiotheme.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625134811id_/http%3A//audiotheme.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
 	<meta charset="UTF-8">
@@ -9,8 +9,10 @@
 	<title>Privacy Policy — AudioTheme</title>
 
 	
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.19 - http://yoast.com/wordpress/seo/ -->
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.3.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://audiotheme.com/privacy/">
+<link rel="author" href="https://plus.google.com/+AudioTheme">
+<link rel="publisher" href="http://plus.google.com/AudioTheme">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy - AudioTheme">
@@ -18,20 +20,21 @@
 <meta property="og:url" content="http://audiotheme.com/privacy/">
 <meta property="og:site_name" content="AudioTheme">
 <meta property="article:publisher" content="http://facebook.com/audiotheme">
-<meta property="article:published_time" content="2012-09-07T20:33:05+00:00">
-<meta property="article:modified_time" content="2013-10-07T08:21:38+00:00">
+<meta property="article:author" content="http://facebook.com/audiotheme">
+<meta property="fb:admins" content="100002975892569">
 <meta property="og:image" content="https://audiotheme.com/wp-content/uploads/login-logo.png">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@audiotheme">
 <meta name="twitter:domain" content="AudioTheme">
 <meta name="twitter:creator" content="@audiotheme">
+<meta name="twitter:image:src" content="https://audiotheme.com/wp-content/uploads/login-logo.png">
 <!-- / Yoast WordPress SEO plugin. -->
 
 <link rel="alternate" type="application/rss+xml" title="AudioTheme » Feed" href="http://audiotheme.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="AudioTheme » Comments Feed" href="http://audiotheme.com/comments/feed/">
 
             <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">//<![CDATA[
-            // Google Analytics for WordPress by Yoast v4.3.3 | http://yoast.com/wordpress/google-analytics/
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
             var _gaq = _gaq || [];
             _gaq.push(['_setAccount', 'UA-25149459-1']);
 				            _gaq.push(['_setDomainName','audiotheme.com'],['_trackPageview']);
@@ -45,27 +48,71 @@
                 s.parentNode.insertBefore(ga, s);
             })();
             //]]></script>
-			<link rel="stylesheet" id="audiotheme-style-css" href="http://audiotheme.com/wp-content/themes/audiotheme/style.css" type="text/css" media="all">
+			<link rel="stylesheet" id="audiotheme-style-css" href="http://audiotheme.com/content/themes/audiotheme/style.css" type="text/css" media="all">
+<script type="text/javascript" src="http://audiotheme.com/wordpress/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://audiotheme.com/wordpress/wp-includes/js/jquery/jquery-migrate.min.js"></script>
 <script type="text/javascript" src="//use.typekit.net/jdr1kvu.js"></script>
-<script type="text/javascript" src="http://audiotheme.com/wp-includes/js/jquery/jquery.js"></script>
-<script type="text/javascript" src="http://audiotheme.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://audiotheme.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://audiotheme.com/wp-includes/wlwmanifest.xml"> 
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://audiotheme.com/wordpress/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://audiotheme.com/wordpress/wp-includes/wlwmanifest.xml"> 
 <link rel="shortlink" href="http://audiotheme.com/?p=27">
+		<script type="text/javascript">
+		jQuery(document).ready(function($) {
+
+			var cookie = $.cookie( 'affwp_ref' );
+			var ref = affwp_get_query_vars()["ref"];
+
+			// If a referral var is present and a referral cookie is not already set
+			if( ref && ! cookie ) {
+
+				var cookie_value = ref;
+
+				// Set the cookie and expire it after 24 hours
+				$.cookie( 'affwp_ref', cookie_value, { expires: 1, path: '/' } );
+
+				// Fire an ajax request to log the hit
+				$.ajax({
+					type: "POST",
+					data: {
+						action: 'affwp_track_visit',
+						affiliate: ref,
+						url: document.URL,
+						referrer: document.referrer
+					},
+					url: affwp_scripts.ajaxurl,
+					success: function (response) {
+						$.cookie( 'affwp_ref_visit_id', response, { expires: 1, path: '/' } );
+					}
+
+				}).fail(function (response) {
+					if ( window.console && window.console.log ) {
+						console.log( response );
+					}
+				}).done(function (response) {
+				});
+
+			}
+
+			function affwp_get_query_vars() {
+				var vars = [], hash;
+				var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+				for(var i = 0; i < hashes.length; i++) {
+					hash = hashes[i].split('=');
+					vars.push(hash[0]);
+					vars[hash[0]] = hash[1];
+				}
+				return vars;
+			}
+		});
+		</script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="http://audiotheme.com/xmlrpc.php">
-<link rel="icon" type="image/png" href="http://audiotheme.com/wp-content/themes/audiotheme/assets/images/favicon.png">
+<link rel="pingback" href="http://audiotheme.com/wordpress/xmlrpc.php">
+<link rel="icon" type="image/png" href="http://audiotheme.com/content/themes/audiotheme/assets/images/favicon.png">
 <script>document.documentElement.className = document.documentElement.className.replace('no-js','js');</script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-
-<!-- WooCommerce Version -->
-<meta name="generator" content="WooCommerce 2.0.20">
-
-</head>
-
-<body class="page page-id-27 page-template-default" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<body class="page page-id-27 page-template-default group-blog" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 
 <div id="page" class="hfeed site">
 	<header id="masthead" class="site-header navbar navbar-default" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
@@ -73,36 +120,39 @@
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse--primary">
 					<span class="sr-only">Toggle navigation</span>
-					<i class="ss-icon ss-pika ss-rows"></i>
+					<i class="icon icon-list"></i>
 				</button>
-				<h1 class="site-title" itemprop="headline"><a href="http://audiotheme.com/" rel="home">AudioTheme</a></h1>
+
+				<h1 class="site-title" itemprop="headline">
+					<a href="http://audiotheme.com/" rel="home">AudioTheme</a>
+				</h1>
 			</div>
 
 			
 				<nav id="site-navigation" class="navigation-main collapse navbar-collapse navbar-collapse--primary" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
 					<ul id="menu-primary" class="nav navbar-nav navbar-right"><li id="menu-item-1326" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1326"><a href="http://audiotheme.com/wordpress-themes/">Themes</a></li>
 <li id="menu-item-1327" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1327"><a href="http://audiotheme.com/wordpress-plugins/">Plugins</a></li>
+<li id="menu-item-2286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2286"><a href="http://audiotheme.com/blog/">Blog</a></li>
 <li id="menu-item-1083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1083"><a href="http://audiotheme.com/account/">My Account</a></li>
-<li id="menu-item-1082" class="ss-icon ss-pika cart-link menu-item menu-item-type-post_type menu-item-object-page menu-item-1082"><a title="View cart" href="http://audiotheme.com/cart/">Cart</a></li>
+<li id="menu-item-1082" class="cart-link menu-item menu-item-type-post_type menu-item-object-page menu-item-1082"><a title="View cart" href="http://audiotheme.com/cart/">Cart</a></li>
 </ul>				</nav>
 
-			
-		</div>
+					</div>
 	</header>
 
 	<div id="content" class="site-content">
+
 <main id="main" class="site-main" role="main">
 	<div class="container">
 		<div class="row">
 
 			
-				
-				<article class="post-27 page type-page status-publish hentry col-md-8 col-md-push-2 instock" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
-					<header class="entry-header">
-						<h1 class="entry-title" itemprop="headline">Privacy Policy</h1>					</header>
+				<article class="post-27 page type-page status-publish hentry col-md-8 col-md-push-2" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<header class="entry-header">
+		<h1 class="entry-title" itemprop="headline">Privacy Policy</h1>	</header>
 
-					<div class="entry-content" itemprop="text">
-						<div class="lead">Your privacy is critically important to us.</div>
+	<div class="entry-content" itemprop="text">
+		<div class="lead">Your privacy is critically important to us.</div>
 <p>At AudioTheme we have a few fundamental principles:</p>
 <ul>
 <li>We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)</li>
@@ -133,12 +183,8 @@
 <p>Note, this Privacy Policy was derived from <a href="http://automattic.com/privacy/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://automattic.com']);" target="_blank">Automattic’s version</a>, which is available under a <a href="http://creativecommons.org/licenses/by-sa/2.5/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://creativecommons.org']);">Creative Commons Sharealike</a> license.</p>
 <p class="last-modified"><em>Last updated on <span class="modified-date">October 7, 2013</span> at <span class="modified-time">8:21 am</span></em></p>
 
-											</div>
-				</article>
-
-				<div id="secondary" class="widget-area" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
-	</div>
-
+			</div>
+</article>
 			
 		</div>
 	</div>
@@ -165,7 +211,7 @@
 						<ul id="menu-connect" class="menu"><li id="menu-item-969" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-969"><a href="http://twitter.com/audiotheme" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://twitter.com']);">Twitter</a></li>
 <li id="menu-item-970" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-970"><a href="http://facebook.com/audiotheme" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://facebook.com']);">Facebook</a></li>
 <li id="menu-item-971" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-971"><a href="http://github.com/audiotheme" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://github.com']);">GitHub</a></li>
-<li id="menu-item-1329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1329"><a rel="publisher" href="http://plus.google.com/+Audiotheme" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://plus.google.com']);">Google+</a></li>
+<li id="menu-item-1329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1329"><a rel="publisher" href="http://plus.google.com/+AudioTheme" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://plus.google.com']);">Google+</a></li>
 <li id="menu-item-1523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1523"><a href="http://www.youtube.com/channel/UCzppZe6jnM1snoZC5pQF6Ow" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.youtube.com']);">YouTube</a></li>
 </ul>					</nav>
 
@@ -179,9 +225,8 @@
 
 					<nav class="navigation-services col-md-2 col-sm-3 col-xs-6">
 						<h4>Services</h4>
-						<ul id="menu-services" class="menu"><li id="menu-item-1134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1134"><a href="http://audiotheme.com/contact/customizations/">Customization Request</a></li>
+						<ul id="menu-services" class="menu"><li id="menu-item-1134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1134"><a href="http://audiotheme.com/contact/customizations/">Product Customizations</a></li>
 <li id="menu-item-1137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1137"><a href="http://audiotheme.com/contact/custom-design/">Custom Design</a></li>
-<li id="menu-item-1021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1021"><a href="http://audiotheme.com/hosting/">Recommended Hosts</a></li>
 </ul>					</nav>
 
 					
@@ -192,8 +237,8 @@
 								<form method="post" id="mc-embedded-subscribe-form" class="form" action="http://audiotheme.us2.list-manage.com/subscribe/post?u=09290a3b20d0fa9f786ecf6a0&amp;id=1e2ba34b92">
 	<div class="form-group">
 		<label for="email" class="sr-only">Subscribe</label>
-		<input type="email" required="" class="form-control field" name="EMAIL" value="" id="email" placeholder="Email Address">
-		<input type="submit" class="btn btn-success ss-icon ss-pika submit" id="" value="Mail">
+		<input type="email" required="" class="form-control field" name="email" id="email" placeholder="Email Address">
+		<input type="submit" class="submit btn btn-success icon" value="">
 	</div>
 </form>
 							</div>
@@ -204,30 +249,56 @@
 				</div>
 
 			
-			<div class="copyright">AudioTheme © 2013</div>
+			<div class="copyright">AudioTheme © 2014</div>
 		</div>
 	</footer>
 </div>
 
-<script type="text/javascript" src="http://audiotheme.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js"></script>
-<script type="text/javascript" src="http://audiotheme.com/wp-content/plugins/woocommerce/assets/js/jquery-placeholder/jquery.placeholder.min.js"></script>
-<script type="text/javascript">
+	<script type="text/javascript">
+	adroll_adv_id = "N7QUGKVKSNCQDHNIQMYONH";
+	adroll_pix_id = "KBV6FNVQTNBYDEI645LILU";
+	(function () {
+	var oldonload = window.onload;
+	window.onload = function(){
+	   __adroll_loaded=true;
+	   var scr = document.createElement("script");
+	   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+	   scr.setAttribute('async', 'true');
+	   scr.type = "text/javascript";
+	   scr.src = host + "/j/roundtrip.js";
+	   ((document.getElementsByTagName('head') || [null])[0] ||
+	    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+	   if(oldonload){oldonload()}};
+	}());
+	</script>
+	<script type="text/javascript">
 /* <![CDATA[ */
-var woocommerce_params = {"countries":"{\"AF\":[],\"AT\":[],\"BE\":[],\"BI\":[],\"CZ\":[],\"DE\":[],\"DK\":[],\"FI\":[],\"FR\":[],\"HU\":[],\"IS\":[],\"IL\":[],\"KR\":[],\"NL\":[],\"NO\":[],\"PL\":[],\"PT\":[],\"SG\":[],\"SK\":[],\"SI\":[],\"LK\":[],\"SE\":[],\"VN\":[],\"AU\":{\"ACT\":\"Australian Capital Territory\",\"NSW\":\"New South Wales\",\"NT\":\"Northern Territory\",\"QLD\":\"Queensland\",\"SA\":\"South Australia\",\"TAS\":\"Tasmania\",\"VIC\":\"Victoria\",\"WA\":\"Western Australia\"},\"BR\":{\"AC\":\"Acre\",\"AL\":\"Alagoas\",\"AP\":\"Amap\u00e1\",\"AM\":\"Amazonas\",\"BA\":\"Bahia\",\"CE\":\"Cear\u00e1\",\"DF\":\"Distrito Federal\",\"ES\":\"Esp\u00edrito Santo\",\"GO\":\"Goi\u00e1s\",\"MA\":\"Maranh\u00e3o\",\"MT\":\"Mato Grosso\",\"MS\":\"Mato Grosso do Sul\",\"MG\":\"Minas Gerais\",\"PA\":\"Par\u00e1\",\"PB\":\"Para\u00edba\",\"PR\":\"Paran\u00e1\",\"PE\":\"Pernambuco\",\"PI\":\"Piau\u00ed\",\"RJ\":\"Rio de Janeiro\",\"RN\":\"Rio Grande do Norte\",\"RS\":\"Rio Grande do Sul\",\"RO\":\"Rond\u00f4nia\",\"RR\":\"Roraima\",\"SC\":\"Santa Catarina\",\"SP\":\"S\u00e3o Paulo\",\"SE\":\"Sergipe\",\"TO\":\"Tocantins\"},\"CA\":{\"AB\":\"Alberta\",\"BC\":\"British Columbia\",\"MB\":\"Manitoba\",\"NB\":\"New Brunswick\",\"NL\":\"Newfoundland\",\"NT\":\"Northwest Territories\",\"NS\":\"Nova Scotia\",\"NU\":\"Nunavut\",\"ON\":\"Ontario\",\"PE\":\"Prince Edward Island\",\"QC\":\"Quebec\",\"SK\":\"Saskatchewan\",\"YT\":\"Yukon Territory\"},\"CN\":{\"CN1\":\"Yunnan \\\/ \u4e91\u5357\",\"CN2\":\"Beijing \\\/ \u5317\u4eac\",\"CN3\":\"Tianjin \\\/ \u5929\u6d25\",\"CN4\":\"Hebei \\\/ \u6cb3\u5317\",\"CN5\":\"Shanxi \\\/ \u5c71\u897f\",\"CN6\":\"Inner Mongolia \\\/ \u5167\u8499\u53e4\",\"CN7\":\"Liaoning \\\/ \u8fbd\u5b81\",\"CN8\":\"Jilin \\\/ \u5409\u6797\",\"CN9\":\"Heilongjiang \\\/ \u9ed1\u9f99\u6c5f\",\"CN10\":\"Shanghai \\\/ \u4e0a\u6d77\",\"CN11\":\"Jiangsu \\\/ \u6c5f\u82cf\",\"CN12\":\"Zhejiang \\\/ \u6d59\u6c5f\",\"CN13\":\"Anhui \\\/ \u5b89\u5fbd\",\"CN14\":\"Fujian \\\/ \u798f\u5efa\",\"CN15\":\"Jiangxi \\\/ \u6c5f\u897f\",\"CN16\":\"Shandong \\\/ \u5c71\u4e1c\",\"CN17\":\"Henan \\\/ \u6cb3\u5357\",\"CN18\":\"Hubei \\\/ \u6e56\u5317\",\"CN19\":\"Hunan \\\/ \u6e56\u5357\",\"CN20\":\"Guangdong \\\/ \u5e7f\u4e1c\",\"CN21\":\"Guangxi Zhuang \\\/ \u5e7f\u897f\u58ee\u65cf\",\"CN22\":\"Hainan \\\/ \u6d77\u5357\",\"CN23\":\"Chongqing \\\/ \u91cd\u5e86\",\"CN24\":\"Sichuan \\\/ \u56db\u5ddd\",\"CN25\":\"Guizhou \\\/ \u8d35\u5dde\",\"CN26\":\"Shaanxi \\\/ \u9655\u897f\",\"CN27\":\"Gansu \\\/ \u7518\u8083\",\"CN28\":\"Qinghai \\\/ \u9752\u6d77\",\"CN29\":\"Ningxia Hui \\\/ \u5b81\u590f\",\"CN30\":\"Macau \\\/ \u6fb3\u95e8\",\"CN31\":\"Tibet \\\/ \u897f\u85cf\",\"CN32\":\"Xinjiang \\\/ \u65b0\u7586\"},\"HK\":{\"HONG KONG\":\"Hong Kong Island\",\"KOWLOON\":\"Kowloon\",\"NEW TERRITORIES\":\"New Territories\"},\"IN\":{\"AP\":\"Andra Pradesh\",\"AR\":\"Arunachal Pradesh\",\"AS\":\"Assam\",\"BR\":\"Bihar\",\"CT\":\"Chhattisgarh\",\"GA\":\"Goa\",\"GJ\":\"Gujarat\",\"HR\":\"Haryana\",\"HP\":\"Himachal Pradesh\",\"JK\":\"Jammu and Kashmir\",\"JH\":\"Jharkhand\",\"KA\":\"Karnataka\",\"KL\":\"Kerala\",\"MP\":\"Madhya Pradesh\",\"MH\":\"Maharashtra\",\"MN\":\"Manipur\",\"ML\":\"Meghalaya\",\"MZ\":\"Mizoram\",\"NL\":\"Nagaland\",\"OR\":\"Orissa\",\"PB\":\"Punjab\",\"RJ\":\"Rajasthan\",\"SK\":\"Sikkim\",\"TN\":\"Tamil Nadu\",\"TR\":\"Tripura\",\"UT\":\"Uttaranchal\",\"UP\":\"Uttar Pradesh\",\"WB\":\"West Bengal\",\"AN\":\"Andaman and Nicobar Islands\",\"CH\":\"Chandigarh\",\"DN\":\"Dadar and Nagar Haveli\",\"DD\":\"Daman and Diu\",\"DL\":\"Delhi\",\"LD\":\"Lakshadeep\",\"PY\":\"Pondicherry (Puducherry)\"},\"ID\":{\"AC\":\"Daerah Istimewa Aceh\",\"SU\":\"Sumatera Utara\",\"SB\":\"Sumatera Barat\",\"RI\":\"Riau\",\"KR\":\"Kepulauan Riau\",\"JA\":\"Jambi\",\"SS\":\"Sumatera Selatan\",\"BB\":\"Bangka Belitung\",\"BE\":\"Bengkulu\",\"LA\":\"Lampung\",\"JK\":\"DKI Jakarta\",\"JB\":\"Jawa Barat\",\"BT\":\"Banten\",\"JT\":\"Jawa Tengah\",\"JI\":\"Jawa Timur\",\"YO\":\"Daerah Istimewa Yogyakarta\",\"BA\":\"Bali\",\"NB\":\"Nusa Tenggara Barat\",\"NT\":\"Nusa Tenggara Timur\",\"KB\":\"Kalimantan Barat\",\"KT\":\"Kalimantan Tengah\",\"KI\":\"Kalimantan Timur\",\"KS\":\"Kalimantan Selatan\",\"KU\":\"Kalimantan Utara\",\"SA\":\"Sulawesi Utara\",\"ST\":\"Sulawesi Tengah\",\"SG\":\"Sulawesi Tenggara\",\"SR\":\"Sulawesi Barat\",\"SN\":\"Sulawesi Selatan\",\"GO\":\"Gorontalo\",\"MA\":\"Maluku\",\"MU\":\"Maluku Utara\",\"PA\":\"Papua\",\"PB\":\"Papua Barat\"},\"MY\":{\"JHR\":\"Johor\",\"KDH\":\"Kedah\",\"KTN\":\"Kelantan\",\"MLK\":\"Melaka\",\"NSN\":\"Negeri Sembilan\",\"PHG\":\"Pahang\",\"PRK\":\"Perak\",\"PLS\":\"Perlis\",\"PNG\":\"Pulau Pinang\",\"SBH\":\"Sabah\",\"SWK\":\"Sarawak\",\"SGR\":\"Selangor\",\"TRG\":\"Terengganu\",\"KUL\":\"W.P. Kuala Lumpur\",\"LBN\":\"W.P. Labuan\",\"PJY\":\"W.P. Putrajaya\"},\"NZ\":{\"NL\":\"Northland\",\"AK\":\"Auckland\",\"WA\":\"Waikato\",\"BP\":\"Bay of Plenty\",\"TK\":\"Taranaki\",\"HB\":\"Hawke\u2019s Bay\",\"MW\":\"Manawatu-Wanganui\",\"WE\":\"Wellington\",\"NS\":\"Nelson\",\"MB\":\"Marlborough\",\"TM\":\"Tasman\",\"WC\":\"West Coast\",\"CT\":\"Canterbury\",\"OT\":\"Otago\",\"SL\":\"Southland\"},\"ZA\":{\"EC\":\"Eastern Cape\",\"FS\":\"Free State\",\"GP\":\"Gauteng\",\"KZN\":\"KwaZulu-Natal\",\"LP\":\"Limpopo\",\"MP\":\"Mpumalanga\",\"NC\":\"Northern Cape\",\"NW\":\"North West\",\"WC\":\"Western Cape\"},\"ES\":{\"C\":\"A Coru\u00f1a\",\"VI\":\"\u00c1lava\",\"AB\":\"Albacete\",\"A\":\"Alicante\",\"AL\":\"Almer\u00eda\",\"O\":\"Asturias\",\"AV\":\"\u00c1vila\",\"BA\":\"Badajoz\",\"PM\":\"Baleares\",\"B\":\"Barcelona\",\"BU\":\"Burgos\",\"CC\":\"C\u00e1ceres\",\"CA\":\"C\u00e1diz\",\"S\":\"Cantabria\",\"CS\":\"Castell\u00f3n\",\"CE\":\"Ceuta\",\"CR\":\"Ciudad Real\",\"CO\":\"C\u00f3rdoba\",\"CU\":\"Cuenca\",\"GI\":\"Girona\",\"GR\":\"Granada\",\"GU\":\"Guadalajara\",\"SS\":\"Guip\u00fazcoa\",\"H\":\"Huelva\",\"HU\":\"Huesca\",\"J\":\"Ja\u00e9n\",\"LO\":\"La Rioja\",\"GC\":\"Las Palmas\",\"LE\":\"Le\u00f3n\",\"L\":\"Lleida\",\"LU\":\"Lugo\",\"M\":\"Madrid\",\"MA\":\"M\u00e1laga\",\"ML\":\"Melilla\",\"MU\":\"Murcia\",\"NA\":\"Navarra\",\"OR\":\"Ourense\",\"P\":\"Palencia\",\"PO\":\"Pontevedra\",\"SA\":\"Salamanca\",\"TF\":\"Santa Cruz de Tenerife\",\"SG\":\"Segovia\",\"SE\":\"Sevilla\",\"SO\":\"Soria\",\"T\":\"Tarragona\",\"TE\":\"Teruel\",\"TO\":\"Toledo\",\"V\":\"Valencia\",\"VA\":\"Valladolid\",\"BI\":\"Vizcaya\",\"ZA\":\"Zamora\",\"Z\":\"Zaragoza\"},\"TH\":{\"TH-37\":\"Amnat Charoen (\u0e2d\u0e33\u0e19\u0e32\u0e08\u0e40\u0e08\u0e23\u0e34\u0e0d)\",\"TH-15\":\"Ang Thong (\u0e2d\u0e48\u0e32\u0e07\u0e17\u0e2d\u0e07)\",\"TH-14\":\"Ayutthaya (\u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e2d\u0e22\u0e38\u0e18\u0e22\u0e32)\",\"TH-10\":\"Bangkok (\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23)\",\"TH-38\":\"Bueng Kan (\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c)\",\"TH-31\":\"Buri Ram (\u0e1a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e21\u0e22\u0e4c)\",\"TH-24\":\"Chachoengsao (\u0e09\u0e30\u0e40\u0e0a\u0e34\u0e07\u0e40\u0e17\u0e23\u0e32)\",\"TH-18\":\"Chai Nat (\u0e0a\u0e31\u0e22\u0e19\u0e32\u0e17)\",\"TH-36\":\"Chaiyaphum (\u0e0a\u0e31\u0e22\u0e20\u0e39\u0e21\u0e34)\",\"TH-22\":\"Chanthaburi (\u0e08\u0e31\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-50\":\"Chiang Mai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48)\",\"TH-57\":\"Chiang Rai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22)\",\"TH-20\":\"Chonburi (\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35)\",\"TH-86\":\"Chumphon (\u0e0a\u0e38\u0e21\u0e1e\u0e23)\",\"TH-46\":\"Kalasin (\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c)\",\"TH-62\":\"Kamphaeng Phet (\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23)\",\"TH-71\":\"Kanchanaburi (\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-40\":\"Khon Kaen (\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19)\",\"TH-81\":\"Krabi (\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48)\",\"TH-52\":\"Lampang (\u0e25\u0e33\u0e1b\u0e32\u0e07)\",\"TH-51\":\"Lamphun (\u0e25\u0e33\u0e1e\u0e39\u0e19)\",\"TH-42\":\"Loei (\u0e40\u0e25\u0e22)\",\"TH-16\":\"Lopburi (\u0e25\u0e1e\u0e1a\u0e38\u0e23\u0e35)\",\"TH-58\":\"Mae Hong Son (\u0e41\u0e21\u0e48\u0e2e\u0e48\u0e2d\u0e07\u0e2a\u0e2d\u0e19)\",\"TH-44\":\"Maha Sarakham (\u0e21\u0e2b\u0e32\u0e2a\u0e32\u0e23\u0e04\u0e32\u0e21)\",\"TH-49\":\"Mukdahan (\u0e21\u0e38\u0e01\u0e14\u0e32\u0e2b\u0e32\u0e23)\",\"TH-26\":\"Nakhon Nayok (\u0e19\u0e04\u0e23\u0e19\u0e32\u0e22\u0e01)\",\"TH-73\":\"Nakhon Pathom (\u0e19\u0e04\u0e23\u0e1b\u0e10\u0e21)\",\"TH-48\":\"Nakhon Phanom (\u0e19\u0e04\u0e23\u0e1e\u0e19\u0e21)\",\"TH-30\":\"Nakhon Ratchasima (\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32)\",\"TH-60\":\"Nakhon Sawan (\u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)\",\"TH-80\":\"Nakhon Si Thammarat (\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e18\u0e23\u0e23\u0e21\u0e23\u0e32\u0e0a)\",\"TH-55\":\"Nan (\u0e19\u0e48\u0e32\u0e19)\",\"TH-96\":\"Narathiwat (\u0e19\u0e23\u0e32\u0e18\u0e34\u0e27\u0e32\u0e2a)\",\"TH-39\":\"Nong Bua Lam Phu (\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27\u0e25\u0e33\u0e20\u0e39)\",\"TH-43\":\"Nong Khai (\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e32\u0e22)\",\"TH-12\":\"Nonthaburi (\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-13\":\"Pathum Thani (\u0e1b\u0e17\u0e38\u0e21\u0e18\u0e32\u0e19\u0e35)\",\"TH-94\":\"Pattani (\u0e1b\u0e31\u0e15\u0e15\u0e32\u0e19\u0e35)\",\"TH-82\":\"Phang Nga (\u0e1e\u0e31\u0e07\u0e07\u0e32)\",\"TH-93\":\"Phatthalung (\u0e1e\u0e31\u0e17\u0e25\u0e38\u0e07)\",\"TH-56\":\"Phayao (\u0e1e\u0e30\u0e40\u0e22\u0e32)\",\"TH-67\":\"Phetchabun (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e39\u0e23\u0e13\u0e4c)\",\"TH-76\":\"Phetchaburi (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e38\u0e23\u0e35)\",\"TH-66\":\"Phichit (\u0e1e\u0e34\u0e08\u0e34\u0e15\u0e23)\",\"TH-65\":\"Phitsanulok (\u0e1e\u0e34\u0e29\u0e13\u0e38\u0e42\u0e25\u0e01)\",\"TH-54\":\"Phrae (\u0e41\u0e1e\u0e23\u0e48)\",\"TH-83\":\"Phuket (\u0e20\u0e39\u0e40\u0e01\u0e47\u0e15)\",\"TH-25\":\"Prachin Buri (\u0e1b\u0e23\u0e32\u0e08\u0e35\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-77\":\"Prachuap Khiri Khan (\u0e1b\u0e23\u0e30\u0e08\u0e27\u0e1a\u0e04\u0e35\u0e23\u0e35\u0e02\u0e31\u0e19\u0e18\u0e4c)\",\"TH-85\":\"Ranong (\u0e23\u0e30\u0e19\u0e2d\u0e07)\",\"TH-70\":\"Ratchaburi (\u0e23\u0e32\u0e0a\u0e1a\u0e38\u0e23\u0e35)\",\"TH-21\":\"Rayong (\u0e23\u0e30\u0e22\u0e2d\u0e07)\",\"TH-45\":\"Roi Et (\u0e23\u0e49\u0e2d\u0e22\u0e40\u0e2d\u0e47\u0e14)\",\"TH-27\":\"Sa Kaeo (\u0e2a\u0e23\u0e30\u0e41\u0e01\u0e49\u0e27)\",\"TH-47\":\"Sakon Nakhon (\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23)\",\"TH-11\":\"Samut Prakan (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e1b\u0e23\u0e32\u0e01\u0e32\u0e23)\",\"TH-74\":\"Samut Sakhon (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e32\u0e04\u0e23)\",\"TH-75\":\"Samut Songkhram (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21)\",\"TH-19\":\"Saraburi (\u0e2a\u0e23\u0e30\u0e1a\u0e38\u0e23\u0e35)\",\"TH-91\":\"Satun (\u0e2a\u0e15\u0e39\u0e25)\",\"TH-17\":\"Sing Buri (\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e1a\u0e38\u0e23\u0e35)\",\"TH-33\":\"Sisaket (\u0e28\u0e23\u0e35\u0e2a\u0e30\u0e40\u0e01\u0e29)\",\"TH-90\":\"Songkhla (\u0e2a\u0e07\u0e02\u0e25\u0e32)\",\"TH-64\":\"Sukhothai (\u0e2a\u0e38\u0e42\u0e02\u0e17\u0e31\u0e22)\",\"TH-72\":\"Suphan Buri (\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13\u0e1a\u0e38\u0e23\u0e35)\",\"TH-84\":\"Surat Thani (\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35)\",\"TH-32\":\"Surin (\u0e2a\u0e38\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c)\",\"TH-63\":\"Tak (\u0e15\u0e32\u0e01)\",\"TH-92\":\"Trang (\u0e15\u0e23\u0e31\u0e07)\",\"TH-23\":\"Trat (\u0e15\u0e23\u0e32\u0e14)\",\"TH-34\":\"Ubon Ratchathani (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35)\",\"TH-41\":\"Udon Thani (\u0e2d\u0e38\u0e14\u0e23\u0e18\u0e32\u0e19\u0e35)\",\"TH-61\":\"Uthai Thani (\u0e2d\u0e38\u0e17\u0e31\u0e22\u0e18\u0e32\u0e19\u0e35)\",\"TH-53\":\"Uttaradit (\u0e2d\u0e38\u0e15\u0e23\u0e14\u0e34\u0e15\u0e16\u0e4c)\",\"TH-95\":\"Yala (\u0e22\u0e30\u0e25\u0e32)\",\"TH-35\":\"Yasothon (\u0e22\u0e42\u0e2a\u0e18\u0e23)\"},\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alaska\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"California\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"District Of Columbia\",\"FL\":\"Florida\",\"GA\":\"Georgia\",\"HI\":\"Hawaii\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"New Hampshire\",\"NJ\":\"New Jersey\",\"NM\":\"New Mexico\",\"NY\":\"New York\",\"NC\":\"North Carolina\",\"ND\":\"North Dakota\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oregon\",\"PA\":\"Pennsylvania\",\"RI\":\"Rhode Island\",\"SC\":\"South Carolina\",\"SD\":\"South Dakota\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virginia\",\"WA\":\"Washington\",\"WV\":\"West Virginia\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\",\"AA\":\"Armed Forces (AA)\",\"AE\":\"Armed Forces (AE)\",\"AP\":\"Armed Forces (AP)\",\"AS\":\"American Samoa\",\"GU\":\"Guam\",\"MP\":\"Northern Mariana Islands\",\"PR\":\"Puerto Rico\",\"UM\":\"US Minor Outlying Islands\",\"VI\":\"US Virgin Islands\"}}","plugin_url":"http:\/\/audiotheme.com\/wp-content\/plugins\/woocommerce","ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"http:\/\/audiotheme.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_select_state_text":"Select an option\u2026","i18n_required_rating_text":"Please select a rating","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_required_text":"required","i18n_view_cart":"View Cart \u2192","review_rating_required":"yes","update_order_review_nonce":"051c46d271","apply_coupon_nonce":"6bab94a656","option_guest_checkout":"no","checkout_url":"\/wp-admin\/admin-ajax.php?action=woocommerce-checkout","is_checkout":"0","update_shipping_method_nonce":"7c4e5dfe1e","cart_url":"http:\/\/audiotheme.com\/cart\/","cart_redirect_after_add":"yes"};
+var affwp_scripts = {"ajaxurl":"https:\/\/audiotheme.com\/wordpress\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://audiotheme.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js"></script>
-<script type="text/javascript" src="http://audiotheme.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js"></script>
-<script type="text/javascript" src="http://audiotheme.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js"></script>
+<script type="text/javascript" src="http://audiotheme.com/content/plugins/affiliate-wp/assets/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="//audiotheme.com/content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var audiothemeL10n = {"ajaxUrl":"https:\/\/audiotheme.com\/wp-admin\/admin-ajax.php","homeUrl":"http:\/\/audiotheme.com\/","templateUrl":"http:\/\/audiotheme.com\/wp-content\/themes\/audiotheme\/"};
+var woocommerce_params = {"ajax_url":"\/wordpress\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/audiotheme.com\/content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://audiotheme.com/wp-content/themes/audiotheme/assets/js/audiotheme.min.js"></script>
-<!-- WooCommerce JavaScript-->
+<script type="text/javascript" src="//audiotheme.com/content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js"></script>
 <script type="text/javascript">
-jQuery(document).ready(function($) {
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wordpress\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//audiotheme.com/content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var audiothemeL10n = {"ajaxUrl":"https:\/\/audiotheme.com\/wordpress\/wp-admin\/admin-ajax.php","homeUrl":"http:\/\/audiotheme.com\/","templateUrl":"http:\/\/audiotheme.com\/content\/themes\/audiotheme\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://audiotheme.com/content/themes/audiotheme/assets/js/audiotheme.min.js"></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) {
 
 			$('.add_to_cart_button:not(.product_type_variable, .product_type_grouped)').click(function() {
 				_gaq.push(['_trackEvent', 'Products', 'Add to Cart', ($(this).data('product_sku')) ? ('SKU: ' + $(this).data('product_sku')) : ('#' + $(this).data('product_id'))]);
@@ -235,6 +306,7 @@ jQuery(document).ready(function($) {
 		
 });
 </script>
+
 
 
 </body></html>
