@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221012024id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062308id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register • The Register
 
 ### The Register is owned and operated by Situation Publishing Limited
 
 Situation Publishing Limited   
-36 Union Street   
+Unit 1   
+Portland Street Trading Estate   
+14 Portland Street   
 Southport   
-PR9 0QE
+PR8 1LJ
 
 The Register strongly believes in the importance of keeping readers' personal information personal. It will never use your information for any use beyond that stated or the permissions you give us.
 
