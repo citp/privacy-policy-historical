@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ironman.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502082352id_/http%3A//www.ironman.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironman.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232710id_/http%3A//www.ironman.com/triathlon/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - IRONMAN.com
+# Privacy Policy - IRONMAN.com | Official Site of IRONMAN, IRONMAN 70.3, 5i50, Iron Girl and IRONKIDS | Triathlon Races | Official IRONMAN Merchandise | IRONMAN World Championship in Kona, Hawaii
 
 At IRONMAN.com, we are committed to safeguarding your privacy online. We want to assure our users that IRONMAN.com will not willfully disclose any specific individual information about you to any third party unless you give us your express permission to do so. 
 
