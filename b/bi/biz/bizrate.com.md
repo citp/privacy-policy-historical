@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207022558id_/http%3A//about.bizrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165720id_/http%3A//about.bizrate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Bizrate
 
@@ -26,7 +26,7 @@ We thought it would be helpful to set out briefly the key ways in which we use y
   * You may at any time opt-out of certain activities as set out below (see section VI);
   * We encrypt any information you input using Secure Sockets Layer (SSL) software and take reasonable security measures to safeguard information;
   * If you register with us, you have the ability to update or correct the information you previously provided via the account section;
-  * If you have any questions or concerns about privacy at Shopzilla, please contact us by [clicking here](http://about.shopzilla.com/contact-us/site-questions) [ ](http://about.shopzilla.com/contact-us/site-questions) ;
+  * If you have any questions or concerns about privacy at Shopzilla, please contact us by [clicking here](http://about.shopzilla.com/contact/) [ ](http://about.shopzilla.com/contact-us/site-questions) ;
   * Our websites and our services are not designed or intended for use by children under 13; and
   * This Privacy Policy may change from time to time so please check this policy regularly.  Any material changes will be notified to you by email as appropriate.
 
@@ -89,14 +89,14 @@ We work to protect the security of your information during transmission by using
 
 **VI.        YOUR OPTIONS & OPT-OUTS**
 
-**(a) **W ** hat Information Can I Access?  ** If you register as a Shopzilla member, you will typically have access to an account section that includes the registration information you previously provided which you can update or correct at any time.   If there is any inaccurate information that you are not able to correct, just let us know.  Also, if you wish, you can delete your membership account entirely although  we may retain certain information in limited circumstances – e.g., to resolve disputes, troubleshoot problems and enforce our [Terms of Use](http://about.shopzilla.com/user-agreement) [ ](http://about.shopzilla.com/user-agreement) . Furthermore, some information is never completely removed from our databases due to technical (e.g., information that is stored in our “back-up” systems) and certain legal constraints.  
+**(a) **W ** hat Information Can I Access?  ** If you register as a Shopzilla member, you will typically have access to an account section that includes the registration information you previously provided which you can update or correct at any time.   If there is any inaccurate information that you are not able to correct, just let us know.  Also, if you wish, you can delete your membership account entirely although  we may retain certain information in limited circumstances – e.g., to resolve disputes, troubleshoot problems and enforce our [Terms of Use](http://about.shopzilla.com/terms-conditions/) [ ](http://about.shopzilla.com/user-agreement) . Furthermore, some information is never completely removed from our databases due to technical (e.g., information that is stored in our “back-up” systems) and certain legal constraints.  
 
-**(b) What Choices Do I Have (Opt-Out)?   ** You have many choices regarding how we use information about you, including: (1) To stop our emails, [click here](http://about.shopzilla.com/contact-us/site-questions) [ ](http://about.shopzilla.com/contact-us/site-questions) ; (2) To opt-out of preference-based ads, 
+**(b) What Choices Do I Have (Opt-Out)?   ** You have many choices regarding how we use information about you, including: (1) To stop our emails, [click here](http://about.shopzilla.com/contact/) [ ](http://about.shopzilla.com/contact-us/site-questions) ; (2) To opt-out of preference-based ads, 
 
-[click here](http://www.shopzilla.com/ad_retarget_global_opt_out) ; (3)  To stop the sharing of PII with our participating merchants, [click here](http://about.shopzilla.com/contact-us/site-questions) ; and (4) as discussed above, the choices we offer you anytime you submit information through our Sites or Services. 
+[click here](http://www.shopzilla.com/ad_retarget_global_opt_out) ; (3)  To stop the sharing of PII with our participating merchants, [click here](http://about.shopzilla.com/contact/) ; and (4) as discussed above, the choices we offer you anytime you submit information through our Sites or Services. 
 
   
-**(c) You May Contact Us With Questions:** If you have any questions or concerns about privacy at Shopzilla, please contact us by [clicking here ](http://about.shopzilla.com/contact-us/site-questions) .    
+**(c) You May Contact Us With Questions:** If you have any questions or concerns about privacy at Shopzilla, please contact us by [clicking here ](http://about.shopzilla.com/contact/) .    
 
 **VII.      **CHILDREN ** **
 
@@ -110,7 +110,7 @@ This Privacy Policy may change from time to time to reflect our changing busines
 
 **VII.      SOLE STATEMENT **
 
-This Privacy Policy and our [Terms of Use](http://about.shopzilla.com/user-agreement) , both  as posted on our Websites and through our Services, contain all of the material terms of regarding your use of our Websites and Services.   No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Websites and Services.
+This Privacy Policy and our [Terms of Use](http://about.shopzilla.com/terms-conditions/) , both  as posted on our Websites and through our Services, contain all of the material terms of regarding your use of our Websites and Services.   No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Websites and Services.
 
   
 **© 2012 Shopzilla, Inc. **
