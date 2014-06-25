@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marshill.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222095903id_/http%3A//marshill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marshill.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105524id_/http%3A//marshill.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mars Hill Church
 
@@ -7,10 +7,8 @@ Mars Hill Church ( **"Mars Hill"** ) recognizes that your privacy is very import
 This Privacy Policy applies to the following web sites which are owned and/or maintained by Mars Hill:
 
   * [marshill.com](http://marshill.com/)
-  * [marshillglobal.com](http://marshillglobal.com/)
   * [theresurgence.com](http://theresurgence.com/)
   * [pastormark.tv](http://pastormark.tv/)
-  * [gospelcoach.com](http://gospelcoach.com/)
 
 
 
