@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the memorialcare.org privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228050915id_/http%3A//www.memorialcare.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorialcare.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063013id_/http%3A//www.memorialcare.org/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MemorialCare Health System
+# Privacy Policy | MemorialCare Health System | Orange County | Los Angeles County
 
 **In order for you to use our services and health information tools, we require certain registration information (as noted on the signup form). The registration information will be transmitted to our partners in part or in whole for the sole purpose of customizing information for your needs. We will keep your information confidential and secure and you can change or delete your registration information at any time. You may also unsubscribe at any time. Please read this privacy policy for more information.**
 
