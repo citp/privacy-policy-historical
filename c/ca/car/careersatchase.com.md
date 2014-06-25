@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careersatchase.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227211103id_/https%3A//www.chase.com/resources/consumer-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersatchase.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074935id_/https%3A//www.chase.com/resources/consumer-privacy) for the most accurate reproduction.*
 
 # Chase Online Security Center | Online Privacy Policy
 
@@ -11,7 +11,7 @@ We were not able to find the Zip Code you enter. Please check the Zip Code to ma
 The Chase product or service you selected is not available in the ZIP code you entered. Please check the ZIP code to be sure it was entered correctly. For more information about our products or services, please [Contact Us](https://www.chase.com/online/services/customer-service-support.htm).  
 
 
-The Chase product or service you selected is not available in the ZIP code you entered, **or you may have an Ad Block program enabled**. Please check the ZIP code to be sure it was entered correctly, or disable the Ad Block program in your browser. For more information about our products or services, please [Contact Us](https://www.chase.com/online/services/customer-service-support.htm).  
+The Chase product or service you selected is not available in the ZIP code you entered. Please check the ZIP code to be sure it was entered correctly. For more information about our products or services, please [Contact Us](https://www.chase.com/online/services/customer-service-support.htm).  
 
 
 You may have an Ad Block program enabled. Please disable the Ad Block program in your browser and then enter your ZIP code. For more information about our products or services, please [Contact Us](https://www.chase.com/online/services/customer-service-support.htm)
