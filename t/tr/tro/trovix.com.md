@@ -1,69 +1,76 @@
-> *The following text is extracted and transformed from the trovix.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006141637id_/http%3A//www.trovix.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trovix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625153555id_/http%3A//my.monster.com/privacy) for the most accurate reproduction.*
 
-# Trovix - Privacy Policy
+# Monster Privacy Center | Monster.com
 
-Trovix respects your privacy and provides this notice to explain our approach to protecting your privacy. This Policy applies to the Trovix Service ('Service'), as provided on our website at trovix.com. If you object to any or all of this Privacy Policy, you should not provide your information.
+**Your Privacy Rights**
 
-If you choose to purchase advertising on the site, or use other advanced features, you will be advised at that time of how any additional information you provide will be handled.
+Monster collects information about you and uses this information to help you connect with employers and job seekers and to provide other services to you. This policy describes how your information is collected and used and your choices with respect to your personal information. We encourage you to review our [full Privacy Policy](http://inside.monster.com/fullpolicy/inside2.aspx "full Privacy Policy") for detailed information on our privacy practices.
 
-This Privacy Policy is effective as of **November 1, 2007**. ****
+## Scope of this Policy
 
-**Information we collect and how we use it**
+This policy applies to information we collect or use on sites and applications owned or controlled by Monster Worldwide, Inc. or its affiliated companies ("Monster").
 
-As you use the Service, we may collect the following types of information:
+Monster is not responsible for the privacy policies or practices of ad networks and other websites, third parties with whom we work to provide you personalized services, or those who access your information on our sites or applications.
 
-  * • **Information provided by you –** You may choose to give us personal information through forms on the web page or document uploads. If you choose to purchase products or services through our site, you may give us credit card information or other payment and account information, which will be stored in encrypted form on secure servers.
-  * • **Cookies –** Cookies are small text files which are used to uniquely identify your browser. Like most websites, Trovix uses cookies to understand your usage of our site and improve the quality of our service. The cookies we use are encrypted and do not contain any information about you. You may disable cookies in your browser, but our Service may not function properly if you do this.
-  * • **Browsing history –** When you use the Service, some of your browsing history will automatically be identified in our servers, such as the information about the browser and other equipment you use to access the service, the IP address used for the current session, and links you click on while visiting our site. Additionally, referring sites may pass us information about how you got to our site. We may also store the history of changes to your profile, of purchases from Trovix, and of information exchanges through the Service.
+## Information We Collect
 
+| [We self-certify compliance with:](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list "We self-certify compliance with:")
 
+[](http://www.export.gov/safeharbor "Safe Harbor")
 
-We use this information to help us provide, personalize and improve our Service. We may also use aggregated or anonymized information to describe our user base in marketing and sales materials, provided this information cannot be used to identify you. We may also use this information to select which advertisements to display to you. In this manner it may be accessed by our employees or contractors we work with.
+[](https://privacy.truste.com/privacy-seal/Monster,-Inc-/validation?rid=cd2a9ce6-3345-40d6-b7da-2440baddba4e "TRUSTe European Safe Harbor certification")  
+  
+---|---  
+  
+We collect information about you when you use Monster. We collect information directly from you such as your contact information, resume, and profile information. We also collect information about you automatically such as how you use and interact with Monster, your demographic information, and information about your computer or mobile device.
 
-We will use your information and documents as described above. If we need to use it in any other way, we will contact you, and you may then give or withhold your consent.
+We may collect or use information about you from publicly-available websites whether or not you have an account with us. You will have the opportunity to claim, change the visibility setting of, or remove the information. However we cannot guarantee that we will not later collect from publicly-available websites other information that pertains to you.
 
-**Disclosure to third parties**
+We may also acquire information about you from third parties to further personalize and enhance your experience.
 
-If you choose to post or publish information or send information to third parties through the Service, we will do so on your behalf. Trovix does not otherwise rent or sell any of your information to third parties except when we have your specific permission. These third parties may have a different privacy policy than Trovix, so we encourage you to review their privacy policies prior to sharing your information if you have concerns.
+## How We Use Information
 
-As a rule, we will not give away information or documents or browsing history that personally identify you, except when we have your permission. However, in some situations we may need to disclose information to third parties:
+We use the information we collect about you to deliver the products and services we offer, respond to you, and operate and improve our sites and applications. Our services include showing you personalized content and advertising on Monster or other sites with which we have a business relationship. We may use your information to contact you about Monster updates, conduct surveys, or to provide informational and service-related communications, including important security updates.
 
-  1. 1\. If required by law, or to comply with subpoenas or court orders, or to defend against legal claims, or to exercise or establish our legal rights;
-  2. 2\. If we believe it is necessary to protect our users against illegal activities or suspected fraud, or to prevent such activities, in situations involving potential threats to the physical safety of a person, or in cases involving violations of Trovix’s [Terms of Use](https://web.archive.org/web/20121006141637id_/http%3A//www.trovix.com/about/terms.jsp);
-  3. 3\. As stated on the Trovix site when the information was collected.
-  4. 4\. Trovix may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. Trovix will notify you before transferring your information to a new entity as part of a merger, acquisition, reorganization or sale of some or all of its assets if the new entity's processing of your information will materially differ from that set forth in this Privacy Policy.
+Information you share in public areas of Monster or make visible in the resume and profile database may be accessed, used, and stored by others around the world. We strive to provide a safe environment by attempting to limit access to our database to legitimate users, but we cannot guarantee that unauthorized parties will not gain access. We also cannot control how authorized users store or transfer information you give to us, so you should not post sensitive information to Monster.
 
+## How We Share Information
 
+We do not share contact information with third parties for their direct marketing purposes without your consent.
 
-**Aggregate information**
+We share your information with third parties who help us deliver our products and services to you. These third parties may not use your information for any other purpose.
 
-We may aggregate anonymous user data including browsing history in order to understand usage patterns of the Service and improve our Service. We may also use this aggregated data in publicly describing our Service or may share it with third parties. Such aggregated data does not contain any information that can be used to identify individual users.
+We may share information to third parties if you consent. For example, we may use your information to contact you about products or services available from Monster or our affiliates. If you opt in, we may supply your information to third parties who may contact you about their products or services. You may change your contact preferences by adjusting your [notification settings](http://my.monster.com/Profile/NotificationSettings "notification settings").
 
-**Trovix communications with you**
+We may disclose to third parties information that we have collected from other websites.
 
-We will communicate with our users through email and our website. We may contact you with news and updates, opportunities, and other information relevant to the Service and your usage of it. We may also send you some promotional information unless you opted out of receiving such emails.
+We disclose information where legally required.
 
-You may opt out of receiving communications from us at any time. All of our emails will have an unsubscribe link, and registered users can also opt out of communications while on the site. We reserve the right to send you certain administrative messages regarding the use of your account.
+We may disclose and transfer information to a third party who acquires any or all of Monster's business units.
 
-**Third party sites**
+## How We Store Information
 
-Trovix may include links to other sites. These sites have their own privacy policies which users are encouraged to read. Trovix is not responsible for the privacy policies of these sites nor the use of information submitted on those sites.
+We store your information to make your interaction with Monster more efficient, practical, and relevant. You may access, review, correct, update, or delete your resume or profile any time by [signing in to your account](https://login.monster.com/ "signing in to your account"). If you do not have an account, please [contact us](http://seeker.custhelp.com/app/ask "contact us").
 
-**Accessing and modifying your information**
+When you delete your personal information, we will retain logs and non-personal information about your activity on Monster. We will also retain an archival copy of your information which is not accessible by you or third parties on the Internet. If your personal information was previously accessed by others using Monster, we are unable to delete the information from their systems.
 
-Users can view, correct, update, or delete any personal information submitted to the Service at any time by logging in to their accounts. Any deleted information becomes immediately unavailable for use within the Trovix website; however, deleted information may remain in back-up storage for some period of time after deletion. We also have no control over any previous disclosures to third parties that you had authorized us to make.
+## Other Information
 
-**Security**
+Monster is not intended for children under 13 years of age.
 
-Trovix knows that information and documents you submit to the Service may be confidential in nature. Trovix uses industry standard security measures to safeguard your information and documents against loss, misuse, and alteration while under Trovix’s control.
+We participate in the U.S. Department of Commerce's [Safe Harbor Framework](http://inside.monster.com/fullpolicy/inside2.aspx#safe-harbor "Safe Harbor Framework") and we are a member of [TRUSTe](http://inside.monster.com/fullpolicy/inside2.aspx#truste "TRUSTe").
 
-The Trovix site uses security systems including firewalls and is hosted in a secure location with restricted access to the physical computers that run the Trovix site.
+We use cookies to help personalize and maximize your online experience on Monster. You may [turn off cookies](http://inside.monster.com/cookie-info/inside2.aspx "turn off cookies"); however, this will adversely affect your use of Monster.
 
-**Notification of changes**
+For information on how to protect yourself online, visit the [Security Center](http://inside.monster.com/security-center/home.aspx "Security Center").
 
-Trovix may need to update this Privacy Policy from time to time. If so, we will post the updated Privacy Policy on our website located at [trovix.com](https://web.archive.org/web/20121006141637id_/http%3A//www.trovix.com/about/privacy.jsp). We may send you an email so that you are aware of updates of the policy. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this site will be subject to the then-current Privacy Policy.
+## Contact Information
 
-**Questions and comments**
+You may [contact us online](http://my.monster.com/privacy/EmailForm.aspx "contact us online") for questions or concerns about our privacy practices or the Safe Harbor program. You may also write to us at:
 
-If you have any questions or concerns regarding this Privacy Policy, please email us at:  
-. 
+Privacy Office  
+Monster Worldwide, Inc.  
+133 Boston Post Road  
+Weston, MA 02493
+
+If you feel we have not properly addressed your question or concern, you may contact [TRUSTe](http://inside.monster.com/fullpolicy/inside2.aspx#contact "TRUSTe") for further assistance.
