@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126185256id_/http%3A//nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063305id_/http%3A//www.nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
 
 # Nethouseprices.com - Privacy
 
@@ -49,7 +49,7 @@ _Two types of cookies are used on this website :_
 **persistent cookies** \- these remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie).
 
 Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you.  
-Find out more about [cookies](http://www.allaboutcookies.org/cookies/)
+Find out more about [cookies](http://www.allaboutcookies.org/cookies/ "Find out for what purposes we use cookies on Nethouseprices.com")
 
 **How we use cookies on our website and what information we collect**
 
@@ -71,7 +71,7 @@ Find out more about [cookies](http://www.allaboutcookies.org/cookies/)
     * You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled.
     * **What can I do to manage cookies stored on my computer?**  
 There are a number of ways to manage cookies. If you use different computers in different locations you will need to ensure that each browser is adjusted to suit your cookie preferences. 
-    * Some modern browsers have a feature that will analyse website privacy policies and allow a user to control their privacy needs. These are known as 'P3P' features (Privacy Preferences Platform Find further information on [P3P](http://www.allaboutcookies.org/p3p-cookies/index.html).
+    * Some modern browsers have a feature that will analyse website privacy policies and allow a user to control their privacy needs. These are known as 'P3P' features (Privacy Preferences Platform Find further information on [P3P](http://www.allaboutcookies.org/p3p-cookies/index.html "Read informations about Privacy Preferences Platform").
 
 
 
@@ -94,18 +94,18 @@ If you are not using Microsoft Windows Explorer, then you should select 'cookies
 
 All web browsers enable you to set your cookie preferences before you start surfing.
 
-  * [Internet Explorer 5.0+](http://www.allaboutcookies.org/manage-cookies/internet-explorer5-plus.html)
-  * [Netscape 6.0+](http://www.allaboutcookies.org/manage-cookies/netscape-6-plus.html)
-  * [Firefox 2.0+ / 3.0+](http://www.allaboutcookies.org/manage-cookies/firefox2-plus.html)
-  * [Internet Explorer (IE) 7.0+](http://www.allaboutcookies.org/manage-cookies/internet-explorer7-plus.html)
+  * [Internet Explorer 5.0+](http://www.allaboutcookies.org/manage-cookies/internet-explorer5-plus.html "Set cookie preferences on Internet Explorer 5.0+")
+  * [Netscape 6.0+](http://www.allaboutcookies.org/manage-cookies/netscape-6-plus.html "Set cookie preferences on Netscape 6.0+")
+  * [Firefox 2.0+ / 3.0+](http://www.allaboutcookies.org/manage-cookies/firefox2-plus.html "Set cookie preferences on Firefox 2.0+ / 3.0+")
+  * [Internet Explorer (IE) 7.0+](http://www.allaboutcookies.org/manage-cookies/internet-explorer7-plus.html "Set cookie preferences on Internet Explorer \(IE\) 7.0+")
 
 
 
 **I like to control which cookies are being set on my browser, but the alerts are rather annoying - is there any way that I can stop them?**
 
 The called P3P (Privacy Preferences Platform) to match your preferences with the privacy policy of a website. For more information about this, please click below.   
-Set preferences on [Internet Explorer 6](http://www.allaboutcookies.org/manage-cookies/internet-explorer4.html)  
-Set preferences on [Netscape 7](http://www.allaboutcookies.org/manage-cookies/pref-netscape7.html)
+Set preferences on [Internet Explorer 6](http://www.allaboutcookies.org/manage-cookies/internet-explorer4.html "Set cookie preferences on Internet Explorer 6")  
+Set preferences on [Netscape 7](http://www.allaboutcookies.org/manage-cookies/pref-netscape7.html "Set cookie preferences on Netscape 7")
 
 8\. Children 
 
