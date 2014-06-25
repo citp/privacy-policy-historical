@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the leadsquared.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005072923id_/http%3A//www.leadsquared.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadsquared.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093304id_/http%3A//leadsquared.com/Company/PrivacyPolicy) for the most accurate reproduction.*
 
-# LeadSquared Privacy Policy
+# LeadSquared Marketing Software Privacy Policy
+
+## LeadSquared Privacy Policy
 
 LeadSquared is owned and operated by MarketXpander Services Private Limited. LeadSquared is committed to protect the privacy of information that we collect from and about our website visitors. This Statement of Privacy (or “Privacy Policy”) applies to our websites [www.LeadSquared.com](http://www.leadsquared.com/) (“Website”), our application run.leadsquared.com (“Application”) and websites of our customers (“Customer Websites”) where LeadSquared script is installed. We assume that you have read, understood and agreed to this Statement of Privacy by virtue of visiting our Website or using our Application.
 
