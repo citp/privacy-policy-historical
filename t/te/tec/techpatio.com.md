@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techpatio.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207232613id_/http%3A//techpatio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techpatio.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082012id_/http%3A//techpatio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — TechPatio
 
@@ -32,6 +32,3 @@ We log visitors IP addresses on some of our websites. We do this because to make
 ### Comments & Leave a Comment
 
 comments
-
-CommentLuv and the normal WordPress comments system has been  
-temporarily removed in order to cut down on comment spam!
