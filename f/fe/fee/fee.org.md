@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fee.org privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020162800id_/http%3A//www.fee.org/about/view_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fee.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095546id_/http%3A//www.fee.org/about/view_privacy_policy) for the most accurate reproduction.*
 
 # View Privacy Policy : About : Foundation for Economic Education
 
@@ -6,7 +6,7 @@ This privacy policy sets out how the Foundation for Economic Education (FEE) use
 
 FEE is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-FEE may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 14 November 2012.
+FEE may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 14 January 2014.
 
 **What we collect**
 
@@ -27,6 +27,7 @@ We require this information to understand your needs and provide you with a bett
   * We may use the information to improve our products and services.
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
+  * FEE may share any content I submit to FEE with other organizations and individuals so that I can be made aware of opportunities that FEE thinks may be of interest to me and to otherwise advance FEE’s educational mission.
 
 
 
@@ -72,6 +73,10 @@ If you believe that any information we are holding on you is incorrect or incomp
   * [INTERNSHIPS](http://www.fee.org/about/page/internships "lnkPgNav")
   * [STAFF](http://www.fee.org/about/page/staff "lnkPgNav")
   * [BOARD OF SCHOLARS](http://www.fee.org/about/page/board-of-scholars "lnkPgNav")
-  * [FEE ALUMNI BOARD](http://www.fee.org/about/page/fee-alumni-board "lnkPgNav")
+  * [FINANCIAL DATA](http://www.fee.org/about/page/financial-data "lnkPgNav")
+  * [ALUMNI NETWORK](http://www.fee.org/about/page/alumni-network "lnkPgNav")
+  * [JOB OPENINGS](http://www.fee.org/about/page/job-openings "lnkPgNav")
 
 
+
+### EMAIL UPDATES
