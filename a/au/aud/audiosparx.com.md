@@ -1,31 +1,7 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210025413id_/http%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625202229id_/http%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
 
-game sound effects,  
-noises,  
-downloadable sound effects for final cut,  
-free news sound effect,  
-laser sound,  
-jet wash sound effects free,  
-birds sounds effects,  
-free wildlife sound effects,  
-free downloadable kung foo noises,  
-sound effects free downloads,  
-free sound fx online,  
-sound affects for bar,  
-sound clips from baseball movies,  
-free chicken wav sound effects,  
-traffic sounds,  
-dog wav sounds,  
-steam roller sound effects,  
-202 digital sound effects,  
-sound bites for windows media,  
-foley sounds sound effects 
-
-| 
-
-|   
 ---  
   
 **Privacy Policy of AudioSparx  **
@@ -106,24 +82,3 @@ We know that you care how your information is used, and we appreciate your trust
   
   
 
-
-sound efect,  
-comedy wav sounds,  
-downloadable sounds effects,  
-parasaurolophus sounds,  
-twilight zone sound effect,  
-dog barking sound effects,  
-splash sound effect,  
-sound effects the man from uncle,  
-free bee sound effect,  
-sound effects cash machine,  
-free record player scratch sound effect,  
-im looking for a cool twang sound effect,  
-hulk sound effects,  
-wav sounds free download,  
-f1 sounds,  
-sound of newsroom fx,  
-time travel sound effect free download,  
-sonido,  
-sound effects mp3,  
-free downloads to human sounds 
