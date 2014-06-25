@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grownupsmag.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206131151id_/http%3A//grownupsmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grownupsmag.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112731id_/http%3A//grownupsmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grown Ups Magazine
 
