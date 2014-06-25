@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialcast.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206142553id_/http%3A//www.socialcast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialcast.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112710id_/http%3A//www.socialcast.com/privacy) for the most accurate reproduction.*
 
-# Socialcast Privacy & Security | Socialcast
+# Privacy | Socialcast
 
 ## SOCIALCAST PRIVACY POLICY
 
@@ -10,7 +10,7 @@ Thank you for visiting our website. We are committed to protecting our visitors'
 
 This privacy statement describes how Socialcast collects and uses the personal information you provide on our Web sites: [www.socialcast.com](http://www.socialcast.com/) and [www.strides.do](http://www.strides.do/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Socialcast has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. This privacy statement covers the Web site [www.socialcast.com](http://www.socialcast.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Michelle Horton at [hortonm@vmware.com](mailto:hortonm@vmware.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Socialcast has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. This privacy statement covers the Web site [www.socialcast.com](http://www.socialcast.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Michelle Horton at [hortonm@vmware.com](http://www.cloudflare.com/email-protection#fa9295888e959497ba8c978d9b889fd4999597). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 Socialcast complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. Socialcast has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor Program, and to view Socialcast's certification, please visit <http://export.gov/safeharbor/>.
 
@@ -25,7 +25,7 @@ BY USING OUR WEBSITE, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY. Please revi
 
 
 
-If you have questions about this Privacy Policy, please contact us at [support@socialcast.com](mailto:support@socialcast.com) .
+If you have questions about this Privacy Policy, please contact us at [support@socialcast.com](http://www.cloudflare.com/email-protection#acdfd9dcdcc3ded8ecdfc3cfc5cdc0cfcddfd882cfc3c1) .
 
 ### Children Under the Age of 13
 
@@ -71,7 +71,7 @@ Users of our website should be aware that non-personal information and data may 
 
 ### Information Sharing
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. The Company does not sell or rent personal information about its customers to any third parties. In the event the Company does engage in such commerce in the future, notice will be given and you will have an opportunity to remove yourself from any such lists prior to your inclusion therein by emailing us at [support@socialcast.com](mailto:support@socialcast.com). The Company may, however, perform statistical analysis of customer usage in order to measure interest in, and use of, the various parts of the Website, and the Company may share that information in the course of its business, but such shared information shall be in aggregated form only (statistics, etc.), and will contain no personally identifiable information whatsoever.
+We will share your personal information with third parties only in the ways that are described in this privacy policy. The Company does not sell or rent personal information about its customers to any third parties. In the event the Company does engage in such commerce in the future, notice will be given and you will have an opportunity to remove yourself from any such lists prior to your inclusion therein by emailing us at [support@socialcast.com](http://www.cloudflare.com/email-protection#23505653534c515763504c404a424f404250570d404c4e). The Company may, however, perform statistical analysis of customer usage in order to measure interest in, and use of, the various parts of the Website, and the Company may share that information in the course of its business, but such shared information shall be in aggregated form only (statistics, etc.), and will contain no personally identifiable information whatsoever.
 
 We may provide your personal information to companies that provide services that help us with our business activities such as offering customer service or sending out emails on our behalf. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
@@ -111,13 +111,13 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet, and any information you transmit to the Company you do at your own risk. We recommend that you not disclose your password to anyone.
 
-If you have any questions about security on our Web site, you can contact us at [support@socialcast.com](mailto:support@socialcast.com).
+If you have any questions about security on our Web site, you can contact us at [support@socialcast.com](http://www.cloudflare.com/email-protection#1d6e686d6d726f695d6e727e747c717e7c6e69337e7270).
 
 ### Additional Policy Information
 
 Our Web site may include Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
 
-Our Web site may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@socialcast.com](mailto:support@socialcast.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@socialcast.com](http://www.cloudflare.com/email-protection#cab9bfbabaa5b8be8ab9a5a9a3aba6a9abb9bee4a9a5a7). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### Surveys
 
@@ -125,9 +125,9 @@ From time-to-time we may use your information to contact you to complete surveys
 
 ### Updating / Accessing / Amending / Correcting Personally Identifiable Information
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete or remove information by making the change on our member information page, emailing our Customer Support at [support@socialcast.com](mailto:support@socialcast.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within 5 business days.
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete or remove information by making the change on our member information page, emailing our Customer Support at [support@socialcast.com](http://www.cloudflare.com/email-protection#ddaea8adadb2afa99daeb2beb4bcb1bebcaea9f3beb2b0) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within 5 business days.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@socialcast.com](mailto:support@socialcast.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@socialcast.com](http://www.cloudflare.com/email-protection#8ffcfaffffe0fdfbcffce0ece6eee3eceefcfba1ece0e2). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Notification of Privacy Statement Changes
 
@@ -140,4 +140,4 @@ Socialcast by VMware
 501 2nd Street, 7th Floor  
 San Francisco, CA 94107
 
-Email: [support@socialcast.com](mailto:support@socialcast.com).
+Email: [support@socialcast.com](http://www.cloudflare.com/email-protection#d9aaaca9a9b6abad99aab6bab0b8b5bab8aaadf7bab6b4).
