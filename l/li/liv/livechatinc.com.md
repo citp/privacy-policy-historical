@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214025258id_/http%3A//www.livechatinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626004623id_/http%3A//www.livechatinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
