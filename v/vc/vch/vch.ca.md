@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vch.ca privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209213053id_/http%3A//www.vch.ca/your_stay/your_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vch.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070445id_/http%3A//www.vch.ca/your_stay/your_privacy) for the most accurate reproduction.*
 
 # Your Privacy - Your Stay - Vancouver Coastal Health
 
