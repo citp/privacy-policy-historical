@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coupons7.net privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430082046id_/http%3A//coupons7.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupons7.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101611id_/http%3A//coupondiscountpromo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Coupons7.net
+# Privacy Policy | CouponDiscountPromo.com
 
-This is the Privacy Policy of Coupons7.net, Inc. (“Coupons7.net” or “us” or “we”). Our Terms of Use, which incorporates by reference this Privacy Policy, governs your use of our online services, any content or information therein, the Coupons7.net website, any sub domains of Coupons7.net, and any other website pages on which services are provided by us (collectively, the “Site”).
+This is the Privacy Policy of CouponDiscountPromo.com, Inc. (“CouponDiscountPromo.com” or “us” or “we”). Our Terms of Use, which incorporates by reference this Privacy Policy, governs your use of our online services, any content or information therein, the CouponDiscountPromo.com website, any sub domains of CouponDiscountPromo.com, and any other website pages on which services are provided by us (collectively, the “Site”).
 
 Our Privacy Policy was developed as an extension of our commitment to combine quality coupons and deals for products and services with integrity in dealing with our users. Our Privacy Policy is designed to assist you in understanding how we collect, use and store the personal information you provide to us.
 
@@ -18,9 +18,9 @@ When we refer to “personally identifiable information”, we mean information 
 
 The Site is not intended for use by anyone under 18, except with the explicit permission and under the supervision of a parent or guardian who accepts full legal responsibility for the minor’s use. No person under 13 should disclose information on this Site. We don’t knowingly collect or use personally identifiable information from children under 13.
 
-Please note that if you grant consent for your child to use Coupons7.net Services, this will include such general audience communication services as e-mail, instant messaging, and SMS text messaging. Parents can change or revoke the consent choices previously made, and review, edit or request the deletion of their children’s personal information. Thus, if a child under 13 has provided us with personally identifiable information without parental or guardian consent, the parent or guardian should [contact us](https://web.archive.org/contact-us/), to remove the information and opt out of promotional opportunities.
+Please note that if you grant consent for your child to use CouponDiscountPromo.com Services, this will include such general audience communication services as e-mail, instant messaging, and SMS text messaging. Parents can change or revoke the consent choices previously made, and review, edit or request the deletion of their children’s personal information. Thus, if a child under 13 has provided us with personally identifiable information without parental or guardian consent, the parent or guardian should [contact us](https://web.archive.org/contact-us/), to remove the information and opt out of promotional opportunities.
 
-Coupons7.net encourages all of its parental coupologists to talk with their children about communicating with strangers and disclosing personal information online.
+CouponDiscountPromo.com encourages all of its parental coupologists to talk with their children about communicating with strangers and disclosing personal information online.
 
 #### Active Information You Choose to Provide
 
@@ -72,7 +72,7 @@ This Site is hosted and operated in the United States of America. Those who acce
 
 If you are not a resident of the United States, you acknowledge and agree that we may collect and use your personal information outside your home jurisdiction, and that we may store your personal information in the United States. Please note that the level of legal protection provided in the United States or other non-European countries in which you may access our Site may not be as stringent as that under European Union privacy standards or the privacy laws of some other countries, possibly including your home jurisdiction.
 
-#### Contacting Coupons7.net About Your Information or Information You Receive
+#### Contacting CouponDiscountPromo.com About Your Information or Information You Receive
 
 If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please [contact us](https://web.archive.org/contact-us/).
 
