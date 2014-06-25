@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adventuresof8.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208005404id_/http%3A//adventuresof8.com/giveaways-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuresof8.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081710id_/http%3A//adventuresof8.com/giveaways-policies/privacy-policy) for the most accurate reproduction.*
 
-# Adventures of 8 | Privacy Policy
+# Privacy Policy - Adventures of 8
 
-[](http://instagram.com/adventuresof8) [](http://pinterest.com/adventuresof8/) [](mailto:adventuresof8@yahoo.com) [](http://twitter.com/#!/adventuresof8) [](http://feeds.feedburner.com/TheAdventuresOfMyFamilyOf8) [](http://www.bloglovin.com/en/blog/4663553) [](http://www.youtube.com/adventuresof8) [](https://www.facebook.com/AdventuresofMyFamilyof8) [](https://plus.google.com/111567034827613007545?prsrc=3)
+[](http://instagram.com/adventuresof8) [](http://pinterest.com/adventuresof8/) [](mailto:adventuresof8@yahoo.com) [](http://twitter.com/#!/adventuresof8) [](http://feedpress.me/adventuresof8) [](http://www.bloglovin.com/en/blog/4663553) [](http://www.youtube.com/adventuresof8) [](https://www.facebook.com/AdventuresofMyFamilyof8) [](https://plus.google.com/111567034827613007545?prsrc=3)
 
   
 
