@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the american-classifieds.net privacy policy that was archived on 2013-08-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130821145420id_/http%3A//american-classifieds.net/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the american-classifieds.net privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625051948id_/http%3A//american-classifieds.net/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 <title>American Classifieds</title>
@@ -123,6 +123,31 @@ function setSelectResponse(act, nr, cod){
 }
 //--------------------------
 
+
+
+var videoThumbPos=1;
+var loadedVideoThumbs=[];
+var videoThumbsIntervalID=null;
+function startSlideVideoThumbs(videoID, id){
+  showNextVideoThumb(videoID, id);
+  videoThumbsIntervalID=setInterval(function(){showNextVideoThumb(videoID, id);}, 300);
+}
+function showNextVideoThumb(videoID, id){
+  videoThumbPos=videoThumbPos+1;
+  if(videoThumbPos>3){videoThumbPos=1}
+
+  if(loadedVideoThumbs[videoID+"-"+videoThumbPos]==undefined){
+    loadedVideoThumbs[videoID+"-"+videoThumbPos]=new Image();
+    loadedVideoThumbs[videoID+"-"+videoThumbPos].src='http:\/\/i1.ytimg.com\/vi\/'+videoID+'\/'+videoThumbPos+'.jpg';
+  }
+  document.getElementById("videothumb"+id).src=loadedVideoThumbs[videoID+"-"+videoThumbPos].src;
+}
+function stopSlideVideoThumbs(){
+  if(videoThumbsIntervalID){clearInterval(videoThumbsIntervalID);}
+}
+//--------------------------
+
+
 function trim(str) { if (typeof str != "string") return str; str = str.replace(/^\s+|\s+$/g, ""); return str;}
 
 //preload img
@@ -159,95 +184,95 @@ imgSelect.src="template/select.gif";
           <td valign="top" style="padding-top:0px;">
             
             <div style="padding-top:50px;"><div style="padding-bottom:25px;"><div align="center" style="overflow:hidden; background:#0C497F; border-bottom: solid 1px #0A4272; padding:5px 2px 5px 2px; color:#FFFFFF; font-size:14px; font-Family:Arial, Helvetica; font-weight:bold;">PREMIUM ADS</div>
-<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=234955';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
-  <div align="center" class="sidebarpremiumad1_title">CLASSIC AMC PACER RARE</div>
+<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=276448';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
+  <div align="center" class="sidebarpremiumad1_title">2010 kawasaki mule</div>
   
-  <div class="sidebarpremiumad1_cont">1976 AMC PACER AUTOMATIC FACTORY AC. NEEDS CHARGING. RUNS GOOD LOOKS GOOD. UNIQUE AND HARD TO FIND. CALL 325 725 2097...</div>
+  <div class="sidebarpremiumad1_cont">For sale low hours like new good tires 8500 neg....</div>
 </div>
-<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=234941';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
-  <div align="center" class="sidebarpremiumad2_title">EXTERIOR CUSTOM CLEANERS/DETAILERS</div>
-  <div align="center" style="overflow:hidden; padding:1px;"><img src="adimgth/234941.jpg" border="0" alt=""></div>
-  <div class="sidebarpremiumad2_cont">RESIDENTIAL &amp; COMMERCIAL Professional Pressure washing services for :- External walls Gutters Garage doors Windows Driveways Patio F R E E E S T I...</div>
-</div>
-<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=220909';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
-  <div align="center" class="sidebarpremiumad1_title">AA Towing</div>
+<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=276222';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
+  <div align="center" class="sidebarpremiumad2_title">Maltese puppies</div>
   
-  <div class="sidebarpremiumad1_cont">Towing Jump starts Winch outs Unlock doors local &amp; 100 mile radius from Omaha, Ne. My specialty: Tow aways abandoned vehicles. Been in business fo...</div>
+  <div class="sidebarpremiumad2_cont">Adorable Maltese puppies, 8 wks old. 2 males available. They are registered, had first shots, wormed weekly. Parents on site....</div>
 </div>
-<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=234411';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
-  <div align="center" class="sidebarpremiumad2_title">MARVS APPLIANCES</div>
+<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=275538';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
+  <div align="center" class="sidebarpremiumad1_title">OZARK MOUNTAIN HOME WITH EXCELIENT VIEWS</div>
+  <div align="center" style="overflow:hidden; padding:1px;"><img src="adimgth/275538.jpg" border="0" alt=""></div>
+  <div class="sidebarpremiumad1_cont">Built in 2000, 3br,2ba, on 22 acres, Hardy Plank siding, all ceramic flooring, 2central air and heat units, 3 outside storage buildings, close to Buff...</div>
+</div>
+<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=273373';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
+  <div align="center" class="sidebarpremiumad2_title">Boxer</div>
+  <div align="center" style="overflow:hidden; padding:1px;"><img src="adimgth/273373.jpg" border="0" alt=""></div>
+  <div class="sidebarpremiumad2_cont">AKC Male boxer puppy. Born 4/15. UTD on S/W. $800. He is a big beautiful sealed brindle(black). His dad weighs 95lbs and he will be close to that when...</div>
+</div>
+<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=275190';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
+  <div align="center" class="sidebarpremiumad1_title">Large Square Hay Bales</div>
   
-  <div class="sidebarpremiumad2_cont">BRING In your old appliance working or not and get trade in creidt of $100 on one of our appliances with this add. Washers starting at $160 and up dry...</div>
+  <div class="sidebarpremiumad1_cont">Large Square Alfalfa, Grass, or mix hay bales. Range from 900 to 1000 pounds....</div>
 </div>
-<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=234243';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
-  <div align="center" class="sidebarpremiumad1_title">2006 Chevy Cobalt</div>
+<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=275034';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
+  <div align="center" class="sidebarpremiumad2_title">Swisher 60 " 14.5 Finish Mower</div>
   
-  <div class="sidebarpremiumad1_cont">red 2 dr 5 speed 112k miles. Runs good looks good...</div>
+  <div class="sidebarpremiumad2_cont">Swisher 60inch Deck 14.5 Finish Mower. Tow behind. Red. Excellent condition new battery less than 10 hrs usage. Has been in dry storage for last 3 yea...</div>
 </div>
-<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=234092';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
-  <div align="center" class="sidebarpremiumad2_title">'99 Nomad Classic RUNS GREAT $$$ In Extras</div>
-  <div align="center" style="overflow:hidden; padding:1px;"><img src="adimgth/234092.jpg" border="0" alt=""></div>
-  <div class="sidebarpremiumad2_cont">1999 Nomad Classic in excellent condition, lovingly maintained, BRAND NEW White Walls, re-jetted for straight pipes, extra set of Vance &amp; Hines St...</div>
-</div>
-<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=233796';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
-  <div align="center" class="sidebarpremiumad1_title">Affordable bookkeeping for small businesses!!</div>
-  <div align="center" style="overflow:hidden; padding:1px;"><img src="adimgth/233796.jpg" border="0" alt=""></div>
-  <div class="sidebarpremiumad1_cont">Are you pressed for time?? Between trying to keep your business finances in order, making sure you’re in compliance with the government regarding ta...</div>
-</div>
-<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=233201';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
-  <div align="center" class="sidebarpremiumad2_title">Reliable Sitter Wanted for My 3 Children</div>
+<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=275009';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
+  <div align="center" class="sidebarpremiumad1_title">2003 Pontiac Vibe GT</div>
   
-  <div class="sidebarpremiumad2_cont">Reliable sitter wanted for my three children, once or twice a week, on tues. or thurs. from 5:30pm till 9:30pm. Sometimes the occasional sat or sunday...</div>
+  <div class="sidebarpremiumad1_cont">6-speed standard. Power windows, power doors, key fob works. One owner. Mostly highway mileage....</div>
 </div>
-<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=233193';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
-  <div align="center" class="sidebarpremiumad1_title">Multi Family Estate Sales</div>
-  <div align="center" style="overflow:hidden; padding:1px;"><img src="adimgth/233193.jpg" border="0" alt=""></div>
-  <div class="sidebarpremiumad1_cont">We are a yard sale and Estate sale consignment business called, "The Yard Sale Place". We hold yard sales and Estate sales for 20 to 40 fami...</div>
-</div>
-<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=230333';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
-  <div align="center" class="sidebarpremiumad2_title">Paperd Champion Bloodline American Bulldog Puppies</div>
-  <div align="center" style="overflow:hidden; padding:1px;"><img src="adimgth/230333.jpg" border="0" alt=""></div>
-  <div class="sidebarpremiumad2_cont">6 week old papered champion bloodlined American bulldog puppies for sale. Will be ready to go at 8 weeks with puppy papers, vet checked, dew claws rem...</div>
-</div>
-<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=232691';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
-  <div align="center" class="sidebarpremiumad1_title">Great White Pressure Controll Odessa Tx</div>
+<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=274575';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
+  <div align="center" class="sidebarpremiumad2_title">BMW 1976 2002</div>
   
-  <div class="sidebarpremiumad1_cont">Now hiring qualified coil tubing supervisor's, coil tubing operator's, and fluid pump operator's. All applicants must be able to pass a DOT physical, ...</div>
+  <div class="sidebarpremiumad2_cont">BMW classic 1976 '02 - $3900. Burgundy, sunroof, 5 speed. 400k on chassis, 200k on engine rebuild from 1989 &amp; includes Schrick 292 cam. Runs great...</div>
 </div>
-<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=232028';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
-  <div align="center" class="sidebarpremiumad2_title">AKC French Mastiff</div>
+<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=274568';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
+  <div align="center" class="sidebarpremiumad1_title">Comic Books Action Figures</div>
   
-  <div class="sidebarpremiumad2_cont">French Mastiff 13 week old female with AKC Registration. sweetheart, great temperament, and disposition walks on leash started basic training.Not spay...</div>
+  <div class="sidebarpremiumad1_cont">We have a large selection of new and used comics. We also carry action figures Sports memorabilia and autographs . We have used and rare books includi...</div>
 </div>
-<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=229256';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
-  <div align="center" class="sidebarpremiumad1_title">Home in Haughton</div>
+<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=273380';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
+  <div align="center" class="sidebarpremiumad2_title">Convert your notes into cash today!</div>
+  <div align="center" style="overflow:hidden; padding:1px;"><img src="adimgth/273380.jpg" border="0" alt=""></div>
+  <div class="sidebarpremiumad2_cont">ABC FUNDING GROUP:Pays cash for owner-financed mortgages,court settlements,annuities, and lottery payments.Call 1-509-406-7920.Ask for jeremiah willia...</div>
+</div>
+<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=273083';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
+  <div align="center" class="sidebarpremiumad1_title">3 C ELECTRIC, LLC</div>
   
-  <div class="sidebarpremiumad1_cont">Remodeled 3 BR 2 B home in Country Place with community pool and access to club house. Home has large fenced yard and in good school district. Wood fl...</div>
+  <div class="sidebarpremiumad1_cont">Licensed and insured electrical contractor. We offer residential, commercial, and industrial services at great rates. Call for a free for free estimat...</div>
 </div>
-<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=227925';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
-  <div align="center" class="sidebarpremiumad2_title">Great Starter Home</div>
+<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=272175';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
+  <div align="center" class="sidebarpremiumad2_title">2005 PETERBILT 379EXHD</div>
+  <div align="center" style="overflow:hidden; padding:1px;"><img src="adimgth/272175.jpg" border="0" alt=""></div>
+  <div class="sidebarpremiumad2_cont">2005 PETERBILT 379EXHD, Heavy Duty Trucks - Conventional Trucks w/ Sleeper, Air Ride Suspension, All Aluminum Wheels, 272 Wheel Base, Tandem Axle.AMER...</div>
+</div>
+<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=272157';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
+  <div align="center" class="sidebarpremiumad1_title">Ranch Auction</div>
   
-  <div class="sidebarpremiumad2_cont">For sale by owner, 3 bedroom, 1 1/2 bath, 2 car garage, central heat/air, large fenced yard, pergo wood floors in dining room and kitchen, storm windo...</div>
+  <div class="sidebarpremiumad1_cont">DOWNARE BROTHERS AUCTION JUNE 7TH AT 10AM HARTSEL, COLORADO TRACTORS/EQUIPMENT, TRAILERS, ANTIQUES/ WAGONS, TRUCKS/VEHICLES, LIVESTOCK EQUIPMENT, SADD...</div>
 </div>
-<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=225405';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
-  <div align="center" class="sidebarpremiumad1_title">AFFORDABLE: Full service bookkeeping!!</div>
-  <div align="center" style="overflow:hidden; padding:1px;"><img src="adimgth/225405.jpg" border="0" alt=""></div>
-  <div class="sidebarpremiumad1_cont">**ATTENTION SMALL BUSINESS OWNERS** It is now affordable for you to have a billing, payroll and tax service to handle all your financial and administr...</div>
-</div>
-<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=224900';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
-  <div align="center" class="sidebarpremiumad2_title">R&amp;G AUTO CARE ENTERPRIZE</div>
+<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=271461';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
+  <div align="center" class="sidebarpremiumad2_title">2008 SATURN SKY</div>
   
-  <div class="sidebarpremiumad2_cont">Bringing it back to live. Custom Paint Jobs, 3D Extraordinary Airbrush Art Work, Bicycles, Motorcycles, Cars, Planes, Automobiles, Boats. You DREAM it...</div>
+  <div class="sidebarpremiumad2_cont">ONE OWNER CONVERTIBLE BLUE WITH 70,000 MILES. MULTI DISC CD PLAYER, POWER WINDOWS &amp; LOCKS, LEATHER, ON STAR, RUN FLAT TIRES....</div>
 </div>
-<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=221316';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
-  <div align="center" class="sidebarpremiumad1_title">Tractor Tire</div>
+<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=269797';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
+  <div align="center" class="sidebarpremiumad1_title">FIRST DAY CELEBRATE RECOVERY MEETING</div>
   
-  <div class="sidebarpremiumad1_cont">14.9-28 13" rim 4 ply GREAT SHAPE...</div>
+  <div class="sidebarpremiumad1_cont">CENTRAL BAPTIST CHURCH HAS STARTED THE FIRST DAYTIME CELEBRATE RECOVERY MEETING ON MONDAY MORNINGS AT 9:30. COME JOIN US AND GET RID OF THOSE HURTS, H...</div>
 </div>
-<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=170025';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
-  <div align="center" class="sidebarpremiumad2_title">TRIPLE T EXCAVATING - For ALL Your Septic Needs</div>
+<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=269761';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
+  <div align="center" class="sidebarpremiumad2_title">Peaceful NC Mountain Home Between Boone &amp; Ashevill</div>
+  <div align="center" style="overflow:hidden; padding:1px;"><img src="adimgth/269761.jpg" border="0" alt=""></div>
+  <div class="sidebarpremiumad2_cont">Peaceful NC mountain home on 1.5 acres. 3 BR 3 Baths. Electric heat pump...central air. Ideal permanent home or mountain getaway. Nestled on mountains...</div>
+</div>
+<div class="sidebarpremiumad1" style="cursor:pointer;" onclick="location.href='adpage.php?ad=263449';" onmouseover="this.className='sidebarpremiumad1_over';" onmouseout="this.className='sidebarpremiumad1';">
+  <div align="center" class="sidebarpremiumad1_title">Rock climbing holds and climbing equipment</div>
   
-  <div class="sidebarpremiumad2_cont">Septic System Installs and Repairs Locate and Dig Out of Septic Tank Lids and Riser and Lid Installs Lift Station Pump Installs/Replacements Certified...</div>
+  <div class="sidebarpremiumad1_cont">Atomik Climbing Holds specializes in providing the best climbing equipment and manufacturing their own extensive line of climbing holds, system holds,...</div>
+</div>
+<div class="sidebarpremiumad2" style="cursor:pointer;" onclick="location.href='adpage.php?ad=262378';" onmouseover="this.className='sidebarpremiumad2_over';" onmouseout="this.className='sidebarpremiumad2';">
+  <div align="center" class="sidebarpremiumad2_title">Design Landscaping &amp; Lawn care</div>
+  
+  <div class="sidebarpremiumad2_cont">I am James Whitten. I would like to thank you for taking the time to read my advertisement. I have over 20 years of Landscaping experience. I do lawn ...</div>
 </div></div></div>
           </td>
         </tr>
@@ -295,10 +320,10 @@ imgSelect.src="template/select.gif";
  <option value="s59">&nbsp;&nbsp;&nbsp;&nbsp;Auto Parts</option>
  <option value="s80">&nbsp;&nbsp;&nbsp;&nbsp;Heavy Equipment</option>
  <option value="s60">&nbsp;&nbsp;&nbsp;&nbsp;Other Auto Ads</option>
- <option value="c9">Tickets</option><option value="s69">&nbsp;&nbsp;&nbsp;&nbsp;Concerts</option>
- <option value="s70">&nbsp;&nbsp;&nbsp;&nbsp;Sports</option>
- <option value="s71">&nbsp;&nbsp;&nbsp;&nbsp;Theater</option>
- <option value="s72">&nbsp;&nbsp;&nbsp;&nbsp;Other Events</option>
+ <option value="c9">Tickets</option><option value="s69">&nbsp;&nbsp;&nbsp;&nbsp;Concert Tickets</option>
+ <option value="s70">&nbsp;&nbsp;&nbsp;&nbsp;Sports Tickets</option>
+ <option value="s71">&nbsp;&nbsp;&nbsp;&nbsp;Theater Tickets</option>
+ <option value="s72">&nbsp;&nbsp;&nbsp;&nbsp;Tickets for Other Events</option>
  <option value="c6">Real Estate</option><option value="s44">&nbsp;&nbsp;&nbsp;&nbsp;Commercial Properties</option>
  <option value="s45">&nbsp;&nbsp;&nbsp;&nbsp;Homes for Sale</option>
  <option value="s46">&nbsp;&nbsp;&nbsp;&nbsp;Land</option>
@@ -372,7 +397,17 @@ imgSelect.src="template/select.gif";
     </td>
   </tr>
 
+  <tr>
+    <td class="hb2"><img src="template/b.gif" width="1" height="4" border="0"></td>
+  </tr>
+  <tr>
+    <td class="hb1" align="center">
+      <table border="0" cellspacing="0" cellpadding="0">
 
+        <tbody><tr><td class="ffr" align="center">Please help us keep this web site family friendly by reporting any unsafe ad.</td></tr>
+      </tbody></table>
+    </td>
+  </tr>
   <tr>
     <td class="hb2"><img src="template/b.gif" width="1" height="4" border="0"></td>
   </tr>
@@ -400,7 +435,6 @@ var addthis_config = {
 <a class="addthis_button_gmail"></a>
 <a class="addthis_button_yahoomail"></a>
 <a class="addthis_button_preferred_1"></a>
-<a class="addthis_button_preferred_2"></a>
 <a class="addthis_button_compact"></a>
 </div>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f4e001e25d8dd16"></script>
@@ -413,12 +447,8 @@ var addthis_config = {
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script></td>
-<td style="white-space:nowrap; padding-left:5px; vertical-align:bottom;"><style type="text/css">
-/* make the like button smaller */
-.fb_edge_widget_with_comment iframe {width:80px !important;}
-/* but make the span that holds the comment box larger */
-span.fb_edge_comment_widget.fb_iframe_widget iframe {width:401px !important;}
-</style><fb:like href="http://www.american-classifieds.net" send="false" layout="button_count" width="50" show_faces="false" font="verdana"></fb:like></td>
+<td style="white-space:nowrap; padding-left:5px; vertical-align:bottom;">
+<fb:like href="http://www.american-classifieds.net" send="false" layout="button_count" width="50" show_faces="false" font="verdana"></fb:like></td>
 </tr>
 </tbody></table></div>
 
@@ -500,10 +530,10 @@ in order to provide advertisements about goods and services of interest to you.
 </li><li style="padding: 1px 0px 1px 0px;"><a href="index.php?dat=ucat60">Other Auto Ads</a>
 </li></ul><div class="menucat" style="padding: 1px 0px 0px 2px;"><a href="index.php?dat=cat9">Tickets</a></div>
     <ul class="menusubcat">
-<li style="padding: 1px 0px 1px 0px;"><a href="index.php?dat=ucat69">Concerts</a>
-</li><li style="padding: 1px 0px 1px 0px;"><a href="index.php?dat=ucat70">Sports</a>
-</li><li style="padding: 1px 0px 1px 0px;"><a href="index.php?dat=ucat71">Theater</a>
-</li><li style="padding: 1px 0px 1px 0px;"><a href="index.php?dat=ucat72">Other Events</a>
+<li style="padding: 1px 0px 1px 0px;"><a href="index.php?dat=ucat69">Concert Tickets</a>
+</li><li style="padding: 1px 0px 1px 0px;"><a href="index.php?dat=ucat70">Sports Tickets</a>
+</li><li style="padding: 1px 0px 1px 0px;"><a href="index.php?dat=ucat71">Theater Tickets</a>
+</li><li style="padding: 1px 0px 1px 0px;"><a href="index.php?dat=ucat72">Tickets for Other Events</a>
 </li></ul><div class="menucat" style="padding: 1px 0px 0px 2px;"><a href="index.php?dat=cat6">Real Estate</a></div>
     <ul class="menusubcat">
 <li style="padding: 1px 0px 1px 0px;"><a href="index.php?dat=ucat44">Commercial Properties</a>
@@ -589,23 +619,19 @@ in order to provide advertisements about goods and services of interest to you.
 <div class="menucatbox" style="width:160px; margin:25px 0px 0px 5px;">
 <div class="menucat" style="padding: 1px 0px 0px 2px;"><a href="searchstats.php">Recent searches</a></div>
 <ul class="menusubcat">
-<li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=camaro&amp;state=TX">camaro (Texas)</a>
-</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=product+development">product development</a>
-</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=wholesale+auto+parts&amp;state=NY&amp;city=15653&amp;categ=s59">wholesale auto parts (Port Chester NY)</a> - Auto Parts
-</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=truck&amp;state=TX&amp;categ=s53">truck (Texas)</a> - Trucks
-</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=honda&amp;state=TX">honda (Texas)</a>
-</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=yamaha&amp;state=TX">yamaha (Texas)</a>
-</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=tires">tires</a>
-</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=baby&amp;state=TX&amp;city=20719">baby (Killeen TX)</a>
-</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=freezer">freezer</a>
-</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=all&amp;state=AL&amp;categ=c4">all (Alabama)</a> - Merchandise
+<li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=vehicle&amp;state=TX&amp;categ=c7">vehicle (Texas)</a> - Automotive
+</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=trucks&amp;state=TX">trucks (Texas)</a>
+</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=trailer">trailer</a>
+</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=driver">driver</a>
+</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=trailer&amp;state=TX">trailer (Texas)</a>
+</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=mobile+homes">mobile homes</a>
+</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=falcon">falcon</a>
+</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=grand+am&amp;categ=s50">grand am</a> - Cars
+</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=wolf+5027">wolf 5027</a>
+</li><li style="padding: 1px 0px 1px 0px;"><a href="search.php?k=livestock">livestock</a>
 </li></ul>
 </div>
-<div class="menucatbox" style="width:160px; margin:25px 0px 0px 5px;">
-  <div class="extlk" style="padding: 1px 1px 1px 2px;">
-<p>Add your web site to <a href="http://www.abydir.com"><b>AbyDir.com SEO Friendly Directory</b></a></p>
-</div>
-</div>
+
 <div class="rssf" style="width:160px; margin:25px 0px 10px 5px;"><a href="http://www.american-classifieds.net/rss.php"><img src="template/rssfeed.gif" align="top" border="0" alt="RSS Feed"> - Recent ads on American-Classifieds.net</a></div>
           </td>
         </tr>
