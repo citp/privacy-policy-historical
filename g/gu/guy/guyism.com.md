@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guyism.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022154107id_/http%3A//guyism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guyism.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065627id_/http%3A//guyism.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Guyism
 
@@ -16,9 +16,8 @@ We only collect personal information that is relevant to the purpose of our webs
 2\. Automatic Information:  
 • We receive and store certain types of information whenever you interact with us. Guyism and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Guyism cookie information, and the page you requested. Guyism uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
 • Guyism may collect and, on any page, display the total counts that page has been viewed.  
-• Many companies offer programs that help you to visit websites anonymously. While Guyism will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
-
-**E-mail Communications**
+• Many companies offer programs that help you to visit websites anonymously. While Guyism will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.  
+• Third parties may collect certain types of information about visits to your sites, including interaction with content on these sites. 
 
 Guyism is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. Guyism may send out e-mails with Guyism-related news, products, offers, surveys or promotions. 
 
