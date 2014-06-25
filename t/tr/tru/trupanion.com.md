@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trupanion.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208231853id_/http%3A//trupanion.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trupanion.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045637id_/http%3A//trupanion.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Trupanion Privacy Policy | Respecting Privacy and Maintaining Trust
 
@@ -14,11 +14,9 @@ especially when making purchases online.
 
 Trupanion understands the importance of your privacy and security, especially when making purchases online. Trupanion has been a [Better Business Bureau Accredited](https://www.bbb.org/western-washington/business-reviews/insurance-companies/trupanion-in-seattle-wa-22429232 "Click for the Business Review of Trupanion") company since December 2002, and has a **BBB Rating of A+ (2011).** (The highest rating BBB offers.) 
 
-**McAfee and Verisign Secure Site Program**
+**Verisign Secure Site Program**
 
-[ ](https://www.mcafeesecure.com/RatingVerify?ref=www.trupanion.com)
-
-Trupanion’s website also undergoes daily website security tests through [McAfee](https://www.scanalert.com/RatingVerify?ref=www.trupanion.com), a dedicated security technology company, and is a part of the **Verisign Secure Site Program** , an identity and authentication security service. We want to make sure that your information is protected and that you are given the reassurance that you can safely purchase through our website.
+Trupanion’s website also undergoes daily website security tests through **Verisign Secure Site Program** , an identity and authentication security service. We want to make sure that your information is protected and that you are given the reassurance that you can safely purchase through our website.
 
 ### Trupanion Privacy Policy
 
@@ -92,6 +90,6 @@ By opting out, you will stop receiving behavioral target ads from your visits to
 
 **(5) Questions?**
 
-Please feel free to call us at our toll free number at 800.569.7913 if you would like to ask us any questions about this form, or about any of our policies. We look forward to serving all of your insurance needs.
+Please feel free to call us at our toll free number at 888.733.2685 if you would like to ask us any questions about this form, or about any of our policies. We look forward to serving all of your insurance needs.
 
 * Revised August 8, 2012
