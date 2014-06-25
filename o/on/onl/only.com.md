@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the only.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225203050id_/http%3A//shop.bestseller.com/customer-service/privacy-policy/on-cs-privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the only.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130146id_/http%3A//only.com/customer-service/privacy-policy/on-cs-privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy policy - read about privacy policy for ONLY
 
@@ -42,7 +42,7 @@ If you use a link from BESTSELLER's websites to a third-party's website, you sho
 
 Links to remove cookies via browser settings: 
 
-*: BESTSELLER comprises Bestseller A/S, Vila A/S and Bestseller Handels AG
+*: BESTSELLER comprises BESTSELLER A/S, VILA A/S and BESTSELLER HANDELS AG
 
 ###### Security
 
@@ -54,7 +54,7 @@ You are entitled to access data about you which is processed by BESTSELLER HANDE
 
 ###### Change of information or deregistration, etc.
 
-If you want us to update, change or delete personal data which we have registered about you or if you do not want to receive additional messages from us or if you have questions regarding the above guidelines, please contact us at [customerservice@shop.bestseller.com](mailto:customerservice@bestseller.com)
+If you want us to update, change or delete personal data which we have registered about you or if you do not want to receive additional messages from us or if you have questions regarding the above guidelines, please contact us at [customerservice@bestseller.com](mailto:customerservice@bestseller.com)
 
 ###### Transfer to third parties
 
