@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limecrime.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006051319id_/http%3A//limecrime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limecrime.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085357id_/http%3A//limecrime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,10 +31,6 @@ In order to protect the privacy of children on the Internet, we will not knowing
 #### Privacy Notice Changes
 
 This notice replaces all previous disclosures we may have provided you about our information practices. We reserve the right to revise and modify this policy at any time without notice and to apply these changes in policy to information previously collected, where legally permissible. We will notify you of changes by posting the policy changes on our website. This privacy notice was last updated on September 1, 2013.
-
-#### Contact Us
-
-If you have any questions about our privacy notice, please contact us at: info@limecrimemakeup.com. Attention: Website Privacy
 
 The examples contained in our privacy notice are illustrations only, and are not intended to be exhaustive.
 
