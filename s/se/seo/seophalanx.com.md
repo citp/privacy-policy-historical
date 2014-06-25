@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seophalanx.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109222706id_/http%3A//www.seophalanx.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seophalanx.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131053id_/http%3A//www.seophalanx.com/privacy.php) for the most accurate reproduction.*
 
-# Internet Marketing Optimization, Advanced SEO Services, Effective Link Building Service, Search Engine Submission Service
+# Privacy Policy - SEOPhalanx
 
 We, at **SEOPhalanx,** have laid down the following Privacy Policy to offer transparent Search Engine Optimization (SEO) services to our esteemed clients. This policy highlights how we utilize and safeguard any information collected from you at the time of using our website. We are committed to protect your privacy all the time. When SEO Phalanx (hereafter referred to as 'the Company') asks you to submit specific information regarding your proper identification, you can rest assured that your personal information will solely be used according to this privacy policy. The Company reserves the right to alter this policy now and then by updating the page. Clients are advised to read this page at regular intervals to make sure that they are contented with any modifications.
 
