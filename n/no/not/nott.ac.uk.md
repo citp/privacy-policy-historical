@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nott.ac.uk privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212211424id_/http%3A//www.nottingham.ac.uk/utilities/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nott.ac.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110722id_/http%3A//www.nottingham.ac.uk/utilities/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and Cookies - The University of Nottingham
 
@@ -59,16 +59,6 @@ __utmb  |  Used by Google Analytics to track exactly when a user visits a site. 
 __utmc  |  Used by Google Analytics to track exactly when a user leaves a site.  |  This cookie is deleted when you close your browser   
 __utmz  |  Used by Google Analytics to track how a user got to this site (where from), what link was used, what part of the world  |  This cookie is deleted after six months   
 We use analytic information to help us make our website more focussed and better for our website visitors.  You may, however, [opt out of Google Analytics tracking](https://tools.google.com/dlpage/gaoptout?hl=en "Analytics Opt-out at Google") if you prefer.   
-  
-
-
-###  Functionality Cookies:
-
-These cookies allow the website to remember choices you make (e.g. language setting, text size) and provide enhanced, more personal features. They can help provide services such as local weather reports by storing in a cookie the region in which you are currently located. These cookies may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information collected may be anonymous and they cannot track your browsing activity on other websites. 
-
-Cookie Name  |  Purpose  |  Further Information   
----|---|---  
-We do not currently use any Functionality Cookies on the website.     
   
 
 
