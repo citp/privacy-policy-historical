@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tutorialrepublic.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211061130id_/http%3A//www.tutorialrepublic.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialrepublic.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625220920id_/http%3A//www.tutorialrepublic.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The following statements describes the privacy practices for this website.
+The following statements describe the privacy practices for this website.
 
 ## What We Collect
 
@@ -23,9 +23,9 @@ We do not collect Information that could be used to personally identify you, suc
 
 * * *
 
-## Cookies
+## Cookies & 3rd Party Advertisements
 
-We do not use cookies to collect or store personal information, but since we use third-party advertising companies to serve ads when you visit our site, these ads might contain cookies.
+We do not use cookies to collect or store personal information, but since we allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you.
 
 A 'cookie' is a small text file sent to your browser by the web server that enables your computer to access information on a particular website in a faster and more efficient manner.
 
@@ -35,12 +35,12 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 ## External Links
 
-Tutorial Republic may contain links to other websites. Since we do not have any control over these websites, we are not responsible for the protection and privacy of any information which you provide whilst visiting such websites. This privacy statement applies only to Tutorial Republic.
+Tutorial Republic may contain links to other websites. Since we do not have any control over these websites, we are not responsible for the protection and privacy of any information which you provide whilst visiting such websites.
 
-We encourage you to review the privacy statements of each and every website that collects personally identifiable information.
+This privacy policy applies only to Tutorial Republic. We encourage you to review the privacy statements of each and every website that collects personally identifiable information.
 
 * * *
 
-## Contacting Us
+## Questions?
 
-For any questions about this privacy statement, please [contact us](https://web.archive.org/web/20131211061130id_/http%3A//www.tutorialrepublic.com/contact-us.php).
+If you have any questions or concerns about this Privacy Statement, please [contact us](https://web.archive.org/web/20140625220920id_/http%3A//www.tutorialrepublic.com/contact-us.php).
