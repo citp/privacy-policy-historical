@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the authoritywebsiteincome.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914203520id_/http%3A//authoritywebsiteincome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authoritywebsiteincome.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113900id_/http%3A//authoritywebsiteincome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **See the exact 7 steps I used  
-to generate over $200/month   
-in under 3 months - [click here](http://authoritywebsiteincome.com/exclusive)   
+to generate over $3,000/month  
+in less than 10 months!  
+[click here](http://authoritywebsiteincome.com/exclusive)   
 (100% free)**
 
 **Privacy Policy for authoritywebsiteincome.com**
