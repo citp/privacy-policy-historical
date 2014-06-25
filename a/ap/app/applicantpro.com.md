@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applicantpro.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020073151id_/http%3A//www.applicantpro.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applicantpro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625153921id_/http%3A//www.applicantpro.com/privacy.htm) for the most accurate reproduction.*
 
 # ApplicantPro Privacy Policy - ApplicantPro
 
