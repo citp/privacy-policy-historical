@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixteenventures.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228212951id_/http%3A//sixteenventures.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixteenventures.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625163332id_/http%3A//sixteenventures.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SaaS Growth Strategies
 
@@ -6,7 +6,7 @@ This is our Privacy Policy for SixteenVentures.com
 
 We Last Updated it on February 3, 2013
 
-_**TL:DR**_ – At Sixteen Ventures, we are serious about protecting your online privacy and we’re gonna do everything in our power to keep your information private (since we worked so hard to get it in the first place!). However, if the feds ask for it, it’s theirs, man… you’re on your own. Also… stuff happens and if it gets out into the wild, sorry… it was an accident and we didn’t mean to but we also can’t be held responsible.
+ _ **TL:DR**_ – At Sixteen Ventures, we are serious about protecting your online privacy and we’re gonna do everything in our power to keep your information private (since we worked so hard to get it in the first place!). However, if the feds ask for it, it’s theirs, man… you’re on your own. Also… stuff happens and if it gets out into the wild, sorry… it was an accident and we didn’t mean to but we also can’t be held responsible.
 
 “I can’t be held responsible  
 She was touching her face  
@@ -29,7 +29,7 @@ Oh yeah, and if the cops ask for anything about you, we totally reserve the righ
 
 ## Section 1: Collected Information
 
-_**TL:DR**_ – We collect tons of information on you as you navigate this here site. We do it. Everyone else does it. It’s a scene, man.
+ _ **TL:DR**_ – We collect tons of information on you as you navigate this here site. We do it. Everyone else does it. It’s a scene, man.
 
 We automatically collect and/or track this stuff:
 
@@ -37,7 +37,7 @@ Web page http headers (home server domain names, IP address, type of client comp
 
 ## Section 2: Use of Data Collected
 
-_**TL:DR**_ – We’re going to use the data we collect from you – either explicitly or through your actions – to advertise stuff to you so you’ll buy it. The theory is, the more specifically we target you the more likely you are to want what we’re selling and it won’t be incongruent with what you’re doing. At least its an ethos.
+ _ **TL:DR**_ – We’re going to use the data we collect from you – either explicitly or through your actions – to advertise stuff to you so you’ll buy it. The theory is, the more specifically we target you the more likely you are to want what we’re selling and it won’t be incongruent with what you’re doing. At least its an ethos.
 
 We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in.
 
@@ -47,7 +47,7 @@ Did you know that just by using this site, you agree that you may be contacted i
 
 ## Section 3: Disclosure of Data to Third Parties
 
-_**TL:DR**_ – If the man asks for your deets, and we think they’re onto something, we’ll squeal. If we think we can make money by doing a joint venture with someone or letting them contact you in exchange for a fee… we’re all over that. We’ll let other people look at the information we have on you, but only if they pay us… we’ll work diligently to prevent those who don’t pay us from accessing your info.
+ _ **TL:DR**_ – If the man asks for your deets, and we think they’re onto something, we’ll squeal. If we think we can make money by doing a joint venture with someone or letting them contact you in exchange for a fee… we’re all over that. We’ll let other people look at the information we have on you, but only if they pay us… we’ll work diligently to prevent those who don’t pay us from accessing your info.
 
 If you choose to provide personal information, it will be used for the following purposes:
 
@@ -59,7 +59,7 @@ We reserve the right to share, rent, sell, or otherwise disclose data we collect
 
 ## Section 4: Your Opt-Out Rights
 
-_**TL:DR**_ – You say the word and we won’t _ever_ contact you again, ever.
+ _ **TL:DR**_ – You say the word and we won’t _ever_ contact you again, ever.
 
 You may opt-out of receiving communications from us and/or our partners by not submitting your information.
 
@@ -67,7 +67,7 @@ We also allow you to remove your information from our marketing lists. If you re
 
 ## Section 5: We Do Not Intend to Collect Data from Children
 
-_**TL:DR**_ – Sixteen Ventures is a B2B consulting firm and we do business with other businesses and individuals in business; we do not do business with children under 18. Besides, no one under 18 should even be interested in what we do here and if they are they should go outside and play.
+ _ **TL:DR**_ – Sixteen Ventures is a B2B consulting firm and we do business with other businesses and individuals in business; we do not do business with children under 18. Besides, no one under 18 should even be interested in what we do here and if they are they should go outside and play.
 
 The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside Sixteen Ventures.
 
@@ -87,7 +87,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 ## Section 9: Anti Spam Policy. Can-Spam Act Compliance
 
-_**TL:DR**_ – Guess what? We know the CAN-SPAM act better than you. We live it every day for our business, and the business of our clients. We don’t violate it… period.
+ _ **TL:DR**_ – Guess what? We know the CAN-SPAM act better than you. We live it every day for our business, and the business of our clients. We don’t violate it… period.
 
 Sixteen Ventures is dedicated to ensuring compliance with the ‘Can-Spam Act’, which took effect January 1, 2004. You may receive email from sixteenventures.com in the following circumstances:
 
@@ -95,7 +95,7 @@ Sixteen Ventures is dedicated to ensuring compliance with the ‘Can-Spam Act’
   * Requests for additional information to support your current application
   * Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers
   * Response to your inquiries regarding the status of your transactional requests
-  * __Advertisements for our products, services, changes in services, new product availability__
+  *  _ _Advertisements for our products, services, changes in services, new product availability__
   * Thanking you for your valued business
 
 
