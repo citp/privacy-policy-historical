@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 9rasa.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915092525id_/http%3A//9rasa.com/static/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9rasa.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625180915id_/http%3A//9rasa.com/static/privacy-policy.htm) for the most accurate reproduction.*
 
 # privacy-policy
 
-#### PRIVACY POLICY OF 9RASA.COM
+####  PRIVACY POLICY OF 9RASA.COM
 
   * a. Feel comfortable using our website
   * b. Feel secure submitting information to us
