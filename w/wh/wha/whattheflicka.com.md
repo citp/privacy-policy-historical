@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whattheflicka.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208180013id_/http%3A//whattheflicka.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whattheflicka.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071555id_/http%3A//whattheflicka.com/privacy-policy) for the most accurate reproduction.*
 
-# Felicity Huffman’s What The Flicka? | A Site For Moms & Women | What The Flicka?
+# - What The Flicka?
 
 **1.   Intro:**Welcome to the family of Digital Media Management, Inc. (“DMM”) websites and other digital properties.  In the course of using our sites, we may collect certain information about you.  The following terms are meant to provide you an overview of our policies and practices regarding information we may collect.
 
