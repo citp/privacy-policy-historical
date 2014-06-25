@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevideoink.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117052843id_/http%3A//www.thevideoink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevideoink.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625213234id_/http%3A//www.thevideoink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VideoInk
 
@@ -118,6 +118,14 @@ VideoInk may disclose Information (including Personally Identifying Information)
 Advertisers may use the information collected to display advertisements that are tailored to your interests or background and/or associate such information with your subsequent visits, purchases or other activities on other websites. Advertisers may also share this information with their clients or other third parties.
 
 **_Analytics Providers:   _**In addition, VideoInk may use third party analytics providers and products to obtain, compile and analyze Information (that may include Personally Identifying Information) about how users are using and interacting with the Services. VideoInk may provide Information (including Personally Identifying Information) to these analytics providers for the purpose of obtaining such analytics. These analytics providers may use tracking techniques other than HTTP cookies to recognize your computer or device and/or to collect or compile this information. **_VideoInk assumes no responsibility for the technologies, tools or practices of its Advertisers or analytics providers_** _._
+
+_**Disclosures for Google Services Used By VideoInk:**_
+
+_**Google Analytics:  **_Please see a list of Google Analytics’ [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web.
+
+_**Google Analytics for Display Advertising**_ : Using the [Ads Settings](https://www.google.com/settings/ads), users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+
+_**Google  DoubleClick Campaign Manager Integration**:_  VideoInk and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to users’ visits to the VideoInk site.
 
 **Security and Protection of Personally Identifying Information**
 
