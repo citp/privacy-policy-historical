@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the safc.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102060132id_/http%3A//www.safc.com/hygiene-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063450id_/http%3A//www.safc.com/hygiene-pages/privacy-policy) for the most accurate reproduction.*
 
 # SAFC - Privacy Policy
 
-Published:   
+Published: 17 August, 2012  
 by Administrator 
 
 This Website is owned and operated by Sunderland Association Football Club Limited ("SAFC").
