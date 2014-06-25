@@ -1,39 +1,9 @@
-> *The following text is extracted and transformed from the 365celebrations.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365celebrations.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625151335id_/http%3A//www.365celebrations.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
-|   | 
+| 
 
-PhD in Yourself System   
-
-  * [What is PhD in Yourself System?](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/system/what_PhD_system.html)
-  * [Benefits of the System](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/system/benefits.html)
-  * [ How to Learn the System ](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/system/learn_system.html)
-  * [Support](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/system/support.html)
-  * [Purchase](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/purchase.html)  
-[ ](https://web.archive.org/web/20131023133421id_/http%3A//articles/main.html)[   
-](https://web.archive.org/web/20131023133421id_/http%3A//articles/main.html)
-
-
-
-Partners
-
-  * [Resellers](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/Partners/resellers.html)
-  * [Coachers](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/Partners/coachers.html)
-  * [Corporations](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/Partners/corporations.html)
-
-
-  * [Communities](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/Partners/communities.html)
-
-
-
-|   
----  
-  
-|   
----  
-   
-  
 **Privacy Policy**  
 
 
@@ -102,66 +72,5 @@ The Author reserves the right to change and update this Policy from time to time
 
 Your continued use of the Author's web sites following the posting of changes to these terms will mean you accept those changes.
 
-** ** |  |  |   
----  
-  
-Taste My Ideas
-
-[\- Do You Accept Yourself?](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Do_you_accept_yourself.html)
-
-[\- Man and Woman: Dive Totally Into Love](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Man_and_Woman_%20Dive_Totally_Into_Love.html)
-
-[\- The Emptiness of Greed](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Emptiness_greed.html)
-
-[\- Awareness Cannot Be Planned  
-](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Awareness_cannot_be_planned.html)  
-[\- Does Meditation Need Any Method?   
-](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Does_meditation_need_any_method.html)  
-[\- Is Life Perfect or Imperfect?](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Is_life_perfect_or_imperfect.html)
-
-[\- Can You Really Drop the Negative? **  
-** ](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Can_you_really_drop_the_negative.html)  
-[\- Dive Existentially Into the Phenomenon of Anger](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Dive_existentially_into_phenomenon_of_anger.html)  
-[  
-](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Grass_greener.html)[\- The Grass is Always Greener on Your Own Side   
-](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Grass_greener_on_your_side.html)  
-[\- The Mystery of Inner Emptiness  
-](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Mystery_of_inner_emptiness.html)  
-[\- Man and Woman: The Anthem of Love   
-](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Man_and_Woman_%20Anthem_of_Love.htm)  
-[\- Man and Woman: When Honeymoon Never Ends   
-](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Man_and_Woman_When_Honeymoon_Never_Ends.html)  
-[\- Man and Woman: The Dance of Life ](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Man_and_Woman_Dance_of_Life.htm) [  
-](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Man_and_Woman_Dance_of_Life.htm)  
-[\- Allow Nature to Flow Through You ](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Allow_nature_flow_through_you.html)[  
-](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Allow_nature_flow_through_you.html)  
-[\- Optimal Physical Activity](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Optimal_physical_activity.html)  
-  
-[\- Are You The Master of Your Mind?](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Are_you_the_master_of_your_mind.html)[  
-](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Are_you_the_master_of_your_mind.html)  
-[\- From Positive Thinking to Awareness](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/From_Positive_Thinking_to_Awareness.html)
-
-[  
-](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/From_Positive_Thinking_to_Awareness.html)  
-[\- A Jump Into Sudden Meditation  
-](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Jump_Into_Sudden_Meditation.html)  
-
-
-[\- A Dance of the Inner and The Outer Reality  
-](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Dance_Inner_Outer_Reality.html)  
-[\-  Whether to Fly or Remain on the Earth?  
-](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Whether_Fly_Or_Remain_On_the_Earth.html)  
-[\- Have an Abundance of Both Worlds   
-](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Have_Abundance_Both_Worlds.html)  
-
-
-|    
----  
-   
-  
-Have a Suggestion?
-
-[Email me](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/contact.html) your ideas on how to make this site more interesting, valuable and useful for YOU.
-
-   
- 
+** ** |   
+---|---|---
