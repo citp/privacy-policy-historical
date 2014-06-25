@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rapradar.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921061235id_/http%3A//rapradar.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapradar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075059id_/http%3A//rapradar.com/privacy-policy) for the most accurate reproduction.*
 
-# Rap Radar :: Privacy Policy
+# Privacy Policy | Rap Radar
 
 **Effective March 9, 2009:**
 
-This privacy policy (the “Privacy Policy’) of RapRadar.com , owned and/or operated by Makavelliot, LLC (the “Company”) describes the privacy practices for the Company’s web site, located at the domain name [http://www.rapradar.com](http://www.rapradar.com/) (the “Site”).  The purpose of this Privacy Policy is to inform you about the types of information we gather about you when you visit this Site, information we may receive from third parties or affiliates, how we may use that information, whether we disclose that information to anyone, and the choices you have regarding our use of, and your ability to correct, the information.  By using this Site, you are agreeing to the terms of this Privacy Policy.  DO NOT USE THIS SITE IF YOU DO NOT AGREE TO THIS PRIVACY POLICY.
+This privacy policy (the “Privacy Policy’) of RapRadar.com , owned and/or operated by Makavelliot, LLC (the “Company”) describes the privacy practices for the Company’s web site, located at the domain name www.rapradar.com (the “Site”).  The purpose of this Privacy Policy is to inform you about the types of information we gather about you when you visit this Site, information we may receive from third parties or affiliates, how we may use that information, whether we disclose that information to anyone, and the choices you have regarding our use of, and your ability to correct, the information.  By using this Site, you are agreeing to the terms of this Privacy Policy.  DO NOT USE THIS SITE IF YOU DO NOT AGREE TO THIS PRIVACY POLICY.
 
 The Company supports the protection of individual privacy and strives to help its supporters and other visitors of the Site protect their privacy while using our Site.  The Company wants to make your online experience satisfying and safe.
 
