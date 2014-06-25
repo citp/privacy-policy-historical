@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dropr.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602174243id_/http%3A//dropr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropr.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100709id_/http%3A//dropr.com/legal/privacy) for the most accurate reproduction.*
 
-# Dropr - Privacy
+# Dropr Privacy Policy
 
 This privacy policy sets out how Dropr uses and protects any information that you give Dropr when you use this website.
 
@@ -31,6 +31,7 @@ We require this information to understand your needs and provide you with a bett
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
   * We may use the information to customise the website according to your interests.
+  * We do not store credit card details nor do we share customer details with any 3rd parties.
 
 
 
