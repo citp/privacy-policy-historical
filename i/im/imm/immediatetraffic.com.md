@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immediatetraffic.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201010723id_/http%3A//immediatetraffic.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immediatetraffic.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053843id_/http%3A//immediatetraffic.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Boost Web Traffic, Increase Web Traffic, Instant Traffic for Your Website
 
