@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiftthemes.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208032036id_/http%3A//swiftthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftthemes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051345id_/http%3A//swiftthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,3 +64,5 @@ We are not responsible for the practices employed by websites linked to or from 
 #### Your Consent
 
 By using this site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on this site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it
+
+Swift was first developed for personal use when Satish's hosting provider complained about the resourses his site was using. 
