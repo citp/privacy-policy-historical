@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213161450id_/http%3A//www.guildportal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110908id_/http%3A//www.guildportal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GuildPortal | WoW, SW:ToR, GW 2, LOTRO, Rift | Guild Hosting
 
