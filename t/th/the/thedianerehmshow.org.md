@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedianerehmshow.org privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219113910id_/http%3A//wamu.org/about/website/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedianerehmshow.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110530id_/http%3A//wamu.org/about/website/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | WAMU 88.5 - American University Radio
 
