@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the job-hunt.org privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907100933id_/http%3A//www.job-hunt.org/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-hunt.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120221id_/http%3A//www.job-hunt.org/privacypolicy.shtml) for the most accurate reproduction.*
 
 # The Privacy Policy for Job-Hunt.Org
 
 **On this page:** Job-Hunt's information collection and use/sharing practices with Opt-Out directions and contact information. 
-
- 
 
 At Job-Hunt, we are committed to being a trustworthy partner in your job search. You can visit Job-Hunt.Org as often as you want without telling us who you are or revealing any personal information about yourself.
 
@@ -13,14 +11,6 @@ At Job-Hunt, we are committed to being a trustworthy partner in your job search.
 **Server Log Files:** We use IP addresses to analyze trends, administer the site, track user movements from page to page to understand what our visitors like and don't like, and gather broad demographic information for aggregate use (e.g. browser used, monitor resolution, etc.). IP addresses are not linked to personally identifiable information. 
 
 ### Information Collected Actively
-
-**Subscriber E-mail Addresses:**
-
-We offer our visitors the opportunity to voluntarily sign-up/subscribe ("opt-in") to receive the [Online Job-Hunting Guide Newsletter](https://web.archive.org/web/20130907100933id_/http%3A//www.job-hunt.org/whynews.shtml), our free e-mail newsletter. A visitor wishing to receive the newsletter must complete a form to give us their e-mail address. We use [MailChimp.com](http://www.mailchimp.com/) to manage these e-mail addresses. They are used only to fulfill subscription requests. We will never knowingly cause you to receive unsolicited commercial e-mail (a.k.a. "spam") as a result of your subscription to our newsletter.
-
-**Opt-Out:**
-
-Participation in the newsletter is completely voluntary and may be terminated by the subscriber at any time by clicking on the Unsubscribe link at the bottom of every newsletter, or sending us an "unsubscribe" message from the un-subscribing email address to [remove@Job-Hunt.Org](mailto:subscriptions@job-hunt.org) or by replying to a newsletter with the word "remove" in the subject line. Please note we cannot remove an email address unless it is provided by the person wishing to unsubscribe it.
 
 **Shared Data:**
 
@@ -52,7 +42,7 @@ This web site contains links to other sites. Please be aware that Job-Hunt.Org i
 
 We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. Job-Hunt.Org is not responsible for the privacy practices or the content of such Web sites. Before adding those sites to Job-Hunt's categorized lists of links, each site is evaluated to see if they protect the privacy of their visitors and, particularly, their job applicants. We do not knowingly add sites that treat applicant information casually. However, a site _may change_ its policies and practices after being added to Job-Hunt. 
 
-Please read [Protecting Your Privacy](https://web.archive.org/web/20130907100933id_/http%3A//www.job-hunt.org/privacy.shtml), [ Choosing a Job Site](https://web.archive.org/web/20130907100933id_/http%3A//www.job-hunt.org/choosing.shtml), and our [Disclaimer](https://web.archive.org/web/20130907100933id_/http%3A//www.job-hunt.org/disclaimer.html) regarding these sites.
+Please read [Protecting Your Privacy](https://web.archive.org/web/20140625120221id_/http%3A//www.job-hunt.org/privacy.shtml), [ Choosing a Job Site](https://web.archive.org/web/20140625120221id_/http%3A//www.job-hunt.org/choosing.shtml), and our [Disclaimer](https://web.archive.org/web/20140625120221id_/http%3A//www.job-hunt.org/disclaimer.html) regarding these sites.
 
 **Cookies:**
 
