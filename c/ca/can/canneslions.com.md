@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canneslions.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218201815id_/http%3A//www.canneslions.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canneslions.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054552id_/http%3A//www.canneslions.com/privacy_cookies_policy) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy | Cannes Lions International Festival of Creativity
+# Cannes Lions 2014
 
 ### 1\. Introduction
 
@@ -8,7 +8,7 @@
 
 1.2 Lions Festivals is committed to protecting the privacy of its users and the purpose of this Privacy Policy is to describe to you how Lions Festivals will use personal information about you that is submitted to Lions Festivals. 
 
-1.3 By providing your personal information to Lions Festivals, you consent to the collection and use of it and any other information provided to Lions Festivals in accordance with this Privacy Policy. If at any time you wish to change the uses of your personal information to which you have consented, please contact us at [security@lionsfestivals.com](mailto:security@lionsfestivals.com)[](mailto:security@emap.com).
+1.3 By providing your personal information to Lions Festivals, you consent to the collection and use of it and any other information provided to Lions Festivals in accordance with this Privacy Policy. If at any time you wish to change the uses of your personal information to which you have consented, please contact us at [security@lionsfestivals.com](mailto:security@lionsfestivals.com).
 
 1.4 Lions Festivals may revise this Privacy Policy at any time by posting an update on its website(s). Please ensure that you check this website and any other Lions Festivals website(s) you use from time to time to review the then current Privacy Policy and to update your preferences. This Privacy and Cookies Policy was last updated in November 2012.
 
