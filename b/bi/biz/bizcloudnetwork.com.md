@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizcloudnetwork.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014084905id_/http%3A//bizcloudnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizcloudnetwork.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141305id_/http%3A//bizcloudnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # BizCloud Privacy Policy | BizCloud® Network
 
