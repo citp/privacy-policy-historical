@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornopin.me privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113065024id_/http%3A//pornopin.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornopin.me privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055935id_/http%3A//pornopin.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PornoPin.me
+# Privacy Policy | Amateur Porn Images Home Made Teen Pictures Porno NSFW Photos XXX Vids
 
 #### Privacy Policy – PornoPin.me
 
