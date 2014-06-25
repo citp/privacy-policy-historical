@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sukar.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211182146id_/http%3A//www.sukar.com/ae-en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sukar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051354id_/http%3A//www.sukar.com/ae-en/privacy.php) for the most accurate reproduction.*
 
 # Sukar.com
 
