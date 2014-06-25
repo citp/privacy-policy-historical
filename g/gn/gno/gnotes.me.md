@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnotes.me privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010231617id_/https%3A//www.gnotes.me/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnotes.me privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081542id_/http%3A//www.gnotes.me/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GNotes | GNotes
 
