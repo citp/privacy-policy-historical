@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the job-street.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029112151id_/http%3A//job-street.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-street.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625224646id_/http%3A//job-street.com/privacy_policy) for the most accurate reproduction.*
 
-# JobStreet - Your Path to a Better Job
+# Job-Street - Your Path to a Better Job
 
 ## Privacy Policy
 
@@ -19,7 +19,7 @@ Please read this entire Policy carefully before using this Site or providing us 
 If you have any questions about this Policy please contact us via e-mail at info@Job-Street.com.
 
 Electronic:  
-To opt out and unsubscribe from e-mail communications, [click here](https://web.archive.org/unsubscribe)  
+To opt out and unsubscribe from e-mail communications, please send an email with "UNSUBSCRIBE" in the subject to support@job-street.com  
 To cancel or correct your personal information: send an email with your User Name and the notice "My User Information" in the subject line to info@Job-Street.com  
 To express or ask questions regarding privacy concerns: send an email to info@Job-Street.com 
 
