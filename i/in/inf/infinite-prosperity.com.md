@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinite-prosperity.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929020932id_/http%3A//infinite-prosperity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinite-prosperity.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625180306id_/http%3A//infinite-prosperity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@
 ## 
 
 **  
-Last Updated: 29 June 2012**
+Last Updated: 12th March 2014  **
 
 Infinite Prosperity Australia Pty. Ltd. understands and appreciates that you, as an Infinite Prosperity Australia Pty. Ltd. website visitor, are concerned about the confidentiality and security of information that Infinite Prosperity Australia Pty. Ltd. may collect about you. Infinite Prosperity Australia Pty. Ltd. is committed to providing you with a range of investment resources and information on our services within a secure and confidential on-line environment. Our privacy statement sets out:
 
