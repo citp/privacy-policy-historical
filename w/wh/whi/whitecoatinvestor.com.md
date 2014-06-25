@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitecoatinvestor.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213202918id_/http%3A//whitecoatinvestor.com/contact/privacy-policy-for-the-white-coat-investor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitecoatinvestor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123017id_/http%3A//whitecoatinvestor.com/contact/privacy-policy-for-the-white-coat-investor) for the most accurate reproduction.*
 
 # Privacy Policy For The White Coat Investor | The White Coat Investor- Investing And Personal Finance Information For Physicians, Dentists, Residents, Students, And Other Highly-Educated Busy Professionals
 
@@ -17,3 +17,5 @@
 >  _You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.   However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts._
 > 
 > _AdSense Privacy Policy Provided by[JenSense](http://www.jensense.com/)_
+
+[](http://whitecoatinvestor.com/contact/privacy-policy-for-the-white-coat-investor/?print=pdf)[](http://whitecoatinvestor.com/contact/privacy-policy-for-the-white-coat-investor/?print=print)
