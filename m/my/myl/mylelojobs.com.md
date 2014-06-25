@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylelojobs.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210131128id_/http%3A//www.mylelojobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylelojobs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104901id_/http%3A//www.mylelojobs.com/privacy.php) for the most accurate reproduction.*
 
 # Mylelo Jobs-Latest Jobs in Nigeria
 
