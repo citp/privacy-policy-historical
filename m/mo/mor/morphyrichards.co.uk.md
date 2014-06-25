@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805220704id_/http%3A//www.morphyrichards.co.uk/support/morphy-richards-support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053636id_/http%3A//www.morphyrichards.co.uk/support/morphy-richards-support/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,7 +94,7 @@ Information that you provide by filling in forms on our website, such as when yo
 
 #### 4\. Emails
 
-4.1 If you are an existing customer, we will only contact you by email with information about products and services similar to those which were the subject of a previous sale to you. You may opt out of receiving this information at any time by following the instructions on the email. 
+4.1 If you are an existing customer, we will only contact you by email with information about products and services similar to those which were the subject of a previous sale to you. To opt out of marketing emails from Morphy Richards, you can click on the ‘unsubscribe’ link located at the bottom of all our marketing emails. 
 
 4.2 We will not otherwise email you unless (a) you have specifically given your consent in response to “opt-in” boxes etc or (b) in response to your emails to us. We will not pass on your email address to any third parties unless you have specifically consented to this. 
 
