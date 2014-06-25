@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mom.me privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205200652id_/http%3A//mom.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mom.me privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043546id_/http%3A//mom.me/privacy-policy) for the most accurate reproduction.*
 
 # mom.me
 
-BermanBraun Interactive, LLC – Privacy Policy
+BermanBraun Interactive, LLC d/b/a Whalerock Industries – Privacy Policy
 
-**Effective Date: August 15, 2013**
+**Effective Date: March 17, 2014**
 
-Mom.me is owned and operated by BermanBraun Interactive, LLC ("Mom.me" or "we" or "us"). Mom.me is strongly committed to protecting your privacy and providing a safe online experience for all of our users. This Privacy Policy (the "Policy") discusses the Personally Identifiable Information ("PII") and other information that we may collect about you through Mom.me’s website, which includes all of the Mom.me articles, videos, and other services we provide on the website (collectively, the "Site"). Please read the complete Policy below and contact us if you have any questions. This Policy is part of and incorporated into the Terms of Use of the Site.
+Mom.me is owned and operated by BermanBraun Interactive, LLC d/b/a Whalerock Industries ("Mom.me" or "we" or "us"). Mom.me is strongly committed to protecting your privacy and providing a safe online experience for all of our users. This Privacy Policy (the "Policy") discusses the Personally Identifiable Information ("PII") and other information that we may collect about you through Mom.me's website, which includes all of the Mom.me articles, videos, and other services we provide on the website (collectively, the "Site"). Please read the complete Policy below and contact us if you have any questions. This Policy is part of and incorporated into the Terms of Use of the Site.
 
 If you are not comfortable with this Policy or our Terms of Use, please do not provide us with PII, or other information or content, or otherwise use the Site.
 
@@ -46,7 +46,7 @@ As mentioned above, we may use persistent, identifying cookies to remember your 
 
 **Promotions, Sweepstakes, and Contests**. From time to time, we may host a promotion, sweepstake, or contest on the Site. You may be asked to provide PII or permit the transfer to a third party of your PII, user-generated content, or other information in connection with such promotion, sweepstakes, or contest. It will be disclosed at the point of collection or transfer who is collecting or transferring the information and whose privacy statement applies, and it will be your choice whether or not you wish to permit such transfer or collection of PII or other information to a third party.
 
-**Children.** It is important to protect children on the Internet. Parents and guardians should educate their children about protecting themselves online, teach their children how to safeguard their personal information, and monitor their children’s online activities. We do not intend to and will not knowingly collect information from children under 13 online and, as stated in our Terms, children under 13 are not allowed to use the Site or sign up for a member account. If you are a parent or guardian and discover that your child under 13 years-of-age has obtained an account on the Site, then you may alert us at privacy@bermanbraun.com and request that we delete that child’s personally identifiable information from our systems.
+**Children.** It is important to protect children on the Internet. Parents and guardians should educate their children about protecting themselves online, teach their children how to safeguard their personal information, and monitor their children’s online activities. We do not intend to and will not knowingly collect information from children under 13 online and, as stated in our Terms, children under 13 are not allowed to use the Site or sign up for a member account. If you are a parent or guardian and discover that your child under 13 years-of-age has obtained an account on the Site, then you may alert us at privacy@whalerockindustries.com and request that we delete that child’s personally identifiable information from our systems.
 
   * **What Does mom.me Do With Collected Information?**
 
@@ -119,13 +119,13 @@ We integrate social media application program interfaces or plug-ins ("Plug-ins"
 
 We utilize the self-assessment approach to assure our compliance with the Policy. We periodically verify that the Policy is accurate, comprehensive for the information intended to be covered, prominently displayed, and completely implemented. We encourage interested persons to raise any concerns with us using the contact information below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of PII in accordance with the principles contained in this Policy.
 
-**Privacy Concerns**. If you have any concern or complaint about privacy on the Site, please contact us at BermanBraun Interactive, LLC, Attn: Business & Legal Affairs, 2900 West Olympic Boulevard, Third Floor, Santa Monica, California 90404, U.S.A or email us at [privacy@bermanbraun.com](mailto:privacy@bermanbraun.com). We will do our best to respond to you in a timely and professional manner in order to answer your questions and resolve your concerns.
+**Privacy Concerns**. If you have any concern or complaint about privacy on the Site, please contact us at BermanBraun Interactive, LLC d/b/a Whalerock Industries, Attn: Business & Legal Affairs, 2900 West Olympic Boulevard, Third Floor, Santa Monica, California 90404, U.S.A or email us at [privacy@whalerockindustries.com](mailto:privacy@whalerockindustries.com). We will do our best to respond to you in a timely and professional manner in order to answer your questions and resolve your concerns.
 
 **Customer Services**. For customer service matters (including questions relating to this Policy), you may email via our contact form.
 
 Mom.me is a trademark of BermanBraun Interactive, LLC in the United States and other countries.
 
-Copyright © 2013. BermanBraun Interactive, LLC
+Copyright © 2014. BermanBraun Interactive, LLC d/b/a Whalerock Industries. All Rights Reserved
 
 stay in the knowfollow mom.me
 
@@ -136,26 +136,26 @@ stay in the knowfollow mom.me
 
 from our partnersfrom:
 
-  * [Toddler Temper Tantrums: Falling Apart in Public](http://crowdignite.momtastic.com/v/28355/520780115/0/1/39148487?user_id=72b99f6112b861788b6046323dcab0d1&slot=0&referp=0)
-  * [What To Expect When You're (Gay And) Expecting](http://crowdignite.momtastic.com/v/28355/519746111/0/1/39431109?user_id=72b99f6112b861788b6046323dcab0d1&slot=1&referp=0)
-  * [The Importance Of Folic Acid During Pregnancy](http://crowdignite.momtastic.com/v/28355/394990437/0/1/39757773?user_id=72b99f6112b861788b6046323dcab0d1&slot=2&referp=0)
+  * [The Best Guacamole Recipes](http://www.kitchendaily.com/read/best-guacamole-recipes)
+  * [8 Essential Cooking Hacks](http://www.kitchendaily.com/read/8-essential-cooking-hacks)
+  * [A Special Giveaway! (Plus, 12 Easy Dinners for Any Night)](http://www.kitchendaily.com/read/special-giveaway-plus-12-easy-dinners-any-night)
 
 from: 
 
-  * [5 Reasons You’re Not Losing Your Baby Weight](http://www.fitpregnancy.com/workouts/postnatal-workouts/5-reasons-youre-not-losing-your-baby-weight)
-  * [Celebrity Pregnancies](http://www.fitpregnancy.com/motherhood/celebs/celebrity-pregnancies-0)
-  * [Celebrity New Moms](http://www.fitpregnancy.com/motherhood/celebs/celebrity-new-moms)
+  * [The trend report: Overalls are back in a big way](http://www.stylelist.com/view/trend-report-overalls-back/)
+  * [Major sale alert: Must-haves from the Shopbop sale](http://www.stylelist.com/view/major-sale-alert-shopbop-sale/)
+  * [Juicy Couture is closing all U.S. stores](http://www.stylelist.com/view/juicy-couture-closing-doors-for-good/)
 
 from:
 
-  * [20 Kid-Friendly Ideas For Your Christmas Cookie Exchange](http://feedproxy.google.com/~r/lilsugar/~3/fK3WORgBnEs/26085826)
-  * [12 Splurge-Worthy Kids' Gifts Worth Every Penny!](http://feedproxy.google.com/~r/lilsugar/~3/_t6gVQlVpxY/26189273)
-  * [POPSUGAR Shout Out: Chic Finds For Unbelievable Prices](http://feedproxy.google.com/~r/lilsugar/~3/dijEmwItegI/32811660)
+  * [20 Adorable Outfits For Baby's Homecoming](http://feedproxy.google.com/~r/lilsugar/~3/Ql6l6Hd9txs/Outfits-Newborns-Wear-Home-From-Hospital-4501971)
+  * [Kristen Bell Is Expecting Baby No. 2!](http://feedproxy.google.com/~r/lilsugar/~3/LZL6vAlUmZ0/Kristen-Bell-Pregnant-Style-27034026)
+  * [41 Outdoor Activities to Get Kids Out of the House This Summer](http://feedproxy.google.com/~r/lilsugar/~3/xhWt6UhkY0U/Outdoor-Activities-Kids-Summer-30688762)
 
 from:
 
-  * [Best Animal Moments of 2013](http://www.pawnation.com/2013/12/05/best-animal-moments-of-2013/)
-  * [Winter Safety Q&A](http://www.pawnation.com/2013/12/05/winter-safety-qanda/)
-  * [Russian Dog Dances to '80s Music](http://www.pawnation.com/2013/12/04/russian-dog-dances-to-80s-music/)
+  * [Expert Answers to Pet Travel Questions](http://www.pawnation.com/2014/05/27/expert-answers-to-pet-travel-questions/)
+  * [Dog Has Trouble Catching Treats in Mid-Air](http://www.pawnation.com/2014/05/27/dog-has-trouble-catching-treats-in-mid-air/)
+  * [Daily GIFs: May 27, 2014](http://www.pawnation.com/2014/05/27/daily-gifs-may-27-2014/)
 
 
