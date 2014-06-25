@@ -1,59 +1,89 @@
-> *The following text is extracted and transformed from the schiffvitamins.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231135212id_/http%3A//www.schiffvitamins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schiffvitamins.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141352id_/http%3A//www.schiffvitamins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Schiff Vitamins
 
-### What this Privacy Policy Covers
+**I.   ** **Privacy Statement**
+
+Reckitt Benckiser LLC (USA) ("Reckitt Benckiser LLC") Privacy Statement for Public Web Sites
+
+  * What this Privacy Policy Covers
+  * Personally Identifiable Information
+  * Children’s Privacy
+  * Linked Sites
+  * Non Personally Identifiable Information Collected Automatically
+  * Information We May Place Automatically on Your Computer’s Hard Drive
+  * Interest-Based Ads
+  * How Your Information is Protected
+  * Who to Contact
+  * How You Can Update or Change Your Information
+  * U.S. - EU Safe Harbor and the U.S.-Swiss Safe Harbor  Framework 
+  * Revisions to this Privacy Policy
+  * Contact Us
+
+
+
+**1\. What this Privacy Policy Covers**
 
 Reckitt Benckiser LLC (USA) ("Reckitt Benckiser LLC") respects the privacy of every individual who visits our sites or responds to our interactive advertisements. This Privacy Policy outlines the information Reckitt Benckiser LLC will collect and how we will use that information. This Policy will also instruct you on what to do if you do not want your personal information collected or shared when you visit Reckitt Benckiser LLC sites or respond to our advertisements.
 
-### Personally Identifiable Information
+**2\. Personally Identifiable Information**
 
 Reckitt Benckiser LLC will not collect any personally identifiable information about you (that is, your name, address, telephone number, or email address) unless you provide it to us voluntarily. For example, and not by limitation, we may collect personally identifiable information when you make a purchase, participate in a contest or sweepstakes promotion; fill out a questionnaire; sign up for a survey or otherwise interact with us.
 
-When you provide personally identifiable information to us, we may ask if you want to receive future communication from us, such as newsletters, email or other information. You can choose not to receive this communication, if you wish and you may opt-out by clicking on the link on the bottom of an email you received or by clicking here. If you do not want your personally identifiable information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please click here to provide us with the email address.
+When you provide personally identifiable information to us, we may ask if you want to receive future communication from us, such as newsletters, email or other information. You can choose not to receive this communication, if you wish and you may opt-out by clicking on the link on the bottom of an email you received or by [clicking here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=2087003840&n=9). If you do not want your personally identifiable information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please [click here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=2087003840&n=9) to provide us with the email address.
 
 In addition to providing you with the service or information you request on our site, your personally identifiable information may also be used to help us track the way you use our site and our products. We may also combine the information you provide with information that we collect separately, including information you have provided to other organizations as well as public information. All of this will help us, for instance, better design our products, web sites and advertisements. In order to do this, we may also share your information with companies who carry out work for us. Information may be shared with service providers who provide services for or administer activities on behalf of Reckitt Benckiser LLC (such as, but not limited to, authorization of credit card and check transactions, sweepstakes, promotions and contests. Information you submit to one or more of the Reckitt Benckiser LLC brands may be shared with another of the Reckitt Benckiser LLC brands. Your personally identifiable information may also be shared with service providers who warehouse product, perform order fulfillment or provide hosting services. These companies have agreed to only use your information in the way we tell them and to have procedures in place to protect the information.
 
-In the event a division or Reckitt Benckiser LLC, or its assets, is bought or sold, personally identifiable information may be included among the transferred business assets.
+In the event a division or Reckitt Benckiser LLC, or its assets, is bought or sold, including through a sale in bankruptcy, personally identifiable information may be included among the transferred business assets.
 
-Reckitt Benckiser LLC may disclose specific personally identifiable information if it determines that such disclosure is necessary to comply with the law or to protect the safety of the public. This includes exchanging personally identifiable information with other companies and organizations for fraud protection and credit risk reduction. 
+Reckitt Benckiser LLC may disclose specific personally identifiable information if it determines that such disclosure is necessary to comply with the law or to protect the safety of the public. This includes exchanging personally identifiable information with other companies and organizations for fraud protection and credit risk reduction.
 
-If we intend to share your information with an unaffiliated company, other than as set out above, we will contact you first and give you the opportunity to remove your information from our database.
+If we intend to share your information with an unaffiliated company, other than as set out above, we will give you the opportunity to remove your information from our database.
 
-### Children’s Privacy
+**3\. Children’s Privacy**
 
-Reckitt Benckiser LLC does not knowingly solicit or collect personally identifiable information (that is, name, address, telephone number, or email address) from individuals under the age of thirteen years. Where appropriate, Reckitt Benckiser LLC will specifically instruct children not to submit such information on our sites or advertisements. If a child has provided us with personally identifiable information, a parent or guardian of that child should [click here](mailto:consumer.relations@rbnorthamerica.com) to provide us with the email address if they would like this information deleted from our records. Reckitt Benckiser LLC will take all reasonable measures to delete such information from its database and to not use such information for any purpose (except where necessary to protect the safety of the child or others or as required by law.)
+Reckitt Benckiser LLC does not knowingly solicit or collect personally identifiable information (that is, name, address, telephone number, or email address) from individuals under the age of thirteen years. Where appropriate, Reckitt Benckiser LLC will specifically instruct children not to submit such information on our sites or advertisements. If a child has provided us with personally identifiable information, a parent or guardian of that child should [click here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=2087003840&n=9) to provide us with the email address if they would like this information deleted from our records. Reckitt Benckiser LLC will take all reasonable measures to delete such information from its database and to not use such information for any purpose (except where necessary to protect the safety of the child or others or as required by law.)
 
-### Linked Sites
+**4\. Linked Sites**
 
-The Reckitt Benckiser LLC web site(s) may contain links to other sites . The privacy policies at these other sites may be different from this one. You should refer to the privacy policy of any site linked to or framed within a Reckitt Benckiser LLC site, or when you are leaving a Reckitt Benckiser LLC site or site(s) for information and the privacy policy pertaining to that site.
+The Reckitt Benckiser LLC web site(s) may contain links to other sites. The privacy policies at these other sites may be different from this one. You should refer to the privacy policy of any site linked to or framed within a Reckitt Benckiser LLC site, or when you are leaving a Reckitt Benckiser LLC site or site(s) for information and the privacy policy pertaining to that site.
 
-### Non-Personally Identifiable Information Collected Automatically
+**5\. Non-Personally Identifiable Information Collected Automatically**
 
 In some cases, we may collect information about you that is not personally identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the site from which you linked to our site or advertisement. We use this information for the purposes of better understanding our customer's interests and to help improve our business and sites.
 
-### Information We May Place Automatically On Your Computer's Hard Drive
+**6\. Information We May Place Automatically On Your Computer's Hard Drive**
 
 When you view one of our sites or advertisements, we may store some information on your computer. For example, this information may be in the form of a "Cookie" or similar file that will allow us to tailor a site or advertisement to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions. Please note that removing or blocking Cookies may interfere with your full use of our site. You may need to download applications and readjust your security settings to access some or all of the information on one or more of the Reckitt Benckiser LLC site(s).
 
-### How Your Personal Information is Protected
+**7\. Interest-Based Ads**
+
+We may partner with third-party service providers to serve ads on our behalf on non-affiliated third party sites. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information we or the online advertising network serving the ad collect about your online activities here and elsewhere over time. For example, anonymous information collected across multiple sites that you visit over time may enable the ad network to predict your preferences and show you ads that are most likely to be of interest to you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf.
+
+To opt out of these types of ads, please visit the Network Advertising Initiative for information about how to opt-out of interest-based advertising by their members. See [http://www.networkadvertising.org](http://www.networkadvertising.org/) for general information about the NAI and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/consumers/> to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
+
+**8\. How Your Personal Information is Protected**
 
 Reckitt Benckiser LLC uses industry standard security techniques to help protect against the loss, misuse or alteration of information collected from you at a Reckitt Benckiser LLC site. When you transmit personally identifiable information, that information is stored on servers that Reckitt Benckiser LLC has attempted to secure from unauthorized access or intrusion. Of course, the Reckitt Benckiser LLC sites cannot be and are not responsible for unauthorized access to information by hackers who have obtained such access through illegal measures.
 
-### Who to Contact
+**9\. Who to Contact**
 
-If you have submitted personally identifiable information through a Reckitt Benckiser LLC site or interactive advertisement, and would like that information modified, changed or deleted from our records, please [click here](mailto:consumer.relations@rbnorthamerica.com) to provide us with the email address.
+If you have submitted personally identifiable information through a Reckitt Benckiser LLC site or interactive advertisement, and would like that information modified, changed or deleted from our records, please [click here](mailto:consumer.relations@rbnorthamerica.com) to provide us with the email address. Removal from our database will also include opt-out of the disclosure of your information to third parties for their direct marketing purposes.
 
-### How can you Update or Change your Information
+**10\. How Can You Update or Change Your Information**
 
-If at any time you want to update or change your information, you may contact us by sending an email by [clicking here](mailto:consumer.relations@rbnorthamerica.com?subject=Please%20Update%20My%20Information) If have received an email and you would like to opt-out of receiving future emails, please click on the opt-out link at the bottom of that email. If you would like to be removed from our database and you have not received an email, please [click here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=2087003840&n=9) to opt-out.
+If at any time you want to update or change your information, you may contact us by sending an email by [clicking here](mailto:consumer.relations@rbnorthamerica.com?subject=Please%20Update%20My%20Information). If have received an email and you would like to opt-out of receiving future emails, please click on the opt-out link at the bottom of that email. If you would like to be removed from our database and you have not received an email, please [click here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=2087003840&n=9) to opt-out.
 
-### U.S. - EU Safe Harbor Framework
+**11\. U.S. - EU Safe Harbor and the U.S.-Swiss Safe Harbor Framework**
 
-Reckitt Benckiser LLC adheres to the U.S. Department of Commerce Safe Harbor Principles concerning the transfer of personal data from the European Union to the U.S., and has committed to handling such personal information in accordance with our US - EU Safe Harbor Privacy Statement.
+Reckitt Benckiser LLC adheres to the U.S. Department of Commerce Safe Harbor Principles concerning the transfer of personal data from the European Union and Switzerland to the U.S., and has committed to handling such personal information in accordance with our [Safe Harbor Privacy Statement](https://web.archive.org/safe-harbor).
 
-For more information regarding the Safe Harbor Principles, please visit the U.S. Department of Commerce's website at [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+For more information regarding the Safe Harbor Principles, please visit the U.S. Department of Commerce's website at [www.export.gov/safeharbor.](http://www.export.gov/safeharbor)
 
-### Revisions to this Privacy Policy
+**12\. Revisions to this Privacy Policy**
 
-We may modify this Privacy Policy and you should therefore periodically visit this page to be sure that you have read and agree with our most current Privacy Policy. This Privacy Policy was last revised on 05/03/2005 and is effective as of 9/15/2005.
+We may modify this Privacy Policy and you should therefore periodically visit this page to be sure that you have read and agree with our most current Privacy Policy. This Privacy Policy is effective as of June 2, 2014.
+
+**13\. Contact Us**
+
+If you have any questions or concerns about any aspect of this policy, please contact us at [consumer.relations@rbnorthamerica.com](mailto:consumer.relations@rbnorthamerica.com) or at RB, LLC, P.O. Box 224, Parsippany, NJ 07054-0224.
