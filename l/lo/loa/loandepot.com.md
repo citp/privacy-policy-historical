@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loandepot.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911164829id_/http%3A//www.loandepot.com/Content/Public/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loandepot.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073123id_/http%3A//www.loandepot.com/Content/Public/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -34,6 +34,8 @@ We collect information about you to help us serve your financial needs, to provi
   * Financial information such as your income, assets and liabilities, as well as information about your savings, investments, insurance and business.
 
 
+
+loanDepot does not alter its behavior or change its services upon receiving Do Not Track requests.
 
 Typically, we collect this information on applications and other forms you complete, through conversations you may have with our loan originators and processors, with our other representatives, and in some cases, over our website. We may also collect information from a wide range of other sources in order to process and/or underwrite your loan. These sources may include among others, employers, attorneys, banks, title insurers, insurance companies and credit reporting agencies.
 
