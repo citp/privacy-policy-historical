@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lollywollydoodle.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005095422id_/http%3A//www.lollywollydoodle.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lollywollydoodle.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081852id_/http%3A//www.lollywollydoodle.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Lolly Wolly Doodle — Privacy Policy
+# Privacy Policy – Lolly Wolly Doodle
 
 Effective January 9, 2012
 
