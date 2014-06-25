@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amfastech.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128064205id_/http%3A//www.amfastech.com/p/we-stay-with-our-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amfastech.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070900id_/http%3A//www.amfastech.com/p/we-stay-with-our-policies.html) for the most accurate reproduction.*
 
-# Privacy Policy | Amfas Tech
+# Privacy Policy | Amfas Tech | Passion for Technology
 
 This Privacy Policy governs the manner in which Amfas Tech collects, uses, maintains and discloses information collected from users (each, a "User") of the <http://www.amfastech.com/> website ("Site"). This privacy policy applies to the Site and all products and services offered by Amfas Tech.
 
