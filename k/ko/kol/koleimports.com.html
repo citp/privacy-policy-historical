@@ -1,374 +1,686 @@
-<!--The following is the downloaded HTML source of the koleimports.com privacy policy that was archived on 2013-09-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130924021409id_/http%3A//www.koleimports.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the koleimports.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625092333id_/http%3A//www.koleimports.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-    <title>Privacy Policy - Kole Imports - Wholesale Merchandise</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQ8HVVNRGwEGUFVVBgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<title>Privacy Policy  - Kole Imports - Wholesale Merchandise and Closeout Supplier</title>
+<meta name="description" content="Kole Imports is a leading wholesale merchandise and closeout supplier of discount merchandise in the United States and offers wholesale merchandise, closeouts and products for all kinds of stores">
+<meta name="keywords" content="Wholesale Merchandise, Wholesale Closeouts, Discount Merchandise, Los Angeles Wholesaler, Buy Wholesale, General Merchandise, Wholesale General Merchandise, KoleImports">
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="http://d25u8nkd07a44f.cloudfront.net/media/favicon/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://d25u8nkd07a44f.cloudfront.net/media/favicon/default/favicon.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://www.koleimports.com/js/blank.html';
+    var BLANK_IMG = 'http://www.koleimports.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.koleimports.com/skin/frontend/enterprise/koleimports/css/koleimports-upgrade.css" media="all">
+<script type="text/javascript" src="http://www.koleimports.com/js/core.combined.min.js"></script>
+<script type="text/javascript" src="http://www.koleimports.com/skin/frontend/enterprise/default/js/scripts.js"></script>
+<script type="text/javascript" src="http://www.koleimports.com/skin/frontend/enterprise/default/js/enterprise/catalogevent.js"></script>
+<script type="text/javascript" src="http://www.koleimports.com/skin/frontend/enterprise/koleimports/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="http://www.koleimports.com/skin/frontend/enterprise/koleimports/js/jquery.simplecarousel.js"></script>
+<script type="text/javascript" src="http://www.koleimports.com/skin/frontend/enterprise/koleimports/js/koleimports.js"></script>
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://www.koleimports.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://www.koleimports.com/skin/frontend/enterprise/default/js/iehover-fix.js"></script>
+<![endif]-->
+<!--[if (gt IE 8)|(!IE)]><!-->
+<link rel="stylesheet" type="text/css" href="http://www.koleimports.com/skin/frontend/enterprise/koleimports/css/koleimports.css" media="all">
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="http://www.koleimports.com/skin/frontend/enterprise/koleimports/css/koleimports-ie78.css" media="all" />
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.koleimports.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["AW","BS","BZ","CK","DM","GQ","FJ","HK","IE","JM","MO","ML","MR","AN","PA","KN","LC","SA","TT","TV","VU"];
+//]]>
+</script>
+<!-- BEGIN GOOGLE ANALYTICS CODEs -->
+<script type="text/javascript">
+//<![CDATA[
+    var _gaq = _gaq || [];
     
-    <meta name="description" content="KoleImports is a leading dollar store merchandise supplier of 99 cent store items in the United States and offers wholesale merchandise closeouts and products for dollar stores.">
-    <meta name="keywords" content="99 Cent Store, Open A Dollar Store, Dollar Store Merchandise, Wholesale Closeouts, Dollar Store Supplier, Dollar Stores,Wholesale Merchandise, KoleImports">
+_gaq.push(['_setAccount', 'UA-1303027-1']);
+
+_gaq.push(['_trackPageview']);
     
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    
-    <link rel="stylesheet" type="text/css" href="/assets/css/screen.0.8.css" media="screen, projection">
-    
-    <link rel="stylesheet" type="text/css" href="/assets/css/print.css" media="print">
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
 
-    <!--[if lte IE 9]>
-        <meta http-equiv="imagetoolbar" content="false" />
-        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
-    <![endif]-->    
-    <!--[if lte IE 8]>
-    	<link rel="stylesheet" type="text/css" href="/assets/css/ie.css" media="screen, projection"/>
-    <![endif]-->
-    <!--[if lt IE 7]>
-    	<link rel="stylesheet" type="text/css" href="/assets/css/ie6.css" media="screen, projection"/>
-    <![endif]-->
-    <!--[if lt IE 6]>
-    	<link rel="stylesheet" type="text/css" href="/assets/css/ie5.css" media="screen, projection"/>
-    <![endif]-->
-
-</head>
-
-<body>
-
-<div id="col-2-a" class="container">
-
-	<div id="masthead">
-		
-		<h1>
-			<a href="http://www.koleimports.com" title="Return to homepage">Kole Imports <em>your profit source</em></a>
-		</h1>	
-		
-		<ul class="like-buttons">
-			<li>
-				<div class="fb-like" data-href="http://www.facebook.com/pages/Kole-Imports/97355315869" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-font="arial"></div>
-			</li>
-            <li>
-                <div class="g-plusone" data-size="medium" data-href="http://koleimports.com"></div>
-            </li>
-		</ul>
-		
-        <ul id="quick-nav">
-			<li>Call Us: <strong>(800)874-7766</strong> or <strong>(310)834-0004</strong></li>
-			<li><a href="http://www.koleimports.com/faqs.html">FAQ's</a></li>
-            <li><a href="http://blog.koleimports.com" title="Closeouts and General Merchandise Blog">Blog</a></li>
-			<li><a href="http://www.koleimports.com/commerce/Login.asp">Login</a></li>
-			<li><a href="http://www.koleimports.com/commerce/Register.asp">Register</a></li>
-		</ul>
-		
-		<div id="search-box">
-			<form method="get" action="http://www.koleimports.com/commerce/CatalogHome.asp">
-				
-				<label for="hiddenSearchVal">Product Search: </label>
-
-				<input type="text" name="hiddenSearchVal" id="hiddenSearchVal" class="text">
-				
-				<select name="hiddenRequestType">
-					<option value="2">Description</option>
-    				<option value="1">Item Number</option>
-				</select>
-				
-				<input type="submit" id="submit" value="Search">
-			
-			</form>
-		</div>
-
-	</div>
-
-	<div id="primary">
-		<ul id="nav">
-			<li id="nav-home"><a href="http://www.koleimports.com" title="Return to homepage">Home</a></li>
-			<li id="nav-browse"><a href="http://www.koleimports.com/commerce/CatalogHome.asp" title="Browse our wholesale catalog">Browse our wholesale Catalog</a></li>
-			<li id="nav-specials"><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=8" title="View our wholesale specials">Wholesale Specials</a></li>
-			<li id="nav-dollar"><a href="http://www.koleimports.com/dollarstore/tradeshows.html" title="View our Trade Show Calendar">Trade Show Calendar</a></li>
-			<li id="nav-contact"><a href="http://www.koleimports.com/contact.html" title="Contact us" class="selected">Contact Us</a></li>
-		</ul>
-		
-		<h2 class="clear">Kole Imports Privacy Policy</h2>
-        
-	<div class="sidenote">
-
-		<div class="notice">
-			<h3>How do we protect your privacy?</h3>
-			<p>We use industry standard SSL (secure socket layer) technology while transmitting your personal information. To verify this, you can click on the Go-Daddy.com certified seal below. </p>
-            <p><span id="btn-validate">
-           <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=1412550532074ef7889127116f361c2a117fc601302286536355290871"></script>
-            
-            </span></p>
-		</div>
-	
-	</div>
-
-		
-		<div class="content">
-        <p class="small">Last Updated: May 4th, 2009</p>
-		<p>At Kole Imports ("Kole"), visitor privacy is of paramount importance. This is information about how Kole uses personal identifying information visitors provide Kole. "Personal identifying information" is information that individually identifies a person, such as name, physical address, email address, and telephone numbers.</p>
-
-		<h4>Data collection</h4>
-
-		<p>Kole asks for some personal information in order to create an account. Visitors are required to register to be able to see prices and to order merchandise. Registering visitors are asked for the following information; required fields will have * next to them:</p>
-
-		<ul>
-			<li>A login name* and password* (which visitors will use in the future to access their account)</li>
-			<li>Business Name*</li>
-			<li>Contact First Name*</li>
-			<li>Contact Last Name*</li>
-			<li>Phone Number*</li>
-			<li>Email Address (visitors can uncheck a box asking for permission to send emails in the future)</li>
-			<li>I sell General Merchandise* (visitors must answer "yes" or "no" to this question)</li>
-			<li>How did you find us? (visitors fill in an answer)</li>
-			<li>If you have talked to one of our sales reps before, please select their name from this list.</li>
-		</ul>
-
-		<p>If a visitor places an order, Kole asks for the ordering visitor's billing and shipping address. The visitor is given the option to enter a purchase order number and any special notes about the order. Kole uses that information to provide the service.</p>
-
-		<p>Once registered, a customer is allowed to see prices and quantities, and to put items into a shopping cart. Customers/visitors receive an automatically generated email from the sales representative who is assigned to the customer's account.</p>
-
-		<p>Registered customers also can see the items in their purchase history, and in general, their last prices paid for items, if applicable.</p>
-
-		<h4>Cookies</h4>
-
-		<p>Kole uses cookies for certain functions necessary to service its customers. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. Kole uses cookies for the following functions:</p>
-
-		<ul>
-			<li>To hold the items the customer has placed into a shopping cart during an ordering session.</li>
-			<li>To store the sales representative code assigned to a customer.</li>
-			<li>To store a referral identification.</li>
-			<li>To store a registration code for the customer. A registration code is a unique customer number generated by the Kole site to identify each customer.</li>
-		</ul>
-        
-		<p>All visitors/customers can reset their browsers to refuse all cookies or to indicate when a cookie is being sent. However, some Kole web site features or services may not function properly without cookies.</p>
-
-		<h4>Information sharing</h4>
-
-		<p>Except as stated below, Kole does not share any personally identifying information with any other company or individual.</p>
-
-		<p>Kole does use a third-party company, Hostway, to maintain its server and site. Hostway does not share with any other company or individual any of the personally identifying information provided by Kole. By using Kole's services, visitors/ customers consent to transmission of their personally identifying information to Hostway as necessary for Kole to maintain its site and provide service to its customers. Kole reserves its right to replace Hostway with another third-party who performs similar services.</p>
-
-		<h4>Information security</h4>
-
-		<p>Customer information is maintained on-site in a Microsoft SQL Server 2000 database, hosted by a computer at Hostway, running Microsoft Windows 2000 Server. The database is password protected. Hostway is responsible for both the physical security of the computer and for maintaining operating system security. Some customer data is transferred securely from that server to a computer at Kole Imports, which is secure and password protected.</p>
-
-		<h4>Updating Customer Information</h4>
-
-		<p>Customers cannot update their information online. Any customer who wishes to update information must contact Kole directly.</p>
-
-		<h4>Changes to this Policy</h4>
-
-		<p>Please note this privacy policy may change from time to time. We expect that any such changes would be minor, but there may be changes that are more significant. We will post changes to this page, and we will provide a more prominent notice of any significant changes. We will archive prior versions of the privacy policy with a link for visitor access.</p>
-
-		<h4>Contact</h4>
-
-		<p>E-mail contact at Kole Imports for questions regarding privacy policy: brian@koleimports.com.</p>
-
-		<p>Brian Winkelman <br>
-		</p><p>Web Manager, Kole Imports <br>
-		</p><p>24600 S. Main Street, Carson, CA 90745 <br>
-		</p><p>(800)874-7766 ext. 195</p>
-
-		</div>
-	</div>
-	
-	<div id="secondary">
-		<h2>Shop By Department</h2>
-		<ul>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=20&amp;hiddenCatIDToOpen=20" title="Wholesale Apparel">Apparel</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=75&amp;hiddenCatIDToOpen=75" title="Wholesale Automotive Supplies">Automotive Supplies</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=65&amp;hiddenCatIDToOpen=65" title="Wholesale Baby">Baby</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=33&amp;hiddenCatIDToOpen=33" title="Wholesale Bed &amp; Bath">Bed &amp; Bath</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=35&amp;hiddenCatIDToOpen=35" title="Wholesale Candles &amp; Scents">Candles &amp; Scents</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=82&amp;hiddenCatIDToOpen=82" title="Wholesale Cosmetics">Cosmetics</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=50&amp;hiddenCatIDToOpen=50" title="Wholesale Crafts">Crafts</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=56&amp;hiddenCatIDToOpen=56" title="Wholesale Electronics">Electronics</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=45&amp;hiddenCatIDToOpen=45" title="Wholesale Erotic">Erotic</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=21&amp;hiddenCatIDToOpen=21" title="Wholesale Fashion Accessories">Fashion Accessories</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=61&amp;hiddenCatIDToOpen=61" title="Wholesale Games">Games</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=41&amp;hiddenCatIDToOpen=41" title="Wholesale Gift Wrapping">Gift Wrapping</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=81&amp;hiddenCatIDToOpen=81" title="Wholesale Hair Care">Hair Care</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=71&amp;hiddenCatIDToOpen=71" title="Wholesale Hardware">Hardware</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=83&amp;hiddenCatIDToOpen=83" title="Wholesale Health Care">Health Care</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=32&amp;hiddenCatIDToOpen=32" title="Wholesale Home Decor">Home Decor</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=31&amp;hiddenCatIDToOpen=31" title="Wholesale Household Supplies">Household Supplies</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=22&amp;hiddenCatIDToOpen=22" title="Wholesale Jewelry">Jewelry</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=23&amp;hiddenCatIDToOpen=23" title="Wholesale Key Chains">Key Chains</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=30&amp;hiddenCatIDToOpen=30" title="Wholesale Kitchen &amp; Dining">Kitchen &amp; Dining</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=36&amp;hiddenCatIDToOpen=36" title="Wholesale Lighting">Lighting</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=37&amp;hiddenCatIDToOpen=37" title="Wholesale Outdoor Living">Outdoor Living</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=40&amp;hiddenCatIDToOpen=40" title="Wholesale Party Supplies">Party Supplies</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=80&amp;hiddenCatIDToOpen=80" title="Wholesale Personal Care">Personal Care</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=85&amp;hiddenCatIDToOpen=85" title="Wholesale Pet Supplies">Pet Supplies</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=34&amp;hiddenCatIDToOpen=34" title="Wholesale Photo Storage &amp; Display">Photo Storage &amp; Display</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=46&amp;hiddenCatIDToOpen=46" title="Wholesale Promo Pallets">Promo Pallets</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=43&amp;hiddenCatIDToOpen=43" title="Wholesale Religious">Religious</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=55&amp;hiddenCatIDToOpen=55" title="Wholesale School &amp; Office Supplies">School &amp; Office Supplies</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=51&amp;hiddenCatIDToOpen=51" title="Wholesale Scrapbooking">Scrapbooking</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=42&amp;hiddenCatIDToOpen=42" title="Wholesale Seasonal">Seasonal</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=52&amp;hiddenCatIDToOpen=52" title="Wholesale Sewing &amp; Needlecrafts">Sewing &amp; Needlecrafts</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=66&amp;hiddenCatIDToOpen=66" title="Wholesale Sporting Goods">Sporting Goods</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=70&amp;hiddenCatIDToOpen=70" title="Wholesale Tools">Tools</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=60&amp;hiddenCatIDToOpen=60" title="Wholesale Toys">Toys</a></li>
-			<li><a href="http://www.koleimports.com/commerce/CatalogHome.asp?hiddenRequestType=3&amp;hiddenCatID=84&amp;hiddenCatIDToOpen=84" title="Wholesale Vision Care">Vision Care</a></li>
-		</ul>
-		<a href="http://www.koleimports.com/team-kole-cares.html" style="display:block;margin:18px 0 18px 10px;"><img src="http://www.koleimports.com/assets/images/team-kole-cares.gif" style="display:block;margin:0;" alt="Team Kole Cares" height="90" width="220"></a>
-        <a href="http://www.koleimports.com/faqs.html" title="Need Help? Contact Customer Support." id="btn-support">Need Help? Contact Customer Support.</a>
-		<a href="http://www.promopallets.com" title="View our displays on promopallets.com" id="btn-displays">View our displays on promopallets.com</a>
-		<a href="http://www.koleimports.com/video.html?KeepThis=true&amp;TB_iframe=true&amp;height=332&amp;width=396" title="Alan Mendelson's Best Deals TV Show" class="thickbox" id="btn-bestdeals" rel="nofollow">Watch our feature on Alan Mendelsons Best Deals TV Show.</a>
-	</div>
-
-	<div id="pre-footer">
-		<div id="twitter_wrapper">
-        	<h2>Latest twitter updates</h2>
-        	<p>Exclusive specials, one-time deals, and closeout alerts.</p>
-            <ul>
-            	<li id="follow_us"><a href="http://twitter.com/koleimports" title="Follow Us On Twitter" target="_blank"><img src="http://www.koleimports.com/assets/images/followus.png" alt="Follow Us" width="110" height="28"> </a></li>
-                <li id="twitter_info"><a href="http://www.koleimports.com/twitter.html?TB_iframe=true&amp;height=200&amp;width=250" title="What is Twitter?" class="thickbox">What is Twitter?</a></li>
-            </ul>
-            <img src="http://www.koleimports.com/assets/images/bird.gif" width="104" height"89"="" alt="Twitter Bird" id="twitter_bird">
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script></head>
+<body class=" cms-page-view cms-privacy">
+    <div id="desktop"></div>
+    <div id="phone"></div>
+    <div id="tablet"></div>
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
         </div>
-        
-        <div id="facebook_wrapper">
-        	<h2>Friend us on Facebook</h2>
-        	<p>Become a friend of ours on facebook for special deals.</p>
-            <ul>
-            	<li id="friend_us"><a href="http://www.facebook.com/pages/Kole-Imports/97355315869" title="Friend Us on Facebook"><img src="http://www.koleimports.com/assets/images/friendus.png" alt="Friend Us" width="110" height="28"> </a></li>
-            </ul>
-		</div>
-        
+    </noscript>
+    <div class="page">
+        <div class="header">
+
+    <div class="top">
+        <div class="inner">
+            <div class="left">
+                <p><a href="/contact-us"><strong>Want a Kole Imports Salesperson to Contact You?</strong></a></p>            </div>
+
+            <div id="google_translate_element"></div>
+            <script type="text/javascript">
+	var cartSubTotal = '0';
+</script>
+<div class="top-cart ">
+
+    <a class="cart-icon" href="http://www.koleimports.com/checkout/cart/">
+        <span id="cart-qty" class="spinner">0</span>
+    </a>
+    <a class="checkout-button" href="http://www.koleimports.com/checkout/cart/">Checkout</a>
+
+    <div class="show-element-click-child" id="top-cart-content">
+        <div class="nipple"></div>
+        <div class="close-button hide-element-click" hide="#top-cart-content"></div>
+        <h3>Added to Cart</h3>
+        <div class="product-container">
+            <img>
+            <div class="right">
+                <h4>Product Name</h4>
+                <p>Item # <span class="sku"></span></p>
+                <div class="grid">
+                    <div class="heading">Price:</div><div class="detail price">$0.00</div>
+                    <div class="heading">Quantity:</div><div class="detail qty">0</div>
+                    <div class="heading">Subtotal:</div><div class="detail total">$0.00</div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+        <div class="buttons">
+            <a class="button blue hide-element-click" hide="#top-cart-content">Keep Shopping</a>
+            <a class="button green" href="http://www.koleimports.com/checkout/cart/">Checkout</a>
+            <div class="clear"></div>
+        </div>
     </div>
 
-	<div id="footer">
-		<div id="foot-links">	
-			<div class="foot-mod">
-				<h4>Customer Support</h4>
-				<ul>
-					<li><a href="http://www.koleimports.com/faqs.html">FAQ's</a></li>
-					<li><a href="http://www.koleimports.com/Term_of_sale.htm">Return Policy</a></li>
-					<li><a href="http://www.koleimports.com/dollarstore/tradeshows.html">Our Trade Show Schedule</a></li>
-					<li><a href="http://www.koleimports.com/EMPLOYMENT/Employee.htm">Employment</a></li>
-				</ul>
-				<h4>Vendors</h4>
-				<ul>
-					<li><a href="http://www.koleimports.com/vendors/VendorLogin.aspx">Overseas Suppliers</a></li>
-				</ul>
-			</div>
-			<div class="foot-mod">
-				<h4>About Kole Imports</h4>
-				<ul>
-					<li><a href="http://www.koleimports.com/dollarstore/about.html">Company Information</a></li>
-					<li><a href="http://www.koleimports.com/companyhistory.html">History</a></li>
-					<li><a href="http://www.koleimports.com/dollarstore/companytour.html">Tour the Showroom</a></li>
-					<li><a href="http://www.koleimports.com/contact.html">Contact Us</a></li>
-				</ul>
-				<h4>Legal Information</h4>
-				<ul>
-					<li><a href="http://www.koleimports.com/privacy.html">Privacy Policy</a></li>
-					<li><a href="http://www.koleimports.com/Term_of_sale.htm">Terms of Sale</a></li>
-				</ul>
-			</div>
-			<div class="foot-mod">
-				<h4>Resources</h4>
-				<ul>
-					<li><a href="http://www.dollarwholesaler.com/OpenAStore.htm">Opening a Dollar Store?</a></li>
-					<li><a href="http://www.dollarwholesaler.com/WholesaleMerchandiseSources.htm">Other Great Wholesale Suppliers</a></li>
-					<li><a href="http://www.dollarwholesaler.com/CreditCardCompanies.htm">Wholesale Merchant Accounts</a></li>
-					<li><a href="http://www.dollarwholesaler.com/POSsystems.htm">Point of sale systems</a></li>
-					<li><a href="http://www.dollarwholesaler.com/StoreFixtures.htm">Dollar Store Fixtures</a></li>
-					<li><a href="http://www.dollarwholesaler.com/DollarStoreLocation.htm">Need a Location</a></li>
-					<li><a href="http://www.dollarwholesaler.com/StoreSupplies.htm">Store Supplies</a></li>
-					<li><a href="http://www.dollarwholesaler.com/Shipping.htm">Trucking</a></li>
-				</ul>
-			</div>
-			<div class="foot-mod">
-				<div class="vcard">
-					<p class="fn org">Kole Imports Inc.</p>
- 
-					<div class="adr">
-						<p class="street-address">24600 Main Street </p>
-						<p><span class="locality">Carson </span> <abbr class="region" title="California">CA</abbr> <span class="postal-code"> 90745 </span></p>
-					</div>
-					 
-					<div class="telecommunications">
-						<p class="tel"><span class="type">Work</span>: <span class="value">800.874.7766</span></p>
-						<p class="tel"><span class="type">Fax</span>: <span class="value">800.292.1818</span></p>
-						<p class="email">email(put the 'at' sign here)koleimports.com</p>
-					</div>
-					<p>Open Mon - Fri, 8am - 5pm <sup>pst</sup></p>
-<p class="vcard-links">
-						<a href="http://suda.co.uk/projects/X2V/get-vcard.php?uri=http://www.koleimports.com" rel="nofollow">Download vCard</a><br>
-						<a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=24600+Main+St,+Carson,+CA+90745&amp;sll=37.0625,-95.677068&amp;sspn=48.019527,76.992187&amp;ie=UTF8&amp;t=h&amp;z=16" rel="nofollow">Get Directions</a>					</p>
-				</div>
-			</div>
-		</div>
-		<div id="copyright">
-		<p>©2013 Kole Imports Inc. All rights reserved.</p>
-		<a href="http://www.labbb.org/BBBWeb/Forms/Business/CompanyReportPage_Expository.aspx?CompanyID=13143275" id="btn-bbb" rel="nofollow">Member of the Better Business Bureau</a>
-		<a href="http://www.pearlendowment.org/" id="btn-pearl" rel="nofollow">Kole Imports Supports the Pearl Endowment</a>
-		<a href="http://www.koleimports.com/privacy.html" id="siteseal">Verify Koleimports.com</a>
+</div>
+            <div class="hamburger mobile-display master show-element-click" show="#top-mobile-links">
+                <div class="show-element-click-child" id="top-mobile-links">
+                    <div class="nipple"></div>
+                    <div class="close-button hide-element-click" hide="#top-mobile-links"></div>
+                    <a class="about-us-link" href="/about-us">About Us</a>  <span> &nbsp;| &nbsp;</span>
+<a class="customer-account-link" href="/customer/account">My Account</a> <span> &nbsp;| &nbsp;</span>
+    <a href="/customer/account/login">Login</a>
+                </div>
+            </div>
+            <div class="right desktop-display">
+                <a class="about-us-link" href="/about-us">About Us</a>  <span> &nbsp;| &nbsp;</span>
+<a class="customer-account-link" href="/customer/account">My Account</a> <span> &nbsp;| &nbsp;</span>
+    <a href="/customer/account/login">Login</a>
+            </div>
+
+
+            <script type="text/javascript">
+                function googleTranslateElementInit() {
+                  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'af,ar,de,el,en,es,fa,fr,hi,hy,id,it,iw,ja,ko,pl,pt,ru,th,tl,tr,vi,zh-CN', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-1303027-1'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+            <div class="clear"></div>
         </div>
-	</div>
+    </div>
+
+    <div class="bottom">
+        <div class="inner">
+            <div class="logo">
+                <a href="http://www.koleimports.com/">
+                    <img src="http://www.koleimports.com/skin/frontend/enterprise/koleimports/images/global/logo.png" title="Kole Imports" alt="Kole Imports">
+                </a>
+                <p>...Your Profit Source <sup>®</sup></p>
+            </div>
+            <div class="top-search hide-mobile">
+                <form id="search_mini_form" action="http://www.koleimports.com/catalogsearch/result/" method="get">
+    <div class="nipple mobile-display"></div>
+    <button name="submit" type="submit"><span class="mobile-display">SEARCH PRODUCTS</span></button>
+    <input type="text" id="search" class="required-entry" placeholder="Search Products" name="q" value="">
+    </form>            </div>
+            <div class="menu">
+                <a class="main-menu-link desktop-display show-element-click master" show=".shop-by-category-menu">SHOP BY DEPARTMENT</a>
+<a class="main-menu-link mobile-display show-element-click master" show=".mobile-menu">SHOP</a>
+<a class="mobile-display search-icon show-element-click master" show="#mobile-search"></a>
+<a class="main-menu-link desktop-display show-element-click master" show=".specials-menu">SPECIALS</a>
+<a class="main-menu-link desktop-display master" href="/new-arrivals">NEW ARRIVALS</a>                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="top-search mobile-display show-element-click-child" id="mobile-search">
+                <form id="search_mini_form" action="http://www.koleimports.com/catalogsearch/result/" method="get">
+    <div class="nipple mobile-display"></div>
+    <button name="submit" type="submit"><span class="mobile-display">SEARCH PRODUCTS</span></button>
+    <input type="text" id="search" class="required-entry" placeholder="Search Products" name="q" value="">
+    </form>        </div>
+        
+<div class="desktop-display main-menu shop-by-category-menu desktop-menu show-element-click-child">
+    <div class="container inner">
+        <div class="nipple"></div>
+                    <div class="column">
+                                                                                <a href="http://www.koleimports.com/apparel" alt="Apparel" title="Apparel">Apparel</a>
+                                                                                                    <a href="http://www.koleimports.com/automotive-supplies" alt="Automotive Supplies" title="Automotive Supplies">Automotive Supplies</a>
+                                                                                                    <a href="http://www.koleimports.com/baby" alt="Baby" title="Baby">Baby</a>
+                                                                                                    <a href="http://www.koleimports.com/bed-bath" alt="Bed &amp; Bath" title="Bed &amp; Bath">Bed &amp; Bath</a>
+                                                                                                    <a href="http://www.koleimports.com/candles-scents" alt="Candles &amp; Scents" title="Candles &amp; Scents">Candles &amp; Scents</a>
+                                                                                                    <a href="http://www.koleimports.com/cosmetics" alt="Cosmetics" title="Cosmetics">Cosmetics</a>
+                                                                                                    <a href="http://www.koleimports.com/crafts" alt="Crafts" title="Crafts">Crafts</a>
+                                                                                                    <a href="http://www.koleimports.com/electronics" alt="Electronics" title="Electronics">Electronics</a>
+                                                </div>
+                    <div class="column">
+                                                                                <a href="http://www.koleimports.com/fashion-accessories" alt="Fashion Accessories" title="Fashion Accessories">Fashion Accessories</a>
+                                                                                                    <a href="http://www.koleimports.com/games" alt="Games" title="Games">Games</a>
+                                                                                                    <a href="http://www.koleimports.com/gift-wrapping" alt="Gift Wrapping" title="Gift Wrapping">Gift Wrapping</a>
+                                                                                                    <a href="http://www.koleimports.com/hair-care" alt="Hair Care" title="Hair Care">Hair Care</a>
+                                                                                                    <a href="http://www.koleimports.com/hardware" alt="Hardware" title="Hardware">Hardware</a>
+                                                                                                    <a href="http://www.koleimports.com/health-care" alt="Health Care" title="Health Care">Health Care</a>
+                                                                                                    <a href="http://www.koleimports.com/home-decor" alt="Home Decor" title="Home Decor">Home Decor</a>
+                                                                                                    <a href="http://www.koleimports.com/household-supplies" alt="Household Supplies" title="Household Supplies">Household Supplies</a>
+                                                </div>
+                    <div class="column">
+                                                                                <a href="http://www.koleimports.com/in-and-out-promotions" alt="In &amp; Out Promotions" title="In &amp; Out Promotions">In &amp; Out Promotions</a>
+                                                                                                    <a href="http://www.koleimports.com/jewelry" alt="Jewelry" title="Jewelry">Jewelry</a>
+                                                                                                    <a href="http://www.koleimports.com/key-chains" alt="Key Chains" title="Key Chains">Key Chains</a>
+                                                                                                    <a href="http://www.koleimports.com/kitchen-dining" alt="Kitchen &amp; Dining" title="Kitchen &amp; Dining">Kitchen &amp; Dining</a>
+                                                                                                    <a href="http://www.koleimports.com/lighting" alt="Lighting" title="Lighting">Lighting</a>
+                                                                                                    <a href="http://www.koleimports.com/outdoor-living" alt="Outdoor Living" title="Outdoor Living">Outdoor Living</a>
+                                                                                                    <a href="http://www.koleimports.com/promo-pallets" alt="Pallets &amp; Dump Displays" title="Pallets &amp; Dump Displays">Pallets &amp; Dump Displays</a>
+                                                                                                    <a href="http://www.koleimports.com/party-supplies" alt="Party Supplies" title="Party Supplies">Party Supplies</a>
+                                                </div>
+                    <div class="column">
+                                                                                <a href="http://www.koleimports.com/personal-care" alt="Personal Care" title="Personal Care">Personal Care</a>
+                                                                                                    <a href="http://www.koleimports.com/pet-supplies" alt="Pet Supplies" title="Pet Supplies">Pet Supplies</a>
+                                                                                                    <a href="http://www.koleimports.com/photo-storage-display" alt="Photo Storage &amp; Display" title="Photo Storage &amp; Display">Photo Storage &amp; Display</a>
+                                                                                                    <a href="http://www.koleimports.com/religious" alt="Religious" title="Religious">Religious</a>
+                                                                                                    <a href="http://www.koleimports.com/school-office-supplies" alt="School &amp; Office Supplies" title="School &amp; Office Supplies">School &amp; Office Supplies</a>
+                                                                                                    <a href="http://www.koleimports.com/scrapbooking" alt="Scrapbooking" title="Scrapbooking">Scrapbooking</a>
+                                                                                                    <a href="http://www.koleimports.com/seasonal" alt="Seasonal" title="Seasonal">Seasonal</a>
+                                                                                                    <a href="http://www.koleimports.com/sewing-needlecrafts" alt="Sewing &amp; Needlecrafts" title="Sewing &amp; Needlecrafts">Sewing &amp; Needlecrafts</a>
+                                                </div>
+                    <div class="column">
+                                                                                <a href="http://www.koleimports.com/sporting-goods" alt="Sporting Goods" title="Sporting Goods">Sporting Goods</a>
+                                                                                                    <a href="http://www.koleimports.com/tools" alt="Tools" title="Tools">Tools</a>
+                                                                                                    <a href="http://www.koleimports.com/toys" alt="Toys" title="Toys">Toys</a>
+                                                                                                    <a href="http://www.koleimports.com/vision-care" alt="Vision Care" title="Vision Care">Vision Care</a>
+                                                                                                                                                                                                                                                                                </div>
+                <div class="clear"></div>
+    </div>
 </div>
 
-<div id="fb-root"></div>
+<div class="desktop-display main-menu specials-menu desktop-menu show-element-click-child">
+    <div class="container inner">
+	    <div class="nipple"></div>
+    	<div class="specials-container-inner">
+	        	                	                    <a href="http://www.koleimports.com/specials/best-sellers" alt="Best Sellers" title="Best Sellers">Best Sellers</a>
+	                	        	                	                    <a href="http://www.koleimports.com/specials/1-00-sale" alt="$1.00 Deals Inventory Blowout" title="$1.00 Deals Inventory Blowout">$1.00 Deals Inventory Blowout</a>
+	                	        	                	                    <a href="http://www.koleimports.com/specials/50-percent-sale" alt="$0.50 Cent Inventory Blowout" title="$0.50 Cent Inventory Blowout">$0.50 Cent Inventory Blowout</a>
+	                	        	                	                    <a href="http://www.koleimports.com/specials/0-25-cent-inventory-blowout" alt="$0.25 Cent Inventory Blowout" title="$0.25 Cent Inventory Blowout">$0.25 Cent Inventory Blowout</a>
+	                	        	                	                    <a href="http://www.koleimports.com/specials/0-10-cent-inventory-blowout" alt="$0.10 Cent Inventory Blowout" title="$0.10 Cent Inventory Blowout">$0.10 Cent Inventory Blowout</a>
+	                	        	                	                    <a href="http://www.koleimports.com/specials/bbq-picnic-sale" alt="BBQ / Picnic Sale" title="BBQ / Picnic Sale">BBQ / Picnic Sale</a>
+	                	        	                	                    <a href="http://www.koleimports.com/specials/summer-toy-sale" alt="Summer Toy Sale" title="Summer Toy Sale">Summer Toy Sale</a>
+	                	        	                	                    <a href="http://www.koleimports.com/specials/bargain-basement-sale" alt="Bargain Basement Sale" title="Bargain Basement Sale">Bargain Basement Sale</a>
+	                	        	                	                    <a href="http://www.koleimports.com/specials/back-to-school-sale-showcase" alt="Back To School Sale " title="Back To School Sale ">Back To School Sale </a>
+	                	        	        <div class="clear"></div>
+    	</div>
+    </div>
+</div>
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/js/featuredcontentglider.js"></script>
-<script type="text/javascript" src="/assets/js/thickbox-compressed.js"></script>
-<script type="text/javascript" src="/assets/js/functions.js"></script>
+<div class="mobile-display mobile-menu main-menu show-element-click-child">
+    <div class="nipple"></div>
+    <div class="container">
+        <h1 class="accordian-master" show=".categories">SHOP BY DEPARTMENT</h1>
+    </div>
+    <div class="container accordian-child categories" style="display: none;">
+        <div class="inner">
+            <div class="level-two">
+                                    <div class="column">
+                                                                                                                <a href="http://www.koleimports.com/apparel" alt="Apparel" title="Apparel">Apparel</a>
+                                                                                                                                            <a href="http://www.koleimports.com/automotive-supplies" alt="Automotive Supplies" title="Automotive Supplies">Automotive Supplies</a>
+                                                                                                                                            <a href="http://www.koleimports.com/baby" alt="Baby" title="Baby">Baby</a>
+                                                                                                                                            <a href="http://www.koleimports.com/bed-bath" alt="Bed &amp; Bath" title="Bed &amp; Bath">Bed &amp; Bath</a>
+                                                                                                                                            <a href="http://www.koleimports.com/candles-scents" alt="Candles &amp; Scents" title="Candles &amp; Scents">Candles &amp; Scents</a>
+                                                                                                                                            <a href="http://www.koleimports.com/cosmetics" alt="Cosmetics" title="Cosmetics">Cosmetics</a>
+                                                                                                                                            <a href="http://www.koleimports.com/crafts" alt="Crafts" title="Crafts">Crafts</a>
+                                                                                                                                            <a href="http://www.koleimports.com/electronics" alt="Electronics" title="Electronics">Electronics</a>
+                                                                                                                                            <a href="http://www.koleimports.com/fashion-accessories" alt="Fashion Accessories" title="Fashion Accessories">Fashion Accessories</a>
+                                                                                                                                            <a href="http://www.koleimports.com/games" alt="Games" title="Games">Games</a>
+                                                                                                                                            <a href="http://www.koleimports.com/gift-wrapping" alt="Gift Wrapping" title="Gift Wrapping">Gift Wrapping</a>
+                                                                                                                                            <a href="http://www.koleimports.com/hair-care" alt="Hair Care" title="Hair Care">Hair Care</a>
+                                                                        </div>
+                                    <div class="column">
+                                                                                                                <a href="http://www.koleimports.com/hardware" alt="Hardware" title="Hardware">Hardware</a>
+                                                                                                                                            <a href="http://www.koleimports.com/health-care" alt="Health Care" title="Health Care">Health Care</a>
+                                                                                                                                            <a href="http://www.koleimports.com/home-decor" alt="Home Decor" title="Home Decor">Home Decor</a>
+                                                                                                                                            <a href="http://www.koleimports.com/household-supplies" alt="Household Supplies" title="Household Supplies">Household Supplies</a>
+                                                                                                                                            <a href="http://www.koleimports.com/in-and-out-promotions" alt="In &amp; Out Promotions" title="In &amp; Out Promotions">In &amp; Out Promotions</a>
+                                                                                                                                            <a href="http://www.koleimports.com/jewelry" alt="Jewelry" title="Jewelry">Jewelry</a>
+                                                                                                                                            <a href="http://www.koleimports.com/key-chains" alt="Key Chains" title="Key Chains">Key Chains</a>
+                                                                                                                                            <a href="http://www.koleimports.com/kitchen-dining" alt="Kitchen &amp; Dining" title="Kitchen &amp; Dining">Kitchen &amp; Dining</a>
+                                                                                                                                            <a href="http://www.koleimports.com/lighting" alt="Lighting" title="Lighting">Lighting</a>
+                                                                                                                                            <a href="http://www.koleimports.com/outdoor-living" alt="Outdoor Living" title="Outdoor Living">Outdoor Living</a>
+                                                                                                                                            <a href="http://www.koleimports.com/promo-pallets" alt="Pallets &amp; Dump Displays" title="Pallets &amp; Dump Displays">Pallets &amp; Dump Displays</a>
+                                                                                                                                            <a href="http://www.koleimports.com/party-supplies" alt="Party Supplies" title="Party Supplies">Party Supplies</a>
+                                                                        </div>
+                                    <div class="column">
+                                                                                                                <a href="http://www.koleimports.com/personal-care" alt="Personal Care" title="Personal Care">Personal Care</a>
+                                                                                                                                            <a href="http://www.koleimports.com/pet-supplies" alt="Pet Supplies" title="Pet Supplies">Pet Supplies</a>
+                                                                                                                                            <a href="http://www.koleimports.com/photo-storage-display" alt="Photo Storage &amp; Display" title="Photo Storage &amp; Display">Photo Storage &amp; Display</a>
+                                                                                                                                            <a href="http://www.koleimports.com/religious" alt="Religious" title="Religious">Religious</a>
+                                                                                                                                            <a href="http://www.koleimports.com/school-office-supplies" alt="School &amp; Office Supplies" title="School &amp; Office Supplies">School &amp; Office Supplies</a>
+                                                                                                                                            <a href="http://www.koleimports.com/scrapbooking" alt="Scrapbooking" title="Scrapbooking">Scrapbooking</a>
+                                                                                                                                            <a href="http://www.koleimports.com/seasonal" alt="Seasonal" title="Seasonal">Seasonal</a>
+                                                                                                                                            <a href="http://www.koleimports.com/sewing-needlecrafts" alt="Sewing &amp; Needlecrafts" title="Sewing &amp; Needlecrafts">Sewing &amp; Needlecrafts</a>
+                                                                                                                                            <a href="http://www.koleimports.com/sporting-goods" alt="Sporting Goods" title="Sporting Goods">Sporting Goods</a>
+                                                                                                                                            <a href="http://www.koleimports.com/tools" alt="Tools" title="Tools">Tools</a>
+                                                                                                                                            <a href="http://www.koleimports.com/toys" alt="Toys" title="Toys">Toys</a>
+                                                                                                                                            <a href="http://www.koleimports.com/vision-care" alt="Vision Care" title="Vision Care">Vision Care</a>
+                                                                        </div>
+                                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1 class="accordian-master" show=".specials">SPECIALS</h1>
+    </div>
+    <div class="container accordian-child specials" style="display: none;">
+        <div class="inner">
+            <div class="level-two">
+                                    <div class="column">
+                                                    <a href="http://www.koleimports.com/specials/best-sellers" alt="Best Sellers" title="Best Sellers">Best Sellers</a>
+                                            </div>
+                                    <div class="column">
+                                                    <a href="http://www.koleimports.com/specials/1-00-sale" alt="$1.00 Deals Inventory Blowout" title="$1.00 Deals Inventory Blowout">$1.00 Deals Inventory Blowout</a>
+                                            </div>
+                                    <div class="column">
+                                                    <a href="http://www.koleimports.com/specials/50-percent-sale" alt="$0.50 Cent Inventory Blowout" title="$0.50 Cent Inventory Blowout">$0.50 Cent Inventory Blowout</a>
+                                            </div>
+                                    <div class="column">
+                                                    <a href="http://www.koleimports.com/specials/0-25-cent-inventory-blowout" alt="$0.25 Cent Inventory Blowout" title="$0.25 Cent Inventory Blowout">$0.25 Cent Inventory Blowout</a>
+                                            </div>
+                                    <div class="column">
+                                                    <a href="http://www.koleimports.com/specials/0-10-cent-inventory-blowout" alt="$0.10 Cent Inventory Blowout" title="$0.10 Cent Inventory Blowout">$0.10 Cent Inventory Blowout</a>
+                                            </div>
+                                    <div class="column">
+                                                    <a href="http://www.koleimports.com/specials/bbq-picnic-sale" alt="BBQ / Picnic Sale" title="BBQ / Picnic Sale">BBQ / Picnic Sale</a>
+                                            </div>
+                                    <div class="column">
+                                                    <a href="http://www.koleimports.com/specials/summer-toy-sale" alt="Summer Toy Sale" title="Summer Toy Sale">Summer Toy Sale</a>
+                                            </div>
+                                    <div class="column">
+                                                    <a href="http://www.koleimports.com/specials/bargain-basement-sale" alt="Bargain Basement Sale" title="Bargain Basement Sale">Bargain Basement Sale</a>
+                                            </div>
+                                    <div class="column">
+                                                    <a href="http://www.koleimports.com/specials/back-to-school-sale-showcase" alt="Back To School Sale " title="Back To School Sale ">Back To School Sale </a>
+                                            </div>
+                                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="container">
+        <h1 class="accordian-master"><a href="/new-arrivals">NEW ARRIVALS</a></h1>
+    </div>
+</div>
 
 <script type="text/javascript">
-    $().ready(function() {
-    $("#newsletter").submit(function() {
-    var t = this.title || this.name || null;
-    var g = null;
-    tb_show(t, this.action, null);
-    return true;
-    }).attr("target", "TB_iframeContent");
-    $('#search-box #submit').click(function() {
-    	if($('#search-box #hiddenSearchVal').val() == ""){
-    		alert('Please enter a search term.');
-    		return false;
-    	}
+
+
+jQuery(document).ready(function($) {
+    $(".mobile-menu .accordian-master").click(function(e) {
+        e.preventDefault();
+        $(".mobile-menu .accordian-master").removeClass("active");
+        $(".mobile-menu .accordian-child").slideUp();
+        if ($(".mobile-menu").find($(this).attr("show")).is(":visible")) {
+
+        } else {
+            $(this).addClass("active");
+            var $parent = $(this);
+            $(".mobile-menu").find($(this).attr("show")).slideDown(function() {
+                $("html, body").animate({
+                    scrollTop: $parent.offset().top
+                }, 500);
+            });
+        }
     });
-    $('#search-box #hiddenSearchVal').focus(function(e){
-    	$(this).addClass("active");
-    });
-    $('#search-box #hiddenSearchVal').blur(function(e){
-    	$(this).removeClass("active");
-    });
-    $('#search-box #hiddenSearchVal').addClass("active").select();
-    });    
-</script>
+});
+
+</script>    </div>
+
+</div>
+                
+
+<div class="breadcrumbs">
+    <div class="inner">
+                            <p class="crumb home  arrow ">
+            			
+					                <a href="http://www.koleimports.com/" title="Go to Home Page">Home</a>
+								
+                        </p>
+                    <p class="crumb cms_page ">
+                            Privacy Policy                        </p>
+                <div class="clear"></div>
+    </div>
+</div>
+        <div class="main col1-layout">
+                        <div class="col-main">
+                    <h1>Privacy Policy</h1>
+<div class="std"><p><strong>What information do we collect?</strong>&nbsp;</p>
+<p>We collect information from you when you register on our site, place an order or subscribe to our newsletter.</p>
+<p>When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information.</p>
+<p><strong>What do we use your information for?</strong>&nbsp;</p>
+<p>Any of the information we collect from you may be used in one of the following ways:&nbsp;</p>
+<ul>
+<li>To process transactions<br>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</li>
+<li>To send periodic emails<br>The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.</li>
+</ul>
+<p><strong>How do we protect your information?</strong>&nbsp;</p>
+<p>We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.</p>
+<p>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.</p>
+<p>After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.</p>
+<p><strong>Do we use cookies?</strong>&nbsp;</p>
+<p>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information</p>
+<p>We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.</p>
+<p><strong>Do we disclose any information to outside parties?</strong>&nbsp;</p>
+<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+<p><strong>Childrens Online Privacy Protection Act Compliance</strong>&nbsp;</p>
+<p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+<p><strong>Your Consent</strong>&nbsp;</p>
+<p>By using our site, you consent to our&nbsp;websites privacy policy.</p>
+<p><strong>Contacting Us</strong>&nbsp;</p>
+<p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
+<p>24600 Main Street<br>Carson, California 90254<br>United States<br><a href="mailto:email@koleimports.com" target="_blank" data-behavior="truncate">email@koleimports.com<br></a>18008747766167</p></div>            </div>
+        </div>
+                <div class="footer">
+
+
+    <div class="desktop-inner">
+
+        <div class="inner">
+            <div class="about-us-links">
+                <h4>ABOUT US</h4>
+<p><a href="/about-us#global-presence">Global Presence</a></p>
+<p><a href="/about-us#industries-served">Industries Served</a></p>
+<p><a href="/about-us#kole-cares">Kole Cares</a></p>
+<p><a href="/about-us#easy-shipping">Easy Shipping</a></p>
+<p><a href="/about-us#contact-us">Contact Us</a></p>            </div>
+            <div class="contact-details">
+                <h4>Kole Imports Inc.</h4>
+<p>Hours: Mon - Fri, 6:30am - 5pm PST</p>
+<p>Toll-Free: 800.874.7766</p>
+<p>Local: 310.834.0004</p>
+<p>Fax: 800.292.1818</p>
+<p><a href="mailto:email@koleimports.com">email@koleimports.com</a></p>            </div>
+            <div class="address">
+                <div class="marker"></div>
+                <p>24600 Main Street</p>
+<p>Carson, CA 90745</p>
+<p><a href="https://www.google.com/maps/preview#!data=!1m4!1m3!1d3048!2d-118.2750353!3d33.8019922!4m36!3m16!1m0!1m5!1s24600+Main+St%2C+Carson%2C+CA+90745!2s0x80dd35bd70f28965%3A0x6ed162d87b3a123c!3m2!3d33.8019922!4d-118.2750353!3m8!1m3!1d5977646!2d-119.306607!3d37.2691745!3m2!1i1276!2i706!4f13.1!5m16!2m15!1m14!1s0x80dd35bd70f28965%3A0x6ed162d87b3a123c!2s24600+Main+Street+Carson%2C+CA+90745!3m8!1m3!1d5977646!2d-119.306607!3d37.2691745!3m2!1i1276!2i706!4f13.1!4m2!3d33.8019922!4d-118.2750353!7m1!3b1&amp;fid=0">Directions</a></p>            </div>
+        </div>
+
+        <div class="right">
+
+            <div class="inner">
+
+                <form id="newsletter-subscribe" class="newsletter-subscribe" action="http://send.sdg.la/t/r/s/ttflrl/" method="post">
+                    <a class="desktop-and-tablet-display social youtube" href="http://www.youtube.com/user/koleimports" target="_blank"></a>
+                    <a class="desktop-and-tablet-display social twitter" href="https://twitter.com/KoleImports" target="_blank"></a>
+                    <a class="desktop-and-tablet-display social facebook" href="https://www.facebook.com/KoleImportsWholesale" target="_blank"></a>
+                    <div class="input-box">
+                        <input type="email" name="cm-ttflrl-ttflrl" value="" class="validate-email required-entry" placeholder="Your Email Address">
+                    </div>
+                    <button type="submit" value="" name="">Subscribe</button>
+                    <div class="clear"></div>
+                    <a href="http://www.bbb.org/sanjose/business-reviews/internet-shopping/kole-imports-in-carson-ca-13143275/" target="_blank" class="desktop-and-tablet-display image bbb"></a>
+                    <a href="http://www.pearlendowment.org/" target="_blank" class="desktop-and-tablet-display image pearl"></a>
+                    <div class="clear"></div>
+                    <div class="phone-display">
+                        <a class="social facebook" href="https://www.facebook.com/KoleImportsWholesale" target="_blank"></a>
+                        <a class="social twitter" href="https://twitter.com/KoleImports" target="_blank"></a>
+                        <a class="social youtube" href="http://www.youtube.com/user/koleimports" target="_blank"></a>
+                    </div>
+                </form>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="phone-display brands">
+        <div class="inner">
+            <a class="image bbb" href="http://www.bbb.org/sanjose/business-reviews/internet-shopping/kole-imports-in-carson-ca-13143275/" target="_blank"></a>
+            <a href="http://www.pearlendowment.org/" target="_blank" class="image pearl"></a>
+        </div>
+    </div>
+
+    <div class="clear"></div>
+
+
+    <div class="copy">
+        <div class="inner">
+            <div class="left">
+                <p>© 2014 Kole Imports Inc. All rights reserved.<a href="/terms">Terms of Sale</a> <a href="/privacy">Privacy Policy</a></p>            </div>
+            <div class="go-to-top">
+                top            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+
+
+    <div class="welcome-wrapper-main">
+         <div class="welcome_modal hide" id="welcome_modal">
+            <div class="welcome-wrap">
+                <div id="welcome-modal-close-button" class="modal-close"></div>
+                    <div class="welcome-inner" id="welcome-subscribe">
+                        <form action="http://deals.koleimports.com/public/webform/process/" method="post" id="newsletter-validate-detail-modal">
+                            <input type="hidden" name="fid" value="dhvvotk7owy95ashd3farrgu3sakr">
+                            <input type="hidden" name="sid" value="3ab56674e3354765f92df865acfa825e">
+                            <input type="hidden" name="delid" value="">
+                            <input type="hidden" name="subid" value="">
+                            <script type="text/javascript">var fieldMaps = {};</script>
+                            <div class="form-subscribe-header">
+                                <h2>Sign up for<br> our newsletter</h2>                            </div>
+                            <div class="field-wrapper" id="welcome-form">
+                                <div class="field">
+                                    <span>
+                                        <input type="text" class="text field fb-email" size="35" name="60737" value="Your Email Address" onfocus="javascript:if(this.value=='Your Email Address') {this.value='';}" onblur="javascript:if(this.value=='') {this.value='Your Email Address'}">
+                                    </span>
+                                    <div class="field_error"></div>
+                                </div>
+                                <button type="submit" class="button btn-submit" title="Subscribe"><span><span>Subscribe</span></span></button>
+                            </div>
+                            <div class="note">
+                                <p>We promise never to share personal information.</p>
+                            </div>
+                        </form></div>
+                        <div class="thank-you-welcome" id="thank-you-welcome">
+                            <div class="thank-you hide" id="welcome-thanks">
+                                <h4>Thank You</h4>
+<h5>We've added your email address to our list.</h5>
+<p>We promise never to share personal information.</p>                            </div>
+                        </div>
+                    
+
+                    <script type="text/javascript">
+                        if (document.cookie.indexOf("KoleImportsHomeVisit") >= 0) {
+
+                        }else { 
+                            var date = new Date(); 
+                            date.setTime(date.getTime()+(60*60*1000*24*30));
+                            var expires = date.toGMTString();
+
+                            document.cookie = "KoleImportsHomeVisit=yes;expires="+expires;
+                        
+                            jQuery(document).ready(function($) {
+                                $('.welcome_modal').delay(700).fadeIn(400);
+                               
+                            });  
+                        }
+
+
+                        jQuery(document).ready(function($) {
+                            $('.modal-close').click (function () {
+                                $('#welcome_modal').hide();
+                            });
+                        });
+
+
+                        jQuery(document).ready(function($) { 
+                            if (window.location.hash) {
+                                if (document.cookie.indexOf("KoleImportsThankYou") >= 0) {
+                                } else {
+                                    var date = new Date(); 
+                                    date.setTime(date.getTime()+(60*60*1000*24*30));
+                                    var expires = date.toGMTString();
+
+                                    document.cookie = "KoleImportsThankYou=yes;expires="+expires;
+                                      
+                                      var target = window.location.hash;
+
+                                      var target = target.split('#');
+                                      $('#welcome-subscribe').addClass("hide");
+                                      $('.'+target[1]).show();
+                                      $('#blackout').prependTo('body').show();
+                                      $('.welcome_modal').show();
+                                      $('.welcome-subscribe').hide();
+                                      $('#thank-you-welcome').show();
+                                }
+                            }
+                        });   
+
+                        
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
 
 <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1303027-1']);
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    var subscribeForm = new VarienForm('newsletter-subscribe');
+
+    jQuery(document).ready(function($) {
+        $(".go-to-top").click(function(e) {
+            $("html, body").animate({
+                scrollTop: $("body").offset().top
+            }, 500);
+        });
+        $(".newsletter-subscribe").submit(function(e) {
+            if (!subscribeForm.validator.validate()) {
+                return false;
+            }
+            e.preventDefault();
+            $.ki.subscribeAjax(this);
+        })
+    });
+
 </script>
 
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072341679;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072341679/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>                
+
+
+
 
 <script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
+    //<![CDATA[
+    var scrProtocol  = (document.location.protocol == "https:") ? "https:" : "http:";
+    var scriptString = '%3Cscript src="' + scrProtocol + '//p.bm23.com/bta.js" type="text/javascript"%3E%3C/script%3E';
+    document.write(unescape(scriptString));
+    //]]>
+</script><script src="https://p.bm23.com/bta.js" type="text/javascript"></script>
+<script type="text/javascript">
+    //<![CDATA[
+    var bta = new __bta('5b5a51ee43ca606c4f82962f28b8b058');
+    //]]>
 </script>
 
 
+<script type="text/javascript">
+    //<![CDATA[
 
-</body></html>
+    // Handle Magento Email Fields
+    Event.observe(window, 'load', function() {
+        $$('input.validate-email').each(function(item) {
+            item.observe('change', function(event) {
+                captureEmail(item.value);
+            });
+        });
+    });
+
+    // Handle Popup Event
+    if (document.addEventListener) {
+        document.addEventListener('bronto:popup-created', function(e) {
+            $$('.popup-dialog input[id*=inputs-email]').each(function(item) {
+                item.observe('change', function(event) {
+                    captureEmail(item.value);
+                });
+            });
+        });
+    }
+
+    // Trigger AJAX call to capture Email Address
+    function captureEmail(emailAddress) {
+        var targetUrl = 'https://www.koleimports.com/emailcapture/index/capture/';
+        new Ajax.Request(targetUrl, {
+            method: 'post',
+            parameters: {emailAddress: emailAddress}
+        });
+    }
+    //]]>
+</script>
+    </div>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"58b8225575","applicationID":"2644716","transactionName":"ZFxXMREAV0oHVEcIV10WYBcKTlBXAlJLT0hbSQ==","queueTime":0,"applicationTime":24,"ttGuid":"","agentToken":"","atts":"SBtUR1kaREQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
