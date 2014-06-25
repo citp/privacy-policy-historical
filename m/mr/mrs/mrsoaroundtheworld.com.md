@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrsoaroundtheworld.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812134558id_/http%3A//mrsoaroundtheworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsoaroundtheworld.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234031id_/http%3A//mrsoaroundtheworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
