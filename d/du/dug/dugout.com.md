@@ -1,37 +1,35 @@
-> *The following text is extracted and transformed from the dugout.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202201755id_/http%3A//dugout.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dugout.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095432id_/http%3A//dugout.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# dugout.com
 
-* **Overview**
+Collection of Information
 
-Thank you for visiting dugout.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+Adhering to and accepting the provisions of this privacy policy is a requirement for people who wish to visit and use our site. Here you can learn about our policies on gathering information, as well as how we use aggragete information we collect. We do not collect personally identifiable information except for when the user is taking a specific action such as providing contact information or requesting services such as a product or a newsletter. No personal information is secretly taken from users. All information can only be taken with the user's expressed consent.
 
-* **What Type of Information We Collect**
+We do not use information from our users to track their movements on the Internet, and any user can request that their information be removed from our servers by following the instructions of our opt out provision below.
 
-The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
+Cookies
 
-The Web Site and third party advertisers may use cookies and other technologies such as web beacons to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit to enhance your online experience and to learn about how you use The Web Site in order to improve the quality of our services or serve appropriate advertising. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Cookies used by the Web Site may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. 
+We use cookies to learn more about how users interact with our site, which helps us to improve our site's overall user experience. Cookies are small files placed by your Web browser onto the hard drive of your computer. Data from cookies presents us with aggragate information that can help us to optimize content displays, improve the functionality of our design and deliver broad, demographic data to advertisers and business partners. We do not use information from cookies to track users or draw more information from them.
 
-In some cases, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+Visitors to our site may set their Web browsers to reject cookies, but some features of our site may not work as intended unless cookies are enable. We are not responsible for how our site works when cookies are disabled in the browser.
 
-* **Uses**
+Third Party Links
 
-  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
-  
+Our site may sometimes host advertisement and links posted here by outside entities including advertisers and business partners. These entities have their own privacy policies governing what they do with information gathered from their Web sites and landing pages.
 
-  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
-  
+Information to Third Parties
 
-  * We may share aggregated non-personal information with third parties outside of The Web Site. 
-  
+We do not disburse information from our users to third-party entities, regardless of whether they are advertisers or business partners. Our only exception to this policy occurs when giving your information is being done in accordance with the law, or at the request of legal authorities. We are obligated to work with the law to resolve legal matters and protect our users.
 
-  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
-  
+Our Security
 
-  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
-  
+We take Web security very seriously and protect our users with powerful anti virus and encryption software. Our goal is to allow our users to be safe and satisfied when using our site.
 
-  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
-  
+Changes to our Privacy Policy
 
+Changes to our privacy policy will be prominently displayed on this page.
 
+Opting Out
+
+Visitors and customers who opt out of services will no longer receive communications, services or products from us. We destroy all personally identifiable information from people who choose to opt out from our services. To opt out, please send us an email with "OPT OUT" in the subject line to optout@dugout.com.
