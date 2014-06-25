@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmjunk.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030170858id_/http%3A//www.filmjunk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmjunk.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112419id_/http%3A//www.filmjunk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for FilmJunk.com - Film Junk
 
