@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scheels.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027192729id_/http%3A//www.scheels.com/shop/en/scheels-catalog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scheels.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070423id_/http%3A//www.scheels.com/shop/en/scheels-catalog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scheels
 
