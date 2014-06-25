@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sealy.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215223651id_/http%3A//www.sealy.com/Privacy-and-Regulations.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sealy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062055id_/http%3A//www.sealy.com/privacy-and-regulations.html) for the most accurate reproduction.*
 
-# Sealy | Sealy.com Privacy | Terms & Conditions
+# Privacy Regulations | Our Company | Sealy
 
 ### Privacy Statement
 
@@ -38,7 +38,7 @@ As we continue to develop our business, we might sell or buy stores or assets. I
 
 ### Protection of Sealy, Inc., and Others
 
-We release personal information when we believe release is appropriate to comply with law; enforce or apply our [Terms of Use](https://web.archive.org/Terms-and-Conditions.aspx) and other agreements; or protect the rights, property, or safety of Sealy, Inc., our customers, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+We release personal information when we believe release is appropriate to comply with law; enforce or apply our [Terms of Use](http://sealy.com/terms-and-conditions.html) and other agreements; or protect the rights, property, or safety of Sealy, Inc., our customers, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
 ### With Your Consent
 
@@ -50,11 +50,11 @@ As discussed above, you can always choose not to provide information.
 
 ### Terms of Use, Policies, and Revisions
 
-If you choose to visit Sealy.com, your visit and any dispute over privacy is subject to this Policy and our [Terms of Use](https://web.archive.org/Terms-and-Conditions.aspx), including limitations on damages, arbitration of disputes and application of the law of the state of North Carolina. This Policy and the [Terms of Use](https://web.archive.org/Terms-and-Conditions.aspx) will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may email periodic reminders of our policies and terms, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
+If you choose to visit Sealy.com, your visit and any dispute over privacy is subject to this Policy and our [Terms of Use](http://sealy.com/terms-and-conditions.html), including limitations on damages, arbitration of disputes and application of the law of the state of North Carolina. This Policy and the [Terms of Use](http://sealy.com/terms-and-conditions.html) will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may email periodic reminders of our policies and terms, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
 
 ### Related Practices and Information
 
-[Terms of Use](https://web.archive.org/Terms-and-Conditions.aspx)
+[Terms of Use](http://sealy.com/terms-and-conditions.html)
 
 ### Information You Give Us
 
