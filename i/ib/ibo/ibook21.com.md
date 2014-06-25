@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibook21.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014020746id_/http%3A//www.ibook21.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibook21.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053603id_/http%3A//www.ibook21.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy » 21st Century Internet Books
 
