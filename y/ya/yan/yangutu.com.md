@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the yangutu.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222095058id_/http%3A//meetville.com/dating/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yangutu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083612id_/http%3A//meetville.com/dating/policy) for the most accurate reproduction.*
 
-# Meetville | Privacy | The Leading Online Dating Site for Singles & Personals
-
-## MEETVILLE PRIVACY POLICY
+# Privacy | Meetville | Meet the Right Person, Best Dating Apps for iPhone, iPad, Android
 
 **1\. Automatically Gathered Information**
 
@@ -61,5 +59,12 @@ Please constantly update your personal data if they change. We strongly urge you
 **7.    Financial Security**  
 We do not record or store your credit card information. Your payment details are encrypted with a secure socket layer technology (SSL) to ensure your payment data protection and transmitted directly to our processing company for authorization.
 
-Please, [contact](http://meetville.com/dating/feedback) our Support Team in case any financial security questions occur.  
+Please, [contact](http://meetville.com/dating/feedback) our Support Team in case any financial security questions occur.
+
+**8.     Meetville’s partners**
+
+Applications of such Meetville’s partners as:
+
+_Match Dating, Tagged Dating, Tinder Dating, Pulse, Hello, Hot Dating, Flirt Dating, OK Cupid Dating, Matchmaker, Fish Dating, Sexy People, Dating, Asian Dating, Black Dating, Latin Dating, Senior Dating, Cupid Dating, Meet Me, QQ Dating, Live Dating, Conduit Dating, Sex Dating, Sex Offender, Sex Chat, Amazon Dating, Go Dating, Dating Cafe, Tango Dating, Tinderbox, Tender, Tender Dating, Arab Dating_ have an access to Meetville’s databases. As members of these applications are added to the large database they can receive Meetville notifications through email service. All applications are under licenses, authorizations, Terms and Privacy rules granted by Meetville.
+
 These Privacy Policy was last modified on June 12, 2013.
