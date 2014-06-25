@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119154914id_/http%3A//www.rockwelltrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232918id_/http%3A//www.rockwelltrading.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,10 +80,3 @@ This policy was last modified on June 1st, 2010
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Rockwell Trading Services LLC
-
-13033 Pond Springs Road, Suite 201  
-Austin, TX 78729  
-United States of America  
-[Email:    
-](mailto:%73%75%70%70%6f%72%74%40%72%6f%63%6b%77%65%6c%6c%74%72%61%64%69%6e%67%2e%63%6f%6d)[support@rockwelltrading.com](mailto:support@rockwelltrading.com)866-467-0747  
- 
