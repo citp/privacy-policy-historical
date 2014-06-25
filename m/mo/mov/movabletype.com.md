@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movabletype.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224073524id_/http%3A//www.movabletype.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movabletype.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114041id_/http%3A//www.movabletype.com/privacy.html) for the most accurate reproduction.*
 
 # Movable Type - Privacy Policy
 
@@ -106,6 +106,6 @@ As for disclosure, correction, suspension of use, deletion and other procedures 
   * Six Apart is entitled to modify this Privacy Policy. If Six Apart modifies the Personal Information handling procedures in a material respect, we will notify you to that effect by sending notice to the primary email address designated in your account with Six Apart or by posting such notice on Six Apart's site.
 
   * Last updated on May 29, 2011
-  * Copyright � 2011 Six Apart Ltd. All rights reserved.
+  * Copyright © 2011 Six Apart Ltd. All rights reserved.
 
 
