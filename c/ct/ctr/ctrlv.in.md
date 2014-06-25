@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctrlv.in privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205124113id_/http%3A//ctrlv.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctrlv.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122711id_/http%3A//ctrlv.in/privacy) for the most accurate reproduction.*
 
 # CtrlV.in Privacy Policy and Conditions of Use - CtrlV.in Image Hosting
 
