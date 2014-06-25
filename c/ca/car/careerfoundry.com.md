@@ -1,159 +1,145 @@
-> *The following text is extracted and transformed from the careerfoundry.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerfoundry.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102809id_/http%3A//careerfoundry.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Network Solutions
+# Privacy Policy | CareerFoundry
 
-Privacy Policy  
+At CareerFoundry GmbH, Marienburgerstrasse 10, 10405 Berlin, Germany (hereinafter referred to as “CareerFoundry” or “we/us”) we are fully aware of the importance of your privacy. We would, therefore, like to take this opportunity to give you a quick overview about our security measures and how we protect your personal data. 
 
+This Privacy Policy explains how information about you is collected, used and disclosed by CareerFoundry and our subsidiaries when you use our website www.careerfoundry.com (the “Website” or the "Service") or when you otherwise interact with us. You can find out more about us on [www.careerfoundry.com](https://web.archive.org/web/20140625102809id_/http%3A//careerfoundry.com/www.careerfoundry.com). Regarding the Service, CareerFoundry complies with the applicable laws and regulations, in particular with the German Federal Data Protection Act and the German Telemedia Act. 
 
-  
-Updated September 30, 2004  
-Version 2.4
+CareerFoundry has established a career accelerator for vocational tech skills. 
 
-**Privacy Topics  
-**   
-Why A Privacy Policy?  
-Getting to Know our Customers  
-Third Party Advertising and Cookies  
-Information Corrections or Changes  
-How We Put Information to Good Use  
-With Whom We May Share Information  
-How Do I Get My Name Removed from Bulk Access  
-Our Accountability to You  
-Employee Accountability  
-The Accountability of Network Solutions' Agents and Business Partners  
-Notification of Changes
+As you use our Service we want you to know how we collect, store and process your information. We created this Privacy Policy for you to get all the information you need to protect your privacy. We would like you to carefully read all the information we provide you and if there are any questions left, please do not hesitate to contact us at any time. 
 
-**Why A Privacy Policy?**   
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
-
-**This Privacy Policy protects your privacy by:**
-
-**Informing you about:**
-
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
-
-**Empowering you to choose:**  
-
-
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
-
-**Assuring you that Network Solutions:**  
-
-
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
-
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
-
-**Getting to Know Our Customers**
-
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
-
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=QIXOXXRHSGEHECWKEAQSFEY) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
-
-**Third Party Advertising and Cookies**
-
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>. 
-
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/"). 
-
-**Information Corrections or Changes  
-**   
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
-
-**How We Put Information to Good Use  
-**   
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
-
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
-
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
-
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
-
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
-
-**With Whom We May Share Information  
-**   
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent. 
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=QIXOXXRHSGEHECWKEAQSFEY "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and  
-
-  5. Click “SAVE.”  
-
+Please direct all inquiries directly to: [hello@CareerFoundry.com](mailto:hello@CareerFoundry.com)
 
   
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
-**How Do I Get My Name Removed from Bulk Access  
-**   
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=QIXOXXRHSGEHECWKEAQSFEY "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and  
-
-  5. Click “SAVE.”   
 
 
+## 1\. What kind of information qualifies as Personal Data?
+
+"Personal Data" shall mean any information relating to an identified or identifiable natural person ('Data Subject'), e.g. your name, your address, your telephone number or your e-mail address. An identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity. 
+
+  
 
 
-**Our Accountability to You  
-**   
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+## 2\. What kind of data does CareerFoundry collect?
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+We collect data you directly provide us with when submitting any kind of information to us, e.g. when you sign up for an account. Even though you do not directly provide us with any Personal Data CareerFoundry may collects anonymous information about you, such as Google Analytics data. 
 
-**Employee Accountability  
-**   
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+  
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
 
-**The Accountability of Network Solutions' Agents and Business Partners  
-**   
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+## 2.1 Information you submit to CareerFoundry
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+The use of our Website and Service requires you to create an account on www.careerfoundry.com. When you create an account we will ask you for your Personal Data, in particular for your name, postal address and email address.
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13200 Woodland Park Drive  
-Herndon, VA 20171  
-(703) 668-4600 
+  
 
-**Notification of Changes  
-**   
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
 
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).   
-**
+## 2.2 Information CareerFoundry gets from your use of Service
+
+As described in sec. 2 we may collect information concerning your usage behavior. We may collect different data in this regard. For example we may collect information about how you got to our Website and how you use our Service. This means we may take a look on operating systems you use our Service with. We also may aggregate which parts of our Service you use the most. 
+
+  
+
+
+## 3\. How will the information be used by CareerFoundry?
+
+Unless you give us your separate and express consent to other uses of your Personal Data, we collect, store and process the Personal Data that you submit to us only to the extent required for you to use our Service, or to the extent that such use is allowed in accordance with other legal provisions, even without your consent, in particular for responding to your inquiries. 
+
+The Personal Data you directly submit to us will only be used to identify you as a customer of our Service, to contact you if necessary and to issue invoices. We will store all Personal Data you submitted directly to CareerFoundry in our database. All Personal Data will be handled by CareerFoundry in strict confidence according to legal provisions such as the German Federal Data Protection Act (Bundesdatenschutzgesetz). 
+
+Besides we only collect anonymous information about you to provide better service to all of our users. We will use the anonymous information to evaluate our Service activities and improve our Service. 
+
+  
+
+
+## 4\. Will CareerFoundry share your data?
+
+CareerFoundry will only transfer or process personal data to third parties if this is required for statutory or legal reasons and/or if CareerFoundry has your explicit consent to do so.
+
+CareerFoundry shall be entitled to collect, process and use your personal data for the purpose of identifying, delimiting and removing malfunctions and errors in the Service. If the requirements are met, CareerFoundry may collect, process and use personal data that is necessary to uncover any unlawful use of the Service. In accordance with prevailing legal provisions, CareerFoundry may provide information to criminal prosecution authorities and courts for prosecution purposes. 
+
+  
+
+
+## 5\. Google Analytics
+
+The following web analytic service is used to improve the user experience of our Services:
+
+We use Google Analytics, a service for the marketing analysis of this Website, of Google Inc. ("Google"). Google Analytics uses codes consisting of text and numbers, which will be stored on your computer and which allow for an analysis of the use of the Website ("Cookies"). The information generated by the Cookie about your use of the Website (including your IP address) will be transferred to and stored by a Google Server. Google will use this information, to evaluate your use of the Website, to prepare reports about the Website activities for the Website operators and to provide further services connected to the use of websites and the use of the Internet. Google may transfer this information to third parties, if legally obliged to do so or if third parties process these data on behalf of Google. In no case, Google will connect your IP address with other data from Google.
+
+You can remove or deactivate such Cookies using the settings of your computer; in such a case you might not be able to fully use all functions of this Website. By using this Website you agree to the processing of your personal data by Google to the extent and purpose stated above. You can refuse to allow your data to be passed on by using a deactivation add-on for browsers under https://tools.google.com/dlpage/gaoptout?hl=en.
+
+  
+
+
+## 6\. Facebook Plugin
+
+Our Website uses social plugins ("Plugins") of the social network facebook.com, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). You can view the list of Facebook social plugins and see what they look like here: <http://www.developers.facebook.com/plugins>
+
+If you click on a page of our Website that contains this sort of Plugin, your browser establishes a direct connection with the Facebook servers. Facebook directly transfers the Plugin content to your browser which embeds the latter into the Website. We cannot influence the scope of data that Facebook collects with the help of this Plugin, meaning that the information we provide is based on our current knowledge.
+
+The embedding of the Plugin informs Facebook that you accessed the respective page of our Website. If you are logged into Facebook, Facebook can assign the visit to your Facebook account. If you interact with the Plugins, e.g. by clicking on the "Register with Facebook" button, the corresponding information is transmitted from your browser directly to Facebook, where it will be saved. If you are not a member of Facebook, it is still possible for Facebook to identify and save your IP address. For information on the purpose and scope of the data collection and the further processing and utilisation of the data by Facebook, as well as your rights in this respect and the settings that you can adjust to protect your privacy, please consult Facebook's data protection information: http://www.facebook.com/policy.php. 
+
+If you are a member of Facebook and want to prevent Facebook from collecting data on you via our Website and linking this data to your member data stored with Facebook, you may not register with Facebook and log out of Facebook before you visit our Website. You will be able to connect our Service with Facebook via the Facebook “Register with Facebook” button on our Website. If you do so your email-address and your Facebook User-ID will be transferred to and stored by CareerFoundry. The Facebook privacy rules apply to the usage of the “Register with Facebook” button. If you do not want your data transferred in the aforementioned way, please refrain from using the “Register with Facebook” button. 
+
+  
+
+
+## 7\. Cookies
+
+CareerFoundry makes use of cookies to store session information, to help you sign up for our Services, to protect your data and to provide users with a customized Service through identifying unique visitors and their respective usage patterns. Cookies are identifiers (miniature text files) that can be saved temporarily or permanently on a User’s hard drive by the server. Cookies guarantee the consistency of each communication process. Temporary cookies can be used to identify which visits are all part of a single session. Permanent cookies are for pre-recognizing a user, for instance so that individual settings can be made. Users are free to decide whether to let their browser use cookies. All browser programs allow cookies to be deactivated or deleted. When we use cookies no personally identifiable information will be collected. 
+
+All information, whether on data processors on CareerFoundry’s premises or on servers acting on CareerFoundry’s behalf, remains in complete control of CareerFoundry at all times. 
+
+  
+
+
+## 8\. Stripe
+
+If you choose to use our Service we will process payments through our third party credit card processor. All such transactions will be governed by the Stripe privacy policy at stripe.com/privacy. We do not receive or store credit card information into our servers. We receive a transaction “token” and a one-time use ID number so we can validate that the transaction has been successfully completed. Because we do not retain your credit card information, you will need to re-enter your information each time you make a payment. 
+
+  
+
+
+## 9\. Keep your personal information up to date
+
+You will be able to update your account information that you submitted to CareerFoundry at any time. We would like you to change or delete your information in case it is wrong.
+
+  
+
+
+## 10\. Newsletter
+
+You will be able to subscribe to our newsletter on our Website. After you subscribe, CareerFoundry will send you an email to confirm your subscription. Until you unsubscribe to our newsletter, we will use your email address for our own promotion purposes, e.g. providing content related to freelance, ux and web development, if you have given your consent to it. You may cancel your subscription at any time and free of charge by using the link in the newsletter or sending us a notification to: [hello@CareerFoundry.com](mailto:hello@CareerFoundry.com). 
+
+  
+
+
+## 11\. Security
+
+We employ technical and organizational measures including two-step verification process, password and physical security measures in order to safeguard the Service against loss, theft, misuse, destruction, access, alteration or the disclosure of your data by unauthorized persons. Despite regular controls a complete protection against all dangers is, however, not possible. The access to your account is possible only after entering your personal password. You should always treat your access information confidentially and close the browser window, once you have ended your communication with us, particularly if you share the use of the computer with others. CareerFoundry can not warrant security for data transmitted to our Service because unfortunately, the transmission of information via the internet is not completely secure. CareerFoundry is based in Germany. The information we collect is governed by the applicable German law and European directives. If you have any queries about the security of our Service, please do not hesitate to contact us at any time on [hello@CareerFoundry.com](mailto:hello@CareerFoundry.com). 
+
+  
+
+
+## 12\. Your rights
+
+The Federal Data Protection Act (Bundesdatenschutzgesetz) guarantees you rights to information, correction, deletion or blocking of your personal data. Upon request, we shall provide you with the information on the stored data relating to your person, free of charge and without delay. The information can be provided electronically, if desired. In cases regulated by law we are obliged, upon request, to correct, block or delete the data stored about you. Please direct all requests directly to: [hello@CareerFoundry.com](mailto:hello@CareerFoundry.com)
+
+  
+
+
+## 13\. Changes
+
+We may change this Privacy Policy from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. If we make changes, we will notify you by revising the date at the bottom of the policy and, if the changes are significant, we will provide you with additional notice (such as adding a statement to our Website). To better protect your privacy you may review the Privacy Policy whenever you access the Service to stay informed about our information practices. 
+
+  
+
+
+## 14\. Contact
+
+For further information, please contact [hello@CareerFoundry.com](mailto:hello@CareerFoundry.com) or write us at: CareerFoundry GmbH, Marienburgerstr. 10, 10405 Berlin, Germany. 
+
+Last Updated: June 18, 2014
