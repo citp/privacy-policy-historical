@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214093248id_/http%3A//www.buyandsell.ie/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234639id_/http%3A//www.buyandsell.ie/legal/privacy_policy) for the most accurate reproduction.*
 
 # Buy and Sell anything in Ireland | Easy to use – BuyandSell.ie
 
-Buzreel Limited, trading as BuyandSell ("BuyandSell" or "we") respects and protects your right to privacy in relation to your interactions with this website. We have adopted the following policies to safeguard your personal information and to protect its confidentiality. 
+Demirca, trading as BuyandSell ("BuyandSell.ie" or "we") respects and protects your right to privacy in relation to your interactions with this website. We have adopted the following policies to safeguard your personal information and to protect its confidentiality. 
 
 Any information which is provided by you to BuyandSell via this website or otherwise will be treated in accordance with the terms of the Data Protection Acts 1988 and 2003 and/or such amending or replacement legislation as may be adopted in Ireland from time to time. We encourage you to read this Privacy Statement before using this website. If you do not read or if you disagree with any aspect of the Privacy Statement, you should not use this website. Your use of this website signifies your agreement to be bound by the terms of this Privacy Statement. 
 
