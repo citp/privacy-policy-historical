@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108161314id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625230620id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Software Advice Privacy Policy
 
-You are being presented this Privacy Policy because you are visiting a website (the “Website”) that is either (a) owned and operated by Software Advice, Inc. (“Software Advice”) or (b) includes content, including but not limited to registration and other forms, owned by Software Advice or drawn from a website owned and operated by Software Advice.. Software Advice is committed to protecting the privacy of our visitors' personally identifiable information. The following privacy policy ("Privacy Policy") explains our online information practices, use of the information you provide us and the choices you can make about the way your information is used by Software Advice. By using the Website and providing personally identifiable information about yourself, you do hereby consent to (1) our Terms of Use, (2) our collection, use, and sharing of data as described in this Privacy Policy; (3) the notice, choice, access, and security we are providing, as described above; and (4) the methods we have described to notify you of changes to this Privacy Policy.
+We've helped **209,313** companies choose the right software  
+by sharing our extensive research on over 1,328 systems.
+
+You are being presented this Privacy Policy because you are visiting a website (the “Website”) that is either (a) owned and operated by Software Advice™, Inc. (“Software Advice”) or (b) includes content, including but not limited to registration and other forms, owned by Software Advice or drawn from a website owned and operated by Software Advice. Software Advice is committed to protecting the privacy of our visitors' personally identifiable information. The following privacy policy ("Privacy Policy") explains our online information practices, use of the information you provide us and the choices you can make about the way your information is used by Software Advice. By using the Website and providing personally identifiable information about yourself, you do hereby consent to (1) our Terms of Use, (2) our collection, use, and sharing of data as described in this Privacy Policy; (3) the notice, choice, access, and security we are providing, as described above; and (4) the methods we have described to notify you of changes to this Privacy Policy.
 
 SO THAT WE MAY ASSIST YOU WITH YOUR SOFTWARE LICENSING/PURCHASE INQUIRY, PLEASE BE ADVISED THAT SOFTWARE ADVICE WILL FURNISH THE INFORMATION YOU SUBMIT ON THE WEBSITE TO OUR PARTICIPATING SOFTWARE VENDORS SO THAT THEY MAY CONTACT YOU ABOUT THEIR PRODUCTS, SERVICES, OFFERS, AND PROMOTIONS. WHEN YOU DOWNLOAD ARTICLES OF INTEREST WRITTEN (IN WHOLE OR IN PART) BY ONE OF OUR GUEST AUTHORS (AN "ADVISOR"), SOFTWARE ADVICE WILL FURNISH THE INFORMATION YOU SUBMIT ON THE WEBSITE TO SUCH ADVISOR SO THAT HE/SHE MAY CONTACT YOU ABOUT THE SUBJECT MATTER OF THE ARTICLE.
 
@@ -12,7 +15,7 @@ As a general rule, you will not be required to provide personally identifiable i
 
 ### WHAT INFORMATION IS COLLECTED AND HOW COLLECTED INFORMATION IS USED
 
-Users of the Website may browse without being obligated to submit any personal information; however, we may collect certain personally identifiable information from you in certain areas of the Website for certain purposes. These purposes include: 
+Users of the Website may browse without being obligated to submit any personal information; however, we may collect certain personally identifiable information from you in certain areas of the Website for certain purposes. These purposes include:
 
   * providing information to us, to owners/operators of affiliate Websites, and/or to the vendor(s) of the software product(s) which you express an interest in purchasing or licensing so that we can contact you and help initiate contact and establish communication between you and such vendor(s) or Affiliates;
   * providing information to an Advisor whose article you have specifically requested to download;
@@ -24,7 +27,7 @@ Users of the Website may browse without being obligated to submit any personal i
 
 
 
-Information we may collect: 
+Information we may collect:
 
   * names
   * physical addresses
