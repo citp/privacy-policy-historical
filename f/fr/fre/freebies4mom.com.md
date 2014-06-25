@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebies4mom.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123220512id_/http%3A//freebies4mom.com/2007/10/07/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebies4mom.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102147id_/http%3A//freebies4mom.com/2007/10/07/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
