@@ -1,79 +1,173 @@
-> *The following text is extracted and transformed from the vinsolutions.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207064541id_/http%3A//www.vinsolutions.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinsolutions.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113317id_/http%3A//www.vinsolutions.com/privacy.aspx) for the most accurate reproduction.*
 
 # VinSolutions > Privacy Policy
 
-Effective Date: March 13, 2013
+This statement is effective as of April 3, 2014.
 
-This website is brought to you by VinSolutions, Inc. (”VinSolutions,” “we,” “us,” or “our”). We respect the privacy of visitors to our website and that of the visitors to the dealer websites that we host (“Hosted Site(s)”, together with our website, the “Sites”). Please read this Privacy Statement carefully so that you understand what information we collect through the Sites and what we do with that information. This Privacy Statement applies only to information collected online through the Sites and does not describe the ways in which we may collect or use information obtained offline or through any means other than through the Sites. In addition, this Privacy Statement applies only to our use and collection of information on the Sites. Each of the Hosted Sites may include an additional privacy statement that contains additional terms governing the collection and use of your information via the particular Hosted Site. If you have any questions about this Privacy Statement, please contact [privacy@vinsolutions.com](mailto:privacy@vinsolutions.com). 
+**Introduction**
 
-By visiting the Sites, you (“you” or “visitor”) agree that your visit, and any dispute over your privacy or our information collection and disclosure practices, is governed by this Privacy Statement and our [Terms of Use (“End User License Agreement” or “EULA”)](http://vinsolutions.com/termsofuse.aspx).
+Thank you for your interest in VinSolutions. We respect the privacy of our users and those who visit the dealer websites that we host (“Hosted Site(s)”, together with our website, the “Sites”). The Sites include our websites, mobile and other online applications and products and services. By using the Sites, you consent to the use of your information and information about you in accordance with this Privacy Statement. 
 
-**THE INFORMATION WE COLLECT**
+When we refer to VinSolutions within this Privacy Statement, we are referring to VinSolutions.com, Inc. This Privacy Statement applies to information collected through the Sites and does not describe the collection, use and disclosure practices of any of our corporate affiliates or third parties. For information on the collection, use and disclosure practices of any company with whom you are doing business, whether or not affiliated with VinSolutions, please review their privacy policies. Each of the Hosted Sites may include an additional privacy statement that contains additional terms governing the collection and use of your information via the particular Hosted Site. 
 
-The information we gather generally falls into two categories: (1) information supplied by visitors to the Sites when, for example, inquiring about a product or service offered through the Sites; and (2) tracking information gathered as visitors navigate through the Sites. Once you provide VinSolutions or a Hosted Site with personal information, you are not anonymous to us. Please note that third-party providers (including, but not limited to, vendors of products and services and providers of widgets, tools, and applications) (collectively, “Third-Party Providers”) featured on or linked to by the Sites may also be gathering information through your use of their services. We do not control the information practices of these Third Party Providers and encourage you to review their privacy policies. 
+Services offered by the Sites are not directed to individuals under the age of eighteen (18). If you are under eighteen (18), you should not provide any personal information to us. 
 
-**Communicating With Us.** If you elect to communicate with us through the Sites, we will collect the information, including personal information, you supply through the Sites. We will use this information to respond to your request, to provide the products and/or services you requested, to contact you about our services and about other information, products, and/or services that we believe may be of interest to you. For example, if you complete an online-contact form on a Hosted Site, you may be contacted by the dealer associated with that Hosted Site in response to your inquiry. We also may use this information in conjunction with information we collect to track activity, analyze usage, and improve our products, services, features and content of the Sites, as well as for marketing and promotional efforts. 
+This Privacy Statement covers:
 
-We may provide a trackable toll-free telephone number for many of the listings that appear on a Hosted Site. This toll-free telephone number may be used to contact the dealer about a particular advertised vehicle. If you call a listing using one of these toll-free numbers, we (or a service provider acting on our behalf) may collect the date, time, and duration of your call, as well as the number from which your call originated and an audio recording of your call.
+  * Information We Collect 
+    * Information You Provide 
+    * Automated Information 
+    * Data Technologies 
+    * Videos
+    * Location Information
+    * Publicly Posted Information 
+    * Combined Information and Information from Other Sources 
+  * How We May Use the Information We Collect 
+  * Applications, Widgets and Social Media 
+  * Advertising Networks 
+  * Information We Share
+    * Affiliates, Dealers, and Manufacturers 
+    * Our Service Providers 
+    * Credit Applications
+    * Corporate and Asset Transactions
+    * Other
+  * Your Choices
+  * Your California Privacy Rights
+  * Access and Correction
+  * Links
+  * Data Security 
+  * Disputes
+  * Updates to this Privacy Statement 
+  * How to Contact Us
 
-If you use a Hosted Site’s live chat feature to ask questions about a vehicle, the service provider that manages this feature may send a copy of your chat transcript to us. The chat service provider collects and uses chat transcripts in accordance with its own privacy policy which may be accessible via a link shown during the chat session. If you do not want this information to be shared with us, do not use the chat service.
 
-To help them monitor and improve dealer performance, we may also provide vehicle manufacturers with the information you send via a Hosted Site using the online contact form. If you do not wish to share your email address or other contact information in this manner, you should not use the online contact form.
 
-We collect personal information from you, such as your name, address, phone number, e-mail address, and date of birth when you provide it to us in connection with a service on the Sites, such as when you request a trade-in valuation, use a “contact us” form, and/or register to use the Sites. If you use a Hosted Site to apply for credit for a car loan or refinancing, we and the Hosted Site will collect personal information from you. This information may include, but is not limited to, your name, email address, date of birth, Social Security Number, address, credit history, and/or credit score. VinSolutions, on behalf of a Hosted Site, may transmit such personal information to third parties for the purpose of obtaining additional information about you, your credit history, and/or credit score, combine the information we obtain from these third parties with the personal information you provided; and/or store the information.
+**Information We Collect**
 
-If you provide your email address to us, we may email you about the Sites or services, or to inquire about your experience using the Sites. From time to time, we will also send you emails that may include special promotions and other commercial offers that we think may be of interest to you. Though we hope you will find these communications informative and useful, if you do not, you can always unsubscribe from our commercial emails by following the simple instructions included in each email. If you provide a Hosted Site with your email address, please see the Hosted Site’s privacy statement for more information on its email practices.
+Information is gathered from the Sites by us, our service providers, advertisers, sponsors and partners. 
 
-When you use one of the social network sharing tools available on the Sites, we and the social network operating the tool may collect information about you based on such use. The social network’s use of that information will be subject to its own privacy policy, which may be different from this Privacy Statement.
+_Information You Provide._ We may collect information that you choose to provide on the Sites in a variety of ways, such as when you: 
 
-**COOKIES AND OTHER DATA COLLECTION TECHNOLOGIES**
+  1. register for one of our products or services. This information may include your name, address, telephone number, email address, Social Security Number, and credit information;
+  2. make information available to us via social networking logins, such as Facebook or Twitter;
+  3. express an interest in buying, selling or trading in a car (such as completing an online quote or lead form);
+  4. participate in chats, web forums or other interactive sessions;
+  5. apply for credit on a Hosted Site;
+  6. subscribe to newsletters or provide feedback; and
+  7. participate in surveys, sweepstakes or other promotions. 
 
-**Cookies** To help us tailor the Sites, and the tools and applications on each Site, to the needs and interests of visitors, we keep track of visitor interactions with the Sites through the use of “cookies.” Cookies are small text files stored on your web browser when you use websites and applications. The “Help” function on most web browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely. However, if you do not accept cookies, you will not be able to take advantage of some features on the Sites that are available to other visitors. 
 
-We use cookies to improve the visitor experience on the Sites by making them more responsive to the needs of visitors, and to make it easier for us to recognize you when you return. Cookies cannot read unrelated data off your computer. 
 
-**Web Beacons** To help us (and in some cases our advertisers and Third-Party Providers) keep track of how many visitors are accessing particular pages and listings within the Sites, and to track how visitors respond to ads we place on third-party websites, we may place a small file, called a web beacon, on some pages of the Sites and on ads we distribute. We may also place a web beacon in the emails we send to you. When you open one of our emails or click on links within these emails, we track this click-through data to help us determine your interest in particular topics and measure the effectiveness of our communications to you. If you prefer not to be tracked in this way, you should not open these emails or click text or graphic links in the emails. You also may unsubscribe from our commercial emails by following the simple instructions included in our emails.
+_Automated Information._ Information regarding your use of the Sites may be collected and/or aggregated through the use of automated means. This automatically collected information may include information such as: 
 
-**Browser Level Information** Our web server (and/or any web server operated by our service provider(s) on our behalf) automatically collects and may store some limited information about your computer configuration when you visit the Sites, including the type of browser software you use, the operating system you are running, the resolution of your computer monitor, the website that referred you, and your IP address. Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration (including fraud detection and prevention) and troubleshooting purposes. We may also collect information about the website you were visiting before you came to the Sites and the website you visit after you leave the Sites.
+  1. your IP address, the type of browser and operating system used;
+  2. date and time you access the Sites and pages you visit, and if you linked from or to another website, the address of that website;
+  3. email you open and links you click on within those email; and
+  4. your ISP or mobile carrier, and the type of handheld or mobile device that you used.
 
-**Use of Data Collection Technologies** Cookies, beacons, browser level information and other data collection technologies may be used individually or in combination in order to provide and/or administer our services, to help us understand visitor behavior, to monitor site performance, optimize ads, and measure advertising performance. 
 
-We may collect, or have a third party collect on our behalf, aggregated statistical information about how visitors use and navigate around the Sites, such as the number of visitors who visit various pages within the Sites, what they click on, whether they scroll up or down on particular pages, fill out forms, etc. We use this information to improve the Sites. We may also disclose this aggregated information to third parties.
 
-**Data Collected in Connection with Ad Serving and Targeting**
+_Data Technologies._ Various technologies are used to automatically collect information, such as cookies, local shared objects, and web beacons (generally referred to as “Data Technologies.” “Cookies” are small identifiers sent from a web server that are stored on your device for the purpose of identifying your browser or storing information or settings in your browser. “Local shared objects,” sometimes known as Flash cookies, may be used to store your preferences or display content based upon what you have viewed on various websites to personalize your visit. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies. Anonymous advertising identifiers are increasingly being used on mobile devices and otherwise in a manner similar to cookies. When we refer to Data Technologies, we are including all current and similar future technologies.
 
-We (or a service provider acting on our behalf) have relationships with certain third-party advertising networks and advertising services ("Advertising Services") that collect data, target and serve some of the advertisements, promotions, or other marketing messages you see on the Sites and other websites and mobile applications, including the sites owned and/or operated by our affiliates. Our Third-Party Providers and the Advertising Services we use may, through processes that we do not control, assign cookies or use web beacons or browser level information to collect clickstream data from your activities on the Sites and other websites, including the websites of our affiliates. Their use of this data is subject to their own privacy policies, which may be different from this Privacy Statement. 
+One or more Data Technologies may be used on the Sites and other websites and mobile applications (that may not be the Sites) by us, by another party on our behalf, or by third parties in accordance with their privacy policies. Data Technologies may be used by us and others, on our behalf and on their own behalf, to transmit information to you or about you and connect information about you from different sources, websites, devices, and mobile applications. 
 
-We (or a service provider acting on our behalf), our Advertising Services, our advertisers, and/or our Third-Party Providers may use clickstream data collected using cookies, beacons, and/or browser level information to, among other things, help tailor the content of advertising, marketing, and promotional messages (including, but not limited to, landing pages) on the Sites to the perceived interests of our visitors. 
+We may use a uniquely generated trackable toll-free telephone number on our Hosted Sites or in advertisements. If you call one of these toll-free numbers, we (or a service provider acting on our behalf) may collect non-personally identifiable information about the call (e.g. date, time, duration), as well as personally identifiable information (e.g. your name, the number from which your call originated). 
 
-VinSolutions and our Hosted Sites support the Self-Regulatory Principles for Online Behavioral Advertising from the Digital Advertising Alliance, which regulates the practices relating to the collection of clickstream data. To opt out of interest-based advertising programs or to learn more about these data collection practices, please visit [http://www.aboutads.info](http://www.aboutads.info/) or [http://www.evidon.com](http://www.evidon.com/). Pages of a Hosted Site that collect information that may be used by such advertising partners for interest-based advertising purposes are identified by a link to AdChoices on the page.
+_Videos._ We may target and track the videos you view on the Sites. You consent to our tracking of your video viewing through the Site or third party social media for up to two years or as permitted by applicable law. 
 
-**USE AND DISCLOSURE OF INFORMATION**
+_Location Information._ We may collect physical location information that is sufficiently precise to allow us to locate a specific person or device (“Location Information”). We only collect Location Information with your permission (e.g., such as when you agree to provide it to us after initial access to or downloading our website). We may use Location Information and provide it to third parties to provide you with content and services that are relevant to a particular location, such as advertising, search results, dealers in the area, and directions. 
 
-When we use other companies to help us operate the Sites or improve the services offered to you, we may provide them with information about visitors that is necessary for them to perform their services. We require that these companies commit to use the information only to perform the services that we request. 
+_Publicly Posted Information._ Information that you make available to us and others via social media networks, forums, blogs, list serves, chat rooms or similar functionality is public information that we or others may share or use in accordance with the law. 
 
-If you click on a third-party link, including a social media graphic link on the Sites, you will be taken to the third party’s Web site, and your information will be subject to the third party’s privacy policy.
+_Combined Information and Information from Other Sources._ We may combine information that you provide to us with information we receive from our affiliates and other sources, as well as with other information that is automatically collected. The combined information may include information about your use of the Sites, your use of other websites, devices and mobile applications and information from our affiliates and other sources.
 
-In some cases, to provide you with a customized experience and/or enhance our services, we (or service providers acting on our behalf) may combine information (including personal information) that we collect through the Sites with information about you and/or your computer from other sources, including offline interactions with us, public databases, and third parties. 
+**How We May Use the Information We Collect**
 
-In addition, VinSolutions may track, share and combine visitor information and behavior among our affiliated companies within AutoTrader Group, Inc. so that such affiliated companies may provide you with information, products, and services that VinSolutions and/or [AutoTrader Group, Inc.](http://www.autotradergroup.com/) believe may be of interest to you. 
+We may use information we collect for the following purposes:
 
-**OTHER DISCLOSURES**
+  1. for everyday business purposes, such as establishing and managing your user account, providing products and services you request, and providing customer support; 
+  2. to provide values and/or offers for cars that you would like to trade in; 
+  3. to offer our other products or services and/or the products or services of others to you; 
+  4. to communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes and other offers or promotions; 
+  5. to enable you to interact with the Sites and our users, dealers, and others through various means, such as through our message boards, blogs and social media; 
+  6. to evaluate and improve our business, including developing new products and services and analyzing the effectiveness of products, services, applications and websites; 
+  7. to diagnose and address technical and service problems; 
+  8. to perform data analyses, including market and consumer research, trend analysis, demographic analysis and financial analysis; 
+  9. to deliver content (including advertising) correlating to your interests and browsing and usage history, both within the Sites and on other websites and applications; 
+  10. to comply with applicable legal requirements and our policies; and 
+  11. to contact you via telephone, text or chat. We will obtain your consent to contact you when and in the manner required by law.
 
-We may release or use information about our visitors when appropriate to comply with laws; enforce our Visitor Agreement; or protect the rights, property or safety of visitors to the Sites, our customers, the public or VinSolutions. As our business grows, we may buy or sell various assets. In the unlikely event that VinSolutions, one of its business units, or substantially all of its assets is acquired by another company, information about our visitors would be among the transferred assets.
 
-**SECURITY**
 
-VinSolutions takes commercially reasonable steps to ensure information we gather from the Sites is stored in a secure manner. While we work hard to protect your privacy, no physical or electronic security system is impenetrable, or invulnerable to attack, including your own, and the ones used to transmit your data to us. We cannot and do not guarantee that our systems, or your information, will be secure.
+**Applications, Widgets and Social Media**
 
-**INTERNATIONAL VISITORS**
+We may include applications or widgets from social media providers that allow interaction or content sharing by their users. These widgets, such as a Facebook “Share” or “Like” button, are visible to you on the web page you visit. Integration between the Sites and social media networks such as Facebook, Twitter and others may allow social media networks in which you participate to collect information about you, even when you do not explicitly activate the network’s application or widget. Please visit the applicable social media network’s privacy policy to better understand their data collection practices and choices they make available to you. The privacy policy of the social media network controls the collection, use and disclosure of all personal information transmitted to that network. 
 
-The Sites are intended for use by visitors within the United States. If you reside outside the United States, please be aware that (i) our databases are stored on servers and storage devices located in the United States, (ii) your information (including personal data) may be transferred to the United States for processing and storage, and (iii) the United States, and the localities within the United States where our databases are located, may not guarantee the same level of protection for personal data as the locality or country in which you reside. By using the Sites, you expressly agree to our collection, use, disclosure, and transfer of your information (including personal data) for the purposes identified herein, and you consent to the transfer of such information outside of your country.
+Advertising Networks
 
-**PROTECTING THE PRIVACY OF CHILDREN**
+Advertising that is customized based on predictions generated over time from your visits across different websites, devices and mobile applications is sometimes called "online behavioral" or "interest-based" advertising. We may partner with advertising networks, which are companies that deliver targeted advertisements to consumers and generate statistics and metrics related to the delivery of interest-based advertisements. They may utilize information collected through a variety of Data Technologies to provide customization, auditing, research and reporting for us, our affiliates and other advertisers. This data collection takes place both on the Sites and on third-party’s websites and mobile applications. This process allows the Sites and third parties to deliver targeted advertising, enhance marketing programs and help track the effectiveness of such efforts. Our advertising networks also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences and measuring the effectiveness of their advertising in accordance with their privacy policies.
 
-The Sites are not directed at or intended for children under 13 and we will not knowingly allow anyone under 13 to provide us any personally identifying information; if you are under 13, please do not provide any information about yourself on the Sites.
+We do not provide information that is directly associated with a specific person (such as name and address) to an advertising network when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the advertiser may make an assumption that you are interested in the subject matter of the advertisement. 
 
-**CHANGES TO THIS PRIVACY STATEMENT**
+Some companies disclose when they are using interest-based advertising programs on the Sites to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. You may see an icon in or around third-party  advertisements on the Sites that use interest-based advertising programs and on pages where data is collected and used for online interest-based advertising. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad. You can opt out of delivery of targeted advertising to you by multiple companies by visiting [www.aboutads.info/choices](https://web.archive.org/web/20140625113317id_/http%3A//www.vinsolutions.com/www.aboutads.info/choices), [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20140625113317id_/http%3A//www.vinsolutions.com/www.networkadvertising.org/managing/opt_out.asp) and [www.evidon.com](https://web.archive.org/web/20140625113317id_/http%3A//www.vinsolutions.com/www.evidon.com) . Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.
 
-If we need to change our privacy policy at some point in the future, we will post the revised Privacy Statement on our website together with an updated reference to its Effective Date to reflect the date of the amendment. Your continued use of the Sites following the posting of such a revised Privacy Statement will be deemed to constitute your consent to its terms.
+Information We Share
+
+We do not sell or otherwise share information about you that we collect or receive, except as described below:
+
+  * Affiliates, Dealers, and Manufacturers. Information collected, including personal information and Data Technologies, may be shared with affiliates, dealers, and manufacturers, and their agents and third party service providers, who will use that information in accordance with their own privacy policies. For example:   
+(a) If you are interested in a particular listing of a car for sale on a Hosted Site, information about you may be shared with the Hosted Site;
+  
+(b) We may provide manufacturers with information about you that we provided to their franchised dealers; 
+  * Our Service Providers. We may engage third parties to provide the services offered through or in connection with the Sites on our behalf. We require such providers to maintain information about you as confidential and to use the information only to perform the services specified by us in a manner consistent with this Privacy Statement. 
+  * Credit Applications. If you apply for credit on a Hosted Site or via any third party link from a Hosted Site, it will be necessary for you to provide personal information to complete the application, including your address, credit information and history, employment and other financial information. We may share your application information with the our financial partners so that they can process your application and otherwise use it in accordance with their privacy policies, however, we will not use your personal financial information for interest based advertising. 
+  * Corporate and Asset Transactions. If we sell all or substantially all of our business or sell or transfer all or a material part of our assets, or are otherwise involved in a merger or transfer of all or a substantial part of our business, we may transfer all information we have collected and stored, including personal information, to the party or parties involved in the transaction as part of that transaction. 
+  * Other. We may access or disclose information, including personal information, to:   
+(a) protect or defend our interests and the legal rights or property of VinSolutions and our affiliates;   
+(b) protect the rights, interests, safety and security of users of the Sites or members of the public;   
+(c) protect against fraud or for risk management purposes; or   
+(d) comply with prudent legal practice as we may determine, and applicable law or legal process. 
+
+
+
+Your Choices
+
+You are entitled to make certain choices about how we communicate with you. 
+
+  * You may choose not to provide personal information, even though that might impact your ability to register or receive a particular product or service. 
+  * If you do not want to receive marketing email from the Sites, you can follow the unsubscribe link provided in those emails. 
+  * If you do not want to receive interest-based advertisements, you can opt out as discussed in the “Advertising Networks” section above. 
+  * You have a number of choices regarding certain Data Technologies. Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. You may also render some web beacons unusable by rejecting their associated cookies and disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or opting out at Evidon.com or the website of the technology provider. If you choose to decline cookies or similar technologies, however, please note that certain features may not function properly or at all as a result. You may be able to adjust the use of advertising identifiers on mobile devices through the settings on your device. Finally, if you do not want to use a uniquely generated telephone number, you may choose to not call us.
+  * If you do not want us to use Location Information, you can decline our initial invitation to provide that information, or opt out by changing the location services settings on your mobile device. However, please note that certain features may not function properly or at all as a result if you opt out.
+
+
+
+**Your California Privacy Rights**
+
+California Civil Code Section 1798.83 entitles California users to request information concerning whether a business has disclosed certain information about you to any third parties for the third parties’ direct marketing purposes. California users who wish to request further information in compliance with this law or have questions or concerns about our privacy practices and policies may contact us as specified in the “How to Contact Us” section below. 
+
+Online Tracking Policy for California Residents. As of the effective date of this Privacy Statement, there is no commonly accepted response for Do Not Track signals initiated by browsers, therefore we do not respond to them. 
+
+**Access and Correction**
+
+Access to information that we collect and maintain about you may be available to you. For example, if you created a password-protected account within the Sites, you can access that account to update the information you previously provided. Additionally, if you believe that information we maintain about you is inaccurate, subject to applicable law, you may request that we correct or amend the information by contacting us as indicated in the “How to Contact Us” section below.
+
+**Links**
+
+The Sites may contain links to websites not operated by us, as well as third party widgets and applications discussed above. Once you leave the Sites, we suggest that you review the applicable privacy policy of the third-party website or application. We are not responsible for the content or use of any websites or applications other than on the Sites or the privacy practices of those websites or applications. 
+
+**Data Security**
+
+We use commercially reasonable administrative, technical, personnel, and physical security measures designed to safeguard information about you in our possession against loss, theft and unauthorized use, disclosure or modification. Of course, despite these measures, we cannot guarantee perfect security of networks, servers and databases we operate or that are operated on our behalf. 
+
+**Disputes**
+
+ If you choose to visit the Sites, your visit and any dispute regarding privacy is subject to this Privacy Statement and our Visitor Agreement, including limitations on damages, resolution of disputes, and application of the law of the state of Georgia. 
+
+**Updates to this Privacy Statement**
+
+We may update this Privacy Statement to provide clarification or notice of changes to our practices. If we make changes, we will revise the date at the top of this Privacy Statement. We will provide you with additional notice of material changes by posting notice of the changes for thirty (30) days before we implement those changes. 
+
+**How to Contact Us**
+
+If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@vinsolutions.com](mailto:privacy@vinsolutions.com). 
