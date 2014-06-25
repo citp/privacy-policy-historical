@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chichiclothing.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906153321id_/http%3A//www.chichiclothing.com/pages/Privacy-Notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chichiclothing.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065547id_/http%3A//www.chichiclothing.com/pages/Privacy-Notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -15,7 +15,8 @@ Your data will enable us, and our processors, to fulfil your order, to notify yo
   * All email messages and email newsletters will contain information on how you can unsubscribe; or
   * Send an email to our customer services division or writing "unsubscribe" in the subject heading; or
   * Call our customer services division - see the "Contact Us" section; or
-  * Write to us at: Customer Services, Chi Chi Collection Ltd, Florentia Clothing Village, David Jones Cottage, Vale Road, London, N4 1TD
+  * Write to us at: Customer Services, Chi Chi London, Unit 15, Lockwood Industrial Park, Mill Mead Road, Tottenham, London. N17 9QP
+
 
 
 
