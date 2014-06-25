@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the zeekrewardsreceivership.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228033145id_/http%3A//www.zeekrewardsreceivership.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeekrewardsreceivership.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081109id_/http%3A//www.zeekrewardsreceivership.com/privacy.pdf) for the most accurate reproduction.*
 
 # PRIVACY NOTICE
 
     PRIVACY NOTICE
     GCG PRIVACY NOTICE
  I. PROTECTION OF PERSONAL INFORMATION
-    The Garden City Group, Inc. (“GCG “) Policy Concerning Confidential Information
+    The Garden City Group, Inc. (“GCG”) Policy Concerning Confidential Information
     and Comprehensive Written Information Security Policy is designed to prevent
     the unauthorized disclosure of non-public personally-identifiable information,
     including social security numbers and other non-public information that either
