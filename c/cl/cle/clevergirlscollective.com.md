@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevergirlscollective.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825005914id_/http%3A//clevergirlscollective.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevergirlscollective.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134751id_/http%3A//clevergirlscollective.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Clever Girls Collective | Welcome!
 
