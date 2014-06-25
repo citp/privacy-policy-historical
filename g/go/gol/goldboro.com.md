@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldboro.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223050150id_/https%3A//goldboro.com/content/85) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldboro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045949id_/http%3A//www.goldboro.com/content/85) for the most accurate reproduction.*
 
 # Privacy policy
 
