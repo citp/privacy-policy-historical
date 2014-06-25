@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxpresso.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030060937id_/http%3A//luxpresso.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxpresso.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625164220id_/http%3A//luxpresso.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Luxpresso.com
 
@@ -38,7 +38,7 @@ When you register with the Application or Services, we contact you from time to 
 
 **d) Information fromother Sources:** We may receive information about you from other sources, add it to our account information and treat it in accordance with this policy. If you provide information to the platform provider or other partner, whom we provide services, your account information and order information may be passed on to us. We may obtain updated contact information from third parties in order to correct our records and fulfil the Services or to communicate with you
 
-**e) Demographic and purchase information:** We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions.
+**e) Demographic and purchase information:** We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track the user behaviour on our website. Google Analytics specifically has been enable to support display advertising towards helping us gain understanding of our users' Demographics and Interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with us. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings options provided by Google.
 
   
 
