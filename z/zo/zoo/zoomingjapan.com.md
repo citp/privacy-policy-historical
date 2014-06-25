@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zoomingjapan.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209073005id_/http%3A//zoomingjapan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomingjapan.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043620id_/http%3A//zoomingjapan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Zooming Japan
 
-40 
+64 
 
 **Zooming Japan respects your privacy.**
 
