@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chatzum.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601103912id_/http%3A//www.chatzum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatzum.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122031id_/http%3A//chatzum.com/privacy.html) for the most accurate reproduction.*
 
 # ChatZum Facebook Social Thumbnail Photo Zoom App
 
-This Privacy Policy governs the manner in which ChatZum collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.chatzum.com](http://www.chatzum.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by ChatZum .
+This Privacy Policy governs the manner in which ChatZum collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.chatzum.com](http://www.chatzum.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Search Safer Inc.
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
