@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the ebrandz.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231045102id_/http%3A//www.ebrandz.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebrandz.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626000312id_/http%3A//www.ebrandz.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # eBrandz™ : Privacy Policy
 
 eBrandz very strongly believes in it's Privacy Policy. We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to third parties. Unless you ask us not to, we may ocassionally contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
 
-**Unsubscribing:**  
-We have made the unsubscription process very simple. You may opt out of any future contacts from us at any time. You can do the following by requesting to opt out by our [feedback](http://www.ebrandz.com/feedback.htm) form or via request at the following email address 
+**Unsubscribing:**
 
-**Security**  
+We have made the unsubscription process very simple. You may opt out of any future contacts from us at any time. You can do the following by requesting to opt out by our [feedback](https://web.archive.org/web/20140626000312id_/http%3A//www.ebrandz.com/feedback.htm) form or via request at the following email address sale@ebrandz.com
+
+**Security**
+
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
 
 Sensitive information such as credit card data are collected through trusted vendors like Google Checkout or CCAvenue. Appropriate measures are taken by them to encrypt the data. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the webaddress when you are in the process of transaction. 
@@ -18,16 +20,20 @@ While encryption is used to protect sensitive information transmitted online, we
 
 eBrandz uses third party tracking tools inlcuding Google to track data to understand performance of website. No personal identifiable information is collected. 
 
-eBrandz uses Google Analytics remarketing feature for display advertising. If you would like to opt out of customized Google display network ads then kindly [visit link. ](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCh2njAV1thrZdMXgChtdY7nCNLhjT5B9eoOrcwSbKsZasRsHg1LA1g38NSLCo2rKNL1jOFQ6NKFg6lLRcKUjdbd-8ucHg&hl=en)
+eBrandz uses Google Analytics remarketing feature for display advertising. If you would like to opt out of customized Google display network ads then kindly [visit link](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCh2njAV1thrZdMXgChtdY7nCNLhjT5B9eoOrcwSbKsZasRsHg1LA1g38NSLCo2rKNL1jOFQ6NKFg6lLRcKUjdbd-8ucHg&hl=en). 
 
-**Contact Form**  
-In order for us to contact you, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. 
+**Contact Form**
 
-**Links**  
+In order for us to contact you, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest.
+
+**Links**
+
 This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
-**Privacy policy changes:**  
+**Privacy policy changes:**
+
 In the event eBrandz updates it's privacy policy then that information will be posted here. 
 
-**Questions?**  
-If you have any further questions or concerns then feel free to [contact us.](http://www.ebrandz.com/feedback.htm)
+**Questions?**
+
+If you have any further questions or concerns then feel free to [contact us](http://www.ebrandz.com/feedback.htm).
