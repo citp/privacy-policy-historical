@@ -1,327 +1,1292 @@
-<!--The following is the downloaded HTML source of the electracard.com privacy policy that was archived on 2013-09-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130924092924id_/http%3A//electracard.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the electracard.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625040034id_/http%3A//www.electracard.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>Privacy Policy of ECS</title>
-<meta name="description" content="Read the ECS Privacy Policy here.">
-<meta name="keywords" content="privacy policy, ecs">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="script/global.css" rel="stylesheet" type="text/css">
-<script src="script/encoding.js"></script>
-<script src="script/scrol.js"></script>
-<script src="script/xmlHttp.js"></script>
-	<script language="JavaScript">
-	<!--
-	function subscribe()
-	{
-		if(!RegExp(/^\w[\w\-\.]+\@\w[\w\-]+(\.\w[\w\-]+)+$/).test(document.getElementById("subscribe").value))
-        {
-			alert("Please enter valid email address!");
-            document.getElementById("subscribe").focus();
-            return false;
-        }		
-		var result=xmlHttp_send_post("manipulation.php", "page_action=newsletter&email="+document.getElementById("subscribe").value);
-		if (result)
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+
+
+
+
+
+<title>ECS</title>
+
+<meta name="description" content="ECS">
+
+<meta name="keywords" content="ECS">
+
+<link rel="shortcut icon" type="image/x-icon" href="http://www.electracard.com/favicon.ico">
+
+
+
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+
+var THEME_PATH = 'http://www.electracard.com/bonfire/themes/ecs/';
+
+</script>
+
+<script src="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery-1.4.2.min.js" language="javascript" type="text/javascript"></script>
+
+<script type="text/javascript" src="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery.js"></script>
+
+<script type="text/javascript" src="http://www.electracard.com/bonfire/themes/ecs/scripts/jquery.validate.js"></script>
+
+<script src="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+
+<script src="http://www.electracard.com//bonfire/themes/ecs/scripts/sliderman.1.3.6.js" language="javascript" type="text/javascript"></script>
+
+<script src="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery.bxSlider.js" language="javascript" type="text/javascript"></script>
+
+<script type="text/javascript" src="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery_002.js"></script>
+
+<script type="text/javascript" src="http://www.electracard.com//bonfire/themes/ecs/scripts/easypaginate.js"></script>
+
+<script type="text/javascript" src="http://www.electracard.com//bonfire/themes/ecs/scripts/common.js"></script><!--Precedent HA-CHECK -->
+
+<script type="text/javascript" src="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery-ui-1.8.4.custom.min.js"></script>
+
+<script type="text/javascript" src="http://www.electracard.com/bonfire/themes/ecs/scripts/jquery_load_tab.js"></script>
+
+
+
+<link rel="stylesheet" href="http://www.electracard.com//bonfire/themes/ecs/scripts/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8">
+
+<script type="text/javascript">    var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-4832739-1']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })();  </script>
+<script type="text/javascript">
+
+ $(document).ready( function(){	
+
+ 
+
+ $(".btn-slide").click(function(){
+
+		$("#panel").slideToggle("slow");
+
+		$(this).toggleClass("active"); return false;
+
+	});
+
+ });
+
+function getLookingList(v)
+{
+	var cct = $("input[name=mycsrftoken]").val();
+	var name = v;
+	var ajaxPath = "http://www.electracard.com/"+"home/loadLooking";
+	$.post(ajaxPath,{"i_id":v,"mycsrftoken":cct},function(data)
+	{		
+		var print = '<select name="looking" class="xxl" onchange="window.location.href=this.options [this.selectedIndex].value" ><option selected value="">Looking For</option>';
+		if(data)
 		{
-			alert("Thank you for choosing to subscribe to our newsletter! You will be added to our subscriber list and receive the next issue of the newsletter as soon as it is published.");
+			$('#select_looking').html(data);
 		}
-	}
-	//-->
-	</script>
-</head>
+	});	
+}
+</script><script type="text/javascript" src="http://www.electracard.com/bonfire/themes/ecs/scripts/jquery.lightbox-0.5.js"></script><script type="text/javascript" src="http://www.electracard.com/bonfire/themes/ecs/scripts/easySlider1.7.js"></script><link type="text/css" href="http://www.electracard.com/bonfire/themes/ecs/scripts/jquery.lightbox-0.5.css" rel="stylesheet"><link type="text/css" href="http://www.electracard.com/bonfire/themes/ecs/scripts/screen.css" rel="stylesheet"></head>
 
-<body bgcolor="#DDDDDD" leftmargin="0" topmargin="5" marginheight="5" marginwidth="0">
 
-<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" class="body-border">
 
-  <tbody><tr>
-    <td colspan="3" bgcolor="#FFFFFF">
-<link rel="StyleSheet" href="script/tedstyle.css" type="text/css">
-<script src="script/searchhi.js" type="text/javascript" language="JavaScript"></script>
-<script src="script/jquery-1.2.6.min.js" type="text/javascript" language="JavaScript"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+<body class="bg">
+
+	<div class="bg-home">
+
+		<div class="header"> 
+
+			<link href="http://www.electracard.com//bonfire/themes/ecs/scripts/global.css" rel="stylesheet" type="text/css">
+<link type="text/css" href="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery-ui-1.8.4.custom.css" rel="stylesheet">
+<link type="text/css" media="screen" rel="stylesheet" href="http://www.electracard.com//bonfire/themes/ecs/scripts/layout.css">
+<link rel="shortcut icon" type="image/x-icon" href="/ecsopus/favicon.ico">
 <script language="JavaScript">
+    if (document.images)
+    {
+      preload_image_object = new Image();
+      image_url = new Array();
+      image_url[0] = "http://www.electracard.com/bonfire/themes/ecs/images/print-hr.png";
+      image_url[1] = "http://www.electracard.com/bonfire/themes/ecs/images/pdf-hr.png";
+      image_url[2] = "http://www.electracard.com/bonfire/themes/ecs/images/msg-hr.png";
+      image_url[3] = "http://www.electracard.com/bonfire/themes/ecs/images/rate-hr.png";
+	  image_url[4] = "http://www.electracard.com/bonfire/themes/ecs/images/online-banking-management-system-hr.png";
+	  image_url[5] = "http://www.electracard.com/bonfire/themes/ecs/images/banking-transaction-system-hr.png";
+	  image_url[6] = "http://www.electracard.com/bonfire/themes/ecs/images/cash-management-service-hr.png";
+	  image_url[7] = "http://www.electracard.com/bonfire/themes/ecs/images/electronic-commerce-and-banking-hr.png";
+       var i = 0;
+       for(i=0; i<=6; i++) 
+         preload_image_object.src = image_url[i];
+    }
 
-function submitsearch()
-{
-	document.topsearch.submit();
-}
-function slideSwitch() {
-    var $active = $('#slideshow IMG.active');
-	if ( $active.length == 0 ) $active = $('#slideshow IMG:last');
-	var $next =  $active.next().length ? $active.next()
-        : $('#slideshow IMG:first');
-	$active.addClass('last-active');
-	   $next.css({opacity: 0.0})
-        .addClass('active')
-        .animate({opacity: 1.0}, 1000, function() {
-            $active.removeClass('active last-active');
-			
-        });
-}
-function slideSwitch_new() {
-	var $active = $('#slideshow1 IMG.active');
-	if ( $active.length == 0 ) $active = $('#slideshow1 IMG:last');
-    var $next =  $active.next().length ? $active.next()
-        : $('#slideshow1 IMG:first');
-    $active.addClass('last-active');
-    $next.css({opacity: 0.0})
-        .addClass('active')
-        .animate({opacity: 1.0}, 1000, function() {
-            $active.removeClass('active last-active');
-        });
-}
-$(function() {
-    setInterval( "slideSwitch()", 4000 );
-	setInterval( "slideSwitch_new()", 6000 );
-});
-</script>
-<input type="hidden" name="srch" id="srch" value="0">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
- <tbody><tr>
-        <td width="30%">&nbsp;</td>
-        <td width="70%" align="right" class="top-right-link" style="padding-right:13px;"></td>
-  </tr>
-      <tr>
-        <td width="30%"><a href="http://www.electracard.com"><img src="images/electra-card-services-logo.gif" alt="Electra Card Services" border="0" hspace="0" vspace="0"></a></td>
-        <td width="70%" align="right" class="top-right-link" style="padding-right:13px;"> <!-- <a href="login.php" class="top-right-link">Login</a> --> <!-- | <a href="images/ECSBrochure.pdf" class="top-right-link" target="_blank">Download Brochure</a-->   <a href="sitemap.php" class="top-right-link">Sitemap</a> | <a href="http://www.opussoft.com/" class="top-right-link" target="_blank">Opus Software Solutions</a> <!--a href="contact-us.php" class="top-right-link">Contact</a--> </td>
-  </tr>
- <tr>
-        <td width="30%">&nbsp;</td>
-        <td width="70%" align="right" class="top-right-link" style="padding-right:13px;"></td>
-  </tr>
-      <tr>
-        <td height="29" colspan="2" background="images/orange-bg.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="2%"><img src="images/blank.gif" width="19"></td>
-            <td width="75%">
-				<a href="index.php" class="top-black-link">HOME</a>
-				<a href="company/company-overview.php" class="top-black-link">COMPANY</a>
-				<a href="solutions-suite/solutions.php" class="top-black-link">SOLUTIONS</a>
-				<a href="partners.php" class="top-black-link">PARTNERS</a>
-				<!--a href="case-studies.php" class="top-black-link">RESOURCES</a--> 
-				<!--a href="downloads.php" class="top-black-link">RESOURCES</a--> 
-				<a href="white-papers.php" class="top-black-link">RESOURCES</a> 
-				<a href="media/overview.php" class="top-black-link">NEWSROOM</a> 
-				<a href="careers/careers.php" class="top-black-link">CAREERS</a>
-				<a href="contact-us.php" class="top-black-link">CONTACT</a>
-			</td>
-            <td width="27%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<form name="topsearch" action="search.php"></form>
-              <tbody><tr>
-                <td width="14%" class="top-black-link"></td> 
-                <td width="75%" align="right">
-				<input name="q" type="text" maxlength="50" class="search-box" value="" onclick=" return changeSearchText();" size="32" onchange="return htmlValidate(this);">    
-				<input type="hidden" name="offset" value="0">
-				</td>
-                <td width="11%" align="right"><a href="#" onclick="javascript:submitsearch()"><img src="images/go-btn.gif" alt="" width="25" height="25" hspace="5" border="0"></a></td>
-              </tr>
-			  
-            </tbody></table></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-      <tr>
-        <td colspan="2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="743" valign="top"><img src="images/the-policy-header.jpg" alt="" width="776"></td>
-            <td width="224" valign="top"><table width="224" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td width="35" height="30" align="left" background="images/top-left-blue-bg1.gif"><img src="images/white-bullet.gif" alt="" hspace="16"></td>
-                <td height="30" background="images/top-left-blue-bg1.gif"><a href="solutions-suite/Credit-Card-Solutions/" class="right-white-link">CARD SOLUTIONS</a></td>
-              </tr>
-              <tr>
-                <td width="35" height="30" align="left" background="images/top-left-blue-bg1.gif"><img src="images/white-bullet.gif" alt="" hspace="16"></td>
-                <td height="30" background="images/top-left-blue-bg1.gif"><a href="solutions-suite/Prepaid-Card-Solutions/" class="right-white-link">PREPAID CARD SOLUTIONS</a></td>
-              </tr>
-              <tr>
-                <td width="35" height="30" align="left" background="images/top-left-blue-bg1.gif"><img src="images/white-bullet.gif" alt="" hspace="16"></td>
-                <td height="30" background="images/top-left-blue-bg1.gif"><a href="solutions-suite/EFT-Switch-Solutions/" class="right-white-link">EFT SWITCH SOLUTIONS</a></td>
-              </tr>
-              <tr>
-                <td width="35" height="30" align="left" background="images/top-left-blue-bg1.gif"><img src="images/white-bullet.gif" alt="" hspace="16"></td>
-                <td height="30" background="images/top-left-blue-bg1.gif"><a href="solutions-suite/E-commerce-Solutions/" class="right-white-link">E-COMMERCE SOLUTIONS</a></td>
-              </tr>
-<!--tr>
-<td align="right" background="images/top-left-blue-gredient-bg1.gif"><img src="images/white-bullet.gif" alt="" width="9" height="9" hspace="11"></td>
-<td height="31" background="images/top-left-blue-gredient-bg1.gif"><a href="#" class="right-white-link">CREDIT CARD SOLUTIONS</a></td>
-</tr>
-<tr>
-<td height="30" align="right" background="images/top-left-blue-gredient-bg1.gif"><img src="images/white-bullet.gif" alt="" width="9" height="9" hspace="11"></td>
-<td height="30" background="images/top-left-blue-gredient-bg1.gif"><a href="#" class="right-white-link">E-COMMERCE SOLUTIONS</a></td>
-</tr>
-<tr>
-<td align="right" background="images/top-left-blue-gredient-bg1.gif"><img src="images/white-bullet.gif" alt="" width="9" height="9" hspace="11"></td>
-<td height="31" background="images/top-left-blue-gredient-bg1.gif"><a href="#" class="right-white-link">PREPAID CARD SOLUTIONS</a></td>
-</tr-->
-            </tbody></table></td>
-          </tr>
-        </tbody></table></td>
-  </tr>
-</tbody></table>
-<script language="JavaScript">
-if(document.topsearch.q.value=='')
-document.topsearch.q.value='Search';
+    </script>
+<div id="header">
+<div class="logo"><a href="http://www.electracard.com/home"><img src="http://www.electracard.com//bonfire/themes/ecs/images/electracard-services.png" alt=""></a></div>
+<div class="right-box">
+ <div class="right-right">
+			<a href="http://www.electracard.com/partners">Partners</a> 
+				&nbsp;|&nbsp; 
+			<a href="http://www.electracard.com/careers">Careers</a> 
+				&nbsp;|&nbsp; 
+			<a href="http://www.electracard.com/news/ecs-news">News &amp; Events</a> 
+				&nbsp;|&nbsp; 
+			<a href="http://www.electracard.com/knowledge-center/articles">Knowledge Center</a> 
+				&nbsp;|&nbsp; 
+			<a href="http://www.electracard.com/contact-us">Contact Us</a> 
+		 </div>
+<div class="clear"></div>
+<!--<div style="position:absolute; left:0px; top:28px; z-index:5000;">
+<div id="nav">
+-->	
+<div style="position:absolute; left:0px; top:27px; z-index:5000;float:right;width:620px;">
+<div id="nav">
 
-function changeSearchText(){
-document.topsearch.q.value='';
-}
-function highlightSearch(){
-document.topsearch.q.select();
-localSearchHighlight('?h=' + document.topsearch.q.value);
-}
-</script>
-	</td>
-  </tr>
-  <tr>
-    <td width="181" valign="top" bgcolor="#F8F8F8" class="text" style="border-right:solid 1px #D6D4D4;">
-<table width="170" border="0" cellspacing="0" cellpadding="0">
+	<ul class="menu">
+					<!-- -----------Print Main(First Level) Menu------ -->
+			<li class=""><a href="http://www.electracard.com/about-us">About Us</a>					
+				
+				<!-- ---------------- Check Second Level Menu Existance -------------- -->
+										<!-- ------------ If Exist ---------- -->
+						<ul class="level_1">				
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																		<!-- ------------ Print simple Second level menu ---------- -->
+										<li class=""><a href="http://www.electracard.com/about-us/why-ecs-about">Why ECS</a>
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																	</li>
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																		<!-- ------------ Print simple Second level menu ---------- -->
+										<li class=""><a href="http://www.electracard.com/about-us/leadership"> Leadership</a>
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																	</li>
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																		<!-- ------------ Print simple Second level menu ---------- -->
+										<li class=""><a href="http://www.electracard.com/about-us/customer">Customers</a>
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																	</li>
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																		<!-- ------------ Print simple Second level menu ---------- -->
+										<li class=""><a href="http://www.electracard.com/about-us/infrastructure">Infrastructure</a>
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																	</li>
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																		<!-- ------------ Print simple Second level menu ---------- -->
+										<li class=""><a href="http://www.electracard.com/about-us/innovation"> Innovation &amp; Awards</a>
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																	</li>
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																		<!-- ------------ Print simple Second level menu ---------- -->
+										<li class=""><a href="http://www.electracard.com/about-us/social-responsibility">Social Responsibility</a>
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																	</li>
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																		<!-- ------------ Print simple Second level menu ---------- -->
+										<li class=""><a href="http://www.electracard.com/about-us/indrustry-analyst-reports">Industry Analyst Reports</a>
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																	</li>
+												</ul>
+				 
+					
+			</li>
+					
+					<!-- -----------Print Main(First Level) Menu------ -->
+			<li class=""><a href="http://www.electracard.com/platform-technology">Technology</a>					
+				
+				<!-- ---------------- Check Second Level Menu Existance -------------- -->
+				 
+					
+			</li>
+					
+					<!-- -----------Print Main(First Level) Menu------ -->
+			<li class=""><a href="http://www.electracard.com/products">Products</a>					
+				
+				<!-- ---------------- Check Second Level Menu Existance -------------- -->
+										<!-- ------------ If Exist ---------- -->
+						<ul class="level_1">				
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																	
+									<!-- ------ If exist print right side image on mouse click ------ -->
+									<li class=""><span><a href="http://www.electracard.com/products/acquiring-solutions">Acquiring Solutions</a></span>
+								
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																				<ul class="level_2">				
+																
+														<!-- ------------------- If exist Print -------------- -->
+														<li><a href="http://www.electracard.com/products/eft-switching-solution"><i><b>EFT Switching Solution</b></i></a></li>
+													
+																
+														<!-- ------------------- If exist Print -------------- -->
+														<li><a href="http://www.electracard.com/products/e-commerce-payment-gateway-solution"><i><b>E-Commerce Payment Gateway Solution</b></i></a></li>
+													
+																
+														<!-- ------------------- If exist Print -------------- -->
+														<li><a href="http://www.electracard.com/products/merchant-management-solution"><i><b>Merchant Management Solution</b></i></a></li>
+													
+																													
+											</ul>				
+										
+																</li>
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																	
+									<!-- ------ If exist print right side image on mouse click ------ -->
+									<li class=""><span><a href="http://www.electracard.com/products/issuing-solutions"> Issuing Solutions</a></span>
+								
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																				<ul class="level_2">				
+																
+														<!-- ------------------- If exist Print -------------- -->
+														<li><a href="http://www.electracard.com/products/credit-card-management-solution"><i><b>Credit Card Management Solution</b></i></a></li>
+													
+																
+														<!-- ------------------- If exist Print -------------- -->
+														<li><a href="http://www.electracard.com/products/prepaid-card-management-solution"><i><b>Prepaid Card Management Solution</b></i></a></li>
+													
+																
+														<!-- ------------------- If exist Print -------------- -->
+														<li><a href="http://www.electracard.com/products/debit-card-management-solution"><i><b>Debit Card Management Solution </b></i></a></li>
+													
+																													
+											</ul>				
+										
+																</li>
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																	
+									<!-- ------ If exist print right side image on mouse click ------ -->
+									<li class=""><span><a href="http://www.electracard.com/products/risk-fraud-management-solutions"> Risk &amp; Fraud Management Solutions</a></span>
+								
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																				<ul class="level_2">				
+																
+														<!-- ------------------- If exist Print -------------- -->
+														<li><a href="http://www.electracard.com/products/verified-by-visa-mastercard-securecode-solution"><i><b>Verified by VISA/MasterCard SecureCode Solution</b></i></a></li>
+													
+																
+														<!-- ------------------- If exist Print -------------- -->
+														<li><a href="http://www.electracard.com/products/fraud-management-solution"><i><b>Fraud Management Solution</b></i></a></li>
+													
+																
+														<!-- ------------------- If exist Print -------------- -->
+														<li><a href="http://www.electracard.com/products/collection-management-solution"><i><b>Collection Management Solution</b></i></a></li>
+													
+																													
+											</ul>				
+										
+																</li>
+												</ul>
+				 
+					
+			</li>
+					
+					<!-- -----------Print Main(First Level) Menu------ -->
+			<li class=""><a href="http://www.electracard.com/services">Services</a>					
+				
+				<!-- ---------------- Check Second Level Menu Existance -------------- -->
+										<!-- ------------ If Exist ---------- -->
+						<ul class="level_1">				
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																	
+									<!-- ------ If exist print right side image on mouse click ------ -->
+									<li class=""><span><a href="http://www.electracard.com/services/processing-services">Processing Services</a></span>
+								
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																				<ul class="level_2">				
+																
+														<!-- ------------------- If exist Print -------------- -->
+														<li><a href="http://www.electracard.com/services/atm-driving-and-pos-acquiring-services"><i><b>ATM Driving and POS Acquiring Services</b></i></a></li>
+													
+																
+														<!-- ------------------- If exist Print -------------- -->
+														<li><a href="http://www.electracard.com/services/credit-card-processing-services"><i><b>Credit Card Processing Services</b></i></a></li>
+													
+																
+														<!-- ------------------- If exist Print -------------- -->
+														<li><a href="http://www.electracard.com/services/prepaid-processing-services"><i><b>Prepaid Processing Services</b></i></a></li>
+													
+																
+														<!-- ------------------- If exist Print -------------- -->
+														<li><a href="http://www.electracard.com/services/debit-card-processing-services "><i><b>Debit Card Processing Services</b></i></a></li>
+													
+																
+														<!-- ------------------- If exist Print -------------- -->
+														<li><a href="http://www.electracard.com/services/e-commerce-processing-services"><i><b>E-commerce Processing Services</b></i></a></li>
+													
+																													
+											</ul>				
+										
+																</li>
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																		<!-- ------------ Print simple Second level menu ---------- -->
+										<li class=""><a href="http://www.electracard.com/services/professional-services">Professional Services</a>
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																	</li>
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																		<!-- ------------ Print simple Second level menu ---------- -->
+										<li class=""><a href="http://www.electracard.com/services/support-services">Support Services</a>
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																	</li>
+												</ul>
+				 
+					
+			</li>
+					
+					<!-- -----------Print Main(First Level) Menu------ -->
+			<li class=""><a href="http://www.electracard.com/industry">Industry</a>					
+				
+				<!-- ---------------- Check Second Level Menu Existance -------------- -->
+										<!-- ------------ If Exist ---------- -->
+						<ul class="level_1">				
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																		<!-- ------------ Print simple Second level menu ---------- -->
+										<li class=""><a href="http://www.electracard.com/industry/financial-institutions">Financial Institutions</a>
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																	</li>
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																		<!-- ------------ Print simple Second level menu ---------- -->
+										<li class=""><a href="http://www.electracard.com/industry/government">Government</a>
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																	</li>
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																		<!-- ------------ Print simple Second level menu ---------- -->
+										<li class=""><a href="http://www.electracard.com/industry/processors">Processors</a>
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																	</li>
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																		<!-- ------------ Print simple Second level menu ---------- -->
+										<li class=""><a href="http://www.electracard.com/industry/telecom">Telecom</a>
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																	</li>
+														
+								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
+																		<!-- ------------ Print simple Second level menu ---------- -->
+										<li class=""><a href="http://www.electracard.com/industry/retailers">Retailers</a>
+									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
+																	</li>
+												</ul>
+				 
+					
+			</li>
+					
+					<!-- -----------Print Main(First Level) Menu------ -->
+			<li class=""><a href="http://www.electracard.com/connect">ECS Connect</a>					
+				
+				<!-- ---------------- Check Second Level Menu Existance -------------- -->
+				 
+					
+			</li>
+					
+												
+	</ul>
+</div>
+</div>
 
-      <tbody><tr>
-        <td align="center">&nbsp;</td>
-        <td colspan="2">&nbsp;</td>
-      </tr>
-    </tbody></table>
-<script language="JavaScript">
-<!--
-function submitdetails2(pagename,id)
-{
-	document.getElementById("resourceform2").method="post";
-	document.getElementById("resourceform2").action=pagename;
+<form action="http://www.electracard.com/common/search" name="search_from" method="post">
+<input type="hidden" name="mycsrftoken" value="d8001324926351102f6f6884455707f2">  
+<div class="right-search"><input name="search_key" id="search_key" type="text" placeholder="Search..."></div>
+</form>
 
-	document.getElementById("resourceform2").detailstype.value='month';
-	document.getElementById("resourceform2").resourceid.value=id;
-	document.getElementById("resourceform2").submit();
-}
-//-->
-</script>	</td>
-    <td width="675" valign="top" bgcolor="#FFFFFF" style="padding-left:24px; padding-right:15px; padding-top:13px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td class="breadcrum-link-blue"><a href="index.php" class="breadcrum-link">Home</a> &gt;&gt; <a href="" class="breadcrum-link"></a> 
+</div>
+
+</div>
+</div>
+<div class="clear"></div>
+
+</div>
+<div class="clear"></div>	
 		
-		 <a href="" class="breadcrum-link"></a> 
-		Privacy Policy</td>
-      </tr>
-      <tr>
-        <td class="text" id="content-href" style="padding-top:15px;"><h1>Privacy Policy</h1>
-<p>Respecting and protecting customer privacy has been vital to the success of our business. Keeping your information secure is one of our most important responsibilities. We value your trust and handle your information with care.<br>
-<br>
-We always limit our collection of information and do not share your personal information, including your e-mail address, with other parties. Neither do we send unsolicited e-mail. If you are receiving e-mail from us, it is because at some point you, or someone with access to your e-mail account, requested it.<br>
-<br>
-<strong>Protecting Online Applications<br>
-<br>
-</strong>When you apply online for services or products offered by our web site, your sensitive information is only accessible to authorized representatives.<br>
-<br>
-We do not sell nonpublic information to anyone and do not disclose nonpublic information about our customers or former customers to anyone, except as permitted by law. In no circumstance, will we provide customer account information to third parties for marketing purposes.<br>
-<br>
-<strong>Links to Other Sites</strong> <br>
-<br>
-This site may contain links to other sites. We are not responsible for the privacy practices or the content of such Web sites.<br>
-<br>
-<strong>Keeping up-to-date with the ECS Privacy Policy.</strong><br>
-<br>
-This policy may change from time to time without notice, but you can always contact us by clicking here to request our most current copy.</p><br></td>
-      </tr>
-	  <tr>
-        <td>&nbsp;</td>
-      </tr>
-    </tbody></table></td>
-    <td width="224" valign="top" bgcolor="#FFFFFF" style="border-left:solid 1px #D6D4D4;padding-top:13px;">
-<table width="224" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td class="text" style="padding-left:18px; padding-right:18px;">
-		 
-            <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="46%" valign="middle"><div id="slideshow"><a href="#"><img src="images/index_01.png" alt="Slideshow Image 1" class="active">
-				<img src="images/index_02.png" alt="Slideshow Image 2">	
-			 	<img src="images/index_03.png" alt="Slideshow Image 3">
-				<img src="images/index_04.png" alt="Slideshow Image 4">
-				<img src="images/index_05.png" alt="Slideshow Image 5">
-				<img src="images/index_06.png" alt="Slideshow Image 6">
-				 <img src="images/index_07.png" alt="Slideshow Image 7"> 
-				  <img src="images/index_08.png" alt="Slideshow Image 8"></a></div> 
-	</td>
-   </tr>
-    <tr>
-    <td width="46%" valign="middle"><span class="blue-title"><br>Request for Information</span><br></td>
-   </tr>
-	<tr>
-    <td width="46%" valign="middle"><strong><br>For Sales Enquiries</strong></td>
-    </tr>
-  <tr>
-    <td valign="middle"><a href="requestforinfo.php"><img src="images/click-here-btn.gif" vspace="10" border="0"></a></td>
-    </tr>
-</tbody></table><br>		
+
+	
+
+	
+
+
+		<div style="background-image: url(http://www.electracard.com/bonfire/themes/ecs/images/1e5c4-background.jpg); background-repeat: no-repeat; background-position: center bottom; height:265px; padding:92px 0 0 0; width:100%;">
+
+	
+
+	<div style="position:relative; width:990px; margin:0px auto;">
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div class="center-align">
+
+	<div class="" style="width:630px; padding:10px; text-align:left; background-image: url(http://www.electracard.com/bonfire/themes/ecs/images/77939-header-bg.png); background-repeat: repeat; background-position: left top; color:#000; position:absolute; top:170px; left:-5px;">
+
+	<h2>Privacy</h2>
+<p><br><br></p>
+	</div>
+
+	</div>
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+<div style=" position:absolute; z-index:2000; right:10px; top:0px;">
+
+<div id="panel">
+
+<div style="float:left;">
+<input type="hidden" name="mycsrftoken" value="d8001324926351102f6f6884455707f2">  
+<select name="i_am" class="xxl" onchange="getLookingList(this.value);">	
+
+		<option value="" selected=""> I am a </option>
+
+		
+			<option value="1">Merchant</option>
+
+		
+			<option value="2">Bank</option>
+
+		
+			<option value="3">Analyst</option>
+
+		
+			<option value="4">Financial Institution </option>
+
+		
+		
+
+</select>
+
+</div>
+
+<div id="select_looking" style="float:left;">
+
+<select name="looking" class="xxl" id="looking" disabled="disabled">
+
+		<option value="0" selected=""> Looking for </option>
+
+		<option value="12" onclick=" window.location.href = 'http://www.electracard.com/products';"> electra Merchant </option>
+
+</select>
+
+</div>
+
+
+
+</div>
+
+
+
+<p class="slide"><a href="#" class="btn-slide">Solution Finder&nbsp;&nbsp;&nbsp;</a></p>
+
+</div>
+
+
+<script type="text/javascript">
+function sovan(page)
+{
+	window.location.href = 'http://www.electracard.com/'+page; 
+}
+</script>
+</div>
+
 			
-	<span class="doted-line">.............................................................</span>	
-	<br><br>
-      <span class="blue-title">The ECS Newsletter</span><br><br>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td><input name="subscribe" id="subscribe" type="text" class="search-box" value="Enter your email address" size="25" onfocus="javascript:document.getElementById('subscribe').value='';">	      </td>
-        </tr>
-        <tr>
-          <td><a href="#" onclick="javascript:subscribe()"><img src="images/subscribe-btn.gif" alt="" width="67" height="21" vspace="10" border="0"></a></td>
-        </tr>
-</tbody></table>
-     
-	<span class="doted-line">............................................................</span>
-  </td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-    </tbody></table>	</td>
+
+		</div>
+
+
+	<div class="wrapper">
+
+
+
+	<div id="mid-container">
+
+		<div class="clear"></div>
+
+			
+		<div class="container-wide" id="print_content">
+
+			<link href="http://www.electracard.com//bonfire/themes/ecs/scripts/global.css" rel="stylesheet" type="text/css">
+
+			<link type="text/css" href="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery-ui-1.8.4.custom.css" rel="stylesheet">
+
+			<link type="text/css" media="screen" rel="stylesheet" href="http://www.electracard.com//bonfire/themes/ecs/scripts/layout.css">
+
+			<link rel="stylesheet" href="http://www.electracard.com//bonfire/themes/ecs/scripts/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8">
+<div class="icon">
+	<script language="javascript">
+function Clickheretoprint()
+{ 
+  var disp_setting="toolbar=yes,location=no,directories=yes,menubar=yes,"; 
+      disp_setting+="scrollbars=yes,width=650, height=600, left=100, top=25"; 
+  var content_vlue = document.getElementById("print_content").innerHTML; 
+  
+  var docprint=window.open("","",disp_setting); 
+   docprint.document.open(); 
+   docprint.document.write('<html><head><title>Inel Power System</title>'); 
+   docprint.document.write('</head><body onLoad="self.print()"><center>');          
+   docprint.document.write(content_vlue);          
+   docprint.document.write('</center>'); 
+   docprint.document.close(); 
+   docprint.focus(); 
+}
+</script>
+
+<div id="ContactUs" style="display:none">
+<script type="text/javascript">
+function changeCaptchaPage() {	
+	var url = "http://www.electracard.com/common/changeCaptcha";
+	$.ajax({
+	   type: "POST",
+	   url: url,
+	   data: '',
+	   success: function(data){
+			if(data)
+			{
+				var captcha = data.split("<>") ;
+				var word = captcha[0];
+				var image = captcha[1];
+				document.getElementById('cap_image_page').innerHTML=image;
+				document.getElementById('captcha-word-page').value=word;
+			}		 
+		}
+	});	
+}
+function callContactForm()
+{
+changeCaptchaPage();
+document.getElementById('ContactUs').style.display='block';
+
+}
+</script>
+
+<form id="contactus" name="contactus" action="http://www.electracard.com/common/email_this_page" method="post" accept-charset="UTF-8">
+<input type="hidden" name="mycsrftoken" value="d8001324926351102f6f6884455707f2">  
+<div id="LoginPannel" class="PopUp" style="z-index:100000">
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" height="100%">
+  <tbody><tr>
+    <td id="BoxTopLeft" height="35"></td>
+    <td id="BoxTopMiddle" valign="top">
+	Email this Page<a href="javascript:void(0)" onclick="document.getElementById('ContactUs').style.display='none'" style="float:right"><img src="http://www.electracard.com//bonfire/themes/ecs/images/close.png"></a>
+	</td>
+    <td id="BoxTopRight"></td>
   </tr>
-  <tr bgcolor="#FFFFFF">
-    <td height="61" colspan="3">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr bgcolor="#F09D13">
-        <td colspan="3" valign="bottom" class="certified-text"><img src="images/blank.gif" height="2"></td>
-      </tr>
-      <tr>
-        <td width="1%" height="31" class="certified-text" style="padding-left:15px; padding-top:3px;"><!-- Certified by:-->
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="120" height="45">
-  <param name="movie" value="images/scroll2.swf">
-  <param name="quality" value="high">
-  <embed src="images/scroll2.swf" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="120" height="45">
-</object></td>
-			<td style="padding-left:20px;"><!-- a href="javascript:CCPopUp('http://seal.controlcase.com/', 2911405424);">
-					<img src='images/pci.jpg' oncontextmenu='return false;' border='0'></a></br>
-					<script language ='javascript'>
-					
-					function CCPopUp(SEALURL, cId){
-					  window.open(""+SEALURL+"index.php?page=showCert&cId="+cId+"", "win",'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=700,height=585');
-					  self.name = "mainWin";
-					}
-					
-					</script> --> </td>
-              </tr>
-        </tbody></table>          </td>
-        <td width="98%" align="center" class="footer-link"><a href="privacy-policy.php" class="footer-link">Privacy Policy</a> | <a href="disclaimer.php" class="footer-link">Disclaimer</a><br>
-      Copyrights © 2009 ElectraCard Services. All rights reserved.</td>
-        <td width="1%" align="right" valign="top">
-		<table width="100%"><tbody><tr>
-		<td width="1%" align="right" valign="top"><a href="http://www.linkedin.com/company/electracard-services" target="_blank"><img src="images/linkedin.jpg" alt="" border="0"></a></td>
-		<td>
-		<a href="http://www.opussoft.com" target="_blank"><img src="images/opus-logo.gif" alt="" border="0"></a></td></tr></tbody></table></td>
-      </tr>
-    </tbody></table>
+  <tr>
+
+    <td id="BoxMiddleLeft">&nbsp;</td>
+    <td bgcolor="#ececec" valign="top" style="padding:20px 0;">
+	
+	<div id="fg_server_errors" class="error"></div><table cellpadding="5" cellspacing="5" border="0" align="center" width="90%">
+		<tbody><tr>			
+			<td id="fg_form_InnerContainer"><strong>To*</strong></td>
+			<td>:</td>
+			<td><input type="" name="to" id="to" size="48"></td>
+		</tr>
+		<tr>
+			<td><strong>Bcc</strong></td>
+			<td>:</td>
+			<td><input type="" name="bcc" id="bcc" size="48"></td>
+		</tr>
+		<tr>
+			<td><strong>Subject*</strong></td>
+			<td>:</td>
+			<td><input type="" name="subject" id="subject" size="48"></td>
+			</tr>
+		<tr>
+			<td><strong>Your Email*</strong></td>
+			<td>:</td>
+			<td><input type="" name="email" id="email" size="48"></td>
+		</tr>
+		<tr>
+			<td valign="top"><strong>Message</strong></td>
+			<td valign="top">:</td>
+			<td><textarea cols="41" rows="6" name="message"></textarea></td>
+		</tr>
+		<tr>
+			<td valign="top"><strong>Captcha*</strong></td>
+			<td valign="top">:</td>
+			<td valign="top">
+				<table width="220" border="0" style="float:left; margin-left:12px">
+					  <tbody><tr>
+						<td width="40%"><span id="cap_image_page" style="vertical-align:middle;"></span></td>
+						<td width="60%" valign="top">
+						<input type="hidden" id="captcha-word-page" name="captcha-word-page">
+						<input type="text" name="captcha-code-page" id="captcha-code-page" size="10" style="border-color:#6E6E6E;">
+					<a href="javascript:void(0)" onclick="changeCaptchaPage();"> <img src="http://www.electracard.com/bonfire/themes/ecs/images/refresh_icon.png"></a></td>
+					  </tr>
+					</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+			
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+			<td><input type="hidden" value="http://www.electracard.com/privacy" name="Callback"><input type="button" class="submit-btn" onclick="validate_submit();" name="send" value="Send"></td>
+		</tr>
+	</tbody></table>
+	</td>
+    <td id="BoxMiddleRight">&nbsp;</td>
+  </tr>
+  <tr>
+    <td id="BoxBottomleft"></td>
+    <td id="BoxBottomMiddle">&nbsp;</td>
+    <td id="BoxBottomRight"></td>
+  </tr>
+</tbody></table>
+</div>
+</form>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+function validate_submit()
+{
+	var flag = 0;
+	var to = document.getElementById('to').value;
+	var atpos=to.indexOf("@");
+	var dotpos=to.lastIndexOf(".");
+	if (atpos<1 || dotpos<atpos+2 || dotpos+2>=to.length)
+	{
+		document.getElementById('to').style.borderColor='red';
+		flag = 1;
+	}
+	var email = document.getElementById('email').value;
+	var atpos=email.indexOf("@");
+	var dotpos=email.lastIndexOf(".");
+	if (atpos<1 || dotpos<atpos+2 || dotpos+2>=email.length)
+	{
+		//alert('Please Enter Correct Emai Address.');
+		document.getElementById('email').style.borderColor='red';
+		flag = 1;
+	}
+	var subject = document.getElementById('subject').value;
+	if(subject=='')
+	{
+		document.getElementById('subject').style.borderColor='red'
+		flag = 1;
+	}
+	var captcha_word = document.getElementById('captcha-word-page').value;
+	var captcha_code = document.getElementById('captcha-code-page').value;
+	if(captcha_code!=captcha_word)
+	{
+		document.getElementById('captcha-code-page').style.borderColor='red';
+		flag = 1;
+	}
+	else
+	{ 
+		document.getElementById('captcha-code-page').style.borderColor='#6E6E6E'; 
+	}
+	
+	if(flag == 1)
+	{
+		return false;
+	}
+	else
+	{
+		document.forms['contactus'].submit();
+	}
+}
+
+</script>
+
+<div id="LoginPannelBG" class="PopUpBG"></div>
+
+</div>
+<div id="rating" style="display:none">
+<form id="rating" accept-charset="UTF-8" method="post" action="http://www.electracard.com/common/rating">
+<input type="hidden" name="mycsrftoken" value="d8001324926351102f6f6884455707f2">  
+<div id="LoginPannel" class="PopUp" style="z-index:100000">
+<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td id="BoxTopLeft" height="35"></td>
+<td id="BoxTopMiddle" valign="top">
+Rate this Page
+<a style="float:right" onclick="document.getElementById('rating').style.display='none'" href="javascript:void(0)">
+<img src="http://www.electracard.com/bonfire/themes/ecs/images/close.png">
+</a>
+</td>
+<td id="BoxTopRight"></td>
+</tr>
+<tr>
+<td id="BoxMiddleLeft"> </td>
+<td valign="top" bgcolor="#ececec" style="padding:10px 0;">
+	<table width="90%" cellspacing="3" cellpadding="3" border="0" align="center">
+	<tbody>
+	<tr>
+	<td style="border-bottom:solid 1px #ccc;" colspan="2" align="left">
+	<img alt="" src="http://www.electracard.com/bonfire/themes/ecs/images/electracard-services.png">
+	</td>
+	</tr>
+	<tr>
+	<td colspan="2"> </td>
+	</tr>
+	<tr>
+	<td colspan="2" align="left">
+	<strong>The Content of this page was usefull to me.</strong>
+	</td>
+	</tr>
+	<tr>
+	<td width="1%">
+	<input type="radio" name="rating" value="5" checked="checked">
+	</td>
+	<td width="99%" align="left">Strongly Agree</td>
+	</tr>
+	<tr>
+	<td>
+	<input type="radio" name="rating" value="4">
+	</td>
+	<td align="left">Agree</td>
+	</tr>
+	<tr>
+	<td>
+	<input type="radio" name="rating" value="3">
+	</td>
+	<td align="left">Neutral</td>
+	</tr>
+	<tr>
+	<td>
+	<input type="radio" name="rating" value="2">
+	</td>
+	<td align="left">Disagree</td>
+	</tr>
+	<tr>
+	<td>
+	<input type="radio" name="rating" value="1">
+	<input type="hidden" name="callBack" value="www.electracard.com/privacy">
+		<input type="hidden" name="pageName" value="privacy">
+	</td>
+	<td align="left">Strongly Disagree</td>
+	</tr>
+	<tr>
+	<td colspan="2"> </td>
+	</tr>
+	<tr>
+	<td></td>
+	<td>
+	<input class="submit-btn" type="submit" value="Submit" name="send">
+	<input class="submit-btn" type="button" onclick="document.getElementById('rating').style.display='none'" value="Cancel" name="send">
+	</td>
+	</tr>
+	</tbody>
+	</table>
+</td>
+<td id="BoxMiddleRight"> </td>
+</tr>
+<tr>
+<td id="BoxBottomleft">&nbsp;</td>
+<td id="BoxBottomMiddle">&nbsp;</td>
+<td id="BoxBottomRight">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</form>
+
+<div id="LoginPannelBG" class="PopUpBG"></div></div>
+	<a href="javascript:Clickheretoprint()" onmouseover="document.MyImage.src='http://www.electracard.com//bonfire/themes/ecs/images/print-hr.png';" onmouseout="document.MyImage.src='http://www.electracard.com//bonfire/themes/ecs/images/print.png';"> 
+<img src="http://www.electracard.com//bonfire/themes/ecs/images/print.png" alt="Print this page" title="Print this page" name="MyImage"></a> 
+    
+    
+<!--	<a href="javascript:Clickheretoprint()" onMouseOver="document.MyImage1.src='http://www.electracard.com//bonfire/themes/ecs/images/pdf-hr.png';" onMouseOut="document.MyImage1.src='http://www.electracard.com//bonfire/themes/ecs/images/pdf.png';"> 
+<img src="http://www.electracard.com//bonfire/themes/ecs/images/pdf.png" alt="PDF" title="PDF" name="MyImage1"></a> 
+-->
+
+	<a href="javascript:void(0)" onclick="callContactForm();" onmouseover="document.MyImage2.src='http://www.electracard.com//bonfire/themes/ecs/images/msg-hr.png';" onmouseout="document.MyImage2.src='http://www.electracard.com//bonfire/themes/ecs/images/msg.png';"> 
+<img src="http://www.electracard.com//bonfire/themes/ecs/images/msg.png" title="Email this page" alt="Email this page" name="MyImage2"></a> 
+
+
+<a href="javascript:void(0)" onclick="document.getElementById('rating').style.display='block'" onmouseover="document.MyImage3.src='http://www.electracard.com//bonfire/themes/ecs/images/rate-hr.png';" onmouseout="document.MyImage3.src='http://www.electracard.com//bonfire/themes/ecs/images/rate.png';"> 
+<img src="http://www.electracard.com//bonfire/themes/ecs/images/rate.png" alt="Rate this page" title="Rate this page" name="MyImage3"></a>
+
+    
+
+
+</div>
+
+
+
+			<div id="print_content1"><div class="breadcrum"><a href="http://www.electracard.com/home">Home</a> 
+&nbsp;
+			<img src="http://www.electracard.com//bonfire/themes/ecs/images/breadcrum-arrow.png" class="v-mid" alt="">&nbsp; 
+			<a href="http://www.electracard.com/privacy" class="active">Privacy</a> 
+			</div>
+<div class="clear"></div>
+<p>Respecting and protecting customer privacy has been vital to the success of our business. Keeping your information secure is one of our most important responsibilities. We value your trust and handle your information with care.<br><br>We always limit our collection of information and do not share your personal information, including your e-mail address, with other parties. Neither do we send unsolicited e-mail. If you are receiving e-mail from us, it is because at some point you, or someone with access to your e-mail account, requested it.<br><br><strong>Protecting Online Applications</strong><br><br>When you apply online for services or products offered by our web site, your sensitive information is only accessible to authorized representatives.<br><br>We do not sell nonpublic information to anyone and do not disclose nonpublic information about our customers or former customers to anyone, except as permitted by law. In no circumstance, will we provide customer account information to third parties for marketing purposes.<br><br><strong>Links to Other Sites</strong><br><br>This site may contain links to other sites. We are not responsible for the privacy practices or the content of such Web sites.<br><br><strong>Keeping up-to-date with the ECS Privacy Policy.</strong><br><br>This policy may change from time to time without notice, but you can always contact us by clicking here to request our most current copy.</p><script type="text/javascript"> 
+function show(val, nos)
+{
+	for(var i=1; i<=nos; i++)
+	{
+		document.getElementById('TABData'+i).style.display="none";
+		$('#TABLinks'+i).removeClass( "TABActive" );
+	}
+	document.getElementById('TABData'+val).style.display="block";
+	$('#TABLinks'+val).addClass( "TABActive" );
+}
+</script>
+</div>			
+
+		</div>
+
+		
+
+	</div>
+
+	<div class="clear"></div>
+
+</div>
+
+
+
+
+<div id="footer">
+
+<div class="clear"></div>
+
+<div class="btm-link">
+
+
+
+<div class="clear"></div>
+
+
+	<div class="btm-box">
+
+		<h2><a href="http://www.electracard.com/about-us">About Us</a></h2>
+
+		<ul>
+
+			
+			
+
+					<li><a href="http://www.electracard.com/about-us/why-ecs-about"> Why ECS</a></li>
+
+			
+
+			
+			
+
+					<li><a href="http://www.electracard.com/about-us">Overview</a></li>
+
+			
+
+			
+			
+
+					<li><a href="http://www.electracard.com/about-us/leadership">Leadership</a></li>
+
+			
+
+			
+			
+
+					<li><a href="http://www.electracard.com/about-us/customer">Customers</a></li>
+
+			
+
+			
+			
+
+					<li><a href="http://www.electracard.com/partners"> Partners</a></li>
+
+			
+
+			
+			
+
+					<li><a href="http://www.electracard.com/about-us/indrustry-analyst-reports">Industry Analyst Reports</a></li>
+
+			
+
+			
+		</ul>
+
+	</div>
+
+
+	<div class="btm-box">
+
+		<h2><a href="http://www.electracard.com/products">Products</a></h2>
+
+		<ul>
+
+			
+			
+
+					<li><a href="http://www.electracard.com/products/acquiring-solutions">Acquiring Solutions</a></li>
+
+			
+
+			
+			
+
+					<li><a href="http://www.electracard.com/products/issuing-solutions"> Issuing Solutions</a></li>
+
+			
+
+			
+			
+
+					<li><a href="http://www.electracard.com/products/risk-fraud-management-solutions"> Risk &amp; Fraud Management Solutions</a></li>
+
+			
+
+			
+		</ul>
+
+	</div>
+
+
+	<div class="btm-box">
+
+		<h2><a href="http://www.electracard.com/services">Services</a></h2>
+
+		<ul>
+
+			
+			
+
+					<li><a href="http://www.electracard.com/services/processing-services">Processing Services</a></li>
+
+			
+
+			
+			
+
+					<li><a href="http://www.electracard.com/services/professional-services">Professional Services</a></li>
+
+			
+
+			
+			
+
+					<li><a href="http://www.electracard.com/services/support-services">Support Services</a></li>
+
+			
+
+			
+		</ul>
+
+	</div>
+
+
+	<div class="btm-box">
+
+		<h2><a href="http://www.electracard.com/news/ecs-news">News &amp; Events</a></h2>
+
+		<ul>
+
+			
+			
+
+					<li><a href="http://www.electracard.com/news/ecs-news">ECS News</a></li>
+
+			
+
+			
+			
+
+					<li><a href="http://www.electracard.com/news/press-releases">Press Releases</a></li>
+
+			
+
+			
+			
+
+					<li><a href="http://www.electracard.com/news/events">Events</a></li>
+
+			
+
+			
+		</ul>
+
+	</div>
+
+
+	<div class="btm-box">
+
+		<h2><a href="http://www.electracard.com/connect">Connect with ECS</a></h2>
+
+		<ul>
+
+			
+			
+
+					<li><a href="http://www.electracard.com/contact-us">Contact Us</a></li>
+
+			
+
+			
+			
+
+					<li><a href="http://www.electracard.com/usergroup">User Group</a></li>
+
+			
+
+			
+			
+
+					<li><a href="http://www.electracard.com/careers">Careers</a></li>
+
+			
+
+			
+		</ul>
+
+	</div>
+
+
+
+
+<div class="social-box">
+
+
+
+
+
+
+
 <script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-4832739-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+
+
+
+function validateEmail()
+{	
+	var reply = $("#ecsNewSubFrm").validate({
+		errorElement:'div',						
+		rules: {				
+				user_email : 
+				{
+					required: true,
+					email : true
+				}
+		},
+		messages: {		
+				user_email : 
+				{
+					required: '<div style="font-weight:normal;">Email address required</div>',
+					email : '<div style="font-weight:normal;">Please enter a valid email address</div>'
+				}
+		},
+		success: function(label) 
+		{
+			label.hide();
+		},	 
+		submitHandler: function(form) 
+		{				
+			submitInfo();		
+        }
+	})
+}
+
+
+
+function submitInfo()  
+
+{
+
+
+
+var SITEROOT = 'http://www.electracard.com/';
+
+
+
+	$("div.error").hide();	
+
+	var ajaxurl = SITEROOT+'home/NewsSubscribe';
+
+	
+
+	var frm = document.ecsNewSubFrm; 
+
+	var user_email = frm.user_email.value;	
+
+	var cct = $("input[name=mycsrftoken]").val();
+
+	$.ajax({
+
+		   type: "POST",
+
+		   url: ajaxurl,
+
+		   async: false,
+
+		   data: "user_email="+user_email+"&mycsrftoken="+cct,
+
+		   success: function(data)
+
+			{ 
+
+				if(data == 1)
+
+				{
+
+				$("#content_data").html("<div class='success'>Thank you for subscribing to our newsletter.</div>");
+
+				}
+
+				else
+
+				{
+
+				$("#content_data").html("You are already subscribed to our newsletter");
+
+				}
+
+			}
+
+						
+
+		});
+
+	
+
+}
+
+</script>
+
+
+
+<form id="ecsNewSubFrm" name="ecsNewSubFrm" method="POST" action="">
+
+
+
+<div class="subscribe" style="margin-top:0px;"><div style="width:100%; float:left; padding:0 0 5px 0;">Subscribe to Newsletter</div> 
+
+<div class="clear"></div><div class="mail-bg">
+
+<input onblur="javascript : return validateEmail();" onkeypress="if(event.keyCode == 13){ 
+
+javascript : return validateEmail();
+
+return false; }document.getElementById('content_data').innerHTML=''" placeholder="Enter email address" type="text" name="user_email" value="" id="user_email">
+
+<!--<input type="submit" value="register" onclick="javascript : return validateEmail();"/>-->
+
+
+
+<div id="content_data" style="color:red; float:right; text-align:right; width:300px; font-weight:normal"></div>
+
+</div></div></form>
+
+
+
+<div class="clear"></div>
+
+
+
+
+
+
+
+
+
+<table width="100%" style="padding:15px 0 0 0;" border="0" cellspacing="0" cellpadding="0">
+
+  <tbody><tr>
+
+    <td width="34%" align="left" valign="bottom"><h2>Follow Us On :</h2></td>
+
+    <td width="1%">&nbsp;</td>
+
+    <td width="65%" align="left" valign="top">
+
+	
+		<a href="https://twitter.com/ElectraCardServ" target="_blank"><img src="http://www.electracard.com/bonfire/media/download/2aa54-banking-transaction-system-hr.png"></a> 
+
+		
+		<a href="http://www.linkedin.com/company/electracard-services?trk=cp_followed_name_electracard-services" target="_blank"><img src="http://www.electracard.com/bonfire/media/download/201e9-online-banking-management-system-hr.png"></a> 
+
+		
+		<a href="http://www.youtube.com/channel/UCFFHnZHyNTqfY3zC3uvk5pg" target="_blank"><img src="http://www.electracard.com/bonfire/media/download/04c4b-electronic-commerce-and-banking-hr.png"></a> 
+
+		
+		
+
+  
+
+		
+
+		
 
 	</td>
+
   </tr>
+
 </tbody></table>
+
+
+
+
+
+</div> 
+
+<div class="clear"></div>
+
+</div>
+
+
+
+<div class="clear"></div>
+
+
+
+<div class="footer">
+
+<div class="footer-text">
+
+<a href="http://www.electracard.com/privacy">Privacy Policy</a>   |   <a href="http://www.electracard.com/disclaimer">Disclaimer</a><br>
+
+
+
+© Copyright  2014 ElectraCard Services, a MasterCard company. All Rights Reserved  </div>
+
+<div class="clear"></div>
+
+</div>
+
+</div>
+
+
+
 
 
 </body></html>
