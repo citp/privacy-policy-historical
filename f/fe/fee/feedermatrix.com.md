@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the feedermatrix.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118105301id_/http%3A//feedermatrix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedermatrix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/privacy.php) for the most accurate reproduction.*
 
-# Instant Payments to your paypal, payza, stp!
+# The Best Reseller Program!
 
-[](https://web.archive.org/web/20131118105301id_/http%3A//feedermatrix.com/index.php)[](https://web.archive.org/web/20131118105301id_/http%3A//feedermatrix.com/details.php)[](https://web.archive.org/web/20131118105301id_/http%3A//feedermatrix.com/reg.php)[](https://web.archive.org/web/20131118105301id_/http%3A//feedermatrix.com/faq.php)[](https://web.archive.org/web/20131118105301id_/http%3A//feedermatrix.com/sendmail.php)[](https://web.archive.org/web/20131118105301id_/http%3A//feedermatrix.com/account.php)  
+[](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/index.php)[](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/details.php)[](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/reg.php)[](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/faq.php)[](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/sendmail.php)[](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/account.php)  
 | 
 
 ## Privacy
@@ -21,7 +21,7 @@
 >  When personal information is collected from our website, the individual who has entered their information is agreeing to receive emails from our website from time to time. These emails may contain specials, newsletters, free reports, free giveaways, etc. When receiving these emails, the individual understands that they have granted us permission to send such emails when they have filled out our online forms, have purchased from us or have become a reseller of our website.
 
 > **Questions Regarding Our Privacy Policy**  
->  If a member has a question regarding our privacy policy or wants further information about our privacy policy, they may contact me by [email us](https://web.archive.org/web/20131118105301id_/http%3A//feedermatrix.com/sendmail.php?ref=) for an immediate response. Please indicate in the subject line if it is a question or concern and describe it completely in the text body of the email. 
+>  If a member has a question regarding our privacy policy or wants further information about our privacy policy, they may contact me by [email us](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/sendmail.php?ref=) for an immediate response. Please indicate in the subject line if it is a question or concern and describe it completely in the text body of the email. 
 
 > **How We Protect Your Information Online**  
 >  When and individual fills out a form on or website or participates in our program, their personal information which is collected is stored directly to the servers database. All databases are secured and password protected assuring your information remains secure. When placing an order on our website with payment, all orders are process through SSL secured web pages through Alertpay payment gateway. 
@@ -31,13 +31,13 @@
 
 | 
 
-[](https://web.archive.org/web/20131118105301id_/http%3A//feedermatrix.com/reg.php)  
+[](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/reg.php)  
   
 ---|---  
     
   
   
   
-**[Disclaimer](https://web.archive.org/web/20131118105301id_/http%3A//feedermatrix.com/earning.php)      [Terms](https://web.archive.org/web/20131118105301id_/http%3A//feedermatrix.com/rules.php)      [Privacy](https://web.archive.org/web/20131118105301id_/http%3A//feedermatrix.com/privacy.php)      [FAQ’s](https://web.archive.org/web/20131118105301id_/http%3A//feedermatrix.com/faq.php)      [Contact Us](https://web.archive.org/web/20131118105301id_/http%3A//feedermatrix.com/sendmail.php)      [Login](https://web.archive.org/web/20131118105301id_/http%3A//feedermatrix.com/account.php)     **
+**[Disclaimer](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/earning.php)      [Terms](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/rules.php)      [Privacy](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/privacy.php)      [FAQ’s](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/faq.php)      [Contact Us](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/sendmail.php)      [Login](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/account.php)     **
 
 Copyright 2011-2015 FeederMatrix.com All Rights Reserved.    
