@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videomasti.net privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221123946id_/http%3A//videomasti.net/%3Fpage_id%3D17085) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videomasti.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073423id_/http%3A//videomasti.net/%3Fpage_id%3D17085) for the most accurate reproduction.*
 
 # Privacy Policy | Video Masti
 
