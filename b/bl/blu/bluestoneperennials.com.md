@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluestoneperennials.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125160024id_/http%3A//www.bluestoneperennials.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluestoneperennials.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115551id_/http%3A//www.bluestoneperennials.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Bluestone Perennials, Inc -- Privacy Policy
+# Bluestone Perennials -- Privacy Policy
 
 We here at Bluestone share many things in common with our customers: 
 
