@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adpostjob4u.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211181403id_/http%3A//www.adpostjob4u.com/ad-post-job-4-u-about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpostjob4u.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080935id_/http%3A//adpostjob4u.com/ad-post-job-4-u-about-us/privacy-policy) for the most accurate reproduction.*
 
 # Adpostjob4u.com- Privacy Policy privacy policy content Ruls To Follow in Our Sites
-
-Are you working in Ad Posting Company? But not earning enough money from your Company! We will guide you How to Earn Rs- 20,000/-month Call us - +91- 9734272280 or SMS your Number. Free Guide Ad posting Tips + Team viewer Support. No Charge Required It’s absolutely free 
 
 [](http://www.adpostjob4u.com/wp-content/uploads/2013/07/image_privacypolicy.jpg)
 
@@ -95,11 +93,3 @@ admin@adpostjob4u.com
 This document was last updated on July 21, 2013
 
 Privacy policy created by http://www.generateprivacypolicy.com
-
-### LOCATIONS TOOLS>> Try to post ad in only Indian locations, Don’t post ad directly Use Classified ad locations Tools before post an ad, Check thousand of classified sites posting Country locations in 1see. 
-
-### LOCATIONS TOOLS>> Try to post ad in only Indian locations, Don’t post ad directly Use Classified ad locations Tools before post an ad, Check thousand of classified sites posting Country locations in 1see. 
-
-###  DOT NET LINK FILTER TOOLS >> Just Copy paste your Classified Sites list in this software and Click on process button , Its Separate Only Working Classified Site list from Thousand of Classified Sites list in 10 Min. 
-
-###  DOT NET LINK FILTER TOOLS >> Just Copy paste your Classified Sites list in this software and Click on process button , Its Separate Only Working Classified Site list from Thousand of Classified Sites list in 10 Min. 
