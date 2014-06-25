@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the caretoclick.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007151617id_/http%3A//www.caretoclick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caretoclick.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110452id_/http%3A//www.caretoclick.com/privacy) for the most accurate reproduction.*
 
-# Care To Click
-
-### Privacy Policy
+# Care to Click
 
 **Privacy Policy**
 
@@ -111,11 +109,11 @@ We may amend this Privacy Policy at any time.  Amendments will take effect imme
 
 **_How to Contact Us Regarding this Privacy Policy_**
 
-You can direct any questions concerning this Privacy Policy to us [here](https://web.archive.org/contact)
+You can direct any questions concerning this Privacy Policy to us at: [info@caretoclick.com](mailto:info@caretoclick.com)
 
 **_Special Notification for California Residents – Your California Privacy Rights_**
 
-Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes.  Such requests must be submitted to us [here](https://web.archive.org/contact) or at:
+Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes.  Such requests must be submitted to us at [info@caretoclick.com](mailto:info@caretoclick.com) or at:
 
 Care to Click, LLC
 
