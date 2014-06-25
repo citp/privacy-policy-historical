@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instachatrooms.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209020046id_/http%3A//www.instachatrooms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instachatrooms.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625160045id_/http%3A//www.instachatrooms.com/more/privacy) for the most accurate reproduction.*
 
-# InstaChatRooms Privacy Policy
+# Privacy
 
 PLEASE READ THROUGH THIS ENTIRE PRIVACY POLICY CAREFULLY. BY ACCESSING, USING OR VIEWING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE FULLY READ THIS PRIVACY POLICY, THAT YOU UNDERSTAND IT IN FULL AND THAT YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY AND THE TERMS OF SERVICE AGREEMENT ON THIS WEBSITE. IT IS YOUR RESPONSIBILITY TO CHECK THIS PRIVACY POLICY ON A REGULAR BASIS IN ORDER TO BE AWARE OF ANY CHANGES THAT HAVE BEEN MADE.
 
