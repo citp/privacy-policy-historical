@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealbase.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928065435id_/http%3A//www.dealbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealbase.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625230653id_/http%3A//www.dealbase.com/privacy) for the most accurate reproduction.*
 
-# DealBase.com Privacy Policy
+# DealBase.com Privacy Policy | Dealbase
 
 ### Last updated: August 4, 2010
 
@@ -15,7 +15,7 @@ We collect personally identifiable information (“Personal Information”) on D
 
 The information we learn from customers helps us personalize and continually improve your shopping experience at dealbase.com. Here are the types of information we gather.
 
-**Information You Give Us:** e receive and store any Personal Information you enter on our website or give us in any other way. You can choose not to provide certain Personal Information, but then you might not be able to take advantage of many of our features. We use Personal Information for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
+**Information You Give Us:** we receive and store any Personal Information you enter on our website or give us in any other way. You can choose not to provide certain Personal Information, but then you might not be able to take advantage of many of our features. We use Personal Information for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
 
 **Non-Personally Identifiable Information:** We receive and store certain types of non-personally identifiable information whenever you interact with us at Dealbase.com. For example, like many websites, we use “cookies,” (described below) and we obtain certain types of non-personally identifiable information when your web browser accesses dealbase.com. A number of companies offer utilities designed to help you visit websites anonymously. Although we will not be able to provide you with a personalized experience at dealbase.com if we cannot recognize you, we want you to be aware that these tools exist. 
 
@@ -32,9 +32,9 @@ Cookies are alphanumeric identifiers that we transfer to your computer’s hard 
 
 The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of dealbase.com’s coolest features, and we recommend that you leave them turned on.
 
-**Third Party Cookies: We use third-party companies to serve ads and collect information when your visit dealbase.com. These companies may use information (not including Personal Information such as your name, address, email address or telephone number) about your visits to dealbase.com in order to provide advertisements on dealbase.com, other websites and other forms of media about goods and services that may be of interest to you. These companies may employ their own cookies in addition to ours. If you would like more information about this practice and to know your choices about not having this information used by these companies, please[click here](http://www.networkadvertising.org/consumer/opt_out.asp). **
+**Third Party Cookies: We use third-party companies to serve ads and collect information when your visit dealbase.com. These companies may use information (not including Personal Information such as your name, address, email address or telephone number) about your visits to dealbase.com in order to provide advertisements on dealbase.com, other websites and other forms of media about goods and services that may be of interest to you. These companies may employ their own cookies in addition to ours. If you would like more information about this practice and to know your choices about not having this information used by these companies, please[click here.](http://www.networkadvertising.org/consumer/opt_out.asp) **
 
-**If you would like to see what information one of these companies has collected about your Internet usage, please[click here](http://www.bluekai.com/registryoverview.html). **
+**If you would like to see what information one of these companies has collected about your Internet usage, please[click here.](http://www.bluekai.com/registryoverview.html) **
 
   
 
@@ -60,7 +60,7 @@ Information about our customers is an important part of our business, and we are
 
 ### Which Information Can I Access?
 
-As described above, we use third-party companies to serve ads and collect non-personally identifiable information when your visit dealbase.com. If you would like to see what information one of these companies has collected about your Internet usage, please [click here](http://www.bluekai.com/registryoverview.html). 
+As described above, we use third-party companies to serve ads and collect non-personally identifiable information when your visit dealbase.com. If you would like to see what information one of these companies has collected about your Internet usage, please [click here](http://www.bluekai.com/registryoverview.html)
 
   
 
