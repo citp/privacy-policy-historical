@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bysymphony.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119154054id_/http%3A//bysymphony.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bysymphony.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134955id_/http%3A//bysymphony.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BySymphony
 
@@ -54,7 +54,7 @@ When you register, you will be given the option to opt-out of subscribing to our
 
 We do not sell or otherwise pass your details to third parties for marketing purposes. Marketing communications you subscribe to will only be sent by Symphony Style.
 
-At all times, we will offer you the opportunity to unsubscribe out of any service or update to which you have subscribed, if you change your mind. Any e-mail we send you will contain an easy automated unsubscribe link so that you can opt-out of that particular mailshot. Simply follow the indications in the e-mail. Alternatively you can change your email preferences or opt out of all emails by logging into My Account. To opt out of direct mail service or updates, please contact a bysynphony.com customer care representative on **+9714 3308050**  (from a mobile or internationally) or by email at **[customercare@bysymphony.com](emailto:customercare@bysymphony.com)**.
+At all times, we will offer you the opportunity to unsubscribe out of any service or update to which you have subscribed, if you change your mind. Any e-mail we send you will contain an easy automated unsubscribe link so that you can opt-out of that particular mailshot. Simply follow the indications in the e-mail. Alternatively you can change your email preferences or opt out of all emails by logging into My Account. To opt out of direct mail service or updates, please contact a bysynphony.com customer care representative on  **+9714 3106904** (from a mobile or internationally) or by email at **[customercare@bysymphony.com](emailto:customercare@bysymphony.com)**.
 
 **HOW YOU CAN ACCESS AND IF NECESSARY, CHANGE THE PERSONAL INFORMATION SYMPHONY MAINTAINS**
 
@@ -66,7 +66,7 @@ We will take reasonable care to maintain appropriate safeguards to ensure the se
 
 **WHERE AND HOW TO ASK QUESTIONS OR FILE COMPLAINTS**
 
-If you require further information about our Privacy Policy, please go to the help section of the web site where frequently asked questions (FAQ's) are answered. If you require more information please go to the Contact Us section of the web site and send an email to the relevant Symphony department. If you wish to talk to a Symphony customer care representative please call **+9714 3308050** (from a mobile or internationally) or write to: c/o Data Protection Officer at:
+If you require further information about our Privacy Policy, please go to the help section of the web site where frequently asked questions (FAQ's) are answered. If you require more information please go to the Contact Us section of the web site and send an email to the relevant Symphony department. If you wish to talk to a Symphony customer care representative please call  **+9714 3106904** (from a mobile or internationally) or write to: c/o Data Protection Officer at:
 
 **Symphony Style LLC**  
 Saaha Offices A (Office E519)  
