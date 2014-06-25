@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycalendarbook.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231215237id_/http%3A//mycalendarbook.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycalendarbook.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083412id_/http%3A//mycalendarbook.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
