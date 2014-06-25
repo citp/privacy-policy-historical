@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the kingdomleaks.net privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225020603id_/http%3A//kingdomleaks.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingdomleaks.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085702id_/http%3A//kingdomleaks.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Kingdom Leaks
+
+**Welcome to Kingdom Leaks**  
+Register now to gain access to all of our features. Once registered and logged in, you will be able to create topics, post replies to existing threads, give reputation to your fellow members, get your own private messenger, post status updates, manage your profile and so much more. If you already have an account, [login here](http://kingdomleaks.net/index.php?app=core&module=global&section=login) \- otherwise [create an account](http://kingdomleaks.net/index.php?app=core&module=global&section=register) for free today! 
+
+\--Advertisement--  
+
 
   
 
@@ -19,8 +25,5 @@ This website does not store any information that would, on its own, allow us to 
 
 
   1.  
-  2. [Privacy Policy](http://kingdomleaks.net/privacypolicy/)
 
 
-
-To view more downloads, click [here](https://kingdomleaks.net/index) or the downloads tab on the top of the page. You can sign in with facebook, twitter, and google. **Please turn off your adblock** because it is our only form of revenue. To remove ads, you must donate. Please [Login](https://kingdomleaks.net/index.php?app=core&module=global&section=login) or [Register](https://kingdomleaks.net/index.php?app=core&module=global&section=register).
