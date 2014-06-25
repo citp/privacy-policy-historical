@@ -1,41 +1,21 @@
-> *The following text is extracted and transformed from the games2girls.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805071334id_/http%3A//www.games2girls.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games2girls.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065603id_/http%3A//www.games2girls.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Games2Girls - Privacy Policy
 
-### PERSONAL INFORMATION
+Games2Girls.com is committed to protecting your privacy online. Games2Girls.com does not collect any personal information.
 
-Gamegos has a strict policy about protecting your privacy online. All websites belonging to Gamegos are free and do not require any memberships so players are not obliged to share their personal information with Gamegos.
+Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc).
 
-### IP ADDRESS AND LOGGING
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
-Gamegos uses your IP address to gather broad demographic information about you and to track your general user attitudes (the number of pages you view while at one website, the number of downloads... etc).
+We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit. 
 
-### THIRD PARTY ADVERTISING
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-Gamegos allows third-party companies to serve ads and/or collect certain anonymous information when you visit our websites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-### EXTERNAL LINKS
+It is Games2Girls.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, Games2Girls.com will immediately disable and remove games in question.
 
-Websites belonging to Gamegos may contain links to other websites. Gamegos is not responsible for the privacy practices or the content of those websites.
+Games2Girls.com site contains links to other sites. Games2Girls.com is not responsible for the privacy practices or the content of such Web sites.
 
-### THIRD PARTY COOKIES
-
-A "Cookie" is a small file (a record-keeper) which stores some information and therefore helps you to use the application more efficiently. Cookies may track your personal choices such as the virtual items you purchase, pages you visit or games you prefer to play. It measures the time you spend on each game. Cookies also help us and third parties to provide you with various ads, not showing the same ad one after another, and to make the application more interesting to you. Gamegos and third party vendors, including Google, use Cookies to serve ads based on your prior visits on this website. Google's use of DoubleClick cookie enables it and its partners to serve ads to you based on your visit to this website and/or other sites on the Internet.
-
-You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). You can also avoid third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
-
-Most browsers allow cookies when you open a website or an application. However, you can set your browser if you prefer not to be tracked by cookies. Please note that after disabling cookies, you may lose some functional properties regarding to the game. While you are playing the game, some other companies may also use cookies or other technologies to track your information.
-
-### LIABILITY
-
-Gamegos has a strict policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, Gamegos will immediately disable and remove related games in question.
-
-### CHANGES IN THE PRIVACY POLICY
-
-Gamegos reserves the right to make any changes in this Privacy Policy text. After certain changes, the updated version of the text will be published instead of the older one. In order to see the latest version of this text, you should pay a visit to this page from time to time.
-
-Please contact us if you do not agree, by any means, with this Privacy Policy text. By playing the game, you are considered to have accepted and agreed with the articles given in this text.
-
-### CONTACT
-
-For further information and questions, you can e-mail us at info at games2girls dot com
+Last Updated on November 7, 2013
