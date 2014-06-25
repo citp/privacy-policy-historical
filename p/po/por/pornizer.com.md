@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornizer.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208095558id_/http%3A//pornizer.com/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornizer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104233id_/http%3A//pornizer.com/pages/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,9 +13,8 @@
 
 
 
-[](http://pornizer.com/partner/?bid=203)   
 [](http://pornizer.com/partner/?bid=204)   
-
+[](http://pornizer.com/partner/?bid=203)
 
 | 
 
@@ -109,12 +108,8 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 
 Free Porn Videos
 
-Who is online (2279)
-
-[Assassin79](http://pornizer.com/assassin79 "Assassin79"), [Grannyjosh](http://pornizer.com/grannyjosh "Grannyjosh"), [Onebl](http://pornizer.com/onebl "Onebl"), [Marco70](http://pornizer.com/marco70 "Marco70"), [Morbidus](http://pornizer.com/morbidus "Morbidus"), [Andlas](http://pornizer.com/andlas "Andlas"), [Ticotico](http://pornizer.com/ticotico "Ticotico"), [Darkodd](http://pornizer.com/darkodd "Darkodd"), [Stiffmaster](http://pornizer.com/stiffmaster "Stiffmaster"), [St15](http://pornizer.com/st15 "St15"), [Niko11](http://pornizer.com/niko11 "Niko11"), [Bibbo1965](http://pornizer.com/bibbo1965 "Bibbo1965"), [Atomino](http://pornizer.com/atomino "Atomino"), [Tunasusila](http://pornizer.com/tunasusila "Tunasusila"), [Ufo555](http://pornizer.com/ufo555 "Ufo555"), [Becherovka2002](http://pornizer.com/becherovka2002 "Becherovka2002"), [Hendrix1969](http://pornizer.com/hendrix1969 "Hendrix1969"), [Moahsani](http://pornizer.com/moahsani "Moahsani"), [Eaques83](http://pornizer.com/eaques83 "Eaques83"), [Loptyunj](http://pornizer.com/loptyunj "Loptyunj"), [Minos-x](http://pornizer.com/minos-x "Minos-x")
-
 | 
 
-[](http://pornizer.com/partner/?bid=315)   
-[](http://pornizer.com/partner/?bid=315)   
-[](http://pornizer.com/partner/?bid=315)
+[](http://pornizer.com/partner/?bid=340)   
+[](http://pornizer.com/partner/?bid=227)   
+[](http://pornizer.com/partner/?bid=341)
