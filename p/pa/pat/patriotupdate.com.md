@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patriotupdate.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206120745id_/http%3A//patriotupdate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotupdate.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625162622id_/http%3A//patriotupdate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Terms & Conditions - Patriot UpdatePatriot Update
 
@@ -6,7 +6,7 @@ At PatriotUpdate.com, the privacy of our visitors is of extreme importance to us
 
 **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, and credit card information.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, comment on the site, place an order, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, and credit card information.
 
 We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
