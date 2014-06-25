@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flat.to privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805130351id_/http%3A//flat.to/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flat.to privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081929id_/http%3A//flat.to/privacy) for the most accurate reproduction.*
 
 # Flat.to - Privacy Policy
 
