@@ -1,176 +1,116 @@
-> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017062229id_/http%3A//knoji.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071832id_/http%3A//knoji.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy — Knoji
 
-Find coupons, reviews and similar sites for any retailer
+#### Privacy Policy Last Updated: 10/23/2013
 
-SEARCH
+The operator of this service, Zipfworks, Inc. (hereafter, “ZipfWorks,” “we,” “us” or “our”) is committed to protecting the privacy of its users – namely, those individuals who navigate and use this service and other ZipfWorks services, including, Knoji.com, BluePromoCode.com, StyleSpotter.com, DayFire.com, ZipfWorks.com and ZipfCommerce.com (hereafter, collectively referred to as “Users” or “you”). This Privacy Policy applies to all of our websites (including Knoji.com, BluePromoCode.com, StyleSpotter.com, DayFire.com, ZipfWorks.com and ZipfCommerce.com), mobile applications and the services offered through those websites and mobile applications, **including online referral services, information resources, product information, social networking services, shopping features, coupons, reviews, ratings, forums, and email services** (collectively, the “Services”). We collect information about you through our websites in an effort to improve your experience and to communicate with you about our services, contests and promotions offered by our websites. As described in this Privacy Policy, we may share your information within ZipfWorks’ network of websites and mobile applications, and under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular service.
 
-**Popular stores:** [eHarmony](http://eharmony.knoji.com/), [Starbucks](http://starbucks.knoji.com/), [Hostgator](http://hostgator.knoji.com/), [Kohl's](http://kohls.knoji.com/), [REI](http://rei.knoji.com/), [Bath & Body Works](http://bathbodyworks.knoji.com/), [Sephora](http://sephoracom.knoji.com/), [Express](http://express.knoji.com/), [Chegg](http://chegg.knoji.com/), [Victoria's Secret](http://victorias-secret.knoji.com/), [Brookstone](http://brookstone.knoji.com/), [Viator](http://viator.knoji.com/)
+Please note ZipfWorks is not responsible for the privacy practices of third party websites (even if we offered links to third party websites at one of our websites) and they are under no obligation to comply with this Privacy Policy. Before visiting another website and before providing any information to the party that operates or advertises on that third party website, Users should review the privacy policy and practices of that website to determine how information that they collect from users will be handled. Please further note, depending on a User’s particular interaction with our websites (e.g. Users who solely navigate one of our websites versus Users who create an account and use the Services at one of our websites), different portions of this Privacy Policy may apply to users at different times.
 
-At Knoji we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Knoji Inc. or its subsidiaries or affiliated companies (collectively, Knoji’s “services”). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
+ZipfWorks reserves the right, at our discretion, to change, modify, add or remove portions of this Privacy Policy at any time. If we change any portions of its Privacy Policy, the changes will be updated on this Privacy Policy page and Users should periodically review our Privacy Policy page for any such changes.
 
-Knoji adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce’s safe harbor program.
+**Your Agreement**
 
-### Information we collect and how we use it
+Your use of any of our websites or Services evidences your agreement to the terms of this Privacy Policy. PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND THE WEBSITE’S [TERMS OF USE](https://web.archive.org/web/20140625071832id_/http%3A//knoji.com/pages/terms.html). IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE. 
 
-We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Knoji articles. In order to provide our full range of services, we may collect the following types of information:
+**Information We Collect and How We Use It**
 
-Information you provide - When you sign up for a Knoji Account or other Knoji service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as our advertising programs, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other Knoji services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+There are a number of services offered by this website that do not require you to register for an account or provide any personally identifiable information to us, such as viewing articles and reviews and information about our Services. However, in order to access certain Services, we may require you to register and/or create an account with us and collect the following types of information of personally identifiable information from you: first and last name, mailing address, e-mail address, telephone number, social security number, and date of birth. For certain services, such as our advertising or user submission (e.g. coupon codes, review, etc.) programs, we also request credit card or other payment account information (including PayPal account information) which we maintain in encrypted form on secure servers. (All of the foregoing personally identifiable information shall be referred to hereafter as “Personal Information.”)
 
-Knoji cookies - When you visit Knoji, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Knoji features and services may not function properly if your cookies are disabled.
+We may combine the Personal Information you submit under your account with information from other ZipfWorks Services or third parties in order to provide you with a better experience and to improve the quality of our services. 
 
-Log information - When you use Knoji services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+You can elect to provide all or only some of the Personal Information requested by the website during the registration process. However, if you decline to provide certain Personal Information, you may not be able to register for an account or access certain benefits of the Services (including certain deals, offers or opportunities offered by third party websites which are conditioned upon certain eligibility requirements). 
 
-User communications - When you send email or other communication to Knoji, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+ZipfWorks may offer you the option of registering an account with us by logging in with an accounts you have established with certain third party sites (e.g. Facebook.com and Google.com) (hereafter, the “Outside Account”). By logging in via the Outside Account, you are granting ZipfWorks the right to access, utilize and store (if applicable) information (including Personal Information) tied to your Outside Account in connection with the Services. Depending on the Outside Accounts you choose and subject to the privacy settings that you have set in such Outside Accounts and on your account with ZipfWorks, the information you make accessible via your Outside Accounts (including Personal Information) will be available to ZipfWorks and on and through your ZipfWorks account.
 
-Affiliated sites - We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Knoji in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
+In addition to using your Personal Information to provide the Services, we may also use this information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including the website’s Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities. In addition, we reserve the right to audit your eligibility or to audit user accounts for possible fraudulent activity.
 
-Links - Knoji may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. For more information about links and redirected URLs, please see our FAQs.
+Non-Personally Identifiable Information is information that does not identify a specific User. This type of information may include things like the Uniform Resource Locator (“URL”) of the website you visited before coming to the Website, the URL of the website you visit after leaving the Website, the type of browser you are using, your Internet Protocol (“IP”) address, occupation, language, unique device identifier, approximate geographic location, and the time zone. We, and/or our authorized third party service providers and advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like cookies and web beacons or pixel tags or location based capabilities on your mobile device. We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized third party service providers and advertisers to measure the overall effectiveness of our online advertising, content, and programming. In certain limited instances, we may combine certain Non-Personally Identifiable Information with other identifiers in order to confirm your identity as part of the registration process for the Website. For example, we may combine an approximate geographic obtained from a User’s mobile device and match it with address information the User voluntarily submitted to the Website in order to confirm the User’s identity and prevent fraudulent conduct. Notwithstanding, this information would still be considered Non-Personally Identifiable Information when it is taken alone or combined only with other non-identifying information (for example, the type of web browser used by the User).
 
-Other sites - This Privacy Policy applies to web sites and services that are owned and operated by Knoji. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+Cookies – As noted above, when you visit any ZipfWorks websites, we send one or more cookies – a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some ZipfWorks features and services may not function properly if your cookies are disabled.
 
-Knoji only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
+Log information - When you use the Services of ZipfWorks websites, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
 
-  * Providing our products and services to users, including the display of customized content and advertising;
-  * Auditing, research and analysis in order to maintain, protect and improve our services;
-  * Ensuring the technical functioning of our network; and
-  * Developing new services.
+Do Not Track Signals from Web Browsers – ZipfWorks websites support Do Not Track (“DNT”) signals from web browsers. If you enable DNT on your web browser, ZipfWorks will not receive the unique web browser cookie that links your web browser to visits to ZipfWorks or its ad partners sites for the purpose of providing tailored advertisements. For information on how to enable DNT on your web browser, please consult the “Help” guid or website of the subject web browser.
+
+User communications - When you send email or other communication to ZipfWorks, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+
+Third Party Websites – We offer some of Services in connection with goods, services and deals offered by web sites operated by third parties which are not operated or controlled by us (hereafter, “Third Party Websites”). Personal information that you provide to those sites may be sent to ZipfWorks in order to deliver Services. While any information we process obtained through the Third Party Websites in accordance with this Policy, the Third Party Websites have their own privacy practices and your interactions with the Third Party Websites will be subject to the privacy policies of the Third Party Websites. As such, we strongly recommend that you review their privacy policies before undertaking such interactions. We do not exercise control over Third Party Websites displayed as search results or links from within our websites and these Third Party Websites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+
+Links – ZipfWorks may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. For more information about links and redirected URLs, please see our FAQs. This Privacy Policy applies to our websites and Services.
+
+**Other Sharing of User Information**
+
+ZipfWorks only process Personal Information and Non-Personally Identifiable Information about Users (collectively referred to hereafter as “User Information”) for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the circumstances described above, ZipfWorks may also share, release and/or disclose User Information to outside parties in the following circumstances: 
+
+  * We may share your information with Authorized Third Party Service Providers. We provide certain Services through third party service providers. These “Third Party Service Providers” perform functions on our behalf, like sending out and distributing our administrative and promotional emails. We may share User Information with such Third Party Service Providers to remove repetitive information on customer lists, analyze data, provide marketing assistance, provide search results and links, process credit card payments, operate the website, troubleshoot, and provide customer service. We may also collect personal information from individuals and companies (“Affiliates”) with whom we have business relationships and may share your information with Third Party Service Providers to accomplish our administrative tasks. However, we do not grant these entities any rights to use and contractually restrict them from using any information for any purpose other than providing service to us and you. 
+  * We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. Please note that this is not Personal Information as defined above, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.
+  * We may share your information in a Business Transfer. As with any other business, we could merge with, or be acquired by, another company, or we may file for protection under applicable bankruptcy laws in the future. In such event, User Information obtained and maintained by ZipfWorks websites, including Personal Information and Non-Personally Identifiable Information, will transfer to a successor entity in connection with the corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. User Information submitted prior to any such transfer would remain subject to the terms of this Privacy Policy (as it existed on the date of the submission). However, User Information submitted after a transfer to a successor entity may be subject to a new privacy policy adopted by the successor entity.
+  * We may share your information for our Protection and the Protection of Others. We reserve the right to disclose your Personally Identifiable Information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on us; enforce or apply this Privacy Policy, the Terms of Use or other agreements; or investigate, prevent, or take action suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person or to prevent financial loss to any person or entity; or otherwise protect the rights, property or safety of our websites, its Users or others. 
 
 
-
-You can find more information about how we process personal information by referring to the privacy notices for particular services.
-
-Knoji processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
-
-### Choices for personal information
-
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
-
-If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent.
-
-You can decline to submit personal information to any of our services, in which case Knoji may not be able to provide those services to you.
-
-### Information sharing
-
-Knoji only shares personal information with other companies or individuals outside of Knoji in the following limited circumstances:
-
-We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
-
-We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
-
-We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Knoji, its users or the public as required or permitted by law.
-
-If Knoji becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
-
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
 
 Please contact us at the address below for any additional questions about the management or use of personal data.
 
-### Information security
+**User Choices on Collection and Use of Information**
+
+As discussed above, you can always choose not to provide User Information, although it may be required to use all or parts of the Services offered by ZipfWorks websites.
+
+If you register for an account or otherwise submit User Information to the website or through the Services, we will send you administrative email messages. We will send you information regarding your account activity and transactions with us, as well as updates about our Services and promotional offers. You cannot opt-out of these Administrative Emails. “Administrative Emails” relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails solely function to advertise our Services, including sales and other offers by Third Party Websites, Third Party Service Providers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at [contact@zipfworks.com](mailto:contact@zipfworks.com), by writing to us at the address contained herein, or by hitting the “unsubscribe” button at the bottom of any of our e-mails.
+
+**User Information Security**
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
-We restrict access to personal information to Knoji employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+We restrict access to personal information to ZipfWorks employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-### Data integrity
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with service providers which do the same, we cannot guarantee the security of any information transmitted to or from the ZipfWorks websites, and are not responsible for the actions of any third parties that may receive any such information.
 
-Knoji processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+Account Information and other password-protected areas of our websites can be accessed only with a valid user name and password. Each password owner is responsible for keeping the password confidential and safe, as ZipfWorks has no control or responsibility for this type of User Information. If the password may have been stolen or might otherwise be misused, it is the responsibility of the subject User to notify ZipfWorks immediately for further action.
 
-### Accessing and updating personal information
+**Public Areas of Our Websites**
 
-When you use Knoji services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
+We may provide areas on the website where you can publicly post information about yourself, can communicate with others such as discussion boards or blogs, or can review products, and submit media content. By engaging in such conduct, you acknowledge your understanding that any such information you supply may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others throughout the world. For example, if you post your email address along with a product or service review, you may receive unsolicited messages from other registered users. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information. We do obtain consent from our users to post their name along with their reviews.
 
-### Enforcement
+**Children**
 
-Knoji regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Knoji’s treatment of personal information by contacting us at contact@knoji.com. When we receive formal written complaints at this address, it is Knoji’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Knoji and an individual.
+Minors (those under the age of 18) may not use the Website. We do not knowingly collect personal information from anyone under the age of 18, and no part of the website is designed to attract anyone under the age of 18. Because we do not intentionally collect any information from children under the age of 18, we also do not knowingly share or disclose such information to third parties. If you have reason to believe that a child under 18 years of age has provided us with information, please contact us at [contact@zipfworks.com](mailto:contact@zipfworks.com) and we will take appropriate action under applicable law.
 
-### Changes to this policy
+**Data Integrity**
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
+ZipfWorks processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
-User Levels on Knoji
+**Accessing and Updating Account Information**
 
-x
+When you use ZipfWorks Services (including create an account through one of our websites), we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
 
-Contributors on Knoji are awarded Levels as they establish themselves as experts within the community. There are **three ways** in which users can increase their level, via **writing articles** or via **answering questions** , or **both**.
+**Enforcement**
 
-Member
+ZipfWorks regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or ZipfWorks’ treatment of User Information by contacting us at contact@ZipfWorks.com. When we receive formal written complaints at this address, it is ZipfWorks’ policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between ZipfWorks and an individual.
 
--
+**For Users Outside of the United States Only**
 
--
+All ZipfWorks websites (including this website) are hosted in the United States. If you are a User accessing our websites from the European Union, Australia, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, you are transferring your personal data to the United States which may not have the same data protection laws as such other regions. By providing User Information to any ZipfWorks websites, you are consenting to the transfer of your information to the United States for processing and maintenance in accordance with this Privacy Policy and the website’s Terms of Use. You are also consenting to the application of United States law in all matters concerning ZipfWorks’ websites and/or Services.
 
--
+**For California Residents Only**
 
-Can publish articles, ask and answer questions
+California Civil Code Section 1798.83 permits users who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. In general, this information would include a list of the categories of Personal Information that was shared and the names and addresses of all third parties with which the business disclosed and shared information in the preceding calendar year. To make such a request, please write to us at the following address:
 
-Contributor
+Zipfworks, Inc. - California Privacy Rights  
+Legal Department  
+2425 Olympic Blvd. Suite 160E  
+Santa Monica, CA 90404 
 
-Successfully publish first article
+**LEGAL DISCLAIMER**
 
-Must earn +50 votes
+ZipfWorks websites operate "AS-IS" and "AS-AVAILABLE," without warranties of any other kind. We are not responsible for events beyond our direct control. This Privacy Policy is governed by the laws of the State of California, excluding conflicts of law principles. Any legal actions against ZipfWorks arising out of or related to our websites or Services must be commenced in the county of Los Angeles in the state of California in the United States of America.
 
-Publish first article OR +50 answer votes
+**CONTACT US**
 
-Eligible for revenue sharing. Access to Dashboard.
+If you have any questions about this Privacy Policy, or the practices of or your dealings with our websites, please email us at contact@zipfworks.com or write to us at:
 
-Expert
+Zipfworks, Inc.  
+2425 Olympic Blvd. Suite 160E  
+Santa Monica, CA 90404  
 
-Must publish **10 consecutive articles**
-
-Must earn +200 votes
-
-10 articles OR +200 answer votes
-
-Self-publish and edit past articles. Increased compensation rate.
-
-Guide
-
-Must earn +500 recommendations
-
-Must earn +1,000 votes
-
-+250 article recommendations AND +500 answer votes
-
-Increased earnings rate. Greater number of votes.
-
-Authority
-
-Must earn +1,000 recommendations
-
-Must earn +5,000 votes
-
-+500 article recommendations AND +2,500 answer votes
-
-Increased earnings rate. Greater number of votes & question credits.
-
-Pro
-
-Must earn +5,000 recommendations
-
-Must earn +10,000 votes
-
-+2,500 article recommendations AND +5,000 answer votes
-
-Increased earnings rate. Greater number of votes.
-
-Master
-
-Must earn +10,000 recommendations
-
-Must earn +50,000 votes
-
-+5,000 article recommendations AND +25,000 answer votes
-
-Increased earnings rate. Greater number of votes.
-
-What's a working, unique coupon?
-
-x
-
-To qualify as a working coupon, the link or code must provide a discount above and beyond what's freely available by default on the vendor's site. 
-
-To check this, first click the link and check that the coupon can be applied and does provide the discount described. Then, in a different browser, open the vendor's site (without using the Knoji link) and check whether that same discount is available to any user by default. If it's not, and the coupon works, then you've found a qualified coupon and can verify it and get your earnings. If not, you can verify that it does not work (explain why this is) and you'll earn a smaller credit. 
-
-**Don't waste your time verifying invalid coupons!** Before you receive payment, all your verifications will be reviewed, and if they are invalid, **you earnings will be deleted**. Verify only valid coupons in order to receive payment for this project. 
