@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the scentsy.us privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529211842id_/http%3A//scentsy.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scentsy.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040129id_/http%3A//scentsy.com/privacy-policy) for the most accurate reproduction.*
 
-# ScentsyCorporate > Privacy Policy
+# Scentsy > Privacy-Policy
 
-## Introduction
+## Scentsy, Inc. Privacy Policy Notice
+
+### Introduction
 
 Scentsy, Inc., a company incorporated under the laws of the State of Idaho, U.S.A., (referred to herein as “Scentsy,” “we,” “us” and “our”) understands the importance of privacy of individuals (referred to as “users” and “you”). Scentsy, Inc. also maintains websites for several affiliate companies and brands. This privacy notice outlines the personal information Scentsy may collect and how Scentsy will use and disclose that information. Scentsy is committed to protecting your personal information. We have adopted the following policies with regard to collection and distribution of information.
 
-## Information Collection
+### Information Collection
 
 Scentsy may collect two different types of information, Personally Identifiable Information and Non-Personally Identifiable Information. “Personally Identifiable Information” (“PII”) is information that identifies you as an individual – for example, your name, address, telephone number, email address, credit card information, billing address and shipping information. “Non-Personally Identifiable Information” (“Non-PII”) is aggregated information, demographic information, IP addresses, user behavior data from web interaction metrics tools and any other information that does not reveal your specific identity.- 
 
@@ -16,17 +18,17 @@ Scentsy may also collect PII about you from, among other places: information you
 
 This information can be received in any manner, including in-person discussions, telephone conversations, and electronic or other written communications.
 
-## Cookies
+### Cookies
 
 We may collect information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalized service. They enable us to estimate our audience size and usage pattern, to store information about your preferences (and so allow us to customize our site according to your individual interests), to speed up your searches and to recognize you when you return to our site. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies.However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
 
-## Information Use
+### Information Use
 
 Scentsy may collect PII about you to establish or maintain our relationship with you, respond to your inquiries, provide you with services you have requested, keep you informed of services we think may be of interest to you, personalize your experience with us, and other reasons.
 
 Without PII, Scentsy may be unable to provide you with the services you have requested.
 
-## Disclosure of Information
+### Disclosure of Information
 
 Scentsy does not sell or lease PII about you to others.
 
@@ -50,21 +52,21 @@ Notwithstanding any other provision of this notice or the Terms and Conditions o
 
 Because Non-PII does not personally identify you, we reserve the right to use Non-PII, and to disclose Non-PII to third parties, for any purpose.
 
-## Access
+### Access
 
 You may request access to the PII that Scentsy has about you. You may also request the correction, amendment or deletion of PII about you that is inaccurate. Scentsy will treat requests for access, correction, amendment or deletion of PII about you in accordance with its internal policies and applicable legal requirements.
 
-## Information Security and Integrity
+### Information Security and Integrity
 
 Scentsy maintains reasonable physical, administrative and technical safeguards to protect PII from loss, misuse, or unauthorized access, disclosure, alteration or destruction. Our personnel and the personnel of our affiliates are provided access to PII about you only if they have a need to know the information in connection with a legitimate business purpose, such as (a) the provision of services to you or (b) to help identify other services that Scentsy and its affiliates offer that may be of interest or use to you.
 
 Additionally, Scentsy will only use PII for the purpose which it was intentionally collected. Scentsy will take reasonalble measures to safeguard your information and ensure that is accurate, complete and current. 
 
-## Enforcement
+### Enforcement
 
 Scentsy takes a self-assessment approach to verify that we are within compliance of this policy. Scentsy employees are trained to adhere with this privacy policy and Scentsy administers discipline to those employees who do not comply. 
 
-## Safe Harbor
+### Safe Harbor
 
 In order to comply with EU data privacy directives, Scentsy applies the US-EU and US-Swiss Safe Harbor Framework developed by the US Department of Commerce pertaining to the collection, use, and retention of personal information from the European Union member countries. Scentsy complies with the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. For more information or questions concerning the Safe Harbor program please visit: [ http://export.gov/safeharbor/index.asp](http://export.gov/safeharbor/index.asp)
 
@@ -72,11 +74,11 @@ In compliance with the US-EU and US-Swiss Safe Harbor Principles, Scentsy commit
 
 Scentsy has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Scentsy, please visit the BBB EU SAFE HARBOR web site at [ www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/european-dispute-resolution/consumer/) for more information and to file a complaint. 
 
-## Changes to This Privacy Notice
+### Changes to This Privacy Notice
 
 Scentsy reserves the right to change this privacy notice. Any changes to this notice will become effective upon posting of the revised notice on the Internet or as required by law. 
 
-## Questions
+### Questions
 
 If you have any questions or concerns regarding this notice, please contact us either by email at legal@scentsy.com, or by regular mail at Scentsy, Inc., Attn: Legal Department, 2701 E. Pine St., Meridian, ID 83642. Scentsy will investigate and try to resolve any disputes regarding the use or disclosure of PII according to the principles of this privacy policy. 
 
