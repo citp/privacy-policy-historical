@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doxo.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102091755id_/https%3A//user.doxo.com/privacy_and_security_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doxo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054308id_/https%3A//user.doxo.com/privacy_and_security_policy) for the most accurate reproduction.*
 
-# doxo | Welcome Privacy and security policy
+# doxo | Privacy and Security Policy
 
 ## doxo Privacy and Security Policy
 
