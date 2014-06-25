@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waves.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113011607id_/http%3A//www.waves.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waves.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626014703id_/http%3A//www.waves.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Waves
 
@@ -6,65 +6,70 @@ This Privacy Policy governs the manner in which Waves collects, uses, maintains 
 
 Personal identification information 
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
+We may collect personal identification information from Users in a variety of ways and circumstances, including, but not limited to, when Users visit our Site, register on the Site, place an order, subscribe to the newsletter, respond to a survey, or fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for their name, email address, mailing address, phone number, and/or credit card information, as appropriate. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit their information to us. Users may always refuse to supply personally identification information, though this may prevent them from engaging in certain Site-related activities. 
 
 Non-personal identification information 
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include browser name, type of computer, and technical information about the User’s means of connecting to our Site, such as the operating system, the Internet service provider utilized, and other similar information. 
 
 Web browser cookies 
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
+Our Site may use "cookies" to enhance user experience. Users’ web browsers place cookies on their hard drives for record-keeping purposes and sometimes to track information about them, such as their behavior on the website. Waves may then target these Users based on their website behavior, including content viewed and products ordered, with advertisements across the Internet for special deals, promotions, etc. Third-party vendors, including Google, may also use information about Users’ past visits to the Waves Site in order to place Waves advertisements online to these Users.
+
+Users may choose to set their web browser to refuse cookies or to alert them when cookies are being sent. If they do so, however, some parts of the Site may not function properly. Users may similarly opt out of Google’s use of cookies by visiting Google’s [Ads Settings](https://www.google.com/settings/ads). Users may also opt out of a third-party vendor’s use of cookies by using the [Network Advertising Initiative opt-out page.](http://www.networkadvertising.org/choices/)
+
+Remarketing with Google Analytics 
+
+In addition to the above, Waves uses Remarketing with Google Analytics to advertise online, retargeting Users via Google’s advertising platform, Google Adwords. Third-party vendors, including Google, may show Waves ads on sites across the Internet. Waves and third-party vendors (including Google) may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on Users’ past visits to the Waves Site. 
 
 How we use collected information 
 
-Waves collects and uses Users personal information for the following purposes: 
+Waves collects and uses Users’ personal information for the following purposes: 
 
-  * To personalize user experience We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
-  * To improve our Site We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * To improve customer service Your information helps us to more effectively respond to your customer service requests and support needs. 
-  * To process transactions We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. 
-  * To administer a content, promotion, survey or other Site feature To send Users information they agreed to receive about topics we think will be of interest to them.
-  * To send periodic emails The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * Waves may use aggregate information to personalize user experience and to understand how the Users as a group use the services and resources provided on the Site. 
+  * To improve the Site and its offerings based on Users’ information and feedback.
+  * To improve customer service. Users’ information helps us respond more effectively to Users’ customer service requests and support needs.
+  * To process transactions. Waves may use the information Users provide about themselves when placing an order to provide service for that particular order only. Waves does not share this information with outside parties, except to the extent necessary to provide the particular service requested. 
+  * To administer Site content or features (promotions, surveys, etc.), or to send Users information they agreed to receive about topics we think will be of interest to them.
+  * To send periodic emails. The email address Users provide for order processing will be used only to send them information and updates pertaining to their order or to respond to their inquiries, requests or questions. Users who decide to opt into Waves’ mailing list will receive emails that may include company news, updates, related product or service information, etc. Users who wish unsubscribe from the list may do so at any time by following the detailed instructions found at the bottom of each email they receive from Waves.
 
 
 
 How we protect your information 
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
+We follow appropriate data collection, storage and processing practices and suitable security measures in order to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information, and all other data stored on our Site. 
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. 
+Sensitive and private data exchange between the Site and its Users happens over a secured SSL communication channel and is encrypted and protected with digital signatures. 
 
 Sharing your personal information 
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. 
+Waves does not sell, trade, or rent out Users’ personal identification information to other parties. For the purposes outlined above, Waves may share with its business partners, trusted affiliates, and advertisers generic aggregate demographic information not linked to any personal identification information regarding visitors and Users. Waves may use third-party service providers to help it operate its business, administer the Site, and/or run activities on Waves’ behalf, such as sending out newsletters or surveys. Waves may share Users’ information with such third parties, for those limited purposes only and subject to Users’ permission. 
 
-Third party websites 
+Third-party websites 
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies. 
+Users may find advertising or other content on the Site that links to the websites and services of Waves’ partners, suppliers, advertisers, sponsors, licensors and other third parties. Waves does not control the content or links that appear on such other sites and is not responsible for the practices they employ. Such sites or services, including their content and links, may change constantly and have their own privacy and customer service policies. Browsing and interaction on any other website, including websites that link to the Waves Site, are subject to the other website’s own terms and policies. 
 
 Advertising 
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. 
+Ads appearing on our site may be delivered to Users by advertising partners who may set cookies. These cookies allow the ad server to recognize the User’s computer each time they send the User an online advertisement, allowing the advertiser to compile non-personal identification information about the User or others who use his or her computer. Among other things, this information allows ad networks to deliver targeted advertisements that they believe will be of interest to the User. This privacy policy does not cover the use of cookies by any advertisers. 
 
 Changes to this privacy policy 
 
-Waves has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+Waves has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to check this page frequently for any changes in order to stay informed about how we are helping to protect the personal information we collect. Users acknowledge and agree that it is their responsibility to review this privacy policy periodically and become aware of modifications. 
 
-Your acceptance of these terms 
+Users’ acceptance of these terms 
 
-By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. If you continue to use the Site after changes to this policy are posted, you will be considered as having accepted those changes. 
 
-Contacting us 
+Contacting Waves 
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
+If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, please contact us at: 
 
-Waves  
+Waves Inc.  
 [www.waves.com](http://www.waves.com/)   
-Waves Inc.   
 2800 Merchants Drive   
 Knoxville, TN 37912
 
 1-865-909-9200
 
-This document was last updated on November 06, 2012 
+This document was last updated on April 10, 2014. 
