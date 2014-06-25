@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crackspider.net privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906230859id_/http%3A//crackspider.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crackspider.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125134id_/http%3A//crackspider.net/privacy.shtml) for the most accurate reproduction.*
 
 # Welcome to Crackspider.net! Search cracks, crackz, serial numbers, serials, keygens and patches for appz, games, torrent for pc,mac,pda software unlock codes!
 
