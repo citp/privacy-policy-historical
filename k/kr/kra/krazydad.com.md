@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krazydad.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002235644id_/http%3A//krazydad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krazydad.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100624id_/http%3A//krazydad.com/privacy) for the most accurate reproduction.*
 
 # Krazydad Privacy Policy
 
@@ -52,7 +52,7 @@ dad@krazydad.com
 
 * * *
 
-Copyright © 2013 by KrazyDad. All Rights Reserved.  
+Copyright © 2014 by KrazyDad. All Rights Reserved.  
 [Privacy Policy](https://web.archive.org/privacy/)  
   
 [Send Jim a message.](http://krazydad.com/blog/contact-krazydad/)  
