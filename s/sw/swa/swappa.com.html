@@ -1,16 +1,18 @@
-<!--The following is the downloaded HTML source of the swappa.com privacy policy that was archived on 2013-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209102530id_/http%3A//swappa.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the swappa.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625064557id_/http%3A//swappa.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
 	
 	<title>Privacy Policy &gt; Swappa</title>
 	<!-- Meta -->
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Swappa Privacy Policy">
-	<meta name="keywords" content="Swappa, Android, phone, device, swap, buy, sell, resell, sale, trade, used, gently, fully, functional">
+	<meta name="keywords" content="Swappa, Android, mobile, phone, tablet, device, swap, buy, sell, resell, sale, trade, used">
 	<!-- Fav Icon -->
-	<link rel="shortcut icon" href="/static/icons/favicon.ico?20121009" title="Favicon">
-	<link rel="icon" href="/static/icons/favicon.ico?20121009">
+	<link rel="shortcut icon" href="/static/icons/favicon.ico" title="Favicon">
+	<link rel="icon" href="/static/icons/favicon.ico">
 	<!-- Robots -->
 	
 	
@@ -29,88 +31,30 @@
 	<!-- Stylesheets -->
 	
 	<!-- Google Fonts -->
-	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans">
-	
-	<!-- Styles -->
-	<link href="/static/bootstrap/css/bootstrap.css?20130617-0803" rel="stylesheet">
-	<link href="/static/bootstrap/css/bootstrap-docs.css" rel="stylesheet">
-	<style type="text/css">
-	</style>
-	<link href="/static/css/style2.css?20130401" rel="stylesheet">
-	
-	
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Droid+Sans">
+	<!-- Bootstrap -->
+	<link href="/static/bootstrap/css/bootstrap.css" rel="stylesheet">
+	<link href="/static/css/style3.css" rel="stylesheet">
 	
 	
 	<!-- Javascripts -->
 	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-	<script src="/static/bootstrap/js/bootstrap.js?20130506-1601" type="text/javascript"></script>
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+		<script src="/static/js/html5shiv.js"></script>
+		<script src="/static/js/respond.min.js"></script>
+	<![endif]-->
+	<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//code.jquery.com/jquery-1.9.1.min.js" type="text/javascript"></script>
+	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+	<script src="/static/bootstrap/js/bootstrap.js"></script>
+	<script src="/static/bootstrap/js/bootstrap3-supplemental.js" type="text/javascript"></script>
 	
 	<script src="/static/jquery/jquery.qtip-1.0.0-rc3.min.js" type="text/javascript"></script>
 	<script src="/static/jquery/jquery.sharrre-1.2.0.min.js" type="text/javascript"></script>
 	
-	<!-- Devices Typeahead -->
+	<!-- Search Typeahead -->
+	<script src="/static/bootstrap/js/bootstrap3-typeahead.js" type="text/javascript"></script>
 	<script src="/searchtypeahead.js" type="text/javascript"></script>
-	<script>
-	$(function() {
-		
-		// http://stackoverflow.com/questions/9564977/bootstrap-typeahead-dont-autoselect-first-item
-		$.fn.typeahead.Constructor.prototype.render = function (items) {
-			var that = this;
-			items = $(items).map(function (i, item) {
-				i = $(that.options.item).attr('data-value', item);
-				i.find('a').html(that.highlighter(item));
-				return i[0];
-			});
-			this.$menu.html(items);
-			return this;
-		};
-		
-		// http://bibwild.wordpress.com/2013/04/04/overriding-bootstrap-typeahead-to-not-initially-select/
-		$.fn.typeahead.Constructor.prototype.select = function() {
-			var val = this.$menu.find('.active').attr('data-value');
-			if (true) { //(val) {
-				this.$element.val(this.updater(val)).change();
-			}
-			return this.hide();
-		};
-		
-		// include devices_typeahead_javascript
-		// http://stackoverflow.com/questions/12413594/twitter-bootstrap-typeahead-get-context-calling-element-with-this
-		$(".search-query").each(function() {
-			var $this = $(this);
-			$this.typeahead({
-			//$(".search-query").typeahead({
-				source: search_typeahead_items,
-				minLength: 2,
-				items: 15,
-				updater: function(item) {
-					// item arg is selected item
-					// jump to device page action
-					if (item in search_typeahead_device_mapping) {
-						var slug = search_typeahead_device_mapping[item];
-						var jump_url = "http://swappa.com/buy/" + slug;
-						var pageJump = function() { location.href = jump_url; }
-						setTimeout(pageJump, 200);
-					}
-					else {
-						// search form submit action
-						var theForm = $this.closest("form"); //$("#header_search_form");
-						var formSubmit = function() { theForm.submit(); }
-						setTimeout(formSubmit, 200);
-					}
-					// what we return here will actually be set in the search field for the above form submission
-					if (item) {
-						return item; // return the selected
-					} else {
-						return this.query; // we don't always return something in the list
-					}
-				}
-			});
-		});
-		
-	});
-	</script>
 	
 	
 	
@@ -123,19 +67,17 @@
 		// tooltips
 		$(".has_tooltip").tooltip();
 		
+		// for messages
+		$(".messages .alert-error").addClass("alert-danger");
+		
 	});
 	</script>
-	<style>
-		.dev_mega_menu_dropdown .carrier_pic {
-			margin: 0px;
-		}
-	</style>
 	
 	
 	
 	<!-- http://code.google.com/p/ie7-js/ -->
 	<!--[if lt IE 8]>
-	<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js">var IE7_PNG_SUFFIX = ".png";</script>
+	<script src="//ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js">var IE7_PNG_SUFFIX = ".png";</script>
 	<![endif]-->
 	
 	
@@ -154,394 +96,367 @@
 	</script>
 	
 	
-</head>
+	
+	
+	<script type="text/javascript">
+	   var googletag = googletag || {};
+	   googletag.cmd = googletag.cmd || [];
+	   (function() {
+	     var gads = document.createElement("script");
+	     gads.async = true;
+	     gads.type = "text/javascript";
+	     var useSSL = "https:" == document.location.protocol;
+	     gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+	     var node =document.getElementsByTagName("script")[0];
+	     node.parentNode.insertBefore(gads, node);
+	    })();
+	</script>
+	
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o?o:n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({D5DuLP:[function(t,n){function e(t,n){var e=r[t];return e?e.apply(this,n):(o[t]||(o[t]=[]),void o[t].push(n))}var r={},o={};n.exports=e,e.queues=o,e.handlers=r},{}],handle:[function(t,n){n.exports=t("D5DuLP")},{}],G9z0Bl:[function(t,n){function e(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&p&&p.body){l.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",i("mark",["onload",a()]);var n=p.createElement("script");n.src=l.proto+t.agent,p.body.appendChild(n)}}function r(){"complete"===p.readyState&&o()}function o(){i("mark",["domContent",a()])}function a(){return(new Date).getTime()}var i=t("handle"),u=window,p=u.document,s="addEventListener",c="attachEvent",f=(""+location).split("?")[0],l=n.exports={offset:a(),origin:f,features:[]};p[s]?(p[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(p[c]("onreadystatechange",r),u[c]("onload",e)),i("mark",["firstbyte",a()])},{handle:"D5DuLP"}],loader:[function(t,n){n.exports=t("G9z0Bl")},{}]},{},["G9z0Bl"]);</script></head>
 
 <body>
 
-<div class="navbar navbar-fixed-top">
-	<div class="navbar-inner">
-		<div class="container">
-			<a class="brand" href="/">
-				<span id="logo_icon"></span>
-				<span id="logo_name">Swappa</span>
+<header class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-content">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			
+			<a class="navbar-brand" href="/">
+				<img src="/static/icons/swappa_50.png"> <span id="logo_name">Swappa</span>
 			</a>
-			
-			<div><!-- class="nav-collapse" -->
-				<ul class="nav">
-					<!--
-					<li id="nav_why_li">
-						<a href="/why">Why Swappa?</a>
-					</li>
-					-->
-					<li id="nav_buy_li">
-						<a href="/buy">Buy</a>
-					</li>
-					<li id="nav_sell_li">
-						<a href="/sell">Sell</a>
-					</li>
-				</ul>
-				<div>
-					<form id="header_search_form" class="navbar-search pull-left" action="/search" method="get">
-						<input type="text" name="q" id="id_q" class="search-query span2" placeholder="Search" data-provide="typeahead" autocomplete="off">
-					</form>
-				</div>
-				<ul class="nav">
-					
-					
-					<li id="nav_devices_li" class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown"> Devices <b class="caret"></b></a>
-						<div id="dev_mega_menu_dropdown" class="dropdown-menu span10">
-							
-							<div id="dev_mega_menu_content" class="row">
-								<div class="span2">
-									<ul>
-									
-										<li id="mm_li_att" class="featured">
-											<a href="/devices/att">AT&amp;T</a>
-										</li>
-									
-										<li id="mm_li_advent">
-											<a href="/devices/advent">Advent</a>
-										</li>
-									
-										<li id="mm_li_alltel">
-											<a href="/devices/alltel">Alltel</a>
-										</li>
-									
-										<li id="mm_li_amazon">
-											<a href="/devices/amazon">Amazon</a>
-										</li>
-									
-										<li id="mm_li_amazon">
-											<a href="/devices/amazon">Amazon</a>
-										</li>
-									
-										<li id="mm_li_apple" class="featured">
-											<a href="/devices/apple">Apple</a>
-										</li>
-									
-										<li id="mm_li_archos">
-											<a href="/devices/archos">Archos</a>
-										</li>
-									
-										<li id="mm_li_asus">
-											<a href="/devices/asus">Asus</a>
-										</li>
-									
-										<li id="mm_li_bell-canada">
-											<a href="/devices/bell-canada">Bell (Canada)</a>
-										</li>
-									
-										<li id="mm_li_blackberry">
-											<a href="/devices/blackberry">Blackberry</a>
-										</li>
-									
-										<li id="mm_li_blu">
-											<a href="/devices/blu">Blu</a>
-										</li>
-									
-									</ul>
-								</div>
-								<div class="span2">
-									<ul>
-									
-										<li id="mm_li_boost">
-											<a href="/devices/boost">Boost</a>
-										</li>
-									
-										<li id="mm_li_cspire">
-											<a href="/devices/cspire">C-Spire</a>
-										</li>
-									
-										<li id="mm_li_cricket">
-											<a href="/devices/cricket">CricKet</a>
-										</li>
-									
-										<li id="mm_li_dell">
-											<a href="/devices/dell">Dell</a>
-										</li>
-									
-										<li id="mm_li_fuhu">
-											<a href="/devices/fuhu">Fuhu</a>
-										</li>
-									
-										<li id="mm_li_fujitsu">
-											<a href="/devices/fujitsu">Fujitsu</a>
-										</li>
-									
-										<li id="mm_li_garmin-asus">
-											<a href="/devices/garmin-asus">Garmin-Asus</a>
-										</li>
-									
-										<li id="mm_li_google">
-											<a href="/devices/google">Google</a>
-										</li>
-									
-										<li id="mm_li_htc" class="featured">
-											<a href="/devices/htc">HTC</a>
-										</li>
-									
-										<li id="mm_li_hp">
-											<a href="/devices/hp">Hewlett-Packard</a>
-										</li>
-									
-										<li id="mm_li_hisense">
-											<a href="/devices/hisense">Hisense</a>
-										</li>
-									
-									</ul>
-								</div>
-								<div class="span2">
-									<ul>
-									
-										<li id="mm_li_huawei">
-											<a href="/devices/huawei">Huawei</a>
-										</li>
-									
-										<li id="mm_li_kajeet">
-											<a href="/devices/kajeet">Kajeet</a>
-										</li>
-									
-										<li id="mm_li_kyocera">
-											<a href="/devices/kyocera">Kyocera</a>
-										</li>
-									
-										<li id="mm_li_lg" class="featured">
-											<a href="/devices/lg">LG</a>
-										</li>
-									
-										<li id="mm_li_lenovo">
-											<a href="/devices/lenovo">Lenovo</a>
-										</li>
-									
-										<li id="mm_li_meizu">
-											<a href="/devices/meizu">Meizu</a>
-										</li>
-									
-										<li id="mm_li_metro-pcs">
-											<a href="/devices/metro-pcs">Metro PCS</a>
-										</li>
-									
-										<li id="mm_li_microsoft">
-											<a href="/devices/microsoft">Microsoft</a>
-										</li>
-									
-										<li id="mm_li_motorola" class="featured">
-											<a href="/devices/motorola">Motorola</a>
-										</li>
-									
-										<li id="mm_li_net10">
-											<a href="/devices/net10">Net10</a>
-										</li>
-									
-										<li id="mm_li_nokia">
-											<a href="/devices/nokia">Nokia</a>
-										</li>
-									
-									</ul>
-								</div>
-								<div class="span2">
-									<ul>
-									
-										<li id="mm_li_nvidia">
-											<a href="/devices/nvidia">Nvidia</a>
-										</li>
-									
-										<li id="mm_li_oppo">
-											<a href="/devices/oppo">Oppo</a>
-										</li>
-									
-										<li id="mm_li_pantech">
-											<a href="/devices/pantech">Pantech</a>
-										</li>
-									
-										<li id="mm_li_republic-wireless">
-											<a href="/devices/republic-wireless">Republic Wireless</a>
-										</li>
-									
-										<li id="mm_li_rogers">
-											<a href="/devices/rogers">Rogers</a>
-										</li>
-									
-										<li id="mm_li_samsung" class="featured">
-											<a href="/devices/samsung">Samsung</a>
-										</li>
-									
-										<li id="mm_li_sanyo">
-											<a href="/devices/sanyo">Sanyo</a>
-										</li>
-									
-										<li id="mm_li_sharp">
-											<a href="/devices/sharp">Sharp</a>
-										</li>
-									
-										<li id="mm_li_skytex">
-											<a href="/devices/skytex">Skytex</a>
-										</li>
-									
-										<li id="mm_li_sony">
-											<a href="/devices/sony">Sony</a>
-										</li>
-									
-										<li id="mm_li_sony-ericsson">
-											<a href="/devices/sony-ericsson">Sony-Ericsson</a>
-										</li>
-									
-									</ul>
-								</div>
-								<div class="span2">
-									<ul>
-									
-										<li id="mm_li_sprint" class="featured">
-											<a href="/devices/sprint">Sprint</a>
-										</li>	
-									
-										<li id="mm_li_straight-talk">
-											<a href="/devices/straight-talk">Straight Talk</a>
-										</li>	
-									
-										<li id="mm_li_t-mobile" class="featured">
-											<a href="/devices/t-mobile">T-Mobile</a>
-										</li>	
-									
-										<li id="mm_li_telus">
-											<a href="/devices/telus">Telus</a>
-										</li>	
-									
-										<li id="mm_li_ting">
-											<a href="/devices/ting">Ting</a>
-										</li>	
-									
-										<li id="mm_li_toshiba">
-											<a href="/devices/toshiba">Toshiba</a>
-										</li>	
-									
-										<li id="mm_li_tracfone">
-											<a href="/devices/tracfone">TracFone</a>
-										</li>	
-									
-										<li id="mm_li_us-cellular">
-											<a href="/devices/us-cellular">US Cellular</a>
-										</li>	
-									
-										<li id="mm_li_unlocked" class="featured">
-											<a href="/devices/unlocked">Unlocked</a>
-										</li>	
-									
-										<li id="mm_li_unlocked-non-us">
-											<a href="/devices/unlocked-non-us">Unlocked Non-US</a>
-										</li>	
-									
-										<li id="mm_li_verizon" class="featured">
-											<a href="/devices/verizon">Verizon</a>
-										</li>	
-									
-									</ul>
-								</div>
-							</div>
-							
-							<div class="row">
-								<div class="span2">
-									<a href="/devices/verizon" title="Verizon Phones and Tablets" class="carrier_pic">
-										<img src="/static/images/verizon_106x60.png" width="106" height="60" alt="Verizon Phones &amp; Tablets" border="0"></a>
-								</div>
-								<div class="span2">
-									<a href="/devices/att" title="AT&amp;T Phones and Tablets" class="carrier_pic">
-										<img src="/static/images/att_115x60.png" width="115" height="60" alt="AT&amp;T Phones &amp; Tablets" border="0"></a>
-								</div>
-								<div class="span2">
-									<a href="/devices/t-mobile" title="T-Mobile Phones and Tablets" class="carrier_pic">
-										<img src="/static/images/tmobile_122x60.png" width="122" height="60" alt="T-Mobile Phones &amp; Tablets" border="0"></a>
-								</div>
-								<div class="span2">
-									<a href="/devices/sprint" title="Sprint Phones and Tablets" class="carrier_pic">
-										<img src="/static/images/sprint_122x60.png" width="122" height="60" alt="Sprint Phones &amp; Tablets" border="0"></a>
-								</div>
-								<div class="span2">
-									<a href="/devices/unlocked" title="Unlocked Phones and Tablets" class="carrier_pic">
-										<img src="/static/images/unlocked_132x60.png" width="132" height="60" alt="Unlocked Phones &amp; Tablets" border="0"></a>
-								</div>
-							</div>
-						</div>
-					</li>
-					
-					
-					<li id="nav_faq_li">
-						<a href="/faq">FAQ</a>
-					</li>
-					<li id="nav_esn_li">
-						<a href="/esn">ESN</a>
-					</li>
-				</ul>
-				<ul class="nav pull-right">
-				
-					<li id="nav_devices_li" class="dropdown">
-						<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" rel="nofollow"> <img src="http://swappa.s3.amazonaws.com/media/icons/flags/us.png" width="16"> &nbsp; US <b class="caret"></b></a>
-						<ul class="dropdown-menu">
-							<li class="nav-header">SET YOUR MARKET</li>
-							
-							<li id="nav_market_us_choose">
-								<a href="/market/set/us?next=/privacy" rel="nofollow">
-									<img src="http://swappa.s3.amazonaws.com/media/icons/flags/us.png" width="16"> &nbsp; United States (US)
-								</a>
-							</li>
-							
-							<li id="nav_market_uk_choose">
-								<a href="/market/set/uk?next=/privacy" rel="nofollow">
-									<img src="http://swappa.s3.amazonaws.com/media/icons/flags/uk.png" width="16"> &nbsp; United Kingdom (UK)
-								</a>
-							</li>
-							
-							<li id="nav_market_eu_choose">
-								<a href="/market/set/eu?next=/privacy" rel="nofollow">
-									<img src="http://swappa.s3.amazonaws.com/media/icons/flags/eu.png" width="16"> &nbsp; Europe (EU)
-								</a>
-							</li>
-							
-							<li class="nav-header">BROWSE MARKETS</li>
-							
-							<li id="nav_market_us_browse">
-								<a href="/us">
-									<img src="http://swappa.s3.amazonaws.com/media/icons/flags/us.png" width="16"> &nbsp; United States (US) »
-								</a>
-							</li>
-							
-							<li id="nav_market_uk_browse">
-								<a href="/uk">
-									<img src="http://swappa.s3.amazonaws.com/media/icons/flags/uk.png" width="16"> &nbsp; United Kingdom (UK) »
-								</a>
-							</li>
-							
-							<li id="nav_market_eu_browse">
-								<a href="/eu">
-									<img src="http://swappa.s3.amazonaws.com/media/icons/flags/eu.png" width="16"> &nbsp; Europe (EU) »
-								</a>
-							</li>
-							
-							<li id="">
-								<a href="/markets"><img src="/static/icons/help.png" width="16"> &nbsp; More about markets...</a>
-							</li>
-						</ul>
-					</li>
-				
-				
-					<li class="nav-icon-50">
-						<a style="padding: 5px 0px 0px 0px;" href="/login?next=/privacy"><img src="/static/icons/no_profile_50.png" width="50" height="50" alt="Profile" border="0"></a>
-					</li>
-					<li>
-						<a href="/login?next=/privacy">Login / Register</a>
-					</li>
-				
-				</ul>
-			</div>
-			
 		</div>
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="navbar-collapse-content">
+			<ul class="nav navbar-nav" style="margin-left: 10px;">
+				<li id="nav_buy_li">
+					<a href="/buy">Buy</a>
+				</li>
+				<li id="nav_sell_li">
+					<a href="/sell">Sell</a>
+				</li>
+				
+				<li id="nav_boneyard_li">
+					<a href="/boneyard">Boneyard</a>
+				</li>
+				
+				<form id="header_search_form" class="navbar-form navbar-search navbar-left visible-md visible-lg" role="search" action="/search" method="get">
+					<div class="form-group">
+						<input type="text" name="q" id="id_q" class="search-query span2 form-control" placeholder="Search" data-provide="typeahead" autocomplete="off">
+					</div>
+				</form>
+				
+				<li id="nav_devices_li" class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Devices <b class="caret"></b></a>
+					
+					<ul class="dropdown-menu">
+					
+					
+					
+					
+					
+					
+					
+					
+						<li id="mm_li_">
+							<a href="/devices/att">AT&amp;T</a>
+						</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+						<li id="mm_li_">
+							<a href="/devices/smart-watch">Smart Watch</a>
+						</li>
+					
+					
+					
+						<li id="mm_li_">
+							<a href="/devices/sprint">Sprint</a>
+						</li>
+					
+					
+					
+					
+					
+						<li id="mm_li_">
+							<a href="/devices/t-mobile">T-Mobile</a>
+						</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+						<li id="mm_li_">
+							<a href="/devices/unlocked">Unlocked</a>
+						</li>
+					
+					
+					
+					
+					
+					
+					
+						<li id="mm_li_">
+							<a href="/devices/verizon">Verizon</a>
+						</li>
+					
+					
+					
+					
+					
+						<li id="mm_li_">
+							<a href="/devices/wifi">Wi-Fi</a>
+						</li>
+					
+					
+						<li class="divider"></li>
+					
+					
+					
+					
+					
+					
+					
+					
+						<li id="mm_li_">
+							<a href="/devices/apple">Apple</a>
+						</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+						<li id="mm_li_">
+							<a href="/devices/htc">HTC</a>
+						</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+						<li id="mm_li_">
+							<a href="/devices/lg">LG</a>
+						</li>
+					
+					
+					
+					
+					
+					
+					
+						<li id="mm_li_">
+							<a href="/devices/motorola">Motorola</a>
+						</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+						<li id="mm_li_">
+							<a href="/devices/samsung">Samsung</a>
+						</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+						<li class="divider"></li>
+						<li>
+							<a href="/device/find">
+								<span class="glyphicon glyphicon-search"></span>
+								Device Finder
+							</a>
+						</li>
+						<li>
+							<a href="/compare/">
+								<span class="glyphicon glyphicon-pause"></span>
+								Device Compare
+							</a>
+						</li>
+					</ul>
+					
+				</li>
+				<!--
+				<li id="nav_faq_li">
+					<a href="/faq">FAQ</a>
+				</li>
+				-->
+				<li id="nav_esn_li">
+					<a href="/esn">ESN</a>
+				</li>
+			</ul>
+			<ul class="nav navbar-nav navbar-right">
+				<li id="nav_market_li" class="dropdown">
+					<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" rel="nofollow"> <img src="//swappa.s3.amazonaws.com/media/icons/flags/us.png" width="16"> &nbsp; US <b class="caret"></b></a>
+					<ul class="dropdown-menu">
+						
+						<li id="nav_market_us_choose">
+							<a href="/market/set/us?next=/privacy" rel="nofollow">
+								<img src="//swappa.s3.amazonaws.com/media/icons/flags/us.png" width="16"> &nbsp; United States (US)
+							</a>
+						</li>
+						
+						<li id="nav_market_uk_choose">
+							<a href="/market/set/uk?next=/privacy" rel="nofollow">
+								<img src="//swappa.s3.amazonaws.com/media/icons/flags/uk.png" width="16"> &nbsp; United Kingdom (UK)
+							</a>
+						</li>
+						
+						<li id="nav_market_eu_choose">
+							<a href="/market/set/eu?next=/privacy" rel="nofollow">
+								<img src="//swappa.s3.amazonaws.com/media/icons/flags/eu.png" width="16"> &nbsp; Europe (EU)
+							</a>
+						</li>
+						
+						<li class="divider"></li>
+						
+						<li id="nav_market_us_browse">
+							<a href="/us">
+								<img src="//swappa.s3.amazonaws.com/media/icons/flags/us.png" width="16"> &nbsp; Browse United States (US) »
+							</a>
+						</li>
+						
+						<li id="nav_market_uk_browse">
+							<a href="/uk">
+								<img src="//swappa.s3.amazonaws.com/media/icons/flags/uk.png" width="16"> &nbsp; Browse United Kingdom (UK) »
+							</a>
+						</li>
+						
+						<li id="nav_market_eu_browse">
+							<a href="/eu">
+								<img src="//swappa.s3.amazonaws.com/media/icons/flags/eu.png" width="16"> &nbsp; Browse Europe (EU) »
+							</a>
+						</li>
+						
+						<li class="divider"></li>
+						<li id="nav_about_markets">
+							<a href="/markets"><img src="/static/icons/help.png" width="16"> &nbsp; More about markets...</a>
+						</li>
+					</ul>
+				</li>
+			
+				<li class="nav-icon-50 hidden-xs hidden-sm">
+					<a style="padding: 0px;" href="/login?next=/privacy"><img src="/static/icons/no_profile_50.png" width="50" height="50" alt="Profile" border="0"></a>
+				</li>
+				<li>
+					<a href="/login?next=/privacy">Login / Register</a>
+				</li>
+			
+			</ul>
+		</div>
+		
 	</div>
-</div>
+</header>
+
+
+<div id="wrap">
 
 
 <div class="container">
+
 	
+	<div id="small_search_bar" class="visible-xs visible-sm" style="margin-bottom: 10px;">
+		<div class="row">
+			<form class="" role="search" action="/search" method="get">
+				<div class="col-xs-8">
+					<div class="form-group">
+						<input type="text" name="q" id="" class="search-query form-control" placeholder="Search..." data-provide="typeahead" autocomplete="off">
+					</div>
+				</div>
+				<div class="col-xs-4">
+					<div class="form-group">
+						<button type="submit" id="" class="search-query form-control btn-primary" data-provide="typeahead" autocomplete="off">Search</button>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
 	
 	
 	
@@ -550,31 +465,37 @@
 	</div>
 	
 	
+	<section id="breadcrumbs">
 	
 	<div>
 		<ul class="breadcrumb">
 			<li>
-				<a href="/">Swappa</a> <span class="divider">/</span>
+				<a href="/">Swappa</a>
 			</li>
 			<li>
-				Legal <span class="divider">/</span>
+				Legal
 			</li>
 			<li class="active">Privacy Policy</li>
 		</ul>
 	</div>
 
+	</section>
 	
 	
-	<section id="billboard">
-		
+	<section id="section_top">
 	</section>
 	
 	
 	
-	<section id="main">
+	<section id="section_billboard">
+	</section>
+	
+	
+	
+	<section id="section_main">
 		
 		<div class="row">
-			<div class="span8">
+			<div class="col-md-8" role="main">
 				<a id="searchable"></a>
 				
 
@@ -657,86 +578,19 @@
 				<a id="searchable_end"></a>
 			</div>
 			
-			<div class="span4">
+			<div class="col-md-4">
 				
 					
-<div class="well">
-	
-	<ul class="nav nav-list">
-		<li class="nav-header">
-			Introduction
-		</li>
-		<li id="side_nav_why">
-			<a href="/why" title="Why Swappa">Why Swappa?</a>
-		</li>
-		<li id="side_nav_about">
-			<a href="/about" title="About Swappa">About Swappa</a>
-		</li>
-		<li>
-			<a href="/faq" title="Swappa FAQ">Frequently Answered Questions (FAQ)</a>
-		</li>
-		
-		<li class="nav-header">
-			Buying and Selling
-		</li>
-		<li>
-			<a href="/buy" title="Buy with Swappa">Buy with Swappa</a>
-		</li>
-		<li>
-			<a href="/sell" title="Sell with Swappa">Sell with Swappa</a>
-		</li>
-		<li>
-			<a href="/vs/ebay" title="Swappa vs. eBay">Swappa vs. eBay</a>
-		</li>
-		
-		<li class="nav-header">
-			Contact
-		</li>
-		<li>
-			<a href="/contact" title="Contact Swappa">Contact Help / Support</a>
-		</li>
-		<li>
-			<a href="mailto:help@swappa.com" title="Email Help">help@swappa.com</a>
-		</li>
-		
-		<li class="nav-header">
-			Misc
-		</li>
-		<li>
-			<a href="/press" title="Swappa Press">Swappa Press</a>
-		</li>
-		<li>
-			<a href="/cyanogenmod" title="Swappa and CyanogenMod">♥ CyanogenMod</a>
-		</li>
-		<li>
-			<a href="/reddit" title="Swappa and Reddit">♥ Reddit</a>
-		</li>
-		<!--
-		<li>
-			<a href="/news" title="Swappa News and Announcements">Swappa News and Announcements</a>
-		</li>
-		<li>
-			<a href="/nice" title="Nice things about Swappa">Nice words about Swappa</a>
-		</li>
-		<li>
-			<a href="/latest/listings" title="Latest Listings">Latest Listings</a>
-		</li>
-		<li>
-			<a href="/latest/feedbacks" title="Latest Feedbacks">Latest Feedbacks</a>
-		</li>
-		-->
-		
-		<li class="nav-header">
-			Legal
-		</li>
-		<li>
-			<a href="/terms" title="Swappa Help">Terms of Use</a>
-		</li>
-		<li>
-			<a href="/privacy" title="Swappa Help">Privacy Policy</a>
-		</li>
-	</ul>
-	
+<div class="well well-sm">
+<div class="list-group">
+	<a id="side_nav_why" href="/why" title="Why Swappa" class="list-group-item">Why Swappa?</a>
+	<a id="side_nav_about" href="/about" title="About Swappa" class="list-group-item">About Swappa</a>
+	<a id="side_nav_faq" href="/faq" title="Swappa FAQ" class="list-group-item">Frequently Answered Questions (FAQ)</a>
+	<a id="side_nav_buy" href="/buy" title="Buy with Swappa" class="list-group-item">Buy with Swappa</a>
+	<a id="side_nav_sell" href="/sell" title="Sell with Swappa" class="list-group-item">Sell with Swappa</a>
+	<a id="side_nav_vs" href="/vs/ebay" title="Swappa vs. eBay" class="list-group-item">Swappa vs. eBay</a>
+	<a id="side_nav_contact" href="/contact" title="Contact Swappa" class="list-group-item">Contact Help / Support</a>
+</div>
 </div>
 
 				
@@ -750,87 +604,89 @@
 	
 	
 	
-</div> <!-- container -->
+</div> <!-- end container -->
 
 
 
+
+
+</div><!-- end wrap -->
 
 <div id="footer">
-	
-	<div class="container">
-	<div class="row">
-		
-		<div class="span4">
-			<div class="cell">
-				<div class="body">
-					<div style="width: 90px; height: 21px;">
-						<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fswappa.com%2F&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:21px;" allowtransparency="true"></iframe>
-					</div>
-					<div style="margin: 10px 0px 10px 0px;">
-						<img src="/static/images/Swappa_150x51.png" alt="Swappa Logo" width="150" height="51" border="0">
-					</div>
-					<div>
-						Swappa loves Android.
-					</div>
-				</div>
-			</div>
-		</div>
-		
-		<div class="span4">
-			<div class="cell">
-				<div class="body">
-					<ul>
-						<li>
-							<a href="/why">Why?</a> | <a href="/about">About</a> | <a href="/buy">Buy</a> | <a href="/sell">Sell</a> | <a href="/faq">FAQ</a>
-						</li>
-						<li>
-							 <a href="/esn">ESN Check</a> | <a href="http://blog.swappa.com">Blog</a> | <a href="/ebay">vs. eBay</a>
-						</li>
-						<li>
-							<a href="/markets">Markets</a> | <a href="/blog" target="_blank">Blog</a> | <a href="/press">Press</a> | <a href="/risks">Risks</a>
-						</li>
-						<li>
-							<a href="/contact">Contact</a> | <a href="/terms">Terms of Use</a> | <a href="/privacy">Privacy Policy</a>
-						</li>
-						
-					</ul>
-				</div>
-				<div class="body" style="padding-left: 25px;">
-					<!-- G+: https://developers.google.com/+/web/badge/ -->
-					<a href="https://plus.google.com/118083502790722489400?prsrc=3" rel="publisher" target="_top" style="text-decoration:none;">
-						<img src="//ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+" style="border:0;width:32px;height:32px;">
-					</a>
-					<a href="http://www.facebook.com/pages/Swappa/160481130660410" target="_blank"><img src="http://swappa.s3.amazonaws.com/media/icons/facebook_32.png" width="32" height="32" alt="Swappa on Facebook" border="0"></a>
-					<a href="http://twitter.com/swappa" target="_blank"><img src="http://swappa.s3.amazonaws.com/media/icons/twitter_32.png" width="32" height="32" alt="Swappa on Twitter" border="0"></a>
-					<a href="http://www.linkedin.com/company/1540301" target="_blank"><img src="http://swappa.s3.amazonaws.com/media/icons/linkedin_32.png" width="32" height="32" alt="Swappa on LinkedIn" border="0"></a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="span4">
-			<div class="cell">
-				<div class="body">
-					<p>
-						Copyright © 2010 - 2013
-						<nobr>Swappa, LLC</nobr>
-					</p>
-					<p>
-						Android is a trademark of Google Inc. Use of this trademark is subject to 
-						<nobr><a href="http://www.google.com/permissions/index.html" target="_blank">Google Permissions</a></nobr>.
-					</p>
-					<p>
-						All trademarks and copyrights remain the property of their respective owners.
-					</p>
-				</div>
-			</div>
-		</div>
-		
-	</div>
-	</div>
-	
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+                <h3>About Swappa</h3>
+                <ul>
+                    <li><a href="/why">Why?</a></li>
+                    <li><a href="/about">About</a></li>
+                    <li><a href="/faq">FAQ</a></li>
+                    <li><a href="/ebay">vs. eBay</a></li>
+                    <li><a href="/press">Press</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <h3>Buy and Sell Devices</h3>
+                <ul>
+                    <li><a href="/boneyard">Boneyard</a></li>
+                    <li><a href="/buy">Buy</a></li>
+                    <li><a href="/sell">Sell</a></li>
+                    <li><a href="/markets">Markets</a></li>
+                    <li><a href="/esn">ESN Check</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <h3>More Details</h3>
+                <ul>
+                    <li><a href="http://blog.swappa.com" target="_blank">Blog</a></li>
+                    <li><a href="/risks">Risks</a></li>
+                    <li><a href="/contact">Contact</a></li>
+                    <li><a href="/terms">Terms of Use</a></li>
+                    <li><a href="/privacy">Privacy Policy</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <!-- Social Stuff -->
+
+                <div class="row">
+                    <div class="col-xs-3">
+                        <a href="https://plus.google.com/118083502790722489400?prsrc=3" rel="publisher" target="_top" style="text-decoration:none;"><img class="img-responsive" src="/static/icons/128-googleplus.png" style="float:left"></a>
+                    </div>
+                    <div class="col-xs-3">
+                        <a href="http://www.facebook.com/pages/Swappa/160481130660410" target="_blank"><img class="img-responsive" src="/static/icons/128-facebook.png" style="float:left"></a>
+                    </div>
+
+                    <div class="col-xs-3">
+                        <a href="http://www.linkedin.com/company/1540301" target="_blank"><img class="img-responsive" src="/static/icons/128-linkedin.png"></a>
+                    </div>
+                    <div class="col-xs-3">
+                        <a href="http://twitter.com/swappa" target="_blank"><img class="img-responsive" src="/static/icons/128-twitter.png"></a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <p class="pull-right" style="font-size: 1.1em;margin-top: 10px;">All trademarks and copyrights remain the property of their respective owners.</p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3 col-xs-6">
+                <a href="http://swappa.com"><img class="img-responsive" src="/static/images/Swappa_150x51.png"> </a>
+            </div>
+            <div class="col-sm-3 col-sm-offset-6 col-xs-6">
+                <p class="pull-right" style="padding-top: 15px;">Copyright © 2010 - 2014 <nobr>Swappa, LLC</nobr></p>
+            </div>
+        </div>
+    </div>
+</footer>
 
 
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","queueTime":0,"licenseKey":"d7e1fe928c","agent":"js-agent.newrelic.com/nr-411.min.js","transactionName":"YlYGY0UHW0YFWkIKVlscIkJZBUFcC1cZB1NUXQNYGRBcUBNKGARcW1YWXlRIRlwJSVoGA1FaFlJUEmpBC2ZCBlRFXwVDUg==","applicationID":"2879586","errorBeacon":"bam.nr-data.net","applicationTime":38}</script>
 
-
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
