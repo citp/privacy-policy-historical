@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022160722id_/https%3A//www.drivetime.com/Info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092650id_/https%3A//www.drivetime.com/Info/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Used Car Search & Online Shopping | DriveTime
 
 At DriveTime, we believe that the confidentiality and protection of your personal information is one of our fundamental responsibilities. We want you to know that you can count on us to protect the privacy and security of your customer information and to provide you with the responsive, professional service you deserve. 
 
@@ -68,7 +68,7 @@ These practices and policies are subject to change, but we will communicate any 
 
 DriveTime does not send unsolicited e-mail. When you provide your e-mail address to us, it is under the explicit understanding that you want to receive information from DriveTime. Every time you submit a request for information, DriveTime will send you an automatic response confirming your submission. In addition, we may contact you from time to time (or have our partners or vendors contact you in our behalf) for the purpose of informing you about DriveTime products, services and programs. 
 
-Each e-mail sent by DriveTime contains a link that provides access to a simple automated facility to opt out of future e-mails from us. If you wish to opt out of additional e-mail communications, and no longer have the e-mail with the link, you can opt yourself out at [www.drivetime.com/optout/](https://web.archive.org/emailtemplate/unsubscribe). If you have received an unwanted e-mail sent from DriveTime, please forward a copy of the e-mail and your comments to [approvals@drivetime.com](mailto:approvals@drivetime.com) and we will immediately add you to our "do not e-mail" list. 
+Each e-mail sent by DriveTime contains a link that provides access to a simple automated facility to opt out of future e-mails from us. If you wish to opt out of additional e-mail communications, and no longer have the e-mail with the link, you can opt yourself out at [www.drivetime.com/optout/](https://web.archive.org/emailtemplate/unsubscribe). If you have received an unwanted e-mail sent from DriveTime, please forward a copy of the e-mail and your comments to [approvals@drivetime.com](mailto:approvals@drivetime.com+) and we will immediately add you to our "do not e-mail" list. 
 
 ####  Contacting the Web Site 
 
@@ -76,7 +76,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 ####  Downloadable Privacy Documents 
 
-  * [Privacy Policy Flyer](https://commondrivetimeprod.blob.core.windows.net/commondrivetimeprod/PrivacyPolicy.pdf)
-  * [California Privacy Notice](https://commondrivetimeprod.blob.core.windows.net/commondrivetimeprod/CaliforniaPrivacyNotice.pdf)
+  * [Privacy Policy Flyer](https://az528617.vo.msecnd.net/commondrivetimeprod/PrivacyPolicy.pdf)
+  * [California Privacy Notice](https://az528617.vo.msecnd.net/commondrivetimeprod/CaliforniaPrivacyNotice.pdf)
 
 
