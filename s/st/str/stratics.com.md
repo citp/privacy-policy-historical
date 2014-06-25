@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stratics.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210232404id_/http%3A//stratics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122112id_/http%3A//stratics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Stratics
+# Stratics Privacy Policy - Stratics
 
 This site is privately owned and operated by Valour Corp (“we,” “our”). We are committed to protecting the privacy of our volunteers, users, and visitors. The protections afforded by this Privacy Policy have universal reciprocity throughout all Stratics properties, but do not apply to third-party websites. Affiliation, registration, or use of Stratics content, products, or services constitutes unconditional assent to this policy. We reserve to the unilateral right to update this policy at any time. Changes to this policy will be promulgated throughout the Stratics Network. After changes are implemented, continued affiliation, registration, or use of Stratics content, products, or service reaffirms continued assent to this policy.
 
