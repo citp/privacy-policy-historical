@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the queervids.com privacy policy that was archived on 2013-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131021162604id_/http%3A//queervids.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the queervids.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625075917id_/http%3A//queervids.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>QueerVids - Privacy Policy</title>
@@ -35,11 +35,22 @@
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
 <link type="text/css" rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css">
 <script src="/js/jquery.cookie.js"></script>
-<script src="/js/cache.js?t=1382372765"></script>
+<script src="/js/cache.js?t=1403680913"></script>
 <script type="text/javascript">
 		var url     = '/thumbs/';
 		var timers  = new Array;
 		var images  = new Array;
+		var os = (function() {
+			var ua = navigator.userAgent.toLowerCase();
+			return {
+				isWin2K: /windows nt 5.0/.test(ua),
+				isXP: /windows nt 5.1/.test(ua),
+				isVista: /windows nt 6.0/.test(ua),
+				isWin7: /windows nt 6.1/.test(ua),
+				isWin8: /windows nt 6.2/.test(ua),
+				isWin81: /windows nt 6.3/.test(ua)
+			};
+		}());
 		function changeThumb( id, url, num )
 		{
 		    document.getElementById(id).src = url;
@@ -86,6 +97,15 @@
 		            $('#'+image_id).attr('src', thmb_default);
 		        }
 		    });
+			if(os.isWin8 && $.browser.msie){
+				$('a').click(function(e){
+					e.preventDefault();
+					var url=$(this).attr('href');
+					if(url.indexOf('#')===-1){
+						window.location=url;
+					}
+				});
+			}
 		});
 	</script>
 </head>
