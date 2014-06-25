@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuzzel.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506064016id_/http%3A//beta.nuzzel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuzzel.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142640id_/http%3A//nuzzel.com/privacy) for the most accurate reproduction.*
 
 # Nuzzel Privacy Policy
 
@@ -79,6 +79,8 @@ You agree that we may disclose your information to a third party where we believ
 
 By providing information to the Site that forms the basis of communication with you, such as contact information, you waive all rights to file complaints concerning unsolicited email from us since, by providing such information, you agree to receive communication from us or anyone else covered under this Privacy Policy. However, you may unsubscribe from our communications by notifying Nuzzel that you no longer wish to receive solicitations or information and we will endeavour to remove you from our database where you have the right to request this under our Agreement, Privacy Policy, or applicable law, or where we voluntarily decide to grant the request. If you do this, you will make us sad, but we respect your decision.
 
+You may opt-out of receiving further email from us by clicking on the "Unsubscribe" link at the bottom of our email messages.
+
 ##  11\. Security Measures
 
 We take certain measures to enhance the security of our Site and Services. However, we make no representations as to the security or privacy of your information. It is in our interest to keep our website secure, but we recommend that you use anti-virus software, routine credit checks, firewalls, and other precautions to protect yourself from security and privacy threats.
@@ -94,5 +96,13 @@ The Internet is a big place. Your information may be transferred to - and mainta
 ##  14\. Amendments
 
 Like our Terms of Service, we may amend this Privacy Policy from time to time. When we amend this Privacy Policy, we will update this page. You must agree to the amendments as a condition of your continued use of our Site and Service. If you do not agree, you must immediately cease using our Site and Service.
+
+## To contact us:
+
+Nuzzel, Inc.  
+665 3rd St., Suite 150  
+San Francisco, CA 94107  
+415-358-8131  
+[info@nuzzel.com](mailto:info@nuzzel.com)
 
 Last Updated: January 14, 2013
