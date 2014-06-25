@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statuspage.io privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816024232id_/https%3A//www.statuspage.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statuspage.io privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072235id_/https%3A//www.statuspage.io/privacy-policy) for the most accurate reproduction.*
 
 # StatusPage.io - Hosted Status Pages for Your Company - Privacy Policy
 
@@ -42,7 +42,7 @@ We may collect other information that cannot be readily used to identify you, su
 
 ##### Cookies
 
-StatusPage uses "cookies" to store personal data on your computer. We may also link information stored on your computer in cookies with personal data about specific individuals stored on our servers. If you set up your Web browser (for example, Internet Explorer or Firefox) so that cookies are not allowed, you might not be able to use some or all of the features of our Web site(s). 
+StatusPage uses "cookies" to store personal data on your computer. We may also link information stored on your computer in cookies with personal data about specific individuals stored on our servers. If you set up your Web browser (for example, Internet Explorer or Firefox) so that cookies are not allowed, you might not be able to use some or all of the features of our Web site(s). We currently do not react to Do Not Track (DNT) signals. 
 
 ##### External data storage sites
 
