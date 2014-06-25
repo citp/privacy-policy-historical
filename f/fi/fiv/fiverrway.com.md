@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiverrway.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219032158id_/http%3A//fiverrway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiverrway.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625201903id_/http%3A//fiverrway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fiverrway - Build Your Successful Micro Job Website
 
