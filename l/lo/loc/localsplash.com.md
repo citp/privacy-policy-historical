@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localsplash.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907053904id_/http%3A//www.localsplash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsplash.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125328id_/http%3A//localsplash.com/privacy-policies) for the most accurate reproduction.*
 
 # Localsplash Privacy Policy
 
@@ -6,24 +6,26 @@ This privacy statement describes how Local Splash collects and uses the personal
 
 If you have questions or concerns regarding this policy, you should first contact us at [info@localsplash.com](mailto:info@localsplash.com).
 
-**Collection and Use of Personal Information**
+* * *
 
-We collect the following personal information from you:
+We collect the following personal information from you: 
 
   * Contact Information such as name, email address, mailing address, phone number
   * Preferences Information such as product wish lists, order history, marketing preferences
 
 
 
-We also collect the following information from you:
+* * *
+
+We also collect the following information from you: 
 
   * Information about your business such as company name, company size, business type
 
 
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+* * *
 
-We use this information to:
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. We use this information to: 
 
   * Send you requested product or service information
   * Respond to customer service requests
@@ -31,13 +33,13 @@ We use this information to:
 
 
 
-**Information Sharing**
+* * *
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+**Information Sharing** We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us. 
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+* * *
 
-We may also disclose your personal information:
+We may also disclose your personal information: 
 
   * as required by law such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
@@ -46,48 +48,38 @@ We may also disclose your personal information:
 
 
 
-We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [info@localsplash.com](mailto:info@localsplash.com).
+* * *
 
-**Cookies and Other Tracking Technologies**
+We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [info@localsplash.com](mailto:info@localsplash.com). 
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+* * *
 
-We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+**Cookies and Other Tracking Technologies** We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site. 
 
-_Web beacons_
+* * *
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+_Web beacons_ Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used. 
 
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+* * *
 
-_Links to Other Web Sites_
+_Links to Other Web Sites_ Our Site includes links to other Web sites whose privacy practices may differ from those of Local Splash. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Local Splash. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+* * *
 
-**Security**
+**Security** The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@localsplash.com](mailto:info@localsplash.com). 
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+* * *
 
-If you have any questions about security on our Web site, you can contact us at [info@localsplash.com](mailto:info@localsplash.com).
+**Additional Policy Information** Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. 
 
-**Additional Policy Information**
+* * *
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+**Correcting and Updating Your Personal Information** To review and update your personal information to ensure it is accurate, contact us at [info@localsplash.com](mailto:info@localsplash.com). 
 
-**Correcting and Updating Your Personal Information**
+* * *
 
-To review and update your personal information to ensure it is accurate, contact us at [info@localsplash.com](mailto:info@localsplash.com).
+**Notification of Privacy Statement Changes** We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
-**Notification of Privacy Statement Changes**
+* * *
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-**Contact Information**
-
-You can contact us about this privacy statement by writing or email us at the address below:
-
-Local Splash  
-3611 S. Harbor Blvd. Ste. 205  
-Santa Ana, CA, United States 92704  
-Email: [info@localsplash.com ](mailto:info@localsplash.com)  
-Phone: 877-635-6225
+**Contact Information** You can contact us about this privacy statement by writing or email us at the address below: Local Splash 3611 S. Harbor Blvd. Ste. 205 Santa Ana, CA, United States 92704 Email: [info@localsplash.com ](mailto:info@localsplash.com) Phone: 877-635-6225 
