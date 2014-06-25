@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crea.ca privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102015719id_/http%3A//www.crea.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crea.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063221id_/http%3A//crea.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | crea.ca
 
@@ -47,9 +47,14 @@ CREA uses the personal information provided to it for various purposes, all of w
   * Providing products, services, information and advice to individual members and Boards/Associations;
   * Operating and maintaining its residential property website (REALTOR.ca), its commercial property website ( [www.icx.ca](http://www.icx.ca/ "www.icx.ca") ) and its Intranet site ( [www.realtorlink.ca;www.lienimmobilier.ca](http://www.realtorlink.ca;www.lienimmobilier.ca "www.realtorlink.ca;www.lienimmobilier.ca") );
   * Administering and facilitating membership in the Boards/Associations across Canada;
-  * Administering trademark and competition law compliance programs; Furthering national policies; Ensuring compliance with bylaws, rules and regulations of CREA and Boards/Associations;
-  * Administering CREA's REALTOR® Code; Meeting any legal or regulatory requirements;
-  * Any other purposes consistent with CREA's mission statement and strategic plan.
+  * Administering trademark and competition law compliance programs;
+  * Furthering national policies;
+  * Ensuring compliance with bylaws, rules and regulations of CREA and Boards/Associations;
+  * Administering CREA’s Code of Ethics and Standards of Business Practice;
+  * Providing electronic notice to members, including notice of members meetings in which they are eligible to vote, and notice of the availability of financial statements;
+  * Meeting any legal or regulatory requirements;
+  * Calls to action for charitable or political purposes;
+  * Any other purposes consistent with CREA’s mission statement and strategic plan.
 
 
 
