@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desiretoinspire.net privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514075654id_/http%3A//www.desiretoinspire.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiretoinspire.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015622id_/http%3A//www.desiretoinspire.net/privacy-policy) for the most accurate reproduction.*
 
-# desire to inspire - Privacy Policy
+# Privacy Policy - desiretoinspire.net
 
 **Desire to Inspire Privacy Policy**
 
