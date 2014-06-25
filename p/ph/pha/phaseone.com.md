@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the phaseone.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205084332id_/http%3A//www.phaseone.com/en/FooterMenu/AboutUs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phaseone.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140046id_/http%3A//www.phaseone.com/en/FooterMenu/ServiceFooters/Privacy.aspx) for the most accurate reproduction.*
 
-# Phase One's privacy policy
+# Privacy
 
-Phase One collects information on users and usage in two separate venues: in the Capture One application, and on our web sites.
+Phase One collects information on users and usage in two separate venues: in the Capture One application, and on our web sites.
 
 ### Capture One Pro 7 
 
@@ -68,9 +68,6 @@ In the event Phase One sells assets (or the assets of a division or subsidiary) 
 **Use of cookies  
 ** Our Cookie policy explains what cookies are, how we use them on phaseone.com and what benefits they bring.
 
-[Go to Cookie policy](https://web.archive.org/en/FooterMenu/AboutUs/Cookie-policy.aspx)
+Go to Cookie policy
 
 We reserve the right, at any time and without notice, to add, to change, update or modify this Privacy statement, simply by posting such change, update or modification on the web site. Any such change, update or modification will be effective immediately upon posting on the web site.
-
-
-
