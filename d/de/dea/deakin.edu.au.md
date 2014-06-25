@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113201442id_/http%3A//www.deakin.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012752id_/http%3A//www.deakin.edu.au/privacy) for the most accurate reproduction.*
 
 # Deakin University Privacy Statement
 
@@ -18,7 +18,16 @@ The University web server, and cookies installed by the server on users' compute
 
 
 
-A cookie is a small text file which has a limited lifetime. Information supplied by cookies helps us learn about how people use our site, analyse our visitors and provide users with a better user experience. A cookie allows a web server to 'remember' the visitor on subsequent visits without having to prompt the visitor for information previously supplied. A cookie may also be used to personalise your web experience. An example of this would be a cookie remembering courses you previously viewed.
+A cookie is a small text file which has a limited lifetime. Information supplied by cookies helps us learn about how people use our site, analyse our visitors and provide users with a better user experience. Deakin uses cookies in two ways:
+
+  1. to personalise your visit to the Deakin website a cookie allows a web server to 'remember' the visitor on subsequent visits without having to prompt the visitor for information previously supplied. A cookie may also be used to personalise your web experience. An example of this would be a cookie remembering courses you previously viewed.
+  2. to provide information about Deakin to you throughout your browsing experience
+
+
+
+Deakin uses DoubleClick, which tailors your browsing experience by placing information about its services on third party websites. For this purpose, the cookie collects your IP address, browser type, browser language, the date and time of your request, and the identity of your browser but does not collect personally identifying information. The cookie remains active for 30 days after each visit you make to the Deakin website. For further information about DoubleClick cookies, please visit the [DoubleClick cookies webpage](https://support.google.com/adsense/answer/2839090?hl=en.).
+
+You may choose not to receive DoubleClick cookies by [opting-out](https://support.google.com/adsense/troubleshooter/1631343?hl=en).
 
 The installation of cookies may be blocked via the user's web browser if the user does not wish to accept cookies, but this may mean that the user will not be able to access some parts of the University's website without re-authenticating on each visit. Web browser software contains a function enabling the user to delete all cookies on their computer's hard drive.
 
