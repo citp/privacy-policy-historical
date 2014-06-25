@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietbetter.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012164453id_/http%3A//www.dietbetter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietbetter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105118id_/http%3A//www.dietbetter.com/privacy) for the most accurate reproduction.*
 
 # DietBet | Privacy Policy
 
@@ -99,10 +99,3 @@ Changes to this Privacy Policy. DietBet may amend this Privacy Policy from time 
 Conditions of Use. If you decide to visit DietBet's website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California law.
 
 Effective Date of this Privacy Policy. This Privacy Policy is effective as of December 1, 2011.
-
-###  Privacy Policy 
-
-Privacy is your right, especially when it comes to your weight. See how we protect it.  
-[www.dietbetter.com/privacy](https://web.archive.org/privacy)
-
-###  Why DietBetters are Better Dieters 
