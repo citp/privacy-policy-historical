@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the motricity.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805082857id_/http%3A//motricity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motricity.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140915id_/http%3A//www.voltari.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | voltari.com
 
 Your privacy is important to us. This Privacy Policy will tell you what information we collect, how we collect it, how we use it, how we disclose it, how we protect it, and what choices you have with respect to all of the above. We urge you to read this Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
 
-This Privacy Policy governs the information collection and disclosure practices for the web sites and mobile data services operated by Motricity, Inc. and its subsidiaries (collectively, the "Company", or "we" or "us"). The Company's web sites include, but are not necessarily limited to, all of the following web sites, each of which is operated (either directly or through one or more wholly-owned subsidiaries) by the Company: www.motricity.com, www.gin.com, www.gin.nl, www.moviso.com, www.mcore.com, and www.yourmobile.com (each a "Web Site" and collectively the "Web Sites").
+This Privacy Policy governs the information collection and disclosure practices for the web sites and mobile data services operated by Voltari, Inc. and its subsidiaries (collectively, the "Company", or "we" or "us"). The Company's web sites include, but are not necessarily limited to, all of the following web sites, each of which is operated (either directly or through one or more wholly-owned subsidiaries) by the Company: [www.motricity.com](http://www.motricity.com/), [www.voltari.com](http://www.voltari.com/), [www.serranomobile.com](http://www.serranomobile.com/), [www.mcore.com](http://www.mcore.com/), and [www.yourmobile.com](http://www.yourmobile.com/) (each a "Web Site" and collectively the "Web Sites").
 
 ## Changes to this Policy
 
-We reserve the right to modify this Privacy Policy at any time, so please review it regularly. If we make changes to this Privacy Policy, we will post the revised Privacy Policy on the Web Sites and other places we deem appropriate. All such changes shall be binding on you 30 days after they are initially posted on the Web Sites unless you are a new user, in which case they are binding on you immediately.
+We reserve the right to modify this Privacy Policy at any time without notice, so please review it regularly. If we make changes to this Privacy Policy, we will post the revised Privacy Policy on the Web Sites and other places we deem appropriate. All changes will be binding on you 30 days after they are initially posted on the Web Sites unless you are a new user, in which case they are binding on you immediately.
 
 ## Information Collection
 
@@ -16,13 +16,9 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 
 In general, you can browse the Web Sites without telling us who you are or revealing any personal information about yourself. However, if you wish to purchase or download any of the products or use any of the services offered by the Web Sites, you may be required to disclose certain information to us. You always have the option to not provide information by choosing not to purchase or download a particular product or use a particular service or feature. The Company is the sole owner of the information collected on the Web Site.
 
-### Registration
+### Downloads
 
-In order to purchase or download products or use the services offered by this Web Site, you must first create an account with us. You may have to establish a separate account if you use the services or purchase or download products from more than one Web Site. During the account set-up process, you are required to give certain contact information, including your name, email address, and in some cases your approximate age. We use this information to contact you about the products services on our site in which you have expressed interest, and, the case of your approximate age, to determine whether you old enough to use the Web Sites. You may have the option to provide additional demographic information (such as income level, location, and gender) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site. Where possible, we indicate which fields are required and which fields are optional.
-
-### Orders
-
-If you purchase or download a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and address) and, where applicable, financial information (such as credit card number, expiration date). We use this information for billing purposes and to fulfill your orders. If we have trouble processing an order, we will use this information to contact you.
+If you download a product or service from us, we request certain personally identifiable information from you. You must provide contact information (such as name, email, and address). We use this information to fulfill your orders. If we have trouble processing an order, we will use this information to contact you.
 
 ### Surveys or Contests
 
@@ -58,7 +54,7 @@ In order to provide certain services to you, we may on occasion supplement the p
 
 ### Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us from unauthorized access, disclosure, alteration, or destruction, both during transmission and once we receive it.
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us from unauthorized access, disclosure, alteration, or destruction, both during transmission and once we receive it.
 
 ## Use of Information
 
@@ -98,17 +94,9 @@ As part of our mobile products and services, we receive personal information fro
 
 As a matter of policy, we do not sell or rent any of your personal information to third parties for their marketing purposes without first providing you with an opportunity to opt-out. However, the following describes some of the ways that we may disclose your personal information in the normal course of providing our services.
 
-### Suppliers & Developers
-
-Where you purchase or download a product or service on one of our Web Sites, we may disclose your name and email address to our partner who is our supplier of that product or service. For example, if you download a particular software application, we may disclose your name and email address to the developer of that software application. This disclosure is to enable the developer or supplier to provide support to you, and in certain cases to allow you to benefit from certain levels of support that are only available to registered users. We have no control over what these third parties do with the information that we disclose to them.
-
 ### Aggregate Information (non-personally identifiable)
 
 We share aggregated, non-personally identifiable information about our user base with our partners and advertisers. This information does not identify individual users.
-
-### Agents and Service Providers
-
-We may use third parties to provide, on our behalf, some portions of the products and services available on the Web Sites. For instance, we use a credit card processing company to bill you for services, and we may use third party service providers to provide certain fulfillment services for some of our products or services. We use our best efforts, to the extent commercially reasonable, to ensure that these companies do not retain, share, store or use personally identifiable information that we disclose to them for such purposes for any other purposes.
 
 ### Your Use of the Web Site
 
@@ -124,7 +112,7 @@ We cannot ensure that all of your private communications and other personal info
 
 ### Choice/Opt-Out
 
-We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you register with us but do not wish to receive any additional marketing material from us, you can indicate your preference on our registration form. If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at privacy@motricity.com. You may also update your preferences at any time by accessing our member information area. You will be notified before your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you register with us but do not wish to receive any additional marketing material from us, you can indicate your preference on our registration form. If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@voltari.com](mailto:privacy@voltari.com). You may also update your preferences at any time by accessing our member information area. You will be notified before your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
 ### Links to Other Sites
 
@@ -132,7 +120,7 @@ This privacy statement applies only to information collected by these Web Sites.
 
 ### Access to Personal Information
 
-If your personally identifiable information changes, or if you no longer desire some or all of our services, you may correct, update, delete or deactivate it by making the change on our account information pages or by emailing us at privacy@motricity.com or by contacting us by telephone or postal mail 601 108th Avenue NE Suite 800 Bellevue, WA 98004 United States of America, (425) 957-6201. Please note that, if you have established an account with more than one of our Web Sites, you may have to make these changes on each Web Site.
+If your personally identifiable information changes, or if you no longer desire some or all of our services, you may correct, update, delete or deactivate it by making the change on our account information pages or by emailing us at [privacy@voltari.com](mailto:privacy@voltari.com) or by contacting us by telephone or postal mail 601 108th Avenue NE Suite 900 Bellevue, WA 98004 United States of America, (425) 957-6201. Please note that, if you have established an account with more than one of our Web Sites, you may have to make these changes on each Web Site.
 
 ### Business Transition
 
@@ -140,7 +128,7 @@ In the event we go through a business transition, such as a merger, acquisition 
 
 ### Special Notification with respect to Children's Privacy (Users under the Age of 13)
 
-In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which websites may collect, use and disclose any personal information for children under the age of 13. In accordance with InfoSpace policy and COPPA regulations, we DO NOT:
+In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which websites may collect, use and disclose any personal information for children under the age of 13. In accordance with our policy and COPPA regulations, we DO NOT:
 
 1\. Request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or 2. Knowingly use or share personal information from users under 13 years of age with third parties.
 
@@ -150,7 +138,7 @@ Questions regarding children's privacy should be directed to us at the contact i
 
 ### Safe Harbor
 
-We abide by the European Union ("EU") Safe Harbor framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the EU. Our privacy practices with respect to personal data collected from individuals residing in the EU are self-certified to the Safe Harbor Program developed by the US Department of Commerce and the European Commission. For more information about the Safe Harbor Program, please go to http://export.gov/safeharbor/. Terms that are capitalized below have the same meanings given to them as part of the Safe Harbor Program.
+We abide by the European Union ("EU") Safe Harbor framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the EU. Our privacy practices with respect to personal data collected from individuals residing in the EU are self-certified to the Safe Harbor Program developed by the US Department of Commerce and the European Commission. For more information about the Safe Harbor Program, please go to <http://export.gov/safeharbor/>. Terms that are capitalized below have the same meanings given to them as part of the Safe Harbor Program.
 
 ### Mobile Services
 
@@ -166,17 +154,16 @@ Notwithstanding the foregoing, we may disclose Personal Data to governmental aut
 
 ### Safe Harbor Verification
 
-Motricity verifies that this Privacy Policy is accurate, comprehensive, and completely implemented, including implementation of appropriate employee training and other internal procedures. Motricity further verifies that its privacy policy conforms to the "Safe Harbor Principles" issued by the U.S. Department of Commerce on July 21, 2000, which concerns compliance with European Union privacy protection requirements by U.S. organizations.
+Voltari verifies that this Privacy Policy is accurate, comprehensive, and completely implemented, including implementation of appropriate employee training and other internal procedures. Voltari further verifies that its privacy policy conforms to the "Safe Harbor Principles" issued by the U.S. Department of Commerce on July 21, 2000, which concerns compliance with European Union privacy protection requirements by U.S. organizations.
 
 ### Enforcement
 
-If you have any questions or concerns regarding our Privacy Policy, please direct them to us at the contact information provided below. We have instituted internal policies and procedures for handling such submissions and will respond to you in a timely manner. If you do not receive acknowledgement of your inquiry, or if it is not satisfactorily addressed, you may contact the Federal Trade Commission for further action on your complaint at www.ftc.gov/privacy.
+If you have any questions or concerns regarding our Privacy Policy, please direct them to us at the contact information provided below. We have instituted internal policies and procedures for handling such submissions and will respond to you in a timely manner. If you do not receive acknowledgement of your inquiry, or if it is not satisfactorily addressed, you may contact the Federal Trade Commission for further action on your complaint at [www.ftc.gov/privacy](http://www.ftc.gov/privacy).
 
 ## Contacting Us
 
 For any questions or concerns you may have regarding this Privacy Policy and our information and data collection and use practices, please contact us at:
 
-**Via Mail:**  
-Motricity Attn: Privacy Officer 601 108th Avenue NE, Suite 800 Bellevue, Washington 98004 USA
+**Via Mail:** Voltari Attn: Privacy Officer, 601 W. 26th Street, Suite 415 New York, NY 10001 USA
 
-**Via Email:** [privacy@motricity.com](mailto:privacy@motricity.com)
+**Via Email:** [privacy@voltari.com](mailto:privacy@voltari.com)
