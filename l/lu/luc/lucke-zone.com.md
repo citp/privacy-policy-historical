@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucke-zone.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103165056id_/https%3A//www.lucke-zone.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucke-zone.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110614id_/https%3A//www.lucke-zone.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Lucke-Zone: Privacy
 
@@ -9,6 +9,8 @@ We may also retain any information that you voluntarily provide to us, such as y
 Our site may use “cookies”, both persistent and non-persistent, to store information. Cookies are small data files that can be stored on your computer system that contain information pertinent to our website. The cookies will not contain personally identifiable information and in most instances are encrypted.
 
 ## How the Information is Used
+
+The North Carolina Educational Lottery, as the developer and manager of its websites, has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in the Lottery’s possession and within the Lottery’s control. When collecting private data from you, the Lottery utilizes Secure Sockets Layers (SSL) software, which encrypts information you input and prevents unauthorized viewing. 
 
 Typically, the information automatically collected and voluntarily submitted is used to provide website visitors with a more personal experience and to present them with information that is most pertinent to their specific needs. We also use the information to operate and improve our website, to gather and provide information about our products and services, and to gather user and customer information.
 
