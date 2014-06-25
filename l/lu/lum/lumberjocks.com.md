@@ -1,26 +1,18 @@
-> *The following text is extracted and transformed from the lumberjocks.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003040150id_/http%3A//lumberjocks.com/privacy_pop_up) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumberjocks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064839id_/http%3A//lumberjocks.com/privacy_pop_up) for the most accurate reproduction.*
 
-# Privacy Policy | LumberJocks.com :: woodworking community
+# Privacy Policy @ LumberJocks.com ~ woodworking community
 
-This privacy statement (“Privacy Policy”) covers LumberJocks.com, GardenTenders.com and/or HomeRefurbers.com (collectively “we”, “us”, “our”). We understand that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the LumberJocks.com, GardenTenders.com and/or HomeRefurbers.com websites, submitting information or using any of our products or services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+LumberJocks.com respects your privacy. You will never have to register or provide any personal information in order to browse our website and read the LumberJocks.com discussion boards (however, registration may be required for posting on the discussion boards and for entering our contests). 
 
-**What information do we collect? How do we use it?**  
-When you sign up, we need to know your nickname, e-mail address and password. This allows you to create a membership in order to sign in and use our site. When you enter a contest or other promotional feature, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners.
+**Information About You**  
+LumberJocks.com may from time to time ask you to provide information about yourself to us on a voluntary basis, through surveys, polls, and as a requirement for entry into LumberJocks.com contests. This information may include your name, address, telephone number, zip code, email address, sex, age range, the types of equipment you use, planned purchases, and what kinds business you run. 
 
-**Will LumberJocks.com, GardenTenders.com or HomeRefurbers.com disclose the information it collects to outside parties?**  
-We do not sell, trade, or rent your personal information to others. We may provide demographics and statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will not include personally identifying information.
+LumberJocks.com aggregates this information to determine trends, preferences, and demographics about the contracting community in general. We will use this aggregated information to study the trends of our user community. Occasionally we may provide this aggregate data to the sponsors of LumberJocks.com. Specific information such as name, email address, or other contact information will never be shared with sponsors. 
 
-We may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of Simple Joe, our users, or others.
+**Your Email Address**  
+No one enjoys unsolicited email, or spam. However, LumberJocks.com may use your email address to send you information about LumberJocks.com that we think you might be interested in. You can opt-out from LumberJocks.com by letting us know. LumberJocks.com will never sell or share your email address with any outside source without your permission. 
 
-**In Summary**  
-We are committed to protecting your privacy. We use the information we collect on the site to make using and visiting our sites.com as enjoyable as possible and to enhance your overall experience. We do not sell, trade, or rent your personal information to others.
+**Miscellaneous**  
+We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). Additionally you can you can control your level of participation in ScorecardResearch market research programs, along with other research programs that are operated by Full Circle Studies, Inc., or its affiliates [here](http://www.scorecardresearch.com/preferences.aspx). 
 
-**Your Consent**  
-By using our LumberJocks.com, GardenTenders.com or HomeRefurbers.com, you consent to the collection and use of this information by us. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-LumberJocks.com, GardenTenders.com or HomeRefurbers.com also provides links and advertisements to affiliated sites. The privacy policies of these linked sites are the responsibility of that site and we has no control or influence over their policies. Please check the policies of each site you visit for specific information. We cannot be held liable for damage or misdoings of other sites linked or otherwise.
-
-**Questions and Feedback**  
-If you have any questions or feedback related to our Privacy Policy, please email us at [info@lumberjocks.com](mailto:info@lumberjocks.com)
-
-_Sep 28, 2008_
+_April 2014_
