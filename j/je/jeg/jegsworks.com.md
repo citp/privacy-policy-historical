@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jegsworks.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910033024id_/http%3A//jegsworks.com/aboutsite/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jegsworks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112021id_/http%3A//www.jegsworks.com/aboutsite/privacypolicy.htm) for the most accurate reproduction.*
 
 # Jegsworks: Privacy Policy
 
@@ -16,7 +16,7 @@ Any of the information we collect from you may be used in one of the following w
 
 To process transactions
 
-**How do we protect your information?**
+ **How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order through a third-party order processing service.
 
@@ -26,7 +26,7 @@ After a transaction, your private information (credit cards, social security num
 
 **Do we use cookies?**
 
-Yes, as part of Google ads. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes, as part of Google ads. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We also use cookies as part of the site's expanding menus. There is no personal information recorded by these cookies, like name or credit card info.
 
 **Do we disclose any information to outside parties?**
 
@@ -50,7 +50,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our [Terms of Service](https://web.archive.org/web/20130910033024id_/http%3A//jegsworks.com/aboutsite/termsofservice.htm) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms of Service](https://web.archive.org/web/20140625112021id_/http%3A//www.jegsworks.com/aboutsite/termsofservice.htm) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your Consent**
 
