@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestateexpress.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101201523id_/http%3A//www.realestateexpress.com/general/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestateexpress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102759id_/http%3A//www.realestateexpress.com/general/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Real Estate Express Real Estate License School
 
@@ -51,6 +51,8 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 We use a credit card processing company to bill users for American School of Real Estate Express, LLC courses. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
 
 Information confirming users’ completion of American School of Real Estate Express, LLC courses is sent to the following states, only for users residing in those states: Alabama, Arizona, Florida, Georgia, Illinois, Iowa, Kansas, Michigan, Missouri, Oklahoma, Tennessee, Virginia and Washington.
+
+In compliance with FERPA regulation 99.3, directory information (name, email address, phone number, registration date) may be shared with Partner Affiliate Members when a student enrolls through a Partner Affiliate’s website or uses a Partner Affiliate promotional code. 
 
 **Business Transitions**  
 In the event American School of Real Estate Express, LLC goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.   
