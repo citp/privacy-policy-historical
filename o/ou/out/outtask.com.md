@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outtask.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513060234id_/https%3A//www.concur.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outtask.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232036id_/https%3A//www.concur.com/en-us/privacy-policy) for the most accurate reproduction.*
 
-# Concur Technologies, Inc. Privacy Policy | Concur
+# Concur Technologies Privacy Policy
 
 **NOTICE OF CHANGES to Concur.com visitors: Concur has made changes to its privacy policy in an effort to better describe how it collects, uses, and shares its information. Please contact us by emailing[concurnews@concur.com](mailto:concurnews@concur.com) with any questions or concerns about these changes.**
 
