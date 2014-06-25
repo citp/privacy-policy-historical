@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apliiq.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114133559id_/http%3A//www.apliiq.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apliiq.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015413id_/http%3A//www.apliiq.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -140,15 +140,3 @@ cs@apliiq.com
 Most of your account information can be changed in the My Account Details in the My Apliiq section of the Apliiq Website. The current version of the Apliiq Privacy Policy was adopted effective as of 8/01/2011. 
 
 ****
-
-created with love in Los Angeles 
-
-* * *
-
-## experience fabric expression
-
-It's one of the basic necessities of life, we need it to stay warm and cover our privates, but it so often goes unnoticed, overlooked in a sea of mass produced trends.
-
-Envision a world where fabric tells a story, where it means something special because you chose it, it's your style, it's unique. Join us in making fabric a platform for creativity and expression, revolutionizing consumption one patch at a time. Own what you wear, and be you.
-
-Use of this web site constitutes acceptance of the [Terms and Conditions](https://web.archive.org/Terms) and [Privacy Policy](https://web.archive.org/Privacy). Copyright © 2009-2012, Apliiq Inc. All rights reserved.
