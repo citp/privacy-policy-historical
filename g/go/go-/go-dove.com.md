@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the go-dove.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013234704id_/http%3A//www.go-dove.com/en/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-dove.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221700id_/http%3A//www.go-dove.com/c/privacy-policy.html) for the most accurate reproduction.*
 
-# GoIndustry DoveBid Privacy Policy - GoIndustry DoveBid
+# Privacy Policy | GoIndustry DoveBid
 
-Liquidity Services, Inc., owner and operator of the website: [www.go-dove.com](http://www.go-dove.com/), a marketplace of Liquidity Services, Inc. (LSI), wants you to know that we take your privacy very seriously. Because we do, we have developed the following privacy policy that states what information we collect, how that information is collected (whether it is by LSI, a subsidiary of LSI, a vendor working for LSI or one of its subsidiaries, or via some other means), for what purposes we collect information, how that information is used, and under what circumstances that information would be released. Additionally, we want you to know when you have a choice regarding the collection or dissemination of any personal information, and how you can exercise your options. This privacy policy will also explain what steps LSI is taking to secure your private information and what steps you should take to safeguard that information. Finally, the privacy policy will tell you how to correct any inaccurate information, and who you can contact regarding questions about our privacy policy.
-
+Liquidity Services, Inc., owner and operator of the website: [**www.go-dove.com**](http://www.go-dove.com/), a marketplace of Liquidity Services, Inc. (LSI), wants you to know that we take your privacy very seriously. Because we do, we have developed the following privacy policy that states what information we collect, how that information is collected (whether it is by LSI, a subsidiary of LSI, a vendor working for LSI or one of its subsidiaries, or via some other means), for what purposes we collect information, how that information is used, and under what circumstances that information would be released. Additionally, we want you to know when you have a choice regarding the collection or dissemination of any personal information, and how you can exercise your options. This privacy policy will also explain what steps LSI is taking to secure your private information and what steps you should take to safeguard that information. Finally, the privacy policy will tell you how to correct any inaccurate information, and who you can contact regarding questions about our privacy policy.  
 We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. LSI is the parent company of GoIndustry Operations Limited and its affiliates (collectively "GoIndustry DoveBid").
 
 ## Consent to Collect Personal Data
@@ -14,62 +13,39 @@ By registering on our website, by participating in an auction or sales event on 
 
 ### Information We Collect from All Persons Who Access Our Website
 
-In general, you can visit our website without giving us any information. If you are one of our anonymous visitors, please bear in mind that we may still collect information about your computer when you click on one of our websites. We log your IP address, browser type, access times, and referring site to help diagnose potential problems with our server, and to administer our websites. Your IP address may be used to gather broad demographic information.
-
-We do this by using cookies but we cannot tell who you are until you register for an account with us. Cookies are text files placed on your computer or mobile device by websites that you visit. They improve your experience of using a website, for example, by remembering your preference settings and by measuring your use of a website to ensure that it meets your needs. Our websites use cookies to make it easier for you to maintain your preferences on our website and to keep track of your user account. We also use cookies to deliver content specific to your interests, to save your username so you don't have to re-enter it each time you visit one of our websites and for other purposes such as measuring usability of our websites. Some cookies that we use are essential to the functioning of our site.
-
+In general, you can visit our website without giving us any information. If you are one of our anonymous visitors, please bear in mind that we may still collect information about your computer when you click on one of our websites. We log your IP address, browser type, access times, and referring site to help diagnose potential problems with our server, and to administer our websites. Your IP address may be used to gather broad demographic information.  
+We do this by using cookies but we cannot tell who you are until you register for an account with us. Cookies are text files placed on your computer or mobile device by websites that you visit. They improve your experience of using a website, for example, by remembering your preference settings and by measuring your use of a website to ensure that it meets your needs. Our websites use cookies to make it easier for you to maintain your preferences on our website and to keep track of your user account. We also use cookies to deliver content specific to your interests, to save your username so you don't have to re-enter it each time you visit one of our websites and for other purposes such as measuring usability of our websites. Some cookies that we use are essential to the functioning of our site.  
 We have reviewed all the cookies we use and have divided them into five categories:
 
-  1. Strictly necessary
-  2. Compliance cookie
-  3. Analytics cookies
-  4. Third party cookies
-  5. Other cookies
+  * Strictly necessary
+  * Compliance cookie
+  * Analytics cookies
+  * Third party cookies
+  * Other cookies
 
 
 
-**Stricly necessary**
-
-These cookies are strictly necessary to enable you to move about the site or to provide certain features you have requested.
-
-**Compliance cookie**
-
-This cookie allows us to know whether or not you have given consent to the use of cookies and therefore do not need to be presented with this consent request message again.
-
-**Analytics cookies**
-
-These cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our site, using a service provided by Google Analytics.
-
-**Third party cookies**
-
-These cookies may be set through our website by other companies providing third party tools that we use to enhance your user experience.
-
-**Other cookies**
-
-These cookies are used to enable features that personalize your experience and help you use the website. AUTH and PID are particularly important to personalize your use on this site.
-
-Additionally, LSI uses several vendor-provided analytical services, which are outlined below.
-
-**Google Analytics**
-
-Google Analytics uses JavaScript and cookies to collect standard website log information and visitor behavior information in an anonymous form. No personally identifiable data is collected. Users can opt out of Google Analytics tracking by installing a browser plugin available here: <https://tools.google.com/dlpage/gaoptout/>
-
-**IBM Coremetrics**
-
-Coremetrics uses JavaScript and cookies to collect standard website log information and visitor behavior information in an anonymous form. This information is then used to evaluate visitors' aggregate use of the website and to compile statistical reports on website activity. No personally identifiable data is collected. Users can opt out of Coremetrics tracking, with instructions available here: [www.coremetrics.com/company/privacy.php#optout](http://www.coremetrics.com/company/privacy.php#optout)
-
-**Eloqua**
-
-Eloqua uses JavaScript and cookies to collect standard website log information and visitor behavior information, plus personal information that the user enters in one of our web forms. The information generated by the cookie about a user's use of the website is transmitted to Eloqua. This information is then used to evaluate visitors' use of the website and to compile statistical reports on website activity. Users can opt out of Eloqua tracking here: [www.eloqua.com/about/privacy/opt_status/](http://www.eloqua.com/about/privacy/opt_status/)
-
-**Compuware Gomez**
-
-Gomez uses JavaScript to collect information about users' interactions on the website in an anonymous form. This information is then used to evaluate the website's performance and related issues. No personally identifiable data is collected.
-
-We may also collect other information such as information you provide through customer surveys, feedback, complaints and correspondence.
-
-The information you provide to us together with information we may collect about your computer using cookies (such as what browser you are using) may be linked on our systems to you.
-
+**Stricly necessary**  
+These cookies are strictly necessary to enable you to move about the site or to provide certain features you have requested.  
+**Compliance cookie**  
+This cookie allows us to know whether or not you have given consent to the use of cookies and therefore do not need to be presented with this consent request message again.  
+**Analytics cookies**  
+These cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our site, using a service provided by Google Analytics.  
+**Third party cookies**  
+These cookies may be set through our website by other companies providing third party tools that we use to enhance your user experience.  
+**Other cookies**  
+These cookies are used to enable features that personalize your experience and help you use the website. AUTH and PID are particularly important to personalize your use on this site.  
+Additionally, LSI uses several vendor-provided analytical services, which are outlined below.  
+**Google Analytics**  
+Google Analytics uses JavaScript and cookies to collect standard website log information and visitor behavior information in an anonymous form. No personally identifiable data is collected. Users can opt out of Google Analytics tracking by installing a browser plugin available here: [**https://tools.google.com/dlpage/gaoptout/**](https://tools.google.com/dlpage/gaoptout/)  
+**IBM Coremetrics**  
+Coremetrics uses JavaScript and cookies to collect standard website log information and visitor behavior information in an anonymous form. This information is then used to evaluate visitors' aggregate use of the website and to compile statistical reports on website activity. No personally identifiable data is collected. Users can opt out of Coremetrics tracking, with instructions available here:[ **www.coremetrics.com/company/privacy.php#optout**](http://www.coremetrics.com/company/privacy.php#optout)  
+**Eloqua**  
+Eloqua uses JavaScript and cookies to collect standard website log information and visitor behavior information, plus personal information that the user enters in one of our web forms. The information generated by the cookie about a user's use of the website is transmitted to Eloqua. This information is then used to evaluate visitors' use of the website and to compile statistical reports on website activity. Users can opt out of Eloqua tracking here: [**www.eloqua.com/about/privacy/opt_status/**](http://www.eloqua.com/about/privacy/opt_status/)  
+**Compuware Gomez**  
+Gomez uses JavaScript to collect information about users' interactions on the website in an anonymous form. This information is then used to evaluate the website's performance and related issues. No personally identifiable data is collected.  
+We may also collect other information such as information you provide through customer surveys, feedback, complaints and correspondence.  
+The information you provide to us together with information we may collect about your computer using cookies (such as what browser you are using) may be linked on our systems to you.  
 Some information is required information and you'll see that indicated by a star (*), but other information is optional and if you don't want to give it to us, you don't need to. We are always grateful for information you do provide though because this helps us to improve our website and services.
 
 ### Information We Collect When You Register for an Account on Our Website
@@ -89,8 +65,7 @@ GoIndustry DoveBid collects some or all of the following personal information fr
 
 
 
-We may request additional information from you after registration, in connection with specific transactions you have initiated with us. When you register for an account on our website, you are prompted to provide the above-referenced data via a secure web form. All information is securely stored and can only be accessed by personnel via a username and password. On some of our websites, it is not required that you register for an account. On those websites, information may be collected via a web form, or a link to an email address, which allows you to communicate with that marketplace.
-
+We may request additional information from you after registration, in connection with specific transactions you have initiated with us. When you register for an account on our website, you are prompted to provide the above-referenced data via a secure web form. All information is securely stored and can only be accessed by personnel via a username and password. On some of our websites, it is not required that you register for an account. On those websites, information may be collected via a web form, or a link to an email address, which allows you to communicate with that marketplace.  
 This information is used for purposes of determining your eligibility to establish an account and contacting you regarding your account with us. We will also send you information regarding upcoming sales events, unique property offerings, and special announcements. If you choose, we will include information about specific property offerings that you designate when you register for an account with us. You may unsubscribe from any marketing emails that we send you at any time by clicking on the unsubscribe link at the bottom of the email.
 
 ### Information We Collect When you Place a Bid on Our Website
@@ -99,7 +74,7 @@ When you place a bid for a lot, or are the successful high bidder, GoIndustry Do
 
   * Your name as it appears on your credit card
   * Your valid credit card number or other account information
-  * The method of payment (Visa™, MasterCard™, American Express™, PayPal™, Discover™, or wire transfer)
+  * The method of payment (Visa, MasterCard, American Express, PayPal, Discover, or wire transfer)
   * The expiration date of the credit card
   * The billing address of the cardholder as it appears on your statement
   * The Card Security Code (located on the back of the card within the signature block)
@@ -110,7 +85,7 @@ This information is used for bidding authorization and billing purposes. We only
 
 ## Notice to California Residents
 
-Pursuant to California Civil Code §§ 1798.80-1798.85 and California Business and Professions Code §§ 22575 – 22579, California residents are entitled to the following rights pertaining to the protection of their personal information. Residents have the right to reasonable security of their personal information by LSI, and to destruction of any personal information that is no longer to be retained by the company via shredding, erasing or otherwise modifying the personal information contained in the records so as to make them indecipherable. Residents have a right to expect that a business that discloses personal information about a California resident pursuant to a contract with a nonaffiliated third party shall require by contract that the third party implement and maintain reasonable security procedures and practices appropriate to the nature of the information, to protect the personal information from unauthorized access, destruction, use, modification, or disclosure. Residents have a right to timely notification by LSI if we become aware of an unauthorized disclosure or acquisition of your personal information. Residents have the right to be informed by LSI's customer relations staff of how they can inquire about our privacy practices or compliance with the above-referenced California laws. Residents have the right to be provided contact information for inquiring about the company's privacy practices at every location in California where LSI does business. Residents have a right to a response to any inquiry regarding our privacy practices or compliance with California law within 30 days of receipt of the inquiry by LSI. LSI may not request that you waive any of your rights under the above-referenced California laws.
+Pursuant to California Civil Code §§ 1798.80-1798.85 and California Business and Professions Code §§ 22575  22579, California residents are entitled to the following rights pertaining to the protection of their personal information. Residents have the right to reasonable security of their personal information by LSI, and to destruction of any personal information that is no longer to be retained by the company via shredding, erasing or otherwise modifying the personal information contained in the records so as to make them indecipherable. Residents have a right to expect that a business that discloses personal information about a California resident pursuant to a contract with a nonaffiliated third party shall require by contract that the third party implement and maintain reasonable security procedures and practices appropriate to the nature of the information, to protect the personal information from unauthorized access, destruction, use, modification, or disclosure. Residents have a right to timely notification by LSI if we become aware of an unauthorized disclosure or acquisition of your personal information. Residents have the right to be informed by LSI's customer relations staff of how they can inquire about our privacy practices or compliance with the above-referenced California laws. Residents have the right to be provided contact information for inquiring about the company's privacy practices at every location in California where LSI does business. Residents have a right to a response to any inquiry regarding our privacy practices or compliance with California law within 30 days of receipt of the inquiry by LSI. LSI may not request that you waive any of your rights under the above-referenced California laws.
 
 ## How does LSI collect information about you?
 
@@ -122,10 +97,8 @@ GoIndustry DoveBid collects personal information either for the purposes of esta
 
 ## How do we use the information we collect?
 
-Information collected by GoIndustry DoveBid is used to communicate with you when we transact business. Whether it is to notify you that you have been awarded a lot, or to notify you that you have been outbid on an item, or to contact you regarding payment, we use the information provided by you to facilitate the transactions you wish to consummate with us. We do not sell customer information to third parties. GoIndustry DoveBid verifies your personal information against a third-party vendor database, to which we provide some of your personal information for purposes of identity verification and purchase authorization. The identity verification and purchase authorization processes are automated with some manual overrides. We also run information provided by you during account registration against private databases such as LexisNexis, and against watch lists maintained by various Governmentswww.epls.govwww.epls.gov. www.govliquidation.comwww.govliquidation.comWe will not release your personal information to any third party without your consent, unless we are required to by law, or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with an official investigation by a law enforcement organization.
-
-LSI may provide transaction-related information to Government or private auditors for the purpose of inspecting or validating our business practices, accounting records or financial reports. Any release of information for such a purpose will be done under standard confidentiality restrictions.
-
+Information collected by GoIndustry DoveBid is used to communicate with you when we transact business. Whether it is to notify you that you have been awarded a lot, or to notify you that you have been outbid on an item, or to contact you regarding payment, we use the information provided by you to facilitate the transactions you wish to consummate with us. We do not sell customer information to third parties. GoIndustry DoveBid verifies your personal information against a third-party vendor database, to which we provide some of your personal information for purposes of identity verification and purchase authorization. The identity verification and purchase authorization processes are automated with some manual overrides. We also run information provided by you during account registration against private databases such as LexisNexis, and against watch lists maintained by various Governmentswww.epls.govwww.epls.gov. www.govliquidation.comwww.govliquidation.comWe will not release your personal information to any third party without your consent, unless we are required to by law, or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with an official investigation by a law enforcement organization.  
+LSI may provide transaction-related information to Government or private auditors for the purpose of inspecting or validating our business practices, accounting records or financial reports. Any release of information for such a purpose will be done under standard confidentiality restrictions.  
 Before we alter the reason for using any personal information you have provided to us, we will notify you of our intended change in use of that information and obtain your consent prior to using your personal information in a new way.
 
 ## Choice/Opt-In/Deletion
@@ -150,11 +123,9 @@ Never send credit card information via e-mail. Do not release information about 
 
 ## How can I contact LSI about my personal information?
 
-If you believe that your personal information has been improperly released by LSI to a third party or if you have any questions about how LSI collects, stores, uses or destroys your personal information, you may contact us at the email address, telephone number, fax number or mailing address listed below. When contacting us about your personal information, please do not include your account password, credit card number, date of birth, driver license number, or social security number in any email to us.
-
-You can always change personal information such as your address, email address, phone or fax number through the Account Settings section of My Account on the web site. Credit card information can be changed at any time through the My Credit Cards section of My Account on the web site. If you experience difficulty in correcting personal information or have any questions regarding our privacy policy, please contact one of our customer service center at the contact information listed on the website, or reach us by mail at Privacy Officer, Liquidity Services, Inc., 1920 L Street, NW, Sixth Floor, Washington, DC 20036.
-
-If you wish to file a complaint about LSI's collection, use, disclosure or protection of your personal information or if you have specific questions about LSI's policies or practices with respect to collection, retention, use or disclosure of personal information please contact LSI's Privacy Officer at [privacy@liquidityservicesinc.com](mailto:privacy@liquidityservicesinc.com).
+If you believe that your personal information has been improperly released by LSI to a third party or if you have any questions about how LSI collects, stores, uses or destroys your personal information, you may contact us at the email address, telephone number, fax number or mailing address listed below. When contacting us about your personal information, please do not include your account password, credit card number, date of birth, driver license number, or social security number in any email to us.  
+You can always change personal information such as your address, email address, phone or fax number through the Account Settings section of My Account on the web site. Credit card information can be changed at any time through the My Credit Cards section of My Account on the web site. If you experience difficulty in correcting personal information or have any questions regarding our privacy policy, please contact one of our customer service center at the contact information listed on the website, or reach us by mail at Privacy Officer, Liquidity Services, Inc., 1920 L Street, NW, Sixth Floor, Washington, DC 20036.  
+If you wish to file a complaint about LSI's collection, use, disclosure or protection of your personal information or if you have specific questions about LSI's policies or practices with respect to collection, retention, use or disclosure of personal information please contact LSI's Privacy Officer at [**privacy@liquidityservicesinc.com**](mailto:privacy@liquidityservicesinc.com).
 
 **Liquidity Services, Inc.**  
 1920 L Street, NW, Sixth Floor, Washington, DC 20036  
