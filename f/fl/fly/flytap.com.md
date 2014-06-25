@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flytap.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505024950id_/http%3A//www.flytap.com/us/enus/Others/Footer/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flytap.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625155625id_/http%3A//www.flytap.com/USA/enus/others/footer/privacy) for the most accurate reproduction.*
 
-# TAP PORTUGAL | TAP Portugal
+# Privacy | TAP Portugal
 
 ## **Safety Conditions**
 
@@ -16,9 +16,9 @@ TAP will collect all possible information concerning its clients, with he aim of
 
 TAP will assure the best possible customer relation, and for that purpose will follow the principles of data protection.
 
-Our customer's personal data will not be made available to a third party, and will only be used, with the authorisation of the client, in marketing campaigns or newsletters.
+Our customer's personal data **will not be made available to a third party** ; TAP may use such data from time to time to provide our customers with offers, promotions and news through TAP marketing campaigns or newsletters.
 
-Should the client wish not to receive more marketing information, he/she will notify TAP accordingly.
+If such marketing information is sent by email, customers will be provided with a means to opt out from receiving future emails with marketing information.
 
 Your navigation on this site will be monitored for statistical purposes.
 
@@ -29,6 +29,3 @@ Cookies are small information files placed in your PC, thus allowing Web Sites t
 These files are also used to prevent that you have to repeat your personal data and password every time you use TAP Services.
 
 The user is entitled to configure his browser to inform him every time a cookie is received, or even to deactivate its acceptance. However, TAP alerts that this will prevent the use of some of our services.
-
-  
-
