@@ -1,100 +1,125 @@
-> *The following text is extracted and transformed from the loopster.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopster.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085938id_/http%3A//www.loopster.com/pages/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Loopster.com - Free Online Video Editor
 
-**Go Daddy Respects Your Privacy**
+Loopster, Inc. ("Loopster," "we," "our" or "us") is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy ("Privacy Policy") describes the information we collect and how we use it. By using this website, you consent to our Privacy Policy.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+We may periodically update this Privacy Policy to reflect material changes in how we collect, use, share or store your personal information. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current Privacy Policy. You consent to any changes we make to this Privacy Policy if you continue to use the Loopster service after receiving a notice of the change or upon our posting of the new Privacy Policy on this website.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## COLLECTING INFORMATION
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Like many websites, we gather information about how visitors use our website. In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track your visit for trends and statistics, but you will remain anonymous unless you tell us who you are. Once you choose to give us your personal information, you are not anonymous to us. For more information, see the "Navigation" section of this Privacy Policy below.
 
-**Information Collection and Use**
+We request information from you (which may include your name, address, telephone number, email address, gender and, when necessary, credit card information) when you:
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+  * Register or set up an account
+  * Purchase a subscription
+  * Request to receive communications
+  * Participate in a promotion or other website feature
+  * Participate in online discussions
+  * Modify your account or profile
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+In order to better understand your preferences and better serve you, we may combine information you give us online with other information from Loopster sources, transactions and communications. This may include data from Loopster direct mail, events, or online marketing. We may also combine that information with data that is publicly available and data that we receive from other reputable sources. This data may include postal address updates and demographic data. All data combined and stored with online data is protected by this Privacy Policy.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+To provide you with certain social features, we may collect information about you, your contacts, or friends from third party websites that provide access to this information, such as Facebook, YouTube, LinkedIn, Twitter, or email services. We respect and follow the privacy policies of those third party services with regard to the data we collect from them.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+To comply with the Children's Online Privacy Protection Act, we will never knowingly or intentionally collect any personal information about children under the age of 13. If we obtain actual knowledge that we have collected personal information about a child under the age of 13, we will immediately delete that information. Because we do not knowingly or intentionally collect personal information about children under the age of 13, to the best of our knowledge and belief, we have no such information to use or to disclose to a third party.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+## USING INFORMATION
 
-**Security**
+We may use the information we collect to:
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  * Customize and/or personalize your communications and user experience
+  * Better respond to your customer service inquiries
+  * Communicate with you about your purchase, account information, or customer service needs
+  * Communicate with you about our products/services, events, and for other promotional purposes
+  * Display targeted advertising, announcements, sponsorships or other messages
+  * Improve our business
+  * Administer competitions, contests, promotions, surveys or other website features
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We will not use your personal information to advertise or communicate promotional offers, directly or indirectly, using direct mail marketing or telemarketing, unless you give us permission to do so.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We may extend any of our rights under this Privacy Policy to third parties performing services on our behalf.
 
-      iii.      You may call us at: (480) 505-8800
+## SHARING INFORMATION
 
-       iv.      You may fax us at: (480) 505-8844
+We may enable other users of our site and third parties to view or receive information from your profile, subject to your permission to share this information. These third-parties may include social networking providers such as Facebook, Linked-In, Twitter, MySpace and YouTube, as well as individual subscribers to these third-party services. With your permission, we may publish or distribute selected information about you, such as your recommendations, interests and other data or content of possible interest to other users of our site and third parties.
 
-**Sending Emails**
+For the purpose of operating our business, we may transfer information between Loopster and our preferred service providers who use that information only to conduct Loopster business. For example, they may handle our credit card processing, shipping, data management, email distribution, market research, information analysis, and promotions management. We provide our preferred service providers with the information they need to perform their services and work with them to respect and protect your information.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+From time to time we might establish a business relationship with carefully selected persons or companies whom we believe trustworthy. In such cases we might share and cross-reference information, including personally identifiable information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you. If you prefer that we do not share any information with these companies, please email Loopster at [support@loopster.com](mailto:support@loopster.com) to update your privacy settings.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We may provide your information to our wholly-owned companies and affiliates, which may be outside the United States. We may also sell or transfer your personal information to third parties in connection with any merger, acquisition, reorganization, change in capital structure or sale of all or substantially all of the assets of Loopster.
 
-**Compliance with Laws and Law Enforcement**
+We may provide information to other companies for purposes such as reporting and marketing. We may sell or transfer non-individualized information to third parties, including summary or aggregated anonymous information about all or sub-groups of users of our site.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others' rights, property, or safety. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
 
-**Third Party Service Providers**
+## PROTECTING YOUR INFORMATION
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+We use a variety of security measures, including sophisticated encryption and authentication tools to maintain the safety of your personal information. Your personal information is contained behind secure networks and is only accessible to a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All credit card information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be accessed only as stated above. We will use the information for purposes of processing and completing only those transactions you approve, and the information will be disclosed to third parties only as necessary to complete a specific transaction. Regardless of these efforts, no data transmission over the Internet can be guaranteed to be 100% secure. Our site may contain hypertext links to the websites of one or more third parties. We are not responsible for the privacy practices or the content of these other websites.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Advertising agencies, advertising networks, and other companies who may place advertisements on our site may use their own cookies, pixel tags, web beacons, web bugs and other technology to collect information about you. We do not control these companies' use of such technology and we have no responsibility for the use of such technology by these companies to gather information about you.
 
-**Supplementation of Information**
+## NAVIGATION
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Like other interactive websites, we collect information about your use of our site and our services using cookies, log files, and techniques used to track who is reading a web page or e- mail, when, and from what computer, such as web bugs, web beacons or pixel tags.
 
-**Contests/Surveys**
+A cookie is a small removable data file that is stored by your web browser on your computer.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Cookies allow you to order a subscription to our products and services on our website and allow us to enhance and personalize your online browsing and shopping experience.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+For example, we use cookies to:
 
-**Tell-A-Friend**
+  * Recognize you when you return to our website
+  * Analyze visitor behavior
+  * Store session data
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**What Happens to my Personal Information if I Opt Out?**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser (i.e. Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings.
 
-**Transfer of Data Abroad**
+Pixel tags, also known as web beacons or web bugs, are tiny graphic images (referred to here as "GI") that are unobtrusively placed on a website or in an e-mail. When the HTML code for the GI points to a site to retrieve the image, it simultaneously passes information to our servers, such as the IP address of the computer that retrieved the image, the time and duration the GI was viewed, the type of browser that retrieved the image, and previously set cookie values.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+We use GI to help us analyze your online behavior. We may use GI to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring web site addresses. We also use GI to allow us to send you email in a format you can read and to let us know when you have opened an email message from us.
 
-**Changes in Our Practices**
+We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect non-personally identifiable information about your visits to our website and your interaction with our communications, including advertising. If you would like to opt-out of allowing third party companies to collect non-personally identifiable information about you during your visits to our site, please email Loopster at [support@loopster.com](mailto:support@loopster.com) to update your privacy settings.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+## HOW TO REVIEW, MODIFY OR DELETE YOUR INFORMATION
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us or would like to update or change your personal information or preferences, follow the instructions below to review, modify or delete your personal information.
 
-**Contacting Our Site**
+To modify the information you have provided during registration, please login and update your personal settings.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+To unsubscribe from an email, please follow the instructions in any email you receive.
 
-* * *
+If you request your registration information be deleted or if you unsubscribe from communications, we may maintain information about sales transactions or service inquiries for future service and record keeping purposes.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+## QUESTIONS AND FEEDBACK
+
+We welcome your questions, comments, and concerns about privacy. Please contact us by mail or email at:
+
+Loopster, Inc.  
+Attn: Privacy Policy  
+P.O. Box 1536  
+Grand Junction, CO. 81502  
+[suggestions@loopster.com](mailto:suggestions@loopster.com)
+
+## COMPLAINTS
+
+If you have a data privacy complaint, please contact us by mail or email at:
+
+Loopster, Inc.  
+Attn: Privacy Policy  
+P.O. Box 1536  
+Grand Junction, CO. 81502  
+[suggestions@loopster.com](mailto:suggestions@loopster.com)  
+
+
+## TERMS OF USE
+
+Please also visit our [Terms of Use](https://web.archive.org/pages/terms) that explain other terms governing the use of our site.
