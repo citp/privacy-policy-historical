@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sharetv.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920000120id_/http%3A//sharetv.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharetv.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075559id_/http%3A//sharetv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ShareTV
 
-We respect your privacy and are committed to safeguarding it while online at our site **ShareTV.org**. The following discloses the information gathering and dissemination practices for this Web site. 
+We respect your privacy and are committed to safeguarding it while online at our site **ShareTV**. The following discloses the information gathering and dissemination practices for this Web site. 
 
 **Log Files**  
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
@@ -20,7 +20,7 @@ We use outside ad companies to display ads on our site. These ads may contain co
 Google uses what's called the DART cookie, which enables it to serve ads to you based on your visits on this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: admin@sharetv.org 
+If users have any questions or suggestions regarding our privacy policy, please contact us at: admin@sharetv.com
 
   
 
