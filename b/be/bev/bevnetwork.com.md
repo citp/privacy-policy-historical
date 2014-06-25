@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bevnetwork.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217130356id_/http%3A//www.beveragemedia.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bevnetwork.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626003754id_/http%3A//www.beveragemedia.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy Beverage Media Group
 
