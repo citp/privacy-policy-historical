@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the beemp3.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729172211id_/http%3A//beemp3.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beemp3.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104007id_/http%3A//beemp3s.org/privacy.html) for the most accurate reproduction.*
 
-# Beemp3.com - MP3 Download - Privacy Policy
+# Beemp3s.org - MP3 Download - Privacy Policy
 
 ## Privacy Policy
 
 Updated November 23, 2011 
 
-Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of beemp3.com (the "Website"), including information you provide when using it. 
+Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of beemp3s.org (the "Website"), including information you provide when using it. 
 
 We expressly and strictly limit use of the Website to individuals over thirteen (13) years of age. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age. 
 
