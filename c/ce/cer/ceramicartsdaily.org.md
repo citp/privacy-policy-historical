@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceramicartsdaily.org privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210133432id_/http%3A//ceramicartsdaily.org/account/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceramicartsdaily.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072755id_/http%3A//ceramicartsdaily.org/account/privacy-policy) for the most accurate reproduction.*
 
 # Ceramic Arts Daily – Privacy Policy
 
