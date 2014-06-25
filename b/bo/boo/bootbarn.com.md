@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootbarn.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019021059id_/http%3A//www.bootbarn.com/privacy_policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootbarn.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165250id_/http%3A//www.bootbarn.com/privacy_policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # BootBarn - BootBarn.com Privacy Policy
 
@@ -53,4 +53,4 @@ Boot Barn® does not sell products for purchase by children. We sell children's 
 
 ###### Updates 
 
-Boot Barn may find it necessary to update this privacy policy from time to time. When we do, we will post the revised Policy and the date of the last revision on our website so the consumer is aware of the changes. 
+Boot Barn® may find it necessary to update this privacy policy from time to time. When we do, we will post the revised Policy and the date of the last revision on our website so the consumer is aware of the changes. 
