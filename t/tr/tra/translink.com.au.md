@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824185302id_/http%3A//translink.com.au/site-information/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053002id_/http%3A//translink.com.au/site-information/legal/privacy) for the most accurate reproduction.*
 
-# Privacy | TransLink
+# Privacy | translink.com.au
 
 The Department of Transport and Main Roads is committed to protecting your personal information. Our objective is to protect the privacy, accuracy and security of your personal information in accordance with the _Information Privacy Act 2009 (Qld)_.
 
@@ -139,7 +139,7 @@ National Relay Service:
 
   * TTY (teletypewriter): 13 36 77
   * Speak and Listen (speech-to-speech relay): phone 1300 555 727
-  * Internet relay: connect to the [National Relay Service](http://www.iprelay.com.au/call/index.aspx "National Relay Service \(opens in a new window\)")
+  * Internet relay: connect to the [National Relay Service](http://www.iprelay.com.au/call/index.aspx)
 
 
 
