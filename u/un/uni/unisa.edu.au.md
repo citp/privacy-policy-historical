@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208145212id_/http%3A//www.unisa.edu.au/About-UniSA/Governance-and-management-structure/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075819id_/http%3A//unisa.edu.au/About-UniSA/Governance-and-management-structure/Privacy) for the most accurate reproduction.*
 
-# Privacy - University of South Australia - quality university study and education in Australia
+# Privacy - About UniSA - University of South Australia
 
 The University of South Australia respects the privacy of your personal information by adhering to privacy laws. This page outlines how the University manages information collected through the use of its website. This information does not extend to external websites linked from the University website.
 
@@ -39,4 +39,4 @@ The network which hosts this facility has sophisticated security and publishing 
 
 ### Internal users of the UniSA computer environment
 
-The University has an onus to ensure that unacceptable behaviour does not occur on the computer systems and the policy [relating to privacy on the University's IT network](http://www.unisa.edu.au/ists/Governanceinit/Policies/pppg/protocols.asp) formalises this commitment.
+The University has an onus to ensure that unacceptable behaviour does not occur on the computer systems and the policy [relating to privacy on the University's IT network](http://w3.unisa.edu.au/policies/policies/corporate/c22.asp) formalises this commitment.
