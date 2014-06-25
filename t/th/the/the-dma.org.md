@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-dma.org privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106112500id_/http%3A//thedma.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-dma.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625155424id_/http%3A//thedma.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Direct Marketing Association
 
@@ -91,9 +91,9 @@ Attention: Privacy Policy Compliance
 1615 L Street NW, Suite 1100  
 Washington, DC 20036  
 [ethics@the-dma.org](mailto:ethics@the-dma.org)  
-Fax: (202) 955-0085
+Fax: (202) 955-0085 
 
- **DMA’s Online Privacy Policy for Consumers**
+**DMA’s Online Privacy Policy for Consumers**
 
 **DMA Headquarters**  
 Direct Marketing Association, Inc.  
@@ -137,7 +137,7 @@ We use industry-standard encryption technologies when transferring and receiving
 
   * Accountability 
 
-If you feel that DMAchoice, or any website, is not living up to its stated information policy, you may contact the DMA’s Department of Corporate Responsibility by email at [ethics@the-dma.org](mailto://ethics@the-dma.org "ethics@the-dma.org").
+If you feel that DMAchoice, or any website, is not living up to its stated information policy, you may contact the DMA’s Department of Corporate Responsibility by email at [ethics@the-dma.org](mailto://ethics@the-dma.org "ethics@the-dma.org")
 
 
 
