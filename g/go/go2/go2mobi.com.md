@@ -1,100 +1,34 @@
-> *The following text is extracted and transformed from the go2mobi.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go2mobi.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625181917id_/http%3A//go2mobi.com/privacy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# Go2mobi - Mobile Advertising | Mobile RTB - RTB Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+### RTB Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Go2mobi is a dedicated Mobile Demand Side Platform (DSP). We help agencies and advertisers to plan, execute, evaluate and optimize their mobile advertising campaigns via our platform (the ‘Platform’). This Privacy Policy is intended to provide you with information on our privacy and data protection policies as they pertain to our Platform, and website, located at www.go2mobi.com, (our ‘Website’).
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+If you are looking for the privacy policy for the ads you may have seen on another website or smartphone application you can view the privacy policy for the Go2mobi RTB [here](http://go2mobi.com/privacyrtb.php).
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
-
-**Information Collection and Use**
-
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
-
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
-
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
-
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
-
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
-
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
-
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
-
-**Security**
-
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+What types of data do we collect via the Platform?  
+We don’t collect Personally Identifiable Information via the Platform. PII is information that may be used to identify you personally. We collect Non-Personally Identifiable Information (‘Non-PII’) via the Platform. Non-PII is information that can’t be used by Go2mobi to uniquely identify you. The Non-PII we collect includes but is not limited to the date and time of your mobile browsing and mobile app usage activity, mobile apps used, the pages viewed, browser type, general location such as zip code, your mobile carrier, network connection type (e.g., 3G vs 4G), your device identification number (e.g., UDID, mac address), device type, make and model. We also may obtain demographic data (e.g., age range, gender and estimated purchasing power) to enhance the capabilities of the Platform. In certain cases, we may obtain the precise location of your device and we take reasonable precautions to ensure that your permission is obtained for the use of such information.  
+Go2mobi uses cookies (on mobile devices where they are enabled) and similar technologies to help store a Go2mobi ID and other Non-PII and to help us record user expressed privacy choices. We do not use zombie cookies or other mechanisms that may circumvent your privacy choices.  
+How do we use the data collected via the Platform?  
+We use the information collected via the Platform to help make our clients’ advertising messages, more relevant and interesting to you and more effective for our clients. This helps pay for free websites and apps out there, many of which would not be able to operate without the ad revenues. In some instances, we combine this information with other Non-PII obtained from third parties in order to enhance the features of our Platform. We share the aggregated, non-individual specific, data we hold with clients, publishers (mobile sites and apps) and other third-parties for ad delivery, reporting, accounting and other legitimate business purposes. In these cases we work with organizations we believe to have appropriate safeguards in place to protect data at the levels we require.  
+In situations where we are obligated by law, we may also disclose information in order to investigate, prevent or take action regarding suspected or actual prohibited activities, included but not limited to, fraud and situations involving potential threats to the physical safety of any person. Go2mobi may disclose your information when obligated to do so by law and in order to investigate, prevent, or take action regarding suspected, or actual prohibited activities, including but not limited to fraud and situations involving potential threats to the physical safety of any person. We reserve the right to disclose aggregated, non-personally identifiable information collected to third parties for any purpose.  
+Finally, Go2mobi may transfer information, including any personally identifiable information, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. If Go2mobi is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via a prominent notice on our Website of any change in ownership or uses of your PII, as well as any choices you may have regarding your PII.  
+What are my opt-out choices?  
+If you’d like to opt out from having Go2mobi collect your information for ad targeting via our Platform, please [click here](http://www.go2mobi.com/terms.php). When you opt out, Go2mobi will note your device ID as having opt-ed out in the database on our servers. Once flagged as having opted out, Go2mobi removes the Non-PII attached to your device ID from our database, and will no longer target ads to your interests. We record your opt-out choice via cookies or HTML5 depending on the operating system of your device. Please note that if you delete, block, or otherwise restrict cookies or HTML5, or if you use a mobile device or browser, you will need to renew your opt-out choice.  
+Go2mobi recognizes the importance of providing notice in as many different places as possible to help ensure that consumers understand their privacy choices. Thus, we are experimenting with providing an enhanced notice; located on many of the advertisements that we serve via the Platform.  
+How long do you retain information collected via the Platform?  
+Go2mobi generally retains information on the Platform no longer than six months. However, our retention policy is geared to the level of sensitivity of the data collected. For example, to the extent we obtain precise location information, we only store that information for up to 30 days, and then roll that data up into non-precise segments (e.g., postal code, or metro area) and stored for up to six months. Mobile identifiers are stored for up to six months, after which it is irrecoverable deleted. Whilst stored, the UDID is encoded using either MD5 or SHA1 algorithms, which makes it impossible for us to find the real and original UDID. We may store de-identified data for up to two years, and aggregate data for up to five years.  
+What types of data do we collect via the Website and how is it used?  
+The Website is directed primarily to businesses. We generally collect PII such as name, postal address, email address and phone number when it is provided to us. Where we receive requests for information, direct emails or other communications, we will generally use such information to address your specific question or facilitate your specific request. We also collect Non-PII such as your IP address and browser type to help us properly administer the Website.  
+Do you collect information about children?  
+Our Website and Platform are not directed at or developed for persons under the age of 18. Go2mobi does not knowingly collect personally identifiable information from anyone under the age of 13. If the company is made aware that it has received personally identifiable information from someone under 13, it will use reasonable efforts to remove that information from its records.  
+What are your data security policies?  
+Go2mobi has security measures in place to protect the loss, misuse and alteration of the information under our control. All the data we hold is protected by multiple layers of physical, electronic and administrative safeguards, to secure it against accidental, unauthorized or unlawful access, use, modification, disclosure, loss or destruction. No method of transmission over the mobile web or method of electronic storage is 100% secure; therefore, while Go2mobi strives to use commercially acceptable means to protect your information, we cannot guarantee absolute security.  
+How are changes to your privacy practices communicated?  
+This privacy policy is subject to change. If Go2mobi plans to make any substantive changes in the way we use the personally identifiable information under our control, we will post a clear and conspicuous notice on the website and in this privacy policy prior to the changes being made – and as appropriate, we will also let you know about the choices available to you regarding such changes here.  
+Need further information?  
+If you have any questions about this Policy or our privacy practices, please email or mail us:  
+email: info@go2mobi.com  
+address: Go2mobi Inc. 5-774 Bay St, Victoria, BC, Canada, V8T5E4
