@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moevenpick-hotels.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030101459id_/http%3A//www.moevenpick-hotels.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moevenpick-hotels.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625223245id_/http%3A//www.moevenpick-hotels.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,4 +52,4 @@ Children and adolescents with limited legal capacity are as a matter of principl
 
 ### Right to Information / Public Procedure Directory
 
-You have the right at any time to inquire about the personal data stored, their provenance, and recipients thereof, as well as the scope and purpose of the data processing. Furthermore, you can request that incorrect data concerning your person will be corrected. If you wish to obtain information about the stored data, or have questions regarding this privacy policy, please contact us via our website or write to our contact person for this data policy directly:  Mövenpick Hotels & Resorts, Heiko Siebert, VP Distribution, Flughofstrasse 61, 8152 Glattbrugg, Switzerland.
+You have the right at any time to inquire about the personal data stored, their provenance, and recipients thereof, as well as the scope and purpose of the data processing. Furthermore, you can request that incorrect data concerning your person will be corrected. If you wish to obtain information about the stored data, or have questions regarding this privacy policy, please contact us via our website or write to our contact person for this data policy directly:  Mövenpick Hotels & Resorts, Paul Mulcahy, VP Distribution and Revenue Management, Flughofstrasse 61, 8152 Glattbrugg, Switzerland.
