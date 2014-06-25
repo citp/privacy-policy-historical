@@ -1,22 +1,24 @@
-<!--The following is the downloaded HTML source of the ninjakiwi.com privacy policy that was archived on 2013-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206120956id_/http%3A//ninjakiwi.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ninjakiwi.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625040236id_/http%3A//ninjakiwi.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html><html><head>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"58db2ecb99","applicationID":"1555067","transactionName":"Ig5WEUdeXg0DS0pEXBUEFxVHWEQABUA6R1oNCFsc","queueTime":0,"applicationTime":44,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw4CUFJACQYFUVFUAA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
   <title>Ninja Kiwi</title>
   
   <link rel="shortcut icon" href="/favicon.ico?v=2">
-  <link href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|Nobile:400,400italic,700,700italic" rel="stylesheet" type="text/css">
-  <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+  <link href="//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|Nobile:400,400italic,700,700italic" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="//apis.google.com/js/plusone.js"></script>
   <!-- BEGIN TRIGGER TAG INITIALIZATION -->
-  <script type="text/javascript" src="http://cdn.triggertag.gorillanation.com/js/triggertag.js"></script>
+  <script type="text/javascript" src="//cdn.triggertag.gorillanation.com/js/triggertag.js"></script>
   <script type="text/javascript">getTrigger('4892');</script>
   <!-- END TRIGGER TAG INITIALIZATION -->
 
-  <link href="/assets/application-798323e6ba7cca8d6d757eb948faddad.css" media="screen" rel="stylesheet" type="text/css">
-  <link href="/style/lightbox.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="//assets.ninjakiwi.com/assets/application-ea1e5c6b72472bd580ae1912b1ebe18a.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="http://assets.ninjakiwi.com/website/style/lightbox.css?v=12062014-2" rel="stylesheet" type="text/css">
   
   <script src="//connect.facebook.net/en_US/all.js"></script>
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
   <!-- BEGIN PINGDOM TRACKING -->
     <script>
       var _prum = [['id', '517ebf4dabe53d2715000000'],
@@ -67,74 +69,79 @@ googletag.enableServices();
 </script>
 
   
-    <script src="/assets/application-dd13d9f114f8c87318c24e4cb6993f2a.js" type="text/javascript"></script>
+    <script src="//assets.ninjakiwi.com/assets/application-8fab9d6cd8a586aa7c6daf61a3837536.js" type="text/javascript"></script>
   
   <meta content="authenticity_token" name="csrf-param">
-<meta content="8IIVQ4gbg2onhntA1urCrvalZxleYR6iMXneGWG3BnI=" name="csrf-token">
+<meta content="SUfEATgoE5ZVXOboclFKNFCgovw3u4jFVVFoiVr0xlY=" name="csrf-token">
 </head>
   <body id="-page" data-user="" class="-area">
     <div class="header-bar">
       <div class="wrap">
         <div id="header">
           <div id="nav">
-            <a id="logo" href="http://ninjakiwi.com/"><img alt="Nk-logo" src="/logos/nk-logo.png"></a>
+            <a id="logo" href="http://ninjakiwi.com/"><img alt="Nk-logo" src="//assets.ninjakiwi.com/website/logos/nk-logo.png"></a>
             <ul>
               <li class="home-pg"><a href="http://ninjakiwi.com/">Home</a></li>
-                <li class="games-pg">
-                    <a href="/all-games">Games</a>
-                    <div class="dropdown2col">
-                      <div class="popularGamesNav">
-                        <h3>Most Popular Games</h3>
+                  <li class="games-pg">
+                      <a href="/all-games">Games</a>
+                      <div class="dropdown2col">
+                        <div class="popularGamesNav">
+                          <h3>Most Popular Games</h3>
+                          <ul>
+                              <li>
+                                <a href="/Games/Tower-Defense/Bloons-Tower-Defense-5.html">
+                                  <img alt="Ninja-kiwi-110x74-update-skullpeak" src="http://cdn.ninjakiwi.com/thumbs/medium/Ninja-Kiwi-110x74-Update-SkullPeak.jpg">
+</a>                              </li>
+                              <li>
+                                <a href="/Games/Arcade/Bloons-Super-Monkey-2.html">
+                                  <img alt="Bsm2-110x74-leaderboard-icon" src="http://cdn.ninjakiwi.com/thumbs/medium/BSM2-110x74-Leaderboard-Icon.jpg">
+</a>                              </li>
+                              <li>
+                                <a href="/Games/Tower-Defense/Bloons-TD-Battles.html">
+                                  <img alt="Battlesnk-110x74-icon-newtrack2" src="http://cdn.ninjakiwi.com/thumbs/medium/BattlesNK-110x74-Icon-NewTrack2.jpg">
+</a>                              </li>
+                          </ul>
+                        </div>
+                        <div class="categoryLists">
+                        <h3>Categories</h3>
                         <ul>
-                            <li>
-                              <a href="/Games/Tower-Defense/Bloons-Tower-Defense-5.html">
-                                <img alt="Ninja-kiwi-xmas110x74-icon" src="http://cdn.ninjakiwi.com/thumbs/medium/Ninja-Kiwi-Xmas110x74-Icon.png">
-</a>                            </li>
-                            <li>
-                              <a href="/Games/Arcade/Bloons-Super-Monkey-2.html">
-                                <img alt="Bsm2-110x74-leaderboard-icon" src="http://ninjakiwi-cdn.s3.amazonaws.com/thumbs/medium/BSM2-110x74-Leaderboard-Icon.jpg">
-</a>                            </li>
-                            <li>
-                              <a href="/Games/Tower-Defense/Bloons-TD-Battles.html">
-                                <img alt="Battlesnk-110x74-icon_halloween" src="http://ninjakiwi-cdn.s3.amazonaws.com/thumbs/medium/BattlesNK-110x74-Icon_Halloween.jpg">
-</a>                            </li>
+                            <li class="tower-defense"><a href="/Games/Tower-Defense">Tower Defense</a></li>
+                            <li class="puzzle"><a href="/Games/Puzzle">Puzzle</a></li>
+                            <li class="action"><a href="/Games/Action">Action</a></li>
+                            <li class="strategy"><a href="/Games/Strategy">Strategy</a></li>
+                            <li class="multiplayer"><a href="/Games/Multiplayer">Multiplayer</a></li>
+                            <li class="mobile"><a href="/Games/Mobile"><span class="translation_missing" title="translation missing: en.game_categories.mobile">Mobile</span></a></li>
+                            <li class="level-editors"><a href="/Games/Level-Editors"><span class="translation_missing" title="translation missing: en.game_categories.level_editors">Level Editors</span></a></li>
+                            <li class="bloons-games"><a href="/Games/Bloons-Games"><span class="translation_missing" title="translation missing: en.game_categories.bloons_games">Bloons Games</span></a></li>
+                            <li class="arcade"><a href="/Games/Arcade">Arcade</a></li>
+                          <li class="all-games"><a href="/all-games">All Games</a></li>
                         </ul>
+                        </div>
                       </div>
-                      <div class="categoryLists">
-                      <h3>Categories</h3>
-                      <ul>
-                          <li class="tower-defense"><a href="/Games/Tower-Defense">Tower Defense</a></li>
-                          <li class="puzzle"><a href="/Games/Puzzle">Puzzle</a></li>
-                          <li class="action"><a href="/Games/Action">Action</a></li>
-                          <li class="strategy"><a href="/Games/Strategy">Strategy</a></li>
-                          <li class="multiplayer"><a href="/Games/Multiplayer">Multiplayer</a></li>
-                          <li class="mobile"><a href="/Games/Mobile"><span class="translation_missing" title="translation missing: en.game_categories.mobile">Mobile</span></a></li>
-                          <li class="level-editors"><a href="/Games/Level-Editors"><span class="translation_missing" title="translation missing: en.game_categories.level_editors">Level Editors</span></a></li>
-                          <li class="bloons-games"><a href="/Games/Bloons-Games"><span class="translation_missing" title="translation missing: en.game_categories.bloons_games">Bloons Games</span></a></li>
-                          <li class="arcade"><a href="/Games/Arcade">Arcade</a></li>
-                        <li class="all-games"><a href="/all-games">All Games</a></li>
-                      </ul>
-                      </div>
-                    </div>
-                </li>
-                <li class="blog-pg">
-                    <a href="/blog">Blog</a>
-                </li>
+                  </li>
+                  <li class="blog-pg">
+                      <a href="/blog">Blog</a>
+                  </li>
               <li class="forums-pg"><a href="/forums"><span class="translation_missing" title="translation missing: en.forums">Forums</span></a></li>
                 <li class="clans-pg"><a href="/clans"><span class="translation_missing" title="translation missing: en.clans">Clans</span></a></li>
 
             </ul>
               <div id="login">
-                <form accept-charset="UTF-8" action="/login" class="group" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="8IIVQ4gbg2onhntA1urCrvalZxleYR6iMXneGWG3BnI="></div>
+                <form accept-charset="UTF-8" action="https://ninjakiwi.com/login" class="group" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="SUfEATgoE5ZVXOboclFKNFCgovw3u4jFVVFoiVr0xlY="></div>
                   <input id="username" name="username" placeholder="Username" type="text" value="">
                   <input id="password" name="password" placeholder="Password" type="password" value="">
+                  <label for="remember_me" class="remember-me">
+                    <input id="remember_me" name="remember_me" type="checkbox" value="1"> Keep me logged in
+                  </label>
                   <input class="submit btn btn-inverse btn-red" name="commit" type="submit" value="log in">
 </form>                <a href="/auth/facebook" class="fb-login">
-                  <img alt="Fb-login" src="/assets/fb-login-976fceecca6cbd9710ac968f2f5b4b73.png">
+                  <img alt="Fb-login-small" src="//assets.ninjakiwi.com/assets/fb-login-small-324a5736578b7e31220d3bb1b07fcbc8.png">
 </a>                <a href="/auth/google_oauth2" class="google-login">
-                  <img alt="Google-login-button" src="/assets/google-login-button-0b718cf308c060451ada3067a4ea5c68.png">
-</a>                <a href="/reset_password" class="reset-password">lost password?</a>
-                <a href="/register" class="reset-password">new account</a>
+                  <img alt="Google-login-button-small" src="//assets.ninjakiwi.com/assets/google-login-button-small-8528861a097fdbb9304fa359f70466f8.png">
+</a>                <div class="account-links">
+                  <a href="/reset_password" class="reset-password">Login help?</a>
+                  <a href="/register" class="reset-password">new account</a>
+                </div>
               </div>
           </div>
         </div>
@@ -143,8 +150,6 @@ googletag.enableServices();
     <div class="wrap group " id="content">
       <a href="#" class="show-header"></a>
         <div class="banner">
-              
-
           <div class="top-ad-728x90">    <!-- New_Site_728x90_Top_ATF -->
 <div id="div-gpt-ad-1374636538758-3" style="width:728px; height:90px;">
 <script type="text/javascript">
@@ -156,51 +161,73 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1374636538758-3');
               <div id="slideshow1" class="pics" style="position: relative;"></div>
               <div class="cycler">
                 <a href="/register">
-                  <img class="active" src="/assets/small-clan-promos-white-tigers.jpg" width="220" height="78">
-                  <img src="/assets/small-clan-promos-join-nk.jpg" width="220" height="78">
-                  <img src="/assets/small-clan-promos-red-storm.jpg" width="220" height="78">
-                  <img src="/assets/small-clan-promos-be-part-of.jpg" width="220" height="78">
-                  <img src="/assets/small-clan-promos-dark-matter.jpg" width="220" height="78">
-                  <img src="/assets/small-clan-promos-scorpions.jpg" width="220" height="78">
+                  <img alt="Small-clan-promos-white-tigers" class="active" height="78" src="//assets.ninjakiwi.com/assets/small-clan-promos-white-tigers-5f6cefd3909744a7b833d5ec9e44232e.jpg" width="220">
+                  <img alt="Small-clan-promos-join-nk" class="active" height="78" src="//assets.ninjakiwi.com/assets/small-clan-promos-join-nk-8f687a1f00635b33497aeb7122c26f46.jpg" width="220">
+                  <img alt="Small-clan-promos-red-storm" class="active" height="78" src="//assets.ninjakiwi.com/assets/small-clan-promos-red-storm-8b22c66989b5528a219a20f124d08222.jpg" width="220">
+                  <img alt="Small-clan-promos-be-part-of" class="active" height="78" src="//assets.ninjakiwi.com/assets/small-clan-promos-be-part-of-748a9520cd290ecc17efb8e7a5de578e.jpg" width="220">
+                  <img alt="Small-clan-promos-dark-matter" class="active" height="78" src="//assets.ninjakiwi.com/assets/small-clan-promos-dark-matter-8371b9e3f903a173b9ea49c89c4c40e3.jpg" width="220">
+                  <img alt="Small-clan-promos-scorpions" class="active" height="78" src="//assets.ninjakiwi.com/assets/small-clan-promos-scorpions-efa368033928da479b892c82b86ced25.jpg" width="220">
                 </a>
               </div>
             </div>
+              <div style="padding-bottom:10px;clear:both; height:auto;">
+<div id="div-gpt-ad-1375928519617-0" style="width:970px; height:90px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1375928519617-0'); });
+</script>
+</div>
+</div>
+
           <div class="clear"></div>
         </div>
       <div id="primary">
-        <h1>Kaiparasoft Ltd Privacy Policy</h1>
+        <h1>Ninja Kiwi Ltd Privacy Policy</h1>
+<h3>Last Updated: May 15, 2014</h3>
 
-<h3>Last Updated: November 16, 2012</h3>
+<p>Ninja Kiwi is committed to making our games both fun and safe to use and adheres to best practices regarding the collection and use of both anonymous and limited personal information. In general, our approach is to collect anonymous data wherever possible and use as little personal information as is necessary to provide the best games and services, and then only to use personal information to make those games and services better.</p>
 
-<p>Kaiparasoft (better known as Ninja Kiwi) is committed to making our games both fun and safe to use and adheres to best practices regarding the collection and use of limited personal information. In general, our approach is to collect as little information as is necessary to provide the best games and services, and then only to use it to make those games and services better.</p>
-
-<p>This privacy policy applies to the Ninja Kiwi website located at <a href="http://ninjakiwi.com">http://ninjakiwi.com</a>, the related game and game editor sites, and to Ninja Kiwi published Facebook and mobile applications. Keep in mind that not all Ninja Kiwi games and applications use personal information or have advertising components - this privacy policy explicitly relates to the games, applications, and services that do collect privacy-related information.</p>
+<p>This privacy policy applies to the Ninja Kiwi website located at <a href="http://ninjakiwi.com">http://ninjakiwi.com</a>, the related game and game editor sites, and to Ninja Kiwi-published Facebook and mobile applications. Keep in mind that not all Ninja Kiwi games and applications use personal information or have advertising components - this privacy policy explicitly relates to the website elements, games, applications, and services that do collect privacy-related information.</p>
 
 <p>This privacy policy may change to reflect changes in business practice, legislation, or market reality. Any changes will be posted here, and significant changes will either be broadcast on the Ninja Kiwi blog or via email.</p>
 
 <h3>Types of Information</h3>
 
-<p>NK Login Registration: When you register for a Ninja Kiwi account directly, you provide us with optional information including email, age, gender, and country. This information is not required - we provide our services to you without it, but taken as a whole this gives us a better understanding of our players and community and helps us make better game design decisions. We use emails to keep members up to date on news, releases, and updates, and you may opt out of these emails at any point. Children under 13 are allowed to register for Ninja Kiwi accounts, but they may not enter any personally identifiable information.</p>
+<p><strong>NK Login Registration:</strong><br> When you register for a Ninja Kiwi account directly, you provide us with optional information including email, age, gender, and country. This information is not required - we provide our services to you without it, but taken as a whole this gives us a better understanding of our players and community and helps us make better game design decisions. As you might imagine, men and women play differently, as do younger and older players, so it is helpful to see trends based on these demographics to help make games that all players enjoy. We use emails to keep members up to date on news, releases, and updates, and you may opt out of these emails at any point. Children under 13 are allowed to register for Ninja Kiwi accounts, but they may not enter any personally identifiable information. If children under 13 want to receive such news emails, they must use a parent or guardian’s email.</p>
 
-<p>NK Forum Registration: If you register for Ninja Kiwi forums, we require an email address for registration validation and communication purposes. You may opt out of these communications at any point. Children under 13 are not allowed to register for the Ninja Kiwi forums.
-</p>
-<p>SAS: Zombie Assault 3 Mobile Registration: Currently, SAS: Zombie Assault 3 on mobile devices is our only mobile game that offers independent registration, which we do for game data security and cheat prevention. Children under 13 must not enter their own emails - they must use a parent.s or guardian.s email address instead.</p>
+<p><strong>NK Forum Registration:</strong><br> If you register for Ninja Kiwi forums, we require an email address for registration validation and communication purposes. You may opt out of these communications at any point. Children under 13 are not allowed to register for the Ninja Kiwi forums</p>
 
-<p>Game and Site Data: Ninja Kiwi tracks information about the way visitors and players use our web sites and games so that we can make our sites and games more accessible, pertinent, and fun. Ninja Kiwi uses log files to store information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring, exit and visited pages, platform used, date/time stamp, track user’s movement in the whole, and gather broad demographic information for aggregate use. IP addresses, etc, are not linked to personally identifiable information. Ninja Kiwi uses cookies, server stored game data, and third-party analytics services to track player activity and make games more awesome. You can set your browser to limit or reject cookies, but this has a high chance of interfering with site and game features and may prevent some games from playing at all or saving your progress.h3</p>
+<p><strong>SAS: Zombie Assault 3 Mobile Registration:</strong><br> Currently, SAS: Zombie Assault 3 on mobile devices is our only mobile game that offers independent registration, which we do for game data security and cheat prevention. Children under 13 must not enter their own emails - they must use a parent’s or guardian’s email address instead.</p>
 
-<p>Advertising: Ninja Kiwi uses third-party advertising companies to serve ads when visiting our web pages. We offer our web games for free, so these ads allow us to continue providing top quality games. The third-party advertising companies may collect and use information (but not your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. We do not have access to this information or influence over their policies, barring our ability to discontinue their services. If you would like more information about advertising practices and to know your choices about not having this information used by these companies, you can visit Google's Advertising and Privacy page or the Network Advertising Initiative. Please understand that if you disable or block certain ad features, then other aspects of the site may not work correctly.</p> 
+<p><strong>Facebook, Google+, Game Center, and Game Circle Logins:</strong><br> We use these services to connect players to their friends for co-operative and competitive play, and to compare scores and progress. We use the respective platform standard versions of these services and only reference the username/email associated to associate with your saved data, scores, and game progress.</p>
 
-<p>Facebook Information: When you register for Ninja Kiwi using Facebook, use Facebook likes, or share links through Facebook Connect, Ninja Kiwi accesses data already provided to Facebook in accordance with their Privacy Policy, and is only granted access to that information via the permissions necessary to use the games or services. Ninja Kiwi reviews Facebook data such as age, location, and gender along with various game and social data about how you are playing a game or using the web site in order to make our games and site more awesome. This information may be stored in cookies on your computer. Ninja Kiwi does not share or sell this information with any party.</p>
+<p><strong>Game and Site Data:</strong><br> Ninja Kiwi tracks information about the way visitors and players use our web sites and games so that we can make our sites and games more accessible, pertinent, and fun. Ninja Kiwi uses log files to store information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring, exit and visited pages, platform used, date/time stamp, track user’s movement in the whole, and gather broad demographic information for aggregate use. IP addresses, etc, are not linked to personally identifiable information. Ninja Kiwi uses cookies, server stored game data, and third-party analytics services to track player activity and make games more awesome. You can set your browser to limit or reject cookies, but this has a high chance of interfering with site and game features and may prevent some games from playing at all or saving your progress</p>
 
-<p>Billing and Financial: Ninja Kiwi does track purchases made using Facebook Credits, Super Rewards, Trial Pay, and/or other 3rd party wallet services, but Ninja Kiwi does not have access to any personal billing information; purchases are tracked for purposes of making sure that Ninja Kiwi games deliver great value for money and so that we can provide awesome customer support should something go wrong.</p>
+<p><strong>Advertising:</strong><br> Ninja Kiwi uses third-party advertising companies to serve ads when visiting our web pages. We offer our web games for free, so these ads allow us to continue providing top quality games. The third-party advertising companies may collect and use information (but not your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. We do not have access to this information or influence over their policies, barring our ability to discontinue their services. If you would like more information about advertising practices and to know your choices about not having this information used by these companies, you can visit <a href="http://www.google.com/privacy_ads.html" target="_blank">Google's Advertising and Privacy</a> page or the <a href="http://networkadvertising.org" target="_blank">Network Advertising Initiative</a>. Please understand that if you disable or block certain ad features, then other aspects of the site may not work correctly.</p>
+
+<p><strong>Facebook Information:</strong><br> When you register for Ninja Kiwi using Facebook, use Facebook likes, or share links through Facebook Connect, Ninja Kiwi accesses data already provided to Facebook in accordance with their Privacy Policy, and is only granted access to that information via the permissions necessary to use the games or services. Ninja Kiwi reviews Facebook data such as age, location, and gender along with various game and social data about how you are playing a game or using the web site in order to make our games and site more awesome. This information may be stored in cookies on your computer. Ninja Kiwi does not share or sell this information with any party.</p>
+
+<p><strong>Billing and Financial:</strong><br> Ninja Kiwi does track purchases made using Facebook Credits, Super Rewards, Trial Pay, and/or other 3rd party wallet services, but Ninja Kiwi does not have access to any personal billing information; purchases are tracked for purposes of making sure that Ninja Kiwi games deliver great value for money and so that we can provide awesome customer support should something go wrong.</p>
 
 <h3>Other Use of Information</h3>
 
-<p>Ninja Kiwi does not sell, rent, or publicly share your personally identifiable information to anyone. We may use the information you provide to provide customer support or respond to forum posts. We may share tools to access information to our development or technology partners, but this will be done under standard terms of nondisclosure. In the event of a change in corporate ownership or control, we would then transfer all personally-identifiable and non-personally identifiable information to the new owner or controlling party. Ninja Kiwi would also share the limited personal information to comply with court order, fraud protection, or other legal proceedings, to enforce our Terms of Service, or to protect the safety, rights, or property of Kaiparasoft or its employees.</p>
+<p>Ninja Kiwi does not sell, rent, or publicly share your personally identifiable information to anyone. We may use the information you provide to provide customer support or respond to forum posts. We may share tools to access information to our development or technology partners, but this will be done under standard terms of nondisclosure. In the event of a change in corporate ownership or control, we would then transfer all personally-identifiable and non-personally identifiable information to the new owner or controlling party. Ninja Kiwi would also share the limited personal information to comply with court order, fraud protection, or other legal proceedings, to enforce our Terms of Service, or to protect the safety, rights, or property of Ninja Kiwi or its employees.</p>
 
 <h3>Children Under 13</h3>
 
-<p>We respect the privacy of parents, guardians, and their children, and we are committed to complying with the Children's Online Privacy Protection Act (COPPA). Children under 13 may not enter personally identifiable information during the registration process (they must use a parent's or guardian's email address), and they may not sign up for forum accounts at all. Besides forums, there are no chat, IM, or other open communication services where a child could directly or inadvertently disclose to other Ninja Kiwi members, players, or visitors personally identifiable information. Nevertheless, if a parent or guardian believes that his or her child has submitted personal information to us, he or she can contact us at <a href="mailto:privacy@ninjakiwi.com">privacy@ninjakiwi.com</a>. Ninja Kiwi will make reasonable efforts to delete the information upon learning that it relates to a child under the age of 13. Ninja Kiwi believes that parents should supervise their children's online activities and actively advise them on appropriate behavior and online safety.</p>
+<p>We respect the privacy of parents, guardians, and their children, and we are committed to complying with the Children's Online Privacy Protection Act (COPPA). Children under 13 may not enter personally identifiable information during the registration process (they must use a parent’s or guardian’s email address), and they may not sign up for forum accounts at all. Please be aware that Bloons TD Battles, Bloons TD 5, and SAS Zombie Assault 4 allow text chat to coordinate and enhance the multiplayer experiences. Children under 13 should never give out personal information in these chats, and Ninja Kiwi representatives will never ask for personal information. If anyone ever asks for personal information in chat, please screenshot the interaction and send the image to <a href="mailto:privacy@ninjakiwi.com">privacy@ninjakiwi.com</a> for investigation. Helpful “mute” buttons also exist in each of those games that will hide chat entirely, and we encourage players and parents to use this setting for those under 13. If at any time a parent or guardian believes that his or her child has submitted personal information to us, he or she can contact us at <a href="mailto:privacy@ninjakiwi.com">privacy@ninjakiwi.com</a>. Ninja Kiwi will make reasonable efforts to delete the information upon learning that it relates to a child under the age of 13. Ninja Kiwi believes that parents should supervise their children's online activities and actively advise them on appropriate behavior and online safety, including avoiding chat systems and other 3rd party open communication tools.</p>
+
+<h3>In-App Purchasing</h3>
+
+<p>Some of our games provide additional content for a direct fee - usually buying an item or an amount of in-game currency to make gameplay faster or more fun. Parents and guardians should be aware that they can set up their mobile devices to disallow one touch purchases and enforce password entry before any real-dollar purchase. Parents and guardians are responsible for maintaining password security for these systems and in general should not share passwords with their children. The following links describe how to make sure purchase verification is in place:
+</p>
+
+<ul>
+  <li><a href="https://support.google.com/googleplay/answer/1626831?hl=en-GB">https://support.google.com/googleplay/answer/1626831?hl=en-GB</a></li>
+  <li><a href="http://www.amazon.com/gp/help/customer/display.html?nodeId=201112050">http://www.amazon.com/gp/help/customer/display.html?nodeId=201112050</a></li>
+  <li><a href="http://support.apple.com/kb/ht4009">http://support.apple.com/kb/ht4009</a></li>
+  <li><a href="http://bookclubs.barnesandnoble.com/t5/NOOK-Talk/Nook-HD-Parental-Controls-amp-Profiles-Details/td-p/1403448">http://bookclubs.barnesandnoble.com/t5/NOOK-Talk/Nook-HD-Parental-Controls-amp-Profiles-Details/td-p/1403448</a></li>
+</ul>
+
 
 <h3>Security</h3>
 
@@ -212,14 +239,15 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1374636538758-3');
 
 <p>If you do not agree with this privacy policy, you may still use most of our website features and games without registering at all, or you have the option to register without sharing any personally identifiable information. If we do not have a valid email for you, however, it may limit or completely prevent us from providing fast or effective customer support. Without a valid email, you will also not be able to receive beta invites, promotions, discounts, update notices, and new release notices; you may opt out of emails at any time by following the instructions provided in each email.</p>
 
-<p>Feel free to contact us about any questions regarding Ninja Kiwi or our policies at <a href="mailto:privacy@ninjakiwi.com">privacy@ninjakiwi.com</a>. </p>
+<p>Feel free to contact us about any questions regarding Ninja Kiwi or our policies at <a href="mailto:privacy@ninjakiwi.com">privacy@ninjakiwi.com</a>.</p>
 
 <address>
-  <span>Kaiparasoft</span>
-  <span>PO Box 26</span>
-  <span>Kumeu 0810</span>
+  <span>Ninja Kiwi</span><br>
+  <span>PO Box 126</span><br>
+  <span>Kumeu 0841</span><br>
   <span>New Zealand</span>
 </address>
+
       </div>
       <div id="secondary">
         <div class="list">
@@ -247,12 +275,12 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1374636538758-0');
               <div id="slideshow1" class="pics" style="position: relative;"></div>
               <div class="cycler">
                 <a href="/register">
-                  <img class="active" src="/assets/small-clan-promos-white-tigers.jpg" width="220" height="78">
-                  <img src="/assets/small-clan-promos-join-nk.jpg" width="220" height="78">
-                  <img src="/assets/small-clan-promos-red-storm.jpg" width="220" height="78">
-                  <img src="/assets/small-clan-promos-be-part-of.jpg" width="220" height="78">
-                  <img src="/assets/small-clan-promos-dark-matter.jpg" width="220" height="78">
-                  <img src="/assets/small-clan-promos-scorpions.jpg" width="220" height="78">
+                  <img alt="Small-clan-promos-white-tigers" class="active" height="78" src="//assets.ninjakiwi.com/assets/small-clan-promos-white-tigers-5f6cefd3909744a7b833d5ec9e44232e.jpg" width="220">
+                  <img alt="Small-clan-promos-join-nk" class="active" height="78" src="//assets.ninjakiwi.com/assets/small-clan-promos-join-nk-8f687a1f00635b33497aeb7122c26f46.jpg" width="220">
+                  <img alt="Small-clan-promos-red-storm" class="active" height="78" src="//assets.ninjakiwi.com/assets/small-clan-promos-red-storm-8b22c66989b5528a219a20f124d08222.jpg" width="220">
+                  <img alt="Small-clan-promos-be-part-of" class="active" height="78" src="//assets.ninjakiwi.com/assets/small-clan-promos-be-part-of-748a9520cd290ecc17efb8e7a5de578e.jpg" width="220">
+                  <img alt="Small-clan-promos-dark-matter" class="active" height="78" src="//assets.ninjakiwi.com/assets/small-clan-promos-dark-matter-8371b9e3f903a173b9ea49c89c4c40e3.jpg" width="220">
+                  <img alt="Small-clan-promos-scorpions" class="active" height="78" src="//assets.ninjakiwi.com/assets/small-clan-promos-scorpions-efa368033928da479b892c82b86ced25.jpg" width="220">
                 </a>
               </div>
             </div>
@@ -299,12 +327,19 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1374636538758-2');
         iPhone and iPad are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.</p>
       </div>	
     </div>
-    <div id="btd5_ios">
+      <div id="btd5_ios">
   <a href="#" class="close">Close IOS Window</a>
-  <a href="http://newgam.es/BattlesiOS" class="full-link" target="_blank"></a>
-  <a href="http://newgam.es/BattlesiOS" class="buy-iphone" target="_blank">Buy Now iPhone</a>
-  <a href="http://newgam.es/BattlesAndroid" class="buy-android" target="_blank">Buy Now Google Play</a>
-  <a href="http://newgam.es/BTDBnkazn" class="buy-amazon" target="_blank">Buy Now Amazon</a>
+  <a href="http://newgam.es/td5ilight" class="full-link" target="_blank"></a>
+  <a href="http://newgam.es/td5ilight" class="buy-iphone" target="_blank">Buy Now iPhone</a>
+  <a href="http://newgam.es/btd5andlbox" class="buy-android" target="_blank">Buy Now Google Play</a>
+  <a href="http://newgam.es/td5aznlbox" class="buy-amazon" target="_blank">Buy Now Amazon</a>
+</div>
+<div id="btd5_osx">
+  <a href="#" class="close">Close OSX Window</a>
+  <a href="http://newgam.es/td5ilight" class="full-link" target="_blank"></a>
+  <a href="http://newgam.es/td5ilight" class="buy-iphone" target="_blank">Buy Now iPhone</a>
+  <a href="http://newgam.es/btd5andlbox" class="buy-android" target="_blank">Buy Now Google Play</a>
+  <a href="http://newgam.es/td5aznlbox" class="buy-amazon" target="_blank">Buy Now Amazon</a>
 </div>
 
         <!-- BEGIN GN Ad Tag for Ninja Kiwi 1000x1000 ros -->
@@ -315,7 +350,7 @@ if ((typeof(f330078)=='undefined' || f330078 > 0) ) {
 }else{
 	//insert default static image here as default ad
 }
-</script><script src="http://n4403ad.doubleclick.net/adj/gn.ninjakiwi.com/ros;sect=ros;mtfInline=true;sz=1000x1000;tile=1;ord=2374456519262047?" type="text/javascript"></script>
+</script><script src="http://n4403ad.doubleclick.net/adj/gn.ninjakiwi.com/ros;sect=ros;mtfInline=true;sz=1000x1000;tile=1;ord=9948116265971860?" type="text/javascript"></script>
 <!-- END AD TAG -->
 
   	<!-- Start Quantcast tag -->
@@ -324,24 +359,13 @@ if ((typeof(f330078)=='undefined' || f330078 > 0) ) {
 	      qacct:"p-cddeOSj7LLd62"
 	    };
 	  </script>
-	  <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	  <script type="text/javascript" src="//edge.quantserve.com/quant.js"></script>
   	<noscript>
-  	  <img src="http://pixel.quantserve.com/pixel/p-cddeOSj7LLd62.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+  	  <img src="//pixel.quantserve.com/pixel/p-cddeOSj7LLd62.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
   	</noscript>
 	  <!-- End Quantcast tag -->
     
-    <img alt="Ajax-loader" class="loader-img" src="/assets/ajax-loader-770bf8cdf531ce793e27e0285e6a14ed.gif">
-  <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "js-agent.newrelic.com/nr-100.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-3.newrelic.com","58db2ecb99",1555067,"Ig5WEUdeXg0DS0pEXBUEFxVHWEQABUA6R1oNCFsc",0,75,new Date().getTime(),"","","","",""]);</script>
+    <img alt="Ajax-loader" class="loader-img" src="//assets.ninjakiwi.com/assets/ajax-loader-770bf8cdf531ce793e27e0285e6a14ed.gif">
+  
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
