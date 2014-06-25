@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slide.ly privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022005735id_/http%3A//slide.ly/general/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slide.ly privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140603id_/http%3A//slide.ly/privacy-policy) for the most accurate reproduction.*
 
-# Slide.ly Free Photo Slideshow online, awesome slide show maker with photos and music!
+# Create & Share Beautiful Videos, Slideshows and Photo Collages
 
 _Your privacy is important to us_. We highly value and respect the privacy of the personal information we obtain from you by using our Site and/or Services (as such terms are defined in the Terms of Service) (" _Personal Information_ ") and we have created this privacy policy (the " _Privacy Policy_ ") to inform you about how we collect, use and share your Personal Information, and our privacy practices in general.
 
