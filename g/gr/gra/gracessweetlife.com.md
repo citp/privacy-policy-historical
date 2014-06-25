@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gracessweetlife.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109030823id_/http%3A//gracessweetlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gracessweetlife.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070020id_/http%3A//gracessweetlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for the Grace's Sweet Life Website
 
@@ -42,7 +42,7 @@ Google AdSense
 
  **[DoubleClick Cookies](https://support.google.com/adsense/answer/2839090?hl=en "DoubleClick Cookies") **explained.
 
- **Google Advertising Cookies**. You can use the [ **Ads Preferences Manager**](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjSL-S9tc5MabfPMDMSu4bG3JN6l68DvhNhApaLVghje5Q-SElQsBUbB-wG8eLCD4ycqNaH0CN3vtzolPvAD8cVW36um2JttuEUPE38KKxwDQZL1dUKe8CWvoztHpX3uZoIcXpYchcz_O1Gbhxc2D6noSFnwkBotVcBMat4HgiUxmO4Ts3yWl3LwEYh8y22QvWn08rdruJ40FgHksvpELCwipJMUg "Google Ads Preferences Manager") to manage the ads you see.
+ **Google Advertising Cookies**. You can use the [ **Ads Preferences Manager**](http://www.google.com/settings/ads "Google Ads Preferences Manager") to manage the ads you see.
 
  **Manage/Opt-Out Third-Party Cookies**. You can manage many companies’ cookies used for online advertising at the [ **Network Advertising Initiative**](http://www.networkadvertising.org/choices/ "Opt-Out/Manage Advertising Cookies at Network Advertising Initiative").
 
