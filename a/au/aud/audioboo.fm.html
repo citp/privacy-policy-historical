@@ -1,63 +1,48 @@
-<!--The following is the downloaded HTML source of the audioboo.fm privacy policy that was archived on 2013-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213225942id_/http%3A//audioboo.fm/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the audioboo.fm privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625091546id_/http%3A//audioboo.fm/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><head prefix="og: http://ogp.me/ns# audioboo: http://ogp.me/ns/apps/audioboo#"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://musculahq.appspot.com/Muscula3.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html><html class="no-js" lang="en"><head prefix="og: http://ogp.me/ns# audioboo: http://ogp.me/ns/apps/audioboo#">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"8a803e7a5d","applicationID":"12190","transactionName":"dQ1bTBRdCQlURE5DFVcWXFtJQhcMR1cCSQ==","queueTime":5,"applicationTime":26,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQQHU0VSCgIJVA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 <title>Audioboo: Privacy Policy</title>
 <meta content="Share audio content online and completely free of charge with Audioboo. Post it here and to other social networks. Sign up now or download the free app." name="description">
 <meta content="width=1030" name="viewport">
-<link href="https://d15mj6e6qmt1na.cloudfront.net/assets/desktop-b588345975f236e0bbfd99b32733aef2.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://d15mj6e6qmt1na.cloudfront.net/assets/desktop-3cc448e79a9c8bcb10659d5947040bb0.css" media="screen" rel="stylesheet">
 <!--[if IE]>
-<link href="https://d15mj6e6qmt1na.cloudfront.net/assets/ieshims-d113742ac0466bd7fc772fec630fdf2f.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://d15mj6e6qmt1na.cloudfront.net/assets/ieshims-7313a4a608cc31a049c40c302b726bad.css" media="screen" rel="stylesheet" />
 <![endif]-->
 <!--[if lte IE 7]>
-<link href="https://d15mj6e6qmt1na.cloudfront.net/assets/ie7shims-d433dd264478c62ec113ec81bdeff61a.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://d15mj6e6qmt1na.cloudfront.net/assets/ie7shims-afb91f8998904d548179c06f3165c142.css" media="screen" rel="stylesheet" />
 <![endif]-->
 
 <script>
-(function () {
-  if ("_proxy_jslib_handle" in window)
-    return;
-  window.Muscula = { settings:{
-    logId:"06264cab-9af5-44df-a96c-78c791d9208b", suppressErrors: false, branding: 'none'
-  }};
-  var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true;
-  m.src = (window.location.protocol == 'https:' ? 'https:' : 'http:') +
-  '//musculahq.appspot.com/Muscula3.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
-  window.Muscula.run=function(c){eval(c);window.Muscula.run=function(){};};
-  window.Muscula.errors=[];window.onerror=function(){window.Muscula.errors.push(arguments);
-  return window.Muscula.settings.suppressErrors===undefined;}
-})();
-
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-6532967-1', 'audioboo.fm');
 ga('set', {"dimension4":"0","dimension3":"static/privacy"});
+ga('require', 'displayfeatures');
 ga('send', 'pageview');
 
 </script>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="OZj2HZWdwH0n+6eTKHWWRjTkZWdGq6aaHKJYr1SKwx0=" name="csrf-token">
+<meta content="5aHl+7lVUPwpgQ/f8Bek9Rxu5XNdynecTKChO/Ukmjk=" name="csrf-token">
 <link href="/osd.xml" rel="search" title="Audioboo search" type="application/opensearchdescription+xml">
 <link href="/favicon.png" rel="icon" type="image/png">
 <link href="/apple-touch-icon.png" rel="apple-touch-icon">
 <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
 <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
-<link href="https://audioboo.fm/" rel="home" title="Home">
+<link href="http://audioboo.fm/" rel="home" title="Home">
 <link href="http://microformats.org/profile/hcard" rel="profile">
 
 <meta content="48950226243" property="fb:app_id">
 <meta content="517380060" property="fb:admins">
 <meta content="1979ce46ecf9652f" property="wb:webmaster">
 <link href="http://audioboo.fm/boos/everyone.rss" rel="alternate" title="All Recent Posts" type="application/rss+xml">
-<script src="https://d15mj6e6qmt1na.cloudfront.net/assets/preload-d73f009702c0e4bf43189d5e29706c09.js" type="text/javascript"></script>
+<script src="http://d15mj6e6qmt1na.cloudfront.net/assets/preload-16166f20c66f52d9d159ce17d7852e88.js"></script>
 
-<script>
-  yepnope([{load: ["https://d15mj6e6qmt1na.cloudfront.net/assets/application-e8aa5dfc7ba479e8771416e47ac52e16.js"],complete: function(){$js.fire('application'); $js.fire('__base');}}]);
-</script>
 </head>
 <body class="">
 
@@ -66,12 +51,12 @@ ga('send', 'pageview');
 <div class="shared-header">
 <div class="full-width-top-bit">
 <div class="page-header-page-header-top-bit container">
-<a href="/" class="image-link logo-image-link pull-left"><img alt="audioboo logo" class="moshun-audioboo-logo" src="https://d15mj6e6qmt1na.cloudfront.net/assets/moshun_audioboo_logo_184_34_x2-21009c626634be9ab302c4701872476c.png">
+<a class="image-link logo-image-link pull-left" href="/"><img alt="audioboo logo" class="moshun-audioboo-logo" src="http://d15mj6e6qmt1na.cloudfront.net/assets/moshun_audioboo_logo_184_34_x2-976881a9c4c84ee07b4382c01f5fbf0c.png">
 </a><div class="page-header-items">
 <div class="pull-right">
 <div class="page-header-user-action-short-cuts">
 <div class="btn moshen-large-icon-button">
-<a href="/boos/new"><span class="icon mini-moshun-mic"></span>
+<a href="/boos/new"><i class="fa fa-microphone"></i>
 <span class="legend">Record / upload</span>
 </a></div>
 </div>
@@ -81,7 +66,9 @@ ga('send', 'pageview');
 <div class="page-header-search-field" data-js-live-searchwrapper="" role="search">
 <form accept-charset="UTF-8" action="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
 <input autocomplete="off" class="search-field js-live-search" id="q" name="q" placeholder="Search" type="text">
+<div class="sh-fa-wrapper fa fa-lg">
 <input class="search-button" type="submit" value="">
+</div>
 </form>
 
 </div>
@@ -90,10 +77,18 @@ ga('send', 'pageview');
 </div>
 <div class="pull-right">
 <div class="page-header-social-buttons">
-<a class="icon moshun-social-twitter" href="http://twitter.com/audioboo" title="Audioboo on Twitter"></a>
-<a class="icon moshun-social-facebook" href="http://facebook.com/audioboo" title="Audioboo on Facebook"></a>
-<a class="icon moshun-social-google" href="https://plus.google.com/104651654327334504662" title="Audioboo on Google Plus"></a>
-<a class="icon moshun-social-pinterest" href="http://pinterest.com/audioboo" title="Audioboo on Pinterest"></a>
+<a class="icon moshun-social-sq" href="http://twitter.com/audioboo" title="Audioboo on Twitter">
+<i class="fa fa-twitter-square"></i>
+</a>
+<a class="icon moshun-social-sq" href="http://facebook.com/audioboo" title="Audioboo on Facebook">
+<i class="fa fa-facebook-square"></i>
+</a>
+<a class="icon moshun-social-sq" href="https://plus.google.com/104651654327334504662" title="Audioboo on Google Plus">
+<i class="fa fa-google-plus-square"></i>
+</a>
+<a class="icon moshun-social-sq" href="http://pinterest.com/audioboo" title="Audioboo on Pinterest">
+<i class="fa fa-pinterest-square"></i>
+</a>
 </div>
 
 </div>
@@ -103,22 +98,13 @@ ga('send', 'pageview');
 </div>
 <div class="full-width-main-nav">
 <div class="page-header-main-nav container">
-<ul class="page-header-main-nav-menu pull-left">
-<li class="horiz first" role="navigation">
-<a href="/" title="Home"><i class="icon-home icon-large"></i>
+<ul class="page-header-main-nav-menu pull-left list-unstyled">
+<li class="horiz first home-button" role="navigation">
+<a href="/" title="Home"><i class="fa fa-home fa-lg"></i>
 <span class="hiddenText">Home</span>
 </a></li>
-<li class="horiz dropdown btstrp" data-hover-trigger-dropdown="1">
-<a href="/boos" data-toggle="dropdown" role="button"><span>Browse</span>
-<i class="icon-caret-down icon-large"></i>
-</a><ul class="dropdown-menu btstrp" role="menu">
-<li><a href="/boos/trending">trending</a></li>
-<li><a href="/boos/featured">featured</a></li>
-<li><a href="/boos/everyone">everyone</a></li>
-</ul>
-</li>
 <li class="horiz">
-<a href="/browse">Categories</a>
+<a href="/browse">Browse</a>
 </li>
 <li class="horiz">
 <a href="/browse/store">Store</a>
@@ -126,10 +112,13 @@ ga('send', 'pageview');
 </ul>
 <ul class="loggedOut page-header-main-nav-menu pull-right" role="navigation">
 <li class="horiz">
-<a href="/signup?redirect=https%3A%2F%2Faudioboo.fm%2Fprivacy">Sign up</a>
+<a href="/signup?redirect=http%3A%2F%2Faudioboo.fm%2Fprivacy">Sign up</a>
 </li>
 <li class="horiz">
-<a href="/login?redirect=https%3A%2F%2Faudioboo.fm%2Fprivacy" class="last">Login</a>
+<a href="/login?redirect=http%3A%2F%2Faudioboo.fm%2Fprivacy">Login</a>
+</li>
+<li class="horiz">
+<a class="last" href="http://support.audioboo.fm">Help</a>
 </li>
 </ul>
 </div>
@@ -140,10 +129,11 @@ ga('send', 'pageview');
 <div id="slider_holder">
 <div class="slider-content">
 <div id="assist_content" style="display:none">
-<div class="assist-block">
+<div class="left-section">
+<div class="assist-block minor">
 <a class="assist-block-inner" data-hoogle-async-link-click="{&quot;category&quot;:&quot;internal link&quot;,&quot;action&quot;:&quot;assistant&quot;,&quot;label&quot;:&quot;for-broadcasters&quot;}" href="http://audioboo.fm/about/for-broadcasters">
 <span class="hooicon">
-<i class="icon-booradio"></i>
+<i class="booicon icon-booradio"></i>
 </span>
 <span class="text">
 <span class="title">For Broadcasters</span>
@@ -151,10 +141,10 @@ ga('send', 'pageview');
 </a>
 </div>
 <div class="assist-block-spacer"></div>
-<div class="assist-block">
+<div class="assist-block minor">
 <a class="assist-block-inner" data-hoogle-async-link-click="{&quot;category&quot;:&quot;internal link&quot;,&quot;action&quot;:&quot;assistant&quot;,&quot;label&quot;:&quot;for-podcasts&quot;}" href="http://audioboo.fm/about/for-podcasts">
 <span class="hooicon">
-<i class="icon-boo-news-category"></i>
+<i class="booicon icon-boo-news-category"></i>
 </span>
 <span class="text">
 <span class="title">For Podcasts</span>
@@ -162,32 +152,38 @@ ga('send', 'pageview');
 </a>
 </div>
 <div class="assist-block-spacer"></div>
-<div class="assist-block">
+<div class="assist-block minor">
 <a class="assist-block-inner" data-hoogle-async-link-click="{&quot;category&quot;:&quot;internal link&quot;,&quot;action&quot;:&quot;assistant&quot;,&quot;label&quot;:&quot;for-education&quot;}" href="http://audioboo.fm/about/education">
 <span class="hooicon">
-<i class="icon-boo-education-category"></i>
+<i class="booicon icon-boo-education-category"></i>
 </span>
 <span class="text">
 <span class="title">For Educators</span>
 </span>
 </a>
 </div>
+
+</div>
+<div class="mid-section">
 <div class="assist-block-spacer"></div>
 <div class="assist-block major">
 <a class="assist-block-inner" data-hoogle-async-link-click="{&quot;category&quot;:&quot;internal link&quot;,&quot;action&quot;:&quot;assistant&quot;,&quot;label&quot;:&quot;upgrade&quot;}" href="http://audioboo.fm/about/upgrade">
 <span class="hooicon">
-<i class="icon-booimicrophone centre"></i>
+<i class="booicon icon-booimicrophone centre"></i>
 </span>
 <span class="text">
 <span class="title">Get Started &amp; Sign Up</span>
 </span>
 </a>
 </div>
+
+</div>
+<div class="right-section">
 <div class="assist-block-spacer"></div>
-<div class="assist-block">
+<div class="assist-block minor">
 <a class="assist-block-inner" data-hoogle-async-link-click="{&quot;category&quot;:&quot;internal link&quot;,&quot;action&quot;:&quot;assistant&quot;,&quot;label&quot;:&quot;for-communities&quot;}" href="http://audioboo.fm/about/local-communities">
 <span class="hooicon">
-<i class="icon-boo-community-category"></i>
+<i class="booicon icon-boo-community-category"></i>
 </span>
 <span class="text">
 <span class="title">For Communities</span>
@@ -195,10 +191,10 @@ ga('send', 'pageview');
 </a>
 </div>
 <div class="assist-block-spacer"></div>
-<div class="assist-block">
+<div class="assist-block minor">
 <a class="assist-block-inner" data-hoogle-async-link-click="{&quot;category&quot;:&quot;internal link&quot;,&quot;action&quot;:&quot;assistant&quot;,&quot;label&quot;:&quot;for-sportscasters&quot;}" href="http://audioboo.fm/about/for-sportscasters">
 <span class="hooicon">
-<i class="icon-bootrophy"></i>
+<i class="booicon icon-bootrophy"></i>
 </span>
 <span class="text">
 <span class="title">For Sports</span>
@@ -206,15 +202,17 @@ ga('send', 'pageview');
 </a>
 </div>
 <div class="assist-block-spacer"></div>
-<div class="assist-block">
+<div class="assist-block minor">
 <a class="assist-block-inner" data-hoogle-async-link-click="{&quot;category&quot;:&quot;internal link&quot;,&quot;action&quot;:&quot;assistant&quot;,&quot;label&quot;:&quot;download_app&quot;}" href="http://audioboo.fm/about/apps">
 <span class="hooicon">
-<i class="icon-mobile-phone"></i>
+<i class="fa fa-mobile"></i>
 </span>
 <span class="text">
 <span class="title">Get the App</span>
 </span>
 </a>
+</div>
+
 </div>
 </div>
 </div>
@@ -285,16 +283,16 @@ process and deal with any other enquiries or complaints you make.
 </div>
 <div class="unit size1of4">
 <ul>
-<li><a href="http://forum.audioboo.fm">Support/Discussion</a></li>
+<li><a href="http://support.audioboo.fm">Support/Discussion</a></li>
 <li><a href="/guidelines">Community Guidelines</a></li>
-<li><a href="/terms">Terms &amp; Conditions</a></li>
+<li><a href="/about/terms">Terms &amp; Conditions</a></li>
 <li><a href="/privacy">Privacy Policy</a></li>
 </ul>
 </div>
 <div class="unit size1of4">
 <ul>
 <li><a href="/about/audioboo">Quick Tour</a></li>
-<li><a href="/about/press">Press</a></li>
+<li><a href="http://www.audioboomplc.com">Investor Relations</a></li>
 <li><a href="http://twitter.com/audioboo">Follow us on Twitter</a></li>
 <li><a href="http://www.facebook.com/audioBoo">Join our Facebook Group</a></li>
 </ul>
@@ -304,13 +302,13 @@ process and deal with any other enquiries or complaints you make.
 <li>
 <strong><a href="http://blog.audioboo.fm">Latest from the blog</a></strong>
 </li>
-<li><a href="http://blog.audioboo.fm/2013/12/06/guest-blog-action-for-blind-people-christmas-card-competition/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=guest-blog-action-for-blind-people-christmas-card-competition">GUEST BLOG: Action for Blind People Christmas Card Competition</a></li>
-<li><a href="http://blog.audioboo.fm/2013/11/22/doctor-whos-50th-anniversary-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=doctor-whos-50th-anniversary-2">Doctor Who’s 50th Anniversary</a></li>
-<li><a href="http://blog.audioboo.fm/2013/11/11/audioboo-regenerates-for-ios7/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=audioboo-regenerates-for-ios7">Audioboo regenerates for iOS7…</a></li></ul>
+<li><a href="http://blog.audioboo.fm/2014/06/20/audioboo-and-oxfam-are-making-a-song-and-dance/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=audioboo-and-oxfam-are-making-a-song-and-dance">Oxfam are making a song and dance…</a></li>
+<li><a href="http://blog.audioboo.fm/2014/06/16/job-alert-digital-marketing-assistant/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-alert-digital-marketing-assistant">JOB ALERT: Digital Marketing Assistant</a></li>
+<li><a href="http://blog.audioboo.fm/2014/06/09/were-hiring-rails-developerstats-guru/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=were-hiring-rails-developerstats-guru">We’re Hiring: Rails developer</a></li></ul>
 </div>
 </div>
 
-<div class="centered">©2013 Audioboo Ltd</div>
+<div class="centered">©2014 Audioboo Ltd</div>
 </div>
 </footer>
 
@@ -318,6 +316,13 @@ process and deal with any other enquiries or complaints you make.
 <div id="fb-root"></div>
 
 </div>
+<script src="http://d15mj6e6qmt1na.cloudfront.net/assets/application-6d565f244ef3e6f565a0d4bc69f597c4.js"></script>
+<script>
+  var jsFiles = ["__base","application"];
+  for(var i in jsFiles) {
+    $js.fire(jsFiles[i]);
+  }
+</script>
 <script>
   $(function(){
     boo.facebook.appName = "audioboo";
@@ -331,18 +336,7 @@ process and deal with any other enquiries or complaints you make.
   });
 </script>
 
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "js-agent.newrelic.com/nr-100.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-6.newrelic.com","8a803e7a5d","12190","dQ1bTBRdCQlURE5DFVcWXFtJGgoRWVMTGQ==",7,35,new Date().getTime(),"","","","",""]);</script>
+
 
 
 <!--
@@ -353,4 +347,4 @@ Matt Kruse for date formatting js
 Tim Berners-Lee for these new-fangled "hyperlinks"
 -->
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
