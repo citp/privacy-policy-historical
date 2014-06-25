@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inficon.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615044620id_/http%3A//www.inficon.com/Default.aspx%3Ftabid%3D293%26target%3D811%26language%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inficon.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112520id_/http%3A//www.inficon.com/Default.aspx%3Ftabid%3D293%26target%3D811%26language%3Den-US) for the most accurate reproduction.*
 
-# www.inficon.com > Home > Contact > Privacy - INFICON
+# www.inficon.com > Home > Support > Privacy - INFICON
 
 INFICON respects the individual privacy of its employees, vendors, consumers, business partners and others. As a user of this website, your privacy is very important to us and we want you to know how we protect the privacy of our visitors. INFICON aims to collect, use, and disclose the personal information of our sites visitors in a manner consistent with the laws of the countries in which we do business. Please take a moment to read the following policy describing our tactics for collecting and using personally identifiable data on our website, inficon.com. If you do not agree with the following policy, please do not use this website.
 
