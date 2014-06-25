@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diply.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202013322id_/http%3A//diply.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diply.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045032id_/http%3A//diply.com/static/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Diply
 
 This is Diply’s privacy policy. This document explains Diply's policies for the collection, use and disclosure of personal information. Diply abides by applicable privacy legislation. 
 
@@ -31,6 +31,8 @@ Our websites contain links to third party sites where you may purchase items. Di
 Each time you visit a Diply website, third party advertisers and advertising companies, including Google, may collect personal and other information, through your IP address, and by using technology such as cookies. Advertisements appearing on the website are delivered to you by third party advertisers, often based on what you do on various websites. This is sometimes referred to as behavioural advertising, or contextual advertising. Third party advertisers and advertising companies use information about you (not including your name or email address), including your IP address and cookies collected through your use of websites, to provide advertisements on this website about goods and services that may be of interest to you. The use of this information collected by third party advertisers and advertising companies through this website is not covered by this privacy policy and Diply is not responsible for the use of this information by third parties.
 
 You may opt out of the use of Google’s cookies for interest-based advertising by visiting the Google ads preference manager on the Google website. You may opt out of Google and other third-party’s use of cookies and other similar technology for interest-based advertising by visiting sites such as [www.aboutads.info](http://www.aboutads.info/) or [www.networkadvertising.org](http://www.networkadvertising.org/). Your web browser also gives you options regarding cookies.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp)
 
 ### **Your Privacy Choices**
 
