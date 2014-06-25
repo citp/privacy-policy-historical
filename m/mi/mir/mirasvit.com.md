@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mirasvit.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230200032id_/http%3A//mirasvit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirasvit.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081522id_/http%3A//mirasvit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mirasvit Magento Extensions
 
 **What information do we collect?**
 
-We collect information from you when you register on our site, place an order or subscribe to our newsletter.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or install our extension.
 
 **What do we use your information for?**
 
@@ -26,13 +26,11 @@ Your information, whether public or private, will not be sold, exchanged, transf
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.  
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
+; To check software license
+
 **How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
 **Do we use cookies?**
 
