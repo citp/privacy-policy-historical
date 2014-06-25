@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globenewswire.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128075926id_/http%3A//www.globenewswire.com/Home/about/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globenewswire.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124442id_/http%3A//www.globenewswire.com/Home/about/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement: About GlobeNewswire
 
@@ -16,7 +16,7 @@ Although GlobeNewswire collects a variety of information, we do not sell, barter
 
 
 
-If users have questions or concerns regarding this statement, they should first contact our [Customer Support Department](https://web.archive.org/web/20131128075926id_/http%3A//www.globenewswire.com/Home/Learning-Support/Customer-Support). If you do not receive a response within 24 hours, please contact our Customer Service Center by calling 310-642-6930.
+If users have questions or concerns regarding this statement, they should first contact our [Customer Support Department](https://web.archive.org/web/20140625124442id_/http%3A//www.globenewswire.com/Home/Learning-Support/Customer-Support). If you do not receive a response within 24 hours, please contact our Customer Service Center by calling 310-642-6930.
 
 ## Information Collection and Use
 
