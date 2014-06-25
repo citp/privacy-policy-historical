@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the femdomvip.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120224851id_/http%3A//femdomvip.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femdomvip.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052612id_/http%3A//femdomvip.com/static/privacy) for the most accurate reproduction.*
 
-# privacy policy - Femdom VIP
+# Femdom VIP
 
 (“Femdom Vip”) recognizes that its customers, visitors, users, and others who use www.Femdom Vip.com or other web sites owned or operated by Femdom Vip (the “Femdom Vip Sites”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Femdom Vip Sites. Femdom Vip provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Femdom Vip Sites.
 
