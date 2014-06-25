@@ -1,57 +1,89 @@
-> *The following text is extracted and transformed from the streetmoda.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505004238id_/http%3A//www.streetmoda.com/privacy-policy-street-moda.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetmoda.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043816id_/http%3A//www.streetmoda.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Street Moda Privacy Policy
+# Privacy Policy | Street Moda
 
-Your privacy is important to us. Because Street Moda, LLC ("Street Moda") values its customers, we only collect the minimum amount of information necessary to serve our customers. Street Moda will collect no identifiable, personal information about you when you visit our website unless you voluntarily choose to provide that information by entering information in an online form, sending an email, participating in a contest or other promotion, or by performing an online service transaction.
+**[](http://images.streetmoda.com/images/holiday_calendar.png)**
 
-a. Data Collection
+PRIVACY STATEMENT
 
-If you do nothing during your visit but browse this website or download information, Street Moda may gather and store certain information about your visit. Your internet browser software transmits most of this information to us automatically; however, this information does not identify you personally.
+\----
 
-We may collect and store the following information about your visit:
+SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
-  * The numeric IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the internet) from which you access the Street Moda website; 
-  * The type of browser and operating system used to access the Street Moda website;
-  * The date and time you access the Street Moda website and the length of your visit;
-  * The pages you visit, including graphics loaded from each page and other documents you download, such as PDF (Portable Document Format) files and word processing documents; and
-  * If you were referred to the Street Moda website from another website, Street Moda captures the address of the referring website. Street Moda uses this information to make its website more useful to visitors, to learn about the number of visitors to our site and the types of technology our visitors use. We do not use information to track or record information about individuals and their visits.
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.   
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.  
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
+SECTION 2 - CONSENT
 
+How do you get my consent?  
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.  
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-  
-b. Use of Cookies
+How do I withdraw my consent?  
+If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at help@streetmoda.com or mailing us at:  
+Street Moda  
+104 Production Court   
+Louisville, KY  
+US 40299
 
-  * A "cookie" is a small text file that a website can place on your computer's hard drive in order, for example, to collect information about your activities on the site or to make it possible for you to use an online "shopping cart" to keep track of items you wish to purchase. The cookie transmits this information back to the website's computer which, generally speaking, is the only computer that can read it. Most individuals do not know that "cookies" are being placed on their computers when they visit websites. If you want to know when this happens, or to prevent it from happening, you can set your browser to warn you when a website attempts to place a "cookie" on your computer. 
-  * Street Moda discourages the use of web cookies on its website. Temporary cookies, however, may be used when necessary to complete a transaction. Certain services use cookies to enhance the user experience and avoid multiple login/password authentication. 
+SECTION 3 - DISCLOSURE
 
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
+SECTION 4 - SHOPIFY
 
-c. Voluntary Personal Information Submission
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.   
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-If you choose to identify yourself by sending Street Moda an e-mail, registering for an Street Moda online account, participating in a contest or other promotion, or by using online forms, some personal data may be collected; however, that data will only be used for limited purposes. Street Moda may ask you to voluntarily provide personal information when participating in certain activities, such as placing an order with Street Moda or participating in surveys, and contests or other promotions. All of these activities are purely voluntary. You will always have the option of whether to perform the transaction and provide this information. Please understand, however, that in order to open a Street Moda account or perform an online service transaction, you will be required to provide some personal information such as your name, address, phone number, email address and credit card number, which is necessary to complete a transaction. If you choose to provide Street Moda with personal information, we may use that personal information to respond directly to a message sent by you or to process a transaction requested by you. Street Moda does not share personal information you give us with any other company and does not collect information for outside commercial marketing. It will not sell or rent your personally identifiable information to anyone.
+Payment:  
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.  
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.   
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.  
+For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement here.
 
-d. Restrictions on Use and Disclosure of Personal Data
+SECTION 5 - THIRD-PARTY SERVICES
 
-Street Moda will only send personally identifiable information about you to other companies, agencies, or people when:
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.   
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.  
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.   
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.  
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.  
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-  * We have your consent to share the information;
-  * We need to share your information to provide the product or service you have requested. For example, Street Moda may, send information to a third party billing company, and it sends information for billing purposes only;
-  * We need to send the information to companies who work on behalf of Street Moda to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us); or We are required to do so by law, subpoena, court order or legal process.
+Links  
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.  
+Google analytics:   
+Our store uses Google Analytics to help us learn about who visits our site and what pages are being looked at.
 
+SECTION 6 - SECURITY
 
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.  
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-e. Security
+SECTION 7 - COOKIES
 
-Street Moda is committed to ensuring the integrity of the information and systems it maintains. As such, Street Moda has instituted security measures for all information systems under our control so that information will not be lost, misused, or altered. For site security purposes and to ensure that our internet services remain available to all users, Street Moda uses software programs to monitor traffic to identify unauthorized attempts to upload or change information or otherwise cause damage. In the event of authorized law enforcement investigations and pursuant to any required legal process, information from these sources may be used to help identify an individual. Your Street Moda account information is password-protected for your privacy and security. In certain areas, as with credit card transactions, Street Moda uses industry-standard secure socket layer (SSL) encryption to protect data transmissions.
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.  
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).  
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits  
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.  
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.  
+_secure_session_id, unique token, sessional  
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.  
+Google analytics:   
+PREF, persistent for a very short period, Set by Google and tracks who visits the store and from where
 
-f. Links to Other Sites
+SECTION 8 - CHANGES TO THIS PRIVACY POLICY
 
-The Street Moda website may contain links to other companies that we believe might be of interest to our customers. In all such cases, once you link to another site, you are subject to the privacy policy of the new site. 
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.  
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-g. Changes to this Policy
+QUESTIONS AND CONTACT INFORMATION
 
-Street Moda may revise this policy from time to time without notice. If we make any substantial changes we may notify you by posting an announcement on our pages. This is a statement of policy and should not be interpreted as a contract of any kind.
-
-h. Contact Information
-
-If you have any comments, questions, or concerns about Street Moda's privacy policy, please contact us at: info@streetmoda.com 
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at help@streetmoda.com or by mail at   
+Street Moda  
+[Re: Privacy Compliance Officer]   
+104 Production Court   
+Louisville, KY  
+US 40299  
+\----
