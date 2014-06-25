@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storycartel.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207070302id_/http%3A//storycartel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storycartel.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105409id_/http%3A//storycartel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
