@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalcallforwarding.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805163649id_/https%3A//www.globalcallforwarding.com/gcf/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcallforwarding.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110643id_/https%3A//www.globalcallforwarding.com/gcf/privacy-policy.asp) for the most accurate reproduction.*
 
 # Call Forwarding Phone - International Call Forwarding - Toll Free Forwarding
 
