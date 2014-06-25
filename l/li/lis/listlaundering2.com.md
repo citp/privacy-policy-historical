@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listlaundering2.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917135408id_/http%3A//www.listlaundering2.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listlaundering2.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121103id_/http%3A//www.listlaundering2.com/privacy.html) for the most accurate reproduction.*
 
 # List Laundering Privacy Policy
 
