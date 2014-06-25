@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eriksbikeshop.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524163644id_/http%3A//www.eriksbikeshop.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eriksbikeshop.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100933id_/http%3A//www.eriksbikeshop.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Erik's Online Privacy Policy
 
 ## Erik's Bike and Board Guarantee
 
-Erik's Bike and Board will not sell, share, trade, or give away personal information that is received regarding our customers. We are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience.   
+Erik's Bike and Board will not sell, share, trade, or give away personal information that is received regarding our customers. We are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience.  
 **Please read on for more details about Erik's Bike and Board's privacy policy.**
 
 ### What information do we collect? How do we use it?
@@ -14,6 +14,8 @@ We collect the domain name of e-mail addresses of visitors to our site and aggre
 When you order, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status.
 
 We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new services, and special offers we think you'll find valuable.
+
+We use Google's DoubleClick cookie to collect anonymous 3rd-party audience data (such as age, gender and interests). We will only ever use this data to improve our understanding of users of our sites, and the data gathered cannot be matched up to individual users. If you would like to opt out of providing any kind of data through Google's DoubleClick cookie whilst using our site, please visit Google's opt-out browser add-on [here](https://tools.google.com/dlpage/gaoptout/).
 
 ### How do we protect customer information?
 
