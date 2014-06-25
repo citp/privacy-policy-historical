@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easydrawingtutorials.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209235216id_/http%3A//www.easydrawingtutorials.com/index.php/component/content/article/98-misc/159-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easydrawingtutorials.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625170241id_/http%3A//www.easydrawingtutorials.com/index.php/component/content/article/98-misc/159-privacy-policy) for the most accurate reproduction.*
 
 # EasyDrawingTutorials
 
@@ -21,4 +21,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at SeineStudios@ gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at Admin@ SeineStudios.com.
