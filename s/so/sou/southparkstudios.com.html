@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the southparkstudios.com privacy policy that was archived on 2013-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131015050934id_/http%3A//www.southparkstudios.com/about/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the southparkstudios.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626015236id_/http%3A//www.southparkstudios.com/about/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# ">
 		
 			<title>Privacy Policy  - South Park Studios</title>
 			
-				
+			
 			
 		
 		<meta charset="UTF-8">
@@ -99,7 +99,7 @@ _gaq.push(['_trackPageview']);
 	
 		
 		<script>
-		
+
 		    window.fbAsyncInit = function() {
           // init the FB JS SDK
           FB.init({
@@ -108,56 +108,57 @@ _gaq.push(['_trackPageview']);
             status     : true,                                 // Check Facebook Login status
             xfbml      : true                                  // Look for social plugins on the page
           });
-      
+
           // Additional initialization code such as adding Event Listeners goes here
-          
+
           FB.Event.subscribe('edge.create',function(response) {
-            
-            console.log("------------------ Like button clicked, but need to get the url + stuff ------------------------");
-            
+
+            console.log("------------------ Like button clicked, ------------------------");
+
             $.get(response, function(data, textStatus, jqXHR){
-			 			 
+
               var titleEm = $(data).filter("title");
-              
+
               //console.dir(titleEm);
-              
+
               var title = $(titleEm).text();//.replace(' - South Park Studios').trim();
-              
+
               var s = {};
-              
+
+              console.log("Prepping Like Button data");
+
               s.events = 'event9';
-              s.eVar9 = this.url; 
+              s.eVar9 = this.url;
               s.eVar16 = title;//change to page_name or video title
               s.eVar19 = 'share_fblike';
               s.linkName = this.url;
               s.linkType= 'o';
               s.pev2 = 'share';
-              
-              console.log("Sending like share to Omniture: ");
-              console.dir(s);
-              
+
+              console.log("Facebook Click data: ", s);
+
               mtvn.btg.Controller.sendLinkEvent(s);
-              
+
               console.log("Sent omniture data;");
-              
+
             });
           });
-          
+
           FB.Event.subscribe('xfbml.render', function(response) {
-            console.log("------------------ Created a Like button... I think ------------------------");
+            console.log("Like Button Rendered");
           });
-          
+
         };
-			
+
 			(function() {
       	var e = document.createElement('script');
       	e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
       	e.async = true;
       	document.getElementById('fb-root').appendChild(e);
       }());
-		
-		
-		
+
+
+
 		</script>
 		
 		
@@ -191,10 +192,137 @@ _gaq.push(['_trackPageview']);
 
 				
 				<div id="logo" data-reportingname="returntohome">
-					<div id="avatar"><a href="/"><img alt="Kenny-anime Face" src="http://southparkstudios.mtvnimages.com/shared/rotations/faces/kenny-anime.png"></a></div>
-                	<a href="/"><span class="phrase">South Park Studios</span></a>
+					<div id="avatar"><a href="/"><img alt="Cartman-simpsons Face" src="http://southparkstudios.mtvnimages.com/shared/rotations/faces/cartman-simpsons.png"></a></div>
+                	<a id="nav-logo-classic" href="/"><span class="phrase">South Park Studios</span></a>
                 </div>
 
+                
+		
+		<style type="text/css">
+			div.dialog-beta-switch {
+				position      : absolute;
+				top           : 0px;
+				left          : 21px;
+				display       : none;
+				background    : url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSICiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDAwMDAiIHN0b3Atb3BhY2l0eT0iMC4xIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+				background    : -moz-linear-gradient(top, #222222 58%, #464646 100%);
+				background    : -webkit-gradient(linear, left top, left bottom, color-stop(58%, #222222), color-stop(100%, #464646));
+				background    : -webkit-linear-gradient(top, #222222 58%, #464646 100%);
+				background    : -o-linear-gradient(top, #222222 58%, #464646 100%);
+				background    : -ms-linear-gradient(top, #222222 58%, #464646 100%);
+				background    : linear-gradient(to bottom, #222222 58%, #464646 100%);
+				filter        : progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff222222", endColorstr="#ff464646", GradientType=0);
+				border        : 3px solid #e8c023;
+				border-radius : 5px;
+				z-index       : 100000;
+			}
+
+			div.dialog-beta-switch > * {
+				display : block;
+			}
+
+			div.dialog-beta-switch span.sep {
+				font-family    : 'Gotham SSm 7r', 'Gotham SSm A', 'Gotham SSm B';
+				font-weight    : 700;
+				font-style     : normal;
+				text-transform : uppercase;
+				text-align     : center;
+				font-size      : 12px;
+				color          : #fefdfb;
+			}
+
+			#nav-beta-switch-dialog .logo.beta {
+				width       : 235px;
+				height      : 57px;
+				margin-top  : 30px;
+				margin-left : 18px;
+			}
+
+			div.dialog-beta-switch.beta {
+				display : block;
+				width   : 284px;
+				height  : 206px;
+			}
+
+			div.dialog-beta-switch.beta a.dialog-logo-beta {
+				width  : 235px;
+				margin : 30px 0 8px 17px;
+			}
+
+			div.dialog-beta-switch.beta a.dialog-logo-classic {
+				width  : 210px;
+				margin : 18px 0 0 46px;
+			}
+
+			div.dialog-beta-switch.classic {
+				display : block;
+				width   : 303px;
+				height  : 220px;
+			}
+
+			div.dialog-beta-switch.classic a.dialog-logo-classic {
+				width    : 235px;
+				margin   : 30px 0 8px 17px;
+				position : relative;
+				/*top      : 10px;*/
+				left     : 27px;
+			}
+
+			div.dialog-beta-switch.classic a.dialog-logo-beta {
+				width  : 210px;
+				margin : 18px 0 0 46px;
+			}
+		</style>
+		<div class="dialog-beta-switch" id="nav-beta-switch-dialog">
+			<a href="http://www.southparkstudios.com/" class="dialog-logo-classic"><img src="/sitewide/img/switch-beta-classic/dialog-logo-classic.png"></a>
+			<span class="sep">or goto</span>
+			<span class="logo beta">
+				<a href="http://beta.southparkstudios.com/"><img src="/sitewide/img/switch-beta-classic/dialog-logo-beta.png"></a>
+			</span>
+		</div>
+		<script type="text/javascript">
+			(function() {
+				
+				var thisSiteIs = 'classic';
+
+				var nav            = document.getElementById('nav-logo-' + thisSiteIs),
+					dialog         = document.getElementById('nav-beta-switch-dialog'),
+					dialogChildren = (function(elem) {
+						var children = [];
+						var q = [];
+						q.push(elem);
+						while (q.length > 0) {
+							elem = q.pop();
+							children.push(elem);
+							pushAll(elem.children);
+						}
+						function pushAll(elemArray) {
+							for (var i = 0; i < elemArray.length; i++) {
+								q.push(elemArray[i]);
+							}
+						}
+
+						return children;
+					}(dialog));
+
+				nav.onclick = function(e) {
+					e.preventDefault();
+					dialog.className += ' ' + thisSiteIs;
+				};
+
+				dialog.onmouseout = function(event) {
+					var e = event.toElement || event.relatedTarget;
+					if (!!~dialogChildren.indexOf(e)) {
+						return;
+					}
+
+					var r = new RegExp(' ' + thisSiteIs + '( |$)');
+
+					dialog.className = dialog.className.replace(r, '');
+				}
+			}());
+		</script>
+		
 				
 				
 				
@@ -351,7 +479,7 @@ _gaq.push(['_trackPageview']);
 <article id="promo_deae2943-d0ad-4faa-8c92-eefa85235092">
 <p align="center">
 <b>PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS</b><br>
-Last Modified: November 30, 2011
+Last Modified: January 8, 2014
 </p>
 <p>
 This is the privacy policy ("<u>Privacy Policy</u>") for southparkstudios.com ("<u>Site</u>," "<u>we</u>," "<u>us</u>," or "<u>our</u>"), an Internet website offered in cooperation with the Comedy Central television channel or programming service ("<u>Comedy Central Channel</u>"). The Comedy Central Channel and the Site (together, "<u>Comedy Central</u>") are provided by Viacom Media Networks ("<u>VMN</u>"), a division of Viacom International Inc. (together, VMN and Viacom International Inc., the "<u>Parent Companies</u>").
@@ -470,7 +598,7 @@ By visiting the Site, whether as a registered user or otherwise, you acknowledge
 This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, "<u>Third Party Advertising Service Providers</u>") to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site ("<u>Targeting Services</u>"). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you.
 </p>
 <p>
-These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to Other Information about you.
+These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as Advertisers and other third parties, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise collect or have access to Information about you and your online activities over time and across different websites when you use the Site.
 </p>
 </li>
 <li>
@@ -649,6 +777,10 @@ Disable future Tracking Technologies through the same browser controls. Addition
 </li>
 <li>
 <p><b>Flash Cookies</b> Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies.&nbsp; For more information about Flash cookies and how to remove them from your computer, please visit <a href="http://kb2.adobe.com/cps/526/52697ee8.html">http://kb2.adobe.com/cps/526/52697ee8.html</a></p>
+</li>
+<li>
+<p><b>Do-Not-Track Signals and Similar Mechanisms</b> Some web browsers may transmit “do-not-track” signals to the websites with which the browser communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals.</p>
+<p>We currently do not take action in response to these signals, but, if and when a final standard is established and accepted, we may reassess how to respond to these signals.  Instead, as described above, please see the link to the Self-Regulatory Principles for Online Behavioral Advertising program that we follow that offers you choice regarding Information collected for online behavioral advertising purposes and the browser cookie controls and other mechanisms described in Sections 4(b)(i), (ii) and (iii).</p>
 </li>
 </ol>
 </li>
@@ -857,7 +989,7 @@ Further, if you use any of the Communities features and functions made available
 </ol>
 <p>
 This Privacy Policy was last modified on the date indicated above and is effective immediately.<br>
-Copyright © 2011 Viacom Media Networks, a division of Viacom International Inc. - All Rights Reserved.
+Copyright © 2014 Viacom Media Networks, a division of Viacom International Inc. - All Rights Reserved.
 </p>
 </li>
 </ol>
@@ -935,27 +1067,27 @@ Copyright © 2011 Viacom Media Networks, a division of Viacom International Inc.
     			<nav id="popular_links" data-reportingname="seofooter">
 			<span>Popular Episodes</span>
 			<ol>
-				<li><a href="http://www.southparkstudios.com/full-episodes/s17e03-world-war-zimmerman">World War Zimmerman</a></li>
-				<li><a href="http://www.southparkstudios.com/full-episodes/s17e02-informative-murder-porn">Informative Murder Porn</a></li>
+				<li><a href="http://www.southparkstudios.com/full-episodes/s14e03-medicinal-fried-chicken">Medicinal Fried Chicken</a></li>
+				<li><a href="http://www.southparkstudios.com/full-episodes/s17e10-the-hobbit">The Hobbit</a></li>
 				<li><a href="http://www.southparkstudios.com/full-episodes/s17e01-let-go-let-gov">Let Go, Let Gov</a></li>
-				<li><a href="http://www.southparkstudios.com/full-episodes/s16e10-insecurity">Insecurity</a></li>
-				<li><a href="http://www.southparkstudios.com/full-episodes/s16e09-raising-the-bar">Raising the Bar</a></li>
+				<li><a href="http://www.southparkstudios.com/full-episodes/s17e02-informative-murder-porn">Informative Murder Porn</a></li>
+				<li><a href="http://www.southparkstudios.com/full-episodes/s17e07-black-friday">Black Friday</a></li>
 			</ol>
 			<span>Popular Clips</span>
 			<ol>
-				<li><a href="http://www.southparkstudios.com/clips/48rjoy/cartmans-nightmare">Cartman's Nightmare</a></li>
-				<li><a href="http://www.southparkstudios.com/clips/nojmn4/fist-bump-bro">Fist Bump Bro</a></li>
-				<li><a href="http://www.southparkstudios.com/clips/ryc8ej/teaching-minecraft-to-adults">Teaching MINECRAFT to adults</a></li>
-				<li><a href="http://www.southparkstudios.com/clips/xlhjxs/booo-wendy">BOOO Wendy</a></li>
-				<li><a href="http://www.southparkstudios.com/clips/y2acwe/ill-be-mkay">I'll Be M'kay</a></li>
+				<li><a href="http://www.southparkstudios.com/clips/269817/south-park-medicinal-fried-chicken-act-2">South Park: Medicinal Fried Chicken - Act 2</a></li>
+				<li><a href="http://www.southparkstudios.com/clips/148379/south-park-905-the-losing-edge-act-2">South Park 905: The Losing Edge - Act 2</a></li>
+				<li><a href="http://www.southparkstudios.com/clips/148258/south-park-1008-make-love-not-warcraft-act-2">South Park 1008: Make Love, Not Warcraft - Act 2</a></li>
+				<li><a href="http://www.southparkstudios.com/clips/148380/south-park-905-the-losing-edge-act-3">South Park 905: The Losing Edge - Act 3</a></li>
+				<li><a href="http://www.southparkstudios.com/clips/148259/south-park-1008-make-love-not-warcraft-act-3">South Park 1008: Make Love, Not Warcraft - Act 3</a></li>
 			</ol>
 			<span>Popular Characters</span>
 			<ol>
 				<li><a href="http://www.southparkstudios.com/guide/characters/eric-cartman">Eric Cartman</a></li>
+				<li><a href="http://www.southparkstudios.com/guide/characters/stan-marsh">Stan Marsh</a></li>
 				<li><a href="http://www.southparkstudios.com/guide/characters/kenny-mccormick">Kenny McCormick</a></li>
 				<li><a href="http://www.southparkstudios.com/guide/characters/leopold-butters-stotch">Leopold "Butters" Stotch</a></li>
-				<li><a href="http://www.southparkstudios.com/guide/characters/lemmiwinks">Lemmiwinks</a></li>
-				<li><a href="http://www.southparkstudios.com/guide/characters/stan-marsh">Stan Marsh</a></li>
+				<li><a href="http://www.southparkstudios.com/guide/characters/tweek-tweak">Tweek Tweak</a></li>
 			</ol>
 		</nav>
 
@@ -988,14 +1120,14 @@ Copyright © 2011 Viacom Media Networks, a division of Viacom International Inc.
         <div id="copyright">
         	
 				
-				<p>©2013 South Park Digital Studios LLC. All Rights Reserved.</p><p>SOUTH PARK ©2013 Comedy Partners. All Rights Reserved. Comedy Central, South Park and all related titles, logos and characters are trademarks of Comedy Partners.</p>
+				<p>©2014 South Park Digital Studios LLC. All Rights Reserved.</p><p>SOUTH PARK ©2014 Comedy Partners. All Rights Reserved. Comedy Central, South Park and all related titles, logos and characters are trademarks of Comedy Partners.</p>
 							
 		</div>              
 	</footer>		</div>
 
 
 
-	
+
 
 
 
@@ -1008,7 +1140,7 @@ Copyright © 2011 Viacom Media Networks, a division of Viacom International Inc.
 
 
 
-<script src="http://btg.mtvnservices.com/aria/coda.html?site=southparkstudios.com" type="text/javascript"></script>
+<script src="http://btg.mtvnservices.com/aria/coda.html?site=southparkstudios.com&amp;v=3.11" type="text/javascript"></script>
 
 <script src="http://repo.comedycentral.com/feeds/init/southparkstudios.com?url=/about/legal/privacy-policy&amp;cmsPageId=9e203e32-3510-43f0-ab2d-bc563645d4c3" type="text/javascript"></script>
 
@@ -1094,6 +1226,8 @@ mtvn.btg.Controller.placeAd({size: "6x6", isReloadable:false});
       
       
       
+      
+      
    
          
       
@@ -1124,6 +1258,7 @@ mtvn.btg.Controller.placeAd({size: "6x6", isReloadable:false});
                
             
             
+                  
                   
                   
                   
@@ -1176,6 +1311,29 @@ The following code is Copyright 1998-2013 Opinionlab, Inc.  All rights reserved.
 <!-- END: OnlineOpinion v5.7 -->
 
 <!-- Include these files just before the close body </body> tag -->
+
+
+                
+
+
+<div style="background: url(/layout/common/img/geoblock/background.png) 0 0 repeat; position: fixed; top: 0px; left:0px; width:100%; height:100%; z-index:10010; " id="beta-dialog-container">
+	<div style="position: relative; width: 770px; height: 390px; margin: 200px auto; border: 5px solid #ffcc00; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px;">
+							
+			<img src="/sitewide/img/switch-beta-classic/popup.png" usemap="#betamap">
+			
+			<map name="betamap">
+				<area shape="rect" coords="10,120,340,190" href="http://beta.southparkstudios.com/about/legal/privacy-policy" alt="Beta">
+				<area shape="rect" coords="490,110,760,210" href="http://www.southparkstudios.com/about/legal/privacy-policy" alt="Classic">
+			</map>
+							
+		<a href="#" onclick="$('#beta-dialog-container').remove(); return false;" id="account-dialog-close" style="display: block; position: absolute; top: -21px; right: -21px; width: 32px; height: 32px; color: #ffcc00; font-size: 20px; line-height: 32px; background-color: black; border: 5px solid #ffcc00; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px;">X</a>
+	</div>
+</div>
+
+
+
+
+
 
 
 		<!-- PAGEOK -->
