@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superficialgallery.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207163358id_/http%3A//superficialgallery.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superficialgallery.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092026id_/http%3A//superficialgallery.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Superficial GallerySuperficial Gallery
+# Privacy Policy - Superficial Gallery
 
 **Privacy Policy for www.superficialgallery.com**
 
