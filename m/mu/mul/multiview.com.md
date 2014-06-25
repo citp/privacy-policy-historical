@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the multiview.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531225826id_/http%3A//multiview.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiview.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625214648id_/http%3A//multiview.com/Home/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# MultiView | Contact Us
 
-_Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services._
-
-  
-
+## Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
 ### What Information Do We Collect?
 
