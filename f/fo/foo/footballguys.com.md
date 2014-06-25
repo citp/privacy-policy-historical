@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the footballguys.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908082403id_/http%3A//footballguys.com/fbgprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballguys.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085932id_/http%3A//footballguys.com/fbgprivacy.php) for the most accurate reproduction.*
 
-# Fantasy Football - Footballguys - Privacy Policy
-
-Footballguys Privacy Policy 
+# Money Back Guarantee
 
 Last Updated: 8/15/2009
 
@@ -87,12 +85,11 @@ We collect the Personally Identifying Information listed below:
 
 **Privacy Policy Archive**
 
-  * [ Effective date: 3/21/2009](https://web.archive.org/web/20130908082403id_/http%3A//footballguys.com/fbgprivacy03212009.php)
+  * [ Effective date: 3/21/2009](https://web.archive.org/web/20140625085932id_/http%3A//footballguys.com/fbgprivacy03212009.php)
 
 
 
-If you have any additional questions, please feel free to contact us at any time. 
-
+If you have any additional questions, please feel free to contact us at any time.   
 [subscription@footballguys.com](mailto:subscription@footballguys.com?subject=Email%20Unsubscribe)  
 Footballguys.com  
 PO Box 937  
