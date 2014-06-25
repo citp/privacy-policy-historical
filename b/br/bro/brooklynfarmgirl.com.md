@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brooklynfarmgirl.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220030255id_/http%3A//brooklynfarmgirl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynfarmgirl.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122234id_/http%3A//brooklynfarmgirl.com/privacy) for the most accurate reproduction.*
 
 # | Brooklyn Farm Girl
 
