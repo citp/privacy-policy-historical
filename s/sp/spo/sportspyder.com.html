@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the sportspyder.com privacy policy that was archived on 2013-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206105514id_/http%3A//sportspyder.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportspyder.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625193918id_/http%3A//www.sportspyder.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta name="keywords" content="SportSpyder,sports,headlines,articles,news,rumors,search">
   <meta name="description" content="The best online source for sports news articles from around the web.">
   <meta name="robots" content="index,follow">
-  <meta name="copyright" content="Copyright 2013. SportSpyder. All Rights Reserved.">
+  <meta name="copyright" content="Copyright 2014. SportSpyder. All Rights Reserved.">
   <meta name="revisit-after" content="1">
   <meta name="viewport" content="width=1000">
   <meta name="verify-v1" content="tytd7k1iNfd2jVmxEFYcA9ZP00S8Vv8ng0j2fyJIqEU=">
@@ -21,7 +21,7 @@
 
   <title>Privacy Statement | SportSpyder</title>
   
-  <link href="/assets/application-3affa0358a1273e29328817f447e8f39.css" media="screen" rel="stylesheet" type="text/css">  
+  <link href="/assets/application-0ddd546a6d6ec41598c72d4c424c7992.css" media="screen" rel="stylesheet" type="text/css">  
   <link href="http://fonts.googleapis.com/css?family=Karla" rel="stylesheet" type="text/css">
 
   
@@ -62,6 +62,135 @@
 <!-- End comScore Tag -->
 
   <script type="text/javascript">
+/*
+Copyright 2013 Michael Countis
+
+MIT License: http://opensource.org/licenses/MIT
+*/
+
+(function(){
+	"use strict";
+
+	window.googletag = window.googletag || {};
+	window.googletag.cmd = window.googletag.cmd || [];
+	
+	googletag.cmd.push(function(){
+		
+		if(googletag.hasOwnProperty("on") || googletag.hasOwnProperty("off") || googletag.hasOwnProperty("trigger") || googletag.hasOwnProperty("events"))
+			return;
+		
+		var 	old_log = googletag.debug_log.log,
+			events = [],
+			addEvent = function(name,id,match){
+				events.push({
+					"name":name,
+					"id":id,
+					"match":match
+				});
+			};
+
+		addEvent("gpt-google_js_loaded",                    8, /Google service JS loaded/ig);
+		addEvent("gpt-gpt_fetch",                           46, /Fetching GPT implementation/ig);
+		addEvent("gpt-gpt_fetched",                         48, /GPT implementation fetched\./ig);
+		addEvent("gpt-page_load_complete",                  1, /Page load complete/ig);
+		addEvent("gpt-queue_start",                         31, /^Invoked queued function/ig);
+
+		addEvent("gpt-service_add_slot",                    40, /Associated ([\w]*) service with slot ([\/\w]*)/ig);
+		addEvent("gpt-service_add_targeting",               88, /Setting targeting attribute ([\w]*) with value ([\w\W]*) for service ([\w]*)/ig);
+		addEvent("gpt-service_collapse_containers_enable",  78, /Enabling collapsing of containers when there is no ad content/ig);
+		addEvent("gpt-service_create",                      35, /Created service: ([\w]*)/ig);
+		addEvent("gpt-service_single_request_mode_enable",  63, /Using single request mode to fetch ads/ig);
+
+		addEvent("gpt-slot_create",                         2, /Created slot: ([\/\w]*)/ig);
+		addEvent("gpt-slot_add_targeting",                  17, /Setting targeting attribute ([\w]*) with value ([\w\W]*) for slot ([\/\w]*)/ig);
+		addEvent("gpt-slot_fill",                           50, /Calling fillslot/ig);
+		addEvent("gpt-slot_fetch",                          3, /Fetching ad for slot ([\/\w]*)/ig);
+		addEvent("gpt-slot_receiving",                      4, /Receiving ad for slot ([\/\w]*)/ig);
+		addEvent("gpt-slot_render_delay",                   53, /Delaying rendering of ad slot ([\/\w]*) pending loading of the GPT implementation/ig);
+		addEvent("gpt-slot_rendering",                      5, /^Rendering ad for slot ([\/\w]*)/ig);
+		addEvent("gpt-slot_rendered",                       6, /Completed rendering ad for slot ([\/\w]*)/ig);
+
+		googletag.events = googletag.events || {};
+
+		googletag.on = function(events,op_arg0/*data*/,op_arg1/*callback*/){
+			if(!op_arg0)
+				return this;
+
+			events = events.split(" ");
+
+			var	data = op_arg1 ? op_arg0 : undefined,
+				callback = op_arg1 || op_arg0,
+				ei = 0,e = '';
+			
+			callback.data = data;
+
+			for(e = events[ei = 0]; ei < events.length; e = events[++ei])
+				(this.events[e] = this.events[e] || []).push(callback);
+
+			return this;
+		};
+
+
+		googletag.off = function(events,handler){
+			events = events.split(" ");
+			var	ei = 0,e = "",
+				fi = 0,f = function(){};
+			
+			for(e = events[ei]; ei < events.length; e = events[++ei]){
+				if(!this.events.hasOwnProperty(e))
+					continue;
+
+				if(!handler){
+					delete this.events[e];
+					continue;
+				}
+
+				fi = this.events[e].length - 1;
+				for(f = this.events[e][fi]; fi >= 0; f = this.events[e][--fi])
+					if(f == handler)
+						this.events[e].splice(fi,1);
+				if(this.events[e].length === 0)
+					delete this.events[e];
+			}
+
+			return this;
+		};
+
+
+		googletag.trigger = function(event,parameters){
+
+			if(!this.events[event] || this.events[event].length === 0)
+				return this;
+			
+			var	parameters = parameters || [],
+				fi = 0,f = this.events[event][fi];
+			
+			for(fi,f;fi < this.events[event].length;f = this.events[event][++fi])
+				if(f.apply(this,[{data:f.data}].concat(parameters)) === false)
+					break;
+
+			return this;
+		};
+
+
+		googletag.debug_log.log = function(level,message,service,slot,reference){
+			if (!message && typeof (message.getMessageId()) !== 'number') return;
+
+			var	args = Array.prototype.slice.call(arguments),
+					e = 0;
+			for(e;e < events.length; e++)
+				if(events[e].id === message.getMessageId())
+					googletag.trigger(events[e].name,args);
+			return old_log.apply(this,arguments);
+		};
+
+
+	});
+})();
+</script>
+
+  <script type="text/javascript" src="http://img.bnqt.com/lib/js/sdpdfphelper.js"></script>
+<script type="text/javascript">
   var googletag = googletag || {};
   googletag.cmd = googletag.cmd || [];
   (function() {
@@ -77,23 +206,38 @@
 
 <script type="text/javascript">
   googletag.cmd.push(function() {
-    googletag.defineSlot('/7103/SMG_SportSpyder/728x90_1a/sports/general', [728,90], 'usmg_ad__general_sports_728x90_1a').addService(googletag.pubads());
-    googletag.defineSlot('/7103/SMG_SportSpyder/160x600_1a/sports/general', [160,600], 'usmg_ad__general_sports_160x600_1a').addService(googletag.pubads());
-    googletag.defineSlot('/7103/SMG_SportSpyder/300x250_1a/sports/general', [[300,250],[300,600]], 'usmg_ad__general_sports_300x250_1a').addService(googletag.pubads());  
-    googletag.defineSlot('/7103/SMG_SportSpyder/skin/sports/general', [1,1], 'usmg_ad__general_sports_skin').addService(googletag.pubads());
-    googletag.defineSlot('/7103/SMG_SportSpyder/launchpad/sports/general', [970,66], 'usmg_ad__general_sports_launchpad').addService(googletag.pubads());
-    
-    googletag.enableServices();    
-    
+    googletag.pubads().setTargeting("title", sdpTargeting.title)
+        .setTargeting('targetPaths', sdpTargeting.targetPaths)
+        .setTargeting('fullPath', sdpTargeting.fullPath)
+        .setTargeting('queryStr', sdpTargeting.queryStr)
+        .setTargeting('domainName', sdpTargeting.domainName); 
+    googletag.defineSlot('/7103/SMG_SportSpyder/728x90_1a/sports/' + _SitePage, [728,90], 'usmg_ad__' + _SitePage + '_sports_728x90_1a').addService(googletag.pubads());
+    googletag.defineSlot('/7103/SMG_SportSpyder/160x600_1a/sports/' + _SitePage, [160,600], 'usmg_ad__' + _SitePage + '_sports_160x600_1a').addService(googletag.pubads());
+    googletag.defineSlot('/7103/SMG_SportSpyder/300x250_1a/sports/' + _SitePage, [[300,250],[300,600]], 'usmg_ad__' + _SitePage + '_sports_300x250_1a').addService(googletag.pubads());
+    googletag.defineSlot('/7103/SMG_SportSpyder/skin/sports/' + _SitePage, [1,1], 'usmg_ad_sports_skin').addService(googletag.pubads());
+    googletag.defineSlot('/7103/SMG_SportSpyder/launchpad/sports/' + _SitePage, [[970,250],[970,66],[970,90]],'usmg_ad__' + _SitePage + '_sports_launchpad').addService(googletag.pubads());
+
+    googletag.enableServices();
+
     // observe when slots are rendered
     googletag.on("gpt-slot_rendered", function(e, level, message, service, slot, reference) {
       var slotId = slot.getSlotId();
       var slot   = $("#"+slotId.getDomId());
-      var iframe = slot.children("iframe").get(0);
 
-      if ($(iframe.contentWindow.document.body).children().length > 0) {
+      // we only really care about launchad
+      if (slot.attr("id").indexOf("launchpad") == -1) { return; }
+
+      // only show if the frame isn't empty
+      var iframe = slot.find("iframe").get(0);
+      var doc = iframe.contentDocument || iframe.contentWindow.document;
+      if (doc && $(doc).find("body").children().length > 0) {
         slot.removeClass("empty");
       }
+
+      // make height of ad adjust to match ad size if user hits close on it
+      // setTimeout(function() {
+      //  slot.children("div").css({"height": "auto"});
+      //}, 4000);
     });
   });
 </script>
@@ -132,7 +276,7 @@ googletag.cmd.push(function() {
         <a href="/"><img alt="SportSpyder" height="58" src="/assets/common/logo_hi-427a41a5a6812fd2f66ffb2cace686e3.png" width="209"></a>
       </div>
 
-      <form accept-charset="UTF-8" action="/search" class="clr" id="search_bar" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="3DIOp47KmvivCS5Hd/7kRQ/2rSKJPAsU5hp91LVEXQ8="></div>
+      <form accept-charset="UTF-8" action="/search" class="clr" id="search_bar" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="JvzOKRAwCuY5wU7U5xq3FO3mf5aK801q7P2JAVqR9u0="></div>
         <input id="type" name="type" type="hidden">
         <input autocomplete="off" class="blurred" id="search_term_1" name="q" type="text" value="">
         <input id="search_button" name="commit" type="submit" value="Search">
@@ -466,13 +610,10 @@ googletag.cmd.push(function() {
                   <h2>Northwest</h2>
                   <ul>
                     <li>
-                    <a href="/teams/utah-jazz/news">Utah Jazz</a>
+                    <a href="/teams/denver-nuggets/news">Denver Nuggets</a>
                     </li>
                     <li>
                     <a href="/teams/minnesota-timberwolves/news">Minnesota Timberwolves</a>
-                    </li>
-                    <li>
-                    <a href="/teams/denver-nuggets/news">Denver Nuggets</a>
                     </li>
                     <li>
                     <a href="/teams/oklahoma-city-thunder/news">Oklahoma City Thunder</a>
@@ -480,22 +621,25 @@ googletag.cmd.push(function() {
                     <li>
                     <a href="/teams/portland-trail-blazers/news">Portland Trail Blazers</a>
                     </li>
+                    <li>
+                    <a href="/teams/utah-jazz/news">Utah Jazz</a>
+                    </li>
                   </ul>
                 </div>
                 <div class="division div_2">
                   <h2>Pacific</h2>
                   <ul>
                     <li>
-                    <a href="/teams/phoenix-suns/news">Phoenix Suns</a>
-                    </li>
-                    <li>
-                    <a href="/teams/los-angeles-lakers/news">Los Angeles Lakers</a>
+                    <a href="/teams/golden-state-warriors/news">Golden State Warriors</a>
                     </li>
                     <li>
                     <a href="/teams/los-angeles-clippers/news">Los Angeles Clippers</a>
                     </li>
                     <li>
-                    <a href="/teams/golden-state-warriors/news">Golden State Warriors</a>
+                    <a href="/teams/los-angeles-lakers/news">Los Angeles Lakers</a>
+                    </li>
+                    <li>
+                    <a href="/teams/phoenix-suns/news">Phoenix Suns</a>
                     </li>
                     <li>
                     <a href="/teams/sacramento-kings/news">Sacramento Kings</a>
@@ -506,13 +650,13 @@ googletag.cmd.push(function() {
                   <h2>Southwest</h2>
                   <ul>
                     <li>
-                    <a href="/teams/memphis-grizzlies/news">Memphis Grizzlies</a>
+                    <a href="/teams/dallas-mavericks/news">Dallas Mavericks</a>
                     </li>
                     <li>
                     <a href="/teams/houston-rockets/news">Houston Rockets</a>
                     </li>
                     <li>
-                    <a href="/teams/dallas-mavericks/news">Dallas Mavericks</a>
+                    <a href="/teams/memphis-grizzlies/news">Memphis Grizzlies</a>
                     </li>
                     <li>
                     <a href="/teams/new-orleans-pelicans/news">New Orleans Pelicans</a>
@@ -526,16 +670,16 @@ googletag.cmd.push(function() {
                   <h2>Central</h2>
                   <ul>
                     <li>
-                    <a href="/teams/indiana-pacers/news">Indiana Pacers</a>
-                    </li>
-                    <li>
-                    <a href="/teams/detroit-pistons/news">Detroit Pistons</a>
+                    <a href="/teams/chicago-bulls/news">Chicago Bulls</a>
                     </li>
                     <li>
                     <a href="/teams/cleveland-cavaliers/news">Cleveland Cavaliers</a>
                     </li>
                     <li>
-                    <a href="/teams/chicago-bulls/news">Chicago Bulls</a>
+                    <a href="/teams/detroit-pistons/news">Detroit Pistons</a>
+                    </li>
+                    <li>
+                    <a href="/teams/indiana-pacers/news">Indiana Pacers</a>
                     </li>
                     <li>
                     <a href="/teams/milwaukee-bucks/news">Milwaukee Bucks</a>
@@ -546,19 +690,19 @@ googletag.cmd.push(function() {
                   <h2>Atlantic</h2>
                   <ul>
                     <li>
-                    <a href="/teams/toronto-raptors/news">Toronto Raptors</a>
-                    </li>
-                    <li>
-                    <a href="/teams/philadelphia-76ers/news">Philadelphia 76ers</a>
-                    </li>
-                    <li>
-                    <a href="/teams/new-york-knicks/news">New York Knicks</a>
+                    <a href="/teams/boston-celtics/news">Boston Celtics</a>
                     </li>
                     <li>
                     <a href="/teams/brooklyn-nets/news">Brooklyn Nets</a>
                     </li>
                     <li>
-                    <a href="/teams/boston-celtics/news">Boston Celtics</a>
+                    <a href="/teams/new-york-knicks/news">New York Knicks</a>
+                    </li>
+                    <li>
+                    <a href="/teams/philadelphia-76ers/news">Philadelphia 76ers</a>
+                    </li>
+                    <li>
+                    <a href="/teams/toronto-raptors/news">Toronto Raptors</a>
                     </li>
                   </ul>
                 </div>
@@ -566,19 +710,19 @@ googletag.cmd.push(function() {
                   <h2>Southeast</h2>
                   <ul>
                     <li>
+                    <a href="/teams/atlanta-hawks/news">Atlanta Hawks</a>
+                    </li>
+                    <li>
                     <a href="/teams/charlotte-bobcats/news">Charlotte Bobcats</a>
-                    </li>
-                    <li>
-                    <a href="/teams/washington-wizards/news">Washington Wizards</a>
-                    </li>
-                    <li>
-                    <a href="/teams/orlando-magic/news">Orlando Magic</a>
                     </li>
                     <li>
                     <a href="/teams/miami-heat/news">Miami Heat</a>
                     </li>
                     <li>
-                    <a href="/teams/atlanta-hawks/news">Atlanta Hawks</a>
+                    <a href="/teams/orlando-magic/news">Orlando Magic</a>
+                    </li>
+                    <li>
+                    <a href="/teams/washington-wizards/news">Washington Wizards</a>
                     </li>
                   </ul>
                 </div>
@@ -1617,9 +1761,9 @@ googletag.cmd.push(function() {
 
     </div>
 
-	  <div id="home_bottom">
-	    <script type="text/javascript" src="http://ap.lijit.com///www/delivery/fpi.js?z=225083&amp;u=sportspyder&amp;width=728&amp;height=90"></script>
-	  </div>
+    <div id="home_bottom">
+      <script type="text/javascript" src="http://ap.lijit.com///www/delivery/fpi.js?z=225083&amp;u=sportspyder&amp;width=728&amp;height=90"></script>
+    </div>
   </div> <!-- /layout -->
 
   <hr>
@@ -1642,7 +1786,7 @@ googletag.cmd.push(function() {
 
     <div id="page_utils" class="clr">
       <span class="copy">
-        © 2005-2013 SportSpyder, LLC All rights reserved.
+        © 2005-2014 SportSpyder, LLC All rights reserved.
       </span>
       <span class="links">
         <a href="/about">About</a> <span class="pipe">|</span>
@@ -1665,10 +1809,7 @@ googletag.cmd.push(function() {
    <!-- /cache footer -->
 </div> <!-- /wrapper -->
 
-  <form accept-charset="UTF-8" action="/privacy" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="dTnNDm0gHahfIa7BKJ3U6L0B4bXoyM1tnM2fyJMkJnk="></div>
-    
-    
-</form>
+
     <div id="sessions_modal_new" class="sessions_modal_new modal_box" style="display: none"> 
   <div class="head clr">
   <div class="left">Please Sign in</div>
@@ -1680,7 +1821,7 @@ googletag.cmd.push(function() {
     <a href="/users/new">Don't have an account yet? Sign up →</a>
   </div>
   
-<form accept-charset="UTF-8" action="https://sportspyder.com/session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="dTnNDm0gHahfIa7BKJ3U6L0B4bXoyM1tnM2fyJMkJnk="></div>
+<form accept-charset="UTF-8" action="https://sportspyder.com/session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="02MnMuEcDRk3Io6LkeNW51nenf+fFTNzP82aL5WdCHg="></div>
   <div class="body">  
     <fieldset>
       <table class="form_table" cellspacing="0">
@@ -1719,7 +1860,7 @@ googletag.cmd.push(function() {
     <a href="/login">Already have an account? Sign in →</a>
   </div>
 
-<form accept-charset="UTF-8" action="https://sportspyder.com/users" class="new_user" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="dTnNDm0gHahfIa7BKJ3U6L0B4bXoyM1tnM2fyJMkJnk="></div>
+<form accept-charset="UTF-8" action="https://sportspyder.com/users" class="new_user" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="02MnMuEcDRk3Io6LkeNW51nenf+fFTNzP82aL5WdCHg="></div>
   <div class="body">  
     <fieldset>
       <table class="form_table" cellspacing="0">
@@ -1810,6 +1951,6 @@ if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-3.newrelic.com","b5959d03a0","3233","cF0PF0QKW18EFB5WCV1GBA1CFhhDEw9HVAVK",0,252,new Date().getTime(),"","","","",""]);</script>
+NREUMQ.push(["nrfj","beacon-3.newrelic.com","b5959d03a0","3233","cF0PF0QKW18EFB5WCV1GBA1CFhhDEw9HVAVK",0,70,new Date().getTime(),"","","","",""]);</script>
 
 <script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
