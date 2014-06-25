@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209045337id_/http%3A//www.webyield.net/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095930id_/http%3A//www.webyield.net/privacystatement.html) for the most accurate reproduction.*
 
 # WebYield Privacy Statement
 
 [ ](http://www.webyield.net/) | 
 
-Domain names only $8.99 
+Domain names only $11.99 
 
 Search by domain, keyword, or phrase
 
@@ -90,7 +90,7 @@ If we make material changes to this Policy, we will notify you here, by email, o
 
 **Contacting Our Site**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please [Contact us](https://web.archive.org/web/20131209045337id_/http%3A//www.webyield.net/contact.html)
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please [Contact us](https://web.archive.org/web/20140625095930id_/http%3A//www.webyield.net/contact.html)
 
 * * *
 
