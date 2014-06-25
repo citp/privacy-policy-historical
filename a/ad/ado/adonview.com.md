@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adonview.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810102944id_/http%3A//www.adonview.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonview.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072409id_/http%3A//www.adonview.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
-# Sydney & NSW, AUSTRALIA & NZ - ADONVIEW Classifieds
+# Sydney & NSW, AUSTRALIA - ADONVIEW Classifieds
 
 * * *
 
