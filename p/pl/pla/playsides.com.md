@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the playsides.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223082156id_/http%3A//www.playsides.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playsides.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075619id_/http%3A//playsides.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Playsides.com
 
 ## Playsides Privacy Policy
 
-This website, PlaySides.com (the "Site") is owned and operated by Secco Media, Inc. ("us," "we," or "Company"). We created this Privacy Policy ("Privacy Policy") to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
+This website, PlaySides.com (the "Site") is owned and operated by Secco Squared, Inc. ("us," "we," or "Company"). We created this Privacy Policy ("Privacy Policy") to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
 ### Information We Collect
 
@@ -27,8 +27,6 @@ This Site is directed at teenagers and adults not to children under the age of 1
 We have implemented a number of security measures to help protect against the loss, misuse or modification of information we've collected from you. Your personal information is transmitted to and stored on servers that we have taken steps to protect from unauthorized access or intrusion. We do not ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk. 
 
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. If we make material changes to the manner in which we handle your personal information, we will notify you in advance of the new policy taking effect so that you have an opportunity to review and consent to the new terms. 
-
-This site is owned and operated by 
 
 Effective Date: 04/01/2011
 
