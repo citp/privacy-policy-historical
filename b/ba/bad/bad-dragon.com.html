@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bad-dragon.com privacy policy that was archived on 2013-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131225105607id_/http%3A//bad-dragon.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bad-dragon.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625044342id_/http%3A//bad-dragon.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 		<title>Privacy Policy | Bad Dragon</title>
@@ -31,7 +31,7 @@
 		
 		#agecheck-popover #ag-container{
 			margin: auto;
-			background-image: url('http://localhost/bdfrontend/assets/images/welcome_page_ac2011.jpg');
+			background-image: url('http://cdnassets.bad-dragon.com/images/welcome_page_ac2011.jpg');
 			background-position: center top;
 			background-repeat: no-repeat;
 			min-height: 889px;
@@ -166,6 +166,7 @@
 <li><a href="http://bad-dragon.com/products/experimental" title="Experimental Toys">Experimental Toys</a></li>
 <li><a href="http://bad-dragon.com/products/prints" title="Prints of Character Artwork">Prints</a></li>
 <li><a href="http://bad-dragon.com/inventorytoys" title="Toys in Stock for Immediate Dispatch">Adoptions</a></li>
+<li><a href="https://labs.bad-dragon.com" title="Bad Dragon Labs">Bad Dragon Labs</a></li>
 <li><a href="http://forums.bad-dragon.com" title="Forums">Forums</a></li>
 <li><a href="https://contact.bad-dragon.com/index.php?/Knowledgebase/List" title="Help and Support">Help</a></li>
 <li><a href="http://bad-dragon.com/jobs" title="Bad Dragon is Hiring!">Jobs</a></li>
@@ -197,7 +198,7 @@ includes your IP Address, your browser type and version, your locally configured
 
 locale, and the pages within our web site that you visit.<br> We may at times also use 
 
-cookies, which are small pieces of information that a web site can sture in a designated file 
+cookies, which are small pieces of information that a web site can store in a designated file 
 
 on your computer. Cookies allow a web application to respond to you as an individual. By 
 
@@ -366,7 +367,7 @@ contact form.</p>
 
 
 
-				<!-- <p style="text-align: right;">Page last modified November 18th, 2011</p> -->
+				<!-- <p style="text-align: right;">Page last modified May 14th, 2014</p> -->
 			</div>
 			</div> <!-- end main content area -->
 			<div id="footnote">
@@ -377,7 +378,29 @@ contact form.</p>
 		</div><!-- end site area -->
 
 	   	<!-- begin chartbeat integration code -->
-            <script type="text/javascript" src="http://cdnassets.bad-dragon.com/js/ssloff/chartbeat.js"></script>
+		<script type="text/javascript">
+			var _sf_async_config = {
+				'uid':359,
+				'domain':'bad-dragon.com',
+				'useCanonical': true
+			};
+
+			(function() {
+				function loadChartbeat() {
+					window._sf_endpt=(new Date()).getTime();
+					var e = document.createElement('script');
+					e.setAttribute('language', 'javascript');
+					e.setAttribute('type', 'text/javascript');
+					e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+					document.body.appendChild(e);
+				}
+				var oldonload = window.onload;
+				window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() {
+					oldonload();
+					loadChartbeat();
+				};
+			})();
+		</script>
         <!-- end chartbeat integration code -->
         <!-- begin Google Analytics integration code -->
         <script type="text/javascript">
@@ -390,4 +413,4 @@ contact form.</p>
         <!-- end Google Analytics integration code -->
 	
 
-</div></body></html>
+</div><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
