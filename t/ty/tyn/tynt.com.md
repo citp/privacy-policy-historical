@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tynt.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207121549id_/http%3A//www.tynt.com//privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tynt.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104946id_/http%3A//www.tynt.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tynt
 
@@ -19,7 +19,7 @@ This Privacy Policy applies to End Users of the Site and the End Users of Publis
 
 (a) The information we gather and how we use it: The Site is primarily directed to Publishers, although we welcome End Users who want to know more about our Services. We do not collect any PII from End Users through the provision of our services. When a Publisher signs up for our site, we will collect the Publisher’s e-mail address to enable us to offer the service. A single e-mail address from the Publisher is the only Personally Identifiable Information (“ **PII** ”) that we collect and we do this only to enable login to the site and to enable us to contact the Publishers that use our Services.
 
-(b) Controlling our use of Publisher Login Information: If you have provided your email address when registering for our Site, you may modify that information at any time by visiting your account settings (https://id.tynt.com/account/account_settings). You can also delete your account at any time. You can opt out of receiving certain email communications from the Site by clicking the “Unsubscribe” link at the bottom of each email.
+(b) Controlling our use of Publisher Login Information: If you have provided your email address when registering for our Site, you may modify that information at any time by visiting your account settings (https://www.tynt.com/account/account_settings). You can also delete your account at any time. You can opt out of receiving certain email communications from the Site by clicking the “Unsubscribe” link at the bottom of each email.
 
 (c) Information Sharing: We will use a Publisher email address provided at login exclusively as follows: 
 
@@ -41,7 +41,7 @@ We operate the Services, which make link creation in copied and pasted content e
 
 
 
-(b) Controlling our use of your Non-PII: If you don’t want us to (i) enable Tynt-generated links in connection with copied content, or (ii) track your Non-PII, you can opt-out by clicking the Opt Out button on [this page](https://web.archive.org/web/20131207121549id_/http%3A//www.tynt.com//opt_out.php "Tynt Users Opt Out"). You will need to Opt-Out for each browser you use and have cookies enabled.
+(b) Controlling our use of your Non-PII: If you don’t want us to (i) enable Tynt-generated links in connection with copied content, or (ii) track your Non-PII, you can opt-out by clicking the Opt Out button on [this page](https://web.archive.org/web/20140625104946id_/http%3A//www.tynt.com/opt_out.php "Tynt Users Opt Out"). You will need to Opt-Out for each browser you use and have cookies enabled.
 
 (c) Information Sharing: We share Non-PII with other companies or individuals as follows: 
 
