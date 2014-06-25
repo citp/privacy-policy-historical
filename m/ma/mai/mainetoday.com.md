@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mainetoday.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226195444id_/http%3A//mainetoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainetoday.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626014610id_/http%3A//mainetoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy - mainetoday
 
 Your privacy is important to us. The following Privacy Policy explains the privacy practices for the Web sites operated by MaineToday Media, Inc., which include but are not limited to: pressherald.com, kjonline.com, onlinesentinel.com, mainejobs.com, mainetoday.com. Among other things, this policy informs you about the types of information we gather about you, how we may use that information, whether we disclose it to anyone else, and the choices you have regarding your information. Please be aware that the Web sites may contain links to other web sites for your convenience and information. We are not responsible for the privacy practices or the content of those sites and you should check the privacy policy of that web site sponsor.
 
@@ -16,7 +16,7 @@ The Web sites also offer opportunities to engage in activities that are visible 
 
 We may also collect personal information from you in connection with optional surveys, polls, contests or sweepstakes. Information you provide will only be shared with third parties in aggregate unless we notify you otherwise at the time of collection. If you do not want any personal information shared, you may always choose not to participate in these voluntary offers.
 
-## Non-personal information collected using technology 
+## Non-personal information collected using technology
 
 Like many other commercial web sites, MaineToday Media, Inc. collects some information automatically via server logs and “cookies,” or small files that store information in your browser on your computer. This information can include your IP address, browser type, domain names, access times and referring URLs.
 
@@ -36,7 +36,7 @@ If you choose to receive text updates from us, the information you provide to re
 
 We may contract with other companies to provide services including credit card processing, email distribution or other services. We only provide those companies with the information they require to provide their services. Those service providers are prohibited from sharing, selling or using your information for their own direct marketing purposes.
 
-If you are a print subscriber to any MaineToday Media, Inc. newspaper, we may exchange or rent your name and mailing address and certain other information (but not your email address) with other reputable companies that offer marketing information or products through the mail. If you would like to opt-out, please email [sbryan@mainetoday.com ](mailto:sbryan@mainetoday.com) or contact us by mail at MaineToday.com, Attn: Member Services, 7 Custom House Street, Floor. 5, Portland, ME 04101.
+If you are a print subscriber to any MaineToday Media, Inc. newspaper, we may exchange or rent your name and mailing address and certain other information (but not your email address) with other reputable companies that offer marketing information or products through the mail. If you would like to opt-out, please email [sbryan@mainetoday.com ](mailto:sbryan@mainetoday.com) or contact us by mail at MaineToday.com, Attn: Member Services, 7 Custom House Street, Floor. 5, Portland, ME 04101.
 
 ## Email policy
 
@@ -46,11 +46,11 @@ To opt out of receiving messages about products and services that may be of inte
 
 ## Children’s guidelines under COPPA
 
-Our sites are not intentionally targeted at children under 13, but some educational areas of our sites are targeted to middle-school and high-school age children. We require written parental consent for children under 13 to register or submit personal information on our sites. Contact [sbryan@mainetoday.com ](mailto:sbryan@mainetoday.com)for information on how to provide parental consent.
+Our sites are not intentionally targeted at children under 13, but some educational areas of our sites are targeted to middle-school and high-school age children. We require written parental consent for children under 13 to register or submit personal information on our sites. Contact [sbryan@mainetoday.com ](mailto:sbryan@mainetoday.com)for information on how to provide parental consent.
 
-• Children: Be sure to ask your parents for permission before you send any personal information about yourself to us or anyone else over the Internet.
+Children: Be sure to ask your parents for permission before you send any personal information about yourself to us or anyone else over the Internet.
 
-• Parents and guardians: We encourage you to get involved with your children’s online usage and to be aware of the activities in which they are participating.
+Parents and guardians: We encourage you to get involved with your children’s online usage and to be aware of the activities in which they are participating.
 
 ## Compliance with legal process
 
@@ -70,4 +70,4 @@ If you have any questions about this privacy policy, the practices of our Web si
 
 By email: [sbyran@mainetoday.com](mailto:sbyran@mainetoday.com)
 
-By mail: MaineToday.com, Attn: Member Services, 7 Custom House Street, Floor 5, ME 04101
+By mail: MaineToday.com, Attn: Member Services, 1 City Center, Floor 5, ME 04101
