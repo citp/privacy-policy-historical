@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the stantec.com privacy policy that was archived on 2013-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131116231924id_/http%3A//www.stantec.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stantec.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626014622id_/http%3A//www.stantec.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js no-touch backgroundsize cssanimations csstransforms csstransitions" style=""><!--<![endif]--><head>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
     
+
+
+
 
 
 
@@ -152,89 +155,6 @@
 
 
 
- 
-
-    
-    
-
-    
-    
-        
-    
-
-
-
-
-
-
-
- 
-
-    
-
-    
-        
-    
-
-
-
-
-
-
-
- 
-
-    
-
-    
-        
-    
-
-
-
- 
-
-
-
-<link rel="stylesheet" href="/static/icons/icons.data.svg.css"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/etc/designs/stantec-core/headerclientlibs.min.js"></script>
-
-
-<script type="text/javascript" src="/etc/designs/stantec-core/standardclientlibs.min.js"></script>
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -280,11 +200,98 @@
 
  
 
-<link rel="stylesheet" href="/etc/designs/stantec-core/standardclientlibs.min.css" type="text/css">
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/etc/designs/stantec-core/headerclientlibs.min.1402526176811.js"></script>
 
 
 
-<link rel="stylesheet" href="//cloud.typography.com/7276432/610802/css/fonts.css">
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+    
+    
+
+    
+    
+        
+    
+
+
+
+
+
+
+
+ 
+
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+ 
+
+    
+
+    
+        
+    
+
+
+
+ 
+
+<link rel="stylesheet" href="/etc/designs/stantec-core/standardclientlibs.min.1402526176811.css" type="text/css">
+
+
+
 
     
       
@@ -319,7 +326,12 @@
 
 
 <body>
+	<a name="top"></a>
+	<a href="#content" class="visuallyhidden">Skip to main content</a>
     
+
+
+
 
 
 
@@ -433,6 +445,9 @@
 
 
 
+
+
+
  
 
     
@@ -485,10 +500,33 @@
 
 
 
+<script type="text/javascript">
+	$(function() {
+		var currentMousePos = { x: -1, y: -1 };
+		$(document).mousemove(function(event) {
+			currentMousePos.x = event.pageX;
+			currentMousePos.y = event.pageY;
+			var yUpperThreshold = 247;
+			var yLowerThreshold = 30;
+			
+
+			if (currentMousePos.y > yUpperThreshold || currentMousePos.y < yLowerThreshold) {
+				$('.cq-global-header').find('.search-input')
+						.addClass('sb_down')
+						.removeClass('sb_up')
+						.andSelf()
+						.find('.sb_dropdown').slideUp();
+			}
+		});
+
+	});
+</script>
 
 <header class="wrapper clearfix">
     <span class="mobile-nav-trigger icon-hamburger"></span>
     <a href="/content/stantec/en.html" class="stantec-logo bg-cover">Stantec</a>
+    <a href="#content" class="visuallyhidden">skip to content</a>
+
     <nav>
         <ul>
             
@@ -499,18 +537,18 @@
                     
                     
                     
-                    <li class=""><a href="/our-work.html">View Our Work</a></li>
+                    <li class=""><a href="/our-work.html" tabindex="1">View Our Work</a></li>
                 
                     
                     
                     
-                    <li class=""><a href="/careers.html">Design Your Career</a></li>
+                    <li class=""><a href="/careers.html" tabindex="2">Design Your Career</a></li>
                 
                     
                     
                     
-                    <li class=""><a href="/about-us.html">Learn About Us</a></li>
-                
+                    <li class=""><a href="/about-us.html" tabindex="3">Learn About Us</a></li>
+                 
             
         </ul>
         
@@ -533,16 +571,25 @@
 <script>STANTEC.loadModule('header');</script>
 
 
-<form class="search-form" action="/search.html" method="get">
+<form class="search-form sb_wrapper" action="/search.html" method="get">
     
-    <input type="text" class="search-input icon-search-input" placeholder="Search" name="q">
-    <input type="submit" class="search-submit">
+    <input id="mainSearchInput" type="text" title="Search" class="search-input icon-search-input" placeholder="Search" name="q" autocomplete="off">
+	<ul class="sb_dropdown" style="display:none;">
+		<li class="sb_filter">Filter your search</li>
+		<li><input id="office-locations" type="checkbox" value="office-locations" name="searchFilter"><label for="office-locations">Office Locations</label></li>
+		<li><input id="people" type="checkbox" value="people" name="searchFilter"><label for="people">People</label></li>
+	</ul>
+    
 </form>
 </div>
 
 </div>
 
+    <a name="content" class="visuallyhidden">Start of main content</a>
     
+
+
+
 
 
 
@@ -627,6 +674,9 @@
 			<div class="col_12 alpha omega">
 				<!-- begin breadcrumb -->
 				<div class="cq-breadcrumb">
+
+
+
 
 
 
@@ -750,6 +800,9 @@
 
 
 
+
+
+
  
 
     
@@ -804,6 +857,9 @@
 
             <!-- Including component name: columns_full_width -->
             <div class="parbase columns-full-width section">
+
+
+
 
 
 
@@ -926,6 +982,9 @@
 
 
 
+
+
+
  
 
     
@@ -989,6 +1048,9 @@
         </div></div><div class="col_container liquid clearfix"><div class="col_12 alpha omega">
             <!-- Including component name: text -->
             <div class="cq-text section">
+
+
+
 
 
 
@@ -1170,6 +1232,9 @@ Ph: (613) 995-8210<br>
 
 
 
+
+
+
  
 
     
@@ -1220,7 +1285,7 @@ Ph: (613) 995-8210<br>
     <div id="project-near-1" class="module project-near">
         <div class="accordion-toggle">
           <h3 class="title-trigger"><span class="bp-small-hide">View </span> A Project Near You</h3> 
-          <a class="icon-box icon-accordion-open" href="#"></a>
+          <a class="icon-box icon-accordion-open" href="#"><span class="visuallyhidden">Find Stantec projects near you</span></a>
         </div>
         <div class="content"></div>
     </div>
@@ -1244,7 +1309,12 @@ Ph: (613) 995-8210<br>
 </div>
 
 </div>
+    <a name="endcontent" class="visuallyhidden">End of main content</a>
+    <a name="top" class="visuallyhidden">To top</a>
     
+
+
+
 
 
 
@@ -1357,6 +1427,9 @@ Ph: (613) 995-8210<br>
 
 
 
+
+
+
  
 
     
@@ -1435,11 +1508,11 @@ Ph: (613) 995-8210<br>
             
                 <li><a href="/about-us/contact.html">Contact Us</a></li>
             
-                <li><a href="/about-us/leadership-team/sector-leaders.html">Sector Leaders</a></li>
+                <li><a href="/about-us/leadership-team/sector-discipline-leaders.html">Sector/Discipline Leaders</a></li>
             
-                <li><a href="/about-us/leadership-team/regional-leaders.html">Regional Leaders</a></li>
+                <li><a href="/about-us/leadership-team/geographic-regional-leaders.html">Geographic/Regional Leaders</a></li>
             
-                <li><a href="/about-us/leadership-team/practice-disciplineleaders.html">Practice/Discipline Leaders</a></li>
+                <li><a href="/about-us/leadership-team/business-line-leaders.html">Business Line Leaders</a></li>
             
         </ul>
 
@@ -1458,7 +1531,7 @@ Ph: (613) 995-8210<br>
 </footer>
 </div>
 
-<script src="/static/js/stantec.min.js"></script>
+<script src="/static/js/stantec.min.js?v=1402526176811"></script>
 
 
 
@@ -1469,7 +1542,6 @@ Ph: (613) 995-8210<br>
     
 
     
-
 
 
 
