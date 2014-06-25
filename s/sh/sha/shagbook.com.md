@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shagbook.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031044831id_/http%3A//vip.shagbook.com/help/privacy.cfm%3Fwldsite%3D4869) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shagbook.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101143id_/http%3A//vip.shagbook.com/help/privacy.cfm%3Fwldsite%3D4869) for the most accurate reproduction.*
 
 # Shagbook® :: Shagbook® Member Privacy Policy
 
