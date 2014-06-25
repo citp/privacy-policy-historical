@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdrf.org privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225050117id_/http%3A//jdrf.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdrf.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015918id_/http%3A//jdrf.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JDRF: Improving Lives. Curing Type 1 Diabetes
 
