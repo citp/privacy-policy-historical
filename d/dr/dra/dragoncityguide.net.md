@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the dragoncityguide.net privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101170537id_/http%3A//dragoncityguide.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragoncityguide.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063712id_/http%3A//dragoncityguide.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dragon City Guide
 
-Privacy Policy 5.00/5 (100.00%) 3 votes 
-
 Privacy Policy for [dragoncityguide.net](http://dragoncityguide.net/)
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@dragoncityguide.net.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at josephseeley@gmail.com.
 
 At [dragoncityguide.net](http://dragoncityguide.net/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by [dragoncityguide.net](http://dragoncityguide.net/) and how it is used.
 
