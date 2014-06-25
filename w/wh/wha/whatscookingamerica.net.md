@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatscookingamerica.net privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015223812id_/http%3A//whatscookingamerica.net/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatscookingamerica.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055645id_/http%3A//whatscookingamerica.net/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # What's Cooking America Privacy Policy
 
