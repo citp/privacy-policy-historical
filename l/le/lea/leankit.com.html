@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the leankit.com privacy policy that was archived on 2013-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131202030856id_/http%3A//info.leankit.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leankit.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625074839id_/http%3A//info.leankit.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" class="no-js"><!--<![endif]--><head>
   <script src="//cdn.optimizely.com/js/341765241.js"></script>
@@ -24,7 +24,8 @@
 
   <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
   <script type="text/javascript" src="http://leankit.com/eloqua/landing-page-assets/analytics.js"></script>
-	<script type="text/javascript" src="http://leankit.com/eloqua/landing-page-assets/process-trial.js"></script>
+  <script type="text/javascript" src="http://leankit.com/eloqua/landing-page-assets/jquery.cookie.js"></script>
+  <script type="text/javascript" src="http://leankit.com/eloqua/landing-page-assets/cookie.js"></script>
 
 </head>
 
@@ -76,21 +77,19 @@
    
       
     
-    <!-- ClickTale Bottom part -->
-
-    <div id="ClickTaleDiv" style="display: none;"></div>
-    <script type="text/javascript">
-    document.write(unescape("%3Cscript%20src='"+
-   (document.location.protocol=='https:'?
-    'https://clicktalecdn.sslcs.cdngc.net/www/':
-    'http://s.clicktale.net/')+
-     "WRd.js'%20type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://clicktalecdn.sslcs.cdngc.net/www/WRd.js" type="text/javascript"></script><script src="https://clicktalecdn.sslcs.cdngc.net/www/WRd.js" type="text/javascript"></script>
-    <script type="text/javascript">
-    var ClickTaleSSL=1;
-    if(typeof ClickTale=='function') ClickTale(14074,0.0342,"www14");
-    </script>
-
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+document.write(unescape("%3Cscript%20src='"+
+ (document.location.protocol=='https:'?
+  'https://clicktalecdn.sslcs.cdngc.net/www/':
+  'http://s.clicktale.net/')+
+ "WRd.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://clicktalecdn.sslcs.cdngc.net/www/WRd.js" type="text/javascript"></script>
+<script type="text/javascript">
+var ClickTaleSSL=1;
+if(typeof ClickTale=='function') ClickTale(14074,0.5,"www14");
+</script>
 <!-- ClickTale end of Bottom part -->
     
     <div id="companies-wrap">
@@ -110,16 +109,16 @@
 			<div id="connect">
 				<h3>Connect with Us</h3>
 				<ul>
-					<li class="twitter"><a href="https://twitter.com/leankit?elq=00000000000000000000000000000000&amp;elqCampaignId=">Twitter</a></li>
+					<li class="twitter"><a href="http://twitter.com/leankit?elq=00000000000000000000000000000000&amp;elqCampaignId=">Twitter</a></li>
 					<li class="linkedin"><a href="http://www.linkedin.com/company/leankit?elq=00000000000000000000000000000000&amp;elqCampaignId=">LinkedIn</a></li>
-					<li class="youtube"><a href="http://www.youtube.com/channel/UCE0T9xHlk4fXAhjnjop6BLg/videos?elq=00000000000000000000000000000000&amp;elqCampaignId=#">Youtube</a></li>
-					<li class="facebook"><a href="https://www.facebook.com/leankit?elq=00000000000000000000000000000000&amp;elqCampaignId=">Facebook</a></li>
+					<li class="youtube"><a href="http://www.youtube.com/LeanKitInc?elq=00000000000000000000000000000000&amp;elqCampaignId=">Youtube</a></li>
+					<li class="facebook"><a href="http://www.facebook.com/leankit?elq=00000000000000000000000000000000&amp;elqCampaignId=">Facebook</a></li>
 				</ul>
 			</div>
 			<div id="legal">
 				<h3>Legal Stuff</h3>
 				<p>Copyright © 2013 LeanKit Inc. <br>All rights reserved.<br>
-				<a href="http://info.leankit.com/refund-policy?elq=00000000000000000000000000000000&amp;elqCampaignId=">Refund Policy</a> | <a href="http://info.leankit.com/license-agreement?elq=00000000000000000000000000000000&amp;elqCampaignId=">License Agreement</a> | <a href="http://info.leankit.com/privacy-policy?elq=00000000000000000000000000000000&amp;elqCampaignId=">Privacy Policy</a></p>
+				<a href="http://info.leankit.com/refund-policy?elq=00000000000000000000000000000000&amp;elqCampaignId=">Refund Policy</a> | <a href="http://info.leankit.com/subscription-agreement?elq=00000000000000000000000000000000&amp;elqCampaignId=">Subscription Agreement</a> | <a href="http://info.leankit.com/privacy-policy?elq=00000000000000000000000000000000&amp;elqCampaignId=">Privacy Policy</a></p>
 			</div>
 		</div>
 	</div>
@@ -168,10 +167,11 @@ if (navigator.appName == 'Netscape' || navigator.appName == 'Opera'){
 <script type="text/javascript">
 <!--
 if (navigator.appName == 'Netscape' || navigator.appName == 'Opera'){
-     document.write('<layer hidden=true><img src="http://s1828329459.t.eloqua.com/visitor/v200/svrGP?pps=60&siteid=1828329459&PURLSiteID=1&optin=disabled&PURLSiteAlternateDNSID=0&LandingPageID=74&PURLRecordID=0&PURLGUID=8A4C5A52F69E4CBFA23B15ECCB4176CF&UseRelativePath=True&elq={00000000-0000-0000-0000-000000000000}&elq_ck=0" border=0 width=1 height=1 ><\/layer>');
+     document.write('<layer hidden=true><img src="http://s1828329459.t.eloqua.com/visitor/v200/svrGP?pps=60&siteid=1828329459&PURLSiteID=1&optin=disabled&PURLSiteAlternateDNSID=0&LandingPageID=74&PURLRecordID=0&PURLGUID=B25E1115CD0441F1AB63843139CCB49A&UseRelativePath=True&elq={00000000-0000-0000-0000-000000000000}&ref=http%3a%2f%2fleankit.com%2f&elq_ck=0" border=0 width=1 height=1 ><\/layer>');
 }else{
-     document.write('<img style="display:none" src="http://s1828329459.t.eloqua.com/visitor/v200/svrGP?pps=60&siteid=1828329459&PURLSiteID=1&optin=disabled&PURLSiteAlternateDNSID=0&LandingPageID=74&PURLRecordID=0&PURLGUID=8A4C5A52F69E4CBFA23B15ECCB4176CF&UseRelativePath=True&elq={00000000-0000-0000-0000-000000000000}&elq_ck=0" border=0 width=1 height=1 >');
+     document.write('<img style="display:none" src="http://s1828329459.t.eloqua.com/visitor/v200/svrGP?pps=60&siteid=1828329459&PURLSiteID=1&optin=disabled&PURLSiteAlternateDNSID=0&LandingPageID=74&PURLRecordID=0&PURLGUID=B25E1115CD0441F1AB63843139CCB49A&UseRelativePath=True&elq={00000000-0000-0000-0000-000000000000}&ref=http%3a%2f%2fleankit.com%2f&elq_ck=0" border=0 width=1 height=1 >');
 }
+
 -->
-</script><layer hidden="true"><img src="http://s1828329459.t.eloqua.com/visitor/v200/svrGP?pps=60&amp;siteid=1828329459&amp;PURLSiteID=1&amp;optin=disabled&amp;PURLSiteAlternateDNSID=0&amp;LandingPageID=74&amp;PURLRecordID=0&amp;PURLGUID=8A4C5A52F69E4CBFA23B15ECCB4176CF&amp;UseRelativePath=True&amp;elq={00000000-0000-0000-0000-000000000000}&amp;elq_ck=0" border="0" width="1" height="1"></layer>
+</script><layer hidden="true"><img src="http://s1828329459.t.eloqua.com/visitor/v200/svrGP?pps=60&amp;siteid=1828329459&amp;PURLSiteID=1&amp;optin=disabled&amp;PURLSiteAlternateDNSID=0&amp;LandingPageID=74&amp;PURLRecordID=0&amp;PURLGUID=B25E1115CD0441F1AB63843139CCB49A&amp;UseRelativePath=True&amp;elq={00000000-0000-0000-0000-000000000000}&amp;ref=http%3a%2f%2fleankit.com%2f&amp;elq_ck=0" border="0" width="1" height="1"></layer>
 </body></html>
