@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jobapplicationmatch.org privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129145401id_/http%3A//www.jobapplicationmatch.org/landing/misc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobapplicationmatch.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052858id_/http%3A//jobapplicationmatch.org/landing/misc/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy for jobapplicationmatch.org.
 
-Last updated March 20, 2011. 
+Last updated January 6th, 2014.
 
 This Privacy Policy governs your use of this Website and any content, products or services made available from or through this website including any sub domains thereof ("Website"). The operator of the Website is referred to as "Company."
 
@@ -16,15 +16,17 @@ Information Collection, Use, and Dissemination practices.
 
 #### 1.0. Collection of Information.
 
-1.1. User Direct Information. Each time you provide or transmit information via the Website, Company may obtain and collect personal information about you, including, but not limited to, your name, email address, mailing address, social security number, credit card information, bank account information and telephone or cell phone number (collectively referred to as "Personal Information"). 
+1.1. User Direct Information. Each time you provide or transmit information via the Website, Company may obtain and collect personal information about you, including, but not limited to, your name, email address, mailing address, and telephone or cell phone number (collectively referred to as "Personal Information"). 
 
-1.2. Other Methods of Collecting Personal Information. Other occasions when Company obtains information from you include: (1) when you claim a prize or seek to redeem an offer by Company or by a third party; (2) when you request assistance through Company's customer service department; and (3) when you voluntarily subscribe to a Company service or newsletter. 
+1.2. Other Methods of Collecting Personal Information. Other occasions when Company obtains information from you include: (1) when you request assistance through Company's customer service department; and (2) when you voluntarily subscribe to a Company service or newsletter. 
 
-1.3. Cookies, Web Beacons, and Other Info Collected Using Technology. Company currently uses cookie and web beacon technology to associate certain Internet-related information about you with information about you in its database. Additionally, Company may use other new and evolving sources of information in the future. 
+1.3. Cookies, Web Beacons, and Other Info Collected Using Technology. Company currently uses cookie and web beacon technology to associate certain Internet-related information about you with information about you in its database.
 
 (a) Cookies. "Cookies" are a feature in your browser software. If enabled, we may write cookies that may store small amounts of data on your computer about your visit to any of the pages of this Site. Cookies assist us in tracking which of our features appeal the most to you and what content you may have viewed on past visits. When you visit this site again, cookies can enable us to customize our content according to your preferences. We may use cookies to: keep track of the number of return visits to this site; accumulate and report aggregate, statistical information on website usage; deliver specific content to you based on your interests or past viewing history; save your password for ease of access to our Site. You can disable cookies, although the Site may not function properly for you. Your browser preferences can be modified to accept or reject all cookies, or request a notification when a cookie is set. You may read more about cookies at http://cookiecentral.com. In order to use all of the features and functionality of Company's websites, you need to accept cookies. 
 
-(a1) Third Party Cookies. We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to http://www.aboutads.info/choices.
+(a1) Third Party Cookies. We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices> and <http://www.networkadvertising.org/choices/>
+
+(a2) Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to http://www.aboutads.info/choices.
 
 (b) Web Beacons. A web beacon is a programming code that can be used to display an image on a web page, but can also be used to transfer your unique user identification to a database and associate you with previously acquired information about an individual in a database. This allows Company to track certain websites you visit. Web beacons are used to track online behavioral habits for marketing purposes to determine products or services you may be interested in. In addition to using web beacons on web pages, Company also uses web beacons in email messages sent to individuals listed in Company's database. 
 
@@ -34,11 +36,7 @@ Information Collection, Use, and Dissemination practices.
 
 (e) Data Analysis. Data Analysis technology may be employed from time to time if used by a Client of Company. 
 
-(f) New Technology. The use of technology on the Internet, including cookies and web beacons, is rapidly developing. As a result, Company strongly encourages individuals to revisit this policy for any updates regarding its use of new technology. 
-
 1.3. No Information Collected from Children. Company will never knowingly collect any Personal Information about children under the age of 13. If Company obtains actual knowledge that it has collected Personal Information about a child under the age of 13, that information will be immediately deleted from its database. Because it does not collect such information, Company has no such information to use or to disclose to third parties. 
-
-1.4. Credit Card Information and Bank Account Information. Company may, in certain instances, collect credit card numbers, bank account information and related information when an individual places an order on Company's Website. When the credit card or bank account information is submitted to Company, such information is encrypted and is protected with SSL encryption software. Company will use the credit card information or bank account information for purposes of processing and completing the transaction you requested on the Website, and the credit card information or bank account information will be disclosed to third parties as necessary to complete the requested purchase transaction. 
 
 #### 2.0. Use of Personal Information.
 
@@ -80,7 +78,7 @@ To the extent that you are accessing the Website while domiciled outside of the 
 
 #### 5.0 Security
 
-We endeavor to safeguard and protect your information. When you submit information at the website, such information is protected both online and offline. The servers in which we store Personal Information are kept in a secure physical environment. Company has security measures in place to protect against the loss, misuse, and alteration of personal information under our control. Currently, Company uses Secure Socket Layer Software ("SSL") to protect data and to secure any transactions. SSL encrypts information, including credit card numbers, names and addresses as they are transmitted over the Internet. Please be advised that, although Company takes reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, Company cannot and does not warrant that your information will be absolutely secure. Any transmission of data at or through our website is at your own risk. However, access to your information is strictly limited, and not accessible to the public.
+We endeavor to safeguard and protect your information. When you submit information at the website, such information is protected both online and offline. The servers in which we store Personal Information are kept in a secure physical environment. Company has security measures in place to protect against the loss, misuse, and alteration of personal information under our control. Currently, Company uses Secure Socket Layer Software ("SSL") to protect data and to secure any transactions. SSL encrypts information, names and addresses as they are transmitted over the Internet. Please be advised that, although Company takes reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, Company cannot and does not warrant that your information will be absolutely secure. Any transmission of data at or through our website is at your own risk. However, access to your information is strictly limited, and not accessible to the public.
 
 #### 6.0 Choice/Opt-out
 
@@ -94,4 +92,4 @@ Customer Care Contact Information: http://www.jobapplicationmatch.org/landing/mi
 
 California Civil Code Section 1798.83 permits California residents who have provided Personal Information to Company or third parties under a list management arrangement with Company to request certain information regarding Company's disclosure of such information to third parties for their direct marketing purposes. Within thirty days of receiving such a request, we will provide a list of the categories of Personal Information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this section. If you have questions about this policy, please contact us at http://www.jobapplicationmatch.org/landing/misc/feedback.php. 
 
-2011 **_Jobapplicationmatch.org_**. All Rights Reserved.
+2014 **_Jobapplicationmatch.org_**. All Rights Reserved.
