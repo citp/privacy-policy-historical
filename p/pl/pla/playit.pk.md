@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playit.pk privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112232427id_/http%3A//playit.pk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playit.pk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121949id_/http%3A//playit.pk/privacy) for the most accurate reproduction.*
 
 # PlayIt.pk - Fill your video appetite.
 
@@ -6,7 +6,7 @@
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-We do not store or share usernames, profile pics, emails or any other information except user ids, retrieved from Facebook. We take privacy very seriously. 
+We do not store or share usernames, profile pics or any other private information except user id & email (which is public). We take privacy very seriously. 
 
 Our site relies on oAuth and you will never be encouraged or asked to share your password under any circumstances. You can de-authorize our application anytime by visiting Privacy section in your Facebook profile settings.
 
@@ -14,14 +14,13 @@ Our site relies on oAuth and you will never be encouraged or asked to share your
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-; To publish videos on your wall  
-; To publish videos on pages you administer
+; To send product updates
 
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
 ### Do we use cookies?
 
-We do not use cookies.
+We do use cookies but over SSL only.
 
 ### Do we disclose any information to outside parties?
 
@@ -37,7 +36,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Your Consent
 
-By using our site, you consent to our [web site privacy policy](https://web.archive.org/web/20131112232427id_/http%3A//playit.pk/privacy.php).
+By using our site, you consent to our [web site privacy policy](https://web.archive.org/web/20140625121949id_/http%3A//playit.pk/privacy.php).
 
 ### Changes to our Privacy Policy
 
@@ -48,4 +47,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.playit.pk  
-info@playit.pk
+contact@playit.pk
