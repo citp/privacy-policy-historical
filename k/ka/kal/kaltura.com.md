@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaltura.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517060025id_/http%3A//corp.kaltura.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaltura.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172316id_/http%3A//corp.kaltura.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kaltura
 
@@ -109,7 +109,7 @@ Kaltura greatly respects its users’ privacy and is committed to protect the pe
 
   * Kaltura adheres to the US-EU Safe Harbor and US-Swiss Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program (<http://www.export.gov/safeharbor>).
 
-  * Any questions or concerns regarding the use or disclosure of your information should be directed to Kaltura by e-mailing us at [legal@kaltura.com](mailto:legal@kaltura.com). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. European Union and Swiss Residents, unresolved complaints shall be submitted to binding arbitration in front of the American Arbitration Association (“AAA”). Information about AAA services can be found at its website: [www.adr.org](http://www.adr.org/). The exclusive location for such arbitration shall be New York, NY, United States.
+  * Any questions or concerns regarding the use or disclosure of your information should be directed to Kaltura by e-mailing us at [legal@kaltura.com](mailto:legal@kaltura.com). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. European Union and Swiss Residents, unresolved complaints shall be submitted to binding arbitration in front of the American Arbitration Association (“AAA”). Information about AAA services can be found at its website: www.adr.org. The exclusive location for such arbitration shall be New York, NY, United States.
 
   * Kaltura is also subject to the jurisdiction of the US Federal Trade Commission. The Federal Trade Commission may be contacted at the following address:
 
@@ -126,7 +126,7 @@ Washington, DC 20580
 
 Email: [consumerline@ftc.gov](mailto:consumerline@ftc.gov)
 
-[www.ftc.gov](http://www.ftc.gov/)
+www.ftc.gov
 
 **Changes to this Privacy Policy**
 
