@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the southparkstudios.co.uk privacy policy that was archived on 2013-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131107073320id_/http%3A//www.southparkstudios.co.uk/about/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the southparkstudios.co.uk privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625132942id_/http%3A//www.southparkstudios.co.uk/about/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# ">
 		
 			<title>Privacy Policy  - South Park Studios UK &amp; Ireland</title>
 			
-				
+			
 			
 		
 		<meta charset="UTF-8">
@@ -99,7 +99,7 @@ _gaq.push(['_trackPageview']);
 	
 		
 		<script>
-		
+
 		    window.fbAsyncInit = function() {
           // init the FB JS SDK
           FB.init({
@@ -108,56 +108,57 @@ _gaq.push(['_trackPageview']);
             status     : true,                                 // Check Facebook Login status
             xfbml      : true                                  // Look for social plugins on the page
           });
-      
+
           // Additional initialization code such as adding Event Listeners goes here
-          
+
           FB.Event.subscribe('edge.create',function(response) {
-            
-            console.log("------------------ Like button clicked, but need to get the url + stuff ------------------------");
-            
+
+            console.log("------------------ Like button clicked, ------------------------");
+
             $.get(response, function(data, textStatus, jqXHR){
-			 			 
+
               var titleEm = $(data).filter("title");
-              
+
               //console.dir(titleEm);
-              
+
               var title = $(titleEm).text();//.replace(' - South Park Studios').trim();
-              
+
               var s = {};
-              
+
+              console.log("Prepping Like Button data");
+
               s.events = 'event9';
-              s.eVar9 = this.url; 
+              s.eVar9 = this.url;
               s.eVar16 = title;//change to page_name or video title
               s.eVar19 = 'share_fblike';
               s.linkName = this.url;
               s.linkType= 'o';
               s.pev2 = 'share';
-              
-              console.log("Sending like share to Omniture: ");
-              console.dir(s);
-              
+
+              console.log("Facebook Click data: ", s);
+
               mtvn.btg.Controller.sendLinkEvent(s);
-              
+
               console.log("Sent omniture data;");
-              
+
             });
           });
-          
+
           FB.Event.subscribe('xfbml.render', function(response) {
-            console.log("------------------ Created a Like button... I think ------------------------");
+            console.log("Like Button Rendered");
           });
-          
+
         };
-			
+
 			(function() {
       	var e = document.createElement('script');
       	e.src = document.location.protocol + '//connect.facebook.net//all.js';
       	e.async = true;
       	document.getElementById('fb-root').appendChild(e);
       }());
-		
-		
-		
+
+
+
 		</script>
 		
 		
@@ -191,9 +192,10 @@ _gaq.push(['_trackPageview']);
 
 				
 				<div id="logo" data-reportingname="returntohome">
-					<div id="avatar"><a href="/"><img alt="Jimbo Face" src="http://southparkstudios.mtvnimages.com/shared/rotations/faces/jimbo.png"></a></div>
-                	<a href="/"><span class="phrase">South Park Studios</span></a>
+					<div id="avatar"><a href="/"><img alt="067 Face" src="http://southparkstudios.mtvnimages.com/shared/rotations/faces/067.png"></a></div>
+                	<a id="nav-logo-classic" href="/"><span class="phrase">South Park Studios</span></a>
                 </div>
+
 
 				
 				
@@ -479,19 +481,19 @@ _gaq.push(['_trackPageview']);
 			</ol>
 			<span>Popular Clips</span>
 			<ol>
-				<li><a href="http://www.southparkstudios.co.uk/clips/5dia2o/gangnamstein">GangnamStein</a></li>
-				<li><a href="http://www.southparkstudios.co.uk/clips/77i3lp/my-dark-little-princess">My Dark Little Princess</a></li>
-				<li><a href="http://www.southparkstudios.co.uk/clips/uygssh/the-government-wont-respect-my-privacy">The Government Won't Respect My Privacy</a></li>
-				<li><a href="http://www.southparkstudios.co.uk/clips/48rjoy/cartmans-nightmare">Cartman's Nightmare</a></li>
 				<li><a href="http://www.southparkstudios.co.uk/clips/104356/the-plane-arium">The Plane-arium</a></li>
+				<li><a href="http://www.southparkstudios.co.uk/clips/152832/red-rocket">Red Rocket</a></li>
+				<li><a href="http://www.southparkstudios.co.uk/clips/c883qc/nobody-likes-a-girl-whos-jelly">Nobody Likes A Girl Who's Jelly</a></li>
+				<li><a href="http://www.southparkstudios.co.uk/clips/103666/idea-balls">Idea Balls</a></li>
+				<li><a href="http://www.southparkstudios.co.uk/clips/j6272u/ginger-cow-in-the-news">Ginger Cow In The News</a></li>
 			</ol>
 			<span>Popular Characters</span>
 			<ol>
+				<li><a href="http://www.southparkstudios.co.uk/guide/characters/kenny-mccormick">Kenny McCormick</a></li>
 				<li><a href="http://www.southparkstudios.co.uk/guide/characters/eric-cartman">Eric Cartman</a></li>
-				<li><a href="http://www.southparkstudios.co.uk/guide/characters/goths">Goths</a></li>
-				<li><a href="http://www.southparkstudios.co.uk/guide/characters/damien">Damien</a></li>
-				<li><a href="http://www.southparkstudios.co.uk/guide/characters/clyde-donovan">Clyde Donovan</a></li>
-				<li><a href="http://www.southparkstudios.co.uk/guide/characters/dogpoo">DogPoo</a></li>
+				<li><a href="http://www.southparkstudios.co.uk/guide/characters/stan-marsh">Stan Marsh</a></li>
+				<li><a href="http://www.southparkstudios.co.uk/guide/characters/kyle-broflovski">Kyle Broflovski</a></li>
+				<li><a href="http://www.southparkstudios.co.uk/guide/characters/leopold-butters-stotch">Leopold "Butters" Stotch</a></li>
 			</ol>
 		</nav>
 
@@ -521,14 +523,14 @@ _gaq.push(['_trackPageview']);
         <div id="copyright">
         	
 				
-				<p>©2013 South Park Digital Studios LLC. All Rights Reserved.</p><p>SOUTH PARK ©2013 Comedy Partners. All Rights Reserved. Comedy Central, South Park and all related titles, logos and characters are trademarks of Comedy Partners.</p>
+				<p>©2014 South Park Digital Studios LLC. All Rights Reserved.</p><p>SOUTH PARK ©2014 Comedy Partners. All Rights Reserved. Comedy Central, South Park and all related titles, logos and characters are trademarks of Comedy Partners.</p>
 							
 		</div>              
 	</footer>		</div>
 
 
 
-	
+
 
 
 
@@ -564,6 +566,8 @@ mtvn.btg.Controller.placeAd({size: "1x1", isReloadable:false});
 		<script src="/layout/skin_v3jq/js/sitewide.js" type="text/javascript"></script>
 
   <script type="text/javascript" src="/layout/skin_v3jq/js/pages/legal.js"></script>
+
+
 
 
 
