@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprint.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010125205id_/http%3A//www.sprint.com/legal/privacy.html%3FINTNAV%3DATG%3AFT%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprint.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131608id_/http%3A//www.sprint.com/legal/privacy.html%3FINTNAV%3DATG%3AFT%3APrivacy) for the most accurate reproduction.*
 
 # Legal / Regulatory & Consumer Resources
 
@@ -9,6 +9,7 @@ This Privacy Policy ("Policy") describes how Sprint Corporation ("Sprint") will 
   * INFORMATION WE SHARE
   * NETWORK AND INFORMATION SECURITY
   * INFORMATION CHOICES AND CHANGES
+  * CHILDREN
   * CONTACTING US 
   * UPDATING THIS POLICY 
   * YOUR CALIFORNIA PRIVACY RIGHTS
@@ -18,11 +19,11 @@ This Privacy Policy ("Policy") describes how Sprint Corporation ("Sprint") will 
 
 ### INFORMATION COLLECTED
 
-We collect personal information about you in various ways. We may also get information from other sources and may combine it with information we collect about you. Personal information does not include information that is not used to identify you, including aggregate or anonymous information.
+We collect personal information about you in various ways. We may also get information from other sources, including from affiliates, and may combine it with information we collect about you. Personal information does not include information that is not used to identify you, including aggregate or anonymous information.
 
-Information you give us. The personal information we collect includes information you give us, such as name, postal address, telephone number, e-mail address, date of birth, social security number or other government identification number, demographics, activities, location information, and personal preferences. You may give us information in a variety of ways, including when you sign up for Services, communicate with customer care or register on [www.sprint.com](http://www.sprint.com/). 
+_Information you give us_. The personal information we collect includes information you give us, such as name, postal address, telephone number, e-mail address, date of birth, social security number or other government identification number, demographics, activities, location information, and personal preferences. You may give us information in a variety of ways, including when you sign up for Services, communicate with customer care or register on [www.sprint.com](http://www.sprint.com/). 
 
-Information that we automatically collect. We automatically receive certain types of information whenever you use our Services. We may collect information about your device such as the type, version of operating system, signal strength, whether it is on and how it is functioning, as well as information about how you use the device and services available through it, such as your call and data usage and history, your location, web sites you have visited, applications purchased, applications downloaded or used, and other similar information. We may link information we automatically collect with personal information, such as information you give us at registration or check out. We may use systems or tools to follow your use of our Services and other applications, including using cookies, web beacons and other mechanisms, along with analysis of network and device information. For example, we allow collection by analytic service provider(s) of site click-stream and cookie data to help us track aggregate and individual use of our Services. We sometimes use cookies to enable features on our sites, such as the ability to save your shopping cart or set preferences. Advertisers and advertising networks that serve ads on our sites may also use their own mechanisms, including cookies. These third party cookies or tools are governed by the privacy policies of the entities placing the ads and are not subject to this Policy. 
+_Information that we automatically collect_. We automatically receive certain types of information whenever you use our Services. We may collect information about your device such as the type, version of operating system, signal strength, whether it is on and how it is functioning, as well as information about how you use the device and services available through it, such as your call and data usage and history, your location, web sites you have visited, applications purchased, applications downloaded or used, and other similar information. We may link information we automatically collect with personal information, such as information you give us at registration or check out. We may use systems or tools to follow your use of our Services and other applications, including using cookies, web beacons and other mechanisms, along with analysis of network and device information. For example, we allow collection by analytic service provider(s) of site click-stream and cookie data to help us track aggregate and individual use of our Services. We sometimes use cookies to enable features on our sites, such as the ability to save your shopping cart or set preferences. Advertisers and advertising networks that serve ads on our sites may also use their own mechanisms, including cookies. These third party cookies or tools are governed by the privacy policies of the entities placing the ads and are not subject to this Policy. 
 
 Back to top
 
@@ -45,7 +46,9 @@ Back to top
 
 ### INFORMATION WE SHARE
 
-We do not share your personal information with third parties other than as follows:
+We do not share information that identifies you personally with third parties other than as follows:
+
+Affiliates. We may share personal and non-personal information with affiliated entities for approved business purposes.
 
 Service Providers. We may share personal information with third parties who perform services on our behalf.
 
@@ -72,7 +75,7 @@ Protection of Sprint and Others. We may access, monitor, use or disclose your pe
 We may share information that is de-identified or in an aggregated form that does not directly identify you. We share de-identified or aggregate information for purposes such as to:
 
   * Conduct market or traffic flow analysis and reporting or produce or facilitate production by others of business and marketing reports to share with third parties. For example, we may aggregate customer information across a particular region and create a report showing that 10,000 subscribers from a given city visited a sports stadium. If you do not wish for us to use your information to produce de-identified and aggregated data sets in the reports we share with third parties, you may opt out at any time. See [sprint.com/privacy](http://www.sprint.com/privacy) for details.
-  * With your opt-in consent only, customize or personalize advertising you see when using your wireless device to access the internet or mobile applications. We may use information about your mobile web browsing to deliver more relevant advertisements tailored to your interests, and we may share de-identified information with third parties so that they can tailor their advertising to your interests. To receive ads more relevant to your interests, you must opt in to this use and sharing of your information. See [sprint.com/privacy](http://www.sprint.com/privacy) for details on how to do so.
+  * With your opt-in consent only, customize or personalize advertising based on information we collect about your use of your wireless device in order to provide wireless service to you. For example, we may use information about your mobile web browsing or use of mobile applications to deliver advertisements tailored to your interests, and we may share de-identified information about your use of your device with third parties so that they can tailor advertising to your interests based on that information. To participate in this program, you must opt in. See [sprint.com/privacy](http://www.sprint.com/privacy) for details on how to do so.
 
 
 
@@ -88,9 +91,17 @@ Back to top
 
 We offer you choices regarding how we contact you for marketing-related communications and whether we use information regarding your online or mobile web activities for marketing purposes. We also offer you choices regarding the use of de-identified information to make ads you see on your mobile device more relevant and to produce or facilitate production of business and marketing reports shared with third parties. Visit [sprint.com/privacy](http://newsroom.sprint.com/privacy/) to learn about your choices and how to register your privacy preferences with us.
 
+As described above, we work with advertisers and advertising networks that serve ads on our sites and that may use cookies, web beacons and other technologies to collect information about your use of our sites and other websites. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on other websites and better understand your online activity. To find out more about targeted advertising and/or to "opt out" of automatic collection of information for this purpose, visit [http://www.aboutads.info/choices/.](http://www.aboutads.info/choices/)
+
 You also may register a do-not-contact request by calling Sprint customer care or sending an email to officeofprivacy@sprint.com. If you register a do-not-contact request, we still may contact you for non-promotional purposes, such as emails or wireless messages related to your accounts or our ongoing business relations. For details on Sprint’s do-not-contact practices, including how we honor consumer and business customer do-not-contact requests, please visit [sprint.com/privacy](http://newsroom.sprint.com/privacy/). 
 
 If you disable cookies on your Internet browser, you also may stop some collection and use of data when you visit our web sites. If you would like to change certain Sprint account information, you may create an online account and manage your account online. For more information, visit [www.sprint.com](http://www.sprint.com/).
+
+Back to top
+
+### CHILDREN
+
+You must be 18 or otherwise have legal capacity to subscribe to Sprint services. Nevertheless, as part of the Unlimited, My Way Student Promotion, a parent or legal guardian may provide a Sprint device to a child under the age of 13. In such cases, Sprint takes steps to minimize the data it collects from Sprint applications on the device and provides parents resources to control the information children can share with other parties. In some instances, a parent may be able to review or request deletion of the personal information collected from a child's device, or take steps to prevent further collection of such information. If you have any questions about Sprint's policies for student phones or about how to control the information collected on them from users under 13, or if you wish to correct or delete any personal information provided to Sprint on a student phone used by a child under 13, you can contact us using the contact information below. You may also control the content your child may access by logging into sprint.com/manage, and reviewing the My Preferences tab.
 
 Back to top
 
@@ -114,6 +125,6 @@ Back to top
 
 ### INTERNATIONAL DATA PRIVACY POLICY
 
-Our [International Data Privacy Policy](https://web.archive.org/web/20131010125205id_/http%3A//www.sprint.com/legal/docs/SprintIntDataPrivacyPolicy.pdf) informs you about our practices and policies regarding the collection, use, disclosure, transfer, storage, and processing of personal information collected outside the United States in connection with Services offered by Sprint, its subsidiaries, affiliates, and agents.
+Our [International Data Privacy Policy](https://web.archive.org/web/20140625131608id_/http%3A//www.sprint.com/legal/docs/SprintIntDataPrivacyPolicy.pdf) informs you about our practices and policies regarding the collection, use, disclosure, transfer, storage, and processing of personal information collected outside the United States in connection with Services offered by Sprint, its subsidiaries, affiliates, and agents.
 
 Back to top
