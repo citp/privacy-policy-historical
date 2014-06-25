@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the 4fcams.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110002646id_/http%3A//4fcams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4fcams.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053712id_/http%3A//4fcams.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 4fuckr FREE Adult Webcams
 
-This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by ZmediaNow, LLC (“4fuckr FREE Adult Webcams,” “we,” “our”). By using our Services and/or registering with 4fuckr FREE Adult Webcams, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as 4fuckr FREE Adult Webcams adheres to the standards set forth more clearly below.
+Effective Date: March 4, 2014
+
+Last Modified: March 4, 2014
+
+This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by Multi Media, LLC (“4fuckr FREE Adult Webcams,” “we,” “our”). By using our Services and/or registering with 4fuckr FREE Adult Webcams, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as 4fuckr FREE Adult Webcams adheres to the standards set forth more clearly below.
 
 We reserve the right to amend this Privacy Policy at any time and provide such amendments to you by posting a revised version on our website. If the revised version includes a substantial change, we will provide you with thirty (30) days’ notice prior to the effectiveness thereof by posting notice of the change in a prominent place on the 4fuckr FREE Adult Webcams website, such as presenting to you a click-through page immediately following your account login. Otherwise, in the case of insubstantial changes, the revised version will be effective at the time we post it. In any event, we will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most changes will be minor. Each version of this Privacy Policy will be identified at the top of the page by its Last Modified date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
@@ -20,7 +24,7 @@ Demographic Information. Each time you access our Services, our servers may auto
 
 Links. We may present links that include codes that enable us to track whether these links have been followed. This information is used to improve the quality of our advertising and customized content, as well as the organization and layout of our website.
 
-Cookies. Assuming your browser is configured to accept them, when you visit our websites, we will send one or more cookies to your computer or other device. A cookie is a small file containing a string of characters that uniquely identifies your browser. We may also set one or more cookies in your browser when you click on an ads or other links presented on our website. Cookies make it possible to store user preferences and record which portions of our website you and other users are using the most. We use cookies for the purposes of preventing fraud and improving the quality of our Service.
+Cookies. Assuming your browser is configured to accept them, when you visit our websites, we will send one or more cookies to your computer or other device. A cookie is a small file containing a string of characters that uniquely identifies your browser. We may also set one or more cookies in your browser when you click on an ads or other links presented on our website. Cookies make it possible to store user preferences and record which portions of our website you and other users are using the most. We use cookies for the purposes of preventing fraud and improving the quality of our Service. 4fuckr FREE Adult Webcams uses what are known as "evercookies" which may appear on your system despite certain settings and software to block standard cookies. Therefore, the evercookie works to ensure that you do not inadvertently clear your cookies and lose your preferences and ability to use 4fuckr FREE Adult Webcams as you have selected and to ensure that we keep people who breach our rules off of 4fuckr FREE Adult Webcams for the well-being of the 4fuckr FREE Adult Webcams community.
 
 User communications. We may retain communications that you send to 4fuckr FREE Adult Webcams by email or otherwise, in order to process your inquiries, respond to your requests, and improve our Services.
 
@@ -100,7 +104,7 @@ It is our policy to contact the complaining user regarding his or her concerns w
 
 **Email Communications**
 
-By providing your email address in connection with the creation of an account with Chaturbate, you thereby demonstrate your consent to receive email communications from us. Email addresses, when provided, are only used for friend notifications, monthly newsletters, broadcast and payout reminders, and account verification. Your email address is never sold or shared. If you wish to "opt-out" of all future email communications relating to Chaturbate, you may do so by taking the following steps:
+By providing your email address in connection with the creation of an account with Chaturbate, you thereby demonstrate your consent to receive email communications from us. Email addresses, when provided, are only used for friend notifications, broadcast and payout reminders, and account verification. Your email address is never sold or shared. If you wish to "opt-out" of all future email communications relating to Chaturbate, you may do so by taking the following steps:
 
 While logged in on the site, visit the "MY PROFILE" page using the link appearing the in upper right-hand area of the page.
 
