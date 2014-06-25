@@ -1,22 +1,35 @@
-<!--The following is the downloaded HTML source of the meldium.com privacy policy that was archived on 2013-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130511100523id_/https%3A//www.meldium.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the meldium.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625085634id_/https%3A//www.meldium.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" ng-app=""><head><script type="text/javascript" async="" src="//widget.uservoice.com/MI2aJo2if3rkyn7rXMRaVw.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/maz0gm5ajk/analytics.min.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html><html lang="en"><head>
+<script src="//d37gvrvc0wt4s1.cloudfront.net/js/1/rollbar.min.js" async=""></script><script type="text/javascript" async="" src="//widget.uservoice.com/MI2aJo2if3rkyn7rXMRaVw.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"6750c59686","applicationID":"1672450","transactionName":"IF5ZFRBXCQpRFxsBCRFBGEkNTA0DRkw=","queueTime":13,"applicationTime":25,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcBVVZXGwIGU1NWAgE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
-<title>Meldium</title>
+<title>Meldium | Team Password Manager, Cloud Identity &amp; Access Management</title>
+<meta content="" name="description">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="kaBTlGx3L1xXrdILO6PzF5RSWSaLzMj66P1ikTIiZ3k=" name="csrf-token">
-<!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+<meta content="/JFsEjBmK1lGzyBnvA/C5KXRH3A301jVEEGMmNaM1JGyz+l+fOSdVmqHl4l4lPm2YJpWeAXRVeZtK8md9Pdedg==" name="csrf-token">
 <!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
 <![endif]-->
+<script>
+var _rollbarParams = {"server.environment": "production", level: 'error'};
+
+_rollbarParams["notifier.snippet_version"] = "2"; var _rollbar=["b16ac1d6b7b94ba4a886b4a29219eb3c", _rollbarParams]; var _ratchet=_rollbar;
+(function(w,d){w.onerror=function(e,u,l,c,err){_rollbar.push({_t:'uncaught',e:e,u:u,l:l,c:c,err:err});};var i=function(){var s=d.createElement("script");var 
+f=d.getElementsByTagName("script")[0];s.src="//d37gvrvc0wt4s1.cloudfront.net/js/1/rollbar.min.js";s.async=!0;
+f.parentNode.insertBefore(s,f);};if(w.addEventListener){w.addEventListener("load",i,!1);}else{w.attachEvent("onload",i);}})(window,document);
+</script>
+
 <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,700,800" rel="stylesheet" type="text/css">
-<link href="https://d2jv40ttku95za.cloudfront.net/assets/application-204f122220321caaffbcbf26a94bba48.css" media="all" rel="stylesheet" type="text/css">
-<link href="//netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css" rel="stylesheet" type="text/css">
-<link href="https://d2jv40ttku95za.cloudfront.net/credentialed_services/sprites/a44a3341ca5b64ee27db2eeeebdc6ed9.css" media="screen" rel="stylesheet" type="text/css">
-<link href="https://d2jv40ttku95za.cloudfront.net/assets/favicon-e0ad128603adb584a0d69b8b484a8a6d.ico" rel="shortcut icon">
+<link href="https://d2jv40ttku95za.cloudfront.net/assets/corp-103f03bbedcdb266869773f3c5cce2e4.css" media="all" rel="stylesheet" type="text/css">
+
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="https://d2jv40ttku95za.cloudfront.net/credentialed_services/sprites/88d39f64188db17b8265053296cb7bce.css" media="screen" rel="stylesheet" type="text/css">
+<link href="https://d2jv40ttku95za.cloudfront.net/assets/favicon-3f54241e823a7538443b07a387c4087b.ico" rel="shortcut icon">
 <link href="https://chrome.google.com/webstore/detail/fdocegmnehjgfhfjelhmaobjccoiklle" rel="chrome-webstore-item">
+<link href="https://plus.google.com/110261572468706835155" rel="publisher">
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount','UA-32988443-1']);
@@ -45,73 +58,142 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
           mixpanel.set_config({"debug":false});
         </script>
         <!-- end Mixpanel -->
-<script type="text/javascript">try {mixpanel.track("session started", {"time":"2013-05-11T10:05:23+00:00","ip":"207.241.237.209","url":"https://www.meldium.com/privacy","$referrer":"https://www.meldium.com/"});
+<script type="text/javascript">try {mixpanel.track("session started", {"time":"2014-06-25T08:56:35+00:00","ip":"207.241.237.233","url":"https://www.meldium.com/privacy","$referrer":"https://www.meldium.com/robots.txt"});
 mixpanel.register({});} catch(err) {}</script></head>
 <body class="signed-out"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
-<nav class="navbar navbar-fixed-top">
-<div class="navbar-inner">
-<div class="container">
-<a class="btn btn-navbar" data-target=".nav-collapse" data-toggle="collapse">
+<div class="full-height" ng-app="meldiumCorp" ng-controller="CorpCtrl" ui-keydown="{'esc':'closeOverlays($event)'}">
+<script id="login.html" type="text/ng-template">
+<div class='overlay-inner' tabindex='0'>
+<a class='close' href ui-sref='home'>&times;</a>
+<div class='container'>
+<div class='row'>
+<div class='col-sm-6 col-sm-offset-3 text-center'>
+<h3>Log in to Meldium</h3>
+<form accept-charset="UTF-8" action="/users/sign_in" class="new_user" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="bmftEwORXZQnJXa8tCm/yNg9XKMoEYbSK4FiKU9lZcMgOWh/TxPrmwttwVJwsoSaHXYVqxoTi+FW6ycsbR7vJA==" /></div><a href="/users/auth/google_oauth2" class="btn btn-danger btn-block google-login btn-lg">Log In With Google</a>
+<div class='or'>
+<hr>
+<span>or</span>
+<hr>
+</div>
+<div class='form-group'>
+<input class="form-control" id="user_email" name="user[email]" placeholder="Email" size="30" type="text" />
+<p class='help-block'></p>
+</div>
+<div class='form-group'>
+<input class="form-control" id="user_password" name="user[password]" placeholder="Password" size="30" type="password" />
+<div class='forgot-password'>
+<a href="/users/password/new" class="pull-right">Forgot password?</a>
+</div>
+</div>
+<input class="btn btn-primary btn-block btn-lg" name="commit" type="submit" value="Log In" />
+</form>
+
+</div>
+</div>
+</div>
+</div>
+
+</script>
+<script id="signup.html" type="text/ng-template">
+<div class='overlay-inner' ng-controller='SignupCtrl' tabindex='0'>
+<a class='close' href ui-sref='home'>&times;</a>
+<div class='container'>
+<div class='row'>
+<div class='col-sm-6 col-sm-offset-3 text-center' ng-hide='success'>
+<h3>Sign up for Meldium</h3>
+<form ng-submit='submit()'>
+<a href="/users/auth/google_oauth2" class="btn btn-danger btn-block google-login btn-lg" id="btn-signup-google">Sign Up With Google</a>
+<div class='or'>
+<hr>
+<span>or</span>
+<hr>
+</div>
+<div class='form-group'>
+<input class='form-control' ng-model='user.name' placeholder='Full Name' type='text'>
+</div>
+<div class='form-group' ng-class="{'has-error': errors['email']}">
+<input class='form-control' ng-model='user.email' placeholder='Work Email' type='text'>
+<p class='help-block' ng-if="errors['email']">
+Email {{errors['email'][0]}}.
+</p>
+</div>
+<div class='form-group' ng-class="{'has-error': errors['password']}">
+<input class='form-control' ng-model='user.password' placeholder='Password' type='password'>
+<p class='help-block' ng-if="errors['password']">
+Password {{errors['password'][0]}}.
+</p>
+</div>
+<button class='btn btn-primary btn-block btn-lg' id='btn-signup-complete' ng-disabled='submitting' type='submit'>
+Sign up
+</button>
+</form>
+</div>
+<div class='col-sm-12 text-center' ng-show='success'>
+<h3>Thanks for signing up!</h3>
+<p>You should have an email in your inbox with further instructions.</p>
+</div>
+</div>
+</div>
+</div>
+
+</script>
+<!-- for angular views -->
+<div class="overlay" ng-animate="'overlay'" ui-view=""></div>
+<!-- Navbar -->
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation" scroll="" scroll-height="10" scrolled-class="scrolled">
+<div class="container-fluid">
+<div class="navbar-header">
+<button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
-</a>
-<a class="brand meldium-logo" href="/"></a>
-<div class="nav-collapse">
-<ul class="nav">
-<li>
-<a href="/integrations">Supported Apps</a>
-</li>
+</button>
+<a href="/" class="navbar-brand"><img alt="Logo" src="https://d2jv40ttku95za.cloudfront.net/assets/corp/logo-56c909e552a58d225303e7297f3a4d79.svg">
+</a></div>
+<div class="navbar-collapse collapse">
+<ul class="nav navbar-nav navbar-right">
 <li>
 <a href="/pricing">Pricing</a>
 </li>
-<li>
-<a href="/team">About</a>
+<!-- Mobile options -->
+<li class="visible-xs">
+<a href="/integrations">Supported Apps</a>
 </li>
+<li class="visible-xs">
+<a href="/security">Security</a>
+</li>
+<li class="visible-xs">
+<a href="/about">About</a>
+</li>
+<li class="visible-xs">
+<a href="http://blog.meldium.com">Blog</a>
+</li>
+<!-- End -->
 <li>
-<a href="#sign_in_modal" class="sign-in" data-toggle="modal">Sign In</a>
+<a href="" id="btn-login" ui-sref="login">Log In</a>
+</li>
+<li class="cta">
+<a href="" ui-sref="signup">Sign up</a>
 </li>
 </ul>
 </div>
 </div>
 </div>
-</nav>
-<div class="log-in-form modal hide" id="sign_in_modal">
-<div class="modal-body">
-<div class="row-fluid">
-<div class="span6 offset3">
-<a href="/users/auth/google_oauth2" class="btn btn-primary btn-block">Sign In with Google</a>
-</div>
-</div>
-<div class="row-fluid">
-<div class="span6 offset3">
-<hr>
-<div id="or-wrapper">
-<div id="or">or</div>
-</div>
-</div>
-</div>
-<div class="row-fluid">
-<div class="span6 offset3">
-<form accept-charset="UTF-8" action="/users/sign_in" class="new_user" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="kaBTlGx3L1xXrdILO6PzF5RSWSaLzMj66P1ikTIiZ3k="></div><input class="input-block-level input-large" id="user_email" name="user[email]" placeholder="Email" size="30" type="text">
-<input class="input-block-level input-large" id="user_password" name="user[password]" placeholder="Password" size="30" type="password">
-<input class="btn btn-info btn-block" name="commit" type="submit" value="Sign In">
-</form>
-
-<a href="/users/password/new">Forgot your password?</a>
-</div>
-</div>
-</div>
-</div>
-<div class="container wrapper">
-
-
-
+<div class="container-fluid text-center container-header">
 <div class="container">
-<h2 class="page-header">Privacy Policy</h2>
+<div class="page-header">
+<h1>Privacy Policy</h1>
+<p>Effective as of Feb 5, 2013.</p>
+</div>
 <p>
-<strong>Effective as of Feb 5, 2013. Please review our privacy policy below.</strong>
+<a class="btn btn-info btn-cta" href="" id="btn-signup" ui-sref="signup">Get started</a>
 </p>
+</div>
+</div>
+
+<div class="container container-content">
+<h2>Privacy Policy</h2>
 <p>
 Meldium takes privacy seriously. Below is how we collect, use, communicate and disclose and make use of personal data when you visit Meldium.com and the service Meldium.
 </p>
@@ -137,50 +219,86 @@ We collect and use personal information solely for the purpose of providing a se
 <p>
 Changes to this policy may occur from time to time. If and when changes are made they will be posted on this page. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on Meldium.com prior to the change becoming effective. All changes will take effect thirty (30) days after they are initially posted on this page.
 </p>
+</div>
+<hr>
 
+<hr>
+<div class="container container-cta text-center">
+<a class="btn btn-primary btn-cta" href="" ui-sref="signup">Start free trial</a>
+<p class="small">No credit card required</p>
 </div>
-</div>
-<footer class="footer">
+<hr class="hidden-xs">
+<footer class="hidden-xs">
 <div class="container">
-<div class="row-fluid">
-<div class="span5">
-© 2013 | BBA Inc. All rights reserved.
-<br>
-<a href="/team">About Us</a>
-|
-<a href="http://blog.meldium.com">Blog</a>
-|
-<a href="/tos">Terms</a>
-|
-<a href="/privacy">Privacy</a>
-|
+<div class="row">
+<div class="col-md-3">
+<h6>Product</h6>
+<ul>
+<li>
+<a href="/pricing">Pricing</a>
+</li>
+<li>
+<a href="/integrations">Supported Apps</a>
+</li>
+<li>
 <a href="/security">Security</a>
+</li>
+</ul>
 </div>
-<div class="span7">
-<div class="pull-right">
-<a class="zocial icon twitter" href="http://twitter.com/meldium">
-Follow @meldium
-</a>
-<a class="zocial icon facebook" href="https://www.facebook.com/pages/Meldium/319099311512739">
-Join us on Facebook
-</a>
-<a class="zocial icon email" href="mailto:contact@meldium.com">
-Contact Us
-</a>
+<div class="col-md-3">
+<h6>Company</h6>
+<ul>
+<li>
+<a href="/about">About</a>
+</li>
+<li>
+<a href="/tos">Terms of Service</a>
+</li>
+<li>
+<a href="/privacy">Privacy Policy</a>
+</li>
+</ul>
+</div>
+<div class="col-md-2">
+<h6>Connect</h6>
+<ul>
+<li>
+<a href="http://blog.meldium.com" target="_blank">Blog</a>
+</li>
+<li>
+<a href="https://twitter.com/Meldium" target="_blank">Twitter</a>
+</li>
+<li>
+<a href="https://www.facebook.com/pages/Meldium/319099311512739?fref=nf" target="_blank">Facebook</a>
+</li>
+</ul>
+</div>
+<div class="col-md-4 hidden-sm hidden-xs">
+<div class="panel panel-security">
+<img alt="Lock" class="pull-left" src="https://d2jv40ttku95za.cloudfront.net/assets/corp/lock-2d824ff55f02fdda88d6fefa9b5835ac.svg">
+<div class="text-left">
+<h6>
+<a href="/security">Learn more about security</a>
+</h6>
+</div>
+<div class="clearfix"></div>
 </div>
 </div>
 </div>
 </div>
 </footer>
 
+</div>
 
-<!--
-Javascripts
-==================================================
--->
-<!-- Placed at the end of the document so the pages load faster -->
-<script src="https://d2jv40ttku95za.cloudfront.net/assets/application-d4d969992368b84bfb925b9d4a6ad59f.js" type="text/javascript"></script>
-<!-- TAGS -->
+<script crossorigin="anonymous" src="https://d2jv40ttku95za.cloudfront.net/assets/corp-de21dfa121f739ce3acda1729a0a0d24.js" type="text/javascript"></script>
+
+<script crossorigin="anonymous" src="https://d2jv40ttku95za.cloudfront.net/assets/navbar_create_new_org-625d59f24283c089b3c9e87708dd7f6b.js" type="text/javascript"></script>
+<script src="https://d3dy5gmtp8yhk7.cloudfront.net/2.1/pusher.min.js" type="text/javascript"></script>
+<script>
+  window.pusher = new Pusher("2ba665075a98e36f861b", {
+    encrypted: true
+  })
+</script>
 <!-- begin olark code -->
 <script data-cfasync="false" type="text/javascript">/*{literal}<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
 f[z]=function(){
@@ -202,15 +320,55 @@ loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure"
 olark.identify('3919-706-10-3890');/*]]>{/literal}*/</script><noscript><a href="https://www.olark.com/site/3919-706-10-3890/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
 <!-- end olark code -->
 
+
+<script src="//cdn.optimizely.com/js/1244900062.js" type="text/javascript"></script>
+<!-- Google Code for Remarketing Tag -->
 <script type="text/javascript">
-  olark('api.visitor.updateCustomFields', {current_experiments: ''});
+/* <![CDATA[ */
+var google_conversion_id = 1014265096;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
 </script>
-
-
-
-<script>
-  var analytics=analytics||[];analytics.load=function(e){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+e+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n);var r=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}},i=["identify","track","pageview","ab"];for(var s=0;s<i.length;s++)analytics[i[s]]=r(i[s])},
-  analytics.load("maz0gm5ajk");
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1014265096/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- Google Code for Signup Conversion Page
+In your html page, add the snippet and call
+goog_report_conversion when someone clicks on the
+phone number link or button. -->
+<script type="text/javascript">
+  /* <![CDATA[ */
+  goog_snippet_vars = function() {
+    var w = window;
+    w.google_conversion_id = 1014265096;
+    w.google_conversion_label = "tKfPCIic1wcQiOrR4wM";
+    w.google_conversion_value = 0;
+    w.google_remarketing_only = false;
+  }
+  // DO NOT CHANGE THE CODE BELOW.
+  goog_report_conversion = function(url) {
+    goog_snippet_vars();
+    window.google_conversion_format = "3";
+    window.google_is_call = true;
+    var opt = new Object();
+    opt.onload_callback = function() {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  }
+  var conv_handler = window['google_trackConversion'];
+  if (typeof(conv_handler) == 'function') {
+    conv_handler(opt);
+  }
+}
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js">
 </script>
 
 <script>
@@ -224,19 +382,8 @@ olark.identify('3919-706-10-3890');/*]]>{/literal}*/</script><noscript><a href="
   )();
 </script>
 
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","6750c59686","1672450","IF5ZFRBXCQpRFxsVAw9SWAwHF00JQA1REE8=",95,83,new Date().getTime(),"","","","",""]);</script>
 
 
 
-<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+
+<!-- This is a random-length HTML comment: vheqhcfxovgsspfpbgdwzfjnfihsuwaseiqctulfxljtwcqblqaslxrspaezmruhuqcjrxjmvtwiwxqofquqjufumsediztemvymfgvhtwyduqimbkgyfznagutfojzhntnwiqlruhilfdwkpsjnymcnputnricecebhrifilbpxstjmxpsjpklbwygooujbfqvtmpmdfpsifzsdqngpllzyhzslwzeualgkajqdgeveoggkgxcoyuqcnyhgnvucpkikvjrifepsmpbmyctfpcmjhmhkfmpvmtrmxzw --><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
