@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotweekly.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914070806id_/http%3A//dotweekly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotweekly.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625183212id_/http%3A//dotweekly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DotWeekly.com
 
