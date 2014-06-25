@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometalk.com privacy policy that was archived on 2013-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130202232123id_/http%3A//www.hometalk.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometalk.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013037id_/http%3A//www.hometalk.com/about/privacy) for the most accurate reproduction.*
 
 # Hometalk Privacy Policy :: Hometalk
 
@@ -10,7 +10,7 @@ This privacy policy applies to the Hometalk Web sites. If users have questions o
 In order to participate in many of the site's features, a user must first complete a registration form. During registration a user is required to give contact information (such as name and E-mail address). We use this information to contact the user about services on our site, to allow other members of the site to contact you, and/or inform you about service professionals you have been matched with. By providing this information to us, or by submitting a service request, you expressly consent to being contacted by us and by our service professionals and providers via phone, E-mail or other reasonable means, at any of your contact numbers or addresses, in order that we may provide the services set forth on our Web site, service your account, reasonably address matters pertaining to your account or for other reasonable purposes related to our business.
 
 **Getting Listed**  
-To get listed on one of our site(s) we ask that you provide your Company Name, E-mail address and your name. We use this information to contact you regarding adding you to a list of contractors on our site. If you no longer wish to be listed on our site you may have your listing removed at any time by either calling the customer service department at (770)-504-5760 or E-mailing [service@hometalk.com](mailto:service@hometalk.com).
+To get listed on one of our site(s) we ask that you provide your Company Name, E-mail address and your name. We use this information to contact you regarding adding you to a list of contractors on our site. If you no longer wish to be listed on our site you may have your listing removed at any time by emailing us at [service@hometalk.com](mailto:service@hometalk.com).
 
 **Employment Application**  
 If you choose to fill out the employment application on our site(s) we ask for certain personal information. The personal information we ask for is your name, phone number and E-mail address. We use this information to pass on to companies within your professional field who may be currently hiring.
@@ -77,6 +77,6 @@ We follow generally accepted industry standards to protect the personally identi
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at: [privacy@hometalk.com](mailto:privacy@hometalk.com).  
 Hometalk  
-400 Lafayette St., 4th Fl  
-New York, NY 10003  
-Please feel free to contact us at (770)-504-5760.
+137-139 West 25th St.  
+10th floor  
+New York, NY 10001 
