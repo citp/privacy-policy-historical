@@ -1,41 +1,52 @@
-> *The following text is extracted and transformed from the deneysreitz.co.za privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602011730id_/http%3A//www.nortonrose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deneysreitz.co.za privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065306id_/http%3A//www.nortonrosefulbright.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy policy | Norton Rose
+# Privacy notice| Norton Rose Fulbright
 
-This privacy policy sets out how Norton Rose LLP, Norton Rose Australia, Norton Rose Canada LLP and Norton Rose South Africa (incorporated as Deneys Reitz Inc) and their affiliates **“Norton Rose Group** ” from time to time may use personal information that you provide to us, or we obtain through this website [nortonrose.com](http://www.nortonrose.com/), and other normal channels.
+Norton Rose Fulbright refers to Norton Rose Fulbright LLP, Norton Rose Fulbright Australia, Norton Rose Fulbright Canada LLP, Norton Rose Fulbright South Africa (incorporated as Deneys Reitz Inc), Fulbright & Jaworski LLP, each of which is a separate legal entity, and their respective affiliates.
 
-Norton Rose LLP is a data controller registered at the UK Data Protection Register (registration number Z9462124).
+This Privacy Notice aims to help you understand how we may use personal information collected when you visit our website. It does not apply to, and Norton Rose Fulbright is not responsible for, any third party websites which may be accessible through links from this website.
 
-Throughout the Norton Rose Group we will process personal information provided by you in accordance with this privacy policy and data protection standards equivalent to the UK Data Protection Act 1998 or higher standards where required by applicable law.
+### What personal information does Norton Rose Fulbright collect?
 
-Where you provide us with, or we obtain, your personal information (through this website or through other channels), we will normally keep your details on a database.  In relation to certain uses, the database may be accessed by certain of our offices and/or agents and contractors, including those located outside the European Economic Area (EEA) or your particular jurisdiction where the level of legal protection for your personal data may not be as comprehensive as in the EEA.  In such circumstances we shall ensure compliance with the data protection standards set out above at all times.
+When you visit our website or request a service from us Norton Rose Fulbright may collect personal information such as your name, company and title or position, contact details such as telephone number and postal or email address, and any other information relating to you which you may provide.
 
- We may use your personal information for the following purposes:
+### How do we use this information?
 
-  * contacting you with publications and invitations to events and seminars that may be of interest to you (you may opt out/unsubscribe from such communications at any time by emailing [privacypolicy@nortonrose.com](mailto:privacypolicy@nortonrose.com) and putting "Unsubscribe" in the subject line together with the name of the publication you wish to unsubscribe from. All our marketing communications include an “unsubscribe” link).
-  * to process any job application you may make to us (including any sensitive personal information you provide such as relating to your state of health or racial background)
-  * in the course of the provision and administration of legal services in which you are involved
-  * where necessary and appropriate, to prevent fraud, ascertain credit worthiness and trace debtors
-  * to verify the identity of new clients (and in certain circumstances existing clients) and to comply with anti-money laundering regulations applicable to us
-  * where required to do so by law or to meet the requirements of a regulator
-  * where we merge, combine or divest a part of our business, we may pass your details to the prospective entity except where prohibited from doing so by law or professional rules applicable to us
+Your personal information will normally be retained in a database and used by Norton Rose Fulbright for purposes such as:  
 
 
+  * administering our relationship with you, providing services, and responding to enquiries
+  * processing applications for employment
+  * business development including sending legal updates, publications, and details of events
+  * providing and administering legal services
+  * meeting legal or other regulatory obligations imposed on us
+  * auditing usage of our websites
 
-We may provide further details to you about information about you that we collect or uses that we may make of your personal information either at the collection point or through changes to this privacy policy.
 
-If your personal information changes or you no longer wish to receive a particular communication from us please let us know and we will correct, update or remove your details. This can be done by emailing privacypolicy@nortonrose.com.
 
-##### Cookies and other usage tracking technologies
+Occasionally Norton Rose Fulbright may gain assistance from others to provide our services but your personal data will not be disclosed to them unless we have your approval or where that is necessary to fulfil our obligations to you.
 
-Please see our [cookies policy](https://web.archive.org/cookies-policy/ "cookies policy") for details of the cookies and other usage tracking technologies employed by us and our contractors. The Cookies Policy forms part of this Privacy Policy.
+In providing services we may need to transfer data to another Norton Rose Fulbright office in another country. This does not diminish your rights; we will take all reasonable steps necessary to ensure transferred information is kept secure as required by applicable data privacy laws. By submitting your personal information to Norton Rose Fulbright you agree that you do not object to any such transfer, processing or storage. We may also pass on your details if we merge, combine or divest a part of our business unless prohibited from doing so by law or applicable professional rules.
 
-##### Privacy policy does not cover third party websites
+### Business development and marketing
 
-Please note that this privacy policy does not apply to, and we are not responsible for, the privacy practices of third party websites which may be linked to this website.
+Occasionally we may use personal information to send you details of new services, legal updates, and invites to seminars and events, however, we will only do this where you consent to being contacted in this way. If you prefer not to receive promotional material from Norton Rose Fulbright email us at [privacypolicy@nortonrosefulbright.com](mailto:privacypolicy@nortonrosefulbright.com) and put “unsubscribe” in the subject line together with the name of the publication you wish to unsubscribe from. Our marketing communications will also include an “unsubscribe” link.
 
-##### Agreement to terms of privacy policy
+If your personal information changes and you wish us to amend it please let us know by sending an email to the same email address and we will update our records.
 
-By using this website and/or providing your personal information to us, you consent to the collection and use of personal data by us set out in this privacy policy. We may update this Privacy Policy and we would encourage you to review the policy from time to time to stay informed of any such changes.
+### How we use cookies and similar technologies
 
-This Privacy Policy was last updated on 16 July 2012 in order to introduce a new Cookies Policy.
+When you visit our websites we may send a ‘cookie’ to your computer. This is a small data file stored by your computer to help improve functionality or tailor information to provide visitors with more relevant pages. For details of the cookies employed by us please see our [cookies policy](https://web.archive.org/cookies-policy/), which forms part of this Privacy Policy. We may also analyse website traffic to identify what visitors find most interesting so we can tailor our websites accordingly.
+
+### Agreement to terms of privacy policy
+
+By using this website and/or providing information to us, you accept and agree to the collection and use of your personal data for the purposes described. We review our policies regularly and occasionally may need to change or update them. This Privacy Notice was last reviewed and updated on 1 June 2013.
+
+### Contact information
+
+Requests for further information about this Privacy Notice or about how we process personal information can be sent by email to: [privacypolicy@nortonrosefulbright.com](mailto:privacypolicy@nortonrosefulbright.com) or by writing to:
+
+Norton Rose Fulbright LLP  
+3 More London Riverside  
+London, SE1 2AQ  
+United Kingdom
