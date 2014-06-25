@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loverugbyleague.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110213056id_/https%3A//www.loverugbyleague.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loverugbyleague.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013341id_/http%3A//www.loverugbyleague.com/privacy-policy) for the most accurate reproduction.*
 
 # Love Rugby League | Live Rugby League Scores | Rugby League Fixtures
 
@@ -56,7 +56,4 @@ Your rights and changes to the policy
 
 \- Should our privacy policy change, all registered users will be informed via email.
 
-\- If at any time you wish for all your data to be removed from our database, you can send an email request to [info@loverugbyleague.com](mailto:info@loverugbyleague.com). You will receive a response and further instruction within 48 hours.
-
-Written: February 8, 2010  
-Updated: May 14, 2011
+\- If at any time you wish for all your data to be removed from our database, you can send an email request to [info@loverugbyleague.com](mailto:info@loverugbyleague.com). You will receive a response and further instruction within 48 hours. 
