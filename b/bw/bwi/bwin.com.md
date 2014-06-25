@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bwin.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103095953id_/https%3A//help.bwin.com/en/general-information/security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bwin.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093037id_/https%3A//help.bwin.com/en/general-information/security/privacy-policy) for the most accurate reproduction.*
 
 # Help - General Information - Privacy Policy
 
