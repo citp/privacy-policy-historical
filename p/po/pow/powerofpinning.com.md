@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the powerofpinning.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629053524id_/http%3A//powerofpinning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerofpinning.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140722id_/http%3A//powerofpinning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Power of Pinning
 
 Our mailing address is:
 
-12782 Monarch Street  
-Garden Grove, CA 92841
+1468 James Road  
+Gardnerville, NV 89460
 
-We can be reached via e-mail at melanie@powerofpining.com
+We can be reached via e-mail at www.PowerofPinning.com/support
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
