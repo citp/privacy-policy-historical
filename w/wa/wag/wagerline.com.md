@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206032246id_/http%3A//covers.com/covers/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625143132id_/http%3A//covers.com/covers/about/privacy.aspx) for the most accurate reproduction.*
 
 # Sports Betting and Gambling Odds Online
 
@@ -288,7 +288,7 @@ Eyre Square, Galway, Ireland
 Ireland**
 
 You may contact us through our [feedback page ](https://web.archive.org/includes/Email_us.aspx?uid=1)  
-You may contact us by phone on 1-866-662-6837 
+You may contact us by phone on 1-800-840-9677 
 
 10.2 Covers Media Group Ltd. shall inform Persons about the existence of these procedures as well as the availability of complaint procedures. 
 
