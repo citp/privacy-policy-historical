@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatefix.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230154932id_/http%3A//www.affiliatefix.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatefix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232515id_/http%3A//www.affiliatefix.com/privacypolicy) for the most accurate reproduction.*
 
 # Affiliate Marketing Forum | CPAFix is now AffiliateFix - Terms of Service
 
@@ -57,9 +57,9 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Terms and Conditions**
+**Terms of Service/Disclaimer**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms and Conditions.](http://www.affiliatefix.com/terms/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Service/Disclaimer](http://www.affiliatefix.com/disclaimer/)
 
 **Your Consent**
 
