@@ -1,152 +1,210 @@
-> *The following text is extracted and transformed from the bossrevolution.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126113152id_/http%3A//www.idt.net/site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bossrevolution.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111135id_/http%3A//www.bossrevolution.com/privacy) for the most accurate reproduction.*
 
 # IDT Corporation - Privacy Policy
 
-|  |   
----  
-   
-IDT's Privacy Policy - Generally 
+**IDT Domestic Telecom, Inc.**  
+**Boss Revolution Privacy Policy**  
+Effective and Updated October 21, 2013
 
-IDT is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This IDT Privacy Policy applies to IDT's family of Web sites and governs data collection and usage at all IDT sites and services. Please read the complete IDT Privacy Policy below.
+**General**  
+IDT Domestic Telecom, Inc. (“ _IDT_ ”) is committed to protecting the privacy of our customers’ personal information.  Our Boss Revolution Privacy Policy is designed to inform you about the information we collect, how we use and share it, and your options with regard to that collection and use.  As we may periodically update our Privacy Policy, you should review it often for changes.  This Privacy Policy applies to:
 
-The purpose of the IDT Web sites' privacy policy is to inform you, as a welcome visitor to our Web sites, about the kinds of information we may gather about you when you visit our Web sites, how we may use that information, whether we disclose it to anyone, and your ability to correct the information. Finally, please note that this policy applies only to IDT Web sites and Web sites that carry the IDT Web sites' brand, and not to other companies' or organizations' Web sites to which we link. We have clearly marked IDT Web sites and these branded Web sites with our logo so you know where this policy applies. 
-
-Information About All IDT Web sites' Visitors
-
-IDT keeps track of the Web sites and pages our customers visit within the Web sites, in order to determine what sites and services are the most popular. This data is used to deliver customized content and advertising within IDT to customers whose behavior indicates that they are interested in a particular subject area. Our service automatically gathers certain usage information like the numbers and frequency of visitors to IDT Web sites and its areas. This is similar to the way television ratings tell the networks how many people tuned in to a program. We only use such data in the aggregate. This collective data helps us determine how much our customers use parts of the site, so we can improve our site to assure that it is as appealing as we can make it for as many of you as possible. 
-
-For example, IDT Web sites may use a technology nicknamed "cookies" that tells us how and when pages in our site are visited, and by how many people. IDT cookies do not collect personally identifiable information and we do not combine information collected through cookies with other personally identifiable information to tell us who you are or even what your screen name or e-mail address is. We also may provide statistical "ratings" information, never information about you personally, to our IDT Web sites partners about how our members, collectively, use IDT Web sites. We do this so they too can understand how much people use their areas and our site in order for them to provide you with the best possible Web experience as well. 
-
-Use of Cookies
-
-Some IDT Web sites may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize IDT's pages, or register with IDT sites or services, a cookie helps IDT to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same IDT Web site, the information you previously provided can be retrieved, so you can easily use the IDT features that you customized.
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the IDT services or Web sites you visit. 
-
-Use of Third Party Advertising
-
-The majority of the advertisements you see on IDT Web sites are displayed by IDT. In addition, IDT also allows other companies, called third-party advertisers, to display advertisements while you are viewing content on IDT Web sites. These advertisement are selected based on what we believe will be of most interest to you. 
-
-Information About You 
-
-Sometimes, we may specifically ask for information about you when you sign up to use a service or when you order a product. IDT does not sell, rent or lease its customer lists to third parties. We do, however, need certain information -- such as name, age, Internet address or screen name, billing address, type of computer, credit card number -- in order to provide that service or product to you. We may also use that information to let you know of additional products and services about which you might be interested. You can choose not to receive such information if you don't want to by letting us know on the registration screen when you sign up for the product or service. We may ask you for information about your interests so that both you and we can take advantage of the interactivity of the online medium, but you may always choose to respond or not. Additionally, we may provide you with an opportunity to be listed in a directory on one of our IDT- branded services -- these listings are also optional and you can make changes to or eliminate this information when you want to. 
-
-IDT does not associate sensitive data, such as your race, religion, or political affiliations, with personally identifiable information. IDT takes precautions to segregate any sensitive data you may provide on IDT sites and services that reference your race, religion, sexual orientation, ethnicity or political affiliations. 
-
-Security of your Personal Information
-
-IDT secures your personal information from unauthorized access, use or disclosure. IDT secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. Personal information (such as a credit card number) is transmitted to other Web sites through the use of Secure Socket Layer (SSL) encrypted protection. 
-
-Third Party Disclosure 
-
-We do not use or disclose information about your individual visits to IDT Web sites or information that you may give us, such as your name, address, email address or telephone number, to any outside companies. However, we may share with our Web site partners aggregated statistical "ratings" information about the use of IDT Web sites. IDT may share data with trusted partners to help us perform statistical analysis. All such third parties are prohibited from using your personal information except to provide these services to IDT, and they are required to maintain the confidentiality of your information.
-
-IDT Web sites will never disclose your personal information without notice unless it is required to do so by law or in the good faith belief that such action is necessary to:  
-(a) conform to the law or comply with legal process served on IDT or the site;  
-(b) protect and defend the rights or property of IDT, an IDT Web site; and,  
-(c) act under exigent circumstances to protect the personal safety of users of IDT, its Web sites, or the public. 
-
-Children On The Web 
-
-IDT Corporation, Inc. takes special care to protect the safety and privacy of children using our services. We do not specifically collect information about children and believe that children should get their parents' consent before giving out any personal information. We encourage you to participate in your child's experience in cyberspace and to review our important safety tips before your child explores the Internet. We also encourage you and your child to visit IDT Web sites that provides access to age-appropriate content available on the Web. IDT also recommends that parents use Web filtering technology to supervise their kids' access to the Web. 
-
-IDT Web sites Privacy Policy Changes
-
-IDT will occasionally update this Privacy Policy to reflect company and customer feedback. When IDT posts changes to this Statement, you will see the word "updated" next to the Privacy Statement link on the front page of IDT. If there are material changes to this Statement or in how IDT will use your personally identifiable information, IDT will prominently post such changes prior to implementing the change. IDT encourages you to periodically review this Statement to be informed of how IDT is protecting your information. 
-
-Enforcement
-
-By upholding our commitment to protecting the privacy of your personal information, IDT has agreed to disclose its information practices. IDT welcomes your comments regarding this Privacy Policy. If you believe that IDT has not adhered to this Statement, please contact IDT by telephone or postal mail.
-
-IDT Corporation
-
-520 Broad Street
-
-Newark, New Jersey 07102
-
-(973) 438-4167
-
-RULES OF USER CONDUCT
-
-By posting information in or otherwise using any communications service, chat room, virtual television channel, message board, newsgroup, software library, or other interactive service that may be available to you on or through our Web sites, you agree that you will not upload, post, or otherwise distribute or facilitate distribution of any content -- including text, communications, software, images, sounds, data, or other information \-- that:
-
-\- is unlawful, threatening, abusive, harassing, defamatory, libelous, deceptive, fraudulent, invasive of another's privacy, tortious, contains explicit or graphic descriptions or accounts of sexual acts (including but not limited to sexual language of a violent or threatening nature directed at another individual or group of individuals), or otherwise violates IDT Corporation's rules or policies;   
-\- victimizes, harasses, degrades, or intimidates an individual or group of individuals on the basis of religion, gender, sexual orientation, race, ethnicity, age, or disability;   
-\- infringes on any patent, trademark, trade secret, copyright, right of publicity, or other proprietary right of any party;   
-\- constitutes unauthorized or unsolicited advertising, junk or bulk e-mail (also known as "spamming"), chain letters, any other form of unauthorized solicitation, or any form of lottery or gambling;   
-\- contains software viruses or any other computer code, files, or programs that are designed or intended to disrupt, damage, or limit the functioning of any software, hardware, or telecommunications equipment or to damage or obtain unauthorized access to any data or other information of any third party; or   
-impersonates any person or entity, including any employee or representative of IDT Corporation.   
-You also agree that you will not harvest or collect information about the users or members of the IDT Web Sites or use such information for the purpose of transmitting or facilitating transmission of unsolicited bulk electronic e-mail or communications.
-
-You further agree that you will not knowingly solicit or collect personal information from a child 12 years old or younger without appropriate prior verifiable parental consent.
-
-IDT Corporation generally does not pre-screen, monitor, or edit the content posted by users of communications services, chat rooms, message boards, newsgroups, software libraries, or other interactive services that may be available on or through the IDT Web Sites. However, IDT Corporation and its agents have the right at their sole discretion to remove any content that, in IDT Corporation's judgment, does not comply with the Rules of User Conduct or is otherwise harmful, objectionable, or inaccurate. IDT Corporation is not responsible for any failure or delay in removing such content. 
-
-REQUESTING PERMISSION TO USE COPYRIGHTED MATERIALS
-
-The IDT Web Sites contain various types of materials (including product information, files, articles, movies, cartoons, and other digital entertainment), photos, icons, and other copyrighted materials owned by us or our Content Providers. You may not use this information in any manner or for any purpose other than as expressly authorized in the IDT Web Sites. The following information applies only to materials we own. You must contact the copyright owner directly for permission to use third party materials displayed on the IDT Web Sites. 
-
-Do I Need Permission?
-
-You are authorized to view, copy, download, and print for personal use only any copyrighted materials we own that are available on this web site, subject to the following conditions: 
-
-The documents may be used solely for personal, noncommercial, and informational purposes. They may not be posted or distributed.   
-The documents may not be modified.   
-All copyright and other proprietary notices must be retained in the document.   
-This permission does not extend to materials owned by other content providers that appear on this web site.   
-You may not reproduce, copy, or redistribute the design or layout of the IDT Web Sites, individual elements of the Web Site design, or our logos without our express written permission. 
-
-Permission for Commercial Use
-
-Reproduction, copying, or redistribution for commercial purposes of any materials or design elements on the IDT Web Sites is strictly prohibited without our express written permission. Permission is granted only when certain limited criteria are met.
-
-To request such permission please send email to IDTLegal@corp.idt.net.
-
-Please identify the requested material and the Web Site on which it is found in the subject line, e.g. "Idt.net home page screenshot" or a "Screenshot of our Web Site in Netscape or Explorer browser frame." Include all of the following information in the body of the message:
-
-  
-The content you wish to use and the URL where it is located.   
-Where and how it will be used (for example, in an Internet use manual, in a newsletter, or in a movie).   
-Where and how copies will be distributed and to what audience.   
-How many copies will be produced and distributed.   
-When you intend to publish, and your deadline for a response (no shorter than 1 week please).   
-Other materials that will be associated with our content.   
-Your name, title, company, address, email address, and phone number.   
-In addition, please provide an example or mockup of the intended use, either by sending a file attached to your email (in a format readable with a PC), or by fax to (973) 438-1455. We will need all of the above in order to evaluate your request. Please expect 7 to 10 days for processing all requests.
-
-We reserve the right to refuse permission to copy, distribute, broadcast, or publish any of our copyrighted material.
-
-Thank you for your cooperation. Procedure for Making Claims of Copyright Infringement
-
-IDT Corporation, Inc., its subsidiaries, and affiliate companies respect the intellectual property of others, and we ask our Content Providers and those posting materials to the IDT Web Sites to do the same. If you believe that your copyrighted work has been copied and is accessible on the IDT Web Sites in a way that constitutes copyright infringement, please let us know right away by providing our copyright agent with the following information:
-
-\- the electronic or physical signature of the owner of the copyright or the person authorized to act on the owner's behalf.   
-\- a description of the copyrighted work that you claim has been infringed and a description of the infringing activity.   
-\- identification of the location where the original or an authorized copy of the copyrighted work exists, for example the URL of the Web Site where it is posted or the name of the book in which it has been published.   
-\- identification of the URL or other specific location on the IDT Web Sites where the material that you claim is infringing is located; you must include enough information to allow us to locate the material.   
-\- your name, address, telephone number, and email address.   
-\- a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.   
-\- a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or are authorized to act on the copyright owner's behalf.   
-Our agent for notice of claims of copyright infringement on the IDT Web Sites can be reached as follows:
-
-By Mail:
-
-IDT Corporation  
-Legal Department  
-17th Floor  
-550 Broad Street  
-Newark, NJ 07102
-
-By phone:
-
-(973) 438-3342  
+  * our Boss Revolution customers in the United States;
+  * visitors and users of www.bossrevolution.com, any other Boss Revolution website and any Boss Revolution mobile application (collectively, the “ _Boss Revolution Websites_ ”); and
+  * the Boss Revolution products and services on the Boss Revolution Websites.
 
 
-Copyright Notice
 
-This contact information is only for reporting copyright infringement. Contact information for other matters is provided elsewhere on the IDT Web Sites.
+**Information We Collect and How We Use It**  
+We collect and use information about you in the following ways.  Personal information means information that we directly associate with a specific person, but does not include “de-identified,” “anonymous,” or “aggregate” information, which is not associated with a specific person. 
 
-|  |   
----
+**1.          Information Collected When You Communicate with IDT**  
+When you communicate with us, we may collect the following personal information:
+
+  * your name, address, cell phone number, email address, birthdate, frequently called numbers, and other personal, phone or social network contact information;
+  * the reason for your contact;
+  * your Social Security Number;
+  * your Boss Revolution security code; and/or
+  * your payment information.
+
+
+
+We use this information to provide, confirm, change, bill, monitor, maintain and repair your Boss Revolution products and services.  We also use this information to resolve any issues with your order, with our products and services, or with your account.  Finally, we use this information to establish and maintain your Boss Revolution account, authenticate you, and contact you about products and services that we offer.  
+
+
+When you contact us or we contact you, we may monitor or record that communication to help us train employees and provide high-quality customer service or for legal or regulatory purposes.
+
+**2.          Information Collected When You Use Boss Revolution Products and Services**  
+We collect information about you when you use our Boss Revolution products, services, and the Boss Revolution Websites.  This information includes:
+
+  * call records and network traffic data;
+  * websites visited and application and feature usage;
+  * product and device-specific information;
+  * mobile and device numbers; and/or
+  * information about your phone, system and application software.
+
+
+
+We use this information for billing purposes, to facilitate, deliver and maintain products and services, customize data presented to you and to help you with service-related issues or questions.  We may also use this information for other purposes such as:  providing you with information about product or service enhancements, determining your eligibility for new products and services, and marketing to you based on your use of our products and services; managing and protecting our networks, services and users from fraudulent, abusive, or unlawful uses; and subject to consent practices described in this policy, helping us improve our services, researching and developing new products, and offering promotions and other services.  This type of information may be aggregated in a manner that does not personally identify you for business and marketing uses by us or by third parties.
+
+**3.          Information Provided to Us by Third Parties**  
+When you purchase Boss Revolution products or services with us, we may obtain credit information about you from outside credit reporting agencies to help us with customer authentication and credit-related decisions.
+
+IDT also obtains information from outside companies that collect consumer information such as demographic and interest data.  Examples of this information include gender, age range, sports enthusiast, or pet owner.  We use this data and combine it with other information we have about you to help us predict customer preferences and to direct marketing offers that might be more relevant to you.  
+
+
+We may also obtain contact information and other marketing lead information from third parties, and may combine it with information we have to contact you or direct IDT’s marketing offers to you.  Website visitors and others may provide us with your email address or mobile phone number through “refer-a-friend” options or social networking platforms.  We use these email addresses and mobile phone numbers to send promotional offers, free trials, Boss Revolution products and services purchased by others for your use and IDT promotional marketing information, all in accordance with applicable law.
+
+**4.          Information Collected on Boss Revolution Websites**  
+When you use and browse the Boss Revolution Websites, we collect information about your device and your visit, including:
+
+  * your browsing, searching and buying activity;
+  * your IP address;
+  * web addresses of the sites you come from and go to next; and/or
+  * information about your connection, including your device’s browser, operating system, platform type and Internet connection speed.
+
+
+
+In addition, when you use and browse the Boss Revolution Mobile Application, we collect the following information about you and your device:
+
+  * your mobile telephone or device number;
+  * device identification; and/or
+  * with your consent, certain data on your device including your contacts.
+
+
+
+We use this information for operational and performance measurement purposes including monitoring statistics such as how many people visit our websites, which pages people visit on our sites, how much time is spent on each page, or which browsers are used to visit our sites.  We also may provide statistical “ratings” information (not personal information) to our website partners about how our members, collectively, use the Boss Revolution Websites.   
+
+
+When you establish an online account with us, we maintain information about your user identification, security code and password.  This information is used to identify you when you sign in to your account.  
+
+
+The Boss Revolution Websites may certain web technologies such as “cookies” or “web beacons” that tell us how and when pages in our site are visited, and by how many people.  These technologies do not collect personally identifiable information and we do not combine information collected through these technologies with other personally identifiable information.  We may also use information collected from cookies or other similar technologies to improve our websites, make recommendations, and complete transactions you request.   
+
+
+This data is used by IDT and its vendors to deliver customized content and advertising to customers whose behavior indicates that they are interested in a particular subject area.  This content may be delivered on our websites, on non-IDT websites, on our mobile apps, by our representatives, via email, via SMS, via push notifications or via other IDT services.  We use this information in order to, among other things, ensure that you see the correct product information, manage the frequency with which you see an advertisement, tailor advertisements to better match your interests, and to understand the effectiveness of our advertising.
+
+**5.          Information You Provide**  
+When you contact us for information about Boss Revolution products, services or promotions, we may collect information from you such as:
+
+  * personal contact and billing information; 
+  * email address or phone number;
+  * credit information; and/or
+  * other information you provide to us.
+
+
+
+If you enter a promotion or sweepstakes, your information may be disclosed as part of the program’s administration, such as in connection with the publication of winners, prize fulfillment, and as required by law or permitted by the promotion’s official rules.  We may also collect information from you when you agree to participate in surveys or provide other feedback to us regarding our products or services.  We use this information only for the purpose for which you provide it.  
+
+
+When you open an IDT email or SMS message or click on links within these emails or text messages, we may collect and retain information to provide you with future communications that may be more interesting to you.  Please note that IDT will not ask you to send us via email any sensitive personal or account information.  
+
+
+**How We Share Information**  
+We share your information in the following ways.
+
+**1.          Information Shared Within the IDT Telecom Family of Companies**  
+IDT shares customer information within the IDT Telecom, Inc. family of companies (“
+
+ _IDT Family of Companies_
+
+”) for operational purposes, our own marketing purposes and for general administration purposes.  Sharing this information allows us to provide you with the latest information about the IDT Family of Companies’ products and services and to offer you our latest promotions.
+
+**2.          Information Shared Outside the IDT Family of Companies**  
+IDT does not sell, license or share information that individually identifies our customers, people using our networks, or website visitors with others outside the IDT Family of Companies for non-IDT purposes without the consent of the person whose information will be shared, except as explained in this Privacy Policy.
+
+IDT does not sell, rent or lease its customer lists to third parties.  IDT does not publish directories of our customers’ wireless phone numbers, and we do not provide or make them available to third parties for listing in directories without prior customer consent.  
+
+
+IDT uses vendors and partners for a variety of business purposes such as to help us offer, provide, operate, repair and bill for products and services we deliver to you.  We share information with those vendors and partners to the extent reasonably necessary for them to perform work on our behalf.  For example, we may provide your credit card information and billing address to our payment processing company solely for the purpose of processing payment for a transaction you have requested.  We request that these vendors and partners protect the customer information we may provide to them and limit their use of IDT customer data to the purposes for which it was provided.  
+
+
+IDT also may share certain de-identified information with third parties for marketing, advertising or other purposes, including the delivery of advertising campaigns and preparing and sharing aggregate business and marketing reports.  
+
+
+If you purchase products or services offered jointly by IDT and one of our partners, customer information may be received by both IDT and our partner that is providing the product or service.  For these jointly offered products and services, you should also review the partner company’s privacy policy which may include practices that are different from the practices described here.  
+
+
+We may disclose information that individually identifies our customers or identifies customer devices in certain circumstances, such as:
+
+  * to comply with valid legal process including subpoenas, court orders or search warrants, and as otherwise authorized by law;
+  * in cases involving danger of death or serious physical injury to any person or other emergencies;
+  * to protect our rights or property, or the safety of our customers or employees;
+  * to protect against fraudulent, malicious, abusive, unauthorized or unlawful use of or subscription to our products and services and to protect our network, services, devices and users from such use;
+  * to advance or defend against complaints or legal claims in court, administrative proceedings and elsewhere;
+  * to credit bureaus or collection agencies for reporting purposes or to obtain payment for IDT-billed products and services;
+  * to a third-party that you have authorized to verify your account information;
+  * to outside auditors and regulators; or
+  * with your consent.
+
+
+
+**3.          Information Provided to or Used by Third-Party Advertising Entities or Social Networks**  
+You may see third-party advertisements on the Boss Revolution Websites, products or services.  Some advertisements are chosen by companies that place advertisements on behalf of other third-party advertisers.  These companies, often called ad servers, may place and access cookies on your device to collect information about your visit on our websites.  The information they collect from our sites is in a form that does not identify you personally.  This information may be combined with similar data obtained from other websites to help advertisers better reach their targeted audiences.  Targeting may be accomplished by tailoring advertising to interests that they infer from your browsing of our sites and your interaction with other websites where these ad servers also are present.  
+
+
+If you choose to interact with specific advertisers who advertise on the Boss Revolution Websites, the information you provide to them is subject to the conditions of their specific privacy policies.  In addition, responding to or interacting with a particular advertisement, may result in you later receiving a targeted advertisement on our websites or on other sites as a result of an ad server or ad network concluding that you fit within a particular audience an advertiser is trying to reach.  
+
+
+The Boss Revolution Websites also include social network or other third-party plug-ins and widgets that may provide information to their associated social networks or third-parties about the IDT page you visit, even if you do not click on or otherwise interact with the plug-in or widget.   
+
+
+**How to Limit the Sharing and Use of Your Information**  
+You have choices about how IDT shares and uses your personal information.
+
+**1.          Customer Proprietary Network Information (CPNI)**  
+There are additional protections that apply with regard to certain information we collect and maintain about the telecommunications services you buy from us and how you use them.  This information is categorized by the Federal government as Customer Proprietary Network Information or CPNI.  CPNI includes, for example, call details, call location information, and certain information about your rate plans and features. CPNI does not include your name, address, and phone number.  Specific laws govern our sharing and use of CPNI.
+
+You may choose whether to allow IDT to share your CPNI within the IDT Family of Companies for certain marketing purposes.  This choice will remain in effect unless you change it.  To opt-out of this sharing contact us at [support@bossrevolution.com](mailto:support@bossrevolution.com).
+
+**2.          Do Not Call Lists**  
+Federal “Do Not Call” laws allow you to place residential wireline and wireless phone numbers on the National Do Not Call Registry to prevent telemarketing calls to those numbers.  If you would like to add your numbers to this list, you may do so by calling 1-888-382-1222, or by visiting 
+
+_www.donotcall.gov_
+
+.  
+
+
+You should be aware that even if you add your number(s) to the Federal or a state Do Not Call list, most telemarketing laws allow companies to contact their own customers.  If at any time you would like to be removed from IDT’s telemarketing list, please let us know by contacting us at [support@bossrevolution.com](mailto:support@bossrevolution.com).  Please allow 30 days for your telephone number to be removed from any sales programs that are currently underway.  Please note that we may still call you regarding your Boss Revolution account and services even if you remove your number from our telemarketing list.
+
+**3.          Opting Out of Email and Text Marketing Messages**  
+Marketing emails you receive from IDT include an unsubscribe instruction usually found at the bottom of the email that you may use to opt out of receiving future marketing-related emails.  Text and SMS message solicitations from IDT also contain an opt-out feature that you can use to prevent future marketing text and SMS messages from us.  Your ability to manage some Boss Revolution products and services could be limited if you withdraw your consent to receive text and SMS messages.  IDT does not recommend using those Boss Revolution products and services without authorization to receive such messages. 
+
+**4.          Information Used for Online Advertising**  
+You have choices about whether certain information is collected on the Boss Revolution Websites.  You can limit the collection of certain website information by deleting or disabling cookies.  Most computers’ Internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored.  Please note that disabling cookies may prevent you from using specific features on our sites and other websites, such as ordering products or services and maintaining an online account.
+
+**Working Together to Help Keep Children Safe**  
+IDT does not knowingly market to or collect information from children under the age of 13 without obtaining verifiable parental consent.  If you allow a child to use your device or Boss Revolution services, you should be aware that their personal information could be collected as described in this policy.  We encourage parents to be involved in the online activities of their children to ensure that no information is collected from a child without parental permission.  The IDT network may not be used by customers in any manner for the storage, transmission or dissemination of images containing child pornography or any other illegal or inappropriate activity involving children and we will report any instances of such activity of which we become aware to the appropriate law enforcement authorities.
+
+**Information Security**  
+IDT has technical, administrative and physical safeguards in place to help protect against unauthorized access to, use or disclosure of customer information we collect or store, including Social Security Numbers.  Employees are trained on the importance of protecting privacy and on the proper access to, use and disclosure of customer information.  Under our practices and policies, access to sensitive personally identifiable information is authorized only for those who have a business need for such access, and sensitive records are retained only as long as reasonably necessary for business or legal purposes.  IDT secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure.  Personal information (such as a credit card number) is transmitted to our websites through the use of Secure Socket Layer (SSL) encrypted protection.  The Boss Revolution Websites are PCI complaint in connection with your credit card information. 
+
+Although we work hard to protect personal information that we collect and store, no program is 100% secure and we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use or disclose personal information.  IDT maintains security and incident response plans to handle incidents involving unauthorized access to private information we collect or store.  If you become aware of a security issue, please contact us.
+
+**Contact Information**  
+If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices you may contact us at:  
+IDT Domestic Telecom, Inc.  
+Boss Revolution Product Team  
+550 Broad Street, 4th floor  
+Newark, NJ 07102  
+Telephone:  973-438-1000  
+Email:  [support@bossrevolution.com](mailto:support@bossrevolution.com)
+
+**Accessing and Updating Your Information**  
+We strive to keep our customer records as accurate as possible.  You may correct or update your Boss Revolution customer information by calling an IDT customer service representative at 1-800-676-8312 or by accessing your account online and providing the updated information there.
+
+**Links to and from non-IDT Websites and Content**  
+Boss Revolution Websites may contain links to non-IDT sites.  In addition, Boss Revolution applications or other content may be included on web pages and web sites that are not associated with IDT.  We have no control over these non-IDT sites and are not responsible for the content on these sites or platforms or the privacy policies and practices employed by these sites and platforms.  We recommend that you review the policies and practices of the sites you visit.
+
+**Information Sharing:  Social Networking**  
+Some IDT Boss Revolution websites, applications, and services may allow you to participate in blog discussions, message boards, chat rooms, and other forms of social networking and to post reviews.  Please be aware that these forums are accessible to others.  We urge you to not submit any personally identifiable information to these forums because any information you post can be read, collected, shared, or otherwise used by anyone who accesses the forum.  IDT is not responsible for the information you choose to submit in these forums.  If you post content to information sharing forums, you are doing so by choice and you are providing consent to the disclosure of this information.
+
+**Your California Privacy Rights**  
+California Civil Code Section 1798 entitles California customers to request information concerning whether a business has disclosed personal information to any third parties for the third parties’ direct marketing purposes.  As stated in this Policy, IDT will not sell or share your personal information outside the IDT Family of Companies for their direct marketing purposes without your consent.
+
+**Changes to This Policy**  
+We reserve the right to make changes to this Privacy Policy, so please check back periodically for changes.  You will be able to see that changes have been made by checking to see the effective date posted at the beginning of the policy.
+
+If IDT elects to use or disclose information that identifies you as an individual in a manner that is materially different from that stated in our policy at the time we collected that information from you, we will give you a choice regarding such use or disclosure by appropriate means, which may include use of an opt-out mechanism.
+
+**©2014 IDT Domestic Telecom, Inc. All Rights Reserved.**
