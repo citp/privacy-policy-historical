@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satvikshop.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125031256id_/http%3A//satvikshop.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satvikshop.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063943id_/http%3A//satvikshop.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,14 +48,15 @@ However the internet is an ever evolving medium. We may change our privacy polic
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
-In the event you have any grievance relating to the processing of information provided by you, you may contact our [grievance.shopping@indiatimes.co.in;](mailto:grievance.shopping@indiatimes.co.in) or write at the following address: **Subrata Chaudhuri  
+In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer at [](mailto:grievance.shopping@indiatimes.co.in) or write at the following address:   
+**Subrata Chaudhuri  
 Grievance Redressal Officer  
 Times Internet Limited**  
-4th Floor, MPD Tower,  
-DLF City Phase V, Opposite DLF Golf Course  
-Gurgaon, Haryana 122002  
+Plot No. 391, Udyog Vihar, Phase III,  
+Gurgaon 122016  
+Haryana  
 India  
-Ph: 0124-4187000. 
+Phone: 0124-4518550 
 
 We request you to please provide the following information in your complaint:-  
 (a) Identification of the information provided by you.  
