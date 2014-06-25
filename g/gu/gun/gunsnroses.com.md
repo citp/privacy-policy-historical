@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gunsnroses.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208065003id_/http%3A//www.gunsnroses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsnroses.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062835id_/http%3A//www.gunsnroses.com/privacy) for the most accurate reproduction.*
 
-# Home : Guns N Roses
+# Home : Guns N' Roses
 
 This policy is effective as of **November 29, 2011** , and reflects only non-material changes and clarifications from the previous version.
 
