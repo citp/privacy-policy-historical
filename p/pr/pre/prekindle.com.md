@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prekindle.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028061903id_/http%3A//prekindle.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prekindle.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110130id_/http%3A//www.prekindle.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
