@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qiqigames.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029115335id_/http%3A//www.qiqigames.com/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qiqigames.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044659id_/http%3A//www.qiqigames.com/page/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,11 @@ Our site contains links, including banner and other ads, to other Websites. We a
 Applications you use or download from our site may contain third party digital rights management systems ('DRMS') which may allow for communication between your software and the third party and utilize security features (e.g., preventing distribution of or access to the applications in the event of unauthorized use). These DRMS are subject to their own license agreements and you agree that we shall not be responsible for any loss or damage of any sort relating to the use of the DRMS or your dealings with such third parties. The applications may also contain DRMS produced by us which allow for communication between the applications you use or download and our systems and which collect information describing your computer system in order to prevent illegal or unauthorized use of the applications. 
 
 For reasons such as improving member experience and providing customized communications to our users, we may receive information about you from third party sources and our web logs and add it to the information that we have received from you. Web logs automatically record anything a web server sees, which may include e-mail addresses you enter into a form or pages viewed by a user at a particular IP address. 
+
+**DoubleClick DART and Third-Party Vendors Cookies**
+
+We also may use DART and third-party vendors cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART cookies use "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.networkadvertising.org/managing/opt_out.asp>   
+Third parties, like Google, may collect certain types of information about visits to the site, including interaction with content on these sites. As always, no personally identifiable information will be collected. 
 
 **Information Sharing**
 
