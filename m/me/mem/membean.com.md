@@ -1,72 +1,83 @@
-> *The following text is extracted and transformed from the membean.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109092828id_/https%3A//membean.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membean.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100020id_/https%3A//membean.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Membean
 
-At Membean we take your privacy seriously. We summarize below the basic information and policies in place on all Membean sites. If you have any questions about our privacy policy, please email us.
+### Our commitment to your privacy
 
-### What information do we collect?
+Membean, Inc., an Oregon corporation ("Membean"), respects your individual privacy. Our privacy policy documents our adherence to industry standards for the protection of your personal information. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously.
+### Scope of the Privacy Policy
 
-### What do we use your information for?
+This Privacy Policy covers Membean' treatment of personally identifiable information that may be collected while you are on the Membean site, when you order and/or use its products or services or that is shared with Membean by its business partners. This policy does not apply to the practices of companies not owned or controlled by Membean or to people whom Membean does not employ or manage, nor does it address non-personally identifiable information. The policy specifically addresses the following areas: 
 
-Any of the information we collect from you may be used in one of the following ways:
-
-  * To personalize your experience. Your information helps us to better respond to your individual needs.
-  * To improve our website. We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * To improve customer service. Your information helps us to more effectively respond to your customer service requests and support needs.
-  * To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-  * To send periodic emails.
-
+  * What personally identifiable information is collected by Membean or by any third party through our site and/or via our products or services;
+  * How Membean uses this information;
+  * With whom Membean may share this information;
+  * What choices are available to you as a user of the site and/or products and services with respect to collection, use and distribution of the information;
+  * What types of security procedures are in place to protect the loss, misuse or alteration of information under our control; and
+  * How you can correct any inaccuracies in the information.
 
 
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-### How do we protect your information?
+### Information Collection and Use
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
+Membean is the sole owner of the information collected on this site or via our products and services. Membean may collect information from you at two different stages. First, we collect anonymous, aggregate information from all visitors to the site and users of our products and services. This information is never linked to any personally identifiable information and is only used in the aggregate to generate statistical reports about the use of our site, products and services. Second, Membean collects personally identifiable information when you, or your school, school district, parent or legal guardian (each, an “Account Creator”), create a Membean account and when you or the Account Creator order Membean products or utilize certain services. Online account creation may require you or the Account Creator to submit the following personal information: name, address, school or school district information, email address, and the following information for students that will access and use Membean products and services: student names, school identification numbers and email address (the “Student Information”). For purposes of billing, you may need to provide your credit card type, number, expiration date and billing address for the card. Certain personally identifiable information is required if you subscribe to a Membean newsletter, or sign up to participate in a promotion, sweepstake or survey through the site. Membean may also receive personally identifiable information from our business partners. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+### Personal Information of Children Under 13
 
-After a transaction, your private information (credit cards, financials, etc.) will not be kept on file for more than 60 days.
+Membean complies with the requirements of the Children’s Online Privacy Protection Act (COPPA) and the FTC’s Rule interpreting COPPA (16 CFR § 512). If you are under 13 you must have your parent’s or legal guardian’s approval prior to posing any content on the site. This is either obtained through your school or school district administrator or directly from your parents or legal guardian. Membean collects limited personal information from students, including the Student Information described above ("Children's Personal Information"), but only where that student's school, school district, parent and/or legal guardian has contracted with Membean to collect Children's Personal Information from students for the use and benefit of the learning environment. Membean requires schools and school districts to obtain consent from students' parents and/or legal guardians before collecting any such Children's Personal Information. If you are a student, please do not send any Children's Personal Information about yourself to us, other than what we request from you when you sign up for Membean products and services. In the event that we learn that we have collected Children's Personal Information from a student without parental consent being obtained, or if we learn a student has provided us Children's Personal Information beyond what we request when he or she signs up for Membean products and services, we will delete that information as quickly as possible. If you believe that a student may have provided us Children's Personal Information beyond what is requested when signing up for Membean products and services, or that parental consent has not obtained, please contact us at [support@membean.com](mailto:support@membean.com)
 
-### Do we use cookies?
+### Use of Your Personal Information
 
-Yes (cookies are small files that a site or its service provider transfers to your computer's hard drive through your web browser that enables the site's or service provider's systems to recognize your browser and capture and remember certain information).
+Our primary goal in collecting information from you is to provide you with a smooth, efficient and customized experience while using our site and to allow us to provide products and services to you. Membean will never give your information to, or share your information with, any third party not affiliated with or owned by Membean, except as permitted by law. Membean will send personally identifiable information about you to other companies or people when: 
 
-We use cookies to understand and save your preferences for future visits.
+  * We have your consent, including, if you are under 13, the consent of your parent or legal guardian, to share the information;
+  * We need to share your information to provide the products or services you have requested;
+  * We need to send the information to companies who work on behalf of Membean to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us); or
+  * We respond to subpoenas, court orders, or legal process or find that your actions violate the Membean Terms of Service or any of our usage guidelines for specific products or services.
 
-### Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-### California Online Privacy Protection Act Compliance
+##### Profile
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+We store information that we collect through cookies and log files to create a profile of our customers. A profile is stored information detailing how individual customers use the site. Collected information in a profile is tied to the customer’s personally identifiable information. However, your profile is used solely for internal purposes, to help us improve the experience of our customers. We do not share your profile with any third parties. 
 
-### Children's Online Privacy Protection Act Compliance
+##### Cookies
 
-We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+A cookie is a small text file stored on the customer’s hard drive for an extended period of time. The cookies can be removed by following Internet browser help file directions. Allowing a Membean cookie to remain on your computer makes it easier for you to log in to and use the site. 
 
-### Terms and Conditions
+##### Log files
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://membean.com/agreement.
+Log files record internet protocol (IP) addresses, browser types, internet service provider (ISP) referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track a customer’s movement in the aggregate and gather broad demographic information for aggregate use. IP addresses, etc are not linked to personally identifiable information. 
 
-### Your Consent
+### Disclosure of Personal Information As Required By Law
 
-By using our site, you consent to our privacy policy.
+We will disclose personal information when required by law, or if we have good-faith belief that such action is necessary to (a) comply with current judicial proceedings, a court order or legal process served on us, (b) protect and defend our rights, or (c) protect the rights, property, and other interests of our users or others. 
 
-### Changes to our Privacy Policy
+### Access to Children’s Personal Information
 
-If we decide to change our privacy policy, we will post those changes on this page.
+Notwithstanding anything to the contrary, if you are a student accessing and using Membean products and services, you understand that your (i) parent and/or legal guardian, (ii) teachers and (iii) school and school district administrators can view all information within or associated with your Membean account, including without limitation messages between you and your teacher and grades you received on assignments. 
 
-This policy was last modified on 06/07/2010.
+### Business Transitions
 
-### Contacting Us
+In the event that Membean goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, our customers’ personal information may be part of the assets transferred. Customers will be notified via prominent notice on our site prior to a change of ownership or control of their personal information. If, as a result of the business transaction, your personally identifiable information will be used in a manner materially different from that stated at the time of collection, you will be given a choice consistent with our Notification of Changes section. 
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+### Links
 
-[Contact Us.](https://web.archive.org/contact)   
-8248 SW Apple Way S301   
-Portland, OR 97225, USA   
-[contact@membean.com](mailto:contact@membean.com)
+This site may contain links to and portions of other sites. Membean is not responsible for the privacy practices or content of these other sites. When you leave our site or view a portion of a third party’s site through our site, we encourage you to read the privacy statements of each such site. This privacy statement applies solely to information collected by Membean. 
+
+### Security
+
+Wherever your personal information may be held within Membean or on its behalf, we intend to take commercially reasonable and appropriate steps to protect the personal information that you share with us from unauthorized access or disclosure. However, given the nature of the Internet and the fact that network security measures are not infallible, we cannot guarantee the security of your information. We use encryption to protect sensitive information online. The servers that store your personally identifiable information are housed in a secure environment. Finally, we also make an effort to protect your information off-line. When registering for access to a secure area of the site, we may ask you to select a username and password. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also, remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence when accessing your computer. 
+
+### Correcting, Updating, Deleting and Deactivating Personal Information
+
+If your personally identifiable information changes, you may contact us to correct, update or delete and deactivate our record of your personally identifiable information. Parents and/or legal guardians may access your child’s information to correct, update, request deletion or further collection and use of their information, including Children’s Personal Information, by contacting us at the email address provided below or by contacting their school or school district administrator. 
+
+### Notification of Changes
+
+Membean may edit this policy from time to time. If we make any substantial changes, we will prominently post a notice on the main page and other pages to alert you of the change. 
+
+### Contact Information
+
+If you have any questions about our privacy policy, please contact us at [contact@membean.com](mailto:contact@membean.com)
