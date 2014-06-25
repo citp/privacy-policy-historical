@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the girlsocool.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231064654id_/http%3A//www.sgn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsocool.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130545id_/http%3A//www.sgn.com/privacy) for the most accurate reproduction.*
 
-# SGN – Social Gaming Network » Privacy Policy
+# SGN - Privacy Policy
 
 _Effective Date: February 17, 2012_
 
@@ -77,4 +77,4 @@ Our Services may provide links to other websites. If you choose to visit an adve
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please contact us at privacy@sgn.com 
+If you have any questions about this Privacy Policy, please contact us at privacy@sgn.com
