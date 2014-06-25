@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gardenofpraise.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009105359id_/http%3A//gardenofpraise.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenofpraise.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092933id_/http%3A//gardenofpraise.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-####    
+  
 Patsy Stevens at Garden of Praise has created this privacy statement in order to demonstrate her firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Garden of Praise. 
 
 Garden of Praise is not a company. It is not even a registered non-profit organization. It is an individual effort by the webmaster to create the content you see and hear. All inquiries about Garden of Praise should be directed to Patsy Stevens. This privacy statement was created so that you will have better information about how your personal information is stored and used at this site. 
@@ -44,7 +44,3 @@ Contacting the Web Site
 If you have any questions about this privacy statement, the practices of this site, or your dealings with Garden of Praise, please contact: 
 
 Patsy Stevens 
-
-Contact Mrs. Stevens by email.
-
-### 
