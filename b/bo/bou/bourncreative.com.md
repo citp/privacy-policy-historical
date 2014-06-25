@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bourncreative.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603044133id_/http%3A//www.bourncreative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bourncreative.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625191818id_/http%3A//www.bourncreative.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bourn Creative
 
@@ -18,9 +18,10 @@ We collect your personal information because it helps us deliver a superior leve
 
 There are a number of situations in which your personal information may help us give you better products. For example:
 
-We may ask for your personal information when you’re discussing a service issue on the phone with an associate. When you interact with Bourn Creative, LLC, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences; your credit card information and other information. We also collect information for market research purposes – such as your occupation and where you use your computer – to gain a better understanding of our customers and thus provide more valuable service. We collect information regarding customer activities on our websites. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites, products, and Internet services are of most interest to them.
+We may ask for your personal information when you’re discussing a service issue on the phone with an associate. When you interact with Bourn Creative, LLC, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences; your credit card information and other information. We also collect information for market research purposes — such as your occupation and where you use your computer — to gain a better understanding of our customers and thus provide more valuable service. We collect information regarding customer activities on our websites. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites, products, and Internet services are of most interest to them.
 
-We may use personal information to provide products that you have requested as well as for auditing, research, and analysis to improve Bourn Creative, LLC’s products.  
+We may use personal information to provide products that you have requested as well as for auditing, research, and analysis to improve Bourn Creative, LLC’s products.
+
 We collect personal information about users of our websites through activities such as purchase transactions and completion of forms on our websites. Such information is collected when users register or subscribe to accounts or features on our websites, make online purchases, complete surveys, comment on our blogs, opt-in to our email marketing list, submit a comment or question to us using a “contact us” form or similar feature, send us an e-mail, or in any other way submit personal information voluntarily to us through our websites.
 
 If you post blog comments, use a bulletin board, chat room or other similar features on a Bourn Creative, LLC website you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. Bourn Creative, LLC is not responsible for the personally identifiable information you choose to submit in these forums. For example, if you choose to make information, which was previously non-public, available by enabling certain user features, Bourn Creative, LLC will collect that information from your interaction and the information will become publicly available.
@@ -49,7 +50,7 @@ Except as otherwise disclosed to you, we will not sell, rent or disclose your pe
 
 ### How We Protect Your Personal Information
 
-Bourn Creative, LLC takes precautions – including administrative, technical, and physical measures – to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
+Bourn Creative, LLC takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
 
 The Bourn Creative, LLC websites use secure encryption, provided by a third party, on some web pages where credit card information is required. To make purchases from any of the Bourn Creative, LLC websites you must use a modern SSL-enabled browser such as Safari, Netscape Navigator 3.0 or later, or Internet Explorer. Doing so protects the confidentiality of your personal and credit card information while it’s transmitted over the internet.
 
@@ -109,4 +110,4 @@ Bourn Creative, LLC abides by the safe harbor framework set forth by the U.S. De
 
 Bourn Creative, LLC reserves the right to change or update this privacy policy, or any other of our policies or practices, at any time without notice. Any changes or updates will be effective immediately upon posting to this website. Under certain circumstances, we may also elect to notify you of changes or updates to our privacy policy by additional means, such as posting a notice on the front page of our website to sending you an e-mail. We encourage you to review this privacy policy often for changes.
 
-For information regarding our disclaimer notice please [visit this page](https://web.archive.org/disclaimer-notice "Disclaimer Notice").
+For information regarding our disclaimer notice please [visit this page](http://www.bourncreative.com/disclaimer-notice "Disclaimer Notice").
