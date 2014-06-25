@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lazaruslabs.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819021035id_/http%3A//www.lazaruslabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazaruslabs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065505id_/https%3A//www.lazaruslabs.com/privacy) for the most accurate reproduction.*
 
-# Lazarus Labs | Privacy Statement
+# Health Supplements | Privacy Statement | Lazarus Labs
 
 Lazarus Labs recognizes your need for protection of your privacy and for responsible management of personally identifiable information that you share with us, including information by which you can be identified. We have established this Privacy Policy in order to demonstrate our respect for, and commitment to, protecting your privacy.
 
