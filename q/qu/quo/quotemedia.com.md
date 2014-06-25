@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the quotemedia.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219220155id_/http%3A//www.quotemedia.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotemedia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121319id_/http%3A//www.quotemedia.com/legal/privacy) for the most accurate reproduction.*
 
-# QuoteMedia - Privacy Policy
+# Privacy Policy > QuoteMedia
+
+## QuoteMedia Privacy Policy
 
   1. **1.1** QuoteMedia is strongly committed to protecting the privacy of users of it's interactive products and services.
   2. **1.2** This privacy policy applies to the QuoteMedia.com Inc. site and all of the Internet accessible QuoteMedia branded services, which we may offer from time to time, referred hereinafter as QuoteMedia. The purpose of this privacy policy is to inform you, our visitor, what types of information we may gather about you when visiting our site and how we may use that information. We will also inform you whether we disclose your information to anyone and if so, under what conditions, as well as the choices you have regarding our use of the information.
@@ -41,5 +43,3 @@ By using the QuoteMedia site you signify your acceptance of our Privacy Policy a
 ### 8\. REVISION
 
 Last revision date: Jan 15, 2003
-
-If you would like to unsubscribe from our IR Mailing List.. [Click Here](http://www.quotemedia.com/unsubscribe.php). 
