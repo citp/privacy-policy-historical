@@ -1,20 +1,19 @@
-> *The following text is extracted and transformed from the optiontrade.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107040856id_/http%3A//www.optiontrade.com/templates/optiontrade/documents/option_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optiontrade.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062523id_/https%3A//www.optiontrade.com/templates/optiontrade/documents/option_privacy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-                    HF Markets Europe Ltd.
-                         PRIVACY POLICY
-                                September 2013
+                 HF Markets Europe Ltd.
+                      PRIVACY POLICY
                                           1
-                             HF MARKETS EUROPE LTD
-        Regulated by the Cyprus Securities and Exchange Commission (CySEC)
-                Licence Number 183/12 - Registration Number 277582
-Risk warning: Trading Forex and CFD's is risky and you may lose all of your investment.
+                            HF MARKETS EUROPE LTD
+      Regulated by the Cyprus Securities and Exchange Commission (CySEC)
+             Licence Number 183/12 - Registration Number 277582
+Risk Warning: Binary Option Trading is risky and you may lose all of your investment
 
 
 PRIVACY POLICY
-This privacy statement covers the website www.hotforex.com, any other related websites that
-are registered and operated by the Company as well as www.optiontrade.com
+This privacy statement covers the website www.optiontrade.com and any other related
+websites that are registered and operated by the Company.
 1. Application ....................................................................................................................................3
 2. Personally Identifiable Information.................................................................................................3
 3. Agents ...........................................................................................................................................3
@@ -31,13 +30,13 @@ are registered and operated by the Company as well as www.optiontrade.com
 14. Right of Access .............................................................................................................................7
 15. Transmittal ..................................................................................................................................7
 16. Records ........................................................................................................................................7
-17. Recordings ...................................................................................................................................7
+17. Recordings ...................................................................................................................................8
 18. Contact ........................................................................................................................................8
                                                                          2
                                                         HF MARKETS EUROPE LTD
                            Regulated by the Cyprus Securities and Exchange Commission (CySEC)
                                      Licence Number 183/12 - Registration Number 277582
-                Risk warning: Trading Forex and CFD's is risky and you may lose all of your investment.
+                  Risk Warning: Binary Option Trading is risky and you may lose all of your investment
 
 
 1. Application
@@ -67,11 +66,11 @@ to provide you with any information we believe may be useful to you.
 We reserve the right to disclose your personally identifiable information as required by law and
 when we believe that disclosure is necessary to protect our rights and/or to comply with a
 judicial proceeding, court order, or legal process served on our Web site.
-                                                        3
+                                                         3
                                            HF MARKETS EUROPE LTD
-                      Regulated by the Cyprus Securities and Exchange Commission (CySEC)
-                              Licence Number 183/12 - Registration Number 277582
-              Risk warning: Trading Forex and CFD's is risky and you may lose all of your investment.
+                     Regulated by the Cyprus Securities and Exchange Commission (CySEC)
+                            Licence Number 183/12 - Registration Number 277582
+               Risk Warning: Binary Option Trading is risky and you may lose all of your investment
 
 
 6. Choice/Opt-out
@@ -91,8 +90,8 @@ Internet browser's “help" file.
 We set a persistent cookie for statistical purposes. Persistent cookies also enable us to track
 and target the location and the interests of our users and to enhance the experience of our
 services on our site.
-If you reject cookies, you may still use our site, but you will not be able to use MyHotForex and
-submit your application form.
+If you reject cookies, you may still use our site, but you will not be able to use myOptionTrade
+and submit your application form.
 Some of our business partners use cookies on our site. We have no access to or control over
 these cookies.
 8. Security and Protection of your Personal Information
@@ -100,15 +99,15 @@ The personal information that you provide in connection with registering yoursel
 the Site or of the Services is classified as Registration Information. Registration Information is
 protected in many ways. You can access your Registration Information through a password
 selected by you. This password is encrypted and known only to you. Your password must not be
+                                                         4
+                                           HF MARKETS EUROPE LTD
+                     Regulated by the Cyprus Securities and Exchange Commission (CySEC)
+                            Licence Number 183/12 - Registration Number 277582
+               Risk Warning: Binary Option Trading is risky and you may lose all of your investment
+
+
 revealed to anyone. Registration Information is safely stored on secure servers that only
 authorized personnel have access to via password. The Company encrypts all personal
-                                                       4
-                                          HF MARKETS EUROPE LTD
-                     Regulated by the Cyprus Securities and Exchange Commission (CySEC)
-                             Licence Number 183/12 - Registration Number 277582
-             Risk warning: Trading Forex and CFD's is risky and you may lose all of your investment.
-
-
 information as it is transferred to the Company and thus makes all necessary effort to prevent
 unauthorized parties from viewing any such information.
 Personal information provided to our Company that is not Registration Information also resides
@@ -117,7 +116,7 @@ information cannot be online accessible by you, therefore no password shall be s
 view or modify this information.
 9. Access to Personally Identifiable Information
 If your personally identifiable information changes, you must inform us by emailing our
-Customer Support at support@hotforex.com
+Customer Support at support@optiontrade.com
 10. Legal Disclaimer
 We reserve the right to disclose your personally identifiable information as required by law and
 when we believe that disclosure is necessary to protect our rights and/or to comply with a
@@ -134,17 +133,17 @@ We reserve the right to modify this privacy statement at any time, so please rev
 frequently. If we make material changes to this policy, we will notify you here, by email, or by
 means of a notice on our home page.
 12. Collection of Information
+                                                         5
+                                           HF MARKETS EUROPE LTD
+                     Regulated by the Cyprus Securities and Exchange Commission (CySEC)
+                            Licence Number 183/12 - Registration Number 277582
+               Risk Warning: Binary Option Trading is risky and you may lose all of your investment
+
+
 The Company may collect client information directly from the Client (in his completed Account
 Opening Application Form or otherwise) or from other persons including, for example, credit
 reference agencies, fraud prevention agencies, other financial institutions and the providers of
 public registers.
-                                                       5
-                                          HF MARKETS EUROPE LTD
-                     Regulated by the Cyprus Securities and Exchange Commission (CySEC)
-                             Licence Number 183/12 - Registration Number 277582
-             Risk warning: Trading Forex and CFD's is risky and you may lose all of your investment.
-
-
 13. Confidentiality Obligations
 Client information which the Company holds is to be treated by the Company as confidential
 and will not be used for any purpose other than in connection with the provision,
@@ -174,17 +173,17 @@ following circumstances:
     confidentiality herein obligations as well;
     g. to other service providers who create, maintain or process databases (whether electronic
     or not), offer record keeping services, email transmission services, messaging services or
+                                                          6
+                                            HF MARKETS EUROPE LTD
+                      Regulated by the Cyprus Securities and Exchange Commission (CySEC)
+                             Licence Number 183/12 - Registration Number 277582
+                Risk Warning: Binary Option Trading is risky and you may lose all of your investment
+
+
     similar services which aim to assist the Company collect, storage, process and use Client
     information or get in touch with the Client or improve the provision of the Services under
     this Agreement;
     h. to data reporting service providers;
-                                                        6
-                                           HF MARKETS EUROPE LTD
-                      Regulated by the Cyprus Securities and Exchange Commission (CySEC)
-                              Licence Number 183/12 - Registration Number 277582
-              Risk warning: Trading Forex and CFD's is risky and you may lose all of your investment.
-
-
     i. to other service providers for statistical purposes in order to improve the Company’s
     marketing, in such a case the data will be provided in an aggregate form;
     j. to market research call centers that provide telephone or email surveys with the purpose
@@ -207,23 +206,23 @@ provisions of Processing of Personal Data (Protection of the Individual) Law of 
 Under Applicable Regulations, the Company will keep records containing Client personal data,
 trading information, account opening documents, communications and anything else which
 relates to the Client for at least five years after termination of the Client Agreement.
+                                                           7
+                                             HF MARKETS EUROPE LTD
+                       Regulated by the Cyprus Securities and Exchange Commission (CySEC)
+                              Licence Number 183/12 - Registration Number 277582
+                 Risk Warning: Binary Option Trading is risky and you may lose all of your investment
+
+
 17. Recordings
 Telephone conversations between the Client and the Company may be recorded and recordings
 will be the sole property of the Company. The Client accepts such recordings as conclusive
 evidence of the Orders/Instructions/Requests or conversations so recorded.
-                                                         7
-                                            HF MARKETS EUROPE LTD
-                       Regulated by the Cyprus Securities and Exchange Commission (CySEC)
-                               Licence Number 183/12 - Registration Number 277582
-               Risk warning: Trading Forex and CFD's is risky and you may lose all of your investment.
-
-
 18. Contact
 The Client accepts that the Company may, for the purpose of administering the terms of the
 Agreement, from time to time, make direct contact with the Client by telephone, fax, or
 otherwise.
-                                                      8
-                                         HF MARKETS EUROPE LTD
+                                                        8
+                                          HF MARKETS EUROPE LTD
                     Regulated by the Cyprus Securities and Exchange Commission (CySEC)
-                            Licence Number 183/12 - Registration Number 277582
-            Risk warning: Trading Forex and CFD's is risky and you may lose all of your investment.
+                           Licence Number 183/12 - Registration Number 277582
+              Risk Warning: Binary Option Trading is risky and you may lose all of your investment
