@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3skull.ch privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020034303id_/http%3A//www.mp3skull.ch/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3skull.ch privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082419id_/http%3A//mp3skull.ch/privacy_policy.php) for the most accurate reproduction.*
 
 # mp3skull.ch - Free Mp3 Download, Free Music Downloads
 
