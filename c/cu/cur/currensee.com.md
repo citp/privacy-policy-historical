@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the currensee.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109144551id_/http%3A//www.currensee.com/US/legal/security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currensee.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010832id_/http%3A//www.currensee.com/US/legal/security-policy) for the most accurate reproduction.*
 
-# US Security Policy | www.currensee.com
+# Privacy and Security Policy | www.currensee.com
 
 ### Introduction
 
