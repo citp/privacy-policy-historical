@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promocodesforyou.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204014652id_/http%3A//www.promocodesforyou.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promocodesforyou.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114224id_/http%3A//promocodesforyou.com/Privacy) for the most accurate reproduction.*
 
 # Privacy | PromoCodesForYou
 
@@ -50,8 +50,7 @@ This policy was last modified on 6-25-13
 
 If there are any questions regarding this privacy policy you may visit our [Contact ](http://www.promocodesforyou.com/index.php?page=contact_us) page or use the information below: 
 
-Linfield Media  
-2121 Cloverfield Blvd., Suite 132  
-Santa Monica, CA 90404
+PromoCodesForYou.com
 
-[info@linfieldmedia.com](mailto:info@linfieldmedia.com)
+2121 Cloverfield Blvd. Suite 132   
+Santa Monica, CA 90404
