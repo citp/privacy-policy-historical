@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americanlivewire.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012060553id_/http%3A//americanlivewire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanlivewire.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070117id_/http%3A//americanlivewire.com/privacy-policy) for the most accurate reproduction.*
 
-# Breaking American News, Global Affairs
+# Privacy Policy | AmericanLiveWire.com
 
-This Privacy Policy governs the manner in which American Live Wire collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.americanlivewire.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by American Live Wire.
+This Privacy Policy governs the manner in which American Live Wire collects, uses, maintains and discloses information collected from users (each, a “User”) of the  website http://americanlivewire.com/. This privacy policy applies to the Site and all products and services offered by American Live Wire.
 
 **Personal identification information**
 
@@ -47,8 +47,6 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-<http://americanlivewire.com/wp-content/uploads/2013/01/clicky.jpg>
-
 **Changes to this privacy policy**
 
 American Live Wire has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -60,8 +58,10 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[American Live Wire](http://www.americanlivewire.com/)  
-<http://www.americanlivewire.com/>  
+American Live Wire
+
+http://americanlivewire.com/
+
 Po Box 791 Armona, Ca 93245  
 (559) 772-2544  
 Contact@americanlivewire.com
