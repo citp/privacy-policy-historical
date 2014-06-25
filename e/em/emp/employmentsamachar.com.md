@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the employmentsamachar.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123192915id_/http%3A//employmentsamachar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmentsamachar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074527id_/http%3A//employmentsamachar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Employment Samachar | Sarkari Naukri
+
+## Current Government Jobs in India, Walk-in Interviews, Bank Jobs, Defence Jobs, Railway Jobs
+
+## Privacy Policy
 
 This website does not collect Personal Information about you when you visit the site automatically. You can visit this website without revealing Personal Information, unless you choose to provide any such information.
 
