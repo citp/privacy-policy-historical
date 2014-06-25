@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtrickz.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207203709id_/http%3A//webtrickz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrickz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133426id_/http%3A//webtrickz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
