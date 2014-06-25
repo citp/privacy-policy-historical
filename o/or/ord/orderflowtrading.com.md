@@ -1,47 +1,134 @@
-> *The following text is extracted and transformed from the orderflowtrading.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814114648id_/http%3A//www.orderflowtrading.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orderflowtrading.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626003148id_/http%3A//www.orderflowtrading.com/privacy.aspx) for the most accurate reproduction.*
 
-# Order Flow Trading - Become a Market Predator
+# Privacy Statement
 
-Order Flow Trading is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Order Flow Trading Web site and governs data collection and usage. By using the Order Flow Trading website, you consent to the data practices described in this statement.
+Goldsmith Services, LLC (OFT) has developed this Privacy Policy (“Policy”) to inform you about how we deal with privacy issues in relation to our website. Your privacy is very important to us and you must agree to the terms of this Policy before becoming an OFT member and/or using the OrderFlowTrading.com web site ( **Site** ). 
 
-Collection of your Personal Information
+This Policy governs the information we collect about you and your use of information we provide to you. By accepting this Policy and the User Terms & Conditions Agreement, you expressly consent to our use and disclosure of your personal information in a manner prescribed in this Policy. You acknowledge this by using the Site.
 
-Order Flow Trading collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Order Flow Trading also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+## Information About Children
 
-There is also information about your computer hardware and software that is automatically collected by Order Flow Trading. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Order Flow Trading for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Order Flow Trading Web site.
+Children (persons under the age of 18 years) are not eligible to use our services unsupervised and we ask that children not submit any personal information to us. If you are under the age of 18 years, you can browse the Site only in conjunction with and under the supervision of your parents or guardians. If you are under 18 years of age you cannot use the Join Now or Premium Tour areas of the Site.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Order Flow Trading public message boards, this information may be collected and used by others. Note: Order Flow Trading does not read any of your private online communications.
+It is the responsibility of parents to monitor their children’s use of our Site.
 
-Order Flow Trading encourages you to review the privacy statements of Web sites you choose to link to from Order Flow Trading so that you can understand how those Web sites collect, use and share your information. Order Flow Trading is not responsible for the privacy statements or other content on Web sites outside of the Order Flow Trading and Order Flow Trading family of Web sites.
+## Information Collection
 
-Use of your Personal Information
+### PART A – The Public Generally
 
-Order Flow Trading collects and uses your personal information to operate the Order Flow Trading Web site and deliver the services you have requested. Order Flow Trading also uses your personally identifiable information to inform you of other products or services available from Order Flow Trading and its affiliates. Order Flow Trading may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+Our primary purpose in collecting personal information is to provide you with a safer experience and encourage safe interaction between members using the Site as a venue. We only collect personal information about you that we consider necessary for this purpose and to achieve this goal.
 
-Order Flow Trading does not sell, rent or lease its customer lists to third parties. Order Flow Trading may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Order Flow Trading may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Order Flow Trading, and they are required to maintain the confidentiality of your information.
+You are under no obligation to provide us with this information and can access many aspects of the Site without providing us any personal information.
 
-Order Flow Trading does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+When you visit this website, we can record certain information in relation to your visit such as:
 
-Order Flow Trading keeps track of the Web sites and pages our customers visit within Order Flow Trading, in order to determine what Order Flow Trading services are the most popular. This data is used to deliver customized content and advertising within Order Flow Trading to customers whose behavior indicates that they are interested in a particular subject area.
+  * Your IP or proxy server IP;
+  * Basic domain information;
+  * Your Internet service provider is sometimes captured depending on the configuration of your ISP connection;
+  * The date and time of your visit to the website;
+  * The length of your session;
+  * The pages which you have accessed;
+  * The number of times you access our site within any month;
+  * The size of file you look at;
+  * The website which referred you to our website; and
+  * The operating system which your computer uses.
 
-Order Flow Trading Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Order Flow Trading or the site; (b) protect and defend the rights or property of Order Flow Trading; and, (c) act under exigent circumstances to protect the personal safety of users of Order Flow Trading, or the public.
 
-Use of Cookies
 
-The Order Flow Trading Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+This information is only used for statistical and website development purposes.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Order Flow Trading pages, or register with Order Flow Trading site or services, a cookie helps Order Flow Trading to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Order Flow Trading Web site, the information you previously provided can be retrieved, so you can easily use the Order Flow Trading features that you customized.
+Various pages on this Site invite you to provide us your name and contact details, for example, to go onto our mailing list for our newsletter, enter competitions, or to enable us to provide you with web site related services such as notifications.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Order Flow Trading services or Web sites you visit.
+If you use our Site’s feedback and support forms, you may be asked to provide your name, organization, title, address, email address and telephone number. OFT will not otherwise collect information from you through this Site unless you knowingly provide it to us.
 
-Security of your Personal Information
+By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us.
 
-Order Flow Trading secures your personal information from unauthorized access, use or disclosure. Order Flow Trading secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+The Site uses session cookies, which are used only during a browsing session, and expire when you quit your browser. Upon closing your browser, the session cookie set by this Site is destroyed and no personal information is maintained which might identify you should you visit our Site at a later date.
 
-Changes to this Statement
+If you choose to buy a product or service from our Site, we collect information about your buying and selling behavior. This information is only used for transation support, and statistical and website development purposes.
 
-Order Flow Trading will occasionally update this Statement of Privacy to reflect company and customer feedback. Order Flow Trading encourages you to periodically review this Statement to be informed of how Order Flow Trading is protecting your information.
+Please note that when you voluntarily disclose information on the bulletin boards or in the forums or in the chat areas of the Site or in member profile pages, your personal and other information disclosed in your communication shall become public information and can be collected and used by other parties. We cannot control what third parties in the bulletin board, forums, chat room or member profile pages do with your personal information.
 
-Contact Information
+### PART B – Members
 
-Order Flow Trading welcomes your comments regarding this Statement of Privacy. If you believe that Order Flow Trading has not adhered to this Statement, please contact Order Flow Trading at [darkstar@darkstarforex.com](mailto:darkstar@darkstarforex.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+We collect information from people who use Premium Membership sections of our Site (“Members”). This information may be used:
+
+  1. to send news, information about our activities and general promotional material which we believe may be useful to you or us;
+  2. to monitor who is accessing the membership section of the Site or using services offered on the Site; and
+  3. to profile the type of people accessing the Site.
+
+
+
+If you choose to buy from our Site we collect information about the transaction for support and administrative purposes.
+
+If you use a payment facilitator on the Site, we collect additional necessary information, including but not limited to billing address, shipping addresses, and Paypal IDs.
+
+#### USE OF INFORMATION AND DISCLOSURE
+
+OFT will only use the information it collects through the Site for the following purposes:
+
+  * Forwarding important information relating to OFT activities and other requested information;
+  * Contacting you in response to your feedback or query to discuss our services;
+  * Monitoring Site performance;
+  * Improving our Site and services to you;
+  * Internal administration; and
+  * Other purposes that are in accordance with your instructions.
+
+
+
+OFT will not give, sell, trade or otherwise disclose any personal information about you to a third party unless:
+
+  * You have provided us with your consent; or
+  * We are required to do so by law.
+
+
+
+#### COOKIES AND ADVERTISING
+
+Occasionally, we may use third party advertising companies to serve ads based on prior visits to the Site. These advertising companies use cookies to anonymously collect data.
+
+No personally identifiable information is collected by these cookies. The anonymous data they collect is kept separate from the personal information in your Member account.
+
+You can opt out of third party advertising cookies at any time by visiting this page: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+We use third party analytics services that use cookies to record general site usage information - like page visits and the way users move between pages on the Site. This general site analytics information is not matched to your user account.
+
+Other cookies are used to enhance your use of the Site, such as remembering that you are logged in. You are able to minimize or block cookies using the privacy settings in your internet browser, but this may restrict your use of the Site. For general information on cookies, see <http://www.allaboutcookies.org/>.
+
+#### ACCESS AND / OR CORRECTION OF YOUR DETAILS
+
+You may request access to your personal information and can ask us to correct your personal information.
+
+You can do this by [Contacting Support](https://web.archive.org/Contact.aspx)
+
+#### DISCLAIMER
+
+This Site contains links to other sites. OFT is not responsible for the privacy practices of linked sites. Underlined words and phrases are click-through links or hyperlinks to pages and websites. OFT strongly recommends that you read the Privacy Policy of the linked websites as they may contain further terms and conditions which apply to you
+
+#### SECURITY
+
+This Site has security measures in place to protect the loss or misuse of, or alteration or unauthorized access to, information under our control. However, if you send information from this Site, it will not be encrypted unless we expressly tell you it is.
+
+#### AMENDMENTS TO THE PRIVACY POLICY
+
+We may change this Policy. Such changes will be effective when a notice of the change is made available on the Site. We will provide you with thirty (30) days notice to allow you the opportunity to notify OFT if you do not agree to such changes.
+
+#### OPT – OUT PROVISION
+
+To protect you from unwanted email communications, OFT adopts an opt-out facility for marketing communication. If you decide you no longer would like to receive marketing communications from us, please advise us by [contacting support](https://web.archive.org/Contact.aspx) or follow the instructions in the “Opt-Out” section of the email you have received.
+
+If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if:
+
+  1. we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure;
+  2. we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for governmental or public security in the performance of their functions; or
+  3. we are required by law to disclosure the information.
+
+
+
+#### INTERNATIONAL TRANSFER OF INFORMATION
+
+Our servers and information processing equipment are located in a number of countries around the world, thus the information collected from you will be stored in these countries. By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us, including the transfer to another jurisdiction other than the United States of America.
+
+#### FURTHER INFORMATION
+
+For further information about OFT’s privacy policy, please [contact support](https://web.archive.org/Contact.aspx).
