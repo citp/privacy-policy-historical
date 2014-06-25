@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the printplanet.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116100827id_/http%3A//printplanet.com/index.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printplanet.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124717id_/http%3A//printplanet.com/index.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # PrintPlanet - Privacy Policy
 
 | 
 
-##  **Privacy Policy** [](http://printplanet.com/forums/index.php?pageid=privacy#top)
+##  **Privacy Policy**
 
 > **PrintPlanet Privacy Policy**
 > 
@@ -46,5 +46,3 @@
 > PrintPlanet Web sites may use "cookies" to store member names and passwords. Cookies allow us to both store and retrieve login information through a user's browser. Cookies, by themselves, cannot be used to find out the identity of any user. A cookie file can contain information such as a user ID that we use to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can not read data off your hard disk or read cookie files created by other sites. If for some reason you would rather not take advantage of the benefits made possible with cookies, most browsers allow you to reject cookies or to choose which cookies to accept. You do not need to have cookies turned on to use PrintPlanet at this time, but that may change without notice in the future. 
 
 | 
-
-##  **Sponsors** [](http://printplanet.com/forums/index.php?pageid=privacy#top)
