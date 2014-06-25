@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the broadbandforum.in privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906042724id_/http%3A//broadbandforum.co/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandforum.in privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626014939id_/http%3A//broadbandforum.co/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - India Broadband Forum
-
-[](http://goo.gl/xZL3I "Create Account")  to get access to advance features and fewer ads. Follow threads to stay up to date! 
 
   
 
@@ -29,6 +27,6 @@ We use [Google Analytics](http://goo.gl/sDd0G).
 Also read [this](http://broadbandforum.co/topic/99-disclaimer-privacy-policy-rules-regulations/) please. 
 
   1.  
-  2. [Privacy Policy](http://broadbandforum.co/privacypolicy/)
+  2. [Privacy Policy](https://broadbandforum.co/privacypolicy/)
 
 
