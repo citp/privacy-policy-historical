@@ -1,21 +1,12 @@
-> *The following text is extracted and transformed from the lenovo.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221110552id_/https%3A//www.lenovo.com/privacy/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenovo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140210id_/https%3A//www.lenovo.com/privacy/us/en) for the most accurate reproduction.*
 
-# Lenovo Privacy
+# Privacy
 
-|  |  |   
----|---  
-[Privacy](http://www.lenovo.com/privacy/us/en/)  
----  
-[Privacy Details](http://www.lenovo.com/privacy/details/us/en/)  
-[Cookies](http://www.lenovo.com/privacy/us/en/cookies/)  
-|   
-  
-|   | 
+  | 
 
 _Lenovo Privacy Practices on the Web_
 
 |   |    
----|---|---|---  
 |   
 **Scope**  
 This statement applies to Lenovo Web Sites Worldwide that are linked to this privacy policy.  | Personal Information  
@@ -45,17 +36,13 @@ Your Choices
   
 Important Information  
 ---  
-  
-To correct inaccuracies in Lenovo’s record of your personal information respond to the sender or contact Lenovo at [lnvinfo@lenovo.com](mailto:lnvinfo@lenovo.com)
-
-For Lenovo's complete notice see [Lenovo's Privacy policy](http://www.lenovo.com/privacy/details/us/en/).  
-  
 How to Contact Us  
 ---  
   
-Questions about this statement or about Lenovo's handling of your information may be submitted by filling out a [short submission form](http://shop.lenovo.com/SEUILibrary/controller/e/web/LenovoPortal/en_US/webforms.workflow:StartWebForms?WebFormId=privacy).  
+Questions about this statement or about Lenovo's handling of your information may be sent using our short [Privacy Submission Form](https://shop.lenovo.com/SEUILibrary/controller/e/web/LenovoPortal/en_CA/webforms.workflow:StartWebForms?WebFormId=privacy) or
+
+Lenovo Privacy  
+1009 Think Place  
+Morrisville, NC 27560  
   
-|  |  | This site chose VeriSign [SSL](http://www.verisign.com/ssl-certificate/) for secure e-commerce and confidential communications.  
----|---  
-[ABOUT SSL CERTIFICATES](http://www.verisign.com/ssl-certificate/) |    
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.lenovo.com/seal_m "Validate TRUSTe privacy certification")
+| 
