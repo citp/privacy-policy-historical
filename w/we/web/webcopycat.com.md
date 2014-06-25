@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcopycat.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208230347id_/http%3A//wcc2.webcopycat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcopycat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120605id_/http%3A//wcc2.webcopycat.com/privacy.php) for the most accurate reproduction.*
 
 # Web Copy Cat | Tactics For Running A Successful Home Business
 
