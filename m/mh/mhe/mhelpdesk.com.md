@@ -1,31 +1,75 @@
-> *The following text is extracted and transformed from the mhelpdesk.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228130446id_/http%3A//mhelpdesk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhelpdesk.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053204id_/http%3A//mhelpdesk.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Mhelpdesk
 
-## We take your Privacy Seriously:
+## PRIVACY POLICY
 
-MHelpdesk.com has developed this privacy statement (“Statement”) to demonstrate our firm commitment to privacy. This statement sets forth our information gathering and dissemination practices for http://www.MHelpdesk.com, or another designated web site or IP address provided to you by MHelpdesk.com. Privacy on the MHelpdesk.com web site (the “Site”) is of great importance to us.
+We take your privacy seriously:  
+We have developed this Privacy Policy to demonstrate our firm commitment to the privacy of your information. This statement sets forth our information gathering and dissemination practices for Mhelpdesk.com (the “Site”), or another designated web site or IP address provided to you by Mhelpdesk.com. Maintaining the privacy of your information is of great importance to us.
 
-## Collection of Personal Information from Site Visitors:
+## 1\. COLLECTION OF PERSONAL INFORMATION FROM SITE VISITORS.
 
-We require customers who register to use the services offered on MHelpdesk.com (collectively, the “Service”) to give us contact information, such as their name, company name, address, phone number, and e-mail address, billing information, such as billing name and address, credit card number, and the number of users within the organization that will be using the Service. At the time you express interest in attaining additional information, or when you register for the Service, we may also ask for additional personal information, such as title, department name, fax number, or additional company information. Customers can opt out of providing this additional information by not entering it when asked. Customers can update or remove their personal information at any time by logging into their MHelpdesk.com account and editing their personal information on the My Company Settings page. Customers can view their updated profile to confirm their edits have been made.
+We require customers who register to use the services offered on Mhelpdesk.com (collectively, the “Service”) to give us contact information, such as their name, company name, address, phone number, and e-mail address, billing information, such as billing name and address, credit card number, and the number of users within the organization that will be using the Service. At the time you express interest in attaining additional information, or when you register for the Service, we may also ask for additional personal information, such as title, department name, fax number, or additional company information. 
 
-MHelpdesk.com uses the information that we collect to set up the Service for individuals and their organizations. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and to send information regarding our company such as promotions and events. Customers are invited to receive an email newsletter by providing an email address. Customer email addresses and any personal customer information will not be distributed or shared with third parties. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to support@MHelpdesk.com. Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or company, and will send a Customer Newsletter. Again, email will not be distributed or shared and customers can opt out of receiving any communication by emailing support@MHelpdesk.com at the time it is distributed, or at the time any customer registers for the Service.
+## 2\. OTHER INCIDENTIAL INFORMATION WE TRACK AND LOG.
 
-We do not disclose to third parties the information provided. All financial and billing information that we collect through MHelpdesk.com is used solely to bill for the Service. This billing information is not used by MHelpdesk.com for marketing or promotional purposes. MHelpdesk.com uses a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing.
+Mhelpdesk.com may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties. 
 
-Customers of the Service will be using the Site to host data and information (“Data”). MHelpdesk.com will not review, share, distribute, print, or reference any such Data except as provided in the MHelpdesk.com Master Subscription Agreement, or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Master Subscription Agreement, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password.
+## 3\. YOUR LOGIN CREDENTIALS.
 
-MHelpdesk.com may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
+Upon registration for Mhelpdesk, you will be provided login credentials to allow you to access our site and services. You are responsible for maintaining the confidentiality and security of your user registration and password. You should contact us immediately if you believe that the security of your login credentials has been compromised.
 
-## Security:
+## 4\. VIEWING AND EDITING OF YOUR PERSONAL INFORMATION.
 
-MHelpdesk.com makes every effort to follow industry standard security measures to help protect against the loss, misuse, and alteration of the Data under our control. When our Site is accessed using Microsoft Internet Explorer versions 5.5 or higher, Netscape Navigator, or Mozilla Firefox, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that Data is safe, secure, and available only to you. All Services are hosted in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, MHelpdesk.com provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data.
+You can opt out of providing this additional information by not entering it when asked. In addition, you can update or remove any or all of your personal information at any time by logging into your Mhelpdesk.com account and editing your personal information on the My Company Settings page. You can view your updated profile to confirm that your edits have been made.
 
-## Cookies:
+## 5\. USE OF YOUR INFORMATION.
 
-MHelpdesk.com uses cookies to track the time visitors log on to the Site. We also use them to recognize return visitors and to track our promotions. We gather this information for internal use only and will never authorize the release of this information with anyone outside of MHelpdesk.com
+Mhelpdesk.com uses the information that we collect to set up the Service for individuals and their organizations. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and to send information regarding our company such as promotions and events. Your email address and any personal information will not be distributed or shared with third parties without your knowledge and consent. 
 
-## Additional Information about our Privacy Policy:
+## 6\. FINANCIAL AND BILLING INFORMATION.
 
-For additional information or questions regarding this Statement or the practices of this Site, please contact MHelpdesk.com’s Security Administrator by e-mailing such questions to security@MHelpdesk.com or by regular mail addressed to MHelpdesk.com, LLC., Attn: Security Administrator, 2254 F. Hunters Woods Plaza, Reston, VA 20191.
+All financial and billing information that we collect through Mhelpdesk.com is used solely to bill for the Service. This billing information is not used by Mhelpdesk.com for marketing or promotional purposes. Mhelpdesk.com uses a third party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. 
+
+## 7\. CONTACTING YOU.
+
+We will try to limit the scope, type and quantity of our messages to you. Having said that, you should know that we will periodically email information to you regarding updates to the Service or significant company news, and you will receive our Customer Email. You can opt out of being contacted by us, or receiving such information from us, at any time (including when first registering for service) by sending an email to happy@Mhelpdesk.com. 
+
+## 8\. CUSTOMER DATA.
+
+Customers of the Service will be using the Site to host data and information (“Data”). Mhelpdesk.com will not review, share, distribute, print, or reference any such Data except as provided in the Mhelpdesk.com Terms of Service or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Master Subscription Agreement, or as may be required by law. 
+
+## 9\. SHARING OF YOUR INFORMATION WITH THIRD PARTIES.
+
+Mhelpdesk doesn’t sell, rent or otherwise share your personal information with any third parties unless you understand and consent to it directly. If it becomes necessary to share any of your personal information (for example, for an offer involving a third party that you want to accept), we will ask for your permission clearly and it will be on an “opt in” basis. As detailed below, in certain limited circumstances, we may also make some or all of your personal information available to law enforcement, or in the case of an emergency. Please also note that Mhelpdesk may use contractors and third parties to engineer, maintain and improve this website. Their activities may require access to your information. However, their access to and use of your information is restricted to only the stated purposes.
+
+## 10\. SECURITY.
+
+Mhelpdesk.com makes every effort to follow industry standard security measures to help protect against the loss, misuse, and alteration of the data under our control. When our Site is accessed using Microsoft Internet Explorer versions 5.5 or higher, Netscape Navigator, or Mozilla Firefox, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that data is safe, secure, and available only to you. All Services are hosted in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, Mhelpdesk.com provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data. 
+
+## 11\. COOKIES.
+
+Mhelpdesk.com uses cookies to track the time visitors log on to the Site. We also use them to recognize return visitors and to track our promotions. We gather this information for internal use only and will never authorize the release of this information with anyone outside of Mhelpdesk.com.
+
+## 12\. CHILD PROTECTION.
+
+Mhelpdesk is intended for a general audience, but is not directed to the use by children under the age of 13, who should not register without the consent of a parent or guardian. Mhelpdesk does not knowingly solicit or maintain any personal information of children under 13 years of age, and we will take steps to terminate any unauthorized, underage registration of which we become aware.
+
+## 13\. SCOPE OF THIS POLICY.
+
+This privacy policy is intended to apply only to the use of our website and service. If you are using Mhelpdesk and click on a link and are redirected to a third party website, any information that you share with such third party will be governed by its privacy policy and not ours.
+
+## 14\. COMPLIANCE WITH LAW AND EMERGENCIES.
+
+As stated above, Mhelpdesk will not share personal information with third parties without your knowledge and consent. Mhelpdesk will, however, comply with a valid and binding governmental demand, such as a court order, subpoena, or search warrant as required. Additionally, if we become aware that a Mhelpdesk user is using, or has used, our service to commit a crime, or if there is an emergency that poses a safety threat to you or to another person, we will notify and cooperate fully with the appropriate authorities.
+
+## 15\. UPDATES AND CHANGES.
+
+We may make changes to this Privacy Policy from time to time, as our service becomes more sophisticated and includes more features, but we will let you know each time we do, by posting a detailed notice on the login page or by other reasonable methods of providing notice.
+
+## 16\. ADDITIONAL INFORMATION ABOUT OUR PRIVACY POLICY.
+
+For additional information or questions regarding this Privacy Policy or the practices of our Site, please contact Mhelpdesk.com’s Security Administrator by e-mailing such questions to happy@Mhelpdesk.com or by regular mail addressed to Mhelpdesk.com, Inc Attn: Security Administrator, 44900 Prentice Drive, Sterling, VA 20166.  
+Last updated: April 28, 2014
+
+© Mhelpdesk, Inc 2014
