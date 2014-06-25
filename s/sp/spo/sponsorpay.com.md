@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sponsorpay.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106092051id_/http%3A//www.sponsorpay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sponsorpay.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141051id_/http%3A//www.sponsorpay.com/privacypolicy-en.html) for the most accurate reproduction.*
 
-# Privacy Policy – SponsorPay
-
-**SponsorPay GmbH Privacy Policy**
+# SponsorPay - Fueling the app economy by creating solutions for smarter ad monetization
 
 This is the privacy policy of SponsorPay GmbH, Ackerstr. 14/15, 10115 Berlin, (heretoafter referred to as  **"SponsorPay"** ). It applies to all SponsorPay websites and services.
 
@@ -10,17 +8,17 @@ This privacy policy is intended for all users of SponsorPay websites and service
 
 All personal information that the user provides in the course of all business relations that SponsorPay collects through use of the websites and services and the user voluntarily submits will of course be handled by SponsorPay in regards to applicable data protection legal provisions.
 
-**SponsorPay saves and uses data to prevent and combat fraud and abuse on SponsorPay pages and to offer services adapted to our users.** The details are laid out in this privacy policy.
+**SponsorPay saves and uses data to prevent and combat fraud and abuse on SponsorPay pages and to offer services adapted to our users.  **The details are laid out in this privacy policy.
 
 In the event that the user is forwarded – for instance via a link or an advertisement – to another website not operated by SponsorPay, the user will be informed by SponsorPay that this document does not apply to website concerned. This privacy policy does not apply to the websites of the publishers. SponsorPay is not responsible for the way the operator of the other website handles data. In particular, SponsorPay is not responsible for the fact that this privacy policy does not apply on websites not operated by SponsorPay. SponsorPay recommends that users always carefully read the privacy policy of third policy websites.
 
-I. Which personal information does SponsorPay collect, process and store?
+## I. Which personal information does SponsorPay collect, process and store?
 
 SponsorPay collects, processes and stores that personal information that SponsorPay collects from the user or the user voluntarily submits (for instance in forms or elsewhere on websites or for services operated by SponsorPay) in electronic or any other form of communication.
 
 To register to use the websites or services from SponsorPay the users needs to submit certain personal information. This includes among other things names, position in the company and email address.
 
-The following describes which information is stored by SponsorPay:
+### The following describes which information is stored by SponsorPay:
 
 **Usage data:**
 
@@ -50,7 +48,7 @@ Therefore, the information transmitted to SponsorPay by the publishers is not re
 
 Publisher-users should check the privacy policy of the publisher's website in regard to the publisher's handling of personal information.
 
-II. How does SponsorPay use personal information?
+### II. How does SponsorPay use personal information?
 
 **Usage data from users and publisher-users:**
 
@@ -82,7 +80,7 @@ SponsorPay can use the email addresses acquired through an offer from SponsorPay
 
 If the user voluntarily shares personal information on request by SponsorPay, then SponsorPay will use this information with his or her consent so that the user receives personalized special offers.
 
-III. Which information does SponsorPay share?
+### III. Which information does SponsorPay share?
 
 **User data**
 
@@ -96,17 +94,17 @@ SponsorPay will transmit user's personal information to advertisers only when th
 
 SponsorPay will not provide third parties with email addresses or information from the communication with customer support or other information volunteered to SponsorPay.
 
-IV. Change or delete personal information
+### IV. Change or delete personal information
 
-The user and publisher-user can their change personal information at any time (for example to update or correct it) or delete their information altogether. The user or publisher-user can contact [customersupport@sponsorpay.com](mailto:customersupport@sponsorpay.com) if they would like SponsorPay to change or stop using their information. SponsorPay will change or delete the user's or publisher-user's information as quickly as possible. However, SponsorPay points out that due to technical and organizational constraints, it is possible that some ongoing measures or those have not yet begun may continue to be carried out after SponsorPay the request for deletion has been made.
+The user and publisher-user can their change personal information at any time (for example to update or correct it) or delete their information altogether. The user or publisher-user can contact customersupport@sponsorpay.com if they would like SponsorPay to change or stop using their information. SponsorPay will change or delete the user's or publisher-user's information as quickly as possible. However, SponsorPay points out that due to technical and organizational constraints, it is possible that some ongoing measures or those have not yet begun may continue to be carried out after SponsorPay the request for deletion has been made.
 
-V. Disclosure of personal information
+### V. Disclosure of personal information
 
 On request, SponsorPay will disclose all of the information stored about the user or publisher-user immediately and at no charge. This information will always be conveyed in electronic form - normally via email.
 
 SponsorPay reserves the right to change this privacy policy at any time while observing current data protection laws. SponsorPay recommends that you regularly inform yourself about the current privacy policy. In the event that SponsorPay intends to use personal user or publisher-user information on a larger scale than up to now, SponsorPay will of course announce this beforehand.
 
-**Glossary**
+### **Glossary**
 
 The most important terms are explained below to help understand the privacy policy:
 
@@ -131,3 +129,5 @@ The UDID and IMEI serve as identification of mobile devices. The iPhone manufact
 A cookie is a small text file that websites and services operated by SponsorPay - transfer to the cookie file of the user's browser so that the website and services can identify you the next time you visit. A cookie typically contains the name of the domain from which the cookie has come, the "life span" of the cookie, and a value, usually a randomly generated unique number. With the help of cookies, SponsorPay is able to recognize the user. This can help facilitate the use of SponsorPay websites and services. However, cookies per se cannot be used to identify the user. Of course, SponsorPay websites and services can also be used without cookies if the browser is set to decline cookies. Cookies already placed on the computer can be manually deleted by the user at any time. SponsorPay warns the user that use of its websites and services without cookies may be limited.
 
 Last updated: March 31, 2011
+
+Data protection officer: RA Michael Panienka, 32791 Lage, Germany
