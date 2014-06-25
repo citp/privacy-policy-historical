@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prettylinkpro.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119042850id_/http%3A//prettylinkpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettylinkpro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104931id_/http%3A//prettylinkpro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pretty Link Pro
+# Privacy Policy | WordPress Affiliate Link Cloaker | WordPress URL Shortener | Pretty Link Pro
 
 Caseproof, LLC, a Utah limited liability company, owns and operates this website. We are committed to the privacy and security of our visitors’ information. The following is a statement of our privacy practices:
 
