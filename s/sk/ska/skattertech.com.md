@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the skattertech.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102105356id_/http%3A//skattertech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skattertech.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073711id_/http%3A//skatter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Skatter Tech
+# Privacy Policy | Skatter
 
-Skatter Tech, Inc. (“Skatter Tech”) operates skattertech.com (the, “Website”). It is Skatter Tech’s policy to respect your privacy regarding any information we may collect while operating our website.
+Skatter Tech, Inc. (“Skatter Tech”) operates skatter.com (the, “Website”). It is Skatter Tech’s policy to respect your privacy regarding any information we may collect while operating our website.
 
 ## Website Visitors
 
