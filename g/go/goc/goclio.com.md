@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the goclio.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211020923id_/http%3A//www.goclio.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goclio.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015220id_/http%3A//www.goclio.com/privacy) for the most accurate reproduction.*
 
-# Clio: Privacy Policy
-
-## Clio Privacy Policy
+# Privacy Policy | Clio
 
 ### Effective Date: October 1, 2008
 
@@ -10,7 +8,7 @@ Themis Solutions is a licensee of the TRUSTe Privacy seal program. TRUSTe is an 
 
 If you have questions or concerns regarding this statement, you should first contact us at support@goclio.com . If you do not receive acknowledgement of your inquiry or your inquiry has not been addressed satisfactorily, you should contact TRUSTe at: http://truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-Themis Solutions Inc. is the sole owner of the information collected on goclio.com. 
+Themis Solutions Inc. is the sole owner of the information collected on goclio.com.
 
 ### Information Collection & Use
 
@@ -18,14 +16,14 @@ Themis Solutions Inc. collects personally identifiable information from our user
 
 ### Registration
 
-In order to use this Web site, you must first complete the registration form and create a user name and password. We collect your personally identifiable information during registration where you are required to provide your contact information (such as name, phone number, and email address) we also request your financial information, [bank account number & routing information) to set up your account. We use this information to contact you about the services on our site in which you have expressed interest.   
-You have the option to provide demographic information (such as income level and gender) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site. 
+In order to use this Web site, you must first complete the registration form and create a user name and password. We collect your personally identifiable information during registration where you are required to provide your contact information (such as name, phone number, and email address) we also request your financial information, [bank account number & routing information) to set up your account. We use this information to contact you about the services on our site in which you have expressed interest.  
+You have the option to provide demographic information (such as income level and gender) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site.
 
 We will occasionally send you information on products, services, and promotions.
 
 ### Subscription
 
-Clio is a subscription based service, as a registered member we request certain personally identifiable information from you on our order form to process your subscription. You must provide contact information (such as name, email, physical address, company name and address) and financial information (such as credit card number, expiration date).   
+Clio is a subscription based service, as a registered member we request certain personally identifiable information from you on our order form to process your subscription. You must provide contact information (such as name, email, physical address, company name and address) and financial information (such as credit card number, expiration date).  
 We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
 ### Account Information
@@ -35,7 +33,7 @@ After you register, we will occasionally send you information on product updates
 
 ### Surveys or Contests
 
-From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). 
+From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
 
 We use this information to to notify contest winners and award prizes, to monitor site traffic or personalize the site (in the case of anonymous information collected in surveys), and to send participants an email newsletter.
 
@@ -43,7 +41,7 @@ We may use a third party service provider to conduct these surveys or contests; 
 
 ### Tell-A-Friend
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Themis Solutions Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.   
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Themis Solutions Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.  
 Your friend may contact us at support at goclio.com to request that we remove this information from our database.
 
 ### Uses of Information
@@ -54,9 +52,9 @@ Themis Solutions Inc. uses the collected information for the purposes of underst
 
 ### Special Offers and Updates
 
-We will occasionally send you information on products, services, and promotions. 
+We will occasionally send you information on products, services, and promotions.
 
-Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.” 
+Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.”
 
 ### Newsletters
 
@@ -64,19 +62,19 @@ If you wish to subscribe to our newsletter(s), we will use your name and email a
 
 ### Service-related Announcements
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
 
 Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 
-###  Customer Service
+### Customer Service
 
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes put forth at the time of registration. 
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes put forth at the time of registration.
 
-###  Log Files
+### Log Files
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
 
 We do not link this automatically-collected data to personally identifiable information. We use a third-party tracking service (Google Analytics) that uses cookies [log files] to track non-personally identifiable information about visitors to our site in the aggregate.
 
@@ -86,18 +84,18 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 
 We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. For more information on cookies see http://en.wikipedia.org/wiki/HTTP_cookie.
 
-We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
 ### Clear Gifs (Web Beacons/Web Bugs)
 
-We, or our third party advertising partner, may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.   
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.” 
+We, or our third party advertising partner, may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.  
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.”
 
 ### Profile
 
-We store information that we collect through cookies, and log files to create a “profile” of your preferences. We do not tie your personally identifiable information, to information in the profile. We use this information in order to provide you a tailored user experience while on our site. [Such as remembering your password so you don’t need to log-in each time.]   
+We store information that we collect through cookies, and log files to create a “profile” of your preferences. We do not tie your personally identifiable information, to information in the profile. We use this information in order to provide you a tailored user experience while on our site. [Such as remembering your password so you don’t need to log-in each time.]  
 We do not share your profile with other third parties.
 
 ### Information Sharing and Disclosure
@@ -106,9 +104,9 @@ We do not share your profile with other third parties.
 
 We may share aggregated demographic information about our user base with our partners and advertisers. This information does not identify individual users.
 
-We do not link aggregate user data with personally identifiable information. 
+We do not link aggregate user data with personally identifiable information.
 
-### Agents 
+### Agents
 
 We use an outside credit card processing company to bill you for subscription services. These companies do not retain, share, store or use your personally identifiable information for any other purposes.
 
@@ -118,7 +116,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 ### Choice/Opt-out
 
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. 
+We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information.
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at support at goclio.com.
 
@@ -126,10 +124,10 @@ You will be notified when your personal information is collected by any third pa
 
 ### Links to Other Sites
 
-This Web site contains links to other sites that are not owned or controlled by Themis Solutions Inc. Please be aware that we, Themis Solutions Inc., are not responsible for the privacy practices of such other sites. 
+This Web site contains links to other sites that are not owned or controlled by Themis Solutions Inc. Please be aware that we, Themis Solutions Inc., are not responsible for the privacy practices of such other sites.
 
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.   
-This privacy statement applies only to information collected by this Web site. 
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.  
+This privacy statement applies only to information collected by this Web site.
 
 ### Blogs
 
@@ -153,18 +151,18 @@ In the event Themis Solutions Inc. goes through a business transition, such as a
 
 ### Changes in this Privacy Statement
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-### Contact Us 
+### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us: 
+If you have any questions or suggestions regarding our privacy policy, please contact us:
 
 By email: support@goclio.com
 
-Address:   
-Themis Solutions Inc.,   
+Address:  
+Themis Solutions Inc.,  
 Suite 404, 999 Canada Place  
 Vancouver, BC  
 Canada V6C 3E2
