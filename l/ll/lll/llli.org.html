@@ -1,61 +1,71 @@
-<!--The following is the downloaded HTML source of the llli.org privacy policy that was archived on 2013-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131014013242id_/http%3A//www.llli.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the llli.org privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625060521id_/http%3A//www.llli.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
 <title>LLLI | Privacy Policy</title>
-<link href="/assets/llli-bfb1cd4a0d7d4775bcbeae22f558790d.css" media="all" rel="stylesheet">
-<link href="/assets/application-0f0b2d1639fe13c762bcfaa611669e87.css" media="all" rel="stylesheet">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<link href="/assets/llli-8496b33ce83f2983712f20ab6fdbc50d.css" media="all" rel="stylesheet">
+<link href="/assets/application-79e000637d49f6076874cc7836244392.css" media="all" rel="stylesheet">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script>
 //<![CDATA[
-window.jQuery || document.write(unescape('%3Cscript src="/assets/jquery-5e74ed423a2256ddbc64161922becb7f.js">%3C/script>'))
+window.jQuery || document.write(unescape('%3Cscript src="/assets/jquery-3cd6b4d2806fabf7234b39f0d8004eae.js">%3C/script>'))
 //]]>
-</script><script src="/assets/jquery-5e74ed423a2256ddbc64161922becb7f.js"></script>
-<script src="/assets/llli_theme-f99c865070ed841feb98cd1292681374.js"></script>
-<script src="/assets/application-f59ef5b77aeda8516545c6bf2ae86dea.js"></script>
+</script><script src="/assets/jquery-3cd6b4d2806fabf7234b39f0d8004eae.js"></script>
+<script src="/assets/llli_theme-3d63ea89b8c58ba284580d41ac3e40fe.js"></script>
+<script src="/assets/application-98f28c7358913ad23ff595d3f8287e32.js"></script>
 
 <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width,initial-scale=1"><!-- Mobile viewport optimized: j.mp/bplateviewport -->
 <meta content="authenticity_token" name="csrf-param">
-<meta content="Qk8TzclfGtFWimF3UokGEQXWr6FoYT8Ga2GsEhk/2vk=" name="csrf-token">
+<meta content="BOD/B8lPmQIUwO37sA6A9rJ8lFTy83qGC6AFCn0Hp84=" name="csrf-token">
 <link rel="shortcut icon" href="/favicon.ico">
 </head>
 <body>
 <div id="header_01" class="white bold">
-<div id="header_01_left"><img alt="Happy Mothers Breastfed Babies" class="layout" height="20" src="/assets/llli_theme/header_hmbb_top-d949c8336ad4b6ed157449cb096fefad.gif" width="200"></div>
-<div id="header_01_right">
-<a href="http://www.llli.org/help">Help</a>&nbsp;<form accept-charset="UTF-8" action="/login/index" id="dbar_signon" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Qk8TzclfGtFWimF3UokGEQXWr6FoYT8Ga2GsEhk/2vk="></div>
-<input id="openid_identifier" name="openid_identifier" placeholder="@llli*MyLLLID" size="20" type="text">
-<input id="signon_button" name="commit" onclick="javascript:return(show_login_field());" type="submit" value="LLLID Sign On">
-</form>
-<a href="http://signon.llli.org/registration/index?lllid_rtn=http://www.llli.org/login/index/">Get Your LLLID Here</a>
+  <div id="header_01_left">
+    <img alt="Happy Mothers Breastfed Babies" class="layout" height="20" src="/assets/llli_theme/header_hmbb_top-46a7ae11441c6dbd55b797a459889148.gif" width="200">
+  </div>
+  <div id="header_01_right">
+    <a href="http://www.llli.org/help">Help</a>&nbsp;<form accept-charset="UTF-8" action="/login" id="dbar_signon" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="BOD/B8lPmQIUwO37sA6A9rJ8lFTy83qGC6AFCn0Hp84="></div>
+  <input id="openid_identifier" name="openid_identifier" placeholder="@llli*MyLLLID" size="20" type="text" class="hidden">
+  <input id="signon_button" name="commit" onclick="javascript:return(show_login_field());" type="submit" value="LLLID Sign On">
+</form>&nbsp;
+<a href="http://signon.llli.org/registration/forgot_lllid?lllid_rtn=http://www.llli.org/login/">
+     Forgot Your LLLID?</a> 
+or
+<a href="http://signon.llli.org/registration/index?lllid_rtn=http://www.llli.org/login/">
+     Create Your LLLID Here
+</a>
+
 <script>
-jQuery(document).ready(function() {
-  hide_login_field();
-  if (!jQuery("#openid_identifier").hasClass('hidden')) {
-  	var login_field = jQuery("#openid_identifier");
-    login_field.attr('value', '@llli*MyLLLID');
-    selectRange('openid_identifier', 6, 13);
-    login_field.focus();
-  }
-});
+  jQuery(document).ready(function() {
+    var login_field = jQuery("#openid_identifier");
+    hide_login_field();
+    if (!login_field.hasClass('hidden')) {
+      login_field.attr('value', '@llli*MyLLLID');
+      selectRange('openid_identifier', 6, 13);
+      login_field.focus();
+    }
+  });
 </script>
 
-</div>
+  </div>
 </div><!-- /header_01 -->
 
 <div id="header_03">
-  <div id="header_03_left"><a href="http://www.llli.org/"><img alt="La Leche League International" class="layout" height="60" src="/assets/llli_theme/header_logo4-f63361cce9cfef0d9dbdc3fbe39467a2.gif" width="287"></a></div>
-<form action="http://www.llli.org/search" id="cse-search-box">
-  <input type="hidden" name="cx" value="012805113672795732671:72auqfjhk-m">
-  <input type="hidden" name="cof" value="FORID:9">
-  <input type="hidden" name="ie" value="UTF-8">
-  <input type="text" name="q" size="22" style="background: url(&quot;/assets/search/google_custom_search_watermark-3e42f029d4f5afda0a39f989ff1174c4.gif&quot;) left center no-repeat rgb(255, 255, 255);">
-  <input type="submit" name="sa" value="Search LLLI">
+  <div id="header_03_left">
+    <a href="http://www.llli.org/"><img alt="La Leche League International" class="layout" height="60" src="/assets/llli_theme/header_logo4-b36da6106baf6e1ef7de1f09861d104b.gif" width="287"></a>
+  </div>
+  <form action="http://www.llli.org/search" id="cse-search-box">
+    <input type="hidden" name="cx" value="012805113672795732671:72auqfjhk-m">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" size="22" style="background: url(&quot;/assets/search/google_custom_search_watermark-c07a8c57d0bd2b6b16be4951e5657fcb.gif&quot;) left center no-repeat rgb(255, 255, 255);">
+    <input type="submit" name="sa" value="Search LLLI">
   </form>
-  <script src="/assets/google/brand-e14262e8dd859b5e3c47a1e01661df00.js?form=cse-search-box&amp;lang=en"></script>
+  <script src="/assets/google/brand-543d16f126db8fbdc71c336c236bc256.js?form=cse-search-box&amp;lang=en"></script>
 
   <ul id="header_03_right_nav">
   <li><a href="http://www.llli.org/donate.html?m=3"><span>Donate</span></a> </li>
@@ -69,90 +79,93 @@ jQuery(document).ready(function() {
 </div><!-- /header_03 -->
 
 <div id="header_04">
-<form id="find_local_support" name="find_local_support" method="post" action="#">
-To Find local support:&nbsp;<select onchange="javascript:document.location=this.options[this.selectedIndex].value">
-<option value="">Choose a Country...</option>
-<option value="http://www.llli.org/algeria.html">Algeria (Arabic, French)</option>
-<option value="http://www.ligadelaleche.org.ar/">Argentina (Spanish)</option>
-<option value="http://www.lalecheleague.org.nz/index.php/local-groups/australia">Australia (English)</option>
-<option value="http://www.lalecheliga.at/">Austria, La Leche Liga Österreich (German)</option>
-<option value="http://www.lllflorida.com/New%20Site%20Map%20of%20FL/New%20Site%20Islands/Barbados.html">Barbados (English)</option>
-<option value="http://www.lalecheleague.be/home.html">Belgium (Dutch)</option>
-<option value="http://www.lllbelgique.org/liens-allaitement.php">Belgium (French, German, English)</option>
-<option value="http://www.lllflorida.com/New%20Site%20Map%20of%20FL/New%20Site%20Islands/Bermuda/NewBermuda.html">Bermuda (English)</option>
-<option value="http://www.llli.org/Bolivia.html">Bolivia (Spanish)</option>
-<option value="http://www.llli.org/Brasil.html">Brasil (English, Portuguese)</option>
-<option value="http://www.lalechebg.com/">Bulgaria (Bulgarian)</option>
-<option value="http://www.lllc.ca/">Canada (English)</option>
-<option value="http://www.allaitement.ca/">Canada (French)</option>
-<option value="http://www.lalligadelallet.org/index.html">Catalunya (Catalan)</option>
-<option value="http://www.llli.org/Chile.html">Chile (Spanish, English)</option>
-<option value="http://www.llli.org/China.html">China (English, Chinese)</option>
-<option value="http://www.llli.org/Colombia.html">Colombia (Spanish)</option>
-<option value="http://www.llli.org/CostaRica.html">Costa Rica (Spanish, English)</option>
-<option value="http://www.lllhrvatska.org">Croatia (English, Croatian)</option>
-<option value="http://www.lalecheleague.dk/">Denmark (Danish, French, English)</option>
-<option value="http://www.lalecheliga.de/">Deutschland/Germany (German, English)</option>
-<option value="http://lllid.org/dominicana/">Dominican Republic (Spanish)</option>
-<option value="http://www.llli.org/Ecuador.html">Ecuador (Spanish)</option>
-<option value="http://www.laligadelaleche.org/">Euskadi/Pais Vasco (Basque, Spanish)</option>
-<option value="http://www.llli.org/France.html">France (French, English)</option>
-<option value="http://www.laleche.org.uk/">Great Britain (English)</option>
-<option value="http://www.lllgreece.org/">Greece (English, Greek)</option>
-<option value="http://www.llli.org/Guatemala.html">Guatemala (Spanish, English, French)</option>
-<option value="http://www.lllflorida.com/New%20Site%20Map%20of%20FL/New%20Site%20Islands/Haiti.html">Haiti (English)</option>
-<option value="http://www.llli.org/china.html">Hong Kong (English, Chinese)</option>
-<option value="http://www.lll.hu/">Magyarország/Hungary (Hungarian)</option>
-<option value="http://www.llli.org/Iceland.html">Iceland (English)</option>
-<option value="http://www.llli.org/India.html">India (English)</option>
-<option value="http://www.lalecheleagueireland.com/">Ireland (English)</option>
-<option value="http://www.llli.org/Israel.html">Israel (English)</option>
-<option value="http://www.lllisrael.org.il/">Israel (Hebrew)</option>
-<option value="http://www.lllitalia.org/">Italy (Italian)</option>
-<option value="http://www.llljapan.org/">Japan (Japanese)</option>
-<option value="http://www.llli.org/Japan.html">Japan (English)</option>
-<option value="http://www.llli.org/Korea.html">Korea (English)</option>
-<option value="http://www.llli.org/groups/@llli*group*kuwait">Kuwait (English)</option>
-<option value="http://www.lalecheleague.lu/">Luxembourg (4 languages)</option>
-<option value="http://www.llli.org/Mexico.html">México (Spanish)</option>
-<option value="http://www.lalecheleague.nl/">Netherlands (Dutch)</option>
-<option value="http://www.lalecheleague.org.nz/">New Zealand (English)</option>
-<option value="http://www.llli.org/niger.html"> Niger (French)</option>
-<option value="http://www.llli.org/paraguay.html">Paraguay (Spanish)</option>
-<option value="http://www.lllperu.org/">Perù (Spanish, English)</option>
-<option value="http://www.lllpanama.com/">Panama (Spanish)</option>
-<option value="http://www.llli.org/Philippines.html">Philippines (English)</option>
-<option value="http://www.lllpolska.org/">Poland (Polish)</option>
-<option value="http://www.llli.org/Portugal.html">Portugal (Portuguese)</option>
-<option value="http://www.lllusa.org/web/PuertoRico.html">Puerto Rico (English and Spanish)</option>
-<option value="http://www.llli.org/Qatar.html">Qatar (English)</option>
-<option value="http://www.llli.org/russian.html">Russia (Russian)</option>
-<option value="http://www.llli.org/SaudiArabia.html">Saudi Arabia (English)</option>
-<option value="http://www.llli.org/Serbia.html">Serbia (Serbian)</option>
-<option value="http://www.dojenje.net/">Slovenija/Slovenia (English, Slovenian)</option>
-<option value="http://www.llli.org/SouthAfrica.html">South Africa (English and Afrikaans)</option>
-<option value="http://www.llli.org/southkorea.html">South Korea (English)</option>
-<option value="http://www.laligadelaleche.es/">Spain (Spanish)</option>
-<option value="http://www.llli.org/sweden.html">Sweden (French, English)</option>
-<option value="http://www.lalecheleague.ch/en">Switzerland (English)</option>
-<option value="http://www.lalecheleague.ch/fr">Switzerland (French - Suisee)</option>
-<option value="http://www.lalecheleague.ch/de">Switzerland (German - Schweiz)</option>
-<option value="http://www.lalecheleague.ch/it">Switzerland (Italian - Svizzera)</option>
-<option value="http://www.llli.org/TaiwanChinese.html">Taiwan (Chinese)</option>
-<option value="http://www.lllturkiye.org">Turkey (Turkish, Russian)</option>
-<option value="http://www.llli.org/Ukraine.html">Ukraine (Ukrainian)</option>
-<option value="http://www.llli.org/UAE.html">United Arab Emirates (English)</option>
-<option value="http://www.llli.org/WebUS.html">United States of America (English)</option>
-<option value="http://www.lllflorida.com/New%20Site%20Map%20of%20FL/New%20Site%20Islands/StThomas.html">US Virgin Islands (English)</option>
-<option value="http://www.llli.org/Uruguay.html">Uruguay (Spanish)</option>
-<option value="http://www.llli.org/Venezuela.html">Venezuela (Spanish)</option></select> Or:&nbsp;<a href="http://www.llli.org/search/groups">Use&nbsp;the&nbsp;Map</a></form>
+  <form id="find_local_support" name="find_local_support" method="post" action="#">
+    To Find local support:&nbsp;
+    <select onchange="javascript:document.location=this.options[this.selectedIndex].value">
+      <option value="">Choose a Country...</option>
+      <option value="http://www.llli.org/algeria.html">Algeria (Arabic, French)</option>
+      <option value="http://www.ligadelaleche.org.ar/">Argentina (Spanish)</option>
+      <option value="http://www.lalecheleague.org.nz/index.php/local-groups/australia">Australia (English)</option>
+      <option value="http://www.lalecheliga.at/">Austria, La Leche Liga Österreich (German)</option>
+      <option value="http://www.lllflorida.com/New%20Site%20Map%20of%20FL/New%20Site%20Islands/Barbados.html">Barbados (English)</option>
+      <option value="http://www.lalecheleague.be/home.html">Belgium (Dutch)</option>
+      <option value="http://www.lllbelgique.org/liens-allaitement.php">Belgium (French, German, English)</option>
+      <option value="http://www.lllflorida.com/New%20Site%20Map%20of%20FL/New%20Site%20Islands/Bermuda/NewBermuda.html">Bermuda (English)</option>
+      <option value="http://www.llli.org/Bolivia.html">Bolivia (Spanish)</option>
+      <option value="http://www.llli.org/Brasil.html">Brasil (English, Portuguese)</option>
+      <option value="http://www.lllbg.org/">Bulgaria (Bulgarian)</option>
+      <option value="http://www.lllc.ca/">Canada (English)</option>
+      <option value="http://www.allaitement.ca/">Canada (French)</option>
+      <option value="http://www.lalligadelallet.org/index.html">Catalunya (Catalan)</option>
+      <option value="http://www.llli.org/Chile.html">Chile (Spanish, English)</option>
+      <option value="http://www.llli.org/China.html">China (English, Chinese)</option>
+      <option value="http://www.llli.org/Colombia.html">Colombia (Spanish)</option>
+      <option value="http://www.llli.org/CostaRica.html">Costa Rica (Spanish, English)</option>
+      <option value="http://www.lllhrvatska.org">Croatia (English, Croatian)</option>
+      <option value="http://www.lalecheleague.dk/">Denmark (Danish, French, English)</option>
+      <option value="http://www.lalecheliga.de/">Deutschland/Germany (German, English)</option>
+      <option value="http://lllid.org/dominicana/">Dominican Republic (Spanish)</option>
+      <option value="http://www.llli.org/Ecuador.html">Ecuador (Spanish)</option>
+      <option value="http://www.laligadelaleche.org/">Euskadi/Pais Vasco (Basque, Spanish)</option>
+      <option value="http://www.llli.org/France.html">France (French, English)</option>
+      <option value="http://www.laleche.org.uk/">Great Britain (English)</option>
+      <option value="http://www.lllgreece.org/">Greece (English, Greek)</option>
+      <option value="http://www.llli.org/Guatemala.html">Guatemala (Spanish, English, French)</option>
+      <option value="http://www.lllflorida.com/New%20Site%20Map%20of%20FL/New%20Site%20Islands/Haiti.html">Haiti (English)</option>
+      <option value="http://www.llli.org/china.html">Hong Kong (English, Chinese)</option>
+      <option value="http://www.lll.hu/">Magyarország/Hungary (Hungarian)</option>
+      <option value="http://www.llli.org/India.html">India (English)</option>
+      <option value="http://www.lalecheleagueireland.com/">Ireland (English)</option>
+      <option value="http://www.llli.org/Israel.html">Israel (English)</option>
+      <option value="http://www.lllisrael.org.il/">Israel (Hebrew)</option>
+      <option value="http://www.lllitalia.org/">Italy (Italian)</option>
+      <option value="http://www.llljapan.org/">Japan (Japanese)</option>
+      <option value="http://www.llli.org/Japan.html">Japan (English)</option>
+      <option value="http://www.llli.org/Korea.html">Korea (English)</option>
+      <option value="http://www.llli.org/groups/@llli*group*kuwait">Kuwait (English)</option>
+      <option value="http://www.llli.org/lebanon.html">Lebanon (English)</option>
+      <option value="http://www.lalecheleague.lu/">Luxembourg (4 languages)</option>
+      <option value="http://www.llli.org/Mexico.html">México (Spanish)</option>
+      <option value="http://www.lalecheleague.nl/">Netherlands (Dutch)</option>
+      <option value="http://www.lalecheleague.org.nz/">New Zealand (English)</option>
+      <option value="http://www.llli.org/niger.html"> Niger (French)</option>
+      <option value="http://www.llli.org/paraguay.html">Paraguay (Spanish)</option>
+      <option value="http://www.lllperu.org/">Perù (Spanish, English)</option>
+      <option value="http://www.lllpanama.com/">Panama (Spanish)</option>
+      <option value="http://www.llli.org/Philippines.html">Philippines (English)</option>
+      <option value="http://www.lllpolska.org/">Poland (Polish)</option>
+      <option value="http://www.llli.org/Portugal.html">Portugal (Portuguese)</option>
+      <option value="http://www.lllusa.org/web/PuertoRico.html">Puerto Rico (English and Spanish)</option>
+      <option value="http://www.llli.org/Qatar.html">Qatar (English)</option>
+      <option value="http://www.llli.org/russian.html">Russia (Russian)</option>
+      <option value="http://www.llli.org/SaudiArabia.html">Saudi Arabia (English)</option>
+      <option value="http://www.llli.org/Serbia.html">Serbia (Serbian)</option>
+      <option value="http://www.dojenje.net/">Slovenija/Slovenia (English, Slovenian)</option>
+      <option value="http://www.llli.org/SouthAfrica.html">South Africa (English and Afrikaans)</option>
+      <option value="http://www.llli.org/southkorea.html">South Korea (English)</option>
+      <option value="http://www.laligadelaleche.es/">Spain (Spanish)</option>
+      <option value="http://www.llli.org/sweden.html">Sweden (French, English)</option>
+      <option value="http://www.lalecheleague.ch/en">Switzerland (English)</option>
+      <option value="http://www.lalecheleague.ch/fr">Switzerland (French - Suisee)</option>
+      <option value="http://www.lalecheleague.ch/de">Switzerland (German - Schweiz)</option>
+      <option value="http://www.lalecheleague.ch/it">Switzerland (Italian - Svizzera)</option>
+      <option value="http://www.llli.org/TaiwanChinese.html">Taiwan (Chinese)</option>
+      <option value="http://www.lllturkiye.org">Turkey (Turkish, Russian)</option>
+      <option value="http://www.llli.org/Ukraine.html">Ukraine (Ukrainian)</option>
+      <option value="http://www.llli.org/UAE.html">United Arab Emirates (English)</option>
+      <option value="http://www.llli.org/WebUS.html">United States of America (English)</option>
+      <option value="http://www.lllflorida.com/New%20Site%20Map%20of%20FL/New%20Site%20Islands/StThomas.html">US Virgin Islands (English)</option>
+      <option value="http://www.llli.org/Uruguay.html">Uruguay (Spanish)</option>
+      <option value="http://www.llli.org/Venezuela.html">Venezuela (Spanish)</option>
+    </select> Or:&nbsp;<a href="http://www.llli.org/search/groups">Use&nbsp;the&nbsp;Map</a>
+  </form>
 </div><!-- /header_04 -->
 
 <div id="content_row">
 <table class="layout">
 <tbody><tr>
-<td id="content_left_column">
-<div id="navcontainer">
+  <td id="content_left_column">
+    <div id="navcontainer">
 <ul class="nesting_menu"><li class="current"><a class="current" href="/resources.html?m=0">Resources</a></li>
 <li><ul class="nesting_menu">
 <li><a href="/resources/assistance.html?m=0,0">Breastfeeding Help</a></li>
@@ -169,9 +182,14 @@ To Find local support:&nbsp;<select onchange="javascript:document.location=this.
 
 </div>
 
-<br><br>
-<div id="leftHilite"><a href="http://www.llli.org/resources/assistance.html"><img alt="Need Help?" class="layout" height="134" src="/assets/llli_theme/square_left_help-d02ec1acecfb8d3c4c77f700902ba0d7.gif" width="150"></a></div>
-<br><br></td>
+    <br><br>
+      <div id="leftHilite">
+        <a href="http://www.llli.org/resources/assistance.html">
+          <img alt="Need Help?" class="layout" height="134" src="/assets/llli_theme/square_left_help-2ce829c91392a725307109c78244cf5e.gif" width="150">
+        </a>
+      </div>
+    <br><br>
+  </td>
 <td id="content_main_column" class="content_column_border">
 <div class="welcome_all">
 <a href="http://www.llli.org/resources.html" class="welcomeTxt" title="English">Welcome</a>
@@ -225,17 +243,16 @@ To Find local support:&nbsp;<select onchange="javascript:document.location=this.
 <footer class="last_edit">Page last edited <time pubdate="true" datetime="2010-12-01T21:55:39Z">2010-12-01 21:55:39 UTC</time>.</footer>
 
 <!-- CONTENT END -->
-<br class="clear"><br><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4a8b35070f50b60a"><img alt="Bookmark and Share" height="16" src="/assets/third_party/lg-share-en-3be1b3dc0a78ad04b480bcaae0727f0e.gif" width="125"></a><script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a8b35070f50b60a"></script>
+<br class="clear"><br><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4a8b35070f50b60a"><img alt="Bookmark and Share" height="16" src="/assets/third_party/lg-share-en-76f54dc1829813ddef98fc09ce4a2652.gif" width="125"></a><script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a8b35070f50b60a"></script>
 </section>
 </td>
 <td class="content_column_border" id="content_right_column">
-<ul id="rightside">
+  <ul id="rightside">
+      
+  </ul>
 
-</ul>
 
-
-
-<!-- START ads.llli.org -->
+      <!-- START ads.llli.org -->
 <div class="ads_button">
 <script type="text/javascript" src="http://ads.llli.org/adpeeps.php?bfunction=showad&amp;uid=100000&amp;bmode=off&amp;gpos=center&amp;bzone=button_ads1&amp;bsize=120x60&amp;btype=3&amp;bpos=default&amp;ver=2.0&amp;btotal=1&amp;btarget=_blank&amp;bborder=0">
 </script>
@@ -270,16 +287,17 @@ To Find local support:&nbsp;<select onchange="javascript:document.location=this.
 
 <footer id="page_footer">
 <ul>
-<li><a href="http://www.llli.org/" class="botMenu">Home</a></li>
-<li><a href="http://www.llli.org/resources.html?m=0" class="botMenu">Resources</a></li>
-<li><a href="http://www.llli.org/ab.html?m=1" class="botMenu">About Us</a></li>
-<li><a href="http://www.llli.org/contact/contact_us" class="botMenu">Contact Us</a></li>
-<li><a href="http://www.llli.org/termsofuse" class="botMenu">Terms of Use</a></li>
-<li><a href="http://www.llli.org/privacy" class="botMenu">Privacy Policy</a></li>
-<li><a href="http://store.llli.org/public" class="botMenu">Store</a></li>
-<li class="no_border"><a href="http://www.llli.org/donate.html?m=3" class="botMenu">Donate</a></li>
+  <li><a href="http://www.llli.org/" class="botMenu">Home</a></li>
+  <li><a href="http://www.llli.org/resources.html?m=0" class="botMenu">Resources</a></li>
+  <li><a href="http://www.llli.org/ab.html?m=1" class="botMenu">About Us</a></li>
+  <li><a href="http://www.llli.org/contact/contact_us" class="botMenu">Contact Us</a></li>
+  <li><a href="http://www.llli.org/termsofuse" class="botMenu">Terms of Use</a></li>
+  <li><a href="http://www.llli.org/privacy" class="botMenu">Privacy Policy</a></li>
+  <li><a href="http://store.llli.org/public" class="botMenu">Store</a></li>
+  <li class="no_border"><a href="http://www.llli.org/donate.html?m=3" class="botMenu">Donate</a></li>
+
 </ul>
-<div id="copyright">Copyright © 2008-2013 by La Leche League International and those posting information. All Rights Reserved.</div>
+<div id="copyright">Copyright © 2008-2014 by La Leche League International and those posting information. All Rights Reserved.</div>
 </footer>
 
 <!-- Google Analytics -->
