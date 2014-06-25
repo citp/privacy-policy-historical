@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the otakumode.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020936id_/http%3A//otakumode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otakumode.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064340id_/http%3A//otakumode.com/privacy) for the most accurate reproduction.*
 
-# Tokyo Otaku Mode β | Privacy Policy
+# Tokyo Otaku Mode | Privacy Policy
 
 This Privacy Policy is incorporated by reference into the Tokyo Otaku Mode Inc.[Terms of Use](https://web.archive.org/tos). The term “ **Company** ” “ **TOM** ,” “ **we** ,” and “ **us** ” includes Tokyo Otaku Mode Inc. and our affiliates and subsidiaries. The Privacy Policy explains how TOM may:
 
@@ -30,7 +30,7 @@ We collect Personal Information when you:
 
 We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Service.
 
- **Personal Information Collection.** You must register to use the Service. To register, you will need to provide Personal Information, such as your email address and pictures. You may also provide other optional information. When you purchase items from the TOM store, you will need to provide a billing and/or shipping address.
+ **Personal Information Collection.** You must register to use the Service. To register, you will need to provide Personal Information, such as your email address and pictures. You may also provide other optional information. When you purchase items from the TOM store or make a Pledge, you will need to provide a billing and/or shipping address.
 
  **Social Sign-On.** We collect Personal Information from the applicable social media websites when you use your social media credentials to log into the Service. For example, when you log in with your Facebook credentials, we may collect the Personal Information you have made publicly available in Facebook, such as your name and profile picture. We may also obtain other information with your permission, such as your friends list.
 
@@ -48,7 +48,7 @@ When you visit the Service, we and our third-party service providers receive and
 
 By using the Service, you are authorizing us to gather, parse, and retain data related to the provision of the Service.
 
-## HOW COMPANY USES YOUR INFORMATION
+## HOW TOM USES YOUR INFORMATION
 
 We use Personal Information to
 
@@ -63,13 +63,13 @@ We may use aggregate information for any purpose, including for marketing purpos
 
  **Communications.** We may send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance.
 
- **Purchase.** We send your purchases to the name and address (either e-mail or physical) you provide to us during the check-out process in the TOM store.
+ **Purchase and Rewards.** We send your purchases and Rewards to the name and address (either e-mail or physical) you provide to us during the check-out process in the TOM store or when you make a Pledge.
 
  **Marketing.** We may use information, including Personal Information, to provide online advertising on the Service and to facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you.
 
  **Aggregate Data.** We may anonymize and aggregate data collected through the Service and use it for any purpose.
 
-## COMPANY MAY DISCLOSE YOUR INFORMATION
+## TOM MAY DISCLOSE YOUR INFORMATION
 
 We may share your information:
 
@@ -102,13 +102,13 @@ We may also disclose your Personal Information with your permission.
 
 We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.
 
-By using the Service or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. If we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on the Service or sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at **[support@tokyootakumode.com](mailto:support@tokyootakumode.com)**.
+By using the Service or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. If we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on the Service or sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us via **[the contact form](https://otakumode.com/inquire)**.
 
 ## CHILDREN'S PRIVACY
 
 We do not knowingly collect information from children under 13 and we do not want it. We will take steps to delete it if we learn we have collected it.
 
-We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at **[support@tokyootakumode.com](mailto:support@tokyootakumode.com)**. If we learn that we have collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child's account.
+We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us via **[the contact form](https://otakumode.com/inquire)**. If we learn that we have collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child's account.
 
 ## INTERNATIONAL USERS
 
@@ -120,7 +120,7 @@ If you are visiting from the European Union or other regions with laws governing
 
 ## UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION
 
-If you would like to update or correct any information that you have provided to us through your use of the Service or otherwise, or if you have suggestions for improving this Privacy Policy, please send an email to **[support@tokyootakumode.com](mailto:support@tokyootakumode.com)**.
+If you would like to update or correct any information that you have provided to us through your use of the Service or otherwise, or if you have suggestions for improving this Privacy Policy, please contact us via **[the contact form](https://otakumode.com/inquire)**.
 
 ## CHANGES TO OUR PRIVACY POLICY AND PRACTICES
 
@@ -133,11 +133,11 @@ We may revise this Privacy Policy, so review it periodically.
 ## Contact Information
 
 Tokyo Otaku Mode Inc.  
-1-25-12-801 Taito  
-Taito-ku  
-Tokyo 110-0016  
-Japan
+C/O Don Pinnell Jones 2100 Artesia Blvd.,  
+Apt 15 Torrance,  
+CA 90504  
+USA
 
-[support@tokyootakumode.com](mailto:support@tokyootakumode.com)
+[Contact form](https://otakumode.com/inquire).
 
-Last updated on March 23, 2013
+Last updated on December 27, 2013
