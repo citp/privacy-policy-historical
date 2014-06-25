@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycollege.in privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029215037id_/http%3A//mycollege.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycollege.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093908id_/http%3A//mycollege.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy -Mycollege.in
 
