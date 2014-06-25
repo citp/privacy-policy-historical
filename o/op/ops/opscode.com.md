@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opscode.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030135837id_/http%3A//www.opscode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opscode.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626000537id_/https%3A//www.getchef.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Opscode
+# Privacy Policy | Chef
 
 This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by Opscode, Inc. ("Opscode, "we" or "us") with respect to your use of the Web sites operated by Opscode that link to this Policy, including without limitation www.opscode.com (collectively the "Sites") and any services provided to you through the Sites (the "Services") so you can make an informed decision about using the Sites. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
 
