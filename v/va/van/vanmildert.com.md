@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vanmildert.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425095005id_/http%3A//www.vanmildert.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanmildert.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115849id_/http%3A//www.vanmildert.com/CustomerServices/OtherInformation/SecurityandPrivacy) for the most accurate reproduction.*
 
-# Van Mildert | Privacy Policy
+# Van Mildert > CustomerServices > Other Information > Security and Privacy
+
+Go to content
 
 Your privacy is important to us. Please review our Privacy Policy, which also governs your visit to this site, in order to understand our practices. Please note your statutory rights are not affected. We are committed to protecting your privacy. Please read this following to learn more about our privacy policy.
 
