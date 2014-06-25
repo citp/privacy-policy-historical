@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the peterlang.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224141935id_/http%3A//www.peterlang.com/index.cfm%3Fcid%3D82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterlang.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625212359id_/http%3A//peterlang.com/index.cfm%3Fcid%3D82) for the most accurate reproduction.*
 
 # Privacy Policy - Peter Lang Verlagsgruppe
 
-Your details are registered, processed and utilised in accordance with the Swiss Federal Act of 19 June 1992 on Data Protection (Bundesgesetz vom 19. Juni 1992 über den Datenschutz, DSG), the wording of which can be found at <http://www.admin.ch/ch/e/rs/c235_1>.
+Your details are registered, processed and utilised in accordance with the Swiss Federal Act of 19 June 1992 on Data Protection (Bundesgesetz vom 19. Juni 1992 über den Datenschutz, DSG), the wording of which can be found at [http://www.admin.ch/ch/e/rs/c235_1](http://www.admin.ch/index.html?lang=de).
 
 To us, personal data comprises the information you provide on our forms, such as your e-mail address, all information relating to orders and invoices, your postal address and terms of payment, and all personal details that are recorded and stored in server log files. Personal data is only recorded on this website to the extent that is necessary for technical purposes. We only use it to correspond with you, and solely for the purpose for which you provide the data.
 
