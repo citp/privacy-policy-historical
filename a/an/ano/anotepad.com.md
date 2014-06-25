@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anotepad.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810004210id_/http%3A//www.anotepad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anotepad.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080246id_/http%3A//anotepad.com/privacy) for the most accurate reproduction.*
 
-# anotepad.com - Free Online Editor. Save notes , share and access them from anywhere
+# anotepad.com - free online notepad
 
 This is the web site of **anotepad.com**.
 
@@ -30,4 +30,4 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses
