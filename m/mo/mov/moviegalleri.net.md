@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviegalleri.net privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229150627id_/http%3A//moviegalleri.net/privacy-policy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviegalleri.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134922id_/http%3A//moviegalleri.net/privacy-policy-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer | New Movie Posters
 
@@ -21,7 +21,7 @@ This privacy policy updated March 2012.
 
 Some images contained in moviegalleri.net have been obtained from various internet sources. The copyright of these pictures belongs to their original publisher / photographer. Please let us know at if any Copyright Violation occurs and we will remove them right away. If by anyhow any of the content is offensive to you, please, contact us asking for the removal. If you own copyrights over any of them and do not agree with it being shown here, please send us an email with ownership proof and we will remove it. email us at  _admin@moviegalleri.net_
 
-Any links provided or advertisements displayed on our site are for informational purposes only and we are not responsible for any damages or consequences. However, if you find any unsuitable link / advertisement, then please contact us giving detail of such links etc.
+Any links provided or advertisements displayed on our site are for informational purposes only and we are not responsible for any damages or consequences. However, if you find any unsuitable link / advertisement, then please contact us giving detail of such links etc. Images with “[moviegalleri.net](http://moviegalleri.net/) logo” in any other websites & forums and any form of web related articles we are not responsible, those are copycat sites, we are not responsible for that.
 
  _Webmaster_
 
