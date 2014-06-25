@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the completecareshop.co.uk privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212080128id_/http%3A//www.completecareshop.co.uk/shop-information/9/your_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the completecareshop.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001557id_/http%3A//www.completecareshop.co.uk/shop-information/9/your_privacy.html) for the most accurate reproduction.*
 
 # Your Privacy | Disability aids | Elderly aids
 
@@ -8,7 +8,7 @@ Items in basket: 0,   Value of basket: £0.00[ ](https://web.archive.org/orde
 
 Click here to go back to your Previous Page
 
-Your privacy is important to us. As such, Complete Care do not disclose buyers' information to third parties other than when order details are passed on to Couriers as part of the order fulfilment. In this case, the third party will not disclose any of the details to any other third party.
+Your privacy is important to us. As such, Complete Care do not disclose buyers' information to third parties other than when order details are passed on to Couriers as part of the order fulfilment and to trusted testimonial sites. In these cases, the third party will not disclose any of the details to any other third party.
 
 When you place an order and enter your name and delivery information, these personal details are stored in our secure database. Personal data collected by this site is only used to:  
 a. Take and fulfil customer orders.  
