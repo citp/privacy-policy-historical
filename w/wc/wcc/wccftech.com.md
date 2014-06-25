@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wccftech.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212222717id_/http%3A//wccftech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wccftech.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625163207id_/http%3A//wccftech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WCCFtech.com
+# Privacy Policy - WCCFtech
 
 WCCF/WCCFTECH has created this privacy statement in order to demonstrate our firm commitment to personal privacy. The following discloses WCCF/WCCFTECH’s information gathering and dissemination practices for following websites: www.WCCFTECH.com, www.WCCFWORLD.com.
 
@@ -69,6 +69,18 @@ If there are any changes to this policy, we will give notice about it on our Hom
 **Third Party Advertising and Data Collection Relationship**
 
 We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp> .
+
+**Your data is secure with Universal Analytics**
+
+Universal Analytics adds features to Google Analytics, but our privacy commitments haven’t changed. Safeguards like IP masking, the Google Analytics browser opt-out add-on, data confidentiality, and security work with analytics.js, the Universal Analytics JavaScript library.
+
+**First-party cookie storage is minimized in analytics.js.**
+
+The information stored in the local first-party cookie is reduced for analytics.js. Only an identifier made up of two randomly generated 32-bit numbers (e.g., 12345.67890) is used. Clearing or deleting cookies from a browser does not ensure that subsequent visits to a website will be considered new sessions in Analytics. Learn more about how to [opt-out from Google Analytics](https://support.google.com/analytics/answer/181881).
+
+**Universal Analytics supports data collection without browser cookies.**
+
+The Universal Analytics collection methods (analytics.js and the Measurement Protocol) can be implemented and used to collect user interaction data without cookies. Learn more about how to [opt-out from Google Analytics](https://support.google.com/analytics/answer/181881)s.
 
 **Legal Disclaimer**
 
