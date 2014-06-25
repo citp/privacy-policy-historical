@@ -1,21 +1,46 @@
-<!--The following is the downloaded HTML source of the travelmob.com privacy policy that was archived on 2013-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131201003303id_/http%3A//www.travelmob.com/pages/policies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the travelmob.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626011148id_/http%3A//www.travelmob.com/pages/policies) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="eng"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html><html lang="eng" itemscope="" itemtype="http://schema.org/WebPage"><head>
     <meta charset="utf-8">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"5860a4b5c2","applicationID":"2140381","transactionName":"dgsKQkUOWA9QEEpGVlIBFxlHDlgKVgsARQ==","queueTime":2,"applicationTime":24,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vg8GWVZaGwEBUFFRDwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
     <!--[if IE]><![endif]-->
     <link rel="dns-prefetch" href="//ugc.travelmob.com">
-          <link rel="dns-prefetch" href="http://static0.travelmob.com">
-          <link rel="dns-prefetch" href="http://static1.travelmob.com">
-          <link rel="dns-prefetch" href="http://static2.travelmob.com">
-          <link rel="dns-prefetch" href="http://static3.travelmob.com">
 
 
     <link href="http://static0.travelmob.com/assets/favicon-4ba7914aade08162b89b52e563e02259.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-    <title>Vacation rentals, short term rentals, villas and apartments - travelmob</title>
+    <title>travelmob: Vacation Rentals, Apartments, Villas &amp; More</title>
 <meta name="description" content="Find amazing deals on vacation rentals, short term rentals, villas, apartments and accommodations across Asia Pacific, or rent out yours, on travelmob.">
 
-    <link rel="canonical" href="http://www.travelmob.com/pages/policies">
+    <link rel="alternate" hreflang="en-us" href="http://www.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="en" href="http://www.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="id" href="http://ind.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="vi" href="http://vie.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="th" href="http://tha.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="zh" href="http://cmn-hans.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="zh-hant" href="http://cmn-hant.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="ru" href="http://rus.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="ko" href="http://kor.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="ja" href="http://jpn.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="fr" href="http://fra.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="zh-cn" href="http://cn.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="zh-hant-hk" href="http://hk.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="zh-hant-tw" href="http://tw.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="id-id" href="http://id.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="en-sg" href="http://sg.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="en-my" href="http://my.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="vi-vn" href="http://vn.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="th-th" href="http://th.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="en-ph" href="http://ph.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="en-au" href="http://au.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="en-in" href="http://in.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="ko-kr" href="http://kr.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="ja-jp" href="http://jp.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="ru-ru" href="http://ru.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="en-gb" href="http://uk.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="en-ca" href="http://ca.travelmob.com/pages/policies">
+<link rel="alternate" hreflang="fr-fr" href="http://fr.travelmob.com/pages/policies">
 
 
     <meta property="fb:app_id" content="246920655340133">
@@ -25,7 +50,7 @@
 <meta property="og:type" content="website">
 
 
-    <link href="http://static1.travelmob.com/assets/application-f3648f39aff5f27c7198aa3086f20790.css" media="all" rel="stylesheet" type="text/css">
+    <link href="http://static0.travelmob.com/assets/application-b833cf4e82c18875a7ecd913b16d0348.css" media="all" rel="stylesheet" type="text/css">
 
   
 
@@ -56,6 +81,7 @@
             <li class="lang option" id="lang_selector_rus" name="rus"><a href="#">Русский</a></li>
             <li class="lang option" id="lang_selector_kor" name="kor"><a href="#">한국어</a></li>
             <li class="lang option" id="lang_selector_jpn" name="jpn"><a href="#">日本語</a></li>
+            <li class="lang option" id="lang_selector_fra" name="fra"><a href="#">Français</a></li>
       </ul>
     </li><li class="sptr inline tleft p-rel">
     </li><li class="dropdown sround currency inline tleft p-rel" id="curr_sel">
@@ -63,18 +89,22 @@
       <a href="#" data-toggle="dropdown" data-menu="currency_menu" class="dropdown-toggle">USD</a>
       <span class="arrow inline tm-sprite">&nbsp;</span>
       <ul class="dropdown-menu sround" id="currency_menu" tabindex="-1">
-      <li class="currency option" id="curr_sel_AUD" name="AUD"><a href="#">AUD</a></li>
-      <li class="currency option" id="curr_sel_EUR" name="EUR"><a href="#">EUR</a></li>
-      <li class="currency option" id="curr_sel_GBP" name="GBP"><a href="#">GBP</a></li>
-      <li class="currency option" id="curr_sel_HKD" name="HKD"><a href="#">HKD</a></li>
-      <li class="currency option" id="curr_sel_IDR" name="IDR"><a href="#">IDR</a></li>
-      <li class="currency option" id="curr_sel_MYR" name="MYR"><a href="#">MYR</a></li>
-      <li class="currency option" id="curr_sel_SGD" name="SGD"><a href="#">SGD</a></li>
-      <li class="currency option" id="curr_sel_THB" name="THB"><a href="#">THB</a></li>
-      <li class="currency option" id="curr_sel_JPY" name="JPY"><a href="#">JPY</a></li>
-      <li class="currency option" id="curr_sel_TWD" name="TWD"><a href="#">TWD</a></li>
-      <li class="currency option" id="curr_sel_PHP" name="PHP"><a href="#">PHP</a></li>
-      <li class="currency option" id="curr_sel_CNY" name="CNY"><a href="#">CNY</a></li>
+          <li class="currency option" id="curr_sel_AUD" name="AUD"><a href="#">AUD</a></li>
+          <li class="currency option" id="curr_sel_CAD" name="CAD"><a href="#">CAD</a></li>
+          <li class="currency option" id="curr_sel_CNY" name="CNY"><a href="#">CNY</a></li>
+          <li class="currency option" id="curr_sel_EUR" name="EUR"><a href="#">EUR</a></li>
+          <li class="currency option" id="curr_sel_GBP" name="GBP"><a href="#">GBP</a></li>
+          <li class="currency option" id="curr_sel_HKD" name="HKD"><a href="#">HKD</a></li>
+          <li class="currency option" id="curr_sel_IDR" name="IDR"><a href="#">IDR</a></li>
+          <li class="currency option" id="curr_sel_INR" name="INR"><a href="#">INR</a></li>
+          <li class="currency option" id="curr_sel_JPY" name="JPY"><a href="#">JPY</a></li>
+          <li class="currency option" id="curr_sel_KRW" name="KRW"><a href="#">KRW</a></li>
+          <li class="currency option" id="curr_sel_MYR" name="MYR"><a href="#">MYR</a></li>
+          <li class="currency option" id="curr_sel_PHP" name="PHP"><a href="#">PHP</a></li>
+          <li class="currency option" id="curr_sel_RUB" name="RUB"><a href="#">RUB</a></li>
+          <li class="currency option" id="curr_sel_SGD" name="SGD"><a href="#">SGD</a></li>
+          <li class="currency option" id="curr_sel_THB" name="THB"><a href="#">THB</a></li>
+          <li class="currency option" id="curr_sel_TWD" name="TWD"><a href="#">TWD</a></li>
       </ul>
     </li><li class="listurspace inline tleft p-rel"><a href="/spaces/new_list" class="ctrack button-glossy orange" data-tkey="New Listing" data-tloc="Top Nav">List your space</a></li>
   </ul>
@@ -82,326 +112,300 @@
 
 
     <div class="tm-body policies">
-    <div class="content ptb20"> 
-        <div class="nobg sround p20 nooverflow">
+  <div class="content ptb20"> 
+    <div class="nobg sround p20 nooverflow">
 
-			<div class="mwrapper">
-				 <div class="p1blocknum forange">1</div>	
-				 <span class="p1block">
+      <div class="mwrapper">
+        <div class="p1blocknum forange">1</div>  
+        <div class="p1block">
+            This is the privacy policy (<strong>Privacy Policy</strong>) of travelmob Pte Ltd (<strong>travelmob</strong>, <strong>we</strong>, <strong>us</strong>, <strong>our</strong> or a similar expression).
+        </div>
+      </div>
+      
+      <div class="mwrapper">
+        <div class="p1blocknum forange">2</div>
+        <div class="p1block">
+          <strong>Billing Information</strong> means credit card and related billing information. <strong> Identity Information</strong> means information about you that can be used to contact or identify you.  It includes your name, phone number, email address, identity numbers and address, but excludes Billing Information. <strong>Including</strong> and similar expressions are construed without limitation. <strong> Non-Identifying Information</strong> is information that is not Identity Information, including zip or postal code, individual preferences and demographic information.<strong> Personal Information</strong> means Identity Information and Billing Information together. <strong>Service</strong> means to provide and improve our Site, services, features, content, use of and other dealing with the Site. <strong> Site</strong> means<a href="/" class="forange"> www.travelmob.com</a>.<strong> User</strong> means a Member and any person visiting or browsing the Site or who in any other manner deals with the Services. <strong>using, processing</strong> or similar operations on information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within travelmob. <strong>You</strong> means a User.
+        </div>
+      </div>
 
+      <div class="mwrapper">
+        <div class="p1blocknum forange">3</div>
+        <div class="p1block">
+          This Privacy Policy may be amended from time to time.  Your continued use or other dealing with the Site is deemed to be acceptance of the Privacy Policy, as amended from time to time. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the meanings given to them in our prevailing Terms of Service (<a href="/pages/terms" data-class="Terms" data-type="page" class="trigger forange">www.travelmob.com/pages/terms)</a>.
+        </div>
+      </div>
 
-            This is the privacy policy (<strong>Privacy Policy</strong>) of travelmob Pte Ltd (<strong>travelmob</strong>, <strong>we</strong>, <strong>us</strong>, <strong>our</strong> or a similar expression).<p></p>
+      <div class="mwrapper">
+        <div class="p1blocknum forange">4</div>
+        <div class="p1block">
+          This Privacy Policy applies only to information that you provide to us through the Service.
+        </div>
+      </div>
+      
+      <div class="mwrapper">
+        <div class="p1blocknum forange">5</div>
+        <div class="p1block">
+          Your information may be transferred to and maintained on  computers located outside of your state, province, country or jurisdiction, where privacy laws may be different to those in your location.
+        </div>
+      </div>
+      
+      <div class="mwrapper">
+        <div class="p1blocknum forange">6</div>
+        <div class="p1block">We collect information for the Service.</div>
+      </div>
 
+      <div class="mwrapper">
+        <div class="p1blocknum forange">7</div>
+        <div class="p1block">
+          We use your Personal Information to provide the Service and administer your inquiries.  When you register through the Site, become a Member, post a Listing, book an Accommodation or contact a Member, we will ask you for Identity Information.  We may also ask for Billing Information for certain transactions.   If the address of a Listing you post matches that of your credit card billing address, that address is considered Identity Information.  Some Personal Information are mandatory, like your name and email address, and others are optional, like your date of birth. We may require address confirmation for Accommodations included in Listings. 
+        </div>
+      </div>
 
-                		</span>
-			</div>
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">2</div>
-					<span class="p1block">
+      <div class="mwrapper">
+        <div class="p1blocknum forange">8</div>
+        <div class="p1block">We collect Personal Information when you register for the Service.</div>
+      </div>
+        
+      <div class="mwrapper">
+        <div class="p1blocknum forange">9</div>
+        <div class="p1block">
+          <p>You can register by logging into online accounts have with third party service providers, including Facebook (<strong>SNS</strong>, and each SNS account, a<strong> Third Party Account</strong>), via our Site.  You may link your Account with Third Party Accounts, by providing your Third Party Account login information to travelmob through the Service or by allowing travelmob to access your Third Party Account. If you register by logging into a Third Party Account via our Site, we will obtain the Personal Information you provide to the applicable SNS (including your legal name, email address, profile picture, names of your  SNS friends, names of your SNS groups, other information you make publicly available and other information you authorize travelmob to access) from your Third Party Accounts.  We will use that information to create your travelmob Account and travelmob Account profile page and you will become a Member.   By granting us access to the Third Party Accounts, we will access, make available and store (if applicable, as permitted by the SNS and authorized by you) the information in your Third Party Accounts so that it is available on your travelmob Account on the Site and Service.  This information may include your friends, likes and other associations. </p>
+          <p>You warrant that our access and dealing with your SNS and Third Party Account as described in this clause are permitted by the applicable SNS or Third Party Account terms of use.  You warrant you may disclose your SNS and Third Party Account login and other information to travelmob and grant travelmob access to your SNS and Third Party Account.  You indemnify and hold us harmless from all reasonable costs, expenses, damages, liability and losses that we may suffer or incur arising out of or in connection with your breach of these warranties, to the extent not caused by our own negligence or default. </p>
+        </div>        
+      </div>
 
-						<strong>Billing Information</strong> means credit card and related billing information. <strong> Identity Information</strong> means information about you that can be used to contact or identify you.  It includes your name, phone number, email address, identity numbers and address, but excludes Billing Information. <strong>Including</strong> and similar expressions are construed without limitation. <strong> Non-Identifying Information</strong> is information that is not Identity Information, including zip or postal code, individual preferences and demographic information.<strong> Personal Information</strong> means Identity Information and Billing Information together. <strong>Service</strong> means to provide and improve our Site, services, features, content, use of and other dealing with the Site. <strong> Site</strong> means<a href="/" class="forange"> www.travelmob.com</a>.<strong> User</strong> means a Member and any person visiting or browsing the Site or who in any other manner deals with the Services. <strong>using, processing</strong> or similar operations on information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within travelmob. <strong>You</strong> means a User.
+      <div class="mwrapper">
+        <div class="p1blocknum forange">10</div>
+        <div class="p1block">
+          We may collect Non Identifying Information as part of registration and the administration and personalization of your travelmob Account profile.  We use Non-Personal Information mainly to provide the Service, complete your transactions and administer your inquiries.
+        </div>
+      </div>
 
-                                </span>
-			</div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">3</div>
-                                 <span class="p1block">
-					This Privacy Policy may be amended from time to time.  Your continued use or other dealing with the Site is deemed to be acceptance of the Privacy Policy, as amended from time to time. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the meanings given to them in our prevailing Terms of Service (<a href="/pages/policies" class="forange">www.travelmob.com/pages/policies)</a>.
-
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">4</div>
-                                 <span class="p1block">
-					This Privacy Policy applies only to information that you provide to us through the Service.
-
-                                </span>
-                        </div>
-			
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">5</div>
-                                 <span class="p1block">
-					Your information may be transferred to and maintained on  computers located outside of your state, province, country or jurisdiction, where privacy laws may be different to those in your location.
-                                </span>
-                        </div>
-			
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">6</div>
-                                 <span class="p1block">
-					We collect information for the Service.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">7</div>
-                                 <span class="p1block">
-					We use your Personal Information to provide the Service and administer your inquiries.  When you register through the Site, become a Member, post a Listing, book an Accommodation or contact a Member, we will ask you for Identity Information.  We may also ask for Billing Information for certain transactions.   If the address of a Listing you post matches that of your credit card billing address, that address is considered Identity Information.  Some Personal Information are mandatory, like your name and email address, and others are optional, like your date of birth. We may require address confirmation for Accommodations included in Listings. 
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">8</div>
-                                 <span class="p1block">
-					 We collect Personal Information when you register for the Service. 
-                                </span>
-                        </div>
-				
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">9</div>
-                                 <span class="p1block">
-					You can register by logging into online accounts have with third party service providers, including Facebook (<strong>SNS</strong>, and each SNS account, a<strong> Third Party Account</strong>), via our Site.  You may link your Account with Third Party Accounts, by providing your Third Party Account login information to travelmob through the Service or by allowing travelmob to access your Third Party Account. If you register by logging into a Third Party Account via our Site, we will obtain the Personal Information you provide to the applicable SNS (including your legal name, email address, profile picture, names of your  SNS friends, names of your SNS groups, other information you make publicly available and other information you authorize travelmob to access) from your Third Party Accounts.  We will use that information to create your travelmob Account and travelmob Account profile page and you will become a Member.   By granting us access to the Third Party Accounts, we will access, make available and store (if applicable, as permitted by the SNS and authorized by you) the information in your Third Party Accounts so that it is available on your travelmob Account on the Site and Service.  This information may include your friends, likes and other associations. 
-
-You warrant that our access and dealing with your SNS and Third Party Account as described in this clause are permitted by the applicable SNS or Third Party Account terms of use.  You warrant you may disclose your SNS and Third Party Account login and other information to travelmob and grant travelmob access to your SNS and Third Party Account.  You indemnify and hold us harmless from all reasonable costs, expenses, damages, liability and losses that we may suffer or incur arising out of or in connection with your breach of these warranties, to the extent not caused by our own negligence or default. 
-                                </span>				
-                        </div>
-
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">10</div>
-                                 <span class="p1block">
-					We may collect Non Identifying Information as part of registration and the administration and personalization of your travelmob Account profile.  We use Non-Personal Information mainly to provide the Service, complete your transactions and administer your inquiries.
-				</span>
-                        </div>
+      <div class="mwrapper">
+        <div class="p1blocknum forange">11</div>
+        <div class="p1block">
+          Non-Identifying Information becomes Personal Information if combined with information that enables you to be identified.  We may combine Non-Identifying Information with your Non-Identifying Information and aggregate it with information collected from other Users to improve your user experience and Service quality and to analyze and understand Service usage. We may also use the combined information without aggregating it to serve you specifically, including to introduce a product to you according to your preferences or restrictions.
+        </div>
+      </div>
 
 
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">11</div>
-                                 <span class="p1block">
-					Non-Identifying Information becomes Personal Information if combined with information that enables you to be identified.  We may combine Non-Identifying Information with your Non-Identifying Information and aggregate it with information collected from other Users to improve your user experience and Service quality and to analyze and understand Service usage. We may also use the combined information without aggregating it to serve you specifically, including to introduce a product to you according to your preferences or restrictions.
-                                </span>
-                        </div>
+      <div class="mwrapper">
+        <div class="p1blocknum forange">12</div>
+        <div class="p1block">
+          We may use your Personal Information to contact you with travelmob newsletters, marketing or promotional information and to provide you Service notifications.  If you do not wish to receive these communications, your can unsubscribe or opt out with the relevant notification features or following the unsubscribe instructions in the communication.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">13</div>
+        <div class="p1block">
+          Our servers automatically record information that a User's browser sends (Log Data). This Log Data may include your Internet Protocol (IP) address, browser type or the webpage you visited before the Site, pages of our Site visited, time spent on those pages, information you searched on the Site, access times and other statistics. We use this information to monitor and analyze use of the Service and technical administration, to increase our Site functionality and user-friendliness, and to better address User needs. We also use this information to verify that Users meet the criteria required for certain transactions. Log Data is not Personal Information and is not used in association with Personal Information.  We may aggregate, analyze, evaluate and deal with Log Data as if Non-Identifying Information.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">14</div>
+        <div class="p1block">
+          We use cookies to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use (a) persistent cookies to save your login information for future logins to the Site; and (b) session ID cookies to enable certain features of the Site, to better understand your use of the Site and to monitor total usage of and web traffic routing on the Site.  Session cookies but not persistent cookies are deleted from your computer when you log off from the Service and close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can configure your browser to reject cookies or to prompt you before accepting a cookie. If you do not accept cookies,  you may not be able to use all portions or functions of the Service.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">15</div>
+        <div class="p1block">
+          From time to time we use electronic images Web beacons (or single-pixel gifs) together with cookies to compile aggregated statistics to analyze how our Site are used.  From time to time we use Web beacons in our emails to track emails and links readership and click-throughs.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">16</div>
+        <div class="p1block">
+          Users may email Members with the Contact Host feature on the Site. Where you do so, the email addresses will be used only for the purpose of sending the email to the addressee.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">17</div>
+        <div class="p1block">
+          Users may telephone Members with the Contact Host feature on the Site.  When you do so, we do not disclose your phone number to the Member you contact. We will use your phone number to contact you and then connect you with the Member you contact.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">18</div>
+        <div class="p1block">
+          If you choose to use our referral service to ask a friend for a recommendation, we will ask you for your friend’s email address. We will automatically send your friend a one-time email invitation to visit the Site. travelmob stores this information for the sole purpose of sending this one-time email.  Your friend may contact us at<a href="mailto:support@travelmob.com" class="forange">&nbsp;support@travelmob.com</a>&nbsp;to request that we remove this information from our database.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">19</div>
+        <div class="p1block">
+          You can import contacts from your email account address book to invite them to send you recommendations. We collect, but do not store, the username and password for the email account from which you import your contacts and will only use it for that purpose only.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">20</div>
+        <div class="p1block">
+          We do not at any time request your credit card information, Account ID, login password, national identification numbers or other Personal Information in a non-secure or unsolicited email or phone call.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">21</div>
+        <div class="p1block">
+          Listings posted by Hosts, ratings and reviews of Hosts and Guests and the Profile Information of Hosts and Guests are public information on the Site.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">22</div>
+        <div class="p1block">
+          When you create an Account, we will set up your Account profile page. Your Account profile page includes your name. You can select Personal Information you wish to be included in your Account profile page, including a profile picture, your SNS groups, your SNS friends or connections who are also Members, connections between your Account and SNSes, biography and links to your Listings (<strong>Profile Information</strong>). We publicly display on the Site your Profile Information in your Account profile.  With your prior permission, we display on third party sites your Profile Information.  Information you choose to provide as part of your Profile Information is public.  You control how much you want other Users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage you to control carefully Profile Information. You can review and revise your Profile Information at any time.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">23</div>
+        <div class="p1block">
+          We may publish your Listing publicly on the Site and enable third parties to publish Listings on their websites through the use of widgets. We may identify the geographical location of your Listing with a map and show the neighborhood of your Listing.  We do not disclose your address until you close a transaction with another Member.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">24</div>
+        <div class="p1block">
+          If you make a booking, we will disclose the following information to the relevant Host: (a) your name, (b) a link to your Account profile page, (c) names of your SNS friends or associations, and (d) an indication that the name that you provided to travelmob matches the name that you provided to the SNSs linked your to your Account.  This information is intended to enable the Host to decide whether or not to accept your booking.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">25</div>
+        <div class="p1block">
+          When a Host confirms a booking we will disclose to the Guest the Host's Identify Information, including name, phone number, address and email.  We disclose to the Host the Guest's Identify Information, including name, phone number and email.   A Guest's Billing Information is not disclosed to a Host. 
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">26</div>
+        <div class="p1block">
+          We may disclose to third parties aggregated information that does not include Personal Information, Non-Identifying Information and Log Data for industry analysis, demographic profiling and other purposes.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">27</div>
+        <div class="p1block">
+          We may employ third parties to facilitate, provide or otherwise assist with the Service, including maintenance, database management, web analytics, fraud detection and improvement of the Site features and analysis of Site and Service usage.  These third parties may have access to your Personal Information solely if they need to know and subject to confidentiality obligations.  We may  provide Personal Information to our business partners or other entities for the purpose of providing you information on goods or services.  You can at any time opt out receiving these communications. Third party vendors, including Google, use cookies to serve ads based on a User's prior visits to travelmob. You can disable Google cookies at&nbsp;<a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a>.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">28</div>
+        <div class="p1block">
+          We will disclose information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal processes (including subpoenas), to protect the safety, property or rights of any person or to stop activity which is or may be illegal, unethical or actionable.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">29</div>
+        <div class="p1block">
+          We may sell, transfer or otherwise deal with any of our assets, including your Personal Information, in connection with a merger, acquisition or other reorganization, whether solvent or insolvent.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">30</div>
+        <div class="p1block">
+          You may review, update, correct or delete Personal Information by contacting us at<a href="mailto:help@travelmob.com" class="forange">&nbsp;help@travelmob.com</a>&nbsp;or editing your profile. You can cancel  your Account with the Cancel Account feature of the Service.   Cancelling your Account does not remove reviews you post on the Site, which remain public.  After you cancel your account, we may continue to retain information about you, as required for our business purposes or to comply with applicable data retention laws.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">31</div>
+        <div class="p1block">
+          When you enter sensitive information (including Billing Information) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect Personal Information during transmission and in storage. No method of transmission over the Internet or method of electronic storage is secure.  We do not provide any security service standards or assurances. If you have any questions about Site security, you can contact <a href="mailto:support@travelmob.com" class="forange">support@travelmob.com</a>.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">32</div>
+        <div class="p1block">
+          Where required by applicable laws, and subject to restrictions required for investigation, restoration and law enforcement, we will as soon as practicable disclose to you breaches of security, confidentiality or integrity of your unencrypted information.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">33</div>
+        <div class="p1block">
+          The Site contains links to other websites. These links are not endorsements, authorizations or representations relating to any third party or their privacy or other practices.  We do not control any third party websites. These websites may place cookies or other files on your computer, collect data or solicit information from you. They have their own terms of use relating to personal information and privacy.  You use and deal with these other websites at your own risk.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">34</div>
+        <div class="p1block">
+          With your consent we may post your testimonial on the Site and identify you as the author. If you want your testimonial removed please contact <a href="mailto:support@travelmob.com" class="forange">support@travelmob.com</a>.
+        </div>            
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">35</div>
+        <div class="p1block">
+          The Site is not directed to individuals under 18. We do not knowingly collect information from children under 13.  If parents or guardians become aware that their child has provided us with Personal Information without their consent, they should contact us at<a href="mailto:support@travelmob.com" class="forange">&nbsp;support@travelmob.com</a>.    We will delete the Personal Information of a child under 13 that we are aware of.
+        </div>
+      </div>
+
+      <div class="mwrapper">
+        <div class="p1blocknum forange">36</div>
+        <div class="p1block">If you have any questions about this Privacy Policy, please contact<a href="mailto:support@travelmob.com" class="forange"> support@travelmob.com</a>.</div>
+      </div>
 
 
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">12</div>
-                                 <span class="p1block">
-					We may use your Personal Information to contact you with travelmob newsletters, marketing or promotional information and to provide you Service notifications.  If you do not wish to receive these communications, your can unsubscribe or opt out with the relevant notification features or following the unsubscribe instructions in the communication.
-                                </span>
-                        </div>
+      <div class="mwrapper">
+        <div class="p1blocknum forange">37</div>
+        <div class="p1block">This Privacy Policy is governed by Singapore law.  The parties submit to the non-exclusive jurisdiction of the Singapore courts.</div>
+      </div>
 
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">13</div>
-                                 <span class="p1block">
-					Our servers automatically record information that a User's browser sends (Log Data). This Log Data may include your Internet Protocol (IP) address, browser type or the webpage you visited before the Site, pages of our Site visited, time spent on those pages, information you searched on the Site, access times and other statistics. We use this information to monitor and analyze use of the Service and technical administration, to increase our Site functionality and user-friendliness, and to better address User needs. We also use this information to verify that Users meet the criteria required for certain transactions. Log Data is not Personal Information and is not used in association with Personal Information.  We may aggregate, analyze, evaluate and deal with Log Data as if Non-Identifying Information.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">14</div>
-                                 <span class="p1block">
-					We use cookies to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use (a) persistent cookies to save your login information for future logins to the Site; and (b) session ID cookies to enable certain features of the Site, to better understand your use of the Site and to monitor total usage of and web traffic routing on the Site.  Session cookies but not persistent cookies are deleted from your computer when you log off from the Service and close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can configure your browser to reject cookies or to prompt you before accepting a cookie. If you do not accept cookies,  you may not be able to use all portions or functions of the Service.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">15</div>
-                                 <span class="p1block">
-					From time to time we use electronic images Web beacons (or single-pixel gifs) together with cookies to compile aggregated statistics to analyze how our Site are used.  From time to time we use Web beacons in our emails to track emails and links readership and click-throughs.
-				</span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">16</div>
-                                 <span class="p1block">
-					Users may email Members with the Contact Host feature on the Site. Where you do so, the email addresses will be used only for the purpose of sending the email to the addressee.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">17</div>
-                                 <span class="p1block">
-					Users may telephone Members with the Contact Host feature on the Site.  When you do so, we do not disclose your phone number to the Member you contact. We will use your phone number to contact you and then connect you with the Member you contact.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">18</div>
-                                 <span class="p1block">
-					If you choose to use our referral service to ask a friend for a recommendation, we will ask you for your friend’s email address. We will automatically send your friend a one-time email invitation to visit the Site. travelmob stores this information for the sole purpose of sending this one-time email.  Your friend may contact us at<a href="mailto:support@travelmob.com" class="forange">&nbsp;support@travelmob.com</a>&nbsp;to request that we remove this information from our database.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">19</div>
-                                 <span class="p1block">
-					You can import contacts from your email account address book to invite them to send you recommendations. We collect, but do not store, the username and password for the email account from which you import your contacts and will only use it for that purpose only.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">20</div>
-                                 <span class="p1block">
-					We do not at any time request your credit card information, Account ID, login password, national identification numbers or other Personal Information in a non-secure or unsolicited email or phone call.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">21</div>
-                                 <span class="p1block">
-					Listings posted by Hosts, ratings and reviews of Hosts and Guests and the Profile Information of Hosts and Guests are public information on the Site.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">22</div>
-                                 <span class="p1block">
-					When you create an Account, we will set up your Account profile page. Your Account profile page includes your name. You can select Personal Information you wish to be included in your Account profile page, including a profile picture, your SNS groups, your SNS friends or connections who are also Members, connections between your Account and SNSes, biography and links to your Listings (<strong>Profile Information</strong>). We publicly display on the Site your Profile Information in your Account profile.  With your prior permission, we display on third party sites your Profile Information.  Information you choose to provide as part of your Profile Information is public.  You control how much you want other Users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage you to control carefully Profile Information. You can review and revise your Profile Information at any time.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">23</div>
-                                 <span class="p1block">
-					We may publish your Listing publicly on the Site and enable third parties to publish Listings on their websites through the use of widgets. We may identify the geographical location of your Listing with a map and show the neighborhood of your Listing.  We do not disclose your address until you close a transaction with another Member.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">24</div>
-                                 <span class="p1block">
-					If you make a booking, we will disclose the following information to the relevant Host: (a) your name, (b) a link to your Account profile page, (c) names of your SNS friends or associations, and (d) an indication that the name that you provided to travelmob matches the name that you provided to the SNSs linked your to your Account.  This information is intended to enable the Host to decide whether or not to accept your booking.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">25</div>
-                                 <span class="p1block">
-					When a Host confirms a booking we will disclose to the Guest the Host's Identify Information, including name, phone number, address and email.  We disclose to the Host the Guest's Identify Information, including name, phone number and email.   A Guest's Billing Information is not disclosed to a Host. 
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">26</div>
-                                 <span class="p1block">
-					We may disclose to third parties aggregated information that does not include Personal Information, Non-Identifying Information and Log Data for industry analysis, demographic profiling and other purposes.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">27</div>
-                                 <span class="p1block">
-					We may employ third parties to facilitate, provide or otherwise assist with the Service, including maintenance, database management, web analytics, fraud detection and improvement of the Site features and analysis of Site and Service usage.  These third parties may have access to your Personal Information solely if they need to know and subject to confidentiality obligations.  We may  provide Personal Information to our business partners or other entities for the purpose of providing you information on goods or services.  You can at any time opt out receiving these communications. Third party vendors, including Google, use cookies to serve ads based on a User's prior visits to travelmob. You can disable Google cookies at&nbsp;<a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a>.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">28</div>
-                                 <span class="p1block">
-					We will disclose information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal processes (including subpoenas), to protect the safety, property or rights of any person or to stop activity which is or may be illegal, unethical or actionable.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">29</div>
-                                 <span class="p1block">
-					We may sell, transfer or otherwise deal with any of our assets, including your Personal Information, in connection with a merger, acquisition or other reorganization, whether solvent or insolvent.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">30</div>
-                                 <span class="p1block">
-					You may review, update, correct or delete Personal Information by contacting us at<a href="mailto:help@travelmob.com" class="forange">&nbsp;help@travelmob.com</a>&nbsp;or editing your profile. You can cancel  your Account with the Cancel Account feature of the Service.   Cancelling your Account does not remove reviews you post on the Site, which remain public.  After you cancel your account, we may continue to retain information about you, as required for our business purposes or to comply with applicable data retention laws.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">31</div>
-                                 <span class="p1block">
-					When you enter sensitive information (including Billing Information) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect Personal Information during transmission and in storage. No method of transmission over the Internet or method of electronic storage is secure.  We do not provide any security service standards or assurances. If you have any questions about Site security, you can contact <a href="mailto:support@travelmob.com" class="forange">support@travelmob.com</a>.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">32</div>
-                                 <span class="p1block">
-					Where required by applicable laws, and subject to restrictions required for investigation, restoration and law enforcement, we will as soon as practicable disclose to you breaches of security, confidentiality or integrity of your unencrypted information.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">33</div>
-                                 <span class="p1block">
-					The Site contains links to other websites. These links are not endorsements, authorizations or representations relating to any third party or their privacy or other practices.  We do not control any third party websites. These websites may place cookies or other files on your computer, collect data or solicit information from you. They have their own terms of use relating to personal information and privacy.  You use and deal with these other websites at your own risk.
-                                </span>
-                        </div>
-
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">34</div>
-                                 <span class="p1block">
-					With your consent we may post your testimonial on the Site and identify you as the author. If you want your testimonial removed please contact <a href="mailto:support@travelmob.com" class="forange">support@travelmob.com</a>.
-                                </span>						
-                        </div>
-
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">35</div>
-                                 <span class="p1block">
-					The Site is not directed to individuals under 18. We do not knowingly collect information from children under 13.  If parents or guardians become aware that their child has provided us with Personal Information without their consent, they should contact us at<a href="mailto:support@travelmob.com" class="forange">&nbsp;support@travelmob.com</a>.    We will delete the Personal Information of a child under 13 that we are aware of.
-                                </span>
-                        </div>
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">36</div>
-                                 <span class="p1block">
-					If you have any questions about this Privacy Policy, please contact<a href="mailto:support@travelmob.com" class="forange"> support@travelmob.com</a>.
-                                </span>
-                        </div>
-
-
-			<div class="mwrapper">
-                                 <div class="p1blocknum forange">37</div>
-                                 <span class="p1block">
-					This Privacy Policy is governed by Singapore law.  The parties submit to the non-exclusive jurisdiction of the Singapore courts.
-                                </span>					
-                        </div>
-
-                </div>   
-
-   
-       <div class="clear"></div>         
-       </div><!--content_panel -->
-
-    </div><!--contentwrapper -->
-
+    </div>
+  </div>
+</div>          
       <!-- footer -->
   <div class="tm-footer">
     <div class="buildings hcenter tright"><img alt="Footer-buildings" src="http://static0.travelmob.com/assets/footer-buildings-08089bad0afa3673ba877b893375f045.png"></div>
     <div class="menu fade-effect hcenter tcenter">
         <div class="tm-flinks inline">
           <div class="tm-ftitle">Top Destinations</div>
-            <a href="/bali-vacation-rentals/" class="block">Bali</a>
-            <a href="/bangkok-vacation-rentals/" class="block">Bangkok</a>
-            <a href="/delhi-vacation-rentals/" class="block">Delhi</a>
-            <a href="/goa-vacation-rentals/" class="block">Goa</a>
-            <a href="/hanoi-vacation-rentals/" class="block">Hanoi</a>
-            <a href="/ho-chi-minh-city-vacation-rentals/" class="block">Ho Chi Minh City</a>
-            <a href="/hong-kong-vacation-rentals/" class="block">Hong Kong</a>
-            <a href="/jakarta-vacation-rentals/" class="block">Jakarta</a>
-            <a href="/ko-samui-vacation-rentals/" class="block">Koh Samui</a>
+            <a href="/vacation-rentals/indonesia/bali" class="block">Bali</a>
+            <a href="/vacation-rentals/thailand/bangkok" class="block">Bangkok</a>
+            <a href="/vacation-rentals/india/delhi/new-delhi" class="block">Delhi</a>
+            <a href="/vacation-rentals/united-arab-emirates/dubai" class="block">Dubai</a>
+            <a href="/vacation-rentals/india/goa" class="block">Goa</a>
+            <a href="/vacation-rentals/vietnam/hanoi" class="block">Hanoi</a>
+            <a href="/vacation-rentals/hong-kong" class="block">Hong Kong</a>
+            <a href="/vacation-rentals/malaysia/federal-territory-of-kuala-lumpur/kuala-lumpur" class="block">Kuala Lumpur</a>
+            <a href="/vacation-rentals/philippines/metro-manila/manila" class="block">Manila</a>
         </div>
         <div class="tm-flinks inline">
           <div class="tm-ftitle"></div>
-            <a href="/kuala-lumpur-vacation-rentals/" class="block">Kuala Lumpur</a>
-            <a href="/manila-vacation-rentals/" class="block">Manila</a>
-            <a href="/mumbai-vacation-rentals/" class="block">Mumbai</a>
-            <a href="/penang-vacation-rentals/" class="block">Penang</a>
-            <a href="/phuket-vacation-rentals/" class="block">Phuket</a>
-            <a href="/seoul-vacation-rentals/" class="block">Seoul</a>
-            <a href="/singapore-vacation-rentals/" class="block">Singapore</a>
-            <a href="/sydney-vacation-rentals/" class="block">Sydney</a>
-            <a href="/taipei-city-vacation-rentals/" class="block">Taipei</a>
+            <a href="/vacation-rentals/australia/victoria/melbourne" class="block">Melbourne</a>
+            <a href="/vacation-rentals/india/maharashtra/mumbai" class="block">Mumbai</a>
+            <a href="/vacation-rentals/malaysia/penang" class="block">Penang</a>
+            <a href="/vacation-rentals/thailand/phuket" class="block">Phuket</a>
+            <a href="/vacation-rentals/south-korea/seoul" class="block">Seoul</a>
+            <a href="/vacation-rentals/singapore" class="block">Singapore</a>
+            <a href="/vacation-rentals/australia/new-south-wales/sydney" class="block">Sydney</a>
+            <a href="/vacation-rentals/taiwan/taipei-city" class="block">Taipei</a>
+            <a href="/vacation-rentals/japan/tokyo" class="block">Tokyo</a>
         </div>
       <div class="v-line inline"></div>
         <div class="tm-flinks inline">
           <a href="/events" class="events block">Events</a>
-            <a href="/events/thailand/world-film-festival-of-bangkok" class="block">World Film Festival of Bangkok</a>
-            <a href="/events/australia/the-big-design-market-melbourne" class="block">The Big Design Market</a>
-            <a href="/events/australia/glebe-music-festival" class="block">Glebe Music Festival</a>
+            <a href="/events/singapore/the-great-singapore-sale-2014" class="block">The Great Singapore Sale</a>
+            <a href="/events/indonesia/bali-arts-festival-201" class="block">Bali Arts Festival</a>
+            <a href="/events/dubai/ramadan-dubai" class="block">Ramadan, Dubai</a>
         </div>
       <div class="tm-flinks inline">
         <div class="tm-ftitle">Company Info</div>
@@ -415,9 +419,11 @@ You warrant that our access and dealing with your SNS and Third Party Account as
         <div class="tm-ftitle">Learn More</div>
         <a href="/pages/how_it_works" class="block">How it works</a>
         <a href="/pages/safety_center" class="block">Safety Centre</a>
-        <a href="/pages/why_host" class="block">Be a travelmob host</a>
+        <a href="/hosts" class="block">Be a travelmob host</a>
+        <a href="/guests" class="block">travelmob stories</a>
         <a href="/pages/one" class="block">travelmob turns 1</a>
         <a href="/pages/faq" class="block">Help</a>
+        <a href="/mobile" class="block">Mobile</a>
       </div>
       <div class="tm-flinks inline socials">
         <div class="tm-ftitle">Follow Us</div>
@@ -446,41 +452,27 @@ You warrant that our access and dealing with your SNS and Third Party Account as
     </div>
     <div class="copyright">
       <div class="country-flag">
-          <a href="http://www.travelmob.com/?r=0" class="inline tm-sprite tm-f-commmon tm-f-us">
-          </a>
-          <a href="http://cn.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-cn">
-          </a>
-          <a href="http://hk.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-hk">
-          </a>
-          <a href="http://tw.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-tw">
-          </a>
-          <a href="http://id.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-id">
-          </a>
-          <a href="http://sg.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-sg">
-          </a>
-          <a href="http://my.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-my">
-          </a>
-          <a href="http://vn.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-vn">
-          </a>
-          <a href="http://th.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-th">
-          </a>
-          <a href="http://ph.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-ph">
-          </a>
-          <a href="http://au.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-au">
-          </a>
-          <a href="http://in.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-in">
-          </a>
-          <a href="http://kr.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-kr">
-          </a>
-          <a href="http://jp.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-jp">
-          </a>
-          <a href="http://ru.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-ru">
-          </a>
-          <a href="http://uk.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-gb">
-          </a>
+          <a href="http://www.travelmob.com/?r=0" class="inline tm-sprite tm-f-commmon tm-f-us"></a>
+          <a href="http://cn.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-cn"></a>
+          <a href="http://hk.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-hk"></a>
+          <a href="http://tw.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-tw"></a>
+          <a href="http://id.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-id"></a>
+          <a href="http://sg.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-sg"></a>
+          <a href="http://my.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-my"></a>
+          <a href="http://vn.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-vn"></a>
+          <a href="http://th.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-th"></a>
+          <a href="http://ph.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-ph"></a>
+          <a href="http://au.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-au"></a>
+          <a href="http://in.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-in"></a>
+          <a href="http://kr.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-kr"></a>
+          <a href="http://jp.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-jp"></a>
+          <a href="http://ru.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-ru"></a>
+          <a href="http://uk.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-gb"></a>
+          <a href="http://ca.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-ca"></a>
+          <a href="http://fr.travelmob.com/" class="inline tm-sprite tm-f-commmon tm-f-fr"></a>
       </div>
       <div class="copyright-message tcenter">
-        © 2013 travelmob
+        © 2014 travelmob
         <a href="/pages/terms">Terms of Service</a>
         <a href="/pages/policies">Privacy Policy</a>
       </div>
@@ -490,17 +482,14 @@ You warrant that our access and dealing with your SNS and Third Party Account as
 
 
     <!-- tracking: google -->
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-26926207-1']);
-  _gaq.push(['_setDomainName', 'travelmob.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-26926207-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
 </script>
 
 
@@ -512,7 +501,7 @@ You warrant that our access and dealing with your SNS and Third Party Account as
     <script>
   if (window.location.hash == "#_=_") {window.location.hash = "";}
 </script>
-  <script src="http://static0.travelmob.com/assets/application-6cebae77e68a48f8ee04b6f613485864.js" type="text/javascript"></script>
+  <script src="http://static1.travelmob.com/assets/application-a8f9e89dbd87813d0151d3421ad3be53.js" type="text/javascript"></script>
 
 
     
@@ -562,29 +551,39 @@ window.onload = function(){
 <script type="text/javascript">
   window._atm_client_id = "6056";
   window._atm_params = new Object;
-  _atm_params.t = "h";   
-  _atm_params.f = ""; //-- INSERT PAGE TYPE (v - home page, b - hotel listing page, c - hotel detail page, s - checkout page, p - transaction confirmation page)
-  _atm_params.d = "" //-- INSERT destination (eg. "Bali", "Melbourne", etc.)
-  var ast=document.createElement('script'); ast.type="text/javascript";
-  ast.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//cdn.atomex.net/static/js/pxs/" + _atm_client_id + "/ast.js";
-  document.body.appendChild(ast);
-</script><script type="text/javascript" src="https://cdn.atomex.net/static/js/pxs/6056/ast.js"></script>
+  _atm_params.t = "h";
+  _atm_params.f = "";
+  _atm_params.d = "";
+  _atm_params.id = "";
+  _atm_params.title = "";
+  _atm_params.lnk = encodeURIComponent("");
+  _atm_params.img = encodeURIComponent("");
+  _atm_params.oprc = "";
+  _atm_params.sprc = "";
+  _atm_params.dsc = "";
+  _atm_params.ci = "";
+  _atm_params.co = "";
+  ;(function() {
+    function _atm_ast() {
+      var ast=document.createElement('script'); ast.type="text/javascript";
+      ast.async = true;
+      ast.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//cdn.atomex.net/static/js/pxs/" + window._atm_client_id + "/ast.js";
+      document.body.appendChild(ast);
+    };
+    if(document.readyState == "complete") {
+      _atm_ast();
+    } else {
+      if (window.addEventListener) window.addEventListener('load', _atm_ast, false);
+      else if (window.attachEvent) window.attachEvent('onload', _atm_ast);
+    }
+  })();
+</script>
+
 
 
 
     
 
-  <script type="text/javascript">if (typeof NREUMQ !== "undefined") { if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "js-agent.newrelic.com/nr-100.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-5.newrelic.com","5860a4b5c2","2140381","dgsKQkUOWA9QEEpGVlIBFxlHDlgKVgsARQ==",4,24,new Date().getTime(),"","","","",""]);}</script>
+  
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script><script type="text/javascript" async="" src="https://cdn.atomex.net/static/js/pxs/6056/ast.js"></script></body></html>
