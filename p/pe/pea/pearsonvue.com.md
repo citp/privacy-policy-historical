@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonvue.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225064420id_/http%3A//www.pearsonvue.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonvue.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114550id_/http%3A//pearsonvue.com/legal/privacy) for the most accurate reproduction.*
 
 # Pearson VUE: Privacy Policy
 
@@ -95,7 +95,7 @@ Data collected and received by us may be transmitted to the United States and ot
 
 ## INFORMATION POLICY RELATING TO TEST CENTER APPLICATIONS
 
-For information submitted by businesses wishing to become Pearson VUE-authorized test centers, please see the [Information Policy regarding Test Center Applications](https://web.archive.org/web/20131225064420id_/http://www.pearsonvue.com/legal/vtcpolicy/).
+For information submitted by businesses wishing to become Pearson VUE-authorized test centers, please see the [Information Policy regarding Test Center Applications](https://web.archive.org/web/20140625114550id_/http://www.pearsonvue.com/legal/vtcpolicy/).
 
 ## CHANGES TO THIS POLICY
 
