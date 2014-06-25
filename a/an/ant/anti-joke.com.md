@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anti-joke.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211084858id_/http%3A//www.anti-joke.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anti-joke.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012800id_/http%3A//anti-joke.com/privacy-policy) for the most accurate reproduction.*
 
 # Anti Joke - Funny Anti Jokes
 
