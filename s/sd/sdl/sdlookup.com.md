@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdlookup.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121123852id_/http%3A//www.sdlookup.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdlookup.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064443id_/http%3A//www.sdlookup.com/Privacy_Policy) for the most accurate reproduction.*
 
 # SDLookup.com San Diego's Premier Real Estate Marketplace > Privacy Policy
 
