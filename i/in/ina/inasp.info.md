@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inasp.info privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109083248id_/http%3A//www.inasp.info/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inasp.info privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121618id_/http%3A//www.inasp.info/en/privacy-policy) for the most accurate reproduction.*
 
 # INASP - Privacy policy
 
