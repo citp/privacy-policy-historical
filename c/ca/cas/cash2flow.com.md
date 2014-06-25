@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cash2flow.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210175726id_/http%3A//cash2flow.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash2flow.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071157id_/http%3A//www.cash2flow.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
 **What kind of personal information cash2flow.com collects and how it is collected** ::
 
-The **cash2flow.com** **Network (heretofore referred to simply as** cash2flow.com **)** **** collects personal information from a variety of sources, including from members of the public, advertisers, prospective members, 100% voluntary double opt-in lists and business partners. 
+The **cash2flow.com** **Network (heretofore referred to simply as** cash2flow.com **)** **** collects personal information from prospective members via a 100% voluntary double opt-in lists and and voluntary submission of information of members or prospective members. 
 
 In general, the personal information **cash2flow.com** collects includes (but is not limited to) name, address, contact details,  in some cases membership of professional associations. **Cash2Flow.com** does not collect or store financial information, including credit card information, banking details or income information. 
 
@@ -14,9 +14,9 @@ In general, the personal information **cash2flow.com** collects includes (but is
 
 _Personal Information you provide_ : We store the personal information you enter on the **cash2flow.com** Network. We obtain most personal information through the cash2flow.com  membership registration process and updates to membership details. You may provide information when you request or acquire a product or service from cash2flow.com or its related companies,, complete a survey or questionnaire, enter a competition, participate in forums or when you communicate with cash2flow.com by e-mail, telephone or in writing (for example if you contact customer service or provide feedback). You may "opt out" of any further communications with cash2flow.com if you so desire. 
 
-_Automatic collection_ : Cookies: We may use a feature of your browser called a cookie to assign your computer a 'User ID'. Cookies do not contain information by which cash2flow.com can identify you. They identify your computer to our servers. You may configure your browser so that you are notified before a cookie is downloaded or so that your browser does not accept cookies. cash2flow.com may use information contained in cookies to make assumptions about the user of the computer and to provide users of that computer with focused advertising which **cash2flow.com** believes may be of interest, based on that information. To disable your cookies, please refer to the help menu within your Internet browser. 
+_Automatic collection_ : Cookies: We may use a feature of your browser called a cookie to assign your computer a 'User ID'. Cookies **DO NOT** contain information by which cash2flow.com can identify you personally. They identify your computer to our servers. **You may configure your browser so that you are notified before a cookie is downloaded or so that your browser does not accept cookies.** cash2flow.com may use information contained in cookies to make assumptions about the user of the computer and to provide users of that computer with focused advertising which **cash2flow.com** believes may be of interest, based on that information. To disable your cookies, please refer to the help menu within your Internet browser. Cash2flow.com DOES NOT track you on the internet in any way, shape, or form other then on our servers. **Cash2flow DOES NOT track your surfing habits, purchases, demographics, searches, or ANY activity you engage in online other than what directly relates to our website on our servers.**
 
-_Indirect collection_ : cash2flow.com endeavors to collect personal information about an individual only from that individual. In some circumstances cash2flow.com may obtain personal information from a third party. If you provide personal information about another person to cash2flow.com , cash2flow.com requires that you inform that person you have done so and provide them with a copy of this policy. 
+_Indirect collection_ : cash2flow.com endeavors to collect personal information about an individual **only from that individual.** In some circumstances cash2flow.com may obtain personal information from a third party. If you provide personal information about another person to cash2flow.com , cash2flow.com requires that you inform that person you have done so and provide them with a copy of this policy. 
 
 **How cash2flow.com uses the information you provide**  
 cash2flow.com may use information it collects from you for the primary purpose for which it is collected and for such other secondary purposes that are related to the primary purpose of collection. 
@@ -47,7 +47,7 @@ The cash2flow.com Network contains features where you are invited to send person
 **How cash2flow.com treats sensitive information**
 
   
-**"Sensitive Information"** means information relating to a person's racial or ethnic origin, membership of political bodies, religion, membership of a trade union or professional or trade association, sexual preferences, criminal record , health. 
+**"Sensitive Information"** means information relating to a person's racial or ethnic origin, membership of political bodies, religion, membership of a trade union or professional or trade association, sexual preferences, criminal record , health (none of which we don't collect anyway). . 
 
 cash2flow.com may use and disclose Sensitive Information only for the purpose for which it was provided or a directly related secondary purpose or as allowed by law unless you have agreed otherwise. 
 
