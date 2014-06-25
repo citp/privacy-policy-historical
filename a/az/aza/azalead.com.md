@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the azalead.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209065837id_/http%3A//azalead.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azalead.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140423id_/http%3A//azalead.com/privacy) for the most accurate reproduction.*
 
-# Azalead -English | Privacy
+# Privacy | Azalead - Sales Acceleration Software
 
-### Privacy Statement, effective as of September 1st, 2013
+## **Privacy Statement**
+
+### **Effective as of 27 January, 2014**
 
 Azalead Software SAS. (“Azalead” or the “Company”) is committed to protecting the privacy of individuals who visit the Company’s Web sites (“Visitors”), individuals who register to use the Services as defined below (“Customers”). This Privacy Statement describes Azalead’s privacy practices in relation to the use of the Company’s Web sites and the related applications and services offered by Azalead (the “Services”).
 
-### 1\. Information collected
+### **1\. Information collected**
 
 When expressing an interest in obtaining additional information about the Services or registering to use the Services, Azalead requires you to provide the Company with personal contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). When purchasing the Services, Azalead may require you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Services (“Billing Information”). Azalead may also ask you to provide additional information, such as company annual revenues, number of employees, or industry (“Optional Information”). Required Contact Information, Billing Information, and Optional Information about Customers are referred to collectively as “Data About Azalead Customers”.
 
 As you navigate the Company’s Web sites, Azalead may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Web sites (such as the Web pages viewed and the links clicked).
 
-### 2\. Use of information collected
+### **2\. Use of information collected**
 
 The Company uses Data About Azalead Customers to perform the services requested. For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Services.
 
@@ -22,29 +24,29 @@ Azalead uses credit card information solely to check the financial qualification
 
 Azalead uses Web Site Navigational Information to operate and improve the Company’s Web sites. The Company may also use Web Site Navigational Information alone or in combination with Data About Azalead Customers to provide personalized information about the Company.
 
-### 3\. Web Site Navigational Information
+### **3\. Web Site Navigational Information**
 
-Cookies, Web Beacons and IP Addresses
+**Cookies, Web Beacons and IP Addresses**
 
 Azalead uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Web sites (“Web Site Navigational Information”). This section describes the types of Web Site Navigational Information used on the Company’s Web sites and how this information may be used.
 
-Cookies
+**Cookies**
 
 Azalead uses cookies to make interactions with the Company’s Web sites easy and meaningful. When you visit one of the Company’s Web sites, Azalead’s servers send a cookie to your computer. Standing alone, cookies do not personally identify you; they merely recognize your Web browser. Unless you choose to identify yourself to Azalead, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a “Contact Me” or a “Free Trial” Web form), you remain anonymous to the Company.
 
 Azalead uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. Please note that if you disable your Web browser’s ability to accept cookies, you will be able to navigate the Company’s Web sites, but you will not be able to successfully use the Services.
 
-The following sets out how Azaled uses different categories of cookies and your options for managing cookies’ settings:
+The following sets out how Azalead uses different categories of cookies and your options for managing cookies’ settings:
 
-Type of Cookies
-
-| 
-
-Description
+**Type of Cookies**
 
 | 
 
-Managing Settings  
+**Description**
+
+| 
+
+**Managing Settings**  
   
 ---|---|---  
   
@@ -104,17 +106,17 @@ To learn more about these and other advertising networks and their opt out instr
 
 To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).  
   
-Web Beacons
+**Web Beacons**
 
 Azalead uses Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of the Company’s Web sites and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Web site tied to the Web beacon, and a description of a Web site tied to the Web beacon. For example, Azalead may place Web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to one of the Company’s Web sites. Azalead uses Web beacons to operate and improve the Company’s Web sites and email communications.
 
-IP Addresses
+**IP Addresses**
 
 When you visit Azalead’s Web sites, the Company collects your Internet Protocol (“IP”) addresses to track and aggregate non-personal information. For example, Azalead uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Web sites.
 
 Azlaead also collects IP addresses from Customers when they log into the Services as part of the Company’s “Identity Confirmation” and “IP Range Restrictions” security features.
 
-### 4\. Public forums, refer a friend, and customer testimonials
+### **4\. Public forums, refer a friend, and customer testimonials**
 
 Azalead may provide bulletin boards, blogs, or chat rooms on the Company’s Web sites. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Azalead is not responsible for the personal information you choose to submit in these forums.
 
@@ -122,7 +124,7 @@ Customers and Visitors may elect to use the Company’s referral program to info
 
 Azalead posts a list of Customers and testimonials on the Company’s Web sites that contain information such as Customer names and titles. Azalead obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
 
-### 5\. Sharing of information collected
+### **5\. Sharing of information collected**
 
 Service Providers
 
@@ -140,32 +142,32 @@ Compelled Disclosure
 
 Azalead reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
 
-### 6\. International transfer of information collected
+### **6\. International transfer of information collected**
 
 To facilitate Azalead’s global operations, the Company may transfer and access Data About Azalead Customers from around the world, including the United States. This Privacy Statement shall apply even if Azalead transfers Data About Azalead Customers to other countries.
 
-### 7\. Communications preferences
+### **7\. Communications preferences**
 
 Azalead offers Visitors and Customers who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to support@azalead.com Customers cannot opt out of receiving transactional emails related to their account with Azalead or the Services.
 
-### 8\. Correcting and updating your information
+### **8\. Correcting and updating your information**
 
 Customers may update or change their registration information by editing their user or organization record. To update a user profile, please login to http://www.azalead.com with your Azalead username and password and click “Setup.”. To update Billing Information or have your registration information deleted, please email support@azalead.com. To discontinue your account and to have information you maintained in the Services returned to you, please email support@azalead.com.  Requests to access, change, or delete your information will be handled within 30 days.
 
-### 9\. Customer Data
+### **9\. Customer Data**
 
 Azalead Customers may electronically submit data or information to the Services for hosting and processing purposes (“Customer Data”). Azalead will not review, share, distribute, or reference any such Customer Data except as provided in the Azalead Subscription Agreement, or as may be required by law. In accordance with the Azalead Subscription Agreement, .Azalead may access Customer Data only for the purpose of providing the Services, preventing or addressing service or technical problems, at a Customer’s request in connection with customer support matters, or as may be required by law.
 
-### 10\. Security
+### **10\. Security**
 
 Azalead uses robust security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. When the Services are accessed using Internet Explorer version 7.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, Secure Socket Layer (.SSL.) technology protects Customer Data using both server authentication and data encryption. These technologies help ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access. The Company hosts its Websites in a secure server environment that uses firewalls, intrusion detection systems, and other advanced technology to prevent interference or access from outside intruders. Customers are responsible for maintaining the security and confidentiality of their Azalead usernames and passwords.
 
 Because the Company uses the Services to maintain Data About Azalead Customers, this information, which is stored in the Services, is secured in the same manner as described above for Customer Data.
 
-### 11\. Changes to this Privacy Statement
+### **11\. Changes to this Privacy Statement**
 
 Azalead reserves the right to change this Privacy Statement. Azalead will provide notification of the material changes to this Privacy Statement through the Company’s Web sites at least thirty (30) business days prior to the change taking effect.
 
-### 12\. Contacting us
+### **12\. Contacting us**
 
-Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to Azalead Privacy by mailing Azalead Privacy, 22 rue Perronet, 92200 Neuilly Sur Seine, France.
+Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to Azalead Privacy by mailing Azalead Privacy, 38 rue Jean Mermoz, 75008, Paris, France.
