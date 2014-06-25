@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleetwoodmac.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121215838id_/http%3A//fleetwoodmac.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleetwoodmac.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074540id_/http%3A//www.fleetwoodmac.com/privacy) for the most accurate reproduction.*
 
 # Home : Fleetwood Mac
 
