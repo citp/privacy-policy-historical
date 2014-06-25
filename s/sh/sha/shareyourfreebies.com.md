@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shareyourfreebies.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208212753id_/http%3A//shareyourfreebies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareyourfreebies.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073836id_/http%3A//shareyourfreebies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : ShareYourFreebies
 
-ShareYourFreebies.com (the “Website” or “we”)  is committed to protecting the privacy and security of users of our Website.  This Privacy Policy sets forth how the Website collects and uses personal information, and is incorporated by reference into our Terms of Use.  Using our Website constitutes an acknowledgement and agreement that you have read and accepted our privacy practices set forth below.  Please do not use this Website if you do not agree to our privacy practices.
+ShareYourFreebies.com (the “Website” or “we”) is committed to protecting the privacy and security of users of our Website.  This Privacy Policy sets forth how the Website collects and uses personal information, and is incorporated by reference into our Terms of Use.  Using our Website constitutes an acknowledgement and agreement that you have read and accepted our privacy practices set forth below.  Please do not use this Website if you do not agree to our privacy practices.
 
 1\. CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION
 
@@ -77,9 +77,15 @@ Our Website contains advertisements and promotional offers by third parties.  A
 
 Any dispute over privacy or security will be subject to this Privacy Policy and our Terms of Use.  We will always make every effort to resolve any concerns regarding privacy that arise in connection with this Privacy Policy.
 
-11\. OTHER INFORMATION
+11\. OTHER INFORMATION FOR CALIFORNIA RESIDENTS
 
-California Civil Code Section 1798.83 provides that California residents who have submitted personal information to us are permitted to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.  Within thirty (30) days of receiving any such  request, we will provide a list of the categories of personal information disclosed to third parties for third party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties.  This request may not be made more than once per calendar year.  Further, in accordance with California Civil Code Sec. 1789.3, California residents are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R. Street, Ste. 1080, Sacramento, CA  95814 or by phone at 916-445-1254 or 800-952-5210 or by email to dca@dca.ca.gov.  For more information about protecting your privacy, you may wish to visit http://www.ftc.gov.
+As a California resident using our Website, you expressly acknowledge and agree to the following: In compliance with Chapter 390 of Section 22575 of the Business and Professions Code, our third party affiliates, partners and advertisers, are prominently disclosed here in our Privacy Policy, our Terms of Use and during your disclosure of your personal identifiable information.  This includes all third parties that we work with.
+
+California Civil Code Section 1798.83 provides that California residents who have submitted personal information to us are permitted to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.  Within thirty (30) days of receiving any such  request, we will provide a list of the categories of personal information disclosed to third parties for third party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties.  This request may not be made more than once per calendar year.  If you are a California resident and want a copy of this notice, please submit a written request to the following address: ShareYourFreebies.com, 2201 Long Prairie Road, Suite 107, PMB 280, Flower Mound, Texas 75022
+
+Further, in accordance with California Civil Code Sec. 1789.3, California residents are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R. Street, Ste. 1080, Sacramento, CA  95814 or by phone at 916-445-1254 or 800-952-5210 or by email to dca@dca.ca.gov.  For more information about protecting your privacy, you may wish to visit [http://www.ftc.gov](http://www.ftc.gov/).w
+
+Pursuant to The California Online Privacy Protection Act of 2003 (“CalOPPA”) we do not collect nor do we allow third parties to collect personally identifiable information over time and across third party websites and online services.   The only third party that has access to data does this only on our website.  As such we have no need of response to browser Do-Not-Track (“DNT”) signals or other mechanisms that provide consumers with choice regarding the collection of such information.  We only collect data from our website (to provide our users with more relevant freebies as they visit our site).  Please carefully read our Terms of Use and Privacy Policy as well as this section related to the other categories of personally identifiable information (“PII”) collected and with whom it is shared.
 
 12\. CONTACT US
 
@@ -95,4 +101,4 @@ We may amend this Privacy Policy at any time in our sole discretion without prio
 
 14.    EFFECTIVE DATE
 
-Our Privacy Policy was last modified on August 5, 2013.
+Our Privacy Policy was last modified on January 22, 2014.
