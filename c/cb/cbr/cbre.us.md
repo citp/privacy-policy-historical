@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbre.us privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204053253id_/http%3A//www.cbre.us/Pages/legal/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbre.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165604id_/http%3A//www.cbre.us/Pages/legal/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ This Privacy Policy is incorporated into, and part of, the Terms and Conditions 
 
 ​We recognize the importance of protecting your privacy and our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us, and to assist you in making informed decisions when using the Site. This Privacy Policy will be continuously assessed against new technologies, business practices and our clients’ needs. As we update and diversify our products and services, this Privacy Policy may evolve. Please check this page for updates periodically. We will try to post any changes to this Privacy Policy before they become effective. If we make any material changes to this Privacy Policy, we will notify you here, by email or by means of a notice on our Site’s home page. 
 
-If you have questions or concerns regarding this Privacy Policy or wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at [WebMarketing@cbre.com](mailto:WebMarketing@cbre.com) or by writing to us at Director of Web Marketing; 2415 E. Camelback Rd., Phoenix, AZ 85016.
+If you have questions or concerns regarding this Privacy Policy or wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at [PrivacyAdministrator@cbre.com](mailto:PrivacyAdministrator@cbre.com) or by writing to us at 200 Park Ave., Floor 19, New York, NY 10166.
 
 Please note: by using or registering with our Site or by providing personal information, you agree to the terms of this Privacy Policy.
 
@@ -46,7 +46,10 @@ We have several areas where you can submit information to us, and we also have f
 
 **Bankruptcy:** You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your personal information to be shared or transferred to third parties without your permission. 
 
-**Consent to processing:** By providing any personal information to us, you fully understand and unambiguously consent to the transfer of such personal information to, and the collection and processing of such personal information in, the United States and other countries or territories. Your personal information will be stored and processed on our computers in the United States. The laws on holding personal information in the United States may vary and be less stringent than laws of your state or country. We will use commercially reasonable efforts to hold and transmit your personal information in a safe, confidential and secure environment. If you object to your personal information being transferred or used in this manner please do not register with or use the Site. 
+**Consent to processing:** By providing any personal information to us, you fully understand and unambiguously consent to the transfer of such personal information to, and the collection and processing of such personal information in, the United States and other countries or territories. Your personal information will be stored and processed on our computers in the United States. The laws on holding personal information in the United States may vary and be less stringent than laws of your state or country. We will use commercially reasonable efforts to hold and transmit your personal information in a safe, confidential and secure environment. If you object to your personal information being transferred or used in this manner please do not register with or use the Site. 
+
+**Cross Border Transfers:** CBRE Inc. has certified to the Safe Harbor framework agreed to by the U.S. Department of Commerce and the EU and the U.S. Department of Commerce and Switzerland with respect to certain Personal Information collected by our affiliates and corporate clients located in the European Economic Area and Switzerland and transferred to CBRE Inc. in the United States.  **Please see our Safe Harbor Statement by clicking**[ **here**](http://www.cbre.com/AssetLibrary/6-22-02_CBRE-Safe-Harbor-Client-Data-Privacy-Policy_Revised-12-27-13.pdf "view teh Safe Harbor Statement") **.** For additional information regarding the Safe Harbor Program, see the U.S. Dept. of Commerce web site at <http://www.export.gov/safeharbor>.   
+
 
 ### Security 
 
@@ -56,7 +59,7 @@ Although we will take (and require our third-party providers to take) commercial
 
 ### Modification of your choices and preferences 
 
-**Opt-out right:** If you would like to opt out of any of our marketing programs, or wish to withdraw your consent to us contacting you via your e-mail, fax or phone number, or if your personal details change, please contact us through one of the following: (i) by telephone, at +1 602 735 5215 and ask for our Director of Web Marketing; (ii) by facsimile, at +1 602 735 5655; (iii) by email, by following the Opt-Out instruction contained in the body of any marketing e-mail from us or by sending us an e-mail at [WebMarketing@cbre.com](mailto:WebMmarketing@cbre.com) by including a copy of the e-mail you have received and by typing “Remove” in the subject line of your e-mail; or (iv) by mail, care of Web Marketing Director; 2415 E. Camelback Rd., Phoenix, AZ 85016.
+**Opt-out right:** If you would like to opt out of any of our marketing programs, or wish to withdraw your consent to us contacting you via your e-mail, fax or phone number, or if your personal details change, please contact us through one of the following: (i) by telephone, at +1 877 2273330; (ii) by facsimile, at +1 212 9848040; (iii) by email, by following the Opt-Out instruction contained in the body of any marketing e-mail from us or by sending us an e-mail at [PrivacyAdministrator@cbre.com](mailto:PrivacyAdministrator@cbre.com) by including a copy of the e-mail you have received and by typing “Remove” in the subject line of your e-mail; or (iv) by mail, 200 Park Ave., Floor 19, New York, NY 10166.
 
 Your election not to receive newsletters or promotional and marketing correspondence from us will not: (a) preclude us from corresponding with you, by email or otherwise, regarding your existing or past relationship with us, and (b) preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your personal information in the course of maintaining and improving the Site. 
 
