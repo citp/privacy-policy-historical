@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fair.org privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208005705id_/http%3A//fair.org/about-fair/fair-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fair.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132642id_/http%3A//fair.org/about-fair/fair-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — FAIR: Fairness & Accuracy In Reporting
+# Privacy Policy — FAIR
 
 ### FAIR Privacy Policy
 
