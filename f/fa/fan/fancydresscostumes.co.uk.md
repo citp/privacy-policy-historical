@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fancydresscostumes.co.uk privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928230832id_/http%3A//fancydresscostumes.co.uk/content/9-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancydresscostumes.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114902id_/http%3A//fancydresscostumes.co.uk/content/9-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,10 +54,14 @@ Should you wish to receive these details please write to the below address with 
 
 FancyDressCostumes.co.uk
 
-Unit 1 James Street
+The Old Vicarage
+
+Lower Road
+
+East Farleigh
 
 Maidstone
 
-ME14 2UR
+Kent
 
-United Kingdom
+ME15 0JW
