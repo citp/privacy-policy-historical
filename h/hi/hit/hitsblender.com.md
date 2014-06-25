@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hitsblender.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125101102id_/http%3A//hitsblender.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitsblender.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094248id_/http%3A//hitsblender.com/privacy) for the most accurate reproduction.*
 
 # HitsBlender
 
-Welcome to HitsBlender! This Privacy Policy is effective for Noverix Enterprise, Ltd. ("HitsBlender", "we", "us" and/or "our") and it applies to the HitsBlender web site and associated pages (the "Site"), the content directory, tools, and applications (together with the Site, the "Service").
+Welcome to HitsBlender! This Privacy Policy is effective for Blisbury LLP. ("HitsBlender", "we", "us" and/or "our") and it applies to the HitsBlender web site and associated pages (the "Site"), the content directory, tools, and applications (together with the Site, the "Service").
 
 We will continue to evaluate this Privacy Policy and update it accordingly when there is a change to our business practices, our users' needs, and to comply with regulatory and legal requirements. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here and notify you by email or by means of a notice on our website.
 
