@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212063832id_/http%3A//www.fi.com/legal/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110712id_/http%3A//www.fi.com/legal/security.aspx) for the most accurate reproduction.*
 
 # Fisher Investments | Privacy & Security
 
-(This version of the privacy policy in effect as of June 12, 2013)
+(This version of the privacy policy in effect as of December 27, 2013)
 
 ##  General
 
-This privacy policy sets out how Fisher Investments collects, uses and shares information concerning users of this website (individually “user” or “you”, collectively “users”).  Any changes to this privacy policy will be posted at <http://www.fisherinvestments.com/about/privacy-security/us>.  Users can also access this privacy policy via our homepage and from the bottom of every page by clicking on the appropriate link in the footer.
+This privacy policy sets out how Fisher Investments collects, uses and shares information concerning users of this website(individually “user” or “you”, collectively “users”).  Any changes to this privacy policy will be posted at [http://www.fisherinvestments.com/about/privacy-security/us](http://www.fi.com/about/privacy-security/us).  Users can also access this privacy policy via our homepage and from the bottom of every page by clicking on the appropriate link in the footer.
 
 Fisher Investments and its associated companies are committed to respecting users’ privacy.  We have structured our website so that, in general, users can visit Fisher Investments on the web without identifying themselves or revealing any personal information.  Once users choose to provide Fisher Investments with any information by which users can be identified, users can be assured that it will only be collected, used and shared in accordance with this privacy policy. We encourage you to periodically review this privacy policy and any revisions thereto to ensure that you are familiar with the most current version.
 
@@ -31,7 +31,7 @@ To ensure consumer privacy laws are not violated, Fisher Investments has adopted
 
 ##  Privacy Notice
 
-This U.S. Privacy Notice describes how we collects, uses and shares information from or about you. We are committed to protecting your privacy and your non-public personal information. Fisher Investments’ U.S. Privacy Notice is available upon request.
+This U.S. Privacy Notice describes how we collects, uses and shares information from or about you. We are committed to protecting your privacy and your non-public personal information. Please click here for Fisher Investments’ U.S. Privacy Notice: <http://www.fi.com/pdf/Privacy_Notice.pdf>
 
 ##  What information Fisher Investments collects
 
@@ -67,8 +67,8 @@ Users may contact Fisher Investments at any time to request access to informatio
 
 Fisher Investments  
 ATTN: Marketing – Privacy  
-13100 Skyline Boulevard  
-Woodside, California  94062  
+5525 NW Fisher Creek Drive  
+Camas, Washington 98607  
 USA  
 [privacy@fi.com](mailto:privacy@fi.com)  
 1-800-851-8845
@@ -79,33 +79,37 @@ To unsubscribe from Fisher Investments’ email communications, send an email to
 
 ##  Security
 
-Fisher Investments is committed to ensuring that user information is secure.  In order to prevent unauthorized access or disclosure, Fisher Investments has put in place suitable physical, electronic and managerial procedures to safeguard and secure information. Nevertheless, due to the nature of the Internet and Internet technologies, security and privacy risks cannot be eliminated and Fisher Investments cannot guarantee that users’ personal information will not be disclosed in ways not otherwise described in this privacy policy.
+Fisher Investments is committed to ensuring that user information is secure. In order to prevent unauthorized access or disclosure, Fisher Investments has put in place suitable physical, electronic and managerial procedures to safeguard and secure information. Nevertheless, due to the nature of the Internet and Internet technologies, security and privacy risks cannot be eliminated and Fisher Investments cannot guarantee that users’ personal information will not be disclosed in ways not otherwise described in this privacy policy.
 
 ##  Other Websites
 
-The Fisher Investments website may contain links to enable users to visit other websites of interest easily.  However, once users have used these links to leave this site, users should note that Fisher Investments does not have any control over that other website.  Therefore, Fisher Investments cannot be responsible for the protection and privacy of any information which users provide while visiting such sites and such sites are not governed by this privacy policy.  Users should exercise caution and look at the privacy policy applicable to the website in question.
+The Fisher Investments website may contain links to enable users to visit other websites of interest easily. However, once users have used these links to leave this site, users should note that Fisher Investments does not have any control over that other website. Therefore, Fisher Investments cannot be responsible for the protection and privacy of any information which users provide while visiting such sites and such sites are not governed by this privacy policy. Users should exercise caution and look at the privacy policy applicable to the website in question.
 
 ##  Cookie Policy
 
-What is a “cookie”?  A cookie is a small data file containing information, such as a link that a user clicked on, which is written to the user's hard drive by a web server and used to track the pages visited.  Fisher Investments allows third party partner organizations to place cookies on its behalf to collect information about the behavior of users visiting Fisher Investments’ website, including domain type, IP address and clickstream data, and to remember choices users make to improve their experience.  Such information may be identifiable by IP address, but not by users’ personal information.  It does not contain personal information such as name, address, telephone number or email address. It also does not contain user passwords. 
+What is a “cookie”? A cookie is a small data file containing information, such as a link that a user clicked on, which is written to the user's hard drive by a web server and used to track the pages visited. Fisher Investments allows third party partner organizations to place cookies on its behalf to collect information about the behavior of users visiting Fisher Investments’ website, including domain type, IP address and clickstream data, and to remember choices users make to improve their experience. Such information may be identifiable by IP address, but not by users’ personal information. It does not contain personal information such as name, address, telephone number or email address. It also does not contain user passwords.
 
 While cookies and similar tools can serve many functions, the cookies we use perform the following functions:
 
 1\. Performance Cookies
 
-These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages, so that we can track the usage of our website and analyze traffic patterns.  These cookies don’t collect information that identifies a visitor other than by their IP address.  These cookies are only used to improve how a website works.
+These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages, so that we can track the usage of our website and analyze traffic patterns. These cookies don’t collect information that identifies a visitor other than by their IP address. These cookies are only used to improve how a website works.
 
 2\. Functionality Cookies
 
-These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features or content.  These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize.  They may also be used to provide services you have asked for such as watching a video.  The information these cookies collect cannot track your browsing activity on other websites. 
+These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features or content. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. They may also be used to provide services you have asked for such as watching a video. The information these cookies collect cannot track your browsing activity on other websites.
 
 3\. Advertising Cookies
 
-We serve advertisements on various websites using third-party companies. When you click on one of our ads and are taken to our website, these companies may place third-party cookies on your browser to make advertising more relevant based on your interactions with our website and other websites that you may visit. 
+We serve advertisements on various websites using third party companies. When you click on one of our ads and are taken to our website, these companies may place third party cookies on your browser to make advertising more relevant based on your interactions with our website and other websites that you may visit.
+
+##  “Do Not Track” Signals
+
+Our website does not respond to “do not track” signals from users’ web browsers.
 
 ##  How to Manage Cookies
 
-You can control your internet browser's settings to prevent your browser from accepting new cookies, have your browser notify you when you receive a new cookie, or disable (or re-enable) cookies altogether.  However, because our website uses cookies, if you do disable cookies performance and functionality will be affected.  You can control your browser’s cookie settings as follows:
+You can control your internet browser's settings to prevent your browser from accepting new cookies, have your browser notify you when you receive a new cookie, or disable (or re-enable) cookies altogether. However, because our website uses cookies, if you do disable cookies performance and functionality will be affected. You can control your browser’s cookie settings as follows:
 
 _Microsoft Internet Explorer 6.0, 7.0, 8.0_
 
