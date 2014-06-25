@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miiduu.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016142954id_/http%3A//www.miiduu.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miiduu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060623id_/http%3A//www.miiduu.com/index/privacy) for the most accurate reproduction.*
 
 # Miiduu Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This privacy statement describes how Miiduu, Inc. collects and uses the personal information you provide on our Web site: [www.miiduu.com](http://www.miiduu.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-## Collection and Use of Personal Information
+### Collection and Use of Personal Information
 
 We collect the following personal information from you
 
@@ -28,7 +28,7 @@ We use this information to
 
 If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
-## Information Sharing
+### Information Sharing
 
 We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
@@ -42,7 +42,7 @@ We may also disclose your personal information
 
 
 
-## Cookies and Other Tracking Technologies
+### Cookies and Other Tracking Technologies
 
 We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
 
@@ -58,13 +58,13 @@ _Links to Other Web Sites_
 
 Our Site includes links to other Web sites whose privacy practices may differ from those of Miiduu Inc.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
 
-## Security
+### Security
 
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at contact_at_miiduu.com 
 
 We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
 
-## Additional Policy Information
+### Additional Policy Information
 
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
@@ -79,6 +79,8 @@ To review and update your personal information to ensure it is accurate, contact
 **Notification of Privacy Statement Changes**
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+### Contact Information
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
