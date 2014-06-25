@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iupui.edu privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103165533id_/http%3A//www.iupui.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iupui.edu privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001108id_/http%3A//www.iupui.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Notice : IUPUI
 
@@ -58,7 +58,7 @@ Except as provided in the Disclosure of Information section below, we do not att
 
 #### Active/Manual/Voluntary Collection
 
-Other than automatically collected technical information about your visit (described above, or cookies described below), we may ask you to provide information voluntarily, such as through forms or other manual input — in order to make products and services available to you, to maintain and manage our relationship with you (including providing associated services), or to better understand and serve your needs. This information is generally retained as long as you continue to maintain a relationship with us. Your providing this information is wholly voluntary. However, not providing the requested information (or subsequently asking that the data be removed) may affect our ability to deliver the products or service for which the information is needed. Providing the requested information indicates your consent to the collection, use, and disclosure of this information as described in this notice. Information we may actively collect could include:
+Other than automatically collected technical information about your visit (described above, or cookies described below), we may ask you to provide information voluntarily, such as through forms or other manual input � in order to make products and services available to you, to maintain and manage our relationship with you (including providing associated services), or to better understand and serve your needs. This information is generally retained as long as you continue to maintain a relationship with us. Your providing this information is wholly voluntary. However, not providing the requested information (or subsequently asking that the data be removed) may affect our ability to deliver the products or service for which the information is needed. Providing the requested information indicates your consent to the collection, use, and disclosure of this information as described in this notice. Information we may actively collect could include:
 
   * Address
   * Email addresses of those who communicate with us via email
