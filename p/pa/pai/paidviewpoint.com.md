@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the paidviewpoint.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213062003id_/http%3A//paidviewpoint.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidviewpoint.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141255id_/http%3A//paidviewpoint.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - PaidViewpoint
 
 **Policy Effective Date:** March 2011  
-**Last Revised:** July 9th, 2013  
+**Last Revised:** March 14th, 2014  
 This page discloses the privacy policy and practices of the PaidViewPoint.com website ("PV"), a website owned and operated by Umongous, Inc ("Umongous"), a Delaware Corporation. Umongous also owns and operates AYTM.com, a market research website that has Clients (Umongous Clients or Clients) who utilize data obtained from PV as described below. 
 
 Umongous in is the market research and opinion research business. Umongous operates PV for the purpose of gaining anonymous opinions, such as your opinions, in order to help its Clients gain a better understanding of their business, marketing, product development and strategic opportunities. Umongous and some of its Clients also collect your anonymous opinions for the purposes of research related to understanding sociological, political and educational issues. The Clients of Umongous use this information in an aggregated fashion and do not receive from Umongous your identity or the individual identities of other PV panel members. It is against Umongous policy and market research terms of service ("MR-TOS") for one of its clients' to seek to determine the individual identity of any PV panel member. 
 
 [ ](https://privacy.truste.com/privacy-seal/Umongous,-LLC-/validation?rid=84b2dbc3-bf72-4395-a151-b1492d9ff94c "TRUSTe European Safe Harbor certification")
 
-Umongous has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices on PV, please contact us at privacy [at] paidviewpoint [dot] com, or you can also write to us at: Umongous, Inc c/o AYTM PO Box 1741 Absecon, NJ 08201. 
+Umongous has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [http://www.paidviewpoint.com](http://www.paidviewpoint.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices on PV, please contact us at privacy [at] paidviewpoint [dot] com, or you can also write to us at: Umongous, Inc c/o AYTM PO Box 1741 Absecon, NJ 08201. 
 
 If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 PV processes personal information on our servers in the United States of America. Your Personal Information may be transferred to, and used by, entities located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Such export is a requirement of providing your information to PV, and you hereby consent to such export in all respects. 
 
-The company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The Umongous, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Umongous, Inc.’s certification, please visit <http://www.export.gov/safeharbor>. 
+The company complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The Umongous, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Umongous, Inc.’s certification, please visit <http://www.export.gov/safeharbor>. 
 
   
 
@@ -61,17 +61,13 @@ We may learn your name on certain other occasions, but we do not then store it w
 
 ### Customer Testimonials/Comments/Reviews/User Feedback
 
-We post customer testimonials/comments/reviews on our web sites, which may contain personally identifiable information. We do obtain the customer's consent to post their name along with their testimonial via email prior to posting the testimonial. 
-
-### Inviting Friends to Join PV
-
 We post customer testimonials/comments/reviews on Web sites owned or controlled by Umongous, which may contain PII. We do obtain the customer's consent via email to post their name along with their testimonial prior to posting the testimonial. If you wish to update or delete your testimonial, you can contact us at privacy [at] paidviewpoint [dot] com. 
 
 ### Inviting Friends to Join PV
 
 When you invite a friend to subscribe or become a member of PV using the tools provided to you by PV, a code will be provided to them to become linked to you in our PV database ("Linked"). Once Linked to the friend that you referred (the "Referral"), you will become eligible to potentially receive a recruiting bonus. The username of your invited friend may be shown to you in your profile. Your friend may contact us at privacy [at] paidviewpoint [dot] com to request that we remove this information from our database. 
 
-Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
 ### Facebook Connect or Open ID
 
@@ -104,6 +100,12 @@ PV uses cookies during your sessions. Cookies are used for technical purposes to
 PV uses cookies to store user login credentials automatically, if voluntarily elected by the user, to eliminate the necessity of having to repeatedly retype this information. For users' convenience, this cookie is stored for subsequent sessions. The PV web server also creates cookies to uniquely identify each user session when a member visits the site. 
 
 Because cookies are used to identify legitimate members and protect unauthorized access to their specific member information, users who choose not to allow cookies cannot register nor can they access the full features of PV such as opportunities to participate in market research survey or earn cash prizes. 
+
+### Flash LSOs
+
+We use local storage objects (LSOs) to store content information and preferences [or – other uses]. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information. 
+
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 ### Third Party Cookies
 
@@ -155,4 +157,4 @@ We will retain your information for as long as your account is active, or as nee
 
 ## How to Contact Us About Your Privacy Concerns
 
-PV can be reached at any time by email at privacy [at] paidviewpoint [dot] com. It is our practice to respond to emails in less than 48 hours. If we do not respond within 48 hours, call us at 415-364-8601 and leave a message including your email address so we can respond via email. We will respond to your voicemail within one business day. You can also write us at: Umongous, Inc 123 10th St. San Francisco, CA 94103 
+PV can be reached at any time by email at privacy [at] paidviewpoint [dot] com. It is our practice to respond to emails in less than 48 hours. If we do not respond within 48 hours, call us at (650) 353-7862 and leave a message including your email address so we can respond via email. We will respond to your voicemail within one business day. You can also write us at: Umongous, Inc 123 10th St. San Francisco, CA 94103 
