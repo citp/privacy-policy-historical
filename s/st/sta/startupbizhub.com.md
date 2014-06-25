@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupbizhub.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815230100id_/http%3A//www.startupbizhub.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupbizhub.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625202126id_/http%3A//www.startupbizhub.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Startupbizhub.com
 
@@ -19,8 +19,6 @@ There are third party advertisements found all throughout our site to keep it ru
 You the option to disable or turn off the cookies found in the site using your browser settings. You could also do this by managing your preference in Norton Internet Security. However this action could affect how you view our website (startupbizhub.com) and other websites. An example is not being able to remember you to participate in our comments.
 
 Take note that deleting cookies doesn’t mean that you are excluded in advertising program. The next time you try to visit a new site that run advertisements, a new cookie will be added to your computer not unless you completely disallow cookies in your settings.
-
-### Comments
 
   * All our comments are moderated so it is up to the mod to decide whether a comment should be published or not.
   * Any kind of ads are prone to be deleted, just remember this site is not meant to post your ads rather help others if you can.
