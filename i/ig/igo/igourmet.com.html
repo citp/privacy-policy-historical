@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the igourmet.com privacy policy that was archived on 2013-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206195132id_/http%3A//www.igourmet.com/ST/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the igourmet.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625113625id_/http%3A//www.igourmet.com/ST/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Privacy Policy - igourmet.com</title>
@@ -45,6 +45,21 @@
 	$(this).css('cursor', 'auto');
     });
 
+    $("#keywords").focus(function() {
+      if($("#keywords").val() == "Search gourmet food & gifts")
+      {
+        $("#keywords").val("")
+      }
+
+    });
+
+    $("#keywords").blur(function() {
+      if($("#keywords").val() == "")
+      {
+        $("#keywords").val("Search gourmet food & gifts")
+      }
+    });
+
   });
 </script>
 
@@ -54,52 +69,33 @@
 <table border="0" align="center" cellpadding="0" cellspacing="0" style="width:100%;table-layout:fixed">
 
 	<tbody><tr>
-        <td style="width:370px"></td>
-	<td style="width:180px"></td>
-	<td style="width:410px"></td>
-	<td style="width:30px"></td>
+        <td style="width:445px"></td>
+	<td style="width:545px"></td>
         </tr>
 
-	<tr><td colspan="4"><img src="http://www.igourmet.com/images/loyalty/head_bar.jpg"></td></tr>
 	<tr>
 
-		<td rowspan="3">
-			<a href="http://www.igourmet.com/?top=top"><img src="http://www.igourmet.com/images/igourmet_home_logo.jpg" border="0" width="326px"></a>
-		</td>
-		<td rowspan="3">
-			<a href="http://www.igourmet.com/shoppe/brand.asp?top=top" alt="" class="float_tabs_big"><img src="http://www.igourmet.com/images/buttons2012/brand_button.jpg" width="54px" border="0px"></a>
-			<a href="http://www.igourmet.com/shoppe/on_sale.asp?top=top" alt="" class="float_tabs_big"><img src="http://www.igourmet.com/images/buttons2012/sale_button.jpg" width="54px" border="0px"></a>
-			<a href="http://www.igourmet.com/shoppe/custserv.asp?top=top" alt="" class="float_tabs_big"><img src="http://www.igourmet.com/images/buttons2012/customer_button.jpg" width="54px" border="0px"></a>
+		<td rowspan="2">
+			<a href="http://www.igourmet.com/?top=top"><img src="http://www.igourmet.com/images/igourmet_home_logo_large.jpg" style="vertical-align:bottom" border="0"></a>
 		</td>
 
-		<td colspan="2">
-			<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0&quot;"><tbody><tr>
+		<td style="text-align:right;height:50px">
 				
-				<td width="90">&nbsp;</td>
-				<td width="9"><img src="http://www.igourmet.com/images/loyalty/head_left.jpg"></td>
 
-				<td background="http://www.igourmet.com/images/loyalty/head_bg.jpg" align="right">
 					<font face="arial" size="1">
-						<a href="https://www.igourmet.com/myAccount/login.asp?redirect=http://&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;www.igourmet.com/ST/privacy.asp&#10;&#9;&#9;&#9;&#9;&#9;&#9;">
+						<a class="float_tabs" href="https://www.igourmet.com/myAccount/login.asp?redirect=http://&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;www.igourmet.com/ST/privacy.asp&#10;&#9;&#9;&#9;&#9;&#9;&#9;">
 						<font color="#663300">LOGIN</font></a> 
 						| 
-						<a href="https://www.igourmet.com/myAccount/create_account.asp"><font color="#663300">CREATE AN ACCOUNT</font></a>
+						<a class="float_tabs" href="https://www.igourmet.com/myAccount/create_account.asp"><font color="#663300">CREATE AN ACCOUNT</font></a>
 					</font>
 				
-
-
-				&nbsp;
-
-				</td>
-
-				<td width="8"><img src="http://www.igourmet.com/images/loyalty/head_right.jpg"></td>
-				<td width="30"></td>
-			</tr></tbody></table>		
 		</td>
 
 	</tr>
 	<tr>
-		<td style="text-align:right;height:25px">
+		<td style="text-align:right;height:40px">
+			<a href="http://www.igourmet.com/shoppe/custserv.asp?top=top" name="myacc" alt="" border="0" class="float_tabs">Contact Us</a>
+		|
 			<a href="https://www.igourmet.com/myAccount/index.asp?top=top" name="myacc" alt="" border="0" class="float_tabs">My Account</a>
 		|
 			<a href="http://www.igourmet.com/shoppe/tracking.asp?top=top" name="order" alt="" border="0" class="float_tabs">Order Tracking</a>
@@ -108,24 +104,28 @@
 		|
 			<a href="http://www.igourmet.com/shoppe/order.aspx?top=top" name="cart" alt="" border="0" class="float_tabs">View Cart/Checkout</a>
                 </td>
-		<td></td>
 	</tr>
 	<tr>
-		<td colspan="2">
-			<img src="http://www.igourmet.com/images/top_links/top_space02.jpg" width="440" height="17" alt=""></td>
+		<td style="font-size:15px; font-family:Arial, Helvetica, sans-serif;padding-left:5px">
+		<a href="http://www.igourmet.com/ST/shippingInfo.asp" style="text-decoration:none"><span style="font-weight:bold">Free Standard Shipping</span> with $125 minimum purchase*</a>
+		</td>
+		<td style="text-align:right;padding-right:5px">
+		<form name="srchForm" method="GET" action="http://www.igourmet.com/search/search.asp" onsubmit="return ValidateSearch(this);">
+		<input type="text" id="keywords" name="keywords" size="50" maxlength="100" style="font-family: Arial, Verdana; font-size: 8pt; height:21px" value="Search gourmet food &amp; gifts"><input type="image" src="http://www.igourmet.com/images/homepage_top_search.jpg" name="search" border="0" align="top"></form>
+		</td>
 	</tr>
+<tr><td>&nbsp;</td><td></td></tr>
 </tbody></table>
 
  </td>
 </tr>
+
 <!-- BEGIN TABS Row -->		
-<form name="srchForm" method="GET" action="http://www.igourmet.com/search/search.asp" onsubmit="return ValidateSearch(this);"></form>
  <tr>
    <td width="100%">
-<table id="Table_01" width="100%" cellpadding="0" cellspacing="0">
+<table id="Table_01" width="100%" height="37" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td style="vertical-align:bottom">
-			<img src="http://www.igourmet.com/images/newtabs/tab_01.jpg" align="bottom" alt=""></td>
+
 		<td class="product_tabs" style="border-left:1px solid #704020">
 			<a href="http://www.igourmet.com/shoppe/cheese.asp?top=top" class="tabs">Cheese</a></td>
 		<td class="product_tabs">
@@ -156,28 +156,25 @@
 			<a href="http://www.igourmet.com/shoppe/giftcertificates.aspx?top=top" class="tabs">Gift Cards</a></td>
 		<td class="product_tabs">
 			<a href="http://www.igourmet.com/shoppe/home_and_bath.asp?top=top" class="tabs">Home &amp; Bath</a></td>
-		<td style="vertical-align:bottom">
-			<img src="http://www.igourmet.com/images/newtabs/tab_18.jpg" alt=""></td>
+
 	</tr>
 
-<tr><td bgcolor="#704020" colspan="18"><table width="100%" border="0" align="center" cellpadding="2" cellspacing="2">
+<tr><td colspan="16"><table width="100%" border="0" align="center" cellpadding="2" cellspacing="2">
 <tbody><tr>
 
-<td align="center" width="30%"><font face="arial" size="2" color="#ffffff"><b>Best Gourmet Food &amp; Gift Baskets Online</b></font></td>
+<td style="text-align:left; color: gray" width="30%"><font face="arial" size="2"><b>Best Gourmet Food &amp; Gift Baskets Online</b></font></td>
 
-<td align="center" width="40%"><font face="Arial" size="2" color="white"><b>SEARCH:</b></font> <input type="text" name="keywords" size="30" maxlength="100" style="font-family: Arial, Verdana; font-size: 8 pt"> <input type="image" src="http://www.igourmet.com/images/btns/btn_go2.jpg" name="search" border="0" align="absmiddle"></td>
+<td align="center" width="40%"></td>
 
-<td align="center" width="30%">
+<td align="right" width="30%">
 <!-- BEGIN LivePerson Button Code --><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/39438310/?cmd=file&amp;file=visitorWantsToChat&amp;site=39438310&amp;byhref=1&amp;imageUrl=http://www.igourmet.com/images/liveperson_banner/" target="chat39438310" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/39438310/?cmd=file&amp;file=visitorWantsToChat&amp;site=39438310&amp;imageUrl=http://www.igourmet.com/images/liveperson_banner/&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat39438310','width=475,height=400,resizable=yes');return false;"><img src="http://server.iad.liveperson.net/hc/39438310/?cmd=repstate&amp;site=39438310&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=http://www.igourmet.com/images/liveperson_banner/" name="hcIcon" border="0"></a><!-- END LivePerson Button code -->
 </td>
 </tr></tbody></table></td></tr>
-
-
 </tbody></table>
    </td>
  </tr>
  <!-- END TABS Row -->	
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
 <tr>
    <td bgcolor="#FFFFFF" width="100%">
      <table border="0" width="100%" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0">
@@ -199,6 +196,7 @@
     <a href="http://www.igourmet.com/shoppe/hot.aspx" class="chan_home"><img src="http://www.igourmet.com/images/dot.gif" border="0" width="10" height="13"> <b>What's Hot</b></a><br>
 	<a href="http://www.igourmet.com/shoppe/new.aspx" class="chan_home"><img src="http://www.igourmet.com/images/dot.gif" border="0" width="10" height="13"> <b>What's New</b></a><br>
 	<a href="http://www.igourmet.com/shoppe/on_sale.asp" class="chan_home"><img src="http://www.igourmet.com/images/dot.gif" border="0" width="10" height="13"> <b>On Sale Now</b></a><br>
+	<a href="http://www.igourmet.com/shoppe/brand.asp" class="chan_home"><img src="http://www.igourmet.com/images/dot.gif" border="0" width="10" height="13"> <b>Shop by Brand</b></a><br>
 	<img src="http://www.igourmet.com/images/dot.gif" border="0" width="10" height="5"><br>
 	
 	<a href="http://www.igourmet.com/shoppe/cheese.asp" class="chan_home"><img src="http://www.igourmet.com/images/dot.gif" border="0" width="10" height="13"> <b>Cheese</b></a><br>
@@ -537,7 +535,14 @@
 <!-- END: BizRate Medal (125x73 pixels) -->
 </p></center>
 
-	</td>
+<p>
+<!-- BEGIN STELLASERVICE SEAL CODE -->
+<a class="stella-seal"></a>
+<script defer="" src="//seal.stellaservice.com/public/js/seal.js"></script>
+<!-- END STELLASERVICE SEAL CODE -->  
+
+
+	</p></td>
   </tr>
  
 </tbody></table>
@@ -598,7 +603,7 @@ For questions, please contact us by phone at 1-877-446-8763 or by mail at 508 De
 	<td width="1" bgcolor="#800000"><img src="../images/dot.GIF" width="1" height="1"></td>
 	<td align="center">
 	<p>&nbsp;</p>
-	<font face="Arial" size="1">Copyright © 1997 - 2013 igourmet.com. All Rights Reserved.</font>
+	<font face="Arial" size="1">Copyright © 1997 - 2014 igourmet.com. All Rights Reserved.</font>
 	</td>
   </tr>
 <!-- Include this on the site entry page to capture the querystring to the cookie
