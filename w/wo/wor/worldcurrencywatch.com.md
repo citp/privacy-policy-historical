@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the worldcurrencywatch.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121155428id_/http%3A//sovereignsociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcurrencywatch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112733id_/http%3A//sovereignsociety.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Sovereign Society | The Sovereign Society
-
-|      [](http://pro1.sovereignsociety.com/132986/)
 
 **PRIVACY POLICY — IMPORTANT — PLEASE READ**  
 We at _The Sovereign Society_ take your privacy very seriously.
@@ -37,5 +35,3 @@ em>The Sovereign Societyweb-site uses cookies only to compile statistics on the 
 We require that all e-mails promoting [sovereignsociety.com](http://sovereignsociety.com/) or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
 
 If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department ([abuse@sovereignsociety.com](mailto:abuse@sovereignsociety.com)). We will immediately investigate all allegations made related to unsolicited messages.
-
-| 
