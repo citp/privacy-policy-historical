@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the oifc.in privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425015557id_/http%3A//www.oifc.in/Article/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oifc.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100725id_/http%3A//www.oifc.in/privacy-policy) for the most accurate reproduction.*
 
-# OIFC : Privacy Policy
+# Privacy Policy | OIFC
+
+Oct, 2013
 
 OIFC is committed to maintaining the trust and confidence of visitors to our web site. We will not sell, rent or trade your personal information under any circumstances.
 
@@ -10,7 +12,7 @@ OIFC is committed to maintaining the trust and confidence of visitors to our web
     * We store this information, but we do not sell it or release it to third parties.
   * We do not use cookies to track information about a user's movements throughout our site. 
     * However, when making a purchase, users will be redirected to our payment processing service that may use and/or require the use of cookies for placing an order online.
-  * We may need to pass on user feedback to our knowledge partners. When doing so we may need to pass on user email IDs. Our knowledge partners will also be bound by the OIFC privacy policy. 
+  * We may need to pass on user feedback to our knowledge partners. When doing so we may need to pass on user email IDs. Our knowledge partners will also be bound by the OIFC privacy policy.
 
 
 
