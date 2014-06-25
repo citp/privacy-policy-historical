@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126211404id_/http%3A//www.youbroadband.in/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070718id_/http%3A//www.youbroadband.in/policy.php) for the most accurate reproduction.*
 
 # YOU Broadband India Pvt. Ltd., High speed broadband plans 1Mbps to 12Mbps
 
-|   
----  
 | Privacy  
 ---  
 What This Privacy Policy Covers  
@@ -38,11 +36,5 @@ What This Privacy Policy Covers
 **Changes to this Privacy Policy**  
 The Company may update this policy and display the same in their website without notice to you and such posting will be deemed to have been read by you.  
   
-|  |   |   
----|---|---  
-   
-Site best viewed in IE8+, Firefox 3.5+, Chrome 3+, Safari 5.0+ at 1024 x 768 pixels resolution.   
-  
-**YOU Broadband India Private Limited**  
-  
- 
+|    
+---
