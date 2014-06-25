@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantpay.in privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805103441id_/https%3A//www.instantpay.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantpay.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055926id_/https%3A//www.instantpay.in/privacy) for the most accurate reproduction.*
 
 # Prepaid Recharges and Utility Bill Payments made Instant | instantPay.in
 
