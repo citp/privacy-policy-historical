@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mtld.mobi privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212074605id_/http%3A//dotmobi.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtld.mobi privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074645id_/http%3A//dotmobi.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement | dotMobi. Internet made mobile. Anywhere, any device.
+# Privacy Statement | dotMobi. Internet made mobile. Everywhere, every device.
 
 ## Privacy Statement
 
