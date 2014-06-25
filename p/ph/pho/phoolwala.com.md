@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the phoolwala.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217081250id_/http%3A//www.phoolwala.com/page/privacy-policy/190) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoolwala.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064300id_/http%3A//www.phoolwala.com/page/privacy-policy/190) for the most accurate reproduction.*
 
-# Gifts India: Phoolwala.com Privacy Policy to Send Gifts to India
+# Gifts to India: Phoolwala.com Privacy Policy to Send Flowers Gifts to India
+
+Browse by Categories
+
+Quick Search
+
+Same Day Flower Delivery!
+
+[ ](http://www.phoolwala.com/products/anniversary/1/ "Send Flowers N Gifts on Anniversary To India")
+
+## Privacy Policy 
 
 **Privacy Policy: Phoolwala.com**
 
