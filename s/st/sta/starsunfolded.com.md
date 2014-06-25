@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the starsunfolded.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207080103id_/http%3A//starsunfolded.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsunfolded.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110326id_/http%3A//starsunfolded.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | StarsUnfolded.com
+# Privacy Policy - StarsUnfolded.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://starsunfolded.com/contact-us/ "contact us") by email at starsunfolded@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at starsunfolded@gmail.com.
 
 At starsunfolded.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by starsunfolded.com and how it is used.
 
@@ -13,7 +13,7 @@ Like many other Web sites, starsunfolded.com makes use of log files. The informa
 http://starsunfolded.comdoes use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 **DoubleClick DART Cookie**  
-.:: [Google](http://starsunfolded.com/google/ "Google"), as a third party vendor, uses cookies to serve ads on starsunfolded.com  
+.:: Google, as a third party vendor, uses cookies to serve ads on starsunfolded.com  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to starsunfolded.com and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
@@ -36,5 +36,3 @@ If you wish to disable cookies, you may do so through your individual browser op
 **Contact Information:**
 
 Concerns or questions about this privacy policy can be directed to **starsunfolded@gmail.com** for further clarification.
-
-Rating: 0.0/ **10** (0 votes cast)
