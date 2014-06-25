@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phnoy.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022150642id_/http%3A//phnoy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phnoy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090247id_/http%3A//phnoy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PHnoy
 
