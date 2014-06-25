@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icc-cricket.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921202244id_/http%3A//www.icc-cricket.com/about/230/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icc-cricket.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113713id_/http%3A//www.icc-cricket.com/about/230/legal/privacy-policy) for the most accurate reproduction.*
 
-# About ICC Cricket | International Cricket Council
+# Privacy Policy - Legal | ICC Cricket
 
   
 ICC Development (International) Limited ("us", "our" or "we") is committed to preserving the privacy of all visitors to our website at www.icc-cricket.com (the "Website"). Before you proceed with use of the Website, please read the following privacy policy (the "Policy") carefully to understand how we use and protect the information that you provide to us.
