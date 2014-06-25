@@ -1,37 +1,109 @@
-> *The following text is extracted and transformed from the gogomix.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604085936id_/http%3A//gogomix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogomix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124715id_/http%3A//gogomix.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | GoGoMix
+# Privacy Policy | GoGoMix USA
 
 Privacy Policy
 
-Because your privacy is important to us, GoGoMix has established procedures to protect any personal information you provide to us in accordance with the following principles:
+We at GOGOMIX.com, Inc. (“GOGOMIX,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the GOGOMIX Terms of Use found here: <http://gogomix.com/terms-of-service-2/>  
 
-**A. Collecting and Sharing Personal Information:**
 
-We explicitly ask when we need information that personally identifies you (“Personal Information”). For example, GoGoMix asks you for your name and e-mail address if you wish to join our mailing list, and we also may request that you provide Personal Information as part of a contest, promotion, program, or service. We may also ask for other information from time to time, such as gender and date of birth, the disclosure of which will be optional. We use your Personal Information for various purposes consistent with US law, and we may occasionally inform you of new features, services, and products. We may also collect certain non-personally identifiable information when you visit our sites, such as the type of browser you are using, the operating system you are using, and the domain name of your internet service provider. We may use this non-personally identifiable information to improve our site and to enable us to personalize your experience on GoGoMix. We may also use this information in the aggregate to analyze the GoGoMix site usage, as well as to offer you products, programs, or services. GoGoMix does not knowingly collect personal information from children under the age of thirteen (13).
+  1. WHAT DOES THIS PRIVACY POLICY COVER?
 
-**B. “Cookies”:**
 
-We may place a text file called a “cookie” in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable the GoGoMix to relate your use of GoGoMix to information that you have specifically and knowingly provided to GoGoMix.
 
-**C. Disclosure of Information:**
+This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Website. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-GoGoMix reserves the right to release current or past member information in the event GoGoMix believes that the membership is being or has been used in violation of the Terms of Service or other published guidelines or to commit unlawful acts, if the information is subpoenaed, or otherwise requested through legal process. GOGOMIX cooperates with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. By agreeing to the conditions of this Privacy Policy and GOGOMIX’s Terms of Service, you hereby consent to disclosure of any record or communication to any third party when GOGOMIX, in its sole discretion, determines the disclosure to be appropriate. In the event your Personal Information is being sold, rented, and/or shared with any third party we will use good faith efforts to post a notice on the site clearly stating that the information is being so used and/or give you the opportunity to opt-in to authorize the use.
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our Terms of Use found here: <http://gogomix.com/terms-of-service-2/>. If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [info@GoGoMix.com](mailto:info@gogomix.com).
 
-**D. Consent:**
+  1. WHAT INFORMATION DOES GOGOMIX COLLECT?
 
-By using this website and the services available to you on our site, you consent to our collection and use of your information as described above. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of our policies.
 
-**E. Links:**
 
-We may provide links to a number of other sites that we believe can offer you useful information and services. However, we are not responsible for the privacy policies of or any actions of any third parties that control the activities of such third party sites. We suggest contacting the relevant parties controlling these sites or accessing their online policies for the relevant information about their data collection.
+We gather various types of Personal Information from our users, as explained more fully below. We may use this Personal Information to personalize and improve our services, to allow our users to set up a user account and profile, to contact users, to fulfill your requests for certain products and services, to analyze how users utilize the Website, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties (described in this Section and in Section 7 below). We collect the following types of information:
 
-**F. General Information:**
+  1. INFORMATION YOU PROVIDE TO US:
 
-Please keep in mind that whenever you voluntarily disclose personal information online, that information can be collected and used by others. Therefore, when you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or from our services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and for any other personal information.
 
-If at any time you believe GOGOMIX has not adhered to these principles, please [notify us](https://web.archive.org/web/20120604085936id_/http://gogomix.com/privacy-policy/info@gogomix.com).
 
-**G. 3rd Party Advertising:**
+We receive and store any information you knowingly provide to us. For example, we collect Personal Information such as your name, user name, email address, and third-party account credentials (for example, your log-in credentials for Facebook or other third party sites). If you provide your third-party account credentials to us, you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Website is covered by this Privacy Policy. You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features. Certain information, such as a user name and email address, is required in order to register an account on any part of the Service. We may anonymize your Personal Information so that you cannot be individually identified, and provide that information to our partners.
 
-We use third-party advertising companies to serve ads when you visit GOGOMIX’s websites. The third-party advertising technology that we use on GOGOMIX uses information derived from your visits to GOGOMIX to target advertising within GOGOMIX. In addition, our advertisers may use other third-party advertising technology to target advertising on GOGOMIX’s websites or other websites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed in your browser. In addition, GOGOMIX may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable GOGOMIX to recognize a browser’s cookie when a browser visits this site, and to learn which banner ads bring users to our Web site. To “opt-out,” please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+  1. INFORMATION COLLECTED AUTOMATICALLY:
+
+
+  * Whenever you interact with our Website, we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, and the page you requested. “Cookies” are identifiers we transfer to your computer or mobile device that allow us to recognize your browser or mobile device and tell us how and when pages in our Website are visited and by how many people. You may be able to change the preferences on your browser or mobile device to prevent or limit your computer or device’s acceptance of cookies, but this may prevent you from taking advantage of some of our Website’s features. Our advertising partners, which may include advertisers, advertising agencies, and ad networks, may also transmit cookies to your computer or device, when you view or interact with one of their ads that appear on the Website. Also, if you click on a link to a third party website, such third party may also transmit cookies to you. This Privacy Policy does not cover the use of cookies by any third parties.
+  * When we collect usage information (such as the numbers and frequency of visitors to the Website), we only use this data in aggregate form, and not in a manner that would identify you personally. For example, this aggregate data tells us how often users use parts of the Website, so that we can make the Website appealing to as many users as possible. We may also provide this aggregate information to our partners; our partners may use such information to understand how often and in what ways people use our Website, so that they, too, can provide you with an optimal experience. We never disclose aggregate information to a partner in a manner that would identify you personally.
+
+
+  1. E-MAIL AND OTHER COMMUNICATIONS:
+
+
+
+We may contact you, by email or other means; for example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of the Website. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make emails more interesting and improve our service. If you do not want to receive email or other mail from us, please indicate your preference by changing your account settings accordingly, contacting us at [info@GoGoMix.com](mailto:info@gogomix.com), or by clicking the “unsubscribe” link in an email we send to you. Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes. Notwithstanding anything else, certain parts or features of the Service may require you to allow us to send you email; for example, email opt-out is not permitted for accounts registered on gogomix.com.
+
+  1. E-MAIL ADDRESSES AND INFORMATION PROVIDED TO US BY OTHER USERS:
+
+
+
+In some cases, your email address and other Personal Information may be provided to us by other users of the Website or Services (for example, when another user gives you a gift subscription to the Services). Our collection, use, and sharing of your Personal Information will be governed by the same practices and policies outlined this Privacy Policy, whether provided to us directly by you or by another user of the Website or Services.
+
+  1. WILL GOGOMIX SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?
+
+
+
+We neither rent nor sell your Personal Information in personally identifiable form to anyone. We share your Personal Information in personally identifiable form with third parties as described below.
+
+  1. Advertisers: We allow advertisers, advertising agencies, ad networks, and/or merchant partners (collectively, “Advertisers”) to collect information on our Website for the purpose of serving you with advertising tailored to your interest or choose the demographic information of users who will see their advertisements and/or promotional offers. You agree that we may provide any of the information we have collected from you in non-personally identifiable form to an Advertiser, in order for that Advertiser to select the appropriate audience for those advertisements and/or offers. For example, we might use the fact you are located in New York to show you ads or offers for New York businesses, but we will not tell such businesses who you are.
+
+
+
+We may deliver a file to you through the Website (known as a “web beacon”) from an ad network. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit, or set their own cookies, just as if you had requested a web page from their site.
+
+  1. Affiliated Businesses and Third Party Websites We Do Not Control: In certain situations, businesses or third party websites we’re affiliated with may sell items or provide services to you through the Website (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. For example, if you purchase a Voucher through the Service, we may share certain information about you with the applicable Merchant, in order to allow such Merchant to redeem that Voucher. Another such service may include the ability for you to automatically transmit Third Party Account Information to your Website profile or to automatically transmit information in your Website profile to your third party account. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business’ or websites’ policies.
+  2. Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us.
+  3. User Profiles and Submissions: Certain user profile information, including without limitation a user’s name, location, and any video or image content that such user has uploaded to the Website, may be displayed to other users to facilitate user interaction within the Website or address your request for GOGOMIX’s services. Your account privacy settings allow you to limit the other users who can see the Personal Information in your user profile and/or what information in your user profile is visible to others. Any content you upload to your public user profile, along with any Personal Information or content that you voluntarily disclose online in a manner other users can view (on discussion boards, in messages and chat areas, etc.) becomes publicly available, and can be collected and used by others. Your user name may also be displayed to other users if and when you send messages or comments or upload images or videos through the Website and other users can contact you through messages and comments. Additionally, if you sign into the Website through a third party social networking site or service, your list of “friends” from that site or service may be automatically imported to the Website, and such “friends,” if they are also registered users of the Website, may be able to access certain non-public information you have entered in your Website user profile. Again, we do not control the policies and practices of any other third party site or service.
+  4. Business Transfers: We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or substantially all of our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information would be one of the assets transferred to or acquired by a third party.
+  5. Protection of GOGOMIX and Others: We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of GOGOMIX, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+  6. With Your Consent: Except as set forth above, you will be notified when your Personal Information may be shared with third parties in personally identifiable form, and will be able to prevent the sharing of this information.
+
+
+
+HOW DOES GOGOMIX USE THIRD-PARTY ONLINE ADVERTISING?
+
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party web beacon to collect this information.  To learn more about this behavioral advertising practice visit the NAI at[http://www.networkadvertising.org](http://www.networkadvertising.org/).  To  
+opt-out of this type of advertising, you can visit<http://www.aboutads.info/choices>.
+
+IS PERSONAL INFORMATION ABOUT ME SECURE?
+
+Your account is protected by a password for your privacy and security. If you access your account via a third party site or service, you may have additional or different sign-on protections via that third party site or service. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password and/or other sign-on mechanism appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
+
+We follow reasonable data security practices to protect the confidentiality and security of your account and the Personal Information you provide to us. To protect your credit card number we use industry-standard Secure Socket Layer (SSL) software to protect the security of your credit card information during transmission through encryption. We believe the measures we have implemented reduce the likelihood of a security breach to a level appropriate to the type of data involved. However, we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+
+The Website may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.
+
+WHAT PERSONAL INFORMATION CAN I ACCESS?
+
+Through your account settings, you may access, and, in some cases, edit or delete the following information you’ve provided to us:
+
+  * name and password
+  * email address
+  * location
+  * user profile information, including images and videos you have uploaded
+
+
+
+The information you can view, update, and delete may change as the Website changes. If you have any questions about viewing or updating information we have on file about you, please contact us at [info@GoGoMix.com](mailto:info@gogomix.com).
+
+WHAT CHOICES DO I HAVE?
+
+  * You can always opt not to disclose information to use, but keep in mind some information may be needed to register with us or to take advantage of some of our special features.
+  * You may be able to add, update, or delete information as explained in Section 10 above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by contacting us at [info@GoGoMix.com](mailto:info@gogomix.com). Please note that some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
+
+
+
+CHANGES TO THIS PRIVACY POLICY
+
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. You are bound by any changes to the Privacy Policy when you use the Website after such changes have been first posted.
+
+QUESTIONS OR CONCERNS
+
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [info@GoGoMix.com](mailto:info@gogomix.com). We will make every effort to resolve your concerns.
