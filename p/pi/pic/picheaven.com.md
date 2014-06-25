@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picheaven.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209113759id_/http%3A//www.picheaven.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picheaven.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053913id_/http%3A//www.picheaven.com/privacy.php) for the most accurate reproduction.*
 
 # Picheaven - Most Viewed Funny Pictures, Epic Fails, Funny images, iPhone Autocorrects, Awkward Texts, LOL images, LoL, Hilarious, Animal images, Troll Comics, Gags, Cartoon
 
