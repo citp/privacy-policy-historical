@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyguys.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219003903id_/http%3A//propertyguys.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyguys.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115532id_/http%3A//propertyguys.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PropertyGuys.com
 
