@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210053404id_/http%3A//www.landandfarm.com/about/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625144440id_/http%3A//www.landandfarm.com/about/Privacy) for the most accurate reproduction.*
 
 # LandAndFarm.com - Privacy Statement
 
