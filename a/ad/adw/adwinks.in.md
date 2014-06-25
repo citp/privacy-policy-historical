@@ -1,107 +1,62 @@
-> *The following text is extracted and transformed from the adwinks.in privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628002834id_/http%3A//www.ibiboads.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adwinks.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081944id_/http%3A//www.ibiboads.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ibibo Ads
 
-Protecting your privacy is very important to us. We have developed this Privacy Policy to protect your personal information and keep it confidential. 
+****  
+---  
+Ibibo Ads (“we” “our” “us") is firmly committed to protecting the privacy of Internet users (“user”) and fostering user confidence in the Internet, Internet advertising and direct marketing. We offer a range of Services that allow advertisers and publishers to show online users the most useful and relevant ads online. We continually evaluate innovative ways to protect user privacy while also offering our clients the best solutions regarding their interactions with their customers. 
 
-We do everything we reasonably can to protect your rights of privacy on systems and websites controlled by us, but we are not liable for any unauthorised or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Site. You should take note that the information and privacy practices of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks, may be different from ours.
+The purpose of this Privacy Policy is to provide users with clear and complete notice about the user information we may collect in connection with our Services, how we use it and choices we offer.  
+  
+**1\. Information We Collect Through our Services**  
+  
+  * **We do not collect Personal Identifiable information:**
 
-We also cannot warrant the security of the information, which you transmit to us.
+We do not collect the online user’s personally identifiable information ("PII") through our Services.  PII generally refers to information such as an individual’s name, mailing address, phone number, credit card information, bank account details, or e-mail address. 
 
-We categorise information about you (collectively referred to as "Personal Information") as follows: 
-
-  * **Profiling Information:** Information which you provide when you Subscribe or register for a Service 
-    * Information about your personal identity such as race, gender, marital status, religion, age etc.;
-    * Your financial information such as your banking details and any information relating to your income and lifestyle levels; and
-    * Your contact details such as your physical addresses, postal addresses, telephone and fax numbers and the like.
-    * Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history etc. We maintain this in encrypted form on secure servers
-  * **Service Usage:** Information about your navigation using our Services, for example the URLs of websites, which you visit and from which you request downloads. 
-  * **Log information:** Information such as your web request, IP address, browser type, browser language, date and time of request.
-  * **Transactional Information:** Transactional history (other than banking details) about your e-commerce activities.
-  * **Correspondence Information:** Content, information about your correspondents, and the destination/origin of communications between you and any other person using our Services, which include email communications, blog, chat room and discussion board communications, instant message communications, experts forum communications, faxmail communications, membership of mailing lists etc.
-  * **User IDs:** Your usernames, passwords, email addresses and other security-related information used by you in relation to our Services.
-  * **Stored Information:** Data either created by you or by a third party and which you wish to store on our servers such as image files, documents etc.
 
   
-**We only collect your Personal Information to conduct our business and to enable us to deliver and improve our Services.**
+  
+  * **Non-Personally Identifiable Information Collected by our Services:**
 
-We will only disclose your Personal Information in accordance with this Privacy Policy. If we want to use it for any other purpose, we will obtain your prior written consent. 
+We may collect non-personally identifiable information ("Non-PII") regarding the user’s behavior and usage patterns on advertisements and sites to improve and customize the type of advertisements user sees on various sites.  Non-PII may include information such as the type of Internet browser used by an online user, the type of computer operating system used, the domain name of the website visited, as well as information related to websites and web pages a user is viewing when an advertisement is shown. 
 
-If you decline to submit personal information to us, then we will unfortunately not be in a position to provide the Services to you. 
+We collect Non-PII through the use of cookies and pixels.  No personally identifiable information is collected or used in this process.  A cookie is a file on your browser that uniquely identifies your browser.  A pixel is a line of code which is used by a Web site or third party ad server to track a user’s activity.  The use of a pixel allows us to record that a user has visited a particular webpage along with additional Non-PII that the website publisher or advertiser may choose to include with the pixel. 
 
-Any of your information which you provide when you use our Services in an unencrypted manner and/or to an open, public environment or forum including (without limitation) any blog, chat room, albums, community, classifieds or discussion board, is not confidential, does not constitute Personal Information, and is not subject to protection under Privacy Policy. Since such public environments are accessible by third parties, it is possible that third parties may collect and collate and use such information for their own purposes. You should accordingly be careful when deciding to share any of your Personal Information in such public environments. 
-
-Information, which is disclosed publicly, is also shared with our affiliates, third party service providers, sponsors of competitions etc. unless expressly stated otherwise. 
-
-We are not liable to you or any third party for any damages (as defined in clause 14 of the Terms and Conditions of our Site.) that you or any third party may suffer howsoever arising from your disclosure of Personal Information in any public environment. You accordingly disclose information in a public environment at your own risk. 
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://networkadvertising.org/managing/opt_out.asp
-
-|  By accepting the Terms you agree that we may collect and store your Personal Information as long as you Subscribe to or use our Services subject to the limitations set out in this Privacy Policy. 
-
-**We collect your Profiling and Account Information for the following reasons:**
-
-  * We need your identity details, contact details, banking information and account history to manage our relationship with you and provide Services to you. We will only disclose this information as provided for in clause 3 below.
-  * We use certain of your information in an aggregated form to compile statistical and demographical profiles for our business and marketing activities. We may disclose such information about you, provided that the information is in an aggregated form that is not capable of being used or interpreted in such a manner as to identify you. 
-
-**We collect and store your Service Usage and Transactional Information to:**
-
-  * determine and verify the Service Charges payable by you and to administer our relationship with you;
-  * comply with any statutory or regulatory requirement;
-  * compile statistical and demographical profiles about you for our business and marketing activities and to customise our Services to you. While we are entitled to use such information about you for our own internal business purposes without limitation, we will only disclose it in a non-aggregated form which is not capable of being used or interpreted in such a manner as to identify you; and
-  * monitor your use of our Services for the purposes of ensuring compliance with our User Rules.
-
-**We collect and store your Correspondence Information and Personal Identifiers to:**
-
-  * comply with our obligations under clause 3 below; and
-  * monitor your use of our Services in order to ensure your compliance with our User Rules as provided for in clause 3 below.
-
-We will only disclose Correspondence Information and Personal Identifiers under clause 3 below. 
-
-We may scan your Stored Information to ensure that you comply with clause 3 below. 
-
-Any Personal Information which we collect and which we may use in an aggregated format is our property. We may use it, in our sole discretion and without any compensation to you, for any legitimate purpose including (without limitation) the commercial sale thereof to third parties. 
-
-Some of our own websites use "cookies" so that we can provide you with more customised information when you return to our website. "Cookies" are used to store user preferences and to track user trends, so as to enhance your interactive experience and generally improve our Services to you. You can set your browser to notify you when you are sent a "cookie", giving you the chance to decide whether or not to accept it. If you do accept a "cookie", you thereby agree to our use of any Personal Information collected by us using that Cookie. 
-
-You may update your Profiling Information at any time by using the personalise function. 
-
-You acknowledge and agree that in the interests of improving personalisation and Service efficiency, we may, under controlled and secure circumstances, share your Personal Information with our affiliates (an entity which is our subsidiary or holding company or a subsidiary of our holding company or an entity which controls, is controlled by or is under common control with us). 
-
-|  If we are required to intercept, disclose, monitor and/or store your Personal Information:
-
-  * by law;
-  * to conduct our business;
-  * to secure our systems; or
-  * to enforce our own rights, we will do so in the manner as prescribed by legislation
-
-Such interception, disclosure, monitoring and storage may take place without your knowledge. In that case, we will not be liable to you or any third party for any damages (as defined in the clause 14 of the Terms and Conditions of our Site) howsoever arising from such interception, disclosure, monitoring and storage. 
-
-In order to ensure that all our Users comply with the User Rules, we may monitor your Personal Information to the extent that this may be required to determine compliance and/or to identify instances of non-compliance. 
-
-**To ensure that the security and integrity of our Services are safeguarded, we may monitor your Personal Information. This monitoring may include (without limitation) the filtering of incoming and outgoing electronic data messages to identify, limit and/or prevent the transmission of spam, viruses and/or unlawful, defamatory, obscene or otherwise undesirable material or content.**
-
-We may under certain circumstances procure an element of the Services from a third party service provider for example we may use third party advertising companies to serve advertisements when you visit our Website. To the extent that it may be necessary, and solely for the purposes of providing the Service to you, you agree that we may disclose to such third party any of your Personal Information that may be necessary for the procurement of services from the third party. These companies may also use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. More information about this practice and your choices about not having this information used by these companies would be available with the respective third parties. 
-
-In addition to the general limitation in the Terms, we will not be liable to you or any other third party for any damages (as defined in the clause 14 of the Terms and Conditions of our Site) suffered by you or any other third party howsoever arising from the disclosure of your Personal Information. Your only remedy under such circumstances will be to end this agreement. 
-
-|  Once you connect your facebook account on our website www.ibibo.com, in addition to our privacy policy, the following terms shall specifically apply:
-
-  * You unequivocally agree that we shall have access to all your information which is defined and uploaded as 'basic account information' (including your date of birth) and 'public information' by Facebook under http:/developers.facebook.com/policy/#definitions.
-  * You authorize us to access your data/information (including 'basic account information' and 'public information') from www.facebook.com, even while you are not online on www.ibibo.com.
-  * You authorize us to pull posts from your Facebook account.
-  * You authorize us to push posts to your Facebook account.
-  * We undertake not to transmit and/or transfer your 'data/information' to any other third party. In this regard we undertake to adhere to the policies as set out by Facebook under the caption "Storing and Using data you receive from us" on www.facebook.com.
-  * You agree that you will be bound to comply with all stipulations in this regard from time to time as set forth by us without needing any further notice of the same. The publication of any such conditions on the website shall constitute sufficient notice to you.
-
-**  
-Further in addition to the above, by accepting the abovesaid terms you agree that:**
-
-  * We may collect your information, as required by us, including basic account information, public information, posts and other data related to you as found on www.facebook.com (referred to as 'your information'), irrespective of your online status on www.ibibo.com.
-  * We may store 'your information' as required by us on our website www.ibibo.com 
-  * You authorize us to access 'your information' as available on Facebook for the purposes of enhancing our user experience on our website 'www.ibibo.com'.
-  * You agree that besides the aforementioned privacy policy terms specifically in relation to "Connect with Facebook" application, all your data/information obtained from your facebook account shall be subject to our overall privacy policy as well.
-  * In the event of any conflict between the privacy policy of ibibo.com and the privacy policy of facebook.com, the privacy policy of ibibo.com shall prevail.
 
   
-In relation to any queries/feedback regarding the "Connect to facebook" feature on our website, the users should contact at  [feedback@ibibogroup.com.](mailto:feedback@ibibogroup.com)
+  
+  * **Any Information provided by the user :**
+
+Data either entered by you or third party on our clients or a third party’s website  with an intention or interest to avail said services upon agreeing to the privacy policy of that party shall be subject to the privacy policy of such party. We are not liable to you or any third party for any damages that the user or any third party may suffer however arising from your disclosure of Personal Information in any public environment or any third party. You accordingly disclose information in a public environment or to a third party at your own risk. 
+
+We use the information collected from our services to provide, maintain, protect and improve our services, to develop new ones and to protect us and the users. We use this information to improve user experience by presenting customized ads to the user. When showing customized ads we will not associate a cookie or pixels with sensitive categories such as those based on race, religion, sexual orientation or health. 
+
+We require our clients to comply with applicable laws governing online privacy and encourage them to publish privacy policies that tell you about how the information they are gathering is being used. 
+
+
+  
+**2\. Disclosure of Information to Third Parties**  
+We do not collect PII via our Services, and therefore, we do not sell, rent, or share PII collected on our customer’s websites to non-affiliated third parties. 
+
+We may disclose aggregated Non-PII collected through our Services, and information derived from it, to our clients, or persons to process it for us, based on our instruction and in compliance w policy and any other appropriate confidentiality and security measure.  This Non-PII may be used by our clients to deliver tailored ads to users on participating websites.  This information cannot be used to contact or identify any person individually.  Further, all of our clients have warranted that they shall use any Non-PII they receive in compliance with applicable laws and regulations.
+
+We may disclose a user’s information to third parties when we are obligated to do so by law or government orders to intercept, disclose, monitor, or store any of the Information, in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including, but not limited to, fraud and situations involving potential threats to the physical safety of any person.   
+  
+**3\. User Choice**  
+We use technology, which includes cookies, in the delivery of our Services.  We believe that the use of these tools enables us and our advertiser clients to provide users with a more meaningful web experience.   
+You may at all times adjust your computer’s web browser settings to refuse all cookies, but by doing so you may not be able to use certain features on the websites you visit or take full advantage of all the website offerings and interest based advertising.  You can remove cookies by following directions provided in your Internet browser’s "help" file.
+
+You may also simply opt out of receiving interest-based advertising by [**clicking here**](http://ads.ibibo.com/ad/optout.php).   
+If you are unable to click on given link please copy & paste **"http://ads.ibibo.com/ad/optout.php"** into your browser. 
+
+If you buy a new computer, upgrade or change Web browsers or delete this "opt-out" cookie, you will need to perform this opt-out process again.  In order for the opt-out to work, your browser must be set to accept 3rd party cookies. Opting out does not necessarily delete or replace all cookies from our domain.   
+  
+**4\. Data Retention**  
+We may maintain Non-PII in an aggregated form for all of our Services for a period longer than five years.   
+**5\. Information Security**  
+We follow are reasonable steps to protect   to protect against the unauthorized access, use and disclosure of data.  This includes undertaking necessary physical, electronic, and management activities required to protect data integrity, access, and use.  Any data that is stored on our servers is treated as confidential information.  However, despite these reasonable efforts to protect data on our servers, no method of transmission over the Internet is guaranteed to be secure.  Therefore, while we strive to protect your data at all times, we cannot guarantee that our systems shall be free from third party interceptions or are incorruptible from viruses and shall not be liable for any breach of security by an outside party.   
+**6\. Change to this Privacy Policy**  
+We may change our privacy policy for the reason but not limited to the changing nature of privacy laws, user needs, and our business, we may modify this Privacy Policy from time to time by providing advance notice on our Web site before implementing such modifications.  Accordingly, since we want to help you clearly understand our Privacy Policy, and any pertinent revisions, we encourage you to review our Privacy Policy periodically to become aware of any changes that may have occurred.  
+**7\. Your Use and Correspondence on this Site**  
+We use cookies to understand and analyze the usage behavior trends of our users. We do not collect the user’s PII through these cookies, but only non-PII. If you provide us information through our “contact us” link on our corporate website, we will keep a record of the information you provide including your email address and any other personal information you provide solely for the purpose of responding to your inquiry or to provide you with requested marketing material. This information will never be shared with third parties without your consent .
