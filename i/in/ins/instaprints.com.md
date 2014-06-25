@@ -1,33 +1,35 @@
-> *The following text is extracted and transformed from the instaprints.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927035720id_/http%3A//www.instaprints.com/privacypolicyinstaprints.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instaprints.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053533id_/http%3A//instaprints.com/termsofuse.html%3Fdocument%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Instaprints - Privacy Policy
+# Terms of Use - Instaprints
 
-Privacy Policy
+List of Terms and Policies
 
-Effective January 1, 2012
+Effective March 15th, 2014
 
-About Instaprints.com
+## Information Collected from Sellers
 
-Instaprints is an online marketplace for buying and selling Instagram photos as framed prints, canvas prints, greeting cards, and other "print on demand" products.
+After opening an account with Instaprints, a seller is able to create a public profile page and upload information and content to the page include, but not limited to, the seller's name, contact information, biography, headshot, images, hometown, and more. All of this information is fully disclosed on the Instaprints website. Any site visitor that visits Instaprints and navigates to the seller's profile page will be able to view all of the public profile information that has been entered by the seller.
 
-Information Collected from Members
+## Credit Cards
 
-After opening an account with Instaprints, members are able to create detailed on-line profiles, including: the member's name, biography, artwork, phone number, e-mail address, and more.  All of this information is fully disclosed on the Instaprints.com website.  Any site visitor that visits Instaprints.com and navigates to the member's "profile page" will be able to view all of the profile information that has been entered by that member.
+For any transactions on Instaprints which require a credit card or debit card, Instaprints stores the last four digits of the credit/debit card number, the expiration date, and the buyer's name. We do NOT store the full credit card number, pin number, CVV2 number, or any full-track data.
 
-Use of Cookies
+## Security
 
-Instaprints.com uses cookies to store the city, state, and zipcode of all visitors to the website.  Instaprints.com is a location-based website.  Visitors that view the site from Chicago are able to view a custom site that is dedicated to Chicago and the surround area.  Similarly, a visitor from New York City will view a different site which is dedicated to New York City and the surrounding area.  To enhance the visitor's browsing experience, we store a cookie on the visitors computer which will allow us to remember the visitor's location next time they return to the site.
+Instaprints member accounts, including both buyers and sellers, are secured by member-created passwords. Instaprints takes precautions to ensure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information.
 
-We do not link the cookie to any personally identifiable information that visitors may submit while on the website.
+## Use of Cookies
 
-Links
+Instaprints uses cookies to store information about each visitor to our Website.
 
-Instaprints.com contains links to other websites.  Instaprints.com is not responsible for the privacy policies and/or practices on other sites.  When linking to another site, a visitor should read the privacy policy stated on that site.  Our privacy policy only governs information collected on Instaprints.com.
+## Links
 
-Changes in Our Privacy Policy
+Instaprints contains links to other websites. Instaprints is not responsible for the privacy policies and/or practices on other sites. When linking to another site, a visitor should read the privacy policy stated on that site. Our privacy policy only governs information collected on Instaprints.
 
-From time to time, Instaprints.com may make changes to our privacy policy.  If we make changes, we will post them on our site to make users and providers aware of what the changes are so that they will always be aware of what information we collect, how we use it, and when we may disclose it.   A member is bound by any minor changes to the policy when she or he uses the site after those changes have been posted.  If, however, we are going to use personally identifiable information in a manner materially different from that stated at the time of collection, we will notify by posting a notice on our website for thirty days. 
+## Changes in Our Privacy Policy
 
-Contacting Instaprints.com
+From time to time, Instaprints may make changes to our privacy policy. If we make changes, we will post them on our site to make users aware of what the changes are so that they will always be aware of what information we collect, how we use it, and when we may disclose it. Users are bound by changes to the policy when she or he uses the site after those changes have been posted.
 
-If you have any questions regarding our privacy policy, please contact us at privacy@instaprints.com.
+## Contacting Instaprints
+
+If you have any questions regarding our privacy policy, please contact us at privacy@fineartamerica.com.
