@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsnap.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021084747id_/http%3A//news.worldsnap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsnap.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080057id_/http%3A//news.worldsnap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World Snap
 
