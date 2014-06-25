@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filesmonster.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202175347id_/http%3A//filesmonster.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesmonster.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080510id_/http%3A//filesmonster.com/info/privacypolicy) for the most accurate reproduction.*
 
 # None
 
