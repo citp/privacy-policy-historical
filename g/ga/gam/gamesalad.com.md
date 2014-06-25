@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamesalad.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014044913id_/http%3A//gamesalad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesalad.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100022id_/http%3A//gamesalad.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GameSalad
 
-This Privacy Policy was last updated June 22, 2011
+This Privacy Policy was last updated January 5, 2014
 
 This Privacy Policy (“Privacy Policy”) explains our policy regarding the collection, use and disclosure of your personal information for GameSalad, Inc. (“GameSalad”) and the website located at: www.gamesalad.com and any other site provided by GameSalad (collectively the “Site”). As we update and expand our services, this policy may change, so please refer back to it periodically. By accessing our Site or otherwise using our service, you consent to our information practices. This Privacy Policy explains the following:
 
@@ -23,7 +23,28 @@ We will use your personally identifiable information to register you to use and 
 
 You are responsible for updating and maintaining the truth and accuracy of the personal information you provide to us relating to your account. If you want to update your contact information or change your payment method, you should do so by visiting your account on our Site. 
 
-You may notify us that you no longer wish to receive notices from us regarding services that you may wish to purchase in the future by opting out through a reply e-mail to the targeted advertising message or sending us an e-mail at the following address: unsubscribe-gs@gamesalad.com at any time. 
+You may notify us that you no longer wish to receive notices from us regarding services that you may wish to purchase in the future by opting out through a reply e-mail to the targeted advertising message or sending us an e-mail at the following address: [unsubscribe@gamesalad.com](mailto:unsubscribe@gamesalad.com?subject=UNSUBSCRIBE "unsubscribe@gamesalad.com") at any time. 
+
+### Data Collection in Apps Created with GameSalad
+
+When you install or run Apps or Games developed with GameSalad, we may collect some or all of the following information about the App or Game and your device hardware and software:
+
+  * GameSalad App ID
+  * Platform App ID
+  * GameSalad User ID of the user that created the Application
+  * Version of GameSalad Creator used to create the Application
+  * Device Model and Manufacturer
+  * Device OS version
+  * Network and Carrier
+  * IP Address
+  * Device Locale Country and Language
+  * Device Memory
+  * Unique Device Identifier
+  * [Application Events](https://web.archive.org/application-events)
+
+
+
+We collect this data for quality assurance purposes and to support the internal operations of our platform.
 
 ### Public Forums
 
@@ -55,6 +76,6 @@ We may employ procedural and technological measures to safeguard the confidentia
 
 ### Reviewing/ Correcting/Updating Personally Identifiable Information
 
-GameSalad provides you with the ability to review and correct any of the personally identifiable information that you have provided to us through the Site and to delete your user profile by contacting GameSalad at the following e-mail address unsubscribe-gs@gamesalad.com. 
+GameSalad provides you with the ability to review and correct any of the personally identifiable information that you have provided to us through the Site or to delete your user profile by contacting GameSalad at the following e-mail address: [personal_information_request@gamesalad.com](mailto:personal_information_request@gamesalad.com?subject=Personal%20Information%20Request&body=Hello,I%20would%20like%20to%20make%20the%20following%20request%20regarding%20the%20personal%20information%20GameSalad%20has%20collected%20on%20my%20behalf: "personal_information_request@gamesalad.com"). 
 
 Notwithstanding the foregoing, you should understand that any content and/or material that you have posted, including, without limitation, games, text and images (including, without limitation, in forums, comment sections, the wiki, screen shots and game icons) in areas other than your user profile will not be deleted. Once we have deleted your user profile, you agree that GameSalad will not be responsible for any personally identifiable information that was not included within your deleted and/or removed user profile that remains on the Site. 
