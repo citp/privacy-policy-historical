@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the listinsomnia.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110193442id_/http%3A//listinsomnia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listinsomnia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055403id_/http%3A//listinsomnia.com/privacy.php) for the most accurate reproduction.*
 
 # List Insomnia
 
   
-[](http://listinsomnia.com/bannerclick2.php?id=72)  
+[](http://listinsomnia.com/bannerclick2.php?id=77)  
 
 
 List Insomnia Privacy Policy
