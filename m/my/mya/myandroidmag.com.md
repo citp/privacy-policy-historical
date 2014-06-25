@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myandroidmag.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227214625id_/http%3A//myandroidmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myandroidmag.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112639id_/http%3A//myandroidmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy » Android Magazine
 
@@ -20,7 +20,7 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ## Special Note About Google Advertising
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+Any advertisements served by [Google](http://myandroidmag.com/topic/google/ "Google"), Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
 
 ## Contact Information
 
