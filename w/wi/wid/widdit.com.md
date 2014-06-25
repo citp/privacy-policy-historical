@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the widdit.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206224752id_/http%3A//widdit.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widdit.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072225id_/http%3A//www.widdit.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Widdit
 
@@ -24,7 +24,7 @@ Widdit's services vary and retain different kinds of information.
 
 When you install Widdit's software on your computer, it may retain your search history , your browsing history, your IP address, your browser and operating system version and your approximate geolocation. 
 
-When you install Widdit's software on your mobile device, it may retain your hashed IMEI as a unique device identifier, your IP address, your exact geolocation, your social media accounts and social networks, your call history, your text messages, your photos and contacts. 
+When you install Widdit's software on your mobile device, it may retain your hashed IMEI as a unique device identifier, your android device ID, your IP address, your exact geolocation, your social media accounts and social networks, your call history, your text messages, your photos and contacts. 
 
 What Non-Personal Information Is Retained By Widdit?
 
