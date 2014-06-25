@@ -1,90 +1,65 @@
-> *The following text is extracted and transformed from the indopia.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225121532id_/http%3A//www.indiareport.com/registration/privacyconcerns.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indopia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625145146id_/http%3A//www.indopia.com/privacy-policy) for the most accurate reproduction.*
 
-# Indiareport.com,India entertainment News,Indian Politics News,Latest Sports News,Top Breaking News,India
+# Privacy Policy – Indopia is an online indian movies website
 
-Indiareport.com and India Report.LLC are licensees of the TRUSTe privacy program and TRUSTe Children’s Privacy Program and are in compliance with TRUSTe privacy principles. We also participate in the Council of Better Business Bureaus' BBBOnLine Privacy Program, and comply with all BBBOnLine Privacy standards. 
+This Privacy Policy describes how we handle your personal information. We collect, use, and share personal information to help the Indopia.com web site ('Indopia') work and to keep it safe (details below). In formal terms conditions, Indopia, Inc. B-128 Sector 65, NOIDA 201 301 UP INDIA, India, is the 'data controller' of your personal information. This policy is effective as of May 1, 2013.
 
-This policy discloses the privacy practices for Indiareport.com and India Report, LLC Learning Network. For further information, please also visit our Member Center, where under the Site Help tab, you can view our Member Agreement and read Frequently Asked Questions about Cookies. In the Member Center you can also review Your Profile as well as manage your E-mail Preferences. By using Indiareport.com you are agreeing to the terms of our Member Agreement. 
+Collection
 
- TRUSTe 
+Information and content posted on Indopia is obviously publicly (but not freely) available. Our servers are located in the United States and other locations around the world. The laws on holding personal data in the United States may be less stringent than the laws applicable in other countries but Indopia will hold and transmit your information in a safe, confidential and secure environment. If you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers in the United States and elsewhere. We collect and store the following personal information:
 
-When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected; what organization is collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company’s control; and how you can correct any inaccuracies in the information. Questions regarding this statement should be directed to Privacy Policy at Indiareport.com if the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe. 
+  * Email address, physical contact information, and (depending on the services used) sometimes financial information
+  * Computer sign-on data, statistics on page views, traffic to and from Indopia and ad data (all through cookies – you can take steps to disable the cookies on your browser although this will very likely to affect your ability to use the site) and you will not be able to use the website.
+  * Other information, including users IP address and standard web log information
 
- BBBOnLine 
 
-A wholly owned subsidiary of the Council of Better Business Bureaus, BBBOnLine's mission is to promote trust and confidence on the Internet through the BBBOnLine Reliability and the BBBOnLine Privacy programs. Launched in March 1999, BBBOnLine Privacy awards seals to online businesses that have been verified to be following good information practices. Further information about this program is available at <http://www.bbbonline.org/>
 
-India Report, LLC and Indiareport.com have adopted a set of information management guidelines which serve as the basis for our customer and advertiser relationships. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models are still not established. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty days prior to taking effect and registered users will be notified via e-mail. 
+Use
 
-Indiareport.com is not responsible for the content or the privacy policies of Web sites to which it may link. 
+We use user's personal information to: 
 
-In this Privacy Policy, you will find the answers to the following questions:
+  * Provide our services
+  * Resolve disputes and troubleshoot problems
+  * Encourage safety and enforce our policies
+  * Customize user's experience, measure interest in our services, and inform users about services and updates
+  * Communicate marketing and promotional offers to you
+  * Do other things for users as described when we collect the information
 
-**What information does Indiareport.com gather/track about you?**
 
-Registration: During a free registration process prior to using the site, Indiareport.com requires that you supply a unique Member ID, e-mail address, and demographic information (country, zip code, year of birth, gender, household income, industry, and job title). You must agree to the terms of our Member Agreement. 
 
-Premium Products and Services from Third Parties or Partners: From time to time, Indiareport.com may offer products or services from our partners or third parties. Where you are so notified during the purchase process, the information you provided at registration may be shared with the provider of the product or service. However, we will never share your billing and credit card information, which Indiareport.com collects and stores to enable the purchase of these products. This information will only be shared with third parties who perform tasks required to complete the purchase transaction. Examples of this include fulfilling orders and processing credit card payments. 
+Billing and Credit Card Information
 
-Contests, Special Offers, Surveys: On occasion, Indiareport.com also collects additional personal information from subscribers in connection with optional contests or optional special offers. If this information is to be shared with a third party, we will notify you at the time of collection. 
+To enable payment for Indopia.com services, we collect and store billing and credit card information. This information will only be shared with third parties who perform tasks required to complete the purchase transaction. Examples of this include fulfilling orders and processing credit card payments. We do not store credit card information on our servers.
 
-Additionally, Indiareport.com may collect additional personal information from subscribers in connection with optional surveys. Information that you provide in answer to optional survey questions may be shared, but only in the aggregate, with advertisers and partners unless we notify you at the time of collection. 
+Disclosure
 
-IP Addresses: Indiareport.com logs IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We do not use IP address logs to track your session or your behavior on our site. 
+We don’t share your personal information to third parties for their marketing purposes without your explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other’s rights, or protect anyone’s rights, property, or safety (for example, if you submit false contact details or impersonate another person, we may pass your personal information to any aggrieved third party, their agent(s) or to any law enforcement agency). We may also share personal information with:
 
-Log Files: _Log data is only used in aggregate to analyze usage of our Web site._
+  * Members/sites owned by the Indopia Inc. — like **indopia.in, indopia.com, IndiaReport.com, IndiaFlix.com** — to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will use this information to send you marketing communications only if you’ve requested their services or agree to share such information
+  * Service providers who help with our business operations
 
-back to top
 
-**What does Indiareport.com do with the information it gathers/tracks?**
 
-Statistical Analysis and Banner Advertising: Indiareport.com may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. We also use demographic and preference information to allow advertising banners on our Web site to be targeted, in aggregate, to the users for whom they are most pertinent. This means that users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. In this statistical analyses and banner advertisement targeting, we will disclose information to third parties only in aggregate form. Indiareport.com may also share personal information with Boleeto.tv and Visipass.com, including analysis to improve customer relationships. Personal information about you as an individual subscriber will not be provided to any third party without your consent, except under the circumstances described in Compliance with Legal Process below. 
+Cookies
 
-_**E-Mail:**_ If you so elect at registration or in the E-mail Preferences section of our Member Center, Indiareport.com will periodically send you promotional e-mail about services offered by Indiareport.com and its advertisers. Additionally, the e-mail address provided by you at registration may be used by Indiareport.com and India Report, LLC to contact you regarding (1) account status (including confirmation of registration), (2) major changes to the Web site and or to the Member Agreement and Privacy Policy, and (3) participation in user surveys, asking for feedback on the Web site and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve our Web site, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form. (Effective as of May 1, 2006). 
+We or our service providers may place "cookies" (a "cookie" is a small files placed on the hard drive of your computer) and 'web beacons' (a 'web beacon' is an electronic image, called a single-pixel or clear GIF placed in the web page code) on your computer when you visit portions of Indopia. Most cookies are " **session cookies** ," meaning that they are automatically deleted from your hard drive at the end of a session, for example, when you close your browser. We may use permanent or session cookies to help analyze our web page flow; customize our services, content and advertising; measure promotional effectiveness, and promote trust and safety. You can block our cookies by changing the settings on your browser, but doing so may prevent us from delivering certain services to you. You may encounter cookies from third parties on certain pages of the site that we do not control. We use third-party ad-serving technologies, to serve ads, and they may place cookies on your computer. **We do not allow these third parties to collect any personal information through the use of cookies in ads**. You can read more about our cookies policy here,
 
-The E-Mail This Article feature is an easy way for Indiareport.com users to send articles through e-mail. The e-mail address(es) that you supply to use this service will only be used to send the requested article. 
+Using Information from Indopia
 
-We use e-mail links located in the Site Help area our Member Center to allow you to contact us directly with any questions or comments you may have. We will use your e-mail address to respond directly to these questions or comments. 
+You may use personal information gathered from Indopia only to follow up with another user about a specific posting, not to send spam or collect personal information from someone who hasn't agreed to that.
 
-Except as permitted by this policy, Indiareport.com does not send unsolicited e-mail. 
+Communications and email tools
 
-_**Data Security:**_ To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place physical, electronic, and managerial procedures to protect the information we collect online. __
+You agree to receive marketing communications from us unless you tell us that you prefer not to receive such communications. If you don't wish to receive marketing communications from us, simply indicate your preference by following the directions provided with the communication. **You may not use our site or communication tools to harvest addresses, send spam or otherwise breach our Terms of Use or Privacy Policy. We may automatically scan and manually filter messages sent via our communication tools for malicious activity or prohibited content, but we do not permanently store such messages**. If you use our tools to send content to a friend, we don’t permanently store your friends’ addresses or use or disclose them for marketing purposes. To report spam from other users, please contact us.
 
-back to top
+Access, Modification, and Deletion
 
-**With whom does Indiareport.com share the information it gathers/tracks?**
+You can see, modify your personal information by reviewing your posting or account status page. Contact us here to review any personal information. There may be a charge associated with such requests. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.
 
-Indiareport.com shares the information it gathers, in aggregate form only, with advertisers and other partners. We will not release personal information about you as an individual to third parties, except under the circumstances described in Compliance with Legal Process below. You can review and modify all of your personal information provided during the free registration process by visiting the secured Your Profile section of our Member Center. If you do not remember your Member ID and password, please go to www.Indiareport.com/forgot for assistance. 
+Security
 
-Programs From Our Partners: During the registration process, new users who select to register for certain featured offers from our partners will begin receiving e-mail from these companies. You will only receive e-mail messages from these companies if you elect this opt-in service. In addition to providing these partners with your e-mail address, certain partners may also receive other information collected on the Indiareport.com registration form but this will be noted on the Additional Information page, linked from the Programs from our Partners area of the Registration page. Indiareport.com may use this information as set forth in this privacy policy. Should you decide to discontinue your e-mail subscription or would like more information on these companies, please see our list of partners that have participated in this program. 
+We use many tools to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing's perfect, so we make no guarantees
 
-Forums and Readers' Reviews: Indiareport.com offers Forums (message boards) and Readers' Reviews. Any information you disclose when posting a message in these areas, along with your Member ID, becomes public and may be used by Indiareport.com for related online and offline promotional uses. For more information about Forums and Readers' Reviews see the Posting Policy and read the Forums, Discussions and Readers' Reviews section of the Member Agreement. You may also write to the Forums moderators by clicking here. __
+General
 
-back to top
-
-**How do I change or update my personal information?**
-
-The Member Center: The Member Center is a centralized area where you can manage your relationship with Indiareport.com. There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. Under the Your Profile tab, you can gain secure access to update the information you provided during the free registration process. The E-mail Preferences tab is the place to go to sign up for our E-mail newsletters and manage your delivery options. In order to gain access to the areas of the Member Center containing personal information, you will be asked to re-enter your password. If you do not remember your password, please go to www.Indiareport.com/forgot for assistance. If you need further assistance, please contact Customer Service. __
-
-back to top
-
-**Compliance with Legal Process**
-
-We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of Indiareport.com; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions). __
-
-back to top
-
-**Children's Guidelines: The Learning Network  **
-
-The Learning Network is a free service for parents, teachers and students, and does not require registration. The Student Connections section is specifically directed at students, grades 6 to 12; within this section, the Ask Indiareport.com allows students to send a question to Indiareport.com providing their first name, grade, school and state/country and optionally their e-mail address. The information requested on these pages is used solely for participation in these activities, and is not shared or sold to third parties. Access to the above services is not conditioned on more information than is reasonably necessary to provide the services. Because we’re concerned about a Parent’s right to consent to the collection and use of their child’s personal information, when a question is published, only the student's first name, grade, and state/country appear on the site. To request removal of this information (non-personally identifiable) or to review or remove the optional e-mail address (personal information collected), please use this form to contact the Learning Network. 
-
-These Childrens’ guidelines have been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models are still not established. Accordingly, guidelines are subject to change. In the unlikely event of such changes they will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of children’s personal information, the changes will be posted on this page thirty days prior to taking effect and will not affect children’s personal information previously collected. __
-
-back to top
-
-For any questions concerning The Learning Network, please contact: 
-
-**Indraneel Varma,  
-India Report, LLC,   
-30 Saratoga Drive, West Windsor, NJ 08550.  
-Telephone: 609-529-3108**
+**We may update this policy at any time, with updates taking effect when you next post or 30 days after we post the updated policy on the site, whichever is sooner**. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. If you have any questions about this policy please contact us.
