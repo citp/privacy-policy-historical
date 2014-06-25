@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unzip-online.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006000716id_/http%3A//unzip-online.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unzip-online.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120337id_/http%3A//unzip-online.com/privacypolicy) for the most accurate reproduction.*
 
-# unzip-online.com | privacy policy
+# unzip-online.com | Privacy policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@unzip-online.com](mailto:info@unzip-online.com).
 
@@ -33,7 +33,7 @@ These third-party ad servers or ad networks use technology in their respective a
 unzip-online.com has no access to or control over these cookies that are used by third-party advertisers. 
 
 **Third Party Privacy Policies**  
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. unzip-online.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. unzip-online.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links"). 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
@@ -41,13 +41,13 @@ If you wish to disable cookies, you may do so through your individual browser op
 We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. unzip-online.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that unzip-online.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records. 
 
 **Online Privacy Policy Only**  
-This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website. 
 
 **Consent**  
 By using our website, you hereby consent to our privacy policy and agree to its terms. 
 
 **Update**  
-This Privacy Policy was last updated on: Wednesday, October 24th, 2012. [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+This Privacy Policy was last updated on: Wednesday, October 24th, 2012. [ ](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
 
 * * *
