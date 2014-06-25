@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetasianbabes.com privacy policy that was archived on 2012-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120813205804id_/http%3A//meetasianbabes.com/info.php%3Fsel%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetasianbabes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215812id_/http%3A//meetasianbabe.com/info.php%3Fsel%3D3) for the most accurate reproduction.*
 
 # Terms of Use
 
@@ -10,7 +10,7 @@ The Owner or You may terminate this agreement at any time, for any reason whatso
 
 The Owner assumes no responsibility whatsoever for your use of the Service. It is for your sole, personal use and you may not distribute your user name and password allowing others to use the service through your membership. Use of the service is strictly prohibited to minors or any person under the age of 18, regardless of whether you have parental consent.
 
- **As a member, you agree that:**
+**As a member, you agree that:**
 
 You will only use the Service in a manner that is accepted and legal according to all applicable laws and regulations.
 
@@ -30,16 +30,15 @@ You will not include any contact information or identifying content of yourself 
 
 Please note you may be involuntarily exposed to offensive or obscene materials on the Service that may have been posted by Members, hackers or unauthorized users from time to time. Please note that it is possible for others to obtain your personal information and use it to engage in an action that may be harmful to you or injure you. The Owner is not responsible for the use of any personal information that you choose to display, publish or distribute to other Members.
 
- **Our Commitment To Privacy**
+**Our Commitment To Privacy**
 
-Your privacy is important to us. We also dislike spam as much as you do.   
-
+Your privacy is important to us. We also dislike spam as much as you do.
 
 To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
- **The Information We Collect:**
+**The Information We Collect:**
 
-This notice applies to all information collected or submitted on the this website. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on the this website. The types of personal information collected at these pages are:
 
 Name   
 Address   
@@ -48,31 +47,30 @@ Photo and Videos
 Personal likes/dislikes  
 Email messages
 
- **The Way We Use Information:**
+**The Way We Use Information:**
 
-We use the information you provide about yourself for this web site only. We do not share this information with outside parties except to the extent necessary to comply with legal laws. 
+We use the information you provide about yourself for running this web site. We do not share this information with outside parties - except when necessary to comply with legal laws and trusted thrid-parties to run, own or administer this web site.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+We use return email addresses to answer the email we receive, send out newsletters and other web site communications.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+If we decide to make changes to our privacy policy, we will make changes to this page.
 
 **Our Commitment To Data Security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  
+ 
 
- **How You Can Access Or Correct Your Information**
+**How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by the Owner of this web site. We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by the Owner of this web site. We use this procedure to better safeguard your information.
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.   
+ 
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please contact us at the CONTACT US link below. 
-
-  
-
+Should you have other questions or concerns about these privacy policies, please contact us at the CONTACT US link below.
