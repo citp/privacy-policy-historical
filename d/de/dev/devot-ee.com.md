@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devot-ee.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825065950id_/http%3A//devot-ee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devot-ee.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114357id_/http%3A//devot-ee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - devot:ee - Devoted to ExpressionEngine
 
