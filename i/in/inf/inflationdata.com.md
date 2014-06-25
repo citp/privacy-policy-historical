@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inflationdata.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224120548id_/http%3A//inflationdata.com/articles/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inflationdata.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131425id_/http%3A//inflationdata.com/articles/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | InflationData.com
+# Privacy Statement
 
 Last Updated: 21 October 2013
 
