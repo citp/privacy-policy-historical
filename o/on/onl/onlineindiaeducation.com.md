@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineindiaeducation.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229173824id_/http%3A//onlineindiaeducation.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineindiaeducation.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625182552id_/http%3A//onlineindiaeducation.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy, Online India Education Privacy Policy
 
