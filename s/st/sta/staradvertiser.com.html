@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the staradvertiser.com privacy policy that was archived on 2013-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131230001149id_/http%3A//www.staradvertiser.com/about/sa_privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the staradvertiser.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625091435id_/http%3A//www.staradvertiser.com/about/sa_privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope=""><head> 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -26,7 +26,7 @@
     <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 	
 			<link href="http://www.staradvertiser.com/includes/hsa_content_inside.css?redesign" rel="stylesheet" type="text/css">	
-	<link href="http://sa-media.s3.amazonaws.com/sa_com_header/style_sheets/starAdvertiser_style_v22.css" rel="stylesheet" type="text/css">
+	<link href="http://sa-media.s3.amazonaws.com/sa_com_header/style_sheets/starAdvertiser_style_v27i.css" rel="stylesheet" type="text/css">
 	<link href="http://sa-cmedia01.staradvertiser.com/sa_com_header/style_sheets/hsa_aug_2011_rd.css?redesign" rel="stylesheet" type="text/css">
 	<!--[if IE 7]>
 	<link rel="stylesheet" type="text/css" href="http://sa-cmedia01.staradvertiser.com/sa_com_header/style_sheets/hsa_ie7.css">
@@ -112,7 +112,7 @@ if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexO
   OAS_version = 10;
 if (OAS_version >= 11)
   document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://oascentral.staradvertiser.com/RealMedia/ads/adstream_mjx.ads/www.staradvertiser.com/FrontPage/index.html/1979771716@Top,x02,x06,x13,x15,x21,x22,x94,x95,x96?"></script>
+</script><script language="JavaScript1.1" src="http://oascentral.staradvertiser.com/RealMedia/ads/adstream_mjx.ads/www.staradvertiser.com/FrontPage/index.html/1565382911@Top,x02,x06,x13,x15,x21,x22,x94,x95,x96?"></script>
 
 <script language="JavaScript">
 
@@ -299,16 +299,68 @@ qacct:"p-fakfkDFkV8CdQ"
 		
 	</script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>	
+<!-- Cookbook Giveaway Popout Box start -->
+		<script type="text/javascript" src="http://www.staradvertiser.com/includes/HSA_Cookbook_MF_Giveaway.js">  </script>
+		<script language="javascript">
+			function Get_Cookie( check_name ) {
+				// first we'll split this cookie up into name/value pairs
+				// note: document.cookie only returns name=value, not the other components
+				var a_all_cookies = document.cookie.split( ';' );
+				var a_temp_cookie = '';
+				var cookie_name = '';
+				var cookie_value = '';
+				var b_cookie_found = false; // set boolean t/f default f
+			
+				for ( i = 0; i < a_all_cookies.length; i++ )
+				{
+					// now we'll split apart each name=value pair
+					a_temp_cookie = a_all_cookies[i].split( '=' );
+			
+			
+					// and trim left/right whitespace while we're at it
+					cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+			
+					// if the extracted name matches passed check_name
+					if ( cookie_name == check_name )
+					{
+						b_cookie_found = true;
+						// we need to handle case where cookie has no value but exists (no = sign, that is):
+						if ( a_temp_cookie.length > 1 )
+						{
+							cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+						}
+						// note that in cases where cookie is initialized but no value, null is returned
+						return cookie_value;
+						break;
+					}
+					a_temp_cookie = null;
+					cookie_name = '';
+				}
+				if ( !b_cookie_found )
+				{
+					return false;
+				}
+			}
+			jQuery(document).ready(function(){
+				if (document.cookie.indexOf('visited_giveaway=true') == -1) {
+					if (Get_Cookie( 'UID' )) {
+						var timeLimit = 60 * 60 * 1000 * 24 * 15;
+						var expires = new Date((new Date()).valueOf() +  timeLimit);
+						document.cookie = "visited_giveaway=true;expires=" +  expires.toUTCString() + "; path=/";
+						document.getElementById("subscribe_overlay_giveaway").style.display = "inline";
+						document.getElementById("subscribe_alt_giveaway").style.display = "inline";
+					}
+				}
+			});
+		</script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<!-- Cookbook Giveaway Popout Box end -->
 
 <!--Start Wrapper Ad Test - Header--><!--End Wrapper Ad Test - Header-->
 </head>
 
 <!--Start Wrapper Ad Test - Body1--><!--End Wrapper Ad Test - Body1--><body>
-<!-- ClickTale Top part -->
-<script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
-</script>
-<!-- ClickTale end of Top part -->
+
 
 
 
@@ -318,7 +370,7 @@ var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=95472254";_qc+="&7=650914";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=95472254&7=650914&25=0&18=0.8517529608396517">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=95472254&7=650914&25=0&18=0.91906944735829">
 </noscript>
 
 
@@ -342,7 +394,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
           <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fstaradvertiser&amp;send=false&amp;layout=button_count&amp;width=86&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:88px !important; height:20px !important;" allowtransparency="true"></iframe>
           <a href="http://twitter.com/staradvertiser"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/hsa_social_media_twitter.jpg" width="18px" height="18px" border="0" title="Follow us on Twitter!"></a>&nbsp;<a href="http://feeds.feedburner.com/staradvertiser_rss/" target="_blank"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/hsa_rss.jpg" width="18px" height="18px" border="0" title="Follow our RSS Feed!"></a>&nbsp;<a href="https://plus.google.com/102315293056156357650?prsrc=3" style="text-decoration: none;"><img src="http://sa-cmedia01.staradvertiser.com/images/googleplus.png" width="18" height="18" style="border: 0;" title="Join Star-Advertiser on Google+"></a> </div>
       </div>
-             <script src="http://www.staradvertiser.com/manage/loginregister/?c=nogo&amp;rand=2803366563922415" type="text/javascript"></script>
+             <script src="http://www.staradvertiser.com/manage/loginregister/?c=nogo&amp;rand=8846565287355341" type="text/javascript"></script>
       <div id="cookies_disabled_message" style="display: none;clear: both;text-align: left;margin: 10px 0 10px 517px;color: red;padding-top: 5px;">Your browser's cookie functionality is turned off. This site requires cookies be enabled, please <a style="text-decoration: underline;" target="_blank" href="https://gateway.staradvertiser.com/help.php">click here</a> for instructions.</div>
     </div>
 
@@ -360,7 +412,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
       <div id="hsa_logo_nav_center">
         <center>
           <a href="http://www.staradvertiser.com/"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/hsa_logo.jpg" width="407" height="87" border="0"></a><br>
-          Sunday, December 29, 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <script type="text/javascript" src="http://weather5.staradvertiser.com/weatherxml/weather4.js"></script> 
+          Tuesday, June 24, 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <script type="text/javascript" src="http://weather5.staradvertiser.com/weatherxml/weather4.js"></script> 
         </center>
       </div>
       <div class="hsa_205x120_right"> 
@@ -429,14 +481,14 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 <li><a href="/specialprojects/">Special Projects</a></li>
 <!--<li><a href="http://hawaiirenovation.staradvertiser.com/">Hawaii Renovation</a></li>-->
 <!-- <li><a href="http://dining.staradvertiser.com/">Dining Out</a></li>  -->
-<li><a href="http://movies.staradvertiser.com/">Movies</a></li>
+<li><a href="http://movies.staradvertiser.com/movies/mvhome.do?aid=honolumvaml">Movies</a></li>
 <!-- <li><a href="/rss/">RSS</a></li> -->
 <!-- <li><a href="http://twitter.com/staradvertiser">Twitter</a></li> -->
 <!-- <li><a href="http://www.facebook.com/pages/Honolulu-Star-Advertiser/112299605447935">Facebook</a></li> -->
 <li><a href="http://www.staradvertiser.com/tvweek">TV Week</a></li>
 <!--<li><a href="/about/">About Us</a></li>-->
 <li><a href="https://gateway.staradvertiser.com/myaccount/login.php">Customer Service</a></li>
-<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="101" height="20"></a> </li>
+<!--<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="101" height="20"></a> </li>-->
                             <!--
 
                 <li class="sitemapAnchor"><a href="#sitemap"><span class="sitemapAnchor">Sitemap</span></a></li>
@@ -462,10 +514,10 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
             <a href="/news"><div class="nav_lower">News</div></a>
 
             <ul class="nav2">
-                <!-- <li class="date">Sunday, December 29, 2013</li> -->
+                <!-- <li class="date">Tuesday, June 24, 2014</li> -->
                 <!--<li class="date"><a href="/news/weather/" >Storm Watch</a></li>-->
 <li><a href="/newspremium/newswatchpremium/">Newswatch</a></li>
-<li><a href="/newspremium/policeandfirepremium/">Police and Fire</a></li>
+<li><a href="/newspremium/policeandfirepremium/">911 Report</a></li>
 <li><a href="/newspremium/vitalstatisticspremium/">Vital Statistics</a></li>
 <li><a href="http://www.prh.noaa.gov/hnl/pages/SRF.php" target="_blank">Surf</a></li>
 <li><a href="/newspremium/kokualinepremium/">Kokua Line </a></li>
@@ -475,7 +527,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 <li><a href="/newspremium/oceanwatchpremium">Ocean Watch</a></li>
 <li><a href="/newspremium/skywatchpremium/">Skywatch</a></li>
 <li><a href="/newspremium/factsofthematterpremium/">Facts of the Matter</a></li>
-<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="101" height="20"></a> </li>
+<!--<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="101" height="20"></a> </li>-->
 
                         
             </ul>
@@ -508,7 +560,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 <li><a href="http://hawaiiwarriorbeat.com">Hawaii Warrior Beat</a></li>
 <li><a href="http://www.hawaiiprepworld.com/">Hawaii Prep World</a></li>
 <li><a href="/sportspremium/hawaiigrownreportpremium">Hawaii Grown Report</a></li>
-<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="101" height="20"></a> </li>
+<!--<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="101" height="20"></a> </li>-->
 
 
                             <!--
@@ -534,7 +586,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
             <a href="/business"><div class="nav_lower">Business</div></a>
 
             <ul class="nav2">
-                <!-- <li class="date">Sunday, December 29, 2013</li> -->
+                <!-- <li class="date">Tuesday, June 24, 2014</li> -->
 <li><a href="/businesspremium/thebuzzpremium">TheBuzz</a></li>
 <li><a href="/businesspremium/buylocalpremium/">Buy Local</a></li>
 <li><a href="/businesspremium/akamaimoneypremium/">Akamai Money</a></li>
@@ -542,7 +594,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 <li><a href="/businesspremium/techviewpremium">Tech View</a></li>
 <li><a href="/businesspremium/businessbriefspremium">Business Briefs</a></li>
 <li><a href="/businesspremium/hawaiirealestatesalespremium/">Hawaii Real Estate Sales</a></li>
-<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="101" height="20"></a> </li>
+<!--<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="101" height="20"></a> </li>-->
 
                             <!--
 
@@ -569,17 +621,17 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
             <a href="/editorials"><div class="nav_lower">Editorial</div></a>
 
             <ul class="nav2">
-                <!-- <li class="date">Sunday, December 29, 2013</li> -->
+                <!-- <li class="date">Tuesday, June 24, 2014</li> -->
 <li><a href="/editorialspremium/saeditorialspremium">Our View</a></li>
 <li><a href="/editorialspremium/insight">Insight</a></li>
 <li><a href="/editorialspremium/guesteditorialspremium">Guest Columns</a></li>
 <li><a href="/editorialspremium/letterspremium">Letters to the Editor</a></li>
-<li><a href="/editorials/offthenews">Off the News</a></li>
+<li><a href="/editorialspremium/offthenewspremium">Off the News</a></li>
 <li><a href="/editorialspremium/nameinthenewspremium/">Name in the News</a></li>
 <li><a href="/editorialspremium/onpoliticspremium/">On Politics</a></li>
 <li><a href="/editorialspremium/underthesunpremium/">Under the Sun</a></li>
 <li><a href="/editorialspremium/kauakukalahalepremium/">Kauakūkalahale</a></li>
-<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="101" height="20"></a> </li>
+<!--<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="101" height="20"></a> </li>-->
 
                             <!--
 
@@ -606,7 +658,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
             <a href="/features"><div class="nav_lower">Features</div></a>
 
             <ul class="nav2">
-                <!-- <li class="date">Sunday, December 29, 2013</li> -->
+                <!-- <li class="date">Tuesday, June 24, 2014</li> -->
 <li><a href="/features/calendars">Calendars</a></li>
 <li><a href="/specialprojects/wedding-announcements/">Weddings </a></li>
 <li><a href="/featurespremium/byrequestpremium">By Request </a></li>
@@ -619,7 +671,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 <li><a href="/featurespremium/weeklyeaterpremium">Weekly Eater </a></li>
 <li><a href="/featurespremium/woodcraftpremium">Wood Craft </a></li>
 <li><a href="http://dining.staradvertiser.com/">Dining Out</a></li>
-<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="110" height="20"></a> </li>
+<!--<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="110" height="20"></a> </li>-->
                             <!--
 
                 <li class="sitemapAnchor"><a href="#sitemap"><span class="sitemapAnchor">Sitemap</span></a></li>
@@ -635,7 +687,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
             <a href="http://www.honolulupulse.com/"><div class="nav_lower">Pulse</div></a>
 
             <ul class="nav2">
-                <!-- <li class="date">Sunday, December 29, 2013</li> -->
+                <!-- <li class="date">Tuesday, June 24, 2014</li> -->
 <li><a href="http://www.honolulupulse.com/category/tgifinprintsummary"><em>TGIF in Print</em></a></li>
 <li><a href="http://www.honolulupulse.com/category/bars-clubs/mix">In the Mix</a></li>
 <li><a href="http://www.honolulupulse.com/category/pau-hana-patrol">Pau Hana Patrol</a></li>
@@ -644,8 +696,8 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 <li><a href="http://www.honolulupulse.com/category/tgifinprint/quick-bites">Quick Bites</a></li>
 <!--<li><a href="/hilife/barfly">Barfly</a></li>-->
 <li><a href="http://dining.staradvertiser.com/">Dining Out</a></li>
-<li><a href="http://movies.staradvertiser.com/">Movie Showtimes</a></li>
-<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="110" height="20"></a> </li>
+<li><a href="http://movies.staradvertiser.com/movies/mvhome.do?aid=honolumvaml">Movie Showtimes</a></li>
+<!--<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="110" height="20"></a> </li>-->
                             <!--
 
                 <li class="sitemapAnchor"><a href="#sitemap"><span class="sitemapAnchor">Sitemap</span></a></li>
@@ -667,7 +719,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
             <a href="/travel">Travel</a>
 
             <ul class="nav2">
-                <!-- <li class="date">Sunday, December 29, 2013</li> -->
+                <!-- <li class="date">Tuesday, June 24, 2014</li> -->
 <li><a href="/travelpremium/hawaiisbackyardpremium">Hawaii's Backyard</a></li>
 <li><a href="/travelpremium/islandhoppingpremium">Island Hopping </a></li>
 <li><a href="/travel/airfarerates">Airfare Rates</a></li>
@@ -675,7 +727,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 <li><a href="http://www.hawaii.com/" target="_blank">Hawaii.com</a></li>
 <li><a href="http://www.101thingstodo.com/" target="_blank">101 Things To Do</a></li>
 <!-- <li><a href="http://vegas.starbulletin.com/">Vegas Deals</a></li> -->
-<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="101" height="20"></a> </li>
+<!--<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="101" height="20"></a> </li>-->
 
                             <!--
 
@@ -692,7 +744,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
             <a href="/multimedia/"  ><div class="nav_lower">Multimedia</div></a>
 
             <ul class="nav2">
-                <!- <li class="date">Sunday, December 29, 2013</li> ->
+                <!- <li class="date">Tuesday, June 24, 2014</li> ->
 <li><a href="http://gallery.pictopia.com/oahupub/">Purchase Photos</a></li>
 
 <li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="101" height="20"></a> </li>
@@ -711,13 +763,13 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
             <a href="/eedition"><div class="nav_lower">Print Replica</div></a>
 
             <ul class="nav2">
-                <!-- <li class="date">Sunday, December 29, 2013</li> -->
+                <!-- <li class="date">Tuesday, June 24, 2014</li> -->
 
 <li><a href="https://gateway.staradvertiser.com/faq_npd.php" target="_blank">Activation (Required)</a></li>
 <li><a href="https://gateway.staradvertiser.com/faq.php#newspaper-direct" target="_blank">FAQ's</a></li>
 <li><a href="/eedition" target="_blank">Sign in &amp; View</a></li>
 <li><a href="https://gateway.staradvertiser.com/faq_npd.php" target="_blank">Supported mobile devices</a></li>
-<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="101" height="20"></a> </li>
+
                             <!--
 
                 <li class="sitemapAnchor"><a href="#sitemap"><span class="sitemapAnchor">Sitemap</span></a></li>
@@ -733,9 +785,9 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 
 
             <ul class="nav2">
-                <!-- <li class="date">Sunday, December 29, 2013</li> -->
+                <!-- <li class="date">Tuesday, June 24, 2014</li> -->
 
-<li class="sa_pru" style="float:right;"> <a href="http://www.prudentiallocations.com/#ref=staradv-tile" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/prudentiallocations/http://www.prudentiallocations.com/?ref=staradv-tile']);"><img src="http://sa-media.s3.amazonaws.com/images/icons/prudential-SA-nav.gif" alt="Prudential Locations" border="0" width="101" height="20"></a> </li>
+
                             <!--
 
 
@@ -762,7 +814,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
                                 <li><a href="http://www.hawaiiislandhomes.com/">Homes</a></li>
                                 <!--<li><a href="http://hbropenhouseguide.com/">Hawaii Open House Guide</a></li>-->
                                 <li><a href="http://secure.adpay.com/searchresults.aspx?catid=1004&amp;pid=30317542665635565749382B643066356B6951776E673D3D">Hawaii Foreclosures</a></li>
-                                <li><a href="http://hawaiijobs.monster.com/">Jobs</a></li>
+                                <li><a href="http://hawaiijobs.staradvertiser.com/">Jobs</a></li>
                                 <li><a href="http://statelegals.staradvertiser.com">Hawaii State And County Government Notices</a></li>
                                 <li><a href="http://cars.staradvertiser.com/" target="_blank">Cars</a></li>
                                 <li><a href="http://obits.staradvertiser.com/">Obituaries</a></li>
@@ -778,10 +830,10 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
                             </ul>
                         </li>     
                 <li class="classNav nav2">
-            <a href="http://hawaiijobs.monster.com/">Jobs</a>
+            <a href="http://hawaiijobs.staradvertiser.com/">Jobs</a>
 
                             <ul style="display: none; visibility: hidden;">
-                                <li><a href="http://hawaiijobs.monster.com/">Monster.com Jobs</a></li>
+                                <li><a href="http://hawaiijobs.staradvertiser.com/">Monster.com Jobs</a></li>
                                 <li><a href="http://www.staradvertiser.com/about/star-advertiser_place_my_ad.html">Place My Ad</a></li>
                             </ul>
                         </li>
@@ -932,7 +984,56 @@ webmaster@staradvertiser.com</p>
 
 
 
+<!-- Question of the Day Start -->
+<div id="BigQBox">
+	<div style="width:100%; height:5px;"></div>
+	<!-- Note: Changes made on 3/3/2014, increased size of logo to 60px (from 30) and font-size to 14px (from 12) x Steven -->
+<div style="width:300px; float:left; margin:8px auto; margin-bottom: 12px;">
 
+<div style="width:300px; height:auto; float:left; border-top:2px solid #000; border-bottom:1px solid #CCCCCC; font-family:Arial, Helvetica, sans-serif; font-size:15px; font-weight:bold; padding:2px 0px; margin-bottom:8px;">
+POLL QUESTION
+</div>
+
+<!--LOGO-->
+<div style="width:60px; height:auto; float:left; margin-right:8px;">
+<img src="http://sa-media.s3.amazonaws.com/sa_com_header/images/big_q_logo_2014.png" style="width:100%; height:auto;">
+</div>
+<!--END LOGO-->
+
+<!--QUESTION-->
+<div style="width:232px; float:left; font-family:Arial, Helvetica, sans-serif; font-size:14px;">
+			Do you favor an afternoon Zipper Lane on the H-1 freeway to help contra-flow Ewa-bound rush-hour traffic?
+												<div style="width:100%; float:left; display:block; margin-top:10px; font-family:Arial, Helvetica, sans-serif; font-size:10px; font-weight:bold;">
+<a href="http://poll.staradvertiser.com" target="_blank">VOTE / VIEW RESULTS</a>
+</div>
+
+</div>
+<!--END QUESTION-->
+
+</div>
+
+
+
+
+
+</div>
+<!-- Question of the Day End -->
+<script language="javascript">
+var iDate = Date.now()
+var theTime = iDate.getTime()
+var myTimeZone = iDate.getTimezoneOffset()/-60
+var HawaiiTimeZone = -10
+var hourDiff = (myTimeZone - HawaiiTimeZone)
+var HTimeDiff = hourDiff*3600000
+var HTimeStandard = theTime-HTimeDiff
+var HawaiiTime = iDate.toLocaleString(iDate.setTime(HTimeStandard))
+var d = new Date(HawaiiTime);
+var n = d.getHours()
+if(n > '16')
+{
+	document.getElementById('BigQBox').style.display='none';
+}
+</script>
 <div style="width:100%; height:5px;"></div>
 				<!------ OAS AD 'x02' begin ------>
 				<script language="JavaScript">
@@ -967,8 +1068,9 @@ webmaster@staradvertiser.com</p>
 				</script>
 				<!------ OAS AD 'x22' end ------>
 <div style="width:100%; height:5px;"></div>
+
 <!-- Begin DMC HTML 5 Object Code -->
-<script src="http://widgets.digitalmediacommunications.com/embed/retail/300x250/1114/haw" type="text/javascript"></script>
+<!--<script src="http://widgets.digitalmediacommunications.com/embed/retail/300x250/1114/haw" type="text/javascript"></script>-->
 <!-- End DMC HTML 5 Object Code -->
 
 <div style="width:100%; height:5px;"></div> 
@@ -1018,25 +1120,25 @@ function setHeight(column) {
 
 	<!--PULSE MINUTE-->
 <!--<div style="padding: 7px 0 0 10px;">
-		<a class="hsa_pulse_maintitle" href="http://www.honolulupulse.com/2013/12/video-the-pulse-minute-12272013/" target="_self"><img src="http://sa-cmedia01.staradvertiser.com/honolulu_pulse/images/pulse-minute.jpg" border="0" /><div class="clearAll"></div>‘The Pulse Minute’ – 12/27/2013
+		<a class="hsa_pulse_maintitle" href="http://www.honolulupulse.com/2014/06/video-the-pulse-minute-6202014/" target="_blank"><img src="http://sa-cmedia01.staradvertiser.com/honolulu_pulse/images/pulse-minute.jpg" border="0" /><div class="clearAll"></div>‘The Pulse Minute’ – 6/20/2014</a>
 </div>-->
 
 <!--SOUL SESSIONS-->
 <!--<div style="padding: 7px 0 0 10px;">
-		<a class="hsa_pulse_maintitle" href="http://www.honolulupulse.com/2013/12/video-soul-sessions-featuring-siaosi/" target="_self"><img src="http://sa-media.s3.amazonaws.com/honolulu_pulse/images/20131224_soulsessionspromobug.jpg" border="0" /><div class="clearAll"></div>‘Soul Sessions’ featuring Siaosi
+		<a class="hsa_pulse_maintitle"  href="http://www.honolulupulse.com/2014/06/video-soul-sessions-stef-muzic-2/" target="_blank"><img src="http://sa-media.s3.amazonaws.com/honolulu_pulse/images/20140618_soulsessionspromobug.jpg" border="0" /><div class="clearAll"></div>‘Soul Sessions’ featuring Stef Muzic
 </div>-->
 
 <ul class="three-columns">
  
-		<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2013/12/pics-dj-maor-levi-at-vice/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/Vice-slider-360373_120x120.jpg" width="75" height="75" alt="PICS: DJ Maor Levi at Vice"><br>PICS: DJ Maor Levi at Vice</a></div></li>
-			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2013/12/pics-christmas-break-rajah-at-crown-bar/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/PUL-CROWN-BAR-slider-428650_120x120.jpg" width="75" height="75" alt="PICS: ‘Christmas Break Rajah’ at Crown Bar"><br>PICS: ‘Christmas Break Rajah’ at Crown Bar</a></div></li>
-			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2013/12/pics-military-fetish-ball-bar35/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/PUL-BAR-35-slider-483321_120x120.jpg" width="75" height="75" alt="PICS: ‘Military and Uniform Fetish Ball’ at Bar 35"><br>PICS: ‘Military and Uniform Fetish Ball’ at Bar 35</a></div></li>
-			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2013/12/pics-stylistics-2013/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/PUL-STYLISTICS-slider-323401_120x120.jpg" width="75" height="75" alt="PICS: The Stylistics at the Blaisdell Concert Hall"><br>PICS: The Stylistics at the Blaisdell Concert Hall</a></div></li>
-			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2013/12/review-stylistics-2013/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/PUL-STYLISTICS-thumb-430604_120x120.jpg" width="75" height="75" alt="Review: Stylistics superb at Blaisdell"><br>Review: Stylistics superb at Blaisdell</a></div></li>
-			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2013/12/pics-the-horror-show-at-nextdoor/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/PUL-NEXTDOOR-slider-355026_120x120.jpg" width="75" height="75" alt="PICS: The Horror Show at NextDoor"><br>PICS: The Horror Show at NextDoor</a></div></li>
-			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2013/12/pics-elements-modern-taboo/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/PUL-MODERN-TABOO-slider-417071_120x120.jpg" width="75" height="75" alt="PICS: ‘Elements’ at the Modern Honolulu"><br>PICS: ‘Elements’ at the Modern Honolulu</a></div></li>
-			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2013/12/pics-ooklah-tropics/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/PUL-TROPICS-slider-430352_120x120.jpg" width="75" height="75" alt="PICS: ‘Ooklah Holiday Party’ at Tropics"><br>PICS: ‘Ooklah Holiday Party’ at Tropics</a></div></li>
-			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2013/12/pics-pepper-republik-2013/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/Pepper-slider-362795_120x120.jpg" width="75" height="75" alt="PICS: Pepper at The Republik"><br>PICS: Pepper at The Republik</a></div></li>
+		<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2014/06/pulse-awards-2014-noms/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/pulse-awards-biz-card-front-524401_120x120.jpg" width="75" height="75" alt="Nominations open for Pulse Awards"><br>Nominations open for Pulse Awards</a></div></li>
+			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2014/06/take-a-bite-bevy-tapa-tuesday/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/Bevy-plate-73578_120x120.jpg" width="75" height="75" alt="Take a Bite: Bevy intros Tapa Tuesday"><br>Take a Bite: Bevy intros Tapa Tuesday</a></div></li>
+			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2014/06/heels-picks-kawehi/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/kawehimyspace-200168_120x120.jpg" width="75" height="75" alt="Heels &amp; Picks: Kawehi’s heart-shaped life"><br>Heels &amp; Picks: Kawehi’s heart-shaped life</a></div></li>
+			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2014/06/pics-hawaiis-best-2014/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/PUL-HAWAIIS-BEST-slider-429608_120x120.jpg" width="75" height="75" alt="PICS: 2014 Hawaii’s Best Awards"><br>PICS: 2014 Hawaii’s Best Awards</a></div></li>
+			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2014/06/fashion-tribe-kini-zamora/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/Kini_Donovan_Zamora_thumb-71509_120x120.jpg" width="75" height="75" alt="Fashion Tribe: Zamora to debut on ‘Runway’"><br>Fashion Tribe: Zamora to debut on ‘Runway’</a></div></li>
+			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2014/06/pics-huglife-fix/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/PUL-THE-FIX-slider-444238_120x120.jpg" width="75" height="75" alt="PICS: Huglife at The Fix"><br>PICS: Huglife at The Fix</a></div></li>
+			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2014/06/pics-grouch-eligh-republik/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/Grouch-slider-402026_120x120.jpg" width="75" height="75" alt="PICS: The Grouch and Eligh at The Republik"><br>PICS: The Grouch and Eligh at The Republik</a></div></li>
+			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2014/06/pics-night-market-june14/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/PUL-NIGHT-MARKET-slider-442682_120x120.jpg" width="75" height="75" alt="PICS: Honolulu Night Market"><br>PICS: Honolulu Night Market</a></div></li>
+			<li><div class="hsa_pulse_col"><a target="_blank" href="http://www.honolulupulse.com/2014/06/pics-project-46-vice/"><img class="thumbnail" src="http://www.honolulupulse.com/wp-content/uploads/et_temp/Vice-slider-353045_120x120.jpg" width="75" height="75" alt="PICS: Project 46 at Vice Nightclub"><br>PICS: Project 46 at Vice Nightclub</a></div></li>
 												</ul>
 
 </div>
@@ -1164,17 +1266,17 @@ border: 1px solid #BD9CB1;
  
 <li style="width:137px; height:180px;">
 <div class="hsa_street-pulse_col">
-<a title="Hottie of the Week" href="http://www.honolulustreetpulse.com/hottie-week-gizel-ramos/" target="_blank">
-<img class="thumbnail " width="120" height="120" alt="Hottie of the Week" src="http://www.honolulustreetpulse.com/wp-content/themes/streetpulse/images/hottie.png">
+<a title="Hottie of the Week" href="http://www.honolulustreetpulse.com/hottie-week-chelsea-n-c/" target="_blank">
+<img class="thumbnail " width="120" height="120" alt="Hottie of the Week" src="http://www.honolulustreetpulse.com/wp-content/themes/streetpulse/images/hottie2.png">
 
-<span style="color:#9b499b;">New!</span>&nbsp;&nbsp;Hottie of the Week: Gizel Ramos</a>
+<span style="color:#9b499b;">New!</span>&nbsp;&nbsp;Hottie of the Week: Chelsea N-C</a>
 </div>
 </li>
 
-			<li class="sp_feed_0"><div class="hsa_street-pulse_col"><a target="_blank" href="http://www.honolulustreetpulse.com/sp-rides-power-charged-mustang/"><img class="thumbnail" src="http://www.honolulustreetpulse.com//wp-content/uploads/2013/12/SP-122713-Shave-Voss-2003-Mustang-Cobra-0379-94455_120x120.jpg" width="75" height="75" alt="SP Rides: A Power-charged Mustang"><br>SP Rides: A Power-charged Mustang</a></div></li>
-				<li class="sp_feed_1"><div class="hsa_street-pulse_col"><a target="_blank" href="http://www.honolulustreetpulse.com/pics-reef-surf/"><img class="thumbnail" src="http://www.honolulustreetpulse.com//wp-content/uploads/2013/12/PUL-Reef-Pro-58-1-61549_120x120.jpg" width="75" height="75" alt="PICS: Reef Surf"><br>PICS: Reef Surf</a></div></li>
-				<li class="sp_feed_2"><div class="hsa_street-pulse_col"><a target="_blank" href="http://www.honolulustreetpulse.com/pics-pubs-christmas/"><img class="thumbnail" src="http://www.honolulustreetpulse.com//wp-content/uploads/2013/12/PUL-12-PUBS-XMAS-030-74005_120x120.jpg" width="75" height="75" alt="PICS: Pubs of Christmas"><br>PICS: Pubs of Christmas</a></div></li>
-				<li class="sp_feed_3"><div class="hsa_street-pulse_col"><a target="_blank" href="http://www.honolulustreetpulse.com/tats-tanlines-122713/"><img class="thumbnail" src="http://www.honolulustreetpulse.com//wp-content/uploads/2013/12/SP-Tatts-Stoli-06-84650_120x120.jpg" width="75" height="75" alt="Tats &amp; Tanlines: 12/27/13"><br>Tats &amp; Tanlines: 12/27/13</a></div></li>
+			<li class="sp_feed_0"><div class="hsa_street-pulse_col"><a target="_blank" href="http://www.honolulustreetpulse.com/pics-makahiki-2/"><img class="thumbnail" src="http://www.honolulustreetpulse.com//wp-content/uploads/2014/06/SP-Turbo-Pix-062014-Makahiki-16-49231_120x120.jpg" width="75" height="75" alt="PICS: Makahiki"><br>PICS: Makahiki</a></div></li>
+				<li class="sp_feed_1"><div class="hsa_street-pulse_col"><a target="_blank" href="http://www.honolulustreetpulse.com/tats-tanlines-62014/"><img class="thumbnail" src="http://www.honolulustreetpulse.com//wp-content/uploads/2014/06/SP-Tatts-Bacardi-13-93367_120x120.jpg" width="75" height="75" alt="Tats &amp; Tanlines: 6/20/14"><br>Tats &amp; Tanlines: 6/20/14</a></div></li>
+				<li class="sp_feed_2"><div class="hsa_street-pulse_col"><a target="_blank" href="http://www.honolulustreetpulse.com/pics-bacardi-2/"><img class="thumbnail" src="http://www.honolulustreetpulse.com//wp-content/uploads/2014/06/SP-Turbo-Pix-062014-PUL-BACARDI-019-80924_120x120.jpg" width="75" height="75" alt="PICS: Bacardi"><br>PICS: Bacardi</a></div></li>
+				<li class="sp_feed_3"><div class="hsa_street-pulse_col"><a target="_blank" href="http://www.honolulustreetpulse.com/sp-rides-blast-past/"><img class="thumbnail" src="http://www.honolulustreetpulse.com//wp-content/uploads/2014/06/SP-062014-COVER-Crisdean-Mac-Coinnigh-1984-Jetta-Gli-0050-139502_120x120.jpg" width="75" height="75" alt="SP Rides: A Blast from the Past"><br>SP Rides: A Blast from the Past</a></div></li>
 							</ul>
 
 <div style="clear:both"></div>
@@ -1182,7 +1284,7 @@ border: 1px solid #BD9CB1;
 <div align="center"><br>
 <img src="http://sa-media.s3.amazonaws.com/sa_com_header/images/hsa_street-pulse_rule.png"></div>
 </div>
-<div><a href="http://hsalinks.com/1aU57E9" target="_blank"><img src="http://sa-media.s3.amazonaws.com/sa_site_images/SPApp-260x100.jpg" border="0"></a></div>
+<div><a href="http://hsalinks.com/1aU57E9" target="_blank"><img src="http://sa-media.s3.amazonaws.com/sa_ads/streetpulse-app/SPApp-240x100.jpg" border="0"></a></div>
 </div>
 
 </div>
@@ -1285,12 +1387,12 @@ border: 1px solid #BD9CB1;
 <div>
 
 
-	<div class="hsa_specials_promo_container"><a alt="Mcdonald House Charities’ Share A Night Gala" href="http://www.midweek.com/mcdonald-house-charities-share-night-gala/" target="_blank">  <img width="150" height="100" border="0" align="left" class="hsa_8px_right" src="http://sa-media.s3.amazonaws.com/images/tiles/HL-RSVP-112313-McDonald-LT-14.jpg" alt=""></a>   <span class="hsa_specials_promo_title"><a alt="Mcdonald House Charities’ Share A Night Gala" href="http://www.midweek.com/mcdonald-house-charities-share-night-gala/" target="_blank">Mcdonald House Charities’ Share A Night Gala</a></span><br>
-Ronald McDonald House Charities of Hawaii hosted its annual Share A Night gala Nov. 23 at Sheraton Waikiki. <span class="hsa_specials_promo_read-more">  <a alt="Mcdonald House Charities’ Share A Night Gala" href="http://www.midweek.com/mcdonald-house-charities-share-night-gala/" target="_blank">Read More&nbsp;»</a></span></div>
+	<div class="hsa_specials_promo_container"><a href="http://www.midweek.com/home/midweek-cover-story/jed-gaines-read-aloud-america/" target="_blank">  <img width="150" height="100" border="0" align="left" class="hsa_8px_right" src="http://sa-media.s3.amazonaws.com/images/tiles/covershot0625.jpg" alt=""></a>   <span class="hsa_specials_promo_title"><a href="http://www.midweek.com/home/midweek-cover-story/jed-gaines-read-aloud-america/" target="_blank"> Sharing The Joys Of Reading Aloud </a></span><br>
+Jed Gaines has seen again and again the powerful benefits of parents reading with children, but now a cut in funding imperils Read Aloud America, the organization he founded  <span class="hsa_specials_promo_read-more">  <a href="http://www.midweek.com/home/midweek-cover-story/jed-gaines-read-aloud-america/" target="_blank">Read More&nbsp;»</a></span></div>
 <div style="clear:both;">&nbsp;</div>
 
-<div class="hsa_specials_promo_container"><a alt="The Ugly Christmas Sweater Fun Run" href="http://www.midweek.com/ugly-christmas-sweater-fun-run/" target="_blank">  <img width="150" height="100" border="0" align="left" class="hsa_8px_right" src="http://sa-media.s3.amazonaws.com/images/tiles/MW-OTM-122513-uglysweater.jpg" alt=""></a>   <span class="hsa_specials_promo_title"><a alt="The Ugly Christmas Sweater Fun Run" href="http://www.midweek.com/ugly-christmas-sweater-fun-run/" target="_blank">The Ugly Christmas Sweater Fun Run</a></span><br>
-So, did you get one of those ugly holiday sweaters for Christmas? If so, here’s your chance to show it off and start the new year right with a 5K run at the Waikiki Shell. <span class="hsa_specials_promo_read-more">  <a alt="The Ugly Christmas Sweater Fun Run" href="http://www.midweek.com/ugly-christmas-sweater-fun-run/" target="_blank">Read More&nbsp;»</a></span></div>
+<div class="hsa_specials_promo_container"><a href="http://www.midweek.com/photo-galleries/paina/miss-hawaii-usa-moani-hara-send-party/" target="_blank">  <img width="150" height="100" border="0" align="left" class="hsa_8px_right" src="http://sa-media.s3.amazonaws.com/images/tiles/MW-PAINA-051414-MOANI-AC-4.jpg" alt=""></a>   <span class="hsa_specials_promo_title"><a href="http://www.midweek.com/photo-galleries/paina/miss-hawaii-usa-moani-hara-send-party/" target="_blank"> Miss Hawaii USA Moani Hara Send-off Party </a></span><br>
+Miss Hawaii USA Moani Hara celebrated her send-off to compete for the title of Miss USA with a May 14 party at M Nightclub.  <span class="hsa_specials_promo_read-more">  <a href="http://www.midweek.com/photo-galleries/paina/miss-hawaii-usa-moani-hara-send-party/" target="_blank">Read More&nbsp;»</a></span></div>
 <div style="clear:both;">&nbsp;</div>
 
 </div>
@@ -1343,8 +1445,8 @@ google_ad_height = 250;
 		
 		<div class="mostReadLinkArea bBorderGrey">
 			<a id="todayLink" onclick="return switchMostRead('today');" href="#" class="selectedMRSLink">Most Read</a> 
+			<a id="printedLink" onclick="return switchMostRead( 'printed');" href="#" class="MRSLink">Commented</a>
 			<a id="emailedLink" onclick="return switchMostRead( 'emailed');" href="#" class="MRSLink">E-Mailed</a>
-			<a id="printedLink" onclick="return switchMostRead( 'printed');" href="#" class="MRSLink">Printed</a>
 		</div>
 	
 	<div class="clearAll"></div>
@@ -1385,15 +1487,15 @@ google_ad_height = 250;
 					
 
 										
-																					
 																
 																					
-																					
+																
+																
+																															
+																															
 																					
 																
-																					
-																					
-																					
+																
 																					
 																
 						
@@ -1404,40 +1506,40 @@ google_ad_height = 250;
 
 			
 													  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20131228_Accident_closes_westbound_lanes_of_Farrington_Highway.html">Police: Speed was a factor in crash that killed 3 people</a></div> 
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_Police_investigating_mans_death_in_Portlock.html?ID=264456771">Surfer who died off Portlock is identified</a></div> 
 												
 				  																			  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20131228_Obamas_spending_the_afternoon_at_North_Shore_barbeque.html">Obamas back in Kailua after North Shore barbeque</a></div> 
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/newspremium/20140624__Hawaiians_reject_federal_input.html?ID=264368371">Hawaiians reject federal input</a></div> 
 												
 				  																			  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/newspremium/20131229__Homeless_man_had_sought_public_office.html">Homeless man had sought public office</a></div> 
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140623_worms_make_some_fish_unsuitable_for_sashimi.html?ID=264343301">Worms make some fish unsuitable for sashimi</a></div> 
 												
 				  																			  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/237827351.html">Pedestrian in his 80s critically injured when hit by car</a></div> 
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_Chinas_gift_causes_big_trouble_for_tiny_Tonga.html?ID=264421981">China's gift causes big trouble for tiny Tonga</a></div> 
 												
 				  																			  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20131229_Man_55_seriously_injured_in_Beretania_St_pedestrian_accident.html">Man, 55, seriously injured in Beretania St. pedestrian accident</a></div> 
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/sportspremium/20140624__UH_running_back_Wily_expected_to_retire.html?ID=264366651">UH running back Wily expected to retire</a></div> 
 												
 				  																			  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/237823571.html">15-year sentence handed down in meth, gambling case</a></div> 
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/sportspremium/20140624_Letting_loose.html?ID=264368641">Letting loose</a></div> 
 												
 				  																			  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/newspremium/20131229__Obamas_head_to_North_Shore_for_friends_annual_barbecue.html">Obamas head to North Shore for friend's annual barbecue</a></div> 
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_World_Cup_Uruguay_player_accused_of_biting.html?ID=264467081">Bite by Uruguay player spoils World Cup match</a></div> 
 												
 				  																			  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20131228_Shoji_returning_for_40th_season_with_Rainbow_Wahine.html">Shoji returning for 40th season with Rainbow Wahine</a></div> 
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_Police_receive_report_of_downed_aircraft_near_H2_freeway.html?ID=264519551">No injuries after Cessna goes down off H-2 freeway</a></div> 
 												
 				  																			  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/newspremium/20131229__Family_friends_share_stories__of_activists_grace_dedication_.html">Family, friends share stories of activist's grace, dedication</a></div> 
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_Whole_Foods_to_pay_800K_to_close_overpricing_case.html?ID=264462991">Whole Foods to pay $800K to close overpricing case</a></div> 
 												
 				  																			  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20131228_Weidman_defends_UFC_belt_when_Silva_injures_leg.html">Weidman defends UFC belt when Silva injures leg</a></div> 
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/businesspremium/20140624__TSA_fee_on_airline_tickets_to_double.html?ID=264348841">TSA fee on airline tickets to double</a></div> 
 												
 				  																			  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20131228_Shark_sightings_close_Kapalua_beach.html">Shark sightings close Kapalua beach</a></div> 
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_Navy_RIMPAC_exercises_could_affect_garage_door_openers.html?ID=264449761">Navy: RIMPAC exercises could affect garage door openers</a></div> 
 												
 				  																			  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/19040101_Man_slain_in_Ariz_linked_to_Miss_officers_death.html">Man slain in Ariz. linked to cross-country crime spree</a></div> 
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_Soldier_found_at_Kaena_Point_died_of_carbon_monoxide_poisoning.html?ID=264451261">Cause of death determined for soldier found at Kaena Point</a></div> 
 												
 				  												
 			<a href="/mostpopular?period=D&amp;numItems=25" class="moreLink listPosition">Complete List &gt;&gt;</a>
@@ -1476,17 +1578,17 @@ google_ad_height = 250;
 					
 
 										
+																
+																
 																					
 																					
-																
-																
-																															
-																
-																
+																					
 																					
 																
 																
 																					
+																					
+																
 						
 
 
@@ -1494,29 +1596,29 @@ google_ad_height = 250;
 
 
 													  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/businesspremium/20131229__Coffee_fruit_fuels_entrepreneur.html">Coffee fruit fuels entrepreneur</a></div>
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_Doctors_to_parents_Start_reading_to_kids_early.html?ID=264428961">Doctors to parents: Start reading to kids early</a></div>
 																						  													  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/newspremium/20131229__Homeless_man_had_sought_public_office.html">Homeless man had sought public office</a></div>
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_Navy_RIMPAC_exercises_could_affect_garage_door_openers.html?ID=264449761">Navy: RIMPAC exercises could affect garage door openers</a></div>
 																						  													  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/specialprojects/2013/master-plan/20130908__Top_of_its_class.html">Top of its class</a></div>
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/businesspremium/20140624__ExCEO_of_bank_plans_retail_site.html?ID=264348851">Ex-CEO of bank plans retail site</a></div>
 																						  													  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/237563541.html">Police release suspect photos from two more Oahu robberies</a></div>
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/newspremium/20140624__Hawaiians_reject_federal_input.html?ID=264368371">Hawaiians reject federal input</a></div>
 																						  													  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/travelpremium/20131229__Museums_historic_relics_illuminate_plantation_era.html">Museum's historic relics illuminate plantation era</a></div>
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/featurespremium/20140624_Balancing_act.html?ID=264365051">Balancing act</a></div>
 																						  													  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20131228_Shark_sightings_close_Kapalua_beach.html">Shark sightings close Kapalua beach</a></div>
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/featurespremium/Bruddah_Lippys_helmet_on_way_home.html?ID=264364551">Bruddah Lippy’s helmet on way home</a></div>
 																						  													  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20131228_Obamas_spending_the_afternoon_at_North_Shore_barbeque.html">Obamas back in Kailua after North Shore barbeque</a></div>
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_Maui_named_the_worlds_top_Hawaii_getaway.html?ID=264428641">Maui named the world's top Hawaii getaway</a></div>
 																						  													  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/newspremium/20131223_law_less_alluring_as_field_of_study.html">Law less alluring as field of study</a></div>
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_Chinese_navy_ships_arrives_in_Pearl_Harbor_for_RIMPAC.html?ID=264479201">Chinese navy ships arrive in Pearl Harbor for RIMPAC</a></div>
 																						  													  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/237822661.html">No beer led to ceramic squirrel stabbing, police say</a></div>
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/newspremium/20140624__Level_of_chemical_in_isle_water_high_but_deemed_OK.html?ID=264368381">Level of chemical in isle water high but deemed OK</a></div>
 																						  													  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/237823061.html">Hawaii plays underdog in quest for Obama library</a></div>
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/newspremium/20140624_Church_listed_as_endangered_piece_of_the_past.html?ID=264368311">Church listed as 'endangered' piece of the past</a></div>
 																						  													  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20131228_Accident_closes_westbound_lanes_of_Farrington_Highway.html">Police: Speed was a factor in crash that killed 3 people</a></div>
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_Whole_Foods_to_pay_800K_to_close_overpricing_case.html?ID=264462991">Whole Foods to pay $800K to close overpricing case</a></div>
 																						  													  										  
-											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20131228_Facility_in_New_York_last_hope_for_Jahi_McMath.html">Time short to find new facility for Jahi McMath</a></div>
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_Police_receive_report_of_downed_aircraft_near_H2_freeway.html?ID=264519551">No injuries after Cessna goes down off H-2 freeway</a></div>
 																						  						
 			<a href="/mostpopular?period=W&amp;numItems=25" class="moreLink listPosition">Complete List &gt;&gt;</a>
 			<br clear="all">&nbsp;
@@ -1527,20 +1629,80 @@ google_ad_height = 250;
 
 
 <!--$sectionID-->
-	
+			
+				
+							
+				
+							
+				
+							
+				
+							
+				
+							
+				
+							
+				
+							
+				
+							
+				
+							
+				
+							
+				
+							
+				
+					
 
-
-
-
-
-
-
+										
+																					
+																					
+																					
+																					
+																					
+																					
+																															
+																															
+																
+																					
+																
 						
+
+
+
+
+
+																  										  
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/newspremium/20140624__Hawaiians_reject_federal_input.html?ID=264368371">Hawaiians reject federal input</a>&nbsp;-&nbsp;267&nbsp;Comments</div>
+																						  													  										  
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/newspremium/20140624__Deedys_request__to_toss_out_charge_is_rejected_by_judge_.html?ID=264368411">Deedy's request to toss out charge is rejected by judge</a>&nbsp;-&nbsp;102&nbsp;Comments</div>
+																						  													  										  
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/editorialspremium/264356841.html?ID=264356841">Letters to the Editor</a>&nbsp;-&nbsp;85&nbsp;Comments</div>
+																						  													  										  
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/newspremium/20140624__Level_of_chemical_in_isle_water_high_but_deemed_OK.html?ID=264368381">Level of chemical in isle water high but deemed OK</a>&nbsp;-&nbsp;31&nbsp;Comments</div>
+																						  													  										  
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/businesspremium/20140624__TSA_fee_on_airline_tickets_to_double.html?ID=264348841">TSA fee on airline tickets to double</a>&nbsp;-&nbsp;26&nbsp;Comments</div>
+																						  													  										  
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/sportspremium/20140624__UH_running_back_Wily_expected_to_retire.html?ID=264366651">UH running back Wily expected to retire</a>&nbsp;-&nbsp;23&nbsp;Comments</div>
+																						  													  										  
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/sportspremium/20140624_Letting_loose.html?ID=264368641">Letting loose</a>&nbsp;-&nbsp;20&nbsp;Comments</div>
+																						  													  										  
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/businesspremium/20140624__ExCEO_of_bank_plans_retail_site.html?ID=264348851">Ex-CEO of bank plans retail site</a>&nbsp;-&nbsp;19&nbsp;Comments</div>
+																						  													  										  
+											  				<div class="blogItem left clearAll"><div class="sa_accessLarge" style="top:2px;"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/star_access.jpg" border="0"></div>&nbsp;<a href="http://www.staradvertiser.com/newspremium/20140624_Meeting_to_tackle_medical_pot_dispensary.html?ID=264368361">Meeting to tackle medical pot dispensary</a>&nbsp;-&nbsp;19&nbsp;Comments</div>
+																						  													  										  
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_Abercrombie_Ige_debate_blame_for_Hawaiis_issues.html?ID=264495911">Abercrombie, Ige debate blame for Hawaii's issues</a>&nbsp;-&nbsp;18&nbsp;Comments</div>
+																						  													  										  
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_Navy_RIMPAC_exercises_could_affect_garage_door_openers.html?ID=264449761">Navy: RIMPAC exercises could affect garage door openers</a>&nbsp;-&nbsp;16&nbsp;Comments</div>
+																						  													  										  
+											  				<div class="blogItem left clearAll"><a href="http://www.staradvertiser.com/news/breaking/20140624_Whole_Foods_to_pay_800K_to_close_overpricing_case.html?ID=264462991">Whole Foods to pay $800K to close overpricing case</a>&nbsp;-&nbsp;16&nbsp;Comments</div>
+																						  						
 			<a href="/mostpopular?period=W&amp;numItems=25" class="moreLink listPosition">Complete List &gt;&gt;</a>
 			<br clear="all">&nbsp;
 		</div>
 		</div>
-		<div class="sb_2010_overflow_sponsor">
+		<div class="sb_2010_overflow_sponsor" style="display:none">
 			Sponsored by <a href="http://www.simplyorganized.net/" onclick="_gaq.push(['_trackEvent', 'Click', 'Link', '/SimplyOrganized/http://www.simplyorganized.net/']);" target="_blank">Simply Organized</a>
 		</div>
 		</div>
@@ -1550,6 +1712,12 @@ google_ad_height = 250;
 </div>
 
 <div class="twelvepix"></div>
+
+<!---- ROBOTICS TILE ----->
+
+<!-- <div style="width:100%; height:auto; margin-bottom:15px;"><a target="_blank" href="http://www.friendsofhawaiirobotics.org/"> <img width="320" height="100" border="0" alt="Friends of Hawaii Robotics" src="http://sa-media.s3.amazonaws.com/sa_promos/images/FriendsofHawaiiRobotics-320x100-4.jpg" /></a></div> -->
+
+<!----- END ROBOTICS ----->
 
 <!-- BEGIN:ADVERTISEMENTS -->
 <!--start AdSense-->
@@ -1744,6 +1912,8 @@ google_skip = google_adnum; /* to skip for multiple units, insert this snippet f
 
 <p style="text-align: center;"><a style="border: 0pt none;" href="http://www.honolulupulse.com/?p=50949"><img border="0" alt="" src="http://media.staradvertiser.com/images/20111009_ilima_promo_320x100.jpg" width="300" height="80" /></a></p>
 
+<p style="text-align: center;"><a style="border: 0pt none;" href="http://www.friendsofhawaiirobotics.org/"><img border="0" alt="" src="http://www.saproofs.com/friendsofhawaiirobotics/12/FriendsofHawaiiRobotics-320x100-6.jpg" width="300" height="80" /></a></p>
+
 
 </div> -->
 
@@ -1793,7 +1963,8 @@ google_skip = google_adnum; /* to skip for multiple units, insert this snippet f
 <div>
 
 
-	<div style="margin-top: 10px; margin-bottom: 10px;"><a href="http://www.staradvertiser.com/specialprojects/2013/Hawaiis_Best_2013.html"><img src="http://sa-media.s3.amazonaws.com/images/tiles/HawaiisBest2013_320x100.jpg" width="320" height="100" border="0" alt=""></a></div>
+	<!--CONTAINER ID 252995041-->
+<p><a href="http://www.staradvertiser.com/hawaiitalks/"><img src="http://sa-media.s3.amazonaws.com/sa_site_images/HawaiiTalks-Promo-320x100.jpg" border="0" width="320&quot;" height="100" alt=""></a></p>
 
 </div>
 
@@ -1817,55 +1988,7 @@ google_skip = google_adnum; /* to skip for multiple units, insert this snippet f
 <div>
 
 
-	<div style="margin-top: 10px; margin-bottom: 10px;"><a href="http://staradvertiser.com/specialprojects/2013/kahuku-village/"><img src="http://media.staradvertiser.com/images/kahuku-special-section.jpg" width="320" height="100" border="0" alt=""></a></div>
-
-</div>
-
-
-			  
-	
- 
-   
- 
-
- 
-
-			
-								
-						
-			 			 
- 	 		
-
-
-
-<div>
-
-
-	<div style="margin-top: 10px; margin-bottom: 10px;"><a target="_blank" style="border: 0pt none;" href="http://www.honolulupulse.com/2013/10/ilima-2013/"><img width="320" height="100" border="0" alt="" src="http://media.bclocalnews.com/images/IlimaAwards2013_300x94.jpg"></a></div>
-
-</div>
-
-
-			  
-	
- 
-   
- 
-
- 
-
-			
-								
-						
-			 			 
- 	 		
-
-
-
-<div>
-
-
-	<div style="width:100%; height:auto; margin-bottom:15px;"><a href="http://www.friendsofhawaiirobotics.org/" target="_blank"> <img src="http://www.saproofs.com/friendsofhawaiirobotics/7/FriendsofHawaiiRobotics-320x100-4.jpg" border="0" alt="Friends of Hawaii Robotics" width="320" height="100"></a></div>
+	<div style="width:100%; height:auto; margin-bottom:15px;"><a target="_blank" href="http://www.friendsofhawaiirobotics.org/"> <img width="320" height="100" border="0" alt="Friends of Hawaii Robotics" src="http://sa-media.s3.amazonaws.com/sa_promos/images/FriendsofHawaiiRobotics-320x100-6.jpg"></a></div>
 
 </div>
 
@@ -1974,248 +2097,266 @@ google_skip = google_adnum; /* to skip for multiple units, insert this snippet f
 				
 <!--include file="include/inside_starbulletincom_hp_storypage.html" -->
 
+    </div><!-- /Paper Area -->
 
+    <br clear="all">
 
-		</div><!-- /Paper Area -->
+</div> <!-- /Content Area -->
 
-	<br clear="all">
-		
-	</div> <!-- /Content Area -->
-	
  <!-- /Star Advertiser -->
 
 <br clear="all">
+
+
+
+
 <div id="hsa_bottom_leaderboard">
-	<center>
-		<!-- Javascript tag: -->
-		<!-- begin ZEDO for channel: StarAdvertiser - BTF , publisher: Star Advertiser , Ad Dimension: Super Banner - 728 x 90 -->
-		<script language="JavaScript">
-		var zflag_nid="2252"; var zflag_cid="2"; var zflag_sid="1"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="14";
-		</script>
-		<script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
-		<!-- end ZEDO for channel: StarAdvertiser - BTF , publisher: Star Advertiser , Ad Dimension: Super Banner - 728 x 90 -->
-	</center>
+    <center>
+        <!-- Javascript tag: -->
+        <!-- begin ZEDO for channel:  StarAdvertiser - BTF , publisher: Star Advertiser , Ad Dimension: Super Banner - 728 x 90 -->
+        <script language="JavaScript">
+            var zflag_nid="2252"; var zflag_cid="2"; var zflag_sid="1"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="14";
+        </script>
+        <script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
+        <!-- end ZEDO for channel:  StarAdvertiser - BTF , publisher: Star Advertiser , Ad Dimension: Super Banner - 728 x 90 -->
+    </center>
 </div>
 <br clear="all">
-	  		
-  <!--Start Footer-->
-  <div id="hsa_footer">
+
+<!--Start Footer-->
+
+<!-- BEGIN SITE INDEX -->
+<div id="hsa_footer">
     <div class="hsa_footer_col">
-      <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/" title="Honolulu Star-Advertiser homepage - www.staradvertiser.com">Home</a></div>
-      <li><a class="hsa_footer_link" href="/archives/" title="Hawaii's newspaper archives">Back Issues</a></li>
-      <li><a class="hsa_footer_link" href="/news/corrections/">Corrections</a></li>
-      <li><a class="hsa_footer_link" href="/eedition/">e-Edition</a></li>
-      <li><a class="hsa_footer_link" href="/tvweek/">TV Week</a></li>
-
-      <li><a class="hsa_footer_link" href="http://movies.staradvertiser.com/" title="Hawaii's leading movie show time source">Movie Showtimes</a></li>
-      <li><a class="hsa_footer_link" href="http://weather5.staradvertiser.com/" title="Hawaii's leading weather and surf source">Weather and Surf</a></li>
-      <li><a class="hsa_footer_link" href="/rss/">RSS</a></li>
-      <li><a class="hsa_footer_link" href="http://twitter.com/staradvertiser">Twitter</a></li>
-      <li><a class="hsa_footer_link" href="http://www.facebook.com/staradvertiser">Facebook</a></li>
-      <li><a class="hsa_footer_link" href="/about/Star_Advertiser_Contact_Information.html#advertising">Place My Ad</a></li>
-      <!--<li><a href="http://gallery.pictopia.com/oahupub/">Purchase Photos</a></li>-->
-
-      <li><a class="hsa_footer_link" href="/about/sa_terms_of_service.html">Terms of Service</a></li>
-      <li><a class="hsa_footer_link" href="/about/sa_privacy_policy.html">Privacy Policy</a></li>
-      <li><a class="hsa_footer_link" href="/about/Star_Advertiser_Contact_Information.html#newsroom">Contact Us</a></li>
-      <li><a class="hsa_footer_link" href="/about/">About Us</a></li>
-    </div>
-    <div class="hsa_footer_col">
-      <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/news/" title="Hawaii's leading news source">News</a></div>
-
-      <li><a class="hsa_footer_link" href="/newspremium/newswatchpremium/">Newswatch</a></li>
-      <li><a class="hsa_footer_link" href="/newspremium/policeandfirepremium/" title="Hawaii's police and fire source">Police and Fire</a></li>
-      <li><a class="hsa_footer_link" href="http://obits.staradvertiser.com" title="Hawaii's obituarie source">Obituaries</a></li>
-      <li><a class="hsa_footer_link" href="/newspremium/vitalstatisticspremium/" title="Hawaii's leading vital statistics source">Vital Statistics</a></li>
-      <li><a class="hsa_footer_link" href="/newspremium/islandimagespremium/" title="Hawaii's leading island images source">Island Images</a></li>
-      <li><a class="hsa_footer_link" href="/newspremium/factsofthematterpremium/">Facts of the Matter</a></li>
-
-      <li><a class="hsa_footer_link" href="/newspremium/fl-ash-backpremium/">flASHback</a></li>
-      <li><a class="hsa_footer_link" href="/newspremium/incidentallivespremium/">Incidental Lives</a></li>
-      <li><a class="hsa_footer_link" href="/newspremium/kokualinepremium/">Kokua Line</a></li>
-      <li><a class="hsa_footer_link" href="/newspremium/leecatalunapremium/">Lee Cataluna</a></li>
-      <li><a class="hsa_footer_link" href="/newspremium/oceanwatchpremium/">Ocean Watch</a></li>
-      <li><a class="hsa_footer_link" href="/newspremium/volcanicashpremium/">Volcanic Ash</a></li>
-
-      <li><a class="hsa_footer_link" href="/news/nyt/">New York Times</a></li>
-      <li><a class="hsa_footer_link" href="/specialprojects/">Special Projects</a></li>
-    </div>
-    <div class="hsa_footer_col">
-      <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/sports" title="Hawaii's leading sports source">Sports</a></div>
-      <li><a class="hsa_footer_link" href="/sportspremium/ferdswordspremium/">Ferd's Words</a></li>
-
-      <li><a class="hsa_footer_link" href="/sportspremium/furtherreviewpremium/">Further Review</a></li>
-    <!-- <li><a class="hsa_footer_link" href="/sportspremium/lifeintheminorspremium/">Life in the Minors</a></li> -->
-      <li><a class="hsa_footer_link" href="http://www.hawaiiprepworld.com/">Hawaii Prep World</a></li>
-      <li><a class="hsa_footer_link" href="/sportspremium/hawaiibeatpremium/">Hawaii Beat</a></li>
-      <li><a class="hsa_footer_link" href="/sportspremium/hawaiigrownreportpremium/">Hawaii Grown Report</a></li>
-      <li><a class="hsa_footer_link" href="/sportspremium/scoreboardspremium/" title="Hawaii's leading sports score source">Scoreboards</a></li>
-
-      <li><a class="hsa_footer_link" href="/sportspremium/tvandradiopremium/" title="Hawaii's leading TV and radio listings">TV and Radio</a></li>
-    </div>
-    <div class="hsa_footer_col">
-      <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/business/" title="Hawaii's leading business source">Business</a></div>
-      <li><a class="hsa_footer_link" href="/businesspremium/thebuzzpremium/">The Buzz</a></li>
-      <li><a class="hsa_footer_link" href="/businesspremium/buylocalpremium/">Buy Local</a></li>
-
-      <li><a class="hsa_footer_link" href="/businesspremium/akamaimoneypremium/">Akamai Money</a></li>
-      <li><a class="hsa_footer_link" href="/businesspremium/healthandmoneypremium/">Wealth of Health</a></li>
-      <li><a class="hsa_footer_link" href="/businesspremium/techviewpremium/">Tech View</a></li>
-      <li><a class="hsa_footer_link" href="/businesspremium/businessbriefspremium/">Business Briefs</a></li>
-      <li><a class="hsa_footer_link" href="/businesspremium/hawaiirealestatesalespremium/">Real Estate Sales</a></li>
-
-      <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/editorials/" title="Hawaii's leading editorial source">Editorials</a></div>
-      <li><a class="hsa_footer_link" href="/editorialspremium/saeditorialspremium/">Our View</a></li>
-     <li><a class="hsa_footer_link" href="/editorialspremium/insight/">Insight</a></li>
-      <li><a class="hsa_footer_link" href="/editorialspremium/guesteditorialspremium/">Guest Columns</a></li>
-      <li><a class="hsa_footer_link" href="/editorials/offthenews/">Off the News</a></li>
-      <li><a class="hsa_footer_link" href="/editorialspremium/letterspremium/">Letters to the Editor</a></li>
-      <li><a class="hsa_footer_link" href="/editorialspremium/nameinthenewspremium/">Name in the News</a></li>
-      <li><a class="hsa_footer_link" href="/editorialspremium/onpoliticspremium/">On Politics</a></li>
-      <li><a class="hsa_footer_link" href="/editorialspremium/underthesunpremium/">Under the Sun</a></li>
-      <li><a class="hsa_footer_link" href="/editorialspremium/kauakukalahalepremium/">Kauakūkalahale</a></li>
+        <div class="hsa_footer_title"><a class="hsa_footer_link" href="/" title="Honolulu Star-Advertiser Frontpage - www.staradvertiser.com">Home Page</a></div>
+        <li><a class="hsa_footer_link" href="/archives/" title="Hawaii's newspaper archives">Back Issues</a></li>
+        <li><a class="hsa_footer_link" href="/news/corrections/">Corrections</a></li>
+        <li><a class="hsa_footer_link" href="/specialprojects/">Special Projects</a></li>
+        <li><a class="hsa_footer_link" href="/multimedia/">Photo Galleries</a></li>
+        <li><a class="hsa_footer_link" href="/features/calendars/">Calendars</a></li>
+        <li><a class="hsa_footer_link" href="/tvweek/">TV Week</a></li>
+        <li><a class="hsa_footer_link" href="http://movies.staradvertiser.com/movies/mvhome.do?aid=honolumvaml" title="Hawaii's leading movie show time source">Movie Theaters</a></li>
+        <li><a class="hsa_footer_link" href="http://weather5.staradvertiser.com/" title="Hawaii's leading weather and surf source">Weather and Surf</a></li>
+        <li><a class="hsa_footer_link" href="/traffic/" title="Hawaii's leading traffic source">Traffic</a></li>
+        <div class="hsa_footer_title">Social and Multimedia</div>
+        <li><a class="hsa_footer_link" href="http://www.facebook.com/staradvertiser">Facebook</a></li>
+        <li><a class="hsa_footer_link" href="http://twitter.com/staradvertiser">Twitter</a></li>
+        <li><a class="hsa_footer_link" href="https://plus.google.com/+StarAdvertiser/">Google+</a></li>
+        <li><a class="hsa_footer_link" href="http://www.youtube.com/user/StarAdvertiser">YouTube</a></li>
+        <li><a class="hsa_footer_link" href="http://www.scribd.com/staradvertiser">Scribd</a></li>
     </div>
 
     <div class="hsa_footer_col">
-      <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/features/" title="Hawaii's leading features source">Features</a></div>
-        <li><a class="hsa_footer_link" href="/featurespremium/byrequestpremium/">By Request</a></li>
-        <li><a class="hsa_footer_link" href="/featurespremium/kdramapremium/">K-Drama</a></li>
-        <li><a class="hsa_footer_link" href="/featurespremium/outtakespremium/">Outtakes</a></li>
-        <li><a class="hsa_footer_link" href="/featurespremium/showbizpremium/">Show Biz</a></li>    
-        <li><a class="hsa_footer_link" href="/featurespremium/healthoptionspremium/">Health Options</a></li>
-        <li><a class="hsa_footer_link" href="/featurespremium/bewellpremium/">Be Well</a></li>
-        <li><a class="hsa_footer_link" href="/featurespremium/tryoutspremium/">Tryouts</a></li>
-        <li><a class="hsa_footer_link" href="/featurespremium/healthscenepremium/">Health Scene</a></li>
-        <li><a class="hsa_footer_link" href="/featurespremium/trainingdaypremium/">Training Day</a></li>
-        <li><a class="hsa_footer_link" href="/featurespremium/thegreenleafpremium/">The Green Leaf</a></li>
-        <li><a class="hsa_footer_link" href="/featurespremium/bytheglasspremium/">By the Glass</a></li>
-        <li><a class="hsa_footer_link" href="/featurespremium/lookingbackpremium/">Looking Back</a></li>
-        <li><a class="hsa_footer_link" href="/featurespremium/electrickitchenpremium/">Electric Kitchen</a></li>
+        <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/news/" title="Hawaii's leading news source">Hawaii News</a></div>
+        <li><a class="hsa_footer_link" href="/newspremium/newswatchpremium/">Newswatch</a></li>
+        <li><a class="hsa_footer_link" href="/newspremium/policeandfirepremium/" title="Hawaii's police and fire source">911 Report</a></li>
+        <li><a class="hsa_footer_link" href="/newspremium/vitalstatisticspremium/" title="Hawaii's leading vital statistics source">Vital Statistics</a></li>
+        <li><a class="hsa_footer_link" href="http://obits.staradvertiser.com/" title="Hawaii's obituary source">Obituaries</a></li>
+        <li><a class="hsa_footer_link" href="/newspremium/islandimagespremium/" title="Hawaii's leading island images source">Island Images</a></li>
+        <li><a class="hsa_footer_link" href="/news/nyt/">New York Times</a></li>
+        <li><a class="hsa_footer_link" href="/newspremium/factsofthematterpremium/">Facts of the Matter</a></li>
+        <li><a class="hsa_footer_link" href="/newspremium/fl-ash-backpremium/">flASHback</a></li>
+        <li><a class="hsa_footer_link" href="/newspremium/incidentallivespremium/">Incidental Lives</a></li>
+        <li><a class="hsa_footer_link" href="/newspremium/keephawaiihawaii/">Keep Hawaii Hawaii</a></li>
+        <li><a class="hsa_footer_link" href="/newspremium/kokualinepremium/">Kokua Line</a></li>
+        <li><a class="hsa_footer_link" href="/newspremium/oceanwatchpremium/">Ocean Watch</a></li>
+        <li><a class="hsa_footer_link" href="/newspremium/skywatchpremium/">Skywatch</a></li>
+        <li><a class="hsa_footer_link" href="/newspremium/volcanicashpremium/">Volcanic Ash</a></li>
 
-        <!--li><a class="hsa_footer_link" href="/featurespremium/lookingbackpremium/">Fresh Tips</a></li>
-        <li><a class="hsa_footer_link" href="/featurespremium/lookingbackpremium/">Hawaii Gardens</a></li>
-        <li><a class="hsa_footer_link" href="/featurespremium/lookingbackpremium/">Laau of Hawaii</a></li-->
+        <div class="hsa_footer_title">Comics</div>
+        <li><a class="hsa_footer_link" href="/features/sundaycomics/bentobox/">Bento Box</a></li>
+        <li><a class="hsa_footer_link" href="/features/sundaycomics/calabash/">Calabash</a></li>
+        <li><a class="hsa_footer_link" href="/features/sundaycomics/nemunemu/">nemu*nemu</a></li>
+        <li><a class="hsa_footer_link" href="/features/sundaycomics/troubleinparadise/">Trouble in Paradise</a></li>
+    </div>
+    <div class="hsa_footer_col">
+        <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/sports" title="Hawaii's leading sports source">Sports</a></div>
+        <li><a class="hsa_footer_link" href="/sportspremium/hawaiibeatpremium/">Hawaii Beat</a></li>
+        <li><a class="hsa_footer_link" href="/sportspremium/scoreboardspremium/" title="Hawaii's leading sports score source">Scoreboards</a></li>
+        <li><a class="hsa_footer_link" href="/sportspremium/tvandradiopremium/" title="Hawaii's leading TV and radio listings">TV and Radio</a></li>
+        <li><a class="hsa_footer_link" href="/sportspremium/ferdswordspremium/">Ferd's Words</a></li>
+        <li><a class="hsa_footer_link" href="/sportspremium/furtherreviewpremium/">Further Review</a></li>
+        <!-- <li><a class="hsa_footer_link" href="/sportspremium/lifeintheminorspremium/">Life in the Minors</a></li> -->
+        <li><a class="hsa_footer_link" href="http://www.hawaiiprepworld.com/" title="Hawaii's leading sports source on High School athletics">Hawaii Prep World</a></li>
+        <li><a class="hsa_footer_link" href="/sportspremium/hawaiigrownreportpremium/" title="Hawaii's leading sports source on athletes from the islands">Hawaii Grown Report</a></li>
 
-        <li><a class="hsa_footer_link" href="/featurespremium/theurbangardenerpremium/">Urban Gardener</a></li>
-        <li><a class="hsa_footer_link" href="/featurespremium/woodcraftpremium/">Woodcraft</a></li>
+
+        <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/business/" title="Hawaii's leading business source">Business</a></div>
+        <li><a class="hsa_footer_link" href="/businesspremium/businessbriefspremium/">Business Briefs</a></li>
+        <li><a class="hsa_footer_link" href="/businesspremium/hawaiirealestatesalespremium/">Real Estate Sales</a></li>
+        <li><a class="hsa_footer_link" href="/businesspremium/akamaimoneypremium/">Akamai Money</a></li>
+        <li><a class="hsa_footer_link" href="/businesspremium/buylocalpremium/">Buy Local</a></li>
+        <li><a class="hsa_footer_link" href="/businesspremium/thebuzzpremium/">The Buzz</a></li>
+        <li><a class="hsa_footer_link" href="/businesspremium/techviewpremium/">Tech View</a></li>
+        <li><a class="hsa_footer_link" href="/businesspremium/healthandmoneypremium/">Wealth of Health</a></li>
         
-        <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/features/calendars/">Calendars</a></div>
+    </div>
+    <div class="hsa_footer_col">
+        <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/features/" title="Hawaii's leading features source">Features</a></div>
+        <li><a class="hsa_footer_link" href="/celebrations/">Weddings and Anniversaries</a></li>
+        <li><a class="hsa_footer_link" href="/featurespremium/bewellpremium/">Be Well</a></li>
+        <li><a class="hsa_footer_link" href="/featurespremium/byrequestpremium/">By Request</a></li>
+        <li><a class="hsa_footer_link" href="/featurespremium/bytheglasspremium/">By the Glass</a></li>
+        <li><a class="hsa_footer_link" href="/featurespremium/eatyourveggiespremium/">Eat Your Veggies</a></li>
+        <li><a class="hsa_footer_link" href="/featurespremium/electrickitchenpremium/">Electric Kitchen</a></li>
+        <li><a class="hsa_footer_link" href="/featurespremium/thegreenleafpremium/">The Green Leaf</a></li>
+        <li><a class="hsa_footer_link" href="/featurespremium/hawaiigardenspremium ">Hawaii Gardens</a></li>
+        <!-- <li><a class="hsa_footer_link" href="/features/hawaiisohana/">Hawaii's Ohana</a></li> -->
+        <li><a class="hsa_footer_link" href="/featurespremium/healthoptionspremium/">Health Options</a></li>
+        <!--<li><a class="hsa_footer_link" href="/featurespremium/healthscenepremium/">Health Scene</a></li>-->
+        <li><a class="hsa_footer_link" href="/featurespremium/kdramapremium/">K-Drama</a></li>
+        <li><a class="hsa_footer_link" href="/featurespremium/lookingbackpremium/">Looking Back</a></li>
+        <li><a class="hsa_footer_link" href="/featurespremium/ontapinhawaii/">On Tap in Hawaii</a></li>
+        <li><a class="hsa_footer_link" href="/featurespremium/outtakespremium/">Outtakes</a></li>
+        <!-- <li><a class="hsa_footer_link" href="/news/petohana/">Pet Ohana</a></li> -->
+        <li><a class="hsa_footer_link" href="/featurespremium/showbizpremium/">Show Biz</a></li>
+        <!--<li><a class="hsa_footer_link" href="/featurespremium/trainingdaypremium/">Training Day</a></li>-->
+        <!--<li><a class="hsa_footer_link" href="/featurespremium/tryoutspremium/">Tryouts</a></li>-->
+        <!--li><a class="hsa_footer_link" href="/featurespremium/lookingbackpremium/">Fresh Tips</a></li>-->
+        <!--<li><a class="hsa_footer_link" href="/featurespremium/lookingbackpremium/">Laau of Hawaii</a></li>-->
+        <li><a class="hsa_footer_link" href="/featurespremium/theurbangardenerpremium/">Urban Gardener</a></li>
+        <li><a class="hsa_footer_link" href="/featurespremium/woodcraftpremium/">Wood Craft</a></li> 
+    </div>
+
+    <div class="hsa_footer_col">         
+        <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/editorials/" title="Hawaii's leading editorial source">Editorials</a></div>
+        <li><a class="hsa_footer_link" href="/editorialspremium/saeditorialspremium/">Our View</a></li>
+        <li><a class="hsa_footer_link" href="/editorialspremium/insight/">Insight</a></li>
+        <li><a class="hsa_footer_link" href="/editorialspremium/guesteditorialspremium/">Guest Columns</a></li>
+        <li><a class="hsa_footer_link" href="/editorials/offthenews/">Off the News</a></li>
+        <li><a class="hsa_footer_link" href="/editorialspremium/letterspremium/">Letters to the Editor</a></li>
+        <li><a class="hsa_footer_link" href="/editorialspremium/nameinthenewspremium/">Name in the News</a></li>
+        <li><a class="hsa_footer_link" href="/editorialspremium/onpoliticspremium/">On Politics</a></li>
+        <!--<li><a class="hsa_footer_link" href="/editorialspremium/underthesunpremium/">Under the Sun</a></li>-->
+        <li><a class="hsa_footer_link" href="/editorialspremium/kauakukalahalepremium/">Kauakūkalahale</a></li>
+        
+        <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/hawaiifive0/">Hawaii Five-0</a></div>
+
+        <div class="hsa_footer_title"> <a class="hsa_footer_link" href="http://www.honolulupulse.com/">Pulse</a></div>
+        <li><a class="hsa_footer_link" href="http://www.honolulupulse.com/category/tgifinprintsummary">TGIF</a></li>
+        <li><a class="hsa_footer_link" href="http://www.honolulupulse.com/category/galleries">Photo Galleries</a></li>
+        <li><a class="hsa_footer_link" href="/featurespremium/onthescenepremium/">On the Scene</a></li>        
+        
+
+        <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/travel/">Travel</a></div>
+        <li><a class="hsa_footer_link" href="/travelpremium/islandhoppingpremium/">Isle Hoppping</a></li>
+        <li><a class="hsa_footer_link" href="http://staycation.staradvertiser.com/" target="_blank">Staycation</a></li>
+        <li><a class="hsa_footer_link" href="/travelpremium/hawaiisbackyardpremium/">Hawaii's Back Yard</a></li>
+        <li><a class="hsa_footer_link" href="/travelpremium/lasvegasadvisorpremium/">Las Vegas Advisor</a></li>
+
+
+        
     </div>
 
     <div class="hsa_footer_col">
-      <div class="hsa_footer_title"> <a class="hsa_footer_link" href="http://www.honolulupulse.com/">Pulse</a></div>
-      <li><a class="hsa_footer_link" href="http://www.honolulupulse.com/category/tgifinprintsummary">includes TGIF</a></li>
-      <li><a class="hsa_footer_link" href="http://www.honolulupulse.com/category/galleries">Photo galleries</a></li>
-      
-      <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/hawaiifive0/">Hawaii Five-0</a></div>
-      
-      <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/multimedia/">Multimedia</a></div>
-      <li><a class="hsa_footer_link" href="http://www.youtube.com/staradvertiser" target="_blank">Video</a></li>
-      
-      <div class="hsa_footer_title"> <a class="hsa_footer_link" href="/travel/">Travel</a></div>
-      <li><a class="hsa_footer_link" href="/travelpremium/hawaiisbackyardpremium/">Hawaii's Back Yard</a></li>
-      <li><a class="hsa_footer_link" href="/travelpremium/islandhoppingpremium/">Isle Hoppping</a></li>
-      <li><a class="hsa_footer_link" href="http://staycation.staradvertiser.com/" target="_blank">Staycation</a></li>
 
-       <div class="hsa_footer_title"> <a class="hsa_footer_title" href="http://dining.staradvertiser.com/">Dining Out</a> </div>
+        <div class="hsa_footer_title">Information</div>
+        <li><a class="hsa_footer_link" href="/about/Star_Advertiser_Contact_Information.html#newsroom">News Tips/Contact</a></li>
+        <li><a class="hsa_footer_link" href="/about/Star_Advertiser_Contact_Information.html#advertising">Advertise</a></li>
+        <!-- <li><a href="http://gallery.pictopia.com/oahupub/">Purchase Photos</a></li> -->
+        <li><a class="hsa_footer_link" href="/about/sa_terms_of_service.html">Terms of Service</a></li>
+        <li><a class="hsa_footer_link" href="/about/sa_privacy_policy.html">Privacy Policy</a></li>
+        <li><a class="hsa_footer_link" href="/about/">About Us</a></li>
 
-       <!-- <div class="hsa_footer_title"> <a class="hsa_footer_title" href="http://comics.staradvertiser.com/">Comics</a> </div> -->
+        <div class="hsa_footer_title">Other Formats</div>
+        <li><a class="hsa_footer_link" href="/eedition/">Print Replica</a></li>
+        <li><a class="hsa_footer_link" href="https://itunes.apple.com/us/app/honolulu-star-advertiser/id557767262?mt=8">iPhone/iPad/iPod</a></li>
+        <li><a class="hsa_footer_link" href="https://play.google.com/store/apps/details?id=com.staradvertiser.sanewsapp">Android</a></li>
+        <li><a class="hsa_footer_link" href="/rss/">RSS/XML</a></li>
 
-       <div class="hsa_footer_title"> <a class="hsa_footer_title" href="http://games.staradvertiser.com/">Games</a> </div>
-
+        <div class="hsa_footer_title"> <a class="hsa_footer_title" href="http://dining.staradvertiser.com/">Dining Out</a> </div>
+        <li><a class="hsa_footer_link" href="/featurespremium/weeklyeaterpremium/">Weekly Eater</a></li>
+        
+        <div class="hsa_footer_title"> <a class="hsa_footer_title" href="http://games.staradvertiser.com/">Games</a> </div>
     </div>
     <div class="hsa_footer_col">
-      <div class="hsa_footer_title"> <a class="hsa_footer_link" href="http://www.hawaiiislandhomes.com/" title="Hawaii's leading real estate sale, rental and foreclosure site">Homes</a></div>
-      <li><a class="hsa_footer_link" href="http://hawaiirenovation.staradvertiser.com/">Hawaii Renovation</a></li>
-      <li><a class="hsa_footer_link" href="/about/Star_Advertiser_Contact_Information.html#advertising">Place My Ad</a></li>
-      <li><a class="hsa_footer_link" href="http://homes.hawaiiislandhomes.com/properties/search/searchForm.php?qTerms=sell&amp;qSearchTab=mlsonly" title="Oahu Hawaii's MLS listings">Listings</a></li>
-      <li><a class="hsa_footer_link" href="http://homes.hawaiiislandhomes.com/properties/search/searchForm.php?qTerms=rent&amp;qSearchTab=rent" title="Oahu Hawaii's rental listings">Rentals</a></li>
+        <div class="hsa_footer_title"> <a class="hsa_footer_link" href="http://www.hawaiiislandhomes.com/" title="Hawaii's leading real estate sale, rental and foreclosure site">Homes</a></div>
+        <li><a class="hsa_footer_link" href="http://hawaiirenovation.staradvertiser.com/">Hawaii Renovation</a></li>
+        <li><a class="hsa_footer_link" href="/about/Star_Advertiser_Contact_Information.html#advertising">Place My Ad</a></li>
+        <li><a class="hsa_footer_link" href="http://homes.hawaiiislandhomes.com/properties/search/searchForm.php?qTerms=sell&amp;qSearchTab=mlsonly" title="Oahu Hawaii's MLS listings">Listings</a></li>
+        <li><a class="hsa_footer_link" href="http://homes.hawaiiislandhomes.com/properties/search/searchForm.php?qTerms=rent&amp;qSearchTab=rent" title="Oahu Hawaii's rental listings">Rentals</a></li>
 
-      <li><a class="hsa_footer_link" href="http://homes.hawaiiislandhomes.com/properties/search/searchForm.php?qTerms=sell&amp;qSearchTab=foreclosures" title="Oahu Hawaii's foreclosure listings">Foreclosures</a></li>
-      <li><a class="hsa_footer_link" href="http://homes.hawaiiislandhomes.com/properties/search/searchForm.php?qSearchTab=agent" title="Oahu Hawaii's agent listings">Find an Agent</a></li>
-      <li><a class="hsa_footer_link" href="http://homes.hawaiiislandhomes.com/properties/search/searchForm.php?qTerms=sell&amp;qSearchTab=sell" title="Oahu Hawaii's for sale listings">Homes</a></li>
-      <div class="hsa_footer_title"> <a class="hsa_footer_link" href="http://hawaiijobs.monster.com//" title="Hawaii's leading employment site">Jobs</a></div>
-      <li><a class="hsa_footer_link" href="/about/Star_Advertiser_Contact_Information.html#advertising">Place My Ad</a></li>
-      <li><a class="hsa_footer_link" href="http://hawaiijobs.monster.com/">Monster.com</a></li>
+        <li><a class="hsa_footer_link" href="http://homes.hawaiiislandhomes.com/properties/search/searchForm.php?qTerms=sell&amp;qSearchTab=foreclosures" title="Oahu Hawaii's foreclosure listings">Foreclosures</a></li>
+        <li><a class="hsa_footer_link" href="http://homes.hawaiiislandhomes.com/properties/search/searchForm.php?qSearchTab=agent" title="Oahu Hawaii's agent listings">Find an Agent</a></li>
+        <li><a class="hsa_footer_link" href="http://homes.hawaiiislandhomes.com/properties/search/searchForm.php?qTerms=sell&amp;qSearchTab=sell" title="Oahu Hawaii's for sale listings">Homes</a></li>
+        <div class="hsa_footer_title"> <a class="hsa_footer_link" href="http://hawaiijobs.staradvertiser.com/" title="Hawaii's leading employment site">Jobs</a></div>
+        <li><a class="hsa_footer_link" href="/about/Star_Advertiser_Contact_Information.html#advertising">Place My Ad</a></li>
+        <li><a class="hsa_footer_link" href="http://hawaiijobs.staradvertiser.com/">Monster.com</a></li>
 
-      <div class="hsa_footer_title"> <a class="hsa_footer_link" href="http://cars.staradvertiser.com/" target="_blank" title="Hawaii's leading automotive site">Cars</a></div>
-      <li><a class="hsa_footer_link" href="/about/Star_Advertiser_Contact_Information.html#advertising">Place My Ad</a></li>
-      <li><a class="hsa_footer_link" href="http://cars.staradvertiser.com/" target="_blank">Hawaiis Cars</a></li>
-      <li><a class="hsa_footer_link" href="http://cars.staradvertiser.com/" target="_blank">AutoTrader.com</a></li>
+        <div class="hsa_footer_title"> <a class="hsa_footer_link" href="http://cars.staradvertiser.com/" target="_blank" title="Hawaii's leading automotive site">Cars</a></div>
+        <li><a class="hsa_footer_link" href="/about/Star_Advertiser_Contact_Information.html#advertising">Place My Ad</a></li>
+        <li><a class="hsa_footer_link" href="http://cars.staradvertiser.com/" target="_blank">Hawaiis Cars</a></li>
+        <li><a class="hsa_footer_link" href="http://cars.staradvertiser.com/" target="_blank">AutoTrader.com</a></li>
     </div>
     <div class="hsa_footer_col">
 
-      <div class="hsa_footer_title"> <a class="hsa_footer_link" href="http://www.hawaiisclassifieds.com/" title="Hawaii's leading classified site">Classifieds</a></div>
-      <li><a class="hsa_footer_link" href="/about/Star_Advertiser_Contact_Information.html#advertising">Place My Ad</a></li>
-      <li><a class="hsa_footer_link" href="http://obits.staradvertiser.com" title="Hawaii's obituarie source">Obituaries</a></li>
-      <li><a class="hsa_footer_link" href="http://cars.staradvertiser.com/" target="_blank">Cars</a></li>
+        <div class="hsa_footer_title"> <a class="hsa_footer_link" href="http://www.hawaiisclassifieds.com/" title="Hawaii's leading classified site">Classifieds</a></div>
+        <li><a class="hsa_footer_link" href="/about/Star_Advertiser_Contact_Information.html#advertising">Place My Ad</a></li>
+        <li><a class="hsa_footer_link" href="http://obits.staradvertiser.com" title="Hawaii's obituarie source">Obituaries</a></li>
+        <li><a class="hsa_footer_link" href="http://cars.staradvertiser.com/" target="_blank">Cars</a></li>
 
-      <li><a class="hsa_footer_link" href="http://hawaiijobs.monster.com/">Jobs</a></li>
-      <li><a class="hsa_footer_link" href="http://secure.adpay.com/searchresults.aspx?catid=1004&amp;pid=30317542665635565749382B643066356B6951776E673D3D">Foreclosures</a></li>
-      <li><a class="hsa_footer_link" href="http://homes.hawaiiislandhomes.com/properties/search/searchForm.php">Homes</a></li>
-      <div class="hsa_footer_title"> Member Services</div>
-      <li><a class="hsa_footer_link" href="/manage/Login">Log In</a></li>
-      <li><a class="hsa_footer_link" href="/s?action=doLogout&amp;rurl=http://www.staradvertiser.com/?logout=y">Log Out</a></li>
-      <li><a class="hsa_footer_link" href="http://www.staradvertiser.com/manage/change_password/">Change Password</a></li>
-      <li><a class="hsa_footer_link" href="http://www.staradvertiser.com/manage/password_reminder/">Forgot Password</a></li>
-      <li><a class="hsa_footer_link" href="https://gateway.staradvertiser.com/myaccount/login.php">Manage Online Account</a></li>
+        <li><a class="hsa_footer_link" href="http://hawaiijobs.staradvertiser.com/">Jobs</a></li>
+        <li><a class="hsa_footer_link" href="http://secure.adpay.com/searchresults.aspx?catid=1004&amp;pid=30317542665635565749382B643066356B6951776E673D3D">Foreclosures</a></li>
+        <li><a class="hsa_footer_link" href="http://homes.hawaiiislandhomes.com/properties/search/searchForm.php">Homes</a></li>
+        <div class="hsa_footer_title"> Member Services</div>
+        <li><a class="hsa_footer_link" href="/manage/Login">Log In</a></li>
+        <li><a class="hsa_footer_link" href="/s?action=doLogout&amp;rurl=http://www.staradvertiser.com/?logout=y">Log Out</a></li>
+        <li><a class="hsa_footer_link" href="http://www.staradvertiser.com/manage/change_password/">Change Password</a></li>
+        <li><a class="hsa_footer_link" href="http://www.staradvertiser.com/manage/password_reminder/">Forgot Password</a></li>
+        <li><a class="hsa_footer_link" href="https://gateway.staradvertiser.com/myaccount/login.php">Manage Online Account</a></li>
 
-
-
-      <div class="hsa_footer_title"> <a class="hsa_footer_link" href="http://www.oahupublications.com/">Advertising Media Kit</a></div>
-      <br>
-      <br>
+        <div class="hsa_footer_title"> <a class="hsa_footer_link" href="http://www.oahupublications.com/">Advertising Media Kit</a></div>
+        <br>
+        <br>
     </div>
     <div style="clear:both"></div>
-  </div>
-  <div id="hsa_footer_row_top" align="center">
-    <div id="hsa_footer_row_top_text"><a href="http://www.staradvertiser.com/news" target="_blank">News</a> | <a href="http://hawaiijobs.monster.com/">Jobs</a> | <a href="http://cars.staradvertiser.com/">Cars for Sale</a> | <a href="http://www.hawaiiislandhomes.com/rental/">Hawaii Rentals</a> | <a href="https://gateway.staradvertiser.com/customer-service/">Customer Service</a></div>
+</div>
+<!-- END SITE INDEX -->
 
-  </div>
+<div id="hsa_footer_row_top" align="center">
+    <div id="hsa_footer_row_top_text"><a href="http://www.staradvertiser.com/news" target="_blank">News</a> | <a href="http://hawaiijobs.staradvertiser.com/">Jobs</a> | <a href="http://cars.staradvertiser.com/">Cars for Sale</a> | <a href="http://www.hawaiiislandhomes.com/rental/">Hawaii Rentals</a> | <a href="https://gateway.staradvertiser.com/customer-service/">Customer Service</a></div>
+
+</div>
 
 <!--BOTTOM LOGOS-->
-  <div id="hsa_footer_row_bottom" align="center"> 
+<div id="hsa_footer_row_bottom" align="center"> 
 
-<a href="http://www.midweek.com" target="_blank"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/footer_midweek_logo.jpg" border="0px"></a> 
+    <a href="http://www.midweek.com" target="_blank"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/footer_midweek_logo.jpg" border="0px"></a> 
 
-<a href="http://www.thegardenisland.com" target="_blank"><img src="http://sa-media.s3.amazonaws.com/sa_com_header/images/footer-the-garden-isle.jpg" border="0px"></a>  
+    <a href="http://www.thegardenisland.com" target="_blank"><img src="http://sa-media.s3.amazonaws.com/sa_com_header/images/footer-the-garden-isle.jpg" border="0px"></a>  
 
-<a href="http://www.honolulupulse.com" target="_blank"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/footer_pulse_logo.jpg" border="0px"></a>  
+    <a href="http://www.honolulupulse.com" target="_blank"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/footer_pulse_logo.jpg" border="0px"></a>  
 
-<a href="http://www.honolulustreetpulse.com/" target="_blank"><img src="http://sa-media.s3.amazonaws.com/sa_com_header/images/footer-streetpulse.jpg" border="0px"></a>   
+    <a href="http://www.honolulustreetpulse.com/" target="_blank"><img src="http://sa-media.s3.amazonaws.com/sa_com_header/images/footer-streetpulse.jpg" border="0px"></a>   
 
-<a href="http://www.hiluxury.com" target="_blank"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/footer_hiluxury_logo.jpg" border="0px"></a>   
+    <a href="http://www.hiluxury.com" target="_blank"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/footer_hiluxury_logo.jpg" border="0px"></a>   
 
-<a href="http://www.hawaii.com" target="_blank"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/footer_hawaii.com_logo.jpg" border="0px"></a>   
+    <a href="http://www.hawaii.com" target="_blank"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/footer_hawaii.com_logo.jpg" border="0px"></a>   
 
-<a href="http://www.101thingstodo.com/" target="_blank"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/footer_101thingstodo_logo.jpg" border="0px"></a>
-
-
-<br>
+    <a href="http://www.101thingstodo.com/" target="_blank"><img src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/footer_101thingstodo_logo.jpg" border="0px"></a>
 
 
+    <br>
 
-<!--END BOTTOM LOGOS-->
+    <!--END BOTTOM LOGOS-->
+ 
 
     <div style="border-top:1px #333333 solid;" itemscope=""> <a href="http://www.staradvertiser.com" target="_blank" title="Honolulu Star-Advertiser Logo"><img itemprop="image" src="http://sa-cmedia01.staradvertiser.com/sa_com_header/images/staradvertiser_logo_184x41.jpg" border="0" alt="Honolulu Star-Advertiser Logo"></a><br>
-      Copyright © 2013 <a href="/">staradvertiser.com</a>. All rights reserved.<br>
-
-
-      500 Ala Moana Boulevard. #7-210, Honolulu, HI 96813 Telephone (808) 529-4747<br>
-      <br>
+        Copyright © 2014 <a href="/">staradvertiser.com</a>. All rights reserved.<br>
+        500 Ala Moana Boulevard. #7-210, Honolulu, HI 96813 Telephone (808) 529-4747<br>
+        <br>
     </div>
-  </div>
-  <!--End Footer--> 
+</div>
+<!--End Footer--> 
+
 
 <!------ OAS AD 'x06' begin ------>
-				<script language="JavaScript">
-				<!--
-				OAS_AD('x06');
-				//-->
-				</script>
+<script language="JavaScript">
+    <!--
+OAS_AD('x06');
+    //-->
+</script>
 <!------ OAS AD 'x06' end ------>
-
-
 
 
 
@@ -2225,20 +2366,26 @@ google_skip = google_adnum; /* to skip for multiple units, insert this snippet f
 
 <script type="text/javascript">
 //<![CDATA[
-(function() {
-	var links = document.getElementsByTagName('a');
-	var query = '?';
-	for(var i = 0; i < links.length; i++) {
-	if(links[i].href.indexOf('#disqus_thread') >= 0) {
-		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
-	}
-	}
-	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/honolulustarbulletin/get_num_replies.js' + query + '"></' + 'script>');
-})();
+    (function() {
+        var links = document.getElementsByTagName('a');
+        var query = '?';
+        for (var i = 0; i < links.length; i++) {
+            if (links[i].href.indexOf('#disqus_thread') >= 0) {
+                query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+            }
+        }
+        document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/honolulustarbulletin/get_num_replies.js' + query + '"></' + 'script>');
+    })();
 //]]>
 </script><script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/honolulustarbulletin/get_num_replies.js?"></script>
 
+
+
 <!-- -->
+
+
+
+
 
 
 
@@ -2252,15 +2399,14 @@ google_skip = google_adnum; /* to skip for multiple units, insert this snippet f
 <!-- ClickTale Bottom part -->
 <div id="ClickTaleDiv" style="display: none;"></div>
 <script type="text/javascript">
-if(document.location.protocol!='https:')
-  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRc3.js'%20type='text/javascript'%3E%3C/script%3E"));
+    if (document.location.protocol != 'https:')
+        document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRc3.js'%20type='text/javascript'%3E%3C/script%3E"));
 </script>
 <script type="text/javascript">
-if(typeof ClickTale=='function') ClickTale(19803,0.2,"www02");
+    if (typeof ClickTale == 'function')
+        ClickTale(19803, 0.2, "www02");
 </script>
 <!-- ClickTale end of Bottom part -->
-
-
 
 
 </body></html>
