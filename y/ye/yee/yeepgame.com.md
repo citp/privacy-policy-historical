@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeepgame.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531182559id_/http%3A//www.yeepgame.com/support/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeepgame.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134024id_/http%3A//www.yeepgame.com/support/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy-Yeepgame.com-Play free online game; build your own kingdom in Yeepgame!
 
@@ -18,7 +18,7 @@ Yeepgame never sells or shares any of your personal information with other parti
 
 Yeepgame won’t access and/or disclose your personal information without your permission except that it is required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on our company or the site; (b) protect and defend the rights or property of our company, including the Yeepgame website; or (c) act under exigent circumstances to protect the personal safety of users of Yeepgame, its web sites, or the public.
 
-**3.**   **Use of Cookies**  
+**3.** **Use Google Cookies**  
 A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
 Yeepgame uses cookies to save certain information and tract data. Yeepgame uses cookies to track visitor numbers and your current web browser, usage of the website and your website preference. We never use cookies to gather or share your personal information.
