@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atomicgamer.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112527id_/http%3A//www.atomicgamer.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomicgamer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113322id_/http%3A//www.atomicgamer.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Free video game downloads, news, reviews, videos, patches, demos, screenshots and more at AtomicGamer
 
