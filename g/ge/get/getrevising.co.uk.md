@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807045401id_/http%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625153138id_/http%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
 
-# Get Revising - Privacy Policy
+# Privacy Policy - Get Revising
+
+Get Revising is owned and operated by The Student Room Group Limited company number (04666380)   
+
 
 This is about protecting the information you give us. It is standard for a site of this type. The principles are the key thing.
 
