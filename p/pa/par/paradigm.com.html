@@ -1,0 +1,544 @@
+<!--The following is the downloaded HTML source of the paradigm.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625084639id_/http%3A//www.paradigm.com/support/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
+  <title>Privacy Policy | Paradigm®</title>
+  
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=1050">
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="">	
+  
+  <meta name="creator" content="Paradigm">
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+ 
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72-f82ea741.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114-4fe987c5.png">
+ 
+  <!--[if lt IE 10]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6/html5shiv.min.js"></script>
+  <![endif]-->
+  <!--[if lt IE 9]>
+    <script type="text/javascript" src="/js/PIE-2/PIE_IE678.js"></script>
+  <![endif]-->
+  <!--[if IE 9]>
+    <script type="text/javascript" src="/js/PIE-2/PIE_IE9.js"></script>
+  <![endif]-->
+  <link href="/base.css" media="screen" rel="stylesheet" type="text/css">
+  
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src="/js/modernizr.2.6.2.min.js"></script>
+  
+  <script src="/js/jquery.hoverIntent.min.js"></script>
+  
+  <link href="/js/fancybox/source/jquery.fancybox.css" media="screen" rel="stylesheet" type="text/css">
+  <script src="/js/fancybox/source/jquery.fancybox.pack.js"></script>
+   
+  <link href="/js/fancybox/source/helpers/jquery.fancybox-thumbs.css" media="screen" rel="stylesheet" type="text/css">
+  <script src="/js/fancybox/source/helpers/jquery.fancybox-thumbs.js"></script>
+  
+    <link rel="stylesheet" href="/js/star-rating2/jquery.rating.css" type="text/css">
+  <script type="text/javascript" src="/js/star-rating2/jquery.MetaData.js"></script>
+  <script type="text/javascript" src="/js/star-rating2/jquery.rating.pack.js"></script> 
+  
+    
+  <link href="//fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|PT+Sans+Narrow" rel="stylesheet" type="text/css">
+  <!--[if lte IE 8]>
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400" /> 
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:700" />  
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400italic" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:700italic" /> 
+  <![endif]-->
+<style type="text/css">
+/* Page specific CSS */
+#social IMG { float:left; padding-right:15px;}
+
+</style>
+
+</head>
+<body>
+ 	<div class="content wrapper">
+	    
+	    		
+	<script type="text/javascript"> 
+	
+	$(document).ready(function() { 
+		menuNav();
+	});
+	
+	$(function() {
+	    if (window.PIE) {
+	        $('.round').each(function() {
+	            PIE.attach(this);
+	        });
+	    }
+	});
+			
+	function menuNav() {
+		var onMenu = 0;
+    	var onTab = 0;
+    	var overlayOn = 0;
+    	var currentX = 0;
+    	var menName = "";
+    
+    	
+    	// HIDE all menus
+    	function hideAll() {
+    		$(".slideMenu").hide();
+    	};
+    	  
+    	
+    	$(".slideMenu_button").hoverIntent(
+    		function() {
+	    		var menuName = $(this).attr("title") + "-menu";
+    			hideAll();
+				onMenu=1;
+     			onTab=1;
+     			$("#"+menuName).stop().show().css({"opacity":1.0});
+     			
+    		},
+    		function() {
+    			menName = $(this).attr("title") + "-menu";
+    			function decide() {
+				
+					if (onMenu == 0) {
+						$(".slideMenu").fadeOut(150);
+						onTab=0;
+					}	
+				}
+				onMenu=0;
+				setTimeout(decide,300);
+    		}
+    	);
+		
+		// MENU HOVER
+    	$(".slideMenu").each(
+    		function() {
+    			var menuName = $(this).attr("id");
+    			$("#"+menuName).hover(
+     				function () {
+     					$(this).animate({"opacity":1.0},50,function() {
+     						onMenu=1;
+     					});
+     					onMenu = 1;
+     					
+     				}, 
+      				function () {
+      					onMenu = 0;
+      					onTab = 0;
+      					function decide() {
+      						if (onTab==0) {
+      							hideAll();
+      							$("#"+menuName).fadeOut(150);
+      						}
+      					}
+      					setTimeout(decide,300);
+      				}
+    			);
+    		}
+    	);
+				
+		$("#q")
+		    .val("Search...")
+		    .css("color", "#999")
+		    .focus(function(){
+		        $(this).css("color", "black");
+		        if ($(this).val() == "Search...") {
+		            $(this).val("");
+		        }
+		    })
+		    .blur(function(){
+		        $(this).css("color", "#999");
+		        if ($(this).val() == "") {
+		            $(this).val("Search...");
+		        }
+		    });
+	}
+	 
+  </script>
+  
+  		
+		<header>			
+	  		<div id="topnav" class="contain round">
+		  		<a id="" href="/index.php" class="logo"><img src="/images/site/paradigm-logo.png" style="width:143px; height:27px;"></a>
+				<nav>
+					<ul>
+						<li title="products" class="slideMenu_button"><a href="/products-current/">Products</a></li>
+						<li title="locator" class="slideMenu_button"><a href="/locator/index.php">Where to Buy</a></li>
+						<li title="social" class="slideMenu_button"><a href="/support/social.php">Social</a></li>
+						<li title="support" class="slideMenu_button"><a href="/support/index.php">Support</a></li>				
+						<li><a href="/videos/index.php">Videos</a></li>
+					</ul>
+				</nav>
+				<a href="/support/search.php"><img class="slideMenu_button" title="search" src="/images/site/nest/search-glass.jpg" style="position:relative;float:right;z-index:25"></a>
+				<a href="/support/collections.php"><img class="slideMenu_button" title="collection" src="/images/site/nest/view-collections.png" style="position:relative;float:right; margin-right:1px;z-index:25"></a>
+
+								
+							</div>
+			
+			
+						
+			<div class="contain-narrow slideMenu" id="products-menu">
+				<div id="col">	
+					<div class="col" style="width:170px; text-align:center;">
+						<h2 style="text-align:center;">View by Collection</h2>
+						
+						<a href="/products-current/collection=signature">
+							<img style="height:40px;" src="/images/site/collections/type/collection-signature.png">
+						</a>
+						<a href="/products-current/collection=reference">
+							<img style="height:40px; padding-top:8px;" src="/images/site/collections/type/collection-reference.png">
+						</a>
+						<a href="/products-current/collection=classic">
+							<img style="height:40px; padding-top:8px;" src="/images/site/collections/type/collection-classic.png">
+						</a>
+						<a href="/products-current/collection=shift">
+							<img style="height:40px; padding-top:8px;" src="/images/site/collections/type/collection-shift.png">
+						</a>
+						
+					</div>
+					<div class="col">
+						<h2 style="text-align:center;">View by Type</h2>
+						<ul class="left">								<li><a href="/products-current/type=accessory">Accessory</a></li>
+															<li><a href="/products-current/type=bookshelf">Bookshelf</a></li>
+															<li><a href="/products-current/model=a2/page=overview">Bookshelf (Fully Powered)</a></li>
+															<li><a href="/products-current/type=center">Center</a></li>
+															<li><a href="/products-current/type=tower">Floorstanding / Tower</a></li>
+															<li><a href="/products-current/type=in-ear-headphones">Headphones (In-Ear)</a></li>
+															<li><a href="/products-current/type=on-ear-headphones">Headphones (On-Ear)</a></li>
+															<li><a href="/products-current/type=inceiling">In-Ceiling</a></li>
+															<li><a href="/products-current/model=pcs-80r/page=overview">In-Ceiling Subwoofer</a></li>
+															<li><a href="/products-current/type=inwall">In-Wall</a></li>
+							</ul><ul class="right">								<li><a href="/products-current/type=inwall-subwoofer">In-Wall Subwoofer</a></li>
+															<li><a href="/products-current/type=lcr">LCR</a></li>
+															<li><a href="/products-current/type=outdoor">Outdoor</a></li>
+															<li><a href="/products-current/type=surround">Rear / Surround</a></li>
+															<li><a href="/products-current/type=soundbar-powered">Soundbar (Fully Powered)</a></li>
+															<li><a href="/products-current/type=soundbar">Soundbar (Passive)</a></li>
+															<li><a href="/products-current/type=subwoofer">Subwoofer</a></li>
+															<li><a href="/products-current/type=sub-amp">Subwoofer Amplifier</a></li>
+															<li><a href="/products-current/type=system-powered">System (2.1 Fully Powered)</a></li>
+															<li><a href="/products-current/model=cinema-100-ct/page=overview">System (5.1)</a></li>
+							</ul>					</div>
+					<div class="col" style="border:0">
+						<h2 style="text-align:center;">View by Series</h2>
+						<ul class="left">								<li><a href="/products-current/series=30th-anniversary">30th Anniversary</a></li>
+															<li><a href="/products-current/series=ams">AMS In-Wall/In-Ceiling</a></li>
+															<li><a href="/products-current/series=cinema">Cinema Series</a></li>
+															<li><a href="/products-current/series=cs-series">CS In-Wall/In-Ceiling</a></li>
+															<li><a href="/products-current/series=dsp">DSP Subwoofers</a></li>
+															<li><a href="/products-current/series=millenia">Millenia Series</a></li>
+															<li><a href="/products-current/series=monitor">Monitor Series</a></li>
+															<li><a href="/products-current/series=pcs">PCS In-Wall</a></li>
+															<li><a href="/products-current/series=pdr">PDR Subwoofers</a></li>
+															<li><a href="/products-current/series=pv">PV In-Wall/In-Ceiling</a></li>
+															<li><a href="/products-current/series=rock-monitor">Rock Monitor</a></li>
+							</ul><ul class="right">								<li><a href="/products-current/series=rvc">RVC In-Wall/In-Ceiling</a></li>
+															<li><a href="/products-current/series=sa-series">SA In-Wall/In-Ceiling</a></li>
+															<li><a href="/products-current/series=se-series">SE Series</a></li>
+															<li><a href="/products-current/series=seismic">Seismic Subwoofers</a></li>
+															<li><a href="/products-current/series=shift">Shift Series</a></li>
+															<li><a href="/products-current/series=signature">Signature Series</a></li>
+															<li><a href="/products-current/series=studio">Studio Series</a></li>
+															<li><a href="/products-current/series=stylus">Stylus Outdoors</a></li>
+															<li><a href="/products-current/series=ultracube">UltraCube Subwoofers</a></li>
+															<li><a href="/products-current/series=x-series">X Series</a></li>
+							</ul>					</div>
+				<br style="clear:both;">
+				</div>
+			</div>
+			
+			
+			<div class="contain-narrow slideMenu" id="locator-menu">
+				<div id="col">	
+					<div class="col" style="background: url('/images/site/map-northamerica.png') -60px 20px no-repeat; border:0;">
+					
+					</div>
+					<div class="col">
+						<h2>Locate a Dealer</h2>
+						<ul style="padding-top:1em;">
+							<li><a href="/locator/index.php?domestic=1">United States / Canada</a></li>
+							<li><a href="/locator/index.php?international=1">International</a></li>
+						</ul>
+					</div>
+					<div class="col" style="border:0; width:400px;">
+						<h2>The Paradigm Experience</h2>
+						<p style="clear:left;">We invite you to experience a live demo and hear the Paradigm difference today with an Authorized Paradigm Dealer.</p><br>
+						<b style="color:#cc0000;">UNAUTHORIZED DEALERS WARNING</b>
+						<p><b>Buyer Beware: Never buy Paradigm from an <u>UN</u>authorized dealer!</b>
+						<a href="/locator/unauthorized-dealer-warning.php" style="padding:0;text-decoration:underline;">Learn why here »</a>
+						</p>
+					</div>
+				<br style="clear:both;">
+				</div>
+			</div>
+
+			
+			<div class="contain-narrow slideMenu" id="social-menu">
+				<div id="col">	
+					<a href="https://www.facebook.com/paradigmloudspeakers" target="_new"><div class="col">
+						<img src="/images/social/facebook.png">
+						<h2>Facebook</h2>
+						<p>Join the conversation with other Paradigm fans on Facebook.</p>
+					</div></a>
+					<a href="http://twitter.com/paradigmnow" style="float:left;" target="_new"><div class="col">
+						<img src="/images/social/twitter.png">
+						<h2>Twitter</h2>
+						<p>Keep up with everything Paradigm on Twitter.</p>
+					</div></a>
+					<a href="http://www.flickr.com/photos/68332712@N03/collections" target="_new"><div class="col">
+						<img src="/images/social/flickr.png">
+						<h2>Flickr</h2>
+						<p>View &amp; download product photos, lifestyle images and logos on Flickr.</p>
+					</div></a>
+					<a href="http://www.youtube.com/user/ParadigmSpeakersTV" target="_new"><div class="col">
+						<img src="/images/social/youtube.png">
+						<h2>YouTube</h2>
+						<p>Watch our information and product videos on YouTube.</p>
+					</div></a>
+					<a href="http://paradigmspeakers.blogspot.com/" target="_new"><div class="col" style="border:0;">
+						<img src="/images/social/blogger.png">
+						<h2>Blog</h2>
+						<p>Get the latest news and special announcements on our official Blog.</p>
+					</div></a>
+					
+				<br style="clear:both;">
+				</div>
+			</div>
+			
+			<div class="contain-narrow slideMenu" id="support-menu">
+				<div id="col">	
+					<div class="col">
+						<img src="/images/social/support-help.png">
+						<h2>Help!</h2>
+						<ul>
+							<li><a href="/support/faq.php">Frequently Asked Questions</a></li>
+							<li><a href="/support/articles.php">Technology &amp; Design</a></li>
+							<li><a href="/support/warranty-information.php">Warranty Information</a></li>
+							<li><a href="/support/paradigm-history.php">Paradigm's History</a></li>
+						</ul>
+					</div>
+					<div class="col">
+						<img src="/images/social/support-contact.png">
+						<h2>Contact Us</h2>
+						<ul>
+							<li><a href="/support/contact-us.php">Customer / Technical Support</a></li>
+							<li><a href="/support/employment.php">Employment Opportunities</a></li>
+							<li><a href="/support/contact-us.php">Address &amp; Phone Number</a></li>
+							<li><a href="/support/social.php">Social Media Networks</a></li>
+						</ul>
+					</div>
+					<div class="col">
+						<img src="/images/social/support-products.png">
+						<h2>Product Support</h2>
+						<ul>
+							<li><a href="/account/index.php">Register a Product</a></li>
+							<li><a href="/support/catalogs.php">Catalogs</a></li>
+							<li><a href="/support/manuals-literature.php">Manuals &amp; Literature</a></li>
+							<li><a href="/support/latest-software.php">Firmware &amp; Updates</a></li>
+							<!--
+							<li><a href="">Reviews</a></li>
+							<li><a href="">Catalogs</a></li>
+							-->
+						</ul>
+					</div>
+					<div class="col" style="border:0;">
+						<img src="/images/social/support-dealers.png">
+						<h2>Dealer Resources</h2>
+						<ul>
+							<li><a href="http://www.flickr.com/photos/68332712@N03/collections" target="_new">Hi-Resolution Images</a></li>
+							<li><a href="//dealers.paradigm.com" class="lock" target="_new">Dealer Portal</a></li>
+						</ul>
+					</div>
+				<br style="clear:both;">
+				</div>
+			</div>
+			
+			<div class="contain-narrow slideMenu" id="collection-menu">
+				<div id="col">	
+					<a href="/products-current/collection=signature"><div class="col">
+						<img style="height:50px;" src="/images/site/collections/type/collection-signature.png">
+						<p><b>As good as it gets!</b> Our flagship collection delivers the ultimate in music and home theater performance with stunning aesthetics.</p>
+					</div></a>
+					<a href="/products-current/collection=reference"><div class="col">
+						<img style="height:50px;" src="/images/site/collections/type/collection-reference.png">
+						<p><b>Step-up performance.</b> Reference quality sound and style, advanced components <em>and</em> an exceptional performance-to-value relationship.</p>
+					</div></a>
+					<a href="/products-current/collection=classic"><div class="col">
+						<img style="height:50px;" src="/images/site/collections/type/collection-classic.png">
+						<p><b>Our affordable audiophile lineup.</b> High-performance products for music and home theater that represent truly exceptional value.</p>
+					</div></a>
+					<a href="/products-current/collection=shift"><div class="col" style="border:0">
+						<img style="height:50px;" src="/images/site/collections/type/collection-shift.png">
+						<p><b>Legendary Paradigm sound, <em>anywhere</em>.</b> Easy-to-use products with emphasis on portable, wireless &amp; fully-powered speaker solutions.</p>
+					</div></a>
+				<br style="clear:both;">
+				</div>
+			</div>
+			
+			
+			<div class="contain-narrow slideMenu" id="search-menu">
+				<div><form action="/support/search.php" method="get"><input type="text" name="q" id="q" value="Search..."> <input type="submit" value="Go"></form></div>
+				
+				
+				
+			</div>
+			
+			<div class="contain-narrow round" id="bread">
+				<div style="z-index:1000; position:relative;">
+				<div style="padding:8px 20px; width:700px; float:left;">
+					<a href="/index.php">Home</a>
+					
+					    						&gt; <a href="/support/index.php">Support</a>
+					    						&gt; <a href="/support/privacy.php">Privacy Policy</a>
+									</div>
+				<div style="text-align:right; padding-top:6px; padding-right:10px; width:180px; float:right;">
+					<a href="/account/index.php">Account</a>
+										 | <a href="http://store.paradigm.com/Cart" class="cart">Cart</a>
+					 | <a href="http://store.paradigm.com">Store</a>
+										 
+				</div>
+				</div>					
+			</div>
+
+		</header>
+
+  		
+		
+		
+		
+		
+		
+		
+				
+		<section class="contain-narrow" style="margin:20px auto; background:none;">
+			<h1 class="onblack">Privacy Policy</h1>
+		</section>
+		
+		<section class="contain-narrow" style="margin-top:50px" id="maincopy">
+																	
+			<div class="pad" id="social">			
+				
+				<p>
+				Paradigm understands that the protection and use of information provided by you to us is very important to you and we are committed to maintaining your privacy. This Privacy Policy Statement sets out our information collection, use, and dissemination practices for Paradigm.com (the "Website"). By visiting any part of the Website, you accept the practices described in this Privacy Policy Statement. Please read this Privacy Policy Statement to understand how Paradigm collects, uses, and disseminates information through our Website.</p>
+				
+				<h2>What Personal Information About You Does Paradigm Collect?</h2>
+				<p>The information we obtain from customers helps us personalize and continually improve your website browsing and shopping experience. Listed below we provide examples of the types of information we gather.</p>
+				
+				<h2>Information You Give Us:</h2>
+				<p>We receive and store any information you enter on this Website or give us in any other way. This information may include demographic information and contact information such as names, addresses, phone numbers, fax numbers, and email addresses. You may choose not to provide certain information, however choosing to do so may prevent you from being able to take advantage of many of our Website's features or from conducting transactions.</p>
+				
+				
+				<h2>Information Automatically Collected:</h2>
+				<p>Paradigm may automatically collect non-personal information and data through the use of Cookies. Cookies are alphanumeric identifiers that enable our systems to recognize your browser and to enhance your experience using our Website. Through cookies, the Website can recognize repeat users, facilitate your access to and use of the Website, and allow a site to optimize your experience. Examples of the information we may collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; email address; computer and connection information such as browser type and version, operating system, and platform; and purchase history, which we sometimes aggregate with similar information from other consumers.</p>
+				
+				
+				<p>The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of our Website's features, and we recommend that you leave them turned on.</p>
+				
+				
+				<p>We may also use a third-party service provider to serve ads on our behalf across the Internet. The service provider may collect anonymous information about your visits to our Website, and your interaction with our products and services. The service provider may also use information about your visits to this and other websites to show relevant advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click here.</p>
+				
+				
+				<h2>How is Collected Information Used?</h2>
+				<p>We use the information that you provide for such purposes as responding to your requests, fulfilling your orders, customizing future shopping for you, improving our stores, communicating with you, or for any other purpose disclosed at the point of collection.</p>
+				
+				
+				<h2>Does Paradigm Share Information?</h2>
+				<p>Paradigm does not share your information with others except as outlined below.</p>
+				
+				<ul class="button">
+				<li><b>Affiliated Businesses We Do Not Control:</b> For certain transactions we work closely with our affiliated businesses to package, ship, and fulfill your order. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. If you choose to opt-in, we may share customer information related to these transactions with such third parties, who may use the information to inform you of their product or service offerings that may be of an interest to you.</li>
+				
+				
+				<li><b>Agents:</b> We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. When you place an order, from time to time we may share your name, email address, mailing address and purchase category information with a few carefully selected marketing partners who may bring you offers of interest. During checkout, you may opt out of receiving marketing information via email.</li>
+				
+				
+				<li><b>Protection of Paradigm and Others:</b> We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Paradigm, our parent company and its shareholders, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</li>
+				
+				<li><b>Links:</b> Our Website may contain links to third-party websites. Please consult their privacy notices for the privacy practices governing their websites.</li>
+				</ul>
+				
+				<h2>How Do I Grant Consent?</h2>
+				<p>By visiting our Website, you grant consent for Paradigm to collect the information as set out in this Privacy Policy Statement. You may opt in to have your information shared with third parties who may use the information for their own marketing purposes or to provide you with products or services that may be of interest to you.</p>
+				
+				
+				<h2>What About Children?</h2>
+				<p>Our Website is a general audience website and it is Paradigm's intention that our Website will be used only by persons over age 13. From time to time, Paradigm may offer promotions to consumers age 13 or over and collect data from such persons. Please consult the Terms and Conditions for the eligibility requirements and policies governing those promotions.</p>
+				
+				
+				<h2>What About Other Policies and Revisions?</h2>
+				<p>If you choose to visit our Website, your visit and any dispute over privacy is subject to this Privacy Policy Statement and our Terms of Use which are incorporated herein by reference, including limitations on damages, arbitration of disputes, and application of the law of the state of California. From time to time, we may update this Privacy Policy Statement. We will notify you of any material changes to the Privacy Policy Statement by posting updates on this page. We encourage you to familiarize yourself with this policy and to visit this page frequently for any policy revisions.</p>
+				
+				
+				<h2>How You Can Contact Us?</h2>
+				<p>If you have any questions, comments, or concerns regarding our Privacy Policy Statement, please <a href="/support/contact-us.php">contact us here</a> or call (905) 564-1994.</p>
+
+							
+			</div>
+			<br style="clear:both;">
+				
+		</section>
+		
+		<div class="push"></div>
+  	</div>
+  	
+  		<footer id="footer" style="background-color:#333; ">
+  		<div id="footer-content" style="">
+    
+    		<a id="" href="/" class="logo"><img src="/images/site/paradigm-logo.png" style="width:143px; height:27px;"></a>
+    
+		    <nav>
+				<ul class="corporate">
+					<li><a target="_new" href="/news/website-2013.php">News</a></li>
+					<li><a href="/support/employment.php">Careers</a></li>
+					<li><a href="/support/contact-us.php">Contact Us</a></li>
+					
+					
+				</ul>
+				
+				<ul class="social">
+					<li><a id="facebook" target="_new" title="Facebook" href="http://www.facebook.com/pages/Paradigm-Speakers/59730316541">Facebook</a></li>
+					<li><a id="twitter" target="_new" title="Twitter" href="http://twitter.com/paradigmnow">Twitter</a></li>
+					<li><a id="flickr" target="_new" title="Flickr" href="http://www.flickr.com/photos/68332712@N03/collections">Flickr</a></li>
+					<li><a id="youtube" target="_new" title="YouTube" href="http://www.youtube.com/user/ParadigmSpeakersTV">YouTube</a></li>
+					<li><a id="blog" target="_new" title="Blog" href="http://paradigmspeakers.blogspot.com/">Blog</a></li>
+				</ul>
+		    </nav>
+    
+		    <small class="copyright">
+				© 2014 Paradigm Electronics Inc.
+				<a role="menuitem" href="/support/conditions.php" class="terms-links">Conditions of Use</a>
+				<a role="menuitem" href="/support/privacy.php" class="terms-links">Privacy Policy</a>
+				<a role="menuitem" href="/locator/unauthorized-dealer-warning.php">Unauthorized Dealers WARNING</a>
+		    </small>
+    	   
+ 		</div>
+	</footer>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-473816-1']);
+  _gaq.push(['_setDomainName', 'paradigm.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- OwnerIQ Conversion Tag for Paradigm --> 
+<script type="text/javascript" src="http://px.owneriq.net/anst/s/pardig.js"></script> 
+<script type="text/javascript"> 
+oiq_doTag (); 
+</script> 
+<!-- End OwnerIQ Tag -->   
+  
+
+</body></html>
