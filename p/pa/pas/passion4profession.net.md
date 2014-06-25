@@ -1,42 +1,76 @@
-> *The following text is extracted and transformed from the passion4profession.net privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209003223id_/http%3A//www.passion4profession.net/en/privacy-condition.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passion4profession.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043539id_/http%3A//www.passion4profession.net/en/privacy-condition.html) for the most accurate reproduction.*
 
 # Privacy Condition
 
-PRIVACY POLICY OF THE PORTAL 
+This Privacy Policy governs the manner in which Passion4Profession collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.passion4profession.net](http://www.passion4profession.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Passion4Profession.
 
-http://www.passion4profession.net AND INFORMATION required by article 13 of the Italian Data Protection Act, legislative decree no. 196 dated 30 June 2003 This page outlines the procedure used to manage the personal details of anyone using, browsing or registering on the website http://www.passion4profession.net. Personal information is processed in full compliance with current Italian data protection laws and in particular, the provisions of the Italian Data Protection Act (legislative decree no. 196 dated June 30, 2003). This page also contains the information required by article 13 of the above law, to be given to all persons using the services available on the portal, accessed via the web address http://www.passion4profession.net. This information is only provided for the portal http://www.passion4profession.net, and not for other websites consulted by users through links. The information is also based on Recommendation no. 2/2001 issued by the European Data Protection Authorities through the Working Party instituted by article 29 of the Community directive no. 95/45/EC adopted on 17 May 2001, to identify certain minimum requisites for the collection of personal data online and in particular the methods, the times and the nature of the information that the data controller must supply to users when they connect to web pages for any reason whatsoever. The Italian language version of this information is the only official version and will therefore prevail in the event of discrepancies with any translations into other languages that may be supplied on http://www.passion4profession.net for the purpose of making the portal accessible to an international public. 
+**Personal identification information**
 
-PROCESSING OF PERSONAL DATA 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Any consultation of http://www.passion4profession.net or registering on the site may require the collection, registration, conservation, utilization and more generally the processing of the personal details of identified users or those eligible for identification. Article 4(a) of the Italian Data Protection Act defines data processing as any operation or group of operations concerning the collection, registration, organization, conservation, consultation, elaboration, modification, selection, extraction, comparison, utilization, interconnection, blocking, communication, diffusion, cancellation or destruction of personal data. 
+**Non-personal identification information**
 
-THE DATA CONTROLLER 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-The data controller is “Passion4Profession S.a.s.”, whose head office is Via Posillipo no. 168/D, 80126 Naples, Italy. 
+**Web browser cookies**
 
-TYPES OF DATA PROCESSED. REQUIREMENT TO PROVIDE CONSENT. Navigation data During the normal course of functioning, the computer systems and software procedures used to operate this website acquire certain details from persons browsing the site, even without registering on it, since transmission of this data is implicit in the use of Internet communications protocols. This information is not collected in order to be associated with the identified parties, however by its very nature it may enable the users to be identified through elaboration and association with data held by third parties. This category of data includes IP addresses or the domain names of the computers utilised by persons connecting to the site, URI (Uniform Resource Identifier) addresses of the resources requested, the time of the request, the method used to make the request to the server, the size of the file obtained from the server, the numerical code indicating the server’s data response status (successful completion, error, etc.) and other parameters related to the operating system and the user’s computer environment. This data is only used to generate anonymous statistical information regarding the use of the site and to control its proper functioning. It is deleted immediately after processing. This data could also be used to ascertain liability in the event of possible offences, including IT-related offences, or damage suffered by the site, the controller or third parties. Optional data supplied voluntarily by users. Registration on the portal is optional and voluntary, as is the sending of e-mail to the addresses indicated on this site. It requires submission of the user’s personal details, including but not limited to the e-mail address. Users are absolutely free to choose whether or not to supply their personal details by entering them on the designated registration forms. The personal details requested for registration on www.passion4profession.net are divided into two categories: obligatory and optional. Registration and provision of the services offered by 'Passion4Profession S.a.s.' on the portal www.passion4profession.net is dependent on provision of the obligatory details and their processing for the purposes indicated above. Therefore, failure to provide these details or a refusal to consent to its processing that same data will prevent registration and subsequent use of the services offered by “Passion4Profession S.a.s.” on the portal www.passion4profession.net. The provision of optional information is designed to allow “Passion4ProfessionS.a.s” to improve the services offered to users, and there is no obligation in this regard. 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-HOW AND WHERE THE DATA IS PROCESSED 
+**How we use collected information**
 
-Personal information is treated with automated computerised devices for the time that is strictly necessary to achieve the purpose for which it was collected. Therefore, suitable and specific security measures have been adopted to prevent the loss of personal information processed, unauthorized access, unlawful processing without consent, or processing that does not conform to the purposes for which it was collected, in accordance with the provisions of articles 31 et seq of the Italian Data Protection Act. Furthermore, the processing of personal data is only managed by the data controller, by personnel hired by the controller to process the data, or supervisors or persons in charge of occasional system maintenance specifically hired by the controller. 
+Passion4Profession may collect and use Users personal information for the following purposes:
 
-PURPOSE OF DATA PROCESSING
+  * _\- To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _\- To process payments_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _\- To share your information with third parties_  
+We may share or sell information with third parties for marketing or other purposes.
+  * _\- To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _\- To send periodic emails_  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Users’ personal data may be utilised to generate anonymous statistical information regarding use of the site, to control its proper functioning and to ascertain any liability in the event that unlawful acts are committed which may damage the site, the controller or third parties. Other than the purposes described above, the personal details of users registering on the website will be processed for the following purposes: • To allow access and browsing of the portal; • To supply the services offered by “Passion4Profession S.a.s.”; • To verify the quality of the services offered by Passion4Profession S.a.s.”; • To design new and different “Passion4Profession S.a.s.” services to offer to users on the www.passion4profession.net portal; • To send information, commercial communications or publicity material. 
+**How we protect your information**
 
-COMMUNICATION AND DIFFUSION OF PERSONAL DATA 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-The personal details of “registered” users may be communicated to the third party suppliers of the services available on the www.passion4profession.net portal, or to third parties that carry out data analysis activities for statistical purposes and in any case only for the purpose of carrying out the processing described above. The details may be sent to persons based in Italy or those located in other EU or non-EU countries. The details may also be disclosed to persons in charge of processing and third parties appointed by the controller for site maintenance, and who are subject to the controller’s responsibility and surveillance. No personal details, acquired in whatever way, will be publicised. COOKIES Cookies are not used for transmitting information of a personal nature nor are so-called “persistent cookies” or user tracing systems of any kind used. The use of session cookies (not permanently stored on the user’s computer and which can be cancelled by the user at any time using the browser-specific option) is strictly limited to the transmission of session identification (constituted by a casual number generated by the server), necessary for permitting secure and efficient navigation on the site. The so-called session cookies utilized on this site avoid reliance on other IT techniques that could potentially prejudice users’ privacy when browsing, and they do not enable the acquisition of personal data identifying the user. 
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-RIGHTS OF THE DATA SUBJECT 
+**Sharing your personal information**
 
-Pursuant to article 7 of the Italian Data Protection Act, the data subject has the right at any time to obtain the confirmation of the existence of personal information regarding him or her even if it has not yet been recorded, and to receive that communication in an intelligible manner, to know the origin, the purpose and the methods of processing, to know the logic applied in case of processing carried out with the aid of electronic instruments, to obtain details of the identity of the data controller and the authorised person or representative designated locally, to know the persons or the categories of person to which the information may be communicated or who may come in contact with it in their capacity as designated local representative, supervisor or person in charge of handling. The data subject may also obtain updates, rectification or if necessary, the integration of data as well as the cancellation or transformation into an anonymous form or the blocking of data processed in violation of the law, including those cases in which the information is not required to be kept for the purposes for which it was collected or processed, as well as the right to ask for proof of the fact that the contents of the above operations have been made known to all those to whom the data was communicated or diffused. The data subjects may object to the processing of all or part of their personal information for legitimate reasons and may also refuse consent to the processing of personal information for commercial reasons or for the sending of advertising materials or direct sales, the carrying out of market research or commercial communications. The data subjects may exercise the rights stated in article 7 of the Italian Data Protection Act by sending a request and/or written communication to “Passion4Profession S.a.s.” with registered office in Naples (Italy) Via Posillipo no. 168/D, 80126, or by sending an e-mail to the following address [privacy@passion4profession.net](mailto:privacy@passion4profession.net). 
+We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-Consent of the treatment of personal data:
+**Third party websites**
 
-I, the undersigned, being fully informed on the basis of article 13 of  the Italian Data Protection Act regarding the processing of personal data pursuant to article 23 of the same law:   
-with regard to the processing of my personal details to enable provision of the service requested
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-With regard to the communication of my personal details to third parties providing services that are functionally related to the execution of the requested operation or service (which may be an Italian company or a multinational with the consequence that the details may be transferred to non-EU countries)
+**Advertising**
 
-With regard to the processing of my details for the purpose of receiving commercial or promotional offers
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+**Google Adsense**
+
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+**Changes to this privacy policy**
+
+Passion4Profession has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy and [terms of service](http://www.passion4profession.net/en/privacy-condition.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[Passion4Profession](http://www.passion4profession.net/)  
+[www.passion4profession.net](http://www.passion4profession.net/)  
+Via Delle Scuole 13 - 6900 Paradiso - Switzerland   
+support@passion4profession.net
+
+This document was last updated on May 29, 2014
