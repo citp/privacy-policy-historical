@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the intuit.ca privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213003630id_/http%3A//www.intuit.ca/about-intuit-canada/info/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuit.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051400id_/http%3A//www.intuit.ca/about-intuit-canada/info/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Intuit® Canada
 
-|    
-
+| 
 
 At Intuit, we pride ourselves in our commitment to protecting your privacy. We want you to know how personal information about you is used, collected and disclosed.
 
@@ -24,9 +23,9 @@ All inquiries or complaints regarding privacy should be directed to the privacy 
 **MAIL**  
 Intuit Canada   
 Attention: Privacy Officer  
-7008 Roper Road  
-Edmonton, AB   
-T6B 3H2
+5100 Spectrum Way  
+Mississauga, ON  
+L4W 5S2
 
 **FAX**  
 Attention: Privacy Officer  
@@ -45,9 +44,9 @@ To change your privacy preferences and personal information, please [complete th
 **MAIL**  
 Intuit Canada   
 Attention: Privacy Officer  
-7008 Roper Road  
-Edmonton, AB   
-T6B 3H2
+5100 Spectrum Way  
+Mississauga, ON  
+L4W 5S2
 
 **FAX**  
 Attention: Privacy Officer  
@@ -163,8 +162,9 @@ To change your privacy preferences, please complete the [Personal Information Ch
 
 **INTUIT CANADA ULC**  
 Attention: Privacy Officer  
-7008 Roper Road  
-Edmonton, AB T6B 3H2
+5100 Spectrum Way  
+Mississauga, ON  
+L4W 5S2
 
 FAX: 1-888-829-1724
 
