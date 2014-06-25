@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justthejob.co.za privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820004354id_/http%3A//www.justthejob.co.za/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justthejob.co.za privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081124id_/http%3A//www.justthejob.co.za/privacy.php) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -6,13 +6,13 @@ At **justthejob.co.za** , we take your privacy seriously! Please read this **Sta
 
 _Scope of Coverage_
 
-This **Statement of Privacy** covers how **justthejob.co.** za treats personal information collected and received, including information relating to the past use of our products and services. "Personal Information" refers to information that personally identifies you by your name, email address or telephone number and other information that is not otherwise available publicly. This **Statement of** **Privacy** applies only to the practices of **justthejob.co.za** and the people we employ or manage. Other websites or services linked to/from this website will have their own statments of privacy which can be viewed by clicking on their respective privacy links.
+This **Statement of Privacy** covers how **justthejob.co.** za treats personal information collected and received, including information relating to the past use of our products and services. "Personal Information" refers to information that personally identifies you by your name, email address or telephone number and other information that is not otherwise available publicly. This **Statement of** **Privacy** applies only to the practices of **justthejob.co.za** and the people we employ or manage. Other websites or services linked to/from this website will have their own statements of privacy which can be viewed by clicking on their respective privacy links.
 
 _Collection of your Personal Information_
 
 **justthejob.co.za** collects personal information, such as your name, email address or telephone number, work experience and other such data associated with a resume for job applications. When you register with **justthejob.co.za** and sign in to our services, you are no longer unknown to us.
 
-**justthejob.co.za**  keeps track of your transactions with us and some of our affiliated business partners including information about your use of the services we offer. 
+**justthejob.co.za** keeps track of your transactions with us and some of our affiliated business partners including information about your use of the services we offer. 
 
 **justthejob.co.za** also keeps track of the pages our users visit within **justthejob.co.za** , for business and security purposes. We may use this data to deliver customised content and advertising to users whose behaviour indicates that they are interested in a particular subject area.
 
@@ -50,7 +50,7 @@ You may also stop the delivery of future promotional emails from **justthejob.co
 
 However, there are some **justthejob.co.za** services which are sent out periodically by email to inform you of technical service issues, product surveys, new feature announcements and news about our services. You will be unable to unsubscribe from these emails as they are considered an integral part of the service you have chosen.
 
-In the event **justthejob.co.za** goes through a business transition as a merger, acquisition by another company or sale of all or a portion of it's assets, your personally identifiable information will likely be among the assets transferred.  You will be notified by email of any such change in ownership or control of your personal information and can choose to delete all your personal information.
+In the event **justthejob.co.za** goes through a business transition as a merger, acquisition by another company or sale of all or a portion of it's assets, your personally identifiable information will likely be among the assets transferred. You will be notified by email of any such change in ownership or control of your personal information and can choose to delete all your personal information.
 
 _Security of your Personal Information_
 
@@ -70,28 +70,16 @@ When you subscribe to a **justthejob.co.za** Newsletter, we shall request your e
 
 _Service Providers_
 
-**justthejob.co.za** may use third parties to provide 1) payment gateway services for optional services 2) a profiling/assessment service and 3) web analytics on our website. When you sign up for such services or by using our website, they may collect some information (e.g. credit card numbers, name) as necessary for the third party to provide that service.
+**justthejob.co.za** may use third parties to provide 1) payment gateway services for optional services 2) a profiling/assessment service and 3) web analytics on our website. When you sign up for such services or by using our website, they may collect some information (e.g. credit card numbers, name) as necessary for the third party to provide that service.
 
-These third parties are prohibited from using your personally indentifiable information for any other purpose.
+These third parties are prohibited from using your personally identifiable information for any other purpose.
 
 _Testimonials/Success Stories_
 
-**justthejob.co.za** will ask your permission to post your testimonial or success story. If you agree to post your story on this site, you should be aware that any personally indetifiable information you submit can be read, collected or used by other users of this site and could be used to send you unsolicited messages. **justthejob.co.za** will not be responsible for the personally indentifiable information you may choose to submit in these testimonials/success stories. 
+**justthejob.co.za** will ask your permission to post your testimonial or success story. If you agree to post your story on this site, you should be aware that any personally identifiable information you submit can be read, collected or used by other users of this site and could be used to send you unsolicited messages. **justthejob.co.za** will not be responsible for the personally identifiable information you may choose to submit in these testimonials/success stories. 
 
 _Changes to this Statement_
 
-**justthejob.co.za** will occasionally update this **Statement of Privacy** to reflect company and user feedback. When we post changes to this statement, you will see the word "Updated" next to the **Privacy Statement** link on the front page of **justthejob.co.za.**  If there are material changes to this Statement or in the manner, **justthejob.co.za** will use your personal information, we shall psot a prominent notice on the website 30 calendar days prior to implementing the change.
+**justthejob.co.za** will occasionally update this **Statement of Privacy** to reflect company and user feedback. When we post changes to this statement, you will see the word "Updated" next to the **Privacy Statement** link on the front page of **justthejob.co.za.** If there are material changes to this statement or in the manner, **justthejob.co.za** will use your personal information, we shall post a prominent notice on the website prior to implementing the change.
 
-**justthejob.co.za** encourages you to review this Statement periodically to be informed of how we are protecting your personal information.
-
-_Contact Information_
-
-justthejob.co.za welcomes your comments regarding the Statement of Privacy. If you believe we have not adhered to this statement, please contact us via the following:
-
-Email:                                    info@justthejob.co.za
-
-Postal Address:                   66A stiglingh Road, Rivonia
-
-Physical Address:                 66A Stiglingh Road, Rivonia
-
-Telephone Number:              011 234 4190
+**justthejob.co.za** encourages you to review this Statement periodically to be informed of how we are protecting your personal information. Contact Information justthejob.co.za welcomes your comments regarding the Statement of Privacy. If you believe we have not adhered to this statement, please contact us via the following: Email:info@justthejob.co.za
