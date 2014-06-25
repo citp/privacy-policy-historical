@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salespider.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204041836id_/http%3A//www.salespider.com/index.php%3Fprivacy%3D1%26ref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salespider.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002912id_/http%3A//www.salespider.com/index.php%3Fprivacy%3D1%26ref%3Dfooter) for the most accurate reproduction.*
 
 # The Social Network for Small Businesses | Entrepreneurs | Professionals
 
@@ -18,7 +18,7 @@ This Privacy Policy may be updated from time to time. You can always review the 
 
 :  We do not automatically collect your email address.  We collect your email address only if you choose to provide it to us when you complete the optional registration process on Salespider.com, or when you choose to opt in to one of our online offers.
 
-2. ** _How do we use your email address?_ :  If you choose to provide us with your email address, we may send emails to you with information relevant to you as a SaleSpider member and from third party advertisers to call your attention to products and offers we believe might interest you. In addition, other registered users with Salespider.com and the Sales Spider Network will have the ability to email you to make offers and correspond with you, although all such emails will be transmitted through our servers and not directly from such users (unless you specifically provide your email address to any particular user(s))**.
+2. ** _How do we use your email address?_ :  If you choose to provide us with your email address you will be opting in to receiving emails from us and we may send emails to you with information relevant to you as a SaleSpider member and from third party advertisers to call your attention to products and offers we believe might interest you. In addition, other registered users with Salespider.com and the Sales Spider Network will have the ability to email you to make offers and correspond with you, although all such emails will be transmitted through our servers and not directly from such users (unless you specifically provide your email address to any particular user(s))**.
 
 3.
 
@@ -38,7 +38,7 @@ We do not automatically collect any personally identifying information from visi
 
 You will also have the option of posting your resume and other information. **Please be aware that any information you post as part of your User Profile will be accessible to all users of the Salespider.com, as well as all users of the Sales Spider network, which includes the Sales Spider website itself and any third party small business or other networking websites which Sales Spider hosts for third parties (the "Sales Spider Network").**
 
-You can also choose to opt out of a newsletter later by clicking the ["Unsubscribe" link] included on the bottom of every newsletter you receive from us.  You may also pick and choose which emails or newsletters you wish to receive by changing your Email Settings [My Account>E-Mail Options] within your personal account in Salespider.com.
+You may also pick and choose which emails or newsletters you wish to receive by changing your Email Settings [My Account>E-Mail Options] within your personal account in Salespider.com. You can also choose to opt out of a newsletter or email by clicking the ["Unsubscribe" link] included on the bottom of every newsletter or email you receive from us. 
 
 As a registered user of the Salespider.com, you can opt out of receiving emails or newsletters from Salespider.com and Sales Spider at any time by changing your Email Settings [My Account>E-Mail Options].  When you submit personally identifying information during the sign up process, if the information might be used to allow third parties to contact you (e.g., to email you offers or newsletters), then you will be notified at the time of submission.  Your user information will only be provided to third parties from whom you opted to receive information. Your password will never be provided to any third party. You can also choose to opt out of a newsletter by clicking the "Unsubscribe" link included on the bottom of every newsletter you receive through Salespider.com or by changing your Email Settings [My Account>E-Mail Options] within your personal account in Salespider.com. 
 
