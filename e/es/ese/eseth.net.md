@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eseth.net privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908200723id_/http%3A//eseth.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eseth.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101510id_/http%3A//eseth.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - eSeth
 
@@ -7,6 +7,8 @@ eSeth.net has created this privacy statement in order to demonstrate our firm co
 We invite you to contact us if you have questions about this policy. You may contact us by [email](mailto:admin@eseth.net?subject=Contact)
 
 **What Information do we collect?**
+
+We collect information from you when you register on our site, use our android app software, subscribe to our newsletter or fill out a form.
 
 When you enter this website, we collect your browser information (which typically includes browser type, version, host operating system and browser language) and IP address. This information is gathered for all visitors. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. When you complete a form on our website, we may ask you for your name, e-mail address, postal address and your telephone number's. This is so we can contact you easily if required.
 
@@ -52,6 +54,16 @@ Google's use of the DART cookie enables it to serve ads to eSeth.net users based
 
 Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
+**Google Analytics Tracking**[](http://www.doubleclick.com/privacy/faq.aspx)
+
+eSeth has changed its Analytics tracking code on its website and android software applications to support Display Advertising. The features we have implemented is the Google Analytics Demographics and Interest Reporting. You can choose to opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
+
+eSeth will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie.
+
+Users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+
+eSeth may use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics. This helps eSeth better understand how our Service is being used and to help tailor content and advertising on the Service.
+
 **Changes to Privacy policy**
 
 If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. We reserve the right to modify this privacy policy at any time, so please review it frequently.
@@ -60,4 +72,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 Kindly read [Terms of Service (TOS)](http://eseth.net/terms-of-service)
 
-(Dated 10th September, 2012)
+(Dated 24th March, 2014)
