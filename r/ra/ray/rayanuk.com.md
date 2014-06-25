@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rayanuk.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031025812id_/http%3A//rayanuk.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rayanuk.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105737id_/http%3A//rayanuk.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,3 +49,6 @@ This website may use social sharing buttons which help share web content directl
 This website and it's owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy url's (this is an example: http://bit.ly/zyVUBo).
 
 Users are advised to take caution and good judgement before clicking any shortened url's published on social media platforms by this website and it's owners. Despite the best efforts to ensure only genuine url's are published many social media platforms are prone to spam and hacking and therefore this website and it's owners cannot be held liable for any damages or implications caused by visiting any shortened links.
+
+  
+
