@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the forex4noobs.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107204427id_/http%3A//www.forex4noobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex4noobs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625151216id_/http%3A//www.forex4noobs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Forex4Noobs
+# Privacy Policy - Forex4Noobs
+
+[ ](http://www.forex4noobs.com/ "Forex4Noobs")
+
+Hello, [Log in](http://www.forex4noobs.com/free-course/wp-login.php), or [join](http://www.forex4noobs.com/free-course/) forex4noobs. 
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -21,6 +25,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Forex4Noobs then you may contact us [here](http://www.forex4noobs.com/support/ "Contact Us")
-
-Last updated Sun, 17 Apr 2011 14:34
+If you have any questions regarding the privacy policy of Forex4Noobs then you may contact us [here](https://forex4noobshelp.desk.com/ "Contact Us")
