@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kosheronabudget.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105183615id_/http%3A//kosheronabudget.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kosheronabudget.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084423id_/http%3A//kosheronabudget.com/about-me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Kosher on a Budget
 
 Your privacy is important to me. Like most standard websites, the Kosher on a Budget blog uses log files. These include: Internet Protocol addresses (IP addresses), browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and the number of clicks.
 
