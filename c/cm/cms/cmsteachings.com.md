@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmsteachings.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902014805id_/http%3A//cmsteachings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmsteachings.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114546id_/http%3A//cmsteachings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CMSTeachings
 
@@ -51,11 +51,11 @@ You may choose to provide personal information to website visitors or other thir
 
  **AUTORESPONDERS**
 
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to [info@cmsteachings.com](mailto:info@cmsteachings.com), or by using this [Contact Online Form](https://cmsteachings.com/contact-us). 
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to [info@cmsteachings.com](mailto:info@cmsteachings.com), or by using this [Contact Online Form](http://cmsteachings.com/contact-us). 
 
 **POLICY CHANGES**
 
-The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by [e-mail](mailto:info@cmsteachings.com) or using our [website contact form](https://cmsteachings.com/contact-us)), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
+The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by [e-mail](mailto:info@cmsteachings.com) or using our [website contact form](http://cmsteachings.com/contact-us)), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
 
 If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to [info@cmsteachings.com](mailto:info@cmsteachings.com) and providing us with information relating to your concern.
 
