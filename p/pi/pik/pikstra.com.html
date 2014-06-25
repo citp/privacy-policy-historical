@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pikstra.com privacy policy that was archived on 2013-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101184309id_/http%3A//www.pikstra.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pikstra.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625093937id_/http%3A//pikstra.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta charset="UTF-8">
@@ -9,18 +9,18 @@
 <meta name="robots" content="index,follow">
 <meta name="googlebot" content="index,follow">
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="shortcut icon" href="http://pikstra.com/static/images/ico/favicon.png" type="image/png">
+<link rel="shortcut icon" href="http://s.pikstra.com/images/ico/favicon.png" type="image/png">
 
 
-<link rel="stylesheet" type="text/css" media="all" href="http://pikstra.com/static/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://s.pikstra.com/style.css">
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
-<script type="text/javascript" src="http://pikstra.com/static/js/jquery.pulse.min.js"></script>
-<script type="text/javascript" src="http://pikstra.com/static/js/functions.js"></script>
-<link id="fontcss" href="http://pikstra.com/static/fonts/style.css" type="text/css" rel="stylesheet">
-<script type="text/javascript" src="http://pikstra.com/static/js/raphael-2.1.0-min.js"></script>
-<script type="text/javascript" src="http://pikstra.com/static/js/colorwheel.js"></script>
-<script type="text/javascript" src="http://pikstra.com/static/js/jquery.ui.touch.min.js"></script>
+<script type="text/javascript" src="http://s.pikstra.com/js/jquery.pulse.min.js"></script>
+<script type="text/javascript" src="http://s.pikstra.com/js/functions.js"></script>
+<link id="fontcss" href="/static/fonts/style.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="http://s.pikstra.com/js/raphael-2.1.0-min.js"></script>
+<script type="text/javascript" src="http://s.pikstra.com/js/colorwheel.js"></script>
+<script type="text/javascript" src="http://s.pikstra.com/js/jquery.ui.touch.min.js"></script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-38239877-1']);
@@ -40,7 +40,7 @@
 window.fbAsyncInit = function() {
     // init the FB JS SDK
     FB.init({
-      appId      : '296884120434597',
+      appId      : '503403299764820',
       channelUrl : '//pikstra.com/channel.html',
       status     : true,
       xfbml      : true,
@@ -49,15 +49,8 @@ window.fbAsyncInit = function() {
 
     FB.Event.subscribe('edge.create', function(response) {
 		if (response.search("facebook.com/pikstra") > 0) {
-			countLikes(1, 'http://www.facebook.com/pikstra');
+			closePopup();
 		}
-		
-	});
-	FB.Event.subscribe('edge.remove', function(response) {
-		if (response.search("facebook.com/pikstra") > 0) {
-			countLikes(1, 'http://www.facebook.com/pikstra', 1);
-		}
-		
 	});
   };
 
@@ -79,10 +72,13 @@ window.fbAsyncInit = function() {
 		<nav id="topMenu" class="ddsmoothmenu">
 		<ul id="menu-topmenu" class="menu">
 			<li class="topMenuLogo"><a href="http://pikstra.com" class="topMenuLink">Pikstra</a></li>
+			<li class="randomButton" title="Random picture"><a href="http://pikstra.com/random">Random picture</a></li>
+			<li class="showSearch" title="Search"></li>
 			<li id="topMenuMessages"><div class="msgContainer">
 				<div class="msgClose" onclick="msgClose();">x</div><p></p>
 			</div></li>
 		</ul>
+		
 		</nav>
 		
 		
@@ -90,15 +86,15 @@ window.fbAsyncInit = function() {
 			<a href="javascript:void(0);" onclick="displayLogin(); return false;">Login with Facebook</a>
 		</div>
 		
-		<div class="showSearch" title="Search"></div>
-		<div class="randomButton" title="Random picture"><a href="http://pikstra.com/random">Random picture</a></div>
-		<!-- End #topMenu -->
+		
+		<div class="topMenuMakeMeme"><a href="http://pikstra.com/makememe">Make a meme</a></div>
+		<div class="topMenuUpload"><a href="http://pikstra.com/upload">Upload</a></div>
 			
 		<!-- Begin #topSearch -->
 		<div id="topSearch">
 			<form id="searchform" action="http://pikstra.com" method="get" onsubmit="submitSearchForm(); return false;">
 				<input type="text" id="s" name="s" placeholder="Type in your search..." value="">
-				<div class="searchSumit" onclick="submitSearchForm();"></div>
+				<div class="searchSubmit" onclick="submitSearchForm();"></div>
 				<div class="clear"></div>
 			</form>
 		</div>
@@ -106,6 +102,10 @@ window.fbAsyncInit = function() {
 		
 	</div>
 	</div>
+	
+	
+	
+	
 	<!-- End #header -->
 <!-- Begin #mainWrapper -->
 <div id="mainWrapper">
@@ -163,7 +163,7 @@ window.fbAsyncInit = function() {
 	<div id="footerInner">
 	<!-- BEGIN COPYRIGHT -->
 	<div id="copyright">
-		©2013&nbsp;
+		©2014&nbsp;
 		<strong><a href="http://www.facebook.com/pikstra">Facebook</a></strong>&nbsp;|&nbsp;
 		<strong><a href="https://twitter.com/pikstracom">Twitter</a></strong>&nbsp;|
 		<a href="http://pikstra.com/contact">Contact Us</a>&nbsp;|&nbsp;
@@ -173,19 +173,20 @@ window.fbAsyncInit = function() {
 	<!-- END COPYRIGHT -->	
 	</div>
 </footer>
-<div id="screenCover" class="closeBox" onclick="$('.closeBox').css('display', 'none');"></div>
+<div id="screenCover" class="closeBox" onclick="closePopup();"></div>
 <div id="userSettingsBox" class="closeBox"></div>
 <div id="userLoginBox" class="closeBox"></div>
 <div id="cnfrmBox"><p></p><div id="cnfrmBoxY" class="mediumButton">Yes</div><div id="cnfrmBoxN" class="mediumButton">No</div></div>
 <div id="imgLoadFonts">1</div>
+
 		</section>
 		<!-- End section -->
 
 <!-- Begin sidebar -->
 <aside>
 <div class="imgCtrlBox">
-	<a href="http://pikstra.com/upload" class="imgCtrlButton imgUploadPic"><img src="/static/images/button_upload_pic.png" alt="Upload pic"></a>
-	<a href="http://pikstra.com/makememe" class="imgCtrlButton imgMakeMeme"><img src="/static/images/button_make_meme.png" alt="Make a meme"></a>
+	<a href="http://pikstra.com/upload" class="imgCtrlButton imgUploadPic">Upload</a>
+	<a href="http://pikstra.com/makememe" class="imgCtrlButton imgMakeMeme">Make a meme</a>
 	<div class="clear"></div>
 </div>
 
