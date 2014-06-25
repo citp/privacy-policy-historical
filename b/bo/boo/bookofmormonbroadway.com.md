@@ -1,54 +1,84 @@
-> *The following text is extracted and transformed from the bookofmormonbroadway.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230202252id_/http%3A//www.bookofmormonbroadway.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookofmormonbroadway.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092951id_/http%3A//bookofmormonbroadway.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - The Book of Mormon
+# The Book of Mormon on Broadway | Official Website
 
 ## Privacy Policy
 
-The Book of Mormon is committed to preserving the privacy of all visitors to [www.bookofmormononbroadway.com](http://www.bookofmormononbroadway.com/). Please read the following privacy policy to understand how we use and protect the information that you provide to us.
+This privacy policy describes the treatment of information provided or collected on the sites where this privacy policy is posted. 
 
-If you are 16 years or younger you may not register with us on the Site. Ask the permission of a parent or guardian who should register your personal information on your behalf. If we become aware that you are 16 years or younger and you have not obtained such permission, we will remove your personal information from our records.
+**Types of Information We Collect**
 
-By browsing and using our website you agree to this policy governing your use of the website. If you do not accept this policy, you must not use our website.
+We collect two kinds of information: personal information and anonymous information.
 
-This policy applies only to this website and not to other websites to which we provide links. We also enter into agreements with commercial partners whose websites may be co-branded or framed by us and which you may visit directly through our website. These websites are not subject to our privacy policy. You are advised to read the privacy policy of such other websites.
+**Personal information**
 
-We may change our privacy policy from time to time without notification and you should regularly review this policy when you visit our site.
+We may collect personal identification information from you in a variety of ways, including, but not limited to, information you provide to us when you: 
 
-  1. INFORMATION THAT WE COLLECT FROM YOU 
-    1. If you decide to register with [www.bookofmormononbroadway.com](http://www.bookofmormononbroadway.com/) you will be asked to provide certain information about yourself including your name and contact details. By submitting your personal information, you consent to the collection, use and transfer of your information in accordance with the terms of this privacy policy.
-    2. We may also collect information about your usage of the Site, as well as information about you, from emails, phone calls or letters that you send to us. We will only use any such information in accordance with the terms of this privacy policy.
-  2. USE OF YOUR INFORMATION 
-    1. We will only use your information for the following purposes: 
-      1. to enable us to provide you with access to all parts of the Site and to enable you to download information and materials from the Site;
-      2. where you have so consented on the registration form, to contact you with our newsletter other email updates and where you order products from us to confirm the order details;
-      3. to produce reports, statistics and analysis of the types of people who access the site;
-      4. to contact you for your views on the Site and to notify you occasionally about important changes or developments to the Site;
-      5. to administer, support, improve and develop our Site.
-    2. If you change your mind about being contacted in the future, please let us know and we will remove you from our mailing list.
-  3. DISCLOSURE OF YOUR INFORMATION 
-    1. We do follow strict guidelines in the storage and disclosure of information which you have given us, to prevent unauthorized access. We comply with the laws of the countries from which we operate.
-    2. We do not seek any sensitive personal data other than that which is reasonable and necessary for the purposes sought.
-    3. By providing us with the information requested you are giving us your explicit consent to collect, process, disclose, transfer or store your Sensitive Personal Data for the purposes of processing orders for goods/services.
-    4. We do not disclosure your personal data to any third party except to the extent that we may disclose your personal data to third parties for the purposes of processing orders made by you for goods or services from us.
-  4. COOKIES 
-    1. Cookies are small amounts of information which we store on your computer. Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalize the content of the Site for you. You may set up your computer to reject cookies by although, in that case, you may not be able to use certain features on our site.
-  5. SECURITY AND DATA RETENTION 
-    1. We employ security measures to protect your information from access by unauthorized persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires.
-  6. ACCESSING AND UPDATING 
-    1. You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us.
-  7. CHANGES TO OUR PRIVACY POLICY 
-    1. Any changes to our privacy policy in the future will be posted to the Site and, where appropriate, through e-mail notification.
-  8. USE OF THIRD PARTY AD NETWORKS 
-    1. Third-party advertising companies may serve ads on our behalf. These companies may employ cookies and action tags to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is anonymous.
-  9. COPYRIGHT NOTICE 
-    1. All text, images, graphics, sounds and software code ("Content") on this website are copyrighted property of its respective owners, its clients, contributors and its programmers unless otherwise noted. You may not reproduce, redistribute, publish or otherwise use by electronic or any other means any of the Content without the prior written consent.
-  10. TRADEMARKS 
-    1. "The Book of Mormon" and other trademarks, service marks, brands, product names, designs and logos related to "The Book of Mormon" and indicated on this website are owned, controlled or licensed by us. They may not be used or displayed without our prior written consent. All other trademarks, service marks, brands, product names, designs, company names and logos appearing on this website are the property of their respective owners.
+  * Subscribe to our newsletter, fill out a form, enter a contest or sweepstakes,
+  * Use our sites and applications, our applications on third-party sites or platforms such as social networking sites,
+  * or in connection with other activities, services, features or resources we make available on our sites or through our applications. 
 
 
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to:
+You may be asked for your name, email address, telephone, social media username, or other information. 
 
-Website administrator: 
+You may, however, visit our sites anonymously. We will collect personal identification information from you only if you voluntarily submit it to us. You can always refuse to supply personally identification information, but that may prevent you from engaging in certain activities on our sites.
 
-aka 630 9th Avenue Suite 1411 New York, New York 10036
+**Anonymous Information**
+
+We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. This information may include:
+
+  * Location information when you visit our sites or use our applications, including location information either provided by a mobile device interacting with one of our sites or applications, or associated with your IP address, where we are permitted by law to process this information
+  * Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites, use our applications on third-party sites or platforms or open emails we send.
+
+
+
+**How we use collected information**
+
+We may collect and use your personal information for the following purposes:
+
+  * To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * To personalize your experience: We may use information in the aggregate to understand how our Users as a group use the services and resources we provide.
+  * To improve our sites: We may use feedback you provide to improve our products and services.
+  * To run a promotion, contest, survey or other site feature
+  * To send periodic emails: To send you information you agreed to receive about topics we think will be of interest to you. . If at any time the you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * To respond to you: We may use your email address to respond to your inquiries, questions, and/or other requests
+  * To send messages to your cell phone: To send you offers and information via SMS. Message & data rates may apply. You will be able to opt out of receiving future messages at any time.
+
+
+
+**How we protect your information**
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, and data stored on our Site.
+
+**Sharing your personal information**
+
+We do not sell, trade, or rent your personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners and trusted affiliates for the purposes outlined above. We may use third party service providers to help us operate our business and the sites or administer activities on our behalf, such as sending out newsletters or administering promotions. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+**Third party websites**
+
+Users may find advertising or other content on our sites that links to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our sites. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to one or more of our sites, is subject to that website's own terms and policies.
+
+**Children**
+
+We have no intention of collecting any personal data from individuals under the age of 13. Where appropriate, we will specifically instruct children not to submit such information. If we learn that a child under 13 has sent us personal information, we will delete it from our system. Parents should be aware that while our Privacy Policy will govern our use of personal data, any information which is voluntarily given by anyone (including children) on our site or on our social media feeds may be used by other parties to generate unsolicited communications.
+
+**Changes to this privacy policy**
+
+We have the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage you to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By using this site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our site. Your continued use of the site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+The Book of Mormon  
+c/o BLT Communications  
+6430 Sunset Boulevard, 8th Floor  
+Los Angeles, CA 90028  
+bookofmormonbroadway@gmail.com
+
+This document was last updated on March 26, 2014
