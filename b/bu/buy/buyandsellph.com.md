@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buyandsellph.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208165641id_/http%3A//buyandsellph.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyandsellph.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075215id_/http%3A//buyandsellph.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# 
+# Cavite :
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
