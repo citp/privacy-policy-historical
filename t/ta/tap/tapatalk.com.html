@@ -1,28 +1,17 @@
-<!--The following is the downloaded HTML source of the tapatalk.com privacy policy that was archived on 2013-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131220171316id_/http%3A//www.tapatalk.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tapatalk.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625134103id_/http%3A//tapatalk.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta name="keywords" content="blackberry, android, s60, ipb, smf, nokia, ipod, forumapp, touchbb, tapatalk, mobiquo, iphone, skin, theme, forum, community, bbs, discuz, vbulletin, phpbb3,  mobile, discussion">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Tapatalk - Connecting Communities</title>
-<link rel="stylesheet" type="text/css" href="resources/stylesheets/home.css">
-<script type="text/javascript" src="/misc/jquery.js"></script>
-</head>
-<body>
 
-<!-- header start -->
-	
-
-
-
-<meta name="twitter:description" content="Stay connected with your community on-the-go with this award-winning forum app">
 <meta name="twitter:card" content="app">
-<meta name="twitter:app:id:iphone" content="id307880732">
-<meta name="twitter:app:id:ipad" content="id307880732">
+<meta name="twitter:description" content="Stay connected with your community on-the-go with this award-winning forum app">
+<meta name="twitter:app:id:iphone" content="307880732">
+<meta name="twitter:app:id:ipad" content="307880732">
 <meta name="twitter:app:id:googleplay" content="com.quoord.tapatalkpro.activity">
 
+
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="apple-itunes-app" content="app-id=585178888">
+<meta name="apple-itunes-app" content="app-id=307880732">
 <meta name="google-play-app" content="app-id=com.quoord.tapatalkpro.activity">
 <title>Tapatalk</title>
 <link rel="apple-touch-icon" href="/images/apple-touch-icon-iphone.png">
@@ -30,7 +19,7 @@
 <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-iphone4.png">
 <link rel="apple-touch-icon" sizes="144x144" href="/images/apple-touch-icon-ipad3.png">
 
-<link rel="stylesheet" type="text/css" href="/resources/stylesheets/home.css">
+<link rel="stylesheet" type="text/css" href="/resources/stylesheets/home.css?1243365655673">
 <link rel="stylesheet" type="text/css" href="/resources/chosen/chosen.css">
 
 <!-- App Indexing for Google Search -->
@@ -39,7 +28,6 @@
 
 <script type="text/javascript" src="/misc/jquery.js"></script>
 <script type="text/javascript" src="dygraph-combined.js"></script>
-
 <script type="text/javascript">
 $(document).ready(function(){
     $(".top_list a").addClass("a_hover_out");
@@ -48,7 +36,7 @@ $(document).ready(function(){
         if(typeof(imgsrc) != 'undefined')
         {
             var arr = imgsrc.split(".");
-            var newsrc = arr[0] + "_select.png";
+            var newsrc = arr[0] + "_select.png?123";
             $(this).find("img").attr("src",newsrc);
         }
         $(this).find("a").addClass("a_hover");
@@ -58,7 +46,7 @@ $(document).ready(function(){
         if(typeof(imgsrc) != 'undefined')
         {
             var arr = imgsrc.split("_select");
-            var newsrc = arr[0] + ".png";
+            var newsrc = arr[0] + ".png?123";
             $(this).find("img").attr("src",newsrc);
         }
         $(this).find("a").removeClass();
@@ -66,9 +54,10 @@ $(document).ready(function(){
     });
 });
 
-</script>
+</script></head>
 
 
+<body style="">
 
 <div id="popup_message_box" class="popup_message_box">
 
@@ -129,15 +118,15 @@ function closeMsgBox()
 
 </script><div id="reset_password_success_box" class="popup_message_box">
 
-	<div style="text-align:right;">
+	<div style="text-align:right;width:575px;">
 		<span class="payment_box_red" style="float:left;margin-left:42px;margin-top:10px;font-weight:bold;margin-top:30px;color:#3b3b3b;font-size:20px">Password Reset</span> 	
 		<span id="reg_name" style="float:left;margin-left:12px;margin-top:10px;font-weight:bold;margin-top:30px;color:#c34d2d;font-size:20px"></span>
 		<img src="images/cross_img.png" class="popup_top_close" onclick="closeResetPasswordBox()">
 	</div>
 	<br>
-	<div style="width:575px;margin:auto;float:left;margin-left:42px;margin-top:30px">
-			<span class="payment_box_red" style="margin-bottom: 32px;color:#3b3b3b;font-size:15px">A new password has been sent to your email address.
-	
+	<div style="width:520px;margin:auto;float:left;margin-left:42px;margin-top:30px">
+			<span class="payment_box_red" style="margin-bottom: 32px;color:#3b3b3b;font-size:15px">
+			A password reset request has been emailed to you. Please follow the instructions in that email. 	
 			</span>          
 	</div>
 </div>
@@ -260,7 +249,7 @@ function forgetpassword()
         $("#msg").html("<div id='flash' style='display:block'><img src='../resources/images/loading.gif'></div>");
     }
     $("#forget_password_loader").css("display","block");
-    $.post("/action_reset_password.php", { email: $("#email").val() },
+    $.post("/v2/landing/forgetPassword", { email: $("#email").val(),ajax:1,submit:1},
         function(data){
   
             if (data.result == 1)
@@ -272,7 +261,7 @@ function forgetpassword()
             else
             {
             	  $("#forget_password_loader").css("display","none");
-                emailErrorMsg = data.error;
+                emailErrorMsg = data.result_text;
                 emailErrorHtml = "<div style='float:left;padding-top:10px'><img src='../resources/images/t_ws_popup_warn.png'></div>"
                                 +"<div style='float:left;padding-top:10px;color:#b5482b'>&nbsp;&nbsp;"+emailErrorMsg+"</div>";;
                 $("#id_forget_password_error").html(emailErrorHtml);
@@ -310,9 +299,9 @@ function forgetpassword()
           <div class="forget_password" style="margin-right:70px;float:right" onclick="cancelLoginRegister();showForgetPasswordBox()"><span style="font-size:14px">Forgot Password?</span></div>
           <div id="id_error_login" style="float:left;margin-top:20px;margin-left:90px;font-size:14px;color:#b5482b;width:280px;text-align:left "></div>
  
-          <div class="image_container" style="margin-right:66px">
+          <div class="image_container" style="margin-right:74px">
              
-               <input type="image" class="submit" src="/images/submit_image.png" onclick="loginSubmit()" style="float:left;">
+               <button id="login_button" style="height:36px;padding:5px 16px;font-size:14px;" class="button" onclick="loginSubmit()">Submit</button>
                <img id="login_done_loader" src="/images/transparent_ajax_loader.gif" style="position:absolute; margin-top:5px;display:none;float:right;">               
           </div>
           <div class="clear"></div>
@@ -329,7 +318,7 @@ function forgetpassword()
          <a href="#none"> <div id="login_dialog_login" style="width:236px" class="login_dialog_tab_text_wraper"><span class="login_dialog_tab_text">Register</span>
           </div>  </a> 
              <img style="margin-left:41px;margin-top:10px" src="/images/login_dialog_divider.png">
-                <div id="left_desc_error" style="margin-bottom:22px;font-size:16px;color:#888888;margin-left:41px;margin-right:41px;margin-top:15px;float:left">This registration form is intended for forum owners managing their Tapatalk installation only</div>
+                <div id="left_desc_error" style="margin-bottom:22px;font-size:16px;color:#888888;margin-left:41px;margin-right:41px;margin-top:40px;float:left">This registration form is intended for forum owners managing their Tapatalk installation only</div>
       
     
           
@@ -349,14 +338,13 @@ function forgetpassword()
                     <label style="width:195px;" for="email" class="login_dialog_label">Email Address:</label>   
                     <input type="text" name="email" id="register_email" class="Login_dialog_text"><br>
                     <div class="input_slab"></div>
-                    <label style="width:195px;" for="re_email" class="login_dialog_label">Re-enter Email Address:</label>
-                    <input type="text" name="email1" id="re_email" class="Login_dialog_text"><br>
+                    
                 </div>
                 <div class="clear"></div>
            </form>
-              <div class="image_container" style="margin-right:40px">
+              <div class="image_container" style="margin-right:46px">
                   
-                    <input type="image" class="submit" src="/images/submit_image.png" onclick="ajaxRegister()" style="float:left;">
+                    <button id="register_button" style="height:36px;padding:5px 16px;font-size:14px;" class="button" onclick="ajaxRegister()">Register</button>
                     <img id="register_done_loader" src="/images/transparent_ajax_loader.gif" style="position:absolute; margin-top:5px; display:none;float:right;">
                </div>
          
@@ -395,6 +383,7 @@ function keyPressRegister(event)
 function loginSubmit()
 {    
     var loader = document.getElementById('login_done_loader');
+    $("#login_button").attr("disabled","true");
     loader.style.display = 'inline';
     var password = document.getElementById('id_login_password');
     var errorPassword = document.getElementById('id_error_login');
@@ -410,44 +399,31 @@ function loginSubmit()
 function ajaxLogin(target,username,password){
 	var values = {};
 	if(username == null){
-		  username = document.getElementById('id_login_username').value;
+		 username = document.getElementById('id_login_username').value;
    		 password = document.getElementById('id_login_password').value;
 	}
    values['username'] = username;
    values['password'] = password;
+   values['ajax'] = 1;
    
-   var _url = "/ajax_login.php";
-	$.post(_url,
-			values, function(response) {
-					if(response == 'admin' || response == 'member' || response == 'v2'){
-						 if(navigator.userAgent.match(/MSIE/i) && response != 'v2') {
-							 alert("Tapatalk Manage Console may not work well with Internet Explorer. We recommend Firefox, Chrome or Safair");
-						 }						 
-          				 if(tempTarget == undefined || tempTarget == null){//common login
-              				  if(response == 'admin')
-                 					window.top.location.href="/admin_landing.php";
-            				  else if(response == 'member')
-               					  window.top.location.href="/landing.php"; 
-            				  else if(response == 'v2') 
-                				  window.top.location.href="/v2";              
-         			 	 }else if(tempTarget == 'stay'){//stay on this page and do nothing
-            				  cancelLoginRegister();
-         			 	 }else {//redirect to target
-               				 window.top.location.href=tempTarget;                    
-           				}
-        }else{
-        	  var loader = document.getElementById('login_done_loader');
-        	    loader.style.display = 'none';
-           errMsg.innerHTML=response;
-        }   
-	});
-   var errMsg = document.getElementById('id_error_login');
-
+   var _url = "/v2/landing/actionSignin";
+	$.post(_url, values, 
+		function(response) {
+			if(response.result == true) {
+				window.location.href="/v2";
+        	} 
+        	else {
+                $("#id_error_login").html(response.result_text);
+            }
+			var loader = document.getElementById('login_done_loader');
+	        loader.style.display = 'none';   
+	},'json');
 }
 
 function ajaxRegister()
 {
   var loader = document.getElementById('register_done_loader');
+  $("#register_button").attr("disabled","true");
   loader.style.display = 'inline';
   var errMsg=document.getElementById('id_register_error');
   	var values = {};
@@ -455,27 +431,23 @@ function ajaxRegister()
   var  password1 = document.getElementById('register_password').value;
   var  password2 = document.getElementById('re_password').value;
   var  email1 = document.getElementById('register_email').value;
-  var  email2 = document.getElementById('re_email').value;
   values['username'] = username;
-  values['password1'] = password1;
-  values['password2'] =password2;
+  values['password'] = password1;
+  values['password1'] =password2;
   values['email'] = email1;
-  values['email2'] = email2;
-  var _url = "action_register.php";
+  values['ajax'] = 1;
+  values['submit'] = 1;
+  var _url = "/v2/landing/register";
  	$.post(_url,
 			values, function(response) {
-				   if(response== 'success'){
-             		//	cancelLoginRegister();
-             		//	showMsgBox(username,email1);
-             	//		setTimeout("location.href='index.php?login=true'",10000);
-             	//		  window.top.location.href="landing.php";
-             	
-             			ajaxLogin(null,username,password1);     
-       			  }else{
+				   if(response.result){            	
+             		  ajaxLogin(null,username,password1);     
+       			   }else
+           		   {
              			loader.style.display = 'none';
-            			errMsg.innerHTML=response;
+            			errMsg.innerHTML=response.result_text;
         		}
-	});
+	},'json');
 
 }
 
@@ -601,129 +573,155 @@ function close(id)
 
 <!-- header start -->
     <div class="header">
-        <div class="main">
-            <div class="header_left"><div class="headr_logo"><img src="/images/logo.png"></div></div>
-            <div class="header_right">
-                <div class="header_right_top">
+       
+         <div class="header_up">
+         	<div class="main">
+         	   <div class="header_right_top">
                 <ul class="top_list">
-                                              <li onclick="showLoginRegisterBox('register')"><a href="#none" class="a_hover_out"><img src="/images/Register_icon.png" style="vertical-align:middle"> &nbsp; Register</a></li>
-                        <li><a class="a_hover_out">|</a></li>
-                        <li onclick="showLoginRegisterBox('login')"><a href="#none" class="a_hover_out">Login</a></li>
+                                              <li onclick="showLoginRegisterBox('register')"><a href="#none" class="a_hover_out">Sign Up</a></li>
+                        <li onclick="showLoginRegisterBox('login')"><a href="#none" class="a_hover_out">Forum Owner Log In</a></li>
                         
-                                          <li><a class="a_hover_out">|</a></li>
-                        <li><a href="https://twitter.com/tapatalk" "="" class="a_hover_out"><img src="/images/twitter_icon.png" style="vertical-align:middle;height:16px;"></a></li>
+                                          <li><a href="https://twitter.com/tapatalk" class="a_hover_out"><img src="/images/twitter_icon.png" style="height:16px; margin-top: 8px;"></a></li>
                     </ul>
-                    
-                </div>
-                <div class="header_right_down">
-                    <ul class="navigation">
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/activate_tapatalk.php">Activate Tapatalk</a></li>
-                        <li><a href="/build.php">Build Your Own</a></li>
-                        <li><a href="/partners.php">Partners</a></li>
-                        <li><a href="/support.php">Support</a></li>
-                        <li><a href="/faq.php">FAQ</a></li>
-                        <li><a href="/aboutus.php">About Us</a></li>
-                    </ul>
-                </div>
-            </div>
+                 </div>   
+             </div>
+         </div>
+         <div class="header_down">
+         	<div class="main">
+	            <div class="header_left"><div class="headr_logo"><img src="/images/logo_big.png"></div></div>
+	            <div class="header_right">
+	                
+	                <div class="header_right_down">
+	                    <ul class="navigation">
+	                        <li><a href="/">HOME</a></li>
+	                        <li><a href="/activate_tapatalk.php">ACTIVATE TAPATALK</a></li>
+	                        <li><a href="https://blog.tapatalk.com">BLOG</a></li>
+	                        <li><a href="/partners.php">PARTNERS</a></li>
+	                        <li><a href="/support.php">SUPPORT</a></li>
+	                        <li><a href="/faq.php">FAQ</a></li>
+	                        <li><a href="/aboutus.php">ABOUT US</a></li>
+	                    </ul>
+	                </div>
+	            </div>
+          </div>
         </div>
     </div>
-    <div class="hr"></div>
     <!-- header end -->
 <!-- header end -->
 
 <!-- content start -->
 	<div class="content">
 		<div class="main">
-			<div class="page_title">Privacy Policy</div>
-			<div class="page_second_title">In Summary...</div>			
-			<div class="page_text">Tapatalk does not transmit your forum password and any of your conversation information to our server. All the communication are direct communication between your mobile device and the respective forum you are visiting.</div>		 
-			<div class="page_second_title">The Legal Jungle...</div>
-			 
-			<div class="page_text">Tapatalk, Inc., is committed to protecting the privacy of our customer's personal information. This statement applies with respect to the information that we collect from the Company Web site and Mobile Application, located at tapatalk.com and respective App Store. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site and mobile application following the posting of any amendment, modification or change shall constitute your acceptance thereof.</div>
-			 
-			<div class="page_third_title">I. INFORMATION COLLECTED</div>
-			 
-			 
-			<div class="page_text">We collect non-personally identifiable information about you in a number of ways, including tracking your activities through your IP address and your mobile device ID. We do not collect any personally identifiable information about you unless you voluntarily submit such information to us, by, for example, filling out a survey or registration form. The types of information that may be requested include your name, and your e-mail address</div>
-			 
-			<div class="page_third_title">II. USE OF INFORMATION</div>
-			 
-			 
-			<div class="page_text">In general, we will only use the information you provide to us for the purpose for which such information was provided. We may also use this information to deliver to you information about our company and promotional material from some of our partners, trend analysis, pattern detection, and site administration. Your information may also be used to contact you when necessary. Users may opt-out of receiving future mailings from Company and other entities by following the instructions set forth in the opt-out section below.</div>
-			 
-			 
-			<div class="page_text">Non-personal demographic and profile data is used to tailor your experience at our site and our mobile application, showing you content we think you might be interested in. This information may also be shared with advertisers on an aggregate non-personal basis.</div>
-			 
-			<div class="page_third_title">III. USE OF IP ADDRESSES</div>
-			 
-			<div class="page_text">We use your IP Address to help diagnose problems with our server, and to administer our Web site and Mobile Application.</div>
-			 
-			<div class="page_third_title">IV. USE OF COOKIES</div>
-			 
-			<div class="page_text">When you view our Web site we might store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a Web site as easily as possible. We use cookies to deliver content specific to your interests and to prevent you from reentering all your registration data at each connection.</div>
-			 
-			<div class="page_text">We may use an outside advertisement server company to display ads on our site and/or mobile application. These ads may contain cookies. The advertisement server company may collect cookies received with outside banner ads. We do not have access to information that would confirm the use of cookies by the advertisement server company.</div>
-			 
-			<div class="page_third_title">V. SECURITY</div>
-			 
-			<div class="page_text">Our site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all reasonable steps to insure the safety of your personal information.</div>
-			 
-			<div class="page_third_title">VI. OTHER WEB SITES; LINKS</div>
-			 
-			 
-			<div class="page_text">Our Web site contains links to other Web sites. Our Mobile Application may also contains links to other mobile application and Web sites. Tapatalk, Inc. is not responsible for the privacy practices or the content of such Web sites and Mobile application.</div>
-			 
-			 
-			<div class="page_third_title">VII. CORRECT; UPDATE</div>
-			 
-			 
-			<div class="page_text">Tapatalk, Inc. allows its users the option to change or modify information previously provided. This may be done through the following methods:</div>
-			 
-			 
-			<div class="page_text">(1) e-mail the information to admin@tapatalk.com 
-			<br>(2) visit the Community Support section of the site and follow the appropriate instructions.</div>
-			 
-			 
-			<div class="page_text">Unfortunately, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from or corrected in our records.</div>
-			 
-			<div class="page_third_title">VIII. CHOICE; OPT OUT</div>
-			 
-			<div class="page_text">You may opt-out of receiving communications from our partners, and from us, by the following means:</div>
-			 
-			<div class="page_text">(1) Click “unsubscribe” link in the communication emails you have received from us.</div>
-			 
-			<div class="page_third_title">IX. PUBLIC FORUMS</div>
-			 
-			 
-			<div class="page_text">This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</div>
-			 
-			 
-			<div class="page_second_title">Contacting us:</div>
-			 
-			 
-			 
-			<div class="page_text">If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at admin@tapatalk.com</div>
-		</div>	 
-	</div>
+			<div class="page_title">Privacy Policy</div>		
+			<div class="page_text">				
 
+<div>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">Tapatalk, Inc. (“<b style="mso-bidi-font-weight: normal">Tapatalk</b>”, “<b style="mso-bidi-font-weight: normal">we</b>”, “<b style="mso-bidi-font-weight: normal">our</b>”, or “<b style="mso-bidi-font-weight: normal">us</b>”) is an online and mobile aggregator of forums and communications platforms (“<b style="mso-bidi-font-weight: normal">Service</b>”). Tapatalk operates the Service on http://www.tapatalk.com (“<b style="mso-bidi-font-weight: normal">Website</b>”) and on Tapatalk’s mobile application available on various mobile operating systems (“<b style="mso-bidi-font-weight: normal">Application</b>”).</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">This Privacy Policy describes Tapatalk’s collection, use and sharing of personally identifiable information, which may include your first and last name, email address, mailing address, or telephone number, you voluntarily provide when using the Service (“<b style="mso-bidi-font-weight: normal">PII</b>”) through the Website or the Application. This Privacy Policy also explains how we collect, use and share information based on your interactions with the Service. </font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">The Service is hosted in the United States and is available through our Website and the Application, and is not directed to individuals under the age of thirteen (13). Tapatalk does not knowingly collect PII from individuals under thirteen (13) years of age. </font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">BY USING THE SERVICE, YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTOOD, AND AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU MUST IMMEDIATELY CEASE USING THE SERVICE.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">PUBLIC FORUMS, FOLLOWING USERS, FOLLOWING POSTS AND OPT-OUT</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">Tapatalk makes chat rooms, forums, message boards, and/or news groups available to users of the Service. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information on any forum.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">Upon your request to join a forum via the Service, Tapatalk may transmit information you provide (such as email address or information provided through your Facebook or Twitter account if you use it as your Tapatalk forum login) to the requested forum, but, except for information related to your Tapatalk account, we do not retain or store on our servers any of that information, as well as information pertaining to your interactions with forums. We do not store on our servers any email addresses, usernames or passwords except for those provided by you for use with your Tapatalk account. Once you successfully enter a forum, all communications within the forum via the Service are direct communications between your mobile device and the respective forum you are visiting.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">We may provide features in the Service that allow you to follow other users or follow specific forum posts. These features will also allow other users to follow you or follow specific forum posts that you make via the Service. In the event that you do not want to allow other users to follow you or your forum posts, please visit the Settings section the Application to opt-out of these features.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">INFORMATION COLLECTED</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">When you register with us and use the Service, you generally provide&nbsp;your name, email address, user name, password and other registration information that may include, if you prefer, your Facebook or Twitter login information. We collect non-personally identifiable information about you in a number of ways, including tracking your activities through your IP address and your mobile device ID. <span style="mso-spacerun: yes">&nbsp;</span>On the Website, Tapatalk may automatically gather information of the sort that browsers automatically make available, including IP addresses, domain servers, types of computers accessing the Website, and types of web browsers accessing the Website. In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application. This information will not identify you and is therefore considered “Non-PII”. We do not collect any PII about you unless you voluntarily submit such information to us, by, for example, filling out a survey or registration form.&nbsp;</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US" style="mso-bidi-font-weight: bold"><font face="Calibri"><font size="3">USE AND SHARING OF INFORMATION</font></font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">In general, we will only use the information you provide to us for the purpose for which such information was provided. Non-personal demographic and profile data may be used to tailor your experience on the Website or using the Application, including, showing you content we think you might be interested in. This information may also be shared with advertisers on an aggregate non-personally identifiable basis.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">The information, including PII, we receive from you through the Service may be used or shared by us with third parties including marketing businesses, lead generation businesses, and our corporate affiliates (collectively “<b style="mso-bidi-font-weight: normal">Affiliates</b>”). We may also use this information to deliver to you information about our company and promotional material from some of our partners, trend analysis, pattern detection, and site administration. Your information may also be used to contact you when necessary. Users may opt-out of receiving future mailings from Company and other entities by following the instructions set forth in the Email Opt-Out section below.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">In addition, there may be instances when Tapatalk may access or disclose PII or Non-PII, including under the following circumstances: (i) to protect or defend the legal rights or property of Tapatalk and its Affiliates; (ii) to protect the safety and security of users of the Service or members of the public including acting in urgent circumstances; (iii) to protect against fraud or for risk management purposes; or (iv) to comply with applicable law or legal process. In addition, if Tapatalk sells all or part of its business or sells or transfers all or a material part of its assets, or is otherwise involved in a merger or transfer of all or a material part of its business, we may transfer your PII or Non-PII to the party or parties involved in the transaction as part of that transaction.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">USE OF IP ADDRESSES</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">We use your IP Address or equivalent mobile geo-identifier to locate users by country; help diagnose problems with our server, and to administer the Service.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font face="Calibri"><font size="3">USE OF COOKIES<b> </b><span style="mso-bidi-font-weight: bold">BEACONS, AND PIXEL TAGS</span></font></font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">When you use the Website we might store some information on your computer. This information may be in the form of a "cookie" “web beacon” or similar file. “<b style="mso-bidi-font-weight: normal">Cookies</b>” are small identifiers sent from a web server that are stored on your computer’s hard drive for the purpose of identifying your browser during interaction on Websites. <span style="mso-spacerun: yes">&nbsp;</span>“<b style="mso-bidi-font-weight: normal">Web Beacons</b>” are invisible electronic images, called a single-pixel (1x1) or clear GIF, which can recognize certain types of information on your computer, such as a Cookie number, time and date of a page view, and a description of the page where the Web Beacon is placed. </font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">We use Cookies to deliver content specific to your interests, including advertising and to enable you to from having to reenter all your registration data at each connection. We may use an outside advertisement server company to display ads on the Website or Application. These ads may contain Cookies. The advertisement server company may collect Cookies received with outside banner ads. We do not have access to information that would confirm the use of cookies by the advertisement server company. You can learn more about how to delete or control Cookies at </font><a href="http://www.aboutcookies.org/">www.aboutcookies.org</a><font face="Calibri"><font size="3">.<b> <o:p></o:p></b></font></font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">We may allow third parties to collect the anonymous data received from Cookies and Web Beacons on our behalf, and to retain and use this data themselves. In addition, we may share this anonymous data with other third parties. To protect your privacy, we do not use Cookies or Web Beacons to store or transmit any PII about you. You have the ability to accept or decline Cookies. Most web browsers and mobile automatically accept Cookies, but you can usually modify your browser’s or mobile device’s setting to decline Cookies if you prefer. If you choose to decline Cookies, certain features of our Website may not function properly or not at all as a result. You may render some Web Beacons unusable by rejecting their associated cookies.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">From time to time, we may place Cookies and Web Beacons on your computer or mobile device to collect anonymous data related to your use of our Website and your use of the Application, including Service usage analytics, and content and advertising personalization. </font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US" style="mso-bidi-font-weight: bold"><font face="Calibri"><font size="3">ANALYTICS SERVICE PROVIDERS<o:p></o:p></font></font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">We may allow certain third-party analytics service providers to include web beacons within the pages of our Website and anonymous identifiers on the Application. We may also share portions of our log file data, including IP addresses, with these service providers for analytics purposes. These service providers aggregate information about what you see and interact with on our Website and on the Application.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">These service providers offer information about their data collection practices, and in some cases, an opt-out, on their respective Websites. We allow web beacons from and share log file data with the following service providers; please click below to visit their Websites and their respective privacy policies to better understand the controls available to you: </font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><span lang="EN-US"><a href="http://www.flurry.com/user-opt-out.html">Flurry</a></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><a href="http://www.google.com/privacy/ads/" target="_blank">Google Analytics</a><font size="3" face="Calibri"> </font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font face="Calibri"><font size="3">None of the PII that you provide to us when using the Service is shared with our third party analytics service providers as part of our analytics programs.<b><o:p></o:p></b></font></font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US" style="mso-bidi-font-weight: bold"><font face="Calibri"><font size="3">ADVERTISEMENTS, AD NETWORKS AND OTHER THIRD PARTIES<o:p></o:p></font></font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">We may allow certain third-party companies to serve advertisements to you and collect anonymous information regarding your use of the Service. Typically, these companies are third party ad servers, ad agencies, technology vendors, providers of sponsored content and research firms, and they may include a web beacon within our Website or other tracking methodologies such as anonymous device identifiers on the Application to provide customization, auditing, research and reporting for us, our partners, and advertisers. Although this may involve sharing of some PII elements, it will be shared only in an encrypted, anonymized form. Because your web browser must request these advertisements and/or web beacons from the third-party’s web servers, these companies can view, edit or set their own cookies, just as if you had requested a webpage from their Website directly. These companies may also use these cookies or web beacons to collect information on the Website pages we host to deliver you customized content and/or ads on both this and other Websites.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">We may customize some ads tailored to your interests when you visit certain pages of the Website and the Application, but we do not provide any unencrypted PII to an advertiser when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the possibility exists that the advertiser will make the assumption that you are interested in the subject matter of the advertisements.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">The following third parties offer information about their data collection practices, and in some cases, an opt-out, on their respective websites (click to visit their websites). Please visit each company’s respective privacy policy to better understand the controls available to you. You can also learn more about ad serving companies and opt-out from each of them at the </font><a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">Network Advertising Initiative Website</a><font size="3" face="Calibri"> or the </font><a href="http://www.aboutads.info/choices/" target="_blank">Digital Advertising Alliance Website</a><font size="3" face="Calibri">. </font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><span lang="EN-US"><a href="http://lp.mydas.mobi/rich/foundation/opt-out.php">Millennial Media</a></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><span lang="EN-US"><a href="http://www.flurry.com/user-opt-out.html">Flurry</a><span class="MsoHyperlink"><span style="FONT-FAMILY: Calibri"><o:p></o:p></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><span lang="EN-US"><a href="http://www.amazon.com/b/?&amp;node=5160028011">Amazon</a></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><span lang="EN-US"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">Please note this does not opt you out of being served all advertising. If you use the Service, you may continue to receive generic advertisements. If you wish to opt-out of receiving generic advertisements from us, please see our Opt-Out Policy below.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US" style="mso-bidi-font-weight: bold"><font face="Calibri"><font size="3">LINKS<o:p></o:p></font></font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">The Service may contain links to websites, forums, or applications not operated by Tapatalk. The Service may also carry advertisements from third party companies not associated with Tapatalk. Tapatalk is not responsible for the privacy practices of websites, forums, or applications or other services operated by third parties that are linked to or integrated with the Service or for the privacy practices of third party advertising companies. Once you leave the Service via such a link, access a forum, a third party application or click on an advertisement, you should check the applicable privacy policy of the forum, third party, or advertiser site to determine, among other things, how they will handle any PII they collect from you.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US" style="mso-bidi-font-weight: bold"><font face="Calibri"><font size="3">WIDGETS<o:p></o:p></font></font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">We may include a widget from a third party on the Website or on the Application that allows interaction or content sharing by users. “<b style="mso-bidi-font-weight: normal">Widgets</b>” are mini-programs that provide specific services or content from a third party. These Widgets, such as a Facebook “Share” or “Like” button, may be visible to you on a forum page or entry you visit. The third party providing the Widget may offer controls for you to manage the Widget’s appearance and functionality. Your interaction with a Widget typically allows the third party to collect some information about you through the third party’s cookies or its registration information. In some cases, the third party may recognize you through its Widgets and cookies even when you do not interact with the Widget. Please visit the following third-parties’ respective privacy policies to better understand their data collection practices and controls they make available to you (click to visit their websites):</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><a href="http://www.facebook.com/policy.php" target="_blank">Facebook</a><br><a href="https://twitter.com/privacy" target="_blank">Twitter</a></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US" style="mso-bidi-font-weight: bold"><font face="Calibri"><font size="3">DO NOT TRACK<o:p></o:p></font></font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">Do Not Track (“<b style="mso-bidi-font-weight: normal">DNT</b>”) is a privacy preference that users can set in their web browsers. Tapatalk honors DNT settings in your browser, but will override such setting in the event that you turn on the “Remember Me” feature in the Service settings. If you want Tapatalk to fully honor DNT headings from your browser, visit settings and turn the “Remember Me” feature to the ‘Off’ position.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">SECURITY</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">Tapatalk uses commercially reasonable administrative, technical, personnel, and physical security measures designed to safeguard PII in our possession against loss, theft and unauthorized use, disclosure, or modification. In addition, Tapatalk uses reasonable methods in an effort to make sure that the PII we store about you is consistent with the updated information you provide to us. When we provide information to our third party advertising or analytics partners, any and all PII such as email addresses and mobile device identifiers are encrypted. </font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">CORRECT OR UPDATE YOUR INFORMATION</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">Tapatalk, Inc. allows its users the option to change or modify information previously provided. This may be done through the following methods:</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">(1) e-mail the information to admin@tapatalk.com <br>(2) visit the Community Support section of the Website or in the Application and follow the appropriate instructions.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">Unfortunately, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from or corrected in our records.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">EMAIL OPT OUT</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">You may opt-out of receiving communications from our partners, and from us, by the following means:</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">(1) Click “unsubscribe” link in the communication emails you have received from us or from partners whose emails you previously subscribed.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US" style="mso-bidi-font-weight: bold"><font face="Calibri"><font size="3">EU SAFE HARBOR FRAMEWORK<o:p></o:p></font></font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">Tapatalk complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit the </font><a href="http://export.gov/safeharbor/">U.S. Department of Commerce</a><font size="3" face="Calibri"> website.</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US" style="mso-bidi-font-weight: bold"><font face="Calibri"><font size="3">CHANGES TO THIS PRIVACY POLICY<o:p></o:p></font></font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">From time to time Tapatalk may modify this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, changes in the features of the Service, or technology, and such modifications shall be effective upon posting by Tapatalk on our Website or in a update to the Application. </font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">Your continued use of the Service after Tapatalk posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. Therefore, it is important that you review this Privacy Policy regularly to ensure you are updated as to any changes. </font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">If Tapatalk materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Privacy Policy under which it was collected unless you have been provided notice of, and have not objected to, the change. Our Privacy Policy was last updated on and is effective as of February 24, 2014. </font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US" style="mso-bidi-font-weight: bold"><font face="Calibri"><font size="3">CONTACT INFORMATION AND OPT-OUT POLICY<o:p></o:p></font></font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt"><span lang="EN-US"><font size="3" face="Calibri">If you have any questions or concerns about this Privacy Policy, or you do not wish to receive any information from us, please contact us at </font><a href="mailto:admin@tapatalk.com">admin@tapatalk.com</a><font size="3" face="Calibri"> or at:</font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><span lang="EN-US"><font size="3"><font face="Calibri">Tapatalk, Inc.<br><span style="mso-bidi-font-weight: bold">910 Colorado Avenue<o:p></o:p></span></font></font></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><span lang="EN-US" style="mso-bidi-font-weight: bold"><font size="3" face="Calibri">Santa Monica, CA 90401</font></span></p></div>
+			</div>
+		</div>
+	</div>
 <!-- content end -->
 
 <!-- footer start -->
 		<!-- footer start -->
+<div class="footer_container ">
 	<div class="footer">
 		<div class="main">	
-	        <p align="center">&nbsp;</p>
 	        <div align="center">
-	            <div style="font-size:14px;color:#808070;">
-	            <a href="/api.php">API</a> | <a href="/faq.php">FAQ</a> | <a href="/privacy.php">Privacy Policy</a> | <a href="/license.php">License Agreement </a>| Copyright © 2013 Tapatalk Inc<br><br></div>
+	            <div style="margin-top:16px;color:#ffffff;">
+	            <a href="/api.php">API</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/faq.php">FAQ</a> 
+	            &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/privacy.php">Privacy Policy</a>
+	             &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/license.php">End-User License Agreement </a>
+	             &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/forum_owner_license.php">Forum Owner License Agreement </a>
+	             &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a style="font-family: GothamRnd Book;">Copyright © 2014 Tapatalk Inc</a>
+	        	</div>
+	        	<div style="margin:8px;">
+	        	<img src="/images/amazon.png" width="100" height="38">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/rackspace.png?123" width="135" height="40">
+	        	</div>
 	        </div>
-	        <p align="center"><img src="/images/aws.png" width="100" height="38">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/rackspace.png" width="135" height="40"></p>
+	
       </div>
 	</div>
-
-	<!-- footer end --><!-- footer end -->
+</div>
+	<!-- footer end -->
+	
+	<script>
+	
+	$(document).ready(function()
+	{
+		var body_height = $('body').height();
+		var d_height = $(window).height();
+		if(body_height < d_height)
+		{
+			$(".footer").css("bottom","0");
+		}
+		else
+		{
+			$(".footer").removeAttr("style");
+		}
+	})
+	</script><!-- footer end -->
 
 
 
