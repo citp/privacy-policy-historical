@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the flightrising.com privacy policy that was archived on 2013-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131211210437id_/http%3A//flightrising.com/main.php%3Fp%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flightrising.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625083504id_/http%3A//flightrising.com/main.php%3Fp%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o?o:n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({D5DuLP:[function(t,n){function e(t,n){var e=r[t];return e?e.apply(this,n):(o[t]||(o[t]=[]),void o[t].push(n))}var r={},o={};n.exports=e,e.queues=o,e.handlers=r},{}],handle:[function(t,n){n.exports=t("D5DuLP")},{}],G9z0Bl:[function(t,n){function e(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&p&&p.body){l.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",i("mark",["onload",a()]);var n=p.createElement("script");n.src=l.proto+t.agent,p.body.appendChild(n)}}function r(){"complete"===p.readyState&&o()}function o(){i("mark",["domContent",a()])}function a(){return(new Date).getTime()}var i=t("handle"),u=window,p=u.document,s="addEventListener",c="attachEvent",f=(""+location).split("?")[0],l=n.exports={offset:a(),origin:f,features:[]};p[s]?(p[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(p[c]("onreadystatechange",r),u[c]("onload",e)),i("mark",["firstbyte",a()])},{handle:"D5DuLP"}],loader:[function(t,n){n.exports=t("G9z0Bl")},{}]},{},["G9z0Bl"]);</script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Flight Rising </title>
+<title>Flight Rising </title>
 
 <link rel="stylesheet" type="text/css" href="/includes/custom-theme/jquery-ui-1.8.19.custom.css">
 <link rel="stylesheet" type="text/css" href="/includes/2_1.css">
@@ -17,21 +17,21 @@
 <script type="text/javascript">
 function helpMe(tut, first){
 	$('body').append('<div id="tutorial"></div>');
-	$("#tutorial").html('<img src="/images/layout/loading.gif"> loading...'); 
-	
+	$("#tutorial").html('<img src="/images/layout/loading.gif"> loading...');
+
 	$.ajax({
 		type: "POST",
 		data: {tut: tut, ret: "title"},
 		url: "/includes/ol/tutorial.php",
 		cache:false
-	}).done(function(stuff){	
+	}).done(function(stuff){
 		var tuttitle = stuff;
-		
+
 		//if(tut == "hoard"){var wval = 400;}
 		//else{wval = 400;}
-		
+
 		var wval = 400;
-		
+
 		$('#tutorial').dialog({
 			autoOpen: false,
 			title: tuttitle,
@@ -42,33 +42,33 @@ function helpMe(tut, first){
 			draggable: false,
 			closeOnEscape: false,
 			position: ['center', 100],
-			open: function(event, ui) { 
-				$(".ui-dialog-titlebar-close", ui.dialog).hide(); 
+			open: function(event, ui) {
+				$(".ui-dialog-titlebar-close", ui.dialog).hide();
 			}
-		});		
-		
+		});
+
 		$('#tutorial').dialog('open');
-		
+
 		$.ajax({
 			type: "POST",
 			data: {tut: tut, ret: "modal", first: first},
 			url: "/includes/ol/tutorial.php",
 			cache:false
-		}).done(function(bodystuff){	
+		}).done(function(bodystuff){
 			$("#tutorial").html(bodystuff);
 		});
-		
-	
+
+
 	});
-	
-	
+
+
 }
 
-function pregiveStar(id) 
+function pregiveStar(id)
 {
 
 	$.each(id, function(index, value){
-		
+
 		var time = index * 7000;
 		//alert(time +":"+ value);
 		setTimeout( function(){giveStar(value)}, time);
@@ -77,16 +77,16 @@ function pregiveStar(id)
 }
 
 function giveStar(id)
-{	
-	 
-	$("#achieve_pop").html('<img src="/../../images/layout/loading.gif"> loading...'); 
-	
+{
+
+	$("#achieve_pop").html('<img src="/../../images/layout/loading.gif"> loading...');
+
 	$('#achieve_pop').dialog({
 		autoOpen: false,
 		title: "Achievement Unlocked!",
 		width: 310,
 		height: 120,
-		position: { 
+		position: {
 			my: 'left',
 			at: 'right',
 			of: $('#logo')
@@ -95,30 +95,30 @@ function giveStar(id)
 		resizable: false,
 		draggable: false,
 		closeOnEscape: false,
-		open: function(event, ui) { 
-			$(".ui-dialog-titlebar-close", ui.dialog).hide(); 
+		open: function(event, ui) {
+			$(".ui-dialog-titlebar-close", ui.dialog).hide();
 		}
 	});
-	
+
 	$.ajax({
 		data: {id: id},
 		url: "/includes/ol/achieve_pop.php",
 		cache:false
 	}).done(function(stuff){
 		$('#achieve_pop').dialog('open');
-		
+
 		$("#achieve_pop").html(stuff);
-		
+
 		$('#achieve_pop').parent().fadeIn(1000);
-		
+
 		$("#achieve_pop").parent().delay(5000).fadeOut(1000);
-		
-		
-		
+
+
+
 		$('#overlay_ach').fadeIn(1).animate({height:'50px', width:'50px'}, 1).animate({height:'25px', width:'25px'}, 1000).fadeOut(1000);
 	});
-	
-	 
+
+
 }
 
 var starmie = Array();
@@ -130,9 +130,9 @@ var starmie = Array();
 $(document).ready(function() {
 	$('a.clue').cluetip({
 		height:"auto",
-		ajaxCache: true				  
+		ajaxCache: true
 	});
-  
+
 	$('a.clueitem').cluetip({
 		height:130,
 		showTitle:false,
@@ -141,19 +141,19 @@ $(document).ready(function() {
 		leftOffset: -20,       // Number of px to offset clueTip from left of invoking element
 		ajaxCache: true
 	});
-  
+
 	$('a.cluestat').cluetip({
 		width: 180,
 		height: "auto",
 		ajaxCache: true
 	});
-  
+
 	$('a.clue_nrg').cluetip({
 		showTitle:false,
 		width:300,
 		height: "auto"
 	});
-  
+
 	$('a.loginbar').cluetip({
 		splitTitle: '|',
 		showTitle:false,
@@ -161,7 +161,7 @@ $(document).ready(function() {
 		height: 'auto',
 		leftOffset: 25
 	});
-  
+
 	$('a.miniclue').cluetip({
 		splitTitle: '|',
 		showTitle:false,
@@ -169,7 +169,7 @@ $(document).ready(function() {
 		height: 'auto',
 		leftOffset: 25
 	});
-  
+
 	$('a.miniclue_female').cluetip({
 		splitTitle: '|',
 		showTitle:false,
@@ -177,7 +177,7 @@ $(document).ready(function() {
 		height: 'auto',
 		leftOffset: 25
 	});
-  
+
 	$('a.miniclue_male').cluetip({
 		splitTitle: '|',
 		showTitle:false,
@@ -185,7 +185,7 @@ $(document).ready(function() {
 		height: 'auto',
 		leftOffset: 25
 	});
-  
+
 	$('a.elemclue_fire').cluetip({
 		splitTitle: '|',
 		showTitle:false,
@@ -193,7 +193,7 @@ $(document).ready(function() {
 		height: 'auto',
 		leftOffset: 25
 	});
-  
+
 	$('a.cluehelp').cluetip({
 		splitTitle: '|',
 		showTitle:false,
@@ -202,9 +202,9 @@ $(document).ready(function() {
 		positionBy: 'mouse',
 		leftOffset: '20px'
 	});
-  
- 
-  
+
+
+
 	$('a.faire_clue').cluetip({
 		positionBy: 'mouse',
 		topOffset:'30px',
@@ -219,21 +219,21 @@ $(document).ready(function() {
 
 <script type="text/javascript">
 	function switchTo(qval)
-	{ 
-		if (qval) 
-		{ 
-			document.getElementById('passwordtext').style.display="none"; 
-			document.getElementById('pword').style.display="inline"; 
-			document.getElementById('pword').focus(); 
-		} 
-		else 
-		{ 
-			document.getElementById('pword').style.display="none"; 
-			document.getElementById('passwordtext').style.display="inline"; 
-		} 
-	} 
-	
-	
+	{
+		if (qval)
+		{
+			document.getElementById('passwordtext').style.display="none";
+			document.getElementById('pword').style.display="inline";
+			document.getElementById('pword').focus();
+		}
+		else
+		{
+			document.getElementById('pword').style.display="none";
+			document.getElementById('passwordtext').style.display="inline";
+		}
+	}
+
+
 	///Possibly Deprecated if I do an Ajax quote
 	function getText(id,user,date)
 	{
@@ -241,32 +241,32 @@ $(document).ready(function() {
 		var quote = document.getElementById(id).innerHTML;
 		alert(quote);
 		// Code for IE
-		if (document.selection) 
+		if (document.selection)
 		{
 			textarea.focus();
 			var sel = document.selection.createRange();
 			sel.text = "[quote name='"+user+"' date='"+date+"' url='main.php?p=mb&board=&page=1&id=0#"+id+"']"+quote+"[/quote]";
 		}
-		
-		else 
+
+		else
     	{  // Code for Mozilla Firefox
 			var len = textarea.value.length;
 	    	var start = textarea.selectionStart;
 			var end = textarea.selectionEnd;
-		
-		
+
+
 			var scrollTop = textarea.scrollTop;
 			var scrollLeft = textarea.scrollLeft;
 
-			
+
         	var sel = textarea.value.substring(start, end);
 			var rep = "[quote name='"+user+"' date='"+date+"' url='main.php?p=mb&board=&page=1&id=0#"+id+"']"+quote+"[/quote]";
         	textarea.value =  textarea.value.substring(0,start) + rep + textarea.value.substring(end,len);
-		
+
 			textarea.scrollTop = scrollTop;
 			textarea.scrollLeft = scrollLeft;
 		}
-	}	
+	}
 </script>
 
 
@@ -281,9 +281,13 @@ $(document).ready(function() {
   ga('send', 'pageview');
 
 </script></head>
+
+
+
+
 	<body style="background-image: url(/images/layout/none/bg.jpg);">
 	<div class="container">
-	<div class="banner" style="background-image:url(/images/layout/none/banner.jpg); position:relative;">
+	<div class="banner" style="background-image:url(/images/layout/holiday_5/banner.jpg); position:relative;">
 	
 
 <div class="logo" id="logo" style="width:325px;"><a href="http://flightrising.com/index.php"><img border="0" src="/images/layout/trans.png" width="312" height="140"></a></div>
@@ -302,12 +306,12 @@ $(document).ready(function() {
 	<span style="position:absolute; top:8px; left:10px; text-align:left; vertical-align:middle;">
 	<span style="position:relative; margin-right:15px; font-weight:bold; display:inline-block;">
     <img src="/images/layout/siteclock.png" style="vertical-align:middle;">
-	13:04    </span>
+	01:35    </span>
     |
 	</span>
 	
 	<span style="position:absolute; top:8px; left:100px; text-align:left;">
-	<strong><a href="main.php?p=active" class="loginlinks">1460 Users Online</a></strong>
+	<strong><a href="main.php?p=active" class="loginlinks">1959 Users Online</a></strong>
 	</span>
 
 </div>
@@ -392,7 +396,7 @@ $(document).ready(function() {
 <img src="/images/layout/under_shadow.png" width="200px" height="3px" style="position:absolute; z-index:10;">
 
 	<div style="position:relative; width:180px; margin:10px;">
-	
+
 		<script type="text/javascript">
 	function navDrill(divid) {
 		var div = document.getElementById(divid);
@@ -462,17 +466,24 @@ $(document).ready(function() {
 	<a class="navbar" href="main.php?p=mb"><span class="navbar-glow-hover">Forums</span></a>
 	<a class="navbar" href="main.php?p=explore"><span class="navbar-glow-hover">World Map</span></a>
 	<a class="navbar" href="main.php?p=search"><span class="navbar-glow-hover">Search</span></a>
+    <a class="navbar" href="main.php?p=scrying"><span class="navbar-glow-hover">Scrying Workshop</span></a>
 	<a class="navbar" href="main.php?p=wiki"><span class="navbar-glow-hover">Encyclopedia</span></a>
 	<a class="navbar" href="main.php?p=wallpaper"><span class="navbar-glow-hover">Media</span></a>	
-		
+	
 		<div class="skybanner" style="margin-bottom:10px; margin-top:15px; overflow:hidden;">
-			<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=160X600&amp;cwpid=552353&amp;cwwidth=160&amp;cwheight=600&amp;cwpnet=1&amp;cwtagid=148094"></script>
+			<!--<script  src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=160X600&cwpid=552353&cwwidth=160&cwheight=600&cwpnet=1&cwtagid=148094"></script>-->
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Skyscraper -->
+<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-5695505966863461" data-ad-slot="1835150665"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 			</div>
 		<!--<div class="skybanner"></div>-->
 		<div style="width:80px; height:10px;"></div>
 		<!--End Left Column-->
 	</div>
-	
+
 </div>
 
 <div class="main">
@@ -545,7 +556,17 @@ Additionally, 3rd party advertisers on our site may use cookies for tracking pur
 </div>
 
 <div style="width:auto; background-color:#731d08; padding-top:8px; padding-bottom:8px; height:90px;"><div style="margin-left:111px; width:728px; overflow:hidden;">
-	<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=728X90&amp;cwpid=552353&amp;cwwidth=728&amp;cwheight=90&amp;cwpnet=1&amp;cwtagid=148095"></script>
+	<!--<script  src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=728X90&cwpid=552353&cwwidth=728&cwheight=90&cwpnet=1&cwtagid=148095"></script>-->
+    
+   <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Leaderboard -->
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-5695505966863461" data-ad-slot="3311883867"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    
+    
+    
 	</div></div>
 <!--End Bottom Banner-->
 <div class="copybar">© 2013 Stormlight Workshop. All Rights Reserved<br>
@@ -554,6 +575,9 @@ Additionally, 3rd party advertisers on our site may use cookies for tracking pur
 
 <!--End Container-->
 </div>
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","b24d3dfb63","2206232","ZlJQbEJZWUtTUUZYWV8YZ0pZF1pZW1wcQV5B",0,753,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<!--ZENDESK TAB-->
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"b24d3dfb63","applicationID":"2206232","transactionName":"ZlJQbEJZWUtTUUZYWV8YZ0pZF1pZW1wcQV5B","queueTime":0,"applicationTime":4,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
