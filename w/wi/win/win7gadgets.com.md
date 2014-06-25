@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the win7gadgets.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209155832id_/http%3A//win7gadgets.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the win7gadgets.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060515id_/http%3A//win7gadgets.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
