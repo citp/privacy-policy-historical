@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesagenext.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209230327id_/http%3A//www.thesagenext.com/cloud/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesagenext.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084108id_/http%3A//www.thesagenext.com/cloud/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy- SageNext Infotech | SageNext Terms and Conditions
 
@@ -23,5 +23,5 @@ SageNext Infotech will not otherwise disclose its customers' personal and accoun
 
 SageNext Infotech disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. SageNext Infotech will, however, review, delete or block access to communications that may harm SageNext Infotech, its customers or third parties. The grounds on which SageNext Infotech may take such action include, but are not limited to, actual or potential violations of SageNext Infotech's [Acceptable Use Policy](http://www.thesagenext.com/cloud/user-acceptance-policy.html)
 
-[](http://www.thesagenext.com/cloud/quickbooks-hosting.html)|  | |  | [](http://www.thesagenext.com/cloud/free-trial.html)  
+[](http://www.thesagenext.com/cloud/pricing.html)|  | |  | [](http://www.thesagenext.com/cloud/free-trial.html)  
 ---|---|---|---|---
