@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurogrand.co.uk privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625204851id_/http%3A//www.eurogrand.com/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurogrand.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010947id_/http%3A//www.eurogrand.com/uk/privacy) for the most accurate reproduction.*
 
 # Privacy and Security: Protecting our Valued Players
 
