@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tomandlorenzo.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924114641id_/http%3A//www.tomandlorenzo.com/2006/07/privacy-policy-information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomandlorenzo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105810id_/http%3A//tomandlorenzo.com/privacy-policy-disclosure) for the most accurate reproduction.*
 
-# Privacy Policy Disclosure | Tom & Lorenzo
-
-Posted on Jul 21, 2006 in [Fashion](http://www.tomandlorenzo.com/category/fashion "View all posts in Fashion")
+# Privacy Policy Disclosure | Tom & Lorenzo Fabulous & Opinionated
 
 Your privacy is important to us. This Privacy Policy provides information about the personal information that this website collects and the ways in which this website uses that personal information.
 
@@ -47,7 +45,7 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions of Use**  
-Please see our [Terms and Conditions of Use](http://www.tomandlorenzo.com/2006/07/terms-and-conditions-of-use.html) page establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please see our Terms and Conditions of Use page establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**  
 By using our website, you consent to our website privacy policy.
@@ -61,7 +59,8 @@ If there are any questions regarding this privacy policy you may contact us usin
 Website: http://www.tomandlorenzo.com  
 Email: tlo @ tomandlorenzo . com
 
-Tags:
+Archives: 
 
-Follow us:   
-[](https://twitter.com/#!/tomandlorenzo) [](http://www.facebook.com/pages/Tom-and-LorenzoProject-Rungay/131035174615) [](http://tomandlorenzo.tumblr.com/) [](http://feeds.feedburner.com/tlofeed) [](https://pinterest.com/tomandlorenzo/)
+© Copyright 2006 - 2014 Tomandlorenzo LLC. All Rights Reserved. Do not use or reproduce without permission. DISCLAIMER: The Tom & Lorenzo site is not associated or affiliated with AMC, ABC, BBC, Bravo, CBS, CW, FX, HBO, Lifetime, Logo, NBC, PBS, Showtime or Sundance. The Tom & Lorenzo site claims no credit for any images featured on this site unless otherwise noted. All visual content is copyrighted to its respective owners. The Tom & Lorenzo site is in no way responsible for, or has control of, the content of any external website links or embedded streaming videos. Information on this site may contain errors or inaccuracies. If you own rights to any of the content and wish to have it removed please contact us. 
+
+[Privacy Policy Disclosure](http://tomandlorenzo.com/privacy-policy-disclosure/) | [Terms and Conditions of Use](http://tomandlorenzo.com/terms-and-conditions-for-use/)
