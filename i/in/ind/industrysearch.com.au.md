@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208014937id_/http%3A//www.industrysearch.com.au/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002004id_/http%3A//www.industrysearch.com.au/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -109,6 +109,5 @@ If you have any questions please contact Industracom:
 
 PHONE: +61 (02) 9925 4000  
 FAX: +61 (02) 9925 4099  
-Address: Level 11, 117 York Street, Sydney, Australia  
-Postal: PO Box Q909, QVB Sydney, NSW 1230, Australia  
+Address: Level 3, 17 Randle St, Surry Hills, NSW 2010  
 Last updated: August 18, 2011 
