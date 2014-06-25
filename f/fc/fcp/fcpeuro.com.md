@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcpeuro.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918200149id_/http%3A//www.fcpeuro.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcpeuro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625185722id_/http%3A//www.fcpeuro.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FCP Euro
 
@@ -38,4 +38,4 @@ In accordance with applicable law, we take additional security measures in regar
 
 ### Questions Concerning this Privacy Statement
 
-Questions regarding this Privacy Statement should be directed to FCP by email to info@fcpgroton.com.
+Questions regarding this Privacy Statement should be directed to FCP by email to sales@fcpeuro.com
