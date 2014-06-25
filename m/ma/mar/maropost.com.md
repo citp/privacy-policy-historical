@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maropost.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012152233id_/http%3A//maropost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maropost.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055515id_/http%3A//www.maropost.com/privacy-policy) for the most accurate reproduction.*
 
-# Maropost | Privacy Policy - Maropost
+# Maropost | Privacy Policy
 
 **1\. SCOPE OF AGREEMENT**
 
