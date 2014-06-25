@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813104236id_/http%3A//www.opencrm.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625144925id_/http%3A//opencrm.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Delivery Policy
 
-Last updated 29th August 2013
+Last updated 3rd November 2013
 
-Copyright © 2005 - 2013. Software Add-ons Limited - The Home of OpenCRM, The Sanctuary, Aislabeck Plantation, Richmond , North Yorkshire , DL10 4SG. All rights reserved.
+Copyright © 2005 - 2013. Software Add-ons Limited - The Home of OpenCRM, Battalion Court, Colburn Business Park, Richmond , North Yorkshire , DL9 4QN. All rights reserved.
 
-We at OpenCRM and Software Add-ons Limited ("Software Add-ons") are constantly striving to provide excellent service to our customers and business partners, while building long-lasting relationships with them. To achieve these goals, we occasionally need information about you when you visit our Web site.
+OpenCRM and Software Add-ons Limited ("Software Add-ons") are constantly striving to provide excellent service to our customers and business partners, while building long-lasting relationships with them. To achieve these goals, we occasionally need information about you when you visit our Web site.
 
 When you visit our Web sites, you may be providing us with information about your visit in two ways:
 
@@ -28,14 +28,13 @@ We  do:
 * Honour user requests to be removed from our telephone, fax or mail lists in a timely manner.  
 * Maintain confidentiality of user information when undertaking projects with other companies.
 
-We have always valued your privacy, and we reinforce this belief throughout our organisation. Your information will be protected as described unless the specific Web page says otherwise. If you have further questions about our privacy policy, please contact us .
+We have always valued your privacy, and we reinforce this belief throughout our organisation. Your information will be protected as described unless the specific Web Page says otherwise. If you have further questions about our privacy policy, please [contact us](http://opencrm.co.uk/contact-us.html) .
 
-### Delivery of products purchased through our website  
+### Delivery of products purchased through our website
 
+When you purchase OpenCRM subscriptions from this website your payment is made using an online payment gateway (PayPal or Stripe), on successful payment you will be directed to a page that commissions your OpenCRM subscription immediately. Once you enter your user name and system details your OpenCRM system is created with all URL, Username and Password details being emailed to you within a few minutes. This is an automated delivery service. Should you have any problems with your delivery please contact [support@opencrm.co.uk](mailto:support@opencrm.co.uk) with URGENT in the subject line and one of our customer service representatives will be notified immediately, this includes 365/24/7 notification and escalation procedures.
 
-When you purchase OpenCRM subscriptions from this website your payment is made made using the PayPal payment gateway, on successful payment you will be directed to a page that commissions your OpenCRM subscription immediately. Once you enter your user name and system details your OpenCRM system is created with all URL, Username and Password details being emailed to you within a few minutes. This is an automated delivery service. Should you have any problems with your delivery please contact [support@opencrm.co.uk](mailto:support@opencrm.co.uk) with URGENT in the subject line and one of our customer service representatives will be notified immediately, this includes 365/24/7 notification and escalation procedures.
-
-### _Information this Site Gathers/Tracks_
+### Information this Site Gathers/Tracks
 
 ### Statistics Collected as You Browse Our Web Site
 
@@ -43,7 +42,7 @@ As you browse the site, our Web servers collect information about your visit, no
 
 * How many people visit our Web site.  
 * Which pages people visit on our Web site.  
-* From which domains our visitors come (e.g. "google.co.uk", "aol.com").  
+* From which domains our visitors come (e.g. "google.co.uk", "yahoo.com").  
 * Which browsers people use to visit our Web site.
 
 While we gather this information, none of it is associated with you as an individual. We use these statistics to improve our Web site, to monitor its performance, and to make it easier for you and other visitors to use.
@@ -60,31 +59,26 @@ Our Web site logs Host Names (or IP addresses when the Host Name is not availabl
 
 ### Registration Forms
 
-We encourage all visitors to register on our Web site, though registration is only required to access premium content areas. The registration forms require users to give us accurate contact information (like name and email address) and references that help us better serve you. Your name and email address may be used to send you information about our company, product updates, special offers and newsletters. To opt out of receiving communications, please contact us.
+We encourage all visitors to register on our Web site, though registration is only required to access premium content areas. The registration forms require users to give us accurate contact information (such as name and email address) and references that help us better serve you. Your name and email address may be used to send you information about our company, product updates, special offers and newsletters. To opt out of receiving communications, please contact us. We provide unsubscribe options on these emails.
 
 ### Order Forms
 
-Our order forms securely collect contact information and financial information (like your credit card number and other billing information). Contact information on the order form is used for order fulfilment and may be shared with our Partners or Resellers if that is necessary to fulfil your order. The information that we require in our order form is only used to process your order quickly and accurately. Your contact information will only be used to send you the product that you purchase and your billing information will only be used to bill you for that product.
+Our order forms securely collect contact information and financial information (such as your billing information). Contact information on the order form is used for order fulfilment and may need to be shared with our Partners or Resellers if that is necessary to fulfil your order. The information that we require in our order form is only used to process your order quickly and accurately. Your contact information will only be used to send you the product that you purchase and your billing information will only be used to bill you for that product.
 
 During the purchasing process, additional information may be added to your profile to make it easier for you to purchase products/services from us in the future. This may include order history and billing information. You may opt out of this feature at any time by changing your profile or cancelling an on-line account.
 
-### Credit Card Details when subscribing  
+### Credit Card Details when subscribing
 
-
-We do not store your credit card details with any OpenCRM or Software Add-ons system, however if you sign up to an OpenCRM subscription from this website (http://opencrm.co.uk) we use PayPal as our payment gateway who also provide recurring subscription payment services and as part of their service they will hold details of the credit card that will be charged. This information is held securely and in accordance with PayPals terms and conditions.  
-
+We do not store your credit card details within any OpenCRM or Software Add-ons system, however if you sign up to an OpenCRM subscription from this website (http://opencrm.co.uk) we use Stripe or PayPal as our payment gateway who also provide recurring subscription payment services and as part of their service they will hold details of the credit card that will be charged. This information is held securely and in accordance with their terms and conditions. Both organisations are fully PCI compliant.
 
 ### Cookies
 
 How we use Cookies;
 
-  * We use Cookies to help improve your experience whilst you are visiting our site.
-  * We use Cookies to help understand anonymous usage of our site.
-  * When you are referred to our site from a partner we track sales so we can compensate partners accordingly.
-  * We hold information once you have logged into our website that helps identify your unique ID and helps us deliver content specific to you.  
-
-
-
+* We use Cookies to help improve your experience whilst you are visiting our site.  
+* We use Cookies to help understand anonymous usage of our site.  
+* When you are referred to our site from a partner we track sales so we can compensate partners accordingly.  
+* We hold information once you have logged into our website that helps identify your unique ID and helps us deliver content specific to you.
 
 ### Sharing of the Information this Site Gathers/Tracks
 
@@ -100,7 +94,7 @@ Our Web site contains links to other Web sites. Please be aware that our privacy
 
 ### Opt-out Policy
 
-Parts of our Web site provide users with the opportunity to customise their communication preferences and opt-out of one or more types of electronic communications from us and our partners. Additionally, users can unsubscribe via the footer provided in individual electronic communications. Users who do not wish to receive future communications can also please contact us direct.
+Parts of our Web site provide users with the opportunity to customise their communication preferences and opt-out of one or more types of electronic communications from us and our partners. Additionally, users can unsubscribe via the footer provided in individual electronic communications. Users who do not wish to receive future communications can also contact us direct.
 
 ### Correcting/Update Policy
 
