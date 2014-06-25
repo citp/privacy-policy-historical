@@ -1,34 +1,79 @@
-> *The following text is extracted and transformed from the aptx.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504205931id_/http%3A//www.csr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aptx.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080104id_/http%3A//www.aptx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | APTX
 
 CSR plc ("we") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://web.archive.org/terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use ](http://csr.com/terms)and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is CSR plc of Churchill House, Cambridge Business Park, Cowley Road, Cambridge, CB4 0WZ.
 
-### Information we may collect from you
+#### Information we may collect from you
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site www.csr.com and/or www.csrsupport.com (our sites). This includes information provided at the time of registering to use our sites, subscribing to our service, posting material or requesting further services.  We may also ask you for information when you report a problem with our sites.
+  * Information that you provide by filling in forms on our site [www.csr.com](http://www.csr.com/) and/or [www.csrsupport.com](http://www.csrsupport.com/) (our sites). This includes information provided at the time of registering to use our sites, subscribing to our service, posting material or requesting further services.  We may also ask you for information when you report a problem with our sites.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out through our sites and of the fulfilment of your orders.
-  * Details of your visits to our sites and the resources that you access. 
+  * Details of your visits to our sites and the resources that you access.
 
 
 
-### IP addresses and cookies
+#### IP addresses and cookies
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive.
+This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties.
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies.  However, if you select this setting you may be unable to access certain parts of our site.  Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+**Cookie  Name** | **Description**  
+---|---  
+  
+___utmas
 
-### Where we store your personal data
+___utmbs
+
+___utmcs
+
+___utmzs
+
+| 
+
+These cookies are part of Google Analytics, which we use to monitor traffic levels, search queries and visits to this website, and to highlight potential problems within the site structure.
+
+Google Analytics stores IP address anonamously on its servers in the US, and neither we or Google associate your IP address with any personally identifiable information.
+
+These cookies enable Google to determine whether you are a return visitor to the site, and to track the pages that you visit during your session.  
+  
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google").  Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.  Please note that by deleting or disabling browser cookies or local shared objects you may not be able to use certain areas or features of Our site.
+
+**To edit cookie settings for PCs**
+
+  * **Google Chrome**  
+Click on 'Tools' at the top of your browser window and select Options. Click the 'Under the Hood' tab, locate the 'Privacy' section, and select the 'Content settings' button.
+  * **Microsoft Internet Explorer 6.0, 7.0, 8.0, 9.0**  
+Locate 'Internet options' in the browser menu, then click on the 'Privacy' tab.
+  * **Mozilla Firefox**  
+Locate 'Tools' in the browser menu and select Options, then select the Privacy icon. Click on Cookies
+  * **Opera**  
+Click on 'Menu' at the top of your browser window and select 'Settings'. Select 'Preferences', then the 'Advanced' tab
+
+
+
+**To edit cookie settings for Macs**
+
+  * **Safari**  
+Click on 'Safari' at the top of your browser window and select the 'Preferences' option, then 'Security'.
+  * **Google Chrome**  
+Click on 'Tools' at the top of your browser window and select Options. Click the 'Under the Hood' tab, locate the 'Privacy' section, and select the 'Content settings' button.
+  * **Mozilla Firefox**  
+Locate 'Tools' in the browser menu and select Options, then select the Privacy icon. Click on Cookies
+  * **Opera**  
+Click on 'Menu' at the top of your browser window and select 'Settings'. Select 'Preferences', then the 'Advanced' tab
+
+
+
+#### Where we store your personal data
 
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA").  It may also be processed by staff, operating outside the EEA, who work for us or for one of our subsidiaries.  Such staff maybe engaged in, among other things, the fulfillment of your order, the processing of your payment details and the provision of support services.  By submitting your personal data, you agree to this transfer, storing or processing.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
@@ -36,12 +81,12 @@ All information you provide to us is stored on our secure servers.  Where we ha
 
 Unfortunately, the transmission of information via the internet is not completely secure.  Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk.  Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-### Uses made of the information
+#### Uses made of the information
 
 We use information held about you in the following ways:
 
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer. 
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
   * To carry out our obligations arising from any contracts entered into between you and us.
   * To allow you to participate in interactive features of our service, when you choose to do so.
   * To notify you about changes to our service.
@@ -54,7 +99,7 @@ Where we permit selected third parties to use your data, we (or they) will conta
 
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.
 
-### Disclosure of your information
+#### Disclosure of your information
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
@@ -65,22 +110,22 @@ We may disclose your personal information to third parties:
 
 
 
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/terms) and other agreements; or to protect our rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://csr.com/terms) and other agreements; or to protect our rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-### Your rights
+#### Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at Churchill House, Cambridge Business Park, Cowley Road, Cambridge, CB4 0WZ or corporatemarketing@csr.com.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at Churchill House, Cambridge Business Park, Cowley Road, Cambridge, CB4 0WZ or [corporatemarketing@csr.com](mailto:corporatemarketing@csr.com).
 
 Our site may, from time to time, contain links to and from the websites of third parties.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
-### Access to information
+#### Access to information
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act.  Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-### Changes to our privacy policy
+#### Changes to our privacy policy
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-### Contact
+#### Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Churchill House, Cambridge Business Park, Cowley Road, Cambridge, CB4 0WZ or corporatemarketing@csr.com.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Churchill House, Cambridge Business Park, Cowley Road, Cambridge, CB4 0WZ or [external.web@csr.com](mailto:external.web@csr.com)
