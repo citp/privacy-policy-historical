@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barry-wells.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201012101id_/http%3A//barry-wells.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barry-wells.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131719id_/http%3A//barry-wells.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -60,9 +60,3 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you as governed by the laws of UK. A small fee may be payable. If you would like a copy of the information held on you please [Contact me](http://barry-wells.com/contact-me/ "Contact Barry").
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at the above contact form. We will promptly correct any information found to be incorrect.
-
-  
-Please use these buttons to share the post with your friends and followers.
-
-
-
