@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the the99percent.com privacy policy that was archived on 2013-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131224235210id_/http%3A//www.behance.net/misc/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the the99percent.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625102036id_/http%3A//www.behance.net/misc/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head><meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
-<meta charset="utf-8">
+<meta charset="utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQYHUlBTGwAFVVdTAAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta http-equiv="cache-control" content="no-cache">
 
@@ -13,10 +13,12 @@
 <meta name="revisit-after" content="2 days">
 <meta name="author" content="Behance">
 <meta name="publisher" content="Behance">
-<meta name="copyright" content="2013 Behance">
+<meta name="copyright" content="2014 Behance">
+<meta name="p:domain_verify" content="d7cdd4d26570133b3ce3a1e3c095b3a4">
 <meta name="fb:app_id" content="229702757350">
 <meta name="viewport" content="width=1025" user-scalable="no">
 
+<meta name="apple-itunes-app" content="app-id=489667151">
 
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/behance/vorr">
 
@@ -29,11 +31,11 @@
 <title>Behance :: Privacy Policy</title>
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript">
+<script type="text/javascript" language="javascript">
   var Config                  = Config || {};
-  Config.CB                   = '1095830644';
+  Config.CB                   = '414100075';
   Config.DEBUG                = '';
-  Config.CBSTR                = 'cb=1095830644';
+  Config.CBSTR                = 'cb=414100075';
   Config.MEDIAURL             = 'http://m1.behance.net/';
   Config.ASSETSURL            = 'http://a2.behance.net/';
   Config.NETIMAGESURL         = 'http://a2.behance.net/img/'; // This is intended to be used on CCN2s when comparing to an IMAGESURL location from PHP (i.e. lazyloader)
@@ -55,20 +57,20 @@
   };
 </script>
 
-<link rel="stylesheet" href="http://a2.behance.net/min/b=assets/css&amp;f=reset.css,base.css,utils/validationEngine.css,jquery/menu.css,jquery/selectmenu.css,jquery/custominput.css,jquery/plugins/jquery.fancybox.css&amp;cb=1095830644" type="text/css">
-<link rel="stylesheet" href="http://a2.behance.net/min/b=assets/css&amp;f=networki.css,networki/loggedout.css,networki/selectmenu.css,networki/footer.css,networki/navigation.css&amp;cb=1095830644" type="text/css">
-<link rel="stylesheet" href="http://a2.behance.net/min/b=assets/css&amp;f=dotcom.css,dotcom/base.css,dotcom/two-column.css,dotcom/legal.css&amp;cb=1095830644" type="text/css">
+<link rel="stylesheet" href="http://a2.behance.net/min/b=assets/css&amp;f=reset.css,base.css,utils/validationEngine.css,jquery/menu.css,jquery/custominput.css&amp;cb=414100075" type="text/css">
+<link rel="stylesheet" href="http://a2.behance.net/min/b=assets/css&amp;f=networki.css,networki/loggedout.css,networki/selectmenu.css,networki/footer.css,nav.css&amp;cb=414100075" type="text/css">
+<link rel="stylesheet" href="http://a2.behance.net/min/b=assets/css&amp;f=dotcom.css,dotcom/base.css,dotcom/two-column.css,dotcom/legal.css&amp;cb=414100075" type="text/css">
 
 <!--[if IE 6]>
   <link rel="stylesheet" href="http://a2.behance.net/css/ie6.css" type="text/css" />
   <script type="text/javascript" src="http://a2.behance.net/css/iepngfix_tilebg.js"></script>
 <![endif]-->
 
-<!--[if IE 7]>
-  <link rel="stylesheet" href="http://a2.behance.net/css/ie7.css" type="text/css" />
+<!--[if lte IE 8]>
+  <link rel="stylesheet" href="http://a2.behance.net/css/old-browser.css" type="text/css" />
 <![endif]-->
-<script type="text/javascript" src="http://a2.behance.net/min/b=assets/js&amp;f=vendor/es5-shim.js,vendor/es5-sham.js,jquery.js,jquery/ui/core.js,jquery/ui/widget.js,jquery/ui/mouse.js,jquery/ui/position.js,jquery/plugins/jquery.ui.coreext.js,jquery/plugins/jquery.ui.selectmenu.js,utils/DirtyWarning.js,Core.js,Fn.js,Core/Class.js,Core/Events.js,Core/Model.js,Core/View.js,Core/View/Entity.js,Core/View/Element.js,Core/View/Dialog.js,Core/Controller.js,Core/Controller/Dialog.js,Core/Collection.js,Core/Loader.js,jquery/plugins/jquery.ba-bbq.js,jquery/plugins/jquery.changeinput.js,jquery/plugins/jquery.custominput.js,jquery/plugins/jquery.cookie.js,jquery/plugins/jquery.json.js,jquery/plugins/jquery.tmpl.js,jquery/plugins/jquery.popup.js,jquery/plugins/jquery.validation.js,jquery/plugins/jquery.dirtyForm.js,jquery/plugins/jquery.menu.js,jquery/plugins/jquery.hovermenu.js,jquery/plugins/jquery.fancybox.js,vendor/spin.js,network.js,networki/views/Widget.js,auth/default.js,stats/default.js&amp;cb=1095830644"></script>
-
+<script type="text/javascript" src="http://a2.behance.net/min/b=assets/js&amp;f=vendor/es5-shim.js,vendor/es5-sham.js,require.js,jquery.js,has.js,config.js,common.js,detect.js,auth/default.js&amp;cb=414100075"></script>
+<script src="//assets.adobedtm.com/659ec8ada5450db95675e43beaaae92399591a11/satelliteLib-d6f79f42e6a413a42094a79ac480aea348f592ac.js"></script>
   <!-- Start Google Analytics -->
 
   <script type="text/javascript">
@@ -79,7 +81,6 @@
   
     _gaq.push(['_trackPageview']);
 
-    
     (function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -89,11 +90,11 @@
   </script>
   <!-- End Google Analytics -->
 
-<meta name="viewport" content="width=1200"></head><body class="logged-out corepacki networki"><div class="showcase-bar signup-cta">
-  <div class="grid-site cfix">
-    Showcase &amp; Discover Creative Work <a href="/signup" class="form-button form-button-small form-button-green form-button-right-arrow">Sign Up For Free</a>
+<meta name="viewport" content="width=1200"></head><body class="logged-out corepacki networki">  <div class="showcase-bar signup-cta">
+    <div class="grid-site cfix">
+      Showcase &amp; Discover Creative Work <a href="/signup" class="js-adobeid-signup form-button form-button-small form-button-green form-button-right-arrow">Sign Up For Free</a>
+    </div>
   </div>
-</div>
 
 <div id="header">
 
@@ -197,10 +198,7 @@
         </li>
                               <br class="show-phone">
                       <br class="show-tablet">
-                                <li class="footer-first">
-          <a href="//www.behance.net/competitions" class="light-link">Competitions</a>
-        </li>
-                      <li class="">
+                                <li class="">
           <a href="http://99u.com?utm_source=network&amp;utm_medium=footer&amp;utm_campaign=network_footer_references" class="light-link">99u Insights</a>
         </li>
                       <li class="">
@@ -237,7 +235,7 @@
       <ul>
         <li><a href="//www.behance.net/misc/terms">TOU &amp; Privacy</a></li>
         <li><a href="//www.behance.net/faq" class="zendesk-footer-link">Help</a></li>
-        <li class="footer-copyright">Made in NYC. All member work copyright of respective owner, otherwise © 2006-2013 Adobe Systems Incorporated.</li>
+        <li class="footer-copyright">Made in NYC. All member work copyright of respective owner, otherwise © 2006-2014 Adobe Systems Incorporated.</li>
       </ul>
 
     </div> <!-- .footer-misc -->
@@ -247,9 +245,13 @@
 </div> <!-- #site-footer -->
 
 <script type="text/javascript">
-$.Core.Events.trigger( 'resources.beforeLoaded' );
+if ( typeof define === 'function' ) {
+  define('page_constants', function() { return {"GLOBALNAV":{"URLS":{"JS":"https:\/\/wwwimages2.adobe.com\/assets\/globalnav\/v1.1.2\/js\/globalnav.js","CSS":"https:\/\/wwwimages2.adobe.com\/assets\/globalnav\/v1.1.2\/css\/globalnav.css"}},"TYPEKIT":{"KIT_IDS":{"ADOBE":"jhi6ekj"},"URL":"\/\/use.typekit.com\/"},"XHR":{"URL_SIGNUP_ACTIVATE":"\/signup\/activate"},"SSO":{"COOKIE_IMS_ACCESS_TOKEN_TTL":86400,"COOKIE_IMS_LOGGED_OUT_TTL":60,"COOKIE_IMS_ACCESS_TOKEN":"iat0","COOKIE_IMS_LOGGED_OUT":"ilo0","COOKIES_DISABLED":"ilo0","OMNITURE_AC_STATE":"behance.net","QS_IMS_SSO_INBOUND":"sso_inbound","QS_IMS_SIGNIN_ATTEMPT":"isa0","SCOPES":["AdobeID","openid","gnav"],"URLS":{"IMS":"https:\/\/ims-na1.adobelogin.com\/ims\/imslib.js?client_id=BehanceWebSusi1&locale=en_US","AUTH_CHECK":"https:\/\/www.behance.net\/auth\/check","FAQ_THIRD_PARTY_COOKIES":"https:\/\/help.behance.net\/entries\/45476840-Why-am-I-getting-logged-out-of-Behance-spontaneously-","LOGOUT":"https:\/\/www.behance.net\/account\/logout","LOGIN":"https:\/\/www.behance.net\/account\/login"}}} });
+  define('page_gates', function() { return {"globalnav":1}; });
+  define('page_config', function() { return {"IMS":[]} });
+}
 </script>
-<script type="text/javascript" src="http://a2.behance.net/min/b=assets/js&amp;f=networki/controllers/Navigation.js&amp;cb=1095830644"></script>
+<script type="text/javascript" src="http://a2.behance.net/min/b=assets/js&amp;f=network.js,nav.js,sso/config.js&amp;cb=414100075"></script>
 <script id="autocomplete-form-template" type="text/html">
 <div id="${id}_field_wrap" class="autocomplete_field_wrap">
   <input type="text" id="${id}_field" name="${id}" class="form-text autocomplete_field" autocomplete="off" />
@@ -311,29 +313,71 @@ $.Core.Events.trigger( 'resources.beforeLoaded' );
   <div class="form-item form-item-a" id="popup-done-container"><a class="form-button form-submit form-button-default" unselectable="on" id="popup-done">Done</a>
 </div>  {{/if}}
   {{if close_btn}}
-  <div class="form-item form-item-a" id="popup-force-close-container"><a class="form-button form-button-dark form-button-dark form-button-close" unselectable="on" id="popup-force-close">Close</a>
+  <div class="form-item form-item-a" id="popup-force-close-container"><a class="form-button form-button-dark form-button-close" unselectable="on" id="popup-force-close">Close</a>
 </div>  {{/if}}
   {{if cancel_btn}}
-  <div class="form-item form-item-a" id="popup-cancel-container"><a class="form-button form-button-dark form-button-dark form-button-cancel" unselectable="on" id="popup-cancel">Cancel</a>
+  <div class="form-item form-item-a" id="popup-cancel-container"><a class="form-button form-button-dark form-button-cancel" unselectable="on" id="popup-cancel">Cancel</a>
 </div>  {{/if}}
   {{if dont_save_btn}}
-  <div class="form-item form-item-a" id="popup-dont-save-container"><a class="form-button form-button-dark form-button-dark form-button-dont-save" unselectable="on" id="popup-dont-save">Don't Save</a>
+  <div class="form-item form-item-a" id="popup-dont-save-container"><a class="form-button form-button-dark form-button-dont-save" unselectable="on" id="popup-dont-save">Don't Save</a>
 </div>  {{/if}}
   </div>
   
 </form></script>
 
+<script type="text/javascript">if (typeof _satellite !== "undefined" && _satellite.pageBottom) { _satellite.pageBottom(); }</script>
+<!--[if lte IE 8]>
+<div id="ie-message" class="message-block" >
 
-<script type="text/javascript">
+  <div id="message-transparent-bg"></div>
 
-if ( typeof $.Core === 'object' ) {
-  $.Core.Events.trigger( 'resources.loaded' );
-  $.Core.Events.trigger( 'resources.afterLoaded' );
-}
-</script>
+  <div id="ie-message-container" class="message-containers message-block">
+
+  <div id="ie-message-outter" class="message-block"></div>
+
+  <div id="ie-message-inner" class="message-block">
+
+    <div id="message-header-container" class="message-containers">
+
+      <span id="warning-icon" class="browser-icon"></span>
+
+      <h1 id="we-noticed">We notice you are using an outdated version of Internet Explorer.</h1>
+      <h2 id="browser-not-supported">This version is not supported by Behance.</h2>
+
+    </div>
 
 
+    <div id="we-recommend-container" class="message-containers">
 
+      <p id="we-recommend">For the best experience, we recommend using one of the latest versions of the following supported browsers:</p>
 
+      <ul id="reccommendation-list">
+        <li id="chrome" class="container-block left">
+          <a href="https://www.google.com/chrome" class="browser-link-container">
+            <span class="browser-icon"></span>
+            <span class="browser-link">Google Chrome</span>
+            <span class="platform">PC/Mac/Linux</span>
+          </a>
+        </li>
+        <li id="firefox" class="container-block left">
+          <a href="http://www.mozilla.org/en-US/firefox/fx/" class="browser-link-container">
+            <span class="browser-icon"></span>
+            <span class="browser-link">Firefox</span>
+            <span class="platform">PC/Mac/Linux</span>
+          </a>
+        </li>
+      </ul>
 
-</body></html>
+    </div>
+
+  </div>
+
+  </div>
+
+</div>
+
+<![endif]-->
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"926bef25e7","applicationID":"3516178","transactionName":"YwRUYkIFC0pQBUNbWVpOY0RZSwxXVQNPHEZcEQ==","queueTime":0,"applicationTime":19,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
