@@ -1,903 +1,158 @@
-<!--The following is the downloaded HTML source of the tickld.com privacy policy that was archived on 2013-07-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130707023902id_/http%3A//www.tickld.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tickld.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625121521id_/http%3A//www.tickld.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-<meta charset="utf-8">
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAUFVFNRGwAJXFdVDgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <title>Tickld - Privacy Policy</title>
 <meta name="keywords" content="tickld privacy policy">
 <meta name="description" content="Review Tickld's privacy policy.">
-<meta property="og:url" content="http://www.tickld.com/privacy/">
+<script type="text/javascript">
+        var is_mobile = false;
+    </script>
+<meta property="og:url" content="http://www.tickld.com/privacy">
 <meta property="og:site_name" content="tickld.com">
 <meta property="og:title" content="Tickld - Privacy Policy">
-<meta property="og:description" content="Spread Laughter and Cure Boredom">
+<meta property="og:description" content="Review Tickld's privacy policy.">
 <meta property="og:type" content="article">
-<meta property="fb:app_id" content="273074392745223">
-<link rel="stylesheet" type="text/css" href="/css/style.css?v=1371483714">
+<meta property="fb:app_id" content="168507099957585">
+<script type="text/javascript">
+    var logged_in = false;
+</script>
+<link rel="stylesheet" type="text/css" href="/nocache_1403297950_/css/style.css">
+<link rel="stylesheet" type="text/css" href="/nocache_1391105839_/assets/css/skinnew.css">
 <!--[if lt IE 8]>
-	<link rel="stylesheet" type="text/css" href="/css/styleIE.css" />
+<link rel="stylesheet" type="text/css" href="/css/styleIE.css" />
 <![endif]-->
 <link rel="icon" type="image/gif" href="/images/favicon.gif">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
- 
-<link rel="stylesheet" type="text/css" href="/assets/css/register-modal.css">
-<link rel="stylesheet" type="text/css" href="/assets/css/jquery.tagsinput.css">
-<link rel="stylesheet" href="/css/popstyles.css?v=1361987650" type="text/css">
+<script type="text/javascript" src="/includes/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/includes/js/jquery-migrate-1.2.1.min.js"></script>
+<script>var facebook_app_id = 168507099957585;</script>
+<script type="text/javascript" src="/nocache_1402082232_/includes/js/account.js"></script>
 <script type="text/javascript">
-function toggle_safe() {
-	$("#shadow").fadeIn("normal");
-	$("#reg_form").fadeIn("normal");
-	$("#username").focus();
-	ACPuzzle.create('6lsDoZ53N1HTbDB5wwPnwl1aUbcAuMGY', 'recaptchaholder', {});
-}
+    function toggle_safe() {
+                window.location = "/signup?why_reg=1";
+            }
 </script>
-<style type="text/css">div.postperms div{float:left;clear:none;margin-left:15px;}div.postperms{clear:both;}.p_red{color:#FF0000;}.p_blue{color:#0000FF;}.p_green{color:#00FF00;}.p_underline{text-decoration:underline;}.p_bold{font-weight:bold;}.p_italic{font-style:italic;}.p_14pt{font-size:14pt;}.p_16pt{font-size:16pt;}.p_8pt{font-size:8pt;}.p_orange{background-color:orange;}</style>
- 
-<script type="text/javascript" src="/includes/js/fav.js"></script>
- 
- 
-<!--[if gte IE 9]>
-<style type="text/css">
-  .gradient {
-     filter: none;
-  }
-</style>
+<script type="text/javascript" src="/nocache_1403187939_/includes/js/things.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/policy.css" media="screen">
+<!--[if lt IE 9]>
+<script src="/includes/js/html5shiv.js"></script>
 <![endif]-->
+ 
 <script type="text/javascript">
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function() {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
-var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') + 
-'//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
-})();
-</script>
-<script type="text/javascript">
-googletag.cmd.push(function() {
-googletag.pubads().enableSingleRequest();
-googletag.enableServices();
-});
+    var fb_param = {};
+    fb_param.pixel_id = '6016441482586';
+    fb_param.value = '0.01';
+    fb_param.currency = 'CAD';
+    (function(){
+        var fpw = document.createElement('script');
+        fpw.async = true;
+        fpw.src = '//connect.facebook.net/en_US/fp.js';
+        var ref = document.getElementsByTagName('script')[0];
+        ref.parentNode.insertBefore(fpw, ref);
+    })();
 </script>
 </head>
-<body id="body_privacy" class="night_mode_off">
+<body id="body_privacy" class="night_mode_off" style="">
+ 
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"eDisi1asyr00ik", domain:"tickld.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=eDisi1asyr00ik" style="display:none" height="1" width="1" alt=""/></noscript>
+ 
 <div id="wrapper">
  
-<script type="text/javascript" src="http://api.solvemedia.com/papi/challenge.ajax"></script>
-<script>
-window.fbAsyncInit = function() {
-	FB.init({
-		appId      : '168507099957585', // App ID
-		channelUrl : '//www.tickld.com/channel.html', // Channel File
-		status     : true, // check login status
-		cookie     : true, // enable cookies to allow the server to access the session
-		xfbml      : true  // parse XFBML
-	});
-
-	$('#js_fb_login').click(function(evt){
-		evt.preventDefault();
-		FB.login(function(response){
-			if (response.authResponse) {
-				FB.api('/me', function(response){
-					$('#fb_js_login_id').val(response.id);
-					$('#login').click();
-				});
-			}
-		}, {scope: 'email'});
-	});
-
-	$('#js_fb_signup').click(function(evt){
-		evt.preventDefault();
-
-		FB.login(function(response){
-			if (response.authResponse) {
-				FB.api('/me', function(response){
-					$('#fb_js_signup_id').val(response.id);
-					$('#reg_form #email').val(response.email);
-					$('#reg_form #username').val(response.username);
-					$('.recaptcha, #reg_form #password, #reg_form #retype_password').parents('tr').remove();
-					$('.recaptcha').remove();
-					$(evt.target).parents('tr').html('<td colspan=2><div id="extra_info">You have successfully linked your Facebook account.</dv></td>');
-					$('#fb_signup_else').html('<td colspan=2><br></td>');
-				});
-			}
-		}, {scope: 'email'});
-	});
- };
-
-  // Load the SDK Asynchronously
- (function(d){
-	var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-	if (d.getElementById(id)) {return;}
-	js = d.createElement('script'); js.id = id; js.async = true;
-	js.src = "//connect.facebook.net/en_US/all.js";
-	ref.parentNode.insertBefore(js, ref);
-	}(document));
-</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6016441482586&amp;value=0.01&amp;currency=CAD"/></noscript>
 <div id="fb-root"></div>
-<div class="headerNav_wrapper header-cookie">
-<div class="headerCookie">
-<p>
-Hi there. We use cookies to improve your experience on our website. Our <a href="/privacy#cookies">privacy page</a> explains what they are, which ones we use, and how you can manage or remove them.
-<button id="accept_cookies" type="button">Accept and Close</button>
-</p>
-</div>
+<div class="headerNav_wrapper">
 <div class="headerNav">
 <div class="headerNav_top">
 <ul>
-<li class="headerNav_logo"><a href="/index/"><div class="headerNav_logo"><span>Tickld</span></div></a></li>
-<li style="line-height:0px"><div class="headerNav_like fb-like" data-href="http://www.facebook.com/pages/Tickld/241319625934529" data-send="false" data-layout="button_count" data-width="110" data-show-faces="false"></div></li>
-<li class="headerNav_item"><a href="/index/"><div class="headerNav_homeIcon headerNav_icon"></div>HOME</a>
-</li>
+<li class="headerNav_logo"><a href="/">
+<div class="headerNav_logo"><span>Tickld</span></div>
+</a></li>
 <li class="headerNav_item headerNav_dropdown">
-<ul class="level1">
-<li><a href="/user/">My Profile</a></li>
-<li><a href="/settings">Account Settings</a></li>
-<li><a href="#" id="toggle_night_mode">Night Mode On</a></li>
-<li><a href="/logout">Logout</a></li>
-</ul>
-</li>
-<li class="headerNav_item">
-<a href="/random"><div class="headerNav_random"></div></a>
 </li>
 </ul>
-<script type="text/javascript">
-
-$(document).ready(function(){
-	// change length of fade in/out for login and sign up popups
-	var fade_length = 100;
-
-	$("#reg_a").click(function(){
-		$("#shadow").fadeIn(fade_length);
-		$("#reg_form").fadeIn(fade_length);
-		$("#username").focus();
-		ACPuzzle.create('6lsDoZ53N1HTbDB5wwPnwl1aUbcAuMGY', 'recaptchaholder', {});
-	});
-
-	$("#login_a").click(function(){
-		$("#shadow").fadeIn(fade_length);
-		$("#login_form").fadeIn(fade_length);
-		$("#username").focus();
-	});
-	
-	$("#reg_form #cancel_hide, #login_form #cancel_hide").click(function(){
-		$("#reg_form").fadeOut(fade_length);
-		$("#login_form").fadeOut(fade_length);
-		$("#shadow").fadeOut(fade_length);
-		ACPuzzle.destroy();
-	});
-	
-	$("#register").click(function(){
-		username=$("#reg_form #username").val();
-		password=$("#reg_form #password").val();
-		vpassword=$("#reg_form #retype_password").val();
-		email=$("#reg_form #email").val();
-		adcopy_challenge=$("#adcopy_challenge").val();
-		adcopy_response=$("#adcopy_response").val();
-		if ($("#agree").is(':checked')) agree='agree';
-		else agree='';
-		fbid=$("#fb_js_signup_id").val();
-		
-		$.ajax({
-			type: "POST",
-			url: "/reg2.php",
-			data: "username="+username+"&password="+password+"&retype_password="+vpassword+"&email="+email+"&adcopy_challenge="+adcopy_challenge+"&adcopy_response="+adcopy_response+"&agree="+agree+"&fb_id="+fbid,
-			success: function(html) {
-				if(html=='') {
-					$("#reg_form").fadeOut(fade_length);
-					$("#shadow").fadeOut(fade_length);
-					document.location.href="/user/"+username+"&referer=success";
-				} else if (html == 'SUCCESS') {
-					document.location.href="/confirm_registration";
-				} else {
-                    $("#add_err").html(html);
-                }
-			},
-			beforeSend:function() {
-				$("#add_err").html("Please wait...")
-			}
-		});
-		
-		return false;
-	});
-});
-</script>
+<div id="header_right">
 <div class="headerNav_button">
-<button id="login_a" class="headerNav_iconWrapper" title="Log In">LOG IN</button>
-<button id="reg_a" class="headerNav_iconWrapper" title="Sign Up">SIGN UP</button> </div>
+<a id="login_a" href="/signin" class="primary_button" title="Log In">SIGN IN</a>
+<a id="reg_a" href="/signup" class="primary_button" title="Sign Up">SIGN UP</a>
 </div>
 </div>
 </div>
-<script type="text/javascript">
-jQuery('li.headerNav_dropdown > a').click(function(event) {
-	var obj = jQuery(this).parent();
-	var level1 = jQuery('ul.level1', obj);
-
-	if (obj.hasClass("open")) {
-		obj.removeClass("open");
-	} else {
-		obj.addClass("open");
-
-		level1.css({left: obj.offset().left});
-		if (obj.outerWidth() > level1.width()) {
-			level1.width(obj.outerWidth());
-		}
-		jQuery(document).one("click", function() {
-			obj.removeClass("open");
-			return true;
-		});
-	}
-	event.stopPropagation();
-	return false;
-});
-jQuery(document).ready(function() {
-	function setCookie(cookieName,cookieValue,nDays) {
-		var today = new Date();
-		var expire = new Date();
-		if (nDays==null || nDays==0) nDays=1;
-		expire.setTime(today.getTime() + 3600000*24*nDays);
-		document.cookie = cookieName+'='+escape(cookieValue)+';path=/;expires='+expire.toGMTString();
-	}
-
-	$('#accept_cookies').click(function() {
-		var btn = $(this);
-		var divHeaderCookie = btn.parent().parent();
-		var divHeaderWrapper = divHeaderCookie.parent();
-		var divHeaderPlaceholder = $('.header_placeholder:first');
-		
-		var cookieHeight = divHeaderCookie.height();
-
-		divHeaderWrapper.removeClass('header-cookie');
-		divHeaderCookie.remove();
-		divHeaderPlaceholder.css('height', divHeaderPlaceholder.height()-cookieHeight);
-		
-		setCookie('accept_cookies', 1, 30);
-	});
-
-	var divWrapperHeight = jQuery('div.headerNav_wrapper').height();
-	jQuery('div.headerNav_wrapper').before('<div class="header_placeholder">&nbsp;</div>').css({"position":"fixed", "top":"0px","z-index":"9999"});
-	jQuery('div.header_placeholder').height(divWrapperHeight);
-	
-	// Night Mode
-	$("#toggle_night_mode").click(function(e) {
-		e.preventDefault();
-		
-		var toggle_mode = $("#toggle_night_mode").text();
-		
-		$.ajax({
-			type: "POST",
-			url: "/night_mode.php",
-			data: "night_mode_toggle="+toggle_mode,
-			success: function(data) {
-				
-				var obj = $.parseJSON(data);
-				
-				if (obj.night_mode == "ON") {
-					$("#toggle_night_mode").text("Night Mode Off");
-					$("div#topnavbar").removeClass();
-					$("body[id^=body_]").removeClass().addClass("night_mode_on");
-				} else {
-					$("#toggle_night_mode").text("Night Mode On");
-					$("div#topnavbar").removeClass().addClass("topnavbar_shadow");
-					$("body[id^=body_]").removeClass().addClass("night_mode_off");
-				}
-			},
-			beforeSend:function() {
-				$("#add_err").html("Please wait...")
-			}
-		});
-		
-	});
-});
-</script>
-<div id="enorasy_header_green_wrapper">
-<div id="enorasy_header_container">
-<div class="enorasy_header_01 float_left"><a href="/index/" border="0"><img src="/images/header_banner_matte.png" border="0"></a></div>
 </div>
 </div>
-<div id="topnavbar" class="topnavbar_shadow"><div id="topnavbarinner"><a class="headermenu headermenu_selected" href="/index/1">PIC</a><a class="headermenu" href="/gif/new/1">GIF</a><a class="headermenu" href="/ask/hot/1">ASK</a><a class="headermenu" href="/comic/new/1">COMIC</a>
-<div style="clear: both;"></div></div></div>
-<div id="login_form">
-<div id="reg_msg"><img src="/images/login.png" border="0" alt="Create a New Account"></div> <br>
-<form method="post" action="/login.php" class="register">
-<input type="hidden" value="" name="current_page">
-<input name="fb_id" type="hidden" value="" id="fb_js_login_id">
-<table class="register" width="430" cellpadding="0" cellspacing="0" align="center">
-<tbody><tr>
-<td width="100" align="left">
-<b>Login with Facebook</b>
-</td>
-<td width="330" alight="right" id="fb_js_login">
-<a href="#" id="js_fb_login" class="fb-login-button"><img src="/images/fb-login.png"></a>
-</td>
-</tr>
-<tr>
-<td width="100" align="left">
-or
-</td>
-<td width="330" alight="right">
-</td>
-</tr>
-<tr>
-<td width="100" align="left">
-<label><b>User Name</b></label>
-</td>
-<td width="330" align="right">
-<input type="text" id="username" name="username">
-</td>
-</tr>
-<tr>
-<td width="100" align="left">
-<label><b>Password</b></label>
-</td>
-<td width="330" align="right">
-<input type="password" id="password" name="password">
-</td>
-</tr>
-<tr>
-<td width="100" align="left">
-</td>
-<td width="330" align="right" style="text-align: left; padding: 10px 0 0 70px;">
-<input type="checkbox" name="remember_me" checked="checked" style="width:20px"> Remember Me
-</td>
-</tr>
-<tr>
-<td width="100" align="left">
-</td>
-<td width="330" align="right" style="text-align: left; padding: 10px 0 0 70px;">
-<a href="/reset" class="reset-password">Forgotten Login Information</a>
-</td>
-</tr>
-<tr>
-<td align="left"><button type="button" id="cancel_hide" value="Cancel" class="headerNav_iconWrapper">CANCEL</button></td>
-<td align="right"><button type="submit" id="login" title="Log In" class="headerNav_iconWrapper">LOG IN</button></td>
-</tr>
-</tbody></table>
-</form>
-</div>
-<div id="reg_form">
-<div id="reg_form_container">
-<div id="reg_msg"><img src="/images/createanewaccount.png" border="0" alt="Create a New Account"></div> <br>
-<div id="extra_info">
-All it takes is a username, password and valid email address...and the CAPTCHA, which sucks, but is necessary. Sorry!
-<br><br>
-You will be required to verify your email address.
-<br><br>
-If you already have an account, please close this window and log in.
-</div><br>
-<div id="tmp">
-</div>
-<div class="err" id="add_err"></div><br>
-<script type="text/javascript">
-	var RecaptchaOptions = { theme : 'white' };
-	</script>
-<form action="/reg2.php" class="register" method="post">
-<input name="fb_id" type="hidden" value="" id="fb_js_signup_id">
-<table class="register" width="430" cellpadding="0" cellspacing="0" align="center">
-<tbody><tr>
-<td width="100" align="left">
-<b>Sign up via Facebook</b>
-</td>
-<td width="330" alight="right" id="fb_js_login">
-<a href="#" id="js_fb_signup" class="fb-login-button"><img src="/images/fb-login.png"></a>
-</td>
-</tr>
-<tr id="fb_signup_else">
-<td width="100" align="left">
-or
-</td>
-<td width="330" alight="right">
-</td>
-</tr>
-<tr>
-<td width="100" align="left">
-<label><b>User Name</b></label>
-</td>
-<td width="330" align="right">
-<input type="text" id="username" name="username">
-</td>
-</tr>
-<tr>
-<td width="100" align="left">
-<label><b>Password</b></label>
-</td>
-<td width="330" align="right">
-<input type="password" id="password" name="password">
-</td>
-</tr>
-<tr>
-<td width="100" align="left">
-<label><b>Verify Password</b></label>
-</td>
-<td width="330" align="right">
-<input type="password" id="retype_password" name="retype_password">
-</td>
-</tr>
-<tr>
-<td width="100" align="left">
-<label><b>Email</b></label>
-</td>
-<td width="330" align="right">
-<input type="text" id="email" name="email">
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<label></label><br>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" id="recaptchaholder" class="recaptcha">
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<label></label><br>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<div id="extra_info" style="width:430">
-<input type="checkbox" name="agree" id="agree" value="agree" style="width:20px">&nbsp;I agree to the <a href="http://www.tickld.com/privacy" target="_blank" class="reset-password">Privacy Policy</a>, <a href="http://www.tickld.com/terms" target="_blank" class="reset-password">Terms of Use</a>, <a href="http://www.tickld.com/policies" target="_blank" class="reset-password">Username Policy</a> and to the use of <a href="http://www.tickld.com/privacy#cookies" target="_blank" class="reset-password"> strictly necessary cookies </a> for login functionality.
-</div>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<label></label><br>
-</td>
-</tr>
-<tr>
-<td align="left"><button type="button" id="cancel_hide" value="Cancel" class="headerNav_iconWrapper">CANCEL</button></td>
-<td align="right"><button type="submit" id="register" title="Create Account" class="headerNav_iconWrapper">CREATE ACCOUNT</button></td>
-</tr>
-</tbody></table>
-</form>
-<br>
-<div id="extra_info" class="recaptcha">If you're receiving a CAPTCHA error message, press the reload button on the CAPTCHA widget for a new challenge and try again.</div>
+<div id="topnavbar" class="topnavbar_fixed">
+<div id="topnavbar_container">
+<a href="#" class="topnavbar_controls m_prev" style="display:none;">«</a>
+<div id="topnavbarinner">
+<div class="topnav_block" id="topnav_block_1" style="display:none">
+<a class="headermenu" href="/signup?why_reg=1" title="My tickld">ME</a>
+<a class="headermenu" href="/all" title="Go to All">ALL</a>
+<a class="headermenu" href="/funny" title="Go to FUNNY">FUNNY</a>
+<a class="headermenu" href="/pic" title="Go to PIC">PIC</a>
+<a class="headermenu" href="/ask/new" title="Go to ASK">ASK</a>
+<a class="headermenu" href="/gif/new" title="Go to GIF">GIF</a>
+<a class="headermenu" href="/art" title="Go to ART">ART</a>
+<a class="headermenu" href="/meme" title="Go to MEME">MEME</a>
+<a class="headermenu" href="/science" title="Go to SCIENCE">SCIENCE</a>
+<a class="headermenu" href="/comic/new" title="Go to COMIC">COMIC</a>
+<a class="headermenu" href="/feels" title="Go to FEELS">FEELS</a>
+<a class="headermenu" href="/cute" title="Go to CUTE">CUTE</a>
+<a class="headermenu" href="/gaming/new" title="Go to GAMING">GAMING</a>
+<a class="headermenu" href="/books/new" title="Go to BOOKS">BOOKS</a>
+<a class="headermenu" href="/smsg" title="Go to SMSG">SMSG</a>
 </div>
 </div>
-<div id="shadow" class="popup"></div>
- 
- 
-<div id="enorasy_main_page_wrapper">
-<div class="enorasy_main_page_container">
-<div id="enorasy_main_page_left" class="main_width_1024">
- 
+<a href="#" class="topnavbar_controls m_next" style="display:none;">»</a>
+</div>
+</div>
+<div id="tickld_main_page_wrapper" class="down_a_bit">
+<div class="tickld_main_page_container">
+<div id="tickld_main_page_left_full" class="main_width_1024">
 <div id="controlbar_container" class="controlbar">
 <div class="controlbar_left display_table" style="width:100%;">
 <div class="en_posts_con_bar_title display_table_cell padding_5_10 text_center">PRIVACY POLICY</div>
 </div> </div>
- 
-<div id="enorasy_main_container">
- 
-<div class="sensible">
+<div id="tickld_main_container_full">
+<div class="policies">
+<div class="background container">
+<div class="background navigation">
+</div>
+<div class="background policy">
+</div>
+</div>
+<div class="center_block container">
+<div class="policies">
+<div class="top_block breadcrumbs">
+<div class="text">
+Policies &gt; <a href="#">Privacy Policy</a>
+</div>
+</div>
+<div class="left_block navigation">
+<div class="policies">
+Privacy Policy<hr>
+<a href="#1">Preface</a><hr><a href="#2">Definitions</a><hr><a href="#3">Introduction</a><hr><a href="#4">What We Collect</a><hr><a href="#5">What We Do With The Information We Gather</a><hr><a href="#6">Who Else Gets To See Your Personal Data</a><hr><a href="#7">Security, Retention and Storage</a><hr><a href="#8">How We Use Cookies</a><hr><a href="#9">Links to Other Websites</a><hr><a href="#10">Controlling Your Personal Data</a><hr><a href="#11">Contact Information</a><hr>
+<a href="archive?type=privacy">Archive</a> </div>
+</div>
+<div class="center_block policy">
+<div class="policies">
 <h1>Privacy Policy</h1>
-<p>
-Tickld is committed to ensuring that the privacy of all visitors to www.tickld.com is preserved. Please read the following
-Privacy Policy to understand how we use and protect the information you provide to us.
-</p>
-<p>
-By using our Site you consent to the collection, use and transfer of your information under the terms of this Privacy Policy.
-</p>
-<hr>
-<h1>1. Definitions</h1>
-<p>
-The following words and expressions have the following meanings unless inconsistent with the context:
-</p>
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="200">
-Compliance Officer<br><br>
-</td>
-<td width="400">
-James contactable at compliance[at]tickld[dot]com<br><br>
-<table width="100%">
-<tbody><tr>
-<td>
-Tickld c/o Lewis Golden &amp; Co
-</td>
-</tr>
-<tr>
-<td>
-40 Queen Anne Street
-</td>
-</tr>
-<tr>
-<td>
-London
-</td>
-</tr>
-<tr>
-<td>
-W1G 9EL
-</td>
-</tr>
-<tr>
-<td>
-United Kingdom
-</td>
-</tr>
-<tr>
-<td>
-<a href="http://www.lewisgolden.com" class="user" target="_blank">www.lewisgolden.com</a>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-<td width="200" valign="top">
-Cookies<br><br>
-</td>
-<td width="400" valign="top">
-a small amount of data sent from the server which is then stored on your computer's internal storage device (HDD, SSD);<br><br>
-</td>
-</tr>
-<tr>
-<td width="200">
-DPA<br><br>
-</td>
-<td width="400">
-Data Protection Act 1998 as amended;<br><br>
-</td>
-</tr>
-<tr>
-<td width="200" valign="top">
-"data processors", "personal data", "process", "processing" or "sensitive personal data"<br><br>
-</td>
-<td width="400" valign="top">
-as defined by the DPA;<br><br>
-</td>
-</tr>
-<tr>
-<td width="200">
-Site<br><br>
-</td>
-<td width="400">
-www.tickld.com<br><br>
-</td>
-</tr>
-<tr>
-<td width="200">
-"we", "us" or "our"<br><br>
-</td>
-<td width="400">
-Tickld
-<br><br>
-</td>
-</tr>
-<tr>
-<td width="200">
-"you", "your"<br>
-</td>
-<td width="400">
-and individual, company or firm accessing our Site<br>
-</td>
-</tr>
-</tbody></table>
-<hr>
-<h1>2. Introduction</h1>
-<p>
-This Privacy Policy is a statement as to how we shall process your personal data. We take the security and privacy of you
-and your personal data very seriously and we are committed to safeguarding your privacy on line. Please be aware that
-communications over the internet, such as emails, are not secure unless they are encrypted. We do not accept any
-responsibility for any unauthorised access or loss of personal data beyond our control.
-</p>
-<p>
-Tickld may change this policy from time to time by updating this page. You should check this page from time to time to ensure
-that you are happy with any changes. This policy is effective from 1 December 2011.
-</p>
-<hr>
-<h1>3. What We Collect</h1>
-<p>
-We may process the following personal data:
-</p>
-<ul>
-<li>
-login information you provide to us upon registration with the Site, including your username, email address and password;
-</li>
-<li>
-personal information you provide to us following registration with the Site, including your date of birth and location;
-</li>
-<li>
-order information you provide to us when you purchase a product from the web store, including your legal name, postal address and details of your order;
-</li>
-<li>
-when you contact us via email, post or telephone we may collect personal data from you;
-</li>
-<li>
-personal information may also be obtained automatically by your internet browser settings;
-</li>
-<li>
-demographic information such as IP address, preferences and interests will be collected by Google Analytics software
-Facebook Analytics software installed on the Site
-</li>
-<li>
-personal data collected where you complete our surveys and/or respond to our offers; and
-</li>
-<li>
-we may also collect non-personally identifiable information about your visit to our Site through the use of cookies.
-This information may include, for example, the pages you browse. This information helps us to better manage and develop
-our Site.
-</li>
-</ul>
-<hr>
-<h1>4. What We Do With The Information We Gather</h1>
-<p>
-We require this information to understand your needs and provide you with a better service, and in particular for the
-following reasons:
-</p>
-<ul>
-<li>internal record keeping;</li>
-<li>we can deal with any general queries you raise from time to time by post, by email or by telephone;</li>
-<li>we can ship you products that you have purchased from our web store;</li>
-<li>we may use the information to improve our products and services; </li>
-<li>we may periodically send promotional emails about new products, special offers or other information which we think you
-may find interesting using the email address which you have provided;</li>
-<li>for security purposes to protect your personal data held and/or processed by us;</li>
-<li>for training our employees in respect of providing our products and/or services to you; and</li>
-<li>for our general marketing purposes unless you have notified us to the contrary.</li>
-</ul>
-<p>
-You acknowledge that by providing personal data to us, you consent to the processing of your personal data in accordance with
-this Privacy Policy.
-</p>
-<hr>
-<h1>5. Who Else Gets to See your Personal Data</h1>
-<ul>
-<li>Our data processors</li>
-<li>Such marketing companies used by us from time to time</li>
-</ul>
-<hr>
-<h1>6. Security</h1>
-<p>
-We are committed to ensuring that your personal data is secure. In order to prevent unauthorised access or disclosure, we
-have put in place suitable physical, electronic and managerial procedures to safeguard and secure the personal data we
-collect. All of our employees and sub-contractors with access to your personal data and/or who are associated with the
-processing of that data are contractually obliged to respect the confidentiality of your personal data.
-</p>
-<hr>
-<h1>7. How We Use Cookies</h1><a name="cookies"></a>
-<p>
-Our website uses cookies, as almost all websites do, to help provide you with the best experience we can. Cookies are small text files that are placed on your computer or mobile phone when you browse websites.
-</p>
-<p>
-Our cookies can be categorised into the following types:
-</p>
-<p>
-Strictly necessary cookies. These are cookies that are required for the operation of our Site. They include, for example,
-cookies that enable you to log into secure areas.
-</p>
-<p>
-Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move
-around our website when they are using it. This helps us to improve the way our Site works, for example, by ensuring that
-users are finding what they are looking for easily.
-</p>
-<p>
-Our cookies help us:
-</p>
-<ul>
-<li>Make our website work as you would expect</li>
-<li>Save you having to login every time you visit the site</li>
-<li>Remember your settings during and between visits</li>
-<li>Offer you free services/content (thanks to advertising)</li>
-<li>Improve the speed/security of the site</li>
-<li>Allow you to share pages with social networks like Facebook</li>
-<li>Personalise our site to you to help you get what you need faster</li>
-<li>Continuously improve our website for you</li>
-</ul>
-<p>
-We do not use cookies to:
-</p>
-<ul>
-<li>Collect any personally identifiable information (without your express permission)</li>
-<li>Collect any sensitive information (without your express permission)</li>
-<li>Pass personally identifiable data to third parties</li>
-</ul>
-<p>
-We use cookies to make our website work including:
-</p>
-<ul>
-<li>Determining if you are logged in or not</li>
-<li>Allowing you to add comments to our site</li>
-<li>Tailoring content to your needs</li>
-</ul>
-<p>
-There is no way to prevent these cookies being set other than to not use our Site.
-</p>
-<p>
-You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
-</p>
-<br>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td width="20%">
-<b>Cookie</b><br><br>
-</td>
-<td width="20%">
-<b>Name</b><br><br>
-</td>
-<td width="60%">
-<b>Purpose</b><br><br>
-</td>
-</tr>
-<tr>
-<td>
-Cookies Notice
-</td>
-<td>
-allow_cookies
-</td>
-<td>
-When you arrive at this site for the first time, you see a coloured banner at the top of each page alerting you to our use of cookies. This cookie remembers when you have clicked the "Accept and Close" button.
-</td>
-</tr>
-<tr>
-<td>
-Google Analytics
-</td>
-<td>
-_utma, _utmb, _utmc, _utmz
-</td>
-<td>
-These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
-</td>
-</tr>
-<tr>
-<td>
-CloudFlare
-</td>
-<td>
-__cfduid
-</td>
-<td>
-In order to protect our website from security threats such as hackers and to boost its performance, we route our DNS through CloudFlare. This cookie is set by the CloudFlare service.
-</td>
-</tr>
-<tr>
-<td>
-Login
-</td>
-<td>
-remember_me
-</td>
-<td>
-Detect whether the user has opted to remain logged in on their computer
-</td>
-</tr>
-<tr>
-<td>
-Passcode
-</td>
-<td>
-pass
-</td>
-<td>
-An encrypted alphanumeric string to verify the user's identity
-</td>
-</tr>
-<tr>
-<td>
-User ID
-</td>
-<td>
-userID
-</td>
-<td>
-Save the user's unique identification number
-</td>
-</tr>
-<tr>
-<td>
-Safe Mode
-</td>
-<td>
-safe
-</td>
-<td>
-Detect whether the user has opted to switch off "Safe Mode"
-</td>
-</tr>
-</tbody></table>
-<br>
-<p>
-<b>Social Website Cookies</b>
-</p>
-<p>
-So you can easily share our content on the likes of Facebook and Twitter we have included sharing buttons on our site. The privacy implications on this will vary from social network to social network and will be dependent on the privacy settings you have chosen on these networks.
-</p>
-<p></p>
-<p>
-<b>Advertising Cookies</b>
-</p>
-<p>
-Cookies are widely used in online advertising. Neither us, advertisers or our advertising partners can gain personally identifiable information from these cookies. We only work with advertising partners who work to accepted privacy standards such as <a href="http://www.youronlinechoices.com/uk/iab-good-practice-principles" class="user">http://www.youronlinechoices.com/uk/iab-good-practice-principles</a>.
-</p>
-<p>
-You can learn more about online advertising at <a href="http://www.youronlinechoices.com" class="user">http://www.youronlinechoices.com</a>. You can opt-out of almost all advertising cookies at <a href="http://www.youronlinechoices.com/uk/your-ad-choices" class="user">http://www.youronlinechoices.com/uk/your-ad-choices</a> although we would prefer that you didn't as ultimately adverts help keep much of the internet free. It is also worth noting that opting out of advertising cookies will not mean you won't see adverts, just simply that they won't be tailored to you any longer.
-</p>
-<p>
-We use:
-</p>
-<ul>
-<li>AdSense</li>
-<li>Criteo</li>
-<li>Solve Media</li>
-<li>Sunfish Media</li>
-</ul>
-<p>
-<b>Affiliate Cookies</b>
-</p>
-<p>
-We have a number of partners who promote our service on a success-only basis (i.e. instead of paying for advertising, we pay them commissions on sales). Cookies are required to allow us to reward these partners and these cookies are usually provided by specialist companies (known as affiliate networks). Neither us, the networks, or the partner advertising or recommending our services are able to identify you personally. We ask you to support us by allowing these cookies which ultimately help us to offer you the service we do at the price we do. Our affiliate cookies are provided by:
-</p>
-<ul>
-<li>Commission Junction</li>
-<li>Amazon Affiliates</li>
-</ul>
-<p>
-Please note that third parties (including, for example advertising networks and providers or external services like web
-traffic analysis services) will use cookies over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies. Information on how to block cookies can normally be found within the help features
-of your browser. If you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our Site. Information can also be found on the main browser websites:
-</p>
-<p>
-<a href="http://support.microsoft.com/kb/196955" class="user">http://support.microsoft.com/kb/196955</a> (Internet Explorer) <br>
-<a href="http://www.opera.com/browser/tutorials/security/privacy/" class="user">
-http://www.opera.com/browser/tutorials/security/privacy/
-</a> (Opera)<br>
-<a href="http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences" class="user">
-http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences</a> (Firefox)
-<br>
-<a href="http://support.apple.com/kb/PH5042" class="user">http://support.apple.com/kb/PH5042</a> (Safari)<br>
-<a href="http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95647" class="user">
-http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95647</a> (Chrome)
-</p>
-<p>
-Except for essential cookies, cookies from Google Analtyics and cookies from CloudFlare, all cookies will expire after 30 days. You may choose to clear these cookies prior to their automated expiration date.
-</p>
-<hr>
-<h1>8. Links to Other Websites</h1>
-<p>
-Our website may contain links to other websites of interest. However, once you have used these links to leave our Site, you
-should note that we do not have any control over that other website and the privacy practices of other websites. We cannot be
-responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are
-not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the
-website in question.
-</p>
-<hr>
-<h1>9. Controlling Your Personal Information</h1>
-<p>
-You may choose to restrict the collection or use of your personal information in the following ways:
-</p>
-<ul>
-<li>If you have previously agreed to us using your personal information, you may change your mind at any time by emailing us at hello[at]tickld[dot]com. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so;</li>
-<li>We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You have the right to object to your personal data being used for 'direct marketing' and/or 'hosting mailing' purposes. You can change your options in relation to the information you wish to receive any any time by contacting our Compliance Office in writing by post or email;</li>
-<li>you can set your internet browser to refuse cookies or you can ask your internet browser to alter you when a cookies is being set up (see 'How We Use Cookies');</li>
-<li>You have the right to request from us information as to what personal data which we are processing about you under the DPA 1998. A small fee of £10.00 will be payable. Such requests will only be answered by registered post to ensure the privacy of the recipient. If you would like a copy of the relevant information please write by post or email to the Compliance Officer with the subject line "Data Protection Act 1998 Application", which should be accompanied by the £10.00 fee. We will provide you with the relevant information within 40 days of receipt of the fee; and</li>
-<li>You have other rights under the DPA in relation to our processing of your personal data.</li>
-</ul>
-<hr>
-<h1>9. Contact Information</h1>
-<p>
-If you have any queries about our processing or use of your personal data you should write, in the first instance to our
-Compliance Officer. If you want to learn more about your rights regarding your personal data, you should contact the
-Information Commissioner's office information line on: (0044) 01625 545745 or visit their website at
-<a href="http://www.ico.gov.uk" class="user">www.ico.gov.uk</a>.
-</p>
+<p>Last Modified: 21 December 2013 (<a href="archive?type=privacy">view archived versions</a>)</p>
+<a name="1"></a><h1>1. Preface</h1><p>Tickld is committed to ensuring that the privacy of all visitors to www.tickld.com is preserved. Please read the following Privacy Policy to understand how we collect, use, disclose and protect the information you provide to us. By using our Site you consent to the collection, use and disclosure of your personal data under the terms of this Privacy Policy.</p><a name="2"></a><h1>2. Definitions</h1><p>The following words and expressions have the following meanings unless inconsistent with the context: </p><table class="definitions"><tbody><tr><td>Compliance Officer</td><td>James contactable at james[at]tickld[dot]com<br><br>Compliance Officer<br>2382258 Ontario Inc.<br>60 St. Clair Avenue East<br>Suite 205<br>Toronto, Ontario<br>M4T 1N5<br>Canada<br></td></tr><tr><td> Cookies </td><td> a small amount of data sent from the server which is then stored on your computer's internal storage device (HDD, SSD); </td></tr><tr><td> DPA </td><td> Data Protection Act 1998 as amended from time to time; </td></tr><tr><td> 'data processors', 'personal data', 'process', 'processing' or 'sensitive personal data' </td><td>For UK residents, as defined by the DPA;<br> For Canadian residents, ‘personal data’ means information about an identifiable individual;</td></tr><tr><td>PIPEDA</td><td>Personal Information Protection and Electronic Documents Act, SC 2000, c. 5 (Canada), as amended from time to time;</td></tr><tr><td> Site </td><td> www.tickld.com;</td></tr><tr><td>'we', 'us' or 'our'</td><td>2382258 Ontario Inc. operating as Tickld, a company duly incorporated under the laws of Ontario;</td></tr><tr><td> 'you', 'your' </td><td> an individual, company or firm accessing our Site.</td></tr></tbody></table><p></p><a name="3"></a><h1>3. Introduction</h1><p>This Privacy Policy is a statement as to how we shall process your personal data. We take the security and privacy of you and your personal data very seriously and we are committed to safeguarding your privacy on line. Please be aware that communications over the Internet, such as emails, are not secure unless they are encrypted. We do not accept any responsibility for any unauthorized access, theft or loss of personal data beyond our reasonable control. Tickld may change this policy without notice from time to time to reflect changes in legal or regulatory obligations or changes in the manner in which we deal with personal data by updating this page. You should check this page from time to time to ensure that you are happy with any changes. The policy posted at any time or from time to time via our Site shall be deemed to be the policy then in effect. This policy is effective from 21 December 2013.</p><a name="4"></a><h1>4. What We Collect</h1><p>We may collect the following personal data: </p><ol> <li>login information you provide to us upon registration with the Site, including your username, email address and password;</li> <li>personal data you provide to us following registration with the Site, including your date of birth and location;</li> <li>order information you provide to us when you purchase a product from the web store, including your legal name, postal address, details of your order and credit or debit card information;</li> <li>when you contact us via email, post or telephone we may collect personal data from you;</li> <li>personal data may also be obtained automatically by your internet browser settings;</li> <li>demographic information such as IP address, preferences and interests will be collected by Google Analytics software and Facebook Analytics software installed on the Site</li> <li>personal data collected where you complete our surveys and/or respond to our offers; and</li> <li>we may also collect non-personally identifiable information about your visit to our Site through the use of cookies. This information may include, for example, the pages you browse. This information helps us to better manage and develop our Site.</li> </ol><p></p><a name="5"></a><h1>5. What We Do With The Information We Gather</h1><p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: </p><ol> <li>internal record keeping;</li> <li>we can deal with any general queries you raise from time to time by post, by email or by telephone;</li> <li>we can process, bill you for and ship you products that you have purchased from our web store;</li> <li>we may use the information to improve our products and services;</li> <li>we may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided;</li> <li>for security purposes to protect your personal data held and/or processed by us;</li> <li>for training our employees in respect of providing our products and/or services to you; and</li> <li>for our general marketing purposes unless you have notified us to the contrary.</li> <li>to process User Moderation Applications; and</li><li>To enforce our Terms of Use, Username Policy and other policies applicable to your use of the Site.</li></ol> You acknowledge that by providing personal data to us, you consent to the processing of your personal data for the purposes described above in accordance with this Privacy Policy.<p></p><a name="6"></a><h1>6. Who Else Gets To See Your Personal Data</h1><p></p><ol><li>Our data processors. We may share personal data with third parties engaged to assist us in providing services to you or to carry out one or more of the purposes described above. These service providers are prohibited from using your personal data for any purpose other than to provide this assistance and are required to protect personal data collected by them on behalf of Tickld or disclosed to them by Tickld and to comply with the general privacy principles described in this policy.</li> <li>Such marketing companies used by us from time to time</li><li>We reserve the right to disclose personal data to a third party if a law, regulation, search warrant, subpoena or court order legally requires or authorizes us to do so.</li><li>We reserve the right to disclose and/or transfer personal data to a third party in the event of a proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of 2382258 Ontario Inc. or of any of the business or assets or shares of 2382258 Ontario Inc. or a division thereof in order for you to continue to receive the same products and services from the third party.</li></ol><p></p><a name="7"></a><h1>7. Security, Retention and Storage</h1><p>We are committed to ensuring that your personal data is secure. In order to prevent loss, theft and unauthorized access, copying, use, modification or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and help secure the personal data we collect. All of our employees and sub-contractors with access to your personal data and/or who are associated with the processing of that data are contractually obliged to respect the confidentiality of your personal data. Our safeguards include firewalls, encryption technology, penetration testing, password protected computers and detailed contracts with our employees and contractors.<br><br> We retain your personal data for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws, and your consent to such purposes(s) remains valid after termination of our relationship with you.<br><br> For the purposes set out in this policy, we or one of our affiliates or an unaffiliated service provider may process and store your personal data outside of the jurisdiction in which you reside, and under the laws of those other foreign jurisdictions, in certain circumstances courts, law enforcement agencies, regulatory agencies or security authorities in those other foreign jurisdictions may be entitled to access your personal data. For more information about our policies and practices related to the use of foreign service providers, please contact our Compliance Officer as described above.</p><a name="8"></a><h1>8. How We Use Cookies</h1><p>Our Site uses cookies, as almost all websites do, to help provide you with the best experience we can. Cookies are small text files that are placed on your computer or mobile phone when you browse websites.<br><br> Our cookies can be categorized into the following types: </p><ol> <li>Strictly necessary cookies. These are cookies that are required for the operation of our Site. They include, for example, cookies that enable you to log into secure areas.</li> <li>Analytical/performance cookies. They allow us to recognize and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our Site works, for example, by ensuring that users are finding what they are looking for easily.</li> </ol> Our cookies help us: <ol> <li>Make our website work as you would expect</li> <li>Save you having to login every time you visit the site</li> <li>Remember your settings during and between visits</li> <li>Offer you free services/content (thanks to advertising)</li> <li>Improve the speed/security of the site</li> <li>At your option, allow you to share pages with social networks like Facebook</li> <li>Personalize our site to you to help you get what you need faster</li> <li>Continuously improve our website for you</li> </ol> We do not use cookies to: <ol> <li>Collect any personally identifiable information (without your express permission)</li> <li>Collect any sensitive information (without your express permission)</li> <li>Share personally identifiable data to third parties (except as otherwise set out in this policy).</li></ol> We use cookies to make our website work including: <ol> <li>Determining if you are logged in or not</li> <li>Allowing you to add comments to our site</li> <li>Tailoring content to your needs</li> <li>There is no way to prevent analytical or performance cookies being set other than to not use our Site. If you have disabled cookies in your browser, you will be denied access to the portions of the website that legitimately require cookies for functionality.</li> </ol> You can find more information about the individual cookies we use and the purposes for which we use them in the table below:<br><br><table border="1" cellpadding="5" cellspacing="5" width="100%" style="border-collapse:collapse;border:1px solid black;"><tbody><tr><td width="20%"><b>Cookie</b><br><br></td><td width="20%"><b>Name</b><br><br></td><td width="60%"><b>Purpose</b><br><br></td></tr><tr><td>Cookies Notice</td><td>allow_cookies</td><td>When you arrive at this Site for the first time, you see a coloured banner at the top of each page alerting you to our use of cookies. This cookie remembers when you have clicked the 'Accept and Close' button.</td></tr><tr><td>Google Analytics</td><td>_utma, _utmb, _utmc, _utmz</td><td>These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.</td></tr><tr><td>CloudFlare</td><td>__cfduid</td><td>In order to protect our website from security threats such as hackers and to boost its performance, we route our DNS through CloudFlare. This cookie is set by the CloudFlare service.</td></tr><tr><td>Login</td><td>remember_me</td><td>Detect whether the user has opted to remain logged in on their computer</td></tr><tr><td>Passcode</td><td>pass</td><td>An encrypted alphanumeric string to verify the user's identity</td></tr><tr><td>User ID</td><td>userID</td><td>Save the user's unique identification number</td></tr><tr><td>Safe Mode</td><td>safe</td><td>Detect whether the user has opted to switch off 'Safe Mode'</td></tr></tbody></table><br>Social Website Cookies<br><br> So you can easily share our content on the likes of Facebook and Twitter we have included sharing buttons on our site. The privacy implications on this will vary from social network to social network and will be dependent on the privacy settings you have chosen on these networks.<br><br> Advertising Cookies<br><br> Cookies are widely used in online advertising. Neither us, advertisers or our advertising partners can gain personally identifiable information from these cookies. We only work with advertising partners who work to accepted privacy standards such as <a href="http://www.youronlinechoices.com/uk/">http://www.youronlinechoices.com/uk/</a> if you’re in the United Kingdom or <a href="http://youradchoices.ca">http://youradchoices.ca</a>, which a website managed by the Digital Advertising Alliance of Canada (DAAC) if you’re in Canada..<br><br> You can learn more about online advertising at <a href="http://www.youronlinechoices.com">http://www.youronlinechoices.com</a>. You can opt-out of almost all advertising cookies at <a href="http://www.youronlinechoices.com/uk/your-ad-choices">http://www.youronlinechoices.com/uk/your-ad-choices</a> although we would prefer that you didn't as ultimately adverts help keep much of the internet free. It is also worth noting that opting out of advertising cookies will not mean you won't see adverts, just simply that they won't be tailored to you any longer.<br><br> We use: <ol> <li>AdSense</li> <li>Criteo</li> <li>Solve Media</li> <li>Tribal Fusion</li> <li>Federated Media</li> <li>Affiliate Cookies</li> </ol> We have a number of partners who promote our service on a success-only basis (i.e. instead of paying for advertising, we pay them commissions on sales). Cookies are required to allow us to reward these partners and these cookies are usually provided by specialist companies (known as affiliate networks). Neither us, the networks, or the partner advertising or recommending our services are able to identify you personally. We ask you to support us by allowing these cookies which ultimately help us to offer you the service we do at the price we do. Our affiliate cookies are provided by: <ol> <li>Commission Junction</li> <li>Amazon Affiliates</li> </ol> Please note that third parties (including, for example advertising networks and providers or external services like web traffic analysis services) will use cookies over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies. Information on how to block cookies can normally be found within the help features of your browser. If you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our Site. Information can also be found on the main browser websites:<br><br> <a href="http://support.microsoft.com/kb/196955">http://support.microsoft.com/kb/196955</a> (Internet Explorer)<br> <a href="http://www.opera.com/browser/tutorials/security/privacy/">http://www.opera.com/browser/tutorials/security/privacy/</a> (Opera)<br> <a href="http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences">http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences</a> (Firefox) <br> <a href="http://support.apple.com/kb/PH5042">http://support.apple.com/kb/PH5042</a> (Safari)<br> <a href="http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95647">http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95647</a> (Chrome)<br><br> Except for essential cookies, cookies from Google Analtyics and cookies from CloudFlare, all cookies will expire after 30 days. You may choose to clear these cookies prior to their automated expiration date.<p></p><a name="9"></a><h1>9. Links to Other Websites</h1><p>Our website may contain links to other websites of interest. However, once you have used these links to leave our Site, you should note that we do not have any control over that other website and the privacy practices of other websites. We cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this Privacy Policy. You should exercise caution and look at the privacy statement applicable to the website in question.</p><a name="10"></a><h1>10. Controlling Your Personal Data</h1><p>You may choose to restrict the collection, use or disclosure of your personal data in the following ways: </p><ol> <li>If you have previously agreed to us using your personal data, you may change your mind at any time by emailing us at hello[at]tickld[dot]com. We will not sell, distribute, rent or lease your personal data to third parties unless we have your permission or are required by law to do so;</li> <li>We may use your personal data to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You have the right to object to your personal data being used for 'direct marketing' purposes. You can change your options in relation to the promotional information you wish to receive at any time by contacting our Compliance Office in writing by post or email;</li> you can set your internet browser to refuse cookies or you can ask your internet browser to alter you when a cookies is being set up (see 'How We Use Cookies'); <li>You have the right to request from us information as to what personal data which we are processing about you under the DPA 1998, PIPEDA and other applicable privacy laws. Unless prohibited by law, a small fee of $10.00 CAD will be payable. Such requests will only be answered by registered post to ensure the privacy of the recipient. If you would like a copy of the relevant information please write by post or email to the Compliance Officer with the subject line ‘Personal Data’, which should be accompanied by the $10.00 fee (if applicable). We will provide you with the relevant information within 30 days of receipt of the fee or otherwise as required by law; and</li><li>For UK residents, you have other rights under the DPA in relation to our processing of your personal data.</li> </ol><p></p><a name="11"></a><h1>11. Contact Information</h1><p>If you have any queries about our processing or use of your personal data, or wish to modify or correct your personal data, you should write, in the first instance to our Compliance Officer. If you want to learn more about your rights regarding your personal data, you should contact (for UK residents) the Information Commissioner's office information line at: (0044) 01625 545745 or visit their website at <a href="www.ico.gov.uk">www.ico.gov.uk</a> or (for Canadian residents) the Office of the Privacy Commissioner of Canada at 1-800-282-1376 or visit their website at
+<a href="http://www.priv.gc.ca/index_e.asp">http://www.priv.gc.ca/index_e.asp</a>.</p> </div>
 </div>
-  </div>
 </div>
- 
- 
+</div>
+</div> </div>
+<div id="tickld_bottom_module_container">
+</div>
+</div>
 <div class="clear"></div>
 </div>
- 
 </div>
- 
 <div id="en_footer_wrapper">
 <div id="en_footer_container">
 <div class="content">
@@ -907,18 +162,13 @@ Information Commissioner's office information line on: (0044) 01625 545745 or vi
 </div>
 <div class="left_block left">
 <div class="content">
-<p>
-<img src="/images/header_logo.png">
-</p>
-<p>
-© tickld 2012-2013 </p>
+<p><img id="footer_logo" src="/images/tickld_logo.png" alt="Tickld"></p>
+<p>© tickld 2012-2014</p>
 </div>
 </div>
 <div class="left_block middleleft">
 <div class="content">
-<p class="footer_emph">
-Essentials
-</p>
+<p class="footer_emph">Essentials</p>
 <p>
 <a href="/contact" class="footer_hyperlink">Contact Us</a>
 </p>
@@ -927,6 +177,9 @@ Essentials
 </p>
 <p>
 <a href="/faq" class="footer_hyperlink">FAQ</a>
+</p>
+<p>
+<a href="/safety" class="footer_hyperlink">Your Safety While On Tickld</a>
 </p>
 <p>
 <a href="http://m.tickld.com/privacy" class="footer_hyperlink">Mobile Site</a>
@@ -945,20 +198,18 @@ Odds and Ends
 <a href="/advertise" class="footer_hyperlink">Advertise</a>
 </p>
 <p>
+<a href="/jobs" class="footer_hyperlink">Jobs</a>
+</p>
+<p>
 <a href="/shop/tshirt" class="footer_hyperlink">Tickld T-Shirt</a>
 </p>
 <p>
-</p><table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td width="15%" align="left">
-<a href="http://www.facebook.com/tickld" target="_blank"><img src="/images/footer_facebook.png" border="0"></a>
-</td>
-<td width="85%" align="left">
-<a href="http://www.twitter.com/tickld" target="_blank"><img src="/images/footer_twitter.png" border="0"></a>
-</td>
-</tr>
-</tbody></table>
-<p></p>
+<a href="/moderator-application" class="footer_hyperlink">User Moderator Application</a>
+</p>
+<p class="footer_social_icons">
+<a href="http://www.facebook.com/tickld" target="_blank" title="Tickld on Facebook"><img src="/images/footer_facebook.png" alt="Facebook"></a>
+<a href="http://www.twitter.com/tickld" target="_blank" title="Tickld on Twitter"><img src="/images/footer_twitter.png" alt="Twitter"></a>
+</p>
 </div>
 </div>
 <div class="left_block right">
@@ -967,19 +218,25 @@ Odds and Ends
 Legal
 </p>
 <p>
-<a href="/terms" class="footer_hyperlink">Terms of Use</a>
+<a href="/terms" class="footer_hyperlink" title="Terms of Use">Terms of Use</a>
 </p>
 <p>
-<a href="/privacy" class="footer_hyperlink">Privacy Policy</a>
+<a href="/privacy" class="footer_hyperlink" title="Privacy Policy">Privacy Policy</a>
 </p>
 <p>
-<a href="/policies" class="footer_hyperlink">Additional Policies</a>
+<a href="/moderation" class="footer_hyperlink" title="Moderation Policy">Moderation Policy</a>
 </p>
 <p>
-<a href="/shop/terms" class="footer_hyperlink">Terms and Conditions of Sale</a>
+<a href="/username" class="footer_hyperlink" title="Username Policy">Username Policy</a>
 </p>
 <p>
-<a href="/privacy#cookies" class="footer_hyperlink">How Tickld Uses Cookies</a>
+<a href="/ip" class="footer_hyperlink" title="Intellectual Property Policy">Intellectual Property Policy</a>
+</p>
+<p>
+<a href="/shop/terms" class="footer_hyperlink" title="Terms and Conditions of Sale">Terms and Conditions of Sale</a>
+</p>
+<p>
+<a href="/privacy#8" class="footer_hyperlink" title="How Tickld Uses Cookies">How Tickld Uses Cookies</a>
 </p>
 </div>
 </div>
@@ -991,18 +248,25 @@ Spread Laughter and Cure Boredom
 </div>
 </div>
 </div>
- 
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-27441513-1']);
-  _gaq.push(['_trackPageview']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-27441513-1', 'auto');
+ga('send', 'pageview');
+
 </script>
 <script type="text/javascript" src="/assets/js/jquery.validate.js"></script>
 <script type="text/javascript" src="/assets/js/jquery.tagsinput.min.js"></script>
@@ -1017,8 +281,7 @@ $(document).ready(function()
 });
 
 </script>
-<script type="text/javascript" src="/assets/js/jquery.simplemodal.js"></script>
-<script type="text/javascript" src="/assets/js/register.js?1345790"></script>
+<script type="text/javascript" src="/nocache_1402601117_/includes/js/general.js"></script>
 </div>
-
-</body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"930450ac69","applicationID":"3986794","transactionName":"MQMEN0AHXBEAWkRRWghJJRZBEl0PTklCUUMHBR8=","queueTime":0,"applicationTime":20,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
