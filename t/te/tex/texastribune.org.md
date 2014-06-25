@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texastribune.org privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209063725id_/http%3A//www.texastribune.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texastribune.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221759id_/http%3A//www.texastribune.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Texas Tribune
 
@@ -98,7 +98,6 @@ We may share your information:
 
 We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission.
 
-  
 Except as set described in this Privacy Policy, The Texas Tribune does not rent, sell, or share Personal Information it collects about you to or with third parties.
 
 **We Use Vendors and Service Providers.** Agents or contractors of The Texas Tribune may have access to your Personal Information and other information, including Location Data, for the purpose of performing services on behalf of The Texas Tribune, including as necessary to process your online purchases and ship your purchased products, and we may transfer your Personal Information third parties who process and maintain your Personal Information on our behalf. All such agents or contractors who have access to your Personal Information are required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for The Texas Tribune or as otherwise required by law. We may use third-party service providers to help us analyze certain online activities. For example, these service providers may help us measure the performance of our online promotions or determine activity on the Services. We do not share any Personal Information about our users with these third parties, and these third parties do not collect such information on our behalf. In addition, information collected about you may be shared with other third parties as expressly stated on the page on which you provided such information.
