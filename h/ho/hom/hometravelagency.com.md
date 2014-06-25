@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hometravelagency.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127185912id_/http%3A//hometravelagency.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometravelagency.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082445id_/http%3A//hometravelagency.com/privacy) for the most accurate reproduction.*
 
-# Privacy | HomeTravelAgency.com
+# Privacy « HomeTravelAgency.comHomeTravelAgency.com
 
 1\. HOW WE PROTECT YOUR PRIVACY.
 
