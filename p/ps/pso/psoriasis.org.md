@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the psoriasis.org privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223125807id_/http%3A//psoriasis.org/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psoriasis.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625201054id_/https%3A//psoriasis.org/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - National Psoriasis Foundation
-
-About us
 
 The National Psoriasis Foundation (NPF) respects the privacy of each individual who contacts us. We are grateful for your support and the critical role you play in helping us continue our valuable work. To protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.
 
@@ -14,7 +12,7 @@ We collect information such as your name, postal address and e-mail address when
 
 ### Opting Out of Communications
 
-We send out electronic and other communications to National Psoriasis Foundation constituents to highlight news, information and opportunities available from the National Psoriasis Foundation. You can elect not to receive communications from us, either by updating the communications preferences by going to [http://www.psoriasis.org/netcommunity/email_preferences_edit](https://web.archive.org/email_preferences_edit) or by contacting us at [privacy@psoriasis.org](mailto:privacy@psoriasis.org). In addition, all National Psoriasis Foundation e-mail communications have easy-to-follow unsubscribe instructions at the bottom of each e-mail.
+We send out electronic and other communications to National Psoriasis Foundation constituents to highlight news, information and opportunities available from the National Psoriasis Foundation. You can elect not to receive communications from us, either by [updating the communications preferences](https://web.archive.org/email_preferences_edit) or by contacting us at [privacy@psoriasis.org](mailto:privacy@psoriasis.org). In addition, all National Psoriasis Foundation e-mail communications have easy-to-follow unsubscribe instructions at the bottom of each e-mail.
 
 ### Use of Cookies
 
@@ -66,7 +64,7 @@ National Psoriasis Foundation produces websites, including, PsoMe.org, as well a
 
 ### TalkPsoriasis.org Online Community
 
-The TalkPsoriasis online community is sponsored by the National Psoriasis Foundation and hosted by Inspire. Individuals who register on [TalkPsoriasis.org](http://www.talkpsoriasis.org/) agree to the privacy policy set forth by Inspire. More information on the Inspire privacy policy can be found here: <http://www.inspire.com/about/privacy>.
+The TalkPsoriasis online community is sponsored by the National Psoriasis Foundation and hosted by Inspire. Individuals who register on [TalkPsoriasis.org](http://www.talkpsoriasis.org/) agree to the privacy policy set forth by Inspire. [More information on the Inspire privacy policy](http://www.inspire.com/about/privacy).
 
 The National Psoriasis Foundation does not endorse or accept any responsibility for the content of external websites. For more information see our complete [terms of use](https://web.archive.org/about-us/legal/terms-of-use).
 
