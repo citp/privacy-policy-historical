@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techwayz.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220194736id_/http%3A//techwayz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwayz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625145136id_/http%3A//techwayz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tech Wayz
+# Privacy Policy - TechWayz
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at pramod@techwayz.com.
 
@@ -9,20 +9,17 @@ At www.techwayz.com, the privacy of our visitors is of extreme importance to us.
  **Log Files**  
 Like many other Web sites, www.techwayz.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
- **Cookies and Web Beacons**  
-www.techwayz.com does not use cookies.
+ **DoubleClick DART Cookie**
 
- **DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.techwayz.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.techwayz.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+The [DoubleClick cookie](https://support.google.com/adsense/answer/answer.py?answer=2839090) is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense  
-Commission Junction  
-Amazon
+  * Third party vendors (including Google) use cookies to serve different ads based on a user’s previous visits to your website.
+  * Google’s use of DoubleClick cookie enables it and its partners to serve relevant ads on your users clicks to visit on your site/other sites on internet.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.techwayz.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+
+
 
 www.techwayz.com has no access to or control over these cookies that are used by third-party advertisers.
 
