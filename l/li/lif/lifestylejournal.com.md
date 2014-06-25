@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestylejournal.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105220215id_/http%3A//lifestylejournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestylejournal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054400id_/http%3A//lifestylejournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,4 +26,4 @@ During your online LifestyleJournal.com experience, you may encounter links to t
 
 #### Questions and Notification of Changes
 
-If you have any questions about the LifestyleJournal.com Privacy Statement or would like to access or modify your identifiable information, please contact us • The LifestyleJournal.com Privacy Statement was last updated on May 18, 2009. • LifestyleJournal.com reserves the right to change this Privacy Statement at any time. Modifications to this Privacy Statement can be made without prior notification. • Continued use of the LifestyleJournal.com Websites signifies your acceptance of any changes to the Privacy Statement.
+If you have any questions about the LifestyleJournal.com Privacy Statement or would like to access or modify your identifiable information, please contact us. Our address is 54 Jabotinski St. Holon 58293, Israel • The LifestyleJournal.com Privacy Statement was last updated on May 18, 2009. • LifestyleJournal.com reserves the right to change this Privacy Statement at any time. Modifications to this Privacy Statement can be made without prior notification. • Continued use of the LifestyleJournal.com Websites signifies your acceptance of any changes to the Privacy Statement.
