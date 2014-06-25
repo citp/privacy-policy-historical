@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the traffic-annihilator.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206212512id_/http%3A//traffic-annihilator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffic-annihilator.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072109id_/http%3A//www.traffic-annihilator.com/privacy.php) for the most accurate reproduction.*
 
 # Traffic Annihilator
 
-[](http://traffic-annihilator.com/banclick.php?code=1f4fe6a4411edc2ff625888b4093e917)  
+[](http://traffic-annihilator.com/banclick.php?code=49e863b146f3b5470ee222ee84669b1c)  
 
 
 Traffic Annihilator Privacy Policy
@@ -36,7 +36,7 @@ Links: This web site contains links to other web sites. Please note that when yo
 
   
   
-Copyright (c) 2010-2013 Traffic Annihilator All Rights Reserved - Part of the [Trax Web](http://www.traxhelpdesk.com/sites/)
+Copyright (c) 2010-2014 Traffic Annihilator All Rights Reserved - Part of the [Trax Web](http://www.traxhelpdesk.com/sites/)
 
 [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [Privacy Policy](https://web.archive.org/privacy.php)
 
