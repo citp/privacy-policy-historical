@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technologybell.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213073447id_/http%3A//www.technologybell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologybell.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625162509id_/http%3A//www.technologybell.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Technology Bell
+# Privacy Policy | Technology Bell | Where Technology Thinks
 
   
 This Privacy Policy governs the manner in which Technology Bell collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.technologybell.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Technology Bell.
@@ -50,7 +50,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-**Google Adsense (Not implemented yet)**
+**Google Adsense**
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
@@ -66,5 +66,5 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by [Clicking Here](http://www.technologybell.com/contact-us/ "Clicking Here")
 
-This page was last updated on September 04, 2013  
+This page was last updated on March 05, 2014  
 
