@@ -1,28 +1,26 @@
-> *The following text is extracted and transformed from the heroesarcade.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811052804id_/http%3A//www.heroesarcade.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heroesarcade.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012251id_/http%3A//www.heroesarcade.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy policy // HeroesArcade.com
 
-Privacy Policy / Disclaimer
-
-### Lability
+## Lability
 
 All materials, information, software, products and services (also referred to as "Content"), included in or available through www.HeroesArcade.com (also referred to as "Site") are provided on an "as is" basis. The Content is provided without warranties of any kind.
 
 By using the Content of the Site, you explicitly agree to these terms and conditions. We do not warrant that the Content on this Site is accurate, reliable or correct; that this Site will be available at any particular time or location; that any defects or errors will be corrected; or that the Content is free of viruses or other harmful components. Your use of this Site is solely at your own risk. Any Content viewed, downloaded or otherwise obtained through the use of this Site is done solely at your own discretion and risk, and you will be solely responsible for any damage, including without limitation personal injury or distress, damage to your computer system, or loss of data, that results from the viewing or download of any Content. HeroesArcade.com can not be held responsible for any problems occuring by using or not using the Site and its Content in any way.
 
-### Links, advertisements and third party sites
+## Links, advertisements and third party sites
 
 This Site provides advertisements and links to other third party websites over which we have no control. We can not be held responsible for those advertisements and websites or any of its Content. You acknowledge that you view and access these advertisements and websites entirely at your own risk.
 
-### Terms Of Use / Copyright / Licensing
+## Terms Of Use / Copyright / Licensing
 
 The Site (www.HeroesArcade.com and its subpages) is copyright by HeroesArcade.com. HeroesArcade.com copyrighted content of this site may not be copied, reproduced, republished, uploaded, posted, transmitted, or distributed, in whole or partly, for any purpose other than individual viewing of this content, without the express prior written consent of HeroesArcade.com. Any modification, decompilation or reverse-engeneering of HeroesArcade.com copyrighted content for any purpose is prohibited.
 
-### Content of Third Parties
+## Content of Third Parties
 
 Games and other content on the site which is not made and copyrighted by HeroesArcade.com, is either licensed or used with permission and protected by international copyright. These games are intellectual property and/or copyright and/or trademark by their respective owners and/or authors. If you are the developer/owner/copyright holder of a game and you wish to have it removed from HeroesArcade.com, please email us by [contact form](http://www.heroesarcade.com/index.php?a=contact).
 
-### Privacy Policy
+## Privacy Policy
 
 **Automatically logged information (server logs), cookies, Flash shared objects Server logs**
 
