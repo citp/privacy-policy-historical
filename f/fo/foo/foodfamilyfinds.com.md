@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodfamilyfinds.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617023829id_/http%3A//foodfamilyfinds.com/about-3-kids-and-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodfamilyfinds.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061339id_/http%3A//foodfamilyfinds.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,6 +61,10 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
+**Notice Regarding Online behavioural Advertising**
+
+****We allow third party companies to serve ads and/or collect certain anonymous information  when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party web beacon to collect this information.  To learn more about this behavioural advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
+
 **Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
@@ -79,4 +83,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://foodfamilyfinds.com/blog
 
-cat@3kidsandus.com
+foodfamilyfinds at gmail dot com
