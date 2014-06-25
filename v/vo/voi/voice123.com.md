@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voice123.com privacy policy that was archived on 2013-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130804012209id_/http%3A//voice123.com/doc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voice123.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130157id_/http%3A//voice123.com/doc/privacy.html) for the most accurate reproduction.*
 
 # Voice123 - The Voice Over Marketplace - Voice Overs, Voice Actors, and Talents
 
@@ -115,7 +115,7 @@ We post customer testimonials on our web site which may contain personally ident
 
 **Live Chat**
 
-We offer Live Chat service for Voice Talents, Voice Producers and Voice Seekers, if you use it you should be aware that any personally identifiable information you submit there can be read, collected, or used for service improvement purposes and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in the chat. 
+We offer Live Chat service for Voice Talents, Voice Actors and Voice Seekers, if you use it you should be aware that any personally identifiable information you submit there can be read, collected, or used for service improvement purposes and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in the chat. 
 
 **Voice123 Industry Directory**
 
@@ -127,4 +127,4 @@ The Site may provide hyperlinks to third party Web sites or access to third part
 
 We may amend this Privacy Policy at any time by posting the amended terms on the Site. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
-If you have any questions you can answer them online, you may write to us at: Voice123 - 6 Mint Plaza #602, San Francisco, CA 94103, or by clicking on the “Contact Us” link at [about Voice123](http://voice123.com/). 
+If you have any questions you can answer them online, you may write to us at: Voice123 - 6 Mint Plaza, San Francisco, CA 94103, or by clicking on the “Contact Us” link at [about Voice123](http://voice123.com/). 
