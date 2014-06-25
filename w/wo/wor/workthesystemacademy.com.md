@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the workthesystemacademy.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108030614id_/http%3A//www.workthesystemacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workthesystemacademy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121613id_/http%3A//www.workthesystemacademy.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy : Work The System Academy
-
-## Work the System Academy
-
-### Privacy Policy
+# Work The System Academy
 
 BACKGROUND:
 
@@ -14,21 +10,32 @@ Definitions and Interpretation
 
 In this Policy the following terms shall have the following meanings:
 
-“Account” means collectively the personal information, Payment Information and credentials used by Users to access Material and / or any communications System on the Web Site;  
-“Content” means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;  
-“Cookie” means a small text file placed on your computer by Work the Ststem Consultants Ltd when you visit certain parts of this Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Further details are contained in Clause 10 ;  
-“Data” means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;  
-“Name” means Work the System Consultants Ltd trading as Work the System Academy  
-“Service” means collectively any online facilities, tools, services or information that Work the System Consultants Ltd makes available through the Web Site either now or in the future;  
-“System” means any online communications infrastructure that Work the System Consultants Ltd makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;  
-“User” / “Users” means any third party that accesses the Web Site and is not employed by Work the System Consultants Ltd and acting in the course of their employment; and  
-“Visitors and Authorised visitors” Visitor is any person visiting the site but who does not transact any business; authorised visitor is any person who not only visits the site but also transacts business;  
+“Account” means collectively the personal information, Payment Information and credentials used by Users to access Material and / or any communications System on the Web Site;
+
+“Content” means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;
+
+“Cookie” means a small text file placed on your computer by Work the Ststem Consultants Ltd when you visit certain parts of this Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Further details are contained in Clause 10 ;
+
+“Data” means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
+
+“Name” means Work the System Consultants Ltd trading as Work the System Academy
+
+“Service” means collectively any online facilities, tools, services or information that Work the System Consultants Ltd makes available through the Web Site either now or in the future;
+
+“System” means any online communications infrastructure that Work the System Consultants Ltd makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
+
+“User” / “Users” means any third party that accesses the Web Site and is not employed by Work the System Consultants Ltd and acting in the course of their employment; and
+
+“Visitors and Authorised visitors” Visitor is any person visiting the site but who does not transact any business; authorised visitor is any person who not only visits the site but also transacts business;
+
 .“Web Site” means the website that you are currently using www.workthesystemacademy.com and any sub-domains of this site unless expressly excluded by their own terms and conditions.
 
-General Statement We understand that privacy is important to users of our website. This statement governs our privacy policies regarding those users of the Site (“Visitors”) who visit without transacting business, and also for Visitors who register to transact business on the Site (“Authorized Customers”) and who make use of the various services provided by Work the System Consultants Ltd  
+General Statement We understand that privacy is important to users of our website. This statement governs our privacy policies regarding those users of the Site (“Visitors”) who visit without transacting business, and also for Visitors who register to transact business on the Site (“Authorized Customers”) and who make use of the various services provided by Work the System Consultants Ltd
+
 What information is collected
 
-Personally Identifiable Information refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, Social Security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information that is not connected to an identified individual.  
+Personally Identifiable Information refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, Social Security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information that is not connected to an identified individual.
+
 We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: bill to and ship to names, addresses, phone numbers, email addresses and credit card information needed to authorize purchases and transact payments for products and services.
 
 3.Third Party Web Sites and Services
