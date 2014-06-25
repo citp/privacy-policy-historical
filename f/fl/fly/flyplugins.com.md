@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the flyplugins.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222192819id_/http%3A//flyplugins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyplugins.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053200id_/http%3A//flyplugins.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fly Plugins
+# Privacy Policy - Fly Plugins
 
-**Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
 **Collection of Personal Information**  
@@ -13,7 +12,3 @@ We have included links on this site for your use and reference. We are not respo
 
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion. 
-
-If you have any questions regarding the privacy policy of Fly Plugins then you may contact us at admin@flyplugins.com 
-
-Last updated Mon, 17 Sep 2012 15:15
