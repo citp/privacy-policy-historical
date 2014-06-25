@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the buffalotech.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027184919id_/http%3A//buffalotech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalotech.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625170254id_/http%3A//buffalotech.com/privacy) for the most accurate reproduction.*
 
-# Buffalo Technology privacy policy
+# Privacy Policy | Buffalo Americas
 
 ## Privacy Policy
 
-#### Buffalo Technology understands the importance of protecting your privacy.
+#### Buffalo Americas understands the importance of protecting your privacy.
 
-Below are the guidelines we use for protecting your personal information based on your visit to www.buffalotech.com. We can be reached via e-mail at [bt_sales@buffalotech.com](mailto:bt_sales@buffalotech.com) or you can reach us by phone at (512) 349-1300.
+Below are the guidelines we use for protecting your personal information based on your visit to www.buffaloamericas.com. We can be reached via e-mail at [bt_sales@buffalotech.com](mailto:bt_sales@buffalotech.com) or you can reach us by phone at (512) 349-1300.
 
 #### Information This Site Collects
 
-Buffalotech.com uses cookies to collect anonymous traffic data and does not track personally identifiable information. This site also collects information via voluntary forms for those inquiring to purchase our products or for warranty registration of our products. Additionally, we collect the e-mail addresses via voluntary forms of those who opt-in to communicate with us via e-mail or those requesting Technical Support. Buffalo Technology will never sell your email address and conforms to the [CAN-SPAM Act](http://business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business/). 
+Buffalotech.com uses cookies to collect anonymous traffic data and does not track personally identifiable information. This site also collects information via voluntary forms for those inquiring to purchase our products or for warranty registration of our products. Additionally, we collect the e-mail addresses via voluntary forms of those who opt-in to communicate with us via e-mail or those requesting Technical Support. Buffalo Americas will never sell your email address and conforms to the [CAN-SPAM Act](http://business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business/). 
 
 #### How We Use Information
 
@@ -26,4 +26,4 @@ By using our Web site, you consent to the guidelines above. If we decide to chan
 
 #### Tell Us What You Think
 
-Buffalo Technology welcomes your feedback about our privacy policy. Please send e-mail to [bt_sales@buffalotech.com](mailto:bt_sales@buffalotech.com) for any comments or questions.
+Buffalo Americas welcomes your feedback about our privacy policy. Please send e-mail to [bt_sales@buffalotech.com](mailto:bt_sales@buffalotech.com) for any comments or questions.
