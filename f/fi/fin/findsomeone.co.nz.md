@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findsomeone.co.nz privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008233606id_/http%3A//findsomeone.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findsomeone.co.nz privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093551id_/http%3A//findsomeone.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# FindSomeone
+# Privacy Policy | FindSomeone
 
 ## Privacy Policy
 
@@ -14,9 +14,9 @@ We will never sell or rent your personal information to third parties.
 We release personal information only with your permission (including as outlined below in this Privacy Policy), or when we believe release is appropriate for legal compliance and law enforcement (such as to government agencies with statutory law enforcement responsibilities); to facilitate court proceedings; enforce or apply our terms and conditions; or to protect the rights or safety of our users or others.   
 We have designed a thorough privacy policy with these things in mind. 
 
-If you have any questions regarding our privacy policy, we encourage you to contact our privacy officer through our [contact form](https://web.archive.org/contactform.aspx).
+If you have any questions regarding our privacy policy, we encourage you to contact our privacy officer through our [contact form](https://web.archive.org/help/contactform.aspx).
 
-This privacy policy was last updated on 18th July 2013.
+This privacy policy was last updated on 5th June 2014.
 
 ### Collection and use of your information
 
@@ -41,7 +41,7 @@ Information collected is designed to minimise the ability for someone to identif
   3. Financial information you provide us.
 
 We offer services that require you to provide us with financial information such as your credit card number. We take all reasonable steps to ensure your financial information is securely transmitted and protected.   
-We protect your credit card information during transmission by using the Secure Sockets Layer (SSL) protocol, which encrypts your information when transmitted over the internet. FindSomeone retains only partial card details. Full card details may be encrypted and securely stored by the payment provider that processes the transaction. You may [contact us](https://web.archive.org/contactform.aspx) for further information about this process. 
+We protect your credit card information during transmission by using the Secure Sockets Layer (SSL) protocol, which encrypts your information when transmitted over the internet. FindSomeone retains only partial card details. Full card details may be encrypted and securely stored by the payment provider that processes the transaction. You may [contact us](https://web.archive.org/help/contactform.aspx) for further information about this process. 
 
 If you choose to make ongoing payments each month, your credit card details are encrypted and securely stored by the payment provider.
 
@@ -75,7 +75,7 @@ You can access your Facebook information through FindSomeone. This may include l
 
 FindSomeone will not access your information from Facebook without your express permission. However, when you grant permission you are authorising FindSomeone to collect, store, retain and use indefinitely, any and all information that you agreed Facebook could provide to FindSomeone through the Facebook application programming interface. 
 
-If you no longer wish to use Facebook in conjunction with FindSomeone, you can remove our access through your Facebook account, or [ contact us](https://web.archive.org/contactform.aspx) for more information. 
+If you no longer wish to use Facebook in conjunction with FindSomeone, you can remove our access through your Facebook account, or [contact us](https://web.archive.org/help/contactform.aspx) for more information. 
 
 
 
@@ -119,6 +119,10 @@ FindSomeone also uses the services of SAS to deliver display advertisements inte
 FindSomeone, like most large New Zealand websites, uses the Nielsen Online counting system to collect information such as the number of visitors per day or the number of pages requested per day. To do this, FindSomeone has a small piece of code on each page which counts these statistics. This enables us to see where we are in the 'top 10' list of New Zealand websites. 
 
 For more information, view the [Nielsen Online privacy policy](http://www.nielsen-online.com/privacy.jsp?section=leg_scs).
+
+Trade Me uses [Google Analytics](http://www.google.com/analytics/) and [Mixpanel](https://mixpanel.com/) to better understand the behaviour of Findsomeone members using our website and mobile platforms, and to improve our service. For example, it helps us to identify how many members visit a particular page, and what those users do on that page.
+
+For more information, view Google Analytics' information on [safeguarding your data](https://support.google.com/analytics/answer/6004245?hl=en) and the [Mixpanel privacy policy](https://mixpanel.com/privacy/).
 
 ### Updates to our information practices
 
