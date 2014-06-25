@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rapidminer.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203165528id_/http%3A//rapidminer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidminer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103037id_/http%3A//rapidminer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RapidMiner
+# Privacy Policy - RapidMiner
 
 Privacy is a major concern for Rapid-I Inc. (dba. RapidMiner) (hereinafter “RapidMiner”, “we” or “us”), because your confidence is important to us. This Privacy Policy (“Policy”) provides you with information concerning our practices and procedures as they relate specifically to information we collect at this website. By visiting this website, you are accepting the practices described herein. We may update this Policy from time to time, so please check back periodically for changes. Your continued use of the RapidMiner website will signify your acceptance of these changes.
 
