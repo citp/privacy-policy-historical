@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinatour.net privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905063116id_/http%3A//chinatour.net/information.php%3Finfo_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatour.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072632id_/http%3A//chinatour.net/information.php%3Finfo_id%3D2) for the most accurate reproduction.*
 
 # Security & Privacy
 
@@ -11,8 +11,8 @@ as opposed to un-locked, or open, when users are just surfing on other pages.
 While we use SSL encryption to protect sensitive information online, we also protect user-information off-line.  All of our users' information, not just the sensitive information mentioned above, is restricted in our offices.  Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.  Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility. 
 
 **Air Ticket Secure Payments**  
-1\. For _Verified by VISA_ : if you did not activate "Verified by VISA" of your VISA card, please contact your issuing bank to enable this function, you will need set a password for "Verified by VISA" online payments; this function will protect your card from fraudulent uses.   
-2\. For _the PayPal payment_ , we require the payer must be one of the passengers; If the payer is not passenger, then the payer must be a "Verified Register of Paypal.com". (If you are buying ticket for your friend, or travel agancy buying tickets for their customers, then please register as a "Verified user of PayPal" first.) We will reject flight bookings which do Not meet above qualifications. 
+1\. We accept _VISA and Master Card_ : we accept international VISA and Master Card issued by all countries in the world.   
+2\. We also accept _PayPal payment_ , we require the payer must be one of the passengers; If the payer is not passenger, then the payer must be a "Verified Register of Paypal.com". (If you are buying ticket for your friend, or travel agancy buying tickets for their customers, then please register as a "Verified user of PayPal" first.) We will reject flight bookings which do Not meet above qualifications. 
 
-  
+Our website is secured by  (click to verify)  
 
