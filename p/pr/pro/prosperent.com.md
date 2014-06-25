@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosperent.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031192517id_/http%3A//prosperent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperent.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054633id_/http%3A//prosperent.com/privacy) for the most accurate reproduction.*
 
 # Prosperent - Privacy Policy
 
@@ -18,11 +18,11 @@ Our mission is to build users' trust and confidence in the Internet by promoting
 
 
 
-If you have questions or concerns regarding this policy, you should contact Prosperent by email to privacy@prosperent.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Prosperent by mail at 3200 Brighton Blvd, Suite 112 Denver, CO 80216 . If you are not a member of Prosperent (an advertiser or affiliate who has registered with Prosperent to do business with Prosperent) please see our [Prosperent Privacy Policy for Performance Ads](https://web.archive.org/privacy/performanceads). 
+If you have questions or concerns regarding this policy, you should contact Prosperent by email to privacy@prosperent.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Prosperent by mail at 3200 Brighton Blvd, Suite 112 Denver, CO 80216 . If you are not a member of Prosperent (an advertiser or affiliate who has registered with Prosperent to do business with Prosperent) please see our [Prosperent Privacy Policy for ProsperAds](https://web.archive.org/privacy/prosperads). 
 
 ### Information collection and use
 
-Prosperent is an owner of the information collected on this site. Information collected is in two distinct categories: Member information and aggregated Web User information. This portion of Prosperent's privacy policy applies only to Members of Prosperent. For web user privacy issues regarding the serving of advertisements and the use of cookies, please see the [Prosperent Privacy Policy for Performance Ads](https://web.archive.org/privacy/performanceads). 
+Prosperent is an owner of the information collected on this site. Information collected is in two distinct categories: Member information and aggregated Web User information. This portion of Prosperent's privacy policy applies only to Members of Prosperent. For web user privacy issues regarding the serving of advertisements and the use of cookies, please see the [Prosperent Privacy Policy for ProsperAds](https://web.archive.org/privacy/prosperads). 
 
 Members of the Prosperent Network include affiliates and advertisers involved in advertising transactions. Member information collected includes PII that is necessary to conduct business, such as name, phone number, email address, social security number, and/or tax ID number. Payments made to and from Prosperent require the provision of and certain collection of PII that may include bank account information and credit card numbers. Phone numbers may be used to contact Members for sales or inventory acquisition purposes. All Member information is collected, modified (as needed) and stored in a password protected environment. This information is used for service, media delivery, contact, billing and accounts payable purposes. We will not sell, share (except as provided for herein), or rent this information to non-Prosperent entities. All Member information collection is explicit, voluntary, and manually entered by the Member.
 
