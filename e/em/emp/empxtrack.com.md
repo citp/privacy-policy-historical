@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the empxtrack.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218202116id_/https%3A//empxtrack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empxtrack.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221809id_/https%3A//empxtrack.com/privacy) for the most accurate reproduction.*
 
-# Privacy | On Demand Human Resource and Talent Management Software
+# Privacy
 
 #### Privacy Policy
 
