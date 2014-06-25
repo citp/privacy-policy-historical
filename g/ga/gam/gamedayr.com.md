@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the gamedayr.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224075314id_/http%3A//gamedayr.com/privacy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedayr.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040228id_/http%3A//gamedayr.com/privacy-and-terms-of-use) for the most accurate reproduction.*
 
 # Gamedayr Sports News Company
-
-**COPPA Guidelines – Children Policy**
-
-Gamedayr is meant for persons over the age of 13. Anyone under the age of 13 should not sign up for any of Gamedayr’s services and correspondence. If a minor under the age of 13 has signed up for these services without consent, any parent has the right to ask for their child’s information to be blocked. Once they have shown Gamedayr Media Network, LLC that they are the legal guardian of the child who’s information is being requested, Gamedayr will release the information and delete it upon request.
-
-Gamedayr Media Network, LLC will maintain the confidentiality, security, and integrity of information they collect from children who have disobeyed Gamedayr’s guidelines., including by taking reasonable steps to release such information only to parties capable of maintaining its confidentiality and security. Gamedayr will also retain personal information collected online from a child for only as long as is necessary to fulfill the purpose for which it was collected and delete the  information using reasonable measures to protect against its unauthorized access or use.
-
-Please contact our team members at NiceCatch@Gamedayr.com with any questions or concerns.
 
 **Affiliate Notice**
 
@@ -45,6 +37,16 @@ The “help” portion of the toolbar on the majority of browsers will direct yo
 
 Gamedayr’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.
 
+**Advertising Disclaimer**
+
+Your correspondence or business dealings with, or participation in promotions of, advertisers found on or through the Gamedayr Services, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such advertiser. You agree that Gamedayr Media Network, LLC shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or as the result of the presence of such advertisers on the Gamedayr Services.
+
+Gamedayr places advertising and sponsored links on its platform. These clients are not vested with in Gamedayr and not associated with the Gamedayr Media Network,LLC. Gamedayr’s content is not effected by the advertisers and sponsors. Gamedayr’s opinions will remain the views of our writers and contributors, even though sponsored links may appear with in our content.
+
+**Betting Lines and Odds Disclaimer**
+
+Gamedayr is NOT a gambling site. The betting lines and odds provided by Gamedayr are for entertainment purposes only. Gamedayr users agree that these lines are to be checked before placing any wagers. Gamedayr is not liable for any wagers placed by our users.
+
 **Sharing Your Information  **
 
 Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
@@ -59,9 +61,17 @@ Rest assured that we neither rent nor sell your personal information to anyone a
 
 **With Your Consent:** Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
-**Children Under 18 Years of Age**
+**COPPA Guidelines -   **Children Under 18 Years of Age****
 
-You must be 13 years and older to register to use the Gamedayr website. As a result, Gamedayr does not specifically collect information about children. If we learn that Gamedayr has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using Gamedayr or sending information about themselves or anyone else over the Internet.
+Gamedayr is meant for persons over the age of 13. Anyone under the age of 13 should not sign up for any of Gamedayr’s services and correspondence. If a minor under the age of 13 has signed up for these services without consent, any parent has the right to ask for their child’s information to be blocked. Once they have shown Gamedayr Media Network, LLC that they are the legal guardian of the child who’s information is being requested, Gamedayr will release the information and delete it upon request.
+
+Gamedayr Media Network, LLC will maintain the confidentiality, security, and integrity of information they collect from children who have disobeyed Gamedayr’s guidelines., including by taking reasonable steps to release such information only to parties capable of maintaining its confidentiality and security. Gamedayr will also retain personal information collected online from a child for only as long as is necessary to fulfill the purpose for which it was collected and delete the  information using reasonable measures to protect against its unauthorized access or use.
+
+Please contact our team members at NiceCatch@Gamedayr.com with any questions or concerns.
+
+**Trademark Information**
+
+You agree that all of Gamedayr’s trademarks, trade names, service marks and other Yahoo logos and brand features, and product and service names are trademarks and the property of Gamedayr Media Network, LLC (the “Gamedayr Marks”). Without Gamedayr”s prior permission, you agree not to display or use in any manner the Gamedayr Marks
 
 **Changes to this  Privacy Policy**
 
@@ -69,7 +79,7 @@ Gamedayr may amend this Privacy Policy from time to time, at its sole discret
 
 **Conditions of Use**
 
-If you decide to visit Gamedayr website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
+If you decide to visit Gamedayr website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Florida state law.
 
 **Copyright Policy**
 
@@ -90,4 +100,4 @@ If you believe that your copyright in any material has been infringed on the Sit
 
 **Effective Date of this  Privacy Policy **
 
-This Privacy Policy is effective as of August 1, 2011 and was last updated July 1, 2013.
+This Privacy Policy is effective as of August 1, 2011 and was last updated April 14, 2014.
