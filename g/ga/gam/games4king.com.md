@@ -1,25 +1,32 @@
-> *The following text is extracted and transformed from the games4king.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805234202id_/http%3A//www.games4king.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games4king.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090118id_/http%3A//www.games4king.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Escape Games - Play treasure Games for Games4king.com.
+# Privacy Policy - Games4king Games, Escape Games, Point and Click, Room Escape, Online Games, Girls Games, Dress Up Games, Cooking Games, Make Over Games, Baby Games, Fun Games, Casino Games, Fun Games, Girls Games, Card Games, Adventure Games, Super Hero Ga
 
-#### Privacy Policy
+Privacy Policy
 
-Wondering how my information given in website is gonna to be safe? Read more….
+**Privacy Policy for www.games4king.com**
 
-This privacy policy applies to the Site and all games and services offered by **www.Games4King.com**. Our goal is clear that the information we collect is kept confidential and for internal purpose only. The personal information we gather is to improve our services, delivery and to notify u for any new games, programs and services. And, it also helps to improvise the design and content of our website, to personalize our game freaker’s experience. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at games4kinginfo@gmail.com. 
 
-**Security**
+At www.games4king.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.games4king.com and how it is used. 
 
-We have implemented appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. For registered users non personal information may be collected related to use of the website and website services and activities such as high scores, game rankings, best players, themes etc. We use cookies to enhance your online experience. The information in cookies enables us to run our affiliate programs and provides you with personalized **Games4King** advertisements on other Web sites; enables you to automatically sign in when you access our offerings; and offers other operational site activities.
+**Log Files**  
+Like many other Web sites, www.games4king.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable. 
 
-**Disclaimer**
+**Cookies and Web Beacons**  
+www.games4king.com does use cookies to store information about visitor’s preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-All content provided on this Site, such as text, graphics, images, etc., as well as collection, arrangement and assembly of all content on this Site is exclusive property and is protected by copyright laws. Except as stated herein, no material from the Site may be copied, reproduced, republished, uploaded, posted, transmitted or distributed in any way. Any unauthorized use of any material contained in this Site is strictly prohibited.
+**DoubleClick DART Cookie**  
+> Google, as a third party vendor, uses cookies to serve ads on www.games4king.com.  
+> Google's use of the DART cookie enables it to serve ads to users based on their visit to www.games4king.com and other sites on the Internet.   
+> Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
-**Agreement with Games4King Policies**
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense
 
-By accessing and/or using any of the Games4King Offerings, you signify your understanding of agreement with this Privacy Policy, and to our Terms of Use. If you do not agree with our policies, please do not access or use any Games4King site. **Changes to Privacy Policy**
+these third-party ad servers or ad networks use technology to the advertisements and links that appear on www.games4king.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-We may modify this Privacy Policy from time to time. When we post changes to this Privacy Policy, we will revise the "last modified" date at our homepage. You will be notified in the event of any such change and you will be offered an opportunity to opt-out. We encourage you to periodically review this Privacy Policy to be informed of how we protect your information. By using this Site, you signify your approval of this policy. After the changes posted in policy of the website, your persistent use of the site deems your acceptance of changes in privacy policy.
+www.games4king.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-If you have any questions/ comments about privacy, about the practices of this site, feel free to contact us. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.games4king.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
