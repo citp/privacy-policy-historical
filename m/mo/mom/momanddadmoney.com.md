@@ -1,27 +1,24 @@
-> *The following text is extracted and transformed from the momanddadmoney.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121115721id_/http%3A//www.momanddadmoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momanddadmoney.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625144628id_/http%3A//www.momanddadmoney.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mom and Dad Money
+# Privacy Policy – Mom and Dad Money
 
-Mom and Dad Money respects your privacy.
+###### Privacy Policy
 
-Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Mom and Dad Money.
+At Mom and Dad Money, LLC, we recognize the importance of protecting our clients’ privacy. We have policies to maintain the confidentiality and security of your nonpublic personal information. The following is designed to help you understand what information we collect from you and how we use that information to serve your account.
 
-Credit card details
+## Categories of Information We May Collect
 
-Mom and Dad Money will never ask for Credit Card details and request that you do not enter it on any of the forms on Mom and Dad Money.
+In the normal course of business, we may collect the following types of information:
 
-External Sites
+  * Information you provide in the subscription documents and other forms (including name, address, social security number, date of birth, income and other financial-related information); and
+  * Data about your transactions with us (such as the types of investments you have made and your account status).
 
-Mom and Dad Money is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
 
-Cookies
 
-A “cookie” is a small data text file that is placed in your browser and allows Mom and Dad Money to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and Mom and Dad Money does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
+## How We Use Your Information That We Collect
 
-Remember The Risks Whenever You Use The Internet
+Any and all nonpublic personal information that we receive with respect to our clients who are natural persons is not shared with nonaffiliated third parties which are not service providers to us without prior notice to, and consent of, such clients, unless otherwise required by law. In the normal course of business, we may disclose the kinds of nonpublic personal information listed above to nonaffiliated third party service providers involved in servicing and administering products and services on our behalf. Our service providers include, but are not limited to, our administrator, our auditors and our legal advisor. Additionally, we may disclose such nonpublic personal information as required by law (such as to respond to a subpoena) or to satisfy a request from a regulator and/or to prevent fraud. Without limiting the foregoing, we may disclose nonpublic personal information about you to governmental entities and others in connection with meeting our obligations to prevent money laundering including, without limitation, the disclosure that may be required by the Uniting and Strengthening America Act by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT) Act of 2001 and the regulations promulgated thereunder. In addition, if we choose to dispose of our clients’ nonpublic personal information that we are not legally bound to maintain, we will do so in a manner that reasonably protects such information from unauthorized access. The same privacy policy also applies to former clients who are natural persons.
 
-While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to Mom and Dad Money and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through Mom and Dad Money have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.
+## Confidentiality and Security
 
-Please contact those vendors and others directly if you have any questions about their privacy policies.
-
-If you have any other questions you can email this site’s [webmaster](mailto:matt@momanddadmoney.com?Subject=Privacy%20Inquiry).
+We restrict access to nonpublic personal information about our clients to those employees and agents who need to know that information to provide products and services to our clients. We maintain physical, electronic and procedural safeguards to protect our clients’ nonpublic personal information. We respect and value that you have entrusted us with your private financial information, and we will work diligently to maintain that trust. We are committed to preserving that trust by respecting your privacy as provided herein.
