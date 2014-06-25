@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mapmyrun.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218021350id_/http%3A//about.mapmyfitness.com/about/user-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapmyrun.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005628id_/http%3A//about.mapmyfitness.com/about/user-privacy-policy) for the most accurate reproduction.*
 
-# User Privacy Policy | MapMyFitnessMapMyFitness
+# User Privacy Policy | MapMyFitness
 
 At MapMyFitness we recognize that privacy is important.  This Privacy Policy (“Policy”) sets forth how MapMyFitness, Inc., and/or its subsidiaries or affiliated companies (collectively, “MapMyFitness,” “we,” “us,” and “our”) protect a User’s’ privacy when he or she uses any of the MapMyFitness websites, MapMyFitness mobile applications, or other products, services, and/or websites offered by MapMyFitness.
 
@@ -76,7 +76,7 @@ To better serve Users and improve the Services, MapMyFitness may conduct researc
 
 **Cookies**
 
-When a User visits MapMyFitness.com, We send one or more cookies-small text files that contain a string of characters-to a User’s computer that uniquely identify his or her browser.  Cookies do not identify a User personally, but these files are linked with other information that could personally identify a User.  More importantly, cookies permit MapMyFitness to offer a User more personalized Services and online experiences.  In addition, we use cookies to improve the quality of The Services by storing User preferences and tracking User trends, such as how people search.  Most browsers are initially set up to accept cookies, but a User can reset his or her browser to reject all cookies or to provide an alert when a cookie is being sent.  Some MapMyFitness features and Services, however, may not function properly if a User has disabled cookies.
+When a User visits MapMyFitness.com, We send one or more cookies-small text files that contain a string of characters-to a User’s computer that uniquely identify his or her browser.  Cookies do not identify a User personally, but these files are linked with other information that could personally identify a User.  More importantly, cookies permit MapMyFitness to offer a User more personalized Services and online experiences.  In addition, we use cookies to improve the quality of The Services by storing User preferences and tracking User trends, such as how people search. We may also use 3rd party technologies or in some cases our own cookies to provide you with enhanced online display advertising tailored to your interests. To opt out of this personalized display advertising from MapMyFitness, click [here](http://dtmc.underarmour.com/adinfo/adchoices_fpc_gen.html?cid=2365&cname=Under%20Armour&cmagic=9fb7b0&clogo=under_armour.png "here"). Most browsers are initially set up to accept cookies, but a User can reset his or her browser to reject all cookies or to provide an alert when a cookie is being sent.  Some MapMyFitness features and Services, however, may not function properly if a User has disabled cookies.
 
 * * *
 
