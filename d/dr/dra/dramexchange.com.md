@@ -1,83 +1,83 @@
-> *The following text is extracted and transformed from the dramexchange.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625074606id_/http%3A//www.dramexchange.com/footer/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramexchange.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090841id_/http%3A//www.dramexchange.com/About/PrivacyPolicy) for the most accurate reproduction.*
 
-# DRAMeXchange - Privacy policy
+# DRAMeXchange - Privacypolicy
 
-This PRIVACY POLICY was last updated on August 6, 2007
+**PRIVACY POLICY  
+**  
+THANK YOU FOR VISITING DRAMEXCHANGE (HEREINAFTER REFERRED TO AS "THE WEBSITE"). THE WEBSITE, OWNED AND OPERATED BY TRENDFORCE CORP. (HEREINAFTER REFERRED TO AS "TRENDFORCE"), WILL COLLECT, HANDLE, AND USE PRIVATE USER DATA IN ACCORDANCE WITH THE PERSONAL INFORMATION PROTECTION LAW (HEREINAFTER "PERSONAL INFORMATION LAW") AND THE WEBSITE'S PRIVACY POLICY. THE WEBSITE AIMS TO RESPECT AND PROTECT ALL USERS' ONLINE PRIVACY RIGHTS. IN ORDER TO UNDERSTAND AS WELL AS PROTECT YOUR RIGHTS, PLEASE READ THE FOLLOWING TERMS CAREFULLY:
 
-The following policy describes how DRAMeXchange collect and use information we receive from visitors to our site. DRAMeXchange is committed to protecting user privacy online.
+**1\. PRIVACY POLICY COVERAGE**
 
-## How and What Information is Collected
+1.1. THE POLICY COVERS THE HANDLING OF THE PRIVATE INFORMATION EACH USER SHARES WITH TRENDFORCE WHILE VISITING OUR WEBSITES. IF A DIFFERENT PRIVATE POLICY HAS BEEN REFERED TO FOR SPECIFIC TRENDFORCE WEBSITES AND SERVICES, THAT POLICY WILL REPLACE OR SUPPLEMENT THE PRIVACY POLICY MENTIONED IN THIS DOCUMENT.
 
-01.Personally identifiable information
+1.2. THIS POLICY IS NOT APPLICABLE TO EITHER COMPANIES OTHER THAN TRENDFORCE AND ITS SUBSIDIARIES OR PERSONNEL NOT EMPLOYED OR AUTHORIZED BY TRENDFORCE AND ITS SUBSIDIARIES.
 
-Personally identifiable information may be collected in combination with necessary processes. This information may include, but are not limited to:  
-(1) First and last name, (2) Address, (3) ZIP/Postal Code, (4) Email address, (5) Telephone number, (6) Billing information
+1.3. BEFORE DECIDING TO USE ANY OF THE SERVICES PROVIDED BY THE WEBSITE (HEREINAFTER "SERVICES"), PLEASE MAKE SURE TO READ AND UNDERSTAND THE ENTIRE AGREEMENT.
 
-02.IP Address
+1.4. THE WEBSITE MAY CHANGE THE TERMS AND CONDITIONS OF THIS AGREEMENT AT ANY TIME. YOU WILL BE RESPONSIBLE FOR REGULARLY CHECKING THIS AREA AND FOR REVIEWING ANY SUCH CHANGES. BY USING THE WEBSITE AFTER ANY SUCH CHANGES TAKE PLACE, YOU SIGNIFY YOUR ACCEPTANCE OF THE CHANGE(S) AND YOUR AGREEMENT TO BE BOUND BY THEM.
 
-1\. The DRAMeXchange web site logs IP addresses for system administration purposes.  
-2\. Your IP address can help us diagnose service problems and provide session statistics.
+**2\. INFORMATION COLLECTION AND USAGE**
 
-03.Cookies
+2.1 THE WEBSITE WILL COLLECT AND USE USER INFORMATION FOR PURPOSES SUCH AS MARKETING, CONSUMER PROTECTION, CONSUMER/CLIENT MANAGEMENT, E-COMMERCE SERVICES, FINANCIAL ACCOUNTING, CONTRACTUAL MATTERS, RESEARCH ANALYSIS, AND DATA PROCESSING. WHEN REQUIRED BY LAW, THE WEBSITE MAY ALSO PROVIDE PERSONAL INFORMATION TO NON-GOVERNMENT AGENCIES.
 
-DRAMeXchange uses a common feature of Web sites known as a cookie to store your member ID and information about where you are in the site, as well as track current and past activities. A cookie is simply a small data file that the Web site writes to your browser. A cookie can't read any other data off your hard drive, pass on a virus, or read cookie files created by other sites. You can refuse cookies by turning them off in your browser; however, the DRAMeXchange web site's functionality may be affected.
+2.2. THE WEBSITE MAY COLLECT USERS' INFORMATION WHEN THE USER REGISTERS WITH, BROWSES, ACCESSES SERVICES PROVIDED BY, OR PARTICIPATES IN AD OR PROMOTIONAL CAMPAIGN INITIATED BY THE WEBSITE. THE WEBSITE MAY ALSO OBTAIN THE SAME PERSONAL INFORMATION FROM ITS BUSINESS PARTNERS.
 
-04\. Registration
+2.3. AT THE POINT OF REGISTRATION, THE WEBSITE REQUESTS FOR PERSONAL INFORMATION, SUCH AS NAME, E-MAIL ADDRESS, AND OTHER RELATED MATERIALS FOR USER IDENTIFICATION PURPOSES. THE WEBSITE ONLY PROVIDES THE ACCESSES AND SERVICES TO USERS UPON SUCCESSFUL REGISTRATIONS.
 
-In order to take advantage of the site’s features, you must register and create a member account. A DRAMeXchange online registration form may require you to provide information, such as your name, email address, a User Name, and a password.
+2.4. THE WEBSITE COLLECTS TRANSACTION DATA BETWEEN YOU AND TRENDFORCE AND FROM RELEVANT BUSINESS PARTNERS. THESE INCLUDE SPECIFIC PRODUCTS AND SERVICES THAT ARE DIRECTLY OBTAINED FROM THE WEBSITE.
 
-05.Usage and Circulation Records
+2.5. THE WEBSITE AUTOMATICALLY COLLECTS CERTAIN INFORMATION FROM YOUR WEB BROWSER REGARDING YOUR USE OF THE WEBSITE. EXAMPLES OF INFORMATION COLLECTED FROM USERS INCLUDE THE INTERNET PROTOCOL ("IP") ADDRESS, INFORMATION IN THE WEBSITE'S COOKIE, AND THE CONTENTS YOU VIEWED OR SEARCHED FOR ON THE WEBSITE. 
 
-Any information collected may be used to analyze usage, evaluate service effectiveness and provide training material, and to facilitate library research.
+2.6. THE WEBSITE WILL USE THE COLLECTED INFORMATION FOR THE FOLLOWING PURPOSES, INCLUDING: IMPROVEMENTS TO ADVERTISING AND WEB CONTENTS; RESPONSES TO USERS' REQUESTS AND NOTIFICATIONS TO USERS ON NEW SERVICES, ACTIVITIES AND PRODUCTS.
 
-06.Questions, Comments, and Entries to Open Forums
+2.7. THE WEBSITE WILL RESPECT ALL USERS' PERSONAL INFORMATION RIGHTS, FOLLOW THE PRIVACY POLICY GUIDELINES WHEN COLLECTING, PROCESSING, AND UTILIZING PERSONAL DATA, AND ADOPT PROPER SECURITY MEASURES TO ENSURE THAT ALL USERS' INFORMATION ARE KEPT SAFELY. THE WEBSITE WILL NOT SELL COLLECTED USER DATA TO ANY THIRD PARTY, AND STRICTLY FORBIDS ALL EMPLOYEES FROM MAKING PERSONAL USE OF SUCH INFORMAITON. TO PROTECT ALL DATA COLLECTED FROM CLIENTS, THE WEBSITE WILL ONLY PROVIDE AND USE INFORMATION WHEN AUTHORIZED TO DO SO, AND WILL KEEP PROPER RECORDS OF ALL SUCH ACTIVITIES.
 
-1\. We encourage you to provide personal information ONLY in fields specifically designed for such information such as registration and log-in.  
-2\. Comments and entries to forums and reviews are posted in real time. Consequently, your entire submission may appear in an open forum or review. Please be aware that any personal information you include within this entry field will be available to the public. DRAMeXchange will make reasonable attempts to remove personal information included in the submissions.
+**3\. INFORMATION SHARING AND DISCLOSURE  
+**  
+THE WEBSITE WILL NOT DISCLOSE OR SHARE ANY PERSONAL INFORMATION EXCPET PER SPECIAL REQUEST OR WHEN PERMISSION IS RECEIVED FROM THE USER. OTHER EXCEPTIONS INCLUDE:
 
-## Why Information is collected
+a. WHEN TRENDFORCE HAS ALREADY SIGNED A CONFIDENTIAL AGREEMENT INDICATING THAT THE WEBSITE WILL USE THE INFORMATION EITHER FOR APPROPRIATE MARKETING PURPOSES OR WITH TRUSTED BUSINESS PARTNERS. IN THE EVENT THAT PERSONAL INFORMATION IS NEEDED TO HELP IMPROVE THE SERVICES PROVIDED BY THE WEBSITE AND ITS BUSINESS PARTNERS, THE USERS WILL BE SOUGHT AFTER AND NOTIFIED. OUR PARTNERS WILL NOT BE ABLE TO SHARE THE USER DATA WITH ANY THIRD PARTIES INDEPENDANTLY OR WITHOUT PERMISSION.
 
-The majority of the information we collect is analyzed so that we can improve your DRAMeXchange experience. This information is not shared outside of DRAMeXchange except as described in this policy. If necessary, we will use your information to contact you. Except as permitted by this policy, DRAMeXchange does not send unsolicited e-mails  
-The purposes for collecting information and contacting you are:
+b. WHEN WE ARE REQUESTED TO COMPLY WITH GOVERNMENT LAWS, REGULATIONS, LEGAL PROCEDURES, AND ORDERS WHICH ARE AIMED AT PROTECTING PUBLIC INTERESTS, ASSETS, AND SAFETY;
 
-1\. Registration  
-2\. Fulfilling requests and orders for DRAMeXchange products, programs and services  
-3\. Customer service and support  
-4\. Providing information and answering questions related to the use and purchase of services.  
-5\. Providing updates on goods and services and notification of special offers  
-6\. Delivering newsletters  
-7\. Providing notification of service expiration dates.  
-8\. Facilitating participation in an DRAMeXchange Open Forum  
-9\. Compiling aggregate statistical and academic analysis
+c. WHEN WE RESPOND TO SUBPOENAS, COURT ORDERS, AND LEGAL PROCESSES, OR ACQUIRE AND EXCERCISE OUR LEGAL RIGHTS. SHOULD ANY DISPUTE ARISE BETWEEN THE USER AND THE WEBSITE, THE USERS AGREE THAT THE TAIPEI DISTRICT COURT OF TAIWAN WILL BE THE JURSIDICTIONAL COURT OF THE FIRST INSTANCE;
 
-1\. Sometimes DRAMeXchange may identify a new purpose outside of the stated purposes listed above and it will provide notification or, if the purpose involves the use of sensitive information, it will seek your consent to use and disclose personal information for that purpose.
+d. WHEN INVESTIGATING ILLEGAL ACTIVITES, ACTS OF FRAUD, MATTERS CONCERNING PERSONAL SAFETY. OR VIOLATIONS OF THE WEBSITES TERMS AND CONDITIONS;
 
-2\. Your information will not be used for reasons beyond the scope of the stated purposes and DRAMeXchange will never willfully disclose personally identifiable information to a third party outside of the stated purposes unless:
+e. WHEN PARTS OR ALL OF THE WEBSITE'S BUSINESS HAS MERGED WITH OR IS ACQUIRED BY A DIFFERENT COMPANY, AT WHICH POINT THE WEBSITE WILL NOTIFY USERS OF WHEN THEIR INFORMATION IS BEING TRANSFERRED AND WHETHER A NEW PRIVACY POLICY WILL TAKE EFFECT.
 
-* You have violated the Terms of Use or another applicable Agreement, or  
-* We are required to do so by law, or  
-* We provide notification to you and obtain your permission.
+**4\. YOUR RIGHTS TO YOUR PERSONAL INFORMATION**
 
-## **Opt-Out Features**
+IN ACCORDANCE WITH ARTICLE 3 OF THE PERSONAL INFORMATION PROTECTION LAW, YOU WILL HAVE THE OPTION TO EXERCISE THE FOLLOWING RIGHTS WITH REGARD TO THE PERSONAL INFORMATION SHARED WITH THE WEBSITE:
 
-1\. To tell us you don't want to receive information from DRAMeXchange, such as email newsletter announcing new features or content, please unsubscribe at [member center](http://www.dramexchange.com/member/member_center.asp), or send an email to [](mailto:service@DRAMeXchange.com)  
-2\. You can decline to provide personal information to us or opt out at anytime. However, this may limit your ability to utilize the services on the web site.
+a. MAKE INQUIRIES AND REQUEST FOR A REVIEW OR DUPLICATION OF THE PERSONAL DATA. THE WEBSITE MAY CHARGE NECESSARY FEES FOR ANY COSTS INCURRED FROM SUCH PROCEDURES;
 
-## Security
+b. REQUEST THE WEBSITE TO SUPPLMENT OR MODIFY YOUR PERSONAL INFORMATION. FOR SUCH A REQUEST, YOU MAY BE ASKED TO PROVIDE A PROPER EXPLANATION, AS REQUIRED BY LAW;
 
-We have put in place reasonable measures to protect the personal information contained in our databases. Measures are in place to prevent unauthorized access and maintain appropriate use and accuracy. Furthermore, data that is transmitted in association with our online store is encrypted and is secured by SSL.
+c. REQUEST THE WEBSITE TO DELETE OR DISCONTINUE THE COLLECTION, HANDLING, OR UTILIZATION OF ALL PERSONAL USER INFORMATION;
 
-Your password is a component of our security system. As such, it is your responsibility to protect it. Do not share your password with any third parties. If your password has been compromised for any reason, you should change it immediately.
+d. IN A MANNER COMPLIANT WITH THE LAW, THE WEBSITE RESERVES THE RIGHT TO NOT FOLLOW OR GRANT ANY OF THE AFOREMENTIONED REQUESTS.
 
-## Access to Information
+**5\. COOKIES**
 
-DRAMeXchange provides links in their e-mail communications and web pages for managing the information that is sent. If you have questions about the information collected about yourself, would like to update or make changes to your information, or are concerned that your information is inaccurate or incomplete please contact [](mailto:service@DRAMeXchange.com). We make a reasonable effort to ensure that information contained in our database is accurate and, when necessary, current.
+5.1. THE WEBSITE WILL STORE AS WELL AS ACCESS ITS OWN COOKIES ON ALL USERS' COMPUTERS.
 
-## Contact and Notice
+5.2. COMPANIES THAT HAVE ADVERTISEMENTS DISPLAYED ON THE WEBSITE WILL STORE AND USE COOKIES IN ACCORDANCE WITH THEIR OWN PRIVACY POLICIES. ADVERTISERS AND THIRD PARTY COMPANIES WILL NOT BE PERMITTED TO ACCESS OR USE COOKIES OWNED BY THE WEBSITE.
 
-From time to time, we may update this privacy policy. We will notify you about material changes in the way we treat personal information by placing a notice on our site. We encourage you to periodically review this policy so that you always will know what information we collect, how we use it and to whom we disclose it.
+5.3. THE WEBSITE WILL USE BEACONS IN CONJUNCTION WITH COOKIES AS A MEANS TO EVALUATE ITS OWN PRODUCT AND SERVICE PERFORMANCES.
 
-If you have any questions regarding our policies, please contact [](mailto:service@DRAMeXchange.com)
+**6\. DATA PROTECTION**
 
-  
+TO PREVENT UNAUTHORIZED PARTIES FROM ACCESSING, MODIFYING, OR LEAKING PERSONAL USER DATA, THE WEBSITE WILL TAKE STEPS TO IMPLEMENT PROPER SAFETY MEASURES. THE DATA SEARCHED AND RECORDED ON THE WEBSITE AND THE APPROPRIATE SAFETY MEASURES CHOSEN WILL ALL BE REVIEWED CAREFULLY. CONSIDERING HOW THE SAFETY OF TRANSMITTING DATA ON THE INTERNET CAN NEVER BE GUARANTEED COMPLETELY, USERS SHOULD KEEP IN MIND ALL POSSIBLE RISKS ASSOCIATED WITH ONLINE DATA TRANSFERS AND TAKE RESPONSIBILITY FOR ANY INFORMATION SHARED WITH OR OBTAINED FROM THE WEBSITE.
 
+**7\. PERSONAL INFORMATION PROTECTION**
+
+BE SURE TO PROTECT ALL PASSWORDS AND PERSONAL INFORMATION, REFRAIN FROM DISCLOSING PRIVATE USER INFORMATION TO ANY THIRD PARTY, AND REGISTER WITH THE WEBSITE UPON COMPLETING ALL NECESSARY MEMBERSHIP PROCEDURES. WHEN USING A SHARED OR PUBLIC COMPUTER, PLEASE MAKE SURE TO PROPERLY CLOSE ALL RELEVANT BROWSERS TO PREVENT OTHERS FROM READING YOUR PERSONAL E-MAILS OR INFORMATION.
+
+**8\. CONTACT METHOD**
+
+SHOULD YOU HAVE ANY QUESTIONS OR SUGGESTIONS ABOUT THIS AGREEMENT OR THE WEBSITE, PLEASE CONTACT US AT OUR CUSTOMER SERVICE EMAIL.
+
+**9\. TRENDFORCE CORP. RESERVES THE RIGHT, IN ITS SOLE AND ABSOLUTE DISCRETION, TO CHANGE, MODIFY, UPDATE, AND INTERPRET THIS AGREEMENT AT ANY TIME.**
+
+**10\. THIS STATEMENT IS PUBLISHED ON JANUARY 1, 2014 WITH IMMEDIATE EFFECT.**
