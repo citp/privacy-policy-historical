@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashadee.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223061545id_/http%3A//www.ashadee.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashadee.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114637id_/http%3A//www.ashadee.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ashadee
 
@@ -97,7 +97,7 @@ To reach us by fax, please dial: +603-7954-5277.
 
 To reach us by mail, please use the following address:
 
-Incomattic Sdn Bhd,  
+Ashadee Sdn Bhd,  
 No3B, Second Floor, Jalan 14/20,   
 Seksyen 14, 46200 Petaling Jaya,   
 Selangor, Malaysia.
