@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sherodesigns.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103011812id_/http%3A//sherodesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sherodesigns.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043943id_/http%3A//sherodesigns.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Magento & WordPress Experts | Hudson Valley NY Web Designers
+# Privacy Policy - Magento & WordPress Experts | Magento Development Company NY
 
 [www.sherodesigns.com  
 ](http://sherodesigns.com/)
