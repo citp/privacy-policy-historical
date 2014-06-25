@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockdizfile.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219030204id_/http%3A//rockdizfile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockdizfile.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625035905id_/http%3A//rockdizfile.com/privacy.html) for the most accurate reproduction.*
 
 # Rockdizfile - Upload & Download for free
 
