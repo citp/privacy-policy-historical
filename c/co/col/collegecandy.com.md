@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegecandy.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216051900id_/http%3A//collegecandy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegecandy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102855id_/http%3A//collegecandy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
