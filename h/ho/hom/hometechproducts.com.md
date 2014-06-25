@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hometechproducts.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222160934id_/http%3A//hometechproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometechproducts.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625235144id_/http%3A//hometechproducts.com/privacy-policy) for the most accurate reproduction.*
 
-# Home Tech Products | Privacy Policy
+# Privacy Policy | Home Tech ProductsHome Tech Products
 
 Hometechproducts.com is committed to protecting your privacy and maintaining a safe online experience for all of our users and customers while providing a quality user experience. Because we gather certain types of information about and from you, our users and customers, in order to fulfill your requests and better serve your needs, you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please read the complete Privacy Policy below, as well as our User Agreement, and contact us if you have any questions.
 
