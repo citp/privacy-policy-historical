@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skypesmileyscodes.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105032716id_/http%3A//skypesmileyscodes.com/google-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skypesmileyscodes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141126id_/http%3A//skypesmileyscodes.com/google-privacy-policy) for the most accurate reproduction.*
 
-# Google privacy policy | skypesmileyscodes.comskypesmileyscodes.com
+# Google privacy policy
 
 Privacy Policy for **http://skypesmileyscodes.com**
 
