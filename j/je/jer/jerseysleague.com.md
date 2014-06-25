@@ -1,27 +1,80 @@
-> *The following text is extracted and transformed from the jerseysleague.com privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104214843id_/http%3A//www.jerseysleague.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerseysleague.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625152259id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Notice : jerseysleauge.com
+# HugeDomains.com - Privacy Policy
 
-People care how we use and share their personal information, so now we will explain what is our privacy policy. JerseysLeague strongly promises to respect your privacy and take your online safety. 
+[Home](http://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-1\. What Information to collect. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. we can use your personal information to:   
-* Help make this Site easier for you to use by not having to enter information more than once.  
-* Help you quickly find information, products, and services.  
-* Help us create content on this Site that is most relevant to you.  
-* Alert you to new information, products, and services that we offer.  
-These Information includes: Registration and Ordering, Email Addresses, Cookies and Other Technology, Log Files, Age, Product Reviews and other personal information.
+**What information do we collect?**
 
-2\. How to use and disclosure information.  
-(a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.  
-(b) Communications with You: We will use your personal information to communicate with you about our site, and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to request us to notify you when we receive a new brand, new product style, or product; to sign up for our email newsletter and special offers. If you submit your email address, we will use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see opt out section below for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.  
-(c) External Use. We want to provide you with excellent service and to offer you a great selection — we primarily sell merchandise, not information. We do not sell, rent, trade, license, or otherwise disclose your specific personal information or financial information to anyone, except that:  
-(i) As do most catalog and Internet wholesalers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We partner with third parties (such as DHL, and UPS) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.  
-(ii) Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (More on this below in the Data Security section.)  
-(iii) We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations, subpoenas, a court order, or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.  
-(iv) We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it is possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Notice in effect.  
-(v) We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-3\. How to protect Information.  
-We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect on the website. If a customer wants to register as our website member, email address and password are needed in order to create and log in a customer account. Customers should be careful about providing order information to others. If a customer forgets his/her account password or becomes aware of any loss, theft or unauthorized use of his/her account, or needs to correct order information, he/she can contact our Customer Service Department by email or online service.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-We do not sell or rent your personal information to third parties for their marketing purposes without your permission. We view protection of your privacy as a very important community principle. We understand clearly that you and Your Information is one of our most important assets.. We may share the Personal Information with third parties who offer services such as payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, but we will only allow them to use the information connected to the services they offer. If you object to your Information being transferred or used in this way please do not use the Site. 
+**What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways: 
+
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
+
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
+
+• To process transactions
+
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.HugeDomains.com](http://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](http://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
