@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hybrid-connect.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211213023id_/http%3A//hybrid-connect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybrid-connect.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071823id_/http%3A//hybrid-connect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hybrid Connect
 
