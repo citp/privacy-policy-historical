@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the alshaya.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219192428id_/http%3A//www.alshaya.com/terms/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alshaya.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103626id_/http%3A//www.alshaya.com/privacy-policy) for the most accurate reproduction.*
 
-# Alshaya - Privacy Policy
+# Privacy Policy
 
 **Privacy Policy**
 
 **Overview**
 
-Alshaya.com is strongly committed to respecting the privacy of all persons using our website, <http://www.alshaya.com/> ("the **Web Site** ") and the protection of any personally identifiable information which we may collect and/ or use as part of our data collection process and/ or which you may choose to share with us. Such personal information will be collected and/ or used in accordance with the terms and conditions of this Privacy Policy, which is part of and incorporated into the [Terms of Use](http://www.alshaya.com/terms/terms/terms-of-use/) of the Web Site.
+Alshaya.com is strongly committed to respecting the privacy of all persons using our website, <http://www.alshaya.com/> ("the **Web Site** ") and the protection of any personally identifiable information which we may collect and/ or use as part of our data collection process and/ or which you may choose to share with us. Such personal information will be collected and/ or used in accordance with the terms and conditions of this Privacy Policy, which is part of and incorporated into the [Terms of Use](http://alshaya.com/terms/terms/terms-of-use/) of the Web Site.
 
 **Your Express Consent to Collection and Use of Information**
 
@@ -94,4 +94,4 @@ YOU UNDERSTAND THAT ALSHAYA DOES NOT PROVIDE ANY WARRANTY, GUARANTEE OR REPRESEN
 
 **Governing Law; Jurisdiction**
 
-****This Privacy Policy will be governed by the laws of the State of Kuwait. The exclusive jurisdiction for any claim, action or dispute with Alshaya or relating in any way to your use of the Web Site will be in the appropriate courts of the State of Kuwait and the venue for the adjudication or disposition of any such claim, action or dispute will be in the State of Kuwait.
+This Privacy Policy will be governed by the laws of the State of Kuwait. The exclusive jurisdiction for any claim, action or dispute with Alshaya or relating in any way to your use of the Web Site will be in the appropriate courts of the State of Kuwait and the venue for the adjudication or disposition of any such claim, action or dispute will be in the State of Kuwait.
