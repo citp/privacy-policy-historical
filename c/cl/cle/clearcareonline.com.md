@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearcareonline.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123212620id_/http%3A//clearcareonline.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearcareonline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625161645id_/http%3A//clearcareonline.com/privacy-statement) for the most accurate reproduction.*
 
 # About Privacy | ClearCare: Powerful Home Care Software
 
@@ -27,7 +27,7 @@ The ClearCare, Inc. (the "Company") Privacy Statement contains information about
 ### Customer Data
 
   * Customers of ClearCare, Inc may electronically submit data or information to the Company's services ("Customer Data").
-  * ClearCare, Inc will not review, share, distribute, or reference any such Customer Data except as provided in the ClearCare, Inc [Terms of Use](https://web.archive.org/web/20131123212620id_/http://clearcareonline.com/privacy-statement/about_terms.html), or as may be required by law. In accordance with the ClearCare, Inc [Terms of Use](https://web.archive.org/web/20131123212620id_/http://clearcareonline.com/privacy-statement/about_terms.html), ClearCare, Inc may access Customer Data only for the purposes of providing the services, preventing or addressing service or technical problems, at a Customer's request in connection with customer support matters, or as may be required by law.
+  * ClearCare, Inc will not review, share, distribute, or reference any such Customer Data except as provided in the ClearCare, Inc [Terms of Use](https://web.archive.org/web/20140625161645id_/http://clearcareonline.com/privacy-statement/about_terms.html), or as may be required by law. In accordance with the ClearCare, Inc [Terms of Use](https://web.archive.org/web/20140625161645id_/http://clearcareonline.com/privacy-statement/about_terms.html), ClearCare, Inc may access Customer Data only for the purposes of providing the services, preventing or addressing service or technical problems, at a Customer's request in connection with customer support matters, or as may be required by law.
 
 
 
@@ -39,7 +39,7 @@ The ClearCare, Inc. (the "Company") Privacy Statement contains information about
 
 ### How to Contact Us
 
-Questions regarding ClearCare, Inc's Privacy Statement or information practices should be [directed here](https://web.archive.org/web/20131123212620id_/http://clearcareonline.com/privacy-statement/about_contact.html) or by mail:
+Questions regarding ClearCare, Inc's Privacy Statement or information practices should be [directed here](https://web.archive.org/web/20140625161645id_/http://clearcareonline.com/privacy-statement/about_contact.html) or by mail:
 
 ClearCare, Inc Privacy  
 1693 Polk Street, Suite 200  
