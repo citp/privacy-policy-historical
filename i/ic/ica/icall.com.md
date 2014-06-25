@@ -1,49 +1,36 @@
-> *The following text is extracted and transformed from the icall.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427103033id_/http%3A//www.icall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icall.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093803id_/http%3A//icall.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Privacy Policy - iCall Free Calling
+# Privacy Policy - iCall
 
-Our postal address is:
+## iCall Privacy Policy
 
-iCall, Inc.  
-1505 Federal Street  
-Dallas, TX 75201-3407
+This Privacy Policy was last modified on February 10, 2014.
 
-We can be reached via email at [info@icall.com](mailto:info@icall.com)
+GPG iCall Investment LLC ("us", "we", or "our") operates icall.com (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-For each visitor to our web page, our web server automatically recognizes the consumer's domain name and email address (where possible).
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at icall.com.
 
-We collect the domain name and email address (where possible) of visitors to our web page, the email addresses of those who post messages to our bulletin board, the email addresses of those who communicate with us via email, the email addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, payment information (e.g., credit card number and billing address).
+**Information Collection And Use**  
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number ("Personal Information").
 
-The information we collect is used to improve the content of our web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our website, shared with agents or contractors who assist in providing support for our internal operations, used by us to contact consumers for marketing purposes, shared with other reputable organizations to help them contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our website and applicable laws or to protect against misuse or unauthorized use of our website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the website.
+**Log Data**  
+Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, customize web page content based on visitors' browser type or other information that the visitor sends.
+**Cookies**  
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
 
-If you do not want to receive email from us in the future, please let us know by writing to us at the above address.
+Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
-From time to time, we make the email addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your email address with other companies or organizations, please let us know by writing to us at the above address.
+**Security**  
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-From time to time, we make our _customer_ email list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by writing to us at the above address.
+**Links To Other Sites**  
+Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-If you supply us with your postal address online, you will only receive the information for which you provided us your address.
+GPG iCall Investment LLC has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
 
-Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding orders they have placed online.
+**Changes To This Privacy Policy**  
+GPG iCall Investment LLC may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
-
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information, such as your domain type, your IP address and clickstream information.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically.
-
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by writing to us at the above address.
-
-Upon request, we provide site visitors with access to no information that we have collected and that we maintain about them.
-
-Consumers can access this information by writing to us at the above address.
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, transaction information, communications that the consumer/visitor has directed to the site.
-
-Consumers can have this information corrected by writing to us at the above address.
-
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau.
+**Contact Us**  
+If you have any questions about this Privacy Policy, please contact us at info@icall.com.
