@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the abcmalayalam.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910022410id_/http%3A//www.abcmalayalam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcmalayalam.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050909id_/http%3A//www.abcmalayalam.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - abcmalayalam.com
+# Privacy Policy
 
 **Privacy Statement**  
-This online privacy statement is intended to inform you of the ways in which this website (“abcmalayalam.com”) collects information, the uses to which that information will be put, and the ways in which we protect information you choose to provide us
+  This online privacy statement is intended to inform you of the ways in which this website (“abcmalayalam.com”) collects information, the uses to which that information will be put, and the ways in which we protect information you choose to provide us  
 
 **Information Collected**  
-This Site collects two general types of information: (a) information you voluntarily provide to us, which may include personal information (such as your name, address, email address, etc.), and (b) information we collect automatically when you visit this Site through cookies, third party tracking technologies and server logs.
+This Site collects two general types of information: (a) information you voluntarily provide to us, which may include personal information (such as your name, address, email address, etc.), and (b) information we collect automatically when you visit this Site through cookies, third party tracking technologies and server logs. 
 
-**Information Voluntarily Provided by You**  
-This Site will only collect personal information that you knowingly and voluntarily provide by sending e-mails to us. It is this Site’s general practice to use personal information only for the purposes for which it was requested and any additional uses specifically stated on the Site. However, information collected through this Site may be subject to response to a court order or to any law enforcement agencies.
+**Information Voluntarily Provided by You  **  
+This Site will only collect personal information that you knowingly and voluntarily provide by sending e-mails to us. It is this Site’s general practice to use personal information only for the purposes for which it was requested and any additional uses specifically stated on the Site. However, information collected through this Site may be subject to response to a court order or to any law enforcement agencies. 
 
 **Information We Collect Automatically**  
-This Site collects information automatically through the use of cookies, third party tracking technologies and server logs. This information does not include any personal information. We use this information primarily to monitor the use of this Site and to make improvements. We may share this data with partners in order to enhance the functionality of this Site.
+This Site collects information automatically through the use of cookies, third party tracking technologies and server logs. This information does not include any personal information. We use this information primarily to monitor the use of this Site and to make improvements. We may share this data with partners in order to enhance the functionality of this Site.  
 
 **Cookies**  
 “Cookies” are small text files used to collect information about website activity. No personal information is collected through our use of cookies. This Site uses cookies for two main purposes: (a) In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser, and (b) to identify you on this Site on return visits. You have the option of disabling or not accepting cookies by changing the preferences on your browser. If you opt to disable cookies, you will still be able to use certain sections of our Site.
@@ -34,13 +34,13 @@ Our web servers routinely generate logs that contain the following types of info
 This information is used primarily to monitor the functioning and integrity of the Site.
 
 **Links**  
-This Site may contain links to other sites. Please be aware that we do not control or claim any responsibility for the privacy practices or content of such other sites. We encourage users to read the privacy statements of each website they visit.
+This Site may contain links to other sites. Please be aware that we do not control or claim any responsibility for the privacy practices or content of such other sites. We encourage users to read the privacy statements of each website they visit. 
 
 **Changes to Privacy Statement**  
 If we make changes to our privacy statement, we will indicate this on our home page.
 
 **Disclaimer**  
-Please read Disclaimer
+Please read [Disclaimer](http://abcmalayalam.com/disclaimer.html)
 
 **Consent**  
 By using this Site you consent to the terms of this privacy statement. Questions and feedback Your questions, comments and concerns are always welcome. Please send us your feedback regarding the privacy statement or any other issues by sending an e-mail to [info@abcmalayalam.com](mailto:info@abcmalayalam.com).
