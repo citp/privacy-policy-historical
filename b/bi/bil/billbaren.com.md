@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billbaren.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125125217id_/http%3A//billbaren.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billbaren.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104718id_/http%3A//billbaren.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bill Baren.com
 
@@ -74,14 +74,14 @@ By using our site, you consent to our websites privacy policy.
 
 This privacy policy is subject to change. We may revise this privacy policy at any time without notice. By using this web site you are agreeing to be bound by the then current version of the privacy policy. If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-_This policy was last modified on 10/12/2012_
+_This policy was last modified on 6/24/2014_
 
 _Contacting Us_
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+If there are any questions regarding this privacy policy you may [click here](http://billbaren.com/contact-us/) or contact us using the information below.
 
 Bill Baren Coaching  
-1 Hallidie Plaza, Suite 301  
-San Francisco, California 94102  
+1440 Broadway, Suite 1010  
+Oakland, CA 94612  
 United States  
 wecare @ billbaren . com
