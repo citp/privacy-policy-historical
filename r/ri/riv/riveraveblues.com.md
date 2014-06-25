@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the riveraveblues.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231082909id_/http%3A//riveraveblues.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riveraveblues.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062717id_/http%3A//riveraveblues.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | River Avenue Blues
+# Privacy Policy - River Avenue Blues
 
 ### Privacy Policy
 
@@ -12,8 +12,7 @@ c/o Benjamin Kabak
 86 7th Ave. #2  
 Brooklyn, NY 11217
 
-We can be reached via e-mail at [riveraveblues@gmail.com](mailto:riveraveblues@gmail.com)  
-or you can reach us by telephone at 201-738-0523.
+We can be reached via e-mail at [riveraveblues@gmail.com](mailto:riveraveblues@gmail.com).
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name (where possible), but not the e-mail address . We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used to improve the content of our Web page only.
 
