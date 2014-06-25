@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runnerinn.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223190929id_/http%3A//runnerinn.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnerinn.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065440id_/http%3A//runnerinn.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
 
 # runnerinn Privacy policy. Online running & triathlon gear and running & triathlon equipment shop.
 
