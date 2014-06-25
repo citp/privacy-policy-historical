@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postscapes.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127003901id_/http%3A//postscapes.com/7-postscapes-general/4-postscapes-legal-terms-of-service-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postscapes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091506id_/http%3A//postscapes.com/7-postscapes-general/4-postscapes-legal-terms-of-service-and-privacy-policy) for the most accurate reproduction.*
 
 # Postscapes General - Postscapes Legal: Terms of Service and Privacy Policy - Postscapes
 
@@ -43,6 +43,16 @@ After a transaction, your private information (credit cards, social security num
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+Postscapes also collects potentially personally-identifying information that is collected by Gooogle Analytics. The analytics feature Postscapes has implemented is based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the Doubleclick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). Visitors can opt-out of Google Analytics for Display Advertising and customer Display Network ads using [Ads Settings](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjJn1o4MBMtGs7PuGXmQTMXL1pKVlmTP-2gwgG7JDIXKXAdxnVqfVu1qAPwqBTgFOLPWtZBuC830QOJwMIdYYTR-9x_pN9uU0zvFdBY8xQYI05RFBDjDa8NwXTHvGR27PKZxHQI5fcvYS8pECbbDN7o0bFWRKqSeLSTs7Tgqkxu4zxF3Og/).
+
+Postscapes will not facilitate the merging of personally-identifiable informaiton with non-personally indentifiable information previously collected from Google Display Advertising features that is based on the DoubleClick cookie unless Postscapes has robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that merger. 
+
+Postscapes also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. Postscapes only discloses logged in user IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
+
+At any time, visitors may choose to opt-out of Google Analytics tracking with the Google Analytics [opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+
+Postscapes uses the Google Analytics Demographics and Interest Reporting feature to identify trends in the usage of its website which may be published in reports for internal use.
 
  **Do we disclose any information to outside parties?**
 
