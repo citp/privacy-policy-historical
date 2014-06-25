@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voscast.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209173923id_/http%3A//www.voscast.com/terms/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voscast.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121303id_/http%3A//www.voscast.com/terms/%23privacy) for the most accurate reproduction.*
 
 # VosCast - SHOUTcast Hosting
 
@@ -55,7 +55,7 @@ By registering, purchasing hosting, or using the site, you are agreeing to the f
 
  **a.** "Auto DJ" is included as a free service with your VosCast account, that enables you to stream music from our servers to your SHOUTcast server. When renting a SHOUTcast server from VosCast, you are not paying for the Auto DJ service. For this reason, we offer no guarantees regarding the quality of this service. 
 
-**b.** In order to use our free "Auto DJ" service, you will be required to agree to a seperate terms of service for that service. These seperate terms can be found at [http://voscast.com/terms-auto-dj/](https://web.archive.org/terms-auto-dj/)
+**b.** In order to use our free "Auto DJ" service, you will be required to agree to a separate terms of service for that service. These separate terms can be found at [http://voscast.com/terms-auto-dj/](https://web.archive.org/terms-auto-dj/)
 
  **c.** We reserve the right to discontinue our free "Auto DJ" service at any time. 
 
