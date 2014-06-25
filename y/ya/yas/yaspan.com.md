@@ -1,31 +1,39 @@
-> *The following text is extracted and transformed from the yaspan.com privacy policy that was archived on 2010-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101011162940id_/http%3A//www.yaspan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaspan.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051248id_/http%3A//yaspan.com/privacyterms.aspx) for the most accurate reproduction.*
 
-# yaspan.com Privacy Policy
+# Privacy, Terms and Conditions - yaspan.com
 
-At yaspan.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by yaspan.com and how it is used.
+**Privacy Policy, Terms and Conditions of yaspan.com, LLC.  
+**   
+yaspan.com takes your privacy seriously. Our privacy policy is designed to help you understand the terms and conditions surrounding the collection and use of the information we collect. We encourage you to read our full privacy policy, below:   
+**  
+Information Collected**  
+yaspan.com does not collect any personally identifiable information about individuals, except when such information is voluntarily submitted by the user.  
+In common with many websites, yaspan.com automatically logs certain non-personally identifiable information about visits to our websites. This information is used for system administration and for producing usage statistics.  
+We do collect email addresses from individuals that wish to take advantage of special promotional offers, but we do not sell, rent or disclose collected email addresses to third parties.
 
-### Log Files
+**Cookies**  
+As you browse yaspan.com sites, we place "cookies" on your hard drive to show which source (search engine and keywords, newsletter or site notification, pay-per-click ad and so on) you used to find our site. We do not use cookies to track single-user data.  
 
-Like many other Web sites, yaspan.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-### Cookies and Web Beacons
+**Opt-Out Policy**  
+yaspan.com gives users options to opt out wherever practical; such choices include:  
+• Opting not to receive our electronic newsletters when registering for a site  
+• Opting not to receive review site notifications  
 
-yaspan.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-Some of our advertising partners may use cookies and web beacons on our site.
+**Unsubscribe Policy**  
+Users may unsubscribe from any of our electronic newsletters or site notifications at any time by following the instructions contained at the end of each newsletter or notification.  
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on yaspan.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-yaspan.com has no access to or control over these cookies that are used by third-party advertisers.
+**Use of Collected Information**  
+Collecting the information described above enables us to tailor our content to our readers' needs.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. yaspan.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+**Third Party Partners**  
+yaspan.com has teamed up with reputable third party vendors in order to provide certain services to its online users. When leaving our website to view one of our partner websites, we encourage users to review the privacy statements of those websites as we cannot guarantee the privacy of users while visiting affiliate sites. yaspan.com may use third-party companies to serve ads or analyze behavior patterns when you visit our Web site. These companies may place or provide ads (such as banner ads) on this Web site that might also place cookies. These companies may use non-personally identifiable information about your visit to our Web site in order to help us improve our user experience and/or provide advertisements about goods and services that may be of interest to you. In the course of providing these services or placing these ads, these third-party companies may place or recognize a unique "cookie" on your computer and each of these companies uses this cookie information according to their own privacy and security policies.   
 
-### 3rd-Party Advertisemsents
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
+**Acceptance of Terms**  
+By using the yaspan.com website, you signify your acceptance of this website privacy policy. If you do not agree to this policy, please do not use this site. Your continued use of any yaspan.com site following the posting of changes to these terms will indicate your acceptance of those changes.
 
-### Site Privacy Policy Modifications
-
-yaspan.com will from time to time review and revise this privacy policy, any changes will be posted on this website. yaspan.com has the right to change our privacy practices without prior notice. 
-
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by [email](https://web.archive.org/contact-us).
+If you have questions about our privacy or legal policies, contact the Editor In Chief via email:  
+[davea@yaspan.com](mailto:davea@yaspan.com)
