@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxygenxml.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209191513id_/http%3A//www.oxygenxml.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxygenxml.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090535id_/http%3A//www.oxygenxml.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - oXygen XML Editor
 
@@ -9,7 +9,7 @@
   * Controlling Unsolicited E-mail ("Spam")
   * Children's privacy
   * Use of Cookies
-  * Other websites
+  * Links to Third Party Web Sites
   * Privacy complaints
 
 
@@ -50,9 +50,11 @@ One of the primary purposes of cookies is to store your preferences and other in
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of Syncro Soft sites and services that depend on cookies.
 
-## Other websites
+## Links to Third Party Web Sites
 
-Syncro Soft websites may contain links to other websites which are outside our control and are not covered by this Privacy Policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
+Syncro Soft websites may contain links to other websites which are outside our control and are not covered by this Privacy Policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours. 
+
+Please remember that any information you submit in a discussion forum or other such area will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online.
 
 ## Privacy complaints
 
