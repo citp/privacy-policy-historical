@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wilsonweb.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210023315id_/http%3A//webmarketingtoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilsonweb.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061050id_/http%3A//webmarketingtoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Web Marketing Today
+# Privacy Policy | Web Marketing Today
 
 Web Marketing Today is committed to protecting your privacy. That is why we have adopted this Privacy Policy. It is intended to describe how we use and process your personal information. Please note that by visiting and using Web Marketing Today, you are accepting the practices described in this Privacy Policy.
 
