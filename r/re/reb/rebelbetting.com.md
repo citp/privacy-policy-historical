@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebelbetting.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126213734id_/http%3A//rebelbetting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebelbetting.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060509id_/http%3A//rebelbetting.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sports Arbitrage - RebelBetting
 
@@ -19,6 +19,10 @@ The payment pages are securely protected and encrypted by HTTPS/SSL.
 ClaroBet AB do not and will never sell or trade your personal information to others.
 
 We keep to our obligations under the Swedish Personal Data Law (Law 1998:204) that relate to holding personal data.
+
+#### Email security
+
+ClaroBet AB will never send unsolicited email. All newsletter signups requires a double opt-in. 
 
 #### RebelBetting security
 
