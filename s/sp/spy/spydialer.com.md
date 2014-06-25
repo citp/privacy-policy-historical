@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spydialer.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207054319id_/http%3A//spydialer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spydialer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052818id_/http%3A//spydialer.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Spy Dialer - Whose cell phone is it?
 
@@ -6,7 +6,7 @@ Spy Dialer, Inc. has created a privacy policy that lets you know what informatio
 
 OPT OUT: 
 
-You may opt your cell phone number out of being spy dialed, free of charge, by [visiting our optout page.](https://web.archive.org/web/20131207054319id_/http%3A//spydialer.com/OptOut.aspx)
+You may opt your cell phone number out of being spy dialed, free of charge, by [visiting our optout page.](https://web.archive.org/web/20140625052818id_/http%3A//spydialer.com/OptOut.aspx)
 
 INFORMATION WE STORE: 
 
@@ -16,11 +16,15 @@ IP address used for login, browser type and settings, device ID number, if smart
 
 From Subscribers: 
 
-Subscribers contact and payment information including name, email address, phone number, IP address used for login, browser type and settings, device ID number, if smartphone, date and time of request, phone numbers spy dialed. 
+Subscribers contact and payment information including name, email address, phone number, IP address used for login, browser type and settings,  device ID number, if smartphone, date and time of request, phone numbers spy dialed. 
 
 From Cell Phones that are Spy Dialed: 
 
 The date and time of request, phone number spy dialed, recording of spy dialed number's outgoing voicemail message. 
+
+From Address Book Sharing: 
+
+If you chose the "share your address book to keep spy dialing" option, we'll store the contacts in your address book indefinitely (as provided at the time of sharing only- no automatic updates are made) and that you were the provider of the contacts. 
 
 All users: 
 
@@ -56,6 +60,10 @@ Opt out Information:
 
 We store the following information indefinitley when an opt out request is made: Telephone number to opt-out, date of opt-out request, IP address of opt-out request. Spy Dialer Inc reserves the right to re-use this data in future applications and share this data with affiliated companies, services and organizations. 
 
+Address Book Information: 
+
+If you chose the "share your address book to keep spy dialing" option, we will store your address book information indefinitely and our use of the information is not cancellable. We will use the contact information in the results of other users at Spy Dialer and other associated people search websites. We will never allow your address book information to be used for spam or marketing. 
+
 All Users:
 
 We reserve the right to share information with any other person or entity to protect ours or others rights, property, or safety such as for investigation of fraud, harrassment or stalking.
@@ -72,4 +80,4 @@ YOUR CONSENT:
 
 By using Spy Dialer, you consent to its privacy policy as published on this page. 
 
-This privacy policy was last updated December 12, 2012. 
+This privacy policy was last updated May 29, 2014. 
