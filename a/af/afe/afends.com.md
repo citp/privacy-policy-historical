@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afends.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211005031id_/http%3A//afends.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afends.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625144624id_/http%3A//afends.com/privacy-policy) for the most accurate reproduction.*
 
 # Afends - Privacy Policy
 
@@ -38,4 +38,12 @@ This agreement is effective unless and until terminated by either you or Afends.
 
 #### Inaccuracy disclaimer
 
-From time to time there may be information on afends.com that contains typographical errors, inaccuracies, or omissions that may relate to product descriptions, pricing, and availability. We reserve the right to correct any errors, inaccuracies or omissions and to change or update information at any time without prior notice (including after you have submitted your order). We apologize for any inconvenience this may cause you. If you are not completely satisfied with your afends.com purchase you may return it with your invoice by mail. Please email sales@afends.com.
+From time to time there may be information on afends.com that contains typographical errors, inaccuracies, or omissions that may relate to product descriptions, pricing, and availability. We reserve the right to correct any errors, inaccuracies or omissions and to change or update information at any time without prior notice (including after you have submitted your order). We apologize for any inconvenience this may cause you. If you are not completely satisfied with your afends.com purchase you may return it with your invoice by mail.
+
+Please email:
+
+AUS - sales@afends.com
+
+USA - webstoreusa@afends.com
+
+EUR - mark@afends.com
