@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the armstrongflooring.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203025330id_/http%3A//www.armstrong.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armstrongflooring.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132207id_/http%3A//www.armstrong.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Armstrong Web Privacy Policy
+
+[En Español](https://web.archive.org/web/20140625132207id_/http%3A//www.armstrong.com/corporate/privacy-ea.html)
 
 Armstrong World Industries, Inc. ("Armstrong") strives to achieve the highest standards of integrity for every online visitor. When you register at the Armstrong Web site, we aim to respect your privacy. This Privacy Policy sets forth how we handle information we obtain from you and learn about you when you visit our Web site, including: 
 
@@ -12,7 +14,7 @@ Armstrong World Industries, Inc. ("Armstrong") strives to achieve the highest st
 
 
 
-If you have any questions or comments about Armstrong's Privacy Policy, please [contact us here](https://web.archive.org/web/20131203025330id_/http%3A//www.armstrong.com/corporate/contact-us.html). 
+If you have any questions or comments about Armstrong's Privacy Policy, please [contact us here](https://web.archive.org/web/20140625132207id_/http%3A//www.armstrong.com/corporate/contact-us.html). 
 
 **NOTICE: Information We Collect and How We Use It**  
 Armstrong collects two types of information about you when you visit our site: personal information (including, by way of example only, your name, address, telephone number and e-mail address) and non-personal, aggregate information (such as information regarding the pages on our site that you have visited and your IP address). 
@@ -55,7 +57,7 @@ We collect and use non-personally identifiable information about you in the foll
 
 **Cookies**
 
-At certain points in your visit to the Armstrong site, our server may send a "cookie" file to your computer. Your Web browser may prompt you to accept this file unless you have set your browser preferences to accept all cookies automatically. Cookies are employed primarily as a service to our customers, to extend the relevance and responsiveness of the Armstrong site. We may link cookie information with any personally-identifiable information you provide us. 
+At certain points in your visit to the Armstrong site, our server (or the servers of our unaffiliated service providers) may send a "cookie" file to your computer. Your Web browser may prompt you to accept this file unless you have set your browser preferences to accept all cookies automatically. Cookies are employed primarily as a service to our customers, to extend the relevance and responsiveness of the Armstrong site. We may link cookie information with any personally-identifiable information you provide us. 
 
 **Other Non-Personally-Identifiable Information**
 
@@ -66,6 +68,8 @@ Armstrong also collects information through "referrers" and various environmenta
 At times, the Armstrong website may use what are commonly referred to as "pixel tags," "web beacons," or "clear GIFs," including other similar methods (collectively, "Pixel Tags") to collect aggregated information about website usage. Pixel Tags allow Armstrong to measure the amount of users who have visited specific pages on our site and help determine the effectiveness of advertising campaigns. The information collected from Pixel Tags contains no personally identifiable information and is used for statistical analysis only. 
 
 In certain situations, the use of Pixel Tags may be controlled by unaffiliated entities in order to manage programs or promotions. Armstrong cannot be responsible for third-party uses of Pixel Tags, however, when we are able; we employ our best efforts to assure that these unaffiliated entities do not collect personally identifiable information. 
+
+In certain situations, the use of Pixel Tags and Cookies may be controlled by unaffiliated entities in order to manage programs or promotions. Armstrong cannot be responsible for third-party uses of Pixel Tags and Cookies, however, when we are able; we employ our best efforts to assure that these unaffiliated entities do not collect personally identifiable information. 
 
 **Profiling**
 
