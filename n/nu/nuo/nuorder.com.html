@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the nuorder.com privacy policy that was archived on 2013-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219012239id_/http%3A//www.nuorder.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nuorder.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625214125id_/http%3A//www.nuorder.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js canvas canvastext hashchange draganddrop websockets csstransitions video localstorage sessionstorage webworkers applicationcache"><!--<![endif]--><head>
+<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -9,102 +9,57 @@
     <meta name="language" content="en-US">
     <meta name="description" content="">
     <title>Privacy | NuORDER</title>
-    <link rel="icon" href="/images/favicon.ico" size="16x16">
+    <link rel="icon" href="images/favicon.ico" size="16x16">
 
-    <link href="/css/site/normalize.min.css" media="screen" rel="stylesheet" type="text/css">
-    <link href="/css/site/nuorder.css" media="screen" rel="stylesheet" type="text/css">
-	<link href="/css/site/webfonts.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/site/normalize.min.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/site/nuorder.css" media="screen" rel="stylesheet" type="text/css">
+    <link type="text/css" rel="stylesheet" media="screen" href="css/site/master.css">
+	<link href="css/site/webfonts.css" media="screen" rel="stylesheet" type="text/css">
 
-        <script src="https://wufoo.com/scripts/embed/form.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20131210200124/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/resources/resources.js?2.6.0"></script>
-        <script type="text/javascript" src="/js/resources/resources_site.js?2.6.0"></script>
-        <script type="text/javascript" src="/js/lib/gaq_wrap.js"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/resources/resources.js"></script>
+    <script type="text/javascript" src="js/resources/resources_site.js"></script>
+    <script type="text/javascript" src="js/lib/gaq_wrap.js"></script>
+	<script type="text/javascript" src="js/lib/_nuorder_libraries.js"></script>
+	
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
- 
-        
-            <script type="text/javascript" src="/js/lib/_nuorder_libraries.js?2.6.0"></script>
-        
-        <script type="text/javascript" src="/js/lib/foundation.js"></script>
-        <script type="text/javascript" src="/js/lib/foundation.orbit.js"></script>          
+  ga('create', 'UA-24908472-2', 'nuorder.com');
+  ga('send', 'pageview');
 
-        <script type="text/javascript" src="/js/lib/modernizr.min.js"></script>
-        
-        <script type="text/javascript">
-            $.ajaxSetup(
-                {
-                    beforeSend: function(xhr, settings) {
-                        xhr.setRequestHeader("module", "site");
-                        xhr.setRequestHeader("Content-encoding", "gzip,deflate");
-                        xhr.setRequestHeader("Accept", "application/json");
-
-                        var type = settings.type.toLowerCase();
-                        // This is a fix for the strange combination of nginx and firefox disliking each other when no data is sent
-                        if ((type == 'post' || type == 'put') && (typeof settings.data == "undefined" || settings.data == null)){
-                            settings.data = " ";
-                        }
-                    },
-                    statusCode: {
-                        302: function(response, status, xhr) {
-                            window.location = (xhr.getResponseHeader('forward')) ? xhr.getResponseHeader('loc') : '/';
-                        },
-                        401: function() {
-                            window.location = '/login';
-                        }                   
-                    }
-                }
-            );
-        </script>
-</head>
+</script>
+    
+  
+<script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body>
     <div id="hero_container">
         <div id="header_container" class="centered-1600">
-            <div class="header-element demo ls2">sign up for a demo</div>
-            <div class="header-element logo"></div>
+            <div class="header-element demo ls2" onclick="location.href='demo.html';">REQUEST a demo</div>
+            <div class="header-element logo" onclick="location.href='/';"></div>
             <div class="header-element login-contact">
-                <div class="polygon-btn login ls2">login</div>
+                <div class="polygon-btn login ls2" onclick="location.href='http://nuorder.com/login';">login</div>
                 <div class="polygon-btn seperator"></div>                
-                <div class="polygon-btn contact ls2">contact</div>
+                <div class="polygon-btn contact ls2" onclick="location.href='contact.html';">contact</div>
             </div>
+			<div class="header-element phone">Call Us: +1 310 954 1313</div>
         </div>
         <div id="nav_container" class="centered">
-            <div class="nav-item"><a class="nav-link" href="/">overview</a><div class="nav-carrot hidden overview"></div><div class="dot">.</div></div>
-            <div class="nav-item"><a class="nav-link" href="/brands">brands</a><div class="nav-carrot hidden brands"></div><div class="dot">.</div></div>
-            <div class="nav-item"><a class="nav-link" href="/buyers">buyers</a><div class="nav-carrot hidden buyers"></div><div class="dot">.</div></div>
-            <div class="nav-item"><a class="nav-link" href="/marketplace">marketplace</a><div class="nav-carrot hidden marketplace"></div><div class="dot">.</div></div>
-            <div class="nav-item"><a class="nav-link" href="/support">support</a><div class="nav-carrot hidden support"></div><div class="dot">.</div></div>
-            <div class="nav-item"><a class="nav-link" href="/clients">clients</a><div class="nav-carrot hidden clients"></div><div class="dot">.</div></div>
-            <!-- <div class="nav-item"><a class="nav-link" href="/about">about</a><div class="nav-carrot hidden about"></div><div class="dot">.</div></div> //-->
-            <div class="nav-item"><a class="nav-link" href="/info">offices</a><div class="nav-carrot hidden info"></div></div>
+            <div class="nav-item"><a class="nav-link" href="http://www.nuorder.com">overview</a><div class="nav-carrot hidden overview"></div><div class="dot">.</div></div>
+            <div class="nav-item"><a class="nav-link" href="brands.html">brands</a><div class="nav-carrot hidden brands"></div><div class="dot">.</div></div>
+            <div class="nav-item"><a class="nav-link" href="buyers.html">buyers</a><div class="nav-carrot hidden buyers"></div><div class="dot">.</div></div>
+            <div class="nav-item"><a class="nav-link" href="marketplace.html">marketplace</a><div class="nav-carrot hidden marketplace"></div><div class="dot">.</div></div>
+            <div class="nav-item"><a class="nav-link" href="support.html">support</a><div class="nav-carrot hidden support"></div><div class="dot">.</div></div>
+            <div class="nav-item"><a class="nav-link" href="clients.html">clients</a><div class="nav-carrot hidden clients"></div><div class="dot">.</div></div>
+            <!-- <div class="nav-item"><a class="nav-link" href="about.html">about</a><div class="nav-carrot hidden about"></div><div class="dot">.</div></div> //-->
+            <div class="nav-item"><a class="nav-link" href="info.html">offices</a><div class="nav-carrot hidden info"></div></div>
         </div>
         <div id="subnav_container"></div>
-        <div id="contact_form_container">
 
-<!-- START WUFOO EMBED CODE -->
-<!-- Change 'ssl' to false and 'header' to hide -->
-
-<div id="wufoo-m3o4gty1fvy9wp">
-Fill out my <a href="https://nuorder.wufoo.com/forms/m3o4gty1fvy9wp">online form</a>.
-</div>
-<script type="text/javascript">var m3o4gty1fvy9wp;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName':'nuorder', 
-'formHash':'m3o4gty1fvy9wp', 
-'autoResize':true,
-'height':'956',
-'async':true,
-'header':'hide', 
-'ssl':false};
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { m3o4gty1fvy9wp = new WufooForm();m3o4gty1fvy9wp.initialize(options);m3o4gty1fvy9wp.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script>
-
-<!-- END WUFOO EMBED CODE -->
-
-        </div>
-        <div id="body_container" class="hidden"><section id="privacy_section" class="body-section" data-page="privacy">
+        <div id="body_container"><section id="privacy_section" class="body-section" data-page="privacy">
 	<div class="site_text_block vertical-block">
 		<div class="centered-1600">
 			<div class="outer-frame">
@@ -122,7 +77,7 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 				            </div>
 
 				            <br>
-				            <p class="up">PLEASE READ. YOUR USE OF THIS WEBSITE IS SUBJECT TO THE FOLLOWING PRIVACY POLICY AND THE WEBSITE <a class="c4" href="/terms">TERMS AND CONDITIONS</a><span class="c0">.</span></p>
+				            <p class="up">PLEASE READ. YOUR USE OF THIS WEBSITE IS SUBJECT TO THE FOLLOWING PRIVACY POLICY AND THE WEBSITE <a class="c4" href="terms.html" webstripperwas="/terms">TERMS AND CONDITIONS</a><span class="c0">.</span></p>
 
 				            <br>
 
@@ -158,9 +113,9 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 				            <p class="c1 c7"><span class="c0"></span></p>
 						<p id="notice" class="c6"><span class="c0">I. Notice</span></p>
 				            <p class="c1"><span class="c0"></span></p>
-				            <p class="c2"><span class="c3">The "Website" refers to the websites at </span><span class="c5 c3"><a class="c4" href="http://www.nuorder.com">www.nuorder.com</a></span><span class="c3">, </span><span class="c5 c3"><a class="c4" href="/">www.nuorder.com</a></span><span class="c3">, their subdomains, and related domains. This Website is owned or operated by State of Tomorrow, LLC and/or its subsidiary companies in the United States of America (collectively the "COMPANY"). This privacy policy ("Privacy Policy") applies to information that you provide to COMPANY or is collected about you via this Website and/or by your use of services (collectively, the "Services") that may be provided by this Website or by the Company via some other means, including as set forth below and as defined in the applicable </span><span class="c5 c3"><a class="c4" href="/terms">TERMS AND CONDITIONS</a></span><span class="c3">&nbsp;(which may also be found under the link labeled "Terms" on the Website) or other terms.</span></p>
+				            <p class="c2"><span class="c3">The "Website" refers to the websites at </span><span class="c5 c3"><a class="c4" href="index.html" webstripperwas="http://www.nuorder.com">www.nuorder.com</a></span><span class="c3">, </span><span class="c5 c3"><a class="c4" href="index.html" webstripperwas="/">www.nuorder.com</a></span><span class="c3">, their subdomains, and related domains. This Website is owned or operated by State of Tomorrow, LLC and/or its subsidiary companies in the United States of America (collectively the "COMPANY"). This privacy policy ("Privacy Policy") applies to information that you provide to COMPANY or is collected about you via this Website and/or by your use of services (collectively, the "Services") that may be provided by this Website or by the Company via some other means, including as set forth below and as defined in the applicable </span><span class="c5 c3"><a class="c4" href="terms.html" webstripperwas="/terms">TERMS AND CONDITIONS</a></span><span class="c3">&nbsp;(which may also be found under the link labeled "Terms" on the Website) or other terms.</span></p>
 				            <p class="c1"><span class="c3"></span></p>
-				            <p class="c2"><span class="c3">This Privacy Policy is intended to provide you notice of COMPANY's information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any COMPANY Service or Website constitutes acceptance of and agreed to this Privacy Policy and any other applicable terms. This Privacy Policy is part of and incorporated by reference into the </span><span class="c5 c3"><a class="c4" href="/terms">TERMS AND CONDITIONS</a></span><span class="c3">&nbsp;for this Website. Certain terms used herein are defined in the Terms and Conditions.</span></p>
+				            <p class="c2"><span class="c3">This Privacy Policy is intended to provide you notice of COMPANY's information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any COMPANY Service or Website constitutes acceptance of and agreed to this Privacy Policy and any other applicable terms. This Privacy Policy is part of and incorporated by reference into the </span><span class="c5 c3"><a class="c4" href="terms.html" webstripperwas="/terms">TERMS AND CONDITIONS</a></span><span class="c3">&nbsp;for this Website. Certain terms used herein are defined in the Terms and Conditions.</span></p>
 				            <a name="S_2"></a>
 					    <p class="c1"><span class="c3"></span></p>
 					    <p class="c6"><span class="c0">II. Personally Identifiable Information That We Collect.</span></p>
@@ -177,11 +132,11 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 					    <p class="c1"><span class="c3"></span></p>
 					    <p class="c6"><span class="c0">IV. User Accounts.</span></p>
 				            <p class="c1"><span class="c0"></span></p>
-				            <p class="c2"><span class="c3">In order to use our Services, you will need to register and create, or otherwise accept, a user account ("User Account"). Note that when you log into a User Account, you are agreeing to be bound by this Privacy Policy and the </span><span class="c5 c3"><a class="c4" href="/terms">TERMS AND CONDITIONS</a></span><span class="c3">, and are also "accepting" your User Account. There may or may not be a cost to create a User Account. You may be asked to choose a user name, screen name, or member name (each, a "User Name") and password. You may also be asked to provide certain personally identifiable information and other information about yourself, such as your first and last name, company name, billing and shipping address, telephone number, and e-mail address. The Website allows you to update certain information when you are logging in.</span></p>
+				            <p class="c2"><span class="c3">In order to use our Services, you will need to register and create, or otherwise accept, a user account ("User Account"). Note that when you log into a User Account, you are agreeing to be bound by this Privacy Policy and the </span><span class="c5 c3"><a class="c4" href="terms.html" webstripperwas="/terms">TERMS AND CONDITIONS</a></span><span class="c3">, and are also "accepting" your User Account. There may or may not be a cost to create a User Account. You may be asked to choose a user name, screen name, or member name (each, a "User Name") and password. You may also be asked to provide certain personally identifiable information and other information about yourself, such as your first and last name, company name, billing and shipping address, telephone number, and e-mail address. The Website allows you to update certain information when you are logging in.</span></p>
 				            <p class="c1"><span class="c3"></span></p>
 				            <p class="c2"><span class="c3">This Privacy Policy does not apply to any information you may disclose publicly in such Services. In some instances, you may choose to create a "Public Profile" that will be available to others on the Internet. Public Profiles are managed entirely by you, and you are solely responsible for your Public Profile's content and its "public" or "private" status. The Company bears no responsibility for any action or policies of any third parties who collect any information that users may disclose in user forums or other public areas of this Website. You are also responsible for maintaining and updating the registration information in your User Account with current and complete information.</span></p>
 				            <p class="c1"><span class="c3"></span></p>
-				            <p class="c2"><span class="c3">If you are holder of a Buyer Account, Brand Account, or other User Account and wish to deactivate or terminate it, please see how to do so in the </span><span class="c5 c3"><a class="c4" href="/terms">TERMS AND CONDITIONS</a></span><span class="c3">. If your Buyer Account has been incorrectly affiliated with other Buyer Accounts, contact the Brand User who created such affiliation to correct such incorrect affiliation.</span></p>
+				            <p class="c2"><span class="c3">If you are holder of a Buyer Account, Brand Account, or other User Account and wish to deactivate or terminate it, please see how to do so in the </span><span class="c5 c3"><a class="c4" href="terms.html" webstripperwas="/terms">TERMS AND CONDITIONS</a></span><span class="c3">. If your Buyer Account has been incorrectly affiliated with other Buyer Accounts, contact the Brand User who created such affiliation to correct such incorrect affiliation.</span></p>
 				            <p class="c1"><span class="c3"></span></p>
 				            <p class="c2"><span class="c3">You can unsubscribe from receiving marketing e-mails from the Website by clicking the link contained within such e-mails sent to you. You cannot unsubscribe from receiving correspondence regarding non-marketing e-mails, including but not limited to correspondence with parties involved in a transaction with you, or emails with the COMPANY regarding your User Account and activities on or through the Website.</span></p>
 				            <p class="c1"><span class="c3"></span></p>
@@ -253,7 +208,7 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 				            <p class="c1"><span class="c3"></span></p>
 				            <p class="c2"><span class="c3">When you create a User Account or accept one, you are opting in to receive e-mail from us. You can always opt out of future marketing messages by following the directions in each message to "unsubscribe". However, if you choose to opt out of marketing messages, we reserve the right to contact you regarding your account status, technical support, product information, changes to account terms, and any other matter that might affect our service to you and/or any products you purchased from us or registered with us, as applicable.</span></p>
 				            <p class="c1"><span class="c3"></span></p>
-				            <p class="c2"><span class="c3">As stated in the </span><span class="c5 c3"><a class="c4" href="/terms">TERMS AND CONDITIONS</a></span><span class="c3">, you will be deemed to have consented to the disclosure to, and use by, a subsequent owner or operator of a COMPANY Website or Service, of any information about you contained in the applicable COMPANY database, if COMPANY or one of its companies assigns its rights and obligations regarding any of your information at the time of a merger, acquisition, or sale of all or substantially all of COMPANY's or such COMPANY company's assets related to the applicable site or Service to a subsequent owner or operator. In the event of such a merger, acquisition, or sale, your continued use of the Website or any related Service signifies your agreement to be bound by the </span><span class="c5 c3"><a class="c4" href="/terms">TERMS AND CONDITIONS</a></span><span class="c3">&nbsp;the Website's or Service's subsequent owner or operator.</span></p>
+				            <p class="c2"><span class="c3">As stated in the </span><span class="c5 c3"><a class="c4" href="terms.html" webstripperwas="/terms">TERMS AND CONDITIONS</a></span><span class="c3">, you will be deemed to have consented to the disclosure to, and use by, a subsequent owner or operator of a COMPANY Website or Service, of any information about you contained in the applicable COMPANY database, if COMPANY or one of its companies assigns its rights and obligations regarding any of your information at the time of a merger, acquisition, or sale of all or substantially all of COMPANY's or such COMPANY company's assets related to the applicable site or Service to a subsequent owner or operator. In the event of such a merger, acquisition, or sale, your continued use of the Website or any related Service signifies your agreement to be bound by the </span><span class="c5 c3"><a class="c4" href="terms.html" webstripperwas="/terms">TERMS AND CONDITIONS</a></span><span class="c3">&nbsp;the Website's or Service's subsequent owner or operator.</span></p>
 				            <p class="c1"><span class="c3"></span></p>
 				            <p class="c2"><span class="c3">The COMPANY and other entities may work together in order to provide portions of the COMPANY Websites and some Services (e.g., to fulfill prizes won in a sweepstakes, or to provide other support for a Service). These companies will handle your personally identifiable information in accordance with this Privacy Policy.</span></p>
 				            <p class="c1"><span class="c3"></span></p>
@@ -261,7 +216,7 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 				            <p class="c1"><span class="c3"></span></p>
 				            <p class="c2"><span class="c3">Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.</span></p>
 				            <p class="c1"><span class="c3"></span></p>
-				            <p class="c2"><span class="c3">COMPANY will not share, sell, rent, or disclose any personally identifiable information that we have collected except as stated herein, or in the following instances: 1) we have been given your consent to disclose; 2) we have previously informed you of the disclosure, including by means of our Privacy Policy or on the Website, or through the Service where you provided your information; 3) we are required by law, legal process, or court order to disclose; 4) disclosure is necessary to identify, contact, or bring legal action against someone who may cause or be causing harm to, or interference with, COMPANY's rights or property, other COMPANY Website users, or anyone else; or 5) to respond to an inquiry, request or complaint that you have made. COMPANY may also use IP addresses in cooperation with Internet service providers to identify users if we deem it necessary to comply with law, to enforce compliance with this Privacy Policy or our </span><span class="c5 c3"><a class="c4" href="/terms">TERMS AND CONDITIONS</a></span><span class="c3">, or to protect our sites, customers, or others.</span></p>
+				            <p class="c2"><span class="c3">COMPANY will not share, sell, rent, or disclose any personally identifiable information that we have collected except as stated herein, or in the following instances: 1) we have been given your consent to disclose; 2) we have previously informed you of the disclosure, including by means of our Privacy Policy or on the Website, or through the Service where you provided your information; 3) we are required by law, legal process, or court order to disclose; 4) disclosure is necessary to identify, contact, or bring legal action against someone who may cause or be causing harm to, or interference with, COMPANY's rights or property, other COMPANY Website users, or anyone else; or 5) to respond to an inquiry, request or complaint that you have made. COMPANY may also use IP addresses in cooperation with Internet service providers to identify users if we deem it necessary to comply with law, to enforce compliance with this Privacy Policy or our </span><span class="c5 c3"><a class="c4" href="terms.html" webstripperwas="/terms">TERMS AND CONDITIONS</a></span><span class="c3">, or to protect our sites, customers, or others.</span></p>
 				            <p class="c1"><span class="c3"></span></p>
 				            <p class="c6"><span class="c0">c. Information Disclosed to other Users of this Website.</span></p>
 				            <p class="c1"><span class="c0"></span></p>
@@ -307,7 +262,7 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 					    <a name="S_17"></a>
 				            <p class="c6"><span class="c0">XVII. Notification of Changes.</span></p>
 				            <p class="c1"><span class="c0"></span></p>
-				            <p class="c9"><span class="c3">COMPANY reserves the right to change this Privacy Policy and its </span><span class="c5 c3"><a class="c4" href="/terms">TERMS AND CONDITIONS</a></span><span class="c3">&nbsp;at any time. In case of any material change to the Privacy Policy, we will replace the "Privacy Policy" link on the home page of our sites with a link entitled "Updated Privacy Policy" for no less than 30 days. All changes to the Privacy Policy will be effective when posted, and your continued use of any COMPANY Website or Service after the posting will constitute acceptance of, and agreement to be bound by, those changes.&nbsp;</span></p>
+				            <p class="c9"><span class="c3">COMPANY reserves the right to change this Privacy Policy and its </span><span class="c5 c3"><a class="c4" href="terms.html" webstripperwas="/terms">TERMS AND CONDITIONS</a></span><span class="c3">&nbsp;at any time. In case of any material change to the Privacy Policy, we will replace the "Privacy Policy" link on the home page of our sites with a link entitled "Updated Privacy Policy" for no less than 30 days. All changes to the Privacy Policy will be effective when posted, and your continued use of any COMPANY Website or Service after the posting will constitute acceptance of, and agreement to be bound by, those changes.&nbsp;</span></p>
 				        </div>
 				    </div>
 				</div>
@@ -322,23 +277,23 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 <div id="footer_links_container">
     <div class="btn-group w380 aleft abottom">
     	<div class="btn morris hidden"></div>
-    	<a href="https://www.facebook.com/NuORDER.fashion.wholesale" target="_blank"><div class="btn facebook"></div></a>
+    	<a href="http://www.facebook.com/NuORDER.fashion.wholesale" target="_blank"><div class="btn facebook"></div></a>
     	<div class="btn twitter hidden"></div>
 	
-	<a href="https://plus.google.com/108384927286783318385" target="_blank" rel="publisher"><div class="btn google"></div></a>
+	<a href="http://plus.google.com/108384927286783318385" target="_blank" rel="publisher"><div class="btn google"></div></a>
     	
 	
     	<a href="http://www.linkedin.com/company/2779405" target="_blank"><div class="btn linkedin"></div></a>
     	<div class="btn-text-link prox-light fs10 ls2 pt5 cDC">
-    		<a href="/privacy" class="clean-link">PRIVACY POLICY</a>
+    		<a href="privacy.html" class="clean-link">PRIVACY POLICY</a>
     		<span class="link-seperator ilb ml10 mr10">|</span>
-    		<a href="/terms" class="clean-link">TERMS OF USE</a>
+    		<a href="terms.html" class="clean-link">TERMS OF USE</a>
 		<span class="link-seperator ilb ml10 mr10">|</span>
     		<a href="http://nuorder.theresumator.com/apply" target="_blank" class="clean-link">CAREERS</a>
     	</div>
     </div>
     <div class="btn-group w350 ta-r aright abottom">
-    	<img src="/images/site/assets/footer_nuorder_icon.png">
+    	<img src="images/site/assets/footer_nuorder_icon.png">
     	<div class="btn-text-link prox-light fs10 ls2 pt10 cDC">
     		NEW YORK
     		<span class="link-seperator ilb ml10 mr10">|</span>
@@ -355,36 +310,27 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 </div>
         
     </div>
-	<script type="text/javascript">
-		EVENTS.subscribe('ConfigRequested.Ambrosia', function() {
-			EVENTS.unsubscribe('ConfigRequested.Ambrosia', arguments.callee);
-			EVENTS.notify('Config.Ambrosia', {
-				root: window.location.protocol + '//' + window.location.hostname,
-				require: ['site_main_page_layout', 'site_location_manager','jquery_plugins'],
-				cdn: function() {
-					var cdn = ["http://cdn1.nuorder.com/","http://cdn2.nuorder.com/","http://cdn3.nuorder.com/","http://cdn4.nuorder.com/","http://cdn5.nuorder.com/"];
-					return cdn[Math.floor(Math.random() * cdn.length)];
-				},
-				module: 'site',
-				sitepath: 'http://nuorder.com/',
-				cacheBuster: '?2.6.0',
-	
-			});
-		});
-	
-	</script>
-	<script type="text/javascript" src="/js/Ambrosia.js?2.6.0"></script>
-	
-	<script>
-		(function() {
-			var $content = $('#body_container');
-			if(window.location.hash != '' && window.location.hash != '#') {
-				$content.empty();
-			}
-			$content.removeClass('hidden');
-		})();
-	</script>
+    
 
+
+
+ <script type="text/javascript">
+adroll_adv_id = "PJ3HXM24CZEMVJDPPTF6X4";
+adroll_pix_id = "THGWLQQ3TVFPTBVHHGGM6S";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
     
         <!-- Google Code for Remarketing tag -->
         <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
@@ -404,6 +350,30 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
         </div>
         </noscript>
         <!-- End of Google Code for Remarketing tag -->
+        
+        <script type="text/javascript">
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('892-KID-931');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script>
+
 
 
 
