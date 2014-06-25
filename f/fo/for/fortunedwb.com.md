@@ -1,32 +1,80 @@
-> *The following text is extracted and transformed from the fortunedwb.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602185453id_/http%3A//www.fortunedwb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortunedwb.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625152259id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Fortune DWB
+# HugeDomains.com - Privacy Policy
 
-## 
+[Home](http://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
+**What information do we collect?**
 
-This privacy policy (the “Privacy Policy”) discloses the information gathering and dissemination practices for this website. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our practices, as they may change in the future.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-By visiting our site or sending us information, you are accepting the practices described in this Privacy Policy. Your assent to these practices is essential for us to continue operating this website, including the variety of information and services it contains. Similarly, we need you to provide accurate personal information so that you can be contacted and, if you purchase anything, so that we can complete the transaction. You can opt-out and decide not to provide the requested personal information. However, by doing so, you will not receive the information, product, and/or service you are requesting.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-The personal information we collect includes your name and e-mail address. Other personal information that you submit is clearly labeled at the time you submit it. We use the information that we collect to provide our services, fulfill any purchase you may have made, send you our newsletter, contact you regarding new promotions, and to improve our site. We also use this information—directly, indirectly, and in combination with data we exchange with other parties—to introduce you to informational, service, and/or product offerings from us, our subsidiaries, affiliated companies, partners, select unaffiliated companies, assigns, and/or brands that are owned by, licensed by, and/or partnering with us (collectively, the “JV Companies”). We do this by transferring, licensing, and/or sharing your personal information with the JV Companies and hope you will be interested in their marketing materials and/or promotions. The JV Companies may subsequently transfer, and/or share your personal information. Once a third-party obtains your personal information, its subsequent use is controlled by the business practices of the third party, which is beyond our control. Note, however, that your payment information is used only for order processing purposes.
+**What do we use your information for?**
 
-When submitting any information on our website you expressly authorize us to use your personal information as explained in this privacy policy, and you consent to receiving commercial email from us, FortuneDWB, and all of the JV Companies. You can expect to receive newsletters, promotions, and other similar offers. Should you wish to discontinue receiving these e-mailings simply unsubscribe using the link in the email you receive.
+Any of the information we collect from you may be used in one of the following ways: 
 
-We automatically collect certain information from visitors to, the site, such as Internet addresses, browser type, Internet Service Provider (ISP), referring and exit page, operating system, timestamps, and clickstream data. We also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers. This information is logged to help diagnose technical problems, and to administer our site so that we can constantly improve it.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-If you pay for anything on our site using a credit or debit card, we collect the personal information needed to complete the transaction. This information includes your name, card number, and other necessary information, all of which is clearly labeled on the form you use to submit payment. We use an unaffiliated, credit card processing company to process your payment. We transfer your payment information—and you authorize us to do so—to this company solely for this purpose. The company does not retain, share, store, or use personally identifiable information for any other purposes.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-Anything you send us, post on our site, or use with our service, such as blog postings or videos, or if others send us anything about your activities or postings, we may collect such information into a file specific to you. We use this information to resolve disputes, troubleshoot problems, and enforce our customer agreements.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-We take measures to prevent the loss, misuse, and alteration of your information by carefully limiting access to the database in which your personal information is stored. We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. For example, we may disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of wrongful conduct. We may also (and you authorize us to) disclose personal information about you to credit agencies, collection agencies, and/or merchant database agencies, as we deem necessary.
+• To process transactions
 
-We do not knowingly collect personally identifiable information from children under the age of 13, nor do we knowingly distribute such information. If we become aware that we have inadvertently received personally identifiable information from someone under the age of 13, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of 13.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-Contact us at the address below if you want us to change or delete any information that we have about you. We will respond to your request to access, update, or delete your information within ten (10) business days. Before we are able to provide you with any information, correct any inaccuracies, or delete any information, however, we may ask you to verify your identity.
+• To send periodic emails
 
-This website is owned and operated, or operated under agreement, by:  
-FortuneDWB, 2300 132 SolfVagen, Solf,65450
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-This privacy policy is effective as of October 02, 2010.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.HugeDomains.com](http://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](http://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
