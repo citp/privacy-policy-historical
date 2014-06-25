@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manycam.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127144208id_/http%3A//www.manycam.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manycam.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044335id_/http%3A//manycam.com/privacy_policy) for the most accurate reproduction.*
 
 # ManyCam Privacy Policy
 
@@ -11,6 +11,8 @@ ManyCam abides by the safe harbor framework as set forth by the U.S. Department 
 ## Information Collection
 
 As is true of most websites, we gather information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click-stream data. We also gather data from Google's Interest-based advertising and 3rd-party audience data (such as age, gender and interests) with Google Analytics. We use this information, which does not identify individual visitors, to analyze trends, to measure visitor usage and interest, to administer and improve the functionality of the website, to track visitors' movements around the site and to gather information about the geographic location of our visitors as a whole. We do not collect Personally Identifiable Information ("PII") about our visitors at this website. No further information regarding our website visitors, other than the browser-level information described above, is collected at this website in any manner whatsoever or for any purpose. 
+
+We may also gather information such as Windows OS version, primary monitor resolution, video preset count, and apps used with ManyCam. This information does not identify individual visitors by any means and is only used for the analysis of trends and to help improve our software. 
 
 Unless a user has opted out by modifying his/her preferences, upon registration, we may use any e-mail address that we are provided with to notify users of the existence of new contents or promotions in areas concerning which they have expressed an interest. You may request that we stop sending you such notices, at any time thereafter, by following the instructions mentioned in our e-mails. 
 
