@@ -1,119 +1,371 @@
-<!--The following is the downloaded HTML source of the stockwatch.com privacy policy that was archived on 2013-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207135517id_/http%3A//www.stockwatch.com/utilit/utilit_privac.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockwatch.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625235103id_/http%3A//www.stockwatch.com/Help/Privacy.aspx) for the most accurate reproduction.-->
 
-<html xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:funcs="some-unique-uri"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="Description" content="No Hype - No Ads Just the Facts.  Your complete source of news and realtime quotes from the TSX, TSX-V, Montreal, Nasdaq, NYSE, and Amex."><meta name="Keywords" content="Stockwatch, realtime quotes, real-time quotes, market depth, market book, streaming quotes, portfolio, portfolios, news, SEDAR, alerts, charts, historical quotes, insider trading, Medved QuoteTracker, Nasdaq, Pink Sheets, TSX, NYSE, Amex, TSX-V."><title>Stockwatch &gt; Utility &gt; Disclaimer</title><link rel="stylesheet" type="text/css" media="screen" href="/xsl/quotes.css"><link rel="stylesheet" type="text/css" media="print" href="/xsl/print.css"><style type="text/css"></style><script language="JavaScript" src="/xsl/menu_data.js?1.0.5088.22007"></script><script language="Javascript1.2" src="/xsl/menu.js?1.0.5088.22007"></script><script language="Javascript1.2">
-//if (document.domain.indexOf("stockwatch.com")>=0) { document.domain = "stockwatch.com"; }
-if (document.domain!="localhost") { document.domain = "stockwatch.com"; }
-</script><script language="JavaScript">
-//<!--
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-}
-MM_reloadPage(true);
-
-function newWin(url,name,rs,sc,mn,tl,lo,wd,hi) {
-openWindow = window.open(url,name,'resizable='+rs+',scrollbars='+sc+',menubar='+mn+',toolbar='+tl+',location='+lo+',width='+wd+',height='+hi);}
-name.window="menu"
-function open_window(url) {
-email = window.open(url,"eMail","toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=yes,resizable=yes,width=750,height=400");
-}
-
-function SubmitForm(strFormName) 
-{
-	eval("document." + strFormName + ".submit()")
-	return false;
-}
-
-function HandleClick(objButton)
-{
-	var strButtonName;		
-	strButtonName = objButton.name;
-	document.frmMenu.source.value = strButtonName;					
-	return true;
-}
-
-
-function IEKeyPress()
-{
-	var strSourceElement;
-	var objButton;
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="x-ua-compatible" content="IE=edge"><title>
+	Stockwatch
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+		<script type="text/javascript" src="/Scripts/jquery-1.11.0.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="/Scripts/css/custom-theme-1-10-4/jquery-ui-1.10.4.custom.min.css">
+		<script type="text/javascript" src="/Scripts/jquery-ui-1.10.4.custom.min.js"></script>
+		<script type="text/javascript" src="/Scripts/sw.js?5"></script>
 		
-	// if Enter key is pressed
-    if (window.event.keyCode == 13)
-    {		
-		strSourceElement = event.srcElement.name;
+		<script type="text/javascript">//<![CDATA[
+			UrlAppPath = '';	// ""
+			UrlAppPath2 = '/';		// "/"
+			$(document).ready(function () {
+			if ($('input#scrolly').val() == 0 && $('input#setfocus').val() != 'N') {
+					window.setTimeout(function () {
+						if ($(window).scrollTop() <= 120)
+							MasterSymbol();
+					}, 300);
+				}
+
+				// http://tjvantoll.com/2012/06/15/detecting-print-requests-with-javascript/ 
+				var beforePrint = function () {
+					//console.log('Functionality to run before printing.');
+					$('img.sprite.sw_logo_lg').attr('src', UrlAppPath2 + 'App_Themes/Stockwatch40/images/sw_logo_lg.png');
+					$('img.sprite.sw_logo_red_lg').attr('src', UrlAppPath2 + 'App_Themes/Stockwatch40/images/sw_logo_red_lg.png');
+					// possibly wait here to make sure images get loaded before printing
+				};
+				var afterPrint = function () {
+					//console.log('Functionality to run after printing');
+				};
+				if (window.matchMedia) {
+					var mediaQueryList = window.matchMedia('print');
+					mediaQueryList.addListener(function (mql) {
+						if (mql.matches) {
+							beforePrint();
+						} else {
+							afterPrint();
+						}
+					});
+				}
+				window.onbeforeprint = beforePrint;
+				window.onafterprint = afterPrint;
+
+		    });//]]>
+		</script>
+
+
+		<link rel="stylesheet" type="text/css" href="/Scripts/menu.css?5">
+		<script type="text/javascript">//<![CDATA[
+			$(function () {
+				$('div#pJava ul#jsmenu').dropdown_menu({
+					sub_indicator_class: 'dropdown-menu-sub-indicator',
+					vertical_class: 'dropdown-menu-vertical',
+					shadow_class: 'dropdown-menu-shadow',
+					hover_class: 'dropdown-menu-hover',
+					open_delay: 400,
+					close_delay: 100,
+					animation_open: { opacity: 'show' },
+					speed_open: 'fast',
+					animation_close: { opacity: 'hide' },
+					speed_close: 'fast',
+					sub_indicators: true,
+					drop_shadows: false,
+					vertical: false,
+					//viewport_overflow: 'auto',
+					viewport_overflow: 'scroll',
+					init: function () { }
+				});
+			});//]]>
+		</script>
+<link href="../App_Themes/Stockwatch40/Stockwatch40.css?5" type="text/css" rel="stylesheet"></head>
+
+<body style="">
+    <form method="post" action="Privacy.aspx" id="ctl01">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg8PFgQeD19fQW50aVhzcmZUb2tlbgUgNjAwMjdjZjE5ZjliNGYxYTk5NGRmYzUzNTU3ZTI5MDEeEl9fQW50aVhzcmZVc2VyTmFtZWVkFgRmD2QWAgIHDxYCHgRocmVmBSx+L0FwcF9UaGVtZXMvU3RvY2t3YXRjaDQwL1N0b2Nrd2F0Y2g0MC5jc3M/NWQCAQ9kFgQCCQ8PFgIeB1Zpc2libGVoZGQCEw9kFgICAQ8WAh8DZ2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFhQFDmN0bDAwJFJhZGlvVVMyBRJjdGwwMCRSYWRpb0NhbmFkYTIFEmN0bDAwJFJhZGlvQ2FuYWRhMgURY3RsMDAkQ2hlY2tRdW90ZTIFEWN0bDAwJENoZWNrQ2hhcnQyBRBjdGwwMCRDaGVja05ld3MyBRJjdGwwMCRDaGVja0Nsb3NlczIFEWN0bDAwJENoZWNrRGVwdGgyBQ9jdGwwMCRHb0J1dHRvbjIFDWN0bDAwJFJhZGlvVVMFEGN0bDAwJENoZWNrUXVvdGUFD2N0bDAwJENoZWNrTmV3cwUQY3RsMDAkQ2hlY2tEZXB0aAUOY3RsMDAkR29CdXR0b24FEWN0bDAwJFJhZGlvQ2FuYWRhBRFjdGwwMCRSYWRpb0NhbmFkYQUQY3RsMDAkQ2hlY2tDaGFydAURY3RsMDAkQ2hlY2tDbG9zZXMFFWN0bDAwJFBvd2VyUmVtZW1iZXJNZQULY3RsMDAkTG9naW7ezq7U+xpmiOpUgdU9NTTcFWdytg==">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+	<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+</div>	
+
+    <header>
+
+
+	<div style="float:left;">
+		<a href="/"><img id="Image5" class="sprite sw_logo_lg" src="../App_Themes/Stockwatch40/Images/spacer.png" alt="Home Page" style="border-style:None;vertical-align:bottom;"></a>
+	</div>
+	<div style="float:right; height:59px;">
+		<div style="height:15px;"></div>
+		<div class="MPtopmenu">
+			<a href="http://mobile.stockwatch.com">Mobile</a>		  	
+			<a id="OldsiteLinkControl" href="/Old/Login.aspx">Old&nbsp;Site</a>
+			<a href="/">Home</a>
+			<a id="HyperLink4" href="../News/Daily.aspx" style="color:Yellow;font-weight:900;">Daily</a>
+			<a href="/Help/Products.aspx">Products</a>  	
+			<a href="/Help/Help.aspx">Help</a>
+			<a href="/Help/Contact.aspx">Contact&nbsp;Us</a>	
+			<a href="/User/Status.aspx">Your&nbsp;Account</a>
+			<a href="/User/SystemStatus.aspx">System&nbsp;Status</a>
+		</div>
+		<div class="MPmessage" style="background-color: yellow;">
+			
+				<a href="/User/Subscribe.aspx">Click here for a free 30-day trial subscription to Stockwatch</a>
+			
+			
+			
+		</div>
+	</div>
+
+
+	<div class="MPredbar" style="clear:both; width:100%;">
+		<div style="float:left;"><img id="Image13" class="sprite sw_logo_red_lg" src="../App_Themes/Stockwatch40/Images/spacer.png" alt="Home Page" style="border-style:None;vertical-align:bottom;"></div>
+		<div style="float:right; padding-right:5px;"><span id="HeaderTimeControl">19:51:03 EDT Wed 25 Jun 2014</span></div>	
+	</div>
+
+
+
+
+	<div class="MPmenuback" style="width:100%;">
+		<div class="MPmenu" style="float:left;">
+
+<div id="pJava">
 	
-		document.frmMenu.source.value = strSourceElement;				
-		
-		if ((strSourceElement == "username") | (strSourceElement == "password"))
-		{
-			document.frmMenu.submit();				
-			return false;
-		}
-		else 
-		{
-			document.frmMenu.submit();	
-			return false;			
-		}				   		
-		
-    } // end if (window.event.keyCode == 13)
+<ul id="jsmenu" class="dropdown-menu">
+    <li>
+		<a href="/Quote">Quotes</a>
+		<ul>
+			<li><a href="/Quote/Streaming.aspx">Streaming/Mobile</a></li>
+			<li><a href="/Quote/Quick.aspx">Quick Quotes (x20)</a></li>
+			<li><a href="/Quote/Search.aspx">Symbol Search</a></li>
+			<li><a href="/Analytics/SearchComp.aspx">Company Search</a></li>
+			<li><a href="/Quote/Depth.aspx">Market Depth</a></li>
+			<li><a href="/Quote/Options.aspx?region=U">US Options</a></li>
+			<li><a href="/Quote/Options.aspx?region=C">Montreal Options</a></li>
+			<li><a href="/Quote/Download.aspx">Download Quotes</a></li>
+			<li><a href="/Analytics/Shorts.aspx">Short History</a></li>
+			<li><a href="/Quote/Candeal.aspx">Candeal Canadian Bond</a></li>
+			<li><a href="/Quote/Streaming.aspx">Ticker Quick Launch</a></li>
+			<li><a href="/Quote/Webquery.aspx">Excel Webquery</a></li>
+			<li><a href="/Help/Quotes.aspx">Quotes Help</a></li>
+		</ul>
+    </li>
+    <li>
+		<a href="/Chart">Charts</a>
+		<ul>
+			<li><a href="/Chart/Year.aspx">12 Month Chart</a></li>
+			<li><a href="/Chart/Advanced.aspx">Advanced Chart</a></li>
+			<li><a href="/Chart/JavaIntra.aspx">Live Java Intraday Chart</a></li>
+			<li><a href="/Chart/JavaHist.aspx">Live Java Historical Chart</a></li>
+			<li><a href="/Help/Charts.asp">Charts Help</a></li>
+		</ul>
+    </li>
+    <li>
+		<a href="/News">News</a>
+		<ul>
+			<li><a href="/News/Search.aspx">News Search</a></li>
+			<li><a href="/News/Sedar.aspx">SEDAR Search</a></li>
+			<li><a href="/News/SedarAlerts.aspx">SEDAR Alerts</a></li>
+			<li><a href="/Help/News.aspx?menu=yes">News Help</a></li>
+		</ul>
+    </li>
+    <li>
+		<a href="/Quote/IndexDefault.aspx">Indexes</a>
+		<ul>
+			<li><a href="/Quote/Index.aspx">Major Indexes</a></li>
+			<li><a href="/Quote/Index.aspx?exchange=I">US incl Dow Jones</a></li>
+			<li><a href="/Quote/Index.aspx?exchange=Q">NASDAQ</a></li>
+			<li><a href="/Quote/Index.aspx?group=S">S&amp;P CME</a></li>
+			<li><a href="/Quote/Index.aspx?exchange=B">CBOE - Chicago Options Ex</a></li>
+			<li><a href="/Quote/Index.aspx?exchange=P">PBOT - Phil Ex</a></li>
+			<li><a href="/Quote/Index.aspx?exchange=T">TSX - Toronto</a></li>
+			<li><a href="/Quote/Index.aspx?exchange=V">TSX-V - Toronto Venture</a></li>
+			<li><a href="/Help/Indexes.aspx?menu=yes">Indexes Help</a></li>
+		</ul>
+    </li>
+    <li>
+		<a href="/Portfolio">Portfolio</a>
+		<ul>
+			<li><a href="/Portfolio">View Portfolio</a>
+				<ul><li><a href="/Portfolio/View.aspx?pf=1">Portfolio 1</a></li><li><a href="/Portfolio/View.aspx?pf=2">Portfolio 2</a></li><li><a href="/Portfolio/View.aspx?pf=3">Portfolio 3</a></li><li><a href="/Portfolio/View.aspx?pf=4">Portfolio 4</a></li><li><a href="/Portfolio/View.aspx?pf=5">Portfolio 5</a></li><li><a href="/Portfolio/View.aspx?pf=6">Portfolio 6</a></li><li><a href="/Portfolio/View.aspx?pf=7">Portfolio 7</a></li><li><a href="/Portfolio/View.aspx?pf=8">Portfolio 8</a></li><li><a href="/Portfolio/View.aspx?pf=9">Portfolio 9</a></li><li><a href="/Portfolio/View.aspx?pf=10">Portfolio 10</a></li></ul>
+			</li>
+			<li><a href="/Portfolio">Value Portfolio</a>
+				<ul>
+					<li><a href="/Portfolio/Value.aspx?pf=0">All Portfolios</a></li>
+					<li><a href="/Portfolio/Value.aspx?pf=1">Portfolio 1</a></li><li><a href="/Portfolio/Value.aspx?pf=2">Portfolio 2</a></li><li><a href="/Portfolio/Value.aspx?pf=3">Portfolio 3</a></li><li><a href="/Portfolio/Value.aspx?pf=4">Portfolio 4</a></li><li><a href="/Portfolio/Value.aspx?pf=5">Portfolio 5</a></li><li><a href="/Portfolio/Value.aspx?pf=6">Portfolio 6</a></li><li><a href="/Portfolio/Value.aspx?pf=7">Portfolio 7</a></li><li><a href="/Portfolio/Value.aspx?pf=8">Portfolio 8</a></li><li><a href="/Portfolio/Value.aspx?pf=9">Portfolio 9</a></li><li><a href="/Portfolio/Value.aspx?pf=10">Portfolio 10</a></li>
+				</ul>
+			</li>
+			<li><a href="/Portfolio">Edit Portfolio</a>
+				<ul><li><a href="/Portfolio/Edit.aspx?pf=1">Portfolio 1</a></li><li><a href="/Portfolio/Edit.aspx?pf=2">Portfolio 2</a></li><li><a href="/Portfolio/Edit.aspx?pf=3">Portfolio 3</a></li><li><a href="/Portfolio/Edit.aspx?pf=4">Portfolio 4</a></li><li><a href="/Portfolio/Edit.aspx?pf=5">Portfolio 5</a></li><li><a href="/Portfolio/Edit.aspx?pf=6">Portfolio 6</a></li><li><a href="/Portfolio/Edit.aspx?pf=7">Portfolio 7</a></li><li><a href="/Portfolio/Edit.aspx?pf=8">Portfolio 8</a></li><li><a href="/Portfolio/Edit.aspx?pf=9">Portfolio 9</a></li><li><a href="/Portfolio/Edit.aspx?pf=10">Portfolio 10</a></li></ul>
+			</li>
+			<li><a href="/Portfolio">Chart Portfolio</a>
+				<ul><li><a href="/Chart/Advanced.aspx?pf=1">Portfolio 1</a></li><li><a href="/Chart/Advanced.aspx?pf=2">Portfolio 2</a></li><li><a href="/Chart/Advanced.aspx?pf=3">Portfolio 3</a></li><li><a href="/Chart/Advanced.aspx?pf=4">Portfolio 4</a></li><li><a href="/Chart/Advanced.aspx?pf=5">Portfolio 5</a></li><li><a href="/Chart/Advanced.aspx?pf=6">Portfolio 6</a></li><li><a href="/Chart/Advanced.aspx?pf=7">Portfolio 7</a></li><li><a href="/Chart/Advanced.aspx?pf=8">Portfolio 8</a></li><li><a href="/Chart/Advanced.aspx?pf=9">Portfolio 9</a></li><li><a href="/Chart/Advanced.aspx?pf=10">Portfolio 10</a></li></ul>
+			</li>
+			<li><a href="/Portfolio/News.aspx">View Portfolio News</a></li>
+			<li><a href="/Portfolio/Dailysumm.aspx">Daily Summary</a></li>
+			<li><a href="/Help/Portfolio.aspx?menu=yes">Portfolio Help</a></li>
+		</ul>
+    </li>
+    <li>
+		<a href="/Analytics">Analytics</a>
+		<ul>
+			<li><a href="/Analytics/ExStats.aspx">Exchange Statistics</a></li>
+			<li><a href="/Analytics/MostActive.aspx">Most Active</a></li>
+			<li><a href="/Analytics/BlockTrades.aspx">Block Trades</a></li>
+			<li><a href="/Analytics/BrokerTrades.aspx">Broker Trades</a></li>
+			<li><a href="/Analytics/Halts.aspx">Halted Stocks</a></li>
+			<li><a href="/Analytics/Dividends.aspx">Dividends</a></li>
+			<li><a href="/Analytics/Participants.aspx">Participants</a></li>
+			<li><a href="/Analytics/SearchComp.aspx">Companies</a></li>
+			<li><a href="/Quote/Trades.aspx">Trade Workstation</a></li>
+			<li><a href="/Analytics/Picker.aspx">Company Picker</a></li>
+			<li><a href="/Analytics/Shorts.aspx">Short Positions</a></li>
+			<li><a href="/Analytics/Brokers.aspx">Broker Codes</a></li>
+			<li><a href="/Help/Analytics.aspx">Analytics Help</a></li>
+		</ul>
+    </li>
+    <li>
+		<a href="/Fund">Mutual Funds</a>
+		<ul>
+			<li><a href="/Fund/Search.aspx">Mutual Fund Search</a></li>
+			<li><a href="/Fund/Targeted.aspx">Targeted Holder Search</a></li>
+			<li><a href="/News/Sedar.aspx?searchform=m">SEDAR Fund Search</a></li>
+			<li><a href="/Help/Funds.aspx?menu=yes">Mutual Fund Help</a></li>
+		</ul>
+    </li>
+</ul>
+
+</div>
+
+
+
+		</div>
+	</div>
+
+
+	<div class="MPpowerbar" style="float:left; width:100%;">
+
 	
-	return true;
-}
-       
-        
+		<div style="float:left;">
 
-// -->
-</script>
-</head><body leftmargin="18" topmargin="0" marginheight="0" marginwidth="0" onload="if (typeof(document.frmMenu) == &quot;object&quot;){if (typeof(document.frmMenu.symbol) == &quot;object&quot;){document.frmMenu.symbol.setActive();}}"><script language="JavaScript">
-var urleditpf = "/portfo/portfo_manage_create.aspx";
-var urlshorts = "/Analytics/Shorts.aspx";
-var urlhalts = "/Analytics/Halts.aspx";
-var urlbrokers = "/Analytics/Brokers.aspx";
-var urldiv = "/Analytics/Dividends.aspx";
-var urlcandeal = "/Quote/Candeal.aspx";
-var urlvalue = "/Portfolio/Value.aspx";
-var urlparticipants = "/Analytics/Participants.aspx";
-var urlpfnews = "/Portfolio/News.aspx";
-var urlpfsumm = "/Portfolio/Dailysumm.aspx";
-var urlnewssearch = "/News/Search.aspx";
-var urlsymsearch = "/Quote/Search.aspx";
-var urlcompsearch = "/Analytics/SearchComp.aspx";
-var urlsedarsearch = "/News/Sedar.aspx";
-var urlsedaralerts = "/News/SedarAlerts.aspx";
-var urlchartyear = "/Chart/Year.aspx";
-var urlchartadvanced = "/Chart/Advanced.aspx";
-var urlchartjavaintra = "/Chart/JavaIntra.aspx";
-var urlchartjavahist = "/Chart/JavaHist.aspx";
-var urlfundsearch = "/Fund/Search.aspx";
-var urlfundtargeted = "/Fund/Targeted.aspx";
-var urlfundsedar = "/News/Sedar.aspx";
-var urlstreaming = "/Quote/Streaming.aspx";
-var urlwebquery = "/Quote/WebQuery.aspx";
+			<div id="Panel2" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'GoButton2')">
+	
+					<div class="MPpowercell" style="font-size:11px; text-align:right; padding-left:10px;"><div>Enter Symbol<br>or Name</div></div>
+					<div class="MPpowercell"><div><input name="ctl00$TextSymbol2" type="text" maxlength="30" size="15" id="TextSymbol2" tabindex="1"></div></div>
+					<div class="MPpowercell">
+						<div>
+						<input id="RadioUS2" type="radio" name="ctl00$RadioRegion2" value="RadioUS2" checked="checked" tabindex="3"> USA
+						<br>
+						<input id="RadioCanada2" type="radio" name="ctl00$RadioRegion2" value="RadioCanada2" tabindex="3"> CA
+						</div>
+					</div>
+					<div class="MPpowercell">
+						<div>
+						<input id="CheckQuote2" type="checkbox" name="ctl00$CheckQuote2" checked="checked" tabindex="4"><label for="CheckQuote2">Quote</label>
+						<br>
+						<input id="CheckChart2" type="checkbox" name="ctl00$CheckChart2" tabindex="7"><label for="CheckChart2">Chart</label>
+						</div>
+					</div>
+					<div class="MPpowercell">
+						<div>
+						<input id="CheckNews2" type="checkbox" name="ctl00$CheckNews2" checked="checked" tabindex="5"><label for="CheckNews2">News</label>
+						<br>
+						<input id="CheckCloses2" type="checkbox" name="ctl00$CheckCloses2" tabindex="8"><label for="CheckCloses2">Closes</label>
+						</div>
+					</div>
+					<div class="MPpowercell">
+						<div>
+						<input id="CheckDepth2" type="checkbox" name="ctl00$CheckDepth2" tabindex="6"><label for="CheckDepth2">Depth</label>
+						<br>
+						<input type="checkbox" style="visibility:hidden;">
+						</div>
+					</div>
+					<div class="MPpowercell"><div><input type="image" name="ctl00$GoButton2" id="GoButton2" tabindex="9" class="sprite go_button" src="../App_Themes/Stockwatch40/Images/spacer.png" alt="Get Quote" style="border-style:None;"></div></div>
+				
+</div>
 
-fwLoadMenus(
-		/*
-		NaN,
-NaN,
-0,' ',0,' ',0,' ',0,' ',0,' ',0,' ',0,' ',0,' ',0,' ',0,' ',0,
-0, 
-*/
-0,0,0,'',0,'',0,'',0,'',0,'',0,'',0,'',0,'',0,'',0,'',0,1, "www.stockwatch.com", "off",
-"", "aspx");
+			
 
-	</script><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="100%"><div id="menu"><a name="top"></a><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr height="14"><td rowspan="3"><a href="/default.aspx"><img src="/images/sw_logo_lg.gif" width="172" height="59" alt="Stockwatch" border="0"></a></td><td rowspan="3" colspan="1" width="100%"><img src="/images/spacer.gif" width="1" height="14" border="0"></td><td colspan="1" class="menu"><img src="/images/spacer.gif" width="1" height="14" border="0"></td></tr><tr height="22" class="black"><td colspan="1" align="right"><table height="22" border="0" cellspacing="0" cellpadding="0"><tbody><tr class="black" height="22"><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" href="http://mobile.stockwatch.com">Mobile</a></td><td class="global">|</td><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" href="/oldsite/oldsite_login.aspx">Old&nbsp;Site</a></td><td class="global">|</td><td class="global"><a class="global" href="/default.aspx">Home</a></td><td class="global">|</td><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" style="color:Yellow;font-weight:bolder;" href="/daily/default.aspx">Daily</a></td><td class="global">|</td><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" href="/Help/Products.aspx">Products</a></td><td class="global">|</td><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" href="/Help/Help.aspx">Help</a></td><td class="global">|</td><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" href="/User/Contact.aspx">Contact&nbsp;Us</a></td><td class="global">|</td><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" href="/User/Status.aspx">Your&nbsp;Account</a></td><td class="global">|</td><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" href="/System/Status.aspx">System&nbsp;Status</a></td></tr></tbody></table></td></tr><tr height="22"><td colspan="1" align="right" style="font-family:Arial, Helvetica, sans-serif; font-size: 13px; padding-left:5px; padding-right:5px;" bgcolor="#FFFF00"><nobr><a href="/User/Subscribe.aspx"><font color="#BB0000"><b>Click here for a free 30-day trial subscription to Stockwatch</b></font></a></nobr></td></tr></tbody></table><table width="100%" height="21" border="0" cellpadding="0" cellspacing="0"><tbody><tr class="red"><td width="102" align="left"><img src="/images/sw_logo_red_lg.gif" width="102" height="20" border="0"></td><td width="5" height="21"></td><td width="100%" height="21" align="left"><img src="/images/spacer.gif" width="3" height="1" border="0"><span class="red"><a class="breadcrumb" href="/default.aspx">Home</a></span></td><td width="225"><table width="225" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><span class="todaydate">08:55:17&nbsp;EST&nbsp;Sat 07 Dec 2013</span><img src="/images/spacer.gif" width="6" height="1" border="0"></td></tr></tbody></table></td><td width="3" height="21"></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="637"><table cellpadding="0" cellspacing="0" width="637" style="border-width: 1px; border-style: solid; border-color:Black;"><tbody><tr><td><table width="637" border="0" style="height:26px;"><tbody><tr><td align="center"><a class="globalmenu" href="/Quote/Default.aspx" onmouseout="FW_startTimeout();HCG_MouseOut();"><span onmouseover="window.FW_showMenu(window.fw_menu_0,18,105)">Quotes</span></a><img src="/images/marrow.gif" style="border-style:none;vertical-align:middle;"></td><td align="center"><a class="globalmenu" href="/charts/charts_default.aspx" onmouseout="FW_startTimeout();HCG_MouseOut();"><span onmouseover="window.FW_showMenu(window.fw_menu_1,93,105)">Charts</span></a><img src="/images/marrow.gif" style="border-style:none;vertical-align:middle;"></td><td align="center"><a class="globalmenu" href="/News/Default.aspx" onmouseout="FW_startTimeout();HCG_MouseOut();"><span onmouseover="window.FW_showMenu(window.fw_menu_2,169,105)">News</span></a><img src="/images/marrow.gif" style="border-style:none;vertical-align:middle;"></td><td align="center"><a class="globalmenu" href="/Quote/IndexDefault.aspx" onmouseout="FW_startTimeout();HCG_MouseOut();"><span onmouseover="window.FW_showMenu(window.fw_menu_3,241,105)">Indexes</span></a><img src="/images/marrow.gif" style="border-style:none;vertical-align:middle;"></td><td align="center"><a class="globalmenu" href="/Portfolio/Default.aspx" onmouseout="FW_startTimeout();HCG_MouseOut();"><span onmouseover="window.FW_showMenu(window.fw_menu_4,328,105)">Portfolio</span></a><img src="/images/marrow.gif" style="border-style:none;vertical-align:middle;"></td><td align="center"><a class="globalmenu" href="/Analytics/Default.aspx" onmouseout="FW_startTimeout();HCG_MouseOut();"><span onmouseover="window.FW_showMenu(window.fw_menu_5,420,105)">Analytics</span></a><img src="/images/marrow.gif" style="border-style:none;vertical-align:middle;"></td><td align="center"><a class="globalmenu" href="/Fund/Default.aspx" onmouseout="FW_startTimeout();HCG_MouseOut();"><span onmouseover="window.FW_showMenu(window.fw_menu_6,517,105)">Mutual Funds</span></a><img src="/images/marrow.gif" style="border-style:none;vertical-align:middle;"></td></tr></tbody></table></td></tr></tbody></table></td><td width="100%" rowspan="2" background="/images/textureX.gif"><img src="/images/spacer.gif" width="1" height="1" border="0"></td></tr></tbody></table><table border="0" cellspacing="0" cellpadding="0" background="/images/textureX.gif"><tbody><tr><form method="post" name="frmMenu" onkeypress="return IEKeyPress()" action="/Quote/Detail.aspx"></form><input type="hidden" name="source"><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr class="headtwo"><td colspan="8" class="menufive"><img src="/images/spacer.gif" height="1" border="0"></td></tr><tr><td rowspan="2" style="padding-left: 10px; padding-right: 10px; white-space: nowrap;" align="right" class="enter">Enter Symbol<br>or Name</td><td rowspan="2" class="menufiveleft" style="padding-right: 10px; white-space: nowrap;"><input type="text" name="symbol" size="15" tabindex="2" maxlength="30" value=""></td><td class="menufivecenter"><span class="radio"><input type="radio" name="region" value="U" tabindex="3" checked=""></span></td><td class="menufiveleft" style="padding-right: 10px;">USA</td><td class="menufiveleft" style="padding-right: 10px; white-space: nowrap;"><span class="radio"><input type="checkbox" name="price" value="yes" tabindex="4" checked=""></span><span class="indent">Quote</span></td><td class="menufiveleft" style="padding-right: 10px; white-space: nowrap;"><nowrap><span class="radio"><input type="checkbox" name="news" value="yes" tabindex="5" checked=""></span><span class="indent">News</span></nowrap></td><td class="menufiveleft" style="padding-right: 10px; white-space: nowrap;"><span class="radio"><input type="checkbox" name="depth" value="yes" tabindex="5"></span><span class="indent">Depth</span></td><td rowspan="2" class="menufivecenter"><input border="0" onclick="return HandleClick(this)" src="/images/go_button.gif" name="Quote" type="image" height="17" alt="Quote"></td></tr><tr class="headtwo"><td class="menufivecenter" align="center"><span class="radio"><input type="radio" name="region" value="C"></span></td><td class="menufiveleft" style="padding-right: 10px;">Canada</td><td class="menufiveleft" style="padding-right: 10px; white-space: nowrap;"><span class="radio"><input type="checkbox" name="chart" value="yes"></span><span class="indent">Chart</span></td><td class="menufiveleft" style="padding-right: 10px; white-space: nowrap;"><span class="radio"><input type="checkbox" name="closes" value="yes"></span><span class="indent">Closes</span></td><td></td></tr><tr><td colspan="7"></td></tr></tbody></table></td><td width="100%" class="menufiveleft" align="left" background="/images/textureX.gif" style="FONT-SIZE: 11px;"><p align="right"><nobr><a style="FONT-SIZE: 11px;" href="https://secure.stockwatch.com/Login.aspx">Secure server login</a></nobr><br><nobr><a style="FONT-SIZE: 11px;" href="/utilit/utilit_password.aspx">Forgot password?</a></nobr><br><nobr><a style="FONT-SIZE: 11px;" href="/utilit/utilit_answer.aspx#t1">Trouble logging in?</a></nobr></p></td><td><table border="0" cellspacing="0" cellpadding="0" height="100%"><tbody><tr class="headtwo"><td colspan="3" class="menufive"><img src="/images/spacer.gif" height="1" border="0"></td></tr><tr><td class="menufiveleft"><nowrap><span class="indent">Login ID:</span></nowrap></td><td class="regular-left" colspan="2"><nowrap><span class="input"><input type="text" size="10" maxlength="20" name="username" tabindex="6"></span><input type="checkbox" name="remember" value="yes" checked=""><span class="regular">Save</span></nowrap></td></tr><tr><td class="menufiveleft"><span class="indent">Password:</span></td><td class="menufiveleft"><span class="input"><input type="password" size="10" maxlength="20" name="password" tabindex="7" autocomplete="off"></span></td><td class="menufivecenter"><input border="0" onclick="return HandleClick(this)" src="/images/login_button.gif" name="Login" type="image" height="17" alt="Login" tabindex="8"></td></tr><tr><td colspan="3"></td></tr></tbody></table></td></tr></tbody></table><table width="699" border="0"><tbody><tr><td width="669" height="2"><img src="/images/spacer.gif" width="1" height="2" border="0"></td></tr></tbody></table></div></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top" width="100%"><div id="wrapper"><div id="content" class="content"><table width="100%" cellspacing="0" cellpadding="0" border="0" valign="top"><tbody><tr><td width="100%" valign="top" align="left"><img src="/images/spacer.gif" width="1" height="20" border="0"><h2>General Information</h2><p>Canada Stockwatch (Stockwatch) respects your right to privacy. The
+		</div>
+
+
+
+	
+		<div style="float:right;">
+
+<div id="LoginPanel">
+	
+
+	
+
+	<div id="LoginPanelLoggedOut" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'Login')">
+		
+		<div class="MPpowercell" style="padding-right: 10px; font-size:11px; text-align:right;">
+			
+				<a href="https://secure.stockwatch.com/Login.aspx">Secure&nbsp;server&nbsp;login</a>
+				<br><a href="/Help/Contact.aspx#password">Forgot&nbsp;password?</a>
+				<br><a href="/Help/Help.aspx#t1">Trouble&nbsp;logging&nbsp;in?</a>
+			
+		</div>
+
+		<div class="MPpowercell" style="text-align:right; padding-right:0px;">
+			<div><span style="padding-bottom:15px;">Login ID:<br></span>Password:</div>
+		</div>
+
+		<div class="MPpowercell">
+			<div>
+			<input name="ctl00$PowerUserName" type="text" maxlength="20" size="10" id="PowerUserName" tabindex="10">
+			<input id="PowerRememberMe" type="checkbox" name="ctl00$PowerRememberMe" checked="checked" tabindex="13">Save
+			<br>
+			<input name="ctl00$PowerPassword" type="password" maxlength="20" size="10" id="PowerPassword" tabindex="11">
+			<input type="image" name="ctl00$Login" id="Login" tabindex="12" class="sprite login_button" src="../App_Themes/Stockwatch40/Images/spacer.png" alt="Login" style="border-style:None;height:17px;">
+			</div>
+		</div>
+	
+	</div>
+
+
+</div>
+
+		</div>
+
+	</div>
+
+	<div style="clear:both; height:8px;">
+	</div>
+
+</header>
+
+
+<div id="body">
+
+	<input type="hidden" name="ctl00$setfocus" id="setfocus">
+	<input type="hidden" name="ctl00$scrolly" id="scrolly">
+
+	
+	
+	
+
+	
+	
+	
+
+    
+
+
+	<h2>General Information</h2>
+	<p>Canada Stockwatch (Stockwatch) respects your right to privacy. The
       following guidelines dictate the manner in which Stockwatch protects the
       privacy of its users and by accessing, browsing or using this web site, you
       acknowledge that you have read, understand and agree with the provisions
-      contained herein.</p><h2>Login and Log Out</h2><p>We ask that you log-on to the Stockwatch site so that we can give you
+      contained herein.</p>
+	<h2>Login and Log Out</h2>
+	<p>We ask that you log-on to the Stockwatch site so that we can give you
       access to the pages and services to which you are entitled according to your
       subscription. Additionally, for privacy and security reasons, we suggest that
       you log-out after each session as this will ensure that anyone who uses the
       computer after you cannot use your subscription and gain access to your
       portfolio data or use features of the site that would cause you to incur
-      additional fees.</p><a class="" name="privacy"></a><h2>Consumer Privacy</h2><p>Stockwatch respects the confidential nature of personal information such
+      additional fees.</p>
+	<a name="privacy"></a>
+	<h2>Consumer Privacy</h2>
+	<p>Stockwatch respects the confidential nature of personal information such
       as your name, e-mail and postal addresses, and telephone numbers. Because we
       must collect certain information from consumers to provide our assorted
       services, we have a fiduciary responsibility to protect that information from
@@ -130,7 +382,9 @@ NaN,
       requested that we do so, we will never release their personal information to
       third parties for marketing purposes. We will, however, disclose certain
       information to third parties when it is necessary for the processing of
-      Stockwatch's service, or if such release is required by law.</p><h2>Web Site Administration</h2><p>When you visit the Stockwatch web site, some information may be
+      Stockwatch's service, or if such release is required by law.</p>
+	<h2>Web Site Administration</h2>
+	<p>When you visit the Stockwatch web site, some information may be
       collected automatically by the software that operates our web site (i.e. the
       site from which you linked, your Internet Service Provider, the time and date
       of your visit). Our servers do not track, collect, or distribute personal
@@ -138,8 +392,67 @@ NaN,
       technical engineers to compile aggregate statistics about the total number of
       daily visitors to our site, the pages most frequently visited, and how long
       people stay at each page. None of the information that we report allows for the
-      personal identification of individuals.</p><h2>Links</h2><p>The Stockwatch site contains links to many other web sites; however, we
+      personal identification of individuals.</p>
+	<h2>Links</h2>
+	<p>The Stockwatch site contains links to many other web sites; however, we
       cannot be responsible for the privacy practices or the content of such web
-      sites.</p></td></tr></tbody></table></div></div></td><td class="skyscraperAd"></td></tr><tr><td colspan="2" width="100%"><div id="footer"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr width="100%"><td width="100%" colspan="2" align="center"><img src="/images/spacer.gif" width="1" height="14" border="0"><nobr><a href="#top" class="plainfooter"><img src="/images/icon_top.gif" width="22" height="16" border="0">Top</a>&nbsp;</nobr></td><td width="50" align="right">&nbsp;</td></tr><tr width="100%" height="20"><td colspan="3">&nbsp;</td></tr></tbody></table><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr height="22" class="black"><td width="158" class="global"></td><td width="100%"><img src="/images/spacer.gif" width="1" height="20" border="0"></td><td width="525" colspan="3" align="right"><table height="22" border="0" cellspacing="0" cellpadding="0"><tbody><tr class="black" height="22"><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" href="http://mobile.stockwatch.com">Mobile</a></td><td class="global">|</td><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" href="/oldsite/oldsite_login.aspx">Old&nbsp;Site</a></td><td class="global">|</td><td class="global"><a class="global" href="/default.aspx">Home</a></td><td class="global">|</td><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" style="color:Yellow;font-weight:bolder;" href="/daily/default.aspx">Daily</a></td><td class="global">|</td><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" href="/Help/Products.aspx">Products</a></td><td class="global">|</td><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" href="/Help/Help.aspx">Help</a></td><td class="global">|</td><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" href="/User/Contact.aspx">Contact&nbsp;Us</a></td><td class="global">|</td><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" href="/User/Status.aspx">Your&nbsp;Account</a></td><td class="global">|</td><td class="global" style="padding-left:5px; padding-right:5px;"><a class="global" href="/System/Status.aspx">System&nbsp;Status</a></td></tr></tbody></table></td></tr><tr><td colspan="4" class="small">©&nbsp;2013&nbsp;<a class="copyright" href="http://www.stockwatch.com">Canjex Publishing Ltd.</a> "Stockwatch" is a registered trademark of Canjex Publishing Ltd. All rights reserved.
-			<a class="copyright" href="/utilit/utilit_copyri.aspx">Terms of Use</a>,&nbsp;<a class="copyright" href="/utilit/utilit_privac.aspx">Privacy Policy</a>&nbsp;v2</td></tr><tr><td colspan="5"><img src="/images/spacer.gif" width="1" height="14" alt="" border="0"></td></tr></tbody></table></div></td></tr></tbody></table>
+      sites.</p>
+
+
+
+
+
+</div>
+
+<footer>
+    
+	<p></p>
+	<div id="divNew2" style="clear:both;">
+		<div class="MPtopmenu" style="text-align:right;">
+			<a href="http://mobile.stockwatch.com">Mobile</a>		  	
+			<a id="OldsiteLinkControl2" href="https://secure.stockwatch.com/Old/Login.aspx">Old&nbsp;Site</a>
+			<a href="/">Home</a>
+			<a id="HyperLink5" href="../News/Daily.aspx" style="color:Yellow;font-weight:900;">Daily</a>
+			<a href="/Help/Products.aspx">Products</a>  	
+			<a href="/Help/Help.aspx">Help</a>
+			<a href="/Help/Contact.aspx">Contact&nbsp;Us</a>	
+			<a href="/User/Status.aspx">Your&nbsp;Account</a>
+			<a href="/User/SystemStatus.aspx">System&nbsp;Status</a>
+		</div>
+		<div class="MPbottom">
+			©&nbsp;2014
+			<a href="http://www.stockwatch.com">Canjex Publishing Ltd.</a> All rights reserved. "Stockwatch" is a registered trademark of Canjex Publishing Ltd.
+			<a href="/Help/Terms.aspx">Terms of Use</a>, 
+			<a href="/Help/Privacy.aspx">Privacy Policy</a>
+		</div>	
+	</div>
+
+	<div>
+		<span id="FooterTraceControl"></span>
+	</div>
+
+</footer>
+
+    
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['ctl01'];
+if (!theForm) {
+    theForm = document.ctl01;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=JPW7jLM9qSgLbMYlO9JM7uIx0NT-V5o9AKl9SxQqgzfWw3zjJbAERpQ67vuOKLvFUgoM193OMRGYY-73yCqNt69z3L01&amp;t=635295459419391330" type="text/javascript"></script>
+</form>
+
+
 </body></html>
