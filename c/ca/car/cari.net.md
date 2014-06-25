@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cari.net privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219100433id_/http%3A//www.cari.net/support-center/legal-and-policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cari.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625180648id_/http%3A//www.cari.net/support-center/legal-and-policies/privacy.html) for the most accurate reproduction.*
 
 # CARI.net Privacy Policy | CARI.net
 
