@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindshareworld.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103060212id_/http%3A//www.mindshareworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindshareworld.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625171136id_/http%3A//mindshareworld.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Mindshare - The Global Media Network - Privacy
+# Privacy Policy | Mindshare World
 
 [Mindshare Media UK Ltd] ("Mindshare") is a part of GroupM Worldwide, Inc., and has adopted these privacy principles for the website located at mindshareworld.com.  This Privacy Policy applies only to the website on which it appears, and not to any other Mindshare, GroupM or other website or service.  This Privacy Policy also provides information about activities we undertake across internet websites on behalf of Mindshare clients. 
 
@@ -20,10 +20,11 @@ Non-Personal Information Collected by our Services
 
 We do collect non-personally identifiable information ("Non-PII) to identify computers that we have interacted with before.  For instance, by using Non-PII, we may be able to identify a computer that has previously seen an advertisement we launched on behalf of a client.  In the context of Non-PII, whenever we refer to ‘you' or ‘yours,' please remember that we may be referring to a computer and not an identifiable person since we generally do not know who is using a computer at any particular time.
 
-Through the collection and use of Non-PII, we offer a range of Services to allow advertisers to show you the most useful and relevant online advertisements across numerous websites and to prevent excessive or repeated deliveries of the same advertisements.  For example, if we think that a user is interested in apparel options, then our Services may help our clients deliver interest-based online advertisements to you about a particular type of apparel. You can learn more about such advertising practices by visiting www.iab.net/privacymatters.
+Through the collection and use of Non-PII, we offer a range of Services to allow advertisers to show you the most useful and relevant online advertisements across numerous websites and to prevent excessive or repeated deliveries of the same advertisements.  For example, if we think that a user is interested in apparel options, then our Services may help our clients deliver interest-based online advertisements to you about a particular type of apparel. You can learn more about such advertising practices by visiting [www.iab.net/privacymatters](http://www.iab.net/privacymatters).
 
-We may collect Non-PII regarding your web browsing, usage or interactions with advertisements we manage on behalf of our clients.  We do this to better customize the sort of advertisements you see on various websites and for other purposes such as research and analysis.  Non-PII may include information such as the type of Internet browser used by an online user, the type of computer operating system used, the computer's Internet protocol ("IP") address, the domain name of the websites visited before and after viewing an advertisement, as well as information related to websites and web pages a user is viewing when an advertisement is shown.    
-We collect Non-PII through the use of cookies, pixels and related technologies.    A cookie is a file on your browser that uniquely identifies your browser and computer.  A pixel is a line of code which is used by a website or third party t to assign online activities to a computer or browser.  The use of a pixel allows websites and us to record, for example, that a user has visited a particular web page.  Additional Non-PII from an earlier period or interaction may be included in the pixel.  Though Non-PII does not personally identify anyone, we are still committed to giving users the opportunity to exercise choice about the Non-PII we collect.   See Section titled: 
+We may collect Non-PII regarding your web browsing, usage or interactions with advertisements we manage on behalf of our clients.  We do this to better customize the sort of advertisements you see on various websites and for other purposes such as research and analysis.  Non-PII may include information such as the type of Internet browser used by an online user, the type of computer operating system used, the computer's Internet protocol ("IP") address, the domain name of the websites visited before and after viewing an advertisement, as well as information related to websites and web pages a user is viewing when an advertisement is shown.  
+
+We collect Non-PII through the use of cookies, pixels and related technologies.    A cookie is a file on your browser that uniquely identifies your browser and computer.  A pixel is a line of code which is used by a website or third party t to assign online activities to a computer or browser.  The use of a pixel allows websites and us to record, for example, that a user has visited a particular web page.  Additional Non-PII from an earlier period or interaction may be included in the pixel.  Though Non-PII does not personally identify anyone, we are still committed to giving users the opportunity to exercise choice about the Non-PII we collect.   See Section titled:
 
 User Choice - Opting Out of Receiving Cookies
 
@@ -31,12 +32,11 @@ Europe
 
 Please note - in some countries an IP address is considered PII by applicable law.  If we conduct business in such countries and we know that you are located in such a country, we will treat your IP address as PII.
 
-In such countries we interpose a "black box" which is operated by an independent third party and which separates the user's IP address from other data we collect. If your browser does not accept cookies or if the opt-out-cookie is set, no tracking takes place. 
+In such countries we interpose a "black box" which is operated by an independent third party and which separates the user's IP address from other data we collect. If your browser does not accept cookies or if the opt-out-cookie is set, no tracking takes place.
 
-targ.ad 2.0 is a service of ours which places a cookie on your computer for the purpose of interest-based marketing as described above.  This service is primarily used Europe.  The service has been certified with the Data Privacy Seal issued by the Independent Data Protection Authority of the Federal State Schleswig-Holstein in Germany in March 2010.  You may opt-out of the targ.ad 2.0 cookie by following the instructions in the Section titled: User Choice - Opting Out of Receiving Cookies.
+targ.ad 2.0 is a service of ours which places a cookie on your computer for the purpose of interest-based marketing as described above.  This service is primarily used Europe.  The service has been certified with the Data Privacy Seal issued by the Independent Data Protection Authority of the Federal State Schleswig-Holstein in Germany in March 2010.  
 
-  
-Disclosure of Information to Third Parties 
+Disclosure of Information to Third Parties
 
 We do not collect PII via our client's advertisements, and therefore, we do not sell, rent, or share PII collected on our or other websites to non-affiliated third parties.  If you affirmatively and deliberately provide PII via one of our client's advertisements who was identified to you at the time of collection, then that PII will be provided to such client, and such PII shall be subject to that client's privacy policy.
 
@@ -46,15 +46,9 @@ We may disclose a user's Non-PII to third parties when we reasonably believe we 
 
 User Choice - Opting Out of Receiving Cookies
 
-We use technology, which includes cookies, in the delivery of our Services.  We believe that the use of these tools enables us and our advertiser clients to provide users with a more meaningful web experience. 
+We use technology, which includes cookies, in the delivery of our Services.  We believe that the use of these tools enables us and our advertiser clients to provide users with a more meaningful web experience.
 
 At all times, you may adjust your computer's web browser settings to refuse all cookies.  However, by doing so, you may not be able to use certain features on the websites you visit or take full advantage of all the website offerings and interest-based advertising.  You can remove cookies by following directions provided in your Internet browser's "help" file.
-
-You may also choose to opt out of us (Mindshare) collecting Non-PII in connection with the advertisements we manage on behalf of our clients.  Of course, doing this means that you would no longer receive customized advertisements delivered through our Mindshare proprietary technology.  To opt-out of our Non-PII collection, click here : 
-
-Despite opting-out of our customized advertisements by following the process above, you may still receive tailored advertisements as a result of Non-PII collected (using cookies) by other parties not affiliated with, or controlled by us.  To opt-out of non-PII collection for tailored online advertising from numerous other providers, you can visit the website of the Network Advertising Initiative  to learn more and to make choices accordingly.
-
-Our opt-out cookies are programmed to expire 10 years after they are initially issued.  However, if you buy a new computer, upgrade or change web browsers or take any action which results in the deletion of this "opt out" cookie, you will need to perform this opt-out process again.  In order for the opt-out to work, your browser must be set to accept third party cookies.
 
 Data Retention
 
@@ -66,7 +60,7 @@ We follow generally accepted industry standards to protect against the unauthori
 
 Change to this Privacy Policy
 
-Please note that because of the changing nature of privacy laws, user needs, and our business, we may modify this Privacy Policy from time to time by providing advance notice on our website before implementing such modifications.  Accordingly, since we want to help you clearly understand our Privacy Policy, and any pertinent revisions, we encourage you to review our Privacy Policy periodically to become aware of any changes that may have occurred. 
+Please note that because of the changing nature of privacy laws, user needs, and our business, we may modify this Privacy Policy from time to time by providing advance notice on our website before implementing such modifications.  Accordingly, since we want to help you clearly understand our Privacy Policy, and any pertinent revisions, we encourage you to review our Privacy Policy periodically to become aware of any changes that may have occurred.
 
 Information We Collect Through Your Correspondence on this Website
 
@@ -74,15 +68,15 @@ If you provide us information through our "contact us" link on this website, sig
 
 Mindshare may use cookies to tailor your experience on our website (this website) and to help provide a better service to you.  You may opt out of cookies used on our websites through the instructions provided above.
 
-If you would like us to remove your information from our marketing e-mails or newsletters, please contact us at privacy@mindshareworld.com.  Be sure to include your name, username and clear instructions regarding any change to your PII including email address or if you would like us to unsubscribe you from our database. 
+If you would like us to remove your information from our marketing e-mails or newsletters, please contact us at [privacy@mindshareworld.com](mailto:privacy@mindshareworld.com).  Be sure to include your name, username and clear instructions regarding any change to your PII including email address or if you would like us to unsubscribe you from our database. 
 
 Children's Privacy
 
-We are sensitive to the issue of children's privacy.  Therefore, our website and Services are neither developed for, nor directed at, children.  If you believe your child has provided us with PII, and you would like to have the information removed, please contact us at privacy@mindshareworld.com.
+We are sensitive to the issue of children's privacy.  Therefore, our website and Services are neither developed for, nor directed at, children.  If you believe your child has provided us with PII, and you would like to have the information removed, please contact us at [privacy@mindshareworld.com](mailto:privacy@mindshareworld.com).
 
 Linking to Other Websites
 
-A link from our own website to another website does not imply our endorsement of that website.  We do not control the websites to which we link and assume no responsibility for their content or privacy policies.  Therefore, you should carefully review the privacy policies that apply to any websites you access from our website. 
+A link from our own website to another website does not imply our endorsement of that website.  We do not control the websites to which we link and assume no responsibility for their content or privacy policies.  Therefore, you should carefully review the privacy policies that apply to any websites you access from our website.
 
 Transfer of Data upon Change of Control
 
@@ -94,5 +88,5 @@ Our website and databases are maintained in the United States of America, the Un
 
 Questions or Comments about this Privacy Policy
 
-If you have questions or concerns regarding this statement, you should contact us through email or by mail. You can address your general questions and comments by e-mail to privacy@mindshareworld.com or by mail: GroupM, 498 7th Avenue, 7th Floor, New York, New York 10018, Attn: Privacy Officer.  
+If you have questions or concerns regarding this statement, you should contact us through email or by mail. You can address your general questions and comments by e-mail to [privacy@mindshareworld.com](mailto:privacy@mindshareworld.com) or by mail: GroupM, 498 7th Avenue, 7th Floor, New York, New York 10018, Attn: Privacy Officer.  
 Updated:  September 22 2010
