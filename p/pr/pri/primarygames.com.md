@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220175712id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172935id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PrimaryGames - Play Free Kids Games Online
 
@@ -52,7 +52,7 @@ Genome from Yahoo!: <http://info.yahoo.com/privacy/us/yahoo/adserving/>
 
 Google Adsense: <http://www.google.com/privacy.html>
 
-Mochi Media: <http://www.mochimedia.com/privacy.html>
+CPMStar: <http://www.cpmstar.com/privacyPolicy.html>
 
 Viacom Media Network Tribes: <http://www.viacom.com/privacypolicy/Pages/default.aspx>
 
@@ -69,6 +69,8 @@ Linkshare: <http://www.linkshare.com/legal/privacy/>
 Amazon: <http://www.amazon.com/privacy>
 
 Games Banner Network: <http://gamesbannernet.com/TOS.html>
+
+Driver Digital: <http://www.driverdigital.com/privacy>
 
   
 
