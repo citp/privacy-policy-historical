@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the carrington.edu privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907091532id_/http%3A//carrington.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrington.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073311id_/http%3A//carrington.edu/privacy-policy) for the most accurate reproduction.*
 
-# carrington.edu :: Privacy Policy
+# Privacy Policy | Carrington.edu
 
 ### 1) General.
 
-Carrington Colleges Group, Inc. and its related companies or affiliates ("CCG" or "we") respect the privacy of every individual who visits our websites or responds to our promotions. CCG intends to act reasonably to protect your privacy, but obviously cannot guaranty security against "hackers" or other issues beyond our control. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on CCG websites, unless otherwise posted.
+Carrington Colleges Group, Inc. and its related companies or affiliates (“CCG” or “we”) respect the privacy of every individual who visits our websites or responds to our promotions. CCG intends to act reasonably to protect your privacy, but obviously cannot guaranty security against “hackers” or other issues beyond our control. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on CCG websites, unless otherwise posted.
 
 ### 2) Information Collected From You.
 
@@ -25,6 +25,8 @@ Generally we do not give or sell your information, including your personally ide
   * Law Enforcement. We may report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe may aid a law enforcement investigation into unlawful activity. In addition, we reserve the right to release your information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your information may protect the rights, property, or safety of you or another person.
   * Permitted by Law. We may share your information with others as required by, or permitted by, law. This may include sharing your information with governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine in our sole discretion might be brought against us.
   * Transfers. In the event that CCG, or substantially all of CCG’s assets, are acquired, your Information will be transferred to the acquiring entity. In such a situation, you will be provided with notice that a transfer of your Information is imminent, and you will be given an opportunity to opt-out of the transfer of your information.
+  * Do Not Track Signals. Some web browsers and devices permit you to broadcast a preference that you not be “tracked” online. At this time we do not modify your experience based upon whether such a signal is broadcast.
+  * Behavioral Advertisers. We may participate in behavioral-based advertising. This means that a third party may use technology, such as a cookie on your browser or a web beacon, to identify you on our website so that they can provide advertising about products and services tailored to your interest. That advertising may appear either on our website, or on other websites. If you would like to opt-out of third-party behavioral advertising that collects information on your use of this website, you can do so by visiting the Network Advertising Initiative and the Digital Advertising Alliance.
 
 
 
@@ -48,8 +50,8 @@ If you have any questions regarding this privacy policy or would like to have yo
 
 Should you have other questions or concerns about this privacy policy, contact us at:
 
-Carrington Colleges Group, Inc.   
-27401 Los Altos, Suite 400   
+Carrington Colleges Group, Inc.  
+27401 Los Altos, Suite 400  
 Mission Viejo, California 92691  
 1-877-205-1458  
 web@cc.edu
