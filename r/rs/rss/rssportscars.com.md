@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rssportscars.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211035111id_/http%3A//www.rssportscars.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rssportscars.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070732id_/http%3A//www.rssportscars.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - RSSportsCars.com
+# Privacy Policy - RSsportscars.com
+
+At RSsportscars.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit RSsportscars.com, and how we safeguard your information. We never sell your personal information to third parties.
 
 **What information do we collect?**
 
@@ -8,7 +10,7 @@ We collect information from you when you subscribe to our newsletter or fill out
 
 You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to serve ads based on your prior visits to our website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visit to our site and/or other sites on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
 
 **What do we use your information for?**
 
@@ -27,7 +29,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -45,7 +47,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.rssportscars.com//site/terms-of-use](https://web.archive.org/site/terms-of-use).
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.rssportscars.com/site/terms-of-use](https://web.archive.org/site/terms-of-use).
 
 **Your Consent**
 
@@ -60,4 +62,4 @@ If there are any questions regarding this privacy policy you may contact us at [
 If we decide to change our privacy policy, we will post those changes on this page and update the Privacy Policy modification date below.
 
  _Initial version effective July 12, 2013  
-Last modified on July 27, 2013._
+Last modified on March 18, 2014._
