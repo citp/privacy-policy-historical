@@ -1,0 +1,290 @@
+<!--The following is the downloaded HTML source of the oemscart.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625095321id_/http%3A//www.oemscart.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<html><head>
+		<title>Oems Cart - Privacy Policy</title>
+		<meta name="description" content="">
+		<meta name="keywords" content="Part Number,Manufacturer">
+		<meta name="author" content="Oems Cart">
+		<meta charset="UTF-8">
+		<script src="http://oemscart.com/js/jquery1_8.js"></script>
+		<script src="http://oemscart.com/js/jquery.validate.js"></script>
+		<script>
+			var $m = jQuery.noConflict();
+			$m().ready(function() {
+
+			// validate signup form on keyup and submit
+				$m("#newsletter").validate({
+					rules: {					
+						email: {
+							required: true,
+							email: true,
+						},				
+					},
+					messages: {
+						email: "Provide Email ID to subscribe!!",
+					}
+				});
+			});
+
+			</script>
+	<style type="text/css">
+	#newsletter label.error {
+		color:white;
+		display: inline;
+	}
+	</style>
+
+		<link type="text/css" rel="stylesheet" href="css/main.css">
+		<!-- Bootstrap -->
+        <link href="bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+        <link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+        
+        <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+		<script type="text/javascript" src="js/jquery1_8.js"></script>
+		<script>
+			var $m = jQuery.noConflict();
+			$m().ready(function() {
+
+			// validate signup form on keyup and submit
+				$m("#login").validate({
+					rules: {					
+						email: {required: true, email: true},	
+						password: {required: true, minlength: 5},
+					},
+					messages: {
+						email: {
+								required: "Enter Email ID / password",
+								email: "Please enter valid email id",
+								},	
+						password: {
+								required: "Enter password",
+								minlength: "Enter atleast 5 characters",
+						},
+					}
+				});
+			});
+
+			</script>
+	<style type="text/css">
+		#login label.error 
+		{
+			position: relative;
+			left: -200px;
+			bottom: 25px !important;
+			color: red;
+			display: inline;
+		}
+		
+	</style>
+	</head>
+	<body>
+		<div class="wrapper">
+			<div id="header">
+				<div id="logo">
+					<a href="index.php"><img src="images/logo.jpg"></a>
+				</div>
+				<form id="login" action="actions/userActions.php?feature=Signin" method="POST">
+					<div id="signin">
+																		
+						
+						<input type="text" name="email" placeholder="Email">
+						<input type="password" name="password" placeholder="Password">
+						<input type="submit" class="btn btn-primary" value="Sign In"><br>
+						
+						<a href="sign_up.php">New User Sign Up</a> | 
+						<a href="accounts/recovery.php">Forgot Password</a> 
+												
+					</div>
+				</form>
+			</div>
+		</div>
+		<div class="menu_bar_holder">
+			<div class="wrapper">
+				<div class="menu_bar">
+					<div id="menus" class="category "><div class="subCategory" title="Category"><a href="category.php">Category</a></div>
+					<div class="sub_menu">
+													<a href="category.php?id=39"><div id="subCategories_item">Cables, Wires and Assemblies</div></a>
+													<a href="category.php?id=55"><div id="subCategories_item">Circuit Protection</div></a>
+													<a href="category.php?id=70"><div id="subCategories_item">Connectors and Interconnects</div></a>
+													<a href="category.php?id=89"><div id="subCategories_item">Crystals and Oscillators</div></a>
+													<a href="category.php?id=96"><div id="subCategories_item">Discrete Semiconductor  Products</div></a>
+													<a href="category.php?id=118"><div id="subCategories_item">Enclosures, Racks and cabinets</div></a>
+													<a href="category.php?id=123"><div id="subCategories_item">Fans and Heat sinks</div></a>
+													<a href="category.php?id=129"><div id="subCategories_item">Industrial Controls and Meters</div></a>
+													<a href="category.php?id=139"><div id="subCategories_item">Isolators</div></a>
+													<a href="category.php?id=142"><div id="subCategories_item">Optoelectronics</div></a>
+													<a href="category.php?id=163"><div id="subCategories_item">Passive Components</div></a>
+													<a href="category.php?id=184"><div id="subCategories_item">Power Supply</div></a>
+													<a href="category.php?id=190"><div id="subCategories_item">Relays and Switches</div></a>
+													<a href="category.php?id=214"><div id="subCategories_item">Semiconductors - Integrated Circuits(IC's)</div></a>
+													<a href="category.php?id=259"><div id="subCategories_item">Sensors and Transducers</div></a>
+													<a href="category.php?id=299"><div id="subCategories_item">Transformers</div></a>
+													<a href="category.php?id=308"><div id="subCategories_item">Unclassified</div></a>
+												
+					</div>
+					
+					</div>
+					<a href="manufacturer.php"><div id="menus">Manufacturers</div></a>
+					<a href="obsolete_components.php"><div id="menus">Obsolete Components</div></a>
+					<a href="sample_buy.php"><div id="menus">Sample Buy</div></a>
+					<a href="bom_manager.php"><div id="menus">BOM Manager</div></a>
+					<a href="contact_us.php"><div id="menus">Contact Us</div></a>
+					
+				</div>
+			</div>
+		</div>
+		<div class="wrapper">
+			<div class="mainTabs">
+				<a href="data_sheet.php"><div class="tab ">DataSheet</div></a>
+				<a href="pcn.php"><div class="tab ">PCN</div></a>
+				<a href="rohs.php"><div class="tab ">RoHS</div></a>
+				<a href="inventory.php"><div style="border-right:none;" class="tab ">Inventory</div></a>
+			</div>
+			
+		<div id="wrapper">
+			<div class="aboutUs">
+				<h4><strong>Privacy Policy :</strong></h4><br>
+				<p>Oemscart ("we" or "us") consider protection of your privacy and personal information with great regard. We have framed the privacy policy to inform you about oemscart practices. By visiting and using the oemscart services or registering with the oemscart and creating an account, you acknowledge that you accept the practices and policies outlined in this privacy policy ("Privacy Policy").</p><br>
+				<p>What This Privacy Policy Covers</p><br>
+				<p>This Privacy Policy describes Oemscart's practices with respect to Personal Information and Anonymous Information that we collect when you use oemscart.</p><br>
+				<p>We collect "Personal Information" when you register or request other information from us like names, addresses, e-mail addresses, or phone numbers, as well as other non-public information. This information is used to ensure a quick, efficient flow of products and services to you. Your personal information are never rented, sold or traded to third parties.</p><br>
+				<p>We collect "Anonymous Information" like click-stream data such as referring URL, browser and platform, time of visit, pages visited and searches performed. These data is gathered to help us improve the performance of our website and offer better services to you. We analyze this data to establish trends and help us improve your online experience. Aggregated data may be used to solicit ads from potential advertisers and business partners. This data will be used in strict conformity with our privacy policy.</p><br>
+				<p>We collect and use Personal Information and Anonymous Information as described in this Privacy Policy from users of the oemscart ("users"). By using our services or submitting personal information through the service, you expressly consent to the processing of your personal information according to this privacy policy.</p><br>
+				<h4><strong>Use of Cookies</strong></h4><br>
+				<p>Oemscart website collects Anonymous Information concerning website users through the use of "cookies" in order to provide better customer service. "Cookies" are files that websites place on users' computers to identify the user and enhance the website experience. If you choose not to accept a cookie, you will still be able to use our website.</p><br>
+				<h4><strong>Email Communications from Oemscart</strong></h4><br>
+				<p>We will occasionally send emails to you (i.e., registered users or subscribers) about various products and services that we feel may be of interest to you and/or about site features and changes that we feel you'll want to know about. You can choose not to receive email from oemscart at any time (by using opt out link in provided by us in your email).</p><br>
+				<h4><strong>Security</strong></h4><br>
+				<p>Oemscart will treat all Personal Data in our possession as confidential and use appropriate technology, policies and procedures designed to prevent unauthorized use, access, disclosure, modification, copying or destruction and to maintain the integrity, availability and privacy of Personal Data.</p><br>
+				<p><strong style="color:red;">Note:</strong> We reserve the right to make changes to our privacy policy at any time without prior notification.</p><br>
+			</div>	
+			</div>
+			</div>
+			<!-- <form id="newsletter" action="newsLetter.php?feature=Subscribe" method="POST">
+			<div id="update">
+					<tr>
+						<td>NewsLetter
+						</td>
+					</tr>
+			</div>
+		</form> -->
+		<div id="flootingFooterBar" class="">
+	<div class="wrapper">
+		<div class="footerOpen" id="footerButton">&nbsp;</div>
+	</div>
+	<div id="flootingBg">
+		<div class="wrapper" id="footerWrapper">
+			<div id="options">|</div>
+			<a href="https://www.facebook.com/pages/Oemscart/539281626146214" target="_blank"><div id="options"><img src="images/sm/fb.jpg"></div></a>
+			
+			<a href="https://twitter.com/Oemscart18" target="_blank"><div id="options"><img src="images/sm/twitter.jpg"></div></a>
+			
+			<a href="http://www.pinterest.com/oemscart/" target="_blank"><div id="options"><img src="images/sm/pin.jpg"></div></a>
+			<a href="http://oemscart.tumblr.com/" target="_blank"><div id="options"><img src="images/sm/tumblar.jpg"></div></a>
+			<a href="http://www.stumbleupon.com/stumbler/oemscart" target="_blank"><div id="options"><img src="images/sm/stumble.jpg"></div></a>
+			<div id="options">|</div>
+			<a href="feedback.php"><div id="options">Feedback</div></a>
+			<div id="options">|</div>
+			<div id="options" class="rightNewsLetter">
+				
+				<form id="newsletter" action="newsLetter.php?feature=Subscribe" method="POST">
+					NewsLetter&nbsp; 
+					<input type="text" name="email" id="email" placeholder="Email" style="margin:0px;">
+					<input type="submit" value="Subscribe" id="register">
+				</form>
+			</div>
+			
+		</div>
+	</div>
+</div>
+<div class="footer">
+	<a href="about-us.php">About Us</a> | 
+	<a href="terms-and-conditions.php">Terms and Conditions</a> | 
+	<a href="privacy-policy.php">Privacy Policy</a>
+</div>
+	
+	<script src="http://oemscart.com/js/jquery1_8.js"></script>
+		<script src="http://oemscart.com/js/jquery.validate.js"></script>
+		<script>
+			var $m = jQuery.noConflict();
+			$m().ready(function() {
+
+			// validate signup form on keyup and submit
+				$m("#newsletter").validate({
+					rules: {					
+						email: {
+							required: true,
+							email: true,
+						},				
+					},
+					messages: {
+						email: "Provide Email ID to subscribe!!",
+					}
+				});
+				
+				
+			});
+
+			</script>
+	<style type="text/css">
+	#newsletter label.error {
+		position:absolute;
+		margin-top: -20px;
+		margin-left: -200px;
+		color:red;
+		display:inline;
+	}
+	</style>
+	<script type="text/javascript" src="js/jquery1_8.js"></script>
+	<script type="text/javascript">
+		var $foot = jQuery.noConflict();
+		$foot(function(){
+			$foot('#menus').hover(function(){
+				$foot(this).find('.sub_menu').show();
+			},function(){
+				$foot(this).find('.sub_menu').hide();
+			});
+			$foot('.menu_bar_holder .menu_bar #menus.category').hover(function(){
+				$foot(this).find('.subCategory').css({'border-left-color':'#41a0ee','border-right-color':'#41a0ee'});
+			},function(){
+				$foot(this).find('.subCategory').css({'border-left-color':'#fff','border-right-color':'#fff'});
+			});
+			
+			$foot('#flootingFooterBar #footerButton.footerClose').live("click",function(){
+				$foot(this).removeClass('footerClose');
+				$foot(this).addClass('footerOpen');
+				$foot('#flootingFooterBar').animate({'height':'15px'},500);
+				//alert('close');
+				$foot.ajax({
+					type:'POST',
+					url:'required/footer.php',
+					data:'option=close',
+					success:function(res){
+						//alert(res);
+					}
+				});
+			});
+			
+			$foot('#flootingFooterBar #footerButton.footerOpen').live("click",function(){
+				$foot(this).removeClass('footerOpen');
+				$foot(this).addClass('footerClose');
+				$foot('#flootingFooterBar').animate({'height':'50px'},500);
+				
+				//alert('open');
+				$foot.ajax({
+					type:'POST',
+					url:'required/footer.php',
+					data:'option=open',
+					success:function(res){
+						//alert(res);
+					}
+				});
+			});
+			
+		});
+	</script>
+		</body></html>
