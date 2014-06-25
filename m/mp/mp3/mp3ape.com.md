@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3ape.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127090318id_/http%3A//mp3ape.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3ape.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075654id_/http%3A//mp3ape.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ mp3ape.com may use cookies to enhance your surfing experience, but cookies will 
 
 ## Third Party Advertising
 
-The ads appearing on this Web site are delivered to you by Fidelity & Propeller, our web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For [more information](http://www.networkadvertising.org/managing/opt_out.asp) about Fidelity & Propeller, cookies, and how to "opt-out".
+The ads appearing on this web site are delivered to you by [], our web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For [more information](http://www.networkadvertising.org/managing/opt_out.asp) about [], cookies, and how to "opt-out".
 
 ## Third Party Cookies
 
