@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpvad.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826064432id_/http%3A//www.directcpv.com/cpv-advertiser-advertisement-affiliate-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpvad.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102240id_/http%3A//www.directcpv.com/cpv-advertiser-advertisement-affiliate-privacy.html) for the most accurate reproduction.*
 
 # DirectCPV Pay Per View PPV Cost Per View CPV Contextual Online Advertising Privacy Policy
 
