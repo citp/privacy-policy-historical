@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126151647id_/http%3A//mythreecents.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075615id_/http%3A//mythreecents.com/privacy.cgi) for the most accurate reproduction.*
 
 # 
 
@@ -30,6 +30,14 @@ In addition, My3cents.com may disclose personally identifiable user information 
 Consumers should be aware that information provided to us may be subpoenaed by courts of law and that in most instances we will be obligated to honor lawful court orders. 
 
 We do not make the e-mail addresses of those who access our site available to commercial organizations for marketing purposes except in the case of companies wishing to resolve consumer complaints. 
+
+**Other ways we gather information about you.**
+
+We use third-party advertising companies to serve ads when you visit our Web site. My3cents.com does not evaluate or endorse the products and services advertised. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://networkadvertising.org/consumer/opt_out.asp>). 
+
+In the course of serving advertisements to this site, a third-party advertiser may place or recognize a unique "cookie" on your computer. A cookie is a data file that is installed on your computer’s hard disk. We may also place a “cookie” on your computer in order to track your web browsing or to provide information to other companies about your web browsing. You can instruct your browser not to accept cookies, although some services may not function properly if you disable cookies. 
+
+This site implements Google Analytics features based on Display Advertising data, including Google Analytics Demographics and Interest Reporting. Using Google Ad Settings, visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. We use data from Google’s Interest-based advertising or third party audience data (such as age, gender, and interests) to help improve the site and user experience. 
 
 **Send Your Letter to Others/Pass It On E-mail**  
 Our site gives you the opportunity to enter a friend's e-mail address to send a copy of your letter or opinion or other information you feel may be of interest. This use is a one-time only e-mail sent to the recipient and our site will not send any further communications to the recipient. 
