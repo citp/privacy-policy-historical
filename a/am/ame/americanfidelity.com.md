@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanfidelity.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208110303id_/http%3A//www.americanfidelity.com/about-afa/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanfidelity.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121307id_/http%3A//www.americanfidelity.com/about-afa/privacy-policy.aspx) for the most accurate reproduction.*
 
 # American Fidelity Assurance Company: Privacy Policy
 
@@ -81,4 +81,4 @@ Download American Fidelity Assurance Company's [HIPAA Notice of Privacy Practice
 
 Your voluntary use of our website signifies that you consent to our Internet privacy policy. Should you not consent to our policy, you will need to vacate this website immediately. We reserve all rights to modify our Internet privacy policy in the future as we see fit and/or as required by applicable law. However, prior to implementing any changes, we will make every attempt to provide adequate notice on this website.
 
-© Copyright 2012 American Fidelity Assurance Company. All rights reserved.
+© Copyright 2014 American Fidelity Assurance Company. All rights reserved.
