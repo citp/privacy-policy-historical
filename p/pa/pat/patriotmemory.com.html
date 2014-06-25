@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the patriotmemory.com privacy policy that was archived on 2013-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206193437id_/http%3A//www.patriotmemory.com/company/index.jsp%3Floc%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the patriotmemory.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625095715id_/http%3A//www.patriotmemory.com/company/index.jsp%3Floc%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -133,778 +133,375 @@ qacct:"p-2dQMipq9G9ggs"
 
 
 
-<!--jQuery Rotating Banner--> 	<script>		$(window).load(function() {			    $('#top_menu li').hover(    			   function () {   		         //show its submenu    	        $('div', this).fadeIn(300);         		},       				 function () {           		 //hide its submenu           		 $('div', this).fadeOut(300);             		   	}   			  );			  		$(function() {			$('ul.hover_block li').hover(function(){				$(this).find('img').animate({top:'152px'},{queue:false,duration:500});			}, function(){				$(this).find('img').animate({top:'0px'},{queue:false,duration:500});			});		});					$(function() {					$("#slideshow > div:gt(0)").hide();				setInterval(function() { 			  $('#slideshow > div:first')			    .fadeOut(1000)			    .next()			    .fadeIn(1000)			    .end()			    .appendTo('#slideshow');			},  3000);					});		});				function search() {		//document.s5_search_form.keywords.value = 		document.s5_search_form.action = "/search/index.jsp";		document.s5_search_form.method = "post";		document.s5_search_form.submit();	}	var limit = '5';	var ordering = 'newest';	var searchPhrase = 'any';							function closeResultDiv() {		var outerWrap = document.getElementById('s5_ls_outer_wrap');		outerWrap.innerHTML = '';				outerWrap.style.display = "none";	} 	function openResultDiv() {		document.getElementById("s5_ls_outer_wrap").style.display = "block";		s5_ls_Effects.s5_ls_fade('s5_ls_outer_wrap', 0, 100, 300, 's5_ls_Effects.s5_ls_onFaded()');	} 	function s5AjaxSearch() {		var curtime = new Date();		var jx = { http : false, getHTTPObject : function() {  var xmlhttp = false;  if(typeof ActiveXObject != 'undefined') {   try {xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");}   catch (e) {    try {xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");}    catch (E) {xmlhttp = false;}   }  } else if (XMLHttpRequest) {   xmlhttp = new XMLHttpRequest();  }  return xmlhttp; }, getData : function(url,callback,type) {  if(!this.http) {   this.init();   if(!this.http) return;  }  if(!type) var type = "text";  this.http.open("GET", url, true);  this.http.onreadystatechange = function () {   if (jx.http.readyState == 4) {    var result = "";    if(jx.http.responseText) result = jx.http.responseText;    type = type.toLowerCase();    if(type == "json" || type == "j") result = eval(result);    if(callback) callback(result);   }  }  this.http.send(null); }, init : function() {  this.http = this.getHTTPObject(); }}		var url = 'index2.php';		if(document.getElementById('mod_search_searchword').value == ''){										closeResultDiv();		}		else{			var inputTag = document.getElementById('mod_search_searchword');			if (inputTag.value.length < 3) {				return ;			}						closeResultDiv();			//Show the loading icon								var loadingImgTag = document.getElementById('loading_img') ;			loadingImgTag.style.display = '';			//Build the url						var url = 'http://clients.musetheory.com/patriot/' + 'index.php?option=com_search' ;									url =  url + '&view=search';			url =  url + '&layout=s5_live_search';			url = url + '&searchphrase=' + searchPhrase;			url = url + '&ordering=' + ordering;			url = url + '&limit=' + limit;			url = url + '&searchword=' + document.getElementById('mod_search_searchword').value ;			//url = url + '&limit=' + limit;			//url = url + '&results_text=' + 'Search Results - Click Here For Full Results';			//url = url + '&no_results_text=' + 'No results found';						url = url + '&r=' + curtime.getTime();			//alert(url);			jx.load(url, function (data) {										document.getElementById('loading_img').style.display = 'none' ;					document.getElementById('search_tmpdiv').innerHTML = data ;																																														document.getElementById('s5_ls_outer_wrap').innerHTML = document.getElementById('s5_search_results').innerHTML;;					openResultDiv();				}			) ; 											}		}									</script>    </head><body><div id="page"><div id="top">	    <div id="logo" onclick="window.document.location.href='http://patriotmemory.com/'">    	<a href="#" title="Patriot Memory Home"><img src="/images/logo.png" alt="Patriot Memory Home"></a>    </div>               <div id="search">    	                     <div id="search_box">                <!--Language Selector-->		<div id="language">           <!-- <a href="javascript:stCookie('en');">English</a> | <a href="javascript:stCookie('de');">German</a> | <a href="javascript:stCookie('fr');">French</a> | <a href="javascript:stCookie('zh');">繁體中文</a> //-->         </div>             <!--Search Button Form  <form>        	<input id="search_top" type="text" autocomplete="off"/>            <input class="search_button" type="submit" value="" />        </form>-->                                    <form name="s5_search_form" id="s5_search_form" action="/search/index.jsp" method="post">          <div class="search">			<input name="keywords" id="mod_search_searchword" maxlength="40" alt="Search" class="inputbox" type="text" size="40" value="Search Patriot" onblur="if(this.value=='') this.value='Search Patriot';" onfocus="if(this.value=='Search Patriot') this.value='';" onkeyup="s5AjaxSearch();">            <a href="javascript:search();"><img src="/images/search_glass.png" width="25" height="20" style="vertical-align:bottom" border="1"></a>				<span>					<img src="/js/modules/mod_s5_live_search/images/loading.gif" alt="" style="display:none; margin-left:-18px; margin-top:12px; height:7px" id="loading_img">				</span>	</div>	                <input type="hidden" name="searchphrase" value="any">                <input type="hidden" name="limit" id="s5_live_search_limit" value="">                <input type="hidden" name="ordering" value="newest">                <input type="hidden" name="view" value="search">                <input type="hidden" name="Itemid" value="99999999">                <input type="hidden" name="option" value="com_search">	            </form>            <div id="s5_ls_outer_wrap" style="margin-top:44px; margin-right:0px; margin-bottom:10px; margin-left:-187px; border:solid 1px #393939; display:none; width: 400px;"></div><div id="search_tmpdiv" style="visibility:hidden;display:none;"></div>        </div> <!--div search_box-->    </div> <!--div search--></div> <!--div top--><!--Top Menu--> <div id="menu_container">       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="menu_container">
-
-
-
-
-
-
-
-<ul id="top_menu">
-
-
-
-
-
-
-
-	   <li class="first_menu"><a href="/product/indexp.jsp?source=0" alt="Menu 1">PRODUCTS</a>
-
-
-
-
-    	<div class="menu2">	<!--Products Drop Down Div--> 
-
-
-
-
-            <div class="col">	<!--Column For Div Dropdown-->  
-
-
-
-
- 			  <a class="menu_header" href="/product/indexp.jsp?source=5,3&amp;src=5,3,9">MEMORY</a><br>
-
-
-
-				:: DDR3<br>
-
-              	 	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: Gaming Memory<br><br>
-
-                    <a href="/product/indexp.jsp?source=0&amp;prodgroupid=232&amp;prodline=5&amp;catid=34&amp;src=5,3,9,10">- Viper III Series</a>                 
-					<a href="/product/indexp.jsp?source=0&amp;prodgroupid=268&amp;prodline=5&amp;group=Viper 3 Low Profile&amp;catid=34&amp;src=5,3,9,10">- Viper III Low Profile Series</a>
-					<a href="/product/indexp.jsp?source=0&amp;prodgroupid=267&amp;prodline=5&amp;catid=34&amp;src=5,3,9,10">- Viper SODIMM</a>
-
-         
-					<br><a class="menu_child" href="/product/indexp.jsp?source=0&amp;prodgroupid=248&amp;prodline=10&amp;catid=34&amp;src=5,3,9,10">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: MEMORY FOR ULTRABOOK™</a><br>
-
-
-                            
-                    <a class="menu_child" href="/product/indexp.jsp?source=0&amp;prodgroupid=274&amp;prodline=3&amp;catid=93&amp;src=5,3,9,10">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: MAC Series</a><br>
-
-
-
-		    <a class="menu_child" href="/product/indexp.jsp?source=0&amp;prodgroupid=203&amp;prodline=3&amp;catid=34&amp;src=5,3,9,10">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: Signature Line </a><br>
-
-                            
-
-
-		:: DDR2<br><br>
-
-
-
-
-
-
-		<a class="menu_child" href="/product/indexp.jsp?source=0&amp;prodgroupid=203&amp;prodline=3&amp;catid=33&amp;src=5,3,9,10">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: Signature Line </a><br>
-
-              	 
-
-
-
-              <br>:: DDR<br>
-
-
-
-
-               		<br><a href="/product/indexp.jsp?source=0&amp;prodgroupid=203&amp;prodline=3&amp;catid=28&amp;src=5,3,9,10">:: Signature Line </a><br><br>
-
-
-
-
-
-
-
-
-					
-
-
-
-            </div> 
-
-
-
-
-            <!-- *************************************** SECOND COLUMN **************************************** //-->       
-
-
-
-            <div class="col">  <!--Column For Div Dropdown-->        
-
-
-
-
-
-
-
-              
-			<a class="menu_header" href="/product/indexp.jsp?source=4,7">FLASH MEDIA</a><br>
-
-				:: Flash Cards<br><br>
-
-              	 	<a href="http://patriotmemory.com/product/indexp.jsp?source=4&amp;catid=88,90,89&amp;src=4,7">:: Secure Digital(SD)</a><br>
-
-                                              
-		:: SuperSonic USB 3.0 Drives<br><br>
-
-              	 	<a href="/product/indexp.jsp?source=0&amp;prodgroupid=208&amp;prodline=7&amp;group=Supersonic Magnum&amp;catid=92&amp;src=4,7">:: Supersonic Magnum</a>
-
-					<a href="/product/indexp.jsp?source=0&amp;prodgroupid=240&amp;prodline=7&amp;catid=92&amp;src=4,7">:: Supersonic Rage XT</a>
-
-                    <a href="/product/indexp.jsp?source=0&amp;prodgroupid=229&amp;prodline=7&amp;group=Supersonic Boost XT&amp;catid=92&amp;src=4,7">:: Supersonic Boost XT</a>
-
-                    <a href="/product/indexp.jsp?source=0&amp;prodgroupid=214&amp;prodline=7&amp;group=Supersonic Xpress&amp;catid=92&amp;src=4,7">:: Supersonic Xpress</a>
-                    
-                    <a href="/product/indexp.jsp?source=0&amp;prodgroupid=220&amp;prodline=7&amp;group=Supersonic Pulse&amp;catid=92&amp;src=4,7">:: Supersonic Pulse</a>
-
-					<a href="/product/indexp.jsp?source=0&amp;prodgroupid=251&amp;prodline=7&amp;group=Supersonic mini&amp;catid=92&amp;src=4,7">:: Supersonic mini</a><br>
-
-
-     			:: Xporter USB 2.0 Drives<br><br>
-
-              	 	<a href="/product/indexp.jsp?source=0&amp;prodgroupid=181&amp;prodline=7&amp;group=Extreme Performance Xporter Rage USB Flash Drive&amp;catid=86&amp;src=4,7">:: Xporter Rage</a>
-
-                    <a href="/product/indexp.jsp?source=0&amp;prodgroupid=64&amp;prodline=7&amp;group=Extreme Performance Xporter XT Boost USB Flash Drives&amp;catid=86&amp;src=4,7">:: Xporter XT Boost</a>
-
-                    <a href="/product/indexp.jsp?source=0&amp;prodgroupid=100&amp;prodline=7&amp;group=Signature Line Xporter Mini USB Flash Drives&amp;catid=86&amp;src=4,7">:: Xporter Mini</a>
-                   
-
-
-
-             </div>
-
-
-
-             <!-- *************************************** THIRD COLUMN **************************************** //--> 
-
-
-
-             <div class="col">	<!--Column For Div Dropdown-->  
-
-				<a class="menu_header" href="/product/indexp.jsp?source=4,7">FLASH MEDIA</a><br>
-
-                   
-                :: Lifestyle USB<br><br>
-
-
-			<a href="/product/indexp.jsp?source=0&amp;prodgroupid=250&amp;prodline=7&amp;group=Axle&amp;catid=91&amp;src=4,7">:: Autobahn</a>
-
-
-              	 	<a href="/product/indexp.jsp?source=0&amp;prodgroupid=213&amp;prodline=7&amp;group=Axle&amp;catid=91&amp;src=4,7">:: Axle </a>
-
-
-			<a href="/product/indexp.jsp?source=0&amp;prodgroupid=276&amp;prodline=7&amp;group=Blitz&amp;catid=99&amp;src=4,7">:: BLITZ</a>
-
-			<a href="/product/indexp.jsp?source=0&amp;prodgroupid=249&amp;prodline=7&amp;group=Element&amp;catid=99&amp;src=4,7">:: Element</a>
-
-
-                    <a href="/product/indexp.jsp?source=0&amp;prodgroupid=212&amp;prodline=7&amp;group=Flex&amp;catid=91&amp;src=4,7">:: Flex </a>
-
-
-                    <a href="/product/indexp.jsp?source=0&amp;prodgroupid=218&amp;prodline=7&amp;group=Snip&amp;catid=91&amp;src=4,7">:: Snip</a>
-                    
-                    <a href="/product/indexp.jsp?source=0&amp;prodgroupid=252&amp;prodline=7&amp;group=Tab&amp;catid=99&amp;src=4,7">:: Tab  </a> <br> 
-                   
-                  
-		:: Mobility OTG<br><br>
-
-			<a href="/product/indexp.jsp?source=0&amp;prodgroupid=270&amp;prodline=7&amp;catid=101&amp;src=4,7">:: Stellar</a>
-			<a href="/product/indexp.jsp?source=0&amp;prodgroupid=269&amp;prodline=7&amp;catid=101&amp;src=4,7">:: Cosmos</a><br>
-
-
-		:: SSD Flash<br><br>
-
-			<a href="/product/indexp.jsp?source=0&amp;prodgroupid=272&amp;prodline=7&amp;catid=105&amp;src=4,7">:: Supersonic Phoenix</a><br>
-
- 
-		<a class="menu_header" href="/product/indexp.jsp?source=6">Accessories</a><br>
-
-		
-		<a class="menu_child" href="/product/indexp.jsp?source=0&amp;prodgroupid=163&amp;prodline=6&amp;group=Wi-Fi USB Adapter&amp;catid=97">:: Wireless USB Adapters</a>
-                   <br>
-</div>
-                   
-                   
-
-
-
-          <div class="col"> <!--Column For Div Dropdown-->  
-
-
-
-
-
-
-
-             <!-- *************************************** FOURTH COLUMN **************************************** //-->
-
-
-
-              <a class="menu_header" href="/product/indexp.jsp?source=6">Accessories</a><br>
-
-
-		       	  :: Storage<br>
-
-				  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: Wireless Mobile Drives<br><br>
-                  
-                  <a href="/product/indexp.jsp?source=0&amp;prodgroupid=237&amp;prodline=6&amp;group=AERO&amp;catid=43&amp;src=6">- Aero</a>
-                  <a href="/product/detail.jsp?prodline=6&amp;catid=43&amp;prodgroupid=237&amp;id=1334&amp;type=25">- Gauntlet 320</a>
-                  
-                  
-
-				  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: 2.5" Drive Enclosures<br><br>
-				  <a href="/product/detail.jsp?prodline=6&amp;catid=43&amp;prodgroupid=179&amp;id=1274&amp;type=19">- Gauntlet Node </a>
-                  <a href="/product/detail.jsp?prodline=6&amp;catid=43&amp;prodgroupid=179&amp;id=1158&amp;type=19">- Gauntlet 2</a><br>
-
-                :: Portable Chargers<br><br>
-
-				   <a href="/product/indexp.jsp?source=0&amp;prodgroupid=264&amp;prodline=6&amp;group=FUEL&amp;catid=100&amp;src=6">- FUEL+</a>
-                   		   <a href="/product/indexp.jsp?source=0&amp;prodgroupid=273&amp;prodline=6&amp;group=FUEL&amp;catid=100&amp;src=6">- FUEL active</a><br>	  
-
- 
-
-				:: Tablet Cases<br>
-
-			  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: Folios<br><br>
-                  
-                  <a href="/product/detail.jsp?prodline=6&amp;catid=103&amp;prodgroupid=271&amp;id=7455&amp;type=28">- Titan for iPad</a>
-                  <a href="/product/detail.jsp?prodline=6&amp;catid=103&amp;prodgroupid=271&amp;id=7454&amp;type=28">- Titan for iPad mini</a>
-                  
-                  
-
-				  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: Covers<br><br>
-				  <a href="/product/detail.jsp?prodline=6&amp;catid=103&amp;prodgroupid=271&amp;id=6268&amp;type=29">- Flint for iPad</a>
-                  
-
-                   
-
-					
-                             
-
-
-
-
-
-
-
-            
-
-
-
-
-
-
-
-             </div>         
-
-
-
-
-
-
-
-            
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-                
-
-
-
-
-
-
-
-                
-
-
-
-
-
-
-
-                
-
-
-
-
-
-
-
-                
-
-
-
-
-
-
-
-                
-
-
-
-
-
-
-
-             
-
-
-
-
-
-
-
-             
-
-
-
-
-
-
-
-             
-
-
-
-
-
-
-
-        </div></li>
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-    	<li><a href="/support/indexp.jsp" alt="Menu 2">SUPPORT</a>
-
-
-
-
-
-
-
-        	<div class="menu3"> <!--Support Drop Down Div--> 
-
-
-
-
-
-
-
-            	<div class="col">	
-
-
-
-
-
-
-
- 			 		<a href="/support/drivers-downloadsp.jsp">DRIVERS &amp; DOWNLOADS</a>
-
-
-
-
-
-
-
-                    <a href="/support/indexp.jsp">TECHNICAL SUPPORT</a>
-
-
-
-
-
-
-
-                    <a href="/support/memory_selector.jsp">MEMORY FINDER</a>
-
-
-
-
-
-
-
-					<a href="/support/support_faqp.jsp">KNOWLEDGE BASE</a>
-					<a href="/reseller/indexp.jsp">Product Registration</a>
-					<a href="/reseller/indexr.jsp">Become a Distributor/Reseller</a>
-
-
-
-
-
-
-             	</div>
-
-
-
-
-
-
-
-            </div>
-
-
-
-
-
-
-
-	    </li>
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-    	<li><span alt="Menu3">COMMUNITY</span>
-
-
-
-
-
-
-
-        	<div class="menu3"> <!--Community Drop Down Div--> 
-
-
-
-
-
-
-
-            	<div class="col">	
-
-
-
-
-
-
-
- 			 		<a href="/forums/index.php" target="_new">FORUMS</a>
-
-
-
-
-
-
-
-                    <a href="/community/eventsp.jsp">EVENTS</a>
-
-
-
-
-
-
-
-                    <a href="/community/social_networksp.jsp">SOCIAL NETWORKS</a>
-					<a href="/reseller/indexn.jsp">Newsletter Subscription</a>
-
-
-
-
-
-
-
-             	</div>
-
-
-
-
-
-
-
-            </div>    
-
-
-
-
-
-
-
-	    </li>
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-    	<li><a href="/company/index.jsp?loc=locations" alt="Menu 4">CONTACT</a>	    	
-
-
-
-
-
-
-
-        	<div class="menu3"> <!--Contact Drop Down Div--> 
-
-
-
-
-
-
-
-            	<div class="col">	
-
-
-
-
-
-
-
- 			 		<a href="/company/index.jsp?loc=about">ABOUT</a>
-
-
-
-
-
-
-
-                    <a href="/company/index.jsp?loc=locations">CONTACT US</a>
-
-
-
-
-
-
-
-             	</div>
-
-
-
-
-
-
-
-            </div>
-
-
-
-
-
-
-
-	    </li>
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-    	<li class="last_menu">
-
-
-
-
-
-
-
-    	<a href="/product/buyp.jsp" title="Where to buy Patriot Memory">Where to buy</a>	    
-
-
-
-
-
-
-
-	    </li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	</ul>
-
-
-
-
-
-
-
+<!--jQuery Rotating Banner--> 	<script>		$(window).load(function() {			    $('#top_menu li').hover(    			   function () {   		         //show its submenu    	        $('div', this).fadeIn(300);         		},       				 function () {           		 //hide its submenu           		 $('div', this).fadeOut(300);             		   	}   			  );			  		$(function() {			$('ul.hover_block li').hover(function(){				$(this).find('img').animate({top:'152px'},{queue:false,duration:500});			}, function(){				$(this).find('img').animate({top:'0px'},{queue:false,duration:500});			});		});					$(function() {					$("#slideshow > div:gt(0)").hide();				setInterval(function() { 			  $('#slideshow > div:first')			    .fadeOut(1000)			    .next()			    .fadeIn(1000)			    .end()			    .appendTo('#slideshow');			},  3000);					});		});				function search() {		//document.s5_search_form.keywords.value = 		document.s5_search_form.action = "/search/index.jsp";		document.s5_search_form.method = "post";		document.s5_search_form.submit();	}	var limit = '5';	var ordering = 'newest';	var searchPhrase = 'any';							function closeResultDiv() {		var outerWrap = document.getElementById('s5_ls_outer_wrap');		outerWrap.innerHTML = '';				outerWrap.style.display = "none";	} 	function openResultDiv() {		document.getElementById("s5_ls_outer_wrap").style.display = "block";		s5_ls_Effects.s5_ls_fade('s5_ls_outer_wrap', 0, 100, 300, 's5_ls_Effects.s5_ls_onFaded()');	} 	function s5AjaxSearch() {		var curtime = new Date();		var jx = { http : false, getHTTPObject : function() {  var xmlhttp = false;  if(typeof ActiveXObject != 'undefined') {   try {xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");}   catch (e) {    try {xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");}    catch (E) {xmlhttp = false;}   }  } else if (XMLHttpRequest) {   xmlhttp = new XMLHttpRequest();  }  return xmlhttp; }, getData : function(url,callback,type) {  if(!this.http) {   this.init();   if(!this.http) return;  }  if(!type) var type = "text";  this.http.open("GET", url, true);  this.http.onreadystatechange = function () {   if (jx.http.readyState == 4) {    var result = "";    if(jx.http.responseText) result = jx.http.responseText;    type = type.toLowerCase();    if(type == "json" || type == "j") result = eval(result);    if(callback) callback(result);   }  }  this.http.send(null); }, init : function() {  this.http = this.getHTTPObject(); }}		var url = 'index2.php';		if(document.getElementById('mod_search_searchword').value == ''){										closeResultDiv();		}		else{			var inputTag = document.getElementById('mod_search_searchword');			if (inputTag.value.length < 3) {				return ;			}						closeResultDiv();			//Show the loading icon								var loadingImgTag = document.getElementById('loading_img') ;			loadingImgTag.style.display = '';			//Build the url						var url = 'http://clients.musetheory.com/patriot/' + 'index.php?option=com_search' ;									url =  url + '&view=search';			url =  url + '&layout=s5_live_search';			url = url + '&searchphrase=' + searchPhrase;			url = url + '&ordering=' + ordering;			url = url + '&limit=' + limit;			url = url + '&searchword=' + document.getElementById('mod_search_searchword').value ;			//url = url + '&limit=' + limit;			//url = url + '&results_text=' + 'Search Results - Click Here For Full Results';			//url = url + '&no_results_text=' + 'No results found';						url = url + '&r=' + curtime.getTime();			//alert(url);			jx.load(url, function (data) {										document.getElementById('loading_img').style.display = 'none' ;					document.getElementById('search_tmpdiv').innerHTML = data ;																																														document.getElementById('s5_ls_outer_wrap').innerHTML = document.getElementById('s5_search_results').innerHTML;;					openResultDiv();				}			) ; 											}		}									</script>    </head><body><div id="page"><div id="top">	    <div id="logo" onclick="window.document.location.href='http://patriotmemory.com/'">    	<a href="#" title="Patriot Memory Home"><img src="/images/logo.png" alt="Patriot Memory Home"></a>    </div>               <div id="search">    	                     <div id="search_box">                <!--Language Selector-->		<div id="language">           <!-- <a href="javascript:stCookie('en');">English</a> | <a href="javascript:stCookie('de');">German</a> | <a href="javascript:stCookie('fr');">French</a> | <a href="javascript:stCookie('zh');">繁體中文</a> //-->      
+
+<script src="//j.maxmind.com/app/country.js" charset="ISO-8859-1" type="text/javascript"></script>
+<script type="text/javascript">
+    var country="";
+    $(window).load(function() {
+      country = geoip_country_name();
+	  //alert("test");
+	  //alert(country);
+	  if (country=="United States" || country=="Canada")
+	  {
+		  $("#pthideshow").css("display", "block");
+	  }
+	});
+</script>
+
+<div id="pthideshow" style="display:none">
+<a href="https://www.patriotmemory.com/shop/shopcart.jsp" style="background: url('/shop/images/carticon.png') no-repeat scroll 0 0 rgba(0, 0, 0, 0);font-weight: bold;margin-left: 142px;padding-left: 17px;"> Cart :&nbsp; 0</a>   
 </div>
 
+</div>             <!--Search Button Form  <form>        	<input id="search_top" type="text" autocomplete="off"/>            <input class="search_button" type="submit" value="" />        </form>-->                                    <form name="s5_search_form" id="s5_search_form" action="/search/index.jsp" method="post">          <div class="search">			<input name="keywords" id="mod_search_searchword" maxlength="40" alt="Search" class="inputbox" type="text" size="40" value="Search Patriot" onblur="if(this.value=='') this.value='Search Patriot';" onfocus="if(this.value=='Search Patriot') this.value='';" onkeyup="s5AjaxSearch();">            <a href="javascript:search();"><img src="/images/search_glass.png" width="25" height="20" style="vertical-align:bottom" border="1"></a>				<span>					<img src="/js/modules/mod_s5_live_search/images/loading.gif" alt="" style="display:none; margin-left:-18px; margin-top:12px; height:7px" id="loading_img">				</span>	</div>	                <input type="hidden" name="searchphrase" value="any">                <input type="hidden" name="limit" id="s5_live_search_limit" value="">                <input type="hidden" name="ordering" value="newest">                <input type="hidden" name="view" value="search">                <input type="hidden" name="Itemid" value="99999999">                <input type="hidden" name="option" value="com_search">	            </form>            <div id="s5_ls_outer_wrap" style="margin-top:44px; margin-right:0px; margin-bottom:10px; margin-left:-187px; border:solid 1px #393939; display:none; width: 400px;"></div><div id="search_tmpdiv" style="visibility:hidden;display:none;"></div>        </div> <!--div search_box-->    </div> <!--div search--></div> <!--div top--><!--Top Menu--> <div id="menu_container">       
 
 
 
 
 
 
-		</div> <!--div menu_container-->
+
+<script src="http://j.maxmind.com/app/country.js" charset="ISO-8859-1" type="text/javascript"></script>
+		<script type="text/javascript">
+		$( document ).ready( function(){
+			var country="";
+			country = geoip_country_name();
+			if(country=="United States"){
+				$('ul.navigation li:eq(0)').after('<li><a href="/shopland/index.jsp"><p>Shop</p></a></li>');
+				$("ul.navigation").children("li").css('width', '160px');
+			}
+		});
+</script>
+
+
+
+
+
+
+<ul class="navigation">
+    	<li><a href="/product/indexp.jsp?source=0"><p>Products</p></a>
+        	<!-- product sub-->
+            <ul class="submenu">
+               	<div class="subhidder">
+                    <li class="arrowmenu"><a href="/product/indexp.jsp?source=5,3&amp;src=5,3,9"><p>Memory</p></a>
+                        <!-- memory sub-->
+                        <ul class="supersub">
+                                <div class="supersubhidder">
+                                <ul class="col">
+                                    <h3>DDR3</h3>
+                                    <div class="productsection">
+                                    <li>
+                                    	<h3>Gaming Memory</h3>
+                                        <ul class="subproducts">
+                                        	<li><a href="/product/indexp.jsp?source=0&amp;prodgroupid=232&amp;prodline=5&amp;catid=34&amp;src=5,3,9,10">Viper III Series</a></li>
+                                            <li><a href="/product/indexp.jsp?source=0&amp;prodgroupid=268&amp;prodline=5&amp;group=Viper 3 Low Profile&amp;catid=34&amp;src=5,3,9,10">Viper III Low Profile Series</a></li>
+                                            <li><a href="/product/indexp.jsp?source=0&amp;prodgroupid=267&amp;prodline=5&amp;catid=34&amp;src=5,3,9,10">Viper Sodimm</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=248&amp;prodline=10&amp;catid=34&amp;src=5,3,9,10">Memory for Ultrabook™</a></h3></li>
+                                    <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=274&amp;prodline=3&amp;catid=93&amp;src=5,3,9,10">MAC Series</a></h3></li>
+                                    <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=203&amp;prodline=3&amp;catid=34&amp;src=5,3,9,10">Signature Line</a></h3></li>
+                                    </div>
+                                </ul>
+                                <ul class="col">
+                                   <h3>DDR2</h3>
+                                   <div class="productsection">
+                                    <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=203&amp;prodline=3&amp;catid=33&amp;src=5,3,9,10">Signature Line</a></h3></li>
+                                    </div>
+                                </ul>
+                                <ul class="col">
+                                   <h3>DDR</h3>
+                                   <div class="productsection">
+                                    <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=203&amp;prodline=3&amp;catid=28&amp;src=5,3,9,10">Signature Line</a></h3></li>
+                                    </div>
+                                </ul>
+                                </div>
+                                <div class="blueborder"></div>
+                        </ul>
+                        <!-- close memory sub--> 
+                    </li>
+                    <li class="arrowmenu"><a href="/product/indexp.jsp?source=8"><p>Solid State Drives</p></a>
+                    	<ul class="supersub" style="top:-43px">
+                                <div class="supersubhidder">
+                                <ul class="col">
+                                    <h3>2.5" Form Factor</h3>
+                                    <div class="productsection">
+                                    <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=219&amp;prodline=8&amp;group=Pyro SE Solid State Drive&amp;catid=85">Pyro</a></h3></li>
+                                    </div>
+                                </ul>
+                                <ul class="col">
+                                   <h3>mSATA</h3>
+                                   <div class="productsection">
+                                    <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=280&amp;prodline=8&amp;group=mSATA&amp;catid=110">Pyro M3</a></h3></li>
+                                    </div>
+                                </ul>
+                               	</div>
+                                <div class="blueborder"></div>
+                        </ul>
+                        <!-- close SSD sub--> 
+                    </li>
+                    <li class="arrowmenu"><a href="/product/indexp.jsp?source=4,7"><p>Flash Media</p></a>
+                    	<!-- flash sub-->
+                           <ul class="supersub" style="top:-86px">
+                                <div class="supersubhidder">
+                                <ul class="col">
+                                    <h3>Flash Cards</h3>
+                                    <div class="productsection">
+                                    	<li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=66&amp;prodline=4&amp;group=Signature&amp;catid=88&amp;src=4">Signature Series</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=209&amp;prodline=4&amp;group=LX Series&amp;catid=88&amp;src=4">LX Series</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=206&amp;prodline=4&amp;group=LX PRO&amp;catid=88&amp;src=4">LX PRO</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=231&amp;prodline=4&amp;group=EP Series&amp;catid=88&amp;src=4">EP Series</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=238&amp;prodline=4&amp;group=EP PRO&amp;catid=88&amp;src=4">EP Pro</a></h3></li>
+                                    </div>
+                                    <h3>Supersonic USB 3.0 Drives</h3>
+                                    <div class="productsection">
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=208&amp;prodline=7&amp;group=Supersonic Magnum&amp;catid=92&amp;src=4,7">Supersonic Mangum</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=240&amp;prodline=7&amp;catid=92&amp;src=4,7">Supersonic Rage XT</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=229&amp;prodline=7&amp;group=Supersonic Boost XT&amp;catid=92&amp;src=4,7">Supersonic Boost XT</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=214&amp;prodline=7&amp;group=Supersonic Xpress&amp;catid=92&amp;src=4,7">Supersonic Xpress</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=220&amp;prodline=7&amp;group=Supersonic Pulse&amp;catid=92&amp;src=4,7">Supersonic Pulse</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=251&amp;prodline=7&amp;group=Supersonic mini&amp;catid=92&amp;src=4,7">Supersonic Mini</a></h3></li>
+                                    </div>
+                                </ul>
+                                <ul class="col">
+                                   <h3>Xporter USB 2.0 Drives</h3>
+                                   	<div class="productsection">
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=181&amp;prodline=7&amp;group=Extreme Performance Xporter Rage USB Flash Drive&amp;catid=86&amp;src=4,7">Xporter Rage</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=100&amp;prodline=7&amp;group=Signature Line Xporter Mini USB Flash Drives&amp;catid=86&amp;src=4,7">Xporter Mini</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=243&amp;prodline=7&amp;group=Xporter Pulse&amp;catid=86&amp;src=4,7">Xporter Pulse</a></h3></li>
+                                    </div>
+                                    <h3>Mobility OTG</h3>
+                                    <div class="productsection">
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=282&amp;prodline=7&amp;catid=101&amp;src=4,7">Stellar Boost XT</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=270&amp;prodline=7&amp;catid=101&amp;src=4,7">Stellar</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=283&amp;prodline=7&amp;catid=101&amp;src=4,7">Stellar Lite</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=269&amp;prodline=7&amp;catid=101&amp;src=4,7">Cosmos</a></h3></li>
+                                    </div>
+                                    <h3>Mobile Flash Drive</h3>
+                                    <div class="productsection">
+                                    	<li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=272&amp;prodline=7&amp;catid=109&amp;src=4,7">Supersonic Phoenix</a></h3></li>
+                                    </div>
+                                    
+                                </ul>
+                                <ul class="col">
+                                    <h3>LifeStlye USB</h3>
+                                    <div class="productsection">
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=250&amp;prodline=7&amp;group=Axle&amp;catid=91&amp;src=4,7">Autobahn</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=213&amp;prodline=7&amp;group=Axle&amp;catid=91&amp;src=4,7">Axle</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=276&amp;prodline=7&amp;group=Blitz&amp;catid=99&amp;src=4,7">Blitz</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=249&amp;prodline=7&amp;group=Element&amp;catid=99&amp;src=4,7">Element</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=212&amp;prodline=7&amp;group=Flex&amp;catid=91&amp;src=4,7">Flex</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=266&amp;prodline=7&amp;group=slate&amp;catid=91&amp;src=4,7">Slate</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=218&amp;prodline=7&amp;group=Snip&amp;catid=91&amp;src=4,7">Snip</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=252&amp;prodline=7&amp;group=Tab&amp;catid=99&amp;src=4,7">Tab</a></h3></li>
+                                    </div>
+                                </ul>
+                                </div>
+                                <div class="blueborder"></div>
+                        </ul>
+                        <!-- close flash sub-->
+                    </li>
+                    <li class="arrowmenu"><a href="/product/indexp.jsp?source=6"><p>Accessories</p></a>
+                    	<!-- accessory sub-->
+                        <ul class="supersub" style="top:-129px">
+                           	<div class="supersubhidder">
+                                <ul class="col">
+                                    <h3>Storage</h3>
+                                    <div class="productsection">
+                                        <li><h3>Wirelss Mobile Drives</h3>
+                                            <ul class="subproducts">
+                                                <li><a href="/product/indexp.jsp?source=0&amp;prodgroupid=237&amp;prodline=6&amp;group=AERO&amp;catid=43&amp;src=6">AERO</a></li>
+                                                <li><a href="/product/detail.jsp?prodline=6&amp;catid=43&amp;prodgroupid=237&amp;id=1334&amp;type=25">Gauntlet 320</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><h3>2.5" Drive Enclosures</h3>
+                                    	<ul class="subproducts">
+                                        	<li><a href="/product/detail.jsp?prodline=6&amp;catid=43&amp;prodgroupid=179&amp;id=1274&amp;type=19">Gauntlet Node</a></li>
+                                            <li><a href="">Gauntlet 3</a></li>
+                                            <li><a href="/product/detail.jsp?prodline=6&amp;catid=43&amp;prodgroupid=179&amp;id=1158&amp;type=19">Gauntlet 2</a></li>
+                                        </ul>
+                                    </li>
+                                    </div>
+                                    <h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=163&amp;prodline=6&amp;group=Wi-Fi USB Adapter&amp;catid=97">Wireless USB Adapters</a></h3>
+                                    <div class="productsection">
+                                    </div>
+                                </ul>
+                                <ul class="col">
+                                    <h3>Portable Chargers</h3>
+                                    <div class="productsection">
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=264&amp;prodline=6&amp;group=FUEL&amp;catid=100&amp;src=6">FUEL+</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=273&amp;prodline=6&amp;group=FUEL&amp;catid=100&amp;src=6">FUEL Active</a></h3></li>
+                                   	</div>
+                                    <h3>USB Chargers</h3>
+                                    <div class="productsection">
+                                        <li><h3><a href="/product/detail.jsp?prodline=6&amp;catid=111&amp;prodgroupid=281&amp;id=8204&amp;type=11">FUEL Station mini</a></h3></li>
+                                        <!--<li><h3><a href="">FUEL Station duo</a></h3></li>-->
+                                   	</div>
+                                    <h3>USB Hubs</h3>
+                                    <div class="productsection">
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=277&amp;prodline=6&amp;group=HUBS&amp;catid=101&amp;src=6">4-Port USB 3.0 Hub</a></h3></li>
+                                   	</div>
+                                    <h3>Smartphone &amp; Tablet Cables</h3>
+                                   <div class="productsection">
+                                        <li>
+                                        	<h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=278&amp;prodline=6&amp;group=iPhone Cable&amp;catid=108">iPhone/iPad/iPod Lightning<br>Charge &amp; Sync Cable</a></h3>
+                                        </li>
+                                 	</div>
+                                </ul>
+                                <ul class="col">
+                                   <h3>Tablet Accessories</h3>
+                                   <div class="productsection">
+                                        <li><h3>Folios</h3>
+                                            <ul class="subproducts">
+                                                <li><a href="/product/detail.jsp?prodline=6&amp;catid=103&amp;prodgroupid=271&amp;id=7455&amp;type=28">Titan for iPad</a></li>
+                                                <li><a href="/product/detail.jsp?prodline=6&amp;catid=103&amp;prodgroupid=271&amp;id=7454&amp;type=28">Titan for iPad mini</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><h3>Cases</h3>
+                                            <ul class="subproducts">
+                                                <li><a href="http://www.patriotmemory.com/product/indexp.jsp?source=0&amp;prodgroupid=286&amp;prodline=6&amp;group=SmartShell%20for%20iPad%20Air/iPad%20mini&amp;catid=103">SmartShell for iPad/iPad mini</a></li>
+                                                <li><a href="http://www.patriotmemory.com/product/indexp.jsp?source=0&amp;prodgroupid=287&amp;prodline=6&amp;group=FlexFit%20for%20iPad%20Air/iPad%20mini&amp;catid=103">FlexFit for iPad/iPad mini</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><h3>Covers</h3>
+                                            <ul class="subproducts">
+                                            	<li><a href="/product/detail.jsp?prodline=6&amp;catid=103&amp;prodgroupid=271&amp;id=8239">Keylite for iPad Air</a></li>
+                                                <li><a href="/product/detail.jsp?prodline=6&amp;catid=103&amp;prodgroupid=271&amp;id=8240&amp;type=29">Keylite for iPad mini</a></li>
+                                                <li><a href="/product/detail.jsp?prodline=6&amp;catid=103&amp;prodgroupid=271&amp;id=6268&amp;type=29">Flint for iPad</a></li>
+                                            </ul>
+                                        </li>
+                                  	</div>
+                                    <h3>Phone Cases</h3>
+                                   <div class="productsection">
+                                        <li>
+                                        	<h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=285&amp;prodline=6&amp;group=SlimShell&amp;catid=112">SlimShell for iPhone 5/5s</a></h3>
+                                        </li>
+                                 	</div>
+                                </ul>
+                            </div>
+                            <div class="blueborder"></div>
+                        </ul>
+                        <!-- close accessory sub-->
+                    </li>
+                 </div>
+             </ul>
+            <!--close product sub-->
+        </li>
+        <li><a href="/support/indexp.jsp"><p>Support</p></a>
+        	<ul class="submenu" style="height: 0px; overflow: hidden;">
+                <div class="subhidder">
+                    <li>
+                        <a href="/support/drivers-downloadsp.jsp">
+                        	<p>Drivers &amp; Downloads</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/support/indexp.jsp">
+                        	<p>Technical Support</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/support/memory_selector.jsp">
+                        	<p>Memory Finder</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/support/support_faqp.jsp">
+                        	<p>Knowledge Base</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/reseller/indexp.jsp">
+                        	<p>Product Registration</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/reseller/indexr.jsp">
+                        	<p style="padding-top:4px;">Become a Distributor/Reseller</p>
+                        </a>
+                    </li>
+                </div>
+            </ul>
+        </li>
+        <li><a href="javascript:;"><p>community</p></a>
+        	<ul class="submenu" style="height: 0px; overflow: hidden;">
+                <div class="subhidder">
+                    <li>
+                        <a href="/forums/index.php">
+                        	<p>Forums</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/community/eventsp.jsp">
+                        	<p>Events</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/community/social_networksp.jsp">
+                        	<p>Social Networks</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/reseller/indexn.jsp">
+                        	<p>Newsletter Subscription</p>
+                        </a>
+                    </li>
+                </div>
+            </ul>
+        </li>
+        <li><a href="/company/index.jsp?loc=locations"><p>con<span style="letter-spacing:1.5px">t</span>act</p></a>
+        	<ul class="submenu" style="height: 0px; overflow: hidden;">
+                <div class="subhidder">
+                    <li>
+                        <a href="/company/index.jsp?loc=about">
+                        	<p>About</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/company/index.jsp?loc=locations">
+                        	<p>Contact Us</p>
+                        </a>
+                    </li>
+                </div>
+            </ul>
+        </li>
+        <li><a href="/product/buyp.jsp"><p>where to buy</p></a></li>
+    </ul>
+    <script type="text/javascript">
+    	$("ul.navigation li").hover(
+			function(){
+				var expandHeight = $(this).find(".subhidder").outerHeight();
+				$(this).children("ul.submenu").stop().animate({ height : expandHeight
+				}, 300);
+				
+			}, function(){
+				$(this).children("ul.submenu").css('overflow' , 'hidden');
+				$(this).children("ul.submenu").stop().animate({ height:0
+				}, 10);
+				
+			}
+		);
+		$("ul.submenu li").hover(
+			function(){
+				var expandWidth = $(this).find(".supersubhidder").outerWidth();
+				$(this).children("ul.supersub").css('z-index' , '5');
+				$(this).siblings().children("ul.supersub").css('z-index' , '2');
+				$(this).parents("ul.submenu").css('overflow' , 'visible');
+				$(this).children("ul.supersub").stop().animate({ width:expandWidth
+				}, 10);
+				$(this).find("p").css('color' , "#FF6633");
+				$(this).css('background-position' , "right bottom");
+			}, function(){
+				$(this).children("ul.supersub").stop().animate({ width:0
+				}, 10);
+				$(this).find("p").css('color' , "#002B5C");
+				$(this).css('background-position' , "right top");
+			}
+		);
+    </script>
+
+
+	</div> <!--div menu_container-->
            
 
 
@@ -1310,7 +907,7 @@ var split = urlQuery.split('=');
 						
 							   
 							   
-							    <li class="highlight2" id="job_posting_0"><div>Regional Sales Manager, Russia</div></li>
+							    <li class="highlight2" id="job_posting_0"><div>Customer Service Representative, Rotterdam, Netherlands</div></li>
                          		     
                          			  	 
                          		
@@ -1337,56 +934,16 @@ var split = urlQuery.split('=');
 										    
 										  
 										   
-                 					       <h1><div>Regional Sales Manager, Russia</div></h1><br><br>
-									  	   <p></p><div><strong>Job Summary:&nbsp;</strong></div>
-<p>Regional Sales Manager maintains and expands relationships with strategically important large customers. Initially assigned to three to five named customers, the Regional Sales Manager is responsible for increasing sales revenue quarter over quarter. The Regional Sales Manager reports to the VP Sales for the company.</p>
-<p>&nbsp;</p>
-<p><strong>Specific Job Responsibilities:</strong>&nbsp;&nbsp;</p>
-<p>-Establish productive, professional relationships with key personnel in assigned customer accounts -Meet assigned targets for profitable sales volume and strategic objectives in assigned accounts</p>
-<p>-Co-ordinate local Marketing activities tied to the sales goals for the region</p>
-<p>-Develop brand presence in channel retail stores: produce and distribute POS, dealers' in-store promotions</p>
-<p>-Provide critical thinking to derive maximum sales from customers’ accounts</p>
-<p>-Provide competitive analysis for market pricing and internal cost analysis for the designated account</p>
-<p>-Develop and execute a sales and marketing plan with goals for each customer account with clear understanding of TAM by product line</p>
-<p>-Build run rates and monitor stock levels closely within all accounts to ensure&nbsp;maximum sales potential</p>
-<p>-Be able to measure performance accurately weekly / monthly / quarterly</p>
-<p>-Run promotions when and where required</p>
-<p>-Provide adequate training to resellers on new products</p>
-<p>&nbsp;</p>
-<p><strong>Requirements:</strong></p>
-<p>-Higher education</p>
-<p>-Fluent English, native Russian -5+ years in sales role, developing and maintaining customer accounts</p>
-<p>-Good skills in people management and coordination tasks</p>
-<p>-Experience in B2B sales</p>
-<p>-Thorough knowledge of the local business market/relevant channel -Sales/Customer focus</p>
-<p>-Strong commercial awareness and aptitude</p>
-<p>-Willingness to travel local within the region</p>
-<p>-Excellent leadership/people management abilities</p>
-<p>-Interpersonal communication skills / ability to manage and work in a team</p>
-<p>-Ability to work from a home office and be self-motivated and driven</p>
-<p>&nbsp;</p>
-<p><strong>Specific Task and Activities:</strong></p>
-<p>-Develop a Customer Profile on all major customers</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Customer Name, Address, Corp Revenue, Size</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Key Management – names, email addresses and contact #s</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Sales Revenue with Patriot - YOY by month with growth %</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Product line segmentation – TAM, top 3 competitors, market</p>
-<p>-Daily calls with all major customer accounts</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Manage inventory and sell through on all products</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Develop and Monitor Promotions for coming week/month – aligning inventory and orders</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Competitive pricing and product discussion</p>
-<p>-Weekly one-on-one meeting with direct manager going over the following items:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Sales Revenue versus Plan by product line</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Sales out report analysis on each major product line</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Top runners – sales out, inventory, Weeks On Hand (WOH), pricing competitiveness, exposure/promotions</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Promotional Calendar</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Work with Product Marketing Managers to define the promotions for the following month with all major accounts</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Must be completed in a timely fashion per the requirements of the sales channel - lead time of retail to execute MIRs or ad vehicles</p>
-<p>&nbsp;</p>
-<div><span><strong>Compensation:</strong> </span></div>
-<div><span>This is a commissioned position, with commission structure based on revenue results, and a supporting base salary.</span></div>
-<p><span>Patriot Memory LLC is an Equal Opportunity Employer</span></p>
-<p>&nbsp;</p><p></p>
+                 					       <h1><div>Customer Service Representative, Rotterdam, Netherlands</div></h1><br><br>
+									  	   <p></p><div>JOB SUMMARY:</div>
+<div><br>We are looking for an organized and communicative person to complement our Rotterdam office and to support the sales team in as a CSR.<br>Under the general supervision of the European Sales Manager the CSR will work closely with the members of the Sales, Product Management and Operations teams to serve customers, sell products and manage the selling and backlog process.</div>
+<div><br>SPECIFIC JOB RESPONSIBILITIES:</div>
+<div>
+<p>- Services and supports existing accounts and the sales team in their daily queries and tasks</p>
+<p>- Helps process orders, monitors backlog and invoicing<br>- Provides product, promotion and pricing information by clarifying customer requests and in close collaboration with the sales managers; selecting appropriate information; answering customer questions.<br>- Assists in setting up new customer contacts: following the proper procedure to set up Customer and Internal Credit Application Forms<br>- Runs, creates and manages customer and sales reports to help monitor and evaluate programs and actions<br>- Supports other strategic Sales initiatives as needed.</p>
+<p>REQUIREMENTS:<br>- Higher education (Bachelor degree) in the field of business and/or relevant work experience<br>- 1+ year in a CSR position with experience in customer relations/ B2B<br>- Eye for detail, excellent organizational and time-management skills<br>- Excellent interpersonal communication skills<br>- ability to manage and work in a team<br>- flexible and proactive</p>
+<p>JOB DESCRIPTION:<br>- good Microsoft Office skills, including the use of databases; knowledge of Microsoft Dynamics Navision is a pro<br>- General knowledge of the consumer electronics and IT/mobile market.<br>- Language skills: Communication with multiple countries for which following language skills are a must/pro: fluent in English (must), German/France/Spanish/Polish (pro)</p>
+</div><p></p>
 									  	  
                          </div>		
 							   
@@ -1808,6 +1365,50 @@ Today, Patriot is one the oldest branded memory companies in the USA and continu
 									 
                  					       
 										   
+                 					       <h1>Patriot Unveils New FUEL Active Mobile Rechargeable Batteries to Power Up Outdoor Enthusiasts</h1><br><br>
+									  	   <p></p><div>Fremont, CA&nbsp;January 21, 2014 - Patriot, a global pioneer in high-performance memory, NAND flash, storage, and mobile accessories today unveils its new FUEL Active battery brand to power up outdoor enthusiasts. Building on the award winning FUEL+ mobile battery ecosystem, Patriot specifically developed the FUEL Active series to be the best and most reliable portable power solutions for gadget loving outdoor adventurists everywhere.
+<p>Mobile device use has never been more popular and now with the use of mobile applications that help with trail mapping, real time weather reports, and workout tracking; the smartphone, smart watch, and tablet are the perfect companion for every outdoor adventurer. While conquering the planet, these new technologies can be extremely handy but can drain devices of power. Using Patriot’s FUEL Active mobile rechargeable batteries, outdoor enthusiasts can now take their favorite devices into the wild, wherever they may travel and never worry about running out of power again.</p>
+<p><a title="FUEL Active 6000" href="http://www.patriotmemory.com/product/detail.jsp?prodline=6&amp;catid=100&amp;prodgroupid=273&amp;id=8179&amp;type=30" rel="nofollow">FUEL Active 6000</a></p>
+<p>The FUEL Active 6000mAh offers a powerful two output design, with one dedicated 2.5A port and one integrated micro USB charge cable that provides 1A of current. With FUEL Active performance matters - the dedicated 2.5A port offers faster charging when compared to competing brands that only offer 2.1A. For protection against the elements, the FUEL Active 6000 comes in a sturdy plastic housing with integrated dust caps covering the connectors.</p>
+<p><a title="FUEL Active 2000" href="http://www.patriotmemory.com/product/detail.jsp?prodline=6&amp;catid=100&amp;prodgroupid=273&amp;id=8178&amp;type=30" rel="nofollow">FUEL Active 2000</a></p>
+<p>Built in a high impact element-resistant housing, the FUEL Active 2000mAh provides a powerful and efficient battery and LED flashlight to keep devices powered up while camping, hiking, boating or just on-the-go in the city. The FUEL Active 2000 is available in 4 different colors and is extremely light weight for excellent portability.</p>
+<p>“With the growing number of new applications that provide support for a multitude of outdoor activities, keeping devices powered up while off the grid is more important than ever,” said Mike Chang, Product Manager at Patriot. “With this in mind, we’ve engineered the FUEL Active batteries to be a durable and efficient power support to make sure outdoor adventurists keep their devices powered up and ready to conquer anything nature throws at them.”</p>
+<p>FUEL Active batteries are perfect for use with devices like tablets, smartphones, GPS units, cameras and come with built in protection against overcharge, under discharge, over-current, over voltage, and short circuit. FUEL Active batteries also come with built-in flashlights providing powerful lighting tools that achieve truly stunning performance for their size. FUEL Active includes a Micro USB to USB cable and comes pre-charged and ready right out of the box.</p>
+<p>FUEL Active at a Glance</p>
+<p><a title="FUEL Active 6000" href="http://www.patriotmemory.com/product/detail.jsp?prodline=6&amp;catid=100&amp;prodgroupid=273&amp;id=8179&amp;type=30" rel="nofollow">FUEL Active 6000</a></p>
+<ul>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Battery designed for the outdoor enthusiasts: Battery designed for outdoor enthusiasts</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Charges devices up-to 3 to 4 times on a single charge</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Built in bright 3-stage LED flashlight</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 port charging: 1A and 2.5A output for faster charging</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Integrated USB cable, just plug and go</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Built in protection: Safeguard from over charge, under discharge, over current, over temperature, and short circuit</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ideal for large tablets, smartphones, cameras, GPS units and other USB powered devices</li>
+</ul>
+<p>&nbsp;</p>
+<p><a title="FUEL Active 2000" href="http://www.patriotmemory.com/product/detail.jsp?prodline=6&amp;catid=100&amp;prodgroupid=273&amp;id=8178&amp;type=30" rel="nofollow">FUEL Active 2000</a></p>
+<ul>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rechargeable battery crafted with aluminum casing. Designed for outdoor enthusiasts: perfect for hiking, camping, and traveling</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provides up-to 1 full charge of the average smartphone</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Built in bright LED flashlight</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Built in protection: Safeguard from over charge, under discharge, over current, over temperature, and short circuit</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ideal for smartphones, cameras, GPS units and other USB powered devices</li>
+</ul>
+<p>&nbsp;</p>
+<p>Availability</p>
+<p>The FUEL Active 2000 and FUEL Active 6000 are now shipping and will be available for an MSRP of $19.99 and $69.99.</p>
+</div><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_1">
+										   
+                 					       
+										   
                  					       <h1>Patriot Launches New High Capacity Ultra-Durable 256GB Supersonic Boost XT USB 3.0 Drive</h1><br><br>
 									  	   <p>&nbsp;<img src="http://www.patriotmemory.com/blasts/SS_Boost_256GB_Front.jpg" alt="Supersonic Boost XT 256GB" width="300" height="300" align="left"><strong>FREMONT, CALIF., USA – September 12th, 2013 -</strong><span>&nbsp;</span>Patriot, a global pioneer in high-performance memory, NAND flash, storage, and mobile accessories today launches the new high capacity Supersonic Boost XT 256GB USB 3.0 performance drive.
 </p><p>Offering the enhanced transfer speed of up-to 150MB/s, the Supersonic Boost XT 256GB drive provides excellent performance; making it the perfect solution for those who rely on having fast access to their data and media while trying to manage a busy lifestyle. This high capacity Supersonic Boost XT features the same award winning ultra-durable rubberized housing the Supersonic Boost XT line has been known. This housing provides best in class protection for worry free use even in the most rugged applications.</p>
@@ -1827,7 +1428,7 @@ Today, Patriot is one the oldest branded memory companies in the USA and continu
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_1">
+                         			  	   <div style="display:none" class="news_postingP_2">
 										   
                  					       
 										   
@@ -1843,7 +1444,7 @@ Today, Patriot is one the oldest branded memory companies in the USA and continu
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_2">
+                         			  	   <div style="display:none" class="news_postingP_3">
 										   
                  					       
 										   
@@ -1870,7 +1471,7 @@ Today, Patriot is one the oldest branded memory companies in the USA and continu
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_3">
+                         			  	   <div style="display:none" class="news_postingP_4">
 										   
                  					       
 										   
@@ -1884,7 +1485,7 @@ Today, Patriot is one the oldest branded memory companies in the USA and continu
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_4">
+                         			  	   <div style="display:none" class="news_postingP_5">
 										   
                  					       
 										   
@@ -1897,7 +1498,7 @@ Today, Patriot is one the oldest branded memory companies in the USA and continu
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_5">
+                         			  	   <div style="display:none" class="news_postingP_6">
 										   
                  					       
 										   
@@ -1910,7 +1511,7 @@ Today, Patriot is one the oldest branded memory companies in the USA and continu
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_6">
+                         			  	   <div style="display:none" class="news_postingP_7">
 										   
                  					       
 										   
@@ -1965,7 +1566,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_7">
+                         			  	   <div style="display:none" class="news_postingP_8">
 										   
                  					       
 										   
@@ -1998,7 +1599,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_8">
+                         			  	   <div style="display:none" class="news_postingP_9">
 										   
                  					       
 										   
@@ -2030,7 +1631,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_9">
+                         			  	   <div style="display:none" class="news_postingP_10">
 										   
                  					       
 										   
@@ -2064,7 +1665,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_10">
+                         			  	   <div style="display:none" class="news_postingP_11">
 										   
                  					       
 										   
@@ -2115,7 +1716,7 @@ Expect the Javelin S4 to ship to customers in late February 2011. For more infor
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_11">
+                         			  	   <div style="display:none" class="news_postingP_12">
 										   
                  					       
 										   
@@ -2141,7 +1742,7 @@ General details:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_12">
+                         			  	   <div style="display:none" class="news_postingP_13">
 										   
                  					       
 										   
@@ -2171,7 +1772,7 @@ General details<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_13">
+                         			  	   <div style="display:none" class="news_postingP_14">
 										   
                  					       
 										   
@@ -2212,7 +1813,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_14">
+                         			  	   <div style="display:none" class="news_postingP_15">
 										   
                  					       
 										   
@@ -2249,7 +1850,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_15">
+                         			  	   <div style="display:none" class="news_postingP_16">
 										   
                  					       
 										   
@@ -2294,7 +1895,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_16">
+                         			  	   <div style="display:none" class="news_postingP_17">
 										   
                  					       
 										   
@@ -2325,7 +1926,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_17">
+                         			  	   <div style="display:none" class="news_postingP_18">
 										   
                  					       
 										   
@@ -2354,7 +1955,7 @@ General details<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_18">
+                         			  	   <div style="display:none" class="news_postingP_19">
 										   
                  					       
 										   
@@ -2380,7 +1981,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_19">
+                         			  	   <div style="display:none" class="news_postingP_20">
 										   
                  					       
 										   
@@ -2416,7 +2017,7 @@ General details<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_20">
+                         			  	   <div style="display:none" class="news_postingP_21">
 										   
                  					       
 										   
@@ -2451,7 +2052,7 @@ General details<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_21">
+                         			  	   <div style="display:none" class="news_postingP_22">
 										   
                  					       
 										   
@@ -2484,7 +2085,7 @@ New Patriot Torqx 2 series SSDs<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_22">
+                         			  	   <div style="display:none" class="news_postingP_23">
 										   
                  					       
 										   
@@ -2522,7 +2123,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_23">
+                         			  	   <div style="display:none" class="news_postingP_24">
 										   
                  					       
 										   
@@ -2554,7 +2155,7 @@ Patriot Supersonic Series Magnum<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_24">
+                         			  	   <div style="display:none" class="news_postingP_25">
 										   
                  					       
 										   
@@ -2587,7 +2188,7 @@ General details<br><br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_25">
+                         			  	   <div style="display:none" class="news_postingP_26">
 										   
                  					       
 										   
@@ -2638,7 +2239,7 @@ Multiple user management  <br><br></p>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_26">
+                         			  	   <div style="display:none" class="news_postingP_27">
 										   
                  					       
 										   
@@ -2673,7 +2274,7 @@ General Details
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_27">
+                         			  	   <div style="display:none" class="news_postingP_28">
 										   
                  					       
 										   
@@ -2696,7 +2297,7 @@ The PBO Core high-definition media player has been the winner of numerous awards
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_28">
+                         			  	   <div style="display:none" class="news_postingP_29">
 										   
                  					       
 										   
@@ -2791,7 +2392,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_29">
+                         			  	   <div style="display:none" class="news_postingP_30">
 										   
                  					       
 										   
@@ -2862,7 +2463,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_30">
+                         			  	   <div style="display:none" class="news_postingP_31">
 										   
                  					       
 										   
@@ -2884,7 +2485,7 @@ The Patriot Viper Xtreme series of products are launching today with the immedia
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_31">
+                         			  	   <div style="display:none" class="news_postingP_32">
 										   
                  					       
 										   
@@ -2909,7 +2510,7 @@ Patriot Convoy 4x4 enclosures have an industrial design featuring a rugged alumi
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_32">
+                         			  	   <div style="display:none" class="news_postingP_33">
 										   
                  					       
 										   
@@ -2994,7 +2595,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_33">
+                         			  	   <div style="display:none" class="news_postingP_34">
 										   
                  					       
 										   
@@ -3066,7 +2667,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_34">
+                         			  	   <div style="display:none" class="news_postingP_35">
 										   
                  					       
 										   
@@ -3127,7 +2728,7 @@ Patriot LX Series UHS-I SDXC memory cards are tested for reliability and compati
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_35">
+                         			  	   <div style="display:none" class="news_postingP_36">
 										   
                  					       
 										   
@@ -3151,7 +2752,7 @@ The Viper II Series Sector 7 Edition is built using only the highest quality pre
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_36">
+                         			  	   <div style="display:none" class="news_postingP_37">
 										   
                  					       
 										   
@@ -3226,7 +2827,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_37">
+                         			  	   <div style="display:none" class="news_postingP_38">
 										   
                  					       
 										   
@@ -3261,7 +2862,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_38">
+                         			  	   <div style="display:none" class="news_postingP_39">
 										   
                  					       
 										   
@@ -3330,7 +2931,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_39">
+                         			  	   <div style="display:none" class="news_postingP_40">
 										   
                  					       
 										   
@@ -3398,7 +2999,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_40">
+                         			  	   <div style="display:none" class="news_postingP_41">
 										   
                  					       
 										   
@@ -3495,7 +3096,7 @@ The Zephyr family of SSDs are durable and reliable, with an aluminum housing to 
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_41">
+                         			  	   <div style="display:none" class="news_postingP_42">
 										   
                  					       
 										   
@@ -3515,7 +3116,7 @@ Designed with an extruded aircraft-grade aluminum heat spreader, Viper II 'Secto
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_42">
+                         			  	   <div style="display:none" class="news_postingP_43">
 										   
                  					       
 										   
@@ -3642,6 +3243,8 @@ $(document).ready(function (){
 
 
 
+
+
 <!--Footer--> 
 
 
@@ -3702,6 +3305,7 @@ $(document).ready(function (){
             <li><a href="http://www.patriotmemory.com/support/support_faqp.jsp">Knowledge Base</a></li>
 			<li><a href="http://www.patriotmemory.com/reseller/indexp.jsp">Product Registration</a></li>
 			<li><a href="http://www.patriotmemory.com/reseller/indexr.jsp">Become a Distributor/Reseller</a></li>
+			<li><a href="http://www.patriotmemory.com/support/productterms.jsp">Warranty</a></li>
 
         </ul>
 
@@ -3751,7 +3355,8 @@ $(document).ready(function (){
 
 <div id="copyright">
 
-	<span>©1985-2012 Patriot Memory® LLC. All Rights Reserved.</span>	
+	<span>©1985-2014 Patriot Memory® LLC. All Rights Reserved.</span>	
+	
     <a href="javascript:stCookie('de');"><font color="#ffffff">.</font></a>
 
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -3775,6 +3380,21 @@ $(document).ready(function (){
 
     <span id="loading_text">Loading...</span><br>
 
-</div>                       
+</div>
+
+<script type="text/javascript">
+  /* <![CDATA[ */
+  document.write (
+    '<img src="http://marketing.patriotmemory.com/acton/bn/10141/visitor.gif?ts='+
+    new Date().getTime()+
+    '&ref='+escape(document.referrer) + '">'
+  );
+  var aoAccountId = '10141';
+  var aoCookieMode = 'STANDARD';
+  var aoCookieDomain = 'patriotmemory.com';
+  var aoServerContext = 'http://marketing.patriotmemory.com/acton';
+  /* ]]> */
+</script><img src="http://marketing.patriotmemory.com/acton/bn/10141/visitor.gif?ts=1580496934941&amp;ref=">
+                       
 
 </div><div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div></body></html>
