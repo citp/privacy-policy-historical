@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the like-ex.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806043118id_/http%3A//like-ex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the like-ex.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122745id_/http%3A//like-ex.com/privacy.php) for the most accurate reproduction.*
 
-# Like-Ex.com - Free Facebook Likes - Like Exchange - Like 4 Like Exchange - Fast Real Likes Fans Followers Subscribers Exchange
+# Like-Ex.com - Like Exchange - Free Facebook Likes, Like 4 Like Exchange, Free Likes
 
 **LEGAL PRIVACY POLICY for Like-Ex.com**
 
@@ -39,29 +39,7 @@ Like-Ex.com does not rent, sell, or share personal information about you with ot
 
 We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activies, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Like-Ex.com s Terms of Service, or as otherwise required by law.
 
-**Cancellation & Refund Policy:**
-
-**Cancellation Policy**
-
-Like-Ex.com believes in helping its customers as far as possible, and has therefore a liberal cancellation policy. Under this policy:
-
-• Cancellations will be considered only if the request is made within 24 hours of placing an order. However, the cancellation request will not be entertained if the orders have been communicated to the vendors/merchants and they have initiated the process of shipping them.  
-• There is no cancellation of orders placed under the Same Day Delivery category.  
-• Like-Ex.com does not accept cancellation requests for items(points) that you are already used.  
-• In case you feel that the product received is not as shown on the site or as per your expectations, you must bring it to the notice of our customer service within 24 hours of receiving the product. The Customer Service Team after looking into your complaint will take an appropriate decision.
-
-**Refund Policy**
-
-When you buy our products/services, your purchase is covered by our 1-day money-back guarantee.  
-If you are, for any reason, not entirely happy with your purchase and/or haven t used all purchased points, we will cheerfully issue a full refund.
-
-To request a refund, simply contact us with your purchase details within one (1) day of your purchase.
-
-Please include your order number (sent to you via email after ordering) and optionally tell us why you’re requesting a refund – we take customer feedback very seriously and use it to constantly improve our products and quality of service.
-
-Refunds are not being provided for services that you already have used, because our network fill your account balance (adding points) immediately after purchase done. Refunds are being processed within 7 days period.
-
- **You cannot withdraw added funds.**
-
 **Contacting Us:**  
 If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please contact us at: Admin [at] Like-Ex.com 
+
+[_Contact Us_](https://web.archive.org/web/20140625122745id_/http%3A//like-ex.com/contact.php)
