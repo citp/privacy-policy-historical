@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankalfalah.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204185755id_/http%3A//www.bankalfalah.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankalfalah.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140452id_/http%3A//www.bankalfalah.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bank AlfalahBank Alfalah
 
@@ -46,8 +46,8 @@ BAFL reserves the right to modify this Privacy Statement or any part thereof at 
 
 By using our web site, you hereby consent to our privacy policy and agree to its terms.
 
-[](http://www.bankalfalah.com/cltp-content/plugins/adrotate/adrotate-out.php?track=NiwwLDAsaHR0cDovL3d3dy5iYW5rYWxmYWxhaC5jb20vcGVyc29uYWwtYmFua2luZy9iYW5jYXNzdXJhbmNl)[](http://www.bankalfalah.com/cltp-content/plugins/adrotate/adrotate-out.php?track=MywwLDAsaHR0cDovL3d3dy5iYW5rYWxmYWxhaC5jb20vcGVyc29uYWwtYmFua2luZy9sb2Fucy9hbGZhbGFoLWNhci1maW5hbmNl)[](http://www.bankalfalah.com/cltp-content/plugins/adrotate/adrotate-out.php?track=OSwwLDAsaHR0cDovL3d3dy5iYW5rYWxmYWxhaC5jb20vcGVyc29uYWwtYmFua2luZy9sb2Fucy9ob21lLWZpbmFuY2U)
+[](http://www.bankalfalah.com/cltp-content/plugins/adrotate/adrotate-out.php?track=NiwwLDAsaHR0cDovL3d3dy5iYW5rYWxmYWxhaC5jb20vcGVyc29uYWwtYmFua2luZy9iYW5jYXNzdXJhbmNl)[](http://www.bankalfalah.com/cltp-content/plugins/adrotate/adrotate-out.php?track=MywwLDAsaHR0cDovL3d3dy5iYW5rYWxmYWxhaC5jb20vYnVzaW5lc3MtYmFua2luZy9hbGZhbGFoLXNtZS10b29sa2l0Lw=)[](http://www.bankalfalah.com/cltp-content/plugins/adrotate/adrotate-out.php?track=OSwwLDAsaHR0cDovL3d3dy5iYW5rYWxmYWxhaC5jb20vcGVyc29uYWwtYmFua2luZy9sb2Fucy9ob21lLWZpbmFuY2U)
 
 ## 24/7 Customer Support 
 
-For details about our Products & Services call our Phone Banking Service at  111-225-111
+For details about our Products & Services call our Phone Banking Service at 111-225-111
