@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purpleport.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211221206id_/http%3A//purpleport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purpleport.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625144315id_/http%3A//purpleport.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Portfolio hosting and networking for models, photographers and related creatives / PurplePort
 
@@ -53,7 +53,7 @@ The information that we collect and store relating to you is primarily used to e
 
 4.1 We may transfer data that we collect from you to locations outside of the European Economic Area for processing and storing. Also, it may be processed by staff operating outside the European Economic Area who work for us or for one of our suppliers. For example, such staff maybe engaged in the processing and concluding of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy.
 
-4.2 Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure it's safety. 
+4.2 Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure its safety. 
 
 4.3 The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
 
@@ -71,7 +71,7 @@ The information that we collect and store relating to you is primarily used to e
 
 ## 6\. Third Party Links
 
-You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them. 
+You might find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them. 
 
 ## 7\. Access To Information
 
