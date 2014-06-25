@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erlibird.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822091010id_/http%3A//www.erlibird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erlibird.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062629id_/https%3A//erlibird.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Erli Bird
 
@@ -14,7 +14,7 @@ We allow you to get on our email list by providing your email address or using o
 
 If you don't want to hear from us, please opt-out from our emails on the bottom of the email. If for some reason this does not work or you would rather contact us directly, please email us at team@erlibird.com and we will promptly remove you from our list.
 
-By default, we will send you approximately one email a week related to new startups and products that we feature.
+By default, we will send you approximately one or two emails a week related to new startups and products that we feature.
 
 Users that have requested access to Erli Bird but have not yet been granted access will not be sent recurring weekly emails.
 
