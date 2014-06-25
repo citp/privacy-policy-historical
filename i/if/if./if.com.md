@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125004957id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054312id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Privacy - Intelligent Finance
 
@@ -180,11 +180,10 @@ As part of our ongoing commitment to understanding our customers better, we may 
 
 Under the Data Protection Act you have the right of access to your personal data. The Act allows us to charge a fee of £10 for this service. If anything is inaccurate or incorrect, please let us know and we will correct it. For further details on how to request a copy of your information, please write to the:
 
-Data Unit  
-Freepost NWW15306  
-City House  
-City Road  
-Chester CH88 3YZ 
+Intelligent Finance  
+PO Box 17316  
+Edinburgh  
+EH12 1AY 
 
 **Using your personal information to contact you about products and services.**
 
