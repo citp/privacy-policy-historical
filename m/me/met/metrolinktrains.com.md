@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrolinktrains.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214161024id_/http%3A//www.metrolinktrains.com/help/page/title/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrolinktrains.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111615id_/http%3A//www.metrolinktrains.com/help/page/title/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Metrolink
 
@@ -27,9 +27,9 @@ We may provide links from this website to external sites maintained by other pub
 
 Because Metrolink is a public agency, information that you provide to us on this website may be subject to disclosure under the California Public Records Act. This means that if a member of the public requests this information, we are required to provide the information to the person requesting it unless it falls under one of the exceptions contained in the Public Records Act. Metrolink may also be required to disclose this information pursuant to some other law or a court order.
 
-Metrolink may also disclose personal information to federal, state or local law enforcement authorities to enforce its rights against unauthorized access or attempted unauthorized access to Metrolink’s information technology assets or against other inappropriate use of the Metrolink website or other Metrolink property. 
+Metrolink may also disclose personal information to federal, state or local law enforcement authorities to enforce its rights against unauthorized access or attempted unauthorized access to Metrolink’s information technology assets or against other inappropriate use of the Metrolink website or other Metrolink property.
 
-You have the right to learn what personal information about you is contained in Metrolink’s records. If you want this information, contact us at 213-452-0225 and make a request for a copy of the information we have received online from you and have stored. If you believe this information is inaccurate or incomplete, you may provide us with verified accurate and complete information.
+You have the right to learn what personal information about you is contained in Metrolink’s records. If you want this information, contact us at 213-452-0200 and make a request for a copy of the information we have received online from you and have stored. If you believe this information is inaccurate or incomplete, you may provide us with verified accurate and complete information.
 
 By accessing this website, you are consenting to the information collection and use practices described in this policy.
 
