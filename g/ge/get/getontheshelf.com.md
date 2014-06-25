@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getontheshelf.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228190022id_/http%3A//corporate.walmart.com/privacy-security/walmart-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getontheshelf.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083524id_/http%3A//corporate.walmart.com/privacy-security/walmart-privacy-policy) for the most accurate reproduction.*
 
 # Walmart Corporate - Walmart Privacy Policy Highlights
 
@@ -36,7 +36,7 @@ We collect your information from the following sources:
 
 
 
-[Read more about How We Use and/or Share Your Information >](http://corporate.walmart.com/privacy-security/walmart-privacy-policy#HowWeUseInfo)
+[Read more about How We Use and/or Share Your Information >](http://corporate.walmart.com/privacy-security/walmart-privacy-policy#HowWeUseInfo "Link: http://corporate.walmart.com/privacy-security/walmart-privacy-policy#HowWeUseInfo")
 
 ####  Your Choices: 
 
@@ -44,12 +44,12 @@ We collect your information from the following sources:
     * We will not contact you via phone or text message without your express consent (opt-in).
     * We will not disclose your personal information to third parties for marketing purposes without your express consent (opt-in).
     * We use an opt-out standard for all other communications. This means we will conduct the activity unless you tell us not to.
-  * We participate in interest-based advertising. This means that you may see advertising on our website tailored to how you browse or shop, or you may see advertising for Walmart on other websites based on your browsing behavior across websites. [Learn more about such advertising, including how to opt out](http://www.walmart.com/cservice/contextual_help_popup.gsp?modId=971879&adid=1500000000000006858130).
-  * You can provide us your marketing preferences by visiting the [Privacy Preference Center](http://www.walmart.com/privacypreferences?adid=1500000000000006858130). The Preference Center allows you to update or change your preferences for marketing materials at any time. You can also contact us via the Contact Us section below.
+  * We participate in interest-based advertising. This means that you may see advertising on our website tailored to how you browse or shop, or you may see advertising for Walmart on other websites based on your browsing behavior across websites. [Learn more about such advertising, including how to opt out](http://corporate.walmart.com/privacy-security/notices/about-our-ads "Link: http://www.walmart.com/cservice/contextual_help_popup.gsp?modId=971879&adid=1500000000000006858130").
+  * You can provide us your marketing preferences by visiting the [Privacy Preference Center](http://www.walmart.com/privacypreferences?adid=1500000000000006858130 "Link: http://www.walmart.com/privacypreferences?adid=1500000000000006858130"). The Preference Center allows you to update or change your preferences for marketing materials at any time. You can also contact us via the Contact Us section below.
 
 
 
-[Read more about Your Choices>](http://corporate.walmart.com/privacy-security/walmart-privacy-policy#YourChoices)
+[Read more about Your Choices>](http://corporate.walmart.com/privacy-security/walmart-privacy-policy#YourChoices "Link: http://corporate.walmart.com/privacy-security/walmart-privacy-policy#YourChoices")
 
 ####  Mobile Application Privacy: 
 
@@ -157,7 +157,7 @@ We may disclose your information in other special circumstances. These include s
 
 **Marketing Purposes**  
 
-From time to time with your consent, we may disclose information with carefully selected companies who may offer you products and services of interest. You may opt in to this sharing under the   ["Your Choices"](http://corporate.walmart.com/privacy-security/walmart-privacy-policy#YourChoices) section below. 
+From time to time with your consent, we may disclose information with carefully selected companies who may offer you products and services of interest. You may opt in to this sharing under the  ["Your Choices"](http://corporate.walmart.com/privacy-security/walmart-privacy-policy#YourChoices) section below. 
 
 **Business Transfers  
 **   
@@ -176,7 +176,7 @@ We want to communicate with you in ways you want to hear from us. Examples are n
 
 
 
-You can provide us with your marketing preferences by visiting the   [Privacy Preference Center](http://www.walmart.com/privacypreferences?adid=1500000000000006858130). The Preference Center allows you to update or change your preferences about receiving marketing materials at any time. Or you may contact the Privacy Office as described in the   [Contact Us](http://corporate.walmart.com/privacy-security/walmart-privacy-policy#ContactUs) section below. 
+You can provide us with your marketing preferences by visiting the [Privacy Preference Center](http://www.walmart.com/privacypreferences?adid=1500000000000006858130 "Link: http://www.walmart.com/privacypreferences?adid=1500000000000006858130"). The Preference Center allows you to update or change your preferences about receiving marketing materials at any time. Or you may contact the Privacy Office as described in the [Contact Us](http://corporate.walmart.com/privacy-security/walmart-privacy-policy#ContactUs "Link: http://corporate.walmart.com/privacy-security/walmart-privacy-policy#ContactUs") section below. 
 
 If you contact us by email or mail, please be sure to include your full name, the types of communications you would like to receive or not receive, and your related contact information. For instance, if you would like to opt-out of mail, include your mailing address. Please allow sufficient time for your preferences to be processed. It may take up to 10 days to process your requests related to email and 4-6 weeks for other requests. 
 
@@ -206,7 +206,7 @@ We may use how you browse and shop in order to show you advertisements on our we
 
 In addition, we belong to ad networks that may use your browsing history across participating websites to show you interest-based advertisements on those websites. You may see ads for Walmart on participating websites based on how you browse our website and those sites. We do not allow the network provider to provide your browsing behavior on our website to other websites. 
 
-[Learn more about interest-based advertising, including how to opt out](http://www.walmart.com/cservice/contextual_help_popup.gsp?modId=971879&adid=1500000000000006858130). You may opt-out of either interest-based advertising on our website, or interest-based advertising on other sites, as described above. Other websites you visit may offer their own opt-out methods as well. If you do opt-out of interest-based advertisements, you may still see advertisements on websites you visit, just not ads based on your browsing behavior. 
+[Learn more about interest-based advertising, including how to opt out](http://corporate.walmart.com/privacy-security/notices/about-our-ads "Link: http://www.walmart.com/cservice/contextual_help_popup.gsp?modId=971879&adid=1500000000000006858130"). You may opt-out of either interest-based advertising on our website, or interest-based advertising on other sites, as described above. Other websites you visit may offer their own opt-out methods as well. If you do opt-out of interest-based advertisements, you may still see advertisements on websites you visit, just not ads based on your browsing behavior. 
 
 ####  How to Access and Update Your Information 
 
@@ -239,13 +239,13 @@ When you use our Pharmacies or Vision Centers, you may provide us with your heal
 
 **Financial Products and Services**  
 
-When you obtain financial products and services from us, we may collect and use certain financial-related information. We understand the sensitive nature of this information as well, and protect it in accordance with laws and our policies. Financial products and services include money orders, money transfers, credit card offerings, bill payment, and check cashing. Find out more about   [Financial Services Privacy](http://corporate.walmart.com/privacy-security/financial-services). 
+When you obtain financial products and services from us, we may collect and use certain financial-related information. We understand the sensitive nature of this information as well, and protect it in accordance with laws and our policies. Financial products and services include money orders, money transfers, credit card offerings, bill payment, and check cashing. Find out more about [Financial Services Privacy](http://corporate.walmart.com/privacy-security/financial-services). 
 
 We protect payment card information we collect during transactions. We comply with industry standards that require safeguards for handling and securing customer information. These include using secure networks; encryption or other protection of cardholder data; physical and technical access controls; monitors and tests of security systems; and information security policies. 
 
 ####  Privacy of Children Online 
 
-We are committed to protecting children's online privacy. Our websites are for a general audience and are not geared towards children. In order to protect the privacy of children, Walmart websites and mobile applications do not knowingly collect personal information from children under the age of 13 without prior parental consent. Please contact us via the   ["Contact Us"](http://corporate.walmart.com/privacy-security/walmart-privacy-policy#ContactUs) section of this Policy if you believe we may have collected information from your child and we will work to delete it. 
+We are committed to protecting children's online privacy. Our websites are for a general audience and are not geared towards children. In order to protect the privacy of children, Walmart websites and mobile applications do not knowingly collect personal information from children under the age of 13 without prior parental consent. Please contact us via the ["Contact Us"](http://corporate.walmart.com/privacy-security/walmart-privacy-policy#ContactUs "Link: http://corporate.walmart.com/privacy-security/walmart-privacy-policy#ContactUs") section of this Policy if you believe we may have collected information from your child and we will work to delete it. 
 
 ####  Privacy of Mobile Applications 
 
@@ -277,7 +277,7 @@ As a global company, Walmart has separate privacy policies for its international
 
 Please check our privacy Policy periodically for changes. We will also notify you of significant updates and will post the date it was last updated at the bottom of the privacy Policy. 
 
-Email   [Customer Service](http://corporate.walmart.com/contact-us/store-corporate-feedback)\- for store experience, marketing preferences and general feedback/questions. 
+Email [Customer Service](http://corporate.walmart.com/contact-us/store-corporate-feedback "Link: http://corporate.walmart.com/contact-us/store-corporate-feedback")\- for store experience, marketing preferences and general feedback/questions. 
 
 Contacting the Privacy Office 
 
