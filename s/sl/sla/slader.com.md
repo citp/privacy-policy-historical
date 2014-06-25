@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slader.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815194736id_/http%3A//www.slader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slader.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071144id_/http%3A//www.slader.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy :: Homework Help and Answers :: Slader
 
@@ -128,13 +128,13 @@ We reserve the right to modify this Policy at any time, so please review it freq
 
 If you have any questions about this Privacy Policy, please contact us at: privacy@slader.com or at the address or telephone number listed below.
     
-                            SLADER Customer Relations
-                        199 Lafayette Street, Suite 3B
-                        New York, NY 10012
-                        USA
-                        Phone: 212-625-4877
-                        Email: 	privacy@Slader.com
-                    
+                        SLADER Customer Relations
+                    199 Lafayette Street, Suite 3B
+                    New York, NY 10012
+                    USA
+                    Phone: 212-625-4877
+                    Email: 	privacy@Slader.com
+                
 
 
 
