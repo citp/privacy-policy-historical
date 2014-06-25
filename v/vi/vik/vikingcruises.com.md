@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vikingcruises.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225041513id_/http%3A//www.vikingcruises.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vikingcruises.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091754id_/http%3A//www.vikingcruises.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,4 +32,20 @@ Consent and Changes to Privacy Policy
 By using this site, you consent to the collection, use and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the site. We reserve the right to make changes to this Privacy Policy from time to time. If this Privacy Policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures that you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
 Your Comments Are Appreciated   
-If you have any questions or comments regarding our privacy policy or our website, you can send us an email at [_webmaster@vikingcruises.com_](mailto:webmaster@vikingcruises.com).
+If you have any questions or comments regarding our privacy policy or our website, you can send us an email at 
+
+[_webmaster@vikingcruises.com_](mailto:webmaster@vikingcruises.com)
+
+. 
+
+We also use cookies to improve the performance of our advertising on other websites. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted 
+
+[_VikingRiverCruises.com_](http://www.vikingrivercruises.com/)
+
+advertising during your visits to other websites. To opt-out of 
+
+[_VikingRiverCruises.com_](http://www.vikingrivercruises.com/)
+
+data collection for targeted advertising on other sites, click here: Opt Out Now. 
+
+[_http://media.vikingrivercruises.com/optout.html_](http://media.vikingrivercruises.com/optout.html)
