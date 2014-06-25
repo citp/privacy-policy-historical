@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the malektips.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923093831id_/http%3A//malektips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malektips.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045714id_/http%3A//malektips.com/privacy.html) for the most accurate reproduction.*
 
 # MalekTips - Privacy Policy
 
 MalekTips.Com is owned by Andrew Malek of Envision Programming. 
 
-Envision Programming  
+**Envision Programming  
 attn: MalekTips.Com  
 PO Box 11592  
-Knoxville, TN 37939-1592
+Knoxville, TN 37939-1592**
 
-  [Contact us via e-mail.](http://www.envprogramming.com/cgi-bin/contact.pl?site=m&he=1)
+[Contact us via e-mail.](http://www.envprogramming.com/cgi-bin/contact.pl?site=m&he=1)
 
 This privacy statement applies to the MalekTips.Com website, and may or may not apply to content provided by third-party providers, advertisements, or external links. 
 
@@ -34,22 +34,3 @@ Regarding BurstMedia: We use third-party advertising companies to serve ads when
 ###  Registration for Those Under 13 
 
 Portions of MalekTips may require registration, which may include submitting an e-mail address and/or other personally identifiable information. These portions are not geared towards children, and we do not knowingly collect personal information from those under the age of 13. 
-
-  
-
-
-### Newest Tips:
-
-[ Google   
-Look Inside Google's Data Centers ](http://malektips.com/google-data-centers-photos.html) [ Sites to Browse - Humor - Pranks   
-Make the Internet Safe for Cats  ](http://malektips.com/meowbify-cat-photo-any-site.html) [ Google   
-Find Google Blogs, Plus Google on Twitter, FaceBook, Elsewhere  ](http://malektips.com/google-blog-facebook-twitter-plus.html) [ Microsoft Excel 2010   
-Stop Accidentally Showing the Ribbon Shortcut Keys  ](http://malektips.com/excel-2010-slash-ribbon-shortcut-keys-menu-disable.html)
-
-### Follow Us!
-
-[ Email  ](http://malektips.com/maillist/subscribe.html) [ Twitter  ](http://twitter.com/malektips/) [ ](http://malektips.com/rss/)
-
-###  About MalekTips and the Author 
-
-The MalekTips website was created in 1998 by Andrew Malek of Envision Programming. The page's goal is to freely disperse computer-related tips, hints, and informative articles. Tips are organized to be easy to find, and are presented clearly, in easy-to-understand language. MalekTips also provides information and links to public-domain, open source, freeware, shareware, and commercial software available for download. 
