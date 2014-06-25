@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techspy.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207043444id_/http%3A//techspy.com/site/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techspy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091718id_/http%3A//techspy.com/site/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | TechSpy
 
