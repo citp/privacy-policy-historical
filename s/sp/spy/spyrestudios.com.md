@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spyrestudios.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209213014id_/http%3A//spyrestudios.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyrestudios.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131222id_/http%3A//spyrestudios.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SpyreStudios
+# Privacy Policy - SpyreStudios | SpyreStudios
 
 Privacy Policy
 
