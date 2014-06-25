@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeqq.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206051912id_/http%3A//www.jeqq.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeqq.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110539id_/http%3A//www.jeqq.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY / Jeqq
 
