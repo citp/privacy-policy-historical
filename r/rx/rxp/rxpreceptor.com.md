@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rxpreceptor.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508012937id_/http%3A//rxinsider.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rxpreceptor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055709id_/http%3A//rxinsider.com/privacy.html) for the most accurate reproduction.*
 
 # RXinsider | Contact Us
 
