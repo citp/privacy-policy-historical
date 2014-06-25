@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rhi.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904183442id_/http%3A//www.rhi.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhi.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625145558id_/http%3A//www.roberthalf.com/privacypolicy) for the most accurate reproduction.*
 
-# Robert Half International - Privacy Policy
+# Privacy Policy | Robert Half
 
-Welcome to www.rhi.com (the "Site"). This website privacy policy ("Policy") describes how Robert Half International Inc. and its subsidiaries ("We", "we", or "RHI") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Information").
+Welcome to www.rhi.com (the "Site"). This website privacy policy ("Policy") describes how Robert Half and its subsidiaries ("We", "we", or "RHI") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Information").
 
 **Collections and Uses of Personal Information**
 
@@ -27,8 +27,8 @@ This Policy is effective as of October 27, 2006. If you have any questions about
 Mailing Address:
 
 > The Webmaster  
->  Robert Half International Inc.  
+>  Robert Half  
 >  2884 Sand Hill Road  
 >  Menlo Park, California 94025
 
-Email Address: [webmaster@rhi.com](mailto:webmaster@rhi.com)
+Email Address: [webmaster@roberthalf.com](mailto:webmaster@roberthalf.com)
