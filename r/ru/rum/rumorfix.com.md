@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rumorfix.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208050837id_/http%3A//rumorfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rumorfix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121352id_/http%3A//rumorfix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RumorFix
+# Privacy Policy - RumorFix - RumorFix
 
 Privacy Policy
 
@@ -86,6 +86,10 @@ Company incorporates commercially reasonable safeguards to help protect and secu
 
 **A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY**  
 The Web Site is a general audience web site. We do not knowingly collect any Personal Information from children younger than the age of thirteen (13) on the Web Site and we will delete any information later determined to be from a user younger than thirteen (13).
+
+**THIRD PARTY ADVERTISING**
+
+ We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and otherwebsites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp> .
 
 **NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY**  
 By using the Web Site, you acknowledge your agreement to the terms of this Privacy Policy. From time to time, Company may update this Privacy Policy and those changes will become effective immediately upon posting. However, Company will use your Personal Information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy.
