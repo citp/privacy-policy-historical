@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105124910id_/https%3A//www.payloadz.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625213229id_/https%3A//www.payloadz.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy- Affiliate Marketing, Sell Downloadable Software, ECommerce Software
+# Privacy Policy - PayLoadz
 
 This site is owned and operated by PayLoadz, Inc . We want to make your experience online satisfying and safe. 
 
