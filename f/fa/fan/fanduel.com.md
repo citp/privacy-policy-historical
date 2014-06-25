@@ -1,43 +1,6 @@
-> *The following text is extracted and transformed from the fanduel.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814150927id_/https%3A//www.fanduel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanduel.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626003319id_/https%3A//www.fanduel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FanDuel
-
-## Daily Fantasy Sports Leagues
-
-  * Contact Us: 1-800-475-2250 
-  * [Support](https://www.fanduel.com/p/Support)
-  * [Join](https://www.fanduel.com/p/JoinPp)
-  * [Login](https://www.fanduel.com/p/login)
-
-
-
-_☰_ Navigation _➕_ About Us How It Works Promos Affiliates
-
-  * [Home](https://web.archive.org/)
-  * [About Us](https://web.archive.org/about-us)
-    * [Overview](https://web.archive.org/about-us)
-    * [The Team](https://web.archive.org/meet-the-team)
-    * [Jobs](https://web.archive.org/jobs)
-    * [Press](https://web.archive.org/press)
-    * [Is FanDuel Legal?](https://web.archive.org/legal)
-    * [Terms of Use](https://web.archive.org/terms)
-    * [Privacy Policy](https://web.archive.org/privacy)
-  * [How It Works](https://web.archive.org/how-it-works)
-    * [Overview](https://web.archive.org/how-it-works)
-    * [Rules & Scoring](https://web.archive.org/rules)
-  * [Promos](https://web.archive.org/promos)
-    * [Overview](https://web.archive.org/promos)
-    * [FFFC](https://www.fanduel.com/fffc)
-    * [DFBC](https://web.archive.org/dfbc)
-    * [Weekly Freerolls](https://web.archive.org/weekly-freerolls)
-    * [Pending Bonus](https://web.archive.org/pending-bonus)
-    * [FanDuel Points](https://web.archive.org/fanduel-points)
-  * [Support](https://www.fanduel.com/p/Support)
-  * [Affiliates](https://web.archive.org/affiliates)
-    * [Overview](https://web.archive.org/affiliates)
-    * [Affiliates FAQ](https://web.archive.org/affiliates-faq)
-
-
 
 FanDuel recognizes that its customers, visitors, users, and others who use FanDuel value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected via the FanDuel.com website. FanDuel provides this Privacy Notice to help you make an informed decision about whether to use or continue using FanDuel.
 
