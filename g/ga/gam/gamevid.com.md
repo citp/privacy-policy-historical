@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamevid.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816041659id_/http%3A//www.gamevid.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamevid.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133251id_/http%3A//www.gamevid.com/policy) for the most accurate reproduction.*
 
 # GameVid
 
