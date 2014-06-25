@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the chat-avenue.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902100516id_/http%3A//www.chat-avenue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chat-avenue.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051325id_/http%3A//www.chat-avenue.com/privacy.html) for the most accurate reproduction.*
 
 # #1 Chat Avenue - Privacy Statement
 
-  
 **#1 Chat Avenue** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ #1 Chat Avenue](http://www.chat-avenue.com/)
 
  _ **Important Note to Children under 13:**_ Children under 13 are NOT allowed to use any of our chat rooms or allowed to participate in any way, shape, or form on this website. 
@@ -33,8 +32,7 @@ IMPORTANT NOTE: The "Kids Chat" is for older kids. Specifically, users aged 13-1
 
 This site contains links to other sites. **#1 Chat Avenue** is not responsible for the privacy practices or the content of such Web sites. 
 
-This site makes chat rooms and message forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information to others. This site does not collect any personal information from the chat rooms or message forums that can personally identify you in any way. Email addresses are required in order to register for the message forums, but those are never shared with any third parties and are only used for registration purposes. In addition, users must be 13 years or older in order to register to the forums. As mentioned previously, if your child is under 13 and has registered for a forums account, please contact us immediately with their username and we will have it removed immediately. 
-
+This site makes chat rooms and message forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information to others. This site does not collect any personal information from the chat rooms or message forums that can personally identify you in any way. Email addresses are required in order to register for the message forums, but those are never shared with any third parties and are only used for registration purposes. In addition, users must be 13 years or older in order to register to the forums. As mentioned previously, if your child is under 13 and has registered for a forums account, please contact us immediately with their username and we will have it removed immediately.   
 #1 Chat Avenue will never require a user to submit any more personal information other than what is required for activity participation. (Age verification and/or chat nickname) 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can write us an email at: 
