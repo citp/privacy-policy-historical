@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platinumservermanagement.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126060211id_/http%3A//www.platinumservermanagement.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platinumservermanagement.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114842id_/http%3A//platinumservermanagement.com/Privacy.html) for the most accurate reproduction.*
 
 # Platinum Server Management, Inc. - 24x7x365 cPanel Server Management
 
