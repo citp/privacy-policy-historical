@@ -1,150 +1,181 @@
-> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116043715id_/http%3A//www.gevalia.com/on/demandware.store/Sites-Gevalia-Site/default/mPage-Show%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131028id_/http%3A//www.gevalia.com/on/demandware.store/Sites-Gevalia-Site/default/mPage-Show%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Gevalia Coffee Privacy Policy
 
-##### Effective Date: 10/26/2011
+##### Effective Date:3/03/2014
 
-Gevalia respects your concerns about privacy and values its relationship with you. This Privacy Notice describes the types of personal information we collect through this website, how we may use that information and with whom we may share it. In addition, the Notice describes the measures we take to protect the security of the information you share with us through this website. We also tell you how you can update your contact information, ask to be removed from our email and phone lists and get answers to questions you may have about our privacy practices.
+The Gevalia website is operated by Kraft New Services, Inc., a subsidiary of Kraft Foods Group. We recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information.
 
-  * Information We Collect and How We Use It
-  * Personal Information You Provide
+  * Information We Collect
+  * Personally-Identifiable Information
   * Registration
-  * Join Gevalia's Programs and Shop Gevalia
-  * Refer a Friend
-  * Gevalia E-mail Newsletter
-  * Contests, Sweepstakes and Other Promotions
-  * Office Coffee Service
-  * Food Service
-  * Contact Us
+  * Contests, Sweepstakes and Games
+  * E-mail
+  * Community
+  * "Contact Us" Link
+  * Shopping
+  * Refer A Friend / Send To A Friend
   * Other Site Features
-  * Personal Information We Collect by Automated Means
-  * Cookies
-  * Web Beacons
-  * Information We Share
-  * For California Residents
-  * Links to Other Websites
-  * How We Protect Personal Information
+  * Questionnaires and Surveys
+  * Information Collected By Automated Means
+  * Information We Collect From Other Sources
+  * How We Use Your Information
+  * Links To Other Websites
   * Your Choices
-  * Updates to This Privacy Notice
+  * Children's Information
+  * How We Protect Your Information
+  * Updates To This Privacy Notice
   * How to Contact Us
 
-  
 
 
-##### Types Of Information We Collect
-
-  
+#####   
 
 
-##### Personal Information You Provide
+#### Types Of Information We Collect
 
-You may choose to provide us with certain personal information (such as your name, contact details and payment card information) through our website. Here are the ways in which you may provide the information and the types of information you may submit. We will use the information you provide through this website to communicate with you about our products and services and other offers. We also tell you other ways we may use the information.   
+#####   
+
+
+##### Personally-Identifiable Information
+
+On our website, we collect certain personally-identifiable information, such as name, telephone number, e-mail address and, if you’re a Gevalia customer, payment information, about online visitors who choose to register on our website or participate in our offers and programs. We don’t require you to register or provide personally-identifiable information to view our site or access much of its content. But if you register, you may use certain additional features and participate in our interactive communities. Sharing this additional information with us also helps us customize your website experience. In addition, we may use the information you provide us to send you offers and information about Gevalia, Kraft and its portfolio of brands, and our partners. Here are the ways we collect personally-identifiable information.  
 Back To Top
 
-##### Registration
+###### Registration
 
-To take advantage of our offerings, you may choose to register on our website. As part of the registration process, we request certain information (such as your contact information) to make it easy for you to order our products and manage your Gevalia account online.   
+To take full advantage of our offers, you may choose to register on our site. In the registration process, we may request certain information (such as your contact information and age) so we can provide you with the communications and products you request, tailor our website to better meet your needs, and customize our contacts with you.  
 Back To Top
 
-##### Join Gevalia's Programs and Shop Gevalia
+###### Contests, Sweepstakes and Games
 
-To enroll to become a member of one of our programs (such as Gevalia Kaffe), or to order Gevalia products or other items offered through our website, we ask you for certain information. The information we request includes your contact details and billing information, such as your payment card information. We use this information to process your order. If you ask us to send a gift to a friend, we will use your friend's information to send the gift. We also may use the information to send your friend Gevalia communications.   
+We may provide contests, sweepstakes and games that you can enter. We use the information you provide to conduct the promotion (for example, to contact you if you’re a winner) and to provide you with offers and information as described in this privacy notice.  
 Back To Top
 
-##### Refer a Friend
+###### E-mail
 
-You may choose to tell your friends about Gevalia products through the website's "Refer a Friend" feature. We ask you to submit your friend's name and e-mail address so we can forward the requested information. We may also use your friend's information to send your friend communications about our products and services.   
+When you ask us to send you newsletters, information, or other content by e-mail, you may provide us with certain information like your e-mail address so we can fulfill your request.  
 Back To Top
 
-##### Gevalia E-mail Newsletter
+###### Community
 
-You may sign up for our Gevalia e-mail newsletter. To receive the newsletter, we ask you for your name, e-mail address and account number (if applicable).   
+When you participate through the Community portion of our site, such as submitting a review, using our message boards, or other interactive functions, you may submit information and content, such as a rating, picture, geographic location, etc. to the site. Remember that what you post or upload to the site will be publicly available, so please exercise caution when deciding whether to disclose anything personal about yourself. Gevalia cannot control the actions of third parties who may view the website and use publicly-available information for their own purposes.  
 Back To Top
 
-##### Contests, Sweepstakes and Other Promotions
+###### "Contact Us" Link
 
-On our website, you may choose to participate in contests, sweepstakes and other promotions that we may offer from time to time. If you decide to participate, we may ask you for certain information (such as your contact information) for use in administering these promotions.   
+If you contact us through the "Contact Us" link on this site or via telephone, we ask you for information such as your first name, e-mail address, and other information, so we can respond to your questions and comments. You may choose to provide additional information as well.  
 Back To Top
 
-##### Office Coffee Service
+###### Shopping
 
-If you are interested in ordering Gevalia's products for your office, we ask you for your contact details so we can provide you with office service information. You also may choose to give us information about your office service needs, such as the number of people in your office. We use this information to provide you with a personalized office service proposal.   
+When you purchase products or services from Gevalia, we request your billing information so we can fulfill your request. We use your billing information to fulfill your order and provide complimentary samples.  
 Back To Top
 
-##### Food Service
+###### Refer A Friend / Send To A Friend
 
-If you would like to order Gevalia's products for your restaurant or corporate dining facility, we ask you to submit your contact details so we can provide you with food service information. You also may choose to provide information about your food service needs, such as the type of business you are in. We use this information to provide you with a personalized food service proposal.   
+We may give you the opportunity to tell your friends about features or information on our website. If you take advantage of our Refer a Friend / Send to a Friend option, we ask you for your friend’s and your first name and e-mail addresses to send the information to them that you requested. We may keep this information to identify when your friend makes a purchase so we can provide you with the appropriate rewards.  
 Back To Top
 
-##### Contact Us
+###### Other Site Features
 
-If you communicate with us through the Contact Form on our website, we ask you for your contact details and account number (if applicable) so we can respond to your questions and comments. You may choose to provide additional information as well. We may use the information you provide to evaluate the quality of our products. You may also use the Contact Form to exercise certain choices, such as asking to be removed from our mailing list.   
+We offer visitors to our website various features for their enjoyment, which we change from time to time. We may ask you to submit certain personally-identifiable information so we can provide you with these features.  
 Back To Top
 
-##### Other Site Features
+###### Questionnaires and Surveys
 
-We offer visitors to our website various features, which we may change from time to time. We may ask you to submit certain personal information so we can provide you with these features.   
+We may ask our website visitors and purchasers to complete surveys and opinion polls to provide feedback on activities, attitudes and interests. These surveys help us understand the needs of our visitors and purchasers.  
 Back To Top
 
-##### Personal Information We Collect by Automated Means
+###### Information Collected By Automated Means
 
-When you visit our website we collect certain information by automated means, such as how many users have visited the website and the pages they have accessed. We also collect the IP addresses of our website visitors. By collecting this information, we learn how to improve our website. We collect this information through various means, including "cookies" and "web beacons."   
+We may use cookies, web beacons/pixel tags, log files, and other technologies to collect certain information about visitors to our website, use of our online services, and interactions with our emails and online advertisements. For example, through these means, we may collect your browser type and operating system, viewed webpages, links that are clicked, IP address, sites visited before coming to our website, emails we send that you open, forward, or click through to our website. Collecting this information, and linking it with your personally-identifiable information, helps us to best tailor our website and enhance your online experience by saving your preferences while you are visiting a particular site, and to help identify site features, advertisements, and offers that may be of particular interest to you.
+
+We also may use third party advertisements placed by ad networks to support our site. Some of these advertisers and ad networks may use technology such as cookies and web beacons/pixel tags when they advertise on our site, which will also send these advertisers and ad networks information including your IP address, your ISP, the browser you used to visit our site, and whether you have Flash installed. Some of these advertisers and ad networks also may use anonymous data, such as demographic data, received from third parties to assist in the delivery of advertisements to you. These advertisers and ad networks use the information described above to provide you relevant advertisements based on your online behavior, search activities on our site and on other third party sites, demographic information and/or relevant to your general location, so that the advertising you see on our site more closely reflects your interests and needs. For example, if you search for, or browse a, recipe or product on our site, you may see an advertisement from a third party with information about, or an offer similar to, that for which you were searching or browsing on our site, or an offer related to a third party whose site you have visited in the past. We adhere to the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising.
+
+You can set your Internet browser settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, to omit images (which will disable pixel tags), and adjust your tracking preferences. Note that the opt-out will apply only to the browser that you are using when you elect to opt out of advertising cookies. Note, however, that our systems may not recognize Do Not Track (DNT) headers from some or all browsers. You can learn more about and opt out from receiving third party advertiser cookies by visiting the Digital Advertising Alliance’s opt-out page [here](http://www.aboutads.info/choices/). Without cookies or pixel tags though, you may not be able to take full advantage of all the website features.  
 Back To Top
 
-##### Cookies
+###### Information We Collect From Other Sources
 
-Like many companies, we use cookies on our website. Cookies are bits of text that are placed on your computer's hard drive when you visit certain websites and, for example, may tell us whether you have visited our website before or if you are a new visitor. They may also assist us in identifying aspects of your browsing and purchasing behavior, such as what website features are of interest to you. 
-
-Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie and how to disable existing cookies. Without cookies, however, you may not be able to take advantage of our website features.
-
-During your visits to other websites where we advertise, we (or third parties) may use certain data collected on our site to show you the type of Tassimodirect.com advertisements likely to be of greater interest to you. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted Gevalia.com advertising during your visits to other websites. To opt-out of Gevalia.com data collection for targeted advertising on other sites, click here: [Opt Out Now](http://aboutads.info/choices).
-
+We may obtain information about you from other sources, including commercially available sources, such as data aggregators and public databases. This information may include name, demographic information, interests, and publicly-observed data, such as from social media and shopping behavior. We may combine this information with the information we collect from you to help us tailor our communications to you and to improve our services and products.  
 Back To Top
 
-##### Web Beacons
+##### How We Use Your Information
 
-Certain pages on our website may contain web beacons (also known as Internet tags, pixel tags or clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page and the information in cookies sent by the third party. We also use beacons to tell our referral partners that you have visited our site and may have placed an order, and we may provide your e-mail address to our partners.   
+We may use the information we collect to contact you from time to time. For example, we may (i) send you promotional offers, materials, and other communications and information about Gevalia, Kraft and its portfolio of brands, and our partners, (ii) respond to your comments or questions, or (iii) contact you if needed while processing a product or service you requested through our website. We also may use the information you provide to contact you for your opinions on our products, services or websites. As described in this Privacy Notice, we also use the information we collect about you to improve our website, products and services, and to deliver content that is customized to your interests.  
 Back To Top
 
-##### Information We Share
+##### How We Share Your Information
 
-We may share the information you provide through this website with service providers that have been retained to perform services on our behalf. These service providers are not authorized to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We also may share the information you provide among our affiliated companies, like Tassimo. In addition, we may share the information with our joint marketing partners and other third parties (through list rentals or data cooperatives, for example) that we believe offer products or services that might interest you. If you order a product or service from Webloyalty, Reservation Rewards, Shopper Discounts and Rewards, or Travel Values Plus, we share your contact and payment card information with these organizations only after you have accepted an offer from them. We also may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.   
-We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use information you have provided to us in a manner that is consistent with this Privacy Notice.   
+We do not sell or otherwise disclose personally identifiable information about our website visitors, except as described here. We do not share your personally identifiable information with unaffiliated third parties for their own marketing purposes without your consent. For California residents, please see “Your California Privacy Rights” below.
+
+We may share personally identifiable information with our parent company, Kraft, including its brands and subsidiaries. We may also share the information with service providers we have retained to perform services on our behalf, such as to help run promotions, fulfill orders and provide customer service. These service providers may have access to personally-identifiable information about our website visitors if it is needed to perform their functions for us, but they are not authorized to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements. In addition, we may disclose information where we think it’s necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others, if required by law, or in response to a request from law enforcement authorities or other government officials.
+
+We may conduct joint promotions with other companies. We may share with our promotional partners (and their service providers) certain personally-identifiable information as necessary to conduct the promotion. We will not share this information with our promotional partners for any other purpose unless you consent to such sharing.
+
+During the normal course of our business, we may sell or purchase assets. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personally identifiable information provided through this website in a manner that is consistent with this Privacy Notice.  
 Back To Top
 
-##### For California Residents
+##### Your California Privacy Rights
 
-If you are a California resident, you may ask us to refrain from sharing your information (whether collected online or offline) with affiliates or others for their marketing purposes. Please tell us if you would like us to refrain from doing so by contacting us as described in the "How to Contact Us" section of this Notice.   
+For California Residents: We may share your personally-identifiable information with affiliated third parties, some of which do not share the Gevalia or Kraft name, for their own direct marketing purposes. Because this category of affiliates is considered to be “unaffiliated parties” under California Law, you may opt out of us sharing with them. To opt out, please send a letter with your name, postal address, e-mail, with the heading “California Privacy Rights” to:
+
+Gevalia Kaffe
+
+Attention: Customer Service
+
+1201 Elm Street, 4th Floor Dallas, TX 75270  
 Back To Top
 
 ##### Links to Other Websites
 
-Our website provides links to other websites for your convenience and information. These websites may operate independently from Gevalia. Linked sites may have their own privacy notices or policies, which we strongly suggest you review. We are not responsible for the content of linked websites, any use of linked websites or their privacy practices.   
+This website may contain links to other websites. We provide these links solely for your convenience and information. Different websites have different privacy practices. You should always check the privacy notice of the specific site you’re visiting to understand the privacy practices associated with that site. We are not responsible for the content or privacy practices of third party websites.  
 Back To Top
 
-##### How We Protect Personal Information
-
-We maintain administrative, technical and physical safeguards to protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of the information you may provide on our website. We use secure sockets layer (or SSL) to protect the transmission over the Internet of payment card information.   
-Back To Top
+##### 
 
 ##### Your Choices
 
-If you would like to update the contact information you provided through this website, or to manage your account online, click here. To update your preferences or request that we refrain from contacting you, please contact us as indicated below.   
+You can change your preferences for follow-up contacts by us. If you’re registered with our website, you can change the information you’ve provided to us in the "My Profile" section of the site.  
 Back To Top
 
-##### Updates to Our Privacy Notice
+##### 
 
-This Privacy Notice may be updated periodically and without prior notice to you, to reflect changes in our information practices on this website. We will inform you of such changes by indicating at the top of this Notice the date when it was most recently updated.   
+##### Children's Information
+
+This site is intended for general audiences and we do not knowingly collect any personal information from children under the age of 13.  
 Back To Top
 
-##### How to Contact Us
+##### 
 
-If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us at: 
+##### How We Protect Your Information
 
-The Gevalia Kaffe   
-Attn: Customer Service   
-Holmparken Square, PO Box 6276   
-Dover, DE 19905-6276 
+The security of personally-identifiable information is important to us. We maintain administrative, technical and physical safeguards to protect against unauthorized use, disclosure, alteration or destruction of the personally-identifiable information we collect on this website.  
+Back To Top
 
-1-800-GEVALIA (1-800-438-2542) 7 days a week 8AM - 10PM EST   
+##### 
+
+##### Updates To This Privacy Notice
+
+We may change or update portions of this Privacy Notice at any time. Please check back from time to time so you are aware of any changes or updates to the notice. We will indicate the notice’s effective date on the first page of the notice.  
+Back To Top
+
+##### How To Contact Us
+
+If you have any questions about this Privacy Notice, you can contact us at:
+
+Gevalia Kaffe
+
+Attn: Customer Service
+
+Elm Street, 4th Floor Dallas, TX 75270
+
+1-800-GEVALIA (1-800-438-2542)
+
+8 AM – 10 PM EST Monday through Friday, 9 AM – 6 PM EST Saturday and Sunday, excluding holidays.
+
+[E-mail us.](http://kraftfoods.custhelp.com/cgi-bin/kraftfoods.cfg/php/enduser/std_alp.php?p_search_text=)
+
+We would be happy to answer your questions or hear your concerns.  
 Back To Top
