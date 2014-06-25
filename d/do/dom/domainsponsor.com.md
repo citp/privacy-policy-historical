@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the domainsponsor.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223031218id_/http%3A//www.domainsponsor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsponsor.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012940id_/http%3A//www.domainsponsor.com/privacy-policy) for the most accurate reproduction.*
 
-# DomainSponsor - Privacy Policy
+# Rook Media AG | DomainSponsor - Privacy Policy
 
 **[](http://www.domainsponsor.com/)**
 
-You are here: [Home](http://www.domainsponsor.com/ "DomainSponsor") / Privacy Policy
+You are here: [Home](http://www.domainsponsor.com/ "Rook Media AG") / Privacy Policy
 
 **DomainSponsor Privacy Policy** ****
 
