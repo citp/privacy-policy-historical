@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the minecraft-mp.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226193847id_/http%3A//minecraft-mp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-mp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132139id_/http%3A//minecraft-mp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Minecraft Multiplayer
 
 We collect only the following informations from the use of " **Minecraft Multiplayer** ". We never sell your personal informations to third parties. If you have any questions or concerns regarding our privacy policy, please contact us at: [admin@minecraft-mp.com](mailto:admin@minecraft-mp.com)
 
-**Last Revision: April 22th, 2013**
+**Last Revision: March 08th, 2014**
 
 ## What we collect
 
-### User informations
+### User information
 
 When you register on " **Minecraft Multiplayer** ", you must provide us a nickname and a valid email address. We only use these informations for notices, warnings, internal newsletters, password retrieval and account activation.
 
-### Server informations
+**Your information will never be shared with any 3rd parties.**
+
+### Server information
 
 When you register a server on " **Minecraft Multiplayer** ", we collect all informations you provide us with. By registering your server, you accept that we publicly publish some informations, like your server's IP address, server port...
 
-### Access informations
+### Access information
 
 Like many other Web sites, we make use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, type of operation system, Internet Service Provider (ISP), date/time, referring/exit pages....
 
