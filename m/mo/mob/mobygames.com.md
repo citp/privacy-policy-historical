@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mobygames.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525090402id_/http%3A//www.mobygames.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobygames.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075326id_/http%3A//www.mobygames.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy was last revised on April 15, 2011.
+This Privacy Policy was last revised on March 30th, 2014
 
 Recent updates to this Privacy Policy
 
-MobyGames, a websites and online service operated by GameFly, Inc. ("GameFly," "MobyGames," "we," or "us"), knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by GameFly when you use MobyGames.com and other websites and services operated by GameFly in connection with the MobyGames (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. 
+MobyGames, a websites and online service operated by Blue Flame Labs ("Blue Flame Labs," "MobyGames," "we," or "us"), knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Blue Flame Labs when you use MobyGames.com and other websites and services operated by Blue Flame Labs in connection with the MobyGames (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. 
 
 **Information We Collect**
 
@@ -40,7 +40,7 @@ As we develop our business, we may buy or sell assets or business offerings. Cus
 
 From time to time, we may run contests, special offers, or other events or activities ("Events") on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.
 
-Except as otherwise described in this Privacy Policy, GameFly will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of MobyGames, our Users or others.
+Except as otherwise described in this Privacy Policy, Blue Flame Labs will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of MobyGames, our Users or others.
 
 Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain MobyGames services.
 
@@ -66,7 +66,7 @@ In the event that personal information is compromised as a result of a breach of
 
  **Your Choices About Your Information**
 
-You may, of course, decline to submit personally identifiable information through the Service, in which case MobyGames may not be able to provide certain services to you. You may update or correct your account information at any time by logging in to your account. You can review and correct the information about you that GameFly keeps on file by contacting us directly at [admin@mobygames.com](mailto:admin@mobygames.com).
+You may, of course, decline to submit personally identifiable information through the Service, in which case MobyGames may not be able to provide certain services to you. You may update or correct your account information at any time by logging in to your account. You can review and correct the information about you that Blue Flame Labs keeps on file by contacting us directly at [admin@mobygames.com](mailto:admin@mobygames.com).
 
  **Children's Privacy**
 
@@ -78,16 +78,10 @@ We are not responsible for the practices employed by websites linked to or from 
 
  **Notification Procedures**
 
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our website, as determined by GameFly in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our website, as determined by Blue Flame Labs in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
 
  **Changes to Our Privacy Policy**
 
 If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [admin@mobygames.com](mailto:admin@mobygames.com) or send mail to:
-
-MobyGames c/o GameFly, Inc. 5340 Alla Road Suite 110 Los Angeles, CA 90066
-
-Updates
-
-April 15, 2011: We replaced our previous policy with this Privacy Policy. Please review this new Privacy Policy carefully.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [admin@mobygames.com](mailto:admin@mobygames.com).
