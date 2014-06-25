@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the starchefs.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020211140id_/http%3A//www.starchefs.com/about_us/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starchefs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054832id_/http%3A//www.starchefs.com/about_us/html/privacy.shtml) for the most accurate reproduction.*
 
 # Star Chefs : Jobs at StarChefs
 
 **  
-PRIVACY STATEMENT for STARCHEFS.COM**
+PRIVACY AND POLICY STATEMENTS for STARCHEFS.COM**
 
 StarChefs.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following is a StarChefs disclosure of our information gathering and dissemination practices. 
 
@@ -24,7 +24,20 @@ Our site does contain links to other sites. We are not responsible for other sit
 **  
 SECURITY**
 
-Our site has security measures to protect users from loss, misuse and alteration of information. Specifically, the passwords and credit card information you use on our site are encrypted. Our server which is maintained by Sage Networks is continually monitored for breaches and backed up daily. Our server is also protected by a firewall. 
+Your payment and personal information is always safe. Our Secure Sockets Layer (SSL) software is the industry standard and among the best software available today for secure commerce transactions. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read over the internet. 
+
+* * *
+
+  
+**SHIPPING POLICY**
+
+All goods are shipped standard USPS rates unless otherwise specified.
+
+* * *
+
+**SALES TERMS POLICY**
+
+All sales final. All tickets are will-call or pickup at event. 
 
 * * *
 
