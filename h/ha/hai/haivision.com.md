@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the haivision.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927170322id_/http%3A//www.haivision.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haivision.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051143id_/http%3A//www.haivision.com/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy — Haivision
-
-### Privacy Policy
+# Privacy and Cookies | Haivision | Enterprise Video Solutions
 
 **Privacy Policy last updated June 12th, 2012.**
 
 Haivision is committed to protecting your privacy and ensures compliance with all applicable privacy laws and statutes. Please read the Haivision Online Privacy Policy below.  This Online Privacy Policy applies to data collected by Haivision through its Web site and services, as well as its offline support services.
 
  **Collection of Your Personal Information**  
-A unique ID may be assigned to you that will be used to identify your credentials and associated information. We ask you to provide personal information, such as your e-mail address, name, home or work address or telephone number. 
+A unique ID may be assigned to you that will be used to identify your credentials and associated information. We ask you to provide personal information, such as your e-mail address, name, home or work address or telephone number. 
 
 While we may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with the Haivision site and services as well as certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses, this information is not linked to any identifiable personal information.  Haivision may set and access cookies in order to assist such collection.
 
