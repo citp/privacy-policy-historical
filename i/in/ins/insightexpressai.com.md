@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insightexpressai.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104053912id_/https%3A//insightexpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightexpressai.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100116id_/http%3A//www.insightexpress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy | InsightExpress
 
 The effective date for this Privacy Policy is November 11, 2011. 
 
@@ -14,7 +14,7 @@ InsightExpress, LLC complies with the U.S. - E.U. & U.S. - Swiss Safe Harbor Fra
 
 This Privacy Policy and the TRUSTe program addresses our use and disclosure of information we collect from Respondents to our surveys and/or contests. Respondents are users who respond to surveys and/or participate in sweepstakes that may be offered to you.
 
-**_Privacy Overview Respondents_**
+**Privacy Overview Respondents**
 
 InsightExpress (http://www.InsightExpress.com) believes in and respects your privacy and the sanctity of information that may be provided. Further, as members of the ARF and CASRO, the North America associations of market research professionals, and the Mobile Marketing Association, the global association of the mobile marketing industry, we believe the use of information should be outlined for you as we have done so below. Additionally, InsightExpress is in compliance with HIPPA and COPPA privacy guidelines. InsightExpress is committed to respecting your privacy.
 
@@ -141,7 +141,7 @@ This Privacy Policy and the TRUSTe program addresses our use and disclosure of i
 
 Visitors are users who visit the website [**http://www.InsightExpress.com**](http://www.insightexpress.com/). Clients use our product platform in order to create surveys.
 
-**_Privacy Overview for our Clients_**
+**Privacy Overview for our Clients**
 
 **Information About Data that may be Provided by our Clients**
 
@@ -180,10 +180,10 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 **Communications**  
 Below are the instances when users may receive e-mail communications from our site. 
 
-_Newsletters_  
+Newsletters  
 If a user wishes to subscribe to our newsletter, we request an e-mail address. Out of respect for our users' privacy, we enable subscribers to opt-out of these communications by following the Opting-Out practices 
 
-_Service Announcements_  
+Service Announcements  
 On rare occasions it may be necessary to issue a service related announcement (for instance, if our service is undergoing maintenance). These communications are not promotional in nature and users may not opt-out of these communications (although users can deactivate their account). 
 
 **Customer Service Communications**
