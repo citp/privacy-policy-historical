@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hireitpeople.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230104127id_/http%3A//hireitpeople.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hireitpeople.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050035id_/http%3A//hireitpeople.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -64,5 +64,5 @@ http://hireitpeople.com/contacts
 1761 S Street NW  
 Washington, District of Columbia 20009  
 United States  
-[contracts@hireitpeople.com](mailto:contracts@hireitpeople.com)   
+[contracts@hireitpeople.com](mailto:contracts@hireitpeople.com)  
 8006938939
