@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225140850id_/http%3A//help.marksandspencer.com/faqs/company-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625225439id_/http%3A//help.marksandspencer.com/support/company-website/privacy-policy) for the most accurate reproduction.*
 
 # Ask Marks & Spencer - What is the website's privacy policy?
 
@@ -8,11 +8,11 @@
 
 Marks & Spencer is committed to respecting the privacy rights of visitors to its website. This privacy policy explains how we collect, store and use personal data about you when you browse 
 
-**[**www.marksandspencer.com**](http://www.marksandspencer.com/) **(the "Website"), shop with us or otherwise provide your personal data to us.   It provides you with details about the types of personal data that we collect from you, how we use your personal data and the rights you have to control our use of your personal data.  **
+**[**www.marksandspencer.com**](http://www.marksandspencer.com/) **(the "Website"), shop with us or otherwise provide your personal data to us.   It provides you with details about the types of personal data that we collect from you, how we use your personal data and the rights you have to control our use of your personal data. This policy applied regardless of how the Website is accessed and will cover any technologies or devices by which Marks and Spencer plc make the Website available to you.   **
 
-**You must read this privacy policy carefully and we recommend that you print and retain a copy for your future reference. By accessing, browsing or otherwise using this Website, you confirm that you have read, understood and agree to this privacy policy in its entirety.   If you do not agree to this privacy policy in its entirety, you must not use this Website.**
+**You must read this privacy policy carefully and we recommend that you print and retain a copy for your future reference. By accessing, browsing or otherwise using this Website, you confirm that you have read and  understood this privacy policy.  If you do not want your data to be used as set out in this privacy policy, you should not use this Website.**
 
-  * ****Who we are** **
+  * **Who we are**
   * **Children**
   * ****The personal data we collect about you** **
   * ****How we may store and use your information** **
@@ -37,11 +37,11 @@ Marks & Spencer is committed to respecting the privacy rights of visitors to its
 
 Marks and Spencer plc is a company registered in England and Wales (registration number 00214436) whose registered office is at Waterside House, 35 North Wharf Road, London W2 1NW. Marks and Spencer plc is part of the Marks & Spencer group of companies (collectively referred to as "Marks & Spencer", "we" or "us" in this privacy policy) and is registered as a data controller with the Information Commissioner's Office (registration number Z6046528). 
 
-We respect your right to privacy and will only process personal data you provide to us in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other applicable privacy laws.
+We respect your right to privacy and will only process personal data you provide to us in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003, as updated from time to time, and other applicable privacy laws.
 
 If you have any questions about how we collect, store and use personal data, or if you have any other privacy-related questions, please contact us by any of the following means:
 
-  * phone us on: 0845 302 1234; 
+  * phone us on: 0333 014 8555; 
   * e-mail us at: [retailcustomer.services@marksandspencer.com](mailto:retailcustomer.services@marksandspencer.com) or
   * write to us at: Marks & Spencer, Retail Customer Services, Chester Business Park, Wrexham Road, Chester CH4 9GA
 
@@ -55,10 +55,10 @@ We do not and will not knowingly collect information from any unsupervised perso
 
 **The personal data we collect about you**
 
-When you make purchases from Marks & Spencer (including purchases made in-store, over the phone, or via our catalogue order forms or this Website) we may collect the following personal data about you:
+When you make purchases from Marks & Spencer (including purchases made in-store on any device, over the phone, or via our catalogue order forms or this Website) we may collect the following personal data about you:
 
   * your name, age and sex;
-  * your billing and delivery postal addresses, phone, fax and e-mail details;
+  * your billing and delivery postal addresses, phone (including mobile phone), fax and e-mail details;
   * where you have registered with us, your user name and password;
   * where you place an order with us, your payment card details;
   * your communication and shopping preferences;
@@ -75,11 +75,12 @@ We may also collect some or all of the above personal data about you when you ac
 Marks & Spencer (and third party data processors acting on our behalf) may collect, store and process your personal data:
 
   *  to make this Website available to you and to provide you with content which is tailored to your individual tastes;
-  * to maintain any registered account that you hold with us (including pledge accounts created under the "Plan A" section of our Website);
-  * with your agreement, to contact you (including by SMS and e-mail) about promotional offers and products and services which we think may interest you and for customer satisfaction and market research purposes;
+  * to maintain any registered account that you hold with us;
+  * with your agreement, to contact you (including by SMS, push and e-mail) about promotional offers and products and services which we think may interest you;
+  * for customer satisfaction and market research purposes;
   * to provide our goods and services to you and for associate purposes, including verifying your identity;
   * for research, analysis, testing, monitoring, risk management and administrative purposes; and
-  * for any related purposes, or where we have a legal right or duty to use or disclose your information (including for crime and fraud preventation and related purposes).
+  * for any related purposes, or where we have a legal right or duty to use or disclose your information (including for crime and fraud prevention and related purposes).
 
 
 
@@ -87,22 +88,19 @@ We also process your payment card details in order to complete any purchase that
 
 In addition, we may collect anonymised details about visitors to our Website for the purposes of aggregate statistics or reporting purposes.  However, no single individual will be identifiable from the anonymised details that we collect for these purposes.
 
-Except as set out in this privacy policy, we will not disclose, sell or rent your personal data to any third party. If you do consent but later change your mind, you may contact us and we will cease any such activity.
+We will not disclose, sell or rent your personal data to any third party, save for any disclosures of your personal data detailed in this policy.
 
-In the event that a third party acquires all or part of our business and/or assets, we may disclose your personal data to that third party in connection with the acquisition. Furthermore, we reserve the right to disclose your personal data to third parties as part of any business or asset sale carried out because Marks & Spencer has gone into insolvency or any similar situation, but only where lawful and compliant  with the Data Protection Act 1998. We may also disclose your personal data where necessary to comply with applicable law or an order of a governmental or law enforcement body.  
+In the event that a third party acquires all or part of our business and/or assets, we may disclose your personal data to that third party in connection with the acquisition. Furthermore, we reserve the right to disclose your personal data to third parties as part of any business or asset sale carried out because Marks & Spencer has gone into insolvency or any similar situation, but only where lawful and compliant  with the Data Protection Act 1998, as amended from time to time. We may also disclose your personal data where necessary to comply with applicable law or an order of a governmental or law enforcement body.  
 
 **Microsites**
 
 Marks & Spencer has partnered with certain trusted third parties to make available certain additional third party products and services to you, including:
 
-  * M&S Money (under partnering arrangements with Marks and Spencer Financial Services plc, a member of the HSBC Group) accessible by clicking [here](http://money.marksandspencer.com/)
-  * M&S Appliances (under partnering arrangements with DRL Limited) accessible by clicking [here ](http://www.marksandspencer-appliances.com/)
+  * M&S Bank (previously M&S Money) accessible by clicking [here](http://money.marksandspencer.com/)
   * M&S Energy (under partnering arrangements with SSE Energy Supply Limited) accessible by clicking[ here](http://www.mandsenergy.com/)
-  * M&S lunchtogo (under partnering arrangements with EWA Ltd) accessible by clicking [here ](http://www.marksandspencer.com/Lunchtogo/b/46596031?ie=UTF8&intid=gft_lunch2go)
-  * M&S Made-to-Measure Shirts (under partnering arrangements with Bivolino) accessible by clicking [here  ](http://www.marksandspencer.com/Made-to-Measure-Shirts-Menswear/b/63593031?ie=UTF8&intid=gnav_men_made-to-measure-shirts&mnSBrand=core)
+  * M&S Lunch to You on our M&S for Business site (under partnering arrangements with EWA Ltd) accessible by clicking [here ](http://www.marksandspencer.com/s/food-and-wine/mands-for-business-lunch-to-you)
+  * M&S Made-to-Measure Shirts (under partnering arrangements with Bivolino) accessible by clicking[ here  ](http://www.marksandspencer.com/s/men/made-to-measure-shirts)
   * M&S Personalised (under partnering arrangements with Hallmark Cards PLC) accessible by clicking [here](http://www.marksandspencerpersonalised.com/)
-  * M&S Health & Nutrition (under partnering arrangements with 9XB) accessible by clicking [here](http://health.marksandspencer.com/)
-  * Marks & Spencer Recycling (under partnering arrangements with SHP Limited) accessible by [clicking here](http://recycle.marksandspencer.com/ "mands-recycling")
 
 
 
@@ -114,11 +112,9 @@ If you have any questions or concerns about the collection or use of your person
 
 **E-mail newsletter preferences and text alerts**
 
-We provide you with the ability to control whether or not to receive e-mail newsletters.
+We provide you with the ability to control whether or not to receive e-mail newsletters, or to change the types of e-mail newsletters you receive, through our newsletter preference centre which is accessible by clicking [here](https://www.marksandspencer.com/MSCallMarketingPreferencesCmd?catalogId=10051&langId=-24&storeId=10151).
 
-To unsubscribe from an email newsletter, please click the unsubscribe link at the bottom of any email newsletter you have received from M&S.
-
-To stop text alerts, please follow the stop instructions at the bottom of any text alert you have received from M&S.
+Marks & Spencer will only send you text alerts with your permission. You can opt out of receiving these text alerts at any time by texting STOP to 65006. Data may be supplied to third party processors to enable the service to be provided.
 
 **Personalised banner  advertising**
 
@@ -145,7 +141,7 @@ We may transfer personal data that we collect from you to third party data proce
  **Who sets the cookies?  
 ** The cookies stored on your computer or other device when you access this website are set by M&S, our suppliers who partner with us to help deliver a high quality website and on-line shopping experience, and other third parties.   
 Some cookies are set by or on behalf of M&S and are necessary to enable customers to a make purchases on our website.    
-Cookies may also be set by third parties who participate with us in affiliate marketing programmes.   The most important such third parties are Criteo, Transversal and Rich Relevance who broadcast banner advertisements on behalf of M&S and a number of other reputable companies.  None of these third parties collect any personal data from which they would be able to identify individual customers.
+Cookies may also be set by third parties who participate with us in affiliate marketing programmes.   The most important such third parties are Criteo and Rich Relevance who broadcast banner advertisements on behalf of M&S and a number of other reputable companies.  None of these third parties collect any personal data from which they would be able to identify individual customers.
 
   
 **What are cookies used for?**
@@ -180,28 +176,7 @@ The main purposes for which cookies are used are:-
 **What happens if I disable cookies?  
 ** This depends on which cookies you disable, but in general the site may not operate properly if cookies are switched off.  If you only disable 3rd party cookies you will not be prevented from making purchases on this site.  If you disable all cookies you will be unable to complete a purchase on this site.
 
-**ADDITIONAL PRIVACY NOTICE - M &S HOME INSULATION AND SOLAR SYSTEM **
-
-This privacy notice explains how we may collect, store and use personal data about you, if you sign up for M&S Home Insulation and Solar System services. This notice only relates to the use of your personal data by Marks and Spencer for the purpose of providing you with insulation services.  Details of how your personal data will be used for the purposes of providing you with home energy (eg gas and electricity) through M&S Energy is set out at [www.mandsenergy.com/privacy](http://www.mandsenergy.com/privacy).  SSE Energy Supply Limited is responsible for handling personal data of M&S Energy customers for the purposes of providing home energy to them.M&S is responsible for handing personal data of M&S Home insulation and Solar System customers.
-
-In order to provide you with an insulation or solar system assessment and insulation or solar system products and services, we may collect the following personal data about you:  
-• your name, age,address, telephone number, email, fax  and other contact details ;  
-• information about your property  
-• where you have asked us to provide installation services to you, your payment card and bank details;  
-• proof of benefits and age  
-• your communication and marketing preferences;   
-• your date of birth
-
-**How we may store and use your information**
-
-Marks & Spencer (and third party data processors acting on our behalf, including Enact Energy Management Limited) may collect, store and process your personal data:  
-• To provide you with a quote for insulation and solar system services.  
-• To arrange and undertake an assessment of the insulation and/or solar system requirements of your home  
-• To recommend insulation and/or solar system services and products tailored to your needs.  
-• To install insulation, solar system and energy efficiency products for you; including loft insulation, cavity wall insulation and solar panels.  
-• With your agreement, to contact you by email, SMS (text messaging), post, telephone (including automated calling services) and fax about promotional offers and information regarding our products and services  
-• To process your payment for any of the above services, including processing your card details and, in certain instances, disclose your personal data to third party credit reference agencies to perform credit checks against you.   
-• If we provide insulation and/or solar system services to you, your name, contact details and a summary of the work undertaken will also be sent to the utility company funding energy savings grants (currently SSE Energy Supply Limited) to support their claims for statutory funding.
+**Security**
 
 We use Internet standard encryption technology ("SSL" or "Secure Socket Layer" technology) to encode personal data that you send to us when placing an order through the Website. To check that you are in a secure area of the Website before sending personal data to us, please look at the bottom right of your website browser and check that it displays an image of a closed padlock or an unbroken key
 
@@ -241,10 +216,10 @@ Marks and Spencer is an ISIS accredited retailer and marksandspencer.com is veri
 
 **Updates to this policy**
 
-This privacy policy was last updated in March 2010. Please check back regularly to keep informed of updates to this privacy policy.
+This privacy policy was last updated in April 2014. Please check back regularly to keep informed of updates to this privacy policy.
 
 **Contact us**
 
-If you have any questions please [contact us](https://www.marksandspencer.com/gp/contact/).
+If you have any questions please [contact us](http://www.marksandspencer.com/s/contact-us "Contact Us").
 
-[Back to top](http://help.marksandspencer.com/faqs/company-website/terms-and-conditions.html#Top)
+[Back to top](http://help.marksandspencer.com/support/company-website/privacy-policy)
