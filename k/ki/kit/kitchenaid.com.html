@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kitchenaid.com privacy policy that was archived on 2013-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209201027id_/https%3A//www.kitchenaid.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kitchenaid.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625172222id_/http%3A//www.kitchenaid.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:wairole="http://www.w3.org/2005/01/wai-rdf/GUIRoleTaxonomy#" xmlns:waistate="http://www.w3.org/2005/07/aaa" lang="en" xml:lang="en" class="dj_webkit dj_contentbox"><head>
 	<title>
@@ -181,6 +181,7 @@ var currentprotocol = document.location.protocol;
 
 
 <input id="closebutton" type="hidden" value="CLOSE">
+
 <script type="text/javascript" src="/wcsstore/NARStorefrontAssetStore/javascript/StoreCommonUtilities.js"></script>
 
 <script type="text/javascript">
@@ -191,8 +192,7 @@ if (document.referrer){
 	var myscript = document.createElement('script');
 	myscript.language = "JavaScript1.1";
 	
-	myscript.src = currentprotocol + "//ad.doubleclick.net/adj/N4464.197812.NSO.CODESRV/B7659706;dcadv=4145741;sz=1x2;ord=" + ord + "?";
-	
+	myscript.src = currentprotocol + 'http://ad.doubleclick.net/adj/N4464.197812.NSO.CODESRV/B7659729;dcadv=4145748;sz=1x2;ord=' + ord + "?";
 	document.body.appendChild(myscript);
 }
 </script>
@@ -204,7 +204,7 @@ if (document.referrer){
 
 <script type="text/javascript">
 	if (typeof categoryDisplayJS != "undefined") {
-		categoryDisplayJS.allowAccessoryDialog = true;
+		categoryDisplayJS.allowAccessoryDialog = false;
 		categoryDisplayJS.allowZipCodeDialog = true;
 		categoryDisplayJS.allowAccessoryDialogRemove = false;
 		categoryDisplayJS.accessoriesPopupContentStrings = {
@@ -215,10 +215,35 @@ if (document.referrer){
 			"ACCDLG_PLEASE_CHOOSE_PLAN": "Please choose a plan."
 		};
 	}
+
+
+
+	var mobileCookie = document.cookie && document.cookie.indexOf("mobileBrowser") >= 0;
+	if(mobileCookie){
+		var dom = document.domain.split('.');
+		while (dom.length > 2){
+		    dom.shift();
+		}
+		dom = '.' + dom.join('.')
+		document.cookie = "mobileBrowser=; expires=Thu, 01 Jan 1970 00:00:00 GMT; Domain=" + dom + ";path=/";
+		var message = '???REDIRECT_TO_DESKTOP_MESSAGE???';
+		$('body').append('<div class="takeover-message-wrapper"><div class="takeover-message-content"><img src="/images/ajax-loader.gif" title="loading" alt="loading" /><p>'+message+'</p></div></div>');
+	}
+
+	$(document).ready(function () {
+        var messageTimer = setInterval(function () { removeMessage() }, 3000);
+
+        function removeMessage() {
+            $('.takeover-message-wrapper').css({ 'display': 'none' });
+            clearInterval(messageTimer);
+        }
+    });
 </script>
+
 <div id="fDiv"></div>
-<!-- END StoreCommonUtilities.jspf --><!-- Header Nav Start --><!-- BEGIN LayoutContainerTop.jspf --><!-- BEGIN WHRORNHeaderDisplay.jspf --><!-- HOST: [NAR-server2] -->
-<!-- GENERATED: [CachedORNHeaderDisplay.jsp, Mon Dec 09 07:23:51 EST 2013] -->
+
+<!-- END StoreCommonUtilities.jspf --><!-- Header Nav Start --><!-- BEGIN LayoutContainerTop.jspf --><!-- BEGIN WHRORNHeaderDisplay.jspf --><!-- Gladiator Phase 2 Change START 12/25 --><!-- HOST: [NAR-server3] -->
+<!-- GENERATED: [CachedORNHeaderDisplay.jsp, Wed Jun 25 09:15:37 EDT 2014] -->
   
 
 
@@ -232,7 +257,7 @@ if (document.referrer){
 		parseWidget("outerCartContainer");
 		if (typeof categoryDisplayJS != "undefined") {
 			categoryDisplayJS.userType = 'G';
-			categoryDisplayJS.allowAccessoryDialog = true;
+			categoryDisplayJS.allowAccessoryDialog = false;
 			categoryDisplayJS.allowZipCodeDialog = true;
 		}
 	});
@@ -295,6 +320,8 @@ if (document.referrer){
 </noscript>
 <!-- QC 189 ML for NAR  Start --><!-- QC 189 ML for NAR  End -->
 <div id="header-wrap">
+
+	<input type="hidden" name="storeIdentifier" value="KAD_US_B2C" id="storeIdentifier">
 				
 	<div id="header">
 		<div id="logo" itemscope="" itemtype="http://schema.org/Brand">
@@ -309,10 +336,7 @@ function clearText(thefield){
 	if (thefield.defaultValue==thefield.value) thefield.value = "";
 }
 
-function fieldGrabberX(){
-	var myTextField = document.getElementById('search-text');
-	dcsMultiTrack('DCS.dcsuri','on_release_global_' + myTextField.value,'WT.ti','on_release_global_' + myTextField.value);
-}
+
 </script>
 
 
@@ -325,7 +349,7 @@ function fieldGrabberX(){
 		<input type="hidden" name="langId" value="-1" id="WC_CachedHeaderDisplay_FormInput_langId_In_CatalogSearchForm_1">
 		<input type="hidden" name="beginIndex" value="0" id="WC_CachedHeaderDisplay_FormInput_beginIndex_In_CatalogSearchForm_1">
 		<input type="text" name="searchTerm" placeholder="SEARCH" id="search-text" class="search-textbox">
-		<button onclick="fireFloodlight('2625291','kad650','kad-l508');dcsMultiTrack('DCS.dcsuri','on_release_global_WHP_Search_Go','WT.ti','on_release_global_WHP_Search_Go');fieldGrabberX();" id="search-submit" type="submit">Search</button>
+		<button onclick="fireFloodlight('2625291','kad650','kad-l508');" id="search-submit" type="submit">Search</button>
 	</form>
 </div>
 
@@ -347,9 +371,9 @@ function fieldGrabberX(){
 				
 
 		<li class="first">
-			<a class="first" href="http://www.kitchenaid.com/webapp/wcs/stores/servlet/LogonForm?catalogId=10552&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10202" onclick="fireFloodlight('2625291','kad650','kad-l508');dcsMultiTrack('DCS.dcsuri','on_release_global_sign_in','WT.ti','on_release_global_sign_in')">SIGN IN</a>
+			<a class="first" href="https://www.kitchenaid.com/webapp/wcs/stores/servlet/LogonForm?catalogId=10552&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10202" onclick="fireFloodlight('2625291','kad650','kad-l508');">SIGN IN</a>
 			OR
-			<a href="http://www.kitchenaid.com/webapp/wcs/stores/servlet/LogonForm?catalogId=10552&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10202" onclick="fireFloodlight('2625291','kad650','kad-m646');dcsMultiTrack('DCS.dcsuri','on_release_global_register','WT.ti','on_release_global_sign_in')">CREATE ACCOUNT</a>
+			<a href="https://www.kitchenaid.com/webapp/wcs/stores/servlet/LogonForm?catalogId=10552&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10202" onclick="fireFloodlight('2625291','kad650','kad-m646');">CREATE ACCOUNT</a>
 		</li>
 	<!-- /* R2 WishList functionality starts March 03 2011 */ --><!--  <li class="first"></li> -->
 				
@@ -374,11 +398,11 @@ function fieldGrabberX(){
 						<div id="outerCartContainer" style="display: block;">
 							<div dojotype="dojo.dnd.Target" jsid="miniShopCart_dndTarget" id="miniShopCart_dndTarget" accept="item, product, package, bundle" class="dojoDndContainer dojoDndTarget">
 								<div dojotype="wc.widget.RefreshArea" id="MiniShoppingCart" widgetid="MiniShoppingCart" controllerid="MiniShoppingCartController" onmouseover="showMiniShopCartDropDown('placeHolder','quick_cart_container','orderItemsList');" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all" title="" class="dijitContentPane">
-									<!-- Start - JSP File Name: MiniShopCartDisplay.jsp --><!-- GENERATED: [MiniShopCartDisplay, Mon Dec 09 07:23:51 EST 2013] -->
+									<!-- Start - JSP File Name: MiniShopCartDisplay.jsp --><!-- GENERATED: [MiniShopCartDisplay, Wed Jun 25 09:15:37 EDT 2014] -->
 
 <!-- If we get here from a generic error this service will fail so we need to catch the exception -->
 
-<a href="http://www.kitchenaid.com/webapp/wcs/stores/servlet/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10552&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10202&amp;URL=AjaxOrderItemDisplayView" tabindex="0" id="shoppingCartBar" waistate:controls="ShopCartDisplay" onkeypress="showMiniShopCartDropDown1(event,'placeHolder','quick_cart_container','orderItemsList');" onclick="dcsMultiTrack('DCS.dcsuri','on_release_global_my_cart_view_cart','WT.ti','on_release_global_my_cart_view_cart');showMiniShopCartDropDown1(event,'placeHolder','quick_cart_container','orderItemsList');">
+<a href="http://www.kitchenaid.com/webapp/wcs/stores/servlet/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10552&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10202&amp;URL=AjaxOrderItemDisplayView" tabindex="0" id="shoppingCartBar" waistate:controls="ShopCartDisplay" onkeypress="showMiniShopCartDropDown1(event,'placeHolder','quick_cart_container','orderItemsList');" onclick="showMiniShopCartDropDown1(event,'placeHolder','quick_cart_container','orderItemsList');">
 		<span id="miniShopCartLeftCorner" class="left_corner">
 			CART
 		</span>
@@ -424,6 +448,7 @@ function fieldGrabberX(){
 						</div>
 					
 				</li>
+				
 			</ul>
 		</div>
 	 	
@@ -464,174 +489,370 @@ function fieldGrabberX(){
 					<script type="text/javascript">
 						var uas = ""; 
 					</script>
-							<!-- Code Start -->
-		<div id="header-main-nav">
-    <ul id="primary-sections">
-        <a href="/major-appliances/"><li id="majors-primary" class="primary">Major Appliances</li></a>
-        <a href="/countertop-appliances/"><li id="smalls-primary" class="primary">Countertop Appliances</li></a>
-        <a href="/kitchenware/"><li id="kitchenware-primary" class="primary">Kitchenware</li></a>
-        <a href="/shop/"><li id="shop-primary" class="primary">Shop</li></a>
-        <a href="/customer-service/"><li id="service-support-primary" class="primary">Service &amp; Support</li></a>
-        <a href="/culinary-inspiration/"><li id="culinary-inspiration-primary" class="primary last">Culinary Inspiration</li></a>
-    </ul>
-    <ul id="majors-secondary" class="secondary">
-        <li class="active-bar-container"><div class="active-bar"></div></li>
-        <a href="/major-appliances/cooking-products/"><li id="cookingproducts-secondary" class="secondary-section">Cooking Products</li></a>
-        <a href="/major-appliances/dishwashers/"><li id="dishwashers-secondary" class="secondary-section">Dishwashers</li></a>
-        <a href="/major-appliances/disposers-and-compactors/"><li id="cooking-appliances-secondary" class="secondary-section">Disposers &amp; Compactors</li></a>
-        <a href="/major-appliances/grills/"><li id="refrigerators-secondary" class="secondary-section">Grills</li></a>
-        <a href="/major-appliances/hoods-and-vents/"><li id="countertop-appliances-secondary" class="secondary-section">Hoods &amp; Vents</li></a>
-        <a href="/major-appliances/refrigerators/"><li id="ventilation-secondary" class="secondary-section">Refrigerators</li></a>
-        <a href="/major-appliances/water-filters/"><li id="outdoor-kitchen-secondary" class="secondary-section">Water Filters</li></a>
-    </ul>
-    <ul id="smalls-secondary" class="secondary">
-        <li class="active-bar-container"><div class="active-bar"></div></li>
-        <a href="/countertop-appliances/blenders/"><li id="blenders-secondary" class="secondary-section">Blenders</li></a>
-        <a href="/countertop-appliances/coffee-products/"><li id="coffeeproducts-secondary" class="secondary-section">Coffee Products</li></a>
-        <a href="/countertop-appliances/commercial-products/"><li id="commericalproducts-secondary" class="secondary-section">Commercial Products</li></a>
-        <a href="/countertop-appliances/countertop-ovens/"><li id="countertopovens-secondary" class="secondary-section">Countertop Ovens</li></a>
-        <a href="/countertop-appliances/food-processors/"><li id="foodprocessors-secondary" class="secondary-section">Food Processors</li></a>
-        <a href="/countertop-appliances/hand-blenders/"><li id="handblenders-secondary" class="secondary-section">Hand Blenders</li></a>
-        <a href="/countertop-appliances/hand-mixers/"><li id="handmixers-secondary" class="secondary-section">Hand Mixers</li></a>
-        <a href="/kitchenware/kettles/"><li id="kettles-secondary" class="secondary-section">Kettles</li></a>
-<a href="/shop/major-appliances-1/microwaves-3/102020037/"><li id="microwaves-secondary" class="secondary-section">Microwaves</li></a>
-        <a href="/countertop-appliances/pro-line/"><li id="proline-secondary" class="secondary-section">Pro Line Series</li></a>
-        <a href="/countertop-appliances/slow-cookers/"><li id="slowcookers-secondary" class="secondary-section">Slow Cookers</li></a>
-        <a href="/countertop-appliances/stand-mixer-attachments/"><li id="standmixerattachments-secondary" class="secondary-section">Stand Mixer Attachments</li></a>
-        <a href="/countertop-appliances/stand-mixers/"><li id="standmixers-secondary" class="secondary-section">Stand Mixers</li></a>
-        <a href="/countertop-appliances/toasters/"><li id="toasters-secondary" class="secondary-section">Toasters</li></a>
-        <a href="/countertop-appliances/waffle-bakers/"><li id="wafflemakers-secondary" class="secondary-section">Waffle Bakers</li></a>
-    </ul>
-    <ul id="kitchenware-secondary" class="secondary">
-        <li class="active-bar-container"><div class="active-bar"></div></li>
-        <a href="/kitchenware/bakeware/"><li id="bakeware-secondary" class="secondary-section">Bakeware</li></a>
-        <a href="/kitchenware/cookware/"><li id="cookware-secondary" class="secondary-section">Cookware</li></a>
-        <a href="/kitchenware/kettles/"><li id="kettles-secondary" class="secondary-section">Kettles</li></a>
-        <a href="/shop/kitchenware-1/all-kitchenware-2/all-kitchenware-3/102020178/"><li class="allkitchenware-secondary">See All Kitchenware</li></a>
-    </ul>
-    <ul id="shop-secondary" class="secondary">
-        <li class="active-bar-container"><div class="active-bar"></div></li>
-        <li class="secondary-section majors">
-            <div class="secondary-section-column">
-                <div class="secondary-section-header shop-title">Major Appliances</div>
-                <a href="/shop/major-appliances-1/cooktops-3/102020008/"><div>Cooktops</div></a>
-                <a href="/shop/major-appliances-1/dishwashers-3/102020014/"><div>Dishwashers</div></a>
-                <a href="/shop/major-appliances-1/disposers-and-compactors-3/102020299/"><div>Disposers &amp; Compactors</div></a>
-                <a href="/major-appliances/grills/"><div>Grills</div></a>
-                <a href="/shop/major-appliances-1/hoods-and-vents-3/102020029/"><div>Hoods &amp; Vents</div></a>
-                <a href="/shop/major-appliances-1/microwaves-3/102020037/"><div>Microwaves</div></a>
-                <a href="/shop/major-appliances-1/ranges-3/102020042/"><div>Ranges</div></a>
-                <a href="/shop/major-appliances-1/refrigerators-3/102020048/"><div>Refrigerators</div></a>
-                <a href="/shop/major-appliances-1/wall-ovens-3/102020003/"><div>Wall Ovens</div></a>
-                <a href="/shop/major-appliances-1/warming-drawers-3/102020057/"><div>Warming Drawers</div></a>
-            </div>
-        </li>
-        <li class="secondary-section countertop">
-            <div class="secondary-section-column">
-                <div class="secondary-section-header shop-title">Countertop Appliances</div>
-                <a href="/shop/countertop-appliances-1/blenders-3/102020121/"><div>Blenders</div></a>
-                <a href="/shop/countertop-appliances-1/coffee-products-3/102020125/"><div>Coffee Products</div></a>
-                <a href="/shop/countertop-appliances-1/commercial-products-3/102020128/"><div>Commercial Products</div></a>
-                <a href="/shop/countertop-appliances-1/countertop-ovens-3/102020138/"><div>Countertop Ovens</div></a>
-                <a href="/shop/countertop-appliances-1/countertop-appliances-2/electric-kettles-3/102020253/"><div>Electric Kettles</div></a>
+					<!-- Code Start -->
 
-                <a href="/shop/countertop-appliances-1/food-processors-3/102020141/"><div>Food Processors</div></a>
-                <a href="/shop/countertop-appliances-1/hand-blenders-3/102020144/"><div>Hand Blenders</div></a>
-                <a href="/shop/countertop-appliances-1/hand-mixers-3/102020148/"><div>Hand Mixers</div></a>
-                <a href="/shop/major-appliances-1/microwaves-3/102020037/"><div>Microwaves</div></a>
-                <a href="/shop/countertop-appliances-1/pro-line-3/102020165/"><div>Pro Line Series</div></a>
-                <a href="/shop/countertop-appliances-1/slow-cookers-3/102020298/"><div>Slow Cookers</div></a>
-                <a href="/shop/countertop-appliances-1/stand-mixer-attachments-3/102020154/"><div>Stand Mixer Attachments</div></a>
-                <a href="/shop/countertop-appliances-1/stand-mixers-3/102020156/"><div>Stand Mixers</div></a>
-                <a href="/shop/countertop-appliances-1/toasters-3/102020167/"><div>Toasters</div></a>
-                <a href="/shop/countertop-appliances-1/waffle-makers-3/102020170/"><div>Waffle Bakers</div></a>
-            </div>
-        </li>
-        <li class="secondary-section kitchenware">
-            <div class="secondary-section-column">
-                <div class="secondary-section-header shop-title">Kitchenware</div>
-                <a href="/shop/kitchenware-1/Bakeware-2/Bakeware-3/102020174/"><div>Bakeware</div></a>
-                <a href="/shop/kitchenware-1/cookware-2/cookware-3/102020335/"><div>Cookware</div></a>
-                <a href="/shop/kitchenware-1/kettles-2/kettles-3/102020218/"><div>Kettles</div></a>
-                <a href="/shop/kitchenware-1/all-kitchenware-2/all-kitchenware-3/102020178/"><div>See All Kitchenware</div></a>
-            </div>
-        </li>
-        <li class="secondary-section accessories">
-            <div class="secondary-section-column">
-                <div class="secondary-section-header shop-title accessories-title">Accessories</div>
-                    <div class="secondary-section-double-column">
-                        <div class="secondary-section-header">Major Appliances</div>
-                        <a href="/shop/accessories-1/cooktops-3/102020085/"><div>Cooktops</div></a>
-                        <a href="/shop/accessories-1/dishwashers-3/102020066/"><div>Dishwashers</div></a>
-                        <a href="/shop/accessories-1/hoods-and-vents-3/102020162/"><div>Hoods &amp; Vents</div></a>
-                        <a href="/shop/accessories-1/microwaves-3/102020095/"><div>Microwaves</div></a>
-                        <a href="/shop/accessories-1/ranges-3/102020308/"><div>Ranges</div></a>
-                        <a href="/shop/accessories-1/refrigerators-3/102020075/"><div>Refrigerators</div></a>
-                        <a href="/shop/accessories-1/wall-ovens-3/102020301/"><div>Wall Ovens</div></a>
-                        <!--a href="/shop/accessories-1/water-filters-3/xxxxxxxxx/"><div>Water Filters</div></a-->
-                    </div>
-                    <div class="secondary-section-double-column">
-                        <div class="secondary-section-header">Countertop Appliances</div>
-                        <a href="/shop/accessories-1/blenders-3/102020103/"><div>Blenders</div></a>
-                        <a href="/shop/accessories-1/coffee-products-3/102020104/"><div>Coffee Products</div></a>
-                        <a href="/shop/accessories-1/countertop-ovens-3/102020105/"><div>Countertop Ovens</div></a>
-                        <a href="/shop/accessories-1/food-processors-3/102020106/"><div>Food Processors</div></a>
-                        <a href="/shop/accessories-1/hand-blenders-3/102020107/"><div>Hand Blender</div></a>
-                        <a href="/shop/accessories-1/stand-mixers-3/102020102/"><div>Stand Mixers</div></a>
-                    </div>
-                    <div class="secondary-section-double-column">
-                        <div class="secondary-section-header">Refrigerator Water Filters</div>
-                        <a href="/shop/accessories-1/refrigerator-water-filters-3/102020258/"><div>Water Filters</div></a>
-                        <!--a href="/shop/accessories-1/coffee-products-3/102020104/"><div>Side by Side</div></a>
+<div id="header-main-nav">
+  <ul id="primary-sections">
+    <a href="/major-appliances/">
+      <li id="majors-primary" class="primary">Major Appliances</li>
+    </a>
+    <a href="/countertop-appliances/">
+      <li id="smalls-primary" class="primary">Countertop Appliances</li>
+    </a>
+    <a href="/kitchenware/">
+      <li id="kitchenware-primary" class="primary">Kitchenware</li>
+    </a>
+    <a href="/shop/">
+      <li id="shop-primary" class="primary">Shop</li>
+    </a>
+    <a href="/customer-service/">
+      <li id="service-support-primary" class="primary">Service &amp; Support</li>
+    </a>
+    <a href="/culinary-inspiration/">
+      <li id="culinary-inspiration-primary" class="primary last">Culinary Inspiration</li>
+    </a>
+  </ul>
+  <ul id="majors-secondary" class="secondary">
+    <li class="active-bar-container">
+      <div class="active-bar"></div>
+    </li>
+    <a href="/major-appliances/cooking-products/">
+      <li id="cookingproducts-secondary" class="secondary-section">Cooking Products</li>
+    </a>
+    <a href="/major-appliances/dishwashers/">
+      <li id="dishwashers-secondary" class="secondary-section">Dishwashers</li>
+    </a>
+    <a href="/major-appliances/disposers-and-compactors/">
+      <li id="cooking-appliances-secondary" class="secondary-section">Disposers &amp; Compactors</li>
+    </a>
+    <a href="/major-appliances/grills/">
+      <li id="refrigerators-secondary" class="secondary-section">Grills</li>
+    </a>
+    <a href="/major-appliances/hoods-and-vents/">
+      <li id="countertop-appliances-secondary" class="secondary-section">Hoods &amp; Vents</li>
+    </a>
+    <a href="/major-appliances/refrigerators/">
+      <li id="ventilation-secondary" class="secondary-section">Refrigerators</li>
+    </a>
+    <a href="https://whirlpoolstores.com/" target="_blank">
+      <li id="outdoor-kitchen-secondary" class="secondary-section">Water Filters</li>
+    </a>
+  </ul>
+  <ul id="smalls-secondary" class="secondary">
+    <li class="active-bar-container">
+      <div class="active-bar"></div>
+    </li>
+    <a href="/countertop-appliances/blenders/">
+      <li id="blenders-secondary" class="secondary-section">Blenders</li>
+    </a>
+    <a href="/countertop-appliances/coffee-products/">
+      <li id="coffeeproducts-secondary" class="secondary-section">Coffee Products</li>
+    </a>
+    <a href="/countertop-appliances/commercial-products/">
+      <li id="commericalproducts-secondary" class="secondary-section">Commercial Products</li>
+    </a>
+    <a href="/countertop-appliances/countertop-ovens/">
+      <li id="countertopovens-secondary" class="secondary-section">Countertop Ovens</li>
+    </a>
+    <a href="/kitchenware/kettles/">
+      <li id="kettles-secondary" class="secondary-section">Electric Kettles</li>
+    </a>
+    <a href="/countertop-appliances/food-processors/">
+      <li id="foodprocessors-secondary" class="secondary-section">Food Processors</li>
+    </a>
+    <a href="/countertop-appliances/hand-blenders/">
+      <li id="handblenders-secondary" class="secondary-section">Hand Blenders</li>
+    </a>
+    <a href="/countertop-appliances/hand-mixers/">
+      <li id="handmixers-secondary" class="secondary-section">Hand Mixers</li>
+    </a>
+    <a href="/shop/major-appliances-1/microwaves-3/102020037/">
+      <li id="microwaves-secondary" class="secondary-section">Microwaves</li>
+    </a>
+    <a href="/countertop-appliances/pro-line/">
+      <li id="proline-secondary" class="secondary-section">Pro Line Series</li>
+    </a>
+    <a href="/countertop-appliances/slow-cookers/">
+      <li id="slowcookers-secondary" class="secondary-section">Slow Cookers</li>
+    </a>
+    <a href="/countertop-appliances/stand-mixer-attachments/">
+      <li id="standmixerattachments-secondary" class="secondary-section">Stand Mixer Attachments</li>
+    </a>
+    <a href="/countertop-appliances/stand-mixers/">
+      <li id="standmixers-secondary" class="secondary-section">Stand Mixers</li>
+    </a>
+    <a href="/countertop-appliances/toasters/">
+      <li id="toasters-secondary" class="secondary-section">Toasters</li>
+    </a>
+    <a href="/countertop-appliances/waffle-bakers/">
+      <li id="wafflemakers-secondary" class="secondary-section">Waffle Bakers</li>
+    </a>
+  </ul>
+  <ul id="kitchenware-secondary" class="secondary">
+    <li class="active-bar-container">
+      <div class="active-bar"></div>
+    </li>
+    <a href="/kitchenware/bakeware/">
+      <li id="bakeware-secondary" class="secondary-section">Bakeware</li>
+    </a>
+    <a href="/kitchenware/cookware/">
+      <li id="cookware-secondary" class="secondary-section">Cookware</li>
+    </a>
+    <a href="/kitchenware/kettles/">
+      <li id="kettles-secondary" class="secondary-section">Kettles</li>
+    </a>
+    <!--<a href="/shop/kitchenware-1/all-kitchenware-2/all-kitchenware-3/102020178/">
+      <li class="allkitchenware-secondary">See All Kitchenware</li>
+    </a>-->
+  </ul>
+  <ul id="shop-secondary" class="secondary">
+    <li class="active-bar-container">
+      <div class="active-bar"></div>
+    </li>
+    <li class="secondary-section majors">
+      <div class="secondary-section-column">
+        <div class="secondary-section-header shop-title">Major Appliances</div>
+        <a href="/shop/major-appliances-1/cooktops-3/102020008/">
+          <div>Cooktops</div>
+        </a>
+        <a href="/shop/major-appliances-1/dishwashers-3/102020014/">
+          <div>Dishwashers</div>
+        </a>
+        <a href="/shop/major-appliances-1/disposers-and-compactors-3/102020299/">
+          <div>Disposers &amp; Compactors</div>
+        </a>
+        <a href="/major-appliances/grills/">
+          <div>Grills</div>
+        </a>
+        <a href="/shop/major-appliances-1/hoods-and-vents-3/102020029/">
+          <div>Hoods &amp; Vents</div>
+        </a>
+        <a href="/shop/major-appliances-1/microwaves-3/102020037/">
+          <div>Microwaves</div>
+        </a>
+        <a href="/shop/major-appliances-1/ranges-3/102020042/">
+          <div>Ranges</div>
+        </a>
+        <a href="/shop/major-appliances-1/refrigerators-3/102020048/">
+          <div>Refrigerators</div>
+        </a>
+        <a href="/shop/major-appliances-1/wall-ovens-3/102020003/">
+          <div>Wall Ovens</div>
+        </a>
+        <a href="/shop/major-appliances-1/warming-drawers-3/102020057/">
+          <div>Warming Drawers</div>
+        </a>
+      </div>
+    </li>
+    <li class="secondary-section countertop">
+      <div class="secondary-section-column">
+        <div class="secondary-section-header shop-title">Countertop Appliances</div>
+        <a href="/shop/countertop-appliances-1/blenders-3/102020121/">
+          <div>Blenders</div>
+        </a>
+        <a href="/shop/countertop-appliances-1/coffee-products-3/102020125/">
+          <div>Coffee Products</div>
+        </a>
+        <a href="/shop/countertop-appliances-1/commercial-products-3/102020128/">
+          <div>Commercial Products</div>
+        </a>
+        <a href="/shop/countertop-appliances-1/countertop-ovens-3/102020138/">
+          <div>Countertop Ovens</div>
+        </a>
+        <a href="/shop/countertop-appliances-1/countertop-appliances-2/electric-kettles-3/102020253/">
+          <div>Electric Kettles</div>
+        </a>
+        <a href="/shop/countertop-appliances-1/food-processors-3/102020141/">
+          <div>Food Processors</div>
+        </a>
+        <a href="/shop/countertop-appliances-1/hand-blenders-3/102020144/">
+          <div>Hand Blenders</div>
+        </a>
+        <a href="/shop/countertop-appliances-1/hand-mixers-3/102020148/">
+          <div>Hand Mixers</div>
+        </a>
+        <a href="/shop/major-appliances-1/microwaves-3/102020037/">
+          <div>Microwaves</div>
+        </a>
+        <a href="/shop/countertop-appliances-1/pro-line-3/102020165/">
+          <div>Pro Line Series</div>
+        </a>
+        <a href="/shop/countertop-appliances-1/slow-cookers-3/102020298/">
+          <div>Slow Cookers</div>
+        </a>
+        <a href="/shop/countertop-appliances-1/stand-mixer-attachments-3/102020154/">
+          <div>Stand Mixer Attachments</div>
+        </a>
+        <a href="/shop/countertop-appliances-1/stand-mixers-3/102020156/">
+          <div>Stand Mixers</div>
+        </a>
+        <a href="/shop/countertop-appliances-1/toasters-3/102020167/">
+          <div>Toasters</div>
+        </a>
+        <a href="/shop/countertop-appliances-1/waffle-makers-3/102020170/">
+          <div>Waffle Bakers</div>
+        </a>
+      </div>
+    </li>
+    <li class="secondary-section kitchenware">
+      <div class="secondary-section-column">
+        <div class="secondary-section-header shop-title">Kitchenware</div>
+        <a href="/shop/kitchenware-1/Bakeware-2/Bakeware-3/102020174/">
+          <div>Bakeware</div>
+        </a>
+        <a href="/shop/kitchenware-1/cookware-2/cookware-3/102020335/">
+          <div>Cookware</div>
+        </a>
+        <a href="/shop/kitchenware-1/kettles-2/kettles-3/102020218/">
+          <div>Kettles</div>
+        </a>
+        <!--<a href="/shop/kitchenware-1/all-kitchenware-2/all-kitchenware-3/102020178/">
+          <div>See All Kitchenware</div>
+        </a>-->
+      </div>
+    </li>
+    <li class="secondary-section accessories">
+      <div class="secondary-section-column">
+        <div class="secondary-section-header shop-title accessories-title">Accessories</div>
+        <div class="secondary-section-double-column">
+          <div class="secondary-section-header">Major Appliances</div>
+          <a href="/shop/accessories-1/cooktops-3/102020085/">
+            <div>Cooktops</div>
+          </a>
+          <a href="/shop/accessories-1/dishwashers-3/102020066/">
+            <div>Dishwashers</div>
+          </a>
+          <a href="/shop/accessories-1/hoods-and-vents-3/102020162/">
+            <div>Hoods &amp; Vents</div>
+          </a>
+          <a href="/shop/accessories-1/microwaves-3/102020095/">
+            <div>Microwaves</div>
+          </a>
+          <a href="/shop/accessories-1/ranges-3/102020308/">
+            <div>Ranges</div>
+          </a>
+          <a href="/shop/accessories-1/refrigerators-3/102020075/">
+            <div>Refrigerators</div>
+          </a>
+          <a href="/shop/accessories-1/wall-ovens-3/102020301/">
+            <div>Wall Ovens</div>
+          </a>
+          <!--a href="/shop/accessories-1/water-filters-3/xxxxxxxxx/"><div>Water Filters</div></a-->
+        </div>
+        <div class="secondary-section-double-column">
+          <div class="secondary-section-header">Countertop Appliances</div>
+          <a href="/shop/accessories-1/blenders-3/102020103/">
+            <div>Blenders</div>
+          </a>
+          <a href="/shop/accessories-1/coffee-products-3/102020104/">
+            <div>Coffee Products</div>
+          </a>
+          <a href="/shop/accessories-1/countertop-ovens-3/102020105/">
+            <div>Countertop Ovens</div>
+          </a>
+          <a href="/shop/accessories-1/food-processors-3/102020106/">
+            <div>Food Processors</div>
+          </a>
+          <a href="/shop/accessories-1/hand-blenders-3/102020107/">
+            <div>Hand Blender</div>
+          </a>
+          <a href="/shop/accessories-1/stand-mixers-3/102020102/">
+            <div>Stand Mixers</div>
+          </a>
+        </div>
+        <div class="secondary-section-double-column">
+          <div class="secondary-section-header">Refrigerator Water Filters</div>
+          <a href="https://whirlpoolstores.com/" target="_blank">
+            <div>Water Filters</div>
+          </a>
+          <!--a href="/shop/accessories-1/coffee-products-3/102020104/"><div>Side by Side</div></a>
                         <a href="/shop/accessories-1/countertop-ovens-3/102020257/"><div>Bottom Freezer</div></a>
                         <a href="/shop/accessories-1/food-processors-3/102020106/"><div>Top Freezer</div></a>
                         <a href="/shop/accessories-1/countertop-ovens-3/102020295/"><div>Under Counter</div></a-->
-                    </div>                                 
-            </div>
-        </li>
-        <li class="secondary-section last moreways">
-            <div class="secondary-section-column">
-                <div class="secondary-section-header shop-title">More Ways To Shop</div>
-                  <a href="http://www.kitchenaid.com/shop/more-ways-to-shop-1/shop-2/cook-for-the-cure-3/102020160/"><div>Cook for the Cure</div></a>
-                 <a href="/experience-retail-center/"><div>Experience Retail Center</div></a>
-                 <a href="/find-a-store/"><div>Find a Retailer</div></a>
-                 <a href="/shop/more-ways-to-shop-1/outlet-3/102020231/"><div>Outlet</div></a>
-                 <a href="/shop/more-ways-to-shop-1/parts-3/102020235/"><div>Parts</div></a>
-                 <a href="/promotions/"><div>Special Offers</div></a>
-            </div>
-        </li>
-    </ul>
-    <ul id="service-support-secondary" class="secondary">
-        <li class="active-bar-container"><div class="active-bar"></div></li>
-        <a href="/customer-service/faqs/"><li class="secondary-section">FAQs</li></a>
-        <a href="/customer-service/manuals/"><li class="secondary-section">Manuals &amp; Literature</li></a>
-        <a href="/customer-service/my-appliances/"><li class="secondary-section">My Appliances</li></a>
-        <a href="/customer-service/register-products/"><li class="secondary-section">Register Products</li></a>
-        <a href="http://kitchenaidpartsonline.partsquik.com/" target="_blank"><li class="secondary-section">Replacement Parts</li></a>
-        <a href="/customer-service/schedule-service/"><li class="secondary-section">Schedule Service</li></a>
-    </ul>
-    <ul id="culinary-inspiration-secondary" class="secondary">
-        <li class="active-bar-container"><div class="active-bar"></div></li>
-<a href="http://blog.kitchenaid.com" target="_blank">
-        <li class="secondary-section">Blog: The Kitchenthusiast</li>
-</a>
-        <a href="/experience-retail-center/"><li class="secondary-section">Experience Retail Center</li></a>
-        <a href="/culinary-inspiration/kitchen-gallery/"><li class="secondary-section">Kitchen Gallery</li></a>
-        <a href="/culinary-inspiration/partners-and-events/"><li class="secondary-section">Partners &amp; Events</li></a>
-    </ul>
-</div>            
+        </div>
+      </div>
 
-		<!-- Code End   --><!--  contentName: header_p2, displayType: standard, store: KAD_US_B2C, locale: en_US, status: { [path=systemdefined/header_p2.xml, displayed=true, error=] }-->
+    </li>
+    <li class="secondary-section last moreways">
+      <div class="secondary-section-column">
+        <div class="secondary-section-header shop-title">More Ways To Shop</div>
+        <a href="http://www.kitchenaid.com/shop/more-ways-to-shop-1/shop-2/cook-for-the-cure-3/102020160/">
+          <div>Cook for the Cure</div>
+        </a>
+        <a href="/experience-retail-center/">
+          <div>Experience Retail Center</div>
+        </a>
+        <a href="/find-a-store/">
+          <div>Find a Retailer</div>
+        </a>
+        <a href="/shop/more-ways-to-shop-1/outlet-3/102020231/">
+          <div>Outlet</div>
+        </a>
+        <a href="/shop/more-ways-to-shop-1/parts-3/102020235/">
+          <div>Parts</div>
+        </a>
+        <a href="/promotions/">
+          <div>Special Offers</div>
+        </a>
+      </div>
+    </li>
+  </ul>
+  <ul id="service-support-secondary" class="secondary">
+    <li class="active-bar-container">
+      <div class="active-bar"></div>
+    </li>
+    <a href="/customer-service/manuals/">
+      <li class="secondary-section">Manuals &amp; Literature</li>
+    </a>
+    <a href="/customer-service/my-appliances/">
+      <li class="secondary-section">My Appliances</li>
+    </a>
+    <a href="/customer-service/faqs/">
+      <li class="secondary-section">Product Help</li>
+    </a>
+    <a href="/customer-service/register-products/">
+      <li class="secondary-section">Register Products</li>
+    </a>
+    <a href="http://kitchenaidpartsonline.partsquik.com/" target="_blank">
+      <li class="secondary-section">Replacement Parts</li>
+    </a>
+    <a href="/customer-service/schedule-service/">
+      <li class="secondary-section">Schedule Service</li>
+    </a>
+  </ul>
+  <ul id="culinary-inspiration-secondary" class="secondary">
+    <li class="active-bar-container">
+      <div class="active-bar"></div>
+    </li>
+    <a href="http://blog.kitchenaid.com" target="_blank">
+      <li class="secondary-section">Blog: The Kitchenthusiast</li>
+    </a>
+    <a href="/experience-retail-center/">
+      <li class="secondary-section">Experience Retail Center</li>
+    </a>
+    <a href="/culinary-inspiration/kitchen-gallery/">
+      <li class="secondary-section">Kitchen Gallery</li>
+    </a>
+    <a href="/culinary-inspiration/partners-and-events/">
+      <li class="secondary-section">Partners &amp; Events</li>
+    </a>
+  </ul>
+</div>
+
+<!-- Code End   --><!--  contentName: header_p2, displayType: standard, store: KAD_US_B2C, locale: en_US, status: { [path=systemdefined/header_p2.xml, displayed=true, error=] }-->
 
 		  	  	
 			  	  	
+		
+				
+				
 		
 		<script type="text/javascript">
 			dojo.addOnLoad(function() {
 				parseWidget("zip_code_popup");
 				// add a dummy callback method that other functions can connect to upon successful zip code selection
 				dojo.mixin(dijit.byId("zip_code_popup"), { onZipCodeSelected: function(zipCode) {} });
-		
+		        parseWidget("sap_unavailable_popup");
 				// these messages are needed for the zip code popup on all pages where it might appear
 				
 				MessageHelper.setMessage("ERROR_InvalidJurisdisctionCode", "You have entered an invalid zip code or the tax Jurisdiction code could not be determined.  Please try again. ");
@@ -642,10 +863,13 @@ function fieldGrabberX(){
 
 		
 	</div>
+
+	<input type="hidden" name="storeIdentifier" value="KAD_US_B2C" id="storeIdentifier">
+
 </div>
 
 
-<!-- END of CachedORNHeaderDisplay.jsp  --><!-- QC 189 ML for NAR  Start --><!-- QC 189 ML for Canada sites  End --><!-- END WHRORNHeaderDisplay.jspf --><!-- END LayoutContainerTop.jspf --><!-- Header Nav End -->
+<!-- END of CachedORNHeaderDisplay.jsp  --><!-- Gladiator Phase 2 Change END 12/25 --><!-- QC 189 ML for NAR  Start --><!-- QC 189 ML for Canada sites  End --><!-- END WHRORNHeaderDisplay.jspf --><!-- END LayoutContainerTop.jspf --><!-- Header Nav End -->
 	
 	<div id="page" class="ContentPage generic">
 		<div class="main-content-wrapper-top"></div>
@@ -741,105 +965,104 @@ function fieldGrabberX(){
 		<div class="main-content-wrapper-bottom"></div>
 	</div>
 	
-	<!-- Footer Start Start --><!-- BEGIN LayoutContainerBottom.jspf --><!-- BEGIN FooterDisplay.jspf --><!-- JSP File Name: CachedFooterDisplay.jsp --><!-- GENERATED: [CachedFooterDisplay, Mon Dec 09 07:23:51 EST 2013] -->
-		<!-- Code Start -->
-				<div id="footer-container">
-            	<div class="footer-header">
-                </div>
-           	<!-- FOOTER FRAGMENT BEGINS -->
-					<div id="footer-nav">
-						<div id="footer-nav-level-one">
-							<ul>
-                                <li class="header"><a href="/major-appliances/">Major Appliances</a></li>
-                                <li><a href="/major-appliances/cooking-products/">Cooking Products</a></li>
-								<li><a href="/major-appliances/dishwashers/">Dishwashers</a></li>
-                                <li><a href="/major-appliances/disposers-and-compactors/">Disposers &amp; Compactors</a></li>
-                                <li><a href="/major-appliances/grills/">Grills</a></li>
-                                <li><a href="/major-appliances/hoods-and-vents/">Hoods &amp; Vents</a></li>
-                                <li><a href="/major-appliances/refrigerators/">Refrigerators</a></li>
-                                <li><a href="/major-appliances/water-filters/">Water Filters</a></li>
-                                <li class="shop-footer"><a href="/shop/">Shop Kitchenaid</a></li>
- 							</ul>
-							<ul>
-                                <li class="header"><a href="/countertop-appliances/">Countertop Appliances</a></li>
-                                <li><a href="/countertop-appliances/blenders/">Blenders</a></li>
-                                <li><a href="/countertop-appliances/coffee-products/">Coffee Products</a></li>
-                                <li><a href="/countertop-appliances/commercial-products/">Commercial Products</a></li>
-                                <li><a href="/countertop-appliances/countertop-ovens/">Countertop Ovens</a></li>
-                                <li><a href="/countertop-appliances/food-processors/">Food Processors</a></li>
-                                <li><a href="/countertop-appliances/hand-blenders/">Hand Blenders</a></li>
-                                <li><a href="/countertop-appliances/hand-mixers/">Hand Mixers</a></li>
-                                <li><a href="/shop/major-appliances-1/microwaves-3/102020037/">Microwaves</a></li>
-                                <li><a href="/countertop-appliances/pro-line/">Pro Line</a></li>
-                                <li><a href="/countertop-appliances/slow-cookers/">Slow Cookers</a></li>
-                                <li><a href="/countertop-appliances/stand-mixer-attachments/">Stand Mixer Attachments</a></li>
-                                <li><a href="/countertop-appliances/stand-mixers/">Stand Mixers</a></li>
-                                <li><a href="/countertop-appliances/toasters/">Toasters</a></li>
-                                <li><a href="/countertop-appliances/waffle-bakers/">Waffle Bakers</a></li>
- 							</ul>
-							<ul>
-                                <li class="header"><a href="/kitchenware/">Kitchenware</a></li>
-                                 <li><a href="/kitchenware/bakeware/">Bakeware</a></li>
-                                 <li><a href="/kitchenware/cookware/">Cookware</a></li>
-                                 <li><a href="/kitchenware/kettles/">Kettles</a></li>
-                                 <li><a href="/shop/kitchenware-1/all-kitchenware-2/all-kitchenware-3/102020178/">See All Kitchenware</a></li>
- 							</ul>
-							<ul>
-                                <li class="header"><a href="/customer-service/">Service &amp; Support</a></li>
-                                <li><a href="/customer-service/faqs/">FAQs</a></li>
-                                <li><a href="/customer-service/manuals/">Manuals &amp; Literature</a></li>
-                                <li><a href="/customer-service/my-appliances/">My Appliances</a></li>
-                                <li><a href="/customer-service/register-products/">Register Products</a></li>
-                                <li><a href="http://kitchenaidpartsonline.partsquik.com/">Replacement Parts</a></li>
-                                <li><a href="/customer-service/schedule-service/">Schedule Service</a></li>
- 							</ul>
-							<ul>
-                                <li class="header"><a href="/culinary-inspiration/">Culinary Inspiration</a></li>
-<li><a href="http://blog.kitchenaid.com" target="_blank">Blog: The Kitchenthusiast</a></li>
-                               <li><a href="/experience-retail-center/">Experience Retail Center</a></li>
-                                <li><a href="/culinary-inspiration/kitchen-gallery/">Kitchen Gallery</a></li>
-                                <li><a href="/culinary-inspiration/partners-and-events/">Partners and Events</a></li>
-                                 <li class="header">Connect With Us</li>
-                                <li>
-                                  <div class="footer-social-channels">
-<!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style ">
-<div class="social-channel"><a class="addthis_button_facebook_follow" addthis:userid="KitchenAid" href="http://www.facebook.com/kitchenaid" target="_blank"></a></div>
-<div class="social-channel"><a class="addthis_button_twitter_follow" addthis:userid="KitchenAidUSA" href="https://twitter.com/KitchenAidUSA" target="_blank"></a></div>
-<div class="social-channel"><a class="addthis_button_youtube_follow" addthis:userid="KitchenAidUSA" href="http://www.youtube.com/user/KitchenAidUSA" target="_blank"></a></div>
-<div class="social-channel"><a class="addthis_button_pinterest_follow" addthis:userid="KitchenAidUSA" href="http://pinterest.com/kitchenaidusa/" target="_blank"></a></div>
-<div class="social-channel"><a class="addthis_button_instagram_follow" addthis:userid="KitchenAidUSA" href="http://instagram.com/kitchenaidusa" target="_blank"></a></div>
-</div>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e2ec58951cdfb8c"></script>
-<!-- AddThis Button END -->
-        </div>
-                                </li>
- 							</ul>
-							<ul>
-                                <li class="header">Additional Resources</li>
-                                <li><a href="/about-kitchenaid/">About KitchenAid</a></li>
-                                <li><a href="http://www.whirlpoolcareers.com/" target="_blank">Careers</a></li>
-                                <li><a href="/shop/cart/">Cart</a></li>
-                                <li><a href="/contact-us/">Contact Us</a></li>
-                                <li><a href="/experience-retail-center/">Experience Retail Center</a></li>
-                                <li><a href="/webapp/wcs/stores/servlet/LogonForm?catalogId=10552&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10202">My Account</a></li>
-                                <li><a href="http://news.kitchenaid.com/category/press-room/">Press Room</a></li>
-                                <li><a href="/privacy-policy/">Privacy Policy</a></li>
-                                <li><a href="/sign-up-for-email/">Sign Up for Email</a></li>
-                                <li><a href="/site-map/">Site Map</a></li>
-                                <li><a href="/terms-of-use/">Terms of Use</a></li>
-                                <li class="footer-language">United States | <a href="http://international.kitchenaid.com" target="_blank">Change</a></li>
- 							</ul>                            
-					</div>
-            <!-- FOOTER FRAGMENT ENDS -->
-            	<p class="footer-legal">®/™ ©2013 KitchenAid. All rights reserved. The design of the stand mixer is a trademark in the U.S. and elsewhere.</p>
-                </div>
+	<!-- Footer Start Start --><!-- BEGIN LayoutContainerBottom.jspf --><!-- BEGIN FooterDisplay.jspf --><!-- Gladiator Phase 2 START 12/26 --><!-- JSP File Name: CachedFooterDisplay.jsp --><!-- GENERATED: [CachedFooterDisplay, Wed Jun 25 09:15:37 EDT 2014] -->
+<!-- Gladiator Phase 2 START 12/18 --> <!-- Code Start -->
+<div id="footer-container">
+  <div class="footer-header"> </div>
+  <!-- FOOTER FRAGMENT BEGINS -->
+  <div id="footer-nav">
+    <div id="footer-nav-level-one">
+      <ul>
+        <li class="header"><a href="/major-appliances/">Major Appliances</a></li>
+        <li><a href="/major-appliances/cooking-products/">Cooking Products</a></li>
+        <li><a href="/major-appliances/dishwashers/">Dishwashers</a></li>
+        <li><a href="/major-appliances/disposers-and-compactors/">Disposers &amp; Compactors</a></li>
+        <li><a href="/major-appliances/grills/">Grills</a></li>
+        <li><a href="/major-appliances/hoods-and-vents/">Hoods &amp; Vents</a></li>
+        <li><a href="/major-appliances/refrigerators/">Refrigerators</a></li>
+        <li><a href="/major-appliances/water-filters/">Water Filters</a></li>
+        <li class="shop-footer"><a href="/shop/">Shop Kitchenaid</a></li>
+      </ul>
+      <ul>
+        <li class="header"><a href="/countertop-appliances/">Countertop Appliances</a></li>
+        <li><a href="/countertop-appliances/blenders/">Blenders</a></li>
+        <li><a href="/countertop-appliances/coffee-products/">Coffee Products</a></li>
+        <li><a href="/countertop-appliances/commercial-products/">Commercial Products</a></li>
+        <li><a href="/countertop-appliances/countertop-ovens/">Countertop Ovens</a></li>
+        <li><a href="/kitchenware/kettles/">Electric Kettles</a></li>
+        <li><a href="/countertop-appliances/food-processors/">Food Processors</a></li>
+        <li><a href="/countertop-appliances/hand-blenders/">Hand Blenders</a></li>
+        <li><a href="/countertop-appliances/hand-mixers/">Hand Mixers</a></li>
+        <li><a href="/shop/major-appliances-1/microwaves-3/102020037/">Microwaves</a></li>
+        <li><a href="/countertop-appliances/pro-line/">Pro Line</a></li>
+        <li><a href="/countertop-appliances/slow-cookers/">Slow Cookers</a></li>
+        <li><a href="/countertop-appliances/stand-mixer-attachments/">Stand Mixer Attachments</a></li>
+        <li><a href="/countertop-appliances/stand-mixers/">Stand Mixers</a></li>
+        <li><a href="/countertop-appliances/toasters/">Toasters</a></li>
+        <li><a href="/countertop-appliances/waffle-bakers/">Waffle Bakers</a></li>
+      </ul>
+      <ul>
+        <li class="header"><a href="/kitchenware/">Kitchenware</a></li>
+        <li><a href="/kitchenware/bakeware/">Bakeware</a></li>
+        <li><a href="/kitchenware/cookware/">Cookware</a></li>
+        <li><a href="/kitchenware/kettles/">Kettles</a></li>
+        <!--<li><a href="/shop/kitchenware-1/all-kitchenware-2/all-kitchenware-3/102020178/">See All Kitchenware</a></li>-->
+      </ul>
+      <ul>
+        <li class="header"><a href="/customer-service/">Service &amp; Support</a></li>
+        <li><a href="/customer-service/manuals/">Manuals &amp; Literature</a></li>
+        <li><a href="/customer-service/my-appliances/">My Appliances</a></li>
+        <li><a href="/customer-service/faqs/">Product Help</a></li>
+        <li><a href="/customer-service/register-products/">Register Products</a></li>
+        <li><a href="http://kitchenaidpartsonline.partsquik.com/">Replacement Parts</a></li>
+        <li><a href="/customer-service/schedule-service/">Schedule Service</a></li>
+      </ul>
+      <ul>
+        <li class="header"><a href="/culinary-inspiration/">Culinary Inspiration</a></li>
+        <li><a href="http://blog.kitchenaid.com" target="_blank">Blog: The Kitchenthusiast</a></li>
+        <li><a href="/experience-retail-center/">Experience Retail Center</a></li>
+        <li><a href="/culinary-inspiration/kitchen-gallery/">Kitchen Gallery</a></li>
+        <li><a href="/culinary-inspiration/partners-and-events/">Partners and Events</a></li>
+        <li class="header">Connect With Us</li>
+        <li>
+          <div class="footer-social-channels"> 
+            <!-- AddThis Button BEGIN -->
+            <div class="addthis_toolbox addthis_default_style ">
+              <div class="social-channel"><a class="addthis_button_facebook_follow" addthis:userid="KitchenAid" href="http://www.facebook.com/kitchenaid" target="_blank"></a></div>
+              <div class="social-channel"><a class="addthis_button_twitter_follow" addthis:userid="KitchenAidUSA" href="https://twitter.com/KitchenAidUSA" target="_blank"></a></div>
+              <div class="social-channel"><a class="addthis_button_youtube_follow" addthis:userid="KitchenAidUSA" href="http://www.youtube.com/user/KitchenAidUSA" target="_blank"></a></div>
+              <div class="social-channel"><a class="addthis_button_pinterest_follow" addthis:userid="KitchenAidUSA" href="http://pinterest.com/kitchenaidusa/" target="_blank"></a></div>
+              <div class="social-channel"><a class="addthis_button_instagram_follow" addthis:userid="KitchenAidUSA" href="http://instagram.com/kitchenaidusa" target="_blank"></a></div>
             </div>
-<script src="/javascript/webtrends.js" type="text/javascript"></script>
-		<!-- Code End   --><!--  contentName: footer, displayType: standard, store: KAD_US_B2C, locale: en_US, status: { [path=systemdefined/footer.xml, displayed=true, error=] }-->
+            <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e2ec58951cdfb8c"></script> 
+            <!-- AddThis Button END --> 
+          </div>
+        </li>
+      </ul>
+      <ul>
+        <li class="header">Additional Resources</li>
+        <li><a href="/about-kitchenaid/">About KitchenAid</a></li>
+        <li><a href="http://www.whirlpoolcareers.com/" target="_blank">Careers</a></li>
+        <li><a href="/shop/cart/">Cart</a></li>
+        <li><a href="/contact-us/">Contact Us</a></li>
+        <li><a href="/experience-retail-center/">Experience Retail Center</a></li>
+        <li><a href="/webapp/wcs/stores/servlet/LogonForm?catalogId=10552&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10202">My Account</a></li>
+        <li><a href="http://news.kitchenaid.com/category/press-room/">Press Room</a></li>
+        <li><a href="/privacy-policy/">Privacy Policy</a></li>
+        <li><a href="/sign-up-for-email/">Sign Up for Email</a></li>
+        <li><a href="/site-map/">Site Map</a></li>
+        <li><a href="/terms-of-use/">Terms of Use</a></li>
+        <li class="footer-language">United States | <a href="http://international.kitchenaid.com" target="_blank">Change</a></li>
+      </ul>
+    </div>
+    <!-- FOOTER FRAGMENT ENDS -->
+    <p class="footer-legal">®/™ ©2014 KitchenAid. All rights reserved. The design of the stand mixer is a trademark in the U.S. and elsewhere.</p>
+  </div>
+</div>
+<!-- Code End   --><!--  contentName: footer, displayType: standard, store: KAD_US_B2C, locale: en_US, status: { [path=systemdefined/footer.xml, displayed=true, error=] }-->
 
 		  	  	
-			  	  	<!-- END FooterDisplay.jspf -->
+			  	  	<!-- Gladiator Phase 2 END 12/18 --><!-- Gladiator Phase 2 END 12/26 --><!-- END FooterDisplay.jspf -->
 
 <script type="text/javascript">
 	dojo.addOnLoad(function() { 
@@ -887,7 +1110,6 @@ function fieldGrabberX(){
 			<script type="text/javascript">
 				function popup_callGetPlantCodeByZip() {
 					var myZipcode = document.getElementById('popup_zipcodeTxt');
-					dcsMultiTrack('DCS.dcsuri','on_release', 'WT.zipcode', myZipcode.value);
 					setCurrentId('popup_zipcodeTxt');
 					EndecaHelperJS.setAbsStoresWebPath(window.location.protocol+'//www.kitchenaid.com/webapp/wcs/stores/servlet');
 					EndecaHelperJS.setStoreCountry('US');
@@ -906,5 +1128,20 @@ function fieldGrabberX(){
 					</div>
 				</div>
 			</form>
+		</div><div class="modal_closeTab"><a href="javascript:;" dojoattachevent="onclick: onCancel"><div class="border-right"></div><div class="modal_closeTxt">CLOSE <img src="/images/icon_modal_close.png"></div><div class="border-left"></div></a></div><div class="corner-topLeft"></div><div class="corner-bottomRight"></div><div class="corner-bottomLeft"></div><div dojoattachpoint="sideRight" class="sideRight"></div><div dojoattachpoint="sideLeft" class="sideLeft"></div><div dojoattachpoint="sideBottom" class="sideBottom"></div><div dojoattachpoint="sideTop" class="sideTop"></div>
+</div><div class="dijitDialog modalDialog dijitContentPane" tabindex="-1" wairole="dialog" waistate="labelledby-sap_unavailable_popup_title" role="dialog" aria-labelledby="sap_unavailable_popup_title" id="sap_unavailable_popup" widgetid="sap_unavailable_popup" title="" style="visibility: hidden; position: absolute; top: -9999px;">
+	<div dojoattachpoint="titleBar" class="dijitDialogTitleBar" title="">
+	<span dojoattachpoint="titleNode" class="dijitDialogTitle" id="sap_unavailable_popup_title"></span>
+	<span dojoattachpoint="closeButtonNode" class="dijitDialogCloseIcon" dojoattachevent="onclick: onCancel, onmouseenter: _onCloseEnter, onmouseleave: _onCloseLeave" title="Cancel">
+		<span dojoattachpoint="closeText" class="closeText" title="Cancel">x</span>
+	</span>
+	</div>
+		<div dojoattachpoint="containerNode" class="dijitDialogPaneContent">
+			Dear Valued Customer,
+
+There is an error with our system. This issue is currently being worked on and we appreciate your patience.<!--  contentName: support/SapUnavailableMessage, displayType: standard, store: KAD_US_B2C, locale: en_US, status: { [path=systemdefined/support/SapUnavailableMessage.xml, displayed=true, error=] }-->
+
+		  	  	
+			  	  	
 		</div><div class="modal_closeTab"><a href="javascript:;" dojoattachevent="onclick: onCancel"><div class="border-right"></div><div class="modal_closeTxt">CLOSE <img src="/images/icon_modal_close.png"></div><div class="border-left"></div></a></div><div class="corner-topLeft"></div><div class="corner-bottomRight"></div><div class="corner-bottomLeft"></div><div dojoattachpoint="sideRight" class="sideRight"></div><div dojoattachpoint="sideLeft" class="sideLeft"></div><div dojoattachpoint="sideBottom" class="sideBottom"></div><div dojoattachpoint="sideTop" class="sideTop"></div>
 </div></body></html>
