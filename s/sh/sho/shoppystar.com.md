@@ -1,74 +1,25 @@
-> *The following text is extracted and transformed from the shoppystar.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817040416id_/http%3A//www.shoppystar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppystar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065501id_/http%3A//www.shoppystar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Our privacy Policy**
+**We protect your privacy.**  
+Our privacy policy is simple: any information you give us stays with us. We do not rent, sell, lend, or otherwise distribute your personal information to anyone for any reason. This includes your contact information, as well as specific order information.
 
-This privacy policy sets out how ShoppyStar.com uses and protects any information that you give ShoppyStar.com  when you use this website.
+**We limit data access to those who need to know.**  
+Within our organization, your personal data is accessible to only a limited number of employees with special access privileges. Although we may, from time to time, compile general demographic information based on your order, this information is shared within our organization only and has no identifiable personal data associated with it.
 
-ShoppyStar.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+**Information Collected**  
+To enable you to place an order on our site, we need to have the following basic information about you: Your First Name, Your Last Name, and Your Address, City, Zip code, State, Country, Phone Number and Contact E-mail address.
 
-ShoppyStar.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 21st February 2013.
+Apart from this, our systems gather certain details about your computer's internet connection like your IP address when you visit our site. Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to customize our site as per your interest, to calculate the number of visitors on our site and to know the geographic locations from where our visitors come.
 
-**What we collect**
+We do not allow any unauthorized person or organization be it other members, visitors, and anyone not in our organization to use any information collected from you.
 
-We may collect the following information:
+**Information Modification**  
+You can modify your personal details by accessing Edit Profile option anytime from our site.
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+**Information Sharing**  
+Probably this is the most important question in your mind as to with whom do we share your information? The answer to this question is that we do not rent, sell, barter, or give away your information to anyone. To some extent, information has to be passed on to the courier companies, credit card processing companies, vendors, etc. to enable them to perform their functions related to your order fulfilment. Apart from this normal business requirement, information may also be needed to be shared with law authorities, for fraud detection, and for the safety of our site, employees, management, users, members and other affiliates associated with us.
 
-
-
-**What we do with the information we gather**
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
-
-
-
-**Security**
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-**How we use cookies**
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-**Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-**Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at **care@shoppystar.com**.
-
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above email address. We will promptly correct any information found to be incorrect.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below:
-
-**Company Name** :  Zaayega Online Marketing India Private Limited
-
-**Telephone No** :  +91-80-50926127
-
-**E-Mail ID    :  **care@shoppystar.com
+**Information Usage**  
+The most important usage of the information collected from you is your email which is used to inform you that your order has been confirmed/executed. Your email is also used to inform you for your customer service related queries and for any newsletters sent. All other information collected is confidentially stored and will not be disclosed unless needed as per the requirement of the law authorities or in case of any disputes.
