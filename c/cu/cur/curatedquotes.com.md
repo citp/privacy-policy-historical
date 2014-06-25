@@ -1,100 +1,165 @@
-> *The following text is extracted and transformed from the curatedquotes.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curatedquotes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625230109id_/http%3A//www.curatedquotes.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy for Curartedquotes.com - Curated Quotes
 
-**Go Daddy Respects Your Privacy**
+## Types of Data collected
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are:  
+Cookie, Usage Data and Email. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
+The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
+Any use of Cookies – or of other tracking tools – by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.  
+Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.
 
-**Information Collection and Use**
+## Mode and place of processing the Data
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## Method of processing
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+The Data Controller processes the Data of Users in proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data.  
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+## Place
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+The Data is processed at the Data Controller headquarters, unless stated otherwise in the rest of this document.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+## Conservation Time
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request the Data Controller for their suspension or removal.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+## The use of the collected Data
 
-**Security**
+The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes:  
+Analytics, Advertising, Content commenting and Displaying content from external platforms. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+The Personal Data used for each purpose is outlined in the specific sections of this document.
 
-**Updating Your Information**
+## Detailed information on the processing of Personal Data
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Personal Data is collected for the following purposes and using the following services:
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+## Advertising
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+These services allow User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests.
 
-      iii.      You may call us at: (480) 505-8800
+This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.
 
-       iv.      You may fax us at: (480) 505-8844
+Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.
 
-**Sending Emails**
+#### Google AdSense (Google)
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Google AdSense is an advertising service provided by Google Inc. This service uses the “Doubleclick” Cookie, which tracks use of this Application and User behavior concerning ads, products and services offered.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Users may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout?hl=en](http://www.google.com/settings/ads/onweb/optout?hl=en).
 
-**Compliance with Laws and Law Enforcement**
+Personal Data collected:  
+Cookie and Usage Data. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Place of processing: USA  
+–
 
-**Third Party Service Providers**
+[Privacy Policy](http://google.com/privacy/ads/)
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+#### Direct Email Marketing (DEM) (This Application)
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+This Application uses the User Data to propose services and products provided by third parties or unrelated to the product or service provided by this Application.
 
-**Supplementation of Information**
+Personal Data collected:  
+Email. 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+#### Direct Email Marketing (DEM) (This Application)
 
-**Contests/Surveys**
+This Application uses the User Data to propose services and products provided by third parties or unrelated to the product or service provided by this Application.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Personal Data collected:  
+Email. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+## Analytics
 
-**Tell-A-Friend**
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+#### Google Analytics (Google)
 
-**What Happens to my Personal Information if I Opt Out?**
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-**Transfer of Data Abroad**
+Personal Data collected:  
+Cookie and Usage Data. 
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Place of processing: USA  
+–
 
-**Changes in Our Practices**
+[Privacy Policy](http://www.google.com/intl/en/policies/privacy/)  
+–
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+[Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+## Comment Commenting
 
-**Contacting Our Site**
+Content commenting services allow Users to make and publish their comments on the contents of this Application.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.
 
-* * *
+If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when users do not use the content commenting service.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+#### Disqus (Disqus)
+
+Disqus is a content commenting service provided by Big Heads Labs Inc.
+
+Personal Data collected:  
+Cookie and Usage Data. 
+
+Place of processing: USA  
+–
+
+[Privacy Policy](http://docs.disqus.com/help/30/)
+
+## Displaying Content from other sources
+
+These services allow you to view content hosted on external platforms directly from the pages of this Application and interact with them.
+
+If a service of this kind is installed, it may still collect web traffic data for the pages where the service is installed, even when users do not use it.
+
+#### Youtube video (Google)
+
+Youtube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
+
+Personal Data collected:  
+Cookie and Usage Data. 
+
+Place of processing: USA  
+–
+
+[Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
+
+## Additional information about Data collection and processing
+
+## Legal Action
+
+The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services. 
+
+## Additional Information about User’s Personal Data
+
+In addition to the information in this privacy policy, this Application may provide the User with contextual information concerning particular services or the collection and processing of Personal Data. 
+
+## System Logs and Maintenance
+
+For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address). 
+
+## Information not contained in this policy
+
+More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time at its contact information. 
+
+## The rights of Users
+
+Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above. 
+
+This Application does not support “do not track” requests.  
+To understand if any of the third party services it uses honor the “do not track” requests, please read their privacy policies. 
+
+## Changes to this privacy policy
+
+The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request the Data Controller to erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. 
