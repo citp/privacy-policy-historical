@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the careers360.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023011157id_/http%3A//www.careers360.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers360.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625163700id_/http%3A//www.careers360.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
   * ##### Our Privacy Policy
 
-The website www.careers360.com (here in after 'website'), developed and operated by M/s Pathfinder Publishing Private Limited, a company incorporated under the Companies Act, 1956, with its Registered Office at Level 3, 'akasam', 10-1-17/1/1, Masab Tank, Hyderabad – 500028 and corporate Address at 6,Pathfinder Publishing Pvt. Limited, LSC, Panchsheel Park, New Delhi - 110017 (hereinafter 'PPPL') is offered to the user/s (hereinafter 'visitor/s') upon the terms and conditions that follow.
+The website www.careers360.com (here in after 'website'), developed and operated by M/s Pathfinder Publishing Private Limited, a company incorporated under the Companies Act, 1956, with its corporate Address at 6, Panchsheel Shopping Center, Near Shahpur Jat, Off August Kranti Marg, New Delhi -110017 (hereinafter 'PPPL') is offered to the user/s (hereinafter 'visitor/s') upon the terms and conditions that follow.
 
 Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
 
@@ -22,27 +22,27 @@ By using this Web site, you consent to the terms of our Online Privacy Policy an
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
 
-    * We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services. 
+    * We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services.
 
 ###### Updating your information
 
-    * We provide mechanisms for updating and correcting your personally identifying information for many of our services. 
+    * We provide mechanisms for updating and correcting your personally identifying information for many of our services.
 
 ###### Children
 
-    * 'Pathfinder Publishing (P) Limited' will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
+    * 'Pathfinder Publishing (P) Limited' will not contact children under age 13 about special offers or for marketing purposes without a parent's permission.
 
 ###### Information Sharing and Disclosure
 
-    * 'Pathfinder Publishing (P) Limited' does not rent, sell, or share personal information about you with other people (save with your consent) or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-      * We provide the information to trusted partners who work on behalf of or with 'Pathfinder Publishing (P) Limited' under confidentiality agreements. These companies may use your personal information to help 'Pathfinder Publishing (P) Limited' communicate with you about offers from 'Pathfinder Publishing (P) Limited' and our marketing partners. However, these companies do not have any independent right to share this information. 
-      * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
-      * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of 'Pathfinder Publishing (P) Limited' s terms of use, or as otherwise required by law. 
-      * We transfer information about you if 'Pathfinder Publishing (P) Limited' is acquired by or merged with another company. In this event, 'Pathfinder Publishing (P) Limited' will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-    * 'Pathfinder Publishing (P) Limited' displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
-      * 'Pathfinder Publishing (P) Limited' does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-      * 'Pathfinder Publishing (P) Limited' advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
-    * 'Pathfinder Publishing (P) Limited' works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed reference links. 
+    * 'Pathfinder Publishing (P) Limited' does not rent, sell, or share personal information about you with other people (save with your consent) or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+      * We provide the information to trusted partners who work on behalf of or with 'Pathfinder Publishing (P) Limited' under confidentiality agreements. These companies may use your personal information to help 'Pathfinder Publishing (P) Limited' communicate with you about offers from 'Pathfinder Publishing (P) Limited' and our marketing partners. However, these companies do not have any independent right to share this information.
+      * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+      * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of 'Pathfinder Publishing (P) Limited' s terms of use, or as otherwise required by law.
+      * We transfer information about you if 'Pathfinder Publishing (P) Limited' is acquired by or merged with another company. In this event, 'Pathfinder Publishing (P) Limited' will notify you before information about you is transferred and becomes subject to a different privacy policy.
+    * 'Pathfinder Publishing (P) Limited' displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area.
+      * 'Pathfinder Publishing (P) Limited' does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
+      * 'Pathfinder Publishing (P) Limited' advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
+    * 'Pathfinder Publishing (P) Limited' works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed reference links.
 
 ###### Confidentiality and Security
 
