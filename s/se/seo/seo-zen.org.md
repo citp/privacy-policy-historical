@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seo-zen.org privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007162453id_/http%3A//seo-zen.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-zen.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060857id_/http%3A//seo-zen.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SEO ZEN Review - Does SEO ZEN Software Truly Work?
+# Privacy Policy | Sharing My Honest Product Review & Special Offer
 
-Your privacy is very important to us. Accordingly, we have developed this  **privacy policy**  in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+Your privacy is very important to us. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
 ## Privacy Policy:
 
@@ -18,4 +18,4 @@ Your privacy is very important to us. Accordingly, we have developed this  **pr
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-Rating: 0.0/ **10** (0 votes cast)
+## Share this article
