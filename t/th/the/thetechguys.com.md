@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetechguys.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211035604id_/http%3A//knowhow.com/article.dhtml%3FarticleReference%3D320%26country%3Duk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechguys.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111129id_/http%3A//knowhow.com/article.dhtml%3FarticleReference%3D320%26country%3Duk) for the most accurate reproduction.*
 
 # KNOWHOW | Privacy & Cookies
 
@@ -12,7 +12,7 @@ Cookies are perfectly safe to be stored on your computer and almost all web brow
 
 **Please be aware** that disabling cookies on your browser will reduce your ability to use Knowhow.com. We use cookies in various ways on our website that may stop the site from working fully when you disable them. This would also be a common experience of reduced functionality across many websites.
 
-Learn how to change the cookie settings for your browser on our KNOWHOW to Control Cookies link.
+Learn how to change the cookie settings for your browser on our Knowhow to Control Cookies link.
 
 Recent legislation from the European Union has meant that websites must provide clear information about their use of cookies to their customers, something we at Knowhow fully support. We want to ensure that you, as our valued customer, are fully aware of the use of cookies on our website, and we are proud of our reputation as a transparent and honest retailer that you can trust.
 
@@ -43,7 +43,7 @@ Knowhow (sitemap-collapsed) |  This is a cookie we deploy from Knowhow.com that 
   
 These are all the cookies currently used by our website and our approved suppliers. Hopefully it is clear that all of our cookies are used ultimately to improve the journey for our customers online or to help us present a better website experience online.
 
-If you feel you would like to change your personal interaction with cookies, you can adjust storage of cookies settings through your web browser by checking out our KNOWHOW to Control Cookies link.
+If you feel you would like to change your personal interaction with cookies, you can adjust storage of cookies settings through your web browser by checking out our Knowhow to Control Cookies link.
 
 **Please be aware** disabling cookies will severely limit your ability to use Knowhow.com and disable features of many websites across the internet.
 
@@ -112,7 +112,7 @@ Back to top
 
 ####  WHO WE ARE
 
-In this Privacy Policy references to ‘we’ and ‘us’s are to DSG Retail Limited trading as KNOWHOW, Currys, PC World and Partmaster Direct, company number 504877, registered office Maylands Avenue, Hemel Hempstead, Hertfordshire HP2 7TG.
+In this Privacy Policy references to ‘we’ and ‘us’s are to DSG Retail Limited trading as Knowhow, Currys, PC World and Partmaster Direct, company number 504877, registered office Maylands Avenue, Hemel Hempstead, Hertfordshire HP2 7TG.
 
 ####  WHAT INFORMATION WE COLLECT AND HOW
 
