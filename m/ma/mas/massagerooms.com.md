@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagerooms.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016140822id_/http%3A//www.massagerooms.com/tour/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagerooms.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120750id_/http%3A//massagerooms.com/tour/privacy.html) for the most accurate reproduction.*
 
 # MassageRooms.Com
 
@@ -64,4 +64,4 @@ Effective: January_2013
   * Peace of mind with our reliable Customer Services - email us anytime and speak to our team directly. 
   * We capture real orgasms and the natural beauty of the female form. 
 
-[Instant Access](https://web.archive.org/web/20131016140822id_/http%3A//www.massagerooms.com/tour/join.php)
+[Instant Access](https://web.archive.org/web/20140625120750id_/http%3A//massagerooms.com/tour/join.php)
