@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workable.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208131427id_/http%3A//workable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workable.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071652id_/http%3A//workable.com/privacy) for the most accurate reproduction.*
 
 # Workable - Privacy policy
 
@@ -6,7 +6,7 @@ As the operators of the Workable website, Workable Software Limited (" **We** ",
 
 For the purpose of the Data Protection Act 1998, the Data Controller is Workable Software Limited, registered in England and Wales with Company Registration Number 08125469 and having its address at 235 Old Marylebone Road, London, United Kingdom, NW1 5QT. 
 
-######  INFORMATION WE MAY COLLECT FROM YOU 
+##  Information we may collect from you 
 
 We may collect and process the following information from you: 
 
@@ -20,7 +20,7 @@ We may collect and process the following information from you:
 
 
 
-######  HOW WE STORE YOUR PERSONAL DATA 
+##  How we store your personal data 
 
 We take appropriate measures to ensure that any personal data are kept secure for the duration of your use of our service. 
 
@@ -30,7 +30,7 @@ We also note the data that we collect from you may be transferred to, and stored
 
 If you have any questions about how we store and use data collected which relates to you, please contact us using the details set out below. 
 
-######  IP ADDRESSES AND COOKIES 
+##  IP Addresses & cookies 
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. 
 
@@ -45,7 +45,7 @@ The cookies we use are "analytical" cookies. Some of the common uses for our coo
 
 
 
-######  USES MADE OF YOUR INFORMATION 
+##  Uses made of your information 
 
 We use information held about you in the following ways:
 
@@ -57,7 +57,7 @@ We use information held about you in the following ways:
 
 
 
-######  DISCLOSURE OF YOUR INFORMATION 
+##  Disclosure of your information 
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006 (where applicable). 
 
@@ -71,18 +71,18 @@ We may disclose your personal information to third parties:
 
 
 
-###### YOUR RIGHTS
+## Your rights
 
 The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and terms of use and that we do not accept any responsibility or liability for these policies and terms of use. Please check these policies before you submit any personal data to these websites. 
 
-###### ACCESS TO INFORMATION
+## Access to information
 
 The Data Protection Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Data Protection Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
 
-###### CHANGES TO OUR PRIVACY POLICY
+## Changes to our privacy policy
 
 We reserve the right to modify this Privacy Policy at any time. Any changes we may make to our Policy in the future will be notified and made available to you using the Website. Your continued use of the services and the Website shall be deemed your acceptance of the varied Privacy Policy. 
 
-###### CONTACT
+## Contact
 
 All questions, comments and requests regarding this Privacy Policy should be addressed to support@workable.com. 
