@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humansarefree.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204204939id_/http%3A//humansarefree.com/p/messages.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humansarefree.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054153id_/http%3A//humansarefree.com/p/messages.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Humans Are Free
 
@@ -31,10 +31,3 @@ About Google advertising: What is the DoubleClick DART cookie? The DoubleClick D
 Contact Information  
   
 Concerns or questions about this privacy policy can be directed to alexandru2012@gmail.com for further clarification.
-
-| 
-
-**Dear Friends,**   
-HumansAreFree.com is and will always be free to access and use. If you appreciate my work, please help me continue.  
-  
----|---
