@@ -1,55 +1,80 @@
-> *The following text is extracted and transformed from the vmgoldmine.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319182702id_/http%3A//vmgoldmine.com/index.php%3Fparams%3Dmain/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmgoldmine.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625152259id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Home : Video Marketing Gold Mine | Video Marketing Gold Mine
+# HugeDomains.com - Privacy Policy
 
-Loading...
+[Home](http://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-## Privacy Policy
+**What information do we collect?**
 
-Thank you for visiting Video Marketing Gold Mine's ("Video Marketing Gold Mine") personal data management and e-commerce Internet web site ("Site") located at the URL [www.vmgoldmine.com ](http://www.vmgoldmine.com/)managed and hosted by JuJuQ, Inc. This Privacy Policy details certain policies implemented throughout the SIte governing our use of personally identifiable information provided to us via this Site. 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Privacy Policy Updates
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-Due to the Internet's rapidly evolving nature, we may need to update this Privacy Policy from time to time. If so, we will post its updated Privacy Policy on our Site located at [www.vmgoldmine.com](http://www.vmgoldmine.com/) so you are always aware of what personally identifiable information we may collect and how we may use this information. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy. 
+**What do we use your information for?**
 
-Information Collection and Use
+Any of the information we collect from you may be used in one of the following ways: 
 
-You can generally visit our Site without revealing any personally identifiable information about yourself. However, in certain sections of this Site, to use certain services, we may require you to register for an account, or we may invite you to submit questions or comments or request information, participate in surveys, questionnaires or contests, subscribe to newsletters or participate in community forums. Due to the nature of some of these activities, we may ask that you complete and submit an online form with personally identifiable information such as your name, username, email address, contact information and credit card information. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-We may use your personally identifiable information to deliver certain services, products or information you have requested, verify your authority to enter certain password protected areas of the Site, send you notices for products and/or services that you have used or that may be of interest to you, and improve the content and general administration of the Site. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-If you are a registered user and post to any of the Site's community forums, other registered users of this Site may view your username and may send you emails, but they will not be able to see your actual email address. We may use your personally identifiable information to send you advertisements and other promotional information regarding our products and services or the products and services of our third party marketing partners and other communications related to the Site. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-Children's Privacy
+• To process transactions
 
-We recognize the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. No personally identifiable information is collected by us and our services and Site are not intended for children under the age of 13. We do not target its services or this Site to children under 13. We do not knowingly collect personally identifiable information from children under the age of 13. 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-Cookies
+• To send periodic emails
 
-We may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies generally do not permit us to personally identify you. Cookies must be enabled for you to use certain areas of the Site. 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Advertisements that appear on this Site are delivered to users by our advertising partners. Our advertising partners may download cookies to your computer. Doing this allows the advertising network to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to or control of the cookies that may be placed by the third party advertisers. 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-Aggregate InformationThe Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, IP addresses, External Web Sites (defined below) linked to, and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use. We may share this aggregate information with third parties to assist them in targeting advertisements to appropriate audiences. 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Disclosure
+**How do we protect your information?**
 
-We may provide your personally identifiable information that we collect and the data generated by cookies to the vendors and service agencies that we may engage to assist us. For example, we may provide your personally identifiable information to an organization in order to complete a service (e.g., process your payment). 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-We will also disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority. We will not sell your personally identifiable information to any other company or organization except that we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which we participate or to a purchaser of all or substantially all of our assets to which this Site relates. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-Links to Third Party Sites
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-The Site may provide links to other Web sites or resources over which we do not have control ("External Web Sites"). Such links do not constitute an endorsement by us of those External Web Sites. You acknowledge that we are providing these links to you only as a convenience, and further agree that we are not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
+**Do we use cookies?**
 
-Security
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-We may employ procedural and technological measures, consistent with industry practice. Such measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. We may use encryption, secure socket layer, firewalls, internal restrictions, password protection and other security measures to help prevent unauthorized access to your personally identifiable information. 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-Correction/Updating Personally Identifiable Information
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-We provide you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us. If you wish to review or correct any information you have provided to us 
+**Do we disclose any information to outside parties?**
 
-* You may access your account and review, correct and delete your personally identifiable information 
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-* Or you may contact us by email at: [support@vmgoldmine.com](mailto:support@vmgoldmine.com). If you have any questions regarding this Privacy Policy please contact us or via email at: [support@vmgoldmine.com](mailto:support@vmgoldmine.com).
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.HugeDomains.com](http://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](http://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
