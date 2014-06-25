@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crocmint.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928053916id_/http%3A//www.crocmint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crocmint.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010902id_/http%3A//www.crocmint.com/privacy.php) for the most accurate reproduction.*
 
 # Crocmint - World's Leading Affiliate Program!
 
@@ -83,7 +83,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-CMP GLOBAL LTD ,  
+crocmint.com ,  
 C/O , AMS TRUSTEE LTD ,  
 SEA MEADOW HOUSE ,  
 BLACKBURNE HIGHWAY ,  
@@ -92,4 +92,4 @@ ROAD TOWN ,
 TORTOLA ,  
 BRITISH VIRGIN ISLAND
 
-Support@CMPGL.com
+Support@CrocMint.com
