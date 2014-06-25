@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the populiweb.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809082858id_/http%3A//www.populiweb.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the populiweb.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625150351id_/http%3A//www.populiweb.com/legal/privacy) for the most accurate reproduction.*
 
 # Populi - Privacy Policy
 
 ## Populi Privacy Policy
 
-Date of Last Revision: April 1, 2013 
+Date of Last Revision: October 9, 2013 
 
 Protecting your privacy is really important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use, and disclosure of information that we receive when you use the Services (as defined in our [Terms of Service](https://web.archive.org/legal/terms/) and [Acceptable Use Policy](https://web.archive.org/legal/aup/)). This Privacy Policy applies only to those websites, services, and applications included within the “Services” and doesn’t apply to any other third-party websites, services, or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service. 
 
@@ -150,9 +150,11 @@ Your PII may be transferred to, and maintained on, computers located outside of 
 
 ###### This means that…
 
-We do not knowingly collect information from children and if we inadvertently do, we delete it. 
+We do not knowingly collection information from children and if we inadvertently do, we delete it. Our Customers may collect such information, and it is their responsibility to make sure they comply with applicable laws. 
 
-The Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible. 
+The Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 on our Site, we will take steps to delete such information from our files as soon as possible. 
+
+We are not responsible for the collection of PII of children under 13 by our Customers and their Authorized Users. It is the responsibility of our Customers and their Authorized Users to utilize the Services in a manner that complies with FERPA and any similar regulations in force in the jurisdiction(s) within which our Customers operate. 
 
 ####  Section 9: Changes to Privacy Policy 
 
