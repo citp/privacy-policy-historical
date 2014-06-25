@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the govnokri.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128221613id_/http%3A//govnokri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govnokri.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071405id_/http%3A//govnokri.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Latest Govt Jobs 2013-2014-2015 | Sarkari Naurki | Government Jobs
+# Privacy Policy
 
-**[www.govnokri.com](http://www.govnokri.com/)** Really takes your Privacy Seriously. This Privacy Policy Describe what personal Information do we collect and how we use it.
+**[www.govnokri.com](http://govnokri.com/)** Really takes your Privacy Seriously. This Privacy Policy Describe what personal Information do we collect and how we use it.
 
 We Collect information from you when you subscribe to our posts or Comments.
 
@@ -32,6 +32,6 @@ This policy was last modified on 15th July 2013.
 
 If there are any questions regarding this privacy Policy you may contact us using the information below.
 
-[ **govnokri.com**](http://govnokri.com/)
+[**govnokri.com**](http://govnokri.com/)
 
- **contact@govnokri.com**
+**contact@govnokri.com**
