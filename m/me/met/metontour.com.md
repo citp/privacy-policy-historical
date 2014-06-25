@@ -1,33 +1,63 @@
-> *The following text is extracted and transformed from the metontour.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210203226id_/http%3A//www.metallica.com/help/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metontour.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062921id_/http%3A//www.metallica.com/help/privacy-policy.asp) for the most accurate reproduction.*
 
 # METALLICA.com | Privacy Policy
 
-Metallica.com may use any information you submit to us about yourself during your visit in order to provide you with the ultimate web experience, while keeping you up to date with the latest information about Metallica and the site. Please note that your information is not shared with any other party, except as strictly necessary to process membership applications and merchandise orders, or as required by law. We understand your need to maintain your privacy when using the internet.
+This Privacy Policy governs the manner in which Metallica Club collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.metallica.com](http://www.metallica.com/www.metallica.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Metallica Club.
 
-###### Information we collect and how we may use it:
+**Personal identification information**
 
-We may collect both personally identifiable (name, email, address, credit card information) and non-personally identifiable (gender, zip code, country, age) information.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Personally identifiable information that we may collect may include credit card numbers, address and billing information, which will enable us to process and charge your credit card account for your fan club membership applications and/or merchandise orders.
+**Non-personal identification information**
 
-If you sign up on the mailing list, enter contests, complete surveys, or use our forums, we may request your contact information (name, email address, date of birth, zip code, gender, country and language preference, etc.).
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-The mailing list is our newsletter that informs you of any events, upcoming shows, and important news. The contest information will be used to notify winners and be able to award prizes. We may use survey information that we gather to monitor and improve the website for our users.
+**Web browser cookies**
 
-The information collected in conjunction with any of our forums (chat, bulletin boards, etc.) may be used to provide you with the ultimate website experience. Please keep in mind that if you voluntarily disclose personal information in the public forums (bulletin boards or in the chat areas) on this web site, the information that you provide may be collected and used by others. This may result in unsolicited messages from other people. You should NEVER disclose personal contact information (i.e. address, phone number, etc.) to strangers in public forums such as bulletin boards or chat rooms. You hereby accept all risks associated with any such disclosure and acknowledge that Metallica, metallica.com, metclub.com, its agents, administrators, representatives, employees, successors, assigns, and attorneys shall have no responsibility or liability as a result of any such disclosure.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Otherwise the only information that we may disclose to a third party vendor would be aggregate non-personal information, such as statistics and demographics. This may include demographic information (gender, general location, age, sales and traffic patterns), but this information is NEVER identifiable. We do not sell, trade, donate, or rent personal information...EVER!
+**How we use collected information**
 
-###### Cookies
+Metallica Club may collect and use Users personal information for the following purposes:
 
-Cookies are non-personally identifiable information, small pieces of information stored by your browser on your hard drive. They are not programs and cannot be used to read any data or files on your computer and it is unlikely that a cookie will cause a virus. They are used to make viewing our website easier by saving your preferences and password, so you don't have to re-enter it each time you visit our site. Cookies also enable us to gather the amount of times a user has visited our website and the pages that are viewed. We do this in order to better our website. This gives us information as to what is interesting on our site and drives traffic to it and what doesn't.
+  * _\- To process payments_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _\- To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _\- To send periodic emails_  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-If you wish not to accept cookies, simply choose the "disable your cookies" option on your web browser, as most web browsers are automatically set up to accept cookies. Please keep in mind that this will erase any personalized preferences you have set up and it may be difficult to complete transactions, such as purchasing merchandise, renewing or signing up.
 
-###### Children's Privacy:
 
-This website is in compliance with the Children's Online Privacy Protection Act and does not collect use, or disclose the personal information of a child under the age of 13. If a child under the age of 13 registers on our site, we will not accept the registration and the information will be deleted immediately. In the event that a child posts personal information in a public forum, such as boards or chat, we will attempt to delete that information once we become aware of it. You may contact [metbb@metclub.com](mailto:metbb@metclub.com) for any removal of such information.
+**How we protect your information**
 
-###### Limits of Liabilities and Legal Process:
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-We may be forced to disclose personal information in response to legal matters or should the law require it. This would be an unlikely situation, but information could be requested due to a subpoena, court order, or law enforcement agency's request.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+
+**Sharing your personal information**
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+**Third party websites**
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+**Changes to this privacy policy**
+
+Metallica Club has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy and [terms of service](http://www.metallica.com/help/store-policy.asp). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+Metallica Club 369 B-Third Street, #194 San Rafael, CA 94901  
+[www.metallica.com](http://www.metallica.com/)  
+415-458-1752  
+[info@metclub.com](mailto:info@metclub.com)
+
+This document was last updated on February 12, 2014
