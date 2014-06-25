@@ -1,35 +1,62 @@
-> *The following text is extracted and transformed from the audiko.net privacy policy that was archived on 2013-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130724090309id_/http%3A//audiko.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiko.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124514id_/http%3A//audiko.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy Audiko
+# Terms of use Audiko
 
-## About this Privacy Policy
+Date of Last Revision: February 14, 2014
 
-We reserve the right, at our discretion, to modify or remove portions of this Privacy Policy at any time. This Internet Privacy Policy is in addition to any other terms and conditions applicable to the web site. We do not make any representations about third party web sites that may be linked to the web site.
+Audiko ("Audiko" or "we" or "us" or "our") provides content editing service We enable our community of users to actively download, produce, promote and share original content such as ringtones, texts and apps. 
 
-## The information we collect
+We take your privacy seriously and are committed to protecting the information we collect. The following privacy policy is designed to let visitors to Audiko, including but not limited to www.audiko.net, m.audiko.com, and i.audiko,net, (collectively, our "Websites") and users of the Audiko mobile applications (our "Mobile Apps") understand our privacy practices. We refer to our Website visitors and Mobile App users as users ("Users") of the Audiko service (our "Services"). We also encourage you to read through our terms of service <http://audiko.net/tou.html>.
 
-Audiko.net collects non-personally identifiable information when you visit our website (audiko.net). This data includes your IP address, the IP address and URL of the Website that sent you to the Audiko.net main page, browser cookie and browser type. This data is automatically recorded in our server logs and is used to manage the website, track usage and improve the Audiko.net website and services. When you visit the Audiko.net site, we may send one or more cookies to your computer that uniquely identifies your browser. Audiko.net doesn’t send you any cookies, instead there are some statistics services that can do so. We have no access to or control over these cookies.
+## What types of information does audiko collect?
 
-## How Audiko.net uses your information
-
-Additionally, Audiko.net will not use personally identifiable information to send commercial or marketing messages without your consent except as part of a specific program or feature for which you will have the ability to turn on or off. Audiko.net uses non-personally identifiable information so that: 
-
-  * We can improve the quality and design of our website and services and to create new features and functionality 
-  * We can monitor the effectiveness of our marketing campaigns 
-  * We can monitor aggregate metrics such as total number of visitors, pages viewed, etc. 
+  1. User Provided Information. We obtain certain information when you provide it to us: for example, if you setup your account profile, you may provide email address and a list of interests such as your favorite music. Some of that information can be used to identify or contact you directly and is sometimes referred to as personally identifiable information.
+  2. Information from Use of our Service. Audiko gathers non-personally identifiable information from Users of our Service. Non-personally identifiable information is information that cannot by itself be used to identify a particular person or entity, and may include: the Internet Protocol (IP) address, unique device identifiers, operating system, mobile network information, browser type, locations of the Website pages the user views right before arriving at, while navigating and immediately after leaving the Website, and non-precise location information (e.g., your city or zip code). 
+  3. User Generated Content. We offer our Users the opportunity upload audio and offer opinions. Such postings are governed by our Terms of Service . In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Whenever you voluntarily disclose personally identifiable information on publicly viewable web pages or applications, that information will be publicly available and can be collected and used by others. 
+  4. Facebook Connect - When you connect or login to Audiko with your Facebook account, we can access certain information you've added on Facebook in order to provide a social and personalized experience while using the Service. We adhere to the [Facebook Platform Policies](http://developers.facebook.com/policy/) which restrict how we may can access and use this information. If you log into our services via Facebook Connect, we collect the following information from your Facebook account, including: your name, city, your birthday, your Facebook Connect ID, and the list of your Facebook friends.
 
 
 
-Any personal information or content that you voluntarily disclose online (on the Audiko.net site) becomes publicly available and can be collected and used by others. Any text, audio, image or other content posted at the direction of users onto the Audiko.net site becomes published content and is not considered personally identifiable information for the purposes of this Privacy Policy.
+## How does audiko use information?
 
-## Links to other sites
+  1. User Provided Information. We use the personally identifiable information in the file we maintain about you, and other information we obtain from your current and past activities on the Services to: deliver the products and services that you have requested, manage your account and provide you with customer support, communicate with you about products or services that may be of interest to you, and to monitor compliance with the rules governing the Service. We don't sell your personally identifiable information to third parties. 
+  2. Non-Personally Identifiable Information from the use of our Service. Audiko analyzes non-personally-identifying information gathered from users of the Website and the Audiko App to help Audiko better understand how our Service is being used and to help tailor content and advertising on the Service. By recognizing patterns and trends in usage, Audiko is able to better design our Service to improve Users' experiences, both in terms of content and ease of use. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. 
+  3. Cookies & User Preferences. A cookie is a text file that stores information on behalf of websites and certain mobile applications. We use cookies and similar technologies on the Website and Mobile App to keep track of services you have used, to store your login name and password, to record your user preferences, to keep you logged into the Website and Mobile App, and to customize the content and advertising you see while using our Service. You may restrict our use of cookies and similar storage devices via your browser or your mobile operating system preferences. Please note that deleting or blocking cookies may negatively impact the functionality of our Service.
 
-As part of the Audiko.net service, we may provide links to other websites and products. If you choose to visit a third party website or use its products or services, please beaware that the third party’s privacy policy, not this Privacy Policy, will be in effect. Please review the privacy policies of these sites in order to understand their privacy policies and data collection practices. Audiko.net is not responsible for the privacy or security practices or the content of these websites.
 
-## Children under age 13
 
-Audiko.net understands the importance of protecting the privacy of children under 13 years of age. Therefore, Audiko.net does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information from persons under 13 years of age. Further, no part of our website or service is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Audiko.net site or services at any time or in any manner.
+## Third party advertisers - your ad choices
 
-## Changes to this Privacy Policy
+We use third-party advertising companies to serve ads when you visit the Website and use the Audiko App. These companies may use information (not including any personally-identifiable information) about your visits to this Website and other websites and the Audiko App and other mobile applications in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [http://www.AboutAds.info](http://www.aboutads.info/). 
 
-Anytime Audiko.net may make changes to this Privacy Policy at its sole discretion. If we make changes, we will post them on our site. Please revisit this page to stay informed of the current policy and any changes. Any changes will be reflected in the “effective date” below. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used
+Some of our advertisers enable you to purchase content such as ringtones. In order to facilitate the purchase of such content, our advertisers and their partners may collect additional information. Please note that this information may be used in accordance with the advertiser's privacy policy, which may be different from Audiko's privacy policy. 
+
+## Disclosures of information 
+
+Audiko does not rent, sell or share your personally identifiable information with non-affiliated third parties without your consent. We may, however, share personally identifiable information with trusted third-party contractors. These third party contractors are prohibited from using the information for purposes other than performing services for Audiko. 
+
+Audiko may disclose your information to third parties when obligated to do so by law and in order to investigate, prevent, or take action regarding suspected, or actual prohibited activities, including but not limited to fraud and situations involving potential threats to the physical safety of any person. We reserve the right to disclose aggregated, non-personally identifiable information collected to third parties for any purpose. 
+
+Finally, Audiko may transfer information, including any personally identifiable information, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. If Audiko is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your personally identifiable information, as well as any choices that are available to you.
+
+## Changing personally-identifiable information; account termination
+
+You may at any time review or change your personally identifiable information by going to your account settings. Upon your request via your account settings, we will deactivate or delete your account and contact information from our active databases in accordance with our deactivation policy and applicable law. Please note that we may be obligated to keep some of all of your information on our servers even after you've deleted your account.
+
+## Security
+
+We take security of your information seriously and use reasonable electronic, personnel, and physical measures to protect it from loss, theft, alteration, or misuse. However, please be advised that even the best security measures cannot fully eliminate all risks. We cannot guarantee that only authorized persons will view your information. We are not responsible for third party circumvention of any privacy settings or security measures.
+
+## Children
+
+We do not knowingly collect or store personally identifiable information from anyone under the age of 13 unless or except as permitted by law. Any person who provides personally identifiable information through the Website or the Audiko App represents to us that he or she is 13 years of age or older. If we are made aware that we have received personally identifiable information from someone under 13, Audiko will use reasonable efforts to remove that information from our records. 
+
+## Privacy Policy changes
+
+Audiko may, in its sole discretion, change this Privacy Policy from time to time. Any and all changes to Audiko's Privacy Policy will be reflected here and the date new versions are posted will be stated at the top of this Privacy Policy. 
+
+## Contact
+
+YIf you have any questions regarding our Privacy Policy, please contact us at:
+
+Email: [support@audiko.net](mailto:support@audiko.net)
