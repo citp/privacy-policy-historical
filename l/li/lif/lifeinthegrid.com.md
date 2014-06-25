@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the lifeinthegrid.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914145417id_/http%3A//lifeinthegrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinthegrid.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113040id_/http%3A//lifeinthegrid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Life in the Grid
 
-**What information do we collect?**
-
+**What information do we collect?**  
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information. You may, however, visit our site anonymously.
@@ -20,15 +19,12 @@ Any of the information we collect from you may be used in one of the following w
 \- To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-\- To process transactions
-
-> We may share or sell information with third parties for marketing or other purposes without your consent.
-
+\- To process transactions  
+We may share or sell information with third parties for marketing or other purposes without your consent.  
 \- To administer a contest, promotion, survey or other site feature
 
-\- To send periodic emails
-
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+\- To send periodic emails  
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
 **How do we protect your information?**
 
@@ -72,5 +68,6 @@ This policy was last modified on 03-01-2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://lifeinthegrid.com  
+http://lifeinthegrid.com
+
 cory@lifeinthegrid.com
