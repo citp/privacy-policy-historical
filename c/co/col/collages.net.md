@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collages.net privacy policy that was archived on 2013-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130708083753id_/http%3A//www.collages.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collages.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075927id_/http%3A//www.collages.net/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Collages.net - Helping Photographers Profit
 
