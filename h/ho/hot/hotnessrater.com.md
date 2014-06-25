@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotnessrater.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816073735id_/http%3A//hotnessrater.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotnessrater.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074648id_/http%3A//hotnessrater.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,12 +20,6 @@ We reserve the right to change this privacy policy. We will notify you of any si
 
 HotnessRater.com displays advertisements provided by third-party advertising networks. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services which may interest you. Links to each advertising network or their privacy policies are provided below:
 
-  * [Adstract](http://www.adstract.com/privacy)
-  * [Adversal](https://www.adversal.com/privacy.html)
-  * [Altitude Digital Partners](http://www.altitudedigitalpartners.com/privacy_policy)
-  * [Dating Ad Network](http://www.datingadnetwork.com/policy.php)
-  * [Ad Dynamo](http://www.addynamo.com/en/Terms_Conditions.cfm?content=8233&CFID=9692440&CFTOKEN=75954794&jsessionid=8430d3b824c5715847dc51521d163a1f5666)
-  * [Qadabra](http://qadabra.com/)
   * [Zap United](http://www.zapunited.com/help/privacy)
 
 
