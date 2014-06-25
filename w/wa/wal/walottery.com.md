@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116000536id_/http%3A//www.walottery.com/Privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102913id_/http%3A//walottery.com/Privacy/default.aspx) for the most accurate reproduction.*
 
 # Washington's Lottery -- Privacy
 
@@ -78,11 +78,11 @@ Players’ Club membership is open only to persons of the state's legal gambling
 ## Players’ Club E-mail Practices   
 
 
-By joining Players’ Club, users acknowledge and accept that Washington’s Lottery may send them e-mails that include information we believe they may be interested in as a club member. As part of Players’ Club membership, users may opt-in various e-mail lists (including, but not limited to, Winning Numbers/Jackpot Amounts, Lottery News, and Surveys) to receive regular e-mails with specific content as described in the Players’ Club sign-up form. To discontinue receiving such e-mail, users may opt-out by clicking the unsubscribe link at the bottom of our emails. Or [click here](https://web.archive.org/VIP/default.aspx), login and unsubscribe. Opting out of these emails will NOT cancel their Players’ Club membership.
+By joining Players’ Club, users acknowledge and accept that Washington’s Lottery may send them e-mails that include information we believe they may be interested in as a club member. As part of Players’ Club membership, users may opt-in various e-mail lists (including, but not limited to, Winning Numbers/Jackpot Amounts, Lottery News, and Surveys) to receive regular e-mails with specific content as described in the Players’ Club sign-up form. Washington’s Lottery will be tracking the open rate for these emails to assure good customer service and timely delivery. To discontinue receiving such e-mail, users may opt-out by clicking the unsubscribe link at the bottom of our emails. Or [click here](https://web.archive.org/VIP/default.aspx), login and unsubscribe. Opting out of these emails will NOT cancel their Players’ Club membership.
 
 ## Cookies [and Applets]
 
-To better serve our users we are now using "cookies" to customize your browsing experience with Washington's Lottery. Cookies are simple text files stored on your computer by your Web browser. Cookies created on your computer by using this website do not contain personally identifying information and do not compromise your privacy or security. We use the cookie feature only to store a randomly generated identifying tag on your computer. 
+The Lottery may place a "cookie", a small text file, on a visitor's hard drive. This cookie contains a randomly generated user ID in order to track unique site visits. The Lottery does not uses cookies to store any personal information. The cookie does not contain personal information and does not compromise your privacy or security. This cookie can only be read by Lottery servers and assists us with the statistical analysis necessary to assure site functionality and responsiveness, help with sign-in; provide targeted ads; to combat fraud; and analyze site operations. 
 
 Applets are tools downloaded to your computer to work with the software you have. Applets are intended to enhance your browsing experience by enabling you to view information in a unique manner or enable access to information that your computer would otherwise be unable to access without the applet. We do not use applets.
 
