@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hrmantra.com privacy policy that was archived on 2013-09-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130926221110id_/http%3A//www.hrmantra.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hrmantra.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625114854id_/http%3A//hrmantra.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -25,7 +25,7 @@
     </style>
 <link href="Styles/FontStyles.css" rel="stylesheet" type="text/css"><link rel="Stylesheet" href="Styles/diapo.css" type="text/css">
 
-    <script type="text/javascript" src="Scripts/jquery.min.js"></script>
+    <script async="" src="Scripts/Slider/analytics.js"></script><script type="text/javascript" src="Scripts/jquery.min.js"></script>
 
     <script type="text/javascript" src="Scripts/CommonJS.js"></script>
 
@@ -41,17 +41,6 @@
         }
         catch (err)
         { }
-        function LinkForgetPass(event) {
-            var lblerror = document.getElementById('ctl00_lblError');
-            var userName = document.getElementById('ctl00_txtuserName');
-
-            Website2012.HRMWebService.SendPassword(userName.value, CallbackForgetPass);
-
-            function CallbackForgetPass(methodResult) {
-                lblerror.innerHTML = methodResult;
-            }
-            return true;
-        }
 
         function LinkClear(event) {
             var lblerror = document.getElementById('ctl00_lblError');
@@ -130,29 +119,71 @@
             }
             else
                 lblerror.innerHTML = '';
-                        
+
         }
-        
+
+
     </script>
 
     <style type="text/css">
-        .modalBackground
-        {
+        .modalBackground {
             background-color: Black;
             filter: alpha(opacity=70);
             opacity: 0.7;
         }
     </style>
+
+
+    <style type="text/css">
+        .wrapper .text {
+            font-family: Arial, Helvetica, sans-serif;
+            padding-top: 50px;
+        }
+    </style>
+
+    
+
+    <link href="Styles/Slider/mbExtruder.css" rel="stylesheet"><link id="ctl00_layoutStyleSheet" rel="stylesheet">
+
+    <script src="Scripts/Slider/jquery.js"></script>
+    <script src="Scripts/Slider/jquery.hoverIntent.min.js"></script>
+    <script src="Scripts/Slider/jquery.mb.flipText.js"></script>
+    <script src="Scripts/Slider/mbExtruder.js"></script>
+
+    <script type="text/javascript">
+
+        $(function () {
+
+            $("#extruderRight").buildMbExtruder({
+                position: "right",
+                width: 350,
+                extruderOpacity: .8,
+                textOrientation: "tb",
+                onExtOpen: function () { },
+                onExtContentLoad: function () { },
+                onExtClose: function () { }
+            });
+
+            $.fn.changeLabel = function (text) {
+                $(this).find(".flapLabel").html(text);
+                $(this).find(".flapLabel").mbFlipText();
+            };
+
+        });
+
+    </script>
+
 <title>
 
 </title></head>
 <body bgcolor="#231F20" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin-left: auto" onload="MM_preloadImages('Images/index_11.jpg','Images/index_12.jpg','Images/index_13.jpg','Images/index_14.jpg','Images/index_15.jpg','Images/index_16.jpg','Images/index_17.jpg','Images/index_18.jpg','Images/index_19.jpg','Images/index_20.jpg')">
     <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
 <div>
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
 <input type="hidden" name="ctl00_ToolkitScriptManager1_HiddenField" id="ctl00_ToolkitScriptManager1_HiddenField" value="">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWDAIDDxYCHgdWaXNpYmxlaGQCBQ8WAh8AaGQCBw8WAh8AaGQCCQ8PFgIfAGhkZAILDxYCHwBoZAINDxYCHglpbm5lcmh0bWwF0xA8dGFibGUgc3R5bGU9IndpZHRoOiA5MjJweDsiIGJvcmRlcj0iMCIgY2VsbHBhZGRpbmc9IjEiIGNlbGxzcGFjaW5nPSIyIj4NCjx0cj48dGQ+PGEgaHJlZj0iRGVmYXVsdC5hc3B4IiAgb25tb3VzZW91dD0iTU1fc3dhcEltZ1Jlc3RvcmUoKSIgb25tb3VzZW92ZXI9Ik1NX3N3YXBJbWFnZSgnSW1hZ2U0MicsJycsJ0ltYWdlcy9Ib21lX1NlbGVjdGVkXzExLmpwZycsMSkiPiANCjxpbWcgc3JjPSJJbWFnZXMvSG9tZV8xMS5qcGciIG5hbWU9IkltYWdlNDIiIGJvcmRlcj0iMCI+PC9hPjwvdGQ+DQo8dGQ+PGEgaHJlZj0iUHJvZHVjdC5hc3B4IiBvbm1vdXNlb3V0PSJNTV9zd2FwSW1nUmVzdG9yZSgpIiBvbm1vdXNlb3Zlcj0iTU1fc3dhcEltYWdlKCdJbWFnZTQzJywnJywnSW1hZ2VzL1Byb2R1Y3RfU2VsZWN0ZWRfMTIuanBnJywxKSI+DQo8aW1nIHNyYz0iSW1hZ2VzL1Byb2R1Y3RfMTIuanBnIiBuYW1lPSJJbWFnZTQzIiBib3JkZXI9IjAiPjwvdGQ+DQo8dGQ+PGEgaHJlZj0iV2h5SHIuYXNweCIgb25tb3VzZW91dD0iTU1fc3dhcEltZ1Jlc3RvcmUoKSIgb25tb3VzZW92ZXI9Ik1NX3N3YXBJbWFnZSgnSW1hZ2U0NCcsJycsJ0ltYWdlcy9XaHlIcl9TZWxlY3RlZF8xMy5qcGcnLDEpIj4gDQo8aW1nIHNyYz0iSW1hZ2VzL1doeUhyXzEzLmpwZyIgbmFtZT0iSW1hZ2U0NCIgYm9yZGVyPSIwIj48L2E+PC90ZD4NCjx0ZD48YSBocmVmPSJDdXN0b21lcnMuYXNweCIgb25tb3VzZW91dD0iTU1fc3dhcEltZ1Jlc3RvcmUoKSIgb25tb3VzZW92ZXI9Ik1NX3N3YXBJbWFnZSgnSW1hZ2U0NScsJycsJ0ltYWdlcy9DdXN0b21lcnNfU2VsZWN0ZWRfMTQuanBnJywxKSI+DQo8aW1nIHNyYz0iSW1hZ2VzL0N1c3RvbWVyc18xNC5qcGciIG5hbWU9IkltYWdlNDUiIGJvcmRlcj0iMCI+PC90ZD4NCjx0ZD48YSBocmVmPSJEZW1vLmFzcHgiIG9ubW91c2VvdXQ9Ik1NX3N3YXBJbWdSZXN0b3JlKCkiIG9ubW91c2VvdmVyPSJNTV9zd2FwSW1hZ2UoJ0ltYWdlNDYnLCcnLCdJbWFnZXMvRGVtb19TZWxlY3RlZF8xNS5qcGcnLDEpIj4NCjxpbWcgc3JjPSJJbWFnZXMvRGVtb18xNS5qcGciIG5hbWU9IkltYWdlNDYiIGJvcmRlcj0iMCI+PC90ZD4NCjx0ZD48YSBocmVmPSJXaHlTYWFzLmFzcHgiIG9ubW91c2VvdXQ9Ik1NX3N3YXBJbWdSZXN0b3JlKCkiIG9ubW91c2VvdmVyPSJNTV9zd2FwSW1hZ2UoJ0ltYWdlNDcnLCcnLCdJbWFnZXMvV2h5U2Fhc19TZWxlY3RlZF8xNi5qcGcnLDEpIj4NCjxpbWcgc3JjPSJJbWFnZXMvV2h5U2Fhc18xNi5qcGciIG5hbWU9IkltYWdlNDciIGJvcmRlcj0iMCI+PC90ZD4NCjx0ZD48YSBocmVmPSJQYXJ0bmVyLmFzcHgiIG9ubW91c2VvdXQ9Ik1NX3N3YXBJbWdSZXN0b3JlKCkiIG9ubW91c2VvdmVyPSJNTV9zd2FwSW1hZ2UoJ0ltYWdlNDgnLCcnLCdJbWFnZXMvUGFydG5lcl9TZWxlY3RlZF8xNy5qcGcnLDEpIj4NCjxpbWcgc3JjPSJJbWFnZXMvUGFydG5lcl8xNy5qcGciIG5hbWU9IkltYWdlNDgiIGJvcmRlcj0iMCI+PC90ZD4NCjx0ZD48YSBocmVmPSJDYXJlZXIuYXNweCIgb25tb3VzZW91dD0iTU1fc3dhcEltZ1Jlc3RvcmUoKSIgb25tb3VzZW92ZXI9Ik1NX3N3YXBJbWFnZSgnSW1hZ2U0OScsJycsJ0ltYWdlcy9DYXJlZXJfU2VsZWN0ZWRfMTguanBnJywxKSI+DQo8aW1nIHNyYz0iSW1hZ2VzL0NhcmVlcl8xOC5qcGciIG5hbWU9IkltYWdlNDkiIGJvcmRlcj0iMCI+PC90ZD4NCjx0ZD48YSBocmVmPSJDb250YWN0VXMuYXNweCIgb25tb3VzZW91dD0iTU1fc3dhcEltZ1Jlc3RvcmUoKSIgb25tb3VzZW92ZXI9Ik1NX3N3YXBJbWFnZSgnSW1hZ2U1MCcsJycsJ0ltYWdlcy9Db250YWN0VXNfU2VsZWN0ZWRfMTkuanBnJywxKSI+DQo8aW1nIHNyYz0iSW1hZ2VzL0NvbnRhY3RVc18xOS5qcGciIG5hbWU9IkltYWdlNTAiIGJvcmRlcj0iMCIgPjwvdGQ+DQo8dGQ+PGEgaHJlZj0iQWJvdXRVcy5hc3B4IiBvbm1vdXNlb3V0PSJNTV9zd2FwSW1nUmVzdG9yZSgpIiBvbm1vdXNlb3Zlcj0iTU1fc3dhcEltYWdlKCdJbWFnZTUxJywnJywnSW1hZ2VzL0Fib3V0VXNfU2VsZWN0ZWRfMjAuanBnJywxKSI+DQo8aW1nIHNyYz0iSW1hZ2VzL0Fib3V0VXNfMjAuanBnIiBuYW1lPSJJbWFnZTUxIiBib3JkZXI9IjAiPjwvdGQ+DQo8L3RyPjwvdGFibGU+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAwUPY3RsMDAkSW1nY2FuY2VsBRJjdGwwMCRJbWdCdG5TdWJtaXQFEmN0bDAwJEltZ0J0bkNhbmNlbGh+ARCV+cEzbBCRkeDR/K9Y93Pm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWDAIDDxYCHgdWaXNpYmxlaGQCBQ8WAh8AaGQCBw8WAh8AaGQCCQ8PFgIfAGhkZAILDxYCHwBoZAINDxYCHglpbm5lcmh0bWwFkA88dGFibGUgc3R5bGU9IndpZHRoOiA5MjJweDsiIGJvcmRlcj0iMCIgY2VsbHBhZGRpbmc9IjEiIGNlbGxzcGFjaW5nPSIyIj4NCjx0cj48dGQ+PGEgaHJlZj0iRGVmYXVsdC5hc3B4IiAgb25tb3VzZW91dD0iTU1fc3dhcEltZ1Jlc3RvcmUoKSIgb25tb3VzZW92ZXI9Ik1NX3N3YXBJbWFnZSgnSW1hZ2U0MicsJycsJ0ltYWdlcy9Ib21lX1NlbGVjdGVkXzExLmpwZycsMSkiPiANCjxpbWcgc3JjPSJJbWFnZXMvSG9tZV8xMS5qcGciIG5hbWU9IkltYWdlNDIiIGJvcmRlcj0iMCI+PC9hPjwvdGQ+DQo8dGQ+PGEgaHJlZj0iUHJvZHVjdC5hc3B4IiBvbm1vdXNlb3V0PSJNTV9zd2FwSW1nUmVzdG9yZSgpIiBvbm1vdXNlb3Zlcj0iTU1fc3dhcEltYWdlKCdJbWFnZTQzJywnJywnSW1hZ2VzL1Byb2R1Y3RfU2VsZWN0ZWRfMTIuanBnJywxKSI+DQo8aW1nIHNyYz0iSW1hZ2VzL1Byb2R1Y3RfMTIuanBnIiBuYW1lPSJJbWFnZTQzIiBib3JkZXI9IjAiPjwvdGQ+DQo8dGQ+PGEgaHJlZj0iV2h5SHIuYXNweCIgb25tb3VzZW91dD0iTU1fc3dhcEltZ1Jlc3RvcmUoKSIgb25tb3VzZW92ZXI9Ik1NX3N3YXBJbWFnZSgnSW1hZ2U0NCcsJycsJ0ltYWdlcy9XaHlIcl9TZWxlY3RlZF8xMy5qcGcnLDEpIj4gDQo8aW1nIHNyYz0iSW1hZ2VzL1doeUhyXzEzLmpwZyIgbmFtZT0iSW1hZ2U0NCIgYm9yZGVyPSIwIj48L2E+PC90ZD4NCjx0ZD48YSBocmVmPSJDdXN0b21lcnMuYXNweCIgb25tb3VzZW91dD0iTU1fc3dhcEltZ1Jlc3RvcmUoKSIgb25tb3VzZW92ZXI9Ik1NX3N3YXBJbWFnZSgnSW1hZ2U0NScsJycsJ0ltYWdlcy9DdXN0b21lcnNfU2VsZWN0ZWRfMTQuanBnJywxKSI+DQo8aW1nIHNyYz0iSW1hZ2VzL0N1c3RvbWVyc18xNC5qcGciIG5hbWU9IkltYWdlNDUiIGJvcmRlcj0iMCI+PC90ZD4NCjx0ZD48YSBocmVmPSJXaHlTYWFzLmFzcHgiIG9ubW91c2VvdXQ9Ik1NX3N3YXBJbWdSZXN0b3JlKCkiIG9ubW91c2VvdmVyPSJNTV9zd2FwSW1hZ2UoJ0ltYWdlNDcnLCcnLCdJbWFnZXMvV2h5U2Fhc19TZWxlY3RlZF8xNi5qcGcnLDEpIj4NCjxpbWcgc3JjPSJJbWFnZXMvV2h5U2Fhc18xNi5qcGciIG5hbWU9IkltYWdlNDciIGJvcmRlcj0iMCI+PC90ZD4NCjx0ZD48YSBocmVmPSJQYXJ0bmVyLmFzcHgiIG9ubW91c2VvdXQ9Ik1NX3N3YXBJbWdSZXN0b3JlKCkiIG9ubW91c2VvdmVyPSJNTV9zd2FwSW1hZ2UoJ0ltYWdlNDgnLCcnLCdJbWFnZXMvUGFydG5lcl9TZWxlY3RlZF8xNy5qcGcnLDEpIj4NCjxpbWcgc3JjPSJJbWFnZXMvUGFydG5lcl8xNy5qcGciIG5hbWU9IkltYWdlNDgiIGJvcmRlcj0iMCI+PC90ZD4NCjx0ZD48YSBocmVmPSJDYXJlZXIuYXNweCIgb25tb3VzZW91dD0iTU1fc3dhcEltZ1Jlc3RvcmUoKSIgb25tb3VzZW92ZXI9Ik1NX3N3YXBJbWFnZSgnSW1hZ2U0OScsJycsJ0ltYWdlcy9DYXJlZXJfU2VsZWN0ZWRfMTguanBnJywxKSI+DQo8aW1nIHNyYz0iSW1hZ2VzL0NhcmVlcl8xOC5qcGciIG5hbWU9IkltYWdlNDkiIGJvcmRlcj0iMCI+PC90ZD4NCjx0ZD48YSBocmVmPSJDb250YWN0VXMuYXNweCIgb25tb3VzZW91dD0iTU1fc3dhcEltZ1Jlc3RvcmUoKSIgb25tb3VzZW92ZXI9Ik1NX3N3YXBJbWFnZSgnSW1hZ2U1MCcsJycsJ0ltYWdlcy9Db250YWN0VXNfU2VsZWN0ZWRfMTkuanBnJywxKSI+DQo8aW1nIHNyYz0iSW1hZ2VzL0NvbnRhY3RVc18xOS5qcGciIG5hbWU9IkltYWdlNTAiIGJvcmRlcj0iMCIgPjwvdGQ+DQo8dGQ+PGEgaHJlZj0iQWJvdXRVcy5hc3B4IiBvbm1vdXNlb3V0PSJNTV9zd2FwSW1nUmVzdG9yZSgpIiBvbm1vdXNlb3Zlcj0iTU1fc3dhcEltYWdlKCdJbWFnZTUxJywnJywnSW1hZ2VzL0Fib3V0VXNfU2VsZWN0ZWRfMjAuanBnJywxKSI+DQo8aW1nIHNyYz0iSW1hZ2VzL0Fib3V0VXNfMjAuanBnIiBuYW1lPSJJbWFnZTUxIiBib3JkZXI9IjAiPjwvdGQ+DQo8L3RyPjwvdGFibGU+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUSY3RsMDAkSW1nQnRuU3VibWl0BRJjdGwwMCRJbWdCdG5DYW5jZWx06HDHQvsYEQXH/TtroNNy9zW1vA==">
 </div>
 
 <script type="text/javascript">
@@ -172,7 +203,7 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/WebResource.axd?d=FXqF0ElTkTZMfok80DII6PIoeNRqgRvMydyiw8oYdTk0e7mll_HI1SCz2SCEtB2it-USyj9mPqvGdJVh804H1eyzrQo1&amp;t=635084231457020723" type="text/javascript"></script>
+<script src="/WebResource.axd?d=FXqF0ElTkTZMfok80DII6PIoeNRqgRvMydyiw8oYdTk0e7mll_HI1SCz2SCEtB2it-USyj9mPqvGdJVh804H1eyzrQo1&amp;t=635295292417495136" type="text/javascript"></script>
 
 
 <script src="/ScriptResource.axd?d=kldrg76-ssXfQ9l72YC7_s9SzDRmBskdsstHpaTmEhJHxcqbolyiVl0Y7lw8AG3GssnNQrhdomw20dgrrbQ4EZQEzYzukDNsgIne8WIui6Nb_2rR1gaB9wXRYd4jeQ_9Q28aZA2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
@@ -193,82 +224,101 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <script src="/ScriptResource.axd?d=7Fi3QwMvVU30EbdftaGB_tGForyWUtxayYdV28J8SVo-6fcbLo9nuRJDTDQWUql0cuOZvNCweuhVr5vr2oDE4H0cBiH9c3Cuto9nBGYF5YULRxhFjqy79H9j9fSWgpTUCzCtkr7FSUGOQYr6KcmmQzUyR_c1&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=QPuYIDRMLV0q4MkjkdI679zPyChhd0N0QCNN8WeZgwX7YtU3TPBurUubJtRKYloNJhbdUPk9rR1vDjgAew6j_M6DuwcrdWYo0i3R1ALlfBn2kmpsBOxkq2D3fw4Yee3CFpTlmRKSS8DuAB9GA2GNL2MBrYM1&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
 <script src="WebServices/HRMWebService.asmx/jsdebug" type="text/javascript"></script>
+<script src="/WebResource.axd?d=AKQnSPmjXq0gA5X1jbpq4ExntT7LsZ0MehvtOENvqFppF5zqUujZVKUx6FqCxh-1UxPGuEeB20p7YrIKgzLznEKfbVo1&amp;t=635295292417495136" type="text/javascript"></script>
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDwLl5ZnZAgKU3+PNCwLVgcjWBAL02/OtAgKB7cu1BQKu49GlCAKysMm1DAKO8aPRDwLevKzxCAK//bfaDgL3w9CqCALoxqLACgLN0p6kBAKQxtPhCQLU2572DTXPifTb0tRmCxyLdLZ9QZsgzsNc">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDQKzhcb5DwL02/OtAgKB7cu1BQKu49GlCAKysMm1DAKO8aPRDwLevKzxCAK//bfaDgL3w9CqCALoxqLACgLN0p6kBAKQxtPhCQLU2572DZk6F1CSpUj5//pCVvs/IH1+XOq2">
 </div>
-    <div id="maincontainer" align="center">
-        <table align="center" style="width: 950px;" border="0" cellpadding="1" cellspacing="2">
-            <tbody><tr>
-                <td align="center">
-                    <table style="width: 950px;" border="0" cellpadding="1" cellspacing="2">
-                        <tbody><tr>
-                            <td align="center">
-                                <table style="width: 950px;" border="0" cellpadding="1" cellspacing="2">
-                                    <tbody><tr>
-                                        <td align="right" style="width: 250px;">
-                                            <img src="Images/index_01.png" alt="">
-                                        </td>
-                                        <td align="left" style="width: 715px;">
-                                            <table style="width: 700px;" border="0" cellpadding="1" cellspacing="2">
-                                                <tbody><tr>
-                                                    <td colspan="2" align="right" style="font-family: Calibri; font-size: x-large; color: #FF9900;
-                                                        height: 20px;">
-                                                        <table border="0" cellpadding="1" cellspacing="2">
-                                                            <tbody><tr>
-                                                                <td>
-                                                                    <a class="white1" target="_blank" href="Library/brochure.pdf">Brochure &nbsp;|&nbsp;</a>
-                                                                </td>
-                                                                <td>
-                                                                    <a class="white1" href="FAQs.aspx">FAQs &nbsp;|&nbsp;</a>
-                                                                </td>
-                                                                <td>
-                                                                    <a id="ctl00_lnklogin" class="white1" href="">Login </a>
-                                                                </td>
-                                                                <td>
-                                                                    
-                                                                </td>
-                                                                <td>
-                                                                    
-                                                                </td>
-                                                                <td>
-                                                                    
-                                                                </td>
-                                                                <td>
-                                                                    
-                                                                </td>
-                                                                <td>
-                                                                    
-                                                                </td>
-                                                            </tr>
-                                                        </tbody></table>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" style="height: 41px; width: 549px; font-family: verdana; font-size: 14pt;
-                                                        vertical-align: bottom; color: #FF9900">
-                                                        World's Most Powerful HR &amp; Payroll Software
-                                                    </td>
-                                                    <td align="right" valign="bottom">
-                                                    <font color="#888888">
-                                                        <a target="_blank" href="http://www.facebook.com/pages/HRMantra-Software-Pvt-Ltd/232498260130961?sk=app_129982580378550" style="color: #1155cc">
-                                                        <img src="http://dl.dropbox.com/u/3722777/icon/facebook_16.png"></a>&nbsp;&nbsp;
+        <div id="maincontainer" align="center">
+            <table align="center" style="width: 950px;" border="0" cellpadding="1" cellspacing="2">
+                <tbody><tr>
+                    <td align="center">
+                        <table style="width: 950px;" border="0" cellpadding="1" cellspacing="2">
+                            <tbody><tr>
+                                <td align="center">
+                                    <table style="width: 950px;" border="0" cellpadding="1" cellspacing="2">
+                                        <tbody><tr>
+                                            <td align="right" style="width: 250px;">
+                                                <img src="Images/index_01.png" alt="">
+                                            </td>
+                                            <td align="left" style="width: 715px;">
+                                                <table style="width: 700px;" border="0" cellpadding="1" cellspacing="2">
+                                                    <tbody><tr>
+                                                        <td colspan="2" align="right" style="font-family: Calibri; font-size: x-large; color: #FF9900; height: 20px;">
+                                                            <table border="0" cellpadding="1" cellspacing="2">
+                                                                <tbody><tr>
+
+                                                                    <td id="ctl00_tdLogin">
+                                                                        
+                                                                        <table border="0" cellpadding="1" cellspacing="2">
+                                                                            <tbody><tr>
+                                                                                <td align="right" class="white1" style="font-size: 8pt;">User
+                                                                                </td>
+                                                                                <td align="left">
+                                                                                    <input name="ctl00$txtuserName" type="text" id="ctl00_txtuserName" class="InputControl" style="border: none; width: 100px; height: 15px;">
+                                                                                </td>
+
+                                                                                <td align="right" class="white1" style="font-size: 8pt;">Password
+                                                                                </td>
+                                                                                <td align="left">
+                                                                                    <input name="ctl00$txtPassword" type="password" id="ctl00_txtPassword" class="InputControl" style="border: none; width: 100px; height: 15px;">
+                                                                                </td>
+                                                                                <td align="left">
+                                                                                    <input type="image" name="ctl00$ImgBtnSubmit" id="ctl00_ImgBtnSubmit" src="Images/Go.png" onclick="return CheckUserDetail();" style="border-width:0px;vertical-align: middle; margin-right: 1px; height: 20px; width: 25px;">
+                                                                                </td>
+                                                                                <td align="left" class="white1">&nbsp;&nbsp;<a onclick="return CheckUserDetail();" id="ctl00_LnkForgetPass" href="javascript:__doPostBack('ctl00$LnkForgetPass','')" style="font-size: 8pt; color: yellow">Forgot password?</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left" colspan="6">
+                                                                                    <span id="ctl00_lblError" style="font-size: 9pt; color: red"></span>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody></table>
+                                                                    </td>
+
+                                                                    <td>
+                                                                        
+                                                                    </td>
+                                                                    <td>
+                                                                        
+                                                                    </td>
+                                                                    <td>
+                                                                        
+                                                                    </td>
+                                                                    <td>
+                                                                        
+                                                                    </td>
+                                                                    <td>
+                                                                        
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody></table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" style="height: 41px; width: 549px; font-family: verdana; font-size: 14pt; vertical-align: bottom; color: #FF9900">World's Most Powerful HR &amp; Payroll Software
+                                                        </td>
+                                                        <td align="right" valign="bottom">
+                                                            <font color="#888888">
+                                                                <a target="_blank" href="http://www.facebook.com/pages/HRMantra-Software-Pvt-Ltd/232498260130961?sk=app_129982580378550" style="color: #1155cc">
+                                                                    <img src="http://dl.dropbox.com/u/3722777/icon/facebook_16.png"></a>&nbsp;&nbsp;
                                                         <a class="playable" target="_blank" href="http://www.youtube.com/watch?v=5lKPI5VNYdk" style="color: #1155cc">
-                                                        <img src="http://dl.dropbox.com/u/3722777/icon/youtube_16.png"></a>&nbsp;&nbsp;
+                                                            <img src="http://dl.dropbox.com/u/3722777/icon/youtube_16.png"></a>&nbsp;&nbsp;
                                                         <a target="_blank" href="http://in.linkedin.com/in/hrmantra" style="color: #1155cc">
-                                                        <img src="http://dl.dropbox.com/u/3722777/icon/linkedin_16.png"></a>&nbsp;&nbsp;
-                                                        <a target="_blank" href="https://twitter.com/#%21/HRMantracom" style="color: #1155cc; margin-right:15px;">
-                                                        <img src="http://dl.dropbox.com/u/3722777/icon/twitter_16.png"></a></font>
-                                                    </td>
-                                                </tr>
-                                            </tbody></table>
-                                        </td>
-                                    </tr>
-                                </tbody></table>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td id="ctl00_TDHeader" align="center"><table style="width: 922px;" border="0" cellpadding="1" cellspacing="2">
+                                                            <img src="http://dl.dropbox.com/u/3722777/icon/linkedin_16.png"></a>&nbsp;&nbsp;
+                                                        <a target="_blank" href="https://twitter.com/#%21/HRMantracom" style="color: #1155cc; margin-right: 15px;">
+                                                            <img src="http://dl.dropbox.com/u/3722777/icon/twitter_16.png"></a></font>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td id="ctl00_TDHeader" align="center"><table style="width: 922px;" border="0" cellpadding="1" cellspacing="2">
 <tbody><tr><td><a href="Default.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image42','','Images/Home_Selected_11.jpg',1)"> 
 <img src="Images/Home_11.jpg" name="Image42" border="0"></a></td>
 <td><a href="Product.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image43','','Images/Product_Selected_12.jpg',1)">
@@ -277,8 +327,6 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <img src="Images/WhyHr_13.jpg" name="Image44" border="0"></a></td>
 <td><a href="Customers.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image45','','Images/Customers_Selected_14.jpg',1)">
 <img src="Images/Customers_14.jpg" name="Image45" border="0"></a></td>
-<td><a href="Demo.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image46','','Images/Demo_Selected_15.jpg',1)">
-<img src="Images/Demo_15.jpg" name="Image46" border="0"></a></td>
 <td><a href="WhySaas.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image47','','Images/WhySaas_Selected_16.jpg',1)">
 <img src="Images/WhySaas_16.jpg" name="Image47" border="0"></a></td>
 <td><a href="Partner.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image48','','Images/Partner_Selected_17.jpg',1)">
@@ -291,182 +339,103 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <img src="Images/AboutUs_20.jpg" name="Image51" border="0"></a></td>
 </tr></tbody></table></td>
 
-                        </tr>
-                    </tbody></table>
-                </td>
-            </tr>
-            <tr>
-                <td align="center">
-                    <script type="text/javascript">
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <script type="text/javascript">
 //<![CDATA[
 Sys.WebForms.PageRequestManager._initialize('ctl00$ToolkitScriptManager1', document.getElementById('aspnetForm'));
-Sys.WebForms.PageRequestManager.getInstance()._updateControls(['fctl00$Updatepanel1','fctl00$Updatepanel2'], [], ['ctl00$ImgBtnSubmit'], 90);
+Sys.WebForms.PageRequestManager.getInstance()._updateControls(['fctl00$Updatepanel2'], [], [], 90);
 //]]>
 </script>
 
-                    
-                    <div id="ctl00_Updatepanel1">
-	
-                            <div id="ctl00_panel1" class="modalPopup" style="background-image:url(Images/LoginImage.png);background-color: Transparent; border: none; display: none;
-                                height: 190px; width: 330px;">
-		
-                                <table width="100%">
-                                    <tbody><tr>
-                                        <td style="height: 5px">
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td align="center" colspan="2">
-                                            <div id="ctl00_Panel2" style="cursor: move; border: none; color: Black;
-                                                height: 15px; width: 315px">
-			
-                                                <table>
-                                                    <tbody><tr>
-                                                        <td align="right" style="width: 170px">
-                                                            <div style="margin-left: 100px">
-                                                                <font color="#993300" size="3px" style="font-weight: bold">Login</font>
-                                                            </div>
-                                                        </td>
-                                                        <td align="right" style="width: 115px" valign="top">
-                                                            <div style="margin-left: 80px">
-                                                                <input type="image" name="ctl00$Imgcancel" id="ctl00_Imgcancel" src="Images/Cancel.png" onclick="LinkClear(event);" style="border-width:0px;cursor: pointer;">
-                                                            </div>
-                                                        </td>
-                                                    </tr>
-                                                </tbody></table>
-                                            
-		</div>
-                                        <br>
-                                        </td>
-                                        
-                                    </tr>
-                                    
-                                    <tr>
-                                        <td align="right">
-                                            <span id="ctl00_lbluser" style="color:Black;font-size:8pt;font-weight:bold;">User Name:</span>
-                                        </td>
-                                        <td align="left">
-                                            <input name="ctl00$txtuserName" type="text" id="ctl00_txtuserName" style="width:150px;">
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td align="right">
-                                            <span id="ctl00_Label1" style="color:Black;font-size:8pt;font-weight:bold;">Password:</span>
-                                        </td>
-                                        <td align="left">
-                                            <input name="ctl00$txtPassword" type="password" id="ctl00_txtPassword" style="width:150px;">
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td style="height: 1px">
-                                            &nbsp;
-                                        </td>
-                                        <td align="left">
-                                            <input type="image" name="ctl00$ImgBtnSubmit" id="ctl00_ImgBtnSubmit" src="Images/Go.png" onclick="return CheckUserDetail();" style="border-width:0px;vertical-align: middle; margin-right:5px;">
-                                            <a onclick="LinkForgetPass();" id="ctl00_LnkForgetPass" href="javascript:__doPostBack('ctl00$LnkForgetPass','')">Forgot password?</a>
-                                            <br>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td align="center" colspan="2">
-                                            <span id="ctl00_lblError" style="color:Red;"></span>
-                                        </td>
-                                    </tr>
-                                </tbody></table>
-                                <br>
-                                <br>
-                                <br>
-                            
-	</div>
+
+
                         
-</div>
-                    
-                    
-                    <div id="ctl00_Updatepanel2">
+                        <div id="ctl00_Updatepanel2">
 	
-                            <div id="ctl00_panel3" class="modalPopup" style="background-image:url(Images/ChangePass.png);background-color: Transparent; border: none; display: none;
-                                height: 215px; width: 330px;">
+                                <div id="ctl00_panel3" class="modalPopup" style="background-image:url(Images/ChangePass.png);background-color: Transparent; border: none; display: none; height: 215px; width: 330px;">
 		
-                                <table width="100%">
-                                    <tbody><tr>
-                                        <td style="height: 5px">
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td align="center" colspan="2">
-                                            <div id="ctl00_Panel4" style="cursor: move; border: none; color: Black;
-                                                height: 15px; width: 315px">
+                                    <table width="100%">
+                                        <tbody><tr>
+                                            <td style="height: 5px"></td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" colspan="2">
+                                                <div id="ctl00_Panel4" style="cursor: move; border: none; color: Black; height: 15px; width: 315px">
 			
-                                                <table>
-                                                    <tbody><tr>
-                                                        <td align="right" style="width: 220px">
-                                                            <div style="margin-left: 10px">
-                                                                <font color="#993300" size="3px" style="font-weight: bold">Change Password</font>
-                                                            </div>
-                                                        </td>
-                                                        <td align="right" style="width: 50px" valign="top">
-                                                            <div style="margin-left: 40px">
-                                                                <input type="image" name="ctl00$ImgBtnCancel" id="ctl00_ImgBtnCancel" src="Images/Cancel.png" onclick="ClearReset(event);" style="border-width:0px;cursor: pointer;">
-                                                            </div>
-                                                        </td>
-                                                    </tr>
-                                                </tbody></table>
-                                            
+                                                    <table>
+                                                        <tbody><tr>
+                                                            <td align="right" style="width: 220px">
+                                                                <div style="margin-left: 10px">
+                                                                    <font color="#993300" size="3px" style="font-weight: bold">Change Password</font>
+                                                                </div>
+                                                            </td>
+                                                            <td align="right" style="width: 50px" valign="top">
+                                                                <div style="margin-left: 40px">
+                                                                    <input type="image" name="ctl00$ImgBtnCancel" id="ctl00_ImgBtnCancel" src="Images/Cancel.png" onclick="ClearReset(event);" style="border-width:0px;cursor: pointer;">
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                
 		</div>
-                                        <br>
-                                        </td>
-                                    </tr>
-                                    
-                                    <tr>
-                                        <td style="width:140px" align="right">
-                                            <span id="ctl00_lblUsername" style="color:Black;font-size:8pt;font-weight:bold;">User Name:</span>
-                                        </td>
-                                        <td align="left">
-                                            <input name="ctl00$txtUser" type="text" readonly="readonly" id="ctl00_txtUser" style="width:150px;">
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td style="width:140px" align="right">
-                                            <span id="ctl00_lblNewPass" style="color:Black;font-size:8pt;font-weight:bold;">New Password:</span>
-                                        </td>
-                                        <td align="left">
-                                            <input name="ctl00$txtNewPass" type="password" id="ctl00_txtNewPass" style="width:150px;">
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td style="width:140px" align="right">
-                                            <span id="ctl00_lblConfirmPass" style="color:Black;font-size:8pt;font-weight:bold;">Confirm Password:</span>
-                                        </td>
-                                        <td align="left">
-                                            <input name="ctl00$txtConfirmPass" type="password" id="ctl00_txtConfirmPass" style="width:150px;">
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                    <td>
-                                    </td>
-                                        <td align="left">
-                                            <input type="submit" name="ctl00$btnResetPass" value="Save" onclick="Reset();" id="ctl00_btnResetPass" style="width:50px;vertical-align: middle;">
-                                            <br>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td align="center" colspan="2">
-                                            <span id="ctl00_lblResetPassError" style="color:Red;"></span>
-                                        </td>
-                                    </tr>
-                                </tbody></table>
-                                <br>
-                                <br>
-                                <br>
-                            
+                                                <br>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td style="width: 140px" align="right">
+                                                <span id="ctl00_lblUsername" style="color:Black;font-size:8pt;font-weight:bold;">User Name:</span>
+                                            </td>
+                                            <td align="left">
+                                                <input name="ctl00$txtUser" type="text" readonly="readonly" id="ctl00_txtUser" style="width:150px;">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="width: 140px" align="right">
+                                                <span id="ctl00_lblNewPass" style="color:Black;font-size:8pt;font-weight:bold;">New Password:</span>
+                                            </td>
+                                            <td align="left">
+                                                <input name="ctl00$txtNewPass" type="password" id="ctl00_txtNewPass" style="width:150px;">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="width: 140px" align="right">
+                                                <span id="ctl00_lblConfirmPass" style="color:Black;font-size:8pt;font-weight:bold;">Confirm Password:</span>
+                                            </td>
+                                            <td align="left">
+                                                <input name="ctl00$txtConfirmPass" type="password" id="ctl00_txtConfirmPass" style="width:150px;">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td></td>
+                                            <td align="left">
+                                                <input type="submit" name="ctl00$btnResetPass" value="Save" onclick="Reset();" id="ctl00_btnResetPass" style="width:50px;vertical-align: middle;">
+                                                <br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" colspan="2">
+                                                <span id="ctl00_lblResetPassError" style="color:Red;"></span>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <br>
+                                    <br>
+                                    <br>
+                                
 	</div>
-                        
+                            
 </div>
-                    <input type="hidden" name="ctl00$HddMaxPwdLength" id="ctl00_HddMaxPwdLength">
-                    <input type="hidden" name="ctl00$HddMinPwdLength" id="ctl00_HddMinPwdLength">
-                    <input type="hidden" name="ctl00$HdUserID" id="ctl00_HdUserID">
-                    
-                    
+                        <input type="hidden" name="ctl00$HddMaxPwdLength" id="ctl00_HddMaxPwdLength">
+                        <input type="hidden" name="ctl00$HddMinPwdLength" id="ctl00_HddMinPwdLength">
+                        <input type="hidden" name="ctl00$HdUserID" id="ctl00_HdUserID">
+
+                        
     <table id="TabPrivacyPolicy" width="950px" border="0" cellpadding="0" cellspacing="0">
         <tbody><tr>
             <td background="Images/white-space_01.jpg" width="950px" style="height: 36px">
@@ -651,48 +620,79 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls(['fctl00$Updatepan
         </tr>
     </tbody></table>
 
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <table class="Footer" style="width: 100%;" border="0" cellpadding="1" cellspacing="2">
-                        <tbody><tr>
-                            <td align="center">
-                                Best viewed in resolution 1024 x 768
-                            </td>
-                            <td align="center">
-                                <a href="PrivacyPolicy.aspx" id="ctl00_a1" class="Footer">Privacy Policy</a>
-                            </td>
-                            <td align="center">
-                                Copyright © HRMantra Software Pvt Ltd. All trademarks acknowledged
-                            </td>
-                        </tr>
-                    </tbody></table>
-                </td>
-            </tr>
-        </tbody></table>
-    </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table class="Footer" style="width: 100%;" border="0" cellpadding="1" cellspacing="2">
+                            <tbody><tr>
+                                <td align="left">Best viewed in resolution 1024 x 768
+                                </td>
+                                <td align="center">
+                                    <table class="Footer" border="0" cellpadding="1" cellspacing="2">
+                                        <tbody><tr>
+                                            <td>
+                                                <a class="Footer" target="_blank" href="sitemap.htm">Sitemap</a>&nbsp;|&nbsp;
+                                            </td>
+                                            <td>
+                                                <a class="Footer" target="_blank" href="Library/brochure.pdf">Brochure</a>&nbsp;|&nbsp;
+                                            </td>
+                                            <td align="center">
+                                                <a class="Footer" href="PrivacyPolicy.aspx">Privacy Policy</a>&nbsp;|&nbsp;
+                                            </td>
+                                            <td>
+                                                <a class="Footer" href="FAQs.aspx">FAQs</a>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+
+                                <td align="right">Copyright © HRMantra Software Pvt. Ltd.
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+        
+        <div id="extruderRight" class="a {title:'Book a Demo', url:'parts/extruderLeft.html'} extruder right" exttitle="Book a Demo" exturl="parts/extruderLeft.html" style="z-index: 100; position: fixed; top: 0px; right: 0px; width: 1px; opacity: 0.8;"><div class="ext_wrapper" style="position: absolute; width: 1px;"><div class="extruder-content" style="overflow: hidden; width: 1px; height: 550px;"><div class="container" style="width: 350px;">
+            <iframe id="ifDemo" src="Demo_New.aspx" height="607" width="360" allowtransparency="True" frameborder="0"></iframe>
+        </div></div><div class="footer"></div><div class="flap" style="top: 163px;"><span class="flapLabel" style="white-space: nowrap; position: relative; width: 26px;"><object class="flip_label" style="height:100px; width:26px;" type="image/svg+xml" data="data:image/svg+xml; charset=utf-8 ,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;26px&quot; height=&quot;100px&quot; fill=&quot;rgb(255, 255, 255)&quot; stroke=&quot;none&quot;&gt;&lt;/rect&gt;&lt;text  x=&quot;-0&quot; y=&quot;0&quot; font-family=&quot;Times New Roman&quot;  fill=&quot;rgb(0, 0, 0)&quot; font-size=&quot;18&quot;  style=&quot;text-anchor: start; dominant-baseline: hanging&quot; transform=&quot;rotate(90, 13, 13)&quot; text-rendering=&quot;optimizeSpeed&quot;&gt;Book a Demo&lt;/text&gt;&lt;/svg&gt;"></object></span><div style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: transparent;"></div></div></div></div>
+
     
 
 <script type="text/javascript">
 //<![CDATA[
-Sys.Application.initialize();
-Sys.Application.add_init(function() {
-    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_Imgcancel","PopupControlID":"ctl00_panel1","PopupDragHandleControlID":"ctl00_Panel2","X":630,"Y":30,"cacheDynamicResults":true,"dynamicServicePath":"/PrivacyPolicy.aspx","id":"ctl00_ModalPopupExtender1"}, null, null, $get("ctl00_lnklogin"));
-});
+WebForm_AutoFocus('ctl00_txtuserName');Sys.Application.initialize();
 //]]>
 </script>
 </form>
 
-    <script type="text/javascript">
+<script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        try {
-            var pageTracker = _gat._getTracker("UA-11562006-1");
-            pageTracker._trackPageview();
-        } catch (err) { }
-    </script>
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-11562006-1");
+        pageTracker._trackPageview();
+    } catch (err) { }
+</script>
+
+<script type="text/javascript">
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'Scripts/Slider/analytics.js', 'ga');
+
+    ga('create', 'UA-10907260-1', 'pupunzi.com');
+    ga('send', 'pageview');
+
+</script>
+
 
 </body></html>
