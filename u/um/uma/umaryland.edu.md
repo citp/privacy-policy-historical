@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the umaryland.edu privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525080327id_/http%3A//www.umaryland.edu/cits/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umaryland.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105445id_/http%3A//www.umaryland.edu/cits/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 Privacy Statement - Collection of Personal Information
 
-This information pertains to the collection of personal information on official University of Maryland Baltimore (UMB) web sites.  UMB web sites use the domain name “umaryland.edu” and are controlled, operated, and maintained by UMB personnel in connection with UMB operations.  All uses of UMB computing resources, regardless of URL or domain, are subject to the “UMB _ _ IT Acceptable Use Policy” available at: <http://www.umaryland.edu/computerusepolicy>.
+This information pertains to the collection of personal information on official University of Maryland, Baltimore (UMB) web sites.  UMB web sites use the domain name “umaryland.edu” and are controlled, operated, and maintained by UMB personnel in connection with UMB operations.  All uses of UM computing resources, regardless of URL or domain, are subject to the “UMB _ _ IT Acceptable Use Policy” available at: <http://www.umaryland.edu/computerusepolicy>.
 
  **Generally, UMB does not automatically collect the identity of an individual user or visitor to an official UMB web site.** If you are asked to provide personal information on an official UMB web site, you should be notified of the following:
 
