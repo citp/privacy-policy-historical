@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lightninginabottle.org privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124041707id_/http%3A//lightninginabottle.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightninginabottle.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102717id_/http%3A//lightninginabottle.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lightning in a Bottle
-
-## Privacy Policy
 
 This privacy policy sets out how The Do LaB uses and protects any information that you give The Do LaB when you use this website.  
 The Do LaB is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
