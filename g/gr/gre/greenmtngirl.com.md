@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the greenmtngirl.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107031108id_/http%3A//greenmtngirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenmtngirl.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110342id_/http%3A//greenmtngirl.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Green Mtn Girl's BlogGreen Mtn Girl's Blog
+# Privacy Policy | Green Mtn Girl's Blog
+
+Privacy Policy
 
 This Privacy Policy governs the manner in which greenmtngirl.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://greenmtngirl.com](http://greenmtngirl.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by greenmtngirl.com.
 
