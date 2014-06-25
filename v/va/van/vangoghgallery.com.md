@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vangoghgallery.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211220538id_/http%3A//www.vangoghgallery.com/misc/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vangoghgallery.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625214926id_/http%3A//www.vangoghgallery.com/misc/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Vincent van Gogh Gallery
 
@@ -18,4 +18,4 @@ If you give us information about yourself in an e-mail, or through our contact f
 
 If you receive email newsletters, we will not give, sell or transfer your email address to a third party. If you do not wish to receive promotional emails from the Van Gogh Gallery or the Van Gogh Gallery Art Store, simply use the unsubscribe link at the bottom of the email, or please send an email requesting to unsubscribe from all future mailings to newsletters@vangoghgallery.com . 
 
-"There is but one Paris and however hard living may be here, and if it became worse and harder even-the French air clears up the brain and does good-a world of good." 
+"I am not an adventurer by choice but by fate." 
