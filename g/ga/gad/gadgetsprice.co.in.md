@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetsprice.co.in privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210105742id_/http%3A//gadgetsprice.co.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsprice.co.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095454id_/http%3A//gadgetsprice.co.in/privacy) for the most accurate reproduction.*
 
 # ALL ABOUT GADGETS AND GIZMOS
 
