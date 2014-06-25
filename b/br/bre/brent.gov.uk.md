@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108205119id_/http%3A//www.brent.gov.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092612id_/http%3A//www.brent.gov.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & cookie policy
 
@@ -16,7 +16,7 @@ This information is only used for the intended purpose and, if we wish to use it
 
 If you choose to complete any of our on-line forms, Brent Council will not use the personal information you provide us with for marketing purposes without first gaining your consent. 
 
-We may pass your details on to third party service providers who are contracted to Brent Council in the course of dealing with your request. These third parties are obliged to keep your details securely, will use them only to fulfill the request and will dispose of the information at the appropriate time.
+We may pass your details on to third party service providers who are contracted to Brent Council in the course of dealing with your request. These third parties are obliged to keep your details securely, will use them only to fulfil the request and will dispose of the information at the appropriate time.
 
 Where services are delivered on the internet we also use [cookies](https://web.archive.org/cookies/ "Cookies").
 
