@@ -1,55 +1,72 @@
-> *The following text is extracted and transformed from the gatewayticketing.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511094002id_/http%3A//www.gatewayticketing.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatewayticketing.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165641id_/http%3A//www.gatewayticketing.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Access Control, Admission Control, Internet Ticketing Software - Gateway Ticketing Systems, Inc.
+# Gateway Ticketing Systems | Privacy Policy
 
-Privacy Policy 
+### Scope: 
 
-**Your Privacy**
+Gateway has developed the following privacy policy to protect individually identifiable information. This policy covers Gateway and applies to all individually identifiable information that Gateway obtains when a client uses a Gateway service. Gateway protects individually identifiable information as follows: 
 
-As an online consumer, you are entitled to your personal privacy. With that in mind, Gateway Ticketing Systems, Inc. has adopted a statement that explains and confirms our commitment to provide you with a variety of online information and services while maintaining your personal privacy.
+### Disclosure:
 
-**Privacy Statement**
+Gateway will not sell, trade, or disclose to third parties any individually (either client or Gateway employee) identifiable information, derived from the use of any Gateway service, (except as required by subpoena, search warrant or other legal process or in the case of imminent physical harm to the customer or others). When Gateway uses other agents, contractors or companies to perform services on its behalf, Gateway will ensure that the company protects the individually identifiable information consistent with this policy.  
 
-The following statement discloses the consumer privacy practices of Gateway Ticketing Systems, Inc. ("Gateway") for the Gateway Web site (this "Site").  This Site contains several related web sites, such as  www.gatewayticketing.com, support.gatewayticketing.com, and store.gatewayticketing.com. 
+### Security:
 
-**Consent**
+Gateway has implemented technology and security features and strict policy guidelines to safeguard the privacy of identifiable information from unauthorized access or improper use, and we will continue to enhance our security procedures as new technology becomes available.
 
-By using this Site, you are deemed to consent to our privacy practices. If you do not consent to these privacy practices, do not use this Site.  We do revise and update our privacy practices from time to time and we reserve the right to do so without any notice to you so you should visit this page, at least once every thirty days, to review our then-current privacy practices because they are binding on you.  All updates will be published at this site. Your continued use of this Site shall be considered your consent to any revised privacy practices.
+### E-Mail Contents:
 
-**Use of Personally Identifiable Information **
+The company will not read or disclose to third parties private e-mail communications that are transmitted using Gateway services except as required to operate the service or as otherwise authorized by law.
 
-In general, you can visit this Site without telling us who you are or revealing any personal information about yourself.  
+### Improper Conduct:
 
-> **IP Addresses  
->  **An internet protocol ("IP") address is a numeric identifier, for example, "204.186.80.170".  This identifier is used to communicate between your PC and the World Wide Web. The IP address does not identify you individually.  Gateway logs inbound IP addresses to administer our web site and to compile aggregate information on site traffic for internal use.
-> 
-> **Online Transactions  
->  **This Site uses an order form to process online purchases. We collect contact information (name, billing address, shipping address, etc.) as well as billing information (credit card number, expiration date, etc.) which is required for purchase.  We will not release financial information to any third party outside the company unless it is required to complete the transaction, such as data to complete a credit card authorization.
-> 
-> **Use of Cookies  
->  **Cookies are small text files written to your computer when you visit certain web sites, which allow us to customize your visit.  Cookies enable us to provide you with a better experience by allowing us to remember your preferences and contact information for your future visits.  Cookies from Gateway can only be read by Gateway Web sites. 
-> 
-> If you do not want Gateway to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a Web site tries to put a cookie in your browser software. If you choose to disable cookies in your browser, you can still access most of this Site, however, your ability to use some of the products and/or services at this Site may be affected.
-> 
-> Advertisers on this Site may also use cookies. Since we do not control those Web sites, we encourage you to review their policies. If you have any questions about the data collection practice of advertisers, please contact those companies directly.
+Gateway may use individually identifiable information to investigate and help prevent potentially unlawful activity or activity that threatens the network or otherwise violates the client agreement for that service.
 
-**Security for Online Transactions**
+### Account Information:
 
-Gateway maintains a secure location on our web server for online transactions. If you are choosing to purchase services or products online, your web browser will be directed to a secure location on gatewayticketing.com, which is reflected on your browser with a gold key (Netscape), or a gold lock (Internet Explorer) to confirm that the site uses appropriate data encryption.  You can leave the secure site at any time without any loss of sensitive data.  Gateway uses encryption software from VeriSign, the industry leader in secure site software technologies.
+Gateway honors requests from clients for changes in account information, such as name and password and will correct any such information that is inaccurate.
 
-Gateway maintains strict policies to protect your credit card information.
+### Safe Harbor Affirmation:
 
-**Security and Responsibility For Links and Linked Information**
+Gateway complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Gateway has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Gateway’s certification, please visit  http://www.export.gov/safeharbor/. The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (FAQ) to enable U.S. companies to satisfy European Union (EU) law requirements for adequate protection of personal information transferred from the EEA to the United States. Gateway Ticketing Systems, Inc. adheres to the Safe Harbor Principles outlined below.
 
-This Site contains links to other sites for general information, for advertising purposes, or to offer our site visitors interesting information.  Many of these sites and their advertisers may collect information about customers. Gateway takes no responsibility for the privacy rules and conditions maintained on any linked site, and we encourage you to examine the privacy policies contained on these sites.
+### Privacy Principles:
 
-Gateway maintains no responsibility for the content of material on linked sites. Please inform us at [webmaster@gatewayticketing.com](mailto:webmaster@gatewayticketing.com) about any concerns you have regarding the content of any of our linked sites.
+The privacy principles in this policy are based on the Safe Harbor Principles.
 
-**Further Questions**
+### Notice and Choice:
 
-If you have any questions or comments about this privacy statement, the administration of this web site, or your online relationship with Gateway, you may contact us via e-mail at [webmaster@gatewayticketing.com](mailto:webmaster@gatewayticketing.com).  The following postal address is available as well:
+Gateway does not collect personal information directly from individuals in the EU. Personal information may exist in e-discovery information that is provided to Gateway from an EEA organization for processing. To the extent permitted in the Safe Harbor Agreement, we reserve the right to process personal information in the course of providing E-discovery ASP hosting services to our clients without the knowledge of individuals involved.
 
-Gateway Ticketing Systems, Inc..  
-Information Services Dept.  
-315 E. 2nd Street  
-Boyertown, PA 19512
+### Onward Transfers and Disclosures to Agents: 
+
+Gateway requires any third parties to which we knowingly disclose information to, to enter into a written agreement that holds the third party to use the same degree of care and protection of the personal information.
+
+Gateway will not knowingly disclose an individual's personal information to third parties, except when one or more of the following conditions is true:
+
+  * We have the individual's permission to make the disclosure
+  * The disclosure is required by law or professional standards
+  * The information in question is publicly available
+  * The disclosure is reasonably necessary for the establishment or defense of legal claims
+
+
+
+### Data Security: 
+
+Gateway takes data security seriously and has put in place appropriate physical, electronic, and procedures to safeguard and secure the information we process
+
+### Data Integrity:
+
+Gateway will use personal information only in ways that are compatible with the purposes for which it was collected, which is in the confines of e-discovery usage.
+
+### Access: 
+
+Upon request, Gateway will grant individuals reasonable access to personal information that it holds about them. In addition, Gateway will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. Inquiries and complaints may be directed to support@gatewayticketing.com.
+
+### Enforcement:
+
+Gateway utilizes the self-assessment approach to assure its compliance with our privacy statement. Gateway periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented, and in conformity with the Safe Harbor Principles.
+
+### Changes in Practices: 
+
+Gateway will keep this policy current and will inform you of any changes that we make.
