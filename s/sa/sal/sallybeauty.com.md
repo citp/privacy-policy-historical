@@ -1,24 +1,17 @@
-> *The following text is extracted and transformed from the sallybeauty.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816101539id_/http%3A//www.sallybeauty.com/privacy-Policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sallybeauty.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054323id_/http%3A//www.sallybeauty.com/privacy-Policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # sallybeauty.com Privacy Policy
 
-Effective Date: April 28, 2011
-
-This is the web site of Sally Beauty Supply LLC. Please also read our [Terms of Use](http://www.sallybeauty.com/terms-of-use/usageTerms,default,pg.html).
-
-Our postal address is
-
-Sally Beauty Supply LLC
-
-Attn.: Web Privacy
-
-3001 Colorado Blvd.
-
-Denton, TX 76210
-
+Effective Date: April 28, 2011  
+This is the web site of Sally Beauty Supply LLC. Please also read our [Terms of Use](http://www.sallybeauty.com/terms-of-use/usageTerms,default,pg.html).  
+Our postal address is  
+Sally Beauty Supply LLC  
+Attn.: Web Privacy  
+3001 Colorado Blvd.  
+Denton, TX 76210  
 or you can reach us by telephone at 1-940-898-7500 or 1-800-777-5706.
 
-This Privacy Policy governs only the privacy practices related to the personal information collected through the [www.sallybeauty.com](http://www.sallybeauty.com/) website (this "Site") and/or store programs. California residents: click here to read [Your California Privacy Rights](http://www.sallybeauty.com/California-Privacy-Rights/calPrivacy,default,pg.html) and Canadian residents: click here to read our [Canadian Privacy Policy](http://www.sallybeauty.com/Canadian-Privacy-Policy/canPrivacy,default,pg.html); the terms of which, in addition to those contained in this Privacy Policy, will govern the collection, use, disclosure and storage of personal information through this Site for those respective residents.
+This Privacy Policy governs only the privacy practices related to the personal information collected through the [www.sallybeauty.com](http://www.sallybeauty.com/on/demandware.store/Sites-SA-Site/default/Home-Show) website (this "Site") and/or store programs. California residents: click here to read [Your California Privacy Rights](http://www.sallybeauty.com/California-Privacy-Rights/calPrivacy,default,pg.html) and Canadian residents: click here to read our [Canadian Privacy Policy](http://www.sallybeauty.com/Canadian-Privacy-Policy/canPrivacy,default,pg.html); the terms of which, in addition to those contained in this Privacy Policy, will govern the collection, use, disclosure and storage of personal information through this Site for those respective residents.
 
 Security and Privacy: We realize that making purchases at this Site or any other web site, requires trust on your part. We value your trust very highly, and pledge to you, our customer, that we will work to protect the security and privacy of any personal information you provide to us and that your personal information will only be used as set forth in our [Terms of Use](http://www.sallybeauty.com/terms-of-use/usageTerms,default,pg.html) and this Privacy Policy. This includes your name, address, phone number, e-mail address, and credit card or checking account information, in addition to any other personal information that can be linked to you, personally. We believe that you have a right to know, before shopping at this Site at any other time, exactly what information we might collect from you, why we collect it and how we use it. We do not and will not sell or rent your personal information to anyone. You have the right to control your personal information as you see fit. If you have an account at this Site and you want to change, modify or delete any of your personal information, you can do so anytime by going to My Account. Log in with your e-mail address and password, then click the appropriate category listing to edit or delete whatever personal information you wish. While your information may be deleted from "My Account" or similar, it will remain on our Global server for archival or historical purposes. For your protection, we don’t retain financial information and don’t maintain credit card or checking account information beyond the needs of your particular shopping transaction, so there is no information of that sort in your account for you to change. This Site may provide links to certain third party websites. This Privacy Policy applies only to activities conducted and personal information collected on this Site. Other websites may have their own policies regarding privacy and security. Subject to our policy on cookies as stated in this Privacy Policy, we will obtain your consent before allowing the download of any software from this Site, and this Site will not automatically download any software to your computer system. Once you consent to the initial download of any software, you may receive automatic updates or patches pertaining to such software. You understand and agree that any material, including but not limited to, downloaded software, required or automated updates, modifications, reinstallations or software otherwise obtained through the use of this Site is done at your own discretion and risk, and that you will be solely responsible for any damages to your computer system or loss of data that may result from any such material.
 
@@ -26,16 +19,11 @@ For each visitor to this Site, the Site server automatically recognizes the cons
 
 We collect the information above, as well as e-mail addresses visitors to this Site choose to give us, the e-mail addresses of those who communicate with us via e-mail, and information volunteered by the consumer, such as survey information and/or site registrations, and purchase history. In addition, we receive and may store any information you enter on this Site or give to this Site in any other way. For example, we collect information you provide when you place an order, register with us, send us an e-mail or call us, enter a sweepstakes, or enroll or participate in a club or service such as gift registries. This information may include:
 
-your name.
-
-your mailing address.
-
-your e-mail address.
-
-your phone number.
-
-It may also include any other personal or preference information you provide to us.
-
+your name.  
+your mailing address.  
+your e-mail address.  
+your phone number.  
+It may also include any other personal or preference information you provide to us.  
 It may also include information you submit about other people, for example, the name and address of a gift recipient.
 
 Information from Other Sources
@@ -56,7 +44,7 @@ If we merge with another business entity or substantially all of its assets rela
 
 We do not knowingly collect, maintain or use personally identifiable information submitted to the site by children under 13 years of age. If we become aware that a child under 13 years of age has submitted personally identifiable information to the site, we will not use that information and will immediately delete the information from its records.
 
-Persons who supply us with their cellular telephone numbers will have the opportunity to opt-in with us to receive communications regarding new products and services or upcoming events through their mobile devices. If you do not wish to receive such communications, please let us know by calling our Customer Service Department at the above phone number or by writing to us at the above address.
+Persons may opt in to receive Sally Beauty Alerts SMS messages about sneak peeks, sales, events and more! User information will only be used for the service user has explicitly opted-in for and will not be used for other services provided on short code 47766. User information will not be sold to a third party. User requests will not be used as a blanket opt-in to receive additional messages outside the context of the specific program they are opting in to. You may opt out at any time by texting STOP to 47766 to cancel. By sending STOP to 47766, you agree to one additional confirmation message stating that you've opted out and will no longer receive SMS messages from Sally Beauty. To get help, text HELP to 47766 or get additional support by sending an email to [sbsupport@sallybeauty.com](mailto:sbsupport@sallybeauty.com) or by calling 1-888-807-4732.
 
 With respect to Ad Servers: We do partner with or have relationships with ad server companies.
 
