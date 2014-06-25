@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bad-dragon.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225105607id_/http%3A//bad-dragon.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bad-dragon.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044342id_/http%3A//bad-dragon.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Bad Dragon
 
@@ -9,7 +9,7 @@ The Bad Dragon website conforms to the requirements of the Data Protection Act, 
 ### Visitors to our Website - what information do we collect?
 
 When you visit our website, our web server collects basic user information about you that includes your IP Address, your browser type and version, your locally configured language and locale, and the pages within our web site that you visit.  
-We may at times also use cookies, which are small pieces of information that a web site can sture in a designated file on your computer. Cookies allow a web application to respond to you as an individual. By gathering and remembering information about your preferences, the website can tailor its operation to your needs, likes and dislikes.  
+We may at times also use cookies, which are small pieces of information that a web site can store in a designated file on your computer. Cookies allow a web application to respond to you as an individual. By gathering and remembering information about your preferences, the website can tailor its operation to your needs, likes and dislikes.  
 We may aggregate information collected from other Websites in order to better tailor our website and products to your interests.
 
 ### Members of our Website - what information do we collect?
