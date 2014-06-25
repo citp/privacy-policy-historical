@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the lexity.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830040647id_/http%3A//www.lexity.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexity.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625035932id_/http%3A//www.lexity.com/terms/privacy) for the most accurate reproduction.*
 
-# Terms | Privacy Policy | Lexity
+# Terms | Privacy Policy
 
-Last updated: 31 July 2013 
+Last updated: September 16, 2013 
 
-_On July 30, 2013, Lexity, Inc. was acquired by Yahoo! and will soon become a part of the Yahoo! network of products and services. Information collected by Lexity will continue to be subject to the Lexity Privacy Policy. In the future, you may be asked to link your current Lexity information to an existing or new Yahoo! ID. At that point, the Yahoo! Privacy Policy will apply to all information associated with your Lexity account._
+_On July 30, 2013, Lexity, Inc. was acquired by Yahoo. Currently, information collected by Yahoo Commerce Central (formerly Lexity) is subject to this Privacy Policy. In the future, you may be asked to link your Yahoo Commerce Central information to an existing or new Yahoo ID. At that point, the Yahoo Privacy Policy will apply to all information provided as part of your use of Yahoo Commerce Central._
 
 * * *
 
-Welcome to the Web site of Lexity, a service of Lexity, Inc., a Delaware corporation ("Lexity", "Palaran," "we," or "us"). This privacy policy describes our collection of information from users of our Web site at <http://lexity.com/> (the "Site") and the various services we provide on the Site (the “Services”), as well as our use and disclosure of that information. By using our Site or our Services, you consent to the collection and use of information in accordance with this policy. 
+Welcome to the Web site of Yahoo Commerce Central (formerly Lexity), a service of Lexity, Inc., a Delaware corporation and subsidiary of Yahoo! Inc. (collectively, “Lexity,” “Yahoo,” “we,” “our,” or “us"). This privacy policy describes our collection of information from users of our Web site at <http://lexity.com/> (the “Site”) and the various services we provide on the Site (the “Services”), as well as our use and disclosure of that information. By using our Site or our Services, you consent to the collection and use of information in accordance with this policy. 
 
 ###  Personal Information 
 
 “Personal information,” as used in this policy, is information that specifically identifies a person, such as a person’s name, address, telephone number, or e-mail address. Personal information also includes information about a person’s activities, such as information about his or her activity on our Site or our Services, and demographic information, such as date of birth, gender, geographic area, and preferences, when any of this information is linked to personal information that identifies that person. 
 
-Personal information does not include "aggregate" or other non-personally identifiable information. Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed. We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes. 
+Personal information does not include “aggregate” or other non-personally identifiable information. Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed. We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes. 
 
 ###  Collection of Information 
 
@@ -24,7 +24,7 @@ When you visit the Site or use our Services, some information is automatically c
 
 We collect this information passively using technologies such as standard server logs, cookies, and clear GIFs (also known as “Web beacons”). We use passively-collected information to administer, operate, and improve our Site, our Services, and our other services and systems, and to provide services and content that are tailored to you. If we link or associate any information gathered through passive means with personal information, we treat the combined information as personal information under this policy. Otherwise, we use information collected by passive means in non-personally identifiable form only. 
 
-Also, please be aware that third parties may set cookies on your hard drive or use other means of passively collecting information about your use of their services or content. We do not have access to, or control over, these third-party means of passive data collection. 
+We may partner with third parties, such as [AdRoll](http://www.adroll.com/about/privacy) , [Adextent](http://www.adextent.com/privacy-policy/) , [Google](http://www.google.com/policies/technologies/ads/) and [Simpli.fi](http://www.simpli.fi/ad-serving-privacy-policy-3/) , to provide retargeting services to you. Please be aware that third parties may set cookies on your hard drive or use other means of passively collecting information about your use of their services or content. We do not have access to, or control over, these third-party means of passive data collection. 
 
 ####  Collection of Voluntarily Provided Information 
 
@@ -82,15 +82,4 @@ We may occasionally update this policy. When we do, we will also revise the “l
 
 ###  Contacting Us 
 
-If you have any questions, comments, or concerns about this privacy policy, please contact us using the following contact information: 
-
-Contacting Us 
-
-If you have any questions, comments, or concerns about this privacy policy, please contact us using the following contact information: 
-
-Lexity   
-280 Hope St  
-Mountain View, CA 94041  
-[support@lexity.com](mailto:support@lexity.com)
-
-You may also reach us via our [contact form.](https://web.archive.org/contact)
+If you have any questions, comments, or concerns about this privacy policy, please contact us via our [contact form](https://web.archive.org/contact). 
