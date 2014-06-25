@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnmayer.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010074759id_/http%3A//johnmayer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnmayer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133222id_/http%3A//johnmayer.com/privacy-policy) for the most accurate reproduction.*
 
 # John Mayer Privacy Policy
 
