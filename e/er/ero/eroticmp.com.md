@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eroticmp.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827161840id_/http%3A//www.eroticmp.com/PP.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroticmp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120025id_/http%3A//www.eroticmp.com/PP.htm) for the most accurate reproduction.*
 
 # Privacy Policy for EroticMp.com
 
@@ -104,7 +104,3 @@ Last Updated: **March 11, 2010
 
 > If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us from our contact from at the top of this page. You may also contact us by mail at EMP Media, Inc 6130 Flamingo Rd, 732 Las Vegas, NV 89103.  
 > 
-> 
-> EMP Media INC. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.eroticmp.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-> 
-> If you have questions or concerns regarding this statement, you should first contact us by using our contact form. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=) TRUSTe will then serve as a liaison with us to resolve your concerns. 
