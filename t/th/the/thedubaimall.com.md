@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedubaimall.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022201613id_/http%3A//www.thedubaimall.com/en/general/general/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedubaimall.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113741id_/http%3A//www.thedubaimall.com/en/Information/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy » The Dubai Mall
 
@@ -8,11 +8,11 @@ We have provided this Privacy Policy Statement to help you understand how we col
 
 You should read this notice in conjunction with the Terms and Conditions of use for the Site.
 
-## Acceptance
+ **Acceptance**
 
 By using this site, you signify your agreement to the Emaar Properties PJSC Privacy Policy. If you do not agree with this policy, please do not use this site. Your continued use of Emaar Properties PJSC and/or its affiliates' sites following the posting of changes to these terms will mean you accept those changes.
 
-## My Information
+ **My Information**
 
 1\. What kind of information is collected?
 
@@ -22,7 +22,7 @@ Personally Identifiable Information - The following forms on Emaar.com collect P
 
 Register for News Form  \- Information in this form will be used to send Emaar.com's periodic Newsletter updating customers
 
-Contact Us Form - Information provided through this form will not be stored by Emaar.com and will be used solely to respond to customer enquiries and/or service requests 
+Contact Us Form - Information provided through this form will not be stored by Emaar.com and will be used solely to respond to customer enquiries and/or service requests
 
 Site Feedback Form - Information provided through this form will be used solely to provide enhancements to Emaar.com
 
@@ -36,4 +36,4 @@ As a general rule, Emaar Properties PJSC will not disclose any specific personal
 
 4\. How can I control my information?
 
-In case you change your mind or some Personal Information changes (such as your mailing address or e-mail address), we will try to provide a way to correct, update or remove the Personal Information that you have provided us. We offer Customers the opportunity to "opt out" of having Personal Information shared with Emaar Properties PJSC and/or its affiliated companies such as un-registering from the Emaar.com Newsletter. Additionally, If a Customer wishes to update Personal Information or objects to any usage provided herein for any reason, he/she may e-mail the requested change to: .
+In case you change your mind or some Personal Information changes (such as your mailing address or e-mail address), we will try to provide a way to correct, update or remove the Personal Information that you have provided us. We offer Customers the opportunity to "opt out" of having Personal Information shared with Emaar Properties PJSC and/or its affiliated companies such as un-registering from the Emaar.com Newsletter. Additionally, If a Customer wishes to update Personal Information or objects to any usage provided herein for any reason, he/she may e-mail the requested change to: [sitefeedback@emaar.ae](mailto:sitefeedback@emaar.ae).
