@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebitcoinnews.co.uk privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222160702id_/http%3A//thebitcoinnews.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebitcoinnews.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121259id_/http%3A//thebitcoinnews.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Bitcoin News
+# Privacy Policy | The Bitcoin News - Decentralised Bitcoin and Crypto News
 
 **PRIVACY POLICY**
 
@@ -78,3 +78,5 @@ Bitcoin SARL
 France
 
 **2 December 2013**
+
+### Share and Enjoy
