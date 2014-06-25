@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adspeed.net privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621062625id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspeed.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142541id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Ad Servers | Ad Server Software | Ad Serving Software – Privacy Statement for AdSpeed.com
 
@@ -42,17 +42,17 @@ By registering as a member of our service, you are agreeing to accept this priva
 
 If you have any questions about this privacy statement, or the practices of AdSpeed.com, please [contact us](https://web.archive.org/Helps/contact.html).
 
-## Testimonials for our Ad Servers
+## Testimonials
 
-  * > I am getting to know your tools and LOVE them!
+  * > AdSpeed has been instrumental in our success!
 > 
-> _Lisa F_  
->  Wyplanet
+> _Elizabeth M_  
+>  Clasificados Online
 
-  * > That is fantastic customer service, I'm very pleased. Thank you and please pass on my thanks to your engineers.
+  * > We at Baronelk Productions would like to thank you for this great free service. It allows us to advertise our service providers, and to recognize other web sites that we feel worthy. Thanks once again. 
 > 
-> _Max H_  
->  WeLove2Ski Ltd
+> _TheK_  
+>  Baronelk Productions
 
 
 
