@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chuckecheese.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904195014id_/http%3A//www.chuckecheese.com/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chuckecheese.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101825id_/http%3A//www.chuckecheese.com/terms-and-privacy) for the most accurate reproduction.*
 
 # Terms and Privacy | Chuck E. Cheese's
 
@@ -13,9 +13,9 @@
 
 **PRIVACY**
 
-**Effective Date:   ****August 15, 2013**
+**Effective Date:   ****June 17, 2014**
 
-CEC Entertainment Concepts, L.P. and its subsidiaries (“CEC Entertainment”) are very respectful of the privacy concerns of the visitors to its site on the Internet.  This privacy policy applies to [www.chuckecheese.com](http://www.chuckecheese.com/)  owned and operated by CEC Entertainment. This privacy policy describes how CEC Entertainment collects and uses the personal information you provide on our web site: www.chuckecheese.com.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+CEC Entertainment Concepts, L.P. and its subsidiaries (“CEC Entertainment”) are very respectful of the privacy concerns of the visitors to its site on the Internet.  This privacy policy applies to [www.chuckecheese.com](http://www.chuckecheese.com/)  owned and operated by CEC Entertainment. This privacy policy describes how CEC Entertainment collects and uses the personal information you provide on our web site: [www.chuckecheese.com ](http://www.chuckecheese.com/)and our mobile applications.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY**
 
@@ -23,7 +23,7 @@ CEC Entertainment makes a special effort to encourage children to consult with t
 
 We do not seek to acquire information specifically from children under the age of 13 on the Chuck E. Cheese's website.
 
-CEC Entertainment has been awarded TRUSTe's Privacy and Children’s Privacy Seals signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.   The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through our mobile applications.
+CEC Entertainment has received TRUSTe’s Privacy and Children’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site [www.chuckecheese.com ](http://www.chuckecheese.com/)and our mobile applications.
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _._
 
@@ -39,7 +39,7 @@ Phone number: 972-258-8507
 
 Email address: guestrelations@cecentertainment.com
 
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint):
+If you have an unresolved privacy or data concern that we have not addressed satisfactorily, please contact TRUSTe at [TRUSTe here](https://feedback-form.truste.com/watchdog/request)[:](https://feedback-form.truste.com/watchdog/request)
 
   1. **Information Collection and Use**
 
@@ -75,6 +75,14 @@ We use this information to:
 
 
 
+**Geo-Location Data**
+
+We do not ask you for, access or track any location based information from your mobile device at any time while downloading or using our Mobile Applications or Services.
+
+**Device Information**
+
+When you download and use our Services, we automatically collect information on the type of device you use and the operating system version so that we may provide you with the correct version of our application.
+
 **Information Sharing**
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy.  We do not sell your personal information to third parties.
@@ -90,9 +98,9 @@ We may also disclose your personal information:
   * as required by law, such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
   * if CEC Entertainment is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-  * to any other third party with your prior consent to do so.
+  * to any other third party with your prior consent to do so
 
-
+| 
 
 **Name of third-party partner**
 
@@ -110,7 +118,7 @@ We may also disclose your personal information:
   
 ---|---|---|---  
   
-[AOL Inc. (Advertising.com)](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/advertising.com)
+AOL Inc. (Advertising.com)
 
 | 
 
@@ -124,7 +132,7 @@ Ad network
 
 <http://advertising.aol.com/privacy>  
   
-[Google Inc. (Invite Media, Inc.)](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/invitemedia.com)
+Google Inc. (Invite Media, Inc.)
 
 | 
 
@@ -138,7 +146,7 @@ Advertising technology
 
 <http://www.invitemedia.com/privacy_policy.shtml>  
   
-[comScore (VoiceFive)](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/voicefive.com)
+comScore (VoiceFive)
 
 | 
 
@@ -152,7 +160,7 @@ Market research, consumer survey
 
 <http://www.voicefive.com/Privacy.aspx>  
   
-[Google Inc. (YouTube)](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/youtube.com)
+Google Inc. (YouTube)
 
 | 
 
@@ -166,7 +174,7 @@ YouTube, website tools, ad platform, analytics
 
 <http://www.google.com/intl/en/policies/privacy/>  
   
-[comScore (ScorecardResearch)](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/scorecardresearch.com)
+comScore (ScorecardResearch)
 
 | 
 
@@ -180,7 +188,7 @@ Analytics
 
 <http://www.comscore.com/About_comScore/Privacy_Policy>  
   
-[Undertone](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/ads.undertone.com)
+Undertone
 
 | 
 
@@ -194,7 +202,7 @@ Ad network
 
 <http://www.undertone.com/privacy>  
   
-[Microsoft (Atlas Solutions)](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/atdmt.com)
+Microsoft (Atlas Solutions)
 
 | 
 
@@ -208,7 +216,7 @@ Ad network, advertising
 
 <http://privacy.microsoft.com/en-us/default.mspx>  
   
-[MediaMind](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/serving-sys.com)
+MediaMind
 
 | 
 
@@ -222,7 +230,7 @@ Ad platform
 
 <http://www.mediamind.com/Content.aspx?page=privacy_policy>  
   
-[STEELHOUSE INC.](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/steelhousemedia.com)
+STEELHOUSE INC.
 
 | 
 
@@ -236,7 +244,7 @@ Retargeting
 
 <http://www.steelhouse.com/privacy-policy/>  
   
-[Specific Media LLC.](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/specificclick.net)
+Specific Media LLC.
 
 | 
 
@@ -250,7 +258,7 @@ Ad network
 
 <http://www.specificmedia.nl/privacy.php>  
   
-[Twitter Inc.](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/twitter.com)
+Twitter Inc.
 
 | 
 
@@ -264,7 +272,7 @@ Social sharing
 
 <http://twitter.com/privacy>  
   
-[Collective](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/collective-media.net)
+Collective
 
 | 
 
@@ -278,7 +286,7 @@ Ad network
 
 <http://www.collective.com/privacy>  
   
-[Adobe (Analytics)](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/evite.112.2o7.net)
+Adobe (Analytics)
 
 | 
 
@@ -292,7 +300,7 @@ Analytics
 
 <http://www.adobe.com/privacy.html>  
   
-[VINDICO](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/vindicosuite.com)
+VINDICO
 
 | 
 
@@ -306,7 +314,7 @@ Ad platform
 
 <http://www.vindicogroup.com/privacy/>  
   
-[Facebook](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/static.ak.fbcdn.net)
+Facebook
 
 | 
 
@@ -320,7 +328,7 @@ Social sharing
 
 <http://www.facebook.com/about/privacy/>  
   
-[Yahoo! Inc.](https://arachnid.truste.com/portal/reports/7a30da63-1f39-4097-8fb9-a64b93ba0b0a/sd/1361928060000/domain/yui.yahooapis.com)
+Yahoo! Inc.
 
 | 
 
@@ -376,9 +384,165 @@ Ad platform
 
 <http://www.millennialmedia.com/privacy-policy/>  
   
-The [chart here](http://www.hubworld.com/privacy-policy-third-party-partners "Hubworld Privacy Policy Third Party Partners") lists the names of some of our third party partners and support provider entities, which may provide administrative services to our Websites. These entities may change from time to time.
+Criteo
 
-If you have any inquiries regarding our partner’s privacy practices or how they use your child’s personal information, please contact us directly at _guestrelations@cecentertainment.com_.
+| 
+
+Optimization
+
+| 
+
+Retargeting
+
+| 
+
+<http://www.criteo.com/en/privacy-policy>  
+  
+Appnexus
+
+| 
+
+User Internet usage/behavior (no PII)
+
+| 
+
+Ad network
+
+| 
+
+<http://appnexus.com/privacy-policy>  
+  
+Mediaplex / Conversant
+
+| 
+
+User Internet usage/behavior (no PII)
+
+| 
+
+Ad platform
+
+| 
+
+<http://www.conversantmedia.com/legal/privacy>  
+  
+Double Click
+
+| 
+
+User Internet usage/behavior (no PII)
+
+| 
+
+Ad platform
+
+| 
+
+<http://www.google.com/intl/en/policies/privacy/>  
+  
+Sizmek
+
+| 
+
+User Internet usage/behavior (no PII)
+
+| 
+
+Ad platform
+
+| 
+
+<http://www.sizmek.com/about-us/privacy>  
+  
+eXelate
+
+| 
+
+User Internet usage/behavior (no PII)
+
+| 
+
+Ad platform
+
+| 
+
+<http://exelate.com/privacy/opt-in-opt-out/>  
+  
+Optimizely
+
+| 
+
+Optimization
+
+| 
+
+Retargeting
+
+| 
+
+<https://www.optimizely.com/privacy>  
+  
+Simpli.fi
+
+| 
+
+Optimization
+
+| 
+
+Retargeting
+
+| 
+
+<http://www.simpli.fi/site-privacy-policy2/>  
+  
+AdMedia
+
+| 
+
+User Internet usage/behavior (no PII)
+
+| 
+
+Ad network
+
+| 
+
+<http://www.admedia.com/privacy/>  
+  
+Google Adsense
+
+| 
+
+User Internet usage/behavior (no PII)
+
+| 
+
+Ad network
+
+| 
+
+<http://www.google.com/intl/en/policies/>  
+  
+Rocket Fuel
+
+| 
+
+User Internet usage/behavior (no PII)
+
+| 
+
+Ad network
+
+| 
+
+<http://rocketfuel.com/privacy-policy>  
+  
+  |    |     
+  
+The chart lists the names of some of our third party partners and support provider entities, which may provide administrative services to our Websites. These entities may change from time to time.
+
+If you have any inquiries regarding our partner’s privacy practices or how they use your child’s personal information, please contact us directly at [_guestrelations@cecentertainment.com_](http://guestrelations@cecentertainment.com/).
 
   1. **  User Access and Choice**
 
@@ -408,13 +572,13 @@ We may use a third party service provider to conduct these surveys or contests; 
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
-We use both session ID cookies and persistent cookies.  A session ID cookie expires when you close your browser.  Session cookies would be used to improve the user experience for completing forms or the reservation process.  A persistent cookie remains on your hard drive for an extended period of time. Persistent cookies are used to track your behavior so that we can provide you with relevant messaging and improve your overall experience. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. http://en.wikipedia.org/wiki/HTTP_cookie
+We use both session ID cookies and persistent cookies.  A session ID cookie expires when you close your browser.  Session cookies would be used to improve the user experience for completing forms or the reservation process.  A persistent cookie remains on your hard drive for an extended period of time. Persistent cookies are used to track your behavior so that we can provide you with relevant messaging and improve your overall experience. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. <http://en.wikipedia.org/wiki/HTTP_cookie>
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
 **Web Beacons / Gifs**
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
 **Analytics / Log Files**
 
@@ -430,13 +594,17 @@ The use of cookies by our tracking utility company is not covered by our privacy
 
 Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
 
+**Mobile Analytics**
+
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone.  This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.  We do not link the information we store within the analytics software to any personal information you submit within the mobile application as we do not collect any personal information through the application.
+
   1. **Security**
 
 
 
 The security of your personal information is important to us.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [guestrelations@cecentertainment.com](mailto:guestrelations@cecentertainment.com). 
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [guestrelations@cecentertainment.com](mailto:guestrelations@cecentertainment.com).
 
   1. **  Additional Information**
 
@@ -450,7 +618,7 @@ To provide certain animated features on our site, we use Macromedia Shockwave, M
 
 **Testimonials**
 
-From time to time we display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at [guestrelations@cecentertainment.com](mailto:guestrelations@cecentertainment.com).    
+From time to time we display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at [guestrelations@cecentertainment.com](mailto:guestrelations@cecentertainment.com).   
 
 **Social Media Widgets**
 
@@ -487,7 +655,7 @@ Regardless of changes in these Terms Of Use, personally identifiable information
 
 **TRADEMARKS, COPYRIGHTS AND RESTRICTIONS**
 
-This site is controlled and operated by CEC Entertainment, 4441 W. Airport Freeway, Irving, TX 75062. The phone number is 972-258-8507. Email address [guestrelations@cecentertainment.com](mailto:guestrelations@cecentertainment.com "Click to email us at guestrelations@cecentertainment.com"). All materials on this site, including, but not limited to images, illustrations, audio clips, and video clips, are protected by copyrights which are owned and controlled by CEC Entertainment or by other parties that have licensed their material to CEC Entertainment. ("Copyrights"). Material from www.chuckecheese.com or any website owned, operated, licensed or controlled by CEC Entertainment ("CEC Entertainment websites") may not be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any way. Modification of the materials or use of the materials for any other purpose is a violation of the copyrights and other proprietary rights. For purposes of this Terms of Use Agreement, the use of any such material on any other website or networked computer environment is prohibited.
+This site is controlled and operated by CEC Entertainment, 4441 W. Airport Freeway, Irving, TX, 75062. The phone number is 972-258-8507. Email address [guestrelations@cecentertainment.com.](mailto:guestrelations@cecentertainment.com) All materials on this site, including, but not limited to images, illustrations, audio clips, and video clips, are protected by copyrights which are owned and controlled by CEC Entertainment or by other parties that have licensed their material to CEC Entertainment. ("Copyrights"). Material from www.chuckecheese.com or any website owned, operated, licensed or controlled by CEC Entertainment ("CEC Entertainment websites") may not be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any way. Modification of the materials or use of the materials for any other purpose is a violation of the copyrights and other proprietary rights. For purposes of this Terms of Use Agreement, the use of any such material on any other website or networked computer environment is prohibited.
 
 **WARRANTIES DISCLAIMER**
 
