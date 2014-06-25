@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportlivetv.tv privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206144428id_/http%3A//sportlivetv.tv/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportlivetv.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064817id_/http%3A//sportlivetv.tv/privacy-policy-2) for the most accurate reproduction.*
 
 # watch dd sports live online, watch live dd sports online | Sport Live TV
 
@@ -32,10 +32,5 @@ If you wish to disable cookies, you may do so through your individual browser op
 
   * [Crystal Palace - Swansea clip](http://sportlivetv.tv/privacy-policy-2/ "Crystal Palace - Swansea clip")
   * [Man City 4 - 0 Newcastle clip](http://sportlivetv.tv/privacy-policy-2/ "Man City 4 - 0 Newcastle clip")
-  * [Sports Online Live](http://sportlivetv.tv/privacy-policy-2/ "Sports Online Live")
-  * [third row sports streaming](http://sportlivetv.tv/privacy-policy-2/ "third row sports streaming")
-  * [West Ham Stoke City 2013 halftime](http://sportlivetv.tv/privacy-policy-2/ "West Ham Stoke City 2013 halftime")
-  * [Man City Newcastle 2013 penalty](http://sportlivetv.tv/privacy-policy-2/ "Man City Newcastle 2013 penalty")
-  * [third row live tv](http://sportlivetv.tv/privacy-policy-2/ "third row live tv")
 
 
