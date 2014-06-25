@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublinbus.ie privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111185426id_/http%3A//www.dublinbus.ie/en/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublinbus.ie privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054241id_/http%3A//www.dublinbus.ie/en/Privacy) for the most accurate reproduction.*
 
 # Privacy - Dublin Bus
 
@@ -83,6 +83,6 @@ Córas Iompair Éireann
 Heuston Station  
 Dublin 7  
 Ireland  
-E - Mail [webmaster@cie.ie](mailto:webmaster@cie.ie)
+E - Mail [info@dublinbus.ie](mailto:webmaster@cie.ie)
 
 Revision: October 2004 
