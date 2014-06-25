@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seterus.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805170724id_/https%3A//www.seterus.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seterus.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063814id_/https%3A//www.seterus.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Seterus, Inc. Privacy Policy
 
@@ -98,21 +98,25 @@ A formal agreement between nonaffiliated financial companies that together marke
 
 Other important information 
 
-SPECIAL NOTICE FOR CALIFORNIA RESIDENTS: Unless prohibited by applicable law, we may disclose your personal information to financial institutions with which we have joint marketing agreements for possible refinancing of your mortgage loan, **unless you opt out** – that is, tell us not to make those disclosures. If you wish us not to disclose your personal information for joint marketing or possible refinancing opportunities, please complete the [California Opt Out Form](https://web.archive.org/Content/forms/CA%20Opt%20Out%20Form.pdf) and return it to the address indicated. Once we receive this form, we will stop sharing your information with these lenders within a reasonable period of time. 
+SPECIAL NOTICE FOR CALIFORNIA RESIDENTS: 
+
+Joint Marketing: Unless prohibited by applicable law, we may disclose your personal information to financial institutions with which we have joint marketing agreements for possible refinancing of your mortgage loan, **unless you opt out** – that is, tell us not to make those disclosures. If you want us not to disclose your personal information for joint marketing or possible refinancing opportunities, please complete the [California Opt Out Form](https://web.archive.org/Content/forms/CA%20Opt%20Out%20Form.pdf) and return it to the address indicated. Once we receive this form, we will stop sharing your information with these lenders within a reasonable period of time. 
+
+Online: Personal information collected through this website can include address, email, social security number, and information related to the servicing of your account, such as billing amount and payment history. Seterus may share this personal information with vendors, affiliates, and nonaffiliates as defined in this privacy policy. You can make changes to your personal information under the My Profile tab. If we change our privacy policy, we’ll let you know via this website. Other than the entities specified above, other parties may not collect personally identifiable information about your online activities on this website over time. 
 
 SPECIAL NOTICE FOR VERMONT RESIDENTS: We will not disclose your personal information to financial institutions with which we have joint marketing agreements. 
 
 To view Seterus’s hours of operation, please visit our [Contact Us](http://www.seterus.com/Home/ContactUs) page.
 
-Seterus NMLS ID Number: 2315   
+Seterus NMLS ID Number: 787641   
 [NMLS Consumer Access](http://www.nmlsconsumeraccess.org/)
 
-This communication is from a debt collector as we sometimes act as a debt collector. We are attempting to collect a debt and any information obtained will be used for that purpose, including any information you submit in the following process. However, if you are in bankruptcy or received a bankruptcy discharge of this debt, this letter is not an attempt to collect the debt, but notice of possible enforcement of our lien against the collateral property.  COLORADO:  FOR INFORMATION ABOUT THE COLORADO FAIR DEBT COLLECTION PRACTICES ACT, SEE [WWW.COLORADOATTORNEYGENERAL.GOV/CA](http://www.coloradoattorneygeneral.gov/CA). Seterus, Inc. maintains a local office at 355 Union Boulevard, Suite 250, Lakewood, CO 80228. The office’s phone number is 888.738.5576. NEW YORK CITY: 1331537, 1340663, 1340148. TENNESSEE: This collection agency is licensed by the Collection Service Board of the Department of Commerce and Insurance. Seterus, Inc. is licensed to do business at 14523 SW Millikan Way, Beaverton, OR.
+THIS COMMUNICATION IS FROM A DEBT COLLECTOR AS WE SOMETIMES ACT AS A DEBT COLLECTOR. WE ARE ATTEMPTING TO COLLECT A DEBT AND ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE. HOWEVER, IF YOU ARE IN BANKRUPTCY OR RECEIVED A BANKRUPTCY DISCHARGE OF THIS DEBT, THIS LETTER IS NOT AN ATTEMPT TO COLLECT THE DEBT, BUT NOTICE OF POSSIBLE ENFORCEMENT OF OUR LIEN AGAINST THE COLLATERAL OR FOR INFORMATIONAL PURPOSES ONLY. IF YOU RECEIVE OR HAVE RECEIVED A DISCHARGE OF THIS DEBT THAT IS NOT REAFFIRMED IN A BANKRUPTCY PROCEEDING, YOU WILL NOT BE PERSONALLY RESPONSIBLE FOR THE DEBT. HOWEVER, THE LIEN AGAINST THE PROPERTY SECURING THIS DEBT MAY REMAIN ON THE PROPERTY UNTIL THE AMOUNT OWING ON THE LOAN IS PAID. COLORADO: SEE [WWW.COLORADOATTORNEYGENERAL.GOV/CA](http://www.coloradoattorneygeneral.gov/CA) FOR INFORMATION ABOUT THE COLORADO FAIR DEBT COLLECTION PRACTICES ACT. Seterus, Inc. maintains a local office at 355 Union Boulevard, Suite 250, Lakewood, CO 80228. The office’s phone number is 888.738.5576. NEW YORK CITY: 1411669, 1411665, 1411662. TENNESSEE: This collection agency is licensed by the Collection Service Board of the Department of Commerce and Insurance. Seterus, Inc. is licensed to do business at 14523 SW Millikan Way, Beaverton, OR.
 
 Special Notice Regarding Information Subject to the Fair Debt Collection Practices Act 
 
 This notice is in accordance with federal privacy law. If your account is subject to the Fair Debt Collection Practices Act (FDCPA) or other applicable laws regarding information sharing or communicating with others, Seterus, Inc. will only communicate with others in accordance with the FDCPA and the other applicable laws. 
 
-Click [here](https://web.archive.org/Content/forms/CA%20Opt%20Out%20Form.pdf) for the California Opt Out Form. 
-
 Requires Adobe Acrobat. Get it [here](http://www.adobe.com/products/acrobat/readstep2.html).
+
+Effective: December 2013 
