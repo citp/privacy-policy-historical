@@ -1,0 +1,1337 @@
+<!--The following is the downloaded HTML source of the bestcollegehunt.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625065035id_/http%3A//bestcollegehunt.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Privacy Policy | Best College Hunt</title>
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<meta name="robots" content="index, follow">
+<meta name="keywords" content="Privacy Policy | Best College Hunt">
+<meta name="description" content="Best College Hunt welcomes you and hopes that you will find the information about Privacy Policy | Best College Hunt">
+<meta property="og:image" content="">
+<link href="http://bestcollegehunt.com/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://bestcollegehunt.com/css/secondmenu.css" rel="stylesheet" type="text/css">
+<link href="http://bestcollegehunt.com/css/default.css" rel="stylesheet" type="text/css">
+<link href="http://bestcollegehunt.com/css/megamenu.css" rel="stylesheet" type="text/css">
+<link href="http://bestcollegehunt.com/css/registration-style.css" rel="stylesheet" type="text/css">
+<link href="http://bestcollegehunt.com/css/newsmain.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://bestcollegehunt.com/css/scholars-style.css" rel="stylesheet" type="text/css">
+<link href="http://bestcollegehunt.com/css/bch_features-style.css" rel="stylesheet" type="text/css">
+<link href="http://bestcollegehunt.com/css/star_rating.css" rel="stylesheet" type="text/css">
+<link href="http://bestcollegehunt.com/css/paragridma.css" rel="stylesheet" type="text/css"> 
+<link href="http://bestcollegehunt.com/css/events-style.css" rel="stylesheet" type="text/css">
+<link href="http://bestcollegehunt.com/css/font-awesome.min.css" rel="stylesheet">
+<link href="http://bestcollegehunt.com/css/flags.css" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://bestcollegehunt.com/missbch/css/missbch.css">
+<link href="http://bestcollegehunt.com/missbch/css/prettify.css" type="text/css" rel="stylesheet">
+
+
+
+<link href="http://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://bestcollegehunt.com/js/jquery.min.js" type="text/javascript"></script>
+<script src="http://bestcollegehunt.com/js/jcarousellite_1.0.1c4.js" type="text/javascript"></script>
+<script src="http://bestcollegehunt.com/js/megamenu.js" type="text/javascript"></script>
+<script src="http://bestcollegehunt.com/js/live.js" type="text/javascript"></script>
+<script src="http://bestcollegehunt.com/js/datapicker.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42767927-2', 'bestcollegehunt.com');
+  ga('send', 'pageview');
+
+</script>
+<link rel="shortcut icon" href="http://bestcollegehunt.com/images/favicon.png">
+
+</head>
+<body id="bch-body">
+
+
+
+<!-- css registration start -->
+
+<!-- css registration end -->
+
+<!-- jquery registration start -->
+<script type="text/javascript">
+var $r = jQuery.noConflict();
+var $q = jQuery.noConflict();
+var $s = jQuery.noConflict();
+
+function register(cyb){
+
+
+	$s.get("../ajax/set-cyb.php", { cybsession: cyb } ,function(data){
+		//alert(cyb);
+	 });
+
+
+
+	$q(".register-bg").fadeIn(300,function(){
+		$r(".registration-content").css("display","block");
+		$r(".registration-main").slideDown(200);
+	});
+
+
+
+/*
+	if(typeof(cyb) != "undefined")
+	{
+		$s.get("ajax/set-cyb.php", { cybsession: cyb } ,function(data){
+	 	});
+	}
+*/
+
+
+}
+function Login()
+{
+	var urlLoc	=	window.location.href;
+	
+	$q(".login-bg").fadeIn(300,function(){
+	$q(".login-content").css({"display":"block","position":"fixed","z-index":"1001"});
+	$q(".login-main").slideDown(200);
+	$q.get("http://bestcollegehunt.com/sessionReg.php", { session: urlLoc },
+	function(data){
+		});	   
+	});
+}
+function Cyb_Fields()
+{
+	//alert('hi');
+
+	$q(".cyb-popup-bg").fadeIn(300,function(){
+		$r(".cyb-popup-content").css("display","block");
+		$r(".cyb-popup-main").slideDown(200);
+	});
+}
+
+
+function Close_Cyb_Fields()
+{
+	$q(".cyb-popup-main").slideUp(200, function(){
+		$q(".cyb-popup-content").css("display","none");
+		$q(".cyb-popup-bg").fadeOut(300);
+	});
+
+	window.location.href="../includes/logout.php";
+}
+
+
+
+function closeLog(){
+	$q(".login-main").slideUp(200, function(){
+		$q(".login-content").css("display","none");
+		$q(".login-bg").fadeOut(300);
+	});
+}
+
+function openFP(){
+	$q(".login-main").slideUp(200, function(){
+		$q(".login-content").css("display","none");
+		$q(".login-bg").fadeOut(300);
+	});
+
+		$q(".fp-bg").fadeIn(300,function(){
+		$r(".fp-content").css("display","block");
+		$r(".fp-main").slideDown(200);
+	});
+
+
+
+}
+
+
+
+function closefp(){
+	$q(".fp-main").slideUp(200, function(){
+		$q(".fp-content").css("display","none");
+		$q(".fp-bg").fadeOut(300);
+	});
+}
+
+
+
+function closeReg(){
+	$r(".registration-main").slideUp(200, function(){
+		$r(".registration-content").css("display","none");
+		$r(".register-bg").fadeOut(300);
+	});
+}
+
+
+function closefp_openreg(){
+	$q(".fp-main").slideUp(200, function(){
+		$q(".fp-content").css("display","none");
+		$q(".fp-bg").fadeOut(300);
+	});
+
+
+	$q(".register-bg").fadeIn(300,function(){
+		$r(".registration-content").css("display","block");
+		$r(".registration-main").slideDown(200);
+	});
+
+}
+
+function closelogin_openreg(){
+	$q(".login-main").slideUp(200, function(){
+		$q(".login-content").css("display","none");
+		$q(".login-bg").fadeOut(300);
+	});
+
+
+	$q(".register-bg").fadeIn(300,function(){
+		$r(".registration-content").css("display","block");
+		$r(".registration-main").slideDown(200);
+	});
+}
+
+
+
+
+function chk_blnk(a){
+	if(a.value == ""){
+		a.style.borderColor="#f00";
+	}else {
+		a.style.borderColor="#ccc";
+	}
+}
+function chk_mail(a){
+	var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+	if (!filter.test(a.value)){
+		a.style.borderColor="#f00";
+	}else {
+		a.style.borderColor="#ccc";
+	}
+}
+function chk_pword(){
+	var p1=document.getElementById('reg_pw1');
+	var p2=document.getElementById('reg_pw2');
+	//<![CDATA[
+	if(p1.value != "" && p2.value != "" && p1.value == p2.value){
+		p1.style.borderColor="#ccc";
+		p2.style.borderColor="#ccc";
+	}else {
+		p1.style.borderColor="#f00";
+		p2.style.borderColor="#f00";	
+	}
+	//]]>
+}
+function clearField() {
+	$r('#reg_name').val("");
+	$r('#reg_uname').val("");
+	$r('#reg_pw1').val("");
+	$r('#reg_pw2').val("");
+	$r('#reg_email').val("");
+	$r('#reg_cname').val("");
+	$r('#reg_gender').val("");
+}
+function reg_submit() {
+	
+	var regRet	=	false;
+	var reg_name=$r('#reg_name').val();
+	var reg_uname=$r('#reg_uname').val();
+	var reg_pw1=$r('#reg_pw1').val();
+	var reg_pw2=$r('#reg_pw2').val();
+	var reg_email=$r('#reg_email').val();
+	var reg_cname=$r('#reg_cname').val();
+	var reg_gender=$r('#reg_gender').val();
+	var reg_thump=$r('#reg_thump').val();
+	//<![CDATA[
+	if(reg_name != "" && reg_uname != "" && reg_email != "" && reg_cname != "" && reg_gender != ""){
+		if(reg_pw1 == reg_pw2 && reg_pw1 != "" && reg_pw2 !=""){
+			if(chk_mail(reg_email)){
+			
+					regRet	=	true;
+			}
+		}else {
+			$r(".reg_errors").html("Please check your password..");
+		}
+	}else {
+		$r(".reg_errors").html("Please fill the mandatory fields");
+	}
+	//]]>
+	return regRet;
+}
+function log_submit() {
+	var logRet	=	false;
+	var logusername	=	$r('#logusername').val();
+	var logpassword	=	$r('#logpassword').val();
+	//<![CDATA[
+	if(logusername != "" && logpassword != ""){
+		logRet	=	true;	
+	}else {
+		$r(".login_errors").html("Please enter your username and password");
+	}
+	//]]>
+	return logRet;
+	
+}
+
+function fp_submit() {
+	var fpRet	=	false;
+	var fpusername	=	$r('#fpusername').val();
+	//var logpassword	=	$r('#logpassword').val();
+	if(fpusername != ""){
+		fpRet	=	true;	
+	}else {
+		$r(".fp_errors").html("Please enter your username");
+	}
+	return fpRet;
+	
+}
+
+
+
+$r('.login_name').click(function(){
+	$r('.user_actions').slideToggle(200);	
+});
+</script>
+<!-- jquery registration end -->
+
+<!-- html registration start -->
+<script type="text/javascript">
+clearField();
+</script>
+<div class="registration-content">
+	<div id="reg-form" class="registration-main">
+			<h1>Create an account <a href="javascript:closeReg();" title="Close">X</a></h1>
+		<div class="reg_errors"></div>
+		<script language="javascript" type="text/javascript">setTimeout("msgout()",8000);</script>
+		<form action="http://bestcollegehunt.com/includes/member_reg_action.php" method="post" enctype="multipart/form-data" onsubmit="return reg_submit();">
+			<div class="reg-row">
+				<div class="reg-col leftalign">Name <span>*</span></div>
+				<div class="reg-col">: <input type="text" name="name" id="reg_name" value="">
+				<script type="text/javascript">
+					var reg_name = new LiveValidation('reg_name');
+					reg_name.add( Validate.Presence );
+					reg_name.add(Validate.Format, { pattern: /^[a-zA-Z .]+$/i });
+				  </script>
+				</div>				
+				<div class="c"></div>
+			</div>
+			<div class="reg-row">
+				<div class="reg-col leftalign">Username<span>*</span></div>
+				<div class="reg-col">: <input type="text" name="userName" id="reg_uname" value="">
+				<script type="text/javascript">
+					var reg_uname = new LiveValidation('reg_uname');
+					reg_uname.add( Validate.Presence );
+					reg_uname.add( Validate.Length, { minimum: 6 } );
+				  </script>
+				</div>
+				<div class="c"></div>
+			</div>
+			<div class="reg-row">
+				<div class="reg-col leftalign">Password<span>*</span></div>
+				<div class="reg-col">: <input type="password" name="password" id="reg_pw1">
+				<script type="text/javascript">
+					var reg_pw1 = new LiveValidation('reg_pw1');
+					reg_pw1.add( Validate.Presence );
+					reg_pw1.add( Validate.Length, { minimum: 6 } );
+				  </script>
+				</div>
+				<div class="c"></div>
+			</div>
+			<div class="reg-row">
+				<div class="reg-col leftalign">Confirm Password<span>*</span></div>
+				<div class="reg-col">: <input type="password" name="passwordConf" id="reg_pw2">
+				<script type="text/javascript">
+					var reg_pw2 = new LiveValidation('reg_pw2');
+					reg_pw2.add( Validate.Presence );
+					reg_pw2.add( Validate.Confirmation, { match: 'reg_pw1' } );
+					reg_pw2.add( Validate.Length, { minimum: 6 } );
+				  </script>
+				</div>
+				<div class="c"></div>
+			</div>
+			<div class="reg-row">
+				<div class="reg-col leftalign">Email<span>*</span></div>
+				<div class="reg-col">: <input type="text" name="email" id="reg_email" value="">
+				 <script type="text/javascript">
+					var reg_email = new LiveValidation('reg_email');
+					reg_email.add( Validate.Presence );
+					reg_email.add( Validate.Email );
+				</script>
+				</div>
+				<div class="c"></div>
+			</div>
+			<div class="reg-row ">
+				<div class="reg-col leftalign">College Name<span>*</span></div>
+				<div id="cn" class="reg-col">:<input type="text" name="collegeName" id="reg_cname" value="">
+				<script type="text/javascript">
+					var reg_cname = new LiveValidation('reg_cname');
+					reg_cname.add( Validate.Presence );
+				  </script>				
+				</div>
+				<div class="c"></div>
+			</div>
+			<div class="reg-row">
+				<div class="reg-col leftalign">Gender<span>*</span></div>
+				<div class="reg-col">: <select name="gender" style="height:30px; width:90%" id="reg_gender" onblur="chk_blnk(this);">
+					<!--<option value=""  disabled selected="selected">Select</option>-->
+					<option value="" selected="selected">Select</option>
+					<option value="male">Male</option>
+					<option value="female">Female</option>
+				</select>
+				<script type="text/javascript">
+					var reg_gender = new LiveValidation('reg_gender');
+					reg_gender.add( Validate.Presence );
+				  </script>				
+				</div>
+				<div class="c"></div>
+			</div>
+			<div class="reg-row">
+				<div class="reg-col"><span>&nbsp;</span></div>
+				<div class="reg-col"><img src="http://bestcollegehunt.com/captcha/captcha_code_file_reg.php?rand=557578423" id="captchaimgReg" alt="captcha" width="120" height="40">
+						Click <a href="javascript:;" onclick="refreshRegCaptcha();" style="color:#7C2C7C;">here</a> to refresh		
+						<script type="text/javascript">
+							function refreshRegCaptcha()
+							{
+								var img = document.images['captchaimgReg'];
+								img.src = img.src.substring(0,img.src.lastIndexOf("?"))+"?rand="+Math.random()*1000;
+							}
+						</script> 	
+				</div>
+				<div class="c"></div>
+			</div>
+			<div class="reg-row">
+				<div class="reg-col leftalign">Enter the code above here :  <span>*</span></div>
+				<div class="reg-col"><input type="text" name="6_letters_code_reg" id="reginc_letters_code">
+								 		<script type="text/javascript">
+											var reginc_letters_code = new LiveValidation('reginc_letters_code');
+											reginc_letters_code.add( Validate.Presence );
+										</script>			
+				</div>
+				<div class="c"></div>
+			</div>
+			
+										
+										
+			<div id="file-upload" class="reg-row">
+				<div class="reg-col leftalign">User Image</div>
+				<div class="reg-col">: <input type="file" name="userThump" id="reg_thump"></div>
+				<div class="c"></div>
+			</div>
+			<div class="reg-submit"><input type="submit" name="submit-registration" value="Register"></div>
+		</form>
+		</div>
+</div>
+<div class="register-bg">
+</div>
+<!-- html registration end -->
+
+<!-- html registration start -->
+<!-- html registration start -->
+
+<div class="login-content">
+	<div class="login-main">
+		<h1>Login to your account <a href="javascript:closeLog();" title="Close">X</a></h1>
+		<div class="login_errors"></div>
+		<form action="http://bestcollegehunt.com/includes/login_action.php" method="post" enctype="multipart/form-data" onsubmit="return log_submit();">
+			<div class="login-row">
+				<div id="un-l" class="login-col">Username </div>
+				<div id="un-r" class="login-col">: <input type="text" name="uname" id="logusername"></div>				
+				<div class="c"></div>
+			</div>
+			<div class="login-row">
+				<div id="pwd-l" class="login-col">Password</div>
+				<div id="pwd-r" class="login-col">: <input type="password" name="password" id="logpassword"></div>
+				<div class="c"></div>
+			</div>
+			<div class="reg-submit"><input type="submit" name="submitLogin" value="Login" id="login"></div>
+		</form>
+		
+		<div class="forgotpass fl">
+			<a href="javascript:openFP();" title="Forgot Password">Forgot Password?</a>
+<!--
+<div class="forgotReg fr"><a href="javascript:closelogin_openreg();" title="Register Now">Register Now</a></div>-->
+<div class="forgotReg fr" style="margin-right:10px;">
+	<div class="register">
+		<!--<select onchange="callreg(this.value);">
+			<option value="">Register As</option>
+			<option value="member">Member</option>
+			<option value="expert">Expert</option>
+			<option value="educationist">Educationist</option>
+		</select>-->
+	 <a href="javascript:;" onclick="callreg('member');">Register?</a>
+	  </div>
+</div>
+
+		</div>
+<!--		<div class="logsocial">OR</div>
+		<div style="float:left"><div class="facebook-icon"><a href="http://bestcollegehunt.com/face/examples/facebook_integration/index.php?login=1"></a></div></div>
+		<div style="float:left;margin-left:4px"><div class="twitter-icon"><a href="http://bestcollegehunt.com/face/examples/social_hub/login.php?provider=Twitter"></a></div></div>
+		<div style="clear-div"></div>
+		<div style="float:left;margin-top:8px"><div class="linkedin-icon"><a href="http://bestcollegehunt.com/face/examples/social_hub/login.php?provider=LinkedIn"></a></div></div>
+		<div style="float:left;margin-left:4px"><div class="google-icon"><a href="http://bestcollegehunt.com/face/examples/social_hub/login.php?provider=Google"></a></div></div>
+		<div style="clear-div"></div>-->
+	</div>
+	
+</div>
+<div class="login-bg">
+</div>
+<!-- html registration end -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- html registration start -->
+
+<div class="fp-content">
+	<div class="fp-main">
+		<h1>Forgot Password<a href="javascript:closefp();" title="Close">X</a></h1>
+		<div class="fp_errors"></div>
+		<div class="fp_success"></div>
+		<form action="http://bestcollegehunt.com/includes/fp_action.php" method="post" enctype="multipart/form-data" onsubmit="return fp_submit();">
+			<div class="fp-row">
+				<div class="fp-col">Username</div>
+				<div class="fp-col">: <input type="text" name="fpuname" id="fpusername"></div>				
+				<div class="c"></div>
+			</div>
+			<div class="fp-submit"><input type="submit" name="submitfp" value="Send"></div>
+		</form>
+		
+		<div class="forgotpass fl">
+			<div class="forgotpass-Reg"><a href="javascript:closefp_openreg();" title="Register Now">Register Now</a></div>
+		</div>
+		
+	</div>
+	
+</div>
+<div class="fp-bg">
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31142613-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script type="text/javascript">
+var $fee = jQuery.noConflict();
+var sceenx=screen.width;
+var dw=sceenx-1070;
+var divwidth=dw/2;
+var dwidth=divwidth+"px";
+var dleft=divwidth+1000+"px";
+$fee(document).ready(function(){
+		jQuery(".pull_feedback").toggle(function(){
+				jQuery("#feedback").animate({left:"0px"});
+				return false;
+			},
+			function(){
+				jQuery("#feedback").animate({left:"-375px"});	
+				return false;
+			}
+		); //toggle
+	}); //document.ready
+</script>
+
+<div id="feedback">
+
+
+		<form action="http://bestcollegehunt.com/action.php?act=feedback" method="post">
+		<div class="feed-mains-div" style="height:500px;overflow-x:hidden;overflow-y:scroll;">
+			<h2>Enter your Feedback here:</h2>
+						<p>
+			<label>Name:<span style="color:#cc0000">*</span></label><input type="text" name="feedname" id="feedname">
+			<script type="text/javascript">
+				var feedname = new LiveValidation('feedname');feedname.add( Validate.Presence );
+			</script>
+			</p>
+			<p>
+			<label>Email: <span style="color:#cc0000">*</span></label><input type="text" name="feedemail" id="feedemail">
+			<script type="text/javascript">
+			var feedemail = new LiveValidation('feedemail');feedemail.add( Validate.Presence );feedemail.add( Validate.Email );				</script>
+			</p>
+			<p>
+			<label>Subject: <span style="color:#cc0000">*</span></label><input type="text" name="feedsubject" id="feedsubject">
+			<script type="text/javascript">
+			var feedsubject = new LiveValidation('feedsubject');feedsubject.add( Validate.Presence );
+			</script>
+			</p>
+			<p>
+			<label>Which Module You Most like in BCH: </label><br><input type="text" name="feedmostlike" id="feedmostlike">
+			</p>
+			<p>
+			<label>Which Module You Dont like in BCH: </label><br><input type="text" name="feeddontlike" id="feeddontlike">
+			
+			</p>
+			<p>
+			<label>Which  New Module your expected to be there In BCH: </label><br><input type="text" name="feednewmodule" id="feednewmodule">
+			
+			</p>
+			<p>
+			<label>Your Suggestion For  BCH: </label><br><textarea name="feedsuggestion" id="feedimage" cols="50" rows="15"></textarea>
+
+			</p>
+
+			<p>
+			<label>Message:<span style="color:#cc0000">*</span> </label><textarea name="feedmessage" id="feedmessage" cols="50" rows="15"></textarea>
+			<script type="text/javascript">var feedmessage = new LiveValidation('feedmessage');feedmessage.add( Validate.Presence );</script>
+			</p>
+			<p>
+			<label>&nbsp;</label>
+	
+			<img src="http://bestcollegehunt.com/captcha/captcha_code_file_feed.php?rand=351453013" id="captchaimgfeed" alt="feed-captcha" width="120" height="40">
+			</p>
+			<p>
+			<label>&nbsp;</label>
+			<span class="reffeedCap" onclick="javascript: refreshCaptchafeed();">Click here to refresh</span>
+			</p>
+			<script type="text/javascript">
+			function refreshCaptchafeed()
+			{
+				var img = document.images['captchaimgfeed'];
+				img.src = img.src.substring(0,img.src.lastIndexOf("?"))+"?rand="+Math.random()*1000;
+			}
+		</script>
+		<p><label>Code: </label><input type="text" name="6_letters_codefeed" id="feedcaptcha"><script type="text/javascript">var feedcaptcha = new LiveValidation('feedcaptcha');feedcaptcha.add( Validate.Presence );</script></p> 
+			<p><input type="submit" value="Send" class="btn" name="feedsend"></p>
+			</div>
+		</form>
+
+		<a href="#" class="pull_feedback" title="Click to leave feedback">Feedback</a>
+	</div>
+	
+	<div class="rightfollowBtn">
+	<ul>
+	<li>
+	<a href="https://www.facebook.com/bestcollegehunt" target="_blank" title="Follow Us">
+	<img height="25" width="25" src="http://bestcollegehunt.com/images/ico/fb.png" alt="fb">
+	</a>
+	</li>
+	<li>
+	<a href="https://twitter.com/bestcollegehunt" target="_blank" title="Follow Us">
+	<img height="25" width="25" src="http://bestcollegehunt.com/images/ico/tt.png" alt="tw">
+	</a>
+	</li>
+	<li>
+	<a href="http://www.linkedin.com/company/infosoftx/best-college-hunt-1637096/product?trk=biz_product" target="_blank" title="Follow Us">
+	<img height="25" width="25" src="http://bestcollegehunt.com/images/ico/lk.png" alt="ln">
+	</a>
+	</li>
+	<li>
+	<a href="https://plus.google.com/102111327716709680671/about" target="_blank" title="Follow Us">
+	<img height="25" width="25" src="http://bestcollegehunt.com/images/ico/gplus.jpg" alt="gplus">
+	</a>
+	</li>
+	<li>
+	<a href="http://www.bestcollegehunt.com/?format=feed &amp;type='rss'" target="_blank" title="Follow Us">
+	<img height="25" width="25" src="http://bestcollegehunt.com/images/ico/rs.png" alt="rss">
+	</a>
+	</li>
+	</ul>
+	</div>
+
+
+		<div class="main-wrapper-home">
+			
+			
+			<div class="inner-wrapper">
+				<div id="left-add-wrpr">
+					<div id="div-gpt-ad-13886648124-0">
+						<a href="http://www.colorofnation.com" target="_blank">
+							<img src="http://bestcollegehunt.com/images/client-ad/color-left.jpg" alt="Advertisement">
+						</a>
+					</div>
+				</div>
+				<div id="right-add-wrpr">
+					<div id="div-gpt-ad-13864861191-0">
+						<a href="http://www.colorofnation.com" target="_blank">						
+							<img src="http://bestcollegehunt.com/images/client-ad/color-right.jpg" alt="Advertisement">
+						</a>
+					</div>
+				</div>
+						<div class="wrapper" style="width:1000px;">
+ 				<div class="wrapper-home">
+									<div class="top-header-home ovr">
+								  <!--<ul>
+									<li ><a id="spli" href="http://bestcollegehunt.com/about-us">About Us</a></li>
+									<li><a href="http://bestcollegehunt.com/forum">Forum</a></li>
+									<li><a  href="http://bestcollegehunt.com/article-list/all" title="Articles">Blogs</a></li>
+									<li><a href="http://bestcollegehunt.com/write-for-us">Write For Us</a></li>
+									<li><a href="http://bestcollegehunt.com/review">Write A Review</a></li>
+									<li><a href="http://bestcollegehunt.com/students-testimonial">Testimonials</a></li>
+									<li><a href="http://bestcollegehunt.com/contact-us">Contact Us</a></li>
+								  </ul>-->
+          						  <div class="top-login-home ovr">
+
+																	  <div class="login fr">
+									  <h2><a href="#" onclick="Login();">Login</a></h2>
+								  </div>
+								 <!-- <div class="register">
+									<select onchange="callreg(this.value);">
+										<option value="">Register As</option>
+										<option value="member">Member</option>
+										<option value="expert">Expert</option>
+										<option value="educationist">Educationist</option>
+									</select>
+								
+								  </div>-->
+								<div class="clear"></div>
+           						           				</div>
+        			</div>
+				
+    				<div class="header-home ovr">
+
+						<div class="header-home-left"><a href="http://bestcollegehunt.com/"><img src="http://bestcollegehunt.com/images/logo.png" alt="Home" width="360" height="110"></a></div>
+      					<div class="header-home-right">
+        					
+										<!--<div class="search-home-bch ovr">
+							<script type="text/javascript">
+								 (function() {
+								   var cx = '007997433254230402531:zmtkfudxfrc';
+								   var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+								   gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+									   '//www.google.com/cse/cse.js?cx=' + cx;
+								   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+								 })();
+							</script>
+						<gcse:searchbox-only  newWindow=true></gcse:searchbox-only>
+					
+							
+					</div>-->
+       <!-- <div class="header-banner standard-addback standard-res8"></div>-->
+		<div class="clear"></div>
+		  <div class="top-ad-baaner" style="text-align:right;">
+		  	
+						<div class="ad1-home"></div>
+			<div class="ad1-home"></div>
+			<div class="ad1-home"></div>
+			<div class="ad1-home"></div>
+						<!--<div class="ad1-home"></div>
+			<div class="ad1-home"></div>-->
+		  </div>
+
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="main-nav-home ovr">
+  <div class="wrapper">
+    <div class="wrapper-home">
+      <div class="main-nav-home">
+        <div class="menuBar">
+          <div style="width:auto;float: left">
+            <ul style="display: block;" class="megamenu">
+              <li style="float: left;" class="mm-item "><a class="mm-item-link" href="http://bestcollegehunt.com/" title="Home">Home</a>
+                <div class="subMenu mm-item-content" style="height: 0px; width: 0px; visibility: hidden; display: none;">
+                  <div class="mm-content-base"></div>
+                  <div class="mm-js-shadow"></div>
+                </div>
+              </li>
+              <li style="float: left;" class="mm-item liimage"><a class="mm-item-link" href="http://bestcollegehunt.com/news" title="News">News</a>
+                  <div class="subMenu secondmenuMenu6 mm-item-content" style="width: 900px; display: none; top: 115px; left: 296.5px; height: auto;"><div class="mm-content-base">
+               
+				<dl id="secondegree">
+                     
+					 
+
+							<dd><a href="http://bestcollegehunt.com/news/business" title="Business">Business</a></dd>
+														
+																		<dd><a href="http://bestcollegehunt.com/news/technical" title="Technical">Technical</a></dd>
+														
+																		<dd><a href="http://bestcollegehunt.com/news/education" title="Education">Education</a></dd>
+														
+																		<dd><a href="http://bestcollegehunt.com/news/science" title="Science">Science</a></dd>
+														
+																		<dd><a href="http://bestcollegehunt.com/news/life-style" title="Life Style">Life Style</a></dd>
+														
+																		<dd><a href="http://bestcollegehunt.com/news/career" title="Career">Career</a></dd>
+														
+																		<dd><a href="http://bestcollegehunt.com/news/politics" title="Politics">Politics</a></dd>
+														
+																		<dd><a href="http://bestcollegehunt.com/news/sports" title="Sports">Sports</a></dd>
+														
+																		<dd><a href="http://bestcollegehunt.com/news/general" title="General">General</a></dd>
+														
+												
+
+
+                  </dl>
+			</div>
+                  <div class="mm-js-shadow"></div>
+                </div>
+              </li>
+              <li style="float: left;" class="mm-item liimage"><a class="mm-item-link" href="http://bestcollegehunt.com/top-indian-universities" title="Universities">Universities</a>
+                <div class="subMenu mbaMenu mm-item-content" style="width: 900px; display: none; top: 115px; left: 296.5px; height: auto;">
+                <div class="mm-content-base">
+                  <dl id="universitieslist">
+                                        <dd><a href="http://bestcollegehunt.com/universities/andhra-pradesh" title="">Andhra Pradesh</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/arunachal-pradesh" title="">Arunachal Pradesh</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/assam" title="">Assam</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/bihar" title="">Bihar</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/chandigarh" title="">Chandigarh</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/chhattisgarh" title="">Chhattisgarh</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/delhi" title="">Delhi</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/goa" title="">Goa</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/gujarat" title="">Gujarat</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/haryana" title="">Haryana</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/himachal-pradesh" title="">Himachal Pradesh</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/jammu-and-kashmir" title="">Jammu and  Kashmir</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/jharkhand" title="">Jharkhand</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/karnataka" title="">Karnataka</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/kerala" title="">Kerala</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/madhya-pradesh" title="">Madhya Pradesh</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/maharashtra" title="">Maharashtra</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/manipur" title="">Manipur</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/meghalaya" title="">Meghalaya</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/mizoram" title="">Mizoram</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/nagaland" title="">Nagaland</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/orissa" title="">Orissa</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/pondicherry" title="">Pondicherry</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/punjab" title="">Punjab</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/rajasthan" title="">Rajasthan</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/sikkim" title="">Sikkim</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/tamil-nadu" title="">Tamil Nadu</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/tripura" title="">Tripura</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/uttar-pradesh" title="">Uttar Pradesh</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/uttarakhand" title="">Uttarakhand</a></dd>
+                                        <dd><a href="http://bestcollegehunt.com/universities/west-bengal" title="">West Bengal</a></dd>
+                                      </dl>
+              
+				</div>
+               <div class="subMenuBtm" onclick="register();"><strong>Not a Member of Bestcollegehunt?</strong><a onclick="register();"><span class="reg-link">Register Now</span></a></div>
+				</div>
+              </li>
+              <li style=" float: left;" class="mm-item liimage">
+              <a class="mm-item-link" href="#" id="onlinestore" title="Colleges">Colleges</a>
+              <div style=" display: none; top: 115px; left: 391.5px; height: auto;" class="subMenu morecourseMenu mm-item-content">
+              <div class="mm-content-base">
+              <dl class=" degree">
+              <dd id="law"> <a class="coltype" href="http://bestcollegehunt.com/law/">Law Colleges</a> </dd>
+              <dd id="mba"> <a class="coltype" href="http://bestcollegehunt.com/mba/">Business Colleges</a> </dd>
+              <dd id="eng"> <a class="coltype" href="http://bestcollegehunt.com/engineering/">Engineering Colleges</a> </dd>
+              <dd id="med"> <a class="coltype" href="http://bestcollegehunt.com/medical/">Medical Colleges</a> </dd>
+              <dd id="deg"> <a class="coltype" href="http://bestcollegehunt.com/degree/">Degree Colleges</a> </dd>
+              <dd id="dip"> <a class="coltype" href="http://bestcollegehunt.com/diploma/">Diploma Colleges</a> </dd>
+              <dd id="onl"> <a class="coltype" href="http://bestcollegehunt.com/online/">Online Colleges</a> </dd>
+              <dd id="rch"> <a class="coltype" href="http://bestcollegehunt.com/research/">Research Colleges</a> </dd>
+			  </dl>
+              <div class="subMenuBtm" onclick="register();"><strong>Not a Member of Bestcollegehunt?</strong><a onclick="register();"><span class="reg-link">Register Now</span></a></div>
+              <div style="clear:both"></div>
+              </div>
+              <div style="height: 342px; width: 670px; top: 3px; left: 3px; opacity: 0.5;" class="mm-js-shadow"></div>
+              </div>
+              </li>
+              <li style="float: left;" class="mm-item liimage"><a class="mm-item-link" href="http://bestcollegehunt.com/majors" title="Majors">Majors</a>
+                <div class="subMenu mm-item-content" style="height: 0px; width: 0px; visibility: hidden; display: none;">
+                  <div class="mm-content-base"></div>
+                  <div class="mm-js-shadow"></div>
+                </div>
+              </li>
+              <li style="float: left;" class="mm-item liimage"><a class="mm-item-link" href="http://bestcollegehunt.com/events" title="Events">Events</a>
+                <div class="subMenu mm-item-content" style="height: 0px; width: 0px; visibility: hidden; display: none;">
+                  <div class="mm-content-base"></div>
+                  <div class="mm-js-shadow"></div>
+                </div>
+              </li>
+              <li style="float: left;" class="mm-item liimage"><a class="mm-item-link" href="http://bestcollegehunt.com/study-abroad" id="studyabroad" title="Study Abroad">Study Abroad</a>
+                <div style="display: none; top: 115px; left: 487.5px; height: auto;" class="subMenu studyAbroadMenu mm-item-content">
+                  <div class="mm-content-base">
+                    <dl id="abroad">
+                       <dd class="study-usa" style="float:left!important;width:100px;"><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-usa" title="">USA</a></dd>
+                                            <dd class="study-australia" style="float:left!important;width:100px;"><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-australia" title="">Australia</a></dd>
+                                            <dd class="study-germany" style="float:left!important;width:100px;"><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-germany" title="">Germany</a></dd>
+                                            <dd class="study-russia" style="float:left!important;width:100px;"><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-russia" title="">Russia</a></dd>
+                                            <dd class="study-united-kingdom" style="float:left!important;width:100px;"><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-united-kingdom" title="">United Kingdom</a></dd>
+                                            <dd class="study-denmark" style="float:left!important;width:100px;"><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-denmark" title="">Denmark</a></dd>
+                                            <dd class="study-south-africa" style="float:left!important;width:100px;"><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-south-africa" title="">South Africa</a></dd>
+                                            <dd class="study-new-zealand" style="float:left!important;width:100px;"><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-new-zealand" title="">New Zealand</a></dd>
+                                            <dd class="study-canada" style="float:left!important;width:100px;"><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-canada" title="">Canada</a></dd>
+                                            <dd class="study-sweden" style="float:left!important;width:100px;"><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-sweden" title="">Sweden</a></dd>
+                                            <dd class="study-mauritius" style="float:left!important;width:100px;"><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-mauritius" title="">Mauritius</a></dd>
+                                            <dd class="study-latvia" style="float:left!important;width:100px;"><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-latvia" title="">Latvia</a></dd>
+                    </dl>
+                                      <div class="subMenuBtm" onclick="register();"><strong>Not a Member of Bestcollegehunt?</strong><a onclick="register();"><span class="reg-link">Register Now</span></a></div>
+                  </div>
+                  <div style="height: 208px; width: 670px; top: 3px; left: 3px; opacity: 0.5;" class="mm-js-shadow"></div>
+                </div>
+              </li>
+	      <li style="float: left;" class="mm-item liimage"><a class="mm-item-link" href="http://bestcollegehunt.com/entrance-exams" title="Exam Result">Exams</a>
+               
+              </li>
+              <li style="float: left;" class="mm-item liimage"><a class="mm-item-link" href="http://bestcollegehunt.com/examresult/" title="Exam Result">Results</a>
+               
+              </li>
+		 
+              <li style="float: left;" class="mm-item liimage"><a class="mm-item-link" href="http://bestcollegehunt.com/scholarships" title="Scholarships">Scholarships</a>
+                <div class="subMenu mm-item-content" style="height: 0px; width: 0px; visibility: hidden; display: none;">
+                  <div class="mm-content-base"></div>
+                  <div class="mm-js-shadow"></div>
+                </div>
+              </li>
+             
+			   <li style="float: left;" class="mm-item liimage"><a class="mm-item-link" href="#" title="more">More</a>
+                <div class="subMenu secondmenuMenu6 mm-item-content" style="width: 900px; display: none; top: 115px; left: 972px; height: auto;"><div class="mm-content-base">
+							<dl id="ondegree">
+                      <dd> <a href="http://bestcollegehunt.com/advices">Advices</a> </dd>
+					  <dd> <a href="http://bestcollegehunt.com/ask-questions">Ask</a> </dd>
+					  <dd> <a href="http://bestcollegehunt.com/blogs">Blogs</a> </dd>
+					  <dd> <a href="http://bestcollegehunt.com/all-experts">Experts/Educationist</a> </dd>
+					  <dd> <a href="#">Members</a> </dd>
+                  </dl>
+				</div>
+				</div>
+              </li>
+              <li class="clear-fix"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!--/********************************************************************/-->
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+var $c = jQuery.noConflict();	
+function callreg(str){
+	if(str==""){
+	closelogin_openreg();
+	}
+       else{
+		if(str=="member"){
+		closelogin_openreg();
+		}
+		else{
+		window.location.href='http://bestcollegehunt.com/registration?user='+str;
+		}
+	}
+}
+
+</script>
+
+<style>
+.privacy-policy-main h1{
+font-size:18px;
+font-weight:bold;
+margin:10px 0 0 30px;
+}
+.privacy-main-list li{
+font-size:14px;
+margin:0 10px 10px 0;
+padding:0;
+list-style:decimal outside;
+text-align:justify;
+}
+.privacy-main-list li p{
+text-align:justify;
+margin:5px 0 10px 0;
+}
+.privacy-main-list{
+margin:0 0 10px 30px !important;
+}
+.privacy-sub-list li{
+font-size:14px;
+margin:0 10px 10px 0;
+padding:0;
+list-style:lower-roman outside;
+}
+.privacy-sub-list{
+margin:0 10px 10px 20px!important;
+}
+.privacy-secsub-list li{
+font-size:14px;
+margin:0 0 10px 0;
+padding:0;
+list-style:lower-alpha outside;
+
+}
+.privacy-secsub-list{
+margin:0 0 10px 40px!important;
+}
+</style>
+
+<div class="wrapper" style=" width:1000px;">
+	<div class="wrapper-home">
+		<div class="privacy-policy-main" style="border:1px solid #eee;">
+<h1>Privacy Policy</h1>
+<ol class="privacy-main-list">
+<li><strong>ABOUT US</strong>
+	<p>Infosoftx Media Network , (division of Infosoftx IT services Pvt Ltd) is committed to your right to privacy and will only use your data as set in our Privacy Policy below. Please read this information carefully.</p> 
+	<p>The terms "we", "our" and "us" when used in this Privacy Policy means all and any of the above parties depending upon which website you are accessing. The terms "you" and "your" when used in this Privacy Policy means you as a user of one or more of our Websites.</p> 
+	<p>"Websites" means all and any of the websites in relation to the above companies including www colorofnation.com, www.timesofuniverse.com, www.bestcollegehunt.com,.		</p> 
+	<p>This Privacy Policy has been prepared to meet the requirements of the India’s Data Protection Act , (the "Act'"). By using our Websites and submitting information, you consent to the collection and use of your personal information by us as described in this Privacy Policy.</p> 
+	<p>Please read our Privacy Policy carefully to understand our views and practices regarding your personal information. This Privacy Policy (together with our Terms of Use and any other documents referred to in it) sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. If you have any questions or queries on this please contact us at the address outlined below.</p>
+	<p>We occasionally modify our Privacy Policy and will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Please check our Privacy Policy frequently to ensure that you are aware of any changes. </p>
+</li>	
+<li><strong>INFORMATION WE MAY COLLECT AND HOW WE USE IT</strong>
+<ol class="privacy-sub-list">
+	<li> <strong>We collect the following information about you when you use the Websites: </strong>
+		<ol class="privacy-secsub-list">
+			<li>information that you provide by filling in the forms on our Websites. We may collect personal information (for example your name, email address and postal address) when you register for an account with us or subscribe for any of our newsletters. We may also ask you for information when you report a problem with a Website;</li>
+			<li>correspondence, or a record of it if you should contact us;</li> 
+			<li>surveys that we may use for research purposes, which we have asked you to complete, although you do not have to respond to them; and </li>
+			<li>information collected by us as you use a Website. We collect and store information transmitted by your computer when you use our Websites. This may include your IP address, browser data and information we receive from cookies (please see section 6 below).</li>
+			
+		</ol>
+</li>
+<li><strong>We may use this information in the following ways:</strong>
+		<ol class="privacy-secsub-list">
+			<li>to provide our service(s) to you as a user of a Website, including enhancing your user experience;</li>
+			<li>to carry out our obligations arising from any contracts entered into between you and us;</li>
+			<li>to ensure that content from our Websites is presented in the most effective manner for you and your computer;</li>
+			<li>to identify you when you visit a Website including to assist with logging you in;</li>
+			<li>to notify you about changes to our Website;</li> 
+			<li>to help diagnose problems with our server and to administer a Website; </li>
+			<li>to provide you with newsletters and other information about features of our Website which we think may be of</li> interest to you and for related marketing purposes, if you have submitted your contact details to us for these purposes or otherwise provided your consent for us to do so; and
+			<li>for marketing third party products and services to you, if you have provided your consent for this.</li>
+		</ol>
+	</li>
+</ol>	
+</li><li><strong>YOUR CONSENT</strong>
+	<ol class="privacy-sub-list">
+		<li>By using our Website and submitting information to us, you consent to: 
+			<ol class="privacy-secsub-list">
+				 <li>the collection and use of your personal information by us as described in section 2 above; and</li>
+			 	<li>Us sharing data with third parties in accordance with section 4 below;</li>
+			</ol>	
+		</li>
+	</ol>
+</li>
+<li><strong>HOW WE SHARE YOUR INFORMATION</strong>
+	<ol class="privacy-sub-list">
+		<li>We may share your personal information with third parties in the following circumstances:
+			<ol class="privacy-secsub-list">
+				<li>for marketing purposes provided always that you consent to us sharing such information with third parties by notifying us via our Website or in other communications (e.g. by ticking the relevant box(es) on the Website at the point of registration);</li>
+				<li>to other members of our group, our partners and service providers (for example people who provide technical services to the Website) for the purpose of managing or administering certain aspects of our Website, or to help us develop new services;</li>
+				<li>if Infosoftx Media Network or substantially all of its assets are acquired by a third party, in which case personal data held by us about our customers will be one of the transferred assets; or</li>
+				<li>if we are under a duty to disclose or share your personal information in order to comply with any legal obligation and/or in order to enforce or apply any other agreements between us; or</li>
+				<li>to protect the rights, property or safety of us or other Website users. </li>
+			</ol>
+		</li>
+	</ol>
+</li>
+<li><strong>YOUR RIGHTS - MARKETING</strong>
+	<ol class="privacy-sub-list">
+		<li>You will only receive marketing communications from us and/or third parties if you have consented to this when you provided your contact details to us (or if you have otherwise given consent to us for these purposes).</li>
+		<li>You have the right to ask us not to use your personal data for marketing purposes. You can request that you stop receiving information from us at any time by writing to us at please write contact@bestcollegehunt.com</li>
+	</ol>
+</li>
+<li><strong>IP ADDRESSES AND COOKIES</strong>
+	<ol class="privacy-sub-list">
+		<li>'Cookies' are small pieces of information that are stored by your browser on your computer's hard drive. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that. We only use cookies to keep track of the pages you and other visitors have been to on our Website and to tell us whether you have visited the Website previously in order to deliver a better service for example to store information about your preferences and to recognize you when you return to our Website.</li>
+		<li>To help you to understand the cookies that we use when you visit an our site, we have created a Cookie Policy to tell you about our cookies and how you may opt out of receiving them. Please click here to read our Cookie Policy.</li>
+	</ol>
+</li>
+<li><strong>DATA STORAGE</strong>
+	<ol class="privacy-sub-list">
+		<li>All information you provide to us is stored on our third party data hosting company’s secure servers. Where we have given you (or where you have chosen) a password or other data which enables you to access certain parts of a Website, you are responsible for keeping this password and any other log in details confidential and we recommend that you do not share your password or other log in details with anyone. You will be responsible for all activity under your user name/ log in details.
+		</li>
+		<li>The data that we collect from you may be transferred to, and stored at, a destination outside the India. It may also be processed by staff operating outside the India who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take reasonable steps to ensure that your data is treated securely and in accordance with this Privacy Policy.
+		</li>
+		<li>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
+		</li>
+	</ol>
+</li>
+<li><strong>ADVERTISERS</strong>
+In the event that we use third party advertisers or sponsors on a Website, we do not disclose identifiable information about individuals but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, men in New Delhi). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' and sponsors' wishes by displaying their advertisement to that target audience. For more on this, please see our Cookie Policy.
+</li>
+<li><strong>LINKS</strong>
+Please note that our Websites may from time to time contain links to and from other websites. If you follow a link to any of these websites please note that we are not responsible for the privacy practices or the content of such websites and the information practices of those websites are not covered by this Privacy Policy. Please check the individual privacy policy of any website before you submit any personal data to them.
+</li>
+<li>
+<strong>INFORMATION ACCESS</strong>
+You have certain rights to access information held about you and you can do this by writing to us at contact@bestcollegehunt.com Any access request may be subject to a fee  to meet our costs in providing you with details of the information we hold about you. You can also request us to correct any factual inaccuracies in information we hold or delete any of that information from our records.
+</li>
+</ol>
+</div>
+</div>
+</div>
+
+
+								
+<div class="footer-home ">
+									<div class="wrapper">
+										<div class="wrapper-home"> 		
+										   <div class="footer-main ovr">
+									         <div class="footer-left">
+											 	<div class="footer-top-main">
+													<div class="footer-top">
+														<ul class="ftm">
+															<li><a href="http://bestcollegehunt.com/medical/">Medical</a></li>
+															<li><a href="http://bestcollegehunt.com/engineering/">Engineering</a></li>
+															<li><a href="http://bestcollegehunt.com/mba/">Management</a></li>
+															<li><a href="http://bestcollegehunt.com/online/">Online</a></li>
+															<li><a href="http://bestcollegehunt.com/research/">Research</a></li>
+															<li><a href="http://bestcollegehunt.com/law/">law</a></li>
+															<li><a href="http://bestcollegehunt.com/degree/">Degree</a></li>
+															<li><a href="http://bestcollegehunt.com/diploma/">Diploma</a></li>
+														</ul>
+														<div class="footer-bottom-links ovr">
+															                  				                       <div class="footer-middle-home-1 footcommon">
+																	<h3 class="footcolor">Top Universities</h3>
+																	<ul class="foottop">
+																	<li><a href="http://bestcollegehunt.com/university/manipal-university-manipal"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Manipal University</a></li>
+																							<li><a href="http://bestcollegehunt.com/university/anna-university-chennai"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Anna University</a></li>
+																							<li><a href="http://bestcollegehunt.com/university/amityuniversitylucknowuttarpradesh"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Amity University </a></li>
+																							<li><a href="http://bestcollegehunt.com/university/national-institute-of-technology-calicut"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>NIT,Calicut</a></li>
+																							<li><a href="http://bestcollegehunt.com/university/indian-institute-of-technology-delhi"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>IIT,Delhi</a></li>
+																							<li><a href="http://bestcollegehunt.com/university/indian-institute-of-technology-kanpur"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>IIT,Kanpur</a></li>
+																							<li><a href="http://bestcollegehunt.com/university/indian-institute-of-technology-iit-kharagpur"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>IIT,Kharagpur</a></li>
+																							<li><a href="http://bestcollegehunt.com/university/indian-institute-of-technology-madras"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>IIT, Madras</a></li>																							
+																							
+											</ul>
+									
+														</div> 
+														
+														
+														<div class="footer-middle-home-3 footcommon">
+																	<h3 class="footcolor">Best Colleges in India</h3>
+																	<ul class="foottop">
+																		<li>
+																			<a href="http://bestcollegehunt.com/engineering/"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Engineering</a>
+																		</li>
+																		<li>
+																			<a href="http://bestcollegehunt.com/medical/"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Medical</a>
+																		</li>
+																		<li>
+																			<a href="http://bestcollegehunt.com/mba/"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>MBA</a>
+																		</li>
+																		<li>
+																			<a href="http://bestcollegehunt.com/online/"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Online</a>
+																		</li>
+																		<li>
+																			<a href="http://bestcollegehunt.com/law/"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Law</a>
+																		</li>
+																		
+																		<li>
+																			<a href="http://bestcollegehunt.com/degree/"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Degree</a>
+																		</li>
+																		<li>
+																			<a href="http://bestcollegehunt.com/diploma/"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Diploma</a>
+																		</li>
+																		<li>
+																			<a href="http://bestcollegehunt.com/research/"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Research</a>
+																		</li>
+																		
+																	</ul>
+								
+				
+														</div>
+														<div class="footer-middle-home-2 footcommon">
+															<h3 class="footcolor">Study Abroad</h3>
+																	<ul class="foottop">
+																																		  <li><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-usa" title=""><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>USA</a></li>
+																  																  <li><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-australia" title=""><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Australia</a></li>
+																  																  <li><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-germany" title=""><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Germany</a></li>
+																  																  <li><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-russia" title=""><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Russia</a></li>
+																  																  <li><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-united-kingdom" title=""><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>United Kingdom</a></li>
+																  																  <li><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-denmark" title=""><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Denmark</a></li>
+																  																  <li><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-south-africa" title=""><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>South Africa</a></li>
+																  																  <li><a href="http://bestcollegehunt.com/study-abroad/facts-in-nutshell-new-zealand" title=""><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>New Zealand</a></li>
+																  																		
+																	</ul>
+														</div> 
+				 
+														
+														<div class="footer-middle-home-4 footcommon">
+																<h3 class="footcolor">Popular Courses</h3>
+																<ul class="foottop">
+																	
+																	<li>
+																		<a href="http://bestcollegehunt.com/online/"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Online Courses</a>
+																	</li>
+																	<li>
+																		<a href="http://bestcollegehunt.com/mba/courses/agribusiness-management"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>MBA Courses</a>
+																	</li>
+																	<li>
+																		<a href="http://bestcollegehunt.com/law/courses/ballb"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Law Courses</a>
+																	</li>
+																	<li>
+																		<a href="http://bestcollegehunt.com/medical/courses/nursing-science"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Nursing Courses</a>
+																	</li>
+																	<li>
+																		<a href="http://bestcollegehunt.com/research/"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Ph.D</a>
+																	</li>
+																	<li>
+																		<a href="http://bestcollegehunt.com/degree/courses/master-of-computer-applications-mca"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>MCA </a>
+																	</li>
+																	<li>
+																		<a href="http://bestcollegehunt.com/medical/"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Medical</a>
+																	</li>
+																	<li>
+																		<a href="http://bestcollegehunt.com/medical/courses/bachelor-of-dental-surgery"><i class="fa fa-caret-right" style="font-sise:14px;margin:0 10px 0 0;"></i>Dental Courses</a>
+																	</li>
+																</ul>
+					
+														</div> 
+														
+														
+												   		 </div>	
+												    </div>
+													
+													
+											    </div>	
+												
+												
+											 </div>
+											  <div class="footer-right">
+											  	<div class="top-courses  ovr">
+											<!--	<p> 
+												 <a href="http://validator.w3.org/check?uri=referer"><img
+      src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a></p>-->
+	  </div>
+
+
+<div class="add-ur-college " onclick="aaaaaaaaa()" style="cursor:pointer;"><img style="margin:5px 0;" src="http://bestcollegehunt.com/images/addclg.jpg" width="244" height="58" alt="world top university"></div>
+												
+												<div class="follow">
+												
+												
+												
+														<h3>Follow US On</h3>
+ 
+
+														<p>
+														<a href="https://www.facebook.com/bestcollegehunt">
+														<img height="25" width="25" src="http://bestcollegehunt.com/images/ico/fb.png" alt="fb">
+														</a>
+														<a href="https://twitter.com/bestcollegehunt">
+														<img height="25" width="25" src="http://bestcollegehunt.com/images/ico/tt.png" alt="tw">
+														</a>
+														<a href="http://www.linkedin.com/company/infosoftx/best-college-hunt-1637096/product?trk=biz_product">
+														<img height="25" width="25" src="http://bestcollegehunt.com/images/ico/lk.png" alt="ln">
+														</a>
+														<a href="http://www.bestcollegehunt.com/?format=feed &amp;type='rss'">
+														<img height="25" width="25" src="http://bestcollegehunt.com/images/ico/rs.png" alt="rss">
+														</a>
+														</p>
+
+												
+
+												</div>
+												
+												<div class="newsletter ">
+													 <form action="http://bestcollegehunt.com/action.php?act=act_subscribe" method="post">
+														<input type="text" id="email" value="Subscribe" class="seach_tbox" name="sl_email">
+
+														
+														<input type="submit" value="Subscribe" id="news-subscription">
+<script type="text/javascript">
+var Val_email = new LiveValidation('email');	
+Val_email.add( Validate.Presence );	
+Val_email.add( Validate.Email );				
+</script>
+<script type="text/javascript">
+	var t = document.getElementById('email');
+	t.onfocus = hideText;
+	t.onblur = showText;
+	
+	function hideText() {
+	if(this.value == this.defaultValue) {
+	this.value = '';
+	}
+	}
+	 
+	function showText() {
+	if(this.value == '') {
+	this.value = this.defaultValue;
+	}
+	}
+	function aaaaaaaaa(){
+		window.location.href="http://bestcollegehunt.com/add-your-college";
+	}
+	function gotolocation(){
+		window.location.href="http://bestcollegehunt.com/top-indian-universities";
+	}
+
+	var $adcounter = jQuery.noConflict();
+	$adcounter(document).on("click",".bch_ad_click",function(){
+		$adcounter.post('http://bestcollegehunt.com/administrator/pages/ad_counter.php?adcnt='+$adcounter(this).attr('id'));
+	})
+
+</script>
+</form>
+<div class="footerAd" style="margin-left:-5px;">
+<script type="text/javascript">
+  ( function() {
+    if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
+    var unit = {"calltype":"async[2]","publisher":"Nusrath","width":248,"height":150,"sid":"Chitika Default"};
+    var placement_id = window.CHITIKA.units.length;
+    window.CHITIKA.units.push(unit);
+    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
+}());
+</script><div id="chitikaAdBlock-0"></div>
+<script type="text/javascript" src="//cdn.chitika.net/getads.js" async=""></script>
+</div>
+									
+													
+													
+												 </div>	
+											  </div>
+										  </div>
+									    </div>
+									 </div>
+									 <div class="footer-copyright">
+									 	<div class="wrapper">
+											<div class="wrapper-home"> 
+												<ul id="copy-menu">
+													<li><a id="spli" href="http://bestcollegehunt.com/about-us">About Us</a></li>
+													<li><a href="http://bestcollegehunt.com/forum">Forum</a></li>
+													<li><a href="http://bestcollegehunt.com/article-list/all" title="Articles">Blogs</a></li>
+													<li><a href="http://bestcollegehunt.com/write-for-us">Write For Us</a></li>
+													<li><a href="http://bestcollegehunt.com/review">Write A Review</a></li>
+													<li><a href="http://bestcollegehunt.com/students-testimonial">Testimonials</a></li>
+													<li><a href="http://bestcollegehunt.com/contact-us">Contact Us</a></li>
+													<li><a href="http://bestcollegehunt.com/terms-conditions">Terms &amp; Condition</a></li>
+													<li><a href="http://bestcollegehunt.com/privacy-policy">Privacy Policy</a></li>
+													<li><a href="http://bestcollegehunt.com/cookie-policy">Cookie Policy</a></li>
+<li><a href="http://bestcollegehunt.com/advertise"> Advertise With Us</a></li>
+
+
+								 				 </ul>
+												<h3>©2014 Bestcollegehunt.com. All rights reserved.<a href="http://infosoftx.com" target="_blank" class="cwhite fr">Designed and Developed by Infosoftx.com</a></h3>
+	<div style="margin:5px 0 5px 14px;" class="n-foot-top ovr">
+            <a href="http://infosoftx-media.com" target="_blank" class="special_footer_highlight fl">INFOSOFTX-MEDIA NETWORK</a> 
+			<div class="addtnl_proj_links fl">
+				<a href="http://bestcollegehunt.com" target="_blank" class="addtnl_proj_link_sub">BESTCOLLEGEHUNT.COM<span class="footer_links_s_seperator">|</span></a>
+				<a href="http://colorofnation.com" target="_blank" class="addtnl_proj_link_sub">COLOROFNATION.COM<span class="footer_links_s_seperator">|</span></a>
+				<a href="http://timesofuniverse.com" target="_blank" class="addtnl_proj_link_sub">TIMESOFUNIVERSE.COM<span class="footer_links_s_seperator">|</span></a>
+				<a href="http://themangaloretimes.com" target="_blank" class="addtnl_proj_link_sub">THEMANGALORETIMES.COM<span class="footer_links_s_seperator">|</span></a>
+				<a href="" target="_blank" class="addtnl_proj_link_sub">BESTPROPERTYHUNT.COM</a>
+			</div>
+        </div>
+												 
+													
+											</div>
+										</div>
+											
+									 </div>	  
+								 
+								</div>
+							</div>
+</div>
+					<!--	</div>
+					</div> -->
+                <!-- Main wrapper ends -->	
+
+
+
+         
+
+	
+
+</body></html>
