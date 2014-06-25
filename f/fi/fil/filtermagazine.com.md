@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filtermagazine.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214032311id_/http%3A//filtermagazine.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filtermagazine.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050206id_/http%3A//filtermagazine.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # FILTER Magazine - Privacy Policy
 
