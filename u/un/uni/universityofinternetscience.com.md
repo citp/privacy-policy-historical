@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universityofinternetscience.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208235518id_/http%3A//universityofinternetscience.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universityofinternetscience.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625144841id_/http%3A//universityofinternetscience.com/privacy.html) for the most accurate reproduction.*
 
 # University Of Internet Science
 
