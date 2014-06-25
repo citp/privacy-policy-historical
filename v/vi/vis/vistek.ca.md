@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210051157id_/http%3A//www.vistek.ca/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091009id_/http%3A//www.vistek.ca/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Statement - Vistek Camera Store - Toronto, Calgary Canada
 
@@ -43,6 +43,15 @@ If you have any questions about the security at our website, you can send an ema
 ### Supplementation of Information
 
 In order for this website to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources.
+
+### Cookies
+
+As you browse Vistek’s website, advertising cookies will be placed on your computer so that we can understand what you are interested in.  Our display advertising partner, [AdRoll](https://www.adroll.com/), then enables us to present you with retargeting advertising on other sites based on your previous interaction with Vistek’s website. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.  You can visit this [page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising. 
+
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the vistek website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can  
+[opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
 
 ### Notification of Changes
 
