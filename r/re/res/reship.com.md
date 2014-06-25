@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reship.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127180350id_/http%3A//www.reship.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reship.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070129id_/http%3A//www.reship.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@
 **INFORMATION COLLECTION AND USE  
 **
 
-This privacy policy applies to [http://www.reship.com](http://www.reship.com/)  owned and operated by Orbital Marketing (“Reship”). This privacy policy describes how Reship collects and uses the personal information you provide on our web site: [http://www.reship.com](http://www.reship.com/) . It also describes the choices available toyou regarding our use of your personal information and how you can access and update this information.   
+This privacy policy applies to [http://www.reship.com](http://www.reship.com/)  owned and operated by Monark Media Ventures (“Reship”). This privacy policy describes how Reship collects and uses the personal information you provide on our web site: [http://www.reship.com](http://www.reship.com/) . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.   
 
 
 **Collection and Use of Personal Information  
