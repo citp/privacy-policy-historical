@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsfascination.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219174427id_/http%3A//sportsfascination.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsfascination.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080931id_/http%3A//sportsfascination.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SportsFascination
+# SportsFascinationPrivacy Policy | SportsFascination
 
 Hutch Media, LLC knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -32,7 +32,11 @@ The ”help” portion of the toolbar on the majority of browsers will dire
 
 Third Party Advertising – Ad Choices
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. **If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here](http://www.networkadvertising.org/choices/).**
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and otherwebsites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+**If you would like more information about this practice and to know your choices about not having this information used by these companies,<http://www.networkadvertising.org/managing/opt_out.asp>.**
+
+Hutch Media, LLC allows Magnetic to monitor Hutch Media, LLC affiliated sites for the purpose of reporting website traffic, statistics, advertisements, “click-throughs” and/or other activities, and such Magnetic may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Hutch Media, LLC users. For further information about Magnetic’s search re-targeting product, Magnetic’s homepage on the Web is located at http://www.magnetic.is. The full text of Magnetic’s privacy policy is available on the Web at http://privacy.magnetic.is. Magnetic may allow third parties to monitor Magnetic associated sites for the purpose of reporting website traffic, statistics, advertisements, “click-throughs” and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Magnetic users. Users may go to http://magnetic.is for information on what is being tracked. Users may go to http://privacy.magnetic.is/w3c/optout.html for information on how to opt-in or opt-out of use of their information by Magnetic and may go to http://www.networkadvertising.org/managing/opt_out.asp to opt-out of most third party tracking.
 
 Sharing Your Information
 
@@ -62,4 +66,4 @@ If you decide to visit Hutch Media, LLC website, your visit and any possible dis
 
 Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of June 24, 2011 and last updated July 27, 2012.
+This Privacy Policy is effective as of June 24, 2011 and last updated February 25, 2014.
