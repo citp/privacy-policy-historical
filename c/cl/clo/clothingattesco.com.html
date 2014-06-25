@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the clothingattesco.com privacy policy that was archived on 2013-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131203071808id_/http%3A//www.clothingattesco.com/privacy/privacy-policy/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clothingattesco.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625115409id_/http%3A//www.clothingattesco.com/privacy/privacy-policy/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="hasJS"><!--<![endif]--><head>
+<meta name="p:domain_verify" content="11caa0c5ba44ed229798de8cef06ba4e">
 <title>
 
 
@@ -53,8 +54,8 @@ Clothing at Tesco | privacy policy
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="http://www.clothingattesco.com/content/ebiz/clothingattesco/resources/css/styles.css?v=186" type="text/css" media="all">
-<link rel="stylesheet" href="http://www.clothingattesco.com/content/ebiz/clothingattesco/resources/css/external/jqueryui.css?v=2" type="text/css" media="all">
+<link rel="stylesheet" href="http://www.clothingattesco.com/content/ebiz/clothingattesco/resources/css/styles.css?v=188" type="text/css" media="all">
+<link rel="stylesheet" href="http://www.clothingattesco.com/content/ebiz/clothingattesco/resources/css/external/jqueryui.css?v=3" type="text/css" media="all">
 
 <script type="text/javascript" src="http://www.clothingattesco.com/content/ebiz/clothingattesco/resources/js/external/jquery-1.8.2.min.js"></script>
 <script type="text/javascript" src="http://www.clothingattesco.com/content/ebiz/clothingattesco/resources/js/Venda.js"></script>
@@ -121,7 +122,7 @@ window.tencmsInvokeAction=function(data,areaID,context){
    /* ----- Left Nav ----- */
  $('#col-one a, .cc-left a').click(function() {
 	    var linkText = $(this).text();
-		_gaq.push(['_trackEvent','Left Navigation','',linkText]);
+		_gaq.push(["_trackEvent","Left Navigation","",linkText]);
    });
    
    /* ----- Header ----- */
@@ -227,6 +228,14 @@ window.tencmsInvokeAction=function(data,areaID,context){
              linkText = "Outfit PDP";
           } 
 		_gaq.push(['_trackEvent',linkText,'Full Screen',' _ ']);
+   });
+   
+   $('#Single-PDP #video-player, #Outfit-PDP #video-player').click(function() {
+	   var linkText = "Single PDP";
+	   if ($(this).is('#Outfit-PDP #video-player')){
+             linkText = "Outfit PDP";
+          } 
+		_gaq.push(['_trackEvent',linkText,'Catwalk',' _ ']);
    });
    
    $('#Single-PDP #spin360, #Outfit-PDP #spin360').click(function() {
@@ -339,10 +348,23 @@ window.tencmsInvokeAction=function(data,areaID,context){
           }
 		_gaq.push(['_trackEvent',selectorText,'Other Customers Bought Product']); 
    });
+   
+   $('.searchspecificbanner .catHeader a, .searchspecificbanner .catHeaderwithrightimage a, .searchspecificbanner .sale_catHeader .sale a').click(function() {
+        var linkText = $(this).text();
+		var reducedTextGA =  linkText.substr(0, linkText.lastIndexOf(' ')); 
+	    _gaq.push(['_trackEvent',tcatText,'Buylist Header Links',reducedTextGA]);
+    });
+	
+	$('.school-embroidery-service .notOnList a.skyblue, .school-seeling-points-column-2 .school-shop-links a').click(function() {
+        var linkText = $(this).attr("title");
+		if ($(this).is('.school-embroidery-service .notOnList a.skyblue')){
+                   linkText = $(this).text();
+          }
+		_gaq.push(['_trackEvent',tcatText,linkText]);
+    });
   
 });
-</script>
-				
+</script>				
 </head>
 
 <body id="page_privacy" class="page">
@@ -439,11 +461,7 @@ function popitup(url) {
 
 
 <div class="header-right-links">
-	<p class="welcomemsg">Welcome to F&amp;F</p>
-	<div class="linktocontactus"><a href="http://www.clothingattesco.com/contact-us/contact-us/page/contact">Contact</a></div>
-	<div class="helplink"><a rel="popup" target="_blank" title="Help - open in a new window" href="http://www.clothingattesco.com/help-cat/help/page/help">Help</a></div>
-	<p class="ratethispage"><a class="rateThisPage" href="javascript:void(0);" onclick="oo_feedback.show()">Website feedback</a></p>
-	
+	<p class="welcomemsg"></p>
 	<ul class="loginlogoutlinks" id="ustypelinks">
 		
 		
@@ -451,9 +469,166 @@ function popitup(url) {
 			<li class="login loginout"><a href="https://www.clothingattesco.com/bin/venda?ex=co_wizr-register&amp;bsref=clothingattesco">Sign in | Register</a></li>
 				
 	</ul>
+	<div class="regionlang-switch regionlang-flag">
+    <div class="box-body">
+    <a href="#" id="flag" class="flag"><span class="flag-img"><img src="/content/ebiz/clothingattesco/page/country-select/ukflag.png"></span><span class="icon-caret-down"><img src="/content/ebiz/clothingattesco/page/country-select/venda_header-search.png"></span></a>
+    </div>
+
+    <div id="regionLangContent" class="flag-content">
+    <span class="r"></span>
+    <ul class="region-list">
+    <li><a href="/page/home" class="button ukdefault"><span><img src="/content/ebiz/clothingattesco/page/country-select/ukflag.png"></span>UK</a></li>
+    <li><a href="//www.f-f.com/ie" class="button"><span><img src="/content/ebiz/clothingattesco/page/country-select/irflag.png"></span>Ireland</a></li>
+    </ul>
+    </div>
+</div>
+<style>
+.Lmainlogo, .mainLogo {
+    padding: 23px 38px 0px 0px;
+}
+.Lcat_headerrightlink, .header-right-links {
+width: 550px;
+height: 25px;
+position: relative;
+top: 31px;
+font-family: helvetica;
+padding: 0;
+margin: 0;
+font-size:12px;
+float:left;
+}
+p.Lwelcome, .welcomemsg {
+padding: 0;
+margin: 0;
+width: 339px;
+}
+ul#ustypelinks li.login {
+     padding-left: 34px;
+}
+.Lcat_headercenter, .header-center {
+    margin: 0px;
+    padding: 0px;
+    top: 31px;
+}
+.Lcat_headerright, .header-right {
+    margin: -3px 0px 5px;
+    position: relative;
+}
+.header-right {
+    float:right;
+}
+ul.Lustypelinks li.logout a, ul.loginlogoutlinks li.logout a {
+    padding: 0px 15px 0px 10px;
+    border-left: 1px solid #E5E5E5;
+}
+ul#ustypelinks li {
+    margin:0;
+}
+#termtextkeywordsearch {border: 1px solid #d6d6d6; width: 298px;}
+#header .locaytasearch #formlocaytasearch #searchsubmit {
+   left: 280px;
+   position: relative;
+   top: -23px;
+}
+.mainLogo {width: 129px;}
+ul#ustypelinks {
+    margin: 0px 0px 17px;
+    padding: 0;
+    float:left;
+    border-right: 1px solid #e5e5e5;
+}
+.header-country-select {
+   float:left;
+}
+.regionlang-switch {
+border: 1px solid transparent;
+height: 25px;
+margin: -5px 0 0 0;
+float: right;
+}
+.box-body {
+padding: 5px 15px 5px 5px;
+}
+span.r {
+ width: 68px;
+height: 2px;
+background: #fff;
+float: right;
+display: block;
+border: 1px solid #fff;
+position: relative;
+top: -2px;
+}
+.flag-content {
+background: #FFF;
+border: 1px solid #e5e5e5;
+display: none;
+position: absolute;
+right: 0px;
+top: 20px;
+z-index: 1001;
+font-size: 12px;
+padding:0 0 5px;
+width: 115px;
+}
+.region-list {
+list-style: none;
+}
+.flag-content .region li {
+margin: 5px 0;
+width: 70px;
+}
+#regionLangContent .button {
+margin: 2px 7px 0;
+text-align: left;
+min-width: 70px; 
+line-height: 15px;
+background:#fff;
+color:#000 !important;
+font-family: helvetica;
+font-size:13px;
+text-transform: none;
+width: 70px;
+}
+#regionLangContent .ukdefault {background-color: #e5e5e5;}
+#regionLangContent .button span {padding-right:7px;}
+#regionLangContent .button:hover {
+background-color: #e5e5e5;
+}
+.flag-img {
+width: 15px;
+margin: 0px 7px 0px 17px;
+height: 10px;
+display: block;
+float: left;
+}
+.flag-img img, #regionLangContent .button img {
+border: 1px solid #E5E5E5;
+}
+.icon-caret-down {
+float:left;
+line-height:10px;
+}
+</style>
+<script language="JavaScript">
+$(function() {
+   $('.flag').click(function () {
+          $('.flag-content').css('display','block');
+         return false;
+      });
+   
+   $('.regionlang-flag, .flag-content').mouseover (function () {
+          $('.regionlang-switch').css('border-color','#e5e5e5');
+          $('.flag-content').css('display','block');
+   });
+   $('.regionlang-flag, .flag-content').mouseout(function () {
+          $('.regionlang-switch').css('border-color','transparent');
+          $('.flag-content').css('display','none');
+      });
+});
+</script>
+
 	
-	<div class="Linternalimage linktostorelocator"><a href="http://www.tesco.com/storeLocator/" rel="popup" target="_blank" title="Store locator - opens in a new window">Store locator</a></div>
-	<div class="linktotesco"><a href="http://www.tesco.com/" target="_blank" title="Tesco.com">Tesco.com</a></div>
 </div>
 
 
@@ -515,9 +690,9 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 			<legend>Search Criteria</legend>
 						
 				<label for="termtextkeywordsearch">Keyword:</label>
-				<input type="text" name="termtextkeywordsearch" id="termtextkeywordsearch" size="20" value="Search product name or reference" onclick="if (this.value=='Search product name or reference'){this.value='';}">
+				<input type="text" name="termtextkeywordsearch" id="termtextkeywordsearch" size="20" value="" onclick="if (this.value==''){this.value='';}">
 			</fieldset>
-			<input type="image" name="searchsubmit" id="searchsubmit" src="http://www.clothingattesco.com/content/ebiz/clothingattesco/resources/images/bt_go_search.gif" alt="Search " onclick="if (termtextkeywordsearch.value=='Search product name or reference'){termtextkeywordsearch.value='';}">
+			<input type="image" name="searchsubmit" id="searchsubmit" src="/content/ebiz/clothingattesco/page/country-select/venda_locayta_search.png" alt="Search " onclick="if (termtextkeywordsearch.value=='Search product name or reference'){termtextkeywordsearch.value='';}">
 		</form>
 	</div>
 	
@@ -546,7 +721,12 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 </div>
 
 <div class="header-bottom">
-	<style>
+	<!-- 
+    :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+    ::::: LIVE TOP NAVIGATION
+    :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+    -->
+<style>
 .categorymenu {
     height: 27px;
     margin: 0 0 1px;
@@ -567,8 +747,9 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 .categorymenu .submenu {
     top: 27px !important;
 }
+.brand-flyout-img { height:145px !important; padding-top:18px; padding-bottom:10px;}
 .menu-inspire-img { height:162px !important;}
-.feature_img { padding:7px 0 5px 0; height:100px !important;}
+.feature_img { padding:0 0 10px 0; height:162px !important;}
 .giftsmenulink { height:144px !important;}
 .lspacing {padding:15px 0 0 0;}
 .no-gift-space {padding:0;}
@@ -587,110 +768,21 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
     position: absolute;
     top: 0;
 }
+#footer .copyright {
+    float: left;
+    padding: 22px 0 0;
+    width: 310px;
+}
+.wedeliverto {
+    margin: 10px 0 0 310px;
+ }
+.moveleftcat9 {
+    margin-left: -739px;
+}
 </style>
 <div class="categorymenu">
 	<ul id="fandfnavigation">
-        <!-- CHRISTMAS -->
-		<li class="cat-6 category-title" id="christmas">
-		<a href="http://www.clothingattesco.com/christmas/icat/christmas" id="topnavchristmas"><span>Christmas</span></a>
-		<div class="submenu col4 moveleftcat6">
-			<div>
-				<div class="refinement refinements-1">
-					<ul>
-						<li>
-						<div class="contentasset">
-							<!-- dwMarker="content" dwContentID="bc8ZwiaagdaUIaaac0zr2b41lN" -->
-							<ul>
-								<li class="menu-title-inline">Gifts for her</li>
-								<li><a href="http://www.clothingattesco.com/gifts-for-her/gifts-for-her/icat/gifts-for-women">All Gifts</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-her/bags+purses/icat/bags-and-purses">Bags &amp; Purses</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-her/character-clothing/icat/womens-character-clothing">Character</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-her/christmas-jumpers/icat/christmas-jumpers-womens">Christmas Jumpers</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-her/jewellery+watches/icat/womens-jewellery-watches">Jewellery &amp; Watches</a></li>
-								<li><a href="http://www.clothingattesco.com/gifts-for-her/lingerie/icat/lingerie">Lingerie</a></li>
-								<li><a href="http://www.clothingattesco.com/gifts-for-her/luxury-knitwear/icat/womens-luxury-knits">Luxury Knitwear</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-her/make-up/icat/makeup" style="text-transform:none;">Make-up</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-her/nightwear+slippers/icat/womens-nightwear-slippers">Nightwear &amp; slippers</a></li>
-								<li><a href="http://www.clothingattesco.com/gifts-for-her/christmas-novelty/icat/womens-christmas-novelty">Novelty</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-her/onesies/icat/womens-onesies">Onesies</a></li>
-								<li><a href="http://www.clothingattesco.com/gifts-for-her/stocking-fillers/icat/womens-stocking-fillers">Stocking Fillers</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-her/winter-accessories/icat/womens-winter-accessories">Winter Accessories</a></li>
-                             </ul>
-						</div>
-                        <!-- End contentasset -->
-						</li>
-					</ul>
-				</div>
-				<div class="refinement refinements-2">
-					<ul>
-						<li>
-						<div class="contentasset">
-							<!-- dwMarker="content" dwContentID="bc0bciaagdsrEaaac0Qb2b41lN" -->
-							<ul>
-								<li class="menu-title-inline">Gifts for him</li>
-								<li><a href="http://www.clothingattesco.com/gifts-for-him/gifts-for-men/icat/gifts-for-men">All Gifts</a></li>
-								<li><a href="http://www.clothingattesco.com/gifts-for-him/bags+wallets/icat/bags-and-wallets">Bags &amp; Wallets</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-him/mens-christmas-jumpers/icat/mens-christmas-jumpers">Christmas Jumpers</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-him/mens-luxury-knitwear/icat/mens-luxury-knits">Luxury Knitwear</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-him/nightwear+slippers/icat/mens-nightwear-slippers">Nightwear &amp; Slippers</a></li>
-								<li><a href="http://www.clothingattesco.com/gifts-for-him/novelty/icat/mens-christmas-novelty">Novelty</a></li>
-								<li><a href="http://www.clothingattesco.com/gifts-for-him/mens-onesies/icat/mens-onesies">Onesies</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-him/socks+underwear/icat/mens-socks-and-underwear">Socks &amp; Underwear</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-him/mens-stocking-fillers/icat/mens-stocking-fillers">Stocking Fillers</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-him/ties/icat/mens-ties">Ties &amp; Bow Ties</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-him/watches/icat/watches">Watches</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-him/winter-accessories/icat/mens-winter-accessories">Winter Accessories</a></li>
-							</ul>
-						</div>
-                        <!-- End contentasset -->
-						</li>
-					</ul>
-				</div>
-				<div class="refinement refinements-3">
-					<ul>
-						<li>
-						<div class="contentasset">
-							<!-- dwMarker="content" dwContentID="bcIDciaagdwgwaaac0Tr2b41lN" -->
-							<ul>
-								<li class="menu-title-inline">Gifts for kids</li>
-								<li><a href="http://www.clothingattesco.com/gifts-for-kids/gifts-for-kids/icat/gifts-for-kids">All Gifts</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-kids/character-clothing/icat/kids-character-clothing">Character</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-kids/kids-christmas-jumpers/icat/kids-xmas-jumpers">Christmas Jumpers</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-kids/gifts-for-baby/icat/gifts-for-babies">Gifts for baby</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-kids/gifts-for-boys/icat/gifts-for-boys">Gifts for boys</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-kids/gifts-for-girls/icat/gifts-for-girls">Gifts for girls</a></li>
-								<li><a href="http://www.clothingattesco.com/gifts-for-kids/nativity/icat/nativity-costumes">Nativity</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-kids/nightwear+slippers/icat/kids-nightwear-slippers">Nightwear &amp; Slippers</a></li>
-								<li><a href="http://www.clothingattesco.com/gifts-for-kids/novelty/icat/kids-christmas-novelty">Novelty</a></li>
-								<li><a href="http://www.clothingattesco.com/gifts-for-kids/onesies/icat/kids-xmas-onesies">Onesies</a></li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-kids/stocking-fillers/icat/kids-stocking-fillers">Stocking Fillers</a></li>
-								<li><a href="http://www.clothingattesco.com/gifts-for-kids/winter-accessories/icat/kids-winter-accessories">Winter Accessories</a></li>
-                            </ul>
-						</div>
-                        <!-- End contentasset -->
-						</li>
-					</ul>
-				</div>
-                <div class="refinement refinements-4 last">
-					<ul>
-						<li>
-						<div class="contentasset">
-							<!-- dwMarker="content" dwContentID="bcIDciaagdwgwaaac0Tr2b41lN" -->
-							<ul>
-								<li><a href="http://www.clothingattesco.com/christmas/gift-guide/icat/christmas-gift-guide">Gift guide</a></li>
-                                <li>&nbsp;</li>
-                                <li class="giftsmenulink"><a href="http://www.clothingattesco.com/partywear/icat/partywear" title="Partywear"><img src="/content/ebiz/clothingattesco/page/mainmenu/party_flyout_144_v1.jpg" border="0" width="144" height="144" alt="Partywear"></a></li>
-                            </ul>
-						</div>
-                        <!-- End contentasset -->
-						</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-		</li>
-		<!-- Christmas END -->
-		<!-- WOMENS -->
+        <!-- WOMENS -->
 		<li class="cat-1 category-title" id="catgwomens">
 		<a href="http://www.clothingattesco.com/women/icat/catgwomens" id="topnavwomen"> <span>Women</span></a>
 		<div class="submenu col3">
@@ -701,20 +793,12 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 						<div class="contentasset">
 							<!-- dwMarker="content" dwContentID="bgFIUiaagerb6aaad0tX2c41lN" -->
                             <ul>
-								<li class="menu-title-inline">Christmas</li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-her/christmas-jumpers/icat/christmas-jumpers-womens">Christmas Jumpers</a></li>
-                                <li><a href="http://www.clothingattesco.com/christmas/gifts-for-her/icat/gifts-for-her?utm_source=link">Gifts For Her</a></li>
-                                <li><a href="http://www.clothingattesco.com/partywear/womens-partywear/icat/womens-partywear">Partywear</a></li>
-                           </ul>
-							<div class="lower-divider">
-							</div>
-							<ul>
 								<li class="menu-title-inline">Highlights</li>
-                                <li><a href="http://www.clothingattesco.com/women/new-in-/icat/womens-new">New In</a></li>
+								<li><a href="http://www.clothingattesco.com/women/new-in-/icat/womens-new">New In</a></li>
 								<li><a href="/icat/catgoffers">Offers</a></li>
-                                <li><a href="http://www.clothingattesco.com/online-exclusives/icat/online-exclusives">Online Exclusives</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/-all-sale/icat/wm-sale">Sale</a></li>
-							</ul>
+                                <li><a href="http://www.clothingattesco.com/women/online-exclusives/icat/wm-online-exclusives">Online Exclusives</a></li>
+                                <li><a href="http://www.clothingattesco.com/sale/all-sale-womens/icat/wm-sale" style="color:#dd0934; font-weight: bold;">Sale</a></li>
+                            </ul>
 							<div class="lower-divider">
 							</div>
 							<ul>
@@ -723,16 +807,17 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 								<li><a href="http://www.clothingattesco.com/women/dresses/icat/womens-dresses">Dresses</a></li>
 								<li><a href="http://www.clothingattesco.com/women/jeans/icat/womens-jeans">Jeans</a></li>
 								<li><a href="http://www.clothingattesco.com/women/knitwear/icat/womens-knitwear">Knitwear </a></li>
-								<li><a href="http://www.clothingattesco.com/women/leggings/icat/wm-leggings">Leggings</a></li>
+								<li><a href="http://www.clothingattesco.com/women/leggings/icat/womens-leggings">Leggings</a></li>
 								<li><a href="http://www.clothingattesco.com/lingerie+underwear/icat/lingerie-shop">Lingerie</a></li>
 								<li><a href="http://www.clothingattesco.com/women/nightwear+slippers/icat/womens-nightwear">Nightwear &amp; Slippers</a></li>
-                                <li><a href="http://www.clothingattesco.com/onesies/icat/wm-onesies">Onesies</a></li>
-								<li><a href="http://www.clothingattesco.com/women/playsuits+jumpsuits/icat/womens-playsuits">Playsuits &amp; Jumpsuits</a></li>
-                                <li><a href="http://www.clothingattesco.com/women/all-shoes/icat/womens-footwear?utm_source=website&amp;utm_medium=clothinglink&amp;utm_campaign=wm-footwear">Shoes &amp; Boots</a></li>
-								<li><a href="http://www.clothingattesco.com/women/skirts/icat/womens-skirts">Skirts</a></li>
+                                <li><a href="http://www.clothingattesco.com/women/playsuits+jumpsuits/icat/womens-playsuits">Playsuits &amp; Jumpsuits</a></li>
+                                <li><a href="http://www.clothingattesco.com/women/shoes+boots/icat/womens-footwear?utm_source=website&amp;utm_medium=clothinglink&amp;utm_campaign=womens-footwear">Shoes &amp; Boots</a></li>
+								<li><a href="http://www.clothingattesco.com/women/shorts/icat/womens-shorts">Shorts</a></li>
+                                <li><a href="http://www.clothingattesco.com/women/skirts/icat/womens-skirts">Skirts</a></li>
+                                <li><a href="http://www.clothingattesco.com/lingerie+underwear/socks+tights/icat/womens-socks-and-hosiery?utm_source=website&amp;utm_medium=clothinglink&amp;utm_campaign=womens-socks-and-hosiery">Socks &amp; Tights</a></li>
 								<li><a href="http://www.clothingattesco.com/women/sportswear/icat/womens-sportswear">Sportswear</a></li>
 								<li><a href="http://www.clothingattesco.com/women/swimwear/icat/womens-swimwear">Swimwear</a></li>
-								<li><a href="http://www.clothingattesco.com/women/tops+t-shirts/icat/womens-tops-and-t-shirts">Tops &amp; T-shirts</a></li>
+								<li><a href="http://www.clothingattesco.com/women/tops+t-shirts/icat/womens-tops-and-t-shirts">Tops &amp; T-Shirts</a></li>
 								<li><a href="http://www.clothingattesco.com/women/trousers/icat/womens-trousers">Trousers</a></li>
 								<li><a href="http://www.clothingattesco.com/women/workwear+tailoring/icat/womens-tailoring">Workwear &amp; Tailoring</a></li>
 							</ul>
@@ -748,36 +833,32 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<!-- dwMarker="content" dwContentID="cgnGYiaagebo2aaad0wH2c41lN" -->
 							<ul>
 								<li class="menu-title-inline">Shoes &amp; accessories</li>
-								<li><a href="http://www.clothingattesco.com/accessories/icat/womens-accessories">Accessories</a></li>
-								<li><a href="http://www.clothingattesco.com/bags+purses/icat/wm-bags">Bags</a></li>
-                                <li><a href="http://www.clothingattesco.com/beauty/icat/all-beauty">Beauty</a></li>
-								<li><a href="http://www.clothingattesco.com/women/jewellery/icat/womens-jewellery">Jewellery</a></li>
-								<li><a href="http://www.clothingattesco.com/women/all-shoes/icat/womens-footwear">Shoes &amp; Boots</a></li>
-                                <li><a href="http://www.clothingattesco.com/slippers/icat/wm-slippers">Slippers</a></li>
-								<li><a href="http://www.clothingattesco.com/lingerie+underwear/socks+tights/icat/womens-socks-and-hosiery">Socks &amp; Tights</a></li>
+								<li><a href="http://www.clothingattesco.com/women/accessories/icat/womens-accessories">Accessories</a></li>
+								<li><a href="http://www.clothingattesco.com/women/bags+purses/icat/womens-bags-purses">Bags &amp; Purses</a></li>
+                                <li><a href="http://www.clothingattesco.com/women/shoes+boots/icat/womens-footwear?utm_source=website&amp;utm_medium=accessorieslink&amp;utm_campaign=womens-footwear">Shoes &amp; Boots</a></li>
+                                <li><a href="http://www.clothingattesco.com/women/slippers/icat/womens-slippers">Slippers</a></li>
+								<li><a href="http://www.clothingattesco.com/lingerie+underwear/socks+tights/icat/womens-socks-and-hosiery?utm_source=website&amp;utm_medium=accessorieslink&amp;utm_campaign=womens-socks-and-hosiery">Socks &amp; Tights</a></li>
 								<li><a href="http://www.clothingattesco.com/women/watches/icat/womens-watches">Watches</a></li>
 							</ul>
 							<div class="lower-divider">
 							</div>
 							<ul>
 								<li class="menu-title-inline">Shop by brand</li>
-                                <li><a href="http://www.clothingattesco.com/brands-/womens-brands/icat/womens-brands">All Women’s Brands</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/ax-paris/icat/ax-paris">AX Paris</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/curvy-kate-/icat/curvy-kate">Curvy Kate</a></li>
-                                <li><a href="http://www.clothingattesco.com/womens-brands/dare-2b/icat/wm-dare2b">Dare 2 B</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/elle-sport/icat/elle-sport">Elle Sport</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/emma-jane-maternity/icat/emma-jane">Emma Jane Maternity</a></li>
-								<li><a href="http://www.clothingattesco.com/womens-brands/f+f-limited-edition/icat/wm-f-and-f-ltd-edition">F&amp;F Limited Edition</a></li>
-								<li><a href="http://www.clothingattesco.com/womens-brands/f+f-true-16-28/icat/wm-true-18-28">F&amp;F True (16-28)</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/ice-blossom/icat/ice-blossom">Ice Blossom</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/julia/icat/julia">Julia</a></li>
-                                <li><a href="http://www.clothingattesco.com/womens-brands/just-sheepskin/icat/wm-just-sheepskin">Just Sheepskin</a></li>
-                                <li><a href="http://www.clothingattesco.com/womens-brands/regatta/icat/wm-regatta">Regatta</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/stella-morgan/icat/stella-and-isabel">Stella Morgan</a></li>
-                                <li><a href="http://www.clothingattesco.com/womens-brands/totes/icat/wm-totes">Totes</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/truffle/icat/truffle">Truffle</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/very-victoria/icat/very-victoria">Very Victoria</a></li>
-                           </ul>
+                                <li><a href="http://www.clothingattesco.com/brands-/womens-brands/icat/womens-brands">All Women's Brands</a></li>
+                                <li><a href="http://www.clothingattesco.com/womens-brands/ax-paris/icat/wm-ax-paris">AX Paris</a></li>
+                                <li><a href="http://www.clothingattesco.com/womens-cherokee/icat/wm-cherokee">Cherokee</a></li>
+								<li><a href="http://www.clothingattesco.com/womens-brands/dolcis/icat/wm-dolcis">Dolcis</a></li>
+                                <li><a href="http://www.clothingattesco.com/womens-brands/dunlop/icat/wm-dunlop">Dunlop</a></li>
+                                <li><a href="http://www.clothingattesco.com/womens-brands/heavenly-bump/icat/wm-heavenly-bump">Heavenly Bump</a></li>
+                                <li><a href="http://www.clothingattesco.com/womens-brands/hot-honi/icat/wm-hot-honi">Hot Honi</a></li>
+                                <li><a href="http://www.clothingattesco.com/womens-brands/ice-blossom/icat/wm-ice-blossom">Ice Blossom</a></li>
+                                <li><a href="http://www.clothingattesco.com/womens-brands/manfield/icat/wm-manfield">Manfield</a></li>
+                                <li><a href="http://www.clothingattesco.com/womens-brands/marie-meili/icat/wm-marie-meili">Marie Meili</a></li>
+                                <!--<li><a href="http://www.clothingattesco.com/womens-brands/oneill/icat/wm-o-neill">O'Neill</a></li>-->
+                                <li><a href="http://www.clothingattesco.com/womens-brands/playboy/icat/wm-playboy">Playboy</a></li>
+                                <li><a href="http://www.clothingattesco.com/all-brands/stella-morgan/icat/stella-and-isabel">Stella Morgan</a></li>
+                                <li><a href="http://www.clothingattesco.com/all-brands/truffle/icat/truffle">Truffle</a></li>
+                                </ul>
 						</div>
 						<!-- End contentasset -->
 						</li>
@@ -790,23 +871,26 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<!-- dwMarker="content" dwContentID="bc8ZwiaagdaUIaaac0zr2b41lN" -->
 							<ul>
 								<li class="menu-title-inline">Shop by range</li>
+								<li><a href="http://www.clothingattesco.com/women/festival/icat/womens-festival">Festival Essentials</a></li>
 								<li><a href="http://www.clothingattesco.com/holiday-shop/womens-holiday-shop/icat/womens-holiday-shop">Holiday Shop</a></li>
 								<li><a href="http://www.clothingattesco.com/lingerie+underwear/icat/lingerie-shop">Lingerie Shop</a></li>
 								<li><a href="http://www.clothingattesco.com/women/maternity-shop/icat/maternity-shop">Maternity Shop</a></li>
-								<li><a href="http://www.clothingattesco.com/occasionwear-shop/icat/evening-occasion-wear">Occasionwear Shop</a></li>
-                                <li><a href="http://www.clothingattesco.com/women/womens-outdoor-shop/icat/wm-outdoor">Outdoor Shop</a></li>
-                                <li><a href="http://www.clothingattesco.com/women/petite/icat/womens-tall-petite">Petite</a></li>
+								<li><a href="http://www.clothingattesco.com/wedding/icat/catgwedding">Wedding</a></li>
+                                <li><a href="http://www.clothingattesco.com/women/petite/icat/womens-petite">Petite</a></li>
 								<li><a href="http://www.clothingattesco.com/women/plus-size/icat/womens-plus">Plus Size</a></li>
+                                <li><a href="http://www.clothingattesco.com/women/tall/icat/womens-tall">Tall</a></li>
 							</ul>
 							<div class="lower-divider">
 							</div>
 							<ul>
 								<li class="menu-title-inline">Style inspiration</li>
-                                <li><a href="http://www.clothingattesco.com/inspire-me/inspire-me-landing-page/page/inspire-me">Inspire Me</a></li>
-								<li><a href="http://www.clothingattesco.com/in-the-press/icat/in-the-press?source=womans#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Womens">In The Press</a></li>
-								<li><a href="http://www.clothingattesco.com/tesco-magazine/icat/tesco-magazine">Tesco Magazine</a></li>
-								<li class="giftsmenulink lspacing"><a href="http://www.clothingattesco.com/christmas/gifts-for-her/icat/gifts-for-her?utm_source=stamp" class="rminsm" title="Gifts for her"><img src="/content/ebiz/clothingattesco/page/mainmenu/womens_nav_gifts.jpg" alt="Gifts for her"></a></li>
-							</ul>
+                               <!-- <li><a href="http://www.clothingattesco.com/inspire-me/f+f-magazine/icat/f-f-magazine#esp_cf=pdxtgender&esp_filter_pdxtgender=Women">F&amp;F Magazine</a></li>-->
+                                <li><a href="http://www.clothingattesco.com/inspire-me/hywi/page/hywi">How You're Wearing It</a></li>
+                                <li><a href="http://www.clothingattesco.com/in-the-press/icat/in-the-press?source=womans#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Women">In The Press</a></li>
+                            	<!--<li><a href="http://www.clothingattesco.com/tv-advert/icat/tv-advert">Summer TV Ad</a></li>
+                                <li><a href="http://www.clothingattesco.com/inspire-me/the-big-day/page/the-big-day">Video: Summer Event Dressing</a></li>-->
+                                <li class="menu-inspire-img"><a href="http://www.clothingattesco.com/inspire-me/inspire-me-landing-page/page/inspire-me" onclick="_gaq.push(['_trackEvent','Top Navigation','Inspire Me']);" title="Inspire-Me"><img src="http://i1.adis.ws/i/tesco/Shoe-edit" alt="The Shoe Edit"></a></li>
+                            </ul>
 						</div>
 						<!-- End contentasset -->
 						</li>
@@ -828,27 +912,27 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<!-- dwMarker="content" dwContentID="bc8ZwiaagdaUIaaac0zr2b41lN" -->
 							<ul>
 								<li class="menu-title-inline">Highlights</li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-her/lingerie/icat/lingerie">Lingerie Gifts</a></li>
-								<li><a href="http://www.clothingattesco.com/offers/3-for-2-womens-mix+match-knickers/icat/3-for-2-womens-lingerie">3 for 2 Knickers</a></li>
-                                <li><a href="http://www.clothingattesco.com/offers/2-for-ps2-womens-socks/icat/2-for-2-socks">2 for £2 Socks</a></li>
-                                <li><a href="http://www.clothingattesco.com/sale/lingerie/icat/wm-lingerie-sl">Sale</a></li>
-							</ul>
+                                <li><a href="http://www.clothingattesco.com/offers/2-for-ps2-womens-socks/icat/2-for-2-socks">2 For £2 Socks</a></li>		
+                                <li><a href="http://www.clothingattesco.com/offers/3-for-2-womens-mix+match-knickers/icat/3-for-2-womens-lingerie">3 For 2 Knickers</a></li>
+                                <li><a href="http://www.clothingattesco.com/lingerie+underwear/new-in/icat/lingerie-new">New In</a></li>
+                                <li><a href="http://www.clothingattesco.com/lingerie+underwear/online-exclusives/icat/lingerie-online-exclusive">Online Exclusives</a></li>
+                                <li><a href="http://www.clothingattesco.com/sale/womens-lingerie/icat/wm-lingerie-sl" style="color:#dd0934; font-weight: bold;">Sale</a></li>
+                            </ul>
 							<div class="lower-divider">
 							</div>
 							<ul>
 								<li class="menu-title-inline">Shop by product</li>
                                 <li><a href="http://www.clothingattesco.com/lingerie+underwear/bodies+babydolls/icat/bodies-and-babydolls">Bodies &amp; Babydolls</a></li>
 								<li><a href="http://www.clothingattesco.com/lingerie+underwear/bras/icat/bra">Bras</a></li>
-                                <li><a href="http://www.clothingattesco.com/lingerie+underwear/bridal-lingerie/icat/wm-bridal-lingerie">Bridal Lingerie</a></li>
-								<li><a href="http://www.clothingattesco.com/dd+-bras/icat/dd-bras">DD+ Bras</a></li>
+                                <li><a href="http://www.clothingattesco.com/lingerie+underwear/dd+-bras/icat/dd-bras">DD+ Bras</a></li>
 								<li><a href="http://www.clothingattesco.com/lingerie+underwear/knickers/icat/knickers">Knickers</a></li>
 								<li><a href="http://www.clothingattesco.com/lingerie-sets/icat/coord-lingerie">Lingerie Sets</a></li>
 								<li><a href="http://www.clothingattesco.com/lingerie+underwear/maternity+nursing/icat/mat-nursing">Maternity &amp; Nursing</a></li>
 								<li><a href="http://www.clothingattesco.com/women/nightwear+slippers/icat/womens-nightwear">Nightwear &amp; Slippers</a></li>
 								<li><a href="http://www.clothingattesco.com/lingerie+underwear/shapewear/icat/shapewear-shop">Shapewear</a></li>
 								<li><a href="http://www.clothingattesco.com/lingerie+underwear/socks+tights/icat/womens-socks-and-hosiery">Socks &amp; Tights</a></li>
-                                <li><a href="http://www.clothingattesco.com/lingerie+underwear/thermals/icat/thermals">Thermals</a></li>
-							</ul>
+                                <li><a href="http://www.clothingattesco.com/lingerie+underwear/bras/icat/bra#esp_cf=pdxtstyle&amp;esp_filter_pdxtstyle=Sports%20Bras&amp;esp_viewall=y">Sports Bras</a></li>
+                                </ul>
 						</div>
 						<!-- End contentasset -->
 						</li>
@@ -861,18 +945,18 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<!-- dwMarker="content" dwContentID="bc0bciaagdsrEaaac0Qb2b41lN" -->
 							<ul>
 								<li class="menu-title-inline">Shop by brand</li>
-								<li><a href="http://www.clothingattesco.com/brands-/curvy-kate-/icat/curvy-kate">Curvy Kate</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/emma-jane-maternity/icat/emma-jane">Emma Jane Maternity</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/gossard/icat/gossard">Gossard</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/panache/icat/panache">Panache</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/playtex/icat/playtex">Playtex</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/pretty-polly/icat/pretty-polly">Pretty Polly</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/proskins/icat/proskins">Proskins</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/maidenform/icat/maidenform">Maidenform</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/shock-absorber/icat/shock-absorber">Shock Absorber</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/trinny+susannah/icat/trinny-and-susannah">Trinny &amp; Susannah</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/very-victoria/icat/very-victoria">Very Victoria</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/wonderbra/icat/wonderbra">Wonderbra</a></li>
+								<li><a href="http://www.clothingattesco.com/all-brands/curvy-kate-/icat/curvy-kate">Curvy Kate</a></li>
+								<li><a href="http://www.clothingattesco.com/all-brands/emma-jane-maternity/icat/emma-jane">Emma Jane Maternity</a></li>
+								<li><a href="http://www.clothingattesco.com/all-brands/gossard/icat/gossard">Gossard</a></li>
+								<li><a href="http://www.clothingattesco.com/all-brands/panache/icat/panache">Panache</a></li>
+								<li><a href="http://www.clothingattesco.com/womens-brands/playboy/icat/wm-playboy">Playboy</a></li>
+                                <li><a href="http://www.clothingattesco.com/all-brands/playtex/icat/playtex">Playtex</a></li>
+								<li><a href="http://www.clothingattesco.com/all-brands/pretty-polly/icat/pretty-polly">Pretty Polly</a></li>
+                                <li><a href="http://www.clothingattesco.com/all-brands/proskins/icat/proskins">Proskins</a></li>
+								<li><a href="http://www.clothingattesco.com/all-brands/maidenform/icat/maidenform">Maidenform</a></li>
+								<li><a href="http://www.clothingattesco.com/all-brands/shock-absorber/icat/shock-absorber">Shock Absorber</a></li>
+								<li><a href="http://www.clothingattesco.com/all-brands/ultimo/icat/ultimo">Ultimo</a></li>
+                                <li><a href="http://www.clothingattesco.com/all-brands/wonderbra/icat/wonderbra">Wonderbra</a></li>
 							</ul>
 						</div>
 						<!-- End contentasset -->
@@ -887,10 +971,13 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<ul>
 								<li class="menu-title-inline">Style inspiration</li>
                                 <li><a href="#" class="bra-fit-video">Bra Fit Video</a></li>
-                                <li><a href="http://www.clothingattesco.com/inspire-me/lingerie-sos/page/partywear-solutions">Lingerie SOS</a></li>
+                                <li><a href="http://www.clothingattesco.com/inspire-me/the-perfect-range/page/the-perfect-range">The Perfect Range</a></li>
                                 <li><a href="http://www.clothingattesco.com/style-guides/lingerie-bra-style-guide/page/lingerie-bra-style-guide">Style Guide Bras</a></li>
 								<li><a href="http://www.clothingattesco.com/style-guides/lingerie-knickers-style-guide/page/knickers-style-guide">Style Guide Knickers</a></li>
-							</ul>
+                                <li><a href="http://www.clothingattesco.com/inspire-me/summer-lingerie-tips/page/summer-lingerie-tips">Summer Lingerie Tips</a></li>
+                                <li>&nbsp;</li>
+                                <li class="feature_img"><a href="http://www.clothingattesco.com/all-brands/gossard/icat/gossard" class="rminsm" title="Shop Gossard"><img src="/content/ebiz/clothingattesco/page/mainmenu/gossard_flyout.jpg" border="0" width="144" height="144"></a></li>
+                            </ul>
 						</div>
 						<!-- End contentasset -->
 						</li>
@@ -910,20 +997,12 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 						<li>
 						<div class="contentasset">
 							<!-- dwMarker="content" dwContentID="bc8ZwiaagdaUIaaac0zr2b41lN" -->
-							<ul>
-								<li class="menu-title-inline">Christmas</li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-him/mens-christmas-jumpers/icat/mens-christmas-jumpers">Christmas Jumpers</a></li>
-                                <li><a href="http://www.clothingattesco.com/christmas/gifts-for-him/icat/gifts-for-him?utm_source=link">Gifts For Him</a></li>
-                                <li><a href="http://www.clothingattesco.com/mens-partywear/icat/mens-partywear">Partywear</a></li>
-							</ul>
-							<div class="lower-divider">
-							</div>
-							<ul>
-								<li class="menu-title-inline">Highlights</li>
-								<li><a href="http://www.clothingattesco.com/men/new-in/icat/mens-new">New In</a></li>
-								<li><a href="http://www.clothingattesco.com/offers/icat/catgoffers#1">Offers</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/all-sale/icat/mn-sale">Sale</a></li>
-							</ul>
+                            <ul>
+								<li class="menu-title-inline">Highlights</li>                           
+                                <li><a href="http://www.clothingattesco.com/men/new-in/icat/mens-new">New In</a></li>
+                                <li><a href="http://www.clothingattesco.com/men/online-exclusives/icat/mn-online-exclusives">Online Exclusives</a></li>
+				                <li><a href="http://www.clothingattesco.com/sale/all-sale-mens/icat/mn-sale" style="color:#dd0934; font-weight: bold;">Sale</a></li>
+                            </ul>
 							<div class="lower-divider">
 							</div>
 							<ul>
@@ -933,16 +1012,16 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 								<li><a href="http://www.clothingattesco.com/men/jeans/icat/mens-jeans">Jeans</a></li>
 								<li><a href="http://www.clothingattesco.com/men/knitwear/icat/mens-knitwear">Knitwear</a></li>
 								<li><a href="http://www.clothingattesco.com/men/nightwear+slippers/icat/mens-nightwear">Nightwear &amp; Slippers</a></li>
-                                <li><a href="http://www.clothingattesco.com/mens-nightwear-collection/mens-onesies/icat/onesies-men">Onesies</a></li>
-                                <li><a href="http://www.clothingattesco.com/men/all-shoes/icat/mens-footwear?utm_source=website&amp;utm_medium=clothinglink&amp;utm_campaign=mn-footwear">Shoes &amp; Boots</a></li>
-								<li><a href="http://www.clothingattesco.com/men/shorts/icat/mens-shorts">Shorts</a></li>
+                                <li><a href="http://www.clothingattesco.com/men/shoes+boots/icat/mens-footwear?utm_source=website&amp;utm_medium=clothinglink&amp;utm_campaign=mn-footwear">Shoes &amp; Boots</a></li>
+                                <li><a href="http://www.clothingattesco.com/men/shorts/icat/mens-shorts">Shorts</a></li>
 								<li><a href="http://www.clothingattesco.com/men/smart-shirts+ties/icat/mens-shirts-and-ties">Smart Shirts &amp; Ties</a></li>
+                                <li><a href="http://www.clothingattesco.com/men/socks/icat/mens-socks?utm_source=website&amp;utm_medium=clothinglink&amp;utm_campaign=mens-socks">Socks</a></li>
 								<li><a href="http://www.clothingattesco.com/men/sportswear/icat/mens-sportswear">Sportswear</a></li>
 								<li><a href="http://www.clothingattesco.com/men/suits+tailoring/icat/mens-tailoring">Suits &amp; Tailoring</a></li>
 								<li><a href="http://www.clothingattesco.com/men/swimwear/icat/mens-swimwear">Swimwear</a></li>
 								<li><a href="http://www.clothingattesco.com/men/tops-t-shirts+hoodies/icat/mens-tops-and-t-shirts">Tops, T-Shirts &amp; Hoodies</a></li>
 								<li><a href="http://www.clothingattesco.com/men/trousers/icat/mens-trousers">Trousers &amp; Chinos</a></li>
-                                <li><a href="http://www.clothingattesco.com/tuxedos/icat/tuxedos-mens">Tuxedos</a></li>
+                                <li><a href="http://www.clothingattesco.com/men/tuxedos+prom-suits/icat/tuxedos-mens">Tuxedos &amp; prom suits</a></li>
 								<li><a href="http://www.clothingattesco.com/men/underwear/icat/mens-underwear">Underwear</a></li>
 							</ul>
 						</div>
@@ -958,30 +1037,31 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<ul>
 								<li class="menu-title-inline">Shoes &amp; accessories</li>
 								<li><a href="http://www.clothingattesco.com/men/accessories/icat/mens-accessories">Accessories</a></li>
-								<li><a href="http://www.clothingattesco.com/men/all-shoes/icat/mens-footwear">Shoes &amp; Boots</a></li>
-                                <li><a href="http://www.clothingattesco.com/slippers/icat/mn-slippers">Slippers</a></li>
-								<li><a href="http://www.clothingattesco.com/men/socks/icat/mens-socks">Socks</a></li>
+                                <li><a href="http://www.clothingattesco.com/men/belts/icat/mens-belts">Belts</a></li>
+                                <li><a href="http://www.clothingattesco.com/men/hats/icat/mens-hats">Hats</a></li>
+								<li><a href="http://www.clothingattesco.com/men/shoes+boots/icat/mens-footwear?utm_source=website&amp;utm_medium=accessorieslink&amp;utm_campaign=mens-footwear">Shoes &amp; Boots</a></li>
+                                <li><a href="http://www.clothingattesco.com/men/slippers/icat/mn-slippers">Slippers</a></li>
+								<li><a href="http://www.clothingattesco.com/men/socks/icat/mens-socks?utm_source=website&amp;utm_medium=accessorieslink&amp;utm_campaign=mens-socks">Socks</a></li>
+                                <li><a href="http://www.clothingattesco.com/men/sunglasses/icat/mens-sunglasses">Sunglasses</a></li>
 								<li><a href="http://www.clothingattesco.com/men/watches/icat/mens-watches">Watches</a></li>
 							</ul>
 							<div class="lower-divider">
 							</div>
 							<ul>
 								<li class="menu-title-inline">Shop by brand</li>
-                                <li><a href="http://www.clothingattesco.com/brands-/mens-brands/icat/mens-brands">All Men’s Brands</a></li>
+                                <li><a href="http://www.clothingattesco.com/brands-/mens-brands/icat/mens-brands">All Men's Brands</a></li>
 								<li><a href="http://www.clothingattesco.com/mens-brands/brave-soul/icat/mn-brave-soul">Brave Soul</a></li>
-								<li><a href="http://www.clothingattesco.com/cherokee/cherokee/icat/mn-cherokee">Cherokee</a></li>
-                                <li><a href="http://www.clothingattesco.com/mens-brands/dare-2b/icat/mn-dare2b">Dare 2 B</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/diesel/icat/diesel">Diesel</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/dissident/icat/dissident">Dissident</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/d-struct/icat/d-struct">D-struct</a></li>
-								<li><a href="http://www.clothingattesco.com/mens-brands/gola/icat/mn-gola">Gola</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/harry-brown/icat/harry-brown">Harry Brown</a></li>
+								<li><a href="http://www.clothingattesco.com/cherokee/icat/mn-cherokee">Cherokee</a></li>
+                                <li><a href="http://www.clothingattesco.com/mens-brands/diesel/icat/mn-diesel">Diesel</a></li>
+                                <li><a href="http://www.clothingattesco.com/mens-brands/gola/icat/mn-gola">Gola</a></li>
+                                <li><a href="http://www.clothingattesco.com/mens-brands/kangol/icat/mn-kangol">Kangol</a></li>
                                 <li><a href="http://www.clothingattesco.com/mens-brands/kappa/icat/mn-kappa">Kappa</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/nike/icat/nike">Nike</a></li>
+                                <li><a href="http://www.clothingattesco.com/all-brands/pride+glory/icat/pride-and-glory">Pride &amp; Glory</a></li>
                                 <li><a href="http://www.clothingattesco.com/mens-brands/regatta/icat/mn-regatta">Regatta</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/smith+jones/icat/smith-and-jones">Smith &amp; Jones</a></li>
+                                <li><a href="http://www.clothingattesco.com/mens-brands/rhino-rugby/icat/mn-rhino-rugby">Rhino Rugby</a></li>
+                                <li><a href="http://www.clothingattesco.com/all-brands/smith+jones/icat/smith-and-jones">Smith &amp; Jones</a></li>
                                 <li><a href="http://www.clothingattesco.com/mens-brands/speedo/icat/mn-speedo">Speedo</a></li>
-                                <li><a href="http://www.clothingattesco.com/mens-brands/totes/icat/mn-totes">Totes</a></li>
+                                <li><a href="http://www.clothingattesco.com/all-brands/tokyo-tigers-/icat/tokyo-tigers">Tokyo Tigers</a></li>
                            </ul>
 						</div>
 						<!-- End contentasset -->
@@ -995,22 +1075,24 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<!-- dwMarker="content" dwContentID="bcIDciaagdwgwaaac0Tr2b41lN" -->
 							<ul>
 								<li class="menu-title-inline">Shop by range</li>
-                                <li><a href="http://www.clothingattesco.com/men/big+tall-/icat/big-and-tall">Big &amp; Tall</a></li>
-								<li><a href="http://www.clothingattesco.com/holiday-shop/mens-holiday-shop/icat/mens-holiday-shop">Holiday Shop</a></li>
-                                <li><a href="http://www.clothingattesco.com/occasionwear-shop/icat/evening-occasion-wear">Occasionwear Shop</a></li>
-                                <li><a href="http://www.clothingattesco.com/men/mens-outdoor-shop/icat/mn-outdoor">Outdoor Shop</a></li>
+								<li><a href="http://www.clothingattesco.com/men/festival/icat/mens-festival">Festival Essentials</a></li>
+                                <li><a href="http://www.clothingattesco.com/holiday-shop/mens-holiday-shop/icat/mens-holiday-shop">Holiday Shop</a></li>
                                 <li><a href="http://www.clothingattesco.com/men/wardrobe-essentials/icat/style-basics">Wardrobe Essentials</a></li>
-							</ul>
+                                <li><a href="http://www.clothingattesco.com/wedding/icat/catgwedding">Wedding</a></li>
+                            </ul>
 							<div class="lower-divider">
 							</div>
+
 							<ul>
 								<li class="menu-title-inline">Style inspiration</li>
-								<li><a href="http://www.clothingattesco.com/in-the-press/icat/in-the-press?source=mens#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Mens">In The Press</a></li>
+                                <li><a href="http://www.clothingattesco.com/inspire-me/f+f-magazine/icat/f-f-magazine#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Men">F&amp;F Magazine</a></li>
+                                <li><a href="http://www.clothingattesco.com/inspire-me/how-to-tie-a-tie/page/how-to-tie-a-tie">How to tie a tie</a></li>
+								<li><a href="http://www.clothingattesco.com/in-the-press/icat/in-the-press?source=mens#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Men">In The Press</a></li>
 								<li><a href="http://www.clothingattesco.com/landing-pages/suits-and-tailoring-guide/page/suits-and-tailoring-guide">Tailoring Style Guide</a></li>
-								<li><a href="http://www.clothingattesco.com/tesco-magazine/icat/tesco-magazine">Tesco Magazine</a></li>
-                                <li><a href="http://www.clothingattesco.com/inspire-me/knitwear/page/knitwear">The Knitwear Edit</a></li>
-                                <li class="giftsmenulink lspacing"><a href="http://www.clothingattesco.com/christmas/gifts-for-him/icat/gifts-for-him?utm_source=stamp" class="rminsm" title="Gifts for him"><img src="/content/ebiz/clothingattesco/page/mainmenu/mens_nav_gifts.jpg" alt="Gifts for him"></a></li>
-							</ul>
+                                <li><a href="http://www.clothingattesco.com/inspire-me/4-ways-to-wear-a-suit/page/4-ways-to-wear-suit">Ways To Wear: The Summer Suit</a></li>
+                                <li>&nbsp;</li>
+                                <li class="menu-inspire-img"><a href="http://www.clothingattesco.com/mens-brands/oneill/icat/mn-o-neill" title="O'Neill"><img src="http://i1.adis.ws/i/tesco/O'NEIL_flyout?qlt=100" alt="O'Neill"></a></li>
+                            </ul>
 						</div>
 						<!-- End contentasset -->
 						</li>
@@ -1030,25 +1112,22 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 						<li>
 						<div class="contentasset">
 							<!-- dwMarker="content" dwContentID="bc8ZwiaagdaUIaaac0zr2b41lN" -->
-							<ul>
-								<li class="menu-title-inline">Christmas</li>
-                                <li><a href="http://www.clothingattesco.com/gifts-for-kids/kids-christmas-jumpers/icat/kids-xmas-jumpers">Christmas Jumpers</a></li>
-                                <li><a href="http://www.clothingattesco.com/christmas/gifts-for-kids/icat/gifts-for-children?utm_source=link">Gifts For Kids</a></li>
-                                <li><a href="http://www.clothingattesco.com/kids-partywear/icat/kids-partywear">Partywear</a></li>
-                            </ul>
-							<div class="lower-divider">
-							</div>
-							<ul>
+                            <ul>
 								<li class="menu-title-inline">Highlights</li>
+								<li><a href="http://www.clothingattesco.com/kids/football-fever/icat/kids-world-cup">Football Fever</a></li>
                                 <li><a href="http://www.clothingattesco.com/kids/new-in/icat/kids-new">New In</a></li>
-                                <li><a href="http://www.clothingattesco.com/sale/all-sale/icat/kids-sale">Sale</a></li>
+                                <li><a href="http://www.clothingattesco.com/offers/icat/catgoffers?id=2">Offers</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids/online-exclusives/icat/kids-online-exclusives">Online Exclusives</a></li>
+                                <li><a href="http://www.clothingattesco.com/sale/all-sale-kids/icat/kids-sale" style="color:#dd0934; font-weight: bold;">Sale</a></li>
 							</ul>
 							<div class="lower-divider">
 							</div>
 							<ul>
 								<li class="menu-title-inline">Baby</li>
-								
 								<li><a href="http://www.clothingattesco.com/kids/baby/icat/babywear-0-2-years">Babywear (0-2 yrs)</a></li>
+                                <li><a href="http://www.clothingattesco.com/baby/baby-boys/icat/baby-boys">Baby Boys</a></li>
+                                <li><a href="http://www.clothingattesco.com/baby/baby-girls/icat/baby-girls">Baby Girls</a></li>
+                                <li><a href="http://www.clothingattesco.com/baby/newborn/icat/newborn">Newborn</a></li>
 							</ul>
 							<div class="lower-divider">
 							</div>
@@ -1083,9 +1162,8 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 								<li><a href="http://www.clothingattesco.com/kids/knitwear/icat/kids-knitwear">Knitwear</a></li>
 								<li><a href="http://www.clothingattesco.com/kids/leggings/icat/kids-leggings">Leggings</a></li>
 								<li><a href="http://www.clothingattesco.com/kids/nightwear+slippers/icat/kids-nightwear">Nightwear &amp; Slippers</a></li>
-                                <li><a href="http://www.clothingattesco.com/kids/onesies/icat/kids-onesies">Onesies</a></li>
-								<li><a href="http://www.clothingattesco.com/kids/shirts/icat/kids-shirts">Shirts</a></li>
-                                <li><a href="http://www.clothingattesco.com/kids/all-shoes/icat/kids-footwear?utm_source=website&amp;utm_medium=clothinglink&amp;utm_campaign=kids-footwear">Shoes &amp; Boots</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids/shirts/icat/kids-shirts">Shirts</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids/shoes+boots/icat/kids-footwear?utm_source=website&amp;utm_medium=clothinglink&amp;utm_campaign=kids-footwear">Shoes &amp; Boots</a></li>
 								<li><a href="http://www.clothingattesco.com/kids/shorts/icat/kids-shorts">Shorts</a></li>
 								<li><a href="http://www.clothingattesco.com/kids/skirts/icat/kids-skirts">Skirts</a></li>
 								<li><a href="http://www.clothingattesco.com/kids/sportswear/icat/kids-sportswear">Sportswear</a></li>      
@@ -1098,11 +1176,10 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<ul>
 								<li class="menu-title-inline">Shoes &amp; accessories</li>
 								<li><a href="http://www.clothingattesco.com/kids/accessories/icat/kids-accessories">Accessories</a></li>
-                                <li><a href="http://www.clothingattesco.com/bags/icat/kids-bags">Bags</a></li>
-								<li><a href="http://www.clothingattesco.com/kids/all-shoes/icat/kids-footwear">Shoes &amp; Boots</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids/bags/icat/kids-bags">Bags</a></li>
+								<li><a href="http://www.clothingattesco.com/kids/shoes+boots/icat/kids-footwear?utm_source=website&amp;utm_medium=accessorieslink&amp;utm_campaign=kids-footwear">Shoes &amp; Boots</a></li>
 								<li><a href="http://www.clothingattesco.com/kids/socks+underwear/icat/kids-socks-and-underwear">Socks &amp; Underwear</a></li>
-								<li><a href="http://www.clothingattesco.com/kids/watches/icat/kids-watches">Watches</a></li>
-							</ul>
+								</ul>
 						</div>
 						<!-- End contentasset -->
 						</li>
@@ -1115,29 +1192,31 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<!-- dwMarker="content" dwContentID="bcIDciaagdwgwaaac0Tr2b41lN" -->
 							<ul>
 								<li class="menu-title-inline">Shop by brand</li>
-                                <li><a href="http://www.clothingattesco.com/brands-/kids-brands/icat/kids-brands">All Kids’ Brands</a></li>
-                                <li><a href="http://www.clothingattesco.com/kids-brands/f+f-signature/icat/kids-f-and-f-signature">F&amp;F Signature</a></li>
-								<li><a href="http://www.clothingattesco.com/kids-brands/gola/icat/kids-gola">Gola</a></li>
-                                <li><a href="http://www.clothingattesco.com/kids-brands/just-sheepskin/icat/kids-just-sheepskin">Just Sheepskin</a></li>
-                                <li><a href="http://www.clothingattesco.com/kids-brands/name-it/icat/kids-name-it">Name It</a></li>
+                                <li><a href="http://www.clothingattesco.com/brands-/kids-brands/icat/kids-brands">All Kids' Brands</a></li>
+                                <li><a href="http://www.clothingattesco.com/all-brands/charlie+me/icat/charlie-and-me">Charlie&amp;me</a></li>
+                                <li><a href="http://www.clothingattesco.com/cherokee/icat/kids-cherokee">Cherokee</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids-brands/e-bound/icat/kids-e-bound">Ebound</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids-brands/emoi/icat/kids-emoi">Emoi</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids-brands/gola/icat/kids-gola">Gola</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids-brands/kangol/icat/kids-kangol">Kangol</a></li>
+								<li><a href="http://www.clothingattesco.com/all-brands/name-it/icat/name-it">Name It</a></li>
 								<li><a href="http://www.clothingattesco.com/kids-brands/regatta/icat/kids-regatta">Regatta</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/ripstop/icat/ripstop">Ripstop</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/zip-zap/icat/zip-zap">Zip Zap</a></li>
-							</ul>
+                                <li><a href="http://www.clothingattesco.com/kids-brands/ripstop/icat/kids-ripstop">Ripstop</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids-brands/silver-eight/icat/kids-silver-eight">Silver Eight</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids-brands/trespass/icat/kids-trespass">Trespass</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids-brands/tricky-tracks/icat/kids-tricky-tracks">Tricky Tracks</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids-brands/uttam-kids/icat/kids-uttam">Uttam</a></li>
+                            </ul>
 							<div class="lower-divider">
 							</div>
 							<ul>
 								<li class="menu-title-inline">Shop by range</li>
 								<li><a href="http://www.clothingattesco.com/character-shop/icat/character-collections">Character Clothing</a></li>
 								<li><a href="http://www.clothingattesco.com/holiday-shop/kids-holiday-shop/icat/kids-holiday-shop">Holiday Shop</a></li>
-								<li><a href="http://www.clothingattesco.com/occasionwear-shop/icat/evening-occasion-wear">Occasionwear Shop</a></li>
-								<li><a href="http://www.clothingattesco.com/back-to-school/icat/catgbacktoschool">School Uniform</a></li>
+								<li><a href="http://www.clothingattesco.com/school-uniform/icat/catgbacktoschool">School Uniform</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids/scottys-little-soldier/page/scottys-soldier">Scotty’s Little Soldiers</a></li>
 								<li><a href="http://www.clothingattesco.com/icat/embschoolwear">Uniform Embroidery Service</a></li>
-                                <li>&nbsp;</li>
-							</ul>
-							
-							<ul>
-							<li class="giftsmenulink"><a href="http://www.clothingattesco.com/christmas/gifts-for-kids/icat/gifts-for-children?utm_source=stamp" class="rminsm" title="Gifts for kids"><img src="/content/ebiz/clothingattesco/page/mainmenu/kids_nav_gifts.jpg" alt="Gifts for kids"></a></li>	
+                                <li><a href="http://www.clothingattesco.com/wedding/icat/catgwedding">Wedding</a></li>
                             </ul>
 						</div>
 						<!-- End contentasset -->
@@ -1150,7 +1229,7 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 		<!-- KIDS END -->
 		<!-- SCHOOL UNIFORM -->
 		<li class="cat-5 category-title" id="catgbacktoschool">
-		<a href="http://www.clothingattesco.com/back-to-school/icat/catgbacktoschool" id="topnavevents"><span>School Uniform</span></a>
+		<a href="http://www.clothingattesco.com/school-uniform/icat/catgbacktoschool" id="topnavevents"><span>School Uniform</span></a>
 		<div class="submenu col3 moveleftcat5">
 			<div>
 				<div class="refinement refinements-1">
@@ -1160,7 +1239,7 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<!-- dwMarker="content" dwContentID="bc8ZwiaagdaUIaaac0zr2b41lN" -->
 							<ul>
 								<li class="menu-title-inline">Boys</li>
-								<li><a href="http://www.clothingattesco.com/back-to-school/boys-school-uniform/icat/bo-back-to-school">All Uniform</a></li>
+								<li><a href="http://www.clothingattesco.com/school-uniform/boys-school-uniform/icat/bo-back-to-school">All Uniform</a></li>
 								<li><a href="/icat/bts-coats-and-jackets?sort=pdxtmagicnumber&amp;parentCategoryRef=bts-coats-and-jackets&amp;order=desc&amp;q=*&amp;pdxtgender=Boys#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Boys">Coats &amp; Jackets</a></li>
 								<li><a href="/icat/bts-essentials?sort=pdxtmagicnumber&amp;parentCategoryRef=bts-essentials&amp;order=desc&amp;q=*&amp;pdxtgender=Boys#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Boys">Essentials</a></li>
 								<li><a href="/icat/bts-knitwear?sort=pdxtmagicnumber&amp;parentCategoryRef=bts-knitwear&amp;order=desc&amp;q=*&amp;pdxtgender=Boys#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Unisex&amp;esp_filter_pdxtgender=Boys">Knitwear</a></li>
@@ -1182,14 +1261,15 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<!-- dwMarker="content" dwContentID="bc0bciaagdsrEaaac0Qb2b41lN" -->
 							<ul>
 								<li class="menu-title-inline">Girls</li>
-								<li><a href="http://www.clothingattesco.com/back-to-school/girls-school-uniform/icat/gi-back-to-school">All Uniform</a></li>
+								<li><a href="http://www.clothingattesco.com/school-uniform/girls-school-uniform/icat/gi-back-to-school">All Uniform</a></li>
 								<li><a href="/icat/bts-coats-and-jackets?sort=pdxtmagicnumber&amp;parentCategoryRef=bts-coats-and-jackets&amp;order=desc&amp;q=*&amp;pdxtgender=Girls#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Girls">Coats &amp; Jackets</a></li>
-								<li><a href="http://www.clothingattesco.com/back-to-school/dresses/icat/kids-school-dresses">Dresses</a></li>
+								<li><a href="http://www.clothingattesco.com/school-uniform/dresses/icat/kids-school-dresses">Dresses</a></li>
 								<li><a href="/icat/bts-essentials?sort=pdxtmagicnumber&amp;parentCategoryRef=bts-essentials&amp;order=desc&amp;q=*&amp;pdxtgender=Girls#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Girls">Essentials</a></li>
 								<li><a href="/icat/bts-knitwear?sort=pdxtmagicnumber&amp;parentCategoryRef=bts-knitwear&amp;order=desc&amp;q=*&amp;pdxtgender=Girls#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Unisex&amp;esp_filter_pdxtgender=Girls">Knitwear</a></li>
-								<li><a href="/icat/bts-shirts?sort=pdxtmagicnumber&amp;parentCategoryRef=bts-shirts&amp;order=desc&amp;q=*&amp;pdxtgender=Girls#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Girls">Shirts</a></li>
+								<li><a href="/icat/bts-outfit-polos#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Unisex&amp;esp_filter_pdxtgender=Girls">Polo Shirts</a></li>
+                                                                <li><a href="/icat/bts-shirts?sort=pdxtmagicnumber&amp;parentCategoryRef=bts-shirts&amp;order=desc&amp;q=*&amp;pdxtgender=Girls#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Girls">Shirts</a></li>
 								<li><a href="/icat/back-to-school-shoes?sort=pdxtmagicnumber&amp;parentCategoryRef=back-to-school-shoes&amp;order=desc&amp;q=*&amp;pdxtgender=Girls#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Girls">Shoes</a></li>
-								<li><a href="http://www.clothingattesco.com/back-to-school/skirts/icat/bts-skirts">Skirts</a></li>
+								<li><a href="http://www.clothingattesco.com/school-uniform/skirts/icat/bts-skirts">Skirts</a></li>
 								<li><a href="/icat/bts-trousers?sort=pdxtmagicnumber&amp;parentCategoryRef=bts-trousers&amp;order=desc&amp;q=*&amp;pdxtgender=Girls#esp_cf=pdxtgender&amp;esp_filter_pdxtgender=Girls">Trousers</a></li>
 								</ul>
 						</div>
@@ -1204,11 +1284,12 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<!-- dwMarker="content" dwContentID="bc0bciaagdsrEaaac0Qb2b41lN" -->
 							<ul>
 								<li class="menu-title-inline">All</li>
-								<li><a href="http://www.clothingattesco.com/character-shop/bags/icat/character-bags">Character Bags</a></li>
-								<li><a href="http://www.clothingattesco.com/back-to-school/icat/catgbacktoschool#fitguide">Fit Guide</a></li>
-								<li><a href="http://www.clothingattesco.com/back-to-school/pe-kits/icat/bts-pe">PE Kits</a></li>
-                                <li><a href="http://www.clothingattesco.com/back-to-school/sixth-form+college/icat/sixthform-college-uniform">Sixth Form &amp; College</a></li>
-								<li class="feature_img"><a href="http://www.clothingattesco.com/icat/embschoolwear" class="rminsm" title="Uniform Embroidery Service"><img src="/content/ebiz/clothingattesco/page/mainmenu/ues.png" border="0" width="173" height="96"></a></li>
+								<li><a href="http://www.clothingattesco.com/school-uniform/character-bags/icat/character-rucksacks">Character Bags</a></li>
+								<li><a href="http://www.clothingattesco.com/school-uniform/icat/catgbacktoschool#fitguide">Fit Guide</a></li>
+								<li><a href="http://www.clothingattesco.com/school-uniform/pe-kits/icat/bts-pe">PE Kits</a></li>
+                                <li><a href="http://www.clothingattesco.com/school-uniform/sixth-form+college/icat/sixthform-college-uniform">Sixth Form &amp; College</a></li>
+						<li>&nbsp;</li>
+ 		<li><a href="http://www.clothingattesco.com/icat/embschoolwear" class="rminsm" title="Uniform Embroidery Service"><img src="/content/ebiz/clothingattesco/page/mainmenu/ues.png" border="0" width="173" height="96"></a></li>
 							</ul>
 						</div>
 						<!-- End contentasset -->
@@ -1232,20 +1313,21 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<!-- dwMarker="content" dwContentID="bc8ZwiaagdaUIaaac0zr2b41lN" -->
 							<ul>
 								<li class="menu-title-inline">Women</li>
-								<li><a href="http://www.clothingattesco.com/brands-/womens-brands/icat/womens-brands">All women's brands</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/ax-paris/icat/ax-paris">AX Paris</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/curvy-kate-/icat/curvy-kate">Curvy Kate</a></li>
-                                <li><a href="http://www.clothingattesco.com/womens-brands/dare-2b/icat/wm-dare2b">Dare2b</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/elle-sport/icat/elle-sport">Elle Sport</a></li>
-								<li><a href="http://www.clothingattesco.com/womens-brands/just-sheepskin/icat/wm-just-sheepskin">Just Sheepskin</a></li>
-                                <li><a href="http://www.clothingattesco.com/womens-brands/regatta/icat/wm-regatta">Regatta</a></li>
-								<li><a href="http://www.clothingattesco.com/womens-brands/speedo/icat/wm-speedo">Speedo</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/stella-morgan/icat/stella-and-isabel">Stella Morgan</a></li>
-								<li><a href="http://www.clothingattesco.com/womens-brands/timeout/icat/wm-timeout">Timeout</a></li>
-                                <li><a href="http://www.clothingattesco.com/womens-brands/totes/icat/wm-totes">Totes</a></li>
-                                <li><a href="http://www.clothingattesco.com/womens-brands/trespass/icat/wm-trespass">Trespass</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/truffle/icat/truffle">Truffle</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/very-victoria/icat/very-victoria">Very Victoria</a></li>
+								<li><a href="http://www.clothingattesco.com/brands-/womens-brands/icat/womens-brands">All Women's Brands</a></li>
+								<li><a href="http://www.clothingattesco.com/womens-brands/ax-paris/icat/wm-ax-paris">AX Paris</a></li>
+                                <li><a href="http://www.clothingattesco.com/womens-cherokee/icat/wm-cherokee">Cherokee</a></li>
+								<li><a href="http://www.clothingattesco.com/womens-brands/dolcis/icat/wm-dolcis">Dolcis</a></li>
+                                <li><a href="http://www.clothingattesco.com/womens-brands/dunlop/icat/wm-dunlop">Dunlop</a></li>
+                                <li><a href="http://www.clothingattesco.com/womens-brands/heavenly-bump/icat/wm-heavenly-bump">Heavenly Bump</a></li>
+                                <li><a href="http://www.clothingattesco.com/womens-brands/ice-blossom/icat/wm-ice-blossom">Ice Blossom</a></li>
+                                <li><a href="http://www.clothingattesco.com/womens-brands/manfield/icat/wm-manfield">Manfield</a></li>
+                                <li><a href="http://www.clothingattesco.com/womens-brands/marie-meili/icat/wm-marie-meili">Marie Meili</a></li>
+                                <!--<li><a href="http://www.clothingattesco.com/womens-brands/oneill/icat/wm-o-neill">O'Neill</a></li>-->
+                                <li><a href="http://www.clothingattesco.com/womens-brands/playboy/icat/wm-playboy">Playboy</a></li>
+                                <li><a href="http://www.clothingattesco.com/all-brands/stella-morgan/icat/stella-and-isabel">Stella Morgan</a></li>
+                                <li><a href="http://www.clothingattesco.com/all-brands/truffle/icat/truffle">Truffle</a></li>
+                                <li>&nbsp;</li>
+                                <li><a href="http://www.clothingattesco.com/sale/womens-brands-sale/icat/wm-brands-sl" style="color:#dd0934; font-weight: bold;">Sale</a></li>
 							</ul>
 						</div>
                         <!-- End contentasset -->
@@ -1259,20 +1341,22 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<!-- dwMarker="content" dwContentID="bc0bciaagdsrEaaac0Qb2b41lN" -->
 							<ul>
 								<li class="menu-title-inline">Men</li>
-								<li><a href="http://www.clothingattesco.com/brands-/mens-brands/icat/mens-brands">All men's brands</a></li>
+								<li><a href="http://www.clothingattesco.com/brands-/mens-brands/icat/mens-brands">All Men's Brands</a></li>
 								<li><a href="http://www.clothingattesco.com/mens-brands/brave-soul/icat/mn-brave-soul">Brave Soul</a></li>
-                                <li><a href="http://www.clothingattesco.com/mens-brands/dare-2b/icat/mn-dare2b">Dare2b</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/diesel/icat/diesel">Diesel</a></li>
+								<li><a href="http://www.clothingattesco.com/cherokee/icat/mn-cherokee">Cherokee</a></li>
+                                <li><a href="http://www.clothingattesco.com/mens-brands/diesel/icat/mn-diesel">Diesel</a></li>
                                 <li><a href="http://www.clothingattesco.com/mens-brands/gola/icat/mn-gola">Gola</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/jeff-banks/icat/jeff-banks">Jeff Banks</a></li>
-								<li><a href="http://www.clothingattesco.com/mens-brands/kappa/icat/mn-kappa">Kappa</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/nike/icat/nike">Nike</a></li>
+                                <li><a href="http://www.clothingattesco.com/mens-brands/kangol/icat/mn-kangol">Kangol</a></li>
+                                <li><a href="http://www.clothingattesco.com/mens-brands/kappa/icat/mn-kappa">Kappa</a></li>
+                                <!--<li><a href="http://www.clothingattesco.com/mens-brands/oneill/icat/mn-o-neill">O'Neill</a></li>-->
+                                <li><a href="http://www.clothingattesco.com/all-brands/pride+glory/icat/pride-and-glory">Pride &amp; Glory</a></li>
                                 <li><a href="http://www.clothingattesco.com/mens-brands/regatta/icat/mn-regatta">Regatta</a></li>
-								<li><a href="http://www.clothingattesco.com/mens-brands/speedo/icat/mn-speedo">Speedo</a></li>
-                                <li><a href="http://www.clothingattesco.com/mens-brands/timeout/icat/mn-timeout">Timeout</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/tokyo-tigers-/icat/tokyo-tigers">Tokyo Tigers</a></li>
-                                <li><a href="http://www.clothingattesco.com/mens-brands/totes/icat/mn-totes">Totes</a></li>
-                                <li><a href="http://www.clothingattesco.com/mens-brands/trespass/icat/mn-trespass">Trespass</a></li>
+                                <li><a href="http://www.clothingattesco.com/mens-brands/rhino-rugby/icat/mn-rhino-rugby">Rhino Rugby</a></li>
+                                <li><a href="http://www.clothingattesco.com/all-brands/smith+jones/icat/smith-and-jones">Smith &amp; Jones</a></li>
+                                <li><a href="http://www.clothingattesco.com/mens-brands/speedo/icat/mn-speedo">Speedo</a></li>
+                                <li><a href="http://www.clothingattesco.com/all-brands/tokyo-tigers-/icat/tokyo-tigers">Tokyo Tigers</a></li>
+                                <li>&nbsp;</li>
+                                <li><a href="http://www.clothingattesco.com/sale/mens-brands-sale/icat/mn-brands-sl" style="color:#dd0934; font-weight: bold;">Sale</a></li>
 							</ul>
 						</div>
                         <!-- End contentasset -->
@@ -1286,20 +1370,21 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<!-- dwMarker="content" dwContentID="bcIDciaagdwgwaaac0Tr2b41lN" -->
 							<ul>
 								<li class="menu-title-inline">Kids</li>
-								<li><a href="http://www.clothingattesco.com/brands-/kids-brands/icat/kids-brands">All kids' brands</a></li>
-                                <li><a href="http://www.clothingattesco.com/kids-brands/dare-2b-/icat/kids-dare2b">Dare2b</a></li>
-                                <li><a href="http://www.clothingattesco.com/brands-/disney/icat/disney">Disney</a></li>
-                                <li><a href="http://www.clothingattesco.com/kids-brands/dress-up-by-design-/icat/dress-up-by-design">Dress Up By design</a></li>
+								<li><a href="http://www.clothingattesco.com/brands-/kids-brands/icat/kids-brands">All Kids' Brands</a></li>
+                                <li><a href="http://www.clothingattesco.com/all-brands/charlie+me/icat/charlie-and-me">Charlie&amp;me</a></li>
+                                <li><a href="http://www.clothingattesco.com/cherokee/icat/kids-cherokee">Cherokee</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids-brands/e-bound/icat/kids-e-bound">Ebound</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids-brands/emoi/icat/kids-emoi">Emoi</a></li>
                                 <li><a href="http://www.clothingattesco.com/kids-brands/gola/icat/kids-gola">Gola</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/hadleigh-london/icat/hadleigh-london">Hadleigh London</a></li>
-                                <li><a href="http://www.clothingattesco.com/kids-brands/just-sheepskin/icat/kids-just-sheepskin">Just Sheepskin</a></li>
-								<li><a href="http://www.clothingattesco.com/kids-brands/kappa/icat/kids-kappa">Kappa</a></li>
-                                <li><a href="http://www.clothingattesco.com/kids-brands/name-it/icat/kids-name-it">Name It</a></li>
-								<li><a href="http://www.clothingattesco.com/character-shop/peppa-pig/icat/peppa-pig">Peppa Pig</a></li>
-                                <li><a href="http://www.clothingattesco.com/kids-brands/regatta/icat/kids-regatta">Regatta</a></li>
-								<li><a href="http://www.clothingattesco.com/kids-brands/speedo/icat/kids-speedo">Speedo</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids-brands/kangol/icat/kids-kangol">Kangol</a></li>
+								<li><a href="http://www.clothingattesco.com/all-brands/name-it/icat/name-it">Name It</a></li>
+								<li><a href="http://www.clothingattesco.com/kids-brands/regatta/icat/kids-regatta">Regatta</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids-brands/silver-eight/icat/kids-silver-eight">Silver Eight</a></li>
                                 <li><a href="http://www.clothingattesco.com/kids-brands/trespass/icat/kids-trespass">Trespass</a></li>
-								<li><a href="http://www.clothingattesco.com/brands-/zip-zap/icat/zip-zap">Zip Zap</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids-brands/tricky-tracks/icat/kids-tricky-tracks">Tricky Tracks</a></li>
+                                <li><a href="http://www.clothingattesco.com/kids-brands/uttam-kids/icat/kids-uttam">Uttam</a></li>
+                                <li>&nbsp;</li>
+                                <li><a href="http://www.clothingattesco.com/sale/kids-brands-sale/icat/kids-brands-sl" style="color:#dd0934; font-weight: bold;">Sale</a></li>
                             </ul>
 						</div>
                         <!-- End contentasset -->
@@ -1313,7 +1398,7 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<!-- dwMarker="content" dwContentID="bcIDciaagdwgwaaac0Tr2b41lN" -->
 							<ul>
 								<li class="menu-title-inline">Featured Brand</li>
-								<li class="feature_img"><a href="http://www.clothingattesco.com/brands-/just-sheepskin/icat/just-sheepskin" class="rminsm" title="Just Sheepskin"><img src="/content/ebiz/clothingattesco/page/mainmenu/justsheepskin_flyout_100.jpg" border="0" width="100" height="100"></a></li>
+								<li class="brand-flyout-img"><a href="http://www.clothingattesco.com/all-brands/ax-paris/icat/ax-paris" class="rminsm" title="AX Paris"><img src="http://i1.adis.ws/i/tesco/AXparis?qlt=100" border="0" width="145" height="145"></a></li>
                                 <li><a href="http://www.clothingattesco.com/brands-/icat/catgbrands">All brands</a></li>
                             </ul>
 						</div>
@@ -1337,21 +1422,17 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 							<!-- dwMarker="content" dwContentID="bc8ZwiaagdaUIaaac0zr2b41lN" -->
 							<ul>
                             	<li class="menu-title-inline">Features</li>
-                                <li><a href="http://www.clothingattesco.com/inspire-me/blogger-party/page/blogger-party">Blogger Party</a></li>
+                                <li><a href="http://www.clothingattesco.com/inspire-me/awkward-prom/page/awkward-prom">Awkward prom</a></li>
+                                <li><a href="http://www.clothingattesco.com/inspire-me/womens-festival-survival-guide/page/festival-survival-guide">Festival Survival Guide</a></li>
                                 <li><a href="http://www.clothingattesco.com/inspire-me/hywi/page/hywi">How You're Wearing It</a></li>
-                                <li><a href="http://www.clothingattesco.com/inspire-me/leather-look/page/leather-look">Leather Look</a></li>
-                                <li><a href="http://www.clothingattesco.com/inspire-me/lingerie-sos/page/partywear-solutions">Lingerie SOS</a></li>
-                                <li><a href="http://www.clothingattesco.com/inspire-me/coats-edit/page/coats-edit">The Coats Edit</a></li>
-                                <li><a href="http://www.clothingattesco.com/inspire-me/the-dark-night/page/the-dark-night">The Dark Night</a></li>
-                                <li><a href="http://www.clothingattesco.com/inspire-me/knitwear/page/knitwear">The Knitwear Edit</a></li>
-                                <li><a href="http://www.clothingattesco.com/inspire-me/top-10-gifts-for-her/page/top-10-gifts-for-her">Top 10 gifts for her</a></li>
-                                <li><a href="http://www.clothingattesco.com/inspire-me/top-10-gifts-for-him/page/top-10-gifts-for-him">Top 10 gifts for him</a></li>
-                                <li><a href="http://www.clothingattesco.com/inspire-me/top-10-gifts-for-kids/page/top-10-gifts-for-kids">Top 10 gifts for kids</a></li>
-                                <li><a href="http://www.clothingattesco.com/50s-boudoir/icat/50s-boudoir-trend">Trend: 50s Boudoir</a></li>
-                                <li><a href="http://www.clothingattesco.com/highland-retreat/icat/highland-retreat">Trend: Highland Retreat</a></li>
-        						<li><a href="http://www.clothingattesco.com/inspire-me/odyssey/page/odyssey">Trend: Odyssey</a></li>
-                                <li><a href="http://www.clothingattesco.com/inspire-me/very-victoria/page/very-victoria">Very Victoria Silvstedt By Marie Meili</a></li>
-                            </ul>
+                                <li><a href="http://www.clothingattesco.com/in-the-press/icat/in-the-press">In The Press</a></li>
+                                <li><a href="http://www.clothingattesco.com/inspire-me/sweet-escape/page/sweet-escape">Sweet Escape</a></li>
+                                <li><a href="http://www.clothingattesco.com/inspire-me/shoe-edit/page/the-shoe-edit">The Shoe Edit</a></li>
+                                <li><a href="http://www.clothingattesco.com/inspire-me/the-perfect-range/page/the-perfect-range">The Perfect Range</a></li>
+                                <li><a href="http://www.clothingattesco.com/inspire-me/4-ways-to-wear-tube-pants/page/4-ways-to-wear-tube-pants">4 Ways to Wear Tube Pants</a></li>
+                                <li><a href="http://www.clothingattesco.com/inspire-me/4-ways-to-wear-a-suit/page/4-ways-to-wear-suit">Ways To Wear: The Summer Suit</a></li>
+                                <li><a href="http://www.clothingattesco.com/events/wedding-inspiration/page/wedding-inspiration">Wedding Inspiration</a></li>
+        					</ul>
 						</div>
 						<!-- End contentasset -->
 						</li>
@@ -1368,7 +1449,7 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 									<!-- dwMarker="content" dwContentID="bcIDciaagdwgwaaac0Tr2b41lN" -->
 									<ul>
 										<li class="menu-title-inline">Style inspiration</li>
-										<li class="menu-inspire-img"><a href="http://www.clothingattesco.com/inspire-me/inspire-me-landing-page/page/inspire-me"><img src="/content/ebiz/clothingattesco/page/mainmenu/inspire-me-aw13_v1.jpg" alt="inspire me"></a></li>
+										<li class="menu-inspire-img"><a href="http://www.clothingattesco.com/inspire-me/inspire-me-landing-page/page/inspire-me" title="Neon Now"><img src="http://i1.adis.ws/i/tesco/Shoe-edit" alt="Neon Now"></a></li>
 									</ul>
 								</div>
 								<!-- End contentasset -->
@@ -1386,7 +1467,7 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 		<!-- SALE -->
 		<li class="cat-9 category-title last" id="catgsale">
 		<a href="http://www.clothingattesco.com/sale/icat/catgsale" id="topnavsale"><span>Sale</span></a>
-		<div class="submenu col3 moveleftcat9">
+		<div class="submenu col4 moveleftcat9">
 			<div>
 				<div class="refinement refinements-1">
 					<ul>
@@ -1394,61 +1475,90 @@ if ((!($.browser.mozilla)) && (navigator.appName!="Netscape")) {
 						<div class="contentasset">
 							<!-- dwMarker="content" dwContentID="bc8ZwiaagdaUIaaac0zr2b41lN" -->
 							<ul>
-								<li class="menu-title-inline">Women</li>
-								<li><a href="http://www.clothingattesco.com/sale/-all-sale/icat/wm-sale" class="bold">All Sale</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/accessories/icat/wm-accessories-sl">accessories </a></li>
-								<li><a href="http://www.clothingattesco.com/sale/coats+jackets/icat/wm-coats-and-jackets-sl">coats &amp; jackets</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/dresses/icat/wm-dresses-sl">dresses</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/knitwear/icat/wm-knitwear-sl">knitwear</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/lingerie/icat/wm-lingerie-sl">lingerie</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/nightwear/icat/wm-nightwear-sl">nightwear</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/shoes/icat/wm-footwear-sl">shoes &amp; boots</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/shorts/icat/wm-shorts-sl">shorts</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/skirts/icat/wm-skirts-sl">skirts</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/swimwear/icat/wm-swimwear-sl">swimwear</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/tops+t-shirts/icat/wm-tops-and-t-shirts-sl">tops &amp; t-shirts</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/trousers/icat/wm-trousers-sl">trousers</a></li>
+								<li class="menu-title-inline">Women – Clothing</li>
+                                <li><a href="http://www.clothingattesco.com/sale/all-sale-womens/icat/wm-sale">All Sale</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/womens-accessories/icat/wm-accessories-sl">Accessories </a></li>
+								<li><a href="http://www.clothingattesco.com/sale/womens-coats+jackets/icat/wm-coats-and-jackets-sl">Coats &amp; Jackets</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/womens-dresses/icat/wm-dresses-sl">Dresses</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/womens-knitwear/icat/wm-knitwear-sl">Knitwear</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/womens-lingerie/icat/wm-lingerie-sl">Lingerie</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/womens-nightwear+slippers/icat/wm-nightwear-sl">Nightwear &amp; Slippers</a></li>
+                                                                <li><a href="http://www.clothingattesco.com/sale/womens-shoes+boots/icat/wm-footwear-sl">Shoes &amp; Boots</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/womens-skirts/icat/wm-skirts-sl">Skirts</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/womens-swimwear/icat/wm-swimwear-sl">Swimwear</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/womens-tops+t-shirts/icat/wm-tops-and-t-shirts-sl">Tops &amp; T-Shirts</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/womens-trousers/icat/wm-trousers-sl">Trousers</a></li>
+							</ul>
+                        </div>
+						<!-- End contentasset -->
+						</li>
+					</ul>
+				</div>
+                <div class="refinement refinements-2">
+					<ul>
+						<li>
+						<div class="contentasset">
+							<!-- dwMarker="content" dwContentID="bc0bciaagdsrEaaac0Qb2b41lN" -->
+							<ul>
+								<li class="menu-title-inline">Women – Shop By Fit</li>
+                                <li><a href="http://www.clothingattesco.com/sale/all-sale-womens/icat/wm-sale#esp_cf=pdxtfit&amp;esp_filter_pdxtfit=Maternity">Maternity</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/all-sale-womens/icat/wm-sale#esp_cf=pdxtfit&amp;esp_filter_pdxtfit=Petite">Petite</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/all-sale-womens/icat/wm-sale#esp_cf=pdxtfit&amp;esp_filter_pdxtfit=Plus%20Size">Plus Size</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/all-sale-womens/icat/wm-sale#esp_cf=pdxtfit&amp;esp_filter_pdxtfit=Shaping">Shaping</a></li>
 							</ul>
 						</div>
 						<!-- End contentasset -->
 						</li>
 					</ul>
 				</div>
-				<div class="refinement refinements-2">
+				<div class="refinement refinements-3">
 					<ul>
 						<li>
 						<div class="contentasset">
 							<!-- dwMarker="content" dwContentID="bc0bciaagdsrEaaac0Qb2b41lN" -->
 							<ul>
 								<li class="menu-title-inline">Men</li>
-								<li><a href="http://www.clothingattesco.com/sale/all-sale/icat/mn-sale" class="bold">All Sale</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/accessories/icat/mn-accessories-sl">accessories </a></li>
-								<li><a href="http://www.clothingattesco.com/sale/casual-shirts/icat/mn-casual-shirts-sl">casual shirts</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/coats+jackets-/icat/mn-coats-and-jackets-sl">coats &amp; jackets</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/jeans/icat/mn-jeans-sl">Jeans</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/knitwear/icat/mn-knitwear-sl">knitwear</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/shoes+boots/icat/mn-footwear-sl">shoes &amp; boots</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/socks/icat/mn-socks-sl">socks</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/tailoring/icat/mn-tailoring-sl">tailoring</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/tops+t-shirts/icat/mn-tops-and-t-shirts-sl">tops &amp; t-shirts</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/trousers/icat/mn-trousers-sl">trousers</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/all-sale-mens/icat/mn-sale">All Sale</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/mens-casual-shirts/icat/mn-casual-shirts-sl">Casual Shirts</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/mens-coats+jackets-/icat/mn-coats-and-jackets-sl">Coats &amp; Jackets</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/mens-knitwear/icat/mn-knitwear-sl">Knitwear</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/mens-shoes+boots/icat/mn-footwear-sl">Shoes &amp; Boots</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/mens-tailoring/icat/mn-tailoring-sl">Tailoring</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/mens-tops+t-shirts/icat/mn-tops-and-t-shirts-sl">Tops &amp; T-Shirts</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/mens-trousers/icat/mn-trousers-sl">Trousers</a></li>
 							</ul>
 						</div>
 						<!-- End contentasset -->
 						</li>
 					</ul>
 				</div>
-				<div class="refinement refinements-3 last">
+				<div class="refinement refinements-4 last">
 					<ul>
 						<li>
 						<div class="contentasset">
 							<!-- dwMarker="content" dwContentID="bcIDciaagdwgwaaac0Tr2b41lN" -->
 							<ul>
 								<li class="menu-title-inline">Kids</li>
-								<li><a href="http://www.clothingattesco.com/sale/all-sale/icat/kids-sale" class="bold">All Sale</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/boys/icat/bo-sale">boys</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/girls/icat/gi-sale">girls</a></li>
-								<li><a href="http://www.clothingattesco.com/sale/baby/icat/ba-sale">baby</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/all-sale-kids/icat/kids-sale">All Sale</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/boys/icat/bo-sale">Boys</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/girls/icat/gi-sale">Girls</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/baby/icat/ba-sale">Baby</a></li>
+							</ul>
+                            <div class="lower-divider">
+							</div>
+                            <ul>
+								<li class="menu-title-inline">New To Sale</li>
+								<li><a href="http://www.clothingattesco.com/sale/new-to-sale-womens/icat/new-in-sale-wm">Women</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/new-to-sale-mens/icat/new-in-sale-mn">Men</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/new-to-sale-kids/icat/new-in-sale-kids">Kids</a></li>
+							</ul>
+                            <div class="lower-divider">
+							</div>
+                            <ul>
+								<li class="menu-title-inline">Brands</li>
+								<li><a href="http://www.clothingattesco.com/sale/womens-brands-sale/icat/wm-brands-sl">Women</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/mens-brands-sale/icat/mn-brands-sl">Men</a></li>
+								<li><a href="http://www.clothingattesco.com/sale/kids-brands-sale/icat/kids-brands-sl">Kids</a></li>
 							</ul>
 						</div>
 						<!-- End contentasset -->
@@ -1479,19 +1589,14 @@ jQuery(".shoppingarrow img").mouseover(function() {
     $(this).attr("src", src);
 });
 <!--- Light BOX script -->
-	jQuery('.overlaypopup, .bra-fit-video, .25offoverlay').live('click',function() {
-		        if ($(this).is('.overlaypopup')) {
-	                         var url = "/page/boost-overlay";
-			 }
-			 else if ($(this).is('.bra-fit-video')) {
-				 var url = "/page/bra-fit-overlay";
-			 }
-			 else
-			 {
-				 var url = "/page/25off-overlay";
-			 }
-			 var dialog = $('<div style="display:none" class="spinner"></div>').appendTo('body');
-		            dialog.dialog({
+	jQuery('.bra-fit-video, .10off50overlay').live('click',function() {
+		    var url = "/page/bra-fit-overlay";
+                    if($(this).is('.10off50overlay'))
+                    {
+                       url = "/page/10off50-overlay";
+                    }
+                    var dialog = $('<div style="display:none" class="spinner"></div>').appendTo('body');
+                    dialog.dialog({
 		                close: function(event, ui) {dialog.remove();},
 		                modal: true,
 		                draggable: false,
@@ -1499,7 +1604,7 @@ jQuery(".shoppingarrow img").mouseover(function() {
 		                width: 900, 
                                 height: 554
 		            });
-                     dialog.load(
+                    dialog.load(
 		                url, 
 		                function (responseText, textStatus, XMLHttpRequest) {
 		                    dialog.removeClass('spinner');
@@ -1513,48 +1618,16 @@ jQuery(".shoppingarrow img").mouseover(function() {
                     jQuery('.ui-dialog-titlebar-close:visible').click(); 
 					return false;
        });
+       
 });
 </script>
 	<div id="servicemsg">
-<a href="#" class="service_msg1">Extended UK Christmas Returns</a>
+<a href="http://www.clothingattesco.com/mobile/international-delivery/page/international-delivery" class="service_msg1">Delivery to over 70 countries</a>
 <a href="http://www.clothingattesco.com/delivery/delivery-information/page/deliveryinfo" class="service_msg2">Free UK delivery on orders over £50</a>
-<a href="http://www.clothingattesco.com/click-and-collect/clothing-collection/page/clothing-collection" class="service_msg3">Next day click &amp; collect to UK stores*</a>
-<a href="#" class="service_msg4">International  delivery</a>   
+<a href="http://www.clothingattesco.com/returns/our-returns-policy/page/refundsandreturns" class="service_msg3">Free UK returns</a>
+<a href="http://www.clothingattesco.com/click-and-collect/clothing-collection/page/clothing-collection" class="service_msg4">Order by 3PM, collect in UK stores the next day<span class="global_plus_symbol">†</span></a>  
 </div>
 
-<script>
-jQuery(function() {
-      jQuery('.service_msg1, .service_msg4').live('click',function() {
-	            if ($(this).is('.service_msg1')) {
-                        var url = "/page/christmas-returns-dialog";
-                    }
-                    else {
-                        var url = "/page/christmas-order-dates";
-                    } 
-		    var dialog = $('<div style="display:none" class="spinner"></div>').appendTo('body');
-		            dialog.dialog({
-		                close: function(event, ui) {dialog.remove();},
-		                modal: true,
-		                draggable: false,
-		                resizable: false,
-		                width: 860, 
-                                height: 555
-		            });
-                     dialog.load(
-		                url, 
-		                function (responseText, textStatus, XMLHttpRequest) {
-		                    dialog.removeClass('spinner');
-		                }
-		            );
-		            return false;
-		   });
-      <!-- Remove Dialog when click outside -->
-      jQuery('.closereturnsdialog').live('click',function() {
-                    jQuery('.ui-dialog-titlebar-close:visible').click();
-                    return false; 
-       });
-});
-</script>
 	<div lmzone="top_banner"></div>
 </div><!-- .header-bottom end-->
 </header>
@@ -1692,13 +1765,27 @@ jQuery(function() {
 	
 	<div lmzone="bottom_banner"></div>
     
-	<div class="Lcat_3footer">
-<p>*If you order online before 3pm Sunday to Friday, your order will be ready for collection from 4pm the next day. Excludes uniform embroidery.</p>
-</div>
-
-
-
-
+	<style>
+#footer .Lcat_3footer {padding:0;}
+#footer .Lcat_footer .Lcat_footertop {padding: 5px 0 0 0;}
+#footer .Lcat_footer .Lcat_footertop {
+    border-top: 1px solid #DEDEDE;
+    margin: 10px 0 0;
+}
+</style>
+<div class="Lcat_3footer">
+<p>^25% off selected women's online exclusives. Discount automatically applied at online checkout. Offer ends 23:59 BST Sunday 29th June 2014.</p>
+<p><span class="global_plus_symbol">†</span>If you order online before 3pm Sunday to Friday, your order will be ready for collection from 4pm the next day. Excludes uniform embroidery.</p>
+<p>*Selected lines only, subject to availability.</p>
+</div><style>
+.Lfollowgplus {
+    float: left;
+    padding: 2px 0 0;
+}
+#footer .Lcat_1footer ul li.followus div.mstext {
+    padding: 10px 5px 0 90px;
+}
+</style>
 <div class="Lcat_1footer">
    	<ul>
                 <li class="signupemail">
@@ -1717,17 +1804,22 @@ jQuery(function() {
 </form>
 </div></li>
         <li class="followus">
-        <div class="Lfollowf"><a href="http://www.facebook.com/Clothingattesco" target="_blank" rel="popup console 500 650" title="Follow us on Facebook"><img src="/content/ebiz/clothingattesco/page/pagefooter/fb_aw_12.jpg" alt="Facebook"></a></div>
+        <div class="Lfollowf"><a href="http://www.facebook.com/ff" target="_blank" rel="popup console 500 650" title="Follow us on Facebook"><img src="/content/ebiz/clothingattesco/page/pagefooter/fb_aw_12.jpg" alt="Facebook"></a></div>
 
-        <div class="Lfollowt"><a href="http://twitter.com/ClothingatTesco" target="_blank" rel="popup console 500 650" title="Follow us on Twitter"><img src="/content/ebiz/clothingattesco/page/pagefooter/tw_aw_12.jpg" alt="Twitter"></a></div>
+        <div class="Lfollowt"><a href="http://www.twitter.com/fandfclothing" target="_blank" rel="popup console 500 650" title="Follow us on Twitter"><img src="/content/ebiz/clothingattesco/page/pagefooter/tw_aw_12.jpg" alt="Twitter"></a></div>
 
 		<div class="Lfollowtum"><a href="http://ff.tumblr.com/" target="_blank" rel="popup console 500 650" title="Follow us on Tumblr"><img src="/content/ebiz/clothingattesco/page/pagefooter/tumblr-icon.jpg" alt="Tumblr"></a></div>
 
         <div class="Lfollowp"><a href="http://pinterest.com/fandfclothing" target="_blank" rel="popup console 500 650" title="Follow us on Pinterest"><img src="/content/ebiz/clothingattesco/page/pagefooter/pinterest.png" alt="Pinterest"></a></div>
      
-        <div class="Lfollowyt"><a href="http://youtube.com/ClothingatTesco" target="_blank" rel="popup console 500 650" title="Follow us on Youtube"><img src="/content/ebiz/clothingattesco/page/pagefooter/you-tube-icon.jpg" alt="Youtube"></a></div>
+        <div class="Lfollowyt"><a href="http://www.youtube.com/user/FandFClothing" target="_blank" rel="popup console 500 650" title="Follow us on Youtube"><img src="/content/ebiz/clothingattesco/page/pagefooter/you-tube-icon.jpg" alt="Youtube"></a></div>
 
-		<div class="mstext">Mobile site</div>
+        <div class="Lfollowgplus">
+        <a href="https://plus.google.com/103435253509648923161?prsrc=3" rel="publisher" target="_blank" style="text-decoration:none;" title="Follow us on Google+">
+<img src="//ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+" style="border:0;width:32px;height:32px;">
+        </a></div>
+
+	<div class="mstext">Mobile site</div>
         <div class="Lfollowms"><a href="http://www.clothingattesco.com/m/page/home" target="_blank" rel="popup console 500 650" title="Mobile site"><img src="/content/ebiz/clothingattesco/page/pagefooter/msite_aw_12.jpg" alt="Mobile Site"></a></div>
         </li>
 	</ul>
@@ -1755,25 +1847,29 @@ jQuery(function() {
 		</ul>
 		<ul>
 			<li><a href="http://www.clothingattesco.com/page/myaccount" title="Where's my order?">Where's my order?</a></li>
-			<li><a href="http://www.clothingattesco.com/kids/kidswear-quality-were-proud-of/page/kids-wear-quality" title="Kids quality story">Kids quality story</a></li>
+			<li><a href="http://www.tesco.com/affiliates" title="Affiliates" target="_blank">Affiliates</a></li>
 			<li>&nbsp;</li>
 		</ul>
 		<ul>
 			<li><a href="http://www.clothingattesco.com/help-cat/help/page/help" title="Help">Help</a></li>
-			<li><a href="http://www.tesco.com/affiliates" title="Affiliates" target="_blank">Affiliates</a></li>
-			<li>&nbsp;</li>
+			<li><a href="http://www.clothingattesco.com/f+f-global-partnerships/franchise/page/ff-franchise" title="Franchise">Franchise</a></li>
+			
 		</ul>
                 <ul>
-                <li><a href="http://www.clothingattesco.com/faq/club-card-exchange/page/club_card_exchange" title="Clubcard Boost">Clubcard Boost</a></li>
+                <li><a href="http://www.clothingattesco.com/faq/club-card-exchange/page/club_card_exchange" title="Clubcard Boost">Clubcard boost</a></li>
+                <li><a href="http://www.tesco.com" title="Tesco.com" target="_blank">Tesco.com</a></li>
+                </ul>
+                <ul>
+                <li><a href="http://www.tesco.com/store-locator/uk/" title="Store locator" target="_blank">Store locator</a></li>
+                <li><a onclick="oo_feedback.show()" href="javascript:void(0);" class="rateThisPage" title="Website feedback">Website feedback</a></li>
+                </ul>
+                <ul>
+                <li><a title="Contact us" href="http://www.clothingattesco.com/page/contact">Contact us</a></li>
                 </ul>
        </div>
       <div class="footer_right">
-      <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FClothingattesco&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowtransparency="true"></iframe>
-      <div class="blogcolumn">
-         <div class="bloglogo"><a href="http://blog.clothingattesco.com" target="_blank" title="Lifestyled" alt="Blog" onclick="_gaq.push(['_trackEvent','Footer','Blog']);"><img src="/content/ebiz/clothingattesco/page/pagefooter2/blog_aw_12.jpg" border="0" title="Lifestyled" alt="Blog"></a></div> 
-         <div class="blogtext"><span class="bold">LifeStyled blog</span> - Share fashion tips, inspiration and get the latest news from F&amp;F.</div>  
-      </div>
-      </div>
+      <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fff&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowtransparency="true"></iframe>
+     </div>
  </div><script type="text/javascript"> 
 if(Venda.Platform.EqualHeight){
 Venda.Platform.EqualHeight.jq(document).ready(function(){
@@ -1792,14 +1888,9 @@ jQuery("#mainmenu li.cat").hover(function(){
 var deliveryMsgFlag = new CookieJar({expires: '', path: '/'});
 deliveryMsgFlag.put("deliverymsgflag", "");
 deliveryMsgFlag.remove("deliverymsgflag");
-</script></div><div class="Lcat_footerbottom">
-    
-	
-	
-    
-	<div class="Linternalimage londonfashionweeksponcer"><a href="http://www.londonfashionweek.co.uk/sponsors.aspx" title="London Fashion Week supplier"><img src="http://www.clothingattesco.com/content/ebiz/clothingattesco/element/londonfashionweeksponcer/london_fashion_week_aw12.png" border="0" name="image" alt="London Fashion Week supplier"></a></div>
-
-
+</script></div><div class="Lcat_footerbottom"><div class="Lcopyright  copyright">
+<p>© F-F.com 2014</p>
+</div>
 
     
 	
@@ -1808,9 +1899,6 @@ deliveryMsgFlag.remove("deliverymsgflag");
 	<div class="Linternalimage securefooter"><img src="http://www.clothingattesco.com/content/ebiz/clothingattesco/element/securefooter/cards-footer.png" border="0" name="image" alt="Secure footer logos"></div>
 
 
-<div class="Lcopyright  copyright">
-<p>© tesco.com/clothing 2013</p>
-</div>
 
     
 	
@@ -1830,7 +1918,7 @@ deliveryMsgFlag.remove("deliverymsgflag");
 
 
 
-<script src="http://www.clothingattesco.com/content/ebiz/clothingattesco/resources/js/minified/6db5bd9bc3b26f84bce000a03fd98ba7.js?1385975034"></script>
+<script src="http://www.clothingattesco.com/content/ebiz/clothingattesco/resources/js/minified/6db5bd9bc3b26f84bce000a03fd98ba7.js?1403681816"></script>
 <script type="text/javascript" src="http://www.clothingattesco.com/content/ebiz/clothingattesco/resources/js/external/jquery.ui.selectmenu.js"></script>
 <script type="text/javascript">document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/,'js');</script>
 
@@ -1877,5 +1965,15 @@ deliveryMsgFlag.remove("deliverymsgflag");
 
 
 						
+
+
+
+
+
+
+
+
+
+					
 
 </body></html>
