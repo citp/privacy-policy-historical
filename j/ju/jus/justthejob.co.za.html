@@ -1,456 +1,456 @@
-<!--The following is the downloaded HTML source of the justthejob.co.za privacy policy that was archived on 2013-08-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130820004354id_/http%3A//www.justthejob.co.za/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the justthejob.co.za privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625081124id_/http%3A//www.justthejob.co.za/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>privacy policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="verify-v1" content="IaNPWpCI1VFBTzOrqHH0wBJEG2DJJJc5EKegddssbGA=">
-<meta name="description" content="justthejob.co.za - jobs in South Africa, jobs, all jobs, jobs in gauteng, training, skills development">
-<meta name="keywords" content="Jobs, job, jobs sa,job portal in south africa, job website in south africa, all jobs, best jobs, get a job, find a job, job search, careers, recruitment site, training, skills,">
-<meta name="robots" content="ALL">
-<meta name="distribution" content="GLOBAL">
-<meta name="revisit-after" content="3 Days">
-<link rel="icon" href="favicon.ico" type="image/x-icon"> 
-<link href="/style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="../ajaxlib.js"></script>
-<script type="text/javascript">
-function runcategorysearch()
-{
-	
-	var categoryId = $('category').value;
-	var subcategoryhiddenvalId = $('subcategoryhiddenval').value;
-	 
-	if(categoryId!='')
-	{
-		
-		$('subcategoryContainerId').style.display="none";
-		var currDate = new Date();
-		var parameters = 'categoryId='+encodeURIComponent(categoryId);
-		parameters1 ='&subcategoryId='+encodeURIComponent(subcategoryhiddenvalId);
-		parameters = parameters+parameters1+'&uniqueRequest='+currDate.getTime(); // for avoiding browser cache
-		//alert(parameters);
-		makeRequest("../fetchsubcategoryInfo.php",parameters,displaySubcategoryInfo,'POST',true);					
-	}
-	
-}
+        <title>privacy policy</title>
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+        <meta name="verify-v1" content="IaNPWpCI1VFBTzOrqHH0wBJEG2DJJJc5EKegddssbGA=">
+        <meta name="description" content="justthejob.co.za - jobs in South Africa, jobs, all jobs, jobs in gauteng,jobs in western cape, jobs in kwa-zulu natal, jobs in limpopo, jobs in north-west province, jobs in free state, training, skills development">
+        <meta name="keywords" content="Jobs, job, accounting jobs, administration jobs, secretarial jobs, engineering jobs, logistic jobs, supply chain jobs, IT jobs, hospitality jobs, building &amp; construction, human resources, medical jobs, health and nursing jobs, health and safety jobs, trade &amp; technical jobs, government and public service jobs, sales and marketing jobs,social and community jobs, job portal in south africa, job website in south africa, all jobs, best jobs, get a job, find a job, job search, careers, recruitment site, training, skills,">
+        <meta name="robots" content="ALL">
+        <meta name="distribution" content="GLOBAL">
+        <meta name="revisit-after" content="3 Days">
+        <link rel="icon" href="http://www.justthejob.co.za/favicon.ico" type="image/x-icon">
+        <link href="http://www.justthejob.co.za/style.css" rel="stylesheet" type="text/css">
+                <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.justthejob.co.za/ajaxlib.js?v1"></script>
+        <script type="text/javascript">
+            function runcategorysearch()
+            {
+                var categoryId = $('category').value;
+                var subcategoryhiddenvalId = $('subcategoryhiddenval').value;
+                if (categoryId != '')
+                {
+                    $('subcategoryContainerId').style.display="none";
+                    var currDate = new Date();
+                    var parameters = 'categoryId='+encodeURIComponent(categoryId);
+                    parameters1 ='&subcategoryId='+encodeURIComponent(subcategoryhiddenvalId);
+                    parameters = parameters+parameters1+'&uniqueRequest='+currDate.getTime(); // for avoiding browser cache
+                    makeRequest("../fetchsubcategoryInfo.php",parameters,displaySubcategoryInfo,'POST',true);
+                }
+            }
 
+            function displaySubcategoryInfo()
+            {
+                if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+                {
+                    $('subcategoryContainerId').style.display="inline";
+                    $('subcategoryContainerId').innerHTML = xmlHttp.responseText;
+                }
+            }
 
+            function displaysubcatvalue()
+            {
+                $('subcategoryhiddenval').value = $('subcategoryId').value;
+            }
 
-function displaySubcategoryInfo()
-{
-	if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
-	{ 
-		//alert(xmlHttp.responseText);
-		$('subcategoryContainerId').style.display="inline";
-		$('subcategoryContainerId').innerHTML = xmlHttp.responseText;
-		
-	}
-}
-function displaysubcatvalue()
-{
-	 $('subcategoryhiddenval').value = $('subcategoryId').value;
-}
+            function runcountrysearch()
+            {
+                var countryId = $('country').value;
+                var subcountyhiddenvalId = $('subcountyhiddenval').value;
+                if (countryId != '')
+                {
+                    $('subcountyContainerId').style.display="none";
+                    var currDate = new Date();
+                    var parameters = 'countryId='+encodeURIComponent(countryId);
+                    parameters1 ='&subcountyId='+encodeURIComponent(subcountyhiddenvalId);
+                    parameters = parameters+parameters1+'&uniqueRequest='+currDate.getTime(); // for avoiding browser cache
+                    makeRequest("../fetchsubcountyInfo.php",parameters,displaysubcountyInfo,'POST',true);
+                }
+            }
 
-function runcountrysearch()
-{
-	
-	var countryId = $('country').value;
-	var subcountyhiddenvalId = $('subcountyhiddenval').value;
-	 
-	if(countryId!='')
-	{
-		
-		$('subcountyContainerId').style.display="none";
-		var currDate = new Date();
-		var parameters = 'countryId='+encodeURIComponent(countryId);
-		parameters1 ='&subcountyId='+encodeURIComponent(subcountyhiddenvalId);
-		parameters = parameters+parameters1+'&uniqueRequest='+currDate.getTime(); // for avoiding browser cache
-		//alert(parameters);
-		makeRequest("../fetchsubcountyInfo.php",parameters,displaysubcountyInfo,'POST',true);					
-	}
-	
-}
+            function displaysubcountyInfo()
+            {
+                if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+                {
+                    //alert(xmlHttp.responseText);
+                    $('subcountyContainerId').style.display="inline";
+                    $('subcountyContainerId').innerHTML = xmlHttp.responseText;
+                }
+            }
 
-function displaysubcountyInfo()
-{
-	if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
-	{ 
-		//alert(xmlHttp.responseText);
-		$('subcountyContainerId').style.display="inline";
-		$('subcountyContainerId').innerHTML = xmlHttp.responseText;
-		
-	}
-}
-function displaysubcountvalue()
-{
-	 $('subcountyhiddenval').value = $('subcounty').value;
-}
+            function displaysubcountvalue()
+            {
+                $('subcountyhiddenval').value = $('subcounty').value;
+            }
 
+            function runcountysearch()
+            {
+                //alert($('subcounty').value);
+            	var subcountyId = $('subcounty').value;
+            	var subcityhiddenvalId = $('subcityhiddenval').value;
+            	if (subcountyId != '')
+                {
+                    $('subcountyhiddenval').value  = $('subcounty').value;
+                    $('subcityContainerId').style.display="none";
+                    var currDate = new Date();
+                    var parameters = 'subcountyId='+encodeURIComponent(subcountyId);
+                    parameters1 ='&subcityId='+encodeURIComponent(subcityhiddenvalId);
+                    parameters = parameters+parameters1+'&uniqueRequest='+currDate.getTime(); // for avoiding browser cache
+                    makeRequest("../fetchsubcityInfo.php",parameters,displaysubcityInfo,'POST',true);
+                }
+            }
 
-function runcountysearch()
-{
-	
-	//alert($('subcounty').value);
-	
-	var subcountyId = $('subcounty').value;
-	var subcityhiddenvalId = $('subcityhiddenval').value;
-	 
-	if(subcountyId!='')
-	{
-		$('subcountyhiddenval').value  = $('subcounty').value;
-		
-		$('subcityContainerId').style.display="none";
-		var currDate = new Date();
-		var parameters = 'subcountyId='+encodeURIComponent(subcountyId);
-		parameters1 ='&subcityId='+encodeURIComponent(subcityhiddenvalId);
-		parameters = parameters+parameters1+'&uniqueRequest='+currDate.getTime(); // for avoiding browser cache
-		makeRequest("../fetchsubcityInfo.php",parameters,displaysubcityInfo,'POST',true);					
-	}
-	
-}
+            function displaysubcityInfo()
+            {
+                if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+                {
+                    //alert(xmlHttp.responseText);
+                    $('subcityContainerId').style.display="inline";
+                    $('subcityContainerId').innerHTML = xmlHttp.responseText;
+                }
+            }
 
-function displaysubcityInfo()
-{
-	if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
-	{ 
-		//alert(xmlHttp.responseText);
-		$('subcityContainerId').style.display="inline";
-		$('subcityContainerId').innerHTML = xmlHttp.responseText;
-		
-	}
-}
-function displaysubcitvalue()
-{
-	 $('subcityhiddenval').value = $('subcityId').value;
-}
+            function displaysubcitvalue()
+            {
+                $('subcityhiddenval').value = $('subcityId').value;
+            }
+
+            function open_win()
+            {
+                window.open("http://www.justthejob.co.za/RSSHelp.php","_blank","toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no, width=450, height=500")
+            }
+        </script>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-10294413-1']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+
+            <!--
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            try {
+                var pageTracker = _gat._getTracker("UA-10294413-1");
+                pageTracker._trackPageview();
+            } catch(err) {}
+            -->
+
+    </head>
+    <body>
+        <center>
+            <table width="960" border="0" cellpadding="5" cellspacing="0" bgcolor="#FFFFFF">
+                <tbody><tr>
+                    <td width="100%" valign="top" align="left">
+                        <table width="100%" cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                                <td colspan="3">
+                                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody><tr>
+                                            <td width="92%"><a href="http://www.justthejob.co.za"><img src="http://www.justthejob.co.za/images/big/283916105.jpg" border="0"></a></td>
+                                            <td width="8%" align="right" valign="bottom" style="padding-right:5px">
+                                                <div id="banner" style="margin-left:0px;width:800px"></div>
+
+                                                <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- top -->
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-3379090624280097" data-ad-slot="5614098142"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<script type="text/javascript">
-function open_win()
-{
-window.open("/RSSHelp.php","_blank","toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no, width=450, height=500")
-}
-</script>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-10294413-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="3">
+                                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody><tr>
+                                            <td valign="middle" class="navigation" align="center">
+                                                <a href="http://www.justthejob.co.za">Home</a> |
+                                                <a href="http://www.justthejob.co.za/employers.html">Employers</a> |
+                                                <a href="http://www.justthejob.co.za/jobseekers.html">Jobseekers</a> |
+                                                <a href="http://www.justthejob.co.za/cv.php">CV Writing</a> |
+                                                <a href="http://www.justthejob.co.za/educators.php">Education and Training</a>  |
+                                                <a href="http://www.justthejob.co.za/faq.html">FAQ</a> |
+                                                <a href="http://www.justthejob.co.za/contact.html">Contact</a>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="3" style="padding-bottom:5px">
+                                    <link href="../../style.css" rel="stylesheet" type="text/css"><table width="100%" border="0" cellpadding="5" cellspacing="0" style="border-left:1px solid #CCCCCC; border-right:1px solid #CCCCCC; border-bottom:1px solid #CCCCCC">
+                                        <tbody><tr>
+        
+        </tr><tr>
+            <td width="190" height="500" align="center" valign="top">
 
-
-
-
-</head>
-<body>
-<center>
-
-<table width="80%" border="0" cellpadding="5" cellspacing="0" bgcolor="#FFFFFF">
-<tbody><tr>
-<td width="100%" valign="top" align="left">
-
+                
 <table width="100%" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td colspan="3">
+    <tbody><tr>
+        <td align="left" valign="top" style="padding:5px">
+            <b>Latest Jobs</b><br>
+            <table width="100%" border="0" cellspacing="2" cellpadding="3">
+                <tbody><tr>
+                    <td align="left" style="border:1px solid #CCCCCC">
+                        <style type="text/css">
+                            #marqueecontainer{
+                                position: relative;
+                                width: 190px; /*marquee width */
+                                height: 300px; /*marquee height */
+                                background-color: white;
+                                overflow: hidden;
+                                border: 0px solid orange;
+                                padding: 2px;
+                                padding-left: 2px;
+                                background-color:#FFFFFF;
+                            }
+                        </style>
+                        <script type="text/javascript">
+                            var delayb4scroll=2000 //Specify initial delay before marquee starts to scroll on page (2000=2 seconds)
+                            var marqueespeed=1 //Specify marquee scroll speed (larger is faster 1-10)
+                            var pauseit=1 //Pause marquee onMousever (0=no. 1=yes)?
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="92%"><a href=""><img src="/images/big/283916105.jpg" border="0"></a></td>
-<td width="8%" align="right" valign="bottom" style="padding-right:5px">
-<div id="banner" style="margin-left:0px;width:800px"></div>
-<!--JavaScript Tag // Tag for network 567: Dash Of Lime // Website: Justthejob.co.za // Page: ROS // Placement: ROS-Leaderboard Top-728 x 90 (4744981) // created at: Aug 16, 2013 10:31:54 AM--> <script language="javascript">
-<!--
-if (window.adgroupid == undefined) {
-	window.adgroupid = Math.round(Math.random() * 1000);
-}
-document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|567|4744981|0|225|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|567|4744981|0|225|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=302;misc=1580356104935"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|567|4744981|0|225|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|567|4744981|0|225|ADTECH;loc=300;key=key1+key2+key3+key4" border="0" width="728" height="90"></a></noscript> <!-- End of JavaScript Tag -->
+                            ////NO NEED TO EDIT BELOW THIS LINE////////////
+                            var copyspeed=marqueespeed
+                            var pausespeed=(pauseit==0)? copyspeed: 0
+                            var actualheight=''
 
+                            function scrollmarquee()
+                            {
+                                if (parseInt(cross_marquee.style.top)>(actualheight*(-1)+8))
+                                {
+                                    cross_marquee.style.top=parseInt(cross_marquee.style.top)-copyspeed+"px"
+                                }
+                                else
+                                {
+                                    cross_marquee.style.top=parseInt(marqueeheight)+8+"px"
+                                }
+                            }
 
-</td>
-</tr>
-</tbody></table>
+                            function initializemarquee()
+                            {
+                                cross_marquee=document.getElementById("vmarquee")
+                                cross_marquee.style.top=0
+                                marqueeheight=document.getElementById("marqueecontainer").offsetHeight
+                                actualheight=cross_marquee.offsetHeight
+                                if (window.opera || navigator.userAgent.indexOf("Netscape/7")!=-1)
+                                {
 
-</td>
-</tr>
-<tr>
-<td colspan="3">
+                                    //if Opera or Netscape 7x, add scrollbars to scroll and exit
+                                    cross_marquee.style.height=marqueeheight+"px"
+                                    cross_marquee.style.overflow="scroll"
+                                    return
+                                }
+                                setTimeout('lefttime=setInterval("scrollmarquee()",30)', delayb4scroll)
+                            }
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td valign="middle" class="navigation" align="center">
-		<a href="http://www.justthejob.co.za">Home</a> |
-		<a href="/employers.html">Employers</a> |
-		<a href="/jobseekers.html">Jobseekers</a> |
-        <a href="/cv.php">CV Writing</a> |
-		<a href="http://www.justthejob.co.za/educators.php">Education and Training</a>  |
-		<a href="/jobseekers/trainingpreview.php">How to apply for a job</a> |  
-		
-		
-		
-		<!-- <a href="/start-you-own-business.php">Start Your Own Business</a> | -->
-		<a href="/faq.html">FAQ</a> |
-		<a href="/contact.html">Contact</a></td>
-</tr>
-</tbody></table>
+                            if (window.addEventListener)
+                            {
+                                window.addEventListener("load", initializemarquee, false)
+                            }
+                            else if (window.attachEvent)
+                            {
+                                window.attachEvent("onload", initializemarquee)
+                            }
+                            else if (document.getElementById)
+                            {
+                                window.onload=initializemarquee
+                            }
 
-</td>
-</tr>
-<tr>
-<td colspan="3" style="padding-bottom:5px">
-<link href="../../style.css" rel="stylesheet" type="text/css"><link href="../../style.css" rel="stylesheet" type="text/css"><table width="100%" border="0" cellpadding="5" cellspacing="0" style="border-left:1px solid #CCCCCC; border-right:1px solid #CCCCCC; border-bottom:1px solid #CCCCCC">
-<tbody><tr>
+                        </script>
 
+                        <div id="marqueecontainer" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=marqueespeed">
+                            <div id="vmarquee" style="position: relative; width: 99%; top: 0px;">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="2">
 
-</tr><tr>
-<td width="190" height="500" align="center" valign="top">
+                                    
+                                    <tbody><tr>
+                                        <td align="left" colspan="2">
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_309995.html">Paralegal/Claims Handler/Legal Secretary</a></b>
+                                            <small>
+                                                <br><b>Hours:</b> Monday - Friday                                                <br><b>Job Location:</b>
 
+                                                Durban, South Africa
+                                                <br>
+                                                <b>Salary:</b> Negotiable                                            </small>
+                                            <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
+                                        </td>
+                                    </tr>
 
+                                    
+                                    <tr>
+                                        <td align="left" colspan="2">
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_309994.html">Healthcare Sales</a></b>
+                                            <small>
+                                                <br><b>Hours:</b> Monday - Friday                                                <br><b>Job Location:</b>
 
-<table width="100%" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td align="left" valign="top" style="padding:5px">
+                                                Tableview, South Africa
+                                                <br>
+                                                <b>Salary:</b> Up To R4,000 Per Month Basic Plus Commission                                            </small>
+                                            <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
+                                        </td>
+                                    </tr>
 
-<b>Latest Jobs</b><br>
+                                    
+                                    <tr>
+                                        <td align="left" colspan="2">
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_309993.html">Import/Shipping Specialist</a></b>
+                                            <small>
+                                                <br><b>Hours:</b> Monday - Friday                                                <br><b>Job Location:</b>
 
-<table width="100%" border="0" cellspacing="2" cellpadding="3">
-<tbody><tr>
-<td align="left" style="border:1px solid #CCCCCC">
-<style type="text/css">
-#marqueecontainer{
-position: relative;
-width: 190px; /*marquee width */
-height: 300px; /*marquee height */
-background-color: white;
-overflow: hidden;
-border: 0px solid orange;
-padding: 2px;
-padding-left: 2px;
-background-color:#FFFFFF;
-}
-</style>
+                                                Midrand, South Africa
+                                                <br>
+                                                <b>Salary:</b> Market Related Basic Salary                                            </small>
+                                            <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
+                                        </td>
+                                    </tr>
 
-<script type="text/javascript">
-var delayb4scroll=2000 //Specify initial delay before marquee starts to scroll on page (2000=2 seconds)
-var marqueespeed=1 //Specify marquee scroll speed (larger is faster 1-10)
-var pauseit=1 //Pause marquee onMousever (0=no. 1=yes)?
+                                    
+                                    <tr>
+                                        <td align="left" colspan="2">
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_309992.html">Graduate</a></b>
+                                            <small>
+                                                <br><b>Hours:</b>                                                 <br><b>Job Location:</b>
 
-////NO NEED TO EDIT BELOW THIS LINE////////////
+                                                South Africa, Africa
+                                                <br>
+                                                <b>Salary:</b> R Negotiable                                            </small>
+                                            <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
+                                        </td>
+                                    </tr>
 
-var copyspeed=marqueespeed
-var pausespeed=(pauseit==0)? copyspeed: 0
-var actualheight=''
+                                    
+                                    <tr>
+                                        <td align="left" colspan="2">
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_309991.html">Educators Required Durban High School</a></b>
+                                            <small>
+                                                <br><b>Hours:</b>                                                 <br><b>Job Location:</b>
 
-function scrollmarquee(){
-if (parseInt(cross_marquee.style.top)>(actualheight*(-1)+8))
-cross_marquee.style.top=parseInt(cross_marquee.style.top)-copyspeed+"px"
-else
-cross_marquee.style.top=parseInt(marqueeheight)+8+"px"
-}
+                                                Durban, South Africa
+                                                <br>
+                                                <b>Salary:</b>                                             </small>
+                                            <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
+                                        </td>
+                                    </tr>
 
-function initializemarquee(){
-cross_marquee=document.getElementById("vmarquee")
-cross_marquee.style.top=0
-marqueeheight=document.getElementById("marqueecontainer").offsetHeight
-actualheight=cross_marquee.offsetHeight
-if (window.opera || navigator.userAgent.indexOf("Netscape/7")!=-1){ //if Opera or Netscape 7x, add scrollbars to scroll and exit
-cross_marquee.style.height=marqueeheight+"px"
-cross_marquee.style.overflow="scroll"
-return
-}
-setTimeout('lefttime=setInterval("scrollmarquee()",30)', delayb4scroll)
-}
+                                    
+                                    <tr>
+                                        <td align="left" colspan="2">
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_309990.html">Shop Managers</a></b>
+                                            <small>
+                                                <br><b>Hours:</b>                                                 <br><b>Job Location:</b>
 
-if (window.addEventListener)
-window.addEventListener("load", initializemarquee, false)
-else if (window.attachEvent)
-window.attachEvent("onload", initializemarquee)
-else if (document.getElementById)
-window.onload=initializemarquee
+                                                KwaZulu-Natal, South Africa
+                                                <br>
+                                                <b>Salary:</b>                                             </small>
+                                            <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
+                                        </td>
+                                    </tr>
 
-</script>
-<div id="marqueecontainer" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=marqueespeed">
-<div id="vmarquee" style="position: relative; width: 99%; top: 0px;">
-    
-<table width="100%" border="0" cellspacing="0" cellpadding="2">
-<tbody><tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_209491.html">Production Controller</a></b>
-<small>
-<br><b>Hours:</b> Monday - Friday<br><b>Job Location:</b>
-Boksburg, South Africa<br>
-<b>Salary:</b> 180 000 - 240000</small> 
-<hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_209490.html">Secretary</a></b>
-<small>
-<br><b>Hours:</b> Monday - Friday<br><b>Job Location:</b>
-Durban, South Africa<br>
-<b>Salary:</b> R14000</small> 
-<hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_209485.html">System Developer </a></b>
-<small>
-<br><b>Hours:</b> <br><b>Job Location:</b>
-Cape Town, South Africa<br>
-<b>Salary:</b> </small> 
-<hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_209482.html">Data Analyst </a></b>
-<small>
-<br><b>Hours:</b> <br><b>Job Location:</b>
-Cape Town, South Africa<br>
-<b>Salary:</b> </small> 
-<hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_209481.html">Systems Developer </a></b>
-<small>
-<br><b>Hours:</b> <br><b>Job Location:</b>
-Cape Town, South Africa<br>
-<b>Salary:</b> </small> 
-<hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_209480.html">Logistics Assistant / Forklift Driver</a></b>
-<small>
-<br><b>Hours:</b> <br><b>Job Location:</b>
-Cape Town, South Africa<br>
-<b>Salary:</b> </small> 
-<hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_209479.html">Spectroscopy Service Engineer (G327)</a></b>
-<small>
-<br><b>Hours:</b> Monday - Friday<br><b>Job Location:</b>
-Gauteng, South Africa<br>
-<b>Salary:</b> Market related and dependent on experience</small> 
-<hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_209478.html">Tribology Service Engineer (G294)</a></b>
-<small>
-<br><b>Hours:</b> Monday - Friday<br><b>Job Location:</b>
-Johannesburg, South Africa<br>
-<b>Salary:</b> Market related and dependent on experience</small> 
-<hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_209477.html">Engineering Administrator </a></b>
-<small>
-<br><b>Hours:</b> <br><b>Job Location:</b>
-Cape Town, South Africa<br>
-<b>Salary:</b> </small> 
-<hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_209476.html">Graduate Chemist</a></b>
-<small>
-<br><b>Hours:</b> Monday - Friday<br><b>Job Location:</b>
-Pretoria, South Africa<br>
-<b>Salary:</b> R15000 - R13000 per month CTC</small> 
-<hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
-</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-<hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
-<div><a href="/rss.php" title="RSS Feeds"><img src="/images/rss1.gif" border="0"></a> 
-<a href="javascript:void(0);" onclick="open_win()">What is RSS?</a></div>
+                                    
+                                    <tr>
+                                        <td align="left" colspan="2">
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_309989.html">Motorbike Driver</a></b>
+                                            <small>
+                                                <br><b>Hours:</b>                                                 <br><b>Job Location:</b>
 
-</td>
-</tr>
- 
-</tbody></table>
+                                                Pinetown, South Africa
+                                                <br>
+                                                <b>Salary:</b> R3500 pm                                            </small>
+                                            <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
+                                        </td>
+                                    </tr>
 
+                                    
+                                    <tr>
+                                        <td align="left" colspan="2">
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_309988.html">Supervisor</a></b>
+                                            <small>
+                                                <br><b>Hours:</b>                                                 <br><b>Job Location:</b>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
+                                                Pinetown, South Africa
+                                                <br>
+                                                <b>Salary:</b>                                             </small>
+                                            <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
+                                        </td>
+                                    </tr>
 
-<!--  <tr>
-  <td colspan="2" align=center bgcolor="#ffffff"><a href="http://www.facebook.com/justthejob" target="_blank"><img src="images/join-us-on-facebook.gif" border="0"></a></td>
-</tr>-->
-<!--<tr>
-  <td align=left bgcolor="#ffffff"><div align="center" class="header"><br>
-    <img src="/images/recruiting-dot.gif" width="20" height="19">  </div>
-    <br></td>
-  <td align=left bgcolor="#ffffff"><span class="headerrecruit"><b>Now Recruiting</b></span></td>
-</tr> 
-<tr>
-  <td colspan="2" align=left bgcolor="#ffffff">
-  <table width="100%" border="0" cellspacing="2" cellpadding="3">
-</table>
+                                    
+                                    <tr>
+                                        <td align="left" colspan="2">
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_309987.html">Receptionist / Admin</a></b>
+                                            <small>
+                                                <br><b>Hours:</b>                                                 <br><b>Job Location:</b>
 
-  
-  </td>
-</tr> -->
+                                                Durban, South Africa
+                                                <br>
+                                                <b>Salary:</b>                                             </small>
+                                            <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
+                                        </td>
+                                    </tr>
 
-<tbody><tr>
-  <td colspan="2" align="center"><script type="text/javascript"><!--
-google_ad_client = "pub-3379090624280097";
-/* 200x200, created 11/18/09 */
-google_ad_slot = "9898440929";
-google_ad_width = 200;
-google_ad_height = 200;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></td>
-</tr>
-<tr>
-  <td colspan="2" align="left">&nbsp;</td>
-</tr>
-<!--  <tr>
-  <td colspan="2" align=left>&nbsp;</td>
+                                    
+                                    <tr>
+                                        <td align="left" colspan="2">
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_309986.html">Aluminium Sales Rep</a></b>
+                                            <small>
+                                                <br><b>Hours:</b>                                                 <br><b>Job Location:</b>
 
-</tr>
-<tr>
-<td width="17%" align=left  valign="middle"><img src="/images/candidate-dot.gif" width="20" height="19">
-</td>
-<td width="83%" align=left ><font color="#333333" class="headercandidate"><b>Employers: Looking To Hire?</b></font></td>
-</tr>
-<tr>
-<td colspan="2" align=center style="border-left:1px solid #EEEEEE; border-right:1px solid #EEEEEE">&nbsp;</td>
-</tr>
-<tr>
-<td colspan="2" align=center ><a href="/employers/registration.php"><b><font color="#FF0000">ADVERTISE A JOB VACANCY</font></b></a></td>
-</tr>
-<tr>
-  <td colspan="2" align=center><img src="/images/cards.gif" border="0"></td>
-</tr>
-<tr>
-  <td colspan="2" align=center >&nbsp;</td>
-</tr>-->
+                                                Johannesburg, South Africa
+                                                <br>
+                                                <b>Salary:</b>                                             </small>
+                                            <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
+                                        </td>
+                                    </tr>
 
-<tr>
-  <td colspan="2" align="center" bgcolor="#ffffff">&nbsp;</td>
-</tr>
-</tbody></table>
+                                    
+                                </tbody></table>
+                            </div>
+                        </div>
+                        <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
+                        <div>
+                            <a href="http://www.justthejob.co.za/rss.php" title="RSS Feeds"><img src="http://www.justthejob.co.za/images/rss1.gif" border="0"></a>
+                            <a href="javascript:void(0);" onclick="open_win()">What is RSS?</a>
+                        </div>
+                    </td>
+                </tr>
+            </tbody></table>
 
-</td>
-</tr>
-</tbody></table>
+                <table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
+                    <tbody><tr>
+                        <td colspan="2" align="center">
+                            <script type="text/javascript">
+                                <!--
+                                google_ad_client = "pub-3379090624280097";
+                                google_ad_slot = "9898440929";
+                                google_ad_width = 200;
+                                google_ad_height = 200;
+                                //-->
+                            </script>
+                            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+                        </td>
+                    </tr>
+                    <tr><td colspan="2" align="left">&nbsp;</td></tr>
+                    <tr><td colspan="2" align="center" bgcolor="#ffffff">&nbsp;</td></tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
 
-<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td width="1"></td></tr>
-<tr><td align="center"><!-- BEGIN JS TAG - 160x600 < - DO NOT MODIFY --> <script src="http://ib.adnxs.com/ttj?id=1460923" type="text/javascript"></script> <!-- END TAG --></td></tr><tr><td align="center"><a target="_blank" href="ban.php?bid=62&amp;action=display"><img border="0" src="banner/62.jpg"></a></td></tr>
-</tbody></table>
-
-
+    <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+            <td width="1"></td>
+        </tr>
+                
+                    <tr>
+                        <td align="center">
+                            <script type="text/javascript" src="http://ads1.qadabra.com/t?id=7c79e825-8a3d-4ed5-b0d4-6b7b1fdfe44d&amp;size=160x600"></script>
+                        </td>
+                    </tr>
+                                
+                    <tr>
+                        <td align="center">
+                            <a target="_blank" href="http://www.justthejob.co.za/ban.php?bid=62&amp;action=display"><img border="0" src="http://www.justthejob.co.za/banner/62.jpg"></a>
+                        </td>
+                    </tr>
+                            </tbody></table>
 </td>
 <td valign="top">
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
@@ -469,25 +469,25 @@ google_ad_height = 200;
     </tbody>
 </table>
 <div><font size="2">At <strong>justthejob.co.za</strong>, we take your privacy seriously! Please read this <strong>Statement of Privacy</strong> to be more aware about our policy on collecting, using and disclosing personal information. This website is not intended under the age of 16.</font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
 <div><font size="4"><u>Scope of Coverage</u></font></div>
-<div><font size="2">This <strong>Statement of Privacy</strong> covers how <strong>justthejob.co.</strong>za treats personal information collected and received, including information relating to the past use of our products and services. "Personal Information" refers to information that personally identifies you by your name, email address or telephone number and other information that is not otherwise available publicly. This <strong>Statement of</strong> <strong>Privacy</strong> applies only to the practices of <strong>justthejob.co.za</strong> and the people we employ or manage. Other websites or services linked to/from this website will have their own statments of privacy which can be viewed by clicking on their respective privacy links.</font></div>
-<div><u>&nbsp;</u></div>
+<div><font size="2">This <strong>Statement of Privacy</strong> covers how <strong>justthejob.co.</strong>za treats personal information collected and received, including information relating to the past use of our products and services. "Personal Information" refers to information that personally identifies you by your name, email address or telephone number and other information that is not otherwise available publicly. This <strong>Statement of</strong> <strong>Privacy</strong> applies only to the practices of <strong>justthejob.co.za</strong> and the people we employ or manage. Other websites or services linked to/from this website will have their own statements of privacy which can be viewed by clicking on their respective privacy links.</font></div>
+<div><font size="2"><br></font></div>
 <div><u><font size="4">Collection of your Personal Information</font></u></div>
 <div><font size="2"><strong>justthejob.co.za</strong> collects personal information, such as your name, email address or telephone number, work experience and other such data associated with a resume for job applications. When you register with <strong>justthejob.co.za</strong> and sign in to our services, you are no longer unknown to us.</font></div>
-<div><font size="2">&nbsp;</font></div>
-<div><font size="2"><strong>justthejob.co.za</strong>&nbsp;keeps track of your transactions with us and some of our affiliated business partners including information about your use of the services we offer. </font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
+<div><font size="2"><strong>justthejob.co.za</strong> keeps track of your transactions with us and some of our affiliated business partners including information about your use of the services we offer. 
+<div><font size="2"><br></font></div>
 <div><font size="2"><strong>justthejob.co.za</strong> also keeps track of the pages our users visit within <strong>justthejob.co.za</strong>, for business and security purposes. We may use this data to deliver customised content and advertising to users whose behaviour indicates that they are interested in a particular subject area.</font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
 <div><font size="2"><strong>justthejob.co.za</strong> uses the collected information for the following general purposes: customising the advertisement and content you see, fulfilling your requests for services, improving our services, contacting you, conducting research and providing relevant reports for our internal and external clients.</font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
 <div><font size="2"><strong>justthejob.co.za</strong> may also collect certain information about your computer hardware and software. This information includes your IP address, browser type, domain names, access times and referring website addresses. We use this information for operating our services, maintaining the quality of the service, security, management and providing reports for relevant business purposes.</font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
 <div><font size="2"><strong>justthe job.co.za</strong> uses Just the Job to provide registration and sign-in services. If you create a MyJusttheJob account, you are simultaneously registering with <strong>justthejob.co.za</strong> and opening a MyJusttheJob account. All the registration information you provide is stored by us in your MyJusttheJob profile. For more information about a MyJusttheJob account, please visit <a href="http://www.justthejob.co.za">www.justthejob.co.za</a></font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
 <div><font size="2">Please keep in mind that when you apply for vacancies advertised on <strong>justthejob.co.za</strong>, your resume data in MyJusttheJob account and any other information you disclosed during your job application will be made available to the companies you are applying to. We encourage you to review the privacy statements of websites you choose to browse that are linked from <strong>justthejob.co.za</strong> so that you can understand how those webistes collect, use and share your information. We are not responsible for the privacy statements or other content on such websites outside the <strong>justthejob.co.za</strong> domain name.</font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
 <div><u><font size="4">Use of your Personal Information</font></u></div>
 <div><font size="2"><strong>justthejob.co.za</strong> does not sell, rent or share your personal information with other people or non-affiliated third parties excpet to provide you with the services you have requested. When you give us permission, or under these circumstances:</font></div>
 <ul>
@@ -501,166 +501,154 @@ google_ad_height = 200;
 </ul>
 <div><u><font size="4">Control of your Personal Information</font></u></div>
 <div><font size="2"><strong>justthejob.co.za</strong> offers you various choices for the use and sharing of your personal information, as well as subscription to various marketing preferences and services. You may go to theMyJusttheJob account page to edit your personal information and preferences at any time. You may choose not to receive any marketing material from <strong>justthejob.co.za</strong> or from any of our affiliated partners. You may aslo subscribe to additional services from this account.</font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
 <div><font size="2">In addition, you may visit <strong>justthejob.co.za</strong> to view, edit or delete your personal information or discontinue your subscription to marketing preferences or services from <strong>justthejob.co.za</strong> database.</font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
 <div><font size="2">In both cases, described above, you will be asked to make your requests while logged into a MyJusttheJob account, so that <strong>justthejob.co.za</strong> can associate your preferences with a particular service. This security safeguard prevents someone else from making choices about the usage and control of your personal information. If you do not have a MyJusttheJob account, you can create one by </font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
 <div><font size="2">You may also stop the delivery of future promotional emails from <strong>justthejob.co.za</strong> by following the specific instructions in the emails you receive or in the MyJusttheJob account page. The instruction explains how to stop receiving such mails.</font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
 <div><font size="2">However, there are some <strong>justthejob.co.za</strong> services which are sent out periodically by email to inform you of technical service issues, product surveys, new feature announcements and news about our services. You will be unable to unsubscribe from these emails as they are considered an integral part of the service you have chosen.</font></div>
-<div><font size="2">&nbsp;</font></div>
-<div><font size="2">In the event <strong>justthejob.co.za</strong> goes through a business transition as a merger, acquisition by another company or sale of all or a portion of it's assets, your personally identifiable information will likely be among the assets transferred. &nbsp;You will be notified by email of any such change in ownership or control of your personal information and can choose to delete all your personal information.</font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
+<div><font size="2">In the event <strong>justthejob.co.za</strong> goes through a business transition as a merger, acquisition by another company or sale of all or a portion of it's assets, your personally identifiable information will likely be among the assets transferred.  You will be notified by email of any such change in ownership or control of your personal information and can choose to delete all your personal information.</font></div>
+<div><font size="2"><br></font></div>
 <div><u><font size="4">Security of your Personal Information</font></u></div>
 <div><font size="2"><strong>justthejob.co.za</strong> is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorised access, use or disclosure. For example, your information is stored on computer systems that are located in controlled facilities. When <strong>justthejob.co.za</strong> transmits highly confidential information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.</font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
 <div><u><font size="4">Email to Friend</font></u></div>
 <div><font size="2">If you choose to use our referral service to tell a friend about a job or our site, <strong>justthejob.co.za</strong> will ask you for your friend's name and email address. A one-time email inviting your friend will be send automatically. <strong>justthejob.co.za</strong> stores this information for the sole purpose of sending this one-time email and tracking the success of our referral programme.</font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
 <div><u><font size="4">Resume References</font></u></div>
 <div><font size="2">If you choose to add references to your resume, <strong>justthejob.co.za</strong> will ask for their names, telephone numbers, email addresses and position titles. This information will be enclosed as part of your job application and employers may contact them to get references for your applications.</font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
 <div><u><font size="4"><strong>justthejob.co.za</strong> Newsletters</font></u></div>
 <div><font size="2">When you subscribe to a <strong>justthejob.co.za</strong> Newsletter, we shall request your email address, in order to send you the newsletter(s) you have requested. You may subscribe and unsubscribe to the newsletters by following the prominent instructions mentioned in each of the newsletters.</font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><br></font></div>
 <div><u><font size="4">Service Providers</font></u></div>
-<div><font size="2"><strong>justthejob.co.za</strong> may use third parties to provide 1) payment gateway services for optional services 2) a profiling/assessment service and 3) web analytics on our website.&nbsp;When you sign up for such services or by using our website, they may collect some information (e.g. credit card numbers, name) as necessary for the third party to provide that service.</font></div>
-<div><font size="2">&nbsp;</font></div>
-<div><font size="2">These third parties are prohibited from using your personally indentifiable information for any other purpose.</font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><strong>justthejob.co.za</strong> may use third parties to provide 1) payment gateway services for optional services 2) a profiling/assessment service and 3) web analytics on our website. When you sign up for such services or by using our website, they may collect some information (e.g. credit card numbers, name) as necessary for the third party to provide that service.</font></div>
+<div><font size="2"><br></font></div>
+<div><font size="2">These third parties are prohibited from using your personally identifiable information for any other purpose.</font></div>
+<div><font size="2"><br></font></div>
 <div><u><font size="4">Testimonials/Success Stories</font></u></div>
-<div><font size="2"><strong>justthejob.co.za</strong> will ask your permission to post your testimonial or success story. If you agree to post your story on this site, you should be aware that any personally indetifiable information you submit can be read, collected or used by other users of this site and could be used to send you unsolicited messages. <strong>justthejob.co.za</strong> will not be responsible for the personally indentifiable information you may choose to submit in these testimonials/success stories.&nbsp;</font></div>
-<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><strong>justthejob.co.za</strong> will ask your permission to post your testimonial or success story. If you agree to post your story on this site, you should be aware that any personally identifiable information you submit can be read, collected or used by other users of this site and could be used to send you unsolicited messages. <strong>justthejob.co.za</strong> will not be responsible for the personally identifiable information you may choose to submit in these testimonials/success stories. </font></div>
+<div><font size="2"><br></font></div>
 <div><u><font size="4">Changes to this Statement</font></u></div>
-<div><font size="2"><strong>justthejob.co.za</strong> will occasionally update this <strong>Statement of Privacy</strong> to reflect company and user feedback. When we post changes to this statement, you will see the word "Updated" next to the <strong>Privacy Statement</strong> link on the front page of <strong>justthejob.co.za. </strong>&nbsp;If there are material changes to this Statement or in the manner, <strong>justthejob.co.za</strong> will use your personal information, we shall psot a prominent notice on the website 30 calendar days prior to implementing the change.</font></div>
-<div><font size="2">&nbsp;</font></div>
-<div><font size="2"><strong>justthejob.co.za</strong> encourages you to review this Statement periodically to be informed of how we are protecting your personal information.</font></div>
-<div><font size="2">&nbsp;</font></div>
-<div><u><font size="4">Contact Information</font></u></div>
-<div><font size="2">justthejob.co.za welcomes your comments regarding the Statement of Privacy. If you believe we have not adhered to this statement, please contact us via the following:</font></div>
-<div><font size="2">&nbsp;</font></div>
-<div>Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; info@justthejob.co.za</div>
-<div>Postal Address: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 66A stiglingh Road, Rivonia</div>
-<div>Physical Address: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 66A Stiglingh Road, Rivonia</div>
-<div>Telephone Number: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;011 234 4190</div>
-<div>&nbsp;</div>
-<div><font size="2">&nbsp;</font></div>
-<div><font size="2">&nbsp;</font></div>
-<div>&nbsp;</div>
-<p><font size="2">&nbsp;</font></p>
-<div><font size="2">&nbsp;</font></div>
-<div><font size="2">&nbsp;</font></div>
-<div><font size="2">&nbsp;</font></div>
-<div><font size="2">&nbsp;</font></div></td>
+<div><font size="2"><strong>justthejob.co.za</strong> will occasionally update this <strong>Statement of Privacy</strong> to reflect company and user feedback. When we post changes to this statement, you will see the word "Updated" next to the <strong>Privacy Statement</strong> link on the front page of <strong>justthejob.co.za. </strong> If there are material changes to this statement or in the manner, <strong>justthejob.co.za</strong> will use your personal information, we shall post a prominent notice on the website prior to implementing the change.</font></div>
+<div><font size="2"><br></font></div>
+<div><font size="2"><strong>justthejob.co.za</strong> encourages you to review this Statement periodically to be informed of how we are protecting your personal information.
+Contact Information
+justthejob.co.za welcomes your comments regarding the Statement of Privacy. If you believe we have not adhered to this statement, please contact us via the following:
+Email:info@justthejob.co.za</font></div><font size="2">
+
+</font></font></div></td>
 </tr>
 </tbody></table>
 
-</td>
+    </td>
+    <td width="190" align="right" valign="top" style="padding:0px">
+        <link href="../../style.css" rel="stylesheet" type="text/css">
+        <style type="text/css">
+            <!--
+                .style1 {color: #742A7F}
+            -->
+        </style>
+        <table width="100%">
+            <tbody><tr>
+                <td><p>Follow or recommend us on </p></td>
+            </tr>
+            <tr>
+                <td><a target="_blank" href="http://www.facebook.com/justthejob"><img src="/userfiles/facebook-twitter-icons.jpg" alt="" width="104" height="48" border="0" usemap="#Map"></a></td>
+            </tr>
+        </tbody></table>
+        <table width="100%" border="0">
+                        <tbody><tr>
+                            <td align="center">
+                                <script type="text/javascript">
+          <!--
+          var _adynamo_client = "aa394ee7-d574-4e7a-a2e5-34fabacd89da";
+          var _adynamo_width = 160;
+          var _adynamo_height = 600;
+          //-->
+</script>
+<script type="text/javascript" src="http://static.addynamo.net/ad/js/deliverAds.js"></script>
 
-
-
-<style type="text/css">
-<!--
-.style1 {color: #742A7F}
--->
-</style>
-
-
-<td width="190" align="right" valign="top" style="padding:0px">
-<table width="100%">
-<tbody><tr>
-<td>
-<img align="bottom" width="178" height="33" border="0" alt="" src="../../userfiles/image/i-lead-sa.jpg">
-
-
-</td>
-</tr>
-<tr>
-<td><a target="_blank" href="http://twitter.com/justthejobsa"><img border="0" alt="" src="/userfiles/twitter-content.gif"></a></td></tr>
-<tr>
-<td><a target="_blank" href="http://www.facebook.com/justthejob"><img width="120" height="37" border="0" alt="" src="/userfiles/just-the-job-on-facebook.gif"></a></td></tr>
-</tbody></table>
-
-<table width="100%" border="0">
-</table>
-<table width="100%" border="0">
-</table>
-<table width="100%" border="0">
-<tbody><tr><td align="center"><script type="text/javascript">
-	<!--
-	var _adynamo_client = "aa394ee7-d574-4e7a-a2e5-34fabacd89da";
-	var _adynamo_width = 160;
-	var _adynamo_height = 600;
-	//-->
-</script> <script type="text/javascript" src="http://static.uk.addynamo.com/ad/js/deliverAds.js"></script></td></tr></tbody></table>
-<table width="100%" border="0">
-<tbody><tr><td align="center"><script type="text/javascript"><!--
-google_ad_client = "ca-pub-3379090624280097";
-/* bottom right */
-google_ad_slot = "4374172283";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
-</script> <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></td></tr></tbody></table>
-<table width="100%" border="0">
-<tbody><tr><td align="center"><p><a href="mailto:dalene@justthejob.co.za?subject=Advertise in Educator Section - enquiry"><img alt="Education institutions and  training providers advertise in Just the Job Educator's section" src="http://www.justthejob.co.za/banner/63.jpg"></a></p></td></tr></tbody></table>
-
-<table width="100%" cellpadding="0" cellspacing="0">
-
-<!--  <tr>
-<td align='center' bgcolor='#EEEEEE' style='padding:5px'><a href='/featured.php'><font color='#000000' size='2'><b>View All Employers</b></font></a></td>
-</tr>-->
-</table>
-<br>
-
-
-
-
-
-</td>
-</tr><tr>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr><td colspan="3">
-
-<table width="100%" border="0">
-  <tbody><tr>
-    <td colspan="7"><strong>Learn more about the SETA role </strong></td>
-  </tr>
-  <tr>
-    <td><img src="/images/i-lead-sa.jpg" width="178" height="33"></td>
-    <td><a href="http://www.foodbev.co.za" target="_blank"><img src="/images/FoodBev-SETA-logo-documents.jpg" border="0"></a></td>
-    <td><a href="http://www.fasset.org.za" target="_blank"><img src="/images/fasset-seta.jpg" border="0"></a></td>
-    <td><a href="http://www.hwseta.org.za" target="_blank"><img src="/images/hwseta1.gif" border="0"></a></td>
-    <td><a href="http://www.bankseta.org.za/" target="_blank"><img src="/images/bankseta.jpg" border="0"></a></td>
-    <td><a href="http://www.sasseta.org.za/" target="_blank"><img src="/images/sasseta.gif" border="0"></a></td>
-    <td><img src="/images/proud-south-africans.jpg"></td>
-  </tr>
-</tbody></table>
-</td></tr>
-<tr>
-<td colspan="3" bgcolor="#0053CE" style="padding: 10px" class="footer">Copyright 2013 JustTheJob.co.za. All rights reserved<br>
-  <a href="/contact.php">Contact Us</a> | <a href="/terms.php">Terms &amp; Conditions</a> | <a href="/privacy.php">Privacy Policy</a>
-</td>
-</tr>
-</tbody></table>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-40774658-20']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+                            </td>
+                        </tr>
+                    </tbody></table>
+        <table width="100%" border="0"></table>
+        <table width="100%" border="0"></table>
+        <table width="100%" border="0">
+                        <tbody><tr>
+                            <td align="center">
+                                <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- top -->
+<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-3379090624280097" data-ad-slot="5614098142"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+                            </td>
+                        </tr>
+                    </tbody></table>
+        <table width="100%" border="0">
+                        <tbody><tr>
+                            <td align="center">
+                                <a target="_blank" href="http://www.justthejob.co.za/ban.php?bid=63&amp;action=display"><img border="0" src="http://www.justthejob.co.za/banner/63.jpg"></a>
+                            </td>
+                        </tr>
+                    </tbody></table>
+        <br>
+    </td>
+</tr>
+<tr>
+    <td>
+        <map name="Map" id="Map">
+            <area shape="rect" coords="54,0,101,54" href="http://www.facebook.com/justthejob" target="_blank" title="Follow us on Facebook">
+            <area shape="rect" coords="0,0,46,45" href="http://twitter.com/justthejobsa" target="_blank" title="Follow us on Twitter">
+        </map>
+    </td>
+
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <table width="100%" border="0">
+                    <tbody><tr>
+                        <td colspan="6"><strong>Learn more about the SETA role </strong></td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://www.foodbev.co.za" target="_blank"><img src="http://www.justthejob.co.za/images/FoodBev-SETA-logo-documents.jpg" border="0"></a></td>
+                        <td><a href="http://www.fasset.org.za" target="_blank"><img src="http://www.justthejob.co.za/images/fasset-seta.jpg" border="0"></a></td>
+                        <td><a href="http://www.hwseta.org.za" target="_blank"><img src="http://www.justthejob.co.za/images/hwseta1.gif" border="0"></a></td>
+                        <td><a href="http://www.bankseta.org.za/" target="_blank"><img src="http://www.justthejob.co.za/images/bankseta.jpg" border="0"></a></td>
+                        <td><a href="http://www.sasseta.org.za/" target="_blank"><img src="http://www.justthejob.co.za/images/sasseta.gif" border="0"></a></td>
+                        <td><img src="http://www.justthejob.co.za/images/proud-south-africans.jpg"></td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" bgcolor="#0053CE" style="padding: 10px" class="footer">Copyright 2014 JustTheJob.co.za. All rights reserved<br>
+                <a href="http://www.justthejob.co.za/contact.php">Contact Us</a> | <a href="http://www.justthejob.co.za/terms.php">Terms &amp; Conditions</a> | <a href="http://www.justthejob.co.za/privacy.php">Privacy Policy</a>
+            </td>
+        </tr>
+        </tbody></table>
+
+        <!--
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-40774658-20']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+        -->
+
+    
 
 </td></tr></tbody></table></center></body></html>
