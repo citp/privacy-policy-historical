@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvguide.co.uk privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109230845id_/http%3A//www.tvguide.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvguide.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110204id_/http%3A//www.tvguide.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Advertise on TVGuide.co.uk - TV Guide UK TV Listings
 
