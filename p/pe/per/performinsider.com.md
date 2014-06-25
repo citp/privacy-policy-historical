@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the performinsider.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227200132id_/http%3A//performinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performinsider.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101657id_/http%3A//performinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **What information do we collect?**
 
-We collect information from you when you subscribe to our [newsletter](http://performinsider.com/newsletter/ "newsletter").
+We collect information from you when you subscribe to our newsletter.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
@@ -36,7 +36,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**Online[Privacy Policy](http://performinsider.com/privacy-policy/ "Privacy Policy") Only**
+**Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
