@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolglow.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610023043id_/http%3A//coolglow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolglow.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140327id_/http%3A//coolglow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Glow Sticks, Glow Necklaces, Glow Bracelets, Wholesale Cheap Glow Sticks
+# Privacy Policy - Coolglow.com
 
 We require people who register to use any [Cool Glow LLC](http://coolglow.com/ "Cool Glow") online applications and/or to purchase products at [CoolGlow.com](http://coolglow.com/ "CoolGlow.com") (the "Services") to give us contact information. Depending on the Services chosen, we ask for contact and account information, such as name, company name, address, phone number, email address, password and the number of users in the organization who will be using the Services, in addition to financial and billing information, such as billing name, address and credit card number. When you express interest in additional information, when you register for the Services, or after you become a user, we may ask for additional personal information, such as title, department name, fax number or additional company information. You can opt out of providing additional information by not entering it when asked. 
 
