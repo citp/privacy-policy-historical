@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yonex.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221151537id_/http%3A//yonex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yonex.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625162902id_/http%3A//www.yonex.com/privacy-policy) for the most accurate reproduction.*
 
 # YONEX - world leader in Golf, Tennis and Badminton
 
