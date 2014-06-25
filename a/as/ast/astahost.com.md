@@ -1,6 +1,24 @@
-> *The following text is extracted and transformed from the astahost.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815145747id_/http%3A//www.astahost.com/info.php/privacy-policy_t2283.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astahost.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105846id_/http%3A//www.astahost.com/info.php/privacy-policy_t2283.html) for the most accurate reproduction.*
 
-# Privacy Policy - AstaHost
+# Privacy Policy - Announcements - Open Discussion & Free Web Hosting
+
+###  [ #1  ](http://www.astahost.com/topic/2283-privacy-policy/#entry13648 "Privacy Policy: post #1")
+
+OpaQue
+
+Administrator
+
+  * [ ](http://www.astahost.com/user/1-opaque/ "View Profile: OpaQue")
+  * **Admin**
+  *   * 528 posts 
+
+
+  * myCENTs:[ **27.03**](http://www.xistosupport.com/billing/index.php "web hosting support and billing")  
+
+
+
+
+Posted 23 January 2005 - 11:17 AM
 
 Due to the nature of our service, for security reasons, Xisto Corporation. does collect personally identifiable information about individuals.
 
@@ -15,3 +33,4 @@ If you do not want to receive email from us in the future, please let us know by
 Xisto Corporation reserves the right to change this policy at any time by notifying users of the existance of a new privacy statement.
 
 The policies described herein are effective as of the year 2005. 
+  *[23 January 2005 - 11:17 AM]: 2005-01-23T11:17:40+00:00
