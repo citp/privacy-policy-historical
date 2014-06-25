@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the termsfeed.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208234103id_/http%3A//termsfeed.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termsfeed.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093830id_/http%3A//termsfeed.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of TermsFeed
+# Privacy Policy - TermsFeed
 
 Our Privacy Policy was last updated and posted on 13 September 2012. It governs the privacy terms of our Website, located at www.termsfeed.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
 
@@ -25,6 +25,10 @@ Our Website uses "Cookies" to identify the areas of our Website that you have vi
 
   * **Third Party Tracking Tools**  
 We also use third party tracking tools to improve the performance and features of our Website. These third party tracking tools are designed to collect only Non-Personal Information about your use of our Website. However, you understand that such tools are created and managed by parties outside our control. As such, we are not responsible for what information is actually captured by such third parties or how such third parties use and protect that information.
+
+  * We use Remarketing with Google Analytics to advertise on third party sites to you after you visited our Site. We and our third party vendors, like Google, use first party cookies (such as the Google Analytics cookie) and third party cookies (such as the DoubleClick cookie) to inform, optimize and serve ads based on your past visits to our Site.
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads) page. Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) for your browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
   * **Automatic Information**  
 We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you're headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
