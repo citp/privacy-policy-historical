@@ -1,44 +1,25 @@
-> *The following text is extracted and transformed from the storesonlinepro.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210074504id_/http%3A//www.storesonlinepro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storesonlinepro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085854id_/http%3A//www.crexendo.com/privacy) for the most accurate reproduction.*
 
-# StoresOnline - Privacy Policy
+# Privacy Policy
 
-StoresOnline, Inc. (hereafter “StoresOnline) collects basic client information to make your support experience the very best on the Internet. We respect your privacy, and we assure you that we will maintain and use this information responsibly. 
+**Privacy Statement**
 
-**Browser Data Collection**  
-StoresOnline gathers navigational information about where you go on our website. This information allows us to see which areas are most visited. This helps us improve the quality of visitors' online shopping experiences by recognizing and delivering more of the features, services and products our visitors prefer. Additional non-personally identifiable information (i.e. domain type, browser version, service provider and IP address) may be collected which will provide information regarding your use of our website (such as the time of your last visit to a page on our site).  
+Crexendo Business Solutions, Inc. (hereafter “Crexendo”) collects basic client information to optimize your support experience. We respect your privacy, and we assure you that we will maintain and use this information responsibly.
 
+**Browser Data Collection**
 
-**Disclosure of Personal Information:**  
-Any information you provide to us at this site when you establish or update an account, purchase credits online or request information (i.e. name, address, e-mail address, telephone number and credit card information), is maintained in private files on our secure web server and our internal systems. This information is used to enable StoresOnline to deliver services to you. To ensure compliance with federal law, StoresOnline does not maintain information provided by children under the age of 16.  
+For each visitor to Crexendo.com, as well as any sites operated by our subsidiaries and related companies, Crexendo gathers navigational information about where you go on our websites. This information allows us to see which areas are most visited. This helps us improve the quality of visitors' online experiences by recognizing and delivering more of the features, services and products our visitors prefer. Additional non-personally identifiable information (i.e. domain type, browser version, service provider and IP address) may be collected which will provide information regarding your use of our website (such as the time of your last visit to a page on our site).
 
+Our server does not automatically recognize any private information like your e-mail address. We do collect the e-mail address of those who communicate with us via e-mail. We also aggregate information on what pages visitors access, as well as user specific information on what pages visitors access or visit and information volunteered by the visitor, such as survey information and/or account registrations.
 
-You should be aware that we may disclose specific information about you as required by law, or based on our good faith belief that it is necessary to comply with the law or is necessary to protect the users of our website, our customers or the public.  
+The information we collect is used for internal review and is then discarded. Information collected is used to improve the content of our WebPages and to customize the content and/or layout of our page for the benefit individual visitors.
 
+If you provide us with your email address we may contact you for marketing purposes. If at any time you do not want to receive e-mail from us in the future, please let us know by sending an e-mail, calling or writing, and telling us that you do not want to receive e-mail from our company. Every marketing e-mail we send also allows the recipient to opt-out by clicking a link at the bottom of the email.
 
-StoresOnline does not sell, rent or trade your e-mail address to third parties. We may, however, use third parties to help us provide services to you, such as fulfilling orders, processing payments, monitoring site activity, conducting surveys, and administering e-mails. If personally identifiable information (i.e. name, address, e-mail address, telephone number) is provided to any of these third parties, we will require that such information be maintained by them in strictest confidence.  
+See the privacy policy of each of Crexendo Business Solutions, Inc.’s products or services for a more detailed description of the privacy policy related to that particular product or service.
 
+**Terms of Use Statement**
 
-**Use of Cookies:**  
-StoresOnline uses a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies also allow StoresOnline to make our sites more responsive to your needs, by delivering a better and more personalized experience to you. The cookies are typically stored on your computer's hard drive and are used by StoresOnline to help track your clicks as you go through the pages within a StoresOnline website. In addition, StoresOnline uses cookies to help keep track of support requests and to tell us whether you have previously visited a StoresOnline website. This allows registered users to avoid reentering information upon every new visit to our site.   
+You understand and agree that Crexendo, Inc. as well as any sites operated by our subsidiaries and related companies(including but not limited to Crexendo Business Solutions, Inc.) shall not be liable for any direct, indirect, incidental, consequential or exemplary damages, including but not limited to, damages for loss of profits, data or other intangible losses (even if the owners of this site have been advised of the possibility of such damages), resulting from the use or the inability to use the product(s) and or service(s) or any misuse of the product(s) and or service(s) in a manner not in accordance with their intended use.
 
-
-**Updating Personal Information:**  
-We prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your personal information including billing information by logging into your account.  
-
-
-**Use of Forums / Discussion Boards:**  
-None of the information contained on our forums, online social media accounts, or discussion boards is medical, legal, business, or other advice or opinion of StoresOnline. Any opinion expressed via this service is that of its author. Users are reminded that postings are automatic, instantaneous, and are not pre-reviewed. Additional facts and information on legal or other developments may affect the subjects discussed. Confidential information should not be discussed. StoresOnline assumes no responsibility for the content or consequences, direct or indirect, of communications by users.  
-
-
-**Links:**  
-For your convenience, our website may contain links to other sites. StoresOnline is not responsible for the privacy practices or the content of such external websites.  
-
-
-**Questions/Changes in Policy:**  
-If you have questions or concerns with respect to our Privacy Policy, please feel free to [contact us](http://www.storesonlinepro.com/company/contact-us/). If elements of our Privacy Policy change, we will post the policy changes in our Privacy Policy on this website. If you are concerned about how your personal information is used, please visit our site often for this and other important announcements about StoresOnline.  
-
-
-StoresOnline believes in providing a safe and secure experience for all of our clients. We strive to provide stringent and effective security measures on our website.  
-
-
-It is our policy to never send private information, such as your credit card number, via e-mail.
+See the terms of use of each of Crexendo Business Solutions, Inc.’s products or services for the usage terms related to that particular product or service.
