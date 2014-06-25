@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enchantedsavings.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214032356id_/http%3A//enchantedsavings.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enchantedsavings.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073027id_/http%3A//enchantedsavings.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Enchanted Savings
 
@@ -37,7 +37,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ### What is a cookie?
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. 
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device.
 
 You can find more information about cookies at:
 
