@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the disney.co.uk privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016054942id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disney.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625151449id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue%26) for the most accurate reproduction.*
 
-# Disney Registration
+# Disney Account
 
 The Walt Disney Company has a rich tradition of bringing great stories, characters and experiences to our guests around the world, and our sites and applications are created to entertain and connect guests with the best that Disney has to offer on the platforms and devices they prefer.
 
