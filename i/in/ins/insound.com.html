@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the insound.com privacy policy that was archived on 2013-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221204507id_/http%3A//www.insound.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the insound.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626000124id_/http%3A//www.insound.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -224,7 +224,7 @@
 								<li><a href="/tapes/">Tapes</a></li>
 								<li class="divider"></li>
 								<li><a href="/digital/free-mp3s/">Free MP3s</a></li>
-								<li><a href="#" onclick="javascript:window.open('http://mp3.insound.com/player/new_radio.html','InsoundRadioPlayer','width=385,height=265');return false;">Insound Radio Player</a></li>
+							  <!-- <li><a href="#" onclick="javascript:window.open('http://mp3.insound.com/player/new_radio.html','InsoundRadioPlayer','width=385,height=265');return false;">Insound Radio Player</a></li> -->
 								<li><a href="/studio-sessions/">Studio Sessions</a></li>
 								<li class="divider"></li>
 								<li><a href="/record-club/">Insound Record Club</a></li>
@@ -293,7 +293,7 @@
 			<div class="highlight_box">
 <div class="row-fluid">
 <div class="span612">
-<h3 class="yellow-background promo-box full-box"><a onclick="_gaq.push(['_trackPageview', '/sitewide-promo/1396']);" href="http://www.insound.com/holidays/">Insound does the holidays! Click here to check out all of our promotions.</a></h3>
+<div class="yellow-background promo-box full-box"><a onclick="_gaq.push(['_trackPageview', '/sitewide-promo/1563']);" href="http://www.insound.com/promos/spring-summer-2014-magazine">15% Off Storewide Sale! Use coupon code: <strong>summertime15</strong>&nbsp;(sale ends 6/28 @ 12am EST</a>)</div>
 </div>
 </div>
 </div>		</div>
@@ -494,6 +494,7 @@
 		</div>
 
        </div><!--/span-->
+       
 
 
 		<div class="span-cart">
@@ -515,8 +516,8 @@
 
 
 						<hr class="hidden-phone">
-
 			<script type="text/javascript">
+      
 			    function validate(formData, jqForm, options){
 					var form = jqForm[0];
 					var pattern = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
@@ -535,30 +536,43 @@
 					return valid;
 			    }
 
-			       $(document).ready(function() {
-			            var options = {
-			                    target: '#newsletter',
-			                    beforeSubmit: validate
-			            }
-			            $('#newsletterForm').ajaxForm(options);
+						function signupCallback(){
+						$('#newsletterSideForm').html('Thanks for signing up!');
+						}	
+					
+					       $(document).ready(function() { 
+
+                  $( "#newsletterSideForm" ).on( "submit", function( event ) {
+                        event.preventDefault();
+                        var data = $( this ).serialize();
+                        var url = "http://signup.wmg.com/register?jsonp=signupCallback&jsoncallback=?";
+                        $.ajax({
+                          dataType: "json",
+                          url: url,
+                          data: data,
+                        });
+                      });
 			        });
 
 
 			</script>
 			
+
+
 			<div class="newsletter-box">
 				<h1 style="font-size:14px;line-height:14px;padding-bottom:5px;">Insound Newsletter</h1>
 				<p style="color:#666;font-size:13px;">Vinyl news, exclusive sales, free MP3s.</p>
-				<div id="newsletter">
-				<form id="newsletterForm" action="/promos/newsletter_controller.php" method="post">
+				<div id="newsletter_side">
+				<form id="newsletterSideForm">
 					<fieldset>
 					<input type="hidden" name="promokeyword" value="GutterBox">
-					<input style="display:none;" type="checkbox" name="listname[]" id="list" value="Insound Weekly Newsletter" checked="">
-					<input style="display:none;" type="checkbox" name="listname[]" id="list" value="Insound MP3 of the Week" checked="">
-					<input style="display:none;" type="checkbox" name="listname[]" id="list" value="Insound Vinyl List" checked="">
-					<input style="display:none;" type="checkbox" name="listname[]" id="list" value="Weekly Deals" checked="">
-					<input style="display:none;" type="checkbox" name="listname[]" id="list" value="Special Offers" checked="">
-
+          <input type="hidden" name="DataSource" value="Insound Sidebar">
+          <input style="display:none;" type="checkbox" name="newsletterId" id="list" value="14074173" checked="">
+					<input style="display:none;" type="checkbox" name="newsletterId" id="list" value="14074171" checked="">
+					<input style="display:none;" type="checkbox" name="newsletterId" id="list" value="14074174" checked="">
+					<input style="display:none;" type="checkbox" name="newsletterId" id="list" value="14074172" checked="">
+					<input style="display:none;" type="checkbox" name="newsletterId" id="list" value="14074175" checked="">
+          
 					<input class="span12" type="text" name="email" id="email" placeholder="Email Address">
 					<button class="btn yellow-background" style="font-weight:bold;" type="submit">Sign Up</button>
 					</fieldset>
@@ -767,7 +781,6 @@
 					<a href="/insound-lists/">Staff Lists</a><br>
 					<a href="/stuff-we-like/">Stuff We Like</a><br>
 					<a href="/mp3-of-the-week/">MP3 of the Week</a><br>
-					<a href="#" onclick="javascript:window.open('http://mp3.insound.com/player/new_radio.html','InsoundRadioPlayer','width=385,height=265');return false;">Insound Radio Player</a><br>
 					<a href="/studio-sessions/">Studio Sessions</a><br>
 					
 				</div>
