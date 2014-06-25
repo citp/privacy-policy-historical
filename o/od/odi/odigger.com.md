@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odigger.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812081801id_/http%3A//odigger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odigger.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625222118id_/http%3A//odigger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | oDigger
 
