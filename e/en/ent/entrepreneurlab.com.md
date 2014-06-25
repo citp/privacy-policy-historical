@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entrepreneurlab.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202185151id_/http%3A//entrepreneurlab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrepreneurlab.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104638id_/http%3A//entrepreneurlab.com/privacy-policy) for the most accurate reproduction.*
 
 # Entrepreneur Lab | Privacy Policy
 
@@ -69,7 +69,7 @@ This online privacy policy applies only to information collected through our web
 
 #### **Your Consent**
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our privacy policy.
 
 #### **Changes to our Privacy Policy**
 
@@ -79,9 +79,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://derekgehl.com
+[http://derekgehl.com](http://derekgehl.com/)
 
-#109 B3-1410 Parkway Blvd  
-Coquitlam, British Columbia V3E3J7  
+1489 Marine Dr, Suite 608  
+West Vancouver, British Columbia V7T1B8  
 Canada  
-support@entrepreneurlab.com
+[support@entrepreneurlab.com](mailto:support@entrepreneurlab.com)
