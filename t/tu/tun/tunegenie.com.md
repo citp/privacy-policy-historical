@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the tunegenie.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908233144id_/http%3A//tunegenie.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunegenie.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141840id_/http%3A//www.tunegenie.com/page/privacy-policy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY
-
-**Last updated: November 3, 2010**
+# Privacy Policy
 
 ## Overview
 
-This Privacy Policy applies to all of your use of any MusicToGo, LLC ("TUNEGENIE") services including information sites and services (collectively, the 'Site'). It describes how your personal information will be treated as you use our Site and services. 
+This Privacy Policy applies to all of your use of any MusicToGo, LLC ("TUNEGENIE") services including information sites and services (collectively, the 'Site'). It describes how your personal information will be treated as you use our Site and services.
 
 We use the information we collect about you to enable social music/sharing actvities and we may, from time to time, collect information made available from the Facebook Connect program to help provide a better user experience for you as well as to market our Site to advertisers and/or potential business partners. We may use demographic information and information about the music purchases, likes, content viewed, shared, or interacted with for our purposes or to provide to business partners of TUNEGENIE.
 
-**BY USING TUNE GENIE SERVICES YOU AGREE TO THIS PRIVACY POLICY. PLEASE READ IT.**
+ **BY USING TUNE GENIE SERVICES YOU AGREE TO THIS PRIVACY POLICY. PLEASE READ IT.**
 
-## Registering and Setting Privacy Settings 
+## Registering and Setting Privacy Settings
 
-We use the Facebook connect system.  To be logged into TUNEGENIE, you must first be logged into Face book, which you can do from the TUNEGENIE site.  During your initial login you will be presented with a Facebook permissions request. It will list the current requests for permissions from TUNEGENIE via Facebook and describes each permission.   Below is an example of the permission request:
+We use the Facebook connect system. To be logged into TUNEGENIE, you must first be logged into Face book, which you can do from the TUNEGENIE site. During your initial login you will be presented with a Facebook permissions request. It will list the current requests for permissions from TUNEGENIE via Facebook and describes each permission. Below is an example of the permission request:
 
-You may change these individual settings at anytime by logging into your Facebook account. Click on "account", then click "applications setting", then choose TUNEGENIE which is listed with this icon and described as ‘MUSIC PLAYLISTS"     (see example below)
+You may change these individual settings at anytime by logging into your Facebook account. Click on "account", then click "applications setting", then choose TUNEGENIE which is listed with this icon and described as ‘MUSIC PLAYLISTS" (see example below)
 
 ## Information We Collect and How We Use It
 
@@ -38,7 +36,7 @@ We may collect anonymous demographic information that is not unique to you, such
 
 ## Security
 
-Our Site is not designed to store sensitive personal information such as financial, health or educational records and you should not use our site for that purpose. TUNEGENIE uses measures that we believe are commercially reasonable to secure your personal information, but we cannot and do not assure that these measures will be sufficient to protect against all efforts to gain unauthorized access to the information. 
+Our Site is not designed to store sensitive personal information such as financial, health or educational records and you should not use our site for that purpose. TUNEGENIE uses measures that we believe are commercially reasonable to secure your personal information, but we cannot and do not assure that these measures will be sufficient to protect against all efforts to gain unauthorized access to the information.
 
 ## Third Party Sites and Services
 
@@ -54,10 +52,10 @@ If you use the Site outside of the United States, you fully understand and unamb
 
 ## Agreement, Changes
 
-By using our Site, you consent to the collection and use of your personal information by TUNEGENIE as described above. If we decide to update our Privacy Policy, we will post these changes next to the Privacy Policy link on the front page of our Site. If there are material changes to the Privacy Policy, we will prominently post such changes prior to implementing the change. Any information collected under our old Privacy Policy will be subject to the terms of our new Privacy Policy. 
+By using our Site, you consent to the collection and use of your personal information by TUNEGENIE as described above. If we decide to update our Privacy Policy, we will post these changes next to the Privacy Policy link on the front page of our Site. If there are material changes to the Privacy Policy, we will prominently post such changes prior to implementing the change. Any information collected under our old Privacy Policy will be subject to the terms of our new Privacy Policy.
+
+Last Modified: October 20, 2010
 
 TUNEGENIE C/O MusicToGo, LLC  
-73 Spring Street, Suite 303b New York, NY 10012  
+Po Box 491 Riverside Ct 06878  
 [inquires@tunegenie.com](mailto:inquires@tunegenie.com)
-
-Last Modified: October 20, 2010 
