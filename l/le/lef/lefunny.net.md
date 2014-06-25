@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lefunny.net privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213130704id_/http%3A//lefunny.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lefunny.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121517id_/http%3A//lefunny.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Funny Pictures | Funny Quotes | Funny Jokes – Photos, Images, Pics
 
