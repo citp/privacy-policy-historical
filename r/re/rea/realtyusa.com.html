@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the realtyusa.com privacy policy that was archived on 2013-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101182614id_/http%3A//realtyusa.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realtyusa.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625102148id_/http%3A//www.realtyusa.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head><script type="text/javascript"><!DOCTYPE html>
 <html lang="en">
@@ -3082,6 +3082,77 @@ playback timings (ms):
   LoadShardBlock: 172.575 (3)
   PetaboxLoader3.datanode: 197.553 (4)
   CDXLines.iter: 11.124 (3)
+*/</script><script type="text/javascript">$(document).ready(function() {	
+	$('#cws-rvp').rvp({content:rvpHtml});
+});
+/*
+     FILE ARCHIVED ON 21:42:23 Apr 09, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:57:43 Jan 30, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 77.343
+  load_resource: 237.242
+  PetaboxLoader3.datanode: 183.268 (5)
+  exclusion.robots: 0.133
+  RedisCDXSource: 0.926
+  exclusion.robots.policy: 0.122
+  PetaboxLoader3.resolve: 80.227 (2)
+  CDXLines.iter: 12.891 (3)
+  LoadShardBlock: 60.762 (3)
+  esindex: 0.011
+*/</script><script type="text/javascript">$.widget("cws.rvp", {
+	options: {
+		content : ''
+	},
+	_create: function() {
+		var $self = this;		
+		$self.element.find('#cws-rvp-content').html(this.options.content);		
+		$self.element.data('menu', $self.element.find('#RVPMenu'));
+		$self.element.find('#cws-rvp-link').bind("mouseover", function() {
+			$self._show();			
+		});
+		$self.element.bind("mouseleave", function() {
+			$self._hide();
+		});
+	},
+	_setOption: function( key, value ) {
+		this.options[key] = value;
+		this._update();
+	},
+	 _update: function() {
+	},
+	_show: function() {
+		this.element.data('menu').show();
+	},
+	_hide: function() {		
+		this.element.data('menu').hide();
+	}
+});
+/*
+     FILE ARCHIVED ON 21:42:23 Apr 09, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:57:44 Jan 30, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots.policy: 0.163
+  PetaboxLoader3.resolve: 113.705 (3)
+  RedisCDXSource: 0.869
+  exclusion.robots: 0.176
+  esindex: 0.016
+  LoadShardBlock: 1194.316 (3)
+  captures_list: 1213.568
+  PetaboxLoader3.datanode: 1191.013 (5)
+  load_resource: 127.983
+  CDXLines.iter: 14.834 (3)
 */</script><script type="text/javascript">$(document).ready(function() {
 	$('#mysearchnavlinks').load('/_include/mods/mysearch/navlinks.asp');
 
@@ -3748,6 +3819,76 @@ playback timings (ms):
   esindex: 0.02
   load_resource: 182.318
 */</script><script type="text/javascript">/*
+ * jQuery UI Autocomplete 1.8
+ *
+ * Copyright (c) 2010 AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT (MIT-LICENSE.txt)
+ * and GPL (GPL-LICENSE.txt) licenses.
+ *
+ * http://docs.jquery.com/UI/Autocomplete
+ *
+ * Depends:
+ *	jquery.ui.core.js
+ *	jquery.ui.widget.js
+ *	jquery.ui.position.js
+ */
+(function(a){a.widget("ui.autocomplete",{options:{minLength:1,delay:300},_create:function(){var b=this,c=this.element[0].ownerDocument;this.element.addClass("ui-autocomplete-input").attr("autocomplete","off").attr({role:"textbox","aria-autocomplete":"list","aria-haspopup":"true"}).bind("keydown.autocomplete",function(d){var e=a.ui.keyCode;switch(d.keyCode){case e.PAGE_UP:b._move("previousPage",d);break;case e.PAGE_DOWN:b._move("nextPage",d);break;case e.UP:b._move("previous",d);d.preventDefault();break;case e.DOWN:b._move("next",d);d.preventDefault();break;case e.ENTER:if(b.menu.active){d.preventDefault()}case e.TAB:if(!b.menu.active){return}b.menu.select();break;case e.ESCAPE:b.element.val(b.term);b.close(d);break;case e.SHIFT:case e.CONTROL:case 18:break;default:clearTimeout(b.searching);b.searching=setTimeout(function(){b.search(null,d)},b.options.delay);break}}).bind("focus.autocomplete",function(){b.previous=b.element.val()}).bind("blur.autocomplete",function(d){clearTimeout(b.searching);b.closing=setTimeout(function(){b.close(d)},150)});this._initSource();this.response=function(){return b._response.apply(b,arguments)};this.menu=a("<ul></ul>").addClass("ui-autocomplete").appendTo("body",c).menu({focus:function(e,f){var d=f.item.data("item.autocomplete");if(false!==b._trigger("focus",null,{item:d})){b.element.val(d.value)}},selected:function(e,f){var d=f.item.data("item.autocomplete");if(false!==b._trigger("select",e,{item:d})){b.element.val(d.value)}b.close(e);b.previous=b.element.val();if(b.element[0]!==c.activeElement){b.element.focus()}},blur:function(d,e){if(b.menu.element.is(":visible")){b.element.val(b.term)}}}).zIndex(this.element.zIndex()+1).css({top:0,left:0}).hide().data("menu");if(a.fn.bgiframe){this.menu.element.bgiframe()}},destroy:function(){this.element.removeClass("ui-autocomplete-input ui-widget ui-widget-content").removeAttr("autocomplete").removeAttr("role").removeAttr("aria-autocomplete").removeAttr("aria-haspopup");this.menu.element.remove();a.Widget.prototype.destroy.call(this)},_setOption:function(b){a.Widget.prototype._setOption.apply(this,arguments);if(b==="source"){this._initSource()}},_initSource:function(){var c,b;if(a.isArray(this.options.source)){c=this.options.source;this.source=function(e,d){var f=new RegExp(a.ui.autocomplete.escapeRegex(e.term),"i");d(a.grep(c,function(g){return f.test(g.label||g.value||g)}))}}else{if(typeof this.options.source==="string"){b=this.options.source;this.source=function(e,d){a.getJSON(b,e,d)}}else{this.source=this.options.source}}},search:function(c,b){c=c!=null?c:this.element.val();if(c.length<this.options.minLength){return this.close(b)}clearTimeout(this.closing);if(this._trigger("search")===false){return}return this._search(c)},_search:function(b){this.term=this.element.addClass("ui-autocomplete-loading").val();this.source({term:b},this.response)},_response:function(b){if(b.length){b=this._normalize(b);this._suggest(b);this._trigger("open")}else{this.close()}this.element.removeClass("ui-autocomplete-loading")},close:function(b){clearTimeout(this.closing);if(this.menu.element.is(":visible")){this._trigger("close",b);this.menu.element.hide();this.menu.deactivate()}if(this.previous!==this.element.val()){this._trigger("change",b)}},_normalize:function(b){if(b.length&&b[0].label&&b[0].value){return b}return a.map(b,function(c){if(typeof c==="string"){return{label:c,value:c}}return a.extend({label:c.label||c.value,value:c.value||c.label},c)})},_suggest:function(b){var c=this.menu.element.empty().zIndex(this.element.zIndex()+1),d,e;this._renderMenu(c,b);this.menu.deactivate();this.menu.refresh();this.menu.element.show().position({my:"left top",at:"left bottom",of:this.element,collision:"none"});d=c.width("").width();e=this.element.width();c.width(Math.max(d,e))},_renderMenu:function(d,c){var b=this;a.each(c,function(e,f){b._renderItem(d,f)})},_renderItem:function(b,c){return a("<li></li>").data("item.autocomplete",c).append("<a>"+c.label+"</a>").appendTo(b)},_move:function(c,b){if(!this.menu.element.is(":visible")){this.search(null,b);return}if(this.menu.first()&&/^previous/.test(c)||this.menu.last()&&/^next/.test(c)){this.element.val(this.term);this.menu.deactivate();return}this.menu[c]()},widget:function(){return this.menu.element}});a.extend(a.ui.autocomplete,{escapeRegex:function(b){return b.replace(/([\^\$\(\)\[\]\{\}\*\.\+\?\|\\])/gi,"\\$1")}})}(jQuery));(function(a){a.widget("ui.menu",{_create:function(){var b=this;this.element.addClass("ui-menu ui-widget ui-widget-content ui-corner-all").attr({role:"listbox","aria-activedescendant":"ui-active-menuitem"}).click(function(c){c.preventDefault();b.select()});this.refresh()},refresh:function(){var c=this;var b=this.element.children("li:not(.ui-menu-item):has(a)").addClass("ui-menu-item").attr("role","menuitem");b.children("a").addClass("ui-corner-all").attr("tabindex",-1).mouseenter(function(){c.activate(a(this).parent())}).mouseleave(function(){c.deactivate()})},activate:function(d){this.deactivate();if(this.hasScroll()){var e=d.offset().top-this.element.offset().top,b=this.element.attr("scrollTop"),c=this.element.height();if(e<0){this.element.attr("scrollTop",b+e)}else{if(e>c){this.element.attr("scrollTop",b+e-c+d.height())}}}this.active=d.eq(0).children("a").addClass("ui-state-hover").attr("id","ui-active-menuitem").end();this._trigger("focus",null,{item:d})},deactivate:function(){if(!this.active){return}this.active.children("a").removeClass("ui-state-hover").removeAttr("id");this._trigger("blur");this.active=null},next:function(){this.move("next","li:first")},previous:function(){this.move("prev","li:last")},first:function(){return this.active&&!this.active.prev().length},last:function(){return this.active&&!this.active.next().length},move:function(d,c){if(!this.active){this.activate(this.element.children(c));return}var b=this.active[d]();if(b.length){this.activate(b)}else{this.activate(this.element.children(c))}},nextPage:function(){if(this.hasScroll()){if(!this.active||this.last()){this.activate(this.element.children(":first"));return}var d=this.active.offset().top,c=this.element.height(),b=this.element.children("li").filter(function(){var e=a(this).offset().top-d-c+a(this).height();return e<10&&e>-10});if(!b.length){b=this.element.children(":last")}this.activate(b)}else{this.activate(this.element.children(!this.active||this.last()?":first":":last"))}},previousPage:function(){if(this.hasScroll()){if(!this.active||this.first()){this.activate(this.element.children(":last"));return}var c=this.active.offset().top,b=this.element.height();result=this.element.children("li").filter(function(){var d=a(this).offset().top-c+b-a(this).height();return d<10&&d>-10});if(!result.length){result=this.element.children(":first")}this.activate(result)}else{this.activate(this.element.children(!this.active||this.first()?":last":":first"))}},hasScroll:function(){return this.element.height()<this.element.attr("scrollHeight")},select:function(){this._trigger("selected",null,{item:this.active})}})}(jQuery));
+/*
+     FILE ARCHIVED ON 21:42:19 Apr 09, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:57:43 Jan 30, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  RedisCDXSource: 14.3
+  captures_list: 133.013
+  CDXLines.iter: 18.718 (3)
+  PetaboxLoader3.resolve: 48.205
+  PetaboxLoader3.datanode: 111.476 (4)
+  LoadShardBlock: 94.964 (3)
+  exclusion.robots: 0.332
+  load_resource: 94.577
+  exclusion.robots.policy: 0.309
+  esindex: 0.017
+*/</script><script type="text/javascript">/*
+ * jQuery UI Slider 1.8
+ *
+ * Copyright (c) 2010 AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT (MIT-LICENSE.txt)
+ * and GPL (GPL-LICENSE.txt) licenses.
+ *
+ * http://docs.jquery.com/UI/Slider
+ *
+ * Depends:
+ *	jquery.ui.core.js
+ *	jquery.ui.mouse.js
+ *	jquery.ui.widget.js
+ */
+(function(b){var a=5;b.widget("ui.slider",b.ui.mouse,{widgetEventPrefix:"slide",options:{animate:false,distance:0,max:100,min:0,orientation:"horizontal",range:false,step:1,value:0,values:null},_create:function(){var c=this,d=this.options;this._keySliding=false;this._mouseSliding=false;this._animateOff=true;this._handleIndex=null;this._detectOrientation();this._mouseInit();this.element.addClass("ui-slider ui-slider-"+this.orientation+" ui-widget ui-widget-content ui-corner-all");if(d.disabled){this.element.addClass("ui-slider-disabled ui-disabled")}this.range=b([]);if(d.range){if(d.range===true){this.range=b("<div></div>");if(!d.values){d.values=[this._valueMin(),this._valueMin()]}if(d.values.length&&d.values.length!=2){d.values=[d.values[0],d.values[0]]}}else{this.range=b("<div></div>")}this.range.appendTo(this.element).addClass("ui-slider-range");if(d.range=="min"||d.range=="max"){this.range.addClass("ui-slider-range-"+d.range)}this.range.addClass("ui-widget-header")}if(b(".ui-slider-handle",this.element).length==0){b('<a href="#"></a>').appendTo(this.element).addClass("ui-slider-handle")}if(d.values&&d.values.length){while(b(".ui-slider-handle",this.element).length<d.values.length){b('<a href="#"></a>').appendTo(this.element).addClass("ui-slider-handle")}}this.handles=b(".ui-slider-handle",this.element).addClass("ui-state-default ui-corner-all");this.handle=this.handles.eq(0);this.handles.add(this.range).filter("a").click(function(e){e.preventDefault()}).hover(function(){if(!d.disabled){b(this).addClass("ui-state-hover")}},function(){b(this).removeClass("ui-state-hover")}).focus(function(){if(!d.disabled){b(".ui-slider .ui-state-focus").removeClass("ui-state-focus");b(this).addClass("ui-state-focus")}else{b(this).blur()}}).blur(function(){b(this).removeClass("ui-state-focus")});this.handles.each(function(e){b(this).data("index.ui-slider-handle",e)});this.handles.keydown(function(j){var g=true;var f=b(this).data("index.ui-slider-handle");if(c.options.disabled){return}switch(j.keyCode){case b.ui.keyCode.HOME:case b.ui.keyCode.END:case b.ui.keyCode.PAGE_UP:case b.ui.keyCode.PAGE_DOWN:case b.ui.keyCode.UP:case b.ui.keyCode.RIGHT:case b.ui.keyCode.DOWN:case b.ui.keyCode.LEFT:g=false;if(!c._keySliding){c._keySliding=true;b(this).addClass("ui-state-active");c._start(j,f)}break}var h,e,i=c._step();if(c.options.values&&c.options.values.length){h=e=c.values(f)}else{h=e=c.value()}switch(j.keyCode){case b.ui.keyCode.HOME:e=c._valueMin();break;case b.ui.keyCode.END:e=c._valueMax();break;case b.ui.keyCode.PAGE_UP:e=h+((c._valueMax()-c._valueMin())/a);break;case b.ui.keyCode.PAGE_DOWN:e=h-((c._valueMax()-c._valueMin())/a);break;case b.ui.keyCode.UP:case b.ui.keyCode.RIGHT:if(h==c._valueMax()){return}e=h+i;break;case b.ui.keyCode.DOWN:case b.ui.keyCode.LEFT:if(h==c._valueMin()){return}e=h-i;break}c._slide(j,f,e);return g}).keyup(function(f){var e=b(this).data("index.ui-slider-handle");if(c._keySliding){c._keySliding=false;c._stop(f,e);c._change(f,e);b(this).removeClass("ui-state-active")}});this._refreshValue();this._animateOff=false},destroy:function(){this.handles.remove();this.range.remove();this.element.removeClass("ui-slider ui-slider-horizontal ui-slider-vertical ui-slider-disabled ui-widget ui-widget-content ui-corner-all").removeData("slider").unbind(".slider");this._mouseDestroy();return this},_mouseCapture:function(e){var f=this.options;if(f.disabled){return false}this.elementSize={width:this.element.outerWidth(),height:this.element.outerHeight()};this.elementOffset=this.element.offset();var i={x:e.pageX,y:e.pageY};var k=this._normValueFromMouse(i);var d=this._valueMax()-this._valueMin()+1,g;var l=this,j;this.handles.each(function(m){var n=Math.abs(k-l.values(m));if(d>n){d=n;g=b(this);j=m}});if(f.range==true&&this.values(1)==f.min){g=b(this.handles[++j])}this._start(e,j);this._mouseSliding=true;l._handleIndex=j;g.addClass("ui-state-active").focus();var h=g.offset();var c=!b(e.target).parents().andSelf().is(".ui-slider-handle");this._clickOffset=c?{left:0,top:0}:{left:e.pageX-h.left-(g.width()/2),top:e.pageY-h.top-(g.height()/2)-(parseInt(g.css("borderTopWidth"),10)||0)-(parseInt(g.css("borderBottomWidth"),10)||0)+(parseInt(g.css("marginTop"),10)||0)};k=this._normValueFromMouse(i);this._slide(e,j,k);this._animateOff=true;return true},_mouseStart:function(c){return true},_mouseDrag:function(e){var c={x:e.pageX,y:e.pageY};var d=this._normValueFromMouse(c);this._slide(e,this._handleIndex,d);return false},_mouseStop:function(c){this.handles.removeClass("ui-state-active");this._mouseSliding=false;this._stop(c,this._handleIndex);this._change(c,this._handleIndex);this._handleIndex=null;this._clickOffset=null;this._animateOff=false;return false},_detectOrientation:function(){this.orientation=this.options.orientation=="vertical"?"vertical":"horizontal"},_normValueFromMouse:function(e){var d,i;if("horizontal"==this.orientation){d=this.elementSize.width;i=e.x-this.elementOffset.left-(this._clickOffset?this._clickOffset.left:0)}else{d=this.elementSize.height;i=e.y-this.elementOffset.top-(this._clickOffset?this._clickOffset.top:0)}var g=(i/d);if(g>1){g=1}if(g<0){g=0}if("vertical"==this.orientation){g=1-g}var f=this._valueMax()-this._valueMin(),j=g*f,c=j%this.options.step,h=this._valueMin()+j-c;if(c>(this.options.step/2)){h+=this.options.step}return parseFloat(h.toFixed(5))},_start:function(e,d){var c={handle:this.handles[d],value:this.value()};if(this.options.values&&this.options.values.length){c.value=this.values(d);c.values=this.values()}this._trigger("start",e,c)},_slide:function(g,f,e){var h=this.handles[f];if(this.options.values&&this.options.values.length){var c=this.values(f?0:1);if((this.options.values.length==2&&this.options.range===true)&&((f==0&&e>c)||(f==1&&e<c))){e=c}if(e!=this.values(f)){var d=this.values();d[f]=e;var i=this._trigger("slide",g,{handle:this.handles[f],value:e,values:d});var c=this.values(f?0:1);if(i!==false){this.values(f,e,true)}}}else{if(e!=this.value()){var i=this._trigger("slide",g,{handle:this.handles[f],value:e});if(i!==false){this.value(e)}}}},_stop:function(e,d){var c={handle:this.handles[d],value:this.value()};if(this.options.values&&this.options.values.length){c.value=this.values(d);c.values=this.values()}this._trigger("stop",e,c)},_change:function(e,d){if(!this._keySliding&&!this._mouseSliding){var c={handle:this.handles[d],value:this.value()};if(this.options.values&&this.options.values.length){c.value=this.values(d);c.values=this.values()}this._trigger("change",e,c)}},value:function(c){if(arguments.length){this.options.value=this._trimValue(c);this._refreshValue();this._change(null,0)}return this._value()},values:function(e,h){if(arguments.length>1){this.options.values[e]=this._trimValue(h);this._refreshValue();this._change(null,e)}if(arguments.length){if(b.isArray(arguments[0])){var g=this.options.values,d=arguments[0];for(var f=0,c=g.length;f<c;f++){g[f]=this._trimValue(d[f]);this._change(null,f)}this._refreshValue()}else{if(this.options.values&&this.options.values.length){return this._values(e)}else{return this.value()}}}else{return this._values()}},_setOption:function(d,e){var c,f=0;if(jQuery.isArray(this.options.values)){f=this.options.values.length}b.Widget.prototype._setOption.apply(this,arguments);switch(d){case"disabled":if(e){this.handles.filter(".ui-state-focus").blur();this.handles.removeClass("ui-state-hover");this.handles.attr("disabled","disabled");this.element.addClass("ui-disabled")}else{this.handles.removeAttr("disabled");this.element.removeClass("ui-disabled")}case"orientation":this._detectOrientation();this.element.removeClass("ui-slider-horizontal ui-slider-vertical").addClass("ui-slider-"+this.orientation);this._refreshValue();break;case"value":this._animateOff=true;this._refreshValue();this._change(null,0);this._animateOff=false;break;case"values":this._animateOff=true;this._refreshValue();for(c=0;c<f;c++){this._change(null,c)}this._animateOff=false;break}},_step:function(){var c=this.options.step;return c},_value:function(){var c=this.options.value;c=this._trimValue(c);return c},_values:function(d){if(arguments.length){var g=this.options.values[d];g=this._trimValue(g);return g}else{var f=this.options.values.slice();for(var e=0,c=f.length;e<c;e++){f[e]=this._trimValue(f[e])}return f}},_trimValue:function(c){if(c<this._valueMin()){c=this._valueMin()}if(c>this._valueMax()){c=this._valueMax()}return c},_valueMin:function(){var c=this.options.min;return c},_valueMax:function(){var c=this.options.max;return c},_refreshValue:function(){var g=this.options.range,e=this.options,m=this;var d=(!this._animateOff)?e.animate:false;if(this.options.values&&this.options.values.length){var j,i;this.handles.each(function(q,o){var p=(m.values(q)-m._valueMin())/(m._valueMax()-m._valueMin())*100;var n={};n[m.orientation=="horizontal"?"left":"bottom"]=p+"%";b(this).stop(1,1)[d?"animate":"css"](n,e.animate);if(m.options.range===true){if(m.orientation=="horizontal"){(q==0)&&m.range.stop(1,1)[d?"animate":"css"]({left:p+"%"},e.animate);(q==1)&&m.range[d?"animate":"css"]({width:(p-lastValPercent)+"%"},{queue:false,duration:e.animate})}else{(q==0)&&m.range.stop(1,1)[d?"animate":"css"]({bottom:(p)+"%"},e.animate);(q==1)&&m.range[d?"animate":"css"]({height:(p-lastValPercent)+"%"},{queue:false,duration:e.animate})}}lastValPercent=p})}else{var k=this.value(),h=this._valueMin(),l=this._valueMax(),f=l!=h?(k-h)/(l-h)*100:0;var c={};c[m.orientation=="horizontal"?"left":"bottom"]=f+"%";this.handle.stop(1,1)[d?"animate":"css"](c,e.animate);(g=="min")&&(this.orientation=="horizontal")&&this.range.stop(1,1)[d?"animate":"css"]({width:f+"%"},e.animate);(g=="max")&&(this.orientation=="horizontal")&&this.range[d?"animate":"css"]({width:(100-f)+"%"},{queue:false,duration:e.animate});(g=="min")&&(this.orientation=="vertical")&&this.range.stop(1,1)[d?"animate":"css"]({height:f+"%"},e.animate);(g=="max")&&(this.orientation=="vertical")&&this.range[d?"animate":"css"]({height:(100-f)+"%"},{queue:false,duration:e.animate})}}});b.extend(b.ui.slider,{version:"1.8"})})(jQuery);
+/*
+     FILE ARCHIVED ON 21:42:18 Apr 09, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:57:43 Jan 30, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  CDXLines.iter: 10.659 (3)
+  exclusion.robots: 0.116
+  PetaboxLoader3.resolve: 69.92
+  exclusion.robots.policy: 0.107
+  LoadShardBlock: 1093.27 (3)
+  RedisCDXSource: 1.872
+  esindex: 0.015
+  captures_list: 1109.073
+  PetaboxLoader3.datanode: 1114.187 (4)
+  load_resource: 116.535
+*/</script><script type="text/javascript">/*
  * jQuery UI Dialog 1.8
  *
  * Copyright (c) 2010 AUTHORS.txt (http://jqueryui.com/about)
@@ -4008,8 +4149,10 @@ playback timings (ms):
 */</script><script type="text/javascript" src="https://web.archive.org/_include/common/jq/jqueryui/1.8.0/jquery.ui.core.min.js"></script>
 
 
+<meta name="google-site-verification" content="DSiQ-Vn7bjMs3Wu1fwADPk796CDXKrB0gLwquv7rDco">
 <meta name="verify-v1" content="WOO1sthBe6Aez4gwu7yUXmZRcyyExpbayfO3sYAQc18=">
 <meta name="msvalidate.01" content="5E7B269BBF4647EB949B4D114EB36507">
+<meta name="msvalidate.01" content="141D67B5736CCFA1D243FB9D1C6F874F">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
 
           
@@ -4050,7 +4193,7 @@ Ithaca Real Estate, Finger Lakes Real Estate, Capital Real Estate">
 <![endif]-->
 
 
-
+<link rel="stylesheet" type="text/css" href="/_include/css/ui/themes/base/jquery.ui.autocomplete.css">
 
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
@@ -4088,6 +4231,8 @@ $LAB
 	.script("/_include/common/jq/jqueryui/1.8.0/jquery.ui.draggable.min.js")
 	.script("/_include/common/jq/jqueryui/1.8.0/jquery.ui.resizable.min.js")
 	.script("/_include/common/jq/jqueryui/1.8.0/jquery.ui.dialog.min.js")
+    .script("/_include/common/jq/jqueryui/1.8.0/jquery.ui.slider.min.js")    
+    .script("/_include/common/jq/jqueryui/1.8.0/jquery.ui.autocomplete.min.js")
 
 	
 	.script("/_include/common/jq/jquery.cookie.js")
@@ -4107,12 +4252,18 @@ $LAB
 		
 	.script("/_include/mods/MySearch/cws.mysearch.js")
 	
+		
+	.script("/_include/mods/RecentlyViewedProperties/cws.recently-viewed-properties.js")
+	.script("/_include/mods/RecentlyViewedProperties/cws.recently-viewed-properties.custom.js")
+
 	
-	    .script("/_include/common/jq/jquery.microtemplating.js")
-	    .script("/_include/mods/CompareProperties/cws.compare-properties.js")
-	    .script("/_include/mods/CompareProperties/jquery.cws.compare-properties-panel-1.0.0.js")
-	    .script("/_include/mods/CompareProperties/jquery.cws.compare-properties-list-1.0.0.js")
-		.script("/_include/mods/CompareProperties/cws.compare-properties.custom.js")
+	.script("/_include/common/jq/jquery.microtemplating.js")
+	.script("/_include/mods/CompareProperties/cws.compare-properties.js")
+	.script("/_include/mods/CompareProperties/jquery.cws.compare-properties-panel-1.0.0.js")
+	.script("/_include/mods/CompareProperties/jquery.cws.compare-properties-list-1.0.0.js")
+	.script("/_include/mods/CompareProperties/cws.compare-properties.custom.js")
+	
+
 	
 	.script("/_include/mods/tooltip/jquery.qtip-1.0.0-rc3-modified.min.js")
 	.script("/_include/mods/tooltip/jquery.qtip.custom.js")
@@ -4133,23 +4284,25 @@ $LAB
 
 
 <script type="text/javascript">
-        var homeimages = new Array();
-        homeimages[0] = "/images/bodybg1.jpg";
-        homeimages[1] = "/images/bodybg2.jpg";
-        homeimages[2] = "/images/bodybg3.jpg";
+    var rvpHtml;
+    
+    var homeimages = new Array();
+    homeimages[0] = "/images/bodybg1.jpg";
+    homeimages[1] = "/images/bodybg2.jpg";
+    homeimages[2] = "/images/bodybg3.jpg";
 
-        var randomimage = Math.floor(Math.random() * 3);
-        document.write("<style type='text/css'>body {background-image: url(" + homeimages[randomimage] + "); background-repeat: no-repeat; background-position: center top;}</style>");
+    var randomimage = Math.floor(Math.random() * 3);
+    document.write("<style type='text/css'>body {background-image: url(" + homeimages[randomimage] + "); background-repeat: no-repeat; background-position: center top;}</style>");
 
-        if (typeof (sessionStorage) != "undefined") {
-            if (window.location.href.indexOf("property.asp") < 0) {
-                sessionStorage.removeItem("PagingData")
-                sessionStorage.removeItem("PageSize")
-                sessionStorage.removeItem("returnURL")
-                sessionStorage.removeItem("SearchType")
-            }
+    if (typeof (sessionStorage) != "undefined") {
+        if (window.location.href.indexOf("property.asp") < 0) {
+            sessionStorage.removeItem("PagingData")
+            sessionStorage.removeItem("PageSize")
+            sessionStorage.removeItem("returnURL")
+            sessionStorage.removeItem("SearchType")
         }
-</script><style type="text/css">body {background-image: url(/images/bodybg1.jpg); background-repeat: no-repeat; background-position: center top;}</style>
+    }
+</script><style type="text/css">body {background-image: url(/images/bodybg2.jpg); background-repeat: no-repeat; background-position: center top;}</style>
 
 
 </head>
@@ -4188,7 +4341,7 @@ $LAB
 		<li><a href="/property/default.asp?selRegion=capital">Capital Region/Albany, Schenectady, Rensselaer Counties</a></li>
         <li><a href="/property/default.asp?selRegion=catskill">Catskill Properties</a></li>
 		<li><a href="/property/default.asp?selRegion=corningelmira">Corning/Horseheads/Elmira</a></li>
-		<li><a href="/property/default.asp?selRegion=ithaca">Ithaca</a></li>
+		<li><a href="/property/default.asp?selRegion=ithaca">Ithaca/Cortland</a></li>
 		<li><a href="/property/default.asp?selRegion=keuka">Hammondsport/Penn Yan/Bath/Keuka Lake</a></li>
 		<li><a href="/property/default.asp?selRegion=lakegeorge">Glens Falls and Lake George Queensbury</a></li>
         <li><a href="/property/default.asp?selRegion=otsegodelaware">Otsego/Delaware/Chenango Counties</a></li>
@@ -4224,7 +4377,7 @@ $LAB
 		<li><a href="http://www.realtyusacommercial.com/">Capital Region</a></li>
 		<li><a href="/property/default.asp?selRegion=capital&amp;VAR_SearchType=commercial">Schoharie County</a></li>
 		<li><a href="/property/default.asp?selRegion=corningelmira&amp;VAR_SearchType=commercial">Corning/Horseheads / Elmira</a></li>
-		<li><a href="/property/default.asp?selRegion=ithaca&amp;VAR_SearchType=commercial">Ithaca</a></li>
+		<li><a href="/property/default.asp?selRegion=ithaca&amp;VAR_SearchType=commercial">Ithaca/Cortland</a></li>
 		<li><a href="/property/default.asp?selRegion=keuka&amp;VAR_SearchType=commercial">Hammondsport/Penn Yan / Bath / Keuka Lake</a></li>
 		<li><a href="/property/default.asp?selRegion=lakegeorge&amp;VAR_SearchType=commercial">Glens Falls and Lake George Queensbury</a></li>
 		<li><a href="/property/default.asp?selRegion=rochester&amp;VAR_SearchType=commercial">Rochester / Canandaigua / Honeoye</a></li>
@@ -4282,7 +4435,7 @@ $LAB
 	    		<li><a href="/foreclosures/fcrelooffice.asp">Foreclosure REO Offices</a></li>
 			</ul>		
 		</li>
-        <li><a href="http://hometrustwarranty.com/" target="_blank">Home Warranty</a></li>
+        <li><a href="http://www.2-10.com/" target="_blank">Home Warranty</a></li>
 		<li><a href="/relocate/">Relocation</a>
 			<ul>
             	<li><a href="/relocate/moving-into-the-area.asp">Moving Into the Area</a></li>
@@ -4528,7 +4681,7 @@ $LAB
                     <option value="catskill">Catskill Properties</option>
 					<option value="corningelmira">~Corning/Horseheads</option>
 					<option value="corningelmira">Elmira</option>
-					<option value="ithaca">~Ithaca</option>
+					<option value="ithaca">~Ithaca/Cortland</option>
 					<option value="keuka">~Hammondsport/Penn Yan</option>
 					<option value="keuka">Bath/Keuka Lake</option>
 					<option value="lakegeorge">~Glens Falls and</option>
@@ -4553,13 +4706,15 @@ $LAB
 					
 							<option value="Accord">Accord</option>
 						
-							<option value="Adams">Adams</option>
+							<option value="Acra">Acra</option>
 						
 							<option value="Adirondack">Adirondack</option>
 						
 							<option value="Albany">Albany</option>
 						
 							<option value="Alplaus">Alplaus</option>
+						
+							<option value="Alps">Alps</option>
 						
 							<option value="Altamont">Altamont</option>
 						
@@ -4605,6 +4760,8 @@ $LAB
 						
 							<option value="Brainard">Brainard</option>
 						
+							<option value="Brant">Brant</option>
+						
 							<option value="Brant Lake">Brant Lake</option>
 						
 							<option value="Broadablin">Broadablin</option>
@@ -4614,6 +4771,8 @@ $LAB
 							<option value="Broome">Broome</option>
 						
 							<option value="Brunswick">Brunswick</option>
+						
+							<option value="Burke">Burke</option>
 						
 							<option value="Burnt Hills">Burnt Hills</option>
 						
@@ -4638,6 +4797,8 @@ $LAB
 							<option value="Castleton">Castleton</option>
 						
 							<option value="Catskill">Catskill</option>
+						
+							<option value="Cental Bridge">Cental Bridge</option>
 						
 							<option value="Center Cambridge">Center Cambridge</option>
 						
@@ -4667,8 +4828,6 @@ $LAB
 						
 							<option value="Clemons">Clemons</option>
 						
-							<option value="Cleverdale">Cleverdale</option>
-						
 							<option value="Clifton Park">Clifton Park</option>
 						
 							<option value="Climax">Climax</option>
@@ -4685,9 +4844,9 @@ $LAB
 						
 							<option value="Columbia">Columbia</option>
 						
-							<option value="Comstock">Comstock</option>
-						
 							<option value="Conesville">Conesville</option>
+						
+							<option value="Confidential">Confidential</option>
 						
 							<option value="Cooperstown">Cooperstown</option>
 						
@@ -4696,8 +4855,6 @@ $LAB
 							<option value="Coriinth">Coriinth</option>
 						
 							<option value="Corinth">Corinth</option>
-						
-							<option value="Cornwallville">Cornwallville</option>
 						
 							<option value="Cossayuna">Cossayuna</option>
 						
@@ -4759,8 +4916,6 @@ $LAB
 						
 							<option value="Ephratah">Ephratah</option>
 						
-							<option value="Esopus">Esopus</option>
-						
 							<option value="Esperance">Esperance</option>
 						
 							<option value="Feura Bush">Feura Bush</option>
@@ -4773,8 +4928,6 @@ $LAB
 						
 							<option value="Fort Edward">Fort Edward</option>
 						
-							<option value="Fort Hunter">Fort Hunter</option>
-						
 							<option value="Fort Johnson">Fort Johnson</option>
 						
 							<option value="Fort Plain">Fort Plain</option>
@@ -4785,11 +4938,11 @@ $LAB
 						
 							<option value="Fulton">Fulton</option>
 						
-							<option value="Fultonham">Fultonham</option>
-						
 							<option value="Fultonville">Fultonville</option>
 						
 							<option value="Gallatin">Gallatin</option>
+						
+							<option value="Gallupville">Gallupville</option>
 						
 							<option value="Galway">Galway</option>
 						
@@ -4845,6 +4998,8 @@ $LAB
 						
 							<option value="Harpersfield">Harpersfield</option>
 						
+							<option value="Harrisvill">Harrisvill</option>
+						
 							<option value="Hartford">Hartford</option>
 						
 							<option value="Hebron">Hebron</option>
@@ -4873,6 +5028,8 @@ $LAB
 						
 							<option value="Hunter">Hunter</option>
 						
+							<option value="Ilion">Ilion</option>
+						
 							<option value="Indian Lake">Indian Lake</option>
 						
 							<option value="Jackson">Jackson</option>
@@ -4887,6 +5044,10 @@ $LAB
 						
 							<option value="Johnstown">Johnstown</option>
 						
+							<option value="Katskill Bay">Katskill Bay</option>
+						
+							<option value="Kattskill Bay">Kattskill Bay</option>
+						
 							<option value="Kinderhook">Kinderhook</option>
 						
 							<option value="Kingsbury">Kingsbury</option>
@@ -4894,6 +5055,8 @@ $LAB
 							<option value="Kingston">Kingston</option>
 						
 							<option value="Knox">Knox</option>
+						
+							<option value="Kortright">Kortright</option>
 						
 							<option value="Lake George">Lake George</option>
 						
@@ -4910,6 +5073,8 @@ $LAB
 							<option value="Latham">Latham</option>
 						
 							<option value="Laurens">Laurens</option>
+						
+							<option value="Lebanon Sprimgs">Lebanon Sprimgs</option>
 						
 							<option value="Leeds">Leeds</option>
 						
@@ -4933,7 +5098,7 @@ $LAB
 						
 							<option value="Malta,Ballston">Malta,Ballston</option>
 						
-							<option value="Mariaville">Mariaville</option>
+							<option value="Manheim">Manheim</option>
 						
 							<option value="Maryland">Maryland</option>
 						
@@ -4963,8 +5128,6 @@ $LAB
 						
 							<option value="Mohawk">Mohawk</option>
 						
-							<option value="Moorehouse">Moorehouse</option>
-						
 							<option value="Moreau">Moreau</option>
 						
 							<option value="Morehouse">Morehouse</option>
@@ -4983,11 +5146,13 @@ $LAB
 						
 							<option value="New Scotland">New Scotland</option>
 						
-							<option value="Newtonville">Newtonville</option>
+							<option value="Newburg">Newburg</option>
 						
 							<option value="Niskayuna">Niskayuna</option>
 						
 							<option value="Niverville">Niverville</option>
+						
+							<option value="North Blenheim">North Blenheim</option>
 						
 							<option value="North Chatham">North Chatham</option>
 						
@@ -5019,11 +5184,11 @@ $LAB
 						
 							<option value="Old Forge">Old Forge</option>
 						
+							<option value="Oneida">Oneida</option>
+						
 							<option value="Oneonta">Oneonta</option>
 						
 							<option value="Oppenheim">Oppenheim</option>
-						
-							<option value="Otsego">Otsego</option>
 						
 							<option value="Palatine">Palatine</option>
 						
@@ -5045,9 +5210,9 @@ $LAB
 						
 							<option value="Pittstown">Pittstown</option>
 						
-							<option value="Pleasantdale">Pleasantdale</option>
-						
 							<option value="Poestenkill">Poestenkill</option>
+						
+							<option value="Port Henry">Port Henry</option>
 						
 							<option value="Port Leyden">Port Leyden</option>
 						
@@ -5079,6 +5244,8 @@ $LAB
 						
 							<option value="Richmondville">Richmondville</option>
 						
+							<option value="Riparius">Riparius</option>
+						
 							<option value="Rock City Falls">Rock City Falls</option>
 						
 							<option value="Root">Root</option>
@@ -5098,8 +5265,6 @@ $LAB
 							<option value="Saint Johnsville">Saint Johnsville</option>
 						
 							<option value="Salem">Salem</option>
-						
-							<option value="Salisbury">Salisbury</option>
 						
 							<option value="Sand Lake">Sand Lake</option>
 						
@@ -5121,8 +5286,6 @@ $LAB
 						
 							<option value="Schoharie">Schoharie</option>
 						
-							<option value="Schroon">Schroon</option>
-						
 							<option value="Schroon Lake">Schroon Lake</option>
 						
 							<option value="Schuyler Lake">Schuyler Lake</option>
@@ -5140,6 +5303,8 @@ $LAB
 							<option value="Sharon Springs">Sharon Springs</option>
 						
 							<option value="Shushan">Shushan</option>
+						
+							<option value="Slate Hill">Slate Hill</option>
 						
 							<option value="Slingerlands">Slingerlands</option>
 						
@@ -5161,6 +5326,8 @@ $LAB
 						
 							<option value="Sprakers">Sprakers</option>
 						
+							<option value="Springfield">Springfield</option>
+						
 							<option value="St Johnsville">St Johnsville</option>
 						
 							<option value="St. Johnsville">St. Johnsville</option>
@@ -5175,6 +5342,8 @@ $LAB
 						
 							<option value="Stockport">Stockport</option>
 						
+							<option value="Stoney Creek">Stoney Creek</option>
+						
 							<option value="Stony Creek">Stony Creek</option>
 						
 							<option value="Stratford">Stratford</option>
@@ -5186,12 +5355,6 @@ $LAB
 							<option value="Surprise">Surprise</option>
 						
 							<option value="Taghkanic">Taghkanic</option>
-						
-							<option value="Tagkhanic">Tagkhanic</option>
-						
-							<option value="Tannersville">Tannersville</option>
-						
-							<option value="Thurman">Thurman</option>
 						
 							<option value="Ticonderoga">Ticonderoga</option>
 						
@@ -5217,6 +5380,8 @@ $LAB
 						
 							<option value="Waterford">Waterford</option>
 						
+							<option value="Watertown">Watertown</option>
+						
 							<option value="Watervliet">Watervliet</option>
 						
 							<option value="WEAVERTOWN">WEAVERTOWN</option>
@@ -5231,17 +5396,13 @@ $LAB
 						
 							<option value="West Glenville">West Glenville</option>
 						
-							<option value="West Hebron">West Hebron</option>
-						
-							<option value="West Leba">West Leba</option>
-						
 							<option value="West Sand Lake">West Sand Lake</option>
 						
 							<option value="Westerlo">Westerlo</option>
 						
 							<option value="Westford">Westford</option>
 						
-							<option value="Westmere">Westmere</option>
+							<option value="Westport">Westport</option>
 						
 							<option value="White Creek">White Creek</option>
 						
@@ -5443,10 +5604,10 @@ $LAB
 				<span class="floatRight">
 					<select name="VAR_PriceChanged" id="VAR_PriceChanged" class="wid72 font11">
 					     <option value="">None</option>
-					     <option value="10/25/2013">7 days</option>
-					     <option value="10/18/2013">14 days</option>
-					     <option value="10/4/2013">4 weeks</option>
-					     <option value="9/20/2013">6 weeks</option>
+					     <option value="6/18/2014">7 days</option>
+					     <option value="6/11/2014">14 days</option>
+					     <option value="5/28/2014">4 weeks</option>
+					     <option value="5/14/2014">6 weeks</option>
 					 </select>
 				</span>
 				<label for="VAR_PriceChanged">Price Changed<br>Within:</label>
@@ -5526,7 +5687,7 @@ $LAB
         
             <option value="keuka">Hammondsport / Bath / Penn Yan / Keuka Lake</option>
         
-            <option value="ithaca">Ithaca</option>
+            <option value="ithaca">Ithaca/Cortland</option>
         
             <option value="otsegodelaware">Otsego/Delaware/Chenango Counties</option>
         
@@ -5594,12 +5755,12 @@ $LAB
 	    <div class="innerbottom">
 		    <div class="foot_top">
 			        <ul>
-                        <li><a href="content/seminarschedule.asp" rel="nofollow">
-                <img src="http://images2.e-net.com/realtyusa/ActionImages/10.png" alt="" class="pngfix">
+                        <li><a target="_blank" rel="nofollow" href="http://www.1stprioritymortgage.com/">
+                <img src="http://images2.e-net.com/realtyusa/ActionImages/8.png" alt="" class="pngfix">
                 </a>
 					</li>
-    			<li><a target="_blank" rel="nofollow" href="http://www.1stprioritymortgage.com/">
-                <img src="http://images2.e-net.com/realtyusa/ActionImages/8.png" alt="" class="pngfix">
+    			<li><a href="content/seminarschedule.asp" rel="nofollow">
+                <img src="http://images2.e-net.com/realtyusa/ActionImages/10.png" alt="" class="pngfix">
                 </a>
 					</li>
     			<li><a target="_blank" rel="nofollow" href="http://www.leadingre.com/national">
@@ -5621,7 +5782,7 @@ $LAB
             	<div class="innerbottom">
                                     <img src="/images/eho-R.png" border="0" alt="" style="position: absolute; left: 495px; top: 5px;">
         			<ul class="foot_nav">
-            			<li>© 2013&nbsp;RealtyUSA</li>
+            			<li>© 2014&nbsp;RealtyUSA</li>
 						<li><a href="/privacy.asp">Privacy Policy</a></li>
 						<li><a href="/site-map.asp" title="Site Map">Site Map</a></li>        	
                         <li><a href="/admin" title="Agents Only">Agents Only</a></li>
@@ -5634,7 +5795,7 @@ $LAB
        
         	<div class="innerbottom">
             
-            <a href="http://www.leadingre.com/SubCatEngine.aspx?subCatID=1035" target="_blank"><img src="/images/WQC_logo_2011.png" border="0" alt="" style="float: right; padding-top: 15px;"></a>
+            <a href="http://www.leadingre.com/SubCatEngine.aspx?subCatID=1035" target="_blank"><img src="/images/WQC_logo_2014.png" border="0" alt="" style="float: right; padding-top: 15px;"></a>
             
         	
 		<div align="center" style="margin-top: 10px;">
@@ -5657,7 +5818,7 @@ $LAB
 				<a href="/real_estate/Binghamton.asp">Binghamton</a> | 
 				<a href="/real_estate/Capital_Region_and_Schoharie_County.asp">Capital Region / Schoharie County</a> | 
 				<a href="/real_estate/Corning_Horseheads_Elmira.asp">Corning / Horseheads / Elmira</a> | 
-				<a href="/real_estate/Ithaca.asp">Ithaca</a> | 
+				<a href="/real_estate/Ithaca.asp">Ithaca/Cortland</a> | 
 				<a href="/real_estate/Hammondsport_Penn_Yan_Bath_Keuka_Lake.asp">Hammondsport / Bath / Penn Yan / Keuka Lake</a><br> 
 				<a href="/real_estate/Glens_Falls_and_Lake_George_Queensbury.asp">Glens Falls / Lake George / Queensbury</a> | 
 				<a href="/real_estate/Rochester_Canandaigua.asp">Rochester / Canandaigua / Honeoye</a> | 
@@ -5700,6 +5861,23 @@ $LAB
 		document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
 	</script><script src="https://realtyusa.app8.hubspot.com/salog.js.aspx" type="text/javascript"></script>
 	<!-- End of HubSpot Logging Code -->
+
+
+<!-- Doubleclick Code for Realty USA REA-ALB-MPX, Universal Retargeting Pixel-->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 986484736;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/986484736/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 
 
