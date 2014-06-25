@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the just18.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214104134id_/http%3A//www.swankdollars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the just18.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112421id_/http%3A//www.swankdollars.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HTTP Electronic Publishing, Inc.
 
-**This privacy policy describes HTTP Electronic Publishing, Inc. d/b/a Swank Dollar's ("HTTP") current policies and practices with regard to personal data collected by HTTP through this web site. This privacy policy does not apply to information-collected offline or in any other way. The term "personal data" refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address, and any other information that identifies you personally.**
+**This privacy policy describes HTTP Electronic Publishing, Inc. d/b/a HTTPPUB.com ("HTTP") current policies and practices with regard to personal data collected by HTTP through this web site. This privacy policy does not apply to information-collected offline or in any other way. The term "personal data" refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address, and any other information that identifies you personally.**
 
 **Your Consent.** By using this web site, you consent to our use of your personal data as described in this privacy policy.
 
