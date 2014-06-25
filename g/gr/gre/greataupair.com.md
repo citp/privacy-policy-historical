@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816184921id_/http%3A//www.greataupair.com/support.cfm/topic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060402id_/http%3A//www.greataupair.com/support.cfm/topic/privacy) for the most accurate reproduction.*
 
 # Nanny Agency Au Pair Work Child Care Jobs Babysitter Service
 
@@ -6,11 +6,11 @@
 
 It is GreatAuPair's policy to maintain strict security and privacy practices to protect its systems and its customer data. GreatAuPair maintains compliance with U.S. State and Federal laws. Please visit our [Security Center](https://web.archive.org/security_center.htm) to learn more about how we help protect you and how you can help protect yourself against potential online fraud.
 
-GreatAuPair has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this website, www.GreatAuPair.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact [GreatAuPair Support](https://web.archive.org/support.cfm/topic/help). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
+GreatAuPair has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this website, www.GreatAuPair.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact [GreatAuPair Support](https://web.archive.org/support.cfm/topic/help). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 ### Anti-Spam & UCE Policy
 
-InteliMark Enterprises and GreatAupair do not send out unsolicited commercial emails or any form of spam. Please read our [Unsolicited Commercial Email Policy](https://web.archive.org/uce_policy.cfm "UCE Policy") to see what you can do to correctly identify spammers and put an end to their emails. If you have received what you believe to be spam, you may have received a [spoofed email](https://web.archive.org/security_center.htm#pageLink1) with forged headers.
+InteliMark Enterprises and GreatAuPair do not send out unsolicited commercial emails or any form of spam. Please read our [Unsolicited Commercial Email Policy](https://web.archive.org/uce_policy.cfm "UCE Policy") to see what you can do to correctly identify spammers and put an end to their emails. If you have received what you believe to be spam, you may have received a [spoofed email](https://web.archive.org/security_center.htm#pageLink1) with forged headers.
 
 ### Privacy & Personal Information
 
@@ -18,7 +18,7 @@ GreatAuPair has a firm commitment to safeguarding the privacy of our members' Pe
 
 We offer this statement to inform our users of how we define, gather and utilize personal information. We reserve the right, at our sole discretion, to alter this policy at any time. Alterations shall become effective immediately upon the posting thereof. Without limiting the foregoing, we may occasionally notify you by email about changes to GreatAuPair, its terms or policies or provide notices of changes by displaying notices or links to notices on the website. Your continued use of GreatAuPair following the posting of changes and/or modifications will constitute your acceptance of the revised Terms and Privacy Policy. This Policy may change from time to time, so please check back periodically.
 
-We collect personal information from guests and members during the registration and payment processes and, occasionally, at other times. Information collected by GreatAuPair is securely stored by physical and electronic means. Data collected by GreatAuPair will not be sold or rented on an individual basis to independent third parties without your knowledge or permission. By accepting the GreatAuPair Terms of Use, you acknowledge and grant permission to GreatAupair to use your Personal Contact Information as specifically stated under Uses of Personal Contact Information, herein, on GreatAuPair and its Childcare Network Affiliate websites.
+We collect personal information from guests and members during the registration and payment processes and, occasionally, at other times. Information collected by GreatAuPair is securely stored by physical and electronic means. Data collected by GreatAuPair will not be sold or rented on an individual basis to independent third parties without your knowledge or permission. By accepting the GreatAuPair Terms of Use, you acknowledge and grant permission to GreatAuPair to use your Personal Contact Information as specifically stated under Uses of Personal Contact Information, herein, on GreatAuPair and its Childcare Network Affiliate websites.
 
 Search engines may index publicly available information from your profile, such as your first name, that is searchable by anyone on the Internet. Search engines do not have access to any Personal Contact Information contained within the fields of a profile, some of which is available only to paid members of the GreatAuPair service. Personal Contact Information is defined as first and last name together, email address, phone number and physical street address. We also collect your credit card number if you make a purchase. With your permission, we will also supplement data through a background check.
 
@@ -54,7 +54,7 @@ If you wish to subscribe to our newsletter, we will use your name and email addr
 
 We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate or cancel your account.
 
-We reserve the right to disclose your personally identifiable information to enforce our Terms of Use, prevent fraud, or as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
+We reserve the right to disclose your personally identifiable information to enforce our Terms of Use, prevent fraud, or as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website. If GreatAuPair is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 This website contains links to other sites that are not owned or controlled by GreatAuPair. Please be aware that we, GreatAuPair, are not responsible for the privacy practices of such other sites.
 
@@ -86,6 +86,8 @@ We also employ cookie technology to help members move faster through our site. W
 
 We use a third-party tracking service provided by Google, called Google Analytics that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate. The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement.
 
+We use Google AdSense to publish ads on this website. When you view or click on an ad, a cookie will be set to help better provide advertisements that may be of interest to you on this and other websites. You may opt-out of the use of this cookie by visiting Google's Advertising and Privacy page: http://www.google.com/privacy_ads.html
+
 ### Web Beacons
 
 Our web pages contain electronic images known as web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
@@ -98,10 +100,10 @@ We will retain your information for as long as your account is active or as need
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here or by email.
+We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here or by email prior to the change becoming effective.
 
 ### Contact Us
 
 If you have any questions or suggestions regarding our privacy policy, please contact our [support team](https://web.archive.org/support.cfm/topic/contact) via the support ticketing system or via U.S. Mail at 6836 Bee Caves Road, Suite 222, Austin, TX 78746.
 
-GreatAuPair may change its Privacy Policy from time to time, so please check back periodically. Last updated April 2, 2012.
+GreatAuPair may change its Privacy Policy from time to time, so please check back periodically. Last updated December 11th, 2013.
