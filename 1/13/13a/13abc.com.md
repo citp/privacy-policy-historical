@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the 13abc.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010025151id_/http%3A//www.13abc.com/story/18243161/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 13abc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625231036id_/http%3A//www.13abc.com/story/18243161/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 13abc.com Toledo (OH) News, Weather and Sports
 
-Last Updated: May 2013
+**Last Updated: February 18, 2014**  
+
 
   
 This Privacy Policy discloses the privacy practices of the websites of Lilly Broadcasting including 13abc.com (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
@@ -11,7 +12,7 @@ This Privacy Policy discloses the privacy practices of the websites of Lilly Bro
 Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Terms of Service. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the revised Privacy Policy on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
   
-How We Collect and Use Information
+**How We Collect and Use Information**
 
   
 We may collect and store information, including personally-identifiable information (such as your name, postal address or email address) or other information that you voluntarily supply to us while on our Site. Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site.
@@ -50,7 +51,7 @@ Please be aware that we may occasionally release information about our visitors 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.
 
   
-Data Collected in Connection with Ad Serving and Targeting
+**Data Collected in Connection with Ad Serving and Targeting**
 
   
 We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.
@@ -65,13 +66,13 @@ The data collected in connection with the ad serving and ad targeting on our Sit
 The use and collection of information by third-party advertising service providers is governed by the relevant third party's privacy policy and is not covered by our privacy policy. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider's information collection practices, please contact the person at the bottom of this notice.
 
   
-Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas
+**Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas**
 
   
 Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
 
   
-Children's Privacy Statement
+**Children's Privacy Statement**
 
   
 **This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of 13, and provides important information regarding their rights under federal law with respect to such information.**
@@ -83,18 +84,20 @@ Children's Privacy Statement
 • Because we do not collect any personally identifiable information from children under the age of 13 via the Site, we do NOT condition the participation of a child under 13 in the Site's online activities on providing personally identifiable information.
 
   
-How To Make Changes to Your Information
+**How To Make Changes to Your Information**
 
   
 If you are a registered member of our Site, you can make changes to your account information by logging in to the Site and using the account tools available via the Site. If you have subscribed to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by logging in to your account. 
 
   
-Storage of Information
+**Storage of Information**
 
   
 All information gathered on our Site is stored within a database to which only we and our hosting services provider are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site's servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
 
-============
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site.  These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you.  These companies typically use a cookie or third party web beacon to collect this information.  To learn or more about this behavioral advertising practice or to opt-out of this type of advertising for some companies, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) and <http://www.networkadvertising.org/managing/opt_out.asp>
+
+============ 
 
 **Community Terms and Conditions**
 
