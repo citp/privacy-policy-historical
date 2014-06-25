@@ -1,109 +1,152 @@
-> *The following text is extracted and transformed from the payvment.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014202457id_/http%3A//www.payvment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payvment.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625203542id_/http%3A//www.ecwid.com/privacy-policy) for the most accurate reproduction.*
 
-# Payvment - eCommerce and Discovery on Facebook and Twitter: Privacy Policy
+# Privacy Policy
 
-Effective Date: February 5, 2011
+Ecwid, Inc. (“Ecwid”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy covers the information practices of our user interfaces, including our website Ecwid.com, that link to this Privacy Policy: [http://www.Ecwid.com](http://www.ecwid.com/). 
 
-Payvment takes your privacy very seriously and is committed to protecting your privacy and providing a means to allow you to safely make purchases on Facebook. This privacy statement describes how we collect and use the personal information you provide to Payvment. It also describes the choices available to you regarding our use of your personal information and the steps you can take to access this information and to ensure that it is accurate.
+**By visiting[Ecwid.com](http://www.ecwid.com/) or our other user interfaces, you are accepting the practices described in this Privacy Policy.** This Privacy Policy operates in conjunction with our Terms of Service, and also our Channel Partner Agreement and Master Service Agreement, as applicable, which together constitute the entire agreement between you and Ecwid. Please review each of these documents to understand all of the terms and conditions of your agreement with us. 
 
-## Collection and Use of Personal Information
+Ecwid.com may contain links to third-party websites. Ecwid is not responsible for the information practices or the content of such third-party websites. We encourage you to review the privacy policies of third-party websites to understand their information practices. 
 
-We collect and retain the following personal information when you make a purchase: Contact information such as your name, email address and shipping address.
+## Safe Harbor
 
-We use the information we capture and collect to
+Ecwid complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Ecwid has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor). 
 
-  * Facilitate your transaction with our retailer clients
-  * Retain your shipping information to pre-populate the form to make future product purchases easier.
-  * Retain items you placed in your shopping cart if you leave the cart before completing your purchase
+## Notice
 
+Ecwid will inform an individual of the purpose for which it collects and uses information and the types of non-agent third parties to which Ecwid discloses or may disclose the information. 
 
+## Information We Collect
 
-We do not use technologies such as cookies to track your activity on our application or to collect personal information from you.
+Ecwid offers a variety of products and services that are together referred to as “the Products and Services.” If you choose to use the Products or Services, we may require you to provide contact and identity information, billing information, and other personal information as indicated on our user interfaces, including on Ecwid.com. Once you register on Ecwid.com, you are no longer anonymous to us. 
 
-## Information Sharing
+We collect and store the following information: 
 
-We will share your personal information with third parties (such as shipping details to the retailer to facilitate a purchase) only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
-
-We may also disclose your personal information:
-
-  * as required by law, such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if Payvment is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-  * to any other third party with your prior consent to do so.
+  * Information you give us, including, contact information, such as your name, company name, address, phone number, email address, and financial information;
+  * automatic information, such as computer sign-on data, browser type, browser language, statistics on page views, traffic to and from our user interfaces and ad data. Like many websites, we use identifiers such as “cookies” and Web beacons to obtain this automatic information.
+  * discussion board posts and other messages, including your correspondence with us. Our communications will include notices about your account (for example, change in password or payment method, confirmation e-mails and other transactional information) and information concerning or related to our service. These communications are part of your relationship with Ecwid and you receive them as part of the Ecwid membership. If you or your store’s customers do not want to receive our emailed newsletters, other promotional announcements or non-transactional communications, simply use your account name and password to access the control panel on Ecwid.com and disable any email notifications sent to you or your customers. Email notifications sent by Ecwid’s community forums can be adjusted or disabled via the community forums control panel. For members subscribing to notifications about the availability of specific partner programs at <http://www.ecwid.com/partners-program.html>, we include instructions to unsubscribe in the body of the email notifications; and 
+  * general information regarding the Products or Services that you have registered to receive; and 
+  * information from third-party providers and services to help Ecwid provide our Products and Services and to help us understand the use of our Products and Services..
 
 
 
-To help protect your privacy, we allow our retailer clients only limited access to your contact, shipping and financial information to facilitate your transactions. The use of your information is also subject to the retailer’s privacy statements. We encourage you to carefully read the privacy statement of any retailer you choose to make purchases from.
+We do not store the following information in the regular course of our business: 
 
-## PayPal
+  * credit card information and billing addresses. 
 
-We use PayPal to collect and process payments. To complete your purchase, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal website.
 
-## Correcting and Updating Your Personal Information
 
-To revise or delete your saved shipping information, you can click the “Your Settings” button on the Facebook storefront.
+## Our Use of Your Information
 
-## Links to Other Web Sites
+We use your personal information to: 
 
-Our application includes links to other Web sites whose privacy practices may differ from those of Payvment’s. If you submit personal information to any of those sites, your information is subject to their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. If you post a comment or respond to a posting on a social network site, blog or Payvment fan page, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of those forums, and could be used to send you unsolicited messages.
+  * provide and improve our Products and Services;
+  * resolve disputes, calculate and collect fees, and troubleshoot problems;
+  * verify users’ identity and the information users provide;
+  * encourage a safe online experience and enforce our policies;
+  * customize users’ experience, analyze site usage, improve and measure interest in our services, and inform users about services and updates;
+  * communicate administrative announcements when we need to provide users with information that may affect their use of Products or Services;
+  * communicate marketing and promotional offers and events to our users;
+  * provide customer service; and
+  * perform other business activities as described when we collect the information.
+
+
+
+As part of your registration on our Website to use the Products or Services, our Website, you agree that you may receive certain administrative communications from us, such as administrative announcements and customer service messages regarding Products or Services and products during the period that we provide Products or Services to you. You may not opt out of receiving such administrative communications. 
+
+Ecwid’s user interfaces use credit card information solely to check the financial qualifications of prospective customers and to collect payment for the Products and Services. 
+
+Our website also uses automatic information obtained through cookies and Web beacons to operate and improve. We may also use automatic information alone or in combination with personal information about our customers to provide personalized information about Ecwid.com 
+
+Ecwid contracts with third-party advertising networks who collect IP addresses and other identifiers on our websites and emails and on third-party websites. Ad networks follow your online activities over time by collecting information through automated means, including through the use of cookies. They use this information to provide advertisements about third-party products and services tailored to your interests. You may see these advertisements on other websites. This process also helps us manage and track the effectiveness of ourmarketing efforts. Ecwid, however, does not grant third parties access to any personal information. 
+
+## Opting out
+
+Ecwid does not use personal information for marketing its services, either through email or direct mailing. Ecwid may send some non-marketing communications that are not subject to general opt-out, such as information that you request we send to you or to third parties with whom you do business, and disclosures to comply with legal requirements and other informational notices. 
+
+Our newsletter is used as a general means of communication and may include updates to our services as well as new partner agreements. You have the option to unsubscribe to our newsletter at anytime. If we intend to use your information for a purpose that is not compatible with these purposes or if we intend to disclose it to a type of third party not previously identified, we will notify you and offer you the opportunity to opt out of such uses and/or disclosures. 
+
+Ecwid will offer individuals the opportunity to choose (opt out) whether their information is to be disclosed to a third party or to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual should the occasion arise. 
+
+## Our Use of Cookies and Other Identifiers
+
+We use identifiers such as cookies, Web beacons and IP addresses to make interactions with users easy and meaningful. 
+
+## Cookies
+
+When you visit Ecwid.com, Ecwid’s servers send a cookie to your computer. Standing alone, cookies do not identify you. They merely recognize your Web browser. Unless you choose to identify yourself to Ecwid, either by responding to a promotional offer, opening an account, or filling out a Web form, you remain anonymous to Ecwid.
+
+We use cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. 
+
+If you have identified yourself to Ecwid.com, we use session cookies containing encrypted information to identify you uniquely. Each time you log into the Products and Services, your browser saves a session cookie containing an encrypted, unique identifier tied to your account. These session cookies allow Ecwid.com to identify you uniquely while you are logged into the Products and Services and to process your online transactions and requests. Use of the Products and Services requires session cookies. 
+
+Ecwid.com uses persistent cookies that only we can read and use to identify users who have visited our website previously. When you purchase the Products and Services or provide us with personal information, our website assigns a unique identifier to you. This unique identifier derives from a persistent cookie that Ecwid.com places on your Web browser. We especially are careful about the security and confidentiality of the information stored in persistent cookies. For example, we store neither account numbers nor passwords in persistent cookies. If you disable your Web browser’s ability to accept cookies, you will be able to navigate Ecwid.com, but you will be unable to use the Products and Services successfully. 
+
+We may use information from session and persistent cookies in combination with data about Ecwid’s website users to provide you with information about us and the Products and Services. 
+
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, and how to disable cookies. You also can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the website of its manufacturer. We recommend that you leave cookies turned on, however, because they allow you to take advantage of some of Ecwid’s essential features. For instance, if you block or otherwise reject our cookies, you won’t be able to access or use your account at [my.ecwid.com](https://my.ecwid.com/) or to enter comments and questions on our community forums. You will be able to browse Ecwid.com, to use our knowledge base ([kb.ecwid.com](http://kb.ecwid.com/)), and to read community forums. 
+
+## Web Beacons
+
+We use Web beacons alone or in conjunction with cookies to compile information about usage of Ecwid.com and user interaction with emails from Ecwid.com. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular website tied to the Web beacon, and a description of a website tied to the Web beacon. For example, we may place Web beacons in marketing emails that notify Ecwid.com when you click on a link in the email that directs you to Ecwid.com. Ecwid uses Web beacons to operate and improve Ecwid.com and email communications. 
+
+Ecwid may use information from Web beacons in combination with data about users to provide you with information about Ecwid.com and the Products and Services. 
+
+## Flash Cookies
+
+We use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Third parties, with whom Ecwid partners to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. 
+
+Flash cookies are different from browser cookies because of the amount and type of data, and how it is stored. Cookie management tools provided by your browser will not remove Flash cookies. 
+
+## Addresses
+
+When you visit Ecwid.com, we collect your Internet Protocol (“IP”) addresses to track and aggregate non-personal information. For example, we use IP addresses to monitor the regions from which users navigate Ecwid.com. 
+
+We also collect your IP address when you log into our Products and Services as part of our security features. 
+
+## Third Party Cookies
+
+We occasionally engage third parties to track and analyze usage and volume statistical information from users of Ecwid’s user interfaces, including our website, Ecwid.com. We also may use other third-party cookies to track the performance of our advertisements. The information provided to third parties includes no personal information, but this information may be re-associated with personal information after we receive it. 
+
+## Our Disclosure of Your Information
+
+We neither sell nor rent your personal information to third parties for their marketing purposes without your explicit consent. We may disclose personal information to respond to legal requirements, enforce or apply our Terms of Use and other agreements and policies, respond to claims that a listing or other content violates others’ rights, or to protect anyone’s rights, property, or safety. We also may exchange personal information with: 
+
+  * service providers who support our business operations and assist in delivering our Products or Services to our users (these service providers are under confidentiality agreements with us; and
+  * law enforcement or other government officials in order to investigate, prevent, or counteract illegal activities, suspected fraud, violations of law, or as otherwise required by law.
+
+
+
+## Public Forums, Affiliate Referral, and Customer Testimonials
+
+Ecwid.com may include community forums, blogs, or chat rooms. Any other visitors to these forums may read, collect, or use the personal information you choose to disclose there, and may use it to send you unsolicited messages. Ecwid is not responsible for the privacy of information you choose to disclose in these forums. 
+
+Users may elect to use our affiliate referral program to inform friends about Ecwid. We request the name and email address of each referred friend. Ecwid will send a one-time automatic email to the friend inviting him or her to visit our user interfaces. For further information about our affiliate referral program, please see <http://www.ecwid.com/affiliate-program.html>. The agreement governing our affiliate referral program may be found at <http://ecwid.zferral.com/>. 
+
+Ecwid posts a list of users and testimonials on our user interfaces, including on our website, Ecwid.com that contain information such as user names and titles. We obtain the consent of each user prior to posting any information on such a list or posting testimonials. 
+
+## Accessing, Reviewing and Changing Your Personal Information
+
+If you are registered to receive our Products or Services, you can access, review and modify your personal information at any time by logging into your Profile page located at [https://my.ecwid.com](https://my.ecwid.com/). 
+
+We may delete personal information when we no longer need it for the purposes we described earlier. We may retain personal information as permitted by law to resolve disputes, enforce our policies, and prevent the recurrence of fraud or other illegal or improper activity. 
 
 ## Security
 
-The security of your personal information is important to us.
+To prevent unauthorized access, promote data security, and encourage appropriate use of information, we use a variety of tools, such as encryption technologies, passwords, physical and electronic security, or procedural safeguards to assist in the protection of your information. No security on the Internet is absolute, however, so we are unable to guarantee the security of any information that you share with us. 
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+## Enforcement
 
-In order to make a purchase from us, you must use our payment provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
+Ecwid uses a self-assessment approach to ensure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Safe Harbor Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with the Principles. 
 
-If you have any questions about the security of our application, you can contact us at privacy@payvment.com
+Ecwid has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Ecwid, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
-## Notification of Privacy Statement Changes
+## Changes to This Privacy Policy
 
-We may update this policy from time to time as our information practices are modified or changed. If we make any material changes to this policy that affect your personal information, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our application prior to the change. We encourage you to periodically review this page for the latest information on our privacy practices. Questions/Feedback
+We may amend this Privacy Policy at any time by posting the amended terms on Ecwid.com. In the event of amendment, all terms shall take effect thirty (30) days after initial posting to Ecwid.com. Your continued use of any of the Products and Services will constitute your acceptance of any changes or additions to this Privacy Policy. 
 
-As an added step towards our commitment to your privacy, Payvment participates in the TRUSTe Privacy Seal Program, which requires members to fully disclose their information practices and undergo privacy compliance monitoring by TRUSTe. TRUSTe, a privacy services company dedicated to advancing privacy and online trust, certifies many companies to its leading privacy practices.
+## Contact Information
 
-If you have any questions about the privacy or security of our website, you can send an e-mail to privacy@payvment.com or contact us via mail at the address below:
+To access your information, ask questions about our privacy practices, or issue a complaint, please contact us at info@ecwid.com or mail your correspondence to: Ecwid Privacy, 144 West D Street, Suite 103, Encinitas, California 92024, USA. 
 
-Payvment, Inc.  
-Attn: Privacy  
-250 Cambridge, Suite 301  
-Palo Alto, CA 94306  
-[privacy@payvment.com](mailto:%20privacy@payvment.com)
-
-If this does not satisfactorily resolve your inquiry then you may contact TRUSTe at http://www.truste.com/consumers/watchdog_complaint.php and TRUSTe will then serve as a liaison with this company to resolve your concerns.
-
-## Payvment Copyright Policy
-
-Payvment respects the copyright law and expects its users to do the same. It is Payvment’s policy to terminate in appropriate circumstances Sellers, Shoppers or other users who repeatedly infringe or are believed to be repeatedly infringing the rights of copyright holders. 
-
-#### Notification of Copyright Infringement:
-
-Payvment, Inc. (“Payvment”) respects the intellectual property rights of others and we expect our sellers and shoppers to do the same.
-
-It is Payvment’s policy, in appropriate circumstances and at its discretion, to disable and/or terminate the account or access of users who repeatedly infringe or are repeatedly charged with infringing the copyrights or other intellectual property rights of others. 
-
-In accordance with the Digital Millennium Copyright Act of 1998, the text of which may be found on the U.S. Copyright Office website at <http://www.copyright.gov/legislation/dmca.pdf>, Payvment will respond expeditiously to claims of copyright infringement committed using a Payvment website or Payvment application (the “Sites and Application”) that are reported to Payvment’s Designated Copyright Agent, identified in the sample notice below. 
-
-If you are a copyright owner, or are authorized to act on behalf of one, or authorized to act under any exclusive right under copyright, please report alleged copyright infringements taking place on or through the Site and Application by completing the following DMCA Notice of Alleged Infringement and delivering it to Payvment’s Designated Copyright Agent. Upon receipt of the Notice as described below, Payvment will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged material from the Site and Application. 
-
-#### DMCA Notice of Alleged Infringement (“Notice”)
-
-  1. Identify the copyrighted work that you claim has been infringed, or - if multiple copyrighted works are covered by this Notice - you may provide a representative list of the copyrighted works that you claim have been infringed.
-  2. Identify the material that you claim is infringing (or to be the subject of infringing activity) and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material, including at a minimum, if applicable, the URL of the link shown on the Site and Application where such material may be found. 
-  3. Provide your mailing address, telephone number, and, if available, email address.
-  4. Include both of the following statements in the body of the Notice:
-    * "I hereby state that I have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use)."
-    * "I hereby state that the information in this Notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed." 
-    * Provide your full legal name and your electronic or physical signature.
-
-
-
-**Deliver this Notice, with all items completed, to Payvment’s Designated Copyright Agent:**
-
-Copyright Agent  
-c/o Payvment, Inc.  
-250 Cambridge Avenue, Suite 301  
-[copyright@payvment.com](mailto:copyright@payvment.com)  
-650-681-1580  
-650-327-2564 
+Effective date of this policy: February 1, 2014
