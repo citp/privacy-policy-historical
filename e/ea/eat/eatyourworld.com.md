@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatyourworld.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930111919id_/http%3A//eatyourworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatyourworld.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054359id_/http%3A//eatyourworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Eat Your World
 
@@ -25,6 +25,7 @@ We do not direct any of our content specifically to children. Users of our Websi
 
   * We receive and store certain types of information whenever you interact with our Website or services. Company automatically receives and records information on our server logs from your browser including your IP address, cookie information, the page you requested, and any items you may purchase. This information may be used to customize the content you see on our Website or to communicate with you about specials and new features.
   * Usage information, such as the numbers and frequency of visitors to our site and its components may also be used in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Website or services so that we can make the Website appealing to as many customers as possible, and improve those services. As part of  this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use their services and our Website, so that they, too, may provide you with an optimal online experience. Company never discloses aggregate information to a partner in a manner that would identify you personally.
+  * Company uses Google Analytics Demographics and Interest Reporting to track demographic information. If you would like to opt out of this, please use this [link](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCj4rHTJbPGFv8COh1ncAeJ9lrdAbPtI4Oe5TCk_YOF__i0HbeivjzwK9-2uWLVutPc0c4-8tVBi3HcNvkJ_I64eKyNr7WuUVfDL4wuC2KeFsFa3Pw-E0igLcpoIEXjthsj9_qXgWKe3zk-01Iss245KKy82kxfRdnJ4cHhsG7hrAX5MCJ38y3fcRc7KTm3R-rJqwy7gwZ6qOn21ECSoClD-aSmxKMLxgwVUGy8nRAOc27cdkP2VVR4LFAoTf2O2ZcEkUTeV).
 
 
 
