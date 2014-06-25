@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acuonline.org privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620121039id_/http%3A//www.acuonline.org/home/privacy%3Fvhelp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuonline.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002135id_/http%3A//www.acuonline.org/home/privacy%3Fvhelp) for the most accurate reproduction.*
 
 # Associated Credit Union - Privacy
 
