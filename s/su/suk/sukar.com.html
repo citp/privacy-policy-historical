@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the sukar.com privacy policy that was archived on 2013-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131211182146id_/http%3A//www.sukar.com/ae-en/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sukar.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625051354id_/http%3A//www.sukar.com/ae-en/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Sukar.com</title>
+	<title>Sukar.com</title>
 <meta name="viewport" content="width=device-width, user-scalable=no;">
 						<meta name="robots" content="index, follow">
 						<meta http-equiv="Expires" content="0">
@@ -10,7 +10,7 @@
 						<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 						<meta http-equiv="Content-Style-Type" content="text/css">
 						<meta http-equiv="Content-Script-Type" content="text/javascript">
-						<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+						<meta http-equiv="X-UA-Compatible" content="IE=Edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwAOUl5ACgAHVlRTBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 						<meta name="viewport" content="width=device-width">
 						<meta name="title" content="Sukar.com">
 						<meta http-equiv="Content-Language" content="en">
@@ -19,7 +19,7 @@
 	
 <!-- Default Styles -->
 						<link href="http://www.sukar.com/static/fontfaces/fontfaces.css" rel="stylesheet" type="text/css">
-								<link href="http://cf1.sukarcdn.com/static/ltr/en/css/sukar/common.5.css" rel="stylesheet" type="text/css">
+								<link href="http://cf3.sukarcdn.com/static/ltr/en/css/sukar/common.8.css" rel="stylesheet" type="text/css">
 								<link href="http://cf2.sukarcdn.com/static/ltr/en/css/sukar/sukar-hp.css" rel="stylesheet" type="text/css">
 								<link href="http://cf5.sukarcdn.com/static/javascript/libs/jquery/plugins/jquery.countdown.package-1.6.2/jquery.countdown.css" rel="stylesheet" type="text/css">
 								<link href="http://cf5.sukarcdn.com/static/ltr/en/css/sukar/colorbox.css" rel="stylesheet" type="text/css">
@@ -33,8 +33,9 @@
 			
 <!-- IEs Styles -->
 
-						<script type="text/javascript">var Souq = {} || Souq; Souq.modules={}; Souq.vars = {"hostCDN":"http:\/\/cf1.sukarcdn.com\/static\/javascript\/builds\/out26","hostSSL":"https:\/\/ssl.sukar.com\/ae-en","hostStatic":"http:\/\/cf1.sukarcdn.com\/static\/ltr\/en","host":"http:\/\/www.sukar.com\/ae-en","hostBase":"http:\/\/www.sukar.com","customerCurrency":"AED","moneyExample":"10.50","currentLanguage":"en","currentSite":"ae","currencyFraction":2,"fractionSeprator":".","thousandSeperator":",","cookieDomain":".sukar.com","isSSL":false,"customer":null,"env":{"LIVE":true,"TEST":false},"fullLoaded":false,"bShowLogin":false,"isMobile":false,"browserInfo":{"browser_name":"other","browser_version":null,"operating_system":"other","device_type":"pc"},"bShowConvertrDialog":false,"bShowForceRedirectDialog":false,"sRedir":"","load_inits":true,"jquery_plugins":[],"modules":["inits"],"bShowLead":false}</script>
-				
+						<script type="text/javascript">var Souq = {} || Souq; Souq.modules={}; Souq.vars = {"hostCDN":"http:\/\/cf1.sukarcdn.com\/static\/javascript\/builds\/out38","hostSSL":"https:\/\/ssl.sukar.com\/ae-en","hostStatic":"http:\/\/cf1.sukarcdn.com\/static\/ltr\/en","host":"http:\/\/www.sukar.com\/ae-en","hostBase":"http:\/\/www.sukar.com","customerCurrency":"AED","moneyExample":"10.50","currentLanguage":"en","currentSite":"ae","currencyFraction":2,"fractionSeprator":".","thousandSeperator":",","cookieDomain":".sukar.com","isSSL":false,"customer":null,"env":{"LIVE":true,"TEST":false},"fullLoaded":false,"bShowLogin":false,"isMobile":false,"browserInfo":{"browser_name":"other","browser_version":null,"operating_system":"other","device_type":"pc"},"bShowConvertrDialog":false,"bShowForceRedirectDialog":false,"sRedir":"","load_inits":true,"jquery_plugins":[],"modules":["inits"],"bShowLead":false}</script>
+										<script type="text/javascript" src="http://cf5.sukarcdn.com/static/javascript/modules/html5shiv.js"></script>
+			
 	<!--[if IE]>
 	<style type="text/css” media="screen">
 	@font-face{
@@ -50,7 +51,7 @@
 	</head>
 	<body>
 	<div class="screen-top"><div id="back_to_top" class="hide top-box-fixed hidden-tablet hidden-phone" style="right: 91px; top: 0px;"></div></div>
-		<div class="red-luxury bg-white">
+		<div class=" bg-white">
 			<div class="homepage">
 						<div id="header" class="marb-20 tablet-marb-10 phone-marb-10">
 	<!--Left Nav Area - Table and Mobile-->
@@ -243,65 +244,63 @@
 		<nav class="top-hor-nav hidden-tablet hidden-phone">
 			<ul>
 			    <li>
-				<a class="parent " href="http://www.sukar.com/ae-en">All Sales</a>
+				<a class="parent  selected" href="http://www.sukar.com/ae-en">All Sales</a>
 			    </li>
 			    				<li>
-				    <a class="parent " href="http://www.sukar.com/ae-en/gifts-575/c/">Gifts</a>
+				    <a class="parent " href="http://www.sukar.com/ae-en/brands-230/c/">Brands</a>
 				    <div class="nav-panel">
 					    						<ul class="current-sales-nav">
 						    <li class="title">Current Sales</li>
-						    														    <li><a href="http://www.sukar.com/ae-en/695/c/">Luxury Gifts</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/693/c/">Gifts under 50 </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/694/c/">Gifts under 100</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1101/c/">Gifts Under 150</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1102/c/">Gifts Under 300</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/696/c/">ELECTRONICS </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/697/c/">WOMEN'S FASHION</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/698/c/">ACCESSORIES &amp; SHOES</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/699/c/">FRAGRANCES -UAE only</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/701/c/">MEN'S FASHION</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/799/c/">FOR THE HOME</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/702/c/">JEWELRY</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/700/c/">TOYS</a></li>
-													    						    <li class="last"><a href="http://www.sukar.com/ae-en/gifts-575/c/">View All Sales</a></li>
+						    														    <li><a href="http://www.sukar.com/ae-en/5076/c/">Diesel</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5386/c/">Casio</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5216/c/">Michael Kors</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5142/c/">Coach</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5299/c/">D&amp;G</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/4832/c/">US Polo Assn.</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/4667/c/">Fossil</a></li>
+													    						    <li class="last"><a href="http://www.sukar.com/ae-en/brands-230/c/">View All Sales</a></li>
 						</ul>
 
+												    <ul class="ending-soon-nav">
+							<li class="title">Ending Soon</li>
+														    								<li><a href="http://www.sukar.com/ae-en/5081/c/">Ralph Lauren</a></li>
+							    														<li class="last"><a href="http://www.sukar.com/ae-en/brands-230/c/">View All Sales</a></li>
+						    </ul>
 											    					    				    </div>
 				</li>
 			    				<li>
-				    <a class="parent  selected" href="http://www.sukar.com/ae-en/women-1/c/">Women</a>
+				    <a class="parent " href="http://www.sukar.com/ae-en/women-1/c/">Women</a>
 				    <div class="nav-panel">
 					    						<ul class="current-sales-nav">
 						    <li class="title">Current Sales</li>
-						    														    <li><a href="http://www.sukar.com/ae-en/1035/c/">Designer Delights</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1069/c/">MK, Marc Jacobs</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1059/c/">Mango</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1026/c/">Giftable Fragrances</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1046/c/">Luxury Gifts</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1055/c/">La Prairie: Skincare</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1029/c/">Quick Gifts for Her</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/983/c/">100 MUST HAVES</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1017/c/">Shades and Dials</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1093/c/">Evening Look</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1100/c/">Guess Accessories </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1090/c/">Wristlets &amp; Clutches</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/958/c/">Tops for Everyday</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1073/c/">Embroidered Sarees</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1050/c/">Chic and Casual</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1088/c/">Kaleidoscope by Mimi</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1056/c/">Dida New York </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1072/c/">Vera Perla</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1054/c/">Fab Flats &amp; Bags</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1094/c/">New Years Glam</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1074/c/">Beauty Box</a></li>
+						    														    <li><a href="http://www.sukar.com/ae-en/5390/c/">Tom Ford</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5403/c/">Golden Essentials</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5407/c/">Digital Watches</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5396/c/">Beauty Secrets</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5410/c/">Scholl</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5377/c/">Watches for Her</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5366/c/">Eyewear for Summer</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5368/c/">Calvin Klein</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5373/c/">White Watches</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5369/c/">Lipstick Queen</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5321/c/">Carrera</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5323/c/">MySmar</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5326/c/">Police</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5333/c/">Blugirl</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5307/c/">Ruby Rose</a></li>
 													    						    <li class="last"><a href="http://www.sukar.com/ae-en/women-1/c/">View All Sales</a></li>
 						</ul>
 
 												    <ul class="ending-soon-nav">
 							<li class="title">Ending Soon</li>
-														    								<li><a href="http://www.sukar.com/ae-en/1038/c/">Stand Out Bags </a></li>
-							    														    								<li><a href="http://www.sukar.com/ae-en/1043/c/">Girls Night Out</a></li>
-							    														    								<li><a href="http://www.sukar.com/ae-en/1047/c/">Sparkle and Shine</a></li>
+														    								<li><a href="http://www.sukar.com/ae-en/5228/c/">Coach</a></li>
+							    														    								<li><a href="http://www.sukar.com/ae-en/5272/c/">Coach Bags</a></li>
+							    														    								<li><a href="http://www.sukar.com/ae-en/5297/c/">Love Soni</a></li>
+							    														    								<li><a href="http://www.sukar.com/ae-en/5287/c/">Chopard</a></li>
+							    														    								<li><a href="http://www.sukar.com/ae-en/5286/c/">Carpisa</a></li>
+							    														    								<li><a href="http://www.sukar.com/ae-en/5280/c/">Scents That Linger</a></li>
+							    														    								<li><a href="http://www.sukar.com/ae-en/5288/c/">Omax</a></li>
+							    														    								<li><a href="http://www.sukar.com/ae-en/5310/c/">Hello Kitty</a></li>
 							    														<li class="last"><a href="http://www.sukar.com/ae-en/women-1/c/">View All Sales</a></li>
 						    </ul>
 											    					    						<ul class="blog-nav">
@@ -317,36 +316,25 @@
 				    <div class="nav-panel">
 					    						<ul class="current-sales-nav">
 						    <li class="title">Current Sales</li>
-						    														    <li><a href="http://www.sukar.com/ae-en/595/c/">Best Selling Watches</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/99/c/">Top Colognes for Him</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1155/c/">Essentials Polo Shirt</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1147/c/">The Big Chill</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1150/c/">Steal The Look</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1051/c/">Burberry &amp; Versace</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/935/c/">Button Up</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/609/c/">Luxury Watches</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1157/c/">Men's Boxers</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1078/c/">Shoes In The City</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1031/c/">Oakley</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1079/c/">Designers We Love</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1071/c/">Casio Watches</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/916/c/">Sunny Side Up!</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1075/c/">Gifts To Give</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1086/c/">Gifts To Give</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1065/c/">Ralph Lauren</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/943/c/">Ray-Ban for Him</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1013/c/">Timed to Perfection</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1004/c/">Date Night Out</a></li>
+						    														    <li><a href="http://www.sukar.com/ae-en/5391/c/">Tom Ford</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5406/c/">Get Active!</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5409/c/">Digital Watches</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5378/c/">White Watches</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5367/c/">Eyewear for Summer</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5383/c/">And1</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5334/c/">Swiss Legend</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5324/c/">Cerruti &amp; Police</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5332/c/">Police</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5322/c/">Carrera</a></li>
 													    						    <li class="last"><a href="http://www.sukar.com/ae-en/men-3/c/">View All Sales</a></li>
 						</ul>
 
 												    <ul class="ending-soon-nav">
 							<li class="title">Ending Soon</li>
-														    								<li><a href="http://www.sukar.com/ae-en/851/c/">LED &amp; LCD Watches</a></li>
-							    														    								<li><a href="http://www.sukar.com/ae-en/1042/c/">Hugo Boss &amp; RL</a></li>
-							    														    								<li><a href="http://www.sukar.com/ae-en/630/c/">Kids Love Gifts</a></li>
-							    														    								<li><a href="http://www.sukar.com/ae-en/1039/c/">Armani Collection</a></li>
-							    														    								<li><a href="http://www.sukar.com/ae-en/903/c/">Get Active  </a></li>
+														    								<li><a href="http://www.sukar.com/ae-en/5188/c/">Invicta</a></li>
+							    														    								<li><a href="http://www.sukar.com/ae-en/5279/c/">Scents That Linger</a></li>
+							    														    								<li><a href="http://www.sukar.com/ae-en/5303/c/">Leather Band Watch</a></li>
+							    														    								<li><a href="http://www.sukar.com/ae-en/5289/c/">Omax</a></li>
 							    														<li class="last"><a href="http://www.sukar.com/ae-en/men-3/c/">View All Sales</a></li>
 						    </ul>
 											    					    						<ul class="blog-nav">
@@ -358,56 +346,37 @@
 					    				    </div>
 				</li>
 			    				<li>
-				    <a class="parent " href="http://www.sukar.com/ae-en/home-5/c/">Home</a>
+				    <a class="parent " href="http://www.sukar.com/ae-en/gadgets-5/c/">Gadgets</a>
 				    <div class="nav-panel">
 					    						<ul class="current-sales-nav">
 						    <li class="title">Current Sales</li>
-						    														    <li><a href="http://www.sukar.com/ae-en/1083/c/">We ❤ iPhones</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1067/c/">Tablets on Sale</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1115/c/">Sensational Scents</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1104/c/">Home of Beauty</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1030/c/">Gifts for Him </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1098/c/">Nokia mania </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1089/c/">Style Your Tablet</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1085/c/">iPhone Accessories</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1144/c/">For Mum &amp; Baby</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1095/c/">Sleep Like a King</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1063/c/">Office Space</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1066/c/">Ready Steady Cook</a></li>
-													    						    <li class="last"><a href="http://www.sukar.com/ae-en/home-5/c/">View All Sales</a></li>
+						    														    <li><a href="http://www.sukar.com/ae-en/5401/c/">Tabs on Sale!</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5392/c/">Microwave Ovens</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5394/c/">Juice Extractors</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5397/c/">Camping Gears</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5405/c/">Projectors</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5379/c/">Kenwood</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5374/c/">Phone Accessories</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5370/c/">Sony</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5381/c/">Fans</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5382/c/">Baby Accessories</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5311/c/">Nokia</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5316/c/">Binatone</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5318/c/">Keep Organized</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5314/c/">Tech Accessories</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5317/c/">Wall Stickers</a></li>
+													    						    <li class="last"><a href="http://www.sukar.com/ae-en/gadgets-5/c/">View All Sales</a></li>
 						</ul>
 
 												    <ul class="ending-soon-nav">
 							<li class="title">Ending Soon</li>
-														    								<li><a href="http://www.sukar.com/ae-en/1020/c/">Apple, Dell, Lenovo</a></li>
-							    														    								<li><a href="http://www.sukar.com/ae-en/1028/c/">Beauty Gifts</a></li>
-							    														    								<li><a href="http://www.sukar.com/ae-en/1057/c/">Holiday Home </a></li>
-							    														<li class="last"><a href="http://www.sukar.com/ae-en/home-5/c/">View All Sales</a></li>
+														    								<li><a href="http://www.sukar.com/ae-en/5290/c/">DSLR Cameras</a></li>
+							    														    								<li><a href="http://www.sukar.com/ae-en/5293/c/">Black &amp; Decker</a></li>
+							    														    								<li><a href="http://www.sukar.com/ae-en/5298/c/">Bed Covers</a></li>
+							    														    								<li><a href="http://www.sukar.com/ae-en/5294/c/">Comfy Beds &amp; Chairs</a></li>
+							    														    								<li><a href="http://www.sukar.com/ae-en/5291/c/">Data Savers</a></li>
+							    														<li class="last"><a href="http://www.sukar.com/ae-en/gadgets-5/c/">View All Sales</a></li>
 						    </ul>
-											    					    				    </div>
-				</li>
-			    				<li>
-				    <a class="parent " href="http://www.sukar.com/ae-en/brands-230/c/">Brands</a>
-				    <div class="nav-panel">
-					    						<ul class="current-sales-nav">
-						    <li class="title">Current Sales</li>
-						    														    <li><a href="http://www.sukar.com/ae-en/all-things-burberry-514-230/c/">All Things Burberry</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/877/c/">In Love Again</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/961/c/">Invicta  </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/723/c/">Just Bling Watches</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/503/c/">Lacoste  </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/armani-732-230/c/">Armani</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/551/c/">Fendi  </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/505/c/">Tommy Hilfiger  </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/489/c/">U.S. Polo Assn.</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/481/c/">Ralph Lauren  </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/522/c/">Coach</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/475/c/">Guess </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/239/c/">Gucci </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/241/c/">Michael Kors </a></li>
-													    						    <li class="last"><a href="http://www.sukar.com/ae-en/brands-230/c/">View All Sales</a></li>
-						</ul>
-
 											    					    				    </div>
 				</li>
 			    				<li>
@@ -415,29 +384,17 @@
 				    <div class="nav-panel">
 					    						<ul class="current-sales-nav">
 						    <li class="title">Current Sales</li>
-						    														    <li><a href="http://www.sukar.com/ae-en/1049/c/">Everyday Style</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1048/c/">Naive Fashion</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1044/c/">Home Accents </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1076/c/">Shape In - All 39</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/1077/c/">EA7  Emporio Armani</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/796/c/">Super Shoe Sale</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/964/c/">Men's Clothing</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/962/c/">Women's Clothing</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/940/c/">Sneakers</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/909/c/">Fashion Sleepwear</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/794/c/">Wallets, Belts, Pens </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/910/c/">Last Chance Dresses</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/783/c/">His &amp; Her Polos</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/746/c/">Just Reduced Guess</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/786/c/">We ❤ Bling</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/789/c/">Get Your Beauty Fix</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/787/c/">More Tees Please</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/784/c/">Accessorize It! </a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/791/c/">The Black Dress Sale</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/939/c/">Last Chance Sandals</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/797/c/">Fashion Sunglasses</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/889/c/">Hair Extensions</a></li>
-													    														    <li><a href="http://www.sukar.com/ae-en/780/c/">Watch Envy</a></li>
+						    														    <li><a href="http://www.sukar.com/ae-en/5342/c/">Watches</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5340/c/">Bags &amp; Wallets</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5343/c/">Jewelry</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5345/c/">Dresses</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5346/c/">Women's Tops</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5347/c/">Pants &amp; Skirts</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5348/c/">Men's Fashion</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5358/c/">Fashion Accessories</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5349/c/">Footwear</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5351/c/">Beauty &amp; Perfumes</a></li>
+													    														    <li><a href="http://www.sukar.com/ae-en/5352/c/">Home Supplies</a></li>
 													    						    <li class="last"><a href="http://www.sukar.com/ae-en/clearance-11/c/">View All Sales</a></li>
 						</ul>
 
@@ -447,14 +404,13 @@
 			    <li class="last"><a href="http://www.sukar.com/ae-en/shop/">Sukar Shops</a></li>
 			</ul>
 		</nav>
-					<div class="select-gray-style fl parent-tags-mobile mart-15 phone-mart-0 " style="width:60%;"><span class="arrow"></span><select id="parent-tags" name="parent-tags" class="mart-5 marb-5" style="width:100%;" onchange="if (this.value) window.location.href=this.value"><option value="http://www.sukar.com/ae-en/gifts-575/c/">Gifts</option><option value="http://www.sukar.com/ae-en/women-1/c/" selected="selected">Women</option><option value="http://www.sukar.com/ae-en/men-3/c/">Men</option><option value="http://www.sukar.com/ae-en/home-5/c/">Home</option><option value="http://www.sukar.com/ae-en/brands-230/c/">Brands</option><option value="http://www.sukar.com/ae-en/clearance-11/c/">Clearance </option><option value="http://www.sukar.com/ae-en/shop/">Sukar Shops</option></select></div>					<a href="#" class="go-cat-link hidden-desktop" onclick="window.location.href=document.getElementById('parent-tags').options[document.getElementById('parent-tags').selectedIndex].value">Go!</a>
+					<div class="select-gray-style fl parent-tags-mobile mart-15 phone-mart-0 " style="width:60%;"><span class="arrow"></span><select id="parent-tags" name="parent-tags" class="mart-5 marb-5" style="width:100%;" onchange="if (this.value) window.location.href=this.value"><option value="http://www.sukar.com/ae-en/">All Sales</option><option value="http://www.sukar.com/ae-en/brands-230/c/">Brands</option><option value="http://www.sukar.com/ae-en/women-1/c/">Women</option><option value="http://www.sukar.com/ae-en/men-3/c/">Men</option><option value="http://www.sukar.com/ae-en/gadgets-5/c/">Gadgets</option><option value="http://www.sukar.com/ae-en/clearance-11/c/">Clearance </option><option value="http://www.sukar.com/ae-en/shop/">Sukar Shops</option></select></div>					<a href="#" class="go-cat-link hidden-desktop" onclick="window.location.href=document.getElementById('parent-tags').options[document.getElementById('parent-tags').selectedIndex].value">Go!</a>
 					
 		<!-- <select class="header-nav-mobile hidden-desktop" name="">  //parent-tags-mobile
-							<option data-href-campaign="http://www.sukar.com/ae-en/gifts-575/c/">Gifts</option>
+							<option data-href-campaign="http://www.sukar.com/ae-en/brands-230/c/">Brands</option>
 							<option data-href-campaign="http://www.sukar.com/ae-en/women-1/c/">Women</option>
 							<option data-href-campaign="http://www.sukar.com/ae-en/men-3/c/">Men</option>
-							<option data-href-campaign="http://www.sukar.com/ae-en/home-5/c/">Home</option>
-							<option data-href-campaign="http://www.sukar.com/ae-en/brands-230/c/">Brands</option>
+							<option data-href-campaign="http://www.sukar.com/ae-en/gadgets-5/c/">Gadgets</option>
 							<option data-href-campaign="http://www.sukar.com/ae-en/clearance-11/c/">Clearance </option>
 					</select> -->
 
@@ -585,7 +541,8 @@
 					<option value="female" selected="">Female</option>
 				</select>
 		 	</div>
-			<input type="submit" value="Start Shopping" id="register-submit-2" name="register-submit-2" class="button-large button-yellow shadow marb-10" onclick=" s.linkTrackVars='events,products'; s.linkTrackEvents=s.events='event20'; s.tl(this,'o','Registration');">
+			<input type="submit" value="Start Shopping" id="register-submit-2" name="register-submit-2" class="button-large button-yellow shadow marb-10" onclick=" s.linkTrackVars='events'; s.linkTrackEvents=s.events='event20'; s.tl(this,'o','User Registration');">
+					
 			<div>Already  a member? <a href="#" class="sign-in">Sign In</a></div>
 		</form>
 	</div>
@@ -738,7 +695,7 @@
 				</div>
 				-->
 				<div class="clear marb-10"></div>
-				<input type="submit" value="Subscribe" class="button-small button-yellow shadow width-100 fl mart-15">
+				<input type="submit" value="Subscribe" class="button-small button-yellow shadow width-100 fl mart-15" onclick=" s.linkTrackVars='events'; s.linkTrackEvents=s.events='event21'; s.tl(this,'o','CPL Signup');">
 				<a class="" id="no-thanks-lead" href="#">No Thanks, I’m already subscribed</a>
 				<div class="clear"></div>
 			</div>
@@ -748,6 +705,12 @@
 		<div class="main-title text-TanseekMMedium-26">Thank you for subscribing!</div>
 		<div class="sub-title">
 			Please check your email and confirm the subscription.		</div>
+		<div class="clear"></div>
+		<a href="#" id="offers-form-ok" class="button-small button-yellow shadow width-100 fl mart-15">Okay</a>
+	</div>
+	
+	<div id="offers-form-already-subscribed" class="align-c hide">
+		<div class="main-title text-TanseekMMedium-26">Thank you, you are already subscribed Enjoy shopping!</div>
 		<div class="clear"></div>
 		<a href="#" id="offers-form-ok" class="button-small button-yellow shadow width-100 fl mart-15">Okay</a>
 	</div>
@@ -829,16 +792,17 @@ The information collected from our Site helps us better understand our market an
 <div class="sukar-container">
 	<div class="bord-b-light-gray overhidden footer-top">
 		<div class="fl"><img src="http://cf5.sukarcdn.com/static/ltr/en/images/sukar/sukar-logo-white.png" border="0"></div>
-		<div class="fr mart-24 padr-10 phone-mart-10" style="direction:ltr;"><!-- Sukar.com is part of Souq.com.--> @2013 Sukar.com</div>
+		<div class="fr mart-24 padr-10 phone-mart-10" style="direction:ltr;"><!-- Sukar.com is part of Souq.com.--> @2014 Sukar.com</div>
 	</div>
 
 	<ul class="fl footer-marg-r hidden-tablet hidden-phone">
 		<li class="fl "><a href="https://www.facebook.com/SUKARcom" class="facebook-icon " target="_blank"></a></li>
 		<li class="fl marl-10 "><a href="https://twitter.com/sukarcom" class="twitter-icon " target="_blank"></a></li>
+                <li class="fl marl-10 "><a href="https://plus.google.com/110148022335191949868" rel="publisher" class="googleplus-icon " target="_blank"></a></li>
 	</ul>
 	<ul class="fl footer-marg-r hidden-tablet hidden-phone">
 		<li><strong>Shop</strong></li>
-		<li><a href="http://www.sukar.com/ae-en/gifts-575/c/">Gifts</a></li><li><a href="http://www.sukar.com/ae-en/women-1/c/">Women</a></li><li><a href="http://www.sukar.com/ae-en/men-3/c/">Men</a></li><li><a href="http://www.sukar.com/ae-en/home-5/c/">Home</a></li><li><a href="http://www.sukar.com/ae-en/brands-230/c/">Brands</a></li><li><a href="http://www.sukar.com/ae-en/clearance-11/c/">Clearance </a></li>	</ul>
+		<li><a href="http://www.sukar.com/ae-en/brands-230/c/">Brands</a></li><li><a href="http://www.sukar.com/ae-en/women-1/c/">Women</a></li><li><a href="http://www.sukar.com/ae-en/men-3/c/">Men</a></li><li><a href="http://www.sukar.com/ae-en/gadgets-5/c/">Gadgets</a></li><li><a href="http://www.sukar.com/ae-en/clearance-11/c/">Clearance </a></li>	</ul>
 	 <ul class="fl footer-marg-r hidden-tablet hidden-phone">
 		<li><strong>Member Care</strong></li>
 		<li><a href="http://www.sukar.com/ae-en/contact-us/">Contact Us</a></li>
@@ -864,6 +828,6 @@ The information collected from our Site helps us better understand our market an
 </div>
 </div>
 
-																			<script type="text/javascript" src="http://cf1.sukarcdn.com/static/javascript/builds/out26/core.js"></script>
-										<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","9b6069bd09","2372510,481779","ZFIGNhRUVhcFUBFRCV0YMRAPGkgWDUUEWx8dRwwS",0,2753,new Date().getTime(),"","","","",""]);</script>
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+																			<script type="text/javascript" src="http://cf1.sukarcdn.com/static/javascript/builds/out38/core.js"></script>
+															<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"9b6069bd09","applicationID":"2372510","transactionName":"ZFIGNhRUVhcFUBFRCV0YMRAPGkgWDUUEWx8dRwwS","queueTime":0,"applicationTime":966,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
