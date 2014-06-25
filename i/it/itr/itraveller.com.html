@@ -1,0 +1,385 @@
+<!--The following is the downloaded HTML source of the itraveller.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625060908id_/http%3A//itraveller.com/privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" style="" class=" js opacity generatedcontent pointerevents"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Privacy Policy</title>
+        
+        <link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
+        <link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><link rel="stylesheet" type="text/css" href="/css/style-static.css"><link rel="stylesheet" type="text/css" href="/css/lightbox.css"><link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.10.3/themes/redmond/jquery-ui.css"><link rel="stylesheet" type="text/css" href="/css/bootstrap.css"><link rel="stylesheet" type="text/css" href="/css/bootstrap-multiselect.css"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/8713.js?439593" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" charset="utf-8" src="//cdn.zopim.com/?bKSYLBoMBk5HrwHfUaMg00MJaKgFWQqH" type="text/javascript"></script><script async="" src="//static.woopra.com/js/w.js"></script><script type="text/javascript" src="/js/jquery-1.js"></script><script type="text/javascript" src="/js/bootstrap.js"></script><script type="text/javascript" src="/js/jquery-ui-1.10.0.custom.min.js"></script><script type="text/javascript" src="/js/bootstrap-multiselect.js"></script><script type="text/javascript" src="/js/modernizr.custom.79639.js"></script><script type="text/javascript" src="/js/jquery.lightbox_me.js"></script><script type="text/javascript" src="/js/jquery.mobile.customized.min.js"></script><script type="text/javascript" src="/js/jquery.easing.1.3.js"></script><script type="text/javascript" src="/js/jquery.validate.js"></script><script type="text/javascript" src="/js/camera.min.js"></script><script type="text/javascript" src="/js/tabcontent.js"></script><script type="text/javascript" src="/js/scripts.js"></script><script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script><script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script><script type="text/javascript" src="/js/map.js"></script>        <script type="text/javascript" charset="utf-8">
+            $(document).ready(function() {
+                var button = $('#loginButton');
+                var box = $('#loginBox');
+                //button.removeAttr('href');
+                button.click(function(login) {
+                    box.toggle();
+                });
+                // Configure scrollable plugin
+                //$(".scrollable").scrollable({ });
+                //$('.alert_success, .alert_error').animate({opacity: 1.0}, 3000).fadeOut();
+                //$("#ThemeFrom, #contact_form").validate();
+                
+            
+            // Drag n drop
+                $('#sortable').sortable({
+                    delay:200,
+                    stop: function (event, ui) {
+                        toggleDisplay();
+                        //$('.progress-indicator').css( 'display', 'block' );
+                        var string = $("#sortable").sortable("serialize");
+                        // POST to server using $.post or $.ajax
+                        $.ajax({
+                            type: "POST",
+                            url: webroot+'planner2/sortable.php',
+                            data: string,
+                            async: false,
+                            success: function(msg){
+                                $.ajax({
+                                    type: "POST",
+                                    dataType: "json",
+                                    url: webroot + 'planner2/updateHotel.php',
+                                    success: function(response){
+                                        $('#sortable').html(response['hotelList']);
+                                    }
+                                });
+                            }
+                        });
+                    }
+                });
+                $( "#travel_date1" ).datepicker({
+                    numberOfMonths: 3,
+                    minDate: +1,
+                    dateFormat: 'yy-mm-dd'
+                });
+            });
+
+
+                //$("#sortable").disableSelection();
+                
+            function popup(id, event)
+            {
+                event = event ? event : window.event;
+                var pos = parseInt(event.clientY) - 200;
+                $('#' + id + '').lightbox_me({
+                    centered: true,
+                    zIndex: 10002,
+                    overlayCSS: {background: 'grey', opacity: .6},
+                    onLoad: function() { 
+                        $('#' + id + '').find('input:first').focus();
+                        
+                    }
+                });
+                return false;
+            }
+        </script>
+        <style>
+#loginBox{position:absolute;top:60px;right:52px;display:none;z-index:10029;}
+.classA{padding: 5px;
+border-radius: 4px;
+background-color: #EEE;
+margin-bottom: 3px;
+display: block;}
+</style>
+        <!-- Start of Woopra Code -->
+<script>
+(function(){
+var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/w.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)
+})("woopra");
+
+woopra.config({
+   domain: 'itraveller.com',
+   idle_timeout: 1800000
+});
+
+woopra.track();
+</script>
+<!-- End of Woopra Code -->
+    </head>
+
+    <body>
+        
+		<!--header start -->
+           <div id="top_bar">
+            <div class="wrapper">
+                <div class="logo"><a href="/"> <img src="/images/logo.jpg" alt="Logo" border="0" width="234" height="38"></a></div>
+                <div id="nav"> 
+                     <ul>
+                        <li><a href="/how-it-works">How it works</a></li>
+                        <li><a href="/signup">Agent Sign-up</a></li>
+                        <li><a href="/about">About Us</a></li>
+                        <li><a href="/contact">Contact Us</a></li>
+                        <li><a href="javascript: void(0)" class="btn btn-warning pull-right" onclick="$('#loginBox').toggle()">Login</a></li>
+<!--                        <li> <a href="#" class="btn btn-warning pull-right">Login</a></li>-->
+                    </ul>
+					  </div> 
+            </div>
+        </div>   
+
+<div id="loginBox">
+      <div style="text-align: center">
+      <a href="http://itraveller.com/login" class="classA">Agent Login (for registered agents)</a>      <a href="http://itraveller.com/login/user" class="classA">User Login (for travelers)</a>      </div>
+</div>
+        <!--header end -->
+		
+		
+        <div id="page">
+
+                                     <!--container start -->
+                        
+                        <div class="image" style="background-image: url(images/main-image/top-image-aboutus.jpg); background-size: 100% 100%; height: 175px;">
+    <div class="wrapper">
+        <h1>Privacy Policy</h1>
+          </div>
+        </div>     
+
+           <div class="midcontainer">
+          
+<div id="container-inner"> 
+<div id="wrapper-inner-mteam">
+   
+   <div class="full-width content-header">
+  <div class="fixed-width">
+      <div class="row">
+      <div class="col-12">
+        <hgroup class="hero-titleC" id="top">
+          <h2>Privacy Policy</h2>
+       </hgroup>
+      </div></div></div>
+      </div>
+     
+    
+<div class="col-10">
+
+<p>This privacy policy sets out how iTraveller uses and protects any information that you give iTraveller when you use this website. </p>
+<p>iTraveller is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when
+    using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
+<p>iTraveller may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with
+    any changes. This policy is effective from 01<sup>st</sup> April, 2013.</p>
+<p>
+    <strong>What so we collect?</strong>
+</p>
+<p>
+    We may collect the following information:
+</p>
+<ul style="padding-left:20px; list-style: circle">
+<li>
+     Name, eMail ID, Phone Number, Business Name, Constitution
+</li>
+<li>
+     Office contact information including email address
+</li>
+<li>
+     Business transaction details, related to the data which the clients manage on our platform
+</li>
+<li>
+     other information relevant to customer surveys and/or offers
+</li>
+</ul>
+<p>
+    <strong>What we do with the information we gather</strong>
+</p>
+<p>
+    We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+</p>
+<ul style="padding-left:20px; list-style: circle">
+<li>
+     Internal record keeping.
+</li>
+<li>
+     We may use the information to improve our products and services.
+</li>
+</ul>
+<p>
+    From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may
+    use the information to customise the website according to your interests.
+</p>
+<p>
+    <strong>Security</strong>
+</p>
+<p>
+    We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure,<strong> </strong>we have put in place
+    suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+</p>
+<p>
+    <strong>How we use cookies</strong>
+</p>
+<p>
+    A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse
+    web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can
+    tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+</p>
+<p>
+    We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to
+    tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+</p>
+<p>
+    Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way
+    gives us access to your computer or any information about you, other than the data you choose to share with us.
+</p>
+<p>
+    You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline
+    cookies if you prefer. This may prevent you from taking full advantage of the website.
+</p>
+<p>
+    <strong>Links to other websites</strong>
+</p>
+<p>
+    Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have
+    any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst
+    visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to
+    the website in question.
+</p>
+<p>
+    <strong>Controlling your personal information</strong>
+</p>
+<p>
+    You may choose to restrict the collection or use of your personal information in the following ways:
+</p>
+<ul style="padding-left:20px; list-style: circle">
+<li>
+     whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used
+    by anybody for direct marketing purposes
+</li>
+<li>
+    if you have previously agreed to us using your personal information for any transactional email interaction purposes, you may change your mind at any
+    time by writing to or emailing us at support@itraveller.com
+</li>
+</ul>
+<p>
+    We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use
+    your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this
+    to happen.
+</p>
+<p>
+    If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above
+    address. We will promptly correct any information found to be incorrect.
+</p>
+
+
+
+</div>
+
+
+
+<!-- //Content -->
+    
+   
+
+
+</div>
+</div>
+
+
+
+</div>  
+
+
+
+
+
+<!--container end -->         </div>
+
+         <div class="footer-zig"></div>
+        <div class="support-block clear">
+            <div class="footer-wrapper">
+
+                <div id="footer-wrap">
+                    <div id="rug-wrap">
+                        <div class="container_12">
+                            <div class="grid_4"><img src="/images/wearehere-24x7x365.png" alt="24x7x365 Support">&nbsp;</div>
+							<div class="grid_3"><img src="/images/callus-icon.png" alt="Call"> +91 99161 07071 </div>
+                            <div class="grid_5"><img src="/images/emailus-icon.png" alt="Email"> <a href="mailto:inquiry@itraveller.com">inquiry@itraveller.com</a> </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-block clear">
+                <div class="footer-wrapper">																														
+                    <div class="footer-main-links">
+                        <ul>
+                            <li>
+                                <h5>Company Info </h5>  
+                                <a href="/about">About Us</a> <br>
+	                            <a href="/management-team">Management Team</a>  <br>
+                                <a href="/work-for-us">Work for Us</a>  <br>
+                                <a href="/contact">Contact Us</a>  
+								
+
+                            </li>
+                            <li>
+                                <h5>Agent Connect</h5>
+                                <a href="/how-it-works">How it works</a>  <br>
+                                <a href="/pricing">Agent Pricing</a>  <br>
+                                <a href="/terms">Agent Terms</a>  <br>
+                                <a href="/signup">Agent Sign-up</a>
+
+                            </li>
+
+                            <li>
+                                <h5>Top Destinations </h5>  
+                                                            </li>
+
+                            <li>
+                                <h5>Others </h5>  
+                                <a href="/planner2/ebs/pay.php">Payment</a>  <br>
+                                <a href="/privacypolicy">Privacy Policy</a>  <br>
+								<a href="/disclaimerpolicy">Disclaimer Policy</a>  <br>
+                                <a href="/cancellationpolicy">Cancellation &amp; Refund Policy</a>
+                            </li>
+
+                            <li style="width: 150px;">
+                                <h5>Follows Us</h5>
+                                <div>
+                                    <a href="https://www.facebook.com/iTravellerIndia"><img class="off" src="/images/icon_facebook.png" border="0" alt="iTraveller Facebook"></a> 
+                                    <a href="https://twitter.com/itravellerIndia"><img class="off" src="/images/icon_twitter.png" border="0" alt="iTraveller Twitter"></a> 
+<!--                                    <a href="#"><img class="off" src="/images/icon_google.png" border="0" /></a> -->
+                                    <a href="http://www.linkedin.com/company/itraveller-com"><img class="off" src="/images/icon_linkedin.png" border="0"></a>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>     
+                </div>    
+                <div class="copyright-block clear">
+                    <div class="footer-wrapper">
+                        <div class="copyright pull-left">© 2014, <b>iTraveller.com</b>, All rights reserved.</div>
+                        <div class="disclaimer pull-right"> <a href="#">Sitemap</a></div>
+                    </div>
+                </div>
+            </div>        <!--Start of Zopim Live Chat Script-->
+        <script type="text/javascript">
+            window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+                    d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+                        _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+                $.src='//cdn.zopim.com/?bKSYLBoMBk5HrwHfUaMg00MJaKgFWQqH';z.t=+new Date;$.
+                    type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+        </script>
+        <!--End of Zopim Live Chat Script-->
+
+        <!-- Start of crazy egg click stream analyzer-->
+
+        <script type="text/javascript">
+            setTimeout(function(){var a=document.createElement("script");
+                var b=document.getElementsByTagName("script")[0];
+                a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/8713.js?"+Math.floor(new Date().getTime()/3600000);
+                a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+        </script>
+
+        <!-- End of crazy egg click stream analyzer-->
+
+		 <!-- Start GoogleAnalytics -->
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46999535-1', 'itraveller.com');
+  ga('send', 'pageview');
+
+</script>
+ <!-- End GoogleAnalytics -->
+
+
+    
+</div></body></html>
