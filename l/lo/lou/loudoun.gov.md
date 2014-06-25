@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loudoun.gov privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221134101id_/http%3A//loudoun.gov/index.aspx%3FNID%3D904) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudoun.gov privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013346id_/http%3A//www.loudoun.gov/index.aspx%3FNID%3D904) for the most accurate reproduction.*
 
 # Loudoun County, VA - Official Website - Privacy Practices & Security Policy
 
