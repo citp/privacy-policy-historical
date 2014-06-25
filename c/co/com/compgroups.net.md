@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compgroups.net privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908010750id_/http%3A//compgroups.net/site%7Eprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compgroups.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050157id_/http%3A//compgroups.net/site%7Eprivacy) for the most accurate reproduction.*
 
 # COMPGROUPS.NET Privacy Policy
 
@@ -26,4 +26,4 @@ Our website may contain links to other websites of interest. However, once you h
 Emails are used solely for direct communication from this site, such as sending alerts that the user subscribed to. No third parties will have access to emails, nor will they ever be displayed anywhere on this site, even to registered members. 
 
 **How to contact us**  
-If you have any questions or concerns regarding our privacy policy, please contact us at [Contact Us](https://web.archive.org/site~contact).
+If you have any questions or concerns regarding our privacy policy, please contact us at [Contact Us](https://web.archive.org/site~about).
