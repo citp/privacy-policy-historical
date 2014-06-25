@@ -1,99 +1,95 @@
-> *The following text is extracted and transformed from the colesgroup.com.au privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203203937id_/http%3A//www.wesfarmers.com.au/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colesgroup.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111110id_/http%3A//www.wesfarmers.com.au/security-privacy.html) for the most accurate reproduction.*
 
 # Wesfarmers - Security & privacy
 
 ## Introduction
 
-  1. This Privacy Policy is Wesfarmers Limited's official privacy policy and it applies to all personal information collected by Wesfarmers Limited. In this policy we explain how and why we collect your personal information, how we use it, and what controls you have over our use of it.
-  2. Wesfarmers Limited is committed to complying with Commonwealth legislation governing privacy of personal information by businesses and to protecting and safeguarding your privacy when you deal with us.
+This is the official Privacy Policy of Wesfarmers Limited ("Wesfarmers", "we", "our", "us"). This policy explains how we collect, store, use and disclose personal information and also explains your rights to access and correct that information or make a complaint about our handling of personal information. Personal information means information which identifies you as an individual or from which your identity can be reasonably ascertained (and regardless of the form of the information, and regardless of whether it is true or not).
+
+This policy relates only to the personal information management practices of Wesfarmers and not our related companies. To view the privacy policies of other businesses in the Wesfarmers group of companies please visit their respective websites. This policy does not relate to personal information held about current or former employees of Wesfarmers.
+
+If we decide to change our Privacy Policy, we will post changes on this page.
+
+##  What types of personal information do we collect?
+
+We only collect personal information if it is necessary for one of our functions or activities. The types of personal information we collect will depend on the reason for collection. Generally the types of personal information we collect will include name, contact details and records of communications with us. In addition we collect personal information relating to:
+
+  * shareholders: information about the shareholding, banking details and tax file numbers for payment of dividends and other amounts;
+  * group company employees where we are providing services for our group companies. The information collected will depend on the services being provided, but may include birthdates and working conditions; health and workers compensation claims information (where we are proving workers compensation self-insurance services); banking and tax file number details (where we are administering our employee group share plan);and, in some limited cases, voluntarily provided ethnic background information (for functions related to our Reconciliation Action Plan);
+  * job applicants: employment and academic histories, the names of their referees and, in some cases, limited health information based on testing undertaken by or for us. We will collect this information directly, from organisations that provide recruitment related services to us, and from third parties who provide job applicants with professional or personal references; 
 
 
 
-## Collection of information
+We will also collect personal information, including names and contact details, about:
 
-  1. ****Some information provided to us by clients, customers, contractors and other third parties might be considered private or personal. Without these details we would not be able to carry on our business and provide our services to you. We will only collect such personal information if it is necessary for one of our functions or activities.
-  2. ****In particular, personal information is collected from people in the following situations by Wesfarmers Limited:
-    * If you contact Wesfarmers Limited, we may keep a record of that correspondence.
-    * When you submit your email address to our website mailing list.
-  3. ****At or before the time the personal information is collected by us we will take reasonable steps to ensure that you are made aware of who we are, the fact that you are able to gain access to the information held about you, the purpose of the collection, the type(s) of organisations to which we usually disclose the information collected about you, any laws requiring the collection of the information and the main consequences for you if all or part of the information is not collected.
-
-
-
-## Use of information collected and disclosure of personal information to others
-
-  1. We may use or disclose personal information held about an individual for the primary purpose for which it is collected (eg. provision of our services, including administration of our services, notification to you about changes to our services, record-keeping following termination of our services to you and technical maintenance). We may also use such information for a purpose related to the primary purpose of collection and where it would reasonably be expected by you that we would use the information in such a way. This information is only disclosed to persons outside our business in the circumstances set out in this policy or as otherwise notified to you at the time of collection of the information.
-  2. In addition we are permitted to use or disclose personal information held about you: 
-    * Where you have consented to the use or disclosure;
-    * Where we reasonably believe that the use or disclosure is necessary to lessen or prevent a serious, immediate threat to someone's health or safety or the public's health or safety;
-    * Where we reasonably suspect that unlawful activity has been, is being or may be engaged in and the use or disclosure is a necessary part of our investigation or in reporting the matter to the relevant authorities;
-    * Where such use or disclosure is required under or authorised by law (for example, to comply with a subpoena, a warrant or other order of a court or legal process); and
-    * Where we reasonably believe that the use or disclosure is reasonably necessary for prevention, investigation, prosecution and punishment of crimes or wrongdoings or the preparation for, conduct of, proceedings before any court or tribunal or the implementation of the orders of a court or tribunal by or on behalf of an enforcement body.
+  * people involved in or through organisations that we support or sponsor;
+  * our suppliers. This information is collected for business-related purposes but contains some limited personal information contact details of the people that we deal with;
+  * people who correspond with us, including through our website, in which case we may keep a copy of that correspondence and relevant contact details;
+  * people who request information updates about us through our website mailing list.
 
 
 
-## Links
+We collect information from the [www.wesfarmers.com.au](http://www.wesfarmers.com.au/) site using server logs and Google Analytics. More information on Google Analytics is available [here](http://www.google.com.au/intl/en_uk/analytics/privacyoverview.html) When you visit the site to read, browse or download information, our system will record/log your IP address (the address which identifies your computer on the internet and which is automatically recognised by our web server), date and time of your visit to our site, the pages viewed and any information downloaded. This information will only be used for the purpose of site analysis and to help us offer you improved online service. We may automatically collect non-personal information about you such as the type of internet browsers you use or the site from which you linked to our websites. You cannot be identified from this information and it is only used to assist us in providing an effective service on our Web Sites.
 
-  1. Our website may contain links to other websites and those third party websites may collect personal information about you. We are not responsible for the privacy practices of other businesses or the content of websites that are linked to our website. Wesfarmers Limited encourages users to be aware when they leave the site and to read the privacy statements of each and every website that collects personally identifiable information.
+Our site may contain links to other sites. We are not responsible for the privacy practices or policies of those sites and recommend that you review their privacy policies. 
 
+## How we collect and hold personal information
 
+Where it is reasonable and practicable to do so, we collect your personal information directly from you when you correspond or register your details with us, enter into arrangements with us, or provide feedback to us. Depending on the nature of our interaction with you, we may collect personal information from third parties – for instance, information regarding shareholders is collected from our share registrar or share plan registrar, and information about job applicants is collected in the manner set out above.   
+We hold personal information electronically and, in some cases, hard copy form, both at our own secure premises and with the assistance of our service providers. We take all reasonable steps to ensure that the personal information that we hold is protected from loss, misuse, unauthorised access by ensuring that this information is held on secure servers in controlled facilities and that information stored within our computer systems can only be accessed by those entrusted with authority and computer network password sanctions.
 
-## Security and storage
+## Why we collect, hold and use personal information
 
-  1. Wesfarmers Limited places a great importance on the security of all information associated with our customers, clients and contractors. We have security measures in place to attempt to protect against the loss, misuse and alteration of personal information under our control.
-  2. Personal information is de-identified or destroyed securely when no longer required by us.
-  3. Wesfarmers Limited retains the information you provide to us including your contact and credit card details to enable us to verify transactions and customer details and to retain adequate records for legal and accounting purposes. This information is held on secure servers in controlled facilities.
-  4. Information stored within our computer systems can only be accessed by those entrusted with authority and computer network password sanctions.
-  5. No data transmission over the internet can be guaranteed to be 100 per cent secure. As a result, while we strive to protect user's personal information, Wesfarmers Limited cannot ensure or warrant the security of any information transmitted to it or from its online products or services, and users do so at their own risk. Once Wesfarmers Limited receives your transmission, it makes every effort to ensure its security on its systems.
-  6. Ultimately, you are solely responsible for keeping your passwords and/or account information secret. You should be careful and responsible whenever you are online.
+We may use personal information for the primary purpose for which it is collected (eg. provision of our services, including administration of our services), or for purposes related to the primary purpose where it would reasonably be expected that we would use the information in such a way, or in other limited circumstances set out in the Privacy Act.   
+We collect, hold and use personal information to: 
 
-
-
-## Access to and correction of personal information
-
-  1. Wesfarmers Limited is committed to maintaining accurate, timely, relevant and appropriate information about our customers, clients and web-site users.
-  2. So long as your request for your personal information is in accordance with the National Privacy Principles, then we will give you access to that information through our Privacy Officer. [To contact the Privacy Officer, please click here to go our Contact page](http://wesfarmers.com.au/contact.html "Contact").
-  3. Inaccurate information will be corrected upon receiving advice to this effect from you. To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you.
-  4. If we refuse to provide you with access or correct the personal information held about you by us, then we will provide reasons for such refusal.
+  * communicate with, and comply with our legal obligations to, our shareholders, and to process payments to them;
+  * enable third party service providers to provide us and our related companies with services such as information technology, auditing, legal advice, printing and mailing services, and services relating to our share register and group employee share plan; 
+  * correspond with people who have contacted us, and deal with feedback; 
+  * provide services to, and manage, our related companies;
+  * correspond with people regarding our corporate sponsorships;
+  * recruit and assess potential employees; and
+  * maintain and update our records.
 
 
 
-## Complaints
+## Why we disclose personal information
 
-  1. If you have a complaint about our Privacy Policy or the collection, use or safe disposal or destruction of your personal information, your complaint should be directed in the first instance to us via email [through the contact page](http://wesfarmers.com.au/contact.html).[](mailto:%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy86611%20=%20'privacy'%20+%20'@';%20addy86611%20=%20addy86611%20+%20'wesfarmers'%20+%20'.'%20+%20'com'%20+%20'.'%20+%20'au';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy86611%20+%20'\\'%3E'\);%20document.write\(addy86611\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)
-  2. We will investigate your complaint and attempt to resolve any breach that might have occurred in relation to the collection, use or destruction of personal information held by us about you in accordance with the Commonwealth Privacy legislation. If you are not satisfied with the outcome of this procedure then you may request that an independent person (usually the Commonwealth Privacy Officer) investigate your complaint.
+We do not disclose personal information to third parties unless we are permitted to do so by law or we have obtained consent to do so. We may disclose personal information for the primary purpose for which it is collected or for purposes related to the primary purpose where it would reasonably be expected that we would use the information in such a way. Also, we are permitted to disclose personal information in circumstances set out in the Privacy Act (including but not limited to disclosures to our related companies).  
+Third parties we may disclose personal information to include:
 
-
-
-## Transfer of information overseas
-
-  1. Pursuant to the National Privacy Principles we may transfer personal information we have collected about you to someone other than you in a foreign country only if such transfer is permitted by the National Privacy Principles.
-
-
-
-## Cookies
-
-  1. Wesfarmers Limited collects information from the site using "IP files".
-  2. When you visit the Wesfarmers Limited site to read, browse or download information, our system will record/log your IP address (the address which identifies your computer on the internet and which is automatically recognised by our web server), date and time of your visit to our site, the pages viewed and any information downloaded. This information will only be used for the purpose of site analysis and to help us offer you improved online service. We may automatically collect non-personal information about you such as the type of internet browsers you use or the site from which you linked to our websites. You cannot be identified from this information and it is only used to assist us in providing an effective service on our Web Sites.
+  * Our related companies;
+  * Our service providers and professional advisors including IT service providers, auditors, legal advisors, mail houses and to share registrar and share plan management services 
+  * Financial institutions; 
+  * The organisations we support or sponsor; and
+  * Government agencies.
 
 
 
-## Changes to Privacy Policy
+We take steps to ensure that our service providers are obliged to protect the privacy and security of personal information and use it only for the purpose for which it is disclosed.
 
-  1. If Wesfarmers Limited decides to change its Privacy Policy, it will post changes on this Privacy Policy page so that users are always aware of what information is collected, how it is used and the way in which information may be disclosed. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments.
+We may disclose personal information we have collected to organisations located overseas in circumstances permitted by the Australian Privacy Principles. Examples include disclosures of relevant group employee shareholder information to the manager of our United Kingdom employee share plan, and disclosures when necessary for making international payments, or in complying with foreign legal or regulatory requirements. The third parties to whom we disclose personal information may be located in Australia and other countries including New Zealand, United Kingdom and United States of America.
 
+We may use cloud computing solutions or data storage located overseas in which case information may be stored, under our control, on computer servers located outside of Australia (predominantly located in the United States of America). 
 
+## Accessing and correcting your personal information, and complaints and questions
 
-## Contacting us
+You can request access to your personal information held by us, or request that it be corrected, by contacting us at the address below. To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you. A fee will not be charged for an access request, but you may be charged the reasonable expenses we incur (such as search and copying costs). If we refuse to provide you with access or correct the personal information held about you by us (in accordance with the Privacy Act), then we will provide reasons for such refusal.
 
-  1. If you require further information regarding our Privacy Policy, please contact [the Privacy Officer through the Contact page](http://wesfarmers.com.au/contact.html "Contact").[](mailto:%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy50170%20=%20'privacy'%20+%20'@';%20addy50170%20=%20addy50170%20+%20'wesfarmers'%20+%20'.'%20+%20'com'%20+%20'.'%20+%20'au';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy50170%20+%20'\\'%3E'\);%20document.write\(addy50170\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)
-  2. Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/).
+If you have a question about our Privacy Policy or wish to make a complaint about the way we have collected, used, held or disclosed your personal information, please contact us at the address below. We may need to contact you for further details. 
 
+If you wish to make a formal complaint, please make your complaint in writing to our Privacy Officer. We will consider your complaint promptly and contact you to seek to resolve the matter. If we have not responded to you within a reasonable time or if your concerns are not resolved to your satisfaction, you are entitled under the Privacy Act to make a complaint to the Office of the Australian Information Commissioner.
 
+### **Contact:**
 
-## Acceptance
+**Wesfarmers Privacy Officer**  
+Wesfarmers Limited  
+Level 11, 40 The Esplanade, Perth WA 6000  
+Email: [privacy@wesfarmers.com.au](mailto:privacy@wesfarmers.com.au)   
+Phone: (+61) 8 9327 4230
 
-  1. You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Use.
-
-
-
-All information © 2013 WESFARMERS LIMITED
+**Office of the Australian Information Commissioner**  
+Website: [www.oaic.gov.au](http://www.oaic.gov.au/)  
+Phone: 1300 363 992.  
+Last updated: March 2014  
+Wesfarmers Limited ABN 28 008 984 049
