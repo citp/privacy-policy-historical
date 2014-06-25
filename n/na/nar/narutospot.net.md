@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the narutospot.net privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031080907id_/http%3A//www.narutospot.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narutospot.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040105id_/http%3A//www.narutospot.net/view/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Naruto Shippuden Episodes Online Subbed and Dubbed Streaming
+# Privacy Policy
 
-Narutospot is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible.  
+Narutospot is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible.
 
-
-**How we collect and use personal information**
+ **How we collect and use personal information**
 
 Commenting on episodes at Narutospot does require you provide your name and email.
 
@@ -13,15 +12,13 @@ We offer links to other Web sites. Please note: When you click on links to other
 
 How we protect your personal information
 
-All personal data you enter on Narutospot is stored on our secure server protected by hardware and software firewalls at a limited access datacenter.  
+All personal data you enter on Narutospot is stored on our secure server protected by hardware and software firewalls at a limited access datacenter.
 
+ **How we use “cookies”**
 
-**How we use “cookies”**
+“Cookies” are small pieces of information that some Web sites store on your computer’s hard drive when you visit them. Like many other Web sites, Narutospot uses cookies to identify members so they don’t have to enter a user ID and password upon each visit. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. Even if you do not use cookies, you can still access all of the features on our site by logging in manually with each visit.
 
-“Cookies” are small pieces of information that some Web sites store on your computer’s hard drive when you visit them. Like many other Web sites, Narutospot uses cookies to identify members so they don’t have to enter a user ID and password upon each visit. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. Even if you do not use cookies, you can still access all of the features on our site by logging in manually with each visit.  
-
-
-**What we provide to third parties**
+ **What we provide to third parties**
 
 While Narutospot does not provide any third-party access to your personal information, we may provide third parties with aggregate statistics about our customers, traffic patterns, and related site information. This data reflects site usage patterns gathered during thousands of customer visits to our Web site each month, but it does not contain behavioral or identifying information about any individual member.
 
