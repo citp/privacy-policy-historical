@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubli.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224023010id_/http%3A//us.dubli.com/info/12-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubli.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625235852id_/http%3A//us.dubli.com/info/12-Privacy) for the most accurate reproduction.*
 
 # Privacy - Better Deals, More Cashback - DubLi
 
