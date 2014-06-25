@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptccentral.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230155825id_/http%3A//ptccentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptccentral.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094857id_/http%3A//ptccentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PTC Central
 
@@ -39,10 +39,6 @@ This website may use social sharing buttons which help share web content directl
 ### Commitment to Data Security
 
 Your personally identifiable information is kept secure. Only owners of PTC Central (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
-
-### Privacy Contact Information
-
-If you have any questions, concerns, or comments about our privacy policy you may email us at [admin@ptccentral.com](mailto:admin@ptccentral.com)
 
 ### Changes to this Policy
 
