@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hsus.org privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214042130id_/http%3A//www.humanesociety.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsus.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142225id_/http%3A//www.humanesociety.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : The Humane Society of the United States
 
-November 9, 2009 
+January 21, 2014 
 
 The Humane Society of the United States (The HSUS) is committed to your right to privacy and to keeping your personal information private. You can visit The Humane Society of the United States web site without telling us who you are or revealing any identifying information about yourself. However, because our web site includes areas in which visitors can provide personally identifying information, we have developed this Privacy Policy to inform you of our policies and practices regarding information we collect about you.
 
@@ -39,7 +39,7 @@ From time to time, The HSUS may link to other web sites not affiliated with The 
 
 ### Security
 
-The HSUS uses generally accepted, industry-standard security systems, software, and encryption technologies to protect against unauthorized access to The HSUS servers, equipment, and other components of our online presence. This includes using industry-standard security systems to protect credit card processing information.
+The HSUS uses generally accepted, industry-standard security systems, software, and encryption technologies–-Secure Sockets Layer (SSL)--for the secure transfer of personal and financial data and to protect against unauthorized access to The HSUS's servers, equipment, and other components of our online presence. This includes using industry-standard security systems to protect credit card processing information. Our web servers are stored off-site at multiple, physically secure facilities with limited access.
 
 ### Contacting The HSUS
 
