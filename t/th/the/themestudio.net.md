@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themestudio.net privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213042900id_/http%3A//themestudio.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themestudio.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043936id_/http%3A//themestudio.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ThemeStudio.Net
+# ThemeStudio.Net | Privacy Policy
 
 This privacy policy sets out how ThemeStudio uses and protects any information that you give ThemeStudio when you use this website.
 
