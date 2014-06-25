@@ -1,32 +1,34 @@
-> *The following text is extracted and transformed from the tehoopla.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208080141id_/http%3A//tehoopla.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tehoopla.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095610id_/http%3A//tehoopla.com/policy.htm) for the most accurate reproduction.*
 
-# TEHoopla Privacy Policy
+# 
 
- | 
+| 
 
 **TEHoopla Privacy Policy**
 
-This privacy policy applies to the website of TEHoopla.
+This privacy policy applies to the website of TEHoopla.com
 
 | To contact our organization, use the following information.  
 ---  
- | http://tehoopla.com/trk.cgi?support  
+  | TEHoopla.com/support  
 TEHoopla.com | Carrmedia LLC  
-2140 E. Southlake Blvd. #L609  
-Southlake, TX 76092 USA  
+11625 Custer Road #110-296  
+Frisco, TX USA 75035  
   
-Because we want to demonstrate our commitment to our users' privacy, we disclose all of the information we collect, why we collect it, and what we do with the it.
+Because we want to demonstrate our commitment to our users' privacy,  
+we disclose all of the information we collect, why we collect it, and what we do with the it.
 
 Information is collected for the following purposes.  
 ---  
- | Completing an activity or transaction  
+  | Completing an activity or transaction  
 Website and system administration  
 Research and Development  
 The following organizations have access to the information we collect.  
 ---  
- | Ourselves  
+  | Ourselves  
   
-If you are concerned about your personal information we collect, contact us using the information contained in this policy.
+If you are concerned about your personal information we collect,  
+contact us using the information contained in this policy.
 
 Our web site uses cookies to enhance how it operates and ensure we better serve our visitors.
 
@@ -34,13 +36,15 @@ Our servers automatically collect logs that may record statistical information s
 
 The website collects the following types of information.  
 ---  
- | Web site issued unique identifiers  
+  | Web site issued unique identifiers  
 Purchase information  
 Current physical location information  
 Web Navigation information  
 Computer system information  
 Information about interactions with the web site  
   
-If you have a question about our privacy policy, or you would like to dispute any information collected contact us using the information contained in this policy.
+If you have a question about our privacy policy,  
+or you would like to dispute any information collected,  
+contact us using the information contained in this policy.
 
 [Return to TEHoopla Main page](http://tehoopla.com/)
