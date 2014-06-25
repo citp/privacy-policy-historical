@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetaoofbadass.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014081628id_/http%3A//www.thetaoofbadass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetaoofbadass.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626011035id_/http%3A//www.thetaoofbadass.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 VeriPurchase uses information collected from our customers through ClickBank in order to display in the VeriPurchase Customer Widget. This includes first name, first initial of last name, and country. To opt-out go to <http://www.veripurchase.com/optout.php>
 
 **Children**  
-TheTaoOfBadass.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe TheTaoOfBadass.com has any information from or about anyone under 13, please contact us at the address listed below.
+TheTaoOfBadass.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 18 except as permitted by law. If we discover we have received any information from a child under 18 in violation of this policy, we will delete that information immediately. If you believe TheTaoOfBadass.com has any information from or about anyone under 18, please contact us at the address listed below.
 
 **Contacting Us.**  
 We can be reached by contacting:  
