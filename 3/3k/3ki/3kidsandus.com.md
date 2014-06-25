@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3kidsandus.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018031019id_/http%3A//foodfamilyfinds.com/about-3-kids-and-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3kidsandus.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061339id_/http%3A//foodfamilyfinds.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
