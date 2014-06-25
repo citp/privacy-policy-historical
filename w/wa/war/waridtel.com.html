@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the waridtel.com privacy policy that was archived on 2013-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207203043id_/http%3A//www.waridtel.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the waridtel.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625111219id_/http%3A//www.waridtel.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -83,7 +83,1002 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!--<script src="./js_slider/jquery.min.js"></script>-->
 <!-- customer-feedback-form -->
-<!-- customer-feedback-form -->
+<script type="text/javascript">
+$(document).ready(function(){	
+	check_survey();
+	
+	$('.closesurveryform').click(function(){	
+		$('#slideClick').parent().animate({left:'-700px'}, {queue:false, duration: 500});
+	});
+	
+});
+</script>
+<script type="text/javascript">
+jQuery(function($) {
+		$('#slideClick').toggle(function() {
+			var slideOutLeft = $("#slideOut").css("left");
+			if(slideOutLeft == '0px'){
+				$(this).parent().animate({left:'-700px'}, {queue:false, duration: 500});
+			} else {
+				$(this).parent().animate({left:'0px'}, {queue:false, duration: 500});
+			}
+		}, function() {
+			var slideOutLeft = $("#slideOut").css("left");
+			if(slideOutLeft == '-700px'){
+				$(this).parent().animate({left:'0px'}, {queue:false, duration: 500});
+			} else {
+				$(this).parent().animate({left:'-700px'}, {queue:false, duration: 500});
+			}
+		}
+		);	
+	});
+</script>
+<style>
+#slideOut{position:absolute; width:727px; top:14%; left:-700px; /*height:80px;*/ z-index:99999 !important; opacity:0.9;}
+#slideClick{float:right; height:200px; width:27px; background:url(http://waridtel.com/home_contact_form/TabSlideOut/contact_tab.gif); cursor:pointer;}
+#slideContent{width:700px; padding:0; float:left;}
+.close-div{margin: 0 10px 0 0;
+position: absolute;
+top: 5px;
+right: 25px;}
+.close-div a{ text-decoration:none; border:none;}
+</style>
+<link href="./feedback-form-css/style.css" rel="stylesheet" type="text/css">
+<div id="slideOut" class="clearfix">
+	<div id="slideContent">
+		
+        <div id="divFeedback">
+        <div id="container">
+        <div id="wrapper">
+        <div id="top"><div class="close-div"><a href="#" class="closesurveryform" style="border:none;"><img src="./images/close-image.png" alt="" title=""></a></div></div>
+        <div id="center"><div id="container_center">
+            <div id="mainDiv">
+                <div id="container_prefix">
+                	<div style="width:600px; float:left; padding:10px 0 0 0; font-size:18px; font-weight:bold;">Personal Information:</div>
+                    <div class="container_s_small" style="width:190px;">
+                    <div class="input_text"><strong>Mob #:</strong><span style="color:#FF0000;padding:5px 0 0 5px;">*</span></div>
+                    <div class="input_field_small" style="float:left;">
+                    <select class="select_small" name="prefix" id="prefix" tabindex="1">
+                      <option value="">Select</option>
+                                                                                                          <option value="0320"> 0320</option>
+                                                                            <option value="0321"> 0321</option>
+                                                                            <option value="0322"> 0322</option>
+                                                                            <option value="0323"> 0323</option>
+                                                                            <option value="0324"> 0324</option>
+                                                                            <option value="0341"> 0341</option>
+                                                                            <option value="0342"> 0342</option>
+                                                                            <option value="0343"> 0343</option>
+                                                                            <option value="0344"> 0344</option>
+                                                                            <option value="0345"> 0345</option>
+                                                                            <option value="0346"> 0346</option>
+                                                                            <option value="0300"> 0300</option>
+                                                                            <option value="0301"> 0301</option>
+                                                                            <option value="0302"> 0302</option>
+                                                                            <option value="0303"> 0303</option>
+                                                                            <option value="0304"> 0304</option>
+                                                                            <option value="0305"> 0305</option>
+                                                                            <option value="0306"> 0306</option>
+                                                                            <option value="0307"> 0307</option>
+                                                                            <option value="0308"> 0308</option>
+                                                                            <option value="0309"> 0309</option>
+                                                                            <option value="0312"> 0312</option>
+                                                                            <option value="0313"> 0313</option>
+                                                                            <option value="0314"> 0314</option>
+                                                                            <option value="0331"> 0331</option>
+                                                                            <option value="0332"> 0332</option>
+                                                                            <option value="0333"> 0333</option>
+                                                                            <option value="0334"> 0334</option>
+                                                                            <option value="0335"> 0335</option>
+                                                                            <option value="0336"> 0336</option>
+                                                            </select></div>
+                      
+                    </div>
+                
+                    <div id="container_s_small_inp" style="width:190px; margin:0px 10px 0 0;">
+                        <div class="input_text">&nbsp;</div>
+                        <div id="input_field_small_inp" style="float:left;">
+                            <input class="input_small" name="mobile" id="mobile" value="" type="text" tabindex="2" maxlength="7">
+                        </div>
+                        <!--<span style="color:#FF0000; padding:5px 0 0 5px;">*</span>-->
+                    </div>
+                
+                	
+                </div>
+                
+                <div class="input_container" style="width:688px;">
+        			
+                                        	
+                        <div class="input_container2">
+                            <div class="input_text" style="margin:0 0 0 0; float:left;"><strong>Name:</strong></div>
+                            <div class="input_field_txt">
+                              <input name="name" id="name" value="" type="text" tabindex="3" maxlength="50">
+                            </div>
+                        </div>
+                        
+                        <div id="divEmail" class="input_container2">
+                            <div class="input_text" style="margin:0 0 0 0; float:left;"><strong>E-mail:</strong><span style="color:#FF0000;padding:5px 0 0 5px;">*</span></div>
+                            <div class="input_field_txt">
+                              <input name="email" id="email" value="" type="text" tabindex="5" maxlength="60">
+                            </div>
+                        </div>                       
+                
+        			</div>
+                
+                
+                <div style="width:600px; float:left; padding:10px 0 0 0; font-size:18px; font-weight:bold;">Please rate our services:</div>
+				
+                    <div class="select_rates_hd">
+                        <div id="select_good_container"><strong>Customer Services:</strong><span style="color:#FF0000;padding:5px 0 0 5px;">*</span></div>
+                        <div id="select_r">
+                    	
+                          <div class="rad_container">
+                          <div class="rad_list">
+                              <input class="radio" type="radio" name="customer_service" id="customer_service" value="10">
+                            </div>
+                          <div class="rad_text">Great</div>
+                          </div>
+                    	
+                          <div class="rad_container">
+                          <div class="rad_list">
+                              <input class="radio" type="radio" name="customer_service" id="customer_service" value="9">
+                            </div>
+                          <div class="rad_text">Good</div>
+                          </div>
+                    	
+                          <div class="rad_container">
+                          <div class="rad_list">
+                              <input class="radio" type="radio" name="customer_service" id="customer_service" value="8">
+                            </div>
+                          <div class="rad_text">Average</div>
+                          </div>
+                    	
+                          <div class="rad_container">
+                          <div class="rad_list">
+                              <input class="radio" type="radio" name="customer_service" id="customer_service" value="7">
+                            </div>
+                          <div class="rad_text">Bad</div>
+                          </div>
+                                      </div>
+                    </div>
+             		<div id="ajax_div_customer_service"></div>
+                	<div style="float:left; width:500px; height:1px; background:#ccc; margin:8px 0 0 75px"></div>
+                
+                    <div class="select_rates_hd">
+                        <div id="select_good_container"><strong>Network / Cellular Services:</strong><span style="color:#FF0000;padding:5px 0 0 5px;">*</span></div>
+                        <div id="select_r">
+                    	
+                          <div class="rad_container">
+                          <div class="rad_list">
+                              <input class="radio" type="radio" name="network_cellular_services" id="network_cellular_services" value="50">
+                            </div>
+                          <div class="rad_text">Great</div>
+                          </div>
+                    	
+                          <div class="rad_container">
+                          <div class="rad_list">
+                              <input class="radio" type="radio" name="network_cellular_services" id="network_cellular_services" value="49">
+                            </div>
+                          <div class="rad_text">Good</div>
+                          </div>
+                    	
+                          <div class="rad_container">
+                          <div class="rad_list">
+                              <input class="radio" type="radio" name="network_cellular_services" id="network_cellular_services" value="48">
+                            </div>
+                          <div class="rad_text">Average</div>
+                          </div>
+                    	
+                          <div class="rad_container">
+                          <div class="rad_list">
+                              <input class="radio" type="radio" name="network_cellular_services" id="network_cellular_services" value="47">
+                            </div>
+                          <div class="rad_text">Bad</div>
+                          </div>
+                                      </div>
+                    </div>
+             		<div id="ajax_div_network_cellular_services"></div>
+                	<div style="float:left; width:500px; height:1px; background:#ccc; margin:8px 0 0 75px"></div>
+                
+                    <div class="select_rates_hd">
+                        <div id="select_good_container"><strong>Product &amp; Services:</strong><span style="color:#FF0000;padding:5px 0 0 5px;">*</span></div>
+                        <div id="select_r">
+                        	
+                              <div class="rad_container">
+                              <div class="rad_list">
+                                  <input class="radio" type="radio" name="product_services" id="product_services" value="64">
+                                </div>
+                              <div class="rad_text">Great</div>
+                              </div>
+                        	
+                              <div class="rad_container">
+                              <div class="rad_list">
+                                  <input class="radio" type="radio" name="product_services" id="product_services" value="63">
+                                </div>
+                              <div class="rad_text">Good</div>
+                              </div>
+                        	
+                              <div class="rad_container">
+                              <div class="rad_list">
+                                  <input class="radio" type="radio" name="product_services" id="product_services" value="62">
+                                </div>
+                              <div class="rad_text">Average</div>
+                              </div>
+                        	
+                              <div class="rad_container">
+                              <div class="rad_list">
+                                  <input class="radio" type="radio" name="product_services" id="product_services" value="61">
+                                </div>
+                              <div class="rad_text">Bad</div>
+                              </div>
+                                              </div>
+                    </div>
+             		<div id="ajax_div_product_services"></div>
+              		<!--<div style="float:left; width:500px; height:1px; background:#ccc; margin:8px 0 0 75px"></div>-->
+              
+                     <div id="error">
+                        <!--Error Print-->
+                  </div>
+              
+              		<div class="btm_form">
+                    	<div id="submit_button"><img src=".//feedback-form-images/next-btn-form.jpg" class="add_customer_survey" border="0" title=""></div>
+             			<div class="one_of_two">1 OF 2</div>
+                    </div>
+                    
+          </div>
+        </div></div>
+        <div id="bottom"></div>
+        </div>
+        </div>
+        <div id="loaderDiv" style="display:none;position:absolute;left:44%; top:65%;"><img src="./feedback-form-images/ajax-loader-1.gif" title=""></div>
+    </div>
+        
+	</div>
+	<div id="slideClick"></div>
+</div>
+<script type="text/javascript">
+var fanc_show	=	'0';
+function check_survey()
+{
+	$.ajax({
+		url : './customer_services_survey/user_survey_check.php',
+		type: 'GET',
+		success: function(res)
+		{
+			//console.log(res);
+			if( res == 1 )
+			{
+			    /*if( fanc_show == 1 )
+				{
+	    			$.fancybox.close();
+				}*/
+				//$.fancybox.close();
+				//$('#slideClick').parent().animate({left:'0px'}, {queue:false, duration: 500});
+				//console.log('form is showed first time to user!');
+				return false;
+			} 
+			else if(res == 2 )
+			{
+				//console.log('Cookie is not set yet!');
+				return false;
+			} 
+			else if(res == 3 )
+			{
+				//console.log('Form is open once and submitted once!');
+				return false;
+			}
+			else if(res == 4 )
+			{
+				//console.log('Form is open once but not submitted!');
+				return false;
+			}
+			else if(res == 5 )
+			{
+				//console.log('Cookie is expired and set again cookie!');
+				return false;
+			}
+			else if(res == 6 )
+			{
+				//console.log('Cookie is set first time!');
+				return false;
+			}
+			else if(res == 7 )
+			{
+				//console.log('currentDateTime is not reached to surveytime!');
+				return false;
+			}
+			else 
+			{
+				//console.log('Oops! something went wrong.');
+				return false;
+			}
+		}
+	});	
+}
+setInterval(check_survey, 60000);
+</script>
+<script type="text/javascript">
+$(document).ready(function() {
+	
+	$('.add_customer_survey').click(function(){
+		var re = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+		var $namePattern = /^([A-Za-z ])+$/;
+        var $numPattern = /^([0-9])+$/;
+		
+		var name = $('#name').val();
+				
+		var prefix = $('#prefix').val();
+		var mobile = $('#mobile').val();
+		var uip = '207.241.237.224';
+				
+		var $checkbox = $('input:checkbox[name=emailer_check]:checked');
+		var emailer_size = $checkbox.size();
+		//alert("size:"+emailer_size); 
+		var emailer_check = $checkbox.val();
+		//alert("value:"+emailer_check); 
+		/*if( emailer_check == 1 )
+		{
+			var email = $('#email').val();
+			//alert("test email:"+email);
+		}
+		else
+		{
+			var emailer_check = 0;
+			var email = '';
+		}*/
+		var emailer_check = 1;
+		var email = $('#email').val();
+		
+		var $radio_customer_service = $('input:radio[name=customer_service]:checked');
+		var customer_service_size = $radio_customer_service.size();
+		//alert(customer_service_size); 
+		var customer_service_val = $radio_customer_service.val();
+		//alert(enquiry_val);
+		
+		if( customer_service_val == 7  || customer_service_val == 8 )
+		{
+			var $radio_sub_customer_service = $('input:radio[name=customer_service'+customer_service_val+']:checked');
+			var sub_customer_service_size = $radio_sub_customer_service.size();
+			//alert(sub_customer_service_size); 
+			var sub_customer_service_val = $radio_sub_customer_service.val();
+			//alert(sub_customer_service_val);
+			
+			if( sub_customer_service_val == 11  || sub_customer_service_val == 12 || sub_customer_service_val == 13 || sub_customer_service_val == 14  || sub_customer_service_val == 15 || sub_customer_service_val == 16 )
+			{
+				var sub_customer_service_sub_val = '';
+				var customer_service_comments_val = '';
+				var customer_service_comments = '';
+				$('input:checkbox[name=customer_service'+sub_customer_service_val+']:checked').each(function(){        
+					var values = $(this).val();									
+					sub_customer_service_sub_val += values+',';
+				});
+				//alert(sub_customer_service_sub_val);
+			}
+		
+			if ( $('#customer_service21').is(':checked') )
+			{
+				customer_service_comments_val	=	21;
+				customer_service_comments = $('#customer_service_comments'+customer_service_comments_val).val();
+			}
+			else if ( $('#customer_service26').is(':checked') )
+			{
+				customer_service_comments_val	=	26;
+				customer_service_comments = $('#customer_service_comments'+customer_service_comments_val).val();
+			}
+			else if ( $('#customer_service31').is(':checked') )
+			{
+				customer_service_comments_val	=	31;
+				customer_service_comments = $('#customer_service_comments'+customer_service_comments_val).val();
+			}
+			else if ( $('#customer_service36').is(':checked') )
+			{
+				customer_service_comments_val	=	36;
+				customer_service_comments = $('#customer_service_comments'+customer_service_comments_val).val();
+			}
+			else if ( $('#customer_service41').is(':checked') )
+			{
+				customer_service_comments_val	=	41;
+				customer_service_comments = $('#customer_service_comments'+customer_service_comments_val).val();
+			}
+			else if ( $('#customer_service46').is(':checked') )
+			{
+				customer_service_comments_val	=	46;
+				customer_service_comments = $('#customer_service_comments'+customer_service_comments_val).val();
+			}
+			else
+			{
+				customer_service_comments_val	=	0;
+				customer_service_comments = '';
+			}
+			
+			if( (customer_service_comments_val == 21 || customer_service_comments_val == 26 || customer_service_comments_val == 31 || customer_service_comments_val == 36 || customer_service_comments_val == 41 || customer_service_comments_val == 46) && customer_service_comments != '' )
+			{
+				var dataString_cutomer_service = '&customer_service='+ customer_service_val+'&sub_customer_service='+ sub_customer_service_val+'&sub_customer_service_sub='+ sub_customer_service_sub_val+'&customer_service_comments_val='+ customer_service_comments_val+'&customer_service_comments='+ customer_service_comments;
+			}
+			else
+			{
+				var dataString_cutomer_service = '&customer_service='+ customer_service_val+'&sub_customer_service='+ sub_customer_service_val+'&sub_customer_service_sub='+ sub_customer_service_sub_val+'&customer_service_comments_val='+ customer_service_comments_val+'&customer_service_comments='+ customer_service_comments;
+			}
+		}
+		else
+		{
+			var dataString_cutomer_service = '&customer_service='+ customer_service_val;
+		}
+		
+		
+		
+		var $radio_network_cellular_services = $('input:radio[name=network_cellular_services]:checked');
+		var network_cellular_services_size = $radio_network_cellular_services.size();
+		var network_cellular_services_val = $radio_network_cellular_services.val();
+		
+		if( network_cellular_services_val == 47  || network_cellular_services_val == 48 )
+		{
+			var sub_network_cellular_services_val = '';
+			var network_comments_val = '';
+			var network_comments = '';
+			$('input:checkbox[name=network_cellular_services'+network_cellular_services_val+']:checked').each(function(){        
+				var values = $(this).val();	
+				sub_network_cellular_services_val += values+',';
+			});
+			//alert(sub_customer_service_sub_val);
+
+			if ( $('#network_cellular_services55').is(':checked') )
+			{
+				network_comments_val	=	55;
+				network_comments = $('#network_comments'+network_comments_val).val();
+			}
+			else if ( $('#network_cellular_services60').is(':checked') )
+			{
+				network_comments_val	=	60;
+				network_comments = $('#network_comments'+network_comments_val).val();
+			}
+			else
+			{
+				network_comments_val	=	0;
+				network_comments = '';
+			}
+			
+			if( (network_comments_val == 55 || network_comments_val == 60) && network_comments != '' )
+			{
+				var dataString_network_cellular_services = '&network_cellular_services='+ network_cellular_services_val+'&sub_network_cellular_services='+ sub_network_cellular_services_val+'&network_comments_val='+ network_comments_val+'&network_comments='+ network_comments;
+			}
+			else
+			{
+				var dataString_network_cellular_services = '&network_cellular_services='+ network_cellular_services_val+'&sub_network_cellular_services='+ sub_network_cellular_services_val+'&network_comments_val='+ network_comments_val+'&network_comments='+ network_comments;
+			}
+		}
+		else
+		{
+			var dataString_network_cellular_services = '&network_cellular_services='+ network_cellular_services_val;
+		}
+		
+		var $radio_product_services = $('input:radio[name=product_services]:checked');
+		var product_services_size = $radio_product_services.size();
+		var product_services_val = $radio_product_services.val();
+		
+		if( product_services_val == 61  || product_services_val == 62 )
+		{
+			var sub_product_services_val = '';
+			var product_comments_val = '';
+			var product_comments = '';
+			$('input:checkbox[name=product_services'+product_services_val+']:checked').each(function(){        
+				var values = $(this).val();								
+				sub_product_services_val += values+',';
+			});
+			//alert(sub_customer_service_sub_val);
+			
+			if ( $('#product_services68').is(':checked') )
+			{
+				product_comments_val	=	68;
+				product_comments = $('#product_comments'+product_comments_val).val();
+			}
+			else if ( $('#product_services72').is(':checked') )
+			{
+				product_comments_val	=	72;
+				product_comments = $('#product_comments'+product_comments_val).val();
+			}
+			else
+			{
+				product_comments_val	=	0;
+				product_comments = '';
+			}
+			
+			if( (product_comments_val == 68 || product_comments_val == 72) && product_comments != '' )
+			{
+				var dataString_product_services = '&product_services='+ product_services_val+'&sub_product_services='+ sub_product_services_val+'&product_comments_val='+ product_comments_val+'&product_comments='+ product_comments;
+			}
+			else
+			{
+				var dataString_product_services = '&product_services='+ product_services_val+'&sub_product_services='+ sub_product_services_val+'&product_comments_val='+ product_comments_val+'&product_comments='+ product_comments;
+			}
+		}
+		else
+		{
+			var dataString_product_services = '&product_services='+ product_services_val;
+		}
+
+		if ( prefix.length == 0 )
+		{
+			alert('Please enter your mobile prefix.');
+			$('#prefix').focus().select();
+			return false;
+		}
+		else if ( prefix.length > 0 && ( prefix.length > 4 ) )
+		{
+			alert('Please enter a valid mobile prefix.');
+			$('#prefix').focus().select();
+			return false;
+		}
+		else if ( prefix.length > 0 && !prefix.match($numPattern) )
+		{
+			alert('Please enter a valid mobile prefix.');
+			$('#prefix').focus().select();
+			return false;
+		}
+		else if ( mobile.length == 0 )
+		{
+			alert('Please enter your mobile number.');
+			$('#mobile').focus().select();
+			return false;
+		}
+		else if ( mobile.length > 0 && ( mobile.length > 7 ) )
+		{
+			alert('Please enter a valid mobile number.');
+			$('#mobile').focus().select();
+			return false;
+		}
+		else if ( mobile.length > 0 && !mobile.match($numPattern) )
+		{
+			alert('Please enter a valid mobile number.');
+			$('#mobile').focus().select();
+			return false;
+		}
+		/*else if ( emailer_check == 1 && email.length == 0 )
+		{
+			alert('Please enter your email address.');
+			$('#email').focus().select();
+			return false;
+		}
+		else if ( emailer_check == 1 && re.test(email) == false )
+		{
+			alert('Please enter a valid email address.');
+			$('#email').focus().select();
+			return false;
+		}*/	
+		else if ( email.length == 0 )
+		{
+			alert('Please enter your email address.');
+			$('#email').focus().select();
+			return false;
+		}
+		else if ( re.test(email) == false )
+		{
+			alert('Please enter a valid email address.');
+			$('#email').focus().select();
+			return false;
+		}
+		else if ( customer_service_size == 0 )
+		{
+			alert('Please rate Customer Service.');
+			$('#customer_service').focus().select();
+			return false;
+		}
+		else if( (customer_service_val == 7  || customer_service_val == 8) && sub_customer_service_size == 0 )
+		{
+			alert('Please rate Customer Service.');
+			$('#customer_service'+customer_service_val).focus().select();
+			return false;
+		}
+		else if( (sub_customer_service_val == 11  || sub_customer_service_val == 12 || sub_customer_service_val == 13 || sub_customer_service_val == 14  || sub_customer_service_val == 15 || sub_customer_service_val == 16) && sub_customer_service_sub_val == '' )
+		{
+			alert('Please rate Customer Service.');
+			$('#customer_service'+sub_customer_service_val).focus().select();
+			return false;
+		}
+		else if( (customer_service_comments_val == 21 || customer_service_comments_val == 26 || customer_service_comments_val == 31 || customer_service_comments_val == 36 || customer_service_comments_val == 41 || customer_service_comments_val == 46) && customer_service_comments == '' )
+		{
+			alert('Please enter Customer Service comments.');
+			$('#customer_service_comments'+customer_service_comments_val).focus().select();
+			return false;
+		}
+		else if ( network_cellular_services_size == 0 )
+		{
+			alert('Please rate Network / Cellular Services.');
+			$('#network_cellular_services').focus().select();
+			return false;
+		}
+		else if( (network_cellular_services_val == 47  || network_cellular_services_val == 48) && sub_network_cellular_services_val == '' )
+		{
+			alert('Please rate Network / Cellular Services.');
+			$('#network_cellular_services51').focus().select();
+			return false;
+		}
+		else if( (network_comments_val == 55  || network_comments_val == 60) && network_comments == '' )
+		{
+			alert('Please enter your Network / Cellular Services comments.');
+			$('#network_comments'+network_comments_val).focus().select();
+			return false;
+		}
+		else if ( product_services_size == 0 )
+		{
+			alert('Please rate Product & Services.');
+			$('#product_services').focus().select();
+			return false;
+		}
+		else if( (product_services_val == 61  || product_services_val == 62) && sub_product_services_val == '' )
+		{
+			alert('Please rate Product & Services.');
+			$('#product_services'+product_services_val).focus().select();
+			return false;
+		}
+		else if( (product_comments_val == 68  || product_comments_val == 72) && product_comments == '' )
+		{
+			alert('Please enter Product & Services comments.');
+			$('#product_comments'+product_comments_val).focus().select();
+			return false;
+		}
+		else
+		{			
+			$('#loaderDiv').show();	
+				var dataString = 'name='+ name+'&emailer_check='+emailer_check+'&email='+ email+'&prefix='+ prefix+'&mobile='+ mobile+ dataString_cutomer_service+ dataString_network_cellular_services+ dataString_product_services+'&uip='+uip;
+			/*alert(dataString); return false;*/
+			$.ajax({
+				url:'./customer_services_survey/add_customer_opinion.php',
+				data:dataString,
+				type:'post',
+				success:function(res){
+					$('#loaderDiv').hide();	
+					/*alert(res); return false;*/
+					if( $.trim(res) === "empty_prefix" )
+					{
+						alert('Please enter your mobile prefix.');
+						$('#prefix').focus().select();
+						return false;
+					}
+					else if( $.trim(res) == 'inavlid_prefix' )
+					{
+						alert('Please enter a valid mobile prefix.');
+						$('#prefix').focus().select();
+						return false;
+					}
+					else if ( $.trim(res) == 'empty_mobile' )
+					{
+						alert('Please enter your mobile number.');
+						$('#mobile').focus().select();
+						return false;
+					}
+					else if ( $.trim(res) == 'inavlid_mobile' )
+					{
+						alert('Please enter a valid mobile number.');
+						$('#mobile').focus().select();
+						return false;
+					}
+					else if ( $.trim(res) == 'empty_email' )
+					{
+						alert('Please enter your email address.');
+						$('#email').focus().select();
+						return false;
+					}
+					else if ( $.trim(res) == 'invalid_email' )
+					{
+						alert('Please enter a valid email address.');
+						$('#email').focus().select();
+						return false;
+					}	
+					else if ( $.trim(res) == 'empty_customer_service' )
+					{
+						alert('Please rate Customer Service.');
+						$('#customer_service').focus().select();
+						return false;
+					}
+					else if( res == 7  || res == 8 )
+					{
+						alert('Please rate Customer Service.');
+						$('#customer_service'+parseInt(res)).focus().select();
+						return false;
+					}
+					else if( $.trim(res) == 'empty_sub_customer_service_sub' )
+					{
+						alert('Please rate Customer Service.');
+						$('#customer_service').focus().select();
+						return false;
+					}
+					else if( res == 21 || res == 26 || res == 31 || res == 36 || res == 41 || res == 46 )
+					{
+						alert('Please enter Customer Service comments.');
+						$('#customer_service_comments'+parseInt(res)).focus().select();
+						return false;
+					}
+					else if ( $.trim(res) == 'empty_network_cellular_services' )
+					{
+						alert('Please rate Network / Cellular Services.');
+						$('#network_cellular_services').focus().select();
+						return false;
+					}
+					else if( $.trim(res) == 'empty_sub_network_cellular_services' )
+					{
+						alert('Please rate Network / Cellular Services.');
+						$('#network_cellular_services').focus().select();
+						return false;
+					}
+					else if( res == 55  || res == 60 )
+					{
+						alert('Please enter your Network / Cellular Services comments.');
+						$('#network_comments'+parseInt(res)).focus().select();
+						return false;
+					}
+					else if ( $.trim(res) == 'empty_product_services' )
+					{
+						alert('Please rate Product & Services.');
+						$('#product_services').focus().select();
+						return false;
+					}
+					else if(  $.trim(res) == 'empty_sub_product_services' )
+					{
+						alert('Please rate Product & Services.');
+						$('#product_services').focus().select();
+						return false;
+					}
+					else if( res == 68  || res == 72 )
+					{
+						alert('Please enter Product & Services comments.');
+						$('#product_comments'+parseInt(res)).focus().select();
+						return false;
+					}
+					if( $.trim(res) == 'already_registered' )
+					{
+						//alert(res);
+						$.ajax({
+							url : './customer_services_survey/already_feedback.php',
+							type: 'POST',
+							success: function(data)
+							{
+								//alert(data);	
+								$("#mainDiv").html(data);
+								return false;
+							}
+							
+						});	
+					}
+					else if( res == 0 )
+					{		
+						var dataStringSecond = 'prefix='+ prefix+'&mobile='+ mobile+'&uip='+uip;
+						/*alert(dataStringSecond);*/ 
+						$.ajax({
+							url : './customer_services_survey/index_sub.php',
+							data:dataStringSecond,
+							type: 'POST',
+							success: function(data)
+							{
+								//alert(data);	
+								$("#mainDiv").html(data);
+								return false;
+							}
+							
+						});	
+					}
+					else if( $.trim(res) == 'invalid_user' )
+					{
+						/*alert('Oops! something went wrong.');
+						return false;*/
+						$.ajax({
+							url : './customer_services_survey/invaliduser_feedback.php',
+							type: 'POST',
+							success: function(data)
+							{
+								//alert(data);	
+								$("#mainDiv").html(data);
+								return false;
+							}
+							
+						});	
+					}
+				}
+			});
+		}
+	});
+	
+	
+	
+	$('textarea[maxlength]').keyup(function(){  
+		//get the limit from maxlength attribute  
+		var limit = parseInt($(this).attr('maxlength'));  
+		//get the current text inside the textarea  
+		var text = $(this).val();  
+		//count the number of characters in the text  
+		var chars = text.length;  
+  
+		//check if there are more characters then allowed  
+		if(chars > limit){  
+			//and if there are use substr to get the text before the limit  
+			var new_text = text.substr(0, limit);  
+  
+			//and change the current text with the new text  
+			$(this).val(new_text);  
+		}  
+	});
+	
+	
+	$('#emailer_check').bind('change', function () {
+
+	   if ($(this).is(':checked'))
+		 $("#divEmail").show();
+	   else
+		 $("#divEmail").hide();
+	
+	});
+	
+	$("input:radio[name='customer_service']").click(function(){
+		if($('input:radio[name=customer_service]:checked')){
+				var id = $('input:radio[name=customer_service]:checked').val();
+				//alert( id );
+				if( id == 7 || id == 8 )
+				{
+					$('#loaderDiv').show();	
+				   var dataString = 'id='+id;
+					$.ajax({
+					  url: "./customer_services_survey/get_customer_service.php",
+					  type: "post",
+					  data: dataString,
+					  success: function(resp){
+					  		$('#loaderDiv').hide();	
+						   $("#ajax_div_customer_service").html(resp);
+					  },
+					  error:function(){
+						  alert("failure");
+					  }   
+					}); 
+				}
+				else
+				{
+					$("#ajax_div_customer_service").html('');
+				}
+		}
+	});	
+	
+	$("input:radio[name='network_cellular_services']").click(function(){
+		if($('input:radio[name=network_cellular_services]:checked')){
+				var id = $('input:radio[name=network_cellular_services]:checked').val();
+				//alert( id );
+				if( id == 47 || id == 48 )
+				{
+					$('#loaderDiv').show();	
+				   var dataString = 'id='+id;
+					$.ajax({
+					  url: "./customer_services_survey/get_network_cellular_services.php",
+					  type: "post",
+					  data: dataString,
+					  success: function(resp){
+					  		$('#loaderDiv').hide();	
+						   $("#ajax_div_network_cellular_services").html(resp);
+					  },
+					  error:function(){
+						  alert("failure");
+					  }   
+					}); 
+				}
+				else
+				{
+					$("#ajax_div_network_cellular_services").html('');
+				}
+		}
+	});	
+	
+	
+	$("input:radio[name='product_services']").click(function(){
+		if($('input:radio[name=product_services]:checked')){
+				var id = $('input:radio[name=product_services]:checked').val();
+				if( id == 61 || id == 62 )
+				{
+					$('#loaderDiv').show();	
+				   var dataString = 'id='+id;
+					$.ajax({
+					  url: "./customer_services_survey/get_product_services.php",
+					  type: "post",
+					  data: dataString,
+					  success: function(resp){
+					  		$('#loaderDiv').hide();	
+						   $("#ajax_div_product_services").html(resp);
+					  },
+					  error:function(){
+						  alert("failure");
+					  }   
+					}); 
+				}
+				else
+				{
+					$("#ajax_div_product_services").html('');
+				}
+		}
+	});	
+
+	
+	$("input:radio[name='value_added_services']").click(function(){
+			if($('input:radio[name=value_added_services]:checked')){
+				var id = $('input:radio[name=value_added_services]:checked').val();
+				if( id == 73 || id == 74 )
+				{
+					$('#loaderDiv').show();	
+				   var dataString = 'id='+id;
+					$.ajax({
+					  url: "./customer_services_survey/get_value_added_services.php",
+					  type: "post",
+					  data: dataString,
+					  success: function(resp){
+					  		$('#loaderDiv').hide();	
+						   $("#ajax_div_value_added_services").html(resp);
+					  },
+					  error:function(){
+						  alert("failure");
+					  }   
+					}); 
+				}
+				else
+				{
+					$("#ajax_div_value_added_services").html('');
+				}
+		}
+	});	
+
+	$("input:radio[name='pricing_policies']").click(function(){
+			if($('input:radio[name=pricing_policies]:checked')){
+				var id = $('input:radio[name=pricing_policies]:checked').val();
+				if( id == 85 || id == 86 )
+				{
+					$('#loaderDiv').show();	
+				   var dataString = 'id='+id;
+					$.ajax({
+					  url: "./customer_services_survey/get_pricing_policies.php",
+					  type: "post",
+					  data: dataString,
+					  success: function(resp){
+					  		$('#loaderDiv').hide();	
+						   $("#ajax_div_pricing_policies").html(resp);
+					  },
+					  error:function(){
+						  alert("failure");
+					  }   
+					}); 
+				}
+				else
+				{
+					$("#ajax_div_pricing_policies").html('');
+				}
+		}
+	});	
+
+	$("input:radio[name='web_services']").click(function(){
+			if($('input:radio[name=web_services]:checked')){
+				var id = $('input:radio[name=web_services]:checked').val();
+				if( id == 95 || id == 96 )
+				{
+					$('#loaderDiv').show();	
+				   var dataString = 'id='+id;
+					$.ajax({
+					  url: "./customer_services_survey/get_web_services.php",
+					  type: "post",
+					  data: dataString,
+					  success: function(resp){
+					  		$('#loaderDiv').hide();	
+						   $("#ajax_div_web_services").html(resp);
+					  },
+					  error:function(){
+						  alert("failure");
+					  }   
+					}); 
+				}
+				else
+				{
+					$("#ajax_div_web_services").html('');
+				}
+		}
+	});	
+	
+});	
+</script><!-- customer-feedback-form -->
+<style>
+.fb-button{ width:20px; position:absolute; float:right; background-color:#FF0000; right:7px; top:14%; z-index:99999;}
+.fb-button a{ height:200px; width:20px; float:right;}
+</style>
 
 
 <div id="header-main">
@@ -107,6 +1102,8 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                     <a href="http://members.waridtel.com/"><img src="./images/member_button.png" border="0" title=""></a>
                     </div>
                     </div>
+					<div class="fb-button"><a href="https://www.facebook.com/OfficialWarid/app_530770766988736" target="_blank"><img src="./images/services-hub.jpg" alt="button" title="button"></a></div>
+					
                     
                     <!--<div id="search_area_inner">
                     	<form name="search1" action="./search/search.php" method="post">
@@ -117,6 +1114,7 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                         </div>-->
                     </div>
                     </div>
+					
                     </div>                <!--Header End-->            
                 <!--Contant Start-->
 <div id="contant-demo-inner">
@@ -138,7 +1136,7 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                     <!--[if lte IE 9]>
 <link href='./css-dropdown/menu-ie9.css' rel='stylesheet' />
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="./css-dropdown/prepaid-menu.css">
+<link rel="stylesheet" type="text/css" href="./css-dropdown/prepaid-menu-demo.css">
     <div class="menu-main-blue-2">
     	<div class="menu-inner-cont-2">
         <!--Menue Below-->
@@ -153,8 +1151,12 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                                 	<div class="droop-top-port-wpost">
                                     	<div class="droop-top-left">
                                                                                 	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878292Thu052012.png" alt="POSTPAID TARIFF" title="POSTPAID TARIFF" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/tariff.php" title="POSTPAID TARIFF">POSTPAID TARIFF</a></div>
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1403074094Wed062014.png" alt="3G Roaming Service" title="3G Roaming Service" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/ir/3g-roaming.php" title="3G Roaming Service">3G Roaming Service</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1393512718Thu022014.jpg" alt="Double Bundle &amp; New Tariff" title="Double Bundle &amp; New Tariff" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/double-bundle.php" title="Double Bundle &amp; New Tariff">Double Bundle &amp; New Tariff</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
                                             	<div class="lk-lp-img"><img src="./uploaded_files/1384263735Tue112013.png" alt="Handset Discount Offer" title="Handset Discount Offer" border="0"></div>
@@ -167,14 +1169,6 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                                                     	<div class="lk-lp-outer">
                                             	<div class="lk-lp-img"><img src="./uploaded_files/1380872689Fri102013.jpg" alt="Postpaid High Value" title="Postpaid High Value" border="0"></div>
                                                 <div class="lk-lp-link"><a href="./postpaid/premium-plus.php" title="Postpaid High Value">Postpaid High Value</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1379496059Wed092013.jpg" alt="Hajj Offer" title="Hajj Offer" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/hajj-offer.php" title="Hajj Offer">Hajj Offer</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1374825443Fri072013.jpg" alt="Half &amp; Half" title="Half &amp; Half" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./postpaid/half-n-half.php" title="Half &amp; Half">Half &amp; Half</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
                                             	<div class="lk-lp-img"><img src="./uploaded_files/1373449111Wed072013.jpg" alt="BlackBerry Q10" title="BlackBerry Q10" border="0"></div>
@@ -191,6 +1185,10 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                                                     	<div class="lk-lp-outer">
                                             	<div class="lk-lp-img"><img src="./uploaded_files/1366806190Wed042013.jpg" alt="Online Bill Payment" title="Online Bill Payment" border="0"></div>
                                                 <div class="lk-lp-link"><a href="./postpaid/bill_payment_via_online.php" title="Online Bill Payment">Online Bill Payment</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878292Thu052012.png" alt="Postpaid Tariff" title="Postpaid Tariff" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/tariff.php" title="Postpaid Tariff">Postpaid Tariff</a></div>
                                             </div>            	
                                                     </div>
                                         <div class="droop-top-right">
@@ -299,16 +1297,8 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                                                 <div class="lk-lp-link"><a href="./prepaid/tariff.php" title="PREPAID TARIFF">PREPAID TARIFF</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1385733842Fri112013.png" alt="Crore Nagar Offer" title="Crore Nagar Offer" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/crore-nagar-offer.php" title="Crore Nagar Offer">Crore Nagar Offer</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1383746077Wed112013.png" alt="Unlimited Sundays" title="Unlimited Sundays" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/sunday-unlimited-offer.php" title="Unlimited Sundays">Unlimited Sundays</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1379496304Wed092013.jpg" alt="Hajj Offer" title="Hajj Offer" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./prepaid/hajj-offer.php" title="Hajj Offer">Hajj Offer</a></div>
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1399556194Thu052014.png" alt="Prepaid Call Details" title="Prepaid Call Details" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/prepaid-call-details.php" title="Prepaid Call Details">Prepaid Call Details</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
                                             	<div class="lk-lp-img"><img src="./uploaded_files/1377328441Sat082013.png" alt="Unlimited FaceBook &amp; WhatsApp!" title="Unlimited FaceBook &amp; WhatsApp!" border="0"></div>
@@ -334,9 +1324,7 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                                             	<div class="lk-lp-img"><img src="./uploaded_files/1368617695Wed052013.jpg" alt="IDD India &amp; Bangladesh" title="IDD India &amp; Bangladesh" border="0"></div>
                                                 <div class="lk-lp-link"><a href="./prepaid/international-calling-offer.php" title="IDD India &amp; Bangladesh">IDD India &amp; Bangladesh</a></div>
                                             </div>            	
-                                                    </div>
-                                        <div class="droop-top-right">
-                                        	                                        	<div class="lk-lp-outer">
+                                                    	<div class="lk-lp-outer">
                                             	<div class="lk-lp-img"><img src="./uploaded_files/1366806222Wed042013.jpg" alt="Online Prepaid Top up" title="Online Prepaid Top up" border="0"></div>
                                                 <div class="lk-lp-link"><a href="./prepaid/bill_payment_via_online.php" title="Online Prepaid Top up">Online Prepaid Top up</a></div>
                                             </div>            	
@@ -344,7 +1332,9 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                                             	<div class="lk-lp-img"><img src="./uploaded_files/1363324193Fri032013.jpg" alt="International Dialing Offer" title="International Dialing Offer" border="0"></div>
                                                 <div class="lk-lp-link"><a href="./prepaid/international-dialing-offer.php" title="International Dialing Offer">International Dialing Offer</a></div>
                                             </div>            	
-                                                    	<div class="lk-lp-outer">
+                                                    </div>
+                                        <div class="droop-top-right">
+                                        	                                        	<div class="lk-lp-outer">
                                             	<div class="lk-lp-img"><img src="./uploaded_files/1350085282Fri102012.jpg" alt="Apna Sheher" title="Apna Sheher" border="0"></div>
                                                 <div class="lk-lp-link"><a href="./prepaid/apna_sheher.php" title="Apna Sheher">Apna Sheher</a></div>
                                             </div>            	
@@ -376,6 +1366,14 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                                             	<div class="lk-lp-img"><img src="./uploaded_files/1337878621Thu052012.png" alt="Hourly Package" title="Hourly Package" border="0"></div>
                                                 <div class="lk-lp-link"><a href="./prepaid/hourly_package.php" title="Hourly Package">Hourly Package</a></div>
                                             </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878581Thu052012.png" alt="Crazy Nites" title="Crazy Nites" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/crazy_nites.php" title="Crazy Nites">Crazy Nites</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337890109Thu052012.png" alt="IR Tariff Sheet" title="IR Tariff Sheet" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/ir/prepaid_tariffs.php" title="IR Tariff Sheet">IR Tariff Sheet</a></div>
+                                            </div>            	
                                                     </div>
                                     </div>
                                     <div class="droop-bottom-port">
@@ -388,7 +1386,10 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                     
                     <li id="glow" class="goBlur"> 
                         <a href="http://glow.net.pk" id="fly102_fly" class="m flydown" target="_blank">GLOW</a><br> 
-                    </li>         
+                    </li> 
+					<li class="goBlur" id="whatsnew" style="margin-left: 15px;">
+                        <a href="http://mobilepaisa.com.pk/" target="_blank" id="fly102_fly" class="m flydown">MOBILE PAISA</a><br> 
+                    </li>        
                                 
                     <li id="pserv" class="goBlur drop3" style="margin-left: 7px;"> 
                         <a href="./products/index.php" id="fly101_fly" class="m flydown">PRODUCTS &amp; SERVICES</a><br> 
@@ -398,6 +1399,76 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                                 	<div class="droop-top-port-wpost">
                                     	<div class="droop-top-left">
                                         	                                        	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1403157210Thu062014.png" alt="SMS Supreme" title="SMS Supreme" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/sms-supreme.php" title="SMS Supreme">SMS Supreme</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1369836049Wed052013.jpg" alt="Warid Football Club" title="Warid Football Club" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/warid-football-club.php" title="Warid Football Club">Warid Football Club</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1401363125Thu052014.png" alt=" Warid Sim Wapas Lagao" title=" Warid Sim Wapas Lagao" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/sim-wapas-lagao.php" title=" Warid Sim Wapas Lagao"> Warid Sim Wapas Lagao</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1401347850Thu052014.png" alt="Jhat Patt Bill" title="Jhat Patt Bill" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/jhat-patt-bill.php" title="Jhat Patt Bill">Jhat Patt Bill</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1400845707Fri052014.png" alt="Doctors Helpline" title="Doctors Helpline" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/doctors-helpline.php" title="Doctors Helpline">Doctors Helpline</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1398438179Fri042014.png" alt="Maal Dhamaal 2" title="Maal Dhamaal 2" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./maaldhamaal2/index.php" title="Maal Dhamaal 2">Maal Dhamaal 2</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1398316493Thu042014.png" alt="Warid IQ Test" title="Warid IQ Test" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/iq-test.php" title="Warid IQ Test">Warid IQ Test</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1397052053Wed042014.png" alt=" Surprise Promo" title=" Surprise Promo" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/surprise-bonus.php" title=" Surprise Promo"> Surprise Promo</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1396531828Thu042014.png" alt="Warid Voiler" title="Warid Voiler" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/warid-voiler.php" title="Warid Voiler">Warid Voiler</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1395293757Thu032014.png" alt="Warid Cricket Alerts" title="Warid Cricket Alerts" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./cricket/index.php" title="Warid Cricket Alerts">Warid Cricket Alerts</a></div>
+                                            </div>            	
+                                                    </div>
+                                        <div class="droop-top-right">
+                                        	                                        	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1393913554Tue032014.png" alt="Language Learner " title="Language Learner " border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/language-learner.php" title="Language Learner ">Language Learner </a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1392641017Mon022014.png" alt="Prize Bond Informer" title="Prize Bond Informer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/prize-bond-informer.php" title="Prize Bond Informer">Prize Bond Informer</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1392358131Fri022014.png" alt=" Warid Virtual Stocks" title=" Warid Virtual Stocks" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/virtual-stocks.php" title=" Warid Virtual Stocks"> Warid Virtual Stocks</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1392299790Thu022014.png" alt="Valentine Promo" title="Valentine Promo" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/valentine-promo.php" title="Valentine Promo">Valentine Promo</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1390219955Mon012014.png" alt="Warid Name Tune" title="Warid Name Tune" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/warid-name-tune.php" title="Warid Name Tune">Warid Name Tune</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1389268813Thu012014.png" alt="Vocabulary Builder" title="Vocabulary Builder" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/vocabulary-builder.php" title="Vocabulary Builder">Vocabulary Builder</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1387553392Fri122013.png" alt="Start Stop Service" title="Start Stop Service" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/start-stop-service.php" title="Start Stop Service">Start Stop Service</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
                                             	<div class="lk-lp-img"><img src="./uploaded_files/1385533107Wed112013.png" alt="Facebook Awaz" title="Facebook Awaz" border="0"></div>
                                                 <div class="lk-lp-link"><a href="./products/facebook-awaz.php" title="Facebook Awaz">Facebook Awaz</a></div>
                                             </div>            	
@@ -406,14 +1477,12 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                                                 <div class="lk-lp-link"><a href="./products/mobile-backup.php" title="Mobile Backup">Mobile Backup</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879244Thu052012.png" alt="Mobile Internet  Buckets" title="Mobile Internet  Buckets" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/unlimited_internet_bucket.php" title="Mobile Internet  Buckets">Mobile Internet  Buckets</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
                                             	<div class="lk-lp-img"><img src="./uploaded_files/1383283222Fri112013.jpg" alt="SMS Based Number Reservation" title="SMS Based Number Reservation" border="0"></div>
                                                 <div class="lk-lp-link"><a href="./products/sms-based-number.php" title="SMS Based Number Reservation">SMS Based Number Reservation</a></div>
                                             </div>            	
-                                                    	<div class="lk-lp-outer">
+                                                    </div>
+                                        <div class="droop-top-right">
+                                        	                                        	<div class="lk-lp-outer">
                                             	<div class="lk-lp-img"><img src="./uploaded_files/1383205801Thu102013.jpg" alt="Intro Me" title="Intro Me" border="0"></div>
                                                 <div class="lk-lp-link"><a href="./products/intro-me.php" title="Intro Me">Intro Me</a></div>
                                             </div>            	
@@ -426,20 +1495,6 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                                                 <div class="lk-lp-link"><a href="./products/help-me.php" title="Help Me">Help Me</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1379005488Thu092013.jpg" alt="Shaadi Portal" title="Shaadi Portal" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/shaadi-portal.php" title="Shaadi Portal">Shaadi Portal</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1378804819Tue092013.jpg" alt="Back to fun" title="Back to fun" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/back-to-fun.php" title="Back to fun">Back to fun</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1379504288Wed092013.jpg" alt="Warid Career Portal" title="Warid Career Portal" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./careers/" title="Warid Career Portal">Warid Career Portal</a></div>
-                                            </div>            	
-                                                    </div>
-                                        <div class="droop-top-right">
-                                        	                                        	<div class="lk-lp-outer">
                                             	<div class="lk-lp-img"><img src="./uploaded_files/1379684834Fri092013.jpg" alt="Warid Kissan Line" title="Warid Kissan Line" border="0"></div>
                                                 <div class="lk-lp-link"><a href="./products/kissan-line.php" title="Warid Kissan Line">Warid Kissan Line</a></div>
                                             </div>            	
@@ -448,78 +1503,24 @@ document.getElementById("floats").lastChild.style.width="19.5%";
                                                 <div class="lk-lp-link"><a href="./products/handset.php" title="Warid Handset Offer">Warid Handset Offer</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1376979013Tue082013.jpg" alt="Ladies Portal" title="Ladies Portal" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/ladies-portal.php" title="Ladies Portal">Ladies Portal</a></div>
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1379504288Wed092013.jpg" alt="Warid Career Portal" title="Warid Career Portal" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./careers/" title="Warid Career Portal">Warid Career Portal</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1379005488Thu092013.jpg" alt="Shaadi Portal" title="Shaadi Portal" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/shaadi-portal.php" title="Shaadi Portal">Shaadi Portal</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1378804819Tue092013.jpg" alt="Back to fun" title="Back to fun" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/back-to-fun.php" title="Back to fun">Back to fun</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
                                             	<div class="lk-lp-img"><img src="./uploaded_files/1378452850Fri092013.jpg" alt="Background Music" title="Background Music" border="0"></div>
                                                 <div class="lk-lp-link"><a href="./products/background-music.php" title="Background Music">Background Music</a></div>
                                             </div>            	
                                                     	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1357908126Fri012013.jpg" alt="Warid Mobile Apps" title="Warid Mobile Apps" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/apps.php" title="Warid Mobile Apps">Warid Mobile Apps</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1375871095Wed082013.jpg" alt="Warid Live" title="Warid Live" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/warid-live.php" title="Warid Live">Warid Live</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1375435568Fri082013.jpg" alt="Warid Poocho Sab Kuch" title="Warid Poocho Sab Kuch" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/warid-poocho-sab-kuch.php" title="Warid Poocho Sab Kuch">Warid Poocho Sab Kuch</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1369820601Wed052013.jpg" alt="Biz Store" title="Biz Store" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/bizstore.php" title="Biz Store">Biz Store</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1372851596Wed072013.jpg" alt="Warid Youth Portal" title="Warid Youth Portal" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/youth-portal.php" title="Warid Youth Portal">Warid Youth Portal</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1372767635Tue072013.jpg" alt="SMS Delivery Reports" title="SMS Delivery Reports" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/sms-delivery-reports.php" title="SMS Delivery Reports">SMS Delivery Reports</a></div>
-                                            </div>            	
-                                                    </div>
-                                        <div class="droop-top-right">
-                                        	                                        	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1371453052Mon062013.jpg" alt="Bill Payment and TopUp via ATM" title="Bill Payment and TopUp via ATM" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/bill_payment_via_atm.php" title="Bill Payment and TopUp via ATM">Bill Payment and TopUp via ATM</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1370582774Fri062013.jpg" alt="Warid Radio Station" title="Warid Radio Station" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/warid-radio-station.php" title="Warid Radio Station">Warid Radio Station</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1369836049Wed052013.jpg" alt="Warid Football Club" title="Warid Football Club" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/warid-football-club.php" title="Warid Football Club">Warid Football Club</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1369631372Mon052013.jpg" alt="Unblock Me" title="Unblock Me" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/unblock-me.php" title="Unblock Me">Unblock Me</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1370257701Mon062013.jpg" alt="Warid Cricket Alerts" title="Warid Cricket Alerts" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./cricket/" title="Warid Cricket Alerts">Warid Cricket Alerts</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1369395803Fri052013.jpg" alt="Collect Call and SMS" title="Collect Call and SMS" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/collect-call-and-sms.php" title="Collect Call and SMS">Collect Call and SMS</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1368035486Wed052013.jpg" alt="Dosti Unlimited Offer" title="Dosti Unlimited Offer" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/dosti-unlimited.php" title="Dosti Unlimited Offer">Dosti Unlimited Offer</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1373287543Mon072013.jpg" alt="New Maal Dhamaal Bundle" title="New Maal Dhamaal Bundle" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./md/" title="New Maal Dhamaal Bundle">New Maal Dhamaal Bundle</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1365949396Sun042013.jpg" alt=" Old Maal Dhamaal Bundle" title=" Old Maal Dhamaal Bundle" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/maal_dhamaal.php" title=" Old Maal Dhamaal Bundle"> Old Maal Dhamaal Bundle</a></div>
-                                            </div>            	
-                                                    	<div class="lk-lp-outer">
-                                            	<div class="lk-lp-img"><img src="./uploaded_files/1365409591Mon042013.jpg" alt="Balance Share" title="Balance Share" border="0"></div>
-                                                <div class="lk-lp-link"><a href="./products/balance_share/index.php" title="Balance Share">Balance Share</a></div>
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1376979013Tue082013.jpg" alt="Ladies Portal" title="Ladies Portal" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/ladies-portal.php" title="Ladies Portal">Ladies Portal</a></div>
                                             </div>            	
                                                     </div>
                                     </div>
@@ -621,7 +1622,31 @@ $().ready(function() {
     										</li>
                                         </ul>
                                     </li>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
                                 										                                        <li>
+                                            <ul class="nodroopul">
+                                            	<li class="nodroop">
+            <a href="./cs/gprs-mms-settings.php" title="GPRS - MMS Settings" class="">GPRS - MMS Settings</a>
+        </li>
+                                            </ul>
+                                        </li>
+                                        										                                        <li>
+                                            <ul class="nodroopul">
+                                            	<li class="nodroop">
+            <a href="./cs/ivr-100.php" title="IVR 100" class="">IVR 100</a>
+        </li>
+                                            </ul>
+                                        </li>
+                                        										                                        <li>
                                             <ul class="nodroopul">
                                             	<li class="nodroop">
             <a href="./cs/online-sim.php" title="Reserve Sim Online" class="">Reserve Sim Online</a>
@@ -773,9 +1798,9 @@ $().ready(function() {
                 <!--Footer Start-->
                 <div id="footer-main">
                     <div id="footer-links">                    
-                    	<a href="./">Home</a> | <a href="http://careers.waridtel.com/" target="_blank">Careers</a> | <a href="./fraud.php">Avoid Fraud</a> <!--| <a href="./sitemap.php">Site Map</a>--> | <a href="./about/media">Media Center</a> | <a href="./privacy_policy.php">Privacy Policy</a> | <a href="./about/media/contactus.php">Contact Us</a> | <a href="./cs/Consumer%20Manual%20Ver.005F201212.pdf">Consumer Manual</a> </div>
+                    	<a href="./">Home</a> | <a href="http://careers.waridtel.com/" target="_blank">Careers</a> | <a href="./fraud.php">Avoid Fraud</a> <!--| <a href="./sitemap.php">Site Map</a>--> | <a href="./about/media">Media Center</a> | <a href="./privacy_policy.php">Privacy Policy</a> | <a href="./about/media/contactus.php">Contact Us</a> | <a href="./cs/Consumer-Manual-Ver005F201212.pdf">Consumer Manual</a> </div>
                     <div id="copyright">
-                    	Copyright 2013, Warid Telecom (Pvt) Limited. All rights reserved
+                    	Copyright 2014, Warid Telecom (Pvt) Limited. All rights reserved
                     </div>
                 </div>
 
