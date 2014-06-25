@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalora.com.ph privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217101227id_/http%3A//www.zalora.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.com.ph privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625162215id_/http%3A//www.zalora.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -66,6 +66,10 @@ When you visit ZALORA, our company servers will automatically record information
 \- The time spent on those pages, items and information searched for on our site, access times and dates, and other statistics.
 
 This information is collected for analysis and evaluation in order to help us improve our site and the services and products we provide. This data will not be used in association with any other personal information. 
+
+As part of the above, ZALORA may use Google Analytics features based on Display Advertising, including but not restricted to the following: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting. Using the Google Ads Settings (https://www.google.com/settings/ads), you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+
+ZALORA also uses Remarketing with Google Analytics to advertise online; third-party vendors, including Google, may show ZALORA ads on sites across the Internet. ZALORA and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitors’ past visits to ZALORA, as well as report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to ZALORA.
 
 **Changes to the Privacy Policy**  
 ZALORA reserves the right to modify and change the Privacy Statement at any time. Any changes to this policy will be published on our site. 
