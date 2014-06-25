@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430011753id_/http%3A//www.eurojobs.com/en/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044101id_/http%3A//www.eurojobs.com/privacy) for the most accurate reproduction.*
 
-# Eurojobs.com - Job opportunities in Europe, Find jobs in Europe, International jobs, Employment opportunities
+# Eurojobs.com: Privacy
 
-### We Protect Your Right to Privacy
+### Eurojobs.com Privacy Policy
+
+We Protect Your Right to Privacy
 
 Eurojobs.com is vigilant about protecting your privacy. As a European job board, we understand better than most the need for you to maintain control over your personal data when using the Internet. We maintain your privacy through the enforcement of strict internal polices that exceed industry standards. We try to be as transparent as possible, so you can always see and act upon what is being done with your data. Our guidelines for protecting the information you provide us during a visit to our Web site appear below.
 
@@ -90,8 +92,6 @@ We also use or allow third parties to serve cookies that fall into the four cate
 
 As we’ve explained above, cookies help you to get the most out of our websites.
 
-The first time you accessed our website after 27 June 2012, you should have seen an overlay which explained that by continuing to access our site, you are consenting to our use of cookies.
-
 Please remember that if you do choose to disable cookies, you may find that certain sections of our website do not work properly.
 
 #### Do we track whether users open our emails?
@@ -113,7 +113,7 @@ If you have any queries regarding this Cookie Policy please contact our Privacy 
     Bosley
     Macclesfield SK11 0PX
     United Kingdom
-    Tel: +44 (0)20 33724781
+    Tel: +44 (0)20 3372 4781
     info@eurojobs.com
 
 ### Information Security
@@ -124,4 +124,4 @@ All information gathered on the Eurojobs.com site is stored and maintained in se
 
 If we change our privacy policy, we will post a notice on our site so our users are aware of the change in what information we collect, how we use it, and/or under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users through a message on the site. Users may choose to have their information used in accordance with the privacy policy under which the information was collected.
 
-This document was last updated on 27 August 2012.
+This document was last updated on 10 March 2014.
