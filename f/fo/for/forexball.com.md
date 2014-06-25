@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forexball.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602025545id_/http%3A//forexball.com/index/page/content/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexball.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012217id_/http%3A//forexball.com/index/page/content/policy) for the most accurate reproduction.*
 
-# Privacy Policy - ForexBall
+# Adatvédelmi Nyilatkozat - ForexBall
 
 * * *
 
@@ -12,36 +12,34 @@ AM may change this policy from time to time by updating this page. You should ch
 
 * * *
 
-## What AM collects
+##  What AM collects
 
 AM only collects personal data when you knowingly provide it to AM, this information may include:  
 • Your name  
 • Contact information including email address, phone number and address  
 • Demographic information such as postcode, preferences and interests  
 • Employment and income details  
-• Other information relevant to customer surveys and/or offers  
-
+• Other information relevant to customer surveys and/or offers
 
 * * *
 
-## What AM does with the information gathered
+##  What AM does with the information gathered
 
 AM requires this information to understand your needs and to provide you with a better service, and in particular for the following reasons:  
 • Internal record keeping.  
 • AM may use the information to improve our products and services.  
 • AM may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.  
-• From time to time, AM may also use your information to contact you for marketing purposes. AM may contact you by email, phone, fax or mail.  
-
+• From time to time, AM may also use your information to contact you for marketing purposes. AM may contact you by email, phone, fax or mail.
 
 * * *
 
-## Security
+##  Security
 
 AM is committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. All of the personal information collected from you on the site, including names, addresses, are stored behind a "firewall".
 
 * * *
 
-## How AM uses cookies
+##  How AM uses cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -53,13 +51,13 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 * * *
 
-## Links to other websites
+##  Links to other websites
 
 AM’s website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that AM does not have any control over that other website. Therefore, AM cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 * * *
 
-## Controlling your personal information
+##  Controlling your personal information
 
 If you have previously agreed to AM using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing at [support@admiralmarkets.com](mailto:support@admiralmarkets.com)
 
@@ -70,4 +68,4 @@ If you believe that any information AM is holding on you is incorrect or incompl
 Admiral Markets  
 Ahtri 6A (Admiral House), 5th floor  
 Tallinn 10151  
-Estonia 
+Estonia
