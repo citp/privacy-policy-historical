@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yoganonymous.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429203954id_/http%3A//www.yoganonymous.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoganonymous.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110028id_/http%3A//yoganonymous.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | YOGANONYMOUS
+# Privacy Policy - YOGANONYMOUS
+
+## Privacy Policy
 
 **Privacy Statement**
 
@@ -94,5 +96,3 @@ In Internet Explorer, you can refuse all cookies by clicking “Tools”, “Int
 In Firefox, you can adjust your cookies settings by clicking “Tools”, “Options” and “Privacy”.
 
 Blocking cookies will have a negative impact upon the usability of some websites.
-
-[](http://www.wanderlustfestival.com/?utm_campaign=Summer_OnSale&utm_medium=banner&utm_source=YNON)
