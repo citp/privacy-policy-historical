@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asaecenter.org privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226140349id_/http%3A//www.asaecenter.org/content.cfm%3FItemNumber%3D8088%26navItemNumber%3D16215) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asaecenter.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053852id_/http%3A//www.asaecenter.org/content.cfm%3FItemNumber%3D8088%26navItemNumber%3D16215) for the most accurate reproduction.*
 
 # Privacy Notice - ASAE
 
