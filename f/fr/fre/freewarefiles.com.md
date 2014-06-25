@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the freewarefiles.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015172307id_/http%3A//www.freewarefiles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewarefiles.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040438id_/http%3A//www.freewarefiles.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Freeware Files.com
 
-  
 FreewareFiles.com is aware of the importance in protecting the privacy of information provided by its users. Information is never collected from our visitors without their prior knowledge and consent. This Privacy Policy summarizes how we handle that information. 
 
 **Information FreewareFiles.com Collects**
