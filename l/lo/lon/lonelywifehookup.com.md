@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lonelywifehookup.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812221646id_/http%3A//www.lonelywifehookup.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonelywifehookup.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122437id_/http%3A//www.lonelywifehookup.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds22) for the most accurate reproduction.*
 
 # Lonely Housewife Sex - Local Cheating Housewife at LonelyWifeHookup
-
-**Over 1 Million Sex Starved Wives**
 
 **OUR WEB SITE PRIVACY POLICY**
 
@@ -12,7 +10,7 @@ We have created this Privacy Policy in order to demonstrate our firm commitment 
 
 **WHAT TYPE INFORMATION IS COLLECTED?**   
 **Personal Information**   
-We only collect personal information from visitors to our Web site when they voluntarily provide it to us by completing our registration form or electing to use one of our services. We may require visitors to provide us with information including, but not limited to, their name, physical address, email address, birth date, credit card number, credit card expiration date, username, password, and on occasion a unique identifier (such as their mother's maiden name). Credit Card information is not stored or collected by us; rather by the payment processing company identified on the join page and transmitted via Secure Socket Layer technology. Your credit card information is NEVER shared. 
+We only collect personal information from visitors to our Web site when they voluntarily provide it to us by completing our registration form or electing to use one of our services. We may require visitors to provide us with additional information to verify their identity to assist in the event of a lost user name or password (such as mother's maiden name). Credit Card information is not stored or collected by us; rather this information is collected by the payment processing company identified on the join page and transmitted via Secure Socket Layer technology. Your credit card information is NEVER known to us and cannot be shared by us. 
 
 **Non-Personal Information**   
 When visitors access our Web site, certain non-personal information may be collected from them including, but not limited to, their browser type (e.g., Chrome or Internet Explorer), operating system (e.g., Windows or Macintosh), IP address, and the domain name from which they accessed the site (e.g., google). In addition, we may collect information about visitors' browsing behavior, such as the date and time they visit the Web site, the areas or pages of our Web site that they visit, the amount of time spent viewing the site, the number of times the visitor returns to the site, and click-stream data. We use transparent tracking pixels to determine the number of Web site visitors that have been sent to us through our affiliate network. We do not track any information about visitors once they leave our site. We may use cookies (small text files that are stored on visitors computers when they access our Web site) to collect this information. Information collected through cookies may be combined with visitors' personal information. We may also allow unaffiliated third parties, such as advertisers, to serve cookies to visitors of our Web site. Visitors are always free to decline cookies, but in doing so they may not be able to use certain features on our Web site. The "help" segment of the toolbar on most browsers explains how to configure a browser to not accept new cookies, how to have the browser inform a user when they receive a new cookie, and how to erase cookies from their hard drives. 
@@ -46,4 +44,15 @@ You can cancel your subscription online by visiting the Customer Service section
 Visitors who wish to access or change the information they provided to our Web site, should visit the Customer Service section of this site and contact us via Email. 
 
 **HOW CAN YOU CONTACT THE WEB SITE OPERATOR?**   
-Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via Email.
+Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via Email. 
+
+LonelyWifeHookup.com - Find the good wife in your city that is part of those mature women that is horny and ready for sex. Locate a hot wife or feel a nude wife in your bed. You will be happy knowing that the hot MILF you have watched down the street has her husband telling you "fuck my wife". Yes its true that many mature ladies are also ready for fast sex action. We can say they are cheating wives but really they are just swingers that want to satisfy there hot desires. So start today and meet a real local horny wife! Create your free profile and start browsing thousands of lonely wives & hookup for sex tonight! 
+
+  * © 2014 LonelyWifeHookup.com - All Rights Reserved - 
+  * [**Member Login**](https://web.archive.org/web/20140625122437id_/http%3A//www.lonelywifehookup.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds22?wm_login=admin&ps=s&page=login&from=s22)
+  * | [Customer Service](http://datingsitesupport.com/)
+  * | [Terms of Service](https://web.archive.org/web/20140625122437id_/http%3A//www.lonelywifehookup.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds22?wm_login=admin&ps=s&page=terms&from=s22)
+  * | [Privacy Policy](https://web.archive.org/web/20140625122437id_/http%3A//www.lonelywifehookup.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds22?wm_login=admin&ps=s&page=pp&from=s22)
+  * | [18 U.S.C. 2257 Record-keeping Requirements](https://web.archive.org/web/20140625122437id_/http%3A//www.lonelywifehookup.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds22?wm_login=admin&ps=s&page=2257&from=s22)
+
+
