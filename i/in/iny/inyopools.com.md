@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inyopools.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810070832id_/http%3A//www.inyopools.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inyopools.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015216id_/http%3A//www.inyopools.com/privacy.aspx) for the most accurate reproduction.*
 
 # INYO Pools Privacy Policy - INYOPools.com
 
@@ -61,6 +61,3 @@ In the event that another company acquires Inyo Pool Products Inc. or all or par
 ###### Amendments to Privacy Policy
 
 Inyo Pool Products Inc. reserves the right to amend this Privacy Policy periodically. Use of Information that Inyo Pool Products Inc. gathers now is subject to the Privacy Policy in effect at the time the Information is used. Any amendments made to this Privacy Policy will be considered effective ten (10) days after the amendments are posted on the Site.
-
-  
-
