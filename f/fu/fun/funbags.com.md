@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funbags.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907040539id_/http%3A//www.funbags.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funbags.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083222id_/http%3A//www.funbags.com/privacy.html) for the most accurate reproduction.*
 
 # FunBags.com
 
