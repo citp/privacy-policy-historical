@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the niftylivecharts.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010100104id_/http%3A//niftylivecharts.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niftylivecharts.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065130id_/http%3A//niftylivecharts.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - niftyLiveCharts.com
 
-Join BankNifty Package for 3 Months @ Rs 14,200 and Get Guaranteed Profit of 60%. Limited time offer. Call 9899555993 to know more
-
-By Accessing this site you agree to our Terms & conditions and Disclaimer Copyright © 2008 - 2015 NiftyLivecharts.com    
-[Cancellation/Refund](https://web.archive.org/web/20131010100104id_/http%3A//niftylivecharts.com/Cancellation-and-Refund.html) |  [Privacy Policy](https://web.archive.org/web/20131010100104id_/http%3A//niftylivecharts.com/privacy-policy.html) | [Terms &](https://web.archive.org/web/20131010100104id_/http%3A//niftylivecharts.com/terms-and-conditions.html)[ condition](https://web.archive.org/web/20131010100104id_/http%3A//niftylivecharts.com/terms-and-conditions.html) | [Disclaimer](https://web.archive.org/web/20131010100104id_/http%3A//niftylivecharts.com/disclaimer.html)  
-Office Address : 227 - 228 RG MALL Sector 9 Rohini New Delhi 110085
+Get Guaranteed 60% Profit in BankNifty - Charges Rs 14,200 - Time Frame 3 Months. Limited time offer. Call 9899555993
 
 Our Privacy Policy ( niftyLiveCharts.com)  
 NiftyLiveCharts.com Advisory Services (“NiftyLiveCharts.com”) is committed to safeguard our clients and subscribers privacy online. Our Privacy policy is explained below. we deserve the rights to change the Policy periodically or whenever needed.
@@ -42,4 +38,6 @@ Unfortunately, no data transmission over the Internet or any wireless network ca
 Please keep in mind that whenever you voluntarily disclose personal information online. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.  
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account or personal information. Please be careful and responsible whenever you’re online.
 
-**Get 60% Assured Return in 3 Months in BankNifty Tips. Limited time offer. Call 9899555993 - 01147010987 to know more.**
+By Accessing this site you agree to our Terms & conditions and Disclaimer Copyright © 2008 - 2015 NiftyLivecharts.com    
+[Cancellation/Refund](https://web.archive.org/web/20140625065130id_/http%3A//niftylivecharts.com/Cancellation-and-Refund.php) |  [Privacy Policy](https://web.archive.org/web/20140625065130id_/http%3A//niftylivecharts.com/privacy-policy.php) | [Terms &](https://web.archive.org/web/20140625065130id_/http%3A//niftylivecharts.com/terms-and-conditions.php)[ condition](https://web.archive.org/web/20140625065130id_/http%3A//niftylivecharts.com/terms-and-conditions.php) | [Disclaimer](https://web.archive.org/web/20140625065130id_/http%3A//niftylivecharts.com/disclaimer.php)  
+Office Address : RG MALL Sector 9 Rohini New Delhi 110085
