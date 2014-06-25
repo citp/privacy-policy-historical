@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the marapets.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222023340id_/http%3A//www.marapets.com/info.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marapets.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100432id_/http%3A//www.marapets.com/info.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
 # Mara Pets Games - Free Virtual Pet Site, Online Games & Dress Up Games
 
+  
 To ensure this website is a safe and fun place for all we ensure that all online information is secure at all times. The site has a large number of online child players and therefore we take care to make sure that the content of the site is always safe for them. Any information gathered from you through this website will never be disclosed to any third party. This is includes Marapets staff, as all personal information is kept hidden from staff. 
 
 Children under the age of 13 do not disclose any personal information about themselves. They are not even asked of an email address, just simply a username, password and their gender, so that they can be uniquely identified in the game of Marapets. These are only used for them to keep their account on the site secure. ALL information can be removed as requested at any time, simply open a Support Ticket via the Contact Us link at the bottom of every page, and a staff member will do so. 
 
 Marapets asks users 13 years and older to provide a valid first (and optional last name), valid e-mail address, birth date, gender, and country of location. All users can change or remove their information upon registration. 
 
-Children under 13 can only have their accounts changed to an over 13 account upon the request of their parents, informing us that they have permission to do so. In such a case, the parents need to print out a Parental Consent form ([ **click here**](https://web.archive.org/web/20131222023340id_/http%3A//www.marapets.com/coppa.html)) and fill it in. They can then scan it and email to marapets@gmail.com or fax it (fax number coming soon). 
+Children under 13 can only have their accounts changed to an over 13 account upon the request of their parents, informing us that they have permission to do so. In such a case, the parents need to print out a Parental Consent form ([ **click here**](https://web.archive.org/web/20140625100432id_/http%3A//www.marapets.com/coppa.html)) and fill it in. They can then scan it and email to marapets@gmail.com or fax it (fax number coming soon). 
 
 All information we collect and store is for gaming purposes only. Personal information of those 13 and over are, your email address for you to recover your password, your gender to identify you at the forums, date of birth to track which age groups use the site, your ip address to stop cheating with multiple accounts. 
 
