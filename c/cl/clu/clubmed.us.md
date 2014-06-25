@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubmed.us privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624003150id_/http%3A//www.clubmed.us/cm/privacy-policy_p-115-l-US-pa-CONFIDENTIALITE_115US-ac-ad.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubmed.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054114id_/http%3A//www.clubmed.us/cm/privacy-policy_p-115-l-US-pa-CONFIDENTIALITE_115US-ac-ad.html) for the most accurate reproduction.*
 
 # 
 
@@ -28,7 +28,7 @@ A visitor providing information through this site may delete personal informatio
 **Does this site use cookies?**  
 This site does not currently use cookies.
 
-**Will information collected by this site be used to send email messages or direct mail?**
+ **Will information collected by this site be used to send email messages or direct mail?**
 
 Yes, but only as directed by users who have specifically requested information.
 
