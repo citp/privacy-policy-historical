@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraftservers.org privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127100725id_/http%3A//minecraftservers.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftservers.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060855id_/http%3A//minecraftservers.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Minecraft Servers
 
