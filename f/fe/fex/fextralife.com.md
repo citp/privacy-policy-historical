@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fextralife.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121044335id_/http%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fextralife.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063631id_/http%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Fextralife
 
@@ -16,7 +16,7 @@ We may collect, store and use the following kinds of personal information:
 
 (a)    information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, website navigation.
 
-(b)    information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services (including [ _details_ ]);] 
+(b)    information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services
 
 (c)    information that you provide to us for the purpose of registering with us. You may chose to not reveal this information.
 
@@ -56,9 +56,9 @@ We may use your personal information to:
 
 (c)     enable your use of the services available on the website;
 
-(g)    send you email notifications which you have specifically requested;
+(g)    send you email notifications which you have specifically requested or send you post items of sweepstakes winnings;
 
-(h)    send you our newsletter and other marketing communications relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (and you can inform us at any time if you no longer require marketing communications);
+(h)    send you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (and you can inform us at any time if you no longer require marketing communications);
 
 (i)     provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
 
@@ -66,7 +66,7 @@ We may use your personal information to:
 
 (k)    keep the website secure and prevent fraud;
 
-(l)     verify compliance with the terms and conditions governing the use of the website [(including monitoring private messages sent through our website private messaging service).
+(l)     verify compliance with the terms and conditions governing the use of the website (including monitoring private messages sent through our website private messaging service).
 
 Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.
 
