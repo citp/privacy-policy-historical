@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the greencarreports.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207161932id_/http%3A//www.highgearmedia.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greencarreports.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221606id_/http%3A//www.highgearmedia.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | High Gear Media
 
 Effective Date: May 30, 2012
 
-Thank you for your interest in this website’s services and privacy information. This privacy policy applies to all websites within the [High Gear Media Network](http://www.highgearmedia.com/oursites/). Because the network sites share a common platform and registration system, the information that you provide on one site may be used when you visit any other site within the network.
+Thank you for your interest in this website’s services and privacy information. This privacy policy applies to all websites within the High Gear Media Network. Because the network sites share a common platform and registration system, the information that you provide on one site may be used when you visit any other site within the network.
 
 This privacy policy does not apply to information that you choose to publicly post to or display on the site. Please note that you grant us a license to all publicly-posted content and it can be syndicated to other sites and content partners.
 
@@ -69,25 +69,25 @@ We, our advertisers, and our third party advertising companies may use informati
 You can also learn more about specific companies we may allow to place cookies on our site and their policies regarding use of that data and advertising targeting by visiting the following additional links:
 
   * Tacoda/Platform-A:  
-<http://advertising.aol.com/privacy-policy/tacoda>[  
-](http://advertising.aol.com/privacy-policy/tacoda)
-  * Audience Science:  
-<http://audiencescience.com/privacy.asp>[  
-](http://audiencescience.com/privacy.asp)
+<http://advertising.aol.com/privacy-policy/tacoda>
   * Google  
 <http://www.google.com/privacy/ads/>
-
-
-  * Yahoo!  
-<http://info.yahoo.com/privacy/us/yahoo/details.html>
-  * Kontera  
-<http://www.kontera.com/em-privacy-policy>
   * Specific Media  
 <http://www.specificmedia.com/privacy>
-  * Chitika  
-<http://chitika.com/privacy>
   * Exelate  
-[What about cookies?](http://exelate.com/consumer-opt-out/%3C/a%3E%3C/li%3E%3C/ul%3E%3Cp%3EIf%20you%20do%20not%20wish%20to%20receive%20targeted%20advertising%20on%20our%20site,%20you%20can%20always%20elect%20to%20block%20cookies%20as%20described%20under%20%E2%80%9C%3Ca%20href=)” 
+<http://exelate.com/privacy/opt-in-opt-out/>
+  * Vibrant  
+<https://www.vibrantmedia.com/privacy.asps>
+  * Mediative  
+<http://www.mediative.com/about-mediative/privacy-policy>
+  * Rubicon Project  
+<http://www.rubiconproject.com/privacy/>
+  * Advertising.com  
+<http://advertising.aol.com/privacy>
+
+
+
+If you do not wish to receive targeted advertising on our site, you can always elect to block cookies as described under “What about cookies?”
 
 **How about children’s privacy?**  
 We are committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities. This site is not intended for under the age of 13. We do not knowingly collect information from children under the age of 13 and we do not target the Sites to children under the age of 13.
@@ -116,8 +116,5 @@ You may also correspond by standard post at:
 
 Privacy Policy  
 High Gear Media  
-385 Forest Ave  
-Palo Alto, CA 94301
-
-
-
+830 Menlo Ave, Suite 201  
+Menlo Park, CA 94025
