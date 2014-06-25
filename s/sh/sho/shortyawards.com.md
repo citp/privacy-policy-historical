@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shortyawards.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126102540id_/http%3A//shortyawards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortyawards.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054426id_/http%3A//shortyawards.com/privacy) for the most accurate reproduction.*
 
-# Privacy - The Shorty Awards
+# Privacy Policy - The Shorty Awards
 
 The Shorty Awards (the "Awards") are owned, operated and distributed by Sawhorse Media, LLC, a Delaware limited liability company (referred to in this Privacy Policy as "Sawhorse" or "we" and through similar words such as "us," "our," etc.). By PARTICIPATING IN the Awards, you are agreeing to the terms and conditions described below (the "PRIVACY POLICY").
 
@@ -10,10 +10,10 @@ We may, at our sole discretion, modify this Privacy Policy at any time. By acces
 
 We collect the following types of personally identifiable information:
 
-  * **User Provided Information** : You may affirmatively provide us with certain personally identifiable information (such as your name, email address and photos) when participating in the Awards.
-  * **Information Collected by "Cookies"** : When you access our website and various other interactive properties from which you can participate in the Awards, we may send one or more "cookies" to your computer. A "cookie" is a small line of text that is stored with your browser, which we use to help provide better Awards to you. Your browser has options to accept, reject or provide you with notice when a cookie is sent.
+  * **User Provided Information** : You may affirmatively provide us with certain personally identifiable information (such as your name, email address and photos) when participating in the Awards. 
+  * **Information Collected by "Cookies"** : When you access our website and various other interactive properties from which you can participate in the Awards, we may send one or more "cookies" to your computer. A "cookie" is a small line of text that is stored with your browser, which we use to help provide better Awards to you. Your browser has options to accept, reject or provide you with notice when a cookie is sent. 
   * **Log File Information** : Our servers automatically record certain information that your browser sends whenever you access our web site. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
-  * **Information Collected by "Clear GIFs"** : We may employ "clear GIFs" (a.k.a. Web Beacons), which are used to track usage patterns anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to users to track which emails are opened by recipients.
+  * **Information Collected by "Clear GIFs"** : We may employ "clear GIFs" (a.k.a. Web Beacons), which are used to track usage patterns anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to users to track which emails are opened by recipients. 
 
 
 
@@ -55,6 +55,6 @@ The Awards are administered in the United States and are primarily intended for 
 
 California Civil Code Section 1798.83 permits users of the Awards who are participants in the awards to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to hello@sawhorsemedia.com or write us at: 
 
-Sawhorse Privacy Rights  
+**Sawhorse Privacy Rights**  
 560 Broadway, Suite 201  
-New York, NY 10012
+New York, NY 10012 
