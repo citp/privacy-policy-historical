@@ -1,0 +1,137 @@
+> *The following text is extracted and transformed from the beyluxe.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124128id_/http%3A//beyluxe.com/articles/beyluxe/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - Beyluxe | Beyluxe.com
+
+March 24, 2014 13:35 GMT
+
+REGISTRATION
+
+In order to use Beyluxe, you must first complete the registration form. During registration you are required to give contact information such as your email address. We use this information to contact you about services on our site in which you have expressed interest. Beyluxe and Beyluxe Communication S.R.l(collectively referred to as "Beyluxe") are committed to protecting your privacy. Please read this Beyluxe Privacy Statement for all Beyluxe services that you may use. This Beyluxe Privacy Statement applies to data collected by Beyluxe through its Beyluxe site(s) and service(s). This Privacy Statement also contains a section with specific details regarding personal information collected from children. 
+
+When you install Beyluxe or signup for an Beyluxe username, you consent to our use and disclosure of your personal information in the manner described in this Privacy Statement. This Privacy Statement is incorporated into and subject to the terms of the Beyluxe End User License Agreement ("EULA").
+
+What this Privacy Policy Covers
+
+This Privacy Statement covers Beyluxe treatment of personally identifiable information that Beyluxe collects when you are on the Beyluxe site, when you use Beyluxe services, or when you purchase products or services from Beyluxe. This Privacy Statement also covers Beyluxe treatment of any personally identifiable information that Beyluxe business partners share with Beyluxe. This Privacy Statement does not apply to the practices of companies that Beyluxe does not own or control, or to people that Beyluxe does not employ or manage, including without limitation, any Beyluxe affiliates or business partners. This Privacy Statement does not apply to information that is available to other Beyluxe users through your profile or exposed to other Beyluxe users by your use of any Beyluxe services or products
+
+Communications from the Site
+
+Special Offers and Updates We will occasionally send you information on products, services, special deals, or promotions. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the "Choice and Opt-out." 
+
+Newsletters If you wish to subscribe to our newsletter, we will use your email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section. 
+
+Service-related Announcements We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
+
+Customer Service Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. 
+
+Profile We store information that we collect through cookies, log files, clear gifs, to create a "profile" of your preferences. We tie your personally identifiable information, and your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you. We do not share your profile with other third parties without your consent. 
+
+Beyluxe is the sole owner of the information collected on Beyluxe.com. Beyluxe collects personally identifiable information from our users at several different points on our Web site or through our downloaded software. 
+
+Orders if you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and billing address) and financial information (such as credit card number, expiration date). 
+
+We use this information for billing purposes and to fill your orders. We will use this information to contact you and confirm your orders.
+
+REGISTRATION
+
+Collection and Use of Personal Information
+
+When you create an Beyluxe username, you will be asked to enter your first and last names, your age and gender, an e-mail address, your country of residence and (if applicable) your state of residence, a URL reference, a secret question, an answer, and password. We may also collect additional data from you, including demographic information, preferences, interests, and favorites. In addition, you may enter additional information in the profile for your nickname, including a picture in gif or jpg format. Information collected by Beyluxe may be combined with information obtained from Beyluxe or other Beyluxe companies. 
+
+If you choose to sign up for a paid subscription service (such as permanent rooms, a different colored nickname etc.), we will collect additional information, such as your credit card number and billing address, that is used to create an Beluxe billing account. 
+
+We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with Beyluxe sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type, hardware identification and language, access times, and referring Web site addresses. 
+
+Beyluxe Communication S.R.l may also obtain information about you through the monitoring or recording of your activities while you are using the B program or services. You have consented to such monitoring or recording by agreeing to the provisions of the End User License Agreement when you installed or used the program. Any personal information obtained through such monitoring or recording will be treated in the same manner as all other information referenced in this Privacy Statement. Such monitoring or recording, however, will only take place under the circumstances set forth below. 
+
+Beyluxe Communication S.R.L wants you to enjoy Beyluxe with the minimum of intrusions. Unfortunately, there are people who use internet chat room services like Beyluxe to harass other users or engage in criminal activity. Thus, in the course of administering Beyluxe, we may visit and monitor activity in a chat room without the knowledge of the room owner or room participants in order to determine whether any rules or polices of Beyluxe are being violated, or whether any illegal activity is taking place. However, we do not regularly monitor chat rooms. We may monitor a chat room under the following circumstances: 
+
+1\. We are requested to do so by a room owner or room admin; or 
+
+2\. We have reason to believe that illegal activity, or activity that violates Beyluxe rules and policies, is taking place in the room. 
+
+When we decide to monitor a room, we will do so only as long as necessary to determine whether any illegal or improper activity is taking place. We may, but we are not obligated to, notify the room owner, room admins, or room participants of our presence in the room. Beyluxe's primary goal in collecting personal information is to provide you, the user, with a customized experience on Beyluxe and through our partners. This includes personalization services, interactive communications, and many other types of services, most of which are completely free to you. In order to provide services free of charge, we display advertisements and encourage your participation. By knowing a little about you, Beyluxe is able to deliver more relevant advertisements and content, and hence better service, to you. 
+
+Beyluxe collects and uses your personal information to operate Beyluxe and deliver the services you have requested. These services may include the display of customized content and advertising based upon the information we have collected. In order to provide services, your information may be accessed and used by Beyluxe to provide such services. Any use of such information within Beyluxe will remain subject to the limitations of this privacy statement.
+
+Personally identifiable information
+
+Agents we use outside credit card processing companies to bill you for Beyluxe services. These companies do not retain, share, store or use personally identifiable information for any other purposes. We use outside email delivery systems to contact you and provide you with pertinent information via email. These companies do not retain share, store or use personally identifiable information for any other purposes. Advertising we use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. Legal Disclaimer We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+Choice/Opt-out
+
+We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. 
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or visiting [http://messenger.beyluxe.com/contact.shtml](http://messenger.beyluxe.com/contact.php) (Option : Feedback) You may also contact us at: 
+
+Beyluxe Communication S.R.L.  
+Register Number : J03/1692/28.08.2007  
+Romania, str. Basarabia, nr. 7, Jud. Arges, Pitesti 110161  
+Email: info @beyluxe.com
+
+Log Files
+
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+
+We use this information, which does not identify individual users, to administer the site and to track users' movements around the site. 
+
+We do not link this automatically-collected data to personally identifiable information except during special promotions such as free trials when subscription IP addresses are temporarily tied to personally identifiable information.
+
+Third Party Advertisers
+
+The ads appearing on this Web site are delivered to users by a Beyluxe proprietary ad serving system. We share Web site usage information about users with reputable third party ad networks for the purpose of targeting our banner advertisements on Beyluxe software. 
+
+We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
+
+Links to Other Sites
+
+Beyluxe contains links to other sites that are not owned or controlled by Beyluxe. Please be aware that we, Beyluxe, are not responsible for the privacy practices of such other sites. 
+
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
+
+This privacy statement applies only to information collected by Beyluxe. 
+
+By visiting this Site, all visitors consent to the collection, maintenance, and processing of their personal and non-personal information.
+
+Beyluxe Discussion Rooms
+
+If you use a discussion room on Beyluxe, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+
+Access to Personally Identifiable Information
+
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on [http://Beyluxe.com](http://beyluxe.com/) or by contacting our helpful customer support staff online by clicking Groups on the Beyluxe buddy list window, then Beyluxe Help.
+
+Security
+
+The security of your personal information is important to us. When you enter sensitive information such as credit card numbers on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+
+Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
+
+If you have any questions about security on our Web site, you can contact our helpful customer support staff online. On the Beyluxe buddy list window, click Groups, then Beyluxe Help Groups.
+
+Business Transitions
+
+In the event Beyluxe goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
+
+Changes in this Privacy Statement
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+
+This statement reflects the privacy policy of Beyluxe with respect to the Web site located at www.Beyluxe.com (the "Site"). This statement is intended to inform casual visitors of Beyluxe and visitors who participate in Beyluxe, of the data collection and use practices of the Site. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this Site following the posting of any amendment, modification, or change shall constitute your acceptance thereof except if your personally identifiable information will be used in a materially different manner.
+
+Problems in receiving the service for what you have paid
+
+If you haven't receive the services for what you have paid, all what you have to do is to send as an email for: http://messenger.beyluxe.com/contact.shtml Option feedback and let us know about this problem or in messenger you can go in payment support Lobby, after we check you will receive an answer by email to inform you that you have the option to choose between receiving your money back or the services for what you have paid.
+
+Contact Us If you have any questions or suggestions regarding our privacy policy, please contact us at: 
+
+Beyluxe Communication S.R.L  
+Register Number : J03/1692/28.08.2007  
+Romania, str. Basarabia, nr. 7, Jud. Arges, Pitesti 110161  
+Email: info @beyluxe.com
+
+[](http://messenger.beyluxe.com/)
