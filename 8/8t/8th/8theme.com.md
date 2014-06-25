@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the 8theme.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229194009id_/http%3A//8theme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8theme.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625220936id_/http%3A//8theme.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | 8theme ltd. | Quality WordPress & Magento Templates
 
-We respect your right to privacy. This policy summarises what personally identifiable information we may collect, and how we can use this information. This policy also describes other important topics concerning  your privacy.
+### Privacy Policy
+
+We respect your right to privacy. This policy summarises what personally identifiable information we may collect, and how we can use this information. This policy also describes other important topics concerning your privacy.
 
 ### Information Collection
 
@@ -12,7 +14,7 @@ If you use a credit card to purchase products from our site, your name on the cr
 
 ### Use of Information
 
- Names and email addresses and other information  which collected from customers at the time of a sale in order to complete the purchase. We do not share the information with  third parties. We are firmly against spam and neither participate nor promote any activities that assist spammers.
+Names and email addresses and other information which collected from customers at the time of a sale in order to complete the purchase. We do not share the information with third parties. We are firmly against spam and neither participate nor promote any activities that assist spammers.
 
 ### Security
 
