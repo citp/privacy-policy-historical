@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diaryofahollywoodstreetking.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831173702id_/http%3A//diaryofahollywoodstreetking.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diaryofahollywoodstreetking.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625035936id_/http%3A//diaryofahollywoodstreetking.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Hollywood Street King
 
@@ -34,11 +34,9 @@ This privacy policy covers all of the Hollywood Street King sites (“HSK Sites�
 
 **5\. Information Security**  – HSK has technical, administrative and physical safeguards in place to help protect against unauthorized access to, use or disclosure of user information we maintain. Under our security practices and policies, access to personally identifiable information is authorized only for those who have a business need for such access, and sensitive records are to be retained only as long as necessary for business or legal needs and destroyed before disposal. Although we work hard to protect personal information that we collect and store, no program is one hundred percent secure and we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use or disclose personal information.
 
-If you become aware of a security issue, please email us at info [at] hollywoodstreetking [dot] com. We will work with you to address any problems.
-
 **6\. Notification of Changes**  – Whenever Hollywood Street King changes its privacy policy, we will post those changes to this [ **Privacy Policy page**](http://diaryofahollywoodstreetking.com/privacy-notice/), and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-**7\. Contact Information**  – If you have any questions or suggestions regarding our privacy policy, please contact the editor of the HSK site in question, or send an email to info AT hollywoodstreetking [DOT] com.
+**7\. Contact Information**  – If you have any questions or suggestions regarding our privacy policy, please contact the editor of the HSK site.
 
 **8\. Your California Privacy Rights -  **California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to: info [AT ] hollywoodstreetking.com
 
