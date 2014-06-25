@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224071259id_/http%3A//www.outerspace-software.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054109id_/http%3A//www.outerspace-software.com/privacy) for the most accurate reproduction.*
 
-# Outerspace Software: 3D Effects for Video Titling and Digital Signage - Privacy Policy
-
-Outerspace Software is very concerned about protecting your online privacy. This is our policy about information we collect on our website.
+# Outerspace Software - 3D Visual Effects Software - Privacy Policy
 
 ### Cookies
 
@@ -10,19 +8,19 @@ Cookies are used by our online gallery to store your login information. This can
 
 ### Your gallery nickname
 
-Visitors and other gallery users can only see your nickname. Your real name, e-mail address or other personal information is never visible.
+Visitors and registered users can only see your nickname.
+
+Your real name, e-mail address and other personal information is NOT visible.
 
 ### Your gallery posts
 
-At any time you can delete your own gallery articles and comments. When doing this they are hard deleted from the database.
+At any time you can delete your own gallery articles and comments. When doing this they are HARD DELETED from the database.
 
-### Personal information
+### Online orders
 
-When you buy a product we need to collect payment and shipping information from you. We will not release this information to third parties, except to fulfill your order.
+Secure online orders are handled by our payment processing partner Share-it. Please contact [Share-it](http://www.shareit.com/) for their privacy policy.
 
-### Credit card orders
-
-Secure credit card orders are handled by our online payment processing partner Share-It! Please contact [Share-It!](http://www.shareit.com/) for their privacy policy. Note that Share-It! does not transfer your credit card information to us, they only inform us that the credit card charge has been authorized.
+Share-it does NOT transfer your credit card, bank, PayPal or other payment information to us. They only inform us that your order has successfully been processed.
 
 ### Newsletter
 
