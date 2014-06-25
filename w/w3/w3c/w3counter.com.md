@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the w3counter.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021103856id_/http%3A//www.w3counter.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3counter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625185536id_/http%3A//www.w3counter.com/legal/privacy) for the most accurate reproduction.*
 
-# W3Counter - Privacy Policy
+# W3Counter: Privacy Policy
 
 W3Counter respects your privacy. We do not support the sending of SPAM, and will not share or sell your e-mail address to a 3rd party.
 
@@ -23,4 +23,4 @@ Awio Web Services LLC
 Lansdale, PA 19446  
 USA
 
-Or [click here](https://web.archive.org/help/contact) for other contact methods. 
+admin@w3counter.com 
