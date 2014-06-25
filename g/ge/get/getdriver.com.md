@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the getdriver.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806194312id_/http%3A//www.getdriver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getdriver.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625182804id_/http%3A//www.getdriver.com/privacy) for the most accurate reproduction.*
 
-# Privacy | GetDriver
-
-## Privacy
+# Privacy - GetDriver
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -27,3 +25,5 @@ If you have any questions regarding our privacy policy then you may contact us a
 [](http://www.getdriver.com/contact)
 
 <http://www.getdriver.com/contact>
+
+## Drivers and Downloads for Windows 8.1, Windows 8, Windows 7, Vista, XP, Linux & Mac OS
