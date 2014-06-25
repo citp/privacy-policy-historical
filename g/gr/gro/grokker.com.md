@@ -1,100 +1,78 @@
-> *The following text is extracted and transformed from the grokker.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grokker.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075648id_/http%3A//grokker.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Yoga, Fitness, and Cooking video classes to be a better you | Grokker.com
 
-**Go Daddy Respects Your Privacy**
+## 1\. Our Commitment To Privacy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Thank you for using Grokker! We wrote this Privacy Policy to help you understand what information we collect, how we use it, and how you can access and control your information. By signing up for or using Grokker’s websites, content, apps, products, and services (the "Service") you consent to the collection and uses of your information as described in this Privacy Policy. We’ve tried to make it easy and straightforward, and if you have any questions please [contact us](mailto:support@grokker.com). 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+##  2\. Information We Collect And How We Use It 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+###  2.1 Your Grokker Account Information 
 
-**Information Collection and Use**
+When you create an account on the Grokker Service, you will provide information such as your username, password, and email address. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Your email address and password will be used together so you can securely access and maintain your Grokker account. We also use your email to send you updates about the Grokker Services, communications about your account, and respond to your customer service requests. We do not share your email with the public or with third parties, unless given explicit permission by you. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+###  2.2 Information From Other Sites (Facebook) 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+In order to access or enhance certain parts of the Grokker Services, you may choose to link your account from another site (“Third Party Services”) such as Facebook. When you link your Grokker account to any Third Party Services account, you expressly authorize Grokker to receive information that is available through that Third Party Services, according to the authorization process and your privacy settings on that Third Party Services. We do not receive or store your passwords for your Third Party Services accounts. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We use information provided by Third Party Services to personalize the Grokker Services for you (for example, to recommend videos that you might like) and allow you to find and interact with your friends on the Grokker Services. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+###  2.3 Information About Your Actions on Grokker 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+When you use the Grokker Services, we collect information about the actions you take, including watching, loving, searching for and collecting videos, entering comments or annotations, and following topics or users. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We use information about your actions to personalize the Grokker Services for you (for example, to recommend videos that you might like.) All of the actions you take on Grokker are public, and may be visible to other Grokker users, or published to your linked Third Party Services accounts with your consent. 
 
-**Security**
+###  2.4 Technical Information 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Like almost all web and mobile products, we automatically record a variety of technical information when you use the Grokker Services: 
 
-**Updating Your Information**
+  * Log Data. Our servers automatically record information about your interaction with our products (“log data”), including information that your browser or your mobile app sends. This log data may include your Internet Protocol (IP) address, the address of the web page you were visiting before you came to Grokker, browser type and settings, the date and time of your request, and actions you take on Grokker. We use this information to provide a version of the Grokker Services that will work in your browser. We also may use this information to diagnose and repair errors, crashes, and bugs so that we can improve the Grokker Services. 
+  * Cookies & web beacons. Like many websites, we use “cookies” (a small text file sent to your browser and stored on your device), or similar technologies. We use cookies so that when you re-access Grokker we can automatically log you in or populate the log-in fields for you. You can disable cookies through your browser, however, disabling cookies may limit your ability to use the Grokker Services. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server. We also may use third-party website analytics tools (such as Google), that collect information about visitor traffic on our sites and mobile applications.
+  * Device Information. We may collect information about the device you’re using Grokker on, including what type of device it is, what operating system you’re using, device settings, unique device identifiers, and crash data. We use this information to determine which devices to support and how to develop the Grokker Services. We also may use this information to diagnose and repair errors, crashes, and bugs so that we can improve the Grokker Services. 
+  * Analytics. This information includes general usage information, and may include information such as the number and frequency of our visitors, which pages or features they have visited, which links on the Grokker Services they have clicked on, and the length of those visits. We may also use third party applications and services, such as Google Analytics, to collect and analyze this information. We use this information to analyze and improve the Grokker Services. We typically use this information in aggregate form, that is, as a statistical measure related to all of our users that would not identify you personally. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+###  2.5 Advertising 
 
-      iii.      You may call us at: (480) 505-8800
+On our websites, we may collect information about your online activities to provide advertising about products and services tailored to your individual interests. You may see certain ads on this and other sites because we participate in advertising networks. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means. These networks track your online activities over time across third-party websites or online services by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other methods. The networks use this information to show you advertisements for Grokker and our business partners that are tailored to your individual interests. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors‘ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites. This data collection and ad targeting take place both on our websites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts. 
 
-       iv.      You may fax us at: (480) 505-8844
+##  3\. How To Access and Control Your Information 
 
-**Sending Emails**
+###  3.1 Your Grokker Profile 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+You can access and update most of your personal information through your Grokker profile. You may also request access, updating and correction in your personal information by contacting us. To protect your privacy and security, we take reasonable steps (such as requesting a password) to verify your identity before granting you access or allowing you to make any corrections or updates. You are responsible for maintaining the secrecy of your password and account information at all times. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+###  3.2 Third Party Services Settings 
 
-**Compliance with Laws and Law Enforcement**
+If you have linked your Grokker account to a Third Party Services account, you can control the information that Grokker may access, and the ability of Grokker to publish on your behalf with settings from that Third Party Service. You can also choose to unlink your account. To learn more about these choices, please see the information provided by the Third Party Service provider. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+###  3.3 Browser and Device Settings 
 
-**Third Party Service Providers**
+Your browser and device may have settings which allow you to control what information is shared with the Grokker Services, as well as the use of cookies. To learn more about these choices, please see the information provided by the device or software provider. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+##  4\. How Your Information May Be Shared 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+###  4.1 Information You Choose to Share 
 
-**Supplementation of Information**
+The Grokker community is built on openness and sharing. Therefore your Grokker profile and many of the actions that you take on Grokker are public, and visible to other Grokker users. Additionally, your Grokker profile may be indexable by search engines. Some of the actions you take on Grokker may be published to Third Party Services (such as Facebook) if you linked your Grokker account to a Third Party Service and allowed sharing between the two. 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+###  4.2 Business Reasons 
 
-**Contests/Surveys**
+We may share aggregated or non-personally identifiable information with our partners or others in order to secure agreements or demonstrate the health of the business. We may also share information with third party companies or individuals we employ to collect and process data, such as contractors, consultants, and accountants, who agree to abide by this Privacy Policy. We may engage in a merger, acquisition, bankruptcy, dissolution, reorganization, or similar transaction or proceeding that involves the transfer of the information described in this Privacy Policy. 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+###  4.3 Legal Reasons 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We may share information if we believe that disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety, rights, or property of the public, any person, or Grokker; or to detect, prevent, or otherwise address abuse, fraud, security or legal issues. 
 
-**Tell-A-Friend**
+##  5\. How To Contact Us 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+If you have other questions or concerns about this Privacy Policy, please send us an email at [support@grokker.com](mailto:support@grokker.com)
 
-**What Happens to my Personal Information if I Opt Out?**
+##  6\. Changes 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We may change this Privacy Policy from time to time, and this page will always contain the latest version. By continuing to use the Grokker Services after those changes are in effect, you agree to the revised policy. If the changes are significant, we may provide more prominent notice or obtain your consent as required by law. 
