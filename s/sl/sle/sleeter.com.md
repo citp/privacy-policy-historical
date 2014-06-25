@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleeter.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126133652id_/http%3A//www.sleeter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060313id_/http%3A//www.sleeter.com/about/privacy) for the most accurate reproduction.*
 
 # - The Sleeter Group
 
@@ -27,7 +27,7 @@ While Sleeter.com uses cookies to track your visit to Sleeter.com, and our Web s
 You have the right to access and correct your personal information and privacy preferences by writing to The Sleeter Group at:
 
 The Sleeter Group, Inc.  
-5798 Stoneridge Mall Rd. #101  
+5776 Stoneridge Mall Rd. #120  
 Pleasanton, CA 94588
 
 Please include your name, address, and e-mail address when you contact us. No specific form is required to notify Sleeter.com of changes to your address or privacy preference.
