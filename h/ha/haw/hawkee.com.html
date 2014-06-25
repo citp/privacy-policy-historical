@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hawkee.com privacy policy that was archived on 2013-08-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130809181355id_/http%3A//www.hawkee.com/about.php%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hawkee.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625094118id_/http%3A//hawkee.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -13,12 +13,19 @@
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.hawkee.com/comment.rss.php">
 <link rel="alternate" type="text/xml" title="RSS .92" href="http://www.hawkee.com/comment.rss.php">
 
-<link type="text/css" href="/min/index.php?f=/theme/jquery-ui.css,/styles/bootstrap.css,/styles/signin-buttons/auth-buttons.css,/styles/easybox/easybox.min.css,/codemirror/lib/codemirror.css,/codemirror/theme/lesser-dark.css,/styles/style.css,/styles/media-queries.css,/styles/icomoon.css" rel="StyleSheet">
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+<link type="text/css" href="/min/index.php?f=/theme/jquery-ui.css,/styles/easybox/easybox.min.css,/codemirror/lib/codemirror.css,/codemirror/theme/lesser-dark.css,/styles/style.css,/styles/media-queries.css,/styles/icomoon.css" rel="StyleSheet">
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,400italic,600,800|Source+Code+Pro" rel="stylesheet">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="http://engine.carbonads.com/z/31976/azcarbon_2_1_0_VERTDARK"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="/min/index.php?f=/codemirror/lib/codemirror.js,/codemirror/mode/clike/clike.js"></script>
-<script type="text/javascript" src="/min/index.php?f=/javascript/jquery-ui.js,/javascript/jquery-ui.elastic.js,/javascript/jquery-ui.triggeredAutocomplete.js,/javascript/easybox.min.js,/javascript/site.js,/javascript/jquery-ui.scrollAppend.js,/javascript/bootstrap.js"></script>
+<script type="text/javascript" src="/min/index.php?f=/javascript/jquery-ui.js,/javascript/jquery-ui.elastic.js,/javascript/jquery-ui.triggeredAutocomplete.js,/javascript/easybox.min.js,/javascript/site.js,/javascript/jquery-ui.scrollAppend.js"></script>
+
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<!-- ,/styles/bootstrap.css ,/javascript/bootstrap.js ,/styles/signin-buttons/auth-buttons.css -->
+
+
 
 <!--[if IE 8]>
 <style type="text/css">
@@ -42,11 +49,10 @@
 				<li id="top_explore">
 					<a href="/explore/">Explore</a>
 					<ol class="top_dropdown">
+						<li><a href="/explore/?a=status">Threads</a></li>
 						<li><a href="/apps/">Apps</a></li>
 						<li><a href="/scripts/">Scripts</a></li>
 						<li><a href="/snippets/">Code Snippets</a></li>
-						<li><a href="/shop/">Hardware</a></li>
-						<li><a href="/images/">Images</a></li>
 					</ol>
 				</li>
 			</ol>
@@ -56,6 +62,7 @@
 				<ol class="top_dropdown">
 					<li><a href="/">Home</a></li>
 					<li><a href="/explore/">Explore</a></li>
+					<li><a href="/explore/?a=status">&nbsp;&nbsp;&nbsp;Threads</a></li>
 					<li><a href="/apps/">&nbsp;&nbsp;&nbsp;Apps</a></li>
 					<li><a href="/scripts/">&nbsp;&nbsp;&nbsp;Scripts</a></li>
 					<li><a href="/snippets/">&nbsp;&nbsp;&nbsp;Code Snippets</a></li>
@@ -73,19 +80,19 @@
 
 			<div id="top_signin">
 			<a href="/phpBB2/profile.php?mode=register&amp;agreed=true" class="btn btn-orange" style="color: #FFF;" rel="nofollow">Sign up to Hawkee</a>
-			<a href="/phpBB2/login.php?redirect=/about.php" class="btn btn-orange" style="color: #FFF;" rel="nofollow">Sign in</a>
+			<a href="/phpBB2/login.php?redirect=/privacy.php" class="btn btn-orange" style="color: #FFF;" rel="nofollow">Sign in</a>
 			</div>
 			<div id="searchdiv">
 				<form action="/search.php" class="form-search" method="get">
 				<input type="hidden" name="mode" value="">
-				<input type="text" class="search-query input-xlarge" placeholder="Search" name="s" value="">
+				<input type="text" class="form-control" placeholder="Search" name="s" value="">
 				<a href="#" id="search_submit"><i class="icon-search"></i></a>
 				</form>
 			</div>
 			<div id="mobile_searchdiv">
 				<form action="/search.php" class="form-search" method="get">
 				<input type="hidden" name="mode" value="">
-				<input type="text" class="search-query" placeholder="Search" name="s" value="">
+				<input type="text" class="form-control" placeholder="Search" name="s" value="">
 				</form>
 			</div>
 			<div id="top_search">
@@ -95,6 +102,8 @@
 	</div>
 </div>
 
+<div id="drawer" class="col-sm-offset-2 col-sm-8"></div>
+
 <div id="wrap">
 
 <div id="carbonads-container"><div class="carbonad"><div id="azcarbon"></div><script type="text/javascript">var z = document.createElement("script"); z.type = "text/javascript"; z.async = true; z.src = "http://engine.carbonads.com/z/31976/azcarbon_2_1_0_VERTDARK"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z, s);</script></div></div>
@@ -103,53 +112,10 @@
 		<div class="fullarea content_wrap">
 			<div style="clear: both;"></div>
 
-        <table cellpadding="0" cellspacing="0" border="0" width="100%">
-        <tbody><tr>
-			<td colspan="3" valign="top"><center>
-            <table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
-				<tbody><tr>
-					<td align="left" valign="top">
-					<h1>About Us</h1>
-					Hawkee strives to facilitate technical collaboration on social software development. We
-					focus on building a community around various application platforms, scripting languages
-					and desktop systems.  Users can browse thousands of code snippets, comments, reviews
-					and discussions to dig deep into a technical situation and come up with the best solution.
 
-					<br><br>
+<h1 class="page-header first-header">Privacy Policy</h1>
 
-					<h1>History of Hawkee</h1>
-					Hawkee.com has been a scripting resource as far back as 1997.  At that time Hawkee.com began to
-					review and host mIRC scripts.  We gained a reputation for our critical and thorough reviews and
-					soon developed a scripting community.
-					Hawkee focused entirely on mIRC scripts until 2004 when PHP snippets were introduced.  TCL and Ruby
-					snippets were added in 2005 and various other development platforms have been added since.
-
-					<br><br>
-
-					Later in 2005 we introduced our price comparison engine which featured a variety of online
-					computer and electronics merchants.  It included social features like product tagging, comments
-					and product reviews.  Since the start of 2007 we started aggregating product
-					reviews from around the internet and have amassed quite a collection.
-
-					<br><br>
-
-					In December of 2006 we launched our social network system where users could befriend one
-					another, upload images and share comments with one another.  Our unique comment system allowed
-					users to see site-wide updates on all categories of comments that we offered.
-
-					<br><br>
-
-					In May, 2008 we introduced a brand new design featuring an updated logo and layout. Newer
-					features included Latest Topics on the Latest Comments page, code snippet thumbnails and
-					a review search.
-
-					<br><br>
-
-					<a name="privacy"></a>
-
-					<h1>Privacy Policy</h1>
-
-    				The privacy of our visitors to Hawkee.com is important to us.
+    				The privacy of our visitors to Hawkee.com is important to us. 
 
 					<br><br>
 
@@ -158,7 +124,7 @@
 					<br><br>
 
 					<b>Log Files</b><br>
-					As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+					As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
 
 					<br><br>
 
@@ -169,15 +135,11 @@
 
 					We also use third party advertisements on Hawkee.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-					<br><br>
 
+					<p>
 					You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
+					</p>
 
-                    <br></td>
-				</tr>
-             </tbody></table></center></td>
-        </tr>
-        </tbody></table><br>
 
 	</div>
 
@@ -187,15 +149,13 @@
 
 <div id="footer">
 	<div id="footer_wrap">
-		<!-- <div style='float: left;'><img src='/images/logo-footer.png' height=34></div>
-		<a href="http://twitter.com/Hawkee"><strong>Follow Hawkee on Twitter</strong></a>
-		&middot;
-		-->
+		<div class="social-links">
+			<a href="https://www.facebook.com/Hawkeecom"><i class="icon-facebook" aria-hidden="true"></i></a>
+			<a href="http://twitter.com/Hawkee"><i class="icon-twitter" aria-hidden="true"></i></a>
+		</div>
 		<a href="/about.php">About</a>
 		·
-		<a href="/about.php#privacy">Privacy Policy</a>
-		·
-		<a href="/phpBB2/index.php">Old Forum</a>
+		<a href="/privacy.php">Privacy Policy</a>
 		·
 		
 		<a href="/contact.php">Contact</a><br>
@@ -218,6 +178,7 @@ Click "Unsubscribe" to stop receiving notices pertaining to this post.
 <div id="subscribe_dialog" title="Subscribe" class="dialog">
 Click "Subscribe" to resume notices pertaining to this post.
 </div>
+
 
 
 <script type="text/javascript">
