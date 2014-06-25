@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onceamonthmom.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805172853id_/http%3A//onceamonthmom.com/extras/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onceamonthmom.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044930id_/http%3A//onceamonthmeals.com/extras/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Once A Month Cooking tips from Once A Month Mom
+# Privacy Policy | Once A Month Cooking tips from Once A Month Meals
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective September 1, 2012.
 
@@ -10,7 +10,7 @@ If you submitted personally identifiable information to us prior to the above ef
 
 _(Effective September 1, 2012)_
 
-Welcome to onceamonthmom.com (“Website”), an interactive online service operated by Once A Month Mom, LLC (“us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also [http://www.privacyprotection.ca.gov](http://www.privacyprotection.ca.gov/)).
+Welcome to onceamonthmeals.com (“Website”), an interactive online service operated by Once A Month Mom, LLC (“us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also [http://www.privacyprotection.ca.gov](http://www.privacyprotection.ca.gov/)).
 
 We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.
 
@@ -79,7 +79,7 @@ Our Website may link to or contain links to other third party websites that we d
 
 You may contact us as provided below if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
-**Email:**   info at onceamonthmom.com
+**Email:**   info at onceamonthmeals.com
 
 **Mail:**   2520 Acorn Drive, Kettering, Ohio 45419
 
@@ -91,4 +91,4 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 
 CINLibrary 0124129.0593875   2570950v1
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fonceamonthmom.com%2Fextras%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fonceamonthmeals.com%2Fextras%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
