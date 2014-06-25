@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crf-usa.org privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121064850id_/http%3A//www.crf-usa.org/web-site-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crf-usa.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061633id_/http%3A//www.crf-usa.org/web-site-privacy-policy.html) for the most accurate reproduction.*
 
 # Web Site Privacy Policy - Constitutional Rights Foundation
 
@@ -37,7 +37,7 @@ By using our website, you consent to the collection and use of your personal inf
 ** **
 
 **Contacting CRF  
-** If you have any questions, comments, or concerns about this Privacy Policy, please email us at  [crf@crf-usa.org](mailto:crf@crf-usa.org)  or send postal mail to:
+** If you have any questions, comments, or concerns about this Privacy Policy, please email us at [crf@crf-usa.org](mailto:crf@crf-usa.org)  or send postal mail to:
 
 > Constitutional Rights Foundation  
 > Attn: Privacy Policy  
