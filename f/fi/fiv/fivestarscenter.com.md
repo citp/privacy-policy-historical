@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fivestarscenter.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205102629id_/http%3A//www.fivestarscenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivestarscenter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132328id_/http%3A//www.fivestarscenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Terms And Conditions | FiveStarsCenter.com
 
