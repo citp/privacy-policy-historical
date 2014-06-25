@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livemocha.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223140007id_/http%3A//livemocha.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemocha.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104926id_/http%3A//livemocha.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Livemocha - Privacy Policy
+# Privacy Policy » Livemocha
 
 Welcome to Livemocha.com (the “Site”), an online service designed to provide language learning content, language learning curriculum, and to facilitate language exchanges and foreign language practice. Livemocha.com is owned and operated by Livemocha, Inc. (“Livemocha,” “we,” or “us”). This privacy policy explains our data collection, use, and disclosure practices with respect to information collected on the Site. If you have questions about these practices, please contact us by email at support@livemocha.com.
 
