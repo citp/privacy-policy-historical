@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the allmyapps.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013104339id_/http%3A//allmyapps.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmyapps.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113329id_/http%3A//allmyapps.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Allmyapps Privacy Policy
 
-Version dated August 20th, 2013
+_Version dated August 20th, 2013_
 
 Allmyapps provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information related to users of our website, available in particular at the addresses www.allmyapps.com and www.allmyapps.fr, and the Allmyapps Software.
 
 All terms with a capital letter that are not defined in this Privacy Policy shall have the meaning as defined in the Allmyapps Terms of Service (as available at this address <http://allmyapps.com/about/terms-of-service> ).
 
-## Article 1 – Collected data
+## Collected data
 
 Upon subscription to the Service on the Site, Allmyapps collects all the data that you are filling in the subscription form.
 
 In order to provide you with the Services, the Allmyapps Software, upon its installation, shall (i) check the nature and the version of the operating system you are using, (ii) gather statistical information related to the performance of your electronic communication device; and (iii) elaborate a list of all software and application that are installed and/or being used on your electronic communication device.
 
-## Article 2 – Purposes of handling
+## Purposes of handling
 
 By registering on the Allmyapps Site, you accept to provide personal information for the following purposes:
 
@@ -26,7 +26,7 @@ By registering on the Allmyapps Site, you accept to provide personal information
 
 
 
-## Article 3 – Recipients of the personal data
+## Recipients of the personal data
 
 In certain specific circumstances Allmyapps may be required to disclose your personal information, where such information is requested by the judicial authorities.
 
@@ -34,13 +34,13 @@ Your personal information, and in particular e-mail addresses, are not rented, s
 
 In case the Allmyapps Software would be distributed by a third party in the course of a partnership agreement, you acknowledge and agree that such third party may have access to the same personal data and use it for the same purposes as Allmyapps would do, as set forth in this Privacy Policy. Would such third party have access to your personal data, you would be informed by such third party on its own website.
 
-## Article 4 – Conservation of information
+## Conservation of information
 
 Allmyapps keeps your personal information for the amount of time strictly necessary for the purposes detailed hereinabove. Beyond such time the information shall be kept solely for statistical purposes and do not give rise to any use of any kind whatsoever. 
 
 Allmyapps is required to keep information allowing the identification of internet users providing content, and this for the purposes of transmitting such information to the competent authorities upon judicial requisition, to the exclusion of all other third parties, and in accordance with the law.
 
-## Article 5 – Your Rights
+## Your Rights
 
 All personal information that you provide to Allmyapps is strictly confidential.
 
@@ -52,7 +52,7 @@ In accordance with law n°78-17 of 6 January 1978 on Data Processing, Data Files
 
 To exercise your rights, write to the following address: [privacy@alllmyapps.com](mailto:privacy@alllmyapps.com), giving your name, forenames, address and, where applicable, client number.
 
-## Article 6 – Cookies
+## Cookies
 
 The Site uses cookies in order:
 
@@ -66,19 +66,19 @@ The Site uses cookies in order:
 
 The use of cookies is mandatory to fully benefit from the services and functionalities available on the Site and through Allmyapps. However, would you wish so, you can configure your Internet browser in order to remove and/or prevent all cookies from your device. In such a case, several services and/or functionalities available on the Site and through Allmyapps will not be available.
 
-## Article 7 – Statistical use of anonymous data 
+## Statistical use of anonymous data 
 
 For business purposes Allmyapps collects, handles and stocks statistical data on Applications use. This information may be transmitted to third parties, including to Editors in particular to allow them to improve their products.
 
 This user information is anonymous and does not reveal in any way whatsoever your identity, even indirectly.
 
-## Article 8 – Miscellaneous
+## Miscellaneous
 
 Should one or more of the provisions in the ToU be held to be invalid by a competent jurisdiction the remaining clauses shall remain valid and enforceable. Besides, the invalidated provision shall be replaced by a new valid provision having an effect as close as possible as the invalidated provision.
 
 Allmyapps reserves the possibility, within the limits set out by the law, and in particular the terms of article R132-1 of the Consumer Code, to modify the ToU at any time. Where the ToU are modified, the amended terms shall be applicable with effect from the date of their publication on the Site. Each use of the Site shall be subject to the ToU applicable at that time.
 
-## Article 9 – How to contact Allmyapps
+## How to contact Allmyapps
 
 If you have any questions or concerns about privacy, please feel free to contact us.
 
