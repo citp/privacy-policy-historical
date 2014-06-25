@@ -1,92 +1,227 @@
-> *The following text is extracted and transformed from the tresemme.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215538id_/http%3A//www.alberto.com/privacy-US-tresemme.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tresemme.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055941id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx) for the most accurate reproduction.*
 
-# Alberto Culver Privacy Policy
+# Privacy Policy
 
-**The Effective Date of this Privacy Policy is October 22, 2008.**
+##  _UNILEVER PRIVACY PRINCIPLES_
 
-INTRODUCTION
+Unilever takes privacy seriously. The following five principles underpin our approach to respecting your privacy:
 
-This Privacy Policy applies only to the TRESemmé web site, [http:/www.tresemme.com](http://www.tresemme.com/) which is owned or controlled by Alberto Culver Company ("Alberto Culver," "we" or "us"), or other interactive features or downloads that are owned or controlled by Alberto Culver and made available through the Site or that interact with the Site and post this Privacy Policy. This Privacy Policy only covers information collected at the Site and does not cover any information collected at any other web site or offline by Alberto Culver (unless specifically stated). This Privacy Policy explains Alberto Culver's information collection practices at the Site, such as the types of information Alberto Culver collects regarding visitors to the Site and how we may use that information. Please review this Privacy Policy carefully. In addition, please review the Site's _[Terms of Use](http://www.alberto.com/terms-US-tresemme.htm)_ , which governs your use of the Site.
+  1. We value the trust that you place in us by giving us your personal information. We will always use your personal information in a way that is fair and worthy of that trust.
+  2. You are entitled to clear information about how we use your personal information. We shall always be transparent with you about what information we collect, what we do with it, with whom we share it and whom you should contact if you have any concerns.
+  3. If you have any concerns about how we use your personal information, we will work with you to promptly resolve those concerns.
+  4. We will take all reasonable steps to protect your information from misuse and keep it secure.
+  5. We will comply with all applicable data protection laws and regulations and we will co-operate with data protection authorities. In the absence of data protection legislation, we will act in accordance with generally accepted principles governing data protection.   
 
-THE INFORMATION THE SITES COLLECT AND HOW WE USE IT
 
-Information You Provide Us
 
-The Site may ask you to provide personally identifiable information, which is information that could be used to contact you or identify you personally, such as your name, birth date, or e-mail address ("Personal Information") and other information about you, such as demographic information (your gender, zip code or similar information) or certain information about your hobbies, preferences and interests. The Site may collect Personal Information and other information about you at various places and forms on the Site, including registration forms, when you submit a question to us, or when you otherwise communicate or interact with us. If we combine demographic or similar information with the Personal Information we collect, we will treat it as Personal Information under this Privacy Policy. 
 
-Alberto Culver may use your Personal Information: (1) to provide you with information or services or process transactions that you have requested or agreed to receive; (2) to process your registration with the Site, including verifying your email address is active and valid; (3) to improve the Site or our services, to customize your experience on the Site, or to serve you specific content that is most relevant to you; (3) to contact you with regard to your use of the Site and, in our discretion, changes to the Site policies; (4) for internal business purposes; and (5) for purposes disclosed at the time you provide your Personal Information. 
+## _UNILEVER PRIVACY POLICY_
 
-If you submit ideas, votes, comments, reviews, suggestions, photographs, videos, music, text or other content to the Site, it may be published online or offline in any media or format (currently existing or hereafter developed). Others may have access to this content and may have the ability to share it with third parties across the Internet. Alberto Culver may also publish your name, voice, likeness and other Personally Information with the content (or any portion of the content), and Alberto Culver may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding user-generated content you submit to the Site, please review the Site's _[Terms of Use](http://www.alberto.com/terms-US-tresemme.htm)_.
+_Last Updated: October 2013_
 
-Please note that information submitted to the Site via a "contact us" or other similar function may not receive a response. We will not use the information provided to contact you for marketing purposes unrelated to your request unless you agree otherwise. 
+Unilever is committed to protecting your privacy and ensuring that your personal information is protected. This Privacy Policy explains the types of personal information we collect and how we use, disclose and protect that information.
 
-Your Public Profile
+## What does this Privacy Policy apply to?
 
-If you register to join the Site's online community ("Member"), you may create a public profile that includes your username, your personal photo, and your location, as well as other information that you choose to post about yourself ("Profile"). This Privacy Policy does not apply to any information that you disclose publicly or otherwise upload onto your Profile. In addition, the Site may post publicly information about your use of the Site as a Member, including information about the posts you submit or view, how others rank your posts, and other information about your use of the community features on the Site. If you post Personal Information through blogs, message boards or other public forums the Site may make available, it will be publicly available and you may receive unsolicited messages from other parties. Alberto Culver cannot ensure the security of any information you choose to make public and cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding what information to include in your Profile and when deciding to disclose Personal Information in any public areas of the Site. 
+This Privacy Policy applies to personal information collected by the Unilever Group of companies in connection with the services they offer. Find out more about the Unilever Group at <http://unilever.com/aboutus/>. This includes information collected offline through our Careline and consumer call centres, direct marketing campaigns, sweepstakes and competitions, and online through our websites, branded pages on third party platforms and applications accessed or used through such websites or third party platforms which are operated by or on behalf of the Unilever Group (“ **Unilever Sites** ”). This Privacy Policy is hereby incorporated into and forms part of the terms and conditions of use of the applicable Unilever Site. For information about the Unilever Group company responsible for protecting your personal information, see **Your privacy rights and who to contact** below.
 
-You may edit most of the information you have supplied for your Profile by logging in and going into "My Profile." You may request removal of your Profile from the Site by contacting us through the "Contact Us" feature on the Site.
+  
 
-Information You Provide About A Third Party
 
-If you send someone else communication from the Site, such as sending an article to a friend, the information you provide (names, e-mail addresses, etc.) is used on a one-time basis to facilitate the communication and is not used for any other marketing purpose unless we obtain consent from that person. 
+This Privacy Policy does not apply to the information practices of: 
 
-Information Third Parties Provide About You
+• third party companies (including, without limitation, their websites, platforms and/or applications) which we do not own or control; or   
+• individuals that Unilever does not manage or employ. 
 
-We also may, from time to time, supplement the information we collect with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from those other sources with information we collect through the Site. In those cases, we will apply this Privacy Policy to any personal identifiable information received, unless otherwise specifically disclosed by us at the time you provide your personally identifiable information. 
+These Third Party Sites may have their own privacy policies and terms and conditions. We encourage you to read them before using those Third Party Sites. 
 
-Information We Collect As You Access And Use The Site 
+## Your consent
 
-In addition to any Personal Information or other information that you choose to provide to us on the Site, we and our third-party service providers may use a variety of technologies that automatically collect certain web site usage information whenever you visit or interact with the Site. This information may include browser type, operating system, the page served, the time, and the preceding page view, among other information. We may use this web site usage information for a variety of purposes, including to enhance or otherwise improve the Site. In addition, your IP address or some other unique identifier for the particular device you use to access the Internet, as applicable (collectively referred to as a "Device Identifier") may be collected. A Device Identifier is a number that is automatically assigned to your computer, your cell phone, or other device used to access the Internet, and our computers identify your device by its Device Identifier. We may associate your Device Identifier with the personal information you provide. 
+Unilever will not collect, use or disclose your personal information without your consent. In most cases, we will ask for your consent explicitly but, in some cases, we may infer consent from your actions and behaviour. By using a Unilever Site, you are consenting to the relevant Unilever Group company collecting, using and disclosing your personal information in accordance with this Privacy Policy. 
 
-The methods that may be used to collect this information include the following: 
+We may ask you to provide additional consent if we need to use your personal information for purposes not covered by this Privacy Policy. You are not obliged to provide such consent but if you decide not to then your participation in certain activities may be restricted. If you provide additional consent, the terms of that consent shall prevail in the event of any conflict with the terms of this Privacy Policy. 
 
-_Cookies_. A cookie is a data file placed on a computer when it is used to visit the Site. Cookies may be used for many purposes, including, without limitation, tracking user preferences and web pages visited while using the Site. You may disable cookies using your browser's preferences, but some features of the Site may not function properly or may operate slowly if you disable the cookies. 
+If you do not agree to the collection, use and disclosure of your personal information in this way, please do not use the Unilever Sites or otherwise provide Unilever with personal information. 
 
-_Web Beacons_. Small graphic images or other web programming code called web beacons, (also known as "1x1 GIFs " or "clear GIFs,)" may be included in our web pages and e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Site, to monitor how users navigate the Site, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed. 
+## Children
 
-_Embedded Scripts._ An embedded script is programming code that is designed to collect information about your interactions with the Site, such as which links you click on. The code is temporarily downloaded onto your computer from our Web server or a third party service provider, is active only while you are connected to the Site, and is deactivated or deleted thereafter.   
-Information collected through automatic means may be non-identifying or may be associated with you. If associated with you, it will be treated as Personal Information. 
+[Remove Child's Info](http://www.unileverus.com/en_us/removechildinfo.aspx "Remove Child's Info")  [Update Child's Info](http://www.unileverus.com/en_us/updatechildinfo.aspx "Update Child's Info")
 
-HOW AND WHEN WE DISCLOSE INFORMATION TO THIRD PARTIES
+The majority of Unilever Sites are designed and intended for use by adults. Where a Unilever Site is intended for use by a younger audience, we will obtain consent from a parent or guardian before we collect personal information where we feel it is appropriate to do so or where it is required by applicable data protection laws and regulations (the age at which consent is necessary varies from country to country). If you are a child over the age where parental consent is required in your country, you should review the terms of this Privacy Policy with your parent or guardian to make sure you understand and accept them. 
 
-Alberto Culver may share non-personally identifiable information, such as aggregated user statistics, with third parties. We do not share your Personal Information with third parties for those third parties' marketing purposes unless you consent to such sharing at the time you provide your Personal Information. We may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information and as described below or otherwise in this Privacy Policy. 
+If we discover that we have collected information without consent from a parent or guardian where such consent should have been obtained, we will delete that information as soon as possible. 
 
-When You Agree To Receive Information From Third Parties. You may be presented with an opportunity to receive information and/or marketing offers from third party(s). If you do not agree to have your Personal Information shared, your Personal Information will not be shared with such third party(s) for direct marketing purposes. If you do agree to have your Personal Information shared, your Personal Information will be disclosed to such third party(s) and all information you disclose will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy policies and practices of such third party(s) and, therefore, you should review the privacy policies and practices of such third party(s) prior to agreeing to receive such information from third party(s). If you later decide that you no longer want to receive communication from a third party, you will need to contact that third party directly.
+Access to certain parts of the Unilever Sites and/or eligibility to receive prizes, samples or other rewards may be limited to users over a certain age. We may use your personal information to carry out age verification checks and enforce any such age restrictions.
 
-Third Parties Providing Services on our Behalf. We may use third party vendors to perform certain services on behalf of the Site, such as hosting the Site, designing and/or operating the Site's features, tracking Site analytics, enabling Alberto Culver to send you e-mail, or performing other administrative services. We may provide these companies with access to user information, including Personal Information, if necessary to carry out the services they are performing for you or for Alberto Culver. 
+## What information do we collect?
 
-Sweepstakes, Contests and Promotions. We may offer sweepstakes, contests, and other promotions (any, a "Promotion") through the Site that may require registration. By participating in a Promotion, you are agreeing to the terms, conditions or official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion's official rules, such as on a winners list.
+In this Privacy Policy, your "personal information" means information or pieces of information that could allow you to be identified. This typically includes information such as your name, address, screen name, profile picture, email address, and telephone number, but can also include other information such as IP address, shopping habits, preferences and information about your lifestyle or preferences such as your hobbies and interests. We may collect personal information about you from different sources, including:
 
-Administrative and Legal Reasons. We may also transfer and disclose user information, including Personal Information, to third parties: (i) in the event we are required to respond to subpoenas or other legal process or if in our good faith opinion such disclosure is required by law; (ii) at the request of governmental authorities conducting an investigation; or (iii) to protect and/or defend the Site's Terms of Use [LINK] or other policies applicable to the Site or to protect the personal safety, rights, property or security of any individual. We may also use IP address or other Device Identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers, wireless service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you.
+  * Information you give us directly
 
-Business Transfers. Alberto Culver may share Personal Information with its subsidiaries and affiliates for internal reasons. Alberto Culver also reserves the right to disclose and transfer all information related to the Site, including Personal Information: (i) to a subsequent owner, co-owner or operator of the Site or applicable database; or (ii) in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of Alberto Culver's stock and/or assets or other corporate change, including, without limitation, during the course of any due diligence process. 
+We may collect information from you directly when you provide us with personal information, e.g. when you register for prize draws or competitions, sign up to receive information, use applications, buy a product or service from us, fill out a survey, or make a comment or enquiry. The types of information we may collect from you directly include your:
 
-NOTICE TO PARENTS
+    * •    name
+    * •    address
+    * •    email address
+    * •    user name
+    * •    telephone number
+    * •    credit card or other payment information
+    * •    age
+    * •    date of birth
+    * • gender
+    * • user-generated content, posts and other content you submit to Unilever Sites
+    * • any other person information you volunarily provide to us
 
-The Site is a general audience web site and we do not knowingly collect any Personal Information from children younger than the age of thirteen (13). We will delete any Personal Information collected that we later determine to be from a user younger than the age of thirteen (13). 
+  * Information we collect automatically when you use the Unilever Sites
 
-CHANGING YOUR INFORMATION AND SUBSCRIPTIONS AND QUESTIONS
+We use cookies and other tools (such as web analytic tools and pixel tags) to automatically collect information about you when you use Unilever Sites, subject to the terms of this Privacy Policy and applicable data protection laws and regulations. The types of information we may collect automatically include (collectively, “Site Usage Information”):
 
-You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration. The Site may allow you to correct or update Personal Information you have provided through a registration form or otherwise. Alberto Culver will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable. You may cancel or modify your subscriptions to e-mails you have elected to receive from the Site by following the instructions contained within an e-mail you receive from the Site. 
+    * •    information about the type of browser you use
+    * •    details of the web pages you have viewed
+    * •    your IP address
+    * •    the hyperlinks you have clicked
+    * •    your user name, profile picture, gender, networks and any other information you choose to share when using Third Party Sites (such as when you use the “Like” functionality on Facebook or the +1 functionality on Google+)
+    * •    the websites you visited before arriving at a Unilever Site
 
-THIRD PARTY CONTENT AND LINKS TO THIRD PARTY SITES
+Most internet browsers are initially set up to accept cookies. You can change the settings to block cookies or to alert you when cookies are being sent to your device. If you use different browsers, or use multiple devices, any changes will need to be made for each browser. If you disable the cookies this may impact your experience on Unilever Sites[](http://www.unilevercookiepolicy.com/)
 
-The Site may contain content that is supplied by a third party, and those third parties may collect web site usage information and your Device Identifier when web pages from the Site are served to your browser. In addition, the Site may contain links to other third party web sites that Alberto Culver does not control. Alberto Culver is not responsible for the privacy practices employed by any third party web site. For example, if you "click" on a link from an Alberto Culver partner, the "click" may take you off the Site onto a different web site. This includes links from sponsors and partners that may reference the Site or the Site's logo as part of a co-branding agreement. These other web sites may send their own cookies to you, independently collect data or solicit Personal Information and may or may not have their own published privacy policies. Alberto Culver encourages you to note when you leave our Site and to read the privacy statements of all third party web sites before submitting any Personal Information to those sites. 
+[ ](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
+[ ](http://www.unilevercookiepolicy.com/)
+  * [](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
+[ ](http://www.unilevercookiepolicy.com/)
+  * [](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)Information we collect from other sources
 
-THIRD PARTY APPLICATIONS
+We may receive personal information about you from other sources if you have given permission for that information to be shared. This may include information from commercially available sources, such as public databases and data aggregators, and information from third parties. The types of personal information that we may collect from such sources include your:
 
-Third party applications may be available via the Site. The owners of these applications ("Third Party Owners") may collect Personal Information from you and may have their own policies and practices. Alberto Culver does not screen or pre-approve Third Party Owners or their applications and Alberto Culver has no control over how Third Party Owners or their applications use your Personal Information. These Third Party Owners may have their own terms of service, privacy policies or other policies and ask you to agree to the same. Alberto Culver is not responsible for these policies or the practices of Third Party Owners. Be sure to review any available policies before submitting any personally identifiable information to a third party application or otherwise interacting with it.
+    * •    name
+    * •    street address
+    * •    age
+    * •    your shopping habits
+    * •    preferences and information about your lifestyle such as your hobbies and interests
+    * •    publicly available information such as user-generated content, blogs and postings, as permitted by law
 
-CONSENT TO TRANSFER INFORMATION TO THE UNITED STATES
+  * Online advertising
 
-The Site is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the Site or providing us with any information, you consent to this transfer and processing of your information in the United States. 
+We may share Site Usage Information (as discussed above) with trusted third parties (e.g., advertisers, advertising agencies, advertising networks, data exchanges, etc.) in order to offer you tailored content, including more relevant advertising for products and services which may be of interest to you. These third parties may set and access their own cookies, clear gifs and similar tracking technologies on your device in order to help us deliver customized content and advertising to you when you visit Unilever Sites or third party sites.
 
-SECURITY
+In the United States, we have adopted the use of the Advertising Options Icon which may appear on the Unilever Sites and certain targeted advertisements that we (or a service provider acting on our behalf) send to you based on your Site Usage Information. You may click on this icon to receive more information about the collection and use of your information or to opt-out of such collection in the future. Please note that even if you opt out, you may still receive advertisements from Unilever that are not customized based on your Site Usage Information.
 
-Alberto Culver takes commercially reasonable steps to help protect and secure Personal Information. However, no data transmission over the Internet, wireless transmission or electronic storage of information can be guaranteed to be 100% secure. Please note that we can not ensure or warrant the security of any information we collect, and you use our Site and provide us with your information at your own risk. 
+You may also use the [Network Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance’s Opt-Out Tool](http://www.aboutads.info/choices/) each of which provides a list of those third parties that may send you targeted advertising based on your internet browsing activities and for which you can opt-out of their use of your information for that purpose.
 
-CHANGES TO THE PRIVACY POLICY
 
-Alberto Culver reserves the right to change this Privacy Policy at any time without notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy. However, Alberto Culver will not use your Personal Information in a manner materially different than what was stated at the time it was collected without your consent. 
 
-©2011 Alberto Culver Company. All rights reserved.
+
+## How do we use your personal information?
+
+We may use your personal information:
+
+  * •    to improve our products and your experience on the Unilever Sites. Find out more.
+
+We may use your personal information to:
+
+    * •    evaluate the use of the Unilever Sites, products and services
+    * •    analyse the effectiveness of our advertisements, competitions and promotions
+    * •    personalise your website experience, as well as to evaluate (anonymously and in the aggregate) statistics on website activity, such as what time you visited it, whether you’ve visited it before and what site referred you to it
+    * •    make the Unilever Sites easier to use and to better tailor the Unilever Sites and our products to your interests and needs
+    * •    help speed up your future activities and experience on the Unilever Sites. For example, a site can recognise that you have provided your personal information and will not request the same information a second time
+    * •    collect information about the device you are using to view the Unilever Site, such as your IP address or the type of Internet browser or operating system you are using, and link this to your personal information so as to ensure that the Unilever Sites present the best web experience for you
+
+  * •    to contact you regarding products and services which may be of interest to you, provided you have given us consent to do so or you have previously requested a product or service from us and the communication is relevant or related to that prior request and made within any timeframes established by applicable laws. Find out more.
+
+We use your personal information to:
+
+    * •    suggest products or services (including those of relevant third parties) which we think may be of interest to you
+    * •    offer you the opportunity to take part in competitions or promotions
+    * You can opt out of receiving communications from us at any time. Any direct marketing communications that we send to you will provide you with the information and means necessary to opt out.   
+
+
+  * •    to provide you with products or services that you request from us. Find out more.
+
+We may use your personal information:
+
+    * •    for the purposes of competitions or promotions that you have entered
+    * •    to send you information, products or samples that you have requested
+    * •    to respond to your queries or comments
+
+  * Where we collect personal information for a specific purpose, we will not keep it for longer than is necessary to fulfil that purpose, unless we have to keep it for legitimate business or legal reasons. In order to protect information from accidental or malicious destruction, when we delete information from our services we may not immediately delete residual copies from our servers or remove information from our backup systems.   
+
+
+
+
+
+## Mobile Message Services
+
+We may make available a service through which you can receive text or other types of messages from Unilever (such as short message service, or SMS, enhanced message service, or EMS, and multimedia message service, or MMS) on your wireless or mobile device (“Mobile Message Service”). If you subscribe to one of our Mobile Message Services, you agree to receive such messages from Unilever at the address or mobile number you provide for that purpose (unless and until you have elected to opt out of receiving such messages by following the instructions in the **Your privacy rights and who to contact** section below). 
+
+You understand that your wireless carrier’s standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the **Your privacy rights and who to contact** section below. If fees are charged to your wireless account invoice, you agree that we may collect from you and provide your carrier with your applicable payment information in connection therewith. You represent that you are the owner or authorized user of the wireless device you use to sign up for the Mobile Message Service, and that you are authorized to approve the applicable charges. In addition to meeting certain age restrictions and any other terms and conditions associated with each Mobile Message Service, you may be required to register personal information such as your name, text message, wireless address or mobile phone number. We may also obtain the date, time and content of your messages in the course of your use of the Mobile Message Service. We will use the information we obtain in connection with our Mobile Message Service in accordance with this Privacy Policy. Please note, however, that your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. 
+
+You acknowledge and agree that the Mobile Message Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the Mobile Message Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the Mobile Message Service. We may also access the content of your wireless and/or mobile phone account with your carrier for the purpose of identifying and resolving technical problems and/or service-related complaints.
+
+## Who do we share your personal information with?
+
+As a general rule, we do not share your personal information with anyone outside of the Unilever Group. However, we may share your personal information with trusted third parties. Find out more.
+
+We may share your personal information with:
+
+  * •    our advertising, marketing and promotional agencies to help us deliver and analyse the effectiveness of our advertising campaigns and promotions
+  * •    third parties required to deliver a product or service to you, such as a delivery or postal service delivering a product that you have ordered
+  * •    law enforcement or government authorities where they have followed due legal process to request us to disclose the information
+  * •    third parties who wish to send you information about their products and services, but only if you have given us consent to do so
+  * •    third party providers of services, such as data processing, to Unilever
+  * •    web analytics tool providers, such as Google or Unica
+
+
+
+We may also share your personal information with companies, organisations or individuals outside of the Unilever Group if we believe that disclosure of the information is necessary for legal reasons. Find out more.
+
+We may share your personal information to:
+
+  * •    enforce applicable terms of use of Unilever Sites
+  * •    conduct investigations into possible breaches of applicable laws
+  * •    detect, prevent and protect against fraud and any technical or security vulnerabilities
+  * •    comply with applicable laws and regulations, co-operate in any legal investigation and meet enforceable governmental requests
+
+
+
+If we do share your personal information with a third party, we shall use our best efforts to ensure that they keep your information secure, take all reasonable steps to protect it from misuse and only use it in a manner consistent with this Privacy Policy and applicable data protection laws and regulations. 
+
+Unilever does not sell personal information, except to an entity to which we divest all or a portion of our business (for example, in connection with our sale of a brand), or otherwise in connection with a merger, consolidation, change in control, reorganization or liquidation of all or a portion of our business.
+
+## Transferring your personal information
+
+We may transfer your personal information to servers located outside the country in which you live or to affiliates or other trusted third parties based in other countries so that they may process personal information on our behalf. By using a Unilever Site or otherwise providing Unilever with personal information, you agree to us doing so in accordance with the terms of this Privacy Policy and applicable data protection laws and regulations. 
+
+You should be aware that many countries do not afford the same legal protection to personal information as you might enjoy in your country of origin. While your personal information is in another country, it may be accessed by the courts, law enforcement and national security authorities in that country in accordance with its laws. Subject to such lawful access requests, we promise that anyone processing your personal information outside your country of origin is required to implement measures to protect it and is only entitled to process it in accordance with Unilever’s instructions.
+
+## Safeguarding your personal information
+
+We take all reasonable precautions to keep your personal information secure and require any third parties that handle or process your personal information for us to do the same. Access to your personal information is restricted to prevent unauthorised access, modification or misuse and is only permitted among our employees and agents on a need-to-know basis.
+
+## Your privacy rights and who to contact
+
+Hide
+
+If you have any questions, comments or concerns about how we handle your personal information, then you may contact us by clicking the **Contact Us** link on the Unilever Site that directed you to this Privacy Policy. Alternatively,please go to [www.unilever.com](http://www.unilever.com/), select the appropriate country and click on the **Contact Us** link. Your request will be directed to the appropriate Unilever group company.
+
+You have the right to tell us if you:
+
+  
+
+
+  * •    don't want to be contacted in the future by us
+  * •    would like a copy of the personal information which we hold about you
+  * •    would like us to correct, update or delete your personal information in our records
+  * •    wish to report any misuse of your personal information
+
+
+
+To assist us in dealing with your request, please provide your full name and details.
+
+## Changes to our Privacy Policy
+
+We may change this Privacy Policy from time to time by posting the updated version of the Privacy Policy on the Unilever Sites. We will give you reasonable notice of any material change. We encourage you to visit frequently to stay informed about how we use your personal information.
+
+## Other Unilever privacy policies
+
+In addition to this Privacy Policy, there may be specific campaigns or promotions which will be governed by additional privacy terms or policies. We encourage you to read these additional terms or policies before participating in any such campaigns or promotions as you will be required to comply with them if you participate. Any additional privacy terms or policies will be made prominently available to you.
