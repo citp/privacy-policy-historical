@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the autoresponseplus.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821111137id_/http%3A//arpreach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoresponseplus.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073759id_/http%3A//arpreach.com/privacy) for the most accurate reproduction.*
 
 # arpReach - autoresponder and email marketing software
 
 ### Your Privacy
 
-At ECom24 Ltd, we are committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK.
+We are committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK.
 
-ECom24 Ltd is a registered data user under the Data Protection Act and is registered with the Information Commissioner, as required by law.
+We are a registered data user under the Data Protection Act and is registered with the Information Commissioner, as required by law.
 
 The purpose of this statement is to explain to you what personal information we collect and how we may use it.
 
