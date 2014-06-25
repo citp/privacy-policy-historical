@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grumpycats.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225015848id_/http%3A//www.grumpycats.com/contact-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grumpycats.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626011423id_/http%3A//www.grumpycats.com/contact-us/privacy) for the most accurate reproduction.*
 
 # GrumpyCats.com Privacy Policy | Grumpy Cat® - The world's grumpiest cat!
 
