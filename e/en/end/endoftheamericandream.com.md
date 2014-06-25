@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endoftheamericandream.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113195904id_/http%3A//endoftheamericandream.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endoftheamericandream.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045043id_/http%3A//endoftheamericandream.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -75,5 +75,3 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to this website with regard to: (a) the purposes for which such third party’s personal data has been collected; (b) the intended recipients or categories of recipients of the third party’s personal data; (c) which of the third party’s data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English.
 
 Updated 1/29/2009
-
-[](http://www.amazon.com/gp/product/1484871308/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1484871308&linkCode=as2&tag=theeconomiccollapse-20)
