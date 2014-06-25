@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restfile.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901151829id_/http%3A//www.restfile.ca/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restfile.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093129id_/http%3A//www.restfile.ca/privacy_policy.html) for the most accurate reproduction.*
 
 # RestFile.ca privacy_policy
 
@@ -23,7 +23,7 @@ We will not rent, sell or share your information with third parties. However, we
 
 For your safety and protection, your credit card information is not stored on our servers. Our payment gateway providers, Authorize.net and PayPal, keep this information encrypted and secure on your behalf. 
 
-Third-party websites or services linked to RestFile.ca are not covered by this Privacy Policy. These websites may collect personally identifiable information about you and place a cookie on your browser. Uploadc is not responsible for the privacy practices of the third-party websites and companies. 
+Third-party websites or services linked to RestFiles.net are not covered by this Privacy Policy. These websites may collect personally identifiable information about you and place a cookie on your browser. Uploadc is not responsible for the privacy practices of the third-party websites and companies. 
 
 You are solely responsible for safeguarding the secrecy of your password. 
 
@@ -31,6 +31,6 @@ restfil is not responsible if you volunteer personal information online that is 
 
 If you are not a resident of the United States, you understand and agree that Uploadc stores and processes your information on computers located in the United States, any by providing any data to Uploadc, you consent to the transfer of such information to the United States. 
 
-In the event that RestFile.ca is acquired or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from you as part of any change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, Uploadc may not be able to control how your personal information is treated, transferred or used. 
+In the event that RestFiles.net is acquired or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from you as part of any change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, Uploadc may not be able to control how your personal information is treated, transferred or used. 
 
-Although we strive to protect your personal information, RestFiles.com cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. 
+Although we strive to protect your personal information, RestFiles.net cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. 
