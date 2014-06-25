@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the real-debrid.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205214903id_/http%3A//www.real-debrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the real-debrid.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125359id_/http%3A//real-debrid.com/privacy) for the most accurate reproduction.*
 
 # Real-Debrid | Quality Unrestricted Downloaders
 
