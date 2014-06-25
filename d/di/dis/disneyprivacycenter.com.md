@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the disneyprivacycenter.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125004902id_/http%3A//disneyprivacycenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyprivacycenter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625162521id_/http%3A//disneyprivacycenter.com/privacy-policy-translations/english) for the most accurate reproduction.*
 
 # Privacy Policy | The Walt Disney Company
 
-  
 The Walt Disney Company has a rich tradition of bringing great stories, characters and experiences to our guests around the world, and our sites and applications are created to entertain and connect guests with the best that we have to offer on the platforms and devices our guests prefer.
 
 Our privacy policy is designed to provide transparency into our privacy practices and principles, in a format that our guests can navigate, read and understand. We are dedicated to treating your personal information with care and respect.
@@ -15,7 +14,7 @@ Our privacy policy is designed to provide transparency into our privacy practice
   
 ---|---  
   
-Last Modified: October 14, 2013
+Last Modified: June 2, 2014
 
 This privacy policy describes the treatment of information provided or collected on the sites where this privacy policy is posted. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate.
 
@@ -25,7 +24,7 @@ This privacy policy describes the treatment of information provided or collected
   4. Sharing Your Information with Other Companies
   5. Your Controls and Choices
   6. Children’s Privacy
-  7. Data Security and Integrity
+  7. Data Security, Integrity and Retention
   8. Data Transfers, Storage and Processing Globally
   9. Changes to this Privacy Policy
   10. Comments and Questions
@@ -51,7 +50,7 @@ We collect two basic types of information - personal information and anonymou
 #### 2\. How We Collect Your Information
 
   * We collect information you provide to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications, respond to customer surveys, or otherwise interact with us. Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications.
-  * We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit [Online Tracking and Advertising](http://disneyprivacycenter.com/twdc-privacy-controls/online-tracking-and-advertising/ "Online Tracking and Advertising") for further information, including how to disable cookies.
+  * We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit [Online Tracking and Advertising](http://disneyprivacycenter.com/twdc-privacy-controls/online-tracking-and-advertising/ "Online Tracking and Advertising") for further information, including Do Not Track and how to disable cookies.
   * We acquire information from other trusted sources to update or supplement the information you provided or we collected automatically. Local law may require that you authorize the third party to share your information with us before we can acquire it.
 
 
@@ -95,12 +94,12 @@ We provide you the ability to exercise certain controls and choices regarding ou
   * You may change your choices for subscriptions, newsletters and alerts
   * You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you
   * You may choose whether we share your personal information with other companies so they can send you offers and promotions about their products and services
-  * You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [here](http://www.aboutads.info/)
+  * You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [here](http://www.aboutads.info/choices)
   * You may request access to the personal information we hold about you and that we amend or delete it and we request third parties with whom we have shared the information do the same
 
 
 
-You may exercise your controls and choices, or request access to your personal information, by visiting [Communication Choices](http://disneyprivacycenter.com/twdc-privacy-controls/communication-choices/ "Communication Choices"), contacting Guest Services, or following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact Guest Services.
+You may exercise your controls and choices, or request access to your personal information, by visiting [Communication Choices](http://disneyprivacycenter.com/communication-choices/ "Communication Choices"), contacting Guest Services, or following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact Guest Services.
 
 #### 6\. Children’s Privacy
 
@@ -113,11 +112,11 @@ We recognize the need to provide further privacy protections with respect to pe
 
 
 
-For additional information about our practices in the United States and Latin America regarding children’s personal information, please read our [Children’s Privacy Policy](http://disneyprivacycenter.com/privacy-policy/kids-privacy-policy/ "The Walt Disney Company Kids’ Privacy Policy").
+For additional information about our practices in the United States and Latin America regarding children’s personal information, please read our [Children’s Privacy Policy](http://disneyprivacycenter.com/kids-privacy-policy/english/ "The Walt Disney Company Kids’ Privacy Policy").
 
-#### 7\. Data Security and Integrity
+#### 7\. Data Security, Integrity and Retention
 
-The security, integrity and confidentiality of your information are extremely important to us. We have implemented technical, administrative and physical security measures that are designed to protect guest information from unauthorized access, disclosure, use and modification. From time to time, we review our security procedures to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable.
+The security, integrity and confidentiality of your information are extremely important to us. We have implemented technical, administrative and physical security measures that are designed to protect guest information from unauthorized access, disclosure, use and modification. From time to time, we review our security procedures to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable. We will retain your personal information for the length of time needed to fulfill the purposes outlined in this privacy policy unless a longer retention period is required or permitted by law.
 
 #### 8\. Data Transfers, Storage and Processing Globally
 
@@ -155,28 +154,65 @@ In your request, please specify the member of The Walt Disney Family of companie
 
 **Data Controller.**  The data controller is the subsidiary or affiliated entity of The Walt Disney Company that is responsible for the personal information collected from sites and applications, as follows:
 
-Sites and Applications | Company | Contact Information  
----|---|---  
-Disney Movies Online | Disney Online, Buena Vista Home Entertainment, Inc. | Disney Interactive  
+  * ****Disney Club Penguin (“Club Penguin”)****  
+Disney Canada Inc. (formerly known as Disney Online Studios Canada Inc.)  
+Club Penguin  
+c/o Disney Online Studios Canada Inc.  
+1628 Dickson Avenue, Suite 500  
+Kelowna, British Columbia V1Y 9X1  
+CANADA  
+[support@clubpenguin.com](mailto:support@clubpenguin.com)
+
+
+  * ****Disney Movies Online****  
+Disney Online, Buena Vista Home Entertainment, Inc.  
+Disney Interactive  
 500 South Buena Vista Street  
 Mail Code 7667  
 Burbank, CA 91521-7667  
 United States of America  
-[Guest Services](mailto:ms_support@help.go.com)  
-Disney Studio All Access  
-Disney Movie Rewards | Disney Online, Buena Vista Home Entertainment, Inc., Walt Disney Studios Motion Pictures | Disney Interactive  
+[Guest Services](mailto:ms_support@help.go.com)
+
+
+  * ****Disney Studio All Access****  
+****Disney Movie Rewards****  
+Disney Online, Buena Vista Home Entertainment, Inc., Walt Disney Studios Motion Pictures  
+Disney Interactive  
 500 South Buena Vista Street  
 Mail Code 7667  
 Burbank, CA 91521-7667  
 United States of America  
-[Guest Services](mailto:ms_support@help.go.com)  
-All other sites and applications | Disney Online | Disney Interactive  
+[Guest Services](mailto:ms_support@help.go.com)
+
+
+  * ****Marvel, Marvel Kids sites and applications****  
+Marvel Entertainment, LLC  
+135 West 50th Street, 7th Floor  
+New York, NY  10020  
+United States of America  
+[Onlinesupport@Marvel.com](mailto:onlinesupport@marvel.com)
+
+
+  * ****Hollywood Records sites and applications****  
+Hollywood Records, Inc.  
 500 South Buena Vista Street  
 Mail Code 7667  
 Burbank, CA 91521-7667  
 United States of America  
-[Guest Services](mailto:ms_support@help.go.com)  
-  
+[Guest Services](mailto:ms_support@help.go.com)
+
+
+  * ****All other sites and applications****  
+Disney Online  
+Disney Interactive  
+500 South Buena Vista Street  
+Mail Code 7667  
+Burbank, CA 91521-7667  
+United States of America  
+[Guest Services](mailto:ms_support@help.go.com)
+
+
+
 **Data Processor.**  A data processor is a person or entity that processes personal information on behalf of a data controller (or data controllers) and is permitted to perform data processing only as directed by the data controller(s).
 
 **IP Address**. An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP), your company, or your university. We may use IP addresses to collect information regarding the frequency with which our guests visit various parts of our sites and applications, and we may combine IP addresses with personal information.
@@ -214,6 +250,8 @@ United States of America
 
 
 
+* * *
+
 ## Guest Services Contact Information
 
 United States of America:
@@ -225,8 +263,8 @@ Mail Code 7667
 Burbank, CA 91521-7667  
 United States of America
 
-Guest Services
+[Guest Services](mailto:ms_support@help.go.com)
 
 For questions related to children’s privacy, you may also telephone Guest Services at (877) 466-6669.
 
-Disney Interactive has received the TRUSTe Privacy Seal in the United States, signifying that this privacy policy and our privacy practices have been reviewed for compliance with the TRUSTe program listed on the validation page available when you click on the TRUSTe Privacy Seal. The TRUSTe program covers only those properties identified on the validation page. If you believe that Disney Interactive has not responded to your inquiry or your inquiry has not been satisfactorily addressed, you may contact TRUSTe [here](http://home.disney.go.com/guestservices/disclaimers/redirect?destination=https://feedback-form.truste.com/watchdog/request) or the United States Federal Trade Commission through its online consumer complaint form available [here](http://home.disney.go.com/guestservices/disclaimers/redirect?destination=https://www.ftccomplaintassistant.gov/)
+Disney Interactive has received the TRUSTe Privacy Seal in the United States, signifying that this privacy policy and our privacy practices have been reviewed for compliance with the TRUSTe program listed on the validation page available when you click on the TRUSTe Privacy Seal. The TRUSTe program covers only those properties identified on the validation page. If you believe that Disney Interactive has not responded to your inquiry or your inquiry has not been satisfactorily addressed, you may contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request) or the United States Federal Trade Commission through its online consumer complaint form available [here.](https://www.ftccomplaintassistant.gov/)
