@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ez.no privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021102928id_/http%3A//ez.no/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ez.no privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050947id_/http%3A//ez.no/Privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Home - eZ Web Content Management
+# Privacy policy - Home - eZ Publish Platform, CXM & CMS
 
 At eZ Systems, your privacy is important to us. For that reason, we have adopted this Privacy Policy to explain our information gathering practices. This policy may change over time, so you should check back for updates.
 
