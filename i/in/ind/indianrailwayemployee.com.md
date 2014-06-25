@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianrailwayemployee.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928192033id_/http%3A//indianrailwayemployee.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianrailwayemployee.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133447id_/http%3A//indianrailwayemployee.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Railway Employee
 
@@ -28,9 +28,9 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
   * [](https://web.archive.org/print/1042 "Display a printer-friendly version of this page.")
-  * 
 
 
-To protect against spam we limit the _**Comments only for the registerd users**_. Please [**register**](https://web.archive.org/user/register)[  ](https://web.archive.org/web/20130928192033id_/http%3A//indianrailwayemployee.com/content/user/register)or [**login**](https://web.archive.org/user/login) **.   **Thank you for your understanding.
+
+To protect against spam we limit the _**Comments only for the registerd users**_. Please [**register**](https://web.archive.org/user/register)[  ](https://web.archive.org/web/20140625133447id_/http%3A//indianrailwayemployee.com/content/user/register)or [**login**](https://web.archive.org/user/login) **.   **Thank you for your understanding.
 
 Custom Search 
