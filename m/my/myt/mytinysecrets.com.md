@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytinysecrets.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125234951id_/http%3A//mytinysecrets.com/%3Fpage_id%3D38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytinysecrets.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135820id_/http%3A//mytinysecrets.com/%3Fpage_id%3D38) for the most accurate reproduction.*
 
-# Privacy Policy | My Tiny Secrets
+# Privacy Policy | MyTinySecrets
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
 
@@ -57,5 +57,3 @@ We are committed to conducting our business in accordance with these principles 
 Contact**
 
 If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
-
-adina@eightenergies.com
