@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xeroshoes.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209045547id_/http%3A//www.xeroshoes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeroshoes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073740id_/http%3A//xeroshoes.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Xero Shoes
 
-Your privacy is very important to us. Accordingly, we have developed this Policy  
+[](http://secure.trust-guard.com/privacy/8867)Your privacy is very important to us. Accordingly, we have developed this Policy  
 in order for you to understand how we collect, use, communicate and make use  
 of personal information. The following outlines our Privacy Policy.
 
