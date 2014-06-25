@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadstime.org privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005231917id_/http%3A//www.freeadstime.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadstime.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060154id_/http%3A//www.freeadstime.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Free Ads
 
@@ -32,10 +32,12 @@ For site security purposes and to ensure that this service remains available to 
 
 FreeAdsTime.org will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
+You agree to receive marketing communications from us unless you tell us that you prefer not to receive such emails and communications. If you don't wish to receive marketing communications from us, you may either contact us and ask for being removed from such communications or you can simply indicate your preference by following directions provided with the communication.
+
 Cookies and Web Beacons  
 
 
-freeadstime.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+FreeaAsTime.org uses cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
 DoubleClick DART Cookie
 
