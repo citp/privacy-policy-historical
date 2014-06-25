@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magicmembers.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130093403id_/http%3A//www.magicmembers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicmembers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625213601id_/http%3A//www.magicmembers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Magic Members Wordpress Membership Plugin
+# Privacy Policy | Magic Members WordPress Membership Site Plugin Wordpress Membership Plugin
 
 **What information do we collect?**
 
@@ -92,4 +92,4 @@ info@magicmembers.com
 
 #### Incoming search terms:
 
-[magic members SSL](http://www.magicmembers.com/privacy-policy/ "magic members SSL"), [magic member contact number](http://www.magicmembers.com/privacy-policy/ "magic member contact number"), [magic members phone](http://www.magicmembers.com/privacy-policy/ "magic members phone"), [privacy policy wordpress](http://www.magicmembers.com/privacy-policy/ "privacy policy wordpress"), [magic members contact number](http://www.magicmembers.com/privacy-policy/ "magic members contact number"), [magic members with ssl](http://www.magicmembers.com/privacy-policy/ "magic members with ssl"), [phone number Magic Members 5842 Phillips Ave Pittsburgh PA 15217 USA](http://www.magicmembers.com/privacy-policy/ "phone number Magic Members 5842 Phillips Ave Pittsburgh PA 15217 USA"), [require phone numbers members on wordpress](http://www.magicmembers.com/privacy-policy/ "require phone numbers members on wordpress"), [magic members transactions page](http://www.magicmembers.com/privacy-policy/ "magic members transactions page"), [wordpress member privacy](http://www.magicmembers.com/privacy-policy/ "wordpress member privacy")
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.magicmembers.com%2Fprivacy-policy%2F&media=)
