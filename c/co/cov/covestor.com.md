@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026012330id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100546id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Covestor
 
@@ -6,7 +6,7 @@
 
 Covestor Limited has adopted this policy with recognition that protecting the privacy and security of the personal information we obtain about our members, clients and portfolio managers is an important responsibility. We also know that you expect us to service you in an accurate and efficient manner. To do so, we must collect and maintain certain personal information about you.
 
-This policy outlines the types of information we collect about you and how we use and safeguard that information. If you have any questions or concerns regarding this statement, you should contact  [ Customer Services ](https://site.covestor.com/contact/email-us?reason=SEC) . 
+This policy outlines the types of information we collect about you and how we use and safeguard that information. If you have any questions or concerns regarding this statement, you should contact [Customer Services](http://site.covestor.com/contact) . 
 
   
 
