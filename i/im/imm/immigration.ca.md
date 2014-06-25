@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immigration.ca privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227230523id_/http%3A//www.immigration.ca/en/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigration.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134843id_/http%3A//www.immigration.ca/en/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -22,4 +22,4 @@ Suite 515-4999 Ste Catherine St. West 
 Montreal, QC Canada H3Z 1T3   
 csinger@immigration.ca
 
-[](http://pinterest.com/pin/create/button/?url=http://www.immigration.ca/en/privacy-statement.html&media=http://www.immigration.ca/plugins/content/fb_tw_plus1/linkcmp.png&description=Privacy%20Statement)
+[](http://pinterest.com/pin/create/button/?url=http://immigration.ca/en/privacy-statement.html&media=http://immigration.ca/plugins/content/fb_tw_plus1/linkcmp.png&description=Privacy%20Statement)
