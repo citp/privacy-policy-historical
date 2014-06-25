@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fincen.gov privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103223150id_/http%3A//www.fincen.gov/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fincen.gov privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050654id_/http%3A//www.fincen.gov/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -22,4 +22,4 @@ Unauthorized attempts to upload information and/or change information on these w
 
 [**Procedures for Implementation of the Information Quality Law**](https://web.archive.org/pdf/515procedures2.pdf)
 
-If you have any questions or comments about the information presented here, please forward them to [**webmaster@fincen.gov**](mailto:webmaster@fincen.gov)
+If you have any questions or comments about the information presented here, please forward them to [**frc@fincen.gov**](mailto:frc@fincen.gov)
