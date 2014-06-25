@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the instantpay.in privacy policy that was archived on 2013-08-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130805103441id_/https%3A//www.instantpay.in/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the instantpay.in privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625055926id_/https%3A//www.instantpay.in/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -20,9 +20,10 @@
 <link href="https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700" rel="stylesheet" type="text/css">
 <link rel="icon" type="image/ico" href="https://www.instantpay.in/images/favicon.png">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<!--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.instantpay.in/javascript/jquery.min.js"></script>
 <script type="text/javascript" src="https://www.instantpay.in/javascript/custom.js"></script>
-<script type="text/javascript" src="https://www.instantpay.in/javascript/twitter.js"></script>
+<!--<script type="text/javascript" src="https://www.instantpay.in/javascript/twitter.js"></script>-->
 
 <!-- PrettyPhoto --> 
 <link rel="stylesheet" href="https://www.instantpay.in/css/prettyPhoto.css" type="text/css" media="screen">
@@ -51,31 +52,31 @@
 	<div class="social-bookmarks">	
         <div id="login" class="login-cont one-third">
          <form id="loginform" class="form">
-					<p></p>
-					<input name="name" id="mobile" onkeypress="validateMno(event,this.id)" type="text" placeholder="Mobile Number" class="requiredField" min="14" maxlength="14">
-					<input name="pass" id="pass" type="password" placeholder="Password" class="requiredField" maxlength="25">
-                     <input name="verify" id="verify" type="password" placeholder="abc" class="requiredField" style="display:none;">
-                     <input name="newpass" id="newpass" type="password" placeholder="Enter Your New Password" class="requiredField" style="display:none;">	
-                    <p id="forgot" style=" font-size:10px; float:right; margin-right:2px; margin-top:-8px;"><a style="cursor:pointer;">Forgot Password ?</a></p>
-
-					<input name="email" id="email" type="email" placeholder="Email Address" class="requiredField email" style="display:none;">		
-                    <p></p>
-					<input name="submit" id="signin" onclick="signinBut()" value="Sign In" class="submit" type="button">
-                    <span id="error" style="color: red;font-size:11px; margin-left:7px; display:none"></span>
+            <p></p>
+            <input name="name" id="mobile" onkeypress="validateMno(event,this.id)" type="text" placeholder="Mobile Number" class="requiredField" min="14" maxlength="14">
+            <input name="pass" id="pass" type="password" placeholder="Password" class="requiredField" maxlength="25">
+             <input name="verify" id="verify" type="password" placeholder="" class="requiredField" style="display:none;">
+             <input name="newpass" id="newpass" type="password" placeholder="Enter Your New Password" class="requiredField" style="display:none;">	
+            <p id="forgot" style=" font-size:10px; float:right; margin-right:2px; margin-top:-8px;"><a style="cursor:pointer;">Forgot Password ?</a></p>
+    
+            <input name="email" id="email" type="email" placeholder="Email Address" class="requiredField email" style="display:none;">		
+            <p></p>
+            <input name="submit" id="signin" onclick="signinBut()" value="Sign In" class="submit" type="button">
+            <span id="error" style="color: red;font-size:11px; margin-left:7px; display:none"></span>
 		</form>
         <div id="logoutform" style="display:none;" class="form">
         <ul class="dropnav" style="background:white; float:left; font-size:14px; font-weight:bold; border:1px solid;">
-         <li id="menu12" style="display:none"><a href="https://www.instantpay.in/profile">My Profile</a></li>         
+         <li id="menu12" style="display:none"><a href="https://www.instantpay.in/profile/">My Profile</a></li>         
          <li id="menu14" style="display:none"><a style="cursor:pointer;">Subscriptions</a></li>         
-         <li id="menu15" style="display:none"><a href="https://www.instantpay.in/transactions">Transactions</a></li>          
-         <li id="menu23" style="display:none"><a href="https://www.instantpay.in/resource">Resource</a></li>          
+         <li id="menu15" style="display:none"><a href="https://www.instantpay.in/transactions/">Transactions</a></li>          
+         <li id="menu23" style="display:none"><a href="https://www.instantpay.in/resource/">Resource</a></li>          
          <li><a style="cursor:pointer;" id="signout">Sign Out</a></li>		
 		</ul>
         <div class="wallet" style="float:right; margin-top:40px; width:140px;">
          <div align="center">
                     
-          <div id="menu8" style=" display:none; margin-bottom:7px; margin-left:30px;"><a href="https://www.instantpay.in/wallet"><img src="https://www.instantpay.in/images/wallet.png"></a></div>
-          <div id="menu28" style=" display:none;font-weight:bold; font-size:16px; margin-left:20px; color:grey"><a href="https://www.instantpay.in/wallet">₹&nbsp;<span id="balance"></span></a><p style="font-size:10px;"></p><div style="color:#999999; margin-left:7px; margin-top:-10px;"><span id="addfundbut" style="cursor:pointer; font-size:11px; display:block;">(add funds)</span><span id="addfundacts" style="display:none;"><form action="https://www.instantpay.in/payment/addFunds" method="post"><input type="text" placeholder="Enter Amount" id="addfundsamt" name="addfundsamt" onkeypress="amt_validate(event,this.id)" maxlength="5" style="width:100px; font-size:12px;"><input class="submit" type="submit" value="Add Now" style="width:90px; font-size:12px;"></form></span></div><p></p></div>          
+          <div id="menu8" style=" display:none; margin-bottom:7px; margin-left:30px;"><a href="https://www.instantpay.in/wallet/"><img src="https://www.instantpay.in/images/wallet.png"></a></div>
+          <div id="menu28" style=" display:none;font-weight:bold; font-size:16px; margin-left:20px; color:grey"><a href="https://www.instantpay.in/wallet/">₹&nbsp;<span id="balance"></span></a><p style="font-size:10px;"></p><div style="color:#999999; margin-left:7px; margin-top:-10px;"><span id="addfundbut" style="cursor:pointer; font-size:11px; display:block;">(add funds)</span><span id="addfundacts" style="display:none;"><form action="https://www.instantpay.in/payment/addFunds/" method="post"><input type="text" placeholder="Enter Amount" id="addfundsamt" name="addfundsamt" onkeypress="amt_validate(event,this.id)" maxlength="5" style="width:100px; font-size:12px;"><input class="submit" type="submit" value="Add Now" style="width:90px; font-size:12px;"></form></span></div><p></p></div>          
          </div>
         </div>
         <div class="clear"></div>
@@ -178,13 +179,13 @@
 			<h3 class="title">LINKS</h3>	
 			<ul class="latest-posts">
 			
-				<li><a href="https://www.instantpay.in/faq" style="cursor:pointer; font-style:oblique;">FAQ</a></li>
+				<li><a href="https://www.instantpay.in/faq/" style="cursor:pointer; font-style:oblique;">FAQ</a></li>
 												
-				<li><a href="https://www.instantpay.in/terms" style="cursor:pointer; font-style:oblique;">Terms of Use</a></li>
+				<li><a href="https://www.instantpay.in/terms/" style="cursor:pointer; font-style:oblique;">Terms of Use</a></li>
 												
-				<li><a href="https://www.instantpay.in/privacy" style="cursor:pointer; font-style:oblique;">Privacy Policy</a></li>
+				<li><a href="https://www.instantpay.in/privacy/" style="cursor:pointer; font-style:oblique;">Privacy Policy</a></li>
 												
-				<li><a href="https://www.instantpay.in/contact" style="cursor:pointer; font-style:oblique;">Contact Us</a></li>
+				<li><a href="https://www.instantpay.in/contact/" style="cursor:pointer; font-style:oblique;">Contact Us</a></li>
 													
 			</ul>
 		</div><!--END ONE-FOURTH LAST-->	
@@ -196,13 +197,13 @@
 				
 		<div class="one-half">
 			<p><strong>© instantPay.in</strong></p>
-			<p style="color:#8CDAD4; font-size:10px; margin-left:10px;">SMS<i>daak</i> Networks Private Limited</p>
+			<p style="color:#8CDAD4; font-size:10px; margin-left:10px;">SMSdaak India Limited</p>
 		</div><!--END ONE-HALF-->	
 				
 		<div class="one-half trigger-footer last">
 			<p><a class="" href="#">View more stuff</a></p>
             <br>
-            <p class="footer">Page rendered in <strong>0.0248</strong> seconds</p>
+            <p class="footer">Page rendered in <strong>0.0317</strong> seconds</p>
 		</div><!--END ONE-HALF TRIGGER-FOOTER LAST-->
 	</div><!--END FOOTER-BOTTOM-->
 </div>
