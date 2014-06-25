@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbc.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102185524id_/http%3A//www.hsbc.com/utilities/terms-and-conditions/privacy-policy%3FWT.ac%3DHGHQ_f8.2_On) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095932id_/http%3A//www.hsbc.com/terms-and-conditions/privacy-policy%3FWT.ac%3DHGHQ_f8.2_On) for the most accurate reproduction.*
 
 # HSBC Holdings plc - Privacy policy
 
@@ -6,7 +6,7 @@ This privacy statement sets out the privacy policy of hsbc.com.
 
 hsbc.com provides a portal, or gateway, to the financial services offered by members of the HSBC Group. The Site is owned by HSBC Holdings plc. HSBC Holdings plc is a public limited company registered in England and Wales under Company Register Number 617987 and with its registered office at 8, Canada Square, London, England E14 5HQ.
 
-For more information on how to use this website and definitions used in this privacy policy, please see the [Terms and conditions](https://web.archive.org/utilities/terms-and-conditions "Terms and conditions").
+For more information on how to use this website and definitions used in this privacy policy, please see the [Terms and conditions](https://web.archive.org/terms-and-conditions "Terms and conditions").
 
 ##### Privacy
 
@@ -20,7 +20,7 @@ If you register your personal details for the email alerts service, we will ask 
 
 ##### Cookies
 
-You should read our [Cookie Policy](https://web.archive.org/utilities/cookie-policy "Cookie Policy") to find out more about how HSBC and our trusted partners use cookies, which is relevant to your experience on this website.
+You should read our [Cookie Policy](https://web.archive.org/cookie-policy "Cookie Policy") to find out more about how HSBC and our trusted partners use cookies, which is relevant to your experience on this website.
 
 ##### Web beacons and spotlight tags
 
