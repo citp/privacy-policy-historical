@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotel-guides.us privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909161512id_/http%3A//hotelguides.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotel-guides.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072955id_/http%3A//hotelguides.com/privacy-policy.html) for the most accurate reproduction.*
 
 # HotelGuides.com - Our Privacy Policy
 
@@ -6,9 +6,11 @@
 
 * * *
 
-  *   *   * [](https://web.archive.org/no-fees-no-prepay.html)
+  *   * 
+
 
 We value our own privacy, and we genuinely respect yours. So here's what we do and don't do. 
+
   1. We do _not_ share information about you with anyone other than the hotel where you plan to stay and your credit card company – unless we are legally required to do so. 
   2. We send a secure, encrypted version of your charge card information to hotels, but we do _not_ store this information on our computers. 
   3. We do store your name, city, state or province, postal code, country, email address, and phone number when you make a reservation ... so you don't have to re-enter this information the next time you make a reservation. 
