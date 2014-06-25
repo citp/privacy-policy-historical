@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mom.xxx privacy policy that was archived on 2013-08-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130805170902id_/http%3A//mom.xxx/tour/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mom.xxx privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625131430id_/http%3A//mom.xxx/tour/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="cufon-active cufon-ready"><head>
     <meta charset="utf-8">
@@ -36,14 +36,111 @@ _gaq.push(['_trackPageview']);
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
+<script>
+var default_URL = "http://www.danesnetwork.com"; // this is the URL you want to go on the popup unless a goto url is sent
 
+var cookie_name = "sitepu"; // this can be any alphanumeric string (no spaces or special characters)
+
+var window_width = 1200; // window width in pixels
+var window_height = 800; // window height in pixels
+var window_resize = 1; // allow popup window to be resizes, to disallow change to 0
+var window_scroll = 1; // show scroll bars on new window, to disallow change to 0
+var window_status = 1; // show status bar on new window, to disallow change to 0
+var window_location = 1; // show the URL location bar, to disallow change to 0
+var window_toolbar = 1; // show browser toolbar, to disallow change to 0
+
+var hours = 24; // number of hours until next popup
+
+function popup_Set_Cookie( name, value, expires, path, domain, secure )
+{
+	// set time, it's in milliseconds
+	var today = new Date();
+	today.setTime( today.getTime() );
+	
+	if ( expires )
+	{
+	expires = expires * 1000 * 60 * 60;
+	}
+	var expires_date = new Date( today.getTime() + (expires) );
+	
+	document.cookie = name + "=" +escape( value ) +
+	( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
+	( ( path ) ? ";path=" + path : "" ) +
+	( ( domain ) ? ";domain=" + domain : "" ) +
+	( ( secure ) ? ";secure" : "" );
+}
+
+function popup_Get_Cookie( check_name ) {
+	// first we'll split this cookie up into name/value pairs
+	// note: document.cookie only returns name=value, not the other components
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f
+
+	for ( i = 0; i < a_all_cookies.length; i++ )
+	{
+		// now we'll split apart each name=value pair
+		a_temp_cookie = a_all_cookies[i].split( '=' );
+
+		// and trim left/right whitespace while we're at it
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+
+		// if the extracted name matches passed check_name
+		if ( cookie_name == check_name )
+		{
+			b_cookie_found = true;
+			// we need to handle case where cookie has no value but exists (no = sign, that is):
+			if ( a_temp_cookie.length > 1 )
+			{
+				cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+			}
+			// note that in cases where cookie is initialized but no value, null is returned
+			return cookie_value;
+			break;
+		}
+		a_temp_cookie = null;
+		cookie_name = '';
+	}
+	if ( !b_cookie_found )
+	{
+		return null;
+	}
+}
+
+
+// start editing here for the setting you want
+
+function winGo(goto)
+{
+
+	
+	var URL = default_URL;
+	
+	if (goto) {
+		URL = goto;
+	}
+	
+	// checking for cookie
+	if (!popup_Get_Cookie(cookie_name))
+	{
+		// setting cookie
+		popup_Set_Cookie(cookie_name,"1",hours,"/","","")
+		
+		pop_window = window.open(URL,'pop_window','location='+ window_location +',status='+ window_status +',scrollbars='+ window_scroll +',resizable='+ window_resize +',toolbar='+ window_toolbar +',width='+ window_width +',height='+window_height); 
+	}
+}
+
+document.onclick = function() {winGo()};
+</script>
  
   </head>
   <body class="_home">
   	<div class="topBar">
       <div class="patternOverlay">
 			  <ul class="social">
-           <li><a target="blank" href="https://www.facebook.com/pages/Ruseful/331071283687407" class="fbook"><span class="fb">&nbsp;&nbsp;Facebook</span></a></li>
+           <li><a target="blank" href="https://www.facebook.com/DaneJonesHD?fref=ts" class="fbook"><span class="fb">&nbsp;&nbsp;Facebook</span></a></li>
            <li><a target="blank" href="https://twitter.com/Ruseful" class="twitter"><span class="twit">twitter</span></a></li>
         </ul>      
      </div>
@@ -83,7 +180,7 @@ _gaq.push(['_trackPageview']);
 <h4 align="left">How Do We Collect Information?</h4>
 <p>Cookies. A cookie is a message that is sent to your browser from a Web server and stored on your computers hard drive. We may use cookies to assist in (a) retrieving your encrypted password if you are one of our members, to help you stay logged on the Site (b) keeping track of videos that you view (based upon your IP address) so that we can recommend videos based on your preferences (c) keeping track of and associating your video ratings with your account if you are logged in. (d) providing video recommendations. These cookies are used only for the operation of Mom.xxx<br> IP Address. An IP address is a number that is assigned to your computer automatically when you use the Internet. We may collect IP addresses for the purposes of systems administration, server problem diagnosis and to compile aggregate information (such as how many visitors visited the Site and their approximate geographic locations). When you visit a particular Web page on the Site, our servers log your IP address. We analyze aggregated user traffic information to improve the quality of the user-experience</p>
 <h4 align="left">Types of Information</h4>
-<p>Personally Identifiable Information (PII). PII is information that identifies you as an individual, such as your name, mailing address, phone number, email address, credit card information, video materials that you submit, comments you make including such information, or other information that you submit voluntarily, including, but not limited to, when you contact us by email. Mom.xxx does not collect PII from users except for email addresses. In limited cases there are the following exceptions:<br> User submits feedback to the Sites<br> User sends the Sites a support-related email.<br> Mom.xxx absolutely does not distribute user email addresses to third party vendors unless necessary to solve a user-submitted support ticket.<br> Non-Personally Identifiable Information (Non-PII). Non-PII is information that does not identify you as an individual including but not limited to your browser type, language, Internet Protocol (IP) address, browser cookies, operating system, the date and time of your request, and the types of services you use.</p>
+<p>Personally Identifiable Information (PII). PII is information that identifies you as an individual, such as your name, mailing address, phone number, email address, video materials that you submit, comments you make including such information, or other information that you submit voluntarily, including, but not limited to, when you contact us by email. Mom.xxx does not collect PII from users except for email addresses. In limited cases there are the following exceptions:<br> User submits feedback to the Sites<br> User sends the Sites a support-related email.<br> Mom.xxx absolutely does not distribute user email addresses to third party vendors unless necessary to solve a user-submitted support ticket.<br> Non-Personally Identifiable Information (Non-PII). Non-PII is information that does not identify you as an individual including but not limited to your browser type, language, Internet Protocol (IP) address, browser cookies, operating system, the date and time of your request, and the types of services you use.</p>
 <h4 align="left">How Do We Use Your Information?</h4>
 <p>PII: As stated above, the only PII collected in limited cases is your email address. We will not knowingly disclose your PII to third parties without your permission. <br> We may use your PII to administer and manage your account. In addition, we may disclose your PII when we believe in good faith that any applicable law or legal process requires it, or if we believe we need to disclose it to protect or enforce our rights or the rights of our members, users, or other third parties. Without limitation of the foregoing, we may disclose your information pursuant to the Mom.xxx Terms of Service to a third party that alleges you have infringed their intellectual property rights. <br> Non-PII: We may disclose Non-PII in connection with improving the services we offer. In addition, we may combine your Non-PII that relates to your use of the Mom.xxx site to improve our site and user experience. In addition, we may disclose your Non-PII when we believe in good faith that any applicable law or legal process requires it, or if we believe we need to disclose it to protect or enforce our rights or the rights of our members, users, or other third parties. <br> <br> Mom.xxx maintains and stores indefinitely logs of user visits to each webpage. Logs contain Non-PII including, but not limited to, access time, URL, ip address, referring URL, search terms, browser type, cookie contents, video player activity performance and other technical details related to performance/troubleshooting. These logs are stored on secure servers. Analytics. Google Analytics is a free service offered by Google that generates detailed statistics about the visitors to a website. There is no PII collected by Google or Mom.xxx in the use of these analytics. You may view the Google privacy policy at this link http://www.google.com/intl/en/analytics/privacyoverview.html</p>
 <h4 align="left">Transfer of Information</h4>
@@ -97,6 +194,7 @@ _gaq.push(['_trackPageview']);
           </section>
         </div>
 
+<center><script type="text/javascript" src="https://pay.wnu.com/logos.js?mastercode=602468"></script></center>
           <section class="bottomNav">
               <ul>
                 <li><a href="index.php">Home</a></li>
@@ -123,9 +221,9 @@ _gaq.push(['_trackPageview']);
             <li><a target="_blank" href="webmasters.html">WEBMASTERS</a></li>
           </ul>
           <p>COPYRIGHT ©2012 MomXXX<br><a style="text-decoration: none;color:#555;" href="legal.html">ALL MODELS ARE AT LEAST 18 YEARS OF AGE<br>18 U.S.C. 2257 RECORD-KEEPING REQUIREMENTS COMPLIANCE STATEMENT</a></p>
-  <p><br>
-  </p>
+
   	</div>
+        <a href="http://www.websitesecure.org/cert.php?CertID=FPF43SJ" title="Website Secure" onclick="window.open('http://www.websitesecure.org/cert.php?CertID=FPF43SJ','WebsiteSecure','width=600, height=340, location=no, menubar=no, resizable=no, scrollbars=no, status=no, titlebar=no, toolbar=no, '); return false;"><img src="http://www.websitesecure.org/sealDisplay.php?CertID=FPF43SJ" border="0" hspace="0" vspace="0" width="100" height="100" alt="Website Secure"></a>
   </div>
 </footer>
 
