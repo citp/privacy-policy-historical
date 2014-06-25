@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwiklearning.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220172410id_/http%3A//kwiklearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwiklearning.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114615id_/http%3A//www.kwiklearning.com/privacy) for the most accurate reproduction.*
 
 # Kwik Learning - Speed Reading, Memory & Brain Performance Training
 
