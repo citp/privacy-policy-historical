@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bdmusiccafe.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019115903id_/http%3A//bdmusiccafe.com/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdmusiccafe.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625160603id_/http%3A//bdmusiccafe.com/policy/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BDmusicCafe.com
+# Privacy Policy
 
 **Privacy Policy for www.bdmusiccafe.com**
 
