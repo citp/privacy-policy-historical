@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the perpetualkid.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813043146id_/http%3A//www.perpetualkid.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perpetualkid.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001015id_/http%3A//www.perpetualkid.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Perpetual Kid - Unique Gifts to Entertain Your Inner Child - Privacy Policy
+
+| [ ](https://web.archive.org/sale-coupon.aspx) |   
+---  
+---  
+  
+
+
+[ ](https://web.archive.org/international-shipping.aspx)  
+[ ](https://web.archive.org/international-shipping.aspx)   
+
+
+[Home](https://web.archive.org/) > Privacy Policy
+
+| | |   
+---|---|---  
+| 
 
 Our Commitment To Privacy
 
@@ -26,13 +42,21 @@ Phone Number
 
 The Way We Use Information:
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.  We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.  We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.  Such exceptions are for our shipping carrier aand PowerReviews.  We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.  We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
 Anti-Spam:
 
-We hate Spam just as much as everybody else. We only send you email to communicate about your order or to provide you with our newsletters and other special announcements if you have opted to receive such notifications.
+We hate Spam just as much as everybody else. We only send you emails to communicate about your order.
+
+Newsletters:
+
+If you opt in to receive our email newsletters, you can easily unsubscribe at any time by clicking the unsubscribe link at the bottom of the newsletter, emailing your request to customer-service@perpetualkid.com, or by sending a written request to Perpetual Kid, 22480 Randolph Dr., #100, Sterling, VA 20166.
+
+Opting Out:
+
+If you would like to unsubscribe to all correspondence with Perpetual Kid, please email customer-service@perpetualkid.com, call us at 888-282-7115 or send a written request to Perpetual Kid, 22480 Randolph Dr., #100, Sterling, VA 20166.
 
 Our Commitment To Data Security
 
@@ -41,3 +65,6 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 Our Commitment To Children's Privacy:
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13.
+
+|   
+| | 
