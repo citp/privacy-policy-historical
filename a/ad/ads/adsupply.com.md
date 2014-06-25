@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsupply.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810062502id_/http%3A//adsupply.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsupply.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103639id_/http%3A//www.adsupply.com/privacy.html) for the most accurate reproduction.*
 
 # AdSupply - Privacy Policy
 
@@ -46,7 +46,7 @@ Except as otherwise discussed in this Privacy Policy, this document only address
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website. Our Terms and Conditions can be found at http://adsupply.com/AdvertisersTerms.pdf.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website. Our Terms and Conditions can be found at <http://adsupply.com/advertisers.html> and <http://adsupply.com/publishers.html>.
 
 **Your Consent**
 
