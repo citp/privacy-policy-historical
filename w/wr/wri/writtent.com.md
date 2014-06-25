@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the writtent.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208022214id_/http%3A//writtent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writtent.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093811id_/http%3A//writtent.com/privacy_policy) for the most accurate reproduction.*
 
-# Writtent.com: Privacy Policy
+# Privacy policy | Writtent
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. Writtent.com uses cookies. We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
@@ -18,9 +18,9 @@ We may collect, store and use the following kinds of personal information:
 
 ## 2\. Cookies
 
-A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser, and stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. We may use both "session" cookies and "persistent" cookies on the website. Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date. We will use the session cookies to: keep track of you whilst you navigate the website; keep track of items in your shopping basket; prevent fraud and increase website security. 
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser, and stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. We may use both "session" cookies and "persistent" cookies on the website. Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date. We will use the session cookies to: keep track of you whilst you navigate the website; keep track of items in your shopping basket; prevent fraud and increase website security.
 
-We will use the persistent cookies to: enable our website to recognise you when you visit; keep track of your preferences in relation to the use of our website. We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>. Our payment services providers may also send you cookies. Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites.
+We will use the persistent cookies to: enable our website to recognise you when you visit; keep track of your preferences in relation to the use of our website. We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>. Our payment services providers may also send you cookies. Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites. 
 
 ## 3\. Using your personal information
 
@@ -40,9 +40,9 @@ Personal information submitted to us via this website will be used for the purpo
 
 
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. All our website financial transactions are handled through our payment services provider, SWREG.org. You can review the SWREG.org privacy policy at SWREG.org. 
+We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. All our website financial transactions are handled through our payment services provider, 2Checkout.com. You can review the 2Checkout.com privacy policy at 2Checkout.com.
 
-We will share information with SWREG.org only to the extent necessary for the purposes of processing payments you make via our website, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
+We will share information with 2Checkout.com only to the extent necessary for the purposes of processing payments you make via our website, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
 
 ## 4\. Disclosures
 
@@ -63,7 +63,7 @@ Information that we collect may be stored and processed in and transferred betwe
 
 ## 6\. Security of your personal information
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology. Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).
+We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. We will store all the personal information you provide on our secure (password- and firewall- protected) servers. Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).
 
 ## 7\. Policy amendments
 
@@ -73,12 +73,12 @@ We may update this privacy policy from time-to-time by posting a new version on 
 
 You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
 
-  * the payment of a fee (currently fixed at $10.00); 
-  * and the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address). 
+  * the payment of a fee (currently fixed at $10.00);
+  * and the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
 
 
 
-We may withhold such personal information to the extent permitted by law. You may instruct us not to process your personal information for marketing purposes, by sending an email to us at [care@writtent.com](mailto:care@writtent.com). In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
+We may withhold such personal information to the extent permitted by law. You may instruct us not to process your personal information for marketing purposes, by sending an email to us at [care@writtent.com](mailto:care@writtent.com). In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes. 
 
 ## 9\. Third party websites
 
@@ -90,4 +90,4 @@ Please let us know if the personal information which we hold about you needs to 
 
 ## 11\. Contact
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [care@writtent.com](mailto:care@writtent.com).
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [care@writtent.com](mailto:care@writtent.com). 
