@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prague.tv privacy policy that was archived on 2013-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131228031434id_/http%3A//prague.tv/about/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prague.tv privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625044502id_/http%3A//prague.tv/about/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -21,6 +21,16 @@
 <link rel="index" href="/sitemap/" title="Site Map">
 <link rel="search" href="/search/" title="Search Prague TV">
 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="/js/new/selectize.js"></script>
+<link rel="stylesheet" href="/js/new/selectize.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/js/new/aaasearch.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/js/new/selectize.default.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/js/new/selectize.bootstrap2.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/js/new/selectize.bootstrap3.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/js/new/selectize.legacy.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/css/aaa/AAA_style.css" type="text/css" media="screen">
+<script type="text/javascript" src="/js/new/ptv.js"></script>
 <!-- STYLES -->
 <style type="text/css" media="screen">
 	@import url("/css/ptv.css");
@@ -151,286 +161,306 @@
 
 <div id="container">
 <div id="directoryMenu" class="directoryMenu" style="display: none;">
-	<div onmouseout="tagVisibility('SELECT','show');noneLayer('directoryMenu');" onmouseover="tagVisibility('SELECT','hide');displayLayer('directoryMenu','block');" class="border">
-		<table cellspacing="0" summary="">
-			<tbody>
-				<tr>
-					<td class="textContainer"><a href="/prague-directory/"><strong>Browse categories</strong></a></td>
-					<td class="textContainer sec_column"><a href="/advertise/"><strong>List your business</strong></a></td>
-				</tr>
-				<tr>
-					<td class="textContainer sec_column"><a href="/prague/accommodation">Accommodation</a></td>
-					<td class="textContainer sec_column"><a href="/prague/arts">Art and Culture</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/prague/business">Business</a></td>
-					<td class="textContainer sec_column"><a href="/prague/community-organizations">Community Organizations</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/prague/dining">Dining</a></td>
-					<td class="textContainer sec_column"><a href="/prague/education">Education</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/prague/finance">Financial Services</a></td>
-					<td class="textContainer sec_column"><a href="/prague/government-utilities">Government and Utilities</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/prague/health">Health &amp; Wellness</a></td>
-					<td class="textContainer sec_column"><a href="/prague/jobs">Jobs</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/prague/media">Media</a></td>
-					<td class="textContainer sec_column"><a href="/prague/nightlife">Nightlife</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/prague/performers">Performers</a></td>
-					<td class="textContainer sec_column"><a href="/prague/pets">Pets</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/prague/realestate">Real Estate</a></td>
-					<td class="textContainer sec_column"><a href="/prague/religion">Religion</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/prague/relocation">Relocation</a></td>
-					<td class="textContainer sec_column"><a href="/prague/services">Services</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/prague/shopping">Shopping</a></td>
-					<td class="textContainer sec_column"><a href="/prague/sightseeing">Sightseeing &amp; Attractions</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/prague/sports-and-recreation">Sports &amp; Recreation</a></td>
-					<td class="textContainer sec_column"><a href="/prague/prague-technology-internet">Technology</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/prague/travel">Travel</a></td>
-				</tr>
-			</tbody>
-		</table>
-	</div>
+    <div onmouseout="tagVisibility('SELECT', 'show');
+            noneLayer('directoryMenu');" onmouseover="tagVisibility('SELECT', 'hide');
+                    displayLayer('directoryMenu', 'block');" class="border">
+        <table cellspacing="0" summary="">
+            <tbody>
+                <tr>
+                    <td class="textContainer"><a href="/prague-directory/"><strong>Browse categories</strong></a></td>
+                    <td class="textContainer sec_column"><a href="/advertise/"><strong>List your business</strong></a></td>
+                </tr>
+                <tr>
+                                                <td class="textContainer sec_column"><a href="/prague/accommodation">Accommodation</a></td>
+                                                        <td class="textContainer sec_column"><a href="/prague/arts">Art and Culture</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/prague/business">Business</a></td>
+                                                        <td class="textContainer sec_column"><a href="/prague/community-organizations">Community Organizations</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/prague/dining">Dining</a></td>
+                                                        <td class="textContainer sec_column"><a href="/prague/education">Education</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/prague/finance">Financial Services</a></td>
+                                                        <td class="textContainer sec_column"><a href="/prague/government-utilities">Government and Utilities</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/prague/health">Health &amp; Wellness</a></td>
+                                                        <td class="textContainer sec_column"><a href="/prague/jobs">Jobs</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/prague/media">Media</a></td>
+                                                        <td class="textContainer sec_column"><a href="/prague/nightlife">Nightlife</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/prague/performers">Performers</a></td>
+                                                        <td class="textContainer sec_column"><a href="/prague/pets">Pets</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/prague/realestate">Real Estate</a></td>
+                                                        <td class="textContainer sec_column"><a href="/prague/religion">Religion</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/prague/relocation">Relocation</a></td>
+                                                        <td class="textContainer sec_column"><a href="/prague/services">Services</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/prague/shopping">Shopping</a></td>
+                                                        <td class="textContainer sec_column"><a href="/prague/sightseeing">Sightseeing &amp; Attractions</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/prague/sports-and-recreation">Sports &amp; Recreation</a></td>
+                                                        <td class="textContainer sec_column"><a href="/prague/prague-technology-internet">Technology</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/prague/travel">Travel</a></td>
+                                                        <td class="textContainer sec_column"><a href="/aaa.php">Cars</a></td>
+                                            </tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 
 <div id="reMenu" class="reMenu" style="display: none;">
-	<div onmouseout="tagVisibility('SELECT','show');noneLayer('reMenu');" onmouseover="tagVisibility('SELECT','hide');displayLayer('reMenu','block');" class="border">
-		<table cellspacing="0" summary="">
-			<tbody>
-				<tr>
-					<td class="textContainer"><a href="/realestate/listing.php?offer_type=rental&amp;property_type=flat&amp;sf=1"><strong>Prague Real Estate</strong></a></td>
-					<td class="textContainer sec_column"><a href="/realestate/search.php">Search properties</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/realestate/listing.php?offer_type=rental&amp;property_type=flat&amp;sf=1">List rental apartments</a></td>
-					<td class="textContainer sec_column"><a href="/realestate/home-hunter.php">Home Hunter service</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/realestate/listing.php?offer_type=sale&amp;property_type=flat&amp;sf=1">List sale apartments</a></td>
-				<!-- td class="textContainer sec_column"><a href="/realestate/property-submit.php">List your property</a></td></tr -->
-				<!-- tr>
-					<td class="textContainer"><a href="/realestate/development-list.php">List new developments</a></td -->
-					<td class="textContainer sec_column"><a href="/realestate/property-finder.php">Property investment</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/realestate/resources.php">Articles &amp; FAQs</a></td>
-					<td class="textContainer sec_column"><a href="/prague/realestate/realestate-agencies">Real Estate Agencies</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/realestate/services.php">Partner services</a></td>
-					<td class="textContainer sec_column"><a href="/realestate/contact.php">Realtor signup</a></td>
-				</tr>
-			</tbody>
-		</table>
-	</div>
+    <div onmouseout="tagVisibility('SELECT', 'show');
+            noneLayer('reMenu');" onmouseover="tagVisibility('SELECT', 'hide');
+                    displayLayer('reMenu', 'block');" class="border">
+        <table cellspacing="0" summary="">
+            <tbody>
+                <tr>
+                    <td class="textContainer"><a href="/realestate/listing.php?offer_type=rental&amp;property_type=flat&amp;sf=1"><strong>Prague Real Estate</strong></a></td>
+                    <td class="textContainer sec_column"><a href="/realestate/search.php">Search properties</a></td>
+                </tr>
+                <tr>
+                    <td class="textContainer"><a href="/realestate/listing.php?offer_type=rental&amp;property_type=flat&amp;sf=1">List rental apartments</a></td>
+                    <td class="textContainer sec_column"><a href="/realestate/home-hunter.php">Home Hunter service</a></td>
+                </tr>
+                <tr>
+                    <td class="textContainer"><a href="/realestate/listing.php?offer_type=sale&amp;property_type=flat&amp;sf=1">List sale apartments</a></td>
+                    <!-- td class="textContainer sec_column"><a href="/realestate/property-submit.php">List your property</a></td></tr -->
+                    <!-- tr>
+                            <td class="textContainer"><a href="/realestate/development-list.php">List new developments</a></td -->
+                    <td class="textContainer sec_column"><a href="/realestate/property-finder.php">Property investment</a></td>
+                </tr>
+                <tr>
+                    <td class="textContainer"><a href="/realestate/resources.php">Articles &amp; FAQs</a></td>
+                    <td class="textContainer sec_column"><a href="/prague/realestate/realestate-agencies">Real Estate Agencies</a></td>
+                </tr>
+                <tr>
+                    <td class="textContainer"><a href="/realestate/services.php">Partner services</a></td>
+                    <td class="textContainer sec_column"><a href="/realestate/contact.php">Realtor signup</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 
-<div id="jobsMenu" class="jobsMenu" style="display: none;">
-	<div onmouseout="tagVisibility('SELECT','show');noneLayer('jobsMenua');" onmouseover="tagVisibility('SELECT','hide');displayLayer('jobsMenua','block');" class="border">
-		<table cellspacing="0" summary="">
-			<tbody>
-				<tr><td class="textContainer"><a href="/jobs/"><strong>Prague Jobs</strong></a></td></tr>
-				<tr><td class="textContainer"><a href="/jobs/listjobs.php">List job offers</a></td></tr>
-				<tr><td class="textContainer"><a href="/classifieds/?cat=jo">Classifieds</a></td></tr>
-				<tr><td class="textContainer"><a href="/articles/relocation/">Relocation articles</a></td></tr>
-				<tr><td class="textContainer"><a href="/qa/jobs/">Czech Jobs Q&amp;A</a></td></tr>
-				<tr><td class="textContainer"><a href="/prague/jobs/recruitment-agencies">Recruitment Agencies</a></td></tr>
-				<tr><td class="textContainer"><a href="/prague/jobs/temporary-employment-agencies">Temp Agencies</a></td></tr>
-				<tr><td class="textContainer"><a href="/prague/education/tefl-courses">TEFL Training</a></td></tr>
-			</tbody>
-		</table>
-	</div>
-</div>
-
+    <div id="jobsMenu" class="jobsMenu" style="display: none;">
+        <div onmouseout="tagVisibility('SELECT', 'show');
+                    noneLayer('jobsMenua');" onmouseover="tagVisibility('SELECT', 'hide');
+                            displayLayer('jobsMenua', 'block');" class="border">
+            <table cellspacing="0" summary="">
+                <tbody>
+                    <tr><td class="textContainer"><a href="/jobs/"><strong>Prague Jobs</strong></a></td></tr>
+                    <tr><td class="textContainer"><a href="/jobs/listjobs.php">List job offers</a></td></tr>
+                    <tr><td class="textContainer"><a href="/classifieds/?cat=jo">Classifieds</a></td></tr>
+                    <tr><td class="textContainer"><a href="/articles/relocation/">Relocation articles</a></td></tr>
+                    <tr><td class="textContainer"><a href="/qa/jobs/">Czech Jobs Q&amp;A</a></td></tr>
+                    <tr><td class="textContainer"><a href="/prague/jobs/recruitment-agencies">Recruitment Agencies</a></td></tr>
+                    <tr><td class="textContainer"><a href="/prague/jobs/temporary-employment-agencies">Temp Agencies</a></td></tr>
+                    <tr><td class="textContainer"><a href="/prague/education/tefl-courses">TEFL Training</a></td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    
 <div id="bbMenu" class="bbMenu" style="display: none;">
-	<div onmouseout="tagVisibility('SELECT','show');noneLayer('bbMenu');" onmouseover="tagVisibility('SELECT','hide');displayLayer('bbMenu','block');" class="border">
-		<table cellspacing="0" summary="">
-			<tbody>
-				<tr>
-					<td class="textContainer"><a href="/classifieds/new.php"><strong>Post a free ad</strong></a></td>
-					<td class="textContainer sec_column"><a href="/classifieds/?cat=an">Announcements</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/classifieds/?cat=ed">Education</a></td>
-					<td class="textContainer sec_column"><a href="/classifieds/?cat=fk">Family and kids</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/classifieds/?cat=as">Flat share</a></td>
-					<td class="textContainer sec_column"><a href="/classifieds/?cat=ao">Flats offered</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/classifieds/?cat=aw">Flats wanted</a></td>
-					<td class="textContainer sec_column"><a href="/classifieds/?cat=fs">Items for sale</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/classifieds/?cat=iw">Items wanted</a></td>
-					<td class="textContainer sec_column"><a href="/classifieds/?cat=jw">Jobs wanted</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/classifieds/?cat=lf">Lost and found</a></td>
-					<td class="textContainer sec_column"><a href="/classifieds/?cat=m">Miscellaneous</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/classifieds/?cat=p">Personal</a></td>
-					<td class="textContainer sec_column"><a href="/classifieds/?cat=rs">Ride sharing</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/classifieds/?cat=s">Services</a></td>
-				</tr>
-			</tbody>
-		</table>
-	</div>
+    <div onmouseout="tagVisibility('SELECT', 'show');
+            noneLayer('bbMenu');" onmouseover="tagVisibility('SELECT', 'hide');
+                    displayLayer('bbMenu', 'block');" class="border">
+        <table cellspacing="0" summary="">
+            <tbody>
+                <tr>
+                    <td class="textContainer"><a href="/classifieds/new.php"><strong>Post a free ad</strong></a></td>
+                                                <td class="textContainer sec_column"><a href="/classifieds/?cat=an">Announcements</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/classifieds/?cat=ed">Education</a></td>
+                                                        <td class="textContainer sec_column"><a href="/classifieds/?cat=fk">Family and kids</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/classifieds/?cat=as">Flat share</a></td>
+                                                        <td class="textContainer sec_column"><a href="/classifieds/?cat=ao">Flats offered</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/classifieds/?cat=aw">Flats wanted</a></td>
+                                                        <td class="textContainer sec_column"><a href="/classifieds/?cat=fs">Items for sale</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/classifieds/?cat=iw">Items wanted</a></td>
+                                                        <td class="textContainer sec_column"><a href="/classifieds/?cat=jw">Jobs wanted</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/classifieds/?cat=lf">Lost and found</a></td>
+                                                        <td class="textContainer sec_column"><a href="/classifieds/?cat=m">Miscellaneous</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/classifieds/?cat=p">Personal</a></td>
+                                                        <td class="textContainer sec_column"><a href="/classifieds/?cat=rs">Ride sharing</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/classifieds/?cat=s">Services</a></td>
+                                            </tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 
 <div id="qaMenu" class="qaMenu" style="display: none;">
-	<div onmouseout="tagVisibility('SELECT','show');noneLayer('qaMenu');" onmouseover="tagVisibility('SELECT','hide');displayLayer('qaMenu','block');" class="border">
-		<table cellspacing="0" summary="">
-			<tbody>
-				<tr>
-					<td class="textContainer"><a href="/qa/post.php"><strong>Post to Q and A</strong></a></td>
-					<td class="textContainer sec_column"><a href="/qa/listposts.php"><strong>List all posts</strong></a></td>
-				</tr>
-				<tr>
-					<td class="textContainer sec_column"><a href="/qa/art-and-culture/">Art &amp; Culture</a></td>
-					<td class="textContainer sec_column"><a href="/qa/business/">Business</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/qa/czech-language/">Czech Language</a></td>
-					<td class="textContainer sec_column"><a href="/qa/education/">Education</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/qa/expat-life/">Expat life</a></td>
-					<td class="textContainer sec_column"><a href="/qa/food-dining/">Food &amp; Dining</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/qa/health/">Health</a></td>
-					<td class="textContainer sec_column"><a href="/qa/jobs/">Jobs</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/qa/nightlife/">Nightlife</a></td>
-					<td class="textContainer sec_column"><a href="/qa/parents-kids/">Parents &amp; Kids</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/qa/prague-real-estate/">Real Estate</a></td>
-					<td class="textContainer sec_column"><a href="/qa/relocation-visa/">Relocation &amp; Visas</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/qa/shopping-and-services/">Shopping &amp; Services</a></td>
-					<td class="textContainer sec_column"><a href="/qa/site-news/">Site News</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/qa/sports-and-recreation/">Sports &amp; Recreation</a></td>
-					<td class="textContainer sec_column"><a href="/qa/technology/">Technology</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/qa/tefl/">TEFL</a></td>
-					<td class="textContainer sec_column"><a href="/qa/travel/">Travel</a></td>
-				</tr>
-				<tr>
-					<td class="textContainer"><a href="/qa/visitors-and-tourism/">Visitors &amp; Tourism</a></td>
-				</tr>
-			</tbody>
-		</table>
-	</div>
+    <div onmouseout="tagVisibility('SELECT', 'show');
+            noneLayer('qaMenu');" onmouseover="tagVisibility('SELECT', 'hide');
+                    displayLayer('qaMenu', 'block');" class="border">
+        <table cellspacing="0" summary="">
+            <tbody>
+                <tr>
+                    <td class="textContainer"><a href="/qa/post.php"><strong>Post to Q and A</strong></a></td>
+                    <td class="textContainer sec_column"><a href="/qa/listposts.php"><strong>List all posts</strong></a></td>
+                </tr>
+                <tr>
+                                                <td class="textContainer sec_column"><a href="/qa/art-and-culture/">Art &amp; Culture</a></td>
+                                                        <td class="textContainer sec_column"><a href="/qa/business/">Business</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/qa/czech-language/">Czech Language</a></td>
+                                                        <td class="textContainer sec_column"><a href="/qa/education/">Education</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/qa/expat-life/">Expat life</a></td>
+                                                        <td class="textContainer sec_column"><a href="/qa/food-dining/">Food &amp; Dining</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/qa/health/">Health</a></td>
+                                                        <td class="textContainer sec_column"><a href="/qa/jobs/">Jobs</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/qa/nightlife/">Nightlife</a></td>
+                                                        <td class="textContainer sec_column"><a href="/qa/parents-kids/">Parents &amp; Kids</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/qa/prague-real-estate/">Real Estate</a></td>
+                                                        <td class="textContainer sec_column"><a href="/qa/relocation-visa/">Relocation &amp; Visas</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/qa/shopping-and-services/">Shopping &amp; Services</a></td>
+                                                        <td class="textContainer sec_column"><a href="/qa/site-news/">Site News</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/qa/sports-and-recreation/">Sports &amp; Recreation</a></td>
+                                                        <td class="textContainer sec_column"><a href="/qa/technology/">Technology</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/qa/tefl/">TEFL</a></td>
+                                                        <td class="textContainer sec_column"><a href="/qa/travel/">Travel</a></td>
+                                                    </tr>
+                        <tr>
+                            <td class="textContainer"><a href="/qa/visitors-and-tourism/">Visitors &amp; Tourism</a></td>
+                                            </tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 
 <div id="relocationMenu" class="relocationMenu" style="display: none;">
-	<div onmouseout="tagVisibility('SELECT','show');noneLayer('relocationMenu');" onmouseover="tagVisibility('SELECT','hide');displayLayer('relocationMenu','block');" class="border">
-		<table cellspacing="0" summary="">
-			<tbody>
-				<tr><td class="textContainer"><a href="/prague/relocation">Czech Relocation</a></td></tr>
-				<tr><td class="textContainer"><a href="/realestate/">Find an apartment</a></td></tr>
-				<tr><td class="textContainer"><a href="/prague/jobs">List jobs offered</a></td></tr>
-				<tr><td class="textContainer"><a href="/classifieds/?cat=jw">Jobs wanted</a></td></tr>
-				<tr><td class="textContainer"><a href="/prague/education">Find a school</a></td></tr>
-				<tr><td class="textContainer"><a href="/articles/relocation/">Relocation articles</a></td></tr>
-				<tr><td class="textContainer"><a href="http://prague.tv/qa/relocation/">Relocation Q&amp;A</a></td></tr>
-				<tr><td class="textContainer"><a href="/venues/?cat=moving">Moving Companies</a></td></tr>
-				<tr><td class="textContainer"><a href="/venues/?cat=relocation-services">Relocation Services</a></td></tr>
-				<tr><td class="textContainer"><a href="/venues/?cat=shipping-services">Shipping Services</a></td></tr>
-				<tr><td class="textContainer"><a href="/venues/?cat=used-car-dealers">Used Car Dealers</a></td></tr>
-				<tr><td class="textContainer"><a href="/venues/?cat=wedding-services">Wedding Services</a></td></tr>
-				<tr><td class="textContainer"><a href="/realestate/realestate-agencies/">Real Estate Agencies</a></td></tr>
-			</tbody>
-		</table>
-	</div>
+    <div onmouseout="tagVisibility('SELECT', 'show');
+            noneLayer('relocationMenu');" onmouseover="tagVisibility('SELECT', 'hide');
+                    displayLayer('relocationMenu', 'block');" class="border">
+        <table cellspacing="0" summary="">
+            <tbody>
+                <tr><td class="textContainer"><a href="/prague/relocation">Czech Relocation</a></td></tr>
+                <tr><td class="textContainer"><a href="/realestate/">Find an apartment</a></td></tr>
+                <tr><td class="textContainer"><a href="/prague/jobs">List jobs offered</a></td></tr>
+                <tr><td class="textContainer"><a href="/classifieds/?cat=jw">Jobs wanted</a></td></tr>
+                <tr><td class="textContainer"><a href="/prague/education">Find a school</a></td></tr>
+                <tr><td class="textContainer"><a href="/articles/relocation/">Relocation articles</a></td></tr>
+                <tr><td class="textContainer"><a href="http://prague.tv/qa/relocation/">Relocation Q&amp;A</a></td></tr>
+                                    <tr><td class="textContainer"><a href="/venues/?cat=moving">Moving Companies</a></td></tr>
+                                        <tr><td class="textContainer"><a href="/venues/?cat=relocation-services">Relocation Services</a></td></tr>
+                                        <tr><td class="textContainer"><a href="/venues/?cat=shipping-services">Shipping Services</a></td></tr>
+                                        <tr><td class="textContainer"><a href="/venues/?cat=used-car-dealers">Used Car Dealers</a></td></tr>
+                                        <tr><td class="textContainer"><a href="/venues/?cat=wedding-services">Wedding Services</a></td></tr>
+                                    <tr><td class="textContainer"><a href="/realestate/realestate-agencies/">Real Estate Agencies</a></td></tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 
 <div id="eventsMenu" class="eventsMenu" style="display: none;">
-	<div onmouseout="tagVisibility('SELECT','show');noneLayer('eventsMenu');" onmouseover="tagVisibility('SELECT','hide');displayLayer('eventsMenu','block');" class="border">
-		<table cellspacing="0" summary="">
-			<tbody>
-				<tr><td class="textContainer"><a href="/events/today"><strong>Picks for the week</strong></a></td></tr>
-				<tr><td class="textContainer"><a href="/events/today">Events for today</a></td></tr>
-				<tr><td class="textContainer"><a href="/events/tomorrow"> Events for tomorrow</a></td></tr>
-				<tr><td class="textContainer"><a href="/events/weekend">Events for this weekend</a></td></tr>
-				<tr><td class="textContainer"><a href="/events/next7days">Events for next 7 days</a></td></tr>
-				<tr><td class="textContainer"><a href="/events/search.php">Search for an event</a></td></tr>
-				<tr><td class="textContainer"><a href="/events/submit.php">Submit an event</a></td></tr>
-			</tbody>
-		</table>
-	</div>
+    <div onmouseout="tagVisibility('SELECT', 'show');
+            noneLayer('eventsMenu');" onmouseover="tagVisibility('SELECT', 'hide');
+                    displayLayer('eventsMenu', 'block');" class="border">
+        <table cellspacing="0" summary="">
+            <tbody>
+                <tr><td class="textContainer"><a href="/events/today"><strong>Picks for the week</strong></a></td></tr>
+                <tr><td class="textContainer"><a href="/events/today">Events for today</a></td></tr>
+                <tr><td class="textContainer"><a href="/events/tomorrow"> Events for tomorrow</a></td></tr>
+                <tr><td class="textContainer"><a href="/events/weekend">Events for this weekend</a></td></tr>
+                <tr><td class="textContainer"><a href="/events/next7days">Events for next 7 days</a></td></tr>
+                <tr><td class="textContainer"><a href="/events/search.php">Search for an event</a></td></tr>
+                <tr><td class="textContainer"><a href="/events/submit.php">Submit an event</a></td></tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 
 <div id="cinemaMenu" class="cinemaMenu" style="display: none;">
-	<div onmouseout="tagVisibility('SELECT','show');noneLayer('cinemaMenu');" onmouseover="tagVisibility('SELECT','hide');displayLayer('cinemaMenu','block');" class="border">
-		<table cellspacing="0" summary="">
-			<tbody>
-				<tr><td class="textContainer"><a href="/cinema-listings/"><strong>Prague TV Picks</strong></a></td></tr>
-				<tr><td class="textContainer"><a href="/cinema-listings/list-movies.php">Films playing Today</a></td></tr>
-				<tr><td class="textContainer"><a href="/cinema-listings/list-movies.php?whenfor=tomorrow"> Tomorrow</a></td></tr>
-				<tr><td class="textContainer"><a href="/cinema-listings/list-movies.php?whenfor=theweekend">This Weekend</a></td></tr>
-				<tr><td class="textContainer"><a href="/venues/list.php?cat=cinemas">List Cinemas</a></td></tr>
-				<tr><td class="textContainer"><a href="/cinema-listings/film-finder.php">Find a Movie</a></td></tr>
-				<tr><td class="textContainer"><a href="/articles/cinema/">Movie Reviews</a></td></tr>
-			</tbody>
-		</table>
-	</div>
+    <div onmouseout="tagVisibility('SELECT', 'show');
+            noneLayer('cinemaMenu');" onmouseover="tagVisibility('SELECT', 'hide');
+                    displayLayer('cinemaMenu', 'block');" class="border">
+        <table cellspacing="0" summary="">
+            <tbody>
+                <tr><td class="textContainer"><a href="/cinema-listings/"><strong>Prague TV Picks</strong></a></td></tr>
+                <tr><td class="textContainer"><a href="/cinema-listings/list-movies.php">Films playing Today</a></td></tr>
+                <tr><td class="textContainer"><a href="/cinema-listings/list-movies.php?whenfor=tomorrow"> Tomorrow</a></td></tr>
+                <tr><td class="textContainer"><a href="/cinema-listings/list-movies.php?whenfor=theweekend">This Weekend</a></td></tr>
+                <tr><td class="textContainer"><a href="/venues/list.php?cat=cinemas">List Cinemas</a></td></tr>
+                <tr><td class="textContainer"><a href="/cinema-listings/film-finder.php">Find a Movie</a></td></tr>
+                <tr><td class="textContainer"><a href="/articles/cinema/">Movie Reviews</a></td></tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 
 <div id="visitorsMenu" class="visitorsMenu" style="display: none;">
-	<div onmouseout="tagVisibility('SELECT','show');noneLayer('visitorsMenu');" onmouseover="tagVisibility('SELECT','hide');displayLayer('visitorsMenu','block');" class="border">
-		<table cellspacing="0" summary="">
-			<tbody>
-				<tr><td class="textContainer"><a href="/prague/accommodation">Accommodation</a></td></tr>
-				<tr><td class="textContainer"><a href="/prague/travel/airlines">Airlines</a></td></tr>
-				<tr><td class="textContainer"><a href="/prague/travel/car-rental">Car Rental</a></td></tr>
-				<tr><td class="textContainer"><a href="/prague/embassies/">Embassies</a></td></tr>
-				<tr><td class="textContainer"><a href="/exchange-rates/">Exhange rates</a></td></tr>
-				<tr><td class="textContainer"><a href="/prague-directory/">Prague Directory</a></td></tr>
-				<tr><td class="textContainer"><a href="/prague/travel/travel-agents">Travel Agents</a></td></tr>
-				<tr><td class="textContainer"><a href="/prague/travel/travel-services">Travel Services</a></td></tr>
-				<tr><td class="textContainer"><a href="/prague/travel/travel-visas">Travel Visas</a></td></tr>
-				<tr><td class="textContainer"><a href="/prague/travel/sightseeing-tours">Sightseeing Tours</a></td></tr>
-			</tbody>
-		</table>
-	</div>
+    <div onmouseout="tagVisibility('SELECT', 'show');
+            noneLayer('visitorsMenu');" onmouseover="tagVisibility('SELECT', 'hide');
+                    displayLayer('visitorsMenu', 'block');" class="border">
+        <table cellspacing="0" summary="">
+            <tbody>
+                <tr><td class="textContainer"><a href="/prague/accommodation">Accommodation</a></td></tr>
+                <tr><td class="textContainer"><a href="/prague/travel/airlines">Airlines</a></td></tr>
+                <tr><td class="textContainer"><a href="/prague/travel/car-rental">Car Rental</a></td></tr>
+                <tr><td class="textContainer"><a href="/prague/embassies/">Embassies</a></td></tr>
+                <tr><td class="textContainer"><a href="/exchange-rates/">Exhange rates</a></td></tr>
+                <tr><td class="textContainer"><a href="/prague-directory/">Prague Directory</a></td></tr>
+                <tr><td class="textContainer"><a href="/prague/travel/travel-agents">Travel Agents</a></td></tr>
+                <tr><td class="textContainer"><a href="/prague/travel/travel-services">Travel Services</a></td></tr>
+                <tr><td class="textContainer"><a href="/prague/travel/travel-visas">Travel Visas</a></td></tr>
+                <tr><td class="textContainer"><a href="/prague/travel/sightseeing-tours">Sightseeing Tours</a></td></tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 <!-- content -->
 <div id="header">
 <div style="position:absolute;z-index:999999;left:-9999px;"></div>
 <div id="header_content">
-	<div style="left:66px; position:absolute; top:70px; z-index:9999;"><img src="/images/layout/christmas_baby.png" width="27" height="39" alt="Christmass"></div>
+	<div style="left:66px; position:absolute; top:70px; z-index:9999;"><img src="/images/layout/blank_baby.png" width="27" height="39" alt="Christmass"></div>
+
 	<div class="ptv_logo"><a href="http://prague.tv"><img src="/images/blank.gif" width="180" height="65" alt="PragueTV"></a></div>
 
-	<div id="top_ads"><a href="http://prague.tv/phpads/www/delivery/ck.php?oaparams=2__bannerid=2833__zoneid=140__cb=b6e90001e7__maxdest=http://www.opencall.cz/en/s858/E-Shop/c2216-Phones-and-tablets" target="_blank"><img src="http://prague.tv/images/ads/728x90_13open_call.gif" width="728" height="90" alt="Open Call / Phones and tablets" title="Open Call / Phones and tablets" border="0"></a><div id="beacon_2833" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://prague.tv/phpads/www/delivery/lg.php?bannerid=2833&amp;campaignid=1638&amp;zoneid=140&amp;loc=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;referer=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;cb=b6e90001e7" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>
+	<div id="top_ads"><a href="http://prague.tv/phpads/www/delivery/ck.php?oaparams=2__bannerid=3043__zoneid=140__cb=caf49548a3__maxdest=http://praha.dinopark.cz/" target="_blank"><img src="http://prague.tv/images/ads/dinopark-web-728x90.jpg" width="728" height="90" alt="Dino Part at Harfa" title="Dino Part at Harfa" border="0"></a><div id="beacon_3043" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://prague.tv/phpads/www/delivery/lg.php?bannerid=3043&amp;campaignid=1737&amp;zoneid=140&amp;loc=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;referer=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;cb=caf49548a3" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>
 <div id="user_stuff" class="hidden">
 
 <form action="/about/privacy.php?" method="post">
@@ -507,7 +537,7 @@
 <!-- end of header -->
 <div class="hidden" id="formregisterdiv">
 	<form class="formregister" id="formregister" name="formregister" action="/users/register.php" method="post">
-		<input type="hidden" name="captchakey22" value="5,13,14,17">
+		<input type="hidden" name="captchakey22" value="28,29,26,10">
 		<h3>Create your Prague TV account:</h3>
 		<div class="leftpart">
 			<label for="user_login">User name:<br>
@@ -532,7 +562,7 @@
 
 			<p><strong>Please enter the code in the box provided:</strong></p>
 
-			<label for="captcha"><img src="/captcha/?randnew=5,13,14,17" alt=""> <input type="text" style="margin-left:16px;" name="captcha22" maxlength="6" size="8"></label>
+			<label for="captcha"><img src="/captcha/?randnew=28,29,26,10" alt=""> <input type="text" style="margin-left:16px;" name="captcha22" maxlength="6" size="8"></label>
 
 			<div class="centerthings">
 				<input id="email2" type="text" value="" name="email2" style="position:absolute; left:-500px;">
@@ -665,9 +695,9 @@ The following policy is intended to explain how your personal information will b
 <div id="recent_gl">
 <h1>RECENT GOLD LISTINGS</h1>
 <div id="gl" class="sb">
-<p><img src="/venues/extras/patricie-accounting-prague/ppp.jpg" width="40" height="40" alt="Accounting Patricie..."><a href="http://prague.tv/prague/finance/accountants/patricie-accounting-prague">Accounting Patricie...</a><br>complete services to help foreig...</p>
-<p><img src="/venues/extras/gov-daily/GovDaily2.jpg" width="40" height="40" alt="GovDaily"><a href="http://prague.tv/prague/media/newspapers/gov-daily">GovDaily</a><br>GovDaily - Your Morning Dose of...</p>
-<p><img src="/venues/extras/george-prime-steak/1383635_240428579444240_1594252959_n.jpg" width="40" height="40" alt="George Prime Steak"><a href="http://prague.tv/prague/dining/restaurants-steakhouses/george-prime-steak">George Prime Steak</a><br>quintessential American-style st...</p>
+<p><img src="/venues/extras/cacaoprague/CACAO_LOGO_all_data_brown2.jpg" width="40" height="40" alt="Cacao Prague"><a href="http://prague.tv/prague/dining/restaurants-cafes/cacaoprague">Cacao Prague</a><br>Cacao is the new face in Prague‘...</p>
+<p><img src="/venues/extras/patoma-reality/logoPATOMA_nahled.jpg" width="40" height="40" alt="PATOMA reality"><a href="http://prague.tv/prague/realestate/realestate-agencies/patoma-reality">PATOMA reality</a><br>modern Prague real estate agency...</p>
+<p><img src="/venues/extras/apartment-reality/logo1.jpg" width="40" height="40" alt="Apartment Reality"><a href="http://prague.tv/prague/realestate/realestate-agencies/apartment-reality">Apartment Reality</a><br>specialist ecpecially for rental...</p>
 </div>
 <div id="free_listing">
 <img src="/images/layout/green-arrow.gif" align="left" alt="free business listing"><a href="/advertise/get-listed.php">Get a free business listing</a>
@@ -677,33 +707,43 @@ The following policy is intended to explain how your personal information will b
 <div id="recent_articles" class="sb">
 <h1><strong>RECENT ARTICLES</strong></h1>
 <ul>
-<li class="metacat_articles"><a href="/articles/frontpage/merry-christmas-ptv-2013">Merry Christmas!</a></li>
-<li class="metacat_articles"><a href="/articles/nightlife/new-year-roxy-ecstasy-house-party">New Year @ Roxy’s Ecstasy House Party</a></li>
-<li class="metacat_articles"><a href="/articles/nightlife/prague-beer-museum">Prague Beer Museum</a></li>
-<li class="metacat_articles"><a href="/articles/sports/league5-futsal-tournament">League5 Futsal Tournament</a></li>
-<li class="metacat_articles"><a href="/articles/nightlife/new-years-eve-jama-steakhouse-2013">New Year's Eve in Jama Steakhouse!</a></li>
-<li class="metacat_articles"><a href="/articles/nightlife/super-silvester-party-jama-2013">Super Silvester Party in Jáma!</a></li>
-<li class="metacat_articles"><a href="/articles/sports/pokerstars-pro-jake-cody-interview">PokerStars pro Jake Cody talks to Prague.TV </a></li>
-<li class="metacat_articles"><a href="/articles/dining/christmas-new-years-eve-dining-zatisi-group">Christmas &amp; New Year's Eve Dining with Zátiší Group</a></li>
-<li class="metacat_articles"><a href="/articles/realestate/major-legislative-changes-regarding-real-estate">Major Legislative Changes Regarding Real Estate in the Czech Republic Introduced by the New Czech Civil Code</a></li>
-<li class="metacat_articles"><a href="/articles/sports/ice-hockey-in-the-czech-republic">Ice Hockey in the Czech Republic</a></li>
+<li class="metacat_articles"><a href="/articles/education/fifth-annual-ted-x-prague-conference-hits-the-capital">Fifth annual TEDxPrague conference hits the capital</a></li>
+<li class="metacat_articles"><a href="/articles/dining/the-farm-urban-kitchen-and-coffee">The Farm Urban Kitchen and Coffee  - Summer Hotspots 2014</a></li>
+<li class="metacat_articles"><a href="/articles/nightlife/big-summer-party-glow-in-the-dark">BIG SUMMER Party - Glow in the Dark!</a></li>
+<li class="metacat_articles"><a href="/articles/travel/narodni-metro-station-opens-june-27">Národní Metro Station Opens on June 27th</a></li>
+<li class="metacat_articles"><a href="/articles/dining/tgi-fridays-na-prikope-renovations-auction">TGI Friday’s Na Příkopě renovations/auction</a></li>
+<li class="metacat_articles"><a href="/articles/business/opencall-mobile-roaming-prices-below-limits">OpenCall Mobile launch mobile roaming prices well below limits set by European Union</a></li>
+<li class="metacat_articles"><a href="/articles/sports/pragues-best-parks">Prague’s Best Parks</a></li>
+<li class="metacat_articles"><a href="/articles/dining/tgi-fridays-bartender-championship">TGI Friday’s Bartender Championship</a></li>
+<li class="metacat_articles"><a href="/articles/art-and-culture/karlovy-vary-international-film-festival">Karlovy Vary International Film Festival</a></li>
+<li class="metacat_articles"><a href="/articles/dining/prague-burgerfest-2014">Prague Burgerfest 2014</a></li>
 </ul>
 </div>
 
 </div>
 <div id="fourth_col">
 <div id="fourth_col_add" class="sb"><script type="text/javascript" src="http://prague.tv/phpads/www/delivery/fl.js"></script>
-<div id="ox_80779d4b8f9fd835c158b4d7f47b6a66" style="display: inline;"><img src="http://prague.tv/images/ads/1x1.gif" alt="Prague's # 1 source for Czech news in English" title="Prague's # 1 source for Czech news in English" border="0"></div>
+<div id="ox_1ea224cc3f7a9b97c766d68a79f622dc" style="display: inline;"><img src="http://prague.tv/images/ads/1x1.gif" alt="Accounting &amp; Company creating" title="Accounting &amp; Company creating" border="0"></div>
 <script type="text/javascript"><!--// <![CDATA[
-var ox_swf = new FlashObject('http://prague.tv/images/ads/prague-monitor_120x160.swf', 'Prague&#039;s # 1 source for Czech news in English', '120', '160', '10');
-    ox_swf.addVariable('clickTARGET', '_blank');
-    ox_swf.addVariable('clickTAG', 'http%3A%2F%2Fprague.tv%2Fphpads%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2184__zoneid%3D297__cb%3Dc04bf361ce');
+var ox_swf = new FlashObject('http://prague.tv/images/ads/pu_banner_120x160_l_2.swf', 'Accounting & Company creating', '120', '160', '10');
+    ox_swf.addVariable('alink1', 'http%3A%2F%2Fprague.tv%2Fphpads%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2899__zoneid%3D297__cb%3D58a2497e4d__maxdest%3Dhttp%3A%2F%2Fwww.accounting-prague.com%2F');
+    ox_swf.addVariable('atar1', '_blank');
 
    ox_swf.addParam('wmode','transparent');
 ox_swf.addParam('allowScriptAccess','always');
-ox_swf.write('ox_80779d4b8f9fd835c158b4d7f47b6a66');
-// ]]> --></script><div id="beacon_2184" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://prague.tv/phpads/www/delivery/lg.php?bannerid=2184&amp;campaignid=1408&amp;zoneid=297&amp;loc=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;cb=c04bf361ce" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><br><br>
-<a href="http://prague.tv/phpads/www/delivery/ck.php?oaparams=2__bannerid=2779__zoneid=296__cb=8263fc9261__maxdest=http://www.galerieharfa.cz/en/" target="_blank"><img src="http://prague.tv/images/ads/harfa120x600.jpg" width="120" height="600" alt="Galerie Harfa" title="Galerie Harfa" border="0"></a><div id="beacon_2779" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://prague.tv/phpads/www/delivery/lg.php?bannerid=2779&amp;campaignid=1489&amp;zoneid=296&amp;loc=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;referer=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;cb=8263fc9261" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><div id="fourth_col_content" class="sb">
+ox_swf.write('ox_1ea224cc3f7a9b97c766d68a79f622dc');
+// ]]> --></script><div id="beacon_2899" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://prague.tv/phpads/www/delivery/lg.php?bannerid=2899&amp;campaignid=1696&amp;zoneid=297&amp;loc=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;referer=http%3A%2F%2Fprague.tv%2F&amp;cb=58a2497e4d" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><br><br>
+<script type="text/javascript" src="http://prague.tv/phpads/www/delivery/fl.js"></script>
+<div id="ox_e2e8b20c1425ac3430b380f15805c369" style="display: inline;"><img src="http://prague.tv/images/ads/1x1.gif" alt="V6 Technology; Projects; Management" title="V6 Technology; Projects; Management" border="0"></div>
+<script type="text/javascript"><!--// <![CDATA[
+var ox_swf = new FlashObject('http://prague.tv/images/ads/v6_120x600_sec_2.swf', 'V6 Technology; Projects; Management', '120', '600', '10');
+    ox_swf.addVariable('alink1', 'http%3A%2F%2Fprague.tv%2Fphpads%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2881__zoneid%3D296__cb%3D9644ce4633__maxdest%3Dhttp%3A%2F%2Fwww.thinkv6.com%2Fv6-sales-query%2F');
+    ox_swf.addVariable('atar1', '_new');
+
+   ox_swf.addParam('wmode','transparent');
+ox_swf.addParam('allowScriptAccess','always');
+ox_swf.write('ox_e2e8b20c1425ac3430b380f15805c369');
+// ]]> --></script><div id="beacon_2881" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://prague.tv/phpads/www/delivery/lg.php?bannerid=2881&amp;campaignid=1695&amp;zoneid=296&amp;loc=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;referer=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;cb=9644ce4633" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><div id="fourth_col_content" class="sb">
 <h2>DID YOU KNOW...</h2>
 <p class="small">Looking for a job? Check out PTV's <a class="small" href="/jobs/">job listings</a>.</p>
 </div><div id="fourth_col_content_1" class="sb">
@@ -735,7 +775,7 @@ roundedcorners.render('fourth_col_content_1');
 	| <a title="Advertising Information" href="/advertise/">Advertise</a>
 	| <a title="Privacy Policy" href="/about/privacy.php">Privacy</a>
 	| <a title="Terms of Service" href="/about/terms.php">Terms of Service</a></p>
-<p><strong>Prague TV is a Real Time Production.</strong> ©2013 All rights reserved.</p>
+<p><strong>Prague TV is a Real Time Production.</strong> ©2014 All rights reserved.</p>
 
 	<p><img src="/images/layout/baby-bottom.gif" alt="Prague Directory"></p>
 
