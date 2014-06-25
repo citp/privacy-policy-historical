@@ -1,417 +1,357 @@
-<!--The following is the downloaded HTML source of the shopybids.com privacy policy that was archived on 2013-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424044922id_/http%3A//shopybids.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopybids.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625113309id_/http%3A//www.shopybids.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">      <title>ShopyBids, The Best Penny Auction Site!- Shopybids.com</title>
-      <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <base href="http://shopybids.com/">
+        <title>Privacy - Shopybids.com</title>
+        <meta name="description" content="Shopybids is an online entertainment retail auction site. The best auctions, the best price in a single click.">
+    <meta name="keywords" content="">
+    <meta name="verify-v1" content="">
+    
+    <link rel="stylesheet" href="css/themes/smoothness/jquery-ui-1.8.11.custom.css" media="screen,projection" type="text/css">
+    <link rel="stylesheet" href="css/auction.css" media="screen,projection" type="text/css">
+    <link rel="stylesheet" href="css/flashmap.css" media="screen,projection" type="text/css">
+    <script type="text/javascript" src="js/jquery-1.5.1.min.js"></script>
+    <script type="text/javascript" src="js/ui/jquery-ui-1.8.11.custom.min.js"></script>
+    <script type="text/javascript" src="lib/livesupport/js/support.js"></script>
+    <script type="text/javascript" src="lib/livesupport/js/cufon-yui.js"></script>
 
-      <link rel="alternate" type="application/rss+xml" href="/auctions/index.rss" title="Live Auctions">
-         <meta name="description" content="Shopybids Online auction site in the cloud, Free shipping, win without limits, Save up to 95%, the best penny auction site, Brand new products and more."><meta name="keywords" content="penny bid, online bidding sites, penny auction sites, the best auction websites, bid auction site, the best penny auction site "><link rel="stylesheet" type="text/css" href="/css/style.css"><link rel="stylesheet" type="text/css" href="/css/help.css"><script type="text/javascript" src="/js/jquery/jquery.js"></script><script type="text/javascript" src="/js/jquery/ui.js"></script><script type="text/javascript" src="/js/default.js"></script><script type="text/javascript" src="/js/jquery.metadata.v2.js"></script><script type="text/javascript" src="/js/jquery.media.js"></script>         <!--[if lt IE 7]>
-         <script type="text/javascript" src="/js/dropdown.js"></script>         <![endif]-->
+    <script type="text/javascript">
+        
+        var CurrencySymbol='$';
+        var enableTimerDelayer=true;
+        var timeoutvalue=1500;
+        var siteurl='http://shopybids.com/';
 
-         
-                  
-                  
-         <script type="text/javascript">
-            <!--
-            // page_top_scroll
-            $(function () {
-               $('#link_to_top').click(function () {
-                  $(this).blur();
+        var refreshRate=1000;
+        var ajaxTimeOut=2000;
+        
+        function _delete_login_fields(_field, _default, _current) { if (_default == _current) { _field.value=''; } }
 
-                  $('html,body').animate({ scrollTop: 0 }, 'normal');
-                  return false;
-               });
+
+        function onBeforeUnloadAction() {
+            $.ajax({
+                type: "GET",
+                url: siteurl+"updatelogin.php",
+                success: function(responseData){
+                }
             });
-            -->
-         </script>
 
+        }
 
-         <script type="text/javascript">
+        window.onbeforeunload = function(f) {
+            if (!f) f = window.event;
+            if (typeof f.pageX == "number") { X = f.pageX; Y = f.pageY; } else { X = f.clientX; Y = f.clientY; };
+            if((X<0) || (Y<0)) { return onBeforeUnloadAction(); }
+        }
 
-            $(document).ready(function(){
-               $("#signin").click(function(){
-                  $("#signin_form").show();
-                  $(this).addClass('clicked');
-                  return false;
-               });
+        function UpdateLoginLogout() {
+            $.ajax({
+                type: "GET",
+                url: siteurl+"updatelogin.php",
+                success: function(responseData){
+                }
             });
+        }
+        
+    </script>
+    <script type="text/javascript" src="js/function.js"></script>
+    <script type="text/javascript" src="js/flashauction.js"></script>
+    <script type="text/javascript" src="js/default.js"></script>
+    
+    <!-- Add mousewheel plugin (this is optional) -->
+	<script type="text/javascript" src="lib/jquery.mousewheel-3.0.6.pack.js"></script>
 
-            document.onclick=check;
-            function check(e){
-               var target = (e && e.target) || (event && event.srcElement);
-               var obj = document.getElementById('signin_form');
-               var obj2 = document.getElementById('signin');
-               checkParent(target)?obj.style.display='none':null;
-               checkParent(target)?obj2.className='':null;
-               target==obj2?obj.style.display='block':null;
-               target==obj2?obj2.className='clicked':null
+	<!-- Add fancyBox main JS and CSS files -->
+	<script type="text/javascript" src="source/jquery.fancybox.js?v=2.0.6"></script>
+	<link rel="stylesheet" type="text/css" href="source/jquery.fancybox.css?v=2.0.6" media="screen">
+
+    
+
+	
+	<style type="text/css">
+		.fancybox-custom .fancybox-skin {
+			box-shadow: 0 0 50px #222;
+		}
+	</style>              <link rel="stylesheet" href="themes/Bids/css/background_nocdn.css" type="text/css">
+            <link rel="stylesheet" href="themes/Bids/css/style.css" type="text/css">
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+        <link rel="icon" href="animated_favicon.gif" type="image/gif">
+        <script type="text/javascript" src="lib/livesupport/js/support.js"></script>
+        <script type="text/javascript" src="lib/livesupport/js/cufon-yui.js"></script>
+        <script type="text/javascript" src="themes/Bids/js/myfunction.js"></script>
+        <!--[if lte IE 7]>
+            <link media="screen" rel="stylesheet" type="text/css" href="themes/Bids/css/ie.css" />
+        <![endif]-->
+    </head>
+    <body>
+    <div id="alert_message" title="Alter Message">
+    <p id="alert_message_content">
+
+    </p>
+</div>
+
+<div id="confirm_message" title="Confirm Message">
+    <p id="confirm_message_content">
+
+    </p>
+</div>
+
+<div id="timeout_dialog" title="Time out" style="display: none;">
+    <p>
+        You have been inactive for 25 minutes, the timer will stop until you press OK.    </p>
+</div>
+
+<div style="display: none">
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        
+        $( "#alert_message" ).dialog({
+            modal: true,
+            autoOpen: false,
+            buttons: {
+                "Ok": function() {
+                    $( this ).dialog( "close" );
+                }
             }
-            function checkParent(t){
-               while(t.parentNode){
-                  if(t==document.getElementById('signin_form')){
-                     return false
-                  }
-                  t=t.parentNode
-               }
-               return true
+        });
+
+        $( "#confirm_message" ).dialog({
+            autoOpen: false,
+            modal:true,
+            resizable:false,
+            buttons: {
+                "Ok": function() {
+                    window.location.href=siteurl+'buybids.php';
+                    $( this ).dialog( "close" );
+                },
+                "Cancel":function(){
+                    $( this ).dialog( "close" );
+                }
             }
+        });
+    });
 
-         </script>
+    function showAlertBox(msg){
+        $('#alert_message_content').html(msg);
+        $('#alert_message').dialog('open');
+    }
 
-   </head>
-   <body>
-      <!--[if lte IE 6]>
-      <script type="text/javascript" src="/js/ie6/warning.js"></script><script>window.onload=function(){e("//js/ie6/")}</script>
-      <![endif]-->
+    function showConfirmBox(msg){
+        $('#confirm_message_content').html(msg);
+        $('#confirm_message').dialog('open');
+    }
 
-      <div id="header">
-         <div align="center">
-            <div style="width:980px; text-align:right;">
-               <div class="logo">
-                  <ul><li><a href="/" title="" class="logo"><span>&nbsp;</span></a></li></ul>
-                                       <br class="clear_br">
-                     
-               </div>
+    function showAutoBidStart(){
+        showAlertBox('Enter Bid Buddy start price please.');
+    }
 
-               <div class="top-menu">
+    function showAutoBidEnd(){
+        showAlertBox('Enter Bid Buddy end price please');
+    }
 
-                  <div class="top-menu">
-         <ul id="before">
-         <li class="no_bg"><a href="/">Home</a></li>
-         <li><a href="/help">Help</a></li>
-         <li><span>Already a member? </span><a href="javascript:void('0');" id="signin">Sign in<i>sign in</i></a></li>
-      </ul>
-      <a href="/users/register" id="user_focus">Sign Up Now</a>
-      <div id="signin_form">
-         <form action="/users/login" method="post" id="UserLoginForm">
-            <div class="row">
-               <div class="left_mid">User Name:</div>
-               <div><input type="text" class="text" id="UserUsername" value="" maxlength="40" name="data[User][username]"></div>
+    function showAutoBids(){
+        showAlertBox('Enter Bid Buddy bids');
+    }
+
+    function showMoreThenOneBids(){
+        showAlertBox('the bids must be greater than zero');
+    }
+
+    function showEndGreaterStart(){
+        showAlertBox('End Price must greater than start price');
+    }
+    function showStartGreaterEnd(){
+        showAlertBox('Start price must greater than end price');
+    }
+
+    function showAddAutoBidderSuccess(){
+        showAlertBox('Add Bid Buddy success');
+    }
+
+    function showInvalidPrice(){
+        showAlertBox('Invalid Price');
+    }
+
+</script>
+
+
+<script type="text/javascript">UpdateLoginLogout();</script>
+
+        <div class="mainheader">
+            <div class="container">
+                <div class="logo">
+    <a href="index.php"><img src="/img/Shoppybids.png" width="225" height="90"></a>
+</div>
+<div style="float:right">
+    <div class="login">
+        <table border="0" cellspacing="0" cellpadding="3">
+            <form name="f1" action="password.php" method="post" accept-charset="utf-8"></form>
+            <tbody>
+                <tr>
+            
+                <td>
+                    <input type="text" class="textfield" name="username" value="username" onfocus="_delete_login_fields(this, 'username', this.value);" id="username">
+                </td>
+                <td>
+                    <input type="password" class="textfield" name="password" onfocus="_delete_login_fields(this, 'password', this.value);" value="password" id="password">
+                </td>                
+            
+            </tr>
+            <tr>
+                <td style="padding-left:14px;">
+                        Forgot Password? <a href="forgotpassword.php">Click Here</a>
+                </td>
+                <td style="padding-left:14px;">
+                        Not a Member? <a href="registration.php">Sign Up Now</a>
+                </td>                
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td style="text-align:right;">
+                    <button type="submit" class="button">login</button>
+                </td>
+            </tr>
+            
+            </tbody>
+            
+        </table>
+    </div>
+</div>
+<div class="clear"></div>                <div class="topmenu">
+                    <div class="dropdown">
+    <ul id="mega">
+        <li>
+            <a href="#"><img src="themes/Bids/images/n_auctions.png" width="188" height="30"></a>
+            <div>
+                <h2>Live Auction</h2>
+                <p>
+                                                                <a href="allauctions.php?id=1">Bid Pack Auction(6)</a>
+                                                                    <a href="allauctions.php?id=4">Mobile Phone(3)</a>
+                                                                    <a href="allauctions.php?id=6">Home(3)</a>
+                                                                    <a href="allauctions.php?id=7">Jewelry &amp;amp; Fashion(0)</a>
+                                                                    <a href="allauctions.php?id=8">TV &amp;amp; Video(4)</a>
+                                                                    <a href="allauctions.php?id=9">Video Games(4)</a>
+                                                    </p><p>
+                                                                    <a href="allauctions.php?id=10">Portable Electronics(2)</a>
+                                                                    <a href="allauctions.php?id=11">Camera &amp;amp; Photo(2)</a>
+                                                                    <a href="allauctions.php?id=12">Computers &amp;amp; Tablets(5)</a>
+                                                                    <a href="allauctions.php?id=13">Gift Cards(3)</a>
+                                                                    <a href="allauctions.php?id=14">Bid Pack Auctions(0)</a>
+                                                                    <a href="allauctions.php?id=15">Outdoors(0)</a>
+                                                            </p>
+                <h2>All Categories</h2>
+                <p>
+                    <a href="allauctions.php?aid=2">Live Auction(32)</a>
+                    <a href="allauctions.php?aid=4">Reverse Auction(0)</a>
+                    <a href="allauctions.php?aid=5">Lowest Unique Auction(0)</a>
+                </p>
+                <p>
+                    <a href="allauctions.php?aid=1">Future Auction(0)</a>
+                    <a href="allauctions.php?aid=3">Ended Auction(8)</a>
+                </p>
             </div>
-            <div class="row">
-               <div class="left_mid">Password:</div>
-               <div><input type="password" id="UserPassword" value="" name="data[User][password]" class="text"></div>
+        </li>
+    </ul>
+</div>
+                    <ul>
+            <li><a href="index.php">Home</a></li>
+    
+            <li><a href="myaccount.php">My Account</a></li>
+                            <li><a href="registration.php">Register</a></li>
+                
+
+            <li><a href="redemption.php">Redemption</a></li>
+    
+            <li><a href="howitworks.php">How it Works</a></li>
+    
+            <li><a href="help.php">Help</a></li>
+    </ul>                </div>
             </div>
-            <div class="row">
-               <div class="left_mid"></div>
-               <div><input name="act_login" type="submit" value="Sign in now" class="button buttonPink" style="width:100px"></div>
-               <div><a href="/users/reset">Forgot?</a></div>
-            </div>
+        </div>
 
-         </form>
-
-      </div>
-   </div>
-
-
-
-
-
-
-
-
-</div>               </div>
-            </div>
-         </div>
-
-         <div id="sub-header" class="clearfix">
-            <div align="center">
-               <div style="width:980px; text-align:left; position:relative;" onmouseout="document.getElementById('category_select').style.display='none'">
-                  <div style="float:left">
-                     
-
-<a onclick="document.getElementById('category_select').style.display='block'" class="category_selector" href="javascript:void('0');">Search auctions</a>
-<ul onmouseover="document.getElementById('category_select').style.display='block'" id="category_select" name="category" style="display: none;">
-   <li class="title"><a href="/auctions">All items (325)</a></li>
-
-   <li class="title"><a href="/categories/BidPack-Auction-20">BidPack Auction</a></li><li class="title"><a href="/categories/Cash-and-Coupons-4">Cash &amp; Coupons</a></li><li class="title"><a href="/categories/Clothing-and-Beauty-15">Clothing &amp; Beauty</a></li><li class="title"><a href="/categories/Computers-and-Accessories-10">Computers &amp; Accessories</a></li><li class="title"><a href="/categories/Consoles-and-Games-6">Consoles &amp; Games</a></li>   <li class="title"><a href="#">Other Auctions (325)</a></li>
-
-         <li><a href="/categories/Featured-Auctions-21">Featured Auctions</a></li>
-            <li><a href="/categories/GPS-and-Navigation-12">GPS &amp; Navigation</a></li>
-            <li><a href="/categories/Health-and-Fitness-14">Health &amp; Fitness</a></li>
-            <li><a href="/categories/Home-and-Garden-7">Home &amp; Garden</a></li>
-            <li><a href="/categories/iPods-MP3-and-Audio-5">iPods, MP3 &amp; Audio</a></li>
-            <li><a href="/categories/Laptops-Notebooks-and-Tablets-8">Laptops, Notebooks &amp; Tablets</a></li>
-            <li><a href="/categories/Moblie-Phones-and-Accessories-9">Moblie Phones &amp; Accessories</a></li>
-            <li><a href="/categories/Photography-11">Photography</a></li>
-            <li><a href="/categories/TV-DVD-and-Audio-3">TV, DVD &amp; Audio</a></li>
-            <li><a href="/categories/Watches-and-Sunglasses-13">Watches &amp; Sunglasses</a></li>
-         <li><a href="/auctions/future">Upcoming auctions (0)</a></li>
-   <li><a href="/auctions/closed">Closed auctions (61)</a></li>
-   <li><a href="/auctions/winners">Winners</a></li>
-   <li><a href="/categories">Categories</a></li>
-
-
+        <div id="wapper_sub_outter">
+            <div id="wapper_sub_inner">
+                <div class="white">
+    <div class="leftmenu">
+        <ul>
+    <li><a href="help.php">Help</a></li>
+    <li><a href="aboutus.php">About Us</a></li>
+    <li><a href="contact.php">Contact Us</a></li>
+    <li><a href="terms.php">Terms &amp; Conditions</a></li>
+    <li><a href="privacy.php">Privacy</a></li>
 </ul>
 
+<a class="bttn" href="contact.php">Contact Us</a>
+<p>&nbsp;</p>    </div>
+    <div class="rightside">
 
+        <h3>Privacy</h3>
+        <div class="clear2"></div>
+        <div class="policy">
+            <p>
+                <span style="font: 17px/normal &quot;Segoe UI&quot;; text-align: left; color: #3e3e3e; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; font-size-adjust: none; font-stretch: normal; background-color: #ffffff; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px" class="Apple-style-span"></span></p><h3 style="margin: 0px; padding: 0px">Scope</h3><div style="margin: 0px; padding: 5px 0px">BidBid.co.uk (hereinafter referred to as “BIDBID”) is a service provided by BidBid.co.uk (hereinafter referred to as “BIDBID” or “We”). We recognize and respect your personal privacy. This Privacy Policy describes all aspects relating to gathering information while you are visiting the BIDBID website, how We handle your personal information for our services and all further permissible uses of such information.</div><div style="margin: 0px; padding: 5px 0px">By accepting the Privacy Policy and the Terms and Conditions in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective 10 days after being posted on the website.</div><h3 style="margin: 0px; padding: 0px">Data Collection</h3><div style="margin: 0px; padding: 5px 0px">You may visit BidBid at any time without providing your identity or revealing any personal information about yourself. However, when you visit BidBid, we may collect and store your computer and connection information, statistics on page views, traffic to and from BidBid, ad data, IP address and standard web log information and information from other companies, such as demographic and navigation data.<br>For you to actively participate in BidBid we do need some of your personal information, however. Once you provide us with your required personal information, you are no longer anonymous. In providing us with your personal information, you consent to the transfer and storage of such information on our servers.<br>In connection with your registration and use of BidBid We may collect and store the following personal information:</div><ul style="margin: 0px; padding: 0px"><li style="margin: 0px; padding: 0px">email address and physical contact information including but not limited to your name, address, date of birth and telephone number;</li><li style="margin: 0px; padding: 0px">all transactional information based on your activities on BIDBID;</li><li style="margin: 0px; padding: 0px">shipping, billing and other information relating to any purchase or shipping;</li><li style="margin: 0px; padding: 0px">any correspondence sent to us;</li><li style="margin: 0px; padding: 0px">financial information, such as your credit card information; and</li><li style="margin: 0px; padding: 0px">other supplemental information from third parties.</li></ul><h3 style="margin: 0px; padding: 0px">Use of Data</h3><div style="margin: 0px; padding: 5px 0px">Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. You agree that we may use your personal information to:</div><ul style="margin: 0px; padding: 0px"><li style="margin: 0px; padding: 0px">provide the services and customer support you request;</li><li style="margin: 0px; padding: 0px">resolve disputes, collect fees, and troubleshoot problems;</li><li style="margin: 0px; padding: 0px">prevent potentially prohibited or illegal activities, and enforce our Terms and Conditions;</li><li style="margin: 0px; padding: 0px">customize, measure and improve our services, content and advertising;</li><li style="margin: 0px; padding: 0px">inform you about our services, targeted marketing, service updates, and promotional offers; and</li><li style="margin: 0px; padding: 0px">compare information for accuracy, and verify it with third parties.</li></ul><h3 style="margin: 0px; padding: 0px">Disclosure of Personal Data</h3><div style="margin: 0px; padding: 5px 0px">We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations.<br>We may also share your personal information with third parties assisting our business operations under contract, including but not limited to fraud investigations and debt collection, with law enforcement or other governmental officials if required by law, and with other business entities, should we plan to merge with or be acquired by that business entity.<br>Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.</div><h3 style="margin: 0px; padding: 0px">Your Information on BIDBID</h3><div style="margin: 0px; padding: 5px 0px">Once you have been approved as registered user with BidBid, you will be required to choose a username. This username will be displayed throughout BidBid and therefore provided to the public. Unless you associate your username with your personal information, users will not be able to personally identify your activities on BidBid.<br>When visiting BidBid from a public or shared computer, certain information about you, such as your username, may also be visible to others who may use such computer after your use.</div><h3 style="margin: 0px; padding: 0px">Access, Review and Change of Personal Data</h3><div style="margin: 0px; padding: 5px 0px">You can access, review and change most of your personal information by signing into BidBid at any time. However, some of your personal information can only be changed by contacting our Customer Service. You are required to promptly update your personal information if changes occur or information is inaccurate.</div><h3 style="margin: 0px; padding: 0px">Revoking Consent/Deleting Your Account</h3><div style="margin: 0px; padding: 5px 0px">Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our General Terms and Conditions, and take other actions otherwise permitted by law.<br>You can delete or deactivate your BidBid account at any time. When you delete your membership, your personal data is removed from our database unless we are required to save the data. As a rule it takes two to three business days until your information is completely removed from all records.</div><h3 style="margin: 0px; padding: 0px">The Use of Cookies at BIDBID</h3><div style="margin: 0px; padding: 5px 0px">BidBid uses so-called “cookies”, which are files that are stored on your computer that can be retrieved to assist in customizing your experience with the online service. The information saved supports the functionality of the site, for example by keeping track of your visual preferences or controlling the frequency of “pop-up” windows. You are free to prevent cookies from being saved on your hard drive by adjusting the corresponding settings in your browser. However, we would like to point out that turning off these settings may result in limited functionality.</div><h3 style="margin: 0px; padding: 0px">Security Measures</h3><div style="margin: 0px; padding: 5px 0px">Your BidBid account and profile and the information contained therein are password protected. Please note that you are not permitted to provide your password to anyone else. BidBid will never ask for your password in emails that you receive unexpectedly or that you did not request. Please remember to sign out of your account and to close your internet browser window when you leave the BidBid site; this is especially important if you use a PC in public locations. At present, this is the safest way to ensure that no one has access to your personal information. We assume no liability for the abuse of login data and passwords used.<br>Further, We treat data as an asset that must be protected. We use lots of security measures to protect your personal information against unauthorized access and disclosure. However, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.</div><h3 style="margin: 0px; padding: 0px">Protection from Web Crawlers or Spam</h3><div style="margin: 0px; padding: 5px 0px">BidBid assures you that we will use your email address with your express consent only for the purposes stated in the Terms of Use. We will not rent or sell your email address to third parties, and we will prevent your email address from being recorded by “web crawlers” or “web spiders” to the best of our ability. If you believe that your email address has been recorded in this way, please let us know immediately.</div><h3 style="margin: 0px; padding: 0px">General</h3><div style="margin: 0px; padding: 5px 0px">We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 10 days after they are initially posted on the site.</div>
+            <p></p>
+        </div>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
 
-
-                  </div>
-
-
-                  <!-- <div id="app">
-                      <a href="http://www.facebook.com">
-                         <img width="48" height="48" alt="facebook" src="/images/facebookx.png">
-                      </a>
-                      <a href="http://www.twitter.com">
-                         <img width="48" height="48" alt="twitter" src="/images/twitterx.png">
-                      </a>
-                      <a href="http://www.youtube.com">
-                         <img width="48" height="48" alt="youtube" src="/images/youtubex.png">
-                      </a>
-                   </div> -->
-
-
-               </div>
-            </div>
-         </div>
-      
-      <div id="container">
-         <div class="containerB"><h4 class="hmenu">Privacy</h4>
-
-<div class="left_menu">
-   <ul id="ul_tab">
-      <li><a href="/help">Help</a></li>
-      <li><a href="/howitworks">How It Works</a></li>
-	  <li><a href="/faq">FAQ</a></li>
-      <li><a class="" href="/about-us">About Us</a></li>
-      <li><a class="" href="/contact">Contact Us</a></li>
-      <li><a href="/terms">Terms &amp; Conditions</a></li>
-      <li><a class="active" href="/privacy">Privacy</a></li>
-      <li><a href="/top10frequentlyquestions">Top 10 Frequently Questions</a></li>
-      <!-- <li><a href="/jobs">Jobs</a></li> -->
-	  <li><a href="/sitemap">Sitemap</a></li>
-		<li><a href="http://www.shopybidstestimonials.com">Testimonials</a></li>
-		<li><a href="/auctions">Live Auctions</a></li>
-		<li><a href="/auctions/future">Future Auctions</a></li>
-		<li><a href="/auctions/closed">Closed Auctions</a></li>
-		<li><a href="/contestandwinfree">Contest &amp; win free bids</a></li>
-		<li><a href="/pressrelease">Press Release</a></li>
-		<li><a href="/shopybidsnotgamblingsite">Shopybids is NOT a Gambling Site</a></li>
-   </ul>
-</div>
-
-<div class="main">
-   <div class="paragraph help_p">
-      <h2 class="dark">Privacy</h2>
-      <h4 class="indentm">Privacy</h4>
-      <div>
-	  <h4>INTERNET PRIVACY POLICY</h4>
-  <p>ShopyBids.com ("ShopyBids  LLC.," "Us," or "We") respects the privacy of every individual who visits our websites. The following Privacy Policy outlines the information ShopyBids may collect and how we may use that information.</p>
-
-<p>Shopybids.com (hereinafter referred to as “Shopybids”) is a service provided by Shopybids Inc. (hereinafter referred to as “Shopybids” or “We”). We recognize and respect your personal privacy. This Privacy Policy describes all aspects relating to gathering information while you are visiting the Shopybids website, how We handle your personal information for our services and all further permissible uses of such information.</p>
-<p>By accepting the Privacy Policy and the Terms and Conditions in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective 10 days after being posted on the website.</p>
-
-<h4>Data Collection</h4>
-
-<p>You may visit Shopybids at any time without providing your identity or revealing any personal information about yourself. However, when you visit our website, We may collect and store your computer and connection information, statistics on page views, traffic to and from Shopybids, ad data, IP address and standard web log information and information from other companies, such as demographic and navigation data.</p>
-<p>For you to actively participate in Shopybids, We do need some of your personal information, however. Once you provide us with your required personal information, you are no longer anonymous. In providing us with your personal information, you consent to the transfer and storage of such information on our servers.</p>
-<p>In connection with your registration and use of Shopybids, We may collect and store the following personal information:</p>
-<br>
-•	email address, physical contact and personal information including but not limited to your name, address, date of birth and telephone number;<br>
-•	all transactional information based on your activities on Shopybids;<br>
-•	shipping, billing and other information relating to any purchase or shipping;<br>
-•	any correspondence sent to us or by us;<br>
-•	financial information, such as your credit card information; and<br>
-•	other supplemental information from third parties.<br>
-
-<h4>Use of Data </h4>
-
-<p>Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. You agree that We and affiliates or members of our corporate group may use your personal information to:</p>
-•	provide the services and customer support you request;<br>
-•	resolve disputes, collect fees, and troubleshoot problems;<br>
-•	prevent potentially prohibited or illegal activities, and enforce our Terms and Conditions;<br>
-•	customize, measure and improve our services, content and advertising;<br>
-•	inform you about our services, targeted marketing, service updates, and promotional offers;<br>
-•	contact you for market research; and<br>
-•	compare information for accuracy, and verify it with third parties.<br>
-<h4>Disclosure of Personal Data</h4>
-
-<p>We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations.
-</p><p>We may also share your personal information with third parties assisting our business operations under contract, including but not limited to fraud investigations and debt collection, with law enforcement or other governmental officials if required by law, and with other business entities, should We plan to merge with or be acquired by that business entity.</p>
-<p>Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, We will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when We believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.</p>
-
-
-<h4>Your Information on Shopybids</h4>
-<p>Once you have been approved as a registered user with Shopybids, you will be required to choose a user name. This user name will be displayed throughout Shopybids and therefore provided to the public. Unless you associate your user name with your personal information, users will not be able to personally identify your activities on Shopybids.</p>
-
-<h4>Access, Review and Change of Personal Data</h4>
-
-<p>You can access, review and change most of your personal information by logging on to Shopybids at any time. However, some of your personal information can only be changed by contacting our Customer Service. You are required to promptly update your personal information if changes occur or information is inaccurate. </p>
-
-<h4>Revoking Consent/Deleting Your Account</h4>
-<p>Upon your request, We will close your account as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our General Terms and Conditions, and take other actions otherwise permitted by law</p>
-<p>You can delete or deactivate your Shopybids account at any time. When you delete your membership, your personal data is removed from our database unless We are required to save the data. </p>
-<h4>The Use of Cookies at our Website</h4>
-
-<p>Shopybids uses so-called “cookies”, which are files that are stored on your computer that can be retrieved to assist in customizing your experience with the online service. The information saved supports the functionality of the site, for example by keeping track of your visual preferences or controlling the frequency of “pop-up” windows. You are free to prevent cookies from being saved on your hard drive by adjusting the corresponding settings in your browser. However, We would like to point out that turning off these settings may reduce the quality of your experience. </p>
-
-<h4>DISCLOSURE OF YOUR INFORMATION</h4>
-<p>Except as set forth in this Privacy Policy or as specifically agreed to by you, we will not disclose any Personal Information gathered from you on our Website. We may release Personal Information to third parties: (1) to allow our third party partners to offer their products and services to you (2) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (3) in special cases, such as a physical threat to you or others.</p>
-<p>Disclosure to Operations and Maintenance Contractors</p>
-
-<p>Our operations and maintenance contractors sometimes have limited access to your Personal Information in the course of providing products or services to us. These contractors include vendors and suppliers that provide us with technology, services, and/or content related to better operation and maintenance of our Website. These contractors also may have access to your email address to send newsletters or special promotions to you on our behalf or to send emails to you for purposes such as conducting market research on our behalf. Access to your Personal Information by these contractors is limited to the information reasonably necessary in order for the contractor to perform its limited function for us.</p>
-<p>Disclosure to Website Service and Content Contractors</p>
-
-<p>Certain content and services offered to you through our Website are served on Websites hosted and operated by a company other than ShopyBids ("Third Party Contractor Websites"). ShopyBids does not disclose your Personal Information to these Third Party Contractor Websites without your consent, but you should be aware that any information you disclose once you access these other sites is not subject to this Privacy Policy. ShopyBids does not endorse and is not responsible for the privacy practices of these Third Party Contractor Websites. You should review the privacy policy posted on the other site to understand how that Third Party Contractor Website collects and uses your Personal Information. ShopyBids makes an effort to make it obvious to you when you leave our Website and enter a Third Party Contractor Website, either by requiring you to click on a link or by notifying you on the site.</p>
-
-<h4>Disclosure of Aggregate Information</h4>
-<p>We may provide to third parties non-personal information about you that does not allow you to be identified or contacted and that is combined with the non-personal information of other users. For example, we might inform third parties regarding the number of users of our site and the activities they conduct while on our site. Depending on the circumstances, we may or may not charge third parties for this Aggregate Information</p>
-
-<h4>Security Measures</h4>
-
-<p>Your Shopybids account and profile and the information contained therein are password protected. Please note that you are not permitted to provide your password to anyone else. Shopybids will never ask for your password in e-mails that you receive unexpectedly or that you did not request. Please remember to log out of your account and to close your internet browser window when you leave the Shopybids site; this is especially important if you use a PC in public locations. At present, this is the safest way to ensure that no one has access to your personal information. While we strive to protect your personal information, We cannot ensure the security of the information you transmit to us, and so We urge you to take every precaution to protect your personal data when you are on the Internet. As examples, change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.</p>
-
-<h4>Protection from Web Crawlers or Spam</h4>
-
-<p>Shopybids assures you that We will use your e-mail address with your express consent only for the purposes stated in the Terms of Use. We will not rent or sell your e-mail address to third parties, and We will prevent your e-mail address from being recorded by “web crawlers” or “web spiders” to the best of our ability. If you believe that your e-mail address has been recorded in this way, please let us know immediately.</p>
-
-<h4>General</h4>
-<p>We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 7 days after they are initially posted on the site.</p>
-<p>You should be aware that it is not technologically possible to remove each and every record of the information you have provided to us from our servers. The need to back-up our systems to protect information from inadvertent loss means that a copy of your Personal Information may exist in a non-erasable form that will be difficult or impossible for us to locate. Nevertheless, we promise that upon receiving your request, all Personal Information stored in the databases we actively use for research and daily business activities, and other readily searchable media, will be deleted.</p>
-<p>Privacy as it applies to the Internet is a dynamic, rapidly developing area. In the future, we may make significant changes to our Privacy Policy affecting the use of the Personal Information we collect. We may also make non-significant changes to our Privacy Policy that generally will not affect our use of your Personal Information and we generally will not notify you of these non-significant changes. You should check this posted Privacy Policy for any non-significant changes. If you do not agree to the terms of this Privacy Policy or any revised policy, please exit the site immediately.</p>
-<p>This site and the servers that make this site available are located in the United States. By using this site you agree to the transfer, collection, processing and use of data by this site as outlined in this Privacy Policy.</p>
-<p>Please note that the terms of this Privacy Policy do not and will not apply in the event of ShopyBids's bankruptcy, dissolution, sale, merger or other similar corporate event.</p>
-      </div>
-   </div>
-</div>
-</div>
-      </div>
-      <div style="width:1198px;" class="block product_info">
-
-</div>
-
-
-<div align="center" class="footer-container">
-   <div id="foot">
-      <div class="col1">
-         <dt class="foot_dt">ShopyBids</dt>
-         <dd class="foot_dd">
-            <ul>
-               <li><a href="/">Home</a></li>
-               <li><a href="/about-us">About Us</a></li>
-               <li><a href="/help">Help</a></li>
-               <!-- <li><a href="/jobs">Jobs</a></li> -->
-               <li><a href="/contact">Contact Us</a></li>
-			   <li><a href="/sitemap">Sitemap</a></li>
-			   <li><a href="http://www.shopybidstestimonials.com">Testimonials</a></li>
-			   <li><a href="/auctions">Live Auctions</a></li>
-			   <li><a href="/auctions/future">Future Auctions</a></li>
-			   <li><a href="/auctions/closed">Closed Auctions</a></li>
-			   <li><a href="/contestandwinfree">Contest &amp; win free bids</a></li>
-			   <li><a href="/pressrelease">Pressrelease</a></li>
-			   <li><a href="/shopybidsnotgamblingsite">Shopybids is NOT a Gambling Site</a></li>
-            </ul>
-         </dd>
-      </div>
-
-      <div class="col2 align-center" style="text-align:left;">
-         <dt class="foot_dt">Help</dt>
-         <dd class="foot_dd">
-
-            <ul>
-               <li><a href="/help">Legend</a></li>
-               <li><a href="/howitworks">How Does It Work?</a></li>
-               <li><a href="/faq">FAQ</a></li>
-            </ul>
-
-
-
-         </dd>
-      </div>
-
-
-      <div class="col3">
-         <dt class="foot_dt">Legal</dt>
-         <dd class="foot_dd">
-
-
-            <ul>
-               <li><a href="/terms">Terms &amp; Conditions</a></li>
-               <li><a href="/privacy">Privacy</a></li>
-            </ul>
-
-         </dd>
-      </div>
-
-      <div class="col3">
-         <dt class="foot_dt">Social</dt>
-         <dd class="foot_dd">
-
-
-            <ul>
-               <li><a href="https://www.facebook.com/Shopybids"><img width="48" height="48" alt="facebook" src="/images/facebookx.png"></a></li>
-               <li><a href="https://twitter.com/ShopyBids"><img width="48" height="48" alt="twitter" src="/images/twitterx.png"></a></li>
-               <li><a href="http://www.youtube.com/user/shopybids"><img width="48" height="48" alt="youtube" src="/images/youtubex.png"></a></li>
-            </ul>
-
-         </dd>
-      </div>
-
-      <div class="col4" style="text-align:left;">
-         <div id="copyright">
-            ShopyBids®, ShopyBids and all other ShopyBids® related marks, images and symbols are the exclusive properties, trademarks and tradenames owned by ShopyBids. Designated trademarks, logos and brands are the property of their respective owners.
-            
-            
-<p id="cc"></p>
-<table width="100%" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
-<tbody><tr>
-<td rowspan="2" width="135" align="center" valign="top">
-<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=shopybids.com&amp;size=M&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en" width="115" height="81"></script><br>
-<a href="http://www.symantec.com/ssl-certificates" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
-<td nowrap="nowrap" style="text-align: right">© 2013 ShopyBids all Rights Reserved.</td>
-</tr>
-<tr><td nowrap="nowrap" style="text-align: right">
-<div style="height:60px" class="aright padding_v_s">
-<img style="margin:-10px 5px 0 0" alt="ssl" src="/images/icon_ssl.png" width="55" height="55">
-               <img style="margin:-19px 0 0 5px" alt="online penny auction payment method" src="/images/payment.png" width="183" height="56">
-   </div>
-</td></tr>
-</tbody></table>
-
+    </div>
+    <div class="clear"></div>
+</div>            </div>
+        </div>
+        <div class="footer">
+    <div class="container">
+        <div class="links">
+            <div>&nbsp;</div>
+            <h1>Quick Links</h1>
+            <p>
+                <a href="registration.php">Sign Up Now</a><br>
+                <a href="allauctions.php?aid=2">Live Auction</a><br>
+                <a href="aboutus.php">About Us</a><br>
+                <a href="buybids.php">Buy Bids</a><br>
+                <a href="allnews.php">News</a>
+            </p>
+        </div>
+        <div class="links">
+        <div>&nbsp;</div>
+            <h1>Support</h1>
+            <p>
+                <a href="terms.php">Terms &amp; Conditions</a><br>
+                
+                <a href="contact.php">Contact Us</a><br>
+                <a href="privacy.php">Privacy</a><br>
                
+            </p>
+        </div>
+                <div class="links">
+        <div>&nbsp;</div>
+            <h1>Follow Us</h1>
+            <p>
+                                    <a href="https://www.facebook.com/Shopybids">
+                        <img src="uploads//social/1296145635_facebook.png" alt="facebook" width="24" height="24">
+                    </a>
+                                    <a href="http://www.twitter.com/shopybids">
+                        <img src="uploads//social/1296145795_twitter.png" alt="twitter" width="24" height="24">
+                    </a>
+                                    <a href="http://www.youtube.com">
+                        <img src="uploads//social/1296145811_youtube.png" alt="youtube" width="24" height="24">
+                    </a>
+                 
+           </p>
+        </div>
+                <div class="logos">
+            <p><img src="themes/Bids/images/logosmall.png" width="267" height="200"></p>
+            <p>&nbsp;</p>
+            <p>Bid Safely on  Shopybids.com.com ™</p>
+        </div>
+        <div class="clear"></div>
+        © 2012 - 2014 Shopybids.com ™ Entertainment Shopping Inc. all Rights Reserved.  
+    </div>
+    <div class="clear"></div>
+    </div>    
 
-         
-         </div>
-          
-         <!-- <div style="float:right"><script src='/js/sslbanner.js'></script></div> -->
-         <!-- <div style="float:right"><script type="text/javascript" src="https://www.mylivechat.com/chatbutton.aspx?hccid=76708755"></script></div> -->
-
-      </div>
-
-      <div class="clear">
-         <p class="padding_v_s">To provide you with a better online penny auction experience, ShopyBids supports following browsers, click one of them to upgrade your browser.</p>
-         <ul class="browser">
-            <li>
-               <div><a target="_blank" href="//www.google.com/chrome"><img alt="Google Chrome" src="/images/browser_chrome.png" width="30" height="30"></a></div>
-               <p>Chrome<br></p>
-            </li>
-            <li>
-               <div><a target="_blank" href="//www.firefox.com/default.htm"><img alt="Mozilla Firefox" src="/images/browser_firefox.png" width="30" height="30"></a></div>
-               <p>Firefox</p>
-            </li>
-            <li>
-               <div><a target="_blank" href="//www.opera.com/default.htm"><img alt="Opera" src="/images/browser_opera.png" width="30" height="30"></a></div>
-               <p>Opera</p>
-            </li>
-            <li>
-               <div><a target="_blank" href="//www.apple.com/safari/download/default.htm"><img alt="safari" src="/images/browser_safari.png" width="30" height="30"></a></div>
-               <p>Safari</p>
-            </li>
-            <li>
-               <div><a target="_blank" href="//www.microsoft.com/windows/internet-explorer/default.aspx"><img alt="Microsoft 7.0 &amp; later" src="/images/browser_ie.png" width="30" height="30"></a></div>
-               <p>IE 8/9</p>
-            </li>
-			
-         </ul>
-      </div>
-   </div>
-</div>
-
-
-
-      <!-- layout: default -->
-   
 </body></html>
