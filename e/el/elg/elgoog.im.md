@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the elgoog.im privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205054026id_/http%3A//elgoog.im/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elgoog.im privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054908id_/http%3A//elgoog.im/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Terms of Service and Privacy Policy
 
-Thank you for visiting elgog.im.
+Thank you for visiting elgog.im. By using our Services, you are agreeing to these terms. Please read them carefully.
 
-This privacy policy tells you how we use personal information collected at elgoog.im, hereafter referred to as “the Site”. Please read this privacy policy before using the site or submitting any personal information. By using the Site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+**Using our Services**  
+
+
+You must follow any policies made available to you within the Services.  
+1)Don’t misuse our Services.  
+2)Using our Services does not give you ownership of any intellectual property rights in our Services or the content you access. You may not use content from our Services unless you obtain permission from its owner or are otherwise permitted by law.  
+3)Some of our Services allow you to submit content. You retain ownership of any intellectual property rights that you hold in that content. In short, what belongs to you stays yours. 
 
 **Collection of Information  
 **We do not collect personally identifiable information.
