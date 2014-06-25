@@ -1,21 +1,24 @@
-<!--The following is the downloaded HTML source of the burgerfi.com privacy policy that was archived on 2013-09-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130908142214id_/http%3A//burgerfi.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the burgerfi.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625071222id_/http%3A//burgerfi.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
         <meta http-equiv="X-UA-Compatible" content="IE=8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-		<meta property="fb:app_id" content="246930148716622">		
+		<meta property="fb:app_id" content="246930148716622">
             <title></title>
     <meta name="description" content="">
     <meta name="keywords" content="BurgerFi">
             <meta property="og:image" content="http://burgerfi.com/images/page_logo.png">
-    		
-		
-        <link href="styles.css" rel="stylesheet" type="text/css">
+    
+        <link href="styles-new.css" rel="stylesheet" type="text/css">
         <link href="tools/css/lytebox.css" rel="stylesheet" type="text/css">
-        <link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz|Homemade+Apple|Cabin+Sketch|Yanone+Kaffeesatz" rel="stylesheet" type="text/css">
-        <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1%26appId=246930148716622"></script><script type="text/javascript" async="" charset="UTF-8" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="https://www.google.com/jsapi" type="text/javascript"></script>
+        <!--<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>-->
+		<link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,200" rel="stylesheet" type="text/css">
+		<link href="http://fonts.googleapis.com/css?family=Homemade+Apple" rel="stylesheet" type="text/css">
+		<link href="http://fonts.googleapis.com/css?family=Cabin+Sketch" rel="stylesheet" type="text/css">
+		<!-- <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'/>-->
+        <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1%26appId=246930148716622"></script><script type="text/javascript" async="" charset="UTF-8" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="https://www.google.com/jsapi" type="text/javascript"></script>
         <script type="text/javascript" charset="utf-8">
 			/* <![CDATA[ */
             google.load("jquery", "1.7.1");
@@ -34,35 +37,16 @@
 			/* ]]> */
         </script>
         <!-- if you uncomment these tags, must comment out combine.js tag
-        
+
         <script type="text/javascript" src="scripts.js"></script>
         <script type="text/javascript" src="tools/js/lytebox.js"></script>
         <script type="text/javascript" src="tools/js/jquery.expander.min.js"></script>
-        
+
         <script type="text/javascript" src="tools/js/nivo/jquery.nivo.slider.pack.js"></script>
-        
+
         -->
         <script src="tools/js/bxslider/jquery.bxSlider.min.js" type="text/javascript"></script>
 		<script src="/js/twitterFetcher_v9_min.js" type="text/javascript"></script>
-		
-		
-	<script type="text/javascript">
-	twitterFetcher.fetch('370372607888990208', '', 1, true, false, false, '', false, handleTweets);
-
-	function handleTweets(tweets){
-		var x = tweets.length;
-		var n = 0;
-		var element = document.getElementById('thetweeters');
-		var html = '';
-		while(n < x) {
-		html += '' + tweets[n] + '';
-		n++;
-		}
-		html += '';
-		element.innerHTML = html;
-	}
-	</script><script type="text/javascript" src="//web.archive.org/web/20131012185215/http://cdn.syndication.twimg.com/widgets/timelines/370372607888990208?&amp;lang=en&amp;callback=twitterFetcher.callback&amp;suppress_response_codes=true&amp;rnd=0.3999882392311931"></script>
-		
 
 
 
@@ -80,7 +64,7 @@
                     nextSelector:".btn_slider_next"
                 });
             });
-   
+
             jQuery(document).ready(function() {
 
                 jQuery("form#zipform").submit(function(e) {
@@ -111,7 +95,7 @@
                     jQuery(this).hide();
                     jQuery(".divContent").css("background-image","none !important");
                 });
-	
+
                 jQuery("#mainMenu").mouseover(function () {
                     //alert(i)
                     jQuery("#subMenu").show();
@@ -127,13 +111,14 @@
                 jQuery("#mainMenu1").mouseleave(function () {
                     //alert(i)
                     jQuery("#subMenu1").hide();
-                });	
+                });
             });
 			/* ]]> */
         </script>
         <script type="text/javascript">
             /* <![CDATA[ */
-            var _gaq = _gaq || [];
+            /* OLD CODE
+			var _gaq = _gaq || [];
             _gaq.push(['_setAccount', 'UA-27085724-1']);
             _gaq.push(['_trackPageview']);
 
@@ -142,17 +127,36 @@
                 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
             })();
+			*/
+
+			/* UPDATED CODE */
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-27085724-1']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+				ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+			/* UPDATED CODE */
 
             (function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
             /* ]]> */
         </script>
-		
-		
-		
-		
 
-		
-		
+		<style type="text/css">
+		#thetweeters a {
+			color:#8fc11d;
+		}
+		</style>
+
+
+
+
+
+
 <script type="application/javascript">var _prum=
 {id:"516c8f2eabe53d9242000000"}
 ;var PRUM_EPISODES=PRUM_EPISODES||{};PRUM_EPISODES.q=[];PRUM_EPISODES.mark=function(b,a)
@@ -165,38 +169,11 @@
 {var b=document.getElementsByTagName("script")[0];var a=document.createElement("script");a.type="text/javascript";a.async=true;a.charset="UTF-8";a.src="//rum-static.pingdom.net/prum.min.js";b.parentNode.insertBefore(a,b)}
 )();</script>
 
-		
+
     </head>
     <body>
         <div id="fb-root"></div>
-		<script>
-/*
-		  window.fbAsyncInit = function() {
-			FB.init({
-			  appId      : '246930148716622', // App ID
-			  // channelURL : '', // Channel File
-			  status     : false, // check login status
-			  cookie     : true, // enable cookies to allow the server to access the session
-			  oauth      : false, // enable OAuth 2.0
-			  xfbml      : true,  // parse XFBML
-			  logging	 : true
-			});
-		
-			FB.getLoginStatus();
-			//
-			// All your canvas and getLogin stuff here
-			//
-		  };
-		
-		  // Load the SDK Asynchronously
-		  (function(d){
-			 var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-			 js = d.createElement('script'); js.id = id; js.async = true;
-			 js.src = "http://connect.facebook.net/en_US/all.js";
-			 d.getElementsByTagName('head')[0].appendChild(js);
-		   }(document));
-*/
-		</script>
+
         <script type="text/javascript">
 			/* <![CDATA[ */
 			(function(d, s, id) {
@@ -242,8 +219,7 @@
                                             <li><a href="http://burgerfi.com/about.php">BurgerFi® Story</a></li>
                                             <li><a href="http://burgerfi.com/about-naturally-different">Naturally Different</a></li>
                                             <!--<li><a  href="">Our History</a></li>-->
-                                            <li><a href="http://burgerfi.com/about-team">Our Team</a></li>
-                                            <li><a href="http://burgerfi.com/press">Press</a></li>
+                                                                                        <li><a href="http://burgerfi.com/press">Press</a></li>
                                             <li class="drop_bottom">&nbsp;</li>
                                         </ul>
                                     </li>
@@ -264,7 +240,7 @@
                                     <li><a href="http://burgerfi.com/contact">Contact</a></li>
                                 </ul>
                             </div>
-                            <div class="clear"></div> 
+                            <div class="clear"></div>
                         </div>
 
                         <div class="header_uti_bottom">
@@ -274,7 +250,15 @@
                                 <table width="600" cellpadding="0" cellspacing="0">
                                     <tbody><tr>
                                         <td height="40" valign="middle">
-                                            <img style="vertical-align:middle;" src="images/icon_twitter.gif" alt="Twitter">											<p style="display:inline;" id="thetweeters"></p>
+                                            <img style="vertical-align:middle;" src="images/icon_twitter.gif" alt="Twitter">
+											<p style="display:inline;" id="thetweeters">
+
+We have craft beer and wine.   <!--
+   <a href="https://www.twitter.com/" target="_blank">@Username</a>
+   <a href="https://www.twitter.com//status/" target="_blank"></a>
+   -->
+
+											</p>
                                         </td>
                                     </tr>
                                 </tbody></table>
@@ -416,8 +400,8 @@
 <div class="content_bottom_promo">
 
 						<div class="content_bottom_onecolumn floatleft">
-							<a target="_self" href="menu.php#custard">
-								<img src="images/promo/image_promo3.jpg" width="289" height="108" alt="Image Promo Burger Fi">
+							<a target="_self" href="menu.php#beers">
+								<img src="images/promo/image_promo1.jpg" width="289" height="108" alt="Image Promo Burger Fi">
 							</a>
 						</div>
 						
@@ -487,12 +471,13 @@
                 </ul>
             </div>
             <div class="clear"></div>
-                        
-            <div class="logocsng">
-                <a href="http://www.csnmedia.com" target="_new">
-                    <img src="images/logo_csng.png" width="27" height="33" alt="Interactive Marketing Professionals™" title="Interactive Marketing Professionals™">
-                </a>
-            </div>
+            
+			            
+			<div class=" hidden">
+				<a href="http://www.franchiseregistry.com/" target="_blank">
+					<img src="images/franchise_registry_logo.jpg" height="40" width="156">
+				</a>
+			</div>
         </div>
     </div>
 </div>
