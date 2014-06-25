@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the westmarine.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231013553id_/http%3A//www.westmarine.com/webapp/wcs/stores/servlet/AboutUsView%3FlangId%3D-1%26storeId%3D11151%26catalogId%3D10001%26page%3DPrivacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westmarine.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001104id_/http%3A//www.westmarine.com/CustomerService/Privacy-Policy) for the most accurate reproduction.*
 
-# About Us: Privacy Policy
+# Privacy-Policy | West Marine
+
+* * *
 
 ## What is West Marine's Privacy Policy and Practices?
 
@@ -44,11 +46,11 @@ Cookies are pieces of data your web browser stores on your hard drive. We use co
 
 ## Security
 
-West Marine uses the best security available for on-line purchasing. Your privacy and security are very important to us. When you click the "Add to Shopping Cart" button, West Marine automatically checks to see that you have a secure connection. West Marine uses Secure Sockets Layer (SSL), an encryption technology that works with the following browsers: Netscape Navigator, Microsoft Internet Explorer, and AOL (America Online).
+West Marine uses the best security available for on-line purchasing. Your privacy and security are very important to us. When you click the "Add to Shopping Cart" button, West Marine automatically checks to see that you have a secure connection. West Marine uses Secure Sockets Layer (SSL), an encryption technology that works with the following supported browsers: Mozilla Firefox, Google Chrome, Microsoft Internet Explorer, and Apple Safari.
 
-If your browser does not support SSL, you will need to upgrade to a new version of Netscape Navigator, Internet Explorer, or AOL that does for on-line purchases. Or, you may fax, mail or phone in your order.
+If your browser does not support SSL, you will need to upgrade to a newer version of a supported browser in order to perform an on-line purchase. Alternatively, you may fax, mail or phone in your order.
 
-As part of West Marine's privacy and security practices, we do not store your credit card number in your membership file or order history. We request you kindly provide us with your credit card number every time you make a secure transaction.
+As part of West Marine's privacy and security practices, we do not store your credit card number in your membership file or order history. We kindly request that you validate your credit card number each time you make a secure transaction through West Marine's website.
 
 ## West Marine Employment Application Retention Policy
 
