@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nbaliveonline.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604231543id_/http%3A//nbaliveonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbaliveonline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043511id_/http%3A//nbaliveonline.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NBA LIVE ONLINE
 
-At nbaliveonline.com we are committed to ensuring and protecting your privacy at any time you are on our website or communicate electronically with our personnel. 
+At nbaliveonline.tv we are committed to ensuring and protecting your privacy at any time you are on our website or communicate electronically with our personnel. 
 
 Our Privacy Policy is contained below and provides a detailed explanation as to how we may use your personal information provided to us or any we collect through legal means.
 
@@ -53,6 +53,6 @@ Cookies are used to collect general online usage by using a cookie file. If used
 
 8\. With respect to Ad Servers  
 \- To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-xtendmedia, openx, Valueclick Media.  
+matomymedia.  
 9\. Contacting Us  
-\- We welcome and hope you do not hesitate to make any queries, comments or requests you may have regarding this Privacy Policy. Please contact us at support [at] nbaliveonline [dot] com.
+\- We welcome and hope you do not hesitate to make any queries, comments or requests you may have regarding this Privacy Policy. Please contact us at support [at] nbaliveonline [dot] tv.
