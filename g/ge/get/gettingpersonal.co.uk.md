@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807174601id_/http%3A//www.gettingpersonal.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113826id_/http%3A//www.gettingpersonal.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy :: GettingPersonal.co.uk
-
-## Your details and information are important - we will protect them...
 
 GettingPersonal.co.uk is committed to preserving the privacy of all visitors to our website. Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
 
