@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batchgeo.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202012300id_/http%3A//batchgeo.com/features/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batchgeo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141217id_/https%3A//batchgeo.com/features/security) for the most accurate reproduction.*
 
 # Protect your map information | BatchGeo
 
@@ -72,7 +72,7 @@ When you use BatchGeo services, we make good faith efforts to provide you with a
 
 ### Enforcement
 
-BatchGeo adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce’s Safe Harbor Program](http://www.export.gov/safeharbor/).
+BatchGeo adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
 
 BatchGeo regularly reviews its compliance with this Privacy Policy. When we receive formal written complaints, it is BatchGeo’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between BatchGeo and an individual.
 
