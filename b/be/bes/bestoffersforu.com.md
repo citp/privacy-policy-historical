@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestoffersforu.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211091404id_/http%3A//www.bestoffersforu.com/policy%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestoffersforu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070102id_/http%3A//www.bestoffersforu.com/policy%3Flocale%3Den) for the most accurate reproduction.*
 
 # Bestoffersforu.com - Find the best offers around on just about everything. From gadgets to clothes, from holidays to finance.
 
