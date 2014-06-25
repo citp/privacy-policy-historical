@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the piarecipes.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805100158id_/http%3A//www.piarecipes.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piarecipes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121527id_/http%3A//www.piarecipes.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Recipes, Dinner Ideas, Healthy Recipes & Food Guide
+# Privacy Policy - Cook'n is Fun - Food Recipes, Dessert, & Dinner Ideas
 
 We recognize the importance of our visitor's privacy and we aim to preserve the Privacy by all means. The information furnished herewith will inform you on the types of personal information we receive and collect when you use (operate) and visit [Pia Recipes Blog](http://piarecipes.blogspot.com/), and how we safeguard your information. You can be assured that your personal information is never leaked or sold to the third parties and they are well protected by us.
 
