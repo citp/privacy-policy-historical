@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speckproducts.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012105736id_/http%3A//www.speckproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speckproducts.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005025id_/http%3A//www.speckproducts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Speck Products
 
@@ -40,4 +40,4 @@ Speck is committed to protecting the privacy of children on the Internet.  We d
 
 ### California Privacy Rights
 
-California Civil Code Section 1798.83 permits Speck customers who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [customerservice@speckproducts.com](mailto:customerservice@speckproducts.com) or write to: Customer Service, 303 Bryant Street, Mountain View, CA 94041.  We will respond to requests made and provide the information within 30 days of receipt of request.  This request may be made no more than once per calendar year. 
+California Civil Code Section 1798.83 permits Speck customers who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [customerservice@speckproducts.com](mailto:customerservice@speckproducts.com) or write to: Customer Service, 177 Bovet Road, Suite 200, San Mateo, CA 94402.  We will respond to requests made and provide the information within 30 days of receipt of request.  This request may be made no more than once per calendar year. 
