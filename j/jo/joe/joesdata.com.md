@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joesdata.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214030151id_/http%3A//www.joesdata.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joesdata.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073922id_/http%3A//www.joesdata.com/privacy/index.php) for the most accurate reproduction.*
 
 # Executive Emails and Company Data for Sales, Marketing, and Jobs
 
