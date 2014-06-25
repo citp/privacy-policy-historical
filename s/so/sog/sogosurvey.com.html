@@ -1,185 +1,192 @@
-<!--The following is the downloaded HTML source of the sogosurvey.com privacy policy that was archived on 2013-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206042506id_/http%3A//www.sogosurvey.com/Legal/online-survey-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sogosurvey.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625063733id_/http%3A//www.sogosurvey.com/Legal/online-survey-privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><link rel="stylesheet" href="../static/sogo_resp_css/sogo_reset.css"><link rel="stylesheet" href="//cloud.typography.com/7174632/691602/css/fonts.css"><link rel="stylesheet" href="../static/sogo_resp_css/static_responsive.css">
-    <style>
-     .salesContainer{float: right!important;border-left: 1px #ccc solid;}
-     .salesNumber{text-align: center;line-height: 25px;font-family: 'Whitney SSm 6r', 'Whitney SSm A', 'Whitney SSm B', sans-serif;font-size: 1em;font-weight: 600;font-style: normal;color: #3D4D54;}
-     .salesIns{font-size: 12px;font-weight: normal;margin-left: 15px; }
-     #chat_now_div{ position:fixed; right:20px; bottom:-5px; cursor:pointer; margin:0; padding:0; z-index:1000001;}
-    </style>
-    <script src="http://www.sogosurvey.com/static/js/jquery-1.4.2.min.js"></script>
-    <script>
-        function enableMobileControls()
-        {
-           if($(window).width()<600)
-           {
-           
-            $('.dropDownButton').show();
-            $('.grid_9').addClass('dropdownButtonContent');
-            $('.dropdownButtonContent').find('ul li').css('float','none');
-            $('.mobilePricing').show();
-           }
-           else
-           {
-           $('.mobilePricing').hide();
-           }
-          
-        }
-        function checkTheScreenSize()
-        {
-           if($(window).width()<600)
-           {
-          
-            $('.dropDownButton').show();
-            $('.grid_9').addClass('dropdownButtonContent');
-            $('.dropdownButtonContent').find('ul li').css('float','none');
-             $('.mobilePricing').css('display','block');
-           }
-           else
-           {
-           
-            $('.dropDownButton').hide();
-            $('.dropdownButtonContent').find('ul li').css('float','');  
-            $('.grid_9').show();
-            $('.grid_9').removeClass('dropdownButtonContent');
-            $('.mobilePricing').hide();
-           } 
-        }
-        function myFunction()
-        {
-              activeBanner = $('.bannerAnimation').find('.activeBannerImage').attr('id');
-             // alert(activeBanner)
-              $('.banner_temp').removeClass('activeBannerImage').addClass('inActiveBannerImage');
-             if(activeBanner.split('_')[1] == $('.banner_temp').length)
-             {
-                activeBanner = "bannerImage_1";
-                $('#'+activeBanner).removeClass('inActiveBannerImage').addClass('activeBannerImage');
-             }
-             else
-             {
-                $('#'+activeBanner).next().removeClass('inActiveBannerImage').addClass('activeBannerImage');
-             }
-        }
-    $(document).ready(function(){
-    //$('.dropDownButton').hide();
-    //$('.dropdownButtonContent').removeClass('dropdownButtonContent')
-     $('.banner_temp').removeClass('activeBannerImage').addClass('inActiveBannerImage');
-     $('.banner_temp:first').removeClass('inActiveBannerImage').addClass('activeBannerImage');
-     $('.bottomLinks').hide(); 
-     $('.dropDownButton').click(function(){
-     $('.dropdownButtonContent').slideToggle();
-     
-    });
-    var test_canvas = document.createElement("canvas"); 
-    var canvascheck=(test_canvas.getContext)? true : false 
-    if(canvascheck)
-    {
-        $('img[class*="svg"]').attr('src', function() {
-        return $(this).attr('src').replace('.png', '.svg');
-        });
+<!DOCTYPE html><html lang="en"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><link rel="stylesheet" href="//cloud.typography.com/7174632/691602/css/fonts.css"><link rel="stylesheet" href="../static/sogo_resp_css/static_responsive.css?v=061314">
+<!--[if IE 7]>
+<style>
+.Menu ul{font-size:0.97em;font-weight:500;}
+span.salesNumber{font-size:0.97em;font-weight:500;}
+a.SignUplink, a.SignUplink:hover, a.loginLink, a.loginLink:hover{font-size:0.97em;font-weight:500;}
+</style>
+<![endif]-->
+<!--[if IE 8]>
+<style>
+.Menu ul{font-size:0.97em;font-weight:500;}
+span.salesNumber{font-size:0.97em;font-weight:500;}
+a.SignUplink, a.SignUplink:hover, a.loginLink, a.loginLink:hover{font-size:0.97em;font-weight:500;}
+</style>
+<![endif]-->
 
-        $('img[class*="svg"]').attr('src', function() {
-        return $(this).attr('src').replace('.jpg', '.svg');
-        });
-
-        $('img[class*="svg"]').attr('src', function() {
-        return $(this).attr('src').replace('.jpeg', '.svg');
-        });
-
-        $('img[class*="svg"]').attr('src', function() {
-        return $(this).attr('src').replace('.gif', '.svg');
-        });
-    }
-    
-        var images = $("img.hires");
-        // loop through the images and make them hi-res
-        for(var i = 0; i < images.length; i++) 
-        {
-            // create new image name
-            var imageType = images[i].src.slice(-4);
-            var imageName = images[i].src.substr(0, images[i].src.length - 4);
-            if(imageType == '.png')
-            {
-                imageName += "@2x" + imageType;
-                //rename image
-                images[i].src = imageName;
-            }
-        }
-    
-    });
-    </script>
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if IE 8]>
-    <style type="text/css">
-	    .Menu ul{font-size:0.92em;}
-    </style>
-    <![endif]-->
-    
     <meta name="description" content="SoGoSurvey protects privacy of its customers and survey participants. We understand information we deliver belongs to you and your survey participants, not us.">
 
-    <script>function disableBack() { window.history.forward(1); }</script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.sogosurvey.com/static/js/jquery-1.4.2.min.js?v=061314"></script>
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<script>function disableBack() { window.history.forward(1); }</script>
 <title>
 	Privacy Policy | SoGoSurvey
-</title></head>
+</title><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body id="ctl00_BodyTag">
-<form name="aspnetForm" method="post" action="online-survey-privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWAgIBD2QWAmYPZBYOAgEPFgIeBGhyZWYFLWh0dHA6Ly93d3cuc29nb3N1cnZleS5jb20vc3RhdGljL3ByaWNpbmcuYXNweGQCAw8WAh8ABUBodHRwOi8vd3d3LnNvZ29zdXJ2ZXkuY29tL3N0YXRpYy9wYWNrYWdlcy5hc3B4P2JsbnBhY2thZ2VzPUZhbHNlZAIFDxYCHwAFLWh0dHA6Ly93d3cuc29nb3N1cnZleS5jb20vd2h5LXNvZ29zdXJ2ZXkuYXNweGQCBw8WAh8ABS9odHRwOi8vd3d3LnNvZ29zdXJ2ZXkuY29tL1Rha2UtYS1Ub3VyL292ZXJ2aWV3L2QCCQ8WAh8ABS1odHRwOi8vd3d3LnNvZ29zdXJ2ZXkuY29tL3NhbXBsZS1zdXJ2ZXlzLmFzcHhkAgsPFgIfAAUnaHR0cDovL3d3dy5zb2dvc3VydmV5LmNvbS90ZXN0aW1vbmlhbHMvZAINDxYCHwAFIWh0dHA6Ly93d3cuc29nb3N1cnZleS5jb20vU3VwcG9ydGRkKf0s1jer+0uL8jd9jzTtOluwcIg=">
+<form name="aspnetForm" method="post" action="/Legal/online-survey-privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWAgIBD2QWAmYPZBYUZg8WAh4EaHJlZgUtaHR0cDovL3d3dy5zb2dvc3VydmV5LmNvbS9zdGF0aWMvcHJpY2luZy5hc3B4ZAIBDxYCHwAFLWh0dHA6Ly93d3cuc29nb3N1cnZleS5jb20vc2FtcGxlLXN1cnZleXMuYXNweGQCAg8WAh8ABS1odHRwOi8vd3d3LnNvZ29zdXJ2ZXkuY29tL3doeS1zb2dvc3VydmV5LmFzcHhkAgMPFgIfAAUnaHR0cDovL3d3dy5zb2dvc3VydmV5LmNvbS90ZXN0aW1vbmlhbHMvZAIEDxYCHwAFGmh0dHA6Ly93d3cuc29nb3N1cnZleS5jb20vZAIFDxYCHwAFEmphdmFzY3JpcHQ6dm9pZCgpO2QCBg8WAh8ABTxodHRwOi8vd3d3LnNvZ29zdXJ2ZXkuY29tL0ZlYXR1cmVzL0xpc3Qtb2YtQWxsLUZlYXR1cmVzLmFzcHhkAgcPFgIfAAUvaHR0cDovL3d3dy5zb2dvc3VydmV5LmNvbS9UYWtlLWEtVG91ci9vdmVydmlldy9kAggPFgIfAAVAaHR0cDovL3d3dy5zb2dvc3VydmV5LmNvbS9zdGF0aWMvcGFja2FnZXMuYXNweD9ibG5wYWNrYWdlcz1GYWxzZWQCCQ8WAh8ABRJqYXZhc2NyaXB0OnZvaWQoKTtkZLotX55jndI4JoN5yrht7sgZ8UNj">
 
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCQLrgJPBBQKxtpzeAQLkzIKeAQKCtOutCwKQs42HCQKkgMb3AgLbi+OFBQKtjNgyAqLnwqcC4RjzUbQhI0aovXAxJsSGlARKp5U=">
 <div class="container">
-    <header>
-        <div class="Wrapper logoWrapper">
-            <div class="headContainer">
-                <div class="grid_3 fl mobileClass">
-                    <a href="http://www.sogosurvey.com/"><img class="svg sogosurveylogo" src="http://www.sogosurvey.com/static/sogo_resp_images/logo.png" alt="SoGoSurvey" title="SoGoSurvey"></a>
-                </div>
-                <div class="dropDownButton"></div>
-                <div class="dropDownBorder"></div>
-                <div class="grid_8 fr">
-                    <ul class="top-nav fr">
-                        
-                        <li class="span" style="font-weight:600;">Sales: +1-703-542-9595</li>
-                        
-                        <li>
-                        <a href="http://www.facebook.com/sogosurvey" target="_blank"><img class="svg imgtop" src="http://www.sogosurvey.com/static/sogo_resp_images/Navigation_Facebook-01.png" alt="" title=""></a>
-                        <a class="link_scial" href="http://twitter.com/SoGoSurvey" target="_blank"><img class="svg imgtop" src="http://www.sogosurvey.com/static/sogo_resp_images/Navigation_twitter-01.png" alt="" title=""></a>
-                        <a href="http://www.linkedin.com/company/sogosurvey-inc/" target="_blank"><img class="svg imgtop" src="http://www.sogosurvey.com/static/sogo_resp_images/Navigation_linkedin-01.png" alt="" title=""></a>
-                        </li>
-                        
-                        <li><a href="http://blog.sogosurvey.com" target="_blank">Blog</a></li>
-                        
-                        <li><a href="http://www.sogosurvey.com/help/" target="_blank">Help</a></li>
-                        <li><a href="http://www.sogosurvey.com/feature-search.aspx"><img src="http://www.sogosurvey.com/static/sogo_resp_images/search_icon.png" alt="Search by Features" title="Search by Features" class="imgtop"></a></li>
-                    </ul>
-                </div>
+<div class="containerWrap">
+<header>
+<section>
+    <div class="Wrapper logoWrapper">
+        <div class="headContainer">
+            <div class="grid_3 fl">
+                <a href="http://www.sogosurvey.com/"><img class="sogosurveylogo" src="http://www.sogosurvey.com/static/sogo_resp_images/logo.png" alt="SoGoSurvey" title="SoGoSurvey"></a>
+            </div>
+            <div class="grid_9 fr">
+                <ul class="topnav">
+                    <li class="dDropDn disabledropDowns">
+                        <a href="javascript:void(0);" class="callUsMore"><span class="salesIns">Have a sales question?</span>&nbsp;&nbsp;<span class="salesNumber ttrender">1-703-542-9595</span></a>
+                    </li>                    
+                    <li class="disabledropDowns"><a href="http://www.sogosurvey.com/Help/">Support</a></li>
+                    <li class="disabledropDowns"><a href="http://www.sogosurvey.com/static/Login.aspx" class="pr">Login</a></li>
+                </ul>
+                <div class="ca"></div>
+            </div>            
+            <div class="dropDownButton"></div>
+            <div class="dropDownBorder"></div>
+            <div class="ca"></div>
+        </div>
+        <div class="ca"></div>
+        <nav class="gray_bg navigationSpacing">
+            <div id="ctl00_dvMenubar" class="Menu fl">
+                <ul>
+                    <li><a href="http://www.sogosurvey.com/static/pricing.aspx" id="ctl00_mobilePricing" class="nav mobilePricing" style="display:none">Pricing</a></li>
+                    <li><a href="http://www.sogosurvey.com/sample-surveys.aspx" id="ctl00_mobileSol" class="nav mobileSol" style="display:none">Sample Surveys</a></li>
+                    <li><a href="http://www.sogosurvey.com/why-sogosurvey.aspx" id="ctl00_mobileSogo" class="nav mobileSogo" style="display:none">Why SoGoSurvey</a></li>
+                    <li><a href="http://www.sogosurvey.com/testimonials/" id="ctl00_mobileTestimonials" class="nav mobileTestimonials" style="display:none">Testimonials</a></li>
+                    
+                    <li class="disabledropDowns"><a href="http://www.sogosurvey.com/" id="ctl00_liHome" class="pl nav">Home</a></li>                    
+                    <li class="disabledropDowns"><a href="javascript:void();" id="ctl00_liSol" class="nav">Solutions</a>                    
+                        <ul class="li-1">
+                            <li class="arrowlist"></li>
+                            <li><a href="http://www.sogosurvey.com/Sample-Surveys/HR-surveys/">Employee Engagement</a></li>
+                            <li><a href="http://www.sogosurvey.com/sample-surveys/customer-satisfaction-surveys/">Customer Satisfaction</a></li>
+                            <li><a href="http://www.sogosurvey.com/sample-surveys/market-research-surveys/">Market Research</a></li>
+                            <li><a href="http://www.sogosurvey.com/sample-surveys/k-12/overview.aspx" class="ttrender">K-12</a></li>
+                            <li><a href="http://www.sogosurvey.com/sample-surveys/higher-ed/overview.aspx">Higher Ed</a></li>
+                            <li><a href="http://www.sogosurvey.com/sample-surveys/healthcare/hcahps-survey.aspx">Healthcare</a></li>
+                            <li><a href="http://www.sogosurvey.com/Sample-Surveys/government-surveys.aspx">Government</a></li>                            
+                            <li><a href="http://www.sogosurvey.com/poll-maker.aspx">Online Polls</a></li>
+                            <li><a href="http://www.sogosurvey.com/form-creator.aspx">Online Forms</a></li>
+                            <li><a href="http://www.sogosurvey.com/quiz-maker.aspx">Online Quizzes</a></li>                            
+                        </ul>
+                    </li>                    
+                    <li class="disabledropDowns"><a href="http://www.sogosurvey.com/Features/List-of-All-Features.aspx" id="ctl00_liFeatures" class="nav">Features</a></li>                    
+                    <li class="disabledropDowns"><a href="http://www.sogosurvey.com/Take-a-Tour/overview/" id="ctl00_liTAT" class="nav">Take a Tour</a></li>                    
+                    <li class="disabledropDowns"><a href="http://www.sogosurvey.com/static/packages.aspx?blnpackages=False" id="ctl00_liPricing" class="nav">Pricing</a></li>
+                    <li class="disabledropDowns"><a href="javascript:void();" id="ctl00_liHelp" class="nav">Resources</a>
+                        <ul class="li-1">
+                            <li class="arrowlist"></li>
+                            <li><a href="http://www.sogosurvey.com/sample-surveys.aspx">Sample Surveys</a></li>
+                            <li><a href="http://www.sogosurvey.com/why-sogosurvey.aspx">Why SoGoSurvey</a></li>
+                            <li><a href="http://www.sogosurvey.com/testimonials/">Testimonials</a></li>
+                            <li><a href="http://blog.sogosurvey.com" target="_blank">Blog</a></li>
+                            <li><a href="http://www.sogosurvey.com/k/RQsWUYTsQYTsPsPsP" target="_blank">Sign up for Webinar</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <div class="ca"></div>
+            </div>
+            <div id="ctl00_dvSignupbtn" class="fr dvSignupbtnmob Signupbtn">
+                <a href="http://www.sogosurvey.com/static/Packages.aspx?blnpackages=True" class="SignUplink">Sign Up Free</a>
             </div>
             <div class="ca"></div>
-            <nav class="gray_bg navigationSpacing">
-                <div id="ctl00_dvMenubar" class="grid_9 Menu fl">
-                    <ul>
-                        <li><a href="http://www.sogosurvey.com/static/pricing.aspx" id="ctl00_mobilePricing" class="why_nav mobilePricing" style="display:none">Pricing</a></li>
-                        <li class="disabledropDowns"><a href="http://www.sogosurvey.com/static/packages.aspx?blnpackages=False" id="ctl00_liPricing" class="why_nav">Pricing</a></li>
-                        <li><a href="http://www.sogosurvey.com/why-sogosurvey.aspx" id="ctl00_liSogo" class="why_nav">Why SoGoSurvey</a></li>
-                        <li class="disabledropDowns"><a href="http://www.sogosurvey.com/Take-a-Tour/overview/" id="ctl00_liTAT" class="why_nav">Tour</a></li>
-                        <li><a href="http://www.sogosurvey.com/sample-surveys.aspx" id="ctl00_liSol" class="why_nav">Sample Surveys</a></li>
-                        <li><a href="http://www.sogosurvey.com/testimonials/" id="ctl00_liTestimonials" class="why_nav">Testimonials</a></li>
-                        <li class="disabledropDowns"><a href="http://www.sogosurvey.com/Support" id="ctl00_liContact" class="why_nav">Contact Us</a></li>
-                    </ul>
-                </div>
-                <div id="ctl00_dvSignupbtn" class="grid_3 fr dvSignupbtnmob" style="margin-bottom:0.8em;">
-                    <div class="fr">
-                        <a href="http://www.sogosurvey.com/static/Packages.aspx?blnpackages=True" class="SignUplink">Sign Up Free</a>
-                        <a href="http://www.sogosurvey.com/static/Login.aspx" class="loginLink">Login</a>
-                    </div>
-                </div>
-                <div class="ca"></div>
-            </nav>
-        </div>
-        <div class="clearfix"></div>
-    </header>
-    
+        </nav>
+    </div>
+    <div class="clearfix"></div>
+</section>     
+</header>
+<script>
+$(document).ready(function(){    
+    var test_canvas = document.createElement("canvas");
+    var canvascheck=(test_canvas.getContext)? true : false
+    if(canvascheck)
+    {
+    $('img[class*="svg"]').attr('src', function(){
+    return $(this).attr('src').replace('.png', '.svg');}
+    );
+    $('img[class*="svg"]').attr('src', function(){
+    return $(this).attr('src').replace('.jpg', '.svg');}
+    );
+    $('img[class*="svg"]').attr('src', function(){
+    return $(this).attr('src').replace('.jpeg', '.svg');}
+    );
+    $('img[class*="svg"]').attr('src', function(){
+    return $(this).attr('src').replace('.gif', '.svg');}
+    );
+    }
+    var images = $("img.hires");
+    for(var i = 0; i < images.length; i++){
+    // create new image name
+    var imageType = images[i].src.slice(-4);
+    var imageName = images[i].src.substr(0, images[i].src.length - 4);
+    if(imageType == '.png'){
+    imageName += "@2x" + imageType;
+    //rename image
+    images[i].src = imageName;}
+    }
+    $('.banner_temp').removeClass('activeBannerImage').addClass('inActiveBannerImage');
+    $('.banner_temp:first').removeClass('inActiveBannerImage').addClass('activeBannerImage');
+    $('.bottomLinks').hide();
+    $('.dropDownButton').click(function(){
+        $('.dropdownButtonContent').slideToggle();}
+    );
+});
+function checkTheScreenSize(){
+    if($(window).width()<600){
+    $('.dropDownButton').show();
+    $('.Menu').addClass('dropdownButtonContent');
+    $('.dropdownButtonContent').find('ul li').css('float','none');
+    $('.mobilePricing').css('display','block');
+    $('.mobileSol').css('display','block');
+    $('.mobileSogo').css('display','block');
+    $('.mobileTestimonials').css('display','block');}
+    else{
+    $('.dropDownButton').hide();
+    $('.dropdownButtonContent').find('ul li').css('float','');
+    $('.Menu').show();
+    $('.Menu').removeClass('dropdownButtonContent');
+    $('.mobilePricing').hide();
+    $('.mobileSol').hide();
+    $('.mobileSogo').hide();
+    $('.mobileTestimonials').hide();}
+}
+function enableMobileControls(){
+    if($(window).width()<600){
+    $('.dropDownButton').show();
+    $('.Menu').addClass('dropdownButtonContent');
+    $('.dropdownButtonContent').find('ul li').css('float','none');
+    $('.mobilePricing').show();
+    $('.mobileSol').show();
+    $('.mobileSogo').show();
+    $('.mobileTestimonials').show();}
+    else{
+    $('.mobilePricing').hide();
+    $('.mobileSol').hide();
+    $('.mobileSogo').hide();
+    $('.mobileTestimonials').hide();}
+}
+function myFunction(){
+    activeBanner = $('.bannerAnimation').find('.activeBannerImage').attr('id');
+    $('.banner_temp').removeClass('activeBannerImage').addClass('inActiveBannerImage');
+    if(activeBanner.split('_')[1] == $('.banner_temp').length){
+    activeBanner = "bannerImage_1";
+    $('#'+activeBanner).removeClass('inActiveBannerImage').addClass('activeBannerImage');}
+    else{
+    $('#'+activeBanner).next().removeClass('inActiveBannerImage').addClass('activeBannerImage');}
+}
+</script>
+
 <section class="home">
     <article class="normal">
         <div class="Wrapper">
@@ -191,9 +198,9 @@
             </section>
             <section>
                 <div class="grid_12">
-                    <p class="mb">SogoSurvey is an application service provider that provides you, our customer, tools to conduct two-way communications with your customers, employees, suppliers and constituents. Like the postal service, we understand that the Information we deliver belongs to you and your survey participants, not us. At SoGoSurvey, it is a core business principle that we must protect the privacy of our customers and survey participants or we will not have either. With this principle in mind, SoGoSurvey created this privacy policy to demonstrate our commitment to your privacy.</p>
+                    <p class="mb">SoGoSurvey is an application service provider that provides you, our customer, tools to conduct two-way communications with your customers, employees, suppliers and constituents. Like the postal service, we understand that the Information we deliver belongs to you and your survey participants, not us. At SoGoSurvey, it is a core business principle that we must protect the privacy of our customers and survey participants or we will not have either. With this principle in mind, SoGoSurvey created this privacy policy to demonstrate our commitment to your privacy.</p>
                     <p class="mb">You should be assured that our practices stated in this policy are practiced worldwide. SoGoSurvey is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders. We may share information between SoGoSurvey entities and transfer it to offices around the world. Some countries may provide less legal protection for personal information than the country in which the information was provided. No matter the country standards, we will still handle the information in the manner we describe here.</p>
-                    <p class="mb">This Privacy Policy applies only to information collected on our web site at the URL <a href="http://www.sogosurvey.com/">http://www.SoGoSurvey.com</a> (the "Site") SoGoSurvey service platform. It does not speak SoGoSurvey practices for information collected elsewhere or the practices of any third parties, including those of our partners who may display SogoSurvey branding on their sites. The use of information collected through our service platform shall be limited to the purpose of providing the service for which the Client has engaged SoGoSurvey.</p>
+                    <p class="mb">This Privacy Policy applies only to information collected on our web site at the URL <a href="http://www.sogosurvey.com/">http://www.SoGoSurvey.com</a> (the "Site") SoGoSurvey service platform. It does not speak SoGoSurvey practices for information collected elsewhere or the practices of any third parties, including those of our partners who may display SoGoSurvey branding on their sites. The use of information collected through our service platform shall be limited to the purpose of providing the service for which the Client has engaged SoGoSurvey.</p>
                     <p class="mb">If you have questions about this privacy policy please email, <a href="mailto:privacy@sogosurvey.com">privacy@sogosurvey.com</a></p>
                     <h5>1. What Information do we collect?</h5>
                     <p class="mb">SoGoSurvey collects information about both you, our customers ("Customers" or "you") and the individuals who participate in, or are invited to participate in, any of your surveys ("Survey Participants"). Collectively, the information collected about you ("Customer Information") and Survey Participants ("Participant Information") are referred to as "Information".</p>
@@ -245,10 +252,10 @@
                     <p class="mb">Our Site has substantial and elaborate security measures in place to protect your Information. Unique user names and passwords must be entered each time a person logs on. The Site is hosted in a secure server environment that uses a firewall and other technology to reasonably prevent access from outside intruders. Internally, we use security-logs, train our employees and limit access to only essential personnel. When transmitting sensitive Information, we use encryption technology. All our technology and processes are not, however, guarantees of security. Please keep your user name and password secret and let us know at <a href="mailto:privacy@sogosurvey.com">privacy@sogosurvey.com</a> if you learn or suspect that our security has been breached.</p>
                     <h5>6. Changes in the Privacy Policy:</h5>
                     <p class="mb">As we are constantly improving our services and expanding our business, we retain the right to modify this privacy policy at any time. In the event we make such changes, we will announce the changes and post the new policy on the Site. Information collected after the new policy is posted will be used in conformance with the new policy. Information gathered under the old policy will continue to be used in conformance with that policy unless we, in conjunction with Customer, notify Survey Participants of the changes and the Survey Participant does not prohibit the use of the Information in conformance with the new policy. If we make any material changes we will notify you or our Client by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
-                    <p class="mb">SoGoSurvey Interactive (“SoGoSurvey”) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s <a href="http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html">Program Requirements</a> and the <a href="http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html">TRUSTed Cloud Program Requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@sogosurvey.com">privacy@sogosurvey.com</a>. If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>.</p>
+                    <p class="mb">SoGoSurvey Interactive (“SoGoSurvey”) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s <a href="http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html" target="_blank">Program Requirements</a> and the <a href="http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html" target="_blank">TRUSTed Cloud Program Requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. You can endorse SoGoSurvey <a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.sogosurvey.com&amp;sealid=102" target="_blank">Click here</a>. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@sogosurvey.com">privacy@sogosurvey.com</a>. If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>.</p>
                     <p class="mb">TRUSTe’s certification applies to <a href="http://www.sogosurvey.com/">www.sogosurvey.com</a> and the service platform associated with this website. </p>
                     <h5>EU-US and Swiss-US Safe Harbor</h5>
-                    <p class="mb">SoGo Surveycomplies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. SoGo Surveyhas certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SoGo Survey’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/.</a></p>
+                    <p class="mb">SoGoSurvey complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. SoGoSurvey has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SoGo Survey’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/.</a></p>
                     <p class="fwt-bd">Additional Information</p>
                     <p class="mb">If you have questions about this Privacy Policy or the Site, you can contact us at <a href="mailto:privacy@sogosurvey.com">privacy@sogosurvey.com</a></p>
                     <p class="mb">Last Updated: February 7, 2013</p>
@@ -258,111 +265,254 @@
         </div>
     </article>
 </section>
-    
-    <footer>
-        <div class="Wrapper">
-        <div style="position:relative; height:325px;">
-            <section class="fl" style="margin-left:10px;">
-            <section class="grid_2_footer fl">
-                <h5 class="h5_foothead">Company</h5>
-                <ul class="sub-footer">
-                    <li><a href="http://www.sogosurvey.com/About-Us/">About Us</a></li>
-                    <li><a href="http://www.sogosurvey.com/About-Us/careers.aspx">Careers</a></li>
-                    <li><a href="http://www.sogosurvey.com/why-sogosurvey.aspx">Why SoGoSurvey</a></li>
-                    
-                    <li><a href="http://blog.sogosurvey.com" target="_blank">Blog</a></li>
-                    
-                </ul>
-            </section>
-            <section class="grid_2_footer fl">
-                <h5 class="h5_foothead">Policies</h5>
-                <ul class="sub-footer">
-                    <li><a href="http://www.sogosurvey.com/Legal/online-survey-privacy.aspx">Privacy Policy</a></li>
-                    <li><a href="http://www.sogosurvey.com/Legal/Tos.aspx">Terms of Services</a></li>
-                    <li><a href="http://www.sogosurvey.com/Legal/Anti-Spam-Policy.aspx">Anti Spam Policy</a></li>
-                </ul>
-            </section>
-            <section class="grid_2R_footer fl">
-                <h5 class="h5_foothead">Resources</h5>
-                <ul class="sub-footer">
-                    <li><a href="http://www.sogosurvey.com/static/Packages.aspx?blnpackages=false">Pricing</a></li>
-                    <li><a href="http://www.sogosurvey.com/sample-surveys/survey-design.aspx">Survey Design Services</a></li>  
-                    <li><a href="http://www.sogosurvey.com/Sitemap/Sitemap.aspx">Site Map</a></li>
-                </ul>
-            </section>            
-            <div class="ca"></div>
-            <section class="fl">
-                <div class="cf_sides">
-                    <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Zarca-Interactive/asc?rid=6d755662-4ae6-4010-bbb3-4f4813d2763d"></script>
-                    <a href="//privacy.truste.com/privacy-seal/Zarca-Interactive/validation?rid=df1cb5c5-b450-44f2-9a13-1ecec00da21a" title="Validate TRUSTe privacy certification" target="_blank">
-                    <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Zarca-Interactive/seal?rid=df1cb5c5-b450-44f2-9a13-1ecec00da21a" alt="Validate TRUSTe privacy certification"></a>
-                </div>
-                <div class="cf_sides" onmouseout="document.getElementById('BH').style.display='';document.getElementById('BN').style.display='none';" onmouseover="document.getElementById('BH').style.display='none';document.getElementById('BN').style.display='';">
-                    <a href="http://www.bbb.org/washington-dc-eastern-pa/business-reviews/business-consultants/zarca-interactive-inc-in-herndon-va-152030302" target="_blank"><img alt="SogoSurvey Inc BBB Business Review" id="BH" style="border: 0;" src="../../Images/SogoImages/bbbN.png"></a>
-                    <a href="http://www.bbb.org/washington-dc-eastern-pa/business-reviews/business-consultants/zarca-interactive-inc-in-herndon-va-152030302" target="_blank"><img alt="SogoSurvey Inc BBB Business Review" id="BN" style="border: 0;display:none; background-color:Transparent;" src="../../Images/SogoImages/bbbH1.png"></a>
-                </div>
-                <div class="cf_sides" style="margin-top:3.5em;">
-                    <script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=deSszm9CrC2njwiTZ0bcAsWaJVpkN4KEIN47meEoqscBpBHyYySuhs0vHM"></script>
-                </div>
-                <div class="cf_sides" style="margin-top:3.2em;">
-                    <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.sogosurvey.com">
-                    <img width="65" height="37" src="//images.mcafeesecure.com/meter/www.sogosurvey.com/55.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
-                </div>
-                <div class="ca"></div>
-            </section>
-            </section>
-            <section class="grid_2a_footer fl">
-                <h5 class="h5_foothead">Samples</h5>
-                <ul class="sub-footer">
-                    <li><a href="http://www.sogosurvey.com/sample-surveys/customer-satisfaction-surveys/">Customer Satisfaction Surveys</a></li>
-                    <li><a href="http://www.sogosurvey.com/sample-surveys/employee-satisfaction-surveys/">Employee Satisfaction Surveys</a></li>
-                    <li><a href="http://www.sogosurvey.com/Survey-Types/feedback-surveys/">Feedback Surveys</a></li>
-                    <li><a href="http://www.sogosurvey.com/Survey-Types/school-surveys/">School Surveys</a></li>
-                    <li><a href="http://www.sogosurvey.com/Survey-Types/academic-surveys/">Academic Surveys</a></li>
-                    <li><a href="http://www.sogosurvey.com/sample-surveys/event-planning-surveys/">Event Planning Surveys</a></li>
-                    <li><a href="http://www.sogosurvey.com/sample-surveys/market-research-surveys/">Market Research Surveys</a></li>
-                    <li><a href="http://www.sogosurvey.com/Survey-Types/performance-appraisal-survey/">Performance Appraisal Surveys</a></li>
-                    <li><a href="http://www.sogosurvey.com/sample-surveys/healthcare/hcahps-survey.aspx">Healthcare Surveys</a></li>
-                    <li><a href="http://www.sogosurvey.com/sample-surveys/HR-surveys/">HR Surveys</a></li>
-                </ul>
-            </section>            
-            <section class="grid_3a_footer fr">
-                <h5 class="h5_foothead">Connect With Us</h5>
-                <ul class="connect">
-                    <li class="profile-button" style="margin-left:0;"><a href="http://www.facebook.com/sogosurvey" target="_blank" class="facebook svg"></a></li>
-                    <li class="profile-button"><a href="http://twitter.com/SoGoSurvey" target="_blank" class="twitter svg"></a></li>
-                    <li class="profile-button"><a href="http://www.linkedin.com/company/sogosurvey-inc/" target="_blank" class="linkedin svg"></a></li>
-                    <li class="profile-button"><a href="http://plus.google.com/105523682061546764557/posts/" target="_blank" class="gplus svg"></a></li>
-                    <li class="profile-button"><a href="http://www.youtube.com/user/sogosurvey/" target="_blank" class="youtube svg"></a></li>
-                </ul>
-                <div class="ca"></div>
-                <p class="gray-txt">© 2013 SoGoSurvey, Inc. <br>2291 Wood Oak Drive <br>Herndon, VA 20171</p>                
-            </section>
-            <div class="ca"></div>
-            <a href="http://www.sogosurvey.com/our-guarantee/safe-harbor-and-data-security/"><img class="svg" style="position:absolute;bottom:0;right:0;" src="http://www.sogosurvey.com/static/sogo_resp_images/seal-of-trust-footer.png" alt=""></a>
-            </div>
-        </div>
-    </footer>  
-</div>      
-    <div id="fadeDiv"></div>
-    <div id="chat_now_div">    
-           
-        <script type="text/javascript" src="http://chat.sogosurvey.com/CuteSoft_Client/CuteChat/Support-Image-Button-footer.js.aspx"></script>
-    </div>    
-</form>
- <!-- PRT:25990 Added this CPH so that we can remove GA code from login page -->
-    <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-    try {
-    var pageTracker = _gat._getTracker("UA-2594889-3");
-    pageTracker._trackPageview();
-    } catch(err) {}
-    </script>
-   
- 
 
+<footer>
+<section> 
+<div class="Wrapper posht">
+    <div class="grid_6F fl">
+        <section class="grid_2C fl">
+            <h5 class="h5_foothead">Company</h5>
+            <ul class="sub-footer">
+            <li><a href="http://www.sogosurvey.com/About-Us/">About Us</a></li>
+            <li><a href="http://www.sogosurvey.com/About-Us/careers.aspx">Careers</a></li>
+            <li><a href="http://www.sogosurvey.com/Support">Contact Us</a></li>
+            <li><a href="http://blog.sogosurvey.com" target="_blank">Blog</a></li>
+            </ul>
+        </section>
+        <section class="grid_2M fl">
+            <h5 class="h5_foothead">Policies</h5>
+            <ul class="sub-footer">
+            <li><a href="http://www.sogosurvey.com/Legal/online-survey-privacy.aspx">Privacy Policy</a></li>
+            <li><a href="http://www.sogosurvey.com/Legal/Tos.aspx">Terms of Services</a></li>
+            <li><a href="http://www.sogosurvey.com/Legal/Anti-Spam-Policy.aspx">Anti Spam Policy</a></li>
+            </ul>
+        </section>
+        <section class="grid_2R fl">
+            <h5 class="h5_foothead">Resources</h5>
+            <ul class="sub-footer">
+            <li><a href="http://www.sogosurvey.com/sample-surveys.aspx">Sample Surveys</a></li>
+            <li><a href="http://www.sogosurvey.com/sample-surveys/survey-design.aspx">Survey Design Services</a></li>
+            <li><a href="http://www.sogosurvey.com/k/RQsWUYTsQYTsPsPsP" target="_blank">Webinars</a></li>
+            </ul>
+        </section>
+        <div class="ca"></div>
+        <section class="cf fl">
+            <div class="cf_sides">
+            <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Zarca-Interactive/asc?rid=6d755662-4ae6-4010-bbb3-4f4813d2763d"></script>
+            <a href="//privacy.truste.com/privacy-seal/Zarca-Interactive/validation?rid=df1cb5c5-b450-44f2-9a13-1ecec00da21a" title="Validate TRUSTe privacy certification" target="_blank">
+            <img style="border:none" src="//privacy-policy.truste.com/privacy-seal/Zarca-Interactive/seal?rid=df1cb5c5-b450-44f2-9a13-1ecec00da21a" alt="Validate TRUSTe privacy certification"></a>
+            </div>
+            <div class="cf_sides" onmouseout="document.getElementById('BH').style.display='';document.getElementById('BN').style.display='none';" onmouseover="document.getElementById('BH').style.display='none';document.getElementById('BN').style.display='';">
+            <a href="http://www.bbb.org/washington-dc-eastern-pa/business-reviews/business-consultants/zarca-interactive-inc-in-herndon-va-152030302" target="_blank"><img alt="SogoSurvey Inc BBB Business Review" id="BH" style="border:0;" src="../../Images/SogoImages/bbbN.png"></a>
+            <a href="http://www.bbb.org/washington-dc-eastern-pa/business-reviews/business-consultants/zarca-interactive-inc-in-herndon-va-152030302" target="_blank"><img alt="SogoSurvey Inc BBB Business Review" id="BN" style="border:0;display:none;background-color:Transparent;" src="../../Images/SogoImages/bbbH1.png"></a>
+            </div>
+            <div class="cf_sides" style="margin-top:51px;">
+            <script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=deSszm9CrC2njwiTZ0bcAsWaJVpkN4KEIN47meEoqscBpBHyYySuhs0vHM"></script>
+            </div>
+            <div class="cf_sides" style="margin-top:48px;">
+            <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.sogosurvey.com">
+            <img width="65" height="37" src="//images.mcafeesecure.com/meter/www.sogosurvey.com/55.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
+            </div>
+            <div class="ca"></div>
+        </section>
+        <div class="ca"></div>
+    </div>    
+    <section class="grid_3 fl">
+        <h5 class="h5_foothead">Connect With Us</h5>
+        <ul class="connect">
+        <li class="profile-button"><a href="http://www.facebook.com/sogosurvey" target="_blank" class="facebook svg"></a></li>
+        <li class="profile-button"><a href="http://twitter.com/SoGoSurvey" target="_blank" class="twitter svg"></a></li>
+        <li class="profile-button"><a href="http://www.linkedin.com/company/sogosurvey-inc/" target="_blank" class="linkedin svg"></a></li>
+        <li class="profile-button"><a href="http://plus.google.com/105523682061546764557/posts/" target="_blank" class="gplus svg"></a></li>
+        <li class="profile-button"><a href="http://www.youtube.com/user/sogosurvey/" target="_blank" class="youtube svg"></a></li>
+        </ul>        
+        <p class="gray-txt">© 2014 SoGoSurvey, Inc. <br>2291 Wood Oak Drive <br>Herndon, VA 20171<br><a href="http://www.sogosurvey.com/Sitemap/Sitemap.aspx" class="sitemap">Site Map</a></p>
+    </section>
+    <div class="ca"></div>   
+    <div class="seal"> 
+        <div id="ctl00_Trsutseal">
+        <a href="http://www.sogosurvey.com/our-guarantee/safe-harbor-and-data-security/"><div class="trustDD circseal"></div></a>
+        <a href="http://www.sogosurvey.com/our-guarantee/safe-harbor-and-data-security/"><img src="http://www.sogosurvey.com/static/sogo_resp_images/home/trust-seal.png" alt="" width="120" height="120" class="svg trustMob"></a>
+        </div>
+    </div>
+</div>
+</section>
+</footer>
+</div>
+</div>
+<div id="salesBox">
+    <a id="close" class="close" href="javascript:void(0);">
+        <img alt="Close" src="http://www.sogosurvey.com/static/ONLINE-SURVEY-IMAGES/IndexLayerImages/closebox.png">
+    </a>
+    <div id="salesCont">
+<script type="text/javascript">
+    function fnOnUpdateValidators(){
+        setPopupFocus();
+        var strappledemail='';
+        var strappledphone='';
+        for (var i = 0; i < Page_Validators.length; i++){
+            var val = Page_Validators[i];
+            var ctrl = document.getElementById(val.controltovalidate);
+            if (ctrl != null && ctrl.style != null){
+                if (!val.isvalid ){
+                if(ctrl.id.toLowerCase().search('capsale')>=0)
+                ctrl.className="capSalehover";
+                else if(ctrl.id.toLowerCase().search('email')>=0){ 
+                    strappledemail=ctrl.id;
+                    ctrl.className="textfield_mandatory";}
+                else if(ctrl.id.toLowerCase().search('phone')>=0 ){
+                    strappledphone=ctrl.id;
+                    ctrl.className="textfield_mandatory";}
+                else
+                ctrl.className="textfield_mandatory";}
+            else if( ctrl.id.toLowerCase().search('phone')>=0 && strappledphone==''){
+                ctrl.className = '';}
+            else if(ctrl.id.toLowerCase().search('email')>=0 && strappledemail==''){
+                ctrl.className = '';}
+            else if(ctrl.id.toLowerCase().search('capsale')>=0){
+                ctrl.className = 'capSale';}
+            else if(ctrl.id.toLowerCase().search('phone')<= 0 && ctrl.id.toLowerCase().search('email')<= 0 ){
+                ctrl.className = '';}}}
+        strappledemail='';
+        strappledphone='';  
+    }
+    function ValidateCheckBox(sender, args) {
+        if (document.getElementById("ctl00_contacts_txtPhone").value != ""){
+            var chkdigitlen=document.getElementById("ctl00_contacts_txtPhone").value;
+                if(chkdigitlen){
+                var lendigitss=(chkdigitlen.replace(/[^0-9]/g,"").length)
+                    if(lendigitss>15 || lendigitss<10 )
+                        args.IsValid = false;
+                    else
+                    args.IsValid = true;}}
+        else{args.IsValid = true;}
+    }
+    function setPopupFocus(){
+        $(window).scrollTop($('#salesBox').offset().top-20);
+        $('#salesBox input').eq(0).focus(); 
+        return false;
+    }
+    var mouseX,mouseY,windowWidth,windowHeight;
+    var popupLeft,popupTop;
+    $(document).ready(function(){
+        $(document).mousemove(function(e){
+            mouseX = e.pageX;
+            mouseY = e.pageY;
+            if( this.offsetLeft !=undefined)
+            mouseX = e.pageX - this.offsetLeft;
+            if( this.offsetTop != undefined)
+            mouseY = e.pageY; - this.offsetTop;
+            if(mouseX < 0)
+            mouseX =0;
+            if(mouseY < 0)
+            mouseY = 0;
+        windowWidth = $(window).width()+$(window).scrollLeft();
+        windowHeight = $(window).height()+$(window).scrollTop();
+        });
+        $('.callUsMore').click(function(){
+            $('#salesBox').show();
+            $('#salesCont').show();
+            $('.popbackgroung').show();            
+            var popupWidth = $('#salesBox').outerWidth();
+            var popupHeight = $('#salesBox').outerHeight();
+            if(mouseX+popupWidth > windowWidth)
+            popupLeft = (windowWidth-popupWidth)/2;
+            else
+            popupLeft = (windowWidth-popupWidth)/2;
+            if(mouseY+popupHeight > windowHeight)
+            popupTop = mouseY-popupHeight;
+            else
+            popupTop = mouseY;
+            if( popupLeft < $(window).scrollLeft()){
+            popupLeft = (windowWidth-popupWidth)/2;}
+            if( popupTop < $(window).scrollTop()){
+            popupTop = $(window).scrollTop()+ 20;}
+            if(popupLeft < 0 || popupLeft == undefined)
+            popupLeft = 0;
+            if(popupTop < 0 || popupTop == undefined)
+            popupTop = 0;
+            $('#salesBox').css({position:"absolute",top:popupTop,left:popupLeft});
+            if (document.getElementById("ctl00_contacts_lblerr")){                
+                $('#salesBox').validationEngine('hide');
+                return false; 
+            } 
+        });
+        $('#close').bind('click',function(){
+            $('#salesBox').hide();
+            $('#salesCont').hide();
+            $('.popbackgroung').hide();
+        });
+    });
+</script>
+<div class="sales_head">
+    <p>Please call 1-703-542-9595 <span>or</span><br><span>fill out this form and we will contact you shortly.</span></p>
+</div>
+<div class="sales_form">
+    <span id="ctl00_contacts_lblStatic" style="color: #f05a28; top: -2px">Fields marked with (*) are mandatory.</span>
+    <span id="ctl00_contacts_spnMandatory" style="color: #f05a28;"></span>
+    
+    
+    
+    
+    
+    
+    
+                 
+    
+    
+    
+    <p>Name*</p>
+    <input name="ctl00$contacts$txtName" type="text" id="ctl00_contacts_txtName">
+    <p>Email*</p>
+    <input name="ctl00$contacts$txtEmail" type="text" id="ctl00_contacts_txtEmail">
+    <p>Phone*</p>
+    <input name="ctl00$contacts$txtPhone" type="text" id="ctl00_contacts_txtPhone">
+    <p>Title</p>
+    <input name="ctl00$contacts$TextTitle" type="text" id="ctl00_contacts_TextTitle">
+    <p>Company</p>
+    <input name="ctl00$contacts$TextCompany" type="text" id="ctl00_contacts_TextCompany">
+    <p>How can we help you?*</p>
+    <textarea name="ctl00$contacts$txtQuery" rows="2" cols="20" id="ctl00_contacts_txtQuery"></textarea>
+    <p>Enter the characters as shown in the image*</p>
+    <p style="margin:3px 0 10px"><span style="display:inline; vertical-align:top;"><img src="../../static/JpegImageSale.aspx" alt="captcha" width="100" height="25"></span>
+    <input name="ctl00$contacts$txtcapSale" type="text" id="ctl00_contacts_txtcapSale" class="capSale"></p>
+    <div class="ca"></div>
+    <input type="submit" name="ctl00$contacts$btnSubmit" value="Send" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$contacts$btnSubmit&quot;, &quot;&quot;, true, &quot;rval&quot;, &quot;&quot;, false, false))" id="ctl00_contacts_btnSubmit" class="button-blusend">
+    <div class="ca"></div>
+</div></div>
+</div>
+<div class="popbackgroung"></div>
+<div id="fadeDiv"></div>
+<div id="chat_now_div">
+    <script type="text/javascript" src="http://chat.sogosurvey.com/CuteSoft_Client/CuteChat/Support-Image-Button-footer.js.aspx"></script>
+</div>
+</form>
+<!-- PRT:37062-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2594889-3', 'sogosurvey.com');
+ga('send', 'pageview');
+</script>
+
+<script type="text/javascript">
+adroll_adv_id = "LY67XAZT4ND75EENQUOH5G";
+adroll_pix_id = "HBH26SFN6ZEK5AOURXM456";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+__adroll_loaded=true;
+var scr = document.createElement("script");
+var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+scr.setAttribute('async', 'true');
+scr.type = "text/javascript";
+scr.src = host + "/j/roundtrip.js";
+((document.getElementsByTagName('head') || [null])[0] ||
+document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+if(oldonload){oldonload()}};
+}());
+</script>
 
 </body></html>
