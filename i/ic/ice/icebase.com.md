@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icebase.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826212809id_/http%3A//cooleremail.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icebase.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120127id_/http%3A//cooleremail.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Cooler Email Privacy Policy | Email Marketing Solutions
 
 We are deeply committed to protecting your privacy and taking all reasonable steps to protect all data and information supplied to CoolerEmail.com. We protect your privacy in a variety of ways including using industry accepted security measures to protect against the loss, misuse and alteration of data used by our system.
 
