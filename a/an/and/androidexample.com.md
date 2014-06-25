@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidexample.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205172103id_/http%3A//androidexample.com/index.php%3Fview%3Dcontent%26contentid%3D118%26menu%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidexample.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071658id_/http%3A//androidexample.com/index.php%3Fview%3Dcontent%26contentid%3D118%26menu%3D12) for the most accurate reproduction.*
 
 # Privacy Policy
 
