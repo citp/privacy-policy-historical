@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naijaparrot.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229055503id_/http%3A//naijaparrot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijaparrot.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101610id_/http%3A//naijaparrot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nigerian News and stories
+# Privacy Policy
 
 **What information do we collect?** We collect information from you when you register on our site.
 
