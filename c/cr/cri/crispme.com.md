@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crispme.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221015924id_/http%3A//crispme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crispme.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625184216id_/http%3A//crispme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CrispMe
 
 _Last updated on 5th Dec 2012_
 
-CrispMe (crispme.com) is an online service run by Cubix Internet Studio, a company registered in Malaysia under Company Reg. No. JM0574394-X. CrispMe is a service to promote and inspire artists.
+CrispMe (crispme.com) is an online service run by Sheau Jye Eng. CrispMe is a service to promote and inspire artists.
 
 ## What is this Privacy Policy for?
 
