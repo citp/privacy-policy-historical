@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merkleinc.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225112511id_/http%3A//www.merkleinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merkleinc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104145id_/http%3A//www.merkleinc.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Merkle
 
@@ -66,11 +66,11 @@ We may make changes to this Privacy Policy on occasion. We will post any revised
 **Contact Information**  
 If you have any questions or comments related to Merkle’s privacy policy please contact:
 
-Jason Reis  
-Senior Vice President, General Counsel  
+Bennie Smith  
+Vice President, Chief Privacy Officer  
 Merkle, Inc.  
 7001 Columbia Gateway Drive  
 Columbia, MD 21046  
-[jreis@merkleinc.com](mailto:jreis@merkleinc.com)
+[BLsmith@merkleinc.com](mailto:BLsmith@merkleinc.com) 
 
-Copyright © 2013, Merkle Inc. All Rights Reserved.
+Copyright © 2014, Merkle Inc. All Rights Reserved.
