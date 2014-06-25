@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpwidgets.net privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601230426id_/http%3A//wpwidgets.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpwidgets.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074321id_/http%3A//wpwidgets.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WordPress Widgets, Tutorials, Plugins, SEO by WPWidgets.net
+# Privacy Policy | Best Tips and Tutorial for Wordpress Blogger with Plugins, Widgets, premium themes, SEO tricks and social media.Best Tips and Tutorial for Wordpress Blogger with Plugins, Widgets, premium themes, SEO tricks and social media.
 
 **Privacy Policy for wpwidgets.net**
 
