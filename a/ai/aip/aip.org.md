@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aip.org privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122200409id_/http%3A//www.aip.org/aip/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aip.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625235601id_/http%3A//www.aip.org/aip/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - American Institute of Physics
+# Privacy Policy | American Institute of Physics
 
-The American Institute of Physics (AIP) is committed to protecting your privacy and values your trust. This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. 
+The American Institute of Physics (AIP) is committed to protecting your privacy and values your trust. This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it.
 
 ## What information is collected
 
@@ -10,13 +10,13 @@ The American Institute of Physics (AIP) is committed to protecting your privacy 
 
 **Non-Personal Information.** We also collect non-personal information from you, such as your browser type, the URL of the previous website you visited, your ISP, operating system, and your Internet Protocol (IP) address. This enables us to know how many users visited our website, which pages were accessed, and other information about site usage that will help us to improve our offerings. Non-Personal Information cannot be easily used to personally identify you.
 
-The information we ask for is voluntary, although some services are only accessible by registering user details. 
+The information we ask for is voluntary, although some services are only accessible by registering user details.
 
-_Notice to EU Users:_ The server for www.aip.org is located in the United States. By entering information on this site, you are consenting to the transfer of that information to the United States. Your information will be handled in accordance with AIP's Privacy Policy. 
+_Notice to EU Users:_ The server for [www.aip.org](http://www.aip.org/) is located in the United States. By entering information on this site, you are consenting to the transfer of that information to the United States. Your information will be handled in accordance with AIP's Privacy Policy.
 
-## How collected information is used 
+## How collected information is used
 
-The primary purpose of gathering information is to allow AIP to link a name and contact information to a user ID or to enhance your browsing experience. Once you have provided appropriate information, you will be enabled to use a variety of products or personalized services, and to access online help or support. 
+The primary purpose of gathering information is to allow AIP to link a name and contact information to a user ID or to enhance your browsing experience. Once you have provided appropriate information, you will be enabled to use a variety of products or personalized services, and to access online help or support.
 
 AIP has a policy to use or sell its customer lists only for the delivery of information deemed of potential relevance or interest to members of the physics community. AIP offers an option to remove your information from any list that might be sold or given to another organization. To do so, please contact the appropriate [AIP department](http://www.aip.org/aip/staff.jsp) with which the list is associated.
 
@@ -24,10 +24,10 @@ We may share aggregated (i.e., non-individual) demographic information with our 
 
 ## How we keep information secure
 
-AIP is committed to safeguarding your information. We make commercially reasonable efforts to protect your information both online and off-line. 
+AIP is committed to safeguarding your information. We make commercially reasonable efforts to protect your information both online and off-line.
 
 **Data security**  
-To maintain data security we have put in place appropriate procedures to safeguard all sensitive information. 
+To maintain data security we have put in place appropriate procedures to safeguard all sensitive information.
 
 All online purchases you make with AIP are secured with SSL (secure socket layer) encryption using encryption certificates issued to AIP by well-known and reputable certificate authorities such as VeriSign and RapidSSL. You will know that you are in a secure session because the "http" in the URL box of your browser will read "https".
 
@@ -37,29 +37,29 @@ AIP continually monitors the security status of its networks and has taken appro
 
 AIP adheres to the Payment Card Industry (PCI) Data Security Standard developed to protect account and transaction information of cardholders. We partner with a secure and reliable payment system provider and employ industry-standard anti-fraud measures.
 
-## Opt-out for European Union and other users 
+## Opt-out for European Union and other users
 
 In accordance with EU and other guidelines, you may decline to provide the information requested by AIP. Please be advised, however, that AIP may be unable to provide certain services unless such information is provided for security and identification purposes.
 
-## Cookies 
+## Cookies
 
-AIP uses session cookies which are not permanent or persistent. The session cookie is designed so that, once you close your browser, the cookie will simply terminate. 
+AIP uses session cookies which are not permanent or persistent. The session cookie is designed so that, once you close your browser, the cookie will simply terminate.
 
 If you configure your browser to reject cookies, you may still use some, but not all, portions of our site. For example, accessing our online journals requires that your browser accept cookies. We recommend closing browsers on publicly available machines (such as those in libraries) after use.
 
 ## Links
 
-AIP sites contain links to other sites, and other sites have links to AIP. Please be aware that AIP is not responsible for the privacy practices (or other practices, goods, services, or content) of other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each web site that collects personally identifiable information. This privacy statement applies solely to information collected by AIP. 
+AIP sites contain links to other sites, and other sites have links to AIP. Please be aware that AIP is not responsible for the privacy practices (or other practices, goods, services, or content) of other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each web site that collects personally identifiable information. This privacy statement applies solely to information collected by AIP.
 
 ## Online discussions, blogs, commenting
 
-User-generated comments and postings to AIP sites will be moderated by editorial staff who retain the right to edit and to remove inappropriate submissions. By commenting or participating in an online discussion, you consent to our use or disclosure of any content you submit. 
+User-generated comments and postings to AIP sites will be moderated by editorial staff who retain the right to edit and to remove inappropriate submissions. By commenting or participating in an online discussion, you consent to our use or disclosure of any content you submit.
 
 ## Protection of Children's Personal Information
 
-AIP sites are general audience sites and do not knowingly collect any personal information from children. 
+AIP sites are general audience sites and do not knowingly collect any personal information from children.
 
-##  Notification of changes 
+## Notification of changes
 
 If we make material changes to our privacy policy, these changes will be posted to this page. You should review this page regularly for updates.
 
