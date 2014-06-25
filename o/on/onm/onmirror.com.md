@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onmirror.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031145410id_/http%3A//onmirror.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onmirror.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122407id_/http%3A//onmirror.com/privacy) for the most accurate reproduction.*
 
 # OnMirror.com - Mirror your files in one click
 
@@ -22,4 +22,4 @@ We have included links on this site for your use and reference. We are not respo
 Changes to this Privacy Statement  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of our site then you may contact us at 
+If you have any questions regarding the privacy policy of our site then you may contact us at postmaster@longfiles.com
