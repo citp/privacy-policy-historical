@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the descrier.co.uk privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225013851id_/http%3A//descrier.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the descrier.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114320id_/http%3A//descrier.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Descrier news and culture magazine
 
@@ -6,11 +6,11 @@ User privacy is of paramount importance to The Descrier. The success of our busi
 
 ### Information Collected In Advertisement Delivery
 
-In the course of delivering an ad to you, The Descrier does not collect any personally identifiable information about you, such as your name, address, phone number or email address. We, however, use a number of different adserving solutions including Valueclick, Burst Media, Casale Media and OpenX to collect non-personally identifiable information about you, such as the server your computer is logged onto, your browser type (for example, Netscape or Explorer), and whether you responded to the ad delivered. The non-personally identifiable information collected by The Descrier is for the purpose of targeting ads and measuring ad effectiveness on behalf of The Descrier’s advertisers and Web publishers.
+In the course of delivering an ad to you, The Descrier does not collect any personally identifiable information about you, such as your name, address, phone number or email address. We, however, use a number of different adserving solutions including Doubleclick and OpenX to collect non-personally identifiable information about you, such as the server your computer is logged onto, your browser type (for example, Netscape or Explorer), and whether you responded to the ad delivered. The non-personally identifiable information collected by The Descrier is for the purpose of targeting ads and measuring ad effectiveness on behalf of The Descrier’s advertisers and Web publishers.
 
 ### Third Party Advertising
 
-We use Casale Media, Burst Media, Valueclick Media, SAY Media, Google AdSense and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit any of the network sites or the Network Advertising Initiative.
+We use Federated Media, Casale Media, PixFuture, Google AdSense and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit any of the network sites or the Network Advertising Initiative.
 
 ### Behavioural Advertising
 
@@ -59,5 +59,5 @@ The best way to make sure you are in control of which cookies are recording your
 ### Useful Sources
 
 The IAB offers a website specifically relating to privacy and digital advertising at [Your Online Choices](http://www.youronlinechoices.com/uk/).  
-Your legal rights of digital privacy are set out in the [Data Protection Act 1998](http://www.opsi.gov.uk/acts/acts1998/ukpga_19980029_en_1), with more information found at the [Information Commissioner's Office](http://www.ico.gov.uk/)  
+Your legal rights of digital privacy are set out in the [Data Protection Act 1998](http://www.opsi.gov.uk/acts/acts1998/ukpga_19980029_en_1), with more information found at the [Information Commissioner’s Office](http://www.ico.gov.uk/)  
 If you would like to contact us about cookies or your privacy using the site, please email us at [privacy@descrier.co.uk](mailto:privacy@descrier.co.uk).
