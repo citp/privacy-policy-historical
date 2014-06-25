@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zoomcar.in privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213014309id_/http%3A//www.zoomcar.in/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomcar.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113759id_/http%3A//www.zoomcar.in/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Zoomcar.in
+# ZoomCar Privacy Policy | Zoomcar.in
 
 This Privacy Policy (the “Policy”) sets out how Zoom, Inc. (“Zoom”, “we”, “us” and/or “our”) collects, uses, shares and protects any information that you give us when you use this website (the “Site”). Zoom is committed to ensuring that your privacy is protected as your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about our users in order to provide, protect, maintain and improve our services, we feel you should fully understand the Policy surrounding the capture and use of that information. Please read the Policy carefully.
 
