@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clicks-fx.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809151001id_/https%3A//clicks-fx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicks-fx.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125309id_/https%3A//clicks-fx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Clicks - FX
 
-[Home](https://clicks-fx.com/index) | [View Ads](https://clicks-fx.com/member_ptc) | [Watch Videos](https://clicks-fx.com/member_ptwv) | [Tasks](https://clicks-fx.com/crowdflower) | [Refback](https://clicks-fx.com/member_ptsu) | [Ad Store](https://clicks-fx.com/advertising_store) | [Weekly Lottery](https://clicks-fx.com/lottery) | [Contact us](https://clicks-fx.com/contact) | [Forum](http://forum.clicks-fx.com/)  
+[Home](http://clicks-fx.com/index) | [View Ads](http://clicks-fx.com/member_ptc) | [Watch Videos](http://clicks-fx.com/member_ptwv) | [Tasks](http://clicks-fx.com/crowdflower) | [Refback](http://clicks-fx.com/member_ptsu) | [Ad Store](http://clicks-fx.com/advertising_store) | [Weekly Lottery](http://clicks-fx.com/lottery) | [Contact us](http://clicks-fx.com/contact) | [Forum](http://forum.clicks-fx.com/)  
 ---|---|---|---|---|---|---|---|---  
   
 ## Clicks - FX's Privacy Policy
