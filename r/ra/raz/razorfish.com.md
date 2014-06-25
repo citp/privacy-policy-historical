@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the razorfish.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424030206id_/http%3A//www.razorfish.com/common/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razorfish.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625171821id_/http%3A//www.razorfish.com/common/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -86,4 +86,4 @@ Razorfish
 424 Second Avenue West    
 Seattle, WA 98119
 
-©2013 Razorfish LLC. All rights reserved.
+©2014 Razorfish LLC. All rights reserved.
