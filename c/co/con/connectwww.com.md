@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the connectwww.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125041607id_/http%3A//connectwww.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectwww.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104029id_/http%3A//connectwww.com/privacy) for the most accurate reproduction.*
 
 # Privacy | CONNECTwww.com
-
-## Privacy
 
 At connectwww.com, the privacy of our visitors is of extreme importance to us . This privacy policy document outlines the types of personal information is received and collected by connectwww.com and how it is used.
 
