@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobscdc.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425131312id_/http%3A//www.jobscdc.com/2011/06/jobscdc-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscdc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052323id_/http%3A//www.jobscdc.com/2011/06/jobscdc-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - JobsCDC - Lowongan Kerja Terbaru April 2013 | BUMN & CPNS 2013
+# Privacy Policy - JobsCDC - Lowongan Kerja Terbaru Juni 2014 | BUMN & CPNS 2014
 
-**click + 1 button if you like this**
+**Advertisements**
 
 [](http://4.bp.blogspot.com/-Yqng_H92MiM/TglUNmZTG7I/AAAAAAAAIuY/xd0Yhli81nE/s1600/JobsCDC.jpg)  
 ---  
@@ -27,12 +27,9 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. (15/06)
 
   
+**Notes :**
 
+**JobsCDC.com** now available on android device. Download now on Google Play [**here**](https://play.google.com/store/apps/details?id=com.jobscdc.com). **Please be aware of recruitment fraud.** The entire stage of this selection process is free of charge. **[Privacy Policy - JobsCDC](http://www.jobscdc.com/2011/06/jobscdc-privacy-policy.html)** will never ask for fees or upfront payments for any purposes during the recruitment process such as transportation and accommodation.
 
-subscription jobs info via RSS FEED:  
-|    
-Find **jobscdc** on Facebook  
----|---  
-  
   
 
