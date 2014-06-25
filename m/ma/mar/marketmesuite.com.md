@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketmesuite.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214103631id_/http%3A//marketmesuite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketmesuite.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052949id_/http%3A//marketmesuite.com/privacy) for the most accurate reproduction.*
 
-# MarketMeSuite, Social Media Inbox for Social - Marketing Dashboard For Business
+# MarketMeSuite Privacy Policy
 
 MarketMesuite LTD ("MarketMeSuite") takes your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the MarketMeSuite website located at MarketMeSuite.com and any linked pages, features, content, or application services offered from time to time by MarketMeSuite in connection therewith (the “Site”) and using MarketMeSuite services (the “Services”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
