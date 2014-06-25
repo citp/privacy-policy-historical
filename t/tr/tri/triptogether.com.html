@@ -1,100 +1,351 @@
-<!--The following is the downloaded HTML source of the triptogether.com privacy policy that was archived on 2013-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501151130id_/https%3A//www.triptogether.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the triptogether.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625165940id_/https%3A//www.triptogether.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta charset="utf-8">
+        <meta name="alexaVerifyID" content="fzseseyWUx8XbHUh36gtS3nnaqA">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
         <title>TripTogether</title>
-	    <link rel="shortcut icon" href="/i/favicon.ico?4">
-        <link type="text/css" rel="stylesheet" href="/styles/common.css?0-1-15-00">
-<link type="text/css" rel="stylesheet" href="/styles/inner.css?0-1-15-00"><link type="text/css" rel="stylesheet" href="/styles/static.css?0-1-15-00">        <!--[if lte IE 9]>
-<script src='/app/libs/base64.js'></script>
-<![endif]-->
+        <link rel="shortcut icon" href="/i/favicon.ico?7" type="image/x-icon">
+        <link rel="widget" href="/communication/messages/favicon-counter" data-container="next" data-args="favicon-counter" data-platform="name !: IE">
+        <!--[if !IE 7]>-->
+            <link rel="icon" href="/i/favicon-16.png" sizes="16x16">
+        <!--<![endif]-->
+        <link rel="icon" href="/i/favicon-32.png" sizes="32x32">
+        <link rel="icon" href="/i/favicon-64.png" sizes="64x64">
+        <link rel="icon" href="/i/favicon-128.png" sizes="128x128">
+        <link rel="icon" href="/i/favicon-256.png" sizes="256x256">
+	<!--[if lt IE 9]>
+                <link type="text/css" rel="stylesheet" href="/styles/common.desktop.css?0-18-0-1"/>
+        <![endif]-->
+                <link type="text/css" rel="stylesheet" href="/styles/common.desktop.css?0-18-0-1" media="only screen and (min-device-width: 769px)">
+                <link type="text/css" rel="stylesheet" href="/styles/common.mobile.css?0-18-0-1" media="only screen and (max-device-width: 768px)">
+
+        <!--[if lt IE 9]>
+                <link type="text/css" rel="stylesheet" href="/styles/profile.desktop.css?0-18-0-1"/>
+                <link type="text/css" rel="stylesheet" href="/styles/inner.desktop.css?0-18-0-1"/>
+        <![endif]-->
+        <link type="text/css" rel="stylesheet" href="/styles/inner.desktop.css?0-18-0-1" media="only screen and (min-device-width: 769px)">        <link type="text/css" rel="stylesheet" href="/styles/inner.mobile.css?0-18-0-1" media="only screen and (max-device-width: 768px)">        <link type="text/css" rel="stylesheet" href="/styles/profile.desktop.css?0-18-0-1" media="only screen and (min-device-width: 769px)">        <link type="text/css" rel="stylesheet" href="/styles/profile.mobile.css?0-18-0-1" media="only screen and (max-device-width: 768px)">        <link type="text/css" rel="stylesheet" href="/styles/static.css?0-18-0-1">        
+
 <!--[if lt IE 9]>
 <script src='/app/libs/es5-shim.js'></script>
 <script src='/app/libs/iso8601.js'></script>
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<script src="/app/packages/require.config.js?0-1-15-00"></script>
-<script type="text/javascript">
-    var require = {
-        baseUrl: '/app',
-        packages: jam.packages,
-        paths: {
-            'mustache': '/app/libs/mustache',
-            'facebook-sdk': '//connect.facebook.net/en_US/all',
-            'base64': '/app/libs/base64',
-	        'fotorama': '/app/libs/fotorama',
-            'jquery.autocomplete': '/app/libs/jquery.autocomplete',
-            'jquery.input': '/app/libs/jquery.input',
-            'google-analytics': 'https://ssl.google-analytics.com/ga',
-            'google-plusone': 'https://apis.google.com/js/plusone',
-            'twitter': '//platform.twitter.com/widgets'
-        },
-        shim: jam.shim,
-        waitSeconds: 20,
-        urlArgs : '0-1-15-00'
-    };
-</script>
-<script src="/app/libs/require.js?0-1-15-00" data-main="boot"></script>
+
+<script>var REVISION = '0-18-0-1';</script>
+<script src="/app/packages/require.js?0-18-0-1"></script>
 
 
 
+<!--[if lt IE 9]>
+<script>var LTEIE8 = true;</script>
+<![endif]-->
+
+<script>
+    (function(){
+        var PATH_MAP = [
+                    [/^\/travellers\/\d+\/?$/, "/travellers/profile"],
+                    [/^\/travellers\/$/, "/travellers/search"]
+                ],
+                wl = window.location,
+                uri = wl.pathname + wl.search,
+                v = '?0-18-0-1';
+
+        function remapPath(p) {
+            var i = -1,
+                    l = PATH_MAP.length,
+                    r;
+
+            for(;++i < l;){
+                r = PATH_MAP[i];
+                if(r[0].test(p)) {
+                    return r[1];
+                }
+            }
+
+            return p;
+        }
+
+        function loadScript(uri, cb){
+            var s = document.createElement('script');
+            s.setAttribute('src', uri);
+            s.setAttribute('async', 'async');
+            s.async = true;
+            s.onload = s.onerror = cb;
+
+            if ( typeof LTEIE8 !== 'undefined' ) {
+                s.onreadystatechange = function() {
+                    if (s.readyState == 'loaded')
+                            cb({type: "error"});
+                    else
+                    if(s.readyState == 'complete')
+                            cb({type: 'load'});
+
+                };
+            }
+
+            document.getElementsByTagName('head')[0].appendChild(s);
+        }
+
+        loadScript('/bundles' + remapPath(uri) + v, function(e) {
+            if(e.type === "error") {
+                loadScript('/app/require.config.js' + v, function() {
+                    require(['boot']);
+                });
+            }
+        });
+    })();
+</script><script src="/bundles/web/20140625165940id_/https://www.triptogether.com/privacy-policy/?0-18-0-1" async=""></script>
+
+
+
+        <link rel="service" href="/logger">
         <link rel="service" href="/events">
+        <link rel="service" href="/events/sender">
+        <link rel="service" href="/settings">
+        <link rel="service" href="/capturer">
         <link rel="service" href="/router">
         <link rel="service" href="/analytics">
         <link rel="service" href="/analytics/afid">
         <link rel="service" href="/authorization">
-        <link rel="service" href="/reminders/registration">
-    </head>
+        <link rel="service" href="/facebook/authorization">
+        <link rel="service" href="/user/gender">
+        <link rel="service" href="/user/registration">
+        <link rel="service" href="/params/emitter">
+        <link rel="service" href="/params/encoder">
+        <link rel="service" href="/communication/messages/counter" data-platform="name : IE">
+        <link rel="service" href="/paypal/payments">
+        <link rel="service" href="/purchase/exchanger">
+        <link rel="service" href="/purchase/reporter">
+        <link rel="service" href="/purchase/firstbuy">
+        <link rel="service" href="/user/test" data-feature="test-users-auto-marker">
+        <link rel="service" href="/doi/common" defer="bus://authorized">
+        <link rel="service" href="/doi/overlay" defer="bus://registered">
+        <link rel="service" href="/events/timeout" data-args="authorized, 500, command.notifications.email.confirmation.check, command.notifications.email.confirm" defer="bus://authorized">
+        <link rel="service" href="/email/tracker">
+        <link rel="service" href="/annals">
+        <link rel="service" href="/iovation" data-feature="enable-iovation-validation">
+    <script src="/app/require.config.js?0-18-0-1" async=""></script></head>
     <body>
-        <article id="fellow-to" class="inner app-container">
+
+        <link rel="widget" href="/mobile/popup" data-platform="os.family:iOS">
+        <link rel="widget" href="/tools/localization/updater" defer="bus://overlay,localization">
+
+        <section id="fellow-to" class="inner app-container">
+            <link rel="widget" href="/ie" data-platform="name:ie">
+
             <link rel="widget" href="/authorization/state">
             <link rel="widget" href="/authorization/roles">
+            <link rel="widget" href="/contentedit/graphictext">
             <link rel="widget" href="/contentedit/enabler">
             <link rel="widget" href="/contentedit/watcher">
             <link rel="widget" href="/contentedit/approver">
-            <link rel="widget" href="/overlay" data-args="noclick">
-            <link rel="widget" href="/notifications">
+            <link rel="widget" href="/overlay" data-args="noclick, false">
+            <link rel="widget" href="/notifications/system">
+
 
             <header>
 	<div class="limiting-wrapper clearfix">
-				<a href="/" class="logo">
-			<span class="project-name"><l10n url="/texts/shared/identity#domain">TripTogether.com</l10n></span> <l10n url="/texts/shared/identity#motto">Travelling Together Is Brighter!</l10n>
+				<a class="logo" href="/">
+            <link rel="widget" href="/search/logo">
+            <span class="hidden"><l10n url="/texts/identity#domain">TripTogether.com</l10n></span> <span class="project-name"></span><span class="motto"><l10n url="/texts/identity#motto">Travelling Together Is Brighter!</l10n></span>
 		</a>
 
-		<section class="account-options">
+		<section class="account-options clearfix">
+    <section class="search-container">
+        <button class="change-options">
+            <link rel="widget" href="/events/emitter" data-args="overlay, search-options">
+        </button>
+    </section>
 	<section class="login-container">
 		<ul class="options clearfix">
 			<li class="option">
-				<button id="login-facebook" class="facebook button disabled" type="button" accesskey="F">
+				<button id="login-facebook" class="emblem facebook button hidden" type="button" accesskey="F">
                     <link rel="widget" href="/authorization/facebook">
-                    <l10n url="/texts/shared/header/authorization#facebook">Sign in with Facebook</l10n>
+                    <l10n url="/texts/header/authorization#facebook">Sign in with Facebook</l10n>
                 </button>
 			</li>
-			<li class="option">
-				<div class="popup-container top">
+            <li class="title-devider">
+                <span><l10n url="/texts/header/authorization#email"></l10n></span>
+            </li>
+			<li class="option member-login">
+				<div class="popup-container">
                     <link rel="widget" href="/popup">
                     <link rel="widget" href="/authorization/popup">
-					<button class="default login-fellow popup-trigger popup-control button" type="button"><l10n url="/texts/shared/header/authorization#login">Log in</l10n></button>
-					<div class="popup">
-						<form class="login form" action="">
-                            <link rel="widget" href="/authorization/form">
-							<p class="field-wrapper field">
-								<label>
-									<span class="name"><l10n url="/texts/shared/header/authorization#email">Email</l10n></span>
-									<span class="field-wrapper"><input class="data" type="email" pattern="^\s*.+@.+\..+\s*$" name="email" required="" autofocus=""></span>
-								</label>
-							</p>
-							<p class="field-wrapper field">
-								<label>
-									<span class="name"><l10n url="/texts/shared/header/authorization#pass">Password</l10n></span>
-									<span class="field-wrapper"><input class="data" type="password" name="password" required="required"></span>
-								</label>
-							</p>
-							<p class="button-wrapper">
-								<button class="approve button" type="submit"><l10n url="/texts/shared/header/authorization#login">Log in</l10n></button>
-							</p>
-						</form>
+                    <button class="default login-fellow popup-trigger popup-control button sign-in" type="button">
+                        <link rel="widget" href="/domevents/emitter" data-args="init, sign-in">
+                        <l10n url="/texts/header/authorization#login">Sign in with Email</l10n>
+                    </button>
+                    <div class="popup top">
+                        <link rel="widget" href="/authorization/form" data-args="sign-in" data-container="next">
+                        <form class="authorization form" action="" novalidate="">
+    <!--[if lte IE 8]>
+    <input type="submit" class="tiny"/>
+    <![endif]-->
+
+
+    <link rel="widget" href="/authorization/form/greeting">
+    <link rel="widget" href="/authorization/form/notify">
+    <link rel="widget" href="/domevents/trap" data-args="click">
+
+    <div class="entry">
+        <div class="inner-wrapper">
+            <p class="field sign-up line">
+                <label>
+                    <span class="label"><l10n url="/texts/common#name">Name</l10n></span>
+                    <span><input class="data" type="text" name="name" tabindex="1" required=""></span>
+                </label>
+            </p>
+
+            <p class="plea password line greeting">
+                <script type="text/template" id="authorization-greeting-template">
+                    <l10n url="/texts/profile/profile#hi">Hi</l10n>
+                    <strong class="name">{{name}}</strong><l10n url="/texts/profile/profile#already">, it seems that you already have an account on TripTogether.com.</l10n>
+                    <br />
+                    <l10n url="/texts/profile/profile#password">Please, enter your password.</l10n>
+                </script>
+            </p>
+
+            <div class="field sign-in sign-up password line popup-container-event">
+                <link rel="widget" href="/forms/inputs/mailcheck">
+
+                <label>
+                    <span class="label"><l10n url="/texts/common#email">Email</l10n></span>
+                    <span>
+                        <link rel="widget" href="/forms/inputs/connect" data-args="email" data-container="next">
+                        <input class="data" type="email" pattern=".+@.+\..+" name="email" tabindex="2" required="">
+                    </span>
+                </label>
+
+                <div class="hint-wrapper">
+                     <span class="hint popup-event top dark">
+                        <l10n url="/texts/helper/common#email">Maybe </l10n>
+                        <span href="/#" class="email pseudo-link"></span>
+                        <l10n url="/texts/helper/common#question">?</l10n>
+                    </span>
+                </div>
+            </div>
+
+            <div class="immobile">
+                <p class="field sign-in password line">
+                    <label>
+                        <span class="label"><l10n url="/texts/common#pass">Password</l10n></span>
+                        <span><input class="data" type="password" name="password" pattern=".{4}" required=""></span>
+                    </label>
+                </p>
+
+                <p class="field sign-up line">
+                    <label>
+                        <span class="label"><l10n url="/texts/common#pass">Password</l10n></span>
+                        <span><input class="data" type="password" name="password" pattern=".{4}" l10n:placeholder="/texts/header/authorization#blank" placeholder="leave blank and we’ll create one"></span>
+                    </label>
+                </p>
+            </div>
+
+            <div class="login-options">
+                <div class="button-wrapper sign-in-submit password-submit">
+                    <span class="prebutton">
+                        <link rel="widget" href="/domevents/emitter" data-args="state, sign-in">
+                        <span><l10n url="/texts/header/authorization#sign-in">Sign in</l10n></span>
+                    </span>
+                    <button class="approve button" value="sign-in" type="submit" disabled="disabled">
+                        <l10n url="/texts/header/authorization#sign-in">Sign in</l10n>
+                    </button>
+                </div>
+
+                <span class="separator"><l10n url="/texts/header/authorization#or">or</l10n>
+                     <link rel="widget" href="/suppresser" data-args="registration:disable, registration:enable">
+                </span>
+
+                <div class="button-wrapper sign-up-submit popup-container-hover">
+                    <link rel="widget" href="/suppresser" data-args="registration:disable, registration:enable">
+                    <span class="prebutton">
+                        <link rel="widget" href="/domevents/emitter" data-args="state, sign-up">
+                        <span><l10n url="/texts/header/authorization#sign-up">Create your account</l10n></span>
+                    </span>
+                    <button class="approve button" value="sign-up" type="submit" disabled="disabled">
+                        <l10n url="/texts/header/authorization#sign-up">Create your account</l10n>
+                    </button>
+                    <span class="popup-hover top dark centered">
+                        <l10n url="/texts/header/authorization#terms">
+        By creating account you agree with the&nbsp;<a href="/terms" tabindex="2">Terms&nbsp;and&nbsp;Conditions</a>
+        and&nbsp;<a href="/privacy-policy" tabindex="2">Privacy&nbsp;Policy</a>
+    </l10n>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="forgot">
+        <div class="inner-wrapper">
+            <p class="plea reminder line">
+                <l10n url="/texts/header/authorization#letter">
+        Enter your email address to receive instructions on how to create a new password.
+    </l10n>
+            </p>
+
+            <p class="field reminder line">
+                <label>
+                    <span class="label"><l10n url="/texts/common#email">Email</l10n></span>
+                    <span>
+                        <link rel="widget" href="/forms/inputs/connect" data-args="email" data-container="next">
+                        <input class="data" type="email" pattern=".+@.+\..+" name="email" tabindex="2" required="">
+                    </span>
+                </label>
+            </p>
+
+            <div class="login-options">
+                <div class="button-wrapper reminder-submit">
+                    <span class="prebutton">
+                        <link rel="widget" href="/domevents/emitter" data-args="state, reminder">
+                        <span><l10n url="/texts/header/authorization#reminder">Reset password</l10n></span>
+                    </span>
+                    <button class="approve button" value="reminder" type="submit" disabled="disabled">
+                        <l10n url="/texts/header/authorization#reminder">Reset password</l10n>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="notification">
+        <script type="text/template" id="authorization-notify-template">
+            <l10n url="/texts/header/authorization#notify">
+        An email with instructions on how<br/>
+        to create a new password has been<br/>
+        sent to
+    </l10n>{{email}}
+        </script>
+
+        <div class="inner-wrapper">
+            <p class="instruction notify line"></p>
+            <div class="button-wrapper check line">
+                <a class="button emblem mail yahoo" href="//mail.yahoo.com" target="_blank">
+                    <l10n url="/texts/mail/check#check">Check your</l10n>
+                    <l10n url="/texts/mail/check#yahoo">Yahoo account</l10n>
+                    <span class="hover-emblem"></span>
+                </a>
+                <a class="button emblem mail gmail" href="//gmail.com" target="_blank">
+                    <l10n url="/texts/mail/check#check">Check your</l10n>
+                    <l10n url="/texts/mail/check#gmail">Gmail account</l10n>
+                    <span class="hover-emblem"></span>
+                </a>
+                <a class="button emblem mail hotmail" href="//hotmail.com" target="_blank">
+                    <l10n url="/texts/mail/check#check">Check your</l10n>
+                    <l10n url="/texts/mail/check#hotmail">Hotmail account</l10n>
+                    <span class="hover-emblem"></span>
+                </a>
+                <a class="button emblem mail aol" href="//mail.aol.com" target="_blank">
+                    <l10n url="/texts/mail/check#check">Check your</l10n>
+                    <l10n url="/texts/mail/check#aol">Aol account</l10n>
+                    <span class="hover-emblem"></span>
+                </a>
+            </div>
+        </div>
+    </div>
+</form>
 					</div>
 				</div>
 			</li>
@@ -102,35 +353,111 @@
 	</section>
 	<section class="logout-container">
 		<ul class="options clearfix">
-			<li class="option">
-				<button class="apply-roles default hidden button" type="button" accesskey="A">
-                    <link rel="widget" href="/toggle">
+			<li class="apply-roles option">
+                <div class="popup-container hidden">
+                    <link rel="widget" href="/popup">
                     <link rel="widget" href="/roles">
-                    <link rel="widget" href="/roles/mem" data-args="roles">
-					<span class="admin-icon"></span>
-				</button>
+                    <link rel="widget" href="/roles/enabler">
+                    <link rel="widget" href="/domevents/trap" data-args="click">
+
+                    <button class="fixed apply default button" accesskey="A">
+                        <link rel="widget" href="/roles/all">
+                        <link rel="widget" href="/toggle">
+                        <span class="icon"></span>
+                    </button>
+                    <button class="check fixed button default popup-trigger popup-control"></button>
+                    <div class="popup top">
+                        <script type="text/template" id="role-list-item-template">
+                            <ul class="list-container list">
+                                {{#items}}
+                                <li>
+                                    <label class="list-item node-{{id}}">
+                                        <link rel="widget" href="/roles/list/items" data-args="{{id}}"/>
+                                        <input type="checkbox"/>
+                                        <link rel="l10n-static" custom="true" href="/dict/users/roles#{{id}}"/>
+                                    </label>
+                                </li>
+                                {{/items}}
+                                <li class="separator for-supervisor for-chat-operator for-developer for-demo for-marketing for-content-operator"></li>
+                                <li class="for-supervisor popup-trigger">
+                                    <button class="list-item">
+                                        <link rel="widget" href="/events/proxy" data-args="overlay, configuration" />
+                                        <link rel="l10n-static" custom="true" href="/texts/configuration/configuration#button"/>
+                                    </button>
+                                </li>
+                                <li class="for-chat-operator popup-trigger">
+                                    <button class="list-item">
+                                        <link rel="widget" href="/events/proxy" data-args="overlay, chat-history"/>
+                                        <link rel="l10n-static" href="/texts/forms/chat-history/select#header" />
+                                    </button>
+                                </li>
+                                <li class="for-developer popup-trigger">
+                                    <button class="list-item">
+                                        <link rel="widget" href="/events/proxy" data-args="overlay, localstorage"/>
+                                        <link rel="l10n-static" href="/texts/tools/tools#storage" />
+                                    </button>
+                                </li>
+                                <li class="for-content-operator popup-trigger">
+                                    <button class="list-item">
+                                        <link rel="widget" href="/events/proxy" data-args="overlay, localization" />
+                                        <link rel="l10n-static" href="/texts/tools/tools#localization" />
+                                    </button>
+                                </li>
+                                <li class="for-marketing">
+                                    <button class="list-item encoding popup-trigger">
+                                        <link rel="widget" href="/toggler/attrs" data-args="event.params.empty, event.params.full, disabled" />
+                                        <link rel="widget" href="/suppresser" data-args="event.params.encoded, event.params.decoded"/>
+                                        <link rel="widget" href="/events/proxy" data-args="command.params.encode" />
+                                        <link rel="l10n-static" href="/texts/tools/tools#params-encoding" />
+                                    </button>
+                                    <button class="list-item decoding popup-trigger hidden">
+                                        <link rel="widget" href="/toggler/attrs" data-args="event.params.empty, event.params.full, disabled" />
+                                        <link rel="widget" href="/suppresser" data-args="event.params.decoded, event.params.encoded"/>
+                                        <link rel="widget" href="/events/proxy" data-args="command.params.decode" />
+                                        <link rel="l10n-static" href="/texts/tools/tools#params-decoding" />
+                                    </button>
+                                </li>
+                                <li class="for-content-operator popup-trigger">
+                                    <button class="list-item">
+                                        <link rel="widget" href="/paidimages/emitter"/>
+                                        <link rel="l10n-static" href="/texts/paidimages/common#smiles" />
+                                    </button>
+                                </li>
+                                <li class="for-content-operator for-supervisor popup-trigger">
+                                    <button class="list-item">
+                                        <link rel="widget" href="/events/proxy" data-args="overlay, blacklist"/>
+                                        <link rel="l10n-static" href="/texts/tools/blacklist#blacklist" />
+                                    </button>
+                                </li>
+                            </ul>
+                        </script>
+                        <link rel="widget" href="/roles/list">
+                    </div>
+                </div>
 			</li>
 			<li class="connection option">
-                <div class="popup-container top">
+                <div class="popup-container contact">
                     <link rel="widget" href="/popup">
-                    <button class="default button popup-trigger popup-control" accesskey="C">
-                        <span class="new-messages hidden">
+                    <button class="fixed default button popup-trigger popup-control" accesskey="C">
+                        <span class="quantity-tip hidden">
                             <link rel="widget" href="/communication/messages/counter">
                         </span>
-                        <span class="text"></span>
+                        <span class="icon"></span>
                     </button>
-                    <div class="popup">
-	                    <div class="communication">
-    <link rel="widget" href="/chat/opener">
-	<script type="text/template" id="communication-messages-message-template">
+                    <div class="popup top">
+	                    <link rel="widget" href="/domevents/trap" data-args="click">
+<div class="communication">
+    <link rel="widget" href="/chat/opener" data-args=".chat-opener">
+    <link rel="widget" href="/popup">
+    <script type="text/template" id="communication-messages-message-template">
     <li id="message-{{message.id}}" class="chat-opener popup-trigger contact-container
-        {{#sender}}sender-{{sender.id}}{{#status}} online {{/status}}{{^status}} offline {{/status}}{{/sender}}"
+        {{#sender}}sender-{{sender.id}}{{#presence}} online {{/presence}}{{^presence}} offline {{/presence}}{{/sender}}"
         data-user-id="{{sender.id}}">
 
         <span class="contact clearfix">
             <span class="thumbnail">
                 {{#sender}}
-                    <img class="photo" src="{{#thumbnail}}{{thumbnail}}{{/thumbnail}}{{^thumbnail}}/i/account/photo.png{{/thumbnail}}" alt="{{name}}">
+                    <img class="photo" src="{{#thumbnail}}{{url}}{{options.contactThumbnail}}{{/thumbnail}}{{^thumbnail}}/i/account/photo.png{{/thumbnail}}" alt="{{name}}">
                 {{/sender}}
             </span>
             <span class="message left-tail balloon incoming hoverable">
@@ -149,10 +476,9 @@
             <span class="connection-status">
                 <i class="led"></i>
             </span>
-            <span class="close" data-id="{{message.id}}" data-sender="{{sender.id}}" title="Close">
-                <span class="wrapper">
-                    <span class="inner"><l10n url="/texts/shared/header/connection#close-message"></l10n></span>
-                </span>
+            <span class="close" data-message-id="{{message.id}}" data-sender="{{sender.id}}" l10n:title="/texts/header/connection#close" title="Close message">
+                <span class="cross">&times;</span>
+                <span class="inner"></span>
             </span>
         </span>
     </li>
@@ -160,53 +486,51 @@
 
 <section class="messages empty">
     <link rel="widget" href="/communication/messages">
-	<h3 class="title"><l10n url="/texts/shared/header/connection#messages-title">Messages</l10n></h3>
+	<h3 class="title"><l10n url="/texts/header/connection#messages-title">Messages</l10n></h3>
 
 	<div class="list-wrapper">
 		<ul class="list">
 		</ul>
 	</div>
 	<div class="show-all">
-		<span class="pseudo-link"><l10n url="/texts/shared/header/connection#show-all">Show All Messages</l10n></span>
-		<div class="quantity">5</div>
-
+		<span class="pseudo-link"><l10n url="/texts/header/connection#show-all">Show All Messages</l10n></span>
 	</div>
 </section>
 	<script type="text/template" id="contact-list-item-template">
 	<li class="contact-container" id="contact-{{id}}">
 		<span class="contact chat-opener clearfix {{#status}}online{{/status}}{{^status}}offline{{/status}}"
 		   data-user-id="{{id}}">
-            <link rel="widget" href="/domevents/emitter" data-args="close"/>
             <span class="thumbnail">
-                <img class="photo" src="{{#thumbnail}}{{thumbnail}}{{/thumbnail}}{{^thumbnail}}/i/account/photo.png{{/thumbnail}}" alt="{{name}}" />
+                <img class="photo" src="{{#thumbnail}}{{url}}{{options.contactThumbnail}}{{/thumbnail}}{{^thumbnail}}/i/account/photo.png{{/thumbnail}}" alt="{{name}}" />
             </span>
             <span class="user-short-data">
+                <link rel="widget" href="/domevents/emitter" data-args="close"/>
                 <span class="name reduce-value">{{name}}</span>
-                <span class="region reduce-value">{{#location}}{{city}} {{country}}{{/location}}</span>
+                <span class="region reduce-value">{{#location}}{{city}}{{#country}}, {{country}}{{/country}}{{/location}}</span>
             </span>
 			<span class="connection-status ">
                 <i class="led"></i>
 			</span>
-            <span class="delete" title="Remove" data-id="{{id}}">
-                <span class="wrapper">
-                    <span class="inner"><l10n url="/texts/shared/header/connection#delete">delete</l10n></span>
-                </span>
+            <span class="delete" l10n:title="/texts/header/connection#delete" title="delete" data-user-id="{{id}}">
+                <span class="cross">&times;</span>
+                <span class="inner"></span>
             </span>
 		</span>
 	</li>
 </script>
 
-<section class="contacts loading empty">
+<section class="contacts loading empty content">
 <link rel="widget" href="/reduce" data-args="words">
 <link rel="widget" href="/communication/contacts">
-<h3 class="title"><l10n url="/texts/shared/header/connection#contacts-title">Contacts</l10n></h3>
-<p class="no-contacts"><l10n url="/texts/shared/header/connection#no-contacts">You have no contacts in your Contacts List.
+<h3 class="title"><l10n url="/texts/header/connection#contacts-title">Contacts</l10n></h3>
+<p class="no-contacts"><l10n url="/texts/header/connection#no-contacts">You have no contacts in your Contacts List.
         Contacts will be added to your Contacts List once
         you Live Chat with TripTogether travelers.</l10n></p>
 <form class="form">
+    <link rel="widget" href="/domevents/trap" data-args="click">
 	<link rel="widget" href="/forms/terminator">
 	<div class="field field-wrapper">
-		<input class="data reduce-input" name="search-for-people" l10n:placeholder="/texts/shared/header/connection#search" placeholder="Search for people" maxlength="64" type="text" tabindex="1" autofocus="autofocus">
+		<input class="data reduce-input" name="search-for-people" l10n:placeholder="/texts/header/connection#search" placeholder="Search for people" maxlength="64" type="text" tabindex="1">
 	</div>
 </form>
 
@@ -218,17 +542,17 @@
 </div>
                     </div>
                 </div>
-                <div class="popup-container invite top">
+                <div class="popup-container invite">
                     <link rel="widget" href="/popup">
                     <link rel="widget" href="/communication/invites">
                     <link rel="widget" href="/communication/invites/deactivator">
-                    <div class="popup invites-wrapper">
+                    <div class="popup invites-wrapper top">
                         <script type="text/mustache" id="invite-template">
     <div class="invite">
 	    <div class="close-overlay"></div>
         <a href="#" class="thumbnail">
             {{#sender}}
-            <img class="photo" src="{{#thumbnail}}{{thumbnail}}{{/thumbnail}}{{^thumbnail}}/i/account/photo.png{{/thumbnail}}" alt="{{name}}">
+            <img class="photo" src="{{#thumbnail}}{{url}}{{options.searchItem}}{{/thumbnail}}{{^thumbnail}}/i/account/photo.png{{/thumbnail}}" alt="{{name}}">
             {{/sender}}
             <span class="info">
 
@@ -239,7 +563,7 @@
 
                 <span class="message">{{{message.text}}}</span>
 	            {{#sender}}
-				<button class="button approve answer"><l10n url="/texts/shared/header/invite#answer">Answer</l10n> {{name}}</button>
+				<button class="button approve answer"><l10n url="/texts/header/invite#answer">Answer</l10n> {{name}}</button>
 	            {{/sender}}
             </span>
 
@@ -250,32 +574,42 @@
                 </div>
 			</li>
 			<li class="account option">
-				<div class="popup-container top">
+				<div class="popup-container">
                     <link rel="widget" href="/popup">
-					<span class="default popup-trigger popup-control links button">
+					<span class="default popup-trigger popup-control links button fixed">
+                        <script type="text/template" id="avatar-template">
+                            <img class="avatar widget" src="{{#thumbnail}}{{url}}{{options.avatar}}{{/thumbnail}}{{^thumbnail}}/i/account/options/fake-avatar.png{{/thumbnail}}" />
+                        </script>
                         <span class="avatar-container">
-                            <img class="avatar widget" src="/i/account/options/fake-avatar.png">
-                            <link rel="widget" href="/authorization/avatar" data-container="prev">
+                            <link rel="widget" href="/authorization/avatar">
                         </span>
                     </span>
-					<div class="popup">
-						<ul class="links-container">
+					<div class="popup top">
+						<ul class="list-container">
 							<li>
-								<span class="link popup-trigger" accesskey="S">
-                                    <link rel="widget" href="/events/emitter" data-args="overlay, purchase">
-                                    <l10n url="/texts/shared/header/menu#purchase">Upgrade</l10n>
+								<span class="list-item link popup-trigger" accesskey="S">
+                                    <link rel="widget" href="/events/proxy" data-args="overlay, purchase">
+                                    <l10n url="/texts/header/menu#purchase">Upgrade</l10n>
                                 </span>
 							</li>
 							<li>
-								<a class="link popup-trigger" accesskey="M">
-                                    <link rel="widget" href="/authorization/profile-link">
-                                    <l10n url="/texts/shared/header/menu#profile">Profile</l10n>
+                                <a class="list-item link popup-trigger" accesskey="T">
+                                    <link rel="widget" href="/authorization/profile-link" data-args="/travellers/{{id}}/#emit=tabs:profile%2Ctrips">
+                                    <link rel="widget" href="/events/watcher" data-args="click, cmd:overlay:close">
+                                    <l10n url="/texts/header/menu#trips">Trips</l10n>
+                                </a>
+                            </li>
+							<li>
+								<a class="list-item link popup-trigger" accesskey="M">
+                                    <link rel="widget" href="/authorization/profile-link" data-args="/travellers/{{id}}/#emit=tabs:profile%2Cprofile">
+                                    <link rel="widget" href="/events/watcher" data-args="click, cmd:overlay:close">
+                                    <l10n url="/texts/header/menu#profile">Profile</l10n>
                                 </a>
 							</li>
 							<li>
-								<span class="logout link isolated popup-trigger" accesskey="X">
+								<span class="logout list-item link isolated popup-trigger" accesskey="X">
                                     <link rel="widget" href="/authorization/logout">
-                                    <l10n url="/texts/shared/header/authorization#logout">Log out</l10n>
+                                    <l10n url="/texts/header/authorization#logout">Sign out</l10n>
                                 </span>
 							</li>
 						</ul>
@@ -289,12 +623,30 @@
 	</div>
 </header>
             <section class="page">
-		        <section class="social loading">
+                <section class="slidering-buttons right mobile-stores loading">
+                    <link rel="widget" href="/social/likes">
+                    <link rel="widget" href="/hover" data-args="2000">
+                    <div class="wrapper">
+    <link rel="widget" href="/hover" data-args="2000">
+    <a class="button mobile-store-button appstore" href="https://itunes.apple.com/us/app/triptogether/id705795934?l=ru&amp;ls=1&amp;mt=8" target="_blank">
+        <link rel="widget" href="/events/watcher" data-args="click, appstore:button">
+        Appstore
+    </a>
+</div>
+<div class="wrapper">
+    <link rel="widget" href="/hover" data-args="2000">
+    <a class="button mobile-store-button google-play" href="https://play.google.com/store/apps/details?id=com.triptogether.android" target="_blank">
+        <link rel="widget" href="/events/watcher" data-args="click, google-play:button">
+        Google Play
+    </a>
+</div>
+                </section>
+		        <section class="slidering-buttons right social-likes loading">
                     <link rel="widget" href="/social/likes">
 			        <link rel="widget" href="/hover" data-args="2000">
 		            <div class="wrapper">
 	<link rel="widget" href="/hover" data-args="2000">
-	<div class="logo button default facebook"></div>
+	<div class="button emblem facebook"></div>
 	<div class="social-button fb">
         <div class="fb-like" data-href="https://www.facebook.com/triptogether" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
     </div>
@@ -302,31 +654,31 @@
 
 <div class="wrapper">
     <link rel="widget" href="/hover" data-args="2000">
-	<div class="logo button default twitter"></div>
+	<div class="button emblem twitter"></div>
 	<div class="social-button tt">
-		<a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-count="none"></a>
-	</div>
+        <a href="https://twitter.com/TripTogether" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a>
+    </div>
 </div>
 
 <div class="wrapper">
     <link rel="widget" href="/hover" data-args="2000">
-	<div class="logo button default google"></div>
+	<div class="button emblem google"></div>
 	<div class="social-button gplus">
-		<g:plusone size="tall" annotation="none" recommendations="false" href="https://www.triptogether.com/"></g:plusone>
+		<g:plusone size="medium" recommendations="false" align="left" href="https://www.triptogether.com/" id="google-plusone"></g:plusone>
 	</div>
 </div>
 			    </section>
                 <article class="content-container limiting-wrapper">
-	<h1><l10n url="/texts/pages/privacy/privacy#header">Privacy Policy</l10n></h1>
+	<h1><l10n url="/texts/privacy/privacy#header">Privacy Policy</l10n></h1>
 
 	<div class="static-page">
-		<l10n url="/texts/pages/privacy/privacy#entry">
+		<l10n url="/texts/privacy/privacy#entry">
         <p>Depending on&nbsp;what you do&nbsp;when you visit any Web site, you are providing information about your visit to&nbsp;the site’s owners. This includes TripTogether.com. We&nbsp;value privacy and think you do&nbsp;too, so&nbsp;we&nbsp;want you to&nbsp;have the information you need to&nbsp;make your own decisions about your personal privacy. When you visit or&nbsp;supply information to&nbsp;any Web site, we&nbsp;think it’s a&nbsp;good idea for you to&nbsp;first understand what that site’s privacy policies are. If&nbsp;the site doesn’t tell you, don’t hesitate to&nbsp;ask.</p>
         <p>The bottom line at&nbsp;www.TripTogether.com is&nbsp;that we&nbsp;only use the information that we&nbsp;get from your visit for internal tracking purposes, to&nbsp;make TripTogether.com as&nbsp;useful and interesting to&nbsp;you as&nbsp;we&nbsp;can, and to&nbsp;respond to&nbsp;your requests for information or&nbsp;other services. Except for as&nbsp;specifically noted, we&nbsp;do&nbsp;not use your personal information for any other purpose; we&nbsp;never sell it&nbsp;to&nbsp;any third party; and we&nbsp;never share it&nbsp;with any third party.</p>
         <p>Read more about how your personal information is&nbsp;managed:</p>
     </l10n>
 		<dl class="description-contents">
-			<l10n url="/texts/pages/privacy/privacy#description">
+			<l10n url="/texts/privacy/privacy#description">
         <dt><a href="#tc-notice">Notice</a></dt>
         <dd>What personal information we&nbsp;collect and how we&nbsp;use your information. Our policy regarding information sharing.</dd>
         <dt><a href="#tc-choice">Choice</a></dt>
@@ -343,8 +695,8 @@
      </l10n>
 		</dl>
 		<section>
-			<h2 id="tc-notice"><l10n url="/texts/pages/privacy/notice#title">Notice</l10n></h2>
-			<l10n url="/texts/pages/privacy/notice#notice-body">
+			<h2 id="tc-notice"><l10n url="/texts/privacy/notice#title">Notice</l10n></h2>
+			<l10n url="/texts/privacy/notice#notice-body">
             <dl>
 				<dt>
 					What personal information we collect:
@@ -399,8 +751,8 @@
 			</dl>    </l10n>
 		</section>
 		<section>
-			<h2 id="tc-choice"><l10n url="/texts/pages/privacy/choise#title">Choice</l10n></h2>
-			<l10n url="/texts/pages/privacy/choise#choise-body">
+			<h2 id="tc-choice"><l10n url="/texts/privacy/choise#title">Choice</l10n></h2>
+			<l10n url="/texts/privacy/choise#choise-body">
             <dl>
 				<dt>Choice/Opt-Out</dt>
 				<dd>
@@ -411,8 +763,8 @@
     </l10n>
 		</section>
 		<section>
-			<h2 id="tc-access"><l10n url="/texts/pages/privacy/acccess#title"></l10n></h2>
-			<l10n url="/texts/pages/privacy/access#access-body">
+			<h2 id="tc-access"><l10n url="/texts/privacy/acccess#title"></l10n></h2>
+			<l10n url="/texts/privacy/access#access-body">
             <dl>
 			    <dt>Updating Your Information</dt>
 				<dd>
@@ -430,8 +782,8 @@
     </l10n>
 		</section>
 		<section>
-			<h2 id="tc-security"><l10n url="/texts/pages/privacy/security#title">Security</l10n></h2>
-			<l10n url="/texts/pages/privacy/security#security-body">
+			<h2 id="tc-security"><l10n url="/texts/privacy/security#title">Security</l10n></h2>
+			<l10n url="/texts/privacy/security#security-body">
              <dl>
 				<dt>Security</dt>
 				<dd>
@@ -442,8 +794,8 @@
     </l10n>
 		</section>
 		<section class="support">
-			<h2 id="tc-service"><l10n url="/texts/pages/privacy/support#title">Customer Service and Recourse</l10n></h2>
-			<l10n url="/texts/pages/privacy/support#support-body">
+			<h2 id="tc-service"><l10n url="/texts/privacy/support#title">Customer Service and Recourse</l10n></h2>
+			<l10n url="/texts/privacy/support#support-body">
             <dl>
 				<dt>Contacting the Website</dt>
 				<dd>
@@ -474,16 +826,79 @@
                 <div class="hotspot-wrapper">
                     <div class="hotspot"></div>
                 </div>
+                <div class="nonblocking-notification">
+    <link rel="widget" href="/notifications/nonblocking">
+
+    <div class="content mine email-confirmation">
+        <link rel="service" href="/events/timeout" data-args="event.notifications.email.unconfirmed, 3000, command.notifications.nonblocking.show, event.notifications.email.confirmation.sent, email-confirmation, error">
+        <link rel="widget" href="/events/emitter" data-args="event.notifications.email.confirmation.sent, command.notifications.nonblocking.show, email-confirmation-sent, success">
+        <div class="message">
+            <form class="form">
+                <link rel="widget" href="/profile/identity">
+
+                <span><l10n url="/texts/doi#confirmation">To complete your registration, please click on the confirmation link we have sent to</l10n></span>
+
+                <div class="email phrase">
+    <div class="editable">
+        <link rel="widget" href="/profile/inputs">
+        <div class="editor">
+            <p class="email field field-wrapper">
+                <link rel="widget" href="/events/binder" data-container="next" data-args="email, authorized" defer="bus://authorized">
+                <link rel="widget" href="/events/binder" data-container="next" data-args="email, identity:changed" defer="bus://authorized">
+                <link rel="widget" href="/forms/inputs/connect" data-args="email" data-container="next">
+                <input class="data" type="email" pattern=".+@.+\..+" name="email" tabindex="1" required="" placeholder="Your email">
+            </p>
+
+            <p class="button-wrapper">
+                <button class="default button" type="submit"><l10n url="/texts/common#save">Save</l10n></button>
+            </p>
+        </div>
+
+        <link rel="widget" href="/events/binder" data-container="next" data-args="email, authorized" defer="bus://authorized">
+        <link rel="widget" href="/events/binder" data-container="next" data-args="email, identity:changed" defer="bus://authorized">
+        <span class="text phrase-email"></span>
+        <span class="hint"></span>
+    </div>
+</div>
+
+                <span class="pseudo-link">
+                    <link rel="widget" href="/events/proxy" data-args="command.notifications.email.confirmation.send">
+                    <l10n url="/texts/doi#resend">Resend confirmation</l10n>
+                </span>
+            </form>
+        </div>
+    </div>
+
+    <div class="content email-confirmation-sent">
+        <div class="message">
+            <span><l10n url="/texts/doi#sent-to">The confirmation message has been resent to</l10n></span>
+            <link rel="widget" href="/events/binder" data-container="next" data-args="email, authorized" defer="bus://authorized">
+            <link rel="widget" href="/events/binder" data-container="next" data-args="email, identity:changed" defer="bus://authorized">
+            <strong></strong>
+        </div>
+    </div>
+
+    <div class="close" l10n:title="/texts/notification#close" title="Close">
+        <link rel="widget" href="/events/proxy" data-args="command.notifications.nonblocking.hide">
+
+        <div class="cross">×</div>
+        <div class="inner"></div>
+    </div>
+</div>
             </section>
             <footer>
 	<div class="limiting-wrapper clearfix">
 		<div class="appendix clearfix">
-			<p class="copy"><img src="/i/copyright/copyright-2013.png?2" alt=""></p>
-			<ul class="menu">
-				<li><a href="/terms/"><l10n url="/texts/shared/footer/menu#terms">Terms and conditions</l10n></a></li>
-				<li><a href="/privacy-policy/"><l10n url="/texts/shared/footer/menu#privacy">Privacy policy</l10n></a></li>
-				<li><a href="mailto:support@TripTogether.com"><l10n url="/texts/shared/footer/menu#contacts">Contact us</l10n></a></li>
-				<li><a href="/about-us/"><l10n url="/texts/shared/footer/menu#about">About us</l10n></a></li>
+            <p class="copy">
+                <link rel="l10n-image" href="/texts/footer/copyright#copyright" data-width="424" data-args="Arial, 11, #ffffff, transparent">
+            </p>
+            <ul class="menu">
+				<li><a href="/stories/"><l10n url="/texts/footer/menu#stories">Stories</l10n></a></li>
+				<li><a href="/faq/"><l10n url="/texts/footer/menu#faq">FAQ</l10n></a></li>
+				<li><a href="/terms/"><l10n url="/texts/footer/menu#terms">Terms and conditions</l10n></a></li>
+				<li><a href="/privacy-policy/"><l10n url="/texts/footer/menu#privacy">Privacy policy</l10n></a></li>
+				<li><a href="mailto:support@triptogether.com"><l10n url="/texts/footer/menu#contacts">Contact us</l10n></a></li>
+				<li><a href="/about-us/"><l10n url="/texts/footer/menu#about">About us</l10n></a></li>
 			</ul>
 		</div>
 	</div>
@@ -493,82 +908,71 @@
 		<div class="inner">
 
 			<div class="frame">
-                <link rel="widget" href="/domevents/trap" data-args="click">
-				<div class="close-overlay icon" l10n:title="/texts/shared/overlay#close" title="Close">
+                <div class="close-overlay icon" l10n:title="/texts/overlay#close" title="Close">
                     <link rel="widget" href="/domevents/emitter" data-args="close">
                 </div>
 
 				<div class="purchase content">
-					<section class="purchase-form">
+					<link rel="widget" href="/purchase/form" data-args="paypal-payment" defer="dom://activated">
+<link rel="widget" href="/purchase/form" data-args="card-payment, focused" defer="dom://activated">
+<link rel="widget" href="/domevents/watcher" data-args="event.purchase.completed, close" defer="dom://activated">
+<section class="purchase-form">
+    <link rel="widget" href="/purchase/packages" defer="bus://event_overlay_purchase_opened">
     <form class="form" id="purchase-form">
-        <link rel="widget" href="/purchase/form">
         <section class="info">
-            <h1><l10n url="/texts/shared/forms/purchase/purchase#header">Become a desired Travel Mate</l10n></h1>
+            <h1><l10n url="/texts/forms/purchase/purchase#header">Become a desired Travel Mate</l10n></h1>
 				<div class="description">
-                   <l10n url="/texts/shared/forms/purchase/purchase#desc">
+                   <l10n url="/texts/forms/purchase/purchase#desc">
          And you will never miss the trip of&nbsp;your dream!<br>
          Our 1 credit is&nbsp;for 1 offline message or&nbsp;1 minute in&nbsp;Live Chat.
     </l10n>
 				</div>
         </section>
 
-        <section class="packages">
-            <link rel="widget" href="/purchase/packages">
-            <ol>
-                <li class="package">
+        <section class="packages loading">
+            <div class="spinner"></div>
+            <script type="text/template" id="packages-list-template">
+                <ol class="field card-payment paypal-payment" data-name="package">
+                {{#packages}}
+                <li class="package creditpack{{amount}}">
                     <label>
-                        <input name="package" value="20" type="radio" required="required" tabindex="1">
+                        <input name="package" value="{{amount}}" type="radio"  required="required" tabindex="1"/>
+                        <input name="price" value="{{price}}" type="hidden"/>
 
-						<span class="wrapper">
-							<span class="for"><l10n url="/texts/shared/forms/purchase/purchase#novice">For novice Travel Mates</l10n></span>
-							<span class="quantity">
-								<l10n url="/texts/shared/forms/purchase/purchase#novice-credits">20 Credits</l10n>
-								<span class="price"><l10n url="/texts/shared/forms/purchase/purchase#novice-price"> ≈ 80¢ per Credit</l10n></span>
-							</span>
-						</span>
+                        <span class="wrapper">
+                            <span class="for"><link rel="l10n-static" href="/texts/forms/purchase/purchase#for{{amount}}" /></span>
+                            <span class="quantity">
+                            <link rel="l10n-static" href="/texts/forms/purchase/purchase#quantity{{amount}}" />
+                                <span class="price"><link rel="l10n-static" href="/texts/forms/purchase/purchase#price-{{amount}}" /></span>
+                            </span>
+                        </span>
                     </label>
                 </li>
-                <li class="package active">
-                    <label>
-                        <input name="package" value="160" type="radio" checked="checked" required="required" tabindex="2">
-
-						<span class="wrapper">
-							<span class="for"><l10n url="/texts/shared/forms/purchase/purchase#experienced">For experienced Travel Mates</l10n></span>
-							<span class="quantity"><l10n url="/texts/shared/forms/purchase/purchase#exp-credits">160 Credits</l10n>
-								<span class="price"><l10n url="/texts/shared/forms/purchase/purchase#exp-price"> ≈ 60¢ per Credit</l10n></span>
-							</span>
-						</span>
-                    </label>
-                </li>
-                <li class="package">
-                    <label>
-                        <input name="package" value="1000" type="radio" required="required" tabindex="3">
-						<span class="wrapper">
-							<span class="for"><l10n url="/texts/shared/forms/purchase/purchase#true">For true Travel Mates</l10n></span>
-							<span class="quantity"><l10n url="/texts/shared/forms/purchase/purchase#true-credits">1000 Credits</l10n>
-								<span class="price"><l10n url="/texts/shared/forms/purchase/purchase#true-price"> ≈ 40¢ per Credit</l10n></span>
-							</span>
-						</span>
-                    </label>
-                </li>
-            </ol>
-            <div class="per-mont-wrapper field">
-                <label>
-	                <input name="per-month" value="true" type="checkbox" checked="checked" tabindex="4">
-	                <span class="description"><l10n url="/texts/shared/forms/purchase/purchase#notify"> + $5 per month for notification about new members</l10n></span>
-                </label>
-            </div>
+                {{/packages}}
+                </ol>
+            </script>
         </section>
 
+        <div class="per-mont-wrapper">
+            <label class="invisible">
+                <link rel="widget" href="/purchase/fivedollars" defer="bus://event_overlay_purchase_opened">
+                <input name="per-month" value="true" type="checkbox" checked="checked" tabindex="2">
+                <span class="description"><l10n url="/texts/forms/purchase/purchase#notify"> + <span class="euro">€</span><span class="usd">$</span>5 per month for notification about new members</l10n></span>
+            </label>
+        </div>
+
         <section class="payment-details">
+            <link rel="widget" href="/purchase/detector" defer="bus://event_overlay_purchase_opened">
             <div class="clearfix">
-                <h2><l10n url="/texts/shared/forms/purchase/purchase#billing-title">Enter your billing information</l10n></h2>
+                <h2><l10n url="/texts/forms/purchase/purchase#billing-title">Enter your billing information</l10n></h2>
                 <div class="credit-card">
 
-                    <div class="card-number field" data-name="number" data-validator="ui.forms.fieldset.list">
-                        <link rel="widget" href="/forms/focus-iterator">
-                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#number">Card number</l10n></div>
-                        <div class="field field-wrapper"><input class="data card-number-part" type="text" maxlength="4" pattern="([0-9]){4,4}" tabindex="5" required="required" autofocus="autofocus"></div>
+                    <div class="card-number field card-payment card-values" data-name="number" data-validator="ui.forms.fieldset.list">
+                        <link rel="widget" href="/forms/inputs/focus-iterator">
+                        <div class="field-group-name"><l10n url="/texts/forms/purchase/purchase#number">Card number</l10n></div>
+                        <div class="field field-wrapper indicator-payment-system">
+                            <input class="data card-number-part" type="text" maxlength="4" pattern="([0-9]){4,4}" tabindex="5" required="required">
+                        </div>
                         <div class="field field-wrapper"><input class="data card-number-part" type="text" maxlength="4" pattern="([0-9]){4,4}" tabindex="6" required="required"></div>
                         <div class="field field-wrapper"><input class="data card-number-part" type="text" maxlength="4" pattern="([0-9]){4,4}" tabindex="7" required="required"></div>
                         <div class="field field-wrapper"><input class="data card-number-part" type="text" maxlength="4" pattern="([0-9]){4,4}" tabindex="8" required="required"></div>
@@ -576,12 +980,12 @@
                     </div>
 
 
-                    <div class="cart-date field" data-name="expiration" data-validator="ui.forms.fieldset.expires">
-                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#valid">Valid THRU</l10n></div>
+                    <div class="cart-date field card-payment" data-name="expiration" data-validator="ui.forms.fieldset.expires">
+                        <div class="field-group-name"><l10n url="/texts/forms/purchase/purchase#valid">Valid THRU</l10n></div>
 
 	                    <div class="month-wrapper">
-                            <div class="name"><l10n url="/texts/shared/forms/purchase/purchase#month">Month</l10n></div>
-                            <div class="field field-wrapper">
+                            <div class="name"><l10n url="/texts/forms/purchase/purchase#month">Month</l10n></div>
+                            <div class="field field-wrapper card-payment">
 	                            <select class="data" name="month" required="required" tabindex="9">
 		                            <option value=""></option>
 		                            <option value="1">01</option>
@@ -601,9 +1005,9 @@
                         </div>
 
                         <div class="year-wrapper">
-                            <div class="name"><l10n url="/texts/shared/forms/purchase/purchase#year">Year</l10n></div>
+                            <div class="name"><l10n url="/texts/forms/purchase/purchase#year">Year</l10n></div>
 
-                            <div class="field field-wrapper">
+                            <div class="field field-wrapper card-payment">
 	                            <select class="data" name="year" required="required" tabindex="10">
 		                            <option value=""></option>
 		                            <option value="2013">13</option>
@@ -622,66 +1026,66 @@
                         </div>
                     </div>
 
-
-                    <div class="card-cvv">
-                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#cvv">CVV code</l10n></div>
-	                    <div class="field field-wrapper">
-		                    <input class="data" name="verification" type="text" maxlength="3" pattern="([0-9]){3,3}" tabindex="12" required="required">
-	                    </div>
-
-                    </div>
-
-
                     <div class="card-holder">
-                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#cardholder">
+                        <div class="field-group-name"><l10n url="/texts/forms/purchase/purchase#cardholder">
         Cardholder's name<span> — as it appears on the card</span>
     </l10n></div>
-	                    <div class="field field-wrapper">
-		                    <input class="data" name="cardholder" maxlength="64" type="text" required="required" tabindex="11">
-	                    </div>
+                        <div class="field field-wrapper card-payment">
+                            <input class="data" name="cardholder" maxlength="64" type="text" required="required" tabindex="11">
+                        </div>
                     </div>
+
+                    <div class="card-cvv ">
+                        <div class="field-group-name"><l10n url="/texts/forms/purchase/purchase#cvv">CVV code</l10n></div>
+	                    <div class="field field-wrapper card-payment card-values">
+		                    <input class="data card-cvv-input" name="verification" type="text" maxlength="3" pattern="^([0-9]){3,3}$" tabindex="12" required="required">
+	                    </div>
+
+                    </div>
+
+
                 </div>
 
                 <div class="address field">
 
-                    <div class="city-country field autocomplete" data-name="city-country" data-validator="ui.forms.fieldset.list">
-                        <link rel="widget" href="/forms/autocomplete/base" data-args="5, 3">
-                        <link rel="widget" href="/forms/autocomplete/locations" data-args="5">
-                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#geo">City, country, state</l10n></div>
-                        <div class="field field-wrapper"><input class="data" name="text" type="text" tabindex="13" required="required"></div>
-                        <div class="field"><input class="city" type="hidden"></div>
-                        <div class="field"><input class="country" type="hidden"></div>
-                        <div class="field"><input class="state" type="hidden"></div>
+                    <div class="city-country field autocomplete card-payment" data-name="city-country" data-validator="ui.forms.fieldset.list">
+                        <link rel="widget" href="/forms/inputs/autocomplete/base" data-args="5, 3" defer="bus://event_overlay_purchase_opened">
+                        <link rel="widget" href="/forms/inputs/autocomplete/locations" data-args="5" defer="bus://event_overlay_purchase_opened">
+                        <div class="field-group-name"><l10n url="/texts/forms/purchase/purchase#geo">City, country, state</l10n></div>
+                        <div class="field field-wrapper card-payment"><input class="data" name="text" type="text" tabindex="13" required="required"></div>
+                        <div class="field card-payment"><input class="city" type="hidden"></div>
+                        <div class="field card-payment"><input class="country" type="hidden"></div>
+                        <div class="field card-payment"><input class="state" type="hidden"></div>
                     </div>
 
-                    <div class="street field">
-                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#street">Street address</l10n></div>
-	                    <div class="field field-wrapper">
+                    <div class="street field card-payment">
+                        <div class="field-group-name"><l10n url="/texts/forms/purchase/purchase#street">Street address</l10n></div>
+	                    <div class="field field-wrapper card-payment">
 		                    <input class="data" name="street" type="text" required="required" tabindex="15">
 	                    </div>
                     </div>
 
                     <div class="field zip-code">
-                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#zip">Zip code</l10n></div>
-	                    <div class="field field-wrapper">
+                        <div class="field-group-name"><l10n url="/texts/forms/purchase/purchase#zip">Zip code</l10n></div>
+	                    <div class="field field-wrapper card-payment">
                             <input class="data" name="zip" type="text" maxlength="10" required="required" tabindex="16">
 	                    </div>
                     </div>
 
                     <div class="contact-phone field" data-name="contact-phone" data-validator="ui.forms.fieldset.list">
-                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#phone">Your contact phone</l10n></div>
-                        <div class="field tel-code">
+                        <div class="field-group-name"><l10n url="/texts/forms/purchase/purchase#phone">Your contact phone</l10n></div>
+                        <div class="field tel-code card-payment">
 	                        <div class="field field-wrapper">
                                 
                                 <input class="data" name="tel-code" type="text" required="required" tabindex="17">
-                                <div class="name"><l10n url="/texts/shared/forms/purchase/purchase#phone-code">Code</l10n></div>
+                                <div class="name"><l10n url="/texts/forms/purchase/purchase#phone-code">Code</l10n></div>
                             </div>
                         </div>
 
                         <div class="field tel-num">
-	                        <div class="field field-wrapper">
+	                        <div class="field field-wrapper card-payment">
                                 <input class="data" name="tel-num" type="text" required="required" tabindex="18">
-                                <div class="name"><l10n url="/texts/shared/forms/purchase/purchase#phone-number">Phone number</l10n></div>
+                                <div class="name"><l10n url="/texts/forms/purchase/purchase#phone-number">Phone number</l10n></div>
                             </div>
                         </div>
                     </div>
@@ -689,119 +1093,325 @@
                 </div>
             </div>
             <div class="description">
-                <link rel="widget" href="/purchase/description">
-                <script type="text/mustache" id="description-package-template"><l10n url="/texts/shared/forms/purchase/purchase#selected">You have selected {{credits}} Credits for {{price}}</l10n></script>
-                <p class="package">You have selected 160 Credits for $96.00</p>
-                <p><l10n url="/texts/shared/forms/purchase/purchase#account-charged">Your account will automatically be charged when the balance will be less than 10 credits.</l10n></p>
+                <link rel="widget" href="/purchase/description" defer="bus://event_overlay_purchase_opened">
+                <script type="text/mustache" id="description-package-template"><l10n url="/templates/forms/purchase#selected">You have selected {{amount}} Credits for <span class="euro">&euro;</span><span class="usd">$</span>{{price}}</l10n></script>
+                <p class="package"></p>
+                <p class="hidden">
+                    <link rel="widget" href="/suppresser" data-args="settings:autocharge:disabled, settings:autocharge:enabled">
+                    <l10n url="/texts/forms/purchase/purchase#account-charged">Your account will automatically be charged when the balance will be less than 10 credits.</l10n>
+                </p>
             </div>
             <p class="button-wrapper">
-                <button class="button approve big" disabled="disabled" tabindex="19"><l10n url="/texts/shared/forms/purchase/purchase#journey">Begin your journey</l10n></button>
+                <button type="submit" class="button approve big" tabindex="19" disabled="disabled" value="card-payment"><l10n url="/texts/forms/purchase/purchase#journey">Begin your journey</l10n></button>
             </p>
+
+            <section class="paypal">
+                <button class="default button paypal" value="paypal-payment" type="submit" tabindex="30" disabled="disabled">
+                    <span class="checkout"><l10n url="/texts/forms/purchase/purchase#paypal">or check<br>out with</l10n></span>
+                    <span class="pay">Pay</span><span class="pal">Pal</span>
+                </button>
+                <div class="field hidden paypal-payment"><input type="hidden" name="return-url" data-value="{{origin}}#emit=command.overlay.history.restore,1&amp;emit=command.paypal.receipt.get,"></div>
+                <div class="field hidden paypal-payment"><input type="hidden" name="cancel-url" data-value="{{origin}}#emit=command.overlay.history.restore&amp;emit=command.purchase.products.select,{{product}}"></div>
+            </section>
+
         </section>
+
+
     </form>
+
 </section>
 
 				</div>
 
-                <div class="chat content" data-widget="chat.activator">
+                <div class="chat content">
                     <link rel="widget" href="/chat/activator">
                     <div class="chat-wrapper clearfix">
-	<div class="thumbnail profile-card opponent loading">
-		<link rel="widget" href="/chat/attendee">
-		<div class="profile-info"></div>
+    <link rel="widget" href="/chat/billing/freezer">
+    <div class="thumbnail profile-card opponent loading">
+        <link rel="widget" href="/chat/attendee/presence">
+		<div><link rel="widget" href="/chat/attendee/thumbnail"></div>
+        <div class="profile-info loading blank">
+            <link rel="widget" href="/chat/attendee/profile">
+            <link rel="widget" href="/chat/attendee/activator">
+        </div>
 	</div>
 	<div class="chat">
-		<link rel="service" href="/chat/bonuses">
+        <link rel="service" href="/chat/bonuses">
 		<link rel="service" href="/chat/billing/locker">
-		<link rel="service" href="/chat/billing/account">
+        <link rel="service" href="/chat/billing/account">
 		<link rel="service" href="/chat/billing/reporter">
-		<script type="text/template" id="chat-attendee-template">
-			<img class="photo"
-			     src="{{#thumbnail}}{{thumbnail}}{{/thumbnail}}{{^thumbnail}}/i/account/photo.png{{/thumbnail}}"/>
+        <link rel="service" href="/chat/billing/state">
+	    <link rel="service" href="/chat/sender">
+	    <link rel="service" href="/chat/updater">
+        <script type="text/template" id="chat-attendee-profile-template">
+            <div>
+                <p class="name"><span><l10n url="/templates/chat/attendee#name">
+        {{name}}&rsquo;s profile
+    </l10n> <a href="/profile/?id={{id}}" class="for-roles for-users-operator for-developer id">({{id}})</a></span></p>
 
-			<div class="profile-info">
-				<p class="name">{{name}}</p>
-				{{#location}}
-				<p class="city">{{city}}</p>
+                <p class="line phrase-appearance">
+                    <link rel="widget" href="/profile/empty" />
+                    <l10n url="/texts/profile/about#i-am-a">
+         I&rsquo;m a
+    </l10n>
+                    <span class="text phrase-gender">
+                        <link rel="widget" href="/phrases/gender" />
+                    </span>
+                    <l10n url="/texts/profile/about#with">with </l10n>
+                    <span class="text phrase-hair">
+                        <link rel="widget" href="/phrases/dictionary" data-args="hairs" />
+                    </span>
+                    <l10n url="/texts/profile/about#hair"> hair and deep </l10n>
+                    <span class="text phrase-eye">
+                        <link rel="widget" href="/phrases/dictionary" data-args="eyes" />
+                    </span>
+                    <l10n url="/texts/profile/about#eyes">
+     eyes, and I&rsquo;m
+    </l10n>
+                    <span class="text phrase-height">
+                        <link rel="widget" href="/phrases/height" />
+                    </span>
+                </p>
 
-				<p class="country">{{country}}</p>
-				{{/location}}
-				<div class="connection-status">
-					<i class="led"></i>
-				</div>
-			</div>
+                <p class="line">
+                    <link rel="widget" href="/profile/empty" />
+                    <l10n url="/texts/profile/about#i-am">
+        I&rsquo;m
+    </l10n>
+                    <span class="text phrase-birthday">
+                        <link rel="widget" href="/phrases/age" />
+                    </span><l10n url="/texts/profile/about#years"> years old.</l10n>
+                </p>
+                <p class="line phrase-residence">
+                    <link rel="widget" href="/profile/empty" />
+                    <l10n url="/texts/profile/about#hometown">Would you like to visit me in my hometown</l10n>
+                    <span class="text phrase-city">
+                        <link rel="widget" href="/phrases/base" />
+                    </span><l10n url="/texts/profile/about#comma">,</l10n>
+                    <span class="text phrase-country">
+                        <link rel="widget" href="/phrases/dictionary" data-args="countries, true" />
+                    </span><l10n url="/texts/profile/about#question">?</l10n>
+                </p>
+                <p class="line">
+                    <link rel="widget" href="/profile/empty" />
+                    <l10n url="/texts/profile/about#speak">I speak</l10n>
+                    <span class="text phrase-languages">
+                        <link rel="widget" href="/phrases/languages" data-args="0"/>
+                    </span><l10n url="/texts/profile/about#dot">.</l10n>
+                </p>
+                <p class="line">
+                    <link rel="widget" href="/profile/empty" />
+                    <l10n url="/texts/profile/about#i-am-a">
+         I&rsquo;m a
+    </l10n>
+                    <span class="text phrase-occupation">
+                        <link rel="widget" href="/phrases/base" />
+                    </span><l10n url="/texts/profile/about#dot">.</l10n>
+                </p>
+                <p class="line">
+                    <link rel="widget" href="/profile/empty" />
+                    <l10n url="/texts/profile/about#dream">I invite you to</l10n>
+                    <span class="text phrase-locations">
+                        <link rel="widget" href="/phrases/travels" />
+                    </span><l10n url="/texts/common/about#dot"></l10n>
+                </p>
+                <div class="connection-status">
+                    <i class="led"></i>
+                </div>
+
+                <link rel="widget" href="/chat/attendee/updater" data-args="{{id}}"/>
+
+            </div>
+        </script>
+		<script type="text/template" id="chat-attendee-thumbnail-template">
+			<img class="photo" src="{{#thumbnail}}{{url}}{{options.thumbnail}}{{/thumbnail}}{{^thumbnail}}/i/account/photo.png{{/thumbnail}}"/>
 		</script>
 
 		<script type="text/template" id="chat-message-template">
 			<div id="message-{{#message}}{{tag}}{{/message}}"
 			     class="message-wrapper {{#undelivered}}undelivered{{/undelivered}} clearfix">
 
-				<i class="undelivered-icon"></i>
+				<div class="message popup-container account-options balloon {{direction}}">
+                    <link rel="widget" href="/popup" />
+                    <link rel="widget" href="/events/watcher" data-args="tip, command.chat.log.scrolldown" />
+                    <link rel="widget" href="/events/toggler" data-args="tip, untip, more" />
+                    {{#incoming}}<link rel="widget" href="/tips" data-args=".complain-info, .complain-triangle, click, 10, 30, 1" />{{/incoming}}
 
-				<div class="message balloon {{direction}} {{#message}}{{/message}}">
-					{{#message}}{{{text}}}{{/message}}
+                    <span class="message-text">{{#message}}{{{text}}}{{/message}}</span>
 					<i class="damping"></i>
 					<i class="hover-damping"></i>
 					<i class="tail-wrapper">
 						<i class="tail"></i>
 					</i>
-				</div>
 
-			</div>
+                    <link rel="widget" href="/chat/messages/scroll" data-container="next" data-args="#message-{{#message}}{{tag}}{{/message}}, command.chat.log.scrolldown"/>
+                    <span class="complain-area popup-trigger popup-control complain-triangle"><span class="complain-triangle complain-tile"></span></span>
+
+                    <div class="tip complain-arrow complain-info">
+                        <img src="/i/arrow.png" />
+                    </div>
+
+                    <div class="complain-info tip complain-text">
+                        <img src="/i/complain.png?1" />
+                    </div>
+
+                    <div class="popup top complain-tip">
+                        <i class="toptail"></i>
+                        <i class="toptail-border"></i>
+                        <ul class="list-container">
+                            <li>
+								<span class="list-item link popup-trigger">
+                                    <link rel="widget" href="/events/proxy" data-args="overlay, complain, {{#message}}{{id}}, {{sender}}{{/message}}">
+                                    <l10n url="/texts/complain#tip">Block User</l10n>
+                                </span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="date">{{#message}}{{date}}{{/message}}</div>
+                </div>
+
+                <i class="undelivered-icon {{direction}}"></i>
+
+            </div>
 		</script>
 
 		<script type="text/template" id="chat-system-message-template">
 			<div class="system-message balloon {{style}} {{group}}-group">
-				{{> content}}
+                <div class="phrase">
+				    {{> content}}
+                </div>
 			</div>
 		</script>
 
 		<script type="text/template" id="chat-system-message-credits-required-template">
-			<p><l10n url="/texts/shared/chat/chat#true">
-        Become a&nbsp;true Travel Mate&nbsp;— the trip of&nbsp;your dreams with a&nbsp;desired companion is&nbsp;waiting for you.
-    </l10n></p>
+                <p><l10n url="/templates/chat/chat#true">Top up your balance and you will never miss the trip of your dream.</l10n></p>
 
-			<p>
-				<button type="button" class="button approve purchase"><l10n url="/texts/shared/chat/chat#make">Make it happen!</l10n></button>
-			</p>
+                <p>
+                    <button type="button" class="button approve purchase"><l10n url="/templates/chat/chat#make">Top up now!</l10n></button>
+                </p>
 		</script>
 
 		<script type="text/template" id="chat-system-message-purchase-template">
-			<p><l10n url="/texts/shared/chat/chat#congratulations">
-        Congratulations!<br/>You&rsquo;ve&nbsp;just upgraded your status to&nbsp;that of<br/>Experienced Travel Mate!
-    </l10n></p>
+            <div class="phrases {{name}}">
+                <div class="phrase purchase20"><l10n url="/texts/notification#purchase20">
+				   <h4>Congratulations!</h4>
+				   You’ve just upgraded your status to that of <br/> Novice Travel Mate!
+				</l10n></div>
+                <div class="phrase purchase160"><l10n url="/texts/notification#purchase160">
+				   <h4>Congratulations!</h4>
+				   You’ve just upgraded your status to that of <br/> Experienced Travel Mate!
+				</l10n></div>
+                <div class="phrase purchase1000"><l10n url="/texts/notification#purchase1000">
+				   <h4>Congratulations!</h4>
+				   You’ve just upgraded your status to that of <br/> True Travel Mate!
+				</l10n></div>
+                <div class="phrase refill"><l10n url="/texts/notification#refill">
+				   <h4>Congratulations!</h4>
+				   You’ve just confirmed your Travel Mate status!
+				</l10n></div>
+            </div>
 		</script>
 
 		<script type="text/template" id="chat-system-message-completing-template">
-			<p><l10n url="/texts/shared/chat/chat#thanks">Thanks for completing this step.<br>
+			<p><l10n url="/templates/chat/chat#thanks">Thanks for completing this step.<br>
         You now have an additional 3 FREE minutes of Live Chat.
     </l10n></p>
 		</script>
 
 		<script type="text/template" id="chat-system-message-offline-template">
-			<p class="gender-{{attendee.gender}}">{{attendee.name}} is offline now.
-				<span class='mal'>He</span><span class='fem'>She</span> will read your message when <span
-						class='mal'>he</span><span class='fem'>she</span> comes online.
-				Why don&rsquo;t you chat with other cute Travel Mate?</p>
+			<p class="gender-{{attendee.gender}}"><l10n url="/templates/chat/chat#offline">
+        {{attendee.name}} is offline now.
+        <span class='mal'>He</span><span class='fem'>She</span> will read your message when
+        <span class='mal'>he</span><span class='fem'>she</span> comes online.
+        Why don&rsquo;t you chat with other cute Travel Mate?
+    </l10n></p>
 
-			<p><a href="/" class="button approve">Begin your online journey!</a></p>
+			<p><a href="/travellers" class="button approve"><l10n url="/templates/chat/chat#begin">Begin your online journey!</l10n></a></p>
 		</script>
 
 		<script type="text/template" id="chat-system-message-status-template">
-			<p><l10n url="/texts/shared/chat/chat#congratulations">
+			<p><l10n url="/templates/chat/chat#congratulations">
         Congratulations!<br/>You&rsquo;ve&nbsp;just upgraded your status to&nbsp;that of<br/>Experienced Travel Mate!
     </l10n></p>
 		</script>
 
+        <script type="text/template" id="chat-system-message-auth-template">
+            <form class="start-conversation form loading">
+                <link rel="widget" href="/authorization/form"  />
+                <link rel="widget" href="/authorization/form/greeting"/>
+
+                <div class="signup">
+                    <div class="for-unauthorized clearfix">
+                        <p><l10n url="/texts/chat#introduce"></l10n> {{attendee.name}}.</p>
+
+                        <div class="auth-panel">
+                            <table>
+                                <tr>
+                                    <td>
+                                        <label class="field-wrapper sign-up">
+                                            <l10n url="/texts/chat#name"></l10n>
+                                            <link rel="widget" href="/forms/inputs/connect" data-args="name" data-container="next"/>
+                                            <input class="data" type="text" name="name"  required="required" />
+                                        </label>
+                                    </td>
+                                    <td>
+                                        <label class="field-wrapper sign-up sign-in password">
+                                            <l10n url="/texts/chat#email"></l10n>
+                                            <link rel="widget" href="/forms/inputs/connect" data-args="email" data-container="next"/>
+                                            <input class="data" type="email" pattern='.+@.+\..+' name="email" required="required" />
+                                        </label>
+                                    </td>
+                                    <td>
+                                        <button class="approve button" type="submit" disabled="disabled">
+                                            <l10n url="/texts/chat#send"></l10n>
+                                        </button>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <div class="signin">
+                    <p class="plea greeting"></p>
+
+                    <div class="signin-panel">
+                        <table>
+                            <tr>
+                                <td>
+                                    <span class="field-wrapper sign-in password">
+                                        <input id="member-password" class="data" type="password" name="password" placeholder="Password"  />
+                                    </span>
+                                </td>
+                                <td>
+                                    <button class="approve button" type="submit">
+                                        <l10n url="/texts/profile/profile#continue">Continue</l10n>
+                                    </button>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <p class="password">
+                        <span class="pseudo-link reminder">
+                            <link rel="widget" href="/events/proxy" data-args="overlay, authorization, reminder"/>
+                            <l10n url="/texts/profile/profile#forgot">Forgot your password?</l10n>
+                        </span>
+                    </p>
+
+                </div>
+            </form>
+        </script>
+
+
+
 		<script type="text/template" id="chat-system-message-birthday-template">
 	<div class="message-wrapp gender-{{attendee.gender}}">
-	    <p><l10n url="/texts/shared/chat/bonuses#when">When's your birthday? It would be great to know because </l10n>
-	        {{attendee.name}}<l10n url="/texts/shared/chat/bonuses#wishes"> and other fun-filled TripTogether travelers would love to send their best wishes!</l10n></p>
+	    <p><l10n url="/templates/chat/bonuses#birthday">When's your birthday? It would be great to know because {{attendee.name}} and other fun-filled TripTogether travelers would love to send their best wishes!</l10n></p>
 	    <div class="edit">
             <link rel="widget" href="/chat/billing/motivator" />
 	        <form class="form">
 	            <p class="field-wrapper field">
-	                <select name="month" class="data" required="required" autofocus="autofocus" disabled="disabled">
+	                <select name="month" class="data" required="required"  disabled="disabled">
 	                    <option value="" class="label" selected="selected">month</option>
         <option value="1">January</option>
         <option value="2">February</option>
@@ -940,24 +1550,24 @@
 	                </select>
 	            </p>
 	            <p class="button-wrapper">
-	                <button class="approve button" type="submit" disabled="disabled">Save</button>
+	                <button class="approve button" type="submit" disabled="disabled"><l10n url="/templates/chat/bonuses#save">Save</l10n></button>
 	            </p>
 	        </form>
 	    </div>
 	    <div class="complete-info">
-	        <p><l10n url="/texts/shared/chat/bonuses#minutes">Complete this step and get an additional 3 FREE minutes of Live Chat</l10n></p>
+	        <p><l10n url="/templates/chat/bonuses#minutes">Complete this step and get an additional 3 FREE minutes of Live Chat</l10n></p>
 	    </div>
 	</div>
 </script>
 		<script type="text/template" id="chat-system-message-languages-occupation-template">
 	<div class="message-wrapp gender-{{attendee.gender}}">
-	    <p><l10n url="/texts/shared/chat/bonuses#languages">Know different languages? Reveal all in your profile and amaze </l10n>{{attendee.name}}<l10n url="/texts/shared/chat/bonuses#skill"> with your skills. Show everybody why you'll make a great travel companion.</l10n></p>
+	    <p><l10n url="/templates/chat/bonuses#languages">Know different languages? Reveal all in your profile and amaze {{attendee.name}} with your skills. Show everybody why you'll make a great travel companion.</l10n></p>
 	    <div class="edit">
             <link rel="widget" href="/chat/billing/motivator" />
 	        <form class="form">
 	            <div class="languages field" data-name="languages" data-validator="ui.forms.fieldset.list">
 	                <p class="field-wrapper field">
-	                    <select class="data" autofocus="autofocus" required="required" disabled="disabled">
+	                    <select class="data"  required="required" disabled="disabled">
                             <option value="" selected>Native</option>
                                 <option value="en">English</option>
     <option value="es">Spanish</option>
@@ -993,23 +1603,23 @@
 	                <input name="occupation" class="data" type="text" value="" required="required" placeholder="Job or Profession" disabled="disabled">
 	            </p>
 	            <p class="button-wrapper">
-	                <button class="approve button" type="submit" disabled="disabled">Save</button>
+	                <button class="approve button" type="submit" disabled="disabled"><l10n url="/templates/chat/bonuses#save">Save</l10n></button>
 	            </p>
 	        </form>
 	    </div>
 	    <div class="complete-info">
-	        <p><l10n url="/texts/shared/chat/bonuses#minutes">Complete this step and get an additional 3 FREE minutes of Live Chat</l10n></p>
+	        <p><l10n url="/templates/chat/bonuses#minutes">Complete this step and get an additional 3 FREE minutes of Live Chat</l10n></p>
 	    </div>
 	</div>
 </script>
 		<script type="text/template" id="chat-system-message-height-eyes-hairs-template">
 	<div class="message-wrapp gender-{{attendee.gender}}">
-	    <p><l10n url="/texts/shared/chat/bonuses#describe">Describe yourself and create a stir with </l10n>{{attendee.name}}<l10n url="/texts/shared/chat/bonuses#gorgeous"> and other gorgeous TripTogether travelers. Grab your chance to complete your profile.</l10n></p>
+	    <p><l10n url="/templates/chat/bonuses#describe">Describe yourself and create a stir with {{attendee.name}} and other gorgeous TripTogether travelers. Grab your chance to complete your profile.</l10n></p>
 	    <div class="edit">
             <link rel="widget" href="/chat/billing/motivator" />
 	        <form class="form">
 	            <p class="field-wrapper field">
-	                <select name="height" class="data" required="required" autofocus="autofocus" disabled="disabled">
+	                <select name="height" class="data" required="required"  disabled="disabled">
 	                    <option value="" class="label" selected="selected">Height ft/cm</option>
                 <option value="91">3' - 91 cm</option>
                 <option value="94">3' 1" - 94 cm</option>
@@ -1098,22 +1708,24 @@
 	                </select>
 	            </p>
 	            <p class="button-wrapper">
-	                <button class="approve button" type="submit" disabled="disabled">Save</button>
+	                <button class="approve button" type="submit" disabled="disabled"><l10n url="/templates/chat/bonuses#save">Save</l10n></button>
 	            </p>
 	        </form>
 	    </div>
 	    <div class="complete-info">
-	        <p><l10n url="/texts/shared/chat/bonuses#minutes">Complete this step and get an additional 3 FREE minutes of Live Chat</l10n></p>
+	        <p><l10n url="/templates/chat/bonuses#minutes">Complete this step and get an additional 3 FREE minutes of Live Chat</l10n></p>
 	    </div>
 	</div>
 </script>
 		<script type="text/template" id="chat-system-message-thumbnail-template">
 	<div class="message-wrapp gender-{{attendee.gender}}">
-	    <p><l10n url="/texts/shared/chat/bonuses#grab">Grab </l10n>{{attendee.name}}&rsquo;s<l10n url="/texts/shared/chat/bonuses#photos"> attention with your travel experience! Add photos from everywhere you've been.</l10n></p>
+	    <p><l10n url="/templates/chat/bonuses#photos">
+        Grab {{attendee.name}}&rsquo;s attention with your travel experience! Add photos from everywhere you've been.
+    </l10n></p>
 	    <div class="edit">
             <link rel="widget" href="/chat/billing/motivator" />
             <div class="button default add-photo uploader">
-                <link rel="widget" href="/forms/uploader" />
+                <link rel="widget" href="/forms/uploader" data-args="ieapi/users/{{me}}/photos"/>
                 <div class="field file"
                      data-validator="ui.forms.fields.file"
                      data-message-invalid="error loading photo"
@@ -1126,12 +1738,12 @@
 
                     <input type="file" name="file" value="" size="1" accept="image/png, image/jpeg, image/gif, image/jpg"/>
                     <input type="hidden"/>
-                    + Add Photos
+                    <l10n url="/templates/chat/bonuses#add">+ Add Photos</l10n>
                 </div>
             </div>
 	    </div>
 	    <div class="complete-info">
-	        <p><l10n url="/texts/shared/chat/bonuses#minutes">Complete this step and get an additional 3 FREE minutes of Live Chat</l10n></p>
+	        <p><l10n url="/templates/chat/bonuses#minutes">Complete this step and get an additional 3 FREE minutes of Live Chat</l10n></p>
 	    </div>
 	</div>
 </script>
@@ -1149,17 +1761,17 @@
 			<link rel="widget" href="/forms/terminator">
 			<link rel="widget" href="/forms/presser">
 			<link rel="widget" href="/chat/input">
-			<link rel="widget" href="/chat/input/locker">
+			<link rel="widget" href="/chat/input/locker" data-args="true">
 			<link rel="widget" href="/chat/messages/meme">
-			<textarea id="message" class="data" maxlength="255" autofocus="autofocus" placeholder="Type a message here"></textarea>
+			<textarea id="message" class="data" maxlength="255" placeholder="Type a message here"></textarea>
 
 			<div class="toolbar-panel">
 
 				<div class="smiles-wrapper">
-					<div class="popup-container bottom">
+					<div class="popup-container">
 						<link rel="widget" href="/popup">
-						<button class="toolbar popup-trigger  smiles" type="button">Smiles</button>
-						<div class="popup">
+						<button class="toolbar popup-trigger  smiles" type="button"><l10n url="/texts/chat#smiles">Smiles</l10n></button>
+						<div class="popup bottom">
 							<ul class="smiles-list">
 								<link rel="widget" href="/chat/input/smiles">
 								<script type="text/template" id="smile-list-item-template">
@@ -1172,7 +1784,7 @@
 					</div>
 				</div>
 
-				<button type="submit" class="button send-message approve"><l10n url="/texts/shared/common#send">Send</l10n></button>
+				<button type="submit" class="button send-message approve"><l10n url="/texts/common#send">Send</l10n></button>
 			</div>
 
 
@@ -1185,15 +1797,114 @@
 
 	<div class="billing-info">
 		<link rel="widget" href="/chat/billing/tarif">
-		<div class="online">This Chat is billed at 1 Credit per minute</div>
-		<div class="offline">Offline Chat is billed at 1 Credit per message</div>
+		<div class="online"><l10n url="/texts/chat#online">Chat is billed at 1 Credit per minute</l10n></div>
+		<div class="offline"><l10n url="/texts/chat#offline">Offline Chat is billed at 1 Credit per message</l10n></div>
 		<div class="free"></div>
 	</div>
 </div>
 
                 </div>
 
-				<div class="account-type content">
+                <div class="image-editor content">
+                    <link rel="widget" href="/image/editor">
+
+<div class="view">
+    <div class="preview"></div>
+    <div class="rotate hidden">
+        <button type="button" class="button default fixed rotate">
+            <link rel="widget" href="/events/proxy" data-args="editor:rotate">
+            <img src="/i/rotate.png">
+        </button>
+    </div>
+</div>
+
+<div class="controls">
+    <div class="buttons">
+        <button type="button" class="button default">
+            <link rel="widget" href="/events/proxy" data-args="editor:reset">
+            <link rel="l10n-static" href="/texts/image/image#reset">
+        </button>
+        <button type="button" class="button default approve">
+            <link rel="widget" href="/events/proxy" data-args="editor:save">
+            <link rel="l10n-static" href="/texts/image/image#save">
+        </button>
+    </div>
+
+    <div class="filters">
+        <label>
+            <link rel="l10n-static" href="/texts/image/image#hue">
+            <link rel="widget" href="/forms/inputs/range" data-args="°" data-container="next">
+            <input type="range" name="hue-rotate" data-default="0" min="0" max="360" value="0">
+            <link rel="widget" href="/image/editor/filter" data-args="hue-rotate,deg" data-container="prev">
+        </label>
+
+        <label>
+            <link rel="l10n-static" href="/texts/image/image#saturation">
+            <link rel="widget" href="/forms/inputs/range" data-args="%" data-container="next">
+            <input type="range" name="saturate" data-default="100" min="0" max="200">
+            <link rel="widget" href="/image/editor/filter" data-args="saturate,%" data-container="prev">
+        </label>
+
+        <label>
+            <link rel="l10n-static" href="/texts/image/image#brightness">
+            <link rel="widget" href="/forms/inputs/range" data-args="%" data-container="next">
+            <input type="range" name="brightness" data-default="100" min="0" max="200">
+            <link rel="widget" href="/image/editor/filter" data-args="brightness,%" data-container="prev">
+        </label>
+
+        <label>
+            <link rel="l10n-static" href="/texts/image/image#contrast">
+            <link rel="widget" href="/forms/inputs/range" data-args="%" data-container="next">
+            <input type="range" name="contrast" data-default="100" min="50" max="150">
+            <link rel="widget" href="/image/editor/filter" data-args="contrast,%" data-container="prev">
+        </label>
+    </div>
+</div>
+
+                </div>
+
+                <div class="complain content">
+                    <div class="complain-block">
+    <div class="text">
+        <l10n url="/texts/complain#text">You will never get any messages from blocked user</l10n>
+    </div>
+
+    <button class="alarm button" type="button">
+        <link rel="widget" href="/chat/complain" defer="bus://overlay.complain">
+        <l10n url="/texts/complain#submit">Ok</l10n>
+    </button>
+
+    <button class="default button" type="button">
+        <link rel="widget" href="/domevents/emitter" defer="bus://overlay.complain" data-args="close">
+        <l10n url="/texts/complain#cancel">Cancel</l10n>
+    </button>
+</div>
+                </div>
+
+                <div class="suspend content">
+                    
+<div class="suspend-form">
+    <form class="form">
+        <link rel="widget" href="/operator/reasons">
+        <p class="field-wrapper field">
+            <span class="label"><link rel="l10n-static" href="/texts/forms/suspend#reason"></span>
+            <select name="X-Reason" required="required" data-critical="true" class="data"></select>
+        </p>
+        <script type="text/template" id="operator-reason-template">
+            <option value="{{key}}">{{text}}</option>
+        </script>
+        <p class="field-wrapper field">
+            <span class="label"><link rel="l10n-static" href="/texts/forms/suspend#comment"></span>
+            <textarea name="X-Comment" class="data"></textarea>
+        </p>
+        <p class="button-wrapper">
+            <button class="button alarm" type="submit"><link rel="l10n-static" href="/texts/forms/suspend#submit"></button>
+        </p>
+    </form>
+</div>
+                </div>
+
+                <div class="account-type content">
 					<div class="account-type-info">
 	<section class="account-type-free">
 		<h1>Free member</h1>
@@ -1218,10 +1929,1390 @@
 </div>
 				</div>
 
-				<div class="gallery content">
-                    <link rel="widget" href="/fotorama">
-					&nbsp;
-				</div>
+                <link rel="widget" href="/fotorama" defer="dom://activated" data-container="next">
+                <div class="gallery content">&nbsp;</div>
+
+                <div class="search-options content">
+                    <link rel="widget" href="/search/popup">
+                    <div class="wrapper">
+    <div class="travel-map">
+
+    <div class="inner-wrapper">
+        <ul class="regions">
+            <li class="north-america"></li>
+            <li class="caribbean"></li>
+            <li class="europe"></li>
+            <li class="australia"></li>
+            <li class="scandinavia"></li>
+            <li class="asia"></li>
+            <li class="latin-america"></li>
+            <li class="africa"></li>
+        </ul>
+
+        <ul class="countries">
+            <li class="usa"></li>
+            <li class="canada"></li>
+            <li class="mexico"></li>
+            <li class="dominicana"></li>
+            <li class="jamaica"></li>
+            <li class="uk"></li>
+            <li class="russia"></li>
+            <li class="ukraine"></li>
+            <li class="italy"></li>
+            <li class="france"></li>
+            <li class="germany"></li>
+            <li class="spain"></li>
+        </ul>
+    </div>
+</div>
+    <link rel="widget" href="/search/map" defer="bus://overlay.search-options">
+<link rel="widget" href="/search/approver" defer="bus://overlay.search-options">
+<div class="search-form">
+    <section class="preferences">
+        <h2 class="heading"><l10n url="/texts/forms/search-form/search-form#travel">I want to travel with</l10n></h2>
+        <form class="form">
+            <link rel="widget" href="/search/forms/base" defer="bus://overlay.search-options">
+            <link rel="widget" href="/search/forms/binders/preferences" defer="bus://overlay.search-options">
+            <fieldset class="form-wrapper">
+                <div class="field-wrapper gender">
+    <label class="field">
+        <input type="checkbox" name="mal" value="mal">
+        <span><l10n url="/texts/common#male">Male</l10n></span>
+    </label>
+    <label class="field">
+        <input type="checkbox" name="fem" value="fem">
+        <span><l10n url="/texts/common#female">Female</l10n></span>
+    </label>
+</div>
+
+                <div class="age field-wrapper loading">
+
+    <script type="text/template" id="ages-slider-label-template">
+       <l10n url="/templates/search/header#ages">
+        {{#older}}
+        <span class="lower">Younger</span> than {{age}} years old{{/older}}
+        {{#younger}}<span class="lower">Older</span> than {{age}} years old{{/younger}}
+        {{#range}}
+        {{minage}}–{{maxage}} years old{{/range}}
+        {{#nomatter}} 18 years and older{{/nomatter}}</l10n>
+    </script>
+
+    <link rel="widget" href="/forms/slider">
+    <link rel="widget" href="/search/labels/ages">
+    <span class="label">
+        <span class="value"></span>
+    </span>
+
+    <div class="field hidden">
+        <select class="data lower" name="minage">
+            <option value="15">15</option>
+<option value="20" selected="selected">20</option>
+
+        <option value="25">25</option>
+        <option value="30">30</option>
+        <option value="35">35</option>
+        <option value="40">40</option>
+        <option value="45">45</option>
+        <option value="50">50</option>
+        <option value="55">55</option>
+        <option value="60">60</option>
+
+<option value="65">65</option>
+        </select>
+    </div>
+
+    <div class="field hidden">
+        <select class="data higher" name="maxage">
+            <option value="15">15</option>
+<option value="20" selected="selected">20</option>
+
+        <option value="25">25</option>
+        <option value="30">30</option>
+        <option value="35">35</option>
+        <option value="40">40</option>
+        <option value="45">45</option>
+        <option value="50">50</option>
+        <option value="55">55</option>
+        <option value="60">60</option>
+
+<option value="65">65</option>
+        </select>
+    </div>
+
+    <input class="range" type="slider" name="age" value="15;65">
+</div>
+            </fieldset>
+        </form>
+    </section>
+
+    <section class="destanation">
+        <h2 class="heading"><l10n url="/texts/forms/search-form/search-form#destanation">Travel destination</l10n></h2>
+
+        <form class="form">
+            <link rel="widget" href="/search/forms/base" defer="bus://overlay.search-options">
+            <link rel="widget" href="/search/forms/binders/travels" defer="bus://overlay.search-options">
+            <fieldset class="form-wrapper">
+            <ul class="regions choose-container">
+
+                <li class="choose-region north-america group">
+                    <link rel="widget" href="/forms/checkboxes/groups">
+                    <label><input type="checkbox" value="north-america"><span>North America</span></label>
+                    <ul class="countries">
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-US" value="US"><span>USA</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-CA" value="CA"><span>Canada</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-MX" value="MX"><span>Mexico</span></label>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="choose-region caribbean group">
+                    <link rel="widget" href="/forms/checkboxes/groups">
+                    <label><input type="checkbox" value="caribbean"><span>Caribbean</span></label>
+                    <ul class="countries">
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-DO" value="DO"><span>Dominicana</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-JM" value="JM"><span>Jamaica</span></label>
+                        </li>
+                    </ul>
+                    <ul class="hidden">
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-BB" value="BB"><span>Barbados</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-BM" value="BM"><span>Bermuda</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-BS" value="BS"><span>Bahamas</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-CU" value="CU"><span>Cuba</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-DM" value="DM"><span>Dominica</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-HT" value="HT"><span>Haiti</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-MQ" value="MQ"><span>Martinique</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-PR" value="PR"><span>Puerto Rico</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-TT" value="TT"><span>Trinidad and Tobago</span></label>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="choose-region europe group">
+                    <link rel="widget" href="/forms/checkboxes/groups">
+                    <label><input type="checkbox" value="europe"><span>Europe</span></label>
+                    <ul class="countries">
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-GB" value="GB"><span>UK</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-RU" value="RU"><span>Russia</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-UA" value="UA"><span>Ukraine</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-IT" value="IT"><span>Italy</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-FR" value="FR"><span>France</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-DE" value="DE"><span>Germany</span></label>
+                        </li><li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-ES" value="ES"><span>Spain</span></label>
+                        </li>
+                    </ul>
+                    <ul class="hidden">
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-AD" value="AD"><span>Andorra</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-AT" value="AT"><span>Austria</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-BE" value="BE"><span>Belgium</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-BG" value="BG"><span>Bulgaria</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-CH" value="CH"><span>Switzerland</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-CY" value="CY"><span>Cyprus</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-CZ" value="CZ"><span>Czech Republic</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-EE" value="EE"><span>Estonia</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-GR" value="GR"><span>Greece</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-HR" value="HR"><span>Croatia</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-HU" value="HU"><span>Hungary</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-IE" value="IE"><span>Ireland</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-LI" value="LI"><span>Liechtenstein</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-LU" value="LU"><span>Luxembourg</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-MC" value="MC"><span>Monaco</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-MK" value="MK"><span>Macedonia</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-NL" value="NL"><span>Netherlands</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-PL" value="PL"><span>Poland</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-PT" value="PT"><span>Portugal</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-RO" value="RO"><span>Romania</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-SI" value="SI"><span>Slovenia</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-SK" value="SK"><span>Slovakia</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-SM" value="SM"><span>San Marino</span></label>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="choose-region other-regions australia group">
+                    <link rel="widget" href="/forms/checkboxes/groups">
+                    <label><input type="checkbox" value="australia"><span>Australia</span></label>
+                    <ul class="hidden countries">
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-AU" value="AU"><span>Australia</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-ID" value="ID"><span>Indonesia</span></label>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="choose-region other-regions scandinavia group">
+                    <link rel="widget" href="/forms/checkboxes/groups">
+                    <label><input type="checkbox" value="scandinavia"><span>Scandinavia</span></label>
+                    <ul class="hidden countries">
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-GL" value="GL"><span>Greenland</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-SE" value="SE"><span>Sweden</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-NO" value="NO"><span>Norway</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-DK" value="DK"><span>Denmark</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-FI" value="FI"><span>Finland</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-IS" value="IS"><span>Iceland</span></label>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="choose-region other-regions asia group">
+                    <link rel="widget" href="/forms/checkboxes/groups">
+                    <label><input type="checkbox" value="asia"><span>Asia</span></label>
+                    <ul class="hidden countries">
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-AE" value="AE"><span>United Arab Emirates</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-AM" value="AM"><span>Armenia</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-BH" value="BH"><span>Bahrain</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-BN" value="BN"><span>Brunei Darussalam</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-CN" value="CN"><span>China</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-HK" value="HK"><span>Hong Kong</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-IL" value="IL"><span>Israel</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-IN" value="IN"><span>India</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-IQ" value="IQ"><span>Iraq</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-IR" value="IR"><span>Iran</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-JO" value="JO"><span>Jordan</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-JP" value="JP"><span>Japan</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-KH" value="KH"><span>Cambodia</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-KR" value="KR"><span>South Korea</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-KW" value="KW"><span>Kuwait</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-KZ" value="KZ"><span>Kazakhstan</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-MV" value="MV"><span>Maldives</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-MY" value="MY"><span>Malaysia</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-PH" value="PH"><span>Philippines</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-QA" value="QA"><span>Qatar</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-SA" value="SA"><span>Saudi Arabia</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-SG" value="SG"><span>Singapore</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-TH" value="TH"><span>Thailand</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-TR" value="TR"><span>Turkey</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-TW" value="TW"><span>Taiwan</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-VN" value="VN"><span>Vietnam</span></label>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="choose-region other-regions latin-america group">
+                    <link rel="widget" href="/forms/checkboxes/groups">
+                    <label><input type="checkbox" value="latin-america"><span>Latin America</span></label>
+                    <ul class="hidden countries">
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-AR" value="AR"><span>Argentina</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-BO" value="BO"><span>Bolivia</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-BR" value="BR"><span>Brazil</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-CL" value="CL"><span>Chile</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-CO" value="CO"><span>Colombia</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-CR" value="CR"><span>Costa Rica</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-PE" value="PE"><span>Peru</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-PY" value="PY"><span>Paraguay</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-UY" value="UY"><span>Uruguay</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-VE" value="VE"><span>Venezuela</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-VG" value="VG"><span>Virgin Islands (Great Britain)</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-VI" value="VI"><span>Virgin Islands (USA)</span></label>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="choose-region other-regions africa group">
+                    <link rel="widget" href="/forms/checkboxes/groups">
+                    <label><input type="checkbox" value="africa"><span>Africa</span></label>
+                    <ul class="hidden countries">
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-CD" value="CD"><span>Zaire</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-CM" value="CM"><span>Cameroon</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-DZ" value="DZ"><span>Algeria</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-EG" value="EG"><span>Egypt</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-GM" value="GM"><span>Gambia</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-KE" value="KE"><span>Kenya</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-LK" value="LK"><span>Sri Lanka</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-MA" value="MA"><span>Morocco</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-ML" value="ML"><span>Mali</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-NZ" value="NZ"><span>New Zealand</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-SN" value="SN"><span>Senegal</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-TN" value="TN"><span>Tunisia</span></label>
+                        </li>
+                        <li class="choose-country field variant">
+                            <label><input type="checkbox" name="tr-ZA" value="ZA"><span>South Africa</span></label>
+                        </li>
+                    </ul>
+                </li>
+
+            </ul>
+            </fieldset>
+        </form>
+    </section>
+
+    <section class="tags loading">
+        <form class="form">
+            <link rel="widget" href="/search/forms/base" defer="dom://binder.ready">
+            <link rel="widget" href="/search/forms/binders/tags" defer="bus://overlay.search-options">
+            <fieldset class="form-wrapper">
+                <ul class="tags-list choose-container">
+
+                </ul>
+                <script id="user-tags-checks-template" type="text/template">
+                    {{#tags}}
+                    <li class="field group">
+                        <label><input type="checkbox" name="{{key}}-tag" value="{{key}}"/><span>{{value}}</span></label>
+                    </li>
+                    {{/tags}}
+                </script>
+            </fieldset>
+        </form>
+    </section>
+
+    <div class="show">
+        <link rel="widget" href="/search/buttons" data-container="next">
+        <button class="approve button"><l10n url="/texts/forms/search-form/search-form#matches">Show Matches</l10n></button>
+        <link rel="widget" href="/domevents/emitter" data-args="submit" data-container="prev">
+    </div>
+</div>
+</div>
+
+                </div>
+
+                <div class="password content">
+                    <link rel="widget" href="/authorization/password-change" defer="dom://activated">
+                    <div class="change-password">
+    <div class="head">
+        <h3><l10n url="/texts/forms/password/change#label">Change your password</l10n></h3>
+        <span class="comment"><l10n url="/texts/forms/password/change#comment">Remember to change your password to something you won't forget and other people won't be able to guess.</l10n></span>
+        <h2 class="title"><l10n url="/texts/forms/password/change#title">Create a new password you can easily remember!</l10n></h2>
+    </div>
+
+    <form class="form" action="">
+        <p class="field-wrapper field new middle" data-critical="true">
+            <label for="new-password"><l10n url="/texts/forms/password/change#new">New password</l10n></label>
+            <input name="password" class="data" id="new-password" type="password" required="required" pattern=".{4}">
+        </p>
+
+        <p class="button-wrapper middle">
+            <button type="submit" class="change button approve" disabled="disabled"><l10n url="/texts/forms/password/change#change">Change</l10n></button>
+        </p>
+
+        <!-- It's ie bug for more details read http://www.rachaelarnold.com/dev/archive/enter-key-form-submission-bug#ixzz2Y5Zwgj2k -->
+        <!--[if IE]>
+            <input type="text" style="display: none;" disabled="disabled" size="1" />
+        <![endif]-->
+
+        <strong class="success invisible middle"><l10n url="/texts/forms/password/change#success">Your password has been successfully changed</l10n></strong>
+    </form>
+</div>
+                </div>
+
+                <div class="authorization content">
+                    <link rel="widget" href="/authorization/form/activator">
+                    <link rel="widget" href="/authorization/popup">
+                    <link rel="widget" href="/authorization/form" data-args="reminder" data-container="next">
+
+                    <form class="authorization form" action="" novalidate="">
+    <!--[if lte IE 8]>
+    <input type="submit" class="tiny"/>
+    <![endif]-->
+
+
+    <link rel="widget" href="/authorization/form/greeting">
+    <link rel="widget" href="/authorization/form/notify">
+    <link rel="widget" href="/domevents/trap" data-args="click">
+
+    <div class="entry">
+        <div class="inner-wrapper">
+            <p class="field sign-up line">
+                <label>
+                    <span class="label"><l10n url="/texts/common#name">Name</l10n></span>
+                    <span><input class="data" type="text" name="name" tabindex="1" required=""></span>
+                </label>
+            </p>
+
+            <p class="plea password line greeting">
+                <script type="text/template" id="authorization-greeting-template">
+                    <l10n url="/texts/profile/profile#hi">Hi</l10n>
+                    <strong class="name">{{name}}</strong><l10n url="/texts/profile/profile#already">, it seems that you already have an account on TripTogether.com.</l10n>
+                    <br />
+                    <l10n url="/texts/profile/profile#password">Please, enter your password.</l10n>
+                </script>
+            </p>
+
+            <div class="field sign-in sign-up password line popup-container-event">
+                <link rel="widget" href="/forms/inputs/mailcheck">
+
+                <label>
+                    <span class="label"><l10n url="/texts/common#email">Email</l10n></span>
+                    <span>
+                        <link rel="widget" href="/forms/inputs/connect" data-args="email" data-container="next">
+                        <input class="data" type="email" pattern=".+@.+\..+" name="email" tabindex="2" required="">
+                    </span>
+                </label>
+
+                <div class="hint-wrapper">
+                     <span class="hint popup-event top dark">
+                        <l10n url="/texts/helper/common#email">Maybe </l10n>
+                        <span href="/#" class="email pseudo-link"></span>
+                        <l10n url="/texts/helper/common#question">?</l10n>
+                    </span>
+                </div>
+            </div>
+
+            <div class="immobile">
+                <p class="field sign-in password line">
+                    <label>
+                        <span class="label"><l10n url="/texts/common#pass">Password</l10n></span>
+                        <span><input class="data" type="password" name="password" pattern=".{4}" required=""></span>
+                    </label>
+                </p>
+
+                <p class="field sign-up line">
+                    <label>
+                        <span class="label"><l10n url="/texts/common#pass">Password</l10n></span>
+                        <span><input class="data" type="password" name="password" pattern=".{4}" l10n:placeholder="/texts/header/authorization#blank" placeholder="leave blank and we’ll create one"></span>
+                    </label>
+                </p>
+            </div>
+
+            <div class="login-options">
+                <div class="button-wrapper sign-in-submit password-submit">
+                    <span class="prebutton">
+                        <link rel="widget" href="/domevents/emitter" data-args="state, sign-in">
+                        <span><l10n url="/texts/header/authorization#sign-in">Sign in</l10n></span>
+                    </span>
+                    <button class="approve button" value="sign-in" type="submit" disabled="disabled">
+                        <l10n url="/texts/header/authorization#sign-in">Sign in</l10n>
+                    </button>
+                </div>
+
+                <span class="separator"><l10n url="/texts/header/authorization#or">or</l10n>
+                     <link rel="widget" href="/suppresser" data-args="registration:disable, registration:enable">
+                </span>
+
+                <div class="button-wrapper sign-up-submit popup-container-hover">
+                    <link rel="widget" href="/suppresser" data-args="registration:disable, registration:enable">
+                    <span class="prebutton">
+                        <link rel="widget" href="/domevents/emitter" data-args="state, sign-up">
+                        <span><l10n url="/texts/header/authorization#sign-up">Create your account</l10n></span>
+                    </span>
+                    <button class="approve button" value="sign-up" type="submit" disabled="disabled">
+                        <l10n url="/texts/header/authorization#sign-up">Create your account</l10n>
+                    </button>
+                    <span class="popup-hover top dark centered">
+                        <l10n url="/texts/header/authorization#terms">
+        By creating account you agree with the&nbsp;<a href="/terms" tabindex="2">Terms&nbsp;and&nbsp;Conditions</a>
+        and&nbsp;<a href="/privacy-policy" tabindex="2">Privacy&nbsp;Policy</a>
+    </l10n>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="forgot">
+        <div class="inner-wrapper">
+            <p class="plea reminder line">
+                <l10n url="/texts/header/authorization#letter">
+        Enter your email address to receive instructions on how to create a new password.
+    </l10n>
+            </p>
+
+            <p class="field reminder line">
+                <label>
+                    <span class="label"><l10n url="/texts/common#email">Email</l10n></span>
+                    <span>
+                        <link rel="widget" href="/forms/inputs/connect" data-args="email" data-container="next">
+                        <input class="data" type="email" pattern=".+@.+\..+" name="email" tabindex="2" required="">
+                    </span>
+                </label>
+            </p>
+
+            <div class="login-options">
+                <div class="button-wrapper reminder-submit">
+                    <span class="prebutton">
+                        <link rel="widget" href="/domevents/emitter" data-args="state, reminder">
+                        <span><l10n url="/texts/header/authorization#reminder">Reset password</l10n></span>
+                    </span>
+                    <button class="approve button" value="reminder" type="submit" disabled="disabled">
+                        <l10n url="/texts/header/authorization#reminder">Reset password</l10n>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="notification">
+        <script type="text/template" id="authorization-notify-template">
+            <l10n url="/texts/header/authorization#notify">
+        An email with instructions on how<br/>
+        to create a new password has been<br/>
+        sent to
+    </l10n>{{email}}
+        </script>
+
+        <div class="inner-wrapper">
+            <p class="instruction notify line"></p>
+            <div class="button-wrapper check line">
+                <a class="button emblem mail yahoo" href="//mail.yahoo.com" target="_blank">
+                    <l10n url="/texts/mail/check#check">Check your</l10n>
+                    <l10n url="/texts/mail/check#yahoo">Yahoo account</l10n>
+                    <span class="hover-emblem"></span>
+                </a>
+                <a class="button emblem mail gmail" href="//gmail.com" target="_blank">
+                    <l10n url="/texts/mail/check#check">Check your</l10n>
+                    <l10n url="/texts/mail/check#gmail">Gmail account</l10n>
+                    <span class="hover-emblem"></span>
+                </a>
+                <a class="button emblem mail hotmail" href="//hotmail.com" target="_blank">
+                    <l10n url="/texts/mail/check#check">Check your</l10n>
+                    <l10n url="/texts/mail/check#hotmail">Hotmail account</l10n>
+                    <span class="hover-emblem"></span>
+                </a>
+                <a class="button emblem mail aol" href="//mail.aol.com" target="_blank">
+                    <l10n url="/texts/mail/check#check">Check your</l10n>
+                    <l10n url="/texts/mail/check#aol">Aol account</l10n>
+                    <span class="hover-emblem"></span>
+                </a>
+            </div>
+        </div>
+    </div>
+</form>
+                </div>
+
+                <section class="trip-planning content">
+                    <link rel="widget" href="/authorization/form/activator">
+                    <div class="planning-wrapper">
+    <div class="head">
+        <h2 class="title"><l10n url="/texts/trips/create#title">Plan your trip</l10n></h2>
+        <p class="desc"><l10n url="/texts/trips/create#title-desc">Choose travel destination and date then invite people to your trip</l10n></p>
+    </div>
+    <div class="login">
+        <button class="facebook button emblem">
+            <l10n url="/texts/header/authorization#facebook">Sign in with Facebook</l10n>
+            <link rel="widget" href="/authorization/facebook">
+        </button>
+    </div>
+    <div class="planning clearfix">
+        <link rel="widget" href="/trips/map">
+
+        <form class="form implement trips" novalidate="">
+            <link rel="widget" href="/authorization/form">
+            <link rel="widget" href="/authorization/form/greeting">
+            <link rel="widget" href="/trips/form">
+            <div class="clearfix">
+                <div class="option name field sign-up">
+                    <label class="label">
+                        <l10n url="/texts/profile/profile#name">Your name</l10n>
+                        <input class="data" type="text" name="name" required="required" disabled="">
+                    </label>
+                </div>
+                <div class="option email field sign-up">
+                    <label class="label">
+                        <l10n url="/texts/profile/profile#email">Your email</l10n>
+                        <link rel="widget" href="/forms/inputs/connect" data-args="email" data-container="next">
+                        <input class="data" type="email" pattern=".+@.+\..+" name="email" required="required" disabled="">
+                    </label>
+                </div>
+                <div class="option destination autocomplete sign-up sign-in authorized role-users-operator" data-name="number" data-validator="ui.forms.fieldset.list">
+                    <link rel="widget" data-feature="gmaps-autocomplete" href="/exo/gmaps/autocomplete">
+                    <link rel="widget" data-feature="geonames-autocomplete" href="/forms/inputs/autocomplete/base" data-args="7, 3">
+                    <link rel="widget" data-feature="geonames-autocomplete" href="/forms/inputs/autocomplete/geocoding" data-args="5">
+
+                    <div class="label field sign-up sign-in authorized">
+                        <label><l10n url="/texts/trips/create#destanation">Travel destination</l10n>
+                            <input class="data destination" name="destination" type="text" tabindex="13" required="required" placeholder="Enter a location">
+                        </label>
+                    </div>
+                    <span class="field hidden sign-up sign-in authorized"><input name="lon" class="lon" type="hidden"></span>
+                    <span class="field hidden sign-up sign-in authorized"><input name="lat" class="lat" type="hidden"></span>
+                    <span class="field hidden sign-up sign-in authorized"><input name="country" class="country" type="hidden"></span>
+                    <span class="field hidden sign-up sign-in authorized"><input name="city" class="city" type="hidden"></span>
+                    <span class="field hidden sign-up sign-in authorized"><input name="name" class="name" type="hidden"></span>
+                    <span class="field hidden sign-up sign-in authorized"><input name="type" class="type" type="hidden"></span>
+                </div>
+                <div class="option calendar sign-up sign-in authorized">
+                    <div class="field start sign-up sign-in authorized  empty" data-name="start" data-validator="ui.forms.fieldset.list">
+                        <span class="label popup-container">
+                            <link rel="widget" href="/popup">
+                            <link rel="widget" href="/forms/inputs/datepicker" data-args="false,single,bottom">
+                            <input type="text" class="hidden result-hidden field" name="start">
+                            <label for="result-start"><l10n url="/texts/trips/create#start-date">Date</l10n></label>
+                            <div class="input-wrapp  popup-trigger">
+                                <input id="result-start" data-formated="" placeholder="from" type="text" tabindex="14" required="required" readonly="readonly" class="field result data">
+                            </div>
+                            <div class="picker popup top"></div>
+                        </span>
+                    </div>
+                    –
+                    <div class="field end sign-up sign-in authorized completed empty" data-name="end" data-validator="ui.forms.fieldset.list">
+                        <span class="label popup-container">
+                            <link rel="widget" href="/popup">
+                            <link rel="widget" href="/forms/inputs/datepicker" data-args="false,single,bottom">
+                            <label for="result-end">&nbsp;</label>
+                            <input type="text" class="hidden result-hidden field" name="end">
+                            <div class="input-wrapp popup-trigger">
+                                    <input id="result-end" data-formated="" placeholder="to" type="text" required="required" tabindex="15" readonly="readonly" class="result data field">
+                            </div>
+                            <div class="picker popup top"></div>
+                        </span>
+                    </div>
+                </div>
+                <div class="option sign-in password">
+                    <p class="plea"><l10n url="/texts/profile/profile#hi">Hi</l10n> <strong class="name"><l10n url="/texts/profile/profile#name">Your name</l10n></strong><l10n url="/texts/profile/profile#already">, it seems that you already have an account on TripTogether.com.</l10n></p>
+                    <div class="clearfix">
+                        <p class="field">
+                            <label class="label">
+                                <l10n url="/texts/common#pass">Password</l10n>
+                                <input class="data" type="password" name="password">
+                            </label>
+                        </p>
+                        <p class="button-wrapper">
+                            <button class="approve button" type="submit"><link rel="l10n-static" href="/texts/profile/profile#continue"></button>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="option submitter button-wrapper sign-up authorized role-users-operator">
+                <button type="submit" class="button approve create" value="authorized"><link rel="l10n-static" href="/texts/trips/create#create"></button>
+            </div>
+        </form>
+        <div class="map-container implement">
+            <div class="travel-map">
+
+    <div class="inner-wrapper">
+        <ul class="regions">
+            <li class="north-america"></li>
+            <li class="caribbean"></li>
+            <li class="europe"></li>
+            <li class="australia"></li>
+            <li class="scandinavia"></li>
+            <li class="asia"></li>
+            <li class="latin-america"></li>
+            <li class="africa"></li>
+        </ul>
+
+        <ul class="countries">
+            <li class="usa"></li>
+            <li class="canada"></li>
+            <li class="mexico"></li>
+            <li class="dominicana"></li>
+            <li class="jamaica"></li>
+            <li class="uk"></li>
+            <li class="russia"></li>
+            <li class="ukraine"></li>
+            <li class="italy"></li>
+            <li class="france"></li>
+            <li class="germany"></li>
+            <li class="spain"></li>
+        </ul>
+    </div>
+</div>
+            <div class="here"></div>
+            <div class="mark hidden"></div>
+        </div>
+    </div>
+</div>
+                </section>
+
+                <div class="app-install content">
+                    <section class="apple-popup">
+    <link rel="widget" href="/mobile/apple-popup">
+    <h1><l10n url="/texts/mobile/apple-popup#header">
+        <strong>TripTogether for iPhone</strong><br>Now in your pocket!
+    </l10n></h1>
+    <a class="download" href="https://itunes.apple.com/us/app/triptogether/id705795934?l=ru&amp;ls=1&amp;mt=8" target="_blank">
+        <link rel="widget" href="/events/watcher" data-args="touchend, appstore:popup">
+        <l10n url="/texts/mobile/apple-popup#download">Download app</l10n>
+    </a>
+    <a class="go-to-tt">
+        <link rel="widget" href="/domevents/emitter" data-args="close">
+        <span>
+            <l10n url="/texts/mobile/apple-popup#gott">Go to TripTogether.com</l10n>
+        </span>
+    </a>
+</section>
+
+
+
+                </div>
+
+                <div class="offline-message content">
+                    <header class="header">
+    		<a class="logo" href="/">
+            <link rel="widget" href="/search/logo">
+            <span class="hidden"><l10n url="/texts/identity#domain">TripTogether.com</l10n></span> <span class="project-name"></span><span class="motto"><l10n url="/texts/identity#motto">Travelling Together Is Brighter!</l10n></span>
+		</a>
+
+</header>
+
+                    <div class="email-body">
+    <h1 class="greeting"><l10n url="/texts/email-templates/common#greeting">Hello</l10n> Recipient Name,</h1>
+    <article class="main clearfix">
+        <div class="thumbnail">
+            <!--<img src="https://api2.ft.local/users/1705031/photos/c0f8.166x238.thumb-nfd" alt="" class="photo" />-->
+            <div class="sender-info">
+                <a class="name" href="#">Sender Name</a>
+                <p class="city">Sender City</p>
+                <p class="country">Sender Country</p>
+            </div>
+        </div>
+        <p class="what-happen"><span class="sender-name">Sender Name</span> <l10n url="/texts/email-templates/offline-message#entry">has left you a message on TripTogether.</l10n></p>
+        <p class="message-text">The first 40 symbols of message...</p>
+        <p><button class="reply button approve"><l10n url="/texts/email-templates/offline-message#reply">Reply<br></l10n></button></p>
+    </article>
+    <div class="farewell"><l10n url="/texts/identity#domain">TripTogether.com</l10n></div>
+</div>
+
+                    <footer class="footer">
+    <p class="subscribe-info"><l10n url="/texts/email-templates/common#subscribe">You've received this message as you're a registered member of Triptogether.com</l10n></p>
+    <p class="unsubscribe-info"><l10n url="/texts/email-templates/common#subscribe">You've received this message as you're a registered member of Triptogether.com</l10n> <a href="mailto:unsubscribe@triptogether.com">unsubscribe@triptogether.com</a></p>
+    <p class="copyright"><l10n url="/texts/email-templates/common#copyright">Copyright Mons Industries Corp. 2001–2013. All rights reserved</l10n></p>
+</footer>
+                </div>
+
+                <div class="user-suspended content">
+                    <header class="header">
+    		<a class="logo" href="/">
+            <link rel="widget" href="/search/logo">
+            <span class="hidden"><l10n url="/texts/identity#domain">TripTogether.com</l10n></span> <span class="project-name"></span><span class="motto"><l10n url="/texts/identity#motto">Travelling Together Is Brighter!</l10n></span>
+		</a>
+
+</header>
+
+                    <div class="email-body">
+    <h1 class="greeting"><l10n url="/texts/email-templates/common#greeting">Hello</l10n> Recipient Name,</h1>
+    <article class="main clearfix">
+        <div class="thumbnail">
+            <!--<img src="https://api2.ft.local/users/1705031/photos/c0f8.166x238.thumb-nfd" alt="" class="photo" />-->
+            <div class="sender-info">
+                <a class="name" href="#">Sender Name</a>
+                <p class="city">Sender City</p>
+                <p class="country">Sender Country</p>
+            </div>
+        </div>
+        <p class="what-happen"><span class="sender-name">Sender Name</span> <l10n url="/texts/email-templates/offline-message#entry">has left you a message on TripTogether.</l10n></p>
+        <p class="message-text">The first 40 symbols of message...</p>
+        <p><button class="reply button approve"><l10n url="/texts/email-templates/offline-message#reply">Reply<br></l10n></button></p>
+    </article>
+    <div class="farewell"><l10n url="/texts/identity#domain">TripTogether.com</l10n></div>
+</div>
+
+                    <footer class="footer">
+    <p class="subscribe-info"><l10n url="/texts/email-templates/common#subscribe">You've received this message as you're a registered member of Triptogether.com</l10n></p>
+    <p class="unsubscribe-info"><l10n url="/texts/email-templates/common#subscribe">You've received this message as you're a registered member of Triptogether.com</l10n> <a href="mailto:unsubscribe@triptogether.com">unsubscribe@triptogether.com</a></p>
+    <p class="copyright"><l10n url="/texts/email-templates/common#copyright">Copyright Mons Industries Corp. 2001–2013. All rights reserved</l10n></p>
+</footer>
+                </div>
+
+                <div class="chat-history content">
+                    <link rel="widget" href="/chat/history/select" defer="bus://overlay.chat-history">
+<section class="chat-history">
+    <h1 class="header">
+        <l10n url="/texts/forms/chat-history/select#header">Chat history</l10n>
+    </h1>
+    <form class="form">
+        <fieldset class="form-wrapper">
+            <div class="ids">
+                <div>
+                    <label class="field">
+                        <l10n url="/texts/forms/chat-history/select#id1">First id</l10n>
+                        <input required="required" name="id1" class="id" type="text">
+                    </label>
+                </div>
+                <div>
+                    <label class="field">
+                        <l10n url="/texts/forms/chat-history/select#id2">Second id</l10n>
+                        <input required="required" name="id2" class="id" type="text">
+                    </label>
+                </div>
+            </div>
+            <div class="datetime">
+                <script type="text/template" id="chat-history-datetime-template">
+                    {{#dates}}
+                    <div>
+                        <label class="field" data-name="{{name}}" data-validator="ui.forms.fieldset.list">
+                            {{#start}}<l10n url="/texts/forms/chat-history/select#timestart">From</l10n>{{/start}}
+                            {{^start}}<l10n url="/texts/forms/chat-history/select#timeend">Until</l10n>{{/start}}
+                            <input required="required" name="{{name}}date" class="date field" type="date" value="{{date}}"/>
+                            <input required="required" name="{{name}}time" class="time field" type="time" value="{{time}}"/>
+                        </label>
+                    </div>
+                    {{/dates}}
+                </script>
+            </div>
+        </fieldset>
+        <div class="bottom button-wrapper">
+            <button class="button approve" type="submit">
+                <l10n url="/texts/forms/chat-history/select#show">Show dialog</l10n>
+            </button>
+        </div>
+    </form>
+</section>
+                </div>
+
+                <div class="chat-log content">
+                    <div class="user">
+    <link rel="widget" href="/chat/history/log/thumbnail" data-container="next" data-args="lower">
+    <img>
+</div>
+<div class="chat-wrapper">
+    <div class="messages">
+        <link rel="widget" href="/chat/history/log" data-args="incoming left-tail datetime, outgoing right-tail datetime">
+        <div class="message-log">
+            <link rel="widget" href="/chat/messages/log/delivery">
+        </div>
+    </div>
+</div>
+<div class="user">
+    <link rel="widget" href="/chat/history/log/thumbnail" data-container="next" data-args="higher">
+    <img>
+</div>
+                </div>
+
+                <div class="configuration content">
+                    <link rel="widget" href="/configuration" defer="bus://overlay.configuration">
+<div class="view loading"></div>
+<div class="controls">
+    <div class="buttons">
+        <button class="apply default button">
+            <link rel="widget" href="/domevents/emitter" data-args="configuration:patch">
+            Save
+        </button>
+    </div>
+</div>
+<script type="text/template" id="configuration-parent-template">
+    <div class="conf-parent {{type}}">
+        <div class="conf-title">{{#description}}<h{{h}}>{{description}}</h{{h}}>{{/description}}<span class="conf-name"> {{name}}</span></div>
+        <ul class="conf-child-container"></ul>
+        {{#appending}}<button class="add">+</button>{{/appending}}
+    </div>
+</script>
+<script type="text/template" id="configuration-li-template">
+    <li>
+        <div class="conf-li-container"></div>
+        {{#removing}}
+        <span class="element-controls">
+            <span class="delete" l10n:title="/texts/header/connection#delete" title="delete" data-name="{{name}}">
+                <span class="cross">&times;</span>
+                <span class="inner"></span>
+            </span>
+        </span>
+        {{/removing}}
+    </li>
+</script>
+<script type="text/template" id="configuration-input-text-template">
+    <div class="configuration-input-text">
+        <label class="conf-label-title">{{#description}}{{description}}{{/description}}<span class="conf-name"> {{name}}:</span><input type="text" value="{{value}}"/>
+        </label>
+    </div>
+</script>
+<script type="text/template" id="configuration-checkbox-template">
+    <div class="configuration-input-text">
+        <label class="conf-label-title">{{#description}}{{description}}{{/description}}<span class="conf-name"> {{name}}:</span><input type="checkbox" {{#value}}checked="checked"{{/value}}/>
+        </label>
+    </div>
+</script>
+<script type="text/template" id="configuration-select-template">
+    <div class="configuration-input-text">
+        <label class="conf-label-title">{{#description}}{{description}}{{/description}}<span class="conf-name"> {{name}}:</span>
+            <select>
+                {{#items}}
+                <option value="{{item}}" {{#selected}}selected="selected"{{/selected}}>{{item}}</option>
+                {{/items}}
+            </select>
+        </label>
+    </div>
+</script>
+                </div>
+
+                <div class="localstorage content loading">
+                    <div class="">
+    <link rel="widget" href="/tools/localstorage" defer="bus://overlay.localstorage">
+    <ul>
+        <li class="key">{</li>
+        <li>
+            <ul class="list">
+            </ul>
+        </li>
+        <li class="key">}</li>
+    </ul>
+
+    <script type="text/template" id="localstorage-node-parent-template">
+        <li><span class="key">{{key}} : {</span></li><li><ul class="node {{key}}"></ul><li><span class="key">},</span></li></li>
+    </script>
+    <script type="text/template" id="localstorage-node-childless-template">
+        <li><span class="key">{{key}} :</span> "{{value}}",</li>
+    </script>
+</div>
+                </div>
+
+                <div class="localization content">
+                    <div class="localization-browser clearfix">
+    <link rel="widget" href="/tools/localization" defer="bus://overlay.localization">
+    <aside class="tree">
+        <span class="refresh" l10n:title="/texts/tools/tools#refresh" title="Refresh tree"></span>
+    </aside>
+    <section class="pad">
+        <div class="editor empty">
+            <h3 class="filename"></h3>
+
+            <form class="form" action="" novalidate="">
+                <link rel="widget" href="/tools/localization/form" defer="bus://overlay.localization">
+                <div class="button-wrapper">
+                    <button type="submit" class="button approve"><link rel="l10n-static" href="/texts/tools/tools#save-changes"></button>
+                </div>
+            </form>
+        </div>
+    </section>
+    <script type="text/template" id="localization-form-template">
+        <div class="field field-wrapper" ><label for="{{key}}">{{key}}</label><br/><textarea class="data" required="required" name="{{key}}" id="{{key}}">{{value}}</textarea></div>
+    </script>
+</div>
+                </div>
+
+                <div class="subscriptions content">
+                    <link rel="service" href="/subscriptions">
+                    <link rel="service" href="/events/timeout" data-args="command.subscriptions.unsubscribe, 2000, overlay, '', subscriptions" defer="bus://authorized">
+<link rel="service" href="/events/timeout" data-args="command.subscriptions.subscribe, 2000, overlay, '', subscriptions" defer="bus://authorized">
+
+<div class="context">
+    <link rel="widget" href="/stylist" data-args="event.subscriptions.subscribed, event.subscriptions.unsubscribed, subscribed" defer="bus://authorized">
+    <link rel="widget" href="/stylist" data-args="event.subscriptions.unsubscribed, event.subscriptions.subscribed, unsubscribed" defer="bus://authorized">
+    <link rel="widget" href="/stylist" data-args="event.subscriptions.*.unsubscribed, event.subscriptions.unsubscribed, all" defer="bus://authorized">
+    <link rel="widget" href="/stylist" data-args="event.subscriptions.*.subscribed, event.subscriptions.subscribed, all" defer="bus://authorized">
+
+    <div class="message-container">
+        <p class="message one-notice">
+            You will no longer receive
+
+            <link rel="widget" href="/events/binder" data-container="next" data-args="text, event.subscriptions.unsubscribed" defer="bus://authorized">
+            “<span class="notification-name">Notification Name</span>”
+
+            email notifications.
+        </p>
+        <p class="message all-notices">
+            You are unsubscribed from all emails.
+        </p>
+
+        <p class="message resubscribed">
+            You are subscribed back to
+            <link rel="widget" href="/events/binder" data-container="next" data-args="text, event.subscriptions.subscribed" defer="bus://authorized">
+            “<span class="notification-name">Notification Name</span>”
+            email notifications.
+        </p>
+
+        <p class="message resubscribed-all">You are subscribed back to all emails.</p>
+    </div>
+    <div class="button-container">
+        <button class="big approve button" type="button">
+            <link rel="widget" href="/domevents/emitter" data-args="close">
+            Begin Your Journey
+        </button>
+    </div>
+    <div class="notice-footer">
+        <div class="wrapper clearfix">
+            <div class="unsubscribe-all-wrapper one-notice">
+                <a href="#" class="unsubscribe-all">
+                    <link rel="widget" href="/events/proxy" data-args="command.subscriptions.unsubscribe, *" defer="bus://authorized">
+                    Unsubscribe me from all emails
+                </a>
+            </div>
+            <div class="resubscribe-wrapper">
+                Unsubscribed by accident?
+                <a href="#" class="resubscribe">
+                    <link rel="widget" href="/subscriptions/resubscriber" defer="bus://authorized">
+                    Re-subscribe
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+                </div>
+
+                <div class="email-confirmation content">
+                    <div class="mine confirmation-container">
+
+    <link rel="service" href="/events/timeout" data-args="event.overlay.email-confirmation.opened, 5000, overlay, event.overlay.email-confirmation.closed" defer="bus://event_notifications_email_confirmation_sent">
+    <link rel="widget" href="/stylist" data-args="event.notifications.email.confirmation.sent, overlay:closed, sent" defer="bus://event_overlay_email-confirmation_opened">
+
+    <h1>Welcome to TripTogether!</h1>
+    <div class="confirmation">
+        <form class="form">
+            <link rel="widget" href="/profile/identity">
+
+            <l10n url="/texts/doi#confirmation">To complete your registration, please click on the confirmation link we have sent to</l10n>
+
+            <div class="email phrase">
+    <div class="editable">
+        <link rel="widget" href="/profile/inputs">
+        <div class="editor">
+            <p class="email field field-wrapper">
+                <link rel="widget" href="/events/binder" data-container="next" data-args="email, authorized" defer="bus://authorized">
+                <link rel="widget" href="/events/binder" data-container="next" data-args="email, identity:changed" defer="bus://authorized">
+                <link rel="widget" href="/forms/inputs/connect" data-args="email" data-container="next">
+                <input class="data" type="email" pattern=".+@.+\..+" name="email" tabindex="1" required="" placeholder="Your email">
+            </p>
+
+            <p class="button-wrapper">
+                <button class="default button" type="submit"><l10n url="/texts/common#save">Save</l10n></button>
+            </p>
+        </div>
+
+        <link rel="widget" href="/events/binder" data-container="next" data-args="email, authorized" defer="bus://authorized">
+        <link rel="widget" href="/events/binder" data-container="next" data-args="email, identity:changed" defer="bus://authorized">
+        <span class="text phrase-email"></span>
+        <span class="hint"></span>
+    </div>
+</div>
+
+            <p>
+            <span class="pseudo-link">
+                <link rel="widget" href="/events/proxy" data-args="command.notifications.email.confirmation.send" defer="bus://authorized">
+                <l10n url="/texts/doi#resend">Resend confirmation</l10n>
+            </span>
+            </p>
+        </form>
+    </div>
+    <div class="sent">
+        <l10n url="/texts/doi#sent-to">The confirmation message has been resent to</l10n>
+        <link rel="widget" href="/events/binder" data-container="next" data-args="email, authorized" defer="bus://authorized">
+        <link rel="widget" href="/events/binder" data-container="next" data-args="email, identity:changed" defer="bus://authorized">
+        <strong></strong>
+    </div>
+</div>
+                </div>
+
+                <div class="paidimages content">
+                    <div class="context">
+    <aside>
+        <div class="header"><link rel="l10n-static" href="/texts/paidimages/context#company-select"></div>
+        <div class="filter processing">
+            <link rel="widget" href="/paidimages/features" defer="bus://overlay.paidimages">
+            <link rel="widget" href="/paidimages/filter" data-args="feature" defer="dom://features-ready">
+            <ul>
+                <li><a href="#">Standart</a></li>
+            </ul>
+            <script type="text/html" id="paidimages-feature-template">
+                <li><a href="#" data-feature="{{name}}" data-start="{{distribution.start}}" data-end="{{distribution.end}}">{{name}}</a></li>&emsp;
+            </script>
+        </div>
+    </aside>
+    <section>
+        <div class="header">
+            <div class="company">
+                <link rel="widget" href="/paidimages/company" defer="bus://overlay.paidimages">
+                <span class="name"><link rel="l10n-static" href="/texts/paidimages/context#standart"></span>
+                <span class="calendar popup-container">
+                    <link rel="widget" href="/popup">
+                    <link rel="widget" href="/forms/inputs/datepicker" data-args="false,range,bottom,b d Y">
+                    <input id="result-date" type="text" required="required" readonly="readonly" class="hidden result data popup-trigger">
+                    <input type="hidden" class="start" name="start" tabindex="1">
+                    <input type="hidden" class="end" name="end" tabindex="1">
+                    <!--div class="picker popup top"></div-->
+                </span>
+            </div>
+        </div>
+        <div class="list processing">
+            <link rel="widget" href="/paidimages/items" defer="bus://overlay.paidimages">
+            <div class="items">
+                <ol class="gridly">
+                    <link rel="widget" href="/sortable" defer="bus://overlay.paidimages" data-args=">*:visible:not(.shad):not(.add)">
+                    <link rel="widget" href="/paidimages/reorder" defer="bus://overlay.paidimages">
+                    <li class="add" title="Add item">
+                        <span class="icon"></span>
+                    </li>
+                    <li class="shad separate"></li>
+                    <li class="shad"></li>
+                    <li class="shad"></li>
+                    <li class="shad"></li>
+                    <li class="shad"></li>
+                    <li class="shad"></li>
+                </ol>
+                <script type="text/html" id="paidimages-item-template">
+                    <li draggable="true" title="{{name}}" data-id="{{id}}" class="loading item {{#feature}}{{feature}} {{/feature}}{{^feature}}no-feature {{/feature}} {{hidden}}">
+                        <span class=v-align><img no-defer src="{{image}}" alt="{{name}}"></span>
+                                            <span class="delete" title="Delete">
+                                                <span class="wrapper">
+                                                    <span class="inner"></span>
+                                                </span>
+                                            </span>
+                        {{#price}}<span title="Cost: {{price}} cr" class="price">{{price}}</span>{{/price}}
+                    </li>
+                </script>
+            </div>
+            <div class="triggers">
+                <link rel="widget" href="/paidimages/filter" data-args="type" defer="dom://start-trigger">
+                <ul class="repositories">
+                    <script type="text/html" id="paidimages-triggers-template">
+                        <li><a data-type="{{name}}" href="#">{{label}}</a></li>
+                    </script>
+                </ul>
+            </div>
+            <div class="triggers">
+                <link rel="widget" href="/paidimages/filter" data-args="gender" defer="dom://start-trigger">
+                <ul class="genders">
+                    <li><a data-gender="" href="#"><link rel="l10n-static" href="/texts/paidimages/context#default-gender"></a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+</div>
+                </div>
+
+                <div class="create-paiditem content">
+                    <link rel="widget" href="/paidimages/forms/item" defer="bus://overlay.create-paiditem">
+<div class="context forms-wrapper">
+    <h2><link rel="l10n-static" href="/texts/paidimages/create#new-smile"></h2>
+    <form class="create-item" novalidate="novalidate">
+        <div class="field-wrapper vgifts smiles">
+            <label for="name"><link rel="l10n-static" href="/texts/paidimages/create#name"></label>
+            <input type="text" name="name" id="name" required="required">
+        </div>
+        <div class="field-wrapper vgifts smiles">
+            <label for="price"><link rel="l10n-static" href="/texts/paidimages/create#price"></label>
+            <input type="number" name="price" id="price" autocomplete="off" min="0" required="required">
+        </div>
+        <div class="field-wrapper vgifts smiles">
+            <input type="hidden" name="feature" id="feature" readonly="" value="">
+        </div>
+        <div class="field-wrapper vgifts smiles">
+            <input type="checkbox" class="hidden" name="enabled" id="enabled" checked="">
+        </div>
+        <button class="change button approve tt-style" type="submit" disabled="disabled">create</button>
+    </form>
+    <div class="uploader-form">
+        <link rel="widget" href="/forms/uploader" data-args="ieapi/images" defer="bus://overlay.create-paiditem">
+        <form class="uploader" novalidate="novalidate">
+            <div class="file" data-validator="ui.forms.fields.file" data-message-invalid="error loading photo" data-message-content-type="you can upload only PNG, JPEG or GIF files" data-message-size="photo size should be less than 10MB" data-min-width="100" data-min-height="100" data-validate-url="/images" data-size="10MB">
+                <input type="file" size="1" accept="image/png, image/jpeg, image/gif, image/jpg" title="" required="required">
+            </div>
+        </form>
+        <div class="field-wrapper uploaded-file vgifts smiles">
+            <img no-defer="" class="uploaded">
+            <input type="hidden" class="value" name="image" required="required">
+        </div>
+    </div>
+</div>
+                </div>
+
+                <div class="add-company content">
+                    <div class="context">
+    <form class="form current" action="" novalidate="">
+        <p class="field-wrapper field new">
+            <label><link rel="l10n-static" href="/texts/paidimages/company#name"></label><br>
+            <button class="change button approve tt-style"><link rel="l10n-static" href="/texts/paidimages/create#add"></button>
+            <input name="name" class="data" type="text" required="required">
+        </p>
+    </form>
+</div>
+                </div>
+
+                <div class="blacklist content">
+                    <div>
+    <h2 class="title"><link rel="l10n-static" href="/texts/tools/blacklist#blacklist"></h2>
+</div>
+<div class="add disabled">
+    <link rel="widget" href="/tools/blacklist" defer="bus://overlay.blacklist"> 
+    <form class="blacklist">
+        <div class="autocomplete">
+            <link rel="widget" href="/forms/inputs/autocomplete/base" data-args="7, 3, false" defer="bus://overlay.blacklist">
+            <link rel="widget" href="/forms/inputs/autocomplete/blacklist" data-args="5" defer="bus://overlay.blacklist">
+            <label for="address"><link rel="l10n-static" href="/texts/tools/blacklist#address"></label>
+            <input id="address" type="text" name="address" class="address" placeholder="Email or phone">
+            <input type="hidden" name="channel" class="channel">
+        </div>
+        <div>
+            <div class="add">
+                <button type="submit" class="control button approve"><link rel="l10n-static" href="/texts/tools/blacklist#add"></button>
+            </div>
+            <div class="remove">
+                <button type="submit" class="control button alarm"><link rel="l10n-static" href="/texts/tools/blacklist#remove"></button>
+            </div>
+        </div>
+    </form>
+</div>
+                </div>
 
 			</div>
 
@@ -1252,51 +3343,68 @@
 
 </div>
 
-	        <div class="app-notification error">
+	        <div class="app-notification">
 	<div class="container">
 		<div class="inner">
 			<div class="frame">
-				<div class="notes-container purchase">
-					<p><l10n url="/texts/shared/notification#payment">It seems there is a slight problem and your payment was not accepted. Please try again later.</l10n></p>
+                <div class="notes-container">
+					<div class="message"></div>
+                    <div class="close-notification">
+                        <button type="submit" class="button default">
+                            <link rel="widget" href="/domevents/emitter" data-args="close">
+                            <l10n url="/texts/notification#close">Close</l10n>
+                        </button>
+                    </div>
 				</div>
 
-				<div class="notes-container upload">
-					<p><l10n url="/texts/shared/notification#unavailable">Sorry, our site is temporarily unavailable. Please try again later.</l10n></p>
-				</div>
-
-				<div class="notes-container internal">
-					<p><l10n url="/texts/shared/notification#unavailable">Sorry, our site is temporarily unavailable. Please try again later.</l10n></p>
-				</div>
-
-                <div class="notes-container suspended">
-                    <p><l10n url="/texts/shared/notification#suspended">Your account has been suspended.</l10n></p>
-                </div>
 			</div>
 		</div>
 	</div>
 </div>
 
-            <section class="helper-container" l10n:title="/texts/shared/helper/common#title" title="Click to close this message">
-    <link rel="widget" href="/helper">
-    <article class="hint l10n-save">
-        <h1><l10n url="/texts/shared/helper/l10n-save#title">Save your changes</l10n></h1>
-        <l10n url="/texts/shared/helper/l10n-save#text">
+            <section class="helper-container" l10n:title="/texts/helper/common#title" title="Click to close this message">
+    <link rel="widget" href="/hints">
+    <article class="hint content-operator">
+        <h1><l10n url="/texts/helper/l10n-save#title">Save your changes</l10n></h1>
+        <l10n url="/texts/helper/l10n-save#text">
 		<p>You can save changed texts by pressing <strong class="accent">Ctrl+Shift+Enter</strong></p>
 	</l10n>
     </article>
     <article class="hint enable-operator">
-        <h1><l10n url="/texts/shared/helper/enable-operator#title">Welcome</l10n></h1>
-        <l10n url="/texts/shared/helper/enable-operator#text">
+        <h1><l10n url="/texts/helper/enable-operator#title">Welcome</l10n></h1>
+        <l10n url="/texts/helper/enable-operator#text">
 		<p>You can enter operator mode by pressing gear button in the top panel.</p>
-		<p><button class="apply-roles default button" type="button"><span class="admin-icon"></span></button></p>
 	</l10n>
+        <p>
+            <button class="apply fixed default button" type="button">
+                <span class="icon"></span>
+            </button>
+        </p>
     </article>
 </section>
 
             <script type="text/template" id="smile-template">
-    <img src="/i/chat/sm/{{name}}.gif" class="smile" title="{{code}}" alt="{{code}}" data-code="{{code}}" />
+    <img src="{{host}}{{image}}.{{extension}}" class="smile" title="{{name}}" alt="{{name}}" data-code="{{name}}" />
 </script>
-        </article>
+<script type="text/template" id="phrase-languages-template">
+{{first}}{{#langs}},&nbsp;{{.}}{{/langs}}{{#last}}&nbsp;<l10n url="/texts/common#and">and</l10n>{{/last}}&nbsp;{{last}}
+</script>
+<script type="text/template" id="l10n-template">
+    <link rel="l10n" href="{{src}}" custom="true" />
+</script>
+<script type="text/template" id="geocoding-result-template">
+{{#name}}<span class="name">{{name}}</span>{{/name}}{{#country}}<br /><span class="country">{{#state}}{{state}}, {{/state}}{{country}}</span>{{/country}}
+</script>
+
+        </section>
         <div id="fb-root"></div>
+        <script type="text/mustache" id="favicon-counter-template">
+            <svg version="1.1"
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+                <polygon points="{{line}}" fill="#de4920" />
+                <text x="{{textIndent}}" y="14" style="fill: #fff; font-weight: bold; font-size: 10px; font-family: Calibri, Arial, sans-serif;">{{count}}</text>
+            </svg>
+        </script>
     
 </body></html>
