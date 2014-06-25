@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the spectralactivities.in privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207221112id_/http%3A//www.spectralactivities.in/content.php%3Fid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectralactivities.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105548id_/http%3A//spectralactivities.in/content.php%3Fid%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
+
+| 
 
 Privecy Policy
 
@@ -47,3 +49,6 @@ Google's use of the DoubleClick cookie enables it and its partners to serve ads 
 Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
 
 Other Advertisers Like [Chitika](http://www.chitika.com/),[Infolinks](http://www.infolinks.com/) or [Media.net](http://www.media.net/) also uses cookies to serve their ads on our website.
+
+|   
+---|---|---
