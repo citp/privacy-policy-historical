@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224030420id_/http%3A//houseofnames.com/wiki/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102034id_/http%3A//houseofnames.com/wiki/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Knowledge Base, HouseofNames.com
 
@@ -81,12 +81,6 @@ We may send you electronic communications such as welcome letters, billing remin
 
 We use AddThis.com, a third party tool to provide an email, facebook, twitter and other social network distribution of links to our pages. Use of this third party tool is not covered by this Privacy Policy and houseofnames.com nor Swyrich Corporation can be in no way responsible such use. You encourage you to read their [privacy policy](http://www.addthis.com/privacy) before use.
 
-### Gift Card Program:
-
-Gift Card purchases require the customer's and recipient's E-Mail Address. These E-Mail addresses, and the E-Mail content, are not collected, stored, tracked, used for promotional purposes, or linked to any other data collected by our site.  Comments written in the E-Mail message are not censored in anyway and are deemed confidential to both parties. Please keep in mind that E-Mail is unsecured communication. We are not responsible for any personal identifiable information, or type of comment, you choose to send within this E-Mail.
-
-A one-time Gift Card E-Mail message is sent to the recipient upon completion of the purchase.
-
 ### On-Line Ordering:
 
 Collected data may include Name, Telephone Number, Billing Address, Shipping Address, Payment Information, E-Mail Address, a Password of your making for tracking orders on-line, a Consignee Identifier, a Recipient E-Mail Address, Gift Card ID and Password, and whether to opt-out from future E-Mail newsletters.
@@ -119,7 +113,7 @@ Access to personal information stored by our web site is restricted. Stored pers
 
 * * *
 
-We reserve the right to disclose personal identifiable information as required by law, and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our site.
+We reserve the right to disclose your personal identifiable information when requested to do so by a governmental or regulatory agency, or when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, law, court order, or legal process.
 
 ## Newsletters
 
@@ -170,9 +164,9 @@ Any trademark referenced on this site is the property of the trademark owner. Co
 When you receive newsletters or promotional E-Mail from us, we may use a simple web beacon to determine whether the E-Mail has been opened. This beacon is not used to collect or validate personal information.
 
   
-This page was last modified on 1 March 2011 at 14:33.
+This page was last modified on 10 April 2014 at 23:23.
 
-©2000-2013 Swyrich Corporation. See [Terms of Use](http://www.houseofnames.com/xq/asp/kbId.360/title.Terms+of+Use+Policy/qx/knowledgebase.htm) for details.  
+©2000-2014 Swyrich Corporation. See [Terms of Use](http://www.houseofnames.com/xq/asp/kbId.360/title.Terms+of+Use+Policy/qx/knowledgebase.htm) for details.  
 houseofnames.com is an internet property owned by Swyrich Corporation.
 
 | 
