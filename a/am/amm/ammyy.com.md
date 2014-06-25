@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammyy.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904001338id_/http%3A//www.ammyy.com/en/priv_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammyy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625205133id_/http%3A//www.ammyy.com/en/priv_policy.html) for the most accurate reproduction.*
 
 # Ammyy Admin - Privacy Policy.
 
@@ -8,7 +8,7 @@ Thank you for visiting Ammyy’s website located at [www.ammyy.com](http://www.a
 
 **Acquisition of information**
 
-You may visit our site without identifying yourself or revealing any personal information. Our site does collect information such as domain, IP address, browser type and operating system for site trends and statistics, but this information does not personally identify you. 
+You may visit our site without identifying yourself or revealing any personal information. Our site does collect information such as domain, IP address, browser type and operating system for site trends and statistics, but this information does not personally identify you.
 
 We may ask you to provide personally identifiable information if you are signing up as our reseller and partner. Some information about your company, its size or other details may be required by us via email while providing pre-sale support.
 
