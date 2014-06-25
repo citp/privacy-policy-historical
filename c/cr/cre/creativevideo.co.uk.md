@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the creativevideo.co.uk privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901122421id_/http%3A//www.creativevideo.co.uk/index.php%3Ft%3DhelpCentre/page/22/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativevideo.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140504id_/http%3A//cvp.com/index.php%3Ft%3DhelpCentre/page/22/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # CVP website security and privacy policy
-
-Website security and privacy policy
-
-We take your security and privacy very seriously. This document details the information about you that we collect,  how we use it and the steps we take to ensure that it is kept secure. If you have any questions about this privacy policy or the security of this website please contact us.
-
-By using this web site you consent to us collecting and using personal information about you as specified in this policy. We may update this Privacy Policy from time to time, so please check back here regularly.
-
-|   
----|---  
-|   | 
 
 **Server security**
 
@@ -26,16 +16,14 @@ All data stored is in compliance with current data protection act legislation.
 
 **The information we collect**
 
-We store the information you supply when becoming a member of www.cvp.com and / or placing an order online, however we do not store your credit card information.  We do collect and store Information related to your visits to this site (such as which pages you visit, how often you visit).  All information collected is encrypted and stored securely.
+We store the information you supply when becoming a member of cvp.com and / or placing an order online, however we do not store your credit card information.  We do collect and store Information related to your visits to this site (such as which pages you visit, how often you visit).  All information collected is encrypted and stored securely.
 
 Use of stored information
 
-We use gathered information to help us improve our web site. We will also use your information to keep you informed of special offers, money off promotions, products or services that we think might interest you. We do not share your information with third parties.  
-  
----|---|---  
-  
-By supplying us with your information you confirm that you do not consider use of your information in accordance with this Privacy Policy to be a breach of any of your rights under the Telecommunications (Data Protection and Privacy) Regulations 1999.
+We use gathered information to help us improve our web site. We will also use your information to keep you informed of special offers, money off promotions, products or services that we think might interest you. We do not share your information with third parties.
 
-You should be aware that if we are requested by the police or any regulatory or government authority investigating suspected illegal activities to provide your personal details and / or information concerning your activities whilst visiting this site, we shall do so.
+This website uses Google AdWords
 
-Thank you for taking the time to read our privacy policy.
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the cvp.com website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can[ opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
