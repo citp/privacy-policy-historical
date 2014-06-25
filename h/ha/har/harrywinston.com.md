@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the harrywinston.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815205251id_/http%3A//www.harrywinston.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrywinston.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101829id_/http%3A//www.harrywinston.com/privacy) for the most accurate reproduction.*
 
-# privacy
+# Privacy Policy
 
-### Harry Winston Privacy Policy: Your Privacy Rights
+###  Harry Winston Privacy Policy: Your Privacy Rights
 
 Harry Winston knows that your privacy is important to you, and we want you to know that it is important to us too. We created this Privacy Policy to explain the types of information we collect through our Web sites (on which it is linked to in the footer) and the various social networking platforms that we use (each, a “Site”), as well as in our retail salons. This Privacy Policy describes how we will use, disclose and protect this information once it is collected, and how you can opt-out of some of our uses of your information. 
 
-### Here are a few general principles to keep in mind as you read through this Policy:
+###  Here are a few general principles to keep in mind as you read through this Policy:
 
   * The Site and our retail salons are owned and operated by Harry Winston Diamond Corporation and its corporate affiliates (referred to collectively in this policy as “we,” “us,” “our” and other similar pronouns). 
   * California’s Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternatively, businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes unless the customer has opted-in to such information sharing. Accordingly, we will not share your personal information with third parties other than our affiliates for the third party’s own marketing purposes unless you opt-in, for example by checking a consent check box when providing us with your information. We will, however, share your personal information with our affiliates for marketing purposes. To request a list of the affiliates with whom we have shared your personal information for marketing purposes in the last year, write to us at Harry Winston, 718 Fifth Avenue, New York, NY 10019 and include the words “California Shine The Light Request” in the “Regarding” line. 
@@ -16,11 +16,11 @@ Harry Winston knows that your privacy is important to you, and we want you to kn
 
 
 
-### Opt In and Opt Out
+###  Opt In and Opt Out
 
-You may have the right to opt in to or opt out of certain of our uses of your Personal Information. For example, when you are asked to provide Personal Information on this Site or at our salons, you may have the opportunity to elect to, or not to, receive messages from us by e-mail, text message, phone or postal mail. You may tell us that you do not want to receive our promotional messages by visiting the marketing preferences area of or Web site or by sending us your written request along with your name, address, e-mail and phone number to: [clientservices@harrywinston.com](mailto:clientservices@harrywinston.com) , Harry Winston, Inc., Privacy Officer, 718 Fifth Avenue, New York, NY 10019, or by calling (212) 315-7900. You can also opt-out of our promotional emails by clicking on the opt-out link within the e-mail you receive. To opt out of our SMS messages, please text STOP to the applicable short code. Please understand that it may take us time to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. Also, to stop receiving promotional messages from third parties who already have your contact information, please contact them directly. 
+You may have the right to opt in to or opt out of certain of our uses of your Personal Information. For example, when you are asked to provide Personal Information on this Site or at our salons, you may have the opportunity to elect to, or not to, receive messages from us by e-mail, text message, phone or postal mail. You may tell us that you do not want to receive our promotional messages by visiting the marketing preferences area of or Web site or by sending us your written request along with your name, address, e-mail and phone number to: [ clientservices@harrywinston.com](mailto:clientservices@harrywinston.com) , Harry Winston, Inc., Privacy Officer, 718 Fifth Avenue, New York, NY 10019, or by calling (212) 315-7900. You can also opt-out of our promotional emails by clicking on the opt-out link within the e-mail you receive. To opt out of our SMS messages, please text STOP to the applicable short code. Please understand that it may take us time to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. Also, to stop receiving promotional messages from third parties who already have your contact information, please contact them directly. 
 
-### What information is collected on this Site?
+###  What information is collected on this Site?
 
 User-Provided Information
 
@@ -36,7 +36,7 @@ User-Provided Information
 
 A **“tell-a-friend”** tool provided on the Site and/or in our e-mails allows you to send information about our products and offerings to another person. You may also be able to purchase gifts for another person on our Site or at our salons. When you use these offerings, we ask you for the name and contact information of the other person, and that information will be protected pursuant to this privacy policy. We will not use the other person’s information for additional purposes without their consent. 
 
-### Site Usage Information
+###  Site Usage Information
 
 As is the case with many Web sites, our servers automatically collect your IP address when you visit our Site, and we may associate that with your domain name or that of your Internet access provider. We may also capture certain “clickstream data” pertaining to your Site usage. Clickstream data includes, for example, information about your computer or device, Web browser and operating system and their settings, the referring page that linked you to the Site, the pages, content or ads you see or click on during your visit and when and for how long you do so, items you download, the next Web site you visit when you leave the Site, and any search terms you have entered on the Site or a referral site. 
 
@@ -51,7 +51,7 @@ In addition, we may deploy various tracking technologies on the Site to collect 
 
 These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Site Usage Information to other information about you, including your Personal Information. 
 
-### How is your information used?
+###  How is your information used?
 
 We or our service providers may use the information we collect from and about you to perform the following business functions: 
 
@@ -75,11 +75,11 @@ To perform the above functions, we may match information collected from you thro
   
 
 
-### Social Networking
+###  Social Networking
 
 We maintain presence on several social networking and blogging platforms, and we also incorporate some third party social networking features onto our Site. Through these platforms and features, we receive some Personal Information and some Site Usage Information about you, and this Privacy Policy applies to that information as well. In addition, third party social networking platforms and blogging platforms have their own privacy policies which explain how the third parties that provide them will use and protect your information. In accordance with those policies (and your privacy settings within your social networking accounts) information about your activities on our Site (such as “Mary Jane “likes” our Diamond Tassel necklace”) may be published to your social network. 
 
-### Do we share Personal Information and Site Usage Information with others?
+###  Do we share Personal Information and Site Usage Information with others?
 
 Yes. We may share the information we collect on the Site and in our salons with others for a variety of reasons. In addition to the kinds of information sharing you might expect, such as sharing with third parties who need your information in order to provide services to us (or on our behalf and subject to confidentiality commitments) and sharing what you voluntarily post to public areas on the Site with other Site users, we may share your information: 
 
@@ -94,27 +94,27 @@ Yes. We may share the information we collect on the Site and in our salons with 
 
 In addition, we may share non-personally identifiable Site Usage Information (including aggregate data) with others, for their own use, in a form that does not include your name or contact information. 
 
-### Text Message Service
+###  Text Message Service
 
 We may seek to send messages to you on your wireless device via short message service (“Text Messaging”). If you sign up for Text Messaging, you agree to receive text messages from Harry Winston at the address you provide for such purposes unless and until you elect not to receive such messages by texting STOP to the applicable short code. You may opt out of Text Messaging at any time by texting STOP to the applicable short code, but your wireless carrier’s standard rates will apply to any messages you receive. Your opt-out will be effective once we send you a text confirmation of your opt-out. You represent that you are the owner or authorized user of the device you use to sign up for Text Messaging, and that you are authorized to approve the applicable charges. You must be 18 years of age or older and reside in the United States to use our Text Messaging. You must first register and provide all required Personal Information, which may include, for example, your name, text address, wireless carrier, and billing information (if fees are applicable to the Text Messaging), which may be either your credit card information or mobile service carrier information. We may also obtain the date, time and content of your messages in the course of your use of Text Messaging. We will use the information we obtain in connection with our Text Messaging in accordance with this Privacy Policy. If fees are charged to your wireless account invoice, we may provide information to your carrier about them. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. We may also access the content of your account and/or wireless account with your carrier for the purpose of identifying and resolving technical problems and/ or service-related complaints. 
 
-### Your Access Rights
+###  Your Access Rights
 
 You may review, update or modify certain of the Personal Information that is stored in your user account on the Site (if you have one) by logging in to the “My Account” or similar area of the Site or by contacting us using the “Contact US” information below. We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to delete your information is subject to our records retention policies. 
 
-### Security
+###  Security
 
 While we endeavor to protect the security and integrity of sensitive Personal Information collected via this Site, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that any information, during transmission through the Internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. If you correspond with us by e-mail, text message, or using Web forms like a “contact us” feature on our Site, you should be aware that your transmission might not be secure. A third party could view the information you send in transit by such means. We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission. If you create an account on our Site, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any activity that occurs using your account credentials, whether or not you authorized such activity. Please notify us of any unauthorized use of your password or account or any other breach of security. If we believe that the security of your Personal Information in our care may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we will endeavor to notify you as promptly as possible under the circumstances. If we have your e-mail address, we may notify you by e-mail. You consent to our use of e-mail as a means of such notification. If you prefer for us to use the U.S. Postal Service to notify you in this situation, please e-mail us at [clientservices@harrywinston.com.](mailto:clientservices@harrywinston.com)
 
-### “Linked-To” Web Sites
+###  “Linked-To” Web Sites
 
 The Site may contain links, banners, widgets or advertisements that lead to other Web sites. We are not responsible for these other sites, and so their posted privacy policies (not this Policy) will govern the collection and use of your information on them. We encourage you to read the privacy statements of each Web site visited after leaving the Site to learn about how your information is treated by others. 
 
-### Changes to this Privacy Policy
+###  Changes to this Privacy Policy
 
 We may change this Policy from time to time. When we do, we will let you know by posting the changed Policy on this page with a new “Last Updated” date. In some cases (for example, if we significantly expand our use or sharing of your Personal Information), we may also tell you about changes by additional means, such as by sending an e-mail to the e-mail address we have on file for you. In some cases, we may request your consent to the changes. 
 
-### Contact Us
+###  Contact Us
 
 If you have any questions or comments regarding our privacy practices, you may contact us at: 
 
