@@ -1,9 +1,12 @@
-<!--The following is the downloaded HTML source of the thebaseballcube.com privacy policy that was archived on 2013-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226124527id_/http%3A//www.thebaseballcube.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thebaseballcube.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625142110id_/http%3A//www.thebaseballcube.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Privacy Policy - The Baseball Cube</title>
 	<link rel="stylesheet" href="http://www.thebaseballcube.com/code/tbc12.css">
+	<link rel="stylesheet" href="http://www.thebaseballcube.com/code/menuBar.css">
+	
+
 	<!--[if IE]>
 		<link rel="stylesheet" type="text/css" href="http://www.thebaseballcube.com/code/tbc12_ie.css" media="screen" />
 	<![endif]-->
@@ -22,13 +25,14 @@
 	
 	</script>	
 	
-		<script> 
-var a = Math.floor(Math.random()*9999999999+1) 
-var random_number = a; 
-</script> 
+	<script> 
+		var a = Math.floor(Math.random()*9999999999+1) 
+		var random_number = a; 
+	</script> 
+
 	<meta name="description" content="">
 </head>
-<!--<body style="background-IMAGE:url('http://www.thebaseballcube.com/cards/players/.jpg');opacity:0.4">-->
+
 <body>
 
 <div id="fb-root"></div>
@@ -41,80 +45,190 @@ var random_number = a;
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <script src="http://www.thebaseballcube.com/code/tbc.js"></script>
+<script src="http://www.thebaseballcube.com/code/sortable.js"></script>
 
 
-		
-		
 
-	
+
+
 	<div class="pageWrapper">
 		<div class="headerWrapper">
+		
+		<!--Logo Section-->
 			<div class="header">
 				<a href="../../../../" style="margin-left:-11px;margin-top:2px;padding-left:16px"><img src="../../../images/tbc_logo_2013.jpg" border="0" height="50"></a>
 
 			</div>
-			<div class="headerAd">
 			
+			<div class="header_topMenu" style="margin-top:14px">
 			<!--search box-->
-				<form action="../../../search.asp" method="post" name="frmSearch2">&nbsp;&nbsp;&nbsp; <br>
-				<input name="search" class="topHeaderSearch" id="search" value="Search TBC" title="Hit Enter to search or type &quot;help&quot; for search tips" onclick="prepareSearch()"> 
-				<input type="submit" class="searchButton" id="searchButton" value="Search">
-				
-				&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/thebaseballcube" target="_blank"><img src="../../../images/twitterBlue.jpg" align="absmiddle" title="Follow The Baseball Cube for site updates and random commentary"></a>&nbsp;&nbsp;
-				<a href="../../../about/updates.asp">Latest updates</a>
-				</form>
-			
-				
-			</div>
-		</div>
-		
-	<div style="clear:both;display:inline;float:left;width:1200px">
-	<!--Site Sections-->
+				<div style="float:left;display:inline;margin-top:6px">
+				<form action="../../../search.asp" method="post" name="frmSearch2">
+				<input name="search" class="header_Search" id="search" value="Search TBC" title="Hit Enter to search or type &quot;help&quot; for search tips" onclick="prepareSearch()" onmouseover="this.focus();this.value=''"> 
+				<input type="submit" class="header_Search_button" id="searchButton" value="Go">
 
-		<div class="topHeaderOption">
-			<a href="../../../../players/">Players</a>
-		</div>
-		<div class="topHeaderOption">
-			<a href="../../../../scores/">Games</a>
-		</div>
-		<div c="" <div="" class="topHeaderOption">
-			<a href="../../../../teams/rosters.asp">Rosters</a>
-		</div>		
-		<div class="topHeaderOption">
-			<a href="../../../../players/tranx.asp">Transactions</a>
-		</div>
-		<div class="topHeaderOption">
-			<a href="../../../../players/injuries.asp">Injuries</a>
-		</div>		
-	
-		<div class="topHeaderOption">
-			<a href="../../../../draft/">Draft</a>
+				</form></div>
+				
+				<div class="headerMenuBar">
+
+					<li style="background-color:#55acee;font-family:" monterrat'=""><a href="https://twitter.com/thebaseballcube">Twitter</a></li>
+					<li><a href="../../../../support/tipjar.asp">Support TBC</a></li>
+					<li><a href="../../../../data/">Data Store</a></li>
+					<li style="border-right:0px"><a href="../../../../about/contact.asp">Contact</a></li>
+				</div>
+			</div>	
 		</div>
 		
-		<div class="topHeaderOption">
-			<a href="../../../../tools/">Stat Tools</a>
-		</div>	
-		<div class="topHeaderOption">
-			<a href="../../../../teams/">Teams</a>
-		</div>
-		<div class="topHeaderOption">
-			<a href="../../../../tools/tracker.asp">Daily Stat Emails</a>
-		</div>				
-		<div class="topHeaderOption">
-			<a href="../../../../data/">Purchase Data</a>
-		</div>	
 		
-		<div class="topHeaderOption">
-			<a href="../../../../misc/">Other</a>
-		</div>					
-		<div class="topHeaderOption">
-			<a href="../../../../about/">About</a>
-		</div>				
-		<div class="topHeaderOption" style="background-color:darkblue;padding-left:55px;padding-right:55px">
-			<a href="../../../../support/tipjar.asp" style="color:yellow">Support TBC</a>
-		</div>				
+
+		
+	<!--Site Sections-->
+	<div class="headerBarMenus">
 	
-	</div><br style="margin-bottom:15px;clear:both"><br>
+	
+	<!--TODAY MENU-->	
+		<ul class="header_bar">
+		<li><a href="../../../today/">Today</a>
+		    <ul class="subnav">
+		      <li><a href="../../../../players/tranx.asp">Transactions</a></li>
+		      <li><a href="../../../../players/injuries.asp">Injuries (DL)</a></li>
+		      <li><a href="../../../../today/tranx/retired.asp">Recently Retired</a></li>
+		      <li><a href="../../../../today/tranx/released.asp">Released Players</a></li>
+		      <li><a href="../../../../today/tranx/debuts.asp">MLB Debuts</a></li>
+		      <li><a href="../../../../today/tranx/deaths.asp">Deaths</a></li>
+		    </ul>
+		
+		</li>
+		
+		<li><a href="../../../players/">Players</a>
+		    <ul class="subnav">
+		      <li><a href="../../../../prospects/">Prospects</a></li>
+		    </ul>			
+		</li>
+		
+		
+	<!--TEAMS MENU-->	
+		<li><a href="../../../teams/">Teams</a>
+		    <ul class="subnav">
+		      <li><a href="../../../../teams/rosters.asp">Active Rosters</a></li>
+		      <li><a href="../../../../college/list.asp">Colleges (Division I)</a></li>
+		    </ul>			
+		</li>
+		
+		
+	<!--SEASONS MENU-->
+		<li><a href="../../../seasons/">Seasons</a>
+		    <ul class="subnav">
+		      <li><a href="../../../../scores/">Boxscores</a></li>
+		    </ul>	
+		</li>
+		
+	<!--MINORS MENU-->	
+		<li><a href="../../../minors/">Minors</a>
+		    <ul class="subnav">
+		      <li><a href="../../../../minors/year.asp">Team Listing</a></li>
+		      <li><a href="../../../../today/minor_standings.asp">Standings</a></li>
+		      <li><a href="../../../../minors/aff.asp">Affiliate History</a></li>
+		      <li><a href="../../../../minors/active_ml.asp" title="Active Minor Leaguers with most games played in minors without appearing in a Major League game">Active Exp./No MLB</a></li>
+		    </ul>				
+		</li>
+		
+		
+	<!--COLLEGE MENU-->
+		<li><a href="../../../college/">College</a>
+		    <ul class="subnav">
+		      <li><a href="../../../../college/list.asp">Division I Colleges</a></li>
+		      <li><a href="../../../../college/schools.asp">All College Programs</a></li>
+		      <li><a href="../../../../college/rpi.asp">RPI College Rankings</a></li>
+		    </ul>		
+				
+		
+		</li>
+		
+	<!--EVENTS MENU-->
+		<li><a href="../../../events/">Events</a>
+		    <ul class="subnav">
+		      <li><a href="../../../../draft/research.asp">Draft Research</a></li>
+		      <li><a href="../../../../events/rule5.asp">Rule 5 Draft</a></li>
+		      <li><a href="../../../../events/expansion/">Expansion Drafts</a></li>		      
+		      <li><a href="../../../../events/allstar/">All-Star Games</a>
+		      	<ul class="subnav2" style="top:50px">
+		      		<li><a href="../../../../events/allstar/hr_derby.asp">Home Run Derby</a></li>
+		      		<li><a href="../../../../events/allstar/rosters_all.asp">ASG Rosters</a></li>
+		      		<li><a href="../../../../events/allstar/metrics.asp">Appearances by Player</a></li>
+		      		</ul>
+		      </li>
+
+		      
+		    </ul>		
+		
+		</li>
+		
+		<li><a href="../../../people_places/">People/Places</a>
+		    <ul class="subnav">
+		      <li><a href="../../../people_places/managers/">MLB Managers</a></li>
+		    </ul>		
+				
+		
+		</li>
+		
+		<li><a href="../../../reports/">Reports</a>
+		    <ul class="subnav">
+		      <li><a href="../../../reports/breakdown.asp">Team Breakdowns</a></li>
+		    </ul>	
+		</li>
+		
+		
+		
+		
+
+		<li><a href="../../../misc/">Extra Bases</a>
+		    <ul class="subnav">
+		      <li><a href="../../../extras/awards/">Awards</a>
+		      	<ul class="subnav2">
+		      		<li><a href="../../../../extras/awards/major.asp">MVP CY Rookie Mgr</a></li>
+		      		<li><a href="../../../../extras/awards/player_of_the_week.asp">Player of the Week</a></li>
+		      		<li><a href="../../../../extras/awards/monthly.asp">Monthly Awards</a></li>
+		      	</ul>
+		      </li>
+		    </ul>			
+		</li>
+		
+		
+		
+		
+		<li><a href="../../../about/">About TBC</a></li>
+		
+			<li style="width:101px;border-right:0px"><a href="../../../players/tracker.asp">Player Tracker</a></li>	
+		
+		</ul>
+	</div>
+
+
+
+
+
+
+
+
+
+<div class="infoBar">
+ 
+    <a href="../../../../extras/awards/player_of_the_week.asp" class="infoBar_subject">Players of the Week</a>:&nbsp;&nbsp;  [June 9-June 15] &nbsp; <b>AL</b> - <a href="../../../../players/profile.asp?P=Michael-Brantley" style="font-weight:normal">Michael Brantley</a>&nbsp; <b>NL</b> - <a href="../../../../players/profile.asp?P=Andrew-McCutchen" style="font-weight:normal">Andrew McCutchen</a>
+ 		
+ 		
+</div>
+
+
+
+
+
+
+
+	<div class="basicDiv clear" style="margin-top:5px">
+			&nbsp;
+	</div>
+
 
 <h1>PRIVACY POLICY</h1>
 <hr class="h1Hr">
@@ -185,7 +299,7 @@ var random_number = a;
 
 <!--Footer Section-->
 	
-		<div align="center" style="clear:both">
+		<div align="center" style="clear:both;display:inline;float:left;width:1190px">
                       <br><hr style="width:85%">
 			<a href="../../../about/">About Us</a> &nbsp;<b>|</b>&nbsp;
 			<a href="../../../about/siteMap.asp">Site Map</a> &nbsp;<b>|</b>&nbsp;
@@ -197,7 +311,7 @@ var random_number = a;
 			
 			<br><br>
 			
-			Please <a href="../../../support/">Support The Baseball Cube</a>. 
+			Please <a href="../../../support/tipjar.asp">Support The Baseball Cube</a>. 
 			<br><br>
 			
 			<!-- Index Platform: 728x90 (Banner) -->
@@ -212,6 +326,7 @@ var random_number = a;
 
 		</div>
 	</div>
+
 
 
 
