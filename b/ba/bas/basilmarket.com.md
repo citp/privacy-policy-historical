@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the basilmarket.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210222207id_/http%3A//www.basilmarket.com/show/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basilmarket.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111430id_/http%3A//www.basilmarket.com/show/privacy) for the most accurate reproduction.*
 
 # MapleStory Guides, Quests, Skills, Items, Monsters, Classes, Forum
 
 Your privacy is important to us. The following policy outlines what data we collect and how we use it. 
 
 **Content**  
-All content aside from MapleStory images is Copyright 2005-2013 BasilMarket.com. Use of any BasilMarket.com content without permission is strictly forbidden.
+All content aside from MapleStory images is Copyright 2005-2014 BasilMarket.com. Use of any BasilMarket.com content without permission is strictly forbidden.
 
 **Data Collected**  
 In an effort to protect your privacy, BasilMarket.com only collects data which is absolutely essential for your membership. To this effect, the only data we collect is your email and your IP address. Both items are necessary to recover your account and/or account password in the event that you forget your password.
