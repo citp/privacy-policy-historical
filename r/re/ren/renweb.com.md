@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renweb.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127092704id_/http%3A//www.renweb.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renweb.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135106id_/http%3A//www.renweb.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,13 +64,13 @@ The primary goal of WilComp in collecting personal information from our customer
 
 
 
-WilComp will share the information necessary to deliver products and services that you specifically request to receive but we will limit this information to only what is necessary and required to complete a transaction. WilComp also reserves the right to disclose your personally identifiable information in order to respond to duly authorized information requests of governmental authorities, where required by law, when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, warrant, subpoenas or similar legal process. _WilComp will not share, trade or sell the personal information of our visitors or customers for use by any business without your consent._
+WilComp will share the information necessary to deliver products and services that you specifically request to receive but we will limit this information to only what is necessary and required to complete a transaction. WilComp also reserves the right to disclose your personally identifiable information in order to respond to duly authorized information requests of governmental authorities, where required by law, when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, warrant, subpoenas or similar legal process. If WilComp is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. _WilComp will not share, trade or sell the personal information of our visitors or customers for use by any business without your consent._
 
 **Consumer Services and Contact Information:**
 
 If you provide our consumer service representatives with feedback on your experiences with our products/services or otherwise submit questions to our consumer service representatives or webmasters, you will be asked to supply personal information for our record keeping and follow-up. _This information will not be disclosed without your permission unless required to do so by law. The consumer testimonials posted on our web site may contain personally identifiable information, but such testimonials will not appear without a consumer's prior consent._
 
-In addition, consumer testimonials and any personally identifiable information they might contain will be withdrawn from our web site within 30 days of our receipt of a consumer's written request for its removal.
+In addition, consumer testimonials and any personally identifiable information they might contain will be withdrawn from our web site within 30 days of our receipt of a consumer's written request for its removal. If you wish to update or delete your testimonial, you can contact us at privacy@renweb.com.
 
 **Aggregate and Statistical Data:**
 
@@ -78,7 +78,7 @@ WilComp may collect and store web log information (such as your web browser, ope
 
 **OUR COMMITMENT TO DATA SECURITY**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we manage on behalf of our customers and the information we collect and manage. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access to information. We use secure connections to protect sensitive information during its transmission.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we manage on behalf of our customers and the information we collect and manage. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access to information. We use secure connections to protect sensitive information during its transmission.No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@renweb.com](mailto:privacy@renweb.com). 
 
 **COOKIES**
 
@@ -107,10 +107,10 @@ Our Web site includes Social Media Features, such as the Facebook Like button or
 
 The most current version of our Privacy Policy will always be posted on our website at www.renweb.com. The date of the last change will always be posted on the bottom of the Privacy Policy page. If we decide to change our privacy policy, we will post those changes to this web page, our home web page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you by email, by broadcast through our software interfaces, or by means of a notice on our home page.
+We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you by email, by broadcast through our software interfaces, or by means of a notice on our home page prior to the change becoming effective. 
 
 WilComp Software, L.P.  
 101 E. Renfro St. Suite A  
 Burleson, TX USA 76028
 
-This version of the Privacy Policy was last updated on **19-Dec-2012** and replaces all previous versions of our policy.
+This version of the Privacy Policy was last updated on **22-Mar-2014** and replaces all previous versions of our policy.
