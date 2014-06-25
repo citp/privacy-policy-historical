@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianexponent.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207052547id_/http%3A//indianexponent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianexponent.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054854id_/http%3A//indianexponent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Indian Exponent
 
