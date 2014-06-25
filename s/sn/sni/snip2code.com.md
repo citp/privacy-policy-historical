@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snip2code.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028070111id_/http%3A//www.snip2code.com/Static/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snip2code.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073510id_/http%3A//www.snip2code.com/Static/Privacy) for the most accurate reproduction.*
 
-# Snip2Code - About Us
+# Snip2Code - Privacy
 
 Snip2Code, Inc. ("Snip2Code" or "us") protects the privacy of all of its customers, visitors, users, and others (collectively "Users" or individually a "User") who visit or use www.Snip2Code.com (the "Snip2Code Site").
 
@@ -90,10 +90,10 @@ This Privacy Notice may be revised periodically and this will be reflected by th
 
 For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
 
-###  Date Last Modified:
+###  Date Last Modified
 
 This Privacy Notice was last modified May 3rd, 2012.
 
-##  Contact Information:
+##  Contact Information
 
 Please contact Snip2Code with any questions or comments about this Privacy Notice by sending an email to us at info@Snip2Code.com or write us at: Snip2Code, Inc, Attention: Website Coordinator, 1209 N Orange St 19801-1120 Wilmington, Delaware, United States. 
