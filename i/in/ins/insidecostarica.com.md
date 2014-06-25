@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidecostarica.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113050530id_/http%3A//insidecostarica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidecostarica.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625161218id_/http%3A//insidecostarica.com/privacy-policy) for the most accurate reproduction.*
 
 # Inside Costa Rica | Privacy Policy - Inside Costa Rica
 
