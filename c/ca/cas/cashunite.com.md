@@ -1,29 +1,101 @@
-> *The following text is extracted and transformed from the cashunite.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918122355id_/https%3A//cashunite.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashunite.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123311id_/https%3A//cashunite.com/Privacy) for the most accurate reproduction.*
 
-# CashUnite – A Revolutionary New Way To Earn Money From Your Social Networks!
+# CashUnite - A Revolutionary New Way To Earn Money From Your Social Networks!
 
-## Privacy Policy
+## CashUnite Privacy Policy
 
-This site (the "Site") is owned by CashUnite, a United Kingdom limited liability company ("us," "we," or "Company"). We created this Privacy Policy ("Privacy Policy") to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. 
+### Our Commitment to Privacy
 
-**Information We Collect:**   
-We automatically track and collect the following categories of information when you visit our Site:   
-1) IP addresses;   
-2) domain servers;   
-3) types of computers accessing the Site; and   
-4) types of web browsers used to access the Site (collectively "Traffic Data").  
-Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes and for improving your experience on the Site. We also use "cookies" to customize content specific to your interests, where such instances of cookie use will better your user experience, we will prompt you initially for authorisation. Our Site provides a broad range of Social Media services and tools for you to use for a variety of exposure and interaction purposes (collectively, the "Social Media Tools"). In order for us to be able to contact you about your use of the Site and Social Media Tools, we require you to provide us with certain information that personally identifies you ("Personal Information"). Personal Information includes the following categories of information: 1) Contact Data (such as your name, company name, contact information, telephone number, email address, and login name); 2) Financial Data (such as the credit/debit account information for the account you want to establish for billing purposes); and 3) Transaction Data (for example, the name of the person who referred you to us, the names and contact information for people you refer to us, data about specific marketing campaigns and results, consumer contact information such as email addresses and phone numbers, and related marketing materials). If you communicate with us by e-mail, post messages to any of our blogs, chat groups, bulletin boards, or forums, or otherwise complete online forms, any information provided in such communication may be collected as Personal Information. 
+Our Privacy Policy has been developed as an extension of our commitment to combine quality products and services with integrity in dealing with users. The Policy is designed to assist you in the understanding of how we collect, use and protect the personal information provided to us.
 
-**How your Personal Information is Used:**   
-We use Personal Information in the following ways:   
-1) to enable you to use our Social Site and Viral Broadcasting Tools;   
-2) to contact you about our Site, Social Media Tools, and other related products and services in which we think you may be interested; and   
-3) to customize and tailor your experience on our Site. We do not sell, license, transfer, and/or share the billing information we collect from you, other than for billing purposes. We use an unaffiliated, credit card processing company to process your payments. We transfer your payment information—and you authorise us to do so, with this company, solely for this purpose. The company does not retain, share, store, or use your personally identifiable information for any other purposes. We also collect and analyze non-personally identifiable Transaction Data and the associated IP address to help us improve our Site and Social Media Tools. Additionally, the registered member that referred you to our Site is able to view your email address. Registered members can also display the name and telephone number for the person who referred them to our Site, as well as the following information about members of their team (i.e. referrals who become registered users of our Site): name, telephone number, login name, and email address. You may choose not to provide us with any Personal Information. In such an event, you will not be able to access and use our Site, Social Media Tools, or some of the viral broadcast services it provides. 
+###### What Information Do We Collect?
 
-**Confidentiality and Security of Personal Information:**   
-We may also (if you authorise us to) disclose your Personal Information to:   
-a) comply with a court order or other legal process or inquiry;   
-b) protect our rights or property; or   
-c) enforce our Terms and Conditions. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit your Personal Information via secured and encrypted channels if you use a similarly equipped web browser. 
+When you visit our site, we collect two types of information: personal information you actively choose to disclose (“Active Information”) and Use information collected, in a way not visible to you, on an aggregate anonymous basis as you and other users browse our site (“Passive Information”).
 
-To confirm that your Contact Data and Financial Data are correct and up-to-date, you may review and update it by contacting our Support team. The Site contains links to other websites. We are not responsible for the privacy practices or the content of such websites. We also make blogs, chat rooms, forums, message boards, and news groups available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your Personal Information. This Site is directed at teenagers and adults of the legal age of holding a credit/debit card for use of our site and services. We have implemented a number of security measures to help protect against the loss, misuse, or modification of information we've collected from you. Your Personal Information is transmitted to and stored on servers that we have taken steps to protect from unauthorised access or intrusion. We do not ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk. We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. In the event of substantive changes to this Privacy Policy, the new terms will be posted to the Site, you will be required to affirmatively assent to its terms, and you may also be notified by email. If any modification is unacceptable to you, your only recourse is not to use the Site and Service and to request an immediate termination of your membership. Your express consent or continued use of the Site or our Service following posting of a change notice or new Privacy Policy on the Site will constitute binding acceptance of the changes. 
+### 1\. Personally Identifiable Information
+
+This refers to information that lets us know specifically about you i.e. profile information.
+
+###### A. Registration
+
+When you register to become an authorized reseller of our products or services, we will collect Personally Identifiable Information (such as name, address, email address, and telephone number). This Personally Identifiable Information is securely stored and may be accessed on our website. You are assigned an identification number and select your own password – both are needed to enter the Site and to access your Contact Information. Please safeguard your password in a secure location as we are not responsible for breaches into the system when access is willingly provided.
+
+###### B. Ordering
+
+When you place an order for products or services, we collect Personally Identifiable Information (such as name, contact and billing information, credit card, and other transactional information). We use this information to deliver your order, process payment, and to communicate the status of your order.
+
+###### C. Credit Card or Bank Information Storage
+
+Credit card or Banking information collected at registration or for product orders is used only to process payment for the transaction and is generally not retained on our Site. However, you may voluntarily elect to securely store multiple credit cards or bank accounts to be used for product orders.
+
+###### D. Surveys and Promotions
+
+Occasionally, you may voluntarily provide Personally Identifiable Information to complete surveys and questionnaires or to participate in user polls. We use this information to improve our products and services and to ensure that we’re providing accurate disclosures. We may also use your Personally Identifiable Information to provide you newsletters and other marketing information that coincide with your preferences. You may customize your marketing preferences, or let us know if you do not wish to receive any promotional materials, by adjusting your Subscriptions & Email options on the Site.
+
+### 2\. Aggregate Information
+
+This refers to information that does not, by itself, identify you as a specific individual. Such information would include the Uniform Resource Locator (“URL”) of the website that referred you to our Site, your Internet Protocol (“IP”) address (a number automatically assigned to your computer whenever you surf the web), your operating system and browser type, and any search terms that you enter on our Site. Our web server aggregates this information in order to monitor the level of activity on our Site, evaluate its effectiveness, and improve the content of our Site in order to make your visit an easy and enjoyable experience.
+
+We may collect, compile, store, publish, promote, report, or otherwise disclose or use any Aggregate Information, provided that such information does not personally identify you. We do not correlate any Personally Identifiable Information with the Aggregate Information that we collect on our Site. If we do correlate any Aggregate Information to you, it will be protected like any other Personally Identifiable Information under this Privacy Statement.
+
+###### Active Information You Choose to Provide
+
+In order to gain use of the site (become a “user”), we require you to disclose the following information: Name, Address and Phone Number
+
+We use secure socket layer (SSL) encryption to protect the transmission of the information you submit to us when you use our secure online forms. The information you provide to us is stored securely.
+
+### 3\. Passive Information Collected 
+
+###### What is a Cookie?
+
+Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a site. They are small pieces of data stored by a user’s browser to simplify subsequent interactions with the site. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
+
+Our site utilizes cookies to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after visiting our site. If you do not wish to transmit “cookie” information about yourself, you may turn off the cookie function in your web browser.
+
+Our site’s servers also automatically identify your computer by its Internet Protocol address, which is a unique string of numbers that are assigned to your computer by your Internet Service Provider. The IP address may be used to address problems with our server or to gather broad demographic information about our users. We passively collect your IP Address.
+
+###### How Do We Use the Information Collected?
+
+Broadly speaking, persons we employ directly, or as contractors or agents at our direction use Active Information for purposes of administering our business activities, providing customer support and making available other products or services we think might be of interest to our users. We may use the Active Information or Passive Information you provide to contact you about various changes to our site, new services, features or products we offer. If at any time you do not wish to receive such information, you may “opt-out” of doing so by adjusting your email settings in the back office of the website.
+
+We use Passive Information to gather information about our users and to enhance our site to make it easier, faster and friendlier for users. Additionally, cookies help us better understand the usage pattern of the people that visit our site, which helps us improve our services. Passive Information may result in your viewing of particular advertising based on your user habits.
+
+###### Your Information In Relation to Others We Link To
+
+You might be able to access other websites through our site via hyperlinks. When you do so, you are subjecting yourself to their privacy policies and data collection. Please read the privacy policies of those sites to ensure you agree with the terms before using such sites.
+
+###### Sharing Information with Advertisers or Other Third Parties
+
+We may disclose anonymous information about user habits to advertisers on our site. The parties who perform services for us (credit card processors, merchant bank, Internet Service Provider) may also have access to your information in performing such services. Should we buy or sell assets of our company, another company may need to review our company’s assets, which might include your information, to make business decisions as to whether to acquire such assets.
+
+###### Sharing Information with the Government or As Otherwise Required by Law
+
+We may be required by subpoena, law or government agency to disclose both Active and Passive Information you have provided to us.
+
+###### How Do We Secure Active Information and Passive Information?
+
+We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss of Active and Passive Information. Individual postings on this site and other communications to our office via email or standard mail may not be secure unless we advise you that security measures are in place prior to your submission of information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we respectfully request that you do not send or post sensitive information through these means.
+
+###### Accessing and Correcting Your Information
+
+We take reasonable measures to ensure that any Personally Identifiable Information we collect on our Site is accurate, current, complete, and reliable for its intended use. If you wish to update or otherwise correct Personally Identifiable Information provided to us, you may edit your information online.
+
+###### Protecting Your Information
+
+We acknowledge your trust and are committed to take reasonable steps to protect Personally Identifiable Information provided from loss, misuse, and unauthorized access. We employ physical, electronic, and managerial processes to safeguard and secure your information.
+
+It is your responsibility to safeguard the password you use to access our Site and to promptly advise us if you ever suspect that your password has been compromised. We strongly encourage you to change your password regularly to prevent unauthorized access. Because your identification number and password are specific to you, you acknowledge sole responsibility for any and all use of our Site conducted with your identification number and password.
+
+###### Links to Other Websites
+
+Links to third-party websites may be provided solely for your information and convenience or to provide additional shopping for various other goods and services through our Merchant and Services Partners. If you use these links, you will leave our Site. This Privacy Statement does not cover the information practices of those websites nor do we control their content or privacy policies. We suggest that you carefully review the privacy policies of each site you visit.
+
+###### Children’s Privacy Protection
+
+We take special care to protect the privacy needs of children and encourage parents to be an active participant in their child’s online activities. Our Site does not target and is not intended for children under the age of 18 (unless a parent or guardian has provided express written consent to CashUnite Customer Support), and we will not knowingly collect Personally Identifiable Information from them. If we discover personal data from a child through our site, we will eliminate that data. You may learn more about protecting children’s privacy online by visiting: <http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm> or <http://ceop.police.uk/>.
+
+###### Changes to This Statement
+
+Any updates or changes to the terms of this Privacy Statement will be posted on our Site and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Statement has changed. By using our Site, you acknowledge acceptance of this Privacy Statement in effect at the time of use.
+
+###### YOUR USE OF OUR SITE MEANS THAT YOU ACCEPT THE PRACTICES SET FORTH IN THIS POLICY. YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES.
