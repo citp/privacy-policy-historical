@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livingspaces.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006191309id_/http%3A//www.livingspaces.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingspaces.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125621id_/http%3A//www.livingspaces.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Living Spaces Furniture - About Us
+# Shop Furniture - Online Furniture Store - Same Day Delivery
 
 **Privacy Statement**
 
