@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newjams.net privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820231101id_/http%3A//www.newjams.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newjams.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122308id_/http%3A//www.newjams.net/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - NewJams.net - New Music Every Day!
 
