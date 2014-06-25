@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nsmb.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229191010id_/http%3A//www.nsmb.com/274-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsmb.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091116id_/http%3A//www.nsmb.com/274-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - NSMB.com Mountain Bike Reviews, News, Photo and Video
+# Privacy Policy - NSMB.com
 
 #### **North Shore Interactive Solutions Statement of Privacy**
 
@@ -11,9 +11,7 @@ To protect your privacy, northshoremountainbiking.com and nsmb.com follows princ
 We will ask you when we need information that personally identifies you (Personal Information) or allows us to contact you. Generally this information is requested when you are entering a contest or ordering e-mail newsletters. We use your Personal Information for two primary purposes:
 
   * To alert you to product news, special offers, updated information and other new services from NorthShoreMountainBiking.com.
-
   * To provide our sponsors with value when contributing prizes for our competitions and prize draws.
-
 
 
 
@@ -27,16 +25,15 @@ northshoremountainbiking.com and nsmb.com strictly protects the security of your
 
 #### **PRINCIPLE 4 – ENFORCEMENT**
 
-If for some reason you believe northshoremountainbiking.com or nsmb.com has not adhered to these principles, please notify us by e-mail at [admin@nsmb.com](mailto:admin@nsmb.com?SUBJECT=Privacy%20Policy), and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+If for some reason you believe northshoremountainbiking.com or nsmb.com has not adhered to these principles, please notify us by e-mail at [admin@nsmb.com](https://web.archive.org/web/20140221211320/mailto:admin@nsmb.com?SUBJECT=Privacy%20Policy), and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
 
-#### **NOTICE TO PARENTS**  
-
+#### **NOTICE TO PARENTS**
 
 Parents or guardians: we want to help you guard your children’s privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.
 
 North Shore Interactive Solutions, Ltd. reserves the right to make changes to the privacy policy without notice to the User.
 
-If you have any concerns or questions about North Shore Interactive Solutions’ privacy practices, please contact us at [admin@nsmb.com](mailto:admin@nsmb.com?SUBJECT=Privacy%20Policy).
+If you have any concerns or questions about North Shore Interactive Solutions’ privacy practices, please contact us at [admin@nsmb.com](https://web.archive.org/web/20140221211320/mailto:admin@nsmb.com?SUBJECT=Privacy%20Policy).
 
 “We allow third-party companies to serve ads and/or collect certain  
 anonymous information when you visit our web site. These companies may use  
@@ -47,4 +44,7 @@ advertisements about goods and services likely to be of greater interest to
 you. These companies typically use a cookie or third party web beacon to  
 collect this information. To learn more about this behavioral advertising  
 practice or to opt-out of this type of advertising, you can visit  
-<http://www.networkadvertising.org/managing/opt_out.asp>.”
+[http://www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20140221211320/http://www.networkadvertising.org/managing/opt_out.asp).”
+
+  
+
