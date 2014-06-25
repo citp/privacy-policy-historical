@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224203646id_/http%3A//www.inspiremetoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101019id_/http%3A//inspiremetoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Inspire Me Today®
-
-**[](http://inspiremetoday.com/)**
-
-You are here: [Home](http://inspiremetoday.com/ "Inspire Me Today") / Privacy
 
 ### Version 1: posted and effective as of January 1st, 2008
 
