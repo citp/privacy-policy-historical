@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodshop.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225232813id_/http%3A//www.goodsearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodshop.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012555id_/http%3A//www.goodsearch.com/privacy) for the most accurate reproduction.*
 
 # goodsearch - privacy policy
 
@@ -21,7 +21,7 @@ GoodSearch collects limited non-personally identifying information and records i
 
 The GoodSearch Search Engine and GoodShop Mall do not require any personally identifiable information. 
 
-However, if you opt to register and set up a personal account on GoodSearch, you will be asked to provide certain personally identifiable information. Your personally identifiable information is used to set up your GoodSearch account and to create your profile. Information on your profile is limited to your name, the organizations and causes you support, your actions, your amount raised and your list of friends; it does not include any other personally identifiable information such as your email or home address. By default, access to your profile is made public. You may choose to limit access to your profile to only your friends. You can also make your support of any organization completely anonymous. To edit your privacy settings, click on the "Account Settings" on the left of your profile page and select the "Privacy" link at the top of the subsequent page. 
+However, if you opt to register and set up a personal account on GoodSearch, you will be asked to provide certain personally identifiable information. Your personally identifiable information is used to set up your GoodSearch account and to create your profile. Information on your profile is limited to your name, the organizations and causes you support, your actions, your amount raised and your list of friends; it does not include any other personally identifiable information such as your email or home address. By default, access to your profile is made public. 
 
 Even if you do not create a Goodsearch account, you may be required to provide personal information in order to use the following services: 
 
@@ -60,6 +60,8 @@ GoodSearch works with vendors, partners, advertisers, and other service provider
 ## COOKIES
 
 GoodSearch may set and access GoodSearch cookies on your computer. 
+
+Goodsearch may also use a Double-Click cookie to access non personally identifiable information via Google Analytics, such as Demographics and Interest Reporting. You can opt out of Google Analytics tracking for all websites by clicking [here](https://tools.google.com/dlpage/gaoptout/). You can learn more about Google Analytics Demographics and Interest Reporting [here](https://support.google.com/analytics/answer/2799357). 
 
 GoodSearch lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to GoodSearch's cookies. 
 
