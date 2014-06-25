@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammoseek.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230011735id_/http%3A//ammoseek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammoseek.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052057id_/http%3A//ammoseek.com/privacy.html) for the most accurate reproduction.*
 
 # Ammoseek.com Privacy Policy
 
@@ -26,3 +26,5 @@ Your personally identifiable information is kept secure. Only authorized employe
 If you have any questions, concerns, or comments about our privacy policy please [contact us using this form](http://ammoseek.com/contact/) or via telephone number: 615-AMMO-4U-4. 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+
+[ASH2014](https://web.archive.org/scavenger-hunt.html)
