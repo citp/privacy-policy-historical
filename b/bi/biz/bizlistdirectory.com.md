@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizlistdirectory.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123065906id_/http%3A//www.bizlistdirectory.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizlistdirectory.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081604id_/http%3A//bizlistdirectory.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Business Directory | Connecticut Directory
 
