@@ -1,19 +1,76 @@
-> *The following text is extracted and transformed from the hdwallpaperia.com privacy policy that was archived on 2013-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130319021040id_/http%3A//hdwallpaperia.com/page_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpaperia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113600id_/http%3A//hdwallpaperia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - High Definition Wallpapers
+# Privacy Policy » High Definition : Widescreen Wallpapers
 
-At Hdwallpaperia.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Hdwallpaperia.com, and how we safeguard your information. We never sell your personal information to third parties.
+It is our intention at **hdwallpaperia.com** to manage your personal information in an open and transparent way.
 
-**Server Logs**
+**hdwallpaperia.com** is committed to ensuring that your privacy is protected. If we collect your personal information through our websites or web services, it will only be used in accordance with this privacy policy.
 
-As with most other websites, Hdwallpaperia.com logs web, database, and other server-software usage and access information. This information may include your internet protocol (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
+**hdwallpaperia.com** may change this policy from time to time. You should check whenever you return to our websites. The last date of change is set out at the end of this policy.
 
-**Cookies**
+**What kind of personal information do we collect?**
 
-While browsing Hdwallpaperia.com, a small number of text files referred to as "cookies" are created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for users. You are free to delete them at any time, or configure your browser not to create them. However, we do not guarantee that every feature of Hdwallpaperia.com will function as expected without cookies enabled.
+**Website visitors** – If you are just browsing, we are not collecting your personal information. We might collect information using ‘cookies’, but that information by itself does not personally identify you. More about ‘cookies’ below.
 
-**Third-Party Advertisers**
+The only personal information collected on this website is gathered on our “contact us” forms. We may collect the following information:
 
-Hdwallpaperia.com serves ads provided by a range of third-party advertising networks. The practices of our advertising partners are not directly covered by Hdwallpaperia.com's privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-Google Adsense, We present you the following information about Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx): Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
+**What we do with the information we gather**
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+
+
+**Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**The DoubleClick cookie**
+
+The DoubleClick cookie is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. We use AdSense, so there is a good chance you will gain a Google cookie from our website.  When you visit a website like ours and either view or click on an ad, a cookie may be dropped on that your browser. Other advertisers and social network plugins use a similar process.
+
+A DoubleClick cookie helps web applications tailor operations to your needs, likes and dislikes by gathering and remembering information about your preferences based on your visit to our and other sites on the Internet. You get to see ads based on your selections in  prior visits to our website.
+
+You can opt out of using DoubleClick cookies for interest-based advertising by visiting www.google.com/ads/preferences/. For non-AdSense ads, you can opt out by visiting www.aboutads.info, or go directly to the advertiser’s website and check their settings.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at **info@hdwallpaperia.com**
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you. A small fee will be payable. If you would like a copy of the information held on you please write to **info@hdwallpaperia.com**.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+Last Updated:  Oct 2013
