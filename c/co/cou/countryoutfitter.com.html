@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the countryoutfitter.com privacy policy that was archived on 2013-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131023105812id_/http%3A//www.countryoutfitter.com/page/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the countryoutfitter.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625215336id_/http%3A//www.countryoutfitter.com/page/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-ZHHW"></script><script type="text/javascript" async="" src="//vegas.acumenbrands.com/javascripts/vegas.min.js"></script><script type="text/javascript" async="" src="https://z.chango.com/static/o.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html><html lang="en"><head>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-ZHHW"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"300d975dc5","applicationID":"346342","transactionName":"dg5fRkENVQoAFEsVAlIEQh1AClYR","queueTime":0,"applicationTime":64,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgUPVEVQDAUDUFM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <meta charset="utf-8">
-<script type="text/javascript">
+<script>
   //<![CDATA[
     window.enable_mobile_templates = true;
     window.request_device_type = "desktop";
@@ -15,7 +17,7 @@
 
 <script src="//cdn.optimizely.com/js/127569507.js"></script>
 <!-- / Optimizely Desktop -->
-<script type="text/javascript">
+<script>
   //<![CDATA[
     window.optimizely = window.optimizely || [];
   //]]>
@@ -24,7 +26,7 @@
 <title>Privacy Policy - </title>
 <meta content="Thanks for visiting!  We want to assure you that your privacy is safe with us at Country Outfitter.   This Privacy Policy covers our treatment of personal information that this site gathers when you access or  use our online store. For details, ..." name="description">
 <meta content="Country Outfitter, Privacy Policy" name="keywords">
-<script type="text/javascript">
+<script>
   //<![CDATA[
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-21434623-1']);
@@ -42,45 +44,34 @@
     var ga_protocol = ('https:' == document.location.protocol) ? 'https://ssl' : 'http://www';
     (function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
   //]]>
 </script>
 
 
+
 <meta content="eo4wFtj0Mr_jOVSLhT_itzjskVogtX9XzSuNDvNfXNQ" name="google-site-verification">
 <meta content="321470779" property="twitter:account_id">
 <meta content="" name="bitly-verification">
 <meta content="width=975" name="viewport">
+
 <meta content="158842137505394" property="fb:app_id">
 
 <meta content="authenticity_token" name="csrf-param">
-<meta content="7TddUDy4fcv9AEUbYojrlx5tduKzpo8qw1X0za3IS3Q=" name="csrf-token">
-<script type="text/javascript">
+<meta content="M85OTi+EAQ+7jap+GfKnD7IXhCMZl4+v+L1TIE4nUsc=" name="csrf-token">
+<script>
   //<![CDATA[
     var HE = HE ? HE : {};
     HE.Config = HE.Config || {};
   //]]>
 </script>
-<link href="/stylesheets/sources/main.css?1382128762" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/sources/stores/countryoutfitter/store.css?1382128764" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/sources/split.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/countryoutfitter/application-b98898b830a068f7a54ceaf9f165fdbd.css" media="screen" rel="stylesheet" type="text/css">
 
 <!-- / IE Hacks -->
-<!--[if lt IE 7]>
-<script src="/javascripts/sources/json2.js?1382128579" type="text/javascript"></script>
-<link href="/stylesheets/sources/ie6-base.css?1382128759" media="screen" rel="stylesheet" type="text/css" />
-<link href="/stylesheets/sources/ie6.css" media="screen" rel="stylesheet" type="text/css" />
-<![endif]-->
-<!--[if IE 7]>
-<script src="/javascripts/sources/json2.js?1382128579" type="text/javascript"></script>
-<link href="/stylesheets/ie7_packaged.css?1382128906" media="screen" rel="stylesheet" type="text/css" />
-<![endif]-->
-<!--[if IE 8]>
-<link href="/stylesheets/ie8_packaged.css?1382128906" media="screen" rel="stylesheet" type="text/css" />
-<![endif]-->
 <!--[if lte IE 8]>
+<link href="/assets/base/ie8-c6bc3db105e9c9b1f918bc745310a4f0.css" media="screen" rel="stylesheet" type="text/css" />
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
 <![endif]-->
 <!-- Start header bottom -->
@@ -89,22 +80,6 @@
 </head>
 <body class="path-page-privacy-policy-html c-pages a-show boldchat-offline paginating page-privacy-policy">
 <div id="fb-root"></div>
-<script type="text/javascript">
-  //<![CDATA[
-    var google_conversion_id = 977513813;
-    var google_conversion_language = "en";
-    var google_conversion_format = "1";
-    var google_conversion_color = "ffffff";
-    var google_conversion_label = "UKdICOOquwMQ1dqO0gM";
-  //]]>
-</script>
-
-<script src="https://www.googleadservices.com/pagead/conversion.js" type="text/javascript"></script>
-<noscript>
-<div style='display:inline;'>
-<img alt='' height='1' src='https://www.googleadservices.com/pagead/conversion/977513813/?label=UKdICOOquwMQ1dqO0gM&amp;guid=ON&amp;script=0' style='border-style:none;' width='1'>
-</div>
-</noscript>
 
 
 
@@ -115,213 +90,89 @@
 <ul class="horizontal">
 <li class="order-status"><a href="/order-status">Order Status</a></li>
 <li class="my_account"><a href="http://www.countryoutfitter.com/account" rel="nofollow">My Account</a></li>
-<li class="viewCart" id="view_cart_link">
-<a href="http://www.countryoutfitter.com/bag" class="">Cart</a>
-</li>
 </ul>
+<p class="invite">
+<span data-content="modal_referral" data-style="modal-referral" data-trigger="modal" id="open_referral_modal">
+Earn
+<mark>$20</mark>
+• invite friends
+</span>
+</p>
 </div>
 </nav>
 
-<div class="wrapper headertop clearfix" role="banner">
+<div class="header-top wrapper clearfix" role="banner">
 <div class="logowrapper">
 <a href="http://www.countryoutfitter.com/" class="storeLogoNew" title="Welcome to Country Outfitter"><em>Cowboy Boots and Western Wear</em></a>
-<div class="freeshipping_bar">
-<a class="freeshipping_content" href="http://www.countryoutfitter.com/page/shipping-and-returns.html">
+</div>
+<div class="header-menu-top right">
+<div class="clearfix">
+<div class="left">
+<div class="freeshipping">
+<div class="freeshipping_content">
 <span>FREE SHIPPING</span>
 <span class="freeshipping_terms">
 ON ALL ORDERS OVER $49
 </span>
-</a>
 </div>
 </div>
 </div>
-<div class="hero"></div>
-<div class="tagbg">
-<div class="tag_heading clearfix">
-<div class="pagetitle">
-<h1></h1>
+<div class="right">
+<form action="/search" id="top-search" method="get" role="search">
+<input name="q" placeholder="  What are you looking for?" tabindex="1" type="search">
+<button class="search" tabindex="2" type="submit">
+<strong>Search</strong>
+</button>
+</form>
 </div>
 </div>
 </div>
-
-
-<div class="wrapper">
-<nav class="menu">
-<ul class="horizontal dropdown">
-<li class="drophover"><a href="/womens">Women</a>
+</div>
+<nav class="header-menu-bottom">
+<ul class="horizontal dropdown wrapper clearfix">
+<li><a href="/womens">Womens</a></li>
+<li><a href="/mens">Mens</a></li>
+<li><a href="/kids">Kids</a></li>
+<li class="drophover"><a href="/boots">Boots</a>
 <div class="dropdown-wrapper">
 <div>
 <ul class="dropdown-menu">
 <li class="bordered">
 <ul class="dropdown-menu-column">
-<li>
-<a href="/cowboy-boots/womens"><strong>Women's Boots</strong>
-</a></li>
-<li><a href="/cowboy-boots/womens">Cowgirl Boots</a></li>
-<li><a href="/boots/new-arrivals/womens">New Arrivals</a></li>
-<li><a href="/cowboy-boots/most-popular">Most Popular</a></li>
-<li><a href="/riding-boots/womens">Riding Boots</a></li>
-<li><a href="/booties/womens">Short Boots</a></li>
-<li><a href="/cowboy-boots/exotic/womens">Exotic Boots</a></li>
-<li><a href="/casual-footwear/womens">Casual Footwear</a></li>
-<li><a href="/boot-care">Boot Care</a></li>
-</ul>
-</li>
-<li class="bordered">
-<ul class="dropdown-menu-column">
-<li>
-<a href="/handbags"><strong>Handbags</strong>
-</a></li>
-<li><a href="/tote-bags">Totes</a></li>
-<li><a href="/handbags/satchels">Satchels</a></li>
-<li><a href="/wallets">Wallets</a></li>
-<li><a href="/clutches">Clutches</a></li>
-<li><a href="/cross-body-bags/handbags">Crossbody Bags</a></li>
-<li><a href="/handbags/hobo-bags">Hobo Bags</a></li>
-</ul>
-</li>
-<li class="bordered">
-<ul class="dropdown-menu-column">
-<li>
-<a href="/apparel/womens"><strong>Women's Clothing</strong>
-</a></li>
-<li><a href="/apparel/new-arrivals/womens">New Arrivals</a></li>
-<li><a href="/apparel/jeans/womens">Jeans</a></li>
-<li><a href="/apparel/pants/womens">Pants</a></li>
-<li><a href="/apparel/long-sleeve/womens">Long Sleeve</a></li>
-<li><a href="/apparel/hoodies-and-sweatshirts/womens">Hoodies &amp; Sweatshirts</a></li>
-<li><a href="/apparel/short-sleeve/womens">Short Sleeve</a></li>
-<li><a href="/apparel/sleeveless/womens">Sleeveless</a></li>
-<li><a href="/apparel/dresses-and-skirts/womens">Dresses &amp; Skirts</a></li>
-<li><a href="/outerwear/womens">Outerwear</a></li>
-<li><a href="/jackets/womens">Jackets</a></li>
-<li><a href="/headwear/womens">Headwear</a></li>
-</ul>
-</li>
-<li class="bordered">
-<ul class="dropdown-menu-column">
-<li>
-<a href="/accessories/womens"><strong>Accessories</strong>
-</a></li>
-<li><a href="/accessories/jewelry/new-arrivals/womens">New Arrivals</a></li>
-<li><a href="/accessories/necklaces/womens">Necklaces</a></li>
-<li><a href="/accessories/belts/womens">Belts</a></li>
-<li><a href="/accessories/belt-buckles">Belt Buckles</a></li>
-<li><a href="/accessories/bracelets/womens">Bracelets</a></li>
-<li><a href="/accessories/earrings">Earrings</a></li>
-<li><a href="/accessories/rings">Rings</a></li>
-<li><a href="/accessories/watches">Watches</a></li>
-</ul>
-</li>
-<li class="bordered">
-<ul class="dropdown-menu-column">
-<li>
-<a href="/lookbooks"><strong>Collections</strong>
-</a></li>
-<li><a href="/made-in-the-usa/womens">Made In USA</a></li>
-<li><a href="/color-collection">Color Collection</a></li>
-<li><a href="/floral-boots">Floral Boots</a></li>
-<li><a href="/wedding-shop">Wedding Collection</a></li>
-<li><a href="/studded-boots">Studded Boots</a></li>
-<li><a href="/college">College Collection</a></li>
-<li><a href="/nfl-boots/womens">NFL Collection</a></li>
-<li><a href="/wide-calf">Wide Calf Boots</a></li>
+<li><a href="/cowboy-boots">Cowboy Boots</a></li>
+<li><a href="/work-boots">Work Boots</a></li>
+<li><a href="/riding-boots">Riding Boots</a></li>
+<li><a href="/boots">All Boots</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 </li>
-<li class="drophover"><a href="/mens">Men</a>
+<li class="drophover"><a href="/western">Western</a>
 <div class="dropdown-wrapper">
 <div>
 <ul class="dropdown-menu">
 <li class="bordered">
 <ul class="dropdown-menu-column">
-<li>
-<a href="/mens/cowboy-boots"><strong>Men's Boots</strong>
-</a></li>
-<li><a href="/cowboy-boots/mens">Cowboy Boots</a></li>
-<li><a href="/cowboy-boots/mens/new-arrivals">New Arrivals</a></li>
-<li><a href="/cowboy-boots/exotic/mens">Exotic Boots</a></li>
-<li><a href="/mens/work-boots">Work Boots</a></li>
-<li><a href="/boots/hunting/mens">Hunting Boots</a></li>
-<li><a href="/casual-footwear/mens">Casual Footwear</a></li>
-<li><a href="/boot-care">Boot Care</a></li>
-</ul>
-</li>
-<li class="bordered">
-<ul class="dropdown-menu-column">
-<li>
-<a href="/apparel/mens"><strong>Men's Clothing</strong>
-</a></li>
-<li><a href="/apparel/jeans/mens">Jeans</a></li>
-<li><a href="/apparel/mens/pants">Pants</a></li>
-<li><a href="/apparel/camouflage/mens">Camouflage</a></li>
-<li><a href="/apparel/long-sleeve/mens">Long Sleeve</a></li>
-<li><a href="/apparel/hoodies-and-sweatshirts/mens">Hoodies &amp; Sweatshirts</a></li>
-<li><a href="/apparel/mens/short-sleeve">Short Sleeve</a></li>
-<li><a href="/apparel/mens/shorts">Shorts</a></li>
-<li><a href="/apparel/mens/work">Work Clothing</a></li>
-<li><a href="/mens/outerwear">All Outerwear</a></li>
-<li><a href="/jackets/mens">Men's Jackets</a></li>
-<li><a href="/brands">Shop by Brand</a></li>
-</ul>
-</li>
-<li class="bordered">
-<ul class="dropdown-menu-column">
-<li>
-<a href="/accessories/mens"><strong>Gear</strong>
-</a></li>
+<li><a href="/cowboy-boots">Cowboy Boots</a></li>
 <li><a href="/cowboy-hats">Cowboy Hats</a></li>
-<li><a href="/accessories/belt-buckles">Belt Buckles</a></li>
-<li><a href="/headwear/mens">Headwear</a></li>
-<li><a href="/wallets/mens">Wallets</a></li>
-<li><a href="/bags/mens">Bags</a></li>
-<li><a href="/accessories/belts/mens">Belts</a></li>
-<li><a href="/gloves">Gloves</a></li>
-<li><a href="/socks/mens">Socks</a></li>
-</ul>
-</li>
-<li class="bordered">
-<ul class="dropdown-menu-column">
-<li>
-<strong>Collections</strong>
-</li>
-<li><a href="/college-boots/mens">College Collection</a></li>
-<li><a href="/mens/nfl-boots">NFL Collection</a></li>
-<li><a href="/everyday-collection/mens">Everyday Collection</a></li>
-<li><a href="/mens/work-collection">Work Collection</a></li>
-<li><a href="/mens/outdoor-collection">Outdoor Collection</a></li>
-<li><a href="/made-in-the-usa/mens">Made in USA</a></li>
-<li><a href="/mens/waterproof">Waterproof Boots</a></li>
+<li><a href="/western/apparel">Western Wear</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 </li>
-<li class="drophover"><a href="/kids">Kids</a>
+<li class="drophover"><a href="/work">Work</a>
 <div class="dropdown-wrapper">
 <div>
 <ul class="dropdown-menu">
 <li class="bordered">
 <ul class="dropdown-menu-column">
-<li>
-<a href="/cowboy-boots/kids"><strong>Kids Cowboy Boots</strong>
-</a></li>
-<li><a href="/cowboy-boots/infant">Infant Boots</a></li>
-<li><a href="/cowboy-boots/toddler">Toddler Boots</a></li>
-</ul>
-</li>
-<li class="bordered">
-<ul class="dropdown-menu-column">
-<li>
-<a href="/apparel/kids"><strong>All Clothing</strong>
-</a></li>
-<li><a href="/apparel/kids/shirts">Shirts</a></li>
-<li><a href="/apparel/kids/pants">Pants</a></li>
-<li><a href="/outerwear/kids">Outerwear</a></li>
+<li><a href="/work-boots">Work Boots</a></li>
+<li><a href="/work-wear">Workwear</a></li>
+<li><a href="/work">All Work</a></li>
 </ul>
 </li>
 </ul>
@@ -334,88 +185,40 @@ ON ALL ORDERS OVER $49
 <ul class="dropdown-menu">
 <li class="bordered">
 <ul class="dropdown-menu-column">
-<li>
-<a href="/brands"><strong>All Brands</strong>
-</a></li>
-<li><a href="/corral/cowboy-boots">Corral Boots</a></li>
 <li><a href="/ariat">Ariat</a></li>
-<li><a href="/justin/cowboy-boots">Justin</a></li>
-<li><a href="/frye">Frye</a></li>
-<li><a href="/durango/cowboy-boots">Durango Boots</a></li>
-<li><a href="/lucchese/cowboy-boots">Lucchese Boots</a></li>
-<li><a href="/old-gringo/cowboy-boots">Old Gringo Boots</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>&nbsp;</li>
-<li><a href="/tony-lama/cowboy-boots">Tony Lama Boots</a></li>
-<li><a href="/laredo/cowboy-boots">Laredo Boots</a></li>
-<li><a href="/dingo/cowboy-boots">Dingo Boots</a></li>
-<li><a href="/dan-post/cowboy-boots">Dan Post Boots</a></li>
-<li><a href="/nocona/cowboy-boots">Nocona Boots</a></li>
-<li><a href="/twisted-x-boots">Twisted X Boots</a></li>
-</ul>
-</li>
-<li class="bordered">
-<ul class="dropdown-menu-column">
-<li>
-<strong>New Brands</strong>
-</li>
-<li><a href="/under-armour">Under Armour</a></li>
-<li><a href="/3rd-and-army">3rd and Army</a></li>
-<li><a href="/red-wing">Red Wing</a></li>
-<li><a href="/jachs">Jach's</a></li>
-<li><a href="/renee-c">Renee C.</a></li>
-<li><a href="/jachs-girlfriend">Jach's Girlfriend</a></li>
-<li><a href="/meesh-and-mia">Meesh &amp; Mia</a></li>
-<li><a href="/old-pro-leather">Old Pro Leather</a></li>
+<li><a href="/corral">Corral</a></li>
+<li><a href="/carhartt">Carhartt</a></li>
 <li><a href="/ugg">Ugg</a></li>
-<li><a href="/mountain-khaki">Mountain Khaki</a></li>
-<li><a href="/coveted-clothing">Coveted Clothing</a></li>
+<li><a href="/justin">Justin</a></li>
+<li><a href="/frye">Frye</a></li>
+<li><a href="/durango">Durango</a></li>
+<li><a href="/laredo">Laredo</a></li>
+<li><a href="/lucchese">Lucchese</a></li>
+<li><a href="/dan-post">Dan Post</a></li>
+<li><a href="/tony-lama">Tony Lama</a></li>
+<li><a href="/old-gringo">Old Gringo</a></li>
+<li><a href="/brands">All Brands</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 </li>
-<li><a href="/blog">Blog</a></li>
-<li class="navsearch">
-<form action="/search" id="search" method="get" role="search">
-<input name="q" placeholder="Search by keyword, brand, etc." tabindex="1" type="search">
-<button class="search" tabindex="2" type="submit">
-<strong>Search</strong>
-</button>
-</form>
-</li>
-</ul>
-</nav>
-</div>
-
-
-<div class="wrapper">
-<nav class="subMenu">
-<ul class="horizontal">
-<li class="phone">
-Call us at
-<strong>1 (866) 824-7970</strong>
-from 8am to 6pm CST M-F
-</li>
-<li class="sizecharts"><a href="/sizecharts">Size Charts</a></li>
-<li class="gift-card"><a href="/products/3657-GIFTCARD">Gift Cards</a></li>
-<li class="embroidery"><a href="/page/embroidery.html">Embroidery</a></li>
-<li class="order-status"><a href="/order-status">Order Status</a></li>
-<li class="help"><a href="/page/customer-service.html">Help</a></li>
-<li class="blog"><a href="/blog">Blog</a></li>
+<li><a href="/style/">Style</a></li>
+<li><a href="/marketplace">Marketplace</a></li>
+<li class="sale-link"><a href="/flash">Flash Sale</a></li>
+<li class="viewCart" id="view_cart_link"><a href="http://www.countryoutfitter.com/bag" class="full"><span class="cart_title">Cart</span><span class="cart_colon">: </span><span class="cart_items"><span class="cart_items_count">0</span><span class="cart_items_label"> items</span></span></a></li>
 </ul>
 </nav>
-</div>
+
+
 
 
 </header>
 <div class="pages show" id="page">
 <a href="http://www.countryoutfitter.com/" class="storeLogo" title="Welcome to Country Outfitter"><em>Cowboy Boots and Western Wear</em></a>
 <section id="content">
+
 
 <div id="view" class="page page-privacy-policy">
 
@@ -476,7 +279,23 @@ your information on our site.</p>
 <a name="nospam"></a>
 <h2>Communications</h2>
 
-<p></p><p><b>Email Privacy Policy</b></p><p>We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.<br></p><p><b>Why did you receive an email from us?</b><br></p><p>If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.<br></p><p><b>How we protect your privacy</b><br></p><p>We use security measures to protect against the loss, misuse, and alteration of data used by our system.<br></p><p><b>Sharing and Usage</b><br></p><p>We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you.<br></p><p><b>How can you stop receiving email from us?</b><br></p><p>Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email. You can also simply send the word UNSUBSCRIBE via email to reply@reply.countryoutfitter.com and you will immediately be removed from all related email lists.<br></p><p>If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to info@countryoutfitter.com for review.</p><p></p><p></p><p></p>
+<h3>Email Privacy Policy</h3>
+
+<p>We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.</p>
+
+<h3>Why did you receive an email from us?</h3>
+
+<p>If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.</p>
+
+<h3>How we protect your privacy</h3>
+
+<p>We use security measures to protect against the loss, misuse, and alteration of data used by our system.<br></p>
+
+<h3>Sharing and Usage</h3>
+<p>We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you.</p>
+
+<h3>How can you stop receiving email from us?</h3>
+<p>Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email. You can also send the word UNSUBSCRIBE via email to reply@reply.countryoutfitter.com and you will immediately be removed from all related email lists.<br></p><p>If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to info@countryoutfitter.com for review.</p>
 
 <h2>Conditions of Use</h2>
 
@@ -632,7 +451,7 @@ Need help?
 </li>
 </ul>
 <p class="copyright">
-© 2013 Country Outfitter - <a href="/">Cowboy Boots and Western Wear</a>
+© 2014 Country Outfitter - <a href="/">Cowboy Boots and Western Wear</a>
 </p>
 </div>
 <div class="footerGuarantee">
@@ -651,20 +470,22 @@ Need help?
 </div>
 </noscript>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-<script src="/javascripts/base_packaged.js?1382128891" type="text/javascript"></script>
+<script src="/assets/base-394af2663bfdbad4ea9e793f706f8c97.js" type="text/javascript"></script>
 <script src="//cbi.boldchat.com/aid/455305447569541840/bc.cbhs?0&amp;wdid=2626772272867541723&amp;rdid=2955293990358454969" type="text/javascript"></script>
-<script type="text/javascript">
+<script>
   //<![CDATA[
     window.bt_chatAvailable = bt_chatAvailable || false;
   //]]>
 </script>
 
-<script type="text/javascript">
+<script>
   //<![CDATA[
     function loadSocials(d)
     {
       var s = d.getElementsByTagName('script')[0];
-      $(function(d, s, id) {
+      HE.fbAppId = '158842137505394';
+    
+    $(function(d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) return;
       js = d.createElement(s); js.id = id;
@@ -717,15 +538,19 @@ Need help?
   //]]>
 </script>
 
-<script type="text/javascript">
+<script>
   //<![CDATA[
     HE.Newsletter = { message: "", code: "" };
     HE.quicklook = true;
+    HE.swiftypePublicKey = "QaRkF98AnGuyjUjSGgzY"
+    
+    HE.productImageHost = "//dsv72jclfpnu0.cloudfront.net" || "/system";
   //]]>
 </script>
 
-<script type="text/javascript">
+<script>
   //<![CDATA[
+    $(document).ready(window.bootstrapSearchDropdown);
     $(document).ready(function() {
     
       
@@ -752,47 +577,11 @@ Need help?
 </script>
 
 
-<script type="text/javascript">
-  //<![CDATA[
-    var __cho__ = {pid:365};
-    (function() {
-      var c = document.createElement('script');
-      c.type = 'text/javascript';
-      c.async = true;
-      c.src = ('https:' == document.location.protocol ? 'https://z': 'http://p') + '.chango.com/static/o.js';
-      var s = document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(c, s);
-    })();
-  //]]>
-</script>
 
 
 
-<script type="text/javascript">
-  //<![CDATA[
-    jQuery(function(){
-        setTimeout(function(){var a=document.createElement("script");
-        var b=document.getElementsByTagName("script")[0];
-        a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/9394.js?"+Math.floor(new Date().getTime()/3600000);
-        a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-    });
-  //]]>
-</script>
 
-<script type="text/javascript">
-  //<![CDATA[
-    (function() {
-        var vs = document.createElement('script');
-        vs.type = 'text/javascript';
-        vs.async = true;
-        vs.src = '//vegas.acumenbrands.com/javascripts/vegas.min.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(vs, s);
-      })();
-  //]]>
-</script>
-
-<script type="text/javascript">
+<script>
   //<![CDATA[
     (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -803,18 +592,103 @@ Need help?
 </script>
 
 
+<div id="modal_referral">
+<article class="tab" id="referral_send">
+<h1>
+Invite your friends and you’ll both get
+<mark>$20</mark>
+to spend on Country Outfitter!
+</h1>
+<p>
+Tell your friends about Country Outfitter.  You’ll get $20 for each friend
+that joins and makes a first purchase of $99 or more.
+Your friend will save $20 and we will credit your account 30 days after their order ships.
+<a href="#" class="referral_show_terms">Terms &amp; Conditions
+</a></p>
+<div class="account_login">
+<h1>Sign in to your account</h1>
+<p>If you do not have an account, one will be created for you.</p>
+<form accept-charset="UTF-8" action="/page/privacy-policy.html" class="signin sideBySide" id="referral_signin_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="M85OTi+EAQ+7jap+GfKnD7IXhCMZl4+v+L1TIE4nUsc="></div><p id="referral_errors"></p>
+<p>
+<label for="email">Email</label>
+<input class="easyinput" id="email" name="email" placeholder="EMAIL" type="email">
+</p>
+<p>
+<label for="password">Password</label>
+<input class="easyinput" id="password" name="password" placeholder="PASSWORD" type="password">
+</p>
+<p class="actions">
+<input class="mediumbutton" id="referral_login_submit" name="commit" type="submit" value="Sign in">
+</p>
+</form>
 
-<script type="text/javascript">if (typeof NREUMQ !== "undefined") { if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "js-agent.newrelic.com/nr-100.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","300d975dc5","346342","dg5fRkENVQoAFEsVAlIEQh1AClYR",0,100,new Date().getTime(),"","","","",""]);}</script>
+</div>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<div class="share_link" style="display: none">
+<p>Share, tweet, pin, post or text the link below for all of your friends or followers to see.</p>
+<dl>
+<dt>Your personal invite link:</dt>
+<dd id="personal_link"></dd>
+</dl>
+<ul id="referral_sharing">
+<li><a href="" class="facebook_referral facebook" target="blank">SHARE</a></li>
+<li><a href="" class="twitter_referral twitter" target="blank">TWEET</a></li>
+</ul>
+<p>Or, use this form to send invites via email:</p>
+<form accept-charset="UTF-8" action="/invite_links" id="referral_submission" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="M85OTi+EAQ+7jap+GfKnD7IXhCMZl4+v+L1TIE4nUsc="></div>
+<fieldset>
+<p>List your name as you would like it to appear at the bottom of the referral email.</p>
+<p>
+<label>First Name</label>
+<input id="referral_first_name" name="first_name" placeholder="FIRST NAME" type="text" value="">
+<label>Last Name</label>
+<input id="referral_last_name" name="last_name" placeholder="LAST NAME" type="text" value="">
+</p>
+<label>
+<strong>To:</strong>
+Separate email addresses with a comma, i.e. john.doe@domain.com, jessie@friend.com
+</label>
+<textarea cols="80" id="referral_emails" name="invitee_emails" placeholder="ENTER EMAILS HERE" rows="4"></textarea>
+</fieldset>
+<fieldset class="actions">
+<input name="commit" type="submit" value="Submit">
+<p>Your name will appear in the signature of this message by default.</p>
+</fieldset>
+</form>
+
+</div>
+
+</article>
+<div class="tab" id="referral_terms">
+<a href="#" class="referral_hide_terms">Back</a>
+<div id="referral_terms_content">
+<h1>ABOUT OUR REFERRAL PROGRAM:</h1>
+<p>We believe that our friends and family are the best endorsement for our quality products and excellent customer service. When you spread the word about Country Outfitter, we want to show our appreciation with something more than a simple “thank you.” The promises we make to our friends mean something and we believe that we should treat our friends even better than they treat us (which is pretty good)!</p>
+<p>When you put your word on the line for us, we take it seriously and we appreciate it greatly. So, from now on when you do that for us, we are going to give you $20 in Country Outfitter credit and we’ll give your friend $20 off their first purchase of $99 or more. This means we have to work a little harder to keep up our end of the deal, which is delivering you a carefully crafted and cared for product AND excellent service. But, it’s worth it to us and we hope you appreciate it.</p>
+<p>Not everyone can win our giveaways, but you always win when you refer friends to Country Outfitter!</p>
+<h1>EARNING REFERRAL CREDITS:</h1>
+<p>For each person that teams up with Country Outfitter by following your unique referral invitation link and makes a purchase of $99 or more, we'll credit your account with $20 in Country Outfitter credit 30 days after their first order ships (sorry about the wait, we just want to be sure they love their items as much as we do).</p>
+<p>Referral credits will only be issued to you when you invite someone to join Country Outfitter who hasn’t purchased anything from us before. So, if your friends receive our emails but haven’t purchased something, you can earn credit for referring them. If your friend has purchased in the past, they are not eligible. Your friend receives a coupon for $20 off their first purchase when you send them an invitation.</p>
+<p>Remember, each new friend you refer must make a first purchase of $99 or more in order for you to earn the $20 credit.</p>
+<p>We really love boots and sharing that love with others, so the number of referral credits you can earn is unlimited. You can track your referral credits by visiting the Invite History page in your account.</p>
+<p>However, there are a few restrictions. We will only issue one referral credit per friend. Friends who register using multiple accounts or email addresses will have any referral credit associated with fraudulent email addresses revoked. You may not spam others or send unsolicited emails to people or groups you don't personally know to get referrals. You may not solicit referrals through push ads or paid search, unsolicited texts or similar online and mobile activities.</p>
+<p>Country Outfitter has the right in its sole discretion to deny, revoke or suspend any and all referral credits from your use of any of these prohibited referral solicitation actions.</p>
+<h1>SPENDING REFERRAL CREDITS (We call this “Getting a Deal”):</h1>
+<p>Referral credits expire 6 months after they are issued. We will send you reminder emails, but we doubt you’ll need them! You may use your referral credits only on merchandise.</p>
+<p>Credits cannot be used towards any shipping, handling, or other applicable transaction costs on the site. Certain items may be excluded at our discretion.</p>
+<p>Unfortunately, you may not use referral credits to buy Country Outfitter Gift Cards.</p>
+<p>Referral credits may be used in conjunction with other credit issued to your account but may not be used with promotional codes or other offers. We will let you choose to use a coupon or referral credits, if available, at checkout.</p>
+<p>Referral credits have no stand-alone cash value; they can only be used with purchase of items from Country Outfitter.</p>
+<p>You may earn multiple referral credits and apply them all at the same time. There is not a minimum purchase required to use your referral credits. If you work hard, you get a no-strings-attached reward. This is our sincere way of thanking you for inviting others join in on all this boot love! We appreciate you.</p>
+</div>
+</div>
+
+
+</div>
+
+<script src="/assets/referral-9662be08acca55c6129ade3fd4f346ae.js" type="text/javascript"></script>
+
+
+
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
