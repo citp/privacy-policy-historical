@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recordnet.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219020730id_/http%3A//www.recordnet.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordnet.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625170612id_/http%3A//www.recordnet.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Recordnet.com | San Joaquin County News, Jobs, Cars, Real Estate and more
 
