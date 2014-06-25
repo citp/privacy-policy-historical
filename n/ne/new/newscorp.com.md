@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231150354id_/http%3A//newscorp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080715id_/http%3A//newscorp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | News Corp
 
@@ -21,7 +21,7 @@ Table of Contents:
 
 News Corporation ( **“News Corp”** or **“we”** ) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through newscorp.com (the **“Site”** ).  By using the Site, you agree to the terms and conditions of this Privacy Policy.
 
-When you visit the Site, you are visiting News Corp’s corporate website.  Affiliates of News Corp ( **“News Corp Affiliates”** ) operate a large number of websites, mobile applications and other services associated with News Corp’s various businesses, brands and products.  Each of these services that you may choose to visit has privacy policies that may differ from this Privacy Policy due to the nature of those services. This Privacy Policy does not apply to the websites, mobile applications and other services operated by News Corp Affiliates.  A list of News Corp Affiliates is available [here](http://newscorpcom.wordpress.com/about "Terms of Use").
+When you visit the Site, you are visiting News Corp’s corporate website.  Affiliates of News Corp ( **“News Corp Affiliates”** ) operate a large number of websites, mobile applications and other services associated with News Corp’s various businesses, brands and products.  Each of these services that you may choose to visit has privacy policies that may differ from this Privacy Policy due to the nature of those services. This Privacy Policy does not apply to the websites, mobile applications and other services operated by News Corp Affiliates.  A list of News Corp Affiliates is available [here](http://newscorp.com/about/our-businesses/ "Terms of Use").
 
 The Site is for a general audience, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
 
