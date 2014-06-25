@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplus-directory.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226075406id_/http%3A//aplus-directory.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplus-directory.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135632id_/http%3A//aplus-directory.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Add a site / Submit your URL today for free
 
