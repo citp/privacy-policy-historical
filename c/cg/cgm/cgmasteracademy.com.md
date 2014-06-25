@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cgmasteracademy.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125023129id_/http%3A//2d.cgmasteracademy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgmasteracademy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081714id_/http%3A//2d.cgmasteracademy.com/privacy-policy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - CGMA 2D Academy
 
 This Privacy Policy discloses the privacy practices for the CGMA site and various related services (together referred to as the “site”). CGMA, the provider of the site (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the information below to learn the following regarding your use of this site:
 
@@ -31,9 +31,9 @@ Personally Identifiable Information: This refers to information that lets us kno
 We do not collect any Personally Identifiable Information about you unless you voluntarily provide it to us. You provide certain Personally Identifiable Information to us when you:
 
   1. Register for our services and register your e-mail address with us;
-  2. Enter sweepstakes or contests sponsored by us or one of our partners; 
-  3. Sign up for special offers from selected third parties; 
-  4. Send e-mail messages, submit forms or transmit other information by telephone or letter; or 
+  2. Enter sweepstakes or contests sponsored by us or one of our partners;
+  3. Sign up for special offers from selected third parties;
+  4. Send e-mail messages, submit forms or transmit other information by telephone or letter; or
   5. Submit your credit card or other payment information when ordering and purchasing products and services on our site. We may also collect information from you at other points on our site that state that such information is being collected.
 
 
@@ -42,7 +42,7 @@ In addition, we may also collect, or our third party ad server and/or content se
 
 We will primarily use your Personally Identifiable Information to provide our services to you, as required by our agreements with you. We will also use Personally Identifiable Information to enhance the operation of our site, fill orders, improve our marketing and promotional efforts, statistically analyze site use, improve our product and service offerings, and customize our site's content, layout, and services. We may use Personally Identifiable Information to deliver information to you and to contact you regarding administrative notices. We may also use Personally Identifiable Information to resolve disputes, troubleshoot problems and enforce our agreements with you, including our Site Terms of Use, Sales Terms and Conditions, and this Private Policy.
 
-### 3\. With whom do we share your information? 
+### 3\. With whom do we share your information?
 
 We do not sell, trade, or rent your Personally Identifiable Information to others. We do provide some of our ser-vices through contractual arrangements with affiliates, services providers, partners and other third parties. We and our service partners use your Personally Identifiable Information to operate our sites and to deliver their services. For example, we must release your credit card information to the card-issuing bank to confirm payment for products and services purchased on this site; release your address information to the delivery service to deliver products that you ordered; and provide order information to third parties that help us provide customer service.
 
@@ -60,7 +60,7 @@ CG MASTER CLASSES
 Attn: Privacy Compliance Officer  
 14416 Victory Blvd  
 SUITE 227  
-Van Nuys, CA, 91401 – 6261 
+Van Nuys, CA, 91401 – 6261
 
 Please include your name, address, and/or e-mail address when you contact us.
 
@@ -100,8 +100,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 CG MASTER CLASSES  
 Attn: Privacy Compliance Officer  
-14416 Victory Blvd  
-SUITE 227  
-Van Nuys, CA, 91401 – 6261 
+6454 Van Nuys Blvd  
+SUITE 200  
+Van Nuys, CA, 91401
 
 You may also contact us by e-mail at [administrator@cgmwonline.com](mailto:administrator@cgmwonline.com).
