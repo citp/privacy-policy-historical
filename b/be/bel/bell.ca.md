@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bell.ca privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229073820id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bell.ca privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626014637id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy) for the most accurate reproduction.*
 
 # How does Bell respect my privacy? : Privacy at Bell
 
@@ -35,16 +35,14 @@ Or by email at [privacy@bell.ca](mailto:privacy@bell.ca)
 
 If the Bell Privacy Ombudsman does not resolve the issue to your satisfaction, you may contact the Privacy Commissioner of Canada.
 
-The Office of the Privacy Commissioner of Canada  
-112 Kent Street   
-Place de Ville  
-Tower B, 3rd Floor  
-Ottawa, Ontario   
+Office of the Privacy Commissioner of Canada  
+30 Victoria Street  
+Gatineau, Québec  
 K1A 1H3  
-1 800 282-1376  
+Phone: 1 800 282-1376  
 [www.priv.gc.ca](http://www.priv.gc.ca/)
 
-Last Update:23/10/2013
+Last Update:09/05/2014
 
   
 
@@ -86,7 +84,7 @@ While the information may be subject to the legal jurisdictions of these countri
 
 The use of customer information in this way is governed by the Bell Privacy Policy.
 
-Last Update:23/10/2013
+Last Update:09/05/2014
 
   
 
@@ -131,7 +129,7 @@ It' s important to note that in certain circumstances, we may collect, use or di
 
 
 
-Last Update:23/10/2013
+Last Update:09/05/2014
 
   
 
@@ -213,7 +211,7 @@ You will receive unfiltered and random ads whether you participate or not, but u
 
 If you do not want us to use your information for any of the purposes  described above, you can [opt out](http://mobilebrowser.bwanet.ca/optout/v2/bell-en.jsp).    
   
-Last Update:23/10/2013
+Last Update:09/05/2014
 
   
 
@@ -230,7 +228,7 @@ The kinds of things we might ask you to confirm could include your account numbe
 
 We therefore ask for your patience and understanding when you are asked to confirm or provide such information as this process has been established to protect your personal account information.
 
-Last Update:23/10/2013
+Last Update:09/05/2014
 
   
 
@@ -282,7 +280,7 @@ Because Bell is committed to continually improving its customer contact experien
 
 The Bell companies may also record outbound calls placed to our customers for similar purposes.
 
-Last Update:23/10/2013
+Last Update:09/05/2014
 
   
 
@@ -295,7 +293,7 @@ For more information regarding marketing to children, please visit the [Canadian
 
 For more information about protecting children online, bell.ca offers some [information about parental controls and safe surfing](http://support.bell.ca/Internet/Security/How-can-I-protect-my-kids-on-the-Internet) in our Internet support pages.
 
-Last Update:23/10/2013
+Last Update:09/05/2014
 
   
 
@@ -306,7 +304,7 @@ Last Update:23/10/2013
 
 [Bell offers a number of services](http://bell.ca/Home_phone/Calling_features/Control_your_calls.tab), such as Call Display, Call Privacy and Call Blocking, to help balance the privacy interests of customers and the people they call. You can also find information about these services in the introductory pages of the telephone directory, by calling **310-BELL** (2355) or by visiting a Bell store.
 
-Last Update:23/10/2013
+Last Update:09/05/2014
 
   
 
@@ -403,7 +401,7 @@ ADADs used to make calls for purposes other than telemarketing must:
 
 These conditions do not apply to ADAD calls made for public-service reasons, including calls for emergency and administrative purposes by police and fire departments, schools, hospitals, or similar organizations.
 
-Last Update:23/10/2013
+Last Update:09/05/2014
 
   
 
@@ -482,7 +480,7 @@ Otherwise, if you suspect you’ve been a target of any type of phone or Interne
 
 To find out more about fraud prevention, go to [www.competitionbureau.gc.ca/fraud](http://www.competitionbureau.gc.ca/fraud).
 
-Last Update:23/10/2013
+Last Update:09/05/2014
 
   
 
@@ -499,7 +497,7 @@ Bell ExpressVu L.P.
 The Source (Bell) Electronics Inc.  
 Bell Media Inc.  
   
-Last Update:23/10/2013
+Last Update:09/05/2014
 
   
 
