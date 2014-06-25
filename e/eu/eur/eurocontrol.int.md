@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eurocontrol.int privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101042041id_/http%3A//www.eurocontrol.int/articles/privacy-policy-ip-address) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocontrol.int privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082019id_/http%3A//www.eurocontrol.int/articles/privacy-terms-use) for the most accurate reproduction.*
 
-# Privacy Policy / IP address | EUROCONTROL
+# Privacy & terms of use | Eurocontrol
 
 EUROCONTROL is committed to ensuring that your privacy is protected.
 
@@ -28,21 +28,20 @@ EUROCONTROL may collect personal information by which you can be identified for 
 
 EUROCONTROL only keeps the data for the time necessary to fulfil the purpose of collection or further processing.
 
-Our website requires the use of some cookies to enable you to browse our website. We use cookies for some of the following reasons:
-
-  * has_js cookie: checks if JavaScript is enabled in your browser
-  * boost-gzip cookie: checks for cache control
-  * ARPTwww cookie: our host information
-
-
-
-At no point do our cookies or those of our third parties store your personal information.  
-It is possible to turn off your cookies through your website browser settings however this will affect the functionality and experience of our site.
-
 EUROCONTROL is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure EUROCONTROL has put in place suitable physical, electronic and managerial procedures to safeguard and secure the information collected online.
 
 If you have previously agreed to us using your personal information for the purpose of informing you about EUROCONTROL’s activities and you want to subscribe, please contact us.
 
 EUROCONTROL will not sell, distribute or lease your personal information to third parties. EUROCONTROL will not use your personal information to send you promotional information about third parties which we think you may find interesting.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](mailto:%20webmaster@eurocontrol.int) as soon as possible.
+If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](mailto:webmaster@eurocontrol.int) as soon as possible.
+
+## Use of cookies
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+EUROCONTROL uses traffic log cookies to analyse data about webpage traffic and improve our website according to customer needs. EUROCONTROL only uses this information for statistical analysis purposes and then the data is removed from the system.
+
+A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website
