@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the numberfire.com privacy policy that was archived on 2013-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131201005748id_/https%3A//www.numberfire.com/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the numberfire.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625090935id_/http%3A//www.numberfire.com/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 
 	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script async="" src="//ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIBVVNSGwIIXVdXBQk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 	<meta name="robots" content="index, follow">
 	<meta name="title" content="Privacy Policy">
 	<meta name="author" content="numberFire, Inc.">
@@ -12,7 +12,7 @@
 	
 	
 <meta name="description" content="numberFire uses the powers of quantitative analysis to be the world's most accurate predictor of sports performance.">	
-	<script async="" src="//ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Privacy Policy</title>
+	<title>Privacy Policy</title>
 	<!--<meta name="google-site-verification" content="DdUdIAxPoFdEuU9cl8G129FMtIryP5OOMu1loh8ISUs" />-->
 	<!-- <meta name="google-site-verification" content="ynxjopT07JwTTfcKz26FtwwM5gz1C4wFBCQEzu87nsY" /> -->
 	<meta name="google-site-verification" content="msBGELE8fxr0wulpL7zwPetSi3Njb1mvPSZpodL_iyM">
@@ -21,9 +21,9 @@
 	<link rel="shortcut icon" href="https://d1tjohjvimcqgl.cloudfront.net/website/global/favicon.ico" type="image/x-icon">
 	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/news/feed">
 	
-	<link rel="stylesheet" href="/css-new/style.min.css?v=28">
-	<link rel="stylesheet" href="/css-new/colorbox.min.css?v=28">
-	<!--<link rel="stylesheet" media="only screen and (max-device-width:720px)" href="/css-new/mobile.min.css?v=28">-->
+	<link rel="stylesheet" href="/css-new/style.min.css?v=42">
+	<link rel="stylesheet" href="/css-new/colorbox.min.css?v=42">
+	<!--<link rel="stylesheet" media="only screen and (max-device-width:720px)" href="/css-new/mobile.min.css?v=42">-->
 
 	<script type="text/javascript">
 		var NF_DATA = {"is_logged_in":false,"FACEBOOK_APP_NAMESPACE":"numberfire","FACEBOOK_APP_ID":"103292676390270"}; 
@@ -88,26 +88,36 @@
 			<nav id="primary-nav" class="pr">
 				<a href="/" title="numberFire" id="mark">numberFire Fantasy Projections</a>
 				<ul id="primary" class="pa clearfix">
-					<li class=""><a class="top-level sport" href="/nfl" title="NFL Fantasy Projections">NFL</a></li>
-					<li class=""><a class="top-level sport" href="/nba" title="NBA Fantasy Projections">NBA</a></li>
 					<li class=""><a class="top-level sport" href="/mlb" title="MLB Fantasy Projections">MLB</a></li>
+					<li class=""><a class="top-level sport" href="/soccer/world-cup" title="2014 FIFA World Cup Analysis and News">WORLD CUP</a></li>
+					<li class=""><a class="top-level sport" href="/nba" title="NBA Fantasy Projections">NBA</a></li>
+					<!--<li class=""><a class="top-level sport" href="/ncaab" title="NCAA Bracketology">NCAAB</a></li>-->
+					<li class=""><a class="top-level sport" href="/nfl" title="NFL Fantasy Projections">NFL</a></li>
 					<li id="premium" class="">
-						<a href="/premium" class="top-level" title="Gambling Advice and Recommendations">PREMIUM<b class="caret"></b></a>
+						<a href="/premium" class="top-level" title="Gaming Advice and Recommendations">PREMIUM<b class="caret"></b></a>
 						<div class="wrapper clearfix dn">
 							<nav id="secondary-premium">
 								<div class="dropdown-main">
 									<p class="gray br">Want to make some real money? Our Premium products help you dominate your daily fantasy leagues and put a hurting on Vegas.</p>
 									<h4 class="xsmall light-gray">PROJECTIONS</h4>
 									<ul class="clearfix sub-nav br">
-										<li><a href="/nfl/games/" title="NFL Game Projections">NFL Game Projections</a></li>
+										<!-- <li><a href="/nfl/games/" title="NFL Game Projections">NFL Game Projections</a></li> -->
 										<li><a href="/nba/games/" title="NBA Game Projections">NBA Game Projections</a></li>
-										<li><a href="/ncaaf/games/" title="NCAAF Game Projections">NCAAF Game Projections</a></li>
-										<li><a href="/ncaab/games/" title="NCAAB Game Projections">NCAAB Game Projections</a></li>
+										<!-- <li><a href="/ncaab/games/" title="NCAAB Game Projections">NCAAB Game Projections</a></li> -->
+										<li><a href="/mlb/games/" title="MLB Game Projections">MLB Game Projections</a></li>
+										<li><a href="/soccer/games/" title="World Cup Game Projections">World Cup Game Projections</a></li>
 									</ul>
+									<!-- <h4 class="xsmall light-gray">MARCH MADNESS</h4>
+									<ul class="clearfix sub-nav br">
+										<li><a href="/ncaab/march-madness/bracket-picks/" title="March Madness Bracket Picks">March Madness Bracket Picks</a></li>
+										<li><a href="/ncaab/march-madness/game-simulator/" title="March Madness Game Simulator">March Madness Game Simulator</a></li>
+									</ul> -->
 									<h4 class="xsmall light-gray">DAILY FANTASY</h4>
 									<ul class="clearfix sub-nav br">
-										<li><a href="/nfl/news/1461/daily-fantasy-football-thanksgiving-day-optimized-lineups" title="NFL Optimal Lineups">NFL Optimal Lineups</a></li>
+										<li><a href="/nba/daily-fantasy/custom-optimal-lineup" title="NBA Custom Optimal Lineups">NBA Custom Optimal Lineups</a></li>
 										<li><a href="/nba/daily-fantasy/optimal-lineups" title="NBA Optimal Lineups">NBA Optimal Lineups</a></li>
+										<li><a href="/mlb/daily-fantasy/custom-optimal-lineup" title="MLB Custom Optimal Lineups">MLB Custom Optimal Lineups</a></li>
+										<li><a href="/mlb/daily-fantasy/optimal-lineups" title="MLB Optimal Lineups">MLB Optimal Lineups</a></li>
 									</ul>
 									<h4 class="xsmall light-gray">MORE INFO</h4>
 									<ul class="clearfix sub-nav">
@@ -119,16 +129,15 @@
 						</div>
 					</li>
 					<li>
-						<a href="/nfl/fantasy/fantasy-football-projections" class="top-level" title="Week 13 Fantasy Football Projections">PROJECTIONS<b class="caret"></b></a>
+						<a href="/nfl/fantasy/fantasy-football-projections" class="top-level" title="Week 21 Fantasy Football Projections">PROJECTIONS<b class="caret"></b></a>
 						<div class="wrapper clearfix dn">
 							<nav id="secondary-projections">
 								<div class="dropdown-main">
 									<h4 class="xsmall light-gray">FANTASY</h4>
 									<ul class="clearfix sub-nav">
-										<li><a href="/nfl/fantasy/fantasy-football-projections" title="Week 13 Fantasy Football Projections">Fantasy Football Projections</a></li>
-										<li><a href="/mlb/fantasy/fantasy-baseball-projections" title="Fantasy Baseball Projections">Fantasy Baseball Projections</a></li>
 										<li><a href="/nba/fantasy/fantasy-basketball-projections" title="Fantasy Basketball Projections">Fantasy Basketball Projections</a></li>
-										
+										<li><a href="/mlb/fantasy/fantasy-baseball-projections" title="Fantasy Baseball Projections">Fantasy Baseball Projections</a></li>
+										<li><a href="/nfl/fantasy/fantasy-football-projections" title="Week 21 Fantasy Football Projections">Fantasy Football Projections</a></li>
 									</ul>
 								</div>
 							</nav>
@@ -141,17 +150,18 @@
 								<div class="dropdown-main">
 									<h4 class="xsmall light-gray">FANTASY</h4>
 									<ul class="clearfix sub-nav br">
-										<li><a href="/nfl/fantasy/fantasy-football-rankings/" title="Fantasy Football Rankings">Fantasy Football Rankings</a></li>
-										<li><a href="/mlb/fantasy/fantasy-baseball-rankings/" title="Fantasy Baseball Projections">Fantasy Baseball Rankings</a></li>
 										<li><a href="/nba/fantasy/fantasy-basketball-rankings/" title="Fantasy Basketball Projections">Fantasy Basketball Rankings</a></li>
+										<li><a href="/mlb/fantasy/fantasy-baseball-rankings/" title="Fantasy Baseball Projections">Fantasy Baseball Rankings</a></li>
+										<li><a href="/nfl/fantasy/fantasy-football-rankings/" title="Fantasy Football Rankings">Fantasy Football Rankings</a></li>			
 									</ul>
 									<h4 class="xsmall light-gray">POWER RANKINGS</h4>
 									<ul class="clearfix sub-nav">
-										<li><a href="/mlb/players/power-rankings/" title="MLB Player Rankings">MLB Player Rankings</a></li>
-										<li class="sep" style="margin-bottom: 10px"><a href="/mlb/teams/power-rankings/" title="MLB Team Rankings">MLB Team Rankings</a></li>
 										<li><a href="/nba/players/power-rankings/" title="NBA Player Rankings">NBA Player Rankings</a></li>
 										<li class="sep" style="margin-bottom: 10px"><a href="/nba/teams/power-rankings/" title="NBA Team Rankings">NBA Team Rankings</a></li>
-										<li><a href="/nfl/teams/power-rankings/" title="NFL Team Rankings">NFL Team Rankings</a></li>
+										<li><a href="/mlb/players/power-rankings/" title="MLB Player Rankings">MLB Player Rankings</a></li>
+										<li class="sep" style="margin-bottom: 10px"><a href="/mlb/teams/power-rankings/" title="MLB Team Rankings">MLB Team Rankings</a></li>
+										<li class="sep" style="margin-bottom: 10px"><a href="/nfl/teams/power-rankings/" title="NFL Team Rankings">NFL Team Rankings</a></li>
+										<li><a href="/ncaab/power-rankings/" title="NCAAB Team Rankings">NCAAB Team Rankings</a></li>
 									</ul>
 								</div>
 							</nav>
@@ -190,7 +200,7 @@
 			The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect and/or display some of your Personal Information. We collect the following types of information from our users.
 			<br><br>
 			Account Information: <br><br>
-			When you create an Account, you will provide information that could be Personal Information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account on the Services and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our Services, but only rarely when we feel such information is important. You may unsubscribe from these messages through your Account settings, although we, regardless, reserve the right to contact you when we believe it is necessary, such as for account recovery purposes.
+			When you create an Account, you will provide information that could be Personal Information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account on the Services and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our Services, and to highlight specific offers from marketing partners. You may unsubscribe from these messages through your Account settings or through our email provider in accordance with CAN-SPAM regulatuions, although we, regardless, reserve the right to contact you when we believe it is necessary, such as for account recovery purposes.
 			<br><br>
 			User Content:<br><br>
 			Some features of the Services allow you to provide content to the Services, such as written comments. All content submitted by you to the Services may be retained by us indefinitely, even after you terminate your account. We may continue to disclose such content to third parties in a manner that does not reveal Personal Information, as described in this Privacy Policy.
@@ -295,7 +305,7 @@
 	<li><a href="/info/jobs/">Jobs</a></li>
 	<li><a href="/info/press/">Press</a></li>
 	<li><a href="/info/the-team/">The Team</a></li>
-	<li><a href="/info/contributors/">Contributors</a></li>
+	<li><a href="/author/">Contributors</a></li>
 </ul>
 
 <h4 class="strong sb mt0">Legal</h4>
@@ -358,38 +368,38 @@
 				<li class="clearfix">
 					<ul>
 						<li><h5>Projections</h5></li>
-													<li><a href="/nfl/players/jamaal-charles" title="Jamaal Charles Fantasy Projection">Jamaal Charles Fantasy Projection</a></li>
-													<li><a href="/nfl/players/desean-jackson" title="DeSean Jackson Fantasy Projection">DeSean Jackson Fantasy Projection</a></li>
-													<li><a href="/nfl/players/carson-palmer" title="Carson Palmer Fantasy Projection">Carson Palmer Fantasy Projection</a></li>
+													<li><a href="/nfl/players/jake-locker" title="Jake Locker Fantasy Projection">Jake Locker Fantasy Projection</a></li>
+													<li><a href="/nfl/players/arian-foster" title="Arian Foster Fantasy Projection">Arian Foster Fantasy Projection</a></li>
 													<li><a href="/nfl/players/aaron-rodgers" title="Aaron Rodgers Fantasy Projection">Aaron Rodgers Fantasy Projection</a></li>
-													<li><a href="/nfl/players/nick-foles" title="Nick Foles Fantasy Projection">Nick Foles Fantasy Projection</a></li>
+													<li><a href="/nfl/players/dez-bryant" title="Dez Bryant Fantasy Projection">Dez Bryant Fantasy Projection</a></li>
+													<li><a href="/nfl/players/philip-rivers" title="Philip Rivers Fantasy Projection">Philip Rivers Fantasy Projection</a></li>
 												<hr>
-													<li><a href="/nba/players/chris-andersen" title="Chris Andersen Fantasy Projection">Chris Andersen Fantasy Projection</a></li>
-													<li><a href="/nba/players/blake-griffin" title="Blake Griffin Fantasy Projection">Blake Griffin Fantasy Projection</a></li>
-													<li><a href="/nba/players/andre-iguodala" title="Andre Iguodala Fantasy Projection">Andre Iguodala Fantasy Projection</a></li>
-													<li><a href="/nba/players/samuel-dalembert" title="Samuel Dalembert Fantasy Projection">Samuel Dalembert Fantasy Projection</a></li>
-													<li><a href="/nba/players/terrence-jones" title="Terrence Jones Fantasy Projection">Terrence Jones Fantasy Projection</a></li>
+													<li><a href="/nba/players/giannis-antetokounmpo" title="Giannis Antetokounmpo Fantasy Projection">Giannis Antetokounmpo Fantasy Projection</a></li>
+													<li><a href="/nba/players/oj-mayo" title="O.J. Mayo Fantasy Projection">O.J. Mayo Fantasy Projection</a></li>
+													<li><a href="/nba/players/josh-smith" title="Josh Smith Fantasy Projection">Josh Smith Fantasy Projection</a></li>
+													<li><a href="/nba/players/trey-burke" title="Trey Burke Fantasy Projection">Trey Burke Fantasy Projection</a></li>
+													<li><a href="/nba/players/michael-carter-williams" title="Michael Carter-Williams Fantasy Projection">Michael Carter-Williams Fantasy Projection</a></li>
 												<hr>
-													<li><a href="/mlb/players/miguel-cabrera" title="Miguel Cabrera Fantasy Projection">Miguel Cabrera Fantasy Projection</a></li>
-													<li><a href="/mlb/players/mike-trout" title="Mike Trout Fantasy Projection">Mike Trout Fantasy Projection</a></li>
-													<li><a href="/mlb/players/chris-davis" title="Chris Davis Fantasy Projection">Chris Davis Fantasy Projection</a></li>
 													<li><a href="/mlb/players/paul-goldschmidt" title="Paul Goldschmidt Fantasy Projection">Paul Goldschmidt Fantasy Projection</a></li>
-													<li><a href="/mlb/players/joey-votto" title="Joey Votto Fantasy Projection">Joey Votto Fantasy Projection</a></li>
+													<li><a href="/mlb/players/justin-morneau" title="Justin Morneau Fantasy Projection">Justin Morneau Fantasy Projection</a></li>
+													<li><a href="/mlb/players/adam-lind" title="Adam Lind Fantasy Projection">Adam Lind Fantasy Projection</a></li>
+													<li><a href="/mlb/players/seth-smith" title="Seth Smith Fantasy Projection">Seth Smith Fantasy Projection</a></li>
+													<li><a href="/mlb/players/corey-dickerson" title="Corey Dickerson Fantasy Projection">Corey Dickerson Fantasy Projection</a></li>
 											</ul>
 				</li>
 				<li class="clearfix">
 					<ul>
 						<li><h5>Questions</h5></li>
-													<li><a href="/questions/view/34257/need-wr3-help-boldin-steve-johnson-randle" title="Need WR3 Help. Boldin, Steve Johnson, Randle,">Need WR3 Help. Boldin, Steve Johnson, Randle,</a></li>
-													<li><a href="/questions/view/34265/kendall-wright-or-bowe-as-flex" title="Kendall Wright or Bowe as flex?">Kendall Wright or Bowe as flex?</a></li>
-													<li><a href="/questions/view/34258/wr-help" title="WR help">WR help</a></li>
-													<li><a href="/questions/view/34263/qb-starter" title="QB starter?">QB starter?</a></li>
+													<li><a href="/questions/view/37832/alfred-morris-or-montee-ball" title="Alfred Morris or Montee Ball?">Alfred Morris or Montee Ball?</a></li>
+													<li><a href="/questions/view/37859/how-high-should-matt-forte-be-ranked" title="How high should Matt Forte be ranked?">How high should Matt Forte be ranked?</a></li>
+													<li><a href="/questions/view/37869/who-would-you-keep" title="Who would you keep?">Who would you keep?</a></li>
+													<li><a href="/questions/view/37828/is-peyton-manning-the-top-fantasy-quarterback-entering-2014" title="Is Peyton Manning the top fantasy quarterback entering 2014?">Is Peyton Manning the top fantasy quarterback entering 2014?</a></li>
 												<hr>
-													<li><a href="/questions/view/33712/tyreke-evans-or-steve-blake" title="Tyreke Evans or Steve Blake?">Tyreke Evans or Steve Blake?</a></li>
-													<li><a href="/questions/view/33482/drop-and-pick-up-help-asap-thanks" title="Drop and pick up? Help asap...thanks!">Drop and pick up? Help asap...thanks!</a></li>
+													<li><a href="/questions/view/37831/should-the-suns-give-up-either-goran-dragic-or-eric-bledsoe-to-get-kevin-love" title="Should the Suns give up either Goran Dragic or Eric Bledsoe to get Kevin Love?">Should the Suns give up either Goran Dragic or Eric Bledsoe to get Kevin Love?</a></li>
+													<li><a href="/questions/view/37816/thoughts-on-lebron-s-cramping" title="Thoughts on LeBron's cramping?">Thoughts on LeBron's cramping?</a></li>
 												<hr>
-													<li><a href="/questions/view/33965/keeper-rankings-for-young-pitchers" title="Keeper Rankings for Young Pitchers">Keeper Rankings for Young Pitchers</a></li>
-													<li><a href="/questions/view/32139/5-ppr-flex-g-olsen-or-d-hopkins" title=".5 ppr flex: g olsen or d hopkins?">.5 ppr flex: g olsen or d hopkins?</a></li>
+													<li><a href="/questions/view/37867/heaney-for-trumbo" title="Heaney for Trumbo?">Heaney for Trumbo?</a></li>
+													<li><a href="/questions/view/37885/will-anyone-catch-the-brewers-in-the-nl-central" title="Will anyone catch the Brewers in the NL Central?">Will anyone catch the Brewers in the NL Central?</a></li>
 											</ul>
 				</li>
 				<li class="clearfix">
@@ -404,11 +414,12 @@
 						<hr>
 						
 						<li><a href="/info/about-us/">About Us</a></li>
+						<li><a href="/info/partners/">Partners</a></li>
 						<li><a href="/info/advertise/">Advertise With Us</a></li>
 						<li><a href="/info/how-it-works/">How It Works</a></li>
 						<li><a href="/info/jobs/">Jobs</a></li>
 						<li><a href="/info/the-team/">The Team</a></li>
-						<li><a href="/info/contributors/">Contributors</a></li>
+						<li><a href="/author/">Contributors</a></li>
 						
 						<hr>
 						
@@ -433,28 +444,24 @@
 			</ul>
 			
 			<p class="mb0">
-				© 2009-2013 numberFire, Inc.<br>
+				© 2009-2014 numberFire, Inc.<br>
 				All rights reserved. Stop stealing our stuff and ripping off our features, please.
 			</p>
 			
 		</nav>
 	</footer>
-	
-	
 	<script type="text/javascript" src="//use.typekit.net/hvg3qyl.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-	
-	
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.min.js"><\/script>')</script><script src="js/libs/jquery-1.7.1.min.js"></script>
 	<script src="/js-new/plugins.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.3.1/jquery.cookie.min.js"></script>
-	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-timeago/1.1.0/jquery.timeago.min.js" type="text/javascript"></script>
+	<script src="/js-new/jquery.timeago.js" type="text/javascript"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.3.20.1/jquery.colorbox-min.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script>
 	<script src="/js/jquery.livequery.js" type="text/javascript"></script>
 	<script src="/js/trimpath/template-1.0.38.js" type="text/javascript"></script>
-	<script src="/js-new/script.js?v=102"></script>
+	<script src="/js-new/script.js?v=129"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
 	
 		<script>
@@ -500,7 +507,11 @@
 		
 	
 	
-	
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","3da06e65a6","1896528","YwBSZxBTW0FWAUwLDFpKc0YRRlpfGCtWBAwXNUJaFFNWS2cNVAsATQ==",0,7,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"3da06e65a6","applicationID":"1896528","transactionName":"YwBSZxBTW0FWAUwLDFpKc0YRRlpfGCtWBAwXNUJaFFNWS2cNVAsATQ==","queueTime":0,"applicationTime":7,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
