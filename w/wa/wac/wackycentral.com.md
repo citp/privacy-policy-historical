@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wackycentral.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213075524id_/http%3A//wackycentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wackycentral.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104433id_/http%3A//wackycentral.com/privacy.html) for the most accurate reproduction.*
 
 # Wacky Central | PRIVACY POLICY
 
