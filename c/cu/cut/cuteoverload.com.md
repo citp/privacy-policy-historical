@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuteoverload.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221092707id_/http%3A//cuteoverload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteoverload.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124956id_/http%3A//cuteoverload.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Cute Overload
 
@@ -6,9 +6,9 @@ Privaceh! Policeh!
 
 Let’s get this party started:
 
-This privacy policy applies to transactions and activities in which you engage and data gathered only on the Cute Overload web site “[http://www.cuteoverload.com&#8221](http://www.cuteoverload.com%26/#8221); (the “Site”). This privacy policy does not apply to any other web site or to any offline contact between you and Cute Overload. Please review this privacy policy periodically because we modify it from time to time. Each time you visit this Site or provide us with information through the Site, by doing so you are accepting practices described in the privacy policy in effect at that time.
+This privacy policy applies to transactions and activities in which you engage and data gathered only on the Cute Overload web site [http://www.cuteoverload.com](http://www.cuteoverload.com/) (the “Site”). This privacy policy does not apply to any other web site or to any offline contact between you and Cute Overload. Please review this privacy policy periodically because we modify it from time to time. Each time you visit this Site or provide us with information through the Site, by doing so you are accepting practices described in the privacy policy in effect at that time.
 
-You are also accepting our [Terms of Use](https://web.archive.org/page/terms/) (they are also really cute). We limit use of the Site to adults who are at least 13 years of age and we do not knowingly collect any information from persons under the age of 13. If we learn that a submission or post is by a person under the age of 13, we will remove the material.
+You are also accepting our [Terms of Use](http://cuteoverload.com/submissions/) (they are also really cute). We limit use of the Site to adults who are at least 13 years of age and we do not knowingly collect any information from persons under the age of 13. If we learn that a submission or post is by a person under the age of 13, we will remove the material.
 
 Let’s put that another way so we’re really clear. Cute Overload requires all users to be at least thirteen (13) years old to use this Site.
 
