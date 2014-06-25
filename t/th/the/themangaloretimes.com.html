@@ -1,0 +1,633 @@
+<!--The following is the downloaded HTML source of the themangaloretimes.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625060823id_/http%3A//themangaloretimes.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head> 
+			<meta name="description" content="">
+			<meta name="keywords" content="">
+			<meta name="title" content="">
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta property="og:image" content="">
+			<link href="http://themangaloretimes.com/css/style.css" rel="stylesheet" type="text/css"> 
+			<link href="http://themangaloretimes.com/css/default.css" rel="stylesheet" type="text/css"> 
+<link rel="icon" type="image/png" href="http://themangaloretimes.com/mlore.png">
+			<link href="http://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700italic,700,900,900italic,100italic,100,300,300italic" rel="stylesheet" type="text/css">
+			<link href="http://themangaloretimes.com/css/jquery.jscrollpane.css" rel="stylesheet" type="text/css"> 
+			<link href="http://themangaloretimes.com/css/doctor.css" type="text/css" rel="stylesheet">
+			<link rel="stylesheet" href="http://themangaloretimes.com/css/colorbox.css">
+			<link rel="stylesheet" type="text/css" media="all" href="http://themangaloretimes.com/css/jsDatePick_ltr.min.css">
+			<link rel="stylesheet" type="text/css" href="http://themangaloretimes.com/css/star.css" title="sea-green">
+			<link href="http://themangaloretimes.com/css/doctorlist.css" type="text/css" rel="stylesheet">
+			<link rel="stylesheet" href="http://themangaloretimes.com/css/isotope-style.css">
+			<link rel="stylesheet" href="http://themangaloretimes.com//css/font-awesome.min.css">
+			<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://themangaloretimes.com/js/jquery.min.js" type="text/javascript"></script>
+			<script src="http://themangaloretimes.com/js/live.js" type="text/javascript"></script>
+			<script src="http://themangaloretimes.com/js/jcarousellite_1.0.1c4.js" type="text/javascript"></script>
+			<script src="http://themangaloretimes.com/js/newsticker.js" type="text/javascript"></script>
+			<script type="text/javascript" src="http://themangaloretimes.com/js/jquery-ui.min.js"></script>
+			<script type="text/javascript" src="http://themangaloretimes.com/js/prettify.js"></script>
+			<script type="text/javascript" src="http://themangaloretimes.com/js/jquery.slimscroll.js"></script>
+			<script src="http://themangaloretimes.com/js/jquery.ticker.js" type="text/javascript"></script>
+			<script src="http://themangaloretimes.com/js/site.js" type="text/javascript"></script>
+			<script src="http://themangaloretimes.com/js/jwplayer.js"></script>
+  			<script type="text/javascript" src="http://themangaloretimes.com/js/flash_detect.js"></script>
+			<link type="text/css" rel="stylesheet" href="http://themangaloretimes.com/css/prettify.css">
+			<link href="http://themangaloretimes.com/css/history_geography.css" type="text/css" rel="stylesheet">
+						<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet" type="text/css">
+			
+	<title> </title>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45892114-1', 'themangaloretimes.com');
+  ga('send', 'pageview');
+
+</script>
+		</head>
+		<!--<title>News portal</title>	-->
+		<body id="mnglr-body">
+
+<script>
+var $feec = jQuery.noConflict();
+$feec(function(){
+
+			 
+			    // Specify the ZIP/location code and units (f or c)
+			    var loc = 'INXX0081'; // or e.g. SPXX0050
+			    var u = 'f';
+			 
+			    var query = "SELECT item.condition FROM weather.forecast WHERE location='" + loc + "' AND u='" + u + "'";
+			    var cacheBuster = Math.floor((new Date().getTime()) / 1200 / 1000);
+	    var url = 'http://query.yahooapis.com/v1/public/yql?q=' + encodeURIComponent(query) + '&format=json&_nocache=' + cacheBuster;
+			 
+			    window['wxCallback'] = function(data) {
+			        var info = data.query.results.channel.item.condition;
+			        $feec('#wxIcon').css({
+			            backgroundPosition: '-' + (61 * info.code) + 'px 0'
+			        }).attr({
+			            title: info.text
+			        });
+			        $feec('#wxIcon2').append('<img src="http://l.yimg.com/a/i/us/we/52/' + info.code + '.gif" width="34" height="34" title="' + info.text + '" />');
+			        $feec('#wxTemp').html(info.temp + '&deg;' + (u.toUpperCase()));
+
+			    };
+			 
+			    $feec.ajax({
+			        url: url,
+			        dataType: 'jsonp',
+			        cache: false,
+			        jsonpCallback: 'wxCallback'
+			    });
+			     
+			});
+
+</script>	
+		
+<style>
+#feedback {
+    background-color: #FCFBFB;
+    left: -375px;
+    position: fixed;
+    top: 100px;
+    z-index: 1050;
+}
+#feedback form {
+    border: 1px solid #063D60;
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    padding: 10px 9px;
+}
+#feedback form p {
+    margin-top: 10px;
+    width: 342px;
+}
+#feedback form label {
+    color: #333333;
+    display: block;
+    float: left;
+    font-size: 14px;
+    margin-right: 20px;
+    width: 100%;
+}
+#feedback a {
+    background: url("http://themangaloretimes.com/images/feedback-buttons.png") no-repeat scroll left center #063D60;
+    border-radius: 1px 45px 45px 1px;
+    display: block;
+    float: left;
+    height: 150px;
+    position: absolute;
+    right: -18px;
+    text-indent: -9999em;
+    top: 120px;
+    width: 20px;
+}
+#feedback a:hover {
+    background-position: right center;
+}
+#feedback form .btn {
+    background: none repeat scroll 0 0 #063D60;
+    border: 0 none;
+    color: #FFFFFF;
+    cursor: pointer;
+    float: right;
+    height: 28px;
+    margin-right: 100px;
+    width: 80px;
+}
+#feedback form textarea {
+    border: 1px solid #CCCCCC;
+    height: 140px;
+    width: 320px;
+}
+#feedback form input[type="text"] {
+    border: 1px solid #CCCCCC;
+    height: 20px;
+    width: 320px;
+}
+#feedback h2 {
+    color:#063D60;
+    font-size: 22px;
+    text-align: center;
+}
+#feedback form p span.LV_validation_message {
+    padding-left: 91px;
+position:absolute;
+display:block;
+}
+.feederr {
+    color: #CC0000;
+}
+.feedsuc {
+    color: #004600;
+}
+.rightfollowBtn {
+    min-height: 50px;
+    position: fixed;
+    right: 0;
+    top: 215px;
+    width: 38px;
+    z-index: 99999;
+}
+.rightfollowBtn ul li {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #DADADA;
+    border-radius: 5px 1px 1px 5px;
+    box-shadow: 7px 7px 13px #888888;
+    margin-bottom: 2px;
+    padding: 5px 5px 2px;
+}
+</style>
+<div id="feedback">
+
+
+		<form action="http://themangaloretimes.com/feedaction.php" method="post">
+		<div class="feed-mains-div" style="height:500px;overflow-x:hidden;overflow-y:scroll;">
+			<h2>Enter your Feedback here:</h2>
+						<p>
+			<label>Name:<span style="color:#cc0000">*</span></label><input type="text" name="feedname" id="feedname">
+			<script type="text/javascript">
+				var feedname = new LiveValidation('feedname');feedname.add( Validate.Presence );
+			</script>
+			</p>
+			<p>
+			<label>Email: <span style="color:#cc0000">*</span></label><input type="text" name="feedemail" id="feedemail">
+			<script type="text/javascript">
+			var feedemail = new LiveValidation('feedemail');feedemail.add( Validate.Presence );feedemail.add( Validate.Email );				</script>
+			</p>
+			<p>
+			<label>Subject: <span style="color:#cc0000">*</span></label><input type="text" name="feedsubject" id="feedsubject">
+			<script type="text/javascript">
+			var feedsubject = new LiveValidation('feedsubject');feedsubject.add( Validate.Presence );
+			</script>
+			</p>
+			
+			<p>
+			<label>Message:<span style="color:#cc0000">*</span> </label><textarea name="feedmessage" id="feedmessage" cols="50" rows="15"></textarea>
+			<script type="text/javascript">var feedmessage = new LiveValidation('feedmessage');feedmessage.add( Validate.Presence );</script>
+			</p>
+			<p>
+			<label>&nbsp;</label>
+	
+			<img src="http://themangaloretimes.com/captcha/captcha_code_new.php?rand=1494310369" id="captchaimg">
+			</p>
+			<p>
+			<label>&nbsp;</label>
+			<span onclick="refreshCaptcha();" style="cursor:pointer;">Click here to refresh</span>
+			</p>
+				
+												
+												<script type="text/javascript">
+												
+												function refreshCaptcha()
+												
+												{
+												
+													var img = document.images['captchaimg'];
+												
+													img.src = img.src.substring(0,img.src.lastIndexOf("?"))+"?rand="+Math.random()*1000;
+												
+												}
+												
+												</script> 
+		<p><label>Code: </label><input type="text" name="6_letters_code" id="feedcaptcha"><script type="text/javascript">var feedcaptcha = new LiveValidation('feedcaptcha');feedcaptcha.add( Validate.Presence );</script></p> 
+			<p><input type="submit" value="Send" class="btn" name="feedsend"></p>
+			</div>
+		</form>
+
+		<a href="#" class="pull_feedback" title="Click to leave feedback">Feedback</a>
+	</div>
+	
+	<div class="rightfollowBtn">
+	<ul>
+	<li>
+	<a href="https://www.facebook.com/themangaloretimes" target="_blank" title="Follow Us">
+	<img height="25" width="25" src="http://themangaloretimes.com/images/fb.png" alt="fb">
+	</a>
+	</li>
+	<li>
+	<a href="https://twitter.com/themangaloretim" target="_blank" title="Follow Us">
+	<img height="25" width="25" src="http://themangaloretimes.com/images/tt.png" alt="tw">
+	</a>
+	</li>
+	<li>
+	<a href="javascript:;" target="_blank" title="Follow Us">
+	<img height="25" width="25" src="http://themangaloretimes.com/images/lk.png" alt="ln">
+	</a>
+	</li>
+	<li>
+	<a href="https://plus.google.com/u/0/108485396929340488168/posts" target="_blank" title="Follow Us">
+	<img height="25" width="25" src="http://themangaloretimes.com/images/gplus.jpg" alt="gplus">
+	</a>
+	</li>
+	<li>
+	<a href="javascript:;" target="_blank" title="Follow Us">
+	<img height="25" width="25" src="http://themangaloretimes.com/images/rs.png" alt="rss">
+	</a>
+	</li>
+	</ul>
+	</div>
+
+<script type="text/javascript">
+var $fee = jQuery.noConflict();
+$fee(document).ready(function(){
+		jQuery(".pull_feedback").toggle(function(){
+				jQuery("#feedback").animate({left:"0px"});
+				return false;
+			},
+			function(){
+				jQuery("#feedback").animate({left:"-375px"});	
+				return false;
+			}
+		); //toggle
+	}); //document.ready
+</script>
+
+		
+		<div class="main-wrapper-home">
+			<!--<div class="top-menu-news ovr">
+
+				<div class="wrapper">
+<div id="together" style="float: left; padding: 8px 5px;">
+<p id="time" style="color:#ffffff;margin-left:5px;font-size: 11px;">
+
+Last Updated :  
+</p>
+
+</div>
+
+
+
+					
+				</div>
+			</div>-->
+	
+
+								
+<div class="bg-close-div" title="Click Here To Close" onclick="imagehide();" style="position:fixed;background:#7c2c7c;color:#fff;padding:2px 4px;width:10px;border:1px solid #ccc;text-align:center;top:0px;right:10px;z-index:999;">x</div>
+<div class="wrapper-left-div" style="position: fixed; height: 700px; left: 0px; top: 0px; cursor: pointer; width: 148px;"> </div>
+<div class="wrapper-right-div" style="position: fixed; height: 700px; right: 0px; top: 0px; cursor: pointer; width: 148px;"> </div>
+<script type="text/javascript">
+var sceenx=screen.width;
+var dw=sceenx-1070;
+var divwidth=dw/2;
+var dwidth=divwidth+"px";
+var dleft=divwidth+1000+"px";
+
+function imagehide(){
+$feec('#mnglr-body').css({'background':'none'});
+$feec('.bg-close-div').css({'display':'none'});
+$feec('.wrapper-left-div').css({'display':'none'});
+$feec('.wrapper-right-div').css({'display':'none'});
+}
+
+$feec('.wrapper-left-div').css('width',dwidth);
+$feec('.wrapper-right-div').css('width',dwidth);
+//$feec('.wrapper-left-div').click(function(){
+//window.open('http://contest.bestcollegehunt.com', '_blank');
+//});
+//$feec('.wrapper-right-div').click(function(){
+//window.open('http://contest.bestcollegehunt.com', '_blank');
+//});
+</script>
+
+						<script>
+							var screen_h =	screen.height;
+							var screen_w =	screen.width;
+						//	if(screen_w>1000){
+						//		screen_w	=	1000;
+						//	}
+							screen_h_org	=	0;
+							if(screen_h>1500){
+								screen_h_org	=	screen_h;
+								screen_h	=	1500;
+								screen_h_org	=	screen_h_org/2;
+								
+							}
+							var img_set		=	screen_h - (screen_h*0.2);
+						//	screen_h_org		=	(screen_h - img_set-150)/2; 
+						</script>
+																	<script>
+						var ad_v	=	jQuery.noConflict();
+					//	ad_v(".inner_ad_containr").css({"width":screen_w+"px","height":screen_h+"px"});
+						ad_v(window).load(function(){
+							
+							ad_v(".inner_ad_containr").css("background","none");
+							setTimeout(function(){ 
+								ad_v(".ad_to_remove1").remove();
+							},10000);
+						})
+						ad_v("#mnglr-body").css("background","url('http://themangaloretimes.com/images/ad/52e76f4d86c55527west-line-final.jpg') no-repeat  fixed center top transparent");	
+						ad_v(".wrapper-left-div").addClass("mnglr_ad_click").attr("id","clickad-MjI0MjE5MDI4");
+						ad_v(".wrapper-right-div").addClass("mnglr_ad_click").attr("id","clickad-MjI0MjE5MDI4");
+						ad_v(document).on("click",".wrapper-left-div, .wrapper-right-div ",function(){
+							window.open('http://westlinebuilders.com/the-best-projects', '_blank');
+						})
+						var ad_image_p	=	ad_v('#popup_image_disp');
+					//	var ad_width = ad_image_p.clientWidth;
+					//	var ad_height = ad_image_p.clientHeight;
+					//	ad_image_p.attr("width",screen_w);
+					//	ad_image_p.attr("height",img_set);
+						var org_img_wi_o	=	"";
+						var org_img_hi_o	=	"";
+						ad_image_p.attr("height",ad_v(window).height()-159-(ad_v(window).height()*0.03));
+						ad_v(".ad_to_remove1").css("paddingTop","159px");
+						var outer_div_w	=	(org_img_wi_o * ad_image_p.attr("height"))/org_img_hi_o;
+						ad_v(".inner_ad_containr").css("width",outer_div_w);
+						ad_v(document).on("click",".close_this_ad",function(){
+							ad_v(".ad_to_remove1").remove();
+						})
+					</script>
+						
+			<div class="header-main-news ovr">
+				<div class="wrapper" style="width:1000px;">
+					<div class="header-main ovr">
+						<div class="logo-header fl">
+							<!--<div class="m-beta" style="background: none repeat scroll 0 0 #FFFFFF;color: #063D60; font-size: 10px; margin: 67px 266px;padding: 2px 5px; position: absolute;">Beta</div>-->
+							<a href="http://themangaloretimes.com"><img src="http://themangaloretimes.com/images/The Mangalore Times.png" alt="no_image"></a>
+													</div>
+													
+							<div class="mangalore_headr_ad ovr" style="margin:2px 0 0;">
+								<div class="fl clear ovr mnglr_head1"><a href="http://westlinebuilders.com/the-best-projects" target="_blank" title="West line" class="mnglr_ad_click " id="clickad-MjI0MjE5MDIw"><span class="mnglr_place_ad" id="West line" style=" background:url('http://themangaloretimes.com/images/ad/53390fd479eb8755Weat line.jpg'); width:326px; height:50px; display:block;visibility:visible; margin-bottom:10px; ">&nbsp;</span></a></div>
+								<div class="fl ovr"><a href="http://www.yy-me.com/" target="_blank" title="YY-ME" class="mnglr_ad_click " id="clickad-MjI0MjE5MTQ0"><span class="mnglr_place_ad" id="YY-ME" style=" background:url('http://themangaloretimes.com/images/ad/533d024c313fe46permanent banner.jpg'); width:326px; height:50px; display:block;visibility:visible; margin-bottom:10px; ">&nbsp;</span></a></div>
+								<div class="fl clear ovr mnglr_head1"><a href="http://www.northernsky.in" target="_blank" title="NORTHANSKY" class="mnglr_ad_click " id="clickad-MjI0MjE5MTU2"><span class="mnglr_place_ad" id="NORTHANSKY" style=" background:url('http://themangaloretimes.com/images/ad/5371e2658f3b0294326 x 50.jpg'); width:326px; height:50px; display:block;visibility:visible; margin-bottom:10px; ">&nbsp;</span></a></div>
+								<div class="fl ovr"><a href="http://bestcollegehunt.com" target="_blank" title="Bestcollegehunt" class="mnglr_ad_click " id="clickad-MjI0MjE5MTc2"><span class="mnglr_place_ad" id="Bestcollegehunt" style=" background:url('http://themangaloretimes.com/images/ad/5361da1b3b540466BPH.jpg'); width:326px; height:50px; display:block;visibility:visible; margin-bottom:10px; ">&nbsp;</span></a></div>
+							</div>
+												<div class="news-search fr">
+								<div id="wxWrap"></div>			
+						</div>
+						<div class="main-nav-menu ovr fl">
+						<ul class="news-top-menu fr">
+							
+							<li><a href="http://themangaloretimes.com/"><img src="http://themangaloretimes.com/images/home_32x32.png" width="16" height="16"></a></li>
+							<li><a href="http://themangaloretimes.com/all-news">NEWS</a></li>							
+							<li><a href="http://themangaloretimes.com/allnews">MANGALORE</a></li>
+							<li><a href="http://themangaloretimes.com/udupi">UDUPI</a></li>
+							<li><a href="http://themangaloretimes.com/kasargod">KASARGOD</a></li>
+							<li><a href="http://themangaloretimes.com/bengaluru">BENGALURU</a></li>
+							<li><a href="http://themangaloretimes.com/karnataka">KARNATAKA</a></li>
+							<li><a href="http://themangaloretimes.com/goa">GOA</a></li>
+							<li><a href="http://themangaloretimes.com/india">INDIA</a></li>
+							
+							<li><a href="http://themangaloretimes.com/middle-east">MIDDLE-EAST</a></li>
+							<li><a href="http://themangaloretimes.com/world">WORLD</a></li>
+							<li><a href="http://themangaloretimes.com/entertainment">ENTERTAINMENT</a></li>
+							<li><a href="http://themangaloretimes.com/sports">SPORTS</a></li>
+							<li><a href="http://themangaloretimes.com/lifestyle">LIFESTYLE</a></li>
+							<!--<li  ><a href="http://themangaloretimes.com/recipe">RECIPE</a></li>-->
+						</ul>
+					</div>
+					<div class="clear"></div>	
+						
+					</div>								
+				</div>
+				
+			</div>
+			<div class="wrapper">
+					<div class="main-nav-submenu ovr">
+						<!--<div  style="float: left; padding: 0px 5px;">
+							<p style="color:#ffffff;float:right;margin-left:59px;font-weight:bold;margin-top:0px;">
+							-Mangalore 
+							</p>
+							    <span id="wxIcon2"  style="overflow:hidden;height:20px;position:absolute;margin:-9px 5px;"></span>
+							    <span id="wxTemp"class="fl"></span>
+						</div>-->
+						<ul class="news-top-menu fr">
+						<!--<li><a href="">Properties</a>  |</li>
+						<li><a href="">Jobs and Recruitment</a>  |</li>-->
+						<li><a href="http://themangaloretimes.com/doctors" target="_blank">Doctors in Mangalore</a>  |</li>
+						<li><a href="http://bestcollegehunt.com" target="_blank">Education and Careers</a>  |</li>
+						<!--<li><a href="http://bestcollegehunt.com/ask-questions" target="_blank">Question and Answers</a>  |</li>-->
+						<li><a href="http://themangaloretimes.com/mangalore-info">Mangalore Information</a>  |</li>	
+						<li><a href="http://themangaloretimes.com/classifieds">Classifieds</a> |</li>
+						<li><a href="http://themangaloretimes.com/recipe">Recipe</a> |</li>
+						<li><a href="http://themangaloretimes.com/tmt-special">TMT Special</a> |</li>
+						<li><a href="http://themangaloretimes.com/editor-choice">Editor's Choice</a> |</li>
+						<li><a href="http://themangaloretimes.com/cartoon">Cartoon</a></li>	
+						</ul>
+					</div>
+					<div id="ns" class="news-scroller ovr">
+			<div class="main_news">HEADLINES
+			</div>
+			<div class="main_news1">
+				<ul id="js-news" class="js-hidden">
+			<li class="news-item"><a href="http://themangaloretimes.com/news/congress-to-fight-uttar-pradesh-by-polls-alone" style="text-decoration:none;">
+Congress to fight Uttar Pradesh by-polls alone</a></li><li class="news-item"><a href="http://themangaloretimes.com/news/oscar-fernandes-slams-modi-over-railway-fare-hike" style="text-decoration:none;">
+Oscar Fernandes slams Modi over Railway fare hike</a></li><li class="news-item"><a href="http://themangaloretimes.com/news/doctors-at-kmc-correct-curved-spine-condition" style="text-decoration:none;">
+Doctors at KMC correct curved spine condition</a></li><li class="news-item"><a href="http://themangaloretimes.com/news/public-representatives-oppose-changes-in-bus-price" style="text-decoration:none;">
+Public representatives oppose changes in bus price</a></li><li class="news-item"><a href="http://themangaloretimes.com/news/indian-americans-lobbying-for-us-congress-invitation-for-modi" style="text-decoration:none;">
+Indian-Americans lobbying for US Congress invitation for Modi</a></li><li class="news-item"><a href="http://themangaloretimes.com/news/train-derails-in-bihar-four-killed" style="text-decoration:none;">
+Train derails in Bihar, four killed</a></li><li class="news-item"><a href="http://themangaloretimes.com/news/kia-expressway-nets-highest-daily-toll-in-karnataka" style="text-decoration:none;">
+KIA expressway nets highest daily toll in Karnataka</a></li><li class="news-item"><a href="http://themangaloretimes.com/news/chandy-achuthanandan-clash-over-chief-secretary" style="text-decoration:none;">
+Chandy, Achuthanandan clash over chief secretary</a></li><li class="news-item"><a href="http://themangaloretimes.com/news/kerala-it-firm-wins-tm-forum-award" style="text-decoration:none;">
+Kerala IT firm wins TM Forum award</a></li><li class="news-item"><a href="http://themangaloretimes.com/news/highway-projects-worth-rs40000-crore-approved" style="text-decoration:none;">
+Highway projects worth Rs.40,000 crore approved</a></li>				</ul>
+			</div>
+			</div>
+				</div>
+		</div>
+
+				
+			
+				 
+			
+<style>
+.pagination{padding:3px;margin:3px;font:Verdana,Arial,Helvetica,sans-serif;font-size:12px;float:right}.pagination a{padding:2px 5px 2px 5px;margin:2px;border:1px solid #EEE;text-decoration:none;color:#FFFFFF;font:Verdana,Arial,Helvetica,sans-serif;font-size:12px; background-color:#063D60;}.pagination a:hover,.pagination a:active{border:1px solid #999;color:#666}.pagination .current{padding:2px 5px 2px 5px;margin:2px;border:1px solid #8c8c8c;font-weight:bold;background-color:#8c8c8c;color:#FFF;font:Verdana,Arial,Helvetica,sans-serif;font-size:12px}.pagination .disabled{padding:2px 5px 2px 5px;margin:2px;border:1px solid #EEE;color:#DDD;font:Verdana,Arial,Helvetica,sans-serif;font-size:12px}
+</style>
+<div class="container">
+<div id="content1">
+
+<div id="top"></div>
+<div><h2 class="top_news1">Privacy Policy</h2> </div>
+				
+
+
+
+<div class="privacy-policy-main"><ol class="privacy-main-list">
+<p class="phead"><strong>ABOUT US</strong></p>
+<p class="privacypara">Infosoftx Media Network (division of Infosoftx IT services Pvt Ltd) is committed to your right to privacy and will only use your data as set in our Privacy Policy below. Please read this information carefully.</p>
+<p class="privacypara">The terms "we", "our" and "us" when used in this Privacy Policy means all and any of the above parties depending upon which website you are accessing. The terms "you" and "your" when used in this Privacy Policy means you as a user of one or more of our Websites.</p>
+<p class="privacypara">"Websites" means all and any of the websites in relation to the above companies including www.colorofnation.com, www.timesofuniverse.com, www.bestcollegehunt.com, www.themangaloretimes.com.</p>
+<p class="privacypara">This Privacy Policy has been prepared to meet the requirements of the India’s Data Protection Act (the "Act'"). By using our Websites and submitting information, you consent to the collection and use of your personal information by us as described in this Privacy Policy.</p>
+<p class="privacypara">Please read our Privacy Policy carefully to understand our views and practices regarding your personal information. This Privacy Policy (together with our Terms of Use and any other documents referred to in it) sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. If you have any questions or queries on this please contact us at the address outlined below.</p>
+<p class="privacypara">We occasionally modify our Privacy Policy and will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Please check our Privacy Policy frequently to ensure that you are aware of any changes.</p>
+
+<p class="phead"><strong>1.&nbsp; INFORMATION WE MAY COLLECT AND HOW WE USE IT</strong></p><ol class="privacy-sub-list">
+<strong>1.1 &nbsp;We collect the following information about you when you use the Websites: </strong><ol class="privacy-secsub-list">
+<li>information that you provide by filling in the forms on our Websites. We may collect personal information (for example your name, email address and postal address) when you register for an account with us or subscribe for any of our newsletters. We may also ask you for information when you report a problem with a Website;</li>
+<li>correspondence, or a record of it if you should contact us;</li>
+<li>surveys that we may use for research purposes, which we have asked you to complete, although you do not have to respond to them; and</li>
+<li>information collected by us as you use a Website. We collect and store information transmitted by your computer when you use our Websites. This may include your IP address, browser data and information we receive from cookies (please see section 6 below).</li>
+</ol>
+<strong>1.2 &nbsp;We may use this information in the following ways:</strong><ol class="privacy-secsub-list">
+<li>to provide our service(s) to you as a user of a Website, including enhancing your user experience;</li>
+<li>to carry out our obligations arising from any contracts entered into between you and us;</li>
+<li>to ensure that content from our Websites is presented in the most effective manner for you and your computer;</li>
+<li>to identify you when you visit a Website including to assist with logging you in;</li>
+<li>to notify you about changes to our Website;</li>
+<li>to help diagnose problems with our server and to administer a Website;</li>
+<li>to provide you with newsletters and other information about features of our Website which we think may be of
+interest to you and for related marketing purposes, if you have submitted your contact details to us for these purposes or otherwise provided your consent for us to do so; and for marketing third party products and services to you, if you have provided your consent for this.</li>
+</ol>
+</ol>
+<p class="phead"><strong>2. &nbsp;YOUR CONSENT</strong></p><ol class="privacy-sub-list">
+<strong>2.1</strong> &nbsp;By using our Website and submitting information to us, you consent to:<ol class="privacy-secsub-list">
+<li>the collection and use of your personal information by us as described in section 1.2 above; and</li>
+<li>Us sharing data with third parties in accordance with section 3 below;</li>
+</ol>
+</ol>
+<p class="phead"><strong>3. &nbsp;HOW WE SHARE YOUR INFORMATION</strong></p><ol class="privacy-sub-list">
+<strong>3.1</strong> &nbsp;We may share your personal information with third parties in the following circumstances:<ol class="privacy-secsub-list">
+<li>for marketing purposes provided always that you consent to us sharing such information with third parties by notifying us via our Website or in other communications (e.g. by ticking the relevant box(es) on the Website at the point of registration);</li>
+<li>to other members of our group, our partners and service providers (for example people who provide technical services to the Website) for the purpose of managing or administering certain aspects of our Website, or to help us develop new services;</li>
+<li>if Daily Express and the Sunday Express or substantially all of its assets are acquired by a third party, in which case personal data held by us about our customers will be one of the transferred assets; or</li>
+<li>if we are under a duty to disclose or share your personal information in order to comply with any legal obligation and/or in order to enforce or apply any other agreements between us; or</li>
+<li>to protect the rights, property or safety of us or other Website users.</li>
+</ol>
+</ol>
+<p class="phead"><strong>4. &nbsp;YOUR RIGHTS - MARKETING</strong></p><ol class="privacy-sub-list">
+<li>You will only receive marketing communications from us and/or third parties if you have consented to this when you provided your contact details to us (or if you have otherwise given consent to us for these purposes).</li>
+<li>You have the right to ask us not to use your personal data for marketing purposes. You can request that you stop receiving information from us at any time by writing to us at please write contact@themangaloretimes.com</li>
+</ol>
+<p class="phead"><strong>5. &nbsp;IP ADDRESSES AND COOKIES</strong></p><ol class="privacy-sub-list">
+<li>'Cookies' are small pieces of information that are stored by your browser on your computer's hard drive. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that. We only use cookies to keep track of the pages you and other visitors have been to on our Website and to tell us whether you have visited the Website previously in order to deliver a better service for example to store information about your preferences and to recognize you when you return to our Website.</li>
+<li>To help you to understand the cookies that we use when you visit an our site, we have created a Cookie Policy to tell you about our cookies and how you may opt out of receiving them. Please click here to read our Cookie Policy.</li>
+</ol>
+<p class="phead"><strong>6. &nbsp;DATA STORAGE</strong></p><ol class="privacy-sub-list">
+<li>All information you provide to us is stored on our third party data hosting company’s secure servers. Where we have given you (or where you have chosen) a password or other data which enables you to access certain parts of a Website, you are responsible for keeping this password and any other log in details confidential and we recommend that you do not share your password or other log in details with anyone. You will be responsible for all activity under your user name/ log in details.</li>
+<li>The data that we collect from you may be transferred to, and stored at, a destination outside the India. It may also be processed by staff operating outside the India who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take reasonable steps to ensure that your data is treated securely and in accordance with this Privacy Policy.</li>
+<li>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.</li>
+</ol>
+<p class="phead"><strong>7. &nbsp;ADVERTISERS</strong></p><ol class="privacy-sub-list">
+<li> In the event that we use third party advertisers or sponsors on a Website, we do not disclose identifiable information about individuals but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, men in New Delhi). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' and sponsors' wishes by displaying their advertisement to that target audience. For more on this, please see our Cookie Policy.</li></ol>
+<p class="phead"><strong>8. &nbsp;LINKS</strong></p><ol class="privacy-sub-list">
+<li>Please note that our Websites may from time to time contain links to and from other websites. If you follow a link to any of these websites please note that we are not responsible for the privacy practices or the content of such websites and the information practices of those websites are not covered by this Privacy Policy. Please check the individual privacy policy of any website before you submit any personal data to them.</li></ol>
+<p class="phead"><strong>9. &nbsp;INFORMATION  ACCESS</strong></p><ol class="privacy-sub-list">
+<li>You have certain rights to access information held about you and you can do this by writing to us at contact@themangaloretimes.com Any access request may be subject to a fee to meet our costs in providing you with details of the information we hold about you. You can also request us to correct any factual inaccuracies in information we hold or delete any of that information from our records.</li>
+</ol></ol></div> 	
+
+
+
+
+
+
+
+
+				
+					
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="clear"></div>
+<script type="text/javascript">
+	var $feec = jQuery.noConflict();
+	$feec(document).on("click",".mnglr_ad_click",function(){
+		$feec.post('http://themangaloretimes.com/ad_counter.php?adcnt='+$feec(this).attr('id'));
+	})
+	
+</script>
+<div id="footer">
+		<div class="mlglr_footer_style">
+<div style="color:#ffffff;margin:8px 15px;float:left;">
+<a style="color:white;" href="http://themangaloretimes.com/index.php">Home |</a><a style="color:white;" href="http://themangaloretimes.com/term"> Terms &amp; Conditions</a> |<a style="color:white;" href="http://themangaloretimes.com/contact"> Contact Us |</a><a style="color:white;" href="http://themangaloretimes.com/privacy"> Privacy Policy</a> |<a style="color:white;" href="http://themangaloretimes.com/cookie"> Cookie Policy</a> |<a style="color:white;" href="http://themangaloretimes.com/advertise"> Advertise With Us </a></div>
+<div class="foot-link-left fr" style="margin: 3px 0px;"><a href="http://themangaloretimes.com/index.php">© 2013 themangaloretimes.com. All rights reserved.</a></div>
+</div>
+
+<!--<div class="infosoftx-links ovr" style="width:98%;margin:0 auto;">
+	<div class="inx-div bt-divs fl"   style="width:15%">
+		<h3 style="color:#fff;"><a style="color:#fff;font-weight:bold;" href="http://infosoftx.com" target="_blank" />Infosoftx Media Network</a></h3>
+		<h3 style="color:#fff;"><a style="color:#fff;" href="http://infosoftx.com" target="_blank" />infosoftx.com</a></h3>
+	</div>
+	<div class="bch-div fl bt-divs"   style="width:12%">
+		<h3 style="color:#fff;"><a style="color:#fff;font-weight:bold;" href="http://bestcollegehunt.com" target="_blank" />Best College Hunt</a></h3>
+		<h3><a style="color:#fff;" href="http://bestcollegehunt.com" target="_blank" />bestcollegehunt.com</a></h3>
+	</div>
+	<div class="con-div fl bt-divs"   style="width:10%">
+		<h3 style="color:#fff;"><a style="color:#fff;font-weight:bold;" href="http://colorofnation.com" target="_blank" />Color Of Nation</a></h3>
+		<h3><a style="color:#fff;" href="http://colorofnation.com" target="_blank" />colorofnation.com</a></h3>
+	</div>
+	<div class="times-div fl bt-divs" style="width:12%">
+		<h3 style="color:#fff;"><a style="color:#fff;font-weight:bold;" href="http://timesofuniverse.com" target="_blank"/>Times Of Universe</a></h3>
+		<h3><a style="color:#fff;" href="http://timesofuniverse.com" target="_blank"/>timesofuniverse.com</a></h3>
+	</div>
+</div>-->
+
+<div class="clear"></div>
+         <div class="n-foot-top ovr" style="margin:5px 0 5px 14px;">
+            <!--    <div class="foot-link-left fl"><a href="http://themangaloretimes.com/index.php">&copy; 2013 themangaloretimes.com. All rights reserved.</a></div>
+                <div class="foot-link-right fr"><a href="http://infosoftx.com">Designed and Developed by Infosoftx.com</a></div>-->
+            <a class="special_footer_highlight fl" target="_blank" href="http://infosoftx-media.com">INFOSOFTX-MEDIA NETWORK</a> 
+			<div class="addtnl_proj_links fl">
+				<a class="addtnl_proj_link_sub" target="_blank" href="http://bestcollegehunt.com">BESTCOLLEGEHUNT.COM<span class="footer_links_s_seperator">|</span></a>
+				<a class="addtnl_proj_link_sub" target="_blank" href="http://colorofnation.com">COLOROFNATION.COM<span class="footer_links_s_seperator">|</span></a>
+				<a class="addtnl_proj_link_sub" target="_blank" href="http://timesofuniverse.com">TIMESOFUNIVERSE.COM<span class="footer_links_s_seperator">|</span></a>
+				<a class="addtnl_proj_link_sub" target="_blank" href="http://themangaloretimes.com">THEMANGALORETIMES.COM<span class="footer_links_s_seperator">|</span></a>
+				<a class="addtnl_proj_link_sub" target="_blank" href="">BESTPROPERTYHUNT.COM</a>
+			</div>
+        </div>
+			
+		</div>
+
+
+
+
+
+
+
+
+</body></html>
