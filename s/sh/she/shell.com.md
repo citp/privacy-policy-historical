@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shell.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119054924id_/http%3A//www.shell.com/global/aboutshell/about-our-website/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080934id_/http%3A//www.shell.com/global/aboutshell/website-social-mobile/about-our-website/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Shell Global
+
+By submitting your personal data to us, you will be treated as having given your permission where necessary and appropriate, for disclosures referred to in this policy.
 
 ###  What does this privacy policy cover? 
 
@@ -88,13 +90,13 @@ We use cookies to learn more about the way you interact with our content and hel
 
 Cookies remember the type of browser you use and which additional browser software you have installed. They also remember your preferences, such as language and region, which remain as your default settings when you revisit the website. Cookies also allow you to rate pages and fill in comment forms.
 
-Some of the cookies we use are session cookies and only last until you close your browser, others are persistent cookies which are stored on your computer for longer.  For further details on the various types of cookies that we use, please [find out for more](http://www.shell.com/global/aboutshell/about-our-website/privacy/cookie-policy.html).
+Some of the cookies we use are session cookies and only last until you close your browser, others are persistent cookies which are stored on your computer for longer.  For further details on the various types of cookies that we use, please [find out for more](http://www.shell.com/global/aboutshell/website-social-mobile/about-our-website/privacy/cookie-policy.html).
 
   *  **How are third party cookies used?**
 
 
 
-For some of the functions within our websites we use third party suppliers, for example, when you visit a page with videos embedded from or links to YouTube. These videos or links (and any other content from third party suppliers) may contain third party cookies and you may wish to consult the policies of these third party websites for information regarding their use of cookies. For further details on the third party cookies that we use, please [find out for more](http://www.shell.com/global/aboutshell/about-our-website/privacy/cookie-policy.html).
+For some of the functions within our websites we use third party suppliers, for example, when you visit a page with videos embedded from or links to YouTube. These videos or links (and any other content from third party suppliers) may contain third party cookies and you may wish to consult the policies of these third party websites for information regarding their use of cookies. For further details on the third party cookies that we use, please [find out for more](http://www.shell.com/global/aboutshell/website-social-mobile/about-our-website/privacy/cookie-policy.html).
 
   *  **How do I reject and delete cookies?**
 
@@ -104,7 +106,7 @@ We will not use cookies to collect personally identifiable information about you
 
 Please note that most browsers automatically accept cookies so if you do not wish cookies to be used you may need to actively delete or block the cookies.
 
-You can also visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)  for details on how to delete or reject cookies and for further information on cookies generally. For information on the use of cookies in mobile phone browsers and for details on how to reject or delete such cookies, please refer to your handset manual.
+You can also visit [www.allaboutcookies.org](http://www.shell.com/global/disclaimer-en.html/aHR0cDovL3d3dy5hbGxhYm91dGNvb2tpZXMub3Jn)  for details on how to delete or reject cookies and for further information on cookies generally. For information on the use of cookies in mobile phone browsers and for details on how to reject or delete such cookies, please refer to your handset manual.
 
 Note, however, that if you reject the use of cookies you will still be able to visit our websites but some of the functions may not work correctly.
 
