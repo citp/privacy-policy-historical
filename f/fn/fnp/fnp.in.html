@@ -1,489 +1,1615 @@
-<!--The following is the downloaded HTML source of the fnp.in privacy policy that was archived on 2009-07-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090705091432id_/http%3A//www.fnp.in/fnp/faces/jsp/PrivacyPolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fnp.in privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625040322id_/http%3A//www.fnp.com/static/privacy-policy.dot) for the most accurate reproduction.-->
 
-<html><head><title>Ferns N Petals</title>
-	<link href="../tiles/templates/media/css/FnP/FnP.css" rel="stylesheet" type="text/css">
-	<script src="http://www.fnp.in/media/js/OctaShop/octashopJS.js" type="text/javascript"></script>
-	<script language="JavaScript">
-		function validateFields(){
-			var order = document.forms['myForm'].elements['myForm:orderNum'];
-			var name = document.forms['myForm'].elements['myForm:name'];
-			var email= document.forms['myForm'].elements['myForm:email'];
-			var phone = document.forms['myForm'].elements['myForm:phone'];
-			var feedBack= document.forms['myForm'].elements['myForm:feedback'];
-			
-			if(order.value!=''){
-				var reg=/^([0-9])+$/;
-				if(!reg.test(order.value)){
-					alert("Please Enter Valid Order Number");
-					name.focus();
-					return false;
-				}
-			}
-			if(!alphaCharWithoutSpace(name.value)){
-				alert("Please Enter Valid Name");
-				name.focus();
-				return false;
-			}
-			if(!checkEmail(email.value)){
-				alert("Please Enter Valid Email");
-				email.focus();
-				return false;
-			}
-			if(!numericCharWithoutSpace(phone.value)){
-				alert("Please Enter Valid Phone");
-				phone.focus();
-				return false;
-			}
-			if(feedBack.value==''){
-				alert("Please Enter Valid Feedback");
-				feedBack.focus();
-				return false;
-			}
-			return true;
-    	}
-	
-	</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <link rel="shortcut icon" type="image/ico" href="/images/favicon.ico">
 
-</head><body>
-<div class="WrapperLayout">
-<div id="HeaderTop"></div>
-<div id="Body">
-<div id="BodyContent">
-	<form id="myForm" name="myForm" method="post" action="/fnp/faces/jsp/PrivacyPolicy.jsp" enctype="application/x-www-form-urlencoded">
-	
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Ferns N Petals - Shipping Disclaimer</title>
+<meta name="title" content="Ferns N Petals - Privacy Policy"> 
+<meta name="description" content="Read Ferns N Petals shipping disclaimer before order online your product."> 
+<meta name="keywords" content="ferns n petals, shipping disclaimer">
+   		<link rel="shortcut icon" type="image/ico" href="/images/favicon.ico">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta content="True" name="HandheldFriendly">
 
-
-<title>OctaShop-Shopping</title>
-<link href="http://www.fnp.in/media/css/OctaShop/Octashop_style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/media/js/FNP/mm_menu.js"></script>
-<script language="javascript" type="text/javascript">mmLoadMenus();</script>
-
-<!-- Header Start -->
-<div id="templateConten">
-<div id="logo" class="logo"><img src="/media/images/FNP/logo.gif" border="0" width="215" height="83" onclick="JavaScript:location.href='/fnp/faces/jsp/index.jsp';"></div>
-<div id="Search" class="Search">
-<span class="alignRight nowrap"></span>
-</div>
-<div id="Headlink" class="Headlink">
-<div class="clear_both">
-
-
-
-
-
-<span class="topLink">
-
-			<span id="sign_in_out">
-				
-					
-					
-						<span id="welcomeGuest" class="nowrap PurpleNormalText">Welcome User</span> |
-						
-						
-								<a href="#" title="Sign In" onclick="getLoginForm('/fnp/faces/tiles/components/loginForm.jsp');" class="PurpleNormalText">Sign In</a>|   
-						
-						
-						<a href="/fnp/faces/jsp/userRegistration.jsp" title="New User" class="PurpleNormalText">New User</a>
-					
-				
-			</span>
-			<br>
-			<span id="shop_cart_count">
-				 <a class="GeryNormalLink" href="/fnp/faces/jsp/shoppingCart.jsp" title="Shopping Cart">Shopping 		
-					Cart(0)</a>
-			</span>
-			| <a href="/fnp/faces/jsp/newSearchOrder.jsp" title="Track Order" class="GeryNormalLink">Track Your Order</a>
-			| <a href="/fnp/faces/jsp/myAccount.jsp" title="My Account" class="GeryNormalLink">My Account</a> 
-</span>	
-
-<script language="JavaScript">
-		<!--
-		function getLoginForm(pageUrl){
-				try{
-					var myAjax = new Ajax.Updater('login',pageUrl ,{onSuccess:showLoginForm});
-				}catch(err){alert(err.message);}
-			}
-			function showLoginForm(transport){
-				try{
-					divShowHide('login','showit');
-				}catch(err){alert(err.message);}
-				
-			}
-			function isValidForm(){
-				if($('loginId').value == ''){
-					alert('Please enter UserId.');
-					$('loginId').focus();
-					return false;
-				}
-				else if($('password').value == ''){
-					alert('Please enter password.');
-					$('password').focus();
-					return false;
-				}else{return true};
-
-			}
-			function loginSubmit(){
-				if(isValidForm()){
-				$('loginForm').request({
-				  onComplete: function(transport){ $('login').innerHTML = transport.responseText ;},
-				  onFailure:function(){alert('Oops Error.');}
-				  //onSuccess: updateShoppingCart
-				});
-				}
-			}
-			function updateShoppingCart(){
-				
-				var updatableDiv = null;
-				var url = null;
-				
-				if($('shoppingCartItemsDiv') != null){
-					updatableDiv = 'shoppingCartItemsDiv';
-					url = "../faces/tiles/components/checkout/shoppingCartItemsComponent.jsp";
-				}
-				if($('minishoppingcart')!= null){
-					updatableDiv = 'minishoppingcart';
-					url = "/fnp/faces/tiles/components/product/miniShoppingCart.jsp";
-				}
-				if(updatableDiv != null)
-				{
-					try{ 
-					var params = {'invoke:action':'ShoppingCartActionBean.shoppingCartItemsComponent_init'};
-					var myAjax = new Ajax.Updater(updatableDiv, 
-									url, 
-									{
-										method: 'GET', 
-										parameters: params,
-										onFailure:handleFail
-									});
-					}catch(err){alert(err.message);}
-				}
-			}
-			function handleFail(){
-				alert('Oops!! Error.');
-			}
-			function hideLoginForm (pageUrl,loginId,quanty){
-				try{
-					if((loginId != null && loginId != 'undefined' && loginId != 'null' ) && loginId.length > 1){
-					$('sign_in_out').innerHTML = '<span  id="welcomeGuest" class="nowrap PurpleNormalText">Welcome '+loginId+' | <a href="'+pageUrl+'">Sign Out</a></span>';
-					
-					$('shop_cart_count').innerHTML = '<a href="../faces/jsp/shoppingCart.jsp" title="Shopping Cart" class="GeryNormalLink">Shopping Cart('+quanty+')</a>';
-
-					if($('_isLogged') != null && $('_isLogged').innerHTML == 'false')
-							$('_isLogged').innerHTML="true";	
-
-					updateShoppingCart();
-					}
-				}catch(err){alert(err.message);}
-				divShowHide('login','hideit');
-			}
-		//-->
-</script>
-</div>
-<div class="clear_both"><div>&nbsp;</div>
-<span class="alignRight paddingTop10px nowrap">
-<a href="../jsp/franchise.jsp" class="PurpleNormalLink">Franchisee</a> | <a href="../jsp/fnpFeedback.jsp" class="PurpleNormalLink">Feedback</a> | <a href="javascript:void(0);" onclick="divShowitHideit('CustomerSupportDiv','show');" class="PurpleNormalLink">Customer Support</a></span>
-</div>
-
-<div id="login"></div>
-
-</div><div id="CustomerSupportDiv" class="CustomerSupportDiv">
-<div class="right fullWidth" align="right"><img onclick="divShowitHideit('CustomerSupportDiv','hide');" class="link" src="/media/images/FNP/cclose.gif" vspace="2" hspace="2"></div>
-<div class="fullWidth" style="padding:15px;">
-<table width="80%" border="0" cellspacing="4" cellpadding="4">
-<tbody><tr>
-<td colspan="2" class="PurpleBoldText">Online support available on :</td>
-</tr>
-<tr>
-<td align="center"><img src="/media/images/FNP/icon_phone.gif"></td>
-<td><span class="GeryBoldText">Helpline Number</span><br><span class="PurpleNormalText">011-2680 2680</span></td>
-</tr>
-<tr>
-<td align="center"><img src="/media/images/FNP/icon_phone.gif"></td>
-<td><span class="GeryBoldText">Helpline Number International</span> <br>
-  <span class="PurpleNormalText">USA: +1 (714) 2424120, UK: +44 (203) 3183818</span></td>
-</tr>
-<tr>
-<td align="center"><img src="/media/images/FNP/icon_ymsger.gif"></td>
-<td><span class="GeryBoldText">Chat using Yahoo</span><br><span class="PurpleNormalText">user: help_fnp</span></td>
-</tr>
-<tr>
-<td align="center"><img src="/media/images/FNP/icon_mnsmsger.gif"></td>
-<td><span class="GeryBoldText">Chat using Msn</span><br><span class="PurpleNormalText">User: helpfnp</span></td>
-</tr>
-<tr>
-<td align="center"><img src="/media/images/FNP/icon_gtalkmsger.gif"></td>
-<td><span class="GeryBoldText">Chat using Gtalk</span><br><span class="PurpleNormalText">User: helpfnp</span></td>
-</tr>
-<tr>
-<td colspan="2" class="GeryNormalText">Between: 9am to 12 Midnight (IST) - Mon-Sat 9am to 9pm (IST) - on Sunday</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-<div id="catemenu" class="catemenu">
-<!-- catemenu Table start -->
-<span class="catemenuTable">
-<span class="pmenu" id="MothersDay" onmouseover="this.className='pmenu';MM_showMenu(window.homeMothersDay,-1,29,null,'MothersDay');" onmouseout="this.className='pmenu';MM_startTimeout();">Friendship Day</span>
-
-<span class="ymenu" id="Flowers" onmouseover="this.className='ymenu';MM_showMenu(window.homeFlowers,-2,29,null,'Flowers');" onmouseout="this.className='ymenu';MM_startTimeout();">Raksha Bandhan</span>
-
-<span class="catemenu" id="DeliverToday" onmouseover="this.className='activeMenu';MM_showMenu(window.homeDeliverToday,-1,29,null,'DeliverToday');" onmouseout="this.className='catemenu';MM_startTimeout();">Deliver Today</span>
-
-<span class="catemenu" id="Occasions" onmouseover="this.className='activeMenu';MM_showMenu(window.homeOccasions,-2,29,null,'Occasions');" onmouseout="this.className='catemenu';MM_startTimeout();">Occasions</span>
-
-<span class="catemenu" id="Collections" onmouseover="this.className='activeMenu';MM_showMenu(window.homeCollections,-2,29,null,'Collections');" onmouseout="this.className='catemenu';MM_startTimeout();">Collections</span>
-
-<span class="catemenu" id="Gifts" onmouseover="this.className='activeMenu';MM_showMenu(window.homeGifts,-2,29,null,'Gifts');" onmouseout="this.className='catemenu';MM_startTimeout();">Gifts</span>
-
-<span class="catemenu" id="SpecialOffers" onmouseover="this.className='activeMenu';MM_showMenu(window.homeSpecialoffers,-2,29,null,'SpecialOffers');" onmouseout="this.className='rmenu';MM_startTimeout();">Special Offers</span></span>
-
-<!-- menu Table end -->
-</div>
-</div>
-<div id="templateConten"></div>
-
-<div id="loading" style="display:none">Loading...
-<div style="background-color: white; position: absolute; top: 0px; right: 0px; width: 5px; height: 5px; cursor:pointer;" onclick="$('loading').hide()"></div>
-</div>
-
-	
-		
-	<div class="alignL fullWidth bredcrum"><a href="../tiles/catalogue.jsp?catalogueID=2">FNP</a> &gt;&gt; Privacy Policy</div>		
-	<div class="oreangeBg width965px left blackBoldText alignL">&nbsp;&nbsp;Privacy Policy</div>
-	<div class="greenBg left width965px">
-		<div class="fullWidth"><table cellpadding="0" id="wrapper" cellspacing="0" border="0" width="100%">			
-			<tbody><tr>
-				<td valign="top">
-				<table width="80%" border="0" align="center" cellpadding="0" cellspacing="0" class="mainloginTable">
-	<tbody><tr>
-	<td valign="top">
-<table width="100%" cellpadding="2" cellspacing="2" border="0">
-	<tbody><tr>
-	<td><div align="justify">
-                    <p class="margin"> Ferns 'N' Petals&nbsp; is the sole owner 
-                      of the information collected on <b>www.fnp.in</b>. This 
-                      privacy statement applies only to information collected 
-                      by this Web site. <br>
-                      <br>
-<font class="heading"><b>Communications from the Site</b></font>
-<br><br>
-<font class="heading"><b>Special Offers and Updates</b></font>
-<br><br>
-We may occasionally send you information on products, services, special deals, and promotions. Out of respect for your privacy, we present the option not to receive these types of communications.&nbsp;<br>
-
-</p></div>
-      <div align="justify"><p class="margin">
-<font class="heading"><b>Press Releases and Newsletters</b></font>
-<br><br>
-If you request to receive our press release(s) or newsletter(s), we will use your name and email address to send these documents to you. Out of respect for your privacy, please contact us if you subsequently wish to be removed from this mailing list.
-<br><br>
-<font class="heading"><b>Service-related Announcements</b></font>
-<br><br>
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email advising you of this.
-<br><br>
-
-<font class="heading"><b>Legal Disclaimer</b></font>
-<br><br>
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
-<br><br>
-If you no longer wish to receive our press releases, newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at <a href="mailto:query@fnp.in">query@fnp.in</a>
-<br><br>
-<font class="heading"><b>Log Files</b></font>
-<br><br>
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and
-click stream data. 
-<br><br>
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
-<br><br>
-We do not link this automatically collected data to personally identifiable information.
-<br><br>
-<font class="heading"><b>Cookies</b></font>
-<br><br>
-We do not use cookies on this site. A cookie is a small text file that is stored on a user's computer for record-keeping purposes.
-<br><br>
-<font class="heading"><b>Clear Gifs (Web Beacons/Web Bugs)</b></font>
-<br><br>
-We do not use clear gifs (I.e. Web Beacons/Web Bugs) in our HTML-based emails.
-<br><br>
-Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users and to let companies know which emails recipients have opened, allowing them to gauge the effectiveness of certain communications and the effectiveness of their on-line marketing campaigns. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.
-<br><br>
-<font class="heading"><b>Links to Other Sites</b></font>
-<br><br>
-This privacy statement applies only to information collected by this Web site. This Web site contains links to other sites that are not owned or controlled by
-Ferns n Petals.. Please be aware that we, Ferns N Petals, are not responsible for the privacy practices of such other sites.
-<br><br>
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site you access to review their privacy practices.
-<br><br>
-<font class="heading"><b>Access to Personally Identifiable Information</b></font>
-<br><br>
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete by emailing our Customer Support at <a href="mailto:query@fnp.in">query@fnp.in</a> or by contacting us by telephone or postal mail at the contact information listed below.
-<br><br>
-<font class="heading"><b>Security</b></font>
-<br><br>
-The security of your personal information is important to us. We do not use any encryption on our forms, as we do not collect credit card numbers, social security numbers or any other sensitive information that can be used in identity theft.
-<br><br>
-<font class="heading"><b>Business Transitions</b></font>
-<br><br>
-In the event Ferns N Petals&nbsp; goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
-<br><br>
-<font class="heading"><b>Changes in this Privacy Statement</b></font>
-<br><br>
-If we decide to change our privacy policy, we will post those changes to this privacy statement on the homepage and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-<br><br>
-We reserve the right to modify this privacy statement at any time, so please review it periodically. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-<br><br>
-
-</p></div>
-		</td>
-	</tr>
-</tbody></table>
-	</td>
-	</tr>
-</tbody></table>
-
-				</td>
-			</tr>
-		</tbody></table></div></div>
-				
-
-
-
-
-<div id="templateConten">
-<div id="footerLink" align="center" class="GeryNormalText">
-<a href="/fnp/faces/jsp/index.jsp" class="lightGeryNormalLink">Home</a> | <a href="/fnp/faces/jsp/AboutUs.jsp" class="lightGeryNormalLink">About Us</a> | <a href="/fnp/faces/jsp/buy-flowers-online.jsp" class="lightGeryNormalLink">Team FNP</a> | <a href="/fnp/faces/jsp/PrivacyPolicy.jsp" class="lightGeryNormalLink">Privacy Policy</a> | <a href="/fnp/faces/jsp/TermsnCondition.jsp" class="lightGeryNormalLink">Terms n Conditions</a> | <a href="javascript:bookmarksite('|| FNP flowers anywhere anytime ||','http://www.fnp.in');" class="lightGeryNormalLink">Bookmark Us</a> | <a href="/fnp/faces/jsp/ContactUs.jsp" class="lightGeryNormalLink">Contact us</a> | <a href="/fnp/faces/jsp/FAQs.jsp" class="lightGeryNormalLink">FAQ's Member Benefits</a> | <a href="../jsp/franchise.jsp" class="lightGeryNormalLink">Franchise</a> <br> <a href="/fnp/faces/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1174" class="lightGeryNormalLink">Corporate Gifts</a> | <a href="/fnp/faces/jsp/retailStores.jsp" class="lightGeryNormalLink">Retail Stores</a> | <a href="/fnp/faces/jsp/joinFnPAffiliateProgram.jsp" class="lightGeryNormalLink">Join Fnp's Affiliate Program</a> | <a href="/fnp/faces/jsp/fnpNewsRoom.jsp" class="lightGeryNormalLink">News Room</a> | <a href="/fnp/faces/jsp/shippingdisclaimer.jsp" class="lightGeryNormalLink">Shipping Disclaimer</a> | <a href="/fnp/category/y/--clI~2-cI~1207-/SiteMap.html" class="lightGeryNormalLink">Site Map</a> | <a href="/fnp/faces/jsp/offers.jsp" class="lightGeryNormalLink">Offers</a></div>
-<div id="footerCategoryLink" class="towpadding">
-<a href="/fnp/category/y/--clI~2-cI~1205-/Flowers-to-Ahmedabad.html" class="GeryNormalLink">Flowers to Ahmedabad</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1199-/Flowers-to-Bangalore.html" class="GeryNormalLink">Flowers to Bangalore</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1333-/Flowers-to-Bhubaneshwar.html" class="GeryNormalLink">Flowers to Bhubaneshwar</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1334-/Flowers-to-Cochin.html" class="GeryNormalLink">Flowers to Cochin</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1204-/Flowers-to-Chandigarh.html" class="GeryNormalLink">Flowers to Chandigarh</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1335-/Flowers-to-Faridabad.html" class="GeryNormalLink">Flowers to Faridabad</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1194-/Flowers-to-Delhi.html" class="GeryNormalLink">Flowers to Delhi</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1335-/Flowers-to-Dehradun.html" class="GeryNormalLink">Flowers to Dehradun</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1202-/Flowers-to-Gurgaon.html" class="GeryNormalLink">Flowers to Gurgaon</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1337-/Flowers-to-Ghaziabad.html" class="GeryNormalLink">Flowers to Ghaziabad</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1198-/Flowers-to-Hyderabad.html" class="GeryNormalLink">Flowers to Hyderabad</a><br>
-
-
-</div>
-<div id="footerCategoryLink" class="towpadding">
-<a href="/fnp/category/y/--clI~2-cI~1206-/Flowers-to-Kanpur.html" class="GeryNormalLink">Flowers to Kanpur</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1203-/Flowers-to-Lucknow.html" class="GeryNormalLink">Flowers to Lucknow</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1201-/Flowers-to-Ludhiana.html" class="GeryNormalLink">Flowers to Ludhiana</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1192-/Flowers-to-Mumbai.html" class="GeryNormalLink">Flowers to Mumbai</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1197-/Flowers-to-Pune.html" class="GeryNormalLink">Flowers to Pune</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1200-/Gifts-to-Chennai.html" class="GeryNormalLink">Gifts to Chennai</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1193-/Gifts-to-Mumbai.html" class="GeryNormalLink">Gifts to Mumbai</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1195-/Send-Flowers-to-Kolkata.html" class="GeryNormalLink">Send Flowers to Kolkata</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1280-/Flowers-to-Jaipur.html" class="GeryNormalLink">Flowers to Jaipur</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1196-/Send-Flowers-to-Noida.html" class="GeryNormalLink">Send Flowers to Noida</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1281-/Flowers-to-Indore.html" class="GeryNormalLink">Flowers to Indore</a><br>
-
-</div>
-<div id="footerCategoryLink" class="towpadding">
-<a href="/fnp/category/y/--clI~2-cI~1282-/Flowers-to-Nagpur.html" class="GeryNormalLink">Flowers to Nagpur</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1338-/Flowers-to-Navi-Mumbai.html" class="GeryNormalLink">Flowers to Navi Mumbai</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1283-/Flowers-to-Baroda.html" class="GeryNormalLink">Flowers to Baroda</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1341-/Flowers-to-Trivandrum.html" class="GeryNormalLink">Flowers to Trivandrum</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1284-/Flowers-to-Bhopal.html" class="GeryNormalLink">Flowers to Bhopal</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1285-/Flowers-to-Surat.html" class="GeryNormalLink">Flowers to Surat</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1339-/Flowers-to-Secunderabad.html" class="GeryNormalLink">Flowers to Secunderabad</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1340-/Flowers-to-Thane.html" class="GeryNormalLink">Flowers to Thane</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1342-/Flowers-to-Patna.html" class="GeryNormalLink">Flowers to Patna</a><br>
-<a href="/fnp/category/y/--clI~4-cI~1112-/USA.html" class="GeryNormalLink">Flowers to USA</a><br>
-<a href="/fnp/category/y/--clI~4-cI~1111-/UK.html" class="GeryNormalLink">Flowers to UK</a><br>
-
-</div>
-<div id="footerCategoryLink" class="towpadding">
-<a href="/fnp/faces/tiles/catalogue.jsp?catalogueID=3" class="GeryNormalLink">Same Day Flower Delivery</a><br>
-<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1124" class="GeryNormalLink">Order Flowers Online</a><br>
-<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1014&amp;parentCategoryID=1101" class="GeryNormalLink">Send Cheap Flowers Online</a><br>
-<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1022&amp;parentCategoryID=1004" class="GeryNormalLink">Wedding Flowers Online</a><br>
-<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1019&amp;parentCategoryID=1001" class="GeryNormalLink">Cakes to India</a><br><a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1001" class="GeryNormalLink">Online Flower Gift</a><br>
-<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1123&amp;parentCategoryID=1001" class="GeryNormalLink">Send Fresh Flowers Online</a><br>
-<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1023&amp;parentCategoryID=1004" class="GeryNormalLink">Birthday Flower Delivery</a><br>
-<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1021&amp;parentCategoryID=1001" class="GeryNormalLink">Roses to India</a><br>
-<a href="/fnp/category/y/--clI~5-cI~1089-/Midnight-Delivery.html" class="GeryNormalLink">Midnight Flowers</a><br>
-<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1013" class="GeryNormalLink">Buy Sweet Online</a><br>
-
-
-</div>
-<div id="footerCategoryLink" class="towpadding">
-<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1076&amp;parentCategoryID=1019" class="GeryNormalLink">Chocolate Gift Basket Online</a><br>
-<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1020&amp;parentCategoryID=1001" class="GeryNormalLink">Send Flower Bouquet</a><br>
-<a href="/fnp/category/y/--clI~4-cI~1110-/UAE.html" class="GeryNormalLink">Send Flowers to Dubai</a><br>
-
-<a href="/fnp/category/y/--clI~4-cI~1095-/Australia.html" class="GeryNormalLink">Send Flowers to Australia</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1344-/Florist.html" class="GeryNormalLink">Florist</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1345-/Flower-delivery.html" class="GeryNormalLink">Flower Delivery</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1346-/Local-Flower-delivery.html" class="GeryNormalLink">Local Flower Delivery</a><br>
-<a href="/fnp/category/y/--clI~2-cI~1121-/Friendship-Gifts.html" class="GeryNormalLink">Friendship Gifts</a><br>
-
-<a href="/fnp/faces/jsp/wedding.jsp" class="GeryNormalLink">Wedding Decor Arrangments</a><br>
-<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1013" class="GeryNormalLink">Buy Sweet Online</a><br>
-<a href="http://220.226.188.29/merchant/faces/merchant/merchantLogin.jsp" class="GeryNormalLink">Merchant Login</a><br>
-</div>
-</div>
-<div id="FooterCopyright">
-<span class="GeryNormalText">
-Copyright @ <script language="JavaScript">var d=new Date();yr=d.getFullYear();if (yr)document.write(yr);</script>2020  Ferns 'N' Petals | Best viewed in "1024 x 768" resolution</span></div>
-</form></div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-5956906-1");
-pageTracker._trackPageview();
-</script>
-</div>
-
-<map name="CatalogueMap">
-<area shape="rect" coords="23,13,122,33" href="/fnp/category/y/--clI~3-cI~1087-/Same-Day-Delivery.html" alt="Deliver Today">
-<area shape="rect" coords="163,13,294,33" href="/fnp/category/y/--clI~5-cI~1089-/Midnight-Delivery.html" alt="Mid Night Delivery">
-<area shape="rect" coords="341,13,481,33" href="/fnp/category/y/--clI~6-cI~1188-/Arrangements.html" alt="Fixed Time Delivery">
-<area shape="rect" coords="544,13,748,33" href="/fnp/category/y/--clI~95-cI~1189-/Arrangements.html" alt="Remote Locations and Cities">
-<area shape="rect" coords="808,13,955,33" href="/fnp/category/y/--clI~4-cI~1095-/Australia.html" alt="International Delivery">
-</map>
-
-<link rel="stylesheet" href="/media/js/OctaShop/zapatecCalendar/themes/Tsicalender.css">
-<script type="text/javascript" src="/media/js/OctaShop/zapatecCalendar/zapatec.js"></script>
-<script type="text/javascript" src="/media/js/OctaShop/zapatecCalendar/calendar.js"></script>
-<script type="text/javascript" src="/media/js/OctaShop/zapatecCalendar/calendar-en.js"></script>
-<script type="text/javascript" src="/media/js/OctaShop/zapatecCalendar/ZapatecCalendarApi.js"></script>
-<script type="text/javascript" src="/media/js/OctaShop/prototype.js"></script>
-<script src="/media/js/OctaShop/octaShop.js"></script>
-<script type="text/javascript" src="/media/js/OctaShop/validator.js"></script>
-<script language="javascript" src="/media/js/OctaShop/page/search.js"></script>
-<script type="text/javascript" src="/media/js/FNP/common.js"></script>
-
-<script language="JavaScript">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <!--
-// register event listeners on the Ajax requests to show/hide the processing indicator
-Ajax.Responders.register({
-onCreate: function() {
-if (Ajax.activeRequestCount === 1) {
-$('loading').show();
-}
-},
-onComplete: function() {
-if (Ajax.activeRequestCount === 0) {
-$('loading').hide();
-}
-}
-});
-createZapatecCalender('pcaShippingDate',true);
-//-->
-</script>
+<!--google analytics start-->
+  <script type="text/javascript" async="" src="//10479.getamplify.com/tejas?akey=7ov2w8se7akh843azsnj74zssj8hd4s3rjh1bhcj7a"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0019/3115.js?438995" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-52099485-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ </script>
 
-			
-	<input type="hidden" name="jsf_tree_64" value="H4sIAAAAAAAAAK2Qv0oDQRDGx8MoiihqYSsopLt7gJSBmIRTwX8gV4Rxs7nbcLe77s1p0tjZ+wA+geQJfAI7W1/C1to5LpoUChY2w37DN/P7ZifvUMsdHBgX+2hRJNLPxgMUMmdpUyWQlNH+mZPylFwhqHDyEDXG0u3Pmk2TWaOlptblzttj9+PVg8UIVnoiUWnfcR+6UciIoEIEU0Qwhwj+imiEsNETX6qZYp4TbIVDvMEgRR0H7Fc6ZtvazNbpX8MdeBEs90oy8ch2NDdzfDWUghojW7hp1P/4jcbzpP6yef/w5AGMLAAs5GUMKMpaY+1V2hLUyywjv2J9x/bPO0eY8TVNowmVlo5gPRmo0MRKtyX2pbPTFWVdJVgaGEPcJdj7eWNCWeq3ubSMy9ifjcsH+3d/S3Ch5O0Jb7X2E3dnx1ktAgAA"><input type="hidden" name="jsf_state_64" value="H4sIAAAAAAAAAIWSQWsTQRTHXzZJN9YgaQvRi+DVy0bEWw+2TQxZ2NDSVBA9pK+7k82Gzcw4+zbZ9VD04N2LglDxC3i39CYePCkoePEzqGf1ojtbTYRafDDDzOPN+73/f/fFFyjHClbuOCOcoBUi963NvRFzafXRu1vPa9Hl0ABIJAAU47uwDzpKs5MpjyNSUMsbxBSEliNcDNn+t6XdgyvfPxtQsqEyxGjoCo85YLoi5qRSguUc2tDQRo9UwP1VByr6GqPPNKOclU9QBcgpvybyZxYEQGAwrlMmwWJnp+v0N9Z7dpOg3hhFsrGlggm66ZYIAze1soyecGU+4bpSmDpBRMmDDxefvsFnRSjYUIqCeyzXWpiW9D7TOdden2snWBinbaHGko7VJ9YAXRZZOqerahl0aQ7tZBZ0UZbNT69e13ffF8Fow2Io0GujS0LZcIaGikVDEXqJvL6WQ6rTSrbXsmUQXP0bMmV7KKV1026KsRSccdpB32pvbndvbPebHdtp9e1W7+QEPUZHrYePnxy+vFbUX3Za1YDfuAyyMBCCmCI4NxwEjvAD3mHoMZUQVAdCucz2bO6xZNY5/2c2hAgZ8reX1P2PBz++GlC4DeUJhnHmZyGRp0SkXTqrubnfxj/8NvXhwp/a5RO2QN78tIfn//cwSX4BAurWGgIDAAA="><input type="hidden" name="jsf_viewid" value="/jsp/PrivacyPolicy.jsp"><input type="hidden" name="myForm_SUBMIT" value="1">
+
+<!--google analytics end-->
+
+
+<!--responsive start-->
+<link href="http://d3kkbzjrsek928.cloudfront.net//css/style.css" rel="stylesheet" type="text/css">
+<!-- FlexSlider -->
+<script src="http://d3kkbzjrsek928.cloudfront.net/js/jquery.min_slider.js" type="text/javascript"></script>
+<!--fix header js used in category and international page -->
+<script defer="" src="http://d3kkbzjrsek928.cloudfront.net/js/jquery.flexslider.js" type="text/javascript"></script>
+<!-- FlexSlider -->
+<script src="http://d3kkbzjrsek928.cloudfront.net/js/respond.src.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript">
+/*<![CDATA[*/
+var Lst;
+function CngClass(obj){
+if (Lst) Lst.className='';
+obj.className='selected';
+Lst=obj;
+}
+/*]]>*/
+</script>
+<!--div js selected end -->
+<!--responsive end-->
+<!-- Generic Start -->
+<link href="http://d3kkbzjrsek928.cloudfront.net/css/sliding.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://d1san5xwu7tdrc.cloudfront.net/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="http://d3kkbzjrsek928.cloudfront.net/js/skdslider.min.js"></script>
+
+<!--<link rel="stylesheet" href="http://d3kkbzjrsek928.cloudfront.net/css/calender.css" />-->
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+<script src="http://d1san5xwu7tdrc.cloudfront.net/js/jquery-ui.js" type="text/javascript"></script>
+<script src="http://d3kkbzjrsek928.cloudfront.net/js/jquery.maxlength.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://d1san5xwu7tdrc.cloudfront.net/js/dvs-common.js"></script>
+<script type="text/javascript" src="http://d1san5xwu7tdrc.cloudfront.net/js/custom.js"></script>
+
+<script type="text/javascript" src="http://d1san5xwu7tdrc.cloudfront.net/js/popupandLogin5.js"></script>
+<script type="text/javascript" src="http://d1san5xwu7tdrc.cloudfront.net/js/addtocart.js"></script>
+<script src="//connect.facebook.net/en_US/all.js"> </script>
+<!--banner start -->
+<link rel="stylesheet" href="http://d3kkbzjrsek928.cloudfront.net/css/global.css">
+<link rel="stylesheet" href="http://d3kkbzjrsek928.cloudfront.net/css/global-product.css">
+<script type="text/javascript" src="http://d3kkbzjrsek928.cloudfront.net/js/slides.min.jquery.js"></script>
+<!--bannerend-->
+<!--Dropdown Selector Start-->
+<link rel="stylesheet" type="text/css" href="http://d3kkbzjrsek928.cloudfront.net/css/selectbox.css">
+<script type="text/javascript" src="http://d1san5xwu7tdrc.cloudfront.net/js/jquery.selectbox-0.5.js"></script>
+<script type="text/javascript" src="http://d1san5xwu7tdrc.cloudfront.net/js/jquery_003.js"></script>
+<script type="text/javascript" src="http://d3kkbzjrsek928.cloudfront.net/js/portamento.js"></script>
+<!--<link href="http://d1san5xwu7tdrc.cloudfront.net/SpryAssets/SpryAccordion.css" rel="stylesheet" type="text/css" />
+<script src="http://d1san5xwu7tdrc.cloudfront.net/SpryAssets/SpryAccordion.js" type="text/javascript"></script>
+<link href="http://d1san5xwu7tdrc.cloudfront.net/SpryAssets/SpryTabbedPanels.css" rel="stylesheet" type="text/css" />
+<script src="http://d1san5xwu7tdrc.cloudfront.net/SpryAssets/SpryTabbedPanels.js" type="text/javascript"></script> -->
+<script type="text/javascript" src="http://d1san5xwu7tdrc.cloudfront.net/js/dvs-common.js"></script>
+<script type="text/javascript" src="http://d1san5xwu7tdrc.cloudfront.net/js/jquery.reveal.js"></script> 
+<script type="text/javascript" src="http://d1san5xwu7tdrc.cloudfront.net/js/mobile.js"></script>
+
+
+
+   </head>
+
+<body>
+  <!--Crazy Egg code start here-->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0019/3115.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<!--Crazy Egg code end here-->
+
+<!--header start-->
+   		<script src="//config1.veinteractive.com/tags/7F76E23C/5960/41E2/B8EC/FAB96363FCE0/tag.js" type="text/javascript" async=""></script>
+<script type="text/javascript" src="http://d1san5xwu7tdrc.cloudfront.net/js/wishPickerTracker.js"></script> 
+
+<script type="text/javascript" src="http://d1san5xwu7tdrc.cloudfront.net/js/tracker.min.js"></script> 
+
+
+<!-- add for quick view -->
+<div id="addonQuickViewOuter"></div>
+<div id="loading" style="display:none" class="z2000">
+<img id="loading-image" src="http://d3kkbzjrsek928.cloudfront.net/img/loading.gif" width="60" alt="Loading...">
+</div>
+<input id="hostValue" type="hidden" value="http://www.fnp.com">
+<!--new registration start-->
+<div id="divsingin" class="reveal-modal large">
+<div class="popup_login_main">
+<div class="popup_login">
+<div class="fac_google_login">
+<a href="javascript:void(0)" onclick="authUser()"><img src="http://d3kkbzjrsek928.cloudfront.net/images/facebook-signin.jpg" alt="Log In With Facebook" title="Log In With Facebook"></a>
+<a href="javascript:void(0)" onclick="handleClientLoad()"><img src="http://d3kkbzjrsek928.cloudfront.net/images/google-signin.jpg" alt="Log In With Google" title="Log In With Google"></a>
+</div>
+<div class="popup_or"><img src="http://d3kkbzjrsek928.cloudfront.net/images/or_popup.jpg" alt="or"></div>
+<div class="popup_login_form">
+<h3>Register</h3>
+<div class="popup_login_form_row">
+<div class="newreg">
+<label>First Name<span>*</span></label><input placeholder="Enter First name" id="txtUserNameRG" onfocus="WatermarkOnfocus('Enter First name','txtUserNameRG')" onblur="WatermarkOnblur('Enter First name','txtUserNameRG');removeValidSignup('txtUserNameRG');" name="" type="text" class="inp-creat-acc" value="Enter First name" maxlength="25" onkeypress="return submitSignEnter(event)">
+</div>
+<div class="newreg">
+<label>Last Name<span>*</span></label><input placeholder="Enter Last name" id="txtUserLastNameRG" onfocus="WatermarkOnfocus('Enter Last name','txtUserLastNameRG')" onblur="WatermarkOnblur('Enter Last name','txtUserLastNameRG');removeValidSignup('txtUserLastNameRG');" name="" type="text" class="inp-creat-acc" value="Enter Last name" maxlength="25" onkeypress="return submitSignEnter(event)">
 </div>
 
-<div id="FooterBootom"></div>
+<div class="newreg">
+<label>Email ID<span>*</span></label><input placeholder="Enter Email id" id="txtEmailIDRG" onfocus="WatermarkOnfocus('Enter Email id','txtEmailIDRG')" onblur="WatermarkOnblur('Enter Email id','txtEmailIDRG');removeValidSignup('txtEmailIDRG');" name="" type="text" class="inp-creat-acc" value="Enter Email id" maxlength="100">
+  <input id="txtEmailIDRG2" type="hidden" class="inp-creat-acc" value="" maxlength="100" onkeypress="return submitSignEnter(event)">
+</div>
 
-	
-	
-</body></html>
+  <div style="display:none" class="newreg">
+<!--<label>City<span>*</span></label>
+    -->
+    <input placeholder="Enter City" id="txtEnterCityRGId" onfocus="WatermarkOnfocus('Enter City','txtEnterCityRGId');" onblur="WatermarkOnblur('Enter City','txtEnterCityRGId');removeValidSignup('txtEnterCityRGId');" name="" type="hidden" class="inp-creat-acc" value="Enter City" onkeypress="return submitSignEnter(event)">
+<div class="hide"><input type="hidden" id="txtEnterCityRG" value=""></div>
+</div>
+  
+<div class="newreg">
+<label>Phone No<span>*</span></label>
+
+<input type="text" class="regc" id="txtPhoneNoRG2">
+
+<input placeholder="Enter Phone no" id="txtPhoneNoRG" onfocus="WatermarkOnfocus('Enter Phone no','txtPhoneNoRG')" onblur="WatermarkOnblur('Enter Phone no','txtPhoneNoRG');removeValidSignup('txtPhoneNoRG');" name="" type="text" class="regp" value="Enter Phone no" maxlength="15" onkeypress="return submitSignEnter(event)">
+</div>
+<div class="newreg">
+<label>Password<span>*</span></label><input placeholder="Enter Password" id="txtPasswordRG" onfocus="if (this.value == 'Enter Password') { this.value = '', this.setAttribute('type','password'); }" onblur="if (this.value == '' &amp;&amp; this.value=='null') { this.value = 'Enter Password', this.setAttribute('type','text'); }" name="password" type="password" class="inp-creat-acc" value="Enter Password" maxlength="25" onkeypress="return submitSignEnter(event)">
+</div>
+<div class="newreg">  
+<input name="" type="button" value="SUBMIT" class="button_creat-acc" onclick="signupUser()">
+</div><div class="clear"></div>
+<div class="newreg">
+<label></label><b><span class="error_message hide" id="errorMsgSignupThis">This user already exist <a data-reveal-id="myModal" data-animation="fade" class="close-reveal-modal hsign">Click here to sign in</a></span>
+<span class="error_message" id="errorMsgSignup"></span></b>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class="close-reveal-modal"><img src="http://d3kkbzjrsek928.cloudfront.net/images/close.png" alt="closed"></a>
+</div>
+<!--new registration end-->
+<!--forgot start-->
+<div id="divForgetPassword" class="reveal-modal medium" data-animation="fade">
+<div class="forget_passwod">
+<div class="forget_passwod_heading">FORGOT PASSWORD</div>
+<div class="forget_passwod_reset">
+<br>
+<p>Create an account or <a data-reveal-id="myModal" data-animation="fade" class="close-reveal-modal hsign">Sign In</a> to continue</p>
+<p><label>Email ID</label>
+<input placeholder="Enter your email id" id="txtEmailIDFP" onfocus="WatermarkOnfocus('Enter your email id','txtEmailIDFP')" onblur="WatermarkOnblur('Enter your email id','txtEmailIDFP')" name="" type="text" class="inp-forget_password" value="Enter your email id" onkeypress="return enterforgotPWD(event)">
+</p>
+<input name="" type="button" value="SEND EMAIL" class="button_forget_passwod" id="forgotPasswordDiv" onclick="updateNewPasinsidecontentsword()"><br><br>
+<div class="error_message hide" id="errorMsg"></div>
+
+</div>    
+
+</div>
+<a class="close-reveal-modal"><img src="http://d3kkbzjrsek928.cloudfront.net/images/close.png" alt="closed"></a>
+</div>
+<!--forgot end-->
+<!--quick start-->
+<div id="divQuickInfo" class="reveal-modal xlarge">
+<div class="popup_quick_view_main">
+<div class="popup_quick_view" id="innerDivQuickInfo">
+</div>
+</div>
+<a class="close-reveal-modal"><img src="http://d3kkbzjrsek928.cloudfront.net/images/close.png" alt="closed"></a>
+</div>
+<!--quick end-->
+<!--reminders start-->
+<div id="divEditReminders" class="reveal-modal medium">
+<div class="reminder_popup">
+<div id="innerEditReminder"></div>
+</div>
+<a class="close-reveal-modal"><img src="http://d3kkbzjrsek928.cloudfront.net/images/close.png" alt="closed"></a>
+</div>
+<!--reminders end-->
+
+
+
+
+
+
+   
+   		
+
+
+
+<!--alert message start-->
+<div id="check_alert" class="reveal-modal">
+<a class="close-reveal-modal">×</a>
+<p id="writeReview_message"></p>
+</div>
+<!--alert message end-->
+
+
+
+
+<input type="hidden" id="mailerIdtxt" value="">
+
+
+<div id="ribbonWrapper">
+<div class="outer">
+<div class="ribbon">
+
+
+
+
+
+<input type="hidden" value="$currency" id="currencyShowvalue">
+<div class="currenty_selection">
+<select id="changeCurr" name="Items" onchange="currencyConvert()">
+<option value="INR">INR</option>
+<option value="USA">USD</option>
+</select>
+</div>
+<div class="customer_support"> <a href="/product/contactus.dot">CUSTOMER SUPPORT</a> </div>
+
+
+
+<div class="track_order">
+ <a href="javascript:void(0)" onclick="showHide('hideDiv','dirImg')" id="track">TRACK YOUR ORDER</a>
+<input type="hidden" id="loggedInUserName" value="">
+
+<div id="hideDiv" class="ab hide">
+<div id="showBox" class="showBoxs">
+<form id="trackOrderSubmit" action="/product/trackOrderDetails.dot" name="trackOrderSubmit" onsubmit="return trackOrderSubmitFor();" method="post">
+
+
+Example: OR-123456 
+<input type="text" id="trackOrderNo" name="trackOrderNoName" class="order-number">
+<!--  Order starts with 701..? <a style="border:0px" href="http://www.fnp.com/flowers/faces/jsp/validateMyOrderDetail.jsp" target="_blank">click here</a> -->
+<br><br><hr><br>
+Email
+<input type="text" id="trackEmail" class="order-number">
+<div class="div">OR</div>
+Phone No.
+<input type="text" id="trackMobileNo" class="order-number">
+<div id="divTrackButton">
+<a href="javascript:void(0)" onclick="showHide('hideDiv','hide')" class="tclose" id="trackClose">X</a>
+<input type="submit" class="tbtn" value="TRACK" onclick="trackOrderSubmitFor()"></div>
+</form>
+</div>
+</div>
+
+</div>
+<div class="track_order"><a href="http://goo.gl/6J6ilG"><img src="/images/ph-icon.jpg" style="width: 9px; margin-right: 5px; float: left;">DOWNLOAD ANDROID APP</a> </div>
+</div>
+  
+</div>
+</div>
+
+
+<div id="main_header">
+<div class="outer">
+<div class="header">
+<div class="logo"><h1><a href="http://www.fnp.com"><img border="0" src="http://d3kkbzjrsek928.cloudfront.net/images/fnplogo_new.png" alt="Ferns N Petals (FNP)" title="Ferns N Petals (FNP)"></a></h1></div>
+
+
+
+<div class="delivery1">
+<div class="div1"><img src="http://d3kkbzjrsek928.cloudfront.net/css/delivery1.jpg"></div>
+<div class="div2"><label>WE UNDERSTAND YOUR GIFTING NEEDS</label><br><span>
+<a href="/same-day-delivery-1-1253-t.html">
+ FREE SAME DAY DELIVERY IN 350 CITIES  
+  
+</a></span></div>
+</div>
+  
+  
+  
+  
+  
+
+<div class="call_us">
+<label>
+  
+  <img onclick="mobileCurrency()" curval="USA" src="http://d3kkbzjrsek928.cloudfront.net/images/tdollar.jpg" alt="" id="currencyImage">
+
+  <a href="tel:+91 92124 22000">
+    <img src="http://d3kkbzjrsek928.cloudfront.net/images/tphone.jpg" alt="NEED HELP? CALL US">   </a></label>
+<p> <!--<img src="http://d3kkbzjrsek928.cloudfront.net/images/phone.png" alt="" class="flot-left"/> 
+  NEED HELP? CALL US <br/>   -->
+<span><strong>+91 92124 22000</strong></span>
+</p><div id="imp-links">
+<ul>
+<li><a target="_blank" href="http://corporate.fnp.com">Corporate Gifting</a></li>
+<li>&nbsp;&nbsp;&nbsp;</li>
+  <li><a href="/static/franchise.dot" style="color:green;font-weight:bold;">Franchise Enquiry</a></li>
+</ul>
+</div>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+
+<input type="hidden" value="0.0162" id="usCurrencyValue">
+
+
+
+
+
+
+
+
+   
+   		<div id="main_container">
+<div class="outer">
+<div class="banner_navigation border_bottom">
+<!--navigation start-->
+<div class="navigation1 menu_none1">
+<h2><a class="drop">Shop by Category</a></h2>
+<div class="box-cat">
+<div class="box-category nav_display1 nav_display3">
+    		<ul>
+<!--category start-->
+<li><a href="/online-flower-bunches-1-46-t.html" target="_blank">Doctor's Day - 1<sup>st</sup> July</a>
+<ul class="u-wit col2">
+<li>
+<ul>
+<label>Doctor’s Day Flowers</label>
+<li><a href="/online-flower-bunches-1-46-t.html">Bunches</a></li>
+<li><a href="/flowers-with-cake-1-56-t.html">Flowers With Cake</a></li>
+<li><a href="/order-flowers-with-sweet-1-906-t.html">Flowers With Sweets</a></li>
+<li><a href="/flowers-with-dry-fruits-1-60-t.html">Flowers With Dry fruits</a></li>
+<li><a href="/order-flowers-with-chocolates-1-55-t.html">Flowers With Chocolates</a></li>
+<li><a href="/order-flowers-n-gift-voucher-1-902-t.html">Flowers With Gift Vouchers</a></li>
+<li><a href="/online-glass-vase-arrangements-1-47-t.html">Glass Vase Arrangements</a></li>
+<li><a href="/flower-arrangements-1-180-t.html">Basket Arrangements</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>Doctor’s Day Gifts</label>
+<li><a href="/personalized-gifts-1-353-t.html">Personalized Gifts</a></li>
+<li><a href="/plant/green-plant-1-998-t.html">Plants</a></li>
+<li><a href="/send-dryfruits-&amp;-mewa-1-829-t.html">Dry Fruits</a></li>
+<li><a href="/food-gift-basket-1-84-t.html">Gift Hampers</a></li>
+<li><a href="/home-crafts-delivery-1-1528-t.html">Home Crafts</a></li>
+<li><a href="/order-sweets-meethai-1-1302-t.html">Sweets</a></li>
+<li><a href="/buy-home-decor-1-300-t.html">Home Decor</a></li>
+<li><a href="/gifts/budha-collection-1-1535-t.html">Budha Collections</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!-- category end-->
+
+
+<!--parent child start-->
+<li><a href="/send-birthday-flowers-1-2-t.html">Birthday</a>
+<ul class="u-wit">
+<li>
+<ul>
+<label>Gifts Ideas</label>
+<li><a href="/order-birthday-flowers-1-3-t.html">Best Seller Flowers</a></li>
+<li><a href="/online-flower-bunches-1-46-t.html">Bunches | Bouquet Flowers</a></li>
+<li><a href="/online-glass-vase-arrangements-1-47-t.html">Glass-Vase Arrangements</a></li>
+<li><a href="/online-flower-arrangements-1-180-t.html">Basket Arrangements</a></li>
+<li><a href="/buy-online-birthday-cakes-1-4-t.html">Birthday Cakes</a></li>
+<li><a href="/flower-combo-delivery-1-881-t.html">Birthday Flowers Hampers</a></li>
+<li><a href="/send-online-birthday-chocolates-1-7-t.html">Chocolates</a></li>
+
+<li><a href="/personalized-gifts-1-353-t.html">Personalized Gifts</a></li>
+<li><a href="/food-hampers-for-birthday-1-21-t.html">Food Hampers</a></li>
+<li><a href="/buy-best-selling-gifts-1-723-t.html">Best Sellers Gifts</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>By Relation</label>
+<li><a href="/order-birthday-gifts-for-husband-1-20-t.html">Husband</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;  <a href="/buy-online-birthday-gifts-for-wife-1-19-t.html">Wife</a></li>
+<li><a href="/flowers-for-father-1-1526-t.html">Father</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; <a href="/flowers-for-mother-1-1496-t.html">Mother</a></li>
+<li><a href="/order-flowers-gifts-for-brother-1-1497-t.html">Brother</a>&nbsp;&nbsp; &nbsp;&nbsp; | &nbsp;&nbsp; <a href="/sister-1-912-t.html">Sister</a></li>
+<li><a href="/buy-birthday-gifts-for-boyfriend-1-17-t.html">Boyfriend</a>&nbsp;&nbsp; | &nbsp;&nbsp; <a href="/send-online-birthday-gifts-for-girlfriend-1-18-t.html">Girlfriend</a></li>
+<li><a href="/order-birthday-gifts-for-men-1-26-t.html">Male Friend</a>  |  <a href="/send-online-birthday-gifts-for-girlfriend-1-18-t.html">Female Friend</a></li>
+<li><a href="/unique-gifts-for-son-1-1499-t.html">Son</a>&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; <a href="/gifts-for-daughter-1-1500-t.html">Daughter</a></li>
+<li><a href="/grandparents-day-1-1501-t.html">Grandparents</a></li>
+<li><a href="/flowers-gifts-for-boss-1-1502-t.html">Boss</a></li>
+<li><a href="/colleague-gifts-1-1503-t.html">Colleague</a></li>
+<li><a href="/send-corporate-gifts-to-client-1-1504-t.html">Corporate Clients</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>By Age</label>
+<li><a href="/buy-first-birthday-gifts-1-10-t.html">1st Birthday</a></li>
+<li><a href="/send-online-2nd-birthday-gifts-1-11-t.html">2nd Birthday</a></li>
+<li><a href="/5th-birthday-gifts-1-1505-t.html">5th Birthday</a>  |  <a href="/send-gifts-for-10th-birthday-1-1506-t.html">10 Birthday</a></li>
+<li><a href="/teenage-gifts-delivery-1-1507-t.html">Teenage</a></li>
+<li><a href="/send-16th-birthday-gifts-1-1508-t.html">16th Birthday</a></li>
+<li><a href="/gifts-for-18th-birthday-1-12-t.html">18th Birthday</a></li>
+<li><a href="/gifts-for-21st-birthday-1-13-t.html">21st Birthday</a></li>
+<li><a href="/buy-online-30th-birthday-gifts-1-1509-t.html">30th Birthday</a>  |  <a href="/buy-anniversary-gifts-for-parents-1-1540-t.html">40th Birthday</a></li>
+<li><a href="/send-50th-birthday-gifts-1-1511-t.html">50th Birthday</a>  |  <a href="/send-online-60th-birthday-gifts-1-14-t.html">60th Birthday</a></li>
+<li><a href="/send-online-75th-birthday-gifts-1-1512-t.html">75th Birthday</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>Special Services</label>
+<li><a href="/same-day-delivery-1-1253-t.html">Same Day Delivery</a></li>
+<li><a href="/gifts-for-top-metros-1-965-t.html">Next Day Delivery</a></li>
+<li><a href="/gift-card-online-delivery-1-934-t.html">Gifts Cards</a></li>
+<li><a href="/order-gifts-hamper-1-967-t.html">Gifts Hampers for Top Metros</a></li>
+<li><a href="/order-flowers-n-gift-voucher-1-902-t.html">Gifts Vouchers</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!--parent child end-->
+<!--parent child start-->
+<li><a href="/anniversaries-flowers-delivery-1-1514-t.html">Anniversary</a>
+<ul class="u-wit menu_position">
+<li>
+<ul>
+<label>Gifts Ideas</label>
+<li><a href="/online-anniversary-flowers-1-28-t.html">Best Seller Flowers</a></li>
+<li><a href="/online-flower-bunches-1-46-t.html">Bunches | Bouquet Flowers</a></li>
+<li><a href="/online-glass-vase-arrangements-1-47-t.html">Glass Vase Arrangements</a></li>
+<li><a href="/online-flower-arrangements-1-180-t.html">Basket Arrangements</a></li>
+<li><a href="/send-online-anniversary-cakes-1-29-t.html">Cakes</a></li>
+<li><a href="/online-anniversary-chocolates-1-32-t.html">Chocolates</a></li>
+<li><a href="/best-seller-flowers-gifts-1-90-t.html">Best Selling Gifts</a></li>
+<li><a href="/romantic-anniversary-gifts-1-37-t.html">Romantic Gifts</a></li>
+<li><a href="/personalized-gifts-1-353-t.html">Personalized Gifts</a></li>
+<li><a href="/buy-anniversary-cake-combos-1-30-t.html">Combos</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>By Relation</label>
+<li><a href="/buy-anniversary-gifts-for-husband-1-40-t.html">Husband</a></li>
+<li><a href="/buy-anniversary-gifts-for-wife-1-39-t.html">Wife</a></li>
+<li><a href="/send-anniversary-gifts-for-couple-1-1539-t.html">Couple</a></li>
+<li><a href="/buy-anniversary-gifts-for-friend-1-42-t.html">Friends</a></li>
+<li><a href="/anniversary-gifts-for-parents-1-1540-t.html">Parents</a></li>
+<li><a href="/send-anniversary-gifts-for-grandparents-1-1541-t.html">Grandparents</a></li>
+<li><a href="/anniversary-gifts-for-corporate-client-1-1542-t.html">Corporate Clients</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>By Age</label>
+<li><a href="/anniversaries-flowers-delivery-1-1514-t.html">1st Anniversary</a></li>
+<li><a href="/send-online-5th-anniversary-gifts-1-1536-t.html">5th Anniversary</a></li>
+<li><a href="/gifts-for-10th-anniversary-1-34-t.html">10th Anniversary</a></li>
+<li><a href="/send-online-20th-anniversary-gifts-1-1537-t.html">20th Anniversary</a></li>
+<li><a href="/gifts-for-25th-anniversary-1-35-t.html">25th Anniversary</a></li>
+<li><a href="/send-online-50th-anniversary-gifts-1-36-t.html">50th Anniversary</a></li>
+<li><a href="/send-online-60th-anniversary-gifts-1-1538-t.html">60th Anniversary</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>Special Services</label>
+<li><a href="/same-day-delivery-1-1253-t.html">Same Day Delivery</a></li>
+<li><a href="/gifts-for-top-metros-1-965-t.html">Next Day Delivery</a></li>
+<li><a href="/gift-card-online-delivery-1-934-t.html">Gifts Cards</a></li>
+<li><a href="/order-gifts-hamper-1-967-t.html">Gifts Hampers for Top Metros</a></li>
+<li><a href="/order-flowers-n-gift-voucher-1-902-t.html">Gifts Vouchers</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!--parent child end-->
+<!--category start-->
+<li><a href="/flowers-best-sellers-1-45-t.html">Flowers &amp; Combos</a>
+<ul class="u-wit menu_position col3">
+<li>
+<ul>
+<label>Flowers</label>
+<li><a href="/online-flower-bunches-1-46-t.html">Flower Bunches</a></li>
+<li><a href="/roses-1-1246-t.html">Roses</a></li>
+<li><a href="/orchids-flowers-delivery-1-1164-t.html">Orchid</a></li>
+<li><a href="/lilies-online-delivery-1-1086-t.html">Lilies</a></li>
+<li><a href="/carnations-flowers-1-746-t.html">Carnations</a></li>
+<li><a href="/mixed-flowers-1-1127-t.html">Mixed Flowers</a></li>
+<li><a href="/online-designer-packing-bouquet-1-255-t.html">Designer Bouquets</a></li>
+<li><a href="/designer-packing-bouquet-1-255-t.html">Exotic Flowers</a></li>
+<li><a href="/unique-flower-hampers-1-61-t.html">Unique Flower Hamper</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>Flowers Combos</label>
+<li><a href="/flowers-with-cake-1-56-t.html">Flowers with Cake</a></li>
+<li><a href="/send-flowers-with-teddy-1-57-t.html">Flowers with Teddy</a></li>
+<li><a href="/order-flowers-with-sweet-1-906-t.html">Flowers with Sweets</a></li>
+<li><a href="/flowers-with-dry-fruits-1-60-t.html">Flowers with Dry Fruits</a></li>
+<li><a href="/order-flowers-with-chocolates-1-55-t.html">Flowers with Chocolates</a></li>
+<li><a href="/greeting-card-special-1-1000-t.html">Flowers with Greeting Card</a></li>
+<li><a href="/order-flowers-n-gift-voucher-1-902-t.html">Flowers With Gift Vouchers</a></li>
+<li><a href="/online-glass-vase-arrangements-1-47-t.html">Glass Vase Arrangements</a></li>
+<li><a href="/flower-arrangements-1-180-t.html">Basket Arrangements</a></li>
+<li><a href="/flowers-by-numbers-1-52-t.html">Flowers by Numbers</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>City Special</label>
+<li><a href="/delhi">Delhi &amp; NCR Special</a></li>
+<li><a href="/mumbai-special-gifts-1-124-t.html">Mumbai Special</a></li>
+<li><a href="/bangalore-special-flowers-gifts-1-125-t.html">Bangalore Special</a></li>
+<li><a href="/flowers-to-pune-1-278-t.html">Pune Special</a></li>
+<li><a href="/special-flowers-gifts-to-chennai-1-127-t.html">Chennai Special</a></li>
+<li><a href="/hyderabad-special-gifts-1-128-t.html">Hyderabad Special</a></li>
+<li><a href="/kolkata-special-1-129-t.html">Kolkata Special</a></li>
+<li><a href="/lucknow-special-flowers-1-130-t.html">Lucknow Special</a></li>
+<li><a href="/ahmedabad-special-flowers-gifts-1-132-t.html">Ahmedabad Special</a></li>
+<li><a href="/flowers-to-gurgaon-1-269-t.html">Gurgaon Special</a></li>
+<li><a href="/send-flowers-to-noida-1-537-t.html">Noida Special</a></li>
+<li><a href="/remote-cities-delivery-1-133-t.html">Remote Cities Delivery</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!-- category end-->
+<!--parent child start-->
+<li><a href="http://www.fnp.com/gifts" target="_blank">Gifts</a>
+<ul class="u-wit menu_position col3">
+<li>
+<ul>
+<label>Best Seller Gifts</label>
+<li><a href="/chocolate/">Chocolates</a></li>
+<li><a href="/personalized-gifts-1-353-t.html">Personalized Gifts</a></li>
+<li><a href="/soft-toys-online-delivery-1-89-t.html">Soft Toys</a></li>
+<li><a href="/plant/" target="_blank">Plants</a></li>
+<li><a href="/food-gift-basket-1-84-t.html">Gourmet Gifts</a></li>
+<li><a href="/online-cushions-1-1533-t.html">Cushions</a></li>
+<li><a href="/gifts/flowers-gifts-personalized-mugs-1-345-t.html">Mugs</a></li>
+<li><a href="/buy-home-decor-1-300-t.html">Home Decor</a></li>
+<li><a href="/cosmetic-gift-hamper-1-247-t.html">Cosmetics &amp; Spa Hampers</a></li>
+<li><a href="/send-dryfruits-&amp;-mewa-1-829-t.html">Dry Fruits</a></li>
+<li><a href="/send-cosmetic-n-perfumes-1-248-t.html">Perfumes</a></li>
+<li><a href="/gifts/artificial-flowers-1-181-t.html">Artificial Flowers</a></li>
+
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>Unique Gifts</label>
+<li><a href="/buy-jewellery-online-1-1057-t.html">Jewellery</a></li>
+<li><a href="/home-crafts-delivery-1-1528-t.html">Home Crafts</a></li>
+<li><a href="/buy-women-accessories-1-1369-t.html">Fashion Accessories</a></li>
+<li><a href="/buy-bag-clutch-online-1-1527-t.html">Bags &amp; Purses</a></li>
+<li><a href="/unisex-gifts-delivery-1-1353-t.html">Sunglasses</a></li>
+<li><a href="/sweets-dry-fruits-gourmet-1-1306-t.html">Gift Hampers</a></li>
+<li><a href="/order-sweets-meethai-1-1302-t.html">Sweets</a></li>
+<li><a href="/divinity-1-793-t.html">Spiritual Gifts</a></li>
+<li><a href="/gifts/budha-collection-1-1535-t.html">Budha Collection</a></li>
+<li><a href="/online-designer-bags-1-1529-t.html">Designer Bags</a></li>
+<li><a href="/gifts/toys-and-games-1-1566-t.html">Toys and Games</a></li>
+<li><a href="/gifts/caricatures-1-1568-t.html">Caricatures</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>Specials Gifts</label>
+<li><a href="/buy-home-garden-gifts-1-1025-t.html">Green Gifts</a></li>
+<li><a href="/order-experience-gifts-1-1551-t.html">Experience Gifts</a></li>
+<li><a href="/online-deal-of-the-month-1-785-t.html">Gifts on Sale</a></li>
+<li><a href="/online-candles-and-diya-1-744-t.html">Lamps &amp; Candles</a></li>
+<li><a href="/order-gifts-hamper-1-967-t.html">Gift Hamper for Top Metros</a></li>
+<li><a href="/dry-cakes-cookies-1-1513-t.html">Dry Cakes and Cookies</a></li>
+<li><a href="/gift-card-online-delivery-1-934-t.html">Gifts Cards</a></li>
+<li><a href="/online-funky-gifts-1-1534-t.html">Funky Gifts</a></li>
+<li><a href="/buy-wall-clock-1-1530-t.html">Wall Clocks</a></li>
+<li><a href="/gifts/send-sunsign-gifts-1-1531-t.html">Sunsign Gifts</a></li>
+<li><a href="/books-1-1930-t.html">Books</a></li>
+<li><a href="/gifts/">More Gifts</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!--parent child end-->
+<!--parent child start-->
+<li><a href="http://www.fnp.com/cakes" target="_blank">Cakes</a>
+<ul class="u-wit menu_position">
+<li>
+<ul>
+<label>By Occasion</label>
+
+<li><a href="/buy-online-birthday-cakes-1-4-t.html">Birthday Cakes</a></li>
+<li><a href="/send-online-anniversary-cakes-1-29-t.html">Anniversary Cakes</a></li>  
+<li><a href="/send-mothers-day-cakes-1-308-t.html">Mother's Day Cakes</a></li>
+<li><a href="/send-fathers-day-cakes-1-1935-t.html">Father's Day Cakes</a></li>
+<li><a href="/send-valentine-cakes-1-654-t.html">Romantic Cakes</a></li>
+<li><a href="/buy-baby-shower-cakes-1-1553-t.html">Baby Shower Cakes</a></li>
+<li><a href="/celebration-cakes-1-1554-t.html">Celebration Cakes</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>By Category</label>
+<li><a href="/buy-online-chocolate-cake-1-740-t.html">Regular Cakes</a></li>
+<li><a href="/eggless-cake-delivery-1-834-t.html">Eggless Cakes</a></li>
+<li><a href="/send-special-cakes-1-1549-t.html">Special Cakes</a></li>
+<li><a href="/cup-cakes-1-1931-t.html">Cup Cakes</a></li>
+<li><a href="/buy-five-star-hotel-cake-1-871-t.html">Five Star Cakes</a></li>
+<li><a href="/online-designer-cakes--1-1550-t.html">Designer Cakes</a></li>
+<li><a href="/kids-cakes-1-1745-t.html">Kids Cakes</a></li>
+<li><a href="/photo-cakes-1-1746-t.html">Photo Cakes</a></li>
+<li><a href="/dry-cakes-cookies-1-1513-t.html">Dry Cakes &amp; Cookies</a></li>
+<li><a href="/buy-online-chocolate-cake-1-740-t.html"><font style="text-decoration:underline">View All Cakes</font></a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>By Weight</label>
+<li><a href="/one-pound-cake-1-1163-t.html">Half Kg Cakes</a></li>
+<li><a href="/buy-half-kg-eggless-cakes-1-1552-t.html">Half Kg Eggless Cakes</a></li>
+<li><a href="/buy-one-kg-cake-1-1560-t.html">1 Kg Cakes</a></li>
+<li><a href="/2-kg-cakes-1-1771-t.html">2 Kg Cakes</a></li>
+<label>By Flavour</label>
+<li><a href="/buy-online-chocolate-cakes-1-1555-t.html">Chocolate Cakes</a></li>
+<li><a href="/buy-butter-scotch-cakes-1-1556-t.html">Butterscotch Cakes</a></li>
+<li><a href="/pineapple-cakes-1-1558-t.html">Pineapple Cakes</a></li>
+<li><a href="/order-vanilla-cakes-1-1557-t.html">Vanilla Cakes</a></li>
+<li><a href="/order-cheese-cakes-online-1-1559-t.html">Cheese Cakes</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>By City</label>
+<li><a href="/cakes-to-delhi-1-1599-t.html">Delhi NCR Special Cakes</a></li>
+<li><a href="/cakes-to-mumbai-1-1600-t.html">Mumbai Special Cakes</a></li>
+<li><a href="/cakes-to-bangalore-1-1602-t.html">Bangalore Special Cakes</a></li>
+<li><a href="/cakes-to-chennai-1-1601-t.html">Chennai Special Cakes</a></li>
+<li><a href="/pune-special-cakes-1-1752-t.html">Pune Special Cakes</a></li>
+<li><a href="/hyderabad-special-cakes-1-1753-t.html">Hyderabad Special Cakes</a></li>
+<li><a href="/ahmadabad-special-cakes-1-1751-t.html">Ahmadabad Special Cakes</a></li>
+<li><a href="/cakes-to-gurgaon-1-1755-t.html">Gurgaon Special Cakes</a></li>
+<li><a href="/kolkata-special-cakes-1-1749-t.html">Kolkata Special Cakes</a></li>
+<li><a href="/buy-online-chocolate-cake-1-740-t.html"><font style="text-decoration:underline">View More Cities</font></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!--parent child end-->
+<!--parent child start-->
+<li><a href="#">By Occasions</a>
+<ul class="u-wit menu_position">
+<li>
+<ul>
+<li><a href="/send-online-birthday-flowers-1-2-t.html">Birthday</a></li>
+<li><a href="/anniversaries-flowers-delivery-1-1514-t.html">Anniversary</a></li>
+<li><a href="/wedding-flowers-gifts-1-100-t.html">Wedding</a></li>
+<li><a href="/love-flowers-gifts-1-1093-t.html">Love &amp; Romance</a></li>
+<li><a href="/just-because-flowers-1-105-t.html">Just Because</a></li>
+<li><a href="/send-congratulations-flowers-1-101-t.html">Congratulations</a></li>
+<li><a href="/buy-condolences-flowers-1-767-t.html">Sympathy &amp; Funerals</a></li>
+<li><a href="/i-am-sorry-flowers-gifts-1-104-t.html">Sorry</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/send-thank-you-flowers-1-1325-t.html">Thank You</a></li>
+<li><a href="/get-well-soon-flowers-1-98-t.html">Get Well</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/best-of-luck-flowers-1-106-t.html">Good Luck</a></li>
+<li><a href="/house-warming-gifts-1-103-t.html">House Warming</a></li>
+<li><a href="/new-born-baby-gifts-1-1149-t.html">New Baby</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<li><a href="/doctors-day-1-1392-t.html">Doctor's Day -1 July</a></li>
+<li><a href="/parents-day-gifts-1-1170-t.html">Parent's Day -27 July</a></li>
+<li><a href="/eid-gifts-express-services1-165-t.html">Eid -29 July</a></li>
+<li><a href="http://www.fnp.com/friendship-day" target="_blank">Friendship Day -3 Aug</a></li>
+<li><a href="http://www.fnp.com/rakhi" target="_blank">Rakhi - 10 Aug</a></li>
+<li><a href="/janmashtami-courier-1-1051-t.html">Janmashtami -17 Aug</a></li>
+<li><a href="/ganesh-chaturthi-express-gifts-1-295-t.html">Ganesh Chaturthi -29 Aug</a></li>
+<li><a href="/grand-parents-day-express-1-994-t.html">Grand Parents Day - 7 Sept</a></li>
+<li><a href="/onam-flowers-gifts-1-1162-t.html">Onam - 7 Sept</a></li>
+<li><a href="/navratri-express-1-1144-t.html">Navratri - 25 Sept</a></li>
+
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<li><a href="#">Daughter's Day -28 Sept</a></li>
+<li><a href="http://www.fnp.com/karwa-chauth" target="_blank">Karwa Chauth - 11 Oct</a></li>
+<li><a href="/order-boss-day-special-flowers-gifts-1-214-t.html">Boss's Day - 16 Oct</a></li>
+<li><a href="http://www.fnp.com/diwali" target="_blank">Diwali - 23 Oct</a></li>
+<li><a href="http://www.fnp.com/bhaidooj" target="_blank">Bhai Dooj - 25 Oct</a></li>
+<li><a href="http://www.fnp.com/new-year" target="_blank">New Year</a></li>
+<li><a href="http://www.fnp.com/valentine" target="_blank">Valentine’s Day</a></li>
+<li><a href="http://www.fnp.com/mothers-day" target="_blank">Mother’s Day -11 May</a></li>
+<li><a href="http://www.fnp.com/fathers-day" target="_blank">Father's Day -15 June</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<li><a href="/international-mother-earth-day-1-1741-t.html">Earth Day</a></li>
+<li><a href="/online-baisakhi-gifts-1-715-t.html">Baisakhi</a></li>
+<li><a href="/tamil-new-year-1-1739-t.html">Tamil New Year</a></li>
+<li><a href="/bengali-new-year-1-1740-t.html">Bengali New Year</a></li>
+<li><a href="/easter-day-1-1736-t.html">Easter</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!--parent child end-->
+<!--parent child start-->
+<li><a href="/gift-for-her">For Her</a>
+<ul class="u-wit menu_position">
+<li>
+<ul>
+<li><a href="/online-flower-bunches-1-46-t.html">Flowers</a></li>
+<li><a href="/buy-online-chocolate-cake-1-740-t.html">Cakes</a></li>
+<li><a href="/buy-all-types-chocolates-1-171-t.html">Chocolates</a></li>
+<li><a href="/romantic-gifts-delivery-1-1240-t.html">Romantic Gifts</a></li>
+<li><a href="/personalized-gifts-1-353-t.html">Personlised Gifts</a></li>
+<li><a href="/plants-lucky-bamboo-1-359-t.html">Plants</a></li>
+<li><a href="/online-cushions-1-1533-t.html">Cushions</a></li>
+<li><a href="/order-mugs-1-345-t.html">Mugs</a></li>
+<li><a href="/Womens-Apparel-1-1967-t.html">Women’s Apparel </a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<li><a href="/send-sunsign-gifts-1-1531-t.html">Sunsign Gifts</a></li>
+<li><a href="/food-gift-basket-1-84-t.html">Gift Hampers</a></li>
+<li><a href="/buy-bag-clutch-online-1-1527-t.html">Bags &amp; Purses</a></li>
+<li><a href="/send-cosmetic-n-perfumes-1-248-t.html">Cosmetics</a></li>
+<li><a href="/send-women-perfume-1-1370-t.html">Fragrance</a></li>
+<li><a href="/cosmetic-gift-hamper-1-247-t.html">Spa Hamper</a></li>
+<li><a href="/buy-jewellery-online-1-1057-t.html">Jewellery</a></li>
+<li><a href="/soft-toys-online-delivery-1-89-t.html">Soft Toys</a></li>
+<li><a href="/unisex-gifts-delivery-1-1353-t.html">Sunglasses</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>By Occasion</label>
+<li><a href="/send-online-birthday-flowers-1-2-t.html">Birthday</a></li>
+<li><a href="/anniversaries-flowers-delivery-1-1514-t.html">Anniversary</a></li>
+<li><a href="/wedding-flowers-gifts-1-100-t.html">Wedding</a></li>
+<li><a href="/love-flowers-gifts-1-1093-t.html">Love &amp; Romance</a></li>
+<li><a href="/just-because-flowers-1-105-t.html">Just Because</a></li>
+<li><a href="/send-congratulations-flowers-1-101-t.html">Congratulations</a></li>
+<li><a href="/mothers-day">Mother's Day</a></li>
+<li><a href="/i-am-sorry-flowers-gifts-1-104-t.html">Sorry</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/send-thank-you-flowers-1-1325-t.html">Thank You</a></li>
+<li><a href="/get-well-soon-flowers-1-98-t.html">Get Well</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/best-of-luck-flowers-1-106-t.html">Good Luck</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>Special Services</label>
+<li><a href="/same-day-delivery-1-1253-t.html">Same Day Delivery</a></li>
+<li><a href="/gifts-for-top-metros-1-965-t.html">Next Day Delivery</a></li>
+<li><a href="/gift-card-online-delivery-1-934-t.html">Gifts Cards</a></li>
+<li><a href="/order-gifts-hamper-1-967-t.html">Gifts Hampers for Top Metros</a></li>
+<li><a href="/order-flowers-n-gift-voucher-1-902-t.html">Gifts Vouchers</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!--parent child end-->
+<!--parent child start-->
+<li><a href="/gift-for-him">For Him</a>
+<ul class="u-wit menu_position">
+<li>
+<ul>
+<li><a href="/online-flower-bunches-1-46-t.html">Flowers</a></li>
+<li><a href="/buy-online-chocolate-cake-1-740-t.html">Cakes</a></li>
+<li><a href="/buy-all-types-chocolates-1-171-t.html">Chocolates</a></li>
+<li><a href="/romantic-gifts-delivery-1-1240-t.html">Romantic Gifts</a></li>
+<li><a href="/personalized-gifts-1-353-t.html">Personlised Gifts</a></li>
+<li><a href="/plant">Plants</a></li>
+<li><a href="/online-cushions-1-1533-t.html">Cushions</a></li>
+<li><a href="/order-mugs-1-345-t.html">Mugs</a></li>
+<li><a href="/home-crafts-delivery-1-1528-t.html">Sunsign Gifts</a></li>
+<li><a href="/online-budha-collection-1-1535-t.html">Budha Collection</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<li><a href="/order-mens-perfume-1-1119-t.html">Perfumes</a></li>
+<li><a href="/leather-items-1-1083-t.html">Leather Items</a></li>
+<li><a href="/buy-home-garden-gifts-1-1025-t.html">Green Gifts</a></li>
+<li><a href="/send-gifts-for-him-1-79-t.html">Bar items</a></li>
+<li><a href="/unisex-gifts-delivery-1-1353-t.html">Sunglasses</a></li>
+<li><a href="/order-mens-accessories-1-1118-t.html">Men’s Accessories</a></li>
+<li><a href="/send-divinity-flowers-1-793-t.html">Spiritual Gifts</a></li>
+<li><a href="/food-gift-basket-1-84-t.html">Food Hampers</a></li>
+<li><a href="/send-dryfruits-&amp;-mewa-1-829-t.html">Dryfruits</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>By Occasion</label>
+<li><a href="/send-online-birthday-flowers-1-2-t.html">Birthday</a></li>
+<li><a href="/anniversaries-flowers-delivery-1-1514-t.html">Anniversary</a></li>
+<li><a href="/wedding-flowers-gifts-1-100-t.html">Wedding</a></li>
+<li><a href="/love-flowers-gifts-1-1093-t.html">Love &amp; Romance</a></li>
+<li><a href="/just-because-flowers-1-105-t.html">Just Because</a></li>
+<li><a href="/send-congratulations-flowers-1-101-t.html">Congratulations</a></li>
+<li><a href="/fathers-day">Father's Day</a></li>
+<li><a href="/i-am-sorry-flowers-gifts-1-104-t.html">Sorry</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/send-thank-you-flowers-1-1325-t.html">Thank You</a></li>
+<li><a href="/get-well-soon-flowers-1-98-t.html">Get Well</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/best-of-luck-flowers-1-106-t.html">Good Luck</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<label>Special Services</label>
+<li><a href="/same-day-delivery-1-1253-t.html">Same Day Delivery</a></li>
+<li><a href="/gifts-for-top-metros-1-965-t.html">Next Day Delivery</a></li>
+<li><a href="/gift-card-online-delivery-1-934-t.html">Gifts Cards</a></li>
+<li><a href="/order-gifts-hamper-1-967-t.html">Gifts Hampers for Top Metros</a></li>
+<li><a href="/order-flowers-n-gift-voucher-1-902-t.html">Gifts Vouchers</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!--parent child end-->  
+
+<!--parent child start-->
+<li><a href="/static/loyalty.dot">Special Offers</a>
+<ul class="u-wit menu_position">
+<li>
+<ul>
+<li><a href="/rs-0-rs-500-flowers-1-1543-t.html">Rs 0-Rs 500</a></li>
+<li><a href="/rs-500-rs-1000-flowers-1-1544-t.html">Rs 500-Rs 1000</a></li>
+<li><a href="/rs1000-rs-1500-flowers-1-1545-t.html">Rs 1000-Rs 1500</a></li>
+<li><a href="/rs1500-rs-2000-flowers-1-1546-t.html">Rs 1500-Rs 2000</a></li>
+<li><a href="/rs.2000--and-above-1-1547-t.html">Rs 2000 Plus</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<li><a href="/static/loyalty.dot">FNP Loyalty Program</a></li>
+<li><a title="JetPrivilege Offer" href="/static/jetairways.dot">JetPrivilege Offer</a></li>
+<li><a title="Reliance Mobile" href="/static/reliance-offer.dot">Reliance Mobile</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<li><a title="i-mint Offer" href="/static/axisbank-offer.dot">Axis Bank Offer</a></li>
+<li><a title="" href="/static/icicibank-offer.dot">ICICI Bank Offer</a></li>
+<li><a title="" href="/bajaj-allianz.html">BAJAJ ALLIANZ Offer</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<li><a href="http://www.fnp.com/special-deals">Special Deals</a></li>
+<li><a href="/flowers-gift-vouchers-1-121-t.html">Flowers With Gift Vouchers</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!--parent child end-->
+<!--parent child start-->
+<li><a href="/international">International Delivery</a>
+<ul class="u-wit menu_position">
+<li>
+<ul>
+<li><a href="/usa">United States</a></li>
+<li><a href="/uk">United Kingdom</a></li>
+<li><a href="/flowers-gifts-to-australia-1-109-t.html">Australia</a></li>
+<li><a href="/canada">Canada</a></li>
+
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<li><a href="/singapore">Singapore</a></li>
+<li><a href="/flowers-gifts-philippines-1-114-t.html">Philipines</a></li>
+<li><a href="/germany">Germany</a></li>
+<li><a href="/uae">UAE</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<li><a href="/flowers-gifts-to-china-1-117-t.html">China</a></li>
+<li><a href="/flowers-gifts-malaysia-1-1106-t.html">Malaysia</a></li>
+<li><a href="/flowers-gifts-indonesia-1-1037-t.html">Indonesia</a></li>
+<li><a href="/flowers-gifts-france-1-914-t.html">France</a></li>
+</ul>
+</li>
+<li class="mvline"></li>
+<li>
+<ul>
+<li><a href="/allcountries">Other Countries</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!--parent child end-->
+</ul>
+
+     </div>
+</div> 
+</div>
+<!--navigation end-->   
+
+<!--search-delivery-signin-mycart part start-->
+   		<div class="search_banner" id="searchvalid">
+ <form onsubmit="return validateForm()" method="post" name="searchForm"><input id="txtSearchbox" name="searchText" type="text" class="inp_banner" onfocus="WatermarkOnfocus('Search for flowers, chocolates, gifts and more','txtSearchbox');getSuggestedKeyWord();" onblur="WatermarkOnblur('Search for flowers, chocolates, gifts and more','txtSearchbox')" value="Search for flowers, chocolates, gifts and more">
+<input type="submit" class="sub_lense" value="">
+</form>
+</div>
+
+
+
+
+<div class="delv-sign-cart">
+<div class="delivery_today"><a href="/same-day-delivery-1-1253-t.html"><img title="Delivery Time" alt="Delivery Time" src="http://d3kkbzjrsek928.cloudfront.net/images/delivery-time.png">
+<span class="d_today-inn">Need Delivery    Today?  
+ </span>
+</a> </div>
+<div class="signin">
+
+<!--responsive login start-->
+ <a href="javascript:void(0)" data-reveal-id="myModal" onclick="clearMsg()" data-animation="fade"><img src="http://d3kkbzjrsek928.cloudfront.net/images/my-account.png" alt="Sign In" title="Sign In" class="delv-disblock"></a>
+<input type="hidden" id="loggedInUserName" value="">
+<!--responsive login end-->
+
+
+   <span class="signin_inn wsignin">Hi,&nbsp;<a href="#" data-reveal-id="myModal" onclick="clearMsg()" data-animation="fade">Sign In</a>
+<input type="hidden" id="loggedInUserName" value="">
+<br></span>
+
+  <span class="signin_inn wsignout">
+  <b><a data-reveal-id="divsingin" data-animation="fade">Registration</a></b>
+</span>  
+</div>
+<div class="mycart">
+  
+  
+  
+<a href="#" data-reveal-id="divCartPnl" data-animation="fade">
+<img title="My cart" alt="My cart" src="http://d3kkbzjrsek928.cloudfront.net/images/mycart.png" class="flot-left">
+<span class="delv-disblock">(0)</span>
+<span class="mycart_inn">My Cart (<span id="itemCartSize">0</span>)</span>
+</a>
+<div>
+</div>
+</div>
+
+<!--reveal start-->
+<!--cart start-->
+<div id="divCartPnl" class="reveal-modal large">
+<div class="popup_my_cart_main">
+<div class="popup_my_cart_all">
+<div class="hcartn">No items in your shopping cart. <br><br><a onclick="continueShoping()" class="continue_proceed">CONTINUE SHOPPING</a></div>
+<!--bind end-->
+</div>
+  <a class="close-reveal-modal" onclick="closeReveal()"><img src="http://d3kkbzjrsek928.cloudfront.net/images/close.png" alt="closed"></a>
+</div>
+</div>
+<!--cart end-->
+
+<!--activate start-->
+<div id="userActivateAccount" class="reveal-modal medium">
+<div class="forget_passwod">
+<div class="forget_passwod_heading">ACCOUNT ACTIVATE</div>
+<div class="forget_passwod_reset">
+<h3>Account Activation</h3>
+<p>Please click here to resend email to your email Box for account activation!!!</p>
+
+<input name="" type="button" value="SEND EMAIL" class="button_forget_passwod" onclick="getActivationLink()">
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<span id="msggetActivationLink" class="fgreen hide"> </span>
+
+</div>    
+</div>
+<a class="close-reveal-modal"><img src="http://d3kkbzjrsek928.cloudfront.net/images/close.png" alt="closed"></a>
+</div>
+<!--activate end-->
+
+<!--guest start-->
+<div id="guestuserCheckoutAccount" class="reveal-modal medium">
+
+<div class="forget_passwod">
+<div class="forget_passwod_heading">LOGIN REGISTER USER</div>
+<div class="forget_passwod_reset">
+<h3>Register User</h3>
+<p>Please login as a registered user!</p>
+
+</div>    
+</div>
+<a class="close-reveal-modal"><img src="http://d3kkbzjrsek928.cloudfront.net/images/close.png" alt="closed"></a>
+</div>
+<!--guest end-->
+
+<!--signup start-->
+<div id="myModal" class="reveal-modal large">
+<div class="popup_login_main">
+<div class="popup_login">
+<div class="fac_google_login">
+  <a href="javascript:void(0)" onclick="authUser()"><img src="http://d3kkbzjrsek928.cloudfront.net/images/facebook-signin.jpg" alt="Log In with Facebook" title="Log In with Facebook"></a>
+  <a href="javascript:void(0)" onclick="handleClientLoad()"><img src="http://d3kkbzjrsek928.cloudfront.net/images/google-signin.jpg" alt="Log In with Google" title="Log In with Google"></a>
+</div>
+<div class="popup_or"><img src="http://d3kkbzjrsek928.cloudfront.net/images/or_popup.jpg" alt="or"></div>
+<div class="popup_login_form">
+<h3>Already a member?</h3>
+<h4>Login here</h4>
+<div class="popup_login_form_row">
+<label>Email*</label>
+<input placeholder="Enter email id" type="text" id="txtUserName" class="pop_login_inp bsign" onfocus="WatermarkOnfocus('Enter email id','txtUserName')" onblur="WatermarkOnblur('Enter email id','txtUserName')" value="Enter email id" onkeypress="return submitenter(event)">
+<label>Password</label>
+<input placeholder="Enter password" name="password" type="password" id="txtPassword" class="pop_login_inp bsign" value="Enter password" onfocus="if (this.value == 'Enter password') { this.value = '', this.setAttribute('type','password'); }" onblur="if (this.value == '') { this.value = 'Enter password', this.setAttribute('type','text'); }" onkeypress="return submitenter(event)">
+</div>
+<div class="popup_login_form_row">
+<p>Forgot password?
+<a data-reveal-id="divForgetPassword" class="close-reveal-modal fclick">Click here</a>.</p>
+
+</div>
+<div class="popup_login_form_row">
+<input name="" type="button" class="pro_detail_addcart" value="LOGIN" onclick="submitForm()">
+<div class="error_message" id="errorMsgMsg"></div>
+</div>
+<div class="popup_login_form_row">
+<p>Don't have an account? <a data-reveal-id="divsingin" data-animation="fade" class="close-reveal-modal fcreate">Create One</a>.</p>
+</div>
+</div>
+</div>
+</div>
+<a class="close-reveal-modal"><img src="http://d3kkbzjrsek928.cloudfront.net/images/close.png" alt="closed"></a>
+</div>
+<!--signup end-->
+<!--reveal end-->
+<script type="text/javascript">
+var clientId = '347430784028.apps.googleusercontent.com';
+var apiKey = 'AIzaSyASxriOMmH_BYkWPp7yDETaaxPp6t0vwtM';
+var scopes = 'https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/userinfo.email';
+</script>
+
+<input type="hidden" id="googlePlusEmail" value="">
+
+
+
+
+
+   <!--search-delivery-signin-mycart part end-->
+
+
+<script>
+$(function(){
+    $('.drop').click(function(){      
+       $(this).toggleClass('mminus');
+    });
+});
+</script>
+<!--mobile-->
+<div class="navigation1 menu_none">
+  <h2><a class="drop mplus">Shop by Category</a></h2>
+<div class="box-cat">
+<div class="cate_box-category">
+
+   		<div id="cssmenu">
+<ul>
+<li class="has-sub"><a href="#">Birthday</a>
+<ul>
+<li><a href="/birthday/birthday-flowers-1-3-t.html"><span>Top Selling Flowers</span></a></li>
+<li><a href="/best-selling-gifts-1-723-t.html"><span>Top Selling Gifts</span></a></li>
+<li><a href="/birthday-cakes-1-4-t.html"><span>Cakes</span></a></li>
+<li><a href="/birthday-chocolates-1-7-t.html"><span>Chocolates</span></a></li>
+<li><a href="/personalized-gifts-1-353-t.html"><span>Personalized Gifts</span></a></li>
+<li class="last"><a href="/same-day-delivery-1-1253-t.html"><span>Same Day Delivery</span></a></li>
+</ul>
+</li>
+<li class="has-sub"><a href="#"><span>Anniversary</span></a>
+<ul>
+<li><a href="/anniversary-flowers-1-28-t.html"><span>Top Selling Flowers</span></a></li>
+<li><a href="/best-seller-1-90-t.html"><span>Top Selling Gifts</span></a></li>
+<li><a href="/anniversary-chocolates-1-32-t.html"><span>Chocolates</span></a></li>
+<li><a href="/romantic-anniversary-gifts-1-37-t.html"><span>Romantic Gifts</span></a></li>
+<li><a href="/anniversary/personalized-gifts-1-353-t.html"><span>Personalized Gifts</span></a></li>
+<li class="last"><a href="/same-day-delivery-1-1253-t.html"><span>Same Day Delivery</span></a></li>
+</ul>
+</li>
+<li class="has-sub"><a href="#">Occasions</a>
+<ul>
+<li><a href="/birthday-1-2-t.html"><span>Birthday</span></a></li>
+<li><a href="/anniversaries-1-1514-t.html"><span>Anniversary</span></a></li>
+<li><a href="/wedding-1-100-t.html"><span>Wedding</span></a></li>
+<li><a href="/love-1-1093-t.html"><span>Love &amp; Romance</span></a></li>
+<li class="last"><a href="/thank-you-1-1325-t.html"><span>Thank You</span></a></li>
+</ul>
+</li>
+<li class="has-sub"><a href="#"><span>Flowers</span></a>
+<ul>
+<li><a href="/same-day-delivery-1-1253-t.html"><span>Top Selling Flowers</span></a></li>
+<li><a href="/flower-bunches-1-46-t.html"><span>Flower Bunches</span></a></li>
+<li><a href="/arrangements-1-180-t.html"><span>Flower Baskets</span></a></li>
+<li><a href="/glass-vase-arrangements-1-47-t.html"><span>Glass Vase Arrangements</span></a></li>
+<li><a href="/unique-flower-hampers-1-61-t.html"><span>Unique Flower Hampers</span></a></li>
+<li><a href="/flowers-by-numbers-1-52-t.html"><span>Flowers by Numbers</span></a></li>
+<li class="last"><a href="/designer-packing-bouquet-1-255-t.html"><span>Designer Arrangements</span></a></li>
+</ul>
+</li>
+<li class="has-sub"><a href="#">Cakes</a>
+<ul>
+<li><a href="/birthday-cakes-1-4-t.html"><span>Birthday Cakes</span></a></li>
+<li><a href="/anniversary-cakes-1-29-t.html"><span>Anniversary Cakes</span></a></li>
+<li><a href="/buy-online-chocolate-cake-1-740-t.html"><span>Regular Cakes</span></a></li>
+<li><a href="/eggless-cake-1-834-t.html"><span>Eggless Cakes</span></a></li>
+<li><a href="/five-star-hotel-cake-1-871-t.html"><span>Five Star Bakery Cakes</span></a></li>
+<li><a href="/special-cakes-1-1549-t.html"><span>Special Cakes</span></a></li>
+<li><a href="/cheese-cakes-1-1559-t.html"><span>Cheese Cakes</span></a></li>
+<li class="last"><a href="designer-cakes--1-1550-t.html"><span>Designer Cakes</span></a></li>
+</ul>
+</li>
+<li class="has-sub"><a href="#"><span>Plants</span></a>
+<ul>
+<li><a href="/lucky-bamboo-1-1098-t.html"><span>Lucky Bamboo Plants</span></a></li>
+<li><a href="/bonsai-plants-1-728-t.html"><span>Bonsai Plants</span></a></li>
+<li><a href="/flowering-plant-1-888-t.html"><span>Flowering Plants</span></a></li>
+<li><a href="/green-plant-1-998-t.html"><span>Green Plants</span></a></li>
+<li class="last"><a href="/exotic-plant-1-846-t.html"><span>Exotic Plants</span></a></li>
+</ul>
+</li>
+<li class="has-sub"><a href="#">Gifts</a>
+<ul>
+<li><a href="/gifts-for-her-1-288-t.html"><span>For Her</span></a></li>
+<li><a href="/gifts-for-him-1-79-t.html"><span>For Him</span></a></li>
+<li><a href="/gifts-for-kids-1-80-t.html"><span>For kids</span></a></li>
+<li class="last"><a href="/buy-home-garden-gifts-1-1025-t.html"><span>For Home</span></a></li>
+</ul>
+</li>
+<li class="has-sub"><a href="#"><span>City Special</span></a>
+<ul>
+<li><a href="/gift-hampers-for-top-metros-119-120-t.html"><span>Gift Hampers for Top Metros</span></a></li>
+<li><a href="/flowers-gift-vouchers-1-121-t.html"><span>Flowers &amp; Gift Vouchers</span></a></li>
+<li><a href="/delhi-ncr-special-flower-gifts1-123-t.html"><span>Delhi &amp; NCR Special</span></a></li>
+<li><a href="/mumbai-special-119-124-t.html"><span>Mumbai Special</span></a></li>
+<li><a href="/bangalore-special-119-125-t.html"><span>Bangalore Special</span></a></li>
+<li><a href="/pune-special-119-126-t.html"><span>Pune Special</span></a></li>
+<li><a href="/chennai-special-119-127-t.html"><span>Chennai Special</span></a></li>
+<li><a href="/hyderabad-special-119-128-t.html"><span>Hyderabad Special</span></a></li>
+<li><a href="/kolkata-special-119-129-t.html"><span>Kolkata Special</span></a></li>
+<li><a href="/lucknow-special-119-130-t.html"><span>Lucknow Special</span></a></li>
+<li><a href="/jaipur-special-119-131-t.html"><span>Jaipur Special</span></a></li>
+<li><a href="/ahmedabad-special-119-132-t.html"><span>Ahmedabad Special</span></a></li>
+<li class="last"><a href="/remote-cities-delivery-119-133-t.html"><span>Other Cities</span></a></li>
+</ul>
+</li>
+<li class="has-sub"><a href="#">Outside India</a>
+<ul>
+<li><a href="/same-day-special-usa-649-t.html"><span>USA</span></a></li>
+<li><a href="/same-day-special-uk-1430-t.html"><span>UK</span></a></li>
+<li><a href="/gourmet-gifts-canada-1-990-t.html"><span>CANADA</span></a></li>
+<li><a href="/outside-india/australia-108-109-t.html"><span>Australia</span></a></li>
+<li><a href="/singapore-1-113-t.html"><span>Singapore</span></a></li>
+<li><a href="/uae-1-116-t.html"><span>UAE</span></a></li>
+<li><a href="/china-1-117-t.html"><span>China</span></a></li>
+<li><a href="/philippines-1-114-t.html"><span>Philippines</span></a></li>
+<li><a href="/indonesia-1-1037-t.html"><span>Indonesia</span></a></li>
+<li class="last"><a href="/france-1-914-t.html"><span>France</span></a></li>
+</ul>
+</li>
+</ul>
+  </div>
+     
+</div>
+</div>
+</div>
+
+
+
+
+
+</div>
+</div>
+</div>
+
+
+   <!--header end--> 
+
+<!--middle start-->
+<div id="main_container">
+<div class="outer">
+
+<!--bred_crum start -->
+<div class="bcrum"><a href="http://www.fnp.com">FNP Home /</a> Privacy Policy</div>
+<!--bred_crum end -->
+
+<div class="my_account_main">
+<!--left start-->
+<div class="left_part">
+<div class="my_account_left">
+
+  <!--content start-->
+  <div class="my_account_top" style="padding:10px;text-align:justify;">
+<p><strong><u>Privacy Policy</u></strong></p><br><br>
+<p><u>Note</u>: This Privacy Policy forms an  integral part of the Terms  and Conditions other policies, disclaimers etc. available on the Website of  FNP and shall be read in conjunction.</p><br><br>
+<p>Ferns  N Petals Private Limited (“<strong>Company</strong>,”  “<strong>we</strong>”, “<strong>us</strong>”, “<strong>our</strong>” or “<strong>FNP</strong>”) is the sole owner of the  information collected on all FNP Websites. This privacy statement applies only  to information collected by the Website<a name="_GoBack"></a>.</p>
+<p>We  value the trust you place in us. That's why we insist upon the highest  standards for secure transactions and customer information privacy. Please read  the following statement to learn about our information gathering and  dissemination practices.</p><br><br>
+<p><u><strong>Note</strong></u>:</p><br><br>
+<p>Our  privacy policy is subject to change at any time without notice. To make sure  you are aware of any changes, please review this policy periodically.</p><br>
+<p>By  visiting the Website you agree to be bound by the terms and conditions of this  Privacy Policy. If you do not agree please do not use or access our Website.</p><br><br>
+<p>By  mere use of the Website, you expressly consent to our use and disclosure of  your personal information in accordance with this Privacy Policy. This Privacy  Policy is incorporated into and subject to the Terms and Conditions.</p><br>
+<p><strong><u>Collection of Personally  Identifiable Information and other Information</u></strong></p><br><br>
+<p>When  you use our Website, we collect and store your personal information which is  provided by you from time to time. Our primary goal in doing so is to provide  you a safe, efficient, smooth and customized experience. This allows us to  provide services and features that most likely meet your needs, and to  customize our Website to make your experience safer and easier. More  importantly, while doing so we collect personal information from you that we  consider necessary for achieving this purpose.</p><br>
+<p>If  you choose to buy on the Website, we collect information about your buying behavior.</p><br><br>
+<p>If  you transact with us, we collect some additional information, such as a billing  address, a credit / debit card number and a credit / debit card expiration date  and/ or other payment instrument details and tracking information from cheques  or money orders etc.</p><br>
+<p>If  you send us personal correspondence, such as emails or letters, or if other  users or third parties send us correspondence about your activities or postings  on the Website, we may collect such information into a file specific to you.</p><br>
+<p>We  collect personally identifiable information (email address, name, phone number,  credit card / debit card / other payment instrument details, etc.) from you  when you set up a free account with us. While you can browse some sections of  our Website without being a registered member, certain activities (such as  placing an order) do require registration. We do use your contact information  to send you offers based on your previous orders and your interests.</p><br>
+<p>If  your personally identifiable information changes, or if you no longer desire  our service, you may correct, update, or delete by emailing our Customer  Support at support@fnp.com&nbsp; or by  contacting us by telephone or postal mail at the contact information listed  below. </p><br><br>
+<p><strong><u>Communications from the Site </u></strong></p><br>
+<p><u>Special  Offers and Updates</u></p><br><br>
+<p>We  may occasionally send you information on products, services, special deals, and  promotions. Out of respect for your privacy, we present the option not to  receive these types of communications.<br>
+  <u></u><br><br>
+  <u>Press  Releases and Newsletters</u></p><br>
+<p>If  you request to receive our press release(s) or newsletter(s), we will use your  name and email address to send these documents to you. Out of respect for your  privacy, please contact us if you subsequently wish to be removed from this  mailing list. </p><br>
+<p><u>Service-related  Announcements</u></p><br><br>
+<p>We  will send you strictly service-related announcements on rare occasions when it  is necessary to do so. For instance, if our service is temporarily suspended  for maintenance, we might send you an email advising you of this. </p><br><br>
+<p><strong><u>Legal Disclaimer</u></strong></p><br><br>
+<p>We  may share personal information with our other corporate entities and affiliates  to help detect and prevent identity theft, fraud and other potentially illegal  acts; correlate related or multiple accounts to prevent abuse of our services;  and to facilitate joint or co-branded services that you request where such  services are provided by more than one corporate entity. Those entities and  affiliates may not market to you as a result of such sharing unless you  explicitly opt-in.</p><br><br>
+<p>We  may disclose personal information if required to do so by law or in the good  faith belief that such disclosure is reasonably necessary to respond to  subpoenas, court orders, or other legal process. We may disclose personal  information to law enforcement offices, third party rights owners, or others in  the good faith belief that such disclosure is reasonably necessary to: enforce  our Terms and Conditions or Privacy Policy; respond to claims that an  advertisement, posting or other content violates the rights of a third party;  or protect the rights, property or personal safety of our users or the general  public.</p>
+<p>If  you no longer wish to receive our press releases, newsletter and promotional  communications, you may opt-out of receiving them by following the instructions  included in each newsletter or communication or by emailing us at  support@fnp.com</p><br><br>
+<p><strong><u>Cookies</u></strong></p><br><br>
+<p>We  do not use cookies on this site. A cookie is a small text file that is stored  on a user's computer for record-keeping purposes.</p><br><br>
+<p><strong><u>Clear Gifs (Web Beacons/Web Bugs)</u></strong></p><br><br>
+<p>We  do not use clear gifs (I.e. Web Beacons/Web Bugs) in our HTML-based emails. </p><br><br>
+<p>Clear  gifs are tiny graphics with a unique identifier, similar in function to  cookies, and are used to track the online movements of Web users and to let  companies know which emails recipients have opened, allowing them to gauge the  effectiveness of certain communications and the effectiveness of their on-line  marketing campaigns. In contrast to cookies, which are stored on a user's  computer hard drive, clear gifs are embedded invisibly on Web pages and are  about the size of the period at the end of this sentence. </p><br><br>
+<p><strong><u>Links to Other Sites</u></strong></p><br><br>
+<p>Our  Website links to other websites that may collect personally identifiable  information about you. FNP is not responsible for the privacy practices or the  content of those linked websites.</p>
+<p><strong><u>Advertisements on FNP</u></strong></p><br><br>
+<p>We  use third-party advertising companies to serve ads when you visit our Website.  These companies may use information (not including your name, address, email  address, or telephone number) about your visits to this and other websites in  order to provide advertisements about goods and services of interest to you.</p><br><br>
+<p><strong><u>Security</u></strong></p><br><br>
+<p>The  security of your personal information is important to us. We do not use any  encryption on our forms, as we do not collect credit card numbers, social  security numbers or any other sensitive information that can be used in  identity theft. </p><br><br>
+<p><strong><u>Business Transitions</u></strong></p><br><br>
+<p>In  the event FNP goes through a business transition, such as a merger, acquisition  by another company, or sale of all or a portion of its assets, your personally  identifiable information will be among the assets transferred.</p><br><br>
+<p><strong><u>Changes in this Privacy Statement</u></strong></p><br><br>
+<p>If  we decide to change our privacy policy, we will post those changes to this  privacy statement on the homepage and other places we deem appropriate so that  you are aware of what information we collect, how we use it, and under what  circumstances, if any, we disclose it. </p><br><br>
+<p>We  reserve the right to modify this privacy statement at any time, so please  review it periodically. If we make material changes to this policy, we will  notify you here, by email, or by means of a notice on our home page.</p><br><br>
+<p><strong><u>Grievance Officer</u></strong></p><br><br>
+<p>In  accordance with Information Technology Act 2000 and rules made there under, the  name and contact details of the Grievance Officer are provided below: </p>
+<p>Mr.  Sajid Husain<br>
+  Contact  No.: +91 - 9711304337 <br>
+  Email  Id: sajad@fnp.com</p>
+
+</div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<!--left end-->
+<!--right end-->
+<div class="right_part">
+<h2>Ferns N Petals</h2>
+   		<ul>
+<li><a href="/static/aboutUS.dot">About Us</a></li>
+<li><a href="/static/affiliate.dot">Affiliate Program</a></li>
+<li><a href="/static/careers.dot">Careers</a></li>
+<li><a href="/static/flowerAstrology.dot">Flower Astrology</a></li>
+<li><a href="/static/ferns-n-petals-team.dot">FNP Team</a></li>
+<li><a href="/static/customerTestimonials.dot">Customer Testimonials</a></li>
+<li><a href="/static/legalDisclaimer.dot">Legal Disclaimer</a></li>
+<li><a href="/static/shippingDisclaimer.dot">Shipping Disclaimer</a></li>
+<li><a href="/static/valentinedisclaimer.dot">Valentine Disclaimer</a></li>
+<li><a href="/static/news.dot">FNP News</a></li>
+<li><a href="/static/faq.dot">FAQs</a></li>
+<li><a href="/static/sitemap.dot">FNP Sitemap</a></li>
+</ul>
+
+   </div>
+<!--right end-->
+</div>
+
+</div>
+</div>
+<!--middle end--> 
+
+<!--footer start-->
+   		<!--subscribe-newleeter & fb-join and fnp news start -->
+<div class="main_container">
+<div class="outer">
+<div class="newsletter_fbjoin_fnp_news">
+<div class="sub_newsletter">
+<h2>Subscribe Newsletter </h2>
+<p>Be the first to be notified for our special </p>
+<p>offers and promotions</p>
+<p>
+
+<input id="txtNewsletterSubscriber" type="text" onfocus="WatermarkOnfocus('Enter your email id','txtNewsletterSubscriber');hideMessage();" onblur="WatermarkOnblur('Enter your email id','txtNewsletterSubscriber')" value="Enter your email id" class="inp_newsletter" onkeypress="return entersubscribeFun(event)">
+<input type="button" class="submit_newsletter" onclick="subscribeFun()" value="Sign up">
+</p><div class="clear"></div>
+<div id="newMsg" class="hide"><span class="fred">Please enter valid email id</span> </div>
+<p></p>
+</div>
+<div class="join-fb">
+<div class="fb-like" data-href="http://facebook.com/fnp.fernsnpetals" data-width="200" data-show-faces="true" data-send="true"></div>
+  <a href="https://plus.google.com/+fernsandpetals/posts" target="_blank"><img src="http://d3kkbzjrsek928.cloudfront.net/images/home_gplus.png"></a>
+  <a href="https://twitter.com/fernsnpetals_" target="_blank"><img src="http://d3kkbzjrsek928.cloudfront.net/images/home_twitter.png"></a>
+  <a href="https://www.facebook.com/fnp.fernsnpetals" target="_blank"><img src="http://d3kkbzjrsek928.cloudfront.net/images/home_fb.png"></a>
+  <a href="http://www.youtube.com/user/fernsnpetal" target="_blank"><img src="http://d3kkbzjrsek928.cloudfront.net/images/home_youtube.png"></a>
+</div>
+
+<div class="fnp_news">
+<h2>FNP News</h2>
+<p>See what's blooming at FNP. Explore </p>
+<p>our world of flowers in the media</p>
+<p><a href="/static/news.dot">CLICK HERE</a></p>
+</div>
+</div>
+</div>
+</div>
+<!--subscribe-newleeter & fb-join and fnp news end -->  
+
+<div id="fb-root"></div>
+
+<!--
+<script type="text/javascript">
+  (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=121270567952452";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+-->
+
+
+
+
+   
+   		<script type="text/javascript">Wishtracker("False");</script>
+<script type="text/javascript">giveterTracker("false");</script>
+
+<!--footerLinks-->
+<div id="footer_main">
+<div class="outer">
+<div class="footer">
+<div class="footer_row">
+<!--Footer links Start here-->
+
+
+<script type="text/javascript">Wishtracker("False");</script>
+  <script type="text/javascript">giveterTracker("false");</script>
+
+<div class="footer_colum">
+<span>Send Flowers to</span>
+<ul>
+<li><a href="/delhi"><h3>Delhi</h3></a></li>
+<li><a href="/mumbai-special-gifts-1-124-t.html"><h3>Mumbai</h3></a></li>
+<li><a href="/pune-special-gifts-delivery-1-126-t.html"><h3>Pune</h3></a></li>
+<li><a href="/hyderabad-special-119-128-t.html"><h3>Hyderabad</h3></a></li>
+<li><a href="/bangalore-special-flowers-gifts-1-125-t.html"><h3>Bangalore</h3></a></li>
+<li><a href="/send-special-flowers-gifts-to-chennai-1-127-t.html"><h3>Chennai</h3></a></li>
+<li><a href="/ahmedabad-special-flowers-gifts-1-132-t.html"><h3>Ahmedabad</h3></a></li>
+<li><a href="/send-flowers-gifts-to-cochin-1-141-t.html"><h3>Cochin</h3></a></li>
+<li><a href="/send-flowers-gifts-to-chandigarh-1-139-t.html"><h3>Chandigarh</h3></a></li>
+<li><a href="/flowers-to-gurgaon-1-269-t.html"><h3>Gurgaon</h3></a></li>
+  <li><a href="/serviceablecities">View all Cities &gt;&gt;</a></li>
+</ul>
+</div>
+<div class="footer_colum footer_display1">
+<span>Shop by Product</span>
+<ul>
+<li><a href="/flowers-best-sellers-1-45-t.html"><h3>Best Sellers</h3></a></li>
+<li><a href="/roses-1-1246-t.html"><h3>Roses</h3></a></li>
+<li><a href="/chocolate-and-cake-1-740-t.html">Cakes</a>
+</li><li><a href="/plant"><h3>Plants</h3></a></li>
+<li><a href="/chocolates-1-171-t.html"><h3>Chocolates</h3></a></li>
+<li><a href="/sweets-meethai-1-1302-t.html">Sweets</a></li>
+<li><a href="/send-dryfruits-&amp;-mewa-1-829-t.html">Dry Fruits</a></li>
+<li><a href="/soft-toys-delivery-1-89-t.html">Soft Toys</a></li>
+<li><a href="/personalized-gifts-1-353-t.html">Personalized Gifts</a></li>
+<li><a href="/flower-bunches-1-46-t.html">Flowers Bouquet</a></li>
+<li><a href="/artificial-flowers-181-t.html"><h3>Artificial Flowers</h3></a></li>
+<li><a href="/food-gift-basket-1-84-t.html">Gourmet Gifts</a></li>
+
+</ul>
+</div>
+<div class="footer_colum footer_display2">
+<span>Flowers and Gifts by Occasion</span>
+<ul>
+<li><a href="/anniversaries-flowers-delivery-1-1514-t.html"><h3>Anniversary</h3></a></li>
+<li><a href="/send-birthday-flowers-1-2-t.html"><h3>Birthday</h3></a></li>
+<li><a href="/send-congratulations-flowers-1-101-t.html"><h3>Congratulations</h3></a></li>
+<li><a href="/get-well-soon-1-98-t.html"><h3>Get Well</h3></a></li>
+<li><a href="/i-am-sorry-flowers-gifts-1-104-t.html"><h3>I'm Sorry</h3></a></li>
+<li><a href="/just-because-flowers-1-105-t.html"><h3>Just Because</h3></a></li>
+<li><a href="/love-and-romance-flowers-1-97-t.html"><h3>Love &amp; Romance</h3></a></li>
+<li><a href="/send-new-born-baby-gifts-1-102-t.html"><h3>New Baby</h3></a></li>
+<li><a href="/send-condolence-flowers-1-99-t.html"><h3>Sympathy &amp; Funeral</h3></a></li>
+<li><a href="/send-thank-you-flowers-1-1325-t.html"><h3>Thank You</h3></a></li>
+<li><a href="/wedding-flowers-gifts-1-100-t.html"><h3>Wedding</h3></a></li>
+<li><a href="/house-warming-1-103-t.html">House Warming</a></li>
+</ul>
+</div>
+<div class="footer_colum footer_display3">
+<span>Flower Type</span>
+<ul>
+<li><a href="/roses-1-1246-t.html"><h3>Roses</h3></a></li>
+<li><a href="/tulips-flowers-delivery-1-1341-t.html"><h3>Tulip</h3></a></li>
+<li><a href="/lilies-delivery-1-1086-t.html"><h3>Lilies</h3></a></li>
+<li><a href="/orchids-flowers-delivery-1-1164-t.html"><h3>Orchids</h3></a></li>
+<li><a href="/daisies-deliveries-1-781-t.html"><h3>Daisies</h3></a></li>
+<li><a href="/hydrangeas-flowers-1-1033-t.html"><h3>Hydrangeas</h3></a></li>
+<li><a href="/sunflowers-delivery-1-1294-t.html"><h3>Sunflowers</h3></a></li>
+<li><a href="/tropical-flowers-delivery-1-1340-t.html"><h3>Tropical Flowers</h3></a></li>
+<li><a href="/send-carnations-flowers-1-746-t.html"><h3>Carnations</h3></a></li>
+<li><a href="/flowers-gifts-gerberas-1-928-t.html"><h3>Gerberas</h3></a></li>
+<li><a href="/mixed-flowers-1-1127-t.html"><h3>Mixed Flowers</h3></a></li>
+<li><a href="/designer-packing-bouquet-1-255-t.html"><h3>Designer Bouquets</h3></a></li>
+</ul>
+</div>
+<div class="footer_colum footer_display4">
+<span>Gifts</span>
+<ul>
+<li><a href="/send-gifts-for-him-1-79-t.html"><h3>Gifts For Him</h3></a></li>
+<li><a href="/send-gifts-for-her-1-78-t.html"><h3>Gifts For Her</h3></a></li>
+<li><a href="/gifts-for-kids-1-80-t.html"><h3>Gifts For Kids</h3></a></li>
+<li><a href="/personalized-gifts-1-353-t.html"><h3>Personalised Gifts</h3></a></li>
+<li><a href="/send-divinity-gifts-1-793-t.html"><h3>Divinity Gifts</h3></a></li>
+<li><a href="/wedding-flowers-gifts-1-100-t.html"><h3>Wedding Gifts </h3></a></li>
+<li><a href="/send-anniversary-gifts-1-31-t.html"><h3>Anniversary Gifts </h3></a></li>
+<li><a href="/birthday-gifts-1-6-t.html"><h3>Birthday Gifts</h3></a></li>
+<li><a href="/home-decor-gifts-301-t.html"><h3>Home Decor Gifts</h3></a></li>
+<li><a href="/send-corporate-gifts-1-771-t.html"><h3>Corporate Gifts</h3></a></li>
+<li><a href="/gifts">More Gifts &gt;&gt;</a></li>
+</ul>
+</div>
+<div class="footer_colum footer_display5">
+<span>International Flowers and Gift Delivery</span>
+<ul>
+<li><a href="/usa"><h3>United States</h3></a></li>
+<li><a href="/uk"><h3>United Kingdom</h3></a></li>
+<li><a href="/canada"><h3>Canada</h3></a></li>
+<li><a href="/flowers-gifts-to-australia-1-109-t.html"><h3>Australia</h3></a></li>
+<li><a href="/uae"><h3>UAE</h3></a></li>
+<li><a href="/germany"><h3>Germany</h3></a></li>
+<li><a href="/flowers-gifts-philippines-1-114-t.html"><h3>Phillpines</h3></a></li>
+<li><a href="/singapore"><h3>Singapore</h3></a></li>
+<li><a href="/send-flowers-gifts-to-china-1-117-t.html"><h3>China</h3></a></li>
+<li><a href="/flowers-gifts-indonesia-1-1037-t.html"><h3>Indonesia</h3></a></li>
+<li><a href="/flowers-gifts-malaysia-1-1106-t.html"><h3>Malaysia</h3></a></li>
+<li><a href="/flowers-gifts-france-1-914-t.html"><h3>France</h3></a></li>
+<li><a href="/allcountries">View More Countries &gt;&gt;</a></li>
+</ul>
+</div>
+<div class="footer_colum footer_display6">
+<span>Holiday &amp; Seasons</span>
+<ul>
+<li><a title="Friendship Day 2014" href="/friendship-day/">Friendship Day 2014</a></li>
+<li><a title="Friendship Day Flowers" href="/friendship-day/friendship-day-flowers-1-284-t.html">Friendship Day Flowers</a></li>
+<li><a title="Friendship Day Gifts" href="/friendship-day/unique-gifts-1-1352-t.html">Friendship Day Gifts</a></li>
+<li><a title="Rakhi 2014" href="/rakhi/">Rakhi 2014</a></li>
+<li><a title="Rakhi with Sweets" href="/rakhi-sweet-hamper-1-1214-t.html">Rakhi with Sweets</a></li>
+<li><a title="Rakhi with Dryfruits" href="/rakhi/rakhi-dryfruits-hamper-1-1200-t.html">Rakhi with Dryfruits</a></li>
+<li><a title="Rakhi With Chocolates" href="/rakhi-chocolate-hamper-1-1196-t.html">Rakhi With Chocolates</a></li>
+<li><a title="Rakhi with Cake" href="/rakhi-cake-hamper-1-1195-t.html">Rakhi with Cake</a></li>
+<li><a title="Rakhi Gifts for Brother" href="/rakhi-gifts-for-brother-1-1209-t.html">Rakhi Gifts for Brother</a></li>
+<li><a title="Rakhi Gifts for Sister" href="/return-gifts-for-sisters-1-1235-t.html">Rakhi Gifts for Sister</a></li>
+<li><a title="Rakhi Gifts for Kids" href="/rakhi/rakhi-gifts-for-kids-1-1201-t.html">Rakhi Gifts for Kids</a><br></li>
+<li><a title="Send Rakhi to USA" href="/rakhi-to-usa-1-1222-t.html">Send Rakhi to USA</a></li>
+</ul>
+</div>
+
+
+<!--Footer links End here-->
+</div>
+</div>
+</div>
+</div>
+
+     
+   		<!--Web engage code start-->
+<script type="text/javascript" async="" src="//ssl.widgets.webengage.com/js/widget/webengage-min-v-3.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
+  window.webengageWidgetInit = window.webengageWidgetInit || function(){
+    webengage.init({
+      licenseCode:"58add18c"
+    }).onReady(function(){
+      webengage.render();
+    });
+  };
+
+  (function(d){
+    var _we = d.createElement('script');
+    _we.type = 'text/javascript';
+    _we.async = true;
+    _we.src = (d.location.protocol == 'https:' ? "//ssl.widgets.webengage.com" : "//cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-3.0.js";
+    var _sNode = d.getElementById('_webengage_script_tag');
+    _sNode.parentNode.insertBefore(_we, _sNode);
+  })(document);
+</script>
+<!--Web engage code end-->
+<!-- Start of AmplifyConnect Code -->
+<!-- Amplify Connect Needs Jquery -->
+<!-- <script src="//code.jquery.com/jquery-1.10.1.min.js"></script> -->
+<!-- Uncomment above line if you need Jquery -->
+<script type="text/javascript">
+var Amplify="";
+AmplifyConnect_Widget = true;var urlTracking = true; 
+API_Key = "7ov2w8se7akh843azsnj74zssj8hd4s3rjh1bhcj7a";
+Project_Id = "10479";
+function _amplify(u) {setTimeout(function() {var d = document, f = d.getElementsByTagName("script")[0];_sc = d.createElement("script");_sc.type = "text/javascript";_sc.async = true;_sc.src = u;f.parentNode.insertBefore(_sc, f);__d = false;_sc.onload = _sc.onreadystatechange = function() {if (!__d && (!this.readyState || this.readyState === "loaded" || this.readyState === "complete")) {__d = true; Amplify = new AmplifyEngine();}};}, 1);} _amplify("//"+Project_Id +".getamplify.com/tejas?akey="+API_Key );window.amplifyInit = function() {
+
+Amplify.identify({
+  email: '',
+  name: ''
+})
+
+
+Amplify.customerAction( '','viewed', [{
+                             'productId' : '$product',
+                             'sku' : 'xxx', //optional
+                             'productTitle' : '$breadProName',
+                             'price' : '$ppprice',
+                             'specialPrice': '$ppprice', //optional
+                             'status' : 'xxx', //optional
+                             'stockAvailability' : 'xxx',
+                             'pageURL' : 'http://www.fnp.com$thispage', //optional
+                             'pictureURL' : 'http://lb-ebee-core-1780164820.ap-southeast-1.elb.amazonaws.com:6080/fileupload/file/$imageSocio', //optional
+                             'currency':'INR',  //optional
+                             'orderId': 'xxx', //compulsory when action_name is purchased
+                             'category': "'categories1','categories2','categories3'"
+                             }])}
+</script>
+<!-- End of AmplifyConnect Code -->
+
+<div class="main_container">
+<div class="outer">
+<div class="footer_row3">
+<h2>Other links</h2>
+<a href="/static/tnc.dot" title="Terms and conditions">Terms &amp;  Conditions</a>&nbsp;&nbsp; |&nbsp;&nbsp;<a href="/static/shippingdisclaimer.dot" title="Terms and conditions">Shipping Disclaimer</a>&nbsp;&nbsp; |&nbsp;&nbsp;<a href="/legaldisclaimer.html" title="Legal Disclaimer">Legal Disclaimer</a>&nbsp;&nbsp; |&nbsp;&nbsp;<a href="/static/privacy-policy.dot" title="Privacy Policy">Privacy Policy</a>&nbsp;&nbsp; |&nbsp;&nbsp;<a href="/valentinedisclaimer.html" title="Valentine Disclaimer">Valentine Disclaimer</a> |&nbsp;&nbsp;<a href="http://blog.fnp.com" target="_blank" title="blog">Blog</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="/contactus.html" title="Contact Us FNP for Buy and send flowers online" contact="" us<="" a=""> &nbsp;&nbsp;|&nbsp;&nbsp;</a><a href="/static/retailstore.dot" title="Retail Store">Retail Store</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/flowerastrology.html" title="Flower Astrology">Flower Astrology</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/customertestimonials.html" title="Testimonials">Testimonials</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/faq.html" title="FAQs">FAQs</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/affiliate.html" title="Affiliate Program">AffiliateProgram</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/sitemap.xml" title="Sitemap">Sitemap</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/static/htmlsitemap.dot" title="HTML Sitemap">HTML Sitemap</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/aboutus.html" title="About Us">About Us</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/static/franchise.dot" title="Franchise">Franchise</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/flowermeaning1.html" title="Flowers Meaning">Flowers Meaning</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/static/ferns-n-petals-team.dot" title="ferns-n-petals-team">FNP Team</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/static/news.dot" title="News Room">News Room</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/careers.html" title="Careers">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://play.google.com/store/apps/details?id=com.Clairvoyant.FernsAndPetals" target="_blank" title="Google Android App">Google Android App</a> </div>
+    
+    
+    
+<div id="footer_main2">
+<div class="outer">
+<div class="footer">
+<div class="footer-row1">
+<p class="right_reserved_display">Copyright © 2014 fnp.com. All rights reserved</p>
+</div>
+</div>
+</div>
+</div>
+    
+    
+    
+</div>
+</div>
+
+
+<script defer="" src="http://d1san5xwu7tdrc.cloudfront.net/js/mailer.js" type="text/javascript"></script>
+
+
+   
+<!--footer end-->
+
+
+
+
+
+
+
+</div></body></html>
