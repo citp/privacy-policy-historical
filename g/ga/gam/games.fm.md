@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games.fm privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019025656id_/http%3A//www.games.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games.fm privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070422id_/http%3A//www.games.fm/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -126,3 +126,59 @@
     
 
 ## Last game searches - gamers are looking for
+
+  
+
+
+[
+
+## Mario games
+
+](http://www.games.fm/mario+games "Mario games")
+
+[](http://www.games.fm/mario+games "Mario games")
+
+See all Mario bross games with legendary gaming persons.
+
+[
+
+## Earn to die games
+
+](http://www.games.fm/earn+to+die+games "Earn to die games")
+
+[](http://www.games.fm/earn+to+die+games "Earn to die games")
+
+All parts of legendary zombie killing game. Buy and upgrade your car or truck and kill them all. 
+
+[
+
+## Sift heads games
+
+](http://www.games.fm/sift+heads+games "Sift heads games")
+
+[](http://www.games.fm/sift+heads+games "Sift heads games")
+
+Don't forget Sift heads has more then 10 parts and they are ready to fight all enemies in expensive graphic and story.
+
+[
+
+## Snail bob games
+
+](http://www.games.fm/snail+bob+games "Snail bob games")
+
+[](http://www.games.fm/snail+bob+games "Snail bob games")
+
+Snail Bob is still on the way. His dramatic stories take your heart. Does he come to the End ?
+
+[
+
+## Angry birds games
+
+](http://www.games.fm/angry+birds+games "Angry birds games")
+
+[](http://www.games.fm/angry+birds+games "Angry birds games")
+
+Games which are similar to Angry birds style. Shoot and hit enemies by cannon and save friends.
+
+  
+
