@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014183732id_/http%3A//www.planetpdf.com/planetpdf.asp%3FcontentID%3D6477) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625173530id_/http%3A//www.planetpdf.com/planetpdf.asp%3FcontentID%3D6477) for the most accurate reproduction.*
 
-# Planet PDF - Privacy Policy - Planet PDF & PDF Store
+# Planet PDF - Privacy Policy - Planet PDF
 
 This policy covers the following two [Debenu](http://www.debenu.com/) Web sites:
 
   * Planet PDF - [http://www.planetpdf.com](http://www.planetpdf.com/)
-  * Former site - PDF Store - [http://www.pdfstore.com](http://www.pdfstore.com/)
 
 
 
@@ -24,8 +23,7 @@ While most information at the sites is freely available, at times we request cer
 We request your personal information -- which may include such things as email address, name, address, telephone number, etc. -- in exchange for certain activities, including:
 
   * one-time Planet PDF forum access registration (or use Read-Only guest access) 
-  * Planet PDF and PDF Store Newsletter subscriptions 
-  * Store purchases 
+  * Planet PDF Newsletter subscriptions 
   * Product demo downloads 
   * Adobe Acrobat Reader downloads 
   * Periodic surveys and/or contests 
@@ -36,14 +34,11 @@ We request your personal information -- which may include such things as email a
 
 In order to activate your Planet PDF newsletter subscriptions you must fill out a one-time registration page which requires your email address and various demographic data about yourself. The registration must use a valid email address which must be confirmed via the confirmation email that is sent to the account. If your account is not confirmed through the email we will then discard the address and all information associated with it. We will not sell, rent, swap or otherwise disclose the information you used to register with.
 
-In PDF Store we require personal credit card information and an accurate email address in order to complete a commercial transaction. (More on purchases in Section D below.)
-
 ## B. Use of "cookies"
 
 The sites make use of so-called "cookies," snippets of information that are transferred to the hard drives of users for various purposes. The use of cookies is an industry standard and occurs at most major websites.
 
   * Planet PDF makes use of "per-session cookies" (to monitor traffic patterns), which is deleted when the user leaves the site. This cookie in no way identifies the user; its sole purpose being to monitor traffic patterns. Users can disallow this cookie by configuring their Web browser's preferences. 
-  * PDF Store makes use of a "persistent cookie" when users enter their details during the process of downloading a product. The purpose of this cookie is so a user does not need to enter their details when downloading another product. Users can disallow this cookie by configuring their Web browser's preferences. 
   * The discussion forum areas of each site require the use of a cookie to enable users to navigate between pages and participate in discussions. Choosing not to accept this cookie will mean the Planet PDF Forum will not function correctly. 
 
 
@@ -63,12 +58,6 @@ In addition, we routinely track site traffic by analyzing our Web server logs, b
 
 From time to time, we may directly contact a user about a specific question, problem, comment or idea that he or she has posted -- we are always looking for user experiences to share with the rest of the community.
 
-## D. Sharing sales data with PDF Store vendors
-
-As noted previously, the we do not sell, rent, swap or otherwise disclose any personal information to other companies or organizations with one exception: PDF Store product sales and demo downloads, with transactions conducted through WorldPay (http://www.worldpay.com). WorldPay is required to adhere to this same policy as regards respecting the privacy of our customers. We DO NOT store credit card details on our servers, these are all handled through WorldPay and secured on their network.
-
-The PDF Store shares collected user information with its third-party vendor partners, but ONLY about demo downloads and sales [for registration, tech support, etc] of that specific company's products.
-
 ## E. Security
 
 Our sites utilize state-of-the-art security technology to ensure the security, integrity and privacy of such information. Nonetheless, we are not responsible for any breach of its security or for the actions of any third parties that may obtain any personal information.
@@ -78,7 +67,6 @@ Our sites utilize state-of-the-art security technology to ensure the security, i
 Subscribers to Planet PDF and the Planet PDF Newsletter may remove their personal information from our distribution lists as follows:
 
   * For Planet PDF: Please use the [Contact Us](https://web.archive.org/contact.asp) form available under the 'About Planet PDF menu of Planet PDF to send us an email regarding your request. 
-  * For PDF Store: Contact us [here](http://www.pdfstore.com/contact.asp). 
   * Planet PDF Newsletter recipients can cancel their free subscriptions at any time at the [subscription page](https://web.archive.org/login.asp). 
   * If you have a problem, please let us know through the Planet PDF contact form. 
 
@@ -92,7 +80,7 @@ After logging in to the Planet PDF Forum web site, registered forum members can 
 
 ## H. Changes to this policy
 
-The Planet PDF and PDF Store sites reserve the right to change this Privacy Policy at any time by notifying users (through posting an "Update" notice on this Web page and possibly others, and an announcement in the newsletter) of the existence of a new Privacy Policy or any updates. Any significant change in the use of personal information would not be retroactive to include information gathered under a previous policy.
+The Planet PDF site reserve the right to change this Privacy Policy at any time by notifying users (through posting an "Update" notice on this Web page and possibly others, and an announcement in the newsletter) of the existence of a new Privacy Policy or any updates. Any significant change in the use of personal information would not be retroactive to include information gathered under a previous policy.
 
 ## I. Feedback
 
