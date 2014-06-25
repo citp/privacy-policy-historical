@@ -1,0 +1,640 @@
+<!--The following is the downloaded HTML source of the mysocialbook.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625115202id_/http%3A//www.mysocialbook.com/index.php%3Fpage%3Dcgu) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html ng-app="LifeBookModule" lang="" id="ANG-ROOT"><head>
+    <meta charset="utf-8">
+    <title>Privacy policy</title>
+
+
+    <link rel="image_src" type="image/jpeg" href="http://www.mysocialbook.com/facebook/@SocialBook/images/website.jpg">
+    <link rel="icon" type="image/gif" href="http://www.mysocialbook.com/facebook/images/icon.gif">
+    <meta property="og:site_name" content="My Social Book">
+    <meta property="og:type" content="product">
+    <meta name="title" content="Privacy policy">
+    <meta property="og:title" content="Privacy policy">
+    <meta property="og:url" content="https://www.mysocialbook.com/index.php?page=cgu&amp;ln=en">
+    <meta name="description" content="With My Social Book, create a book with your Facebook page! Print your status updates, photos, comments, or make one for a friend as a unique gift.">
+    <meta property="og:description" content="With My Social Book, create a book with your Facebook page! Print your status updates, photos, comments, or make one for a friend as a unique gift.">
+    <meta property="og:brand" content="My Social Book">
+    <meta property="fb:app_id" content="276748255783228">
+    <meta property="og:image" content="http://www.mysocialbook.com/facebook/@SocialBook/images/website.jpg">
+    <meta name="keywords" content="Social Book,book with Facebook photo,Archive Facebook,Print Facebook,Personalized book">
+        <meta property="og:image:type" content="image/jpeg">
+        
+           <link rel="stylesheet" href="http://www.mysocialbook.com/facebook/libs101/v2/normalize.min.css">
+          <link rel="stylesheet" href="http://www.mysocialbook.com/facebook/libs101/v2/fonts/din-regular/stylesheet.css">
+          <link rel="stylesheet" href="http://www.mysocialbook.com/facebook/libs101/v2/fonts/din-medium/stylesheet.css">
+          <link rel="stylesheet" href="http://www.mysocialbook.com/facebook/libs101/v2/fonts/modernpics/stylesheet.css">
+         
+            <link rel="stylesheet" href="http://www.mysocialbook.com/facebook/libs101/v2/index.min.css"> <link rel="stylesheet" href="http://www.mysocialbook.com/facebook/@SocialBook/socialbook.css">
+        <link href="http://www.mysocialbook.com/facebook/libs101/jquery192/css/redmond/jquery-ui-1.9.2.custom.min.css" rel="stylesheet" type="text/css">
+          <link rel="stylesheet" href="http://www.mysocialbook.com/facebook/libs101/v2/fo.v2.uiWidgetOverlay.min.css"><link rel="stylesheet" type="text/css" href="http://www.mysocialbook.com/facebook/libs101/v2/countries.min.css"> 
+            <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="http://www.mysocialbook.com/facebook/libs101/angular107/angular.min.js"></script>
+            <script src="http://www.mysocialbook.com/facebook/libs101/angular107/angular-resource.min.js"></script>
+            <script src="http://www.mysocialbook.com/facebook/libs101/angular107/ui/angular-ui.min.js"></script>
+            <script src="http://www.mysocialbook.com/facebook/libs101/min/jquery-1.8.3.min.js"></script>
+            <script src="http://www.mysocialbook.com/facebook/libs101/jquery192/jquery-ui-1.9.2.custom.min.js"></script>
+            <script src="http://www.mysocialbook.com/facebook/libs101/min/modernizr.js"></script>  <script src="http://www.mysocialbook.com/facebook/libs101/min/fo.v2.home.controllers.js"></script>    <script>
+        function initGlobal(){
+            //après l'init facebook
+        }
+        function onInstallApp() {
+            //après l'install de l'app'
+        }
+        function onConnectFBFailed() {
+                    }
+        $("#logout").live("click", function () {
+
+
+            FB.getLoginStatus(handleSessionResponse);
+
+            // handle a session response from any of the auth related calls
+            function handleSessionResponse(response) {
+                // if we dont have a session (which means the user has been logged out, redirect the user)
+                if (!response.session) {
+                    goto_url("http://www.mysocialbook.com/index.php?page=homepage&clearsession=1");
+                    return;
+                    }
+
+                FB.logout(handleSessionResponse);
+            }
+        });
+
+
+
+         $("#connect_app").live("click", function() {
+                  lien='https://www.facebook.com/dialog/oauth?client_id=276748255783228&redirect_uri=https%3A%2F%2Fwww.mysocialbook.com%2Findex.php%3Fconnect%3D1%26page%3Dpage%26&state=030dc0af652af98cd9c505a02afb8219&canvas=0&fbconnect=0&scope=email%2Cuser_birthday%2Cread_stream%2Cuser_photos%2Cfriends_photos%2Cuser_about_me%2Cfriends_about_me%2Cuser_events%2Cuser_photos%2Cfriends_photos%2Cuser_status%2Cfriends_status%2Cuser_likes%2Cfriends_likes%2Cuser_website%2Cfriends_website%2Cuser_hometown%2Cfriends_hometown%2Cuser_checkins%2Cfriends_checkins%2Cuser_groups';
+                StartLoginFacebook(lien, "cgu");
+        });
+        $("#link_panier").live("click", function () {
+            if (ajaxfunction != 0) ajaxfunction.abort();
+            OuvrePage("basket");
+        });
+        $("#link_account").live("click", function () {
+            if (ajaxfunction != 0) ajaxfunction.abort();
+            OuvrePage("account");
+        });
+        $("#link_book").live("click", function () {
+            if (ajaxfunction != 0) ajaxfunction.abort();
+            OuvrePage("create_book&idb=0");
+        });
+        $("#link_book_cadeau").live("click", function () {
+            if (ajaxfunction != 0) ajaxfunction.abort();
+            OuvrePage("create_book&idb=0&lid=2");
+        });
+        $("#link_book_perso").live("click", function () {
+            if (ajaxfunction != 0) ajaxfunction.abort();
+            OuvrePage("create_book&idb=0&lid=1");
+        });
+        $("#link_book_pro").live("click", function () {
+            if (ajaxfunction != 0) ajaxfunction.abort();
+            OuvrePage("create_book&idb=0&lid=4");
+        });
+        $("#link_fpdf").live("click", function () {
+            if (ajaxfunction != 0) ajaxfunction.abort();
+            goto_url("http://www.mysocialbook.com/index.php?page=freepdf");
+        });
+         $("#link_gift").live("click", function () {
+            if (ajaxfunction != 0) ajaxfunction.abort();
+            goto_url("http://www.mysocialbook.com/index.php?page=giftcode");
+        });
+
+
+        function OuvrePage(page) {
+            auth = 0;
+             auth=1;                 
+         if (auth==1)
+            goto_url("http://www.mysocialbook.com/index.php?page=authinfo&next="+encodeURIComponent(page));
+            else
+         if (auth==2)
+         {
+           
+            lien='https://www.facebook.com/dialog/oauth?client_id=276748255783228&redirect_uri=https%3A%2F%2Fwww.mysocialbook.com%2Findex.php%3Fconnect%3D1%26page%3Dpage%26&state=9779ab1f2c2e088aee2a8e6559e0b306&canvas=0&fbconnect=0&scope=email%2Cuser_birthday%2Cread_stream%2Cuser_photos%2Cfriends_photos%2Cuser_about_me%2Cfriends_about_me%2Cuser_events%2Cuser_photos%2Cfriends_photos%2Cuser_status%2Cfriends_status%2Cuser_likes%2Cfriends_likes%2Cuser_website%2Cfriends_website%2Cuser_hometown%2Cfriends_hometown%2Cuser_checkins%2Cfriends_checkins%2Cuser_groups';
+            StartLoginFacebook(lien, page);
+
+            }
+            else
+                goto_url("http://www.mysocialbook.com/index.php?page="+page);
+      
+  }
+        function OuvrePage_old(page){
+            auth=false;
+             auth=true;
+         if (auth==true)
+         {
+           
+            lien='https://www.facebook.com/dialog/oauth?client_id=276748255783228&redirect_uri=https%3A%2F%2Fwww.mysocialbook.com%2Findex.php%3Fconnect%3D1%26page%3Dpage%26&state=9f2d75bfca574a2d46518de4b20e3cbb&canvas=0&fbconnect=0&scope=email%2Cuser_birthday%2Cread_stream%2Cuser_photos%2Cfriends_photos%2Cuser_about_me%2Cfriends_about_me%2Cuser_events%2Cuser_photos%2Cfriends_photos%2Cuser_status%2Cfriends_status%2Cuser_likes%2Cfriends_likes%2Cuser_website%2Cfriends_website%2Cuser_hometown%2Cfriends_hometown%2Cuser_checkins%2Cfriends_checkins%2Cuser_groups';
+            StartLoginFacebook(lien, page);
+
+            }//fin sinon
+            else
+                goto_url("http://www.mysocialbook.com/index.php?page="+page);
+   
+        }
+        
+    </script>
+    
+        <script type="text/javascript">
+
+            var _gaq = _gaq || []; 
+                   var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+                  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+                  _gaq.push(['_setAccount', 'UA-21845258-3']);
+                  _gaq.push(['_setDomainName', 'mysocialbook.com']);
+                                    _gaq.push(['_trackPageview']); 
+                  _gaq.push(['_trackEvent', 'user', 'pays','us']);
+                  _gaq.push(['_trackEvent', 'user', 'devise','Dollar']);
+                  _gaq.push(['_trackEvent', 'user', 'langue','en']);
+                   _gaq.push(['_trackEvent', 'user',  'page','cgu']);
+                   _gaq.push(['_trackEvent', 'user',  'btq','SocialBook4']);
+                      _gaq.push(['_trackEvent', 'user',  'app_install','visitor']);
+                          
+                                               
+                   
+                            (function() {
+                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                   // ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                   ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                })();
+</script>
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '1440473949519941']); // komilfo
+  _fbq.push(['addPixelId', '451217674981650']);  // nanigans
+  _fbq.push(['addPixelId', '1481597792053893']); // glow
+})();
+
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height='1' width='1' border='0' alt='' style='display:none' src='https//www.facebook.com/tr?id=451217674981650&amp;ev=NoScript' /></noscript>
+<noscript><img height='1' width='1' border='0' alt='' style='display:none' src='https://www.facebook.com/tr?id=1440473949519941&amp;ev=NoScript' /></noscript>
+<noscript><img height='1' width='1' border='0' alt='' style='display:none' src='https://www.facebook.com/tr?id=1481597792053893&amp;ev=NoScript' /></noscript>    
+
+
+    <script src="//d3c3cq33003psk.cloudfront.net/opentag-98800-1216596.js" async="" defer=""></script>
+<script type="text/javascript" async="" defer="" src="https://my.nanorep.com/widget/scripts/float.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+ <body class="home"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+             <div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+   <script type="text/javascript">
+   (function() {
+       var e = document.createElement('script');
+       e.type = 'text/javascript';
+       e.src = document.location.protocol +
+           '//connect.facebook.net/en_US/all.js';
+       e.async = true;
+
+       document.getElementById('fb-root').appendChild(e);
+
+
+   }());
+
+   ajaxfunction=0;
+
+   window.fbAsyncInit = function() {
+
+				FB.init({
+					appId: '276748255783228',
+					status: true, xfbml: true,cookie: true, oauth: true
+					 });
+								FB.Canvas.setAutoGrow();
+
+
+
+
+                FB.Event.subscribe('auth.login', function(response) {
+                    if (1==0)                    if (response!=undefined && response.authResponse!=undefined && response.authResponse.userID!=0 && response.authResponse.userID!='0')
+                    {
+                         lien='https://www.facebook.com/dialog/oauth?client_id=276748255783228&redirect_uri=https%3A%2F%2Fwww.mysocialbook.com%2Findex.php%3Fconnect%3D1%26page%3Dpage%26&state=d567f8a01603d4f1bcf55649ee148e04&canvas=0&fbconnect=0&scope=email%2Cuser_birthday%2Cread_stream%2Cuser_photos%2Cfriends_photos%2Cuser_about_me%2Cfriends_about_me%2Cuser_events%2Cuser_photos%2Cfriends_photos%2Cuser_status%2Cfriends_status%2Cuser_likes%2Cfriends_likes%2Cuser_website%2Cfriends_website%2Cuser_hometown%2Cfriends_hometown%2Cuser_checkins%2Cfriends_checkins%2Cuser_groups';
+                         StartLoginFacebook(lien, 'homepage');
+                                             }
+
+                   if (OnInstallApp!=undefined) OnInstallApp();
+                });
+
+
+                FB.Event.subscribe('auth.logout', function(response) {
+
+                });
+                /*
+            FB.Event.subscribe('auth.authResponseChange ', function(response) {
+                		//alert('authResponseChange');
+                  //   window.location.reload();
+                });
+            FB.Event.subscribe('auth.statusChange ', function(response) {
+                		//alert('statusChange');
+                  //   window.location.reload();
+                });*/
+
+               if (_gaq!=undefined)
+               {
+
+	                FB.Event.subscribe('edge.create', function(targetUrl) {
+					  _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
+					});
+
+	                FB.Event.subscribe('edge.remove', function(targetUrl) {
+	  					_gaq.push(['_trackSocial', 'facebook', 'unlike', targetUrl]);
+						});
+
+	               FB.Event.subscribe('message.send', function(targetUrl) {
+	  					_gaq.push(['_trackSocial', 'facebook', 'send', targetUrl]);
+					});
+               }
+
+
+
+  FB.getLoginStatus(function(response)
+{
+        if (response.authResponse)
+        {
+                 initGlobal();
+                 init();
+                 
+                
+        }
+	 else //non loggé
+         {
+                onConnectFBFailed();
+	}
+
+ });
+
+
+
+            };//fb.init
+
+
+		  function goto_url(url){
+				                document.location.href = url;
+
+            }
+
+			  function gotoParent(url){
+			  	               top.location.href= url;
+            }
+
+   	 $("#cacher_message_utilisateur").live("click", function() {
+      $("#message_utilisateur").hide(400);
+   });
+
+    function sharelink( $name , $caption , $description, $href , $image_url  ) {
+                        FB.ui({
+                        method: 'feed',
+                        link: $href,
+                        name: $name,
+                        caption: $caption,
+                        display: 'iframe',
+                        description: $description,
+                        access_token: '276748255783228|3745e671b107dd68b614e819e9886cd3',
+                        picture: $image_url
+                        },
+                        function(response) {
+                        if (response && response.post_id) {
+                        _gaq.push(['_trackEvent', 'user', 'share_link_install',"ok" ]);
+                        } else {
+                        if (_gaq!=undefined) if (_gaq!=undefined) _gaq.push(['_trackEvent', 'user', 'share_link_install',"abandon" ]);
+                        }
+                        });
+                        }
+
+   function GoToUrlPost(path, parameters, new_window) {
+    var form = $('<form></form>');
+
+    form.attr("method", "post");
+    form.attr("action", path);
+       if (new_window!=undefined && new_window==true)
+           form.attr("target", '_blank');
+
+    $.each(parameters, function(key, value) {
+        var field = $('<input></input>');
+
+        field.attr("type", "hidden");
+        field.attr("name", key);
+        field.attr("value", value);
+
+        form.append(field);
+    });
+
+    // The form needs to be a part of the document in
+    // order for us to be able to submit it.
+    $(document.body).append(form);
+    form.submit();
+}
+
+   function StartLoginFacebook(loginurl, pagevoulue)
+      {
+
+        if (_gaq!=undefined)
+                _gaq.push(['_trackEvent', 'user',  'Autorisation','Demarre']);
+      FB.login(function(response) {
+
+           if (response.authResponse) {
+               response.authResponse.next=pagevoulue;
+            GoToUrlPost("https://www.mysocialbook.com/index.php",response.authResponse);
+
+
+   } else {
+    //alert('User cancelled login or did not fully authorize.');
+   }
+
+                },{
+                 scope: "email,user_birthday,read_stream,user_photos,friends_photos,user_about_me,friends_about_me,user_events,user_photos,friends_photos,user_status,friends_status,user_likes,friends_likes,user_website,friends_website,user_hometown,friends_hometown,user_checkins,friends_checkins,user_groups"
+
+            });
+
+       }
+
+   requeteAjax=function(structure, urlAjax, success, error){
+       var dataJson = 'call='+JSON.stringify(structure);
+       //  if(debug)console.log(dataJson);
+       $.ajax({
+           type: "POST",
+           url: urlAjax,
+           data: dataJson,
+           cache: false,
+           async: true,
+           dataType:"json",
+           success: function(json){
+               success(json);
+           },
+           error: function(html){
+               error(html);
+           }
+       });
+   }
+
+</script>
+
+        
+ 
+        
+        
+        
+ 
+
+ <!--  TOPBAR -->   
+  <script type="text/javascript">  
+
+      function init() {}
+</script>
+ <header class="head"><div class="container">
+        <h1><a href="http://www.mysocialbook.com/index.php?page=homepage" alt="Create a book with your Facebook life with Social Book" title="Welcome">My Social Book</a></h1>
+        <aside class="utils">
+           
+            <a href="http://www.mysocialbook.com/index.php?page=country" title="Country : us" class="btn flat">
+                <img src="http://www.mysocialbook.com/facebook/format/v2/flags17/us.png" style="top: 3px;
+position: relative;">
+                   us</a>
+                        
+            <a id="connect_app" href="javascript:;" class="btn flat credit">Login</a>
+            
+            <a id="link_panier" href="javascript:;" class="btn flat cart" data-icon="i">Basket <span>
+                    0                </span></a>
+           
+             <fb:like href="https://www.facebook.com/MySocialBook" width="100" font="lucida grande" colorscheme="light" show_faces="false" layout="box_count" locale="" style="height: 44px;
+top: -16px;"></fb:like>        </aside>
+        <nav>
+            <ul>
+                                  <li style="display:none;">
+                    <a href="http://www.mysocialbook.com/index.php?page=homepage#top">Welcome</a>
+                </li>
+                                 <li>
+                    <a id="link_book" href="javascript:;" class="active parent-tooltip">Create a Social Book                    </a>
+                     <div class="nav-tooltip">Choose your Social Book type : For you, as a present for a friend, from a photo album, from a Facebook Page or Group, or mix several profiles together!                     </div>
+                </li>
+                
+                
+                
+                              
+              
+              
+              
+                               <li>
+                     <a id="link_gift" href="javascript:;" class="active parent-tooltip">Gift Card                    </a>
+                      <div class="nav-tooltip">A Social Book gift card is a great way to give the possibility for your friends and family to create their own book !</div>
+              </li>
+                              
+              
+                     
+               <li> 
+                  <a href="http://support.mysocialbook.com" class="active" target="_blank">Help                    </a>
+                    
+                </li>
+              
+                          </ul>
+        </nav>
+    </div></header>
+<script type="text/javascript">
+$(document).ready(function() {
+    $('.parent-tooltip').hover(function(){
+         $( this ).next().show();
+
+    },
+    function(){
+     $( this ).next().hide();
+    }
+    );
+});
+</script>
+<section id="principle"><div class="container">
+         <h3>Privacy policy</h3>
+<div id="main">
+<div class="content" id="content">
+
+<p>This privacy policy describes how My Social Book uses and protects any information that is collected about our users. This document describes exactly what information is collected, how it is safeguarded, and how you can control the way it is used.</p>
+<p>My Social Book is committed to ensuring that your privacy is protected. Should we ask for any personal information, you can be assured that it will only be used in accordance with this privacy policy.</p>
+<p>My Social Book may change this policy from time to time, and the latest version will be available on this page. </p>
+<h2>Long-term usage - User database</h2>
+<p>We collect the following information :</p>
+<ul>
+    <li>Facebook Name and unique ID</li>
+    <li>Customer information such as email, postal address</li>
+   <li>Customer orders</li>
+</ul>
+<p>We may use this information for one or more of the following reasons:</p>
+<ul>
+    <li>To send you our latest information</li>
+    <li>Internal record keeping</li>
+    <li>Improving our products and services</li>
+    <li>Security</li>
+</ul>
+
+
+<h2>Temporary usage - Product generation</h2>
+<p>For the production of our product and the real-time book quote, we gather a lot of information from your Facebook account, such as :</p>
+<ul>
+    <li>All posted content (statuses, pictures, ...)</li>
+    <li>All the comments</li>
+    <li>The checkins</li>
+    <li>Your friend list</li>
+    <li>Photo albums</li>
+</ul>
+<p>We use the temporary data to give you a real time quote and preview of your products. All the source data is destroyed automatically after a few days. If you make an order, we keep the resulting book only during the lifetime of your order</p>
+
+<p>We are committed to the security of any information that we hold. We have put in industry standard safeguards to prevent unauthorized access or disclosure to your personal information.</p>
+
+<p> For more information contact us at: <a href="mailto:help@mysocialbook.com">help@mysocialbook.com</a></p>
+     
+    
+    
+</div>
+    </div>
+         </div>
+</section>             
+    
+
+
+<!--  FOOTER -->
+<footer class="foot">
+
+    <aside><div class="container">
+            
+            
+            
+        <ul>
+            <li>
+                <p>
+                    <strong data-icon="%">Unbeatable prices</strong> Starting from $9.90                </p>
+            </li>
+                        <li>
+                <p>
+                    <strong data-icon="π">Free shipping</strong>
+                </p>
+            </li>
+                        <li>
+                <p>
+                    <strong data-icon="n">Secure payment</strong>
+                    Credit cards or Paypal                </p>
+            </li><li>
+                <p>
+                    <strong data-icon=")">Quality guaranteed</strong>
+                </p>
+            </li>
+        </ul>
+    </div></aside>
+
+    <div class="container">
+
+        <nav>
+            <strong>My Social Book</strong>
+            <ul>
+                <li><a href="index.php?page=about">Who are we?</a></li>
+                <li><a href="index.php?page=press">Reviews</a></li>
+                <li><a href="index.php?page=account">My account</a></li>
+                <li><a href="index.php?page=contact">Contact</a></li>
+
+                <li><a href="index.php?page=authinfo">Login</a></li>
+                 <li>&nbsp;</li>
+                
+            </ul>
+        </nav><nav>
+            <strong>To each his own Social Book</strong>
+            <ul>
+                <li><a id="link_book" href="javascript:;">Create a Social Book</a></li>
+               <li><a id="link_book_perso" href="javascript:;">My Social Book</a></li>
+                <li><a id="link_book_cadeau" href="javascript:;">Social Book Gift</a></li>
+                <li><a id="link_book_pro" href="javascript:;">Social Book Page/Group</a></li>
+                 
+                <li>
+
+                     &nbsp;
+
+                   
+                </li>
+                    <li>&nbsp;</li> 
+               
+            </ul>
+        </nav><nav>
+            <strong>Help</strong>
+            <ul>
+                <li><a href="http://support.mysocialbook.com" class="active" target="_blank">Frequently Asked Questions</a></li>
+                <li><a href="index.php?page=cgv">Terms and conditions</a></li>
+                <li><a href="index.php?page=cgu">Privacy Policy</a></li>
+                <li><a href="https://www.facebook.com/MySocialBook" target="_blank">Offers and promotions</a></li>
+                <li>&nbsp;</li>
+                <li>&nbsp;</li>
+            </ul>
+        </nav><nav>
+            <strong>Language</strong>
+                        <ul>
+                <li><a href="http://www.mysocialbook.com/index.php?ln=en">English</a></li>
+                <li><a href="http://fr.mysocialbook.com">Français</a></li>
+                <li><a href="http://br.mysocialbook.com">Português (Brazil)</a></li>
+                <li><a href="http://de.mysocialbook.com">Deutsch</a></li>
+                <li><a href="http://es.mysocialbook.com">Español</a></li>
+                <li><a href="http://it.mysocialbook.com">Italiano</a></li>
+              
+          </ul>
+        </nav>
+        <nav>
+            <strong>Follow us</strong>
+            <ul>
+                <li><a href="https://www.facebook.com/MySocialBook" target="_blank">Facebook</a></li>
+                <li><a href="http://www.pinterest.com/mysocialbooks" target="_blank">Pinterest</a></li>
+                <li><a href="http://my-social-book.tumblr.com" target="_blank">Tumblr</a></li>
+                 <li><a href="https://twitter.com/my_social_book" target="_blank">Twitter</a></li>
+                                <li><a href="http://www.mysocialbook.com/blog/" target="_blank">Blog</a></li>
+                 <li><a href="http://instagram.com/mysocialbooks" target="_blank">Instagram</a></li>
+            </ul>
+        </nav>
+
+        <p class="copy">© 2013 My Social Book           - <small><a class="bp" href="http://www.blackpizzacollective.com">Design by Black Pizza</a></small>
+        <br><small>My Social Book is not affiliated with, endorsed, or sponsored by Facebook</small></p>
+
+    </div>
+  <iframe height="1" width="1" frameborder="0" scrolling="no" src="//www.ftjcfx.com/tags/r?containerTagId=6925&amp;sku=0" name="product"></iframe>
+       <!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('2070-620-10-9880');/*]]>*/</script><noscript><a href="https://www.olark.com/site/2070-620-10-9880/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- end olark code --><!--do not modify this script -->
+                  <div class="nanorep_loadingData" id="nanoRepProxyContainer" style="position:absolute;top:-500px;left:0px;"></div>
+                  <script type="text/javascript">var _nRepData = _nRepData || []; _nRepData['kb'] = '32086625'; _nRepData['float'] = {account: 'mysocialbook', cdcVersion: 3, cdcFrame: '', scriptVersion: '2.31.1.9'}
+                  /* API here */;
+                  (function(){var windowLoadFunc = function(){var _nRepData = window._nRepData || [];_nRepData['windowLoaded'] = true;if (typeof(_nRepData['windowOnload']) === 'function') _nRepData['windowOnload']();};if (window.attachEvent)window.attachEvent('onload', windowLoadFunc);else if (window.addEventListener)window.addEventListener('load', windowLoadFunc, false);var sc = document.createElement('script');sc.type = 'text/javascript';sc.async = true;sc.defer = true;sc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'my.nanorep.com/widget/scripts/float.js';var _head = document.getElementsByTagName('head')[0];_head.appendChild(sc);})();
+                 </script>
+                
+<script type="text/javascript">
+adroll_adv_id = "OIJAQ65ALBFCZCUFVCIXLD";
+adroll_pix_id = "5AIU6YLCUZDEVICY7RFU7W";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+</footer>
+</body></html>
