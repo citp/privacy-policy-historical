@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheelcovers.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005042635id_/http%3A//wheelcovers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheelcovers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625222803id_/http%3A//wheelcovers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://wheelcovers.com/terms-conditions/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.wheelcovers.com/terms-conditions/>
 
 **Your Consent**
 
