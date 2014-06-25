@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 80stees.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101143526id_/http%3A//www.80stees.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 80stees.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045710id_/http%3A//www.80stees.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# 80sTees Privacy Policy - 80sTees
+# 80sTees.com Privacy Policy
+
+Updated 8.30.2013
 
 Your Information 
 
@@ -28,7 +30,7 @@ While you are using our site we may record your preferences and browsing history
 
 We sometimes partner with companies who can place banner ads to 80sTees.com on other websites. If you have been to our site in the past you may see 80sTees.com banners more frequently since we target people who have visited the site in the past. In addition, the ads you see may be based upon your browsing history while on 80sTees.com. So if you visited a page about Sesame Street t-shirts you may see ads for Sesame Street t-shirts from 80sTees.com while you are visiting other websites. We partner with a variety of advertising companies to display these ads, including google.com. Third party vendors, including Google, use cookies to serve the badge on the site and to serve ads based on your prior visits to the site. 
 
-You can opt out from Google Serving ads based on your actions on 80sTees.com and other sites by going to the [Google Ads Preferences Manager](https://www.google.com/settings/ads/onweb/?sig=ACi0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KSrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en). You can also install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) as well. 
+You can opt out from Google Serving ads based on your actions on 80sTees.com and other sites by going to the [Google Ads Preferences Manager](https://www.google.com/settings/ads/onweb/?sig=ACi0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KSrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en). You can also install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) as well.
 
 Opting Out 
 
@@ -36,7 +38,7 @@ If you would like to opt out of our exchange of your information with other mark
 
 California Shine the Light Law 
 
-Under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain, once per calendar year, information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses those businesses with which we shared customer information for the immediately prior calendar year. To obtain this information from us, please use the [Contact Us](https://web.archive.org/pages/contact.asp) link on the site, write "Request for California Privacy Information" on the subject line of your message,and we will send you a reply email containing the requested information. Not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
+Under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain, once per calendar year, information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses those businesses with which we shared customer information for the immediately prior calendar year. To obtain this information from us, please use the [Contact Us](https://web.archive.org/pages/contact) link on the site, write "Request for California Privacy Information" on the subject line of your message,and we will send you a reply email containing the requested information. Not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
 
 Consent to Processing of Information in the United States 
 
