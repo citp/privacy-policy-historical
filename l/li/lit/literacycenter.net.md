@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the literacycenter.net privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225072420id_/http%3A//www.literacycenter.net/about_us/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the literacycenter.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084711id_/http%3A//literacycenter.net/about_us/privacy-policy.php) for the most accurate reproduction.*
 
 # LiteracyCenter.Net - Contact
 
