@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slidesnack.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015210148id_/http%3A//www.snacktools.com/en/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slidesnack.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142055id_/http%3A//www.snacktools.com/en/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # SnackTools | Creative web applications
 
