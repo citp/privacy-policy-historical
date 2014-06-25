@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207052755id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082820id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
 
 # Violinist.com privacy policy
 
@@ -13,3 +13,12 @@ Several pages on Violinist.com will attempt to set "cookies" in your browser. Co
 We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 Information collected by Violinist.com may be transferred along with the other assets of Violinist.com to any subsequent owners of the site. Violinist.com is private property and its owners reserve the right to remove from the site any user and/or his or her information at any time.
+
+  
+
+
+### [What makes an elite violinist?](http://www.amazon.com/gp/product/0983813078/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0983813078&linkCode=as2&tag=statistieverywri)
+
+[](http://www.amazon.com/gp/product/0983813078/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0983813078&linkCode=as2&tag=statistieverywri) Our interview with **Sarah Chang** is one of more than two dozen in [The Violinist.com Interviews: Volume 1](http://www.amazon.com/gp/product/0983813078/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0983813078&linkCode=as2&tag=statistieverywri), which also features talks with **Joshua Bell** , **Maxim Vengerov** , and **David Garrett** , as well as a foreword by **Hilary Hahn**.
+
+**Get it now!** [For Kindle](http://www.amazon.com/gp/product/B00IT7P1CI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00IT7P1CI&linkCode=as2&tag=statistieverywri) | [For iBooks](https://itunes.apple.com/us/book/violinist.com-interviews-volume/id859273345?mt=11&uo=4&at=1l3vbiv) | [In Paperback](http://www.amazon.com/gp/product/0983813078/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0983813078&linkCode=as2&tag=statistieverywri)
