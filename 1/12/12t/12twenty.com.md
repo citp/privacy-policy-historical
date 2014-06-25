@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12twenty.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212060716id_/http%3A//www.12twenty.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12twenty.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075639id_/http%3A//www.12twenty.com/Home/Privacy) for the most accurate reproduction.*
 
 # 12Twenty | Data Made Simple
 
