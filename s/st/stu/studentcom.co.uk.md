@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the studentcom.co.uk privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213041720id_/http%3A//www.studentcom.co.uk/studentcom-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentcom.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124103id_/http%3A//www.studentcom.co.uk/studentcom-privacy.html) for the most accurate reproduction.*
 
 # StudentCom :: Portal
-
-Privacy Policy
-
- **Published** : 8th August 2013  
- **Author** : The Editor
 
 By becoming a customer you agree that we may use and share the information you provide and other information we hold about you for account management and for market research. This may include contacting you for marketing or market research purposes by the Internet portal, telephone, mobile, email or SMS unless you tell us you don’t want to be contacted for such purposes in any of these ways by calling us using the contact details provided on our website.
 
