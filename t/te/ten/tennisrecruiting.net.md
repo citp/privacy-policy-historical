@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207204143id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111113id_/http%3A//tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
 
 # The Tennis Recruiting Network
 
-[](http://www.tennis-warehouse.com/?from=tenrec)
+[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=leftnav&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww.tennisexpress.com)
 
 [](http://www.athleticdna.com/)
 
@@ -16,7 +16,9 @@
 
 [](http://www.advantagetennisacademy.com/)
 
-[](http://www.tennisrecruiting.net/article.asp?id=863&sessionid=071384E96B692AFA)
+[](http://www.gammasports.com/)
+
+[](http://www.itatennis.com/)
 
 | 
 
@@ -130,47 +132,26 @@ Marietta, GA 30007-1912
 
 | 
 
-| [](http://www.tennis-warehouse.com/?from=tenrec) |  TENNIS WAREHOUSE HOLIDAY SPECIALS  
+| [](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=logo&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww.tennisexpress.com)|  TENNIS EXPRESS PRODUCT REVIEW  
 ---|---  
   
-[](http://www.tennis-warehouse.com/twelveDays.html?from=tenrec "12 Days of Savings")  
-
-[](http://www.tennis-warehouse.com/?from=tenrec)|  TENNIS WAREHOUSE PRODUCT REVIEW  
----|---  
-  
-[**Wilson Tour Red Large Backpack**](http://www.tennis-warehouse.com/Wilson_Tour_Bag_Red/descpageBGWILSON-WTRBP.html?from=tenrec) To purchase this product or for a much more detailed written review, [Click Here!](http://www.tennis-warehouse.com/Wilson_Tour_Bag_Red/descpageBGWILSON-WTRBP.html?from=tenrec)  
+[**Head Prestige Pro Racquet**](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=video&subId1=title&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fhead%2Dyt%2Dgraphene%2Dprestige%2Dpro%2Dtennis%2Dracquet%2D35581) A full size video with all related links is available on our store's [YouTube Channel](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=video&subId1=youtube&subId2=0&subId3=ROS&u=https%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DTU9W0Tuy4QU). To purchase from Tennis Express or to find out more, [Click Here](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=video&subId1=clickHere&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fhead%2Dyt%2Dgraphene%2Dprestige%2Dpro%2Dtennis%2Dracquet%2D35581)!  
 
 RECENT COMMITMENTS 
 
-[](http://www.tennis-warehouse.com/?from=tenrec)|  ATP GEAR - RACQUETS   
+[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=logo&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww.tennisexpress.com) |  THE LATEST FROM TENNIS EXPRESS  
 ---|---  
   
-[](http://www.tennis-warehouse.com/player.html?ccode=JCHARDY&from=tenrec) |   |  **Jeremy Chardy** [Head YOUTEK IG Radical Midplus](http://www.tennis-warehouse.com/Head_YOUTEK_IG_Radical_Midplus/descpageRCHEAD-HYIRMP.html?from=tenrec)  
-Was: $189.95   **Now: $149.95**  
-[Review](http://www.tennis-warehouse.com/reviews/HYIRMP/HYIRMPreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-HYIRMP.html?from=tenrec), [Video](http://www.tennis-warehouse.com/video/HYIRMPvid.html?from=tenrec)  
----|---|---  
-[](http://www.tennis-warehouse.com/player.html?ccode=MAYER&from=tenrec) |   |  **Florian Mayer** [Head YOUTEK IG Prestige Midplus](http://www.tennis-warehouse.com/Head_YOUTEK_IG_Prestige_Midplus/descpageRCHEAD-HYIPMP.html?from=tenrec)  
-Buy Now: $159.95  
-[Review](http://www.tennis-warehouse.com/reviews/HYIPMP/HYIPMPreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-HYIPMP.html?from=tenrec), [Video](http://www.tennis-warehouse.com/video/HYIPMPvid.html?from=tenrec)  
-[](http://www.tennis-warehouse.com/player.html?ccode=ASEPPI&from=tenrec) |   |  **Andreas Seppi** [ProKennex Ki QTour](http://www.tennis-warehouse.com/ProKennex_Ki_QTour/descpageRCPK-PKIQT.html?from=tenrec)  
-Buy Now: $169.00  
-[Review](http://www.tennis-warehouse.com/reviews/PKIQT/PKIQTreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-PKIQT.html?from=tenrec), [Video](http://www.tennis-warehouse.com/productvideo.html?pcode=PKIQT&from=tenrec)  
-[](http://www.tennis-warehouse.com/player.html?ccode=ISTOMIN&from=tenrec) |   |  **Denis Istomin** [Tecnifibre TFight 325 VO2 Max](http://www.tennis-warehouse.com/Tecnifibre_TFight_325_VO2_Max/descpageRCTFUSA-325V.html?from=tenrec)  
-Was: $179.00   **Now: $99.00**  
-[Feedback](http://www.tennis-warehouse.com/feedback-325V.html?from=tenrec), [Video](http://www.tennis-warehouse.com/video_off.gif?from=tenrec)  
- 
+   
 
 ITA NEWS
 
-[**ATA Players Speak Out**](http://www.youtube.com/user/ATAtennis#p/a/u/1/DDojIq07GGg)
+[**Weil Tennis Academy**](http://www.youtube.com/watch?v=8NdBlHPtelc)
 
-Junior tennis players at Advantage Tennis Academy show why the academy is the best place for improving your game.
+For the past sixteen years in Ojai, California, the Weil Tennis Academy has steadily built a program whose focus is developing competitive players into Champions!
 
  
 
 THE LATEST FROM ZOOTENNIS 
 
  
-
-[](http://www.tennis-warehouse.com/?from=tenrec)|  TALK TENNIS   
----|---
