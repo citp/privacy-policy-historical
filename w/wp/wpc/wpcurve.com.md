@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wpcurve.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112073739id_/http%3A//wpcurve.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcurve.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073236id_/http%3A//wpcurve.com/privacy) for the most accurate reproduction.*
 
-# WP Curve privacy policy - WP Curve
+# WP Curve privacy policy » WP Curve
 
 WP CURVE PRIVACY POLICY
 
 _Last Updated: September 3, 2013_
 
-WP Curve LLC (“WP Curve” or “us” or “we”) developed this website (the “Website”) and the use of the Website is subject to your compliance with the privacy policy set forth below. We provide this Privacy Policy to ensure you understand your obligations and also explain how we use your personal information.
+Lifetime Value LLC (“WP Curve” or “us” or “we”) developed this website (the “Website”) and the use of the Website is subject to your compliance with the privacy policy set forth below. We provide this Privacy Policy to ensure you understand your obligations and also explain how we use your personal information.
 
 ## Information we collect
 
