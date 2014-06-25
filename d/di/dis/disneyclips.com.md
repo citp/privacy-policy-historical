@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019152852id_/http%3A//www.disneyclips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104836id_/http%3A//www.disneyclips.com/privacy.html) for the most accurate reproduction.*
 
 # Disneyclips.com - Privacy Policy
 
@@ -9,14 +9,11 @@
 [*Disney's World of Wonders](http://www.disneyclips.com/indexdww.html)  
 [*Banners](http://www.disneyclips.com/linktous.html)  
 [*Site Map](http://www.disneyclips.com/sitemap.html)  
-[*Shop Disney](http://www.disneyclips.com/imagesnewb6/disneystore.html)  
+[*Shop Disney](http://www.disneyclips.com/disneystore.html)  
 [*Terms of use](http://www.disneyclips.com/termsofuse.html)  
 [*Privacy Policy](http://www.disneyclips.com/privacy.html)  
   
 ---|---  
-  
-  
-  
   
 | 
 
@@ -46,17 +43,17 @@ Please be advised that this privacy policy may be changed in the future. Return 
 
 Magical Movies
 
-| |  **Monsters University**  
+| |  **The Pirate Fairy**  
 ---  
-[](http://www.amazon.com/exec/obidos/ASIN/B008JFUPOY/disneysworldofwo)| |  [  
-Get ready to party!](http://www.amazon.com/exec/obidos/ASIN/B008JFUPOY/disneysworldofwo)  
+[](http://www.amazon.com/exec/obidos/ASIN/B00H5RYN5Y/disneysworldofwo)| |  [  
+The Adventure of a lifetime!](http://www.amazon.com/exec/obidos/ASIN/B00H5RYN5Y/disneysworldofwo)  
 ---|---|---  
-[](http://www.amazon.com/exec/obidos/ASIN/B008JFUPOY/disneysworldofwo)  
+[](http://www.amazon.com/exec/obidos/ASIN/B00H5RYN5Y/disneysworldofwo)  
   
   
 Updates
 
-October 1st 2013  
-158 new cliparts, featuring Halloween, Monsters University, Sleeping Beauty, Planes, Mickey Mouse and Friends, Donald Duck, Tigger, Pooh and Friends, Doc Mcstuffins, Goof Troop, Rescue Rangers, Ducktales and The Sword in the Stone, plus 13 new coloring pages.  
+June 1st 2014  
+87 new images, featuring Pluto, Father's Day, Finding Nemo, Tangled, The Lion King, The Little Mermaid, Weddings and Misc. Holidays, plus 50 new coloring pages.  
   
 | 
