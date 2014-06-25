@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simple-press.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211142741id_/http%3A//simple-press.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple-press.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111513id_/http%3A//simple-press.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Simple:Press
 
@@ -6,7 +6,7 @@
 
 #### simple-press.com
 
-All references to simple-press.com in this Privacy Policy are deemed to encompass all websites and sub-domains operated by Simple:Press LLC including, but not restricted to, codex.simple-press.com, glotpress.simple-press.com and mantis.simple-press.com.
+All references to simple-press.com in this Privacy Policy are deemed to encompass all websites and sub-domains operated by Simple:Press including, but not restricted to, codex.simple-press.com, glotpress.simple-press.com and mantis.simple-press.com.
 
 At simple-press.com we are committed to safeguarding and preserving the privacy of our visitors. This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site. 
 
@@ -56,4 +56,4 @@ If you need to contact us regarding the simple-press.com website, it’s content
 
 This Privacy Policy will be kept under constant review and may change from time to time. If at any time we offer new features, options or require more personal information from our users we will update this policy accordingly.
 
-May 2012
+January 2014
