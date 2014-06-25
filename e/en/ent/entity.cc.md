@@ -1,50 +1,41 @@
-> *The following text is extracted and transformed from the entity.cc privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012035016id_/http%3A//www.entity.cc/at-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entity.cc privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084854id_/http%3A//www.allfreeclipart.com/privacy.php) for the most accurate reproduction.*
 
-# Addictive Technologies
+# Privacy Policy - AllFreeClipart.com
 
-**To uninstall Addictive Technologies please visit:  
-<http://www.addictivetechnologies.com/uninstall.asp>
+This notice provides AllFreeClipart.coms policy regarding the nature, purpose, use and sharing of any information collected via this Web site. 
 
-This Software product does not read online forms. 
+Submitting information is strictly voluntary. By doing so, you are giving AllFreeClipart.com your permission to use the information for the intended purpose. 
 
-**This software may collect the following information upon installation: IP address, Location of Country, and Time Zone. No other personal Information is collected. At no time do we sell your information without your permission. At times we may present you with special offers; however you may choose to stop receiving these offers at anytime by simply uninstalling the software.
+There are several types of information we collect. These include: 
 
-**AT-Games.com Principles**
+Automatically Collected Information  
+We collect and temporarily store certain technical information about your visit for use in site management and security purposes. This information includes:   
+The date and time you access AllFreeClipart.com  
+The URLs of the pages you visit  
+The Internet domain from which you access AllFreeClipart.com.  
+The IP address from which you access AllFreeClipart.com  
+The type of browser used to access our site.  
+The operating system used to access our site.  
+If you visited this Web site from another Web site, the URL of the forwarding site.  
+This information is only used to help us make our site more useful for you. With this data we learn about the number of visitors to our site and the types of technology our visitors use. 
 
-**Your privacy is protected at AT-Games.com  
-**  
-You control your personal information.
+Except for authorized law enforcement investigations, no attempts are made to identify individual users or their usage habits. Raw data logs are retained temporarily as required for security and site management purposes only. 
 
-You can end your membership at any time.
+Cookies  
+AllFreeClipart.com Web sites may use session cookies for technical purposes such as to enable better navigation through the site, or to allow you to customize your preferences for interacting with the site. 
 
-AT-Games.com delivers advertisements in a variety of ways. Favorites: Upon installation we may add a pre-designed folder inside your favorites menu in Internet Explorer. On a daily basis, AT-Games.com will look for new special offers that may be inserted into your folder. AT-Games.com also may remove the folders we insert. AT-Games.com is not responsible for the content of the sites linked to from the special offers inserted into your folder. Contextual Marketing Windows may also appear as windows on top of or underneath other windows on your computer desktop. Some are displayed in windows that float over other display ads on the web sites you visit. Special offers may also be presented to you in the form of desktop icons and installation files. You may choose to stop receiving these offers at any time by uninstalling AT-Games.com. 
+At no time is your private information, whether stored in persistent cookies or elsewhere, shared with third parties who have no right to that information. If you do not wish to have session or persistent cookies stored on your machine, you can turn them off in your browser. 
 
-AT-Games.com and AddictiveTechnologies.net (hereafter "AT-Games.com") and its affiliates and partners understand how important privacy is to our users. We are committed to this policy so that our users clearly and fully understand how their personal information is collected and used. 
+Personal Information  
+If you choose to provide us with personal information, through such methods as completing a form or sending us an email, we will use that information to respond to your message and to help us get you the information or services you have requested. 
 
-AT-Games.com Software Updates and Third Party Software: When you download the initial installation of AT-Games.com it may come bundled with additional partners. Our current partners are http://info.lycos.com/legal/sidesearch_la.asp, http://www.incredifind.com/pp.cfm, http://www.abetterinternet.com, And http://www.shopathomeselect.com/TermsAndConditions.asp. Periodically, a new version of AT-Games.com will be released. Your current AT-Games.com software will check in periodically to check for updates. If a newer version is available, it will be downloaded and installed automatically. AT-Games.com also works with third parties. At times, AT-Games.com may include such software in one of it's updates. While running AT-Games.com, you will receive these updates automatically, however if you wish to uninstall the third party software, AT-Games.com will not be harmed. If you would not like to be included in these software updates, please uninstall AT-Games.com. Although AT-Games.com screens companies that it works with thoroughly, they retain no responsibility in the third party software.
+Accessibility Statement  
+We continually strive to ensure the pages on this Web site are accessible to individuals with disabilities in accordance with Section 508 of the Rehabilitation Act. If you have any difficulty viewing any page with adaptive technology, please contact the webmaster. 
 
-AT-Games.com has based this privacy policy on guidelines set out by the Federal Trade Commission. AT-Games.com and its affiliates comply with the Federal Trade Commission's Fair Information Practice Principles. 
+Linking Policy and Disclaimer of Endorsement  
+AllFreeClipart.com links to many Web sites. AllFreeClipart.com provides links to these sites as a service to our users. The presence of a link is not a AllFreeClipart.com endorsement of the site. 
 
-**1\. Notice:**
+When users follow a link to an outside Web site, they are leaving AllFreeClipart.com and are subject to the privacy and security policies of the owners/sponsors of the outside Web site(s). AllFreeClipart.com is not responsible for the information collection practices of those sites. 
 
-AT-Games.com is committed to openness and transparency in its personal information practices, and policies. This policy states in detail what personal information we collect and why we collect it. The AT-Games.com Web Site 
 
-Cookies: The AT-Games.com website does not install cookies and it is AT-Games.com's policy not to use them in any way on its website. You are free to browse all of our websites anonymously. The AT-Games.com Web server automatically logs certain anonymous information about any visitor to the AT-Games.com website (both registered users and non-users), including the following elements: The URL of the page requested, The time and date of the request; The "User Agent" (the make and model of the Web browser being used, and the version and type of your operating system); The "Referrer" (the URL where you clicked on a link to the AT-Games.com site); The IP address where a copy of the page you requested is to be sent for display by your browser. We use this information in aggregate to get a better picture of where our visitors come from and how to plan for the future needs of our users. The User Agent also is used during your visit to indicate to you whether the AT-Games.com software will run on your computer's configuration. The URL may contain tracking codes used only for the purpose of auditing advertising.
 
-The AT-Games.com Software: The AT-Games.com software is a targeting tool that uses artificial intelligence to understand our users' preferences and help our marketing partners reach users with offers that they find relevant and engaging. 
-
-The AT-Games.com software collects the following information: The software collects and transmits to AT-Games.com servers the URLs of the Web pages visited on your browser. URLs are the addresses of the web pages that your browser visits (http://www.AT-Games.com, for example). The AT-Games.com software collects and maintains information on both current and historical browsing. AT-Games.com will use this information to build a summary of your interests so that AT-Games.com can help its partners make relevant and personalized offers to you. This information is never sold and is used solely by AT-Games.com. It is possible that, in some instances, the operation of certain third party websites may result in some personal information being included in URL data, which can result in that data being captured in the course of the normal operation of the AT-Games.com software. Such instances are rare and are the result of poor security practices by these third party websites. In the unlikely instance that such information is captured, it may be stored in our database, but it will not be used or disclosed in any manner inconsistent with our Privacy Policy. 
-
-**2\. Choice**
-
-AT-Games.com collects personal information about you and your computer only with your consent, and only in ways that are fair and lawful. AT-Games.com collects only the personal information we commit to collect, and only in the ways we have committed to collect it. 
-
-AT-Games.com uses both opt-in and opt-out media. This includes your consent to this privacy policy and to our terms and conditions of service. 
-
-Additional optional programs 
-
-**Contact-Us Page:**
-
-We use our "contact us" pages to collect information about you. In the case of customer support questions, we use the information to help diagnose and address consumer questions. Although we collect this information, we do not combine this with any information we have about your preferences or interests. 
-
-The Internet is an evolving medium and AT-Games.com may change its privacy policy from time to time. Please review the AT-Games.com privacy policy often. Use of any AT-Games.com product indicates your knowledge and acceptance of the privacy policy posted on the AT-Games.com site at that time. 
