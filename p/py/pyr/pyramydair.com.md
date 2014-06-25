@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504043246id_/http%3A//www.pyramydair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625175754id_/http%3A//www.pyramydair.com/privacy-policy) for the most accurate reproduction.*
 
 # Pyramyd Air Privacy Statement
 
-This privacy statement discloses the privacy practices for [http://www.pyramydair.com](http://www.pyramydair.com/).  
+This privacy statement discloses the privacy practices for [www.pyramydair.com](https://web.archive.org/).  
 If you feel that this company is not abiding by its posted privacy policy, you should first contact Security Administrator by e-mail [secadmin@pyramydair.com](mailto:secadmin@pyramydair.com). 
 
 ### Information Collection and Use 
