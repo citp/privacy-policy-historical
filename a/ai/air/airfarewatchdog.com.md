@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the airfarewatchdog.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113093256id_/http%3A//www.airfarewatchdog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfarewatchdog.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625223225id_/http%3A//www.airfarewatchdog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Airfarewatchdog
-
-## Privacy Statement
 
 **AIRFAREWATCHDOG PRIVACY POLICY**
 
@@ -131,8 +129,8 @@ Email:  [privacy@Airfarewatchdog.com](mailto:privacy@airfarewatchdog.com).
 
 Smarter Travel Media LLC  
 Attn: Airfarewatchdog.com  
-500 Rutherford Avenue  
-Boston, MA 02129
+226 Causeway Street, Third Floor  
+Boston, MA 02114
 
 This Privacy Policy is effective as of [insert date].[A5] 
 
@@ -251,7 +249,5 @@ If you have questions about this Privacy Policy, please contact us at: [privacy@
 
 Smarter Travel Media LLC  
 Attn: Airfarewatchdog.com  
-500 Rutherford Avenue  
-Boston, MA 02129
-
-|  | 
+226 Causeway Street, Third Floor  
+Boston, MA 02114
