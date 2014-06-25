@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the froknowsphoto.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219133846id_/http%3A//froknowsphoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the froknowsphoto.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141536id_/http%3A//froknowsphoto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fro Knows Photo
 
@@ -26,12 +26,10 @@ We are committed to providing users of this website with the choice to receive o
 
 We do not offer or provide to third parties any information except items displayed on the website such as blog comments, photographs and accepted nominations. We do not consider information posted publicly and displayed on the website as private and may provide such information to third-parties.
 
-If you have questions or concerns, please contact us at jared@jaredpolin.com 
+If you have questions or concerns, please contact us [right here.](http://froknowsphoto.com/contact/)
 
 Contacting FRO  
 If you have questions or concerns about information collection, your privacy, or any aspect of this policy, please contact us at Fro@FroKnowsPhoto.com or phone number below. We will attempt to reply within a reasonable time period to each inquiry we receive, but we cannot guarantee any timely response.
-
-Phone: +1 215.932.2983
 
 Changes to the Privacy Policy  
 FRO may change this privacy policy from time to time in its sole and absolute discretion. Please check this website regularly for changes. Substantive revisions to this privacy policy shall apply only prospectively.
