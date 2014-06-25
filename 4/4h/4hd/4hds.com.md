@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4hds.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830043436id_/http%3A//4hds.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4hds.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103436id_/http%3A//4hds.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 4HDS.com - Webcam Stream Ranking System
 
