@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the zigwheels.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211005138id_/http%3A//www.zigwheels.com/privacypolicy.html%3Fheight%3D550%26width%3D650%3Bmodal%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zigwheels.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625231006id_/http%3A//www.zigwheels.com/privacy_policy.php) for the most accurate reproduction.*
 
-# 
+# Zigwheels.com
 
-**USER AGREEMENT**
+PRIVACY POLICY 
+
+USER AGREEMENT 
 
 Times Internet Ltd, (TIL) a wholly owned subsidiary of Bennett Coleman & Co. Limited. Indiatimes located at http://in.indiatimes.com is the mother brand of TIL and powers / manages the Online Properties (Brand Names) of the 'Times Group' interalia www.timesofindia.com, www.economictimes.com, www.navbharattimes.com, www.maharashtratimes.com including various internet sites and community boards and services, to name a few, (Indiatimes Channels) hereinafter collectively referred to as TIL.
 
@@ -10,7 +12,7 @@ TIL respects the privacy of it's users and is committed to protect it in all res
 
 **By using TIL's website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.**
 
-**USER INFORMATION**
+USER INFORMATION
 
 To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) medical records and history h) sexual orientation, i) biometric information, j) password etc., and / or your occupation, interests, and the like.. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience. In some sites as in Indiatimes Contests, dating etc. we require your contact addresses.
 
@@ -20,30 +22,32 @@ Such information will not be considered as sensitive if it is freely available a
 
 This Privacy Policy is also subject to Google Analytics Policy requirements for Display Advertising <https://support.google.com/analytics/answer/2700409>
 
-**COOKIES**
+COOKIES 
 
 To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.
 
 Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come.
 
-**LINK TO THIRD PARTY SITES**
+LINK TO THIRD PARTY SITES 
 
 TIL includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.
 
 When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with TIL, we contact you from time to time about updation of your content to provide the users such features that we believe may benefit you.
 
-**INFORMATION SHARING**
+INFORMATION SHARING 
 
 TIL shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:
 
   * When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.
   * TIL proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
-**ACCESSING AND UPDATING PERSONAL INFORMATION**
+
+
+ACCESSING AND UPDATING PERSONAL INFORMATION 
 
 When you use TIL's websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
 
-**INFORMATION SECURITY**
+INFORMATION SECURITY 
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.
 
@@ -55,14 +59,15 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at [grievance.zigwheels@indiatimes.co.in](mailto:grievance.zigwheels@indiatimes.co.in); or write at the following address:
 
-**Himanshu Narang**  
+Himanshu Narang 
+
 Grievance Redressal Officer  
 Times Internet Limited   
-4th Floor, MPD World Tower,   
-DLF City Phase V, Opposite DLF Golf Course   
-Gurgaon, Haryana 122002   
+Plot No. 391, Udyog Vihar, Phase – III,   
+Gurgaon–122016  
+Haryana  
 India   
-Ph: 0124-4187000 
+Ph: 0124-4518550 
 
 We request you to please provide the following information in your complaint:-
 
