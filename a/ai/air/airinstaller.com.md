@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airinstaller.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231151256id_/http%3A//airinstaller.com/airinstaller/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airinstaller.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112344id_/http%3A//airinstaller.com/airinstaller/privacy) for the most accurate reproduction.*
 
 # Privacy | Air Installer
 
@@ -60,11 +60,15 @@ When you submit your information through the Site, you have opted-in to receive 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-**7\. Changes to Privacy Policy**
+**7\. Children’s Online Protection Act**
+
+In compliance with the Children’s Online Protection Act of 2013 (COPPA), Air Installer never knowingly collects, maintains or shares the information of children under the age of 13. We take the protection of children’s privacy very seriously, and any user under 13 years of age is strictly prohibited from using any Air Installer website, software or service.
+
+**8\. Changes to Privacy Policy**
 
 We reserve the right, in our sole discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time and without prior notice to you. Notice regarding any Privacy Policy changes will be placed in a prominent location on the Site and will take effect immediately upon their posting on the Site. Please check the Site periodically for any changes. Your continued use of the Site following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes.
 
-**8\. Contacting Us**
+**9\. Contacting Us**
 
 If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us:
 
@@ -76,3 +80,5 @@ If you have any questions regarding this Privacy Policy, or would like more info
   * [privacy@airinstaller.com](mailto:privacy@getwebbar.com)
 
 
+
+For further information, please review our [ Network Guidelines](http://airinstaller.com/network-guidelines).
