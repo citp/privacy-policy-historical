@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nrsc.org privacy policy that was archived on 2013-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131023000837id_/http%3A//www.nrsc.org/privacy-donation-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nrsc.org privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625055444id_/http%3A//www.nrsc.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="UTF-8">
@@ -40,18 +40,21 @@
         <link href="/css/bootstrap.css" rel="stylesheet">
         <link href="/css/bootstrap-responsive.css" rel="stylesheet">
         <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7514652/757502/css/fonts.css">
         <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="//use.typekit.net/cqp6msb.js"></script>
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
         
         <link rel="stylesheet" type="text/css" href="/css/jquery.jtweetsanywhere-1.3.1.css">
         <link rel="stylesheet" type="text/css" href="/css/THEMISTOCLES.css">
-        <link rel="stylesheet" type="text/css" href="/css/t.css">
-        <link rel="stylesheet" type="text/css" href="/css/animates.css">  
+        <link rel="stylesheet" type="text/css" href="/css/t.css"> 
+	<link rel="stylesheet" type="text/css" href="/css/animate.css">  
+        <link rel="stylesheet" type="text/css" href="/css/t8quiz.css">  
     
 
 	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="/css/t8quiz.js" type="text/javascript"></script>
 	<script src="/js/bootstrap.min.js"></script>
 
 	<!--[if lt IE 9]>
@@ -97,16 +100,59 @@
 
 	</script>
 
-	<!-- Google Analytics Universal Analytics -->
-	<script>
-  	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  	ga('create', 'UA-23419263-12', 'nrsc.org');
-  	ga('send', 'pageview');
+	<!-- Google Analytics Universal Analytics New Version -->
 
-	</script>
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+
+  ga('create', 'UA-23419263-12', 'nrsc.org');
+
+	ga(function(tracker) {
+
+		var mcId = [], hash;
+
+		var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+
+		for( var i = 0; i < hashes.length; i++ ){
+
+			hash = hashes[i].split('=');
+
+			mcId.push(hash[0]);
+
+			mcId[hash[0]] = hash[1];
+
+		}
+
+		var cid = tracker.get('clientId');
+
+		if(mcId){
+
+			var vid = mcId['Auto_Number'];
+
+			ga('set', 'dimension1', vid);
+
+		}
+
+	}); 
+
+
+  ga('send', 'pageview');
+
+
+
+</script>
+
+
+
+
 
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
@@ -120,6 +166,10 @@
 	<meta property="og:site_name" content="National Republican Senatorial Committee">
 	<meta property="og:image" content="http://www.nrsc.org/images/fb_og/FB_NRSC_ICON.png">
 	<meta property="fb:admins" content="767778004">
+
+
+	
+
 
 	
 	
@@ -139,7 +189,7 @@
 		<div class="paname">
 
 			<div class="waverly">
-				<a class="brand btn-brand btn btn-primary " href="&#10;https://contribute.nrsc.org/51st-vote-fund/?utm_source=navbar-left-button">Donate</a>
+				<a class="brand btn-brand btn btn-primary donatenew" "href="https://contribute.nrsc.org/donations/51st-vote/?source=navbar-left-button">Donate</a>
 			</div>
 			
 			<div class="kipling"><a class="theicon" href="/"></a>
@@ -149,7 +199,7 @@
 			<div class="alma">
 			<div class="pennave" style="float: right;">
 			<div class="nav" style="line-height: 15px; padding-top: 23px;">
-			<a href="/About">About</a>&nbsp;&nbsp;&nbsp;<a href="/Petition">Take Action</a>&nbsp;&nbsp;&nbsp;<a href="/Contact">Contact</a>
+			<a href="/About">About</a>&nbsp;&nbsp;&nbsp;<a href="http://store.nrsc.org?source=navbar-right-text">Store</a>&nbsp;&nbsp;&nbsp;<a href="/Contact">Contact</a>
 			</div>
 
 			</div>
@@ -158,7 +208,7 @@
           		<div class="nav-collapse collapse">
 
 				<div class="cowper">
-					<a class="brand btn-brand btn btn-primary" href="https://contribute.nrsc.org/51st-vote-fund/?utm_source=navbar-left-button">Donate</a>
+					<a class="brand btn-brand btn btn-primary donatenew" href="https://contribute.nrsc.org/donations/51st-vote/?source=navbar-left-button">Donate</a>
 				</div>
             	
 				<div class="cowper">
@@ -168,7 +218,7 @@
 				<div class="ramona">
 					<ul class="nav">
 						<li><a href="/About">About</a></li>
-                				<li><a href="/Petition">Take Action</a></li>
+                				<li><a href="http://store.nrsc.org?source=navbar-right-text">Store</a></li>
               					<li><a href="/Contact">Contact Us</a></li>
             				</ul>
 				</div>	
@@ -187,7 +237,7 @@
 	
 	<div class="emerson">
 		
-	<a href="https://contribute.nrsc.org/?utm_source=navbar-left-button" class="action-bar-donate">DONATE</a>
+	<a href="https://contribute.nrsc.org/donations/51st-vote/?source=navbar-mobile-button" class="action-bar-donate">DONATE</a>
 	</div>
 
 	
@@ -198,7 +248,7 @@
 	</div>
 
 <div class="emerson"><a href="/About" class="action-bar ab-top">About the NRSC</a></div>
-<div class="emerson"><a href="/Petition" class="action-bar ab-mid">Take Action</a></div>
+<div class="emerson"><a href="http://store.nrsc.org?source=navbar-right-text-narrow" class="action-bar ab-mid">Shop the Store</a></div>
 <div class="emerson"><a href="/Contact" class="ab-bottom action-bar">Contact Us</a></div>
 
 
@@ -213,6 +263,8 @@
 	<div class="container">
    
 	<div class="container">
+
+	<div class="alma">
 	<div class="carousel-caption-internal">
 	<h1>Building a New Senate</h1>
 
@@ -220,8 +272,8 @@
 
 	<div class="formbox-internal">
 	<form action="http://www.NRSC.org/index.php?ACT=27" accept-charset="utf-8" method="post"><div style="display:none">
-<input type="hidden" name="params_id" value="64232">
-<input type="hidden" name="XID" value="1ac5fbd9591728c60c09d1b06e08e18ceea3b4f2">
+<input type="hidden" name="params_id" value="2332000">
+<input type="hidden" name="XID" value="978552bb79ad96af7022c72027add652bb2eb4f3">
 </div>
 		
 <input type="hidden" name="subscriber_form_id[]" value="1|">
@@ -255,6 +307,8 @@
 
 	</div>
 
+	</div> 
+
 <!-- End of The Ribbon
 ================================================== -->
 
@@ -269,51 +323,105 @@
 	<div class="row">    
     
 	<div class="span8" style="background-color:#FFF; border-bottom:1px solid #d1d1d1;">
-	<div class="blogger"><a href="/content/privacy-and-donation-policy">PRIVACY AND DONATION POLICY</a></div>
+	<div class="blogger"><a href="/content/privacy-policy">Privacy Policy</a></div>
 
 	 
 
 
-	<div class="blogtext"><b>DONATION POLICIES</b><br>
+	<div class="blogtext"><strong>Last updated: June 24, 2014</strong><br>
+<br>
+<strong>Overview </strong><br>
+<br>
+Welcome to the official website or mobile application (the Sites) of the National Republican Senatorial Committee (“NRSC”).   <br>
+<br>
+This Privacy Policy outlines our practices for collection, use, and disclosure of your information that you provide to us when you use our Site and other NRSC mobile applications that display this policy (the Sites). By using these Sites, you agree that your use of the Sites is governed by this Privacy Policy and our Terms of Service. From time to time, we may update this Privacy Policy. We encourage you to periodically check this Site for updates. We will alert you to changes that have been made by indicating on the Policy the date it was last updated.  Your continued use of the Site affirms your agreement to any changes we make to this Privacy Policy.<br>
+<br>
+Please note the distinction between our privacy practices in connection with your visit to the Site, and our <a href="http://www.nrsc.org/terms-and-conditions/">Terms of Service</a>.  <br>
+<br>
+<strong>Information Collected and how it is Collected</strong><br>
+<br>
+<strong>Voluntary Information:</strong> We may collect personal information that you voluntarily provide to us including your name, e-mail address, postal address, phone number, mobile number, and geographic location. You may provide this information when you request information, register, make a purchase, send us an email, sign up to receive email or text messages updates, connect through a social feed, fill out a form or for other purposes. We may also collect demographic information such as gender, date of birth, occupation, employer name and zip code. When this information is linked to personally identifiable information, it will be treated as voluntary personal information.  In limited circumstances, we may collect payment information such as credit card number where needed to complete a requested service or transaction.  Voluntary personal information does not include aggregate data (data about a group or category of users that has been stripped of identifiable information about individual users) that we may collect about the use of the Sites.  This policy does not restrict our collection and use of such aggregate information.  <br>
+<br>
+By requesting information to your mobile phone, we may obtain the following information from you in connection with our SMS service:  your cell phone number, your carrier's name, and the date, time and content of your messages, as well as other information that you provide. We will use such information in accordance with this Privacy Policy.<br>
+<br>
+<strong>Automatically Generated Information:</strong> We may also collect non-personally identifiable information that is generated automatically while you are visiting the Site or elsewhere on the Internet when our advertisements are served, also known as log files. This data includes, but is not limited to, information such as IP address, web pages visited before and after visiting the Site, date and time, domain type, type of mobile device you use, your device’s unique ID, web pages you view and links you click on within the Site and interactions with our advertisements delivered by us or advertisements delivered by a third party advertising technology vendor. This type of information may be collected using different types of technologies, such as cookies and pixels. An IP address, for example, is a unique identifier that certain electronic devices use to identify and communicate with each other on the Internet. When you visit our Site, we may view the IP address of the device you use to connect to the Internet. We use this information to determine the general physical location of the device and understand from what regions of the world our Site visitors come. We also may use your non-personally identifiable information to enhance our Site.<br>
+<br>
+All Site users remain anonymous unless they choose to give us their personal information. You may elect not to allow us to collect and use this non-personally identifiable data as part of our Service by following the Opt Out procedures described below.<br>
+<br>
+<strong>Cookies and Other Technologies </strong><br>
+<br>
+<strong>Overview:</strong> We may use cookies and other technologies to obtain certain types of information when your web browser accesses the Site or visit a web site in our network. “Cookies” are small pieces of information that are stored by your browser at the request of a website. Cookies help us improve your experience on our Sites, however, if you wish to block, erase or be warned of the use of cookies, please refer to the paragraph below entitled Disabling Cookies or to your browser manufacturer.  When you view a video on our Sites, a third party may also set a “flash cookie” on your computer.  Since removing and rejecting browser cookies may not also remove or reject flash cookies, you will also need to visit:  <a href="http://www.adobe.com/products/flashplayer/security" target="blank">http://www.adobe.com/products/flashplayer/security</a> in order to delete or disable flash cookies. Rejecting or removing browser or flash cookies may affect certain features of our Sites.  <br>
+<br>
+This website uses third party vendors such as Google to help analyze how users use the site.  For example, Google Analytics uses cookies to collect standard Internet log information and visitor behavior information in an anonymous form. The information generated by the cookie about your use of the website (including IP address) is transmitted to Google. This information is then used to evaluate visitors' use of the website and to compile statistical reports on website activity for the NRSC. <br>
+<br>
+Google Analytics collects information anonymously.  Google will not associate your IP address with any other data held by Google. Neither the NRSC nor Google will link, or seek to link, an IP address with the identity of a computer user. We will not associate any data gathered from this site with any Personally Identifiable Information from any source, unless you explicitly submit that information via a fill-in form on our website. It reports website trends without identifying individual visitors. You can opt out of Google Analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across all websites you use, visit <a href="http://www.google.com/analytics/learn/privacy.html" target="blank">this Google page</a>.<br>
  <br>
-<b>WHEN DONATING, FEDERAL LAW REQUIRES THAT YOU VERIFY THE FOLLOWING STATEMENTS ARE TRUE AND ACCURATE</b><br>
- <br>
-This contribution is made from my own funds with a personal credit card, and not with a corporate credit card or funds provided to me by another person. I am not a federal government contractor, nor am I a foreign national who lacks permanent resident status in the United States. I am at least 18 years old.<br>
+We may use other companies to set cookies on our Site and advertisements and gather cookie information for us. In some cases, we may also use another company to operate web servers or process credit card purchases for our Site. The Site may use cookies and other technology to speed navigation and keep track of items and to gather anonymous traffic data that we may use to enhance the Sites, our Services, marketing, and other internal purposes. This Policy does not apply to, and the NRSC is not responsible for, cookies used by the third parties.  If you select “remember me” on your computer when logging on to the Site, the NRSC will set a persistent cookie to store your username and password so that you do not have to enter it more than once. It also allows us to send confirmations, receipts, updates, alerts and support and administrative messages and otherwise facilitate your use of and our administration and operation of the Site. The persistent cookie also enables the NRSC to track and target the interests of users to enhance the experience on the Site. The persistent cookie is removed when you uncheck the “remember me” check box.<br>
 <br>
-Contributions are not deductible for federal income tax purposes. Funds received in response to this solicitation will be subject to federal contribution limits.<br>
+<strong>Disabling Cookies:</strong> The “Help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting cookies, how to have the browser notify you when you receive cookies, and how to disable cookies altogether. Note that if you reject or block cookies, it may affect your ability to enjoy the full functionality and experience of our Site.<br>
 <br>
-<b>NRSC Donation Refund and Cancellation Policy</b><br>
+<strong>Web Beacons:</strong> Pages of our Site [and our e-mails] may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the NRSC, for example, to count users who have visited those pages or [opened an e-mail] and for other related web site statistics (for example, recording the popularity of certain web site content and verifying system and server integrity).<br>
 <br>
-All donations are final. Refunds and cancellations will be given at the discretion of the administration. An administration charge will be deducted from any refunds made in order to cover the cost of processing the donation.<br>
+<strong>Information Use and Sharing</strong><br>
 <br>
-If you believe that an error has been made in connection with your online donation, contact us at donations@nrsc.org. This e-mail address is being protected from spambots. You need JavaScript enabled to view it. We will endeavor to work with you to correct any such error.<br>
+<strong>Use of Personal Information:</strong> If we receive your personal information, we will only use it for the purposes described where it is collected or otherwise described in this Privacy Policy. We may share this information outside of the NRSC if (1) you authorize us to do so; (2) it is necessary to allow our service providers or agents to provide products or services for us, (3) it is necessary in order to provide our products or services to you (and contacting you when necessary), (4) subject to applicable contractual or legal restrictions, it is disclosed to entities that perform marketing services on our behalf or to other entities with whom we have joint marketing agreements, (5) subject to applicable contractual or legal restrictions, it is necessary in connection with a sale of all or substantially all of the assets of the NRSC, (6) it is necessary in connection with other business purposes including, without limitation, responding to your inquiries or requests for information or services, customer care, service quality, business management and operation, risk assessment, security, fraud and crime prevention/detection, monitoring, research and analysis, marketing, customer purchasing preferences and trends, dispute resolution, credit checking and debt collection, (7) it is necessary to disclose in order to protect or defend our rights or property or those of our users, (8) it is necessary to disclose in order to protect the personal safety of our users or the public, (9) it is necessary for us to provide it to our attorneys, accountants, regulators, auditors or other advisors, or (10) otherwise as we are required or permitted by law or required to comply with legal process served upon us, our agents, representatives or our affiliates. We may also aggregate your personal information with the information of others and may disclose such information in aggregate form for marketing and promotional purposes in a way that would not identify you individually.<br>
 <br>
-<b>NRSC Donation Shipping &amp; Handling Policy</b><br>
+<strong>Use of Non-Personally Identifiable Information: </strong>The NRSC or our service providers or agents that provide services for us may use non-personally identifiable information as part of the Services to better tailor advertisements and other content in an effort to create a more relevant experience for each person that visits the Site or elsewhere on the Internet. This non-personally identifiable information may also be used to predict responses to advertisements, to help determine which ads perform best and which content is most appropriate for different individuals, to measure and optimize the effectiveness of advertisements, and to provide aggregate reporting to our service providers or agents and for our and their internal purposes.  Nothing herein restricts the sharing of aggregated, non-personally identifiable information with third parties.<br>
 <br>
-All donation confirmations will be sent via email. It is your responsibility to provide a correct and valid email address.<br>
+We use various web site analytics tools and technologies regarding activities on our Site that require storage of web session data. The overall aim of these tools is to aid in making our Site easy to use, to proactively identify and correct error conditions and to provide more relevant advertising and content to you. These tools and technologies are also used to assist Site visitors who report problems in the use of our Site. Stored web session data is used in accordance with this Privacy Policy.<br>
 <br>
+<strong>Third Party Use of Cookies:</strong> We use cookies to compile aggregate non-personally identifiable data about Site traffic and Site interaction so that we can offer better Site experiences and tools in the future. We may also share non-personally identifiable information with companies such as agencies, ad networks, or exchanges to enable them to analyze user behaviors or to customize the ads that you encounter.<br>
 <br>
-<b>PRIVACY POLICY</b><br>
+<strong>Contests and Other Promotions:</strong> On our Site, you may wish to participate in contests and other promotions that we may offer from time to time. Through these promotions, you may choose to participate in activities such as sharing information found on our Site with others and sending e-mail invitations. In connection with any contests and other promotions that we may offer from time to time via our Site, we use the information you provide to administer the contests and other promotions. Subject to applicable contractual or legal restrictions, we also may use the information to communicate with you, or the other people you select, about our products and services or our service providers or agents partners may use such information to communicate with you about the contests and other promotions or their products and services. If you choose to participate in these promotions, and are eligible to do so, we may ask you for information such as your name, e-mail address, date of birth and telephone number.<br>
 <br>
-The National Republican Senatorial Committee (NRSC) is committed to protecting the privacy and security of visitors to our website. Outlined below is our online privacy policy for information collected through our website and e-mail lists. If you have questions about these policies, please contact us by email at info@nrsc.org This e-mail address is being protected from spambots. You need JavaScript enabled to view it or by phone at (202) 675-6000.<br>
+<strong>Third Party Features</strong><br>
 <br>
-Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulations establish United States federal law that protects the privacy of children using the Internet. We do not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 whenever age-related information is requested.<br>
+<strong>Third Party Links:</strong> For your convenience, we may include or offer third party offers, products or services on our Site. Third party vendors may use cookies or other technologies to serve ads on other web sites based on your visit to this Site and other web sites on the Internet. We cannot be responsible for the privacy practices of any web sites or pages not under our control and we do not endorse any of these web sites or pages, the services or products described or offered on such sites or pages, or any of the content contained on those sites or pages. Nonetheless, we seek to protect the integrity of our Site and welcome any feedback about these web sites.  You should familiarize yourself with the privacy policies of these third parties before disclosing information to the third parties directly.  <br>
 <br>
-When you make a contribution to the NRSC through our site, any credit card information provided is only used to immediately process your donation. The NRSC does not retain your credit card information once the donation is processed online. The NRSC has put in place appropriate security measures to protect your personal and financial information. We use industry-standard encryption technologies when transferring and receiving financial data from our site. In addition, our physical facilities are protected against the loss or misuse of information that we have collected from you at our site.<br>
+<strong>Social Media Platforms and Websites</strong>: Any information, communications, or material of any type or nature that you submit to our Site (including, but not limited to any of our pages contained on a social media platform or web site such as Facebook or Twitter) by e-mail, posting, messaging, uploading, downloading, or otherwise (collectively, a “Submission”), is done at your own risk and without any expectation of privacy. We cannot control the actions of other users of any social media platform or web site and we are therefore not responsible for any content or Submissions contained on such sites and platforms. By visiting any of our pages or web sites that are contained on a social media platform or web site, you are representing and warranting to us that you have reviewed the applicable privacy policy and terms of use of such platform or web site and that you will abide by all such provisions contained therein.<br>
 <br>
-We use log files to assess the aggregate level of traffic on our site, including what pages people are visiting, and to diagnose any potential problems with the website. This log file does contain an “Internet Protocol” or IP address that gives us insight on the general geographic area that visitors are coming from but not information on a specific individual. We do not use log files to track a particular individual’s use of our site. All users remain anonymous unless they choose to give us personally identifiable information.<br>
+Additionally, in the event that we offer a message board or any other interactive or social-type feature on a web site administered directly by us, please be aware that these areas may allow you to publicly post, and share with other users, certain messages, content, or other information (e.g., stories, pictures, ingredients, tips, etc.). Although we may take certain precautions to protect those who use these areas of one of our web sites, we encourage you to be wary of giving out any personal information in such public forums. The information you post can be collected and used by people you don't know. We cannot guarantee the privacy and safety of these areas and are therefore not responsible for any information you choose to post. Your use of these features is fully at your own risk.<br>
 <br>
-Our site contains numerous opportunities for a visitor to forward documents, photos, and messages to friends and family. Some features of our site may allow you to store addresses for easy retrieval and reuse at a later time. This information is stored for your convenience. We do make use of cookies to personalize and customize your interaction on our site and to provide you with the best possible online experience.<br>
+<strong>Email Signups</strong><br>
 <br>
-This site includes very small files provided by one or more online advertising networks that help them more precisely to target advertising to users, based on users’ activity on sites within those networks. These files do not access or use information by which users can be personally identified. If you wish, you can prevent these files from using non-personal information about you by either deleting the cookie folder in your browser or by putting your browser’s Privacy setting higher, but doing so will mean that you will not be presented with advertising that reflects the way that you use our, and other, websites — and may well adversely affect your experience of websites that use cookies to enhance or personalize that experience. You find out how to make these changes to your browser at this site: http://www.allaboutcookies.org/manage-cookies/ Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page.<br>
+<strong>E-mail:</strong> We appreciate your questions and comments about our Site and services and welcome your e-mails and questions submitted to our Site. We will share your messages with those within our organization who are most capable of addressing the issues contained in your message. We may archive your message for a certain period of time or discard it, but your e-mail address and message will only be used in accordance with this Privacy Policy.<br>
 <br>
-Under no circumstances will the NRSC sell your information to commercial entities. The NRSC may share information — that you provide us — with like-minded organizations committed to the principles or candidates of the Republican Party, Republican State Party organizations and local Republican groups. Occasionally, we may ask a Republican Senate campaign or state party to communicate with our e-mail activists on topics of breaking news we think would be of interest to you. The NRSC may provide your email address or other personal information to authorized third parties required to deliver a particular service. These third parties may not use said information for any other purpose than to carry out the services they are performing for the NRSC.<br>
+<strong>Submitting your e-mail:</strong> Submitting your address anywhere on the Site may result in your e-mail address being added to the NRSC’s e-mail list. You may unsubscribe to NRSC e-mails at any time by opting out of e-mail subscriptions with the “unsubscribe” link included in each e-mail. Your e-mail address will be removed from our marketing list. Please allow us a reasonable period of time in order to satisfy your request, as some promotions may already be in process.<br>
 <br>
-Our site may contain links to other Web sites and servers. The NRSC does not bear responsibility for privacy policies or content on linked Web sites. Accordingly, you also agree and acknowledge that the NRSC will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance of any such content, services on or through any such site or resource or goods. We encourage you to read the privacy statements on each website you visit. The NRSC provides links to original articles written and maintained by third parties. These links are provided as a convenience and do not imply a claim of ownership in that content.<br>
+<strong>Suggesting the Site to a Friend:</strong> If you elect to use any feature that includes suggesting a page to a friend or to inform a friend about the Site or solicit donations or pledges or otherwise communicate, the NRSC may ask for your friend's name and e-mail address. The Site may automatically send the friend a one-time e-mail inviting them to visit the Sites or otherwise provide the information requested by you. The NRSC will store and use this information in accordance with this Privacy Policy. Your friend may contact the NRSC to request the removal of this information from our databases.<br>
 <br>
-Should you wish to opt-out of receiving these emails, an unsubscribe link is included in every e-mail. If your link is not working properly, or you wish to communicate your desire to opt-out directly to us, please email info@nrsc.org.<br>
+<strong>Security</strong><br>
 <br>
-While we do not intend to make any changes to this privacy policy we do reserve the right to do so. If any changes to this privacy policy are made, then the date that the revised or updated policy is posted to our site will appear at the bottom of the page.</div>
+We employ and maintain technology and security measures designed to protect your personal information. However, no data transmission over the Internet can be guaranteed as 100 percent secure. As a result, while we strive to protect your information, we cannot ensure or warrant the security of any information you transmit to us or receive from us. <br>
+<br>
+<strong>Opt out</strong><br>
+<br>
+<strong>Overview:</strong> We may use non-personally identifiable information to provide more relevant advertising and content. If you’d like to stop this Site from collecting certain types of information that provide more tailored online ads and messages to you, <a href="http://www.lotame.com/opt-out-preference-manager">please click here</a>. If you elect to opt out of this type of advertising, we will place a cookie on your browser computer to flag that we should not collect data to tailor advertising to your browser. If you delete your cookies, install a new browser, or use a different computer, you may need to revisit this page to opt out. You can also visit the Digital Advertising Alliance site, by clicking here <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>, to opt out of interest-based advertising from other third parties using cookies.<br>
+<br>
+<strong>Your California Privacy Rights</strong><br>
+Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (a) a list of the categories of personal information, such as name, e-mail and mailing address and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes and (b) the names and addresses of all such third parties. To request the above information, write to us at (with a reference to California Disclosure Information): <a href="mailto:Privacy@NRSC.org?Subject=California%20Privacy%20Rights">Privacy@NRSC.org</a><br>
+<br>
+We will respond to such requests for information access within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.<br>
+<br>
+<strong>Children </strong><br>
+<br>
+We strongly encourage parents and guardians to regularly monitor and supervise their children’s online activities. We do not knowingly collect personal information from children under 13. <br>
+<br>
+<strong>Donations</strong><br>
+<br>
+When you make a contribution to the NRSC, federal law requires us to obtain the following information: name, mailing address, employer, occupation, and amount of contribution. Federal law also requires us to report this information to the Federal Election Commission if an individual’s contributions aggregate in excess of $200 in a single calendar year. Any credit card information provided is only used to immediately process your donation. All contributions made to the Site are considered final unless the donation is not in compliance with federal election law and/or Federal Election Commission regulations. All purchases from the online store are considered contributions to the NRSC. <br>
+<br>
+<strong>Special Statement for Job Applicants</strong><br>
+<br>
+Any personal information that you provide to us when applying for a career position with the NRSC will be used solely to consider and act upon your application. We may retain your personal information for a period of time, but only for as long as necessary for such purposes or as otherwise required by law. We may disclose your personal information to our agents for the purpose of evaluating your qualifications for the particular position you applied for, for other available positions or as otherwise required by law. We may also disclose your personal information to third parties hired by us to collect, maintain, and analyze candidates for career positions or as otherwise required by law.<br>
+<br>
+<strong>Visiting our Site from outside of the United States</strong><br>
+<br>
+If you are visiting our Site from outside of the United States of America, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy. By using our Site, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.<br>
+<br>
+<strong>Contact Us</strong><br>
+Please contact us if you have questions about our Privacy Policy at <a href="mailto:Privacy@NRSC.org?Subject=Privacy%20Page">Privacy@NRSC.org</a>.  <br>
+</div>
 
 	</div>
 	</div>
@@ -330,7 +438,12 @@ While we do not intend to make any changes to this privacy policy we do reserve 
 <!-- Sidebar
 ================================================== --> 
 
-<div class="span4 sidebar">
+
+
+
+
+
+<div class="span4 sidebar" style="margin-top: 40px;">
     
 
 	<!-- Twitter Sidebar
@@ -339,19 +452,19 @@ While we do not intend to make any changes to this privacy policy we do reserve 
 
     <div class="ce_tweet">
         <div class="ce_tweet_left">
-            <a class="ce_tweet_username" href="http://twitter.com/SenMikeLee" target="_blank"><img src="http://pbs.twimg.com/profile_images/1766994197/official_photo_normal.jpeg" alt=""></a>
+            <a class="ce_tweet_username" href="http://twitter.com/OrrinHatch" target="_blank"><img src="http://pbs.twimg.com/profile_images/82301929/OrrinHatch_socnets_normal.jpg" alt=""></a>
         </div><!-- .ce_tweet_left -->
         <div class="ce_tweet_right">
             <div class="ce_tweet_row">
-                <a class="ce_tweet_name" href="http://twitter.com/SenMikeLee" target="_blank">SenMikeLee</a>
+                <a class="ce_tweet_name" href="http://twitter.com/OrrinHatch" target="_blank">OrrinHatch</a>
             </div><!-- .ce_tweet_row -->
-            <div class="ce_tweet_row ce_tweet_text"><a href="http://twitter.com/search/%23ButWaitTheresMore" target="_blank">#<span>ButWaitTheresMore</span></a> Many believe technical problems plaguing <a href="http://twitter.com/search/%23Obamacare" target="_blank">#<span>Obamacare</span></a> website indicate the entire law is broken: <a href="http://t.co/1NaWssrEps" title="http://ow.ly/q4wAD" target="_blank"><span>ow.ly/q4wAD</span></a></div>
+            <div class="ce_tweet_row ce_tweet_text">Congrats to Thad Cochran on his victory tonight! Thad has always stood up for Mississippi and the Magnolia State is lucky to have him.</div>
             <div class="ce_tweet_row ce_tweet_actions">
-                <a class="ce_tweet_time" href="https://twitter.com/SenMikeLee/statuses/392802734539538432" title="8:00 PM, Oct 22nd (EDT)" target="_blank">8 minutes ago</a>
+                <a class="ce_tweet_time" href="https://twitter.com/OrrinHatch/statuses/481637540009881601" title="11:18 PM, Jun 24th (EDT)" target="_blank">2 hours ago</a>
                 <div class="ce_tweet_actionrow">
-		<a class="ce_tweet_reply" href="https://twitter.com/intent/tweet?in_reply_to=392802734539538432" target="_blank"></a>
-                <a class="ce_tweet_retweet" href="https://twitter.com/intent/retweet?tweet_id=392802734539538432" target="_blank"></a>
-                <a class="ce_tweet_favorite" href="https://twitter.com/intent/favorite?tweet_id=392802734539538432" target="_blank"></a>
+		<a class="ce_tweet_reply" href="https://twitter.com/intent/tweet?in_reply_to=481637540009881601" target="_blank"></a>
+                <a class="ce_tweet_retweet" href="https://twitter.com/intent/retweet?tweet_id=481637540009881601" target="_blank"></a>
+                <a class="ce_tweet_favorite" href="https://twitter.com/intent/favorite?tweet_id=481637540009881601" target="_blank"></a>
 		</div>
             </div><!-- .ce_tweet_row -->
         </div><!-- .ce_tweet_right -->
@@ -359,19 +472,19 @@ While we do not intend to make any changes to this privacy policy we do reserve 
 
     <div class="ce_tweet">
         <div class="ce_tweet_left">
-            <a class="ce_tweet_username" href="http://twitter.com/tedcruz" target="_blank"><img src="http://pbs.twimg.com/profile_images/378800000058359657/fe923838cc0a54aac3be0ac51f153914_normal.jpeg" alt=""></a>
+            <a class="ce_tweet_username" href="http://twitter.com/moranforkansas" target="_blank"><img src="http://pbs.twimg.com/profile_images/479651671702654977/kVzubR9O_normal.jpeg" alt=""></a>
         </div><!-- .ce_tweet_left -->
         <div class="ce_tweet_right">
             <div class="ce_tweet_row">
-                <a class="ce_tweet_name" href="http://twitter.com/tedcruz" target="_blank">tedcruz</a>
+                <a class="ce_tweet_name" href="http://twitter.com/moranforkansas" target="_blank">moranforkansas</a>
             </div><!-- .ce_tweet_row -->
-            <div class="ce_tweet_row ce_tweet_text">Together we are fighting to change Washington and <a href="http://twitter.com/search/%23MakeDCListen" target="_blank">#<span>MakeDCListen</span></a></div>
+            <div class="ce_tweet_row ce_tweet_text">My neighbor to the west, <a href="http://twitter.com/CoryGardnerCO" title="Cory Gardner" target="_blank">@<span>CoryGardnerCO</span></a>, let’s shake up the Senate in Nov with real solutions for energy, Obamacare repeal, and jobs. <a href="http://twitter.com/search/%23nrsc" target="_blank">#<span>nrsc</span></a></div>
             <div class="ce_tweet_row ce_tweet_actions">
-                <a class="ce_tweet_time" href="https://twitter.com/tedcruz/statuses/392797762057555968" title="7:40 PM, Oct 22nd (EDT)" target="_blank">28 minutes ago</a>
+                <a class="ce_tweet_time" href="https://twitter.com/moranforkansas/statuses/481628272715771904" title="10:41 PM, Jun 24th (EDT)" target="_blank">3 hours ago</a>
                 <div class="ce_tweet_actionrow">
-		<a class="ce_tweet_reply" href="https://twitter.com/intent/tweet?in_reply_to=392797762057555968" target="_blank"></a>
-                <a class="ce_tweet_retweet" href="https://twitter.com/intent/retweet?tweet_id=392797762057555968" target="_blank"></a>
-                <a class="ce_tweet_favorite" href="https://twitter.com/intent/favorite?tweet_id=392797762057555968" target="_blank"></a>
+		<a class="ce_tweet_reply" href="https://twitter.com/intent/tweet?in_reply_to=481628272715771904" target="_blank"></a>
+                <a class="ce_tweet_retweet" href="https://twitter.com/intent/retweet?tweet_id=481628272715771904" target="_blank"></a>
+                <a class="ce_tweet_favorite" href="https://twitter.com/intent/favorite?tweet_id=481628272715771904" target="_blank"></a>
 		</div>
             </div><!-- .ce_tweet_row -->
         </div><!-- .ce_tweet_right -->
@@ -379,59 +492,19 @@ While we do not intend to make any changes to this privacy policy we do reserve 
 
     <div class="ce_tweet">
         <div class="ce_tweet_left">
-            <a class="ce_tweet_username" href="http://twitter.com/tedcruz" target="_blank"><img src="http://pbs.twimg.com/profile_images/378800000058359657/fe923838cc0a54aac3be0ac51f153914_normal.jpeg" alt=""></a>
+            <a class="ce_tweet_username" href="http://twitter.com/TeamCornyn" target="_blank"><img src="http://pbs.twimg.com/profile_images/461305403368681472/drSGiB-4_normal.png" alt=""></a>
         </div><!-- .ce_tweet_left -->
         <div class="ce_tweet_right">
             <div class="ce_tweet_row">
-                <a class="ce_tweet_name" href="http://twitter.com/tedcruz" target="_blank">tedcruz</a>
+                <a class="ce_tweet_name" href="http://twitter.com/TeamCornyn" target="_blank">TeamCornyn</a>
             </div><!-- .ce_tweet_row -->
-            <div class="ce_tweet_row ce_tweet_text">What does it say that Admin granted exemptions to big biz &amp; Congress but shuts down govt to force Obamacare on the people? <a href="http://twitter.com/search/%23MakeDCListen" target="_blank">#<span>MakeDCListen</span></a></div>
+            <div class="ce_tweet_row ce_tweet_text">Sen. Cornyn introduced a bill today that would prevent IRS execs from collecting their bonuses: <a href="http://t.co/4diDRMDjiV" title="http://www.johncornyn.com/2014/06/25/cornyn-irs-execs/" target="_blank"><span>johncornyn.com/2014/06/25/cor…</span></a> <a href="http://twitter.com/search/%23IRSScandal" target="_blank">#<span>IRSScandal</span></a></div>
             <div class="ce_tweet_row ce_tweet_actions">
-                <a class="ce_tweet_time" href="https://twitter.com/tedcruz/statuses/392797601638010880" title="7:40 PM, Oct 22nd (EDT)" target="_blank">29 minutes ago</a>
+                <a class="ce_tweet_time" href="https://twitter.com/TeamCornyn/statuses/481617411578138624" title="9:58 PM, Jun 24th (EDT)" target="_blank">3 hours ago</a>
                 <div class="ce_tweet_actionrow">
-		<a class="ce_tweet_reply" href="https://twitter.com/intent/tweet?in_reply_to=392797601638010880" target="_blank"></a>
-                <a class="ce_tweet_retweet" href="https://twitter.com/intent/retweet?tweet_id=392797601638010880" target="_blank"></a>
-                <a class="ce_tweet_favorite" href="https://twitter.com/intent/favorite?tweet_id=392797601638010880" target="_blank"></a>
-		</div>
-            </div><!-- .ce_tweet_row -->
-        </div><!-- .ce_tweet_right -->
-    </div><!-- .ce_tweet -->
-
-    <div class="ce_tweet">
-        <div class="ce_tweet_left">
-            <a class="ce_tweet_username" href="http://twitter.com/tedcruz" target="_blank"><img src="http://pbs.twimg.com/profile_images/378800000058359657/fe923838cc0a54aac3be0ac51f153914_normal.jpeg" alt=""></a>
-        </div><!-- .ce_tweet_left -->
-        <div class="ce_tweet_right">
-            <div class="ce_tweet_row">
-                <a class="ce_tweet_name" href="http://twitter.com/tedcruz" target="_blank">tedcruz</a>
-            </div><!-- .ce_tweet_row -->
-            <div class="ce_tweet_row ce_tweet_text">I am convinced we are going to stop Obamacare and it will be because we continue to make the case that Obamacare ain't working <a href="http://twitter.com/search/%23MakeDCListen" target="_blank">#<span>MakeDCListen</span></a></div>
-            <div class="ce_tweet_row ce_tweet_actions">
-                <a class="ce_tweet_time" href="https://twitter.com/tedcruz/statuses/392796846101241856" title="7:37 PM, Oct 22nd (EDT)" target="_blank">32 minutes ago</a>
-                <div class="ce_tweet_actionrow">
-		<a class="ce_tweet_reply" href="https://twitter.com/intent/tweet?in_reply_to=392796846101241856" target="_blank"></a>
-                <a class="ce_tweet_retweet" href="https://twitter.com/intent/retweet?tweet_id=392796846101241856" target="_blank"></a>
-                <a class="ce_tweet_favorite" href="https://twitter.com/intent/favorite?tweet_id=392796846101241856" target="_blank"></a>
-		</div>
-            </div><!-- .ce_tweet_row -->
-        </div><!-- .ce_tweet_right -->
-    </div><!-- .ce_tweet -->
-
-    <div class="ce_tweet">
-        <div class="ce_tweet_left">
-            <a class="ce_tweet_username" href="http://twitter.com/tedcruz" target="_blank"><img src="http://pbs.twimg.com/profile_images/378800000058359657/fe923838cc0a54aac3be0ac51f153914_normal.jpeg" alt=""></a>
-        </div><!-- .ce_tweet_left -->
-        <div class="ce_tweet_right">
-            <div class="ce_tweet_row">
-                <a class="ce_tweet_name" href="http://twitter.com/tedcruz" target="_blank">tedcruz</a>
-            </div><!-- .ce_tweet_row -->
-            <div class="ce_tweet_row ce_tweet_text">Because of your leadership and you speaking out, the national debate about the harms of Obamacare is being elevated <a href="http://twitter.com/search/%23MakeDCListen" target="_blank">#<span>MakeDCListen</span></a></div>
-            <div class="ce_tweet_row ce_tweet_actions">
-                <a class="ce_tweet_time" href="https://twitter.com/tedcruz/statuses/392796255589388288" title="7:34 PM, Oct 22nd (EDT)" target="_blank">34 minutes ago</a>
-                <div class="ce_tweet_actionrow">
-		<a class="ce_tweet_reply" href="https://twitter.com/intent/tweet?in_reply_to=392796255589388288" target="_blank"></a>
-                <a class="ce_tweet_retweet" href="https://twitter.com/intent/retweet?tweet_id=392796255589388288" target="_blank"></a>
-                <a class="ce_tweet_favorite" href="https://twitter.com/intent/favorite?tweet_id=392796255589388288" target="_blank"></a>
+		<a class="ce_tweet_reply" href="https://twitter.com/intent/tweet?in_reply_to=481617411578138624" target="_blank"></a>
+                <a class="ce_tweet_retweet" href="https://twitter.com/intent/retweet?tweet_id=481617411578138624" target="_blank"></a>
+                <a class="ce_tweet_favorite" href="https://twitter.com/intent/favorite?tweet_id=481617411578138624" target="_blank"></a>
 		</div>
             </div><!-- .ce_tweet_row -->
         </div><!-- .ce_tweet_right -->
@@ -457,7 +530,21 @@ While we do not intend to make any changes to this privacy policy we do reserve 
 ================================================== -->
      
 <div class="alma">
+
+<div class="row pre-footer after-content text-center">
+
+	<div class="container">
+		<div class="join-nrsc">Join the Team and Retire Harry Reid
+		<a href="https://contribute.nrsc.org/donations/51st-vote/?source=site-footer-ribbon" class="btn btn-primary lower-ribbon-btn">Contribute Now</a>
+		</div>
+	</div>
+	
+</div>
+
+
 <footer id="bottom">
+
+
 			
 		
 <section>
@@ -471,10 +558,11 @@ While we do not intend to make any changes to this privacy policy we do reserve 
 	<li><a href="http://vimeo.com/thenrsc" target="_blank">Videos</a></li>
 	<li><a href="/Internships">Internships</a></li>
 	<li><a href="/Petition">Take Action</a></li>
-	<li><a href="/privacy-donation-policy/">Terms of Service</a></li>
-	<li><a href="/privacy-donation-policy/">Privacy Policy</a></li>
+	<li><a href="/terms-and-conditions/">Terms of Service</a></li>
+	<li><a href="/privacy-policy/">Privacy Policy</a></li>
 	<li><a href="/Contact">Contact Us</a></li>
-	<li><a href="https://contribute.nrsc.org/51st-vote-fund/?utm_source=site-text-footer">Donate</a></li>
+	<li><a href="https://contribute.nrsc.org/donations/51st-vote/?source=site-text-footer">Donate</a></li>
+	<li><a href="http://www.nrsc.org/daybreaknews">Daybreak</a></li>
 </ul>
 </div>
                 
@@ -490,7 +578,7 @@ While we do not intend to make any changes to this privacy policy we do reserve 
 <div class="disclaimer">Paid for by the National Republican Senatorial Committee.<br> Not authorized by any candidate or candidate’s committee. <a href="http://www.NRSC.org">www.NRSC.org</a>
 </div>
             
-<div class="copyright">© 2013 National Republican Senatorial Committee. All Rights Reserved.</div>
+<div class="copyright">© 2014 National Republican Senatorial Committee. All Rights Reserved.</div>
     
 </footer>
 </div>
@@ -502,7 +590,7 @@ While we do not intend to make any changes to this privacy policy we do reserve 
 <div class="disclaimer">Paid for by the National Republican Senatorial Committee. Not authorized by any candidate or candidate’s committee. <a href="http://www.NRSC.org">www.NRSC.org</a>
 </div>
                 
-<div class="copyright" style="color:#555;">© 2013 National Republican Senatorial Committee.<br>All Rights Reserved.</div>
+<div class="copyright" style="color:#555;">© 2014 National Republican Senatorial Committee.<br>All Rights Reserved.</div>
                 
 </footer>    
 </div>   
