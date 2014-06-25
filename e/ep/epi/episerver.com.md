@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031170729id_/http%3A//www.episerver.com/Footer/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625214258id_/http%3A//www.episerver.com/legal/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement - EPiServer Enterprise .NET CMS | E-Commerce...
+# Privacy Statement - EPiServer
 
-EPiServer AB is committed to protecting your integrity. This privacy statement describes how data is collected and used on the website www.episerver.com.
-
-This policy does not apply to other online or offline EPiServer AB sites, products or services. By visiting this website, you consent to the principles for collection and usage of information described in this privacy statement.
+EPiServer AB is committed to protecting your integrity. This privacy statement describes how data is collected and used on the website www.episerver.com. This policy does not apply to other online or offline EPiServer AB sites, products or services. By visiting this website, you consent to the principles for collection and usage of information described in this privacy statement.
 
 ## Handling Personal Information
 
@@ -18,15 +16,15 @@ By filling in web forms, providing registration details or, in any other way, pr
 
 EPiServer AB handles suitable personal information, e.g. name, address, e-mail address, telephone number, to be able to provide any services without specific permission.
 
-## Cookies on the Website
+## Cookies on the web site
 
 A cookie is a small text file that visited websites save on your computer. Cookies are used to provide visitors access to various functions. The information in the cookie can be used to track your internet usage. Under the Electronic Communications Act, all visitors to a website with cookies must have access to information stating that the website contains cookies and the purpose for which cookies are used.
 
-### **Name of cookies, domains and purposes**
+### Name of cookies, domains and purposes
 
 Name | Domain | Purpose  
 ---|---|---  
-EPiServer.CMO.LPO | [www.episerver.com](http://www.episerver.com/) | Visitor behaviour and navigation for [EPiServer CMO](https://web.archive.org/Products/EPiServer-CMO/ "About EPiServer CMO")  
+EPiServer.CMO.LPO | [www.episerver.com](http://www.episerver.com/) | Visitor behaviour and navigation for [EPiServer CMO](https://web.archive.org/add-on-store/EPiServer-CMO/)  
 ASP.NET_SessionId | [www.episerver.com](http://www.episerver.com/) | This session cookie is essential for the website to operate and is set upon your arrival to the site. This cookie is deleted when you close the browser.  
 BIGipServerwww.episerver.com  
 _HTTP_Pool | [www.episerver.com](http://www.episerver.com/) | Used for load balancing purposes.  
@@ -39,19 +37,19 @@ _utmz | [www.google.com](http://www.google.com/) | Google Analytics. Third-party
 _twitter_sess | [www.twitter.com](http://www.twitter.com/) | Share this on Twitter. Third-party cookie used to push links from the site to Twitter.  
 munchkin.marketo.net/munchkin.js | [www.marketo.com](http://www.marketo.com/) | Marketo. Third-party cookie used to collect information about how visitors use the website.  
   
-### **Cookies are used in the following situations on this Web site:**
+### Cookies are used in the following situations on this web site
 
   * If you choose to show the website in english and then for example choose change to swedish or other language, a cookie will be sent to remember your choice of language. 
-  * If you answer/send in a form, a cookie will be sent to remember that you have sent a form. 
-  * The website uses cookies in order to collect information about how the pages are used. 
+  * If you answer/send in a form, a cookie will be sent to remember that you have sent a form.
+  * The website uses cookies in order to collect information about how the pages are used.
   * Information about what server your PC is connected to, what type of browser, how often you have been visiting our website, what pages you have visited etc is stored. The information is used for the purpose of analyzing statistics regarding the use of the website.
 
 
 
-### **To avoid cookies at the web site, you can as a visitor:**
+### To avoid cookies at the web site, you can as a visitor
 
   * Choose not to accept cookies in your browser settings, but then the web site will not be fully functional.
-  * Avoid to answer forms. 
+  * Avoid to answer forms.
   * End your visit at the website.
 
 
@@ -60,7 +58,7 @@ munchkin.marketo.net/munchkin.js | [www.marketo.com](http://www.marketo.com/) | 
 
 ### Google Analytics
 
-On this website the web analytics tool [Google Analytics](http://www.google.com/analytics "Google Analytics") is used to get an overall picture of how visitors use the site.
+On this website the web analytics tool [Google Analytics](http://www.google.com/analytics "Google Analytics") is used to get an overall picture of how visitors use the site.
 
 Google Analytics uses cookies to collect information in an anonymous form (aggregated) about how visitors use the website, for example, the number of page views, how visitors have arrived at the website, and the number of visits. The purpose is to help us improve the usability of the website. The information generated through your website usage is redirected to and stored by Google Inc. IP addresses are stored, but cannot be distinguished individually.
 
@@ -68,7 +66,7 @@ Google can transfer the collected information to a third party if it is required
 
 ### EPiServer CMO
 
-To be able to optimize the content of the website we are using [EPiServer CMO](https://web.archive.org/Products/EPiServer-CMO/ "About EPiServer CMO") for campaign handling and optimization. EPiServer CMO collect information in an anonymous form (aggregated) about how visitors use the website, for example, the number of page views, how visitors have arrived at the website, and the number of visits.
+To be able to optimize the content of the website we are using [EPiServer CMO](https://web.archive.org/add-on-store/EPiServer-CMO/) for campaign handling and optimization. EPiServer CMO collect information in an anonymous form (aggregated) about how visitors use the website, for example, the number of page views, how visitors have arrived at the website, and the number of visits.
 
 ## Changes to this Privacy Statement
 
@@ -76,8 +74,6 @@ We may occasionally update this privacy statement. When we do, we will also upda
 
 ## Contact Information
 
-If you require further information about EPiServer AB's privacy statement, contact our Personal Data Act via e-mail: 
+If you require further information about EPiServer AB's privacy statement, contact our Personal Data Act via e-mail: [info@episerver.com](mailto:info@episerver.com)
 
-* * *
-
-Updated: 3/1/2013 8:42:24 PM 
+_Updated:  _
