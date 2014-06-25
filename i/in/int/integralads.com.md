@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the integralads.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104072734id_/http%3A//integralads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integralads.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113724id_/http%3A//integralads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Integral Ad Science
 
@@ -48,7 +48,11 @@ This section explains what and how Integral collects, uses, stores and protects 
 
 **Collection and Use of Information**
 
-Integral does not collect personally identifiable information via our Technology. We do collect non-personally identifiable information in order to provide our Technology Products and we generally will only share that information with our clients to help them ensure brand safety in their online advertising campaigns and for analytics, ad delivery and reporting purposes. 
+Integral does not collect personally identifiable information via our Technology. We do collect non-personally identifiable information such as IP address, browser type, user agent and referring URL. We use this information in order to provide our Technology Products and we may share that information with our clients to help them ensure brand safety in their online advertising campaigns and for analytics, ad delivery and reporting purposes. 
+
+**Use of Cookies**
+
+Our Technology utilizes cookies. Cookies are small pieces of information transferred to your computer's hard drive through your web browser. Our Technology uses cookies to enhance our ability to understand ad delivery metrics. For example, cookies will help our Technology determine whether a particular advertisement is likely to have been viewed.
 
 ### Additional Privacy Information Applicable to all Integral Products, Sites and Services
 
@@ -76,4 +80,4 @@ If you have questions regarding our privacy practices, please submit a privacy i
 
 This Policy and any issue or dispute regarding privacy concerns will be governed by and interpreted in accordance with the laws of the State of New York, without regard to the choice of law provisions. The Website is intended for visitors who are located in the United States of America, and this Privacy Policy shall be interpreted under the laws of the United States.
 
-_Updated November 29, 2012._
+_Updated October 15, 2013._
