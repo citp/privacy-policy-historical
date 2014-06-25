@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arclightcinemas.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507131849id_/https%3A//www.arclightcinemas.com/learn-more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arclightcinemas.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084041id_/https%3A//www.arclightcinemas.com/learn-more/privacy-policy) for the most accurate reproduction.*
 
 # Learn More | Privacy Policy - ArcLight Cinemas
 
@@ -20,7 +20,7 @@ Upon registering on the site, you will be given an opportunity to "opt out" of t
 
 **5\. Protection of your personal privacy by ArcLightCinemas.com.**
 
-For all our transactions, we employ reasonable and current Internet security methods and technologies. Where appropriate, we password protect, use encryption techniques and install firewalls. We strive to protect your privacy. We encourage our participating service providers to adopt and honor their own consumer privacy policies. For all our efforts to safeguard your privacy however, no system can be guaranteed. We cannot ensure or warrant the security of any information that you transmit to us, or that we transmit to you, or guarantee that it will be free from unauthorized access by third parties. Once we receive your information, we use reasonable efforts to ensure its security on our systems. At ArclightCinemas.com we take great care and use the latest technologies to ensure the security and safety of all your transactions with ArclightCinemas.com. We use Secure Sockets Layer (SSL 40-bit to 128-bit based on your browsers capabilities) encryption technology, the industry standard, to scramble and protect your credit card information as it travels over the Internet. This encryption ensures the safety and confidentiality of your information in transit. 
+For all our transactions, we employ reasonable and current Internet security methods and technologies. Where appropriate, we password protect, use encryption techniques and install firewalls. We strive to protect your privacy. We encourage our participating service providers to adopt and honor their own consumer privacy policies. For all our efforts to safeguard your privacy however, no system can be guaranteed. We cannot ensure or warrant the security of any information that you transmit to us, or that we transmit to you, or guarantee that it will be free from unauthorized access by third parties. Once we receive your information, we use reasonable efforts to ensure its security on our systems. At ArcLightCinemas.com we take great care and use the latest technologies to ensure the security and safety of all your transactions with ArcLightCinemas.com. We use Secure Sockets Layer (SSL 40-bit to 128-bit based on your browsers capabilities) encryption technology, the industry standard, to scramble and protect your credit card information as it travels over the Internet. This encryption ensures the safety and confidentiality of your information in transit. 
 
 **6\. Accessing, changing or deleting your information.**
 
@@ -32,28 +32,52 @@ ArcLightCinemas.com may also contain links to other web sites and advertising. T
 
 **8\. Changes to this Privacy Policy.**
 
-ArcLightCinemas.com reserves the right to change or modify this Privacy Policy in its discretion at any time without notice to the users of our site, except that ArcLightCinemas.com will post the changed or modified Privacy Policy on our site as soon as practicable as such changes or modifications are implemented.  
+ArcLightCinemas.com reserves the right to change or modify this Privacy Policy in its discretion at any time without notice to the users of our site, except that ArcLightCinemas.com will post the changed or modified Privacy Policy on our site as soon as practicable as such changes or modifications are implemented.
 
+## Enjoy member only savings, events and many more benefits for only $15 annually.
 
-$1 or more off your next ticket! 
+*First Name
 
-## Join ArcLight’s community of moviegoers
+*Last Name
 
-It's fast, free, and easy to join. Plus, we never sell your info to third parties and we promise you won't hear from us unless you want to. 
+*Date of Birth
 
-### Benefits include:
+*Gender
 
-  * Member admission pricing: save $1.00 off each online ticket.
-  * Points awarded for expenditures made throughout ArcLight. Points are redeemable for discounts and items at the café, concessions, coffee bar and retail, and even free admission tickets. 
-  * Advance notice via email of films, presentations and events before the general public. 
-  * Special members-only invitations to select private screenings, Q&As and other events.
+*Email
 
+*Confirm Email
 
+*Password
 
-### Thank You For Registering!
+* Preferred Cinema
 
-### Want to keep working on your profile?
+*Please provide at least one phone number 
 
-50% Complete
+Home Phone
 
-[CONTINUE](https://web.archive.org/Membership/Edit-Profile) SKIP THIS STEP
+Cell Phone
+
+I would like to receive exclusive member offers and information on the latest happenings at ArcLight
+
+*Zip Code
+
+Yes, I want to sign up for the new ArcLight Membership. [Learn more](https://web.archive.org/membership)
+
+3D 
+
+This is a 3D showing
+
+WS 
+
+Presented in ArcLight Wide Screen
+
+21+ 
+
+Each guest must be over 21 years old and have a valid ID
+
+DOME 
+
+This is a Dome showing
+
+Sorry, this showing is sold out
