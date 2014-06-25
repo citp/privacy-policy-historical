@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revision3.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227182646id_/http%3A//corporate.discovery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revision3.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130127id_/http%3A//corporate.discovery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Discovery Communications
 
@@ -196,6 +196,8 @@ If you have any questions about this privacy policy or our privacy practices, pl
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
+Discovery does not support Do Not Track browser settings and does not currently participate in any "Do Not Track" frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information.
+
 Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding Discovery's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
 
 Discovery Communications, Inc.  
@@ -204,4 +206,4 @@ Silver Spring, MD 20910
 Phone: (240) 662-2000 (Legal)  
 Email: [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com)
 
-Last Updated On: Wednesday, September 10, 2008
+Last Updated On: Tuesday, January 7, 2014
