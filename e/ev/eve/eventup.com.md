@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventup.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208234419id_/http%3A//eventup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventup.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055138id_/http%3A//eventup.com/privacy) for the most accurate reproduction.*
 
 # Event Venues & Space for Corporate Events & Weddings | Eventup
 
