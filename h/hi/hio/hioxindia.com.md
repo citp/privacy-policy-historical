@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hioxindia.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822212318id_/http%3A//hioxindia.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hioxindia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120029id_/http%3A//hioxindia.com/ppolicy.php) for the most accurate reproduction.*
 
 # HIOX INDIA Privacy Policy
 
