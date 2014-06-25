@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the push.com.ph privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022104255id_/http%3A//www.abs-cbn.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the push.com.ph privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120434id_/http%3A//www.abs-cbn.com/privacy.aspx) for the most accurate reproduction.*
 
 # 
-
-## Privacy Statement
 
 ABS-CBN is committed to protecting your privacy and developing technology that gives you a powerful but secured and safe online experience. This Privacy Statement (the “Privacy Statement”) applies to the ABS-CBN.com website (the “Website”) and governs data collection and usage. By using the Website, you consent to the data practices described in this Privacy Statement.
 
