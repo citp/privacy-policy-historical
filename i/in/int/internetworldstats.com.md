@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetworldstats.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231032743id_/http%3A//www.internetworldstats.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetworldstats.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131048id_/http%3A//www.internetworldstats.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy and Practices - Internet World Stats
 
@@ -32,9 +32,9 @@
 >  **12 - REPRODUCTION OF THE STATISTICS**  
 >  The content of this website is intellectual property of its owner Enrique de Argaez and/or Miniwatts de Colombia Ltda. Data from this web site may be cited freely, giving due credit to the original data sources and establishing an active link back to [ InternetWorldStats.com](http://www.internetworldstats.com/). A notice of publication will be greatly appreciated, and might be rewarded with a reciprocal link from IWS back to your website.
 > 
-> For citing information sources, we recommend following the
+> Use of our content for commercial purposes requires a permission. For details, please read the
 > 
-> [Duke University Guidelines](http://www.lib.duke.edu/libguide/plagiarism.htm). We also recommend reading the following article before using materials from the [Internet](http://www.utsystem.edu/ogc/intellectualproperty/useofnet.htm).
+> [ Copyrights](http://www.internetworldstats.com/copyrights.htm) page.
 > 
 > **DISCLAIMER**  
 >  Most of the data in this site comes from independent sources, found displayed freely in the wide world web. Other data has been investigated and retrieved directly by our staff. All the information has been consolidated by IWS, giving due credit to the corresponding original sources when these are known, and establishing a link back if possible. IWS provides and published the data and displays statistics in good faith but does not guarantee the accuracy or provenience. Likewise it is not responsible for the use given to this information. The usage and population data are best estimates available and a reasonable margin of error should be allowed for, as is usual for all statistical work.
