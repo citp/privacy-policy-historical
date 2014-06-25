@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peerindex.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121051448id_/http%3A//www.peerindex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peerindex.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040034id_/https%3A//peerindex.com/privacy.php) for the most accurate reproduction.*
 
 # PeerIndex — Think People
 
@@ -24,7 +24,7 @@ We may collect and process the following data about you:
 
 ### Cookies
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [detailed Cookie policy](https://web.archive.org/web/20131121051448id_/http%3A//www.peerindex.com/privacy.php#cookies) below.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [detailed Cookie policy](https://web.archive.org/web/20140625040034id_/https%3A//peerindex.com/privacy.php#cookies) below.
 
 ### Where we store your personal data
 
@@ -120,3 +120,11 @@ Used to track the performance of PeerIndex such as page load time and 404 errors
 ##### fmb_* and fbsr_*
 
 These are set by Facebook and are used to support logins and Facebook features such as Like button. They are persistent and set for 1 year.
+
+### Coral
+
+Head of Social Marketing
+
+“PiQ's biggest strength is that it gets rid of the things which stop us getting social marketing done. Tasks like finding influencers, easy reporting, using insight to beat our competition used to be overly complex, or we would have had to pay an agency to do it for us. Using PiQ, these obstacles have been removed and it's helping my team by more efficient, more productive and achieve bigger wins.” 
+
+* * *
