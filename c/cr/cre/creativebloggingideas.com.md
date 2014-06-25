@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativebloggingideas.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618124408id_/http%3A//www.creativebloggingideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativebloggingideas.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233431id_/http%3A//www.creativebloggingideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Creative Blogging Ideas
 
