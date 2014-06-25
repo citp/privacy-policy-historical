@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the seotechyworld.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105202459id_/http%3A//seotechyworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotechyworld.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115923id_/http%3A//seotechyworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEO Techy World
+
+## Privacy Policy
 
 We value the privacy of our users and ensure to give adequate attention in maintaining your personal information. Here you will get to know the kind of personal information that we may collect when making use of certain provisions with our site. We also provide you information as to how we safeguard the personal information so collected. We at SEOTecbyWorld.com do not sell any of your personal information to third parties for commercial purpose or any other purpose.
 
