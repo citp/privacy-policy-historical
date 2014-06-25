@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the bigtent.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223131119id_/http%3A//www.bigtent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtent.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215822id_/http%3A//www.bigtent.com/privacy) for the most accurate reproduction.*
 
 # How we collect and use member information | BigTent
 
-Privacy Policy last modified on September 6, 2013.
+Privacy Policy last modified on September 12, 2013.
 
-BigTent's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using BigTent, located at [www.bigtent.com](https://www.bigtent.com/) and its directly associated domains (collectively, "BigTent Site")
+Care.com, Inc. purchased the Big Tent groups, and the Big Tent website and its associated domains and other assets are now owned and operated by Care.com, Inc. For purposes of this policy, the terms "Care.com," "we," "us," and "our" refer to Care.com, Inc. "You" refers to you, as a visitor or user on the Big Tent site. Please note that our subsidiaries have separate privacy policies. 
+
+Our Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using BigTent, located at [www.bigtent.com](https://www.bigtent.com/) and its directly associated domains (collectively, "BigTent Site"), 
 
 By using or accessing the BigTent Site, you are accepting the practices described in this Privacy Policy.
 
@@ -28,7 +30,11 @@ By using or accessing the BigTent Site, you are accepting the practices describe
 ### What BigTent Does With Your Information
 
   * The information you provide is for sharing with other Group Members privately, unless you opt to share beyond your group.
-  * Third party advertisers have no access to your personal profile information or User Content stored on the BigTent Site unless it is in an aggregated format and/or non-personally identifiable. 
+
+
+
+Third party advertisers have no access to your personal profile information or User Content (as defined below in the Section "Information you choose to provide") stored on the BigTent Site unless it is in an aggregated format and/or non-personally identifiable. 
+
   * There may be opportunities on the site for you to opt-in and share personal information, but it's your choice and we'll always ask you first.
   * BigTent does not share any personally identifiable information outside your group without your permission except in extremely limited circumstances described below.
 
@@ -81,7 +87,6 @@ Sharing with other third parties: The BigTent Site is intended to allow you to s
 
   * Your Group Administrator may require Group Members to pay membership fees, dues and other collections of money. BigTent offers the PayPal service to collect such money. If you decide to provide your personal information to PayPal through the BigTent Site, BigTent is not responsible in any way for PayPal's use of your information. Please consult with PayPal's privacy policy to understand use of your information. 
   * We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers or to send out emails. In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information on our behalf, we implement reasonable contractual or technical protections limiting the use of that information to the BigTent-specified purposes. 
-  * We may offer certain programs and promotions on the BigTent Site or through your group(s) which your Group Administrator(s) has/have decided to pass on to you, and you may choose to opt in. 
   * We may offer stores or provide services jointly with other companies on the BigTent Site. You can tell when another company is involved in any store or service provided on the BigTent Site, and we may share customer information with that company in connection with your use of that store or service with your opt-in authorization. 
   * We may provide anonymous content to partners to allow us or them to target contextually relevant advertisements that may be posted alongside content. 
   * If the ownership of all or substantially all of the BigTent Site business, or individual business units owned by BigTent Design, Inc., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy. 
@@ -104,7 +109,7 @@ Your information is stored and processed on our servers located in the United St
 
 However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
 
-If you have any questions about the security of the BigTent Site, please contact us at privacy@bigtent.com 
+If you have any questions about the security of the BigTent Site, please contact us at careteam@care.com 
 
 ### Children Under Age 13
 
@@ -118,6 +123,6 @@ We recommend that minors over the age of 13 ask their parents for permission bef
 
 Your use of the BigTent Site, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. 
 
-### Contacting BigTent
+### Contacting Us
 
-If you have any questions about this privacy policy, please contact us at privacy@bigtent.com. You may also contact us by mail at Care.com, Inc., 201 Jones Road, Suite 500, Waltham, MA 02451. 
+If you have any questions about this privacy policy, please contact us at careteam@care.com. You may also contact us by mail at Care.com, Inc., 201 Jones Road, Suite 500, Waltham, MA 02451. 
