@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendblog.net privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226061306id_/http%3A//trendblog.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendblog.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060315id_/http%3A//trendblog.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,6 +68,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [trendblog.net contact form](http://trendblog.net/contact "trendblog.net contact form")  
 info [at] trendblog [dot] net
 
- _This document was last updated on April 18, 2013_
+_This document was last updated on April 18, 2013_
 
 Privacy policy created by [http://www.generateprivacypolicy.com](http://www.generateprivacypolicy.com/)
