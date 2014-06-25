@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrdowling.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203221410id_/http%3A//www.mrdowling.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrdowling.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072918id_/http%3A//mrdowling.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at mrdowling.com
 
