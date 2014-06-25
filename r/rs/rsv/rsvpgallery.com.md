@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rsvpgallery.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602031408id_/http%3A//rsvpgallery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsvpgallery.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100936id_/http%3A//rsvpgallery.com/privacy-policy) for the most accurate reproduction.*
 
-# RSVP Gallery
+# Privacy Policy
 
 **Basic Policy**
 
@@ -53,3 +53,5 @@ With the exception of the following, RSVP will not disclose Personal Information
 **7\. i** nquiries regarding Personal Information
 
 If you have any concerns about your privacy when using [RSVPGALLERY.com](http://rsvpgallery.com/), please contact us by e-mail at:
+
+ [please@rsvpgallery.com](mailto:customer@restir.com)
