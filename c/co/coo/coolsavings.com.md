@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coolsavings.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217034623id_/http%3A//www.coolsavings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolsavings.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090703id_/http%3A//www.coolsavings.com/privacy-policy) for the most accurate reproduction.*
 
 # Grocery coupons, Printable Coupons, Online Coupon Codes, Daily Deals | CoolSavings
 
-Last Updated: October 17, 2011
+Last Updated: June 10, 2014
 
 [ ](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.coolsavings.com/seal_l "TRUSTe online privacy certification")
 
@@ -48,7 +48,7 @@ We share aggregated demographic, performance and behavioral information about ou
 
 _Personally identifiable information:_
 
-  * We may share your personal information with other companies so that they can empower their services, market their products or services to you and supply you with special offers. We will only share information that we feel is the minimum required to fulfill those company's requirements. If you do not want us to share your personal information with these companies, please refer to the Choice/Opt-out section or change your preferences in "My Preferences". 
+  * We may share your personal information with our marketing partner All Inbox, LLC so that they can empower their services, market their products or services to you and supply you with special offers by email. We will only share information that we feel is the minimum required to fulfill All Inbox, LLC requirements. If you do not want to receive such communications, please refer to the Choice/Opt-out section.
   * We may provide your personal information to companies that provide services to help us with our business activities such as a hosting provider or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us 
   * We may provide your personal information to specific companies who have their products and services advertised on the CoolSavings website. For example, we may provide your personal information to an advertiser if you have taken an action to register for or request more information from an advertiser on CoolSavings.
   * We may also disclose your personal information 
@@ -60,6 +60,8 @@ _Personally identifiable information:_
 
 
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, such as marketing material from us or third party partners.
+
+If you no longer wish to receive email from All Inbox, LLC, you may opt-out of receiving them by following the instructions included in each email.
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by changing your preferences in "My Preferences".
 
@@ -112,6 +114,6 @@ We may update this privacy statement to reflect changes to our information pract
 
 Should you have other questions or concerns about this policy, please [_**contact us**_](http://reg.coolsavings.com/info.htm?tp=con&promo_name=&catalog_id=14078).
 
-CoolSavings Privacy, One North LaSalle Street, 28th Floor Chicago, Illinois 60602 
+CoolSavings Privacy, 1601 NW 136th Ave, Ste A-200, Sunrise, FL 33323 
 
 If you are a California resident or another state with specific laws relating to the collection and use of Information, you may have specific rights not set forth in this policy. For example, California residents have the right to receive: a) information identifying any third party company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for the company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request must include your registration email address, the site name you visited and a return address or it will not be processed. We will not honor such requests more than once per calendar year. Requests made via email will not be accepted. Please mail your request to Customer Service Manager at the address listed in the footer of this site or the [_**contact us**_](http://reg.coolsavings.com/info.htm?tp=con&promo_name=&catalog_id=14078) page.
