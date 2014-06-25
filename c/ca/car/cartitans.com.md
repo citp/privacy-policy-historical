@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartitans.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820030138id_/http%3A//www.cartitans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartitans.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625153750id_/http%3A//www.cartitans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, CarTitans.com
 
