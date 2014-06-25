@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gistreel.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222203510id_/http%3A//www.gistreel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gistreel.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073331id_/http%3A//gistreel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy PolicyPrivacy Policy
 
@@ -47,5 +47,3 @@ Data Quality and Access – In accordance with the Fair Information Practices de
 Feedback – Users may provide feedback (e.g., input and suggestions) to GistReel.Com regarding the GistReel.Com Web site. Users providing feedback must provide their name and e-mail address. Any contact information entered when providing feedback will only be used to acknowledge or respond to that feedback.
 
 If you have any questions regarding our Privacy Statement and policies or your dealings with our Web site, please [**contact us.**](http://gistreel.com/contact-us/ "Contact Us")
-
-Kindly Share This Post With Others
