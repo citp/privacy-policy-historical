@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handelot.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231194320id_/http%3A//www.handelot.com/text/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handelot.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090826id_/http%3A//www.handelot.com/text/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on handelot.com
 
