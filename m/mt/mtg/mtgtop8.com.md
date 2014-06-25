@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtgtop8.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204085253id_/http%3A//mtgtop8.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtgtop8.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073204id_/http%3A//mtgtop8.com/privacy) for the most accurate reproduction.*
 
 # MtG Decks Database
 
@@ -42,7 +42,3 @@ This website may contain sponsored links and adverts. These will typically be se
 Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will tracks the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and it's owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
 
 Free Sample Privacy Policy written by James King at Jamie King Media © 2012 - v.2.0 February 2012 | Edited & customised for mtgtop8.com
-
-[Privacy Policy](https://web.archive.org/web/20131204085253id_/http%3A//mtgtop8.com/privacy)
-
-The information presented on this site about Magic: The Gathering, both literal and graphical, is copyrighted by Wizards of the Coast. This website is not produced, endorsed, supported, or affiliated with Wizards of the Coast 
