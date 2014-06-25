@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business-index.co.za privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209002608id_/http%3A//www.business-index.co.za/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-index.co.za privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625033455id_/http%3A//www.business-index.co.za/privacy.htm) for the most accurate reproduction.*
 
 # Business-Index Privacy Policy
 
