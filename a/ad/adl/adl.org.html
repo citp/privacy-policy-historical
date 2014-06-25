@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adl.org privacy policy that was archived on 2013-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131116160225id_/http%3A//www.adl.org/about-adl/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adl.org privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625112523id_/http%3A//www.adl.org/about-adl/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -8,7 +8,7 @@
 
 
 <meta name="generator" content="Convio CMS"> 
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=123610644429330"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=011346335056800985113:lqqt2atnvmk"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=123610644429330"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TP3WXH"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=011346335056800985113:lqqt2atnvmk"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
 
 
 <script language="JavaScript" type="text/javascript" src="/components/print/printer-friendly.js"></script>
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '1300:0';
-CONVIO.pageSessionID = 'EE4C3A3E7AC1E2A821BEDB3669A9C5F3.app272b';
+CONVIO.pageSessionID = '1093248FDA3A15B601BE30355BD44617.app273b';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1384617745939"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1403695523197"></script>
 <script type="text/javascript">
 
 // The original referrer may have been lost from the session-status.jsp javascript redirect.
@@ -65,6 +65,7 @@ deleteCookie("CONVIO.referrer");
 <link href="http://support.adl.org/css/12/jshowoff.css" rel="stylesheet" type="text/css">
 <link href="http://support.adl.org/css/12/contentslider.css" rel="stylesheet" type="text/css">
 
+<link href="http://support.adl.org/css/13/ABtesting.css" media="screen" rel="stylesheet" type="text/css">
 
 
   <style type="text/css">
@@ -86,6 +87,28 @@ deleteCookie("CONVIO.referrer");
 <script type="text/javascript" src="http://support.adl.org/js/12/hoverIntent.js"></script>
 <script type="text/javascript" src="http://support.adl.org/js/12/bootstrap.min.js"></script>	
 
+<!-- A/B Testing, MG: 12.26.2013 -->
+<script type="text/javascript" src="http://support.adl.org/js/13/easyab.min.js"></script>
+<script>
+  $(document).ready(function() {
+    $('#ab-donate-button').attr('href', 'http://support.adl.org/site/Donation2?df_id=4540&4540.donation=form1&myParam=AB_donate-btn&mySubParam=white');
+    $('#ab-donate-button').easyab({
+    'slot': 1,
+    'scope': 2,
+    'name': 'DONATE-COLOR',
+    'default-vlaue': 'white button',
+    'alternatives': [{
+      'value':'red button',
+      'alternative': function($this) {
+          $this.removeClass('ab-donate-button-1').addClass('ab-donate-button-2');
+          $this.attr('href', 'http://support.adl.org/site/Donation2?df_id=4540&4540.donation=form1&myParam=AB_donate-btn&mySubParam=red');
+            }
+        }]
+    });
+  });
+</script>
+
+<!-- /AB Testing --> 
 
 <script>
   (function() {
@@ -97,10 +120,45 @@ deleteCookie("CONVIO.referrer");
   })();
 </script>
 
-
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '622557864466705']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(["track", "PixelInitialized", {}]);
+</script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=622557864466705&amp;ev=NoScript" /></noscript>
 </head>  
 
 <body>
+<div id="globalmodal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:999999;">
+  <a href="http://global100.adl.org"><div class="modal-body">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="border: none; background: transparent !important; padding: 0; margin-top:0; opacity: 1; color:white;text-shadow: none !important; padding-right: 15px; ">×</button>
+
+  </div></a>
+  <div class="modal-footer" style="border-top: none; background-color: transparent; padding-top:0;">
+    <a href="http://global100.adl.org" class="btn btn-block" style="background-image: none !important; background-color: #990000; color:white; font-size: 2em; padding:1em 1em 1em 1.825em;">Be the first to know »</a>
+  </div>
+</div>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TP3WXH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TP3WXH');</script>
+<!-- End Google Tag Manager -->
+
 <!-- ClickTale Top part -->
 <script type="text/javascript">
 var WRInitTime=(new Date()).getTime();
@@ -125,10 +183,10 @@ var WRInitTime=(new Date()).getTime();
 ================================================== -->
 <div class="row">
 	<div id="leftcol" class="span3" style="margin-top:-50px;">
-	<a href="http://www.adl.org/"><img src="http://support.adl.org/images/12/adllogo100.png" width="193" height="168" alt="Anti-Defamation League" style="z-index:999999; position:relative; margin-right:-6px; float:right;"></a>
+	<a href="http://www.adl.org/"><img src="http://support.adl.org/images/12/adllogo.png" width="193" height="168" alt="Anti-Defamation League" style="z-index:9999; position:relative; margin-right:-6px; float:right;"></a>
 		<div class="tagline">
 		<p><a href="http://www.adl.org/imagine/">Imagine a World<br>
-		Without Hate</a>
+		Without Hate<sup>®</sup></a>
 		</p>
 		</div>
 		
@@ -157,7 +215,7 @@ var WRInitTime=(new Date()).getTime();
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.adl.org/anti-semitism/anti-semitism.html">Anti-Semitism</a></div>
+<div class="linksetLinkInternal navigationItem"><a href="http://www.adl.org/anti-semitism/">Anti-Semitism</a></div>
 
 
 
@@ -167,7 +225,7 @@ var WRInitTime=(new Date()).getTime();
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.adl.org/combating-hate/Combating-Hate.html">Combating Hate</a></div>
+<div class="linksetLinkInternal navigationItem"><a href="http://www.adl.org/combating-hate/">Combating Hate</a></div>
 
 
 
@@ -177,7 +235,7 @@ var WRInitTime=(new Date()).getTime();
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.adl.org/israel-international/Israel-International.html">Israel &amp; International</a></div>
+<div class="linksetLinkInternal navigationItem"><a href="http://www.adl.org/israel-international/">Israel &amp; International</a></div>
 
 
 
@@ -187,7 +245,7 @@ var WRInitTime=(new Date()).getTime();
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.adl.org/civil-rights/civil-rights.html">Civil Rights</a></div>
+<div class="linksetLinkInternal navigationItem"><a href="http://www.adl.org/civil-rights/">Civil Rights</a></div>
 
 
 
@@ -197,25 +255,17 @@ var WRInitTime=(new Date()).getTime();
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.adl.org/education-outreach/education-outreach.html">Education &amp; Outreach</a></div>
+<div class="linksetLinkInternal navigationItem"><a href="http://www.adl.org/education-outreach/">Education &amp; Outreach</a></div>
 
 
 
 
   </div>
 </div>
-<div style="border-top: solid 2px #ebebeb;  float:right; padding-top:4px;">
-<a href="http://www.adl.org/centennial/" style=" font-family: 'Century Gothic','Avant Garde','Futura',Geometric,sans-serif;
-    font-size: 16px;
-    font-weight: 600;
-    color:#990000;
-    line-height: 26px;
 
-    text-align: right; text-decoration:none;">Explore our Centennial</a>
-</div>
+<a href="http://global100.adl.org/"><img src="http://www.adl.org/assets/images/12/wrapper/global100.png" style="position:relative; margin-top:44px; margin-bottom:4px; float:right;"></a>
 
-<a href="http://www.adl.org/combating-hate/cyber-safety/c/viral-hate/viral-hate.html"><img src="http://www.adl.org/assets/images/12/wrapper/viral-hate-left-hand-side-banner-3l.jpg" style="position:relative; margin-top:20px; margin-bottom:40px; margin-right:-6px; float:right;"></a>
-<!--Honor 100 years-->
+<a href="http://support.adl.org/site/PageNavigator/contactus.html"><img src="http://www.adl.org/assets/images/12/wrapper/incidents.png" style="position:relative; margin-top:37px; margin-bottom:44px; float:right;"></a>
 
     <!-- SM-reusable-transfer -->
   <div class="tabbable span3" id="socialmediabar" style="margin-left:28px;">
@@ -262,7 +312,7 @@ var WRInitTime=(new Date()).getTime();
         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
         // ]]>
         </script><br>
-        <a href="http://www.twitter.com/ADL_es" target="_blank">ADL <i>en espaÃ±ol</i></a>
+        <a href="http://www.twitter.com/ADL_es" target="_blank">ADL <i>en español</i></a>
       </div>
 
       <div class="tab-pane" id="tabs1-pane3">
@@ -301,7 +351,7 @@ var WRInitTime=(new Date()).getTime();
         <div style="line-height:16px; height:16px;">
           <div style="float:left; padding-top: 2px;">
             Click to pin:&nbsp;
-          </div><a href="http://www.adl.org//pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"><img src="http://www.adl.org//assets.pinterest.com/images/pidgets/pin_it_button.png"></a>
+          </div><a href="http://pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"><img src="http://assets.pinterest.com/images/pidgets/pin_it_button.png"></a>
         </div><script type="text/javascript">
 (function(d){
         var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
@@ -388,17 +438,19 @@ var WRInitTime=(new Date()).getTime();
     <div class="navbar nav" style="min-width:740px;">
 
      <ul class="nav" style="margin-right:10px; font-weight:bold;">
-           	  <li><a href="http://www.adl.org/about-adl/">About ADL</a></li>
-			  
-			  <li><a href="http://regions.adl.org">Find Your Local ADL</a></li>
+           	    <li><a href="http://www.adl.org/about-adl/">About</a></li>
+<li><a href="http://regions.adl.org">Your Local ADL</a></li>
+<li><a href="http://regions.adl.org/action-center/">Take Action</a></li>
+<li><a href="http://blog.adl.org/">Blog</a></li>
+<li><a href="http://www.adl.org/video/">Video</a></li>
+<li><a href="http://www.adl.org/press-center">Press</a></li>
 			
-			  <li><a href="http://regions.adl.org/action-center/">Take Action</a></li>
-			  
-			  <li><a href="http://www.adl.org/press-center">Press Center</a></li>
-			
-			  <li><a href="http://www.adl.org/donate/"><span style="color:#fcfcfc;">DONATE</span></a></li>
+ <li><a id="ab-donate-button" class="ab-donate-button-1" href="http://support.adl.org/site/Donation2?df_id=4540&amp;4540.donation=form1">
+  <!-- A/B Testing, MG: 12.26.2013 -->
+    <span>DONATE</span>
+  <!-- // A/B Testing -->
+ </a></li>
 
-        <li>
 <form id="cse-search-box" action="http://www.adl.org/12Home/search-results.html" class="navbar-search">
  <div class="input-append">
 
@@ -409,7 +461,7 @@ var WRInitTime=(new Date()).getTime();
 
 </div>
 </form>
-</li>
+
 		 </ul> 
 </div>			
    
@@ -551,7 +603,7 @@ CONVIO.user.isAnonymous = true;
 				 
 
 
-    
+        
     
     </div><!-- main content span-->
 </div><!-- row end for side nav and main content-->
@@ -563,10 +615,10 @@ CONVIO.user.isAnonymous = true;
 	
 <div class="row">
 <div class="span9 offset3"><img class="pull-left" src="http://support.adl.org/images/12/footerlogo.png" alt="ADL">
-<p style="text-align: left;"><a href="http://www.adl.org/">Home</a> | <a href="http://support.adl.org/site/PageNavigator/contactus.html">Contact Us</a> | <a href="http://www.adl.org/about-adl/privacy-policy.html">Privacy Policy</a> | <a href="http://www.adl.org/donate/">Donate</a> |  <a href="http://support.adl.org/site/PageServer?pagename=12quickreg">Subscribe</a></p> 
+<p style="text-align: left;"><a href="http://www.adl.org/">Home</a> | <a href="http://support.adl.org/site/PageNavigator/contactus.html">Contact Us</a> | <a href="http://www.adl.org/about-adl/privacy-policy.html">Privacy Policy</a> | <a href="http://support.adl.org/site/Donation2?df_id=4540&amp;4540.donation=form1">Donate</a> |  <a href="http://support.adl.org/site/PageServer?pagename=12quickreg">Subscribe</a></p> 
 <p style="text-align: left;"></p><p><small>Please call 1-212-885-7700 for general information or 1-866-386-3235 to donate by phone.</small></p>
 
-<p><small>© 2013 Anti-Defamation League. All rights reserved.<br>The Anti-Defamation League is a not-for-profit organization recognized as tax-exempt<br>under Internal Revenue Code section 501(c)(3). </small></p>
+<p><small>© <span id="year"></span> Anti-Defamation League. All rights reserved.<br>The Anti-Defamation League is a not-for-profit organization recognized as tax-exempt<br>under Internal Revenue Code section 501(c)(3). </small></p>
 </div>
 
 
@@ -578,7 +630,41 @@ CONVIO.user.isAnonymous = true;
 
 <!-- container -->
 
- 
+<!-- Modal Window for End of the Year Campaign  -- MG, Dec 30 -->
+<!--
+<div id="fundraisemodal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:999999;">
+  <div class="modal-body" style="background: url('http://support.adl.org/images/13/YE2013-123013.jpeg') center top no-repeat; color:white; height: 250px; padding-top: 5px; margin-top: 15px; overflow:hidden;">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="border: none; background: transparent !important; padding: 0; margin-top:0; opacity: 1; color:white;text-shadow: none !important; padding-right: 15px; ">&times;</button>
+
+  </div>
+  <div class="modal-footer" style="border-top: none; background-color: transparent; padding-top:0;">
+    <a href="http://support.adl.org/site/Donation2?4700.donation=form1&df_id=4700" class="btn btn-block" style="background-image: none !important; background-color: #990000; color:white; font-size: 2em; padding:1em 1em 1em 1.825em;">DONATE NOW</a>
+  </div>
+</div>
+-->
+
+<!-- Old Modal Window for End of the Year Campaign, to be shown again after Jan 1st 2014  -- MG, Dec 30 -->
+
+<!--
+<div id="fundraisemodal-old" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:999999;">
+
+  <div class="modal-body" style="background: url('http://support.adl.org/images/13/YE2013-121613.jpeg') center top no-repeat; color:white; height: 250px; padding-top: 5px; margin-top: 15px; overflow:hidden;">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="border: none; background: transparent !important; padding: 0; margin-top:0; opacity: 1; color:white;text-shadow: none !important; padding-right: 15px; ">&times;</button>
+    <h1 style="text-shadow: 3px 3px 8px rgba(50, 50, 50, 1); color:white; font-size: 4em;line-height: 1.1em; font-weight:300; text-align: center;">WE NEED YOU</h1>
+    <p style="height:157px;"></p>
+    <p style="text-shadow: 3px 3px 8px rgba(50, 50, 50, 1); color:white; font-size: 1.4em; font-weight: 600; line-height: 1.15em; text-align: center;">To Support ADL's Work Fighting Anti-Semitism and Hate</p>
+  </div>
+  <div class="modal-footer" style="border-top: none; background-color: transparent; padding-top:0;">
+    <a href="https://secure2.convio.net/adl/site/Donation2?df_id=4600&4600.donation=form1" class="btn btn-block" style="background-image: none !important; background-color: #990000; color:white; font-size: 2em; padding:1em;">DONATE NOW</a>
+  </div>
+</div>
+-->
+<script src="http://support.adl.org/js/13/jquery.cookie.js"></script>
+<!--<script src="http://support.adl.org/js/13/modalcookie-123013.js"></script>-->
+
+
+
+
 <script type="text/javascript">
   var _gaq = _gaq || [];
 var pluginUrl = 
@@ -628,9 +714,16 @@ if(document.location.protocol!='https:')
 if(typeof ClickTale=='function') ClickTale(4977,1,"www08");
 </script>
 <!-- ClickTale end of Bottom part -->
+<script type="text/javascript">
+  var currentYear = (new Date).getFullYear();
+  $(document).ready(function() {
+  $("#year").text( (new Date).getFullYear() );
+  });
+</script>
+<!-- Global100 Script -->
+<script type="text/javascript" src="http://support.adl.org/js/14/global100-modal.js"></script>
 
 
-<!-- Powered by Convio -->
-<!-- 10.12.0.31:8900 -->
+<!-- 10.12.0.30:8900 -->
 
 </body></html>
