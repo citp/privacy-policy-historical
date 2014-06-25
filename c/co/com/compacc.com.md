@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compacc.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226040902id_/http%3A//www.compacc.com/e/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compacc.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010247id_/http%3A//www.compacc.com/e/Privacy-Statement) for the most accurate reproduction.*
 
 # 
 
@@ -12,7 +12,7 @@ The personal information you provide to Competition Accessories will not be sold
 
 Competition Accessories does not "rent out" our customers' e-mail addresses to third parties for unsolicited e-mail communications. From time to time, we send out e-mails providing our customers with the latest information that we think they will find useful, including information about our new products and services.
 
-You may OPT-OUT of emails or catalog mailings at any time by simply opting out of the e-mails we send or by emailing us at supervisors@compacc.com or using the [Contact US](http://www.compacc.com/e/Contact-Us) section on the site.  Additionally you may call customer service at 1-800-543-6321.
+You may OPT-OUT of emails or catalog mailings at any time by simply opting out of the e-mails we send or by emailing us at supervisors@compacc.com or using the [Contact US](http://www.compacc.com/e/contact-us) section on the site.  Additionally you may call customer service at 1-800-543-6321.
 
 **Cookies:**
 
