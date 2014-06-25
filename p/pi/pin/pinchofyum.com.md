@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinchofyum.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231004658id_/http%3A//pinchofyum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinchofyum.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120640id_/http%3A//pinchofyum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pinch of Yum
 
@@ -29,7 +29,7 @@ Amazon
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.pinchofyum.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-www.pinchofyum.com has no access to or control over these cookies that are used by third-party advertisers. 
+www.pinchofyum.com uses Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ad Settings](https://www.google.com/settings/ads) page. Users can completely block Google Analytics tracking using [Google’s Analytics Opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.pinchofyum.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
