@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the batangamedia.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019091003id_/http%3A//batangamedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batangamedia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082927id_/http%3A//batangamedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BatangaMedia
 
 Batanga Network is deeply committed to earning your trust and protecting the privacy of Internet users. To better understand Batanga Network’s privacy protocol, Batanga Network provides this notice explaining its online technology and information collection practices when it serves advertisements on its network of web sites.
 
+Batanga Netwokr is a member of the Network Advertising Initiative (NAI) and Digital Advertising Alliance (DAA) and adheres to the NAI self-regulatory principles for online behavioral advertising. To learn more about Interest-Based Advertising (IBA) please visit the Network Advertising Initiative website [http://www.networkadvertising.org](http://www.networkadvertising.org/)
+
 **Consumer Information**
 
-Batanga Network uses one or more third party ad serving providers to serve ads at this and at our clients’ sites. In the course of delivering an ad to you, the third party ad serving party may place or recognize a unique cookie on your browser and use information -not including your name, address, email address or telephone number- about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you.
-
+Batanga Network uses one or more third party ad serving providers to serve ads at this and at our clients’ sites. In the course of delivering an ad to you, the third party ad serving party may place or recognize a unique cookie on your browser and use information -not including your name, address, email address or telephone number- about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you.  
 Advertisers using the Batanga Network may collect personally identifiable information explicitly provided by consumers (i.e. name, address, email address or telephone number) for purposes including the purchase of goods and services, order shipment, and/or sweepstakes entry. Personally identifiable information collected by Advertisers using the Batanga Network is subject to the privacy policies of the individual advertisers.
 
 **Third Party Advertising**
@@ -32,15 +33,15 @@ Batanga Network may share only aggregate, non-personal information, such as numb
 
 **Sensitive Information**
 
-Batanga Network does not collect or use sensitive information for purposes of online behavioral advertising – OBA unless we have obtained your prior consent, also known as opt-in. Sensitive Information refers to data related to confidential medical information, health or medical conditions or treatment, financial or insurance account numbers, social security or other Government-issued identifiers. We may enable advertisers to create custom audiences relating to general health topics such as “diet and fitness” or “allergies” using our technologies, but we will not permit advertisers to target users on the basis of precise health conditions or treatments.
+Batanga Network does not collect or use sensitive information for purposes of Interest-Based Advertising (IBA) unless we have obtained your prior consent, also known as opt-in. Sensitive Information refers to data related to confidential medical information, health or medical conditions or treatment, financial or insurance account numbers, social security or other Government-issued identifiers. We may enable advertisers to create custom audiences relating to general health topics such as “diet and fitness” or “allergies” using our technologies, but we will not permit advertisers to target users on the basis of precise health conditions or treatments.
 
 **Data Collection for Online Behavioral Advertising**
 
-Batanga Network retains non-personally-identifiable information for online advertising for up to 30 days. After 30 days this data is deleted. Other aggregated data ~~~~is retained for up to two years for statistical and reporting purposes.
+Batanga Network retains non-personally-identifiable information for online advertising for up to 30 days. After 30 days this data is deleted. Other aggregated data is retained for up to two years for statistical and reporting purposes.
 
 **Opting out**
 
-To opt out from Batanga Network and therefore, stop Batanga Network from collecting your non-personal information please [click here](http://www.batanganetwork.com/opt-out) or visit <http://www.batanganetwork.com/opt-out>. Opting out from Batanga Network will not prevent you to see advertisements but they may not be as relevant as they were before you opted out. If you delete the cookies, change your computer or browser, you will have to opt out again. You may also opt out from Batanga Network using the Network Advertising Initiative – NAI opt-out page (<http://www.networkadvertising.org/managing/opt_out.asp>), which lets you to opt out not only from Batanga Network but also from other NAI members.
+To opt out from Batanga Network and therefore, stop Batanga Network from collecting your non-personal information please [click here](http://www.batanganetwork.com/opt-out) or visit http://www.batanganetwork.com/opt-out. Opting out from Batanga Network will not prevent you to see advertisements but they may not be as relevant as they were before you opted out. If you delete the cookies, change your computer or browser, you will have to opt out again. You may also opt out from Batanga Network using the Network Advertising Initiative – NAI opt-out page (<http://www.networkadvertising.org/managing/opt_out.asp>), which lets you to opt out not only from Batanga Network but also from other NAI members.
 
 **Security**
 
@@ -52,7 +53,7 @@ Batanga Network does not knowingly collect any Personal Data from children under
 
 **Effective Date and Changes in Policy**
 
-This Privacy Policy is effective as of Oct 18th, 2012. In the event that Batanga Network decides to update this Privacy Policy, it will post the changes at the Web site and at other places it deems appropriate so that you are aware of what information was changed.
+This Privacy Policy is effective as of Dec 12th, 2013. In the event that Batanga Network decides to update this Privacy Policy, it will post the changes at the Web site and at other places it deems appropriate so that you are aware of what information was changed.
 
 **Contact Batanga Network**
 
@@ -60,10 +61,8 @@ If you should have any questions or concerns regarding this Privacy Policy, plea
 
 **Batanga Network**
 
-2121 Ponce de Leon Blvd, Suite 800
-
-Coral Gables, FL, 33134
-
+2121 Ponce de Leon Blvd, Suite 800  
+Coral Gables, FL, 33134  
 privacy@batanga.com
 
  
