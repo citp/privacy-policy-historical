@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmediaexplode.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213174752id_/http%3A//socialmediaexplode.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediaexplode.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123126id_/http%3A//socialmediaexplode.com/privacy-policy.php) for the most accurate reproduction.*
 
 # SocialMediaExplode.com | Privacy Policy
 
@@ -63,7 +63,7 @@ SocialMediaExplode.com has the discretion to update this privacy policy at any t
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20131213174752id_/http%3A//socialmediaexplode.com/tos.php). If you do not agree to this policy or terms, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20140625123126id_/http%3A//socialmediaexplode.com/tos.php). If you do not agree to this policy or terms, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
