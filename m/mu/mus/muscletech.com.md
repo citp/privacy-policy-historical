@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muscletech.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928052958id_/http%3A//www.muscletech.com/global/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muscletech.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064113id_/http%3A//www.muscletech.com/global/privacy.php) for the most accurate reproduction.*
 
 # MuscleTech - Privacy Statement
 
@@ -57,3 +57,5 @@ We maintain physical, electronic, and procedural safeguards to protect the perso
 ## Contact Us
 
 If you have any questions about this Privacy Statement or the practices or activities associated with our Site, or if you'd like to have access to or correct your personal information in our database(s) or remove yourself from our database(s), please contact us at 381 North Service Road West, Oakville, ON L6M 0H4, Canada. 
+
+#### Share This
