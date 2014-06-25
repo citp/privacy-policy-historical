@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106085006id_/https%3A//www.rti.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053735id_/http%3A//rti.org/privacy.cfm) for the most accurate reproduction.*
 
 # RTI International: Privacy Policy
 
@@ -9,7 +9,7 @@ This privacy policy applies to transactions and activities in which you engage (
 The commitment of RTI International to the protection of your information is summarized by the following principles:
 
   * We will not obtain personally identifying information about you when you visit our Site, unless you choose to provide such information to us.
-  * We will not share any personally identifying information about you with any third party without your permission, unless required by law (see [Terms of Use](https://web.archive.org/page.cfm?objectid=0D074E8A-F14A-54CC-188BC53FB9F32A3F)).
+  * We will not share any personally identifying information about you with any third party without your permission, unless required by law (see [Terms of Use](https://web.archive.org/page.cfm?obj=0D074E8A-F14A-54CC-188BC53FB9F32A3F)).
 
 
 
@@ -29,7 +29,7 @@ We collect and store only the following information about you:
 
 We use this information to measure the number of visitors to the different sections of our Site, find out what information is most viewed, and to help us make our Site more useful to visitors.
 
-The information gathered is used for two purposes: management of the Site and, in the case of suspected unauthorized activity, for law enforcement and possible criminal prosecution (see [Terms of Use](https://web.archive.org/page.cfm?objectid=0D074E8A-F14A-54CC-188BC53FB9F32A3F)).
+The information gathered is used for two purposes: management of the Site and, in the case of suspected unauthorized activity, for law enforcement and possible criminal prosecution (see [Terms of Use](https://web.archive.org/page.cfm?obj=0D074E8A-F14A-54CC-188BC53FB9F32A3F)).
 
 ## If You Decide to Provide Identifying Information About Yourself
 
