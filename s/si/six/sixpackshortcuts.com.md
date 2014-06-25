@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sixpackshortcuts.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207144729id_/http%3A//sixpackshortcuts.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixpackshortcuts.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625181149id_/http%3A//sixpackshortcuts.com/clean/privacypolicy) for the most accurate reproduction.*
 
-# Six Pack Shortcuts - Privacy Policy
+# How To Get Six Pack Abs - Six Pack Shortcuts
+
+## Privacy Policy
 
 You can opt-out of all email contact from us by using our [email unsubscribe page](http://app.icontact.com/icp/mmail-mprofile.pl?r=82992&l=106&s=GXBQ&m=59770&c=906767). We will only call you if you're a customer and there's a problem with your account or order -- but if you'd also like to opt-out of phone contact, you can do that through our [phone contact opt-out page](http://sixpackshortcuts.com/phone_optout.php).
 
