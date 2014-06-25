@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the erlibird.com privacy policy that was archived on 2013-08-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130822091010id_/http%3A//www.erlibird.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the erlibird.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625062629id_/https%3A//erlibird.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -11,19 +11,19 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> 
 
-    <link href="/includes/css/mainstyle-v2D.css" rel="stylesheet" type="text/css">
+    <link href="/includes/css/mainstyle-v4.css" rel="stylesheet" type="text/css">
     <link type="text/css" href="/libraries/jquery-ui/jquery-ui-1.8.21.custom.css" rel="Stylesheet">
 
     <link href="//fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">    
     <link href="/libraries/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <link rel="shortcut icon" href="/images/favicon.png"> 
-
-    <script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=390233561016483"></script><script type="text/javascript" id="janrainAuthWidget" src="https://rpxnow.com/js/lib/erli-bird/engage.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
-    </script>
-
+    <!--[if IE]><link rel="shortcut icon" href="/images/favicon.ico"><![endif]-->
+    <meta name="msapplication-TileColor" content="#353535">
+    <meta name="msapplication-TileImage" content="/images/tileicon.png">
+    <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+    <link rel="icon" href="/images/favicon.png">
     
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=390233561016483"></script><script type="text/javascript" id="janrainAuthWidget" src="https://rpxnow.com/js/lib/erli-bird/engage.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
     <script src="/libraries/bootstrap/js/bootstrap.min.js"></script>
     <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
@@ -108,7 +108,7 @@
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1&appId=390233561016483";
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=390233561016483";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -122,18 +122,21 @@
         <form name="mFeedbackForm" id="mFeedbackForm" autocomplete="off">
             <textarea id="mobileFeedback" name="mobileFeedback"></textarea>
         </form>
+        <div class="newAcctRewardInfo" style="padding: 10px;">            
+        </div>
+        
     </div>
     <div id="mobileMenu">
         <div id="mobileButtons" class="clear">
         <a class="greenButtonSmall" href="https://erlibird.com/login?login=0">Sign Up</a>
-        <a class="grayButtonSmall" href="https://erlibird.com/login?login=1&amp;retURL=%2Fprivacy">Log In</a>
+        <a class="loginButtonSmall" href="https://erlibird.com/login?login=1&amp;retURL=%2Fprivacy">Log In</a>
     </div>
     <ul>
+        <li class="m3"><a href="/">Beta Store</a></li>
+        
+        <li id="m1"><a href="/startups">For Startups</a></li>
+        <li id="m2"><a href="http://erlibird.com">For Early Adopters</a></li>
             
-        <li id="m0"><a href="http://erlibird.com">Discover</a></li>
-        <li id="m1"><a href="/donation">Site Donation</a></li>
-        <li id="m2"><a href="/leaders">Leaderboard</a></li>
-        <li id="m3"><a href="http://word.erlibird.com">Blog</a></li>
     </ul>
 </div>
 <div id="page"> 
@@ -150,9 +153,13 @@
             <div id="logoMobile">
                 <a href="http://erlibird.com"><img src="/images/mobile-logo.png"></a>
             </div>
+         
             <ul id="leftMenu" class="menuList">
-                <li><a href="/leaders">leaderboard</a></li>
-                <li><a href="http://erlibird.com">discover</a></li>            
+            
+                <li><a href="/startups">Submit Your Startup</a></li>            
+                <li><a href="/early-adopters">For Early Adopters</a></li>
+        
+                <li><a href="/">Beta Store</a></li>
             </ul>
             <ul id="rightMenu" class="menuList loginMenu">
                 <li><a href="https://erlibird.com/login?login=1&amp;retURL=%2Fprivacy">Log In</a></li>
@@ -180,7 +187,7 @@
 	<h3>Communication Through Email</h3>
 	<p>We allow you to get on our email list by providing your email address or using our join/login system to login with various third-party credentials.</p>
 	<p>If you don't want to hear from us, please opt-out from our emails on the bottom of the email. If for some reason this does not work or you would rather contact us directly, please email us at team@erlibird.com and we will promptly remove you from our list.</p>
-	<p>By default, we will send you approximately one email a week related to new startups and products that we feature.</p>
+	<p>By default, we will send you approximately one or two emails a week related to new startups and products that we feature.</p>
 	<p>Users that have requested access to Erli Bird but have not yet been granted access will not be sent recurring weekly emails.</p>
 	<p>We may send you service announcements or notifications.</p>
 
@@ -227,71 +234,52 @@
         </div> <!-- pagewrap -->
 
         <footer>
+        
 
-            <div id="cloudBottom" class="clear">
+            <div id="cloudBottom">
                 <div class="pagewrap">
-
 
                 </div> <!-- pagewrap -->
             </div> <!-- cloudbottom -->
 
             <div class="pagewrap clear" id="footerBottom">
 
-                <div id="footerAbout">
-                    <div class="footerHead">About Erli Bird</div>
-                    Erli Bird is the site for early adopters. Discover and play a role in tomorrow's most promising tech startups. Get early access, exclusive promotions, and lend your ideas, feedback, and advice to create the next great tech company.
+
+                <div id="footerMenuMenu" class="footerMenu clear">
+                    <ul>
+                        <li><a href="mailto: team@erlibird.com">Contact Us</a></li>
+                        <li><a href="/about">About Us</a></li>
+                        <li><a href="/rss">RSS Feeds</a></li>
+                        <li><a href="/ifttt">IFTTT</a></li>
+                    </ul>
                 </div>
 
                 <div id="footerMenuSocial" class="footerMenu">
-                    <div class="footerHead">
-                        Stay in Touch
-                    </div>
                     <ul>
-                        <li><div class="fb-like" data-href="http://www.facebook.com/ErliBird" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div></li>
-                        <li>
+                        <li class="extra"><div class="fb-like" data-href="http://www.facebook.com/ErliBird" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div></li>
+                        <li class="extra">
                             <div>
                                 <a href="https://twitter.com/erlibirdapp" class="twitter-follow-button" data-show-count="false">Follow @erlibirdapp</a>
                             </div>
                         </li>
-                        <li><a href="https://plus.google.com/100866512074155550722" rel="publisher">Find us on Google+</a></li>
-                        <li><a href="http://word.erlibird.com">Erli Bird Blog</a></li>
+                        <li class="extra"><a href="https://plus.google.com/100866512074155550722" rel="publisher">Find us on Google+</a></li>
+                        <li><a href="/terms">Terms of Usage</a></li>
+                        <li><a href="/privacy">Privacy Policy</a></li>
                     </ul>
-                </div>
-
-                <div id="footerMenuMenu" class="footerMenu">
-                    <div class="footerHead">
-                    Menu
-                    </div>
-                    <ul>
-                        <li><a href="mailto: team@erlibird.com">Contact Us</a></li>
-                        <li><a href="/ErliPress.zip">Press Kit</a></li>
-                        <li><a href="/startups">Submit Your Startup</a></li>
-                    </ul>
-                </div>
-
-                <div id="termsSection">
-                    <a href="/terms">Terms of Usage</a><a href="/privacy">Privacy Policy</a>
-                </div>
-
-                <div id="footTree">
-                    <img src="/images/foot-tree.png">
-                </div>
-
+                </div>        
             </div>
           
-            <div id="grassBottom">&nbsp;
+            <div id="grassBottom">
+                <div class="pagewrap" style="position: relative; ">
+                    <div id="footTree">
+                        <img src="/images/foot-tree.png">
+                    </div>&nbsp;
+                </div>
             </div>
 
         </footer>
 
-        <div id="badgePopup" data-url="/badges?id=
-Notice: Undefined index: ErliUserID in /var/www/html/includes/php/headfoot.php on line 631
-
-Call Stack:
-    0.0148     340044   1. {main}() /var/www/html/privacy.php:0
-    0.0224     352796   2. doFooter() /var/www/html/privacy.php:108
-
-">
+        <div id="badgePopup" data-url="/badges?id=-1">
             <div class="clear" style="position: relative;">
                 <div id="badgePopList">
                 </div>
