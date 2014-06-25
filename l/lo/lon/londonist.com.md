@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonist.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030215618id_/http%3A//londonist.com/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonist.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053116id_/http%3A//londonist.com/cookies-and-privacy) for the most accurate reproduction.*
 
 # Cookie Information and Privacy Policy | Londonist
 
@@ -21,10 +21,8 @@ Londonist utilises third-party software for statistics on our website usage, adv
   * **Google Analytics**. We use this for general website statistics.  
 <http://www.google.com/policies/privacy/>
   * **Google Doubleclick for Publishers**. Londonist Ltd utilises this software for rendering its advertising. <http://www.google.com/policies/privacy/>
-  * **Criteo**. This enables extra affiliate links for our content. <http://www.criteo.com/us/privacy-policy>
   * **Facebook**. Like buttons, and other useful plugins are used here. <http://www.facebook.com/about/privacy/>
   * **Twitter**. Tweet buttons are loaded from Twitter. <http://twitter.com/privacy>
-  * **VisualDNA.** **** More analytics data for us to see what’s happening. <http://visualdna.com/privacy-policy/>
 
 
 
@@ -39,10 +37,6 @@ We want to hear your opinions and knowledge, so please leave a comment. Occasion
 Londonist Ltd may launch a mailing list for some or all of the Londonist Ltd Sites, in order to provide subscribers with relevant information — breaking news, or weekly or daily round-ups, for example. In order to sign up to receive regular emails from a site’s mailing list, users must submit information including a valid email address and potentially demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organisation.
 
 Users who choose to sign up for a mailing list will receive regular emails from the site. Most of the time, these will be content from the site in question, but we may occasionally send out an email from a third party sponsor. This will be infrequent, and does not represent an endorsement by Londonist Ltd of any products advertised therein. It will clearly be marked as advertising: please check it out, as we hope you will feel that it is relevant to you. Since editorial independence is critical to us, you can be sure that we will never send out a sponsored email in the guise of a glowing product review. If you do not wish to receive emails from third party advertisers, please do not sign up for the mailing list.
-
-## Discussion Groups and Comments
-
-In order to further enhance the user experience, Londonist Ltd runs a commenting service on some or all of the Londonist Ltd Sites where users can discuss common topics of interest. Users have the option of signing up for this service, and to do so must submit information including a valid email address. Londonist Ltd uses this information to screen out users who leave comments prohibited by our terms and conditions of use and to pick out topics of interest to discussion board users. Londonist Ltd will not pass this information to any other organisation except in aggregate form.
 
 ## Third Party Links, Websites and Services
 
@@ -68,20 +62,24 @@ Whenever Londonist Ltd changes its privacy policy, we will post those changes to
 
 If you have any questions or suggestions regarding our privacy policy, please contact the editor of the Londonist Ltd site in question, or send an email to hello@londonist.com or mail us at Londonist Ltd, 72-74 Paul Street, London EC2A 4NA, United Kingdom.
 
-[ ](http://londonist.com/2013/10/seasonal-skating-london-ice-rink-round-up-2013.php)
+## Complaints
 
-[ ](http://londonist.com/2013/10/nick-brandts-beautifully-stark-images-of-a-fragile-environment.php)
+If you would like to complain about anything on Londonist.com, or any of our other assets, please email hello@londonist.com with the subject line ‘Complaint’.
 
-[ ](http://londonist.com/2013/10/explore-the-national-theatre-archive.php)
+[ ](http://londonist.com/2014/06/up-to-50000-london-homes-to-be-built-on-brownfield-sites.php)
 
-[ ](http://londonist.com/2013/10/will-architecture-save-the-future-futures-in-the-making-at-architecture-foundation.php)
+[ ](http://londonist.com/2014/06/london-is-just-97-away-from-electric-vehicle-target.php)
 
-[ ](http://londonist.com/2013/10/london-short-fiction-harvest-festival.php)
+[ ](http://londonist.com/2014/06/new-hand-drawn-map-of-central-london.php)
 
-[ ](http://londonist.com/2013/10/kristin.php)
+[ ](http://londonist.com/2014/06/meltdown-festival-round-up-review-and-pictures.php)
 
-[ ](http://londonist.com/2013/10/take-a-twilight-tour-of-the-tower.php)
+[ ](http://londonist.com/2014/06/crowdfunding-london-june.php)
 
-[ ](http://londonist.com/2013/10/things-to-do-in-london-this-weekend-2-3-november-2013.php)
+[ ](http://londonist.com/2014/06/secrets-of-the-circle-line.php)
 
-[ ](http://londonist.com/2013/10/two-war-photography-exhibitions-at-imperial-war-museum.php)
+[ ](http://londonist.com/2014/06/transform-your-green-space-at-grow-london.php)
+
+[ ](http://londonist.com/2014/06/banksy-the-unauthorised-retrospective-at-sothebys.php)
+
+[ ](http://londonist.com/2014/06/friday-photos-street-name-signs.php)
