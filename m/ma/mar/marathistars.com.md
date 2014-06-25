@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marathistars.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228142952id_/http%3A//marathistars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathistars.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070337id_/http%3A//marathistars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marathi Stars,Actress,Actors,photos,wallpapers,Images,Movies Cast,Story,Tv Serials,Biography,News,Events
 
@@ -83,7 +83,3 @@ MarathiStars.com is registered in India. If you are a user / member accessing th
 MarathiStars.com reserve the right at any time to: change the terms of this Agreement; change the Services, including eliminating or modifying any content on or feature of the website; or change/charge any fees or charges for use of the Services.
 
 MarathiStars.com is committed to resolving disputes as soon as feasible and shall endeavour to resolve all disputes brought to our notice in keeping with the mechanism prescribed.
-
-#### Tags:
-
-[marathi you can send product image](http://marathistars.com/privacy-policy/ "marathi you can send product image"), 
