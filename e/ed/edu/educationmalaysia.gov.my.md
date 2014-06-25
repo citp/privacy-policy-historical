@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationmalaysia.gov.my privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615105543id_/http%3A//www.educationmalaysia.gov.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationmalaysia.gov.my privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132523id_/http%3A//www.educationmalaysia.gov.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ For the purpose of the Personal Data Protection Act 2010 (the Act) and this priv
 
 “sensitive personal data” means any personal data consisting of information as to the physical or mental health or condition of a data subject, his political opinions, his religious beliefs or other beliefs of a similar nature, the commission or alleged commission by him of any offence or any other personal data as the Minister may determine by order published in the _Gazette_ ;
 
-"Declaration" is the declaration which is currently accepted by the Institution on your behalf. You can read a copy of this declaration [ **here**](http://www.educationmalaysia.gov.my/skin/frontend/emgsv3/default/documents/T&C_THIRDPARTYSUBMISSIONOFSTUDENTAPPLICATIONv2.0.pdf). 
+"Declaration" is the declaration which is currently accepted by the Institution on your behalf. You can read a copy of this declaration [ **here**](http://www.educationmalaysia.gov.my/skin/frontend/emgsv4/default/documents/T&C_THIRDPARTYSUBMISSIONOFSTUDENTAPPLICATIONv2.0.pdf). 
 
 "website" is any of [www.educationmalaysia.gov.my](http://www.educationmalaysia.gov.my/) or https://stars.educationmalaysia.gov.my or any other website, RSS feed or phone application operated by us from time to time.  
   
