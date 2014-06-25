@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harpoonbrewery.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125093205id_/http%3A//www.harpoonbrewery.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harpoonbrewery.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625225706id_/http%3A//www.harpoonbrewery.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,11 +12,11 @@ Contact information will be used to notify the winners and award prizes. Survey 
 
 Harpoon Brewery will take all necessary steps to keep your personal information confidential. Those steps include limiting access to informational databases, encrypting sensitive information and securing our data with appropriate passwords and user permissions. We will not sell, rent, or share our customers' personal information to other companies for any reason.
 
-We will communicate with customers via e-mail or other online delivery devices only if the customer has opted-in and agrees to receive those communications. If you believe that you are receiving our communications in error or no longer desire to receive them, please inform us and we will remove your name from our distribution lists. If a customer's personally identifiable information changes (such as zip code, phone, email or postal address), or if a customer no longer desires our service, we provide a way to correct, update or delete/deactivate users personally identifiable information. This can usually be done at the member information page or by emailing our estore Customer Support at [estore@harpoonbrewery.com](mailto:estore@harpoonbrewery.com) or our Friend of Harpoon Customer Support at [fohinfo@harpoonbrewery.com](mailto:fohinfo@harpoonbrewery.com). Or, contact us by postal mail at the contact information listed below.
+We will communicate with customers via e-mail or other online delivery devices only if the customer has opted-in and agrees to receive those communications. If you believe that you are receiving our communications in error or no longer desire to receive them, please inform us and we will remove your name from our distribution lists. If a customer's personally identifiable information changes (such as zip code, phone, email or postal address), or if a customer no longer desires our service, we provide a way to correct, update or delete/deactivate users personally identifiable information. This can be done at the Friend of Harpoon member information page or by emailing our Friend of Harpoon Customer Support at [friendofharpoon@harpoonbrewery.com](mailto:friendofharpoon@harpoonbrewery.com). Or, contact us by postal mail at the contact information listed below.
 
 If you have any questions or comments on this policy, our use of your information, or other privacy issues, please feel free to contact us.
 
 **The Harpoon Brewery**  
 306 Northern Ave  
-Boston, MA, 02210[  
-info@harpoonbrewery.com](mailto:info@harpoonbrewery.com)
+Boston, MA, 02210  
+[info@harpoonbrewery.com](mailto:info@harpoonbrewery.com)
