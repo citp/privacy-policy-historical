@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826193331id_/http%3A//chamberlain.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105255id_/http%3A//chamberlain.edu/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -31,23 +31,31 @@ Generally we do not give or sell your information, including your personally ide
 
 
 
-## 5)    Children (age 17 and under).
+## 5)    Do Not Track Signals.
+
+Some web browsers and devices permit you to broadcast a preference that you not be “tracked” online. At this time we do not modify your experience based upon whether such a signal is broadcast. 
+
+## 6)    Behavioral Advertisers.
+
+We may participate in behavioral-based advertising. This means that a third party may use technology, such as a cookie on your browser or a web beacon, to identify you on our website so that they can provide advertising about products and services tailored to your interest. That advertising may appear either on our website, or on other websites. If you would like to opt-out of third-party behavioral advertising that collects information on your use of this website, you can do so by visiting the websites of the Network Advertising Initiative and the Digital Advertising Alliance. 
+
+## 7)    Children (age 17 and under).
 
 All persons age 17 or under must ask for and receive their parents’ or guardian’s permission before sending any information about themselves to Chamberlain or to anyone online or over the Internet. Parents or guardians of persons age 17 or under must send us an e-mail indicating their approval of the child’s participation in any of the services/resources that require collection of personal information on our websites.
 
-## 6)    Parents/Guardians.
+## 8)    Parents/Guardians.
 
 Any information collected by Chamberlain from children is used for the sole purpose of delivering the requested service/materials. If you have a question, or would like to review or delete your child’s personally identifiable information, contact us via one of the methods listed at the bottom of this statement.
 
-## 7)    Third-party websites.
+## 9)    Third-party websites.
 
 Any links to third-party websites on Chamberlain sites are provided solely as a convenience to you. If you use these links, you will leave the Chamberlain site. Chamberlain does not review all third-party sites, nor does it control or assume responsibility for the content or privacy policies of any of these sites. Thus, Chamberlain does not endorse or make any representations about them, or any information, or other products or materials found there, or any results that may be obtained from using them. If you decide to access a third-party site linked to a Chamberlain website, you do so at your own risk.
 
-## 8)    How can you correct your information?
+## 10)    How can you correct your information?
 
 If you have any questions regarding this privacy policy or would like to have your personally identifiable information modified or deleted from our records, please e-mail us or call our toll-free number.
 
-## 9)    How to contact us, and how we may contact you.
+## 11)    How to contact us, and how we may contact you.
 
 Should you have other questions or concerns about this privacy policy, contact us at:
 
@@ -59,4 +67,4 @@ info@chamberlain.edu
 
 If Chamberlain is required to provide you with notice of a particular event or incident, we will send you that notice by e-mail, telephone, or mail. 
 
-Last revised on July 25, 2012.
+Last revised on January 6, 2014.
