@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111061920id_/https%3A//www.cfainstitute.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060025id_/https%3A//www.cfainstitute.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx) for the most accurate reproduction.*
 
 # CFA Institute Privacy Policy
 
-**Last updated: September 2013**
+**Last updated: March 2014**
 
-This privacy policy (" **Privacy Policy** ") describes how CFA Institute gathers and protects certain individually identifiable information (" **Personal Information** ") and how CFA Institute may use, process, transfer, and share Personal Information. CFA Institute, located at 560 Ray C Hunt Drive, Charlottesville, VA, 22903-0668, owns and operates this website (the " **Site** "). This Privacy Policy applies to Personal Information that we collect through the Site, as well as offline collections of Personal Information about CFA Institute and CIPM Association members (" **Members** "), CFA®, CIPM®, and Claritas® program candidates, and participants and attendees at CFA Institute events.
+This privacy policy (" **Privacy Policy** ") describes how CFA Institute gathers and protects certain individually identifiable information (" **Personal Information** ") and how CFA Institute may use, process, transfer, and share Personal Information. CFA Institute, located at 915 East High Street, Charlottesville, VA, 22902, owns and operates this website (the " **Site** "). This Privacy Policy applies to Personal Information that we collect through the Site, as well as offline collections of Personal Information about CFA Institute and CIPM Association members (" **Members** "), CFA®, CIPM®, and Claritas® Program candidates, and participants and attendees at CFA Institute events.
 
 ## Summary of Key Points
 
-  * We collect Personal Information when you provide information to CFA Institute through the Site, when you register for an examination, or through other communications with CFA Institute. [Learn more about the information that CFA Institute collects](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#what).
-  * We use Personal Information to provide CFA Institute products and services to you. For example, we collect Personal Information to establish and maintain CFA Institute and CIPM Association memberships and to administer the CFA, CIPM, and Claritas examinations. [Learn more about how we use information](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#how).
-  * We use cookies and other technologies to track the use of our Site and for certain advertising purposes. [Learn more about the use of cookies and technologies, and about opportunities to choose not to allow cookies](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#useof).
-  * We share Personal Information with exam preparatory providers and other CFA Institute partners which provide products and services that may be of interest to you. [Learn more about setting your preferences and how to opt out of such disclosures](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#prefer).
-  * Your use of the Site or provision of Personal Information constitutes your consent to the processing and transfer of your Personal Information as described in this Privacy Policy. [Learn more](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#consent).
+  * We collect Personal Information when you provide information to CFA Institute through the Site, when you register for an examination, or through other communications with CFA Institute. [Learn more about the information that CFA Institute collects](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#what). 
+  * We use Personal Information to provide CFA Institute products and services to you. For example, we collect Personal Information to establish and maintain CFA Institute and CIPM Association memberships and to administer the CFA, CIPM, and Claritas examinations. [Learn more about how we use information](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#how). 
+  * We use cookies and other technologies to track the use of our Site and for certain advertising purposes. [Learn more about the use of cookies and technologies, and about opportunities to choose not to allow cookies](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#useof). 
+  * We share Personal Information with exam preparatory providers and other CFA Institute partners which provide products and services that may be of interest to you. [Learn more about setting your preferences and how to opt out of such disclosures](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#prefer). 
+  * Your use of the Site or provision of Personal Information constitutes your consent to the processing and transfer of your Personal Information as described in this Privacy Policy. [Learn more](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#consent). 
 
 
 
@@ -24,7 +24,7 @@ Your use of the Site or provision of Personal Information to CFA Institute const
 
 We collect Personal Information to help us better understand your needs, to provide you with personalized and efficient service, and for other purposes described in this Privacy Policy. We generally obtain Personal Information directly through the information that you provide to CFA Institute. We also may obtain Personal Information automatically, through the use of cookies and other technologies, and in some instances from third parties, such as companies that sponsor programs or conferences in which CFA Institute participates. 
 
-Back to top
+[Back to top](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#top)
 
  **Information you provide to CFA Institute**  
 You may provide Personal Information to CFA Institute in a number of ways, including: (1) through your use of the Site, such as registering for an account and signing up to receive newsletters; (2) through your online account with CFA Institute; (3) upon registering for any CFA Institute examination, including the CFA, CIPM, and Claritas examinations; (4) upon becoming a Member; (5) upon communicating directly with CFA Institute either electronically or by providing hard copies of documents; and (6) upon registering for CFA Institute conferences or events.
@@ -41,25 +41,25 @@ By using the Site, you agree to our use of cookies as described above. You may c
 **Information collected by third party cookies and other tracking devices**  
 CFA Institute uses selected third parties to conduct analytics on the Site, as well as to serve relevant ads on third party Internet sites. CFA Institute currently uses Omniture for these purposes. CFA Institute does not provide any Personal Information to these companies to allow them to use such information on their own behalf, or for the benefit of any other party. These advertising companies may, however, place their own cookies on your browser. You can choose not to allow these advertising companies to use their cookies to serve you ads on third party internet sites. [Review Omniture's privacy policy opt-out instructions](http://www.omniture.com/en/privacy/product#optout). [Review the Omniture Privacy Policy](http://www.omniture.com/en/privacy).
 
-Back to top
+[Back to top](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#top)
 
 ## How We Use Information
 
 CFA Institute may use Personal Information to provide you with CFA Institute products and services and inform you about other CFA Institute products and services that may be of interest to you. In particular, we may use your Personal Information to: 
 
-  * Establish and maintain your CFA or CIPM Association membership;
-  * Process applications that you submit to CFA Institute;
-  * Provide examination services, including processing your candidacy for, administering, and scoring an examination;
-  * Register you for CFA Institute programs and events;
-  * Process orders that you place with CFA Institute;
-  * Correspond with you regarding examinations, events, or other CFA Institute-related products or services; and
+  * Establish and maintain your CFA or CIPM Association membership; 
+  * Process applications that you submit to CFA Institute; 
+  * Provide examination services, including processing your candidacy for, administering, and scoring an examination; 
+  * Register you for CFA Institute programs and events; 
+  * Process orders that you place with CFA Institute; 
+  * Correspond with you regarding examinations, events, or other CFA Institute-related products or services; and 
   * Maintain the online CFA Institute Member directory. 
 
 
 
 CFA Institute may also send you CFA Institute newsletters and other informational materials that may be of interest to you. We will provide you the opportunity to opt out of receiving such information in each such communication.
 
-Back to top
+[Back to top](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#top)
 
 ## How We Share Information
 
@@ -89,11 +89,11 @@ We may share Personal Information of CFA charterholders with government regulato
 
 The Site may offer opportunities to engage in social networking, interact with others and/or submit or post messages or other content, such as on CFA Institute blogs ("CFA Institute Networking Sites"). The Site may also provide for interactions with third party websites or services including social media websites through plug-ins. Please note that any information or materials that you post or submit through such CFA Institute Networking Sites will be publicly posted to everyone that has access to the relevant Site. Posts to third party social media or other sites ("Social Media Sites"), including any content on our Site that you "share" or "like," will be controlled by and subject to the terms of such social media or other sites. We encourage you to use caution when you submit any information or materials on or through any CFA Institute Networking Site or interact with third party websites or services through plug-ins. [Your use of CFA Institute Networking Sites is governed by our Terms & Conditions](https://web.archive.org/about/governance/policies/Pages/legal_terms_and_conditions_of_use.aspx).
 
-Back to top
+[Back to top](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#top)
 
 ## Your Preferences
 
-You may change your account preferences at any time by visiting the [Manage Account](https://web.archive.org/account) (account login required) section of the CFA Institute website and updating your online profile by selecting **Edit** under **Newsletters & Alerts**, or by contacting us using the information provided under the "Contact Us" section of this Policy. (Back to Third Party Products and Services)
+You may change your account preferences at any time by visiting the [Manage Account](https://web.archive.org/account) (account login required) section of the CFA Institute website and updating your online profile by selecting **Edit** under **Newsletters & Alerts**, or by contacting us using the information provided under the "Contact Us" section of this Policy. ([Back to Third Party Products and Services](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#third))
 
 In order to provide you with superior service, we may contact you to resolve a problem even if you have asked us not to contact you for other purposes. For example, if you are a Member and we cannot deliver your Annual Dues Bill and Professional Conduct Statement, we may contact you to verify delivery details.
 
@@ -105,7 +105,7 @@ You may request access and the opportunity to modify or delete certain portions 
 
 CFA Institute maintains reasonable and appropriate technical, physical, and administrative measures to protect the security of your Personal Information. Access to Personal Information is limited to only those employees, contractors, or authorized agents of CFA Institute who have authorization to access such Personal Information and such access is limited to the extent such information is needed to fulfill the task for which the Personal Information was collected. While we strive to protect your Personal Information, we cannot ensure the security of the information you transmit. We recommend you to take every precaution in protecting your Personal Information when you are on the internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords, and make sure you use a secure browser. 
 
-Back to top
+[Back to top](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#top)
 
 ## Links
 
@@ -123,4 +123,4 @@ If we make any material changes to our privacy practices we will post a prominen
 
 For further information about CFA Institute's privacy practices, please [contact us](https://web.archive.org/utility/contact/Pages/index.aspx).
 
-[Back to top](https://web.archive.org/Lists/Policies/top)
+[Back to top](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#top)
