@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814063632id_/http%3A//1iota.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101100id_/http%3A//1iota.com/Company/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy - 1iota
+# Privacy
+
+## Privacy Policy
 
 ### Introduction
 
@@ -31,14 +33,11 @@ We use the information we collect about you in order 1) to provide membership se
 1iota will not share any of your personally identifiable information with third parties except in the limited circumstances described below. 
 
   1. If selected for a show, 1iota will be authorized to use the information provided, to grant you access to the event and take the proper security precautions required by event staff or security (such as background checks). Background checks will only be done when attending a national security event, which will be specified in the event description. A background check will take place upon registering for that event by the respected government agency. 
-  2. We share names with affiliated nightclubs for guest-list options or table reservations, upon taking advantage of the "1iota nightlife" feature. 
-  3. We use contact information to send the user information needed to maintain their account, to contact them when necessary, and to notify them of news about our company. We also use customer contact information to send the user promotional material from some of our partners. 
-  4. Service Providers: We use 800-HOSTING to provide website hosting on our site. When you sign up for a basic membership with 1iota, we will share your “Required Information” and any “optional Information” as necessary for 800-HOSTING to provide that service. 
-  5. We share aggregated statistical data with our business partners or for public relations. We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors. However, these statistics will not include personal identifying information. 
-  6. Account information may be released when we believe, in good faith, that such release is reasonably necessary to: (1) comply with applicable law; (2) enforce or apply the terms of any of our user agreements; or (3) protect the rights, property or safety of our users and/or any third parties. 
-  7. As with any other business, it is possible that in the future 1iota could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by 1 iota, including customer account information, but would continue to be bound by this Privacy Policy unless and until it is amended as described above in the "Changes of Policy" section. 
-  8. Bulletin Boards/Chat Rooms: If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. We reserve the right to terminate the accounts of members who use these services in a manner inconsistent with our Terms & Conditions (link). 
-  9. These third parties are prohibited from using your personally identifiable information for any other purpose. 
+  2. We use contact information to send the user information needed to maintain their account, to contact them when necessary, and to notify them of news about our company. We also use customer contact information to send the user promotional material from some of our partners. 
+  3. We may provide the information you provide to us to the organizers of the events that you want to attend or that you actually attend, and they may use such information consistent with their own privacy policies which could be more permissive than the terms set forth in the 1iota Privacy Policy.
+  4. We share aggregated statistical data with our business partners or for public relations. We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors. However, these statistics will not include personal identifying information. 
+  5. Account information may be released when we believe, in good faith, that such release is reasonably necessary to: (1) comply with applicable law; (2) enforce or apply the terms of any of our user agreements; or (3) protect the rights, property or safety of our users and/or any third parties. 
+  6. As with any other business, it is possible that in the future 1iota could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by 1iota, including customer account information, but would continue to be bound by this Privacy Policy unless and until it is amended as described above in the "Changes of Policy" section. 
 
 
 
@@ -48,13 +47,13 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 
 ### Security
 
-1iota is committed to handling your membership information with a high standard of security. The security of your 1iota membership also relies on your protection of your 1 iota password/Id number. We strongly urge that you never share your 1iota password/Id number with anyone. You will only be asked for your 1iota password/ID number if you are logging in as a user. If you believe someone else has obtained access to your password, please change it immediately or request it to be changed by contacting us. These guidelines are the only understanding and agreement we have regarding your use of the site. The laws of the State of California govern these guidelines. 
+1iota is committed to handling your membership information with a high standard of security. The security of your 1iota membership also relies on your protection of your 1iota password/Id number. We strongly urge that you never share your 1iota password/Id number with anyone. You will only be asked for your 1iota password/ID number if you are logging in as a user. If you believe someone else has obtained access to your password, please change it immediately or request it to be changed by contacting us. 
 
 ### Contact Info
 
 1iota Productions LLC  
-6565 Sunset Blvd. Suite 517  
+6565 Sunset Blvd. Suite 500  
 Hollywood, CA 90028  
 [support@1iota.com](mailto:support@1iota.com)
 
-(last updated on 08/3/2012)
+(last updated on 10/30/2013)
