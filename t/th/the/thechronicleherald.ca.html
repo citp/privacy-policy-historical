@@ -1,30 +1,34 @@
-<!--The following is the downloaded HTML source of the thechronicleherald.ca privacy policy that was archived on 2013-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131224190641id_/http%3A//thechronicleherald.ca/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thechronicleherald.ca privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625095651id_/http%3A//thechronicleherald.ca/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/terms/" xmlns:dcmitype="http://purl.org/dc/terms/DCMIType/" xmlns:ctag="http://commontag.org/ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:v="http://rdf.data-vocabulary.org/#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" dir="ltr" version="XHTML+RDFa 1.0"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" defer="" async="" src="/sites/default/files/piwik/piwik.js?C"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8HWVRACwAIUlJRDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 
   <title>Privacy Policy | The Chronicle Herald</title>
   
-  <link href="https://plus.google.com/108608746427624408231" rel="publisher"><meta name="keywords" content="News,Halifax,Dartmouth,Bedford,Sackville,HRM,Media,East Coast,Halifax Regional Municipality,Chronicle Herald,daily newspaper,sports,business,entertainment,lifestyle,editorial,classifieds,vital statistics,obituaries,MacKinnon,afternoon update,breaking news">
-<meta name="description" content="The best source of local news in Nova Scotia, featuring articles from The Chronicle Herald, breaking news, sports, entertainment, business, national news, international news, weather.">
-<meta name="google-site-verification" content="3cYQCeWINa3-DAqUQIIP07tMfJDAAzRT1IBRfNlhhZA">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="canonical" href="http://thechronicleherald.ca/about/privacy-policy">
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#async=1"></script>
+  <link href="https://plus.google.com/108608746427624408231" rel="publisher"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="/sites/default/files/addthis/addthis_widget.js#async=1"></script>
 <link rel="shortcut icon" href="/sites/all/themes/chronicle_herald/ch_favicon.ico" type="image/x-icon">
+<meta name="description" content="Introduction Effective January 1, 2004, private sector organizations must follow a code for the protection of personal information in accordance with the Personal Information Protection and Electronic Documents Act (PIPEDA).">
+<meta name="dcterms.description" content="Introduction Effective January 1, 2004, private sector organizations must follow a code for the protection of personal information in accordance with the Personal Information Protection and Electronic Documents Act (PIPEDA).">
+<meta name="keywords" content="News,Halifax,Dartmouth,Bedford,Sackville,HRM,Media,East Coast,Halifax Regional Municipality,Chronicle Herald,daily newspaper,sports,business,entertainment,lifestyle,editorial,classifieds,vital statistics,obituaries,MacKinnon,afternoon update,breaking news">
+<meta name="dcterms.date" content="2014-04-14T00:00:00Z">
+<meta name="copyright" content="2011 The Halifax Herald Limited">
+<link rel="canonical" href="http://thechronicleherald.ca/about/privacy-policy">
+<meta name="revisit-after" content="1 day">
   
   <meta name="apple-itunes-app" content="app-id=372794706">
-  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_1b0f2e9e11c6cb7b8846860d9692823f.css">
-<link type="text/css" rel="stylesheet" media="screen" href="/sites/default/files/css/css_9a2824466fa3cc42315583e8ba8edb9c.css">
-<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_52ca0e7e0a72bb9ab56769dd63cfed11.css">
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_496a3598d23e5eb0660e3a0e636114f3.css">
+<link type="text/css" rel="stylesheet" media="screen" href="/sites/default/files/css/css_94a676869edc7738cc79a8a19e38854e.css">
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_d07fc3e46f74eb92b05e51bb0d912c71.css">
 
 
-  <script type="text/javascript" src="http://thechronicleherald.ca/sites/default/files/js/js_84c691de9e19a0ebbbb00f09050bc5a2.js"></script>
-<script type="text/javascript" defer="defer" src="/sites/all/modules/custom/herald_metre/js/mtr.js?U"></script>
+  <script type="text/javascript" src="http://thechronicleherald.ca/sites/default/files/js/js_d5774b6b3e5ff74c4f4475a9f3cfd406.js"></script>
+<script type="text/javascript" defer="defer" src="/sites/all/modules/custom/herald_metre/js/mtr.js?C"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/adtech/lotame_kvs.js?1403690212"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","cacheControl":{"processAnonymousCaptchaForms":true},"automodal":{".automodal":{"autoFit":true,"draggable":true,"width":600,"height":400,"automodalClose":true,"automodalReload":false}},"fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/default\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\u003e\u003ckbd\u003ex\u003c\/kbd\u003e\u003c\/a\u003e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":0,"slideshow_automatic_exit":0,"show_play_pause":1,"pause_on_next_click":1,"pause_on_previous_click":1,"loop_slides":0,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0},"addthis":{"config_default":{"services_toolbox":"facebook,twitter,linkedin,compact","services_compact":"","services_expanded":"","ui_cobrand":"","ui_header_color":"#000000","ui_header_background":"#FFFFFF","ui_click":0,"ui_delay":"500","ui_use_addressbook":0,"pubid":"chjhurst","data_track_clickback":true,"data_ga_tracker":"pageTracker","ui_use_css":true,"data_use_cookies":true,"data_ga_property":"UA-3350707-1","ui_language":"en","data_ga_social":true,"data_use_flash":true},"share_default":{"passthrough":{"twitter":{"via":"ChronicleHerald"}},"url_transforms":{"clean":true,"shorten":{"twitter":"bitly"}}}},"herald_metre":{"pv":0,"nid":"545","max_points":"10","overlay_title":"","subscribers_only":"","harass":["3","7"],"activate_url":"https:\/\/myherald.thechronicleherald.ca\/access.aspx","page_title":"Privacy Policy","logged_in":0,"mobi":false}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","automodal":{".automodal":{"autoFit":true,"draggable":true,"width":600,"height":400,"automodalClose":true,"automodalReload":false}},"fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/default\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\u003e\u003ckbd\u003ex\u003c\/kbd\u003e\u003c\/a\u003e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":0,"slideshow_automatic_exit":0,"show_play_pause":1,"pause_on_next_click":1,"pause_on_previous_click":1,"loop_slides":0,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0},"addthis":{"config_default":{"services_toolbox":"facebook,twitter,linkedin,compact","services_compact":"","services_expanded":"","ui_cobrand":"","ui_header_color":"#000000","ui_header_background":"#FFFFFF","ui_click":0,"ui_delay":"500","ui_use_addressbook":0,"pubid":"chjhurst","data_track_clickback":true,"data_ga_tracker":"pageTracker","ui_use_css":true,"data_use_cookies":true,"data_ga_property":"UA-3350707-1","ui_language":"en","data_ga_social":true,"data_use_flash":true},"share_default":{"passthrough":{"twitter":{"via":"chronicleherald"}},"url_transforms":{"clean":true,"shorten":{"twitter":"bitly"}}}},"herald_metre":{"pv":0,"nid":"545","max_points":"10","overlay_title":"","subscribers_only":"","harass":["3","7"],"activate_url":"https:\/\/myherald.thechronicleherald.ca\/access.aspx","page_title":"Privacy Policy","logged_in":0,"mobi":false}});
 //--><!]]>
 </script>
 <script type="text/javascript">
@@ -35,36 +39,47 @@ addthis_config = Drupal.settings.addthis.config_default; addthis_share = Drupal.
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
     /** START adtech **/
+            
+    function referNormalizer(refer)
+        {
+            refer = refer.replace(/http(s)*:\/\/(www\.)*/g,"");
+            refer = refer.replace(/\/.*/g,"");
+            
+            if(refer == "t.co" || refer == "thech.ca")
+            {
+              return "twitter";
+            }
+            else if(refer.indexOf(".com") > -1 || refer.indexOf(".ca") > -1)
+            {
+              refer = refer.substring(0,refer.lastIndexOf("."));
+              if(refer.indexOf(".") > -1)
+              {
+                refer = refer.substring(refer.indexOf(".")+1,refer.length);
+              }
+            }
+            else if(refer.indexOf(".ly") > -1)
+            {
+              refer = refer.replace(".","");
+            }
+            return refer;
+        }
     var adtech_alias_pre = 'main_about-privacy-policy_page';
-    jsRefer = document.referrer;
+    // JH - this var is used in the video player js to link ads when called from video play        
+    var adtech_grp = '205017115';        
+    jsRefer = referNormalizer(document.referrer);
     var keywords = '';
     aliases = 'main_about-privacy-policy_page_top_728x90,main_about-privacy-policy_page_bottom_728x90,main_about-privacy-policy_page_top_300x250,main_about-privacy-policy_page_top_special,main_about-privacy-policy_page_top_skin';
-    document.write('<scr'+'ipt type="text/javascript" src="http://adserver.adtechus.com//multiad/3.0/5456.1/0/0/-1/ADTECH;mode=multiad;alias='+aliases+';grp=54218718;key='+keywords+';loc=100;kvsub=0;kvref='+jsRefer.substring(7,54)+';target=_blank;misc='+new Date().getTime()+'"></scri'+'pt>');   
+    var adtech_url = 'http://adserver.adtechus.com//multiad/3.0/5456.1/0/0/-1/ADTECH;mode=multiad;alias='+aliases+';grp=205017115;key='+keywords+';loc=100;kvsub=0;kvref='+jsRefer+';target=_blank;KVabbr='+window.adtechCCvals+';misc='+new Date().getTime();
+    document.write('<scr'+'ipt type="text/javascript" src="' + adtech_url + '"></scri'+'pt>');   
     /** END adtech **/
     
-    // JH - added for saymedia variable height BB
-      function smBackfillLoaded(adContainerElem) {
-            adContainerElem.style.height = "250px"; 
-            adContainerElem.style.width = "300px"; 
-      }
 //--><!]]>
-</script><script type="text/javascript" src="http://adserver.adtechus.com//multiad/3.0/5456.1/0/0/-1/ADTECH;mode=multiad;alias=main_about-privacy-policy_page_top_728x90,main_about-privacy-policy_page_bottom_728x90,main_about-privacy-policy_page_top_300x250,main_about-privacy-policy_page_top_special,main_about-privacy-policy_page_top_skin;grp=54218718;key=;loc=100;kvsub=0;kvref=;target=_blank;misc=1580376499675"></script>
-  
+</script><script type="text/javascript" src="http://adserver.adtechus.com//multiad/3.0/5456.1/0/0/-1/ADTECH;mode=multiad;alias=main_about-privacy-policy_page_top_728x90,main_about-privacy-policy_page_bottom_728x90,main_about-privacy-policy_page_top_300x250,main_about-privacy-policy_page_top_special,main_about-privacy-policy_page_top_skin;grp=205017115;key=;loc=100;kvsub=0;kvref=;target=_blank;KVabbr=undefined;misc=1580376501170"></script>
+ 
   <script type="text/javascript" src="/sites/all/themes/chronicle_herald/js/jquery.expander.js"></script>
   <script type="text/javascript" src="/sites/all/themes/chronicle_herald/js/chronicle_herald.js"></script>
-  <script type="text/javascript" src="/sites/all/themes/chronicle_herald/js/taboola-header.js"></script>
-  <script>
-    $(document).ready(function() {
-      if ($('body').hasClass('node-type-article')) {
-        doTaboola('article');  
-        console.log('in here');
-      } else if($('body').hasClass('page-videos')) {
-        doTaboola('video');
-        console.log('not in here');
-      }
-    });    
+  
 
-  </script>
   <!--[if gte IE 6]><link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/openpublish_theme/css/fix-ie.css" /><![endif]-->
   <!--[if IE 6]>
   <link type="text/css" rel="stylesheet" media="all" href="/##path_not_found##" />  <style type="text/css" media="all">
@@ -79,37 +94,7 @@ addthis_config = Drupal.settings.addthis.config_default; addthis_share = Drupal.
     <div id="outer-wrapper">
   <div id="wrapper">
 
-  <!-- proxy-debug: 10.10.130.2:10.10.130.79:1387910702 -->
-
-<!-- server-debug: sn:thechronicleherald.ca: sh:thechronicleherald.ca: bu:http://thechronicleherald.ca -->
-
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-3350707-1']);
-_gaq.push(['_trackPageview']);
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
-
-ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script>
-
-
-<!-- Begin comScore Tag -->
-<script type="text/javascript">
-  var _comscore = _comscore || [];
-  _comscore.push({ c1: "2", c2: "13184261" });
-  (function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-  })();
-</script>
-<!-- End comScore Tag -->
-
-<div id="top-menu" class="clearfix">
+  <div id="top-menu" class="clearfix">
 
       <div class="menu-top-menu cufon">
       <ul class="menu"><li class="leaf first even"><a href="https://myherald.thechronicleherald.ca/access.aspx?premium=y&amp;product=eeditionDT" class="popup" target="_blank">Today's E-Paper</a></li>
@@ -117,15 +102,15 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <li class="leaf even"><a href="http://thechronicleherald.ca/flyers">E-Flyers</a></li>
 <li class="leaf odd"><a href="/coupons">Coupons</a></li>
 <li class="leaf even"><a href="/announcements/obituaries/date">Obituaries</a></li>
-<li class="leaf odd"><a href="/contests" title="">Contests</a></li>
-<li class="leaf even"><a href="/about/contact-us">Contact</a></li>
+<li class="leaf odd"><a href="/contests">Contests</a></li>
+<li class="leaf even"><a href="/herald-events">Herald Events</a></li>
 <li class="leaf odd"><a href="http://thechronicleherald.ca/beanstream/bstream_preform.php" class="popup">Pay Your Account</a></li>
 <li class="leaf even"><a href="http://thechronicleherald.mobi/" target="_blank">Mobile</a></li>
 <li class="leaf last odd"><a href="/customcontent">Custom Content</a></li>
 </ul>    </div><!-- /.menu-top-menu -->
   
   <div id="top-menu-right">
-    <div id="top-menu-todays-date">Tue, December 24th, 2013</div><!-- /#top-menu-todays-date -->
+    <div id="top-menu-todays-date">Wed, June 25th, 2014</div><!-- /#top-menu-todays-date -->
     <div id="top-menu-update-status"></div><!-- /#top-menu-update-status -->
     <!-- AddThis Button BEGIN -->
     <div id="top-menu-social" class="addthis_toolbox addthis_default_style">
@@ -142,7 +127,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 
     </div>
-    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=chjhurst"></script>   
   </div><!-- /#top-menu-right -->
 
 </div><!-- /#top-menu -->
@@ -153,12 +137,12 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
   <div id="weather_widget">
     <div class="weather">
   <div class="weather-image">
-  <img src="/sites/all/themes/chronicle_herald/images/weather/day-overcast.png" width="120" height="120" alt="Overcast" title="Overcast">
+  <img src="/sites/all/themes/chronicle_herald/images/weather/night-overcast.png" width="120" height="120" alt="Overcast" title="Overcast">
   </div>
   <div class="weather-text">
     <span class="weather-location">Halifax</span>
 	
-    <span class="weather-temp"><span style="white-space:nowrap;">-1 °C</span></span> <span class="weather-condition">Overcast</span>  </div>
+    <span class="weather-temp"><span style="white-space:nowrap;">16 °C</span></span> <span class="weather-condition">Overcast</span>  </div>
 </div>
   </div><!-- /#weather-widget -->
     <div id="search_box_wrapper">
@@ -175,7 +159,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <div><div id="search" class="clearfix"><div class="form-item" id="edit-search-theme-form-1-wrapper">
  <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
 </div>
-<input type="hidden" name="form_build_id" id="form-fde655849ad944973b495ef65a1068b9" value="form-fde655849ad944973b495ef65a1068b9">
+<input type="hidden" name="form_build_id" id="form-c007812ebe1287b872cd257696b8148e" value="form-c007812ebe1287b872cd257696b8148e">
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
 <div id="top-search-button"><input type="submit" name="op" id="" value="search" class="form-submit">
 </div></div>
@@ -217,12 +201,13 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         <a href="/" class="first-level">Home</a>                
                   <ul class="second-level">          
                                         <li><span class="no-link"><span>In Depth:</span></span></li>
+                                        <li><a href="/fifa2014"><span>2014 FIFA World Cup</span></a></li>
+                                        <li><a href="/burned"><span>Burned</span></a></li>
+                                        <li><a href="/tags/ivany-report"><span>Ivany Report</span></a></li>
                                         <li><a href="/careincrisis"><span>Care In Crisis</span></a></li>
-                                        <li><a href="/tags/nova-scotia-a-z"><span>Nova Scotia A-Z</span></a></li>
                                         <li><a href="/tags/nova-scotia-home-colored-children"><span>N.S. Home for Colored Children</span></a></li>
                                         <li><a href="/heraldmagazine"><span>Herald Magazine</span></a></li>
                                         <li><a href="/artslife/thenovascotian"><span>The Novascotian</span></a></li>
-                                        <li><a href="/titanic"><span>Titanic</span></a></li>
                       </ul>
               </li>
       
@@ -232,6 +217,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         <a href="/news" class="first-level">News</a>                
                   <ul class="second-level">          
                                         <li><a href="/news/metro"><span>Metro</span></a></li>
+                                        <li><a href="/cape-breton"><span>Cape Breton</span></a></li>
                                         <li><a href="/news/novascotia"><span>Nova Scotia</span></a></li>
                                         <li><a href="/news/canada"><span>Canada</span></a></li>
                                         <li><a href="/news/world"><span>World</span></a></li>
@@ -259,6 +245,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                   <ul class="second-level">          
                                         <li><a href="/business"><span>Business News</span></a></li>
                                         <li><a href="/business/columns"><span>Business Columns</span></a></li>
+                                        <li><a href="/business/shelf-life"><span>Shelf Life</span></a></li>
                       </ul>
               </li>
       
@@ -269,12 +256,13 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                   <ul class="second-level">          
                                         <li><a href="/sports"><span>Sports News</span></a></li>
                                         <li><a href="/sports/columns"><span>Sports Columns</span></a></li>
-                                        <li><a href="/mooseheads"><span>Halifax Mooseheads</span></a></li>
+                                        <li><a href="/fifa2014"><span>2014 FIFA World Cup</span></a></li>
+                                        <li><a href="/mooseheads"><span>Mooseheads</span></a></li>
+                                        <li><a href="/sports/screaming-eagles-video"><span>Screaming Eagles</span></a></li>
                                         <li><a href="/sports/highschool"><span>High School</span></a></li>
                                         <li><a href="/sports/nhl-video"><span>NHL</span></a></li>
                                         <li><a href="/sports/golf-video"><span>Golf</span></a></li>
-                                        <li><a href="/sports/motor-racing-video"><span>Motor Racing</span></a></li>
-                                        <li><a href="/sports/nfl-video"><span>NFL</span></a></li>
+                                        <li><a href="/sports/motor-racing-video"><span>Racing</span></a></li>
                                         <li><a href="/sports/soccer-video"><span>Soccer</span></a></li>
                       </ul>
               </li>
@@ -332,7 +320,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                                         <li><a href="/community/dartmouth"><span>Dartmouth</span></a></li>
                                         <li><a href="/community/bedford-sackville"><span>Bedford &amp; Sackville</span></a></li>
                                         <li><a href="/community/annapolis-valley"><span>Annapolis Valley</span></a></li>
-                                        <li><a href="/community/featured-content"><span>Featured Content</span></a></li>
+                                        <li><a href="/community/south-shore"><span>South Shore</span></a></li>
+                                        <li><a href="/community/cape-breton"><span>Cape Breton</span></a></li>
+                                        <li><a href="/community/columnists"><span>Columnists</span></a></li>
                                         <li><a href="/community/photos"><span>Photos</span></a></li>
                                         <li><a href="/events"><span>Events</span></a></li>
                       </ul>
@@ -728,7 +718,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
               <div class="ch-footer-menu"><ul class="menu"><li class="leaf first odd"><a href="https://myherald.thechronicleherald.ca/access.aspx?premium=y&amp;product=eeditionDT">Today's E-Paper</a></li>
 <li class="leaf even"><a href="http://thechronicleherald.ca/classifieds">Classifieds</a></li>
 <li class="leaf odd"><a href="http://thechronicleherald.ca/newspaper/circulation">Circulation</a></li>
-<li class="leaf even"><a href="/newspaper/nieord">Herald in Education Program</a></li>
+<li class="leaf even"><a href="http://thechronicleherald.ca/hie">Herald in Education Program</a></li>
 <li class="leaf odd"><a href="/become-a-chronicle-herald-retailer">Become a Chronicle Herald Retailer</a></li>
 <li class="leaf even"><a href="http://thechronicleherald.ca/forms/south-shore-calendar">South Shore Calendar</a></li>
 <li class="leaf odd"><a href="https://myherald.thechronicleherald.ca/dsssubscribe.aspx" title="Subscribe to The Chronicle Herald" target="_top">Subscribe</a></li>
@@ -754,10 +744,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
           <div id="ch-footer-advertising-menu">
               <div class="ch-footer-menu-header cufon">Advertising</div><!-- /#ch-footer-menu-header -->
-              <div class="ch-footer-menu"><ul class="menu"><li class="leaf first even"><a href="http://thechronicleherald.ca/advertising/advertising-sales">Advertising Sales</a></li>
-<li class="leaf odd"><a href="http://thechronicleherald.ca/advertising/web-advertising">Web Advertising</a></li>
+              <div class="ch-footer-menu"><ul class="menu"><li class="leaf first even"><a href="http://heraldmediakit.com/about-us/contact-us">Advertising Sales</a></li>
+<li class="leaf odd"><a href="http://heraldmediakit.com">Advertising Media Kit</a></li>
 <li class="leaf even"><a href="http://thechronicleherald.ca/advertising/ad-specs">Ad Specs</a></li>
-<li class="leaf last odd"><a href="http://thechronicleherald.ca/beanstream/bstream_preform.php" class="popup">Pay Your Account</a></li>
+<li class="leaf last odd"><a href="https://www.thechronicleherald.ca/beanstream/bstream_preform.php" class="popup">Pay Your Account</a></li>
 </ul></div><!-- /.ch-footer-menu -->
           </div><!-- /#ch-footer-advertising-menu -->
 
@@ -771,9 +761,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
           <div id="ch-footer-games-menu">
               <div class="ch-footer-menu-header cufon">Fun &amp; Games</div><!-- /#ch-footer-menu-header -->
-              <div class="ch-footer-menu"><ul class="menu"><li class="leaf first odd"><a href="http://thechronicleherald.ca/game/crossword" title="Do the Crossword" class="popup" target="_blank">Crossword</a></li>
+              <div class="ch-footer-menu"><ul class="menu"><li class="leaf first odd"><a href="http://thechronicleherald.ca/game/crossword" title="Do the Crossword">Crossword</a></li>
 <li class="leaf even"><a href="https://www.alc.ca/" target="_blank">Lotteries</a></li>
-<li class="leaf odd"><a href="http://thechronicleherald.ca/game/sudoku" title="Play Sudoku!" class="popup" target="_blank">Sudoku</a></li>
+<li class="leaf odd"><a href="http://thechronicleherald.ca/game/sudoku" title="Play Sudoku!">Sudoku</a></li>
 <li class="leaf last even"><a href="/contests">Contests</a></li>
 </ul></div><!-- /.ch-footer-menu -->
           </div><!-- /#ch-footer-games-menu -->
@@ -785,11 +775,11 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
           <div id="ch-footer-useful-information-menu">
               <div class="ch-footer-menu-header cufon">Useful Information</div><!-- /#ch-footer-menu-header -->
               <div class="ch-footer-menu"><ul class="menu"><li class="leaf first odd"><a href="/catalog">Herald Shop</a></li>
-<li class="leaf even"><a href="http://thechronicleherald.ca/flyers">E-Flyers</a></li>
-<li class="leaf odd"><a href="http://thechronicleherald.ca/traffic-cams">N.S. Highway Cams</a></li>
-<li class="leaf even"><a href="http://thechronicleherald.ca/artslife/astrological-forecast">Horoscope</a></li>
-<li class="leaf odd"><a href="http://www.alc.ca" target="_blank">Lotteries</a></li>
-<li class="leaf even"><a href="http://www.waterlevels.gc.ca/eng/find/region/5" target="_blank">Tides</a></li>
+<li class="leaf even"><a href="http://thechronicleherald.ca/apps">Mobile Apps</a></li>
+<li class="leaf odd"><a href="http://thechronicleherald.ca/flyers">E-Flyers</a></li>
+<li class="leaf even"><a href="http://thechronicleherald.ca/traffic-cams">N.S. Highway Cams</a></li>
+<li class="leaf odd"><a href="http://thechronicleherald.ca/artslife/astrological-forecast">Horoscope</a></li>
+<li class="leaf even"><a href="http://www.alc.ca" target="_blank">Lotteries</a></li>
 <li class="leaf odd"><a href="http://www.weatheroffice.ec.gc.ca/city/pages/ns-19_metric_e.html" target="_blank">Weather</a></li>
 <li class="leaf even"><a href="/artslife/whatshappening">What's Happening</a></li>
 <li class="leaf odd"><a href="/artslife/tv-guide" target="_blank">TV Listings</a></li>
@@ -813,11 +803,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 </div> <!-- /#outer-wrapper -->
 
-<script type="text/javascript">
-  ADTECH_showAd(adtech_alias_pre + '_top_skin', document, false);
-</script>
-
-<style type="text/css">
+<div class="adtech adtech_top_skin"><script type="text/javascript">ADTECH_showAd(adtech_alias_pre + '_top_skin', document, false);</script></div><style type="text/css">
   .takeover-sidebar{
     position: absolute;
     top: 0px;
@@ -834,6 +820,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
   #take-over-right{
     float: right;
     right: 0;
+  }
+
+  .adtech.top_billboard {
+    text-align:center;
   }
 
 </style>
@@ -892,17 +882,73 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     }
   });
 
+  // JH - added for saymedia variable height BB
+  function smBackfillLoaded(adContainerElem) {
+        adContainerElem.style.height = "250px"; 
+        adContainerElem.style.width = "300px"; 
+  }
+
+
 </script>
 
+<div class="adtech adtech_top_special"><script type="text/javascript">ADTECH_showAd(adtech_alias_pre + '_top_special', document, false);</script></div><!-- /layout -->
+
+<!-- proxy-debug: 10.6.167.2:10.6.167.10:1403690212 -->
+
+<!-- server-debug: sn:thechronicleherald.ca: sh:thechronicleherald.ca: bu:http://thechronicleherald.ca -->
+
+<!-- Begin google analytics Tag -->
 <script type="text/javascript">
-  //voken ad & page crawler/slider ad
-  ADTECH_showAd(adtech_alias_pre + '_top_special', document, false);
-</script>
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-3350707-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
 
-<!-- /layout -->
-<script src="https://tags.crwdcntrl.net/c/3904/cc.js?ns=_cc3904" id="LOTCC_3904"></script>
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- End google analytics Tag -->
+
+<!-- Begin Lotame Tag -->
+<script src="https://tags.crwdcntrl.net/c/3904/cc.js?ns=_cc3904 " id="LOTCC_3904"></script>
 <script>
 _cc3904.bcp();
+</script>
+
+<script>var mastID='-1'; var subLev='-1'</script><!-- End Lotame Tag -->
+
+<script type="text/javascript" src="http://thechronicleherald.ca/sites/default/files/clickheat/js/clickheat.js"></script><script type="text/javascript"><!--
+clickHeatSite = 'thechronicleherald.ca';clickHeatGroup = encodeURIComponent(window.location.pathname+window.location.search);clickHeatServer = 'http://thechronicleherald.ca/sites/default/files/clickheat/click.php';initClickHeat(); //-->
+</script>
+<script type="text/javascript" src="/sites/all/themes/chronicle_herald/js/taboola-header.js"></script>
+  <script>
+    $(document).ready(function() {
+      if (($('#taboola-below-main-column-mix'))||($('#taboola-right-rail-mix'))) {
+        if ($('body').hasClass('node-type-article')||$('body').hasClass('node-type-community-article')) {
+          doTaboola('article');  
+        } else if($('body').hasClass('page-videos')) {
+          doTaboola('video');
+          $('.jspPane').children().click(function() {
+            var clss = $(this).attr('class');
+            clss = clss.split(' ');
+            clss = clss[1].replace('video_','');
+            _taboola.push({notify: 'videoPlay', url: 'http://thechronicleherald.ca/videos/news/'+clss});
+          });
+        }
+      }
+    });    
+
+  </script>
+
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "" : "http://piwik.thechronicleherald.ca/");_paq.push(["setSiteId", "1"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(['setCustomVariable', 1, 'ID', mastID, 'visit']);
+_paq.push(['setCustomVariable', 2, 'sub', subLev, 'visit']);_paq.push(["trackPageView"]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src="/sites/default/files/piwik/piwik.js?C";s.parentNode.insertBefore(g,s);})();
+//--><!]]>
 </script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
@@ -914,6 +960,6 @@ if (typeof addthis_config != "undefined" && typeof pageTracker != "undefined") {
 if (typeof addthis != "undefined") {addthis.init();}
 //--><!]]>
 </script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"f4c7cc9558","applicationID":"3386339","transactionName":"ZVcGNxMCXRFSBhZfXFwdJQAVClwMHBUDUVZtXwUNAARWEGwLDVJWbUQNBhY=","queueTime":0,"applicationTime":368,"ttGuid":"","agentToken":"","atts":"SRAFQVsYTh8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
