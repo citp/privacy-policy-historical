@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remarkety.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225000201id_/http%3A//remarkety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remarkety.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102321id_/http%3A//www.remarkety.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,6 +40,6 @@ Interamind may update this Privacy Policy from time to time - we encourage you t
 
  **Comments and Questions**
 
-If you have any comments or questions about our privacy policy, please contact us at: [ ](mailto:%20%3Cscript%20type='text/javascript'%3Evar%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy70656%20=%20'info'%20+%20'@';%20addy70656%20=%20addy70656%20+%20'remarkety'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy70656%20+%20'\\'%3E'\);%20document.write\(addy70656\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%3C/script%3E%3Cscript%20type='text/javascript'%3Edocument.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3Edocument.write\('%3C/'\);%20document.write\('span%3E'\);%3C/script%3E.)[info@remarkety.com](mailto:info@remarkety.com).
+If you have any comments or questions about our privacy policy, please contact us at: [ ](mailto:%20%3Cscript%20type='text/javascript'%3Evar%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy9936%20=%20'info'%20+%20'@';%20addy9936%20=%20addy9936%20+%20'remarkety'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy9936%20+%20'\\'%3E'\);%20document.write\(addy9936\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%3C/script%3E%3Cscript%20type='text/javascript'%3Edocument.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3Edocument.write\('%3C/'\);%20document.write\('span%3E'\);%3C/script%3E.)[info@remarkety.com](mailto:info@remarkety.com).
 
  _Last updated: January 2013_
