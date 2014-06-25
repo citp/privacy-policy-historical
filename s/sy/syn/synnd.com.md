@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synnd.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208123451id_/http%3A//synnd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synnd.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090613id_/http%3A//synnd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Synnd: The Content Marketing Engine
 
