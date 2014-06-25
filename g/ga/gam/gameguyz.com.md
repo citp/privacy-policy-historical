@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gameguyz.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218195944id_/http%3A//www.gameguyz.com/page/privacy-policy-for-gameguyz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameguyz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233301id_/http%3A//www.gameguyz.com/page/privacy-policy-for-gameguyz.html) for the most accurate reproduction.*
 
 # Privacy Policy for gameguyz
 
 **Privacy Policy for gameguyz**
 
- Gameguyz is promise to protecting your privacy. You accept this policy and agree with it when you sign up to be an on-line visitor of our website. We have adopted a companywide On-Line Privacy Policy that guides how we collect, store, and use the information you provide us.
+Gameguyz is promise to protecting your privacy. You accept this policy and agree with it when you sign up to be an on-line visitor of our website. We have adopted a companywide On-Line Privacy Policy that guides how we collect, store, and use the information you provide us.
 
 ## What information we collect and why we collect it?
 
@@ -30,12 +30,6 @@ You can change your subscription to our website by updating your account profile
 
 GAMEGUYZ.COM may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on our company or the site; (b) protect and defend the rights or property of our company, including the GAMEGUYZ.COM Web site; or (c) act under exigent circumstances to protect the personal safety of users of GAMEGUYZ.COM, its web sites, or the public.
 
-**How do we use your content?**
-
-We provide you with some services that allow you to submit content. You will own the intellectual property rights of the content. That is to say, what belongs to you stays yours. We will also provide you some services to access and remove content. In some of our services, there are terms or settings that narrow the scope of our use of the content submitted in those services. Please make sure you have the necessary rights to grant us the license for any content you submit to our Services.
-
-You can find more details about how Gameguyz uses and stores content in the privacy policy or additional terms for particular services. If you submit feedback or suggestions about our services, we may use your feedback or suggestions without obligation to you.
-
 ## How do we use the cookies?
 
 When you access our website, small data files called "cookies" may be placed on your computer by us, or companies we hire to track how our website is used.
@@ -57,6 +51,26 @@ Whenever you use our services, we aim to provide you with access to your persona
 We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical.
 
 Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
+
+## Notice Concerning Children
+
+Gameguyz is a general audience site, and does not direct any of the content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children's privacy online, and as such do not knowingly collect any personal information from any user under age 13. We will promptly delete any personal information in that user's Account if we learn or have reason to suspect that a Site user is under age 13. 
+
+## Website Areas beyond Our Control
+
+Gameguyz includes a section for interactive “forums” to which users with an Account may post. Please keep in mind that any information that is disclosed in the Forums becomes public information in which you relinquish any expectation of privacy. Remember that Gameguys asks that you not disclose any personal information when posting in the Forums, and you should exercise caution when deciding what information to share. We reserve the right, but shall have no obligation, to monitor your use of the Forums.
+
+Gameguyz contains links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies. 
+
+## Security
+
+Gameguyz has security measures in place to help protect against the loss, misuse, and alteration of the information that we obtain from you. We store your personal information on our servers. In addition, we restrict access to personal information to Gameguyz employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Site. However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us through the use of Gameguyz and we make no assurances about our ability to prevent any such loss or misuse to you or to any third party. You acknowledge and agree that you provide such information and engage in such transmissions at your own risk.
+
+## Service Providers
+
+We may share your personal information with service providers that we engage for the purpose of processing information on our and your behalf, such as to fulfill product orders, collect billing information and process payments.
+
+To the extent applicable, we require these entities to comply with this Policy and appropriate confidentiality and security measures. Some of the pages within Gameguyz utilize masking techniques to serve content to you from our partners while preserving the look and feel of our Site. Please be aware that you are providing your personal information to these third parties, and are doing so pursuant to the third party’s privacy policy. 
 
 ## Enforcement
 
