@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trackingtime.co privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805130754id_/http%3A//trackingtime.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackingtime.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625185208id_/http%3A//www.trackingtime.co/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tracking Time
 
-This privacy policy (“ **Policy** ”) describes how Tracking Time LLC and its related companies (“ **Company** ”) collect, use and share personal information of consumer users of this website, http://trackingtime.co (the “ **Site** ”). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
+This privacy policy (“ **Policy** ”) describes how Tracking Time LLC and its related companies (“ **Company** ”) collect, use and share personal information of consumer users of this website, https://trackingtime.co (the “ **Site** ”). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
 
 **WHAT WE COLLECT**
 
