@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the hoopla.net privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121071353id_/http%3A//www.hoopla.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoopla.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054632id_/http%3A//www.hoopla.net/privacy) for the most accurate reproduction.*
 
 # Hoopla | Motivate Employees and Drive Sales Performance Through Gamification
 
 #### Hoopla Software Privacy Policy
 
-##### February 7, 2013
+##### February 10, 2014
 
 The privacy of your personal information is very important to us.  This statement outlines what personal information Hoopla Software, Inc. ("Hoopla") collects about you and how we use it in the Hoopla software, widgets, products and services, and our website located at [www.hoopla.net](http://www.hoopla.net/) (the “Site”) (collectively, the “Service”). If you have any questions or concerns relating to privacy or security, please send an email to [privacy@hoopla.net](mailto:privacy@hoopla.net)
 
 [](https://privacy.truste.com/privacy-seal/Hoopla-Software,-Inc-/validation?rid=ca3917e0-7746-42f1-b5cf-85fe8d907fc5 "Validate TRUSTe privacy certification")
 
-Hoopla has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy) and the TRUSTed [Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site and our service, and does not cover information which may be collected through downloaded software. The TRUSTe certification TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@hoopla.net. If you are not satisfied with our response you can contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
+Hoopla has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program-requirements) and the TRUSTed [Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site (www.hoopla.net) and our service, and does not cover information which may be collected through downloaded software. The TRUSTe certification TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@hoopla.net. If you are not satisfied with our response you can contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
 
 Hoopla complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries. Hoopla has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Hoopla’s certification, please visit http://www.export.gov/safeharbor. 
 
@@ -60,6 +60,8 @@ In addition, we will share your personal information with Salesforce.com to enab
 
 We use other third parties such as an email service provider to send out emails on our behalf. When you sign up for our services, we will share your personal information only as necessary for the third party to provide that service. 
 
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [support@hoopla.net](mailto:support@hoopla.net). 
+
 Beyond the uses described in this Privacy Policy, Hoopla will not disclose to third parties any personal information gathered from you unless (a) you give us permission to share your personal information, (b) we are required to disclose such information by any applicable law or legal process (like a subpoena or court order) or (c) it is necessary to (i) protect and defend the rights or property of Hoopla, (ii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iii) protect against legal liability. If Hoopla intends on using any personal information in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the personal information is collected. Security
 
 Hoopla utilizes generally-accepted security measures (such as encryption) to protect against the misuse or unauthorized disclosure of any sensitive personal information you submit to us (such as log in information). However, like other Internet sites, we cannot guarantee that it is completely secure against attempts to evade security measures or intercept transmissions over the Internet. You are responsible for maintaining the security of your username and password for the Service.
@@ -69,6 +71,10 @@ Cookies
 Cookies are pieces of data stored on your computer's hard drive by a Web site. Cookies are an industry standard and used by most major Web sites to improve their services. We tie personal information you provide to us to cookies. Hoopla uses cookies for user convenience. The cookie will tell our system certain information so you don't have to fill in the same information each time you visit us. 
 
 The cookie feature can be turned off on your browser. For more information on turning off the cookie feature, consult your browser "Help" section. If you choose to turn off cookies, you can still access the Service, but you may not be able to utilize all of its features. In addition, you might have to "refuse" a cookie each time you encounter one searching the Service. 
+
+The use of cookies by our [partners, affiliates, tracking utility company, service providers] [is/is not] covered by our privacy policy. We [do/do not] have access or control over these cookies. Our [partners, affiliates, tracking utility company, service providers] use session ID cookies [to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.] 
+
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do [not] tie the information gathered to our Customers’ or Users’ personally identifiable information. 
 
 IP Addresses
 
@@ -82,13 +88,25 @@ Your Choices
 
 You can use the Site without providing any personal information. If you choose not to provide any personal information, you may not be able to use certain parts of the Service. Access To Personal Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page or by emailing our Customer Support at [support@hoopla.net](mailto:support@hoopla.net) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page or by emailing our Customer Support at [support@hoopla.net](mailto:support@hoopla) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Testimonials
 
 We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at [privacy@hoopla.net](mailto:privacy@hoopla.net)
+
+Testimonials
+
+We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at privacy@hoopla.net 
+
+Blogs
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+Social Media Features and Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
 Other Web Sites and Content
 
@@ -101,6 +119,10 @@ This privacy policy applies only to personal information collected by Hoopla thr
 
 Your access to and use of this Site and the Service is subject to the Hoopla Terms of Use. 
 
+Changes to this Policy
+
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. You are bound by changes to the Privacy Policy when you use the site after those changes have been posted. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. This Privacy Policy was last updated on the date indicated above. 
+
   
 
 
@@ -108,6 +130,6 @@ Your access to and use of this Site and the Service is subject to the Hoopla Ter
 
 ##### 
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Site, please contact us at [privacy@hoopla.net](mailto:privacy@hoopla.net) or via postal mail at 84 W. Santa Clara Street, Suite 750, San Jose, CA 95113
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Site, please contact us at [privacy@hoopla.net](mailto:privacy@hoopla.net.) or via postal mail at 84 W. Santa Clara Street, Suite 750, San Jose, CA 95113
 
-[< Back To The Fun!!](https://web.archive.org/)
+[< Back To The Fun!!](https://web.archive.org/web/20140625054632id_/http%3A//www.hoopla.net/index.php)
