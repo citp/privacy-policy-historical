@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slingshot.co.nz privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113013423id_/http%3A//slingshot.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slingshot.co.nz privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123351id_/http%3A//slingshot.co.nz/privacy) for the most accurate reproduction.*
 
-# 
+# Slingshot Privacy Policy
 
 ## The following provides a summary of how we hold and use your information:
 
