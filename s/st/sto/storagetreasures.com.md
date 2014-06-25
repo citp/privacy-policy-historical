@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storagetreasures.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115022230id_/http%3A//www.storagetreasures.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storagetreasures.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104647id_/http%3A//www.storagetreasures.com/info/privacy) for the most accurate reproduction.*
 
 # Storage Auctions Privacy
 
@@ -40,8 +40,8 @@ Sharing and Disclosure of Information StorageTreasures.com Collects Except as ot
 
 Changes in Our Privacy Policy From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site to make users aware of the changes. This allows users to be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when they use the site after such changes have been posted. If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection, we will notify users by posting a notice on our Web site for 30 days.
 
-Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [privacy@StorageTreasures.com](mailto:privacy@StorageTreasures.com "privacy@StorageTreasures.com") (500 Damonte Ranch Pkwy #1008, Reno, NV 89521).
+Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [privacy@StorageTreasures.com](mailto:privacy@StorageTreasures.com "privacy@StorageTreasures.com") (6991 E Camelback Rd, Suite C302, Scottsdale, AZ 85251).
 
-Use of this Web site constitutes acceptance of the StorageTreasures.com [Terms of Use](http://www.storagetreasures.com/info/terms) and [Privacy Policy](http://www.storagetreasures.com/info/privacy).
+Use of this Web site acceptance of the StorageTreasures.com [Terms of Use](http://www.storagetreasures.com/info/terms) and [Privacy Policy](http://www.storagetreasures.com/info/privacy).
 
 Rev. 9/12
