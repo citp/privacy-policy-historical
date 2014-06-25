@@ -1,56 +1,46 @@
-> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502022334id_/http%3A//www.startups.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070807id_/http%3A//startups.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Startups
+# Privacy policy - Startups.co.uk: Starting a business advice and business ideas
+
+Updated: Oct 13, 2013 Published: Sep 3, 2007 
 
 ##### Privacy policy  
 
-##### Crimson Publishing Limited Privacy Policy Statement 
+##### Crimson Publishing Limited Privacy Policy Statement
 
 We are Startups.co.uk, trading as Crimson Publishing Limited
 
-Our Postal address is:  
-Crimson  
-2nd Floor  
-Westminster House  
-Kew Road  
-Richmond  
-Surrey  
-TW9 2ND 
+Our Postal address is: Crimson 2nd Floor Westminster House Kew Road Richmond Surrey TW9 2ND
 
-Telephone  
-020 8334 1600 
+Telephone 020 8334 1600
 
-Fax  
-020 8334 1601 
+Fax 020 8334 1601
 
-###### Email  
-[enquiries@crimsonpublishing.co.uk](mailto:enquiries@crimsonpublishing.co.uk)
+###### Email [enquiries@crimsonpublishing.co.uk](mailto:enquiries@crimsonpublishing.co.uk)
 
-This policy covers all sites produced by Crimson Publishing Limited. Crimson Publishing Limited is committed to protecting your privacy online. This privacy policy informs you what personal information Crimson Publishing collects and the purposes for which it uses this information. This policy may change from time to time. 
+This policy covers all sites produced by Crimson Publishing Limited. Crimson Publishing Limited is committed to protecting your privacy online. This privacy policy informs you what personal information Crimson Publishing collects and the purposes for which it uses this information. This policy may change from time to time.
 
-###### Disclosures 
+###### Disclosures
 
-Crimson Publishing Limited may disclose your information, under strict terms of confidentiality and restriction of use, to partners of Crimson Publishing Ltd who supply services on behalf of Crimson Publishing Limited and who require to process personal data in the provision of such services. When you use Crimson Publishing Limited Services you are consenting to the disclosure of your personal information to Crimson Publishing Limited partners, unless you have otherwise informed us that you do not wish us to disclose your personal information. However, under certain circumstances the force of law may require the provision of information to legal authorities. In order to safeguard the interests of its subscribers Crimson Publishing Limited will comply with any such legally binding request. 
+Crimson Publishing Limited may disclose your information, under strict terms of confidentiality and restriction of use, to partners of Crimson Publishing Ltd who supply services on behalf of Crimson Publishing Limited and who require to process personal data in the provision of such services. When you use Crimson Publishing Limited Services you are consenting to the disclosure of your personal information to Crimson Publishing Limited partners, unless you have otherwise informed us that you do not wish us to disclose your personal information. However, under certain circumstances the force of law may require the provision of information to legal authorities. In order to safeguard the interests of its subscribers Crimson Publishing Limited will comply with any such legally binding request.
 
-###### Information we collect 
+###### Information we collect
 
-Identifiable information - Your information is collected when you register or fill in a form on a Crimson Publishing Limited website, or you send an email to Crimson Publishing Limited. The information that is provided by you will only be used for the purpose for which it is provided, unless you are informed otherwise at the time of giving the information. You may inform Crimson Publishing Limited at any time if you wish Crimson Publishing Limited to cease using your personal information.   
-Non identifiable information – Crimson Publishing Limited will from time to time collect information from you that does not reveal your personal identity, for example we may ask you to complete online polls. Crimson Publishing Limited uses this information for editorial purposes, and occasionally for other internal purposes. This information is only used in aggregate form and is not connected to any name, address or other personal identifying information. 
+Identifiable information – Your information is collected when you register or fill in a form on a Crimson Publishing Limited website, or you send an email to Crimson Publishing Limited. The information that is provided by you will only be used for the purpose for which it is provided, unless you are informed otherwise at the time of giving the information. You may inform Crimson Publishing Limited at any time if you wish Crimson Publishing Limited to cease using your personal information. Non identifiable information – Crimson Publishing Limited will from time to time collect information from you that does not reveal your personal identity, for example we may ask you to complete online polls. Crimson Publishing Limited uses this information for editorial purposes, and occasionally for other internal purposes. This information is only used in aggregate form and is not connected to any name, address or other personal identifying information.
 
-###### How we use personal information 
+###### How we use personal information
 
-Crimson Publishing Limited processes personal information for the purpose of providing a personalised service, running competitions and providing you with information about products and services on offer. Crimson Publishing may from time to time use your contact information to tell you about news or events provided by Crimson Publishing Limited or one of its strategic partners. You may opt-out of receiving such mailings, either when you register with Crimson Publishing Ltd or at any time afterwards. Crimson Publishing Limited may also contact you with important information about your registration details even if you have opted-out of receiving promotional emails. 
+Crimson Publishing Limited processes personal information for the purpose of providing a personalised service, running competitions and providing you with information about products and services on offer. Crimson Publishing may from time to time use your contact information to tell you about news or events provided by Crimson Publishing Limited or one of its strategic partners. You may opt-out of receiving such mailings, either when you register with Crimson Publishing Ltd or at any time afterwards. Crimson Publishing Limited may also contact you with important information about your registration details even if you have opted-out of receiving promotional emails.
 
-###### International Transfers 
+###### International Transfers
 
-Crimson Publishing Limited shall take steps to ensure that any transfer of data to a country or territory outside the European Economic Area, whose laws provide for a different standard of protection for your personal data than that provided under English law, shall be made subject to contractual arrangements which will require that your data be processed to at least a standard compliant with the Data Protection Act 1998 and the Electronic Communications Regulations 2003 
+Crimson Publishing Limited shall take steps to ensure that any transfer of data to a country or territory outside the European Economic Area, whose laws provide for a different standard of protection for your personal data than that provided under English law, shall be made subject to contractual arrangements which will require that your data be processed to at least a standard compliant with the Data Protection Act 1998 and the Electronic Communications Regulations 2003
 
-###### Links & Security 
+###### Links & Security
 
-There are links on Crimson Publishing web sites to third party web sites which Crimson Publishing Limited has no control over. Crimson Publishing accepts no responsibility or liability for any third party practices on third party websites.   
-Data transmission over the Internet is never totally secure and whilst Crimson Publishing Limited tries to protect your personal information, Crimson Publishing Limited cannot warrant the security of any information you transmit to us and you do so at your own risk. 
+There are links on Crimson Publishing web sites to third party web sites which Crimson Publishing Limited has no control over. Crimson Publishing accepts no responsibility or liability for any third party practices on third party websites. Data transmission over the Internet is never totally secure and whilst Crimson Publishing Limited tries to protect your personal information, Crimson Publishing Limited cannot warrant the security of any information you transmit to us and you do so at your own risk.
 
-###### Cookies and other tracking devices 
+###### Cookies and other tracking devices
 
 Our site is primarily funded by advertising which relies on our use of cookies. By using our site, you consent to our use of cookies.
 
@@ -64,11 +54,11 @@ Our site is constantly evolving as we add new articles, content and tools to mak
 
 Our cookies allow you to use our site and provide our advertisers and partners with anonymous reporting information.
 
-** Cookie **
+**Cookie **
 
 | 
 
-** Description  **  
+**Description**  
   
 ---|---  
   
@@ -82,7 +72,7 @@ Disqus and mediacdn.disqus.com
 
 | 
 
-Used by our comments management platform, this cookie recognises you and attributes your profile name to your posts.  Without these cookies, you will not be able to comment on our articles.  More information:  [ http://docs.disqus.com/help/30 ](http://docs.disqus.com/help/30)  
+Used by our comments management platform, this cookie recognises you and attributes your profile name to your posts.  Without these cookies, you will not be able to comment on our articles.  More information: [http://docs.disqus.com/help/30](http://docs.disqus.com/help/30)  
   
 tubemogul.com
 
@@ -100,7 +90,7 @@ Google Analytics
 
 | 
 
-This provides anonymous tracking of our site traffic to allow us to understand more about how our site is used, and which sections are popular.  In this way, we can monitor and track how to improve what we provide to our readers.  More information is available here:  [ https://www.google.co.uk/intl/en/policies/ ](https://www.google.co.uk/intl/en/policies/)  
+This provides anonymous tracking of our site traffic to allow us to understand more about how our site is used, and which sections are popular.  In this way, we can monitor and track how to improve what we provide to our readers.  More information is available here:  [ https://www.google.co.uk/intl/en/policies/](https://www.google.co.uk/intl/en/policies/)  
   
 Google Website optimiser
 
@@ -112,13 +102,13 @@ Scorecardresearch.com
 
 | 
 
-Part of the ComScore family, this provides anonymous tracking of site traffic.   [ http://www.scorecardresearch.com/privacy.aspx ](http://www.scorecardresearch.com/privacy.aspx)  
+Part of the ComScore family, this provides anonymous tracking of site traffic.   [ http://www.scorecardresearch.com/privacy.aspx](http://www.scorecardresearch.com/privacy.aspx)  
   
 Quantserve.com
 
 | 
 
-This also provides anonymous tracking of site traffic  [ http://www.quantcast.com/privacy ](http://www.quantcast.com/privacy)  
+This also provides anonymous tracking of site traffic  [http://www.quantcast.com/privacy](http://www.quantcast.com/privacy)  
   
 Dianomioffers.co.uk
 
@@ -136,16 +126,10 @@ intellitxt.com
 
 | 
 
-This powers our in-article encyclopaedia where you highlight specific words and provide an associate advertisement is provided by Vibrant Media.  More information is here: [ http://www.vibrantmedia.com/privacy.asp ](http://www.vibrantmedia.com/privacy.asp)  
-  
+This powers our in-article encyclopaedia where you highlight specific words and provide an associate advertisement is provided by Vibrant Media.  More information is here: [http://www.vibrantmedia.com/privacy.asp](http://www.vibrantmedia.com/privacy.asp)  
   
 In addition, we also provide a number of tools and content provided by approved third parties.Some of these tools rely on cookies to provide theservice. To find out more about their use of cookies, please refer to our partner’s sites. These cookies are only used when you use the tools, so if you have any concerns, we recommend you do not use the tools.
 
-Crimson Publishing websites may contain advertisements or content created and provided by third parties. These advertisements or content may also place Cookies on your computer. These cookies collect information about your use of the Internet. Crimson Publishing does not control the collection or use of your information by such advertisers and our privacy policy does not apply to such information. Please contact the advertiser directly if you have any concerns. 
+Crimson Publishing websites may contain advertisements or content created and provided by third parties. These advertisements or content may also place Cookies on your computer. These cookies collect information about your use of the Internet. Crimson Publishing does not control the collection or use of your information by such advertisers and our privacy policy does not apply to such information. Please contact the advertiser directly if you have any concerns.
 
-Contact Crimson Publishing:  
-Data Controller, Crimson Publishing Ltd  
-2nd Floor, Westminster House  
-Kew Road, Richmond  
-Surrey TW9 2ND  
-Email: [mailto:enquiries@crimsonpublishing.co.uk](mailto:enquiries@crimsonpublishing.co.uk)
+Contact Crimson Publishing: Data Controller, Crimson Publishing Ltd 2nd Floor, Westminster House Kew Road, Richmond Surrey TW9 2ND Email: [mailto:enquiries@crimsonpublishing.co.uk](mailto:enquiries@crimsonpublishing.co.uk)
