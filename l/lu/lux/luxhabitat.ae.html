@@ -1,0 +1,686 @@
+<!--The following is the downloaded HTML source of the luxhabitat.ae privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625071429id_/http%3A//www.luxhabitat.ae/Legal/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US"><head>
+    <title>LUXHABITAT is Dubai's Only Luxury Real Estate Company</title>
+    <meta name="description" content="Luxhabitat is UAEâ€™s only high-end real estate brokerage, setting extraordinary records in the marketing and selling of the most luxurious real estate properties."> 
+      <meta name="google-site-verification" content="9cincRIP8ivOs5K4ALu00_GGUU-YmVz1fqt50rqiggo">
+  <meta name="p:domain_verify" content="1bb2ad7c5c9a683faac06ff43bccf859">
+  <meta name="revisit-after" content="1 days"> 
+	<meta name="robots" content="INDEX,FOLLOW"> 
+  <base href="http://www.luxhabitat.ae/">
+
+  <!-- CSS -->
+	<link href="http://www.luxhabitat.ae/css_lux/calibri/calibri.css" rel="stylesheet">
+  <link href="http://www.luxhabitat.ae/css_lux/lux_css_2010.css" rel="stylesheet">
+  <link href="http://www.luxhabitat.ae/css_lux/style_2013.css" rel="stylesheet">
+  <link href="http://www.luxhabitat.ae/css_lux/lux_links.css" rel="stylesheet">
+  <link href="http://www.luxhabitat.ae/backend/css/font-awesome.min.css" rel="stylesheet">
+	<link href="http://www.luxhabitat.ae/css_lux/slidercss.css" rel="stylesheet">
+  <link href="http://www.luxhabitat.ae/css_lux/modalbox.css" rel="stylesheet">
+  <link href="http://www.luxhabitat.ae/css_lux/sliderbig.css" rel="stylesheet">
+  <link href="http://www.luxhabitat.ae/js/jquery.contextMenu.css" rel="stylesheet">
+
+  <!-- JS -->
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.luxhabitat.ae/js/common.js"></script>
+  <script src="http://www.luxhabitat.ae/js/AC_RunActiveContent.js"></script>
+  <script src="http://www.luxhabitat.ae/backend/javascript/jquery.min.js"></script>
+  <script src="http://www.luxhabitat.ae/backend/javascript/jquery.validate.min.js"></script>
+  <script src="http://www.luxhabitat.ae/js/slider-luxhabitat.js"></script>
+  <script src="http://www.luxhabitat.ae/js/modalbox.js"></script>
+  <script src="http://www.luxhabitat.ae/js/js.easing.js"></script>
+  <script src="http://www.luxhabitat.ae/js/jquery.contextMenu.js"></script>
+  <script src="http://www.luxhabitat.ae/js/imageProtector.js"></script>
+  
+  <script type="text/javascript">
+  $(function(){
+    $.contextMenu({
+      selector: '.copyright', 
+      callback: function(key, options) {
+      },
+      items: {
+        "copyright": {name: "This photo is &copy; Luxhabitat. All rights reserved"}
+      }
+    });
+  });
+/*
+  $(window).bind('load', function() {
+    $('.copyright').protectImage({ image: 'js/blank.gif' });
+  });
+*/
+  function isNumber(n) {
+    return !isNaN(parseFloat(n)) && isFinite(n);
+  }
+
+  function MM_swapImgRestore() { //v3.0
+    var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+  }
+
+  function MM_preloadImages() { //v3.0
+    var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+      var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+      if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+  }
+
+  function MM_findObj(n, d) { //v4.01
+    var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+      d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+    if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+    for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+    if(!x && d.getElementById) x=d.getElementById(n); return x;
+  }
+
+  function MM_swapImage() { //v3.0
+    var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+     if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+  }
+
+  $(function(){
+      $('.menu-item > a').click(function(e){
+        
+        e.preventDefault();
+
+        button = $(this).parents('.menu-item:eq(0)');
+
+        if($('.menu-item .submenu:visible').length > 0 && $(button).find('.submenu').is(':visible') === false){
+          //clean active items and add the class to the current selection
+          $('.menu-item .submenu:visible').parents('.menu-item:eq(0)').removeClass('active');  
+          button.addClass('active');
+          $('.menu-line').addClass('active');
+
+          $('.menu-item .submenu:visible').slideUp(function(){
+            button.find('.submenu').slideToggle();
+          });
+        }else{
+          button.find('.submenu').slideToggle();
+          button.toggleClass('active');
+          $('.menu-line').toggleClass('active');
+        }
+      });
+
+      $(document).mouseup(function(e){
+          var container = $(".main-menu");
+
+          if (!container.is(e.target) // if the target of the click isn't the container...
+              && container.has(e.target).length === 0) // ... nor a descendant of the container
+          {
+              $('.menu-item .submenu:visible').slideUp(function(){
+                $('.menu-item.active').removeClass('active');
+                $('.menu-line.active').removeClass('active');
+              });
+          }
+      });
+  });
+  </script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-9740164-1', 'luxhabitat.ae');
+  ga('send', 'pageview');
+
+  </script>
+  <script type="text/javascript">
+  try {
+  var pageTracker = _gat._getTracker("UA-9740164-1");
+  pageTracker._trackPageview();
+  } catch(err) {}</script>
+</head>	
+<body>
+<table id="tblContainer">
+ <tbody><tr><td id="tdContainer">
+ 
+  <div id="page">
+  <div id="contenedor_cabecera">
+  <style>
+a.header_link, a.header_link:link, a.header_link:visited, a.header_link:active{
+  font-family:Georgia, serif;
+  font-size:11px;
+  color:#999;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+a.header_link:hover{
+  color:#fff;
+}
+a.header_link .white{
+  color:#fff!important;
+}
+</style>
+<div id="contenedor_logo">
+  <div style="float:left; width:100%;">
+    <h1 style="text-transform: uppercase; float:left; color:#999; font-size:11px; font-family:Georgia, serif; width:300px; font-weight:normal; margin:0px;">The address for luxury property</h1>
+    <div style="float:right; color:#666">
+      <a class="header_link" href="ContactUs">Contact us</a>
+      &nbsp;|&nbsp;
+      <a class="header_link modal" href="">
+        Currency
+        <span class="white" id="topCurrency">AED</span>
+      </a>
+      &nbsp;|&nbsp;
+      <a class="header_link modal" href="">
+        Size
+        <span class="white" id="topSize">sq ft</span>
+      </a>
+    </div>
+  </div>
+  
+  <h2 style="text-align: center; float: left; width: 350px; margin:16px 0px 0px 303px; padding:0px; line-height:30px;">
+    <a href="http://www.luxhabitat.ae/">
+      <img src="images_lux/luxhabitat.png" alt="LUXHABITAT | Dubai Luxury Properties" style="display:inline">
+    </a>
+  </h2>
+    
+  <form id="searchForm" action="http://www.luxhabitat.ae/search/">
+    <div style="float:right; position:relative; margin-top:23px;">
+      <input type="text" id="searchbox" name="q" placeholder="Search" class="formInput" style="width:50px; float:right; padding-right:25px; background:#000; height:22px; color:#aaa; font-family:Georgia;">
+      <button style="color:#ccc; font-size:14px; position: absolute; top: 3px; right: 6px; padding: 0; margin: 0; background: none; border: none; outline:0px; font-size:17px; cursor:pointer;"><i class="icon-search"></i></button>
+    </div>
+  </form>
+  <script>
+    var searchClick = false;
+    $(function(){
+      $('#searchbox').focusin(function(){
+        $(this).animate({ width : '180px' }, 400);
+      });
+
+      $('#searchbox').focusout(function(){
+        $(this).animate({ width : '50px' }, 400);
+      });
+    });
+  </script>
+</div><nav class="main-menu relative">
+	<div class="menu-line"></div>
+	<div class="menu-item">
+		<a href="http://www.luxhabitat.ae/SaleAndPurchase/" style="left:-1px;">sale &amp; purchase</a>
+		<div class="submenu absolute">
+			<div class="submenu-50col">
+				<a class="submenu-button" href="http://www.luxhabitat.ae/SaleAndPurchase/approach/">approach</a>
+				<a class="submenu-button" href="http://www.luxhabitat.ae/SaleAndPurchase/villas/">villas</a>
+				<a class="submenu-button" href="http://www.luxhabitat.ae/SaleAndPurchase/apartments/">apartments</a>
+				<a class="submenu-button" href="http://www.luxhabitat.ae/SaleAndPurchase/recent-sales/">recent sales</a>
+				<a class="submenu-button" href="http://www.luxhabitat.ae/SaleAndPurchase/investments/">investments</a>
+				<a class="submenu-button" href="http://www.luxhabitat.ae/SaleAndPurchase/enquiries/">enquiries</a>
+			</div>
+			<div class="submenu-50col">
+								<a href="http://www.luxhabitat.ae/ref/1342" class="submenu-featured-image" style="height:279px; margin-top:10px; margin-bottom:10px;">
+						<div class="submenu-featured-title-background"></div>
+						<div class="submenu-featured-title">FEATURED PROPERTY</div>
+						<img src="admin/imagenes/1381067368_mod_1.jpg" alt="Luxury Duplex Index Tower Penthouse with breathtaking Dubai views" border="0" class="copyright" style="top:-15px;">
+					    <div class="submenu-featured-image-attribute pos-0">
+					    	<h1 class="submenu-featured-attribute-title">CONTEMPORARY</h1>
+						</div>
+					</a>
+					<a href="http://www.luxhabitat.ae/ref/1342" class="submenu-featured-attribute-subtitle">DIFC, The Index Tower</a>
+					<a href="http://www.luxhabitat.ae/ref/1342" class="submenu-featured-attribute-price">Price on Application</a>
+	    						</div>
+		</div>
+	</div>
+	<div class="menu-item">
+		<a href="http://www.luxhabitat.ae/LuxuryRentals/">luxury rentals</a>
+		<div class="submenu absolute">
+			<div class="submenu-50col">
+				<a class="submenu-button" href="http://www.luxhabitat.ae/LuxuryRentals/approach/">approach</a>
+				<a class="submenu-button" href="http://www.luxhabitat.ae/LuxuryRentals/villas/">villas</a>
+				<a class="submenu-button" href="http://www.luxhabitat.ae/LuxuryRentals/apartments/">apartments</a>
+				<a class="submenu-button" href="http://www.luxhabitat.ae/LuxuryRentals/enquiries/">enquiries</a>
+			</div>
+			<div class="submenu-50col">
+						</div>
+		</div>
+	</div>
+	<div class="menu-item">
+		<a href="http://www.luxhabitat.ae/SelectedLocations/">selected locations</a>
+		<div class="submenu absolute">
+			<div class="submenu-col">
+				<a class="submenu-button highlighted location-thumbnail-trigger" href="SelectedLocations/" rel="0">
+					search by map
+				</a>
+				<div class="submenu-selected-locations-thumb">
+					<a href="SelectedLocations/" rel="0">
+						<img src="http://www.luxhabitat.ae/images_lux/menu-selected-locations.jpg">
+					</a>
+									<a href="SelectedLocations/by-development/93-al-barari" rel="93" class="hidden">
+						<img src="http://www.luxhabitat.ae/admin/imagenes/1253102255_mod_thumbnail.jpg">
+						<div class="submenu-featured-image-attribute pos-6">
+							<h1 class="submenu-featured-attribute-title">Al Barari</h1>
+						</div>
+					</a>
+											<a href="SelectedLocations/by-development/66-arabian-ranches" rel="66" class="hidden">
+						<img src="http://www.luxhabitat.ae/admin/imagenes/1242719545_mod_thumbnail.jpg">
+						<div class="submenu-featured-image-attribute pos-6">
+							<h1 class="submenu-featured-attribute-title">Arabian Ranches</h1>
+						</div>
+					</a>
+											<a href="SelectedLocations/by-development/41-downtown-dubai" rel="41" class="hidden">
+						<img src="http://www.luxhabitat.ae/admin/imagenes/1306225652_mod_thumbnail.jpg">
+						<div class="submenu-featured-image-attribute pos-6">
+							<h1 class="submenu-featured-attribute-title">Downtown Dubai</h1>
+						</div>
+					</a>
+											<a href="SelectedLocations/by-development/22-dubai-marina" rel="22" class="hidden">
+						<img src="http://www.luxhabitat.ae/admin/imagenes/1234514522_mod_thumbnail.jpg">
+						<div class="submenu-featured-image-attribute pos-6">
+							<h1 class="submenu-featured-attribute-title">Dubai Marina </h1>
+						</div>
+					</a>
+											<a href="SelectedLocations/by-development/25-emirates-hills" rel="25" class="hidden">
+						<img src="http://www.luxhabitat.ae/admin/imagenes/1234718660_mod_thumbnail.jpg">
+						<div class="submenu-featured-image-attribute pos-6">
+							<h1 class="submenu-featured-attribute-title">Emirates Hills</h1>
+						</div>
+					</a>
+											<a href="SelectedLocations/by-development/71-jumeirah-golf-estates" rel="71" class="hidden">
+						<img src="http://www.luxhabitat.ae/admin/imagenes/1266743479_mod_thumbnail.jpg">
+						<div class="submenu-featured-image-attribute pos-6">
+							<h1 class="submenu-featured-attribute-title">Jumeirah Golf Estates</h1>
+						</div>
+					</a>
+											<a href="SelectedLocations/by-development/36-jumeirah-islands" rel="36" class="hidden">
+						<img src="http://www.luxhabitat.ae/admin/imagenes/1240719970_mod_thumbnail.jpg">
+						<div class="submenu-featured-image-attribute pos-6">
+							<h1 class="submenu-featured-attribute-title">Jumeirah Islands </h1>
+						</div>
+					</a>
+											<a href="SelectedLocations/by-development/89-nurai-island" rel="89" class="hidden">
+						<img src="http://www.luxhabitat.ae/admin/imagenes/1386076198_mod_thumbnail.jpg">
+						<div class="submenu-featured-image-attribute pos-6">
+							<h1 class="submenu-featured-attribute-title">Nurai Island</h1>
+						</div>
+					</a>
+											<a href="SelectedLocations/by-development/44-palm-jumeirah" rel="44" class="hidden">
+						<img src="http://www.luxhabitat.ae/admin/imagenes/1234781525_mod_thumbnail.jpg">
+						<div class="submenu-featured-image-attribute pos-6">
+							<h1 class="submenu-featured-attribute-title">Palm Jumeirah </h1>
+						</div>
+					</a>
+										</div>
+			</div>
+			<div class="submenu-col">
+				<a class="submenu-button highlighted" href="http://www.luxhabitat.ae/SelectedLocations/by-development/">search by development</a>
+				<a class="submenu-button location-thumbnail-trigger" href="http://www.luxhabitat.ae/SelectedLocations/by-development/93-al-barari/" rel="93">Al Barari</a>
+				<a class="submenu-button location-thumbnail-trigger" href="http://www.luxhabitat.ae/SelectedLocations/by-development/66-arabian-ranches/" rel="66">Arabian Ranches</a>
+				<a class="submenu-button location-thumbnail-trigger" href="http://www.luxhabitat.ae/SelectedLocations/by-development/41-downtown-dubai/" rel="41">Downtown Dubai</a>
+				<a class="submenu-button location-thumbnail-trigger" href="http://www.luxhabitat.ae/SelectedLocations/by-development/22-dubai-marina/" rel="22">Dubai Marina </a>
+				<a class="submenu-button location-thumbnail-trigger" href="http://www.luxhabitat.ae/SelectedLocations/by-development/25-emirates-hills/" rel="25">Emirates Hills</a>
+			</div>
+			<div class="submenu-col" style="margin-top:55px; border-top:1px solid #2b2b2b;">
+				<a class="submenu-button location-thumbnail-trigger" href="http://www.luxhabitat.ae/SelectedLocations/by-development/71-jumeirah-golf-estates/" rel="71">Jumeirah Golf Estates</a>
+				<a class="submenu-button location-thumbnail-trigger" href="http://www.luxhabitat.ae/SelectedLocations/by-development/36-jumeirah-islands/" rel="36">Jumeirah Islands </a>
+				<a class="submenu-button location-thumbnail-trigger" href="http://www.luxhabitat.ae/SelectedLocations/by-development/89-nurai-island/" rel="89">Nurai Island</a>
+				<a class="submenu-button location-thumbnail-trigger" href="http://www.luxhabitat.ae/SelectedLocations/by-development/44-palm-jumeirah/" rel="44">Palm Jumeirah </a>
+				<a class="submenu-button" href="http://www.luxhabitat.ae/SelectedLocations/by-development/">all developments</a>
+			</div>
+		</div>
+	</div>
+	<div class="menu-item">
+		<a href="http://www.luxhabitat.ae/LifeStyles/">the lifestyles</a>
+		<div class="submenu absolute">
+			<div class="submenu-50col">
+							<a class="submenu-button lifestyles-thumbnail-trigger" href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/1/" rel="1">Sea-Front Properties</a>
+								<a class="submenu-button lifestyles-thumbnail-trigger" href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/3/" rel="3">Golf Retreats</a>
+								<a class="submenu-button lifestyles-thumbnail-trigger" href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/5/" rel="5">Private Communities</a>
+								<a class="submenu-button lifestyles-thumbnail-trigger" href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/2/" rel="2">Marina Living</a>
+								<a class="submenu-button lifestyles-thumbnail-trigger" href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/4/" rel="4">Lake Surroundings</a>
+								<a class="submenu-button lifestyles-thumbnail-trigger" href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/6/" rel="6">Luxury Penthouses</a>
+							</div>
+			<div class="submenu-50col">
+				<div class="submenu-lifestyles-thumb">
+					
+					<a href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/1/3/" rel="1">
+						<img src="http://www.luxhabitat.ae/admin/imagenes/1403182700.jpg">
+						<div class="submenu-featured-image-attribute pos-6">
+							<h1 class="submenu-featured-attribute-title">Sea-Front Properties</h1>
+						</div>
+					</a>
+					<a href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/3/3/" rel="3" class="hidden">
+						<img src="http://www.luxhabitat.ae/admin/imagenes/1403182545.jpg">
+						<div class="submenu-featured-image-attribute pos-6">
+							<h1 class="submenu-featured-attribute-title">Golf Retreats</h1>
+						</div>
+					</a>
+					<a href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/5/3/" rel="5" class="hidden">
+						<img src="http://www.luxhabitat.ae/admin/imagenes/1403182792.jpg">
+						<div class="submenu-featured-image-attribute pos-6">
+							<h1 class="submenu-featured-attribute-title">Private Communities</h1>
+						</div>
+					</a>
+					<a href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/2/3/" rel="2" class="hidden">
+						<img src="http://www.luxhabitat.ae/admin/imagenes/1403182768.jpg">
+						<div class="submenu-featured-image-attribute pos-6">
+							<h1 class="submenu-featured-attribute-title">Marina Living</h1>
+						</div>
+					</a>
+					<a href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/4/3/" rel="4" class="hidden">
+						<img src="http://www.luxhabitat.ae/admin/imagenes/1403182720.jpg">
+						<div class="submenu-featured-image-attribute pos-6">
+							<h1 class="submenu-featured-attribute-title">Lake Surroundings</h1>
+						</div>
+					</a>
+					<a href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/6/3/" rel="6" class="hidden">
+						<img src="http://www.luxhabitat.ae/admin/imagenes/1403182742.jpg">
+						<div class="submenu-featured-image-attribute pos-6">
+							<h1 class="submenu-featured-attribute-title">Luxury Penthouses</h1>
+						</div>
+					</a>				</div>
+			</div>
+		</div>
+	</div>
+	<div class="menu-item">
+		<a href="http://www.luxhabitat.ae/InteriorDesign/">interior design</a>
+		<div class="submenu absolute">
+			<div class="submenu-50col">
+				        	<a class="submenu-button" href="http://www.luxhabitat.ae//InteriorDesign/our-approach/">Our approach</a>  
+	          	        	<a class="submenu-button" href="http://www.luxhabitat.ae//InteriorDesign/why-luxhabitat/">Why Luxhabitat</a>  
+	          	        	<a class="submenu-button" href="http://www.luxhabitat.ae//InteriorDesign/the-process/">The Process</a>  
+	          	        	<a class="submenu-button" href="http://www.luxhabitat.ae//InteriorDesign/enquiries/">Enquiries</a>  
+	          			</div>
+			<div class="submenu-50col">
+				<div class="submenu-ad">
+					<img src="http://www.luxhabitat.ae/images_lux/menu-interior-design.jpg">
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="menu-item">
+		<a href="http://www.luxhabitat.ae/AboutUs/">about us</a>
+		<div class="submenu absolute">
+			<div class="submenu-50col">
+				<a class="submenu-button" href="http://www.luxhabitat.ae/AboutUs/">why luxhabitat</a>
+				<a class="submenu-button" href="http://www.luxhabitat.ae/AboutUs/luxhabitat-magazine/">the magazine</a>
+				<a class="submenu-button" href="http://www.luxhabitat.ae/AboutUs/newsletter/">the newsletter</a>
+				<a class="submenu-button" href="http://www.luxhabitat.ae/AboutUs/news/">latest news</a>
+				<a class="submenu-button" href="http://www.luxhabitat.ae/AboutUs/offices/">the team</a>
+				<!--<a class="submenu-button" href="http://www.luxhabitat.ae/careers/">careers</a>-->
+				<a class="submenu-button" href="http://www.luxhabitat.ae/ContactUs/">contact us</a>
+			</div>
+			<div class="submenu-50col">
+				<div class="submenu-ad">
+					<img src="http://www.luxhabitat.ae/images_lux/menu-about-us.jpg">
+				</div>
+			</div>
+		</div>
+	</div>
+</nav>
+<script>
+$(function(){
+	$('.location-thumbnail-trigger').mouseover(function(){
+		var id = $(this).attr('rel');
+		$('.submenu-selected-locations-thumb > a').addClass('hidden');
+		$('.submenu-selected-locations-thumb').find('a[rel='+id+']').removeClass('hidden');
+	});
+
+	$('.lifestyles-thumbnail-trigger').mouseover(function(){
+		var id = $(this).attr('rel');
+		$('.submenu-lifestyles-thumb > a').addClass('hidden');
+		$('.submenu-lifestyles-thumb').find('a[rel='+id+']').removeClass('hidden');
+	});
+});
+</script><style>
+#breadcrumbs{
+	float:left;
+	width:100%;
+	list-style: none;
+	padding: 25px 0px 0px;
+	margin: 0px;
+	text-align: center;
+}
+#breadcrumbs > li{
+	display: inline;
+}
+.crumb{
+	display: inline;
+	padding: 3px 2px;
+	color: #999!important;
+	font-size: 10px;
+	font-family: verdana, sans-serif!important;
+	letter-spacing: 1px;
+	text-decoration: none!important;
+}
+.crumb:hover{
+	text-decoration: underline!important;
+	color:#fff!important;
+}
+.crumb-arrow{
+	display: inline;
+	padding:3px 2px 2px;
+	color:#999;
+	font-size:12px;
+	font-family: Tw Cen MT, verdana, sans-serif;
+}
+</style>
+<ul id="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#" style="display:none;">
+  	<li typeof="v:Breadcrumb">
+		<a href="http://www.luxhabitat.ae/" class="crumb" rel="v:url" property="v:title">Home</a>
+	</li>
+		<li typeof="v:Breadcrumb">
+		<span class="crumb-arrow">›</span>
+		<a href="http://www.luxhabitat.ae/Legal/" class="crumb" rel="v:url" property="v:title">Legal</a>		
+	</li>
+		<li typeof="v:Breadcrumb">
+		<span class="crumb-arrow">›</span>
+		<a href="http://www.luxhabitat.ae/Legal/privacy/" class="crumb" rel="v:url" property="v:title">Privacy policy</a>
+	</li>
+	</ul>
+
+  </div>
+  <div id="contenedor_central">
+  
+          
+           <table style="border:#333; border-width:0px; border-style:solid;" width="957" height="480px" border="0" align="center" cellpadding="0" cellspacing="0" class="tabla_menu_secundario">
+
+        <tbody><tr>
+          <td valign="top" bgcolor="#000000" style="padding-left:10px; padding-top:20px; padding-bottom:10px;"><img src="images_lux/tit_quick_links.gif" alt="Quick links" width="172" height="32"></td>
+          <td valign="top" bgcolor="#000000" style="padding-left:10px; padding-top:15px;padding-bottom:10px;"><img src="images_lux/tit_privacy.gif" alt="Privacy" width="715" height="39"></td>
+        </tr>
+        <tr>
+          <td width="173" valign="top" bgcolor="#000000" style="padding-left:30px;">       <p class="link_amarillo_d" style="padding-top:4px;"><a href="Legal/privacy#a" class="link_amarillo_d">Introduction</a><br>
+              <a href="Legal/privacy#1"> Information collected</a><br>
+              <a href="Legal/privacy#2">Information use</a><br>
+              <a href="Legal/privacy#3">Web Beacons</a><br>
+              <a href="Legal/privacy#4">Sharing information</a><br>
+              <a href="Legal/privacy#5">Updates to our policy</a><br>
+              <a href="Legal/privacy#6">Information updates</a><br>
+              <a href="Legal/privacy#7"> External links</a><br>
+              <a href="Legal/privacy#8"> Information protection</a></p></td>
+          <td width="784" valign="top" bgcolor="#000000">
+          
+           <div style="padding-left:20px; 
+          padding-right:20PX;
+          overflow-x:none; 
+          margin-top:0px;        
+          overflow-y:auto;
+        
+          height:415px; 
+          margin-right:0PX;"><a name="a" id="a"></a> 
+             <p class="text_legal" style="padding-top:0px; margin-top:0px;">LUXHABITAT FZ LLC. (“LUXHABITAT”) takes your privacy seriously. We make it a priority to secure and protect the confidentiality of the personally identifiable information that you provide to us. This policy explains the type of personal information we gather when you use www.luxhabitat.ae or our affiliated websites (collectively, the “Site”) and when you provide us information by other means, including by email and telephone.<a name="1" id="a2"></a></p>
+             <p class="text_legal_gris_claro" style="padding-top:0px; margin-top:0px;"><strong> Information We Collect</strong></p>
+             <p class="text_legal" style="padding-top:0px; margin-top:0px;"> LUXHABITAT collects non-personally identifiable information about visitors to the Site such as aggregate information on what pages are accessed or visited. We use this information to continually improve the online experience we provide Site visitors. We use cookies to store visitors’ preferences, record session information (for instance, properties that visitors add to their “My Favourites” section) and record past activity at a site in order to provide better service when visitors return to the Site.We also collect personally identifiable information that is specifically volunteered to us by email, by telephone or by those visiting the Site online, including request and contact information and survey information.<a name="2" id="a3"></a></p>
+             <p class="text_legal_gris_claro" style="padding-top:0px; margin-top:0px;"><strong> Use of the Information We Collect</strong></p>
+             <p class="text_legal" style="padding-top:0px; margin-top:0px;"> The information we collect is used to improve the Site and to contact those who have requested information concerning our products and services and, as needed, to carry out the purchase of products and services. We will only send you updates, offerings or product information by email or mail if you have if you have provided your email or mailing address to us.</p>
+             <p class="text_legal_gris_claro" style="padding-top:0px; margin-top:0px;"><strong> You May “Opt Out” of Receiving Future Offerings</strong></p>
+             <p class="text_legal" style="padding-top:0px; margin-top:0px;"> Should you wish to opt out of receiving promotions, offerings or communications from LUXHABITAT in the future, please let us know by clicking on the "unsubscribe" link within the e-mail that you received from us.<span style="padding-top:0px; margin-top:0px;"><a name="3" id="a4"></a></span></p>
+             <p class="text_legal_gris_claro" style="padding-top:0px; margin-top:0px;"><strong> Third-Party Web Beacons</strong></p>
+             <p class="text_legal" style="padding-top:0px; margin-top:0px;"> We use third-party web beacons from Google to help analyze where visitors go and what they do while visiting the Site. Google may also use anonymous information about your visits to the Site in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Google, <a href="http://www.google.com/analytics/learn/privacy.html" target="_blank">click here.</a><span style="padding-top:0px; margin-top:0px;"><a name="4" id="a5"></a></span></p>
+             <p class="text_legal_gris_claro" style="padding-top:0px; margin-top:0px;"><strong> Sharing of Information</strong></p>
+             <p class="text_legal" style="padding-top:0px; margin-top:0px;"> We do not sell or rent your personal information to anyone. LUXHABITAT will only share your personally identifiable information with our affiliates and authorized service providers that perform certain services or functions on our behalf. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process involving LUXHABITAT or the Site.<a name="5" id="a7"></a></p>
+             <p class="text_legal_gris_claro" style="padding-top:0px; margin-top:0px;"><strong> Updates to our Policy</strong></p>
+             <p class="text_legal" style="padding-top:0px; margin-top:0px;"> From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to the Site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at the Site periodically.<a name="6" id="a8"></a></p>
+             <p class="text_legal_gris_claro" style="padding-top:0px; margin-top:0px;"><strong> Updating your Information</strong></p>
+             <p class="text_legal" style="padding-top:0px; margin-top:0px;"> We offer visitors the ability to have inaccuracies corrected in contact information. Consumers can have this information easily updated accesing to the personal account area or by writing to us.<a name="7" id="a9"></a></p>
+             <p class="text_legal_gris_claro" style="padding-top:0px; margin-top:0px;"><strong> External Links</strong></p>
+             <p class="text_legal" style="padding-top:0px; margin-top:0px;"> The Site may provide links to external websites maintained by individuals or organizations external to LUXHABITAT. Once you access information that links you to another website, you are subject to the privacy policy of these external sites.<a name="8" id="a10"></a></p>
+             <p class="text_legal_gris_claro" style="padding-top:0px; margin-top:0px;"><strong> We Protect your Information</strong></p>
+             <p class="text_legal" style="padding-top:0px; margin-top:0px;"> We value your privacy and we have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at the Site.</p>
+             <p class="text_legal" style="padding-top:0px; margin-top:0px;"> Revised 10 January 1, 2009.</p>
+             <p class="text_management" style="padding-top:0px; margin-top:0px;"> <span class="text_legal">© 2009 LUXHABITAT. All rights reserved. </span></p>
+             <p class="text_management" style="padding-top:0px; margin-top:0px;"></p>
+           </div></td>
+        </tr>
+       </tbody></table></div>
+
+<div id="contenedor_pie">
+  <footer id="webFooter">
+
+	<div class="footerListWrapper">
+		<p class="footerTitle">PROPERTIES</p>
+		<ul class="footerList">
+			<li>
+				<a href="http://www.luxhabitat.ae/SelectedLocations/by-development/25-emirates-hills">Emirates Hills</a>
+			</li>
+			<li>
+		        <a href="http://www.luxhabitat.ae/SelectedLocations/by-development/93-al-barari">Al Barari</a>
+			</li>
+			<li>
+		        <a href="http://www.luxhabitat.ae/SelectedLocations/by-development/44-palm-jumeirah-">Palm Jumeirah</a>
+		    </li>
+			<li>    
+		        <a href="http://www.luxhabitat.ae/SelectedLocations/by-development/22-dubai-marina-">Dubai Marina</a>
+		    </li>
+			<li>    
+		        <a href="http://www.luxhabitat.ae/SelectedLocations/by-development/41-downtown-burj-khalifa">Downtown Burj Khalifa</a>
+		    </li>
+			<li>    
+		        <a href="http://www.luxhabitat.ae/SelectedLocations/by-development">More developments</a>
+			</li>
+		</ul>
+	</div>
+
+	<div class="footerListWrapper">
+		<p class="footerTitle">LIFESTYLES</p>
+		<ul class="footerList">
+			<li>
+				<a href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/6/3">Luxury Penthouses</a>
+		    </li>
+			<li> 
+		        <a href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/1/3">Seafront Properties</a>
+		    </li>
+			<li> 
+		        <a href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/3/3">Golf course Retreats</a>
+		    </li>
+			<li> 
+		        <a href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/2/3">Marina Living</a>
+		    </li>
+			<li> 
+		        <a href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/4/3">Lake surroundings</a>
+		    </li>
+			<li> 
+		        <a href="http://www.luxhabitat.ae/LifeStyles/by-lifestyle/5/3">Private Communities</a>
+			</li>
+		</ul>
+	</div>
+
+	<div class="footerListWrapper">
+		<p class="footerTitle">LUXHABITAT</p>
+		<ul class="footerList">
+			<li>
+				<a href="http://www.luxhabitat.ae/AboutUs">About Us</a>
+		    </li>
+			<li> 
+          		<a href="http://www.luxhabitat.ae/AboutUs/offices">Meet our team</a>
+		    </li>
+			<li> 
+          		<a href="http://www.luxhabitat.ae/ContactUs/">Contact Us</a>
+		    </li>
+			<li> 
+          		<a href="http://www.luxhabitat.ae/AboutUs/luxhabitat-magazine">Advertising</a>
+		    </li>
+			<li> 
+          		<a href="http://www.luxhabitat.ae/SendFeedback">Your feedback</a>
+			</li>
+		</ul>
+	</div>
+	
+	<div id="footerElements">
+		<p class="footerTitle">SIGN UP FOR OUR NEWSLETTER</p>
+		<form id="newsletter-form" action="http://www.luxhabitat.ae/contents/newsletter/subscribe-newsletter.php" method="post">
+			<input type="text" id="newsletter-email" name="email" class="required email formInput" placeholder="Enter email">
+			<input type="text" name="newsletter-name" class="checkingInput"> 
+    		<button type="submit" class="newsletter-send submitButton">Submit &gt;</button>
+		</form>
+		<p>CUSTOMER SERVICE +971 44 32 79 72</p>
+		<div id="followButtons">
+			<span class="followUs">FOLLOW US</span> 
+			<a href="https://www.facebook.com/Luxhabitat" target="_blank" title="Facebook"><i class="icon-facebook"></i></a>
+			<a href="https://twitter.com/#!/LUXHABITAT" target="_blank" title="Twitter"><i class="icon-twitter"></i></a>
+			<a href="http://www.pinterest.com/luxhabitat/" target="_blank" title="Pinterest"><i class="icon-pinterest"></i></a>
+			<a href="https://plus.google.com/115864268259545483961/posts" target="_blank" title="Google+"><i class="icon-google-plus"></i></a>
+		</div>
+	</div>
+	<div class="copyrightBlock">
+		© Luxhabitat 2014. All rights reserved.&nbsp;
+		<a href="http://www.luxhabitat.ae/Legal" style="text-decoration:none;">Terms of Use</a> | 
+		<a href="http://www.luxhabitat.ae/Legal/privacy/" style="text-decoration:none;">Privacy Policy</a> | 
+		<a href="http://www.luxhabitat.ae/SiteMap" style="text-decoration:none;">Sitemap</a>
+			</div>
+</footer>
+<script>
+$(function(){
+	$("#newsletter-form").validate({
+		submitHandler:
+			function(form){
+				$.ajax({
+					url: $(form).attr('action'),
+					type: 'POST',
+					data: $(form).serialize(),
+					success:
+						function(data){
+							$(form).css('position', 'relative');
+							
+							if(data == 'sent'){
+								window.location.href = document.location.protocol+"//"+document.location.host+"/AboutUs/newsletter/?emailAddress="+$('#newsletter-email').val();
+							}else if(data == 'registered'){
+								$(form).append('<div class="newsletter-message">The e-mail address is already registered</div>');
+							}else{
+								$(form).append('<div class="newsletter-message">An error ocurred</div>');
+							}
+
+							$('.newsletter-message').fadeIn(function(){
+								setTimeout(function(){
+									$('#newsletter-email').val('');
+									$('.newsletter-message').fadeOut(function(){
+										$(this).remove();
+									});
+								}, 2500);
+							});
+						}
+				});
+			}
+	});
+});
+</script></div>   
+
+
+  
+ 
+ </div></td></tr>
+</tbody></table>
+    <div id="modalboxbg"></div>
+    <div id="modalbox">
+      <form id="refreshCurrency">
+        <div id="modalwindow">
+          <div id="modaltitle">
+            <div><strong style="font-weight:normal; font-family:Arial, Helvetica, sans-serif;">Update Measurement Units</strong></div>
+            <div id="closemodal">Close X</div>
+          </div>
+          <div id="modalcontent">
+            <div>Select your currency</div>
+            <div class="modalradio">
+                          <input type="radio" name="mcurrency" value="AED" checked=""> <img src="images_lux/flag/ae.png" width="16" height="11" alt="AED" style="display:inline">&nbsp;AED
+              <input type="radio" name="mcurrency" value="USD">  <img src="images_lux/flag/us.png" width="16" height="11" alt="USD" style="display:inline">&nbsp;USD
+                        </div>
+            <div id="modaloption2">Select your size</div>
+            <div class="modalradio">
+                          <input type="radio" name="msize" value="sq ft" checked=""> sq ft
+              <input type="radio" name="msize" value="sq m"> sq m
+                        </div>
+            <div id="refreshbutton">
+              <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Refreh','','images_lux/modal/refreshmodal_hover.gif',1)"><img src="images_lux/modal/refreshmodal.gif" name="Refreh" width="84" height="30" border="0"></a>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+</body></html>
