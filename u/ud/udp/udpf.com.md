@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udpf.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214152853id_/http%3A//www.udpf.com/static/privacy_policy-308.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udpf.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010541id_/http%3A//www.udpf.com/static/privacy_policy-308.html) for the most accurate reproduction.*
 
 # index
 
