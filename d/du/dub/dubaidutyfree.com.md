@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaidutyfree.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214031932id_/http%3A//www.dubaidutyfree.com/general/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaidutyfree.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073600id_/http%3A//dubaidutyfree.com/general/privacy_policy) for the most accurate reproduction.*
 
 # Dubai Duty Free
 
