@@ -1,19 +1,25 @@
-<!--The following is the downloaded HTML source of the diply.com privacy policy that was archived on 2013-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131202013322id_/http%3A//diply.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diply.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625045032id_/http%3A//diply.com/static/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html data-ng-app="app" class="ng-app:app js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" id="ng-app" xmlns:ng="http://angularjs.org"><head>
+<!DOCTYPE html><html data-ng-app="app" class="ng-app:app" id="ng-app" lang="en"><head prefix="og: http://ogp.me/ns#" data-ng-controller="HeadController">
 	<meta charset="utf-8">
 
 	<!-- Website Information -->
-	<title></title>
-	<meta name="description" content="Diply.com: Go for a dip!">
+	<title data-ng-bind="PageMeta.title()">Privacy Policy | Diply</title>
+	<meta name="description" data-ng-bind="PageMeta.description()" content="Diply is an oddities and wonders discovery network dedicated to showcasing the world's most creative ideas, projects and people.">
+	<meta name="keywords" content="{{ PageMeta.keywords() }}">
+	<meta name="msvalidate.01" content="98B2763A598EFF9B842C6B968852D893">
+	<meta name="google-site-verification" content="h-_tunwNtoY-sWkLN84aw3mt_1Ca9grIAlmKUjLW7I0">
+	<meta name="fragment" content="!">
 
 	<!-- Facebook OG meta -->
 	<meta property="og:title">
-	<meta property="og:description" content="Diply.com: Go for a dip!">
+	<meta property="og:description" content="Diply is an oddities and wonders discovery network dedicated to showcasing the world's most creative ideas, projects and people.">
 	<meta property="og:image" content="http://diply.com/Content/ico/apple-touch-icon-144-precomposed.png">
 	<meta property="og:url">
 	<meta property="og:site_name" content="Diply.com">
+	<meta property="og:type" content="website">
+	<meta property="fb:app_id" content="627392657291988">
 
 	<!-- Mobile Settings -->
 	<meta name="HandheldFriendly" content="true">
@@ -33,26 +39,65 @@
 	<link rel="canonical">
 
 	<!-- Styles -->
-	<link href="/Content/lesscss?v=sBQboJJYf_CGNLTXYz4RkVEbreFb5klqyYqPQ0zWh481" rel="stylesheet">
+	<link href="/Content/lesscss?v=j4LPd4bhEz-zhkgqUbpKfthxKL5cSFhsqXmNl3yjEG01" rel="stylesheet">
 
-	<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,600,700,900,400italic|Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+	<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900,400italic|Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+	<link href="https://plus.google.com/100321060957454524863" rel="publisher">
+
 	<style type="text/css">
 		
 	</style>
-	<!--[if lt IE 10]>
+	<!--[if lt IE 9]>
 		<style>
 			body{padding-top: 78px;}
 			@media (max-width: 768px){body{padding-top: 0;}}
 		</style>
-	<![endif]-->
+		<![endif]-->
 
-	<base href="/static/privacy">
-</head>
-<body>
-	<!-- Navbar -->
-	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation" data-ng-controller="NavController">
-		<!--[if lt IE 10]>
+		
+
+	</head>
+	<body>
+		<script async="" src="http://cdn.taboola.com/libtrc/goviralinc-diply/loader.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="/bundles/scripts_core?v=Du2aXgmt9wv8T1kTivTG7Tq9benGol5QhMoHhX_IdpE1"></script>
+
+		<div class="slide-left hidden-lg" data-ng-controller="NavController">
+			<ul class="nav nav-search visible-xs">
+				<li class="navbar-search">
+					<input data-ng-keydown="SearchKey($event)" data-ng-model="query.term" type="text" class="form-control input-sm" placeholder="Search">
+					<div data-ng-click="Search()" class="searchButton"><i class="fa fa-search"></i></div>
+				</li>
+			</ul>
+			<ul class="nav visible-xs">
+					<li><a data-toggle="modal" data-target="#signUp" href="">Sign Up</a></li>
+	<li><a data-toggle="modal" data-target="#signIn" href="">Sign In</a></li>
+
+			</ul>
+			<ul class="nav">
+				<li class="dropdown-header">CATEGORIES</li>
+				<li data-ng-repeat="cat in cats | filter:{IsCloaked: false}"><a data-href-reload="/c/{{cat.Slug}}" data-close-nav="" target="_self">{{cat.Name}}</a>
+					<ul class="nav subcat">
+						<li data-ng-repeat="sub in subcats | filter:{ParentCategoryId: cat.Id }:true"><a data-close-nav="" href="/c/{{cat.Slug}}/{{sub.Slug}}" target="_self">{{sub.Name}}</a></li>
+					</ul>
+				</li>
+				<li><a data-href-reload="/c/videos" data-close-nav="" target="_self">Videos</a></li>
+				<li class="divider"></li>
+				<li><a href="/static/about" target="_self">About Us</a></li>
+				<li><a href="/static/help" target="_self">Help</a></li>
+				<li><a href="/static/advertise" target="_self">Advertise</a></li>
+				<li><a href="/static/terms" target="_self">Terms of Use</a></li>
+				<li><a href="/static/privacy" target="_self">Privacy Policy</a></li>
+				<li class="divider"></li>
+				<li class="mobileSignOut">
+		</li>
+
+	</ul>
+</div>
+<div class="slide-right">
+	<div data-close-nav="" class="closeSlide"></div>
+	
+	<div class="navbar navbar-inverse navbar-fixed-top mega" data-role="navigation" data-ng-controller="NavController">
+		<!--[if lt IE 9]>
 			<div class="alert alert-danger text-center" style="padding: 2px 0; margin: 0;">
 				<div class="container" >
 					<div class="row">
@@ -62,123 +107,74 @@
 					</div>
 				</div>
 			</div>
-		<![endif]-->
-		<div class="container">
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-
-				<div class="navbar-brand btn-group">
-					<a href-reload="/" target="_self" class="btn navbar-btn navbar-logo">
-						<img src="/Content/img/Wordmark-Logo.svg" height="40" width="96">
-					</a>
-					<button class="btn btn-default navbar-btn dropdown-toggle visible-sm visible-xs" data-toggle="dropdown" style="height: 40px;">
-						<i class="fa fa-caret-down"></i>
-					</button>
-					<ul class="dropdown-menu groupSelector">
-						<div class="arrow"></div>
-						<li data-ng-repeat="group in groups"><a href="/g/{{group.Slug}}/" target="_self">{{group.Name}}</a></li>
-					</ul>
+			<![endif]-->
+			<button type="button" data-close-nav="" class="navbar-toggle mobileMenuSlide">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<div class="container">
+				<div class="navbar-header">
+					<div class="navbar-brand">
+						<a data-href-reload="/" class="btn navbar-btn navbar-logo" target="_self">
+							<img src="/Content/img/Wordmark-Logo.svg" height="40" width="77" alt="Diply">
+						</a>
+					</div>
+					<a class="navbar-toggle mobileShop {{ isNavActive('/shop') }}" data-href-reload="/shop" target="_self"><i class="fa fa-shopping-cart fa-lg fa-fw"></i></a>
 				</div>
-			</div>
-			<div class="collapse navbar-collapse navbar-ex1-collapse">
-
-				<ul class="nav navbar-nav navbar-right">
-					<li class="dropdown hidden-xs {{ isNavActive('/static/') }}">
-						<a class="dropdown-toggle" href="" data-toggle="dropdown"><i class="fa fa-bars"></i></a>
-						<ul class="dropdown-menu">
-							<li><a href="/static/about" target="_self">About Us</a></li>
-							<li class="divider"></li>
-							<li><a href="/static/terms" target="_self">Terms of Service</a></li>
-							<li><a href="/static/privacy" target="_self">Privacy Policy</a></li>
-						</ul>
-					</li>
-					<li class="navbar-search">
-						<input data-ng-keydown="SearchKey($event)" data-ng-model="query.term" type="text" class="form-control input-sm" placeholder="Search">
-						<div data-ng-click="Search()" class="searchButton"><i class="fa fa-search"></i></div>
-					</li>
-				</ul>
-				<ul class="nav navbar-nav navbar-right">
-						<li><a data-toggle="modal" data-target="#signUp" href="">Sign Up</a></li>
+				<div class="collapse navbar-collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li class="dropdown hidden-xs hidden-sm siteMenu {{ isNavActive('/static/') }}">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-bars"></i></a>
+							<ul class="dropdown-menu">
+								<li><a href="/static/about" target="_self">About Us</a></li>
+								<li><a href="/static/help" target="_self">Help</a></li>
+								<li><a href="/static/advertise" target="_self">Advertise</a></li>
+								<li class="divider"></li>
+								<li><a href="/static/terms" target="_self">Terms of Use</a></li>
+								<li><a href="/static/privacy" target="_self">Privacy Policy</a></li>
+							</ul>
+						</li>
+						<li class="navbar-search">
+							<input data-ng-keydown="SearchKey($event)" data-ng-model="query.term" type="text" class="form-control input-sm" placeholder="Search">
+							<div data-ng-click="Search()" class="searchButton"><i class="fa fa-search"></i></div>
+						</li>
+					</ul>
+					<ul class="nav navbar-nav navbar-right">
+							<li><a data-toggle="modal" data-target="#signUp" href="">Sign Up</a></li>
 	<li><a data-toggle="modal" data-target="#signIn" href="">Sign In</a></li>
 
-				</ul>
-				<ul class="nav navbar-nav navbar-left">
-					<li data-ng-repeat="group in groups" class="hidden-sm hidden-xs {{ isNavActive('/g/' + group.Slug) }}"><a href="/g/{{group.Slug}}/" target="_self" data-ng-bind="group.Name"></a></li>
-					<li class="{{ isNavActive('/shop') }}"><a href-reload="/shop" target="_self">Shop</a></li>
-					<li class="visible-xs"><a href="/static/about" target="_self">About Us</a></li>
-					<li class="visible-xs"><a href="/static/terms" target="_self">Terms of Service</a></li>
-					<li class="visible-xs"><a href="/static/privacy" target="_self">Privacy Policy</a></li>
-					<li class="visible-xs mobileSignout">
-					</li>
-				</ul>
-			</div>
-			<!--/.nav-collapse -->
-		</div>
-	</div>
-	<div class="scrollup"><i class="fa fa-arrow-circle-up"></i></div>
-
-	<!-- Modal -->
-	<div class="modal fade" id="signUp" tabindex="-1" role="dialog" aria-labelledby="signUp" aria-hidden="true">
-		<div class="modal-dialog">
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-					<h2 class="modal-title">Join Diply Today</h2>
+					</ul>
+					<ul class="nav navbar-nav navbar-left">
+						<li data-ng-repeat="cat in cats | filter:{IsCloaked: false}" data-mega-hover="" class="dropdown {{isMegaMenu(cat)}} hidden-sm hidden-xs {{ isNavActive('/c/' + cat.Slug) }}">
+							<a href="#" class="dropdown-toggle" data-mega-click="" target="_self" data-href-reload="/c/{{cat.Slug}}" data-ng-bind="cat.Name"></a>
+							<div class="dropdown-menu col-sm-6">
+								<ul class="nav nav-stacked subcat col-md-3">
+									<li class="sub" data-ng-repeat="sub in subcats| filter:{ParentCategoryId: cat.Id}:true" data-sub-cat-hover="" data-mega-click="" data-toggle="subcat" data-target=".{{cat.Slug}}{{$index}}"><a href="/c/{{cat.Slug}}/{{sub.Slug}}" target="_self">{{sub.Name}}</a></li>
+									<li class="more-cat"><a data-mega-click="" href="/c/{{cat.Slug}}" target="_self" data-href-reload="/c/{{cat.Slug}}">More in {{cat.Name}}</a></li>
+								</ul>
+								<ul data-ng-repeat="sub in subcats| filter:{ParentCategoryId: cat.Id}:true" class="media-list col-md-9 {{cat.Slug}}{{$index}}" data-ng-class="{hide: $index != 0}">
+									<li class="dropdown-header text-muted" data-target="">RECOMMENDED</li>
+									<li class="media" data-ng-repeat="subpost in sub.posts| limitTo:4"><a target="_self" href="/{{BrandSlug(subpost)}}/{{subpost.Slug}}/{{subpost.Id}}"><img class="pull-left media-object" data-ng-src="{{ subpost.ThumbUrl }}">{{subpost.Title}}</a><div class="clearfix"></div></li>
+									<li class="more-link"><a href="/c/{{cat.Slug}}/{{sub.Slug}}" target="_self" data-mega-click=""><i class="fa fa-caret-right"></i>MORE in {{sub.Name}}</a></li>
+								</ul>
+							</div>
+						</li>
+						<li class="{{ isNavActive('/c/videos') }} hidden-sm hidden-xs"><a data-href-reload="/c/videos" data-mega-click="" target="_self">Videos</a></li>
+						<li class="{{ isNavActive('/shop') }}"><a data-href-reload="/shop" target="_self">Shop</a></li>
+						<li class="{{ isNavActive('/static/advertise') }} hidden-sm hidden-xs advertiseLink"><a href="/static/advertise" target="_self">Advertise</a></li>
+					</ul>
 				</div>
-				<div class="modal-body">
-					<p>Connect with a social network</p>
-<form action="/account/externallogin?ReturnUrl=" method="post"><input name="__RequestVerificationToken" type="hidden" value="OOPrlVhTqQkeY3oni33FmldKIqn2iBfTj1enzQarGi8TYbfv5moa1R2yWX-qnJqYC8-MBtugryzsZrhDFbq_TL6hQCs1">	<fieldset id="socialLoginList">
-		
-		<p>
-			<button type="submit" class="btn btn-facebook" name="provider" value="facebook" title="Log in using your Facebook account">Facebook</button>
-			<button type="submit" class="btn btn-twitter" name="provider" value="twitter" title="Log in using your Twitter account">Twitter</button>
-			<button type="submit" class="btn btn-google" name="provider" value="google" title="Log in using your Google account">Google</button>
-		</p>
-	</fieldset>
-</form>				</div>
+				
 			</div>
-			<!-- /.modal-content -->
 		</div>
-		<!-- /.modal-dialog -->
-	</div>
-	<div class="modal fade" id="signIn" tabindex="-1" role="dialog" aria-labelledby="signUp" aria-hidden="true">
-		<div class="modal-dialog">
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-					<h2 class="modal-title">Sign In to Diply</h2>
-				</div>
-				<div class="modal-body">
-					<p>Sign into your Diply account with your social network</p>
-<form action="/account/externallogin?ReturnUrl=" method="post"><input name="__RequestVerificationToken" type="hidden" value="QZlThjEvrHqdh8AL3DskY6M42rfNIA5q4-F2fuI8sEnuMlCPEkgecqQIylslMKXUxsGzEO9UYjnAZd-_7KbCr-9D74k1">	<fieldset id="socialLoginList">
-		
-		<p>
-			<button type="submit" class="btn btn-facebook" name="provider" value="facebook" title="Log in using your Facebook account">Facebook</button>
-			<button type="submit" class="btn btn-twitter" name="provider" value="twitter" title="Log in using your Twitter account">Twitter</button>
-			<button type="submit" class="btn btn-google" name="provider" value="google" title="Log in using your Google account">Google</button>
-		</p>
-	</fieldset>
-</form>				</div>
-			</div>
-			<!-- /.modal-content -->
-		</div>
-		<!-- /.modal-dialog -->
-	</div>
-	<!-- /.modal -->
-
-	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/bundles/modernizr?v=qVODBytEBVVePTNtSFXgRX0NCEjh9U_Oj8ePaSiRcGg1"></script>
-<script src="/bundles/default?v=K484J0d2ipXw9SugjbZrmgO9cw5Kpf1hiXJX66N_mY81"></script>
-<script src="/bundles/jqueryval?v=mRjM0qa6T8GTCa8lhmXMI_-t5fsTCmHSxo4BqkY9x4A1"></script>
+		<div class="scrollup"><i class="fa fa-arrow-circle-up"></i></div>
 
 
-	<div class="super">
-		<!-- Main Content -->
-		
+		<div class="super">
+			
+			
 <div class="container">
 		<div class="row">
 			<div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
@@ -205,6 +201,7 @@
 				<h3><b>Advertisers</b></h3>
 				<p>Each time you visit a Diply website, third party advertisers and advertising companies, including Google, may collect personal and other information, through your IP address, and by using technology such as cookies.  Advertisements appearing on the website are delivered to you by third party advertisers, often based on what you do on various websites.  This is sometimes referred to as behavioural advertising, or contextual advertising.  Third party advertisers and advertising companies use information about you (not including your name or email address), including your IP address and cookies collected through your use of websites, to provide advertisements on this website about goods and services that may be of interest to you.  The use of this information collected by third party advertisers and advertising companies through this website is not covered by this privacy policy and Diply is not responsible for the use of this information by third parties.</p>
 				<p>You may opt out of the use of Google’s cookies for interest-based advertising by visiting the Google ads preference manager on the Google website. You may opt out of Google and other third-party’s use of cookies and other similar technology for interest-based advertising by visiting sites such as  <a href="http://www.aboutads.info" target="_blank">www.aboutads.info</a> or <a href="http://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a>.  Your web browser also gives you options regarding cookies.</p>
+				<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">www.networkadvertising.org/managing/opt_out.asp </a></p>
 
 				<h3><b>Your Privacy Choices</b></h3>
 				<p>Users may post information on the website (user registration may be required), which you may or may not want to share with certain other users.  Users may make privacy choices by selecting options here. Your default privacy settings will be the most privacy friendly settings with the least sharing.  Users should keep the privacy choices they have made in mind and avoid posting information they do not want to be shared in light of those choices.  User information is retained by Diply for as long as you maintain a login ID and profile, and for a period of up to 2 years after you terminate your profile.  Users may however choose to terminate their profile and require Diply to delete all their personal information.</p>
@@ -231,73 +228,199 @@
 
 
     </div> <!-- /container -->
+		</div>
+
+	</div> 
+
+	<script src="/bundles/scripts_async?v=g6xZsLhQUx2EbMXXDSqK9UvP-pbR4BQt1SqZilR5ycc1" async=""></script>
+
+	
+	<div class="modal fade" id="signUp" tabindex="-1" data-role="dialog" aria-labelledby="signUp" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+					<h2 class="modal-title">Join Diply Today</h2>
+				</div>
+				<div class="modal-body">
+					<p>Connect with a social network</p>
+<form action="/account/externallogin?ReturnUrl=" method="post"><input name="__RequestVerificationToken" type="hidden" value="wQKJ4_8nL_UkG1z0icAkk6a-7-F1DRwdwki1okvq_SYFPO9YNPbG8FFYE26mDM0PPT6fgotTRQbtxwdDNrSJQTouTzA1">	<fieldset>
+		
+		<p>
+			<button type="submit" class="btn btn-facebook" name="provider" value="facebook" title="Log in using your Facebook account">Facebook</button>
+			<button type="submit" class="btn btn-twitter" name="provider" value="twitter" title="Log in using your Twitter account">Twitter</button>
+			<button type="submit" class="btn btn-google" name="provider" value="google" title="Log in using your Google account">Google</button>
+		</p>
+	</fieldset>
+</form>				</div>
+			</div>
+			
+		</div>
+		
 	</div>
+	<div class="modal fade" id="signIn" tabindex="-1" data-role="dialog" aria-labelledby="signUp" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+					<h2 class="modal-title">Sign In to Diply</h2>
+				</div>
+				<div class="modal-body">
+					<p>Sign into your Diply account with your social network</p>
+<form action="/account/externallogin?ReturnUrl=" method="post"><input name="__RequestVerificationToken" type="hidden" value="IvEEY0_gfUhsJ_JZZdCc82zHPScqNoWi50qBBtfCRYkC1OyI3hYmrKHTC4EzSXetiEGe56wiQyDrhhk3n18Lw8WZw3U1">	<fieldset>
+		
+		<p>
+			<button type="submit" class="btn btn-facebook" name="provider" value="facebook" title="Log in using your Facebook account">Facebook</button>
+			<button type="submit" class="btn btn-twitter" name="provider" value="twitter" title="Log in using your Twitter account">Twitter</button>
+			<button type="submit" class="btn btn-google" name="provider" value="google" title="Log in using your Google account">Google</button>
+		</p>
+	</fieldset>
+</form>				</div>
+			</div>
+			
+		</div>
+		
+	</div>
+	
 
 	
-	
-	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.2/angular.min.js"></script>
-	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.2/angular-route.min.js"></script>
-	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.2/angular-resource.min.js"></script>
-	<script src="/bundles/angularjs?v=N89iXl-lTuUH-ePWGzJVxT_B3KG4Sl1LhuQ0Cw3DvsY1"></script>
-
 
 	<div id="fb-root"></div>
 
 <script>
-<!-- Google Analytics -->
-	(function (i, s, o, g, r, a, m) {
-		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-			(i[r].q = i[r].q || []).push(arguments)
-		}, i[r].l = 1 * new Date(); a = s.createElement(o),
-	m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	window.fbAsyncInit = function () {
+		// init the FB JS SDK
+		FB.init({
+			appId: '627392657291988', // App ID from the app dashboard
+			status: true,                                 // Check Facebook Login status
+			xfbml: true                                  // Look for social plugins on the page
+		});
 
-	ga('create', 'UA-44184928-2', 'diply.com');
-	ga('create', 'UA-45347101-1', { 'name': 'diply2' });
-
-	ga('send', 'pageview');
-	ga('diply2.send', 'pageview');
-
-	// AdSense Analytics Linking Code
-	window.google_analytics_uacct = "UA-44184928-2";
+		FB.getLoginStatus(function (response) {
+			var facebookPageId = '271915499553486';
+			if (typeof (ToggleLikeButtonOnHomepage) != 'undefined') ToggleLikeButtonOnHomepage(response, facebookPageId);
+			if (typeof (ToggleLikeButtonOnPostDetails) != 'undefined') ToggleLikeButtonOnPostDetails(response, facebookPageId);
+		});
+	};
 
 
-	// Start Alexa Certify Javascript 
-	_atrk_opts = { atrk_acct:"PA4wi1asyr00gj", domain:"diply.com",dynamic: true};
-	(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
-	// End Alexa Certify Javascript
+		// Load Facebook SDK Asynchronously
+		(function (d) {
+			var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+			if (d.getElementById(id)) { return; }
+			js = d.createElement('script'); js.id = id; js.async = true;
+			js.src = "//connect.facebook.net/en_US/all.js";
+			ref.parentNode.insertBefore(js, ref);
+		}(document));
+
+		//-- Google Analytics 
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+		m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-44184928-2', 'diply.com');
+		ga('create', 'UA-45347101-1', { 'name': 'diply2' });
+		//ga('require', 'linkid', 'linkid.js');
+		ga('require', 'displayfeatures');
+		ga('send', 'pageview');
+		ga('diply2.send', 'pageview');
+
+		// AdSense Analytics Linking Code
+		window.google_analytics_uacct = "UA-44184928-2";
 
 
-	// Begin comScore Tag
-	var _comscore = _comscore || [];
-	_comscore.push({ c1: "2", c2: "17462746" });
-	(function() {
-		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-		el.parentNode.insertBefore(s, el);
-	})();
+		// Start Alexa Certify Javascript 
+		_atrk_opts = { atrk_acct: "PA4wi1asyr00gj", domain: "diply.com", dynamic: true };
+		(function () { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(as, s); })();
+		// End Alexa Certify Javascript
+
+
+		// Begin comScore Tag
+		var _comscore = _comscore || [];
+		_comscore.push({ c1: "2", c2: "17462746" });
+		(function () {
+			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+			s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+			el.parentNode.insertBefore(s, el);
+		})();
 	//End comScore Tag
 
-	// Load Facebook SDK Asynchronously
-	(function (d) {
-		var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-		if (d.getElementById(id)) { return; }
-		js = d.createElement('script'); js.id = id; js.async = true;
-		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-		ref.parentNode.insertBefore(js, ref);
-	}(document));
+
+		// Auto opens twitter share in a small popup
+		(function () {
+			if (window.__twitterIntentHandler) return;
+			var intentRegex = /twitter\.com(\:\d{2,4})?\/intent\/(\w+)/,
+					windowOptions = 'scrollbars=yes,resizable=yes,toolbar=no,location=yes',
+					width = 550,
+					height = 420,
+					winHeight = screen.height,
+					winWidth = screen.width;
+
+			function handleIntent(e) {
+				e = e || window.event;
+				var target = e.target || e.srcElement,
+						m, left, top;
+
+				while (target && target.nodeName.toLowerCase() !== 'a') {
+					target = target.parentNode;
+				}
+
+				if (target && target.nodeName.toLowerCase() === 'a' && target.href) {
+					m = target.href.match(intentRegex);
+					if (m) {
+						left = Math.round((winWidth / 2) - (width / 2));
+						top = 0;
+
+						if (winHeight > height) {
+							top = Math.round((winHeight / 2) - (height / 2));
+						}
+
+						window.open(target.href, 'intent', windowOptions + ',width=' + width +
+																		',height=' + height + ',left=' + left + ',top=' + top);
+						e.returnValue = false;
+						e.preventDefault && e.preventDefault();
+					}
+				}
+			}
+
+			if (document.addEventListener) {
+				document.addEventListener('click', handleIntent, false);
+			} else if (document.attachEvent) {
+				document.attachEvent('onclick', handleIntent);
+			}
+			window.__twitterIntentHandler = true;
+		}());
+	
+
+		// Taboola Script
+		window._taboola = window._taboola || [];
+			_taboola.push({article:'auto'}); 
+			!function (e, f, u) {
+				e.async = 1;
+				e.src = u;
+				f.parentNode.insertBefore(e, f);
+			}(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/goviralinc-diply/loader.js');
 
 </script>
 
-<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=PA4wi1asyr00gj" style="display:none" height="1" width="1" alt="" /></noscript>
-<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=17462746&cv=2.0&cj=1" /></noscript>
+<noscript>
+	<img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=PA4wi1asyr00gj" style="display: none" height="1" width="1" alt="" />
+</noscript>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=17462746&cv=2.0&cj=1" />
+</noscript>
+
 
 	
 
-
+	
 	<script type="text/javascript">
 		var baseUrl = "http://diply.com";
-
+		var build_id = "5275.29440";
+		
 		$(document).ready(function () {
 			// Scroll to Top
 			$(window).scroll(function () {
@@ -312,22 +435,24 @@
 				$("html, body").animate({ scrollTop: 0 }, 600);
 				return false;
 			});
+		
+
+			
+
 
 			Date.prototype.toShortDateString = function () {
 				return this.getFullYear() + "/" + (this.getMonth() + 1 <= 9 ? "0" : "") + (this.getMonth() + 1) + "/" + (this.getDate() <= 9 ? "0" : "") + this.getDate();
 			};
 
 			// Close Menu
-			var navMain = $(".navbar-ex1-collapse");
-
 			$('.navbar-search input').keydown(function (e) {
-				if ($(".navbar-collapse.navbar-ex1-collapse.in").exists()) {
+				if ($(".slide-right.open")) {
 					if (e.keyCode == 13) {
-						navMain.collapse('hide');
+						$(".slide-right").removeClass('open');
+						$(".slide-left").removeClass('open');
 					}
 				}
 			});
-
 			$.fn.removeAttributes = function () {
 				return this.each(function () {
 					var attributes = $.map(this.attributes, function (item) {
@@ -339,11 +464,19 @@
 					});
 				});
 			}
+
+			// GOOGLE PLUS BUTTONS
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+
 		});
 
+		//Remove 300ms click delay on touchscreens
+		window.addEventListener('load', function () {
+			FastClick.attach(document.body);
+		}, false);
 	</script>
-
-	<style></style>
-
+	
 
 </body></html>
