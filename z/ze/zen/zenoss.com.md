@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zenoss.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029053422id_/http%3A//www.zenoss.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenoss.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001233id_/http%3A//www.zenoss.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-| 
+# Privacy Policy | Transforming IT Operations
 
 The intent of this privacy policy is to disclose Zenoss privacy practices, whether you are a casual browser of our website, or a community member who chooses to interact actively with us through our website, use our software, or receive email from us.
 
@@ -40,7 +38,7 @@ The intent of this privacy policy is to disclose Zenoss privacy practices, wheth
 
 ### How can you access or correct your personally-identifying information?
 
-> You may view, correct or update the personally-identifying information we have about you by sending a request to privacy@zenoss.com. In addition, if you no longer wish to receive our electronic communications, you may opt-out of receiving those communications by following the instructions included in each email or communication you receive. If we use any of your personal information in a manner that you believe is inconsistent with this privacy statement, please notify us immediately by sending an email to privacy@zenoss.com. Your only remedy in any such case is to ask us to correct such inconsistency.
+> You may view, correct or update the personally-identifying information we have about you by sending a request to [privacy@zenoss.com](mailto:privacy@zenoss.com). In addition, if you no longer wish to receive our electronic communications, you may opt-out of receiving those communications by following the instructions included in each email or communication you receive. If we use any of your personal information in a manner that you believe is inconsistent with this privacy statement, please notify us immediately by sending an email to [privacy@zenoss.com](mailto:privacy@zenoss.com). Your only remedy in any such case is to ask us to correct such inconsistency.
 
 ### What are the privacy policies of linked sites and other third parties?
 
@@ -60,6 +58,4 @@ The intent of this privacy policy is to disclose Zenoss privacy practices, wheth
 
 ### How can you contact us?
 
-> If you have any questions about this statement or our privacy practices, you may contact us via email at privacy@zenoss.com.  
-  
----|---
+> If you have any questions about this statement or our privacy practices, you may contact us via email at [privacy@zenoss.com](mailto:privacy@zenoss.com).
