@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the news12.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203054107id_/http%3A//www.news12.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news12.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103820id_/http%3A//www.news12.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - News 12
 
 Privacy Policy News 12 Interactive, Inc. ("News 12" or "we") strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience on this Web site. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number or other information about you that could potentially identify you) subject to the terms of this privacy policy. Please note this policy applies only to information collected by News 12 through this Web site and does not impact information collected or used by News 12 or its Affiliates through other means.
 
