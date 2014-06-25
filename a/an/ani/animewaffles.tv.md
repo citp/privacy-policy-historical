@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the animewaffles.tv privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014075659id_/http%3A//animewaffles.tv/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animewaffles.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133301id_/http%3A//animewaffles.tv/privacy-policy.php) for the most accurate reproduction.*
 
 # Watch Anime Online | Watch English Subbed Anime & Dubbed Anime Episodes.
 
-This Privacy Policy governs the manner in which animewafflesTV collects, uses, maintains and discloses information collected from users (each, a "User") of the [animewaffles.tv](https://web.archive.org/web/20131014075659id_/http%3A//animewaffles.tv/animewaffles.tv) website ("Site"). This privacy policy applies to the Site and all products and services offered by animewafflesTV.
+This Privacy Policy governs the manner in which animewafflesTV collects, uses, maintains and discloses information collected from users (each, a "User") of the [animewaffles.tv](https://web.archive.org/web/20140625133301id_/http%3A//animewaffles.tv/animewaffles.tv) website ("Site"). This privacy policy applies to the Site and all products and services offered by animewafflesTV.
 
 **Personal identification information**
 
