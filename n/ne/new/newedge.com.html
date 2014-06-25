@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newedge.com privacy policy that was archived on 2013-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204123636id_/http%3A//www.newedge.com/content/newedgecom/en/footer/privacy-notice.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newedge.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625072149id_/http%3A//www.newedge.com/content/newedgecom/en/footer/privacy-notice.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://localhost:4502/libs/wcm/stats/tracker.js?path=/content/newedgecom/en/footer/privacy-notice"></script>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -8,7 +8,11 @@
     
     
     
-    <script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
+
+    <script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
 <script type="text/javascript">
     {
         window.setTimeout(function() {
@@ -16,15 +20,11 @@
         }, 1);
     }
     </script>
-
 <script type="text/javascript">function trackMVTImpression() {
     
-        if (window.randomBannerList) {
-            var trackImg = new Image();
-            trackImg.src = 'http://localhost:4502/libs/wcm/mvt/tracker/view?path=' + encodeURIComponent('/content/newedgecom/en/footer/privacy-notice') + '&vars=' + encodeURIComponent(window.randomBannerList);
-        }
-    
     }</script>
+
+
 
     <title>Privacy Notice</title>
 
@@ -46,9 +46,14 @@
 
 <link rel="stylesheet" href="/apps/newedgecom/docroot/newedgecom/css/newedgecom-oldschool.css" type="text/css">
 <link rel="stylesheet" href="/apps/newedgecom/docroot/newedgecom/css/jquery-ui-1.8.13.custom.css" type="text/css">
+<link rel="stylesheet" href="/apps/newedgecom/docroot/newedgecom/css/newedge-sg.css" type="text/css">
+<!--<link rel="stylesheet" href="/apps/newedgecom/docroot/newedgecom/css/newedge-sg-ext.css" type="text/css"/>-->
+
     
    
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>-->
+    <script type="text/javascript" src="/apps/newedge/docroot/global/js/jquery.min.js"></script>
+    
     <!-- jquery plugins -->
     
     <script type="text/javascript" src="/apps/newedge/docroot/global/js/jquery/plugins/jquery.easing.1.3.js"></script>
@@ -57,7 +62,11 @@
     <script type="text/javascript" src="/apps/newedge/docroot/global/js/jquery/plugins/jquery.easing.1.3.js"></script>
    
     <script type="text/javascript" src="/apps/newedge/docroot/global/js/jquery/plugins/jquery.cycle.all.js"></script>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+    <!-- 
+    <script type="text/javascript"  src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+    -->
+    <script type="text/javascript" src="/apps/newedge/docroot/global/js/jquery-ui.min.js"></script>
+     
     <script type="text/javascript" src="/apps/newedge/docroot/global/js/jquery/plugins/jquery.jcarousel.min.js"></script>
     <script type="text/javascript" src="/apps/newedge/docroot/global/js/jquery/plugins/jquery.jscrollpane.min.js"></script>
     
@@ -71,6 +80,10 @@
 
 
 <script type="text/javascript" src="/apps/newedgecom/docroot/newedgecom/js/newedgecom.js"></script>
+<!-- 
+<script type="text/javascript" src="/apps/newedgecom/docroot/newedgecom/js/jquery-1.10.2.js"></script>
+<script type="text/javascript" src="/apps/newedgecom/docroot/newedgecom/js/jquery-ui-1.10.4.js"></script>
+-->
 
    
 
@@ -122,7 +135,7 @@
 
 <div id="hdrBox">
     <div class="headeriparsys parsys iparsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="headeriparsys parsys iparsys"><div class="section"><div class="parbase richTextEditor">
+</div><div class="iparys_inherited"><div class="headeriparsys parsys iparsys"><div class="parbase richTextEditor section">
 
 
 
@@ -140,7 +153,7 @@
 
 
 </div>
-</div><div class="section"><div class="parbase header">
+<div class="parbase section header">
 
 
 
@@ -153,15 +166,17 @@ getHeadline();
 $(document).ready(function(){
      var panelHeadline = getHeadline();
     $("#headline").html(panelHeadline);
-});
-</script>
+	$( "#newedgeLogo" ).show();
 
+});
+
+
+</script>
 <div id="homeBox" style="position:relative">
 <form action="/content/newedgecom/en/search.html" method="get" id="topSearch">
     <input type="text" name="q" class="searchInput"> 
     <input type="submit" class="searchSubmit" value="search">
 </form>
-
 
 <div class="parbase mainNav">
 
@@ -179,7 +194,7 @@ $(document).ready(function(){
         <ul class="mainNavList level1">
     
     <li class="mainNavItem level1 " id="home">
-        <a class="mainNavLink  level1  " href="/content/newedgecom/en/home.html">Home</a>
+        <a class="mainNavLink  level1  " href="/content/newedgecom/en/home.html"></a>
         
          
                  
@@ -193,7 +208,7 @@ $(document).ready(function(){
 
     
     <li class="mainNavItem level1 " id="about-us">
-        <a class="mainNavLink  level1  " href="/content/newedgecom/en/about-us.html">About Newedge</a>
+        <a class="mainNavLink  level1  " href="#">About Newedge</a>
         
          
                  
@@ -206,7 +221,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="our-company">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/about-us/our-company.html">Our Company</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/about-us/our-company.html">Our Company</a><span class="mainNavDivider"></span>
  
                 
                     
@@ -237,7 +252,7 @@ $(document).ready(function(){
                 
                     
                     <li class="mainNavItem level3 " id="parent-banks">
-                        <a class="mainNavLink level3 " href="/content/newedgecom/en/about-us/our-company/parent-banks.html">Parent Banks</a>
+                        <a class="mainNavLink level3 " href="/content/newedgecom/en/about-us/our-company/parent-banks.html">Parent Bank</a>
                         
                         
                     </li>
@@ -296,7 +311,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="newsroom">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/about-us/newsroom.html">Newsroom</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/about-us/newsroom.html">Newsroom</a><span class="mainNavDivider"></span>
  
                 
                     
@@ -346,7 +361,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="by-the-numbers">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/about-us/by-the-numbers.html">By the Numbers</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/about-us/by-the-numbers.html">By the Numbers</a><span class="mainNavDivider"></span>
  
                 
                     
@@ -393,7 +408,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="regulation">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/about-us/regulation.html">Regulation</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/about-us/regulation.html">Regulation</a><span class="mainNavDivider"></span>
  
                 
                     
@@ -439,6 +454,22 @@ $(document).ready(function(){
                     
                 
                     
+                    <li class="mainNavItem level3 " id="emir">
+                        <a class="mainNavLink level3 " href="/content/newedgecom/en/about-us/regulation/emir.html">EMIR</a>
+                        
+                        
+                    </li>
+                    
+                
+                    
+                    <li class="mainNavItem level3 " id="fatca">
+                        <a class="mainNavLink level3 " href="/content/newedgecom/en/about-us/regulation/fatca.html">FATCA</a>
+                        
+                        
+                    </li>
+                    
+                
+                    
                     <li class="mainNavItem level3 " id="information-clients-non-professionnels">
                         <a class="mainNavLink level3 " href="/content/newedgecom/en/about-us/regulation/information-clients-non-professionnels.html">Information Clients Non Professionnels</a>
                         
@@ -464,27 +495,13 @@ $(document).ready(function(){
              
             
         
-            
-            <ul class="mainNavList  level2" id="leadership">
-                <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/about-us/leadership.html">Leadership</a>
- 
-                
-            </li>
-                </ul>
-                
-           
- 
-             
-            
-        
         </div>
     </div></li>
     
 
     
     <li class="mainNavItem level1 " id="brokerage-services">
-        <a class="mainNavLink  level1  " href="/content/newedgecom/en/brokerage-services.html">Brokerage Services</a>
+        <a class="mainNavLink  level1  " href="#">Brokerage Services</a>
         
          
                  
@@ -497,7 +514,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="execution">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/brokerage-services/execution.html">Execution</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/brokerage-services/execution.html">Execution</a><span class="mainNavDivider"></span>
  
                 
                     
@@ -517,6 +534,14 @@ $(document).ready(function(){
                         
                     </li>
                     
+                
+                    
+                    <li class="mainNavItem level3 " id="technical-analysis">
+                        <a class="mainNavLink level3 " href="/content/newedgecom/en/brokerage-services/execution/technical-analysis.html">Technical Analysis</a>
+                        
+                        
+                    </li>
+                    
                         </ul>
                     
                 
@@ -531,7 +556,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="clearing">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/brokerage-services/clearing.html">Clearing</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/brokerage-services/clearing.html">Clearing</a><span class="mainNavDivider"></span>
  
                 
                     
@@ -581,7 +606,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="prime-brokerage">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/brokerage-services/prime-brokerage.html">Prime Brokerage</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/brokerage-services/prime-brokerage.html">Prime Brokerage</a><span class="mainNavDivider"></span>
  
                 
                     
@@ -636,7 +661,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="exchanges">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/about-us/by-the-numbers/exchanges.html">Exchange Memberships</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/about-us/by-the-numbers/exchanges.html">Exchange Memberships</a><span class="mainNavDivider"></span>
  
                 
             </li>
@@ -650,7 +675,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="newedge-pulse">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/brokerage-services/newedge-pulse.html">Newedge Pulse</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/brokerage-services/newedge-pulse.html">Newedge Pulse</a><span class="mainNavDivider"></span>
  
                 
             </li>
@@ -667,7 +692,7 @@ $(document).ready(function(){
 
     
     <li class="mainNavItem level1 " id="market-coverage">
-        <a class="mainNavLink  level1  " href="/content/newedgecom/en/market-coverage.html">Market Coverage</a>
+        <a class="mainNavLink  level1  " href="#">Market Coverage</a>
         
          
                  
@@ -680,7 +705,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="equities-and-indexes">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/market-coverage/equities-and-indexes.html">Equities and Indexes</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/market-coverage/equities-and-indexes.html">Equities and Indexes</a><span class="mainNavDivider"></span>
  
                 
                     
@@ -722,7 +747,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="commodities">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/market-coverage/commodities.html">Commodities</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/market-coverage/commodities.html">Commodities</a><span class="mainNavDivider"></span>
  
                 
                     
@@ -764,7 +789,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="fixed-income-interest-rates">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/market-coverage/fixed-income-interest-rates.html">Fixed Income/Interest Rates</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/market-coverage/fixed-income-interest-rates.html">Fixed Income/Interest Rates</a><span class="mainNavDivider"></span>
  
                 
                     
@@ -819,7 +844,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="foreign-exchange">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/market-coverage/foreign-exchange.html">Foreign Exchange</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/market-coverage/foreign-exchange.html">Foreign Exchange</a><span class="mainNavDivider"></span>
  
                 
                     
@@ -864,7 +889,7 @@ $(document).ready(function(){
 
     
     <li class="mainNavItem level1 " id="careers">
-        <a class="mainNavLink  level1  " href="/content/newedgecom/en/careers.html">Careers</a>
+        <a class="mainNavLink  level1  " href="#">Careers</a>
         
          
                  
@@ -877,7 +902,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="values">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/careers/values.html">Values</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/careers/values.html">Values</a><span class="mainNavDivider"></span>
  
                 
             </li>
@@ -891,7 +916,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="careers-at-newedge">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/careers/careers-at-newedge.html">Careers at Newedge</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/careers/careers-at-newedge.html">Careers at Newedge</a><span class="mainNavDivider"></span>
  
                 
                     
@@ -899,14 +924,6 @@ $(document).ready(function(){
                     
                     <li class="mainNavItem level3 " id="newedge-at-a-glance">
                         <a class="mainNavLink level3 " href="/content/newedgecom/en/careers/careers-at-newedge/newedge-at-a-glance.html">Newedge at a Glance</a>
-                        
-                        
-                    </li>
-                    
-                
-                    
-                    <li class="mainNavItem level3 " id="talent-communities">
-                        <a class="mainNavLink level3 " href="/content/newedgecom/en/careers/careers-at-newedge/talent-communities.html">Talent Communities</a>
                         
                         
                     </li>
@@ -941,7 +958,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="newedge-culture">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/careers/newedge-culture.html">Newedge Culture</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/careers/newedge-culture.html">Newedge Culture</a><span class="mainNavDivider"></span>
  
                 
                     
@@ -980,7 +997,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="career-opportunities">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/careers/career-opportunities.html">Career Opportunities</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/careers/career-opportunities.html">Career Opportunities</a><span class="mainNavDivider"></span>
  
                 
             </li>
@@ -997,7 +1014,7 @@ $(document).ready(function(){
 
     
     <li class="mainNavItem level1 " id="contact">
-        <a class="mainNavLink  level1  " href="/content/newedgecom/en/contact.html">Contact</a>
+        <a class="mainNavLink  level1  " href="#">Contact</a>
         
          
                  
@@ -1010,7 +1027,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="sales-contacts">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/contact/sales-contacts.html">Sales Contacts</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/contact/sales-contacts.html">Sales Contacts</a><span class="mainNavDivider"></span>
  
                 
             </li>
@@ -1024,7 +1041,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="press-contacts">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/contact/press-contacts.html">Press Contacts</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/contact/press-contacts.html">Press Contacts</a><span class="mainNavDivider"></span>
  
                 
             </li>
@@ -1038,7 +1055,7 @@ $(document).ready(function(){
             
             <ul class="mainNavList  level2" id="global-offices">
                 <li class="mainNavItem  level2 ">
-                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/contact/global-offices.html">Global Offices</a>
+                    <a class="mainNavLink  level2  " href="/content/newedgecom/en/contact/global-offices.html">Global Offices</a><span class="mainNavDivider"></span>
  
                 
                     
@@ -1089,10 +1106,11 @@ $(document).ready(function(){
 </div>
 
 
+
 <div id="striper" style=""></div>
 <div>
     <a href="/content/newedgecom/en/home.html"><img src="/content/dam/shared/images/logos/NE_Bamboo_GW.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png" id="newedgeLogo" alt="Newedge"></a>
-    <h2 id="headline"></h2>
+    <h2 id="headline"><span style="font-size:68px;">In-depth</span>  <span></span><div style="font-size:30px;margin-left:200px">market knowledge</div></h2>
 </div>  
 
 <div id="headerWrap">
@@ -1164,41 +1182,41 @@ $(document).ready(function() {
 
 
 
-<ul id="List" class="multiImageList">
+<ul id="List" class="multiImageList" style="position: relative;">
   
     
-        <li>
-         <img class="panelImg" src="/content/newedgecom/en/imagecolletcions/second-level-panel/_jcr_content/contentOne/imgcaption_2/image.img.jpg">
-        </li>
-    
-  
-    
-        <li>
-         <img class="panelImg" src="/content/newedgecom/en/imagecolletcions/second-level-panel/_jcr_content/contentOne/imgcaption_1/image.img.jpg">
-        </li>
-    
-  
-    
-        <li>
-         <img class="panelImg" src="/content/newedgecom/en/imagecolletcions/second-level-panel/_jcr_content/contentOne/imgcaption_0/image.img.jpg">
-        </li>
-    
-  
-    
-        <li>
+        <li style="position: absolute; top: 0px; left: 0px; display: list-item; z-index: 7; opacity: 1;">
          <img class="panelImg" src="/content/newedgecom/en/imagecolletcions/second-level-panel/_jcr_content/contentOne/imgcaption_4/image.img.jpg">
         </li>
     
   
     
-        <li>
+        <li style="position: absolute; top: 0px; left: 0px; display: none; z-index: 5; opacity: 0;">
+         <img class="panelImg" src="/content/newedgecom/en/imagecolletcions/second-level-panel/_jcr_content/contentOne/imgcaption_3/image.img.jpg">
+        </li>
+    
+  
+    
+        <li style="position: absolute; top: 0px; left: 0px; display: none; z-index: 4; opacity: 0;">
+         <img class="panelImg" src="/content/newedgecom/en/imagecolletcions/second-level-panel/_jcr_content/contentOne/imgcaption_0/image.img.jpg">
+        </li>
+    
+  
+    
+        <li style="position: absolute; top: 0px; left: 0px; display: none; z-index: 3; opacity: 0;">
+         <img class="panelImg" src="/content/newedgecom/en/imagecolletcions/second-level-panel/_jcr_content/contentOne/imgcaption_1/image.img.jpg">
+        </li>
+    
+  
+    
+        <li style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2; opacity: 0;">
          <img class="panelImg" src="/content/newedgecom/en/imagecolletcions/second-level-panel/_jcr_content/contentOne/imgcaption/image.img.jpg">
         </li>
     
   
     
-        <li>
-         <img class="panelImg" src="/content/newedgecom/en/imagecolletcions/second-level-panel/_jcr_content/contentOne/imgcaption_3/image.img.jpg">
+        <li style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 0;">
+         <img class="panelImg" src="/content/newedgecom/en/imagecolletcions/second-level-panel/_jcr_content/contentOne/imgcaption_2/image.img.jpg">
         </li>
     
   
@@ -1241,7 +1259,8 @@ $(document).ready(function() {
 </div><!--headerWrap-->
 </div><!---home-->
 </div>
-</div></div>
+
+</div>
 </div>
 </div>
 
@@ -1284,7 +1303,7 @@ $(document).ready(function() {
 
 
 <div class="parsys iparsys contentOneA"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys contentOneA"><div class="section"><div class="parbase pageTitle">
+</div><div class="iparys_inherited"><div class="parsys iparsys contentOneA"><div class="parbase pageTitle section">
 
 
 
@@ -1309,7 +1328,8 @@ $(document).ready(function() {
 	
 </div>
 </div>
-</div></div>
+
+</div>
 </div>
 </div>
 
@@ -1379,24 +1399,22 @@ $(document).ready(function() {
     
 </style>
 
-<p>Newedge USA, LLC Privacy Notice</p>
-<p>In connection with your relationship with Newedge USA, LLC (“NUSA”), we may collect nonpublic personal information about you from the following sources:</p>
-<ul type="disc">
+<p>In connection with your relationship with Newedge UK Financial Limited and Newedge USA, LLC (together “Newedge”), we may collect nonpublic personal information about you from the following sources:</p>
+<ul>
 <li>Information we receive from you on applications or other forms, such as your name, address, social security number, assets and income;</li>
-<li>Information about your transactions with NUSA, NUSA affiliates or other third-parties, such as that pertaining to your account balance, account transactions, payment history and parties to transactions; and</li>
-<li>Information NUSA receives from a consumer reporting agency, such as that pertaining to your creditworthiness and credit history.</li>
+<li>Information about your transactions with Newedge, Newedge affiliates or other third-parties, such as that pertaining to your account balance, account transactions, payment history and parties to transactions; and</li>
+<li>Information Newedge receives from a consumer reporting agency, such as that pertaining to your creditworthiness and credit history.</li>
 </ul>
-<p>NUSA does not disclose nonpublic personal information about you to anyone, except as permitted by law. Accordingly, NUSA restricts disclosure of nonpublic personal information about you to:</p>
-<ol type="1" start="1">
-<li>NUSA employees who need to know that information to provide you products or services,</li>
-<li>Affiliates (including, among others, Societe Generale and Credit Agricole - CIB), and</li>
-<li>Non-affiliated third-parties as necessary to process your transactions, service your account or otherwise as permitted by law. The types of nonpublic personal information NUSA may disclose to such recipients are listed above.</li>
+<p>Newedge does not disclose nonpublic personal information about you to anyone, except as permitted by law. Accordingly, Newedge restricts disclosure of nonpublic personal information about you to:</p>
+<ol>
+<li>Newedge employees who need to know that information to provide you products or services,</li>
+<li>Affiliates (including, among others, Societe Generale), and</li>
+<li>Non-affiliated third-parties as necessary to process your transactions, service your account or otherwise as permitted by law. The types of nonpublic personal information Newedge may disclose to such recipients are listed above.</li>
 </ol>
-<p>If you decide to close your account(s) or become an inactive customer, we will adhere to the privacy policies and practices as described in this notice. NUSA does not sell personal nonpublic information about current or former customers to any third-parties or share that information with third-parties for marketing purposes.</p>
-<p>In short, NUSA places great importance on holding customer personal and financial information in strict confidence. In this regard, NUSA maintains physical, electronic and procedural safeguards to guard your personal nonpublic information.</p>
+<p>If you decide to close your account(s) or become an inactive customer, we will adhere to the privacy policies and practices as described in this notice. Newedge does not sell personal nonpublic information about current or former customers to any third-parties or share that information with third-parties for marketing purposes.</p>
+<p>In short, Newedge places great importance on holding customer personal and financial information in strict confidence. In this regard, Newedge maintains physical, electronic and procedural safeguards to guard your personal nonpublic information.</p>
 <p>This notice is being issued pursuant to federal statutory and regulatory requirements, and is designed to comply fully with such provisions.</p>
-<p>November 2013<br>
-</p>
+<p>January 2014</p>
 
 
 
@@ -1432,6 +1450,7 @@ $(document).ready(function() {
   </div>
 </div>
 </div>
+
 </div>
 
                     </div>
@@ -1456,7 +1475,7 @@ $(document).ready(function() {
 
 <div id="footerBox">
     <div class="parsys iparsys footeriparsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys footeriparsys"><div class="section"><div class="footer parbase">
+</div><div class="iparys_inherited"><div class="parsys iparsys footeriparsys"><div class="footer parbase section">
 
 
 
@@ -1479,12 +1498,13 @@ $(document).ready(function() {
     
 </style>
 
-<div class="footerContent">Copyright ©2013 Newedge Group | <a href="http://www.newedge.com/content/newedgecom/en/footer/disclaimers.html">Disclaimers</a> | <a href="http://www.newedge.com/content/newedgecom/en/footer/privacy-notice.html">Privacy Notice</a> | <a href="http://www.newedge.com/content/newedgecom/en/footer/site-map.html">Site Map</a> | <a href="http://www.newedge.com/content/newedgecom/en/footer/disclosures.html">Disclosures</a><label>Follow Us:&nbsp;&nbsp; </label><a href="https://twitter.com/Newedge" target="_new"><img src="/content/dam/shared/financial-reports/catalogue/html5/res/TwitterPic.png"></a><a href="http://www.linkedin.com/company/163803?trk=tyah" target="_new"><img src="/content/dam/shared/financial-reports/catalogue/html5/res/LinkedIn.png"></a></div>
+<div class="footerContent">Copyright ©2014 Newedge Group | <a href="http://www.newedge.com/content/newedgecom/en/footer/disclaimers.html">Disclaimers</a> | <a href="http://www.newedge.com/content/newedgecom/en/footer/privacy-notice.html">Privacy Notice</a> | <a href="http://www.newedge.com/content/newedgecom/en/footer/site-map.html">Site Map</a> | <a href="http://www.newedge.com/content/newedgecom/en/footer/disclosures.html">Disclosures</a><label>Follow Us:&nbsp;&nbsp; </label><a target="_new" href="https://twitter.com/Newedge"><img src="/content/dam/shared/financial-reports/catalogue/html5/res/TwitterPic.png"></a><a target="_new" href="http://www.linkedin.com/company/163803?trk=tyah"><img src="/content/dam/shared/financial-reports/catalogue/html5/res/LinkedIn.png"></a></div>
 
 
 
 </div>
-</div></div>
+</div>
+</div>
 
 </div>
 
@@ -1500,7 +1520,8 @@ $(document).ready(function() {
   })();
 </script>
 </div>
-</div></div>
+
+</div>
 </div>
 </div>
 
