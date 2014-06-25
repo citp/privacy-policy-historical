@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instaflex.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807094756id_/http%3A//www.instaflex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instaflex.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053435id_/http%3A//www.instaflex.com/privacy) for the most accurate reproduction.*
 
-# Instaflex Joint Support
+# Instaflex Joint Support|Privacy Policy
 
 Welcome to the InstaFlex website (www.InstaFlex.com or the "Website"). This written policy (the "Privacy Policy") is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this Website and certain related services. Please be sure to read this entire Privacy Policy before using, or submitting information, to this Website.
 
@@ -27,15 +27,15 @@ If our company or our assets are acquired by another company, that company will 
 
 We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas judicial proceeding, court orders or warrants served on us; or (b) to protect and defend our rights or property or the rights or property of third parties.
 
-From time to time, we make the email addresses of those who access our Web site or otherwise provide and email address to us available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your email address with other companies or organizations, please let us know by calling customer care at 1 (877) 869-3310.
+From time to time, we make the email addresses of those who access our Web site or otherwise provide and email address to us available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your email address with other companies or organizations, please let us know by calling customer care at 1-800-436-0920.
 
 Persons who supply us with their telephone numbers may receive telephone contact from us with information regarding products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by entering your email at the unsubscribe page.
 
-Persons who supply us with their telephone numbers may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by calling customer care at 1 (800) 886-8805. Please provide us with your name and phone number. We will use reasonable efforts to remove your name from the list we share with other organizations.
+Persons who supply us with their telephone numbers may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by calling customer care at 1-800-436-0920. Please provide us with your name and phone number. We will use reasonable efforts to remove your name from the list we share with other organizations.
 
 We may disclose Personal Information to contractors, service providers or third party marketers that help us provide services, deliver products or advertisements to you.
 
-If you would like to know (1) the categories of Personal Information that we disclosed in the prior calendar year to third parties about you for the purposes of the third party marketing and/or (2) the names and addresses of such third parties, please contact us at 1 (877) 869-3310.
+If you would like to know (1) the categories of Personal Information that we disclosed in the prior calendar year to third parties about you for the purposes of the third party marketing and/or (2) the names and addresses of such third parties, please contact us at 1-800-436-0920.
 
 **Opt-Out Procedures**  
 You may always opt-out of receiving communications from us. To not receive future e-mail communications from InstaFlex, please go to www.InstaFlex.com or contact us at 1-800-436-0920.
