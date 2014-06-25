@@ -1,18 +1,19 @@
-<!--The following is the downloaded HTML source of the a4joomla.com privacy policy that was archived on 2013-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131212112709id_/http%3A//a4joomla.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the a4joomla.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625081018id_/http%3A//www.a4joomla.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
   <base href="http://a4joomla.com/privacy-policy.html">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="keywords" content="free joomla templates, free joomla 3 templates, free joomla 2.5 templates, joomla 1.5 templates">
+  <meta name="keywords" content="free joomla templates, professional joomla templates">
   <meta name="author" content="Administrator">
-  <meta name="description" content="Free joomla templates, cross-browser compatible free joomla 2.5 templates, joomla 3 templates and joomla 1.5 templates can be downloaded here. Also you can purchase our pro joomla templates.">
+  <meta name="description" content="Cross-browser compatible, responsive free joomla templates can be downloaded here. Also you can purchase our professional joomla templates.">
   <meta name="generator" content="Joomla! - Open Source Content Management">
   <title>Privacy policy</title>
   <link href="http://a4joomla.com/component/search/?Itemid=161&amp;format=opensearch" rel="search" title="Search a4joomla" type="application/opensearchdescription+xml">
   <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css">
-  <link rel="stylesheet" href="/media/com_hikashop/css/frontend_default.css?v=220" type="text/css">
-  <link rel="stylesheet" href="/media/com_hikashop/css/style_mine.css?v=220" type="text/css">
+  <link rel="stylesheet" href="/media/com_hikashop/css/frontend_old.css?v=230" type="text/css">
+  <link rel="stylesheet" href="/media/com_hikashop/css/style_mine.css?v=230" type="text/css">
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
   <style type="text/css">
 
 #hikashop_category_information_module_130 div.hikashop_subcontainer {
@@ -34,9 +35,7 @@
 }
 #hikashop_category_information_module_130 div.hikashop_category,#hikashop_category_information_module_130 div.hikashop_product{
 	float:left;
-	width:100%;
 }
-			
 #hikashop_category_information_module_130 .hikashop_subcontainer {
 		 -moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
@@ -49,15 +48,22 @@
   <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
   <script src="/media/system/js/core.js" type="text/javascript"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
-  <script src="/components/com_k2/js/k2.js?v2.6.7&amp;sitepath=/" type="text/javascript"></script>
+  <script src="/components/com_k2/js/k2.js?v2.6.8&amp;sitepath=/" type="text/javascript"></script>
   <script src="/media/system/js/caption.js" type="text/javascript"></script>
   <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
-  <script src="/media/com_hikashop/js/hikashop.js?v=220" type="text/javascript"></script>
+  <script src="/media/com_hikashop/js/hikashop.js?v=230" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
   <script type="text/javascript">
 window.addEvent('load', function() {
 				new JCaption('img.caption');
 			});
-function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(3540000); });
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});
 <!--
 
 	function hikashopModifyQuantity(id,obj,add,form,type,moduleid){
@@ -80,26 +86,49 @@ function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"
 				e = d.getElementById("hikashop_cart_type_"+id);
 			if(cart_type == "wishlist"){
 				if(e) e.value = "wishlist";
+				if(varform.cid) varform.cid.value = id;
 				f = d.getElementById("type");
 				if(f) f.value = "wishlist";
 			}else{
 				if(e) e.value = "cart";
+				if(varform.cid) varform.cid.value = id;
 			}
 			if(varform.task) {
 				varform.task.value = "updatecart";
 			}
+
+			var input = document.createElement("input");
+			input.type = "hidden";
+			input.name = "from_form";
+			input.value = "true";
+			varform.appendChild(input);
+
 			varform.submit();
 		}else{
-			var url = "/component/hikashop/product/updatecart/tmpl-component.html?from=module&product_id="+id+"&cart_type="+cart_type+"&quantity="+qty+addStr+"&return_url=aHR0cDovL2E0am9vbWxhLmNvbS9wcml2YWN5LXBvbGljeS5odG1s";
+			if(qty){
+				
+			}
+			var url = "/component/hikashop/product/updatecart/tmpl-component.html?from=module&product_id="+id+"&cart_type="+cart_type+"&hikashop_ajax=1&quantity="+qty+addStr+"&return_url=aHR0cDovL2E0am9vbWxhLmNvbS9wcml2YWN5LXBvbGljeS5odG1s";
 			var completeFct = function(result) {
 				var hikaModule = false;
-				if(cart_type != "wishlist") {
-					hikaModule = window.document.getElementById("hikashop_cart_module");
-					if(hikaModule) hikaModule.innerHTML = result;
+				var checkmodule = false;
+				if(result == "notLogged"){ // if the customer is not logged and use add to wishlist, display a popup for the notice
+					SqueezeBox.fromElement("hikashop_notice_wishlist_box_trigger_link",{parse: "rel"});
+				}else if(result.indexOf("URL|") != "-1"){ // id the option is set to redirect, do the redirection
+					result = result.replace("URL|","");
+					window.location = result;
+					return false;
+				}else if(result != ""){ // if the result is not empty check for the module
+					checkmodule = true;
 				}
-				if(!hikaModule) {
-					
+				if(checkmodule){
+					if(cart_type != "wishlist") {
+						hikaModule = window.document.getElementById("hikashop_cart_module");
+					}else{
+						hikaModule = window.document.getElementById("hikashop_wishlist_module");
+					}
 				}
+				if(hikaModule) hikaModule.innerHTML = result;
 			};
 			try{
 				new Ajax(url, {method: "get", onComplete: completeFct}).request();
@@ -112,6 +141,7 @@ function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"
 
 //-->
 
+function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(3540000); });
   </script>
 
 <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
@@ -226,7 +256,7 @@ img, div, a, input { behavior: url(/templates/a4joomla-mylandscape/iepngfix.htc)
            		<div class="moduletable">
 					
 <ul class="menu">
-<li class="item-205"><a href="/">Home</a></li><li class="item-289"><a href="/free-joomla-templates.html">Free joomla templates</a></li><li class="item-291"><a href="/pro-joomla-templates.html">Pro joomla templates</a></li><li class="item-55"><a href="/blog.html">Blog</a></li><li class="item-97"><a href="/faq.html">FAQ</a></li><li class="item-69"><a href="/contact.html">Contact</a></li></ul>
+<li class="item-205"><a href="/">Home</a></li><li class="item-289"><a href="/free-joomla-templates.html">Free joomla templates</a></li><li class="item-291"><a href="/pro-joomla-templates.html">Professional joomla templates</a></li><li class="item-55"><a href="/blog.html">Blog</a></li><li class="item-97"><a href="/faq.html">FAQ</a></li><li class="item-69"><a href="/contact.html">Contact</a></li></ul>
 		</div>
 	
            <div class="clr"></div>
@@ -249,6 +279,13 @@ img, div, a, input { behavior: url(/templates/a4joomla-mylandscape/iepngfix.htc)
     <div id="cbody" class="gainlayout">
     <div id="sidebar" style="width:210px;">     
       		<div class="moduletable">
+					<h3>Shopping Cart</h3>
+					<div class="hikashop_cart_module" id="hikashop_cart_module">
+<div id="hikashop_cart" class="hikashop_cart">
+			The cart is empty		</div>
+		<div class="clear_both"></div></div>
+		</div>
+			<div class="moduletable">
 					<h3>Login Form</h3>
 					<form action="/privacy-policy.html" method="post" id="login-form">
 		<fieldset class="userdata">
@@ -268,7 +305,7 @@ img, div, a, input { behavior: url(/templates/a4joomla-mylandscape/iepngfix.htc)
 	<input type="hidden" name="option" value="com_users">
 	<input type="hidden" name="task" value="user.login">
 	<input type="hidden" name="return" value="aW5kZXgucGhwP2Zvcm1hdD1odG1sJm9wdGlvbj1jb21fY29udGVudCZ2aWV3PWFydGljbGUmaWQ9MTQzJkl0ZW1pZD0xNjE=">
-	<input type="hidden" name="0bc28c4e572fd961bbb8cb20a039ccd0" value="1">	</fieldset>
+	<input type="hidden" name="b0c34f8fb7a6dcb043487e2af1cd5df3" value="1">	</fieldset>
 	<ul>
 		<li>
 			<a href="/your-profile.html?view=reset">
@@ -285,18 +322,11 @@ img, div, a, input { behavior: url(/templates/a4joomla-mylandscape/iepngfix.htc)
 			</ul>
 	</form>
 		</div>
-			<div class="moduletable">
-					<h3>Shopping Cart</h3>
-					<div class="hikashop_cart_module" id="hikashop_cart_module">
-<div id="hikashop_cart" class="hikashop_cart">
-			The cart is empty		</div>
-		<div class="clear_both"></div></div>
-		</div>
 			<div class="moduletable_menu">
 					<h3>Categories</h3>
 					
 <ul class="menu">
-<li class="item-265"><a href="/free-joomla-2-5-templates.html">Free joomla 2.5 templates</a></li><li class="item-304"><a href="/free-joomla-3-templates.html">Free joomla 3 templates</a></li><li class="item-283"><a href="/free-joomla-1-5-templates.html">Free joomla 1.5 templates</a></li><li class="item-284"><a href="/pro-joomla-2-5-templates.html">Pro joomla 2.5 templates</a></li><li class="item-306"><a href="/pro-joomla-3-templates.html">Pro joomla 3 templates</a></li><li class="item-285"><a href="/pro-joomla-1-5-templates.html">Pro joomla 1.5 templates</a></li><li class="item-288"><a href="/free-joomla-templates.html">All free joomla templates</a></li><li class="item-290"><a href="/pro-joomla-templates.html">All pro joomla templates</a></li><li class="item-293"><a href="/free-minimalist-joomla-templates.html">Free minimalist joomla templates</a></li><li class="item-294"><a href="/pro-minimalist-joomla-templates.html">Pro minimalist joomla templates</a></li></ul>
+<li class="item-265"><a href="/free-joomla-2-5-templates.html">Free joomla 2.5 templates</a></li><li class="item-304"><a href="/free-joomla-3-templates.html">Free joomla 3 templates</a></li><li class="item-283"><a href="/free-joomla-1-5-templates.html">Free joomla 1.5 templates</a></li><li class="item-284"><a href="/pro-joomla-2-5-templates.html">Professional joomla 2.5 templates</a></li><li class="item-306"><a href="/pro-joomla-3-templates.html">Professional joomla 3 templates</a></li><li class="item-285"><a href="/pro-joomla-1-5-templates.html">Pro joomla 1.5 templates</a></li><li class="item-288"><a href="/free-joomla-templates.html">All free joomla templates</a></li><li class="item-290"><a href="/pro-joomla-templates.html">All professional joomla templates</a></li></ul>
 		</div>
 	    
   </div>
@@ -373,14 +403,13 @@ img, div, a, input { behavior: url(/templates/a4joomla-mylandscape/iepngfix.htc)
 <div class="custom">
 	<p>a4joomla.com is not affiliated with or endorsed by the Joomla! Project or Open Source Matters. The Joomla! name and logo is used under a limited license granted by Open Source Matters the trademark holder in the United States and other countries.</p>
 <p>&nbsp;</p>
-<p>Copyright 2013 a4joomla.com&nbsp;&nbsp; |&nbsp;&nbsp; <a href="/terms-and-conditions.html">Terms and conditions</a>&nbsp;&nbsp; |&nbsp;&nbsp;<a href="/privacy-policy.html">Privacy policy</a></p>
+<p>Copyright 2014 a4joomla.com&nbsp;&nbsp; |&nbsp;&nbsp; <a href="/terms-and-conditions.html">Terms and conditions</a>&nbsp;&nbsp; |&nbsp;&nbsp;<a href="/privacy-policy.html">Privacy policy</a></p>
 <p>&nbsp;</p></div>
 		</div>
 	    
          </div>
    
-</div>
-
+</div><font style="overflow: auto; position: absolute; height: 0pt; width: 0pt"><a href="http://www.dekoratiftas.net/" title="Dekoratif tas Paneller">Dekoratif tas Paneller</a><a href="http://www.yumurtasunger.net/" title="Yumurta Sunger">Yumurta Sunger</a><a href="http://www.catipenceresi.gen.tr/" title="cati Penceresi">cati Penceresi</a><a href="http://www.catimerdiveni.org/" title="cati cikis Merdiveni">cati cikis Merdiveni</a><a href="http://www.duvartaskaplama.net/" title="Duvar Tas Kaplama">Duvar Tas Kaplama</a><a href="http://www.catipencereleri.com.tr/" title="cati Pencereleri">cati Pencereleri</a><a href="http://www.tuglakaplama.net/" title="Dekoratif Tugla">Dekoratif Tugla</a></font>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
