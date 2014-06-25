@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakingnews.ie privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031185235id_/http%3A//www.breakingnews.ie/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingnews.ie privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053358id_/http%3A//www.breakingnews.ie/info/privacypolicy) for the most accurate reproduction.*
 
 # Confidentiality and Privacy Policy | BreakingNews.ie
 
