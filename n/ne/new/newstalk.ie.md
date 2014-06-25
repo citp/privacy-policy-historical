@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstalk.ie privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220155820id_/http%3A//www.newstalk.ie/footer_pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstalk.ie privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132931id_/http%3A//www.newstalk.ie/footer_pages/privacy.php) for the most accurate reproduction.*
 
 # Newstalk - Privacy Policy
 
@@ -46,7 +46,7 @@ We do not control the use of these cookies and cannot access them due to the way
 
 Feedback, Comments & Suggestions 
 
-If you have any queries about Our Privacy Policy or any queries about the protection of personal information we hold about you, please do not hesitate to contact us. Our address is Newstalk, Newstalk HQ Marconi House Digges Lane Dublin 2 Phone: 01 644 5100 Fax: 01 644 5101 or email us at [info@newstalk.ie](mailto:info@newstalk.ie)
+If you have any queries about Our Privacy Policy or any queries about the protection of personal information we hold about you, please do not hesitate to contact us. Our address is Newstalk, Newstalk HQ Marconi House Digges Lane Dublin 2 Phone: 01 644 5100 Fax: 01 644 5101 or email us at [info@newstalk.com](mailto:info@newstalk.com)
 
 If you do not agree with this Privacy Policy you should not submit your personal information on this website. 
 
