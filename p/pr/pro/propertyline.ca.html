@@ -1,32 +1,69 @@
-<!--The following is the downloaded HTML source of the propertyline.ca privacy policy that was archived on 2013-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131116222926id_/http%3A//www.mpac.ca/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the propertyline.ca privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625114950id_/http%3A//www.mpac.ca/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="en-ca">
 <meta http-equiv="X-UA-Compatible" content="IE=8">
-<meta name="description" content="">
+<meta name="description" content="Privacy Policy">
 
 <title>MPAC - Privacy Policy</title>
 
 <!-- favicon -->
 <link rel="shortcut icon" href="favicon.ico" type="/images/vnd.microsoft.icon">
 <!-- all css -->
+<link rel="stylesheet" type="text/css" href="/css/normalize.css" media="screen">
 <link rel="stylesheet" type="text/css" href="/style_standard.css" class="contrast-settings">
+<link rel="stylesheet" type="text/css" href="/css/superfish.css" media="screen">
 <!-- all JS 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
 -->
-<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
 <script type="text/javascript" src="/js/jquery.hint.js"></script>
-<script type="text/javascript" src="/js/my_js.js"></script>    
+<script type="text/javascript" src="/js/my_js.js"></script>
+<script type="text/javascript" src="/js/hoverIntent.js"></script>
+<script type="text/javascript" src="/js/superfish.js"></script>  
+<script type="text/javascript" src="/js/PIE.js"></script>  <script>
+
+		(function($){ //create closure so we can safely use $ as alias for jQuery
+
+			$(document).ready(function(){
+
+				// initialise plugin
+				var example = $('#example').superfish({
+					//add options here if required
+				});
+
+				// buttons to demonstrate Superfish's public methods
+				$('.destroy').on('click', function(){
+					example.superfish('destroy');
+				});
+
+				$('.init').on('click', function(){
+					example.superfish();
+				});
+
+				$('.open').on('click', function(){
+					example.children('li:first').superfish('show');
+				});
+
+				$('.close').on('click', function(){
+					example.children('li:first').superfish('hide');
+				});
+			});
+
+		})(jQuery);
+</script>       
 </head>
 
 <body>
 <div id="wraper">
+	<p id="topholder"><a id="topPage" name="topPage" class="skip" tabindex="-1">top of the page</a></p>
     <!-- Header Start -->
     <header>
     	<!-- Top Menu Start -->
-        		<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-<script type="text/javascript">
+        <script type="text/javascript">
   google.load('search', '1');
   google.setOnLoadCallback(function() {
     google.search.CustomSearchControl.attachAutoCompletion(
@@ -34,78 +71,61 @@
       document.getElementById('q'),
       'cse-search-box');
   });
-</script>
-<div id="headerTop">
-<nav role="accessibility">
-              <div id="menuAccess">
-                <div id="menuAccessLeft"></div>
-                <div id="menuAccessCenter">
-                    <div id="menuAccessItem"><a href="#contentstart" title="skip to content from here">Skip to Content</a></div>
-                    <div id="menuAccessItemBreak">|</div>
-                    <div id="menuAccessItem"><a href="#" title="link to change contrast" class="changeContrast">Change Contrast</a></div>
-                    <div id="menuAccessItemBreak">|</div>
-                    <div id="menuAccessItem">Text Resize: 
-                    	<a href="#" title="Small font" id="text_small" class="active"><span class="accessibility">sm</span>a<span class="accessibility">ll font size</span></a>  
-                        <a href="#" title="Regular font" id="text_regular"><span class="accessibility">regul</span>a<span class="accessibility">r font size</span></a>
-                        <a href="#" title="Large font" id="text_large"><span class="accessibility">l</span>a<span class="accessibility">rge font size</span></a>
-                    </div>
-                    <div id="menuAccessItemBreak">|</div>
-                    <div id="menuAccessItem"><a href="/accessibility/accessibility.asp" title="Link to Accessibility Site">Accessibility</a></div>
-                    <div id="menuAccessItemBreak">|</div>
-                    <div id="menuAccessItem"><a href="/property_owners/contactus.asp" title="Link to contact Us form">Contact Us</a></div>
-                    <div id="menuAccessItemBreak">|</div>
-                    <div id="menuAccessItem"><a href="http://fr.mpac.ca/default.asp" title="Français">Français</a></div>
-                </div>
-                <div id="menuAccessRight"></div>
-             </div>
-            </nav>
-
-  <nav role="search">
-            	<div id="headerTopSearch">
-                 <form action="http://www.google.com/cse" id="cse-search-box">
-                    <div id="searchBox">
-                    <label class="accessibility " for="searchStr">Search MPAC site</label>
-                    <input type="hidden" name="cx" value="003746765135219269068:whzbholachi">
-                    &nbsp;&nbsp;
-<input type="text" name="q" id="q" autocomplete="on" size="14">
-                   
-                    </div>
-                    <label class="accessibility " for="searchGo">Submit Site Search</label>
-                   
-                    <input name="searchGo" id="searchGo" type="image" src="/images/button_search_google.png" alt="Search">
-                </form>
-                </div>
-    </nav>
-            
+</script> 
+<div id="top">
+   <div class="wrapper">
+     <!-- accessibility menu-->
+      <div id="accessibility" role="navigation" aria-label="Page">        
+         <ul>
+            <li class="roundcorner rcleft"><a id="skiplink" href="#contentstart" title="you can skip to content from here">Skip to Content</a></li> 
+            <li><a href="#" title="This link allows you to change the contrast" class="changeContrast">Change Contrast</a></li>
+            <li><a href="/accessibility/accessibility.asp" title="this link will take you to our Accessibility Site">Accessibility</a></li>
+            <li><a href="#" title="this will maximize the size of your page" id="zoomIn">+<p class="offscreen">, this will increase the size of your page</p></a></li>
+            <li><a href="#" title="this will minimize the size of your page" id="zoomOut">-<p class="offscreen">, this will reduce the size of your page</p></a></li>
+            <li><a href="#" title="this will reset your page back to the default size" id="zoomReset">Reset  <p class="offscreen">your page back to the default size</p></a></li>
+            <li><a href="/property_owners/contactus.asp" title="this link will take you to our contact Us page">Contact Us</a></li>
+            <li class="roundcorner rcright" style="border-right:0;"><a lang="fr" href="http://fr.mpac.ca/default.asp" title="Français">Français</a></li>       
+         </ul>
+      </div>
+      <!--search-->
+      <div id="eaIcon"><a href="http://www.essentialaccessibility.com/mpac/en/" onclick="dcsMultiTrack('WT.ac','eSSential Accessibility English');"><img src="/images/ea-icon.png" alt="link to Essential Accessibility"></a></div>
+      <div id="search" role="search" aria-label="site">
+         <form action="http://www.google.com/cse">
+            <label for="search-q" id="search-label" class="offscreen">search</label>
+            <input type="hidden" name="cx" value="003746765135219269068:whzbholachi">
+            <input type="text" name="q" id="search-q" autocomplete="on" size="18" class="rc">
+            <input type="image" id="go" title="this will Perform your search" src="/images/button_search_google.png" role="button" aria-labelledby="search-label">
+         </form> 
+      </div>
+      
+   </div>
 </div>
 
 
-   
         <!-- Top Menu END -->
         
         <!-- Main Menu Start -->
-        <nav role="main Menu">
         	<div class="mainMenu">
-            <h1 class="accessibility">Global Navigation</h1>
-            <ul><li><a href="/about/corporate_overview/default.asp" class="bgAbout">About MPAC</a><ul><li><a href="/about/corporate_overview/default.asp" class="bgAbout">Corporate Overview &gt;&gt;</a><ul><li><a href="/about/corporate_overview/facts_about_mpac.asp" class="bgAbout">Facts About MPAC</a></li><li><a href="/about/corporate_overview/board.asp" class="bgAbout">Board of Directors</a></li><li><a href="/about/corporate_overview/department.asp" class="bgAbout">Departments</a></li><li><a href="/about/corporate_overview/officemap.asp" class="bgAbout">MPAC Offices / Map</a></li></ul></li><li><a href="/about/careers/default.asp" class="bgAbout">Careers &gt;&gt;</a><ul><li><a href="/about/careers/default.asp" class="bgAbout">Working at MPAC</a></li><li><a href="/about/careers/current_opportunities.asp" class="bgAbout">Current Opportunities</a></li></ul></li><li><a href="/about/vision_mission_values.asp" class="bgAbout">Vision, Mission, Values</a></li><li><a href="/about/report.asp" class="bgAbout">Annual Report</a></li><li><a href="/about/mpac_act.asp" class="bgAbout">MPAC Act</a></li><li><a href="/about/assessment_act.asp" class="bgAbout">Assessment Act</a></li><li><a href="/about/related_links.asp" class="bgAbout">Related Links</a></li><li><a href="/about/purchase_order_terms_and_conditions.asp" class="bgAbout">Purchase Order Terms and Conditions</a></li></ul></li><li><a href="/property_owners/default.asp" class="bgProperty">Property Owners</a><ul><li><a href="/property_owners/default.asp" class="bgProperty">Four-Year Cycle &amp; Phase-in Program</a></li><li><a href="/property_owners/2013notices/default.asp" class="bgProperty">2013 Property Assessment Notice</a></li><li><a href="/property_owners/notices/default.asp" class="bgProperty">2012 Assessment Update &gt;&gt;</a><ul><li><a href="/property_owners/notices/property_assessment_change_notice.asp" class="bgProperty">Did you receive a Property Assessment Change Notice?</a></li><li><a href="/property_owners/notices/otherNotices.asp" class="bgProperty">Other Notices from MPAC</a></li><li><a href="/property_owners/notices/exemptions.asp" class="bgProperty">Farm Managed Forest Classes or Conservation Land Exemption</a></li><li><a href="/property_owners/notices/managed_forest_properties_backgrounder.asp" class="bgProperty">Assessment of Managed Forest Properties</a></li><li><a href="/property_owners/notices/local_information.asp" class="bgProperty">Local Information</a></li><li><a href="/property_owners/notices/provincial_land_tax_reform2012.asp" class="bgProperty">Provincial Land Tax Reform</a></li></ul></li><li><a href="/property_owners/newly_built_homes.asp" class="bgProperty">Newly Built Homes Additions &amp; Renovations FAQs</a></li><li><a href="/property_owners/how/default.asp" class="bgProperty">MPAC's Role &gt;&gt;</a><ul><li><a href="/property_owners/how/how_mpac_assesses_property.asp" class="bgProperty">How MPAC Assesses Properties</a></li><li><a href="/property_owners/how/assessment_guide.asp" class="bgProperty">Guide to Property Assessment in Ontario</a></li><li><a href="/property_owners/how/residential_property_assessment.asp" class="bgProperty">Residential Property Assessment in Ontario</a></li><li><a href="/property_owners/how/small_commercial_property_assessment.asp" class="bgProperty">Small Commercial and Industrial Property Assessment in Ontario</a></li><li><a href="/property_owners/how/videos.asp" class="bgProperty">Videos</a></li><li><a href="/property_owners/how/property_code_inventory.asp" class="bgProperty">Property Codes</a></li><li><a href="/property_owners/how/glossary_terms.asp" class="bgProperty">Glossary of Terms</a></li></ul></li><li><a href="/property_owners/Diva/default.asp" class="bgProperty">Property Valuation Explained</a></li><li><a href="/property_owners/aggregate_sales_data.asp" class="bgProperty">Aggregate Sales Data</a></li><li><a href="/property_owners/pvc/default.asp" class="bgProperty">Average Residential Changes for Properties</a></li><li><a href="/property_owners/brochures_and_inserts.asp" class="bgProperty">Brochures &amp; Inserts</a></li><li><a href="/property_owners/comparing/default.asp" class="bgProperty">Comparing your properties to similar properties &gt;&gt;</a><ul><li><a href="/property_owners/comparing/non-residential_properties.asp" class="bgProperty">Non-Residential Properties</a></li></ul></li><li><a href="/property_owners/resolving_assessment_concerns.asp" class="bgProperty">Concerns about your assessed value</a></li><li><a href="/property_owners/forms.asp" class="bgProperty">Forms</a></li><li><a href="/property_owners/market_model_report_introduction.asp" class="bgProperty">Market Model Report Information</a></li><li><a href="/property_owners/MunicipalDiscountFactors2012/default.asp" class="bgProperty">Municipal Discount Factors &gt;&gt;</a><ul><li><a href="/property_owners/MunicipalDiscountFactors2012/default.asp" class="bgProperty">Municipal Discount Factors 2012</a></li><li><a href="/property_owners/municipal_factors_2008/default.asp" class="bgProperty">Municipal Discount Factors 2008</a></li></ul></li><li><a href="/property_owners/procedures/default.asp" class="bgProperty">Property Assessment Procedures</a></li><li><a href="/property_owners/grad.asp" class="bgProperty">Request for Property Information</a></li><li><a href="/property_owners/condos/default.asp" class="bgProperty">Condominium and Townhouse Properties &gt;&gt;</a><ul><li><a href="/property_owners/condos/condominiums_owners.asp" class="bgProperty">Condominium Property Owners</a></li><li><a href="/property_owners/condos/condominiums_hotels.asp" class="bgProperty">Condominium Hotels</a></li></ul></li></ul></li><li><a href="/municipalities/default.asp" class="bgMunicipalities">Municipalities</a><ul><li><a href="/municipalities/default.asp" class="bgMunicipalities">Welcome</a></li><li><a href="/municipalities/2014Enumeration.asp" class="bgMunicipalities">2014 Enumeration</a></li><li><a href="/products_services/mconnect/default.asp" class="bgMunicipalities">Municipal Connect�</a></li><li><a href="/municipalities/municipal_news.asp" class="bgMunicipalities">Municipal News</a></li><li><a href="/municipalities/mpac_news.asp" class="bgMunicipalities">MPAC News</a></li><li><a href="/municipalities/assessment_maps_op.asp" class="bgMunicipalities">Assessment Maps and Ontario Parcel</a></li><li><a href="/business/events.asp" class="bgMunicipalities">Calendar of Events</a></li></ul></li><li><a href="/government_school_boards/default.asp" class="bgGoverment">Government &amp; School Boards</a><ul><li><a href="/government_school_boards/default.asp" class="bgGoverment">Welcome</a></li><li><a href="/government_school_boards/school_board_connect.asp" class="bgGoverment">School Board Connect� </a></li><li><a href="/government_school_boards/faq_school_board_connect.asp" class="bgGoverment">School Board Connect� FAQs</a></li><li><a href="/government_school_boards/school_board_testimonials.asp" class="bgGoverment">School Board Connect� Testimonials</a></li><li><a href="/government_school_boards/assessment_products.asp" class="bgGoverment">Assessment Products</a></li><li><a href="/business/network.asp" class="bgGoverment">Network Newsletter</a></li><li><a href="/business/events.asp" class="bgGoverment">Calendar of Events</a></li></ul></li><li><a href="/business/default.asp" class="bgBusiness">Business</a><ul><li><a href="/business/default.asp" class="bgBusiness">Welcome</a></li><li><a href="/business/events.asp" class="bgBusiness">Calendar of Events</a></li><li><a href="/business/network.asp" class="bgBusiness">Network Newsletter</a></li><li><a href="/business/presentations.asp" class="bgBusiness">Presentations</a></li></ul></li><li><a href="/products_services/amp/default.asp" class="bgProducts">Products &amp; Services</a><ul><li><a href="/products_services/amp/default.asp" class="bgProducts">AboutMyProperty� &gt;&gt;</a><ul><li><a href="/products_services/amp/aboutmyproperty_faq.asp" class="bgProducts">AboutMyProperty� FAQs</a></li><li><a href="http://www.mpac.ca/amp_video.asp" class="bgProducts">AboutMyProperty� Tutorials</a></li></ul></li><li><a href="http://www.propertyline.ca/pages_english/products_services/propertyline.html" class="bgProducts">propertyline�</a></li><li><a href="http://www.propertyline.ca/pages_english/products_services/propertyline_admin.html" class="bgProducts">propertyline� Administration</a></li><li><a href="/products_services/mconnect/default.asp" class="bgProducts">Municipal Connect�</a></li><li><a href="/products_services/mconnect/municipal_testimonials.asp" class="bgProducts">Municipal Connect� Testimonials</a></li><li><a href="/government_school_boards/school_board_connect.asp" class="bgProducts">School Board Connect�</a></li><li><a href="http://www.propertyline.ca/pages_english/acs/acs-online.html" class="bgProducts">ACS-online� &gt;&gt;</a><ul><li><a href="http://www.propertyline.ca/pages_english/acs/acs-online_faq.html" class="bgProducts">ACS-online� FAQs</a></li><li><a href="http://www.propertyline.ca/pages_english/acs/acs-online_subscription.html" class="bgProducts">ACS-online� Subscription</a></li></ul></li><li><a href="/products_services/er_forms.asp" class="bgProducts">eRforms</a></li><li><a href="/products_services/tip/default.asp" class="bgProducts">Tenant Information Program &gt;&gt;</a><ul><li><a href="/products_services/tip/tip_pdf_forms_2013.asp" class="bgProducts">TIP PDF Forms</a></li><li><a href="/products_services/tip/tip_excel_2013.asp" class="bgProducts">TIP Excel Forms</a></li><li><a href="/products_services/tip/tip_letters_2013.asp" class="bgProducts">TIP Request letters</a></li></ul></li></ul></li><li><a href="/media_centre/default.asp" class="bgMedia">Media Centre</a><ul><li><a href="/media_centre/news_releases.asp" class="bgMedia">News Releases</a></li><li><a href="/media_centre/news_releases_archive.asp" class="bgMedia">News Releases Archives</a></li><li><a href="/media_centre/marketSnapshot.asp" class="bgMedia">Market Snapshot</a></li><li><a href="/media_centre/2012_assessment_update_report.asp" class="bgMedia">2012 Assessment Update Report</a></li></ul></li></ul>
+            <!--<h1 id="gnav" class="accessibility">Global Navigation</h1>-->
+            <div id="menuwrap"><div class="wrapper"><div><nav role="navigation" aria-label="Global"><ul class="sf-menu" id="example"><li class="bgAbout MenuItem1"><a href="/about/corporate_overview/default.asp">About MPAC</a><ul class="bgAbout"><li><a href="/about/corporate_overview/default.asp">Corporate Overview &gt;&gt;</a><ul class="bgAbout"><li><a href="/about/corporate_overview/FactsAboutMpac.asp">Facts About MPAC</a></li><li><a href="/about/corporate_overview/board.asp">Board of Directors</a></li><li><a href="/about/corporate_overview/department.asp">Departments</a></li><li><a href="/about/corporate_overview/officemap.asp">MPAC Offices</a></li></ul></li><li><a href="/about/careers/default.asp">Careers &gt;&gt;</a><ul class="bgAbout"><li><a href="/about/careers/default.asp">Working at MPAC</a></li><li><a href="/about/careers/currentOpportunities.asp">Current Opportunities</a></li></ul></li><li><a href="/about/VisionMissionValues.asp">Vision, Mission, Values</a></li><li><a href="/about/report.asp">Annual Report</a></li><li><a href="/about/MpacAct.asp">MPAC Act</a></li><li><a href="/about/AssessmentAct.asp">Assessment Act</a></li><li><a href="/about/RelatedLinks.asp">Related Links</a></li><li><a href="/about/PurchaseOrderTermsandConditions.asp">Purchase Order Terms and Conditions</a></li></ul></li><li class="bgProperty MenuItem2"><a href="/property_owners/default.asp">Property Owners</a><ul class="bgProperty"><li><a href="/property_owners/default.asp">Four-Year Cycle &amp; Phase-in Program</a></li><li><a href="/property_owners/2013notices/default.asp">2013 Property Assessment Notice</a></li><li><a href="/property_owners/notices/default.asp">2012 Assessment Update &gt;&gt;</a><ul class="bgProperty"><li><a href="/property_owners/notices/PropertyAssessmentChangeNotice.asp">Did you receive a Property Assessment Change Notice?</a></li><li><a href="/property_owners/notices/otherNotices.asp">Other Notices from MPAC</a></li><li><a href="/property_owners/notices/exemptions.asp">Farm Managed Forest Classes or Conservation Land Exemption</a></li><li><a href="/property_owners/notices/managedForestPropertiesBackgrounder.asp">Assessment of Managed Forest Properties</a></li><li><a href="/property_owners/notices/localInformation.asp">Local Information</a></li><li><a href="/property_owners/notices/provincialLandTaxReform2012.asp">Provincial Land Tax Reform</a></li></ul></li><li><a href="/property_owners/NewlyBuiltHomes.asp">Newly Built Homes Additions &amp; Renovations FAQs</a></li><li><a href="/property_owners/how/default.asp">MPAC's Role &gt;&gt;</a><ul class="bgProperty"><li><a href="/property_owners/how/how_mpac_assesses_property.asp">How MPAC Assesses Properties</a></li><li><a href="/property_owners/how/assessmentGuide.asp">Guide to Property Assessment in Ontario</a></li><li><a href="/property_owners/how/residentialPropertyAssessment.asp">Residential Property Assessment in Ontario</a></li><li><a href="/property_owners/how/smallCommercialPropertyAssessment.asp">Small Commercial and Industrial Property Assessment in Ontario</a></li><li><a href="/property_owners/how/videos.asp">Videos</a></li><li><a href="/property_owners/how/propertyCodeInventory.asp">Property Codes</a></li><li><a href="/property_owners/how/glossaryTerms.asp">Glossary of Terms</a></li></ul></li><li><a href="/property_owners/Diva/default.asp">Property Valuation Explained</a></li><li><a href="/property_owners/AggregateSalesData.asp">Aggregate Sales Data</a></li><li><a href="/property_owners/pvc/default.asp">Average Residential Changes for Properties</a></li><li><a href="/property_owners/BrochuresAndInserts.asp">Brochures &amp; Inserts</a></li><li><a href="/property_owners/comparing/default.asp">Comparing your properties to similar properties &gt;&gt;</a><ul class="bgProperty"><li><a href="/property_owners/comparing/nonResidentialProperties.asp">Non-Residential Properties</a></li></ul></li><li><a href="/property_owners/ResolvingAssessmentConcerns.asp">Concerns about your assessed value</a></li><li><a href="/property_owners/forms.asp">Forms</a></li><li><a href="/property_owners/MarketModelReportIntroduction.asp">Market Model Report Information</a></li><li><a href="/property_owners/MunicipalDiscountFactors2012/default.asp">Municipal Discount Factors &gt;&gt;</a><ul class="bgProperty"><li><a href="/property_owners/MunicipalDiscountFactors2012/default.asp">Municipal Discount Factors 2012</a></li><li><a href="/property_owners/municipal_factors_2008/default.asp">Municipal Discount Factors 2008</a></li></ul></li><li><a href="/property_owners/procedures/default.asp">Property Assessment Procedures</a></li><li><a href="/property_owners/grad.asp">Request for Property Information</a></li><li><a href="/property_owners/condos/default.asp">Condominium and Townhouse Properties &gt;&gt;</a><ul class="bgProperty"><li><a href="/property_owners/condos/condominiumsOwners.asp">Condominium Property Owners</a></li><li><a href="/property_owners/condos/condominiumsHotels.asp">Condominium Hotels</a></li></ul></li><li><a href="/property_owners/IndustrialWindTurbines.asp">Industrial Wind Turbines</a></li></ul></li><li class="bgMunicipalities MenuItem3"><a href="/municipalities/default.asp">Municipalities</a><ul class="bgMunicipalities"><li><a href="/municipalities/default.asp">Welcome</a></li><li><a href="/municipalities/2014Enumeration.asp">2014 Enumeration</a></li><li><a href="/products_services/mconnect/default.asp">Municipal Connect™</a></li><li><a href="/municipalities/MunicipalNews.asp">Municipal News</a></li><li><a href="/municipalities/MPACNews.asp">MPAC News</a></li><li><a href="/municipalities/AssessmentMapsOp.asp">Assessment Maps and Ontario Parcel</a></li><li><a href="/business/events.asp">Calendar of Events</a></li></ul></li><li class="bgGovernment MenuItem4"><a href="/government_school_boards/default.asp">Government &amp; School Boards</a><ul class="bgGovernment"><li><a href="/government_school_boards/default.asp">Welcome</a></li><li><a href="/government_school_boards/SchoolBoardConnect.asp">School Board Connect™ </a></li><li><a href="/government_school_boards/FAQSchoolBoardConnect.asp">School Board Connect™ FAQs</a></li><li><a href="/government_school_boards/SchoolBoardTestimonials.asp">School Board Connect™ Testimonials</a></li><li><a href="/government_school_boards/AssessmentProducts.asp">Assessment Products</a></li><li><a href="/business/events.asp">Calendar of Events</a></li></ul></li><li class="bgBusiness MenuItem5"><a href="/business/default.asp">Business</a><ul class="bgBusiness"><li><a href="/business/default.asp">Welcome</a></li><li><a href="/business/events.asp">Calendar of Events</a></li><li><a href="/business/presentations.asp">Presentations</a></li></ul></li><li class="bgProducts MenuItem6"><a href="/products_services/amp/default.asp">Products &amp; Services</a><ul class="bgProducts"><li><a href="/products_services/amp/default.asp">AboutMyProperty™ &gt;&gt;</a><ul class="bgProducts"><li><a href="/products_services/amp/aboutmyproperty_faq.asp">AboutMyProperty™ FAQs</a></li><li><a href="/ampVideo.asp">AboutMyProperty™ Tutorials</a></li></ul></li><li><a href="http://www.propertyline.ca/pages_english/products_services/propertyline.html">propertyline™</a></li><li><a href="http://www.propertyline.ca/pages_english/products_services/propertyline_admin.html">propertyline™ Administration</a></li><li><a href="/products_services/mconnect/default.asp">Municipal Connect™</a></li><li><a href="/products_services/mconnect/MunicipalTestimonials.asp">Municipal Connect™ Testimonials</a></li><li><a href="/government_school_boards/SchoolBoardConnect.asp">School Board Connect™</a></li><li><a href="http://www.propertyline.ca/pages_english/acs/acs-online.html">ACS-online™ &gt;&gt;</a><ul class="bgProducts"><li><a href="http://www.propertyline.ca/pages_english/acs/acs-online_faq.html">ACS-online™ FAQs</a></li><li><a href="http://www.propertyline.ca/pages_english/acs/acs-online_subscription.html">ACS-online™ Subscription</a></li></ul></li><li><a href="/products_services/erForms.asp">eRforms</a></li><li><a href="/products_services/tip/default.asp">Tenant Information Program &gt;&gt;</a><ul class="bgProducts"><li><a href="/products_services/tip/tipPdfForms2014.asp">TIP PDF Forms</a></li><li><a href="/products_services/tip/tipLetters2014.asp">TIP Request letters</a></li></ul></li></ul></li><li class="bgMedia MenuItem7"><a href="/media_centre/default.asp">Media Centre</a><ul class="bgMedia"><li><a href="/media_centre/NewsReleases.asp">News Releases</a></li><li><a href="/media_centre/NewsReleasesArchive.asp">News Releases Archives</a></li><li><a href="/media_centre/marketSnapshot.asp">Market Snapshot</a></li><li><a href="/media_centre/2012AssessmentUpdateReport.asp">2012 Assessment Update Report</a></li></ul></li></ul></nav></div></div><div class="clearboth"></div></div>
             </div>
-        </nav>
         <!-- Main Menu END -->
         
         <!-- Banner Start -->
         <div id="topBanner">
-        	<div id="topBannerLogo"></div>
+        	<div id="topBannerLogo"><a href="http://www.mpac.ca/default.asp" title="back to home page"><span class="offscreen">back to home page</span></a></div>
             <div id="topBannerImage"><img src="/images/header_image2.png" alt="MPAC page banner" width="564" height="136"></div>
             <div id="topBannerMenu">
-            	<h1 class="accessibility">Quick Links</h1>
-                				<ul>
-                    <li><a href="http://www.aboutmyproperty.ca" title="link to AboutMyProperty™ application">AboutMyProperty™</a></li>
-                    <li><a href="/about/careers/default.asp" title="link to careers at MPAC">Careers</a></li>
-                    <li><a href="/media_centre/default.asp" title="link to media centre">Media Centre</a></li>
-                    <li><a href="/property_owners/how/videos.asp" title="link to videos">Videos</a></li>
-                    <li><a href="/accessibility/accessibility.asp" title="link to more information on accessibility">Site Accessibility</a></li>
-                    <li><a href="/site_map.asp" title="link to our site map">Site Map</a></li>
-                </ul>
+            					<nav role="navigation" aria-label="Quick Links">
+                    <ul>
+                        <li><a href="http://www.aboutmyproperty.ca" title="this link will take you to our AboutMyProperty™ application">AboutMyProperty™</a></li>
+                        <li><a href="/about/careers/default.asp" title="this link will take you to careers at MPAC">Careers</a></li>
+                        <li><a href="/media_centre/default.asp" title="this link will take you to media centre">Media Centre</a></li>
+                        <li><a href="/property_owners/how/videos.asp" title="this link will take you to videos">Videos</a></li>
+                        <li><a href="/accessibility/accessibility.asp" title="this link will take you to more information on accessibility">Site Accessibility</a></li>
+                        <li><a href="/site_map.asp" title="this link will take you to our site map">Site Map</a></li>
+                    </ul>
+                </nav>
             </div>
         </div>
         <!-- Banner END -->
@@ -115,38 +135,32 @@
 	<!-- Main Content Area Start -->
     <div id="mainContent">
     	<!-- Sub Menu Start -->
-        <nav role="submenu">
-        <div id="mainContentLeft">
-        	
-            <!-- NO NEED FOR SUB NAV-->
-            
-             <!-- <div style="clear:both;"></div>-->
-             <!-- Sub menu Video -->
-             			<div id="subMenuVideos" class="submenulist">
-                <h1>Videos</h1>
-                <ul>
-                	<li><a href="/video/how/en_mpac_high.asp" title="Link to how MPAC assesses properties video" target="_blank" onclick="dcsMultiTrack('WT.ac','How MPAC Assesses Properties Video');">How MPAC Assesses Properties</a></li>
-                    <li><a href="/amp_video.asp" title="link to AboutMyProperty™ Tutorials" target="_blank" onclick="dcsMultiTrack('WT.ac','AboutMyProperty Video');">AboutMyProperty™ Tutorial</a></li>
+        <nav role="navigation" aria-label="Sub">
+            <div id="mainContentLeft">
+                <!-- NO NEED FOR SUB NAV-->
+                <!-- <div style="clear:both;"></div>-->
+                <!-- Sub menu Video -->
+                			<div id="subMenuVideos" class="submenulist">
+                <p class="pMainContentLeft">Videos</p>
+                <ul> 
+                    <li><a href="/amp_video.asp" title="this is a link to AboutMyProperty™ Tutorial in video format">AboutMyProperty™ Tutorial</a></li>
                 </ul>
               </div>  
-              
               <div id="subMenuOther" class="submenulist"> 
-                <h1>Other Links</h1>
+                <p class="pMainContentLeft">Other Links</p>
                 <ul>
-                	<li><a href="/property_owners/brochures.asp" title="link to brochures">Brochures</a></li>
+                	<li><a href="/property_owners/brochures.asp" title="this is a link to our brochures page">Brochures</a></li>
                 </ul>
               </div>
-                
               <div id="subMenuContact" class="submenulist">
-                <h1>Contact Us</h1>
+                <p class="pMainContentLeft">Contact Us</p>
                 <ul>
-                	<li><a href="/property_owners/contactus.asp" title="link to contact us form">Contact Us For More Information</a></li>
+                	<li><a href="/property_owners/contactus.asp" title="this link will take you to our contact us page">Contact Us For More Information</a></li>
                 </ul>
+             </div>    
              </div>
-              
-         	</div>
          </nav>
-         <!-- Main Menu END -->
+        <!-- Sub Menu END -->
 
         <div id="mainContentRight">
         	<div id="mainHeader">
@@ -154,127 +168,123 @@
                	
 <nav role="breadcrumbs">
                	<a href="/default.asp" class="breadcrumbsLink">Home</a> &gt; 
-<span class="breadcrumbsCurrent">Privacy Policy</span>
+
 </nav>
             </nav></div>
-            <a name="contentstart" id="contentstart"></a>
-			<article>
-            	<div class="mainContent">
-        		<div id="print_page">
-        		<div id="printText"><a href="javascript:show_print()" title="Print this page">Print this page</a> | <a href="http://fr.mpac.ca/privacy_policy.asp" title="lien vers Français - d'Accueil">Français</a></div>
-            	<div id="printIcon" onclick="javascript:show_print()" title="Print this page"></div>
-			
-        </div>
-        <div style="clear:both;"></div>
-        <h2>Privacy Statement</h2>
-        <h3>Privacy Policy</h3>
-                 <p>The Municipal Property Assessment Corporation (MPAC) is committed to managing the collection, retention and dissemination of personal and non-personal information in a manner which complies with the requirements of the <i><a href="http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90a31_e.htm" title="link to assessment act at ontario government website">Assessment Act</a></i>, the <i><a href="http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90m56_e.htm" title="link to municipal freedom of information and protection of privacy act">Municipal Freedom of Information and Protection of Privacy Act</a></i> and all other relevant legislation, regulations and judicial rulings.</p>
-      <p>Except as required by law, MPAC does not release personal information, or any other data which would divulge the identity of an individual. While MPAC may release aggregate information in the form of demographic studies constructed from the analysis of personal information, these studies do not identify individuals. Further, MPAC does not release actual income or expense information except where statutorily required to do so.</p>
-
-
-
-      <p>Information collected and retained by MPAC is located in a secure, password protected database. Only authorized MPAC employees have access to this information. Any violation of the MPAC Privacy Policy by an employee will result in disciplinary actions against that employee.</p>
-      <p> If you have any questions regarding the collection, use and disclosure practices of MPAC, please contact our Freedom of Information Office at 905-837-6188.</p>
-      <h3>External Links Disclaimer</h3>
-
-
-
-      <p>There are Web sites linked to and from this site that are operated or created by or for organizations outside of MPAC. Those organizations are solely responsible for the operation and information, including the right to display such information, found on their respective Web sites. The linking to or from this site does not imply on the part of the MPAC any endorsement or guarantee of any of the organizations or the information, including the right to display such information, found on their respective Web sites. These linked Web sites may or may not be available in French.</p>
-
-
-
-      <p>MPAC does not assume and is not responsible for any liability whatsoever for the linking of any of these Web sites, the operation, content or the right to display such information of any of the linked Web sites, nor for any of the information, interpretation, comments or opinions expressed in any of the linked Web sites. Any comments or inquiries regarding the linked Web sites are to be directed to the particular organization for whom the particular Web site is being operated. </p>
-
-
-
-   <h3>Use of Cookies</h3>
-      <p> Some parts of the MPAC Web site may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.</p>
-      <p>Cookies provide a convenience feature to save you time. They tell the Web server that you have returned to a specific page which helps MPAC recall your specific information on subsequent visits to the MPAC Web site. MPAC does not use "cookies" for logging statistical information for site usage reports.</p>
-
-
-
-    <p>You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to access some of the services on our Web site.</p>
-    <p>© 2013 MPAC All Rights Reserved.</p>
-         </div> 
+            <article>
+                <div class="mainContent" role="main">
+                    <div id="print_page">
+                        <div id="printText"><a href="javascript:show_print()" title="Print this page">Print this page</a> <a class="vline" lang="fr" href="http://fr.mpac.ca/privacy_policy.asp" title="lien vers Français - d'Accueil">Français</a></div>
+                        <div id="printIcon" onclick="javascript:show_print()" title="Print this page"></div>
+                    </div>
+                    <div style="clear:both;"></div>
+                    <p id="contentstartholder"><a id="contentstart" name="contentstart" class="skip" tabindex="-1">Start of main content</a></p>
+                    <h2>Privacy Statement</h2>
+                    <h3>Privacy Policy</h3>
+                    <p>The Municipal Property Assessment Corporation (MPAC) is committed to managing the collection, retention and dissemination of personal and non-personal information in a manner which complies with the requirements of the <i><a href="http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90a31_e.htm" title="link to assessment act at ontario government website">Assessment Act</a></i>, the <i><a href="http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90m56_e.htm" title="link to municipal freedom of information and protection of privacy act">Municipal Freedom of Information and Protection of Privacy Act</a></i> and all other relevant legislation, regulations and judicial rulings.</p>
+                    <p>Except as required by law, MPAC does not release personal information, or any other data which would divulge the identity of an individual. While MPAC may release aggregate information in the form of demographic studies constructed from the analysis of personal information, these studies do not identify individuals. Further, MPAC does not release actual income or expense information except where statutorily required to do so.</p>
+                    <p>Information collected and retained by MPAC is located in a secure, password protected database. Only authorized MPAC employees have access to this information. Any violation of the MPAC Privacy Policy by an employee will result in disciplinary actions against that employee.</p>
+                    <p> If you have any questions regarding the collection, use and disclosure practices of MPAC, please contact our Freedom of Information Office at 905-837-6188.</p>
+                    <br>
+                    
+                    <h3>External Links Disclaimer</h3>
+                    <p>There are Web sites linked to and from this site that are operated or created by or for organizations outside of MPAC. Those organizations are solely responsible for the operation and information, including the right to display such information, found on their respective Web sites. The linking to or from this site does not imply on the part of the MPAC any endorsement or guarantee of any of the organizations or the information, including the right to display such information, found on their respective Web sites. These linked Web sites may or may not be available in French.</p>
+                    <p>MPAC does not assume and is not responsible for any liability whatsoever for the linking of any of these Web sites, the operation, content or the right to display such information of any of the linked Web sites, nor for any of the information, interpretation, comments or opinions expressed in any of the linked Web sites. Any comments or inquiries regarding the linked Web sites are to be directed to the particular organization for whom the particular Web site is being operated. </p>
+                    <br>
+                    
+                    <h3>Use of Cookies</h3>
+                    <p> Some parts of the MPAC Web site may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.</p>
+                    <p>Cookies provide a convenience feature to save you time. They tell the Web server that you have returned to a specific page which helps MPAC recall your specific information on subsequent visits to the MPAC Web site. MPAC does not use "cookies" for logging statistical information for site usage reports.</p>
+                    <p>You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to access some of the services on our Web site.</p>
+                    <p>© 2013 MPAC All Rights Reserved.</p>
+                    <p>&nbsp;</p>
+                </div> 
             </article>
-        </div>
-  </div>
+    	</div>
+    </div>
     <!-- Main Content Area End -->
 
 	<!-- Footer Start -->
-    
-	<footer>
+	<footer aria-label="Footer">
     		<div id="footer">
+        	<script type="text/javascript" src="/js/skiplink.js"></script>
             <div id="footerIcons">
             	<div id="fotterTranslate">                        
 				<form action="return false;" name="language" id="language">
 				<div class="translate">
-                	<label for="tl" class="accessibility">Google Translate</label>
-				  	<img src="/images/google_translate.jpg" alt="Google translate image" width="112" height="21"></div>
-					<select name="tl" id="tl" class="dropdown" onchange="langselector(this.value); return false;">
-					<option id="languageStart" value="" selected="selected">in 51 languages</option>					 
-					<option value="af">Afrikaans</option> <!-- Afrikaans -->
-					<option value="sq">shqip</option> <!-- Albanian -->
-					<option value="ar">Arabic</option> <!-- Arabic -->
-					<option value="be">Belarusian</option> <!-- Belarusian -->
-					<option value="bg">Bulgarian</option> <!-- Bulgarian -->
-					<option value="ca">Catalan</option> <!-- Catalan -->
-					<option value="zh-CN">Chinese (Simplified)</option> <!-- Chinese (Simplified) -->
-					<option value="zh-TW">Chinese (Traditional)</option> <!-- Chinese (Traditional) -->
-					<option value="hr">Hrvatska</option> <!-- Croatian -->		
-					<option value="cs">Czesky</option> <!-- Czech -->
-					<option value="da">Dansk</option> <!-- Danish -->
-					<option value="nl">Nederlands</option> <!-- Dutch -->
-					<option value="et">Eesti</option> <!-- Estonian -->
-					<option value="tl">Filipino</option> <!-- Filipino -->
-					<option value="fi">suomi</option> <!-- Finnish -->
-					<option value="fr">french</option> <!-- french -->
-					<option value="gl">Galego</option> <!-- Galician -->
-					<option value="de">Deutsch</option> <!-- German -->
-					<option value="el">greek</option> <!-- Greek -->
-					<option value="iw">Hebrew</option> <!-- Hebrew -->
-					<option value="hi">Hindi</option> <!-- Hindi -->
-					<option value="hu">magyar</option> <!-- Hungarian -->
-					<option value="is">Icelandic</option> <!-- Icelandic -->
-					<option value="id">Indonesia</option> <!-- Indonesian -->
-					<option value="ga">Gaeilge</option> <!-- Irish -->
-					<option value="it">Italiano</option> <!-- Italian -->
-					<option value="ja">Japanese</option> <!-- Japanese -->
-					<option value="ko">Korean</option> <!-- Korean -->
-					<option value="lv">Latvian</option> <!-- Latvian-->
-					<option value="lt">Lithuanian</option> <!-- Lithuanian -->
-					<option value="mk">Macedonian</option> <!-- Macedonian -->
-					<option value="ms">Bahasa Melayu</option> <!-- Malay -->
-					<option value="mt">Malti</option> <!-- Maltese -->
-					<option value="no">norsk</option> <!-- Norwegian -->
-					<option value="fa">Persian</option> <!-- Persian -->
-					<option value="pl">Polski</option> <!-- Polish -->
-					<option value="pt">Portuguese</option> <!-- Portuguese -->
-					<option value="ro">Romanian</option> <!-- Romanian -->
-					<option value="ru">Russian</option> <!-- Russian -->
-					<option value="sr">Serbian</option> <!-- Serbian -->
-					<option value="sk">Slovak</option> <!-- Slovak -->
-					<option value="sl">Slovenian</option> <!-- Slovenian -->
-					<option value="es">Spanish</option> <!-- Spanish -->
-					<option value="sw">Kiswahili</option> <!-- Swahili -->
-					<option value="sv">Svenska</option> <!-- Sweedish -->
-					<option value="th">Thai</option> <!-- Thai -->
-					<option value="tr">Turkish</option> <!-- Turkish -->
-					<option value="uk">Ukrainian</option> <!-- Ukrainian -->
-					<option value="vi">Vietnamese</option> <!--Vietnamese-->
-					<option value="cy">Cymraeg</option> <!-- Welsh -->
-					<option value="yi">Yiddish</option> <!-- Yiddish -->
-				</select>
+                <img src="/images/google_translate.jpg" alt="This is an image for Google translate" width="112" height="21"></div>
+                	<fieldset>
+                    	<legend class="accessibility">Translate the page using Google Translate</legend>
+                        <select name="tl" id="tl" class="dropdown" onchange="langselector(this.value); return false;">
+                            <option id="languageStart" value="" selected="selected">in 51 languages</option>					 
+                            <option value="af">Afrikaans</option> <!-- Afrikaans -->
+                            <option value="sq">shqip</option> <!-- Albanian -->
+                            <option value="ar">Arabic</option> <!-- Arabic -->
+                            <option value="be">Belarusian</option> <!-- Belarusian -->
+                            <option value="bg">Bulgarian</option> <!-- Bulgarian -->
+                            <option value="ca">Catalan</option> <!-- Catalan -->
+                            <option value="zh-CN">Chinese (Simplified)</option> <!-- Chinese (Simplified) -->
+                            <option value="zh-TW">Chinese (Traditional)</option> <!-- Chinese (Traditional) -->
+                            <option value="hr">Hrvatska</option> <!-- Croatian -->		
+                            <option value="cs">Czesky</option> <!-- Czech -->
+                            <option value="da">Dansk</option> <!-- Danish -->
+                            <option value="nl">Nederlands</option> <!-- Dutch -->
+                            <option value="et">Eesti</option> <!-- Estonian -->
+                            <option value="tl">Filipino</option> <!-- Filipino -->
+                            <option value="fi">suomi</option> <!-- Finnish -->
+                            <option value="fr">french</option> <!-- french -->
+                            <option value="gl">Galego</option> <!-- Galician -->
+                            <option value="de">Deutsch</option> <!-- German -->
+                            <option value="el">greek</option> <!-- Greek -->
+                            <option value="iw">Hebrew</option> <!-- Hebrew -->
+                            <option value="hi">Hindi</option> <!-- Hindi -->
+                            <option value="hu">magyar</option> <!-- Hungarian -->
+                            <option value="is">Icelandic</option> <!-- Icelandic -->
+                            <option value="id">Indonesia</option> <!-- Indonesian -->
+                            <option value="ga">Gaeilge</option> <!-- Irish -->
+                            <option value="it">Italiano</option> <!-- Italian -->
+                            <option value="ja">Japanese</option> <!-- Japanese -->
+                            <option value="ko">Korean</option> <!-- Korean -->
+                            <option value="lv">Latvian</option> <!-- Latvian-->
+                            <option value="lt">Lithuanian</option> <!-- Lithuanian -->
+                            <option value="mk">Macedonian</option> <!-- Macedonian -->
+                            <option value="ms">Bahasa Melayu</option> <!-- Malay -->
+                            <option value="mt">Malti</option> <!-- Maltese -->
+                            <option value="no">norsk</option> <!-- Norwegian -->
+                            <option value="fa">Persian</option> <!-- Persian -->
+                            <option value="pl">Polski</option> <!-- Polish -->
+                            <option value="pt">Portuguese</option> <!-- Portuguese -->
+                            <option value="ro">Romanian</option> <!-- Romanian -->
+                            <option value="ru">Russian</option> <!-- Russian -->
+                            <option value="sr">Serbian</option> <!-- Serbian -->
+                            <option value="sk">Slovak</option> <!-- Slovak -->
+                            <option value="sl">Slovenian</option> <!-- Slovenian -->
+                            <option value="es">Spanish</option> <!-- Spanish -->
+                            <option value="sw">Kiswahili</option> <!-- Swahili -->
+                            <option value="sv">Svenska</option> <!-- Sweedish -->
+                            <option value="th">Thai</option> <!-- Thai -->
+                            <option value="tr">Turkish</option> <!-- Turkish -->
+                            <option value="uk">Ukrainian</option> <!-- Ukrainian -->
+                            <option value="vi">Vietnamese</option> <!--Vietnamese-->
+                            <option value="cy">Cymraeg</option> <!-- Welsh -->
+                            <option value="yi">Yiddish</option> <!-- Yiddish -->
+                        </select>
+                    </fieldset>
 				<!-- <input type="button" name="go" title="Go" class="btn" value="Go" onclick="langselector(document.language.tl.value); return false;" /> -->
 				</form>
 		  	</div> 
             <!-- end translate -->
             <div id="ficons">
-<a href="http://www.linkedin.com/company/mpac"><img src="/images/footer_linkedin.png" alt="Link to LinkedIn page" longdesc="http://www.linkedin.com/company/mpac" width="26" height="30"></a><a href="https://twitter.com/MPAC_Ontario" alt="follow MPAC on Twitter"><img src="/images/twitter-bird-blue-on-white.png" alt="follow MPAC on Twitter @MPAC_Ontario" width="26" height="27"></a><img src="/images/footer_space_image.png" longdesc="http://www.youtube.com" width="26" height="27">
+            	<a href="http://www.linkedin.com/company/mpac"><img src="/images/footer_linkedin.png" alt="follow MPAC on LinkedIn" width="26" height="30"></a>
+                <a href="https://twitter.com/MPAC_Ontario"><img src="/images/twitter-bird-blue-on-white.png" alt="follow MPAC on Twitter @MPAC_Ontario" width="26" height="27"></a>
+				<!--<a href="http://www.linkedin.com/company/mpac" title="This will take you to MPAC's LinkedIn Page"><img src="/images/footer_linkedin.png" alt="This will take you to MPAC's LinkedIn page" longdesc="http://www.linkedin.com/company/mpac" width="26" height="30" /></a>
+                <a href="https://twitter.com/MPAC_Ontario" alt="follow MPAC on Twitter"><img src="/images/twitter-bird-blue-on-white.png" alt="follow MPAC on Twitter @MPAC_Ontario"  width="26" height="27" /></a>
+                <img src="/images/footer_space_image.png" longdesc="http://www.youtube.com" width="26" height="27" title="this is a placeholder for our youtube video link" />-->
+                <img src="/images/footer_space_image.png">
             </div>
             </div>
             <div style="clear:both;"></div>
-          <div id="footerCopy">Last updated: November 15, 2013 | 2013 MPAC. All Rights Reserved | <a href="/privacy_policy.asp">Privacy Policy</a></div>
+          <div id="footerCopy">Last updated: June 23, 2014<span class="offscreen">. </span> <span class="vline_ft">2014 MPAC. All Rights Reserved</span> <a class="vline_ft" href="/privacyPolicy.asp" title="This will take you to MPAC's Privacy Policy">Privacy Policy</a> <a class="vline_ft" href="http://m.mpac.ca/privacy_policy.asp" title="this will take you to MPAC's mobile site">Mobile Site</a></div>
       </div>
   	</footer>
     <!-- footer End -->
