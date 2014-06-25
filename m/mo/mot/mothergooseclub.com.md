@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothergooseclub.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129095018id_/http%3A//www.mothergooseclub.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothergooseclub.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122456id_/http%3A//www.mothergooseclub.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Mother Goose Club | Privacy Policy
 
@@ -32,9 +32,9 @@ The following describes our Privacy Policy as it relates to certain specific act
 
 ## INFORMATION WE REQUEST ON OUR CHILDREN'S PLATFORMS
 
-As stated above, we will obtain parental consent before asking for personal information on our Children's Platforms, unless the request for information falls within an exception that would be permitted under COPPA. We will explain how we will use the information and use it only for that purpose. Here are examples of personal information that we request on our Children's Platforms:
+As stated above, we will obtain parental consent before asking for personal information from children on our Children's Platforms, unless the request for information falls within an exception that would be permitted under COPPA. We will explain how we will use the information and use it only for that purpose. Here are examples of personal information that we request on our Children's Platforms:
 
-  * **Contact Us:** Visitors can provide their first name, last name and email address to contact us to give us feedback or ask questions. We use such information only to fulfill the visitor's request and do not store that information for any longer than reasonably necessary to send the relevant email.
+  * **Contact Us:** Parents can provide their first name, last name and email address to contact us to give us feedback or ask questions. We use such information only to fulfill the parent's request and do not store that information for any longer than reasonably necessary to send the relevant email.
   * **Mailing List:** We have asked parents to join our mailing list so that we can contact them with updates relating to our Site.
 
 
@@ -89,7 +89,16 @@ Our Platforms may link to other websites or apps, including content offered by t
 
 When you go via our link to Third Party Platforms, you become subject to their terms of use and privacy policies rather than ours. You should review these other website privacy policies regarding any personal information that they may collect about you.
 
-**Mailing List**. When you submit your email address to be added to our mailing list, you are agreeing to not only our privacy policy but the [privacy policy of Constant Contact](http://www.constantcontact.com/privacy_guarantee.jsp#information) as well. Constant Contact is a third party service that allows us to send out our email updates to multiple email addresses to make it easier to reach our customers and fan-base.
+**Mailing List** : When you submit your email address to be added to our mailing list, you are agreeing to not only our privacy policy but the [privacy policy of Constant Contact](http://www.constantcontact.com/privacy_guarantee.jsp#information) as well. Constant Contact is a third party service that allows us to send out our email updates to multiple email addresses to make it easier to reach our customers and fan-base.
+
+**Interactive Features for Parents** : When parents use social media platforms and third-party plugins on our Sites, the third parties who provide those features may be able to collect and use information about the visitor and activity on our Sites, including notifying the visitor's connections on the social media platform, in accordance with their own privacy policies. We recommend that visitors review these third-party privacy policies for more information about their information practices.
+
+  * To view Facebook's privacy policy click [here](https://www.facebook.com/about/privacy/)
+  * To view Twitter's privacy policy click [here](https://twitter.com/privacy)
+  * To view Google's privacy policy click [here](http://www.google.com/policies/privacy/)
+  * To view Add This' privacy policy click [here](http://www.addthis.com/privacy/privacy-policy)
+
+
 
 ## ONLINE SAFETY
 
