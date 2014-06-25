@@ -1,38 +1,53 @@
-> *The following text is extracted and transformed from the go4download.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223021907id_/http%3A//go4download.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4download.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141058id_/http%3A//go4download.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Go4download.com Privacy policy Page
 
-**Privacy Policy Statement**  
-This is the web site of go4download.
+We at go4download.com respects the privacy of all our visitors and for us, the trust of our customers is very important. Our privacy policy page will let you know as to how we use as well as protect the information that you provide us while using our site.
 
-We can be reached via e-mail at support@go4download.com
+There may be changes in our policy from time to time which we will keep you updated through the page. The present policy is effective from: 1 st july 2008.
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
+### Information Collected by us:
 
-We collect the e-mail addresses of those who communicate with us via e-mail.
+Your information is collected when you register on our site or when you fill any form on our site. Information that may be collected by us includes:
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site.
+  * Your name along with job title
+  * Your contact information
+  * Your email address
+  * Your address and other demographic information
+  * Other relevant information
 
-**With respect to cookies:** We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors’ browser type or other information that the visitor sends.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+### What is done with the collected information?
 
-From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+All the information collected by our site is used in order to know your needs in a better manner so that we can offer services as per your requirements. We may also use the collected information for one or more of the following reasons:
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+  * To keep them as internal records
+  * To send promotional emails about our new services and products, technology updated in the market, latest software’s info of your interest.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations  
-**With respect to Ad Servers** : To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.Â  For further information, consult the privacy policies of:  
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.Â  If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.Â  If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+**Note:** In case if you wish to unsubscribe form getting our emails, detailed instructions for unsubscribing are provided with each mail.
 
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
+  * To improve our standards of service and products
+  * To contact you through mail, fax, email or phone for contest, market research or survey purposes
+  * To make changes in the site as per your interests and requirements.
+  * You can be rest assured that your information, be it public or private will not be exchanged, sold, given to any other party or transferred for any reason, without your consent.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, transaction information.
 
-Consumers can have this information corrected by sending us e-mail at the above address.
+
+### Protection of your information:
+
+Wide range of security measures are used by us so as to make sure that your information is kept secured. We have placed managerial, physical and electronic procedures so as to prevent unauthorized access of the information collected.
+
+### Use of cookies:
+
+While on our website, the use of cookies in no manner is linked to any identifiable information. The cookies in no manner give us any information which is related to you or your computer.
+
+### Third Party Links:
+
+At times, our site may contain links to other sites. These third party sites have their own independent privacy policy and we at go4download.com are not responsible or liable for the activities or the contents of these sites.
+
+### Contact Us:
+
+We make sure that privacy of your information is maintained and the information is used as per our privacy statement, If you have any concerns or query regarding our privacy policy you can contact us using the below given information:
