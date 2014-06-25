@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wnmlive.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020521id_/http%3A//www.wnmlive.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnmlive.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045015id_/http%3A//www.wnmlive.com/legal/privacy) for the most accurate reproduction.*
 
-# WNM Live :: Privacy Policy
+# Nearby :: Privacy Policy
 
-WNM Live is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the WNM Live Web site and governs data collection and usage. By using the WNM Live website, you consent to the data practices described in this statement. We will occasionally update this Privacy Policy to reflect company and customer feedback.  We strongly encourage you to periodically review this policy to be informed of how we are protecting your personal information. If you have any questions, concerns, or comments about this policy please do not hesitate to contact us at [support@wnmlive.com](mailto:support@wnmlive.com). 
+Nearby is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Nearby Web site and governs data collection and usage. By using the Nearby website, you consent to the data practices described in this statement. We will occasionally update this Privacy Policy to reflect company and customer feedback.  We strongly encourage you to periodically review this policy to be informed of how we are protecting your personal information. If you have any questions, concerns, or comments about this policy please do not hesitate to contact us at [support@wnmlive.com](mailto:support@wnmlive.com). 
 
 |   
 | 
@@ -13,7 +13,7 @@ WNM Live is committed to protecting your privacy and developing technology that 
 160 Lowell Avenue  
 Palo Alto, CA 94301
 
-WNM Live is owned and operated by SynergeTech Solutions, Inc, a California domestic corporation.  
+Nearby is owned and operated by SynergeTech Solutions, Inc, a California domestic corporation.  
   
 | 
 
@@ -25,15 +25,15 @@ We collect personally identifiable information, such as your e-mail address, use
 
 ### Location Data Collection
 
-In order to use the WNM Live Services, we need to associate your account with a geographic location. In order to do this, we will utilize the GPS and/or cellular antenna of your mobile device to find your approximate location. We may also utilize your IP Address to determine where you are. Your latitude and longitude coordinate pair will be utilized to determine the city and political region that you are currently in. This information will be posted publically when you use the WNM Live service. If you would like to opt-out of sharing your actual geographic location, you can visit the Account Settings page of www.wnmlive.com and override your location with a false one. Location data will be treated as any other personally identifiable collected in regards to our policy on sharing such information with third parties. Even if you opt-out of sharing your location data publically with other users, please note that SynergeTech Solutions will still collect your location data and may still share it with third parties to enable us to run the WNM Live properties.   
+In order to use the Nearby Services, we need to associate your account with a geographic location. In order to do this, we will utilize the GPS and/or cellular antenna of your mobile device to find your approximate location. We may also utilize your IP Address to determine where you are. Your latitude and longitude coordinate pair will be utilized to determine the city and political region that you are currently in. This information will be posted publically when you use the Nearby service. If you would like to opt-out of sharing your actual geographic location, you can visit the Account Settings page of www.wnmlive.com and override your location with a false one. Location data will be treated as any other personally identifiable collected in regards to our policy on sharing such information with third parties. Even if you opt-out of sharing your location data publically with other users, please note that SynergeTech Solutions will still collect your location data and may still share it with third parties to enable us to run the Nearby properties.   
   
 | 
 
 ### Data Use and Sharing
 
-The nature of the WNM Live service is that most information you give us will be shared with any other user, or even anonymous visitor, of the WNM Live service.  This includes your profile details, Live Stream posts, photos, and general location.  You can block specific users from accessing this data.  Private messages between you and a single other user will not be shared by the WNM Live service, but could be shared by the other participant.
+The nature of the Nearby service is that most information you give us will be shared with any other user, or even anonymous visitor, of the Nearby service.  This includes your profile details, Live Stream posts, photos, and general location.  You can block specific users from accessing this data.  Private messages between you and a single other user will not be shared by the Nearby service, but could be shared by the other participant.
 
-There are also a few ways we share your data in order to help enhance the service, and specifically drive user interaction.  For instance, we may choose to use your user content (including your profile, posts, or photos) to market the WNM Live service.  This could include, without limitation, screenshots for the App Store or promotional emails to current or potential users.  
+There are also a few ways we share your data in order to help enhance the service, and specifically drive user interaction.  For instance, we may choose to use your user content (including your profile, posts, or photos) to market the Nearby service.  This could include, without limitation, screenshots for the App Store or promotional emails to current or potential users.  
   
 | 
 
@@ -47,7 +47,7 @@ When you submit personally identifiable information to us, you understand and ag
 
 ### Limited Data Sharing With Advertisers
 
-WNM Live is an ad-supported free service.  We currently only show advertisements on our Windows Phone application.  We work with Microsoft Advertising and AdDuplex to provide the advertisements shown within that application.  Both companies are highly respected and reputable.  In order to provide the most relevant advertisements to each user, we share with Microsoft Advertising the following pieces of personal data: 
+Nearby is an ad-supported free service.  We currently only show advertisements on our Windows Phone application.  We work with Microsoft Advertising and AdDuplex to provide the advertisements shown within that application.  Both companies are highly respected and reputable.  In order to provide the most relevant advertisements to each user, we share with Microsoft Advertising the following pieces of personal data: 
 
   * Precise Location
   * Locale and Language Settings
