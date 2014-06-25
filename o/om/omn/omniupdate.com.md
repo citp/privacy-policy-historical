@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omniupdate.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204163249id_/http%3A//omniupdate.com/company/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omniupdate.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112837id_/http%3A//omniupdate.com/company/policies/privacy.html) for the most accurate reproduction.*
 
 # OmniUpdate - Privacy Policy
 
@@ -15,9 +15,11 @@ OmniUpdate is deeply committed to user privacy and to the security of all data i
 
 As part of our Software-as-a-Service offerings, customers may be requested to provide OmniUpdate with the individualized information of users. Individualized information can be anything provided to the OU Campus system that identifies a person, such as name, address, phone number, email address, user name or password. OmniUpdate may use this information to contact a customer or to provide them with a service. 
 
-It is OmniUpdate's policy to send and receive individualized information only through secured channels and store it on tightly secured servers. OmniUpdate does not share, distribute, print, or reference any individualized information except as may be required by law. We will only view or access individual information with specific permission as needed to implement products and services or to resolve a support issue. However, users may elect to share such information with a third-party vendor to perform certain specific services deemed reputable and secure by OmniUpdate management. Please note that each user is responsible for maintaining the security of their own email accounts and OU Campus user credentials, including passwords. OmniUpdate may collect information from visitors of our public-facing website such as Internet addresses. We use this information only to assess website traffic levels and to determine technical problems. 
+It is OmniUpdate's policy to send and receive individualized information only through secured channels and store it on tightly secured servers. OmniUpdate does not share, distribute, print, or reference any individualized information except as may be required by law. We will only view or access individual information with specific permission as needed to implement products and services or to resolve a support issue. However, users may elect to share such information with a third-party vendor to perform certain specific services deemed reputable and secure by OmniUpdate management. Please note that each user is responsible for maintaining the security of their own email accounts and OU Campus user credentials, including passwords. 
 
 If credit card information is collected to secure payment for services, such information is not stored by OmniUpdate. Our bank assists in the processing of credit card transactions and all card information is destroyed after the transaction is successfully completed. Payments made via check are processed through private bank means and all checking information is maintained securely in our office and with our bank. Billing information is never used by OmniUpdate for marketing or promotional purposes. 
+
+OmniUpdate.com utilizes Google Analytics and other tools to track and analyze Internet visitor usage data. This includes the collection of Internet addresses and web browser cookies. We also may utilize Google's Display Network to target advertisements to visitor interest categories. This data is used to track how visitors navigate our website so that we can respond to visitor needs and create a better web experience. We do not track personally-identifiable information unless it is provided to us by the visitor. This data is never associated with and has no influence on employee recruiting at OmniUpdate. 
 
   
 
@@ -31,10 +33,12 @@ The OmniUpdate network has extensive protective measures in place to ensure that
 
 ### Opt-Out Policy
 
-We want to make sure you are comfortable with the way we use your information and know how to change your preferences. As an OmniUpdate customer, please note that you have the right to decide how we use the information you provide to us. Should you wish to opt-out of receiving general marketing information from us, please send us an email request detailing your preferred level of contact. Send your request to [marketing@omniupdate.com](mailto:marketing@omniupdate.com?subject=Opt-Out) and we will remove your information from our contact lists. 
+We want to make sure you are comfortable with the way we use your information and know how to change your preferences. As an OmniUpdate customer, please note that you have the right to decide how we use the information you provide to us. Should you wish to opt out of receiving general marketing information from us, please send us an email request detailing your preferred level of contact. Send your request to [marketing@omniupdate.com](mailto:marketing@omniupdate.com?subject=Opt-Out) and we will remove your information from our contact lists. 
 
   
 
+
+You may opt out of Google's Display Advertising by visiting the [Google Advertisement Settings](https://www.google.com/settings/ads "Google Opt-Out") page. You also may be interested in viewing the [Consumer Opt-Out](http://www.networkadvertising.org/managing/opt_out.asp "Consumer Opt-Out") page for the Network Advertising Initiative to opt out of other participating networks.
 
 ### Links to External Websites
 
