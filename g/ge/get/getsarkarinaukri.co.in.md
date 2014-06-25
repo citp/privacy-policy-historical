@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getsarkarinaukri.co.in privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212020557id_/http%3A//getsarkarinaukri.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsarkarinaukri.co.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091635id_/http%3A//getsarkarinaukri.co.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Get Sarkari Naukri
 
 This privacy policy sets out how GetSarkariNaukri.co.in uses and protects any information that you give GetSarkariNaukri.co.in when you use this website. 
 
