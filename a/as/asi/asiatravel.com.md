@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiatravel.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005212355id_/http%3A//www.asiatravel.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiatravel.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130829id_/http%3A//book.asiatravel.com/PgLand.CMS.aspx%3Fp%3D/en-us/info/privacy_policy.html%26trck%3Dhp) for the most accurate reproduction.*
 
 # Asiatravel : Privacy Policy
 
