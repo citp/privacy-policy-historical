@@ -1,29 +1,60 @@
-> *The following text is extracted and transformed from the bankofengland.co.uk privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211105051id_/http%3A//www.bankofengland.co.uk/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofengland.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052554id_/http%3A//www.bankofengland.co.uk/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Bank of England | Bank of England Website Cookies and Privacy Statement
+# Bank of England | Privacy and Cookie Policy
 
-The statement applies to the Bank of England's web site (www.bankofengland.co.uk) and describes our policy in relation to the processing of personal information - that is information about you which is personally identifiable like your name, address, email address or phone number. Links to other websites contained within this site are not covered by this policy.
+This policy applies to the website (www.bankofengland.co.uk) for the Bank of England (the ‘Bank’), including the Prudential Regulation Authority (‘PRA’), as well as for the Bank’s careers website (www.boe-careers.co.uk) (collectively, ‘our websites’).  It does not cover links within these to any other websites. 
 
-Our site does not automatically capture or store personal information about you, other than logging your IP address (the protocol which allows data to be transmitted between two connections to the internet) and session information such as the duration of your visit and the type of browser you used. This information is purely used for system administration and is anonymised to produce statistical reports that enable us to evaluate 
+**Privacy**
 
-the use of our site. 
+**How we use your information**
 
-We do not use cookies on the www.bankofengland.co.uk website.  A cookie is a small text file that can be sent to and stored on your computer, smartphone or any other devices that can connect and access websites via the internet.  Cookies can be used to collect information about you such as to customise websites for your next visit or to collect information about the way you use the website.
+This policy tells you what to expect when the Bank receives personal information through our websites. You may, for example, be asked to provide personal information in order to take advantage of a particular service we offer, or because you are applying for a job at the Bank.
 
-You can find more information about cookies at [http://www.allaboutcookies.org/ ](http://www.allaboutcookies.org/)including how to delete them.
+In any instance where you provide personal information to us, we will only use it to deliver the services you have requested.  
 
-While we do not use cookies it is important to be aware that other websites linked to from the website may use cookies.  You will need to check the relevant cookie policy of those sites to find out how they may use cookies.
 
-You will be asked to provide personal information if you wish to make an application to reproduce bank notes in line with our reproductions policy. This information will only be used for the purpose of administering our policy regarding the reproduction of banknotes.
+Our websites do not automatically capture or store personal information about users, other than IP addresses and limited session information such as the duration of visits and type of browser used. This information is anonymised and used to produce statistical reports to allow us to evaluate how our websites are used.
 
-You may also choose to complete feedback forms which appear in various areas of the site. Any information submitted here will only be used in accordance with the Privacy Policy statement which appears at the bottom of the feedback form.
+**How do I make a request for my personal information (Subject Access Request) under the Data Protection Act 1998?**  
+The Data Protection Act 1998 provides individuals with the right to ask any organisation, including the Bank and PRA, for a copy of the personal data processed about them.To make a request for the personal information we hold about you, please contact:The Information Compliance Team (HO-M)
 
-**Bank of England Recruitment Website**
+Bank of England
 
-This statement applies to the Bank of England's careers page accessed via [www.bankofengland.co.uk/careers](https://web.archive.org/careers) and describes our policy in relation to the processing of personal information - that is information about you which is personally identifiable like your name, address, email address or phone number. Links to other websites contained within this page are not covered by this policy. 
+Threadneedle Street
 
-All personal information that you do submit to us - whether it be via the on-line application forms or the various e-mail accounts contained within this site - will be used by us, or any third-party agent acting on our behalf, for recruitment purposes only. 
+London
 
-Our site does not automatically capture or store personal information about you, other than logging your IP address (the protocol which allows data to be transmitted between two connections to the internet) and session information such as the duration of your visit and the type of browser you used. This information is purely used for system administration and is anonymised to produce statistical reports that enable us to evaluate the use of our site. 
+EC2R 8AH
 
-We do not use cookies to collect information about you. A "cookie" is a device used to collect information about you and your visit to a website that then enables that site to be customised for your next visit. The information collected by cookies can also be used as for marketing purposes. 
+Telephone: 020 7601 4878
+
+**Cookies**
+
+**What are cookies?**
+
+A cookie is a small text file that is placed on your computer, smartphone or other device when you visit a website.  Cookies are used for a number of purposes, including to make some parts of a website work or work more efficiently, as well as to provide information to the owners of a site about how it is used.  
+
+
+Some of the cookies our websites use are essential for them to function properly, but we also use some non-essential cookies that help us to improve these.  The table below sets out a full list of the cookies used on our websites and what we use these for. 
+
+**​** **Cookie** | **​Name** | **Purpose** ​  
+---|---|---  
+​Cookie Banner | ​BoEAccptedCookie | ​You may see a pop-up welcome message when you first visit our websites. We’ll store a cookie so that your computer knows you’ve seen it and knows on any subsequent visits not to show it again. This is stored for 365 days.  
+​Load Balancing | ​ROUTEID
+
+JSESSIONID
+
+JsessionIDForms
+
+JSessionIDOAFM
+
+| ​These cookies help us to balance the workload by, for example, recording which server a user’s browsing session has been allocated to in order to ensure they only deal with a single server for the duration of their session.  These are deleted once the browsing session ends.  
+​BoE Careers | ​$ {Instance Name} (default value)Oracle.uix | ​These cookies identify whether the user is currently logged-in or is a ‘guest’ user, expiring once the user’s session ends. They also remember time zone and accessibility preferences that users have applied.  
+​YouTube | ​ | ​We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos.Read more at [YouTube’s embedding videos information page](http://www.google.com/support/youtube/bin/answer.py?hl=en-GB&answer=171780 "External link").  
+ 
+
+You can find more information about cookies, including how to control the use of these through your browser settings, at: 
+
+**Changes to this policy**
+
+We keep our cookies and privacy policy under regular review.  This policy was last reviewed in February 2014.
