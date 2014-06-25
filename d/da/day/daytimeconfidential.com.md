@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytimeconfidential.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501124140id_/http%3A//daytimeconfidential.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytimeconfidential.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625185258id_/http%3A//daytimeconfidential.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daytime Confidential
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
 
-Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
+Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
 
 **What do we use your information for?**
 
@@ -36,7 +36,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [_click here_](http://www.google.com/privacy_ads.html).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
@@ -56,15 +56,16 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on May 5, 2010.
+This policy was last modified on June 03, 2014.
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Daytime Confidential  
-c/o TV Fan Online Inc.  
-P.O. Box 20  
-Bowdon, ND 58418  
+Daytime Confidential
+
+c/o Confidential Media, Inc.  
+P.O. Box 7238  
+Fargo, ND 58106-7238  
 United States  
-[privacy@daytimeconfidential.com](mailto:privacy@daytimeconfidential.com)
+privacy@daytimeconfidential.com
