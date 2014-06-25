@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202074739id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625151512id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy | AA
 
   * Introduction
-  * How we use the information you provide us
+  * How we use your information
   * Your consent
   * Cookies
   * How we use cookies
@@ -25,25 +25,15 @@
 
 ###  Introduction
 
-'Saga' means the Saga Group of companies and all companies within the Saga Group resident anywhere in the world.
+'Acromas' means Acromas Holdings Limited together with its subsidiaries, being the various groups of companies that Acromas Holdings Limited ultimately owns including the Saga Leisure ('Saga') group, the Allied Healthcare ('Allied') group, the Nestor Healthcare ('Nestor') group and the AA group
 
-'AA' means the AA Group of companies. A list of the companies within the AA Group can be obtained from the AA address below.
+Companies within the Acromas group use a variety of well known brand and trading names including, but not limited to, Saga, Titan Travel, Allied Healthcare, AA, Nestor, BSM, Direct Choice, Claimfast, Metromail, Go Travel Insurance, 1Stop Travel Insurance, Peak Performance. Details of the relevant companies can be obtained from the Group Data Protection Officer at Enbrook Park, Sandgate, Kent CT20 3SE.
 
-'Drakefield' means Drakefield Insurance Services Limited. A list of the companies within the Drakefield Group can be obtained from the Drakefield address below.
-
-Nestor Healthcare Group is part of the Saga Group.
-
-Allied Healthcare is part of the Saga Group.
-
-BSM (British School of Motoring) is part of the AA Group.
-
-Saga and AA groups of companies are wholly owned by Acromas Holdings Limited.
-
-Saga and AA (we or us) are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998 and aim to maintain consistently high levels of best practice in our processing of personal and/or sensitive personal data.
+Acromas ('we' 'us') are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998 and aim to maintain best-practice standards in our processing of personal and/or sensitive personal data.
 
 Back to top
 
-###  How we use the information you provide us
+###  How we use your information
 
 We use the information we receive from you, together with information we have obtained from our dealings with you (including in relation to goods and/or services we provide to you and/or your use of those goods and/or services), to provide goods and/or services that you request, to communicate with you, and to personalise information sent to you. Examples of how we may personalise information include using your information in generating an insurance quote for you, working out which departure airports are near to you, or when we will be delivering certain products in your area.
 
@@ -67,17 +57,17 @@ If you provide us with credit or debit card details in order to pay for a servic
 
 When you enter a contest or other promotional feature, we may ask for your name, address, phone numbers and email address so we can administer the contest and notify winners.
 
-Occasionally, we may also use the information we collect to notify you by post, phone, mobile phone, email and SMS about new or existing Saga Group and AA Group services, products and special offers we think you'll find valuable.
+Occasionally, we may also use the information we collect to notify you by post, phone, mobile phone, email and SMS about new or existing services, products and special offers we think you'll find of interest.
 
 We may use sensitive personal data collected in respect of one product to market another appropriate product to you.
 
-Generally by providing the requested data you consent to Saga and AA using that data for administrative purposes and for informing you of other products and services by letter, SMS, phone and/or email. We may also use the information we collect to occasionally notify you about important functionality changes to the website.
+Generally by providing the requested data you consent to us using that data for administrative purposes and for informing you of other products and services by letter, SMS, phone and/or email. We may also use the information we collect to occasionally notify you about important functionality changes to the website.
 
-If you make a donation to the Saga Charitable Trust, your data will not be used for marketing purposes.
+If you make a donation to either of the Saga or AA Charitable Trusts, your data will not be used for marketing purposes.
 
 Each time you receive electronic marketing information or a message, you have the option to decline to receive further marketing information from us. This is known as an 'opt-out'.
 
-If you wish to exercise the opt-out, for Saga products please write to the Saga Group Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE; or for AA products to AA Group Data Protection Officer, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA; or for Drakefield products to Drakefield Insurance Services Limited, West Wing, 6 Miles Gray Road, Basildon SS14 3HJ.
+If you wish to exercise the opt-out: for Saga products and services please write to the Saga Group Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE; for AA products and services please write to AA Group Data Protection Officer, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA; or for Allied Healthcare (Allied and Nestor Group) products or services write to the Data Protection Officer, Allied Healthcare Group, Enbrook Park, Sandgate, Kent CT20 3SE.
 
 If you have more than one address or email address please make sure to notify any changes to your preferences for each address or email address you have registered with us.
 
@@ -104,29 +94,27 @@ Back to top
 
 ###  Your consent
 
-Before you provide any data to us we will endeavour to make it clear why we need it. Sometimes we may need sensitive personal data (examples may be past medical history or motoring convictions). When this is required we will obtain your consent first. Otherwise, by providing us with information, either orally or in writing, or by using our website, you consent to the collection, use and processing of the information we obtain from or about you as a result of our dealings with you (including any data we obtain from third parties) by Saga and AA groups to provide and send you information about their goods and/or services.
+Before you provide any data to us we will endeavour to make it clear why we need it. Sometimes we may need sensitive personal data (examples may be past medical history or motoring convictions). When this is required we will obtain your consent first. Otherwise, by providing us with information, either orally or in writing, or by using our website, you consent to the collection, use and processing of the information we obtain from or about you as a result of our dealings with you (including any data we obtain from third parties) by Acromas to provide and send you information about goods and/or services we believe may be of interest to you.
 
 A customer may properly give their spouse's or partner's consent over the phone or via the website providing the customer confirms they have permission to do so. If the consent is written, the spouse must independently endorse such consent.
 
-Please note that we provide products and services including holidays outside the European Economic Area (EAA). Therefore if you travel on such holidays the information you provide may occasionally be transferred outside the EAA. From time to time Saga and AA may use service providers and organisations outside the EEA for the purpose of processing services, system testing and maintenance.
+Please note that we provide products and services including holidays outside the European Economic Area (EEA). Therefore if you travel on such holidays the information you provide may occasionally be transferred outside the EEA. From time to time Saga and AA may use service providers and organisations outside the EEA for the purpose of processing services, system testing and maintenance.
 
 It is worth noting, however, that some non-EEA countries do not afford the same level of data security as the UK. By submitting your details you consent to this transfer. We will always use every reasonable effort to ensure sufficient protections are in place to safeguard your personal information.
 
 Subsequent to your purchase of a product or service, we may enter into an arrangement for that service to be provided by a new third party. If this happens, the terms and conditions of your contract with us will provide that you consent to the transfer and processing of personal and/or sensitive personal data to the new provider, subject to the requirement of the Data Protection Act 1998 and associated regulations.
 
-If you use Saga Zone or AA Zone you agree for us to put you on the site, and to display the notes you write about yourself and the message boards you join. We will not publish any direct contact details, except where you specifically confirm that you wish such information to be published.
-
-If you are entitled to breakdown service under AA membership you consent to the AA keeping you up to date with the AA Rewards discount scheme available from time to time. Under this, as part of the benefit of being a member, the AA will, through the AA members' magazine, email or otherwise, give you membership information and details of any discounts or offers it may negotiate from time to time on behalf of its members.
+If you are entitled to breakdown service under AA membership you consent to the AA keeping you up to date with the AA Rewards discount scheme or similar available from time to time. Under this, as part of the benefit of being a member, the AA will, through the AA members' magazine, email or otherwise, give you membership information and details of any discounts or offers it may negotiate from time to time on behalf of its members.
 
 Back to top
 
 ###  Cookies
 
-From offers and promotions to sound and video, the aim of this site is to be interesting, helpful and informative. We’re keen to find out what you like and dislike – your feedback plays a key role in helping us improve this site. We use many techniques to follow your use of the site and provide you with a customised experience. The main and best-known technique is by using what are known as 'cookies'.
+From offers and promotions to sound and video, the aim of this site is to be interesting, helpful and informative. We're keen to find out what you like and dislike – your feedback plays a key role in helping us improve this site. We use many techniques to follow your use of the site and provide you with a customised experience. The main and best known technique is by using what are known as 'cookies'.
 
-**What are cookies?** Cookies are small data files that a website will put on your device, which in turn sends information back to the website. They cannot affect your device, but they do collect information that can be used to enhance the site. For example, a cookie can remember the items that you have placed into your shopping basket, or it can ensure you get the offer you requested. These are known as ‘session’ cookies, which expire as soon as you leave the site.
+**What are cookies?** Cookies are small data files that a website will put on your device, which in turn sends information back to the website. They cannot affect your device, but they do collect information that can be used to enhance the site. For example, a cookie can remember the items that you have placed into your shopping basket, or it can ensure you get the offer you requested. These are known as 'session' cookies, which expire as soon as you leave the site.
 
-Other cookies can tell us if you come back. These are ‘persistent cookies’, which often expire after a period of time. They will remain on your device until you delete them. We use them to help customise the site – to do things such as display relevant information based on your visit.
+Other cookies can tell us if you come back. These are 'persistent cookies', which expire after a period of time unless you delete them from your device. We use them to help customise the site – to do things such as display relevant information based on your visit.
 
 Some cookies enable sites to work, while others help us learn about what people are browsing for.
 
@@ -334,13 +322,13 @@ To remove cookies follow the steps in this section. Do not try to edit the cooki
 4. Select a cookie from the list and click **Remove**   
 5. To delete all cookies click **Remove All**
 
-If you are not using any of the above browsers, then select 'cookies' in the 'Help' function for information on where to find your cookie folder.
+If you are not using any of the browsers above, then select 'cookies' in the 'Help' function for information on where to find your cookie folder.
 
 Back to top
 
 ###  Disclosure of information to third parties
 
-As previously mentioned, Saga and AA do not sell, trade or rent your information, and will never disclose information about you (including information obtained from our dealings with you) to third parties, except:
+As previously mentioned, we do not sell, trade or rent your information, and will never disclose information about you (including information obtained from our dealings with you) to third parties, except:
 
 a) to fulfil your specific orders for a product or service or information in the event that third parties deliver the relevant product or service or information. For example, if you go on a holiday with us, the hotel needs to know who you are. If you take out an insurance policy provided by a third party, they will need your details in order to administer the policy, verify the quote given to you and process any claims;
 
@@ -348,15 +336,15 @@ b) where third parties administer part or all of the product or service;
 
 c) for underwriting, pricing, insurance rating analysis and testing purposes, and to maintain management information for business analysis.
 
-We may of course be obliged at law to pass on your information to the police or any other statutory or regulatory authority.
+We may of course be obliged at law to pass on your information to the police or any other statutory or regulatory authority and in some cases, exemptions may apply under the Data Protection Act 1998, whereby we can legitimately release personal data eg to prevent or detect crime or in connection with legal proceedings.
 
-See also **How we use the information you provide us** above for information on how we may exchange personal data with third parties to help us prevent fraud and money laundering, to assist us in providing a quote, or to check which payment options we can make available to you.
+See also **How we use your information** above for information on how we may exchange personal data with third parties to help us prevent fraud and money laundering, to assist us in providing a quote, or to check which payment options we can make available to you.
 
 Back to top
 
 ###  Employees and employees' spouses or partners
 
-Personal and/or sensitive personal data of a Saga employee and his or her spouse or partner who take out a product and/or service with Saga may be shared to any group company of Saga for the purpose of operation of the product or service or for administrative reasons (including but not limited to claim administration, which may be assisted by the employee's department personnel). By accepting or purchasing the product or service the employee and his or her spouse or partner provide the necessary consent for this transfer of data.
+Personal and/or sensitive personal data of an employee and his or her spouse or partner who take out a product and/or service may be shared to any group company for the purpose of operation of the product or service or for administrative reasons (including but not limited to claim administration, which may be assisted by the employee's department personnel). By accepting or purchasing the product or service the employee and his or her spouse or partner provide the necessary consent for this transfer of data.
 
 Back to top
 
@@ -364,7 +352,7 @@ Back to top
 
 Saga and AA groups of companies have adopted the following procedure in gaining your consent to be placed on their marketing lists.
 
-When you first make an enquiry of or buy a product from Saga Group, or AA Group or Drakefield you consent to receiving marketing about other products and services from us. Your details are placed on our marketing list for the group and a 'questionnaire' will be sent to you; it may be sent electronically. This questionnaire gives a list of all the products of the group, and the option of choosing which products you would or would not like to receive information about. You can also choose not to receive any marketing from us. Once you have chosen what you would like to receive we ask you to return the completed form back to us. The marketing selections will be administered where applicable.
+When you first make an enquiry of or buy a product from Saga Group or AA Group you consent to receiving marketing about other products and services from us. Your details are placed on our marketing list for the group and a 'questionnaire' will be sent to you; it may be sent electronically. This questionnaire gives a list of all the products of the group, and the option of choosing which products you would or would not like to receive information about. You can also choose not to receive any marketing from us. Once you have chosen what you would like to receive we ask you to return the completed form back to us. The marketing selections will be administered where applicable.
 
 Back to top
 
@@ -376,15 +364,19 @@ Back to top
 
 ###  Subject access requests
 
-You have a statutory right of access to accessible personal and/or sensitive personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to the Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE for requests relating to information held by Saga Group companies; or to the AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA for requests relating to information held by AA Group companies.
+You have a statutory right of access to accessible personal and/or sensitive personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to the Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE for requests relating to information held by Saga Group companies; or to the AA Group Data Protection Officer, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA for requests relating to information held by AA Group companies.
 
-Please refer to the information you wish to see giving dates if possible, and enclose your cheque for £10 payable to Saga Group Limited or Automobile Association Developments Limited. We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.
+Please refer to the information you wish to see giving dates if possible, and enclose your cheque for £10 payable to Saga Group Limited or Automobile Association Developments Limited.
+
+Requests relating to Allied Healthcare should be made to the branch manager of your local branch, details of which can be found at [www.alliedhealthcare.com](http://www.alliedhealthcare.com/). The £10 cheque should be made payable to 'Nestor Primecare Services Ltd t/a Allied Healthcare'.
+
+We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.
 
 Back to top
 
 ###  Your choice of information
 
-You may change the type of material sent to you at any time. Saga and AA allow you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this, for Saga products please write to Information Processing at The Saga Building, Enbrook Park, Sandgate, Kent CT20 8SE; for AA products please write to The Data Protection Compliance Manager at Automobile Association Developments Limited, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA; and for Drakefield products please write to Drakefield Insurance Services Limited, West Wing, 6 Miles Gray Road, Basildon SS14 3HJ.
+You may change the type of material sent to you at any time. Saga and AA allow you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this, for Saga products please write to Information Processing at The Saga Building, Enbrook Park, Sandgate, Kent CT20 8SE; for AA products please write to the AA Group Data Protection Officer at Automobile Association Developments Limited, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA.
 
 Back to top
 
@@ -396,8 +388,8 @@ Back to top
 
 ###  Tell us what you think
 
-Saga and AA welcome your questions and comments about privacy.
+We welcome your questions and comments about privacy.
 
-Please write to The Group Data Protection Officer, The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE; or Automobile Association Developments Limited, Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA; or Drakefield Insurance Services Limited, West Wing, 6 Miles Gray Road, Basildon SS14 3HJ.
+Please write to The Group Data Protection Officer, Acromas Group, Enbrook Park, Sandgate, Kent CT20 3SE.
 
 Back to top
