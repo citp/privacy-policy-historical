@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pupugames.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211221016id_/http%3A//www.pupugames.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pupugames.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132033id_/http%3A//www.pupugames.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - pupugames.com
 
