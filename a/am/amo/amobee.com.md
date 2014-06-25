@@ -1,21 +1,10 @@
-> *The following text is extracted and transformed from the amobee.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202132436id_/http%3A//www.amobee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amobee.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071826id_/http%3A//amobee.com/privacy) for the most accurate reproduction.*
 
 # Amobee Privacy Statement - [a•mo•bee]
 
-| 
+Amobee Privacy Statement 
 
-[](https://privacy.truste.com/privacy-seal/Amobee,-Inc-/validation?rid=199a6fb3-8cd8-4ca4-8fa3-f1f64ed99fb1 "TRUSTe European Safe Harbor certification")
-
-[Amobee.com   
-Privacy Policy](https://web.archive.org/privacy/index.shtml)
-
-[Technology Services Privacy Policy](https://web.archive.org/privacy/technology/index.shtml)
-
-|   | 
-
-Amobee Privacy STATEMENT  
-Effective Date:  05/25/2012  
-
+Effective Date: 05/25/2012 
 
 This privacy statement applies to [www.amobee.com](http://www.amobee.com/) owned and operated by Amobee, Inc. (“Amobee”). This privacy statement describes how Amobee collects and uses the personal information you provide on our web site: www.amobee.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -109,6 +98,4 @@ The security of your Personal Information is important to us.  We follow genera
 Amobee, Inc.  
 100 Marine Parkway, Suite 575  
 Redwood City, CA 94065  
-+1 (650) 802 8871  
-  
----|---|---
++1 (650) 802 8871
