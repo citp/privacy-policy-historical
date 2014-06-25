@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fpl.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220065407id_/http%3A//www.nexteraenergy.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpl.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132606id_/http%3A//www.nexteraenergy.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # NextEra Energy, Inc. | Privacy Policy
 
@@ -150,7 +150,7 @@ However, we do not and will not at any time request any of the following informa
 
 Likewise, we will never send you an unsolicited email containing a link to the log in page for our website.
 
-If you receive an email or telephone call requesting any of this information, it is likely that you have received an attempted theft of your identity commonly called “phishing.” Likewise, if you receive an email urging you to login to your account and provides you with a link to the login page, it is also likely that you have received a “phishing” attempt. In either case, you should bring the email to the attention of our security department by forwarding the email to: _[http://www.fpl.com/contact](http://www.fpl.com/contact/index.shtml)_
+If you receive an email or telephone call requesting any of this information, it is likely that you have received an attempted theft of your identity commonly called “phishing.” Likewise, if you receive an email urging you to login to your account and provides you with a link to the login page, it is also likely that you have received a “phishing” attempt. In either case, you should bring the email to the attention of our security department by forwarding the email to: _[abuse@fpl.com](mailto:abuse@fpl.com)_
 
 If we send you an email requesting that you login to your account, we strongly recommend that you open your web browser and manually input the address for our website. Doing so will ensure that you do not open some third-party website disguised to look like our website.
 
@@ -166,7 +166,7 @@ In order to provide both current and potential customers with more options for c
 
 We reserve the right to alter or amend this Privacy Policy at any time and without prior notice to you in order to reflect changes in our online information practices. In an effort to ensure that you receive notice of any changes to the Privacy Policy, we may include a notice on our website. Alternatively, we may send a notice to the email address you provide to us; however, if you do not provide us with an email address, we will not be able to provide you with such notice.
 
-We also recommend that you check back with this web page periodically so that you may be kept informed regarding any changes to the Privacy Policy. You should also visit our _[Terms of Use](http://www.fplgroup.com/contents/legal_notice.shtml)_ in addition to this Privacy Policy each time you visit any one of the NextEra Energy Sites.
+We also recommend that you check back with this web page periodically so that you may be kept informed regarding any changes to the Privacy Policy. You should also visit our _[Terms of Use](http://www.nexteraenergy.com/legal_notice.shtml)_ in addition to this Privacy Policy each time you visit any one of the NextEra Energy Sites.
 
 ## THIRD PARTY LINKS
 
