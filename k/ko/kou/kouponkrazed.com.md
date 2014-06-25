@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kouponkrazed.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110130648id_/http%3A//kouponkrazed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kouponkrazed.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100257id_/http%3A//kouponkrazed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Koupon Krazed
 
@@ -87,4 +87,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://kouponkrazed.com
 
-kouponkrazed@yahoo.com
+diane@kouponkrazed.com
