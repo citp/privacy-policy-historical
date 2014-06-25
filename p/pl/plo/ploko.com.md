@@ -1,52 +1,41 @@
-> *The following text is extracted and transformed from the ploko.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017004157id_/http%3A//www.ploko.com/pages/2/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ploko.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002811id_/http%3A//www.nowgamez.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy NowGamez.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email.
+Disclaimer 
 
-At games we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by games and how we use it. 
+Lability All materials, information, software, products and services (also referred to as "Content"), included in or available through www.nowgamez.com (also referred to as "Site") are provided on an "as is" basis. The Content is provided without warranties of any kind. 
 
-**Log Files**  
-Like many other Web sites, games makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+By using the Content of the Site, you explicitly agree to these terms and conditions. We do not warrant that the Content on this Site is accurate, reliable or correct; that this Site will be available at any particular time or location; that any defects or errors will be corrected; or that the Content is free of viruses or other harmful components. Your use of this Site is solely at your own risk. Any Content viewed, downloaded or otherwise obtained through the use of this Site is done solely at your own discretion and risk, and you will be solely responsible for any damage, including without limitation personal injury or distress, damage to your computer system, or loss of data, that results from the viewing or download of any Content. nowgamez can not be held responsible for any problems occuring by using or not using the Site and its Content in any way. 
 
-**Cookies and Web Beacons**  
-games uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser. 
+Links, advertisements and third party sites This Site provides advertisements and links to other third party websites over which we have no control. We can not be held responsible for those advertisements and websites or any of its Content. You acknowledge that you view and access these advertisements and websites entirely at your own risk. 
 
-**DoubleClick DART Cookie**
+Terms Of Use / Copyright / Licensing 
 
-→ Google, as a third party vendor, uses cookies to serve ads on games.  
-→ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to games and other sites on the Internet.   
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+The Site (www.nowgamez.com) and its subpages) is copyright by nowgamez. Nowgamez copyrighted content of this site may not be copied, reproduced, republished, uploaded, posted, transmitted, or distributed, in whole or partly, for any purpose other than individual viewing of this content, without the express prior written consent of nowgamez. Any modification, decompilation or reverse-engeneering of nowgamez copyrighted content for any purpose is prohibited. 
 
-**Our Advertising Partners**
+Content of Third Parties Games and other content on the site which is not made and copyrighted by nowgamez, is either licensed or used with permission and protected by international copyright. These games are intellectual property and/or copyright and/or trademark by their respective owners and/or authors.If you are the developer/owner/copyright holder of a game and you wish to have it removed from nowgamez, please email us by contact form. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Privacy Policy 
 
+Automatically logged information (server logs), cookies, Flash shared objects Server logs: Like most servers, our servers automatically record the page requests made when users visit our Site. These "server logs" typically include your web request (the requested content), IP address, browser type, browser language and the date and time of your request. We use this information to help diagnose problems, to analyze statistics of our Site, and to allow us to improve the overall user-experience. No personal information (like your name, email or phone number) is being gathered with server logs. We do not transfer these data to third parties as long as it is not required by law. 
 
-  * Google
+Cookies:
 
+The Site also uses the third party web analytics service "Google Analytics" (GA), by Google, Inc. GA use "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. No personal information (like your name, email or phone number) is being gathered with cookies. By using this Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
 
+Flash shared objects: Most games on this Site are based on Flash technology (Flash Games). Flash Games may collect data in "shared objects" which are textfiles stored on your computer. We have no control over what data Flash Games of third parties may collect. We are not responsible for the privacy practices of third parties Flash Games. 
 
- _While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
-You may consult this listing to find the privacy policy for each of the advertising partners of games._
+Google Adsense:
 
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on games and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. 
+Delivered by Google, Inc., may make use of one or more "DoubleClick DART Cookies". DART cookies store and collect data on your computer about your browsing activity. Google may use this data to show advertisements on this Site based on your browsing activity. 
 
-games has no access to or control over these cookies that are used by third-party advertisers. 
+You can choose to opt out of Google's use of cookies by visiting: the Google ad and content privacy policy. 
 
-**Third Party Privacy Policies**  
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. games's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+Contact via email When you contact us via email, by using a contact form, you are providing us with personal information such as your name and email address. Such information is used only for the purpose of assisting you with, and validating your inquiry, request or submission. We respect the privacy concerns of visitors to www.nowgamez.com. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+We do not sell or disclose your email address or any other personal information about you. 
 
- **Children's Information**  
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.games does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that games has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+Links We may present internal links (i.e. links to our own pages) or external links (i.e. links to other websites) in a format that allows us to track statistics like the number of clicks a link gets. These statistics will only be used to help us improve the site. We are not responsible for the privacy practices or the content of websites that are being linked to from our Site or newsletters. 
 
- **Online Privacy Policy Only**  
-This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.This policy does not apply to any information collected offline or via channels other than this website.
-
- **Consent**  
-By using our website, you hereby consent to our privacy policy and agree to its terms.
-
- **Update**  
-This Privacy Policy was last updated on: Wednesday, November 16th, 2011. 
+Security We protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction, through appropriate security measures.
