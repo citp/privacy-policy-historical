@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2freehosting.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208025324id_/http%3A//www.2freehosting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2freehosting.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091456id_/http%3A//www.2freehosting.com/privacy.html) for the most accurate reproduction.*
 
 # Free Web Hosting - Privacy Policy
 
@@ -9,7 +9,7 @@ We collect information from you when you register on our site or place an order.
 #### How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.  
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.  
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.  
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
 #### Do we use cookies?
@@ -31,10 +31,6 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 #### Your Consent
 
 By using our site, you consent to our websites privacy policy. 
-
-#### Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page. 
 
 #### Changes to our Privacy Policy
 
