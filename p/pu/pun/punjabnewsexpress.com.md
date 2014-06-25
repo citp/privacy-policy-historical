@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the punjabnewsexpress.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127194929id_/http%3A//punjabnewsexpress.com/company/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punjabnewsexpress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115357id_/http%3A//www.punjabnewsexpress.com/company/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**Note: Legit Expressions Private Limited reserves all rights of Punjabnewsexpress.com.**
 
 This statement describes what you can expect from us regarding personal data on  Punjabnewsexpress.com, and your associated rights and responsibilities. This statement is a part of  the Punjabnewsexpress.com user agreement but trumps any conflicts with the agreement. This  statement does not address anyone else's practices or our practices beyond the  Punjabnewsexpress.com site.
 
@@ -45,6 +47,3 @@ We may disclose data about you to the government agencies if we are required to 
 Notification of Changes
 
 This policy may be revised over time as new features are added to the Web site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we use that information, and whether we will disclose it to anyone. Please check this Web page for information about revisions to our privacy policy.
-
-|   
----|---
