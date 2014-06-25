@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fimfiction.net privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203161741id_/http%3A//www.fimfiction.net/index.php%3Fview%3Dpage%26page%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fimfiction.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090653id_/http%3A//www.fimfiction.net/index.php%3Fview%3Dpage%26page%3Dprivacy_policy) for the most accurate reproduction.*
 
 # FIMFiction.net - My Little Pony: Friendship is Magic Fanfiction
 
