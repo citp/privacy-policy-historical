@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the manageengine.co.uk privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511193623id_/http%3A//www.manageengine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manageengine.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010051id_/http%3A//www.manageengine.com/privacy.html) for the most accurate reproduction.*
 
 # ManageEngine Privacy Policy
 
-| 
-
 12th October 2006
 
-[www.webnms.com](http://www.webnms.com/), [www.manageengine.com](http://www.manageengine.com/), [www.securecentral.com](http://www.securecentral.com/), [www.swissql.com](http://www.swissql.com/), [www.sqlone.com](http://www.sqlone.com/), [www.dbchangemanager.com](http://www.dbchangemanager.com/), [www.codeminer.com](http://www.codeminer.com/), [www.linuxmonitor.com](http://www.linuxmonitor.com/) and [www.zoho.com](http://www.zoho.com/) are websites owned by ZOHO Corp..
+[www.webnms.com](http://www.webnms.com/), [www.manageengine.com](http://www.manageengine.com/), [www.securecentral.com](http://www.securecentral.com/), [www.swissql.com](http://www.swissql.com/), [www.sqlone.com](http://www.sqlone.com/), [www.dbchangemanager.com](http://www.dbchangemanager.com/), [www.linuxmonitor.com](http://www.linuxmonitor.com/) and [www.zoho.com](http://www.zoho.com/) are websites owned by ZOHO Corp..
 
 **Our postal address is**
 
 ZOHO Corp.  
-4900 Hopyard Rd., Suite 310   
+4141 Hacienda Drive   
 Pleasanton, CA 94588, USA
 
-We can be reached via e-mail at [support@manageengine.com](mailto:support@manageengine.com), or you can reach ManageEngine Customer Support Services by telephone at +1 925 924 9500 and +1-888-720-9500 (Monday to Friday). 
+We can be reached via e-mail at [support@manageengine.com](mailto:support@manageengine.com), or you can reach ManageEngine Customer Support Services by telephone at +1-925-924-9500 and +1-888-720-9500 (Monday to Friday). 
 
 ## General
 
@@ -68,6 +66,4 @@ Any changes to our privacy policy will be posted on our websites in order to kee
 
 ## END OF PRIVACY POLICY
 
-If you have any questions or concerns regarding this privacy policy, please contact us at [legal@manageengine.com](mailto:legal@manageengine.com)  
-  
----|---
+If you have any questions or concerns regarding this privacy policy, please contact us at [legal@manageengine.com](mailto:legal@manageengine.com)
