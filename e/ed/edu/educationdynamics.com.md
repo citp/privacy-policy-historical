@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationdynamics.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130014425id_/http%3A//www.educationdynamics.com/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationdynamics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132512id_/http%3A//www.educationdynamics.com/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - EducationDynamics
 
@@ -7,7 +7,7 @@ www.educationdynamics.com
 Privacy Policy  
 **
 
-**Thank you for visiting[ _www.educationdynamics.com_](http://www.educationdynamics.com/) (hereinafter referred to as “the Site”), which is owned and/or operated, in whole or in part, by EducationDynamics, LLC, a Delaware limited liability company (hereinafter referred to as “EducationDynamics,” “us,” “our,” or “we”), and reviewing our Privacy Policy, effective June 30, 2008. EducationDynamics is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. **
+**Thank you for visiting[ _www.educationdynamics.com_](http://www.educationdynamics.com/) (hereinafter referred to as “the Site”), which is owned and/or operated, in whole or in part, by EducationDynamics, LLC, a Delaware limited liability company (hereinafter referred to as “EducationDynamics,” “us,” “our,” or “we”), and reviewing our Privacy Policy, effective October 24, 2012. EducationDynamics is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. **
 
 **Overview**
 
