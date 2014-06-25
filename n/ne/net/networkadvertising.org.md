@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the networkadvertising.org privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204210516id_/http%3A//www.networkadvertising.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkadvertising.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064113id_/http%3A//www.networkadvertising.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NAI: Network Advertising Initiative
 
 ## **NAI Website Privacy Policy**
 
-****Effective November 20, 2013
+****Effective December 18, 2013
 
 The Network Advertising Initiative ("NAI") is an association of online advertising companies committed to complying with responsible business and data management practices.  Protecting the privacy and security of consumers’ information is very important to us. Our website serves the following functions:
 
   * provides consumers with information about the collection and use of data for online advertising;
-  * provides consumers a means to opt out of Online Behavioral Advertising (OBA) by NAI members;
+  * provides consumers a means to opt out of Interest-Based Advertising (IBA) by NAI members;
   * provides a means by which consumers may submit questions or complaints concerning the NAI or NAI member companies;
   * provides information for companies seeking information about NAI membership and allows them to contact the NAI for more information; and
   * contains password-protected pages where NAI members can access member-only materials.
@@ -42,7 +42,7 @@ If you login to the members-only section of our site, we set a cookie with a ran
 
 We also serve cookies to help us anonymously track web traffic, as described above. 
 
-In addition, NAI member companies serve cookies via this website as part of the opt-out process. To enable a consumer to opt out of OBA by a member company, the member company must set an "opt-out cookie" on the consumer's browser. Please note that if you delete any opt-out cookies obtained using the NAI opt-out page, such as by clearing all cookies in your browser, you will need to return to the opt-out page to renew your choices. However, the NAI offers a [tool](https://web.archive.org/protector-license) that helps to preserve your opt-out cookies and prevent them from being deleted. To learn more about how our opt-out process works, [click here](https://web.archive.org/choices).
+In addition, NAI member companies serve cookies via this website as part of the opt-out process. To enable a consumer to opt out of IBA by a member company, the member company must set an "opt-out cookie" on the consumer's browser. Please note that if you delete any opt-out cookies obtained using the NAI opt-out page, such as by clearing all cookies in your browser, you will need to return to the opt-out page to renew your choices. However, the NAI offers a [tool](https://web.archive.org/protector-license) that helps to preserve your opt-out cookies and prevent them from being deleted. To learn more about how our opt-out process works, [click here](https://web.archive.org/choices).
 
 You have the ability to manage the use of cookies on your computer using controls in your browser. To learn more about how to manage cookies, visit <http://www.allaboutcookies.org/>.
 
