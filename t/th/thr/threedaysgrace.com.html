@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the threedaysgrace.com privacy policy that was archived on 2013-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207230719id_/http%3A//threedaysgrace.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the threedaysgrace.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625085622id_/http%3A//www.threedaysgrace.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="no-js unload" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--<![endif]--><head>
-		<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><script type="text/javascript" async="" src="//d1l6p2sc9645hc.cloudfront.net/tracker.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcDVlBaGwAGUFRbAQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 
 				
-						<script type="text/javascript" async="" src="//d1l6p2sc9645hc.cloudfront.net/tracker.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<link rel="shortcut icon" href="/themes/master/img/favicon.ico">
+						<link rel="shortcut icon" href="/themes/master/img/favicon.ico">
 		
 				
 				<title>Home : Three Days Grace</title>
@@ -32,15 +31,13 @@
 		<script src="/engine/js/swfobject/swfobject-2.2.js" type="text/javascript"></script>
 		<script src="/themes/master/js/master.js" type="text/javascript"></script>
 		
-				<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0. user-scalable=0;">
-
+				<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no">
+<meta name="google-site-verification" content="6-YDxzMfDJTC8AGoBZhk-4bN0aaEn914AT73y894i2M">
 
 <script src="/engine/js/jquery/plugins/fitvid/jquery.fitvids.js" type="text/javascript"></script>
 <script src="/engine/js/jquery/plugins/gc/gc.fullscreen.js" type="text/javascript"></script>
 <script src="/clients/three_days_grace/js/client.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-
-
 
 
 
@@ -264,7 +261,7 @@
 </div>
 				<ul class="nav terms">
 			<li class="copyright">
-				<span class="copyright">© 2013 Three Days Grace.  All rights reserved.</span> 
+				<span class="copyright">© 2014 Three Days Grace.  All rights reserved.</span> 
 			</li>
 			<li class="privacy"><a href="/privacy/">Privacy Policy</a></li>
 			<li class="conditions"><a href="http://groundctrl.com/terms/">Terms &amp; Conditions</a></li>
@@ -274,6 +271,9 @@
 		</ul>
 
 		<ul class="social">
+			<li class="newsletter">
+				<a href="#newsletter" class="fancybox">Newsletter</a>
+			</li>
 			<li class="amazon">
 				<a target="_blank" href="http://itunes.apple.com/us/artist/three-days-grace/id1973668">Three Days Grace on Amazon</a>
 			</li>
@@ -375,6 +375,341 @@
 
 </div>
 
+<div class="newsletter-wrapper">
+	<div id="newsletter">
+		<h2 class="title">Newsletter Signup</h2>
+		<form action="http://mailinglist.gctrl.com/t/y/s/qikhyt/" method="post">
+		    <p>
+		        <label for="fieldName">Name</label>
+		        <input id="fieldName" name="cm-name" type="text">
+		    </p>
+		    <p>
+		        <label for="fieldEmail">Email</label>
+		        <input id="fieldEmail" name="cm-qikhyt-qikhyt" type="email">
+		    </p>
+		    <p>
+		        <label for="fieldxjkdlt">City</label>
+		        <input id="fieldxjkdlt" name="cm-f-xjkdlt" type="text">
+		    </p>
+		    <p>
+		        <label for="fieldxjkdli">State</label>
+		        <select id="fieldxjkdli" name="cm-fo-xjkdli">
+		            <option value="724156">Alabama</option>
+		            <option value="724157">Alaska</option>
+		            <option value="724158">Arizona</option>
+		            <option value="724159">Arkansas</option>
+		            <option value="724160">California</option>
+		            <option value="724161">Colorado</option>
+		            <option value="724162">Connecticut</option>
+		            <option value="724163">Delaware</option>
+		            <option value="724164">District of Columbia</option>
+		            <option value="724165">Florida</option>
+		            <option value="724166">Georgia</option>
+		            <option value="724167">Hawaii</option>
+		            <option value="724168">Idaho</option>
+		            <option value="724169">Illinois</option>
+		            <option value="724170">Indiana</option>
+		            <option value="724171">Iowa</option>
+		            <option value="724172">Kansas</option>
+		            <option value="724173">Kentucky</option>
+		            <option value="724174">Louisiana</option>
+		            <option value="724175">Maine</option>
+		            <option value="724176">Maryland</option>
+		            <option value="724177">Massachusetts</option>
+		            <option value="724178">Michigan</option>
+		            <option value="724179">Minnesota</option>
+		            <option value="724180">Mississippi</option>
+		            <option value="724181">Missouri</option>
+		            <option value="724182">Montana</option>
+		            <option value="724183">Nebraska</option>
+		            <option value="724184">Nevada</option>
+		            <option value="724185">New Hampshire</option>
+		            <option value="724186">New Jersey</option>
+		            <option value="724187">New Mexico</option>
+		            <option value="724188">New York</option>
+		            <option value="724189">North Carolina</option>
+		            <option value="724190">North Dakota</option>
+		            <option value="724191">Ohio</option>
+		            <option value="724192">Oklahoma</option>
+		            <option value="724193">Oregon</option>
+		            <option value="724194">Pennsylvania</option>
+		            <option value="724195">Rhode Island</option>
+		            <option value="724196">South Carolina</option>
+		            <option value="724197">South Dakota</option>
+		            <option value="724198">Tennessee</option>
+		            <option value="724199">Texas</option>
+		            <option value="724200">Utah</option>
+		            <option value="724201">Vermont</option>
+		            <option value="724202">Virginia</option>
+		            <option value="724203">Washington</option>
+		            <option value="724204">West Virginia</option>
+		            <option value="724205">Wisconsin</option>
+		            <option value="724206">Wyoming</option>
+		        </select>
+		    </p>
+		    <p>
+		        <label for="fieldxjkdld">Country</label>
+		        <select id="fieldxjkdld" name="cm-fo-xjkdld">
+			    <option value="724444">United States of America</option>
+		            <option value="724207">Afghanistan</option>
+		            <option value="724208">Albania</option>
+		            <option value="724209">Algeria</option>
+		            <option value="724210">American Samoa</option>
+		            <option value="724211">Andorra</option>
+		            <option value="724212">Angola</option>
+		            <option value="724213">Anguilla</option>
+		            <option value="724214">Antigua &amp; Barbuda</option>
+		            <option value="724215">Argentina</option>
+		            <option value="724216">Armenia</option>
+		            <option value="724217">Aruba</option>
+		            <option value="724218">Australia</option>
+		            <option value="724219">Austria</option>
+		            <option value="724220">Azerbaijan</option>
+		            <option value="724221">Azores</option>
+		            <option value="724222">Bahamas</option>
+		            <option value="724223">Bahrain</option>
+		            <option value="724224">Bangladesh</option>
+		            <option value="724225">Barbados</option>
+		            <option value="724226">Belarus</option>
+		            <option value="724227">Belgium</option>
+		            <option value="724228">Belize</option>
+		            <option value="724229">Benin</option>
+		            <option value="724230">Bermuda</option>
+		            <option value="724231">Bhutan</option>
+		            <option value="724232">Bolivia</option>
+		            <option value="724233">Bonaire</option>
+		            <option value="724234">Bosnia &amp; Herzegovina</option>
+		            <option value="724235">Botswana</option>
+		            <option value="724236">Brazil</option>
+		            <option value="724237">British Indian Ocean Ter</option>
+		            <option value="724238">Brunei</option>
+		            <option value="724239">Bulgaria</option>
+		            <option value="724240">Burkina Faso</option>
+		            <option value="724241">Burundi</option>
+		            <option value="724242">Cambodia</option>
+		            <option value="724243">Cameroon</option>
+		            <option value="724244">Canada</option>
+		            <option value="724245">Canary Islands</option>
+		            <option value="724246">Cape Verde</option>
+		            <option value="724247">Cayman Islands</option>
+		            <option value="724248">Central African Republic</option>
+		            <option value="724249">Chad</option>
+		            <option value="724250">Channel Islands</option>
+		            <option value="724251">Chile</option>
+		            <option value="724252">China</option>
+		            <option value="724253">Christmas Island</option>
+		            <option value="724254">Cocos Island</option>
+		            <option value="724255">Colombia</option>
+		            <option value="724256">Comoros</option>
+		            <option value="724257">Congo</option>
+		            <option value="724258">Congo Democratic Rep</option>
+		            <option value="724259">Cook Islands</option>
+		            <option value="724260">Costa Rica</option>
+		            <option value="724261">Cote D'Ivoire</option>
+		            <option value="724262">Croatia</option>
+		            <option value="724263">Cuba</option>
+		            <option value="724264">Curacao</option>
+		            <option value="724265">Cyprus</option>
+		            <option value="724266">Czech Republic</option>
+		            <option value="724267">Denmark</option>
+		            <option value="724268">Djibouti</option>
+		            <option value="724269">Dominica</option>
+		            <option value="724270">Dominican Republic</option>
+		            <option value="724271">East Timor</option>
+		            <option value="724272">Ecuador</option>
+		            <option value="724273">Egypt</option>
+		            <option value="724274">El Salvador</option>
+		            <option value="724275">Equatorial Guinea</option>
+		            <option value="724276">Eritrea</option>
+		            <option value="724277">Estonia</option>
+		            <option value="724278">Ethiopia</option>
+		            <option value="724279">Falkland Islands</option>
+		            <option value="724280">Faroe Islands</option>
+		            <option value="724281">Fiji</option>
+		            <option value="724282">Finland</option>
+		            <option value="724283">France</option>
+		            <option value="724284">French Guiana</option>
+		            <option value="724285">French Polynesia</option>
+		            <option value="724286">French Southern Ter</option>
+		            <option value="724287">Gabon</option>
+		            <option value="724288">Gambia</option>
+		            <option value="724289">Georgia</option>
+		            <option value="724290">Germany</option>
+		            <option value="724291">Ghana</option>
+		            <option value="724292">Gibraltar</option>
+		            <option value="724293">Great Britain</option>
+		            <option value="724294">Greece</option>
+		            <option value="724295">Greenland</option>
+		            <option value="724296">Grenada</option>
+		            <option value="724297">Guadeloupe</option>
+		            <option value="724298">Guam</option>
+		            <option value="724299">Guatemala</option>
+		            <option value="724300">Guernsey</option>
+		            <option value="724301">Guinea</option>
+		            <option value="724302">Guinea-Bissau</option>
+		            <option value="724303">Guyana</option>
+		            <option value="724304">Haiti</option>
+		            <option value="724305">Honduras</option>
+		            <option value="724306">Hong Kong</option>
+		            <option value="724307">Hungary</option>
+		            <option value="724308">Iceland</option>
+		            <option value="724309">India</option>
+		            <option value="724310">Indonesia</option>
+		            <option value="724311">Iran</option>
+		            <option value="724312">Iraq</option>
+		            <option value="724313">Ireland</option>
+		            <option value="724314">Isle of Man</option>
+		            <option value="724315">Israel</option>
+		            <option value="724316">Italy</option>
+		            <option value="724317">Jamaica</option>
+		            <option value="724318">Japan</option>
+		            <option value="724319">Jersey</option>
+		            <option value="724320">Jordan</option>
+		            <option value="724321">Kazakhstan</option>
+		            <option value="724322">Kenya</option>
+		            <option value="724323">Kiribati</option>
+		            <option value="724324">Korea North</option>
+		            <option value="724325">Korea South</option>
+		            <option value="724326">Kuwait</option>
+		            <option value="724327">Kyrgyzstan</option>
+		            <option value="724328">Laos</option>
+		            <option value="724329">Latvia</option>
+		            <option value="724330">Lebanon</option>
+		            <option value="724331">Lesotho</option>
+		            <option value="724332">Liberia</option>
+		            <option value="724333">Libya</option>
+		            <option value="724334">Liechtenstein</option>
+		            <option value="724335">Lithuania</option>
+		            <option value="724336">Luxembourg</option>
+		            <option value="724337">Macau</option>
+		            <option value="724338">Macedonia</option>
+		            <option value="724339">Madagascar</option>
+		            <option value="724340">Malawi</option>
+		            <option value="724341">Malaysia</option>
+		            <option value="724342">Maldives</option>
+		            <option value="724343">Mali</option>
+		            <option value="724344">Malta</option>
+		            <option value="724345">Marshall Islands</option>
+		            <option value="724346">Martinique</option>
+		            <option value="724347">Mauritania</option>
+		            <option value="724348">Mauritius</option>
+		            <option value="724349">Mayotte</option>
+		            <option value="724350">Mexico</option>
+		            <option value="724351">Midway Islands</option>
+		            <option value="724352">Moldova</option>
+		            <option value="724353">Monaco</option>
+		            <option value="724354">Mongolia</option>
+		            <option value="724355">Montenegro</option>
+		            <option value="724356">Montserrat</option>
+		            <option value="724357">Morocco</option>
+		            <option value="724358">Mozambique</option>
+		            <option value="724359">Myanmar</option>
+		            <option value="724360">Namibia</option>
+		            <option value="724361">Nauru</option>
+		            <option value="724362">Nepal</option>
+		            <option value="724363">Netherland Antilles</option>
+		            <option value="724364">Netherlands</option>
+		            <option value="724365">Nevis</option>
+		            <option value="724366">New Caledonia</option>
+		            <option value="724367">New Zealand</option>
+		            <option value="724368">Nicaragua</option>
+		            <option value="724369">Niger</option>
+		            <option value="724370">Nigeria</option>
+		            <option value="724371">Niue</option>
+		            <option value="724372">Norfolk Island</option>
+		            <option value="724373">Norway</option>
+		            <option value="724374">Oman</option>
+		            <option value="724375">Pakistan</option>
+		            <option value="724376">Palau Island</option>
+		            <option value="724377">Palestine</option>
+		            <option value="724378">Panama</option>
+		            <option value="724379">Papua New Guinea</option>
+		            <option value="724380">Paraguay</option>
+		            <option value="724381">Peru</option>
+		            <option value="724382">Philippines</option>
+		            <option value="724383">Pitcairn Island</option>
+		            <option value="724384">Poland</option>
+		            <option value="724385">Portugal</option>
+		            <option value="724386">Puerto Rico</option>
+		            <option value="724387">Qatar</option>
+		            <option value="724388">Reunion</option>
+		            <option value="724389">Romania</option>
+		            <option value="724390">Russia</option>
+		            <option value="724391">Rwanda</option>
+		            <option value="724392">Saipan</option>
+		            <option value="724393">Samoa</option>
+		            <option value="724394">Samoa American</option>
+		            <option value="724395">San Marino</option>
+		            <option value="724396">Sao Tome &amp; Principe</option>
+		            <option value="724397">Saudi Arabia</option>
+		            <option value="724398">Senegal</option>
+		            <option value="724399">Serbia</option>
+		            <option value="724400">Serbia &amp; Montenegro</option>
+		            <option value="724401">Seychelles</option>
+		            <option value="724402">Sierra Leone</option>
+		            <option value="724403">Singapore</option>
+		            <option value="724404">Slovakia</option>
+		            <option value="724405">Slovenia</option>
+		            <option value="724406">Solomon Islands</option>
+		            <option value="724407">Somalia</option>
+		            <option value="724408">South Africa</option>
+		            <option value="724409">South Sudan</option>
+		            <option value="724410">Spain</option>
+		            <option value="724411">Sri Lanka</option>
+		            <option value="724412">St Barthelemy</option>
+		            <option value="724413">St Eustatius</option>
+		            <option value="724414">St Helena</option>
+		            <option value="724415">St Kitts-Nevis</option>
+		            <option value="724416">St Lucia</option>
+		            <option value="724417">St Maarten</option>
+		            <option value="724418">St Pierre &amp; Miquelon</option>
+		            <option value="724419">St Vincent &amp; Grenadines</option>
+		            <option value="724420">Sudan</option>
+		            <option value="724421">Suriname</option>
+		            <option value="724422">Swaziland</option>
+		            <option value="724423">Sweden</option>
+		            <option value="724424">Switzerland</option>
+		            <option value="724425">Syria</option>
+		            <option value="724426">Tahiti</option>
+		            <option value="724427">Taiwan</option>
+		            <option value="724428">Tajikistan</option>
+		            <option value="724429">Tanzania</option>
+		            <option value="724430">Thailand</option>
+		            <option value="724431">Togo</option>
+		            <option value="724432">Tokelau</option>
+		            <option value="724433">Tonga</option>
+		            <option value="724434">Trinidad &amp; Tobago</option>
+		            <option value="724435">Tunisia</option>
+		            <option value="724436">Turkey</option>
+		            <option value="724437">Turkmenistan</option>
+		            <option value="724438">Turks &amp; Caicos Is</option>
+		            <option value="724439">Tuvalu</option>
+		            <option value="724440">Uganda</option>
+		            <option value="724441">Ukraine</option>
+		            <option value="724442">United Arab Emirates</option>
+		            <option value="724443">United Kingdom</option>
+		            <option value="724445">Uruguay</option>
+		            <option value="724446">Uzbekistan</option>
+		            <option value="724447">Vanuatu</option>
+		            <option value="724448">Vatican City State</option>
+		            <option value="724449">Venezuela</option>
+		            <option value="724450">Vietnam</option>
+		            <option value="724451">Virgin Islands (Brit)</option>
+		            <option value="724452">Virgin Islands (USA)</option>
+		            <option value="724453">Wake Island</option>
+		            <option value="724454">Wallis &amp; Futana Is</option>
+		            <option value="724455">Yemen</option>
+		            <option value="724456">Zambia</option>
+		            <option value="724457">Zimbabwe</option>
+		        </select>
+		    </p>
+		    <p class="last">
+		        <button type="submit" class="button">Subscribe</button>
+		    </p>
+		</form>
+	</div>
+</div>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -408,10 +743,9 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 </script>
 
 <div id="fb-root"></div>
-<script src="//connect.facebook.net/en_US/all.js#appId=&amp;xfbml=1"></script>
+<script src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=148881529100"></script>
 <script src="//platform.twitter.com/widgets.js"></script>
 <script src="//apis.google.com/js/plusone.js"></script>
 
-	<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","765edf4a24","2117435","ZV1QN0BXD0pZW0RaX1wXZxFbGQhXXF1IHUBaSA==",0,35,new Date().getTime(),"","","","",""]);</script>
-
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.dow … om/102508/js/chartbeat.js"></script></body></html>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"765edf4a24","applicationID":"3645964","transactionName":"ZV1QN0BXD0pZW0RaX1wXcRZBQg5UF2hCWkZTW0s=","queueTime":0,"applicationTime":32,"ttGuid":"","agentToken":"","atts":"SRpTQQhNHEQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.dow … om/102508/js/chartbeat.js"></script></body></html>
