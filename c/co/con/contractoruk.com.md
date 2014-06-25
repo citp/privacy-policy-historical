@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contractoruk.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817145000id_/http%3A//www.contractoruk.com/about/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contractoruk.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625194914id_/http%3A//www.contractoruk.com/about/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement :: Contractor UK
 
@@ -34,4 +34,7 @@ If the cookie originates from our domain it is known as a first party cookie whe
   * [Managing cookies using Chrome](https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies)
   * [Managing cookies using Internet Explorer 9](http://windows.microsoft.com/en-GB/windows7/How-to-manage-cookies-in-Internet-Explorer-9)
 
+
+
+  
 
