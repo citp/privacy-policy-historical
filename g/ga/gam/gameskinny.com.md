@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameskinny.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130055643id_/http%3A//www.gameskinny.com/375/privacy-policy-375) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameskinny.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625153416id_/http%3A//www.gameskinny.com/375/privacy-policy-375) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,6 +20,8 @@ The information collected is for statistical purposes. Guild Launch, LLC may use
 For site security purposes and to ensure that this service remains available to all users, Guild Launch, LLC uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
 Guild Launch, LLC will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp.
 
 
 
