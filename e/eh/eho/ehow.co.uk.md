@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehow.co.uk privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204223517id_/http%3A//www.ehow.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044445id_/http%3A//www.ehow.co.uk/privacy.html) for the most accurate reproduction.*
 
 # eHow | How to Videos, Articles, & More - Discover the expert in you. | eHow UK
 
@@ -107,4 +107,4 @@ We utilize the self-assessment approach to assure our compliance with our privac
 
 Demand Media and eHow are registered trademarks of Demand Media, Inc. in the United States and other countries.
 
-Copyright © 2013. Demand Media, Inc.
+Copyright © 2014. Demand Media, Inc.
