@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the cedexis.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424151704id_/http%3A//www.cedexis.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedexis.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221428id_/http%3A//www.cedexis.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Privacy statement | Cedexis | Real-time Data for Real-time Decisions
-
-## Cedexis Privacy Policy
-
-Last updated: November 2, 2011
+# Cedexis - Real time data for real time decisions
 
 This policy is intended to inform users of our policies and procedures regarding the collection, use, and disclosure of personally identifying information received through our Website, Portal, and other online services. This policy may be updated from time to time for any reason, at our sole discretion. We will notify you of any significant changes to this policy and changes to the way we use your information by posting the new policy on our Website. You are advised to consult this policy regularly for any changes. By using or accessing the Website, you are accepting the practices described in this policy, and you are consenting to our processing of your information as set forth in this policy now and as amended by us. This policy was inspired by the guidelines from eTrust and the privacy policies of Google, WebTrends, and New Relic. Thank you.
 
@@ -15,13 +11,12 @@ ATTN: Privacy Policy
 317 SW Alder Street, Suite 650  
 Portland, OR 97204 USA 
 
-In case of a dispute, eTrust is available to you as a third party. In this case you should contact eTrust at
+In case of a dispute, eTrust is available to you as a third party. In this case you should contact eTrust at <http://www.etrust.org/about/privacy_contact.php> or mail at:
 
-<http://www.etrust.org/about/privacy_contact.php>
-
-or mail at:
-
-eTrust Privacy Officer 616 Corporate Way Suite 2 #4000 Valley Cottage NY 10989
+**eTrust Privacy Officer**  
+616 Corporate Way  
+Suite 2 #4000  
+Valley Cottage NY 10989
 
 ### Website Visitors
 
