@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextup.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115095525id_/http%3A//www.nextup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextup.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064127id_/http%3A//www.nextup.com/privacy.html) for the most accurate reproduction.*
 
 # NextUp.com - Privacy
 
