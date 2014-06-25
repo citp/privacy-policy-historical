@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icoolbuzz.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103023900id_/http%3A//icoolbuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icoolbuzz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044728id_/http%3A//icoolbuzz.com/privacy) for the most accurate reproduction.*
 
-# Privacy - C00l News
+# Privacy | C00l Things
 
 The iCool Buzz, a wholly-owned subsidiary of Tuuba Inc., which owns and operates the website www.iCoolBuzz.com (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our privacy team at [privacy@icoolbuzz.com](mailto:privacy@icoolbuzz.com).
 
@@ -87,7 +87,7 @@ In order to learn more about how our Site is used, we aggregate and analyze the 
 
 **Enforcement:**
 
-We may use the information that we collect to prevent illegal activities, to enforce the Site’s [Terms and Conditions](http://icoolbuzz.com/user-agreement), and to otherwise protect our rights and the rights of our users.
+We may use the information that we collect to prevent illegal activities, to enforce the Site’s [Terms and Conditions](http://icoolbuzz.com/terms), and to otherwise protect our rights and the rights of our users.
 
 In addition to the uses identified above, we may use the information that we collect for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
@@ -101,7 +101,7 @@ The iCool Buzz values your privacy, and shares information about our users only 
   * We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.
   * If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal ** ** information in public activities or submissions.
   * We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place. However, the Site will notify you by placing a prominent notice on our site or sending a notice to the primary email address specified in your account before your information is transferred and becomes subject to a different privacy policy.
-  * We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site’s [Terms and Conditions](http://www.huffingtonpost.com/terms.html), or as otherwise required by law.
+  * We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site’s [Terms and Conditions](http://icoolbuzz.com/terms), or as otherwise required by law.
   * We may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims.
   * In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
@@ -127,7 +127,7 @@ When you allow us to access your data through a third-party service to create a 
 
 In addition, if you connect to a Facebook account, your experience on the Site may be personalized. For example, you may automatically see what stories are popular in your network, and what your friends are saying about particular stories.
 
-Please note that you may disconnect third party accounts at any time. [Click here](http://www.huffingtonpost.com/users/social-preferences/) for a link to your social profile, where you may set your privacy preferences or disconnect all of your third-party service accounts. You also may be able to modify your privacy settings directly with the third-party service. To modify your Facebook privacy settings, click [here](http://www.facebook.com/settings/?tab=privacy). To modify your Twitter privacy settings, click [here](https://twitter.com/account/settings).
+Please note that you may disconnect third party accounts at any time. Click here for a link to your social profile, where you may set your privacy preferences or disconnect all of your third-party service accounts. You also may be able to modify your privacy settings directly with the third-party service. To modify your Facebook privacy settings, click [here](http://www.facebook.com/settings/?tab=privacy). To modify your Twitter privacy settings, click [here](https://twitter.com/account/settings).
 
 Please remember that we do not control the privacy practices of these third-party services. We encourage you to read the privacy policies of all third-party service providers.
 
@@ -137,7 +137,7 @@ Please remember that we do not control the privacy practices of these third-part
 
 **Deactivating your account**
 
-You can deactivate your account at any time by visiting the preferences page for your profile. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our [Terms and Conditions](http://www.huffingtonpost.com/terms.html).
+You can deactivate your account at any time by visiting the preferences page for your profile. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our [Terms and Conditions](http://icoolbuzz.com/terms).
 
 **Cookies and other technologies**
 
