@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanbulls.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028012128id_/http%3A//americanbulls.com/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbulls.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065524id_/http%3A//americanbulls.com/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ We do not sell, trade, or rent users personal identification information to othe
 
 Third party websites
 
-Users may find advertising or other content on our website that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our website. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our website, is subject to that website's own terms and policies.
+Users may find advertising or other content on our website that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our website. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our website, is subject to that website’s own terms and policies.
 
 Advertising
 
@@ -55,9 +55,9 @@ Ads appearing on our site may be delivered to users by advertising partners, who
 
 Google Adsense
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to users based on their visit to our website and other sites on the Internet. DART uses "no personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/policies/technologies/ads/>.
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to users based on their visit to our website and other sites on the Internet. DART uses "no personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/policies/technologies/ads/>.
 
-Compliance with children's online privacy protection act
+Compliance with children’s online privacy protection act
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
