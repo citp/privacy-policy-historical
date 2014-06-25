@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peakgames.net privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026041246id_/http%3A//peakgames.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakgames.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625154754id_/http%3A//www.peakgames.net/privacy.html) for the most accurate reproduction.*
 
 # Peak Games | Living Through Games
 
@@ -82,6 +82,4 @@ By using this Application, you agree to this Privacy Policy. We reserve the righ
 
 If You have a privacy question about this Website, please email:
 
-[support@peakgames.net](mailto:support@peakgames.net)   
-Katip Salih Sokak No: 8 Kosuyolu 34718 Kadikoy / Istanbul   
-+90-216-340-5133 
+[support@peakgames.net](mailto:support@peakgames.net)
