@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boilsoft.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109115240id_/http%3A//www.boilsoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boilsoft.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124053id_/http%3A//www.boilsoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Boilsoft Privacy Policy
 
@@ -29,3 +29,6 @@ Boilsoft software uses secure server hosted by SWREG and other 3rd party credit 
 
 We use "cookies" to better understand what services are valuable to our customers. A cookie is a small text file that a website writes to your hard drive. Cookies work as your identification card and may record passwords, preferences and purchases. Cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our web site and the pages of the site most frequently visited. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses.   
  You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages.
+
+**Opt-in:** By purchasing our products or services, you agree to receive boilsoft newsletter regarding your purchasing products or services.   
+**Opt-out:** Users always have the rights to opt out of our newsletters. This option is made available when you click the Unsubscribe here link at the bottom of any newsletter. Or you send us an email telling that you want to unsubscribe to our newsletter 
