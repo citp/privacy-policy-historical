@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nationalcareerfairs.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126010424id_/http%3A//www.nationalcareerfairs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcareerfairs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073726id_/http%3A//www.nationalcareerfairs.com/privacy_policy) for the most accurate reproduction.*
 
 # National Career Fairs Privacy Policy
 
 This is the web site of **National Career Fairs**.
 
 Our postal address is   
-**1776 W. Horizon Ridge Parkway Suite 100  
-Henderson, NV 89012**
+**PO Box 530574  
+Henderson, NV 89053**
 
 We can be reached via e-mail at [contact@ncfairs.com](mailto:contact@ncfairs.com)  
 or you can reach us by telephone at (702) 614-9537 
