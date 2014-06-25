@@ -1,81 +1,113 @@
-> *The following text is extracted and transformed from the bangladeshresult.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629062406id_/http%3A//bangladeshresult.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangladeshresult.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122852id_/http%3A//bangladeshresult24.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Bangladesh Result.com
+# Privacy Policy - Bangladesh Result 24
 
-This Privacy Policy governs the manner in which Bangladesh Result collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://bangladeshresult.com](http://bangladeshresult.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Bangladesh Result.
+The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes: Analytics and Interaction with external social networks and platforms. By any mean, we don’t use your data for any other purposes.
 
-## **Personal identification information**
+ _ **We don’t sell your data, or modify it or use it by any other means.**_
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information, social security number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+**What information do we collect?**
 
-**Non-personal identification information**
+We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-### **Web browser cookies**
+Google, as a third party vendor, uses cookies to serve ads on your site.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
 
-**How we use collected information**
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-Bangladesh Result may collect and use Users personal information for the following purposes:
+**What do we use your information for?**
 
-  * _\- To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_ We may use feedback you provide to improve our products and services.
-  * _\- To process payments_ We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To share your information with third parties_ We may share or sell information with third parties for marketing or other purposes.
-  * _\- To run a promotion, contest, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_ We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+Any of the information we collect from you may be used in one of the following ways:
 
+**To personalize your experience**
 
+(your information helps us to better respond to your individual needs)
 
-**How we protect your information**
+**To improve our website**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-Our Site is in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+**To improve customer service**
 
-**Sharing your personal information**
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+**To process transactions**
 
-**Third party websites**
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+To administer a contest, promotion, survey or other site feature
 
-**Advertising**
+**To send periodic emails**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-### **Google Adsense**
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://www.google.com/policies/technologies/ads/)
+**How do we protect your information?**
 
-**Changes to this privacy policy**
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
-Bangladesh Result has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-**Your acceptance of these terms**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://bangladeshresult.com/terms-and-conditions). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+**Do we use cookies?**
 
-**Contacting us**
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-[**Bangladesh Result**](http://bangladeshresult.com/)  
-[http://bangladeshresult.com](http://bangladeshresult.com/)
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
 
-Bangladesh Result  
-CEO Md. Toufiq Hassan Shawon  
-539/1 West Nakhal Para  
-Tejgaon  
-Dhaka 1215  
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), our policy is located at .
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://bangladeshresult24.com/terms-and-conditions/
+
+**Your Consent**
+
+By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+**This policy was last modified on 30-DEC-2013**
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+[http://bangladeshresult24.com](http://bangladeshresult24.com/ "bangladeshresult24.com")
+
+539/1 West Nakhal Para, Tejgaon
+
+Dhaka, Dhaka 1215
+
 Bangladesh
 
+sawontheboss7@gmail.com
+
 8801912613374
-
-sawontheboss4@gmail.com
-
-This document was last updated on 6 April, 2013
