@@ -1,8 +1,17 @@
-<!--The following is the downloaded HTML source of the fotofuze.com privacy policy that was archived on 2013-09-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130901172623id_/http%3A//fotofuze.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fotofuze.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625053457id_/http%3A//fotofuze.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"><html><head>
-<script type="text/javascript" async="" src="https://widget.uservoice.com/WDLUQKXrzQcZ28bBm6NKNQ.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime();var ignoreChartbeat = 0;</script>
+<script type="text/javascript" async="" src="https://widget.uservoice.com/WDLUQKXrzQcZ28bBm6NKNQ.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-12175656-1']);
+	  _gaq.push(['_trackPageview']);
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
 <title>Privacy Policy | FotoFuze</title>
 <meta name="title" content="Privacy Policy | FotoFuze">
 <meta name="description" content="FotoFuze's privacy policy.  Make professional product photography out of ordinary photographs from ordinary cameras. For Free.">
@@ -10,13 +19,15 @@
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
 <link rel="shortcut icon" href="/icons/favicons/favicon.ico">
 <link rel="alternate" type="application/rss+xml" title="FotoFuze: News and Featured Fuzes" href="http://feeds.feedburner.com/fotofuze">
-<link rel="stylesheet" href="/min/?f=css/tipsy.css,css/std.css,uploadify/uploadify.css,css/fileuploader.css,css/custom-theme/jquery-ui-1.7.2.custom.css,css/rangeinput.css">
-<script type="text/javascript" src="/min/?f=js/jquery-1.4.2.min.js,js/jquery-ui-1.8.2.effects.min.js,js/jquery.editinplace.js,js/jquery.form.2.36.js,js/jquery.copy.js,facebox/facebox.js,js/std.js,js/jquery.dropdown.js,js/jquery.ba-bbq.min.js,js/jquery.tipsy.js&amp;version=2"></script>
+<link rel="stylesheet" href="/min/?f=css/tipsy.css,css/std.css,uploadify/uploadify.css,css/fileuploader.css,css/custom-theme/jquery-ui-1.7.2.custom.css,css/rangeinput.css&amp;v=17">
+<script type="text/javascript" src="/min/?f=js/jquery-1.4.2.min.js,js/jquery-ui-1.8.2.effects.min.js,js/jquery.editinplace.js,js/jquery.form.2.36.js,js/jquery.copy.js,facebox/facebox_c.js,js/std.js,js/jquery.dropdown.js,js/jquery.ba-bbq.min.js,js/jquery.tipsy.js&amp;version=5"></script>
 <script>var uploadifyLoad, rangeinputLoad;</script>
-<script type="text/javascript" src="/min/?f=uploadify/swfobject.js,uploadify/jquery.uploadify.v2.1.4.min.js,js/jquery.tools.min.js,js/printstacktrace.js,js/jquery-ui-1.7.2.custom.min.js,js/jquery.hoverbox.min.js,js/ui.selectmenu.js,js/jquery.reverseorder.packed.js,js/fileuploader.js,js/jquery.jqplugin.1.0.2.min.js,js/common.js&amp;v=1" onload="uploadifyLoad=1;rangeinputLoad=1;" onerror="uploadifyLoad=-1;rangeinputLoad=-1;"></script>
+<script type="text/javascript" src="/min/?f=uploadify/swfobject.js,uploadify/jquery.uploadify.v2.1.4.min.js,js/jquery.tools.min.js,js/printstacktrace.js,js/jquery-ui-1.7.2.custom.min.js,js/jquery.hoverbox.min.js,js/ui.selectmenu.js,js/jquery.reverseorder.packed.js,js/fileuploader.js,js/jquery.jqplugin.1.0.2.min.js,js/common.js,js/glp2.js&amp;v=32" onload="uploadifyLoad=1;rangeinputLoad=1;" onerror="uploadifyLoad=-1;rangeinputLoad=-1;"></script>
 <script>
 
 // init
+var domain = 'fotofuze.com';
+var user_n = '';
 var user_a = '';
 var user_id = '';
 var user_p = '';
@@ -24,6 +35,9 @@ var user_archived = '0';	// lastArchived gets modified
 var user_etsy_id = '';
 var user_email = '';
 
+/*if("" == 0 && "0" == 1) {
+	window.location.href = "/cgi-bin/logout.pl";
+}*/
 
 // local store of user's preferences
 
@@ -46,6 +60,11 @@ pageSetup1();
 var lastArchive = '0';
 checkForRestoreAccount();
 
+// check for utm_campaign
+if('' != '') {
+	createCookie('user_from_ad', '', 30);
+}
+
 </script>
 <!--[if lte IE 7]>
 	<link rel="stylesheet" href="/static/css/ie.css" type="text/css" media="screen" title="IE Stylesheet" charset="utf-8" />
@@ -62,6 +81,10 @@ checkForRestoreAccount();
 $(function(){$(document).pngFix()});
 </script>
 <![endif]-->
+<script>
+var isMobile = (/iphone|ipod|ipad|android|iemobile|windows phone|webos|blackberry|fennec|opera mini|mobile/).test(navigator.userAgent.toLowerCase());
+var isIOSMobile = (/iphone|ipod|ipad|mobile/).test(navigator.userAgent.toLowerCase());
+</script>
 <!--[if lt IE 8]>
 <style>
 .triangle-left-right {
@@ -69,48 +92,38 @@ $(function(){$(document).pngFix()});
 }
 </style>
 <![endif]-->
-<!--[if lt IE 9]>
-<style>
-.bubbles {
-	display:none;
-}
-</style>
-<![endif]-->
 </head>
-<body>
+<body>    <div id="facebox" style="display:none;">       <div class="popup">         <table>           <tbody>             <tr>               <td class="tl"></td><td class="b"></td><td class="tr"></td>             </tr>             <tr>               <td class="b"></td>               <td class="body">                 <div class="header">     <span style="float:left"><h1 style="font-size:24px;color:#c71784;" class="facebox-title"></h1></span>                   <a href="#" class="close">                     <img src="/facebox/closelabel.gif" title="close" class="close_image" style="text-align:right">                   </a>                 </div>                 <div class="content">                 </div>               </td>               <td class="b"></td>             </tr>             <tr>               <td class="bl"></td><td class="b"></td><td class="br"></td>             </tr>           </tbody>         </table>       </div>     </div>
 <div id="page-wrap">
-<div class="bubbles" style="width:100%;height:100%;overflow:hidden;position:absolute;min-height:600px;">
-<div class="bubl bubble1" style="width:250px;height:250px;border-radius:125px;left: 200px;top:100px;opacity:.3; z-index:0;-o-transition:left 4.0s;-moz-transition:left 4.0s;-webkit-transition:left 4.0s;"></div>
-<div class="bubl bubble2" style="width:100px;height:100px;border-radius: 50px;left: 250px;top:400px;opacity:.5; z-index:0;-o-transition:left 3.0s;-moz-transition:left 3.0s;-webkit-transition:left 3.0s;"></div>
-<div class="bubl bubble3" style="width:200px;height:200px;border-radius:125px;left:1100px;top:200px;opacity:.2; z-index:0;-o-transition:left 3.5s;-moz-transition:left 3.5s;-webkit-transition:left 3.5s;"></div>
-<div class="bubl bubble4" style="width:120px;height:120px;border-radius: 60px;left: 850px;top:300px;opacity:.4; z-index:0;-o-transition:left 4.5s;-moz-transition:left 4.5s;-webkit-transition:left 4.5s;"></div>
-<div class="bubl bubble5" style="width:400px;height:400px;border-radius:200px;left:1100px;top:250px;opacity:.25;z-index:0;-o-transition:left 2.5s;-moz-transition:left 2.5s;-webkit-transition:left 2.5s;"></div>
-<div class="bubl bubble6" style="width: 60px;height: 60px;border-radius: 30px;left:1250px;top:170px;opacity:.6; z-index:0;-o-transition:left 4.5s;-moz-transition:left 4.5s;-webkit-transition:left 4.5s;"></div>
-<div class="bubl bubble7" style="width: 20px;height: 20px;border-radius: 10px;left:  50px;top:220px;opacity:.4; z-index:0;-o-transition:left 2.5s;-moz-transition:left 2.5s;-webkit-transition:left 2.5s;"></div>
-<div class="bubl bubble8" style="width:200px;height:200px;border-radius:100px;left:1500px;top:250px;opacity:.5; z-index:0;-o-transition:left 4.5s;-moz-transition:left 4.5s;-webkit-transition:left 4.5s;"></div>
-<div class="bubl bubble9" style="width:340px;height:340px;border-radius:170px;left:1700px;top:200px;opacity:.3; z-index:0;-o-transition:left 4.5s;-moz-transition:left 4.5s;-webkit-transition:left 4.5s;"></div>
-</div>
 <div class="proBar">
 <center><div><table><tbody><tr><td><span onclick="alert(&quot;You have a FotoFuze Pro account.  Thank you for supporting us!&quot;);">FotoFuze Professional</span></td></tr></tbody></table></div></center>
 </div>
 <style>.proBar{display:none;}</style>
 <div id="frame">
-<div class="ff-userbar-container"><div id="ff-userbar">
-<a href="/static/html/signup.html" rel="facebox">Sign Up</a> | <a href="/">Home</a> | <span class="triangle-left-right"><a href="javascript:browserBack()"><div class="triangle-left"></div></a> | <a href="javascript:browserForward()"><div class="triangle-right"></div></a> | </span><span id="signin"><a href="/static/html/login.html?1" class="doIt" rel="facebox">Login</a></span>
-</div></div>
-<div id="header">
-<h1 id="logo"><a href="/">FotoFuze</a></h1>
+<div class="ff-userbar-container">
+<center style="height:0;"><a href="/"><div class="FFLogoSm"><img src="/static/images/ff_logo_sm1.gif"></div></a></center>
+<div id="ff-userbar">
  
+<a href="/static/html/signup.html" rel="facebox" class="faceboxed">Sign Up</a> | <a href="/">Home</a> | <span><a href="/static/html/contact.html?v=1" rel="facebox" class="faceboxed">Help</a> | </span><span id="signin"><a href="/static/html/login.html?1" class="doIt faceboxed" rel="facebox">Login</a></span>
 </div>
-<div style="color:red;clear:both;padding:15px;border:3px solid black;margin:10px;background-color:pink;display:none;" class="ieUserMessage">
+</div>
+<script>
+setupSettingsPopup();
+</script>
+<div style="color:red;clear:both;padding:15px;border:3px solid black;margin:50px 10px 10px 10px;background-color:pink;display:none;" class="ieUserMessage">
 <div style="float:right;position:relative;"><span style="position:absolute;top:-14px;left:-10px;font-size:11px;"><a href="#" style="color:red;" onclick="$(&quot;.ieUserMessage&quot;).hide();createCookie(&quot;hideIEMessage&quot;,1,90);">hide</a></span></div>
-<center><b>If this page doesn't work for you, it may be because of your web browser. Click <a href="/static/html/why_not_ie.html" rel="facebox">here</a> for more details.</b></center>
+<center><b>If this page doesn't work for you, it may be because of your web browser. Click <a href="/static/html/why_not_ie.html" rel="facebox" class="faceboxed">here</a> for more details.</b></center>
+</div>
+<div style="color:red;clear:both;padding:15px;border:3px solid black;margin:50px 10px 10px 10px;background-color:pink;display:none;" class="ff3UserMessage">
+<center><b>If this page doesn't work for you, it may be because of your web browser. Click <a href="/static/html/why_not_ff3.html" rel="facebox" class="faceboxed">here</a> for more details.</b></center>
 </div>
 <script>
 	var showIEUserMessage = 0;
 	$(function(){
-		if(showIEUserMessage == 1 && readCookie('hideIEMessage') != 1 && (BrowserDetect.browser == "Explorer" && BrowserDetect.version <= 10)){
+		if(showIEUserMessage == 1 && readCookie('hideIEMessage') != 1 && (BrowserDetect.browser == "Explorer" && BrowserDetect.version < 10)){
 			$('.ieUserMessage').show();
+		} else if(BrowserDetect.browser == "Firefox" && BrowserDetect.version < 4) {
+			$('.ff3UserMessage').show();
 		}
 	});
 </script>
@@ -147,13 +160,17 @@ $(function(){$(document).pngFix()});
 <li><a href="/page/terms" title="Terms of Service" class="state-aware">TOS</a></li>
 <li><a href="/page/privacy" title="Privacy" class="state-aware">Privacy</a></li>
 <li><a href="/page/faq" title="Frequently Asked Questions" class="state-aware">FAQ</a></li>
-<li><a href="/static/html/login.html" class="state-aware" rel="facebox">Login</a></li>
-<li><a href="/contact" title="Help" rel="facebox">Help</a></li>
-<li><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=fotofuze"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=fotofuze"></script></li>
+<li><a href="/static/html/login.html" class="state-aware faceboxed" rel="facebox">Login</a></li>
+<li><a href="/contact" title="Help" rel="facebox" class="faceboxed">Help</a></li>
+<li> </li>
 </ul>
-<center style="height:0px;"><p style="font-size:75%;color:#888;text-align:center;">© 2009-2011 Oriku, Inc. | The term 'Etsy' is a trademark of Etsy, Inc. This application uses the Etsy API but is not endorsed or certified by Etsy, Inc.</p></center>
+<center style="height:0px;"><p style="font-size:75%;color:#888;text-align:center;">© 2009-<span class="copyrightDate">2020</span> Oriku, Inc. | The term 'Etsy' is a trademark of Etsy, Inc. This application uses the Etsy API but is not endorsed or certified by Etsy, Inc.</p></center>
 </div>
 </div>
+<script>
+var CD_d = new Date();
+$(".copyrightDate").text(CD_d.getFullYear());
+</script>
 <script>
 $('a[rel*=facebox]:not(.faceboxed)').facebox().addClass('faceboxed');
 $("span[title]").tipsy();
@@ -175,36 +192,6 @@ $(".useTipsy").tipsy();
 <div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-d1883H9V59sh6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>
 </noscript>
 <script type="text/javascript">
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-12175656-1']);
-	  _gaq.push(['_trackPageview']);
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-	</script>
-<script type="text/javascript">
-if(!ignoreChartbeat){
-var _sf_async_config={uid:25783,domain:"fotofuze.com"};
-(function(){
-  function loadChartbeat() {
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    e.setAttribute('src',
-       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
-       "js/chartbeat.js");
-    document.body.appendChild(e);
-  }
-  var oldonload = window.onload;
-  window.onload = (typeof window.onload != 'function') ?
-     loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
-}
-</script>
-<script type="text/javascript">
   var uvOptions = {};
   (function() {
     var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
@@ -218,4 +205,4 @@ var _sf_async_config={uid:25783,domain:"fotofuze.com"};
 </div>
 
 
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<div id="stdMsg" class="stdMsg"><div class="round"></div><p></p><div class="round"></div></div></body></html>
