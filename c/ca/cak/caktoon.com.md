@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caktoon.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618162557id_/http%3A//caktoon.com/page/9/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caktoon.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130534id_/http%3A//caktoon.com/page/9/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Caktoon
+# Privacy Policy - Home - Caktoon.com
 
 Dont forget bookmarks this page CTRL + D !! [Play free toon games only at Caktoon.com](http://caktoon.com/)
 
@@ -32,6 +32,3 @@ If you have any questions regarding the privacy policy of, please contact us at 
 
 Thanks   
 Cakgames Crew .
-
-  
-
