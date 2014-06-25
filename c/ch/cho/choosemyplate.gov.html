@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the choosemyplate.gov privacy policy that was archived on 2013-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126022629id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the choosemyplate.gov privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625035914id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 
@@ -37,7 +37,7 @@
 
 
 
-<script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ga/inpage_linkid.js" id="undefined"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20141223130332/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ga/inpage_linkid.js" id="undefined"></script><script type="text/javascript" async="" src="//us1.siteimprove.com/js/siteanalyze_63343.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20141223130332/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 	
 	
 	var djConfig = {parseOnLoad: false, locale: 'en'.replace(/_/, '-').replace(/iw/, 'he').toLowerCase(), baseUrl: "/USDAGOV30-theme/themes/./dojo/portal_dojo/dojo/"}; //fix locale compatibility issues in Dojo
@@ -48,7 +48,7 @@
 
              
 
-<script type="text/javascript" src="/wps/CacheProxyServlet/colorPalette/default/browserVendor/Search/browserName/Search/browserVersion/unknown/locale/en/forwardurl/USDAGOV30-theme/themes/html/USDAGOV30-theme/js.jsp"></script>
+<script type="text/javascript" src="/wps/CacheProxyServlet/colorPalette/default/browserVendor/Netscape/browserName/Navigator/browserVersion/unknown/locale/en/forwardurl/USDAGOV30-theme/themes/html/USDAGOV30-theme/js.jsp"></script>
 
 
 
@@ -76,7 +76,7 @@
 <title> Privacy Policy | USDA </title>
 <meta name="description" content="Thank you for visiting the U.S. Department of Agriculture website and reviewing our privacy statement. Our privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information.">
 <meta name="creater" content="USDA">
-<meta name="date created" content="2013-11-02">
+<meta name="date created" content="2014-06-25">
 <meta name="date reviewed" content="2013-02-20">
 <meta name="keywords" content="Privacy Policy, Privacy, Policy, Information">
 <meta name="language" content="EN">
@@ -153,7 +153,7 @@ var lastmoddate = "Last Date Modified: 02/20/2013" ;
  
  
 <script type="text/javascript">var menuNoActionsText_Z7_P8MVVLT318PM80IUGT389F1041="No actions currently available.";
-var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F1041='/wps/portal/usda/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDPQLsh0VAW3yi5I!/?windowID=Z7_P8MVVLT318PM80IUGT389F1041';
+var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F1041='/wps/portal/usda/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDIAKIoEKDHAARwNC-sP1o9CUhLoClXgHmJh7ursYGHibQxXgscLPIz83Vb8gN8Igy8RREQBu_jvC/dl4/d5/L0lKQSEvUUt3RS80SUkhL3BvcnRsZXRDb250ZXh0TWVudQ!!/?windowID=Z7_P8MVVLT318PM80IUGT389F1041';
 </script>
  
 
@@ -180,36 +180,41 @@ var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F1041='/wps/portal/usda/!ut/p/b0/04_S
 <span>
 			<script src="/documents/usda30/js/usda_mobile_detect.js" language="JavaScript" type="text/javascript"></script> 
  
- 
 <script type="text/javascript"> 
-           <!-- redirection_mobile ({noredirection_param:"noredirection", mobile_prefix : "http", cookie_hours : "2" });--> 
-		   urlStr=document.location.href; 
  
-		    //alert("MAIN location:"+urlStr+" width:"+screen.width+" height:"+screen.height); // document.location.href); 
-			//mobile_url : "/wps/portal/usda/usdamobile", 
-			if(urlStr.indexOf("mobile_redirect=false")<0 && urlStr.indexOf("id=")<0 ) //&& (screen.widith<1000)) //redirect only width <10 inches 
+		   if (typeof console === "undefined" || typeof console.log === "undefined") { 
+			 console = {}; console.log = function() {}; } 
+			  
+		   urlStr=document.location.href; 
+           //console.log("usda30_header urlStr:"+urlStr); 
+ 
+			if( (urlStr.indexOf("mobile_redirect=false")<0) && (urlStr.indexOf("newfarmers")<0)) //&& (screen.widith<1000)) //redirect only 
 			{ 
-			     //alert("MAIN detect and redirect"); 
+			    var urlStrMobile=urlStr; 
+				if(urlStr.indexOf("usdahome")>=0) 
+				  urlStrMobile= urlStr.replace("usdahome","usdamobile"); 
+				else if(urlStr.indexOf("usdamedia")>=0) 
+				  urlStrMobile= urlStr.replace("usdamedia","usdamobile"); 
+				//else if(urlStr.indexOf("newfarmers")>=0 ) //&& urlStr.indexOf("navid)<0) 
+				 // urlStrMobile= urlStr.replace("newfarmers","usdamobile"); 
+				 
 				 my_redirection_mobile ({ 
 					tablet_redirection : "false", 
-					mobile_url : "/wps/portal/usda/usdamobile", 
+					mobile_url : urlStrMobile, 
 					mobile_prefix : "http" 
 				}); 
+ 
 			} 
 </script> 
 		<meta name="msvalidate.01" content="36F1A09D7116D0E8D667792CE040A6C3"> 
 		<meta name="google-site-verification" content="pBQ9Qetufo4X5whhElgw6JMhHd0rzAPOTUudlLVaSoY"> 
  
  
- 
- 
 <link href="/documents/usda30/css/usdastyle.css" type="text/css" rel="stylesheet" media="all"> 
- 
 <script src="/documents/usda30/js/jquery.js" language="JavaScript" type="text/javascript"> </script> 
 <script src="/documents/usda30/js/jquery.min.js" language="JavaScript" type="text/javascript"></script> 
 <script src="/documents/usda30/js/jquery-bgiframe.js" language="JavaScript" type="text/javascript"></script> 
 <script src="/documents/usda30/js/jquery.hoverIntent.minified.js" language="JavaScript" type="text/javascript"> </script> 
-<script src="/documents/usda30/js/dropdown.js" language="JavaScript" type="text/javascript"></script> 
 <script src="/documents/usda30/js/federated-analytics.js" language="JavaScript" type="text/javascript"></script> 
 <script type="text/javascript"> 
  
@@ -260,21 +265,23 @@ var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F1041='/wps/portal/usda/!ut/p/b0/04_S
 		  <li><h2></h2></li> 
 		  <li><a href="/wps/portal/usda/usdahome?navid=ANIMAL_HEALTH">Animal Health</a></li> 
 		  <li><a href="/wps/portal/usda/usdahome?navid=BIOTECH">Biotechnology</a></li> 
+		  <li><a href="/wps/portal/usda/usdahome?navid=conservation">Conservation</a></li> 
+          <li><a href="/Emergency_Preparedness_and_Response.html">Emergency Preparedness and Response</a></li> 
 		  <li><a href="/wps/portal/usda/usdahome?navid=USDA_EMPLOYEE&amp;navtype=AU">Employee Services</a></li> 
 		  <li><a href="/wps/portal/usda/usdahome?navid=ENERGY">Energy</a></li> 
 		  <li><a href="/wps/portal/usda/usdahome?navid=NATURAL_RESOURCES&amp;navtype=SU">Environment and Natural Resources</a></li> 
-          <li><a href="/Emergency_Preparedness_and_Response.html">Emergency Preparedness and Response</a></li> 
-		  <li><a href="/wps/portal/usda/usdahome?navid=FARMBILL2008">Farm Bill</a></li> 
-		  <li><a href="/wps/portal/usda/usdahome?navid=FOOD_NUTRITION&amp;navtype=SU">Food and Nutrition</a></li> 
-		  <li><a href="/wps/portal/usda/usdahome?navid=FOOD_SAFETY">Food Safety</a></li> 
+		  <li><a href="/wps/portal/usda/usdahome?navid=farmbill">Farm Bill</a></li> 
+		  <li><a href="/wps/portal/usda/usdahome?navid=food-nutrition">Food and Nutrition</a></li> 
+		  <li><a href="/wps/portal/usda/usdahome?navid=food-safety">Food Safety</a></li> 
 		  <li><a href="/wps/portal/usda/usdahome?navid=FOREST_FORESTRY">Forestry</a></li> 
 		  <li><a href="/wps/portal/usda/usdahome?navid=HOMELANDSECU">Homeland Security</a></li> 
 		  <li><a href="/wps/portal/usda/usdahome?navid=LAWS_REGS&amp;navtype=SU">Laws and Regulations</a></li> 
-		  <li><a href="/wps/portal/usda/usdahome?navid=MARKETING_TRADE&amp;navtype=SU">Marketing and Trade</a></li> 
+		  <li><a href="/wps/portal/usda/usdahome?navid=marketing-trade">Marketing and Trade</a></li> 
+  		  <li><a href="/wps/portal/usda/usdahome?navid=organic-agriculture">Organic Agriculture</a></li> 
 		  <li><a href="http://www.outreach.usda.gov">Outreach</a></li> 
 		  <li><a href="/wps/portal/usda/usdahome?navid=PLANT_HEALTH">Plant Health</a></li> 
-		  <li><a href="/wps/portal/usda/usdahome?navtype=SU&amp;navid=RESEARCH_SCIENCE">Research and Science</a></li> 
-		  <li><a href="/wps/portal/usda/usdahome?navid=RURAL_DEVELOPMENT&amp;navtype=SU">Rural and Community Development</a></li> 
+		  <li><a href="/wps/portal/usda/usdahome?navid=research-science">Research and Science</a></li> 
+		  <li><a href="/wps/portal/usda/usdahome?navid=rural-development">Rural and Community Development</a></li> 
 		  <li><a href="/wps/portal/usda/usdahome?navid=TRAVEL_RECREATION&amp;navtype=SU">Travel and Recreation</a></li> 
 		  <li><a href="/wps/portal/usda/usdahome?navid=FOR_KIDS">USDA for Kids</a></li> 
 	   </ul> 
@@ -286,38 +293,38 @@ var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F1041='/wps/portal/usda/!ut/p/b0/04_S
   <li class="tab" id="usda_programs"><a class="mainlk" href="/wps/portal/usda/usdahome?navid=PROGRAM_AND_SERVICE">Programs and Services</a> 
   <div class="submenu" style="width: 440px"> 
 	  <ul style="WIDTH: 200px"> 
-		<li><h2><a href="/wps/portal/usda/usdahome?navid=RURAL_DEVELOPMENT&amp;navtype=SU">ASSISTING RURAL COMMUNITIES</a></h2></li> 
+		<li><h2><a href="/wps/portal/usda/usdahome?navid=rural-development">ASSISTING RURAL COMMUNITIES</a></h2></li> 
 		<li><a href="http://www.rurdev.usda.gov/utp_farmbill.html">Broadband</a></li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=GRANTS_LOANS">Grants and Loans</a></li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=DISASTER_ASSISTANCE">Disaster Assistance</a></li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=CROP_LIVESTOCK_INSUR">Insurance Programs</a></li> 
 		<li><a href="http://www.rurdev.usda.gov/LP_CoopPrograms.html">Cooperatives</a></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=DISASTER_ASSISTANCE">Disaster Assistance</a></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=GRANTS_LOANS">Grants and Loans</a></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=CROP_LIVESTOCK_INSUR">Insurance Programs</a></li> 
 	  </ul> 
 	  <ul style="WIDTH: 185px"> 
-		<li><h2><a href="/wps/portal/usda/usdahome?navid=FOOD_NUTRITION&amp;navtype=SU">FOOD AND NUTRITION</a></h2></li> 
-		<li><a href="http://www.fns.usda.gov/snap/">SNAP</a></li> 
-		<li><a href="http://www.fns.usda.gov/wic/">WIC</a></li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=FOOD_SECURITY">Food Security</a></li> 
+		<li><h2><a href="/wps/portal/usda/usdahome?navid=food-nutrition">FOOD AND NUTRITION</a></h2></li> 
 		<li><a href="http://www.fns.usda.gov/cnd/">Child Nutrition Programs</a></li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=ORGANIC_CERTIFICATIO">National Organic Program</a></li> 
+		<li><a href="http://www.nifa.usda.gov/efnep">Expanded Food and Nutrition Education Program</a></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=food-security">Food Security</a></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=organic-agriculture">National Organic Program</a></li> 
+		<li><a href="http://www.fns.usda.gov/snap/">SNAP</a></li> 
+		<li style="padding-bottom:10px;"><a href="http://www.fns.usda.gov/wic/">WIC</a></li> 
+	  </ul> 
+	  <ul style="WIDTH: 200px; margin: -40px 0px 0px 0px;"> 
+		<li><h2><a href="/wps/portal/usda/usdahome?navid=conservation">CONSERVATION</a></h2></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=conservation">Conservation</a></li> 
+		<li><a href="/oce/environmental_markets/index.htm">Environmental Markets</a></li> 
+		<li style="padding-bottom:10px;"><a href="http://www.fs.fed.us/fire/management/index.html">Wildfire Prevention</a></li> 
+	  </ul> 
+	  <ul style="WIDTH: 175px"> 
+		<li><h2><a href="/wps/portal/usda/usdahome?navid=marketing-trade">MARKETING AND TRADE</a></h2></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=EXPORTING_GOODS">Exporting Goods</a></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=IMPORTING_GOODS">Importing Goods</a></li> 
 	  </ul> 
 	  <ul style="WIDTH: 200px"> 
-		<li><h2><a href="/wps/portal/usda/usdahome?navid=CONSERVATION">CONSERVATION</a></h2></li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=CONSERVATION">Restoration and Conservation</a></li> 
-		<li><a href="http://www.usda.gov/oce/environmental_markets/index.htm">Environmental Markets</a></li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=WATER_RESOURCES">Water Resources</a></li> 
-		<li><a href="http://www.fs.fed.us/fire/management/index.html">Wildfire Prevention</a></li> 
-	  </ul> 
-	  <ul style="WIDTH: 185px"> 
-		<li><h2><a href="/wps/portal/usda/usdahome?navid=MARKETING_TRADE&amp;navtype=SU">MARKETING AND TRADE</a></h2></li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=IMPORTING_GOODS">Importing Goods</a></li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=EXPORTING_GOODS">Exporting Goods</a></li> 
-	  </ul> 
-	  <ul style="WIDTH: 185px"> 
-		<li><h2><a href="/wps/portal/usda/usdahome?navtype=SU&amp;navid=RESEARCH_SCIENCE">EDUCATION AND RESEARCH</a></h2></li> 
-		<li><a href="http://www.ers.usda.gov/">Economic Research</a></li> 
+		<li><h2><a href="/wps/portal/usda/usdahome?navid=research-science">EDUCATION AND RESEARCH</a></h2></li> 
 		<li><a href="/wps/portal/usda/usdahome?navtype=SU&amp;navid=EDUCATION_OUTREACH">Agricultural Research</a></li> 
 		<li><a href="/wps/portal/usda/usdahome?navid=DATA_STATISTICS">Agricultural Statistics</a></li> 
+		<li><a href="http://www.ers.usda.gov/">Economic Research</a></li> 
         <li><a href="http://www.nifa.usda.gov">Food and Agriculture Research</a></li> 
 	  </ul> 
   	<div class="clear"></div> 
@@ -329,17 +336,18 @@ var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F1041='/wps/portal/usda/!ut/p/b0/04_S
    <div class="submenu" style="width: 240px"> 
 	<ul> 
 		<li><h2></h2></li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=LATEST_RELEASES">Latest Releases</a> </li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=TRANSCRIPTS_SPEECHES">Transcripts and Speeches</a> </li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=AGENCY_RELEASES">Agency News Releases</a> </li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=RADIOTV_BROADCASTS">Radio and TV Programming</a> </li> 
-		<li><a href="https://public.govdelivery.com/accounts/USDAOC/subscriber/new">Email Subscriptions</a> </li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=RSS_FEEDS">RSS Feeds</a> </li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=USDA_STR">New Media</a> </li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=AGENCY_REPORTS">Agency Reports</a> </li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=USDA_PUBS">USDA Publications</a> </li> 
-        <li><a href="/wps/portal/usda/usdahome?navid=RESULTS">USDA's Results</a> </li> 
-		<li><a href="/wps/portal/usda/usdahome?navid=OC_CMBC">Creative Media &amp; Broadcast Center</a> </li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=AGENCY_RELEASES">Agency News Releases</a></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=AGENCY_REPORTS">Agency Reports</a></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=OC_CMBC">Creative Media &amp; Broadcast Center</a></li> 
+		<li><a href="https://public.govdelivery.com/accounts/USDAOC/subscriber/new">Email Subscriptions</a></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=LATEST_RELEASES">Latest Releases</a></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=USDA_STR">New Media</a></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=USDA_PUBS">Publications</a></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=RADIOTV_BROADCASTS">Radio and TV Programming</a></li> 
+        <li><a href="/wps/portal/usda/usdahome?navid=RESULTS">Results</a></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=RSS_FEEDS">RSS Feeds</a></li> 
+		<li><a href="/wps/portal/usda/usdahome?navid=TRANSCRIPTS_SPEECHES">Transcripts and Speeches</a></li> 
+		<li><a href="/wps/portal/usda/usdamedia?navid=USDA_LIVE">USDA Live</a></li> 
 	 </ul> 
   <div class="clear"></div></div></li> 
  
@@ -356,67 +364,75 @@ var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F1041='/wps/portal/usda/!ut/p/b0/04_S
   </div> 
   <!-- header30_left end --> 
  
- 
- 
- 
- 
- 
 <div id="header30_right"> 
 <div id="USDATopHeader"> 
 <ul> 
-  <li><a title="About USDA" href="/wps/portal/usda/usdahome?navid=ABOUT_USDA">About USDA</a> </li> 
-  <li><a title="Ask the Expert" href="/wps/portal/usda/usdahome?navid=ASK_EXPERT2">Ask the Expert</a> </li> 
-  <li><a title="Contact Us" href="/wps/portal/usda/usdahome?navid=CONTACT_US">Contact Us</a> </li> 
-  <li><a title="En Español" href="/wps/portal/usda/usdahome?navid=EN_ESPANOL">En Español </a> </li> 
+  <li><a title="About USDA" href="/wps/portal/usda/usdahome?navid=ABOUT_USDA">About USDA</a></li> 
+  <li><a title="Ask the Expert" href="/wps/portal/usda/usdahome?navid=ASK_EXPERT2">Ask the Expert</a></li> 
+  <li><a title="Contact Us" href="/wps/portal/usda/usdahome?navid=CONTACT_US">Contact Us</a></li> 
+  <li><a title="En Español" href="/wps/portal/usda/usdahome?navid=EN_ESPANOL">En Español</a></li> 
 </ul></div> 
- 
  
 <div class="clear"></div> 
  
- 
- 
- 
- 
-<div id="USDASearchHeader"> 
+<div id="USDASearchHeader2"> 
   <form id="search_form" name="search" action="http://usdasearch.usda.gov/search" method="get"> 
   <div style="margin:0;padding:0;display:inline"> 
   	<input name="utf8" type="hidden" value="✓"> 
   </div> 
- 
+    
     <input id="affiliate" name="affiliate" type="hidden" value="usda"> 
-    <input class="searchinput" autocomplete="off" id="searchBox" accesskey="i" tabindex="1" name="query" type="text"> 
+	 
+	<input class="searchinput" autocomplete="off" id="searchBox" accesskey="i" tabindex="1" name="query" type="text"> 
 	<input class="searchimage" accesskey="s" tabindex="2" type="image" alt="Click to Search" src="/img/headers/Search_Button.png" width="27" height="27" border="0" onload="document.search.query.focus();"> 
-    <input name="commit" type="hidden" value="Search"> 
+	 
+	 
+	<input name="commit" type="hidden" value="Search"> 
   </form> 
 </div> 
  
- 
 <div class="clear"></div> 
- 
- 
- 
- 
  
 <div id="USDATopHelp"> 
 <ul> 
-  <li><a title="Site Map" href="/wps/portal/usda/usdahome?navid=SITE_MAP">Site Map</a> </li> 
+  <li><a title="Site Map" href="/wps/portal/usda/usdahome?navid=SITE_MAP">Site Map</a></li> 
   <li> </li> 
-  <li><a title="A-Z Index" href="/wps/portal/usda/usdahome?navid=AZ_INDEX">A-Z Index</a> </li> 
+  <li><a title="A-Z Index" href="/wps/portal/usda/usdahome?navid=AZ_INDEX">A-Z Index</a></li> 
   <li> </li> 
-  <li><a title="Advanced Search" href="http://usdasearch.usda.gov/search/advanced?affiliate=usda&amp;enable_highlighting=true&amp;m=false&amp;page=1&amp;per_page=10">Advanced Search</a> </li> 
+  <li><a title="Advanced Search" href="http://usdasearch.usda.gov/search/advanced?affiliate=usda&amp;enable_highlighting=true&amp;m=false&amp;page=1&amp;per_page=10">Advanced Search</a></li> 
   <li> </li> 
-  <li><a title="Help" href="/wps/portal/usda/usdahome?navid=HELP">Help</a> </li> 
+  <li><a title="Help" href="/wps/portal/usda/usdahome?navid=HELP">Help</a></li> 
 </ul></div> 
  
- 
 </div><!-- header30_right end --> 
- 
- 
- 
  
 </div><!-- wraper  --> 
 <div class="clear"></div> 
  
+<style type="text/css"> 
+#USDASearchHeader2 { 
+	/*padding:0px; margin: 18px 5px 0px 0px; float: right! important; width: 192px; height: 27px; text-align: right*/ 
+	 
+	margin: 18px 5px 0px 0px; float: right! important; 
+	 
+	 
+	/*background-color: green; 
+	border: 2px solid red; */ 
+	 
+} 
+#USDASearchHeader2 .searchinput{ 
+	display: block; float: left! important; height: 25px 
+	 
+} 
+#USDASearchHeader2 .searchimage{ 
+	/*display: block; padding-left: 5px; width: 27px; height: 27px;*/ 
+	display: block; float: left! important; height: 25px; 
+	 
+	 
+} 
+ 
+ 
+</style> 
 
 </span>
 	
@@ -499,7 +515,7 @@ var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F1041='/wps/portal/usda/!ut/p/b0/04_S
  
  
 <script type="text/javascript">var menuNoActionsText_Z7_P8MVVLT318PM80IUGT389F10C2="No actions currently available.";
-var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F10C2='/wps/portal/usda/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDPQLsh0VAW3yi5I!/?windowID=Z7_P8MVVLT318PM80IUGT389F10C2';
+var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F10C2='/wps/portal/usda/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDIAKIoEKDHAARwNC-sP1o9CUhLoClXgHmJh7ursYGHibQxXgscLPIz83Vb8gN8Igy8RREQBu_jvC/dl4/d5/L0lKQSEvUUt3RS80SUkhL3BvcnRsZXRDb250ZXh0TWVudQ!!/?windowID=Z7_P8MVVLT318PM80IUGT389F10C2';
 </script>
  
 
@@ -590,7 +606,7 @@ var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F10C2='/wps/portal/usda/!ut/p/b0/04_S
  
  
 <script type="text/javascript">var menuNoActionsText_Z7_527KC4J610UD30IVJAUKPV00G6="No actions currently available.";
-var menuPortletURL_Z7_527KC4J610UD30IVJAUKPV00G6='/wps/portal/usda/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDPQLsh0VAW3yi5I!/?windowID=Z7_527KC4J610UD30IVJAUKPV00G6';
+var menuPortletURL_Z7_527KC4J610UD30IVJAUKPV00G6='/wps/portal/usda/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDIAKIoEKDHAARwNC-sP1o9CUhLoClXgHmJh7ursYGHibQxXgscLPIz83Vb8gN8Igy8RREQBu_jvC/dl4/d5/L0lKQSEvUUt3RS80SUkhL3BvcnRsZXRDb250ZXh0TWVudQ!!/?windowID=Z7_527KC4J610UD30IVJAUKPV00G6';
 </script>
  
 
@@ -619,11 +635,12 @@ var menuPortletURL_Z7_527KC4J610UD30IVJAUKPV00G6='/wps/portal/usda/!ut/p/b0/04_S
 	<div id="stayconnect_content_text"> 
 		<a href="http://www.facebook.com/usda/" target="_top"><img src="/img/content/sc-facebook-small.png" alt="USDA In Facebook" width="27" height="27"></a> 
 		<a href="http://www.twitter.com/usda/" target="_top"><img src="/img/content/sc-twitter-small.png" alt="USDA In Twitter" width="27" height="27"></a> 
+		<a href="https://plus.google.com/107279790852845021682" rel="publisher" target="_top"><img src="/img/content/sc-gplus-small.png" alt="Google+" width="27" height="27"></a> 
 		<a href="http://blogs.usda.gov/" target="_top"><img src="/img/content/sc-blogfeed-small.png" alt="USDA Blog" width="27" height="27"></a> 
 		<a href="http://www.youtube.com/usda/" target="_top"><img src="/img/content/sc-youtube-small.png" alt="USDA In Youtube" width="27" height="27"></a> 
 		<a href="https://public.govdelivery.com/accounts/USDAOC/subscriber/new" target="_top"><img src="/img/content/govdelivery_bubble.png" alt="USDA govdelivery" width="27" height="27"></a> 
 		<a href="http://flickr.com/usdagov" target="_top"><img src="/img/content/sc-flickr-small.png" alt="USDA In Flickr" width="27" height="27"></a> 
-		<a href="/wps/portal/usda/usdahome?navid=RSS_FEEDS" target="_top"><img src="/img/content/sc-rss-small.png" alt="USDA RSS" width="27" height="27"></a> 
+		<a href="/wps/portal/usda/usdahome?navid=RSS_FEEDS" target="_top"><img src="/img/content/sc-rss-small.png" alt="USDA RSS"></a> 
 	</div> 
 </div> 
  
@@ -705,7 +722,7 @@ var menuPortletURL_Z7_527KC4J610UD30IVJAUKPV00G6='/wps/portal/usda/!ut/p/b0/04_S
  
  
 <script type="text/javascript">var menuNoActionsText_Z7_P8MVVLT31G1U10IUPDCK5010E1="No actions currently available.";
-var menuPortletURL_Z7_P8MVVLT31G1U10IUPDCK5010E1='/wps/portal/usda/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDPQLsh0VAW3yi5I!/?windowID=Z7_P8MVVLT31G1U10IUPDCK5010E1';
+var menuPortletURL_Z7_P8MVVLT31G1U10IUPDCK5010E1='/wps/portal/usda/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDIAKIoEKDHAARwNC-sP1o9CUhLoClXgHmJh7ursYGHibQxXgscLPIz83Vb8gN8Igy8RREQBu_jvC/dl4/d5/L0lKQSEvUUt3RS80SUkhL3BvcnRsZXRDb250ZXh0TWVudQ!!/?windowID=Z7_P8MVVLT31G1U10IUPDCK5010E1';
 </script>
  
 
@@ -812,7 +829,7 @@ var menuPortletURL_Z7_P8MVVLT31G1U10IUPDCK5010E1='/wps/portal/usda/!ut/p/b0/04_S
  
  
 <script type="text/javascript">var menuNoActionsText_Z7_P8MVVLT318PM80IUGT389F1040="No actions currently available.";
-var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F1040='/wps/portal/usda/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDPQLsh0VAW3yi5I!/?windowID=Z7_P8MVVLT318PM80IUGT389F1040';
+var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F1040='/wps/portal/usda/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDIAKIoEKDHAARwNC-sP1o9CUhLoClXgHmJh7ursYGHibQxXgscLPIz83Vb8gN8Igy8RREQBu_jvC/dl4/d5/L0lKQSEvUUt3RS80SUkhL3BvcnRsZXRDb250ZXh0TWVudQ!!/?windowID=Z7_P8MVVLT318PM80IUGT389F1040';
 </script>
  
 
@@ -975,7 +992,7 @@ var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F1040='/wps/portal/usda/!ut/p/b0/04_S
  
  
 <script type="text/javascript">var menuNoActionsText_Z7_P8MVVLT31G1U10IUPDCK5010E3="No actions currently available.";
-var menuPortletURL_Z7_P8MVVLT31G1U10IUPDCK5010E3='/wps/portal/usda/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDPQLsh0VAW3yi5I!/?windowID=Z7_P8MVVLT31G1U10IUPDCK5010E3';
+var menuPortletURL_Z7_P8MVVLT31G1U10IUPDCK5010E3='/wps/portal/usda/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDIAKIoEKDHAARwNC-sP1o9CUhLoClXgHmJh7ursYGHibQxXgscLPIz83Vb8gN8Igy8RREQBu_jvC/dl4/d5/L0lKQSEvUUt3RS80SUkhL3BvcnRsZXRDb250ZXh0TWVudQ!!/?windowID=Z7_P8MVVLT31G1U10IUPDCK5010E3';
 </script>
  
 
@@ -1517,7 +1534,7 @@ If you have any comments or questions about the information presented here, plea
  
  
 <script type="text/javascript">var menuNoActionsText_Z7_P8MVVLT318PM80IUGT389F10K3="No actions currently available.";
-var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F10K3='/wps/portal/usda/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDPQLsh0VAW3yi5I!/?windowID=Z7_P8MVVLT318PM80IUGT389F10K3';
+var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F10K3='/wps/portal/usda/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDIAKIoEKDHAARwNC-sP1o9CUhLoClXgHmJh7ursYGHibQxXgscLPIz83Vb8gN8Igy8RREQBu_jvC/dl4/d5/L0lKQSEvUUt3RS80SUkhL3BvcnRsZXRDb250ZXh0TWVudQ!!/?windowID=Z7_P8MVVLT318PM80IUGT389F10K3';
 </script>
  
 
@@ -1603,7 +1620,7 @@ var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F10K3='/wps/portal/usda/!ut/p/b0/04_S
  
  
 <script type="text/javascript">var menuNoActionsText_Z7_P8MVVLT318PM80IUGT389F10C0="No actions currently available.";
-var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F10C0='/wps/portal/usda/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDPQLsh0VAW3yi5I!/?windowID=Z7_P8MVVLT318PM80IUGT389F10C0';
+var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F10C0='/wps/portal/usda/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDIAKIoEKDHAARwNC-sP1o9CUhLoClXgHmJh7ursYGHibQxXgscLPIz83Vb8gN8Igy8RREQBu_jvC/dl4/d5/L0lKQSEvUUt3RS80SUkhL3BvcnRsZXRDb250ZXh0TWVudQ!!/?windowID=Z7_P8MVVLT318PM80IUGT389F10C0';
 </script>
  
 
@@ -1706,7 +1723,7 @@ var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F10C0='/wps/portal/usda/!ut/p/b0/04_S
  
  
 <script type="text/javascript">var menuNoActionsText_Z7_P8MVVLT31O2BF0ILN3NK213004="No actions currently available.";
-var menuPortletURL_Z7_P8MVVLT31O2BF0ILN3NK213004='/wps/portal/usda/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDPQLsh0VAW3yi5I!/?windowID=Z7_P8MVVLT31O2BF0ILN3NK213004';
+var menuPortletURL_Z7_P8MVVLT31O2BF0ILN3NK213004='/wps/portal/usda/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDIAKIoEKDHAARwNC-sP1o9CUhLoClXgHmJh7ursYGHibQxXgscLPIz83Vb8gN8Igy8RREQBu_jvC/dl4/d5/L0lKQSEvUUt3RS80SUkhL3BvcnRsZXRDb250ZXh0TWVudQ!!/?windowID=Z7_P8MVVLT31O2BF0ILN3NK213004';
 </script>
  
 
@@ -1804,7 +1821,7 @@ var menuPortletURL_Z7_P8MVVLT31O2BF0ILN3NK213004='/wps/portal/usda/!ut/p/b0/04_S
  
  
 <script type="text/javascript">var menuNoActionsText_Z7_P8MVVLT318PM80IUGT389F10K0="No actions currently available.";
-var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F10K0='/wps/portal/usda/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDPQLsh0VAW3yi5I!/?windowID=Z7_P8MVVLT318PM80IUGT389F10K0';
+var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F10K0='/wps/portal/usda/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDIAKIoEKDHAARwNC-sP1o9CUhLoClXgHmJh7ursYGHibQxXgscLPIz83Vb8gN8Igy8RREQBu_jvC/dl4/d5/L0lKQSEvUUt3RS80SUkhL3BvcnRsZXRDb250ZXh0TWVudQ!!/?windowID=Z7_P8MVVLT318PM80IUGT389F10K0';
 </script>
  
 
@@ -1909,7 +1926,7 @@ var menuPortletURL_Z7_P8MVVLT318PM80IUGT389F10K0='/wps/portal/usda/!ut/p/b0/04_S
  
  
 <script type="text/javascript">var menuNoActionsText_Z7_527KC4J6104070I70IUA3T20D7="No actions currently available.";
-var menuPortletURL_Z7_527KC4J6104070I70IUA3T20D7='/wps/portal/usda/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDPQLsh0VAW3yi5I!/?windowID=Z7_527KC4J6104070I70IUA3T20D7';
+var menuPortletURL_Z7_527KC4J6104070I70IUA3T20D7='/wps/portal/usda/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDLHzDwnxCjA0NnEIMDTydfT0MXVxcDJ0DDIAKIoEKDHAARwNC-sP1o9CUhLoClXgHmJh7ursYGHibQxXgscLPIz83Vb8gN8Igy8RREQBu_jvC/dl4/d5/L0lKQSEvUUt3RS80SUkhL3BvcnRsZXRDb250ZXh0TWVudQ!!/?windowID=Z7_527KC4J6104070I70IUA3T20D7';
 </script>
  
 
@@ -1935,7 +1952,7 @@ var menuPortletURL_Z7_527KC4J6104070I70IUA3T20D7='/wps/portal/usda/!ut/p/b0/04_S
 
 <!-- display the last modify date of the content  -->
 
-<table width="996" border="0" cellspacing="0" cellpadding="0">
+<table width="936" border="0" cellspacing="0" cellpadding="0">
             <tbody><tr align="right">
                   <td height="1" width="173"><img src="/img/spacer.gif" width="175" height="1" alt=" "></td>
                   <td width="546" class="BodyTextBlack" valign="top">
@@ -1978,6 +1995,15 @@ var menuPortletURL_Z7_527KC4J6104070I70IUA3T20D7='/wps/portal/usda/!ut/p/b0/04_S
 	<div id="footer_content_space">&nbsp;<div> 
 </div> 
  
+<script type="text/javascript"> 
+/*<![CDATA[*/ 
+(function() { 
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true; 
+sz.src = '//us1.siteimprove.com/js/siteanalyze_63343.js'; 
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s); 
+})(); 
+/*]]>*/ 
+</script> 
 
 
 	
