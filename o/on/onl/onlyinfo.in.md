@@ -1,0 +1,13 @@
+> *The following text is extracted and transformed from the onlyinfo.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113222id_/http%3A//www.onlyinfo.in/PrivacyPolicy.php) for the most accurate reproduction.*
+
+# Indian Local Search Engine: Only Info
+
+## Privacy Policy
+
+OnlyInfo.in gives free information to the end user as per the listed cities/ sates on the website www.onlyinfo.in. While giving this information through Mail, Mobile and Web you may be required to give your name, residence address, email address, workplace address, educational qualifications, date of birth, and similar Information known as Personal Information to Team onlyinfo.in. Reason being for collecting these information is only to provide you the customize service details, to fulfill your requests for certain services, and to contact you about our services and for further requirement we keep records of your ("Personal Information") which helps the system to work fast. We are faithful in defending the privacy and secrecy of all Personal Information that you may share as a user with onlyinfo.in. This information is secure and away from all the other organizations which we do not own or belong.
+
+Personal Information will be secured and used for our marketing, research, and other internal business purposes only. Personal Information will be kept away from all the Data Collecting sites or sell and purchase of Data except that in case you are a customer of our search services through any Media, your Personal Information will be shared with our subscribers/advertisers and you will be deemed to have given consent to the same. Further to your information, the subscribers / advertisers who are listed or connected with us may call you on the basis of enquiry that you make with us through any of the channel.
+
+The enquiry could be related to any service / service provider/ Product and Advertiser. Personal Information would be shared only under following status: - your consent on sharing the data is required- If we are compelled by law (including court orders) to do so To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections in our records. If you are our corporate client, it is likely that we have gone through a contract with you for non-disclosure of confidential information. This Policy will not affect a contract in any approach.
+
+For any concern about these privacy policies; please send us an email at contactus@onlyinfo.in
