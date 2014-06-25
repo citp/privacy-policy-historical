@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachthought.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225012652id_/http%3A//www.teachthought.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachthought.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625160023id_/http%3A//www.teachthought.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - TeachThought
 
