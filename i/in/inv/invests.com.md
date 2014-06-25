@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invests.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109024249id_/http%3A//invests.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invests.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625180534id_/http%3A//invests.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Invests.com
 
@@ -50,7 +50,8 @@ Dot Com Investors Inc will occasionally update this Statement of Privacy to refl
 **Contact Information**  
 Dot Com Investors Inc welcomes your questions or comments regarding this Statement of Privacy. If you believe that Dot Com Investors Inc has not adhered to this Statement, please contact Dot Com Investors Inc at:
 
-Invests.com  
+Dot Com Investors Inc  
+8th Floor  
 100 Church Street  
 New York, New York 10007  
 Email Address: [legal@invests.com](mailto:legal@invests.com)  
