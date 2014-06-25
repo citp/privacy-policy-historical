@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopsimple.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228203001id_/http%3A//www.shopsimple.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopsimple.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085406id_/http%3A//www.shopsimple.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ShopSimple
 
@@ -36,7 +36,13 @@ We may disclose PII and Non-PII to:
 
 In addition, we use non-PII to help analyze site traffic, understand customer needs and trends carry out targeted promotional activities (see “Preference Based Advertising” below). We may use your non-PII by itself or aggregate it with information we have obtained from others to produce research reports and other information and data about online shopping for participating merchants and other customers, as well as media and other interested parties.
 
-**Ⅲ. COOKIES AND PREFERENCE BASED ADVERTISING**
+**Ⅲ. DIRECT MARKETING**  
+We may contact you from time to time with a view to providing the latest information on our products and services / member program. If you do not wish to receive these updates, please login at http://www.shopsimple.com to unsubscribe. Alternatively, you may click the unsubscribe link as shown in our electronic promotional materials; or can write to us via e-mail to [hello@shopsimple.com](mailto:hello@shopsimple.com) or Rooms 05-15, 13A/F., South Tower, World Finance Centre, Harbour City, 17 Canton Road, Tsim Sha Tsui, Kowloon, Hong Kong or via calling at 00852-22060092. In accordance with the statutory requirements, we will honour your request not to use your Personal Data for the purposes of direct marketing. Unless otherwise instructed as per the above, we may use any of your Personal Data collected in the normal course of our business for direct marketing purposes.
+
+**Ⅳ. ACCESSING PERSONAL DATA**  
+You have full control and ability to correct or edit your Personal Data at any time, including whether you want us to contact you about direct marketing purpose, VIP promotional offers and new products and services or deletion of your VIP membership online account. You may request your right of access or right of correction by logging in at http://www.shopsimple.com. Alternatively, you can write to us via e-mail to [hello@shopsimple.com](mailto:hello@shopsimple.com) or via mail at Rooms 05-15, 13A/F., South Tower, World Finance Centre, Harbour City, 17 Canton Road, Tsim Sha Tsui, Kowloon, Hong Kong or via calling at 00852-22060092. We will, upon satisfying itself of the authenticity and validity of the access or correction request, make every endeavor to comply with and respond to the request within the period set by the statutory requirement. 
+
+**V. COOKIES AND PREFERENCE BASED ADVERTISING**
 
 **(a) Cookies and Web Beacons:** We automatically receive and store certain types of non-PII whenever you interact with us by using "cookies" and analogous technology. "Cookies" are small files that we place on your computer or your Web browser memory to enable our systems to recognize your browser and to provide convenience and other features to you. **It is important to note that the cookies that we use do not contain and are not tied to PII about you.**
 
@@ -46,28 +52,28 @@ You may be able to direct your internet browser not to allow cookies and you can
 
 A couple of important notes about this opt-out tool: (1) it includes all the advertising networks that ShopSimple works with, but also many that ShopSimple does not work with; and (2) it relies on cookies to ensure that a given advertising network does not collect information about you (“Opt-out Cookies”) – for a general explanation of how Opt-out Cookies work, please [click here](http://www.google.com/privacy_ads.html). Therefore, if you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the opt-out task again.
 
-**Ⅳ. SALE OF BUSINESS AND DISCLOSURE BY LAW**
+**Ⅵ. SALE OF BUSINESS AND DISCLOSURE BY LAW**
 
 **(a) Business Transactions:** We may disclose PII and Non-PII held by us: (a) to a prospective seller or actual seller of any business or assets we acquire; (b) if all or any of our assets are acquired by a third party, in which case, PII and Non-PII may be one of the transferred assets.
 
 **(b) Required disclosures:** We may disclose and use any PII or non-PII if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Sites, or other users; or (d) in an emergency to protect the health and safety of our Sites’ users or the general public.
 
-**Ⅴ. SECURITY OF INFORMATION**
+**Ⅶ. SECURITY OF INFORMATION**
 
 We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We also use a secure server hosting location in the US, firewall protection, controlled access and encryption technology to protect your data. Please be advised, however, that while we strive to protect your PII, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your PII. In the unfortunate event that your personally identifiable information is compromised, we will notify you by e-mail to the last e-mail address you have provided us as soon as feasible under the circumstances (delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system, as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation).
 
-**Ⅵ. YOUR OPTIONS & OPT-OUTS**
+**Ⅷ. YOUR OPTIONS & OPT-OUTS**
 
-**(a) What Information Can I Access?** If you register as a Shopsimple member, you will typically have access to an account section that includes the registration information you previously provided which you can update or correct at any time. If there is any inaccurate information that you are not able to correct, just let us know. Also, if you wish, you can delete your membership account entirely although we may retain certain information in limited circumstances – e.g., to resolve disputes, troubleshoot problems and enforce our [Terms of us](https://web.archive.org/termsOfUse.html). Furthermore, some information is never completely removed from our databases due to technical (e.g., information that is stored in our “back-up” systems) and certain legal constraints.
+**(a) What Information Can I Access?** If you register as a Shopsimple member, you will typically have access to an account section that includes the registration information you previously provided which you can update or correct at any time. If there is any inaccurate information that you are not able to correct, just let us know. Furthermore, some information is never completely removed from our databases due to technical (e.g., information that is stored in our “back-up” systems) and certain legal constraints.
 
 **(b) What Choices Do I Have (Opt-Out)?** You have many choices regarding how we use information about you, including: (1) To stop our emails, please email us at [hello@shopsimple.com](mailto:hello@shopsimple.com) ; (2) To opt-out of third party advertising, please email us at [hello@shopsimple.com](mailto:hello@shopsimple.com); And (3) as discussed above, the choices we offer you anytime you submit information through our Site or Services. 
 
 **(c) You May Contact Us with Questions:** If you have any questions or concerns about privacy at Shopsimple, please contact us by [hello@shopsimple.com](mailto:hello@shopsimple.com) . 
 
-**Ⅶ.CHILDREN**
+**Ⅸ.CHILDREN**
 
 We respect children’s privacy. We do not knowingly or intentionally collect personal information from children under age 13.On this website, you have represented and warranted that you are either 18 years of age or using this site with the supervision of a parent or guardian.
 
-**Ⅷ.REVISIONS**
+**Ⅹ.REVISIONS**
 
 This Privacy Policy may change from time to time to reflect our changing business practices. We will provide you notice of any such changes by posting the new policy on our Sites or by email if the changes are material. We encourage you to review this privacy Notice from time to time, so you will know if the Privacy Policy has been changed or updated. Any questions, please contact us at [hello@shopsimple.com](mailto:hello@shopsimple.com). 
