@@ -1,66 +1,33 @@
-<!--The following is the downloaded HTML source of the bankbazaar.com privacy policy that was archived on 2010-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222153745id_/http%3A//www.bankbazaar.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bankbazaar.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625150853id_/http%3A//www.bankbazaar.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-    
-    <title>Privacy Commitment - BankBazaar</title>
-    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+    <title>Privacy Commitment - BankBazaar.com</title>
+    <!-- HTTP 1.1 -->
+<meta http-equiv="Cache-Control" content="no-store">
+<!-- HTTP 1.0 -->
+<meta http-equiv="Pragma" content="no-cache">
+<!-- Prevents caching at the Proxy Server -->
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="//dvlv8cymbx5mz.cloudfront.net/images/favicon.ico" type="image/x-icon" rel="shortcut icon">
 
+<link rel="stylesheet" type="text/css" media="screen" href="http://dvlv8cymbx5mz.cloudfront.net/2084242337/bundles/main.css">
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" media="screen" href="http://dvlv8cymbx5mz.cloudfront.net/1342851963/bundles/ie.css" />
+<![endif]-->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://apis.google.com/js/client:plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
     var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-5152316-1']);
-    _gaq.push(['_setDomainName', 'none']);
+    if(("prod").toLowerCase() == "prod" ){
+        _gaq.push(['_setAccount', 'UA-5152316-1']);
+    }else{
+//        todo change this account later to a bankbazaar id
+        _gaq.push(['_setAccount','UA-50431922-1']);
+    }
     _gaq.push(['_setAllowLinker', true]);
     _gaq.push(['_trackPageview']);
-
-    if(location.host.indexOf('economictimes') != -1){
-        _gaq.push(['b._setAccount', 'UA-5019032-28']);
-        _gaq.push(['b._trackPageview']);
-    }
-
     (function() {
         var ga = document.createElement('script');
         ga.type = 'text/javascript';
@@ -70,15 +37,156 @@
         s.parentNode.insertBefore(ga, s);
 
     })();
-    function BB_trackGoogleEvent(category, action, label, value) { //prefixing BB so that fn name do not clash [just in case]
-        _gaq.push('_trackEvent', category, action, label, value);
+    function BB_trackGoogleEventWithLabelAndValue(category, action, label, value) { //prefixing BB so that fn name do not clash [just in case]
+        _gaq.push(['_trackEvent', category, action, label, value]);
+    }
+    function BB_trackGoogleEventWithLabel(category, action, label) { //prefixing BB so that fn name do not clash [just in case]
+        _gaq.push(['_trackEvent', category, action, label]);
+    }
+    function BB_trackGoogleEvent(category, action) { //prefixing BB so that fn name do not clash [just in case]
+        _gaq.push(['_trackEvent', category, action]);
     }
 </script>
 
-
-
+<!-- Google Analytics Social Button Tracking -->
 <script type="text/javascript">
+     /**
+     * Namespace.
+     * @type {Object}.
+     */
+    var _ga = _ga || {};
+
+
+    /**
+     * Ensure global _gaq Google Analytics queue has been initialized.
+     * @type {Array}
+     */
+    var _gaq = _gaq || [];
+
+
+    /**
+     * Tracks social interactions by iterating through each tracker object
+     * of the page, and calling the _trackSocial method. This function
+     * should be pushed onto the _gaq queue. For details on parameters see
+     * http://code.google.com/apis/analytics/docs/gaJS/gaJSApiSocialTracking.html
+     * @param {string} network The network on which the action occurs.
+     * @param {string} socialAction The type of action that happens.
+     * @param {string} opt_target Optional text value that indicates the
+     *     subject of the action.
+     * @param {string} opt_pagePath Optional page (by path, not full URL)
+     *     from which the action occurred.
+     * @return a function that iterates over each tracker object
+     *    and calls the _trackSocial method.
+     * @private
+     */
+    _ga.getSocialActionTrackers_ = function(
+            network, socialAction, opt_target, opt_pagePath) {
+        return function() {
+            var trackers = _gat._getTrackers();
+            for (var i = 0, tracker; tracker = trackers[i]; i++) {
+                tracker._trackSocial(network, socialAction, opt_target, opt_pagePath);
+            }
+        };
+    };
+
+
+    /**
+     * Tracks Facebook likes, unlikes and sends by suscribing to the Facebook
+     * JSAPI event model. Note: This will not track facebook buttons using the
+     * iframe method.
+     * @param {string} opt_pagePath An optional URL to associate the social
+     *     tracking with a particular page.
+     */
+    _ga.trackFacebook = function(opt_pagePath) {
+        try {
+            if (FB && FB.Event && FB.Event.subscribe) {
+                FB.Event.subscribe('edge.create', function(opt_target) {
+                    _gaq.push(_ga.getSocialActionTrackers_('facebook', 'like',
+                            opt_target, opt_pagePath));
+                });
+                FB.Event.subscribe('edge.remove', function(opt_target) {
+                    _gaq.push(_ga.getSocialActionTrackers_('facebook', 'unlike',
+                            opt_target, opt_pagePath));
+                });
+                FB.Event.subscribe('message.send', function(opt_target) {
+                    _gaq.push(_ga.getSocialActionTrackers_('facebook', 'send',
+                            opt_target, opt_pagePath));
+                });
+            }
+        } catch (e) {}
+    };
+
+
+    /**
+     * Handles tracking for Twitter click and tweet Intent Events which occur
+     * everytime a user Tweets using a Tweet Button, clicks a Tweet Button, or
+     * clicks a Tweet Count. This method should be binded to Twitter click and
+     * tweet events and used as a callback function.
+     * Details here: http://dev.twitter.com/docs/intents/events
+     * @param {object} intent_event An object representing the Twitter Intent Event
+     *     passed from the Tweet Button.
+     * @param {string} opt_pagePath An optional URL to associate the social
+     *     tracking with a particular page.
+     * @private
+     */
+    _ga.trackTwitterHandler_ = function(intent_event, opt_pagePath) {
+        var opt_target; //Default value is undefined
+        if (intent_event && intent_event.type == 'tweet' ||
+                intent_event.type == 'click') {
+            if (intent_event.target.nodeName == 'IFRAME') {
+                opt_target = _ga.extractParamFromUri_(intent_event.target.src, 'url');
+            }
+            var socialAction = intent_event.type + ((intent_event.type == 'click') ?
+                    '-' + intent_event.region : ''); //append the type of click to action
+            _gaq.push(_ga.getSocialActionTrackers_('twitter', socialAction, opt_target,
+                    opt_pagePath));
+        }
+    };
+
+    /**
+     * Binds Twitter Intent Events to a callback function that will handle
+     * the social tracking for Google Analytics. This function should be called
+     * once the Twitter widget.js file is loaded and ready.
+     * @param {string} opt_pagePath An optional URL to associate the social
+     *     tracking with a particular page.
+     */
+    _ga.trackTwitter = function(opt_pagePath) {
+        intent_handler = function(intent_event) {
+            _ga.trackTwitterHandler_(intent_event, opt_pagePath);
+        };
+
+        //bind twitter Click and Tweet events to Twitter tracking handler
+        twttr.events.bind('click', intent_handler);
+        twttr.events.bind('tweet', intent_handler);
+    };
+
+
+    /**
+     * Extracts a query parameter value from a URI.
+     * @param {string} uri The URI from which to extract the parameter.
+     * @param {string} paramName The name of the query paramater to extract.
+     * @return {string} The un-encoded value of the query paramater. undefined
+     *     if there is no URI parameter.
+     * @private
+     */
+    _ga.extractParamFromUri_ = function(uri, paramName) {
+        if (!uri) {
+            return;
+        }
+        var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
+        var params = regex.exec(uri);
+        if (params != null) {
+            return unescape(params[1]);
+        }
+        return;
+    };
+
+</script><script type="text/javascript">
     // Javascript Ajax support implementation
+
+    function getNewImage() {
+        return (window.Image ? new Image() : document.createElement('img'));
+    }
 
     //Gets the browser specific XmlHttpRequest Object
     function getXmlHttpRequestObject() {
@@ -92,20 +200,6 @@
         }
         return false;
     }
-
-    var ajaxGet = function(url) {
-        var ct = new Date();
-        // Ajax get call implemented in javascript as jquery libraries would not be loaded before this call
-        var receiveReq = getXmlHttpRequestObject();
-        //If our XmlHttpRequest object is not in the middle of a request, start the new asyncronous call.
-        if (receiveReq.readyState == 4 || receiveReq.readyState == 0) {
-            //True explicity sets the request to asyncronous (default).
-            receiveReq.open("GET", url, true);
-            //Make the actual request.
-            receiveReq.send(null);
-        }
-    };
-
     window.onerror = function(msg, url, linenumber) {
         var errdt = new Date();
         // Ajax get call implemented in javascript as jquery libraries would not be loaded before this call
@@ -115,399 +209,658 @@
         if (receiveReq.readyState == 4 || receiveReq.readyState == 0) {
             //Setup the connection as a GET call
             //True explicity sets the request to asyncronous (default).
+            // This replace is to replace all possible attack words to some other by changing major vowels to numbers
+            // otherwise the session will be expired and the customer is punished.
+            if (msg != null && typeof(msg) == "string") {
+                msg = msg.replace(/a/gi, "@");
+                msg = msg.replace(/e/gi, "3");
+                msg = msg.replace(/i/gi, "1");
+                msg = msg.replace(/o/gi, "0");
+            }
             receiveReq.open("GET", ctx + "images/jserror.gif?linenumber=" + linenumber + "&url=" + url + "&msg=" + msg + "&dt=" + errdt, true);
             //Make the actual request.
             receiveReq.send(null);
         }
         return false;
-    }
+    };
 
     var st = new Date();
     var loc = escape(window.location);
     var ctx = "/";
-    var unique_id = "iO34oH8AAQEAAEeMSEkAAAAU"
-    var start_time = "1293032266528928"
-    ajaxGet(ctx + "images/started.gif?id=" + unique_id + "&t=" + start_time);
+    var unique_id = "U6rmBn8AAQEAAAwfzxMAAAAm";
+    var start_time = "1403708934060523";
+    var req = ctx + "images/started.gif?id=" + unique_id + "&t=" + start_time;
+    getNewImage().src = req;
+</script>
+<!-- Facebook start -->
+<meta property="og:description" content="Get special discounts, lowered interest rates, lowered processing fees and save thousands on your home loan, personal loan and car loan only on BankBazaar.com">
+<!-- Facebook end -->
+</head>
+<body class="">
+<div id="fb-root"></div>
+<script type="text/javascript">
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '473486006089780', // app id as present in the fb developer dashboard.
+            status     : true, // check login status
+            cookie     : true, // enable cookies to allow the server to access the session
+            xfbml      : true,  // parse XFBML
+            oauth      : true
+        });
+    };
+
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<script type="text/javascript">
+    if (typeof _ga != "undefined") {
+        _ga.trackFacebook();
+    }
 </script>
 
-    
+<script type="text/javascript">
+    (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/client:plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+</script>
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript">
+    api_key: 77m6enmavtqgpa
+    authorize: true
+    onLoad: SocialLogin.LINKEDIN.init
+</script>
+
+<div id="wrapper" class=" marketplace
+      single-offer-page">
+    <div itemscope="" itemtype="//schema.org/Product">
+        <div class="bbheader">
+    <div class="bbheader-left">
+    <a class="bb_logo" href="/" title="Low Interest home loan, personal loans &amp; car loans from all banks in India">
+    </a>
+</div><div class="bbheader-right" id="bbheader-right">
+        <div class="bbheader-top">
+            <div class="dontshow fb-like-header lazy-load {src : '/social-tools/fb-like-header.html'}"></div>
+                <div id="login-status" class="inline-block">
+                <a href="javascript:void(0)" class="dropdown-toggle menu-login social-sign-in blockUIGeneral {defaultParam:'_592_auto_5pc_bd156_'}" executeafter="SocialLogin.init();" rel="#sign-in-box" data-toggle="modal" data-target="#sign-in-box">
+        Sign in
+    </a>
+    <input type="hidden" name="" value="false" id="logged-in-status"></div>
+        </div>
+        <div class="topnav">
+                <ul class="topmenu">
+                    <li class="dropdown first loan_link">
+                        <a href="/loan.html" target="_parent" class="first" title="Apply Loan Online">Loans</a>
+                        <ul class="dropdown-menu">
+                            <li class="pl_link"><a href="/personal-loan.html" title="Apply Personal Loan Online">Personal Loan</a></li>
+                            <li class="hl_link"><a href="/home-loan.html" title="Apply Home Loan Online">Home Loan</a></li>
+                            <li class="cl_link"><a href="/car-loan.html" title="Apply Car Loan Online">Car Loan</a></li>
+                            <li class="el_link"><a href="/education-loan.html" title="Apply Education Loan Online">Education Loan</a></li>
+                            <li class="cdl_link"><a href="/consumer-durable-loan.html" title="Consumer Durable Loans India">Consumer Durable Loan</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown cc_link">
+                        <a href="/credit-card.html" target="_parent" alt="Compare Credit Cards Offers &amp; Apply Online" title="Compare Credit Cards Offers &amp; Apply Online">Credit<br>Card</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/credit-card/airline-credit-cards.html" title="Compare Airline Credit Card Offers &amp; Apply Online">Airline Credit Cards</a></li>
+                            <li><a href="/credit-card/lifestyle-credit-cards.html" title="Compare Lifestyle Credit Card Offers &amp; Apply Online">Lifestyle Credit Cards</a></li>
+                            <li><a href="/credit-card/fuel-credit-cards.html" title="Compare Fuel Credit Card Offers &amp; Apply Online">Fuel Credit Cards</a></li>
+                            <li><a href="/credit-card/shopping-credit-cards.html" title="Compare Shopping And Cashback Credit Card Offers &amp; Apply Online">Shopping &amp; Cashback Credit Cards</a></li>
+                            <li><a href="/credit-card/premium-credit-cards.html" title="Compare Premium Credit Card Offers &amp; Apply Online">Premium Credit Cards</a></li>
+                            <li><a href="/american-express-credit-card.html" title="Apply AMEX Credit Card">American Express Credit Card</a></li>
+                            <li><a href="/axis-credit-card.html" title="Apply Axis Bank Credit Card">Axis Bank Credit Card</a></li>
+                            <li><a href="/citibank-credit-card.html" title="Apply Citi Bank Credit Card">Citibank Credit Card</a></li>
+                            <li><a href="/hdfc-credit-card.html" title="Apply HDFC Bank Credit Card">HDFC Bank Credit Card</a></li>
+                            <li><a href="/icici-credit-card.html" title="Apply ICICI Bank Credit Card">ICICI Bank Credit Card</a></li>
+                            <li><a href="/indusind-credit-card.html" title="Apply IndusInd Bank Credit Card">IndusInd Bank Credit Card</a></li>
+
+                        </ul>
+                    </li>
+                    <li class="dropdown fd_link">
+                        <a href="/fixed-deposit.html" alt="Appy &amp; Open FD Account Online" title="Appy &amp; Open FD Account Online">Fixed<br>Deposit</a>
+                        <ul class="dropdown-menu">
+                            <li class="best_fd_link"><a href="/fixed-deposit-rate.html" title="Know Best FD Rates for all the Banks">Best Fixed Deposit Rates</a></li>
+                            <li class="allahabad_fd_link"><a href="/fixed-deposit/allahabad-bank-fixed-deposit-rate.html" title="Open Allahabad Bank FD Account Online">Allahabad Bank FD Rates</a></li>
+                            <li class="andhra_fd_link"><a href="/fixed-deposit/andhra-bank-fixed-deposit-rate.html" title="Open Andhra Bank FD Account Online">Andhra Bank FD Rates</a></li>
+                            <li class="axis_fd_link"><a href="/fixed-deposit/axis-fixed-deposit-rate.html" title="Open Axis Bank FD Account Online">Axis Bank FD Rates</a></li>
+                            <li class="bob_fd_link"><a href="/fixed-deposit/bank-of-baroda-fixed-deposit-rate.html" title="Open Bank Of Baroda FD Account Online">Bank Of Baroda FD Rates</a></li>
+                            <li class="boi_fd_link"><a href="/fixed-deposit/bank-of-india-fixed-deposit-rate.html" title="Open Bank Of India FD Account Online">Bank Of India FD Rates</a></li>
+                            <li class="canara_fd_link"><a href="/fixed-deposit/canara-bank-fixed-deposit-rate.html" title="Open Canara Bank FD Account Online">Canara Bank FD Rates</a></li>
+                            <li class="cbi_fd_link"><a href="/fixed-deposit/central-bank-of-india-fixed-deposit-rate.html" title="Open Central Bank Of India Bank FD Account Online">Central Bank Of India FD Rates</a></li>
+                            <li class="citi_fd_link"><a href="/fixed-deposit/citibank-fixed-deposit-rate.html" title="Open Citibank Bank FD Account Online">Citibank FD Rates</a></li>
+                            <li class="hdfc_fd_link"><a href="/fixed-deposit/hdfc-fixed-deposit-rate.html" title="Open HDFC Bank FD Account Online">HDFC Bank FD Rates</a></li>
+                            <li class="hsbc_fd_link"><a href="/fixed-deposit/hsbc-fixed-deposit-rate.html" title="Open HSBC Bank FD Account Online">HSBC FD Rates</a></li>
+                            <li class="icici_fd_link"><a href="/fixed-deposit/icici-fixed-deposit-rate.html" title="Open ICICI Bank FD Account Online">ICICI Bank FD Rates</a></li>
+                            <li class="indus_fd_link"><a href="/fixed-deposit/indusind-fixed-deposit-rate.html" title="Open INDUSIND Bank FD Account Online">INDUSIND Bank FD Rates</a></li>
+                            <li class="indian_fd_link"><a href="/fixed-deposit/indian-bank-fixed-deposit-rate.html" title="Open Indian Bank FD Account Online">Indian Bank FD Rates</a></li>
+                            <li class="ing_fd_link"><a href="/fixed-deposit/ing-fixed-deposit-rate.html" title="Open ING Vysya Bank FD Account Online">ING Vysya Bank FD Rates</a></li>
+                            <li class="kyb_fd_link"><a href="/fixed-deposit/karur-vysya-bank-fixed-deposit-rate.html" title="Open Karur Vysya Bank FD Account Online">Karur Vysya Bank FD Rates</a></li>
+                            <li class="pnb_fd_link"><a href="/fixed-deposit/punjab-national-bank-fixed-deposit-rate.html" title="Open Punjab National Bank Bank FD Account Online">PNB FD Rates</a></li>
+                            <li class="sbi_fd_link"><a href="/fixed-deposit/sbi-fixed-deposit-rate.html" title="Open State Bank Of India Bank FD Account Online">SBI FD Rates</a></li>
+                            <li class="scb_fd_link"><a href="/fixed-deposit/standard-chartered-fixed-deposit-rate.html" title="Open Standard Chartered Bank FD Account Online">Standard Chartered Bank FD Rates</a></li>
+                            <li class="ubi_fd_link"><a href="/fixed-deposit/united-bank-fixed-deposit-rate.html" title="Open United Bank Of India Bank FD Account Online">UBI FD Rates</a></li>
+                            <li class="yes_fd_link"><a href="/fixed-deposit/yes-bank-fixed-deposit-rate.html" title="Open YES Bank FD Account Online">YES Bank FD Rates</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown in_link">
+                        <a href="/insurance/term-insurance.html" alt="Compare Insurance Plans Online" title="Compare Insurance Plans Online" target="_parent">Insurance</a>
+                        <ul class="dropdown-menu">
+                            <li class="tli_link"><a href="/insurance/term-insurance.html" title="Compare Life Insurance Plans &amp; Apply Online">Term Insurance</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown fin_link">
+                        <a href="/finance-tools/index.html" target="_parent" title="Finance Calculators Online">Finance <br>Tools</a>
+                        <ul class="dropdown-menu">
+                            <li class="emi_link"><a href="/finance-tools/emi-calculator.html" title="EMI Calculator">EMI Calculator</a></li>
+                            <li class="hl_fin_link"><a href="/finance-tools/refinance-calculator.html" title="Home Loan Refinance Calculator">Home Loan Refinance Calculator</a></li>
+                            <li class="sip_link"><a href="/finance-tools/sip-savings-calculator.html" title="SIP calculator">SIP calculator</a></li>
+                            <li class="lrt_link"><a href="/finance-tools/loan-repayment-tenure-calculator.html" title="Loan Repayment Tenure calculator">Loan Repayment Tenure calculator</a></li>
+                            <li class="cic_link"><a href="/finance-tools/compound-interest-calculator.html" title="Compound Interest Calculator">Compound Interest Calculator</a></li>
+                            <li class="rets_link"><a href="/finance-tools/retirement-savings-calculator.html" title="Retirement Savings Calculator">Retirement Savings Calculator</a></li>
+                            <li class="cl_emi_link"><a href="/finance-tools/car-loan-emi-calculator.html" title="Car Loan EMI Calculator">Car Loan EMI Calculator</a></li>
+                            <li class="hl_emi_link"><a href="/finance-tools/home-loan-emi-calculator.html" title="Home Loan EMI Calculator">Home Loan EMI Calculator</a></li>
+                            <li class="pl_emi_link"><a href="/finance-tools/personal-loan-emi-calculator.html" title="Personal Loan EMI Calculator">Personal Loan EMI Calculator</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown resource_link">
+                        <a target="_parent" title="Resources" href="javascript:void(0)">Resources</a>
+                        <ul class="dropdown-menu">
+                            <li class="guide_link"><a href="http://www.bankbazaar.com/guide/" title="Guide">Guide</a></li>
+                            <li class="forum_link"><a href="http://forums.bankbazaar.com/" title="Forum">Forum</a></li>
+                            <li class="randr_link"><a href="/reviews.html" title="Ratings &amp; Reviews">Ratings &amp; Reviews</a></li>
+                            <li class="reviewlink"><a href="/customer-review.html" title="Write a Review">Write a Review</a></li>
+                            <li class="ifsclink"><a href="/ifsc-code.html" title="Bank IFSC Code">Bank IFSC Code</a></li>
+                        </ul>
+                    </li>
+                    <li class="careers_link"><a href="/careers.html" title="Careers in Internet, Technology, Customer Support, Marketing, Ops, Sales">Careers</a></li>
+                    <li class="about_link"><a href="/aboutus.html" title="Know more about Bankbazaar">About Us</a></li>
+                    <li class="last">
+                        <div class="track-status">
+                            <div class="track-finder">
+                                <input id="track_app_id" type="text" class="track-finder-text italic-font" name="email" value="Enter application #" title="Enter application #" onkeydown="if (event.keyCode == 13) document.getElementById('track_app_button').click()">
+                                <input name="" type="button" value=" " class="gb track-finder-button" id="track_app_button">
+                            </div>
+                        </div>
+                        </li>
+                </ul>
+            </div>
+        </div>
+    <div class="bankf">
+        <img src="/images/bb-investors.png" alt="">
+    </div>
+    <div class="clear"></div>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link rel="shortcut icon" type="image/x-icon" href="/images/favicon-new-5.ico">
-<link rel="stylesheet" type="text/css" media="print,screen" href="/jawr/css/1586884467/bundles/main.css">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--[if IE]>
-<link rel="stylesheet" type="text/css" media="screen" href="/jawr/css/N891730612/bundles/ie.css" />
-
-<![endif]-->
-
-<!--[if lt IE 7]>
-<link rel="stylesheet" type="text/css" media="screen" href="/jawr/css/N2110627794/bundles/ie6.css" />
-
-<![endif]-->
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</head>
-<body>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--  body content -->
 <div id="page_holder">
-    <!--  header -->
-    <div id="hd">
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="gb headerbg">
-    <div class="logoHolder"><a href="/" class="gb bb_logo"></a></div>
-    
-<div class="dontshow facebook_holder" style="background-color:#fff;float:right;padding:3px 0 0 3px; width: 92px;text-align:right;margin-top:10px;margin-right:10px;overflow:hidden;">
-<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fbankbazaar&amp;layout=button_count&amp;show_faces=false&amp;width=200&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:21px;" allowtransparency="true"></iframe>
-  </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="navBar">
-    
-    
-    
-    
-        
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    <table>
-        <tbody><tr>
-            <td class="my_account"><a href="/myaccount.html">Your Account</a></td>
-            <td class="pl_link"><a href="http://www.bankbazaar.com/personal-loan.html">Personal Loan</a></td>
-            <td class="hl_link"><a href="http://www.bankbazaar.com/home-loan.html">Home Loan</a></td>
-            <td class="hlxfer_link"><a href="http://www.bankbazaar.com/home-loan.html?hltransfer=true">Home Loan Transfer</a></td>
-            <td class="cl_link"><a href="http://www.bankbazaar.com/car-loan.html">Car Loan</a></td>
-            <td class="lap_link"><a href="http://www.bankbazaar.com/loan-against-property.html">Loan Against Property</a></td>
-            <td class="fin_link"><a href="http://www.bankbazaar.com/finance-tools/index.html" target="_blank">Tools &amp; Calculators</a></td>
-            <td class="guide_link"><a href="/guide" target="_blank">Guide</a></td>
-            <td class="about_link"><a href="/aboutus.html">About Us</a></td>
-            <td class="user_login">
+            <div id="bd" class="clearfix">
+                <div class="bd-inner
                 
-                
-                    <a href="/login.html">Sign In</a>
-                
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+                ">
+                    <div id="content_block">
 
-    
+   <div class="privacy">
+
+    <h1>Privacy and Security Policy</h1>
+    <p>Date Last Revised: 21/03/2014</p>
+
+    <p>
+        By providing your number at BankBazaar.com you are authorizing BankBazaar &amp; it's representatives to give you
+        a call to offer you our services for the product you have opted for, imparting product knowledge, offering
+        promotional offers running on website &amp; offers offered by our partner banks. Irrespective of the fact that you
+        have registered yourself under DND or DNC service, you are still authorizing BankBazaar &amp; it's representatives
+        to give you a call for the above mentioned purposes till 45 days of leaving your number on our website. Also
+        based on your active opt-in you are open to receiving promotional offers from BankBazaar &amp; our partner banks.
+        Hence, there is no DNC check required for the number you have left on our website.
+
+    </p>
+
+    <div id="aae74e3b-c76e-4911-989d-afb62a926323" class="truste-seal">
+        <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/A-and-A-DUKAAN-FINANCIAL-SERVICES-PVT--LTD-/asc?rid=aae74e3b-c76e-4911-989d-afb62a926323"></script>
+        <a href="//privacy.truste.com/privacy-seal/A-and-A-DUKAAN-FINANCIAL-SERVICES-PVT--LTD-/validation?rid=92b63c66-5b91-4bcf-9074-643712576b71" title="TRUSTe online privacy certification" target="_blank">
+            <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/A-and-A-DUKAAN-FINANCIAL-SERVICES-PVT--LTD-/seal?rid=92b63c66-5b91-4bcf-9074-643712576b71" alt="TRUSTe online privacy certification">
+        </a>
+    </div>
+<p class="policy-seals">
+        BankBazaar.com is committed to maintaining the confidentiality, integrity and security of all the personal information of our users.
+        This Privacy &amp; Security Policy explains how we protect personal information provided through our websites such as <a href="http://www.bankbazaar.com">www.BankBazaar.com</a> &amp;
+        our other co-branded sites; <a href="http://chennaionline.bankbazaar.com">http://chennaionline.bankbazaar.com</a>, <a href="http://ndtvmoney.bankbazaar.com">http://ndtvmoney.bankbazaar.com</a>, <a href="http://economictimes.bankbazaar.com">http://economictimes.bankbazaar.com</a> (the "Sites") and how we use that information in connection with our service offered through the Site (the "Service").
+        "Personal information" for purposes of this Policy means information that identifies you, such as your name, address, phone number  or email address.
+    </p>
+    <p>
+        BankBazaar.com applies high privacy and security standards to protect your personal information.
+        We regularly re-evaluate our policies and adapt them as necessary to deal with new challenges.
+    </p>
+    <p>
+            BankBazaar.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with
+            <a href="http://www.truste.com/privacy-program-requirements/">TRUSTe's program requirements</a>
+            including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party,
+            is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+            If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@bankbazaar.com.
+            If you are not satisfied with our response you can contact TRUSTe <a href="https://feedback-form.truste.com/watchdog/request">here</a>. The TRUSTe program covers only information that is collected through the Web sites,
+            <a href="http://chennaionline.bankbazaar.com">http://chennaionline.bankbazaar.com</a>, <a href="http://ndtvmoney.bankbazaar.com">http://ndtvmoney.bankbazaar.com</a>, <a href="http://economictimes.bankbazaar.com">http://economictimes.bankbazaar.com</a>, <a href="http://www.bankbazaar.com">www.BankBazaar.com</a>
+            and does not cover information that may be collected through software downloaded from the site.
+        </p>
+    <p class="heading">
+        Your personal information will never be sold
+    </p>
+
+    <p>
+        We will not sell or rent your personal information to anyone, for any reason, at any time.
+        BankBazaar.com uses and discloses your personal information only as follows:
+    </p>
+        <ul>
+            <li>to analyze usage of the site and to improve the Service;</li>
+            <li>to send you any administrative notices, offer alerts and communications relevant to your use of the Service; </li>
+            <li>to enable you to apply for certain products and services for which you have chosen to apply; </li>
+            <li>for market research, project planning, troubleshooting issues, detecting and protecting against error, fraud or other criminal activity; </li>
+            <li>to third-party contractors that provide services to BankBazaar.com and are bound by these same privacy restrictions; </li>
+            <li>to enforce BankBazaar.com's Terms of Use; and </li>
+            <li>as otherwise set forth in this Privacy and Security Policy. </li>
+        </ul>
+
+    <p>
+        In the event that you access the Service as brought to you by one of our co-brand partners, through a co-branded URL,
+        your name, mail address, mobile number, date of birth, employment type, residency status, details of loan applied for and loan status
+        may be provided to that co-brand partner when your application is submitted and whenever the status of application is upated.
+        BankBazaar.com has a business relationship with these co-brand partners and you may not opt-out of sharing your information with these co-brand partners
+        if you have applied via a co-branded URL.
+    </p>
 
 
+    <p class="heading"> We limit the collection and use of personal information </p>
+
+    <p>
+        Certain areas and features of BankBazaar.com are available to you without the need to provide to us any information.
+        However, other features of the Site or the Service such as applying for a loan will require providing BankBazaar.com with details such as a your name,
+        email address, address, mobile #, PAN #, employment &amp; income details, personally identifying information about a potential co-loan applicant
+        (should you select this option), password and to participate on our forum boards, a username (collectively the "Registration Information").
+        In order to provide your bank statement or payslip electronically along with your loan application , you also must provide your third-party account credentials
+        ("Account Credentials") to allow BankBazaar.com to retrieve your account data at those other financial institutions ("Account Information") for your use.
+        Your Account Credentials are only used once to retrieve your bank statements/payslips and are not stored in our system.
+    </p>
+    <p>
+        From time to time we may request more personal information in order to provide you with other benefits of the Service.
+        In such instances, you will always be given the opportunity to provide or to decline to provide that information, and it will be used only for the stated purpose. BankBazaar.com may make anonymous or aggregate personal information and disclose such data only in a non-personally identifiable manner to:
+    </p>
+    <ul>
+        <li>Third parties for their marketing and promotional purposes, such as the number of users who applied for a loan; </li>
+        <li>Users of the Service for the purpose of comparing of their personal financial situation relative to the broader community.</li>
+    </ul>
+    <p>
+        Such information does not identify you individually. Access to your Registration Information, Account Information and any other personal information
+        you provide is strictly restricted and used only in accordance with specific internal procedures and safeguards governing access, in order to operate,
+        develop or improve the Service. We may also use third party service providers to help us provide the Service to you, such as sending e-mail messages on our
+        behalf or hosting and operating a particular feature or functionality of the Service. Our contracts with these third parties outline the appropriate use and
+        handling of your information and prohibit them from using any of your personal information for purposes unrelated to the product or service they're providing.
+        We require such third parties to maintain the confidentiality of the information we provide to them.
+    </p>
+
+    <p class="heading"> Changes to your registration information </p>
+
+    <p>
+       If your Registration Information provided when you applied for a product on Sites changes, you may update it whenever you apply for a new product
+        such as a loan via the Service. To review and update your personal information to ensure it is accurate while your application is in process, contact us at
+        support@bankbazaar.com. You will not be able to update the information you have provided in an application after a decision has already been made on it;
+        however you may create and submit a new application with your updated information.
+    </p>
+
+    <p>
+        We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@bankbazaar.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+    </p>
+
+    <p class="heading"> Session information is only used to improve your experience on the site </p>
+
+    <p>
+        When you visit BankBazaar.com, we may collect technical and navigational information, such as operating system type, browser type, IP address,
+        pages visited, and average time spent on our Site. This information may be used, for example, to alert you to potential software compatibility issues,
+        or it may be analyzed to improve the Site.
+    </p>
+    <p>
+        "Cookies" are alphanumeric identifiers in the form of text files that are inserted and stored by your Web browser on your computer's hard drive.
+        BankBazaar.com may set and access cookies on your computer to track and store preferential information about you.
+        For example, BankBazaar.com may assign a cookie to you, to enable you to adjust your loan search preferences without needing to re-enter your information.
+        Please note that almost all Internet browsers will allow you to delete cookies stored on your computer and to stop cookies from being stored on your computer.
+        If you choose to eliminate cookies, the full functionality of the Service will be impaired for you.
+    </p>
+    <p>
+        We encrypt our cookies so that only we can interpret them.
+    </p>
+    <p>
+        Web beacons are images embedded in a Web page or email for the purpose of measuring and analyzing site usage and activity.
+        BankBazaar.com, or third party service providers acting on our behalf, may use Web beacons to help us study Site usage and improve the Service.
+    </p>
+    <p>
+        We use Google Analytics, a third-party tracking service, which uses cookies to track non-personal information about our visitors to our site in the aggregate to capture usage and
+        volume statistics. Some of our business partners (e.g., Google Analytics) use cookies on our site. We have no access to or control over these cookies.
+        This privacy policy covers the use of cookies by BankBazaar.com only and does not cover the use of cookies by any third-party.
+    </p>
+    <p>
+        We may use additional third party service providers to help analyze certain online activities. We may permit these service providers to use cookies and other technologies to perform these services for BankBazaar.com.
+        We do not share personal information of our customers with these service providers, and they do not collect such information on our behalf. Our third party service providers are required to comply fully with this Privacy and
+        Security Policy.
+    </p>
+
+    <p class="heading">
+        Behavioral Targeting / Re-Targeting
+    </p>
+
+    <p>
+        We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/">Here</a>.  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+    </p>
+
+    <p>
+        We use Google AdSense to publish ads on this site.  When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites.   You may opt-out of the use of this cookie by visiting Google's Advertising and Privacy page: http://www.google.com/privacy_ads.html
+    </p>
+
+    <p class="heading">
+        Third parties will not be given your personal information unless you ask us to do so
+    </p>
+
+    <p>
+        There are a number of products and services, such as loans, credit cards &amp; insurance, offered by third parties on our Site, such as lenders, banks,
+        credit card issuers, insurers and brokerage institutions (collectively, "BankBazaar.com Offers"). If you choose to apply for these separate products or services,
+        disclose information to the providers, or grant them permission to collect information about you, then their use of your information is governed by
+        their privacy policies. You should evaluate the practices of these external services providers before deciding to use their services.
+        BankBazaar.com is not responsible for their privacy practices.
+    </p>
+
+<p class="heading">
+        Testimonials, Blogs and other forums on BankBazaar.com
+    </p>
+
+    <p>
+        With your consent we may post your testimonial along with your name.  If you want your testimonial removed please contact us at support@bankbazaar.com.
+    </p>
+    <p>
+        If you use a blog or other public forum on our Site, any information you submit there can be read, collected or used by other users and could be used to send you unsolicited messages.
+        We are not responsible for the personal information you choose to submit in these forums. These forums may be hosted by BankBazaar.com or by one of our
+        third party service providers on BankBazaar.com's behalf. <i>To request removal of your personal information from our blog or community forum, contact us at support@bankbazaar.com.</i>  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+    </p>
+
+<p class="heading">
+        Additional Policy Information
+    </p>
+    <p>
+    <strong>Widgets</strong>
+    Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company
+        (e.g. displaying the news, opinions, music, etc).  Personal information, such as your email address, may be collected through the Widget.
+        Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company
+        that created it
+    </p>
+
+    <p>
+    <strong>Facebook, Twitter, &amp; Other Social Networking Media</strong>
+    You can link to our site using social networking services such as Facebook &amp; Twitter.
+        These services will authenticate your identity and provide you the option to share certain personal information with us such as your sign-in information,
+        name and email address to link between the sites. Social networking media services like Facebook &amp; Twitter give you the option to post information about your
+        activities on this Web site to your profile page to share with others within your network.
+    </p>
+
+    <p>
+    <strong>Like Button</strong>
+            If you use the "Like" button to share something, that item will appear on your Facebook profile page and also on your friends' newsfeed,
+            depending on your Facebook privacy settings.  You may also receive updates in your Facebook newsfeed from this site or item in the future.
+            Facebook also collects information such as which pages you have visited on this and other sites that have implemented the "Like" button.
+        </p>
+    <p>
+        Links to 3rd Party Sites Our Site includes links to other Web sites whose privacy practices may differ from those of BankBazaar.com. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+    </p>
+
+  <p class="heading">
+        Disclosure of your information to protect our rights or if required by law
+    </p>
+    <p>
+        Notwithstanding the foregoing, BankBazaar.com reserves the right (and you authorize BankBazaar.com) to share or disclose your personal information when
+        BankBazaar.com determines, in its sole discretion, that the disclosure of such information is necessary or appropriate:
+    </p>
+    <ul>
+        <li>as required by law, such as to comply with a subpoena, or similar legal process </li>
+        <li>when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,</li>
+        <li>if BankBazaar.com is involved in a merger, acquisition, or sale of all or a portion of its assets,  you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,</li>
+        <li>to any other third party with your prior consent to do so.</li>
+    </ul>
+
+    <p class="heading">
+        Email &amp; SMS communications from us
+    </p>
+    <p>
+        We provide our registered customers with periodic emailers and email/SMS alerts. We also allow users to subscribe to email newsletters and from time to time may transmit emails promoting BankBazaar.com or third-party goods or services.
+        BankBazaar.com subscribers may opt-out of receiving our promotional emails and terminate their newsletter subscriptions by following the instructions in the emails. Opting out in this manner will not end transmission of service-related emails/SMS, such as email/SMS alerts.
+    </p>
+
+     <p class="heading">
+        We keep your data secure
+    </p>
+    <p>
+        We use a combination of firewalls, encryption techniques and authentication procedures, among others, to maintain the security of your online session and to protect BankBazaar.com accounts and systems from unauthorized access.
+    </p>
+    <p>
+        When you register for the Service, BankBazaar.com requires a password from you for your privacy and security. BankBazaar.com transmits information such as your Registration Information for BankBazaar.com or Account Credentials securely.
+    </p>
+    <p>
+        Our servers are in secure facilities where access requires multiple levels of authentication, including an identity card and biometrics recognition procedures. Security personnel monitor the facilities 7 days a week, 24 hours a day.
+    </p>
+    <p>
+        Our databases are protected from general employee access both physically and logically. We encrypt your Service password so that your password cannot be recovered, even by us. All backup drives and tapes also are encrypted.
+    </p>
+    <p>
+        We enforce physical access controls to our buildings.
+    </p>
+    <p>
+        No employee may put any sensitive content on any insecure machine (i.e., nothing can be taken from the database and put on an insecure laptop).
+    </p>
+    <p>
+        BankBazaar.com has been verified for its use of SSL encryption technologies and audited by TRUSTe for its privacy practices. In addition, BankBazaar.com tests the Site using Acunetix scan for any failure points that would allow hacking.
+    </p>
+    <p>
+        However, it is important to understand that these precautions apply only to our Site and systems.
+    </p>
+
+    <p class="heading">
+        All private information is encrypted and communicated securely
+    </p>
+    <p>
+        All communications between your computer and BankBazaar.com that contain any personal information are encrypted. This enables client and server applications to communicate in a way that is designed to prevent eavesdropping, tampering and message forgery.
+    </p>
+
+<p class="heading">
+        You are responsible for maintaining the confidentiality of your login id and password
+    </p>
+    <p>
+        You are responsible for maintaining the security of your Login ID and Password, and may not provide these credentials to any third party. If you believe that they have been stolen or been made known to others, you must contact us immediately at privacy@bankbazaar.com. We are not responsible if someone else accesses your account through Registration Information they have obtained from you or through a violation by you of this Privacy and Security Policy or the BankBazaar.com Terms of Use.
+    </p>
+    <p>
+        If you have any security related concern, please contact us at privacy@bankbazaar.com. We will work closely with you to ensure a rapid and personal response to your concerns.
+    </p>
+
+<p class="heading">
+        Whenever there is a change to our Privacy and Security Policy we post updates on our website
+    </p>
+    <p>
+        We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+    </p>
+
+    <p class="heading">
+    Contact us with any questions or concerns
+    </p>
+
+    <p>
+        If you have questions, comments, concerns or feedback regarding this Privacy and Security Policy or any other privacy or security concern, send an e-mail to privacy@bankbazaar.com.
+    </p>
+    <p>
+        BankBazaar.com (A &amp; A Dukaan Financial Services Private Limited),<br>
+        3rd Floor, Hameedia Center,<br>
+        14/43 Haddows Road, Nungambakkam,<br>
+        Chennai - 600006,India</p>
+
+    <p>
+      Phone: +91-44-66511800-99
+    </p>
+    <p>&nbsp;</p>
 
 
+   </div>
 
+</div><div class="clear"></div>
+                </div>
+            </div>
+        </div>
 
+        <div class="bbfooter">
+            <div class="footer-inner">
+                <div id="common-footer">
+    <div class="newfooter newfooter_bg">
 
+        <ul>
+            <li><h2><a href="/">Loan</a></h2></li>
+            <li><a href="/personal-loan.html">Personal Loan</a></li>
+            <li><a href="/home-loan.html">Home Loan</a></li>
+            <li><a href="/home-loan.html?hltransfer=true">Home Loan Transfer</a></li>
+            <li><a href="/car-loan.html">Car Loan</a></li>
+            <li><a href="/credit-card.html">Credit Card</a></li>
+        </ul>
 
+        <ul>
+            <li><h2><a href="/finance-tools/index.html">Loan Calculators</a></h2></li>
+            <li><a href="/finance-tools/emi-calculator.html">Loan EMI Calculator</a></li>
+            <li><a href="/finance-tools/refinance-calculator.html">Home Loan Refinance Calculator</a></li>
+            <li><a href="/finance-tools/loan-repayment-tenure-calculator.html">Loan Repayment Calculator</a>
+            </li>
+            <li><a href="/finance-tools/retirement-savings-calculator.html">Retirement Calculator</a></li>
+            <li><a href="/finance-tools/compound-interest-calculator.html">Compound Interest Calculator</a></li>
+            <li><a href="/finance-tools/sip-savings-calculator.html">Savings Goal Calculator</a></li>
+        </ul>
 
+        <ul>
+            <li><h2><a href="/finance-tools/emi-calculator.html">Loan EMI Calculator</a></h2></li>
+            <li><a href="/personal-loan-emi-calculator.html">Personal Loan EMI Calculator</a></li>
+            <li><a href="/home-loan-emi-calculator.html">Home Loan EMI Calculator</a></li>
+            <li><a href="/car-loan-emi-calculator.html">Car Loan EMI Calculator</a></li>
+        </ul>
 
+        <ul>
+            <li><h2>Other</h2></li>
+            <li><a href="https://associates.bankbazaar.com/" target="_blank">BankBazaar Associates
+                    Program</a></li>
+            <li><a href="/guide">Guide</a></li>
+            <li><a href="/conditionsofuse.html">Conditions of Use </a></li>
+            <li><a href="/careers.html">Careers at BankBazaar.com</a></li>
+            <li><a href="/privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="/sitemap.html">HTML Sitemap</a></li>
+            <li><a href="/car-loan-sitemap.html">Car Loan Sitemap</a></li>
+            <li><a href="/home-loan-sitemap.html">Home Loan Sitemap</a></li>
+            <li><a href="/education-loan-sitemap.html">Education Loan Sitemap</a></li>
+            <li><a href="/personal-loan-sitemap.html">Personal Loan Sitemap</a></li>
+            <li><a href="/credit-card-sitemap.html">Credit Card Sitemap</a></li>
+            <li><a href="/ifsc-sitemap.html">IFSC Code Sitemap</a></li>
+            <li><a href="/fixed-deposit-sitemap.html">Fixed Deposit Sitemap</a></li>
+            <li><a href="/insurance-sitemap.html">Insurance Sitemap</a></li>
+        </ul>
+        <div class="clear"></div>
 
+        <div class="clr ft-secure-seal">
+            <span class="ft-seals lazy-load {src : '/security-seals.html'}"></span>
+                           <span class="bb-ft-copyinfo"> ©
+                               2014 &nbsp;
+                               <a href="http://www.bankbazaar.com/" class="gb bb_logo_ft"></a>&nbsp;&nbsp;All Rights Reserved.</span>
+        </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        <div class="clear"></div>
+    </div>
 <div class="dontshow SuggestSuccess">
     Thank you for the feedback.
 </div>
-
-<div class="gb feedback_button" id="fform">
+<div class="feedback_button blockUIGeneral {css: { width:'495px', height:'310px', top:'20%', left:'35%'}}" rel="div.suggest" id="fform" executebefore="showFeedbackForm()">
 
 </div>
 
+<script type="text/javascript">
+    var RecaptchaOptions = {
+        theme: 'custom',
+        custom_theme_widget: 'recaptcha_widget'
+    };
+</script>
+
 <div class="dontshow suggest emailOfferForm">
 
-    <div class="blueHeader" style="height:20px;">
-        <span style="float:left;">Make a suggestion or report a bug</span>
-        <label style="float:right;">
-            <a href="#" class="close">
-                <span name="closeimgName" class="gb img_close"> </span>
-            </a>
-        </label>
+    <div class="blueHeader">
+        <span class="float_left">Make a suggestion or report a bug</span>
+        <a href="javascript:void(0)" class="float_right gb close img_close"></a>
     </div>
-    <div class="efContent" style="padding-left:12px; margin-top:10px;">
+    <div class="efContent">
         <form action="/feedback.html" id="feedbackForm" method="post">
-            <input type="text" name="checkCheck" value="" id="checkCheck" class="dontshow">
-
-
-            <ul>
+            <input type="text" name="checkCheck" value="" id="checkCheck" class="dontshow"><ul>
                 <li>
-                    <div class="label"></div>
-                    <input type="text" name="suggestbox_email" value="" id="suggest_email" title="Enter your email address ">
-
-
-                    <span class="gb likeus">
+                    <input type="text" name="suggestbox_email" value="Enter your email address " id="suggest_email" title="Enter your email address " onfocus="if (this.value == this.title) {this.value='';} return false;" onblur="if(this.value == '') { this.value=this.title }"><span class="gb likeus">
                         <span class="float_left">Like us? Spread the word</span>
-                        <span class="float_left" style="padding-left: 10px; padding-top: 4px;"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fbankbazaar&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe></span>
+                        <div class="dontshow fb-like-header lazy-load {src : '/social-tools/fb-like-header.html'}"></div>
                     </span>
                 </li>
                 <li>
-                    <div class="label"></div>
-                    <textarea name="feedbackcontent" cols="" rows="" id="feedbackcontent"></textarea>
-                </li>
-                <li style="margin-top:5px;">
-                    <div class="label"></div>
+                    <textarea name="feedbackcontent" cols="" rows="" id="feedbackcontent"></textarea></li>
+                <li>
+                    <div id="recaptcha_widget" style="display:none;">
+    <div>
+        <div class="image_holder">
+            <div id="recaptcha_image"></div>
+            <div class="recaptcha_only_if_incorrect_sol">Incorrect please try again</div>
+            <div class="recaptcha_image_fld">
+                <span class="recaptcha_only_if_image">Enter the words above:</span>
+                <span class="recaptcha_only_if_audio">Enter the numbers you hear:</span>
+
+                <input type="text" id="recaptcha_response_field" name="recaptcha_response_field" class="required">
+
+            </div>
+        </div>
+        <div class="recaptcha_actions">
+            <div>
+                <a href="javascript:Recaptcha.reload()" class="captcha refresh"></a>
+            </div>
+            <div class="recaptcha_only_if_image">
+                <a href="javascript:Recaptcha.switch_type('audio')" class="captcha audio"></a>
+            </div>
+            <div class="recaptcha_only_if_audio">
+                <a href="javascript:Recaptcha.switch_type('image')" class="captcha text"></a>
+            </div>
+            <div>
+                <a href="javascript:Recaptcha.showhelp()" class="captcha help"></a>
+            </div>
+        </div>
+        <div class="clr"></div>
+    </div>
+</div>
+
+<script type="text/javascript" src="https://www.google.com/recaptcha/api/challenge?k=6LdV9_ASAAAAAC5_8O9yw6pBF4ylEA8DN27Bz72M">
+</script>
+<noscript>
+    <iframe src="https://www.google.com/recaptcha/api/noscript?k=6LdV9_ASAAAAAC5_8O9yw6pBF4ylEA8DN27Bz72M"
+            height="300" width="500" frameborder="0"></iframe>
+    <br>
+    <textarea name="recaptcha_challenge_field" rows="3" cols="40">
+    </textarea>
+    <input type="hidden" name="recaptcha_response_field"
+           value="manual_challenge">
+</noscript>
+</li>
+                <li class="mar">
                     <div class="fb_share">
-                        Broadcast your feedback via 
-	
-    
-    
-
-<input type="checkbox" name="fb" value="true" id="fb">
-<input type="hidden" name="__checkbox_fb" value="true"> <label for="fb" class="checkboxLabel"><span class="gb facebook_icon"></span> Facebook</label> 
-
-
-
-                        
-	
-    
-    
-
-<input type="checkbox" name="tweet" value="true" id="tweet">
-<input type="hidden" name="__checkbox_tweet" value="true"> <label for="tweet" class="checkboxLabel"><span class="gb twitter_icon"></span> Twitter</label> 
-
-
-
-
+                        Broadcast your feedback via
+                        <input type="checkbox" name="fb" value="true" id="fb"><input type="hidden" id="__checkbox_fb" name="__checkbox_fb" value="true"><span class="gb follow-fb"></span> Facebook
+                        <input type="checkbox" name="tweet" value="true" id="tweet"><input type="hidden" id="__checkbox_tweet" name="__checkbox_tweet" value="true"><span class="gb follow-tweet"></span> Twitter
                     </div>
                 </li>
                 <li>
-                    <div style="padding-top:5px;text-align:center;vertical-align:middle;">
-                        <button type="submit" align="middle" value="submit" class="gb img_submit"></button>
-                        <span style="vertical-align:middle;">or</span>
-                        <span class="blueText cancelBtn" style="vertical-align:middle;"><a href="#" class="close">Cancel</a></span>
+                    <div class="fb_share_button">
+                        <button type="submit" value="submit" class="gb img_submit valign-middle"></button>
+                        <span class="valign-middle">or</span>
+                        <span class="blueText cancelBtn valign-middle"><a href="javascript:void(0)" class="close">Cancel</a></span>
                     </div>
 
                 </li>
@@ -516,361 +869,254 @@
                 </li>
             </ul>
         </form>
-    </div>
-</div>
-
-
-
-
-        <!-- end of header -->
-    </div>
-    <!--  content begins here -->
-    <div id="bd" class="clr">
-        <div id="content_block">
-
-    <h1>Privacy Policy</h1>
-
-    <p>
-        <span class="privacy-secure-seal">
-            <a href="//privacy-policy.truste.com/click-with-confidence/ctv/en/www.bankbazaar.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank"><img style="border:" none"="" src="//privacy-policy.truste.com/certified-seal/ctv/en/www.bankbazaar.com/seal_m.png" alt="Validate TRUSTe privacy certification"></a>
-        </span>
-        BankBazaar is a financial services marketplace that saves you time and money. We take your privacy seriously and do not share your personal information
-        with other people or non-affiliated companies except to provide services you've requested (for example: if you wish to apply for a loan, we will submit
-        your loan application form to the bank you wish to apply to), when we have your permission, or under the following circumstances:
-    </p>
-    <ul>
-        <li>
-            BankBazaar may disclose to authorized law enforcement personnel the personal data from anyone who poses a threat to our interests. This might
-            include those that are attempting to commit fraud or those who conduct activities that could bring harm to others. We assume that this is not you so
-            please don't worry.
-        </li>
-
-        <li>
-            We transfer your information if BankBazaar is acquired by or merged with another company. In this event, BankBazaar will notify you before
-            information about you is transferred and becomes subject to a different privacy policy.
-        </li>
-    </ul>
-
-    <p>
-        Note: When you apply for a loan, insurance or credit card product with any of our partners, the information in your application form will becomes
-        subject to that partner's privacy policy, which may differ from BankBazaar's privacy policy. We encourage you to read the privacy policies of our
-        partners.
-    </p>
-
-    <p class="heading">
-        Information We Collect and How It Is Used
-    </p>
-
-    <p>
-        BankBazaar collects personal information when you register with BankBazaar, when you apply for any product on BankBazaar and when you visit BankBazaar
-        pages or the pages of certain BankBazaar partners. BankBazaar automatically receives and records information from your computer and browser, including
-        your IP address, BankBazaar cookie information, software and hardware attributes, and the page you request. BankBazaar uses information for the
-        following general purposes: to customize the offers you are shown, enable your application, improve our services, contact you, conduct research, and
-        provide anonymous reporting for internal and external clients.
-    </p>
-
-    <p class="heading"> Cookies </p>
-
-    <p>
-        When you visit BankBazaar we may store information about your web session and assign you 'cookies'. Your browser will store these cookies on your
-        computer in a small text file. For example, when you decide to login as a BankBazaar customer, we store encrypted information in your browser so you
-        don't have to login on every page.Permanent cookie files remain on your computer's hard drive until you delete them manually using your browser or
-        operating system software. You can enable your browser to refuse cookies, but doing so may disable access to some services (for example: you will not be
-        able to apply for a loan if you disable your cookies) and tools that we offer.
-    </p>
-
-    <p class="heading"> Our Communication Policy </p>
-
-    <p>
-        BankBazaar gives you the option of receiving notifications (for example: an update when your loan is approved) and offers from us via emails and SMS.
-        Our emails are sent from a BankBazaar address.
-    </p>
-
-    <p class="heading"> Safeguarding Your Information </p>
-
-    <p>
-        We have a very sophisticated security program that safeguards the information stored in our systems and protects it from unauthorized access. Our
-        systems are configured with data encryption technologies and firewalls that meet the highest industry standards. Your information is stored in secure
-        data centers located in India. We also use Secure Socket Layer (SSL) technology to protect the data you send over the Internet. In summary, we use the
-        world's best technologies to safeguard your data.
-    </p>
-
-    <p class="heading">
-        Changes to this Privacy Policy
-    </p>
-
-    <p>
-        BankBazaar may update this policy from time to time. We will notify you about significant changes in the way we treat personal information by placing a
-        notice on our site.
-    </p>
-    <ul>
-        <p></p>
-    </ul>
-
-</div>
         <br class="clr">
     </div>
-    <!-- body content ends here -->
-    <div id="ft" class="clr">
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="loans_sprite newfooter newfooter_bg">
-
-    <ul>
-        <li><h2>Interest Rates</h2></li>
-        <li><a href="/home-loan-interest-rate.html">Home Loan Interest Rate</a></li>
-        <li><a href="/car-loan-interest-rate.html">Car Loan Interest Rate</a></li>
-        <li><a href="/personal-loan-interest-rate.html">Personal Loan Interest Rate</a></li>
-    </ul>
-
-    <ul>
-        <li><h2>Loan Calculators</h2></li>
-        <li><a href="/finance-tools/emi-calculator.html">Loan EMI Calculator</a></li>
-        <li><a href="/finance-tools/refinance-calculator.html">Home Loan Refinance Calculator</a></li>
-        <li><a href="/finance-tools/loan-repayment-tenure-calculator.html">Loan Repayment Calculator</a></li>
-        <li><a href="/finance-tools/retirement-savings-calculator.html">Retirement Calculator</a></li>
-        <li><a href="/finance-tools/compound-interest-calculator.html">Compound Interest Calculator</a></li>
-        <li><a href="/finance-tools/sip-savings-calculator.html">Savings Goal Calculator</a></li>
-    </ul>
-
-    
-        <ul>
-            <li><h2>Personal Loans</h2></li>
-            <li><a href="/hdfc-personal-loan.html">HDFC Bank Personal Loan</a></li>
-            <li><a href="/axis-personal-loan.html">Axis Personal Loan</a></li>
-            <li><a href="/icici-personal-loan.html">ICICI Personal Loan</a></li>
-            <li><a href="/fullerton-personal-loan.html">Fullerton Personal Loan</a></li>
-            <li><a href="/citifinancial-personal-loan.html">CitiFinancial Personal Loan</a></li>
-            <li><a href="/sbi-personal-loan.html">SBI Personal Loan</a></li>
-        </ul>
-
-        <ul>
-            <li><h2>Home Loans</h2></li>
-            <li><a href="/hdfc-home-loan.html">HDFC Home Loan</a></li>
-            <li><a href="/icici-home-loan.html">ICICI Home Loan</a></li>
-            <li><a href="/axis-home-loan.html">Axis Home Loan</a></li>
-            <li><a href="/sbi-home-loan.html">SBI Home Loan</a></li>
-            
-            <li><a href="/idbi-home-loan.html">IDBI Home Loan</a></li>
-            <li><a href="/lic-home-loan.html">LIC Home Loan</a></li>
-            <li>&nbsp;</li>
-        </ul>
-
-        <ul>
-            <li><h2>Car Loans</h2></li>
-            <li><a href="/hdfc-car-loan.html">HDFC Bank Car Loan</a></li>
-            <li><a href="/icici-car-loan.html">ICICI Car Loan</a></li>
-            <li><a href="/sbi-car-loan.html">SBI Car Loan</a></li>
-            <li><a href="/axis-car-loan.html">Axis Car Loan</a></li>
-            <li><a href="/reliance-car-loan.html">Reliance Car Loan</a></li>
-        </ul>
-    
-
-    <ul>
-        <li><h2>Loans</h2></li>
-        <li><a href="/personal-loan.html">Personal Loan</a></li>
-        <li><a href="/home-loan.html">Home Loan</a></li>
-        <li><a href="/home-loan.html?hltransfer=true">Home Loan Transfer</a></li>
-        <li><a href="/car-loan.html">Car Loan</a></li>
-        <li><a href="/credit-card.html">Credit Card</a></li>
-        <li><a href="/loan-against-property.html">Loan Against Property</a></li>
-    </ul>
-
-    <ul>
-        <li><h2>Loan EMI Calculators</h2></li>
-        <li><a href="/personal-loan-emi-calculator.html">Personal Loan EMI Calculator</a></li>
-        <li><a href="/home-loan-emi-calculator.html">Home Loan EMI Calculator</a></li>
-        <li><a href="/car-loan-emi-calculator.html">Car Loan EMI Calculator</a></li>
-    </ul>
-
-    <ul>
-        <li><h2>Other</h2></li>
-        <li><a href="/guide">Guide</a></li>
-        <li><a href="/conditionsofuse.html">Conditions of Use </a></li>
-        
-        <li><a href="/careers.html">Careers at BankBazaar.com</a></li>
-        <li><a href="/privacy-policy.html">Privacy Policy</a></li>
-    </ul>
-    <br class="clr">
-
-    <div class="clr width100">
-        <p class="footer_logo">
-
-            
-            
-            
-                
-                <a class="vrsn_lnk" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.bankbazaar.com&amp;lang=en" target="_blank"><span class="loans_sprite ft_veriSign"></span></a>
-            
-
-            <a target="_blank" title="TRUSTe online privacy certification" href="//privacy-policy.truste.com/click-with-confidence/wps/en/www.bankbazaar.com/seal_m/" class="truste-seal-ft"><img alt="TRUSTe online privacy certification" src="//privacy-policy.truste.com/certified-seal/wps/en/www.bankbazaar.com/seal_m.png" style="border: medium none;"></a>
-
-            <a class="mcafee_secure" target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.bankbazaar.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.bankbazaar.com/61.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>    
-
-            © 2010 <a href="http://www.bankbazaar.com/"><span class="loans_sprite ft_logo"></span></a>
-        </p>
-    </div>
-
-    <br class="clr">
 </div>
-<!-- -->
-
-    </div>
+</div>
+<input type="hidden" id="showFbGplusLayover" value="false">
+<input type="hidden" id="fBLayover_StartTime" value="0">
+</div>
+        </div>
+        </div>
+</div>
+  <div style="display: none" class="preload-image">
+    <img src="//dvlv8cymbx5mz.cloudfront.net/images/bb-logo-new-v2.png" alt="">
+    <img src="//dvlv8cymbx5mz.cloudfront.net/images/bank-logo-v22.png" alt="">
+    <img src="//dvlv8cymbx5mz.cloudfront.net/images/car-strip.jpg" alt="">
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    <script type="text/javascript" src="/jawr/js/N810941180/bundles/main.js"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div class="dontshow">
+<div id="sign-in-box">
+    <div class="sign-in-box">
+        <a href="javascript:void(0)" class="close sign-in-close"></a>
+        <div class="sign-in-title">Sign in</div>
+        <div class="sign-in-subtitle">Great to connect with you!</div>
+
+        <a class="sign-in-link-bg sign-in-google" alt="" href="javascript:void(0)">Sign in with Google</a>
+        <div class="centered">
+            <a class="sign-in-link-bg sign-in-fb" href="javascript:void(0)">Facebook</a>
+<a class="sign-in-link-bg sign-in-linked" href="javascript:void(0)">LinkedIn</a>
+</div>
+    </div>
+</div>
+</div><script type="text/javascript" src="/1403474897667/jawr_loader.js"></script>
+<script type="text/javascript">
+    JAWR.loader.getURLs = function (path, ptype) {
+        var paths = [];
+        var type = ptype;
+        if (ptype == null) {
+            type = 'js';        //settting JS as default type
+        }
+        var bundles = [];
+        if (type.toString().toLowerCase() == 'css') {
+            bundles = this.cssbundles;
+        }
+        if (type.toString().toLowerCase() == 'js') {
+            bundles = this.jsbundles
+        }
+        var mappingToUse = this.mapping;
+        for (var x = 0; x < bundles.length; x++) {
+            var bundle = bundles[x];
+            if (bundle.belongsToBundle(path) && !this.usedBundles[bundle.name]) {
+                this.usedBundles[bundle.name] = true;
+                var pathtoRender;
+                if (isJawrDebug() && isDevelopmentEnv()) {
+                    pathtoRender = bundle.itemPathList;
+                    paths = paths.concat(pathtoRender);
+                } else {
+                    pathtoRender = bundle.alternateProductionURL ? bundle.alternateProductionURL : this.normalizePath(mappingToUse + '/' + bundle.prefix + bundle.name);
+                    if (typeof pathtoRender != undefined) {
+                        /*Replacing both http and https to use // to use the page's security  protocol*/
+                        pathtoRender = pathtoRender.replace(/http:\/\//gi, "//");
+                        pathtoRender = pathtoRender.replace(/https:\/\//gi, "//");
+                        paths.push(pathtoRender);
+                    }
+                }
+            }
+        }
+        return paths;
+    }
+
+</script><input type="hidden" name="isTrackingRequired" value="false" id="isTrackingRequired"><script type="text/javascript" src="http://dvlv8cymbx5mz.cloudfront.net/N2010838975/bundles/site-wide.js"></script>
+<script type="text/javascript" src="http://dvlv8cymbx5mz.cloudfront.net/N222780046/bundles/site-wide-lazy.js"></script>
+<div class="lazyloadcss" rel="/bundles/lazyLoadImages.css"></div>
+<input type="hidden" name="" value="4DC16075FA1EDF75A68A3BF83FE3B39D.bankbazaar2" id="sessionId"><input type="hidden" name="" value="" id="propertyCity"><input type="hidden" name="" value="" id="mcIdVal"><script type="text/javascript">
+isMobileReceived = 'false';
+mcId = "";
+product = '';
+pTypeId = '97';
+</script>
+<script type="text/javascript">
+
+    var sokrati_tracked = 'false';
+
+    _sokClient = '124';
+    var sokrati = {
+        init:function() {
+            sokrati.randomGen = 72008010;
+            protocol = ("https:" == document.location.protocol) ? "https:" : "http:";
+            sokrati.url = protocol + "//tracking.sokrati.com/";
+            sokrati.base = "res=" + screen.width + "x" + screen.height + "&lang=" + (navigator.language || navigator.browserLanguage).substr(0, 2);
+            sokrati.base += "&client_id=" + _sokClient;
+            sokrati.delay = 500;
+            if (typeof _sokDelay != 'undefined') sokrati.delay = _sokDelay;
+        },_pause:function(x) {
+            var delay = (x || 300);
+            if (delay < 300)delay = 300;
+            var now = new Date();
+            var stop = now.getTime() + delay;
+            while (now.getTime() < stop) var now = new Date();
+        },_beacon:function(control, x, sokParams) {
+            if (x) {
+                var paramStr = "";
+                for (var key in sokParams) {
+                    paramStr = paramStr + "&" + escape(key) + "=" + escape(sokParams[key]);
+                }
+                var img = new Image(1, 1);
+                img.src = sokrati.url + control + sokrati.base + x + "&_ur=" + Math.round(Math.random() * sokrati.randomGen) + "&_ref=" + escape(document.referrer) + paramStr;
+                img.onload = function() {
+                    return;
+                }
+            }
+        }, beacon:function(pg, id) {
+            sokrati._beacon("site?", "&product_category=" + pg + "&item_identifier=" + id, {});
+        }, beaconParams:function(pg, id, params) {
+            sokrati._beacon("site?", "&product_category=" + pg + "&item_identifier=" + id, params);
+        }, track:function(pg, id) {
+            sokrati._beacon("lead?", "&product_category=" + pg + "&item_identifier=" + id, _sokParams);
+            _sokParams = {}
+        }, trackParams:function(pg, id, params) {
+            sokrati._beacon("lead?", "&product_category=" + pg + "&item_identifier=" + id, params);
+        }, trackSale:function(pg, id, sales, quantity) {
+            sokrati._beacon("lead?", "&product_category=" + pg + "&item_identifier=" + id + "&sales=" + sales + "&qty=" + quantity, _sokParams);
+            _sokParams = {}
+        }, trackSaleParams:function(pg, id, sales, quantity, params) {
+            sokrati._beacon("lead?", "&product_category=" + pg + "&item_identifier=" + id + "&sales=" + sales + "&qty=" + quantity, params);
+        }, click:function(pg, id, url) {
+            sokrati._beacon("lead?", "&product_category=" + pg + "&item_identifier=" + id + "&click=" + url, {});
+            sokrati._pause(sokrati.delay);
+        }, clickSale:function(pg, id, url, sales, quantity) {
+            sokrati._beacon("lead?", "&product_category=" + pg + "&item_identifier=" + id + "&click=" + url + "&sales=" + sales + "&qty=" + quantity, {});
+            sokrati._pause(sokrati.delay);
+        }};
+    var _sokParams = {};
+    sokrati.init();
+
+    String.prototype.startsWith = function(str) {
+        return (this.indexOf(str) === 0);
+    };
+
+    var track_sokrati = function(pTypeId, paramList) {
+
+        if (mcId.startsWith('SOKRATI') && sokrati_tracked == 'false') {
+            $.get("/pixelLog.html",{step: "Step4", pTypeId : pTypeId, pixelType: "sokrati"});
+            var paramStr = "";
+            for (var key in paramList) {
+                paramStr = paramStr + "&" + escape(key) + "=" + escape(paramList[key]);
+            }
+
+            try {
+                sokrati.trackParams('link', pTypeId, paramList);
+                sokrati_tracked = true;
+                $.get("/pixelTracked.html",{adProvider: "sokrati" , product : product})
+            }
+            catch(err) {
+                var sokrati_error_pixel = "/images/sokrati_error.gif?item_identifier=" + pTypeId + paramStr + "&t=" + (new Date()).getTime();
+                new Image().src = sokrati_error_pixel;
+            }
+
+            $.get("/pixelLog.html",{step: "Step5", pTypeId : pTypeId, pixelType: "sokrati"});
+            var sokrati_local_pixel = "/images/sokrati.gif?item_identifier=" + pTypeId + paramStr + "&t=" + (new Date()).getTime();
+            new Image().src = sokrati_local_pixel;
+             $.get("/pixelLog.html",{step: "Step6", pTypeId : pTypeId, pixelType: "sokrati"});
+        }
+    }
+
+    function callSokrati() {
+        // if not already tracked and if mobile is present in session and if  channel is sokrati, fire pixel on page load
+        if (isMobileReceived == 'true' && mcId.startsWith("SOKRATI") && sokrati_tracked == 'false') {
+            var paramListMobile = {};
+            paramListMobile['lead_mode'] = 'eligform';
+            paramListMobile['lead_step'] = 'mobile_provided';
+            paramListMobile['lead_eligibility'] = 'yes';
+            paramListMobile['user_id'] = '4DC16075FA1EDF75A68A3BF83FE3B39D.bankbazaar2';
+            var pixelType = "sokrati";
+
+            $.get("/pixelLog.html",{step: "Step1", pTypeId: pTypeId, pixelType: pixelType});
+            $.get("/pixelLog.html",{step: "Step2", pTypeId: pTypeId, pixelType: pixelType});
+            $.get("/pixelLog.html",{step: "Step3", pTypeId: pTypeId, pixelType: pixelType});
+            track_sokrati(pTypeId, paramListMobile);
+            if (!isInternalAccess() && $("#googleretargeting").size() == 0 && $("#lead_product").length > 0) {
+                $('<iframe />', {id: "googleretargeting",src: '/common/tracking/' + $("#lead_product").val() + '.jsp',width: "1px", height: "1px" }).appendTo('body');
+            }
+        }
+    }
+
+</script>
+<script type="text/javascript">
+    function g_track() {
+        if ($("#lead_product").length > 0) {
+            $('<iframe />', {id: "google_analytics_codes_pixel",src: '/common/tracking/' + $("#lead_product").val() + '.jsp',width: "1px", height: "1px" }).appendTo('body');
+        }
+    }
+
+    function grt_ri(ele) {
+        var $ele = $(ele);
+        if ($ele.length > 0 && $.trim($ele.val()).length > 0 && $ele.valid() && !isInternalAccess() && $("#googleretargeting").size() == 0) {
+            g_track();
+        }
+    }
+
+    function grt_nri(ele) {
+        var $ele = $(ele);
+        if ($ele.length > 0 && $.trim($ele.val()).length > 0 && isValidmobile_nri($ele.val()) && !isInternalAccess() && $("#googleretargeting").size() == 0) {
+            g_track();
+        }
+    }
+</script><div id="iframeContainer" class="dontshow"></div>
+
+<script type="text/javascript">
+    var isMobileProvided = false;
+    // to avoid resending of offer details in case of mobile provided in pop-up
+    var isOffersAlreadySent = false;
+    var google_custom_params={};
+
+    function callGoogleSmartPixelCode() {
+        var param_product = 'Loan';
+        var param_mobile = param_product.toString()  + "_Mobile_provided";
+        if(isOffersAlreadySent)
+        {
+            google_custom_params = {};
+        }
+        if(isMobileProvided){
+            google_custom_params[param_mobile] = "YES";
+        }
+        var ifrm = document.createElement("IFRAME");
+        ifrm.setAttribute("id","google_smart_pixel");
+        ifrm.setAttribute("src", '/common/tracking/google_smartpixel.jsp');
+        ifrm.style.width = 1+"px";
+        ifrm.style.height = 1+"px";
+        document.getElementById("iframeContainer").appendChild(ifrm);
+        /*$('<iframe />', {id:"google_smart_pixel", src:'/common/tracking/google_smartpixel.jsp', width:"1px", height:"1px" }).appendTo('body');*/
+    }
+</script>
+
+<script type="text/javascript" async="" src="https://ssl.widgets.webengage.com/js/widget/webengage-min-v-4.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
+        var _weq = _weq || {};
+        _weq['webengage.licenseCode'] = '~13410604b';
+        _weq['webengage.widgetVersion'] = "4.0";
+
+        (function(d){
+            var _we = d.createElement('script');
+            _we.type = 'text/javascript';
+            _we.async = true;
+            _we.src = (d.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
+            var _sNode = d.getElementById('_webengage_script_tag');
+            _sNode.parentNode.insertBefore(_we, _sNode);
+        })(document);
+    </script>
 <noscript>
-    <img src="/images/no-javascript.gif" alt="JS is not enabled in browser"/>
+    <img src="//dvlv8cymbx5mz.cloudfront.net/images/no-javascript.gif" alt="JS is not enabled in browser"/>
 </noscript>
 
 
@@ -880,7 +1126,7 @@
     var loc = escape(window.location);
     var ctx = "/";
     var req = ctx + "images/loaded.gif?id=" + unique_id + "&t=" + start_time;
-    ajaxGet(req);
+    getNewImage().src = req;
 
     function addLoadEvent(func) {
         var oldonload = window.onload;
@@ -894,13 +1140,24 @@
         }
     }
     addLoadEvent(function() {
-        ajaxGet(ctx + "images/completed.gif?id=" + unique_id + "&t=" + start_time + "&ajax=" + true)
+        var ct = new Date();
+        // Ajax get call implemented in javascript as jquery libraries would not be loaded before this call
+        var receiveReq = getXmlHttpRequestObject();
+        //If our XmlHttpRequest object is not in the middle of a request, start the new asyncronous call.
+        if (receiveReq.readyState == 4 || receiveReq.readyState == 0) {
+            //True explicity sets the request to asyncronous (default).
+            receiveReq.open("GET", ctx + "images/completed.gif?id=" + unique_id + "&t=" + start_time + "&ajax=" + true, true);
+            //Make the actual request.
+            receiveReq.send(null);
+        }
     });
 
 </script>
-
-
-
+<input type="hidden" name="mobileReceivedCheck" value="false" id="mobileReceivedCheck"><input type="hidden" name="mobileProductNameSpace" value="" id="mobileProductNameSpace"><input type="hidden" name="productNameSpace" value="" id="productNameSpace"><input type="hidden" name="stage" value="prod" id="stageValue"><input type="hidden" name="jawrDebug" value="" id="jawrDebug"><input type="hidden" name="mobilePixelSession" value="4DC16075FA1EDF75A68A3BF83FE3B39D.bankbazaar2" id="tyrooSession"><input type="hidden" name="mobilePropertyCity" value="" id="mobilePropertyCity"><input type="hidden" name="website" value="MARKETPLACE" id="global_website"><input type="hidden" name="variantOptions" value="" id="variantOptions"><div class="dontshow">
+    </div>
+<div class="dontshow" style="display:none">
+    reTH65gcmBgCJ7k - pingdom check string. TODO: Move this to string Item / MD.
+</div>
 
 
 </body></html>
