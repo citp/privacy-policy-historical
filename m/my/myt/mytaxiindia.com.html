@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mytaxiindia.com privacy policy that was archived on 2013-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131114215213id_/http%3A//www.mytaxiindia.com/privacy_and_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mytaxiindia.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625161655id_/http%3A//www.mytaxiindia.com/privacy_and_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy and Policy | My Taxi India</title>
@@ -38,7 +38,7 @@
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.mytaxiindia.com/css/search.css">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.mytaxiindia.com/css/fare_summary.css">
 
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://www.mytaxiindia.com/facebox/jquery.min.js"></script>
+<script async="" charset="utf-8" src="//v2.zopim.com/?1gsdvyKpWMkKb8kcLw2Wli1kRQt8oKbj" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://www.mytaxiindia.com/facebox/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.mytaxiindia.com/js/validation.js"></script>
 <!------------Start DatePicker------------------->
 <script src="http://www.mytaxiindia.com/date_js/jquery.ui.core.js"></script>
@@ -128,6 +128,111 @@ $(document).ready(function(){
     </div><!------------------Header End-----------------> 
   
 <!------------------Menu Start----------------->
+<script type="text/javascript" src="http://www.mytaxiindia.com/ifacebox/jquery.fancybox.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://www.mytaxiindia.com/ifacebox/jquery.fancybox.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="http://www.mytaxiindia.com/css/animate.css" media="screen">  
+	<script type="text/javascript">
+	function validateForm() {
+    var x = document.forms["myForm"]["user_email"].value;
+    var atpos = x.indexOf("@");
+    var dotpos = x.lastIndexOf(".");
+    if (atpos< 1 || dotpos<atpos+2 || dotpos+2>=x.length) {
+        alert("Not a valid e-mail address");
+        return false;
+    }
+	}
+	
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			 *  Simple image gallery. Uses default settings
+			 */
+
+			$('.fancybox').fancybox({
+				width 	: 410,
+				height 	: 500
+				});
+		});
+	</script>
+    <script type="text/javascript">
+	$(document).ready(function(){
+			jQuery("#addv").animate({'margin-top': '280px'}, 3000);
+			jQuery("#addv").animate({'margin-left': '520px'}, 2000);
+			jQuery("#feedback").animate({left:"2px"});
+			$('.close_form').click(function(){
+			jQuery("#feedback").animate({left:"-362px"});	
+			});
+			$('.close_coupon').click(function(){
+			jQuery("#addv").animate({left:"-1000px"});	
+			});
+			$('#send_us').live('click',function(){
+			$(document).ajaxStart(function(){
+    			$("#await").css("display","block");
+  				});
+	 		 $(document).ajaxComplete(function(){
+				$("#await").css("display","none");
+	 		 });
+			var name=$('#user_name').val(); 
+			var email=$('#user_email').val();
+			var mobile=$('#user_mobile_no').val();
+			var query=$('#user_query').val();
+			var cap1 = $('#cap1').val();
+			var cap2 = $('#cap2').val();
+			var captcha = $('#captcha').val();
+			var key	=	'odsjnjs8978s6dcdt6dt6sdcd';
+			var filname = /^[A-Za-z ]+$/;
+			var filmob	= /^[1-9]{1}[0-9]{9}$/;;
+			var filemail= /^[a-zA-Z0-9]+[a-zA-Z0-9_.-]+[a-zA-Z0-9_-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{2,4}$/;		
+			if ($('#check_hotel').is(":checked"))
+			{
+  			var hotel=$("input[name='need_hotel']").val();
+			}
+			else{
+				var hotel = 'NO';
+				}
+			if(filname.test(name)){ 
+				if(filmob.test(mobile)){	
+					if(filemail.test(email)){
+			$.post('http://www.mytaxiindia.com/send_enquiry/send_query/',{name:name,email:email,mobile:mobile,query:query,hotel:hotel,cap1:cap1,cap2:cap2,captcha:captcha,key:key}, show_msg);
+			function show_msg(res){
+			var res	=	res.split("@");
+			if(res[0] == 'THANK YOU! We will respond you shortly.'){ 
+			$(".formm").css("display","none");
+			//document.getElementById("iframe").src="http://tracking.icubeswire.com/GLT1?adv_sub="+res[1];
+			$("h3").show();
+            $('#msgg').html(res[0]);
+			$('#icubewire').text(res[1]);			
+			}
+			else{			
+			 $('#ms').html(res);			
+			}
+	        }
+			}
+			else{
+			$('#ms').html('please enter a valid email');
+			//alert('please enter a valid email');
+			}
+			}else{ $('#ms').html('please enter a valid mobile no.');/*alert('please enter a valid mobile no.');*/ }
+			}else { $('#ms').html('please enter a valid name'); /*alert('please enter a valid name');*/}
+			});
+	}); 
+	</script>
+     <!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?1gsdvyKpWMkKb8kcLw2Wli1kRQt8oKbj';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+<!--End of Zopim Live Chat Script-->
+	<style type="text/css">
+		.fancybox-custom .fancybox-skin {
+			box-shadow: 0 0 50px #222;
+		}
+	</style>
+
 <style type="text/css">
 .blink_me {
     animation-name: blinker;
@@ -158,56 +263,225 @@ $(document).ready(function(){
     50% { opacity: 0.0; }
     100% { opacity: 1.0; }
 }
+#addv{
+			position: fixed;
+			margin-top: -500px;
+			margin-left:90px;
+			height:50px; z-index:500;
+			
+		}
 </style>
+<style>
+#feedback{
+			position: fixed;
+			top:226px;
+			left:-362px;
+			height:100px; z-index:100;
+		}
+		#feedback form{
+			float: left;
+			width:170px;
+			border: 1px solid #DC7404;
+			padding-right: 0px;
+			padding-bottom:5px;
+			border-radius:5px;
+			background-color: #ECECEC; 
+			 
+		}
+		#feedback h3{
+			float: left;
+			width:160px;
+			border: 1px solid #DC7404;
+			padding-right: 0px;
+			padding-bottom:5px;
+			border-radius:5px;
+			margin-top:100px;
+			background-color: #ECECEC; display:none; 
+			 
+		}
 
-<div class="social_media_icon_base">
+div.ex {
+   	margin-left:300px;
+	margin-top:0px;
+   
+}
+div.exx{
+   	margin-left:200px;
+	margin-top:-25px;
+
+}
+
+.effectSwing
+{
+animation:swing 1s infinite;
+-webkit-animation:swing 1s infinite; /* Safari and Chrome */
+}
+.effectTada
+{
+animation:tada 1s infinite;
+-webkit-animation:tada 1s infinite; /* Safari and Chrome */
+}
+.effectBounce
+{
+animation:bounce 1s infinite;
+-webkit-animation:bounce 1s infinite; /* Safari and Chrome */
+}
+.effectSwing
+{
+animation:swing 1s infinite;
+-webkit-animation:swing 1s infinite; /* Safari and Chrome */
+}
+#container
+{
+margin:0 auto;
+width:800px;
+text-align:center;
+}
+
+</style>
+<!--<div class="social_media_icon_base">
  <a href="http://www.facebook.com/pages/My-Taxi-India/151060494928898" target="_blank"><span style="margin-bottom:5px;" class="combine_images facebook_icon" title="Facebook"></span></a>      
  <a href="https://twitter.com/mytaxiindia/" target="_blank"><span style="margin-bottom:5px;" class="combine_images twitter_icon" title="Twitter"></span></a>
  
-  <a href="https://plus.google.com/b/111697366014238034801/" target="_blank"><span style="margin-bottom:5px;" class="combine_images gplus_icon" title="Google Plus"></span></a>
+  <a href="https://plus.google.com/+Mytaxiindia" target="_blank"><span style="margin-bottom:5px;" class="combine_images gplus_icon" title="Google Plus"></span></a>
  
-<a href="http://www.flickr.com/photos/mytaxiindia/" target="_blank"><span style="margin-bottom:5px;" class="combine_images flickr_icon" title="Flickr"></span></a>
-<a href="http://www.mytaxiindia.com/rss.xml" target="_blank" title="RSS"><span style="margin-bottom:5px;" class="combine_images rss_icon" title="RSS"></span></a>
+<a href="http://www.pinterest.com/mytaxiindia1" target="_blank"><span style="margin-bottom:5px;" class="combine_images flickr_icon" title="Pinterest"></span></a>
+<a href="rss.xml" target="_blank" title="RSS"><span style="margin-bottom:5px;" class="combine_images rss_icon" title="RSS"></span></a>
 <a href="http://www.youtube.com/watch?v=2iHv4NfXpKI" target="_blank"><span style="margin-bottom:5px;" class="combine_images youtube_icon" title="Youtube"></span></a>
 <a href="http://www.linkedin.com/company/mytaxiindia.com" target="_blank"><span class="combine_images linkedin_icon" title="Linked In"></span></a>
-</div>
+</div>-->
 
 <div class="menu">
+<div class="ex"><img src="http://www.mytaxiindia.com/images/Save.png" class="effectBounce"></div>
+<div class="exx"><img src="http://www.mytaxiindia.com/images/new.png" class="effectBounce"></div>
 <ul>
 <li><a href="http://www.mytaxiindia.com/">Home</a></li>
-<!--<li><a href="http://www.mytaxiindia.com/">Package</a>
-<ul>
-<li>
-<div style="margin:15px;">
-<form id="form1" name="form1" method="post" action="">
-<span style="color:#FFF; font-size:12px; font-weight:bold;">Search by city</span><br />
-<br />
-<input type="text" name="package" value="Type City Name" class="input-field" onblur="if(this.value.length<=0) this.value='Type City Name'" onclick="this.value=''" /><br />
-<div style="margin-right:29px; margin-top:10px;" align="right">
-<input type="submit" name="button" id="button" value="Search Car" />
-</div>
-</form>
-</div>
-</li>
-</ul>
-</li>
-<li><a href="">Corporate Car Rental</a></li>
-<li><a href="index.php/home/autopdf">Fleet</a></li>
-
-<li><a href="">Channel partner</a></li>
-<li><a href="#">Customer Support</a>
-<ul>
-<li><a href="">Artikel Komputer</a></li>
-<li><a href="">Panduan SEO</a></li>
-</ul>
-</li>-->
-<li><a href="http://www.mytaxiindia.com/packages">Packages</a></li>
-<li><a href="http://www.mytaxiindia.com/car-rental-offers">Hot Deals</a></li>
-<li><a href="http://www.mytaxiindia.com/blog" target="_blank">Blog</a></li>
+<li><a href="http://www.mytaxiindia.com/packages.php">Packages</a></li>
+<li><a href="http://www.mytaxiindia.com/taxi-hotel-packages">Taxi + Hotel</a></li>
+<li><a href="http://www.mytaxiindia.com/car_rental_offers.php">Hot Deals</a></li>
+<li><a href="http://www.mytaxiindia.com/enquiry/reenquiry.php" class="">Enquiry</a></li>
+<li><a href="http://www.mytaxiindia.com/blog">Blog</a></li>
 <li><a href="http://www.mytaxiindia.com/contact.php">Contact Us</a></li>
-<li style="margin-left:351px; " class="blink_me"><a href="http://www.mytaxiindia.com/booking_steps_video/" target="_self" style="background-color:#F7A02D; color:#000000;"><strong>How To Book Taxi</strong></a></li>
+<li style="margin-left:145px; " class=""><a href="http://www.mytaxiindia.com/booking_steps_video/" target="_self" style="background-color:#F7A02D; color:#000000;"><strong>How To Book Taxi</strong></a></li>
 </ul>
-</div><!------------------Menu End----------------->
+
+<div id="feedback">
+		<h3>
+		<div id="msgg"></div>
+		</h3>
+     
+		
+        <div class="formm">
+        <div id="await" style="display:none;width:69px;height:89px;border:none;position:absolute;top:50%;left:50%;padding:2px;"><img src="http://www.mytaxiindia.com/images/ajax-loaderr.gif" height="40" width="40"><br>Sending....</div>
+		<form method="post" action="javascript:void(0)" id="ourenquiry">
+			<h2 style="background-image: -webkit-gradient(linear, left top, left bottom, from(#333333), to(#333333));
+			background-image:    -moz-linear-gradient(top, #333333, #333333);
+    		color: #FFFFFF;
+    		float: left;
+    		font-family: Arial, Helvetica, sans-serif;
+   			font-size: 16px;
+            font-weight:bold;
+    		height: 15px;
+    		margin-bottom: 5px;
+    		margin-left: 0px;
+    		padding: 5px 0 5px 10px;
+            border-right:5px;
+            border-radius:0px;
+    		width: 160px;">Enquiry<div style="margin-top:-27px; margin-left:133px; cursor: pointer;" class="close_form"><img src="http://www.mytaxiindia.com/css/close.png"></div></h2>
+                    	<input type="hidden" name="cap1" id="cap1" value="0">
+        	<input type="hidden" name="cap2" id="cap2" value="0">
+            <input type="hidden" name="captcha" id="" value="0">
+            <font color="#FF0000"><div id="ms" style="margin-left:5px;"></div></font>
+			<p style="margin-top:-1px;"><input type="text" name="user_name" class="input-field" id="user_name" placeholder="your name....." style="border-radius:3px;"><span id="nameInfo"><font color="#FF0000">*</font></span></p>
+			<p style="margin-top:-6px;"><input type="text" name="user_mobile_no" class="input-field" id="user_mobile_no" placeholder="your phone...." style="border-radius:3px;"><span id="mobileInfo"><font color="#FF0000">*</font></span></p>
+			<p style="margin-top:-6px;"><input type="text" name="user_email" class="input-field" id="user_email" placeholder="your email..." style="border-radius:3px;"><span id="emailInfo"><font color="#FF0000">*</font></span></p>
+			<p style="margin-top:-6px;"><textarea style="width:150px; height:50px; resize:none; " name="user_query" class="input-field" id="user_query" placeholder="your query....."></textarea><span id="queryInfo"><font color="#FF0000">*</font></span></p>
+
+		<!--	<p style="margin-top:-6px;"><font color="#009900">Captcha: 32 </font>&nbsp;<input type="text" name="captcha" class="input-field" id="captcha" placeholder="enter given no." style="width:79px; position:static; font-size:9px;"  /><span id="queryInfo"><font color="#FF0000">*</font></span></p>-->
+            
+            <p style="margin-top:-6px;"><input type="checkbox" name="need_hotel" id="check_hotel" value="YES"><strong><font color="#009900">Do You Want Hotel?</font></strong></p>
+			<p style="margin-top:-6px; margin-bottom:-5px;"><a href="#" onclick="_gaq.push(['_trackEvent', 'Enquiry Front', 'http://www.mytaxiindia.com/send_enquiry/send_query',,, true]);" style="cursor:crosshair; text-decoration:none;"><input type="submit" id="send_us" value="Send Us" class="sign_grey"></a></p>
+		</form>
+        </div>
+		<!--<a href="#" class="pull_feedback" title="Click to leave feedback">Feedback</a>-->
+	</div>
+<div id="addv" style="width:162px; "><div style="margin-left:430px; margin-top:30px; cursor: pointer;" class="close_coupon"><img src="http://www.mytaxiindia.com/facebox/18_Close-128.png" style="position: absolute; top: 32px; z-index: 5;"></div><a href="http://www.mytaxiindia.com/car_rental_offers.php" style="text-decoration:none;" onclick="_gaq.push(['_trackEvent', 'Cash Back Coupon', 'http://www.mytaxiindia.com/car_rental_offers.php',,, true]);"><img src="http://www.mytaxiindia.com/images/Coupon-Pic.gif" style=" border:solid thin #009900;" id="ads"></a></div>
+</div>
+
+<!--<script type="text/javascript">
+$(document).ready(function(){
+	var form = $("#ourenquiry");
+	//validation for country
+	var name = $("#user_name");
+	var nameInfo = $("#nameInfo");
+		
+	var mobile = $("#user_mobile_no");
+	var mobileInfo = $("#mobileInfo");
+	
+	var email=$("#user_email");
+	var emailInfo=$("#emailInfo");
+	
+	var query=$("#user_query");
+	var queryInfo=$("#queryInfo");
+	
+	name.keyup(ValidateName)
+	name.blur(ValidateName)
+
+	mobile.keyup(ValidateMobile)
+	mobile.blur(ValidateMobile)
+
+	email.keyup(ValidateEmail)
+	email.blur(ValidateEmail)
+	
+	query.keyup(ValidateQuery)
+	query.blur(ValidateQuery)
+	
+	form.submit(function(){
+		if(ValidateName() | ValidateMobile()  | ValidateEmail() | ValidateQuery() )
+			return true
+		else
+			return false;
+	});
+	
+	function ValidateEmail(){
+		var a = $("#user_email").val();
+		var filter = /^[a-zA-Z0-9]+[a-zA-Z0-9_.-]+[a-zA-Z0-9_-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{2,4}$/;
+	
+		if(filter.test(a)){
+			email.removeClass("error");
+			emailInfo.text("Valid E-mail ");
+			emailInfo.removeClass("error");
+			return true;
+		}else{
+			email.addClass("error");
+			emailInfo.text("Type a valid e-mail please  :");
+			emailInfo.addClass("error");
+			return false;
+		}	}
+		
+		
+		function validateName(){
+		var a = $("#user_name").val();
+		var filter = /^[A-Za-z]+$/;
+	
+		if(filter.test(a)){
+			name.removeClass("error");
+			name.addClass("msg");
+			nameInfo.text("Correct!");
+			nameInfo.addClass("msg");
+			nameInfo.removeClass("error");
+			return true;
+		}else{
+			name.removeClass("msg");
+			name.addClass("error");
+			nameInfo.text("Alphabets Only!");
+			nameInfo.addClass("error");
+			nameInfo.removeClass("msg");
+			return false;
+		}	}
+	
+	});
+</script>--><!------------------Menu End----------------->
 <!------------------Modify Start----------------->
 <div style="padding:10px;" class="clearFix">
 <div class="fil" style="margin-right:5px;"><a href="http://www.mytaxiindia.com/about.php"><img src="http://www.mytaxiindia.com/page_banner/about_us_mini.jpg" alt="About Us" width="110" height="110" border="0" title="About Us"></a></div>
@@ -329,8 +603,9 @@ If you believe that any information we are holding on you is incorrect or incomp
 <!------------------Cntent Start----------------->
 <!------------------Cntent End----------------->
 <!------------------About mytaxi start-----------------> 
-<div id="about_mytaxi">
-<div class="about_my" style="float:right; margin-right:10px;"><a href="http://www.mytaxiindia.com/route-cities/">Route Cities</a></div>
+	<div id="about_mytaxi">
+    <div style="margin-left:180px;"><div style="color:#009900; margin-top:30px;font-family: Verdana, Arial, Helvetica, sans-serif; font-size:14px;">Featured:</div><div style="margin-top:-30px;"> <img src="http://www.mytaxiindia.com/images/zee.jpg" height="50" width="50" style="margin-left:80px;"><img src="http://www.mytaxiindia.com/images/YourStory.png" height="50" width="270" style="margin-left:20px; border:solid thin #000000; background:#000000;"><img src="http://www.mytaxiindia.com/images/ttgrp.png" height="50" width="200" style="margin-left:20px;border:solid thin #000000; background:#000000;"></div></div>
+<div class="about_my" style="float:right; margin-right:10px;"><a href="http://www.mytaxiindia.com/route-cities.php">Route Cities</a></div>
 <div class="about_my"><a id="my_toggle" href="javascript:void();">More Cities</a></div>
 <div id="about_details" class="clearFix">
 <div class="car_booking_box fil"><a href="http://www.mytaxiindia.com/car-rental-kashmir.php" title="Kashmir">Kashmir</a></div>
@@ -385,7 +660,7 @@ If you believe that any information we are holding on you is incorrect or incomp
 <div class="car_booking_box fil"><a href="http://www.mytaxiindia.com/car-rental-rishikesh.php" title="Rishikesh">Rishikesh</a></div>
 <div class="car_booking_box fil"><a href="http://www.mytaxiindia.com/car-rental-khajuraho.php" title="Khajuraho">Khajuraho</a></div>
 <div class="car_booking_box fil"><a href="http://www.mytaxiindia.com/car-rental-ladakh.php" title="Ladakh">Ladakh</a></div>
-<div class="car_booking_box fil"><a href="http://www.mytaxiindia.com/car-rental-bhuvaneshwar.php" title="Bhuvaneshwar">Bhuvaneshwar</a></div>
+<div class="car_booking_box fil"><a href="http://www.mytaxiindia.com/car-rental-bhuvaneshwar.php" title="Bhubaneswar">Bhubaneswar</a></div>
 <div class="car_booking_box fil"><a href="http://www.mytaxiindia.com/car-rental-assam.php" title="Assam">Assam</a></div>
 <div class="car_booking_box fil"><a href="http://www.mytaxiindia.com/car-rental-portblair.php" title="Portblair">Portblair</a></div>
 <div class="car_booking_box fil"><a href="http://www.mytaxiindia.com/car-rental-kovalam.php" title="Kovalam">Kovalam</a></div>
@@ -420,8 +695,6 @@ If you believe that any information we are holding on you is incorrect or incomp
 <div class="car_booking_box fil"><a href="http://www.mytaxiindia.com/car-rental-kullu.php" title="Kullu">Kullu</a></div>
 <div class="car_booking_box fil"><a href="http://www.mytaxiindia.com/car-rental-jharkhand.php" title="Jharkhand">Jharkhand</a></div>
 <div class="car_booking_box fil"><a href="http://www.mytaxiindia.com/car-rental-kerala.php" title="Kerala">Kerala</a></div>
-<div class="car_booking_box fil"><a href="http://www.mytaxiindia.com/car-rental-goa.php" title="Goa">Goa</a></div>
-<div class="car_booking_box fil"><a href="http://www.mytaxiindia.com/car-rental-service-char-dham.php" title="Char Dham Yatra">Char Dham Yatra</a></div>
 <div class="car_booking_box fil"><a href="http://www.mytaxiindia.com/car-rental-udaipur.php" title="Udaipur">Udaipur</a></div>
 </div>
 
@@ -429,8 +702,7 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 <!------------------About mytaxi End----------------->  
 <!------------------Footer Start----------------->  
-	<div id="footer" class="clearFix">
-    
+	<div id="footer" class="clearFix">   
 		<div class="fil footer_matter" style="width:359px; height:100px; margin-top:12px; padding-right:5px; border-right:solid 1px #CCC;" align="justify">
       <strong>Mytaxiindia.com</strong> is the India's largest <em><strong>ISO 9001:2008 Certified</strong></em> Car Rental Company. My Taxi India offers a complete spectrum of Chauffeur Drive Services to take care of all personal and business requirements. Through cutting age technology, we provide great deal in car rental with the guaranteed lowest price. We constantly provide high standard, clean car/bus with professional and experienced chauffeurs. <a href="http://www.mytaxiindia.com/about.php">more</a>
 
@@ -449,7 +721,7 @@ If you believe that any information we are holding on you is incorrect or incomp
         <div class="combine_images footer_title_dot"><a href="http://www.mytaxiindia.com/privacy_and_policy.php">Privacy &amp; Policy</a></div>
         <div class="combine_images footer_title_dot"><a href="http://www.mytaxiindia.com/terms_and_conditions.php">Terms &amp; Conditions</a></div>
         <div class="combine_images footer_title_dot"><a href="http://www.mytaxiindia.com/disclaimer_policy.php">Disclaimer Policy</a></div>
-        <div class="combine_images footer_title_dot"><a href="http://www.mytaxiindia.com/bus">Bus</a></div>
+        <div class="combine_images footer_title_dot"><a href="http://www.mytaxiindia.com/bus.php">Bus</a></div>
         </div>
 
  </div>
@@ -473,36 +745,25 @@ If you believe that any information we are holding on you is incorrect or incomp
  
  <div class="fil" style="width:210px; height:100px; margin-top:12px; padding-left:5px;">
  <div class="footer_title_ma">PAY WITH</div>
- <span class="combine_images visacard_icon" title="Visa Card"></span>
- <span class="combine_images mastercard_icon" title="Master Card"></span>
-<img height="25" width="110" border="0" id="mastercard" name="mastercard" alt="mastercard" src="http://www.mytaxiindia.com/images/diners_club.png">
-<div align="center" style="margin-top:8px;">© 2012 MTI. All rights reserved, Inc. reserved </div>
+ <span class="combine_images visacard_icon" title="Visa Card" style="margin-bottom:5px;"></span>
+ <span class="combine_images mastercard_icon" title="Master Card" style="margin-bottom:5px;"></span>
+<img height="25" width="110" border="0" id="mastercard" name="mastercard" alt="mastercard" src="http://www.mytaxiindia.com/images/diners_club.png" style="margin-bottom:5px;">
+
+<a href="http://www.facebook.com/pages/My-Taxi-India/151060494928898" target="_blank"><span style="margin-bottom:5px;" class="combine_images facebook_icon" title="Facebook"></span></a>      
+ <a href="https://twitter.com/mytaxiindia/" target="_blank"><span style="margin-bottom:5px;" class="combine_images twitter_icon" title="Twitter"></span></a>
+ 
+  <a href="https://plus.google.com/+Mytaxiindia" target="_blank"><span style="margin-bottom:5px;" class="combine_images gplus_icon" title="Google Plus"></span></a>
+ 
+<a href="http://www.pinterest.com/mytaxiindia1" target="_blank"><span style="margin-bottom:5px;" class="combine_images flickr_icon" title="Pinterest"></span></a>
+<!--<a href="rss.xml" target="_blank" title="RSS"><span style="margin-bottom:5px;" class="combine_images rss_icon" title="RSS"></span></a>-->
+<a href="http://www.youtube.com/watch?v=2iHv4NfXpKI" target="_blank"><span style="margin-bottom:5px;" class="combine_images youtube_icon" title="Youtube"></span></a>
+<a href="http://www.linkedin.com/company/mytaxiindia.com" target="_blank"><span class="combine_images linkedin_icon" title="Linked In" style="height:34px;"></span></a>
+<div align="center" style="margin-top:2px;">© 2012 MTI. All rights reserved, Inc. reserved </div>
+
  </div>
 		
   </div>
-  <script type="text/javascript" src="http://www.mytaxiindia.com/ifacebox/jquery.fancybox.js"></script>
-	<link rel="stylesheet" type="text/css" href="http://www.mytaxiindia.com/ifacebox/jquery.fancybox.css" media="screen">
-
-	
-	<script type="text/javascript">
-		$(document).ready(function() {
-			/*
-			 *  Simple image gallery. Uses default settings
-			 */
-
-			$('.fancybox').fancybox({
-				width 	: 410,
-				height 	: 500
-				});
-
-		});
-	</script>
-	<style type="text/css">
-		.fancybox-custom .fancybox-skin {
-			box-shadow: 0 0 50px #222;
-		}
-	</style>
-<div id="send_enquiry"><a href="http://www.mytaxiindia.com/enquiry/reenquiry.php" class="fancybox fancybox.iframe" onclick="_gaq.push(['_trackEvent', 'Send Enquiry Main', 'http://www.mytaxiindia.com/enquiry/reenquiry.php',,, true]);"><img src="http://www.mytaxiindia.com/css/images/send_enquiry.png" border="0" width="125" height="116" alt="enquiry"></a></div>  
+    
 
 <!------------------Footer End----------------->
 
@@ -525,6 +786,7 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990981834/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+
 
 
 </body></html>
