@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the steaknshake.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206075212id_/http%3A//www.steaknshake.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steaknshake.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013822id_/http%3A//www.steaknshake.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Steak 'n Shake
 
-**Date Last Modified: September 2012**
+**Date Last Modified: March 2014**
 
-This Privacy Policy ("Policy") applies to Steak 'n Shake Enterprises, Inc., its affiliates, subsidiaries, divisions or designees ("SnS" or "Steak 'n Shake" or "we"). This Policy describes how Steak 'n Shake collects, shares, uses and safeguards customer personal information we collect anywhere. This includes our restaurant locations in the United States (excluding Hawaii and U.S. Territories), our websites at [www.steaknshake.com](http://www.steaknshake.com/) and [www.steaknshakesignature.com](http://www.steaknshakesignature.com/), and other websites where we post this Policy (collectively, "Website"), and mobile applications. This Policy will also give you more information about how to manage the personal information that you provide to us. When visiting our Website, this Privacy Policy should be read in conjunction with the [Terms of Use](https://web.archive.org/legal "Terms of Use")  located on our Website.
+This Privacy Policy (“Policy”) applies to Steak ‘n Shake Enterprises, Inc., its affiliates, subsidiaries, divisions or designees (“SnS” or “Steak ‘n Shake” or “we”). This Policy describes how Steak ‘n Shake collects, shares, uses and safeguards customer personal information we collect anywhere. This includes our restaurant locations in the United States (excluding Hawaii and U.S. Territories), our websites at [www.steaknshake.com](http://www.steaknshake.com/) and [www.steaknshakesignature.com](http://www.steaknshakesignature.com/), and other websites where we post this Policy (collectively, “Website”), and mobile applications. This Policy will also give you more information about how to manage the personal information that you provide to us. When visiting our Website, this Privacy Policy should be read in conjunction with the [Terms of Use](https://web.archive.org/legal "Terms of Use")  located on our Website.
 
 **1\. The Information We Collect.**
 
@@ -18,11 +18,11 @@ We use this information to monitor the usage of our Website, assess its performa
 
 **• Information Collected via Cookies.**
 
-"Cookies" are small files or records that are placed on your computer’s hard drive to distinguish you from other visitors to our Website. The use of cookies is a standard practice among websites to collect or track information about your activities while using our Website. A cookie may enable the website owner to track how a visitor navigates through its website and the areas in which they show interest. This is similar to a traffic report: it tracks trends and behaviors, but does not personally identify individuals. Information gathered may include date and time of visits, pages viewed, time spent at the site, and the website visited just before and just after a visit to our Website.
+“Cookies” are small files or records that are placed on your computer’s hard drive to distinguish you from other visitors to our Website. The use of cookies is a standard practice among websites to collect or track information about your activities while using our Website. A cookie may enable the website owner to track how a visitor navigates through its website and the areas in which they show interest. This is similar to a traffic report: it tracks trends and behaviors, but does not personally identify individuals. Information gathered may include date and time of visits, pages viewed, time spent at the site, and the website visited just before and just after a visit to our Website.
 
-Cookies can be set to expire: (1) on a specified date; (2) after a specific period of time; (3) when a transaction has been completed; or (4) when a user turns off his/her Internet browser. A cookie that is erased from memory when a visitor’s Internet browser closes is called a "session" cookie. Cookies that expire based on a time set by the Web server are called "persistent" cookies.
+Cookies can be set to expire: (1) on a specified date; (2) after a specific period of time; (3) when a transaction has been completed; or (4) when a user turns off his/her Internet browser. A cookie that is erased from memory when a visitor’s Internet browser closes is called a “session” cookie. Cookies that expire based on a time set by the Web server are called “persistent” cookies.
 
-Our Website may use both "session cookies" and "permanent cookies." Most people do not know that cookies are being placed on their computers when they visit our Website or most websites because browsers are typically set to accept cookies. You can choose to have your browser warn you every time a cookie is being sent to you or you can turn off cookie placements. If you refuse cookies, there may be parts of our Website that may not function properly.
+Our Website may use both “session cookies” and “permanent cookies.” Most people do not know that cookies are being placed on their computers when they visit our Website or most websites because browsers are typically set to accept cookies. You can choose to have your browser warn you every time a cookie is being sent to you or you can turn off cookie placements. If you refuse cookies, there may be parts of our Website that may not function properly.
 
 **• Information Collected Using Pixel Tags or Clear GIFs.**
 
@@ -30,15 +30,15 @@ Pixel Tags or Clear GIFs, also known as Web Beacons or Web Bugs, are transparent
 
 **• Information You May Actively Submit Through Our Websites.**
 
-For most of the browsing on our Website, we neither require nor collect "User Information." User Information is information that could personally identify you, for example, your name, address, phone number, e-mail address, and credit card information. You can browse our Website and take as much time as you want to review our services without having to submit such User Information. In the following instances, however, we do need you to actively submit User Information when: (1) you want to contact us via electronic means or website submission; (2) you purchase a gift card; (3) you utilize online ordering; (4) you make purchases from the e-store; (5) you enter a contest or sweepstakes or participate in a promotion; or (6) you join our customer loyalty programs and/or email lists. E-mail or other forms of electronic communication, including website submission, are not secure and/or confidential means of communication.
+For most of the browsing on our Website, we neither require nor collect “User Information.” User Information is information that could personally identify you, for example, your name, address, phone number, e-mail address, and credit card information. You can browse our Website and take as much time as you want to review our services without having to submit such User Information. In the following instances, however, we do need you to actively submit User Information when: (1) you want to contact us via electronic means or website submission; (2) you purchase a gift card; (3) you utilize online ordering; (4) you make purchases from the e-store; (5) you enter a contest or sweepstakes or participate in a promotion; or (6) you join our customer loyalty programs and/or email lists. E-mail or other forms of electronic communication, including website submission, are not secure and/or confidential means of communication.
 
 **• Information You May Actively Submit In Our Restaurants.**
 
-When visiting our restaurants, we only collect "Customer Information" in limited situations. "Customer Information" is information that could personally identify you, for example, your name, address, phone number, and e-mail address. We may collect Customer Information when: (1) you want to fill out customer comment cards; (2) you enter a contest or sweepstakes or participate in a promotion; or (3) you join our customer loyalty programs and/or email lists.
+When visiting our restaurants, we only collect “Customer Information” in limited situations. “Customer Information” is information that could personally identify you, for example, your name, address, phone number, and e-mail address. We may collect Customer Information when: (1) you want to fill out customer comment cards; (2) you enter a contest or sweepstakes or participate in a promotion; or (3) you join our customer loyalty programs and/or email lists.
 
 **2\. Security.**
 
-Steak 'n Shake takes reasonable steps to help protect personal information that we have or control against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. Although no data transmission over the Internet can be guaranteed 100% secure, and we cannot ensure against any loss or theft, unauthorized access, alteration, or destruction of data, we take reasonable precautions to prevent such unfortunate occurrences.
+Steak ‘n Shake takes reasonable steps to help protect personal information that we have or control against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. Although no data transmission over the Internet can be guaranteed 100% secure, and we cannot ensure against any loss or theft, unauthorized access, alteration, or destruction of data, we take reasonable precautions to prevent such unfortunate occurrences.
 
 Because your credit card security is a high priority, we have taken reasonable steps to ensure your payment information is processed confidentially. We understand if you do not feel comfortable sending your credit card information to us over the Internet and are more than happy to accept your order and payment when you visit us at one of our restaurant locations or via the phone. If you wish to purchase a gift card over the phone, please call us toll free at (800) 547-4253 and indicate that you wish to purchase a gift card without any information being submitted through an Internet website.
 
@@ -52,7 +52,7 @@ When you send an email to us, or provide your email address to us, you are commu
 
 **5\. How We Use and Share User Information and Customer Information.**
 
-Our view on using User Information and Customer Information is simple. We do not rent or sell your User Information and Customer Information (collectively, "Information"). We may use your Information that you actively submit to better assist you when you visit or call us again and to send you special offers for our restaurant services that may be of interest to you. We do this by general marketing communications for our services, including by regular mail, e-mail and text messages (collectively, "Marketing Communications"). Unless you "opt-out" through opportunities available to you through our Marketing Communications, we may send you Marketing Communications. You may also "opt-out" of future Marketing Communications by following the instructions provided in Section 7 (Access to and Managing Your User Information) of this Policy.
+Our view on using User Information and Customer Information is simple. We do not rent or sell your User Information and Customer Information (collectively, “Information”). We may use your Information that you actively submit to better assist you when you visit or call us again and to send you special offers for our restaurant services that may be of interest to you. We do this by general marketing communications for our services, including by regular mail, e-mail and text messages (collectively, “Marketing Communications”). Unless you “opt-out” through opportunities available to you through our Marketing Communications, we may send you Marketing Communications. You may also “opt-out” of future Marketing Communications by following the instructions provided in Section 7 (Access to and Managing Your User Information) of this Policy.
 
 Except where we otherwise obtain your express permission, we share your Information with third parties only under the limited circumstances stated below:
 
@@ -72,17 +72,17 @@ When you click on links on our Website that take you to third-party websites, yo
 
 **7\. Access to and Managing Your Information.**
 
-We believe it is important for you to be able to find out what Information you have provided to us through our restaurants, Website and mobile applications, update your Information, and "opt out" of receiving future Marketing Communications. To inquire about your Information, update your Information, or "opt out" of receiving future Marketing Communications, please contact us as described in Section 11 (Questions or Comments) below. Please be sure to include your full name, address, phone number and e-mail address and indicate the specific nature of your request. If you want to "opt out" of receiving Marketing Communications, specify what type of Marketing Communication (e.g., e-mail or direct mail) you wish to receive or stop receiving. This will ensure we identify you correctly in our systems and accurately process your request. If you send an e-mail or letter request, we will take appropriate steps to implement your request, but due to production, mailing and system timelines, it may take up to: 10 business days for e-mails or 30 calendar days for mail. Until that change takes effect, you may still receive or not receive Marketing Communications from us.
+We believe it is important for you to be able to find out what Information you have provided to us through our restaurants, Website and mobile applications, update your Information, and “opt out” of receiving future Marketing Communications. To inquire about your Information, update your Information, or “opt out” of receiving future Marketing Communications, please contact us as described in Section 11 (Questions or Comments) below. Please be sure to include your full name, address, phone number and e-mail address and indicate the specific nature of your request. If you want to “opt out” of receiving Marketing Communications, specify what type of Marketing Communication (e.g., e-mail or direct mail) you wish to receive or stop receiving. This will ensure we identify you correctly in our systems and accurately process your request. If you send an e-mail or letter request, we will take appropriate steps to implement your request, but due to production, mailing and system timelines, it may take up to: 10 business days for e-mails or 30 calendar days for mail. Until that change takes effect, you may still receive or not receive Marketing Communications from us.
 
 You may also ask us to change your preferences on how we use your Information by taking the following steps:
 
 a. Log on to our online ordering Website to access and change your profile information and preferences if you have an online account with us.
 
-b. Follow "opt-out" instructions in promotional e-mails we send to you.
+b. Follow “opt-out” instructions in promotional e-mails we send to you.
 
-c. To stop Steak 'n Shake text messages we send you, text STOP to STEAK (78325).
+c. To stop Steak ‘n Shake text messages we send you, text STOP to STEAK (78325).
 
-Also, please note that even though you may have "opted out" of receiving Marketing Communications, you may still receive business-related communications. Business communications include order confirmations or other administrative information. Please be aware that "opting-out" of certain third party use may prevent us from providing certain services that you request. ** **
+Also, please note that even though you may have “opted out” of receiving Marketing Communications, you may still receive business-related communications. Business communications include order confirmations or other administrative information. Please be aware that “opting-out” of certain third party use may prevent us from providing certain services that you request. ** **
 
 **8\. What You Need to Do to Protect Your Information.**
 
@@ -106,6 +106,6 @@ b. Send a request in writing with your current contact information to:
 
 **Steak n Shake Enterprises, Inc.**  
 Attn: Chief Legal Officer  
-500 Century Building  
-36 S. Pennsylvania Street  
-Indianapolis, IN  46204-3648
+107 S Pennsylvania Street  
+Suite 400  
+Indianapolis IN 46204
