@@ -1,41 +1,69 @@
-> *The following text is extracted and transformed from the nabbr.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121072026id_/http%3A//nabbr.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabbr.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104535id_/http%3A//selectablemedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Nabbr | Privacy Policy
+# Privacy Policy | Selectable Media
 
-| 
+**Selectable Media Privacy Policy**
 
-Nabbr Privacy Policy Statement
+This Privacy Policy describes how Selectable Media gathers information from you when you visit the Selectable Media websites (“Sites) or otherwise interact with our platforms or services (“Platforms” or “Services”), why we collect this information, and how we may use this information. [1]
 
-This site is owned and operated by Nabbr.com Corp ("Nabbr" or "Nabbr.com"). We understand you value your privacy. At Nabbr, we want to make your experience online satisfying and safe. This statement governs information you provide to us or we learn from your use of this web site and tells you how we may collect, use, and in some instances share this information.
+Our Services utilize proprietary technology to enable consumers to unlock digital content and services in exchange for viewing and interacting with brand advertising.  For example, our Platform includes the ability for consumers to engage with advertising provided by Selectable Media or any other third party that may provide advertisements through our system and/or provide information about themselves in order to gain access to content and services that they value.   Our technology may include “cookies” or other technologies currently available or those developed in the future (“Technologies”).
 
-**Information Nabbr Collects**  
-Nabbr gathers two types of information about this website's users:  
-· Personal information that users provide through optional, voluntary submissions, such as email, survey information, and online registration forms to Nabbr. Personal information means any information that may be used to identify an individual, including, but not limited to, your name, home address, company name, telephone number, e-mail address, and credit card information such as the credit card number, card verification value, and the billing address. The types and amount of personal information collected for these activities will vary depending on the activity.  
-· Nabbr also gathers non-personal information through aggregated tracking information derived mainly by tallying page views throughout our sites. This non-personal information collected includes click-throughs, IP addresses, and usage data. This non-personal information allows us to better tailor our content to site users' needs. Usage Tracking We track product usage data and user traffic patterns throughout our site to improve the content of our Web pages and the quality of our service. In addition, we track click-through information, including IP addresses, to our site from the reports and emails we sent to our customers. This is done to gauge the effectiveness of our marketing campaigns and to discourage fraudulent use.
+**Non-Personally Identifiable Information (“Non-PII”)**
 
-**Cookies**  
-A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive. Cookies are required to use the Nabbr service. We use cookies to record current session information. Additionally, if you choose the 'remember me' option, you are issued a permanent cookie. A permanent cookie is one that remains on the hard drive after the browser application has been closed. Children Consistent with the federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requiring parental consent. Any person who provides their personal information to Nabbr through this web site represents that they are 13 years of age or older.
+Selectable Media may collect Non-PII while you are visiting our Sites or when you are exposed to our advertising Services.  This anonymous data includes, but is not limited to, information such as your IP address, web pages and/or advertisements that have been viewed by you, date and time,  number and frequency of pages browsed and your responses to advertisements delivered by us or a third party partner.   This type of information may be collected using different types of Technologies.  You may elect not to allow us to use non-PII by following the Opt-Out procedures set forth below.
 
-**Nabbr's Use of Information**  
-We use the personal information about you stored in our member database in various ways. We use the personal information collected to provide you with our products and services. In addition, the personal information collected is used for identification and authentication, billing, and to contact you. Finally, information we gather may be used to otherwise improve our services.
+Note that since our Services may be served or otherwise interacted with via third party sites or applications, it is your responsibility to read and accept their Terms and Privacy Policy.
 
-**Nabbr's Transfer and Information Sharing Policy**  
-We do not share personal information collected on this web site with third parties for their direct marketing. We provide personal information to trusted businesses or persons for the purpose of processing personal information on our behalf. Nabbr does not otherwise share personal information about site users with third parties unless doing so is appropriate to carry out a user's request or it reasonably believes that doing so is legally required or is in Nabbr's interest to protect its property or other legal rights or the rights or property of others. If Nabbr should ever file for bankruptcy or have its assets sold to or merge with another entity, information Nabbr receives from you from this Site is a Nabbr asset and may be transferred.
+**Personally Identifiable Information (“PII”)**
 
-**International Visitors and Customers**  
-This web site is hosted in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and by providing your personal data you consent to:  
-· the use of your personal data for the purposes identified above in accordance with this Privacy Policy; and  
-· the transfer of your personal data to the United States as indicated above. SECURITY No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use secure server software (SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. If Nabbr learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Nabbr may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the Nabbr.com web site. Nabbr may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at support@Nabbr.com.
+PII is information that identifies you or can be used to identify, contact, or locate you such as your name, address, email address, or telephone number.  We do not ask for PII other than as outlined below for business purposes.  We don’t collect PII via our corporate Web site, www.SelectableMedia.com unless you choose to provide it to us by providing feedback or otherwise contacting or emailing us.
 
-**Changes and Updates**  
-We may occasionally update this Privacy Policy. When we do, we will also revise the "last updated" date on the Privacy Policy. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the Personal Information we collect. Your continued use of this web site constitutes your agreement to this Privacy Statement and any updates.
+**Cookies and Other Identifiers**
 
-**Contacting Nabbr**  
-If you have any questions, comments, or concerns about this Privacy Policy, please email us at contact@nabbr.com  
-Postal Mail Address:  
-70 West 36th Street 15th floor New York, NY 10018  
-Attention: Privacy Officer
+A cookie is a small text file recorded on your hard drive that identifies you as a unique user and contains certain information about your particular login session and/or your use of the Service and the Service uses such cookies as described here.
 
-[Last Updated: August 8th, 2007]
+We use cookies and/or other Technologies to, among other things, “remember” you and collect information about how you respond to our services, such as number of times you’ve accessed out Technologies.  We do not use our Technology to collect and store your personally identifiable information, like name or Social Security or credit card numbers and as a result information contained in our cookies or other Technologies act as anonymous IDs used to provide you with more relevant advertising and services.
 
-| 
+Disabling Cookies
+
+Most Web browsers are set up to accept cookies. If you prefer not to receive cookies, you can set your browser to warn you before accepting cookies and refuse the cookie when you are alerted to its presence.  Or, you can refuse all cookies by turning them off in your browser.   In addition, at any time you can delete cookies from your browser.
+
+**How We Use Your Information**
+
+Selectable Media may use your non-PII to better target advertisements and other content and services to individuals in an effort to create a more relevant experience for each person.  The non-PII is also used for other reasons, such as to predict responses to advertisements, to help determine which ads perform best and which content is most appropriate for different individuals, to provide aggregate reporting to Clients and assess and improve our Technologies.  We may combine this information with publically available information to further enhance your online advertising experiences.
+
+This information may also be combined with information from other sources, and/or shared with our affiliates and partners for similar use.
+
+We may retain such information and aggregations of such information for as long as we deem necessary.
+
+**Opt-Out**
+
+If you’d like to opt-out from having Selectable Media collect your Non-PII in connection with the use of our Technology serving ads and/or video walls on our network of web sites, please click [here](http://ec2-54-227-49-100.compute-1.amazonaws.com/send-feedback/ "Send Feedback"). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to provide digital content or Services or tailor online advertisement campaigns. Please note that if you change your computer, change your Internet browser (e.g. from Internet Explorer to Firefox), or delete all your cookies, you will need to renew your opt-out.
+
+**Business Transfers   **
+
+As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, we reserve the right to include any information we have among the assets transferred to the acquiring company.
+
+**Children**
+
+Selectable Media does not knowingly collect PII from children under the age of 13 via any of our Services or Sites.  Nor do we intentionally create, share, or collect data or segments regarding children under 13 years of age.  If you believe that we might have any information from or about a child under the age of 13, please contact us at Info@selectablemedia.com
+
+**Third Party Data Collection**
+
+This Privacy Policy does not apply to any third party sites, for example, any sites that we may link to.  We suggest contacting those sites directly for information on their privacy, security, and data collection and distribution policies.
+
+Our Clients use our services to enhance their websites, services, advertising, and related offerings.  These sites may place their own cookies on your computer, collect data, or solicit personal information.  For more information about their information practices, please refer to their privacy policies.
+
+**Security**
+
+We take reasonable measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data we collect and store.. Our servers are protected by firewalls and are physically located in secure data facilities to further increase security.   Of course, no security system is perfect. While we have taken reasonable measures to safeguard against the unauthorized access to, or alteration of, data we collect and store, we cannot guarantee that it will not be disclosed or accessed inadvertently or through the unauthorized acts of others.
+
+You understand and agree that we may access, preserve, and disclose any information we may have about you and the contents of your account if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to avoid liability, to comply with legal process, such as a search warrant, subpoena, statute, or court order, or to protect our rights and property, or that of our affiliates or the public.  Selectable Media is not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that Selectable Media receives.
+
+**Changes to Our Privacy Policy**
+
+We may update this Privacy Policy from time to time by posting a new version of it on this website.  We will provide the effective date as well.  To the extent there is any conflict of terms between this Privacy Policy and our Terms of Service found on our Site, the relevant Terms of Service governs.
+
+**How to Contact Us**
+
+If you wish to contact us about this Privacy Policy, you can reach us by email at [privacy@selectablemedia.com](email:privacy@selectablmedia.com).  If you contact us, we may keep a record of that correspondence, including your email address.
