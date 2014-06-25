@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thepostmansknock.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211143700id_/http%3A//www.thepostmansknock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepostmansknock.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141525id_/http%3A//thepostmansknock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Postman's Knock
-
-This privacy policy explains exactly how the information you provide to this website is collected, used, and maintained. This policy applies to the site and all products and services offered by The Postman’s Knock.
 
 ## Personal Identification Information
 
@@ -76,3 +74,5 @@ The Postman’s Knock
 [http://www.thepostmansknock.com](http://www.thepostmansknock.com/)  
 [lindsey@thepostmansknock.com](mailto:lindsey@thepostmansknock.com)  
 +1 (720) 443-1535
+
+This article was last modified on May 2, 2014
