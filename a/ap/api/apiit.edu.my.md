@@ -1,41 +1,184 @@
-> *The following text is extracted and transformed from the apiit.edu.my privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231152156id_/http%3A//www.apiit.edu.my/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apiit.edu.my privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111118id_/http%3A//www.apiit.edu.my/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Asia Pacific Institute of Information Technology (APIIT)
 
 Privacy Policy
 
-1\. Introduction
+We value your privacy and the protection of your personal data in compliance with the Personal Data Protection Act 2010, Malaysia.  
+This Privacy Policy explains:
 
-APIIT SDN BHD takes your privacy seriously. This privacy policy describes how and why we obtain, store and process data which can identify you. We may update this policy from time to time and shall indicate on the web site when changes have been made. 
+  * What kind of personal data we collect
+  * How we collect and handle your personal data
+  * Who we disclose your personal data to
+  * How we store your personal data
+  * The choices we offer, including how to access and update your personal data
 
-2\. The information we collect
 
-Information is collected from you when you register with us, or when you contribute to or use some of the advanced features on the site. The information we collect is clearly set out on the web page on which we collect it. In addition, we may collect your IP address and use cookies unless you configure your web browser not to accept them.
 
-3\. Why we collect it
+We may amend this Privacy Policy at any time without prior notice and will notify you of any such amendment via our website or by email.  
+For the purposes of this Privacy Policy, APU and APIIT refer to all the entities or companies as follows:
 
-We collect information about you so that we can personalise your use of the site, assist your use of the site and improve the site generally. Depending upon your selections for our data protection questions we may arrange for you to be sent information about related products and services from us and carefully selected third parties (see section 4). You may update the answers to your questions at any time.
+  * **Asia Pacific University Sdn. Bhd.**
+    * Asia Pacific University of Technology & Innovation (APU)
+  * **APIIT Sdn. Bhd.**
+    * Asia Pacific Institute of Information Technology (APIIT)
+    * Asia Pacific Language Centre (APLC)
+    * APIIT Corporate Training
 
-4\. Who we disclose it to
 
-4.1 | We will only pass on information about you as an individual (as opposed to aggregate information) to third parties to enable us to perform services requested by you or with your prior consent.  
----|---  
-4.2  | If you give your consent, we will pass your contact details to third parties who may then occasionally send communications to you to provide information, offers and services that may be of interest to you.  
-4.3 | In certain circumstances we may need to disclose information about you if you breach this privacy policy. We may also disclose or access your account if required to do so by law or by any Governmental body.  
-4.4 | We will only pass on information about you as an individual (as opposed to aggregate information) to third parties overseas to enable us to perform services requested by you.  
+
+**1.Personal Data we Collect  **
+
   
-5\. Security
+**1.1 Type of personal data**   
+**Personal Data**  means any information which relates to you and which was collected or provided to the APU & APIIT for the stated purposes. Your personal data may include your name, contact details, religious belief, medical details, previous examination results, academic records, information in audio and/or video format (including voice, video recording, closed-circuit television (“CCTV”) and security recording), images (including photographs).  
+**Sensitive Personal Data**  refers to religious beliefs, political opinions, commission of offence, physical or mental health. We do not collect sensitive personal data from you unless required by law or by regulatory authorities.  
 
-Keeping information about you secure is very important to us and certain sections of the site may encrypt data using SSL or a comparable standard. However, no data transmission over the Internet can be guaranteed to be totally secure. As a result, whilst we strive to protect your personal information, we cannot ensure or warrant the security of any information that you send to us, and you do so at your own risk.
 
-6\. Automated decisions
+**1.2 Sources of personal data**
 
-Parts of [www.apiit.edu.my](https://web.archive.org/web/20131231152156id_/http%3A//www.apiit.edu.my/index.php) and our billing process are automatic and we may process your personal data as part of [www.apiit.edu.my](https://web.archive.org/web/20131231152156id_/http%3A//www.apiit.edu.my/index.php) and the billing process.
+  * **If you are a Student or Potential Student, Parent or Guardian** , we collect your personal information directly or indirectly from you through completed enquiry, application or registration forms through e-mail, fax, recruitment agents, and other modes of electronic or internet communication, via various means, including physical forms and online at public venues, seminars, school visits, exhibitions, or when you visit our campuses.
+  * **If you are a Prospective Client or Customer,  **we collect your personal information directly from you when you express an interest to be contacted for such events and marketing activities through e-mail, fax, and other modes of electronic or internet communication, via various means, including physical forms and online at public venues, seminars, exhibitions or when you visit our campuses.
+  * **If you are a Corporate Training Client or Customer** , we collect your personal data directly from you when you express an interest to be contacted for such events and marketing activities including business cards at events conducted by us; previous courses or programmes organised by us; previous courses or programmes that you attended and which you expressed interest in receiving our data; responding to data or advertisements on our courses or programmes; as an alumni of any of the companies under the APU & APIIT; through e-mail, telephone or fax and other modes of electronic or internet communication.
+  * **If you are a Vendor or Supplier or Service Provider** , we collect your personal information directly or indirectly when we receive personal information pertaining to tenders, quotations and proposals where applicable.
 
-7\. Accessing and updating your personal information
 
-We will always let you have a copy of personal information we have about you, should you request it, and you may correct it if you wish. Instructions about how to do this are available from [info@apiit.edu.my](mailto:info@apiit.edu.my).
 
-8\. Questions?
+**2.  Purposes of Collecting and Processing your Personal Data**
 
-If you have any questions or complaints relating to this Privacy Policy or how we use the personal information we have about you, please contact [info@apiit.edu.my](mailto:info@apiit.edu.my). We will endeavour to respond to you promptly. 
+  1. **Student or Potential student, Parent or Guardian:**  Your personal information is collected and further processed by APU & APIIT as required or permitted by law and for various academic, educational and administrative purposes, including the following: 
+  
+
+    * to process your application for admission and ensure continuous provision of academic and educational services to you;
+    * to provide visa application and insurance coverage throughout the term of your studies with us;
+    * for administration, assessment and records management.
+    * to inform you about academic progress, tuition fees and other relevant payments;
+    * to assist you in job placement, internships or attachments;
+    * for use of the library, computing facilities, student accommodation, graduations, alumni news;
+    * for safety, security and health requirements;
+    * to comply with legal and regulatory obligations;
+    * to contact you regarding events, courses and programmes;
+    * to contact you in the event of emergency or accident;
+  
+
+  2. **Prospective Client or Customer:**  Your personal data is collected and further processed by APU & APIIT as required or permitted by law and for the following commercial purposes: 
+    * to provide you with data, products or services that you request from us;
+    * to contact you regarding our courses and programmes;
+    * to send you information on courses and programmes which we feel may interest you;
+    * to notify you about changes to our courses, programmes and services;
+    * to process any payments related to a services provided;
+    * for internal investigations, audit or security purposes;
+    * to comply with legal and regulatory obligations in the conduct of its business; and
+    * for internal records management.
+  
+
+  3. **Corporate Training Client or Customer:**  Your personal data is collected and further processed by APIIT as required for the following purposes: 
+    * to provide you with data, products or services that you request from us;
+    * to contact you regarding our training courses and programmes
+    * advertising, marketing and commercial materials pertaining to courses and programmes which we feel may interest you;
+    * to notify you about changes to our courses, programmes and services;
+  
+
+  4. **Vendor or supplier or service provider:**   Your personal information is collected and further processed by APU & APIIT as required or permitted by law for the services that you provide to us. 
+
+
+
+**3.  Disclosures and Transfers of Personal Data**
+
+a. **Student or Potential student.** Your personal data provided to us is processed by entities (within or outside of Malaysia) within APU & APIIT (including related companies, subsidiaries, holding companies, associated companies and outsourcing partners). 
+
+Your personal information may be disclosed or transferred within APU & APIIT or relevant third parties (within or outside of Malaysia) as required under law, or to fulfill a contractual relationship or for the purposes stated in Section (2) above (or directly related to those purposes).  
+Relevant third parties within Malaysia include the following:
+
+  * Consulates, embassies and high commissions
+  * Student recruitment agents
+  * Scholarship and education sponsorship bodies
+  * Government Ministries
+  * Statutory bodies
+  * Regulatory bodies
+  * Law enforcement authorities
+  * Immigration
+  * Visa processing
+
+
+
+Relevant third parties outside of Malaysia include the following:
+
+  * University partners
+  * Consulates, embassies and high commissions
+  * Student recruitment agents
+  * Scholarship and education sponsorship bodies
+
+
+
+b. **Corporate Training Clients & Customers**
+
+Your personal data provided to us is processed by APIIT.  Access to your personal information is restricted to staff who are contractually required to process your personal information in accordance with their respective job requirements; and only necessary information is released to the relevant employees.   
+Your personal data may be disclosed or transferred to relevant third parties only, including your employer, your sponsor, or  as required to fulfill a relevant contractual relationship (for example, where appointed as a training service provider) or for the purposes stated in Section (2) above (or directly related to those purposes).
+
+**4.  Storage and Retention of Personal Data**   
+Your personal data is stored securely in hard copy files or in databases within our offices. Any personal data that you have provided to us will be retained by us as long as necessary for the fulfillment of the purposes as stated in (2) above and where required, to fulfill statutory, regulatory or accounting requirements.
+
+**5\. Use of Cookies**
+
+Cookies are small amounts of information that is transferred to your computer through your web browser. Your personal details are not identified or tracked through browsers. Instead, browsers enable us to provide you a more personalised services based on when you have visited our site, where you have been, and your preferences for information and services. This may make it easier for you to log on and use the website during future visits. Most browsers should be able to warn you before accepting cookies and how to filter or disable them. If you do not accept or disable cookies, you may not be able to use certain features on our site. 
+
+**6.  Access to and Correction of Personal Data**   
+You may contact us or notify us directly about your personal data for any of the following reasons:
+
+  1. to ensure your personal data is accurate and up to date;
+  2. to access your personal data;
+  3. to amend, update or correct your personal data;
+  4. to Opt-out or Unsubscribe to your services
+
+| 
+
+E-mail
+
+| 
+
+Tel.  
+  
+---|---|---  
+  
+Asia Pacific University of Technology & Innovation (APU)
+
+| 
+
+[pdp@apiit.edu.my](mailto:pdp@apiit.edu.my)
+
+| 
+
+03-89961000  
+  
+Asia Pacific Institute of Information Technology (APIIT)
+
+| 
+
+[pdp@apiit.edu.my](mailto:pdp@apiit.edu.my)
+
+| 
+
+03-89961000  
+  
+Asia Pacific Language Centre (APLC)
+
+| 
+
+[pdp@apiit.edu.my](mailto:pdp@apiit.edu.my)
+
+| 
+
+03-89411581  
+  
+APIIT Corporate Training
+
+| 
+
+[training@apiit.edu.my](mailto:training@apiit.edu.my)
+
+| 
+
+03-89496000  
+  
+Updated 23 April 2014.
