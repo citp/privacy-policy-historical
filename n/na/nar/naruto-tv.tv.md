@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naruto-tv.tv privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205020108id_/http%3A//naruto-tv.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naruto-tv.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111704id_/http%3A//naruto-tv.tv/privacy) for the most accurate reproduction.*
 
-# Privacy |
+# Privacy | Watch Naruto Episodes
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
