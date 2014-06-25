@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the premiumwebcart.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117090238id_/http%3A//www.premiumwebcart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumwebcart.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133938id_/http%3A//www.premiumwebcart.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Premium Web Cart
+# Premium Web Cart Inc. - Privacy Policy
+
+Privacy Policy
 
 This Privacy Policy governs our policies and practices regarding the collection, use, and disclosure of your personal information that is disclosed via our websites.
 
