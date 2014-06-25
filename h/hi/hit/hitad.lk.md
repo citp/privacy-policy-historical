@@ -1,44 +1,33 @@
-> *The following text is extracted and transformed from the hitad.lk privacy policy that was archived on 2012-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120905015319id_/http%3A//www.hitad.lk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitad.lk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090415id_/http%3A//hitad.lk/EN/privacy-policy) for the most accurate reproduction.*
 
-# HitAd.lk | Best online classifieds in Sri Lanka | Buy and Sell vehicles, houses and properties
+# Privacy Policy| HitAd.lk |Best online classifieds in Sri Lanka|Buy and Sell
 
-  * Privacy Policy  
-  * Introduction  
-  * Wijeya Newspapers Limited, (herein after referred as HitAd) including subsidiaries and affiliates provide you, its Services (herein after referred as “Website”) adhere to the Privacy Policy describe herein. 
+## Privacy Policy
 
-Thank you for visiting our Website (HitAd.lk). This privacy policy tells you how we use personal information collected at this Website. Please read this privacy policy before using the Website or submitting any personal information. By using the Website, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the Website to make sure that you understand how any personal information you provide will be used. 
+Wijeya Newspapers Ltd [PB20], Dialog Axiata PLC [PQ38] and Digital Commerce Lanka (Private) Limited [PV 89581] ( hereinafter referred to as "HitAd" "us" "we" or "our") are the providers of the Service and you by using the Service, agree to be bound by the following terms and conditions (the "Terms and Conditions"). Please read the Terms and Conditions very carefully. If you utilize the Service in a manner inconsistent with these Terms and Conditions, HitAd may terminate your access, block your future access and/or seek such additional relief as the circumstances of your misuse. If Service conditions are in conflict and/ or inconsistent with any of the Terms and Conditions, the Terms and Conditions shall prevail. The personal information supplied by you when subscribing for the Services will be used by HitAd in accordance with the privacy policy set out in this Site. 
 
-Note: the privacy practices set forth in this privacy policy are for this Website only. If you link to other Websites, please review the privacy policies posted at those sites. 
+### Personal Information Collection
 
-  * Collection of Information  
-  * HitAd collects personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists. 
-  * Tracking (Cookie) Technology  
-  * The Website may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Website, and understanding how visitors use the Website. Cookies can also help customize the Website for visitors. Personal information cannot be collected via cookies and other tracking technology. However, if you previously provided personally identifiable information, cookies may be tied to such information. An aggregate cookie and tracking information may be shared with third parties. 
-  * Distribution of Information  
-  * HitAd may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when:   
-(1) permitted or required by law; or,   
-(2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or,   
-(3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
-  * Commitment to Data Security  
-  * Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) will have access to this information. All emails and newsletters from this site allow you to opt-out of further mailings. 
-  * Privacy Contact Information  
-  * If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
+We endeavour to collect and use your personal information only with your knowledge and consent and typically when you order and subsequently use products and services, make customer enquiries, register for information or other services, request product information, submit a job application or when you respond to communications from us (such as questionnaires or surveys). The type of personal information we may collect could include, for example, your name and postal address, date of birth, gender, telephone and fax numbers, email address, and credit / debit card information; lifestyle and other information collected on registration or through surveys. If you choose to provide us with personal information it will be used in support of the intended purposes stated at the time at which it was collected, and subject to any preferences indicated by you. 
 
-HitAd.lk   
-Wijeya Newspapers Ltd (Advertising)   
-48 Park Street,   
-Colombo 02. 
+### Non-personally identifying Information
 
-Telephone: (+94) 11 2479443/ (+94) 11 2479439 
+We may also collect non-personally identifying information about your visit to our web, WAP and other similar sites based on your browsing (click-stream) activities. This information may include the pages you browse and products and services viewed or ordered for example. This helps us to manage and develop our sites better, to provide you with a more enjoyable, customised service and experience in the future, and to help us develop and deliver better products and services tailored to your individual interests and needs. 
 
-Email: [support@hitad.lk](mailto:support@hitad.lk)
+### How will we use your information?
 
-  *   
-HitAd reserves the right to make changes to this policy. Any changes to this policy will be posted on the Website. 
+We may use your information for a number of purposes which includes: processing your ads and managing and administering your account; delivering any services, or information requested by you; responding to complaints or account enquiries; administering debt recoveries; verifying your identity when required (you may lose your password or security information for example, and we may then need to ask you for other ‘identifiable’ information to protect your data from unauthorised access. We may also undertake market and product analysis based on your use of our services and products and contact you with information about new developments, products, services and special offers by post, telephone and automated means such as mobile text message (SMS), Email, Fax, Pager, WAP and the world wide web. We may also tell you about the products and services of carefully selected third parties and allow you to receive advertising and marketing information from those selected third parties without passing control of your personal information to the third party. For example or you may simply receive an advertisement on your personal web and WAP page according to any preferences indicated by you and/ or according to your interests. This helps us to make you aware of products and services that we may have specially negotiated for our own customers and which may be of individual interest to you. You acknowledge that by providing data to us, you consent to the processing of your data in accordance with this Privacy Policy Statement. 
 
+### When will we disclose your information to others? 
 
+We may disclose information about you, your account and your mobile phone to (i) companies within the for the purposes and subject to the terms of this Privacy Policy Statement; and (ii) in the event that we undergo re-organisation or are sold to a third party, in which case you agree that any personal information we hold about you may be transferred to that re-organised entity or third party for the purposes and subject to the terms of this Privacy Policy Statement. 
 
-**Group Sites** : [Daily Mirror](http://www.dailymirror.lk/) | [Sunday times](http://www.sundaytimes.lk/) | [Lankadeepa](http://www.lankadeepa.lk/) | [Financial Times](http://www.ft.lk/) | [epaper](http://www.epaper.lankadeepa.lk/) | [HI Mag](http://www.hi.lk/) | [Lanka Women](http://www.lw.lk/) | [Hit Ad](http://www.hitad.lk/) | [WNL](http://www.wijeya.lk/) | Tamil Mirror | Mirror Sports |  
-**Services :** [Home delivery](mailto:subs@wijeya.lk?subject=Subscripition) | [Webmaster](mailto:pradeep@admin.wnl.lk)| [Web Ads](mailto:umairw@wijeya.lk?subject=Web%20Advertisment) | [Editorial](mailto:dmnews@wijeya.lk?subject=Dailymirror%20Editorial) | [Help Desk](mailto:helpdesk@wijeya.net?subject=Help%20Desk)|  
-**Copyrights protected:** All the content on this website is copyright protected and can be reproduced only by giving the due courtesy to 'hitad.lk'  
+Please note that HitAd does not sell or pass your personal information to third parties (other than as set out in the paragraph above) unless you have given us permission or unless it is necessary to deliver the products and services ordered or used by you. For example, we may disclose your data to a credit card company to validate your credit card details and obtain payment when you buy a phone or other product or service. It may also be necessary to pass your data to the organisation from whom you have ordered any products or services, such as a location-based service like for example ‘Tell me where a specific address is’. HitAd may also be obliged to disclose your personal information to meet any legal or regulatory requirements or obligations in accordance with local or international applicable law. 
 
+### Cookies 
+
+We may use cookies to record details such as a user identity and general registration details on your PC. This helps us recognise you on subsequent visits so that you don’t have to re-enter your registration details each time you visit us and allows us to carry out those activities mentioned in the above section “non-personally identifying information”. Depending upon the type of browser you are using, you may be able to configure your browser so that: (i) you are prompted to accept or reject cookies on an individual basis or (ii) you may be able to prevent your browser from accepting any cookies at all. You should refer to the supplier or manufacturer of your web browser for specific details about cookie security. 
+
+### Access to your Information / Information Security
+
+HitAd recognises that its customers are increasingly concerned about how companies protect personal information from misuse and abuse and about privacy in general. HitAd is constantly reviewing and enhancing its technical, physical and managerial procedures and rules to protect your personal data from unauthorised access, accidental loss and / or destruction. We use industry standard secure sockets layer (SSL) technology, for example, to encrypt sensitive information such as your credit card and other financial information.Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered – this is the nature of the World Wide Web/Internet. HitAd cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control. 
