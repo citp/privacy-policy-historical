@@ -1,100 +1,63 @@
-> *The following text is extracted and transformed from the yosto.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yosto.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065110id_/http%3A//yosto.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Yosto.com - Advanced Lead Generation Affiliate Network
 
-**Go Daddy Respects Your Privacy**
+We own, operate and maintain Yosto, which is our Internet property. Yosto is devoted to securing your personal information that you submit via this website. The purpose of this Privacy Policy is to inform our visitors about our practices aimed at protecting their Personally Identifiable Information. This Privacy Policy also contains the information about the choices our visitors can make regarding their Personally Identifiable Information and the way we use it. Prior to start using this website you should review this Privacy Policy that applies to any and all information that is submitted through or collected by Yosto. If you continue using this website and/or register in Yosto, you signify that you have read, understood and agreed with this Privacy Policy in its entirety. If you do not agree with this Privacy Policy you should stop using this website and do not register in Yosto.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+## Policy on Personally Identifiable Information
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Personally Identifiable Information is information about an individual that can help identify or contact them. When you register in Yosto, you provide us with your Personally Identifiable Information, which may include, but is not limited to name, address, birth date, telephone number and email address. Personally Identifiable Information is used by us solely for identification and communication purposes.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+## Policy on Non-Personally Identifiable Information
 
-**Information Collection and Use**
+Apart from Personally Identifiable Information, you may also need to provide us with your Non-Personally Identifiable Information, which may include, but is not limited to your IP address, the operating system and browser you are using and your Internet Service Provider.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## Cookies
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We use cookies on our website in order to enhance your Yosto using experience. Cookies are small pieces of data that are sent to your computer each time you use this website and make it possible for us to identify you on your next visit. Cookies allow us to store your preferences and use this information to improve our services. You can always disable cookies in your browser’s settings but if you choose to disable them, you may not be able to use this website in full. Please notice that cookies do not provide us with any of your Personally Identifiable Information. Besides, Yosto cannot regulate cookies technology provided by third parties.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+## Our Use of Your Information
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+When you submit any of your Personally Identifiable or Non-Personally Identifiable Information, you agree that we can use this information to send you updates on our products and services, to contact you as a member of Yosto, to send you informational letters about the products and services you may be interested in or to prevent illegal use of Yosto. We can also use your information for the purposes permitted by law and for the purposes you have given your consent to.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+## Policy on Information Sharing
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We will not normally sell, rent or otherwise share your information with third parties, other than in the cases stated below. We reserve the right to share some of your data with third parties if it is necessary for carrying out payments, billing or deliveries. However, all such parties have contractual obligations to keep your Personally Identifiable Information safe and secure.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We at Yosto are within our rights to share the information you submit via this website when we are subpoenaed or required to do so by law, legal processes or warrants. We are also obligated to share your information when we are asked to do so by a governmental authority, a court or a quasi-governmental authority. We may also share some of your information if you are suspected to be in violation of Yosto’s Privacy Policy and in case we file for bankruptcy or are acquired by a third party. We may also share your personal information to prevent fraud, to solve technical and/or security issues, to improve Yosto design and content, to protect the rights of Yosto and the rights of third parties, or to protect Yosto from incurring liability.
 
-**Security**
+## Information Security
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Yosto makes significant efforts to protect your information from any illegal use. We employ a number of security measures, both physical and electronic, designed to protect your data from illicit access, use, sharing or damage both online and offline. Only a limited number of our employees have access to the user’s personal information and their access to such information is limited by strict regulations. Any information transmitted by means of Yosto is secured with Secure Socket Layer encryption. We store our users’ data on secure computers and servers equipped with password protection.
 
-**Updating Your Information**
+However, we cannot warrant or guarantee that any data transmission or storage is 100% protected, despite all our security measures. If you choose to access and use Yosto and its services, please remember that you are doing so at your own risk.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+In case we discover a security breach that may threaten your Personally Identifiable Information, we will notify you by email, as well as all relevant regulatory agencies. However, the notification may be delayed if we are asked to do so by a law enforcement agency or in order to determine the scope of the breach and take some immediate measures.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+## Storage of Your Personally Identifiable Information
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Yosto stores all the information submitted via this website which is necessary to properly render our services, meet legal requirements or resolve disputes. If you do not want us to store your Personally Identifiable Information or want us to update it, you may contact us via any of the contact means listed on our website.
 
-      iii.      You may call us at: (480) 505-8800
+## Opt-Out Rights
 
-       iv.      You may fax us at: (480) 505-8844
+If you wish to unsubscribe from our informational messages and offers, you can do it by sending us an email or by following the instructions at the bottom of the emails you receive. Your email will be added to our Suppression list as soon as possible. Please note that you cannot opt out of receiving Yosto’s updates or emails that deal with your participation in our network.
 
-**Sending Emails**
+## Third Parties
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+You can find links to third parties’ websites on Yosto’s site. Please notice that Yosto is on no account responsible for the third parties’ Privacy Policies. This Privacy Policy only regulates your use of Yosto and does not apply to other websites, products or services. Yosto is not responsible for your use of third parties’ websites even if you access them through links on this website.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+## Policy on Underage Users
 
-**Compliance with Laws and Law Enforcement**
+We do not purposefully collect, use or share any information from underage users. You must be at least 18 years of age to have the legal right to use our services. If you have any information about the use of this website by children under 18 please contact us via any of the means listed on our website and we will immediately delete all Personally Identifiable Information submitted by such users from our records.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Changes to This Privacy Policy
 
-**Third Party Service Providers**
+We have the right to make changes to this Privacy Policy. We will notify you of any of these changes by sending you an email. All such changes become effective as soon as they are posted on the website. We encourage you to review Yosto’s Privacy Policy each time you use this website. If you do not agree with any of the changes and/or modification to the Privacy Policy, please stop using this website and our services. If you continue using this website after the changes have become effective, you give your consent to the modified Privacy Policy.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## Titles
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+This Privacy Policy contains titles and subtitles that are added only for your convenient use of this website. They in no way influence the meaning of this Privacy Policy.
 
-**Supplementation of Information**
+## Contact Us
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions regarding Yosto’s Privacy Policy, please contact us via any of the means listed in our contact information. We will do our best to respond to you as soon as possible. Thank you for your interest in Yosto!
