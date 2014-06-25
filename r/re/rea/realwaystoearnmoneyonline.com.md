@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realwaystoearnmoneyonline.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206162923id_/http%3A//realwaystoearnmoneyonline.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realwaystoearnmoneyonline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625153624id_/http%3A//realwaystoearnmoneyonline.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at realwaystoearn1@gmail.com.**
+**If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at anna@realwaystoearnmoneyonline.com.**
 
 At www.realwaystoearnmoneyonline.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.realwaystoearnmoneyonline.com and how it is used.
 
@@ -43,3 +43,6 @@ If you wish to disable cookies, you may do so through your individual browser op
  **Emails**
 
 Real Ways to Earn Money Online collects email addresses for the purpose of sending out weekly newsletters. Email addresses are NEVER sold or shared by Real Ways to Earn Money Online. Additionally, the service provider used, Mad Mimi, does not share or sell email addresses. You can see their [**privacy policy here**](https://madmimi.com/legal/privacy).
+
+  
+
