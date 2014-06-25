@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yodel.co.uk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818193546id_/http%3A//www.yodel.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodel.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102856id_/http%3A//www.yodel.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Yodel
 
 **WHO WE ARE**
 
-"Yodel" is a trading name of Yodel Delivery Network Limited and its associated companies including Parcelpoint Limited, HDN (NI) Limited and Yodel Transport Limited. References to "the Website" are to www.yodel.co.uk
+"Yodel" is a trading name of Yodel Delivery Network Limited. References to "the Website" are to www.yodel.co.uk
 
 **WHAT INFORMATION WE COLLECT AND HOW**
 
