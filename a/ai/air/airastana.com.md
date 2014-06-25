@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airastana.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109145155id_/http%3A//www.airastana.com/int/en/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airastana.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052600id_/http%3A//www.airastana.com/kaz/en/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Air Astana - Privacy Policy
 
@@ -24,13 +24,21 @@ If your browser does not support SSL, we recommend you to update to the latest v
 
  **Email services**
 
-When you subscribe to receiving such communications as Air Astana’s electronic newsletter, you are giving Air Astana permission to use your email address for sending you the newsletter, and other mail such as surveys and news about special offers. You can subscribe to electronic newsletters via our Frequent Flyer Programme [Nomad Club](https://web.archive.org/common/en/Join-Now.aspx) or on [Subscribe to Specials Offers](https://web.archive.org/common/en/Subscribe-to-Special-Offers.aspx) page at airastana.com.
+When you subscribe to receiving such communications as Air Astana’s electronic newsletter, you are giving Air Astana permission to use your email address for sending you the newsletter, and other mail such as surveys and news about special offers. You can subscribe to electronic newsletters via our Frequent Flyer Programme [Nomad Club](https://web.archive.org/kaz/en/Join-Now.aspx) or on [Subscribe to Specials Offers](https://web.archive.org/kaz/en/Subscribe-to-Special-Offers.aspx) page at airastana.com.
 
 If you wish to retract your permission for Air Astana and do not want to receive information by email, you can do so any time by clicking the ‘unsubscribe’ link at the bottom of the email.
 
- **Contact**
+ **Cookie Policy**
 
-For enquiries or complaints about the protection of your personal information by Air Astana, please email [customer.relations@airastana.com](mailto:customer.relations@airastana.com) and we will contact you as soon as possible.
+A cookie is a small piece of information sent from a website and temporarily stored in a user’s web browser. The browser then returns the cookie to the server the next time the page is referenced. Cookies allow a website to customize a visit and give you a better user experience when you return to the website.
+
+Airastana.com uses cookies for collecting information about how visitors use airastana.com, for remembering visitor preferences (eg. country, language), and visitor profiling for retargeting purposes. Tracking is done anonymously and no personal information about you can be scanned or retrieved.
+
+By visiting airastana.com you agree that Air Astana places cookies on your device.
+
+ **Contact  
+**  
+For enquiries or complaints about the protection of your personal information by Air Astana, please email [customer.relations@airastana.com](mailto:customer.relations@airastana.com) and we will contact you as soon as possible. 
 
 To view your personal information, have it corrected or submit a complaint about the use of your personal information by Air Astana, you may send your written response, accompanied by a copy of your proof of identity, to:
 
