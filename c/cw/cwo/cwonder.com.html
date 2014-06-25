@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the cwonder.com privacy policy that was archived on 2013-08-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130807104750id_/http%3A//www.cwonder.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cwonder.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625135153id_/http%3A//www.cwonder.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="" class="js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths standardsMode"><head>
-	<script type="text/javascript" async="" src="//pinboard.insparq.com/assets/flicker/insparqflicker.js"></script><script type="text/javascript" async="" defer="" src="https://c.jirafe.com/jirafe.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/_ui/desktop/common/js/assets/js/vendor/modernizr-2.6.2.min.js"></script>
+	
 	<title>
 		C. Wonder</title>
 	
@@ -14,17 +14,11 @@
 	<meta name="ms-validate-01" content="D29F1CE1C3468DF745F9D2C338F0E5A5">
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
 	<meta name="robots" content="index,follow">
 	<link rel="shortcut icon" href="/_ui/desktop/theme-cwonder/images/favicon.ico" type="image/x-icon">
 
-	<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/common/css/jquery.colorbox-1.3.16.css">
-
-<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/common/css/jquery.bt-0.9.5.css">
-
-<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/common/css/jquery.ui.stars-3.0.1.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/common/css/jquery.ui.autocomplete-1.8.18.css">
-
-<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/theme-cwonder/css/main.css"><style type="text/css">
+	<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/theme-cwonder/css/master.min.css"><style type="text/css">
 			.cart_popup {
 				display: none;
 			}
@@ -38,129 +32,52 @@
 
 <!--[if IE 8]> <link type="text/css" rel="stylesheet" href="/_ui/desktop/theme-cwonder/css/ie_8.css" media="screen, projection" /> <![endif]-->
 <!--[if IE 7]> <link type="text/css" rel="stylesheet" href="/_ui/desktop/theme-cwonder/css/ie_7.css" media="screen, projection" /> <![endif]-->
-<script type="text/javascript">
+<script type="text/javascript" async="" src="//pinboard.insparq.com/assets/flicker/insparqflicker.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
 /* Google Analytics */
-
 var googleAnalyticsTrackingId = 'UA-23891932-3';
 var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-23891932-3']);
+_gaq.push(['_setAccount', googleAnalyticsTrackingId]);
+_gaq.push(['_trackPageview']);
 
 
-		//
-	
 
 (function() {
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-	//ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 
-
-function trackAddToCart_google(productCode, quantityAdded) {
-	_gaq.push(['_trackEvent', 'Cart', 'AddToCart', productCode, quantityAdded]);
-}
-
-function trackUpdateCart(productCode, initialQuantity, newQuantity) {
-	if (initialQuantity != newQuantity) {
-		if (initialQuantity > newQuantity) {
-			_gaq.push(['_trackEvent', 'Cart', 'RemoveFromCart', productCode, initialQuantity - newQuantity]);
-		} else {
-			_gaq.push(['_trackEvent', 'Cart', 'AddToCart', productCode, newQuantity - initialQuantity]);
-		}
-	}
-}
-
-function trackRemoveFromCart(productCode, initialQuantity) {
-	_gaq.push(['_trackEvent', 'Cart', 'RemoveFromCart', productCode, initialQuantity]);
-}
 </script>
-<script type="text/javascript">
-/* Jirafe */
 
 
-		var jirafe = { "id": "1671", "baseUrl":"test-data.jirafe.com" };
+
+
+
+    
+        <script type="text/javascript" src="/_ui/desktop/theme-cwonder/js/CWonder-0.0.0.1.min.js"></script>
+    
+     
+
+
+<script>
+	
+	var jirafe = jirafe || {};
 	
 
-(function(){
-	var d=document,g=d.createElement('script'),s=d.getElementsByTagName('script')[0];
-	g.type='text/javascript';g.defer=g.async=true;g.src=d.location.protocol+'//c.jirafe.com/jirafe.js';
-	s.parentNode.insertBefore(g, s);
-})();
-
-
-
-function trackAddToCart_jirafe(cartData) {
-
-	jirafe = {
-		"force": "true",
-		"id": "1671",
-		"baseUrl": "test-data.jirafe.com",
-		"cart": {
-			"total": cartData.total,
-			"products": []
-		}
-	};
-
-	for (var i=0; i<cartData.products.length; i++)
-	{
-		var productData = {
-			"sku": cartData.products[i].code,
-			"name": cartData.products[i].name,
-			"qty": cartData.products[i].quantity,
-			"price": cartData.products[i].price,
-			"category": cartData.products[i].categories[0]
-		};
-		jirafe.cart.products.push(productData);
+	var console = console || {};
+	console.log = console.log || function () {};
+	console.warn = console.warn || function () {};
+	console.error = console.error || function () {};
+	
+	if (window.location.href.indexOf('localhost') === -1) {
+		window.console = {
+        	log: function () {},
+        	warn: function () {},
+        	error: function () {}
+	    };
 	}
-
-	(ff = function(){
-		var d=document,g=d.createElement('script'),h=d.getElementsByTagName('head')[0];
-		g.type='text/javascript';g.src=d.location.protocol+'//test-c.jirafe.com/jirafe.js';
-		h.appendChild(g);
-	})();
-}
-
 </script>
-<script async="" src="https://s3.amazonaws.com/static.rondavu.com/C/CWonder_PROD/rondavu.js"></script></head>
 
-<body class="language-en content-page-one" style="null"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
-<script type="text/javascript" src="/_ui/desktop/common/js/assets/js/vendor/jquery-1.8.1.min.js"></script>
-
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery.query-2.1.7.js"></script>
-
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery-ui-1.10.1.js"></script>
-
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery.ui.touch-punch.js"></script>
-
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery.jcarousel-0.2.8.min.js"></script>
-
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery.tmpl-1.0.0pre.min.js"></script>
-
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery.blockUI-2.39.js"></script>
-
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery.galleriffic-2.0.1.js"></script>
-
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery.colorbox-1.3.16.js"></script>
-
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery.slideviewer.1.2.js"></script>
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery.easing.1.3.js"></script>
-
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery.scrollTo-1.4.2-min.js"></script>
-
-
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery.ui.stars-3.0.1.min.js"></script>
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery.form-3.09.js"></script>
-
-
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery.bgiframe-2.1.2.min.js"></script>
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery.bt-0.9.5-rc1.min.js"></script>
-
-<script type="text/javascript" src="/_ui/desktop/common/js/acc.common.js"></script>
-<script type="text/javascript" src="/_ui/desktop/common/js/acc.cms.js"></script>
-<script type="text/javascript" src="/_ui/desktop/common/js/acc.product.js"></script>
-
-<script type="text/javascript" src="/_ui/desktop/common/js/acc.common.js"></script>
 <script type="text/javascript">
 	/*<![CDATA[*/
 	
@@ -168,13 +85,10 @@ function trackAddToCart_jirafe(cartData) {
 	ACC.common.commonResourcePath = "/_ui/desktop/common";
 	ACC.common.themeResourcePath = "/_ui/desktop/theme-cwonder";
 	ACC.common.siteResourcePath = "/_ui/desktop/site-cwonder";
-	ACC.common.rootPath = "/";
+	ACC.common.rootPath = "";
 	/*]]>*/
 </script>
 
-<script type="text/javascript" src="/_ui/desktop/common/js/acc.cms.js"></script>
-<script type="text/javascript" src="/_ui/desktop/common/js/acc.product.js"></script>
-<script type="text/javascript" src="/_ui/desktop/common/js/acc.refinements.js"></script>
 
 <script type="text/javascript">
 	/*<![CDATA[*/
@@ -206,9 +120,7 @@ function trackAddToCart_jirafe(cartData) {
 	/*]]>*/
 </script>
 
-<script type="text/javascript" src="/_ui/desktop/common/js/jquery.pstrength-1.2.min.js"></script>
-
-	<script type="text/javascript">
+<script type="text/javascript">
 		/*<![CDATA[*/
 		$(function() {
 			$('.strength').pstrength();
@@ -235,12 +147,29 @@ function trackAddToCart_jirafe(cartData) {
 
 <script type="text/javascript" src="//use.typekit.net/uls2tlv.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+
+
+  <iframe src="javascript:false" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script type="text/javascript">
+    var AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(b,a){AKSB.q.push(["mark",b,a||(new Date).getTime()])};AKSB.measure=function(b,a,c){AKSB.q.push(["measure",b,a,c||(new Date).getTime()])};AKSB.done=function(b){AKSB.q.push(["done",b])};AKSB.mark("firstbyte",(new Date).getTime());
+    AKSB.prof={custid:"283817",ustr:"",originlat:0,clientrtt:1,ghostip:"173.223.232.207",ipv6:false,pct:10,xhrtest:false,clientip:"207.241.237.103"};
+    (function(b){var a=document.createElement("iframe");a.src="javascript:false";(a.frameElement||a).style.cssText="width: 0; height: 0; border: 0; display: none";var c=document.getElementsByTagName("script"),c=c[c.length-1];c.parentNode.insertBefore(a,c);a=a.contentWindow.document;a.open().write("<body onload=\"var js = document.createElement('script');js.id = 'aksb-ifr';js.src = '"+b+"';document.body.appendChild(js);\">");a.close()})(("https:"===document.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/ds-aksb.min.js");
+    </script>
+    <script async="" src="https://s3.amazonaws.com/static.rondavu.com/C/CWonder_PROD/rondavu.js"></script></head>
+
+<body class="language-en content-page-one" style="null"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
 <script type="text/javascript">
-document.cookie='s_tagEnv=dev; path=/';void(0);
-</script>
 
 
-<!-- Adobe Marketing Cloud Tag Loader Code
+	var tmVisitorType="guest";
+
+	
+	var tmPlatform="Desktop";
+
+
+	var tmCart="";
+	
+</script><!-- Adobe Marketing Cloud Tag Loader Code
 Copyright 1996-2013 Adobe, Inc. All Rights Reserved
 More info available at http://www.adobe.com/solutions/digital-marketing.html -->
 <script type="text/javascript">//<![CDATA[
@@ -254,7 +183,7 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 <div class="promo-bar clearfix">
 	<div class="flex-container">
 		<div id="global_promotion_bar" class="promo-message">
-			<div style="letter-spacing: 1pt; color: #ff00ff; font-size: 10px">Welcome to your new favorite site! <a style="color: #ff00ff" href="/new-favorite-site.html"><u>Take a look around.</u></a></div></div>
+			<div style="letter-spacing: 1pt; color: #f65c80; font-size: 8px"><span style="font-size: small;"> The Semi-Annual Big Wonder Sale is here! Up to 70% off!  </span><a href="http://www.cwonder.com/Categories/Sale/shop-by-category/Sale.html"><span style="font-size: small;"><u style="color: rgb(247, 116, 147);">shop now&gt;</u></span></a></div></div>
 		<div class="header-social-links">
 			<div id="flicker">
 				<script language="javascript" type="text/javascript"> 
@@ -298,7 +227,7 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 		</div>
 	</div>
 </div>
-<header class="header-standard clearfix">
+<header class="header-standard clearfix" data-view="header">
 			<div class="flex-container">
 				<div class="left">
 					<div class="email-signup">
@@ -321,7 +250,7 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 							<form name="search_form" method="get" action="/search">
 								<input id="search" class="text" type="text" name="text" value="" maxlength="100" placeholder="Search">
 								<input type="submit" value="">
-							<input type="hidden" name="_requestConfirmationToken" value="6ce374f15a0046ca407fbd7c502d163a17db8d12"></form>
+							<input type="hidden" name="_requestConfirmationToken" value="cb93408b0f25b00a5d0e260655f0a08aff7e7b41"></form>
 						</div>
 						<div class="shopping-cart-link">
 						<a id="global-cart-quantity" href="/cart">
@@ -332,7 +261,7 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 						
 				<div class="logo">
 					<div class="simple_banner">
-	<a href="/"><img title="" alt="" src="/medias/sys_master/h70/he7/8798034460702/cWonder_logo_green_animated_2sec5sec.gif"></a>
+	<a href="/"><img title="" nopin="true" alt="" src="/medias/sys_master/h33/hcb/8806387515422/cWonder_logo_green_animated_2sec5sec.gif"></a>
 		</div></div>
 			</div>
 		</header>
@@ -340,7 +269,7 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 	<div class="centeredlist main-nav">
 	<ul>
 		<li>
-<a href="/Categories/Clothing/shop-by-category/Clothing.html" title="Clothing">Clothing</a>
+<a href="/Categories/Sale/shop-by-category/Sale.html" title="Big Wonder Sale" class="navbarred">Big Wonder Sale</a>
 	<div class="sub-nav">
 		<div class="content-container">
 		<ul class="clearfix first">
@@ -351,9 +280,9 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 
 
 	
-	<a href="/Categories/Clothing/Shirts-%26-Tops/shop-by-category/ShirtsandTops.html" title="Shirts &amp; Tops">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h2b/h35/8796539027486/july13_shirts.jpg" alt="">
-	</span> <span class="menu-text">Shirts &amp; Tops</span> <span class="menu-hover"></span>
+	<a href="/Categories/70%25-Off-Final-Sale/shop-by-category/70OffFinalSale.html" title="Final Sale">
+		<span class="menu-image"> <img nopin="true" title="" src="/medias/sys_master/h0c/h10/8813407502366/70-.jpg" alt="">
+	</span> <span class="menu-text">Final Sale</span> <span class="menu-hover"></span>
 	</a>
 </li>
 								
@@ -365,187 +294,9 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 
 
 	
-	<a href="/Categories/Clothing/Sweaters/shop-by-category/Sweaters.html" title="Sweaters">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h2d/h35/8796539093022/july13_sweaters.jpg" alt="">
-	</span> <span class="menu-text">Sweaters</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Clothing/Knits-%26-Tees/shop-by-category/KnitsandTees.html" title="Knits &amp; Tees">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h2f/h35/8796539158558/july13_knits.jpg" alt="">
-	</span> <span class="menu-text">Knits &amp; Tees</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li class="fourth last">
-
-
-
-
-
-	
-	<a href="/Categories/Clothing/Dresses-%26-Skirts/shop-by-category/DressesandSkirts.html" title="Dresses &amp; Skirts">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h31/h35/8796539224094/july13_dresses.jpg" alt="">
-	</span> <span class="menu-text">Dresses &amp; Skirts</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								</ul> <ul class="clearfix last">
-										<li>
-
-
-
-
-
-	
-	<a href="/Categories/Clothing/Pants-%26-Shorts/shop-by-category/PantsandShorts.html" title="Pants &amp; Shorts">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h33/h35/8796539289630/july13_pants.jpg" alt="">
-	</span> <span class="menu-text">Pants &amp; Shorts</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Clothing/Blazers-%26-Outerwear/shop-by-category/BlazersandOuterwear.html" title="Blazers &amp; Outerwear">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h35/h35/8796539355166/july13_blazers.jpg" alt="">
-	</span> <span class="menu-text">Blazers &amp; Outerwear</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Clothing/Sale/shop-by-category/ClothingSale.html" title="Sale">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h2d/hb8/8797638000670/dropdown_071113_SALE.jpg" alt="">
-	</span> <span class="menu-text">Sale</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li class="fourth last">
-
-
-
-
-
-	
-	<a href="/Categories/Gift-Cards/shop-by-category/Gift-Cards.html" title="Gift Cards">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h76/hf6/8798160486430/dropdown_071113_gift-card.jpg" alt="">
-	</span> <span class="menu-text">Gift Cards</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								</ul> </div> <!-- end content container -->
-		</div><!-- end sub nav  -->	
-	</li>
-	<li>
-<a href="/Categories/Jewelry/shop-by-category/Jewelry.html" title="Jewelry">Jewelry</a>
-	<div class="sub-nav">
-		<div class="content-container">
-		<ul class="clearfix first">
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Jewelry/Bracelets/shop-by-category/Bracelets.html" title="Bracelets">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h5f/h35/8796540731422/july13_bracelets.jpg" alt="">
-	</span> <span class="menu-text">Bracelets</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Jewelry/Necklaces/shop-by-category/Necklaces.html" title="Necklaces">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h61/h35/8796540796958/july13_necklaces.jpg" alt="">
-	</span> <span class="menu-text">Necklaces</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Jewelry/Earrings/shop-by-category/Earrings.html" title="Earrings">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h63/h35/8796540862494/july13_earrings.jpg" alt="">
-	</span> <span class="menu-text">Earrings</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li class="fourth last">
-
-
-
-
-
-	
-	<a href="/Categories/Jewelry/Rings/shop-by-category/Rings.html" title="Rings">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h65/h35/8796540928030/july13_rings.jpg" alt="">
-	</span> <span class="menu-text">Rings</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								</ul> <ul class="clearfix">
-										<li>
-
-
-
-
-
-	
-	<a href="/Categories/Jewelry/Charms/shop-by-category/Charms.html" title="Charms">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h67/h35/8796540993566/july13_charms.jpg" alt="">
-	</span> <span class="menu-text">Charms</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Jewelry/Sale/shop-by-category/JewelrySale.html" title="Sale">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h39/hb8/8797638393886/dropdown_071113_SALE.jpg" alt="">
-	</span> <span class="menu-text">Sale</span> <span class="menu-hover"></span>
+	<a href="/Categories/50%25-Off-Summer-Styles/shop-by-category/50OffSummerStyles.html" title="Summer Styles">
+		<span class="menu-image"> <img nopin="true" title="" src="/medias/sys_master/h09/h10/8813407404062/50-.jpg" alt="">
+	</span> <span class="menu-text">Summer Styles</span> <span class="menu-hover"></span>
 	</a>
 </li>
 								
@@ -557,9 +308,9 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 
 
 	
-	<a href="/Categories/Gift-Cards/shop-by-category/Gift-Cards.html" title="Gift Cards">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h76/hf6/8798160486430/dropdown_071113_gift-card.jpg" alt="">
-	</span> <span class="menu-text">Gift Cards</span> <span class="menu-hover"></span>
+	<a href="/Categories/30%25-Off-Select-Bags/shop-by-category/30OffBags.html" title="Select Bags">
+		<span class="menu-image"> <img nopin="true" title="" src="/medias/sys_master/h06/h10/8813407305758/30-.jpg" alt="">
+	</span> <span class="menu-text">Select Bags</span> <span class="menu-hover"></span>
 	</a>
 </li>
 								
@@ -568,432 +319,26 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 		</div><!-- end sub nav  -->	
 	</li>
 	<li>
-<a href="/Categories/Bags/shop-by-category/Bags.html" title="Bags">Bags</a>
-	<div class="sub-nav">
-		<div class="content-container">
-		<ul class="clearfix first">
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Bags/Totes/shop-by-category/Totes.html" title="Totes">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h13/h35/8796538241054/july13_totes.jpg" alt="">
-	</span> <span class="menu-text">Totes</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Bags/Clutches-%26-Small-Bags/shop-by-category/ClutchesandSmallBags.html" title="Clutches &amp; Small Bags">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h13/hf4/8798140465182/dropdown_071113_bags_clutches.jpg" alt="">
-	</span> <span class="menu-text">Clutches &amp; Small Bags</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Bags/Travel/shop-by-category/Travel.html" title="Travel">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h24/h35/8796538798110/july13_travel.jpg" alt="">
-	</span> <span class="menu-text">Travel</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li class="fourth last">
-
-
-
-
-
-	
-	<a href="/Categories/Bags/Sale/shop-by-category/BagsSale.html" title="Sale">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h26/hb8/8797637771294/dropdown_071113_SALE.jpg" alt="">
-	</span> <span class="menu-text">Sale</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								</ul> <ul class="clearfix">
-										<li class="last">
-
-
-
-
-
-	
-	<a href="/Categories/Gift-Cards/shop-by-category/Gift-Cards.html" title="Gift Cards">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h76/hf6/8798160486430/dropdown_071113_gift-card.jpg" alt="">
-	</span> <span class="menu-text">Gift Cards</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								</ul> </div> <!-- end content container -->
-		</div><!-- end sub nav  -->	
+<a href="/Categories/Clothing/shop-by-category/Clothing.html" title="Clothing" class="">Clothing</a>
 	</li>
 	<li>
-<a href="/Categories/Shoes/shop-by-category/Shoes.html" title="Shoes">Shoes</a>
-	<div class="sub-nav">
-		<div class="content-container">
-		<ul class="clearfix first">
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Shoes/Ballets-%26-Flats/shop-by-category/BalletsandFlats.html" title="Ballets &amp; Flats">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h72/h35/8796541354014/july13_ballets.jpg" alt="">
-	</span> <span class="menu-text">Ballets &amp; Flats</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Shoes/Sandals/shop-by-category/Sandals.html" title="Sandals">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h74/h35/8796541419550/july13_sandals.jpg" alt="">
-	</span> <span class="menu-text">Sandals</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Shoes/Wedges/shop-by-category/Wedges.html" title="Wedges">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h76/h35/8796541485086/july13_wedges.jpg" alt="">
-	</span> <span class="menu-text">Wedges</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li class="fourth last">
-
-
-
-
-
-	
-	<a href="/Categories/Shoes/Driving-Mocs/shop-by-category/DrivingMocs.html" title="Driving Mocs">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h78/h35/8796541550622/july13_mocs.jpg" alt="">
-	</span> <span class="menu-text">Driving Mocs</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								</ul> <ul class="clearfix last">
-										<li>
-
-
-
-
-
-	
-	<a href="/Categories/Shoes/Sale/shop-by-category/ShoesSale.html" title="SALE">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h41/hb8/8797638656030/dropdown_071113_SALE.jpg" alt="">
-	</span> <span class="menu-text">SALE</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li class="last">
-
-
-
-
-
-	
-	<a href="/Categories/Gift-Cards/shop-by-category/Gift-Cards.html" title="Gift Cards">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h76/hf6/8798160486430/dropdown_071113_gift-card.jpg" alt="">
-	</span> <span class="menu-text">Gift Cards</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								</ul> </div> <!-- end content container -->
-		</div><!-- end sub nav  -->	
+<a href="/Categories/Jewelry/shop-by-category/Jewelry.html" title="Jewelry" class="">Jewelry</a>
 	</li>
 	<li>
-<a href="/Categories/Accessories/shop-by-category/Accessories.html" title="Accessories">Accessories</a>
-	<div class="sub-nav">
-		<div class="content-container">
-		<ul class="clearfix first">
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Accessories/Belts-%26-Buckles/shop-by-category/BeltsandBuckles.html" title="Belts &amp; Buckles">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/hba/h34/8796535324702.jpg" alt="">
-	</span> <span class="menu-text">Belts &amp; Buckles</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Accessories/Wallets-%26-Key-Fobs/shop-by-category/WalletsandKeyFobs.html" title="Wallets &amp; Key Fobs">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/hdf/h34/8796536537118/july13_wallets.jpg" alt="">
-	</span> <span class="menu-text">Wallets &amp; Key Fobs</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Accessories/Cosmetic-Cases-%26-Pouches/shop-by-category/CosmeticCasesandPouches.html" title="Cosmetic Cases &amp; Pouches">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/he1/h34/8796536602654/july13_pouches.jpg" alt="">
-	</span> <span class="menu-text">Cosmetic Cases &amp; Pouches</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li class="fourth last">
-
-
-
-
-
-	
-	<a href="/Categories/Accessories/Tech-Accessories/shop-by-category/TechAccessories.html" title="Tech Accessories">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/he7/h34/8796536799262/july13_tech.jpg" alt="">
-	</span> <span class="menu-text">Tech Accessories</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								</ul> <ul class="clearfix">
-										<li>
-
-
-
-
-
-	
-	<a href="/Categories/Accessories/Sunglasses/shop-by-category/Sunglasses.html" title="Sunglasses">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/hf6/h34/8796537290782/july13_sunglasses.jpg" alt="">
-	</span> <span class="menu-text">Sunglasses</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Accessories/Sale/shop-by-category/AccessoriesSale.html" title="Sale">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h1f/hb8/8797637541918/dropdown_071113_SALE.jpg" alt="">
-	</span> <span class="menu-text">Sale</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li class="last">
-
-
-
-
-
-	
-	<a href="/Categories/Gift-Cards/shop-by-category/Gift-Cards.html" title="Gift Cards">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h76/hf6/8798160486430/dropdown_071113_gift-card.jpg" alt="">
-	</span> <span class="menu-text">Gift Cards</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								</ul> </div> <!-- end content container -->
-		</div><!-- end sub nav  -->	
+<a href="/Categories/Bags/shop-by-category/Bags.html" title="Bags" class="">Bags</a>
 	</li>
 	<li>
-<a href="/Categories/Home-%26-Decor/shop-by-category/HomeandDecor.html" title="Home &amp; Decor">Home &amp; Decor</a>
-	<div class="sub-nav">
-		<div class="content-container">
-		<ul class="clearfix first">
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Home-%26-Decor/Pillows-%26-Throws/shop-by-category/PillowsandThrows.html" title="Pillows &amp; Throws">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h41/h35/8796539748382/july13_pillows.jpg" alt="">
-	</span> <span class="menu-text">Pillows &amp; Throws</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Home-%26-Decor/Decorative-Accents/shop-by-category/DecorativeAccents.html" title="Decorative Accents">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h43/h35/8796539813918/july13_decorative.jpg" alt="">
-	</span> <span class="menu-text">Decorative Accents</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Home-%26-Decor/Frames%2C-Boxes-%26-Trays/shop-by-category/FramesBoxesandTrays.html" title="Frames, Boxes &amp; Trays">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h45/h35/8796539879454/july13_frames.jpg" alt="">
-	</span> <span class="menu-text">Frames, Boxes &amp; Trays</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li class="fourth last">
-
-
-
-
-
-	
-	<a href="/Categories/Home-%26-Decor/Tabletop/shop-by-category/Tabletop.html" title="Tabletop">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h48/h35/8796539977758/july13_tabletop.jpg" alt="">
-	</span> <span class="menu-text">Tabletop</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								</ul> <ul class="clearfix">
-										<li>
-
-
-
-
-
-	
-	<a href="/Categories/Home-%26-Decor/Serveware-%26-Entertaining/shop-by-category/ServewareandEntertaining.html" title="Serveware &amp; Entertaining">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h4a/h35/8796540043294/july13_serveware.jpg" alt="">
-	</span> <span class="menu-text">Serveware &amp; Entertaining</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Home-%26-Decor/Pet%2C-Sports-%26-Outdoors/shop-by-category/PetSportsandOutdoors.html" title="Pet, Sports &amp; Outdoors">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h4e/h35/8796540174366/july13_sports.jpg" alt="">
-	</span> <span class="menu-text">Pet, Sports &amp; Outdoors</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li>
-
-
-
-
-
-	
-	<a href="/Categories/Home-%26-Decor/Stationery-%26-Writing/shop-by-category/StationeryandWritting.html" title="Stationery &amp; Writing">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h50/h35/8796540239902/july13_stationary.jpg" alt="">
-	</span> <span class="menu-text">Stationery &amp; Writing</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								<li class="fourth last">
-
-
-
-
-
-	
-	<a href="/Categories/Home-%26-Decor/Sale/shop-by-category/HomeandDecorSale.html" title="Sale">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h48/hb8/8797638885406/dropdown_071113_SALE.jpg" alt="">
-	</span> <span class="menu-text">Sale</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								</ul> <ul class="clearfix">
-										<li class="last">
-
-
-
-
-
-	
-	<a href="/Categories/Gift-Cards/shop-by-category/Gift-Cards.html" title="Gift Cards">
-		<span class="menu-image"> <img title="" src="/medias/sys_master/h76/hf6/8798160486430/dropdown_071113_gift-card.jpg" alt="">
-	</span> <span class="menu-text">Gift Cards</span> <span class="menu-hover"></span>
-	</a>
-</li>
-								
-								
-								</ul> </div> <!-- end content container -->
-		</div><!-- end sub nav  -->	
+<a href="/Categories/Shoes/shop-by-category/Shoes.html" title="Shoes" class="">Shoes</a>
 	</li>
 	<li>
-<a href="/Categories/Monogram-Shop/shop-by-category/MonogramShop.html" title="Monogram Shop">Monogram Shop</a>
+<a href="/Categories/Accessories/shop-by-category/Accessories.html" title="Accessories" class="">Accessories</a>
 	</li>
 	<li>
-<a href="/Categories/What%27s-New/shop-by-category/WhatsNew.html" title="What's New">What's New</a>
-	</li>
-	<li>
-<a href="/Categories/Sale/shop-by-category/Sale.html" title="Sale">Sale</a>
+<a href="/Categories/Home-and-Decor/shop-by-category/HomeandDecor.html" title="Home &amp; Decor" class="">Home &amp; Decor</a>
 	</li>
 	</ul>
 	</div>
-</nav><div id="cart_popup" class="cart_popup" style="left: 966px; position: fixed; top: 0px;"></div>
+</nav><div id="cart_popup" class="cart_popup" data-view="minicart" style="left: 803px; position: fixed; top: 0px;"></div>
 	<article class="flex-container ">
 			<div id="insparq"></div>
 			<div class="content-container clearfix">
@@ -1450,8 +795,7 @@ jQuery(function() {
 <m:intLim m:val="subSup" />
 <m:naryLim m:val="undOvr" />
 </m:mathPr></w:WordDocument>
-</xml><![endif]--></p>
-<p><!--[if gte mso 9]><xml>
+</xml><![endif]--></p> <p><!--[if gte mso 9]><xml>
 <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
 DefSemiHidden="true" DefQFormat="false" DefPriority="99"
 LatentStyleCount="267">
@@ -1732,228 +1076,36 @@ mso-ascii-theme-font:minor-latin;
 mso-hansi-font-family:Calibri;
 mso-hansi-theme-font:minor-latin;}
 </style>
-<![endif]--></p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong>CWonder.com Privacy Policy</strong></p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt">Welcome to CWonder.com (the “Site”), which is owned and operated by C. Wonder, LLC (“C. Wonder” “we” or “us”). As a customer of C. Wonder, your trust is our most important asset. This Privacy Policy describes the types of information we collect from you, how we use, share and protect this information, and what choices you have with respect to this information. This Privacy Policy applies to the personal information we collect from you when you visit our Site, sign up to receive the latest deals, news, emails and information from us, place an order or make a purchase at our Site, or otherwise register your email address with us.</p>
-<p style="margin:0in;margin-bottom:.0001pt">This policy is subject to the provisions of our <a target="_self" href="/termsandconditions">Terms and Conditions of Use</a>, which are incorporated by reference into this policy. If at any time you do not agree to this Privacy Policy, please do not use this Site.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><span style="mso-bidi-font-weight:
-bold">We reserve the right to change or update this Privacy Policy by posting such changes or updates to the Site. Amendments to this Privacy Policy will be posted at this URL and will be effective when posted.<span style="mso-spacerun:yes">&nbsp; </span>It is your responsibility to review any such changes or updates and check the Website from time to time to be sure you understand all terms and conditions, agreements and policies of the Website and are in compliance with them. You can tell if the policy has changed by checking the last modified date that appears at the end of this Privacy Policy. Your continued use of the Website following the posting of any amendment, modification or change shall constitute your acceptance thereof.<span style="mso-spacerun:yes">&nbsp; </span></span></p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong>Categories of Personal Information We Collect</strong></p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong>&nbsp;</strong><br>
-We collect personal information from you when you register for a Site account, place an order with us, subscribe to CWonder.com E-mail Updates (our e-mail newsletter), or otherwise send a request or inquiry to us. In general, the types of personal information we collect include:</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l4 level1 lfo1;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><u>Registration Information</u>: When you register with us, we may collect your name, shipping and billing address, e-mail, phone number and other contact information.</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l4 level1 lfo1;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><u>Order History</u>: When you make purchases with us, we collect and store information about your purchases, such as order date, order amount, items purchased, payment method, shipping information, and the like.</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l4 level1 lfo1;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><u>Purchase Information</u>: If you make a purchase through the Site, we collect your shipping and payment information, such as you credit or debit card number, expiration date and other information necessary to process your payment. We use this information only to process your purchase. We do not store this information unless you are a registered user and you choose to save this information to your account for future purchases.</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l4 level1 lfo1;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><u>Site Activities</u>: We use cookies and other tracking technologies to automatically collect information about you when you visit our Site or use our services, including IP address, browser type, operating system, date and time of visit, time spent on and/or logged on to Site, pages visited, links clicked, items viewed, items added to your shopping cart, referring URL and other Site activity. We may combine such site information with the personal information we have collected from you. For more information, see the “Cookies and Other Tracking Technologies” section, below.</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l4 level1 lfo1;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><u>Other Information</u>: We also collect and store information about any inquiries or communications you submit to us, and any promotions in which you participate at our Site. In addition, we collect your e-mail address and name if you sign up to receive information about the latest deals, promotions and information from C. Wonder. In addition, we may receive other aggregate, demographic information about our customers.</p>
-<p style="margin:0in;margin-bottom:.0001pt">We may also collect personal information about you from other third parties, such as demographic firms, to make our future service and marketing efforts more efficient and personalized for you.</p>
-<p style="margin-top:0in;margin-right:.1in;margin-bottom:0in;margin-left:0in;
-margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin-top:0in;margin-right:.1in;margin-bottom:0in;margin-left:0in;
-margin-bottom:.0001pt">&nbsp;<strong>How We Use Your Information</strong></p>
-<p style="margin-top:0in;margin-right:.1in;margin-bottom:0in;margin-left:0in;
-margin-bottom:.0001pt"><strong>&nbsp;</strong><br>
-In general, we use the information we collect from you, including any personal information, for the following purposes:</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l1 level1 lfo2;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>To process and fulfill your order, including to send you e-mails to confirm your order status and shipment, or to otherwise communicate with you about your order</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l1 level1 lfo2;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>To communicate with you about your account</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l1 level1 lfo2;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>If you have opted in, to send you marketing information by e-mail, postal mail and/or text message, about our products, services, contests, and promotions</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l1 level1 lfo2;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>To help us learn more about your shopping preferences, to develop and provide products and services tailored to your interests and to otherwise personalize your experiences at our Site</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l1 level1 lfo2;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>To better understand how users access and use our Site on an aggregate level</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l1 level1 lfo2;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>To provide troubleshooting, technical support and customer service to users</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l1 level1 lfo2;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>To help us address problems with and improve our Site design, products and services</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l1 level1 lfo2;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>To enhance your shopping experience</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l1 level1 lfo2;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>To analyze trends and statistics and for research purposes</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l1 level1 lfo2;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>To protect the security or integrity of the Site and our business</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l1 level1 lfo2;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>To investigate, prevent or take action regarding violations of this Privacy Policy or the Terms and Conditions of Use</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;<strong>How We Disclose Your Personal Information</strong></p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt">We do not sell or rent any of your personal information to third parties for their marketing purposes, unless we receive your consent. However, we may disclose your personal information under the following circumstances:</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l2 level1 lfo3;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><u>C. Wonder Affiliates</u>: We may share your personal information with other members of the C. Wonder family of companies (e.g. C. Wonder affiliates and subsidiaries). When we do, they may only use personal information for the purposes described in this policy.</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l2 level1 lfo3;tab-stops:
-list .5in"><a name="thirdpartyad"></a><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
-mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><u>Service Providers</u>: We may disclose the information we collect from you to third party vendors, service providers, contractors or agents that perform functions on our behalf. These third parties have agreed to maintain the confidentiality, security and integrity of personal information and to only use it for the purposes for which they have been engaged by us.</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l3 level1 lfo4;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><u>Business Transfers</u>: If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the acquiring company.</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l3 level1 lfo4;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><u>Legal Process</u>: We may also disclose the information we collect from you in order to comply with the law, a judicial or administrative proceeding, court order, subpoena or other legal process.</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l3 level1 lfo4;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><u>To Protect Us and Others</u>: We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety, rights or property of any person or party, or violations of our Terms and Conditions of Use or this Privacy Policy.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt">Notwithstanding the above, we may share aggregate or de-identified information about users with other third parties for marketing, advertising, research or other purposes. For example, if we display advertisements on behalf of a third party, we may share aggregate, demographic information with that third party about the users to whom we displayed the advertisements.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;<strong>Cookies and Other Tracking Technologies</strong></p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt">When you interact with the Site, we strive to make your experience easy and meaningful. We may use or engage others to use cookies, clear gifs and Flash LSOs to track user activity and collect Site data. We may combine this information with other personal information we have collected from you, and may use this combined information for future marketing initiatives and to help us improve our website presentation and your overall shopping experience.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong><i>Cookies. </i></strong>Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. There are two types of cookies: session-based and persistent-based cookies.</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l0 level1 lfo5;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><u>Session Cookies</u>: Session cookies exist only during an online session. They disappear from your computer when you close your browser or turn off your computer. We use session cookies to allow our systems to uniquely identify you during a session or while you are logged in to the Site. This allows us to process your online transactions and requests, store the items you have added to your shopping cart, and verify your identity after you have logged in and as you move through our Site.</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt;text-indent:-.25in;mso-list:l0 level1 lfo5;tab-stops:
-list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><u>Persistent Cookies</u>:<strong> </strong>Persistent cookies remain on your computer after you have closed your browser or turned off your computer. We use persistent cookies to track aggregate and statistical information about user activity, which may be combined with other user information.</p>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
-margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong><i>Third Party Cookies</i></strong><em>.</em> In addition, we may permit certain third party cookies to be placed on our Site. For example, we may engage third parties to track and analyze non-personally identifiable Site data. We use the data collected by such third parties to help us administer and improve the quality of the Site and services and to analyze usage. We do not provide these third parties with any personal information that we have collected about you.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt">In addition, we may also work with select partners to distribute web advertisements based on our customers’ internet browsing patterns. We do not provide these third parties with personal information. You may opt out of many of these ad networks, at any time, by going here: <u>http://www.networkadvertising.org</u> and following the instructions to opt-out. We do not have access to or control over these third party cookies nor does this Privacy Policy cover such third parties’ collection and use of data.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong><i>Disabling Cookies</i></strong>. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The “Help” portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Site visitors who disable their web browsers’ ability to accept cookies will be able to browse the Site; however, many Site features, such as the shopping cart, will not function if you disable cookies.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong><i>Clear Gifs (Web Beacons/Web Bugs)</i></strong>. We or the third parties we engage to track and analyze Site data may employ clear gifs (a.k.a. Web Beacons/Web Bugs) to help us better manage content on the Site. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on your computer’s hard drive, clear gifs are embedded invisibly on Web pages.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong><i>Flash Cookies</i></strong>. We may use local shared objects, also known as Flash cookies, to store your Site preferences, to personalize your visit, or to display content based upon what you view on our Site. Third parties with whom we partner to provide certain features on our Site or to display advertising based upon your Web browsing activity, may use Flash cookies to collect and store information. We do not have access to or control over these third party cookies nor does this Privacy Policy cover such third parties’ use of data.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt">Flash cookies are different from browser cookies because of the amount and type of data stored. In addition, you cannot control, delete, or disable the acceptance of Flash cookies through your browser. To learn how to manage your settings for Flash cookies, visit http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong>Your Choices Regarding Marketing</strong></p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong>&nbsp;</strong><br>
-We use personal information that you provide to us to send you direct mail or e-mail advertisements for products or services that we or other companies that we work with offer and that we think you may be interested in.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt">If you do not want to receive these communications, you can update your marketing information-sharing preferences using the following methods:</p>
-<p style="margin:0in;margin-bottom:.0001pt">• E-mail <a href="mailto:customercare@cwonder.com">customercare@cwonder.com</a>, or <br>
-• Mail your request to:</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;<span style="mso-tab-count:
-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span class="org">C. Wonder</span><br>
-&nbsp;<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>99 Madison Avenue<br>
-<span class="locality">&nbsp;<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>New York</span>, <span class="region">NY</span> <span class="postal-code">10016</span></p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt">Please note your preference as stated below:</p>
-<p style="margin:0in;margin-bottom:.0001pt">“I prefer not to receive e-mail advertisements, such as updates regarding products and services, special promotions or upcoming events.” (You may also click the designated link at the bottom of all CWonder.com e-mail advertisements to be removed from future e-mail updates.)</p>
-<p style="margin:0in;margin-bottom:.0001pt">“I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and services, special promotions or upcoming events.” (Please note that direct mail requests may take up to six to eight weeks to become effective.)</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong>Links to Other Websites and Services</strong></p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong>&nbsp;</strong><br>
-Websites provided by C. Wonder may include links to other Internet sites maintained by third parties. C. Wonder provides these links to you solely as a convenience, and the inclusion of these links and associated sites does not imply endorsement by C. Wonder of the linked sites. You access these sites at your own risk and by accessing them you leave C. Wonder’s website. Linked sites are not under the control of C. Wonder and C. Wonder is not responsible for the contents of these sites.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong>Children’s Privacy</strong></p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong>&nbsp;</strong><br>
-This Site is not intended for children. We do not knowingly collect personal information from, or target our Site to, children under the age of 13. If we become aware that any child under the age of 13 has submitted any personal information to C. Wonder through the Site, we will delete his or her information from our files.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong>Security</strong></p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong>&nbsp;</strong><br>
-We maintain commercially reasonable physical, electronic and procedural safeguards to protect the confidentiality and security of personal information transmitted to us using this website. For example, to guard your information, our website uses SSL technology, which encrypts your credit card number, name and address so only C. Wonder is able to decode this information. To be sure your connection is secure, look at the bottom status bar of your browser window. If you see an unbroken key or a closed lock (depending on your browser) the SSL is active and your information is secure. Most browsers offer additional security alerts as well. If for some reason you are unable to connect to our secure server, please email us at <a href="mailto:customercare@cwonder.com">customercare@cwonder.com</a> to place an order by email. You should be aware that despite our best efforts, no data security measures can guarantee 100% security all of the time.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt">There are also certain steps you should take to safeguard your account and information. For example, you should select a secure password that only you know, and should always sign out of your account when finished. It is your responsibility to protect the confidentiality of your password in order to prevent unauthorized access to your account. You are responsible for all activities that occur under your account and password. You should immediately change your password and notify us if you discover or suspect any unauthorized use of your account.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><a name="international-customer-privacy"></a><strong>Changes to this Privacy Policy</strong></p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong>&nbsp;</strong><br>
-This policy replaces all previous disclosures we may have provided you about our information practices. We reserve the right to change this policy, and to apply any changes to information previously collected, as permitted by law. If there are material changes to this policy, or if our information practices change materially with regard to personal information that we have previously collected from you, we will notify you by posting the policy changes on our website with a new effective date and/or notifying you by email, and will give you the choice of opting out of the material changes.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:
-normal">Your California Privacy Rights</b></p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
-justify;text-indent:0in" class="MsoBodyText"><span style="mso-bidi-font-size:12.0pt">Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: </span><a href="mailto:customercare@cwonder.com"><span style="mso-bidi-font-size:12.0pt">customercare@cwonder.com</span></a><span style="mso-bidi-font-size:12.0pt">. Please allow 30 days for a response.</span></p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:
-normal">Assignment</b></p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt">C. Wonder may freely assign this policy or any of its right and/or obligations hereunder.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong>Protecting Your Personal Information</strong></p>
-<p style="margin:0in;margin-bottom:.0001pt"><strong>&nbsp;</strong><br>
-You may come in contact with websites, e-mails or texts that try to lure you into providing personal information with the offer of a C. Wonder gift card. C. Wonder does not sponsor these offers nor are we affiliated with the promotion originators. If you become aware of any potentially fraudulent activity on a website or in an e-mail or text, please forward the information to <a href="mailto:customercare@cwonder.com">customercare@cwonder.com</a>&nbsp; so that we can follow up. We take these matters, and the protection of our customers’ sensitive information, very seriously.</p>
-<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt">If you have questions regarding our Privacy Policy please contact us at:&nbsp;</p>
-<p style="margin:0in;margin-bottom:.0001pt"><span class="org">C. Wonder</span><br>
-99 Madison Avenue<br>
-<span class="locality">New York</span>, <span class="region">NY</span><br>
-<span class="postal-code">10016</span></p>
-<p style="margin:0in;margin-bottom:.0001pt"><span class="postal-code">&nbsp;</span></p>
-<p style="margin:0in;margin-bottom:.0001pt"><span class="postal-code">Last Updated: July 1, 2013</span></p>
-<p class="MsoNormal">&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</div>
+<![endif]--></p> <p style="margin:0in;margin-bottom:.0001pt">&nbsp;<b>CWonder.com Privacy Policy</b></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">Welcome to CWonder.com (the “Site”), which is owned and operated by C. Wonder, LLC (“C. Wonder” “we” or “us”). As a customer of C. Wonder, your trust is our most important asset. This Privacy Policy applies to the personal information we collect from you when you register for a Site account, place an order with us, subscribe to CWonder.com E-mail Updates (our e-mail newsletter), or otherwise send a request or inquiry to us.&nbsp; This Privacy Policy describes:<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><o:p>&nbsp;</o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">The types of information we collect from you, <o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">How we use, share and protect this information, and <o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">The choices you can make about your information.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><o:p>&nbsp;</o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&lt;&lt;&lt;&lt;This policy is subject to the provisions of our Terms and Conditions of Use, which are incorporated by reference into this policy. If you do not agree with any aspect of this Privacy Policy, please do not use this Site.&gt;&gt;&gt;&gt;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">We reserve the right to change or update this Privacy Policy by posting such changes or updates to the Site. Amendments to this Privacy Policy will be posted at this URL and will be effective when posted.&nbsp; It is your responsibility to review any such changes or updates and check the Website from time to time to be sure you understand all terms and conditions, agreements and policies of the Website and are in compliance with them. You can tell if the policy has changed by checking the last modified date that appears at the end of this Privacy Policy. Your continued use of the Website following the posting of any amendment, modification or change shall constitute your acceptance of the amended Privacy Policy.&nbsp; <o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b>Categories of Personal Information We Collect <o:p></o:p></b></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">We collect personal information from you when you register for a Site account, place an order with us, subscribe to CWonder.com E-mail Updates (our e-mail newsletter), or otherwise send a request or inquiry to us. In general, the types of personal information we collect include:<o:p></o:p></p>  <p class="MsoListParagraphCxSpFirst" style="margin-bottom:0in;margin-bottom:.0001pt;
+mso-add-space:auto;text-indent:-.25in;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-bidi-font-weight:bold">·<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]-->Registration Information: When you register with us, we may collect your name, shipping and billing address, e-mail, phone number and other contact information.<o:p></o:p></p>  <p class="MsoListParagraphCxSpMiddle" style="margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-bidi-font-weight:bold">·<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]-->Order History: When you make purchases with us, we collect and store information about your purchases, such as order date, order amount, items purchased, payment method, shipping information, and the like.<o:p></o:p></p>  <p class="MsoListParagraphCxSpMiddle" style="margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-bidi-font-weight:bold">·<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]-->Purchase Information: If you make a purchase through the Site, we collect your shipping and payment information, such as you credit or debit card number, expiration date and other information necessary to process your payment. We use this information only to process your purchase. We do not store this information unless you are a registered user and you choose to save this information to your account for future purchases.<o:p></o:p></p>  <p class="MsoListParagraphCxSpMiddle" style="margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-bidi-font-weight:bold">·<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]-->Site Activities: We and our third party partners use cookies and other tracking technologies to automatically collect information about you when you visit our Site or use our services, including IP address, browser type, operating system, date and time of visit, time spent on and/or logged on to Site, pages visited, links clicked, items viewed, items added to your shopping cart, referring URL, social media username and other Site activity. We may combine such site information with the personal information we have collected from you. For more information, see the “Cookies and Other Tracking Technologies” section, below.<o:p></o:p></p>  <p class="MsoListParagraphCxSpMiddle" style="margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-bidi-font-weight:bold">·<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]-->Other Information: We also collect and store information about any inquiries or communications you submit to us, and any promotions in which you participate at our Site. In addition, we collect your e-mail address and name if you sign up to receive information about the latest deals, promotions and information from C. Wonder. In addition, we may receive other aggregate, demographic information about our customers.<o:p></o:p></p>  <p class="MsoListParagraphCxSpLast" style="margin-bottom:0in;margin-bottom:.0001pt;
+mso-add-space:auto;text-indent:-.25in;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-bidi-font-weight:bold">·<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]-->We may also collect personal information about you from other third parties, such as demographic firms, to make our future service and marketing efforts more efficient and personalized for you.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b>&nbsp;How We Use Your Information <o:p></o:p></b></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">In general, we use the information we collect from you, including any personal information, for the following purposes:<o:p></o:p></p>      <ul><li>To process and fulfill your order, including to send you e-mails to confirm your order status and shipment, or to otherwise communicate with you about your order;<o:p></o:p></li><li>To communicate with you about your account;<o:p></o:p></li><li>If you have opted in, to send you marketing information by e-mail, postal mail and/or text message, about our products, services, contests, and promotions;</li><li><o:p></o:p>To help us learn more about your shopping preferences, to develop and provide products and services tailored to your interests and to otherwise personalize your experiences at our Site;</li><li><o:p></o:p>To better understand how users access and use our Site on an aggregate level;</li><li><o:p></o:p>To facilitate social shopping experiences through major social media platforms;</li><li><o:p></o:p>To provide troubleshooting, technical support and customer service to users;</li><li><o:p></o:p>To help us address problems with and improve our Site design, products and services;</li><li><o:p></o:p>To enhance your shopping experience;</li><li><o:p></o:p>To analyze trends and statistics and for research purposes;</li><li><o:p></o:p>To protect the security or integrity of the Site and our business; and</li><li><o:p></o:p>To investigate, prevent or take action regarding violations of this Privacy Policy or the Terms and Conditions of Use.<o:p></o:p></li></ul>                    <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;How We Disclose Your Personal Information <o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">We do not sell or rent any of your personal information to third parties for their marketing purposes, and we will not do so unless we first seek, and receive, your consent.&nbsp; However, we may disclose your personal information under the following circumstances: <o:p></o:p></p>  <p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:45.75pt;margin-bottom:.0001pt;mso-add-space:auto;
+text-indent:-27.75pt;mso-list:l2 level1 lfo2"><!--[if !supportLists]-->•<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><!--[endif]-->C. Wonder Affiliates: We may share your personal information with other members of the C. Wonder family of companies (e.g. C. Wonder affiliates and subsidiaries). When we do, they may only use personal information for the purposes described in this policy.<o:p></o:p></p>  <p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:45.75pt;margin-bottom:.0001pt;mso-add-space:auto;
+text-indent:-27.75pt;mso-list:l2 level1 lfo2"><!--[if !supportLists]-->•<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><!--[endif]-->Providers of Services to C. Wonder: We may disclose the information we collect from you to third party vendors, service providers, contractors or agents that perform functions on our behalf (such as a printer, e-mail, mobile marketing, analytics providers, call center service providers, sweepstakes vendors, payment processors, data enhancement, or fraud prevention providers) or that help us market our products and services. These companies may need information about you in order to perform their functions. These third parties have agreed to maintain the confidentiality, security and integrity of personal information and to only use it for the purposes for which they have been engaged by us. If using PayPal services for purchases please refer to PayPal’s User Agreement and Privacy Policy for additional information https://www.paypal.com/webapps/mpp/ua/legalhub-full?country.x=US&amp;locale.x=en_US. <o:p></o:p></p>  <p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:45.75pt;margin-bottom:.0001pt;mso-add-space:auto;
+text-indent:-27.75pt;mso-list:l2 level1 lfo2"><!--[if !supportLists]-->•<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><!--[endif]-->Business Transfers: If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the acquiring company.<o:p></o:p></p>  <p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:45.75pt;margin-bottom:.0001pt;mso-add-space:auto;
+text-indent:-27.75pt;mso-list:l2 level1 lfo2"><!--[if !supportLists]-->•<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><!--[endif]-->Legal Process: We may disclose the information we collect from you in order&nbsp; to comply with the law, a judicial or administrative proceeding, court order, subpoena or other legal process.<o:p></o:p></p>  <p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:45.75pt;margin-bottom:.0001pt;mso-add-space:auto;
+text-indent:-27.75pt;mso-list:l2 level1 lfo2"><!--[if !supportLists]-->•<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><!--[endif]-->To Protect Us and Others: We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety, rights or property of any person or party, or violations of our Terms and Conditions of Use or this Privacy Policy.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-indent:
+2.25pt"><o:p>&nbsp;</o:p></p>  <p class="MsoListParagraph" style="margin-top:0in;margin-right:0in;margin-bottom:
+0in;margin-left:45.75pt;margin-bottom:.0001pt;mso-add-space:auto;text-indent:
+-27.75pt;mso-list:l1 level1 lfo3"><!--[if !supportLists]-->•<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><!--[endif]-->Notwithstanding the above, we may share aggregate or de-identified information about users with other third parties for marketing, advertising, research or other purposes. For example, if we display advertisements on behalf of a third party, we may share aggregate, demographic information with that third party about the users to whom we displayed the advertisements.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b>&nbsp;Cookies and Other Tracking Technologies<o:p></o:p></b></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">When you interact with the Site, we strive to make your experience easy and meaningful. We may use or engage others to use cookies, clear gifs and Flash LSOs to track user activity and collect Site data. We may combine this information with other personal information we have collected from you, and may use this combined information for future marketing initiatives and to help us improve our website presentation and your overall shopping experience.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">Cookies. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. There are two types of cookies: session-based and persistent-based cookies.<o:p></o:p></p>  <p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:45.75pt;margin-bottom:.0001pt;mso-add-space:auto;
+text-indent:-27.75pt;mso-list:l1 level1 lfo3"><!--[if !supportLists]-->•<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><!--[endif]-->Session Cookies: Session cookies exist only during an online session. They disappear from your computer when you close your browser or turn off your computer. We use session cookies to allow our systems to uniquely identify you during a session or while you are logged in to the Site. This allows us to process your online transactions and requests, store the items you have added to your shopping cart, and verify your identity after you have logged in and as you move through our Site.<o:p></o:p></p>  <p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:45.75pt;margin-bottom:.0001pt;mso-add-space:auto;
+text-indent:-27.75pt;mso-list:l1 level1 lfo3"><!--[if !supportLists]-->•<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><!--[endif]-->Persistent Cookies: Persistent cookies remain on your computer after you have closed your browser or turned off your computer. We use persistent cookies to track aggregate and statistical information about user activity, which may be combined with other user information.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">Third Party Cookies. In addition, we may permit certain third party cookies to be placed on our Site. For example, we may engage third parties to track and analyze non-personally identifiable Site data. We use the data collected by such third parties to help us administer and improve the quality of the Site and services and to analyze usage. We do not provide these third parties with any personal information that we have collected about you.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">We may also work with select partners to distribute web advertisements based on our customers’ internet browsing patterns. We do not provide these third parties with personal information. You may opt out of many of these ad networks, at any time, by going here: http://www.networkadvertising.org and following the instructions to opt-out. We do not have access to or control over these third party cookies nor does this Privacy Policy cover such third parties’ collection and use of data.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">Disabling Cookies. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The “Help” portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Site visitors who disable their web browsers’ ability to accept cookies will be able to browse the Site; however, many Site features, such as the shopping cart, will not function if you disable cookies.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">Clear Gifs (Web Beacons/Web Bugs). We or the third parties we engage to track and analyze Site data may employ clear gifs (a.k.a. Web Beacons/Web Bugs) to help us better manage content on the Site. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on your computer’s hard drive, clear gifs are embedded invisibly on Web pages.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">Flash Cookies. We may use local shared objects, also known as Flash cookies, to store your Site preferences, to personalize your visit, or to display content based upon what you view on our Site. Third parties with whom we partner to provide certain features on our Site or to display advertising based upon your Web browsing activity, may use Flash cookies to collect and store information. We do not have access to or control over these third party cookies nor does this Privacy Policy cover such third parties’ use of data.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">Flash cookies are different from browser cookies because of the amount and type of data stored. In addition, you cannot control, delete, or disable the acceptance of Flash cookies through your browser. To learn how to manage your settings for Flash cookies, visit http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><o:p>&nbsp;</o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">California "Do Not Track" Disclosure.&nbsp; We do not collect personally identifiable information about your online activities over time and across third party websites or online services.&nbsp; Our third party partners may combine personally identifiable information collected as described in this Privacy Policy with personally identifiable information collected over time and across third party websites or online services. For example, social networks such as Pinterest, Facebook or Twitter will collect information regarding items or purchases you choose to share through the Site.&nbsp; <o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp; <o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b>Your Choices Regarding Marketing<o:p></o:p></b></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">We use personal information that you provide to us to send you direct mail or e-mail advertisements for products or services that we or other companies that we work with offer and that we think you may be interested in.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">If you do not want to receive these communications, you can update your marketing information-sharing preferences using the following methods:<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">• E-mail customercare@cwonder.com, or <o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">• Mail your request to:<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C. Wonder<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1115 Broadway<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New York, NY 10010<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">Please note your preference as stated below:<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><o:p>&nbsp;</o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">“I prefer not to receive e-mail advertisements, such as updates regarding products and services, special promotions or upcoming events.” (You may also click the designated link at the bottom of all CWonder.com e-mail advertisements to be removed from future e-mail updates.)<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><o:p>&nbsp;</o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">“I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and services, special promotions or upcoming events.” (Please note that direct mail requests may take up to six to eight weeks to become effective.)<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp; <o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b>Links to Other Websites and Services<o:p></o:p></b></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">Websites provided by C. Wonder may include links to other Internet sites maintained by third parties. C. Wonder provides these links to you solely as a convenience, and the inclusion of these links and associated sites does not imply endorsement by C. Wonder of the linked sites. You access these sites at your own risk and by accessing them you leave C. Wonder’s website. Linked sites are not under the control of C. Wonder and C. Wonder is not responsible for the contents of these sites.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp; <o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b>Children’s Privacy<o:p></o:p></b></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">This Site is not intended for children. We do not knowingly collect personal information from, or target our Site to, children under the age of 13. If we become aware that any child under the age of 13 has submitted any personal information to C. Wonder through the Site, we will delete his or her information from our files. If you believe we have collected personal information about your child, you may contact us at customercare@cwonder.com and request that we remove it.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b>Security<o:p></o:p></b></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">We maintain commercially reasonable physical, electronic and procedural safeguards to protect the confidentiality and security of personal information transmitted to us using this website. For example, to guard your information, our website uses SSL technology, which encrypts your credit card number, name and address so only C. Wonder is able to decode this information. To be sure your connection is secure, look at the bottom status bar of your browser window. If you see an unbroken key or a closed lock (depending on your browser) the SSL is active and your information is secure. Most browsers offer additional security alerts as well. If for some reason you are unable to connect to our secure server, please email us at customercare@cwonder.com to place an order by email. You should be aware that despite our best efforts, no data security measures can guarantee 100% security all of the time.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">There are also certain steps you should take to safeguard your account and information. For example, you should select a secure password that only you know, and should always sign out of your account when finished. It is your responsibility to protect the confidentiality of your password in order to prevent unauthorized access to your account. You are responsible for all activities that occur under your account and password. You should immediately change your password and notify us if you discover or suspect any unauthorized use of your account.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b>Changes to this Privacy Policy<o:p></o:p></b></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">This policy replaces all previous disclosures we may have provided you about our information practices. We reserve the right to change this policy, and to apply any changes to information previously and subsequently collected, as permitted by law. If there are material changes to this policy, or if our information practices change materially with regard to personal information that we have previously collected from you, we will notify you by posting the policy changes on our website with a new effective date and/or notifying you by email, and will give you the choice of opting out of the material changes.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b>Your California Privacy Rights<o:p></o:p></b></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">California residents are entitled to ask us for a notice describing what categories of personal information we share with third parties for those third parties direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: customercare@cwonder.com. Please allow 30 days for a response.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">Assignment<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">C. Wonder may freely assign this policy or any of its right and/or obligations hereunder.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><b><span style="font-size:12.0pt;line-height:107%">Protecting Your Personal Information<o:p></o:p></span></b></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">You may come in contact with websites, e-mails or texts that try to lure you into providing personal information with the offer of a C. Wonder gift card. C. Wonder does not sponsor these offers nor are we affiliated with the promotion originators. If you become aware of any potentially fraudulent activity on a website or in an e-mail or text, please forward the information to customercare@cwonder.com so that we can follow up. We take these matters, and the protection of our customers’ sensitive information, very seriously.<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">If you have questions regarding our Privacy Policy please contact us at: <o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><o:p>&nbsp;</o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">C. Wonder<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">1115 Broadway<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">New York, NY<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">10010<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">&nbsp;<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">Effective Date: [2/12/2014]<o:p></o:p></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt"><o:p>&nbsp;</o:p></p></div>
 	<div>
 		</div>
 </div>
@@ -1961,12 +1113,12 @@ You may come in contact with websites, e-mails or texts that try to lure you int
 		<footer class="footer-standard">
 	<div class="content-container">
 		<div class="logo">
-			<img src="/medias/sys_master/images/8796169109534/fpo_logo.gif">
+			<img nopin="true" src="/medias/sys_master/images/8796169109534/fpo_logo.gif">
 		</div>
 		<div class="contact-us">
 			<div class="contact-info">
 				<div class="no-link-list">
-					<h5 style="font-size: 0.875em;">CONTACT US</h5> <p>Monday - Friday 9AM-6PM ET</p> <p>855-896-6337</p> <p><a href="mailto:customercare@cwonder.com" style="text-decoration:none;"><font color="a0a0a0" face="adobe-garamond-pro-n4">customercare@cwonder.com</font></a></p> <h5 style="padding-bottom: 3px;font-size: 0.875em;">Get wonder delivered!</h5> <p>Receive news about sales, parties and new arrivals when you join our email list!</p></div>
+					<h5 style="font-size: 0.875em;">CONTACT US</h5> <p>Monday - Friday 9AM-6PM ET</p> <p>855-896-6337</p> <p><a href="mailto:customercare@cwonder.com" style="text-decoration:none;"><font color="a0a0a0" face="adobe-garamond-pro-n4">customercare@cwonder.com</font></a></p> <p>&nbsp;</p></div>
 			</div>
 			<div class="newsletter">
 				<div class="no-link-list">
@@ -1993,11 +1145,11 @@ You may come in contact with websites, e-mails or texts that try to lure you int
 							</div>
 							<p class="checkout-required">* Required</p>
 						</div>
-					<input type="hidden" name="_requestConfirmationToken" value="6ce374f15a0046ca407fbd7c502d163a17db8d12"></form>
+					<input type="hidden" name="_requestConfirmationToken" value="cb93408b0f25b00a5d0e260655f0a08aff7e7b41"></form>
 				</div>
 			</div>
 			<div class="copyright">
-				<p>© 2013 C. Wonder</p>
+				<p>© 2014 C. Wonder</p>
 			</div>
 		</div>
 		<div class="about-us">
@@ -2005,6 +1157,8 @@ You may come in contact with websites, e-mails or texts that try to lure you int
 					<h5>ABOUT US</h5>
 					<ul>
 						<li><a href="/store-finder" title="Stores">Stores</a>
+	</li>
+							<li><a href="/store-events" title="Store Events ">Store Events </a>
 	</li>
 							<li><a href="/aboutus" title="About Us">About Us</a>
 	</li>
@@ -2023,21 +1177,25 @@ You may come in contact with websites, e-mails or texts that try to lure you int
 			</div>
 		<div class="customer-service">
 				<div class="link-list ">
-					<h5>Customer Service </h5>
+					<h5>Customer Service</h5>
 					<ul>
 						<li><a href="/contact_us" title="Customer Care">Customer Care</a>
 	</li>
 							<li><a href="/faqs" title="FAQs">FAQs</a>
 	</li>
-							<li><a href="/shippinganddelivery" title="Shipping &amp; Returns">Shipping &amp; Returns</a>
+							<li><a href="/shippinganddelivery" title="Shipping">Shipping</a>
+	</li>
+							<li><a href="http://www.cwonder.com/returns" title="Returns">Returns</a>
 	</li>
 							<li><a href="/Categories/Gift-Cards/shop-by-category/Gift-Cards.html" title="Gift Cards">Gift Cards</a>
+	</li>
+							<li><a href="/balance" title="Gift Card Balance">Gift Card Balance</a>
 	</li>
 							<li><a href="/groupgifts" title="Group Gifts">Group Gifts</a>
 	</li>
 							<li><a href="/my-account/wishlist" title="My Wish List">My Wish List</a>
 	</li>
-							<li><a href="/my-registry" title="My Registry">My Registry</a>
+							<li><a href="/Myregistry" title="My Registry">My Registry</a>
 	</li>
 							</ul>
 				</div>
@@ -2102,15 +1260,16 @@ You may come in contact with websites, e-mails or texts that try to lure you int
 		</div>
 </footer><form name="accessiblityForm">
 		<input type="hidden" id="accesibility_refreshScreenReaderBufferField" name="accesibility_refreshScreenReaderBufferField" value="">
-	<input type="hidden" name="_requestConfirmationToken" value="6ce374f15a0046ca407fbd7c502d163a17db8d12"></form>
+	<input type="hidden" name="_requestConfirmationToken" value="cb93408b0f25b00a5d0e260655f0a08aff7e7b41"></form>
+	
 	<script type="text/javascript">
 	/* Sociable Labs */
 	(function(){
 	var s = document.createElement('script');
-	s.async = true;
-	s.src = ('https:' == window.location.protocol ? 'https://s3.amazonaws.com/' :
-	'http://') + 'static.rondavu.com/C/CWonder_PROD/rondavu.js';
-	document.getElementsByTagName('head')[0].appendChild(s);
+		s.async = true;
+		s.src = ('https:' == window.location.protocol ? 'https://s3.amazonaws.com/' :
+		'http://') + 'static.rondavu.com/C/CWonder_PROD/rondavu.js';
+		document.getElementsByTagName('head')[0].appendChild(s);
 	})();
 	
 	window.SL = window.SL || [];
@@ -2206,7 +1365,7 @@ You may come in contact with websites, e-mails or texts that try to lure you int
 			         "success" : function(validation_response) {
 			         // check the validation_response and update UI/redirect/etc
 						if(!window.isLoggedIn()) {
-							   location.reload();
+							  location.reload();
 						}
 			         },
 			         "data" : {
@@ -2230,13 +1389,8 @@ var generalError = "Please correct the highlighted fields below";
 
 </script>
 
-<script type="text/javascript" src="/_ui/desktop/common/js/assets/js/vendor/bootstrap.min.js"></script>
-<script type="text/javascript" src="/_ui/desktop/common/js/assets/js/vendor/jquery.fancybox.js"></script>
-<script type="text/javascript" src="/_ui/desktop/common/js/assets/js/vendor/jquery.form.js"></script>
-<script type="text/javascript" src="/_ui/desktop/common/js/assets/js/vendor/placeholder.js"></script>
-<script type="text/javascript" src="/_ui/desktop/common/js/assets/js/vendor/main.js"></script>
-
-<script>
+<script type="text/javascript" src="/_ui/desktop/theme-cwonder/js/CWonder.main.min.js"></script>
+    <script>
 //Kostakis general function to submit forms with links
 	$(document).ready(function(){
     $("a.changeFormSubmit").click ( function(e) { 
