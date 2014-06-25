@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithclipart.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213142514id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithclipart.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101359id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ Sharefaith uses services such as Google Analytics for Sharefaith DisplayAds. Tha
 
 Sharefaith and other third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) together to inform, optimize, and serve ads based on visitor's past visits to our website. 
 
-The end user can unsubscribe from these advertisements at any time by clicking on the opt-out button on the banner or by using GoogleÃ¢??s opt-out browser [add-on](https://tools.google.com/dlpage/gaoptout/). **
+The end user can unsubscribe from these advertisements at any time by clicking on the opt-out button on the banner or by using GoogleÃ?Â¢??s opt-out browser [add-on](https://tools.google.com/dlpage/gaoptout/). **
 
 Children's Privacy
 
@@ -59,3 +59,10 @@ Questions, Comments, Concerns
 If you have any questions or comments about our use of Personal Information, please contact us at [Contact@FaithClipart.com](mailto:Contact@FaithClipart.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. 
 
 [](https://www.sharefaith.com/faith/freeTrial.do)
+
+**All Suggestions, Billing and Site Questions:** [contact@sharefaith.com](mailto:contact@sharefaith.com)
+
+**ShareFaith Inc.**  
+821 O'Hare Parkway #201  
+Medford, Oregon 97504  
+Tel: 888-317-4018 
