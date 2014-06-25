@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongholdkingdoms.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208010125id_/http%3A//www.strongholdkingdoms.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongholdkingdoms.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060725id_/http%3A//strongholdkingdoms.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Stronghold Kingdoms - Privacy Policy
 
@@ -131,7 +131,7 @@ This Privacy Policy forms part of our websites terms and conditions for the supp
 
 18\.                         Feedback
 
-We welcome comments about this Privacy Policy.  If you have any questions about this Privacy Policy, or any part of our service, you may contact us by emailing [admin@fireflyworlds.com](mailto:admin@fireflyworlds.com).
+We welcome comments about this Privacy Policy.  If you have any questions about this Privacy Policy, or any part of our service, you may contact us by emailing [dataprotectionofficer@fireflyworlds.com](mailto:dataprotectionofficer@fireflyworlds.com).
 
 Visiting Firefly Internet websites and using our on-line services indicates your acceptance of our Privacy Policy.  If you do not accept this Privacy Policy, please do not visit our Internet websites or use our on-line services.
 
