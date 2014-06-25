@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spicysouthernkitchen.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103140700id_/http%3A//spicysouthernkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicysouthernkitchen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072919id_/http%3A//spicysouthernkitchen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Spicy Southern Kitchen
+# Privacy Policy - Spicy Southern Kitchen
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fspicysouthernkitchen.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fspicysouthernkitchen.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 **Your Privacy** Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -13,5 +13,3 @@
 **Changes to this Privacy Statement** The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy, please contact us at [mahrlig@comporium.net](mailto:mahrlig@comporium.net).
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fspicysouthernkitchen.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
