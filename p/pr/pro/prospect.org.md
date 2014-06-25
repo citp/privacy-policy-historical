@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prospect.org privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206201937id_/http%3A//prospect.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospect.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040243id_/http%3A//prospect.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,10 +11,6 @@ We may collect personal identification information from Users in a variety of wa
 **Non-personal identification information**
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
-
-**Web browser cookies**
-
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 **How we use collected information**
 
@@ -48,9 +44,11 @@ Sensitive and private data exchange between the Site and its Users happens over 
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-**Advertising**
+**Advertising and Web** **  browser cookies**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+Ads appearing on our site may be delivered to Users by advertising partners.  Both the American Prospect and and our partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. You can visit <http://www.google.com/settings/ads> to opt out of Google’s use of cookies. You can also visit <http://www.networkadvertising.org/choices/> to opt out of other third parties’ use of cookies. This privacy policy does not cover the use of cookies by any advertisers.
 
 **Changes to this privacy policy**
 
