@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the zuora.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208050315id_/http%3A//www.zuora.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuora.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005343id_/http%3A//www.zuora.com/company/privacy.html) for the most accurate reproduction.*
 
-# Zuora's Privacy Statement | Zuora
+# Privacy Statement | Zuora
 
 * * *
 
-Founded in 2007 by SaaS industry veterans from salesforce.com and WebEx, Zuora has created an on demand platform designed to simplify the way online subscription services are purchased, billed, and provisioned. Zuora, Inc. is backed by Benchmark Capital and located in Redwood City, California. For more information about Zuora, Inc. visit [www.zuora.com](http://www.zuora.com/) or email [info@zuora.com](mailto:info@zuora.com).
+Founded in 2007 by SaaS industry veterans from salesforce.com and WebEx, Zuora has created an on demand platform designed to simplify the way online subscription services are purchased, billed, and provisioned. Zuora, Inc. is located in Foster City, California. For more information about Zuora, Inc. visit [www.zuora.com](http://www.zuora.com/) or email [info@zuora.com](mailto:info@zuora.com).
 
-[](http://privacy.truste.com/privacy-seal/Zuora/validation?rid=5855bf10-cd21-4068-810f-c29f16f5630a "Validation Page for Online Privacy Certification by TRUSTe")
+[](https://privacy.truste.com/privacy-seal/Zuora/validation?rid=5855bf10-cd21-4068-810f-c29f16f5630a "TRUSTe online privacy certification")
 
-Zuora has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements, including TRUSTe’s EU Safe Harbor program requirements, such as including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the web site www.zuora.com.. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at [compliance@zuora.com](mailto:info@zuora.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
+Zuora has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the web site [www.zuora.com](http://www.zuora.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at [compliance@zuora.com](mailto:compliance@zuora.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 Zuora complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Zuora has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Information regarding the Safe Harbor Frameworks, as well as Zuora’s certification can be found at: <http://www.export.gov/safeharbor>.
 
-If you have questions or concerns regarding this Statement, you should first contact [support@zuora.com](mailto:support@zuora.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [clicking here](http://watchdog.truste.com/pvr.php?page=complaint&url=),  fax to **** 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://watchdog.truste.com/pvr.php?page=complaint&url=) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. ** **
+If you have questions or concerns regarding this Statement, you should first contact [support@zuora.com](mailto:support@zuora.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [clicking here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](https://feedback-form.truste.com/watchdog/request) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. 
 
 ### Collected Information
 
@@ -44,7 +44,9 @@ Zuora customers use Zuora Services to host data and information. Zuora will not 
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process.
 
-Zuora may also collect certain information from visitors to a Zuora Web site and customers of the Services, such as Internet addresses. This information is logged to help diagnose technical problems and to administer the Zuora Web site and Services in order to constantly improve quality. We may also track and analyze non-identifying and aggregate usage and volume statistical information from visitors and customers and provide such information to third parties.
+Zuora may send your personal information to other companies or people under any of the following circumstances: when we have your consent to share the information; when we need to share your information to provide the service you have requested; when we need to send the information to companies who work on behalf of Zuora to provide a service to you (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); if you have provided your personal information at a Zuora event, when we share your information with our customers or partners as part of lead swaps at such events; when we share your information with a co-promoting company at webinars; or when we want to keep you up to date on the latest service announcements, updates, special offers or other information we think you'd like to hear about either from us, our business partners or third parties. We will also disclose your personal information if required to do so by law, to enforce our Terms of Use, or in urgent circumstances, to protect personal safety, the public or our websites. We reserve the right to disclose your Personally Identifiable Information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Site. 
+
+Zuora may also collect certain information from visitors to a Zuora Web site and customers of the Services, such as Internet addresses. This information is logged to help diagnose technical problems and to administer the Zuora Web site and Services in order to constantly improve quality. We may also track and analyze non-identifying and aggregate usage and volume statistical information from visitors and customers and provide such information to third parties. 
 
 ### Cookies
 
@@ -72,38 +74,38 @@ The security of your personal information is important to us. When you enter sen
 
 Zuora offers you a means to choose how we may use information you provide. If, at any time after registering for information or ordering the Services, you change your mind about receiving certain email communications from us or about sharing personal information with third parties, send us a request to opt-out from receiving promotional emails or from having your personal information shared with third parties. Send your request to [support@zuora.com](mailto:support@zuora.com).
 
-### Correcting and Updating Your Information
-
-To update, change or delete registration information and billing information, or to discontinue the Services, log on to the Services at a Zuora Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [support@zuora.com](mailto:support@zuora.com). We will respond to your request to access within 30 days.
-
 ### Blog
 
 If you use a bulletin board, chat room, blog or forum on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [support@zuora.com](mailto:support@zuora.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### Customer Testimonials
 
-We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.
+We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at [support@zuora.com](mailto:support@zuora.com)
+
+### Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 ### Additional Information
 
-Questions regarding this Privacy Statement or the security practices of the Services should be directed to [support@zuora.com](mailto:support@zuora.com). 
+Questions regarding this Privacy Statement or the security practices of the Services should be directed to [support@zuora.com](mailto:support@zuora.com).
 
 ### Changes to This Statement
 
 If we decide to change our privacy statement, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this statement, we will notify you here, by email, or by means of a notice on our home page.
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this statement, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
 
 ### Contact Information
 
 If you have questions, concerns or suggestions related to our Privacy Statement or our privacy practices you may contact us at:
 
 Zuora, Inc.   
-3400 Bridge Pkwy, Suite 101   
-Redwood City, CA 94065   
+1051 E Hillsdale Blvd., Suite 600   
+Foster City, CA 94404   
 (650) 641-3777   
 [compliance@zuora.com](mailto:compliance@zuora.com)
 
-If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint "Validation Page for Online Privacy Certification by TRUSTe").
+If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request "Validation Page for Online Privacy Certification by TRUSTe").
 
-_Update effective 12 February 2013_
+_Update effective 6 December 2013_
