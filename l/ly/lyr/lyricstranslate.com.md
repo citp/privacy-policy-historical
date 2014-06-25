@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lyricstranslate.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207043754id_/http%3A//lyricstranslate.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricstranslate.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115640id_/http%3A//lyricstranslate.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Lyrics Translate
+# Privacy policy | LyricsTranslate.com
 
 The following policy is intended to explain how your personal information will be treated when you use our site. Personal information includes your name, e-mail addresses, click-through activity and any other personal information you may provide here.
 
