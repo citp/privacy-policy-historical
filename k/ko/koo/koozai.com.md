@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koozai.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231003425id_/http%3A//www.koozai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koozai.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232818id_/http%3A//www.koozai.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -45,11 +45,11 @@ In order to understand your needs and provide you with a better service we will 
 
 Cookies are files which can be placed onto your computer’s hard drive, once permission has been given. There are numerous benefits to having cookies placed on your hard drive. If you have accepted, cookies are used to identify when you visit a particular site, as well as analyse web traffic. Cookies also facilitate a more personal web experience, allowing web applications to gather information about your personal preferences, and respond to you as an individual.
 
-Please visit: [http://www.aboutcookies.org](http://www.aboutcookies.org/) for more information on cookies. 
+Please visit: [http://www.aboutcookies.org](http://www.aboutcookies.org/) for more information on cookies.
 
 At Koozai, traffic log cookies are used to identify the pages that are being used. From the data provided by these cookies, we can analyse web page traffic and tailor our website to our customer’s needs. This information is only used for the purpose of statistical analysis.
 
-  You have the choice of whether or not to accept cookies through the majority of web browsers. You can decline cookies within your web browser settings if necessary. However, doing so will not give you full functionality of the website. If you accept cookies, we are able to monitor which pages our visitors find useful. This provides us information to be used for a better user experience. We do not have access to your computer or any other information about you through the use of cookies.
+You have the choice of whether or not to accept cookies through the majority of web browsers. You can decline cookies within your web browser settings if necessary. However, doing so will not give you full functionality of the website. If you accept cookies, we are able to monitor which pages our visitors find useful. This provides us information to be used for a better user experience. We do not have access to your computer or any other information about you through the use of cookies.
 
 ### Cookies
 
