@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowpipe.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208074545id_/http%3A//www.yellowpipe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpipe.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110341id_/http%3A//www.yellowpipe.com/privacy.php) for the most accurate reproduction.*
 
 # Yellowpipe - Web Hosting with Everything
 
@@ -26,7 +26,7 @@ Your privacy is very important to us. To better protect your privacy while your 
 **Stats  
 **The only information we collect without asking you first are regular and basic statistic website informations, like IP address, host name, hostmask, referer, browser, provider, country, Operating System. We delete these informations after few months.
 
-## **Also read our[ _Terms of service_](http://www.yellowpipe.com/hosting/terms-of-service.php) for the [Web Hosting services](https://web.archive.org/web/20131208074545id_/http%3A//www.yellowpipe.com/yis/hosting/index.php)**
+## **Also read our[ _Terms of service_](http://www.yellowpipe.com/hosting/terms-of-service.php) for the [Web Hosting services](https://web.archive.org/web/20140625110341id_/http%3A//www.yellowpipe.com/yis/hosting/index.php)**
 
 and 
 
