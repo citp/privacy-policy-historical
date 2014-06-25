@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolfcrow.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207144605id_/http%3A//wolfcrow.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolfcrow.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080755id_/http%3A//wolfcrow.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | wolfcrow
 
