@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diyready.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116013150id_/http%3A//diyready.com/tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyready.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071321id_/http%3A//www.diyready.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - DIY Ready
+# Privacy Policy DIY Ready | DIY Projects | Crafts - DIY Ready | DIY Projects | Crafts
 
 **Privacy Policy**
 
