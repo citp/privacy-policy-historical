@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theworkathomewife.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207174431id_/http%3A//theworkathomewife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworkathomewife.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083518id_/http%3A//theworkathomewife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The Work at Home Wife
 
 **Privacy Policy for www.theworkathomewife.com**
 
