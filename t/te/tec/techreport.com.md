@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430082846id_/http%3A//techreport.com/privacypolicy.x) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103344id_/http%3A//techreport.com/privacypolicy.x) for the most accurate reproduction.*
 
 # Privacy policy - The Tech Report
 
@@ -12,6 +12,8 @@ The Tech Report's forums and news comments systems use common cookie technology 
 
 Third-party advertisers  
 Some advertisements at The Tech Report are served by third-party advertising networks. Some of these companies may use common cookie technology to place a cookie on your computer. This information is used to serve ads to you on this site and possibly others. The Tech Report cannot control or be responsible for this third-party data, but we do seek to do business only with companies that handle such data responsibly. 
+
+The Tech Report is a Missouri corporation. We do not distribute flyers, coupons, newsletters and other printed promotional materials, or electronic equivalents; make verbal solicitation (e.g., in-person referrals); initiate telephone calls; or send e-mails specifically seeking to target Missouri State residents on behalf of our sponsors. Such activities are prohibited by Missouri law.
 
 Links  
 This site contains links to other sites. The Tech Report is not responsible for either the privacy practices or the content of such web sites. 
