@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelinks.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210111006id_/http%3A//www.freelinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelinks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045553id_/http%3A//www.freelinks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Free Links
 
@@ -7,8 +7,8 @@
 This is the web site of FREELINKS.COM LLC. 
 
 Our postal address is  
-808 N Franklin St 1412  
-Tampa, FL 33602
+PO Box 3324  
+Copper Mountain, CO 80443
 
 We can be reached via e-mail at freelinksllc@gmail.com. 
 
