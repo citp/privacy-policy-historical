@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the expeditelectronics.com privacy policy that was archived on 2013-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131018010101id_/http%3A//www.expeditelectronics.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the expeditelectronics.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625172258id_/http%3A//www.expeditelectronics.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -83,7 +83,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 </script>
 <script type="text/javascript">
     //<![CDATA[
-    window.HDUSeed = 'ada9ff047b52f4150ef8fc57b229a25a';
+    window.HDUSeed = 'bb70b0afa16c416f649bce6b3cd298b4';
     window.HDUSeedIntId = setInterval(function() {
         if (document.observe) {
             document.observe('dom:loaded', function() {
@@ -103,7 +103,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
     }, 100)
     //]]>
 </script>
-<!-- jQuery LightBoxes -->
+<link rel="alternate" type="application/rss+xml" title="Ex-Blog - RSS Feed" href="http://www.expeditelectronics.com/blog/feed"><!-- jQuery LightBoxes -->
 	
     	<!-- FancyBox -->
 <script type="text/javascript" src="http://www.expeditelectronics.com/js/lightboxes/fancybox/jquery.easing-1.3.pack.js"></script>
@@ -149,6 +149,9 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
         //]]></script><!-- not show the Availability for all product types, added in Configuration -> Design -> HTML Head -->
+
+<meta name="google-site-verification" content="xoMM-YjfvjHCKan3N6kd727RFe8YYmuBuzD6Sls77Fw">
+
 <style type="text/css">
 /*.availability { display: none; }*/
 .availability.in-stock { display: none; }
@@ -174,6 +177,82 @@ _atrk_opts = { atrk_acct:"nycli1agq8000C", domain:"expeditelectronics.com",dynam
 
 </script>
 
+
+<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+
+<script type="text/javascript">
+
+/*** 
+    Simple jQuery Slideshow Script
+    Released by Jon Raasch (jonraasch.com) under FreeBSD license: free to use or modify, not responsible for anything, etc.  Please link out to me if you like it :)
+***/
+
+function slideSwitch() {
+    var $active = $('#slideshow DIV.active');
+
+    if ( $active.length == 0 ) $active = $('#slideshow DIV:last');
+
+    // use this to pull the divs in the order they appear in the markup
+    var $next =  $active.next().length ? $active.next()
+        : $('#slideshow DIV:first');
+
+    // uncomment below to pull the divs randomly
+    // var $sibs  = $active.siblings();
+    // var rndNum = Math.floor(Math.random() * $sibs.length );
+    // var $next  = $( $sibs[ rndNum ] );
+
+
+    $active.addClass('last-active');
+
+    $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 1000, function() {
+            $active.removeClass('active last-active');
+        });
+}
+
+$(function() {
+    setInterval( "slideSwitch()", 5000 );
+});
+
+</script>
+
+<style type="text/css">
+
+/*** set the width and height to match your images **/
+
+#slideshow {
+    position:relative;
+    height:47px;
+}
+
+#slideshow DIV {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:8;
+    opacity:0.0;
+    height: 47px;
+    background-color: #FFF;
+}
+
+#slideshow DIV.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+#slideshow DIV.last-active {
+    z-index:9;
+}
+
+#slideshow DIV IMG {
+    height: 47px;
+    display: block;
+    border: 0;
+    margin-bottom: 10px;
+}
+
+</style>
 
 <script type="text/javascript">
 jQuery(function($) {
@@ -213,7 +292,84 @@ jQuery(function($) {
  }, 200);
  }
 }); 
-</script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all.js"></script></head>
+</script>
+
+
+<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+
+<script type="text/javascript">
+
+/*** 
+    Simple jQuery Slideshow Script
+    Released by Jon Raasch (jonraasch.com) under FreeBSD license: free to use or modify, not responsible for anything, etc.  Please link out to me if you like it :)
+***/
+
+function slideSwitch() {
+    var $active = $('#slideshow DIV.active');
+
+    if ( $active.length == 0 ) $active = $('#slideshow DIV:last');
+
+    // use this to pull the divs in the order they appear in the markup
+    var $next =  $active.next().length ? $active.next()
+        : $('#slideshow DIV:first');
+
+    // uncomment below to pull the divs randomly
+    // var $sibs  = $active.siblings();
+    // var rndNum = Math.floor(Math.random() * $sibs.length );
+    // var $next  = $( $sibs[ rndNum ] );
+
+
+    $active.addClass('last-active');
+
+    $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 1000, function() {
+            $active.removeClass('active last-active');
+        });
+}
+
+$(function() {
+    setInterval( "slideSwitch()", 5000 );
+});
+
+</script>
+
+<style type="text/css">
+
+/*** set the width and height to match your images **/
+
+#slideshow {
+    position:relative;
+    height:47px;
+}
+
+#slideshow DIV {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:8;
+    opacity:0.0;
+    height: 47px;
+    background-color: #FFF;
+}
+
+#slideshow DIV.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+#slideshow DIV.last-active {
+    z-index:9;
+}
+
+#slideshow DIV IMG {
+    height: 47px;
+    display: block;
+    border: 0;
+    margin-bottom: 10px;
+}
+
+</style><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all.js"></script></head>
 <body class=" cms-page-view cms-privacy">
 <!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
@@ -469,11 +625,36 @@ _gaq.push(['_trackPageview']);
 <div>
 <ul class="toc">
         <li class=""><a href="http://www.expeditelectronics.com/shopping.html"><span>Shopping</span></a></li>
-    <li class=""><a href="http://www.expeditelectronics.com/hot-deals"><span>Special Offer</span></a></li>
-    <li class=""><a href="http://www.expeditelectronics.com/reviewcentre"><span>Review Centre</span></a></li>
+    <li class=""><a href="http://www.expeditelectronics.com/clearance"><span>CLEARANCE</span></a></li>
+    <li class=""><a href="http://www.expeditelectronics.com/blog"><span>Ex-Blog</span></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <img src="../../../../../../../../skin/frontend/default/em0050/images/icon/all.png" width="387" height="68" style="position:relative;top:-32px;left:265px;z-index:2;" usemap="#allicons">
+	<map name="allicons">
+    <area shape="rect" coords="0,0,108,68" alt="money back" href="http://www.expeditelectronics.com/returns-and-refund">
+    <area shape="rect" coords="120,0,208,68" alt="delivery" href="http://www.expeditelectronics.com/shipping">
+    <!--area shape="rect" coords="210,0,310,68" alt="1 yeaer warranty" href="http://www.expeditelectronics.com/about-us"-->
+    <area shape="rect" coords="315,0,400,68" alt="local return" href="http://www.expeditelectronics.com/returns-and-refund">
+  </map>
+
 
 </ul>
 </div>
+
 
 <!-- used for + Add to Compare AJAX calls -->
 <div id="productCompareLoading" style="display: none;">
@@ -526,6 +707,10 @@ Memory Card
 </li><li class="level0 nav-6 level-top">
 <a href="http://www.expeditelectronics.com/shopping/camera/accessories.html" class="level-top ">
 Accessories
+</a>
+</li><li class="level0 nav-7 level-top">
+<a href="http://www.expeditelectronics.com/shopping/camera/instax.html" class="level-top ">
+Instax
 </a>
 </li></ul></div></li>                
                         </ul>
@@ -641,21 +826,75 @@ Asus
 <a href="http://www.expeditelectronics.com/shopping/tablet/blackberry.html" class="level-top ">
 Blackberry
 </a>
-</li><li class="level0 nav-4 level-top">
+</li><li class="level0 nav-4 level-top parent">
 <a href="http://www.expeditelectronics.com/shopping/tablet/ipad.html" class="level-top ">
 iPad
 </a>
+<ul class="level0">
+<li class="level1 nav-4-1 first">
+<a href="http://www.expeditelectronics.com/shopping/tablet/ipad/ipad-mini-wifi.html">
+iPad Mini Wi-Fi
+</a>
+</li><li class="level1 nav-4-2">
+<a href="http://www.expeditelectronics.com/shopping/tablet/ipad/ipad-mini-4g.html">
+iPad Mini 4G
+</a>
+</li><li class="level1 nav-4-3">
+<a href="http://www.expeditelectronics.com/shopping/tablet/ipad/ipad-mini-grey.html">
+iPad Mini Grey
+</a>
+</li><li class="level1 nav-4-4">
+<a href="http://www.expeditelectronics.com/shopping/tablet/ipad/ipad-mini-silver.html">
+iPad Mini Silver
+</a>
+</li><li class="level1 nav-4-5">
+<a href="http://www.expeditelectronics.com/shopping/tablet/ipad/ipad-air-wifi.html">
+iPad Air Wi-Fi
+</a>
+</li><li class="level1 nav-4-6">
+<a href="http://www.expeditelectronics.com/shopping/tablet/ipad/ipad-air-4g.html">
+iPad Air 4G
+</a>
+</li><li class="level1 nav-4-7">
+<a href="http://www.expeditelectronics.com/shopping/tablet/ipad/ipad-air-grey.html">
+iPad Air Grey
+</a>
+</li><li class="level1 nav-4-8">
+<a href="http://www.expeditelectronics.com/shopping/tablet/ipad/ipad-air-silver.html">
+iPad Air Silver
+</a>
+</li><li class="level1 nav-4-9">
+<a href="http://www.expeditelectronics.com/shopping/tablet/ipad/ipadmini.html">
+iPad Mini
+</a>
+</li><li class="level1 nav-4-10 last">
+<a href="http://www.expeditelectronics.com/shopping/tablet/ipad/ipadair.html">
+iPad Air
+</a>
+</li>
+</ul>
 </li><li class="level0 nav-5 level-top">
 <a href="http://www.expeditelectronics.com/shopping/tablet/motorola.html" class="level-top ">
 Motorola
 </a>
-</li><li class="level0 nav-6 level-top">
+</li><li class="level0 nav-6 level-top parent">
 <a href="http://www.expeditelectronics.com/shopping/tablet/samsung.html" class="level-top ">
 Samsung
 </a>
+<ul class="level0">
+<li class="level1 nav-6-1 first last">
+<a href="http://www.expeditelectronics.com/shopping/tablet/samsung/galaxy-note.html">
+Galaxy Note
+</a>
+</li>
+</ul>
 </li><li class="level0 nav-7 level-top">
 <a href="http://www.expeditelectronics.com/shopping/tablet/sony.html" class="level-top ">
 Sony
+</a>
+</li><li class="level0 nav-8 level-top">
+<a href="http://www.expeditelectronics.com/shopping/tablet/lg.html" class="level-top ">
+LG
 </a>
 </li></ul></div></li>                
                         </ul>
@@ -683,26 +922,30 @@ Sony
                         <ul>
                             <li class="level1 nav-3-1 first">
                                 <div class="col_1"><ul class="levels"><li class="level0 nav-1 level-top">
+<a href="http://www.expeditelectronics.com/shopping/apple/accessories.html" class="level-top ">
+Accessories
+</a>
+</li><li class="level0 nav-2 level-top">
 <a href="http://www.expeditelectronics.com/shopping/apple/ipad.html" class="level-top ">
 iPad
 </a>
-</li><li class="level0 nav-2 level-top">
+</li><li class="level0 nav-3 level-top">
 <a href="http://www.expeditelectronics.com/shopping/apple/iphone.html" class="level-top ">
 iPhone
 </a>
-</li><li class="level0 nav-3 level-top">
+</li><li class="level0 nav-4 level-top">
 <a href="http://www.expeditelectronics.com/shopping/apple/ipod.html" class="level-top ">
 iPod
 </a>
-</li><li class="level0 nav-4 level-top">
+</li><li class="level0 nav-5 level-top">
 <a href="http://www.expeditelectronics.com/shopping/apple/macbook.html" class="level-top ">
 Macbook
 </a>
-</li><li class="level0 nav-5 level-top">
+</li><li class="level0 nav-6 level-top">
 <a href="http://www.expeditelectronics.com/shopping/apple/macmini.html" class="level-top ">
 Macmini
 </a>
-</li><li class="level0 nav-6 level-top">
+</li><li class="level0 nav-7 level-top">
 <a href="http://www.expeditelectronics.com/shopping/apple/tv.html" class="level-top ">
 TV
 </a>
@@ -758,41 +1001,52 @@ TV
             </div>
         </div>          
     </li>    
-    <li id="audio">
-        <a class="drop" href="http://www.expeditelectronics.com/shopping/audio.html">
-            <img id="audio1" src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/nav/icon_audio.png">
-                 <img id="audio2" src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/nav/icon_audio_over.png">
+   <li id="lifestyle">
+        <a class="drop" href="http://www.expeditelectronics.com/shopping/lifestyle.html">
+            <img id="computer1" src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/nav/icon_lifestyle.png">
+                 <img id="computer2" src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/nav/icon_lifestyle_over.png">
         </a>
-        <p id="audio-name1" class="nav-cate-name">Audio</p>
-        <p id="audio-name2" class="nav-cate-name-white">Audio</p>
+        <p id="computer-name1" class="nav-cate-name">Life Style</p>
+        <p id="computer-name2" class="nav-cate-name-white">Life Style</p>
         <div class="dropdown_1columns">
             <div class="inner">
                 <div class="col_1 col-first">
                     <div class="col_1 firstcolumn">
-<!--                        <img class="nav-cate-pic-big" src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/nav/icon_audio_big.png">-->
-                             <p class="nav-cate-name-big">Audio</p>
+<!--                        <img class="nav-cate-pic-big" src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/nav/icon_lifestyle_big.png">-->
+                             <p class="nav-cate-name-big">Life Style</p>
                     </div>
                     <div class="col_1">                  
                         <ul>
                             <li class="level1 nav-3-1 first">
-                                <div class="col_1"><ul class="levels"><li class="level0 nav-1 level-top">
-<a href="http://www.expeditelectronics.com/shopping/audio/speaker.html" class="level-top ">
+                                <div class="col_1"><ul class="levels"><li class="level0 nav-1 level-top parent">
+<a href="http://www.expeditelectronics.com/shopping/lifestyle/audio.html" class="level-top ">
+Audio
+</a>
+<ul class="level0">
+<li class="level1 nav-1-1 first">
+<a href="http://www.expeditelectronics.com/shopping/lifestyle/audio/speaker.html">
 Speaker
 </a>
-</li><li class="level0 nav-2 level-top">
-<a href="http://www.expeditelectronics.com/shopping/audio/audio-device.html" class="level-top ">
+</li><li class="level1 nav-1-2">
+<a href="http://www.expeditelectronics.com/shopping/lifestyle/audio/audio-device.html">
 Audio Device
 </a>
-</li><li class="level0 nav-3 level-top">
-<a href="http://www.expeditelectronics.com/shopping/audio/headphones.html" class="level-top ">
+</li><li class="level1 nav-1-3 last">
+<a href="http://www.expeditelectronics.com/shopping/lifestyle/audio/headphones.html">
 Headphones
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-2 level-top">
+<a href="http://www.expeditelectronics.com/shopping/lifestyle/gpswatch.html" class="level-top ">
+GPS Watch
 </a>
 </li></ul></div></li>                
                         </ul>
                     </div>
                 </div>              
             </div>
-        </div> 
+        </div>          
     </li>    
     <li id="mobile">
         <a class="drop" href="http://www.expeditelectronics.com/shopping/mobile.html">
@@ -811,29 +1065,52 @@ Headphones
                     <div class="col_1">                  
                         <ul>
                             <li class="level1 nav-3-1 first">
-                                <div class="col_1"><ul class="levels"><li class="level0 nav-1 level-top">
+                                <div class="col_1"><ul class="levels"><li class="level0 nav-1 level-top parent">
 <a href="http://www.expeditelectronics.com/shopping/mobile/apple.html" class="level-top ">
 Apple
 </a>
+<ul class="level0">
+<li class="level1 nav-1-1 first last">
+<a href="http://www.expeditelectronics.com/shopping/mobile/apple/nokia.html">
+Nokia
+</a>
+</li>
+</ul>
 </li><li class="level0 nav-2 level-top">
 <a href="http://www.expeditelectronics.com/shopping/mobile/samsung.html" class="level-top ">
 Samsung
 </a>
 </li><li class="level0 nav-3 level-top">
+<a href="http://www.expeditelectronics.com/shopping/mobile/nokia.html" class="level-top ">
+Nokia
+</a>
+</li><li class="level0 nav-4 level-top">
 <a href="http://www.expeditelectronics.com/shopping/mobile/sony.html" class="level-top ">
 Sony
 </a>
-</li><li class="level0 nav-4 level-top">
+</li><li class="level0 nav-5 level-top">
 <a href="http://www.expeditelectronics.com/shopping/mobile/accessories.html" class="level-top ">
 Accessories
 </a>
-</li><li class="level0 nav-5 level-top">
+</li><li class="level0 nav-6 level-top">
 <a href="http://www.expeditelectronics.com/shopping/mobile/htc.html" class="level-top ">
 HTC
 </a>
-</li><li class="level0 nav-6 level-top">
+</li><li class="level0 nav-7 level-top">
 <a href="http://www.expeditelectronics.com/shopping/mobile/blackberry.html" class="level-top ">
 Blackberry
+</a>
+</li><li class="level0 nav-8 level-top">
+<a href="http://www.expeditelectronics.com/shopping/mobile/lg.html" class="level-top ">
+LG
+</a>
+</li><li class="level0 nav-9 level-top">
+<a href="http://www.expeditelectronics.com/shopping/mobile/bluetooth-headsets.html" class="level-top ">
+Bluetooth Headsets
+</a>
+</li><li class="level0 nav-10 level-top">
+<a href="http://www.expeditelectronics.com/shopping/mobile/motorola.html" class="level-top ">
+Motorola
 </a>
 </li></ul></div></li>                
                         </ul>
@@ -1024,64 +1301,128 @@ Memory Card
                             <strong>Privacy</strong>
                                     </li>
             </ul>
-</div><div class="std"><div id="staticContentMain">
-<h1>Privacy Policy</h1>
-<p>The Website is operated by Expedite Electronics.</p>
-<p>As user of the website (referred to as “you/your”) you acknowledge that any use of this website (including any transactions you make) is subject to this Privacy Policy together with our Terms and Conditions.</p>
-<p>The purpose of this statement is to set out the purposes for which, and the manner in which, we may collect and use personal information that we may obtain about you. By either registering as a user of any services provided by Expedite Electronics on this website and/or by using the&nbsp;Expedite Electronics website generally you consent and agree to this use by us.</p>
-<p>Expedite Electronics&nbsp;does not knowingly collect data from any unsupervised person under the age of 18.&nbsp; If you are under the age of 18, you must not use the&nbsp;Expedite Electronics website or submit any personal data to us unless you have the consent of, and are supervised by, a parent or guardian.</p>
-<br> <a href="#personal">Use of your personal information</a><br> <a href="#fraud">Crime prevention</a><br> <a href="#disclosure">Disclosure of your information</a><br> <a href="#tv">TV Licensing</a><br> <a href="#cookies">Cookies</a><br> <a href="#security">Security</a><br> <a href="#prodreviews">Product Reviews</a><br> <a href="#general">General</a><br> <a href="#howremove">How can I be removed from the&nbsp;Expedite Electronics&nbsp;email newsletters list?</a><br> <a href="#howchange">How do I change any details stored on expeditelectronics.com?</a><br> <a href="#contus">Contact Us</a><br> <a href="#changes">Changes to Policy</a><br> <br>
-<h2 id="personal">Use of your Personal Information</h2>
-<p>1. When you register and use this site:</p>
-<ul style="list-style: disc!important; margin: 0 0 10px 0!important; padding: 0 0 0 20px!important;">
-<li>You will be asked to provide certain information such as your name contact details and possibly credit card or other payment details. We will store this data and hold it on computers or otherwise. We will use this data to fulfil our agreement with you.</li>
-<li>Some of our services will require further details, for example, when using the Gift list service, this will require further information to set up and maintain your gift list and allow your chosen guests to see your list details for example.</li>
-<li>In addition we may gather other information about your use of the website, including by the use of cookies (see section on Cookies below).</li>
+</div><div class="std"><p><strong>PRIVACY POLICY</strong></p>
+<p><strong>Expeditelectronics.com</strong> takes your privacy seriously, and we want you to know how we collect, use, share and protect your information.</p>
+<p><strong>This Privacy Policy tells you:</strong></p>
+<ul>
+<li>What information we collect</li>
+<li>How we use that information</li>
+<li>How we may share that information</li>
+<li>How we protect your information</li>
+<li>Your choices regarding your personal information</li>
 </ul>
-<p>2. We may use information that you provide or that is obtained by us: <br> (a) to register you with our website and to manage any account you hold with us <br> (b) to administer our website services; <br> (c) to give to companies and organisations whose products we provide to you, e.g. product, home and motor, financial and travel services.<br> (d) to fulfil our agreement with you and to process your order and obtain payment.<br> (e) to analyse and profile your shopping preferences e.g. (market, customer and product analysis) to enable us (i) to provide you with a personalised browsing experience when using the website and (ii) to review, develop and improve the products and services which we offer and to enable us to provide you and other customers with relevant information through our marketing programme. <br> (f) we may use your information to make decisions about you using computerised technology, for example automatically selecting products and/or services which we think will interest you from the information we have. <br> (g) we may keep you informed of such products and services (including products and services of other companies and organisations and including special offers, discounts, offers, competitions and so on) which we consider may be of interest to you by any of the following methods:</p>
-<ul style="list-style: disc!important; margin: 0 0 10px 0!important; padding: 0 0 0 20px!important;">
-<li>Email</li>
-<li>Post</li>
-<li>Or otherwise</li>
+<p>INFORMATION WE COLLECT</p>
+<p><strong>Information You Give Us</strong></p>
+<p>We receive and may store any information you enter on our websites or give to us in our stores. For example, we collect information from you when you place an order, create an account, call us with a question, create a Wish List, write a review, or use any of our services.</p>
+<p>The information we collect from you includes things like:</p>
+<ul>
+<li>Your name</li>
+<li>Your mailing address</li>
+<li>Your e-mail address</li>
+<li>Your phone number</li>
+<li>Your credit card number and other payment information</li>
+<li>Your driver's license number</li>
+<li>Credit application information, such as your Social Security Number</li>
+<li>Demographic and lifestyle information, such as age, personal interests and product preferences</li>
 </ul>
-<p>(h) To administer any prize draws or competitions you may enter.</p>
-<p>3. If you do not wish to receive information of products and services which may be of interest to you from us or carefully chosen third parties, please select the opt-out option where appropriate.<br> <br> 4. We may supplement the information that you provide to us with information that we receive from third parties. In particular we will carry out searches with credit reference agencies.</p>
-<p>5. We may engage third party payment providers to administer and process your payment card details in order to complete any purchase that you make through the website.</p>
-<p>6. We may store and process your information on our own information technology systems or on systems owned by third parties that may store and process your information on our behalf.</p>
-<h2 id="fraud">Crime Prevention</h2>
-<p>7. In order to protect our customers and us from fraud and theft, we may pass on information that we obtain from making identity checks and other information in our customer records, including how you conduct your account, to other Group companies, other retailers and to financial and other organisations involved in fraud prevention and detection, to use in the same way. Without limitation to the foregoing, we may disclose any information and data relating to you to the police or any regulatory or government authority including and not limited to law enforcement agencies in response to a request in connection with the investigation of any suspected illegal activities.</p>
-<h2 id="disclosure">Disclosure of Your Information</h2>
-<p>8. We may give information about you to the following companies and organisations who may use it for the same purposes as set out above:<br> (a) to other companies in the Group<br> (b) to employees and agents of the Group and other approved third parties to administer any accounts, products and services provided to you by the Group now or in the future.<br> (c) to agents who (on our behalf) profile your data so that we may tailor the goods/services we offer to your specific needs.<br> (d) to other organisations for the administration of prize draws or competitions<br> (e) to anyone to whom we transfer our rights and duties under our agreement with you.<br> (f) if we have a duty to do so or if the law allows us to do so.</p>
-<p>9. We refer in paragraph 4 above to the fact that we may carry out credit reference agency searches to obtain information about you. These agencies record those searches. In addition to the purposes listed above, we may also share information about you and the conduct of your account with credit reference agencies, other lenders and relevant third parties including our legal advisors and debt recovery agencies.</p>
-<p>10. In carrying out the activities specified in this policy, we may transfer data to reputable companies outside the European Economic Area. Whilst we take reasonable steps to ensure that your information will be afforded the same level of protection as that required of us under applicable UK data protection legislation you should be aware that countries outside the European Economic Area may not offer the same level of protection of personal data.</p>
-<h2 id="tv">TV Licensing</h2>
-<p>11. It is a legal requirement that if you purchase any television receiving equipment, such as a TV, set-top box, video or DVD recorder, Blu-ray players, computer or mobile phone to watch TV programmes&nbsp;Expedite Electronics is required by law to obtain details of your name and the full address of where the equipment will be installed and to notify this information to the TV Licensing Authority within 28 days of each transaction. Unless this information is provided, such sales will be refused.</p>
-<h2 id="cookies">Cookies</h2>
-<p>12. This site uses cookies which are text files which contain small amounts of information that a website can send to, and store on, your computer or device through your browser. Cookies may be used by us to provide you with, for example, customised information from our website to make our website more user-friendly. This may include, for example, remembering your postcode for you so you don’t have to re-enter it every time you check the stock levels for an item you are interested in. In addition, cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website.</p>
-<p>13. We are required to provide you with clear and comprehensive information about the cookies which we use on the site and to obtain your consent to the use of the cookies. In order to comply with these requirements we have prepared a cookies policy setting out information about cookies, detailing the cookies we use and providing information on how to manage cookies on your computer.</p>
-<p>14. By using the&nbsp;Expedite Electronics website, mobile website and Apps, you are agreeing to our Privacy and cookie policies and consent to the use of cookies and similar technologies by us and our carefully selected third party partners as described in these policies. If you do not agree to such use, please see the <a title="Managing Your Cookies" href="http://www.argos.co.uk/static/StaticDisplay/includeName/cookiePolicy.htm">Managing Your Cookies</a> section for details on how to adjust your settings.<br> <br> For full details about our cookie policy, please see our <a title="Cookie policy" href="http://www.argos.co.uk/static/StaticDisplay/includeName/cookiePolicy.htm">Cookie policy</a> page.</p>
-<h2 id="security">Security</h2>
-<p>15. We will treat all of your information in strict confidence and we will endeavour to take all reasonable steps to protect your personal information. However, we cannot guarantee the security of any data you disclose online. You accept the inherent security risks of providing information and dealing online over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default.</p>
-<p>16. For further information about the steps we take to protect your information and make online shopping as secure as possible, please see information on <a title="Secure online shopping" href="http://www.argos.co.uk/static/StaticDisplay/includeName/Security.htm">Secure online shopping</a>.</p>
-<h2 id="prodreviews">Product reviews</h2>
-<p>17. Around 2 weeks after receiving your product, we may send you an email inviting you to review and rate the product that you purchased. In addition, sometimes we may also ask you if you would like to answer questions related to your product submitted by other customers.<br> Please be aware that: <br> - your review may be shared on other Home Retail Group sites. <br> - once submitted, it usually takes 72 hours for your review, question or answer to appear on the website providing it adheres to our <a title="this link will open in a new window" href="http://reviews.argos.co.uk/content/1493-en_gb/guidelines.htm" target="_blank">publishing guidelines</a>.<br> - your review can be submitted anonymously or if you prefer you can leave a ratings only review. <br> - it is not possible for you to edit/remove your review after submission <br> If you require any further information on this service or wish to have your review removed, you can contact <a href="http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosCustomerServices">customer services</a>.</p>
-<p>18. We may in our absolute discretion accept or reject any product review which may be submitted to us and may edit any such review for both length and/or content as we see fit. All reviews are submitted on the basis that&nbsp;Expedite Electronics or any member of the Group may use the review in any format and for any purpose as it sees fit and for any marketing or promotional purposes.</p>
-<h2 id="general">General</h2>
-<p>19. You have the right to see personal data (as defined in the Data Protection Act) that we keep about you upon receipt of a written request and payment of a fee (see <a href="http://www.argos.co.uk/static/StaticDisplay/includeName/privacyPolicy.htm#contus">Contact Us</a> below).</p>
-<p>20. If you are concerned that any of the information we hold on you is incorrect please <a href="http://www.argos.co.uk/static/StaticDisplay/includeName/privacyPolicy.htm#contus">Contact Us</a>.</p>
-<p>21. Please be aware that our site may link to other websites which may be accessed through our site. We are not responsible for the data policies or procedures or the content of these linked websites.</p>
-<h2 id="howremove">How can I get my name removed from the expeditelectronics.com mailing list?</h2>
-<p>22. If you want to be removed from our mailing list, please send an email to <a title="reply@argos.co.uk" href="mailto:reply@argos.co.uk">info@expeditelectronics.com</a> with the word 'remove' in the subject line and the email address that you wish to be removed within the email. Please note that it may take up to 28 days to action your request. In addition, each electronic mailing we send you will contain details of how you can un-subscribe.</p>
-<h2 id="howchange">How do I change any details stored on expeditelectronics.com?</h2>
-<p>23. To change any of your registered details on expeditelectronics.com, click on ‘Sign in’ and enter your login name and password. Once logged in change any of the details shown and click ‘update my details'.<br> For further information about shopping on expeditelectronics.com, please read our <a title="Terms and conditions" href="http://www.argos.co.uk/static/StaticDisplay/includeName/TermsAndConditions.htm">Terms and conditions</a> and <a title="Home delivery information" href="http://www.argos.co.uk/static/StaticDisplay/includeName/OrderingForHomeDelivery.htm">Home delivery information</a>.</p>
-<h2 id="contus">Contact Us</h2>
-<p>24. If you have any comments or queries in connection with our privacy policy, please <a title="Email customer services" href="http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosEmailUsEntry?storeId=10001&amp;includeName=EmailTemplate1.jsp&amp;parent_Heading_Id=1">Email customer services</a>.</p>
-<h2 id="changes">Changes to Policy</h2>
-<p>25. We may amend and update this policy from time to time. Any changes in the future will be posted on this page.</p>
-</div></div></div></div><div class="clear"></div></div><div class="wrapper-img"><div class="container_24 "><div class="clear"></div><div class="grid_24"><div class="widget widget-static-block"></div></div><div class="clear"></div></div></div><div class="container_24 "><div class="grid_24 bkg-col"><div class="grid_6 alpha"><div class="widget widget-static-block"></div>
+<p>It may also include information you give us about other people, such as the name and address of a gift recipient, or the name and contact info of a Friends &amp; Family Pickup person.</p>
+<p><strong>Information From Other Sources</strong></p>
+<p>We may also receive information about you from other sources, including third parties that help us update, expand and analyze our records and identify new customers.</p>
+<p>&nbsp;</p>
+<p><strong>Automatic Information</strong></p>
+<p>Like many other websites, we also collect information through cookies and other automated means. Cookies are commonly used by websites to save data on your computer. The information we collect from cookies may include your IP address, browser and device characteristics, referring URLs, and a record of your interactions with our websites. We use cookies to create a more personalized shopping experience on our websites.</p>
+<p>One type of cookie may allow us to identify you as a particular Best Buy retail store customer when you visit our websites and to link your activities on our websites to your interactions with us in our stores. In combination with other information we collect, this cookie may facilitate the tailoring of advertisements and offers to you, sometimes in connection with interest-based advertising.</p>
+<p>To help us understand and enhance our interactions with visitors to our websites, we may permit web analytics providers to collect information on our websites using automated tools like cookies or web beacons. We also may share personal information with those providers. We may have similar arrangements with interest-based advertisers. Interest-based advertising is covered in more detail below.</p>
+<p><strong>Public Forums&nbsp;</strong></p>
+<p>Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.</p>
+<p>HOW WE USE THE INFORMATION WE COLLECT</p>
+<p>We use the information we collect for things like:</p>
+<ul>
+<li>Fulfilling orders and requests for products, services or information</li>
+<li>Processing returns, exchanges and layaway requests</li>
+<li>Tracking and confirming online orders</li>
+<li>Delivering or installing products</li>
+<li>Managing our Reward Zone program</li>
+<li>Marketing and advertising products and services</li>
+<li>Conducting research and analysis</li>
+<li>Establishing and managing your accounts with us</li>
+<li>Communicating things like special events, sweepstakes, promotions and surveys</li>
+<li>Processing Best Buy credit card or Reward Zone MasterCard applications</li>
+<li>Identifying you on our websites and tailoring advertisements and offers to you (both on our websites and on other websites) based on your interactions with us in our stores and online</li>
+<li>Facilitating interactions with Best Buy and others, such as enabling you to email a link to a friend</li>
+<li>Operating, evaluating and improving our business</li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Data Retention</strong></p>
+<p>We will retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p>HOW WE SHARE THE INFORMATION WE COLLECT</p>
+<p><strong>Expeditelectronics</strong> does not sell, rent or trade your personal information to third parties.</p>
+<p>We may share your information with third parties to perform services on our behalf such as:</p>
+<ul>
+<li>Fulfilling orders</li>
+<li>Delivering packages</li>
+<li>Scheduling and performing installations</li>
+<li>Servicing products</li>
+<li>Maintaining our Reward program</li>
+<li>Sending marketing communications</li>
+<li>Fulfilling subscription services</li>
+<li>Conducting research and analysis</li>
+<li>Processing credit card payments</li>
+</ul>
+<p>&nbsp;</p>
+<p>Sometimes we may be required to share personal information in response to a regulation, court order or subpoena. We may also share information when we believe it's necessary to comply with the law. We also may share information to respond to a government request or when we believe disclosure is necessary or appropriate to protect the rights, property or safety of <strong>Expeditelectronics</strong>, our customers, or others; to prevent harm or loss; or in connection with an investigation of suspected or actual unlawful activity.</p>
+<p>We may also share personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.</p>
+<p>HOW WE PROTECT THE INFORMATION WE COLLECT</p>
+<p>When you are buying online from <strong>Expeditelectronics</strong>, we use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it. We cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.</p>
+<p>We use a variety of information security measures to protect your online transactions with us. <strong>Expeditelectronics </strong>uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL protects information you submit via our Web site such as ordering information including your name, address and credit card number. Information you provide to us via our in-store kiosk does not traverse the public Internet.</p>
+<p>YOUR CHOICES REGARDING THE INFORMATION WE COLLECT</p>
+<p>You may choose to:</p>
+<ul>
+<li>Stop receiving marketing or promotional e-mails, direct mail, phone and mobile marketing communications</li>
+<li>Update and correct your personal information</li>
+<li>Cancel your account or request that we no longer use your information to provide you services</li>
+<li>Request removal of your personal information from our blog or community forum by contacting us at <a href="mailto:cs@expeditelectronics.com">cs@expeditelectronics.com</a></li>
+</ul>
+<p>&nbsp;</p>
+<p>INTEREST-BASED ADVERTISING</p>
+<p>We use third-party advertising companies to display ads when you visit our websites or other sites on the Internet. These companies may collect information about your visits to this and other websites. We may also share personal information with these companies.<strong>&nbsp;&nbsp;</strong>In either case, the purpose is to provide ads about products and services that may be of interest to you.</p>
+<p>&nbsp;<br> LINKS TO OTHER WEBSITES</p>
+<p>Our websites link to other websites, many of which have their own privacy policies. Be sure to review the privacy policy on the site you're visiting.</p>
+<p>HAVE QUESTIONS?</p>
+<p>If you have any questions about our Privacy Policy, we'll do our best to answer them by contacting us at <a href="mailto:cs@expeditelectronics.com">cs@expeditelectronics.com</a></p>
+<h3>&nbsp;</h3>
+<h3>Computing Cookies</h3>
+<p>When you are browsing websites on the internet, usually the websites store the cookies on your computer to help track your use of the site and to personalise your journey around the website. These cookies can be stored so that if you return to a website, that website server can call the information from the cookies stored on your computer to tailor your experience of the site.</p>
+<p>&nbsp;</p>
+<p><strong>Expeditelectronis.com</strong> use cookies to help you shop our website more effectively and to place online orders -&nbsp;<strong>we do not store personally identifiable information in our cookie data</strong>. We also use some carefully selected 3rd party suppliers to enhance your online experience and they will place cookies on your computer for use on our website too.</p>
+<p>&nbsp;</p>
+<p>Cookies are perfectly safe to be stored on your computer and almost all web browsers have cookie storing enabled as default. However, all browsers have the option of disabling cookies being stored on your computer if you wish to do this.</p>
+<p>&nbsp;</p>
+<p><strong>Please be aware</strong>&nbsp;that disabling cookies on your browser will reduce your ability to shop online with <strong>Expeditelectronis.com</strong>. We use cookies to process products in your basket and orders. Disabling your cookies will mean you cannot purchase through our website. This would also be a common experience of reduced functionality across many websites.</p>
+<p>&nbsp;</p>
+<p>Recent legislation from the European Union has meant that websites must provide clear information about their use of cookies to their customers. We want to ensure that you, as our valued customer, are fully aware of the use of cookies on our website, and we are proud of our reputation as a transparent and honest retailer that you can trust.</p>
+<p>&nbsp;</p>
+<p>We want to make sure you are fully aware of the cookies we use and what they do when you are shopping on <strong>Expeditelectronis.com</strong>.</p>
+<p>&nbsp;</p>
+<p><strong>Google Analytics:</strong></p>
+<p>We use Google Analytics to help provide us data about the way our customers use our websites to improve your experience. Google Analytics cookies record visitors, city locations, browser type and site journey. Google Analytics cookies do not record personal information. For a full description of Google’s use of cookies please visit:</p>
+<p>&nbsp;</p>
+<p><a href="http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html" target="_new"><strong>http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html</strong></a></p>
+<p>&nbsp;</p>
+<p><strong>Google adwords conversion tracking:</strong><strong></strong></p>
+<p>&nbsp;</p>
+<p>This is a cookie from Google that helps us to understand how customers are purchasing from our website. This information helps us understand what is working more successfully for us in terms of sponsored advertising on search engines, website structures, promotions and other key identifiers. The cookie does not contain any personal information about our customers.</p>
+<p><br> <a href="https://support.google.com/adwords/bin/answer.py?hl=en&amp;answer=93148" target="_new"><strong>https://support.google.com/adwords/bin/answer.py?hl=en&amp;answer=93148</strong></a></p>
+<p>&nbsp;</p>
+<p>These are all the cookies currently used by our website and our approved suppliers. Hopefully it is clear that all of our cookies are used ultimately to improve the journey for our customers online or to help us present a better website experience online.&nbsp;</p>
+<p><br> If you feel you would like to change your personal interaction with cookies, you can adjust storage of cookies settings through your web browser by checking out our&nbsp;<a href="http://www.pcworld.co.uk/gbuk/privacy-on-pc-world-157-commercial.html#tab-3"><strong>Cookies &amp; Your Computer</strong></a>&nbsp;page.</p>
+<p><strong><em>Please be aware</em></strong>&nbsp;disabling cookies will severely limit your ability to shop on expeditelectronics.com and disable features of many websites across the internet.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Sharing our pages online&nbsp;</strong>You are able to share certain pages with your friends and networks through 3rd party sites such as&nbsp;<a href="https://www.facebook.com/help/?page=176591669064814" target="_new"><strong>Facebook</strong></a>,&nbsp;<a href="https://twitter.com/privacy" target="_new"><strong>Twitter</strong></a>&nbsp;and&nbsp;<a href="http://www.google.com/intl/en/policies/" target="_new"><strong>Google+</strong></a>. If you choose to share via these networks, you may have cookies from these networks stored on your computer. These cookies are not something we control and are sent to you by the 3rd party site you share through – click the links above to learn about the network’s policy on privacy and cookies.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></div></div></div><div class="clear"></div></div><div class="wrapper-img"><div class="container_24 "><div class="clear"></div><div class="grid_24"><div class="widget widget-static-block"></div></div><div class="clear"></div></div></div><div class="container_24 "><div class="grid_24 bkg-col"><div class="grid_6 alpha"><div class="widget widget-static-block"></div>
 <div class="widget widget-static-block"></div></div><div class="grid_6"><div class="widget widget-static-block"><div class="footer-block grid_23">
-    <div class="footer-links grid_15">
-        <div class="block block-subscribe">
+<div class="footer-links grid_15"><div class="block block-subscribe">
     <div class="block-title">
         <strong><span>Newsletter</span></strong>
     </div>
@@ -1121,27 +1462,26 @@ Memory Card
     </script>
 </div>
 
-        <ul>
-        <li><a href="http://www.expeditelectronics.com/about-us">About us</a></li>
-        <li><a href="http://www.expeditelectronics.com/terms-and-condition">Terms &amp; Condition</a></li>
-        <li><a href="http://www.expeditelectronics.com/privacy">Privacy</a></li>
-        <li><a href="http://www.expeditelectronics.com/contacts">Contact Us</a></li>
-        </ul>
-    </div>
-    
-    <div class="footer-icons grid_7">
-        <ul>
-        <li><a href="https://www.facebook.com/pages/Expedite-Electronics/537540519641860"><img src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/icon/icon_fb.png"></a></li>
-        <li><a href="https://plus.google.com/109578727473025853511/posts"><img src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/icon/icon_google.png"></a></li>
-        <li><a href="https://twitter.com/ExpediteE"><img src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/icon/icon_twitter.png"></a></li>
-        <li><img src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/icon/icon_youtube.png"></li>
-        <li><img src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/icon/icon_payment.png"></li><li>
-        </li></ul>
-    </div>
-
-    <div class="footer-copyright grid_7">
-        © 2013 Expedite Electronics. All Rights Reserved.
-    </div>
+<ul>
+<li><a href="http://www.expeditelectronics.com/about-us">About us</a></li>
+<li><a href="http://www.expeditelectronics.com/shipping">Shipping</a></li>
+<li><a href="http://www.expeditelectronics.com/returns-and-refund">Returns and Refund</a></li>
+<li><a href="http://www.expeditelectronics.com/terms-and-condition">Terms &amp; Condition</a></li>
+<li><a href="http://www.expeditelectronics.com/privacy">Privacy</a></li>
+<li><a href="http://www.expeditelectronics.com/contacts">Contact Us</a></li>
+</ul>
+</div>
+<div class="footer-icons grid_7">
+<ul>
+<li><a href="https://www.facebook.com/pages/Expedite-Electronics/537540519641860"><img src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/icon/icon_fb.png" alt=""></a></li>
+<li><a href="https://plus.google.com/109578727473025853511/posts"><img src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/icon/icon_google.png" alt=""></a></li>
+<li><a href="https://twitter.com/Ex_electronics"><img src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/icon/icon_twitter.png" alt=""></a></li>
+<li><a href="http://www.youtube.com/channel/UCsE3QY1GyJ2n3jamTl0Ci3w"><img src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/icon/icon_youtube.png" alt=""></a></li>
+<li><img src="http://www.expeditelectronics.com/skin/frontend/default/em0050/images/icon/icon_payment.png" alt=""></li>
+<li></li>
+</ul>
+</div>
+<div class="footer-copyright grid_7">© 2013 Expedite Electronics. All Rights Reserved.</div>
 </div></div></div><div class="grid_6 omega"><div class="widget widget-static-block"></div></div><div class="clear"></div></div></div><div class="wra-bo"><div class="container_24 "><div class="inner-bottom"><div class="grid_12"><div class="widget widget-static-block"></div></div><div class="grid_12"><div class="widget widget-static-block"></div></div><div class="clear"></div><div class="grid_24"><script language="JavaScript" type="text/javascript">
 /*<![CDATA[*/
 window.fbAsyncInit = function() {
