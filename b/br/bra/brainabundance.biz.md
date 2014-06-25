@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the brainabundance.biz privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119021407id_/http%3A//brainabundance.biz/corp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainabundance.biz privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082203id_/http%3A//brainabundance.biz/corp/privacyPolicy) for the most accurate reproduction.*
 
 # BrainAbundance :: Privacy Policy
-
-**IMPORTANT PRE-LAUNCH WARNING:** **Brain Abundance is currently in Pre-Launch. Our official launch date is January 15, 2014. During Pre-Launch, your first product order may take up to 6 weeks to arrive, and there may be some links, pages, and tools that are not yet fully functional. Please recognize this before you make a decision to join. All commissions will be paid during Pre-Launch, starting with our first weekly pay run on Wednesday November 27, 2013.**
 
 Privacy Policy
 
