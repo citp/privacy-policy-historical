@@ -1,134 +1,166 @@
-> *The following text is extracted and transformed from the expeditelectronics.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018010101id_/http%3A//www.expeditelectronics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expeditelectronics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172258id_/http%3A//www.expeditelectronics.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-The Website is operated by Expedite Electronics.
+**PRIVACY POLICY**
 
-As user of the website (referred to as “you/your”) you acknowledge that any use of this website (including any transactions you make) is subject to this Privacy Policy together with our Terms and Conditions.
+**Expeditelectronics.com** takes your privacy seriously, and we want you to know how we collect, use, share and protect your information.
 
-The purpose of this statement is to set out the purposes for which, and the manner in which, we may collect and use personal information that we may obtain about you. By either registering as a user of any services provided by Expedite Electronics on this website and/or by using the Expedite Electronics website generally you consent and agree to this use by us.
+**This Privacy Policy tells you:**
 
-Expedite Electronics does not knowingly collect data from any unsupervised person under the age of 18.  If you are under the age of 18, you must not use the Expedite Electronics website or submit any personal data to us unless you have the consent of, and are supervised by, a parent or guardian.
-
-Use of your personal information  
-Crime prevention  
-Disclosure of your information  
-TV Licensing  
-Cookies  
-Security  
-Product Reviews  
-General  
-How can I be removed from the Expedite Electronics email newsletters list?  
-How do I change any details stored on expeditelectronics.com?  
-Contact Us  
-Changes to Policy
-
-## Use of your Personal Information
-
-1\. When you register and use this site:
-
-  * You will be asked to provide certain information such as your name contact details and possibly credit card or other payment details. We will store this data and hold it on computers or otherwise. We will use this data to fulfil our agreement with you.
-  * Some of our services will require further details, for example, when using the Gift list service, this will require further information to set up and maintain your gift list and allow your chosen guests to see your list details for example.
-  * In addition we may gather other information about your use of the website, including by the use of cookies (see section on Cookies below).
+  * What information we collect
+  * How we use that information
+  * How we may share that information
+  * How we protect your information
+  * Your choices regarding your personal information
 
 
 
-2\. We may use information that you provide or that is obtained by us:   
-(a) to register you with our website and to manage any account you hold with us   
-(b) to administer our website services;   
-(c) to give to companies and organisations whose products we provide to you, e.g. product, home and motor, financial and travel services.  
-(d) to fulfil our agreement with you and to process your order and obtain payment.  
-(e) to analyse and profile your shopping preferences e.g. (market, customer and product analysis) to enable us (i) to provide you with a personalised browsing experience when using the website and (ii) to review, develop and improve the products and services which we offer and to enable us to provide you and other customers with relevant information through our marketing programme.   
-(f) we may use your information to make decisions about you using computerised technology, for example automatically selecting products and/or services which we think will interest you from the information we have.   
-(g) we may keep you informed of such products and services (including products and services of other companies and organisations and including special offers, discounts, offers, competitions and so on) which we consider may be of interest to you by any of the following methods:
+INFORMATION WE COLLECT
 
-  * Email
-  * Post
-  * Or otherwise
+**Information You Give Us**
+
+We receive and may store any information you enter on our websites or give to us in our stores. For example, we collect information from you when you place an order, create an account, call us with a question, create a Wish List, write a review, or use any of our services.
+
+The information we collect from you includes things like:
+
+  * Your name
+  * Your mailing address
+  * Your e-mail address
+  * Your phone number
+  * Your credit card number and other payment information
+  * Your driver's license number
+  * Credit application information, such as your Social Security Number
+  * Demographic and lifestyle information, such as age, personal interests and product preferences
 
 
 
-(h) To administer any prize draws or competitions you may enter.
+It may also include information you give us about other people, such as the name and address of a gift recipient, or the name and contact info of a Friends & Family Pickup person.
 
-3\. If you do not wish to receive information of products and services which may be of interest to you from us or carefully chosen third parties, please select the opt-out option where appropriate.
+**Information From Other Sources**
 
-4\. We may supplement the information that you provide to us with information that we receive from third parties. In particular we will carry out searches with credit reference agencies.
+We may also receive information about you from other sources, including third parties that help us update, expand and analyze our records and identify new customers.
 
-5\. We may engage third party payment providers to administer and process your payment card details in order to complete any purchase that you make through the website.
+**Automatic Information**
 
-6\. We may store and process your information on our own information technology systems or on systems owned by third parties that may store and process your information on our behalf.
+Like many other websites, we also collect information through cookies and other automated means. Cookies are commonly used by websites to save data on your computer. The information we collect from cookies may include your IP address, browser and device characteristics, referring URLs, and a record of your interactions with our websites. We use cookies to create a more personalized shopping experience on our websites.
 
-## Crime Prevention
+One type of cookie may allow us to identify you as a particular Best Buy retail store customer when you visit our websites and to link your activities on our websites to your interactions with us in our stores. In combination with other information we collect, this cookie may facilitate the tailoring of advertisements and offers to you, sometimes in connection with interest-based advertising.
 
-7\. In order to protect our customers and us from fraud and theft, we may pass on information that we obtain from making identity checks and other information in our customer records, including how you conduct your account, to other Group companies, other retailers and to financial and other organisations involved in fraud prevention and detection, to use in the same way. Without limitation to the foregoing, we may disclose any information and data relating to you to the police or any regulatory or government authority including and not limited to law enforcement agencies in response to a request in connection with the investigation of any suspected illegal activities.
+To help us understand and enhance our interactions with visitors to our websites, we may permit web analytics providers to collect information on our websites using automated tools like cookies or web beacons. We also may share personal information with those providers. We may have similar arrangements with interest-based advertisers. Interest-based advertising is covered in more detail below.
 
-## Disclosure of Your Information
+**Public Forums  **
 
-8\. We may give information about you to the following companies and organisations who may use it for the same purposes as set out above:  
-(a) to other companies in the Group  
-(b) to employees and agents of the Group and other approved third parties to administer any accounts, products and services provided to you by the Group now or in the future.  
-(c) to agents who (on our behalf) profile your data so that we may tailor the goods/services we offer to your specific needs.  
-(d) to other organisations for the administration of prize draws or competitions  
-(e) to anyone to whom we transfer our rights and duties under our agreement with you.  
-(f) if we have a duty to do so or if the law allows us to do so.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
-9\. We refer in paragraph 4 above to the fact that we may carry out credit reference agency searches to obtain information about you. These agencies record those searches. In addition to the purposes listed above, we may also share information about you and the conduct of your account with credit reference agencies, other lenders and relevant third parties including our legal advisors and debt recovery agencies.
+HOW WE USE THE INFORMATION WE COLLECT
 
-10\. In carrying out the activities specified in this policy, we may transfer data to reputable companies outside the European Economic Area. Whilst we take reasonable steps to ensure that your information will be afforded the same level of protection as that required of us under applicable UK data protection legislation you should be aware that countries outside the European Economic Area may not offer the same level of protection of personal data.
+We use the information we collect for things like:
 
-## TV Licensing
+  * Fulfilling orders and requests for products, services or information
+  * Processing returns, exchanges and layaway requests
+  * Tracking and confirming online orders
+  * Delivering or installing products
+  * Managing our Reward Zone program
+  * Marketing and advertising products and services
+  * Conducting research and analysis
+  * Establishing and managing your accounts with us
+  * Communicating things like special events, sweepstakes, promotions and surveys
+  * Processing Best Buy credit card or Reward Zone MasterCard applications
+  * Identifying you on our websites and tailoring advertisements and offers to you (both on our websites and on other websites) based on your interactions with us in our stores and online
+  * Facilitating interactions with Best Buy and others, such as enabling you to email a link to a friend
+  * Operating, evaluating and improving our business
 
-11\. It is a legal requirement that if you purchase any television receiving equipment, such as a TV, set-top box, video or DVD recorder, Blu-ray players, computer or mobile phone to watch TV programmes Expedite Electronics is required by law to obtain details of your name and the full address of where the equipment will be installed and to notify this information to the TV Licensing Authority within 28 days of each transaction. Unless this information is provided, such sales will be refused.
 
-## Cookies
 
-12\. This site uses cookies which are text files which contain small amounts of information that a website can send to, and store on, your computer or device through your browser. Cookies may be used by us to provide you with, for example, customised information from our website to make our website more user-friendly. This may include, for example, remembering your postcode for you so you don’t have to re-enter it every time you check the stock levels for an item you are interested in. In addition, cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website.
+**Data Retention**
 
-13\. We are required to provide you with clear and comprehensive information about the cookies which we use on the site and to obtain your consent to the use of the cookies. In order to comply with these requirements we have prepared a cookies policy setting out information about cookies, detailing the cookies we use and providing information on how to manage cookies on your computer.
+We will retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-14\. By using the Expedite Electronics website, mobile website and Apps, you are agreeing to our Privacy and cookie policies and consent to the use of cookies and similar technologies by us and our carefully selected third party partners as described in these policies. If you do not agree to such use, please see the [Managing Your Cookies](http://www.argos.co.uk/static/StaticDisplay/includeName/cookiePolicy.htm "Managing Your Cookies") section for details on how to adjust your settings.
+HOW WE SHARE THE INFORMATION WE COLLECT
 
-For full details about our cookie policy, please see our [Cookie policy](http://www.argos.co.uk/static/StaticDisplay/includeName/cookiePolicy.htm "Cookie policy") page.
+**Expeditelectronics** does not sell, rent or trade your personal information to third parties.
 
-## Security
+We may share your information with third parties to perform services on our behalf such as:
 
-15\. We will treat all of your information in strict confidence and we will endeavour to take all reasonable steps to protect your personal information. However, we cannot guarantee the security of any data you disclose online. You accept the inherent security risks of providing information and dealing online over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default.
+  * Fulfilling orders
+  * Delivering packages
+  * Scheduling and performing installations
+  * Servicing products
+  * Maintaining our Reward program
+  * Sending marketing communications
+  * Fulfilling subscription services
+  * Conducting research and analysis
+  * Processing credit card payments
 
-16\. For further information about the steps we take to protect your information and make online shopping as secure as possible, please see information on [Secure online shopping](http://www.argos.co.uk/static/StaticDisplay/includeName/Security.htm "Secure online shopping").
 
-## Product reviews
 
-17\. Around 2 weeks after receiving your product, we may send you an email inviting you to review and rate the product that you purchased. In addition, sometimes we may also ask you if you would like to answer questions related to your product submitted by other customers.  
-Please be aware that:   
-\- your review may be shared on other Home Retail Group sites.   
-\- once submitted, it usually takes 72 hours for your review, question or answer to appear on the website providing it adheres to our [publishing guidelines](http://reviews.argos.co.uk/content/1493-en_gb/guidelines.htm "this link will open in a new window").  
-\- your review can be submitted anonymously or if you prefer you can leave a ratings only review.   
-\- it is not possible for you to edit/remove your review after submission   
-If you require any further information on this service or wish to have your review removed, you can contact [customer services](http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosCustomerServices).
+Sometimes we may be required to share personal information in response to a regulation, court order or subpoena. We may also share information when we believe it's necessary to comply with the law. We also may share information to respond to a government request or when we believe disclosure is necessary or appropriate to protect the rights, property or safety of **Expeditelectronics** , our customers, or others; to prevent harm or loss; or in connection with an investigation of suspected or actual unlawful activity.
 
-18\. We may in our absolute discretion accept or reject any product review which may be submitted to us and may edit any such review for both length and/or content as we see fit. All reviews are submitted on the basis that Expedite Electronics or any member of the Group may use the review in any format and for any purpose as it sees fit and for any marketing or promotional purposes.
+We may also share personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.
 
-## General
+HOW WE PROTECT THE INFORMATION WE COLLECT
 
-19\. You have the right to see personal data (as defined in the Data Protection Act) that we keep about you upon receipt of a written request and payment of a fee (see [Contact Us](http://www.argos.co.uk/static/StaticDisplay/includeName/privacyPolicy.htm#contus) below).
+When you are buying online from **Expeditelectronics** , we use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it. We cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.
 
-20\. If you are concerned that any of the information we hold on you is incorrect please [Contact Us](http://www.argos.co.uk/static/StaticDisplay/includeName/privacyPolicy.htm#contus).
+We use a variety of information security measures to protect your online transactions with us. **Expeditelectronics** uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL protects information you submit via our Web site such as ordering information including your name, address and credit card number. Information you provide to us via our in-store kiosk does not traverse the public Internet.
 
-21\. Please be aware that our site may link to other websites which may be accessed through our site. We are not responsible for the data policies or procedures or the content of these linked websites.
+YOUR CHOICES REGARDING THE INFORMATION WE COLLECT
 
-## How can I get my name removed from the expeditelectronics.com mailing list?
+You may choose to:
 
-22\. If you want to be removed from our mailing list, please send an email to [info@expeditelectronics.com](mailto:reply@argos.co.uk "reply@argos.co.uk") with the word 'remove' in the subject line and the email address that you wish to be removed within the email. Please note that it may take up to 28 days to action your request. In addition, each electronic mailing we send you will contain details of how you can un-subscribe.
+  * Stop receiving marketing or promotional e-mails, direct mail, phone and mobile marketing communications
+  * Update and correct your personal information
+  * Cancel your account or request that we no longer use your information to provide you services
+  * Request removal of your personal information from our blog or community forum by contacting us at [cs@expeditelectronics.com](mailto:cs@expeditelectronics.com)
 
-## How do I change any details stored on expeditelectronics.com?
 
-23\. To change any of your registered details on expeditelectronics.com, click on ‘Sign in’ and enter your login name and password. Once logged in change any of the details shown and click ‘update my details'.  
-For further information about shopping on expeditelectronics.com, please read our [Terms and conditions](http://www.argos.co.uk/static/StaticDisplay/includeName/TermsAndConditions.htm "Terms and conditions") and [Home delivery information](http://www.argos.co.uk/static/StaticDisplay/includeName/OrderingForHomeDelivery.htm "Home delivery information").
 
-## Contact Us
+INTEREST-BASED ADVERTISING
 
-24\. If you have any comments or queries in connection with our privacy policy, please [Email customer services](http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosEmailUsEntry?storeId=10001&includeName=EmailTemplate1.jsp&parent_Heading_Id=1 "Email customer services").
+We use third-party advertising companies to display ads when you visit our websites or other sites on the Internet. These companies may collect information about your visits to this and other websites. We may also share personal information with these companies. **   **In either case, the purpose is to provide ads about products and services that may be of interest to you.
 
-## Changes to Policy
+   
+LINKS TO OTHER WEBSITES
 
-25\. We may amend and update this policy from time to time. Any changes in the future will be posted on this page.
+Our websites link to other websites, many of which have their own privacy policies. Be sure to review the privacy policy on the site you're visiting.
+
+HAVE QUESTIONS?
+
+If you have any questions about our Privacy Policy, we'll do our best to answer them by contacting us at [cs@expeditelectronics.com](mailto:cs@expeditelectronics.com)
+
+### Computing Cookies
+
+When you are browsing websites on the internet, usually the websites store the cookies on your computer to help track your use of the site and to personalise your journey around the website. These cookies can be stored so that if you return to a website, that website server can call the information from the cookies stored on your computer to tailor your experience of the site.
+
+**Expeditelectronis.com** use cookies to help you shop our website more effectively and to place online orders -  **we do not store personally identifiable information in our cookie data**. We also use some carefully selected 3rd party suppliers to enhance your online experience and they will place cookies on your computer for use on our website too.
+
+Cookies are perfectly safe to be stored on your computer and almost all web browsers have cookie storing enabled as default. However, all browsers have the option of disabling cookies being stored on your computer if you wish to do this.
+
+**Please be aware**  that disabling cookies on your browser will reduce your ability to shop online with **Expeditelectronis.com**. We use cookies to process products in your basket and orders. Disabling your cookies will mean you cannot purchase through our website. This would also be a common experience of reduced functionality across many websites.
+
+Recent legislation from the European Union has meant that websites must provide clear information about their use of cookies to their customers. We want to ensure that you, as our valued customer, are fully aware of the use of cookies on our website, and we are proud of our reputation as a transparent and honest retailer that you can trust.
+
+We want to make sure you are fully aware of the cookies we use and what they do when you are shopping on **Expeditelectronis.com**.
+
+**Google Analytics:**
+
+We use Google Analytics to help provide us data about the way our customers use our websites to improve your experience. Google Analytics cookies record visitors, city locations, browser type and site journey. Google Analytics cookies do not record personal information. For a full description of Google’s use of cookies please visit:
+
+[**http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html**](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html)
+
+**Google adwords conversion tracking:** ****
+
+This is a cookie from Google that helps us to understand how customers are purchasing from our website. This information helps us understand what is working more successfully for us in terms of sponsored advertising on search engines, website structures, promotions and other key identifiers. The cookie does not contain any personal information about our customers.
+
+  
+[**https://support.google.com/adwords/bin/answer.py?hl=en &answer=93148**](https://support.google.com/adwords/bin/answer.py?hl=en&answer=93148)
+
+These are all the cookies currently used by our website and our approved suppliers. Hopefully it is clear that all of our cookies are used ultimately to improve the journey for our customers online or to help us present a better website experience online. 
+
+  
+If you feel you would like to change your personal interaction with cookies, you can adjust storage of cookies settings through your web browser by checking out our [ **Cookies & Your Computer**](http://www.pcworld.co.uk/gbuk/privacy-on-pc-world-157-commercial.html#tab-3) page.
+
+**_Please be aware_**  disabling cookies will severely limit your ability to shop on expeditelectronics.com and disable features of many websites across the internet. 
+
+**Sharing our pages online  **You are able to share certain pages with your friends and networks through 3rd party sites such as [ **Facebook**](https://www.facebook.com/help/?page=176591669064814), [ **Twitter**](https://twitter.com/privacy) and [ **Google+**](http://www.google.com/intl/en/policies/). If you choose to share via these networks, you may have cookies from these networks stored on your computer. These cookies are not something we control and are sent to you by the 3rd party site you share through – click the links above to learn about the network’s policy on privacy and cookies.
