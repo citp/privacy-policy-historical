@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shashinki.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811101635id_/http%3A//shashinki.com/shop/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shashinki.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114218id_/http%3A//shashinki.com/shop/privacy.php) for the most accurate reproduction.*
 
 # ShaShinKi.com - Malaysia's First & Largest Online Camera Shop!
 
