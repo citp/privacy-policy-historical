@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the just-ask-kim.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208153337id_/http%3A//just-ask-kim.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the just-ask-kim.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102044id_/http%3A//just-ask-kim.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Just Ask Kim
 
 PRIVACY POLICY
 
