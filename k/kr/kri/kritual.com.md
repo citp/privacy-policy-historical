@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kritual.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915005721id_/http%3A//kritual.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kritual.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110724id_/http%3A//kritual.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
