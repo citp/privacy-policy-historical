@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripsink.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219090259id_/http%3A//ripsink.com/pages/aboutcontact.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripsink.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073111id_/http%3A//ripsink.com/pages/aboutcontact.html) for the most accurate reproduction.*
 
 # Untitled Page
 
@@ -31,12 +31,12 @@ RIPSINK.COM contains links to third-party sites.  RIPSINK.COM provides these li
 
 For more information or to contact RIPSINK.COM please send an email addressed to our: 
 
-Technical Support Team   [info@ripsink.com](mailto:info@ufreetv.com)  
--or-
+Technical Support Team   [info@ripsink.com](mailto:info@ufreetv.com)
 
-  
-Peter Rip -  [info@ripsink.com](mailto:info@ufreetv.com)  
-(Flasim Shqipt!)  
+Peter Rip, Administrator 
+
   
 Thank You for Visting **_RIPSINK.COM™_**   
 
+
+[](https://web.archive.org/web/20140625073111id_/http%3A//ripsink.com/home.html)
