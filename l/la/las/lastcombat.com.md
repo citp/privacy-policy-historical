@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the lastcombat.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219031221id_/http%3A//www.lastcombat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastcombat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070052id_/http%3A//www.lastcombat.com/privacy.php) for the most accurate reproduction.*
 
-# The Last Combat Privacy Policy
+# Privacy policy of LASTCOMBAT
+
+## Our privacy policy
 
   
 **The privacy of our visitors is important to us**
 
-At The Last Combat (www.lastcombat.com), we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit The Last Combat, and how we safeguard your information. We never sell your personal information to third parties. 
+At LASTCOMBAT (www.lastcombat.com), we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit The Last Combat, and how we safeguard your information. We never sell your personal information to third parties. 
 
 **Log Files**
 
