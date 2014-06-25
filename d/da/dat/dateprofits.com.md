@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dateprofits.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218070503id_/http%3A//www.dateprofits.com/webmaster/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateprofits.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094054id_/http%3A//www.dateprofits.com/webmaster/privacy) for the most accurate reproduction.*
 
 # DateProfits.com - We Pay Per Lead!
 
