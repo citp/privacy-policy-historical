@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarta.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502075723id_/http%3A//www.smarta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarta.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625151255id_/http%3A//smarta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smarta
 
@@ -11,7 +11,7 @@ Our privacy policy may change form time to time. The up to date privacy policy a
 We may collect and process the following data about you:
 
   * The information that you provide on registering as a user/opening a new account on our site, which may include your name, email address, geographical address, telephone numbers, country of registration, password and user name. To register at our site and to see the current details that we ask for on registration, please go to [www.smarta.com/registration](https://web.archive.org/registration.aspx).
-  * Information that you provide by filling in forms on our site at [www.smarta.com]() ("our site"). This includes information you provide in order to request (or to take) services from or via our site (such as company formation services and applying for a bank loan or account), when requesting further services or information or when you report a problem with our site.
+  * Information that you provide by filling in forms on our site at [www.smarta.com](https://web.archive.org/) ("our site"). This includes information you provide in order to request (or to take) services from or via our site (such as company formation services and applying for a bank loan or account), when requesting further services or information or when you report a problem with our site.
   * If you contact us, we may keep a record of that communication or correspondence.
   * Any information or material that you post on or submit to our site including information in your personal profile, responses to Q & A, information in your blogs and in email or other communications you communicate via or post on our site.
   * Details of your visits to our site and resources that you access.
