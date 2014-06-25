@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensbank.ca privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424093353id_/https%3A//www.citizensbank.ca/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensbank.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140444id_/https%3A//www.citizensbank.ca/Privacy) for the most accurate reproduction.*
 
 # Citizens Bank of Canada
 
