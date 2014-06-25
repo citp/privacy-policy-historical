@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justinalexanderbridal.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930082009id_/http%3A//www.justinalexanderbridal.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justinalexanderbridal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134701id_/http%3A//www.justinalexanderbridal.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Wedding Dresses by Justin Alexander | Wedding Dress & Bridal Gown Designer | Privacy Policy
+# Wedding Dresses | Couture Bridal Gown Designer - Justin Alexander | Privacy Policy
 
 ### 
 
@@ -111,7 +111,7 @@ Effective Date: December 1, 2011
 This is the web site of  **Justin Alexander Bridal.**
 
 POSTAL ADDRESS  
-711 Executive Blvd, Suite G, Valley Cottage, NY 10989
+45 US Highway 46, Unit 607 Pinebrook, NJ 07058
 
 EMAIL ADDRESS  
 info-us@justinalexanderbridal.com
