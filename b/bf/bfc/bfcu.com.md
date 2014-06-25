@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bfcu.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401071646id_/https%3A//www.bethpagefcu.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfcu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092900id_/https%3A//www.bethpagefcu.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
