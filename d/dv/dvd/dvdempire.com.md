@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dvdempire.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015164349id_/http%3A//www.dvdempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdempire.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081236id_/http%3A//www.dvdempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
 
 # DVD Empire | Free Shipping on DVD & Blu-ray Movies
 
-Your privacy is important to Right Ascension, Inc. ("DVD Empire"). We realize that visiting dvdempire.com (the "Website") requires trust on your part. We value your trust very highly and pledge to you, our customer, that we will work to protect the security and privacy of your personal information. 
+Your privacy is important to Ravana, LLC. ("DVD Empire"). We realize that visiting dvdempire.com (the "Website") requires trust on your part. We value your trust very highly and pledge to you, our customer, that we will work to protect the security and privacy of your personal information. 
 
 We believe that you have a right to know the personal information that we collect from you, why we collect it and how we use the information. This Privacy Policy covers how we collect, use, disclose, store and protect your personal information. 
 
