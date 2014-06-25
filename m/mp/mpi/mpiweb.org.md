@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpiweb.org privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122004811id_/http%3A//www.mpiweb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpiweb.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131616id_/http%3A//www.mpiweb.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,20 +24,20 @@ What we will and will not do with member and customer information:
 We may use information to offer goods and services we believe may be of interest to you on behalf of ourselves, our affiliates and our membership. We may use it to contact you to inquire or survey about your experience at one of our conferences, through our Web site, with a staff member/department as well as the prospect of future conference stays or improvements needed to attract additional business. We may also create and use aggregate information that is not personally identifiable to understand more about the common traits and interests of our members and customers.
 
 Emails about Special Offers and Promotions and Opt-Out  
-It is our intention to only send email communications that would be useful to you and that you want to receive. Members, customers and visitors are given the opportunity to “opt-in” to receive electronic promotional communications by selecting the option to receive promotional email from us on our website.
+It is our intention to only send email communications that would be useful to you and that you want to receive. Members, customers and visitors are given the opportunity to "opt-in" to receive electronic promotional communications by selecting the option to receive promotional email from us on our website.
 
-Each time you receive a promotional email, you will be provided the choice to “opt-out” of future emails by following the instructions provided in the email.
+Each time you receive a promotional email, you will be provided the choice to "opt-out" of future emails by following the instructions provided in the email.
 
 #### Cookies
 
-Our Web site utilizes “cookie” technology. “Cookies” are encrypted strings of text that a Web site stores on a user’s computer. Our Web site uses cookies throughout the online process to keep together information entered on multiple pages. In addition, cookies are used to:
+Our Web site utilizes "cookie" technology. "Cookies" are encrypted strings of text that a Web site stores on a user’s computer. Our Web site uses cookies throughout the online process to keep together information entered on multiple pages. In addition, cookies are used to:
 
   * Measure usage of various pages on our website to help us make our information more pertinent to your needs and easy for you to access; and, 
   * Provide functionality such as online registration and other functionality that we believe would be of interest and value to you. 
 
 
 
-The two types of cookies that we use are referred to as “session” cookies and “persistent” cookies. Session cookies are temporary and are automatically deleted once you leave our website. Persistent cookies remain on your computer hard drive until you delete them. We do not use cookies to gather any personally identifiable information about you apart from what you voluntarily provide us in your dealings with us. Our cookies do not corrupt or damage your computer, programs or computer files.
+The two types of cookies that we use are referred to as "session" cookies and "persistent" cookies. Session cookies are temporary and are automatically deleted once you leave our website. Persistent cookies remain on your computer hard drive until you delete them. We do not use cookies to gather any personally identifiable information about you apart from what you voluntarily provide us in your dealings with us. Our cookies do not corrupt or damage your computer, programs or computer files.
 
 You may set your browser to block cookies (consult the instructions for your particular browser on how to do this), although doing so will adversely affect your ability to perform certain transactions, use certain functionality and access certain content on our website.
 
