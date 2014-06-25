@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the searay.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216173726id_/http%3A//www.searay.com/Page.aspx/pageId/10837/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searay.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051515id_/http%3A//searay.com/Page.aspx/pageId/10837/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Sea Ray Boats
 
-**EFFECTIVE DATE: AUGUST 20, 2008  
+**EFFECTIVE DATE: MARCH 3, 2014  
 **  
 The Sea Ray Division of Brunswick Corporation respects your concerns about privacy and values its relationship with you. This Privacy Notice applies to the online practices of [http://www.searay.com](http://www.searay.com/) website. The Notice describes the types of information we collect, how we may use that information and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. We also tell you how you can reach us to update your contact information, remove your name from our mailing lists or get answers to questions you may have about our privacy practices at these sites.
 
@@ -118,6 +118,8 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 
 If you would like to update your contact information or preferences, have your information removed from our mailing lists, or no longer receive marketing e-mails resulting from information collected via product registration cards or other sources, please contact:
 
-Terry Domian, Vice President Client Services, AVALA Marketing Group,  
-1078 Headquarters Park Drive, Fenton, MO 63026,  
-Phone: 636-343-9988, Fax: 636-326-3282, E-mail: [terryd@avalamarketing.com](mailto:terryd@avalamarketing.com)
+Sea Ray Marketing   
+800 South Gay Street, Suite 1200   
+Knoxville, TN 37929   
+865-582-2200  
+ Email: [marketing@searay.com](mailto:marketing@searay.com)
