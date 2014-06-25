@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dollarshaveclub.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901212105id_/http%3A//www.dollarshaveclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarshaveclub.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625222624id_/http%3A//www.dollarshaveclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dollar Shave Club
+
+## Last updated on December 18, 2013.
 
 Dollar Shave Club, Inc. (“ **Dollar Shave Club** ”, “ **DSC** ”, “ **We** ”, “ **Us** ” or “ **Our** ”) values your privacy and is committed to protecting your personal information. Dollar Shave Club is an online service that delivers high-quality shaving razors and grooming supplies to its members once a month (“ **Services** ”). Dollar Shave Club - Shave Money. Shave Time.
 
@@ -44,6 +46,16 @@ The information We collect from you enables us to fulfill your request for our p
 In addition, some of these companies are members of the Network Advertising Initiative ("NAI"), which offers a single location to opt out of receiving tailored ads from member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit the NAI consumer opt out page. Also, through the Digital Advertising Alliance ("DAA"), several media and marketing associations have developed an industry self-regulatory program to give consumers a better understanding of and greater control over ads that are customized based on their online behavior across different Web Sites. CBS Interactive is committed to complying with the Self-Regulatory Program for Online Behavioral Advertising. To learn more and make choices about interest-based ads from participating third parties, please visit theDAA consumer opt out page. In the UK, the Internet Advertising Bureau ("IAB UK") has developed Good Practice Principles for Online Behavioural Targeting. More information and an opt out page to manage online behavioral advertising preferences with IAB UK member companies are available atYourOnlineChoices.com. Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on our Web Sites, but these advertisements may not be as relevant to you.
 
 Dollar Shave Club does not have access to the information these third parties may collect about your interests to deliver relevant advertising to you, and the information practices of these third parties are not covered by this Privacy Policy. In addition, DSC with third parties to help us track the ads that are delivered to you, in particular to control the number of times you receive the same ad, and to analyze the effectiveness of advertising on the Sites.
+
+## DOLLAR SHAVE CLUB SUPPORTS DO NOT TRACK
+
+**What is “Do Not Track”?** Do Not Track (DNT) is a privacy preference that any user can set as a preference in their preferred web browsers. The United States Federal Trade Commission has endorsed DNT and California enacted a bill (AB370) that lets the sites you visit know that you do not want them collecting certain kinds of information about you across services which you have either directly or indirectly interacted with while on the page.
+
+The DNT browser setting is now supported by recent versions of major browsers, including Firefox 5+, Internet Explorer 9+, Safari 5.1+, and Chrome.
+
+**Dollar Shave Club supports “Do Not Track”** We are committed to providing you with meaningful choices about the information we collect to improve your Dollar Shave Club experience. We fully support DNT and here’s how: 
+
+When you turn on DNT in your browser, we stop collecting the information that allows Us to serve you better. Specifically, we stop collecting the unique browser cookie or cookies that links your browser to visits to Our Site(s). This Privacy Policy and the [Terms of Service](http://www.dollarshaveclub.com/terms-conditions), which you agree to be bound by when becoming a Member of Our Site, contains all the information, rules, and regulations on what information We and other third parties use, collect and track in order to better serve you. For all the details, including how to turn on DNT in your browser, please visit [donottrack.us](http://donottrack.us/).
 
 ## Information Sharing and Disclosure
 
