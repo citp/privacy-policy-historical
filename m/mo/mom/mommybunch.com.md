@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the mommybunch.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228005051id_/http%3A//mommybunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommybunch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133059id_/http%3A//mommybunch.com/privacy-policy) for the most accurate reproduction.*
 
-# The Mommy Bunch, Blogging from the MidwestThe Mommy Bunch
+# Privacy Policy | The Mommy Bunch
+
+  *   *   *   * [](https://www.pinterest.com/pin/create/button/)
+  *   * 
+
 
 At The Mommy Bunch ([http://mommybunch.com](http://mommybunch.com/)), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
