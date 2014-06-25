@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generalassemb.ly privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806163235id_/https%3A//generalassemb.ly/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generalassemb.ly privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172824id_/https%3A//generalassemb.ly/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | General Assembly
 
