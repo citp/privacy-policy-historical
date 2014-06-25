@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schedulicity.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604052727id_/https%3A//www.schedulicity.com/About/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schedulicity.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102906id_/https%3A//www.schedulicity.com/About/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Schedulicity - Online Scheduling
 
@@ -38,7 +38,7 @@ Cookies
 
 Schedulicity may set and access cookies on your computer. Schedulicity may allow other companies to use cookies, or use electronic images (e.g., GIFs) that allow a website to count users who have visited that page or to access certain cookies. We do this to improve and enhance the functionality of our website. If you choose to not allow a cookie on your computer, our website may not work correctly.
 
-We also may use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the Website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in any promotions, sweepstakes and contests.
+We also may use cookies, clear gifs, log file information, and other tracking mechanism. We may use this information for any lawful purpose, including to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the Website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in any promotions, sweepstakes and contests.
 
 Third-party Advertisers, Links to Other Websites
 
