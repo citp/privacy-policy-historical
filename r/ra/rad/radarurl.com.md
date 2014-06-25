@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radarurl.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206013219id_/http%3A//radarurl.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radarurl.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064045id_/http%3A//radarurl.com/policy) for the most accurate reproduction.*
 
 # RadarURL - Privacy Policy
 
@@ -26,5 +26,14 @@ RadarURL.com has no access to or control over these cookies that are used by thi
 **Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**On-Page Notification**
+
+You are requested to add a prominent and permanent notification on all pages where you embed the RadarURL widget notifying your users that users’ anonymous information, of relevance to online behavioral advertising is being collected. We encourage you to consult with the [NAI code of conduct](http://www.networkadvertising.org/code-enforcement/code) in order to understand notification requirements. We incorporate the following paragraph as reference for you to add to your privacy policy or to be used for the said notification.  
+We employ 3rd party cookies and other technologies with our widget in order to allow for non-personally identifiable information collection from users websites in addition to the information collected by our own cookies. The information is used for tracking users’ behavior anonymously (advertisement interaction, categories of interest, etc.) and technical information (geo location, language, screen resolution, etc.) in order to allow for personalized advertising: Allowing for more relevant ad serving and enhances online experience by offering more relevant content. Users may inform themselves on relevant privacy practices in our data partner’s privacy center, or opt out at any time here. We do not have access or control over these cookies that are used by third party advertisers.
+
+**Other 3rd Party Information Collection Cookies**
+
+We employ 3rd party cookies and other technologies with our widget in order to allow for non-personally identifiable information collection from users websites in addition to the information collected by our own cookies. The information is used for tracking users’ behavior anonymously (advertisement interaction, categories of interest, etc.) and technical information (geo location, language, screen resolution, etc.) in order to allow for personalized advertising: Allowing for more relevant ad serving and enhances online experience by offering more relevant content. Users may inform themselves on relevant privacy practices in our data partner’s [privacy center](http://www.dtscout.com/privacy_center.php), or opt out at any time [here](http://www.dtscout.com/opt-out.php). We do not have access or control over these cookies that are used by third party advertisers.
 
 **With any further complaint, query or other interest you are welcome to contact us at support [at] radarurl [dot] com.**
