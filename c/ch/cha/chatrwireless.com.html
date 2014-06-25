@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chatrwireless.com privacy policy that was archived on 2013-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619075533id_/http%3A//www.chatrwireless.com/web/content/support_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chatrwireless.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625063522id_/http%3A//www.chatrwireless.com/web/content/support_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>	
 	
@@ -149,7 +149,7 @@ function scTagCommonVars(tagObject) {
 		tagObject.channel="Customer";
 		tagObject.server="www.chatrwireless.com";
 		tagObject.prop2="EN";
-		tagObject.eVar1="DgbmRBjM0hMTqh3";
+		tagObject.eVar1="2pyJTqtKmQ6fTjw";
 	}
 }
 scTagCommonVars(s);
@@ -310,7 +310,7 @@ scTagCommonVars(s);
 					        	<style>		
 					        	#menu_container{					        		
 					        		height:146px;
-					        		margin-bottom:50px;				        		
+					        		margin-bottom:56px;				        		
 					        	}							/* remove #menu_container style when customer serach option is enabled */			        	
 						        #nav_bottom_border{
 					        		top:144px;
@@ -1069,6 +1069,7 @@ $("document").ready( function(){
 
 
 
+
 <script>
 	var isUserLoggedIn = false;
 </script>
@@ -1146,9 +1147,10 @@ $("document").ready( function(){
 					<div class="clearfix footer_links">
 						<a href="/web/content/support_policy"><h3>Privacy  Policy</h3></a><span style="float:left;">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 						<a href="/web/content/termsAndConditions"><h3>Terms &amp; Conditions</h3></a><span style="float:left;">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-						<a href="/web/content/special_needs"><h3>chatr Special Needs</h3></a><span style="float:left;">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+						<a href="/web/content/special_needs"><h3>Accessibility</h3></a><span style="float:left;">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+						<a href="http://www.crtc.gc.ca/eng/info_sht/t15.htm" target="_blank"><h3>CRTC Wireless Code of Conduct</h3></a><span style="float:left;">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 						<a href="/web/content/sitemap"><h3>Site Map</h3></a><span style="float:left;">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-						<span class="chatrInc" style="float:left;">© 2010-2013</span>
+						<span class="chatrInc" style="float:left;">© 2010-2014</span>
 					</div>
 			  </div>			  
 		 </div>
@@ -1203,6 +1205,7 @@ if(s){
 
  
  
+
 
 
 
@@ -1263,6 +1266,20 @@ if(s){
          	var rightArrowObj = arrowObj.children(".leftArrowPng");
          	rightArrowObj.css({"background-position":"0 8px", "vertical-align": "middle", "margin-top" : "-5px"});
      	});	
+     	
+     	 $('.rightArrowAnchor_link').mouseover(function() {
+	 	
+        	var  arrowObj = $(this);
+        	var rightArrowObj = arrowObj.children("span");
+        	rightArrowObj.css({"background-position":"0 -12px"});
+    	});
+    	
+       $('.rightArrowAnchor_link').mouseout(function() {
+       
+        	var  arrowObj = $(this);
+        	var rightArrowObj = arrowObj.children("span");
+        	rightArrowObj.css({"background-position":"0 4px"});
+    	});	
 	}	
 	if(jQuery.browser.msie && jQuery.browser.version < 7){ 
 		DD_belatedPNG.fix('#footer_subcontainer img, #footer_subcontainer div, #footer_subcontainer a, #footer_subcontainer span, #footer_subcontainer input, #footer_subcontainer ul, #footer_subcontainer li');
@@ -1294,7 +1311,14 @@ if(s){
                                          "font-weight" : "normal", "font-size" : "14px", "color" : "#5f6a72",
                                          "font-family" : "Arial Narrow, Arial, Helvetica, Sans-serif" } );
        	}
-	
+      
+      var timeOutUrl = "/web";
+      
+	  	$(document).ajaxError(function(event, xhr) {
+  			if (xhr.status == 403) {
+        		window.location.href = timeOutUrl;
+    		}
+	  	});
 </script>
 
 
