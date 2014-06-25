@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnjavaonline.org privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105231805id_/http%3A//www.learnjavaonline.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnjavaonline.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083947id_/http%3A//learnjavaonline.org/privacy) for the most accurate reproduction.*
 
 # Learn Java - Free Interactive Java Tutorial
 
@@ -72,6 +72,6 @@ This policy was last modified on 10/13/2012
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.learnjavaonline.org  
+http://learnjavaonline.org  
 [support@learnjavaonline.org](mailto:support@learnjavaonline.org)  
 
