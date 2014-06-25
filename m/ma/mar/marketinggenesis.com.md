@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketinggenesis.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911020327id_/http%3A//marketinggenesis.com/%3Fpage_id%3D67) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketinggenesis.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092330id_/http%3A//marketinggenesis.com/privacy-policy) for the most accurate reproduction.*
 
-# Marketing Genesis » Privacy Policy
+# Privacy Policy — Marketing Genesis
 
 _Last Updated: September 5th, 2012_
 
