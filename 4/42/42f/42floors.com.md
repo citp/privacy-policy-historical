@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 42floors.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810035656id_/http%3A//42floors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 42floors.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045538id_/http%3A//42floors.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Welcome to 42Floors, the online and mobile service of 42Floors, Inc. (“42Floor
 
 * ## HOW WE COLLECT AND USE INFORMATION
 
-Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms-of-service).
+Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms_of_service).
 
 We collect the following types of information about you:
 
@@ -42,7 +42,7 @@ We will not rent or sell your information to third parties outside 42Floors and 
 
 **What happens in the event of a change of control** : We may buy or sell/divest/transfer the company (including any shares in the company), or any combination of its products, services, assets and/or businesses. Your information such as customer names and email addresses, User Content and other user information related to the Service may be among the items sold or otherwise transferred in these types of transactions. We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of the company.
 
-**Instances where we are required to share your information** : 42Floors will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Use](https://web.archive.org/terms-of-service) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of 42Floors, our Users or others.
+**Instances where we are required to share your information** : 42Floors will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Use](https://web.archive.org/terms_of_service) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of 42Floors, our Users or others.
 
 **Sharing certain service type information we collect about you** : We may share certain service type information, including information obtained through tools such as cookies, log files, device identifiers, location data and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.): (i) with our third-party business partners for the purposes described in the section above on “ **How We Collect and Use Information**.” We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
 
