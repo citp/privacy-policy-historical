@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faithfulprovisions.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220152521id_/http%3A//www.faithfulprovisions.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithfulprovisions.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115055id_/http%3A//www.faithfulprovisions.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Faithful Provisions
 
 Your privacy is very  important to me and I will respect the information that you submit to me in order to enter the giveaways that I host or subscribe to on Faithful Provisions (Hancock Group LLC). This blog does not collect information from minors, only from adults ages 18 and above. I will never give or sell your email address to anyone. This blog is hosted by Uncorrupted, and their privacy policy is [here](http://uncorrupted.net/legal/).
 
