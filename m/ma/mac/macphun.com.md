@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macphun.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220003408id_/http%3A//www.macphun.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macphun.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083838id_/http%3A//www.macphun.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
