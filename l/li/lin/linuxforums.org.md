@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the linuxforums.org privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222183546id_/http%3A//www.linuxforums.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxforums.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123217id_/http%3A//www.linuxforums.org/privacy.php) for the most accurate reproduction.*
 
 # Linux Forums Privacy Policy
 
-**Welcome to Linux Forums!** With a comprehensive Linux Forum, information on various types of Linux software and many Linux Reviews articles, we have all the knowledge you need a click away, or accessible via our knowledgeable members.
+**Warning** : Non-static method DB::isError() should not be called statically, assuming $this from incompatible context in **/usr/share/PEAR/DB/common.php** on line **1217**
+
+ **Welcome to Linux Forums!** With a comprehensive Linux Forum, information on various types of Linux software and many Linux Reviews articles, we have all the knowledge you need a click away, or accessible via our knowledgeable members.
 
 | Site Navigation  
 ---  
@@ -80,5 +82,3 @@ Linux Forums may update this policy without notice. In the event of a major chan
 The MASMedia Team 
 
 [](http://www.linuxforums.org/linux-jobs.php)
-
-[ ](http://www.jdoqocy.com/ga106vpyvpxCGGHKHJECEDLIHEEI)
