@@ -1,21 +1,26 @@
-> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209022148id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122109id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
 
 # XS Software | Welcome
 
 Partnership
 
-What we do
+Our products
 
-    Development, publishing, and distribution of browser based online games
-    Operate in 80+ countries
+    Massive multiplayer games united in a single portal
+    Original game play and fascinating design
+    Different genres for every type of player
+    40+ languages
+    25 million registered players
+    2,000,000 active players
+    Easy localizable games. Code/Design/Text completely separate
 
 Featured game
 
-[ ](http://www.xs-software.com/viewproduct.php?id=5&go=browser)
+[ ](http://www.xs-software.com/viewproduct.php?id=8&go=browser)
 
-Lady Popular is online game for girls who love fashion, making friends, shopping, decorating and being creative!
+The game's simple gameplay and visual style attract many players. The interface is rather simple: several buttons, a couple of different actions, a few minutes a day. This is convenient for office workers, and for all those, who seek a way to while away some free minutes.
 
-The game offers a virtual equivalent of every girl modern girl`s passion – Fashion. The world of the Mall is limitless. There are over 16 million clothes combinations of ...
+The higher ...
 
 ## Privacy And Policy
 
