@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mirraw.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205132135id_/http%3A//www.mirraw.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirraw.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625225600id_/http%3A//www.mirraw.com/pages/privacy) for the most accurate reproduction.*
 
-# Mirraw's privacy policy - Mirraw
+# Mirraw's privacy policy
 
 Mirraw.com website is owned and operated by Mirraw Online Services Private Limited. In this Privacy Policy, Mirraw Online Services Private Limited is referred to as "we," "us," or "our" and the end users are referred to as "you", "your" or "user". 
 
@@ -45,4 +45,8 @@ For each user, our web server automatically recognizes the following:
 
 
 
-Mirraw uses cookies to ensure Mirraw.com runs on your computer and you can access content on our site. Cookies do not store any passwords or credit card information, any information that personally identifies you, or any information that tracks you from session to session. 
+Mirraw uses cookies to ensure Mirraw.com runs on your computer and you can access content on our site. Cookies do not store any passwords or credit card information. 
+
+## Advertising
+
+Mirraw uses remarketing with google to advertise online. Third party vendors including google, show your ads on the internet. Mirraw and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website. 
