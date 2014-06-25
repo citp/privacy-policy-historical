@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamepressure.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129053004id_/http%3A//info.gamepressure.com/%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepressure.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625181419id_/http%3A//info.gamepressure.com/%23privacy_policy) for the most accurate reproduction.*
 
 # GamePressure.com
 
@@ -26,7 +26,7 @@ Our main hub for our English language sites, info site for videogames enthusiast
 
 **Gry-OnLine gaming info site** (Polish Language) [www.gry-online.pl](http://www.gry-online.pl/) Our Polish sister site about games.
 
-Please keep in mind that we are unable to answer all the emails we get, so if you are searching for some information about a video game, try to use our website in the first place.
+Please keep in mind that we are unable to answer all the emails we get, so if you are searching for some information about a video [game](http://game-maps.com/ESO/The-Elder-Scrolls-Online.asp), try to use our website in the first place.
 
 We will not answer questions like "how to solve the puzzle on the 5th level" or "what is Raiden doing in MGS2". We are sorry, but it is impossible for us to respond to such messages. After all, we prefer to spend time improving gamepressure.com itself. Is it really that bad?
 
@@ -86,4 +86,4 @@ Our philosophy is to make entertainment easier by bringing you sites full of use
 
 If you have any additional questions. Send an e-mail on  and our marketing rep will contact you within 3 business days.
 
-Copyright © 2005-2013 GAMEPRESSURE.com
+Copyright © 2005-2014 GAMEPRESSURE.com
