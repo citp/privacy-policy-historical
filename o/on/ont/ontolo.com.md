@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontolo.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920001510id_/http%3A//ontolo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontolo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125234id_/http%3A//ontolo.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ontolo
 
