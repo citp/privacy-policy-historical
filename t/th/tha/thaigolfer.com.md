@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thaigolfer.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208172107id_/http%3A//thaigolfer.com/site/page%3Fview%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaigolfer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131050id_/http%3A//thaigolfer.com/site/page%3Fview%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Thaigolfer - Page Site
 
@@ -74,4 +74,4 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 Should you have any questions or queries concerning the above please feel free to contact us at [i](mailto:privacy@golfbreaks.com)nfo@thaigolfer.com. Any changes we may make to our privacy policy in the future will be posted on this page. 
 
-_Version 1.0 dated 1st March 2013_
+_Version 1.0 dated 1st March 2014_
