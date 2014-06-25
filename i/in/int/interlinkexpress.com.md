@@ -1,58 +1,86 @@
-> *The following text is extracted and transformed from the interlinkexpress.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404153935id_/http%3A//www.interlinkexpress.com/content/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interlinkexpress.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001256id_/http%3A//www.interlinkexpress.com/content/privacy.jsp) for the most accurate reproduction.*
 
-# Interlink Express - Privacy & Cookie Policy
+# Interlink Express - Privacy Policy
 
-This Policy applies to the use of personal data collected through the Site, i.e. data which relates to an identifiable individual, for example, names, addresses, email addresses and telephone numbers ("Customer Information").
+We at Interlink Express respect your concerns about privacy and are committed to safeguarding and preserving the privacy of the visitors to our website.
 
-By using the Site you consent to the use of Customer Information as set out in this Policy.
+This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our website.
 
-**Collection of Customer Information**
+**1\. INFORMATION WE COLLECT**  
+In running and maintaining our website we may collect and process the following data about you:
 
-Customer Information that you submit
+(i) Information about your use of our website such as details of your visit, pages viewed and  
+resources that you access. Such information includes traffic data, location data and other communication data;  
+(ii) Information provided voluntarily by you, for example, when you use our interactive services,  
+such as Predict or Follow My Parcel;  
+(iii) Information that you provide, such as your name, address, contact details and payment  
+details.
 
-Visitors to the Site can make use of the majority of the services provided, without disclosing any personal information. However, to take full advantage of the interactive services such as track it and ship@ease, you may be required to provide personal and/or business details. Information that you submit to us, for instance by sending us an email enquiring about a service or by ordering a service, will be recorded by Interlink Express and will be used for the purposes set out below.
+**2\. USE OF YOUR INFORMATION**  
+We use the information that we collect from you to provide our services to you. In addition to this we  
+may use this information for one or more of the following purposes:
 
-**Cookies**
+(i) To provide information to you that you request from us relating to our services;  
+(ii) To provide information to you relating to other services that may be of interest to you. Such  
+additional information will only be provided where you have consented to receive such  
+information;  
+(iii) To inform you of any changes to our website, services, or service related products offered to  
+you.
 
-A cookie is a series of data characters which is stored on your computer's hard drive by your web-browser. The next time you visit the Site (using the same computer) our server will recognise the cookie and provide us with information about your last visit.
+If you have previously used our services we may provide you with details of similar services or other  
+services that you may be interested in.
 
-Cookies are used on the Interlink Express Site to enable:
+We will not provide or sell your data to any third party where you have not provided your consent to  
+do so but we will do so in the circumstances detailed below:
 
-  * us to customise pages for you based on your web-browser type or the information you may have provided to the Site.
-  * If you do not want a Cookie to be stored on your hard drive you should select the appropriate options on your web-browser. Please refer to your web-browser provider or system user guide for detailed information on disabling cookies. Please be aware that disabling cookies will prevent the correct operation of track it and ship@ease services.
+(i) Where we are legally required by law to disclose your personal information;  
+(ii) To further fraud protection and reduce the risk of fraud;  
+(iii) To our agents and sub contractors in order to provide services to you.
 
+**3\. DATA TRANSFERS**  
+In operating our website it may become necessary to transfer the data that we collect from you to  
+locations outside the European Union for processing and storing but only in connection with the  
+services that we provide to you such as international carriage. By providing your personal data to us  
+you agree to this transfer, storing or processing. We will do our utmost to ensure that all reasonable  
+steps are taken to make sure that your data is treated and stored securely. However, those countries may not have the same data protection as the country in which you initially provided the information.
 
+When we transfer your information to other countries we will protect this information as described in  
+this Privacy Policy and in accordance with applicable law but we cannot guarantee the security of  
+data that you chose to send us electronically and sending such information is at your own risk.
 
-**Internetworking Protocol Addresses**
+**4\. USE OF COOKIES**  
+A Cookie is a series of data characters, which is stored on your computer's hard drive by your web browser. The next time you visit our website (using the same computer) our server will recognise the  
+Cookie and provide us with information about your last visit.
 
-An internetworking protocol address ("IP Address") is a number automatically assigned to your computer on connecting to the Internet. Interlink Express will make a record of your IP Address and may use it for administrative, security and statistical purposes.
+Cookies are used on our website to enable us to customise pages for you based on your web-browser  
+type or the information you may have provided to our website.
 
-**Use and Disclosure of Personal Information**
+If you do not want a Cookie to be stored on your hard drive you should select the appropriate options  
+on your web-browser. Please refer to your web-browser provider or system user guide for detailed  
+information on disabling Cookies. Please be aware that disabling cookies will prevent the correct  
+operation of some of our services such as Predict and ship@ease services.
 
-  * Customer Information is used to provide and/or enhance the services we offer to you.
-  * Interlink Express may also use Customer Information to keep you informed of new products and/or services that we are offering and think you may find of value.
-  * Interlink Express will not provide or sell Customer Information to any third party not affiliated with Interlink Express other than in the circumstances set out below:
-  * We may disclose Customer Information to our agents and contractors in order to provide services to you.
-  * We may provide Customer Information to credit reference agencies.
-  * We reserve the right to release Customer Information when we believe that release is appropriate in order to comply with law or regulation or to protect the rights, property, or safety of our employees, agents or customers, or other third parties.
-  * We may also transfer Customer Information if we reorganise our business and/or sell part of our business (Customer Information may be one of the business assets transferred to the purchaser).
-  * We may from time to time use your personal information to send you information by telephone, fax, email or post about our company, our special offers and other information that you may find useful. We may also telephone you to discuss quotations given via the website. If you do not wish to receive this information please advise us on **0121 5002627**.
+By using and browsing our website, you consent to Cookies being used in accordance with our Policy.  
+If you do not consent, you must disable Cookies or refrain from using the website.
 
+**5\. LINKS TO OTHER WEBSITES**  
+On occasion we include links to third parties on our website. Where we provide a link it does not  
+mean that we endorse or approve that sites. You should review their Privacy Policy before sending  
+them any personal data.
 
+**6\. ACCESS TO INFORMATION**  
+In accordance with the Data Protection Act 1998 you have the right to access any information that we  
+hold relating to you and you can do this by contacting us as stated in our "How to Contact Us" section  
+of this Privacy Policy.
 
-**Security of Customer Information**
+**7\. UPDATES TO OUR PRIVACY POLICY**  
+This Privacy Policy may be updated periodically to reflect changes in the law and guidance issued.
 
-Interlink Express understands that privacy is important to you. We will take all reasonable precautions to ensure that the Customer Information that we hold about you remains confidential. Information security techniques and controls, such as firewalls, anti-virus software and access control procedures are deployed to protect against:
+**8\. OWNERSHIP AND CONFIDENTIALITY**  
+This Privacy Policy should not be shared with any other Third Party without our written consent. This  
+Privacy Policy and any associated document remains the property of Interlink Express and should be  
+returned if requested.
 
-  * unauthorised access;
-  * improper use or disclosure;
-  * unauthorised modification; and
-  * unlawful destruction or accidental loss.
-
-
-
-Customer Information is handled on a ?Need to Know? basis and access is only provided to those employees who have a legitimate need for that information for the purposes of our business.
-
-**Telephone Call Recording**
-
-To help us continually improve our service and in the interests of security, we may monitor and/or record your telephone calls with us.
+**9\. HOW TO CONTACT US**  
+If you have any questions or comments about this Privacy Policy or if you would like us to update  
+information we have about you or your preferences please contact us by email at [marketing.dept@interlinkexpress.com](mailto:marketing.dept@interlinkexpress.com). You may also write to us at: Interlink Express, Marketing Department, Roebuck Lane, Smethwick, B66 1BN.
