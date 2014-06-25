@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the copperegg.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905092046id_/http%3A//copperegg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copperegg.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115339id_/http%3A//copperegg.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CopperEgg Corp.
-
-COPPEREGG, INC.  
-PRIVACY POLICY  
-(REVISED APRIL 2011)
+# Privacy Policy | CopperEgg
 
 CopperEgg, Inc., a Delaware corporation (“CopperEgg,” “our,” “us,” or “we”) respects your privacy. In that regard, we have created this Privacy Policy to let you know what information we collect when you visit our website located at copperegg.com (including any forums, the “Website”), or use our proprietary service or such other features, websites or applications offered from time to time (collectively, the “Service”), why we collect it, and how it is used. By using the Website or Service, you consent to the data practices prescribed in this Privacy Policy.
 
 “Personal Information” means any information that may be used to identify an individual, including, but not limited to, first and last name, home or other physical address, an email address, phone number, or other contact information, whether at work or at home, age information, credit or debit card information. We may ask you to provide Personal Information that will enable us to enhance your use of the Service, or for purposes such as facilitating correspondence with you, registering your entitlement to access certain special features, or to complete transactions. It is always your choice whether or not to provide that Personal Information. If you choose not to provide requested Personal Information, you may not be able to use certain features of the Service.
 
-Technical Information. We may collect and use technical data and related informationâ€”including but not limited to technical information about your device(s), system and application software, and peripherals that is gathered periodically to facilitate the provision of software updates, product support, and other services to you (if any) related to the Service. We may also automatically receive and record information on our server logs from your browser, which could include your IP address, cookie information, browser information, and the page you request. This information is not deemed by CopperEgg to constitute Personal Information and while CopperEgg will not use it in a way that associates such information with you, such information it may be aggregated and used. CopperEgg owns this information and may use it in any manner it deems appropriate.
+Technical Information. We may collect and use technical data and related information, including but not limited to technical information about your device(s), system and application software, and peripherals that is gathered periodically to facilitate the provision of software updates, product support, and other services to you (if any) related to the Service. We may also automatically receive and record information on our server logs from your browser, which could include your IP address, cookie information, browser information, and the page you request. This information is not deemed by CopperEgg to constitute Personal Information and while CopperEgg will not use it in a way that associates such information with you, such information it may be aggregated and used. CopperEgg owns this information and may use it in any manner it deems appropriate.
 
 The Personal Information that you provide will be kept confidential. It will be used to process transactions and to support your relationship with CopperEgg and use our products and services. Among other things, we want to help you quickly find information through our Service, leverage our tools in connection with your authorized use of our products and services, and alert you to product upgrades, special offers, updated information and other new products and services from CopperEgg.
 
@@ -40,4 +36,6 @@ By using the Service, you agree to this Privacy Policy. This is our entire and e
 
 We may change this Privacy Policy by posting a new version of this Privacy Policy on our Website or through the Service, and it is your responsibility to review this policy periodically. When we do change the policy, we will also revise the “last updated” date at the Privacy Policy and may notify you or post a message on the Website and/or through the Service. Your continued use of the Website or the Service constitutes your agreement to this Privacy Policy and any updates.
 
-For questions or comments regarding this Privacy Policy, please contact us at support@copperegg.com.
+For questions or comments regarding this Privacy Policy, please contact us at [support@copperegg.com](mailto:support@copperegg.com).
+
+_Revised April 2011_
