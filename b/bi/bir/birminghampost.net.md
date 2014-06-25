@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birminghampost.net privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219064818id_/http%3A//www.birminghampost.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birminghampost.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005301id_/http%3A//www.birminghampost.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Birmingham Post: Number one for news, opinion, sport & celebrity gossip
+# Birmingham Post: Business news, local news, expert opinion
 
 ## Privacy Policy
 
