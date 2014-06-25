@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lntinfotech.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917211517id_/http%3A//www.lntinfotech.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lntinfotech.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070439id_/http%3A//www.lntinfotech.com/privacy_policy.html) for the most accurate reproduction.*
 
-# L&T Infotech - Privacy Policy
+# L&T Infotech | Global IT Services and Solutions Provider | Privacy Policy
+
+##  Privacy Policy
 
 In general, you can visit L&T Infotech's World Wide Web without telling us who you are and without revealing any information about yourself. There are times, however, when we may need information from you such as your name and address. When information is needed, we will try (but are not obligated) to let you know at the time of collection, how we will use the personal information. Usually, the personal information we collect is used only by us to respond to your inquiry, process an order or allow you to access specific account information. 
 
@@ -13,8 +15,6 @@ L&T Infotech does not rent, sell, or share personal information about you with o
 3\. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law. 
 
 4\. We transfer information about you if L&T Infotech is acquired by or merged with another company. 
-
-You may choose to give us personal information, such as your name and address or e-mail id that may be needed, for example, to correspond with you, to download our white papers or to provide you with a subscription. If you tell us that you do not want us to use this information as a basis for further contact with you, we will respect your wishes. We intend to protect the quality and integrity of your personally identifiable information. We will make a sincere effort to respond in a timely manner to your requests to correct inaccuracies in your personal information. To correct inaccuracies in your personal information please return the message containing the inaccuracies to the sender with details of the correction requested.
 
 **Cookies, and other technologies**  
 We sometimes collect anonymous information from visits to our sites to help us provide better customer service. For example, we keep track of the domains from which people visit and we also measure visitor activity on L&T Infotech web sites, but we do so in ways that keep the information anonymous. L&T Infotech or its affiliates or vendors may use this data to analyze trends and statistics and to help us provide better customer service. We maintain the highest levels of confidentiality for this information, our affiliates and vendors follow the same high levels of confidentiality. This anonymous information is used and analyzed only at an aggregate level to help us understand trends and patterns. None of this information is reviewed at an individual level. If you do not want your transaction details used in this manner, you can either disable your cookies or opt-out at the download or request page.
