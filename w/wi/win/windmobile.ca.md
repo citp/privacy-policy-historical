@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windmobile.ca privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227171002id_/http%3A//www.windmobile.ca/accessibility-and-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windmobile.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124257id_/http%3A//www.windmobile.ca/accessibility-and-terms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# WIND Mobile | Privacy Policy
 
 ### Purpose and Application
 
