@@ -1,996 +1,413 @@
-<!--The following is the downloaded HTML source of the shoppystar.com privacy policy that was archived on 2013-08-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130817040416id_/http%3A//www.shoppystar.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoppystar.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625065501id_/http%3A//www.shoppystar.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
-
+<!DOCTYPE html><html dir="ltr" class="ltr" lang="en"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width">
+<meta charset="UTF-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="krtrack" src="//krtrack.kartrocket.me/track.js"></script><script type="text/javascript" async="" src="https://d2j3qa5nc37287.cloudfront.net/coupon_code1.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en/all.js#xfbml=1"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script charset="utf-8" async="" src="https://ssl.zopim.com/?18lHOSZkBYwtP7y8LCfUv7AxU8dgTiJb" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcOWV9XGwEEV1FaBwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <title>Privacy Policy</title>
-
+<meta property="fb:app_id" content="158549220935571">
 <base href="http://www.shoppystar.com/">
-
-
-
-
-<link href="http://www.shoppystar.com/image_shopee/data/backgrounds/shoppystae-fab-png.png" rel="icon">
-
-
-
-<link rel="stylesheet" href="catalog/view/theme/estore/stylesheet/cp.css" type="text/css">
-
-<link rel="stylesheet" type="text/css" href="catalog/view/theme/estore/stylesheet/stylesheet.css" media="screen">
-
-<link rel="stylesheet" type="text/css" href="catalog/view/theme/estore/stylesheet/stylesheet-red.css" media="screen">
-
-
-
-<link rel="alternate stylesheet" type="text/css" media="screen" title="stylesheet-blue" href="catalog/view/theme/estore/stylesheet/stylesheet-blue.css">
-
-<link rel="alternate stylesheet" type="text/css" media="screen" title="stylesheet-green" href="catalog/view/theme/estore/stylesheet/stylesheet-green.css">
-
-<link rel="alternate stylesheet" type="text/css" media="screen" title="stylesheet-red" href="catalog/view/theme/estore/stylesheet/stylesheet-red.css">
-
-<link rel="alternate stylesheet" type="text/css" media="screen" title="stylesheet-yellow" href="catalog/view/theme/estore/stylesheet/stylesheet-yellow.css">
-
-<link rel="alternate stylesheet" type="text/css" media="screen" title="stylesheet-orange" href="catalog/view/theme/estore/stylesheet/stylesheet-orange.css">
-
-<link rel="alternate stylesheet" type="text/css" media="screen" title="stylesheet-menu-green" href="catalog/view/theme/estore/stylesheet/stylesheet-menu-green.css">
-
-<link rel="alternate stylesheet" type="text/css" media="screen" title="stylesheet-menu-orange" href="catalog/view/theme/estore/stylesheet/stylesheet-menu-orange.css">
-
-
-
-
-
-
-<link href="http://fonts.googleapis.com/css?family=Terminal+Dosis+Light&amp;v1" rel="stylesheet" type="text/css">
-
-<link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&amp;v1" rel="stylesheet" type="text/css">
-<script charset="utf-8" async="" src="https://ssl.zopim.com/?18lHOSZkBYwtP7y8LCfUv7AxU8dgTiJb" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
-
-<script type="text/javascript" src="catalog/view/javascript/styleswitch.js"></script>
-
-
-
-<script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
-
-<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css">
-<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/onefancybox/jquery.fancybox-1.3.4.css" media="screen">
-<script type="text/javascript" src="catalog/view/javascript/jquery/onefancybox/jquery.fancybox-1.3.4.pack.js"></script>
-<script type="text/javascript" src="catalog/view/javascript/jquery/ui/external/jquery.cookie.js"></script>
-
-<script type="text/javascript" src="catalog/view/javascript/jquery/colorbox/jquery.colorbox.js"></script>
-
-<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/colorbox/colorbox.css" media="screen">
-
-<script type="text/javascript" src="catalog/view/javascript/jquery/tabs.js"></script>
-
-<script type="text/javascript" src="catalog/view/javascript/common.js"></script>
-
-
-<!--[if IE 7]>
-
-<link rel="stylesheet" type="text/css" href="catalog/view/theme/estore/stylesheet/ie7.css" />
-
+<meta name="description" content="Privacy Policy">
+<meta name="keywords" content="Privacy Policy">
+<link href="http://www.shoppystar.com/nfs/image_shoppystar/data/logo/shoppystar-FAB-icon.jpg" rel="icon">
+<script pagespeed_no_defer="">//<![CDATA[
+(function(){var d=window,e=document,h="getItem",m="getData",p="localStorage",q="indexOf",t="length",u="prototype",v="substring",w="",x=" ",y=" pagespeed_lsc_hash:",z="!",A="; expires=",B="=",C="_GPSLSC=",D="img",E="link",F="load",G="on",H="pagespeed_lsc_expiry",I="pagespeed_lsc_hash",J="pagespeed_lsc_url",K="pagespeed_lsc_url:",L="script",M="style",N="stylesheet",O="text/css",P=function(a,c,b){if(a.addEventListener)a.addEventListener(c,b,!1);else if(a.attachEvent)a.attachEvent(G+c,b);else{var f=a[G+c];a[G+c]=
+function(){b.call(this);f&&f.call(this)}}};d.pagespeed=d.pagespeed||{};var Q=d.pagespeed,R=function(){this.a=!0};R[u].b=function(a){a=parseInt(a[v](0,a[q](x)),10);return!isNaN(a)&&a<=Date.now()};R[u].hasExpired=R[u].b;R[u].getData=function(a){return a[v](a[q](x,a[q](x)+1)+1)};R[u].getData=R[u][m];R[u].c=function(a){var c=e.getElementsByTagName(L),c=c[c[t]-1];c.parentNode.replaceChild(a,c)};R[u].replaceLastScript=R[u].c;
+R[u].g=function(a){var c=d[p][h](K+a),b=e.createElement(c?M:E);c&&!this.b(c)?(b.type=O,b.appendChild(e.createTextNode(this[m](c)))):(b.rel=N,b.href=a,this.a=!0);this.c(b)};R[u].inlineCss=R[u].g;R[u].h=function(a,c){var b=d[p][h](K+a+y+c),f=e.createElement(D);b&&!this.b(b)?f.src=this[m](b):(f.src=a,this.a=!0);for(var b=2,l=arguments[t];b<l;++b){var g=arguments[b][q](B);f.setAttribute(arguments[b][v](0,g),arguments[b][v](g+1))}this.c(f)};R[u].inlineImg=R[u].h;
+R[u].d=function(a,c,b){a=e.getElementsByTagName(a);for(var f=0,l=a[t];f<l;++f){var g=a[f],r=g.getAttribute(I),k=g.getAttribute(J);if(r&&k){k=K+k;c&&(k+=y+r);var n=g.getAttribute(H),n=n?(new Date(n)).getTime():w,g=b(g);if(!g){var s=d[p][h](k);s&&(g=this[m](s))}g&&(d[p].setItem(k,n+x+r+x+g),this.a=!0)}}};R[u].f=function(){this.d(D,!0,function(a){return a.src});this.d(M,!1,function(a){return a.firstChild?a.firstChild.nodeValue:null})};
+R[u].e=function(){if(this.a){for(var a=[],c=[],b=0,f=Date.now(),l=0,g=d[p][t];l<g;++l){var r=d[p].key(l);if(!r[q](K)){var k=d[p][h](r),n=k[q](x),s=parseInt(k[v](0,n),10);if(!isNaN(s))if(s<=f){a.push(r);continue}else if(s<b||0==b)b=s;c.push(k[v](n+1,k[q](x,n+1)))}}f=w;b&&(f=A+(new Date(b)).toUTCString());e.cookie=C+c.join(z)+f;l=0;for(g=a[t];l<g;++l)d[p].removeItem(a[l]);this.a=!1}};Q.i=function(){if(d[p]){var a=new R;Q.localStorageCache=a;P(d,F,function(){a.f()});P(d,F,function(){a.e()})}};
+Q.localStorageCacheInit=Q.i;})();
+pagespeed.localStorageCacheInit();
+//]]></script><link href="http://www.shoppystar.com/1397853455/catalog/view/theme/pav_cosmetics/stylesheet/A.bootstrap.css.pagespeed.cf.3xfprPeDrA.css" rel="stylesheet">
+<link href="http://www.shoppystar.com/1402378730/catalog/view/theme/pav_cosmetics/stylesheet/red/A.stylesheet.css.pagespeed.cf.krOv8ssSDq.css" rel="stylesheet">
+<link href="http://www.shoppystar.com/1402565433/catalog/view/theme/pav_cosmetics/stylesheet/A.colorbox.css.pagespeed.cf.2lt8YCSAEQ.css" rel="stylesheet">
+<link href="http://www.shoppystar.com/1397853424/catalog/view/javascript/jquery/ui/themes/ui-lightness/A.jquery-ui-1.8.16.custom.css.pagespeed.cf.Zj9MJnW_NE.css" rel="stylesheet">
+<link href="http://www.shoppystar.com/1397853455/catalog/view/theme/pav_cosmetics/stylesheet/A.animation.css.pagespeed.cf.aQK3p8m9EU.css" rel="stylesheet">
+<style pagespeed_lsc_url="http://www.shoppystar.com/1397853508/catalog/view/theme/default/stylesheet/pavfacebook.css" pagespeed_lsc_hash="NU5zRA-3Zk" pagespeed_lsc_expiry="Wed, 24 Jun 2015 19:21:58 GMT"></style>
+<style pagespeed_lsc_url="http://www.shoppystar.com/1397853455/catalog/view/theme/pav_cosmetics/stylesheet/pavmegamenu.css" pagespeed_lsc_hash="rWVG4W46Ue" pagespeed_lsc_expiry="Wed, 24 Jun 2015 19:20:23 GMT">#mainmenu ul.nav>li.dropdown:hover>.dropdown-menu{display:block}.megamenu .menu-icon{background-position:center center;padding-left:23px;display:block}.megamenu .menu-title{display:inline-block}.megamenu .menu-desc{display:block;font-size:11px}.megamenu .menu-content{}.megamenu li.mega-group>a .caret{display:none}.nav.megamenu>li.homepage.open,.nav.megamenu>li.homepage:hover{background:none}.megamenu li.homepage a{background:url(1397853455/catalog/view/theme/pav_cosmetics/image/default/icon-home.png) no-repeat scroll left center;display:block;overflow:hidden;padding-left:0;text-indent:-9999em;width:20px}.megamenu ul{margin:0;padding:0;display:inline-block}.megamenu ul li{list-style:none}.nav.megamenu>li.open,.nav.megamenu>li:hover{background:url(1397853455/catalog/view/theme/pav_cosmetics/image/default/bg_menu_hover.png) repeat-x scroll right center}.nav.megamenu>li:last-child{}.dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus,.dropdown-submenu:hover>a,.dropdown-submenu:focus>a{}.dropdown-submenu>a:after{margin-right:-10px;margin-top:-22px}.megamenu .mega-col{}.fullwidth{}.megamenu .mega-group>a .menu-title{font-family:lora;font-size:16px;line-height:30px}.megamenu .mega-group>a .menu-title .caret{display:none}.dropdown-submenu>a:after,.dropdown-submenu>a:before{display:none}#mainmenu .navbar .navbar-inner ul.nav li.open .dropdown-submenu a b.arrow,#mainmenu .navbar .navbar-inner ul.nav li.open .dropdown-submenu a b.caret{display:none}.nav.megamenu ul li.mega-group{padding:0;background:none;border-bottom:none}.dropdown-submenu>.dropdown-menu{border-radius:0 6px 6px 6px;left:100%;margin-left:-1px;margin-top:-6px;top:0}li.dropdown-submenu{position:relative}</style>
+<style pagespeed_lsc_url="http://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic" pagespeed_lsc_hash="3cdj-LSi83" pagespeed_lsc_expiry="Thu, 26 Jun 2014 03:34:23 GMT">@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lora'), local('Lora-Regular'), url(http://themes.googleusercontent.com/static/fonts/lora/v7/4A-myfZX6oDr9CtSTkTGig.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lora Bold'), local('Lora-Bold'), url(http://themes.googleusercontent.com/static/fonts/lora/v7/rapsGf8n-DpRu9kcmAAciA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lora Italic'), local('Lora-Italic'), url(http://themes.googleusercontent.com/static/fonts/lora/v7/DeoOq1kX9ExfArSHppos_g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lora Bold Italic'), local('Lora-BoldItalic'), url(http://themes.googleusercontent.com/static/fonts/lora/v7/_IxjUs2lbQSu0MyFEAfa7aCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+</style>
+<style media="screen" pagespeed_lsc_url="http://www.shoppystar.com/1397853508/catalog/view/theme/default/stylesheet/pavfacebook.css" pagespeed_lsc_hash="NU5zRA-3Zk" pagespeed_lsc_expiry="Wed, 24 Jun 2015 19:21:58 GMT"></style>
+<style media="screen" pagespeed_lsc_url="http://www.shoppystar.com/1397853455/catalog/view/theme/pav_cosmetics/stylesheet/pavmegamenu.css" pagespeed_lsc_hash="rWVG4W46Ue" pagespeed_lsc_expiry="Wed, 24 Jun 2015 19:20:23 GMT">#mainmenu ul.nav>li.dropdown:hover>.dropdown-menu{display:block}.megamenu .menu-icon{background-position:center center;padding-left:23px;display:block}.megamenu .menu-title{display:inline-block}.megamenu .menu-desc{display:block;font-size:11px}.megamenu .menu-content{}.megamenu li.mega-group>a .caret{display:none}.nav.megamenu>li.homepage.open,.nav.megamenu>li.homepage:hover{background:none}.megamenu li.homepage a{background:url(1397853455/catalog/view/theme/pav_cosmetics/image/default/icon-home.png) no-repeat scroll left center;display:block;overflow:hidden;padding-left:0;text-indent:-9999em;width:20px}.megamenu ul{margin:0;padding:0;display:inline-block}.megamenu ul li{list-style:none}.nav.megamenu>li.open,.nav.megamenu>li:hover{background:url(1397853455/catalog/view/theme/pav_cosmetics/image/default/bg_menu_hover.png) repeat-x scroll right center}.nav.megamenu>li:last-child{}.dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus,.dropdown-submenu:hover>a,.dropdown-submenu:focus>a{}.dropdown-submenu>a:after{margin-right:-10px;margin-top:-22px}.megamenu .mega-col{}.fullwidth{}.megamenu .mega-group>a .menu-title{font-family:lora;font-size:16px;line-height:30px}.megamenu .mega-group>a .menu-title .caret{display:none}.dropdown-submenu>a:after,.dropdown-submenu>a:before{display:none}#mainmenu .navbar .navbar-inner ul.nav li.open .dropdown-submenu a b.arrow,#mainmenu .navbar .navbar-inner ul.nav li.open .dropdown-submenu a b.caret{display:none}.nav.megamenu ul li.mega-group{padding:0;background:none;border-bottom:none}.dropdown-submenu>.dropdown-menu{border-radius:0 6px 6px 6px;left:100%;margin-left:-1px;margin-top:-6px;top:0}li.dropdown-submenu{position:relative}</style>
+<script type="text/javascript" src="http://www.shoppystar.com/1397853424/catalog/view/javascript/jquery/jquery-1.7.1.min.js.pagespeed.jm.DH1WDDTtpU.js"></script>
+<script type="text/javascript" src="http://www.shoppystar.com/1397853424/catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js.pagespeed.jm.GZhG5uBeth.js"></script>
+<script type="text/javascript">//<![CDATA[
+jQuery.cookie=function(key,value,options){if(arguments.length>1&&(value===null||typeof value!=="object")){options=jQuery.extend({},options);if(value===null){options.expires=-1;}
+if(typeof options.expires==='number'){var days=options.expires,t=options.expires=new Date();t.setDate(t.getDate()+days);}
+return(document.cookie=[encodeURIComponent(key),'=',options.raw?String(value):encodeURIComponent(String(value)),options.expires?'; expires='+options.expires.toUTCString():'',options.path?'; path='+options.path:'',options.domain?'; domain='+options.domain:'',options.secure?'; secure':''].join(''));}
+options=value||{};var result,decode=options.raw?function(s){return s;}:decodeURIComponent;return(result=new RegExp('(?:^|; )'+encodeURIComponent(key)+'=([^;]*)').exec(document.cookie))?decode(result[1]):null;};
+//]]></script>
+<script type="text/javascript" src="http://www.shoppystar.com/1397853423/catalog/view/javascript/common.js.pagespeed.jm.HB44C5a9Jy.js"></script>
+<script type="text/javascript" src="http://www.shoppystar.com/1397853455/catalog/view/theme/pav_cosmetics/javascript/common.js.pagespeed.jm.6VQDTFzT3P.js"></script>
+<script type="text/javascript" src="http://www.shoppystar.com/1397853424/catalog/view/javascript/jquery/bootstrap/bootstrap.min.js.pagespeed.jm.hXmG0XFYxc.js"></script>
+<script type="text/javascript" src="http://www.shoppystar.com/1397853424/catalog/view/javascript/jquery/colorbox/jquery.colorbox.js.pagespeed.jm.5rRx_CjY_Z.js"></script>
+<script type="text/javascript" src="http://www.shoppystar.com/1397853424/catalog/view/javascript/jquery/colorpicker/js/colorpicker.js.pagespeed.jm.pbNMTT-zWp.js"></script>
+<script type="text/javascript">//<![CDATA[
+$.fn.tabs=function(){var selector=this;this.each(function(){var obj=$(this);$(obj.attr('href')).hide();obj.click(function(){$(selector).removeClass('selected');$(this).addClass('selected');$($(this).attr('href')).fadeIn();$(selector).not(this).each(function(i,element){$($(element).attr('href')).hide();});return false;});});$(this).show();$(this).first().click();};
+//]]></script>
+<!--[if lt IE 9]>
+<script src="catalog/view/javascript/html5.js"></script>
+<script src="catalog/view/javascript/respond.min.js"></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/pav_cosmetics/stylesheet/ie8.css" />
 <![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.shoppystar.com/catalog/view/theme/pav_cosmetics/stylesheet/A.font-awesome.min.css.pagespeed.cf.Bz0ap1Zk1O.css" media="screen">
+<style media="screen" pagespeed_lsc_url="http://www.shoppystar.com/catalog/view/theme/pav_cosmetics/stylesheet/font.css" pagespeed_lsc_hash="_oKP3jRRig" pagespeed_lsc_expiry="Wed, 24 Jun 2015 19:21:58 GMT">@font-face {
+    font-family: 'robotoslab';
+    src: url('catalog/view/theme/pav_cosmetics/font/robotoslab-regular.eot');
+    src: url('catalog/view/theme/pav_cosmetics/font/robotoslab-regular.eot?#iefix') format('embedded-opentype'),
+         url('catalog/view/theme/pav_cosmetics/font/robotoslab-regular.woff') format('woff'),
+         url('catalog/view/theme/pav_cosmetics/font/robotoslab-regular.ttf') format('truetype'),
+         url('catalog/view/theme/pav_cosmetics/font/robotoslab-regular.svg#robotoslab') format('svg');
+    font-weight: normal;
+    font-style: normal;
 
-<!--[if lt IE 7]>
+}@font-face {
+    font-family: 'droid_serifregular';
+    src: url('catalog/view/theme/pav_cosmetics/font/DroidSerif-webfont.eot');
+    src: url('catalog/view/theme/pav_cosmetics/font/DroidSerif-webfont.eot?#iefix') format('embedded-opentype'),
+    url('catalog/view/theme/pav_cosmetics/font/DroidSerif-webfont.woff') format('woff'),
+    url('catalog/view/theme/pav_cosmetics/font/DroidSerif-webfont.ttf') format('truetype'),
+    url('catalog/view/theme/pav_cosmetics/font/DroidSerif-webfont.svg#droid_serifregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 
-<link rel="stylesheet" type="text/css" href="catalog/view/theme/estore/stylesheet/ie6.css" />
-
-<script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
-
-<script type="text/javascript">
-
-DD_belatedPNG.fix('#logo img');
-
-</script>
-
-<![endif]-->
-
-<!-- vqmod-layout-tab-settings -->
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-39951793-1']);
-_gaq.push(['_trackPageview']);
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script>
-			<!-- autofill-->
-			<script language="javascript" src="catalog/view/javascript/autofill/jquery.autocomplete.js"></script> 
-<script language="javascript" type="text/javascript"> 
-$(document).ready(function() {
-	$("input[name=filter_name]").autocomplete(
-		"http://www.shoppystar.com/index.php?route=autofill/getdata/call",
-		{
-			delay:10,
-			minChars:2,
-			matchSubset:1,
-			matchContains:1,
-			cacheLength:10,
-			autoFill:true
-		}
-	);
-});
-</script>
-<style type="text/css"> 
-.ac_results {
-	padding: 0px;
-	border: 1px solid #DBDEE1;
-	background-color: Window;
-	overflow: hidden;
-	z-index:100;
-}
- 
-.ac_results ul {
-	width: 100%;
-	list-style-position: outside;
-	list-style: none;
-	padding: 0;
-	margin: 0;
-}
- 
-.ac_results iframe {
-	display:none;/*sorry for IE5*/
-	display/**/:block;/*sorry for IE5*/
-	position:absolute;
-	top:0;
-	left:0;
-	z-index:-1;
-	filter:mask();
-	width:3000px;
-	height:3000px;
-}
- 
-.ac_results li {
-	margin: 0px;
-	padding: 4px 6px;
-	cursor: pointer;
-	display: block;
-	width: 100%;
-	font: menu;
-	font-size: 12px;
-	overflow: hidden;
-}
- 
-.ac_loading {
-	background : Window url('catalog/view/javascript/autofill/images/indicator.gif') right center no-repeat;
-}
- 
-.ac_over {
-	background-color: Highlight;
-	color: HighlightText;
-}
- 
-</style>  			
-
-
-
-
-
-
-
-
-
-																		<style type="text/css">
-						#smartsearch {
-							display: none;
-							background: #FFFFFF !important;
-							border: 1px solid #EEEEEE !important;
-							border-top: none !important;
-							border-radius: 0 0 7px 7px !important;
-							box-shadow: 0 2px 2px #DDD !important;
-							margin: -3px 0 0 2px !important;
-							padding: 0 !important;
-							position: absolute !important;
-							width: 292px !important;
-							z-index: 999999 !important;
-						}
-						.smartsearch-product {
-							border-bottom: 1px solid #EEEEEE !important;
-							color: #000000 !important;
-							display: block !important;
-							font-size: 11px !important;
-							font-weight: normal !important;
-															min-height: 50px !important;
-														padding: 5px !important;
-							text-decoration: none !important;
-						}
-						.smartsearch-product img {
-							float: left !important;
-							margin: 0 10px 0 0 !important;
-						}
-						.smartsearch-product strong {
-							font-size: 13px !important;
-							margin: 5px 5px 5px 0 !important;
-						}
-						.smartsearch-focus {
-							background: #EEFFFF !important;
-							text-decoration: none !important;
-						}
-						.smartsearch-bottom {
-							font-weight: bold !important;
-							padding: 10px !important;
-							text-align: center !important;
-						}
-											</style>
-					<script type="text/javascript">
-						/* <![CDATA[ */
-						var wait;
-						
-						$(document).ready(function(){
-							$('#header input[name="filter_name"]').after('<div id="smartsearch"></div>').blur(function(){
-								clearTimeout(wait);
-								wait = setTimeout(hideSmartSearch, 500);
-							}).keydown(function(e){
-								if ($('.smartsearch-product').length && e.which == 38) {
-									e.preventDefault();
-									return false;
-								}
-							}).keyup(function(e){
-								if (e.which == 13 && $('.smartsearch-focus').length) {
-									location = $('.smartsearch-focus').attr('href');
-								}
-								if ($('#header input[name="filter_name"]').val().replace(/^\s+|\s+$/g, '') && (e.which == 8 || (47 < e.which && e.which < 112) || e.which > 185)) {
-									clearTimeout(wait);
-									wait = setTimeout(showSmartSearch, 500);
-								}
-								if ($('.smartsearch-product').length && (e.which == 38 || e.which == 40)) {
-									if (!$('.smartsearch-focus').length) {
-										if (e.which == 38) $('.smartsearch-bottom').prev().addClass('smartsearch-focus');
-										if (e.which == 40) $('.smartsearch-product:first-child').addClass('smartsearch-focus');
-									} else {
-										if (e.which == 38) $('.smartsearch-focus').removeClass('smartsearch-focus').prev('a').addClass('smartsearch-focus');
-										if (e.which == 40) $('.smartsearch-focus').removeClass('smartsearch-focus').next('a').addClass('smartsearch-focus');
-									}
-								}
-							});
-							
-							$('.smartsearch-product').live('hover', function(){
-								$(this).toggleClass('smartsearch-focus');
-							})
-						});
-						
-						function showSmartSearch() {
-							$('#smartsearch').html('<div class="smartsearch-bottom"><img src="catalog/view/theme/default/image/loading.gif" /></div>').show();
-							$.ajax({
-								type: 'POST',
-								url: 'index.php?route=module/smartsearch/smartsearch',
-								data: {filter_name: $('#header input[name="filter_name"]').val()},
-								dataType: 'json',
-								success: function(data) {
-									var html = '';
-									if (data.length) {
-										for (i = 0; i < data.length; i++) {
-											html += '<a class="smartsearch-product" href="' + data[i]['href'] + '&filter_name=' + encodeURIComponent($('#header input[name="filter_name"]').val()) + '">';
-																							html += '<img src="' + data[i]['image'] + '" />';
-																						html += '<strong>' + data[i]['name'];
-																																		var price = '<span style="color: #000000;' + (data[i]['special'] ? 'text-decoration: line-through' : '') + '">' + data[i]['price'] + '</span>';
-												var special = (data[i]['special'] ? '<span style="color: #FF0000">' + data[i]['special'] + '</span>' : '');
-												html += '<span style="float: right">' + price + ' ' + special + '</span>';
-																						html += '</strong><br />';
-																							html += data[i]['description'];
-																						html += '</a>';
-										}
-																					html += '<div class="smartsearch-bottom"><a href="http://www.shoppystar.com/index.php?route=product/search&filter_name=' + encodeURIComponent($('#header input[name="filter_name"]').val()) + '">View All Results</a></div>';
-																			} else {
-										html = '<div class="smartsearch-bottom">No Results</div>';
-									}
-									$('#smartsearch').html(html);
-								}
-							});
-						}
-						
-						function hideSmartSearch() {
-							$('#smartsearch').hide();
-						}
-						/* ]]> */
-					</script>
-				</head>
-
-<body>
-
-
-            
-			
-			
-			
-						
-			
-			
-			
-			
-						
-			
-			
-																		            
-          
-
-<div id="wrapper">
-
-            
-<div id="header-wrap" style="background-color:#757272;color:#ffffff;">
-
-	<div id="header-bar">
-<table width="100%" border="0" align="center">
-
-
-  <tbody><tr>
-
-    <td> <img src="catalog/view/theme/estore/images/header_phone_icon.png"></td>
-
-    <td> CALL US AT : 08050926127 (10am-8pm, Mon-Sat)</td>
-
-    <td><img src="catalog/view/theme/estore/images/header_cash_icon.png"></td>
-
-    <td>CASH ON DELIVERY AVAILABLE</td>
-
-    <td><img src="catalog/view/theme/estore/images/header_returns_icon.png"></td>
-
-    <td>30 DAYS RETURN</td>
-
-    <td><img src="catalog/view/theme/estore/images/header_truck_icon.png"></td>
-
-    <td>WORLDWIDE SHIPPING</td>
-
-  </tr>
-
-</tbody></table>
-</div></div>
-            
-          
-<div id="header_wrap">
-
-<div id="container">
-
-<div id="header">
-
-  
-  <div id="logo"><a href="http://www.shoppystar.com/"><img src="http://www.shoppystar.com/image_shopee/data/backgrounds/ShoppyStar-Logo-1.jpg" title="Shoppy Star" alt="Shoppy Star"></a></div>
-
-  
-  
-   <form action="http://www.shoppystar.com/index.php?route=module/currency" method="post" enctype="multipart/form-data">
-    <div id="currency">Currency<br>
-                        <a title="Euro" onclick="$('input[name=\'currency_code\']').attr('value', 'EUR'); $(this).parent().parent().submit();">€</a>
-                                    <a title="Indian Rupee"><b>Rs.</b></a>
-                                    <a title="US Dollar" onclick="$('input[name=\'currency_code\']').attr('value', 'USD'); $(this).parent().parent().submit();">$</a>
-                        <input type="hidden" name="currency_code" value="">
-      <input type="hidden" name="redirect" value="http://www.shoppystar.com/privacy-policy">
-    </div> <!-- #currency (end) -->
-  </form>
-  
-  <div id="search">
-
-    <div class="button-search"></div>
-
-    
-    <input type="text" name="filter_name" value="Search" onclick="this.value = '';" onkeydown="this.style.color = '#e4e4e4';">
-
-    
-  </div>
-
-  <div id="welcome">
-
-    
-    Welcome, Guest
-    
-  </div>
-
-  <div class="links"><a href="http://www.shoppystar.com/">Home</a><a href="http://www.shoppystar.com/index.php?route=account/wishlist" id="wishlist-total">Wish List (0)</a><a href="http://www.shoppystar.com/index.php?route=account/account">My Account</a><a href="http://www.shoppystar.com/index.php?route=checkout/cart">Shopping Cart</a><a href="http://www.shoppystar.com/index.php?route=checkout/checkout">Checkout</a></div>
-  
-  <div id="cart">
-
-  <div class="heading">
-
-    <h4>Shopping Cart</h4>
-
-    <a><span id="cart-total">0 item(s) - Rs.0</span></a></div>
-
-  <div class="content">
-
-    
-    <div class="empty">Your shopping cart is empty!</div>
-
-    
-  </div>
-
+}</style>
+<link rel="stylesheet" type="text/css" href="http://www.shoppystar.com/1402984510/catalog/view/javascript/jquery/onefancybox/A.jquery.fancybox-1.3.4.css.pagespeed.cf.A36u5-uN10.css" media="screen">
+<script type="text/javascript" src="http://www.shoppystar.com/1397853424/catalog/view/javascript/jquery/onefancybox/jquery.fancybox-1.3.4.pack.js.pagespeed.jm.K5jQHFKG0b.js"></script>
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-39951793-1']);_gaq.push(['_trackPageview']);(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-39951793-1','www.shoppystar.com');ga('send','pageview');</script>
+<script language="javascript" src="http://www.shoppystar.com/catalog/view/javascript/autofill/jquery.autocomplete.js,qver=1397853423.pagespeed.jm.wsfVFH6yoj.js"></script>
+<script language="javascript" type="text/javascript">$(document).ready(function(){$("input[name=filter_name]").autocomplete("http://www.shoppystar.com/index.php?route=autofill/getdata/call",{delay:10,minChars:2,matchSubset:1,matchContains:1,cacheLength:10,autoFill:true});});</script>
+<style type="text/css">.ac_results{padding:0px;border:1px solid #dbdee1;background-color:Window;overflow:hidden;z-index:100}.ac_results ul{width:100%;list-style-position:outside;list-style:none;padding:0;margin:0}.ac_results iframe{display:none;display:block;position:absolute;top:0;left:0;z-index:-1;filter:mask();width:3000px;height:3000px}.ac_results li{margin:0px;padding:4px 6px;cursor:pointer;display:block;width:100%;font:menu;font-size:12px;overflow:hidden}.ac_loading{background:Window url(http://www.shoppystar.com/catalog/view/javascript/autofill/images/indicator.gif) right center no-repeat}.ac_over{background-color:Highlight;color:HighlightText}</style>
+<script>$(document).ready(function(){if(parent!=top&&self==top){$(".power-by-8ec0d").attr("style","display : block !important");$(".power-by-8ec0d").parents().attr("style","display : block !important");}});</script>
+<style>#header{display:block!important}</style>
+<script>globalAddToCart=0;</script>
+<style type="text/css">#smartsearch{display:none;background:#fff!important;border:1px solid #eee!important;border-top:none!important;border-radius:0 0 7px 7px!important;box-shadow:0 2px 2px #ddd!important;margin:-3px 0 0 2px!important;padding:0!important;position:absolute!important;width:292px!important;z-index:999999!important}.smartsearch-product{border-bottom:1px solid #eee!important;color:#000!important;display:block!important;font-size:11px!important;font-weight:normal!important;min-height:50px!important;padding:5px!important;text-decoration:none!important}.smartsearch-product img{float:left!important;margin:0 10px 0 0!important}.smartsearch-product strong{font-size:13px!important;margin:5px 5px 5px 0!important}.smartsearch-focus{background:#eff!important;text-decoration:none!important}.smartsearch-bottom{font-weight:bold!important;padding:10px!important;text-align:center!important}</style>
+<script type="text/javascript">//<![CDATA[
+var wait;$(document).ready(function(){$('#pav-mainnav input[name="filter_name"]').after('<div id="smartsearch"></div>').blur(function(){clearTimeout(wait);wait=setTimeout(hideSmartSearch,500);}).keydown(function(e){if($('.smartsearch-product').length&&e.which==38){e.preventDefault();return false;}}).keyup(function(e){if(e.which==13&&$('.smartsearch-focus').length){location=$('.smartsearch-focus').attr('href');}
+if($('#pav-mainnav input[name="filter_name"]').val().replace(/^\s+|\s+$/g,'')&&(e.which==8||(47<e.which&&e.which<112)||e.which>185)){clearTimeout(wait);wait=setTimeout(showSmartSearch,500);}
+if($('.smartsearch-product').length&&(e.which==38||e.which==40)){if(!$('.smartsearch-focus').length){if(e.which==38)$('.smartsearch-bottom').prev().addClass('smartsearch-focus');if(e.which==40)$('.smartsearch-product:first-child').addClass('smartsearch-focus');}else{if(e.which==38)$('.smartsearch-focus').removeClass('smartsearch-focus').prev('a').addClass('smartsearch-focus');if(e.which==40)$('.smartsearch-focus').removeClass('smartsearch-focus').next('a').addClass('smartsearch-focus');}}});$('.smartsearch-product').live('hover',function(){$(this).toggleClass('smartsearch-focus');})});function showSmartSearch(){$('#smartsearch').html('<div class="smartsearch-bottom"><img src="catalog/view/theme/default/image/loading.gif" /></div>').show();$.ajax({type:'POST',url:'index.php?route=module/smartsearch/smartsearch',data:{filter_name:$('#pav-mainnav input[name="filter_name"]').val()},dataType:'json',success:function(data){var html='';if(data.length){for(i=0;i<data.length;i++){html+='<a class="smartsearch-product" href="'+data[i]['href']+'&filter_name='+encodeURIComponent($('#pav-mainnav input[name="filter_name"]').val())+'">';html+='<img src="'+data[i]['image']+'" />';html+='<strong>'+data[i]['name'];var price='<span style="color: #000000;'+(data[i]['special']?'text-decoration: line-through':'')+'">'+data[i]['price']+'</span>';var special=(data[i]['special']?'<span style="color: #FF0000">'+data[i]['special']+'</span>':'');html+='<span style="float: right">'+price+' '+special+'</span>';html+='</strong><br />';html+=data[i]['description'];html+='</a>';}
+html+='<div class="smartsearch-bottom"><a href="http://www.shoppystar.com/index.php?route=product/search&filter_name='+encodeURIComponent($('#pav-mainnav input[name="filter_name"]').val())+'">View All Results</a></div>';}else{html='<div class="smartsearch-bottom">No Results</div>';}
+$('#smartsearch').html(html);}});}
+function hideSmartSearch(){$('#smartsearch').hide();}
+//]]></script>
+</head>
+<body id="offcanvas-container" class="keep-header offcanvas-container layout-fullwidth fs12 page-information lang-en">
+<section id="page" class="offcanvas-pusher" role="main">
+<section id="header">
+<section id="topbar">
+<div class="container">
+<div class="topbar">
+<div class="row">
+<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 hidden-xs">
+<div class="currency pull-left">
+<form action="http://www.shoppystar.com/index.php?route=module/currency" method="post" enctype="multipart/form-data">
+<div id="currency"> <a title="Indian Rupee"><b>Rs.</b></a>
+<a title="US Dollar" onclick="$('input[name=\'currency_code\']').attr('value', 'USD'); $(this).parent().parent().submit();">$</a>
+<input type="hidden" name="currency_code" value="">
+<input type="hidden" name="redirect" value="http://www.shoppystar.com/privacy-policy">
 </div>
-
-
+</form>
 </div>
-
-
-
-
-<div id="menu">
-
-  <ul>
-
-    
-    <li> <a href="http://www.shoppystar.com/brand">Brand</a>
-
-      
-      <div>
-
-        
-        <ul>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/brand/aarya">Aarya</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/brand/hiba">HIBA</a></li>
-
-          
-          
-        </ul>
-
-        
-      </div>
-
-      
-    </li>
-
-    
-    <li> <a href="http://www.shoppystar.com/kurti">Kurti</a>
-
-      
-      <div>
-
-        
-        <ul>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/kurti/casual-kurti">Casual Kurti</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/kurti/designer-kurti">Designer Kurti</a></li>
-
-          
-          
-        </ul>
-
-        
-      </div>
-
-      
-    </li>
-
-    
-    <li> <a href="http://www.shoppystar.com/salwar-kameez">Salwar Kameez</a>
-
-      
-      <div>
-
-        
-        <ul>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/salwar-kameez/casual-wear-salwar-suit">Casual Wear Salwar Suit</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/salwar-kameez/crepe-suit">Crepe Suits</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/salwar-kameez/festive-salwar-suit">Festive Salwar Suit</a></li>
-
-          
-          
-        </ul>
-
-        
-      </div>
-
-      
-    </li>
-
-    
-    <li> <a href="http://www.shoppystar.com/designer-salwar-suit-1">Designer Salwar Suit</a>
-
-      
-      <div>
-
-        
-        <ul>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-salwar-suit-1/aayesha-takia-suit">Aayesha Takia Suit</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-salwar-suit-1/anarkali-suits">Anarkali Suits</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-salwar-suit-1/bliss-collection">Bliss Collection</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-salwar-suit-1/bollywood-collection">Bollywood Collection</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-salwar-suit-1/festive-designer-suits">Festive Designer Suits</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-salwar-suit-1/heritage-collection">Heritage Collection</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-salwar-suit-1/heroine-collection">Heroine Collection</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-salwar-suit-1/karishma-kapoor-suit">Karishma Kapoor Suit</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-salwar-suit-1/pankhudi-suits">Pankhudi Suits</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-salwar-suit-1/readymade-suits">Readymade Suits</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-salwar-suit-1/sizzling-cool-suits">Sizzling Cool Suits</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-salwar-suit-1/sparkle-collection">Sparkle Collection</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-salwar-suit-1/tv-actress-suit">Tv Actress Suit Collection</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-salwar-suit-1/zarine-khan-suit">Zarine Khan Suit</a></li>
-
-          
-          
-        </ul>
-
-        
-      </div>
-
-      
-    </li>
-
-    
-    <li> <a href="http://www.shoppystar.com/saree">Saree</a>
-
-      
-      <div>
-
-        
-        <ul>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/saree/bollywood-collection-1">Bollywood Collection</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/saree/casual-sarees">Casual Sarees</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/saree/classic-sarees">Classic Sarees</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/saree/festive-sarees">Festive Sarees</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/saree/partyware-saree">Partyware Saree</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/saree/silk-fiesta">Silk Fiesta</a></li>
-
-          
-          
-        </ul>
-
-        
-      </div>
-
-      
-    </li>
-
-    
-    <li> <a href="http://www.shoppystar.com/designer-sarees">Designer Sarees</a>
-
-      
-      <div>
-
-        
-        <ul>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-sarees/embroidery-sarees">Embroidery Sarees</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-sarees/festive-designer-collection">Festive Designer Collection</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-sarees/heavy-work-sarees">Heavy Work Sarees</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-sarees/karishma-kapoor-collection">Karishma Kapoor Collection</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-sarees/nakashi-colletion">Nakashi Colletion</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-sarees/partyware-sarees">Partyware Sarees</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-sarees/royal-heritage-sarees">Royal Heritage Sarees</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-sarees/superb-designer-collection">Superb Designer Collection</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-sarees/wedding-collection">Wedding Collection</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/designer-sarees/zarine-khan-sarees">Zarine Khan Sarees</a></li>
-
-          
-          
-        </ul>
-
-        
-      </div>
-
-      
-    </li>
-
-    
-    <li> <a href="http://www.shoppystar.com/jewellery">Jewellery</a>
-
-      
-      <div>
-
-        
-        <ul>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/jewellery/earrings">Earrings</a></li>
-
-          
-          
-        </ul>
-
-        
-      </div>
-
-      
-    </li>
-
-    
-    <li> <a href="http://www.shoppystar.com/new-arrival">New Arrival</a>
-
-      
-      <div>
-
-        
-        <ul>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/new-arrival/salwar-suit">Salwar Suits</a></li>
-
-          
-          
-          
-          <li><a href="http://www.shoppystar.com/new-arrival/sarees">Sarees</a></li>
-
-          
-          
-        </ul>
-
-        
-      </div>
-
-      
-    </li>
-
-    
-  </ul>
-
+<div class="language pull-left">
 </div>
-
-
-
-
+</div>
+<div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 hidden-xs">
+<div class="welcome pull-right">
+Welcome visitor you can <a href="http://www.shoppystar.com/login">Login</a> or <a href="http://www.shoppystar.com/register">Register</a>. </div>
+<ul class="links pull-right hidden-xs">
+<li><a class="wishlist" href="http://www.shoppystar.com/wishlist" id="wishlist-total"><span class="icon-heart"></span>Wish List (0)</a></li>
+<li><a class="account" href="http://www.shoppystar.com/my-account"><span class="icon-user"></span>My Account</a></li>
+<li><a class="shoppingcart" href="http://www.shoppystar.com/index.php?route=checkout/cart"><span class="icon-shopping-cart"></span>Shopping Cart</a></li>
+<li><a class="last checkout" href="http://www.shoppystar.com/index.php?route=checkout/checkout"><span class="icon-file"></span>Checkout</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="pav-mainnav" class="">
+<div class="container">
+<div class="mainnav-wrap">
+<div class="row">
+<div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 inner">
+<div id="logo"><a href="http://www.shoppystar.com/"><img src="http://d3yixtv62v40e.cloudfront.net/all-stores/image_shoppystar/data/logo/logo-new-shoppystar-250-250x85.png" title="ShoppyStar" alt="ShoppyStar"></a></div>
+</div>
+<div class="col-lg-6">
+<div id="search" class="pull-right">
+<input type="text" name="filter_name" value="">
+<span class="button-search"></span>
+</div>
+</div>
+<div class="header-right pull-right wrap-cart hidden-xs col-lg-2 col-md-3 col-sm-3">
+<div class="cart-top">
+<div id="cart" class="">
+<span class="icon-shopping-cart pull-left"></span>
+<div class="media-body heading">
+<h4>Shopping Cart</h4>
+<a><span id="cart-total">0 item(s) - Rs.0</span></a>
+<div class="content">
+<div class="empty">Your shopping cart is empty!</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mini-access visible-xs pull-left">
+<ul>
+<li><a href="http://www.shoppystar.com/wishlist" class="mini_wishlist"><i class="icon-heart"></i></a></li>
+<li><a href="http://www.shoppystar.com/my-account" title="My Account" class="mini_account"><span class="icon-user"></span></a></li>
+<li><a href="http://www.shoppystar.com/index.php?route=checkout/cart" title="Shopping Cart" class="mini_cart"><span class="icon-shopping-cart"></span></a></li>
+<li class="exchange">
+<a href="javascript:void(0)" class=" dropdown-toggle" data-toggle="dropdown">
+<i class="icon icon-exchange"></i>
+</a>
+<div class="dropdown-menu" role="exchange">
+<form action="http://www.shoppystar.com/index.php?route=module/currency" method="post" enctype="multipart/form-data">
+<div id="currency"> <a title="Indian Rupee"><b>Rs.</b></a>
+<a title="US Dollar" onclick="$('input[name=\'currency_code\']').attr('value', 'USD'); $(this).parent().parent().submit();">$</a>
+<input type="hidden" name="currency_code" value="">
+<input type="hidden" name="redirect" value="http://www.shoppystar.com/privacy-policy">
+</div>
+</form>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-12 col-md-8 col-sm-6 col-xs-12">
+<div class="navbar navbar-inverse">
+<nav id="mainmenutop" class="pav-megamenu" role="navigation">
+<div class="pav-megamenu">
+<div class="navbar">
+<div id="mainmenutop" class="megamenu" role="navigation">
+<div class="navbar-header">
+<a href="javascript:;" data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle" type="button">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</a>
+<div class="collapse navbar-collapse navbar-ex1-collapse">
+<ul class="nav navbar-nav megamenu"><li class="parent dropdown ">
+<a class="dropdown-toggle" href="http://www.shoppystar.com/celebrity-wardrobe"><span class="menu-title">Celebrity Wardrobe</span><b class="caret"></b></a><div class="dropdown-menu menu-content mega-cols cols4"><div class="dropdown-menu-inner"><div class="row-fluid"><div class="mega-col span2 col-1"><ul><li class="parent dropdown-submenu mega-group"><a class="dropdown-toggle" href="http://www.shoppystar.com/celebrity-wardrobe/tv"><span class="menu-title">TV</span><b class="caret"></b></a><div class="dropdown-mega level1"><div class="dropdown-menu-inner"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/tv/sarees-tv"><span class="menu-title">Sarees</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/tv/suit-tv"><span class="menu-title">Suit</span></a></li></ul></div></div></li></ul></div><div class="mega-col span3 col-2"><ul><li class="parent dropdown-submenu mega-group"><a class="dropdown-toggle" href="http://www.shoppystar.com/celebrity-wardrobe/bollywood"><span class="menu-title">Bollywood</span><b class="caret"></b></a><div class="dropdown-mega level1"><div class="dropdown-menu-inner"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/bollywood/sarees-bollywood"><span class="menu-title">Sarees</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/bollywood/suit-bollywood"><span class="menu-title">Suit</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/bollywood/lehenga-choli-bollywood"><span class="menu-title">Lehengas</span></a></li></ul></div></div></li></ul></div><div class="mega-col span3 col-3"><ul><li class="parent dropdown-submenu mega-group"><a class="dropdown-toggle" href="http://www.shoppystar.com/celebrity-wardrobe/actress-wardrobe-collection"><span class="menu-title">Actress Wardrobe</span><b class="caret"></b></a><div class="dropdown-mega level1"><div class="dropdown-menu-inner"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/bipasha-basu-suits"><span class="menu-title">Bipasha Basu Suits</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/esha-deol-suits"><span class="menu-title">Esha Deol Suits</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/raveena-tandon-suits"><span class="menu-title">Raveena Tandon Suits</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/sayali-bhagat-suits"><span class="menu-title">Sayali Bhagat Suits</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/sonal-chauhan-suits"><span class="menu-title">Sonal Chauhan Suits</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/sushmita-sen-suits"><span class="menu-title">Sushmita Sen Suits</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/sweta-tiwari-suits"><span class="menu-title">Sweta Tiwari Suits</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/urmila-matondakar-suits"><span class="menu-title">Urmila Matondakar Suits</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/karishma-kapoor-suit"><span class="menu-title">Karishma Kapoor Suit</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/yami-gautam-suits"><span class="menu-title">Yami Gautam Suits</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/soha-ali-khan-suits"><span class="menu-title">Soha Ali Khan Suits</span></a></li></ul></div></div></li></ul></div><div class="mega-col span4 col-4"><ul><li class="parent dropdown-submenu mega-group"><a class="dropdown-toggle" href="http://www.shoppystar.com/celebrity-wardrobe/actress-wardrobe"><span class="menu-title">ACTRESS WARDROBE</span><b class="caret"></b></a><div class="dropdown-mega level1"><div class="dropdown-menu-inner"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe/diya-mirza-suit-collection"><span class="menu-title">Diya Mirza Suit Collection</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe/preity-zinta-suit-collection"><span class="menu-title">Preity Zinta Suit Collection</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe/kangana-ranaut-saree-collection"><span class="menu-title">Kangana Ranaut Saree Collection</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe/hina-khan-salwar-kameez-collection"><span class="menu-title">Hina Khan Suit Collection</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/hansika-motawani-salwar-kameez-collection"><span class="menu-title">Hansika Motawani Suits</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/jacqueline-fernandez-suit-collection"><span class="menu-title">Jacqueline Fernandez Suit </span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe/sonali-bendre-suit"><span class="menu-title">Sonali Bendre Suit Collection</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/monika-bedi-suit-collection"><span class="menu-title">Monika Bedi Suit Collection</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe/shraddha-kapoor-suit-collection"><span class="menu-title">Shraddha Kapoor Suit Collection</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/huma-qureshi-suit-collection"><span class="menu-title">Huma Qureshi Suit Collection</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/aayesha takia suit-collection"><span class="menu-title">Aayesha Takia Suit Collection</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/sunny-leone-suit-collection"><span class="menu-title">Sunny Leone Suit Collection</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe/rakul-preet-suit-collection-1"><span class="menu-title">Rakul Preet Suit Collection</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/actress-wardrobe-collection/nargis-fakhri-suit-collection"><span class="menu-title">Nargis Fakhri Suit Collection</span></a></li></ul></div></div></li></ul></div></div></div></div></li><li class="parent dropdown ">
+<a class="dropdown-toggle" href="http://www.shoppystar.com/kurti"><span class="menu-title">KURTI</span><b class="caret"></b></a><div class="dropdown-menu level1"><div class="dropdown-menu-inner"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/kurti/casual-kurti"><span class="menu-icon" style="background:url(http://www.shoppystar.com/nfs/image_shoppystar/data/KRAA620.jpg) no-repeat"><span class="menu-title">Casual Kurti</span></span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/kurti/designer-kurti"><span class="menu-title">Designer Kurti</span></a></li></ul></div></div></li><li class="parent dropdown ">
+<a class="dropdown-toggle" href="http://www.shoppystar.com/suit"><span class="menu-title">SUIT</span><b class="caret"></b></a><div class="dropdown-menu menu-content mega-cols cols3"><div class="dropdown-menu-inner"><div class="row-fluid"><div class="mega-col span6 col-1"><ul><li class="parent dropdown-submenu mega-group"><a class="dropdown-toggle" href="http://www.shoppystar.com/suit/readymade-suits"><span class="menu-title">READYMADE SUITS</span><b class="caret"></b></a><div class="dropdown-mega level1"><div class="dropdown-menu-inner"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/readymade-suits/bollywood-replica-suits"><span class="menu-title">Bollywowd Replica Suits</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/readymade-suits/designer-readymade-suits"><span class="menu-title">Designer Readymade Suits</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/readymade-suits/made-to-order"><span class="menu-title">Made To Order</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/readymade-suits/anarkali-readymade-suits"><span class="menu-title">Anarkali Readymade Suits</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/readymade-suits/pajami-readymade-suits"><span class="menu-title">Pajami Readymade Suits</span></a></li></ul></div></div></li></ul></div><div class="mega-col span6 col-2"><ul><li class="parent dropdown-submenu mega-group"><a class="dropdown-toggle" href="http://www.shoppystar.com/suit/dress-material"><span class="menu-title">DRESS MATERIAL</span><b class="caret"></b></a><div class="dropdown-mega level1"><div class="dropdown-menu-inner"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/dress-material/anarkali-suit"><span class="menu-title">Anarkali Salwar Suit</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/dress-material/casual-salwar-suit"><span class="menu-title">Casual Salwar Suit</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/dress-material/designer-salwar-suit"><span class="menu-title">Designer Salwar Suit</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/dress-material/festive-salwar-suit"><span class="menu-title">Festive Salwar Suit</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/dress-material/pajami-salwar-suit"><span class="menu-title">Pajami Salwar Suit</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/dress-material/partywear-salwar-suit"><span class="menu-title">Partywear Salwar Suit</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/dress-material/patiala-salwar-suit"><span class="menu-title">Patiala Salwar Suit</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/dress-material/wedding-salwar-suit"><span class="menu-title">Wedding Salwar Suit</span></a></li></ul></div></div></li></ul></div></div></div></div></li><li class="parent dropdown ">
+<a class="dropdown-toggle" href="http://www.shoppystar.com/sarees"><span class="menu-title">Sarees</span><b class="caret"></b></a><div class="dropdown-menu menu-content mega-cols cols3"><div class="dropdown-menu-inner"><div class="row-fluid"><div class="mega-col span6 col-1"><ul><li class="parent dropdown-submenu mega-group"><a class="dropdown-toggle" href="http://www.shoppystar.com/sarees/silk-sarees"><span class="menu-title">Silk Sarees</span><b class="caret"></b></a><div class="dropdown-mega level1"><div class="dropdown-menu-inner"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/silk-sarees/bhagalpuri-silk-sarees"><span class="menu-title">Bhagalpuri Silk Sarees</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/silk-sarees/art-silk-sarees"><span class="menu-title">Art Silk Sarees</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/silk-sarees/cotton-silk-sarees"><span class="menu-title">Cotton Silk Sarees</span></a></li></ul></div></div></li></ul></div><div class="mega-col span6 col-2"><ul><li class="parent dropdown-submenu mega-group"><a class="dropdown-toggle" href="http://www.shoppystar.com/sarees/all-sarees"><span class="menu-title">All Sarees</span><b class="caret"></b></a><div class="dropdown-mega level1"><div class="dropdown-menu-inner"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/all-sarees/casual-sarees"><span class="menu-title">Casual Sarees</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/all-sarees"><span class="menu-title">Festive Sarees</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/all-sarees/partywear-sarees"><span class="menu-title">Partywear Sarees</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/all-sarees/printed-sarees"><span class="menu-title">Printed Sarees</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/all-sarees/heavy-work-sarees"><span class="menu-title">Heavy Work Sarees</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/all-sarees/lehenga-sarees"><span class="menu-title">Lehenga Sarees</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/all-sarees/bridal-sarees"><span class="menu-title">Bridal Sarees</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/all-sarees/designer-sarees"><span class="menu-title">Designer Sarees</span></a></li></ul></div></div></li></ul></div></div></div></div></li><li class="parent dropdown ">
+<a class="dropdown-toggle" href="http://www.shoppystar.com/lehengas"><span class="menu-title">Lehengas</span><b class="caret"></b></a><div class="dropdown-menu menu-content mega-cols cols2"><div class="dropdown-menu-inner"><div class="row-fluid"><div class="mega-col span6 col-1"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/lehengas/bridal-lehenga-choli"><span class="menu-title">Bridal Lehenga Choli</span></a></li></ul></div><div class="mega-col span6 col-2"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/lehengas/partywear-lehenga-choli"><span class="menu-title">Partywear Lehenga Choli</span></a></li></ul></div></div></div></div></li><li class="parent dropdown ">
+<a class="dropdown-toggle" href="http://www.shoppystar.com/wedding-collection"><span class="menu-title">Wedding Collection</span><b class="caret"></b></a><div class="dropdown-menu menu-content mega-cols cols2"><div class="dropdown-menu-inner"><div class="row-fluid"><div class="mega-col span6 col-1"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/wedding-collection/wedding-salwar-kameez"><span class="menu-title">Salwar Kameez</span></a></li></ul></div><div class="mega-col span6 col-2"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/wedding-collection/wedding-sarees"><span class="menu-title">Sarees</span></a></li></ul></div></div></div></div></li><li class="parent dropdown ">
+<a class="dropdown-toggle" href="http://www.shoppystar.com/accessories"><span class="menu-title">Accessories</span><b class="caret"></b></a><div class="dropdown-menu level1"><div class="dropdown-menu-inner"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/accessories/clutches"><span class="menu-title">Clutches</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/accessories/handbags"><span class="menu-title">Handbags</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/accessories/jewellery"><span class="menu-title">Jewellery</span></a></li></ul></div></div></li><li class="parent dropdown ">
+<a class="dropdown-toggle" href="http://www.shoppystar.com/brand"><span class="menu-title">Brand</span><b class="caret"></b></a><div class="dropdown-menu menu-content mega-cols cols3"><div class="dropdown-menu-inner"><div class="row-fluid"><div class="mega-col span3 col-1"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/brand/antiformal"><span class="menu-title">Antiformal</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/brand/fabdeal"><span class="menu-title">Fabdeal</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/brand/dionne"><span class="menu-title">Dionne</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/brand/floral"><span class="menu-title">Floral</span></a></li></ul></div><div class="mega-col span4 col-2"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/brand/purple-oyster"><span class="menu-title">Purple Oyster</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/brand/rivaa"><span class="menu-title">Rivaa</span></a></li><li class=" "><a href="http://www.shoppystar.com/brand/fostelo"><span class="menu-title">Fostelo</span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/brand/sv-jewels-pearls"><span class="menu-title">SV Jewels &amp; Pearls</span></a></li></ul></div><div class="mega-col span5 col-3"><ul><li class=" mega-group"><a href="http://www.shoppystar.com/brand/aarya"><span class="menu-icon" style="background:url(http://www.shoppystar.com/nfs/image_shoppystar/data/AF-LB-CCO.jpg) no-repeat"><span class="menu-title">Aarya</span></span></a></li><li class=" mega-group"><a href="http://www.shoppystar.com/brand/me"><span class="menu-title"> Me</span></a></li><li class=" "><a href="http://www.shoppystar.com/brand/Jinaam"><span class="menu-title">Jinaam</span></a></li></ul></div></div></div></div></li></ul>	</div></div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="sys-notification">
+<div class="container">
 <div id="notification"></div>
-
-<div id="main"> 
-<div id="content"><!-- 
- * @package Zopim Live Chat
- * @version 0.2.0
- -->
- 
-<!-- Start of Zopim Live Chat Script -->
-<script type="text/javascript"> 
-window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=
-z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o
-){z.set._.push(o)};$.setAttribute('charset','utf-8');$.async=!0;z.set.
-_=[];$.src=('https:'==d.location.protocol?'https://ssl':'http://cdn')+
-'.zopim.com/?18lHOSZkBYwtP7y8LCfUv7AxU8dgTiJb';$.type='text/java'+s;z.
-t=+new Date;z._=[];e.parentNode.insertBefore($,e)})(document,'script')
-</script>
-<!-- End of Zopim Live Chat Script -->
-
-<script type="text/javascript"> 
-$zopim( function() {
-	$zopim.livechat.setLanguage('--');
-	$zopim.livechat.setName('Visitor from ');
-    	$zopim.livechat.setEmail('Set Your Email Here');
-	$zopim.livechat.button.setPosition('br');
-	$zopim.livechat.window.setTheme('alphacube');
-	$zopim.livechat.window.setColor('');
-	$zopim.livechat.bubble.setTitle('Questions?');
-	$zopim.livechat.bubble.setText('Click here to chat with us!');
-			$zopim.livechat.setGreetings({
-		  'online' : ['Click here to chat', 'Leave a question or comment and our agents will try to attend to you shortly =)'],
-		  'offline': ['Leave a message', 'We are offline, but if you leave your message and contact details, we will try to get back to you =)'],
-		  'away'   : ['Click here to chat', 'If you leave a question or comment, our agents will be notified and will try to attend to you shortly =)']  
-	  });
-		$zopim.livechat.button.setHideWhenOffline(true);
-	})
-</script>
-  <div class="breadcrumb">
-        <a href="http://www.shoppystar.com/index.php?route=common/home">Home</a>
-         » <a href="http://www.shoppystar.com/privacy-policy">Privacy Policy</a>
-      </div>
-  <h1>Privacy Policy</h1>
-  <p>
-	<strong>Our privacy Policy</strong></p>
-<p>
-	This privacy policy sets out how ShoppyStar.com uses and protects any information that you give ShoppyStar.com &nbsp;when you use this website.</p>
-<p>
-	ShoppyStar.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
-<p>
-	ShoppyStar.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 21<sup>st</sup> February 2013.</p>
-<p>
-	<strong>What we collect</strong></p>
-<p>
-	We may collect the following information:</p>
-<ul>
-	<li>
-		name and job title</li>
-	<li>
-		contact information including email address</li>
-	<li>
-		demographic information such as postcode, preferences and interests</li>
-	<li>
-		other information relevant to customer surveys and/or offers</li>
-</ul>
-<p>
-	<strong>What we do with the information we gather</strong></p>
-<p>
-	We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
-<ul>
-	<li>
-		Internal record keeping.</li>
-	<li>
-		We may use the information to improve our products and services.</li>
-	<li>
-		We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
-	<li>
-		From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.</li>
-</ul>
-<p>
-	<strong>Security</strong></p>
-<p>
-	We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
-<p>
-	<strong>How we use cookies</strong></p>
-<p>
-	A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
-<p>
-	We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.</p>
-<p>
-	Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.</p>
-<p>
-	You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
-<p>
-	<strong>Links to other websites</strong></p>
-<p>
-	Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
-<p>
-	<strong>Controlling your personal information</strong></p>
-<p>
-	You may choose to restrict the collection or use of your personal information in the following ways:</p>
-<ul>
-	<li>
-		whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes</li>
-	<li>
-		if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at <strong>care@shoppystar.com</strong>.</li>
-</ul>
-<p>
-	We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</p>
-<p>
-	You may request details of personal information which we hold about you under the Data Protection Act 1998. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above email address. We will promptly correct any information found to be incorrect.</p>
-<p>
-	<strong>Contacting Us</strong></p>
-<p>
-	If there are any questions regarding this privacy policy you may contact us using the information below:</p>
-<p>
-	<strong>Company Name</strong> :&nbsp; Zaayega Online Marketing India Private Limited</p>
-<p>
-	&nbsp;</p>
-<p>
-	<strong>Telephone No</strong> :&nbsp; +91-80-50926127</p>
-<p>
-	<strong>E-Mail ID&nbsp;&nbsp; : &nbsp;</strong>care@shoppystar.com</p>
-  <div class="buttons">
-    <div class="right"><a href="http://www.shoppystar.com/index.php?route=common/home" class="button">Continue</a></div>
-  </div>
-  </div></div><div id="main_shadown"></div>
-</div> 
-
-<div id="footer">
-
-
-  <div id="footer-main">
-  	<div id="footer-inner">
-    	
-    	
-    	<!-- information column -->
-    	  
-    		<div class="column_4">   
- 			<div class="header_4">About Us</div>
-		   		<p>
-	Shoppystar.com is an Indian ethnic Online megastore of Women Apparel. &nbsp;Shoppystar.com offers wide range of ethnic designer Salwar Kameez and latest collection of Indian&nbsp; Designer Sarees for all occasions.<br>
-	<br>
-	Our Mission &amp; Vision is to become a best customer friendly Online Shopping Destination in India. Customer satisfaction is the prime motto of our organization.</p>
-		    </div> <!-- class column (end) -->
-			
- 		 		
- 		
- 		<!-- contact us column -->
- 		   
- 			<div class="column_4">   
- 			<div class="header_4">Contact Us</div>
-		   		      				<li><img src="catalog/view/theme/estore/image/homephone-icon.png" alt="">&nbsp;&nbsp;080 50926127</li>
-      			   
-     		          
-      			      			   <li><img src="catalog/view/theme/estore/image/email-icon.png" alt="">&nbsp;&nbsp;care@shoppystar.com</li>
-      			      
-     	 		      
-     	     	      			   <li><img src="catalog/view/theme/estore/image/address-icon.png" alt="">&nbsp;&nbsp;Zaayega Online Marketing India Pvt Ltd, No 29, Shiva Nilaya, New Rayasandra Layout, Ghattahalli Main Road, Bangalore - 560099</li>
-      						</div> <!-- class column (end) -->
- 		 		
- 		        	<div class="column_4">   
- 			<div class="header_4">Information</div>
-			
-			  			  
-        		        		<li><a href="http://www.shoppystar.com/size-chart-guide">Size Chart Guide</a></li>
-        		        		<li><a href="http://www.shoppystar.com/shipping-and-delivery">Shipping &amp; Delivery Policy</a></li>
-        		        		<li><a href="http://www.shoppystar.com/cancellation-and-refund-policy">Cancellation &amp; Refund Policy</a></li>
-        		        		<li><a href="http://www.shoppystar.com/index.php?route=information/information&amp;information_id=4">About Us</a></li>
-        		        		<li><a href="http://www.shoppystar.com/privacy-policy">Privacy Policy</a></li>
-        		        		<li><a href="http://www.shoppystar.com/terms-and-conditions">Term &amp; Conditions</a></li>
-        		        		<li><a href="http://www.shoppystar.com/disclaimer-policy">Disclaimer Policy</a></li>
-        		        		<li><a href="http://www.shoppystar.com/coupon-partners">Coupon Partners</a></li>
-        						
-			     
-		   	</div><!-- default (end) -->
-    
-         		
- 		
- 		<!-- twitter column -->
- 		        
-        
-    	
-    </div><!-- footer-inner (end) -->		
-    </div><!-- footer-main (end) -->
-
-
-
-	
-
-<div id="footerimage">	
-	  		
-  	
-  	
-  	<div id="paymentimage">
-  	    </div> <!-- paymentimage (end) -->
-<div class="clear"> </div>
-<div style="margin-top:10px">
-				<div id="poweredby" style="background:none;text-align:center;">Shoppy Star | Indian Women Ethnic online store | Online Shopping Site | Designer Salwar Kameez | Designer Sarees | Free Shipping all India | Cash on Delivery| 30 Days Return  © Copyright 2013<br>Powered by<a class="s_main_color" href="http://www.smartstore.in"><img src="http://www.shoppystar.com/image/ss_log_small.png" style="position:relative;top:5px;"></a></div>
 </div>
-
-<div style="float:right;margin-top: 12px;">
-	<a href="https://www.facebook.com/Shoppystar"><img alt="Facebook" src="http://www.shoppystar.com/catalog/view/theme/estore/image/social/facebook.jpg" style="width: 30px; height: 30px;"></a>&nbsp;
-	<a href="https://twitter.com/shoppystarindia"><img alt="Twitter" src="http://www.shoppystar.com/catalog/view/theme/estore/image/social/twitter.jpg" style="width: 30px; height: 30px;"></a>&nbsp;
-	<a href="https://plus.google.com/114361148239712107860/"><img alt="" src="http://www.shoppystar.com/catalog/view/theme/estore/image/social/google.jpg" style="width: 30px; height: 30px;"></a></div>
-</div> <!-- footerimage (end) -->    
- <!-- ts_estore_paymentimages_status (end) -->
-
-
-            
-<div id="paymentimage" style="float:left;margin-bottom:14px;margin-left:165px;">
-  		
-      		<span style="margin-left:10px;"><a target="_blank" href="#"><img src="../image/data/master.png"></a></span>
-		
-      		<span style="margin-left:10px;"><a target="_blank" href="#"><img src="../image/data/visa.png"></a></span>
-     		
-      		<span style="margin-left:10px;"><a target="_blank" href="#"><img src="../image/data/paypal.png"></a></span>
-
-    </div>
-  
-            
-          
-</div> 
-
-
-<!-- WITHOUT CACHE: 1.8031680583954 -->
-<!-- WITH CACHE: 0.035531997680664 --></div></div></body></html>
+</section>
+<section id="columns"><div class="container">
+<div class="row"> <div id="breadcrumb"><ol class="breadcrumb">
+<li><a href="http://www.shoppystar.com/home">Home</a></li>
+<li><a href="http://www.shoppystar.com/privacy-policy">Privacy Policy</a></li>
+</ol></div>
+<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div id="content"> <h1>Privacy Policy</h1>
+<p><span><b>We protect your privacy.</b><br>
+<span>Our privacy policy is simple: any information you give us stays with us. We do not rent, sell, lend, or otherwise distribute your personal information to anyone for any reason. This includes your contact information, as well as specific order information.<br>
+<br>
+<b>We limit data access to those who need to know.</b><br>
+Within our organization, your personal data is accessible to only a limited number of employees with special access privileges. Although we may, from time to time, compile general demographic information based on your order, this information is shared within our organization only and has no identifiable personal data associated with it.<br>
+<br>
+<b>Information Collected</b><br>
+To enable you to place an order on our site, we need to have the following basic information about you: Your First Name, Your Last Name, and Your Address, City, Zip code, State, Country, Phone Number and Contact E-mail address.<br>
+<br>
+Apart from this, our systems gather certain details about your computer's internet connection like your IP address when you visit our site. Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to customize our site as per your interest, to calculate the number of visitors on our site and to know the geographic locations from where our visitors come.<br>
+<br>
+We do not allow any unauthorized person or organization be it other members, visitors, and anyone not in our organization to use any information collected from you.<br>
+<br>
+<b>Information Modification</b><br>
+You can modify your personal details by accessing Edit Profile option anytime from our site.<br>
+<br>
+<b>Information Sharing</b><br>
+Probably this is the most important question in your mind as to with whom do we share your information? The answer to this question is that we do not rent, sell, barter, or give away your information to anyone. To some extent, information has to be passed on to the courier companies, credit card processing companies, vendors, etc. to enable them to perform their functions related to your order fulfilment. Apart from this normal business requirement, information may also be needed to be shared with law authorities, for fraud detection, and for the safety of our site, employees, management, users, members and other affiliates associated with us.<br>
+<br>
+<b>Information Usage</b><br>
+<span>The most important usage of the information collected from you is your email which is used to inform you that your order has been confirmed/executed. Your email is also used to inform you for your customer service related queries and for any newsletters sent. All other information collected is confidentially stored and will not be disclosed unless needed as per the requirement of the law authorities or in case of any disputes.</span></span></span></p>
+<div class="buttons">
+<div class="right"><a href="http://www.shoppystar.com/home" class="button">Continue</a></div>
+</div>
+<div class="content-bottom">
+<script type="text/javascript">window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set._.push(o)};$.setAttribute('charset','utf-8');$.async=!0;z.set._=[];$.src=('https:'==d.location.protocol?'https://ssl':'http://cdn')+'.zopim.com/?18lHOSZkBYwtP7y8LCfUv7AxU8dgTiJb';$.type='text/java'+s;z.t=+new Date;z._=[];e.parentNode.insertBefore($,e)})(document,'script')</script>
+<script type="text/javascript">$zopim(function(){$zopim.livechat.setLanguage('--');$zopim.livechat.setName('Visitor from ');$zopim.livechat.setEmail('Set Your Email Here');$zopim.livechat.button.setPosition('br');$zopim.livechat.window.setTheme('solid');$zopim.livechat.window.setColor('');$zopim.livechat.bubble.setTitle('Questions in mind?');$zopim.livechat.bubble.setText('Click here to chat with us!');$zopim.livechat.bubble.hide(true);$zopim.livechat.setGreetings({'online':['Click here to chat','Leave a question or comment and our agents will try to attend to you shortly =)'],'offline':['Leave a message','We are offline, but if you leave your message and contact details, we will try to get back to you =)'],'away':['Click here to chat','If you leave a question or comment, our agents will be notified and will try to attend to you shortly =)']});})</script>
+</div>
+</div>
+</section>
+</div></div></section>
+<section id="footer">
+<div class="footer-top">
+<div class="container">
+<div class="row">
+<div class="col-lg-4 col-md-4  col-md-6">
+<div class="box ">
+<div class="box-heading"><span>My Twitter</span></div>
+<div class="box-content">
+<div id="pav-twitter1990858945">
+<a class="twitter-timeline" data-dnt="true" data-theme="light" data-link-color="#CC0000" width="300" height="300" data-chrome="" data-border-color="#FFFFFF" lang="EN" data-tweet-limit="" data-show-replies="true" href="https://twitter.com/ShoppyStarIndia" data-widget-id="320148386697322496">Tweets by @ShoppyStarIndia</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-4  col-md-6"><div class="box pav-custom  ">
+<div class="box-content"><div class="box-heading"><span>Contact info</span></div>
+<ul>
+<li><span class="iconbox"><i class="icon-map-marker">&nbsp;</i></span><span>29,Shiva nilaya,&nbsp;Rayasandra Layout,&nbsp;nr&nbsp; naganathpura petrol bunk,&nbsp;Bangalore-100</span></li>
+<li><span class="iconbox"><i class="icon-mobile-phone">&nbsp;</i></span><span>Phone: </span><span style="color:#474747;font-family:Arial,Helvetica,sans-serif;line-height:normal">+91 80 5092 6127</span></li>
+<li><span class="iconbox"><i class="icon-envelope-alt">&nbsp;</i></span><span>Email: care@shoppystar.com</span></li>
+</ul>
+</div>
+</div></div>
+<div class="col-lg-4 col-md-4  col-md-6"><div class="box">
+<div class="facebook-wrapper" style="width:300">
+<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en/all.js#xfbml=1";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<div class="fb-like-box" data-href="https://www.facebook.com/shoppystar" data-colorscheme="light" data-height="300" data-width="300" data-show-faces="true" data-stream="false" data-show-border="false" data-header="true"></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="footer-center">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-lg-4">
+<div class="box box-blog">
+<div><span style="color:red;font-size:15px;line-height:normal">ABOUT US</span></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div><span style="color:#969696;font-size:15px;line-height:normal">ShoppyStar.com is an Indian Women ethnic Online Designer store. A fashion website of&nbsp;Indian designer wear to give shoppers worldwide access to high end Indian fashion at doorstep. </span></div>
+<div><span style="color:#969696;font-size:15px;line-height:normal">&nbsp; &nbsp;We offers wide range of ethnic designer Salwar Kameez, Sarees, Lehenga Kurtis, latest Bollywood collection, Wedding,Bridal&nbsp;collection of Indian Designerwear for all festival and occasions.</span></div>
+<div>&nbsp;</div>
+<div><span style="color:#969696;font-size:15px;line-height:normal">&nbsp;<img alt="Buy online payment or cash on delivery" src="http://www.shoppystar.com/nfs/image_shoppystar/data/logo/ebs-secure-shoppingvisa.png" style="width:340px;height:50px">&nbsp;</span><span style="color:#969696;font-size:15px;line-height:normal">&nbsp;</span><img alt="" src="http://www.shoppystar.com/nfs/image_shoppystar/data/logo/shipping-partner.png" style="color:#969696;font-size:15px;line-height:normal;width:455px;height:45px"></div>
+</div>
+</div>
+<div class="column col-xs-12 col-sm-6 col-lg-2" id="footer_information">
+<div class="box">
+<div class="box-heading"><span>Information</span></div>
+<ul class="list">
+<li><a href="http://www.shoppystar.com/about-us">About Us</a></li>
+<li><a href="http://www.shoppystar.com/cancellation-return-policy">Cancellation &amp; Return </a></li>
+<li><a href="http://www.shoppystar.com/shipping-delivery-policy">Shipping and Delivery </a></li>
+<li><a href="http://www.shoppystar.com/terms-conditions">Terms and Conditions</a></li>
+<li><a href="http://www.shoppystar.com/privacy-policy">Privacy Policy</a></li>
+<li><a href="http://www.shoppystar.com/disclaimer-policy">Disclaimer Policy</a></li>
+<li><a href="http://www.shoppystar.com/partner-with-us">Partner With Us</a></li>
+<li><a href="http://www.shoppystar.com/size-chart-guide">Size Chart Guide</a></li>
+</ul>
+</div>
+</div>
+<div class="column col-xs-12 col-sm-2 col-lg-2">
+<div class="box folow">
+<div class="box-heading"><span>Social Network</span></div>
+<p>&nbsp;</p>
+<ul class="list folow">
+<li><span class="iconbox"><i class="icon-facebook">&nbsp;</i></span> <a data-original-title="Google-plus" data-placement="top" data-toggle="tooltip" href="https://www.facebook.com/Shoppystar" target="_blank" title="Facebook"> <span>Facebook</span> </a></li>
+<li><span class="iconbox"><i class="icon-google-plus">&nbsp;</i></span> <a data-original-title="Facebook" data-placement="top" data-toggle="tooltip" href="https://plus.google.com/+Shoppystar" target="_blank" title="Google +Plus"> <span>Google+plus</span> </a></li>
+<li><span class="iconbox"><i class="icon-twitter">&nbsp;</i></span> <a data-original-title="Twitter" data-placement="top" data-toggle="tooltip" href="https://twitter.com/shoppystarindia" target="_blank" title="Twitter"> <span>Twitter</span> </a></li>
+<li><span class="iconbox"><i class="icon-pinterest">&nbsp;</i></span> <a data-original-title="Pinterest" data-placement="top" data-toggle="tooltip" href="http://www.pinterest.com/shoppystar/" target="_blank" title="Pinterest"> <span>Pinterest</span> </a></li>
+</ul>
+</div>
+</div>
+<div class="column col-xs-12 col-sm-2 col-lg-2" id="customer_service">
+<div class="box">
+<div class="box-heading"><span>Customer Service</span></div>
+<ul class="list">
+<li><a href="http://www.shoppystar.com/contact-us">→&nbsp;&nbsp;Contact Us</a></li>
+<li><a href="http://www.shoppystar.com/return">→&nbsp;&nbsp;Returns</a></li>
+<li><a href="http://www.shoppystar.com/sitemap">→&nbsp;&nbsp;Site Map</a></li>
+<li><a href="http://www.shoppystar.com/manufacturer">→&nbsp;&nbsp;Brands</a></li>
+<li><a href="http://www.shoppystar.com/voucher">→&nbsp;&nbsp;Gift Vouchers</a></li>
+<li><a href="http://www.shoppystar.com/affiliate-account">→&nbsp;&nbsp;Affiliates</a></li>
+</ul>
+</div>
+</div>
+<div class="column col-xs-12 col-sm-2 col-lg-2" id="footer_account">
+<div class="box">
+<div class="box-heading"><span>My Account</span></div>
+<ul class="list">
+<li><a href="http://www.shoppystar.com/my-account">→&nbsp;&nbsp;My Account</a></li>
+<li><a href="http://www.shoppystar.com/my-orders">→&nbsp;&nbsp;Order History</a></li>
+<li><a href="http://www.shoppystar.com/wishlist">→&nbsp;&nbsp;Wish List</a></li>
+<li><a href="http://www.shoppystar.com/newsletter">→&nbsp;&nbsp;Newsletter</a></li>
+<li><a href="http://www.shoppystar.com/specials">→&nbsp;&nbsp;Specials</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="powered">
+<div class="container">
+<div class="copyright pull-left">
+Zaayega Online Marketing India Pvt Ltd
+<div class="power-by-8ec0d"><a href="http://www.kartrocket.com" title="eCommerce Software by KartRocket" target="_blank">eCommerce Software</a> by <img src="http://www.kartrocket.co/nfs/image_base/kartrocket-logo-small.png" alt="eCommerce India"></div>
+</div>
+<div class="paypal pull-right">
+</div>
+</div>
+</div>
+</section>
+</section>
+<script type="text/javascript" charset="utf-8">var ju_num="59B1C56B-33FA-41B7-A4B8-12B29E43233B";var asset_host=(("https:"==document.location.protocol)?"https":"http")+'://d2j3qa5nc37287.cloudfront.net/';(function(){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=asset_host+'coupon_code1.js';var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);})();</script>
+<script type="text/javascript" async="" src="https://ssl.widgets.webengage.com/js/widget/webengage-min-v-4.0.js"></script><script id="_webengage_script_tag" type="text/javascript">var _weq=_weq||{};_weq['webengage.licenseCode']='';_weq['webengage.widgetVersion']="4.0";(function(d){var _we=d.createElement('script');_we.type='text/javascript';_we.async=true;_we.src=(d.location.protocol=='https:'?"https://ssl.widgets.webengage.com":"http://cdn.widgets.webengage.com")+"/js/widget/webengage-min-v-4.0.js";var _sNode=d.getElementById('_webengage_script_tag');_sNode.parentNode.insertBefore(_we,_sNode);})(document);</script>
+<script type="text/javascript">function setup_layout(){if($('.btn-navbar').is(':hidden')){$('#cbox').removeClass('hidden-phone');$('.zopim').removeClass('hidden-phone');}else{$('#cbox').addClass('hidden-phone');$('.zopim').addClass('hidden-phone');}
+setTimeout('setup_layout()',2000);}
+$(document).ready(function(){setup_layout();$(window).resize(function(){setup_layout()});});</script>
+<script type="text/javascript">document.write(unescape("%3Cscript%20src='"+(document.location.protocol=='https:'?"https://cdnssl.clicktale.net/www07/ptc/f8856907-b396-4891-b19f-1ebc2de70bfc.js":"http://cdn.clicktale.net/www07/ptc/f8856907-b396-4891-b19f-1ebc2de70bfc.js")+"'%20type='text/javascript'%3E%3C/script%3E"));</script><script src="https://cdnssl.clicktale.net/www07/ptc/f8856907-b396-4891-b19f-1ebc2de70bfc.js" type="text/javascript"></script>
+<script type="text/javascript">var WRInitTime=(new Date()).getTime();</script>
+<script type="text/javascript">(function(){window._EP="https://www.manycontacts.com";window.__bID="51f2259e8c8405b17016743f";document.body.appendChild(document.createElement("script")).src=window._EP+"/assets/js/manycontacts.min.js";})();</script><script src="https://www.manycontacts.com/assets/js/manycontacts.min.js"></script>
+<style>
+.product-label-special {background:url("/image_shoppystar/data/label-special.png") repeat 0 0!important;}
+#filter_box dl.filters dt span {height: auto!important;}
+.htabs a.selected {background: url("/image_shoppystar/data/tab-selected.png") repeat-x center center!important;}
+.welcome a{color:#fff;}
+.welcome a:hover, .welcome a:focus{color:#EE151D;}
+.page-home #content, .page-common-home #content{overflow:inherit;}
+</style><style>.nav li:last-child .dropdown-menu{right:0;left:auto}.navbar{min-height:38px}.megamenu .menu-title{display:inline-block}#pav-mainnav .navbar ul.nav>li>a{padding:10px 17px}.pav-slideshow{margin-top:0px}.megamenu ul{display:block}#pav-mainnav .dropdown-menu li a{background-position:5px -3px}#pav-mainnav .dropdown-menu li a:hover{background-position:5px -27px}.megamenu .menu-icon{display:inline;padding-left:0}#pav-mainnav .dropdown-toggle{background:none repeat scroll 0 0 rgba(0,0,0,0)!important}</style>
+<script type="text/javascript">var KRTRAC=KRTRAC||[];KRTRAC.push(['output','1']);KRTRAC.push(['data','domain',window.location.host]);KRTRAC.push(['data','user_id','anono1uvs35sc4qv57l1prp103']);KRTRAC.push(['data','path',window.location.pathname]);KRTRAC.push(['data','platform','M']);KRTRAC.push(['path','http://krtrack.kartrocket.me/domains/add']);(function(d,s,id){var js,krtrack=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//krtrack.kartrocket.me/track.js";krtrack.parentNode.insertBefore(js,krtrack);}(document,'script','krtrack'));</script>
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-44221859-1']);_gaq.push(['_setDomainName',window.location.host]);_gaq.push(['_setAllowLinker',true]);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+<script type="text/javascript">$(document).ready(function(){if(parent==top&&self!=top){$('.footer,#powered,#header,#footer,#mainnav').hide();}});</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"52e174efe9","applicationID":"2430803","transactionName":"ZFIAZkZRXkdTUxVYXF0YN0BdH1laVlUZH0NbRw==","queueTime":0,"applicationTime":1470,"ttGuid":"","agentToken":"","atts":"SBUDEA5LTUk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script type="text/javascript">function track_referal(){if(KRTRAC.result==undefined){setTimeout("track_referal()",1000);return false;}
+KRTRAC.push(['output','0']);KRTRAC.push(['data','track_id',KRTRAC.result]);KRTRAC.push(['data','store_id','33438']);KRTRAC.push(['data','camp_id','track-store']);KRTRAC.push(['data','user_id','anono1uvs35sc4qv57l1prp103']);KRTRAC.push(['data','group','track-referal']);KRTRAC.push(['data','referal_link','']);KRTRAC.push(['data','current_link','www.shoppystar.com']);KRTRAC.push(['path','events/add']);KRTRAC.SEND();}
+$(document).ready(function(){});</script>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
