@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usingwindowshomeserver.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224171901id_/http%3A//connecteddigitalworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingwindowshomeserver.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625151623id_/http%3A//connecteddigitalworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -102,3 +102,5 @@ The website contains links to other websites. We are not responsible for the pri
 **Updating information**
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
+
+Connected Digital World, 15 Broadwater Place, Weybridge, Surrey, KT13 9JS (07919 100047)
