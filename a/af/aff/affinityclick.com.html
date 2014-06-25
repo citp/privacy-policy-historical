@@ -1,387 +1,434 @@
-<!--The following is the downloaded HTML source of the affinityclick.com privacy policy that was archived on 2012-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120601060033id_/http%3A//www.affinityclick.com/us/about-us/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the affinityclick.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625052010id_/http%3A//hushed.com/about-us/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active"><head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<title>Contextual Advertising &amp; PPC Services | Privacy  </title>
-<!--
-<meta http-equiv="content-language" content="us" />
-<meta name="language" content="us" />
--->
+<!DOCTYPE html><html lang="en-US"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Hushed – Disposable and Temporary Phone numbers</title>
+    <meta name="author" content="iltaen">
+    <meta name="keywords" content="burner phones, disposable phones, craigstlist, classified ads, mobile app, IOS, android">
+    <meta name="description" content="Disposable and Temporary Phone numbers">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script src="http://betahushed.wpengine.netdna-cdn.com/wp-includes/js/jquerycookie/jquery.cookie.js"></script>
+    <link rel="alternate" type="application/rss+xml" title="Hushed – Disposable and Temporary Phone numbers RSS Feed" href="http://hushed.com/feed/">
+    <link rel="alternate" type="application/atom+xml" title="Hushed – Disposable and Temporary Phone numbers Atom Feed" href="http://hushed.com/feed/atom/">
+    <link rel="pingback" href="http://hushed.com/xmlrpc.php">
 
-<meta name="description" content="AffinityClick contextual advertising &amp; PPC services always respects the privacy of bloggers and publishers, retailers and agencies. ">
-<meta name="keywords" content="Contextual Advertising, PPC Services, Product Placement, Product Placements, Product Recommendations, Bloggers, Publishers, Retailers, Agencies ">
-<meta name="audience" content="All">
-<meta name="author" content="AffinityClick Inc.">
-<meta name="content-language" content="us">
-<meta name="publisher" content="affinityclick.com">
-<!--TODO-->
-<!--<meta name="date" content="xxxx-xx-xx" />-->
-<meta name="DC.Creator" content="AffinityClick Inc.">
-<!--
-<meta name="DC.Language" content="us" />
--->
-<meta name="DC.Type" content="Text">
-<!--TODO-->
-<!--<meta name="DC.Rights" content="" />-->
-<meta name="DC.Publisher" content="AffinityClick Inc.">
-<!--TODO-->
-<!--<meta name="DC.Date" content="xxxx-xx-xx" />-->
-<meta name="DC.Format" content="text/html">
-<meta name="DC.Title" content="Contextual Advertising &amp; PPC Services | Privacy  ">
-<meta name="DC.Description" content="AffinityClick contextual advertising &amp; PPC services always respects the privacy of bloggers and publishers, retailers and agencies. ">
-<meta name="viewport" content="width=1024">
+    <script>
 
+    function updateQueryStringParameter(uri, key, value) {
+        var re = new RegExp("([?&])" + key + "=.*?(&|$)", "i");
+        var separator = uri.indexOf('?') !== -1 ? "&" : "?";
+        if (uri.match(re)) {
+            return uri.replace(re, '$1' + key + "=" + value + '$2');
+        }
+        else {
+            return uri + separator + key + "=" + value;
+        }
+    }
 
-  <link rel="stylesheet" href="../../includes/stylesheets/site.css">
-  <script type="text/javascript" src="../../javascripts/extras/preload_images.js"></script>
-<script type="text/javascript" src="../../javascripts/extras/jquery-1.4.1.js"></script>
-<script language="JavaScript">
-$(document).ready(function(){ MM_preloadImages('/images/home_bucket2-ovr.jpg','/images/home_bucket1-ovr.jpg','/images/home_bucket3-ovr.jpg','/images/bg3.png','/images/home_mainbg_content.jpg','/images/home_mainbg_blog.jpg');});
+    function GetURLParameter(sParam)
+    {
+        var sPageURL = window.location.search.substring(1);
+        var sURLVariables = sPageURL.split('&');
+        for (var i = 0; i < sURLVariables.length; i++) 
+        {
+            var sParameterName = sURLVariables[i].split('=');
+            if (sParameterName[0] == sParam) 
+            {
+                return sParameterName[1];
+            }
+        }
+
+        return undefined;
+    }
+
+    var tracking_media_source = GetURLParameter('pid');
+    var tracking_campaign = GetURLParameter('c');
+
+    if(tracking_media_source){
+        $.cookie('tracking_media_source', tracking_media_source, { expires:60, path: '/'});
+        
+        if(tracking_campaign){
+            $.cookie('tracking_campaign', tracking_campaign, { expires:60, path: '/'});
+        }
+    }else{
+    	tracking_media_source = $.cookie('tracking_media_source');
+	tracking_campaign = $.cookie('tracking_campaign');
+    }
+    
+     if(tracking_media_source){
+
+	$( document ).ready(function() {
+ 		
+		$( "a" ).each(function( index ) {
+  			if(this.href.indexOf('appsflyer') >= 0 ){
+			   this.href = updateQueryStringParameter(this.href, 'pid', tracking_media_source);
+            		   if(tracking_campaign) this.href = updateQueryStringParameter(this.href, 'c', tracking_campaign);
+			}
+		});
+	
+	});
+	
+     }	
+
+    </script>
+
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-36169005-1', 'hushed.com');
+  ga('send', 'pageview');
+
 </script>
-<!-- CUFON -->
-<script src="../../javascripts/extras/cufon.js" type="text/javascript"></script><style type="text/css">.cufon-canvas{text-indent:0!important;}@media screen,projection{.cufon-canvas{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}.cufon-canvas .cufon-alt{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}.cufon-canvas canvas{position:relative!important;}}@media print{.cufon-canvas{padding:0!important;}.cufon-canvas canvas{display:none!important;}.cufon-canvas .cufon-alt{display:inline!important;}}</style>
-<script src="../../javascripts/extras/cufon-font.js" type="text/javascript"></script>
-<script src="../../javascripts/extras/cufon-setup.js" type="text/javascript"></script>
-<!-- CUFON -->
+<script>
+$(function(){
+    $('.fadein img:gt(0)').hide();
+    setInterval(function(){
+      $('.fadein :first-child').fadeOut()
+         .next('img').fadeIn()
+         .end().appendTo('.fadein');}, 
+      6500);
+});
 
-<!-- FLASH -->
-<script src="../../javascripts/extras/swfobject.js" type="text/javascript"></script>
-<!-- FLASH -->
+</script>
 
-<script type="text/javascript" src="../../javascripts/extras/crossfade.js"></script>
-<script type="text/javascript" src="../../includes/javascripts/behaviors"></script>
+<script>
+function validateForm(form)
+{
+var fn=form.first_name.value;
+if (fn == null || fn == '')
+  {
+  alert("First name must be filled out");
+  form.first_name.focus();
+  return false;
+  }
+var email=form.email.value;
+if (email == null || email == '')
+  {
+  alert("Email must be filled out");
+  form.email.focus();
+  return false;
+  }
 
-<!-- GOOGLE ALL SITES -->
-<script type="text/javascript">
+var comments=form['00NC00000055S6H'].value;
+if (comments == null || comments == '')
+  {
+  alert("Comments must be filled out");
+  form['00NC00000055S6H'].focus();
+  return false;
+  }
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-79143-17']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-  })();
-
-</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
-<!-- GOOGLE ALL SITES -->
-
-<!-- SLIDER -->
-<link rel="stylesheet" href="../../includes/stylesheets/ddslider.css" media="print,screen">
-<script type="text/javascript" src="/includes/javascripts/jquery_easing"></script>
-<script type="text/javascript" src="../../includes/javascripts/ddslider"></script>
-<script type="text/javascript" src="../../includes/javascripts/ddslider_init"></script>
-
-<!-- SLIDER -->
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
-<body onload="MM_preloadImages('/images/home_bucket2-ovr.jpg','/images/home_bucket1-ovr.jpg','/images/home_bucket3-ovr.jpg','/images/bg3.png')">
-<div class="navarea" id="Nav">
-    <a href="../../index.html"><img class="navlogo" id="" src="../../assets/45_logo.png" alt="Make money by advertising on your blog" title="Make money by advertising on your blog"></a>
-
-
-    <div class="menu">
-
-<div id="navigation">
-
-<div class="nav_item">
+return true;
+}
+</script>
 
 
-  <div class="top_margin_button">
-  <a href="../../for-publishers.html" class="nav_button"><span>&nbsp;For Publishers &amp; Bloggers&nbsp;</span></a>
-  </div>
-
-</div>
-<div class="top_nav_sep">&nbsp;</div>
-
-<div class="nav_item">
-    
-
-  <div class="top_margin_button">
-  <a href="../for-retailers.1.html" class="nav_button"><span>&nbsp;For Retailers&nbsp;</span></a>
-  </div>
-
-</div>
-<div class="top_nav_sep">&nbsp;</div>
-
-
-<div class="nav_item">
-    
-
-  <div class="top_margin_button">
-  <a href="../our-partners/index.html" class="nav_button"><span>&nbsp;Our Partners&nbsp;</span></a>
-  </div>
-
-</div>
-<div class="top_nav_sep">&nbsp;</div>
-
-<div class="nav_item">
-
-  <div class="top_nav_sel_l">&nbsp;</div>
-  <div class="top_nav_sel_c"><div class="title">About Us</div></div>
-  <div class="top_nav_sel_r">&nbsp;</div>
-    
-
-</div>
-<div class="top_nav_sep">&nbsp;</div>        
-
-<div class="nav_item">
-  <div class="top_margin_button">
-  <a href="http://my.affinityclick.com/" class="nav_button login"><span>Login</span></a>
-  </div>
-</div>
-
-</div>
-
-    </div>
-
-    <div class="navblog" id="Blog">
-      <strong>FOLLOW US:</strong>
-      <ul>
-        <li><a class="ac-fb" href="http://www.facebook.com/AffinityClick"><span>Facebook</span></a></li>
-        <li><a class="ac-twitter" href="http://www.twitter.com/affinityclick"><span>Follow us on Twitter</span></a></li>
-        <li><a class="ac-blog" href="../../blog.html"><span>Our Blog</span></a></li>
-      </ul>
-
-     <!-- <a class="homeminiblog" href="/blog">Our Blog</a>
-      <a class="homeminitwitter" href="http://www.twitter.com/affinityclick">Follow us</a> -->
-    </div>
-
-    <div style="clear:both;"></div> 
-</div>
-<div class="boxcontainer" id="retailers">
-  <div class="border-box">
-    <div class="top-left">
-      <div class="top-right"></div>
-    </div>
-    <div class="bottom-left">
-      <div class="bottom-right">
-      <div class="content">
-<h1><a class="pagetitle"><span class="cufon cufon-canvas" style="width: 73px; height: 24px;"><canvas width="91" height="28" style="width: 91px; height: 28px; top: -4px; left: -1px;"></canvas><span class="cufon-alt">About </span></span><span class="cufon cufon-canvas" style="width: 27px; height: 24px;"><canvas width="40" height="28" style="width: 40px; height: 28px; top: -4px; left: -1px;"></canvas><span class="cufon-alt">Us</span></span></a></h1>
-<div id="navcontainer">
-<ul id="navlist">
-<ul>
-
-
-
-  <li><a class="nav_button" href="../about-us.1.html"><span>Overview</span></a></li>
-
-<li>|</li>
-
-
-  <li><a class="nav_button" href="news.html"><span>News &amp; Press</span></a></li>
-
-<li>|</li>
-
-
-  <li><a class="nav_button" href="../../ca/about-us/careers.html"><span>Careers</span></a></li>
-
-<li>|</li>
-
-
-  <li><a class="nav_button" href="contact-us.html"><span>Contact us</span></a></li>
-
-
-</ul>
-
-</ul>
-</div><div style="clear:both;"></div>
-<div class="sidebullets">
-  <div id="slider">
-
-<ul id="mainarea-slider">
-  <li title="fading" class="current slider_1"><img id="" src="../../assets/172_ac_interior_banner_1_final_REV.jpg" alt="banner_1_internal" title="banner_1_internal"></li>
-  <li title="fading" class="slider_2"><img id="" src="../../assets/173_ac_interior_banner_2_final_REV.jpg" alt="banner_2_internal" title="banner_2_internal"></li>
-  <li title="fading" class="slider_3"><img id="" src="../../assets/174_ac_interior_banner_3_final_REV.jpg" alt="banner_3_internal" title="banner_3_internal"></li>
-</ul>
-
-<div id="slider-container">
-  <a href="http://my.affinityclick.com/register" id="slider-signup"><img id="" src="../../assets/170_btn_signup_interior_normal.png" alt="banner_signup_internal" title="banner_signup_internal"></a>
-  <ul class="slider_selector"><li class="current sel_1"></li><li class="sel_2"></li><li class="sel_3"></li></ul>
-</div> 
-
-</div>
-  The AffinityClick advantage:
-</div>
-<div class="maincontent">
-<h3><span class="cufon cufon-canvas" style="width: 32px; height: 20px;"><canvas width="47" height="23" style="width: 47px; height: 23px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">We </span></span><span class="cufon cufon-canvas" style="width: 70px; height: 20px;"><canvas width="85" height="23" style="width: 85px; height: 23px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">protect </span></span><span class="cufon cufon-canvas" style="width: 45px; height: 20px;"><canvas width="61" height="23" style="width: 61px; height: 23px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">your </span></span><span class="cufon cufon-canvas" style="width: 66px; height: 20px;"><canvas width="75" height="23" style="width: 75px; height: 23px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">privacy</span></span></h3><p><br></p>
-            <h2><span class="cufon cufon-canvas" style="width: 71px; height: 17px;"><canvas width="84" height="20" style="width: 84px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Effective </span></span><span class="cufon cufon-canvas" style="width: 60px; height: 17px;"><canvas width="72" height="20" style="width: 72px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">August </span></span><span class="cufon cufon-canvas" style="width: 18px; height: 17px;"><canvas width="31" height="20" style="width: 31px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">1, </span></span><span class="cufon cufon-canvas" style="width: 39px; height: 17px;"><canvas width="46" height="20" style="width: 46px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">2009</span></span></h2>
-            <p>The Privacy Policy explains the collection, use, and disclosure of Personal Information within and by the AffinityClick website ('AffinityClick Website') and the AffinityClick Placement Service ('Placement Service'). 'Personal Information' means individually identifiable information that would allow a party to identify you or contact you (online or in the real world). This type of information includes, for example, your name, address, telephone number, or email address (only the latter of which in certain circumstances we presently collect).</p>
-            <p>The AffinityClick Website provides marketing information and signup and account management capabilities for the Service. The information and registration capabilities on the AffinityClick Website is intended for current and prospective users of the Placement Service, including but not limited to, website owners, publishers, retailers, aggregators, distributors, carriers of media content, retail goods, listings, and more. The Placement Service is a set of web services that lets Service Partners (Bloggers) their users with Product Placement capabilities.</p>
-            <p><br></p><h2><span class="cufon cufon-canvas" style="width: 99px; height: 17px;"><canvas width="112" height="20" style="width: 112px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">AffinityClick </span></span><span class="cufon cufon-canvas" style="width: 66px; height: 17px;"><canvas width="79" height="20" style="width: 79px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Website </span></span><span class="cufon cufon-canvas" style="width: 34px; height: 17px;"><canvas width="47" height="20" style="width: 47px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">and </span></span><span class="cufon cufon-canvas" style="width: 71px; height: 17px;"><canvas width="84" height="20" style="width: 84px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Personal </span></span><span class="cufon cufon-canvas" style="width: 94px; height: 17px;"><canvas width="100" height="20" style="width: 100px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Information</span></span></h2>
-            <p>The AffinityClick Website requires a minimal amount of Personal Information to maintain account information and communicate with publishers who have registered with AffinityClick ('Service Partners') regarding use of the service. Additional information may be needed in the future by us or by partners in order to provide Service Partners with additional features and services. If additional information is needed, we will amend this policy and post the changes on the AffinityClick Website. We may also notify you via email of the changes although we will use good sense and reasonable judgment when doing so.</p>
-            <p><br></p><h2><span class="cufon cufon-canvas" style="width: 47px; height: 17px;"><canvas width="60" height="20" style="width: 60px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Email </span></span><span class="cufon cufon-canvas" style="width: 63px; height: 17px;"><canvas width="72" height="20" style="width: 72px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Address</span></span></h2>
-            <p>The AffinityClick Service uses the email address as your username. This email address is not visible to others within the system. AffinityClick will not rent, sell, or disclose your email address to third parties. AffinityClick may send Service Partners certain communications relating to their use of the Recommendations Service or changes to the Recommendations Service features, Terms of Service or the Privacy Policy.</p>
-            <p><br></p><h2><span class="cufon cufon-canvas" style="width: 62px; height: 17px;"><canvas width="71" height="20" style="width: 71px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Cookies</span></span></h2>
-            <p>AffinityClick uses cookies for Service Partners in order to save state information and to make it easier to access account informatin. This data is used only in conjunction with your use of the service and is not used separately or shared with any third party. Accessing the AffinityClick Website is not dependent on accepting cookies and all major browsers allow you to disable cookies should you desire to do so.</p>
-            <p><br></p><h2><span class="cufon cufon-canvas" style="width: 81px; height: 17px;"><canvas width="88" height="20" style="width: 88px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Disclosure</span></span></h2>
-            <p>AffinityClick may disclose account and contact names internall and with advisors, investors, and others with an interest in the use of the Recommendations Service. We limit access to specific contact information internally to only those employees and contractors who design and maintain the system information stores or who have a reasonable need to come in contact with and make use of such information for account purposes. </p>
-            <p><br></p><h2><span class="cufon cufon-canvas" style="width: 26px; height: 17px;"><canvas width="39" height="20" style="width: 39px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">No </span></span><span class="cufon cufon-canvas" style="width: 71px; height: 17px;"><canvas width="84" height="20" style="width: 84px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Personal </span></span><span class="cufon cufon-canvas" style="width: 94px; height: 17px;"><canvas width="100" height="20" style="width: 100px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Information</span></span></h2>
-            <p>AffinityClick does not collect, store, or make use of any Personal Information of anyone who uses the Recommendations Service ('Service Users'). Whereas Service Partners may collect Personal Information, AffinityClick does not come in contact with, and specifically disclaims any association with, any such information. Service Partners that use site authorization may use usernames as a key for the Recommendations Service for its users. AffinityClick has no control over the data contained within usernames and uses this information only as a database identifier.</p>
-            <p><br></p><h2><span class="cufon cufon-canvas" style="width: 62px; height: 17px;"><canvas width="71" height="20" style="width: 71px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Cookies</span></span></h2>
-            <p>We assign cookies to Service Users in order to save preference information and make it possible to use the Recommendations Service without having to register with AffinityClick or with a Service Partner. This data is used only in conjunction with your use of the Recommendations Service and is not used separately by or shared with any third party. Disabling cookies may prevent AffinityClick from providing you with personalized recommendations.</p>
-            <p><br></p><h2><span class="cufon cufon-canvas" style="width: 19px; height: 17px;"><canvas width="32" height="20" style="width: 32px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">IP </span></span><span class="cufon cufon-canvas" style="width: 63px; height: 17px;"><canvas width="72" height="20" style="width: 72px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Address</span></span></h2>
-            <p>AffinityClick may record IP information of Service Users. Such information may be used for monitoring, and auditing use of the Recommendations Service, as well as geotargeting the content of Product Recommendations provided to end users.</p>
-            <p><br></p><h2><span class="cufon cufon-canvas" style="width: 32px; height: 17px;"><canvas width="45" height="20" style="width: 45px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Use </span></span><span class="cufon cufon-canvas" style="width: 20px; height: 17px;"><canvas width="33" height="20" style="width: 33px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">of </span></span><span class="cufon cufon-canvas" style="width: 96px; height: 17px;"><canvas width="109" height="20" style="width: 109px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Aggregated </span></span><span class="cufon cufon-canvas" style="width: 94px; height: 17px;"><canvas width="100" height="20" style="width: 100px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Information</span></span></h2>
-            <p>We may disclose aggregated information about the use of the Recommendations Service to business partners, prospective investors, and others. Additionally, we may product industry-standard traffic reports for assessing use of the Recommendations Service. We will use information only in the aggregate in order to monitor and improve the Recommendations Service.</p>
-            <p><br></p><h2><span class="cufon cufon-canvas" style="width: 65px; height: 17px;"><canvas width="78" height="20" style="width: 78px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">General </span></span><span class="cufon cufon-canvas" style="width: 75px; height: 17px;"><canvas width="83" height="20" style="width: 83px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Measures</span></span></h2>
-            <p>Security AffinityClick has implemented and follows industry standard measures to protect against unauthorized access to and unlawful interception or processing of Personal Information. However, no Internet site can fully eliminate security risks. AffinityClick maintains the highest level of security. All sensitive information is encrypted, and stored in a secure computer environment protected by secure firewalls to prevent unauthorized access. AffinityClick maintains multiple layers of access control and monitoring to ensure. AffinityClick does not store personally identifiable information. The cookie that we place on your computer contains a unique number but not any personal information.</p>
-            <p><br></p><h2><span class="cufon cufon-canvas" style="width: 81px; height: 17px;"><canvas width="94" height="20" style="width: 94px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Childrens' </span></span><span class="cufon cufon-canvas" style="width: 56px; height: 17px;"><canvas width="68" height="20" style="width: 68px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Online </span></span><span class="cufon cufon-canvas" style="width: 61px; height: 17px;"><canvas width="74" height="20" style="width: 74px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Privacy </span></span><span class="cufon cufon-canvas" style="width: 85px; height: 17px;"><canvas width="98" height="20" style="width: 98px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Protection </span></span><span class="cufon cufon-canvas" style="width: 30px; height: 17px;"><canvas width="42" height="20" style="width: 42px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Act </span></span><span class="cufon cufon-canvas" style="width: 64px; height: 17px;"><canvas width="75" height="20" style="width: 75px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">(COPPA)</span></span></h2>
-            <p>Children under 13 are not permitted to use the AffinityClick Website and so this privacy policy makes no provision for childrens' use of the AffinityClick Website. The Recommendations Service does not store any personal information for Service Users and any personal information collected by Service Partners is solely the responsibility of Service Partners.</p>
-            <p><br></p><h2><span class="cufon cufon-canvas" style="width: 79px; height: 17px;"><canvas width="92" height="20" style="width: 92px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">European </span></span><span class="cufon cufon-canvas" style="width: 51px; height: 17px;"><canvas width="64" height="20" style="width: 64px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Union </span></span><span class="cufon cufon-canvas" style="width: 43px; height: 17px;"><canvas width="52" height="20" style="width: 52px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Users</span></span></h2>
-            <p>AffinityClick adheres to the United States/European Union Data Protection Safe Harbor Agreement, which can be located at <a href="http://www.export.gov/safeharbor">http://www.export.gov/safeharbor</a> (the 'Safe Harbor'). You expressly consent to the processing of your personal data in accordance with this privacy statement. Your personal data may be processed in the country in which it was collected and in the United States. United States laws regarding processing of personal data may be less stringent than the laws in your country.</p>
-            <p><br></p><h2><span class="cufon cufon-canvas" style="width: 65px; height: 17px;"><canvas width="78" height="20" style="width: 78px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Outside </span></span><span class="cufon cufon-canvas" style="width: 143px; height: 17px;"><canvas width="152" height="20" style="width: 152px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Parties/Successors</span></span></h2>
-            <p>AffinityClick will only share Personal Information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on our website. If AffinityClick becomes part of another company, that company will possess the Peronal Information collected by AffinityClick and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. AffinityClick will notify you by email or by putting a prominent notice on the AffinityClick site before information becomes subject to a different policy.</p>
-            <p><br></p><h2><span class="cufon cufon-canvas" style="width: 71px; height: 17px;"><canvas width="84" height="20" style="width: 84px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Personal </span></span><span class="cufon cufon-canvas" style="width: 97px; height: 17px;"><canvas width="110" height="20" style="width: 110px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Information </span></span><span class="cufon cufon-canvas" style="width: 77px; height: 17px;"><canvas width="90" height="20" style="width: 90px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Collected </span></span><span class="cufon cufon-canvas" style="width: 52px; height: 17px;"><canvas width="65" height="20" style="width: 65px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Under </span></span><span class="cufon cufon-canvas" style="width: 49px; height: 17px;"><canvas width="62" height="20" style="width: 62px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Other </span></span><span class="cufon cufon-canvas" style="width: 113px; height: 17px;"><canvas width="122" height="20" style="width: 122px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Circumstances</span></span></h2>
-            <p>AffinityClick may collect and retain personal information from you under other circumstances, such as any communications regarding job postings, service improvements, or support issues. AffinityClick will use the same measure of care with this information as we provide to our own private information and office communications.</p>
-            <p><br></p><h2><span class="cufon cufon-canvas" style="width: 105px; height: 17px;"><canvas width="114" height="20" style="width: 114px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Amendments</span></span></h2>
-            <p>We may amend this policy at any time. Notices of amendments will be posted on our site. We may also send notices of changes via email to paying customers who have registered on the AffinityClick Website.</p>
-            <p><br></p><h2><span class="cufon cufon-canvas" style="width: 79px; height: 17px;"><canvas width="88" height="20" style="width: 88px; height: 20px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Questions</span></span></h2>
-            <p>If you have any questions about this Privacy Policy or believe that AffinityClick has not adhered to a term or terms of this Privacy Policy, please contact us by email at privacy@affinityclick.com. Written communications can be sent to AffinityClick Inc. 78 George St. Suite 201, Ottawa ON, K1N 5W1 or call us toll-free at 1 (877) 278-3625.  </p>
-</div>
-<div style="clear:both;"></div></div><div style="clear:both;"></div> </div>
-</div>
-</div>
-</div>
-<div class="homebucketwrapper">
-
-
-
-  <div class="homebucket1"><a class="homebucket1" href="../../for-publishers.html"><img class="x-img-over" elmid="over_47" id="over_47" src="../../assets/46_home_bucket1.jpg" alt="Publishers are making money blogging! " title="Publishers are making money blogging! "></a>
-    <div class="homebucket_text_1">
-      <div class="homebucket_text_title">
-        <a href="../../for-publishers.html">Publishers</a>
-      </div>
-      <div class="homebucket_text_desc">
-        <a href="../../for-publishers.html">A simpler way to make money from your blog or website.</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="homebucket2"><a class="homebucket2" href="../for-retailers.1.html"><img class="x-img-over" elmid="over_49" id="over_49" src="../../assets/48_home_bucket2.jpg" alt="Retailers; generate targeted website traffic effortlessly! " title="Retailers; generate targeted website traffic effortlessly! "></a>
-    <div class="homebucket_text_2">
-      <div class="homebucket_text_title">
-        <a href="../for-retailers.1.html">Retailers</a>
-      </div>
-      <div class="homebucket_text_desc">
-        <a href="../for-retailers.1.html">Your ads placed where people are talking about your products.</a>
-      </div>
-    </div>
-  </div>
-
-
- <div class="homebucket3"><a class="homebucket3" href="news.html"><img class="x-img-over" elmid="over_51" id="over_51" src="../../assets/161_50b_50_home_bucket3.jpg" alt="homebucket_3b" title="homebucket_3b"></a>
-  <div class="homebucket_text_3">
-    <div class="homebucket_text_title">
-      <a href="news.html">News</a>
-      </div>
-
-<!--News feeds-->
-
-<div class="homebucket_text_news">News Releases</div>
-<div class="homebucket_text_desc">AffinityClick – New Features and Enhancements&nbsp;<a class="homebucket_text_more" target="_blank" href="../../blog/2011/05/affinityclick-new-features-and-enhancements/index.html%3Futm_source=rss&amp;utm_medium=rss&amp;utm_campaign=affinityclick-new-features-and-enhancements.html">MORE</a></div>
-
-  
-<div class="homebucket_text_news">Blog</div>
-<div class="homebucket_text_desc"> What is Ad Retargeting and Why Does it Matter?&nbsp;<a class="homebucket_text_more" target="_blank" href="../../blog/2011/05/what-is-ad-retargeting-and-why-does-it-matter/index.html%3Futm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-is-ad-retargeting-and-why-does-it-matter.html">MORE</a></div>
-  
-</div>
-</div>
+    <link rel="alternate" type="application/rss+xml" title="Hushed - Disposable and Temporary Phone numbers » Feed" href="http://hushed.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Hushed - Disposable and Temporary Phone numbers » Comments Feed" href="http://hushed.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Hushed - Disposable and Temporary Phone numbers » Privacy Comments Feed" href="http://hushed.com/about-us/privacy/feed/">
+<link rel="stylesheet" id="style-css" href="http://betahushed.wpengine.netdna-cdn.com/wp-content/themes/PandoraBox/style.css?ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://betahushed.wpengine.netdna-cdn.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.5.4" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-styles-css" href="http://betahushed.wpengine.netdna-cdn.com/wp-content/plugins/font-awesome/assets/css/font-awesome.min.css?ver=3.2.1" type="text/css" media="all">
+<!--[if lte IE 7]>
+<link rel='stylesheet' id='font-awesome-ie7-css'  href='http://betahushed.wpengine.netdna-cdn.com/wp-content/plugins/font-awesome/assets/css/font-awesome-ie7.min.css?ver=3.2.1' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="tablepress-default-css" href="http://betahushed.wpengine.netdna-cdn.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="mr_social_sharing-css" href="http://betahushed.wpengine.netdna-cdn.com/wp-content/plugins/social-sharing-toolkit/style_2.1.2.css?ver=3.9.1" type="text/css" media="all">
+<script type="text/javascript" src="http://betahushed.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
+<script type="text/javascript" src="http://betahushed.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false&amp;ver=3.0"></script>
+<script type="text/javascript" src="http://betahushed.wpengine.netdna-cdn.com/wp-content/themes/PandoraBox/js/map.js?ver=1.0"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js?ver=1.4.7"></script>
+<script type="text/javascript" src="http://betahushed.wpengine.netdna-cdn.com/wp-content/plugins/social-sharing-toolkit/includes/buttons/button.facebook.js?ver=3.9.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://hushed.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://hushed.com/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Hushed in the News" href="http://hushed.com/about-us/press/">
+<link rel="next" title="Terms of Service" href="http://hushed.com/about-us/tos/">
+<link rel="canonical" href="http://hushed.com/about-us/privacy/">
+<link rel="shortlink" href="http://hushed.com/?p=91">
  
-           <!--Old <a href="/us/for-retailers/overview">It's quick and easy to get started.</a> -->
-      </div>
+
+
+      <style type="text/css" id="dynstyles">
+         a , .whiteblock a , .socialblock .socialicon i:hover , .skillsblock .skillcontainer:hover .skillogo .logocontainer , .skillsblock .skillcontainer:hover .title , .blogblock .block-container .post .post-body .title a:hover, .blogblock .block-container .post .meta .type i:hover , .contactsblock .block-container .wrapper .contact-info a:hover {          
+        color: #c60000;
+        }
+      
+         input:focus,textarea:focus , .skillsblock .skillcontainer .wrapper .skillogo .logocontainer , .teamblock .block-container .teamcontainer .personal:hover .photo , .contactsblock .block-container .wrapper .mailbutton:hover  { 
+        border-color: #c60000;
+        }
+
+        *::selection, input::selection, textarea::selection {
+          background-color: #c60000;
+        }
+
+        button, input.send, input[type="submit"], .hexagon .inner, .colorblock, .block .block-container .storebuttons .storebutton:hover, .mainmenu, .appsblock .apps .slider .navigation:hover, .priceblock .block-container .pricetable .priceitem, .contactsblock .block-container .wrapper .mailbutton:hover, .contactsblock .input-container input[type="submit"], .footerblock, .blogblock .navigation .page-numbers.current {
+          background-color: #c60000;
+       }
+
+       .hexagon .inner:before {
+        border-color: transparent transparent #c60000 transparent;
+       }
+
+       .hexagon .inner:after{
+        border-color: #c60000 transparent transparent  transparent;
+       }
+
+       .skillsblock .skillcontainer:hover .skillogo .logocontainer , .teamblock .block-container .teamcontainer .personal .photo
+      { border-color: #c8c8c8; }
     
+    #bg{
+      background-color: #e5e5e5;
+    }
+      </style>
+
+    	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://betahushed.wpengine.netdna-cdn.com/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection">
+			
+	
+</head>
+
+<body class="page page-id-91 page-child parent-pageid-38 page-template-default"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+    <div class="mainmenu">
+        <div class="menuwrapper">
+            <nav class="menulist">
+            	<div class="iconmenu">
+            		<i class="icon-th-list icon-2x"></i>
+            	</div>
+                <ul class="items"><li id="menu-item-395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-395"><a href="/#home">Home</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-34"><a href="http://hushed.com/hushed-users/">Why Hushed?</a>
+<ul class="sub-menu">
+	<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="http://hushed.com/partners/">Partners</a></li>
+</ul>
+</li>
+<li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a href="/#skills">Features</a></li>
+<li id="menu-item-47" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="/#price">Plans</a></li>
+<li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a href="http://hushed.com/events/">Events</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://hushed.com/hushed-tagline-blog/">Blog</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-40"><a href="http://hushed.com/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://hushed.com/about-us/careers/">Hushed Careers</a></li>
+	<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="http://hushed.com/about-us/press/">Hushed in the News</a></li>
+	<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a href="http://https://hushed.zendesk.com">Support</a></li>
+	<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="http://hushed.com/about-us/tos/">Terms of Service</a></li>
+	<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-91 current_page_item menu-item-106"><a href="http://hushed.com/about-us/privacy/">Privacy</a></li>
+</ul>
+</li>
+</ul>            </nav>
+            <a href="http://hushed.com" class="logoblock">
+                        	            		<img class="companylogo" src="http://betahushed.wpengine.com/wp-content/uploads/2013/11/logo.png">
+            	                        </a>
+
+            <div class="socialblock">
+                                <a href="http://twitter.com/hushedapp" title="" class="socialicon"><i class="icon-twitter"></i></a>
+                                <a href="http://facebook.com/hushedapp" title="" class="socialicon"><i class="icon-facebook"></i></a>
+                                <a href="/rss" title="" class="socialicon"><i class="icon-rss"></i></a>
+                            </div>
+        </div>
+    </div><div class="colorblock" id="bg"></div>
+ <div class="block whiteblock blogblock">
+        <div id="blog" class="block-container">
+                            <article id="post-91" class="post-91 page type-page status-publish hentry single-page">
+
+                    <h1 class="title">Privacy</h1>
+                                        <div class="post-body">
+                        <hr>
+Affinityclick Inc. (“Affinityclick”) operates several websites including affinityclick.com, Hushed.com. It is AffinityClick’s policy to respect your privacy regarding any information we may collect while operating our websites.<p></p>
+<h3>Website Visitors Hushed.com</h3>
+<p>Like most website operators, Hushed.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Hushed.com purpose in collecting non-personally identifying information is to better understand how Hushed.com visitors use its website. From time to time, Hushed.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
+<p>Hushed.com also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Hushed.com posts. Hushed.com only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.</p>
+<h3>Gathering of Personally-Identifying Information</h3>
+<p>Certain visitors to Hushed.com’s websites choose to interact with Hushed.com in ways that require Hushed.com to gather personally-identifying information. The amount and type of information that Hushed.com gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account on http://Hushed.com.com to provide a username and email address. In each case, Hushed.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Hushed.com. Hushed.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p>
+<h3>Aggregated Statistics</h3>
+<p>Hushed.com may collect statistics about the behavior of visitors to its websites. Hushed.com may display this information publicly or provide it to others. However, Hushed.com does not disclose personally-identifying information other than as described below.</p>
+<h3>Protection of Certain Personally-Identifying Information</h3>
+<p>Hushed.com discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Hushed.com’s behalf or to provide services available at Hushed.com’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Hushed.com’s websites, you consent to the transfer of such information to them. Hushed.com will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Hushed.com discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Hushed.com believes in good faith that disclosure is reasonably necessary to protect the property or rights of Hushed.com, third parties or the public at large. If you are a registered user of a Hushed.com website and have supplied your email address, Hushed.com may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Hushed.com and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Hushed.com takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
+<h3>Cookies</h3>
+<p>A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Hushed.com uses cookies to help Hushed.com identify and track visitors, their usage of Hushed.com website, and their website access preferences. Hushed.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Hushed.com’s websites, with the drawback that certain features of Hushed.com’s websites may not function properly without the aid of cookies.</p>
+<h3>Ads</h3>
+<p>Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Hushed.com and does not cover the use of cookies by any advertisers.</p>
+<h3>Privacy Policy Changes</h3>
+<p>Although most changes are likely to be minor, Hushed.com may change its Privacy Policy from time to time, and in Hushed.com’s sole discretion. Hushed.com encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
+                    </div>
+                </article>
+            
+            	<div class="comments">
+	
+			
+</div>
+        </div>
+    </div>
+
+    <div class="block footerblock">
+        <div class="block-container"> <div class="footerbar sidebar footer-left">
+    <div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div></div>
+<div class="footerbar sidebar footer-center">
+   </div>
+<div class="footerbar sidebar footer-right">
+   </div> </div>
+		<ul>
+			<li><a href="http://www.affinityclick.com" class="copyright"> AffinityClick © 2014</a></li>
+                        <li><p><a href="http://twitter.com/hushedapp">Follow us @hushedapp</a></p></li>
+			<li><p><a href="http://facebook.com/hushedapp">Like us on Facebook</a></p></li>
+			<li><p><a href="/press/">Press</a></p></li>
+			<li><p><a href="/about-us/privacy/">Privacy</a></p></li>
+			<li><p><a href="/about-us/tos/">Terms of Service</a></p></li>
+
+		</ul>
+    </div> 
+
+<script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.6/zenbox.js"></script>
+<style type="text/css" media="screen, projection">
+  @import url(//assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
+</style>
+<script type="text/javascript">
+  if (typeof(Zenbox) !== "undefined") {
+    Zenbox.init({
+      dropboxID:   "20106459",
+      url:         "https://hushed.zendesk.com",
+      tabTooltip:  "Support",
+      tabImageURL: "https://assets.zendesk.com/external/zenbox/images/tab_support_right.png",
+      tabColor:    "black",
+      tabPosition: "Right"
+    });
+  }
+</script>
+
+
+<!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('1029-347-10-4983');/*]]>*/</script><noscript><a href="https://www.olark.com/site/1029-347-10-4983/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- end olark code -->
+
+<meta property="twitter:account_id" content="4503599627559628">
+
+
+<center>
+<a href="https://mixpanel.com/f/partner"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_blue.png" alt="Mobile Analytics" style="display: none;"></a></center>
   
 
-  <div style="clear:both;"></div>
+<!-- Smooth SVG font for webkit-browsers on Windows -->
+<style>
+        @media screen and (-webkit-min-device-pixel-ratio:0) {
+        @font-face {
+          font-family: 'FontAwesome';
+          src: url('http://betahushed.wpengine.netdna-cdn.com/wp-content/plugins/font-awesome/assets/font/fontawesome-webfont.svg') format('svg');
+        }
 
+        @font-face {
+            font-family: 'Lato';
+            src: url('http://betahushed.wpengine.netdna-cdn.com/wp-content/themes/PandoraBox/font/lato-regular.svg') format('svg');
+            font-weight: normal;
+            font-style: normal; 
+        }
 
-<div class="footerarea">
-  <div class="bottomnavbox">
-    <h4><a href="../for-publishers/index.html"><span class="cufon cufon-canvas" style="width: 25px; height: 14px;"><canvas width="36" height="17" style="width: 36px; height: 17px; top: -2px; left: -1px;"></canvas><span class="cufon-alt">For </span></span><span class="cufon cufon-canvas" style="width: 72px; height: 14px;"><canvas width="83" height="17" style="width: 83px; height: 17px; top: -2px; left: -1px;"></canvas><span class="cufon-alt">Publishers </span></span><span class="cufon cufon-canvas" style="width: 14px; height: 14px;"><canvas width="24" height="17" style="width: 24px; height: 17px; top: -2px; left: -1px;"></canvas><span class="cufon-alt">&amp; </span></span><span class="cufon cufon-canvas" style="width: 59px; height: 14px;"><canvas width="67" height="17" style="width: 67px; height: 17px; top: -2px; left: -1px;"></canvas><span class="cufon-alt">Bloggers</span></span></a></h4>
-      <a class="footernav" href="../for-publishers/index.html">Overview</a>
-      <a class="footernav" href="../for-publishers/features.html">Features</a>
-  </div>
-  <div class="bottomnavbox">
-    <h4><a href="../for-retailers/index.html"><span class="cufon cufon-canvas" style="width: 25px; height: 14px;"><canvas width="36" height="17" style="width: 36px; height: 17px; top: -2px; left: -1px;"></canvas><span class="cufon-alt">For </span></span><span class="cufon cufon-canvas" style="width: 58px; height: 14px;"><canvas width="66" height="17" style="width: 66px; height: 17px; top: -2px; left: -1px;"></canvas><span class="cufon-alt">Retailers</span></span></a></h4>
-    <a href="../for-retailers/index.html" class="footernav">Overview</a>
-    <a href="../for-retailers/features.html" class="footernav">Features</a>
-  </div>
-  <div class="bottomnavbox">
-    <h4><a href="../our-partners/index.html"><span class="cufon cufon-canvas" style="width: 28px; height: 14px;"><canvas width="39" height="17" style="width: 39px; height: 17px; top: -2px; left: -1px;"></canvas><span class="cufon-alt">Our </span></span><span class="cufon cufon-canvas" style="width: 57px; height: 14px;"><canvas width="64" height="17" style="width: 64px; height: 17px; top: -2px; left: -1px;"></canvas><span class="cufon-alt">Partners</span></span></a></h4>
-    <a href="../our-partners/index.html" class="footernav">Overview</a>
-  </div>
-  <div class="bottomnavbox">
-    <h4><a href="index.html"><span class="cufon cufon-canvas" style="width: 45px; height: 14px;"><canvas width="55" height="17" style="width: 55px; height: 17px; top: -2px; left: -1px;"></canvas><span class="cufon-alt">About </span></span><span class="cufon cufon-canvas" style="width: 17px; height: 14px;"><canvas width="24" height="17" style="width: 24px; height: 17px; top: -2px; left: -1px;"></canvas><span class="cufon-alt">Us</span></span></a></h4>
-    <a href="index.html" class="footernav">Overview</a>
-    <a href="news.html" class="footernav">News &amp; Press</a>
-    <a href="../../ca/about-us/careers.html" class="footernav">Careers</a>
-    <a href="contact-us.html" class="footernav">Contact Us</a>
-  </div>
-  <div class="bottomnavbox">
-    <h4><a href="http://support.affinityclick.com"><span class="cufon cufon-canvas" style="width: 55px; height: 14px;"><canvas width="63" height="17" style="width: 63px; height: 17px; top: -2px; left: -1px;"></canvas><span class="cufon-alt">Support</span></span></a></h4>
-  </div>
-<div class="copyright">
-<!--Remove multilingual support <div class="flags">
-  <div id="worldwide">
-    <a href="/us/choose-your-country/">
-      <img height="22" width="22" src="/images/flags2/us.jpg"/>
-      <span class="more">Choose your country or region</span>
-    </a>
-  </div>
-</div>
- -->
-    <br><font style="font-size:16px;">+1 877 278 3625</font>
-    <br>© Copyright 2009-2011 AffinityClick Inc.<br>
-      All rights reserved worldwide.<br>
-    <a href="privacy.html" style="font-size:9px">Privacy Policy</a>
-</div>
-<div style="clear:both;"></div></div>
-<div style="clear:both;"></div>
+        @font-face {
+            font-family: 'Lato';
+            src: url('http://betahushed.wpengine.netdna-cdn.com/wp-content/themes/PandoraBox/font/lato-bold.svg') format('svg');
+            font-weight: 700;
+        }
 
+        @font-face {
+            font-family: 'Lato';
+            src: url('http://betahushed.wpengine.netdna-cdn.com/wp-content/themes/PandoraBox/font/lato-light.svg') format('svg');
+            font-weight: 300;
+        }
+      } 
 
-<style>a#fdbk_tab{background-image:url("../../images/feedback_button.png");color:none;background-color:transparent;cursor:pointer;height:81px;left:auto;right:0;bottom:0;margin-left:0px;overflow:hidden;position:fixed;text-indent:-100000px;top:auto;width:81px;z-index:100000;}</style>
-
-<!-- CUFON -->
-<script type="text/javascript" charset="utf-8">
-  Cufon.now();
-</script>
-<!-- CUFON -->
-
-<!-- GOOGLE -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-79143-6']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-  })();
-
-</script>
-<!-- GOOGLE -->
-
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
-qacct:"p-796kqEyqA67ps"
-};
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-796kqEyqA67ps.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
+      body {
+          font-family: 'Lato';
+      }
+      .mainmenu{position: fixed;}</style>
 
 <script type="text/javascript">
-document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https://snapabug.appspot.com":"http://www.snapengage.com") + "/snapabug.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://snapabug.appspot.com/snapabug.js" type="text/javascript"></script><script type="text/javascript">
-SnapABug.addButton("c233c1de-8e62-4c23-9654-bca33c388a89","1","30%", true);
+          if (document.getElementById('map-canvas')) getMap("153A Promenade du Portage", "153A Promenade du Portage");
+
+          WebFont.load({
+            google: {
+              families: ['Lato:300,400,700']
+            }
+            });
 </script>
 
+  
+
+<!-- Smooth SVG font for webkit-browsers on Windows -->
+<style>
+        @media screen and (-webkit-min-device-pixel-ratio:0) {
+        @font-face {
+          font-family: 'FontAwesome';
+          src: url('http://betahushed.wpengine.netdna-cdn.com/wp-content/plugins/font-awesome/assets/font/fontawesome-webfont.svg') format('svg');
+        }
+
+        @font-face {
+            font-family: 'Lato';
+            src: url('http://betahushed.wpengine.netdna-cdn.com/wp-content/themes/PandoraBox/font/lato-regular.svg') format('svg');
+            font-weight: normal;
+            font-style: normal; 
+        }
+
+        @font-face {
+            font-family: 'Lato';
+            src: url('http://betahushed.wpengine.netdna-cdn.com/wp-content/themes/PandoraBox/font/lato-bold.svg') format('svg');
+            font-weight: 700;
+        }
+
+        @font-face {
+            font-family: 'Lato';
+            src: url('http://betahushed.wpengine.netdna-cdn.com/wp-content/themes/PandoraBox/font/lato-light.svg') format('svg');
+            font-weight: 300;
+        }
+      } 
+
+      body {
+          font-family: 'Lato';
+      }
+      .mainmenu{position: fixed;}</style>
+
+<script type="text/javascript">
+          if (document.getElementById('map-canvas')) getMap("153A Promenade du Portage", "153A Promenade du Portage");
+
+          WebFont.load({
+            google: {
+              families: ['Lato:300,400,700']
+            }
+            });
+</script>
+<script type="text/javascript" src="http://betahushed.wpengine.netdna-cdn.com/wp-content/themes/PandoraBox/js/script.js?ver=1.0"></script>
+<script type="text/javascript" src="http://betahushed.wpengine.netdna-cdn.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.45.0-2013.10.17"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/hushed.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://betahushed.wpengine.netdna-cdn.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.5.4"></script>
+<script type="text/javascript" src="http://betahushed.wpengine.netdna-cdn.com/wp-content/plugins/pandora-slider/js/pandora-slider.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://betahushed.wpengine.netdna-cdn.com/wp-content/plugins/social-sharing-toolkit/script_2.1.2.js?ver=3.9.1"></script>
+<script type="text/javascript" src="//connect.facebook.net/en_US/all.js?ver=3.9.1#xfbml=1&amp;appId=188707654478"></script>
+<script type="text/javascript" src="http://betahushed.wpengine.netdna-cdn.com/wp-content/plugins/social-sharing-toolkit/includes/buttons/button.googleplus.js?ver=3.9.1"></script>
+<script type="text/javascript" src="https://platform.twitter.com/widgets.js?ver=3.9.1"></script>
 
 </body></html>
