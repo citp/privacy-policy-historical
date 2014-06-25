@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ocz.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127212835id_/http%3A//ocz.com/consumer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084921id_/http%3A//ocz.com/consumer/privacy-policy) for the most accurate reproduction.*
 
 # OCZ Website Privacy Policy
 
 ### Online Privacy and Security
 
-Your privacy on the Internet is important to us. That's why we at OCZ Technology believe in an active approach to safeguarding your privacy online. You can interact and remain assured that you are protected by confidentiality, security, and your individual right to change your mind. OCZ provides this Privacy Statement to inform you of our Privacy Policy and Practices, and of the choices you can make about the way your information is collected online, and how that information is used.
+Your privacy on the Internet is important to us. That's why we at OCZ Storage Solutions believe in an active approach to safeguarding your privacy online. You can interact and remain assured that you are protected by confidentiality, security, and your individual right to change your mind. OCZ provides this Privacy Statement to inform you of our Privacy Policy and Practices, and of the choices you can make about the way your information is collected online, and how that information is used.
 
 ### Confidentiality
 
@@ -34,7 +34,7 @@ We will not sell or exchange names or any other information about our online cus
 
 P3P-compliant browsers will evaluate this privacy policy's "compact policy" whenever it is used with a cookie. Compact policies are a form of a P3P policy which summarize what the privacy policy says about cookies. The actions they will take depend on what privacy level the user has selected in their browser (i.e., low, medium, medium-high or high). In addition, P3P-compliant browsers will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. 
 
-The Compact Policy of OCZ Technology is considered satisfactory according to the rules defined by the Platform for Privacy Preferences and Microsoft Internet Explorer 6 and later. IE6+ will accept cookies accompanied by this policy under the _High, Medium High, Medium, Low, and Accept All Cookies_ settings.
+The Compact Policy of OCZ Storage Solutions is considered satisfactory according to the rules defined by the Platform for Privacy Preferences and Microsoft Internet Explorer 6 and later. IE6+ will accept cookies accompanied by this policy under the _High, Medium High, Medium, Low, and Accept All Cookies_ settings.
 
 ### Email Links
 
