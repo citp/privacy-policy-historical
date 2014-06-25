@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inspxtrc.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805123708id_/http%3A//getcake.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspxtrc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625180317id_/http%3A//getcake.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CAKE
+# Privacy Policy | CAKE
 
 ##  Protecting Your Privacy
 
@@ -52,9 +52,11 @@ We may link to other websites with information gathering practices that differ f
 
 We may also offer contests, sweepstakes, or other promotions from time to time that are sponsored or co-sponsored by third parties. These third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstake or promotion. We have no control over how these third parties use this information; however, we will notify you whenever you fill out a form that will provide them access to such information.
 
-###  How Do I Stop Receiving Email From CAKE?
+###  CAKE Newsletter and Opt Out Procedure
 
-If you do not want to receive email from us, please use the unsubscribe option available on email communications, or by emailing us at [privacy@getCAKE.com](mailto:privacy@getCAKE.com), by calling us at 424-238-5976, or by writing to us at Customer Service, CAKE, Inc. 2244 W Coast Hwy Suite 250, Newport Beach, CA 92663. We will retain all such email opt-out requests for five years.
+The CAKE Newsletter is provided to customers and any other interested parties as a resource for information related to product upgrades, special announcements, and other company and industry news.  When you enter your email address on getCAKE.com you are agreeing to accept emails from us until you decide to opt out of the program.
+
+If you do not want to receive email from us, please use the unsubscribe option available on email communications, or by emailing us at [](mailto:privacy@getCAKE.com?subject=Privacy%20Policy%20Inquiry)[privacy@getCAKE.com](mailto:privacy@getCAKE.com), by calling us at 949-548-CAKE, or by writing to us at Customer Service, CAKE, Inc. 2244 W Coast Hwy Suite 250, Newport Beach, CA 92663. We will retain all such email opt-out requests for five years.
 
 ###  You agree not to use our website in order to:
 
