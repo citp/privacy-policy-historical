@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethanallen.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928072502id_/http%3A//www.ethanallen.com/footer-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethanallen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044342id_/http%3A//www.ethanallen.com/en_US/footer-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,13 +18,15 @@ We collect only the client information that is needed to administer our business
 
 This website collects personally identifiable information (such as name, address, telephone and fax numbers, e-mail address, credit card and purchase information, and possibly the identity of Ethan Allen Design Centers where you have shopped and of design consultants with whom you may have shopped) from visitors only when such information is voluntarily provided. That information is used to process your purchases and requests and to provide service. Information about your shopping cart choices, purchases, or requests for design assistance may be passed along to the closest Ethan Allen Design Center. Our retail network is made up of Design Centers run by independently owned and authorized Ethan Allen retailers and Design Centers owned and operated by Ethan Allen Global, Inc. Credit card and financing information also may be provided to credit card and consumer financing companies as is required to process applications and transactions.
 
-Information supplied to us is added to our client database. We make portions of our web and phone order client list available to carefully chosen companies. If you do not want your name made available this way, if you’ve moved, or if you would prefer not to receive our catalogs, call 1-888-EA-HELP1 (1-888-324-3571) and then select option 1 to speak with a Client Services representative. If you no longer wish to receive our digital communications, please click on the unsubscribe link at the bottom of any of our emails.
+If you agree to associate your account with us with a social-networking site (e.g. facebook or twitter), we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site.
+
+Information supplied to us is added to our client database. We make portions of our web and phone order client list available to carefully chosen business partners to enhance the client experience. If you do not want your name made available this way, if you’ve moved, or if you would prefer not to receive our catalogs, please click on the removal from mailings link at the bottom of our website homepage under the “need help?” section. If you no longer wish to receive our digital communications, please click on the unsubscribe link at the bottom of any of our emails.
 
 Information further may be stored and used to better understand our clients, their needs, ways to improve our products and services, and to contact clients with offers that may be of interest to them. 
 
 ## What other information does ethanallen.com collect and how is it used?
 
-This website also may collect information from visitors that could include data about your operating system, domain name, browser, and even the specific web pages on our website that you access or visit. We collect information in the aggregate—on an anonymous basis—and may use it to evaluate the ease of use and convenience of our website and to make further improvements. 
+This website also may collect information from visitors that could include data about your operating system, domain name, browser, and even the specific web pages on our website that you access or visit. We collect information in the aggregate—on an anonymous basis—and may use it to evaluate the ease of use and convenience of our website and to make further improvements. We also allow third-party companies to serve ads and/or collect certain anonymous information when you visit this website. These companies may use non-personally identifiable information (e.g. subject of advertisements clicked or scrolled over, browser type, etc.) during your visit to this website. These companies typically use a cookie or third party web beacon to collect this information. You may opt-out by clicking in the appropriate place on the ad or by visiting the Network Advertising Initiative opt-out page, which can be found here: http://www.networkadvertising.org/choices/
 
 ## What is the privacy policy for children?
 
@@ -38,7 +40,7 @@ Most Internet browsers allow users to exercise control over such files on their 
 
 ## How may I stop the use of my personally identifiable information?
 
-Our website provides the information on how to be removed from mailing lists or to otherwise prevent the use in the future of your personally identifiable information. If you do not want your name made available this way, if you’ve moved, or if you would prefer not to receive our catalogs, call 1-888-EA-HELP1 (1-888-324-3571) and then select option 1 to speak with a Client Services representative. If you no longer wish to receive our digital communications, please click on the unsubscribe link at the bottom of any of our emails.
+Our website provides the information on how to be removed from mailing lists or to otherwise prevent the use in the future of your personally identifiable information. If you do not want your name made available this way, if you’ve moved, or if you would prefer not to receive our catalogs, please click on the removal from mailings link at the bottom of our website homepage under the “need help?” section. If you no longer wish to receive our digital communications, please click on the unsubscribe link at the bottom of any of our emails.
 
 ## Under what circumstances is personal information turned over to law enforcement agencies?
 
