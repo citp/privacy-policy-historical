@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the nursingcrib.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111072833id_/http%3A//nursingcrib.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingcrib.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055446id_/http%3A//nursingcrib.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nursing Crib
-
-You are here: [Home](http://nursingcrib.com/) / Privacy Policy
-
-  
-
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site [Nursing Crib](http://nursingcrib.com/). The following discloses the information gathering and dissemination practices for this Web site.
 
