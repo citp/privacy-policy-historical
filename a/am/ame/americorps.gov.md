@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227170219id_/http%3A//www.nationalservice.gov/site-policy-and-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071853id_/http%3A//www.nationalservice.gov/site-policy-and-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Corporation for National and Community Service
 
