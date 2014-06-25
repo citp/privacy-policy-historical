@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231054339id_/http%3A//nypost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625220825id_/http%3A//nypost.com/privacy) for the most accurate reproduction.*
 
 # Privacy | New York Post
 
@@ -6,7 +6,7 @@ _Updated June 28, 2013_
 
 ### 1\. Introduction
 
-New York Post (“NYP” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “NYP Services”). By using the NYP Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“NYP Affiliates”) is available at [newscorp.com](http://www.newscorp.com/about/).
+New York Post (“NYP” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “NYP Services”). By using the NYP Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“NYP Affiliates”) is available at [newscorp.com](http://newscorp.com/about/our-businesses/).
 
 As set forth in our [Terms of Use](http://nypost.com/terms), the NYP Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
