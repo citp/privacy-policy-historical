@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sharebloc.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923203707id_/http%3A//www.sharebloc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharebloc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080029id_/http%3A//www.sharebloc.com/privacy) for the most accurate reproduction.*
 
-# ShareBloc - Find better vendors, faster
+# ShareBloc - A community for professionals
 
 Effective September 21, 2012
 
