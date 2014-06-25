@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yplanapp.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827205729id_/http%3A//yplanapp.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yplanapp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050627id_/https%3A//yplanapp.com/page/privacy) for the most accurate reproduction.*
 
 # YPlan | Tonight's going out app
 
@@ -66,7 +66,7 @@ For more information about how we use cookies and other tracking devices, please
 
 We may disclose aggregate statistics about visitors to the App, customers and sales in order to describe our services to prospective partners, advertisers, potential merchants and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifiable information.
 
-We may disclose your personal information to any of our affiliates, or to our agents or contractors who assist us in providing the services we offer through the App, processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analysing data, providing support services or in other tasks, from time to time. Our agents and contractors will only use your information to the extent necessary to perform their functions.
+We may disclose your personal information to any of our affiliates, merchants, or to our agents or contractors who assist us in providing the services we offer through the App, processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analysing data, providing support services or in other tasks, from time to time. Our agents and contractors will only use your information to the extent necessary to perform their functions.
 
 In the event that we undergo re-organisation or are sold to a third party, you agree that any personal information we hold about you may be transferred to that re-organised entity or third party.
 
@@ -88,7 +88,7 @@ Payment details you provide will be encrypted using industry standard 128 bit se
 
 We may send you information we think you may find useful or which you have requested from us by push notification and/or (if you provide us with your e-mail address) by e-mail, including information about the latest or upcoming events featured on the App, provided you have indicated that you do not object to being contacted for these purposes and we will always give you the option to opt-out of receiving further e-mails or push notifications by following the unsubscribe instructions on any communications sent to you.
 
-Additionally we may allow, if you consent by opting-in to receive such information and offers, carefully selected third parties to send you information directly which you may find useful regarding their products and services.
+Additionally we may allow our merchants, and if you consent by opting-in to receive such information and offers, other carefully selected third parties, to send you information directly which you may find useful regarding their products and services.
 
 You can tell us not to contact you with information regarding the products or services of third parties, or to share your details with third parties so that they can directly send you information regarding their products and services, either at the point such information is collected on the App (by checking the relevant box), or where you do not wish us to continue to use your information in this way by following the unsubscribe instructions on any communications sent to you.
 
@@ -138,10 +138,11 @@ Please also look at our privacy policy which gives details about how we use any 
 
 ### Contacting us
 
-Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to [privacy@yplanapp.com](mailto:privacy@yplanapp.com), by telephone on +1-917-768-7287 between the hours of 9am to 5pm, Monday to Friday or write to us at:
+Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to [privacy@yplanapp.com](mailto:privacy@yplanapp.com), or write to us at:
 
 **YPlan**  
-222 Broadway  
-New York, NY  
-10007  
-[ T: +1-917-768-7287 ](tel:+19177687287)
+27 West 24th Street  
+Suite 901  
+New York  
+NY 10010  
+T: (800) 280-3554 
