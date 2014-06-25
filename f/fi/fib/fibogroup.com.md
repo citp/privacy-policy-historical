@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fibogroup.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129160632id_/http%3A//fibogroup.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fibogroup.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093113id_/http%3A//fibogroup.com/privacy_policy.html) for the most accurate reproduction.*
 
 # FIBO Group Privacy Policy
 
@@ -44,7 +44,7 @@ Client has right to disclose his/ her own personal information in any legitimate
 
 ## Collection, storage, protection and use of personal data of Clients
 
-### Collection 
+### Collection
 
 The following refers to personal data of Clients:
 
@@ -104,3 +104,11 @@ This Privacy Policy is an open document for general use. The current edition is 
 FIBO Group reserves the right to change the Privacy Policy, notifying about any changes on the webpage situated at the above address. Date of the current edition would be indicated at the top of the page. Changes that are made in this Privacy Policy will be published on this page. In the case of significant changes to the Policy, we will notify you in more evident way (eg. by sending a newsletter via e-mail).
 
 Please send your comments on this Privacy Policy, to the e-mail addresses shown under the "Contacts" Section on the FIBO Group internet resources.
+
+## Special Notice
+
+This website uses Google Analytics, a web analysis service of Google Inc. («Google»). Google Analytics uses so-called «Cookies», text files that are stored in your computer which allow them to make an analysis of your use of the website. The cookies created with information about your use of this website are usually transferred to a Google server in the U.S. and it is stored there. Google uses this information on the instructions of the owner of the web site to analyze your preferences, compiling reports on activities related to the website as well as update other services related of the website and Internet.
+
+The IP - address transmitted by your browser within Google Analytics is not merged with other data of Google. You can prevent the saving of Cookies configuring software on your browser. However we should warn you that in this case you may not be able to use the full functionality of this website. In addition, you can prevent data registration at Google, created by Cookies and related to the use of the website (including your IP- address) as well as the processing of the data by Google, if you download and install an integrated browser module in the link below:
+
+<https://tools.google.com/dlpage/gaoptout?hl=en>
