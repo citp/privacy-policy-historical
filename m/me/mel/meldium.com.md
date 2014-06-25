@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the meldium.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511100523id_/https%3A//www.meldium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meldium.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085634id_/https%3A//www.meldium.com/privacy) for the most accurate reproduction.*
 
-# Meldium
+# Meldium | Team Password Manager, Cloud Identity & Access Management
 
-**Effective as of Feb 5, 2013. Please review our privacy policy below.**
+## Privacy Policy
 
 Meldium takes privacy seriously. Below is how we collect, use, communicate and disclose and make use of personal data when you visit Meldium.com and the service Meldium. 
 
