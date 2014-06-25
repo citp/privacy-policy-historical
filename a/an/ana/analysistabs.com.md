@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the analysistabs.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203063619id_/http%3A//analysistabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analysistabs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062546id_/http%3A//analysistabs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - analysistabs.com - Innovating Awesome Tools for Data Analysis!
+# Privacy Policy - ANALYSISTABS - Innovating Awesome Tools for Data Analysis!
 
 Privacy of our visitors is extremely importance to us. This page outlines the Privacy Policy and types of personal information collected on this website and how it is used.
 
@@ -8,8 +8,7 @@ Privacy of our visitors is extremely importance to us. This page outlines the Pr
 
 #### We may collect the following information:
 
-If you register to our site or subscribe to my RSS Feeds or Email Updates (powered by Feedburner),  
-We ask for contact information such as name and email address. You may opt-out of these communications at any time. Your personal information will never be sold or given to a third party.
+If you register to our site or subscribe to my RSS Feeds or Email Updates (powered by Feedburner), we ask for contact information such as name and email address. You may opt-out of these communications at any time. Your personal information will never be sold or given to a third party.
 
 This site does not collect any data from visitors, other than standard server logs. The information inside the log files includes type of browser, Internet Protocol (IP) addresses, Internet Service Provider (ISP), Date – time stamp, Referring/exit pages, and number of clicks to analyse trends, administer the site, track visitor’s movement around the site, and gather demographic information.
 
