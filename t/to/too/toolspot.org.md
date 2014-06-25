@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the toolspot.org privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111183201id_/http%3A//toolspot.org/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolspot.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054816id_/http%3A//99webtools.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which ToolSpot collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://toolspot.org](http://toolspot.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by ToolSpot.
+This Privacy Policy governs the manner in which 99webtools collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://99webtools.com](http://99webtools.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by 99webtools.
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-ToolSpot may collect and use Users personal information for the following purposes:
+99webtools may collect and use Users personal information for the following purposes:
 
   * _\- To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -51,7 +51,7 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 **Changes to this privacy policy**
 
-ToolSpot has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+99webtools has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
