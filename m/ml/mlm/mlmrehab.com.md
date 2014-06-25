@@ -1,18 +1,21 @@
-> *The following text is extracted and transformed from the mlmrehab.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210060153id_/http%3A//mlmrehab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmrehab.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102159id_/http%3A//mlmrehab.com/privacy-policy) for the most accurate reproduction.*
 
 # MLMRehab | Privacy Policy - MLM Rehab
 
-Thank you for reviewing K2 Global Marketing’s privacy policy. This site is owned and operated by K2 Global Marketing Inc., a South Carolina Corporation (Hereinafter referred to as “K2 Global”, “We”, “Our” or “Us”).
+  *   *   * 
 
-##### What information does K2 Global collect from our users and how do we collect it?
 
-K2 Global only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. K2 Global collects personally identifying information from our users during online registration and online purchasing.
+Thank you for reviewing K2 Collective Inc.’s privacy policy. This site is owned and operated by K2 Collective Inc., a South Carolina Corporation (Hereinafter referred to as “K2 Collective”, “We”, “Our” or “Us”).
+
+##### What information does K2 Collective collect from our users and how do we collect it?
+
+K2 Collective only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. K2 Collective collects personally identifying information from our users during online registration and online purchasing.
 
 Generally, this information includes, name, phone number and e-mail address for registration to receive free newsletters and name, postal address and credit card information when purchasing our products. All of this information is provided to us by you.
 
 ##### How do we use this information?
 
-This information is used for internal marketing purposes only. K2 Global does not sell, exchange, or release your personal information (name, e-mail, phone, mailing address, credit data, etc.). Your information is not shared with any other third party or company outside of billing and shipping purposes.
+This information is used for internal marketing purposes only. K2 Collective does not sell, exchange, or release your personal information (name, e-mail, phone, mailing address, credit data, etc.). Your information is not shared with any other third party or company outside of billing and shipping purposes.
 
 ##### What are cookies and how do we use them?
 
@@ -20,9 +23,9 @@ Cookies help track a person’s “session” while online. By showing how and w
 
 ##### How do we store your information and how can you unsubscribe?
 
-Your information is stored at the list server that delivers K2 Global newsletters and updates. Your information is stored at the list server that delivers K2 Global newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive K2 Global’s newsletters.
+Your information is stored at the list server that delivers K2 Collective newsletters and updates. Your information is stored at the list server that delivers K2 Collective newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive K2 Collective’s newsletters.
 
-All of the newsletters that are sent to you by K2 Global include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact us at support (@) mlmrehab.com to change your information or to stop receiving direct communications from us at any time.
+All of the newsletters that are sent to you by K2 Collective include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact us at support (@) k2collective.com to change your information or to stop receiving direct communications from us at any time.
 
 ##### Buy Backs/Guarantees:
 
@@ -44,10 +47,10 @@ This policy was revised on February 22nd, 2013.
 
 ##### DISCLAIMER:
 
-THIS POLICY MAY BE CHANGED AT ANY TIME AT K2 GLOBAL’S DISCRETION. IF WE SHOULD UPDATE THIS POLICY, WE WILL POST THE UPDATES TO THIS PAGE ON OUR WEBSITE. THIS POLICY WAS REVISED ON FEBRUARY 22ND 2013
+THIS POLICY MAY BE CHANGED AT ANY TIME AT K2 Collective’S DISCRETION. IF WE SHOULD UPDATE THIS POLICY, WE WILL POST THE UPDATES TO THIS PAGE ON OUR WEBSITE. THIS POLICY WAS REVISED ON FEBRUARY 22ND 2013.
 
-IF YOU HAVE ANY QUESTIONS OR CONCERNS REGARDING OUR PRIVACY POLICY PLEASE DIRECT THEM TO SUPPORT (@) MLMREHAB.COM OR CALL 641-715-3900 Ext. 62058#
+IF YOU HAVE ANY QUESTIONS OR CONCERNS REGARDING OUR PRIVACY POLICY PLEASE DIRECT THEM TO SUPPORT (@) K2COLLECTIVE.COM OR CALL 877.556.8293
 
-K2 GLOBAL MARKETING INC.  
+K2 Collective Inc.  
 1000 PALM BOULEVARD, SUITE 1162  
 ISLE OF PALMS, SC. 29451 USA
