@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jualbeliforum.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621054845id_/http%3A//www.jualbeliforum.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jualbeliforum.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625143301id_/http%3A//jualbeliforum.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,4 +42,4 @@ No.
 **Do you sell my information to anyone?**  
 No. 
 
-All times are GMT +7. The time now is 12:48 PM.
+All times are GMT +7. The time now is 09:33 PM.
