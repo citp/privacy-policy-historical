@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obout.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123190859id_/http%3A//www.obout.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obout.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083000id_/http%3A//www.obout.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # OBOUT - Privacy Statement
 
