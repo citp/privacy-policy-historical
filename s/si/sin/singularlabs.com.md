@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the singularlabs.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224154754id_/http%3A//singularlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singularlabs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141916id_/http%3A//singularlabs.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - SingularLabs
-
-## Privacy
+# Privacy - SingularLabs
 
 SingularLabs, its products and associated websites vehemently defends the privacy of all its users. We want everybody to feel safe using our site(s). This policy will clarify the use of any identifiable information gathered by this website.
 
