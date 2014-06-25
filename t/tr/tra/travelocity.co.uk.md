@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelocity.co.uk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502224918id_/http%3A//trips.travelocity.co.uk/lmn/lmnimage/whitelabel/en_GB/travelo/site/nav/security.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelocity.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112129id_/http%3A//trips.travelocity.co.uk/lmn/lmnimage/whitelabel/en_GB/travelo/site/nav/security.html%23privacy) for the most accurate reproduction.*
 
 # travelocity.co.uk - security
 
