@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christies.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231074338id_/http%3A//www.christies.com/about-us/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christies.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625214323id_/http%3A//www.christies.com/about-us/contact/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 私隐政策
 
 **2012**
 
