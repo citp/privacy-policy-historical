@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admanage.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025005231id_/http%3A//admanage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admanage.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100217id_/http%3A//admanage.com/privacy) for the most accurate reproduction.*
 
 # Pay Per Click, Keyword Targeted CPC Text Banner & XML Search Feeds Affiliate Privacy Policy
 
@@ -10,9 +10,11 @@ When you submit information to AdManage to make a payment or open an account, we
 
 ## Web Site Usage Information
 
-We automatically collect IP addresses and Web site usage information from you when you access any of our online services. This information helps us evaluate how our visitors and subscribers use and navigate our Web sites on an aggregate basis, including but not limited to the number and frequency of visitors and subscribers to each web page, and the length of their visits. How We Use Information Collected
+We automatically collect IP addresses and Web site usage information from you when you access any of our online services. This information helps us evaluate how our visitors and subscribers use and navigate our Web sites on an aggregate basis, including but not limited to the number and frequency of visitors and subscribers to each web page, and the length of their visits.
 
-## We may use information in the following ways:
+## How We Use Information Collected
+
+**We may use information in the following ways:**
 
   * For the purposes you specifically provided the information including, for example, enabling us to process, validate and verify purchases.
   * To register you as a client and establish an account for you.
@@ -33,6 +35,12 @@ We define a cookie as any string of data that is automatically stored on your co
 ## Security
 
 The personally identifiable information we collect about you is stored in limited access servers. We maintain safeguards to protect the security of these servers and your personally identifiable information. We retain personally identifiable information only as long as necessary to complete a purchase, thwart fraud, provide customer service, or maintain your account with us.
+
+## In Partnership with AppNexus
+
+Admanage has partnered with AppNexus for the purposes of display ad serving, as well as an exchange to buy and sell traffic within. Please note that with regards to purchasing or selling display traffic, the AppNexus Privacy Policy, in addition to the Admanage Privacy Policy will apply.
+
+[Click here](http://appnexus.com/platform-policy) to review the AppNexus Privacy Policy.
 
 ## Policy Modifications
 
