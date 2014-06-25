@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hbcuconnect.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225103444id_/http%3A//www.hbcuconnect.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbcuconnect.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072530id_/http%3A//hbcuconnect.com/privacy.shtml) for the most accurate reproduction.*
 
 # 
 
@@ -42,4 +42,4 @@ HBCU Privacy Inquiry
 750-Q Cross Pointe Rd. Columbus, Ohio 43230  
 
 
-Email: [THE STAFF](http://club.hbcuconnect.com/cgi-bin/contactUs.cgi)
+Email: [THE STAFF](http://hbcuconnect.com/cgi-bin/contactUs.cgi)
