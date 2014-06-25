@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the influxis.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915195422id_/http%3A//influxis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influxis.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125304id_/http%3A//influxis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | InfluxisInfluxis
+# Privacy Policy - Influxis
 
 Influxis respects the privacy of every individual who visits our websites. This privacy statement provides notice of the standards and terms under which Influxis protects the privacy of information supplied by visitors to websites that are owned and operated by Influxis, including labs.influxis.com and forums.influxis.com. This privacy statement provides notice of our information collection practices and of the ways in which your information may be used. This policy may change from time to time, and will be noted in the date below. Please check back periodically to review this information.
 
