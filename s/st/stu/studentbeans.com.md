@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the studentbeans.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025145717id_/http%3A//www.studentbeans.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentbeans.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135338id_/http%3A//www.studentbeans.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | studentbeans.com
 
-We take the privacy and security of your details very seriously, and these are the ways we will look after your information. 
+We take the privacy and security of your details very seriously, and these are the ways we will look after your information.
 
-This privacy policy sets out how studentbeans.com uses and protects any information that you give studentbeans.com when you use this website. studentbeans.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. studentbeans.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 25th May 2011.
+This privacy policy sets out how Student Beans uses and protects any information that you give Student Beans when you use our websites and mobile applications (our services). Student Beans is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using our services, then you can be assured that it will only be used in accordance with this privacy statement. Student Beans may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 25th May 2011.
 
-studentbeans.com is a free site but it costs a lot of money to run. In order to give you free use of the site and our exclusive offers, studentbeans.com may occasionally send you newsletters that we think you'll find interesting.
+Student Beans provides a number of free services which it costs a lot of money to run. In order to give you free use of our services and our exclusive offers, Student Beans may occasionally send you newsletters that we think you'll find interesting.
 
 ## What we collect
 
@@ -23,7 +23,7 @@ We require this information to understand your needs and provide you with a bett
   * We may use the information to improve our products and services.
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email or phone.
-  * We may use the information to customise the website according to your interests.
+  * We may use the information to customise our services according to your interests.
 
 
 
@@ -45,15 +45,15 @@ We use ‘implied consent’ and assume that by using our site you accept our us
 
 ## A special word on childrens' privacy
 
-This site, its promotions and its third party associations are intended only for UK university and college students over the age of 16.
+Our services, associated promotions and third party associations are intended only for UK university and college students over the age of 16.
 
-studentbeans.com also strongly encourages users under the age of 16 to obtain consent from a parent or legal guardian before entering any personal information into the studentbeans.com system.
+Student Beans also strongly encourages users under the age of 16 to obtain consent from a parent or legal guardian before entering any personal information into the Student Beans system.
 
 ## Controlling your personal information
 
-You can change, modify or delete information previously provided by logging into studentbeans.com and visiting the appropriate page or by sending an email to privacy at studentbeans.com. You may also deactivate your account and delete your information from the studentbeans.com database by sending an email to privacy at studentbeans.com. The message must include your username, full name, address and contact information in order to allow studentbeans.com to verify the user’s identity. It is important to note, however, that once you have shared your information with another studentbeans.com user or any third party, studentbeans.com cannot recover that information, even if you later decide to deactivate your studentbeans.com account.
+You can change, modify or delete information previously provided by logging into studentbeans.com and visiting the appropriate page or by sending an email to privacy at studentbeans.com. You may also deactivate your account and delete your information from the studentbeans.com database by sending an email to privacy at studentbeans.com. The message must include your username, full name, address and contact information in order to allow Student Beans to verify the user’s identity. It is important to note, however, that once you have shared your information with another Student Beans user or any third party, Student Beans cannot recover that information, even if you later decide to deactivate your Student Beans account.
 
-studentbeans.com will also send occasional emails to registered users notifying them of new programmes, special offers and new features on our web site. studentbeans.com may also send emails to inform users if another registered user responds to a comment or submission made by that user on studentbeans.com. A user may opt-out of receiving these mailings by doing one of the following steps: At the bottom of each e-mail you receive from studentbeans.com, you will find an “unsubscribe” link. Click on this link and you will be taken to a page where you will be able to unsubscribe from all future studentbeans.com e-mails. Alternatively e-mail privacy at studentbeans.com and request to be taken off the studentbeans.com mailing list.
+Student Beans will also send occasional emails to registered users notifying them of new programmes, special offers and new features on our web site. Student Beans may also send emails to inform users if another registered user responds to a comment or submission made by that user on Student Beans. A user may opt-out of receiving these mailings by doing one of the following steps: In every e-mail you receive from Student Beans, you will find an “unsubscribe” link. Click on this link and you will be taken to a page where you will be able to unsubscribe from all future Student Beans e-mails. Alternatively e-mail privacy at studentbeans.com and request to be taken off the Student Beans mailing list.
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting.
 
