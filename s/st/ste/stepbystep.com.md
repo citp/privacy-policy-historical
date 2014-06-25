@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stepbystep.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206002206id_/http%3A//www.stepbystep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepbystep.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625225634id_/http%3A//www.stepbystep.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
 At StepByStep.com we are strongly committed to protect your privacy in order to provide you safe online experience. This Privacy Policy discusses the types of information we collect from our users. If you’re not comfortable with our Privacy Policy, please do not provide us with information discussed below or otherwise use the Site.
 
