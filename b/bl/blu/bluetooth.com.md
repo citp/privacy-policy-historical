@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bluetooth.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512001256id_/http%3A//www.bluetooth.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetooth.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053942id_/http%3A//www.bluetooth.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Bluetooth Technology Website
-
-## Committed to Privacy
 
 Bluetooth SIG is committed to user privacy in our products and services. This policy outlines our personal information-handling practices. Any contact information provided to us will be handled in accordance with this policy.
 
@@ -10,15 +8,15 @@ This policy covers the Bluetooth SIG individual website.
 
 Bluetooth SIG encourages you to read this privacy policy and those of all websites you visit.
 
-### Use of Personal Information
+## Use of Personal Information
 
 Bluetooth SIG continually strives to protect the information you share with us. Access to personal member information is limited to specific individuals, employees, and agents of Bluetooth SIG. Bluetooth SIG will not sell or rent your personal information to third parties. Bluetooth SIG may disclose personal information to third parties to complete a transaction you have requested, as part of the terms and conditions for a particular service, or when we otherwise have your consent to do so. 
 
-### Linked Websites
+## Linked Websites
 
 Bluetooth SIG provides links to third party sites. Since Bluetooth SIG does not control these websites, we encourage you to review the privacy policies posted on these (and all) third party sites.
 
-### Cookies
+## Cookies
 
 The Bluetooth SIG website uses cookies. Cookies help provide a better user experience by measuring which website areas are of greatest interest. Bluetooth SIG also uses cookies when an individual registers for a web application. In this situation, a cookie stores useful information that enables the website to remember that individual user. Bluetooth SIG can only access cookies from the websites it controls.
 
