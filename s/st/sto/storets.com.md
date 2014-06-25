@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storets.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212083210id_/http%3A//storets.com/front/php/privacy_agree.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storets.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050727id_/http%3A//www.storets.com/front/php/privacy_agree.php) for the most accurate reproduction.*
 
 # Heart ♥ storets! The latest fashion in a snap. The ultimate fashion destination to fashionistas. We set the trend in fashion.
 
