@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racecaller.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230190237id_/http%3A//racecaller.com/social-horse-racing-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racecaller.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072211id_/http%3A//racecaller.com/social-horse-racing-privacy-policy) for the most accurate reproduction.*
 
 # Racecaller Social Horse Racing Privacy Policy
 
@@ -6,7 +6,7 @@
 
 PLEASE REVIEW THE FOLLOWING NOTICE PRIOR TO SUBMITTING ANY PERSONAL INFORMATION TO THIS WEBSITE.
 
-Horses Mouth Ltd processes personal information submitted by you on this website ("Website") in accordance with all applicable data protection and privacy laws. This privacy statement is to be read in conjunction with the Website [Terms and Conditions of Use](https://web.archive.org/web/20131230190237id_/terms-and-conditions). Where you decide to register on this Website we will use the personal information or data that you provide in the following manner:
+Horses Mouth Ltd processes personal information submitted by you on this website ("Website") in accordance with all applicable data protection and privacy laws. This privacy statement is to be read in conjunction with the Website [Terms and Conditions of Use](https://web.archive.org/web/20140625072211id_/terms-and-conditions). Where you decide to register on this Website we will use the personal information or data that you provide in the following manner:
 
   * for the purposes of processing of setting up and maintaining your account;
   * running competitions;
