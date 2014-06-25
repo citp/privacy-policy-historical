@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021182751id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100237id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
 
 # MindField - What's on Your Mind?
 
 ### Privacy Policy
 
-**Effective On 7/25/2012**
+**Effective On 05/14/2014**
 
 [](http://privacy.truste.com/privacy-seal/McMillion-Research/validation?rid=87f85496-31a7-4fa3-929d-7d37d683945d "TRUSTe online privacy certification")
 
-McMillion Research has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [http://mindfieldonline.com]().
+McMillion Research has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [http://mindfieldonline.com]().
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
@@ -28,7 +28,7 @@ Charleston, WV 25301
 
 *** Please note in any correspondence that the inquiry is in regard to the** [Privacy Policy](http://mindfieldonline.com/page/privacy)
 
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
+If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request)
 
 ## Information Collection and Use
 
@@ -68,7 +68,7 @@ Generally, you may not opt-out of these communications, which are not promotiona
 
 **Customer Service**
 
-Based on the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
+Based on the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email, telephone or text, in accordance with your wishes.
 
 ## Information Sharing and Disclosure
 
@@ -94,7 +94,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 We provide you the opportunity to opt-out of having your personally identifiable information used for certain purposes, when we ask for this information.
 
-If you no longer wish to participate in our surveys and receive survey invitations, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@mindfieldonline.com](mailto:support@mindfieldonline.com).
+If you no longer wish to participate in our surveys and receive survey invitations, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [helpdesk@mindfieldonline.com](mailto:helpdesk@mindfieldonline.com).
 
 ## Log Files
 
@@ -104,11 +104,15 @@ We use this information, which does not identify individual users, to analyze tr
 
 We may need to link this automatically collected data to personally identifiable information for purposes such as investigating cases of fraud or misuse of the website.
 
+The use of cookies by our affiliates is not covered by our privacy policy. We do not have access or control over these cookies. Our affiliates use session ID and persistent cookies to make it easier for you to navigate our site 
+
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers' or Users' personally identifiable information.
+
 ## Cookies
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We currently use cookies on this site. We also may in the future link the information we store in cookies to any personally identifiable information you submit while on our site.
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We currently use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-We currently use session ID cookies only. We use session cookies to make it easier for you to navigate our site and maintain your session so you don't have to login repeatedly. A session ID cookie expires when you close your browser.
+We currently use session ID cookies only. We use session cookies to make it easier for you to navigate our site and maintain your session so you don't have to login repeatedly. A session ID cookie expires when you close your browser. We also use persistent cookies. A persistent cookie remains on your hard drive for an extended period of time. We use these to help us in tracking which studies you have participated in. You can remove persistent cookies by following directions provided in your Internet browser's "help" directory. For more information about cookies, and how they are used can be found here: <http://www.microsoft.com/info/cookies.mspx>
 
 ## Social Media Widgets
 
@@ -122,13 +126,15 @@ We encourage you to be aware when you leave our site and to read the privacy pol
 
 This privacy policy applies only to information collected by this Website.
 
+We may share your personal information and/or social-demographic information, including, without limitation, a unique identification number ("UID"), zipcode/postal code, date of birth, gender, marital status, education, ethnicity/race (where permitted by applicable law), employment related information, and non-personally identifiable information on household members, with third party sample/market research companies (individually each a "Third Party MR Company" and collectively the "Third Party MR Companies") for the purpose of identifying survey opportunities that you may be eligible for through the Third Party MR Companies. If you are eligible for a survey opportunity, the Third Party MR Company will provide your unique identification number and a survey link to us and we will invite you to participate in the survey. We will not share your name, email address, or phone number with the Third Party MR Companies. If you have any questions about this data sharing or want to opt-out of the data sharing please contact us at [helpdesk@mindfieldonline.com](mailto:helpdesk@mindfieldonline.com). Your participation in such survey opportunities does not entitle you to any benefits offered by or membership with the Third Party MR Companies.
+
 ## Co-branded sites
 
 Co-branding is the method of having a user connect with a different website but make it appear to be the same site. In certain circumstance our clients may prefer to host the questionnaires themselves. If this is the case, the questionnaires may appear to be from [http://mindfieldonline.com](). Information provided to the clients is outlined in the Information Sharing and Disclosure section.
 
 ## Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at [support@mindfieldonline.com](mailto:support@mindfieldonline.com) or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at [helpdesk@mindfieldonline.com](mailto:helpdesk@mindfieldonline.com) or by contacting us by telephone or postal mail at the contact information listed below.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements
 
@@ -146,7 +152,7 @@ In the event McMillion Research goes through a business transition, such as a me
 
 If we decide to change our privacy policy, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of the information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
 
 ## Contact Us 
 
