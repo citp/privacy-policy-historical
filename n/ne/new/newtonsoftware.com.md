@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the newtonsoftware.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805203731id_/http%3A//newtonsoftware.com/gravity-app-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtonsoftware.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095534id_/http%3A//newtonsoftware.com/gravity-app-privacy-policy) for the most accurate reproduction.*
 
 # Gravity App Privacy Policy - Newton Software
 
-  |   |    
+ |  |    
 ---|---|---  
-  |   |    
-  | 
+ |  |    
+ | 
 
 ### Newton’s Gravity App Privacy Policy
 
 |    
-  | 
+ | 
 
 ### Overview
 
@@ -19,14 +19,14 @@ We are Gravity Technologies, Inc., a California corporation, doing business as N
 Newton respects your privacy and as a part of Newton’s mission to provide you effective Application services, Newton collects, stores and discloses information you provide on the Application under specific conditions. Your Personal Information (as defined in Section 2.1) is private and confidential, and subject to this Newton Gravity Privacy Policy (the “Policy”), meaning that such information will not be collected, stored or disclosed unless permitted under this Policy. This Policy describes what information Newton collects, how it is used and secured, and when and to whom it may be disclosed. Please take a few minutes to review this Policy.
 
 |    
-  | 
+ | 
 
 ### 1\. Consent
 
 Your use of the Application is deemed to be your waiver and consent to this Policy and providing Newton and designated third-parties under this Agreement the right to collect, use and disclose your Personal Information (as defined in Section 2.1) subject to the terms and conditions of this Policy. If you do not consent to the terms and conditions of this Policy, you should not use the Application.
 
 |    
-  | 
+ | 
 
 ### 2\. Personal Information
 
@@ -39,7 +39,7 @@ Newton and designated third-parties under this Policy may collect, store and dis
 Newton requires that you only submit information on the Application that is up-to-date and accurate, and that you inform Newton of any changes to such information. You must also assure that such information, whether provided on behalf of yourself or others, is correct and that you have the full authority and right to submit such information to the Application.
 
 |    
-  | 
+ | 
 
 ### 3\. Cookies
 
@@ -59,7 +59,7 @@ If you apply for a job opening that has been shared through the Application, New
 If you do not wish to have cookies on your devices, you may turn them off at anytime by modifying your Internet browser’s settings. However, by disabling cookies on your device, you may be prohibited from full use of Application’s features.
 
 |    
-  | 
+ | 
 
 ### 4\. Personal Profiles
 
@@ -83,14 +83,14 @@ When you post a job opening on the Application, Newton will request your permiss
 Newton may ask you to vouch for people that have applied to job openings you have shared on the Application. Your employer’s Human Resources team will be responsible for determining who is allowed to view your responses to such vouching requests.
 
 |    
-  | 
+ | 
 
 ### 5\. Use of Personal Information
 
 Newton uses your Personal Information to: (a) offer the Application’s services or conduct Newton’s business operations; (b) resolve disputes, or troubleshoot problems related to any services or products offered or provided through the Application; (c) encourage safe interactions between Application users; (d) enforce this Policy and others agreements associated with the Application or Website; (e) customize, measure and improve the Application and Website’s user experience; (f) contact you regarding the Application or your inquiries pertaining to the same; and (g) perform other related services for you as described in this Policy.
 
 |    
-  | 
+ | 
 
 ### 6\. Disclosure of Personal Information
 
@@ -106,50 +106,50 @@ Newton may disclose your Personal Information: (a) upon your consent; (b) to com
 Newton may disclose your Personal Information to: (a) government officials; (b) corporate affiliates; (c) service providers; (d) your employer solely in regards to the existence of your Application account, information on job openings you share using the Application, your Application account point totals and vouching recommendations pursuant to _Section 4.4_ ; and (e) parties to whom you permit disclosure, including, without limitation, social network websites.
 
 |    
-  | 
+ | 
 
 ### 7\. Security and Storage of Your Personal Information
 
 The security of your Personal Information is important to Newton. With the exception of Personal Profile login information stored by Janrain, as detailed under _Section 4.1_ , your Personal Information may be stored locally on your device and may be transmitted to servers owned, leased or utilized by Newton in the United States. Newton will only keep your Personal Information for as long as is either required to by law or as is relevant for the purposes for which it is collected. Newton employs generally accepted industry standards to protect your Personal Information. However, as the transmission of information over wireless and wired networks cannot be absolutely secure, Newton does not warrant or guarantee that your Personal Information will remain permanently secure.
 
 |    
-  | 
+ | 
 
 ### 8\. Third-Party Websites
 
 The Application may contain links to third-party websites that are not owned or controlled by Newton. Newton has no control over, and assumes no responsibility for, any share functionality, content, privacy policies or practices of any third-party website. When using such third-parties websites, you are subject to the terms and policies of those third-parties when and where applicable. By using the Application, you expressly relieve Newton from any and all liability arising from any share functionality or your use of any third-party website accessed from the Application. Newton encourages you to ask questions before you disclose your personal information to any third-party website or service provider.
 
 |    
-  | 
+ | 
 
 ### 9\. Children’s Use of the Application
 
 Newton wants to help guard children’s privacy. Newton encourages parents and guardians to talk to their children about safe and responsible use of personal information on the Internet. The Application does not publish content that is targeted to children, and to ensure the Application’s compliance with the Children’s Online Privacy Protection Act, Newton does not collect any personal identifiable information from any Application user under 13 years of age.
 
 |    
-  | 
+ | 
 
 ### 10\. Changes to this Privacy Policy
 
 From time to time, Newton may update this Policy. Newton may post notifications of updates to this Policy on the Website or Application. Changes made to this Policy will take effect immediately. If you do not agree to changes to this Policy, you must discontinue your use of the Application. Your access or use of the Application after such Policy changes constitutes your acceptance of such Policy changes.
 
 |    
-  | 
+ | 
 
 ### 11\. Cancellation
 
 You may cancel your Application account at any time by logging in to the Application and clicking the “Cancel Account” link or by contacting [support@newtonsoftware.com](mailto:support@newtonsoftware.com).
 
 |    
-  | 
+ | 
 
 ### 12\. Contacting Us
 
 If you have questions regarding this Policy, please contact Newton by email at [support@newtonsoftware.com](mailto:support@newtonsoftware.com).
 
 |    
-  | 
+ | 
 
-© Copyright Newton Software, 2013. All rights reserved
+© Copyright Newton Software, 2014. All rights reserved
 
 |  
