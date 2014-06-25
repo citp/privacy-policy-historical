@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestyummyrecipes.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225022330id_/http%3A//www.bestyummyrecipes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestyummyrecipes.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013429id_/http%3A//www.bestyummyrecipes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Food Recipes
+# Privacy Policy – Best Yummy Recipes
 
 Privacy Policy for the Website http://www.bestyummyrecipes.com
 
@@ -25,5 +25,7 @@ Third Party Advertisements
 We may also use third party advertisements to support our website such as Google AdSense, Chitika, Clickbank, Kontera, Infolinks, LinkWords… Some of these advertisers may use cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes, for example showing London Restaurant ads to someone in London or showing relevant ads based on sites you have recently visited for example showing car ads to someone who visits car relevant websites.
 
 You can disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as commenting.
+
+ _We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:  [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)_
 
 End of Privacy Policy for the Website http://www.bestyummyrecipes.com/
