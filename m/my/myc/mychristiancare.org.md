@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mychristiancare.org privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124140956id_/http%3A//mychristiancare.org/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mychristiancare.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100405id_/https%3A//mychristiancare.org/Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# Christian Care ministry privacy policy
+# Privacy Policy | Christian Care Ministry;Christian Care ministry privacy policy
 
 Last Updated: July 1, 2011 
 
