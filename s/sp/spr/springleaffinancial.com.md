@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springleaffinancial.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114101023id_/http%3A//www.springleaffinancial.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springleaffinancial.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085211id_/https%3A//www.springleaffinancial.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -60,6 +60,15 @@ _**Am I protected when linking to other sites?**_
   * This Site may, from time to time, contain links to other Internet websites, banner ads or advertisements for the convenience of users in locating information and services that may be of interest. If you use those linked Internet websites or advertisements, you may leave this Site and go to websites that we do not control. If you decide to visit those Internet sites or advertisers, you do so at your own risk and it is your responsibility to read and comply with the privacy statement on those websites. Your right to privacy on linked sites is limited to whatever rights are provided to you by the owner of the linked site.
 
   * This Website Privacy Policy is for customers and visitors, and only applies to this Site. This Site only includes its home page and pages hereunder operated by Site Sponsor. This Website Privacy Policy does not apply to any linked site or any site provided by a third party. You must consult the privacy policy of such sites, in order to determine what information about you is collected and how that information is used.
+
+
+
+
+_**Online Tracking**_
+
+  * Site Sponsor does not track its customers over time and across third party websites in order to provide targeted advertising and therefore does not respond to Do Not Track (DNT) signals. However, some third party sites do keep track of your browsing activities when they serve your content, which enables them to tailor what they present to you. If you are visiting such sites, most popular browsers (Firefox, Safari, Google Chrome, etc) allow you to set the DNT signal on your browser so that third parties (particularly advertisers) know you do not want to be tracked. You should consult each sites privacy policy to determine how that siteâ€™s operator responds to DNT signals.
+
+  * Third parties that have content embedded on Site Sponsor's websites may set cookies on a user's browser and/or obtain information about the fact that a web browser visited a specific Site Sponsor website from a certain IP address. Third parties cannot collect any other personally identifiable information from Site Sponsorâ€™s websites unless you provide it to them directly.
 
 
 
