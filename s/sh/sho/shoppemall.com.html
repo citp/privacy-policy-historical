@@ -1,0 +1,1350 @@
+<!--The following is the downloaded HTML source of the shoppemall.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625110737id_/http%3A//www.shoppemall.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+        <meta https-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <title>Shoppemall.com: Privacy Policy</title>
+        <link href="http://www.shoppemall.com/style/style.css" rel="stylesheet" type="text/css">
+        <link href="http://www.shoppemall.com/style/menu.css" rel="stylesheet" type="text/css">
+        <link href="http://www.shoppemall.com/style/styles123.css" rel="stylesheet" type="text/css" media="screen">
+        <link rel="stylesheet" href="http://www.shoppemall.com/style/nivo-slider.css" type="text/css" media="screen">
+        <link href="http://www.shoppemall.com/search/search.css" rel="stylesheet" type="text/css">
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.shoppemall.com/search/autosuggest.js"></script>
+
+
+        <style>
+            .main_content{
+                margin:0;
+                width:1150px;
+            }
+        </style>
+
+
+
+    </head>
+
+    <body>
+
+
+                <div class="wrapper">
+            <div class="wrapper_bg_color">
+                <div id="header_content" style="width: 1150px;margin:0 auto;">
+                    
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44743093-1', 'shopeemall.com');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+    <title>ShopeeMall-Login,Create customer account</title>
+     <link href="http://www.shoppemall.com/style/style.css" rel="stylesheet" type="text/css">
+    <link href="http://www.shoppemall.com/login/jquery.ui.all.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="http://www.shoppemall.com/js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="http://www.shoppemall.com/js/jquery.form.js"></script>
+	<script type="text/javascript" src="http://www.shoppemall.com/js/googleanalytics.js"></script>
+
+<script>
+    var c=0;
+            $(function() {
+
+        $( "#popupLogin_dialog" ).dialog({
+
+            autoOpen: false,
+            width: 850,
+            position: [260,40],
+            modal: true,
+            draggable: false,
+            resizable: false,
+            close: function( event, ui ) {
+                $( "#popupLogin_dialog" ).html('');
+            }
+
+        });
+
+
+
+    });
+
+
+
+      $(function() {
+
+      	 $( "#popupWishlist_dialog" ).dialog({
+
+            autoOpen: false,
+            width: 850,
+            position: [260,40],
+            modal: true,
+            draggable: false,
+            resizable: false,
+            close: function( event, ui ) {
+                $( "#popupWishlist_dialog" ).html('');
+            }
+
+        });
+    });
+
+         $(function() {
+
+      	 $( "#popupSignUpTrans_dialog" ).dialog({
+
+            autoOpen: false,
+            width: 850,
+            position: [260,40],
+            modal: true,
+            draggable: false,
+            resizable: false,
+            close: function( event, ui ) {
+                $( "#popupSignUpTrans_dialog" ).html('');
+            }
+
+        });
+    });
+
+
+
+     $(function() {
+
+      	 $( "#popupPincode_dialog" ).dialog({
+
+            autoOpen: false,
+            width: 400,
+            height:200,
+            position: [490,150],
+            modal: true,
+            draggable: false,
+            resizable: false,
+            close: function( event, ui ) {
+                $( "#popupPincode_dialog" ).html('');
+            }
+
+        });
+    });
+	
+	$(function() {
+
+      	 $( "#popupPincodefordeal_dialog" ).dialog({
+
+            autoOpen: false,
+            width: 400,
+            height:200,
+            position: [490,150],
+            modal: true,
+            draggable: false,
+            resizable: false,
+            close: function( event, ui ) {
+                $( "#popupPincodefordeal_dialog" ).html('');
+            }
+
+        });
+    });
+    
+     $(function() {
+
+        $( "#popupPromo" ).dialog({
+            autoOpen: false,
+            width: 650,
+            modal: true,
+            position:[375,140],
+            draggable: false,
+            resizable: false,
+           
+            close: function( event, ui ) {
+                $( "#popupPromo" ).html('');
+            }
+
+        });
+    });
+
+$(function(){
+        $("#dealzoomimage").dialog({
+            autoOpen: false,
+            width: 1340,
+            height: 650,
+            modal:false,
+            draggable:false,
+            resizable:false,
+            position:[5,10],
+            close: function(event,ui){
+                $("#dealzoomimage").html('');
+            }
+        });
+        
+    });
+    
+    
+    function zoomPopUp1(pid){
+        $('#dealzoomimage').dialog('option', 'position', 'center');
+        $('#dealzoomimage').parent().css({position:"fixed"}).end().dialog('open');
+        $("#dealzoomimage").load('dealzoom.php?dealid='+pid);
+       
+    }
+
+
+
+     function popUpLoginPage(){ 
+	
+	 $("#popupLogin_dialog").dialog("open");
+         var docroot='http://www.shoppemall.com/';
+	 $("#popupLogin_dialog").html("<center><img src='http://www.shoppemall.com/images/ajax_loader_circle.gif' align='center' style='vertical-align:middle;'/></center>");
+         $("#popupLogin_dialog").load(docroot+'signupHtml.php');
+        c=0;
+    }
+
+
+
+
+    function popUpWishListPage(){
+         setCookie('referer','http://www.shoppemall.com/account/wishlist.php',null);
+         $("#popupWishlist_dialog").dialog("open");
+         var docroot='http://www.shoppemall.com/';
+         $("#popupWishlist_dialog").html("<center><img src='http://www.shoppemall.com/images/ajax_loader_circle.gif' align='center' style='vertical-align:middle;'/></center>");
+         $("#popupWishlist_dialog").load(docroot+'signupHtml.php');
+
+        c=0;
+    }
+
+
+    function popuppincode(){
+        $("#popupPincode_dialog").dialog("open");
+        var docroot='http://www.shoppemall.com/';
+        $("#popupPincode_dialog").html("<center><img src='http://www.shoppemall.com/images/ajax_loader_circle.gif' align='center' style='vertical-align:middle;'/></center>");
+        $("#popupPincode_dialog").load(docroot+'popupPincode.php');
+         c=0;
+    }
+	  function popuppincodeforDeal(){
+        $("#popupPincodefordeal_dialog").dialog("open");
+        var docroot='http://www.shoppemall.com/';
+        $("#popupPincodefordeal_dialog").html("<center><img src='http://www.shoppemall.com/images/ajax_loader_circle.gif' align='center' style='vertical-align:middle;'/></center>");
+        $("#popupPincodefordeal_dialog").load(docroot+'popupPincode.php');
+         c=0;
+    }
+
+
+
+     function popUpSignUpTransactionPage(){
+        $("#popupSignUpTrans_dialog").dialog("open");
+        var docroot='http://www.shoppemall.com/';
+        $("#popupSignUpTrans_dialog").html("<center><img src='http://www.shoppemall.com/images/ajax_loader_circle.gif' align='center' style='vertical-align:middle;'/></center>");
+        $("#popupSignUpTrans_dialog").load(docroot+'signUpTransaction.php');
+         c=0;
+    }
+    
+    function popUpPromo(){
+         setCookie('promo_cookie','yes',null);
+         $("#popupPromo").dialog("open");
+         var docroot='http://www.shoppemall.com/';
+         $("#popupPromo").html("<center><img src='http://www.shoppemall.com/images/ajax_loader_circle.gif' align='center' style='vertical-align:middle;'/></center>");
+         $("#popupPromo").load(docroot+'popuppromoOffer.php');
+        c=0;
+    }
+
+
+
+     function closepopup(){
+        $( this ).dialog( "close" );
+    }
+
+     function setCookie(c_name,value,exdays){
+            var exdate=new Date();
+            exdate.setDate(exdate.getDate() + exdays);
+            var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+            document.cookie=c_name + "=" + c_value+"";
+        }
+ </script>
+ <style>
+
+    .ui-dialog .ui-dialog-content { padding: 0px 0px 0px  25px;
+/*                        background-color:#D8E6E7  }*/
+    }
+    .ui-dialog .ui-dialog-title{
+        float: left;
+        margin: 0.1em 16px 0.1em 12em;
+    }
+/*    .ui-dialog .ui-dialog-titlebar{
+        background: url('http://www.shoppemall.com/images/login_signup_titlebar.png') ;
+    }*/
+    .ui-dialog .ui-dialog-titlebar-close{
+        height: 30px;
+    margin: -21px -4px 0;
+    padding: 1px;
+    position: absolute;
+    right: -5px;
+    top: 42%;
+    width: 30px;
+    }
+/*    .ui-dialog .ui-dialog-titlebar{
+        padding-top:35px;
+    }*/
+
+ </style>
+ 
+
+     <div id="popupLogin_dialog"></div>
+     <div id="popupPincode_dialog" title="Delivery Pin Code"></div>
+     <div id="popupWishlist_dialog"></div>
+     <div id="sizeChart"></div>
+     <div id="popupSignUpTrans_dialog"></div>
+     <div id="popupPincodefordeal_dialog" title="Delivery Pincode"></div>
+     <div id="popupPromo"></div>
+ 
+
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+
+
+<link href="http://www.shoppemall.com/style/style.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="http://www.shoppemall.com/search/autosuggest.js"></script>
+<style>
+ .wrapper_bg_color{
+/*   background: #ffffff;  Old browsers
+ IE9 SVG, needs conditional override of 'filter' to 'none'
+background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUxJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUxJSIgc3RvcC1jb2xvcj0iI2YzZjRmNCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjY5JSIgc3RvcC1jb2xvcj0iI2YzZjRmNCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjY5JSIgc3RvcC1jb2xvcj0iI2ZmOTAwMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=');
+background: -moz-linear-gradient(top,  #ffffff 0%, #ffffff 51%, #f3f4f4 51%, #f3f4f4 69%, #ff9000 69%);  FF3.6+ 
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(51%,#ffffff), color-stop(51%,#f3f4f4), color-stop(69%,#f3f4f4), color-stop(69%,#ff9000));  Chrome,Safari4+ 
+background: -webkit-linear-gradient(top,  #ffffff 0%,#ffffff 51%,#f3f4f4 51%,#f3f4f4 69%,#ff9000 69%);   Chrome10+,Safari5.1+ 
+background: -o-linear-gradient(top,  #ffffff 0%,#ffffff 51%,#f3f4f4 51%,#f3f4f4 69%,#ff9000 69%);    Opera 11.10+ 
+background: -ms-linear-gradient(top,  #ffffff 0%,#ffffff 51%,#f3f4f4 51%,#f3f4f4 69%,#ff9000 69%);    IE10+ 
+background: linear-gradient(to bottom,  #ffffff 0%,#ffffff 51%,#f3f4f4 51%,#f3f4f4 69%,#ff9000 69%);   W3C  
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ff9000',GradientType=0 );  IE6-8  
+background: url('http://www.shoppemall.com/images/hedear_slice.png') repeat-x;
+height: 121.5px;
+min-width: 1150px;
+width: 100%;*/
+
+ }
+
+ .showenabledbutton{
+     cursor: pointer!important;
+ }
+
+</style>
+<script>
+     $(function () {
+         $(window).scroll(function () {
+             if ($(this).scrollTop() > 84) {
+                 $("#search_onscroll").addClass('fixedHeader');
+                 $("#search_bar").addClass('centerSerachbar');
+             }
+             else {
+                $("#search_onscroll").removeClass('fixedHeader');
+                 $("#search_bar").removeClass('centerSerachbar');
+             }
+     });
+    });
+
+    window.resizeTo(screen.width,screen.height);
+      checkVersion();
+    function changeImage(id,img){
+        document.getElementById(id).src = '';
+        document.getElementById(id).src=img;
+    }
+
+    function getInternetExplorerVersion()
+    {
+        var rv = -1; // Return value assumes failure.
+        if (navigator.appName == 'Microsoft Internet Explorer')
+        {
+            var ua = navigator.userAgent;
+            var re  = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+            if (re.exec(ua) != null)
+                rv = parseFloat( RegExp.$1 );
+        }
+        return rv;
+    }
+
+     function view_cart_hover_img(id)
+            {
+                $("#"+id ).attr('src', 'http://www.shoppemall.com/imp_icons/cart_hover.png');
+            }
+     function default_view_carthover_img(id)
+        {
+            $("#"+id ).attr('src', 'http://www.shoppemall.com/imp_icons/cart.png');
+        }
+        function sale_hover_img(id){
+                $("#"+id ).attr('src', 'http://www.shoppemall.com/images/sale_hover.png');
+        }
+        function default_sale_img(id){
+                $("#"+id ).attr('src', 'http://www.shoppemall.com/images/sale.png');
+        }
+
+
+    function checkVersion()
+    {
+        var msg = "You're not using Internet Explorer.";
+        var ver = getInternetExplorerVersion();
+        if ( ver > -1 )
+        {
+            if ( ver < 8.0 )
+            {
+                //msg = "You have to upgrade your Internet Explorer to version 9.0 or higher.Do you want to upgrade?";
+                msg = "This website do not support your current browser.Do you want to upgrade or change your browser?";
+                if(confirm(msg)){
+                    window.location.href="browser.php";
+                    // newwindow=window.open("http://www.microsoft.com/india/windows/ie/IE9.aspx",'name','height=800,width=800');
+                    // if (window.focus) {newwindow.focus()}
+                    return false;
+                }
+                else
+                    window.location.href="http://www.shoppemall.com/index.php";
+            }
+
+        }
+    }
+
+
+
+function newLeftMenu(){
+     $.ajax({
+            type: "POST",
+            url: "http://www.shoppemall.com/include/functions.php",
+            data: {
+                job:'newleftMenu'
+            },
+            success: function(response) {
+                $("#leftmenu").show();
+                $("#leftmenu").html(response);
+            }
+        });
+}
+
+    function changeOptionValue()
+    {
+
+        if($("#categoryfilter option:selected").text().length>20)
+        {
+            var x=$("#categoryfilter option:selected").text().substr(0, 17)+'...';
+            $("#spanAll").html(x);
+        }
+        else
+        {
+            $("#spanAll").html($("#categoryfilter option:selected").text());
+        }
+    }
+
+
+
+
+
+    function setCookie(c_name,value,exdays)
+    {
+        var exdate=new Date();
+        exdate.setDate(exdate.getDate() + exdays);
+        var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+        document.cookie=c_name + "=" + c_value+ ';path=/;';
+    }
+    function delete_cookie(cookie_name) {
+        document.cookie = cookie_name + '=;Path = /; expires=Thu, 01-Jan-70 00:00:01 GMT;';
+    }
+
+
+</script>
+ <style>
+     #overlay{
+            top:0%;
+            right:0%;
+            bottom:0%;
+            left:0%;
+            background: #000;
+            position:fixed;
+            z-index:99;
+            display:none;
+        }
+
+    .fixedHeader{
+        position: fixed;
+        top:0;
+        left:0;
+        z-index:999999999;
+        -moz-box-shadow:    0px 0px 3px 3px #CCCCCC;
+        -webkit-box-shadow: 0px 0px 2px 2px #CCCCCC;
+        box-shadow:         0px 0px 2px 2px #CCCCCC;
+        background-color:#ff670f;
+        width: 100%;
+        margin:0 auto;
+        height: 37px;
+        }
+        .centerSerachbar{
+            width: 1150px;
+            margin:0 auto;
+        }
+
+    .loggedInUser ul li a:hover
+        {
+        color:#000;
+        text-decoration: underline;
+
+        }
+
+    #div_deal a:hover
+    {
+        color:#000000;
+    }
+    .home{
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') -51px -225px;
+       background-repeat: no-repeat;
+       height: 14px;
+       width: 14px;
+    }
+    .sell_with_us{
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') -50px -181px;
+       background-repeat: no-repeat;
+       height: 14px;
+       width: 14px;
+    }
+    .wishlist{
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') -51px -139px;
+       background-repeat: no-repeat;
+       height: 11px;
+       width: 11px;
+    }
+    .myaccount{
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') -50px -160px;
+       background-repeat: no-repeat;
+       height: 9px;
+       width: 11px;  
+    }
+    .sign_sprite{
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') -50px -204px;
+       background-repeat: no-repeat;
+       height: 9px;
+       width: 11px; 
+    }
+    .contactus{
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') -51px -249px;
+       background-repeat: no-repeat;
+       height: 10px;
+       width: 12px; 
+    }
+    .cart{
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') -56px -273px;
+       background-repeat: no-repeat;
+       height: 25px;
+       width: 25px;
+    }
+</style>
+<link rel="publisher" href="http://plus.google.com/109802456357249262865/posts">
+
+
+<div id="header" style="float: left">
+     <div style="margin-top:5px">
+
+        <div style="float:left"><span style="line-height: 1.8;font-size:9px;color:#000;">BETA VERSION!</span></div>
+        <div style="float: right;">
+
+            <div class="loggedInUser">
+                               <ul>
+                                    <li>Hello Guest</li>
+                                    <li class="li_horizontal_separator">|</li>
+                                    <li><span class="home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a style="" href="http://www.shoppemall.com">Home</a></li>
+                                    <li class="li_horizontal_separator">|</li>
+                                    <li><span class="sell_with_us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a style="padding-right:3px;" href="http://www.shoppemall.com/merchant/index.php">Sell with us</a></li>
+                                    <li class="li_horizontal_separator">|</li>
+                                    <li><span class="wishlist">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a style="padding-right:3px;" href="javascript:popUpWishListPage()">Wishlist</a></li>
+                                    <li class="li_horizontal_separator">|</li>
+                                    <li><span class="myaccount">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a style="padding-right:3px;" href="javascript:popUpLoginPage()">My Account</a></li>
+                                    <li class="li_horizontal_separator">|</li>
+                                    <li class="login_dropdown"><span class="sign_sprite">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a style="padding-right:3px;" href="javascript:popUpLoginPage()">Signup</a></li><li class="li_horizontal_separator">|</li>
+                                    <li><span class="contactus">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://www.shoppemall.com/contactus.php">Contact us</a></li>
+                                </ul>
+                            </div>
+        </div>
+
+    </div>
+
+    <div style="clear: both"></div>
+	
+    <div id="logo_bar" style="height: 55px;">
+	
+        <div id="shopee_logo" itemscope="" itemtype="http://schema.org/webpage">
+           <span itemprop="name"><a href="http://www.shoppemall.com"> <img width="220px" height="55px" src="http://www.shoppemall.com/images/smalltrans.png" alt="shoppemall.com"></a></span>
+        </div>
+        <div style="width:900px;float: right;height: 55px">
+
+
+
+
+        <div id="cartlogo">
+            <a href="http://www.shoppemall.com/view_cart.php">
+               <img width="55px" height="40px" src="http://www.shoppemall.com/imp_icons/cart.png" id="imgViewCart" onmouseover="view_cart_hover_img(this.id)" onmouseout="default_view_carthover_img(this.id)">
+            </a>
+            <span id="cartItemCount">(0)</span>        </div>
+<!--            <div id="promooffers">
+            <a href="">PROMO OFFERS</a>
+        </div>-->
+            <div id="quickshop">
+            <a href="http://www.shoppemall.com/smartshopping_categories.php"><h2>QUICK SHOPPING</h2></a>
+        </div>
+            <div id="deals">
+            <a href="http://www.shoppemall.com/deals_list.php"><h2>DEALS</h2></a>
+        </div>
+        </div>
+
+
+    </div>
+    <div style="clear: both;height: 2px;"></div>
+    <div id="search_onscroll">
+        <div id="search_bar">
+
+            <div id="div_all_categories"><a href="http://www.shoppemall.com/allcategories.php" onmouseover="newLeftMenu()">VIEW ALL CATEGORIES<img src="http://www.shoppemall.com/images/allcat_dropdown.png" id="img_all_cat"></a>                       </div>
+                <div id="search_autosuggest">
+            <form id="search_filter" name="search_filter" action="/search_filter.php" method="get">
+                <div id="searchBox">
+                        <select name="categoryfilter" id="categoryfilter" onchange="javascript:changeOptionValue()">
+                        <option value="">All Categories</option>
+
+                        <option value="60">Appliances</option><option value="70">Automobiles</option><option value="68">Beauty and Fragrance</option><option value="42">Books</option><option value="58">Clothing</option><option value="69">Daily Bazaar</option><option value="63">Electricals</option><option value="44">Electronics</option><option value="73">Express Gifts</option><option value="59">Fashion Accessories</option><option value="57">Footwear</option><option value="61">Health</option><option value="62">Home and Lifestyle</option><option value="65">Infants and Kids</option><option value="66">Jewellery </option><option value="64">Office and Stationery</option><option value="78">Pet Supplies</option><option value="67">Sports and  Fitness</option>                    </select>
+                    <span style="display:block;background-color: #FEFDFE;width:160px;float: left;">
+                        <!--  code for getting the category selected once it refreshed it -->
+                        <span id="spanAll">All Categories</span>                        <!--<span id="spanAll">All Categories</span> -->
+                        <img width="27px" height="27px" src="http://www.shoppemall.com/images/new_dropdown_black.png" class="imgdropdown">
+
+
+                    </span>
+
+
+                    <input type="text" id="autosuggest" name="autosuggest" autocomplete="off" onkeyup="javascript:autoSuggest(event)" placeholder="Search for a product, Brand or any item" value="">
+                    <div id="search_icon">Search</div>
+                    <!--  <img src="http://www.shoppemall.com/images/searchInHeader.png" id="search_icon" onclick="javascript: document.forms['search_filter'].submit()"/>-->
+                </div>
+            </form>
+            <div id="autosuggest-container" onblur="hidesuggestion()"></div>
+
+        </div>
+        <div id="sale" style="float: right;">
+            <a class="sale" href="http://www.shoppemall.com/hottestsale.php">SALE</a>
+        </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+                </div>
+            </div>
+                <div style="clear:both"></div>
+            <div class="main">
+                <div class="main_content_product">
+                    <div class="indexbox">
+
+                        <center>  <div class="h1">PRIVACY POLICY</div></center>
+
+                        <div style="padding-left: 2%;margin-top:30px">
+
+                            <p>Protecting your privacy is very much substantial to us, for which we have commissioned highest of standards and follow the most stringent procedures to help protect the confidential information that is stored on our systems. We do not disclose, circulate or sell your personal details, facts or data to the other parties for their marketing purpose, your data is precious to us and we give utmost importance to your privacy, it will only be used for our promotional activities. We have committed ourselves to do everything we reasonably can to protect your rights of privacy on the systems and the Portal controlled by us. Please read this privacy policy thoroughly to learn more about the ways in which we use and safeguard your personal details, facts or data.</p>
+
+                            <p>The privacy practices of this statement apply to our services available under the domain and sub domains of www.Shoppemall.com “Site" and apply usually to our parent, associates, subsidiary or joint venture websites. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Site</p>
+
+                            <p>By accepting the Privacy Policy and the Terms of Use Agreement during Registration, you specifically assent to our use and disclosure of your personal details, facts or data in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Terms of Use Agreement. This Privacy Policy is effective upon acceptance in registration for new registering users, and is otherwise effective on carrying out any transaction with us for all users</p>
+
+                            <p>At Shoppemall.com, we are exceptionally proud of our commitment to safeguard your privacy. We expect you to have faith in us. Our endeavor is to try hard to earn your confidence so that you can enthusiastically use our services and counsel us to friends and family.</p>
+
+                            <p>Shoppemall.com will not disclose, circulate, sell or rent your personal details, facts &amp; data to third parties for their marketing purposes without your perspicuous approval. From time to time we may reveal general statistical information about our Web site and visitors, such as number of visitors, number and type of goods and services purchased, etc. Your trust and confidence are our premier precedence.</p>
+
+                            <p>When you use our Site, we accumulate and store your personal information. Our foremost aim in doing so is to provide a secure, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our Site to make your experience safer and easier. Importantly, we only collect personal information about you that we consider necessary for achieving this purpose</p>
+
+                            <p>In general, you can browse the Site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. To fully use our Site, you will need to register using our online registration form, where you may be required to provide us with your name, date of birth, contact number, email id, user id, password, residence / place of business information, billing information, shipping information, bank account details and other personal information as indicated on the forms throughout the Site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature on the Site. You may provide us with a Shoppemall.com registered ID.</p>
+
+                            <p>We may automatically track certain information about you based upon your behavior on our site. We use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve our users. This information is compiled and scrutinize on an aggregated basis. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), your computer browser information, and your IP address</p>
+
+                            <p></p><h3>COOKIES</h3><p></p>
+
+                            <p>A "cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. We use "cookies" so that we can provide you with more customized information when you return to our website. "Cookies" are used to store user preferences and to track user trends, so as to enhance your interactive experience and generally improve our Services to you. You can set your browser to notify you when you are sent a "cookie", giving you the chance to decide whether or not to accept it. If you do accept a "cookie", you thereby agree that we may use of any Personal Information collected by us using that cookie. You may update your Profiling Information at any time on the website. You acknowledge and agree that in the interests of improving personalization and Service efficiency, we may, under controlled and secure circumstances, share your Personal Information with our affiliates (an entity which is our subsidiary or holding company or a subsidiary of our holding company or an entity which controls, is controlled by or is under common control with us). We use data collection devices such as "cookies" on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie". We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Site and you may be required to re enter your password more frequently during a session.</p>
+
+                            <p>Additionally, you may encounter "cookies" or other similar devices on certain pages of the Site that are placed by third parties. For example, if you view a web page created by a user, there may be a "cookie" placed within that web page. We do not control the use of cookies by third parties.</p>
+
+                            <p>If you choose to bid, buy or sell on the Site, we collect information about your bidding, buying and selling behavior. We also collect other users' comments about you in our feedback area</p>
+
+                            <p>If you establish a credit account with us to pay the fees we charge, we collect some additional information, such as a billing address, a credit/ debit card number and a credit/ debit card expiration date and/ or other payment instrument details and tracking information from cheques or money orders</p>
+
+                            <p>If you choose to post messages on our message boards, chat rooms or other message areas or leave feedback for other users, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.</p>
+
+                            <p>If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.</p>
+
+                            <p>If you register for the Site on another web site or use a web site providing a service for Shoppemall.com or a web site that helps facilitates your activity on the Site, that web site may provide personal information about you and your transactions back to us.</p>
+
+                            <p>We use your personal details, facts or data to facilitate the services you request. We use your personal details, facts or data in the file we sustain about you, and other information we obtain from your current and past activities on the Site to resolve disputes; troubleshoot problems; help promote safe trading; collect fees owed; measure consumer interest in the services provided by us, inform you about online and offline offers, products, services, and update; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User IDs or aliases. We may compare and review your personal information for errors, omissions and for accuracy.</p>
+
+                            <p>If you choose to list an item for sale on the Site or open a credit account, or otherwise provide us with your financial information, we use your address and billing information to bill you and provide associated support.</p>
+
+                            <p>You agree that we may use personal information about you to improve our marketing and promotional efforts, to analyze site usage, improve the Site's content and product offerings, and customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site.</p>
+
+                            <p>You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications in your profile. You may make changes to your profile at any time.</p>
+
+                            <div class="h2">Our Disclosure of your information</div>
+                            <p>We may also use your details, facts or data to deliver information to you that, in some cases, are targeted to your interests, such as new services and promotions. The following are examples of some categories of persons to whom we would share your information with from time-to-time</p>
+
+                            <div class="h2">Advertisements</div>
+                            <p>
+                                </p><ol style="font-size: 15px;padding-left:3%">
+                                    <li style="list-style-type: upper-roman">Where a user enters information on any form of an advertiser, the information is simultaneously collected by Shoppemall.com and the advertiser. The information is used by Shoppemall.com in accordance with the terms of this privacy policy and is used by the advertiser as per the advertiser’s prevalent privacy policies. Because we do not control the privacy practices of these advertisers, you should evaluate their practices before deciding to provide the said information</li><br>
+                                    <li style="list-style-type: upper-roman">Shoppemall.com may also aggregate (gather up data across all user accounts) personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes.</li>
+                                </ol>
+                            <p></p>
+
+                            <div class="h2">Classifieds Listings</div>
+                            <p>
+                                </p><ol style="font-size: 15px;padding-left:3%">
+                                    <li style="list-style-type: upper-roman">When a user expresses an interest in a classified advertisement, the user who has listed the advertisement will be provided the contact information of the interested user as provided in the interested user's registration form.</li><br>
+
+                                </ol>
+                            <p></p>
+
+                            <div class="h2">Items and Services offered on the Site by third parties</div>
+                            <p>There are certain items and services for which third parties request for information before the item/service is listed on the Site (example: an image/picture for a customized bike/t-shirt). The information provided by the user for such purposes is simultaneously collected by Shoppemall.com and the respective third party. This information is utilized by the third party in accordance with its privacy policy and the terms of the offer. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services.</p>
+
+                            <div class="h2">Internal Service Providers</div>
+                            <p>We may use third parties that we refer to as internal service providers to facilitate or outsource one or more aspects of the business, product and service operations that we provide to you on the Site (e.g., search technology, discussion boards, bill collection, affiliate and rewards programs, co-branded credit cards) and therefore we may provide some of your personal information directly to these internal service providers. These internal service providers' are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced Site related operation, unless you have explicitly agreed or given your prior permission to them for additional uses. In some instances, the internal service provider may collect information directly from you (such as for Site surveys). In these cases, you will be notified of the involvement of the internal service provider, and all additional information you provide them and their additional uses will be strictly up to you. If you provide additional information to an internal service provider directly, then their use of your personal information is governed by their applicable privacy policy.</p>
+
+                            <div class="h2">Other Corporate Entities.</div>
+                            <p>We share much of our data, including personal details, facts or data, with our parent, affiliates, subsidiaries, and joint ventures that are committed to serving your online trading needs and related services, throughout the world. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other users. Our parent, affiliates, subsidiaries, and joint ventures follow privacy practices no less protective of all users than our practices described in this document, to the extent allowed by applicable law. Shoppemall.com, its parent, affiliates, subsidiaries, its joint ventures, or any combination of such, will share some or all of your personal information with another business entity should we plan to, merge with, or be acquired by that business entity. Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information</p>
+
+                            <div class="h2">Legal Requests</div>
+                            <p>We cooperate with law enforcement and regulatory inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and the community from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, email address, User ID history, fraud complaints, and listing history without a warrant. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal details, facts or data to law enforcement or other government officials without a writ, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss; or report suspected illegal activity. Further, we can (and you authorize us to) disclose your name, street address, city, state, zip code, country, phone number, email, and company name to Intellectual Property rights owners under confidentiality agreement, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity.</p>
+                            <p>Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.</p>
+
+                            <div class="h2">Your use of other users' information</div>
+                            <p>In order to facilitate interaction among all Shoppemall.com members (buyers, sellers, services providers such as payment gateway and 3PLs, Further, as a seller you will be sent via email the Shoppemall.com registered user ID email address and other information, and as a winning buyer you will be sent via email the Shoppemall.com registered user ID email address and other information of the seller. By entering into our User Agreement, you agree that, with respect to other user's personally identifiable information that you obtain through the Site or through a Shoppemall.com related communication or Shoppemall.com facilitated transaction, Shoppemall.com hereby grants to you a license to use such information only for Shoppemall.com related communications that are not unsolicited commercial messages using co-branded services offered through Shoppemall.com (e.g. insurance, shipping and fraud complaints) and any other purpose that such user expressly opts into after adequate disclosure of the purpose(s). In all cases, you must give users an opportunity to remove themselves from your database and a chance to review what information you have collected about them.</p>
+                            <p>In addition, under no circumstances, except as defined in this Section, can you disclose personally identifiable information about another user to any third party without our consent and the consent of such other user after adequate disclosure. Shoppemall.com and our users do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add a Shoppemall.com user-even a user who has purchased an item from you-to your mail list (email or physical mail) without their express consent after adequate disclosure.</p>
+
+                            <div class="h2">Sms Verification promotions, alert &amp; marketing.</div>
+                            <ul style="font-size: 15px;padding-left:3%">
+                                <li>The user will be solely responsible for putting the mobile number information for registering on new user, for which he/she will be sent verification code, which he/she needs to put on our website portal to confirm the registration process. As the user is using our service we would not check or confirm the mobile numbers as we would not be responsible for any customer complain. If he/she feels he/she should not get any SMS verification/promotion/alert/marketing message than he/she should not have used our website.</li>
+                                <li>We highly condemned, if someone puts other mobile number for which unknown customer will be sent SMS. We would not be responsible for any such act and we solely condemned the action and ask users not to engage in such malfunction.</li>
+                                <li>The SMS will be sent to you for account verification, promotions, order status delivery status, alerts &amp; marketing.</li>
+                                <li>The user cannot complain against us for sending SMS, user have asked for our services and we are providing SMS authentication &amp; promotion based on our company Marketing &amp; Security Policy. If anyone has problem he/she should not use our website.</li>
+                                <li>The user will be sent promotion SMS, E-mail, voice calls once they are registered with us and the customer agrees to receive any promotion strategy if he/she does not agree he/she should not register with us. We will not be responsible for any customer complain.</li>
+                                <li>Customers using our services are asked to read all the Terms &amp; Conditions, our policies, as we would not be responsible for any of the customers complain regarding SMS, E-mail etc. They will be fully responsible for their act and they cannot complain us. By using our website and our services the user fully accepts our Terms &amp; Conditions.</li>
+                            </ul>
+
+                            <div class="h2">Children's privacy?</div>
+                            <p>Children are not eligible to use our Site and we ask that minors (under the age of 18) do not submit any personal information to us. If you are under the age of 18, you cannot buy or sell any items on the Site. If you wish to purchase or sell an item on the Site such purchase or sale may be made by your legal guardian or parents who have registered as users of the Site provided that such purchase or sale is not in relation to any adult material/mature audience items displayed on the Site, the sale or purchase of which to/by minors is strictly prohibited.</p>
+
+                            <div class="h2">Access or change your personally identifiable information</div>
+                            <p>To protect your privacy and security, we will verify your identity before granting access or making changes to your personally identifying information. If you have registered your profile on Shoppemall.com, your Shoppemall.com registered user ID and Password are required in order to access your profile information.</p>
+
+                            <div class="h2">Security</div>
+                            <p>When you place orders or access your account information, we offer the use of a secure server. The Secure Server Software (SSL) encrypts all information you put in before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we will employ reasonable security practices and procedures and current Internet security methods and technologies in compliance with Information Technology Act, 2000 and rules made there under</p>
+
+                            <p>
+                                <font style="font-size:16px;font-weight: bold;">Your Consent: </font>By using the Site and/ or by providing your information, you consent to the collection and use of the information you disclose on the Site by Shoppemall.com in accordance with this Privacy Policy, including but not limited to your consent for sharing your information as per Clause 5 Sub Clause 4: Internal Service Providers mentioned above.
+
+                            </p>
+
+                            <p>If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Any changes to our privacy policy will be communicated through our Web site at least 10 days in advance of implementation.</p>
+
+                            <p>Name and address of the entity collecting and retaining Your Information shall be the contracting entity stated in the Shoppemall.com User Agreement.</p>
+
+                            <div class="h2">CHANGES IN PRIVACY POLICY</div>
+                            <p>By using this Website and by providing your information, you acknowledge your assent to our Privacy Policy. If you do not want to be bound by the terms kindly restrain yourself from subscribing to or using our Services. Your access to and usage of the Website and any dispute over privacy are subject to this policy and our Terms and Conditions, including limitations on damages. We also reserve the right to change the Privacy Policy, at any time. We will post any changes so that you are always aware of our policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.</p>
+
+                            <div class="h2">Grievance Officer:</div>
+                            <p>In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below :</p>
+
+                            <li style="list-style-type: none">Mr. Deep Sharma,</li>
+                            <li style="list-style-type: none"><b>Phone:</b> 0361-2139090</li>
+
+                        </div>
+                        
+
+                    </div>
+                </div>
+                <div style="position:relative; clear:both;"></div>
+                <div id="footer_content">
+                    <style>
+    .copyright{
+        height: 50px;
+        background-color: #4F4F4F;
+    }
+    .bgcolor{
+    background-size: cover;
+    height: 65px;
+    position: absolute;
+    right: 0;
+    top: -7px;
+    width: 175px;
+
+    }
+    .bgcolor img{
+       margin-left: 10px
+    }
+    ul li {
+        list-style-type: none;
+    }
+    #footer_tpl{
+        background-color: #4F4F4F;
+        color: white;
+    }
+    .nobgcolor{
+        padding-top: 10px;
+        width: 975px;
+        height: 48px;
+        margin-left:35px;
+/*        background:#FFFFFF url('../social_sites/test.png') no-repeat right top*/
+    }
+    .nobgcolor span {
+        vertical-align: top;
+        line-height: 1.9;
+    }
+    .nobgcolor span a{
+        vertical-align: top;
+    }
+    #subscribe_button_men{
+        background-color: #ABE1FA;
+        border: 0 inset;
+        color:#000;
+        font-size:11px;
+        font-weight: bold;
+    }
+    #subscribe_button_women{
+        background-color: #F8C1D9;
+        border: 0 inset;
+        color:#000;
+        font-size:11px;
+        font-weight: bold;
+    }
+    #subscribe_button_men:hover{
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    #subscribe_button_women:hover{
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    #footer_tpl ul li a{
+        color:white;
+        font-size:12px;
+    }
+    .social_media{
+        float: left;
+        width: 240px;
+        background-color:#4F4F4F;
+        padding: 10px;
+        margin-top:15px;
+        margin-left:70px;
+        min-height: 150px;
+        padding-top: 2px;
+        padding-bottom:20px
+    }
+    .promotions{
+        float: left;
+        width: 240px;
+        margin:15px 10px 0px 70px;
+        padding: 10px 10px 0px;
+        text-align: center;
+        font-size:12px;
+        background-color:#4F4F4F;
+        min-height: 160px;
+
+    }
+    .our_policies li a:hover {
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    .our_service ul li a:hover {
+        text-decoration: underline;
+         cursor: pointer;
+    }
+    .Twitter
+      {
+        background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -35px;
+        background-repeat: no-repeat;
+        height: 26px;
+        width: 26px;
+        cursor: pointer;
+      }
+    .Twitter:hover
+    {
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 0px;
+       background-repeat: no-repeat;
+       height: 26px;
+       width: 26px;
+       cursor: pointer;
+    }
+    .googleplus
+    {
+        background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -105px;
+        background-repeat: no-repeat;
+        height: 26px;
+        width: 26px;
+        cursor: pointer;
+    }
+    .googleplus:hover
+    {
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -70px;
+       background-repeat: no-repeat;
+       height: 26px;
+       width: 26px;
+       cursor: pointer;
+    }
+    .blog
+    {
+        background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -173px;
+        background-repeat: no-repeat;
+        height: 26px;
+        width: 26px;
+        cursor: pointer;
+    }
+    .blog:hover
+    {
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -138px;
+       background-repeat: no-repeat;
+       height: 26px;
+       width: 26px;
+       cursor: pointer;
+    }
+    .facebook
+    {
+        background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -242px;
+        background-repeat: no-repeat;
+        height: 26px;
+        width: 26px;
+        cursor: pointer;
+    }
+    .facebook:hover
+    {
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -207px;
+       background-repeat: no-repeat;
+       height: 26px;
+       width: 26px;
+       cursor: pointer;
+    }
+     .pinterest
+    {
+        background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -311px;
+        background-repeat: no-repeat;
+        height: 26px;
+        width: 26px;
+        cursor: pointer;
+    }
+    .pinterest:hover
+    {
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -276px;
+       background-repeat: no-repeat;
+       height: 26px;
+       width: 26px;
+       cursor: pointer;
+    }
+     .linkedin
+    {
+        background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -380px;
+        background-repeat: no-repeat;
+        height: 26px;
+        width: 26px;
+        cursor: pointer;
+    }
+    .linkedin:hover
+    {
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -345px;
+       background-repeat: no-repeat;
+       height: 26px;
+       width: 26px;
+       cursor: pointer;
+    }
+     .foursquare
+    {
+        background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -449px;
+        background-repeat: no-repeat;
+        height: 26px;
+        width: 26px;
+        cursor: pointer;
+    }
+    .foursquare:hover
+    {
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -414px;
+       background-repeat: no-repeat;
+       height: 26px;
+       width: 26px;
+       cursor: pointer;
+    }
+    .youtube
+    {
+        background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -518px;
+        background-repeat: no-repeat;
+        height: 26px;
+        width: 26px;
+        cursor: pointer;
+    }
+    .youtube:hover
+    {
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -483px;
+       background-repeat: no-repeat;
+       height: 26px;
+       width: 26px;
+       cursor: pointer;
+    }
+    .chat
+    {
+        background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -587px;
+        background-repeat: no-repeat;
+        height: 26px;
+        width: 26px;
+        cursor: pointer;
+    }
+    .chat:hover
+    {
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -552px;
+       background-repeat: no-repeat;
+       height: 26px;
+       width: 26px;
+       cursor: pointer;
+    }
+    .contact
+    {
+        background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -656px;
+        background-repeat: no-repeat;
+        height: 26px;
+        width: 26px;
+        cursor: pointer;
+    }
+    .contact:hover
+    {
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -621px;
+       background-repeat: no-repeat;
+       height: 26px;
+       width: 26px;
+       cursor: pointer;
+    }
+    .mail
+    {
+        background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -794px;
+        background-repeat: no-repeat;
+        height: 26px;
+        width: 26px;
+        cursor: pointer;
+    }
+    .mail:hover
+    {
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -759px;
+       background-repeat: no-repeat;
+       height: 26px;
+       width: 26px;
+       cursor: pointer;
+    }
+    .sms
+    {
+        background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -725px;
+        background-repeat: no-repeat;
+        height: 26px;
+        width: 26px;
+        cursor: pointer;
+    }
+    .sms:hover
+    {
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') 0 -690px;
+       background-repeat: no-repeat;
+       height: 26px;
+       width: 26px;
+       cursor: pointer;
+    }
+    .social
+    {
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') -50px -364px;
+       background-repeat: no-repeat;
+       height: 74px;
+       width: 90px;
+    }
+    .ssl
+    {
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') -50px 0px;
+       background-repeat: no-repeat;
+       height: 25px;
+       width: 248px;
+    }
+    .logistic
+    {
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') -50px -107px;
+       background-repeat: no-repeat;
+       height: 21px;
+       width: 225px;
+    }
+    .newsletter{
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') -44px -32px;
+       background-repeat: no-repeat;
+       width: 129px;
+       height: 30px;
+       cursor: pointer;
+    }
+    .newsletter:hover{
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') -44px -67px;
+       background-repeat: no-repeat;
+       width: 129px;
+       height: 30px;
+       cursor: pointer;
+    }
+    ul li b{
+        font-size:13px;
+    }
+     .assurepay_footer{
+       background: url('http://www.shoppemall.com/social_sites/footer_sprite.png') -48px -448px;
+       background-repeat: no-repeat;
+       height: 70px;
+       width: 250px;
+    }
+</style>
+<script>
+      function newsletter_hover_img(id)
+            {
+                $("#"+id ).attr('src', 'http://www.shoppemall.com/social_sites/newsletter_hover_img.png');
+            }
+     function default_newsletter_img(id)
+        {
+            $("#"+id ).attr('src', 'http://www.shoppemall.com/social_sites/newsletter.png');
+        }
+        function hover_img(id){
+            var imageTochange;
+            if(id=='imgChat')
+                imageTochange='chat_hover'
+             else if(id=='imgContact')
+                imageTochange='contact_hover';
+            else if(id=='imgMail')
+                imageTochange='mail_hover';
+            else if(id=='imgSms')
+                imageTochange='sms_hover';
+
+         $("#"+id ).attr('src', 'http://www.shoppemall.com/social_sites/'+imageTochange+'.png');
+        }
+        function default_img(id){
+            var imageTochange;
+            if(id=='imgChat')
+                imageTochange='chat'
+             else if(id=='imgContact')
+                imageTochange='contact';
+            else if(id=='imgMail')
+                imageTochange='mail';
+            else if(id=='imgSms')
+                imageTochange='sms';
+
+         $("#"+id ).attr('src', 'http://www.shoppemall.com/social_sites/'+imageTochange+'.png');
+
+        }
+
+    function subscribe(gender){
+        if($('#news_letter_email').val() == '')
+        {
+            $("#status").html('<div style="height:23px;border-redius:1px;" class="errorDiv"><div style="color:#F80C08;font-size:11px;font-weight:bold;margin-left:20px;padding-top:3px;">** Enter a Email Id.</div></div>');
+
+        }
+        else if(footer_validateEmail($("#news_letter_email").val()) != 'valid')
+        {
+            $("#status").html('<div style="height:23px;border-redius:1px;" class="errorDiv"><div style="color:#F80C08;font-size:11px;font-weight:bold;margin-left:20px;padding-top:3px;">** Enter a valid email.</div></div>');
+        }
+        else if($('#news_letter_mob').val()==''){
+           $("#status").html('<div style="height:23px;border-redius:1px;" class="errorDiv"><div style="color:#F80C08;font-size:11px;font-weight:bold;margin-left:20px;padding-top:3px;">** Enter a Mobile No.</div></div>');
+
+        }
+        else if(footervalidateMobileNo($('#news_letter_mob').val())!='valid'){
+           $("#status").html('<div style="height:23px;border-redius:1px;" class="errorDiv"><div style="color:#F80C08;font-size:11px;font-weight:bold;margin-left:20px;padding-top:3px;">** Enter a valid Mobile No.</div></div>');
+        }
+        else
+                {
+                    var email = $('#news_letter_email').val();
+                    var phone=$("#news_letter_mob").val();
+                    $.ajax({
+                        type: "POST",
+                        url: "http://www.shoppemall.com/include/functions.php",
+                        data: {
+                            email:email,
+                            gender:gender,
+                            phone:phone,
+                            job:'subscribe_news_letter'
+                        },
+                        success: function(response) {
+                            if(parseInt(response) < 1) {
+                                $("#status").html('<div style="height:23px;border-redius:1px;" class="errorDiv"><div style="color:#F80C08;font-style:italic;font-size:11px;font-weight:bold;margin-left:20px;padding-top:3px;">** Subscription is not successful</div></div>');
+                            }
+                            else if(parseInt(response) == 2) {
+                                $("#status").html('<div style="height:23px;border-redius:1px;" class="errorDiv"><div style="color:#F80C08;font-style:italic;font-size:11px;font-weight:bold;margin-left:20px;padding-top:3px;">** Email already exist</div></div>');
+                            }
+                            else
+                            {
+                                $("#status").html('<div style="height:23px;border-redius:1px;" class="errorDiv"><div style="color:green;font-style:italic;font-size:11px;font-weight:bold;margin-left:20px;padding-top:3px;">** Subscription is successful.</div></div>');
+                            }
+                        }
+                    });
+                }
+    }
+    function footer_validateEmail(email)
+    {
+        var regExp = /^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,3}$)/;
+        if(!regExp.test(email))
+            return "inValid";
+        else
+            return "valid";
+    }
+    
+     function footervalidateMobileNo(mobileNo)
+{
+    var regExp = /^\d{10}$/;
+	
+    if(!regExp.test(mobileNo))
+        return "** Invalid mobile number";
+    return "valid";
+}
+
+</script>
+<div id="footer_tpl">
+    <div style="float:left;margin-left: 30px;margin-top:20px;border-right: 1px solid white;padding: 0px 15px 70px 0px;">
+        <div class="assurepay_footer"></div>
+        <br>
+        SHIPPING PARTNERS :
+        <br>
+        <div style="margin-top:5px;" class="logistic"></div>
+        <div style="margin-top: 10px">
+            <span id="cdSiteSeal1"><script type="text/javascript" src="//tracedseals.starfieldtech.com/siteseal/get?scriptId=cdSiteSeal1&amp;cdSealType=Seal1&amp;sealId=55e4ye7y7mb731a7d4a21daca6de2p75d0n1y7mb7355e4ye7ed1807c480794c3"></script></span>
+        </div>
+    </div>
+    
+    <div style="float:left;margin-top:20px;margin-left:20px;width:820px">
+       <div style="float: left;border-bottom: 1px solid white;padding:0px 0px 10px 0px">
+            <div style="float:left">
+<!--                <div style="text-align:center">GET IN TOUCH</div> -->
+                <div style="margin-top:10px;">
+                    <table>
+                        <tbody><tr>
+                            <td>GET IN TOUCH :</td>
+                            <td>&nbsp;</td>
+                            <td class="chat"><a href="" title="Coming Soon">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+                            <td>&nbsp;</td>
+                            <td class="contact"><a href="" title="Call us at: 0361-2139090">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+                            <td>&nbsp;</td>
+                            <td class="mail"><a href="" title="Mail us at: cs@shoppemall.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+                            <td>&nbsp;</td>
+                            <td class="sms"><a href="" title="SMS us at: 07896828796">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+                        </tr>
+                    </tbody></table>
+                </div>
+            </div>
+            <div style="float:left;margin-left: 35px;">
+<!--                <div style="text-align:center">FOLLOW US</div>-->
+                <div style="margin-top:10px;">
+                    <table>
+                    <tbody><tr>
+                        <td>FOLLOW US :</td>
+                        <td>&nbsp;</td>
+                        <td class="Twitter"><a href="https://twitter.com/ShoppeMall_IND" title="Twitter" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+                        <td>&nbsp;</td>
+                        <td class="googleplus"><a href="https://plus.google.com/u/0/b/105203461737767952253/+Shoppemallonlinemarketplace/posts" title="G+" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+                        <td>&nbsp;</td>
+                        <td class="blog"><a href="http://shoppemall.blogspot.in" title="Blog" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+                        <td>&nbsp;</td>
+                        <td class="facebook"><a href="https://www.facebook.com/ShoppeMall" title="Facebook" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+                        <td>&nbsp;</td>
+                        <td class="pinterest"><a href="http://pinterest.com/shoppemall" title="pinterest" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+                        <td>&nbsp;</td>
+                        <td class="linkedin"><a href="http://www.linkedin.com/groups/shoppemallcom-4761474?gid=4761474&amp;mostPopular=&amp;trk=tyah" title="linkedin" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+                        <td>&nbsp;</td>
+                        <td class="foursquare"><a href="http://foursquare.com/user/42175337" title="foursquare" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+                        <td>&nbsp;</td>
+                        <td class="youtube"><a href="http://www.youtube.com/channel/UCZHFEntfZ21T-RgeVlgggDw" title="youtube" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+                    </tr>
+
+                    </tbody></table>
+                </div>
+            </div>
+           <div style="float: left;margin-left:20px">
+            <div class="newsletter" style="margin-top:10px"><a href="http://www.shoppemall.com/e_newsletter/e_newsletter.pdf" target="_blank">
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                         </a></div>            </div>
+        </div>
+        <div>
+            <div style="float:left;border-right:1px solid white;padding: 0px 40px 15px 0px;margin-top: 10px">
+                <div class="our_service" style="float: left;width: 130px;background-color: #4F4F4F;">
+                    <ul>
+                        <li><b style="color: white">OUR SERVICES</b></li>
+                        <li style="height: 5px">&nbsp;</li>
+                        <li><a href="aboutus.php">About Us</a></li>
+                        <li><a href="http://www.shoppemall.com/faq.php"> FAQ</a></li>
+                        <li><a href="http://www.shoppemall.com/contactus.php">Customer Support</a></li>
+                        <li><a href="http://www.shoppemall.com/disclaimer.php">Disclaimer</a></li>
+            <!--            <li><a>Promo Offers</a></li>-->
+            <!--            <li><a>Shopee Pay</a></li>
+                        <li><a>Gift Cards</a></li>
+                        <li><a>Upcoming</a></li>-->
+                    </ul>
+                </div> 
+                <div class="our_policies" style="float: left;margin-left: 25px;width: 140px;background-color: #4F4F4F;">
+                    <ul>
+                        <li><b style="color: white">OUR POLICIES</b></li>
+                        <li style="height: 5px">&nbsp;</li>
+
+                        <li><a href="http://www.shoppemall.com/terms_condition.php">Terms &amp; Conditions</a></li>
+                        <li><a href="http://www.shoppemall.com/privacy_policy.php">Privacy Policy</a></li>
+                        <li><a href="http://www.shoppemall.com/user_agreement.php">User Agreement</a></li>
+                        <li><a href="http://www.shoppemall.com/return_policy.php">Return Policy</a></li>
+                        <li><a href="http://www.shoppemall.com/shipping_policy.php">Shipping Policy</a></li>
+                        <li><a href="http://www.shoppemall.com/merchant_policy.php">Merchant Policy</a></li>
+
+
+
+                    </ul>
+                </div>
+                <div class="payment_method" style="float: left;margin-left: 25px; width: 130px;background-color: #4F4F4F;">
+                    <ul>
+                        <li><b style="color: white">PAYMENT METHODS</b></li>
+                        <li style="height: 5px">&nbsp;</li>
+                        <li><a>Cash On Delivery</a></li>
+                        <li><a>Net Banking</a></li>
+                        <li><a>Debit Card</a></li>
+                        <li><a>Credit Card</a></li>
+            <!--            <li><a>Shopee Pay</a></li>-->
+                        <li>&nbsp;</li>
+                        <li>&nbsp;</li>
+                    </ul>
+                </div>
+                
+            </div>
+            <div style="float:left;padding: 10px 0 10px 35px;">
+                    <div id="status" style="text-align:center;"></div>
+                    <div style="text-align:center"><b>SIGN UP</b></div>
+                    <div style="text-align:center"><b>FOR OFFERS &amp; PROMOTIONS</b></div>
+                    <div style="margin-bottom: 5px">
+                        <input type="text" name="news_letter_email" id="news_letter_email" style="width: 235px;height: 18px;font-size: 11px;margin-top: 5px" placeholder="Enter your Email">
+                    </div>
+                    <div style="margin-bottom: 5px">
+                        <input type="text" name="news_letter_mob" id="news_letter_mob" style="width: 235px;height: 18px;font-size: 11px;margin-top: 5px" placeholder="Enter your Mobile Number">
+                    </div>
+                    <div style="float:left;width:55px;">
+                        <a onclick="javascript:subscribe('men')"><input type="button" id="subscribe_button_men" value="MEN"></a>
+                    </div>
+                    <div style="float:right;width:55px;margin-right: 9px">
+                        <a onclick="javascript:subscribe('women')"><input type="button" id="subscribe_button_women" value="WOMEN"></a>
+                    </div>
+                    <div style="clear:both;margin-top: 50px" class="ssl"></div>
+                                        
+            </div>
+        </div>
+        
+    </div>
+    
+    <div style="clear:both"></div>
+    <div align="center" style="color:white;padding:10px;border-top:1px solid gray">Copyright @ 2013. A product of Krinutana Technologies Pvt Ltd</div>
+    
+</div>
+
+                </div>
+            </div>
+        </div>
+
+    
+
+
+</body></html>
