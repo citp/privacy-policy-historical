@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refugeeks.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213193431id_/http%3A//refugeeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refugeeks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062518id_/http%3A//refugeeks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RefuGeeks
 
@@ -50,7 +50,7 @@ This website may contain sponsored links and adverts. These will typically be se
 
 Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will tracks the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and it’s owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
 
-## Social Media Platforms
+## 
 
 Communication, engagement and actions taken through external social media platforms that this website and it’s owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.
 
@@ -58,7 +58,7 @@ Users are advised to use social media platforms wisely and communicate / engage 
 
 This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
 
-## Shortened Links in Social Media
+## 
 
 This website and it’s owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy url’s like [<http://refugeeks.com/2012/11/microsoft-office-2013-review>] to thisÂ <http://goo.gl/4AZOM>.
 
