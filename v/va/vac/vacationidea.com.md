@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationidea.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208211346id_/http%3A//www.vacationidea.com/about/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationidea.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092139id_/http%3A//vacationidea.com/about/privacypolicy.cfm) for the most accurate reproduction.*
 
 # 
 
@@ -40,4 +40,4 @@ VacationIdea Inc may find it necessary or be legally obligated to update this Pr
 **Contact Information**  
 If you have any questions or concerns about the VacationIdea Inc Privacy Policy you may contact us at sendcomment@vacationidea.com
 
-**Find out more about[ VacationIdea.com](http://www.vacationidea.com/about/aboutus.cfm).**
+**Find out more about[ VacationIdea.com](http://vacationidea.com/about/aboutus.cfm).**
