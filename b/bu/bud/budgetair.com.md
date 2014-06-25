@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetair.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523142320id_/http%3A//www.budgetair.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetair.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625231317id_/http%3A//www.budgetair.com/aboutus/privacy) for the most accurate reproduction.*
 
 # BudgetAir.com | privacy
 
@@ -8,7 +8,7 @@ Your California Privacy Rights
 
 Under California law, California residents may request and obtain from us once a year, free of charge, certain details about personal information (if any) that we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, these details would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared such information.
 
-If you are a California resident and would like to make such a request, please submit your request in writing by email to [privacy@BudgetAir.com](mailto:privacy@BudgetAir.com) or write to us at: Airtrade International, Inc. d/b/a BudgetAir.com, Attn: Customer Service ? Privacy, 1975 W. El Camino Real, Ste. 204, Mountain View, CA 94040 and reference "California Privacy Disclosure." We will respond to such requests within 30 days following receipt at the email or mailing address stated above. If we receive your request at a different email or mailing address, we will respond within a reasonable period of time not to exceed 150 days from the date received.
+If you are a California resident and would like to make such a request, please submit your request in writing by email to [privacy@BudgetAir.com](mailto:privacy@BudgetAir.com) or write to us at: Airtrade International, Inc. d/b/a BudgetAir.com, Attn: Customer Service ? Privacy, 333 W Santa Clara St, Ste 800, San Jose, CA 95113 and reference "California Privacy Disclosure." We will respond to such requests within 30 days following receipt at the email or mailing address stated above. If we receive your request at a different email or mailing address, we will respond within a reasonable period of time not to exceed 150 days from the date received.
 
 The information we collect »  
 How we use your information »  
