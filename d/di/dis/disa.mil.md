@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disa.mil privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216111845id_/http%3A//www.disa.mil/About/Legal-and-Regulatory/Security-and-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disa.mil privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044116id_/http%3A//disa.mil/About/Legal-and-Regulatory/Security-and-Privacy) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -16,7 +16,11 @@
 
 7\. Attempts to upload or change information on this service without authorization or to download and copy with the intent to defraud are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-8\. Cookie Disclaimer - DISA does not use persistent cookies (persistent tokens that pass information back and forth from the client machine to the server). DISA may use session cookies (tokens that remain active only until you close your browser) in order to make the site easier to use. The Department of Defense DOES NOT keep a database of information obtained from these cookies.
+8\. Cookie Disclaimer - This website uses measurement and customization technology known as "cookies." Cookies are used to remember a user's online interactions with a website or online application in order to conduct measurement and analysis of usage or to customize the user's experience. 
+
+There are two kinds of cookies used on this website. A single-session cookie (Tier 1) is a line of text that is stored temporarily on a user's computer and deleted as soon as the browser is closed. A persistent or multi-session cookie (Tier 2) is saved to a file on a user's hard drive and is called up the next time that user visits a website. Use of these cookies does not involve the collection of a visitor's personally identifiable information (PII). 
+
+The Department of Defense does not use the information associated with cookies to track individual user activity on the Internet outside Defense Department websites, nor does it share the data obtained through such technologies, without the user's explicit consent, with other departments or agencies. The Department of Defense does not keep a database of information obtained from the use of cookies. 
 
 * * *
 
