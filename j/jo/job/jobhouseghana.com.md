@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobhouseghana.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930112312id_/http%3A//jobhouseghana.com/aboutus/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobhouseghana.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113150id_/http%3A//jobhouseghana.com/aboutus/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jobs in Ghana | JobHouse
+# Privacy Policy | JobHouse - Ghana's leading recruitment website
 
 The Internet is an amazing tool. It has the power to change the way we live, and we’re starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It’s important to JobHouse to help our customers retain their privacy when they take advantage of all the Internet has to offer.
 
@@ -32,7 +32,7 @@ JobHouse occasionally allows other companies to offer our registered customers i
 
 ### **Cookies & 3rd Party Advertisements**
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables[ it](http://jobhouseghana.com/ " it") to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit<http://www.networkadvertising.org/managing/opt_out.asp>.
 
