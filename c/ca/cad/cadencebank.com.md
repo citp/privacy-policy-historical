@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cadencebank.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116190449id_/http%3A//cadencebank.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadencebank.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053722id_/http%3A//cadencebank.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -102,7 +102,7 @@ Federal law gives you the right to limit only
 
   * sharing for affiliates' everyday business purposes- information about your creditworthiness 
   * affiliates from using your information to market to you 
-  * sharing for nonaffiliates to market to you 
+  * sharing for non-affiliates to market to you 
 
 
 
@@ -139,6 +139,55 @@ A formal agreement between nonaffiliated financial companies that together marke
 
   
   
+## **Cookie Policy**
+
+**Important notice: Please read carefully before using this website.** This site uses cookies to store information on your computer. Our policy explains how we use cookies. We may amend our policy from time to time without notice. Please review this policy regularly to ensure you're using our site with full and up-to-date information about how we use cookies. We'll post any amended policy on the site. By using this site, you agree to allow us to place cookies on your computer in accordance with the terms of our policy. If you don't want to accept cookies, please either disable them or refrain from using this site.
+
+### **What are cookies?**
+
+A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can recognize you when you return, as well as remember certain information about you, which can include pages you visited, choices you made from menus, any specific information you entered into forms and the time and date of your visit.
+
+### **Types of Cookies**
+
+There are two main types of cookies:
+
+  * **Session cookies:** These are temporary cookies that expire at the end of a browser session, that is, when you leave the site. Session cookies allow the website to recognize you as you navigate between pages during a single browser session and allow you to use the website most efficiently. For example, session cookies enable a website to remember that a user placed items in an online shopping basket.
+  * **Persistent cookies:** In contrast to session cookies, persistent cookies are stored on your equipment between browser sessions until they expire or you delete them. They therefore enable the website to "recognize" you when you return, remember your preferences and tailor services to you.
+
+
+
+In addition to session cookies and persistent cookies, the website you've chosen to visit, such as this website, may set other cookies to provide us or third parties with information.
+
+### **How We Use Cookies**
+
+We currently use, and may use in the future, the following types of cookies on this website.
+
+We use session cookies to:
+
+  * Help us maintain security and verify your details while you use the website. As you navigate from page to page, you won't have to reenter your details each time you enter a new page.
+
+
+
+We use persistent cookies to:
+
+  * Help us recognize you as a unique user when you return to our website. You won't have to enter your details multiple times as you move between our pages or services.
+  * Remember how you've customized how you use this site, such as your preferred currency and time zone.
+  * Collect and compile anonymous, aggregated information for statistical and evaluation purposes to help us understand how users use our website and help us improve its structure.
+
+
+
+Many cookies can help optimize how you use the Web. For example, we use cookies to improve your experience when using our website. A cookie that recognizes whether your browser supports specific technology features may help web pages load more quickly when you download a large file.
+
+In addition to cookies that send us information, we also use cookies that collect information and send it to third parties. An example of this is Google Analytics. Please check the relevant third-party website for more information about how it uses cookies. Where this site allows such cookies to be set or when you access other websites from this site using the links provided, the operators of these websites will use cookies in accordance with their own cookies policy, which may differ from ours.
+
+As with first-party cookies, you can block third-party cookies through your browser settings.
+
+Some of our cookies may collect and store your personal information, such as your name or email address. We respect and protect your privacy, and we keep and treat any personal information we collect in accordance with our Privacy Notice.
+
+### Refusing Cookies on this Site
+
+Most browsers accept cookies initially. However, you may be able to disable cookies if you wish, generally by changing your internet software browser settings. You may also be able to configure your browser settings to accept specific cookies or notify you each time a website is about to store a new cookie on your computer so you can decide whether to accept or reject the cookie. Various resources, such as the "Help" section on your browser, can help you manage your use of cookies. Other technology that's similar to cookies, such as Local Shared Objects or Flash cookies, may also store data on your computer. You may be able to disable or delete this stored data by managing your browser's "add-on settings" or visiting the website of the technology's manufacturer. Because our cookies allow you to access some of our website's essential features, we recommend that you leave cookies enabled. If you disable cookies, you may experience reduced functionality or be unable to use this site altogether.
+
 ## **Security**
 
 This Internet Banking System brings together a combination of industry-approved security technologies to protect data for the bank and for you, our customer. It features password-controlled system entry, a VeriSign-issued Digital ID for the bank's server, Secure Sockets Layer (SSL) protocol for data encryption, and a router with a firewall to regulate the inflow and outflow of server traffic.
