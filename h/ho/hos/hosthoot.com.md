@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hosthoot.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226062730id_/http%3A//www.hosthoot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosthoot.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133316id_/http%3A//www.hosthoot.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Host Hoot
 
