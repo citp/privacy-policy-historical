@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the leagueofcomicgeeks.com privacy policy that was archived on 2013-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131005100322id_/http%3A//leagueofcomicgeeks.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leagueofcomicgeeks.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625115028id_/http%3A//leagueofcomicgeeks.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>League of Comic Geeks Privacy Policy</title>
@@ -20,6 +20,13 @@
 <script type="text/javascript" src="http://leagueofcomicgeeks.com/assets/js/jquery-general.js"></script>
 <script type="text/javascript" src="http://leagueofcomicgeeks.com/assets/js/jquery.rateit.js"></script>
 <script type="text/javascript" src="http://leagueofcomicgeeks.com/assets/js/jquery-colorbox.js"></script>
+<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>  
+<script>
+$(document).ready(function() {
+  $(".date-pick").datepicker({ changeYear: true });
+});
+</script>
 <script type="text/javascript" src="http://leagueofcomicgeeks.com/assets/js/typeahead.min.js"></script>
 <script type="text/javascript">
 
@@ -54,6 +61,7 @@
             <div class="nav-collapse collapse">
         <ul class="nav">
           <li><a href="/comics">My Comics</a></li>
+          <li><a href="/comics/new-comics">New Comics</a></li>
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="/discover">Discover <b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li><a href="/comics">Browse Comics</a></li>
@@ -81,6 +89,7 @@
   </div>
 </div>
   
+  
 <div class="content-breadcrumbs-bar">
   <ul class="content-breadcrumbs container">
             <li><a href="/">Home</a></li>
@@ -88,22 +97,23 @@
           </ul>
 </div>
   
-<script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/edoXvUiLvxUooiGFzaymDQ.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>
-
-<!-- A tab to launch the Classic Widget -->
 <script>
-UserVoice = window.UserVoice || [];
-UserVoice.push(['showTab', 'classic_widget', {
-  mode: 'full',
-  primary_color: '#0079c4',
-  link_color: '#ff4400',
-  default_mode: 'feedback',
-  forum_id: 213333,
-  tab_label: 'Feedback & Support',
-  tab_color: '#0079c4',
-  tab_position: 'middle-right',
-  tab_inverted: false
+// Include the UserVoice JavaScript SDK (only needed once on a page)
+UserVoice=window.UserVoice||[];(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/edoXvUiLvxUooiGFzaymDQ.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})();
+
+// Set colors
+UserVoice.push(['set', {
+  accent_color: '#e2753a',
+  trigger_color: 'white',
+  trigger_background_color: '#448dd6'
 }]);
+
+
+// Add default trigger to the bottom-right corner of the window:
+UserVoice.push(['addTrigger', { mode: 'contact', trigger_position: 'bottom-right' }]);
+
+// Autoprompt for Satisfaction and SmartVote (only displayed under certain conditions)
+UserVoice.push(['autoprompt', {}]);
 </script>
   
 <div class="content-header-section">
@@ -120,24 +130,24 @@ UserVoice.push(['showTab', 'classic_widget', {
     <div class="content"><div class="content-full">
 
 <p><strong>What information do we collect?</strong></p>
-    <p>We collect information from you when you register on our website. When registering on our site, you will be asked to enter a username, password, and email address. You may, however, visit our site anonymously without creating an account.</p>
-    <p>Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..</p>
+    <p>We collect information from you when you register on our website and the Comic Geeks app. When registering, you will be asked to enter a username, password, and email address. You may, however, visit our site anonymously without creating an account.</p>
+    <p>Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..</p>
     <p><strong>What do we use your information for?</strong></p>
     <p>Any of the information we collect from you may be used in one of the following ways:</p>
     <ul>
         <li>To personalize your experience: your information helps us to better respond to your individual needs</li>
-        <li>To improve our website: we continually strive to improve our website offerings based on the information and feedback we receive from you</li>
+        <li>To improve our website and apps: we continually strive to improve our offerings based on the information and feedback we receive from you</li>
         <li>To administer a contest or other site feature</li>
         <li>To send periodic emails through our newsletter and account updates</li>
     </ul>
     <p>The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.</p>
     <p><strong>How do we protect your information?</strong></p>
     <p>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.</p>
-    <p><strong>Do we use cookies?</strong></p>
+    <p><strong>Do we use cookies on our website?</strong></p>
     <p>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information</p>
     <p>We use cookies to help us remember, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
     <p><strong>Do we disclose any information to outside parties?</strong></p>
-    <p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+    <p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website and Comic Geeks app, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
     <p><strong>Third party links</strong></p>
     <p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
     <p><strong>California Online Privacy Protection Act Compliance</strong></p>
@@ -146,18 +156,14 @@ UserVoice.push(['showTab', 'classic_widget', {
     <p><strong>Childrens Online Privacy Protection Act Compliance</strong></p>
     <p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
     <p><strong>Online Privacy Policy Only</strong></p>
-    <p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+    <p>This online privacy policy applies only to information collected through our website and Comic Geeks app and not to information collected offline.</p>
     <p><strong>Your Consent</strong></p>
-    <p>By using our site, you consent to our web site privacy policy.</p>
+    <p>By using our site or the Comic Geeks app, you consent to our privacy policy.</p>
     <p><strong>Changes to our Privacy Policy</strong></p>
-    <p>If we decide to change our privacy policy, we will update the Privacy Policy modification date below. <br><br>This policy was last modified on 03/01/2011</p>
+    <p>If we decide to change our privacy policy, we will update the Privacy Policy modification date below. <br><br>This policy was last modified on 04/20/2014</p>
     <p><strong>Contacting Us</strong></p>
     <p>If there are any questions regarding this privacy policy you may contact us using the information below or through our <a href="/contact-us">contact form</a>.</p>
-    <p>http://leagueofcomicgeeks.com<br>pr@leagueofcomicgeeks.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></p>
+    <p>http://leagueofcomicgeeks.com<br>pr@leagueofcomicgeeks.com</p>
 
 </div>      <div style="clear: both;
 height: 1px;
@@ -174,7 +180,7 @@ overflow: hidden;">&nbsp;</div>
         <a href="http://leagueofcomicgeeks.com/">Home</a> |
                   <a href="http://leagueofcomicgeeks.com/join">Register</a> |
          
-        <a href="http://leagueofcomicgeeks.com/news">News</a> | <a href="http://leagueofcomicgeeks.com/about">About</a> | <a href="javascript:void(0)" data-uv-lightbox="classic_widget" data-uv-mode="full" data-uv-primary-color="#0079c4" data-uv-link-color="#ff4400" data-uv-default-mode="support" data-uv-forum-id="213333">Feedback &amp; Support</a> | <a href="http://leagueofcomicgeeks.com/privacy-policy">Privacy Policy</a> | © 2010-2013 All rights reserved.         
+        <a href="http://leagueofcomicgeeks.com/news">News</a> | <a href="http://leagueofcomicgeeks.com/about">About</a> | <a href="javascript:void(0)" data-uv-lightbox="classic_widget" data-uv-mode="full" data-uv-primary-color="#0079c4" data-uv-link-color="#ff4400" data-uv-default-mode="support" data-uv-forum-id="213333">Feedback &amp; Support</a> | <a href="http://leagueofcomicgeeks.com/privacy-policy">Privacy Policy</a> | © 2010-2014 All rights reserved.         
     </div>
   </div>
 </div>
