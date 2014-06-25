@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themekraft.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208201936id_/http%3A//themekraft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themekraft.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044631id_/http%3A//themekraft.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WordPress Themes by Themekraft
+# Privacy Policy - WordPress Themes by Themekraft
 
 **We respect your privacy, which is critically important to us. Our fundamental principles are:**
 
