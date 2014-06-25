@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playkix.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818040534id_/http%3A//www.playkix.com/pages/2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playkix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165210id_/http%3A//www.playkix.com/pages/2/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PlayKix
+# Privacy Policy - Playkix.com
 
 **Privacy Policy – playkix.com**   
 If you require any more information about our privacy policy, please feel free to contact us at k-kalyani[a]hotmail.com. The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.playkix.com and how it is used. 
