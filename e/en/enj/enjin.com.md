@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the enjin.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119095955id_/http%3A//www.enjin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjin.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625175512id_/http%3A//www.enjin.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy dec 2010
+# Privacy Policy
 
 Privacy Policy
 
-Last revision: December, 2010
+Last revision: December, 2013
 
 Enjin provides[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.enjin.com%2F&sa=D&sntz=1&usg=AFQjCNEDEndMtY0toNm-WBFjv6dKdaZ6Cg)[guild hosting](http://www.google.com/url?q=http%3A%2F%2Fwww.enjin.com%2F&sa=D&sntz=1&usg=AFQjCNEDEndMtY0toNm-WBFjv6dKdaZ6Cg) and[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.enjin.com%2F&sa=D&sntz=1&usg=AFQjCNEDEndMtY0toNm-WBFjv6dKdaZ6Cg)[clan website hosting](http://www.google.com/url?q=http%3A%2F%2Fwww.enjin.com%2F&sa=D&sntz=1&usg=AFQjCNEDEndMtY0toNm-WBFjv6dKdaZ6Cg).
 
@@ -77,6 +77,16 @@ Enjin does offer free services which are ad-supported. Therefore, we allow adver
   3. Users may opt out of the use of the DART cookie by visiting the[ ](http://www.google.com/privacy_ads.html)[Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
+
+Google Analytics
+
+Enjin websites have the ability to use Google Analytics to generate and track their own statistics for their website. Due to this, and that Enjin supports display advertising with Google, you must understand the following. 
+
+
+
+* Third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to your site.
+* Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+* Third-party vendors, including Google, may show your ads on sites across the Internet.
 
 Information sharing with Third Parties
 
