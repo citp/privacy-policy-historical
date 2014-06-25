@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cdburnerxp.se privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216204828id_/http%3A//cdburnerxp.se/help/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdburnerxp.se privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105204id_/http%3A//cdburnerxp.se/help/policies/privacy) for the most accurate reproduction.*
 
 # CDBurnerXP: Privacy Policy
-
-## Contact form
 
 If you contact us using the contact form (at <http://cdburnerxp.se/contact>), only the data you entered in one of the fields will be stored. 
 
@@ -50,6 +48,12 @@ Cookies will be used to store a user's settings (like login information at the [
 Additional to that, third parties which are not under our control may use cookies. Google for example uses cookies for ads displayed on the web page, and they have their own [privacy policy](http://www.google.com/privacy.html "http://www.google.com/privacy.html"). 
 
 Note about Google ads: Google's use of the DART cookie enables it to serve ads based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html"). 
+
+## Echo Nest music identification
+
+For music identification (if you use the feature), CDBurnerXP generates a fingerprint of the song you identify (basically a “compressed” version of the music that only is a few KB in size) and submits it to EchoNest servers. No further data that identifies yourself or your file is submitted. 
+
+You may also want to check the [EchoNest privacy policy](http://the.echonest.com/privacy/ "http://the.echonest.com/privacy/"). 
 
 ## Installer / OpenCandy
 
