@@ -1,39 +1,41 @@
-> *The following text is extracted and transformed from the elitehost.co.za privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723120839id_/http%3A//www.elitehost.co.za/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitehost.co.za privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625145944id_/http%3A//www.elitehost.co.za/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Elitehost Web Hosting, Reseller Hosting, VPS and Domains by Elitehost
 
-The Privacy policy below describes how Elitehost, a division of Optify Systems (Pty) Ltd collects and uses information about its customers and website visitors.
+#### 1\. Introduction
 
-#### We are committed to protecting your privacy
+The purpose of this privacy policy is to explain to customers what types of information we will collect and how that information is used. In most cases, we collect this information to ensure network integrity and that we continue to provide you with the most relevant content and best possible service that suits your needs. In some cases, we are required by law to collect personal information about customers. Except where the law requires otherwise, we undertake to protect the confidentiality of such data.
 
-We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information.
+#### 2\. Confidentiality
 
-#### Information Collected
+Elitehost, a division of Optify Systems (Pty) Ltd respects customer privacy and the privacy of those accessing our website, or those websites hosted by us. We undertake to protect the confidentiality of our customers and users including all personal information supplied in the course of contracting with us for services. We undertake not to sell your personal information to third parties for commercial or marketing purposes.
 
-We may collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, address, telephone number, fax number and email address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website.
+#### 3\. Collection of Personal Data
 
-#### Information Use
+Elitehost, a division of Optify Systems (Pty) Ltd collects personal data about our users when you visit a website hosted by us; apply for a hosting package or domain and through theuse of cookie technology.
 
-We use the information collected primarily to process the task for which you visited the website. All reasonable precautions are taken to prevent unauthorized access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details.
-
-#### Cookies
+#### 4\. Cookies
 
 Your Internet browser has the in-built facility for storing small files - "cookies" - that hold information which allows a website to recognize your account. Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired.
 
-#### Disclosing Information
+#### 5\. Use of Personal Data
 
-We do not disclose any personal information obtained about you from this website to third parties. We may use the information to keep in contact with you and inform you of developments associated with our business. You will be given the opportunity to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent.
+Elitehost, a division of Optify Systems (Pty) Ltd may on occasion use your personal information to contact you to advise you of matters relevant to service provision and in some cases, solicit your feedback. We do not pass on any personal details to 3rd parties for any promotional purposes.
 
 We may from time to time provide information of a general nature to third parties - for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals.
 
-#### Disclosure to Law Enforcement
+Any information Elitehost collects from you through correspondence with us, whether via e-mail, telephonically or by written letter, will only be used to address the matters within that correspondence. If this requires referring such correspondence within Elitehost or to a third party to ensure customer service, your personal information will only be disclosed to the point necessary to address your query or concerns, and will otherwise be kept confidential.
 
-Elitehost may disclose any subscriber information to law enforcement agencies without further consent or notification to the subscriber upon lawful request from such agencies. We will cooperate fully with law enforcement agencies.
+#### 6\. Reservation of Rights
 
-#### Changes to this Policy
+Elitehost reserves the right to disclose information about customers where required in good faith, to do so by law or to exercise our legal rights or defend ourselves against legal claims.
 
-Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
+Elitehost further reserves the right to share information with law enforcement to investigate or prevent illegal activities being committed over our network
 
-#### Contacting Us
+#### 7\. Changes to this Policy
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please contact us here. You can also correct any factual errors in that information or require us to remove your details from any list under our control.
+Elitehost, a division of Optify Systems (Pty) Ltd reserves the right to make changes to this privacy policy or update it. Where a major change is made, customers will be informed by e-mail notification or through a notice on our website. Customers and site visitors bear the responsibility to ensure that they have read the changes or updates as the case may be.
+
+#### 8\. Contacting Us
+
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please contact management@elitehost.co.za. You can also correct any factual errors in that information or require us to remove your details from any list under our control.
