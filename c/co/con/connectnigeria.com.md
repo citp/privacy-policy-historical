@@ -1,60 +1,72 @@
-> *The following text is extracted and transformed from the connectnigeria.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626075930id_/http%3A//connectnigeria.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectnigeria.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625170730id_/http%3A//www.connectnigeria.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Connect Nigeria
+# connectnigeria.com - Privacy Policy
 
-**About this Privacy Policy**  
-Privacy is an important priority for Connect Nigeria. Practical tips have been developed to help guard against Internet fraud, secure your computer and protect your personal information.
+What information do we collect at Connect Nigeria?   
 
-**How Connect Nigeria Uses Your Personal Information**  
-This policy covers how Connect Nigeria treats personal information that we collect and receive. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This privacy policy applies only to Connect Nigeria and does not apply to the practices of companies that Connect Nigeria does not own or control, or to people that Connect Nigeria does not employ or manage.
 
-Connect Nigeria collects personal information when you register, when you visit Connect Nigeria web pages and when you enter promotions. Connect Nigeria may combine information about you that we have with information we obtain from business partners or other companies.
+Connect Nigeria collects information from you when you register, place an order, subscribe to our newsletter, respond to a survey or fill out a form on the website.   
+When ordering or registering on Connect Nigeria, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information.  
 
-When you register we ask for information such as your name, email address, birth date, gender, postal code, occupation, industry, and personal interests. When you register with Connect Nigeria and sign in to our services, you are not anonymous to us.
 
-Connect Nigeria automatically receives and records information from your computer and browser, including your IP address, Connect Nigeria cookie information, software and hardware attributes, and the pages you request.
+### What do we use your information for?   
 
-Connect Nigeria uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
-**Information Sharing and Disclosure**  
-Connect Nigeria does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
+Any of the information we collect from you may be used in one of the following ways: 
 
-We provide the information to trusted partners who work on behalf of or with Connect Nigeria under confidentiality agreements. These companies may use your personal information to help us communicate with you about offers from Connect Nigeria and our marketing partners. However, these companies do not have any independent right to share this information.
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails
 
-We respond to court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
 
-We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Connect Nigeria’s terms of use, or as otherwise required by law.
 
-We transfer information about you if Connect Nigeria is acquired by or merged with another company. In this event, Connect Nigeria will notify you before information about you is transferred and becomes subject to a different privacy policy.
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional news about Connect Nigeria, updates, related product or service information etc. 
 
-Connect Nigeria displays targeted advertising based on personal information. Connect Nigeria does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
+### How do we protect your information?   
 
-Connect Nigeria advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
 
-Connect Nigeria works with vendors, partners, advertisers, and other service providers in different industries and categories of business.
+Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information  
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.  
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.  
+Do we disclose any information to outside parties?   
 
-**Cookies**  
-Connect Nigeria may set and access cookies on your computer. Connect Nigeria lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Connect Nigeria’s cookies. Connect Nigeria uses web beacons to access Connect Nigeria cookies inside and outside our network of web sites and in connection with Connect Nigeria products and services. You can delete Connect Nigeria cookies on your computer at any time – just remember that deleting these cookies will also result in the loss of your Connect Nigeria preferences and saved passwords and settings.
 
-**Editing your Account Information**  
-You can edit your Connect Nigeria Account Information at any time.
+###  Third party links 
 
-We reserve the right to send you certain communications relating to the Connect Nigeria service, such as announcements, administrative messages and the Connect Nigeria Newsletter, that are considered part of your Connect Nigeria account, without offering you the opportunity to opt out of receiving them.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.  
 
-You can delete your Connect Nigeria account by visiting your Account page. Please click here to read about information that might possibly remain in our archived records after your account has been deleted. 
 
-**Confidentiality and Security**  
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+###  Childrens Online Privacy Protection Act (COPPA) Compliance 
 
-We have physical, electronic, and procedural safeguards that comply with government and industry regulations to protect personal information about you.
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.  
 
-Connect Nigeria may update this policy at any time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Connect Nigeria account.
 
-**Questions and Assistance**  
-If you have questions or need assistance with issues regarding your privacy on Connect Nigeria, please contact us at:
+###  Terms and Conditions 
 
-Connect Nigeria  
-Privacy Policy Issues  
-[info@connectnigeria.com](mailto:info@connectnigeria.com)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.connectnigeria.com/terms_and_conditions.php](https://web.archive.org/web/20140625170730id_/http%3A//www.connectnigeria.com/terms_and_conditions.php)  
 
-_Effective Date: January 10, 2010_
+
+###  Your Consent 
+
+By using our Connect Nigeria, you consent to our online privacy policy.
+
+### Changes to our Privacy Policy 
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.   
+This policy was last modified on December 5, 2013
+
+### Contacting Us   
+
+
+If there are any questions regarding this privacy policy you may contact us using the information below.   
+
+
+www.connectnigeria.com/contact.php  
+26A, Awori Road, Off Corporation Drive, Dolphin Estate  
+Ikoyi, Lagos  
+Nigeria  
+[contact@connectnigeria.com](mailto:contact@connectnigeria.com)  
+(0809) 800-5000  
+
