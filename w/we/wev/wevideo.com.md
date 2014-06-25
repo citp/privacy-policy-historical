@@ -1,77 +1,153 @@
-> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808003317id_/http%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626000710id_/http%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WeVideo
 
-_Revised: September 13, 2011_
+### WeVideo Privacy Policy
 
-Your privacy is very important to us.  We have prepared this Privacy Policy to explain how we collect, use protect, and disclose information and data when you use the (www.wevideo.com) website (" ** _Site_** ") or WeVideo services (" ** _Services_** ").  This Privacy Policy also explains your choices for managing your information preferences, including opting out of certain uses of your Personal Information.  By using the Site or Services you consent to this Privacy Policy. 
+_Last Modified: March 5, 2014_
 
-### Managing Your Information Preferences
+Your privacy is very important to us.  This Privacy Policy explains how WeVideo, Inc., (“ _ **we**_ ” or “ _ **WeVideo**_ ”) use protect, and disclose the information we collect when you use the WeVideo services (the “ ** _Services_** ”) through our website [www.wevideo.com](http://www.wevideo.com/) (“ _ **Site**_ ”), applications on Devices (“ _ **Apps**_ ”), through APIs, and through third parties.  A “ ** _Device_** ” is any computer used to access the Services, including without limitation a desktop, laptop, smartphone, tablet, or other consumer electronic device.
 
-You can always review, correct, update, or change your Personal Information through your account settings or by contacting us at support@wevideo.com.  You can opt out of receiving certain e-mails by changing the relevant settings in your profile or account.  If you have questions or concerns regarding this Privacy Policy, please e-mail us at support@wevideo.com.
+We reserve the right to modify this Privacy Policy effective immediately following posting of the modified version on the Site.  Your use of our Services following posting will constitute your acceptance of the modified version.   **IF YOU DO NOT ACCEPT THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SERVICES.**
 
-### Information We Collect
+## **THE INFORMATION WE COLLECT AND STORE**
 
-### Personal Information
+WeVideo may collect and store the following information when running our Services.
 
-We collect information that personally identifies you, such as your name, username, e-mail, and other personally identifiable information that you choose to provide us with or that you choose to include in your profile or account (" ** _Personal Information_** ").  You may be asked to provide us with Personal Information when you register with the Site or use any of our Services, and at other times.  The decision to provide this information is optional.  However, if you choose not to provide the requested information, you may not be able to use some or all of the features of the Site or Services.
+## Information You Provide
 
-### Usage Data and Site Activity
+Depending on how you use the Services, you may be required to provide certain personally identifiable information (“ _ **Personal Information**_ ”), which may include, but is not limited to, your:
 
-We automatically collect information regarding the actions you take on the Site, such as liking content, as well as all of your entries and submissions on the Site, such as your comments, your posts, and other similar information (" ** _Usage Data_** ").  For example, each time you use the Site we automatically collect the type of Web browser you use, your operating system, your Internet Service Provider, your IP address, the pages you view, and the time and duration of your visits to the Site.  This anonymous usage information may be associated with your username and profile, but we do not disclose the associated information to third parties.  We use this information to help us understand how people use the Site and Services, and to enhance the services we offer. 
+  * Name
+  * Email address
+  * Mailing address
+  * Username for social media accounts you wish to connect to your account
+  * Your image and likeness if you include it in any media content that you upload or include in videos that you create with our Services (these type of files are referred to as your “ _ **User Content**_ ”)
 
-### Cookies and Web Beacons
 
-We use cookies (a small text file placed on your computer to identify your computer and browser).  We also use Web beacons (an electronic file placed on a Web site that monitors usage).  We use cookies and Web beacons to improve the experience of the Site and Services, such as pre-populating your username for easier login.  We do not use cookies or Web beacons to collect Personal Information.  Most Web browsers are initially set up to accept cookies.  You can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent.  However, certain features of the Site or Services may not work if you delete or disable cookies.  Some of our Service Providers may use their own cookies and Web beacons in connection with the services they perform on our behalf.
 
-### How We Use Information and When We May Share and Disclose Information Generally
+You may choose not to provide your Personal Information; however, if you do not provide your Personal Information you may not be able to use all the functions offered by the Services.
 
-We use Personal Information for internal purposes only, such as to provide you with the Site and Services, to improve the Site and Services, to notify you of new products or Services, and to otherwise communicate with you about our products and services.  We may also use your Personal Information to provide more relevant search results from the search functions of the Site and the Services.  We will not disclose Personal Information to third parties, including for their direct marketing purposes, without your consent, except as explained in this Privacy Policy.  We may disclose to third parties, certain Usage Data regarding the Site and Services.  However, in such cases, your Usage Data is aggregated with the Usage Data of others and does not identify you individually.
+Our Services offer publicly accessible community services such as blogs, forums, and public video pages. You should be aware that any information you provide in these areas might be read, collected, and used by others who access them. Your posts may remain even after you cancel your account. For questions about your Personal Information on our Services, please contact info@wevideo.com.
 
-### Profile Information You Make Available to Others
+## Refer a Friend
 
-By using the Site or the Services you may make certain of your Personal Information available to others.  For example, if your username contains your real name, and you post a comment on the Site, other users may see your name, the city you live in and other information from your profile that you choose to make available to others.  You can control the information in your profile that you wish to make available to others in the account settings portion of the Site.  The information you choose to make available, may be accessed by users who use the Site and may be accessed by commercial search engines such as Google, Yahoo! and Bing to the extent that such engines are permitted to access the Site.
+When you invite others to join WeVideo or share your User Content via email, you will need to provide us with email addresses for each person that you wish to send your User Content or  an invite to.
 
-### Third Party Services and Applications
+## Usage Data
 
-Through the Site and the Services, you may elect to access third-party services and applications, such as Facebook and other social networks.  When you do so, you may be able to import information from those other services and applications and share content with those services.  Some of those third-party services may also provide us with information from your accounts which may enable us to enhance and personalize your use of the Site and Services (e.g., so that you can follow your Facebook friends’ activity on the Site).  If you elect to enable such third-party services or applications on the Site or Services, the information you share with such third-party services and applications will be subject to their privacy policies.
+In addition, when you use our Services, the following types of information may all be logged automatically (“ _ **Usage Information**_ ”):
 
-### Service Providers
+  * Your Device’s Internet Protocol (“ _ **IP**_ ”) address,
+  * Type of mobile device you use,
+  * Operating system of your mobile device,
+  * Browser type,
+  * Non-precise geographic location (e.g. zip code and city)
+  * Technical information about your device, system and App software, and peripherals
+  * date and time stamps associated with transactions,
+  * system configuration information,  and
+  * metadata concerning your User Content, and other interactions with our Services.
 
-From time to time, we may establish a business relationship with other businesses whom we believe trustworthy and who have confirmed that their privacy practices are consistent with ours (" ** _Service Providers_** ").  For example, we may contract with Service Providers to provide certain services, such as hosting and maintenance, data storage and management, and marketing and promotions.  We only provide our Service Providers with the information necessary for them to perform these services on our behalf.  Each Service Provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use or disclosure.  Service Providers are prohibited from using Personal Information other than as specified by us.
 
-### Advertising
 
-We may allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Site.  These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of interest to you.  These companies typically use a cookie or third party Web beacon to collect this information.  To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/. 
+## Cookies and Web beacons
 
-### Other Transfers
+WeVideo also uses “cookies” to collect information and improve our Services. A cookie is a small data file that we transfer to your Device. We may use “persistent cookies” to save your registration ID and login password for future logins to our Services. We may use “session ID cookies” to enable certain features of our Services, to better understand how you interact with our Services and to monitor aggregate usage and web traffic routing on our Services. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of our Services.
 
-We may share Personal Information and Usage Data with businesses controlling, controlled by, or under common control with is.  If we are merged, acquired, or sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer Personal Information and Usage Data in connection with such transaction.  You will have the opportunity to opt out of any such transfer if, in our discretion, the new entity plans to handle your information in a way that differs materially from this Privacy Policy.
+We also use Web beacons, also called web bugs to collect information and improve our Services. A Web beacon is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a site or in an email.
 
-### Compliance with Laws and Law Enforcement
+We do not use cookies or Web beacons to collect Personal Information nor do we collect precise geographic location.  However, some Devices automatically log location information in photos and videos recorded by that Device. If you upload any User Content from a Device that does so, .you agree that we may use this information to optimize your experience. If you do not wish to share User Content embedded with your geo-location information with us, please do not upload them. If you don’t want to store location data in your User Content, please consult the documentation for your Device to turn off that feature.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law.  We may disclose Personal Information and any other information about you to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect our safety, property, or rights, and the safety, property, and rights of any third party, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+## Analytics
 
-### Be Careful When You Share Information with Others
+WeVideo also collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can sometimes be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google Analytics. [The Privacy Policy of Google Analytics](http://www.google.com/intl/en/policies/) are available online, [and information on how to opt out of that service](https://tools.google.com/dlpage/gaoptout?hl=en).
 
-Please be aware that whenever you share information on a publicly available profile page or any other public forum on the Site, that information may be accessed by others.  In addition, please remember that when you share information in any other communications with third parties that information may be passed along or made public by others.  This means that anyone with access to such information can potentially use it for any purpose, including sending unsolicited communications.
+## **HOW WE USE YOUR INFORMATION**
 
-### Security
+We use your information:
 
-We recognize the importance of safeguarding the confidentiality of your Personal Information.  Accordingly, we employ reasonable measures designed to protect your information from unauthorized access.  However, no data transmission over the Internet or other network can be guaranteed to be 100% secure.  As a result, while we strive to protect information transmitted on or through the Site or Services, we cannot and do not guarantee the security of any information you transmit on or through the Site or Services, and you do so at your own risk.
+  * to provide and improve our Services,
+  * to administer your use of our Services,
+  * to better understand your needs and interests,
+  * to personalize and improve your experience, and
+  * to provide or offer software updates and product announcements.
+  * to enhance current and develop new products and services
 
-### Links To Other Web Sites
 
-Our Site and Services may contain links to other websites, or allow others to send you such links.  A link to a third party's website does not mean that we endorse it or that we are affiliated with it.  We do not exercise control over third-party websites.  You access such third-party websites or content at your own risk.  You should always read the privacy policy of a third-party website before providing any information to the website.
 
-### Children's Privacy
+If you submit Personal Information to us, we will only use it for the purpose you requested or for which it is collected or for any purpose you subsequently authorize. 
 
-We do not knowingly collect Personal Information from children under the age of 13.  If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records.  In addition, we recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet.
+You grant WeVideo an irrevocable, perpetual, royalty-free right and license to use the anonymous information we collect in any way.
 
-### Processing in the United States 
+WeVideo does not access your contact information or address book within your mobile device.  Nor does WeVideo have any access to any of the personal information or credit card information that you have provided to Apple or Google to register for their services.
 
-Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country.  If you are located outside of the United States, please be advised that we process and store all information in the United States.  The laws in the United States may not be as protective of your privacy as those in your location.  By using our Site or Services, you agree that the collection, use, transfer, and disclosure of your Personal Information and communications will be governed by the applicable laws in the United States.
+## **SPECIAL CONSIDERATION FOR PAYMENT INFORMATION**
 
-### Privacy Policy Changes
+If you provide credit card or debit card information to complete a purchase, it is our policy to use third-party payment processing systems that comply with the Payment Card Industry Data Security Standard (PCI-DSS), which is an industry wide security standard designed to protect the confidentiality and security of your credit card information, by encryption using secure socket layer technology (SSL) and storage with AES-256 encryption.  Currently, we use Zuora, Inc., but we reserve the right to change this service provider at any time for any reason. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.  Your credit card information will also be subject to our payment processor’s privacy policy in addition to ours. **PLEASE READ THE PRIVACY POLICY ON THE WEBSITE OF ANY PAYMENT PROCESSOR THAT YOU ARE DIRECTED TO REGARDING THE USE, STORAGE AND PROTECTION OF YOUR CREDIT CARD INFORMATION BEFORE SUBMITTING ANY CREDIT CARD INFORMATION.**
 
-From time to time, we may change this Privacy Policy.  If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site.  Those changes will go into effect on the Revision Date shown in the revised Privacy Policy.  Your continued use of our Site or Services constitutes your consent to the revised Privacy Policy.
+All information that you provide to us or our third party payment processor must be accurate, current and complete.  In the event of a dispute, we may issue you with a provisional credit to your card until the dispute is resolved.  If we issue a provisional credit and the dispute is resolved and the charges were correct, we shall recharge your debit or credit card to reverse this provisional credit. You expressly consent to this reversal if you falsely or incorrectly dispute a charge.  If you wish to dispute a charge by mail or telephone please contact us at info@wevideo.com.  If we elect at any time to charge any convenience fee for making a payment via a debit card, credit card, or electronic check, these fees will be stated at the time of payment before you finalize your charge.  In the event of an unauthorized charge using a debit card or electronic check, please consult your bank’s rules regarding refunds and reversals.  WeVideo complies with all legal requirements of your State’s applicable laws regarding providing refunds for unauthorized charges.  When you make a charge, we shall display a completed charge screen.  This is your electronic receipt.  You should print or save this electronic receipt for your records.  YOU REPRESENT AND WARRANT THAT YOU HAVE THE LEGAL RIGHT TO USE ANY CREDIT CARDS, DEBIT CARDS OR OTHER PAYMENT MEANS USED TO INITIATE ANY TRANSACTION.
+
+## **INFORMATION SHARING AND DISCLOSURE**
+
+Further, you agree that WeVideo may transfer the anonymous information we collect in the event of any corporate restructuring or any sale, assignment or transfer of substantially all of its rights in the Apps.
+
+We may disclose information about you if we become subject to a subpoena or court order, or if we are otherwise legally required to disclose information.  We may also use and disclose information about you to establish or exercise our legal rights, to enforce the Terms of Use, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person.   If we are involved in a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of that transaction, but we will notify you (for example, via email and/or a prominent notice on our website) of any change in control or use of your Personal Information or User Content, or if either become subject to a different Privacy Policy. We will also notify you of choices you may have regarding the information.
+
+WeVideo will display your Personal Information in your profile page and elsewhere on our Services according to the preferences you set in your account. Any information you choose to provide should reflect how much you want others to know about you. Please consider carefully what information you disclose in your profile page and your desired level of anonymity. You can review and revise your profile information at any time. We do not sell your personal information to third parties. We may also share or disclose your information with your consent, for example if you use a third party application to access your account. Through certain features of our Services, you may also have the ability to make some of your information public. Public information may be broadly and quickly disseminated.
+
+**Service Providers, Business Partners and Others**.   WeVideo may use certain trusted third party companies and individuals to help us provide, analyze, and improve our Services (including but not limited to data storage, maintenance services, database management, web analytics, email communication, payment processing, and improvement of the Service’s features). These third parties may have access to your information only for purposes of performing these tasks on our behalf and under obligations similar to those in this Privacy Policy. As of the date this policy went into effect, we use:
+
+  * Amazon’s S3 storage service to store some of your information (for example, your User Content)
+  * HubSpot’s marketing platform to perform personalized email communication
+  * Zuora’s subscription platform to handle subscription management, billing and payment    transactions
+  * Google Analytics to collect and report usage data
+
+
+
+**Third-Party Applications**.   WeVideo may share your Information with a third party application with your consent, for example when you choose to access our Services through such an application. We are not responsible for what those parties do with your information, so you should make sure you trust the application and that it has a privacy policy acceptable to you.
+
+**Non-private or Non-Personal Information**.   WeVideo may disclose your non-private, aggregated, or otherwise non-personal information, such as usage statistics of our Services. However, in such cases, your usage data is aggregated with the usage data of others and does not identify you individually.
+
+## **CHANGING OR DELETING YOUR INFORMATION**
+
+If you are a registered user, you may review, update, correct or delete the Personal Information provided in your registration or account profile by changing your “account settings.” If your Personal Information changes, or if you cancel your use of our Services, you may update or delete it by making the change on your account settings.
+
+## **WEVIDEO ENTERPRISE ACCOUNT**
+
+If you have a WeVideo Enterprise account, your Administrator may be able to:
+
+  * access information in and about your WeVideo Enterprise account;
+  * disclose, restrict, or access information that you have provided or that is made available to you when using your WeVideo Enterprise account; and
+  * control how your WeVideo Enterprise account may be accessed or deleted.
+
+
+
+Please refer to your organization's policies if you have questions about your Administrator's rights.
+
+## **LINKED SITES**
+
+Our Services may contain links to other Web sites whose privacy practices may differ from those of WeVideo. If you submit personal Information to any of those sites, your Information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+
+## **SECURITY**
+
+WeVideo takes reasonable steps to help protect Information against loss, misuse, unauthorized access or disclosure.  **WeVideo expressly disclaims any representation or warranty, whether express or implied, with respect to offering any definitive promise of security in connection with The anonymous information we collect.**
+
+## **OUR POLICY TOWARD CHILDREN**
+
+In compliance with the Children’s Online Privacy Protection Act (COPPA) of 1998, the Services are not intended for use if you are under 13 years of age unless you have the consent of your parent or legal guardian. In order to use the Services, you need to be over 13 years old or you will need to have the consent of your parent or guardian.
+
+We may use any of the following methods to verify that you have your parents’ consent:
+
+· At registration, we will require that you provide your first name and a parent’s valid email address.  We will send your parent a notification email stating that you have requested to create an account on our Website and receive our e-newsletters on an ongoing basis and describing the information you provided at registration and contact information for your parent to respond and request that we stop sending you any emails, cancel your account, and/or delete, modify or edit your information.  We will also use your parent’s email address to let your parent know about any changes to our Privacy Policy.  Your parents may at any time review, change and/or delete any information that we have collected about you by emailing support@wevideo.com.
+
+· If your account is being created by a teacher, your teacher must first obtain your parent’s consent. If your teacher creates a student account for you without your parent first signing a consent form, please inform your parent immediately so that they can instruct us to remove your information from our files.
+
+**WARNING:  ** **any personal  information (e.g.,  name, email address, personal photographs) that you voluntarily disclose in any video may be collected and used by parties other than us and may result in unsolicited messages from other parties. If you believe that any child under the age of 13 has posted any personal information anywhere on our website, please contact us immediately at support@wevideo.com and provide as much information as you can to help us locate and delete the personal information.  If you post personal information in any video, we have no control over this use of your personal information and, as such, cannot be responsible for it.  We reserve the right, but not the obligation, to: (a) delete any personal information we discover or which is brought to our attention, at any time, for any reason whatsoever; (b) immediately terminate your account and/or (c) contact your parents regarding the video.**
+
+## **YOUR CONSENT**
+
+If you reside outside the U.S., the anonymous information we collect will be transferred to the U.S. and processed and stored there under U.S. privacy standards.  By using the Services and providing Information to WeVideo, you consent to the use, transfer and processing of the anonymous information we collect as set forth in this Privacy Policy, all of which activities will take place in the U.S.
+
+## **CONTACTING US**
+
+If you have any questions about this Privacy Policy, please contact us at info@wevideo.com.
