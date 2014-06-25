@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpho.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022215905id_/http%3A//wallpho.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpho.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073527id_/http%3A//wallpho.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WallPho.com
 
@@ -12,11 +12,15 @@ Google, as a third party advertisement vendor, uses cookies to serve ads on this
 
 To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, [wallpho.com](http://www.wallpho.com/) has no access or control over these cookies that may be used by third party advertisers.
-
 **Collection of Personal Information**
 
-When visiting [wallpho.com](http://www.wallpho.com/), the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+We may collect information about your computer, including your IP address, operating system and browser type, for system administration and in order to create reports. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual. 
+
+We use Google Analytics. It is a web analytics tool that helps website owners understand how visitors engage with their website. Google Analytics customers can view a variety of reports about how visitors interact with their website so that they can improve it. 
+
+We have implemented the Google Analytics Demographics and Interest Reporting features on our website. These tools allow us to review anonymous data regarding the gender, age and interests of website visitors. We then use the information to compile reports and to help us improve our site.
+
+Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. You can opt out of Google Analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across all websites you use, visit this [Google page](http://tools.google.com/dlpage/gaoptout).
 
 **Links to third party Websites**
 
