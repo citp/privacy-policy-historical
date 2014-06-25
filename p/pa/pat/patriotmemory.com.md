@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the patriotmemory.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206193437id_/http%3A//www.patriotmemory.com/company/index.jsp%3Floc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotmemory.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095715id_/http%3A//www.patriotmemory.com/company/index.jsp%3Floc%3Dprivacy) for the most accurate reproduction.*
 
 # 
-
-  
-
 
 To be the vendor of choice for the computer and consumer electronic industries with a commitment to service and quality. Commitment, focus on innovation in technology, product quality, and customer satisfaction are the key enablers of our future success. Established in 1985, Patriot Memory builds a full range of memory module and flash memory products, offering a perfect blend of quality and value. Patriot products include Extreme Performance (EP), Signature Lines (SL) and Flash Memory solutions (FM). 
 
@@ -68,98 +65,38 @@ If you have any questions regarding employment with Patriot Memory, please e-mai
 
 Patriot Memory is an equal opportunity employer.
 
-  * Regional Sales Manager, Russia
+  * Customer Service Representative, Rotterdam, Netherlands
 
 
 
 
-**Job Summary:  **
+JOB SUMMARY:
 
-Regional Sales Manager maintains and expands relationships with strategically important large customers. Initially assigned to three to five named customers, the Regional Sales Manager is responsible for increasing sales revenue quarter over quarter. The Regional Sales Manager reports to the VP Sales for the company.
+We are looking for an organized and communicative person to complement our Rotterdam office and to support the sales team in as a CSR.  
+Under the general supervision of the European Sales Manager the CSR will work closely with the members of the Sales, Product Management and Operations teams to serve customers, sell products and manage the selling and backlog process.
 
-**Specific Job Responsibilities:**   
+SPECIFIC JOB RESPONSIBILITIES:
 
--Establish productive, professional relationships with key personnel in assigned customer accounts -Meet assigned targets for profitable sales volume and strategic objectives in assigned accounts
+\- Services and supports existing accounts and the sales team in their daily queries and tasks
 
--Co-ordinate local Marketing activities tied to the sales goals for the region
+\- Helps process orders, monitors backlog and invoicing  
+\- Provides product, promotion and pricing information by clarifying customer requests and in close collaboration with the sales managers; selecting appropriate information; answering customer questions.  
+\- Assists in setting up new customer contacts: following the proper procedure to set up Customer and Internal Credit Application Forms  
+\- Runs, creates and manages customer and sales reports to help monitor and evaluate programs and actions  
+\- Supports other strategic Sales initiatives as needed.
 
--Develop brand presence in channel retail stores: produce and distribute POS, dealers' in-store promotions
+REQUIREMENTS:  
+\- Higher education (Bachelor degree) in the field of business and/or relevant work experience  
+\- 1+ year in a CSR position with experience in customer relations/ B2B  
+\- Eye for detail, excellent organizational and time-management skills  
+\- Excellent interpersonal communication skills  
+\- ability to manage and work in a team  
+\- flexible and proactive
 
--Provide critical thinking to derive maximum sales from customers’ accounts
-
--Provide competitive analysis for market pricing and internal cost analysis for the designated account
-
--Develop and execute a sales and marketing plan with goals for each customer account with clear understanding of TAM by product line
-
--Build run rates and monitor stock levels closely within all accounts to ensure maximum sales potential
-
--Be able to measure performance accurately weekly / monthly / quarterly
-
--Run promotions when and where required
-
--Provide adequate training to resellers on new products
-
-**Requirements:**
-
--Higher education
-
--Fluent English, native Russian -5+ years in sales role, developing and maintaining customer accounts
-
--Good skills in people management and coordination tasks
-
--Experience in B2B sales
-
--Thorough knowledge of the local business market/relevant channel -Sales/Customer focus
-
--Strong commercial awareness and aptitude
-
--Willingness to travel local within the region
-
--Excellent leadership/people management abilities
-
--Interpersonal communication skills / ability to manage and work in a team
-
--Ability to work from a home office and be self-motivated and driven
-
-**Specific Task and Activities:**
-
--Develop a Customer Profile on all major customers
-
-      -Customer Name, Address, Corp Revenue, Size
-
-      -Key Management – names, email addresses and contact #s
-
-      -Sales Revenue with Patriot - YOY by month with growth %
-
-      -Product line segmentation – TAM, top 3 competitors, market
-
--Daily calls with all major customer accounts
-
-      -Manage inventory and sell through on all products
-
-      -Develop and Monitor Promotions for coming week/month – aligning inventory and orders
-
-      -Competitive pricing and product discussion
-
--Weekly one-on-one meeting with direct manager going over the following items:
-
-       -Sales Revenue versus Plan by product line
-
-       -Sales out report analysis on each major product line
-
-            -Top runners – sales out, inventory, Weeks On Hand (WOH), pricing competitiveness, exposure/promotions
-
-       -Promotional Calendar
-
-            -Work with Product Marketing Managers to define the promotions for the following month with all major accounts
-
-            -Must be completed in a timely fashion per the requirements of the sales channel - lead time of retail to execute MIRs or ad vehicles
-
-**Compensation:**
-
-This is a commissioned position, with commission structure based on revenue results, and a supporting base salary.
-
-Patriot Memory LLC is an Equal Opportunity Employer
+JOB DESCRIPTION:  
+\- good Microsoft Office skills, including the use of databases; knowledge of Microsoft Dynamics Navision is a pro  
+\- General knowledge of the consumer electronics and IT/mobile market.  
+\- Language skills: Communication with multiple countries for which following language skills are a must/pro: fluent in English (must), German/France/Spanish/Polish (pro)
 
 Patriot's FUEL+ Mobile Rechargeable Battery to power re-charging station at O.co Coliseum for Oakland A's fans in need of charge
 
@@ -172,28 +109,6 @@ Fremont, California, USA, August 20, 2013 – Patriot Memory, a global pioneer i
 About FUEL +
 
 Take it, Charge it, Fuel Up. Perfect for anyone on-the-go, Patriot’s FUEL+ mobile rechargeable batteries are the best and most reliable solutions to ensure you will always have power for your mobile devices when you need it. Ranging in size from 1500mAh up-to 9000mAh, The FUEL+ product family features a full line of battery sizes to fit the needs of any mobile user. To safeguard against under-discharge, over-charge, and short-circuit, FUEL+ comes with built-in protection to ensure efficient and safe charging cycles. The FUEL+ also features power pass through technology that enables the battery to be charged when plugged in to a USB or wall outlet, while charging devices. Always have peace of mind when you are mobile, stay charged with FUEL+.
-
-  **FREMONT, CALIF., USA – September 12th, 2013 -**  Patriot, a global pioneer in high-performance memory, NAND flash, storage, and mobile accessories today launches the new high capacity Supersonic Boost XT 256GB USB 3.0 performance drive. 
-
-Offering the enhanced transfer speed of up-to 150MB/s, the Supersonic Boost XT 256GB drive provides excellent performance; making it the perfect solution for those who rely on having fast access to their data and media while trying to manage a busy lifestyle. This high capacity Supersonic Boost XT features the same award winning ultra-durable rubberized housing the Supersonic Boost XT line has been known. This housing provides best in class protection for worry free use even in the most rugged applications.
-
-"Our Supersonic Boost XT product family provides some of the most rugged and best performing drives on the market", says Meng Jay Choo, Patriot's USB Product Manager. “Now with a 256GB capacity, this line will offer one of the largest flash drive capacities as well, at a very reasonable price point.
-
-• Hi Speed USB 3.0 Compatible (backwards compatible to USB 2.0)
-
-• 256GB: Up to 150MB/sec Read; Up to 30MB/sec Write
-
-• Easy plug-and-play functionality
-
-• The rubberized housing provides a durable and rugged exterior that safeguards the drives from the elements. It is protected from any shock and physical damage as well as water resistant offering protection from various elements.
-
-• Compatible with Windows® 8, Windows® 7, Windows Vista®, Windows XP®, Windows 2000®, Windows® ME, Linux 2.4 and later, Mac® OS9, X and later.
-
-About Patriot
-
-Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.
-
-All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.
 
 Environmental conservation has always been at the forefront of Patriot Memory's intrinsic values, and we pride ourselves in our commitment to reduce our carbon footprint. Being recognized as a Bay Area Green Business further validates that the green initiatives we've implemented are accomplishing that goal.
 
@@ -264,10 +179,3 @@ In no way will Patriot Memory change your personal information. You are the only
 Patriot Memory reserves the right to update this Privacy Policy at any time. In the event the Privacy Policy is amended, updated or materially changed, we will give notice of this fact in a manner which is easily accessible and clearly apparent to both visitors and members. We will implement our Privacy Policy in such a way so as to never compromise your trust or your privacy. However, we must reserve the right to make changes which address issues that may arise in the future.
 
 For questions or concerns please send an email to (list an e-mail address you want) 
-
-©1985-2012 Patriot Memory® LLC. All Rights Reserved. .
-
-[](https://www.mcafeesecure.com/RatingVerify?ref=www.patriotmemory.com)
-
-Loading...  
-
