@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the data.gov.uk privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014170123id_/http%3A//data.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.gov.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074327id_/http%3A//data.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | data.gov.uk
 
