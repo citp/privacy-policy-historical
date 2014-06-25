@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safecu.org privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806001836id_/https%3A//www.safecu.org/about_safe/online_privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecu.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091643id_/https%3A//www.safecu.org/about_safe/online_privacy_statement.aspx) for the most accurate reproduction.*
 
 # SAFE Credit Union : About SAFE : Online Privacy Statement
 
@@ -17,11 +17,11 @@
 
 **Introduction**
 
-Effective on: 4/1/13
+Effective on: 4/1/14
 
 SAFE Credit Union has created this privacy statement in order to demonstrate our firm commitment to consumer privacy. The following discloses our information gathering and dissemination practices for the [www.safecu.org](https://www.safecu.org/) website in addition to the practices listed in the Privacy Notice.
 
-If you have questions or concerns regarding this statement, you should first contact the SAFE Call Center by telephone at 1-800-733-7233, or email us at [callcenter@safecu.org](mailto:callcenter@safecu.org "Click to open your email program.").
+If you have questions or concerns regarding this statement, you should first contact the SAFE Call Center by telephone at (800) 733-7233, or email us at [callcenter@safecu.org](mailto:callcenter@safecu.org "Click to open your email program.").
 
 Back to Top
 
@@ -57,7 +57,7 @@ We collect information about you to provide competitive financial products and s
   * We use your IP address and aggregate log file statistics to help diagnose problems with our server, and to administer our web site. Your IP address, etc. is used to help identify you.
   * Cookies are electronic markers that are stored directly on the computer you are using to indicate activity or access to a specific web site or pages contained on a web site. When you return to our web site, your browser will give that information back to our server. We use cookies to maintain the state of your session on our web site and to store your computer's configuration data. This cookie data is tied to your personally identifiable information to enable our service. If you disable cookies on the computer you are using, you will not be able to bank online with us. We do not encode your personally identifiable information in our cookies. Some of our business affiliates use cookies on their sites. We have no access to or control over these cookies.
   * Our site's applications and forms require users to give us contact information (such as name and e-mail address) and financial information (e.g. account numbers). The member's contact information is used to contact the visitor for the purposes of account maintenance, customer service or dissemination of product and service information.
-  * We have calculator functions on the site that allow you to calculate different financial scenarios. These are stand-alone functions and are not tied to you or your personal information so when you use these functions, we do not collect, capture or retain your personal information.
+  * We have calculator functions on the site that allow you to calculate different financial scenarios. These are stand-alone functions and are not tied to you or your personal information so when you use these functions, we do not collect, capture, or retain your personal information.
   * This site may contain links to other sites. SAFE Credit Union is not responsible for the collection and use practices of nonaffiliated third parties to which our web site may link or for the content of such web sites.
   * Our site uses forms for members to request information, products, and services. We collect your financial information (e.g. account or credit card numbers) and other personal information only as necessary to respond to your request or perform according to your instructions. Financial information that is collected is used to check the user's qualifications.
   * Our site collects personally identifiable information from you when you perform transactions using our Bill Pay application. This information is used exclusively to fulfill the requested transaction.
@@ -68,6 +68,10 @@ We collect information about you to provide competitive financial products and s
 
 
 Back to Top
+
+**Web Browser Do Not Track Signals**
+
+SAFE does not respond to web browser "do not track" signals because we do not allow third parties to collect personally identifiable information of visitors to our web site to track their online activities over time and across different web sites.
 
   * If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
   * If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner.
@@ -81,7 +85,7 @@ Back to Top
 We share member information to provide superior service, tell you about new or enhanced financial services, and improve and develop our products and services. We may share the information described above with the following companies and as otherwise permitted by law:
 
   * Companies that assist us in administering and bringing you our products and services. The information shared with these companies typically includes information to process transactions on your behalf, conduct our operations, and follow your instructions as you authorize, or protect the security of our financial records. These companies may include check and statement printing companies, and data processing vendors; however, these companies do not use your personal information for any secondary purposes.
-  * Businesses and other financial institutions with which we have a written joint marketing agreement to offer a broader array of offline products and services. Joint marketing agreements include confidentiality provisions to protect member information. These agreements prevent third parties from making your information available for any reason other than that which was intended. Examples of businesses with whom we have entered into joint marketing agreements include insurance companies, mortgage servicing companies and securities brokers/dealers.
+  * Businesses and other financial institutions with which we have a written joint marketing agreement to offer a broader array of offline products and services. Joint marketing agreements include confidentiality provisions to protect member information. These agreements prevent third parties from making your information available for any reason other than that which was intended. Examples of businesses with which we have entered into joint marketing agreements include insurance companies, mortgage servicing companies and securities brokers/dealers.
   * Companies that performs marketing or other business or professional services on our behalf such as businesses that perform mailing services or customer surveys. We have written agreements with these companies that include confidentiality provisions to protect member information.
   * Consumer and credit reporting companies.
   * Our affiliates, in order to provide you with expanded business, lending, insurance, and financial investment services. 
@@ -116,7 +120,7 @@ SAFE recommends that you take the following precautions to safeguard your privac
   * Never disclose your account numbers, Social Security number, or other personal information to others unless you initiate the call or transaction. If someone calls, texts or sends you an email, explaining the contact is on behalf of the credit union and asks for your account number; do not divulge that information! Official credit union staff will have access to your information and have no need to ask for it.
   * Keep your information current. It is important that SAFE have current information on how to reach you.
   * If SAFE detects potentially fraudulent or unauthorized activity or use of an account, SAFE will attempt to contact you immediately. For questions concerning identity theft and fraud, contact us at (916) 979-7233 or (800) 733-7233.
-  * If your address, phone number, or email address changes, please update your information within Online Banking or write to SAFE at the address below. For international address changes contact us at (916) 979-7233 or (800) SEE-SAFE.
+  * If your address, phone number, or email address changes, please update your information within Online Banking or write to SAFE at the address below. For international address changes contact us at (916) 979-7233 or (800) SEE-SAFE. 
 
 SAFE Credit Union  
 PO Box 1057  
