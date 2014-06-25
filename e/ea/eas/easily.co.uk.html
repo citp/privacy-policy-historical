@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the easily.co.uk privacy policy that was archived on 2013-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131215172138id_/http%3A//easily.co.uk/index.php3%3Fexe%3Dterms%26page%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easily.co.uk privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625220035id_/http%3A//easily.co.uk/index.php3%3Fexe%3Dterms%26page%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Cache-Control" content="no-cache">
 <meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Last-Modified" content="Sun, 15 Dec 2013 17:21:38 GMT">
-<meta http-equiv="Expires" content="Sun, 15 Dec 2013 17:25:38 GMT">
+<meta http-equiv="Last-Modified" content="Wed, 25 Jun 2014 23:16:20 GMT">
+<meta http-equiv="Expires" content="Wed, 25 Jun 2014 23:20:20 GMT">
 <meta name="revisit-after" content="15 days">
 <meta name="robots" content="all">
 <meta name="keywords" content="privacy policy, easily, web hosting, domains, email">
@@ -66,6 +66,22 @@ function ajax_update(spanId,url,value) {
         }
     }
 }
+
+    function domswitchon(row,item,price) {
+        document.forms['domainresults'].elements['idduration['+row+']'].value=document.forms['domainresults'].elements['row'+item+'data'+row].value;
+        document.forms['domainresults'].elements['idduration['+row+']'].value=document.forms['domainresults'].elements['row'+item+'data'+row].value;
+        document.forms['domainresults'].elements['price'+row].value=price;
+        document.getElementById('pricedisp'+row).innerHTML=price;
+    }
+
+    function domswitchoff(row,flag){
+        if (flag=='yes'){
+            document.forms['domainresults'].elements['idduration['+row+']'].value='0';
+            document.forms['domainresults'].elements['newname['+row+']'].checked=false;
+            document.forms['domainresults'].elements['price'+row].value='0.00';
+            document.getElementById('pricedisp'+row).innerHTML='0.00';
+        }
+    }
 -->
 </script>
 
@@ -75,6 +91,7 @@ function ajax_update(spanId,url,value) {
 <link rel="stylesheet" href="/style/body.css" type="text/css">
 </head>
 <body>
+         
 <div class="easilymainblock">
 <a name="thetop"></a>
 <table class="dropshadowtable" cellspacing="0" cellpadding="0">
@@ -83,7 +100,7 @@ function ajax_update(spanId,url,value) {
 <div class="pageheader">
     <div class="topquicklinks">
         <a style="margin-right:35px;" href="/privacypolicy.php" class="orangelink">Cookies</a> 
-        <a style="margin-right:35px;" href="http://support.easily.co.uk/" class="orangelink">Support</a>
+        <a style="margin-right:35px;" href="/contactus.php" class="orangelink">Sales and Support</a>
         <a style="margin-right:35px;" href="/email-login.php" class="orangelink">Webmail</a>
         <a style="margin-right:35px;" href="https://easily.co.uk/index.php3?exe=namesadmin" class="orangelink">My Account</a>
         <a style="margin-right:35px;" href="/index.php3?sb=y" class="orangelink">View Basket</a>
@@ -98,12 +115,8 @@ function ajax_update(spanId,url,value) {
     </div>
 
     <div class="header0800nums">
-        <br>
-        <img src="/images/_0800numbers.gif" alt="Call us - Sales: 0800 072 3646; Support: 0800 072 3636">
-        <br><br>
         <span class="uktop">The UK's top domain name and website company</span>
     </div>
-
     <div class="headercoblogo">
         <table width="100%"><tbody><tr><td align="center">                        <img src="/images/spacer.gif" alt="easily logo" height="66">
                     </td></tr><tr><td align="center">
@@ -138,6 +151,7 @@ function ajax_update(spanId,url,value) {
         <span class="pom_sectionhead">Domain Names</span><br>
         &gt; <a href="/domainnames.php" class="navText">Register New</a><br>
         &gt; <a href="/transfer-domains" class="navText">Transfer In</a><br>
+        &gt; <a href="/newgtlds" class="navText">New gTLDs</a><br>
         <span class="pom_sectionhead">Email Accounts</span><br>
         &gt; <a href="email-overview.php" class="navText">Package Overview</a><br>
         &gt; <a href="emailaccounts.php" class="navText">Compare Packages</a><br>
@@ -177,16 +191,16 @@ function ajax_update(spanId,url,value) {
 <p style="text-align: justify;" class="easy_subhead1">2. Do we share the information with anyone else?</p> 
 <p style="text-align: justify;">Easily will not, without your consent, divulge your personal information to a third party except in the following circumstances:</p> 
 <ul style="text-align: justify;"> 
-  <li>in order to register a domain name we are required to send your name, business name (if applicable), postal address and email address to organisations that formally record the registration; this information may be available to others via a "Whois" search;</li> 
-  <li>if required to do so by law or by any organisation with appropriate authority;</li> 
-  <li>if you have signed up for optional services which require us to pass your personal information to another company (see "Optional Services" below);</li> 
-  <li>to any financial institution with whom we hold an account for the purpose of verifying credit status and / or validating financial transactions;</li> 
-  <li>we may provide aggregate statistics about our sales, customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you;</li> 
-  <li>in order to assist us in understanding our customer base some anonymous information (i.e not name or specific address) may from time to time be passed on to a third party for data analysis. If you do not wish your details to be utilised in this way you should follow the instructions on the page where you submit your details or contact the helpdesk;</li> 
-  <li>as part of a sale or transfer of the shares and/or assets of Easily Limited.</li> 
-</ul> 
-<div style="text-align: justify;">Easily Limited is not responsible for the privacy practices of other companies or websites. 
-</div> 
+  <li>
+    </li><li>in order to register a domain name we are required to send your name, business name (if applicable), postal address and email address to organisations that formally record the registration; this information may be available to others via a "Whois" search;</li>
+    <li>if required to do so by law or by any organisation with appropriate authority;</li>
+    <li>if you have signed up for optional services which require us to pass your personal information to another company (see "Optional Services" below);</li>
+    <li>to any financial institution with whom we hold an account for the purpose of verifying credit status and / or validating financial transactions;</li>
+    <li>we may provide aggregate statistics about our sales, customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you;</li>
+    <li>in order to assist us in understanding our customer base some anonymous information (i.e not name or specific address) may from time to time be passed on to a third party for data analysis. If you do not wish your details to be utilised in this way you should follow the instructions on the page where you submit your details or contact the helpdesk;</li>
+    <li>as part of a sale or transfer of the shares and/or assets of Easily Limited;</li>
+    <li>in order to help customers complete abandoned orders, using any information you enter into our Site.<br></li>
+</ul><span style="text-align: justify;">In addition, when you use our website we store information you enter on to our website including your IP address and may use this information to administer our website and help to diagnose any network or server problems. Our website uses cookies to keep track of your use of our website and e-commerce system. Information passed to us from your web browser may be stored and used for our internal statistical analysis. We may also automatically collect non-personal information about you such as the type of internet browsers you use or the site from which you linked to our website. You cannot be identified from this information and it is only used to assist us in providing an effective service on our website.</span><br> 
 <p style="text-align: justify;" class="easy_subhead1">3. Credit Cards</p> 
 <p style="text-align: justify;">Credit card payment for our services is processed by our secure payment service provider. We do not record your credit card details on our database and the payment service provider does not record any other information about you.&nbsp;</p> 
 <p style="text-align: justify;" class="easy_subhead1">4. Easily Newsletter</p> 
@@ -225,6 +239,7 @@ function ajax_update(spanId,url,value) {
         <li class="footer"><a href="/whataremyoptions.php" class="footer">Web Hosting</a></li>
         <li class="footer"><a href="/index.php3?exe=businessedition" class="footer">Website Creator</a></li>
         <li class="footer"><a href="emailaccounts.php" class="footer">Email Accounts</a></li>
+        <li class="footer"><a href="/newgtlds" class="footer">New gTLDs</a></li> 
       </ul>
     </td>
     <td class="footer-divider">&nbsp;</td>
@@ -253,6 +268,7 @@ function ajax_update(spanId,url,value) {
         <li class="footer"><a href="/index.php3?exe=terms&amp;page=terms" class="footer">Terms and Conditions</a></li>
         <li class="footer"><a href="/index.php3?exe=terms&amp;page=privacy" class="footer">Privacy Policy</a></li>
         <li class="footer"><a href="policies.php" class="footer">Policies</a></li>
+        <li class="footer"><a href="dotukpolicystatement.php" class="footer">Dot UK Policy</a></li>
       </ul>
     </td>
     <td class="footer-divider">&nbsp;</td>
@@ -281,7 +297,7 @@ function ajax_update(spanId,url,value) {
   <tr>
     <td align="center" width="100%" colspan="11">
       <br>
-Copyright © 1999 - 2013 Easily Limited, a NetNames company,
+Copyright © 1999 - 2014 Easily Limited, a NetNames company,
 registered in England (no: 03900580). All rights reserved.<br>Registered office: Third Floor, Prospero House,
 241 Borough High Street, London SE1 1GA. All
 prices exclude VAT unless otherwise stated.<br>
@@ -304,6 +320,7 @@ pageTracker._trackPageview();
 
 
 <script src="https://www.dwin1.com/1499.js" type="text/javascript"></script>
+         
 
 
 </body></html>
