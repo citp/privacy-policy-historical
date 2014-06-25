@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfy.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127051216id_/http%3A//alfy.com%3Fname%3Dmost-popular-free-online-games%26about%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124436id_/http%3A//www.alfy.com%3Fname%3Dmost-popular-free-online-games%26about%3D2) for the most accurate reproduction.*
 
 # ALFY.com -- the Best Free Online Games - Privacy Policy
 
