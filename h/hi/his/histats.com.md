@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the histats.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204015949id_/http%3A//www.histats.com/%3Fact%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the histats.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125713id_/http%3A//www.histats.com/%3Fact%3D5) for the most accurate reproduction.*
 
 # Histats.com Counter ,the free web stats and stat counter, hit counter, free web tracker and tracking tools, professional and free!!
 
-We encourage you to read this Policy carefully. If you have any questions about this Policy, our use of your Personal Information, or your dealings with this website, please feel free to contact us. 
+We encourage you to read this Policy carefully. If you have any questions about this Policy, our use of your Personal Information, or your dealings with this website, please feel free to contact us. ( email is at bottom of this page ) 
 
 We may update this Policy from time to time in our sole discretion to reflect changes in our use of your Personal Information and/or applicable law. Any changes made to this Policy will be reflected in an updated policy (denoted by an updated date above) posted on our website at [ www.histats.com.](http://www.histats.com/)
 
-**Histats Business Customer Privacy**
+**Histats Business Customer Privacy Policy**
 
 _Collection of Personal Information_
 
-Customers who use the products and services available through our website (collectively, the "Services") do so voluntarily. In order to use our Services, a customer is required to create an account by registering and providing us with basic contact, billing and website information, including, but not limited to, such customer's name, email address, credit card information and website URL. By providing us with Personal Information, customers are consenting to the collection, use and disclosure of such Personal Information in accordance with the terms and conditions set forth in this Policy. 
+Customers who use the products and services available through our website (collectively, the "Services") do so voluntarily. In order to use our Services, a customer is required to create an account by registering and providing us with basic contact and website information, including, but not limited to, such customer's name, email address and website URL. By providing us with Personal Information, customers are consenting to the collection, use and disclosure of such Personal Information in accordance with the terms and conditions set forth in this Policy. 
 
 _How We Use Personal Information_
 
@@ -24,25 +24,34 @@ Our customers may voluntarily elect to receive their websites' statistical infor
 
 _Log Files_
 
-By accessing our website, our internet servers automatically record information that your internet browser sends when you visit a website. These logs may contain information such as your internet protocol (IP) address, browser version, domain name, language, date and time, the referring website and information in your cookie files. 
+By accessing our website ( histats.com ), our internet servers automatically record information that your internet browser sends when you visit a website. These logs may contain information such as your internet protocol (IP) address, browser version, domain name, language, date and time, the referring website and information in your cookie files. 
 
 _Third Party Advertisements_
 
-The advertisements appearing on our website from time to time are provided by a variety of our third party advertising partners. We only share website usage information about our users with reputable third party advertisers for the sole purpose of better targeting our website banner advertisements. 
+The advertisements appearing on our website ( histats.com ) from time to time are provided by a variety of our third party advertising partners. We only share our website usage information about our users with reputable third party advertisers for the sole purpose of better targeting our website banner advertisements. 
 
 _Histats Website Cookies_
 
-To allow our customers the convenience of not having to remember their login information when accessing our website, Histats may place a temporary or persistent "cookie" on your computer's hard drive. These cookies are simple, harmless text files that remember the internet browser you use to access the internet. However, if you do no want to receive cookies, you may adjust the settings in your internet browser to reject cookies or to alert you when a cookie is placed on your computer. We do not collect or store any Personal Information via cookies. 
+To allow our customers the convenience of not having to remember their login information when accessing our website, Histats may place a temporary or persistent "cookie" on your computer's hard drive. These cookies are simple, harmless text files that remember the internet browser you use to access the internet. However, if you do no want to receive cookies, you may adjust the settings in your internet browser to reject cookies or to alert you when a cookie is placed on your computer. We never collect or store any Personal Information via cookies. 
 
-**General Internet User Privacy**
+**General Internet User Privacy for our services**
 
-In order to gather and aggregate statistical data for our customers, we may from time to time place persistent or temporary cookies on a visitor's hard drive when visiting a customer's website. These cookies are not capable of tracking, retaining, or storing any Personal Information, and they are used for no other reason than to gather the same general internet information that is available to all internet service providers, search engines, and websites. Examples of this information include, without limitation, a visitor's general location based on IP address, information from the visitor's browser such as browser type, type of operating system, keywords used while searching, websites visited, monitor resolution settings. 
+Histats is a service of intangible nature which is known as Software as a Service, SaaS. The aim of this service is to measure the audience of Internet. Histats provides their customers with an IT solution via the Internet which enables them to collect statistical audience data on online mediums that is then reproduced in an aggregated and anonymous format on a web interface that only the Histats customer has access to. With this data, Histats customers can then improve the ergonomics of their own sites, as well as improving the range and quality of the products and services that they have to offer. The use of SaaS has also been adopted by the general management and the marketing, editorial or technical teams of the different companies which use our products.   
+Histats reminds its customers that they must also carry out the required legal formalities and where applicable declare, with the relevant authorities, the fact that they are engaging in personal data processing concerning the data that is collected by Histats, and for which they are the proprietors. 
 
-We may from time to time also authorize and facilitate the use of cookies from trusted third party business partners to gather and aggregate additional, anonymous, and non-Personal Information data from general internet visitors for the purpose of providing our customers with additional information about their viewing audience. 
+**Data collected by Histats**
 
-We does not gather, retain or store any data from these third party partners. We has also chosen to partner only with businesses that have shown a strong commitment to online privacy and have represented and warranted to Us that any and all data collected on our behalf is non-Personal Information. 
+Whenever an Internet user visits a medium that is audited by our SaaS, Histats will collect statistical data about the visit. This data provides information on an Internet user’s connection to a particular website, for example information that relates to the type of browser that is used, the number of page views, the exact path that an Internet user has taken on a site, the amount of time spent on a page, site, or information on the filling or abandonment of a shopping cart etc.   
+No primary personal information such as first name, surname, telephone number, email address, etc, is collected at our own initiative by any of the Histats solutions. 
 
-_We do not condone, support, or participate in any activities that could potentially gather, retrieve or store any Personal Information about or from internet users._
+**Cookie and Unique Visitor:**  
+A "cookie" is a text file which saves information relating to an Internet users browsing on the Internet. Cookies are controlled by the web browser of an Internet user’s computer. As far as Internet users are concerned, "cookies" are the best method which can be used to customise the user’s browsing on the Internet. The use of cookies means that Internet users avoid being bombarded with the same advertising messages and questions on certain sites, and they also save time on other sites, especially on sites where it is necessary to enter a login or password. As far as Histats is concerned "cookies" are used to carry out relevant and detailed statistical research. Thanks to the use of "cookies" it becomes possible to refine the analyses of JavaScript tags, and they also enable Histats customers to recognise visitors each time they visit their site (i.e. to find out that it is the same visitor without knowing who they are). These "cookies" store a unique alphanumeric ID only, relating to the device used by an Internet user, and under no circumstances is this information used to collect nominative information on the visitors. All of the results which are obtained are then compiled, and are completely anonymous. The results provide information on the browsing and behaviour of Internet users on the websites of Histats customers, information such as: the number of visitors, the number of visits, the number of page views and other information that is necessary for the effective measurement of Internet user interests. With these results it is then possible to improve the ergonomics and content of such websites. Lastly, the Histats Service can use either the cookie known as "first party" (issued by the URL of the website tracked by AT Internet) or the cookie known as "third party" (issued by a URL belonging to Histats: .histats.com ) depending on the needs of our customer. In both cases, the reason for using the cookie remains the same as the reasoning explained above and no personal data is collected via these cookies. 
+
+**IP and geolocation:**  
+During the data-collection and data-processing processes, Histats(just like any other company that exists in the fields of web analytics and web marketing) uses an Internet user’s IP address for the only purpose of geolocating the country and the city of their device , in order to identify the location in which an Internet user connects to a particular website ( level of precision: region or city in some countries ). In order to ensure better privacy protection, Histats anonymize all ip addresses: the last three digits of the IPv4 are deleted immediately, and last 64 bits on IPv6 
+
+**Informing Internet users of the audience measurement service**  
+Histats customers commit to informing Internet users who visit their sites of the existence of the data collection process that is carried out by Histats. Customers are also committed to informing such users of their access rights, right to reply, right to veto, as well as of the right to remove their personal data. For example, Histats customers can publish the following message on their site: "In order to provide our visitors with a better service, and thanks to the use of Histats solutions, we are measuring the number of page views, the number of visits, the different actions performed by visitors on our site, and the number of times visitors return to our site. If you do not wish to be audited on our site, please go to the following Histats web page that provides further information on respecting private data and follow the procedure that is available there". In addition to this Histats customers can also include an opt-out via iframe on their own internet website.
 
 **Children's Online Privacy**
 
@@ -63,8 +72,19 @@ Additional Information Regarding Online Privacy Can Be Found At: [ http://www.pr
 [ http://www.truste.org/](http://www.truste.org/)
 
 **Third Parties - AudienceRate - data Analysis** [](http://www.histats.com/pdf/AudienceRatePolicyHistats.pdf)  
-While Histats and Wisecode SRL have full control and can assure that provided code doesn't harm your visitors or interfere with your website browsing experience, we allow a partner company to help us in tracking some data (new histats interesting features and probably an audiencerate provided dashboard will be available soon thanks to that ) and to manage independently anonymous tracked data, they keep data private but processed anonymous and detached behavioural data can be used on international markets (like on SSP).  
-The acceptance of this Third Party section is not obligatory, if not accepted data will not be tracked or processed outside of Histats servers but you may lose access to some new features that need this acceptance to work 
+While Histats and Wisecode SRL have full control of the data analysis , tracking code and the technical cookie, and can assure that provided code doesn't harm your visitors or interfere with your website browsing experience, only where this is allowed in compliance with your local laws, we allow a partner company to help us in tracking some data (new histats interesting features and probably an audiencerate provided dashboard will be available soon thanks to that ) and to manage independently anonymous tracked data, they keep data private but processed anonymous and detached behavioural data can be used on international markets.  
+We does not gather, retain , exchange or store any data from/to these third party partners. We has also chosen to partner only with businesses that have shown a strong commitment to online privacy and have represented and warranted to Us that any and all data collected on their behalf is non-Personal Information and in accordance with your current local laws. 
+
+_We do not condone, support, or participate in any activities that could potentially gather, retrieve or store any Personal Information about or from internet users._   
+The acceptance of this Third Party section is not obligatory, if not accepted data will not be tracked or processed outside of Histats servers but you may lose access to some new audience analysis features that need this acceptance to work 
 
 **Histats.com is a part of**  
-Wisecode SRL
+Wisecode SRL  
+further information about out privacy policy can be requested to : 
+
+  
+
+
+##  [Check your opt-out status](http://www.histats.com/optOut.php)   
+[Do optout from histats tracking services](http://www.histats.com/optOut.php)  
+
