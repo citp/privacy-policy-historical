@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wegotthiscovered.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212081425id_/http%3A//wegotthiscovered.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegotthiscovered.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044706id_/http%3A//wegotthiscovered.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | This is the web site of We Got This Covered. Our postal address is: Thornhill, Ontario L4J 8K8 We can be reached via e-mail at mattwegotthiscovered.com For
 
 This is the web site of  _We Got This Covered_.
 
