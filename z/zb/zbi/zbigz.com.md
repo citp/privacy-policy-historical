@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zbigz.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127055841id_/http%3A//www.zbigz.com/page-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zbigz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130959id_/http%3A//zbigz.com/page-privacy) for the most accurate reproduction.*
 
-# 
+# ZbigZ – personal cloud storage. Sweet home for your private files.
 
 We take your privacy very seriously. We do not collect any personal information about our users except information which is necessary for administrative purposes. 
 
