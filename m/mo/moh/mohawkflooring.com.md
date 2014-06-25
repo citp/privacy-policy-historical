@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mohawkflooring.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112195117id_/http%3A//www.mohawkflooring.com/about-mohawk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohawkflooring.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013326id_/http%3A//www.mohawkflooring.com/about-mohawk/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Mohawk Flooring - Privacy Policy
+# Privacy Policy, Security Practices & Information Collection | Mohawk Flooring
 
 ## Privacy Policy
 
@@ -11,6 +11,7 @@ Effective Date: October 22, 2013 This Privacy Policy discloses the privacy and s
   * MohawkHome.com
   * AmericanRugCraftsmen.com
   * MohawkGroup.com
+  * Durkan.com
   * MohawkHomeScapes.com
   * AtCreativeHome.com
 
