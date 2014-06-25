@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sinclairintl.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906060546id_/http%3A//www.sinclairintl.com/aspx/general/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinclairintl.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625162014id_/http%3A//www.sinclairintl.com/aspx/general/privacy_policy.aspx) for the most accurate reproduction.*
 
 # 
 
