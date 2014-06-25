@@ -1,116 +1,84 @@
-> *The following text is extracted and transformed from the sfmta.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014082013id_/http%3A//www.sfmta.com/cms/asite/copyrite.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfmta.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114628id_/http%3A//www.sfmta.com/terms-use) for the most accurate reproduction.*
 
-# Legal Info (Web site)
+# Terms of Use | SFMTA
 
-~~~~  
+**General Disclaimer**
 
+Information presented on this Web site is collected, maintained, and provided for the convenience of the reader. While every effort is made to keep such information accurate and up-to-date, the San Francisco Municipal Transportation Agency (SFMTA) does not certify the authenticity of information that originates from third parties.
 
-## Copyright
+Under no circumstances shall the SFMTA or the City and County of San Francisco be liable for any actions taken or omissions made from reliance on any information contained herein from whatever source nor shall the SFMTA or the City and County be liable for any other consequences from any such reliance.
 
-All the text, graphics, audio, video, design, software, and other works on this site are the copyrighted works of the San Francisco Municipal Transportation Agency (SFMTA) unless otherwise indicated. All rights reserved. Any redistribution or reproduction of any materials herein is strictly prohibited. 
+**External Linking Policy**
 
-* * *
+**Purpose and Disclaimer**
 
-## Trademarks
+The SFMTA permits the establishment of external hyperlinks on its official website only if the links strictly comply with this policy. In establishing and maintaining its official website, the SFMTA does not intend to create any forum or other means for public discourse. Rather, the sole and limited purpose of the permitted external links is to provide information about the SFMTA for residents, businesses and visitors. The SFMTA does not endorse or provide preferential treatment to any third party websites or associated organizations or persons. Additionally, the SFMTA does not control third party sites and therefore does not warrant that third party sites are accurate or, reliable, or that they have operational links.
 
-The SFMTA website contains various registered and unregistered trademarks and service marks owned by the City and County of San Francisco through the SFMTA. Trademarks and service marks owned by the SFMTA, whether registered or unregistered, may not be used in connection with any product or service that is not SFMTA's, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits the SFMTA, including the Municipal Railway. Products and services bearing SFMTA trademarks or service marks without prior express written permission of the SFMTA may be considered infringing and subject to all available legal remedies. 
+**Linking Criteria**
 
-Registered trademarks and service marks of the SFMTA include the Muni "worm" logo, the "O'Shaughnessy" logo, the term "San Francisco Municipal Railway," the words "Muni," "SFMuni," "SFpark," and the SFpark design. Other trademarks and service marks of the SFMTA include, but are not limited to, the acronym "SFMTA," Muni route names, e.g., N Judah, the Muni Centennial logo, and the term "Shop-a-Round" (for providing paratransit service). 
+Consistent with the foregoing purpose, it is the SFMTA's policy to limit external links to the following: a) Other governmental agencies; b) Entities with which the SFMTA has an existing formal, contractual relationship; c) Entities or events that receive funding from the City or are otherwise sponsored by the City to provide transportation related services or information or adminstration related web services; d) Applications that use datasets from DataSF.org; f) the City's Chamber of Commerce and the San Francisco Travel Association; and g) Webpages that provide free access to traffic and weather information for San Francisco. Sales of SFMTA or other public transit fare media does not qualify as such a service unless you are selling SFMTA fare media online under a written contract with the SFMTA. In addition, the SFMTA reserves the right, at any time and without notice, to: a) Deny a link that does not meet the criteria set forth in this policy; b) Deny or discontinue an external link at any time if the website provides or promotes false, slanderous, illegal, infringing or incorrect information; c) Deny or discontinue an external link at any time if a substantial purpose of the linked website is to support or oppose a candidate or ballot measure; d) Remove any external link if the nature of the organization to which the link relates no longer complies with the SFMTA's external link policy; e) Revise this policy without prior notice when the SFMTA considers such revision to be in its best interests. We do not engage in link exchanges, the practice of linking to a site solely because it links to our site.
 
-* * *
+**Accessibility Policy**
 
-## Disclaimer
+It is the policy of the SFMTA that information and services on its website be designed to be accessible to people with disabilities. It is the responsibility of the agency and its web page developers to become familiar with the guidelines for achieving universal accessibility and to apply these principles in designing and creating any official City and County of San Francisco Web site.
 
-The content contained in the SFMTA website has been prepared solely for the purpose of providing information about the SFMTA. The SFMTA will attempt to keep this website up-to-date as much as possible--except for archival information. The SFMTA makes no warranties or guarantees of any kind, regarding its operation or the completeness of the content on its website or any other website to which it links. You can always verify this information contained on this site by [contacting the SFMTA](https://web.archive.org/web/20121014082013id_/http%3A//www.sfmta.com/cms/acontact/indxcont.htm). To the extent permitted by law, the SFMTA disclaims all warranties from users of this website. The SFMTA, its Directors and its employees, will not be liable for any damages of any kind arising from the use of this site or any site to which it links.
+According to the latest statistics available from the Bureau of the Census, there are 9.7 million people in the United States who have difficulty seeing the words and letters in ordinary newsprint, equal to 5.0% of the total population. Another 10.9 million people, or nearly 6% of the total population, have difficulty hearing what is said in an ordinary conversation with another person.
 
-* * *
+The use of the City and County of San Francisco accessibility guidelines will ensure that web sites created by agencies of City and County are developed to serve the largest possible audience. Compliance with these guidelines provides an added benefit to those users with text-based browsers, low-end processors, slow modem connections and/or no multi-media capabilities on their computer.
 
-## Archival Information 
+**Privacy Policy**
 
-Under various laws, some information is required to be kept on the website for three years. All agendas, minutes, calendar items, notices and other postings concerning meetings and hearings that are published in the [Boards & Meetings](https://web.archive.org/web/20121014082013id_/http%3A//www.sfmta.com/cms/chome/bordindx.htm) section of this website are archival in nature and therefore **will not be updated** to reflect later changes in SFMTA policies or information.
+The Privacy Policy outlines the types of information we gather when you visit our website, as well as some of the steps we take to safeguard it.
 
-* * *
+**Information Collection**
 
-## Applicable Law
-
-Any disputes that may arise concerning this site and the information herein shall be governed by California law (without regard to conflict of law principles), and all proceedings which may arise out of or in connection herewith shall be brought solely in San Francisco, California. The language in this Disclaimer shall be interpreted as to its fair meaning and not strictly against the SFMTA. The SFMTA reserves the right to make changes to this site and these disclaimers, terms, and conditions at any time. 
-
-* * *
-
-## Privacy Policy
-
-The SFMTA website uses "cookies", small data files written to your hard drive, on the pages created for sfmuni.com. Some services we link to or embed on our website are provided by other sites; we have no control over their use of cookies, "web beacons" or other code. 
-
-Third-party content accessed from third-party servers is subject to their respective privacy policies. As of July 17, 2012, pages on the SFMTA website may contain content or code from Twitter; YouTube; Facebook; Pinterest; Blogger; Google, including Google Analytics; Vimeo or SFGTV.
-
-We do not keep track of a site visitor's own personal information, except when we explicitly ask for that information on a form, but we will receive data about general traffic to the the SFMTA website. This type of information includes which browsers and Internet Service Providers ("IP Addresses") are used, which pages are visited, where visitors enter and exit from our site, what paths are followed through our site, what searches are performed, browser and monitor settings, etc. This type of information will help us improve the site by giving us insight into how people use our site. Again, this is general aggregate information and will not be used to identify a particular visitor to the SFMTA website except for security purposes. We may also use this information for problem resolution if you contact the City about a problem with the website. It may also be a public record.
-
-Please be aware that your communications with the department through electronic mail, including any information that automatically accompanies such message or that you insert into the message, may be subject to disclosure under public records laws. In addition, the City reserves the right to forward any such communications, or information contained in the communications, to the appropriate law enforcement or governmental authorities where the City determines that such action may be necessary to prevent harm to persons or property or to help facilitate an investigation of fraud, intellectual property infringement, piracy, criminal activity, or other unlawful activity, provided that any disclosure of information is not prohibited by state or federal law, including the First Amendment to the U.S. Constitution. 
-
-### Procedure for e-mail commendations and complaints about specific incidents:
-
-A commendation or complaint is received by PSR Staff via telephone, letter, walk-in, e-mail, or Muni website, and as much of the following information as is available and applicable is taken down to process the commendation or complaint: a) Occur Date - date incident happened; b) Occur Time - time of incident; c) Location - where incident happened; d) Line/Route #; e) Direction of Travel; f) Vehicle #; g) Employee ID# or Name, if available; h) Description of Employee; i) Description of Complaint; j) Customer Information.
-
-If a complaint is submitted, customer information is necessary to ensure that the Muni employee is charged with the appropriate rule violation (as per MOU contract with employee union).
-
-All complaints are entered into the PSR database and distributed to the appropriate operating divisions for investigation and resolution. Copies are also sent to other Muni departments when the PSR involves non-operator issues such as bus maintenance.
-
-A letter response acknowledging receipt of complaint is sent to the customer. If a hearing about the employee is necessary, the customer will be notified. The customer must attend the hearing for the complaint to be carried forward.
-
-### Procedure for e-mail sent to the SFMTA webmaster about the SFMTA website:
-
-All mail that relates to the website is handled by the SFMTA Marketing and Community Outreach group. Inquiries are responded to on a first-come, first-serve basis. If mail arrives in the SFMTA webmaster's mailbox that can be more appropriately handled by another department, that mail will be forwarded to the proper department.
-
-### Procedure for e-mail sent regarding general comments and questions about Muni:
-
-The mail comes to the Passenger Services Department for processing. Staff will investigate and respond to all inquiries. Depending on the complexity of the request, it can take 7-10 days to generate a response.
-
-* * *
-
-## Consent
-
-By using the SFMTA website, you acknowledge that information will be obtained as specified in the "Privacy" section. We will post any changes in our Privacy policy on this page, in order to keep you informed about what information we collect and how that information is used.
-
-* * *
-
-## Bulk and Repetitious E-mail Policy
-
-Please be advised that submission of five (5) or more of the same e-mail from the same non-City e-mail address to the SFMTA staff via this website within a seven day period shall be filtered.  The SFMTA reserves the right to filter bulk and repetitious e-mails that are burdensome to the e-mail system. 
-
-* * *
-
-## **Claims**
-
-A claim for property damage or personal injuries against the SFMTA **cannot** be made through this site.  [View the instructions for filing a claim against the SFMTA or any other City department.](http://www.sfgov.org/site/city_attorney_index.asp?id=88520)[](http://www.sfgov.org/site/city_attorney_index.asp?id=88520 "Open link in new window for "View the instructions for filing a claim against the SFMTA or any other City department."")
-
-* * *
-
-## Linking Policy
-
-You are welcome to link directly to any page on our website as long as you only use a **text link** and as long as viewing the page or file does not require prior acceptance of a disclaimer **.**
-
-We strongly recommend against linking directly to files as they may be archival in nature and not kept up to date or may be removed and replaced with a file of a different name.
-
-If you want to use our **trademarked logo,** that requires a **written contract** with the San Francisco Municipal Transportation Agency. Please see trademark information above.
-
-**We do not engage in link exchanges,** the practice of linking to a site solely because it links to our site. 
-
-We do not link to commercial enterprises that do not have a contract with the San Francisco Municipal Transportation Agency to provide transportation-related services or administration-related Web services to the SFMTA. **A link does not qualify as such a service.** Selling our fare media does not qualify unless you are selling such fare media online, which requires a written contract with the San Francisco Municipal Transportation Agency. 
-
-* * *
-
-## Contact Info
-
-If you have any questions about any of these policies, [contact the SFMTA Webmaster.](https://web.archive.org/web/20121014082013id_/http%3A//www.sfmta.com/cms/acontact/formsite.htm)  
+  * We do not collect personal information about you when you visit our website unless you choose to provide that information to us.
+  * We collect limited non-personally identifying information your browser makes available automatically whenever you visit a website. This information includes the Internet Address of your computer or network, the date, time, and page you visited on our site, your browser and operating system, and the referring page (the last webpage you visited before clicking on a link to our site).
+  * We use the aggregated information from all of our visitors to measure server performance, analyze user traffic patterns and improve the content of our site.
+  * We sometimes track the keywords that are entered into our search engine to measure interest in specific topics, but we do not track which terms a particular user enters.
 
 
-### Explore:
 
-  * Legal Info
-  * [Site Accessibility](https://web.archive.org/web/20121014082013id_/http%3A//www.sfmta.com/cms/asite/webacces.htm)
-  * [Site Map](https://web.archive.org/web/20121014082013id_/http%3A//www.sfmta.com/cms/asite/sitemapa.htm)
-  * [sfmta.com Labs](https://web.archive.org/web/20121014082013id_/http%3A//www.sfmta.com/cms/asite/labsindx.htm)
-  * [Topics](https://web.archive.org/web/20121014082013id_/http%3A//www.sfmta.com/cms/asite/topics.htm)
+**Information You Provide**
+
+  * Information volunteered by you through your filling out of our optional online feedback form and contact us form is used to help us enhance our web sites, and may be shared with City and County of San Francisco employees and contractors for that purpose.
 
 
-  *[SFpark]: S F park
+
+**Cookies**
+
+  * We use "cookies" when providing online services such as online payments. We use cookies to improve quality of our service and not to track any personal information.
+  * The use of cookies is a standard practice among Internet websites and most Internet web browsers may be customized to reject cookies, to only accept or reject cookies by user intervention, or to delete cookies. However, some features may not function properly without cookies.
+
+
+
+**Information Sharing**
+
+  * We do not give, share, sell, rent or transfer any personal information to a third party, unless we have your consent.
+
+
+
+**Links**
+
+  * The SFMTA uses link and search capabilities to navigate publicly available information from dozens of agencies that are not part of the SFMTA or City and County of San Francisco web site and over whom the SFMTA exercises no control.
+  * The privacy policies and procedures described here do not necessarily apply to those sites.
+  * We suggest contacting these sites directly for information on their data collection and distribution policies.
+
+
+
+**Site Security**
+
+  * We monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage to the site. Anyone using this Web site expressly consents to such monitoring.
+  * We take appropriate security measures to protect unauthorized access, alteration or destruction of data.
+
+
+
+**Policy Changes**
+
+  * Please note this Privacy Policy can change from time to time. We expect most such changes to be minor, but we will post those changes as they occur.
+
+
+
+**Copyright**
+
+All editorial and creative assets on this web site, including the code used to create web pages, are protected by US and international copyright laws. The SFMTA reserves all rights to this content.
