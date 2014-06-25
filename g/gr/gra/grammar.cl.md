@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grammar.cl privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122125407id_/http%3A//www.grammar.cl/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammar.cl privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045330id_/http%3A//www.grammar.cl/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
