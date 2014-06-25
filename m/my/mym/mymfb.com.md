@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mymfb.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222063041id_/http%3A//mymfb.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymfb.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105708id_/http%3A//mymfb.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » MFB - Muslim - Islamic - facebook
+# Privacy Policy » Love . Peace . Joy
 
   
 
@@ -63,4 +63,4 @@ Should you have other questions or concerns about these privacy policies, please
 
 *Updated January 25th, 2012 (1st Rabiul Awal 1433 Hijri)
 
-_Page has been viewed 330 times.._
+_Page has been viewed 382 times.._
