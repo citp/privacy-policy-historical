@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the blogote.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113121307id_/http%3A//blogote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogote.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065603id_/http%3A//blogote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This page provides a clear notice of the privacy principles we follow. At [Blogote](http://blogote.com/), you are our visitor, and it’s extremely important for us to keep your privacy intact. This is the Privacy Policy document written just for you.
 
-Here, we outline the types of personal information we receive and collect through you. If you require more information or have any questions to ask, feel free to drop your message on our email ID. [Click here to email us](mailto:theblogote@gmail.com).
+Here, we outline the types of personal information we receive and collect through you. If you require more information or have any questions to ask, feel free to drop your message on our email ID. [Click here to email us](mailto:theblogote@gmail.com).  
+
 
 ## Key Principles We Follow:
 
@@ -54,7 +55,8 @@ Blogote.com doesn’t have any control over these ad networks’ cookies. We use
 
 Although we are not using any other ad networks, but if you believe you require complete privacy, please contact third-party ad servers for more detailed information on their practices. Many of these ad networks have an opt-out option. Once you have chosen to not allow them to access minor details, they will stop mining information.
 
-You may also disable cookies, if you wish to. Every browser — be it Firefox, Chrome, Opera, etc. — comes with a cookie management feature. You can Google for more information, as all the browsers have this option hidden somewhere in the menu. You may also have a look at the browsers’ respective websites to get a clear picture on disabling cookies.
+You may also disable cookies, if you wish to. Every browser — be it Firefox, Chrome, Opera, etc. — comes with a cookie management feature. You can Google for more information, as all the browsers have this option hidden somewhere in the menu. You may also have a look at the browsers’ respective websites to get a clear picture on disabling cookies.  
+
 
 ## Blogote Privacy Policy FAQ
 
@@ -92,5 +94,4 @@ No. Only our online advertisers will use your information to serve personlized a
 
 As a user, you will be able to understand how we operate, receive, collect the data. For us, it’s a platform to showcase our users that we are 100% committed to keep your information safe.
 
-Here is our [disclaimer page](http://blogote.com/disclaimer/).  
-
+Here is our [disclaimer page](http://blogote.com/disclaimer/).
