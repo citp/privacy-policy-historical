@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the landmarkcu.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806052128id_/https%3A//www.landmarkcu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkcu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070503id_/https%3A//www.landmarkcu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Landmark Credit Union
 
 **FACTS**
 
@@ -11,8 +11,6 @@ DO WITH YOUR PERSONAL INFORMATION? **
   
 ---|---  
   
-
-
 **Why?**
 
 | 
@@ -43,9 +41,6 @@ The types of personal information we collect and share depend on the product or 
 
 All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Landmark Credit Union chooses to share; and whether you can limit this sharing.   
   
-  
-
-
 **Reasons we can share your personal         Does Landmark                  Can you limit this ****information                                                  Credit Union share?                   sharing?**  
   
 ---  
@@ -118,9 +113,6 @@ Questions?**
 
 **  Call (262) 796-4500 or go to LandmarkCU.com**  
   
-  
-
-
 **What we do**  
   
 ---  
@@ -209,17 +201,14 @@ A formal agreement between nonaffiliated financial companies that together marke
 
 _      credit card companies and investment companies._  
   
-  
-
-
 Id: "loan-modal" (Only visible in editor)
 
 ### Existing Landmark Members
 
 Apply now within Online Banking. If not registered for Online Banking, click Enroll to register.
 
-  * [Login](https://web.archive.org/web/20130806052128id_/https%3A//www.landmarkcu.com/login.aspx)
-  * [Enroll](https://web.archive.org/web/20130806052128id_/https%3A//www.landmarkcu.com/enroll.aspx)
+  * [Login](https://web.archive.org/web/20140625070503id_/https%3A//www.landmarkcu.com/login.aspx)
+  * [Enroll](https://web.archive.org/web/20140625070503id_/https%3A//www.landmarkcu.com/enroll.aspx)
 
 
 
@@ -229,7 +218,7 @@ Id: "account-modal" (Only visible in editor)
 
 Open your new account within Online Banking.  If not registered for Online Banking, click Enroll to register.
 
-  * [Login](https://web.archive.org/web/20130806052128id_/https%3A//www.landmarkcu.com/login.aspx)
-  * [Enroll](https://web.archive.org/web/20130806052128id_/https%3A//www.landmarkcu.com/enroll.aspx)
+  * [Login](https://web.archive.org/web/20140625070503id_/https%3A//www.landmarkcu.com/login.aspx)
+  * [Enroll](https://web.archive.org/web/20140625070503id_/https%3A//www.landmarkcu.com/enroll.aspx)
 
 
