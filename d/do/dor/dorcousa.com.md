@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dorcousa.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112054107id_/http%3A//www.dorcousa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorcousa.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115754id_/http%3A//www.dorcousa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dorco Disposable Razors, Shaving Systems, Shavers, 6 Blade, Blades, Cartridges, Cartridge, Mens, Womens
 
