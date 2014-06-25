@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the activtrak.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112072754id_/http%3A//activtrak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activtrak.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093157id_/http%3A//activtrak.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ActivTrak - computer tracking software
+# Privacy Policy | Free Employee Monitoring Software | ActivTrak
 
 **This Privacy Policy was last updated on March 02, 2012.**
 
@@ -54,17 +54,17 @@ Most browsers have an option for turning off the cookie feature, which will prev
 
 Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described immediately below.
 
- **Affiliated Businesses:** We anticipate that we may become affiliated with a variety of business entities. In certain situations, these businesses may sell items to you through the Website. In other situations, ActivTrak may provide services jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business.
+**Affiliated Businesses:** We anticipate that we may become affiliated with a variety of business entities. In certain situations, these businesses may sell items to you through the Website. In other situations, ActivTrak may provide services jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business.
 
- **Agents:** We may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, ActivTrak’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us.
+**Agents:** We may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, ActivTrak’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us.
 
- **Business Transfers:** In the event that ActivTrak or substantially all of its assets are acquired, ActivTrak may transfer your Personal Information without your prior notification or consent as one of the transferred business assets.
+**Business Transfers:** In the event that ActivTrak or substantially all of its assets are acquired, ActivTrak may transfer your Personal Information without your prior notification or consent as one of the transferred business assets.
 
- **Protection of ActivTrak and Other Parties:** ActivTrak releases Personal Information when we believe release is appropriate to comply with laws; enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of ActivTrak, our users, or others.
+**Protection of ActivTrak and Other Parties:** ActivTrak releases Personal Information when we believe release is appropriate to comply with laws; enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of ActivTrak, our users, or others.
 
- **With ActivTrak Personnel:** Every ActivTrak account may have one or more account administrators who can configure and manage your ActivTrak account on behalf of you and your organization. You hereby consent to our sharing of Personal Information with your account administrators.
+**With ActivTrak Personnel:** Every ActivTrak account may have one or more account administrators who can configure and manage your ActivTrak account on behalf of you and your organization. You hereby consent to our sharing of Personal Information with your account administrators.
 
- **With Your Consent:** Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+**With Your Consent:** Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
 
 ## CONDITIONS OF USE
 
@@ -96,4 +96,4 @@ Children should not submit any Personal Information without the permission of th
 
 ActivTrak may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Your continued use of the services after the effective date of any posted change constitutes your acceptance of the amended Privacy Policy as modified by the posted changes. For this reason, we encourage you to review this Privacy Policy whenever you use the services. The last date this Privacy Policy was revised is set forth below.
 
- **This Privacy Policy was last updated on March 02, 2012.**
+**This Privacy Policy was last updated on March 02, 2012.**
