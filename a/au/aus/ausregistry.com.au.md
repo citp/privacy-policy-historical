@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausregistry.com.au privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006210940id_/http%3A//www.ausregistry.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausregistry.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124817id_/http%3A//www.ausregistry.com.au/privacy-policy) for the most accurate reproduction.*
 
 # AusRegistry - .au Registry Provider - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 AusRegistry Pty. Ltd. (ACN 092 242 209) (AusRegistry, we, us or our) believe that privacy is an important individual right and is important to our own business and to our clients.
 
-We are committed to ensuring the privacy of individuals and we will endeavour to abide by the National Privacy Principles, as set out in the Privacy Act (Cth) 1988.
+We are committed to ensuring the privacy of individuals and we will endeavour to abide by the Australian Privacy Principles, as set out in the Privacy Act (Cth) 1988.
 
 This Policy sets out how we collect, use and manage personal information that we receive about individuals, and deals with the following:
 
@@ -30,9 +30,9 @@ Personal information is defined under the Act as:
 
 “...information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion.”
 
-The Act aims to give people greater control over the way information about them is handled, by requiring organisations to comply with ten National Privacy Principles or to establish an approved privacy code.
+The Act aims to give people greater control over the way information about them is handled, by requiring organisations to comply with ten Australian Privacy Principles or to establish an approved privacy code.
 
-The National Privacy Principles cover areas such as collection, use and disclosure of personal information, data quality and security and access and correction rights for individuals.
+The Australian Privacy Principles cover areas such as collection, use and disclosure of personal information, data quality and security and access and correction rights for individuals.
 
 **How we collect personal information**
 
@@ -104,7 +104,7 @@ You have a right to know what information we hold about you, and you can [contac
 
 If you would like to review or make any corrections to your personal information you can [contact us ](https://web.archive.org/contact-us)in writing at the address designated in this document.
 
-Under the National Privacy Principles there are limited circumstances in which access to some or all of this information may be denied. If this applies to you, we will explain this to you when you ask for your information. Otherwise we will endeavour to provide you with your information within a period of 30 days, depending on the amount of information required.
+Under the Australian Privacy Principles there are limited circumstances in which access to some or all of this information may be denied. If this applies to you, we will explain this to you when you ask for your information. Otherwise we will endeavour to provide you with your information within a period of 30 days, depending on the amount of information required.
 
 **Cookies**
 
