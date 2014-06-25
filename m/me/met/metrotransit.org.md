@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrotransit.org privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113001137id_/http%3A//www.metrocouncil.org/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrotransit.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062931id_/http%3A//www.metrocouncil.org/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Metropolitan Council - Privacy Policy
 
@@ -31,7 +31,7 @@ If you do provide personally identifiable information, the information you provi
 
 Also, users are cautioned that the collection of personal information requested from or volunteered by minors online or by email will be treated the same as information given by an adult and may be subject to public access.
 
-Under the Minnesota Government Data Practices Act, some of the information that individual users share with the Metropolitan Council is private data. If you share information when signing up for a notification or subscription list, such as a newsletter, your telephone number, email address, internet user name, password, internet protocol address, and any other similar data related to your online account or access procedures  are classified as private data. Please note that these data are private for individuals and that the Minnesota Government Data Practices Act defines an individual to mean “a natural person”.  For more information, please refer to [MN. Stat. § 13.356](https://www.revisor.mn.gov/statutes/?id=13.15).
+Under the Minnesota Government Data Practices Act, some of the information that individual users share with the Metropolitan Council is private data. If you share information when signing up for a notification or subscription list, such as a newsletter, your telephone number, email address, internet user name, password, internet protocol address, and any other similar data related to your online account or access procedures  are classified as private data. Please note that these data are private for individuals and that the Minnesota Government Data Practices Act defines an individual to mean “a natural person”.  For more information, please refer to [MN. Stat. § 13.356](https://www.revisor.mn.gov/statutes/?id=13.356).
 
 ##  Your Rights as the Subject of Government Data
 
