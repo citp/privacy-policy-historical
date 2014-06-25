@@ -1,24 +1,22 @@
-<!--The following is the downloaded HTML source of the peerj.com privacy policy that was archived on 2013-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131029235716id_/https%3A//peerj.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the peerj.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625115211id_/https%3A//peerj.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-        <meta charset="utf-8">
-    <meta name="referrer" content="origin">
+        <meta charset="utf-8"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYGUVVVGwIEXVRaAgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+    <!--<meta name="referrer" content="origin">-->
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>PeerJ  - Privacy Policy</title>
+    <title>PeerJ  - Privacy Policy</title>
 
-        <meta name="description" content="Award-winning Open Access publisher for the biomedical sciences. Lifetime publishing plans from $99.">
-    
+        
     
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
-                <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-    <link rel="stylesheet" href="/css/0382a79-b58acfd.css">
+                <link rel="stylesheet" href="/css/3c59956-2174a3e.css">
 <!--[if lt IE 9]>
     <link rel="stylesheet" href="/assets/css/ie8.css">
 <![endif]-->
     
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
 <script src="/assets/js/jquery-migrate.min.js"></script>
 
@@ -35,10 +33,12 @@
         User: {
             anonymous: true        },
         Publication: {},
+        Production: {},
         Event: {},
         Com: {},
         Payment: {},
-        Annotation: {}
+        Annotation: {},
+        Sync: {}
     };
 </script>
     
@@ -48,38 +48,58 @@
 
      <link rel="search" type="application/opensearchdescription+xml" href="https://peerj.com/articles/osd.xml" title="PeerJ">
      
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-31208920-1', 'peerj.com');
+    ga('require', 'displayfeatures');
+    var gaSendPageView = setTimeout(function() { gaSendPageView = null; ga('send', 'pageview'); }, 3000);
+  
+      
+    </script>
     </head>
 
 <body>
+                <div id="instit-alert" class="well peerj-paper-well peerj-announcement-fixed">
+        <i class="icon-remove peerj-announce-close"></i>
+        <h2></h2>
+        Your institution has a plan with PeerJ, so that you don't have to pay to publish Open Access. <a id="instit-href" class="open" href="">See if you qualify <i class="icon-share-alt"></i></a>
+    </div>
+
+    <div id="read-announce-alert" class="well peerj-paper-well peerj-announcement-fixed">
+        <i class="icon-remove peerj-announce-close"></i>
+        <h2 class="slim"><strong>Read</strong> for yourself</h2>
+        why authors &amp; institutions are choosing to publish in PeerJ.<br> <strong><a class="open" href="/about/author-interviews/">Author interviews</a></strong> / <strong><a class="open" href="/edu/">Institutional case studies</a></strong>
+    </div>
+
+    <div id="qa-announce-alert" class="well peerj-paper-well peerj-announcement-fixed">
+        <i class="icon-remove peerj-announce-close"></i>
+        <h2 class="slim">Publish for <strong>free</strong></h2>
+        Comment on Articles or Preprints and we'll waive your author fee<br> <strong><a class="open" href="http://blog.peerj.com/post/89045427878/interact-with-our-articles-publish-your-own-for-free" target="_blank">Learn more</a></strong>
+    </div>
+
+    <div id="submit-announce-alert" class="well peerj-paper-well peerj-announcement-fixed">
+        <i class="icon-remove peerj-announce-close"></i>
+        <h2 class="slim"><strong>Submit</strong> your next article to PeerJ</h2>
+        and join thousands of satisfied authors.<br> <strong><a class="open" href="/about/author-interviews/">Author interviews</a></strong> / <strong><a class="open" href="/edu/">Institutional case studies</a></strong>
+    </div>
 
 
     <div class="navbar navbar-fixed-top navbar-inverse">
 	<div class="navbar-inner">
-		<div class="container">
+		<div class="container-fluid navbar-display">
 			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
              			<ul class="nav nav-search-ul">
                <li class="nav-search-li">
+                 <a href="#" id="top-nav-search-icon" tabindex="1"><i class="icon-search icon-large"></i></a>
                  <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-large icon-search nav-search-icon"></i>
-                    </span>
+                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="SEARCH - Pressing TAB will also show search form if not yet visible">
                 </form>
                 </li>
+                <li id="icon-search-remove"><a href="#"><i class="icon-remove icon-large"></i></a></li>
             </ul>
             
             <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -89,23 +109,25 @@
 			</a>
     
         <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
+			<div id="collapse-on-search" class="nav-collapse">
 				<ul class="nav">
+					<li><a href="/articles/">ARTICLES</a></li>
 					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-large icon-file icon-white"></i>  Articles</a></li>
+					<li><a href="/preprints/">PREPRINTS</a></li>
 					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-large icon-pencil icon-white"></i>  PrePrints</a></li>
+					    <li><a href="/questions/">Q&amp;A DISCUSSIONS</a></li>
 					<li class="divider-vertical"></li>
-					    <li><a href="/questions/"><i class="icon-large icon-comments icon-white"></i> Q&amp;A</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
+                                					
+                                            <li><a href="/manuscripts/">SUBMIT <span class="visible-desktop">A MANUSCRIPT</span></a></li>
                     
 					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup &amp; Pricing</a></li>
+                        <li><a href="/pricing/" style="color: white;">SIGNUP &amp; PRICING</a></li>
 	
 						<li class="divider-vertical"></li>
+                    				</ul>
 
- 						<li class="dropdown">
+				<ul class="nav pull-right">
+					 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
 	
 														<ul class="dropdown-menu">
@@ -128,12 +150,7 @@
 								<li><a href="http://blog.peerj.com/">Blog</a></li>
 							</ul>
 						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
+						<li class="divider-vertical"></li>					    <li><a href="/login">Sign in</a></li>
 					    			</ul>
 			</div>
             <!-- End @media collapsed menu -->		
@@ -142,11 +159,12 @@
 </div>
 
 
+
 <div id="wrap">
     <noscript>
         <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
     </noscript>
-
+        
     <div id="nav-pad"></div>
 
     
@@ -279,7 +297,7 @@
 	<div class="span7">
 		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
 		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
+		 <i class="icon-trophy"></i> <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews + awards</a>
 	</div>
 	<div class="span5">
 		<b>Resources -</b> <a href="/about/FAQ/">FAQ</a> | <a href="/about/careers/">Careers</a> | <a href="/about/press/">Press
@@ -297,6 +315,11 @@
 		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
 		|
 		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
+		|
+		<a href="http://www.linkedin.com/company/peerj" title="Follow on LinkedIn" alt="LinkedIn" rel="tooltip">LinkedIn</a>
+		|
+        <a href="http://www.pinterest.com/thepeerj/boards/" title="Follow on Pinterest" alt="Pinterest" rel="tooltip">Pinterest</a>
+
 	</div>
 	<div class="span7">
 		<b>Submission guides -</b> 
@@ -324,7 +347,7 @@
 <div id="fb-root"></div> 
                             <div class="row" style="margin-top:10px;font-size:12px">
                 <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">©2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
+                                            <span style="margin-right:7px">©2012-2014 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> unless otherwise specified.</span>
                                          <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
                      <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
                 </div>
@@ -334,13 +357,15 @@
     </div>
 </footer>
 
-    <script src="/js/96bfa7d-b240119.js"></script>
+    <script src="/js/16e8404-ab17b9c.js"></script>
+    
+    <script src="/js/73eacb4-ab1eb45.js"></script>
+    
 <script>
     $(function() {
         $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    });
+        PeerJ.Sixpack.init('https://peerj.com', null);    });
 </script>
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNIkUSEl5fS18FQF8FCj5AEw9HUwdK",0,52,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"d5eeba4cf5","applicationID":"1495858","transactionName":"MQcDZBMHX0EFUBBcXghNIkUSEl5fS18FQF8FCj5AEw9HUwdK","queueTime":0,"applicationTime":128,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
