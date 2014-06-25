@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchbrowsing.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101152139id_/http%3A//www.searchbrowsing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbrowsing.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113512id_/http%3A//searchbrowsing.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
