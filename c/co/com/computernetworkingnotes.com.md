@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the computernetworkingnotes.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116124620id_/http%3A//computernetworkingnotes.com/computer-networking-notes/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computernetworkingnotes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132415id_/http%3A//www.computernetworkingnotes.com/computer-networking-notes/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Computer Networking Notes
-
-##  [ Privacy Policy](http://computernetworkingnotes.com/computer-networking-notes/privacy-policy.html)
-
-  * [](http://computernetworkingnotes.com/computer-networking-notes/privacy-policy/print.html "Print")
-
-
+# Privacy Policy
 
 We are committed to fair information practices and we respect the privacy and security of our users. Our goal is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, we sometimes collect information during your visits to understand what differentiates you from each of our millions of other users, and we may also ask you for personal information that enables us to give you access to some parts of our web site. We will not disclose your information to any person outside our organisation except as described in this Privacy Policy.
 
