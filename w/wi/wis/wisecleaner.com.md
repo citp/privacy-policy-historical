@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisecleaner.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207163459id_/http%3A//www.wisecleaner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisecleaner.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125649id_/http%3A//www.wisecleaner.com/privacy.html) for the most accurate reproduction.*
 
 # WiseCleaner - Privacy Policy
 
