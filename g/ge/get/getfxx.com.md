@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getfxx.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017091948id_/http%3A//www.fxnetworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfxx.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625214214id_/http%3A//www.fxnetworks.com/privacy) for the most accurate reproduction.*
 
 # FX Networks
 
-**Effective as of June 28, 2013.**
+**Effective as of June 17, 2014.**
 
 **Table of Contents:**
 
