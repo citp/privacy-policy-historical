@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the pennyful.in privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819190647id_/http%3A//www.pennyful.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennyful.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065304id_/http%3A//www.pennyful.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pennyful.in
 
-This privacy statement describes how Pennyful Online Pvt Ltd collects and uses the personal information you provide on our Web site: [ www.pennyful.in](http://www.pennyful.in/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
+This privacy statement describes how Pennyful Online Pvt Ltd collects and uses the personal information you provide on our website: [ www.pennyful.in](http://www.pennyful.in/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
 If you have questions or concerns regarding this policy, you should contact us at [customercare@pennyful.in](mailto:customercare@pennyful.in). 
 
-**Why we collect personal information**
+**Why we collect personal information?**
 
 We collect the following personal information from you
 
   * Contact Information such as name, email address, mailing address, phone number
+  * Your Bank Account Details, such as Bank Name, Account Number, Account Type, Branch, City, IFSC No for cashback credit
   * Unique Identifiers such as user name, account number, password
   * Preferences Information such as product wish lists, order history, marketing preferences
 
@@ -21,7 +22,7 @@ We also collect the following information from you
 
 
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+As is true of most websites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
 We use this information to
 
@@ -34,7 +35,7 @@ We use this information to
   * Send you marketing communications
   * Administer contests and sweepstakes you entered, and notify you if you won
   * Respond to your questions and concerns
-  * Improve our Web site and marketing efforts
+  * Improve our website and marketing efforts
   * Conduct research and analysis
   
 
@@ -58,7 +59,7 @@ We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if Pennyful Online Pvt Ltd is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * if Pennyful Online Pvt Ltd is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
   * to any other third party with your prior consent to do so. 
 
 
@@ -69,13 +70,13 @@ We may use cookies, for example, to keep track of your preferences and profile i
 
 Web beacons
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+Our web pages contain electronic images known as web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
 We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
 
-Links to Other Web Sites
+Links to Other websites
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Pennyful Online Pvt Ltd. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+Our Site includes links to other websites whose privacy practices may differ from those of Pennyful Online Pvt Ltd. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit. 
 
 **Security**
 
@@ -83,13 +84,13 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can contact us at [customercare@pennyful.in](mailto:customercare@pennyful.in)
+If you have any questions about security on our website, you can contact us at [customercare@pennyful.in](mailto:customercare@pennyful.in)
 
 **Additional Policy Information**
 
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
+Our website includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
 **Correcting and Updating Your Personal Information**
 
