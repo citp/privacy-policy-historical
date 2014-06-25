@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the asicstiger.com privacy policy that was archived on 2013-09-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130927211306id_/http%3A//www.asicsamerica.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asicstiger.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625234745id_/http%3A//www.asicsamerica.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js touch" lang="en"><head>
+<!DOCTYPE html><html class="js touch  csstransforms csstransforms3d csstransitions" lang="en"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}</style>
 
 	<title>Privacy | asicsamerica.com</title>
 
@@ -11,26 +11,29 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="title" content="">
-    <meta name="description" content="">
-	<meta name="keywords" content="">
+    <meta name="keywords" content="">
 	<meta name="robots" content="index,follow">
 
-	<meta property="og:title" content="">
+    <meta property="og:title" content="">
 	<meta property="og:type" content="">
 	<meta property="og:url" content="">
+    <meta property="og:description" content="">
+
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-J6MS"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" src="/dtagent55_n3_5203.js" data-dtconfig="rid=RID_-210521496|rpid=254353950|domain=asicsamerica.com|tp=500,50,0"></script><link rel="shortcut icon" type="image/x-icon" href="/_ui/desktop/common/images/favicon.ico">
 	
-	<meta property="og:image" content="http&amp;#x3a;&amp;#x2f;&amp;#x2f;www.asicsamerica.com&amp;#x2f;medias&amp;#x2f;sys_master&amp;#x2f;images&amp;#x2f;8796166062110&amp;#x2f;logo-hybris.png">
+	<meta property="og:image" content="http://www.asicsamerica.com/medias/sys_master/images/8796166062110/logo-hybris.png">
 		<meta property="og:site_name" content="">
 	
-	<link rel="stylesheet" href="/_ui/desktop/theme-asics-aac/css/asics.less?v=">
+	<link rel="stylesheet" href="/_ui/desktop/theme-asics-aac/css/asics.less?v=74e7964e63e22e6b746b707042eea99a">
 
-<link rel="stylesheet" media="print" href="/_ui/desktop/theme-asics-aac/css/asics-print.less?v="><!--[if lt IE 9]>
-<link rel="stylesheet" href="/_ui/desktop/theme-asics-aac/css/asics-ie8.css" />
+<link rel="stylesheet" media="print" href="/_ui/desktop/theme-asics-aac/css/asics-print.less?v=74e7964e63e22e6b746b707042eea99a"><!--[if lt IE 9]>
+<link rel="stylesheet" href="/_ui/desktop/theme-asics-aac/css/asics-ie8.css?v=74e7964e63e22e6b746b707042eea99a" />
 <![endif]-->
 
-<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/01319438-0abb-4491-8d1f-585c6909419c.css">
+<link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/01319438-0abb-4491-8d1f-585c6909419c.css">
 
-	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-J6MS"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+	<script src="//cdn.optimizely.com/js/255859442.js"></script>
+	<script>
 		var htmlClass = 'js';
 		if (window.Touch !== undefined) htmlClass += ' touch';
 		if (navigator.appName == 'Microsoft Internet Explorer') {
@@ -38,20 +41,188 @@
 			if (!document.addEventListener) {
 				htmlClass += ' ie_lt9';
 				document.write('<script src="/_ui/desktop/common/js/ie/html5shiv.js"><\/script>');
-				document.write('<script src="/_ui/desktop/common/js/ie/selectivizr.min.js"><\/script>');
+				document.write('<script id="ie8s" src="/_ui/desktop/common/js/ie/selectivizr.min.js"><\/script>');
 			}
 		}
 		document.documentElement.className = htmlClass;
 	</script>
 
-	<script type="text/javascript">
+	<script>
+		var globals = {
+			asicsSocialTweets: [],
+			autocompleteURL: '/search/autocomplete',
+			autoplayInterval: 6000,
+			ieLt9: (navigator.appName == 'Microsoft Internet Explorer' && !document.addEventListener),
+			contextPath: '',
+			languageISO: 'en',
+
+			// Proxy for calls to Google Analytics
+			googleAnalytics: (function() {
+
+				// All calls are routed through queue
+				var queue = function(arr) {
+		        	// Only push if _gaq is defined
+		        	if (window._gaq) {
+		        		window._gaq.push(arr);
+		        	}
+				};
+
+				return {
+					
+			        trackEvent: function(category, action, label, value, noninteraction, href) {
+			        	// console.log(category, action, label, value, noninteraction, href);
+			            queue(['_trackEvent', category, action, label, value, noninteraction]);
+			            // Delay optional redirect to ensure event is tracked before page updates
+			            if (href) { setTimeout(function() { document.location.href = href; }, 100); }
+			        },
+
+			        trackPageview: function(pageURL) {
+			            queue(['_trackPageview', pageURL]);
+			        },
+
+			        setCustomVar: function(slot, name, value, scope) {
+			            queue(['_setCustomVar', slot, name, value, scope]);
+			        }			
+				};
+
+			})(),
+
+			// Proxy for calls to mixpanel
+			mixpanel: (function() {
+
+			    // All calls are routed through invoke
+			    var invoke = function(method, args, people) {
+			        // Only invoke if mixpanel is defined
+			        if (window.mixpanel) {
+			            // Mixpanel, strangely, has a separate API for people.
+			            // Need to target mixpanel.people if people specified in params.
+			            var target = people ? window.mixpanel.people : window.mixpanel;
+			            // console.log('%cmixpanel: ', 'background: red; color: #fff;', target, args);
+			            return target[method].apply(target, args);
+			        }
+			    };
+
+			    return {
+
+			    	init: function(token, config, name) {
+			    		return invoke('init', [token, config, name]);
+			    	},
+
+			        identify: function(unique_id) {
+			            return invoke('identify', [unique_id]);
+			        },
+
+			        alias: function(alias) {
+			            return invoke('alias', [alias]);
+			        },
+
+			        register: function(properties) {
+			            return invoke('register', [properties]);
+			        },
+
+			        unregister: function(property_name) {
+			        	return invoke('unregister', [property_name])
+			        },
+
+			        track: function(event_name, properties, callback) {
+			            return invoke('track', [event_name, properties, callback]);
+			        },
+
+			        track_links: function(css_selector, event_name, properties) {
+			            return invoke('track_links', [css_selector, event_name, properties]);
+			        },
+
+			        track_forms: function(css_selector, event_name, properties) {
+			            return invoke('track_forms', [css_selector, event_name, properties]);
+			        },
+
+			        getCartData: function() {
+			            return { promoCode: _promoCode };
+			        },
+
+			        people: {
+			            set: function(prop, to, callback) {
+			                return invoke('set', [prop, to, callback], true);
+			            },
+
+			            track_charge: function(amount) {
+			                return invoke('track_charge', [amount], true);
+			            }
+			        }
+			    };
+
+			})() 
+		};
+
+	</script>
+
+	<!-- start Mixpanel -->
+<script type="text/javascript">
+(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+
+(function() {
+
+    // Initialise mixpanel with the appropriate id for this instance
+    // We send all the calls through a proxy object to make debugging easier
+    globals.mixpanel.init('047678cda9e238bf2a4d9466f9a06086');
+    globals.mixpanel.register({ 'hostname': window.location.hostname });
+
+    // Report current user type, Returning (logged in) or Visitor (not logged in)
+    
+        var captureGuestUserDetails = '', // true if guest user has entered email
+            email = '',
+            firstName = '',
+            lastName = '';
+        //console.log("captureGuestUserDetails = " + captureGuestUserDetails + ", email=" + email + ", firstName = " + firstName, ",lastName = " + lastName);
+
+        if(null != email && '' != email ){
+            globals.mixpanel.register({ '$email': email });
+            globals.mixpanel.people.set({
+                '$email': email,
+                'First Name': firstName,
+                'Last Name': lastName
+            });
+            if(captureGuestUserDetails){ // user given email first time, create alias
+                globals.mixpanel.alias(email);
+            }else{ // user details available via session, find the user
+                globals.mixpanel.identify(email);
+            }
+        }
+        globals.mixpanel.register({ 'User Type': 'Guest' });
+
+    
+
+})();
+</script>
+<!-- end Mixpanel -->
+<!-- ga is conditionally written to page if tracking id is found. All tracking handled directly in page
+    is also included within the conditional. Analytics not fired directly from this block should be routed through Asics.GoogleAnalytics object to facilitate debugging and error handling --> 
+<script type="text/javascript">
     /* Google Analytics */
-    var googleAnalyticsTrackingId = 'UA\x2D39393201\x2D1';
     var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', googleAnalyticsTrackingId]);
+    _gaq.push(['_setAccount', 'UA\x2D39393201\x2D1']);
     _gaq.push(['_setDomainName', 'asicsamerica.com']);
     _gaq.push(['_setAllowLinker', true]);
 
+
+// 1EJS AGRA-488 track keyword ranking
+if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
+  var myString = document.referrer;
+  var r        = myString.match(/cd=(.*?)&/);
+  var rank     = parseInt(r[1]);
+  var kw       = myString.match(/q=(.*?)&/);
+  
+  if (kw[1].length > 0) {
+    var keyWord  = decodeURI(kw[1]);
+  } else {
+    keyWord = "(not provided)";
+  }
+
+  var p        = document.location.pathname;
+  _gaq.push(['_trackEvent', 'RankTracker', keyWord, p, rank, true]);
+}
 
 // Report current user type, Member or Visitor
 
@@ -59,92 +230,77 @@
 
     _gaq.push(['_trackPageview']);
 	
-    window.googleAnalytics = true;
-    (function () {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-    function trackUpdateCart(product, basePrice, initialQuantity, newQuantity) {
-        if (initialQuantity != newQuantity) {
-            if (initialQuantity > newQuantity) {
-                trackRemoveFromCart(product, basePrice, (initialQuantity - newQuantity));
-            }
-            else {
-                trackAddToCart(product, basePrice, (newQuantity - initialQuantity));
-            }
-        }
-    }
-    function trackQuickBuyAddToCart(product, basePrice, qty) {
-        _gaq.push(['_trackEvent', 'Cart', 'QuickBuy', product.name, qty, true]);
-        _gaq.push(['_trackEvent', 'Cart', 'QuickBuy', product.name, basePrice.value, true]);
-    }
-    function trackAddToCart(product, basePrice, qty) {
-        _gaq.push(['_trackEvent', 'Cart', 'AddToCart', product.name, qty, true]);
-        _gaq.push(['_trackEvent', 'Cart', 'AddToCart', product.name, basePrice.value, true]);
-    }
-    function trackRemoveFromCart(product, basePrice, qty) {
-        _gaq.push(['_trackEvent', 'RemoveFromCart', 'Number of Items', product.name, qty, true]);
-        _gaq.push(['_trackEvent', 'RemoveFromCart', 'Unit Price', product.name, basePrice.value, true]);
-    }
+
+	(function() {
+	  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	  ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	 })();
+
+	 window.onload = function() {
+	  if(_gaq.I==undefined){
+	   _gaq.push(['_trackEvent', 'tracking_script', 'loaded', 'ga.js', ,true]);
+	   ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	   s = document.getElementsByTagName('script')[0];
+	   gaScript = s.parentNode.insertBefore(ga, s);
+	  } else {
+	   _gaq.push(['_trackEvent', 'tracking_script', 'loaded', 'dc.js', ,true]);
+	  }
+	 };
+
 </script>
 </head>
 
-<body class="information">
+<body class="information"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
 <!-- Google Tag Manager -->
-<noscript>
-	<iframe src="//www.googletagmanager.com/ns.html?id=GTM-J6MS"
-height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<script>
-	dataLayer = [];
-</script>
-<script>
-	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-J6MS');
-</script>
-<!-- End Google Tag Manager -->
-<script>
+	<noscript>
+		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-J6MS"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe>
+	</noscript>
+	<script>
+		dataLayer = [];
+	</script>
+	<script>
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-J6MS');
+	</script>
+	<!-- End Google Tag Manager -->
+<script src="/_ui/desktop/common/js/jquery-1.8.3.min.js"></script>
 
-	var globals = {
-		asicsSocialTweets: [],
-		autocompleteURL: '/search/autocomplete',
-		autoplayInterval: 6000,
-		ieLt9: (navigator.appName == 'Microsoft Internet Explorer' && !document.addEventListener),
-		contextPath: '',
-		languageISO: 'en'//,
-		// zoomImageURL: 'p/PRODUCT/zoomImages'
-	};
+<script src="/_ui/desktop/common/js/underscore.min.js"></script>
 
-</script>
-
-<script src="//cdn.optimizely.com/js/255859442.js"></script>
+<script src="/_ui/desktop/common/js/angular-1.2.14-custom.min.js"></script>
+<script src="/_ui/desktop/common/js/angular-resource-1.2.14.min.js"></script>
+<script src="/_ui/desktop/common/js/angular-sanitize-1.2.14.min.js"></script>
+<script src="/_ui/desktop/common/js/ngStorage.js"></script>
 
 
+<script src="/_ui/desktop/common/js/plugins/jquery.form-3.09.js"></script>
+<script src="/_ui/desktop/common/js/plugins/jquery.query-2.1.7.js"></script>
+<script src="/_ui/desktop/common/js/plugins/jquery-ui-1.10.0.js"></script>
+<script src="/_ui/desktop/common/js/plugins/jquery.viewport.min.js"></script>
+<script src="/_ui/desktop/common/js/plugins/jquery.isotope.min.js"></script>
+<script src="/_ui/desktop/common/js/plugins/jquery.cookie.js"></script>
+<script src="/_ui/desktop/common/js/plugins/jquery.colorbox-1.3.16.js"></script>
 
+<script src="/_ui/desktop/common/js/asics.js"></script>
 
+<script src="/_ui/desktop/common/js/app/app.js"></script>
+<script src="/_ui/desktop/common/js/app/services.js"></script>
+<script src="/_ui/desktop/common/js/app/controllers.js"></script>
+<script src="/_ui/desktop/common/js/app/directives.js"></script>
+<script src="/_ui/desktop/common/js/app/filters.js"></script>
 
+<script src="/_ui/desktop/common/js/app/shoe-finder/controllers.js"></script>
+<script src="/_ui/desktop/common/js/app/shoe-finder/directives.js"></script>
+<script src="/_ui/desktop/common/js/app/shoe-finder/filters.js"></script>
 
+<script src="/_ui/desktop/common/js/app/product-list/controllers.js"></script>
+<script src="/_ui/desktop/common/js/app/product-list/directives.js"></script>
 
+<script src="/_ui/desktop/common/js/app/returns/controllers.js"></script>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<script src="/combined.js?id=ac2526fa141501d_0"></script>
-
-<script src="http://maps.googleapis.com/maps/api/js?v=&amp;key=&amp;sensor=false"></script>
-    <div id="page" ng-app="AsicsStore">
+<div id="page" ng-app="AsicsStore" ng-controller="App" ng-init="sites({isAac: 'true', isAeb: '', isAebGb: '', isAop: '', isAjp: ''});" class="ng-scope">
 
 			<header role="banner">
 
@@ -154,31 +310,36 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 			<nav id="secondary" role="navigation">
 
 				<div id="search" class="ui-widget">
-					<form name="search_form" method="get" action="/search" role="search">
+
+					<form name="search_form" method="get" action="/search" role="search" class="ng-pristine ng-valid">
 						<label class="skip" for="search">Search</label>
-						<input id="search_query" class="text" type="text" name="text" value="" maxlength="100" placeholder="Search...">
+						<input id="search_query" class="text ui-autocomplete-input" type="text" name="text" value="" maxlength="100" placeholder="Search..." autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
 						<input class="button" type="submit" value="Search" src="/" alt="Search">
 						</form>
-					<li id="autocomplete_more_button" class="close" style="display: none;"><a class="button alternate" href="#">More</a></li>
+					<li id="autocomplete_more_button" class="close" style="display: none;"><a id="more_button" class="button alternate" href="#">More</a></li>
 				</div>
 
-				<ul id="account_store">
+				<ul id="account_store" data-gtm="[{'event': 'loginFinished', 'existingCustomer': false}, {'event': 'notifyCriteo', 'customerid':'' }]">
 					<li>
 						<a href="/store-finder">Store Locator</a>
 					</li>
 					<li>
-						<a href="/my-account">My Account</a>
+						<a href="/my-account">
+							My Account</a>
 					</li>
 					<li><a href="http://myasics.us/" title="My ASICS" target="_new">My ASICS</a></li>
+					<li><a href="http://www.onitsukatiger.com/en-us" title="Onitsuka Tiger" target="_new">Onitsuka Tiger</a></li>
 					</ul>
+                <!-- OLD WAY OF DEALING WITH CENTER HEADER LINKS
+                <ul>
+                    </ul>
+                -->
 				<ul id="social_links">
 					<li><a href="https://twitter.com/ASICSamerica" class="icon icon_twitter" title="Twitter" target="_new">Twitter</a></li>
 					<li><a href="https://www.facebook.com/ASICSamerica" class="icon icon_facebook" title="Facebook" target="_new">Facebook</a></li>
 					<li><a href="http://www.youtube.com/user/ASICSAmerica" class="icon icon_youtube" title="YouTube" target="_new">YouTube</a></li>
 					<li><a href="/contact-asics" class="icon icon_email" title="Contact ASICS">Contact ASICS</a></li>
 					</ul>
-                <ul id="tiger_link">
-                    </ul>
 				</nav>
 
 		</div>
@@ -195,41 +356,54 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 		</div></div>
 
 				<ul id="areas" class="level_1">
-	<li>
-					<a class="panel_link" href="#ShopBarComponent">
+	<li class="active" id="ShopBarComponent">
+					<a href="javascript:void(0);" class="panel_link">
 						<span>Shop</span>
 			</a>
 				</li>
-			<li>
-					<a class="panel_link" href="#SportsBarComponent">
+			<li class="active" id="SportsBarComponent">
+					<a href="javascript:void(0);" class="panel_link">
 						<span>Sports</span>
 			</a>
 				</li>
-			<li>
+			<li id="AthletesBarComponent">
 					<a href="/athletes" class="" title="Athletes">
 			Athletes</a>
 	</li>
-			<li>
-					<a href="/events" class="" title="Events">
-			Events</a>
+			<li class="active" id="EventsBarComponent">
+					<a href="javascript:void(0);" class="panel_link">
+						<span>Events</span>
+			</a>
+				</li>
+			<li id="comp_00001FQA">
+					<a href="/news" class="" title="News">
+			News</a>
+	</li>
+			<li id="comp_00001I0U">
+					<a href="/shoe-finder" class="" title="Shoe Finder">
+			Shoe Finder</a>
 	</li>
 			</ul>
-<div id="minicart" ng-controller="MiniCart">
-	<dl id="minicart_data">
-		<dt>Cart items</dt>
-		<dd><span ng-bind="cart.contents.data.totalUnitCount">0</span></dd>
-	</dl>
-	<div id="minicart_actions">
-		<a class="button button_toggle highlight_off panel_link" href="#cart_panel">
-			<span class="off">View Cart</span>
-			<span class="on">Hide Cart</span>
-		</a>
+<div id="minicart" ng-controller="MiniCart" class="ng-scope">
+		<dl id="minicart_data">
+			<dt>Cart items</dt>
+			<dd><span ng-bind="cart.contents.data.totalUnitCount" class="ng-binding"></span></dd>
+		</dl>
+		<div id="minicart_actions">
+			<a class="button button_toggle highlight_off panel_link">
+				<span class="off">View Cart</span>
+				<span class="on">Hide Cart</span>
+			</a>
+		</div>
 	</div>
-</div></div>
+
+</div>
 		</div>
 
 		<div id="panels">
 			
+
+
 
 
 
@@ -239,89 +413,94 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 
 			<div class="listing ">
 							<h3>Browse by Category</h3>
-
 							<ul class="level_3">
-										<li class="level_3">
-													<a href="/Shop/Footwear/cat/Footwear" class="" title="Footwear">
-			Footwear</a>
+										<li class="level_3" id="ShoesLink">
+													<a href="/Shop/Footwear/cat/Footwear" class="" title="Shoes">
+			Shoes</a>
 	</li>
-											<li class="level_3">
-													<a href="/Shop/Tops/cat/Tops" class="" title="Tops">
-			Tops</a>
+											<li class="level_3" id="internal-product-grid-mens-apparel">
+													<a href="/Genders/Mens/All-Mens-Apparel/cat/gender-mens-apparel" class="" title="Mens Apparel">
+			Mens Apparel</a>
 	</li>
-											<li class="level_3">
-													<a href="/Shop/Bottoms/cat/Bottoms" class="" title="Bottoms">
-			Bottoms</a>
+											<li class="level_3" id="internal-product-grid-womens-apparel">
+													<a href="/Genders/Womens/All-Womens-Apparel/cat/gender-womens-apparel" class="" title="Womens Apparel">
+			Womens Apparel</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="AccessoriesLink">
 													<a href="/Shop/Accessories/cat/Accessories" class="" title="Accessories">
 			Accessories</a>
+	</li>
+											<li class="level_3" id="internal-content-page-new-arrivals">
+													<a href="/new-arrivals" class="" title="New Arrivals">
+			New Arrivals</a>
 	</li>
 											</ul>
 								</div>
 					<div class="listing ">
 							<h3>Shop by gender</h3>
-
 							<ul class="level_3">
-										<li class="level_3">
+										<li class="level_3" id="internal-mens-product-grid">
 													<a href="/Genders/Mens/cat/Gender-Mens" class="" title="MENS">
 			MENS</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-womens-product-grid">
 													<a href="/Genders/Womens/cat/Gender-Womens" class="" title="WOMENS">
 			WOMENS</a>
 	</li>
-											<li class="level_3">
-													<a href="/Genders/Kids/cat/Gender-Kids" class="" title="KIDS">
-			KIDS</a>
+											<li class="level_3" id="internal-kids-pre-school-product-grid">
+													<a href="/Genders/Kids/Pre-School/cat/gender-kids-pre-school" class="" title="KIDS - PRE-SCHOOL">
+			KIDS - PRE-SCHOOL</a>
+	</li>
+											<li class="level_3" id="internal-kids-grade-school-product-grid">
+													<a href="/Genders/Kids/Grade-School/cat/gender-kids-grade-school" class="" title="KIDS - GRADE SCHOOL">
+			KIDS - GRADE SCHOOL</a>
 	</li>
 											</ul>
 								</div>
 					<div class="listing ">
 							<h3>Shop by sport</h3>
-
 							<ul class="level_3">
-										<li class="level_3">
+										<li class="level_3" id="internal-product-grid-running">
 													<a href="/Sports/Running/cat/sport-running" class="" title="RUNNING">
 			RUNNING</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-product-grid-training">
 													<a href="/Sports/Training/cat/sport-training" class="" title="TRAINING">
 			TRAINING</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-product-grid-trail">
 													<a href="/Sports/Trail/cat/sport-trail" class="" title="TRAIL">
 			TRAIL</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-product-grid-track-and-field">
 													<a href="/Sports/Track-%26-Field/cat/sport-track-field" class="" title="TRACK &amp; FIELD">
 			TRACK &amp; FIELD</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-product-grid-volleyball">
 													<a href="/Sports/Volleyball/cat/sport-volleyball" class="" title="VOLLEYBALL">
 			VOLLEYBALL</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-product-grid-tennis">
 													<a href="/Sports/Tennis/cat/sport-tennis" class="" title="TENNIS">
 			TENNIS</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-product-grid-wrestling">
 													<a href="/Sports/Wrestling/cat/sport-wrestling" class="" title="WRESTLING">
 			WRESTLING</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-product-grid-walking">
 													<a href="/Sports/Walking/cat/sport-walking" class="" title="WALKING">
 			WALKING</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-product-grid-triathlon">
 													<a href="/Collections/Triathlon/cat/collections-triathlon-all" class="" title="TRIATHLON">
 			TRIATHLON</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-soccer-product-grid">
 													<a href="/Sports/Soccer/cat/sport-soccer" class="" title="SOCCER">
 			SOCCER</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-golf-product-grid">
 													<a href="/Sports/Golf/cat/sports-golf" class="" title="GOLF">
 			GOLF</a>
 	</li>
@@ -329,51 +508,54 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 								</div>
 					<div class="listing ">
 							<h3>Featured</h3>
-
 							<ul class="level_3">
-										<li class="level_3">
-													<a href="/Collections/GEL-Kayano-19/cat/collections-kayano-19" class="" title="GEL-Kayano 19">
-			GEL-Kayano 19</a>
+										<li class="level_3" id="internal-content-page-new-arrivals">
+													<a href="/new-arrivals" class="" title="New Arrivals">
+			New Arrivals</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-content-page-gel-equipped">
+													<a href="/gel" class="" title="GEL-Equipped">
+			GEL-Equipped</a>
+	</li>
+											<li class="level_3" id="internal-content-page-excel33">
+													<a href="/gel-excel33" class="" title="GEL-Excel33 3">
+			GEL-Excel33 3</a>
+	</li>
+											<li class="level_3" id="internal-content-page-electro33">
+													<a href="/gel-electro33" class="" title="GEL-Electro33">
+			GEL-Electro33</a>
+	</li>
+											<li class="level_3" id="internal-content-page-gel-lyte33">
+													<a href="/gel-lyte33" class="" title="GEL-Lyte33 3">
+			GEL-Lyte33 3</a>
+	</li>
+											<li class="level_3" id="internal-content-page-super-j33">
+													<a href="/gel-super-j33" class="" title="GEL-Super J33">
+			GEL-Super J33</a>
+	</li>
+											<li class="level_3" id="internal-product-grid-kayano20-main-navigation">
+													<a href="/Footwear/GEL-Kayano-20-Running-Shoes/cat/footwear-kayano-20" class="" title="GEL-Kayano 20">
+			GEL-Kayano 20</a>
+	</li>
+											<li class="level_3" id="internal-widths-product-grid">
 													<a href="/Collections/Widths/cat/collection-widths-all" class="" title="WIDTHS">
 			WIDTHS</a>
 	</li>
-											<li class="level_3">
-													<a href="/Sports/Trail/cat/sport-trail" class="" title="TRAIL">
-			TRAIL</a>
-	</li>
-											<li class="level_3">
-													<a href="/gel-lyte33-2" class="" title="GEL-LYTE33 2">
-			GEL-LYTE33 2</a>
-	</li>
-											<li class="level_3">
-													<a href="/science" class="" title="Science">
-			Science</a>
-	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-gt-series-page">
 													<a href="/gt-series" class="" title="GT Series">
 			GT Series</a>
 	</li>
-											<li class="level_3">
-													<a href="/Footwear/Gel-Nimbus-15/cat/footwear-nimbus-15" class="" title="GEL-Nimbus 15">
-			GEL-Nimbus 15</a>
+											<li class="level_3" id="internal-content-page-nimbus16">
+													<a href="/gel-nimbus" class="" title="GEL-Nimbus 16">
+			GEL-Nimbus 16</a>
 	</li>
-											<li class="level_3">
-													<a href="/Collections/GEL-Cumulus-15/cat/collections-cumulus-15" class="" title="GEL-Cumulus 15">
-			GEL-Cumulus 15</a>
+											<li class="level_3" id="internal-content-page-cumulus16">
+													<a href="/gel-cumulus" class="" title="GEL-Cumulus 16">
+			GEL-Cumulus 16</a>
 	</li>
-											<li class="level_3">
-													<a href="/natural33" class="" title="Natural33">
-			Natural33</a>
-	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-lite-show-product-grid">
 													<a href="/Lite-Show-Reflective-Technology/cat/lite-show" class="" title="Lite-Show">
 			Lite-Show</a>
-	</li>
-											<li class="level_3">
-													<a href="/pediatric-cancer" class="" title="Pediatric Cancer Awareness">
-			Pediatric Cancer Awareness</a>
 	</li>
 											</ul>
 								</div>
@@ -383,66 +565,89 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 			<div class="featured">
 							<h3>Featured sports</h3>
 							<ul class="level_3">
-								<li class="level_3">
+								<li class="level_3" id="featured-link-training">
 											<a href="/sports/training">
-	<img src="/medias/sys_master/h2a/h45/8805263147038/featured_link_hero_training.png" alt="Training">
+	<img src="/medias/sys_master/h72/h17/8927286198302/featured_link_hero_training.png" alt="Training">
 </a>
 <a href="/sports/training" class="" title="Training">
 			Training</a>
 	</li>
-									<li class="level_3">
-											<a href="/sports/trail">
-	<img src="/medias/sys_master/h2c/h45/8805263212574/featured_link_hero_trail.png" alt="Trail">
+									<li class="level_3" id="featured-link-tennis">
+											<a href="/sports/tennis">
+	<img src="/medias/sys_master/images/8927286788126/featured_link_hero_tennis.png" alt="Tennis">
 </a>
-<a href="/sports/trail" class="" title="Trail">
-			Trail</a>
+<a href="/sports/tennis" class="" title="Tennis">
+			Tennis</a>
 	</li>
-									<li class="level_3">
-											<a href="/sports/running">
-	<img src="/medias/sys_master/images/8799094112286/featured_link_hero_running.png" alt="Running">
+									<li class="level_3" id="featured-link-wrestling">
+											<a href="/sports/wrestling">
+	<img src="/medias/sys_master/images/8927286591518/featured_link_hero_wrestling.png" alt="Wrestling">
 </a>
-<a href="/sports/running" class="" title="Running">
-			Running</a>
+<a href="/sports/wrestling" class="" title="Wrestling">
+			Wrestling</a>
 	</li>
 									</ul>
 						</div>
 					<div class="listing sports">
 							<h3>All sports</h3>
-
 							<ul class="level_3 sports">
-										<li class="level_3">
+										<li class="level_3" id="internal-sports-detail-triathlon">
 													<a href="/sports/triathlon/" class="" title="Triathlon">
 			Triathlon</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-sport-detail-track-and-field">
 													<a href="/sports/track-field-cross-country" class="" title="Track &amp; Field">
 			Track &amp; Field</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-sport-detail-wrestling">
 													<a href="/sports/wrestling" class="" title="Wrestling">
 			Wrestling</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-sport-detail-volleyball">
 													<a href="/sports/volleyball" class="" title="Volleyball">
 			Volleyball</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-sports-detail-tennis">
 													<a href="/sports/tennis" class="" title="Tennis">
 			Tennis</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-sports-detail-running">
 													<a href="/sports/running" class="" title="Running">
 			Running</a>
 	</li>
-											<li class="level_3">
+											<li class="level_3" id="internal-sport-detail-training">
 													<a href="/sports/training" class="" title="Training">
 			Training</a>
 	</li>
 											</ul>
 													<ul class="level_3 sports">
-												<li class="level_3">
+												<li class="level_3" id="internal-sports-detail-trail">
 													<a href="/sports/trail" class="" title="Trail">
 			Trail</a>
+	</li>
+											</ul>
+								</div>
+					</div>
+	<div id="EventsBarComponent" class="panel secondary wrap">
+
+			<div class="featured">
+							<h3>Featured Events</h3>
+							<ul class="level_3">
+								<li class="level_3" id="featured-link-wsobv">
+											<a href="/wsobv">
+	<img src="/medias/sys_master/h73/hce/9227321573406/featured_event_hero_wsobv.png" alt="2014 WSOBV">
+</a>
+<a href="/wsobv" class="" title="2014 WSOBV">
+			2014 WSOBV</a>
+	</li>
+									</ul>
+						</div>
+					<div class="listing ">
+							<h3>Sports</h3>
+							<ul class="level_3">
+										<li class="level_3" id="internal-content-page-events">
+													<a href="/events" class="" title="All Events">
+			All Events</a>
 	</li>
 											</ul>
 								</div>
@@ -450,19 +655,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 	
     
     
+       
+          
 <div id="cart_panel" class="panel wrap" style="display:none;">
-					<article id="cart" class="updatable item" ng-controller="MainCart" ng-class="{empty: !cart.data.totalItems}" ng-cloak="">
+					<article id="cart" class="updatable item ng-scope empty" ng-controller="MainCart" ng-class="{empty: !cart.data.totalItems}">
 
-	<div ng-show="cart.contents.data.totalItems">
+	<div ng-show="cart.contents.data.totalItems" class="ng-hide">
 
 		<header id="cart_header">
 			<h2>Your Shopping Cart</h2>
-			<h3 id="cart_id">Cart ID:{{cart.contents.data.code}}</h3>
+			<h3 id="cart_id" class="ng-binding">Cart ID:</h3>
 		</header>
 
-		<p class="message {{cart.contents.messages.cart.type}}" ng-show="cart.contents.messages.cart &amp;&amp; cart.contents.messages.cart.type != 'success'">
-			<span class="icon">{{cart.contents.messages.cart.type}}:</span>
-			<span>{{cart.contents.messages.cart.text}}</span>
+		<p class="message  ng-hide" ng-show="cart.contents.messages.cart &amp;&amp; cart.contents.messages.cart.type != 'success'">
+			<span class="icon ng-binding">:</span>
+			<span class="ng-binding"></span>
 		</p>
 
 		<table id="cart_table">
@@ -476,126 +683,68 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 		</tr>
 	</thead>
 	<tbody>
-		<tr data-id="{{entry.entryNumber}}" ng-repeat="entry in cart.contents.data.entries">
-
-			<td headers="head_details" class="thumb">
-				<a class="image_link" ng-href="{{globals.contextPath + entry.product.primaryColourOption.url}}">
-					<img ng-src="{{entry.product.primaryImage.url}}" alt="{{entry.product.name}}">
-				</a>
-			</td>
-
-			<td headers="head_details" class="info">
-				<h3>
-					<a href="{{entry.product.primaryColourOption.url}}">{{entry.product.name}}</a>
-				</h3>
-				<div class="definitions">
-					<dl>
-						<dt>Color:</dt>
-						<dd>{{entry.product.primaryColourOption.colour.description}}</dd>
-					</dl>
-					<dl ng-repeat="variant in entry.product.baseOptions[0].selected.variantOptionQualifiers">
-						<dt>{{variant.name}}:</dt>
-						<dd>{{variant.displayValue}}</dd>
-					</dl>
-				</div>
-				<ul class="promotions" ng-if="entry.appliedPromotions.length || entry.potentialPromotions.length">
-					<li class="promotion promotion_applied" ng-repeat="promotion in entry.appliedPromotions">{{promotion.description}}</li>
-					<li class="promotion promotion_potential" ng-repeat="promotion in entry.potentialPromotions">{{promotion.description}}</li>
-				</ul>
-			</td>
-
-			<td headers="head_quantity" class="quantity">
-				<form ng-show="entry.updateable" ng-submit="cartUpdateLine(entry.entryNumber, quantity, entry.quantity, $index)">
-					<ol>
-						<li>
-							<label class="conceal">Quantity</label>
-							<input type="number" min="0" class="text qty" ng-init="quantity=entry.quantity" ng-model="quantity">
-                            <a class="quantity_update" ng-click="cartUpdateLine(entry.entryNumber, quantity, entry.quantity, $index)">Update</a>
-							<p class="message {{cart.contents.messages.lines[entry.entryNumber].type}}" ng-show="cart.contents.messages.lines[entry.entryNumber] &amp;&amp; cart.contents.messages.lines[entry.entryNumber].type != 'success'">
-								<span class="icon">{{cart.contents.messages.lines[entry.entryNumber].type}}:</span>
-								<span>{{cart.contents.messages.lines[entry.entryNumber].text}}</span>
-							</p>
-						</li>
-					</ol>
-				</form>
-				<span class="qty" ng-hide="entry.updateable">{{entry.quantity}}</span>
-			</td>
-
-			<td headers="head_pricing" class="price">
-				{{entry.basePrice.formattedValue}}
-			</td>
-
-			<td headers="head_total" class="subtotal">
-				{{entry.totalPrice.formattedValue}}
-			</td>
-
-			<td headers="head_remove" class="remove">
-				<a class="item_remove button" ng-show="entry.updateable" ng-click="cartUpdateLine(entry.entryNumber, 0, entry.quantity, $index)">Remove</a>
-			</td>
-
-		</tr>
+		<!-- ngRepeat: entry in cart.contents.data.entries -->
 	</tbody>
 </table>
+
+
+
 <div id="cart_totals_holder" class="cart">
 
 	<dl class="cart_totals">
 
 		<dt class="subtotal">Subtotal</dt>
-		<dd class="subtotal">{{cart.contents.data.subTotal.formattedValue}}</dd>
+		<dd class="subtotal ng-binding"></dd>
 
 		<dt class="coupons">
-			<a class="promo_link" ng-show="!isPromotionsVisible" ng-click="showPromotions()">I have a discount code</a>
-			<span class="icon" ng-show="!isPromotionsVisible" data-tooltip="If you have an ASICS discount code, it can be redeemed by entering it here"></span>
-			<label for="coupon_code" ng-show="isPromotionsVisible">Promotion code</label>
+			<a href="javascript:void(0);" class="promo_link" ng-show="!isPromotionsVisible" ng-click="showPromotions()">I have a discount code</a>
+			<span class="tooltip icon ng-isolate-scope" ng-show="!isPromotionsVisible" data-tooltip="If you have an ASICS discount code, it can be redeemed by entering it here"><div class="tooltip"><p ng-bind-html="tooltipValue" class="ng-binding">If you have an ASICS discount code, it can be redeemed by entering it here</p><span></span></div></span>
+			<label for="coupon_code" ng-show="isPromotionsVisible" class="ng-hide">Promotion code</label>
 		</dt>
 		<dd class="coupons">
-			<ul ng-show="cart.contents.data.coupons">
-				<li ng-repeat="coupon in cart.contents.data.coupons">
-					<span class="coupon_code">{{coupon.code}}</span>
-					<a class="coupon_remove" ng-click="cartRemoveCoupon(coupon.code)">X</a>
-				</li>
+			<ul ng-show="cart.contents.data.coupons" class="ng-hide">
+				<!-- ngRepeat: coupon in cart.contents.data.coupons -->
 			</ul>
-			<form ng-show="isPromotionsVisible" ng-submit="cartAddCoupon(cart.inputs.coupon)">
+			<form ng-show="isPromotionsVisible" ng-submit="cartAddCoupon(cart.inputs.coupon)" class="ng-pristine ng-valid ng-hide">
 				<ol>
 					<li ng-class="{field_error: couponErrors.length}">
-						<input id="coupon_code" type="text" class="text coupon" ng-model="cart.inputs.coupon">
-						<a ng-click="cartAddCoupon(cart.inputs.coupon)">Apply</a>
-						<p class="message {{cart.contents.messages.coupons.type}}" ng-show="cart.contents.messages.coupons &amp;&amp; cart.contents.messages.coupons.type != 'success'">
-							<span class="icon">{{cart.contents.messages.coupons.type}}:</span>
-							<span>{{cart.contents.messages.coupons.text}}</span>
+						<input id="coupon_code" type="text" class="text coupon ng-pristine ng-valid" ng-model="cart.inputs.coupon">
+						<a id="cartCouponLink" ng-click="cartAddCoupon(cart.inputs.coupon)">Apply</a>
+						<p class="message  ng-hide" ng-show="cart.contents.messages.coupons &amp;&amp; cart.contents.messages.coupons.type != 'success'">
+							<span class="icon ng-binding">:</span>
+							<span class="ng-binding"></span>
 						</p>
 					</li>
 				</ol>
 			</form>
 		</dd>
 
-		<dt class="savings" ng-show="cart.contents.data.orderDiscounts.value">Savings</dt>
-		<dd class="savings" ng-show="cart.contents.data.orderDiscounts.value">{{cart.contents.data.orderDiscounts.formattedValue}}</dd>
+		<dt class="savings ng-hide" ng-show="cart.contents.data.orderDiscounts.value">Savings</dt>
+		<dd class="savings ng-binding ng-hide" ng-show="cart.contents.data.orderDiscounts.value"></dd>
 
-		<dt class="shipping" ng-show="cart.contents.data.deliveryCost">Shipping</dt>
-		<dd class="shipping" ng-show="cart.contents.data.deliveryCost">{{cart.contents.data.deliveryCost.formattedValue}}</dd>
-		<dt class="shipping" ng-hide="cart.contents.data.deliveryCost">
-			* Estimated shipping<span class="note">* The exact shipping cost will be calculated during checkout</span>
-            </dt>
-		<dd class="shipping" ng-hide="cart.contents.data.deliveryCost">{{cart.contents.data.defaultDeliveryMode.deliveryCost.formattedValue}}</dd>
-
-		<dt class="tax" ng-hide="cart.contents.data.net">Tax</dt>
-		<dd class="tax" ng-hide="cart.contents.data.net">{{cart.contents.data.totalTax.formattedValue}}</dd>
-
+		<dt class="shipping ng-hide" ng-show="cart.contents.data.deliveryCost">Shipping</dt>
+				<dd class="shipping ng-hide" ng-show="cart.contents.data.deliveryCost">
+                    <span ng-show="cart.contents.data.deliveryCost.value" class="ng-binding ng-hide"></span>
+                    <span ng-hide="cart.contents.data.deliveryCost.value" class="">Free</span>
+                </dd>
+				<dt class="shipping" ng-hide="cart.contents.data.deliveryCost">
+					* Estimated shipping<span class="note">* 
+						The exact shipping cost will be calculated during checkout</span>
+				</dt>
+				<dd class="shipping ng-binding" ng-hide="cart.contents.data.deliveryCost"></dd>
+        	<dt class="tax" ng-hide="cart.contents.data.net">Tax</dt>
+		<dd class="tax ng-binding" ng-hide="cart.contents.data.net"></dd>
 
 	</dl>
 
 	<div class="cart_promotions_total">
-		<ul class="promotions" ng-if="cart.contents.data.appliedOrderPromotions.length || cart.contents.data.potentialOrderPromotions.length">
-			<li class="promotion promotion_applied icon_promo" ng-repeat="promotion in cart.contents.data.appliedOrderPromotions">{{promotion.description}}</li>
-			<li class="promotion promotion_potential icon_promo" ng-repeat="promotion in cart.contents.data.potentialOrderPromotions">{{promotion.description}}</li>
-		</ul>
+		<!-- ngIf: cart.contents.data.appliedOrderPromotions.length || cart.contents.data.potentialOrderPromotions.length -->
         <dl class="cart_total">
 			<dt class="total" ng-hide="cart.contents.data.net">Total</dt>
-			<dt class="total" ng-show="cart.contents.data.net">
+			<dt class="total ng-hide" ng-show="cart.contents.data.net">
 				** Total<span class="note">** Excluding tax</span>
 			</dt>
-			<dd class="total">{{cart.contents.data.totalPriceExcludingTax.formattedValue}}</dd>
+			<dd class="total ng-binding"></dd>
 		</dl>
         </div>
 
@@ -607,14 +756,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 
 	</div>
 
-	<div ng-show="cart.contents.data.totalItems == 0">
+	<div ng-show="cart.contents.data.totalItems == 0" class="ng-hide">
 
 		<header id="cart_header">
 			<h2>Your Shopping Cart Is Empty</h2>
 		</header>
-		<a class="button panel_link" href="#cart_panel">Continue Shopping</a>
-
-	</div>
+		<a id="continue_shopping" class="button panel_link" href="#cart_panel">Continue Shopping</a>
+		</div>
 
 </article>
 </div>
@@ -623,6 +771,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 	</nav>
 
 </header>
+
+
 <div id="content" class="main" role="main">
 				<div class="wrap">
 					<nav id="breadcrumb" role="navigation" class="extended">
@@ -647,8 +797,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 				<a class="addthis_button_compact" alt="View more services" title="View more services"></a>
 				<a class="addthis_counter addthis_bubble_style"></a>
 			</div>
-			<script type="text/javascript">var addthis_config = {"data_track_addressbar": false};</script>
 			<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-512e28bc58dbe854"></script>
+			<script type="text/javascript">var addthis_config = {data_track_addressbar: false, data_track_clickback: false, ui_language: "en"};</script>
 			<!-- AddThis Button END -->
 
 			<a class="back_link" href="javascript:history.go(-1)">Back</a>
@@ -668,7 +818,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 					<li class="">
 							<a href="/about-asics" title="About ASICS">About ASICS</a></li>
 					<li class="">
-							<a href="http://www.asics.com/responsibility/commitment/" title="Corporate Responsibility" target="_new">Corporate Responsibility</a></li>
+							<a href="http://www.asics.com/en/csr" title="Corporate Responsibility" target="_new">Corporate Responsibility</a></li>
 					<li class="">
 							<a href="/california-laws" title="California Laws">California Laws</a></li>
 					<li class="">
@@ -679,10 +829,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 							<a href="/terms-conditions" title="Terms of Use">Terms of Use</a></li>
 					<li class="">
 							<a href="/ethics-hotline" title="Ethics Hotline">Ethics Hotline</a></li>
+					<li class="">
+							<a href="http://www.asics.com/en/about_asics/practical_information" title="ASICS Office Locations" target="_new">ASICS Office Locations</a></li>
 					</ul>
 			</nav>
 			<div class="item main_column">
-				<div class="content"><p></p><section> <p>ASICS America Corporation (the "Company") understands the importance of protecting the privacy of its customers, employees and visitors to this website (the "Site"). This Privacy Policy discloses the Company’s practices relating to collection, use and disclosure of information that you may provide to the Company, including through this Site. Before you submit any personal information to the Company through this Site or otherwise, please thoroughly review this Privacy Policy, and contact us if you have any questions.</p> <h3>Intended Audience of this Site</h3> <p>This Site is primarily intended for business use by (i) representatives of actual and potential customers interested in learning about the Company or purchasing Company products.</p> <p>This Site is not intended to attract or be used by children under the age of 13 without verifiable parental consent, and the Company will not knowingly collect personal information from such visitors.</p> <h3>Your Consent</h3> <p>By using this Site, you agree with and accept the terms of this Privacy Policy. Whenever you submit personal information through this Site, you consent to the collection, disclosure, use and retention of that information in accordance with this Privacy Policy.</p> <h3>Collection of Information About You</h3> <p>The Company collects personal information from its customers and prospective customers primarily to assist in meeting their needs for athletic footwear,apparel, and accessories. We collect such information directly from you through this Site, in responses to our specific requests and via e-mail, web input screens and forms, and our newsletter sign-up. The types of personal information we collect includes, but is not limited to, your name, age, gender, street address, and e-mail address. You should carefully limit the personal information you voluntarily provide to strictly that which is necessary for the Company to respond to your inquiry or address your needs for athletic footwear, apparel And accessories.</p> <h3>Automatic Collection of Information</h3> <p>As you navigate this Site, certain limited information can and may be collected automatically from you without your active involvement, using methods known as cookies and navigational data collection. Some of the information (e.g., type of web browser) does not identify who you are. Other information, such as your Internet Protocol ("IP") address, may identify you indirectly, when supplemented with other commercially available sources of information.</p> <p>When you visit this Site, we send to your computer one or more cookies, which are small text files containing a string of characters. These cookies uniquely identify your computer to the Site, but do not facilitate the gathering of personal information. We may use cookies to improve the quality of our service by storing user preferences and tracking user trends. Most web browsers are set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of this Site may not function properly if your cookies are disabled.</p> <p>Furthermore, our computer servers automatically record information that your browser sends whenever you visit a website. These server logs may include information, such as the portions of the Site accessed, the IP address assigned to your computer, the type of browser used by your computer, the date and time of your access to the Site, and one or more cookies that may uniquely identify your computer.</p> <h3>Collection, Disclosure, Use and Retention of Information Other Than Employee Data</h3> <p>Except as otherwise stated at the point of collection, we may use your information for improving the content of the Site, customizing this Site to your preferences, communicating information to you and subsequently updating such information, internal marketing and research purposes, and as further specified in this Privacy Policy. We may combine such information with other passively or actively collected information unless we specify otherwise at the point of collection.</p> <p>The Company may transfer your information, including personally identifiable information, to third parties, including contractors we use to support our business (e.g., marketing services, product retailers, technical support, and financial institutions), in which case we will require such third parties to agree to treat your information in accordance with this Privacy Policy or as you may otherwise have previously consented. We do not share your personal information with third parties for their direct marketing purposes unless you have affirmatively agreed in advance to such a disclosure.</p> <p>The Company also may transfer such information (i) to our related parent corporation (ASICS Corporation (Kobe, Japan) and other ASICS related corporations around the world (ii) in connection with the sale, assignment or other transfer of the business function of the Company to which the information relates, in which case we will require any such buyer, assignee or transferee to agree to treat it in accordance with this Privacy Policy; (iii) to protect the rights, property or safety of the Company, its employees or visitors to this Site; or (iv) in compliance with subpoenas or other valid court orders, in response to inquiries and requests from regulatory authorities, in connection with the prevention or detection of fraud, or as otherwise permitted or required by law. In addition, we will make full use of all information acquired through this Site or otherwise that is not identifiable to you.</p> <h3>Choices for Disclosure and Use of Personal Information</h3> <p>You may choose to prevent the Company from disclosing or using your personal information under certain circumstances ("opt out"). You may opt out of any disclosure or use of your personal information for purposes that are incompatible with the purpose(s) for which it was originally collected or for which you subsequently gave authorization. Furthermore, even where your personal information is to be disclosed and used in accordance with the stated purposes in this Privacy Policy, you may elect to opt out of such disclosure to and use by a third party that is not acting as an agent of the Company. On the other hand, the Company may disclose your personal information to a third party acting as its agent where this third party subscribes to the Safe Harbor Principles (the "Principles") or agrees in writing to provide at least the same level of privacy protection as is required by the relevant Principles.</p> <h3>Access and Correction</h3> <p>To access your personal information in the possession of the Company and correct inaccuracies of that information in our records, please contact us in the manner specified in the "How to Contact Us" section below. We ask individuals to identify themselves and the information requested to be accessed and amended before processing such requests, and we may decline to process requests in limited circumstances as permitted by applicable privacy legislation.</p> <h3>Security</h3> <p>The Company takes reasonable measures to safeguard your personal information against unauthorized access, disclosure, copying, use or modification, whether or not in electronic format. We use industry-standard technological precautions, such as Secure Socket Layer technology in an effort to protect your personal information as you transmit it electronically from your computer to this Site and, furthermore, to protect it from loss, misuse and unauthorized access, disclosure, alteration or destruction. Furthermore, the Company requires that employees and third-party administrators/processors access your personal information only on a "need-to-know" basis.</p> <p>You should keep in mind that no combination of security measures can ever provide guaranteed protection all the time. We caution you that e-mail may be particularly vulnerable to unauthorized interception, eavesdropping, modification and spoofing, and, therefore, you should take special care in deciding what information you send to us via e-mail. Moreover, where you use passwords, ID numbers or other special access features on this Site, it is your responsibility to safeguard them.</p> <h3>Enforcement</h3> <p>Any questions, concerns or complaints regarding this Privacy Policy or the Company’s treatment of personal information may be communicated by contacting us through this Site, sending an e-mail message to us at privacy@asicsamerica.com or by writing to us at Privacy Officer, ASICS America Corp., 29 Parker, Suite 100, Irvine California 92618 U.S.A.</p> <p>When we receive a formal written complaint, our Privacy Officer will contact the author within a reasonable period of time regarding his or her concerns and attempt to resolve these concerns directly with this individual. If a complainant believes that the Company has engaged in possible unfair or deceptive practices and legal or regulatory violations in connection with its privacy obligations, he or she may file a complaint with the Federal Trade Commission through its website http://www.ftc.gov We will cooperate with the U.S. Federal Trade Commission to resolve any complaint regarding the collection, disclosure, use and retention of personal information that cannot be resolved between the Company and the complainant.</p> <p>The Company has in place procedures for maintaining the confidentiality of personally identifiable information.</p> <h3>Links to Other Websites</h3> <p>This Site may contain links or references to third-party websites that are not affiliated with the Company. The inclusion of any link does not imply the Company’s endorsement of any other company, its websites, or its products and/or services. Any such linked websites have separate and independent privacy policies which we encourage you to read carefully. Please be aware that the Company has no control over linked third-party websites and, therefore, no responsibility or liability for the manner in which the organizations that operate such websites may collect, disclose, use or otherwise treat your personal information.</p> <h3>Other Terms</h3> <p>Your use of this Site is subject to our Terms and Conditions of Use.</p> <h3>How to Contact Us</h3> <p>To correct or update any personal information previously collected by us, please follow instructions at the original point of collection on this Site, send an e-mail message to us at privacy@asicsamerica.com or by writing to us at Privacy Officer, ASICS America Corp., 29 Parker, Suite 100, Irvine California 92618 U.S.A.</p> <h3>Changes to This Privacy Policy</h3> <p>If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically and especially before you provide any personal information to the Company. This Privacy Policy was last updated on February 4, 2009.</p></section><p></p></div><div class="content"><h2>California Privacy Policy</h2> <p>A California resident who has provided personal information to a business with whom he or she has established a business relationship ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. As a general matter, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed.</p> <p>However, under the law, a business is not required to provide such lists of information if the business adopts and discloses to the public, in its privacy policy, a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Instead, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.</p> <p>As stated in our Privacy Policy, ASICS America Corporation (the "Company") does not share information with third parties for their direct marketing purposes unless you have affirmatively agreed to such a disclosure. If you do request that the Company share your personal information with a third party for that third party’s marketing purposes, we will only share information in connection with that specific purpose. We do not share such information with any third party on a regular or continual basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personally identifiable information on this website.</p> <p>Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as the Company has no control over how third parties use your information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.</p> <p>California customers may request further information about our compliance with this law by e-mailing <a href="mailto:californiaprivacy@asicsamerica.com">californiaprivacy@asicsamerica.com</a>. Please note that the Company is only required to respond to one request per California customer each year, and we are not required to respond to requests made by means other than through this e-mail address.</p></div></div>
+				<div class="content"><p></p><section> <p>ASICS America Corporation (the "Company") understands the importance of protecting the privacy of its customers, employees and visitors to this website (the "Site"). This Privacy Policy discloses the Company’s practices relating to collection, use and disclosure of information that you may provide to the Company, including through this Site. Before you submit any personal information to the Company through this Site or otherwise, please thoroughly review this Privacy Policy, and contact us if you have any questions.</p> <h3>Intended Audience of this Site</h3> <p>This Site is primarily intended for business use by (i) representatives of actual and potential customers interested in learning about the Company or purchasing Company products.</p> <p>This Site is not intended to attract or be used by children under the age of 13 without verifiable parental consent, and the Company will not knowingly collect personal information from such visitors.</p> <h3>Your Consent</h3> <p>By using this Site, you agree with and accept the terms of this Privacy Policy. Whenever you submit personal information through this Site, you consent to the collection, disclosure, use and retention of that information in accordance with this Privacy Policy.</p> <h3>Collection of Information About You</h3> <p>The Company collects personal information from its customers and prospective customers primarily to assist in meeting their needs for athletic footwear,apparel, and accessories. We collect such information directly from you through this Site, in responses to our specific requests and via e-mail, web input screens and forms, and our newsletter sign-up. The types of personal information we collect includes, but is not limited to, your name, age, gender, street address, and e-mail address. You should carefully limit the personal information you voluntarily provide to strictly that which is necessary for the Company to respond to your inquiry or address your needs for athletic footwear, apparel And accessories.</p> <h3>Automatic Collection of Information</h3> <p>As you navigate this Site, certain limited information can and may be collected automatically from you without your active involvement, using methods known as cookies, pixel tags/web beacons, and navigational data collection (“Collection Tools”). Some of the information (e.g., type of web browser) does not identify who you are. Other information, such as your Internet Protocol ("IP") address, may identify you indirectly, when supplemented with other commercially available sources of information.</p> <p>When you visit this Site, we send to your computer one or more cookies, which are small text files containing a string of characters. These cookies uniquely identify your computer to the Site, but do not facilitate the gathering of personal information. We may use cookies to improve the quality of our service by storing user preferences and tracking user trends. This information is also used for retargeting, which takes the information collected by your browser’s or device’s cookies to advertise products or services you have interacted with and/or clicked on the Site. These ads will appear on other websites once you leave the Site through the services of, but not limited to, the following: Google Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager, and Google Analytics Demographics Reporting.</p> <p>Most web browsers are set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. NOTE: If you choose to turn off certain Collection Tools, you may not have access to many features that make your experience more efficient, and some of our services and features may not function properly. However, you can still place product orders over the telephone by contacting our Customer Care number at 1-855-233-3120. Note that the Site and our third-party advertising services may not recognize or respond to Do Not Track (DNT) headers from web browsers.</p> <p>Furthermore, our computer servers automatically record information that your browser sends whenever you visit a website. These server logs may include information, such as the portions of the Site accessed, the IP address assigned to your computer, the type of browser used by your computer, the date and time of your access to the Site, and one or more cookies that may uniquely identify your computer.</p> <h3>Collection, Disclosure, Use and Retention of Information Other Than Employee Data</h3> <p>Except as otherwise stated at the point of collection, we may use your information for improving the content of the Site, customizing this Site to your preferences, communicating information to you and subsequently updating such information, internal marketing and research purposes, and as further specified in this Privacy Policy. We may combine such information with other passively or actively collected information unless we specify otherwise at the point of collection.</p> <p>The Company may transfer your information, including personally identifiable information, to third parties, including contractors we use to support our business (e.g., marketing services, product retailers, technical support, and financial institutions), in which case we will require such third parties to agree to treat your information in accordance with this Privacy Policy or as you may otherwise have previously consented. We do not share your personal information with third parties for their direct marketing purposes unless you have affirmatively agreed in advance to such a disclosure.</p> <p>The Company also may transfer such information (i) to our related parent corporation (ASICS Corporation (Kobe, Japan) and other ASICS related corporations around the world (ii) in connection with the sale, assignment or other transfer of the business function of the Company to which the information relates, in which case we will require any such buyer, assignee or transferee to agree to treat it in accordance with this Privacy Policy; (iii) to protect the rights, property or safety of the Company, its employees or visitors to this Site; or (iv) in compliance with subpoenas or other valid court orders, in response to inquiries and requests from regulatory authorities, in connection with the prevention or detection of fraud, or as otherwise permitted or required by law. In addition, we will make full use of all information acquired through this Site or otherwise that is not identifiable to you.</p> <h3>Choices for Disclosure and Use of Personal Information</h3> <p>You may choose to prevent the Company from disclosing or using your personal information under certain circumstances ("opt out"). You may opt out of any disclosure or use of your personal information for purposes that are incompatible with the purpose(s) for which it was originally collected or for which you subsequently gave authorization. Furthermore, even where your personal information is to be disclosed and used in accordance with the stated purposes in this Privacy Policy, you may elect to opt out of such disclosure to and use by a third party that is not acting as an agent of the Company. On the other hand, the Company may disclose your personal information to a third party acting as its agent where this third party subscribes to the Safe Harbor Principles (the "Principles") or agrees in writing to provide at least the same level of privacy protection as is required by the relevant Principles. To opt-out of receiving ads tailored by third party advertising services, please refer to these websites: <a href="http://www.google.com/settings/ads" target="_blank">Google Ads Settings</a> and <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">Network Advertising Initiative (NAI)</a>. NOTE: You may still see our ads on other websites after opting out of third party tracking, but they will not be tailored using third party tracking technologies associated with the Site.</p> <h3>Access and Correction</h3> <p>To access your personal information in the possession of the Company and correct inaccuracies of that information in our records, please contact us in the manner specified in the "How to Contact Us" section below. We ask individuals to identify themselves and the information requested to be accessed and amended before processing such requests, and we may decline to process requests in limited circumstances as permitted by applicable privacy legislation.</p> <h3>Security</h3> <p>The Company takes reasonable measures to safeguard your personal information against unauthorized access, disclosure, copying, use or modification, whether or not in electronic format. We use industry-standard technological precautions, such as Secure Socket Layer technology in an effort to protect your personal information as you transmit it electronically from your computer to this Site and, furthermore, to protect it from loss, misuse and unauthorized access, disclosure, alteration or destruction. Furthermore, the Company requires that employees and third-party administrators/processors access your personal information only on a "need-to-know" basis.</p> <p>You should keep in mind that no combination of security measures can ever provide guaranteed protection all the time. We caution you that e-mail may be particularly vulnerable to unauthorized interception, eavesdropping, modification and spoofing, and, therefore, you should take special care in deciding what information you send to us via e-mail. Moreover, where you use passwords, ID numbers or other special access features on this Site, it is your responsibility to safeguard them.</p> <h3>Enforcement</h3> <p>Any questions, concerns or complaints regarding this Privacy Policy or the Company’s treatment of personal information may be communicated by contacting us through this Site, sending an e-mail message to us at privacy@asicsamerica.com or by writing to us at Privacy Officer, ASICS America Corp., 29 Parker, Suite 100, Irvine California 92618 U.S.A.</p> <p>When we receive a formal written complaint, our Privacy Officer will contact the author within a reasonable period of time regarding his or her concerns and attempt to resolve these concerns directly with this individual. If a complainant believes that the Company has engaged in possible unfair or deceptive practices and legal or regulatory violations in connection with its privacy obligations, he or she may file a complaint with the Federal Trade Commission through its website http://www.ftc.gov We will cooperate with the U.S. Federal Trade Commission to resolve any complaint regarding the collection, disclosure, use and retention of personal information that cannot be resolved between the Company and the complainant.</p> <p>The Company has in place procedures for maintaining the confidentiality of personally identifiable information.</p> <h3>Links to Other Websites</h3> <p>This Site may contain links or references to third-party websites that are not affiliated with the Company. The inclusion of any link does not imply the Company’s endorsement of any other company, its websites, or its products and/or services. Any such linked websites have separate and independent privacy policies which we encourage you to read carefully. Please be aware that the Company has no control over linked third-party websites and, therefore, no responsibility or liability for the manner in which the organizations that operate such websites may collect, disclose, use or otherwise treat your personal information.</p> <h3>Other Terms</h3> <p>Your use of this Site is subject to our Terms and Conditions of Use.</p> <h3>How to Contact Us</h3> <p>To correct or update any personal information previously collected by us, please follow instructions at the original point of collection on this Site, send an e-mail message to us at privacy@asicsamerica.com or by writing to us at Privacy Officer, ASICS America Corp., 29 Parker, Suite 100, Irvine California 92618 U.S.A.</p> <h3>Changes to This Privacy Policy</h3> <p>If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically and especially before you provide any personal information to the Company. This Privacy Policy was last updated on February 4, 2009.</p> </section><p></p></div><div class="content"><h2>California Privacy Policy</h2> <p>A California resident who has provided personal information to a business with whom he or she has established a business relationship ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. As a general matter, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed.</p> <p>However, under the law, a business is not required to provide such lists of information if the business adopts and discloses to the public, in its privacy policy, a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Instead, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.</p> <p>As stated in our Privacy Policy, ASICS America Corporation (the "Company") does not share information with third parties for their direct marketing purposes unless you have affirmatively agreed to such a disclosure. If you do request that the Company share your personal information with a third party for that third party’s marketing purposes, we will only share information in connection with that specific purpose. We do not share such information with any third party on a regular or continual basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personally identifiable information on this website.</p> <p>Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as the Company has no control over how third parties use your information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.</p> <p>California customers may request further information about our compliance with this law by e-mailing <a href="mailto:californiaprivacy@asicsamerica.com">californiaprivacy@asicsamerica.com</a>. Please note that the Company is only required to respond to one request per California customer each year, and we are not required to respond to requests made by means other than through this e-mail address.</p></div></div>
 		</div>
 	</section>
 </div>
@@ -694,16 +846,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 		<div class="wrap">
             <nav id="tertiary" role="navigation">
 				<ul class="level_1">
-					<li class="level_1">
-							<h3>Customer Services</h3>
-							<ul class="level_2 first_of_row}">
+					<li class="level_1" style="min-height: 126px;">
+                            <ul class="level_2 first_of_row">
 								<li class="level_2">
 										<a href="/store-finder" class="" title="Store Locator">
 			Store Locator</a>
 	</li>
 								<li class="level_2">
-										<a href="/returns" class="" title="Returns Information">
-			Returns Information</a>
+										<a href="/returns" class="" title="Returns">
+			Returns</a>
 	</li>
 								<li class="level_2">
 										<a href="/shipping-info" class="" title="Shipping Information">
@@ -717,11 +868,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 										<a href="/contact-asics" class="icon icon_email" title="Contact ASICS">
 			Contact ASICS</a>
 	</li>
+								<li class="level_2">
+										<a href="/returns" class="" title="Returns">
+			Returns</a>
+	</li>
 								</ul>
 						</li>
-					<li class="level_1">
-							<h3>Size Guides</h3>
-							<ul class="level_2 first_of_row}">
+					<li class="level_1" style="min-height: 126px;">
+                            <ul class="level_2 first_of_row">
 								<li class="level_2">
 										<a href="/shoe-size-guide" class="" title="Shoe size guide">
 			Shoe size guide</a>
@@ -738,17 +892,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 										<a href="/pronation-guide" class="" title="Pronation Chart">
 			Pronation Chart</a>
 	</li>
+								<li class="level_2">
+										<a href="/faq" class="" title="FAQ">
+			FAQ</a>
+	</li>
 								</ul>
 						</li>
-					<li class="level_1">
-							<h3>Corporate</h3>
-							<ul class="level_2 first_of_row}">
+					<li class="level_1" style="min-height: 126px;">
+                            <ul class="level_2 first_of_row">
 								<li class="level_2">
 										<a href="/about-asics" class="" title="About ASICS">
 			About ASICS</a>
 	</li>
 								<li class="level_2">
-										<a href="http://www.asics.com/responsibility/commitment/" class="" title="Corporate Responsibility" target="_blank">
+										<a href="http://www.asics.com/en/csr" class="" title="Corporate Responsibility" target="_blank">
 			Corporate Responsibility</a>
 	</li>
 								<li class="level_2">
@@ -767,14 +924,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 										<a href="/terms-conditions" class="" title="Terms of Use">
 			Terms of Use</a>
 	</li>
+								<li class="level_2">
+										<a href="http://www.asics.com/en/about_asics/practical_information" class="" title="ASICS Office Locations" target="_blank">
+			ASICS Office Locations</a>
+	</li>
 								</ul>
 						</li>
 					</ul>
 			</nav>
 
 			<div id="newsletter_signup">
-					<h3>Email newsletter</h3>
-					<form id="newsletter_signup_form" action="/json/newsletter/signup.json" novalidate="">
+					<h3><div style="font-size:18px;">EMAIL NEWSLETTER</div></h3>
+					<form class="newsletter_signup_form ng-pristine ng-valid" action="/json/newsletter/signup.json" novalidate="">
 						<ol>
 							<li>
 								<label>Email address</label>
@@ -801,315 +962,247 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 			</div>
 
 			<div id="copyright">
-				<p><span class="icon icon_shoe"></span>© 2013 ASICS America Corporation</p>
+				<p><span class="icon icon_shoe"></span>© 2014 ASICS America Corporation</p>
 			</div>
 
             <div id="country_select">
 					<div id="website_country">
 						<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -740px 0;"></span>
-						<span>United States</span>
+						<span>United States &nbsp;Change</span>
 					</div>
-					<ol>
-						<li>
-								<a href="http://www.asicsamerica.com/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -740px 0;"></span>
-									<span class="country">United States</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.com.au/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') 0px 0;"></span>
-									<span class="country">Australia</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.at/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -20px 0;"></span>
-									<span class="country">Austria</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://nl.asics.be/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -40px 0;"></span>
-									<span class="country">Belgium</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.com.br/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -60px 0;"></span>
-									<span class="country">Brazil</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asicsbg.com/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -80px 0;"></span>
-									<span class="country">Bulgaria</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.com.cn/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -100px 0;"></span>
-									<span class="country">China</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.cz/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -120px 0;"></span>
-									<span class="country">Czech Republic</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.dk/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -140px 0;"></span>
-									<span class="country">Denmark</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.ee/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -160px 0;"></span>
-									<span class="country">Estonia</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.fi/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -180px 0;"></span>
-									<span class="country">Finland</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.fr/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -200px 0;"></span>
-									<span class="country">France</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.de/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -220px 0;"></span>
-									<span class="country">Germany</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.gr/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -240px 0;"></span>
-									<span class="country">Greece</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.hu/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -260px 0;"></span>
-									<span class="country">Hungary</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asicsindia.in/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -280px 0;"></span>
-									<span class="country">India</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.ie/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -300px 0;"></span>
-									<span class="country">Ireland</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.it/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -320px 0;"></span>
-									<span class="country">Italy</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.co.jp/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -340px 0;"></span>
-									<span class="country">Japan</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.co.kr/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -360px 0;"></span>
-									<span class="country">Korea, Republic of</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.lv/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -380px 0;"></span>
-									<span class="country">Latvia</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.lt/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -400px 0;"></span>
-									<span class="country">Lithuania</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.co.nz/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -420px 0;"></span>
-									<span class="country">New Zealand</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.nl/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -440px 0;"></span>
-									<span class="country">Netherlands</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.no/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -460px 0;"></span>
-									<span class="country">Norway</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.pl/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -480px 0;"></span>
-									<span class="country">Poland</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.pt/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -500px 0;"></span>
-									<span class="country">Portugal</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.ro/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -520px 0;"></span>
-									<span class="country">Romania</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.ru/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -540px 0;"></span>
-									<span class="country">Russian Federation</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.rs/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -560px 0;"></span>
-									<span class="country">Serbia</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.runnersworld.com.sg/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -580px 0;"></span>
-									<span class="country">Singapore</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.sk/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -600px 0;"></span>
-									<span class="country">Slovakia</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.es/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -620px 0;"></span>
-									<span class="country">Spain</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.se/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -640px 0;"></span>
-									<span class="country">Sweden</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.ch/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -660px 0;"></span>
-									<span class="country">Switzerland</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.com.tw/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -680px 0;"></span>
-									<span class="country">Taiwan</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.com.tr/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -700px 0;"></span>
-									<span class="country">Turkey</span>
-								</a>
-							</li>
-						<li>
-								<a href="http://www.asics.co.uk/">
-									<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -720px 0;"></span>
-									<span class="country">United Kingdom</span>
-								</a>
-							</li>
-						</ol>
+					<div id="languageSelector" class="languageSelector">
+						<div id="lightBox">
+							<div class="logoAsics"></div>		
+							<h2>Please choose your country and language</h2>
+							<div id="closeChangeLanguage" class="changeLanguage">
+								<a href="">Close</a>
+							</div>
+							<div class="language_listings">
+								<div>
+									<h3>Americas</h3>
+									<ul>
+										<li>
+													<a href="http://www.asicsamerica.com/">United States</a>
+												</li>
+											<li>
+													<a href="http://www.asics.com.br/">Brazil</a>
+												</li>
+											<li>
+													<a href="http://asicscanada.com/">Canada</a>
+												</li>
+											</ul>
+								</div>
+								<div>
+									<h3>Asia &amp; Oceania</h3>
+									<ul>
+										<li>
+													<a href="http://www.asics.com.au/">Australia</a>
+												</li>
+											<li>
+													<a href="http://www.asics.com.cn/">China</a>
+												</li>
+											<li>
+													<a href="http://www.asicsindia.in/">India</a>
+												</li>
+											<li>
+													<a href="http://www.asics.co.jp/">Japan</a>
+												</li>
+											<li>
+													<a href="http://www.asics.co.kr/">Korea, Republic of</a>
+												</li>
+											<li>
+													<a href="http://www.asics.co.nz/">New Zealand</a>
+												</li>
+											<li>
+													<a href="http://www.runnersworld.com.sg/">Singapore</a>
+												</li>
+											<li>
+													<a href="http://www.asics.com.tw/">Taiwan</a>
+												</li>
+											</ul>
+								</div>
+								<div>
+									<h3>Europe</h3>
+									<ul>
+										<li>
+													<a href="http://www.asics.at/">Austria</a>
+												</li>
+											<li>
+													<a href="http://nl.asics.be/">Belgium</a>
+												</li>
+											<li>
+													<a href="http://www.asicsbg.com/">Bulgaria</a>
+												</li>
+											<li>
+													<a href="http://www.asics.cz/">Czech Republic</a>
+												</li>
+											<li>
+													<a href="http://www.asics.dk/">Denmark</a>
+												</li>
+											<li>
+													<a href="http://www.asics.ee/">Estonia</a>
+												</li>
+											<li>
+													<a href="http://www.asics.fi/">Finland</a>
+												</li>
+											<li>
+													<a href="http://www.asics.fr/">France</a>
+												</li>
+											<li>
+													<a href="http://www.asics.de/">Germany</a>
+												</li>
+											<li>
+													<a href="http://www.asics.gr/">Greece</a>
+												</li>
+											<li>
+													<a href="http://www.asics.hu/">Hungary</a>
+												</li>
+											<li>
+													<a href="http://www.asics.ie/">Ireland</a>
+												</li>
+											<li>
+													<a href="http://www.asics.it/">Italy</a>
+												</li>
+											<li>
+													<a href="http://www.asics.lv/">Latvia</a>
+												</li>
+											</ul>
+													<ul>
+												<li>
+													<a href="http://www.asics.lt/">Lithuania</a>
+												</li>
+											<li>
+													<a href="http://www.asics.nl/">Netherlands</a>
+												</li>
+											<li>
+													<a href="http://www.asics.no/">Norway</a>
+												</li>
+											<li>
+													<a href="http://www.asics.pl/">Poland</a>
+												</li>
+											<li>
+													<a href="http://www.asics.pt/">Portugal</a>
+												</li>
+											<li>
+													<a href="http://www.asics.ro/">Romania</a>
+												</li>
+											<li>
+													<a href="http://www.asics.ru/">Russian Federation</a>
+												</li>
+											<li>
+													<a href="http://www.asics.rs/">Serbia</a>
+												</li>
+											<li>
+													<a href="http://www.asics.sk/">Slovakia</a>
+												</li>
+											<li>
+													<a href="http://www.asics.es/">Spain</a>
+												</li>
+											<li>
+													<a href="http://www.asics.se/">Sweden</a>
+												</li>
+											<li>
+													<a href="http://www.asics.ch/">Switzerland</a>
+												</li>
+											<li>
+													<a href="http://www.asics.com.tr/">Turkey</a>
+												</li>
+											<li>
+													<a href="http://www.asics.co.uk/">United Kingdom</a>
+												</li>
+											</ul>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 	</div>
 
 </footer>
+<div class="content"><p style="height:0;margin:0;"><style media="screen" type="text/css">
+header[role="banner"] nav#primary #lead ul#areas li > a{
+    padding:0 30px;
+}
+</style></p></div><div class="minicart_popup ng-scope" ng-controller="MainCart">
+		<a href="/cart/" class="counter ng-hide" ng-show="cart.contents.data.totalItems >= 3"><span ng-bind="cart.contents.data.totalUnitCount" class="ng-binding"></span> ITEMS</a>
+
+		<div class="empty-message ng-hide" ng-show="cart.contents.data.totalItems == 0">
+				<p>Your Shopping Cart Is Empty</p>
+		</div>
+
+		<ol class="products">
+			<!-- ngRepeat: entry in cart.contents.data.entries | limitTo:-2 -->
+		</ol>
+		<div class="actions" ng-show="cart.contents.data.totalItems != 0">
+			<div class="buy">
+				<div class="total">
+					<span class="label">Total</span>
+					<span class="value ng-binding"></span>
+
+				</div>
+				<div class="shipping">
+					<dl>
+								<dt class="shipping ng-hide" ng-show="cart.contents.data.deliveryCost">Shipping</dt>
+								<dd class="shipping ng-hide" ng-show="cart.contents.data.deliveryCost">
+				                    <span ng-show="cart.contents.data.deliveryCost.value" class="ng-binding ng-hide"></span>
+				                    <span ng-hide="cart.contents.data.deliveryCost.value" class="">Free</span>
+				                </dd>
+			           		</dl>
+			           		<dl>
+								<dt class="shipping" ng-hide="cart.contents.data.deliveryCost">
+									* Estimated shipping<!-- <span class="note">* The exact shipping cost will be calculated during checkout</span> -->
+								</dt>
+								<dd class="shipping ng-binding" ng-hide="cart.contents.data.deliveryCost"></dd>
+							</dl>
+			        	</div>
+				<a class="button highlight" href="/cart/">View Cart</a>
+			</div>
+		</div>
+</div> 
 
 
 
 
 
-
-<div id="product_quick_buy" ng-controller="ProductSelector" data-quick-buy-panel="">
+<div id="product_quick_buy" ng-controller="ProductSelector" data-quick-buy-panel="" class="ng-scope">
 
 	<div class="inner">
 
 		
-		<h3 class="name"><a ng-href="{{globals.contextPath + productData.data.url}}">{{productData.data.name}}</a></h3>
+		<h3 class="name"><a ng-href="" class="ng-binding"></a></h3>
 		<ul class="pricing">
-			<li class="was_price" ng-if="productData.data.markedDownFromPrice"><del>{{productData.data.markedDownFromPrice.formattedValue}}</del></li>
-			<li class="price">{{productData.data.price.formattedValue}}</li>
+			<!-- ngIf: productData.data.markedDownFromPrice -->
+			<li class="price ng-binding"></li>
 		</ul>
 
 		
 		<div class="image_colour">
-			<a class="image_link" ng-href="{{globals.contextPath + productData.data.url}}">
-				<img ng-src="{{productData.data.primaryImage.url}}" alt="{{product.name}}">
+			<a class="image_link" ng-href="">
+				<img data-lazy-src="" ng-alt="">
 			</a>
 			<span class="colour">
-				<img ng-src="{{productData.data.primaryColourOption.swatchImage.url}}" alt="{{product.name}}">
+				<img data-lazy-src="" ng-alt="">
 			</span>
 		</div>
             
 
 
 		
-		<div class="size_selector" ng-class="variantSelector.className" ng-repeat="variantSelector in productData.variants">
-            
-                
-                
-                    <div class="guide"><a ng-href="{{variantSelector.guideUrl}}">{{variantSelector.displayValue}} guide</a></div>
-                    <h3>{{variantSelector.displayValue}}Select</h3>
-                
-            
-			<ol class="product_size_list" ng-class="variantSelector.className" data-sizelabel="size">
-				<li ng-repeat="size in variantSelector.sizes" ng-repeated="size_selector">
-					<a ng-class="{
-							unavailable: !size.stock || (
-								productData.selection.length == 2 &amp;&amp; (
-									productData.selection[variantSelector.subVariantIndex].value &amp;&amp;
-									!size.subVariants[productData.selection[variantSelector.subVariantIndex].value].stock
-								)
-							),
-							active: size.value == productData.selection[$parent.$index].value
-						}" ng-click="productSetVariant($parent.$index, size.value); productSelectionChange(); updateParams()">
-						<span>{{size.displayValue}}</span>
-					</a>
-				</li>
-			</ol>
-		</div>
+		<!-- ngRepeat: variantSelector in productData.variants -->
 
 		
-		<div class="actions" ng-show="productData.data.purchasable &amp;&amp; productData.data.stockLevelStatus.code != 'outOfStock'">
-			<a class="button highlight" ng-hide="(productData.unselectedMsg || cart.localMessages.itemAdd) || (cart.contents.success &amp;&amp; cart.contents.messages.itemAdd) " ng-click="productAdd(productData.code, productQty, 'quickbuy')">Add to Cart</a>
-			<p class="message {{cart.contents.messages.itemAdd.type}}" ng-show="cart.contents.messages.itemAdd">
-				<span class="icon">{{cart.contents.messages.itemAdd.type}}:</span>
+		<div class="actions ng-hide" ng-show="productData.data.purchasable &amp;&amp; productData.data.stockLevelStatus.code != 'outOfStock'">
+			<a class="button highlight" ng-hide="(productData.unselectedMsg || cart.localMessages.itemAdd) || (cart.contents.success &amp;&amp; cart.contents.messages.itemAdd) || cart.localMessages.loading" ng-click="productAdd(productData.code, productQty, 'quickbuy')">Add to Cart</a>
+			<img class="loading ng-hide" ng-show="cart.localMessages.loading" ng-src="/_ui/desktop/common/images/spinner_pdp.gif" src="/_ui/desktop/common/images/spinner_pdp.gif">
+			<p class="message  ng-hide" ng-show="cart.contents.messages.itemAdd">
+				<span class="icon ng-binding">:</span>
 				<span>Added</span>
-				<a class="panel_link panel_link_open" ng-show="cart.contents.success" href="#cart_panel">View Cart</a>
+				<a href="javascript(0);" class="panel_link panel_link_open ng-hide" ng-show="cart.contents.success" id="cart_panel_id">View Cart</a>
 			</p>
-			<p class="message error" ng-show="productData.unselectedMsg">
+			<p class="message error ng-hide" ng-show="productData.unselectedMsg">
 				<span class="icon">Error:</span>
-				<span>Please select a {{productData.unselectedMsg}}</span>
+				<span class="ng-binding">Please select a </span>
 			</p>
 			<span class="close"><a class="close" href="#close">Close</a></span>
 		</div>
@@ -1121,13 +1214,129 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 	</div>
 
 </div>
+
+
+
+
+
+<div class="quick_shop_overlay"></div>
+<div class="quick_shop ng-scope" ng-controller="QuickShop" quick-shop-panel="">
+
+	<div class="inner">
+		
+		<header>
+			<h2 class="name">
+				<a ng-href="" ng-bind-html="quickShop.contents.name" class="ng-binding"></a>
+			</h2>
+			<h5 class="product_type ng-binding" ng-bind-html="quickShop.contents.productTypeName"></h5>
+			
+				<dl class="rating">
+					<dt>Rating</dt>
+					<dd>
+						<em ng-style="{'width': (quickShop.contents.averageRating * starWidth) + ((quickShop.contents.averageRating - ( quickShop.contents.averageRating % 1 )) * starGap) + 'px'}" class="ng-binding"></em>out of {0} stars
+					</dd>
+				</dl>
+			
+		</header>
+		<div class="content">
+			<a ng-href="">
+				<img class="hero_image" quick-shop-load="onLoad()" ng-src="" ng-alt="">
+			</a>
+			<!-- ngIf: styleProductInfo !== null --><h4 class="summary ng-scope ng-binding" ng-if="styleProductInfo !== null" ng-bind-html="quickShop.contents.styleProductInfo.standfirstDescription"></h4><!-- end ngIf: styleProductInfo !== null -->
+<!-- 			<h4 class="summary" ng-bind-html="quickShop.contents.summary"></h4> -->
+<!-- 			<span class="short_description" ng-if="styleProductInfo !== null" ng-bind-html="quickShop.contents.styleProductInfo.standfirstDescription"></span> -->
+			<ol class="price">
+				<li class="was_price ng-hide" ng-show="quickShop.contents.markedDownFromPrice.formattedValue">
+					<del class="ng-binding"></del>
+				</li>
+				<li class="ng-binding"></li>
+			</ol>
+			<p class="description ng-binding" ng-bind-html="quickShop.contents.summary"></p>
+			<!-- Comment out features for quick by
+			<div class="features" ng-show="quickShop.contents.styleProductInfo.features.length>0">
+				<h6 class="features_title">Product Features</h6>
+				<ul class="features">
+					<li ng-repeat="feature in quickShop.contents.styleProductInfo.features" ng-bind-html="feature.title"/>
+				</ul>
+			</div>
+			-->
+		</div>
+		<div class="panel">
+			<div class="size ng-hide" ng-show="quickShop.contents.sizeWrapper">
+				<div class="guide">
+					<a ng-href="" target="_blank" class="ng-binding">
+						 guide
+					</a>
+					
+						
+						
+							<h3 class="ng-binding">Select </h3>
+						
+					
+				</div>
+				<ol class="sizes active">
+					<!-- ngRepeat: size in quickShop.contents.sizeWrapper.sizes -->
+				</ol>
+			</div>
+			<div class="width ng-hide" ng-show="quickShop.contents.widthWrapper">
+				<div class="guide">
+					<a ng-href="" target="_blank" class="ng-binding">
+						 guide
+					</a>
+					
+						
+						
+							<h3 class="ng-binding">Select </h3>
+						
+					
+				</div>
+				<!-- ngRepeat: width in quickShop.contents.widthWrapper.widths -->
+				<div class="guide">
+					<a ng-href="" target="_blank" class="ng-binding">
+						 guide
+					</a>
+					
+						
+						
+							<h3 class="ng-binding">Select </h3>
+						
+					
+				</div>
+				<ol class="width">
+					<!-- ngRepeat: width in quickShop.contents.widthWrapper.widths -->
+				</ol>
+			</div>
+			<div class="add_to_cart">
+				<a class="button highlight" ng-hide="quickShop.contents.unselectedMsg || cart.contents.messages.itemAdd || cart.localMessages.loading" ng-click="productAdd()">
+					Add to Cart
+				</a>
+				<img class="loading ng-hide" ng-show="cart.localMessages.loading" ng-src="/_ui/desktop/common/images/spinner_pdp.gif" src="/_ui/desktop/common/images/spinner_pdp.gif">
+				<div class="modal_close">close</div>
+				<p class="message  ng-hide" ng-show="cart.contents.messages.itemAdd">
+					<span class="icon ng-binding">:</span>
+					<span>Added</span>
+
+					
+						<a href="javascript:void(0);" class="panel_link panel_link_open ng-hide" ng-show="cart.contents.success" id="cart_panel_id">
+							View Cart
+						</a>
+					
+
+						
+				</p>
+				<p class="message error ng-hide" ng-show="quickShop.contents.unselectedMsg">
+					<span class="icon">Error:</span>
+					<span class="ng-binding">Please select a </span>
+				</p>
+			</div>
+		</div>
+	</div>
+
 </div>
+<div id="overlay_fill" style="display: none;"></div></div>
 
 	<form name="screenReaderRefresh">
 		<input type="hidden" id="screen_reader_refresh" name="screenReaderRefreshBuffer" value="">
 	</form>
 
-	
-
-
-</body></html>
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="z-index: 1; display: none;"></ul></body></html>
