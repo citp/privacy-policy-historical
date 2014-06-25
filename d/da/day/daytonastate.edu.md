@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytonastate.edu privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808224419id_/https%3A//webapps.daytonastate.edu/ICS/ClientConfig/HtmlContent/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytonastate.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045132id_/https%3A//webapps.daytonastate.edu/ICS/ClientConfig/HtmlContent/Privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
