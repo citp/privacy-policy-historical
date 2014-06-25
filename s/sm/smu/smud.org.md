@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805210144id_/https%3A//www.smud.org/en/about-smud/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080852id_/https%3A//www.smud.org/en/about-smud/privacy.htm) for the most accurate reproduction.*
 
 # smud.org
 
