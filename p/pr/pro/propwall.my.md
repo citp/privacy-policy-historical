@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propwall.my privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209192423id_/http%3A//www.propwall.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propwall.my privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002115id_/http%3A//www.propwall.my/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,4 +46,10 @@ Propwall has the discretion to update this privacy policy at any time. When we d
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-This document was last updated on December 12, 2012
+## Personal Data Protection Act (PDPA)
+
+By agreeing to the terms and conditions contained herein, you hereby allow The Star media group to collect your Personal Information to be regulated and managed by The Star media group. You also hereby agree to receive the latest information about products, news and events updates, rewards and promotions, special privileges and initiatives from The Star media group, its partners and advertisers.
+
+Click [here](http://clips.thestar.com.my/docs/Privacy_Policy.pdf) to view the full Privacy Policy. If you do not wish to receive the above, kindly call 03-7492 2222 or email to [support@propwall.com](mailto:support@propwall.com).
+
+This document was last updated on April 21, 2014
