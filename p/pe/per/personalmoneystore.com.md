@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the personalmoneystore.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230231151id_/http%3A//personalmoneystore.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalmoneystore.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070723id_/http%3A//personalmoneystore.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Personal Money Store Privacy Policy
+
+## MARKETING POLICY
+
+Welcome to PersonalMoneyStore.com (hereinafter “Company”). To register for Company’s services, you must agree to these Marketing Practices, as well as Company’s Privacy Policy and Terms & Conditions of Use.
+
+By registering for Company’s services, you understand that you are requesting a referral for a loan from the independent, participating lenders with whom we may share your information. While our site does not sell your information to vendors not related to your specific application, you are giving your express consent to receive promotional materials from participating lenders. They may also provide information to you about additional services and products. You further understand that all communications, whether to assist you in obtaining the loan requested or for promotional purposes, may be via direct mail, email (at the email address provided by You) and/or telephone/mobile device (at the number(s) provided by you) notwithstanding that your email address and/or numbers may be listed on a corporate, state, or federal Do-Not-Contact registry, suppression list, or the like.
+
+If you do not wish to receive such marketing materials and/or communications, you may request to be removed by using the relevant opt-out mechanism in such communications from third parties. Requests to unsubscribe from receipt of communications from third parties must be communicated directly to such third parties. Company is not responsible for stopping all unwanted communications from sources beyond Company’s control.
+
+## PRIVACY POLICY
 
 Our Privacy Policy is designed to help you understand our online information practices, so that you are able to make an informed and educated decision about how we collect and use your information. While reading through our Policy, it is important to note that any reference to “You” or “Your” refers to you as a user of our online program. Moreover, any reference to “We”, “Us”, “Our” or “Our Website” refers to our Web site.
 
@@ -54,18 +64,15 @@ Our Website pages and/or emails may contain electronic images known as “pixel 
 
 We may use also use “cookies” to help customize your access to our Website. A cookie contains information about you and is stored on your hard drive. We may use cookies to anonymously track and target our users’ interests and to further enhance the experience on our Website. Cookies may also be used for advertising tracking purposes.
 
-### OUR RIGHT TO CHANGE OUR POLICY WITHOUT PRIOR NOTIFICATION:
+## OUR RIGHT TO CHANGE OUR POLICY WITHOUT PRIOR NOTIFICATION:
 
 We reserve the right to change our policy at any time and without prior notice to you. Your continued use of our Website, or acceptance of our emails following the posting of changes to this Policy, will mean that you accept any and all such changes and that you agree to continue receiving marketing from us and other third party companies. We reserve the right to contact you regarding your account status and changes to subscriber agreements, Privacy Policy, or any other policies or agreements relevant to you.
 
 ## CONTACT US:
 
-Should you have any questions about our Privacy Policy, your or you have any additional questions or concerns, please email us at Customer Support.
+Please contact Company directly via certified mail at
 
-## Personal Money Market
+10\. North Post Ave St 400  
+Spokane, WA 99201
 
-Click to Email: Customer Support
-
-PO Box 710
-
-Spokane, WA, 99201-0710 United States
+with any questions or concerns related to these Marketing Practices or your privacy, and/or to opt-out of having your information used by Company for marketing purposes.
