@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the nimbleschedule.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430075616id_/http%3A//www.nimbleschedule.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimbleschedule.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215821id_/http%3A//www.nimbleschedule.com/privacy) for the most accurate reproduction.*
 
-# NimbleSchedule | Employee Scheduling Software | Privacy
+# NimbleSchedule | Employee Scheduling Software | Privacy - NimbleSchedule
 
-**Information Collection.** Nimble Software Systems, LLC is the sole owner of the information collected on http://www.nimbleschedule.com. NimbleSchedule collects information from our users at several different points on our Web site.
+## Information Collection.
+
+Nimble Software Systems Inc. is the sole owner of the information collected on http://www.nimbleschedule.com. NimbleSchedule collects information from our users at several different points on our Web site.
 
 **Order** We request information from the user on our order form. A user must provide contact information (such as name and email). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
 
@@ -59,5 +61,3 @@ While we use SSL encryption to protect sensitive information online, we also do 
 1-866-986-6462  
 2588 El Camino Real, Suite F-209  
 Carlsbad, CA 92008
-
-Start your 14-day free trial. No credit card required. [ ](https://web.archive.org/pricing)
