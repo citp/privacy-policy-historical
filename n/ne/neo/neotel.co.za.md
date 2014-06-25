@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neotel.co.za privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109062910id_/http%3A//www.neotel.co.za/wps/portal/%21ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYwNDI_2CbEdFAJh0M08%21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neotel.co.za privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626000556id_/http%3A//neotel.co.za/wps/portal/%21ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYwNDI_2CbEdFAJh0M08%21) for the most accurate reproduction.*
 
 # Neotel | Privacy Policy
 
