@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 48hourreport.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808135318id_/http%3A//www.48hourreport.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 48hourreport.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090121id_/http%3A//48hourreport.com/privacy.php) for the most accurate reproduction.*
 
 # 48hourreport.com Privacy Policy
 
