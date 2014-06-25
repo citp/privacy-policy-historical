@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206144751id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092855id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
 
 # Privacy Policy for Nurses | Nursing Students
+
+This site is owned and operated by ALLNURSES.COM, INC. . Your privacy on the Internet is of the utmost importance to us. We want to make your online experience satisfying and safe. 
 
 ## Commitment To Your Privacy
 
@@ -12,8 +14,8 @@ We invite you to contact us if you have questions about this policy. You may con
     
     
     ALLNURSES.COM, INC.
-    15050 Cedar Ave, Suite #116-104
-    Apple Valley, MN 55124
+    261 School Ave Suite 300 
+    Excelsior, MN 55331
 
 Or, you may contact us by [email](http://allnurses.com/sendmessage.php) or via Private Message.
 
