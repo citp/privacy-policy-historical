@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my.jobs privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126213420id_/https%3A//secure.my.jobs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my.jobs privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045237id_/https%3A//secure.my.jobs/privacy) for the most accurate reproduction.*
 
 # Privacy policy for My.jobs
 
@@ -8,7 +8,7 @@ This Privacy Policy covers the collection, use and disclosure of information col
 
 DirectEmployers Association has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the My.jobs and Universe.jobs websites and does not cover information that may be collected through any mobile applications, devices or third party affiliates and partners. 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@my.jobs](mailto:privacy@my.jobs). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@my.jobs](mailto:privacy@my.jobs). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 ### Information Collection and Use
 
@@ -16,7 +16,7 @@ We collect the following personal information from you when you visit our websit
 
   * Contact information such as name, email address, mailing address, phone number
   * Company name and address
-  * Unique Identifiers such as user name, account number, password
+  * Unique identifiers such as user name, account number, password
   * Resume information, such as work history, education, and military service
 
 
@@ -42,7 +42,7 @@ We will share your personal information with third parties only in the ways that
 
 ##### The My.jobs Platform
 
-We share your job search activity and profile data with employers with whom you have interacted via our services. Employers may use your job search activity and profile data to send you messages, such as job opportunities, hiring events, career fairs, and general information about their company. Employers may also export your profile data to load into career marketing, customer relationship management, and applicant tracking systems. You may opt-out or decline such sharing of information by updating your [account settings](https://secure.my.jobs/account/edit/). 
+We share your job search activity and resume data with employers with whom you have interacted via our services. Employers may use your job search activity and resume data to send you messages, such as job opportunities, hiring events, career fairs, and general information about their company. Employers may also export your resume data to load into career marketing, customer relationship management, and applicant tracking systems. You may opt-out or decline such sharing of information by updating your [account settings](https://secure.my.jobs/account/edit/). 
 
 ##### Service Providers
 
