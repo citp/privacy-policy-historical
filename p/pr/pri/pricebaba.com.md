@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pricebaba.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203212913id_/http%3A//pricebaba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricebaba.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075041id_/http%3A//pricebaba.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PriceBaba
+# Privacy Policy | PriceBaba
 
 Greetings Dear Users of PriceBaba. This page is to enlighten you with our policies that are in place to do one and only one thing - respect your privacy. As users of this website, we assume that you agree to this policy and be well informed that PriceBaba will not participate in any activity that will misuse your personal information. 
 
