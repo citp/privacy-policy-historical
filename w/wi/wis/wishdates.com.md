@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishdates.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820024240id_/http%3A//www.wishdates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishdates.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625033049id_/http%3A//www.wishdates.com/en/privacy) for the most accurate reproduction.*
 
 # Wishdates - Privacy Default
 
@@ -18,7 +18,7 @@ We can also keep a record of any correspondence you send us, as well as informat
 
 To save a usage session, we use a cookie — this is the information sent by a web server to a user’s computer to store in a browser. Session cookies are deleted when you close your browser. If you still want to stop saving a cookie in the future, please check the instructions in the ‘Help’ menu in your browser. 
 
-While using our Web site or application, we automatically store information about your e-mail and IP-addresses. All web sites collect this information for analytical purposes. However, the User assumes all responsibility for protecting their own confidentiality, in the case of disclosure of personal information by the User himself, for example, by using messages. We reserve the right to restrict rights to the accounts of users who use the site in violation of our [Terms of Use](http://www.wishdates.com/terms). 
+While using our Web site or application, we automatically store information about your e-mail and IP-addresses. All web sites collect this information for analytical purposes. However, the User assumes all responsibility for protecting their own confidentiality, in the case of disclosure of personal information by the User himself, for example, by using messages. We reserve the right to restrict rights to the accounts of users who use the site in violation of our [Terms of Use](http://www.wishdates.com/en/terms). 
 
 We use third-party advertising companies in order to display advertisements on the Web site. These companies may use non-personal information (not including your name, address, e-mail address or telephone number) about your visits to our website and other websites. Advertising companies such as third-party vendors, use cookies to serve ads on our site. Using cookies allows them to show site users most relevant ads about goods and services. Most web browsers allow you to delete cookies from your computer’s hard drive if necessary, to block or reject all cookies, or to receive a warning before a cookie is stored. Please refer to your internet browser’s instructions or help menu to learn more about these functions. 
 
@@ -34,7 +34,7 @@ The Website Administration has a partnership with Google which places, on a reim
 
 ##  How Do We Use Your Information? 
 
-We may use the information site users provide Wishdates with, to statistically analyze site usage, to improve our marketing and promotional efforts for improving our website or online service. User data might not also be taken into account when processing payments and conducting transactions. We may also use the information to resolve disputes and troubleshoot problems in accordance with our [Terms of Use](http://www.wishdates.com/terms). We can send you notifications of new messages or other functions of the site. You can withdraw these notifications at any time by changing the [settings](http://www.wishdates.com/settings/settings) on your User Account. 
+We may use the information site users provide Wishdates with, to statistically analyze site usage, to improve our marketing and promotional efforts for improving our website or online service. User data might not also be taken into account when processing payments and conducting transactions. We may also use the information to resolve disputes and troubleshoot problems in accordance with our [Terms of Use](http://www.wishdates.com/en/terms). We can send you notifications of new messages or other functions of the site. You can withdraw these notifications at any time by changing the [settings](http://www.wishdates.com/en/settings/settings) on your User Account. 
 
 Using the service, you accept the fact that your profile information and other materials published by you, including information addressing your feelings and dignity, may be available in other countries. Please note that countries outside Europe may have lower standards of data protection. Please remember that we may also use the published material in the open access of Wishdates network for advertising and promotional purposes on our partner sites. 
 
@@ -44,11 +44,11 @@ Information that identifies you, such as your password, isn’t available to any
 
 ##  Using someone else’s information 
 
-Users can not use someone else’s information for commercial purposes, make illegal actions or to engage in spam. Accounts view using the programs and scripts is banned. It is forbidden to try to open or uncover other people’s accounts or otherwise violate the privacy of Wishdates users, or to create obstacles to them in using the Site. We reserve the right to block access to people who abuse the information of other users, or otherwise violate the [Terms of Use](http://www.wishdates.com/terms). 
+Users can not use someone else’s information for commercial purposes, make illegal actions or to engage in spam. Accounts view using the programs and scripts is banned. It is forbidden to try to open or uncover other people’s accounts or otherwise violate the privacy of Wishdates users, or to create obstacles to them in using the Site. We reserve the right to block access to people who abuse the information of other users, or otherwise violate the [Terms of Use](http://www.wishdates.com/en/terms). 
 
 ##  Safety of the password 
 
-We ensure the confidentiality of your password for our part. However, if you make a disclosure of your password to any third parties, then your account and your information may be used and you will be responsible for the actions taken with your profile. If you have lost control over the confidentiality of your password for some reason, you need to change your password. You can do this in the [‘Settings’](http://www.wishdates.com/settings/settings) section. 
+We ensure the confidentiality of your password for our part. However, if you make a disclosure of your password to any third parties, then your account and your information may be used and you will be responsible for the actions taken with your profile. If you have lost control over the confidentiality of your password for some reason, you need to change your password. You can do this in the [‘Settings’](http://www.wishdates.com/en/settings/settings) section. 
 
 ##  View and Update Personal Information 
 
@@ -60,7 +60,7 @@ Wishdates provides the necessary measures to ensure the safety and security of y
 
 ##  Deleting your profile 
 
-Wishdates users may choose to delete all information about themselves and their own profile. You must enter the site using your login and password and select the appropriate options in the [‘Settings’](http://www.wishdates.com/settings/settings) section. 
+Wishdates users may choose to delete all information about themselves and their own profile. You must enter the site using your login and password and select the appropriate options in the [‘Settings’](http://www.wishdates.com/en/settings/settings) section. 
 
 ##  Inviting Your Friends 
 
