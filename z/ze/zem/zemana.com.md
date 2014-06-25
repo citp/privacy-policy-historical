@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zemana.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211025757id_/http%3A//www.zemana.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zemana.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043804id_/http%3A//www.zemana.com/Privacy) for the most accurate reproduction.*
 
 # Zemana AntiLogger - The #1 Privacy Protection Software
 
@@ -106,9 +106,8 @@ Thracian Technology Development Park 48 Aysekadin Yerleskesi
 22030 Edirne / TURKEY 
 
 **Phone**  
-Turkey : +90 (284) 988 0160  
-USA : +1 (866) 293 2016 
+Turkey : +90 (284) 988 0160 
 
-(Please note that we do not offer technical support by phone, only through [ our support](https://web.archive.org/web/20131211025757id_/http://zemana.com/Support.aspx) form.)
+(Please note that we do not offer technical support by phone, only through [our support](https://web.archive.org/web/20140625043804id_/http://zemana.com/Support.aspx) form.)
 
 **Email :** support@zemana.com 
