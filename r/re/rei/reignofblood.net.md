@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reignofblood.net privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205021050id_/http%3A//reignofblood.net/vampire_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reignofblood.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112159id_/http%3A//reignofblood.net/vampire_privacy.php) for the most accurate reproduction.*
 
 # Reign Of Blood Privacy Policy
 
-[](https://web.archive.org/web/20131205021050id_/http%3A//reignofblood.net/vampire_signup.php "play vampire games")
+[](https://web.archive.org/web/20140625112159id_/http%3A//reignofblood.net/vampire_signup.php "play vampire games")
 
 Contact: To contact us please email reignofblood.net [at] gmail.com
 
