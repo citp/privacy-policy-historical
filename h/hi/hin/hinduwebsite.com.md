@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the hinduwebsite.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013213139id_/http%3A//www.hinduwebsite.com/utilities/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hinduwebsite.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122322id_/http%3A//www.hinduwebsite.com/utilities/privacypolicy.asp) for the most accurate reproduction.*
 
 # Hinduwebsite.com Privacy Policy
 
-**Summary** : Hinduwebsite.com is a clean website. We are against mass email campaigns, SPAM, unethical exploitation and sale of personal information to third parties for the purposes of commercial exploitation or monetary gain. We do not use cookies or spy ware to gather personal information. However the site uses  third party cookies in conjunction with the affiliate programs, banners and advertisements provided by our merchant partners. Hinduwebsite.com has no direct access to the information so gathered.
+**Summary** : Hinduwebsite.com is a clean website. We are against mass email campaigns, SPAM, unethical exploitation and sale of personal information to third parties for the purposes of commercial exploitation or monetary gain. We do not use cookies or spyware to gather personal information. However the site uses  third party cookies in conjunction with the affiliate programs, banners and advertisements provided by our merchant partners. Hinduwebsite.com has no direct access to the information so gathered and we do not store any personal information about the vistors on our servers.
 
 Hinduwebsite.com means Hinduwebsite.com and other domains pointing to the same website such as Hinduwebsite.net, Hinduwebsite.org, Hinduwebsite.info and Hinduismatoz.com.
 
 At Hinduwebsite.com we value your privacy more than anything else. We collect information directly from you, with your knowledge and consent, such as your name or email address, to send you any specific information or our newsletter you might  have requested or subscribed to. 
 
-We collect your information in different ways.: Some information we collect when you give it to us, for example when you give it to us by: Signing-up to a newsletter, or email; Entering a competition or a promotion; Ordering book or other products or services from us; Registering on one of our websites; or Completing your profile or adding a comment on one of our online communities. 
+We collect your information in different ways.: Some information we collect when you give it to us, for example when you give it to us by: Signing-up to a newsletter, or email; Entering a competition or a promotion; Ordering books or other products or services from us; Registering on one of our websites; or Completing your profile or adding a comment on one of our online communities. 
 
 #### Our Third Party Vendors Use Cookies
 
-We do not use any hidden custom cookies of our own in our pages to collect any personal information about any one. However we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+We do not use any hidden custom cookies of our own in our pages to collect any personal information about any one. However we use third-party advertising companies and services such as message forums to serve ads and provides services. When you visit our website, these companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
 #### No Spam Policy
 
@@ -38,7 +38,7 @@ Whatever information that is provided under such circumstances is subject to the
 
 They are therefore requested to read very carefully the privacy policy guidelines of each and every website they visit through the links or information we provide, before entering into any contractual or other relationship with them or providing any personal information about themselves or others. 
 
-The visitors of Hinduwebsite.com or related websites are also requested to read our [terms of use](https://web.archive.org/web/20131013213139id_/http%3A//www.hinduwebsite.com/termsofuse.asp) before using any of the services provided by Hinduwebsite.com or the related websites and aliases, including Hinduwebsaite.org, Hinduwebsite.net, Hinduwebsite.info, Hinduismatoz.com, SDRCENTER.COM, QjMail.com, SDRCenter.Net and Saivism.Net. 
+The visitors of Hinduwebsite.com or related websites are also requested to read our [terms of use](https://web.archive.org/web/20140625122322id_/http%3A//www.hinduwebsite.com/termsofuse.asp) before using any of the services provided by Hinduwebsite.com or the related websites and aliases, including Hinduwebsaite.org, Hinduwebsite.net, Hinduwebsite.info, Hinduismatoz.com, SDRCENTER.COM, QjMail.com, SDRCenter.Net and Saivism.Net. 
 
 #### Special Information About Google Ads
 
@@ -47,21 +47,3 @@ We display Google Ads on almost every page of the website. Google uses cookies t
 The [ DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on Hinduwebsite.com displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web, based on your visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 We reserve the right to update our privacy policy terms and conditions from time to time without notice.
-
-#### Suggested Further Reading
-
-| 
-
-  * [Ways to Help and Support Us](https://web.archive.org/web/20131013213139id_/http%3A//www.hinduwebsite.com/ucanhelpus.asp)
-  * [Aims and Plans of Hinduwebsite.Com](https://web.archive.org/web/20131013213139id_/http%3A//www.hinduwebsite.com/aimsplans.asp)
-  * [ Contact Us](https://web.archive.org/web/20131013213139id_/http%3A//www.hinduwebsite.com/contactForm.aspx)
-  * [Terms of User Agreement](https://web.archive.org/web/20131013213139id_/http%3A//www.hinduwebsite.com/utilities/termsofuse.asp)
-  * [What Is New At Hinduwebsite.com](https://web.archive.org/web/20131013213139id_/http%3A//www.hinduwebsite.com/whatisnew.asp)
-
-
-
-|   
-  
----|---  
-**Friday , January 31, 2020** |   
----|---
