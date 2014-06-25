@@ -1,59 +1,63 @@
-> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031091447id_/http%3A//www.mmaglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091447id_/http%3A//www.mmaglobal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement | Mobile Marketing Association
+# MMA Privacy Policy | Mobile Marketing Association
 
-**Privacy**
+#### This Privacy Notice Contains
 
-Most established ad sellers and marketers recognize this growing concern, and the realization that their brands will suffer if consumers believe their privacy is being violated. In the wireless space, consumers are even more sensitive since devices are more personal and travel with the consumer.
-
-The failure to respond effectively to privacy issues and risks can result in adverse consequences that range from outright market rejection to regulatory enforcement action, to loss of data flow, or to costly litigation. The MMA, in furtherance of its mission to promote Mobile Advertising and Commerce has taken a proactive stance in establishing the MMA Privacy Guidelines for member organizations that set minimum acceptable standards for protecting the privacy of online users. These standards will serve as guidelines by which MMA member organizations can establish individual privacy policies while ensuring the privacy of users is uniformly protected.
-
-In addition to establishing guidelines for wireless marketers, the MMA follows a strict policy for any information submitted on the MMA website, addressed below.
-
-**Information Collection and Usage**  
-The MMA only collects personal information from site visitors on a voluntary basis. This information may include:
-
-  * first and last name
-  * title
-  * company name
-  * company address
-  * phone and/or fax number
-  * e-mail address
-  * credit card information (e.g., type, #, expiration)
+  * Our Commitment To Privacy
+  * The Information We Collect
+  * How We Use Information
+  * Our Commitment To Data Security
+  * Our Commitment To Children's Privacy
+  * How To Access Or Correct Your Information
+  * Third Parties
+  * How To Contact Us
 
 
 
-The personal information that MMA collects is used by the MMA to process orders that have been placed by individuals through registrations or product inquiries. All personal information collected via the MMA Website will only be used for its intended purpose. If there is a change in use of such information, notification will be explicitly stated within the contents of the Website. All marketing efforts undertaken by the MMA are targeted to a business audience (i.e., not consumers nor children). The MMA complies with the Children's Online Privacy Protection Act (COPPA) and does not knowingly collect personal identifiable information from anyone under the age of 13. This requirement will be posted wherever the MMA collects data within the MMA site, including registration. The MMA does not collect highly sensitive data (e.g., medical or personal financial information), other than credit card number as listed above, which is used to process orders or registrations.
+#### Our Commitment to Privacy
 
-The MMA does not compile, buy, sell, rent or trade consumer mailing lists. Other information volunteered by the customer via site registration, for example, may be used for future marketing and educational efforts (e.g., relevant industry events, MMA co-sponsored events, educational programs, relevant industry information, MMA specific products) to that individual.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**User Access**  
-The MMA is committed to providing reasonable and practical access to allow visitors to identify inaccuracies in their personal information. Each user has the right of access to personal data they have submitted through the MMA Website. Visitors may submit inquires about the accuracy of personally identifiable information they have previously submitted through the MMA Website; visitors may also request to have information removed. When practical, the MMA will, upon request, modify or delete personally identifying information.
+#### The Information We Collect
 
-**Third Party Distribution**  
-Personal information provided to the MMA generally will not be disseminated to third parties. However, event registration information (e.g., first and last name, title, email address, company name and address) may be provided to event sponsors for a one-time use only. If you do not wish to receive communication from a third-party sponsor of a MMA event or other program, please inform the MMA by e-mail at unsubscribe@mmaglobal.com, calling or writing to the MMA at the address below. Personal information collected by the MMA is stored in our database for a reasonable time period with which information remains current, and is updated periodically. The MMA may divulge information as necessary to comply with state and federal laws (e.g., subpoenas, search warrants, etc).
+This notice applies to all information collected or submitted on the MMA's website, as well as information we collect at our live events. On some pages, you can make information requests and register for events. The types of personal information collected at these pages are:
 
-**Use of Cookies and Log Files**  
-The MMA reserves the right to analyze its Web site logs in an effort to improve the value of its site (e.g., improve the content and support services on the MMA site, and to update our records). However, the log files are not personally identifiable and MMA makes no attempt to link site logs with individuals that pass through the MMA site. Only authorized MMA staff have access to MMA site information. The MMA does not use cookies on its site. The MMA does not supplement user information with aggregate data.
+  * Name, title and company information
+  * Address
+  * E-mail address
+  * Phone and/or fax number
+  * Credit/debit card information
 
-**Data Security**  
-The security of the information you provide to the MMA is important to us. Registration forms which capture certain information, including credit card transactions, are secured through 128 bit SSL encryption with a registered Verisign SSL certificate. Information is stored in a secure area and only accessible by authorized MMA staff. However, the MMA site includes links to other sites, and when you choose to visit those sites, the MMA cannot assume responsibility for any other site¹s content or information handling practices. We encourage you to review each site¹s privacy policy prior to entering into transactions with the third-party linked sites.
 
-**Trans-Border Data**  
-The MMA is taking reasonable steps to ensure compliance with the U.S. Department of Commerce International "Safe Harbor" Principles, including maintaining adequate privacy protection of transfer of personal data from EU member states.
 
-**Third-Party Verification**  
-To maintain compliance with MMA Privacy Guidelines, the MMA will undergo a privacy audit conducted by an independent third party on a regular basis. The audit opinion and the period to which the opinion covers will be clearly posted on the MMA site.
+This website makes use of "cookies'' to track and facilitate navigation and to customize MMA content and it collects site traffic data for analytical purposes. This data may contain your IP address and/or other information supplied to our website from your local computer.
 
-**Mobile Marketing Association Contacts**  
-We can be reached via e-mail at [mma@mmaglobal.com](mailto:mma@mmaglobal.com) with privacy in the subject matter line.
+#### How We Use Information
 
-**Mobile Terms & Conditions**  
-The short code 30364 is used by the Mobile Marketing Association to promote industry news and alerts. You may opt-in by submitting the keyword "MMA" to 30364. 4 msgs/month. Message&Data Rates May Apply.
+  * We use the information you provide about yourself – when you register for access to member-only information, or when registering for an MMA event, or for access to our white papers, reports and webinars – to complete the registration and to fulfill your information request.
+  * When you register for an MMA webinar you may be asked to agree to share your email address, and any questions you submit during the webinar, with the sponsor, if there is one. If you attend one of our sponsored dinners, the sponsor will have your email address to follow-up with you about relevant content and events.
+  * If you ask to be added to our mailing list, your contact information may be used to inform you about relevant content or upcoming MMA events. We do not share this information with outside parties.
+  * We use the information collected through the “cookies” to provide analytical data for website traffic and management.
 
-For additional information, text “ **HELP** ” to short code 30364. You may opt-out at any time by sending **STOP** to short code 30364. Contact us at [866-375-7854](tel:8663757854) or email us at [marketing@mmagloba.com](mailto:marketing@mmagloba.com).
 
-**Available only on participating wireless carriers:** ALLTEL, Appalachian Wireless, AT&T, Bluegrass Cellular, Boost, Cellcom, Cellular One, Cellular One of East Central Illinois, Cellular South, Centennial Wireless, Cincinnati Bell, Cox Wireless, Dobson, ECIT, GCI, Illinois Valley IVC, Immix Wireless, Inland Cellular, iWireless, LongLines Wireless, Nex-Tech, Nextel, NTelos, Revol Wireless, Simmetry, Sprint, SunCom, T-Mobile, Unicel, United Wireless, U.S. Cellular, Verizon Wireless, Virgin Mobile USA, West Central Wireless and other carriers that may be added from time to time.
 
-**PRIVACY POLICY**  
-The Mobile Marketing Association respects your privacy. We will not share or use your mobile number for any other purpose. We will only use information you provide to transmit your text message. Nonetheless, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. When you complete forms online or otherwise provide us information in connection with the Service, you agree to provide accurate, complete and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any such information is untrue, inaccurate or incomplete, we may refuse you access to the Service and pursue any appropriate legal remedies.
+#### Our Commitment To Data Security
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect. Credit card information is securely stored digitally on the MMA accounting service (Balance Financial) server and deleted when no further charges are scheduled or due.
+
+#### Our Commitment to Children’s Privacy
+
+The MMA complies with the Children's Online Privacy Protection Act (COPPA) and does not knowingly collect personally identifiable information from anyone under the age of 13.
+
+#### How to Access or Correct Your Information
+
+The MMA is committed to providing reasonable and practical access to allow visitors to identify inaccuracies in their personal information and may also request to have information removed. Visitors may submit inquires about the accuracy of personally identifiable information they have previously submitted and requests to have it removed through the MMA Website or via email at mma[at]mmaglobal.com[dot] When practical, the MMA will, upon request, modify or delete personally identifying information.
+
+#### Third Parties
+
+This document addresses the use and disclosure of information we collect from you at [http://www.mmaglobal.com](http://www.mmaglobal.com/) and at MMA events. If you disclose your information to others, for instance when you attend an MMA event and share your contact details directly with vendors, different rules may apply to their use or disclosure of the information you provide to them. Since MMA does not control the privacy policies of third parties, you are subject to the privacy policies of those other parties. We encourage you to view posted privacy policies or ask questions before you disclose your personal information to others
+
+#### How to Contact Us
+
+We can be reached via e-mail at [mma[at]mmaglobal[dot]com](https://web.archive.org/contact/mma/mmaglobal/com?subject=Privacy) with “Privacy” in the subject matter line or you can call +1 646 257 4515 to leave a message and someone will follow-up with you.
