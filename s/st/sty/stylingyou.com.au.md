@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stylingyou.com.au privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025003111id_/http%3A//www.stylingyou.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylingyou.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625164112id_/http%3A//www.stylingyou.com.au/about/privacy) for the most accurate reproduction.*
 
-# Privacy | Styling You
+# Privacy - Styling You :: Styling You
 
 Styling You is committed to the Australian privacy legislation in the way it collects, uses, secures and discloses personal information. The Commonwealth Privacy Act 1988 requires companies to comply with the National Privacy Principles (NPPs).
 
@@ -14,4 +14,4 @@ We use the information we collect for the purpose disclosed at the time of colle
 
 If you at any time receive any communication from www.stylingyou.com.au which you would not like to receive, please contact us and we will remove your name from our mailing list. If you would like to check or amend your contact details, please contact us. We will deal with all requests for access to personal information as quickly as possible.
 
-[](http://www.printfriendly.com/print?url=http://www.stylingyou.com.au/about/privacy/)
+[](http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.stylingyou.com.au%2Fabout%2Fprivacy%2F)
