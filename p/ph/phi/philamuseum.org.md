@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113162921id_/http%3A//www.philamuseum.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141738id_/http%3A//www.philamuseum.org/webpolicies.html) for the most accurate reproduction.*
 
-# Philadelphia Museum of Art - Web Policy : Privacy & Security
+# Philadelphia Museum of Art - Web Policies
 
 **Overview**  
 Thank you for visiting the Philadelphia Museum of Art's (the "Museum's") website and reviewing our privacy policy. The Museum does not collect individually identifiable information about visitors to our website (e.g., name, address, e-mail, etc.) unless you choose to provide that information to us. This privacy policy explains what data we collect and how we use it. 
@@ -32,12 +32,11 @@ This information is stored for the Museum’s use only. The Museum does not sell
 **Cookies**  
 The Museum uses technology known as "cookies" to track usage patterns, traffic trends and user behavior, as well as to record other information from the website. For certain services provided on this website, cookies allow us to save information locally so that you will not have to re-enter it the next time you visit. Many content adjustments and customer service improvements are made based on the data derived from cookies. The information we collect from cookies will not be used to create profiles of users and will only be used in aggregate form. Users should be aware that the museum contracts with third party vendors for services that require the sharing of non-personally identifiable information collected via cookies. (identified below) 
 
-_Dotomi_  
-Dotomi a provider of personalized media services that enables the museum to optimize its online advertizing. Please refer to [Dotami’s privacy policy](http://dotomi.com/privacy.html) for further information. 
-
 You may set your browser to refuse cookies. If you so choose, you may still gain access to most of the Museum website, but you may not be able to conduct certain types of transactions (such as shopping) or take advantage of some of the interactive elements offered.
 
 If you use the My Museum's "Share My Gallery" feature , your friend's email address will not be retained on our Website or used in any way by the Museum. 
+
+In addition to using cookies and related technologies as described above, we also may permit certain third party companies to help us tailor advertising that we think may be of interest to users and to collect and use other data about user activities on our Sites and/or Services (e.g., to allow them to tailor ads on third party services). These companies may deliver ads that might also place cookies and otherwise track user behavior. Users may opt out of Google’s use of cookies by visiting the [Google advertising Privacy and Terms](http://www.google.com/policies/technologies/ads/) page. 
 
 **Sending Us Personal Information**  
 If you send us personal information—by submitting an e-mail, completing an online form or survey, requesting materials or information, ordering merchandise or Museum tickets, making a donation or signing up for membership—we will use this information to respond to your inquiry or request. We may also use it to contact you to provide information about other Museum activities, programs, membership and fundraising opportunities, products and special events that may interest you. You may opt-out of having your information used by the Museum for these purposes, or you may update your contact information anytime, by contacting us via the following e-mail or postal mail addresses: 
@@ -66,7 +65,7 @@ The Museum provides visitors with an opportunity to make online purchases from t
 **Support the Museum**  
 The Philadelphia Museum of Art also provides visitors with an opportunity to make a contribution to our organization through an online donation page. 
 
-The information that you supply during any of the above transaction processes is used to fulfill your order and will also be used to track and analyze transaction trends. This information is also subject to the “Sending Us Personal Information” section above. 
+The information that you supply during any of the above transaction processes is used to fulfill your order and will also be used to track and analyze transaction trends. This information is also subject to the "Sending Us Personal Information" section above. 
 
 The _Planned Giving Calculator_ is hosted by PG Calc and linked to our website to allow you to explore the benefits of charitable giving. Users of the _Planned Giving Calculator_ are subject to PG Calc’s policies and should refer to the [Privacy Statement for PG Calc Web Products](http://www.pgcalc.com/about/privacystatementweb.htm) for further information. 
 
@@ -84,4 +83,4 @@ The Museum is concerned about protecting children's privacy. We do not knowingly
 The Museum's website may provide links to third-party websites that may offer various products, services, and/or information. You should be aware that your use of these third-party websites may be subject to separate terms and conditions, information collection practices, and other provisions. The Museum does not endorse, nor is it responsible for, any of the products, services, or content offered in any third-party sites. Before using any third-party service, it shall be your sole responsibility to conduct whatever investigation you deem necessary and appropriate. 
 
 **Revisions to Our Web Policies**  
-Please note that the Museum may revise its privacy policy at any time. Occasionally, changes in technology, functionality, content we provide, laws and/or Museum policy may require us to revise policies and practices on this page. We encourage you to periodically visit this page to review our most current policy. Your continued use of the site shall constitute your acceptance of any such changes to this policy.
+Please note that the Museum may revise its privacy policy at any time. Occasionally, changes in technology, functionality, content we provide, laws and/or Museum policy may require us to revise policies and practices on this page. We encourage you to periodically visit this page to review our most current policy. Your continued use of the site shall constitute your acceptance of any such changes to this policy. 
