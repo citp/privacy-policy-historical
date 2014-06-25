@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sysco.com privacy policy that was archived on 2013-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131208032142id_/http%3A//sysco.com/privacy-policy-legacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sysco.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625064919id_/http%3A//www.sysco.com/privacy-policy-legacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><!-- PageID 41 - published by Open Text Web Solutions 10.1 - 10.1.2.287 - 31734 -->
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -12,6 +12,8 @@
 
 <link rel="stylesheet" type="text/css" media="print" href="/css/print.css">
 
+
+<link rel="stylesheet" type="text/css" href="/css/slider.css">
 
 
 <!--[if IE 7]><link rel="stylesheet" href="/css/ie7.css"  type="text/css" /><![endif]-->
@@ -33,6 +35,10 @@
 <script type="text/javascript" src="/js/email_sender.js"></script>
 
 <script type="text/javascript" src="/js/formatted_email.js"></script>
+
+<script type="text/javascript" src="/js/jquery_easing_1_2.js"></script>
+
+<script type="text/javascript" src="/js/jquery_anythingslider.js"></script>
 
 <script type="text/javascript" src="/js/1143.js"></script>
 
@@ -156,7 +162,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
             <a class="pathway" href="/home.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/home.html_2&quot;;return this.s_oc?this.s_oc(e):true">Sysco</a>&nbsp;&nbsp;//&nbsp;
             
         Privacy Policy
-                        <a href="#" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20131208032142id_/http%3A//sysco.com/privacy-policy-legacy.html#_1&quot;;return this.s_oc?this.s_oc(e):true" class="print">Print</a>
+                        <a href="#" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20140625064919id_/http%3A//www.sysco.com/privacy-policy-legacy.html#_1&quot;;return this.s_oc?this.s_oc(e):true" class="print">Print</a>
 <script src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4be41a6142009787" type="text/javascript"></script>
 <a style="text-decoration: none;" class="addthis_button share" href="http://www.addthis.com/bookmark.php" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.addthis.com/bookmark.php_1&quot;;return this.s_oc?this.s_oc(e):true">Share<img height="0px" border="0" width="0px"></a>
                     </div>
@@ -279,12 +285,12 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
     </div>
 </div>
 <ul id="contactus">
-    <li class="open menutitle"><a href="#" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20131208032142id_/http%3A//sysco.com/privacy-policy-legacy.html#_2&quot;;return this.s_oc?this.s_oc(e):true"><span>Contact Us</span></a></li>
+    <li class="open menutitle"><a href="#" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20140625064919id_/http%3A//www.sysco.com/privacy-policy-legacy.html#_2&quot;;return this.s_oc?this.s_oc(e):true"><span>Contact Us</span></a></li>
     <li class="form">
         <span class="errorlabel" id="errorlabeloption" style="display: none;">*Please select information type</span>
         
         <select id="myselectbox" name="myselectbox" tabindex="2">
-            <option value="contact us" data-url="">I need information on:</option><option value="contact us" data-url="">Career Opportunities</option><option value="contact us" data-url="">Quality Assurance</option><option value="contact us" data-url="">Product Information</option><option value="contact us" data-url="">Become a Supplier</option><option value="contact us" data-url="">Investor Relations</option><option value="contact us" data-url="">Legal</option><option value="contact us" data-url="">Transportation</option><option value="contact us" data-url="">Human Resources</option><option value="contact us" data-url="">Community Relations</option><option value="contact us" data-url="">Other</option>
+            <option value="contact us" data-url="">I need information on:</option><option data-url="/customer-solutions/become-a-customer-send-your-message.html">Become a Customer</option><option value="contact us - Career Opportunities" data-url="">Career Opportunities</option><option value="contact us - Quality Assurance" data-url="">Quality Assurance</option><option value="contact us" data-url="">Product Information</option><option value="contact us - Become a Supplier" data-url="">Become a Supplier</option><option value="contact us - Investor Relations" data-url="">Investor Relations</option><option value="contact us - Legal" data-url="">Legal</option><option value="contact us" data-url="">Transportation</option><option value="contact us - Human Resources" data-url="">Human Resources</option><option value="contact us - Community Relations" data-url="">Community Relations</option><option value="contact us" data-url="">Other</option>
         </select>
 
          <span class="errorlabel" id="errorlabelcustomer" style="display: none;">*Select an option</span>
@@ -381,7 +387,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
     $('#myselectbox').on('change', function(){
         if($(this).find('option:selected').attr('data-url') != '')
         {
-            window.open($(this).find('option:selected').attr('data-url'));
+            window.location = $(this).find('option:selected').attr('data-url');
         }
     });
 </script>
@@ -415,7 +421,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
             
             <li><a href="/customer-solutions/products.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/customer-solutions/products.html_1&quot;;return this.s_oc?this.s_oc(e):true">Products</a></li>
             
-            <li><a href="/customer-solutions/services-and-solutions.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/customer-solutions/services-and-solutions.html_1&quot;;return this.s_oc?this.s_oc(e):true">Services</a></li>
+            <li><a href="/customer-solutions/Solutions-and-Services.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/customer-solutions/Solutions-and-Services.html_1&quot;;return this.s_oc?this.s_oc(e):true">Services</a></li>
             
             <li><a href="/customer-solutions/market-reports.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/customer-solutions/market-reports.html_1&quot;;return this.s_oc?this.s_oc(e):true">Market Reports</a></li>
             
