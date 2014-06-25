@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the klientboost.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221192328id_/http%3A//klientboost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klientboost.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104458id_/http%3A//klientboost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - KlientBoost
+# Privacy Policy
 
 By working with and using KlientBoost.com, you agree to the collection and use of your information as stated in this policy. If any changes are made to our privacy policy we will notify you via e-mail and update it on this page as well.
 
