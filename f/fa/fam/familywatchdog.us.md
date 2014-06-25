@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908225201id_/http%3A//www.familywatchdog.us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115629id_/http%3A//www40.familywatchdog.us/privacy.asp) for the most accurate reproduction.*
 
-# Family WatchdogTerms of Service
+# Family Watchdog
 
-### privacy statement
+### Privacy Statement
 
 Your privacy is important to us. We want you to be absolutely certain that we will not misuse any of the personal information that you provide in order to use this service. To that end, this is a full disclosure on how we will, and will not, use your personal information: 
 
@@ -12,6 +12,7 @@ We collect information from you in order to provide you with maps, lists, and ot
   * Your detailed interaction with the site will not be shared with anyone, anywhere, at any time. Ever. 
   * The lone exception to the above policy is if we are required to provide information under a properly served order of a court of competent jurisdiction. 
 
+  
 
 
 ##### Registered Users
@@ -43,3 +44,9 @@ We will only contact you under the following circumstances:
 
 
 If you have questions or believe this policy has been breached, contact us at c.s@familywatchdog.us. We will investigate every report of suspected violation of this privacy policy. 
+
+Sponsored ad:
+
+Sponsored ad:
+
+Sponsored ad:
