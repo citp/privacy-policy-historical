@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saberforge.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026211300id_/https%3A//www.saberforge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saberforge.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125606id_/https%3A//www.saberforge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Saber Forge
 
