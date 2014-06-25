@@ -1,69 +1,37 @@
-> *The following text is extracted and transformed from the vimo.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621033641id_/http%3A//www.vimo.com/html/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vimo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625143434id_/http%3A//www.getinsured.com/answers/privacy-and-legal-notices) for the most accurate reproduction.*
 
-# Privacy Statement | Comparison Shopping for Health Insurance - Vimo
+# Privacy and Legal Notices | GetInsured.com
 
-Vimo is strongly committed to protecting your privacy and security. We understand the nature of the information entrusted to us and make every effort to protect such information according our established security policies. 
+Welcome! This “Legal Notices” page provides information about the terms and conditions that govern your use of our Site. Please return to this page often to view the latest notices, statements, and terms that apply to the use of www.getinsured.com.
 
-These security policies and the technologies underlying them are reviewed on a regular basis as we continually evaluate new technologies to ensure that your data receives the best possible protection. 
+The www.getinsured.com website (the “Site”) provides a wide variety of information on healthcare insurance, subsidies providers by the U.S. Government under the new Affordable Care Act (ACA), and allows users to look for quotes for insurance services.
 
-**We do not sell, trade or rent your personally identifiable information to third parties at any time**. 
+**[Home](https://www.getinsured.com/)**  
+Your use of the content and the services provided on www.getinsured.com is subject to different legal terms. We also provide related legal information that is required from companies that operate in the insurance market.
 
-**Limited Exceptions**
+**[Terms and Conditions](https://web.archive.org/web/20140625143434id_/http://www.getinsured.com/answers/privacy-and-legal-notices/terms-and-conditions)**
 
-**Your personal information is transmitted to our vendors or partners only under the following limited circumstances:**
+The general rules concerning the use of www.getinsured.com are found in the Terms and Conditions. This document tells you what you can or cannot do while using the Site.
 
-  * Insurance Companies and Licensed Agents: Inquiries and applications for insurance products or requests for quotes may be transmitted to the insurance company that you have chosen, or to a licensed agent of the company for processing. These partners are obligated to maintain your confidentiality, and will only use your information for follow-up on your application, request for information or a quote. 
-  * HSA Trustees and Third Party Administrators: If you express interest in a health savings account (HSA) or healthcare reimbursement account (HRA) vendor with whom we are affiliated, we may disclose information to that trustee or their administrator for follow-up and processing. These affiliates are obligated to maintain your confidentiality, and will only use your information for follow-up on your application or request for information. 
-  * Legal or Regulatory: We may disclose your information to legal or law enforcement authorities to cooperate with inquiries from such organizations or if disclosure is required under the law. 
+For example, we explain that the content that we provide, while it is freely available, is nevertheless our valuable intellectual property, and should not be misappropriated. Thus as a condition to allowing visitors to use the Site at no cost to them, we require that they commit to not copy our intellectual property or to frame it into a third party site.
 
+[**Privacy Notice**](https://web.archive.org/web/20140625143434id_/http://www.getinsured.com/answers/privacy-and-legal-notices/privacy-notice)
 
+We will collect a variety of personal information from you when you visit our site. Some information may be provided by your browser, and it is collected automatically. This happens on most websites.
 
-Please be assured that, outside of these exceptions, **your personal information will not be shared with any third parties.**
+You will also provide directly some information when you respond to questionnaires, so that we can help you with your insurance needs, or guide you on how to obtain insurance.
 
-**Information we collect**
+Our [Privacy Notice ](https://web.archive.org/web/20140625143434id_/http://www.getinsured.com/answers/privacy-and-legal-notices/privacy-notice) explains how we collect this personal information, how we protect it, and what we do with it. It also informs you of your rights with respect to your personal information.
 
-_Registration Information_
+[**Terms of the GetInsured Service**](https://web.archive.org/web/20140625143434id_/http://www.getinsured.com/answers/privacy-and-legal-notices/terms-of-service)  
+Some of our visitors may, in addition to browsing through www.getinsured.com, elect to ask us questions about the Healthcare Reform that is resulting from the adoption of the Affordable Care Act, or if you wish our assistance to find an insurance company that can address your needs.
 
-We collect some information about you and your company when you register with us. You can register with us through our website by providing your email address and choosing your password. This information is collected for communication with you and for identification and authorization the next time you return to the site. 
+In this case, we act as an insurance broker, where our role is solely to introduce you to entities that can assist you. Our [Terms of the Insured Service](https://web.archive.org/web/20140625143434id_/http://www.getinsured.com/answers/privacy-and-legal-notices/terms-and-conditions/) set forth the legal conditions under which we are providing the service.
 
-Company Information
+[**Insurance Disclosures**](https://web.archive.org/web/20140625143434id_/http://www.getinsured.com/answers/privacy-and-legal-notices/insurance-license-information-and-disclosures)  
+The [Insurance Disclosures](https://web.archive.org/web/20140625143434id_/http://www.getinsured.com/answers/privacy-and-legal-notices/insurance-license-information-and-disclosures/ "Insurance License Information and Disclosures") document provides a list of the licenses that we have obtained from the various States to have the right to act as insurance brokers or otherwise provide some of the services that are offered to you from the getinsured.com website.
 
-In the course of your usage of the site, we may collect additional information about your company, the number of employees, average age of your employees, and so on. This information is collected in order to make recommendations and provide cost estimates for plans that may be of interest to you. 
+### Returns and Refund Policy
 
-_Benefit Preferences_
-
-Our decision support tools enable you to compare and rank benefits based on your criteria, and store plan data that may be of interest. This data is stored so as to enable you to resume your work on subsequent visits, and to enable follow-up from us if requested. 
-
-_Employee Information_
-
-Personal information about your employees is required in the event you request a quote.Any such information is held in the strictest confidence, and will only be shared as specified above with the companies or agents that generate the quote. 
-
-_Anonymous Information_
-
-We collect anonymous information regarding site traffic and usage patterns for internal purposes, and may share it with third parties without any identifying information. This information is used primarily to improve our service and product offerings.“Cookies” are small browser data files that reside on your computer and enable us to recognize you if you return to our site at a later time using the same computer. 
-
-_Security_
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information provided online, Vimo has put in place appropriate physical, electronic, and administrative procedures to safeguard and secure the information it collects online. Vimo uses industry-recognized security Best Practices to help protect your business, financial, and personal information from loss, misuse, unauthorized access,disclosure, alteration, or destruction. 
-
-**Changes to Policies**
-
-Our privacy and security policies are reviewed from time to time. Any changes to policies will be posted to our website so users are always aware of how we use the information we collect. 
-
-Your personally identifiable information collected to process your request might include your name, mailing address, telephone number, fax number and/or email address. Additionally, we collect information relating to the primary applicant and all the additional insureds: names, age, height/weight and other information necessary to provide a quote on insurance. All customer information we collect is strictly confidential. Our participating insurance professionals, to whom this information is referred, are bound by the same terms of confidentiality. Your information is used for rating purposes only for the insurance coverage(s) requested, and to contact you for the purposes of completing and providing you with the requested quotes. 
-
-The contact information you submit through the online forms that appear on our websites is used to send you information about health insurance plans. You may also be contacted by insurance representatives directly. Some of these contacts may take the form of email sent to the email address you provide to us. You may also be contacted by telephone or via US mail if you provide that contact information to us. If you do not wish to be contacted by Vimo or its affiliated insurance representatives please click here to [unsubscribe](https://web.archive.org/feedback.php?frmid=11 "unsubscribe"). Vimo will attempt to ensure that any such direct contact is made in accordance with all applicable state and federal laws and regulations, such as the Federal CAN-SPAM Act. 
-
-Unless otherwise disclosed during collection, Vimo will NOT provide any personally identifying information, regardless of source, to any third party for any purpose whatsoever. Aggregate statistics about our customers, sales, traffic patterns and related site information may be provided to reputable third-party vendors, but these figures will include no personally identifying information. 
-
-**Children's Privacy**
-
-In compliance with the Children's Online Privacy Protection Act (COPPA), Vimo.com and our affiliated websites are not structured to attract children. Accordingly, we do not intend to collect personally identifiable information from anyone we know to be under 13 years of age. 
-
-**Cookies**
-
-We make use of cookies for all websites visitors to collect aggregate information on the number of visitors to our site and other information about the number of pages viewed on the site. In certain circumstances, we may assign visitors completing online forms posted on this site a unique identifier cookie. Cookie information is used only by Vimo, Inc and organizations under contract to Vimo to analyze, track and optimize traffic on our websites. Cookie data is used in aggregate for traffic analysis, to provide relevant information to our visitors. It is also used in the aggregate for websites and system administration, including research and development, user analysis and business decision-making. Third parties (including, but not limited to, software vendors, advertisers and fulfillment companies) may also use tracking technologies by or through the Site. We have no control over what information such third parties track or collect, and we have no responsibility or liability for any tracking, data collection or other activities of such third parties. 
-
-**FOR WEBSITE VISITORS WHO DO NOT PROVIDE IDENTIFYING INFORMATION**
-
-If you do not provide information on the forms posted on our websites, our web server will not access or have access to your personally identifying information. We will not know your email address unless you volunteer it. You should know, however, that much of the most valuable information provided to visitors by Vimo is available only to visitors who complete forms on our websites. This is a website maintained on behalf of: Vimo, Inc. While Vimo takes all reasonable precautions, due to the open nature of the Internet, we cannot guarantee that any information stored on our servers, or transmitted to or from a user, will be free from unauthorized access, and we disclaim any liability for any theft or loss of, unauthorized access or damage to, or interception of any data or communications. By using the Site, you acknowledge that you understand and agree to assume these risks. 
+**10 Day “Free Look” Provision – Getinsured Accident Medical Expense/American Advantage Association**  
+Upon the effective date of your new Accident Medical Expense Plan underwritten by Guaranteed Trust and Life Insurance Company, your plan documents will be emailed to the address Getinsured has on file. Unless you have made a claim, you have a 10 Day “Free Look” period during which you can read the terms, conditions and benefits of the Plan and decide if you wish to continue with the Plan. If you have not made a claim and decide not to continue with the Plan, you will need to advise us in writing within 10 days of your Plan effective date. You may send your request to Getinsured at [customersupport@getinsured.com](mailto:customersupport@getinsured.com) or fax 770-234-6335.
