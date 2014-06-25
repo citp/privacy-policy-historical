@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seriouseats.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230235302id_/http%3A//www.seriouseats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seriouseats.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050257id_/http%3A//www.seriouseats.com/privacy) for the most accurate reproduction.*
 
-# Serious Eats: Privacy Statement
+# Privacy Statement | Serious Eats
 
 This privacy statement covers all of the Serious Eats sites (“SE sites”). Please read this statement carefully before using proceeding to access the Serious Eats sites. Your use of the Serious Eats site indicates your agreement to abide by the Terms in effect.
 
