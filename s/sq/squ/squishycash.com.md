@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208213837id_/http%3A//squishycash.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094601id_/http%3A//www.squishycash.com/privacy_policy.php) for the most accurate reproduction.*
 
 # SquishyCash - privacy_policy
 
-[](http://squishycash.com/banner/bannerClick.php?bid=62)  
+  
+[](http://squishycash.com/banner/bannerClick.php?bid=71)  
 [Advertise Here](https://web.archive.org/banner/index.php)
 
 Privacy Policy
