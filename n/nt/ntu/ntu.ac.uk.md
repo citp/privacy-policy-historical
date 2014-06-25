@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203033759id_/http%3A//www.ntu.ac.uk/about_ntu/policies/web_policies/privacy_statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133024id_/http%3A//www.ntu.ac.uk/about_ntu/policies/web_policies/privacy_statement/index.html) for the most accurate reproduction.*
 
 # Privacy Statement - About NTU - Nottingham Trent University
 
