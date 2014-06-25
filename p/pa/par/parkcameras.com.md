@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkcameras.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601183918id_/http%3A//parkcameras.com/editorial/3/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkcameras.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101535id_/http%3A//www.parkcameras.com/editorial/3/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Privacy Policy - Park Cameras Online
 
