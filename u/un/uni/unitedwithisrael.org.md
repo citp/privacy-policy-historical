@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedwithisrael.org privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210020835id_/http%3A//unitedwithisrael.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedwithisrael.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044457id_/http%3A//unitedwithisrael.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | United with Israel
 
@@ -16,7 +16,7 @@ We use third-party advertising companies (such as Google) to serve ads when you 
 * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**What do we use your information for?**
+ **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
@@ -37,43 +37,32 @@ If you decide to opt-in to our mailing list, you will receive emails that may in
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**Do we use cookies?**
+ **Do we use cookies?**
 
 Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-**Do we disclose any information to outside parties?**
+ **Do we disclose any information to outside parties?**
 
 We do NOT sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Third party links**
+ **Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**California Online Privacy Protection Act Compliance**
+ **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**Childrens Online Privacy Protection Act Compliance**
+ **Childrens Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act).
 
-**Your Consent**
+ **Your Consent**
 
 By using our site, you consent to our websites privacy policy.
 
-**Changes to our Privacy Policy and Legal Disclosures**
+ **Changes to our Privacy Policy and Legal Disclosures**
 
 All changes to our privacy policy and legal disclosures will be posted on this web page.
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Funitedwithisrael.org%2Fprivacy-policy%2F&media=&description=Privacy%20Policy) |   
----|---  
-  
-[](https://addthis.com/bookmark.php?v=300)
-
-[](https://unitedwithisrael.net/soldiers/)
-
-|   | 
-
-[](https://unitedwithisrael.org/donate)  
-  
----|---|---
+Comments are closed.
