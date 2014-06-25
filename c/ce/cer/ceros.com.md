@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceros.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226011632id_/http%3A//www.ceros.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceros.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215944id_/http%3A//www.ceros.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy — Digital Catalog Software & Content Marketing Software | Ceros
 
