@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014010212id_/http%3A//www.legendsofamerica.com/loa-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055604id_/http%3A//www.legendsofamerica.com/loa-privacypolicy.html) for the most accurate reproduction.*
 
 # Legends of America Privacy Policy
 
-[](http://www.facebook.com/legendsofamerica)[](http://www.twitter.com/legendsamerica)
+[ ](http://www.facebook.com/legendsofamerica)[](http://www.twitter.com/legendsamerica)[](http://www.pinterest.com/legendsamerica/)
 
 [ Legends Home](http://www.legendsofamerica.com/index.html)
 
@@ -69,16 +69,24 @@ and feedback!
 [ ](http://www.store.legendsofamerica.com/)
 
   
-[Old West Mercantile](http://store.legendsofamerica.com/index.php?l=product_list&c=122)
+[Old West/Western](http://store.legendsofamerica.com/index.php?l=product_list&c=122)
 
-[ Route 66 Emporium](http://store.legendsofamerica.com/index.php?l=product_list&c=123)
+[ Route 66](http://store.legendsofamerica.com/index.php?l=product_list&c=123)
 
-[ TeePee Trading Post](http://store.legendsofamerica.com/index.php?l=product_list&c=124)
+[ Native American](http://store.legendsofamerica.com/index.php?l=product_list&c=124)
 
-[ Book Shelf](http://store.legendsofamerica.com/index.php?l=product_list&c=5)
+[ Featured Items](http://store.legendsofamerica.com/index.php?l=product_list&c=featured)
 
-[ History Tech](http://store.legendsofamerica.com/index.php?l=product_list&c=174)  
-[ Postcard Rack](http://store.legendsofamerica.com/index.php?l=product_list&c=11)
+[ Sale Items](http://store.legendsofamerica.com/index.php?l=product_list&c=specials)
+
+[ Books/Magazines](http://store.legendsofamerica.com/index.php?l=product_list&c=5)
+
+[ CD's - DVD's](http://store.legendsofamerica.com/index.php?l=product_list&c=174)
+
+[ Nuwati Herbals](http://store.legendsofamerica.com/index.php?l=product_list&c=6)
+
+[ Personalized-Engraved](http://store.legendsofamerica.com/index.php?l=product_list&c=167)  
+[ Postcards](http://store.legendsofamerica.com/index.php?l=product_list&c=11)
 
 [ Wall Art](http://store.legendsofamerica.com/index.php?l=product_list&c=172)
 
@@ -90,7 +98,7 @@ and [Much More](http://www.store.legendsofamerica.com/)!
 
 [Legends' Photo Prints ](http://photos.legendsofamerica.com/)
 
-[ ](http://photos.legendsofamerica.com/)  
+**[ ](http://photos.legendsofamerica.com/)**  
  
 
 [Ghost Town Prints](http://photos.legendsofamerica.com/ghosttowns)
@@ -100,6 +108,18 @@ and [Much More](http://www.store.legendsofamerica.com/)!
 [Old West Prints](http://photos.legendsofamerica.com/oldwest)
 
 [Route 66 Prints](http://photos.legendsofamerica.com/route66)
+
+[States, Cities & Places](http://photos.legendsofamerica.com/statesplaces)
+
+[Nostalgic Prints](http://photos.legendsofamerica.com/nostalgic-20thcentury)
+
+[Photo Art Prints](http://photos.legendsofamerica.com/photoart)
+
+[Jim Hinckley's America](http://photos.legendsofamerica.com/jimhinckleysamerica)
+
+[David Fisk (Lens of Fisk)](http://photos.legendsofamerica.com/davidfisk)
+
+[Specials-Gift Ideas](http://photos.legendsofamerica.com/specials-gifts)
 
 and [Much More!](http://photos.legendsofamerica.com/main)!  
  
@@ -149,11 +169,11 @@ We may also use other third-party advertising companies to serve ads when you vi
 **Contact Information**  
  
 
-Legends of America  abides by the laws and guidelines of the Internet. We welcome any inquiries as to the use of collected information and cookies, product capabilities, or company methods and practices. If you have any questions, comments or corrections regarding personally identifiable information obtained through us, please e-mail to us at  [kathy@legendsofamerica.com](mailto:kathy@legendsofamerica.com).  You may also contact us at Legends of America,  28926 Cedar Hill Loop , Warsaw, MO 65355, 660-723-2550
+Legends of America  abides by the laws and guidelines of the Internet. We welcome any inquiries as to the use of collected information and cookies, product capabilities, or company methods and practices. If you have any questions, comments or corrections regarding personally identifiable information obtained through us, please e-mail to us at  [kathy@legendsofamerica.com](mailto:orders@legendsofamerica.com).  You may also contact us at Legends of America,  28926 Cedar Hill Loop , Warsaw, MO 65355, 660-723-2550
 
 We **DO NOT** sell or rent any of the information kept in our database.     
   
-[ ](http://www.legendsofamerica.com/)[Dave and Kathy](http://www.legendsofamerica.com/aboutus.html), owners of _[Legends of America](http://www.legendsofamerica.com/)_ , and the only "employees" of this small business, want to send out a big _**Thank You**_ to all of our readers and customers! It's your support of [Legends' General Store](http://store.legendsofamerica.com/) and our [Photo Shop](http://photos.legendsofamerica.com/) that keeps us alive and continuing to provide our website content, [newsletter](http://www.legendsofamerica.com/newsletter.html), and [ blog](http://legendsofamerica.blogspot.com/) for free. We also love your feedback on our [guestbook](http://www.legendsofamerica.com/guestbook.html)  and the many the contributions and contributions to our pages that many of you provide. 
+[ ](http://www.legendsofamerica.com/)[Dave and Kathy](http://www.legendsofamerica.com/aboutus.html), owners of _[Legends of America](http://www.legendsofamerica.com/)_ , and the only "employees" of this small business, want to send out a big _**Thank You**_ to all of our readers and customers! It's your support of [Legends' General Store](http://store.legendsofamerica.com/) and our [Photo Shop](http://photos.legendsofamerica.com/) that keeps us alive and continuing to provide our website content, [newsletter](http://www.legendsofamerica.com/newsletter.html), and [ blog](http://legendsofamerica.blogspot.com/) for free. We also love your feedback on our [guestbook](http://www.legendsofamerica.com/guestbook.html)  and the contributions to our pages that many of you provide.
 
 We just can't tell you how much we appreciate you! Thanks a whole big bunch!  
   
