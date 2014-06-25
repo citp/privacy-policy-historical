@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the zello.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215030710id_/http%3A//zello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zello.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101459id_/http%3A//www.zello.com/privacy) for the most accurate reproduction.*
 
 # Zello. Live conversations.
 
-We value your privacy. This Privacy Policy applies to your usage of the software and services provided by Zello Inc ("Services"). We only collect your information in order to improve the Services and will never sell or share your information with other legal entities for commercial purposes,except in the cases when it's required as a part of the Services you requested. 
+We value your privacy. This Privacy Policy applies to your usage of the software and services provided by Zello Inc ("Services"). We only collect your information in order to improve the Services and will never sell or share your information with other legal entities for commercial purposes,except in the cases when it's required as a part of the Services you requested.
 
 ### The information we collect and how we use it
 
   1. **The information you provide**  
-During the registration or your use of the Services we ask you for your personal data such as name, e-mail address, billing information. We use that information to provision the Services, contact you when necessary, and improve the Services. 
+During the registration or your use of the Services we ask you for your personal data such as name, email address, billing information. We use that information to provision the Services, contact you when necessary, and improve the Services. 
   2. **Cookies**  
 Cookies are a small piece of data used to exchange information between your browser and the server. We use cookies to store your session identifier. The server erases your cookies when you log out. We may use the permanent cookies to store some of your preferences, such as user interface language. 
   3. **Server logs**  
