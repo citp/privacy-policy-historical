@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tortugabackpacks.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814235913id_/http%3A//www.tortugabackpacks.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tortugabackpacks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054809id_/http%3A//www.tortugabackpacks.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tortuga Backpacks
+# Privacy Policy
 
 ****Section**  1 - What Do We Do With Your Information?**
 
@@ -20,13 +20,13 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at contact@tortugabackpacks.com or mailing us at:
+If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by [contacting us](http://www.tortugabackpacks.com/pages/contact "Contact Tortuga Backpacks") or mailing us at:
 
 Tortuga Backpacks
 
-2055 Rodney Dr., #209
+340 S. Lemon Ave. #7616
 
-Los Angeles, California, US, 90027
+Walnut, CA 91789
 
 ****Section**  3 - Disclosure**
 
@@ -100,12 +100,10 @@ If our store is acquired or merged with another company, your information may be
 
 **Questions and Contact Information**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information, contact our Privacy Compliance Officer at contact@tortugabackpacks.com or by mail at
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information, contact our Privacy Compliance Officer via our [Contact page](http://www.tortugabackpacks.com/pages/contact "Contact Tortuga Backpacks") or by mail at
 
 Tortuga Backpacks
 
-Re: Privacy Compliance Officer
+340 S. Lemon Ave. #7616
 
-2055 Rodney Dr., #209
-
-Los Angeles, California, US, 90027
+Walnut, CA 91789
