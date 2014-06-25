@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808002208id_/http%3A//hays.co.uk/PrivacyPolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113034id_/http%3A//hays.co.uk/PrivacyPolicy/index.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Hays - Recruiting experts worldwide
+# Privacy Policy | Hays
 
 If you're looking for information about how to have your details removed from Hays.co.uk, [please refer to our FAQs](https://web.archive.org/features/HAYS_008297).
 
@@ -17,20 +17,35 @@ Hays Specialist Recruitment Limited is registered as a data controller in the Un
 We will collect data about you, both personal data (such as your name and contact details) and also sensitive personal data (such as information in your CV). The personal data and sensitive personal data will be stored, processed, used and disclosed by us in the following ways:
 
   * To provide our recruitment services to you and to facilitate the recruitment process
+
   * To assess data about you against vacancies which we judge may be suitable for you
+
   * To send your information to clients in order to apply for jobs or to assess your eligibility for jobs
+
   * To enable you to submit your CV, apply online for jobs or to subscribe to alerts about jobs we think may be of interest to you
+
   * To allow you to participate in specialist online training services
+
   * To allow you to participate in interactive features of our service when you choose to do so
+
   * To market our, full range of recruitment services to you (permanent, temporary, contract, outplacement and recruitment process outsourcing services)
+
   * To enable us to develop and market other products and services and where you have consented to being contacted for such purposes
+
   * To improve our customer service and to make our services more valuable to you (including tailoring our website and our group companies websites when you log on to enrich your personal online experience)
+
   * To send you details of reports, promotions, offers, networking and client events and general information about the industry sectors which we think might be of interest to you where you have consented to being contacted for such purposes
+
   * To answer your questions and enquiries
+
   * To third parties where we have retained them to provide services that you or our client have requested, such references, qualifications and criminal reference checking services, verification of the details you have provided from third party source, psychometric evaluation or skill test
+
   * To regulatory or law enforcement agencies if we believe in good faith that we are required by law to disclose it in connection with the detection of crime, the collection of taxes or duties, in order to comply with any applicable law or order of a court of competent jurisdiction, or in connection with legal proceedings
+
   * To use your information on an anonymised basis to monitor compliance with our equal opportunities policy
+
   * To carry out our obligations arising from any contracts entered into between you and us
+
 
 
 
@@ -66,7 +81,7 @@ We also collect information about the way jobseekers and visitors use this websi
 
 ### Cookies
 
-**1\. What are cookies?**  
+ **1\. What are cookies?**  
 A "cookie" is a piece of information that is stored on your computer's hard drive and which records your navigation of a website so that, when you revisit that website, it can present tailored options to you based upon the stored information about your last visit. You can normally alter the settings of your browser to prevent acceptance of cookies.  
 Cookies are used by nearly all websites and do not harm your system. 
 
@@ -79,30 +94,30 @@ There are different kinds of cookies with different functions:
 
 **Session cookies:** these are only stored on your computer during your web session. They are automatically deleted when the browser is closed. They usually store an anonymous session ID allowing you to browse a website without having to log in to each page. They do not collect any information from your computer.
 
-**Persistent cookies:** a persistent cookie is one stored as a file on your computer, and it remains there when you close your web browser. The cookie can be read by the website that created it when you visit that website again. We use persistent cookies for Google Analytics (see section 6on Google Analytics) and for personalisation cookies (see section 7 on Personalisation Cookies). 
+ **Persistent cookies:** a persistent cookie is one stored as a file on your computer, and it remains there when you close your web browser. The cookie can be read by the website that created it when you visit that website again. We use persistent cookies for Google Analytics (see section 6on Google Analytics) and for personalisation cookies (see section 7 on Personalisation Cookies). 
 
 The only third party cookies we use on our site are Google Analytics (please see section6 on Google Analytics)
 
 The cookies we use are explained below:
 
-**3\. Strictly necessary cookies**  
+ **3\. Strictly necessary cookies**  
 These cookies are essential to enable you to use the site effectively such as applying for a job and therefore cannot be turned off.Without these cookies, the services available to you on our site cannot be provided. These cookies do not gather information about you that could be used for marketing or remembering where you have been on the internet.
 
-**4\. Performance cookies**  
+ **4\. Performance cookies**  
 These cookies enable us to monitor and improve the performance of our site. For example they allow us to count visits, identify traffic sources and see which parts of the site are most popular. We use Google analytics for this purpose (see section 6) and all information these cookies collect is aggregated and therefore remains anonymous.These cookies do not collect information that identifies a visitor, as all information these cookies collect is anonymous and is only used to improve how our site works. 
 
-**5\. Functionality cookies**  
+ **5\. Functionality cookies**  
 These cookies allow our website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced features. For instance, a website may be able to provide you with news or updates relevant to the policies you buy. These cookies can also be used to remember changes you have made to text size, font and other parts of web pages that you can customise. They may also be used to provide services you have requested such as viewing a video or commenting on a blog. The information these cookies collect is usually anonymised. 
 
 **6\. Google Analytics**  
 This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. Google uses the __utma cookie. This is a persistent cookie that expires in two years. With each new visit, the expiration date is refreshed. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-**7\. Personalisation cookies**  
+ **7\. Personalisation cookies**  
 This website uses personalisation cookies which help us to advertise to you jobs that we think may be of interest. These cookies are persistent (see section 2 above) and mean that when you log in or return to the website you may see advertising for jobs that are similar to jobs that you have previously browsed.
 
 For information on how to reject these personalisation cookies, see section 8 below.
 
-**8\. How to reject cookies**  
+ **8\. How to reject cookies**  
 If you don’t wish to receive cookies that are not strictly necessary to perform basic features of our site you may choose to opt out of them by selecting the appropriate box on the top right hand side of this page.
 
 Note that most web browsers will accept cookies, but if you would rather that we did not collect data in this way you can choose to accept all or some or reject cookies in your browser's privacy settings. Rejecting all cookies means that certain features cannot then be provided to you and accordingly you may not be able to take full advantage of all our website's features. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. 
@@ -120,4 +135,4 @@ Any changes to this Privacy Policy will be posted on this website so you are alw
 * * *
 
   
-© Hays Specialist Recruitment 2000 - 2013. All rights reserved.
+© Hays Specialist Recruitment 2000 - 2014. All rights reserved.
