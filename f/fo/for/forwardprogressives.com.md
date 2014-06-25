@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forwardprogressives.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116030802id_/http%3A//www.forwardprogressives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forwardprogressives.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625182944id_/http%3A//www.forwardprogressives.com/privacy-policy) for the most accurate reproduction.*
 
-# Forward Progressives — Privacy Policy
+# Privacy Policy - Forward Progressives
 
 This Privacy Policy governs the manner in which Forward Progressives LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.forwardprogressives.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Forward Progressives LLC.
 
