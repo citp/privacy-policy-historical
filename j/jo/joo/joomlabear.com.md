@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlabear.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926094326id_/http%3A//joomlabear.com/Latest/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlabear.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625145435id_/http%3A//joomlabear.com/Latest/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy-Joomla Bear
 
@@ -28,11 +28,11 @@ Kind regards,
 
 Big Bear 
 
-Free porn Movies, HD porn tube [gratis porno](http://www.wichstube.com/ "gratis porno") And German porn movies HD videos. Best Videos and High Quailty Porn All Locations Supported. And German sex videos [porn](http://www.pornep.com/ "pornep") Fuck movies [german porno](http://www.freigermanpornos.com/ "german porno"), You porn videos [porn videos](http://www.redhotsexy.com/ "porn videos"), Sex Videos [free porn videos](http://www.pornwet.com/ "free porn videos"), i like porn videos [porn](http://www.pornzr.com/ "porn") Und Beste porno filme , germany videos [porno](http://www.pornodeu.com/ "porno") , neu german porns [neu pornos](http://www.neuporno.com/ "neu pornos")
+Free porn Movies, HD porn tube [gratis porno](http://www.langeporno.com/ "gratis porno") And German porn movies HD videos. Best Videos and High Quailty Porn All Locations Supported. And German sex videos [porn](http://www.pornep.com/ "pornep") Fuck movies [german porno](http://www.freigermanpornos.com/ "german porno"), You porn videos [porn videos](http://www.redhotsexy.com/ "porn videos"), Sex Videos [free porn videos](http://www.pornwet.com/ "free porn videos"), i like porn videos [porn](http://www.pornzr.com/ "porn") Und Beste porno filme , germany videos [porno](http://www.pornodeu.com/ "porno") , neu german porns [neu pornos](http://www.neuporno.com/ "neu pornos")
 
 ### Who's Online
 
-We have 185 guests and 5 bears online 
+We have 161 guests and 1 bear online 
 
 ### Joomla Template Blog
 
