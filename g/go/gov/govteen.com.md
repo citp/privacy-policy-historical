@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the govteen.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405021049id_/http%3A//forums.govteen.com/content.php%3Fr%3D18-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govteen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081830id_/http%3A//forums.govteen.com/content.php%3Fr%3D18-Privacy-Policy) for the most accurate reproduction.*
 
 # GovTeen Forums - Privacy Policy
 
 | 
-
-  
-*Ads disappear after 100 posts!* 
 
   * **GovTeen is committed to safeguarding your privacy online.** Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time, so please check back periodically. If you have any comments or questions about any of the below, please contact a member of the GovTeen staff. **Our promise to you...  
 **
@@ -103,60 +100,77 @@
 
   * ###  Recent Threads
 
-[ ](http://forums.govteen.com/members/mysteries/)
+[ ](http://forums.govteen.com/members/jfh332000/)
 
-####  [Attracted to You](http://forums.govteen.com/gay-lesbian-bisexual-transgender-questioning-community/367119-attracted-you.html)
+####  [Cross breed video games](http://forums.govteen.com/govteen-games/379130-cross-breed-video-games.html)
 
-Thread Starter: [Mysteries](http://forums.govteen.com/members/mysteries/)
+Thread Starter: [jfh332000](http://forums.govteen.com/members/jfh332000/)
 
-What are the best hints that a guy friend/acquaintance might actually be (homo-sexually) attracted to you rather than wanting to be just friends?
+This game is about cross breeding video games here is an example
 
-Last Post By: [Mysteries](http://forums.govteen.com/members/mysteries/) Today, 10:04 PM [](http://forums.govteen.com/gay-lesbian-bisexual-transgender-questioning-community/367119-attracted-you.html#post6443041)
+roblox+minecraft=rocraft or mineblox
 
-[ ](http://forums.govteen.com/members/echo304/)
+it doent have to be just
 
-####  [Time Preference](http://forums.govteen.com/countdown-forum/367117-time-preference.html)
+Last Post By: [jfh332000](http://forums.govteen.com/members/jfh332000/) Yesterday, 10:51 PM [](http://forums.govteen.com/govteen-games/379130-cross-breed-video-games.html#post6708118)
 
-Thread Starter: [Echo304](http://forums.govteen.com/members/echo304/)
+[ ](http://forums.govteen.com/members/manjam5/)
 
-Ok all, as the title says, what style of time are you most comfortable in?
+####  [My apologies!](http://forums.govteen.com/epitome-hyperbole/379129-my-apologies.html)
 
-12 or 24 hour?
+Thread Starter: [Manjam5](http://forums.govteen.com/members/manjam5/)
 
-Personally, I am a 24 hour guy.
+Sorry for not posting recently! I spilled some water on my laptop and I'm having it repaired... Silly me :/
 
-Last Post By: [AC/DShe](http://forums.govteen.com/members/ac-dshe/) Today, 09:39 PM [](http://forums.govteen.com/countdown-forum/367117-time-preference.html#post6443012)
+Last Post By: [Ezra](http://forums.govteen.com/members/ezra/) Yesterday, 10:19 PM [](http://forums.govteen.com/epitome-hyperbole/379129-my-apologies.html#post6708107)
 
-[ ](http://forums.govteen.com/members/devyn704/)
+[ ](http://forums.govteen.com/members/nick/)
 
-[ ](http://forums.govteen.com/members/renegade16/)
+[ ](http://forums.govteen.com/members/dragonflyboy/)
 
-####  [Masturbation Question](http://forums.govteen.com/boys-puberty/367115-masturbation-question.html)
+####  [Too Young For College?](http://forums.govteen.com/school-careers-college-university-planning/379126-too-young-college.html)
 
-Thread Starter: [Renegade16](http://forums.govteen.com/members/renegade16/)
+Thread Starter: [DragonflyBoy](http://forums.govteen.com/members/dragonflyboy/)
 
-Does anyone else get a better sensation when masturbating and cumming, then waiting 10 minutes and getting a better feeling the second time? Just wondering
+I will have enough credits to graduate when I'm 15 and want to go to college to become a meteorologist. Some of my friends think I should wait so my classmates
 
-Last Post By: [rocknroller](http://forums.govteen.com/members/rocknroller/) Today, 09:18 PM [](http://forums.govteen.com/boys-puberty/367115-masturbation-question.html#post6442989)
+Last Post By: [Jade Chan](http://forums.govteen.com/members/jade+chan/) Today, 03:08 AM [](http://forums.govteen.com/school-careers-college-university-planning/379126-too-young-college.html#post6708164)
 
-[ ](http://forums.govteen.com/members/optid/)
+[ ](http://forums.govteen.com/members/lostindarkness/)
 
-[ ](http://forums.govteen.com/members/b387/)
+####  [How do you hold in a fart?](http://forums.govteen.com/health-discussion/379125-how-do-you-hold-fart.html)
+
+Thread Starter: [LostInDarkness](http://forums.govteen.com/members/lostindarkness/)
+
+This is a question for the guys, how do you guys hold in a fart lets say in school or if you're on a date? I seriously don't know how and I kinda need
+
+Last Post By: [josie100](http://forums.govteen.com/members/josie100/) Yesterday, 07:49 PM [](http://forums.govteen.com/health-discussion/379125-how-do-you-hold-fart.html#post6708027)
+
+[ ](http://forums.govteen.com/members/ozzy89/)
+
+####  [Girls and Pubes 13-16 years](http://forums.govteen.com/surveys-polls/379124-girls-pubes-13-16-years.html)
+
+Thread Starter: [ozzy89](http://forums.govteen.com/members/ozzy89/)
+
+I have seen a few girls naked now, and all have had pubes at different stages. Where do you fit in on the image assuming you don't shave/wax/trim.
+
+Last Post By: [ozzy89](http://forums.govteen.com/members/ozzy89/) Yesterday, 01:12 PM [](http://forums.govteen.com/surveys-polls/379124-girls-pubes-13-16-years.html#post6707835)
 
 
 
 
+  
 *Ads disappear after 100 posts!* 
 
-All times are GMT -4. The time now is 10:10 PM.
+All times are GMT -4. The time now is 04:18 AM.
 
 | 
 
 Powered by [vBulletin®](https://www.vbulletin.com/)   
-Copyright © 2013 vBulletin Solutions, Inc. All rights reserved.   
+Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.   
 Search Engine Friendly URLs by [vBSEO](http://www.crawlability.com/vbseo/)
 
-Copyright ©1998-2012 GovTeen Forums / The GovTeen Network 
+Copyright ©1998-2013 GovTeen Forums / The GovTeen Network 
 
 |  |   
 ---|---|---
