@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopgoodwill.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127100358id_/http%3A//www.shopgoodwill.com/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopgoodwill.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112543id_/http%3A//www.shopgoodwill.com/policies/privacy.asp) for the most accurate reproduction.*
 
 # shopgoodwill.com -- Privacy Policy
 
@@ -20,4 +20,4 @@ shopgoodwill.com uses secure server software (SSL) to encrypt all personal infor
 **Your consent**  
 By using our Web site, you consent to the collection and use of this information by shopgoodwill.com. shopgoodwill.com reserves the right to change our privacy policy at any time. If we decide to change our privacy policy, a revised copy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-Copyright © 2013 Goodwill of Orange County. All rights reserved. Use of this website constitutes acceptance of the _shop_ goodwill.com Bidders and Sellers Agreements. 
+Copyright © 2014 Goodwill of Orange County. All rights reserved. Use of this website constitutes acceptance of the _shop_ goodwill.com Bidders and Sellers Agreements. 
