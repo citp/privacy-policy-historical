@@ -1,350 +1,759 @@
-<!--The following is the downloaded HTML source of the scoutmob.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602150625id_/http%3A//scoutmob.com/policies%3Fref%3Dftr_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scoutmob.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625082201id_/http%3A//scoutmob.com/privacy%3Fref%3Dftr_privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head prefix="og: http://ogp.me/ns# scoutmob: 
-                  http://ogp.me/ns/apps/scoutmob#">
+<!DOCTYPE html><html><head>
+<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/62ed1b68053c32060ba514547418db834b7e41c8.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://triggeredmail.appspot.com/triggermail.js/scoutmob.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"c5da231f08","applicationID":"709428","transactionName":"cQkKTBFaD1QEQEkQFEADARcTVARdEh1ODBBaAxYR","queueTime":0,"applicationTime":29,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAQCWFdADwMJUFNa"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>inspired goods by independent makers | handmade jewelry | t-shirts | unique gifts - Scoutmob Shoppe</title>
 
-  <meta charset="utf-8">
-
-  <title>Scoutmob Atlanta - mobile deals for the local curious</title>
-  <meta name="viewport" content="width=1008">
-  <meta name="apple-itunes-app" content="app-id=346700012, app-argument=">
-  <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="R6/o2VbZvGCip/NtevTwojegwu3bJXBF9BFOCfCLhp0=">
-  
-
-  <link rel="alternate" type="application/rss+xml" title="Scoutmob Deals RSS Feed" href="http://feeds.feedburner.com/scoutmob">
-
-  
-  <meta property="twitter" content="@scoutmob">
-  <link rel="alternate" type="application/rss+xml" title="Scoutmob Deals RSS Feed" href="http://feeds.feedburner.com/scoutmob/atl">
-  
-
-  
-
-  <link href="http://local-static.scoutmob.com/assets/general.css?1369400303" media="screen" rel="stylesheet" type="text/css">
-  
-
-  
-  <script type="text/javascript" src="//use.typekit.net/wdv4pqc.js"></script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  <script src="http://local-static.scoutmob.com/assets/modernizr.js?1369400302" type="text/javascript"></script>
-</head>
-<body class="">
+    <link href="/assets/shoppe_v3/all-763484a7ae247ef48982eb8ea2e50b14.css" media="screen" rel="stylesheet" type="text/css">
+    <script src="/assets/store/all-ceec627f706e1932aaad992296108efa.js" type="text/javascript"></script>
+      <link href="/assets/base/privacy-fd8f00cbb2a006b92f75da7f980414a7.css" media="screen" rel="stylesheet" type="text/css">
 
 
-<header id="global-header">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1" name="viewport">
+    <meta content="scoutmob, shoppe, local, boutique, arts, crafts" name="keywords">
+<meta content="SHOPPE is our showcase of independent makers and inspired goods. We feature these makers and their personal behind-the-scenes stories, selling their creations to our curious consumers. From handmade jewelry to craft furnishings and artisan products, we're connecting those pieces that come with extra authenticity and personality to your life and home. " name="description">
+    <meta content="authenticity_token" name="csrf-param">
+<meta content="MsPGgRG8fygfvNnxUzo7t6JJVGYNmboS8u1TD4UKR8A=" name="csrf-token">
+    <link href="/assets/favicon-d4c0758f902576b3ee72c58c22b273dc.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+    <!--[if lt IE 9]>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6/html5shiv.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="//use.typekit.net/ufz2cwd.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
-  <div id="top-bar">
-    <div id="top-bar-right"></div>
-
-    <div class="container">
-      <img alt="Looking for inspired goods? Find those here." src="http://local-static.scoutmob.com/images/gnav/LookingForGoods_topbar.png?1363669123">
-      Connecting you to the best of independent merchants &amp; makers
-      <a href="#" id="top-bar-shoppe-close">Close</a>
-    </div>
-  </div>
-
-  <div id="top-nav">
-    <div class="container">
-      
-      <a href="http://scoutmob.com?ref=glob_tab_shp" class="nav-shoppe">Shoppe</a>
-      <a href="http://scoutmob.com/atlanta?ref=glob_tab_golocal" class="nav-local">Local</a>
-
-      
-      <a href="http://scoutmob.com/mobile?ref=hdr_mobile" class="mobile">Download our Mobile App</a>
-      <a href="#signup" class="join-the-mob">Join Scoutmob</a>
-      <a href="http://scoutmob.com/what-is-scoutmob?ref=hdr_whatis" class="what-is-scoutmob">What is Scoutmob?</a>
-    </div>
-  </div>
-
-  <div id="site-nav">
-    <div class="container">
-      
-      <a href="http://scoutmob.com/atlanta?ref=hdr_logo" class="logo">Scoutmob</a>
-
-      
-      <nav class="site-nav">
-        <ul>
-          <li><a href="http://scoutmob.com/atlanta/deals?ref=hdr_deals" class="geo enabled"><span><b>Mobile Deals - Free Local Incentives</b></span></a></li>
-          <li><a href="http://scoutmob.com/atlanta/scoutfinds?ref=hdr_articles" class="articles enabled"><span><b>Article &amp; Events - Local Happenings</b></span></a></li>
-          <li><a href="https://handpicked.scoutmob.com/atlanta/hand-picked?ref=hdr_hp" class="hand-picked enabled"><span><b>Hand-Picked - Curated Local Experiences</b></span></a></li>
-        </ul>
-      </nav>
-
-      
-      <nav class="city-nav" data-city="atlanta">
-        <a href="#">Atlanta<b></b></a>
-        <ul>
-          
-            <li><a href="http://scoutmob.com/atlanta?ref=hdr_city">Atlanta</a></li>
-          
-            <li><a href="http://scoutmob.com/austin?ref=hdr_city">Austin</a></li>
-          
-            <li><a href="http://scoutmob.com/boston?ref=hdr_city">Boston</a></li>
-          
-            <li><a href="http://scoutmob.com/chicago?ref=hdr_city">Chicago</a></li>
-          
-            <li><a href="http://scoutmob.com/dallas?ref=hdr_city">Dallas</a></li>
-          
-            <li><a href="http://scoutmob.com/denver?ref=hdr_city">Denver</a></li>
-          
-            <li><a href="http://scoutmob.com/los-angeles?ref=hdr_city">Los Angeles</a></li>
-          
-            <li><a href="http://scoutmob.com/nashville?ref=hdr_city">Nashville</a></li>
-          
-            <li><a href="http://scoutmob.com/new-york?ref=hdr_city">New York</a></li>
-          
-            <li><a href="http://scoutmob.com/portland?ref=hdr_city">Portland</a></li>
-          
-            <li><a href="http://scoutmob.com/san-francisco?ref=hdr_city">San Francisco</a></li>
-          
-            <li><a href="http://scoutmob.com/seattle?ref=hdr_city">Seattle</a></li>
-          
-            <li><a href="http://scoutmob.com/washington-dc?ref=hdr_city">Washington, DC</a></li>
-          
-        </ul>
-      </nav>
-    </div>
-  </div>
-</header>
-
-
-
-
-<div id="main-container">
-  <div id="main">
+    <!-- KISSmetrics -->
+<script type="text/javascript">var _kmq = _kmq || [];
+var _kmk = _kmk || '62ed1b68053c32060ba514547418db834b7e41c8';
+function _kms(u){
+  setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0],
+    s = d.createElement('script');
+    s.type = 'text/javascript'; s.async = true; s.src = u;
+    f.parentNode.insertBefore(s, f);
+  }, 1);
+}
+_kms('//i.kissmetrics.com/i.js');
+_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script>
+  <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+  <body class="" id="privacy-index" data-hook="body">
     
-    <div id="policies">
-  <h1>PRIVACY POLICY</h1>
-
-  <p>By downloading and using the Scoutmob mobile application or visiting or using the www.scoutmob.com website and domain name, any other linked pages, features, content, mobile applications, and any other services we offer from time to time in connection with any of the foregoing (collectively, the "Website"), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy.
-
-  </p><p>This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Website. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage, even if you have accessed the websites or services of those companies through our Website.
-
-  </p><p>Whenever you interact with our Application or Website, we automatically receive and record information on our server logs from your mobile device and/or browser including your mobile device universal ID#, IP address, “cookie” information, and the page you requested. “Cookies” are identifiers we transfer to your computer or device that allow us to recognize your browser or device and tell us how and when pages in our Website are visited and by how many people.
-
-  </p><p>When we collect usage information (such as the numbers and frequency of visitors to the Website and to which pages within the Website), we only use such data in aggregate form, in a manner that assures your anonymity. We may provide this aggregate usage information to our partners; our partners may use such information to understand how often and in what ways people use our Website, so that our partners, too, can endeavor to provide you with an optimal online experience. For example, we may place a cookie on your device that records what products you have viewed on our Website, and then provide that information, in non- personally-identifiable form, to a third party website, to allow such website to show you ads for similar products that are available from us or from third parties.
-
-  </p><p>We will contact you by push notification, email or other means. If you do not want to receive email or other mail from us, please indicate your preference by changing your account settings accordingly.</p>
-
-  <p>We neither rent nor sell your Personal Information in personally identifiable form to anyone. We share your Personal Information in personally identifiable form with third parties only as described below:</p>
-
-  <ul>
-    <li>In certain situations, businesses or third party websites we’re affiliated with may provide services to you through the Website (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that we deem it related to such transaction or service.</li>
-
-    <li>We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Our agents do not have any right to use the Personal Information we share with them beyond what we deem necessary to assist us in performing such tasks.</li>
-
-    <li>We may release Personal Information when we believe in good faith that release is necessary to comply with laws; enforce or apply our conditions of use and/or other agreements; or protect the rights, property, or safety of Scoutmob, our employees, our users, or others. We may exchange information with other companies and organizations (including governmental authorities) for fraud protection and credit risk reduction.</li>
-  </ul>
-
-  <p>Except as set forth in this Privacy Policy, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.</p>
-
-  <p>The Website may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.</p>
-
-  <p>Scoutmob offers Facebook users the opportunity to interact with friends and to share on Facebook using Facebook Connect. If you are logged into both Scoutmob and Facebook, when you use the Site’s Facebook connection functions, we will link your Facebook account with your Scoutmob account if the email addresses match. If the email addresses do not match, we ask you if you want to link them and you must validate that you control the accounts. If you are already logged into Scoutmob but not logged into Facebook, when you use the Site’s Facebook connection functions, you will be prompted to enter your Facebook credentials or to sign up for Facebook. By proceeding through any of these scenarios, you grant Scoutmob permission to access your Facebook profile information and to use it in accordance with the Facebook terms of use and this Privacy Statement. If you are not currently registered as a Scoutmob user and you use the Site’s Facebook connection functions, you will first be asked to enter your Facebook credentials and then be given the option to register and join Scoutmob. Once you register with Scoutmob and connect with Facebook, you will be able to automatically post recent Scoutmob activity back to your Facebook wall. Please refer to the privacy settings in your Facebook account to manage the performance of your Facebook account.</p>
-
-  <p>Public Content: Your reviews, ratings, and associated email address or social network profile (including your first and last name, screen name, profile picture, general location, and profile link) for social networks that you have authorized the Site or App to access, along with other content you post to the Site are meant for public consumption. We may display this content on the Site, and further distribute it to a wider audience through third party sites and services.</p>
-
-  <p>If you have any questions or concerns regarding privacy, please contact us at <a href="mailto:fannypack@scoutmob.com">fannypack@scoutmob.com</a>. Your privacy is important to us and we will make every effort to resolve your concerns.</p>
-
-</div>
-
+      <div class="top-mobile visible-phone">
+  <div class="top-mobile__container">
+    <a href="#nav" id="mobile-subnav-toggle" class="top-mobile__subnav" data-toggle="collapse">Explore</a>
+    <a href="/cart" id="mobile-subnav-checkout" class="top-mobile__checkout">Checkout</a>
+    <a href="/?ref=glob_tab_shp" class="top-mobile__shoppe">Shoppe</a>
   </div>
 </div>
-
-
-
-<footer id="global-footer">
-  <div class="footer-container">
-    <div class="footer-content">
-      <div class="footer-inner">
-        <div class="left-col">
-          <ul class="about-links">
-            <li><a href="http://scoutmob.com/what-is-scoutmob?ref=ftr_about">About</a></li>
-            <li><a href="http://scoutmob.com/faq?ref=ftr_faq">FAQS</a></li>
-            <li><a href="http://jobs.scoutmob.com" target="_blank">Careers</a></li>
-            <li><a href="http://scoutmob.tumblr.com" target="_blank">Blog</a></li>
-            <li><a href="http://mobrumblings.tumblr.com" target="_blank">Press</a></li>
-            <li><a href="http://scoutmob.com/policies?ref=ftr_policy">Privacy</a></li>
-            <li><a href="http://scoutmob.com/contact?ref=ftr_contact">Contact</a></li>
-          </ul>
-
-          
-          
-          <section class="local-links">
-            <h3><a href="http://scoutmob.com/atlanta?ref=ftr_local">Scoutmob - Local</a></h3>
-
-            <ul class="site-links">
-              <li><a href="http://scoutmob.com/atlanta/deals?ref=ftr_deals">Mobile Deals</a></li>
+<nav id="nav" class="nav visible-phone">
+  <ul>
+    <li>
+      <a href="/new" class="nav__item nav__item--new ">New</a>
+    </li>
+      <li>
+        <a href="/t/womens" class="nav__item nav__item--womens ">Women's</a>
+      </li>
+      <li>
+        <a href="/t/mens" class="nav__item nav__item--mens ">Men's</a>
+      </li>
+      <li>
+        <a href="/t/home" class="nav__item nav__item--home ">Home</a>
+      </li>
+      <li>
+        <a href="/t/food-and-drink" class="nav__item nav__item--food-and-drink ">Food &amp; Drink</a>
+      </li>
+      <li>
+        <a href="/t/art" class="nav__item nav__item--art ">Art</a>
+      </li>
+      <li>
+        <a href="/t/jewelry" class="nav__item nav__item--jewelry ">Jewelry</a>
+      </li>
+      <li>
+        <a href="/t/gifts" class="nav__item nav__item--gifts nav__item--active">Gifts</a>
+      </li>
+      <li>
+        <a href="/t/themes" class="nav__item nav__item--themes ">Collections</a>
+      </li>
+  </ul>
+</nav>
+<div class="top-bar hidden-phone affix-top" data-spy="affix" data-offset-top="100">
+  <div class="container">
+    <div class="row">
+      <div class="span3">
+        <div class="site-logo">
+          <a href="#local-nav" id="local-nav-toggle" data-toggle="modal" class="local arrow">Looking for local deals? </a>
+          <a href="http://scoutmob.com/?ref=wedding_to_shoppe" class="back-to-shoppe arrow">To Scoutmob Shoppe</a>
+          <a href="http://scoutmob.com/?ref=glob_tab_shp" class="shoppe">Shoppe</a>
+          <a href="http://scoutmob.com/?ref=glob_logo" class="sm-tag tag">Scoutmob</a>
+        </div>
+      </div>
+      <div class="span9 user-menus">
+        <div id="minicart" class="minicart hidden-phone pull-right"></div>
+        <div id="site-actions" class="pull-right"></div>
+        <div id="global-search" class="pull-right">
+          <div class="site-search-container">
+            <a href="#" class="kill-search search-toggle">Close Search</a>
+            <form accept-charset="UTF-8" action="/products" autocomplete="off" class="form-inline" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+              <input id="sort" name="sort" type="hidden" value="search">
               
-                <li><a href="http://scoutmob.com/atlanta/scoutfinds?ref=ftr_articles">Articles &amp; Events</a></li>
-              
-              
-                <li><a href="https://handpicked.scoutmob.com/atlanta/hand-picked?ref=ftr_hp">Hand-Picked</a></li>
-              
-            </ul>
-
-            <h4>Cities</h4>
-            <ul>
-              
-                <li><a href="http://scoutmob.com/atlanta?ref=ftr_city">Atlanta</a></li>
-              
-                <li><a href="http://scoutmob.com/austin?ref=ftr_city">Austin</a></li>
-              
-                <li><a href="http://scoutmob.com/boston?ref=ftr_city">Boston</a></li>
-              
-                <li><a href="http://scoutmob.com/chicago?ref=ftr_city">Chicago</a></li>
-              
-                <li><a href="http://scoutmob.com/dallas?ref=ftr_city">Dallas</a></li>
-              
-                <li><a href="http://scoutmob.com/denver?ref=ftr_city">Denver</a></li>
-              
-                <li><a href="http://scoutmob.com/los-angeles?ref=ftr_city">Los Angeles</a></li>
-              
-                <li><a href="http://scoutmob.com/nashville?ref=ftr_city">Nashville</a></li>
-              
-                <li><a href="http://scoutmob.com/new-york?ref=ftr_city">New York</a></li>
-              
-                <li><a href="http://scoutmob.com/portland?ref=ftr_city">Portland</a></li>
-              
-                <li><a href="http://scoutmob.com/san-francisco?ref=ftr_city">San Francisco</a></li>
-              
-                <li><a href="http://scoutmob.com/seattle?ref=ftr_city">Seattle</a></li>
-              
-                <li><a href="http://scoutmob.com/washington-dc?ref=ftr_city">Washington, DC</a></li>
-              
-            </ul>
-
-            <div class="get-the-app">
-              <a href="http://scoutmob.com/mobile?ref=ftr_mobile">Get the App</a>
-              <span class="app-pic"></span>
-            </div>
-          </section>
-
-          
-          
-          
-          <section class="sign-up">
-            <p>Want to join in the mob? <a href="#signup" class="sign-up-btn">Sign Up</a></p>
-          </section>
-
-          
-          
-          
-          <section class="shoppe-links">
-            <h3><a href="http://scoutmob.com?ref=ftr_shp">Shoppe</a></h3>
-
-            <h4>Categories</h4>
-            <ul>
-              <li><a href="http://scoutmob.com/t/mens?ref=ftr_shp_cat">Men's</a></li>
-              <li><a href="http://scoutmob.com/t/womens?ref=ftr_shp_cat">Women's</a></li>
-              <li><a href="http://scoutmob.com/t/art?ref=ftr_shp_cat">Art</a></li>
-              <li><a href="http://scoutmob.com/t/t-shirts?ref=ftr_shp_cat">T-Shirts</a></li>
-              <li><a href="http://scoutmob.com/t/home?ref=ftr_shp_cat">Home</a></li>
-              <li><a href="http://scoutmob.com/t/gifts?ref=ftr_shp_cat">Gifts</a></li>
-              <li><a href="http://scoutmob.com/t/jewelry?ref=ftr_shp_cat">Jewelry</a></li>
-              <li><a href="http://scoutmob.com/t/gadgets?ref=ftr_shp_cat">Gadgets</a></li>
-            </ul>
-
-            <h4>Popular</h4>
-            <ul>
-              <li><a href="http://scoutmob.com/t/art?ref=ftr_shp_art">Art</a></li>
-              <li><a href="http://scoutmob.com/new?ref=ftr_shp_new">Gifts</a></li>
-              <li><a href="http://scoutmob.com/t/t-shirts?ref=ftr_shp_tshirts">T-Shirts</a></li>
-              <li><a href="http://scoutmob.com/t/jewelry?ref=ftr_shp_jewelry">Handmade Jewelry</a></li>
-              <li><a href="http://scoutmob.com/nashville/southern-lights-electric?ref=ftr_shp_lighting">Handmade Lighting</a></li>
-            </ul>
-            <div class="get-featured">
-              <a href="http://scoutmob.com/artist_signups/new?ref=ftr_getlist">Get Featured</a>
-            </div>
-          </section>
-
-          
-          
-
-          <section class="footnote">
-            <p>Made with Sweet, Sweet Love in <em>Atlanta, GA</em></p>
-            <p class="since">Since 2010</p>
-          </section>
+              <label class="ir" for="keywords">Keywords</label>
+              <input id="top-bar-search-input" name="keywords" tabindex="-1" type="search" value="">
+              <button type="submit"><i class="fa fa-search"></i> <span>Search</span></button>
+</form>          </div>
+          <a id="top-bar-search-toggle" class="search-toggle" role="button">Search <i class="fa fa-search"></i></a>
         </div>
       </div>
     </div>
   </div>
+</div>
+<div id="local-nav" class="local-nav modal hide fade" data-backdrop="">
+  <p>
+    Pick a city, any city...<br>
+    preferably the city you live in. Or at least one you really dig.
+  </p>
+  <ul>
+      <li><a href="http://scoutmob.com/atlanta?ref=hdr_city">Atlanta</a></li>
+      <li><a href="http://scoutmob.com/austin?ref=hdr_city">Austin</a></li>
+      <li><a href="http://scoutmob.com/boston?ref=hdr_city">Boston</a></li>
+      <li><a href="http://scoutmob.com/chicago?ref=hdr_city">Chicago</a></li>
+      <li><a href="http://scoutmob.com/dallas?ref=hdr_city">Dallas</a></li>
+      <li><a href="http://scoutmob.com/denver?ref=hdr_city">Denver</a></li>
+      <li><a href="http://scoutmob.com/los-angeles?ref=hdr_city">Los Angeles</a></li>
+      <li><a href="http://scoutmob.com/nashville?ref=hdr_city">Nashville</a></li>
+      <li><a href="http://scoutmob.com/new-york?ref=hdr_city">New York</a></li>
+      <li><a href="http://scoutmob.com/portland?ref=hdr_city">Portland</a></li>
+      <li><a href="http://scoutmob.com/san-francisco?ref=hdr_city">San Francisco</a></li>
+      <li><a href="http://scoutmob.com/seattle?ref=hdr_city">Seattle</a></li>
+      <li><a href="http://scoutmob.com/washington-dc?ref=hdr_city">Washington, DC</a></li>
+  </ul>
+  <a href="#" class="close-local-nav" data-dismiss="modal">X</a>
+</div>
+<div class="banner hidden-phone">
+  <div class="container site-header">
+    <div class="row">
+      <div class="free-shipping-ad span3">
+        <a href="#free-shipping-legal" data-toggle="modal">Free Shipping for orders over $100</a>
+      </div>
+      <div class="span6">
+        <strong><a href="/" class="logo">Shoppe by Scoutmob. Inspired goods by independent
+          makers.</a></strong>
+      </div>
+      <div class="span3">
+        <div class="video-button-container">
+          <a href="#" role="button" class="video-link vid-makers-button" data-video-source="//player.vimeo.com/video/82402480?api=1&amp;player_id=scoutmob-video-player">Here's to
+            the Makers</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="nav-container" data-spy="affix" data-offset-top="125">
+    <div class="container">
+      <div class="row">
+        <div class="main-navigation hidden-phone span12">
+          <nav id="nav2" class="nav">
+            <ul id="aimed-menu">
+              <li data-submenu-id="new-products-sub">
+                <a href="/new?ref=nav" class="nav-item new" data-category="new">New</a>
+                <div id="new-products-sub" class="popover">
+                  <ul>
+                        <li>
+                          <i class="fa fa-caret-right"></i>
+                          <a href="/t/womens?ref=nav" class="sub-menu-item">New Women's</a>
+                          <div class="nav-image ">
+                            <img alt="1403044357" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/44908/01_c_Scarf_Sea_FullProduct/1403044357.jpg">
+                          </div>
+                        </li>
+                        <li>
+                          <i class="fa fa-caret-right"></i>
+                          <a href="/t/mens?ref=nav" class="sub-menu-item">New Men's</a>
+                          <div class="nav-image ">
+                            <img alt="1401992861" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/44112/05_a_1401404910.226448.IMG_1062/1401992861.jpg">
+                          </div>
+                        </li>
+                        <li>
+                          <i class="fa fa-caret-right"></i>
+                          <a href="/t/home?ref=nav" class="sub-menu-item">New Home</a>
+                          <div class="nav-image default-image">
+                            <img alt="1402067010" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/44182/03_a_3-mug-pictures_(2)/1402067010.jpg">
+                          </div>
+                        </li>
+                        <li>
+                          <i class="fa fa-caret-right"></i>
+                          <a href="/t/food-and-drink?ref=nav" class="sub-menu-item">New Food &amp; Drink</a>
+                          <div class="nav-image ">
+                            <img alt="1398885182" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/42113/04_a_/1398885182.jpg">
+                          </div>
+                        </li>
+                        <li>
+                          <i class="fa fa-caret-right"></i>
+                          <a href="/t/art?ref=nav" class="sub-menu-item">New Art</a>
+                          <div class="nav-image ">
+                            <img alt="1401454896" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/43921/02_a_/1401454896.jpg">
+                          </div>
+                        </li>
+                        <li>
+                          <i class="fa fa-caret-right"></i>
+                          <a href="/t/jewelry?ref=nav" class="sub-menu-item">New Jewelry</a>
+                          <div class="nav-image ">
+                            <img alt="1402071349" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/44257/02_a_Geoflora-by-Ariana--Clare_80-(1)/1402071349.jpg">
+                          </div>
+                        </li>
+                  </ul>
+                </div>
+              </li>
+                <li data-submenu-id="sub-nav_taxon_12">
+                    <a href="/t/womens?ref=nav&amp;sort=popular" class="nav-item womens" data-category="womens">Women's</a>
+                    <div id="sub-nav_taxon_12" class="popover ">
+                      <ul>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/womens/clothing?ref=nav" class="sub-menu-item">Clothing</a>
+                            <div class="nav-image">
+                              <img alt="1399476209" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/42561/03_a_womens_tt_SuperMoon/1399476209.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/womens/jewelry?ref=nav" class="sub-menu-item">Jewelry</a>
+                            <div class="nav-image">
+                              <img alt="1378826540" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/25096/Personalized_Date_initial_necklace_on_model_cust/1378826540.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/womens/bags-and-wallets?ref=nav" class="sub-menu-item">Bags &amp; Wallets</a>
+                            <div class="nav-image">
+                              <img alt="1399482894" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/42615/04_d_PS_Color_Block_Clutch_model_(2)/1399482894.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/womens/accessories?ref=nav" class="sub-menu-item">Accessories</a>
+                            <div class="nav-image">
+                              <img alt="1401997244" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/44122/04_a_S218-1/1401997244.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/womens/beauty?ref=nav" class="sub-menu-item">Beauty</a>
+                            <div class="nav-image">
+                              <img alt="1380810056" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/27209/04_a__twopack_SOAP_Activatedcharcoal/1380810056.jpg">
+                            </div>
+                          </li>
+                        <li>
+                          <i class="fa fa-caret-right"></i>
+                          <a href="/t/womens?ref=nav" class="sub-menu-item">New</a>
+                          <div class="nav-image default-image"><img alt="1403044357" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/44908/01_c_Scarf_Sea_FullProduct/1403044357.jpg"></div>
+                        </li>
+                      </ul>
+                    </div>
+                </li>
+                <li data-submenu-id="sub-nav_taxon_20">
+                    <a href="/t/mens?ref=nav&amp;sort=popular" class="nav-item mens" data-category="mens">Men's</a>
+                    <div id="sub-nav_taxon_20" class="popover ">
+                      <ul>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/mens/t-shirts?ref=nav" class="sub-menu-item">T-Shirts</a>
+                            <div class="nav-image">
+                              <img alt="1400097489" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/42818/07_b_TSD_LO_SF_A/1400097489.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/mens/clothing?ref=nav" class="sub-menu-item">Clothing</a>
+                            <div class="nav-image">
+                              <img alt="1388335495" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/34682/01_a_vest-chambray-1/1388335495.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/mens/accessories?ref=nav" class="sub-menu-item">Accessories</a>
+                            <div class="nav-image">
+                              <img alt="1398971368" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/41059/IMG_0163/1398971368.JPG">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/mens/wallets-and-bags?ref=nav" class="sub-menu-item">Wallets &amp; Bags</a>
+                            <div class="nav-image">
+                              <img alt="1397158868" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/41096/03_c_20140202_SLAL_1645/1397158868.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/mens/grooming?ref=nav" class="sub-menu-item">Grooming</a>
+                            <div class="nav-image">
+                              <img alt="1393009066" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/37310/04_a_dope_soap_company_alabaster_sq_01/1393009066.jpg">
+                            </div>
+                          </li>
+                        <li>
+                          <i class="fa fa-caret-right"></i>
+                          <a href="/t/mens?ref=nav" class="sub-menu-item">New</a>
+                          <div class="nav-image default-image"><img alt="1401992861" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/44112/05_a_1401404910.226448.IMG_1062/1401992861.jpg"></div>
+                        </li>
+                      </ul>
+                    </div>
+                </li>
+                <li data-submenu-id="sub-nav_taxon_23">
+                    <a href="/t/home?ref=nav&amp;sort=popular" class="nav-item home" data-category="home">Home</a>
+                    <div id="sub-nav_taxon_23" class="popover ">
+                      <ul>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/home/decor?ref=nav" class="sub-menu-item">Decor &amp; Lighting</a>
+                            <div class="nav-image">
+                              <img alt="1399477970" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/42567/01_a__DSC5094/1399477970.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/home/kitchen?ref=nav" class="sub-menu-item">Kitchen &amp; Pantry</a>
+                            <div class="nav-image">
+                              <img alt="1398358622" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/41968/01_b_medium_bread_bag_white_1/1398358622.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/home/furniture?ref=nav" class="sub-menu-item">Furniture</a>
+                            <div class="nav-image">
+                              <img alt="1395105229" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/39652/04_b_Console_Table_2/1395105229.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/home/drinking-and-barware?ref=nav" class="sub-menu-item">Drinking &amp; Barware</a>
+                            <div class="nav-image">
+                              <img alt="1395859483" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/40071/01_a_hi-res_batch1-35/1395859483.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/home/dining-and-barware?ref=nav" class="sub-menu-item">Dining &amp; Tableware</a>
+                            <div class="nav-image">
+                              <img alt="1400181555" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/42874/01_a_Hank-by-Henry-Hera-Ebony-7/1400181555.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/home/crafting-and-diy?ref=nav" class="sub-menu-item">Crafting &amp; DIY</a>
+                            <div class="nav-image">
+                              <img alt="1399561183" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/13283/01_a_HGK_6/1399561183.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/home/garden?ref=nav" class="sub-menu-item">Garden &amp; Patio</a>
+                            <div class="nav-image">
+                              <img alt="1398279340" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/41897/18_b_42herb4/1398279340.jpg">
+                            </div>
+                          </li>
+                        <li>
+                          <i class="fa fa-caret-right"></i>
+                          <a href="/t/home?ref=nav" class="sub-menu-item">New</a>
+                          <div class="nav-image default-image"><img alt="1402067010" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/44182/03_a_3-mug-pictures_(2)/1402067010.jpg"></div>
+                        </li>
+                      </ul>
+                    </div>
+                </li>
+                <li data-submenu-id="sub-nav_taxon_5740">
+                    <a href="/t/food-and-drink?ref=nav&amp;sort=popular" class="nav-item food-and-drink" data-category="food-and-drink">Food &amp; Drink</a>
+                    <div id="sub-nav_taxon_5740" class="popover ">
+                      <ul>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/food-and-drink/beverages-and-cocktails?ref=nav" class="sub-menu-item">Beverages &amp; Cocktails</a>
+                            <div class="nav-image">
+                              <img alt="1399561183" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/13283/01_a_HGK_6/1399561183.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/food-and-drink/snacks?ref=nav" class="sub-menu-item">Snacks &amp; Eats</a>
+                            <div class="nav-image">
+                              <img alt="1400628514" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/43136/01_c_C19A2370/1400628514.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/food-and-drink/sauces-and-condiments?ref=nav" class="sub-menu-item">Sauces &amp; Condiments</a>
+                            <div class="nav-image">
+                              <img alt="1400181919" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/42887/04_b_Italian_Plum-2236/1400181919.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/food-and-drink/cooking-and-diy?ref=nav" class="sub-menu-item">Cooking &amp; Baking</a>
+                            <div class="nav-image">
+                              <img alt="1398436068" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/42066/01_b_C19A5650/1398436068.jpg">
+                            </div>
+                          </li>
+                        <li>
+                          <i class="fa fa-caret-right"></i>
+                          <a href="/t/food-and-drink?ref=nav" class="sub-menu-item">New</a>
+                          <div class="nav-image default-image"><img alt="1398885182" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/42113/04_a_/1398885182.jpg"></div>
+                        </li>
+                      </ul>
+                    </div>
+                </li>
+                <li data-submenu-id="sub-nav_taxon_16">
+                    <a href="/t/art?ref=nav&amp;sort=popular" class="nav-item art" data-category="art">Art</a>
+                    <div id="sub-nav_taxon_16" class="popover ">
+                      <ul>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/art/prints?ref=nav" class="sub-menu-item">Prints &amp; Posters</a>
+                            <div class="nav-image">
+                              <img alt="1400774794" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/43487/026_a_IMG_5771/1400774794.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/art/pieces?ref=nav" class="sub-menu-item">Art Pieces</a>
+                            <div class="nav-image">
+                              <img alt="1398885431" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/42119/02_a_K_S_True/1398885431.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/art/photography?ref=nav" class="sub-menu-item">Photography</a>
+                            <div class="nav-image">
+                              <img alt="1394136649" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/38804/07_a_Mandy-Mohler_Scoutmob_Shop-31/1394136649.JPG">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/art/cards-and-stationery?ref=nav" class="sub-menu-item">Cards &amp; Stationery</a>
+                            <div class="nav-image">
+                              <img alt="1398956064" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/42173/06_b_DSC_1089/1398956064.JPG">
+                            </div>
+                          </li>
+                        <li>
+                          <i class="fa fa-caret-right"></i>
+                          <a href="/t/art?ref=nav" class="sub-menu-item">New</a>
+                          <div class="nav-image default-image"><img alt="1401454896" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/43921/02_a_/1401454896.jpg"></div>
+                        </li>
+                      </ul>
+                    </div>
+                </li>
+                <li data-submenu-id="sub-nav_taxon_71">
+                    <a href="/t/jewelry?ref=nav&amp;sort=popular" class="nav-item jewelry" data-category="jewelry">Jewelry</a>
+                    <div id="sub-nav_taxon_71" class="popover end-menu">
+                      <ul>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/jewelry/necklaces?ref=nav" class="sub-menu-item">Necklaces</a>
+                            <div class="nav-image">
+                              <img alt="1398974736" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/42249/03_a__MG_6952/1398974736.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/jewelry/earrings?ref=nav" class="sub-menu-item">Earrings</a>
+                            <div class="nav-image">
+                              <img alt="1398286895" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/41914/06_a_10b/1398286895.JPG">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/jewelry/bracelets?ref=nav" class="sub-menu-item">Bracelets</a>
+                            <div class="nav-image">
+                              <img alt="1400013767" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/42756/03_a_Dishy_York_Whites_4/1400013767.jpg">
+                            </div>
+                          </li>
+                          <li>
+                            <i class="fa fa-caret-right"></i>
+                            <a href="/t/jewelry/rings?ref=nav" class="sub-menu-item">Rings</a>
+                            <div class="nav-image">
+                              <img alt="1400680334" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/43165/04_a_E9000_2/1400680334.JPG">
+                            </div>
+                          </li>
+                        <li>
+                          <i class="fa fa-caret-right"></i>
+                          <a href="/t/jewelry?ref=nav" class="sub-menu-item">New</a>
+                          <div class="nav-image default-image"><img alt="1402071349" src="http://d69s2ik87ltjz.cloudfront.net/shoppe/products/medium/44257/02_a_Geoflora-by-Ariana--Clare_80-(1)/1402071349.jpg"></div>
+                        </li>
+                      </ul>
+                    </div>
+                </li>
+                <li data-submenu-id="sub-nav_taxon_29">
+                    <a href="/t/gifts?ref=nav" class="nav-item gifts" data-category="gifts">Gifts</a>
+                </li>
+                <li data-submenu-id="sub-nav_taxon_44">
+                    <a href="/t/themes?ref=nav" class="nav-item themes" data-category="themes">Collections</a>
+                </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="free-shipping-legal" class="free-shipping-popup modal hide fade">
+  <button class="close" data-dismiss="modal">×</button>
+  <h3>Free Shipping On All Orders Over $100</h3>
+
+  <p>And, of course, the fine print:<br> Get free shipping on your next order when you spend over $100. The discount will be automatically applied to your purchase; no promo code required. The subtotal of your purchase must be $100.01 or greater after any promotional discounts have been applied. Additional fees such as tax or shipping and handling do not apply toward your minimum subtotal requirement of $100.01. Offer applies to standard shipping only. Certain items that require additional shipping and handling are excluded from this promotion and do not apply towards your $100.01 subtotal minimum. Offer subject to change.</p>
+</div>
+<!--Global video player modal-->
+<div id="vid-display-modal" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-body">
+    <iframe id="scoutmob-video-player" src="about:blank" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  </div>
+</div>
+
+    
+
+    <div class="content-wrapper">
+      <div class="container">
+        
+
+<div class="row">
+  <div class="span8 offset2">
+    <div id="privacy">
+      <h1>PRIVACY POLICY</h1>
+
+      <p>By downloading and using the Scoutmob mobile application or visiting or using the www.scoutmob.com website and domain name, any other linked pages, features, content, mobile applications, and any other services we offer from time to time in connection with any of the foregoing (collectively, the "Website"), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy.
+
+      </p><p>This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Website. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage, even if you have accessed the websites or services of those companies through our Website.
+
+      </p><p>Whenever you interact with our Application or Website, we automatically receive and record information on our server logs from your mobile device and/or browser including your mobile device universal ID#, IP address, “cookie” information, and the page you requested. “Cookies” are identifiers we transfer to your computer or device that allow us to recognize your browser or device and tell us how and when pages in our Website are visited and by how many people.
+
+      </p><p>When we collect usage information (such as the numbers and frequency of visitors to the Website and to which pages within the Website), we only use such data in aggregate form, in a manner that assures your anonymity. We may provide this aggregate usage information to our partners; our partners may use such information to understand how often and in what ways people use our Website, so that our partners, too, can endeavor to provide you with an optimal online experience. For example, we may place a cookie on your device that records what products you have viewed on our Website, and then provide that information, in non- personally-identifiable form, to a third party website, to allow such website to show you ads for similar products that are available from us or from third parties.
+
+      </p><p>We will contact you by push notification, email or other means. If you do not want to receive email or other mail from us, please indicate your preference by changing your account settings accordingly.</p>
+
+      <p>We neither rent nor sell your Personal Information in personally identifiable form to anyone. We share your Personal Information in personally identifiable form with third parties only as described below:</p>
+
+      <ul>
+        <li>In certain situations, businesses or third party websites we’re affiliated with may provide services to you through the Website (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that we deem it related to such transaction or service.</li>
+
+        <li>We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Our agents do not have any right to use the Personal Information we share with them beyond what we deem necessary to assist us in performing such tasks.</li>
+
+        <li>We may release Personal Information when we believe in good faith that release is necessary to comply with laws; enforce or apply our conditions of use and/or other agreements; or protect the rights, property, or safety of Scoutmob, our employees, our users, or others. We may exchange information with other companies and organizations (including governmental authorities) for fraud protection and credit risk reduction.</li>
+      </ul>
+
+      <p>Except as set forth in this Privacy Policy, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.</p>
+
+      <p>The Website may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.</p>
+
+      <p>Scoutmob offers Facebook users the opportunity to interact with friends and to share on Facebook using Facebook Connect. If you are logged into both Scoutmob and Facebook, when you use the Site’s Facebook connection functions, we will link your Facebook account with your Scoutmob account if the email addresses match. If the email addresses do not match, we ask you if you want to link them and you must validate that you control the accounts. If you are already logged into Scoutmob but not logged into Facebook, when you use the Site’s Facebook connection functions, you will be prompted to enter your Facebook credentials or to sign up for Facebook. By proceeding through any of these scenarios, you grant Scoutmob permission to access your Facebook profile information and to use it in accordance with the Facebook terms of use and this Privacy Statement. If you are not currently registered as a Scoutmob user and you use the Site’s Facebook connection functions, you will first be asked to enter your Facebook credentials and then be given the option to register and join Scoutmob. Once you register with Scoutmob and connect with Facebook, you will be able to automatically post recent Scoutmob activity back to your Facebook wall. Please refer to the privacy settings in your Facebook account to manage the performance of your Facebook account.</p>
+
+      <p>Public Content: Your reviews, ratings, and associated email address or social network profile (including your first and last name, screen name, profile picture, general location, and profile link) for social networks that you have authorized the Site or App to access, along with other content you post to the Site are meant for public consumption. We may display this content on the Site, and further distribute it to a wider audience through third party sites and services.</p>
+
+      <p>If you have any questions or concerns regarding privacy, please contact us at <a href="mailto:fannypack@scoutmob.com">fannypack@scoutmob.com</a>. Your privacy is important to us and we will make every effort to resolve your concerns.</p>
+    </div>
+  </div>
+</div>
+
+      </div>
+    </div>
+    <footer class="site-footer">
+  <nav>
+    <div class="site-footer__links">
+      <ul>
+        <li><a href="/what-is-scoutmob?ref=ftr_about" class="site-footer__link">About</a></li>
+        <li><a href="/faq?ref=ftr_faq" class="site-footer__link">FAQ</a></li>
+        <li><a href="http://jobs.scoutmob.com" class="site-footer__link" target="_blank">Careers</a></li>
+        <li><a href="http://shoppebyscoutmob.tumblr.com" class="site-footer__link" target="_blank">Blog</a></li>
+        <li><a href="http://mobrumblings.tumblr.com" class="site-footer__link" target="_blank">Press</a></li>
+        <li><a href="/privacy?ref=ftr_privacy" class="site-footer__link">Privacy</a></li>
+        <li><a href="/contact?ref=ftr_contact" class="site-footer__link">Contact</a></li>
+        <li><a href="/artist_signups/new?ref=ftr_listed" class="site-footer__link">List Your Goods</a></li>
+      </ul>
+      <p class="copyright">Made with Sweet, Sweet Love in <em>Atlanta, GA</em></p>
+      <p class="since">Since 2010</p>
+    </div>
+    <div class="site-footer__addl">
+      <h4>Categories</h4>
+      <ul>
+        <li><a href="http://scoutmob.com/t/mens?ref=ftr_shp_cat">Men's</a></li>
+        <li><a href="http://scoutmob.com/t/womens?ref=ftr_shp_cat">Women's</a></li>
+        <li><a href="http://scoutmob.com/t/art?ref=ftr_shp_cat">Art</a></li>
+        <li><a href="http://scoutmob.com/t/t-shirts?ref=ftr_shp_cat">T-Shirts</a></li>
+        <li><a href="http://scoutmob.com/t/home?ref=ftr_shp_cat">Home</a></li>
+        <li><a href="http://scoutmob.com/t/gifts?ref=ftr_shp_cat">Gifts</a></li>
+        <li><a href="http://scoutmob.com/t/jewelry?ref=ftr_shp_cat">Jewelry</a></li>
+        <li><a href="http://scoutmob.com/t/gadgets?ref=ftr_shp_cat">Gadgets</a></li>
+      </ul>
+      <h4>Popular</h4>
+      <ul>
+        <li><a href="http://scoutmob.com/t/art?ref=ftr_shp_art">Art</a></li>
+        <li><a href="http://scoutmob.com/new?ref=ftr_shp_new">Gifts</a></li>
+        <li><a href="http://scoutmob.com/t/t-shirts?ref=ftr_shp_tshirts">T-Shirts</a></li>
+        <li><a href="http://scoutmob.com/t/jewelry?ref=ftr_shp_jewelry">Handmade Jewelry</a></li>
+        <li><a href="http://scoutmob.com/nashville/southern-lights-electric?ref=ftr_shp_lighting">Handmade Lighting</a></li>
+      </ul>
+    </div>
+  </nav>
 </footer>
 
+    <div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '106941585992139',
+      channelUrl : '//' + window.location.host + '/channel.html',
+      xfbml      : true
+    });
 
-<div id="signup-popups" data-url="http://scoutmob.com/delayed_subscriptions/local">
-</div>
+    // Additional initialization code here
+    FB.Event.subscribe('edge.create', function(href, widget) {
+      _gaq.push(['_trackEvent', 'social', 'facebook-like', href]);
+      _gaq.push(['_trackSocial', 'facebook', 'like', href]);
+    });
+    FB.Event.subscribe('edge.remove', function(href, widget) {
+      _gaq.push(['_trackEvent', 'social', 'facebook-unlike']);
+      _gaq.push(['_trackSocial', 'facebook', 'unlike', href]);
+    });
+  };
 
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+</script>
 
-<div id="sticky-footer">
-  <div class="container">
     
-      Discover the best of independent makers &amp; merchants.
+  <script type="text/javascript">
+//<![CDATA[
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-4017698-5']);
+    _gaq.push(['_setDomainName', '.scoutmob.com']);
+
+    sm.tracking.recordPurchases(false);
+    sm.tracking.recordLoggedIn(false);
+
+      sm.tracking.recordSiteSection('Shoppe');
+
+    _gaq.push(['_trackPageview']);
+
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = '//google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+//]]>
+</script>
+
+  
+<script type="text/javascript">
+adroll_adv_id = "JTGJSLEQJ5HYJD5R5RDRTK";
+adroll_pix_id = "NIKL4WNFKRDDDJYZM2SIZP";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+  
+
+
+  <script type="text/javascript">var cid=950;</script>
+  <script src="https://hellosociety.com/tracker/click.js?v=1.1" type="text/javascript"></script>
+
+  <script type="text/javascript">
+    (function(){
+      var e = '';
+      if (e.length > 0) {
+        window.triggermail_email_address = e;
+      }
+    })();
+
+    var triggermail=triggermail||[];triggermail.load=function(a){var b=document.createElement("script");b.type="text/javascript";b.async=!0;b.src=("https:"===document.location.protocol?"https://":"http://")+"triggeredmail.appspot.com/triggermail.js/"+a+".js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)};triggermail.load("scoutmob");window.triggermail=triggermail;
+  </script>
+
     
-    <img alt="" src="http://local-static.scoutmob.com/images/gnav/footer/arrow.png?1363669123">
-    <a href="#signup" class="join-today">Join Today</a>
+    <div class="signup-overlay" style="display: block;"></div>
+<div class="signup">
+  <div class="step1">
+    <div class="both">
+      <!-- a href="#" class="close">X</a -->
+      <span class="sm-logo"></span>
+      <p class="message">
+        Scoutmob connects you to the most inspired goods and authentic local experiences from independent makers.
+      </p>
+      <p class="pctOff">10% off</p>
+      <form id="gnav-subscribe-form" action="http://scoutmob.com/delayed_subscriptions" method="POST">
+        <div style="display: none">
+          <input id="shoppe" name="shoppe" type="hidden" value="1">
+          <input id="source" name="source" type="hidden" value="modal/shoppe/pages/privacy">
+          <input id="referrer" name="referrer" type="hidden" value="">
+        </div>
+        <div class="signup-email">
+          <input type="email" name="email" placeholder="ENTER YOUR EMAIL">
+          <button class="join">Join</button>
+        </div>
+        <span class="or">or</span>
+        <a href="#" class="signup-facebook">Connect with Facebook</a>
+        <div class="your-city">
+          Your city:
+          <span class="city-picker">
+            <span></span>
+            <select name="city">
+                <option value="atlanta">Atlanta</option>
+                <option value="austin">Austin</option>
+                <option value="boston">Boston</option>
+                <option value="chicago">Chicago</option>
+                <option value="dallas">Dallas</option>
+                <option value="denver">Denver</option>
+                <option value="los-angeles">Los Angeles</option>
+                <option value="nashville">Nashville</option>
+                <option value="new-york">New York</option>
+                <option value="portland">Portland</option>
+                <option value="san-francisco">San Francisco</option>
+                <option value="seattle">Seattle</option>
+                <option value="washington-dc">Washington, DC</option>
+              <option value="">National</option>
+            </select>
+          </span>
+        </div>
+      </form>
+    </div>
   </div>
-  <i class="leftbg"></i><i class="rightbg"></i>
+
+  <div class="step3">
+    <div class="shoppe3">
+      <span class="sm-logo"></span>
+      <p>
+        <span class="non-discount-confirm">
+          <strong>Success!</strong><br><br>
+        </span>
+        <span class="discount-confirm" style="display:none">
+          <strong>Nice work!</strong><br>
+          Now take this here code and get<br>
+          10% off SHOPPE at checkout.<br>
+          <br>
+          <span class="discount"></span>
+          <a class="discount-code-copy" href="#" data-zeroclipboard-movie="/assets/ZeroClipboard-b2cfc5f813f312ea7af22e7283129630.swf">Copy</a><br><br>
+        </span>
+      </p>
+      <p><a href="#" class="get-started">Get Started</a></p>
+    </div>
+  </div>
 </div>
 
 
-
-<div id="fb-root"></div>
-<script src="http://local-static.scoutmob.com/javascripts/sm/general/analytics.js?1369400281" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-
   
-  _gaq = [
-    ['_setAccount', 'UA-4017698-5'],
-    ['_setDomainName', '.scoutmob.com']
-  ];
-  
-  _gaq.push(['_trackPageview']);
 
-  
-  yepnope([          {
-            load: '//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js',
-            callback: function() { if (!window.$) yepnope('http://local-static.scoutmob.com/assets/jquery.js?1369400302') }
-          }
-,          {
-            test: 'https:' == location.protocol,
-            yep: 'http://local-static.scoutmob.com/assets/jquery_tools.js?1369400303',
-            nope: {cdn: 'http://cdn.jquerytools.org/1.2.7/all/jquery.tools.min.js'}
-          }
-,'http://local-static.scoutmob.com/assets/general.js?1369400302?v=20']);
-
-//]]>
-</script>
-
-
-
-<script type="text/javascript">
-//<![CDATA[
-
-  yepnope.injectJs(('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js');
-        fbAsyncInit = function() {
-        FB.init({
-          appId: '106941585992139',
-          channelUrl: '//'+location.hostname+'/channel.html',
-          cookie: true
-        });
-      };
-      yepnope.injectJs('//connect.facebook.net/en_US/all.js');
-
-  yepnope([          {
-            test: ('placeholder' in document.createElement('input')),
-            nope: 'http://local-static.scoutmob.com/assets/placeholder.js?1369400303'
-          }
-,'http://local-static.scoutmob.com/javascripts/vendor/froogaloop.min.js?1369400682']);
-
-//]]>
-</script>
-
-
-
-
-
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
