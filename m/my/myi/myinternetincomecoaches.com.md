@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myinternetincomecoaches.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102174757id_/http%3A//myinternetincomecoaches.com/disclaimers/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinternetincomecoaches.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111524id_/http%3A//myinternetincomecoaches.com/disclaimers/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
