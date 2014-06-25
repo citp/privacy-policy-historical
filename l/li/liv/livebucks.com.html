@@ -1,0 +1,248 @@
+<!--The following is the downloaded HTML source of the livebucks.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626013201id_/http%3A//gammae.com/livebucks/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>LiveBucks Affiliate Network program | Privacy</title>
+<link href="skins/default/stylesheets/style.css" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Economica:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script src="./skins/default/inc/js/slides.min.jquery.js"></script>
+<link rel="shortcut icon" type="image/x-icon" href="./skins/default/images/favicon.ico">
+
+<script>
+/*
+jQuery(document).ready(function($) {
+    if ($('#slides').length > 0) {
+        $(function(){
+            $('#slides').slides({
+                preload: true,
+                preloadImage: 'img/loading.gif',
+                play: 5000,
+                pause: 5000,
+                hoverPause: true,
+                animationStart: function(current){
+                },
+                animationComplete: function(current){
+                }
+            });
+        });
+    }
+});
+*/
+    jQuery.fn.validateField = function () {
+        var val    = $(this).val();
+        var bln    = false;
+        var errBox = $(this).next('.err_box');
+
+        if (val == '') {
+            errBox.show();
+            errBox.html('Please input a ' + $(this).attr('name'));
+        } else if ($(this).attr('name') == 'password' && val.length < 6) {
+            errBox.show();
+            errBox.html('Please enter at least 6 characters.');
+        } else {
+            errBox.hide();
+            errBox.html('');
+            bln = true;
+        }
+
+        return bln;
+    };
+
+    jQuery(document).ready(function($) {
+        var inSignup = false;
+
+        $(".login_box, #sign_in").mouseenter(function () {
+            inSignup = true;
+        });
+
+        $(".login_box, #sign_in").mouseleave(function () {
+            inSignup = false;
+        });
+
+          $("#sign_in").bind('click', function(e) {
+              e.stopPropagation();
+            e.preventDefault();
+            $(".login_box").show();
+            inSignup = true;
+            $(".login_box").find('input[type=text]').focus();
+        }, true);
+
+        $("#bottom_sign").click(function (e) {
+            e.preventDefault();
+            window.scrollTo(0, 0);
+            $('#sign_in').click();
+        });
+
+        $(".login_box").find('a.btn').bind('click', function (e) {
+            e.preventDefault();
+
+            var bpost = true;
+
+            bpost &= $(".login_box").find('input[type=text]').validateField();
+            bpost &= $(".login_box").find('input[type=password]').validateField();
+
+            if (bpost) {
+                //$(this).closest('form').submit();
+                $.ajax({
+                    url: '/livebucks/login.php',
+                    type: "POST",
+                    data: {
+                        'user':$(".login_box").find('input[type=text]').val(),
+                        'password':$(".login_box").find('input[type=password]').val(),
+                        'm_date':$(".login_box").find('input[name=m_date]').val(),
+                        'm_time':$(".login_box").find('input[name=m_time]').val(),
+                        'm_offset':$(".login_box").find('input[name=m_offset]').val(),
+                        'ajax':$(".login_box").find('input[name=ajax]').val(),
+                        'remember':($(".login_box").find('input[name=remember]:checked').val() ? 1 : 0)
+                    }
+                }).done(function( msg ) {
+                    // Redirect
+                    eval('var arr = ' + msg + ';');
+                    if (arr.isLogged == true) {
+                        $('form#login').submit();
+                    } else {
+                        if (arr.message == 'badCredential') {
+                            $(".login_box").find('input[type=text]').next('.err_box').show();
+                            $(".login_box").find('input[type=text]').next('.err_box').html('Wrong Username and/or password');
+                        } else if (arr.message == 'noData') {
+                            $(".login_box").find('input[type=text]').next('.err_box').show();
+                            $(".login_box").find('input[type=text]').next('.err_box').html('Please input some data.');
+                        }
+                    }
+                });
+
+            }
+        });
+
+        $(document).click(function () {
+            if (!inSignup) {
+                $(".login_box").hide();
+            }
+        });
+
+        
+    });
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31381576-8']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></head>
+
+<body id="privacy">
+
+<div class="wrapper">
+
+<!-- header -->
+<div class="header">
+    <a href="signup.php" class="sign_up">Become an affiliate</a>
+    <a href="index.php" class="logo"></a>
+</div>
+
+<div class="spacer"></div>
+        <form action="http://stats.gammae.com/livebucks/index.php" method="post" id="login" name="login">
+
+        <input type="hidden" name="m_date" value="">
+        <input type="hidden" name="m_time" value="">
+        <input type="hidden" name="m_offset" value="">
+
+        <span class="sign_in" id="sign_in">
+            <a href="#">SIGN IN</a>
+        </span>
+        <div class="login_box">
+            <div class="title">LOGIN</div>
+            <input name="user" type="text" class="f_username">
+            <div class="err_box" style="display:none;"></div>
+            <input name="password" type="password" class="f_password">
+            <div class="err_box" style="display:none;"></div>
+            <div class="spacer"></div>
+              <a href="#" class="btn">Sign In</a>
+              <div class="remember"><label><input name="remember" type="checkbox"><em>Remember me</em></label></div>
+            <div class="forget"><a href="http:///lost.php">Forgot username?</a><a href="http:///lost.php">Forgot password?</a></div>
+            <input type="submit" style="display:block;width:1px;height:1px;border:none;visibility:hidden;">
+        </div>
+    </form>
+        <div class="spacer"></div>
+
+<!-- header -->
+<!-- main content -->
+<div class="main_content">
+	<div class="main_box">
+
+    <h3>PRIVACY POLICY</h3>
+    <div class="desc">
+
+This website is owned by LiveBucks
+<br><br>
+This policy explains what kind of information we may gather from any user and/or members on our sites. This site is an adult site and its purposes should only be used by persons that are 18 or older. All persons under that age are not allowed to view the content of this site and should leave immediately.
+<br><br>
+<span class="sub">The Information We Collect</span><br>
+This notice applies to all information collected or submitted on the LiveBucks websites. On some pages, you can order products/subscriptions, make requests or register to receive materials and on some other pages, we will automatically gather and collect some information from the subscriber. The types of personal information collected at these pages could be, but are not limited too, name, email address, IP address etc.
+<br><br>
+<span class="sub">The Way We Use Information</span><br>
+The user has to note that some personal information, such as but not limited to credit card number, may be collected by a third-party web service provider from whom LiveBucks purchases services or that has an advertising banner or link on the Site. Users should read the privacy policy of those third parties whenever possible to look for modifications.
+ <br><br>
+As soon as the subscriber uses the website, the subscriber agrees that LiveBucks may use any personal information that has been provided or collected by the website about the subscriber for any purpose, including without limitation age verification, administration, customer administration, marketing, promotional and advertising use by the website or third parties authorized to use the information by the site. The user hereby agrees that the website may, in its sole discretion, sell, share, rent, or license any of the personal information about users that was provided or that was collected with affiliated or unaffiliated third parties.
+<br><br>
+<span class="sub">Our Commitment To Data Security</span><br>
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place reasonable and appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+<br><br>
+<span class="sub">How To Contact Us</span><br>
+Should you have other questions or concerns about these privacy policies, please send us an email at <a href="mailto:support@livebucks.com">support@livebucks.com</a> or write us at LiveBucks, 3300 Cote-Vertu, Suite 406, Montreal, Quebec, H4R 2B7, Canada. </div>
+	</div>
+
+
+<div class="spacer"></div>
+</div>
+<!-- main content -->
+
+</div>
+<!-- footer -->
+
+<div class="footer">
+<a href="signup.php">Join Now</a><span>|</span>
+<a href="contact.php">Contact Us</a><span>|</span>
+<a href="terms.php">Terms</a><span>|</span>
+<a href="privacy.php">Privacy</a><span>|</span>
+<a href="2257.php">2257</a>
+
+<div class="copy">
+2013 Livebucks.com<br>
+Powered by Gamma Entertainment
+</div>
+<a class="rta_logo" href="http://www.rtalabel.org/" target="_blank" title="RTA"></a>
+
+</div>
+<!-- /footer -->
+
+<!--[if IE 6]>
+	<script type="text/javascript" src="http://www.gammae.com/allclients/scripts/png/DD_belatedPNG_0.0.8a-min.js">
+	<script type="text/javascript">DD_belatedPNG.fix('#container');</script>
+	<script type="text/javascript">DD_belatedPNG.fix('body');</script>
+	<script type="text/javascript">DD_belatedPNG.fix('.per_signup');</script>
+	<script type="text/javascript">DD_belatedPNG.fix('.revenue_share');</script>
+	<script type="text/javascript">DD_belatedPNG.fix('.referrals');</script>
+    <script type="text/javascript">DD_belatedPNG.fix('#slides');</script>
+    <script type="text/javascript">DD_belatedPNG.fix('.left_corner');</script>
+    <script type="text/javascript">DD_belatedPNG.fix('.right_corner');</script>
+    <script type="text/javascript">DD_belatedPNG.fix('#rounded');</script>
+    <script type="text/javascript">DD_belatedPNG.fix('.prev');</script>
+    <script type="text/javascript">DD_belatedPNG.fix('.next');</script>
+    <script type="text/javascript">DD_belatedPNG.fix('.pagination li a');</script>
+    <script type="text/javascript">DD_belatedPNG.fix('#feed_box');</script>
+    <script type="text/javascript">DD_belatedPNG.fix('.homepage_content');</script>
+	<![endif]-->
+
+
+
+</body></html>
