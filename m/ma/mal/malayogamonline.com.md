@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malayogamonline.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224192541id_/http%3A//www.malayogamonline.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malayogamonline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051020id_/http%3A//www.malayogamonline.com/privacy_policy) for the most accurate reproduction.*
 
 # Malayogamonline.com : malayalee matrimonials
 
@@ -12,29 +12,37 @@ Some of our web pages use "cookies" so that we can better serve you with customi
 
 We use a secure server for credit card transactions to protect the credit card information of our users 
 
-What information do we collect from you?
+  * What information do we collect from you?
 
 The information we gather from members and visitors who register on our website includes, but may not be limited to, email address, name, a user-specified password, contact address, PIN code and telephone number.
 
+We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
+
+We use Remarketing with Google Analytics to advertise online.
+
+Third-party vendors, including Google, may show our ads on sites across the Internet.
+
+We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
+
 If you wish to make a payment towards a paid registration plan, some additional information, including a billing address, a credit card number and a credit card expiration date and tracking information from cheques, demand drafts or money orders is also collected.
 
-How do we use the information we collect/track?
+  * How do we use the information we collect/track?
 
 Malayogam collects information from you to ensure that we are able to fulfill your requirements and deliver a Personalised experience. Your profile details may also be published in our matrimonial magazine "My Matrimonials" to ensure enhanced response for your profile.
 
-With whom do we share the information we collect/track?
+  * With whom do we share the information we collect/track?
 
-The information collected from you is not shared with any individual or organization, without your approval. 
+The information collected from you is not shared with any individual or organization, without your approval.
 
 Malayogam does not sell, rent, or loan any identifiable information at the individual level regarding its customers to any third party, unless specifically requested by the user otherwise. Any information you give us is held with the utmost care and security. We are also bound to co-operate fully, should a situation arise, where we are required by law or legal process to provide information about a specific customer.
 
- _ _Notice__
 
-Your usage of this website (MalayogamOnline.com) shall be governed by the Terms and Conditions of Use and the Fair Usage Policy as mentioned on the website. 
+
+
+Notice
+
+Your usage of this website (MalayogamOnline.com) shall be governed by the Terms and Conditions of Use and the Fair Usage Policy as mentioned on the website.
 
 This Privacy Policy is subject to change from time to time based on your comments or as a result of a change of policy in our company.
 
 If you have any questions regarding our Privacy Policy, please write in to [mail@malayogamonline.com](mailto:mail@malayogamonline.com)
-
-  
-
