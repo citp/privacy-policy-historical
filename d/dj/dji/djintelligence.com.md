@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827141244id_/http%3A//www.djintelligence.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626003025id_/http%3A//www.djintelligence.com/privacy) for the most accurate reproduction.*
 
-# DJ Intelligence® - Privacy Statement
+# DJ Intelligence® | Privacy Policy
 
 Intelligence, Inc. ("DJ Intelligence") takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -32,6 +32,7 @@ Intelligence, Inc. ("DJ Intelligence") takes your privacy seriously. Please read
     * DJ Intelligence does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
     * DJ Intelligence advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
   * DJ Intelligence does reserve the right at our discretion only to publicly list companies that are subscribers to our service in the form of company name and location. At our sole discretion, we may also from time to time list the subscriber website URL to show as an example to prospective or current subscribers.
+  * DJ Intelligence reserves the right to collect and share billing and shipping addresses for fraudulent credit card transactions for fraud prevention purposes.
   * DJ Intelligence does reserve the right to compile anonymous subscriber and end-user information in the form of statistical information, such as, but not limited to, the top songs lists or date availability checks. This does not include personally identifiable information.
 
 
@@ -71,12 +72,12 @@ Intelligence, Inc. ("DJ Intelligence") takes your privacy seriously. Please read
 
 **Terms of Service**
 
-  * Our Terms of Service can be [viewed here](https://web.archive.org/web/20130827141244id_/http%3A//www.djintelligence.com/terms.asp).
+  * Our Terms of Service can be [viewed here](http://www.djintelligence.com/terms).
 
 
 
 **Questions or Concerns**
 
-  * If you have questions or concerns, please [contact us](https://web.archive.org/web/20130827141244id_/http%3A//www.djintelligence.com/contact.asp).
+  * If you have questions or concerns, please [contact us](http://www.djintelligence.com/contact).
 
 
