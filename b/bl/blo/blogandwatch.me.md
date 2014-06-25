@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the blogandwatch.me privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202175211id_/http%3A//blogandwatch.me/index.php/Rules-FAQs/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogandwatch.me privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052601id_/http%3A//blogandwatch.me/index.php/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Rules & FAQ´s
+# Privacy Policy
 
 Details
-     Hits: 150 
+     Hits: 1080 
 
 ### Privacy Policy
 
