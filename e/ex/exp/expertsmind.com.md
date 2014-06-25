@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertsmind.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905210300id_/http%3A//www.expertsmind.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertsmind.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095535id_/http%3A//www.expertsmind.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: Expertsmind.com
 
@@ -66,8 +66,6 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 122, Janta Nagar Rakhri, Near ESI Hospital No-4, Ajmer Road, Jaipur (Raj) – 302006 
-
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
 
 **Contact information**
@@ -76,8 +74,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 **Experts Mind IT Educational Pvt. Ltd.**
 
-Physical Address: 122, Janta Nagar Rakhri, Near ESI Hospital No-4, Ajmer Road, Jaipur (Raj) – 302006 
-
-Contact Number: +91-8290046808 
+Contact Number: +1-415-670-9189 
 
 Email Address: [info@expertsmind.com](mailto:info@expertsmind.com)
