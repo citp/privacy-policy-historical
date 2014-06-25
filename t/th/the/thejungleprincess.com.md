@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejungleprincess.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805122732id_/http%3A//daydreamaway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejungleprincess.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101323id_/http%3A//daydreamaway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daydream Away Travel Blog
 
