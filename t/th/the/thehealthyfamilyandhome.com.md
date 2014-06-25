@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehealthyfamilyandhome.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209163846id_/http%3A//thehealthyfamilyandhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealthyfamilyandhome.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135050id_/http%3A//thehealthyfamilyandhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Healthy Family and Home
 
@@ -39,6 +39,8 @@ Clickbank
 Linkshare
 
 Amazon
+
+Yahoo/Bing Network
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.thehealthyfamilyandhome.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
