@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the smashpipe.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220053458id_/http%3A//smashpipe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashpipe.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074436id_/http%3A//smashpipe.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy / SMASHPIPE Magazine / Video and Writing Discovery
+# Privacy Policy - Smashpipe
 
-* * *
-
-This Privacy Policy governs the manner in which Smashpipe collects, uses, maintains and discloses information collected from users (each, a "User") of the [smashpipe.com](http://smashpipe.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Smashpipe.
+This Privacy Policy governs the manner in which Smashpipe collects, uses, maintains and discloses information collected from users (each, a "User",) of the [smashpipe.com](https://web.archive.org/web/20140625074436id_/http%3A/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Smashpipe.
 
 ### Personal identification information
 
@@ -22,7 +20,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 Smashpipe may collect and use Users personal information for the following purposes:
 
-  *  _To improve our Site_ We may use feedback you provide to improve our products and services.
+  * _To improve our Site_ we may use feedback you provide to improve our products and services.
 
 
 
@@ -41,10 +39,6 @@ Users may find advertising or other content on our Site that link to the sites a
 ### Advertising
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
-
-### Google Adsense
-
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 ### Changes to this privacy policy
 
