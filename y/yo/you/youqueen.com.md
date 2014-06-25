@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youqueen.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208193344id_/http%3A//youqueen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youqueen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104801id_/http%3A//youqueen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | YouQueen
+# Privacy Policy - YouQueen
 
 This Privacy Policy governs the manner in which YOUQUEEN LIMITED’s YouQueen.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.youqueen.com](http://www.youqueen.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by YOUQUEEN LIMITED.
 
