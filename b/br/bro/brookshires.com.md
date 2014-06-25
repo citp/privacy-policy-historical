@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookshires.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221234001id_/http%3A//www.brookshires.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookshires.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015333id_/http%3A//www.brookshires.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brookshire's
 
@@ -122,6 +122,6 @@ Tyler, Texas 75710
 
 **By Telephone (Toll-Free):** 1-888-WE RESPOND (1-888-937-3776)
 
-**By Email:** [listen@brookshires.com](mailto:listen@brookshires.com)
+**By Email:**  [customerservice@brookshires.com](mailto:customerservice@brookshires.com)
 
-_This Policy was last modified on August 8, 2013._
+_This Policy was last modified on April 25, 2014_
