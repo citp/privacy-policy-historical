@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affec.tv privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229163024id_/http%3A//affectv.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affec.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060508id_/http%3A//affectv.co.uk/privacy) for the most accurate reproduction.*
 
 # Affectv - Find, Understand and Connect with Relevant Audiences
 
