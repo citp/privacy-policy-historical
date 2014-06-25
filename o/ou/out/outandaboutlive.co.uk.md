@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outandaboutlive.co.uk privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216042657id_/http%3A//www.outandaboutlive.co.uk/Information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outandaboutlive.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005402id_/http%3A//www.outandaboutlive.co.uk/Information/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Out and About Live
+# Privacy Policy
 
 #### 
 
