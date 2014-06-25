@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the rugs-direct.com privacy policy that was archived on 2013-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206001020id_/http%3A//www.rugs-direct.com/Content/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rugs-direct.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625104535id_/http%3A//www.rugs-direct.com/Content/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
-    <script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/443295933636581794/bc.vms4/vms.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//s3.amazonaws.com/madmobile/rugs-direct/js/mobiledirect.js"></script>
+    <!-- Sidecar main JS script -->
+    <script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/443295933636581794/bc.vms4/vms.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://d3v27wwd40f0xu.cloudfront.net/js/tracking/sidecar_rugsdirect.js" type="text/javascript"></script>
     <script type="text/javascript">
         var _gaq = _gaq || [];
         _gaq.push([
@@ -15,17 +16,23 @@
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     </script>
-    <meta name="verify-v1" content="+k1MltEcHNVkY1Ql4OgUEHMIBwb9zvTJQT4q09iCPSk=">
-    <meta name="DESCRIPTION" content="Over 75,000 rugs available online.  Free shipping available.  150% Price Match Guarantee and 30 Day In-Home Trial.">
+    <meta name="application-name" content="&nbsp;"><meta name="verify-v1" content="+k1MltEcHNVkY1Ql4OgUEHMIBwb9zvTJQT4q09iCPSk=">
+    <meta name="DESCRIPTION" content="Over 75,000 rugs available online.  Free shipping available.  110% Price Match Guarantee and 30 Day In-Home Trial.">
+    
+    
+
+    <!-- commenting out canonical refs until Drew Fixes. GLC 5/6/2014 
+    ViewData[RugsDirect.Data.Constants.ViewData.CANONICAL] -->
+
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><link rel="stylesheet" href="//www.gstatic.com/commercesearch/sayt/commerce_sayt.css" type="text/css" media="screen"><link rel="stylesheet" href="/Content/commerce_sayt.css" type="text/css" media="screen">
     <script src="//www.google.com/jsapi" type="text/javascript"></script>
     <script src="//www.gstatic.com/commercesearch/sayt/sayt.js" type="text/javascript" charset="UTF-8"></script>
 
     
-            <link type="text/css" rel="Stylesheet" href="/HttpCombiner.ashx?s=Set_Master_1_CSS&amp;t=text/css&amp;v=001">
+            <link type="text/css" rel="Stylesheet" href="/HttpCombiner.ashx?s=Set_Master_1_CSS&amp;t=text/css&amp;v=020">
     
 
-        <script type="text/javascript" src="/HttpCombiner.ashx?s=Set_Master_JS&amp;t=type/javascript&amp;v=001"></script>
+        <script type="text/javascript" src="/HttpCombiner.ashx?s=Set_Master_JS&amp;t=type/javascript&amp;v=020"></script>
 
     
 
@@ -261,6 +268,10 @@ http://www.omniture.com -->
     function highlightOn(a) {
         a.style.background = "#6CA8C3";
         a.style.color = "#FFFFFF";
+
+        if (a.id == "Nav_Accessories") {
+            $("#dropdownarrow").attr("src", "/Content/Images/nav/nav_downarrowwhite.png");
+        } 
     }
     function highlightOff(a) {
         a.style.background = "#F1F6F9";
@@ -269,33 +280,42 @@ http://www.omniture.com -->
         } else {
             a.style.color = "#296784";
         }
+
+        
+        if (a.id == "Nav_Accessories") {
+            $("#dropdownarrow").attr("src", "/Content/Images/nav/nav_downarrow.png");
+        } 
     }
-
-
 </script>
 <div class="navBarTop">
     <div id="CategoryWatcher" style="display: none;">
         </div>
     <ul>
-        <li id="Nav_arearugs" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Area-Rugs'" style="width: 66px;">Rugs</li>
+        <li id="Nav_arearugs" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Area-Rugs'" style="width: 95px;" alt="Rugs Home" title="Rugs Home">Rugs</li>
         <!-- <li id="Nav_arearugs" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)"
             onclick="window.location = '/Shop/Navigate/arearugs'" style="width: 66px;">Rugs</li> -->
-        <li id="Nav_luxury" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Luxury-Area-Rugs'" title="luxury" style="width: 105px;">Luxury Rugs</li>
-        <li id="Nav_specialbuys" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/specialbuys'" style="width: 103px;">Special
+        <li id="Nav_luxury" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Luxury-Area-Rugs'" style="width: 133px;" alt="Luxury Rugs" title="Luxury Rugs">Luxury Rugs</li>
+        <li id="Nav_specialbuys" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/specialbuys'" style="width: 130px;" alt="Special Buys" title="Special Buys">Special
             Buys</li>
-        <li id="Nav_pre-cutpad" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/pre-cutpad'" style="width: 86px;" title="pre-cutpad">Rug Pads</li>
-        <li id="Nav_whatsnew" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/specialbuys/sale_percent~1/12/1/~11-4294866445_1'" style="width: 146px;">
+        <li id="Nav_pre-cutpad" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/pre-cutpad'" style="width: 113px;" alt="Rug Pads" title="Rug Pads">Rug Pads</li>
+        <li id="Nav_whatsnew" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/specialbuys/sale_percent~1/12/1/~11-4294866445_1'" style="width: 163px;" alt="One-of-a-Kind Rugs" title="One-of-a-Kind Rugs">
             One-of-a-Kind Rugs</li>
-        <li id="Nav_furniture" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/furniture'" style="width: 81px;">Furniture</li>
-        <li id="Nav_pillow" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/pillow'" style="width: 71px;">Pillows</li>
-        <li id="Nav_blinds" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="navto(this)" style="width: 115px;" title="blinds">Window Blinds</li>
-        <li id="Nav_framedart" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/framedart'" style="width: 51px;">Art</li>
-        <!--<li id="Nav_lighting" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)"
-            onclick="navto(this)" style="width: 72px;" title="lighting">Lighting</li>-->
-        <!--<li id="Nav_trashcans" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)"
-            onclick="window.location = '/Shop/Navigate/trashcans'" style="width: 92px;">Trash
-            Cans</li>-->
-        <li id="Nav_outlet" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/outlet'" style="width: 126px; color: Red;">
+
+        <li id="Nav_Accessories" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" style="width: 163px;" alt="Accessories" title="Accessories">
+            Accessories 
+            <img id="dropdownarrow" src="/Content/Images/nav/nav_downarrow.png">
+
+            <ul>
+                <li id="Nav_framedart" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/framedart'" alt="Art" title="Art">Art</li>
+                <li id="Nav_furniture" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/furniture'" alt="Furniture" title="Furniture">Furniture</li>
+                <li id="Nav_pillow" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/pillow'" alt="Pillows" title="Pillows">Pillows</li>
+            </ul>
+
+        </li>
+
+
+
+        <li id="Nav_outlet" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/outlet'" style="width: 157px; color: Red; border-right: none;" alt="Clearance Outlet" title="Clearance Outlet">
             Clearance Outlet</li>
     </ul>
 </div>
@@ -312,8 +332,6 @@ http://www.omniture.com -->
         
 
         <div class="bcRight">
-            
-            <a href="" onclick="return showRecentlyViewedDialog();">Recently Viewed</a>
             
         </div>
     </div>
@@ -352,34 +370,11 @@ Like many Internet sites, we use "cookies" to recognize returning customers. Coo
 We do not partner with or have special relationships with any ad server companies.</p>
 <p><strong>Changes in Our Privacy Policy</strong><br>
 We suggest that you review our privacy policy periodically, as we may update it from time to time. If our information practices change, we will post the policy change to our website. This policy was last updated on May 17, 2010.</p></div>
-    <!-- recently viewed dialog -->
-    
-    <div id="dialogRecentlyViewed" title="Recently Viewed">
-        <table>
-            <tbody><tr>
-                
-                <td class="rv_td">
-                    <a href="/ShopDetail/Details/166315/Couristan/Moonwalk/Roswell/CreamSand69964593">
-                        <img src="http://image1.rugs-direct.com/rug_gallery/00016/12635/105111/166315/s_s_69964593.jpg" alt="Couristan - Moonwalk - Roswell - Cream, Sand (6996-4593)">
-                    </a>
-                    <br>
-                    <a href="/ShopDetail/Details/166315/Couristan/Moonwalk/Roswell/CreamSand69964593">
-                        Couristan - Moonwalk - Roswell - Cream, Sand (6996-4593)</a>
-                </td>
-                
-                <td class="rv_td">
-                    <a href="/ShopDetail/Details/150769/Dalyn/Safari/SI1/Ivory">
-                        <img src="http://image1.rugs-direct.com/rug_gallery/00083/12829/95876/150769/s_s_si-1ivory.jpg" alt="Dalyn - Safari - SI-1 - Ivory">
-                    </a>
-                    <br>
-                    <a href="/ShopDetail/Details/150769/Dalyn/Safari/SI1/Ivory">
-                        Dalyn - Safari - SI-1 - Ivory</a>
-                </td>
-                
-            </tr>
-        </tbody></table>
-    </div>
-    
+
+        
+
+<!-- recently viewed dialog -->
+
                                                     <!--end main content-->
                                                 </div>
                                                 <!-- navigation -->
@@ -387,33 +382,34 @@ We suggest that you review our privacy policy periodically, as we may update it 
     <div class="NavWrap">
         <div id="LeftNav" class="NavMerch">
             
-    <script language="javascript" type="text/javascript">
-        function omniture_call_fb() {
-            s.pageName = "BAC:EXT:Facebook";
-            var s_code = s.t(); if (s_code) document.write(s_code);
-        }
+<script language="javascript" type="text/javascript">
+    function omniture_call_fb() {
+        s.pageName = "BAC:EXT:Facebook";
+        var s_code = s.t(); if (s_code) document.write(s_code);
+    }
 
-        function omniture_call_twitter() {
-            s.pageName = "BAC:EXT:Twitter";
-            var s_code = s.t(); if (s_code) document.write(s_code);
-        }
+    function omniture_call_twitter() {
+        s.pageName = "BAC:EXT:Twitter";
+        var s_code = s.t(); if (s_code) document.write(s_code);
+    }
 
-        function omniture_call_youtube() {
-            s.pageName = "BAC:EXT:YouTube";
-            var s_code = s.t(); if (s_code) document.write(s_code);
-        }
+    function omniture_call_youtube() {
+        s.pageName = "BAC:EXT:YouTube";
+        var s_code = s.t(); if (s_code) document.write(s_code);
+    }
                     
-     </script>
-         <h3>Connect With Us</h3>
-        <div class="socialmedialinks">
-                <!--<a href="http://www.facebook.com/pages/Rugs-Direct/261737700079" target="_blank" onclick="omniture_call_fb();"><img src="/Content/Images/facebook.gif" alt="Find us on Facebook" height="24" width="24" /></a> <a href="http://www.facebook.com/pages/Rugs-Direct/261737700079" target="_blank" onclick="omniture_call_fb();">Find us on Facebook</a><br />
+</script>
+<h3>
+    Connect With Us</h3>
+<div class="socialmedialinks">
+    <!--<a href="http://www.facebook.com/pages/Rugs-Direct/261737700079" target="_blank" onclick="omniture_call_fb();"><img src="/Content/Images/facebook.gif" alt="Find us on Facebook" height="24" width="24" /></a> <a href="http://www.facebook.com/pages/Rugs-Direct/261737700079" target="_blank" onclick="omniture_call_fb();">Find us on Facebook</a><br />
                 <a href="http://www.twitter.com/Rugology" target="_blank" onclick="omniture_call_twitter();"><img src="/Content/Images/twitter.gif" alt="Follow us on Twitter" height="24" width="24" /></a> <a href="http://www.twitter.com/Rugology" target="_blank" onclick="omniture_call_twitter();">Follow us on Twitter</a><br />
                 <a href="http://www.youtube.com/user/RugsDirect?feature=mhum" target="_blank" onclick="omniture_call_youtube();"><img src="/Content/Images/you_tube.gif" alt="Watch us on YouTube" height="24" width="24" /></a> <a href="http://www.youtube.com/user/RugsDirect?feature=mhum" target="_blank" onclick="omniture_call_youtube();">Watch us on YouTube</a>-->
-                <a href="http://www.facebook.com/pages/Rugs-Direct/261737700079" target="_blank" onclick="omniture_call_fb();"><img style="padding:0;" src="/Content/Images/leftnavlikeus.gif"></a>
-        </div>
-
-       <h4>
-            FREE Shipping <span>on most orders.</span></h4>
+    <a href="http://www.facebook.com/pages/Rugs-Direct/261737700079" target="_blank" onclick="omniture_call_fb();">
+        <img style="padding: 0;" src="/Content/Images/leftnavlikeus.gif"></a>
+</div>
+<h4>
+    FREE Shipping <span>on most orders.</span></h4>
 
         </div>
                
@@ -455,12 +451,57 @@ We suggest that you review our privacy policy periodically, as we may update it 
     <input id="hdnHAS_COUNT_DOWN_ITEMS" name="hdnHAS_COUNT_DOWN_ITEMS" type="hidden" value="false">
     <div style="display: block;">
         <!-- logo -->
-        <strong><a href="http://www.rugs-direct.com"></a></strong>
-        
-        <!-- search-form / My Account -->
-        <div id="header_middle">
-            <div id="header_middle_top">
+        <strong><a href="http://www.rugs-direct.com" alt="Rugs Direct Home Page" title="Rugs Direct Home Page"></a></strong>
+
+         <!-- Cart Information -->
+        <div id="cartinfo">
+
+            <div class="float_right">
                 
+                    <span onclick="window.location='/cart/viewcart'" style="cursor: pointer;">Items:
+                        0
+                        | Total:
+                        $0.00
+                    </span>
+
+                    <ul>
+                        <li class="bold">
+                            <a href="/Cart/ViewCart">Cart</a>&nbsp;|</li>
+                        <li class="bold">
+                            
+                            Checkout
+                            </li>
+                    </ul>
+                
+            </div>
+
+            
+                    <address class="phone">
+                    <abbr>Order toll-free:</abbr>
+                    888-464-1447
+                    </address>
+                
+
+                <address class="canada">
+                    <a href="#" class="canadian_details">
+                        <img src="/Content/Images/icons/canada.png" width="15" height="15" alt="Information for Canadian Customers" title="Information for Canadian Customers">
+                    </a>
+
+                    <a href="#" class="canadian_details" alt="Information for Canadian Customers" title="Information for Canadian Customers">
+                        <b>Shipping to Canada</b>
+                    </a>
+                </address>
+            
+        </div>
+
+
+        <!-- My Account, Search, and Social -->
+        
+
+            <!-- search-form / My Account -->
+            <div id="header_middle">
+                <div id="header_middle_top">
+                    
 
 <script language="javacsript" type="text/javascript">
 
@@ -584,65 +625,66 @@ We suggest that you review our privacy policy periodically, as we may update it 
 <div id="MyAccount">
      
            
-            <span><a href="/Account/LogOn">My Account</a> |
-            <a href="/Account/LogOn">Sign In</a></span>
+            <b><span><a href="/Account/LogOn">My Account</a> |
+            <a href="/Account/LogOn">Sign In</a></span></b>
     
 </div>
 
 
 
 
-            </div>
-            <div id="header_middle_bottom">
-                <form id="searchbox" name="searchbox" action="http://www.rugs-direct.com/Shop/Navigate/" method="get">
-                <fieldset style="text-align: right;">
-                    <div id="searchSuggestionsWrapper">
-                        <div id="searchWrapper">
-                            <div style="display: inline; float: left; margin-top: 5px;">
-                                <div style="display: inline; float: left; padding-top: 2px;">
-                                    <input type="text" class="txt-search" value="Enter keywords or item #" onfocus="ClearField(this);" id="searchterm" name="searchterm">
+                </div>
+
+                <div id="header_middle_middle">
+                    <!-- search box starts here -->
+                    <form id="searchbox" name="searchbox" action="http://www.rugs-direct.com/Shop/Navigate/" method="get">
+                    <fieldset style="text-align: right;">
+                        <div id="searchSuggestionsWrapper">
+                            <div id="searchWrapper">
+                                <div style="display: inline; float: right;">
+                                    <div style="display: inline; float: right;">
+                                        <input type="submit" class="btn-search" id="btn-search" name="btn-search">
+                                    </div>
+
+                                    <div style="display: inline; float: right;">
+                                        <input type="text" class="txt-search" value="Search by rug style, color, name or description here." onfocus="ClearField(this);" id="searchterm" name="searchterm">
+                                    </div>
+
                                 </div>
-                                <div style="display: inline; float: left;">
-                                    <input type="submit" class="btn-search" id="btn-search" name="btn-search">
+                                <!--<input type="hidden" id="searchcategory" name="id" value="AreaRugs" />-->
+                                <div id="suggestionsWrapper">
                                 </div>
-                            </div>
-                            <!--<input type="hidden" id="searchcategory" name="id" value="AreaRugs" />-->
-                            <div id="suggestionsWrapper">
                             </div>
                         </div>
+                    </fieldset>
+                    </form>
+                    <!-- search box ends here -->
+                </div>
+
+                <div id="header_middle_bottom">
+                    <div id="header_middle_bottom_right">
+                        <a target="_blank" href="http://pinterest.com/rugsdirect/">
+                            <img src="/Content/Images/Buttons/btn_pinterest.png" alt="Pinterest" title="Pinterest"></a>
+                        <a target="_blank" href="https://www.facebook.com/rugsdirect.com">
+                            <img src="/Content/Images/Buttons/btn_facebook.png" alt="Facebook" title="Facebook"></a>
+                        <a target="_blank" href="http://www.twitter.com/rugsdirect">
+                            <img src="/Content/Images/Buttons/btn_twitter.png" alt="Twitter" title="Twitter"></a>
+                        <a target="_blank" href="http://www.youtube.com/user/RugsDirect">
+                            <img src="/Content/Images/Buttons/btn_youtube.png" alt="YouTube" title="YouTube"></a>
+                        <a target="_blank" href="http://instagram.com/rugs_direct">
+                            <img src="/Content/Images/Buttons/btn_instagram.png" alt="Instagram" title="Instagram"></a>
                     </div>
-                </fieldset>
-                </form>
+
+                    <div id="header_middle_bottom_left">
+                        <a target="_blank" href="http://www.rugs-direct.com/blog">
+                            <img src="/Content/Images/Buttons/btn_trendcenter.png" alt="Trend Center Home Décor Blog" title="Trend Center Home Décor Blog"></a>
+                    </div>
+                </div>
             </div>
-        </div>
         
-        <div id="cartinfo">
-            
-            <span onclick="window.location='/cart/viewcart'" style="cursor: pointer;">Items:
-                0
-                | Total:
-                $0.00</span>
-            <ul>
-                <li>
-                    <a href="/Cart/ViewCart">View Cart</a>&nbsp;|</li>
-                <li>
-                    
-                    Checkout
-                    </li>
-            </ul>
-            
-            <address>
-                <abbr>
-                    Order toll free:</abbr>
-                1-888-464-1447</address>
-            
-            <address style="margin-left: 10px; font-size: 9px;">
-                <a href="#" class="canadian_details" style="color: #333333;">
-                    <img src="/Content/Images/canadian_sm.gif" width="15" height="11" alt="Canadian Flag">
-                    <b>Information for Canadian customers</b></a></address>
-            
-        </div>
     </div>
+
+
     <div id="dialog_canadian" title="<img src='/Content/Images/canadian.gif' width='27' height='19' alt='Canadian Flag' />&nbsp;&nbsp;Information for Canadian Customers" style="display: none;">
         Get discounted shipping and pay no extra fees when you buy from
         Rugs Direct. Your purchase price includes:
@@ -653,8 +695,10 @@ We suggest that you review our privacy policy periodically, as we may update it 
             <li>Brokerage Fees</li>
         </ul>
         If you have any questions, please contact Customer Service toll-free at
-        1-888-464-1447.</div>
+        888-464-1447.</div>
 </div>
+
+
 <script language="javacsript" type="text/javascript">
 
     $(function () {
@@ -673,44 +717,16 @@ We suggest that you review our privacy policy periodically, as we may update it 
 
     });
 
-    
-            //  SAYT ENABLED
-            //  BEGIN SAYT JAVASCRIPT
-            var searchText = document.getElementById('searchterm');
-            var cx = '010234642599180017858:_qviwin9uxo';
-            var key = 'AIzaSyB83jRXlo9pPKd95F_zLEA6mz6nAwLg3BQ';
-            var sayt_params = {
-                'sayt_price_config': null,
-                'extra_params': {
-                    'clickTracking': true,
-                    'safe': false,
-                    'crowdBy': 'item+group+id(text):1'
-                }
-            };
-            var setSaytCallback = function(sayt) {
-                if (sayt == null) {
-                    // SAYT is disabled, initialize your current autocompletions code.
-                } else {
-                    window['__gcs_sayt'] = sayt;
-                    completionObject = sayt['completionController'];
-                }
-            };
-            // Autocomplete options
-            var autoCompletionOptions = {
-                'maxCompletions' : 5,
-                'styleOptions' : {
-                    'widthOffset': 72
-                }
-            };
-            
-            setupSayt(cx, key, 'searchterm', 'searchbox',
-            setSaytCallback, autoCompletionOptions, sayt_params);
-            //  END SAYT JAVASCRIPT
+
+
+      //SAYT DISABLED 
+            try {console.log('SAYT object was null, presumably it was disabled by Google.');} catch (e) {}
         
 </script>
         <!-- footer -->
         
-<div id="footer"><div class="copyright" style="text-align: left;"></div>
+
+<div id="footer"><!--<div class="copyright" style="text-align: left;"></div>-->
     <div class="more-footer">
         <div class="copyright">
             <ul>
@@ -756,7 +772,7 @@ We suggest that you review our privacy policy periodically, as we may update it 
         </div>
         <div class="copyright">
             <p>
-                Copyright © 2013 Rugs Direct All Rights Reserved.</p>
+                Copyright © 2014 Rugs Direct All Rights Reserved.</p>
             
         </div>
     </div>
