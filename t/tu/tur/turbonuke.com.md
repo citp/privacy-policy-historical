@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turbonuke.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209124208id_/http%3A//www.turbonuke.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbonuke.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071105id_/http%3A//www.turbonuke.com/privacy.php) for the most accurate reproduction.*
 
 # Turbo Nuke Privacy Policy
 
