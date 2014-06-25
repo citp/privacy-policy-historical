@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kitaramarketplace.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223174159id_/http%3A//kitaramedia.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitaramarketplace.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080400id_/http%3A//kitaramedia.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Kitara Media | Privacy Policy
+# Privacy | Kitara Media
 
 **Kitara Media, LLC is committed to strict standards for consumer privacy.**
 
@@ -32,7 +32,12 @@ In the course of serving advertisements to this site, our third-party advertiser
 **Confidentiality And Security**  
 Kitara Media, LLC has implemented reasonable security measures in order to protect all information from loss, misuse and unauthorized access, disclosure, alteration or destruction. Our employees are made aware of and are accountable for compliance with our privacy policy.
 
+**Policy Against Advertising our Website Using Unsolicited Email Messages**  
+We require that all e-mails promoting [kitaramedia.com](http://kitaramedia.com/) or its products are sent only to clients or individuals who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
+
+If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email [info@kitaramedia.com](mailto:info@kitaramedia.com). We will immediately investigate all allegations made related to unsolicited messages.
+
 **Changes To This Privacy Policy**  
 We may amend this policy from time to time. If we make any material changes in this policy we will notify you by posting a prominent announcement on our website. For questions or concerns about the information collected or used at this site or with any of our advertisers, please contact [info@kitaramedia.com](mailto:info@kitaramedia.com) or directly using the information provided on our contact-us page.
 
-Updated 01/08/2009
+Updated 06/11/2014
