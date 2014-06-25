@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greyhound.ca privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028040100id_/http%3A//www.greyhound.ca/en/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greyhound.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093601id_/https%3A//greyhound.ca/en/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Greyhound.ca | Privacy Policy
 
@@ -61,15 +61,15 @@ Our Web site also contains links to other sites for general travel information t
 If you have any questions or concerns regarding privacy and the protection of your personal information, Greyhound Canada provides the following means for contacting its Chief Privacy Officer:
 
 By email:  
-[privacy@greyhound.ca](mailto:privacy@greyhound.ca)
+[HR@greyhound.ca](mailto:HR@greyhound.ca)
 
 In writing:  
-Chief Privacy Officer  
-Greyhound Canada Transportation Corp.  
-877 Greyhound Way SW  
-Calgary, AB, T3C 3V8
+Human Resources  
+Greyhound Canada Transportation ULC  
+1733 rue Berri, suite 1715  
+Montreal, QC, H2L 4E9
 
-Facsimile: 403-260-0747
+Facsimile: 514-564-4071
 
 Telephone: 403-218-1100
 
