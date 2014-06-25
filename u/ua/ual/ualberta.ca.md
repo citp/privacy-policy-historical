@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ualberta.ca privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225103010id_/http%3A//www.uofa.ualberta.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ualberta.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075141id_/http%3A//www.uofa.ualberta.ca/privacy) for the most accurate reproduction.*
 
 # Privacy - University of Alberta
 
@@ -53,10 +53,10 @@ Where personal information is provided that enters a system of records, it is co
 
 The University of Alberta uses Google Analytics to gather statistics on portions of its web site. UAlberta will use the information gathered to improve digital services for its patrons. 
 
-Google Analytics employs cookies to define user sessions , which allows for the collection of important data about how our patrons are using the site. Google Analytics uses only first-party cookies for data analysis. This means that the cookies are linked to the UAlberta’s website domain(s), and UAlberta will only use the collected data and cookies for aggregate and non-individual statistical analysis related to your browsing behaviour.
+Google Analytics employs cookies to define user sessions, which allows for the collection of important data about how our patrons are using the site. Google Analytics uses only first-party cookies for data analysis. This means that the cookies are linked to the UAlberta’s website domain(s), and UAlberta will only use the collected data and cookies for aggregate, including age, gender and possibly interests for non-individual statistical analysis related to your browsing behaviour.
 
 According to Google, the data collected cannot be altered or retrieved by services from other domains. If you choose, you can opt out by turning off cookies in the preferences settings in your browser. For more information on Google Analytics, please visit [Google’s web site](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies).
 
 **Getting more information**
 
-For questions or comments regarding this policy, or for additional information about the administration of the Freedom of Information and Protection of Privacy Act, contact the University of Alberta [Information and Privacy Office.](http://www.ipo.ualberta.ca/index.aspx?p=507)
+For questions or comments regarding this policy, or for additional information about the administration of the Freedom of Information and Protection of Privacy Act, contact the University of Alberta [Information and Privacy Office](http://www.ipo.ualberta.ca/FOIPP-Act.aspx).
