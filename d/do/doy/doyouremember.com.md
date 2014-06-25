@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115015014id_/http%3A//doyouremember.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092917id_/http%3A//doyouremember.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Do You Remember
 
@@ -111,4 +111,4 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ### VIII. QUESTIONS OR CONCERNS
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to[support@DoYouRemember.com](mailto:support@DoYouRemember.com) . We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [support@DoYouRemember.com](mailto:support@DoYouRemember.com) . We will make every effort to resolve your concerns.
