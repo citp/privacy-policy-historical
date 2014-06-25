@@ -1,42 +1,64 @@
-> *The following text is extracted and transformed from the betaclassifieds.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122191849id_/http%3A//www.betaclassifieds.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betaclassifieds.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060311id_/http%3A//www.betaclassifieds.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# BetaClassifieds
+# Beta Classifieds
 
-**Your Privacy**  
-We respect your privacy. We only use the information we collect about you to process orders and to provide a personalized shopping experience. 
+## Privacy Policy
 
-**What information do we collect?**  
-When you register as a Customer, you submit your name, email address and country. This information allows us to fulfill your orders and to contact you if the need arises. All customer information stored on our servers about you can be accessed or modified by you at any time by logging into My Account with your email address and password.
+Beta Classifieds has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by Beta Classifieds from time to time. Beta Classifieds will provide notice of materially significant changes to this privacy policy by posting notice on our site. 
 
-**Will you disclose this Information?**   
-No! Never! Your private information is too precious to share with anyone. Information gathered on this site is NEVER made available to third party vendors and NEVER sold to mailing list distributors.
+### 1\. Protecting your privacy
 
-**Email Notifications**  
-When you register as a Customer, you will receive an automated email containing your Customer 
+  * We do not run banner ads, pop ups, pop unders, or any other kind of commercial ads.
+  * We do not share your information with third parties for marketing purposes.
+  * We do not engage in cross-marketing or link-referral programs with other sites.
+  * We do not employ tracking devices for marketing purposes ("cookies", "web beacons," single-pixel gifs).
+  * We do send you unsolicited communications for marketing purposes. 
+  * Forums uses basic webserver authentication. Close your browser to log out.
+  * Beta Classifieds do knowingly collect any information from persons under the age of 13. If we learns that a posting is by a person under the age of 13, Beta Classifieds will keep that post.
+  * Beta Classifieds, or people who post on this website, may provide links to third party websites, which may have different privacy practices. We are not responsible for, nor have any control over, the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited. 
 
-Log
 
-In details.  
-When you purchase goods from us, you will receive an automated receipt by email. We only email you in person if we need to clarify details about your order or if we are responding to your questions or queries.
 
-**Email Communications and Newsletters**  
-We send out occasional email newsletters to our customers. Our newsletters contain information about new products, special promotions, product updates, discounts and unique offers.  
-You have the option to unsubscribe any any time by logging into your Customer Account Area and updating your Newsletter Preferences.
+### 2\. Data we collect
 
-**Credit and DebitCard Information**  
-As we use secure third party payment processors like PayPal to process credit 
+  * We sometimes collect your email address, for purposes such as sending self-publishing and confirmation emails, registering for forums, etc.
+  * For paid postings, we collect contact information, such as name(s), phone/fax number(s), and address for billing purposes.
+  * Beta Classifieds does not store credit card information. Credit card transactions are transmitted to a financial gateway, and we endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology.
+  * We may collect personal information if you provide it in feedback or comments, post it on our classifieds or interactive forums, or if you contact us directly. Please do not post any personal information on our discussion forums or classifieds posts that you expect to keep private.
+  * Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administer our website, and to otherwise provide our service to you.
 
-card
 
-and debit card orders, we do not have any access to your credit card information at all.  
-When you make a purchase at this store, you are transferred to the secure servers of our payment processors. No credit card information is ever stored in our site database. 
 
-**Cookie Usage, Security and Safe Shopping**  
-This website uses cookies to store information on your local computer. These cookies do NOT contain any of your private information; they serve only to store items in your Shopping Basket or to recognize you as a registered Customer when you Log In or access 
+### 3\. Data we store
 
-your Account
+  * All classified and forum postings are stored in our database, even after "deletion," and may be archived elsewhere.
+  * Our web logs and other records are stored indefinitely.
+  * Although we make good faith efforts to store the information in a secure operating environment that is not available to the public, we cannot guarantee complete security.
 
-.  
-This prevents unauthorized users from accessing your private information.
 
-We reserve the right to modify these policies for any reason at any time. 
+
+### 4\. Archiving and display of Beta Classifieds postings by search engines and other sites
+
+Search engines and other sites not affiliated with Beta Classifieds - including archive.org, google.com, and groups.yahoo.com - archive or otherwise make available Beta Classifieds ad postings, including resumes. 
+
+
+### 5\. Circumstances in which Beta Classifieds may release information
+
+  * We may disclose information about the users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.
+  * Beta Classifieds may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of craigslist, its users or the general public.
+
+
+
+### 6\. International Users
+
+By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of our website we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the Poland. By providing us with your data, you consent to the transfer of such data. 
+
+
+### 7\. Feedback and comments
+
+We welcome your feedback on this document in our [contact form](http://www.betaclassifieds.com/index.php?view=page&pagename=contact). We would be glad to explain you any terms for your better understanding. 
+
+
+|  **Categories »**  
+  
+
