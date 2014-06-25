@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snapnzip.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126063428id_/http%3A//www.snapnzip.com/t/privacyinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapnzip.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012329id_/http%3A//snapnzip.com/t/privacyinfo) for the most accurate reproduction.*
 
-# Discount designer handbags and fashion accessories.. Privacy Policy
+# Fashion accessories. Privacy Policy
 
 Thank you for visiting snapnzip.com and taking the time to read our Privacy. We take your personal information seriously and don't sell it to anyone. We collect just enough data from you for order fulfillment or marketing efforts.
 
@@ -8,7 +8,7 @@ Thank you for visiting snapnzip.com and taking the time to read our Privacy. We 
 
 We collect the data you give us:  contact information (name, email address, mailing address, phone number) and preferences information (order history). We might also routinely gather information about your computer such as your IP address. We use this information to analyze traffic to the site in order to improve our website and marketing efforts.
 
-We do not store your credit card information on this website.  If you choose our standard credit card method to pay for your order, your credit card information is securely transmitted to a major third party payment service for processing.  If you choose PayPal payment option to finalize your order, your credit card information is secured with PayPal.
+After processing a credit card transaction, we are done with it and do not store the credit card number in our database.
 
 **Cookies**
 
