@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freewebcamporntube.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919095420id_/http%3A//www.fuckcams.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebcamporntube.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052609id_/http%3A//www.fuckcams.com/privacy.html) for the most accurate reproduction.*
 
-# FuckCams - Privacy
+# FuckCams - Privacy Policy
 
 [Home](http://www.fuckcams.com/) / Privacy Policy
 
