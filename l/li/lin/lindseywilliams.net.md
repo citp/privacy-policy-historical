@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the lindseywilliams.net privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102095623id_/http%3A//www.lindseywilliams.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindseywilliams.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232456id_/http%3A//www.lindseywilliams.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lindsey Williams
 
-******Your Privacy __** _ ___  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. ** _ ___**
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 **Google Adsense and the DoubleClick DART Cookie**  
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
