@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goname.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114051621id_/http%3A//www.goname.com/help/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goname.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105755id_/http%3A//www.goname.com/help/privacyPolicy) for the most accurate reproduction.*
 
 # Go Name ::
 
@@ -12,7 +12,7 @@ GoName respects your privacy. We do not sell or rent your personal information t
 
 The privacy policy of this statement applies to our services offered under the domain name GoName and to our subsidiaries or joint venture websites. We promise that we will not use your personal information in any way that is incompatible with this privacy policy. By visiting this website you agree to be bound by the terms and conditions of this privacy policy. This privacy policy is incorporated into and subject to the terms of the GoName Universal Terms of Service (“UTOS”) Agreement. Please do not use or access the GoName website if you do not agree to the UTOS or to this privacy policy.
 
-GoName does not create individual profiles for visitors. We only collects aggregate data.  Because your trust and confidence is important to us, DNI conducts its business under the following privacy principles: 
+GoName does not create individual profiles for visitors. We only collects aggregate data.  Because your trust and confidence is important to us, GoName conducts its business under the following privacy principles: 
 
 **Principle 1 - No Collection of Personal Information**
 
