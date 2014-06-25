@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oddsmonkey.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029202416id_/http%3A//oddsmonkey.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddsmonkey.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124728id_/http%3A//oddsmonkey.com/privacy.aspx) for the most accurate reproduction.*
 
-# Odds Monkey > Home
+# Oddsmonkey - Home
 
 Odds Monkey is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Odds Monkey Web site and governs data collection and usage. By using the Odds Monkey website, you consent to the data practices described in this statement.
 
