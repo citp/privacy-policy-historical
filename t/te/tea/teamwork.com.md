@@ -1,84 +1,58 @@
-> *The following text is extracted and transformed from the teamwork.com privacy policy that was archived on 1999-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991222002032id_/http%3A//teamwork.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamwork.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063445id_/https%3A//www.teamwork.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Statement for Teamwork.com
+# Privacy Policy Teamwork Project Manager
 
-## Privacy Statement for Teamwork.com
+## Find Your Installation
 
-* * *
+To login to your site, just provide us with your email  
+address and we will find your installation.
 
-Knowledge Engineering Group, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **Teamwork.com**.
+Your privacy is of great importance to us. This Privacy Policy exists to tell you what kind of information we may gather while you visit our website and how we may use such information.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and to gather broad demographic information.
+We do not collect any personally identifiable information about individuals with two exceptions: when such information is voluntarily submitted by the visitor through forms, and some incidental statistics of site usage which are collected automatically.
 
-Our site's registration form may requires users to give us contact information (like their name and email address), unique identifiers and demographic information (like their zip code, age). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+###  Personal Information You Choose to Provide
 
-Unique identifiers (such as userids) are collected to verify the user's identity, for use as account numbers in our record system, and for other purposes. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
+In order to enable visitors of our website to see certain pages, when specifically requested by them, we require some contact information, (such as name, and e-mail address). The information collected shall be used for the purposes specified when it was collected, to respond to visitor’s inquiries, and fulfil e-mail messaging programs to notify visitors about new content or services on our website.
 
-This site contains links to other sites. **Teamwork.com** is not responsible for the privacy practices or the content of such Web sites.
+Any information given to us shall be stored and managed the greatest care, and will not be used in ways to which you have not consented. We will not sell, rent, or exchange such personally identifiable information to any other organization or entity. Notwithstanding the above, we may indeed disclose personal information if required to do so by subpoenas, court orders or legal process or when such disclosure is made for establishment or exercise of legal rights or in defending against legal claim, or as otherwise required by law.
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), unique identifiers (like a userid), and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system.
+If you decide you no longer wish to receive postal mailings and/or e-mails from us, please let us know by sending an e-mail or writing to us and telling us you no longer wish to receive postal mail and/or e-mail. Please provide us with your exact name, postal address, and/or e-mail address. We will make sure your name is removed from our mailing list.
 
-Our online surveys ask visitors for contact information (like their email address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system.
+###  Information Automatically Collected and Stored
 
-We run contests on our site in which we ask visitors for contact information (like their email address) and unique identifiers (like their social security number). We use contact data from our contests to send users information about our company and promotional material from some of our partners. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers (like social security numbers) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system.
+In common with many websites, we also measure the performance of our website in order to improve and customize it in favor of our visitors. During your visit, we may automatically collect and temporarily store certain usage information about visits to our websites. This information may include information such as your web request, Internet Protocol ("IP") address, browser type, referring/ existing pages and URLs, domain names, pages viewed and the date and time of your request and other such information that uniquely identify your browser. Such information is used for system administration and for producing usage statistics. We may entrust third parties with the described performance measurement. Such third parties will be required to use appropriate confidentiality and security measures.
 
-We sometimes use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+Our website may deposit certain bits of information called "cookies" in a visitor’s computer. Generally, a cookie assigns a unique number to the visitor that has no meaning outside the assigning site. Cookies can tell us how and when pages in a website are visited and by how many people. This technology does not collect an individual visitor’s identifying information; rather, this information is also in an aggregate form. The purpose of this technology and the information it provides is again to help us improve our website. Most web browsers allow the user to deny or accept the cookie feature. However, please note that cookies may be necessary to provide you with certain features (e.g. customized delivery of information) available on our website. Further information about cookies can be found at http://www.microsoft.com/info/cookies.mspx
 
-## Public Forums
+###  Linked Sites
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Links on this Site to websites are provided as a convenience to you. Such linked sites are outside our control and responsibility and are not covered by this policy. If you use any such linked sites, you should consult the privacy policies posted on those websites.  
+ 
 
-## Supplementation Information
+###  User's Data
 
-This site supplements the information that you provide with information that is received from third parties.
+Upon a user's request, we shall remove all the user's data from the website. All removed user's data shall be kept for three additional months (offline) before deletion.  
+ 
 
-## Children's Guidelines
+###  Security
 
-  1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
-  2. NOT collect personally identifiable offline contact information without prior parental consent
-  3. NOT distribute to third parties any personally identifiable information with out prior parental consent
-  4. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent
-  5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
+Although we take necessary measures in order to provide a secure website we can not fully control and therefore can not be liable for all interruptions, intrusions, errors, loss of data or any other interferences with the use of this website caused by a breach of security.  
+ 
 
+###  Limitation of Liability
 
+Under no circumstances, including but not limited to negligence, shall we be liable for any special or consequential damages that results from the use of, or the inability to use, the website and the materials in it.  
+Without derogating the aforementioned, in no event shall our total liability exceed the amount paid by you, if any, for accessing the site.  
+ 
 
-## Choice/Opt-Out
+###  Contact information
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+For any question or to request modification or deletion of your personal information, please e-mail info@teamworkpm.net  
+ 
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+###  Changes and Updates to this Policy
 
-  1. You can send email to [info@teamwork.com](mailto:info@knowledge-inc.com)
-  2. You can send mail to the following postal address: President/Head Coach  
-Teamwork.com  
-1908 East 35th Ave.  
-Hutchinson, KS 67502 
-  3. You can call the following telephone number: (316) 669-8403
+We reserve the right to amend this Privacy Policy from time to time. We will provide notification of the change on our website. The Privacy Policy does not create any contractual or other legal right in or on behalf of any party.
 
-
-
-## Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. You can send email to [info@teamwork.com](mailto:info@knowledge-inc.com)
-  2. You can send mail to the following postal address:  President/Head Coach  
-Teamwork.com  
-1908 East 35th Ave.  
-Hutchinson, KS 67502 
-  3. You can call the following telephone number: (316) 669-8403
-
-
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-Scott Scrogin  
-Knowledge Engineering Group, Inc.  
-1908 East 35th Ave.  
-Hutchinson, KS 67502[  
-scott@teamwork.com](mailto:67502scott@teamwork.com) or   
-[scott@knowledge-inc.com](mailto:scott@knowledge-inc.com)   
-  
-Back to [Teamwork.com Home](https://web.archive.org/web/19991222002032id_/http%3A//teamwork.com/index_old.htm). Updated 6/25/99.
+Your web browser isn't exactly up to date. This results in a worse experience of the site, especially visually. We suggest getting [Google Chrome](http://google.com/chrome) or [Mozilla Firefox](http://www.mozilla.org/firefox) instead.
