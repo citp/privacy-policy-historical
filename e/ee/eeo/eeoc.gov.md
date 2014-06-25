@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eeoc.gov privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112354id_/http%3A//www.eeoc.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eeoc.gov privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074123id_/http%3A//www.eeoc.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,13 +24,18 @@ If you choose to provide us with personal information, as in e-mail with a comme
 
 Electronically submitted information is maintained and destroyed according to the requirements of the Federal Records Act and the regulations and records retention schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and the Freedom of Information Act. A discussion of your rights under these laws can be found at [www.USA.gov](http://www.usa.gov/).
 
+## Social Media:
+
+Please see our [comments policy and privacy notice](http://www.eeoc.gov/facebook_policies.cfm) for Facebook, Twitter, YouTube and other social media.  
+
+
 ## Links to other sites:
 
 We may have links to other outside web sites (both federal and non-federal) that we do not control. We are not responsible for the content or privacy policies of these sites, and users should check those policies on such sites.
 
 ## Use of cookies:
 
-“Cookies” are small bits of text that are either used for the duration of the session (“session cookies”), or saved on a user’s hard drive in order to identify that user, or information about that user, the next time the user logs on to a web site (“persistent cookies”). EEOC’s websites do not use persistent cookies. Session specific cookies may be used to improve the user experience and for basic web metrics. These cookies expire in a very short time frame or when a browser window closes and are permitted by current federal guidelines.
+"Cookies" are small bits of text that are either used for the duration of the session ("session cookies"), or saved on a user's hard drive in order to identify that user, or information about that user, the next time the user logs on to a web site ("persistent cookies"). EEOC's websites do not use persistent cookies. Session specific cookies may be used to improve the user experience and for basic web metrics. These cookies expire in a very short time frame or when a browser window closes and are permitted by current federal guidelines.
 
 ## Security:
 
