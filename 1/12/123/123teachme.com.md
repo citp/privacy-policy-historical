@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123teachme.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816013557id_/http%3A//123teachme.com/learn_spanish/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123teachme.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045851id_/http%3A//www.123teachme.com/learn_spanish/privacy_policy) for the most accurate reproduction.*
 
 # 123TeachMe - Privacy Policy
 
@@ -68,5 +68,8 @@ We restrict access to personal information to 123TeachMe employees, contractors 
 **Changes to this Privacy Policy**
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date.
+
+  
+
 
 [](http://www.nulengua.com/)
