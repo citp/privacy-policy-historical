@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consequenceofsound.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208060609id_/http%3A//consequenceofsound.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consequenceofsound.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045941id_/http%3A//consequenceofsound.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Consequence of Sound
 
@@ -48,7 +48,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-Our ad network, Complex Media, also uses cookies to serve ads when you visit this website. Complex Media may use information about your visits to this website (not including your name, address, or other personal information) to provide advertisements on this website, other sites and other forms of media about goods and services that may be of interest to you. In providing advertisements, a unique third party cookie may be placed on your browser. Complex Media does not control or have access to these cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+Our ad networks also uses cookies to serve ads when you visit this website. Our ad networks may use information about your visits to this website (not including your name, address, or other personal information) to provide advertisements on this website, other sites and other forms of media about goods and services that may be of interest to you. In providing advertisements, a unique third party cookie may be placed on your browser. Our ad networks do not control or have access to these cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
 ### Do we disclose any information to outside parties?
 
