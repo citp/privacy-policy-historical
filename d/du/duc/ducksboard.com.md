@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ducksboard.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531183341id_/http%3A//ducksboard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ducksboard.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134755id_/https%3A//ducksboard.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ducksboard
+# Privacy Policy - Ducksboard
 
-### INFORMATION FOR GENERAL USERS AND REGISTERED USERS
+## INFORMATION FOR GENERAL USERS AND REGISTERED USERS
 
 Few Ducks S.L. (“Few Ducks” or “We”), the operator of the www.ducksboard.com web site (the “Website”) is committed to protecting the privacy of all the general and registered users of the website (“You” or “User”). To better protect your privacy, we provide this Privacy Policy explaining our information practices regarding the use and disclosure of user information collected and processed through our Website.
 
@@ -14,11 +14,76 @@ For simply browsing the Website, You are not required to register as a User. Use
 
 #### 2\. Cookies
 
-You are expressly advised that this Few Ducks Website uses cookies. These cookies are small data files generated in your computer which are associated exclusively to an anonymous user. The cookies used cannot read data from the hard disk.
+FewDucks S.L informs the users, through this notice, that we can use cookies when the user navigates through the different screens and pages of the site. While using our site you agree and expressly authorizes the use of cookies in accordance with our Privacy Policy.
 
-The cookies enable recognition of the users only when they have been registered so that they do not have to register each time they visit or access areas or services that are reserved exclusively for them. They also provide information on the date and time of the last visit the user made to the website and the content selected in browsing.
+**What are cookies?**
 
-#### 3\. Log files, IP addresses and information about your computer
+A cookie is a small text file that a Web server can store on the hard disk of a computer to store some information about the user. A cookie is not an executable file or a program and therefore can not propagate nor contain a virus or other malicious software, and can not be longer than 4000 characters.
+
+The use of cookies is intended solely to remember user preferences (language, country, logon, your browser features, usage of our website, etc..) Recalling their preferences will not have to, for example, ask for his country every time you visit our site. We will know the characteristics of the computer you are using so we can offer you a better browsing experience.
+
+Cookies can help our website to distinguish the user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site, personalize home pages, identify which parts of a site have been visited or keep track of selections.
+
+FewDucks S.L may use cookies in order to recognize users who have registered and to offer a better and more personalized service. They can also be used to obtain information about the date and time of the user's last visit, measure certain traffic parameters inside the site and estimate the number of visits, so that FewDucks S.L can focus and adjust services more effectively.
+
+Normally, websites use cookies to obtain statistical information on their Web pages. Note that collect data on their movements and use of our Website as statistical data, not personal. Types and purposes of cookies. Below is a list of cookies that can be found on our website and a brief description of its purpose. We assure you that none of them retains personally identifiable information about you. Some cookies personalize your visit, others remember their preferences, while others only provide us visitor statistics.
+
+**Are cookies safe?  **
+
+Yes – they don’t harm your computer.  
+Yes – they do not contain any information that could be used by others to identify you personally.  
+Yes – they do not contain any confidential details such as your email address or payment details.
+
+**Types and purposes of cookies.**
+
+Below is a list of cookies that can be found on our website and a brief description of its purpose. We assure you that none of them retains personally identifiable information about you. Some cookies personalize your visit, others remember their preferences, while others only provide us visitor statistics.
+
+**Cookie** | **Description** | **Duration** | **Owner**  
+---|---|---|---  
+sessionid | Session visitor registration: Used to record your session, it's not intrusive or maintain registration between visits or various websites. | 2 weeks | Ducksboard  
+csrftoken | The CSRF token provides protection against Cross Site Request Forgeries. This type of attack occurs when a malicious Web site contains a link, a form button or some javascript that is intended to perform some action on your Web site, using the credentials of a logged-in user who visits the malicious site in their browser. | 2 weeks | Ducksboard  
+duckuser | This cookie is used to avoid loading tracking scripts (Google Analytics and Mixpanel) in the product homepage when the user ir loogein into Ducksboard. | 1 year | Ducksboard  
+__utma | Identification of unique visitors: Used to record unique visitors for statistical and analytical. | 2 years | Google Analtyics  
+__utmz | Record traffic sources and navigation: Used to record how you came to our website (for a Google search, a notice, etc.) And the routes that remains when online. We use this information to improve the user experience in future updates. | 6 months | Google Analtyics  
+__utmc | Determination of the visitor session: Google Analytics uses two cookies to establish a session. If any of these cookies, other activity starts the beginning of a new session | Session | Google Analtyics  
+_vis_opt_exp_EXPERIMENT_ID_combi | This cookie is generated when users reach a particular combination. This makes sure that users see the same variation that they earlier saw when they visited the page. | 100 days | Visual Website Optimizer  
+_vis_opt_exp_EXPERIMENT_ID_goal_GOAL_ID: | This cookie is generated when a goal is made. | 100 days | Visual Website Optimizer  
+_vis_opt_test_cookie | This is a session (temporary) cookie generated to detect if the cookies are enabled or not on the browser of the user. | session | Visual Website Optimizer  
+__gads | These cookies are used by Google (doubleclick.net), to give us information on how visitors use our site, after they have seen our adverts on other sites. | 1 year | Google Adsense  
+mp_*_mixpanel | This cookie is set by mixpanel analytics and helps us understand how people are using the site so we can improve the experience. You can find more information about Mixpanel’s privacy policy here:  
+https://mixpanel.com/privacy/ | 1 year | Mixpanel  
+django_language | This cookie enables us to display information in user's preferred language | 2 weeks | Ducksboard  
+messages | We use this cookie to persist notifications across request | Session | Ducksboard  
+  
+**Protection safeguards.**
+
+You can set your browser to accept or reject the cookies you receive or to have the browser notify you when a server wants to send a cookie to your computer or delete them. You can find instructions on the security settings on your Web browser.
+
+Examples:
+
+• If you use Microsoft Internet Explorer, on the Tools menu> Internet Options> Privacy> Settings.
+
+• If you use Firefox, the menu item Tools> Options> Privacy> Cookies.
+
+• If you use Google Chrome in the menu Settings> Privacy
+
+• If you use Safari on the menu Preferences> Security
+
+You can use the "Help" section in the toolbar of most browsers to change the settings of your computer, however, some of the features of our online services may not work or may be more difficult to access if you reject all cookies. Most browsers allow you to turn a private mode whereby whenever cookies are deleted after your visit. Depending on the browser, Private thus may have different names, below you can find a list of the most common browsers and different names for this "private mode":
+
+\- Internet Explorer 8 and above: InPrivate
+
+\- Firefox 3.5 and above: Private Browsing
+
+\- Google Chrome 10 and above: Incognito
+
+\- Safari 2 and above: Private Browsing
+
+\- Opera 10.5 and higher: Private Browsing
+
+Please carefully read the help section of your browser to learn more about how to activate the "private mode". You can still visit our Web while your browser is set to "private mode", however, the user experience may not be optimal and some utilities may not work. FewDucks S.L thanks you activate the acceptance of cookies, this helps us to obtain more detailed data that allow us to improve the content and layout of our website to suit your preferences.
+
+**3\. Log files, IP addresses and information about your computer.**
 
 Due to the communications standards on the internet, when you visit the Few Ducks Website we automatically receive the URL of the site from which you came and the site to which you are going when you leave Few Ducks. Few Ducks also receives the internet protocol (“IP”) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, email patterns, mobile device operating system (if you are accessing Few Ducks using a mobile device), as well as the name of your ISP or your mobile carrier. We use this information to analyze overall trends to help improve the service. The linkage between your IP address and your personally identifiable information is not shared with third parties without your permission.
 
@@ -38,19 +103,19 @@ Unless a specific local regulation sets forth to the contrary, the Privacy Polic
 
 Users have the right to access, rectify, erase, block and oppose any processing of their personal data. Moreover, Users may at any time withdraw their consent to the processing of their personal data and information. This withdrawal will not have retroactive effects but may prevent providing the Services. The above is without prejudice to provisions of Spanish applicable law enabling conservation of data for the purpose of defending the responsibility of Few Ducks and complying with mandatory legal obligations. The aforementioned rights may be effective by contacting us at [contact@ducksboard.com](mailto:contact@ducksboard.com) or at Few Ducks S.L., 27 Calle de Jose, Abascal, 28003, Madrid, Spain.
 
-### ADDITIONAL INFORMATION FOR REGISTERED USERS
+## ADDITIONAL INFORMATION FOR REGISTERED USERS
 
 #### 1\. Data Collection
 
-  * _Registration_ : If you require access to or use of the Few Ducks Services, We require you to register with Few Ducks as a user (“Registered User”) and we will collect your name, surname, email address, username and password. Responses to questions about personal data on registration are obligatory and if they are not provided, an account cannot be created. 
-  * _Online service data_ : In addition, when activated by the user, in order to connect with your online accounts via Few Ducks (Google, Twitter, Facebook, LinkedIn, etc.), and to access and use data from such accounts requested by the user for the Services, we will request you to provide your social network account logon or authentication data. 
+  * _Registration_ : If you require access to or use of the Few Ducks Services, We require you to register with Few Ducks as a user (“Registered User”) and we will collect your name, surname, email address, username and password. Responses to questions about personal data on registration are obligatory and if they are not provided, an account cannot be created.
+  * _Online service data_ : In addition, when activated by the user, in order to connect with your online accounts via Few Ducks (Google, Twitter, Facebook, LinkedIn, etc.), and to access and use data from such accounts requested by the user for the Services, we will request you to provide your social network account logon or authentication data.
 
 
 
 It is forbidden to submit any personal data that contains sensitive data that is relative to identifiable persons such as:
 
   * User’s and or third party’s racial origin, membership in a trade union, religion, ideology and sexual life;
-  * User’s and or third party’s health, unless it proves necessary in order to assert any handicap or disability situation for labour purposes; or 
+  * User’s and or third party’s health, unless it proves necessary in order to assert any handicap or disability situation for labour purposes; or
   * User’s and or third party’s relative to the commission of criminal offences or proceedings and associated penalties or fines.
 
 
@@ -81,16 +146,16 @@ Your consent to personal data collection and processing may be revoked, without 
 
 Few Ducks warrants that it treats your personal data with strict confidentiality in accordance with applicable law. However there are some situations in which Few Ducks shall disclose any personally identifiable and/or non personally identifiable information about you or your use of our Services, in compliance with a legal obligation or in order to correctly deliver its Services or perform other obligations in accordance to the applicable regulations and rules set forth in the [Terms of Service](http://ducksboard.com/terms-of-service/).
 
-In particular, Registered Users instruct and authorize us to disclose certain personal information and the information on their personal Ducksboard dashboard when they publish their Ducksboard to the other Users within or outside the same group of company, and within or outside the EEA. In doing so Few Ducks is acting in accordance with the Users’ instructions and such disclosure is under the Users’ sole responsibility (see point 5 below for applicable conditions). 
+In particular, Registered Users instruct and authorize us to disclose certain personal information and the information on their personal Ducksboard dashboard when they publish their Ducksboard to the other Users within or outside the same group of company, and within or outside the EEA. In doing so Few Ducks is acting in accordance with the Users’ instructions and such disclosure is under the Users’ sole responsibility (see point 5 below for applicable conditions).
 
 #### 5\. Conditions of Use of User Data by other Users
 
 When activated by the Registered User, sharing its data with third parties (by obfuscated link or other technical means) is hereby authorised in relation to the determined parties to whom the Registered User provides such sharing mechanism. In such case, any User of the Services who is provided with or has access to personal data of other Users or persons (“Receiving User”) expressly agrees to:
 
   * Process and use the data in accordance with the terms set forth herein and only for the explicit purposes of the Services, or otherwise with the consent of the User.
-  * Not to transfer any personal data relating to any individual that has not been expressly authorized by that person or this Policy. 
+  * Not to transfer any personal data relating to any individual that has not been expressly authorized by that person or this Policy.
   * Protect the confidentiality of any accessible personal data and avoiding access by any unauthorized third person.
-  * Inform Few Ducks within 24 hours about any problem arisen in relation with user data management. 
+  * Inform Few Ducks within 24 hours about any problem arisen in relation with user data management.
 
 
 
@@ -124,4 +189,4 @@ Data Processor shall provide Users with reasonable assistance in the event that 
 
 User warrants that it has all the appropriate consents from data subjects whose personal data are submitted to Few Ducks in the course of the provision of the Services. User will indemnify and keep Few Ducks harmless from all claims, damages and losses it may suffer relating to or arising out of the processing of third party personal data submitted to Few Ducks systems during the course of the provision of the Services.
 
-##### Version: November 2011
+##### Version: January 2014
