@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pursecase.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126220648id_/http%3A//pursecase.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pursecase.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103943id_/http%3A//pursecase.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | pursecase
 
@@ -20,11 +20,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at jenn@pursecase.com or mailing us at:
-
-pursecase
-
-13775 Magnolia Avenue, Unit B, Chino, CA, US 91710.
+If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at jenn@pursecase.com or mailing us at: pursecase LLC, 14575 Yorba Ave., Chino, CA 91710.
 
 #### SECTION 3 - DISCLOSURE
 
@@ -108,7 +104,7 @@ If our store is acquired or merged with another company, your information may be
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at jenn@pursecase.com or by mail at 
 
-pursecase
+pursecase LLC
 
 [Re: Privacy Compliance Officer]  
 
