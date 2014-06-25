@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtpr.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126161340id_/http%3A//rtpr.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtpr.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105244id_/http%3A//rtpr.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # RTPR.com Privacy Policy
 
@@ -51,9 +51,9 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 RTPR LLC.  
 rtpr.com  
-7631 NW 192nd St  
-Edmond OK. 73012  
+P.O. Box 798  
+Cabot, AR. 72023  
 877-787-7180  
 admin@rtpr.com
 
-This document was last updated on March 1, 2012
+This document was last updated on March 1, 2014
