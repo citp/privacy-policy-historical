@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the knowexcel.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811064233id_/http%3A//www.knowexcel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowexcel.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234443id_/http%3A//www.knowexcel.com/privacy.php) for the most accurate reproduction.*
 
-# KnowExcel.com - Help with Excel - Teach Microsoft Excel
+# KnowExcel.com - Contact Page - Help with Excel - Teach Microsoft Excel
 
-**What information do we collect?**
+What information do we collect? 
 
 We collect information from you when you fill out a form. 
 
