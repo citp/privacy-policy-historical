@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tombraiders.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501034542id_/http%3A//tombraiders.net/stella/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tombraiders.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081235id_/http%3A//tombraiders.net/stella/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Tombraiders.net | Stella's Site
 
-This page was last updated on 3/2/2013.
+This page was last updated on 6/12/14.
 
 ##### GENERAL
 
@@ -30,7 +30,9 @@ For more general information about cookies and how they work, please visit [Coo
 
 My sites do not use cookies. However, the advertisements displayed on my pages do use cookies to track which ads a user clicks and to identify my site as the one responsible for "click-throughs" to an advertiser's site. I do not have access to or control over the cookies delivered when an ad is displayed or when a user visits an advertiser's site. Users are welcome to browse my sites with cookies disabled or to reject specific cookies if they choose. Check your web browser's help files for information on changing your privacy/cookie settings.
 
-Please note that all of these companies represent numerous individual advertisers. If you have questions about specific advertisers' policies, please visit their individual sites. 
+Please note that all of these companies represent numerous individual advertisers and merchants. If you have questions about a specific company's policies, please visit their individual sites.
+
+For other affiliates, such as [iTunes](https://itunes.apple.com/us/artist/tomb-raider/id60038777?uo=4&at=11lvvZ), [Things from Another World](http://www.shareasale.com/r.cfm?b=87029&u=49588&m=8908&urllink=&afftrack=) and , again please refer to their individual sites for more information on what data they collect.
 
 ##### LINKS
 
