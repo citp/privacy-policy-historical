@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshershome.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231062713id_/http%3A//www.freshershome.com/jobs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshershome.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060551id_/http%3A//www.freshershome.com/jobs/privacy.php) for the most accurate reproduction.*
 
 # Freshershome.com - Privacy Policy!
 
