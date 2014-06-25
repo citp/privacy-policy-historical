@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foodieblogroll.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927121004id_/http%3A//www.foodieblogroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodieblogroll.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102607id_/http%3A//www.foodieblogroll.com/privacy) for the most accurate reproduction.*
 
 # Foodie Blogroll : Privacy Policy
 
-[Home](https://web.archive.org/web/20130927121004id_/http%3A//www.foodieblogroll.com/privacy?mode=home) > Privacy Policy 
+[Home](https://web.archive.org/web/20140625102607id_/http%3A//www.foodieblogroll.com/privacy?mode=home) > Privacy Policy 
 
 Your privacy on the Internet is very important to us. Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the collection and use of that information. This online Privacy Policy (the "Privacy Policy") tells you about the information Foodie Blogroll.com collects through its website (the "Site") and its Network and how we use that information. By using our services and accessing the Foodie Blogroll.com, you are consenting to the information collection and use practices described in the Privacy Policy, as modified from time to time by us. 
 
@@ -121,20 +121,16 @@ This document was last updated on September 26, 2012
 
 |  | 
 
-| Average Daily Visits: |   **3,037,016** (past 7 days)  
+| Average Daily Visits: |   **1,800,157** (past 7 days)  
 ---|---  
    
-This Month: |   **67,515,949**  
-This Year: |   **667,994,612**  
+This Month: |   **18,527,666**  
+This Year: |   **332,230,230**  
   
-## Total Blogs: [16513](http://www.foodieblogroll.com/blogs)
+## Total Blogs: [17245](http://www.foodieblogroll.com/blogs)
 
-[](http://www.foodieblogroll.com/contests/mccormick-product-sampling "McCormick Product Sampling")  
+[](http://www.foodieblogroll.com/contests/share-a-buggl-travel-guide-giveaway "Share a Buggl Travel Guide Giveaway")  
   
 ---  
   
-### McCormick Product Sampling  
-  
-[](http://www.foodieblogroll.com/contests/spud-ca-product-sampling "Spud.ca Product Sampling")  
-  
-### Spud.ca Product Sampling
+### Share a Buggl Travel Guide Giveaway
