@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomgroups.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208134613id_/http%3A//www.zoomgroups.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomgroups.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130329id_/http%3A//www.zoomgroups.net/legal/privacy.html) for the most accurate reproduction.*
 
 # ZoomGroups - The Ultimate Playground to Communicate, Connect, Trade and more!
 
@@ -81,7 +81,7 @@ For these reasons, **ZoomGroups** cannot be and is not responsible of any event 
 **What should I do if I think my account has been compromised?**  
 ---  
   
-Send us immediately a message through the forms you can find in [http://www.zoomgroups.com/contact.html](https://web.archive.org/contact.html), indicating in the subject "SECURITY PROBLEM". Your message will be processed, depending on the seriousness of the problem, either immediately or within 24-48 hours. 
+Send us immediately a message through the forms you can find in [http://www.zoomgroups.net/contact.html](https://web.archive.org/contact.html), indicating in the subject "SECURITY PROBLEM". Your message will be processed, depending on the seriousness of the problem, either immediately or within 24-48 hours. 
 
 Normally, when this happens, it is because your email address has been compromised before anyone can gain access to your account in **ZoomGroups** , so it is a wise thing to do to use a different email address in the meantime. 
 
@@ -113,6 +113,6 @@ Personal data information will be cancelled whenever it is no longer needed for 
   
 This Privacy Policy will be reviewed periodically to make sure that it serves the needs of **ZoomGroups** as well as our clients and users and the current legislature. We we will always try to let our clients and users know about any changes to this policy in advance, either by updating this page, sending a message to all affected users, or by posting a prominent note in our main home page. In order to keep yourself updated with this policy, we suggest you visit this page periodically. 
 
-Should you have any questions or comments about our Privacy Policy, please contact us by visiting [_http://www.zoomgroups.com/contact.html_](http://www.zoomgroups.com/contact.html). 
+Should you have any questions or comments about our Privacy Policy, please contact us by visiting [_http://www.zoomgroups.net/contact.html_](http://www.zoomgroups.net/contact.html). 
 
 << Go back to the previous page 
