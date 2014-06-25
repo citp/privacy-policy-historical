@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the day9.tv privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223031110id_/http%3A//day9.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the day9.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130717id_/http%3A//day9.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Day[9]TV
 
