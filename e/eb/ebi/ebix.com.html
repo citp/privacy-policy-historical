@@ -1,0 +1,127 @@
+<!--The following is the downloaded HTML source of the ebix.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625113113id_/http%3A//www.ebix.com/Contents/privacy) for the most accurate reproduction.-->
+
+<html><head><link rel="shortcut icon" href="../../icons/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../../icons/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../../icons/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="../../icons/apple-touch-icon-precomposed.png">
+<link rel="stylesheet" href="../../css/fonts.css" type="text/css">
+<link rel="stylesheet" href="../../css/bootstrap.css" type="text/css">
+<link rel="stylesheet" href="../../css/bootstrap-responsive.css" type="text/css">
+<link rel="stylesheet" href="../../css/ebix.css" type="text/css">
+</head><body><div class="navbar bgwhite blue-bt-bdr">
+    <div class="row-fluid">
+        <div class="container">
+            <a href="/" class="brand">
+                <img src="../../img/logo.png"></a>
+        </div>
+        <!-- Phone Search -->
+    </div>
+</div>
+<div class="navbar">
+    <div class="container">
+        <div class="row-fluid">
+                <div class="page-header">
+                    <h1 class="big_title mr0">
+                        Privacy Policy</h1>
+                </div>
+                <h2 class="sub_title">
+                    Notice
+                </h2>
+                <p>
+                    Ebix Inc., is firmly committed to your privacy. You should understand what we do
+                    with any personal information that you provide to us while using our site. That's
+                    why we've created this Privacy Statement, which discloses our information gathering
+                    and dissemination practices.
+                </p>
+                <h2 class="sub_title">
+                    Overview
+                </h2>
+                <p>
+                    In general, using our site as a site visitor may be considered anonymous: we do
+                    not engage in any activity that will personally identify our site visitors.
+                </p>
+                <h2 class="sub_title">
+                    Registration
+                </h2>
+                <p>
+                    Using our site does not require registration of any kind other than voluntary registration
+                    for investor kits, correspondence and Career section. The personal data collected
+                    will not be sold to anyone outside and will be solely used by Ebix for a one-on-one
+                    contact with the registrants. The data collected is stored in a secure server with
+                    our ISP which will take periodic backups of it but will not give or sell them to
+                    anyone.
+                </p>
+                <h2 class="sub_title">
+                    Cookies
+                </h2>
+                <p>
+                    A "cookie" is a small piece of data that a website can send to your browser, which
+                    may then be stored on your system. Currently, the site uses session cookies in a
+                    select few pages. You can set your browser to notify you when you receive a cookie,
+                    giving you the chance to decide whether to accept it or not.
+                </p>
+                <p>
+                    Ebix reserves the right to modify or update our Privacy Policy at any time without
+                    notice, so we encourage you to review this policy from time to time.
+                </p>
+            </div>
+        </div>
+
+</div>
+
+<div class="modal hide fade" id="myModalalert">
+    <div class="modal-header">
+        <a class="close" data-dismiss="modal">×</a>
+        <h3 class="t_title">
+            Your Browser Is Old</h3>
+    </div>
+    <div class="modal-body">
+        <p>
+            This website is best viewed in ie9+, Firefox, Google Chrome, Opera and on all latest
+            browsers.</p>
+    </div>
+    <div class="modal-footer">
+        <a href="#" data-dismiss="modal" class="btn btn-primary">Ok</a>
+    </div>
+</div>
+<script src="http://code.jquery.com/jquery-1.10.0.js" type="text/javascript"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        var isIE10_11 = !!window.MSStream; // Check if browser is IE > 9
+        if (!isIE10_11) { // inside loop if IE <=9, FF, Chrome etc
+            if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)) { //test for MSIE x.x; out of loop is not IE
+                var ieversion = new Number(RegExp.$1) // capture x.x portion and store as a number
+                if (ieversion >= 9)
+                { }
+                else {
+                    $('#myModalalert').modal('show');
+                }
+            }
+        }
+    });
+</script>
+
+<script type="text/javascript">
+    $(".btn-navbar").click(function () {
+        $('html, body').animate({
+            scrollTop: $('#ebix_home').offset().top
+        }, 'slow');
+    });
+</script>
+<script type="text/javascript">
+    var supportsOrientationChange = "onorientationchange" in window,
+    orientationEvent = supportsOrientationChange ? "orientationchange" : "resize";
+
+    window.addEventListener(orientationEvent, function () {
+        window.location.reload()
+    }, false);  
+</script>
+<script type="text/javascript">
+    $(document).click(function (e) {
+        $("div.dropdown-menu").css("display", "none");
+        e.stopPropagation();
+    });
+</script>
+</body></html>
