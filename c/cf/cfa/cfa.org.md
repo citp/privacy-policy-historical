@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cfa.org privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114054113id_/http%3A//www.cfa.org/AboutCFA/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfa.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111450id_/http%3A//cfa.org/AboutCFA/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This is the web site of The Cat Fanciers' Association, Inc. (CFA). Our postal address is 260 East Main Street, Alliance, OH 44601. Phone 330-680-4070. Fax 330-680-4633. Email [cfa@cfa.org](mailto:cfa@cfa.org)
+This is the web site of The Cat Fanciers' Association, Inc. (CFA). Our postal address is 260 East Main Street, Alliance, OH 44601. Phone 330-680-4070. Fax 330-680-4633. Email [Jraymond@cfa.org](mailto:Jraymond@cfa.org)
 
 **About this Privacy Policy**
 
