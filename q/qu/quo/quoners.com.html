@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the quoners.com privacy policy that was archived on 2013-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127180806id_/http%3A//www.quoners.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quoners.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625050937id_/http%3A//www.quoners.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
@@ -24,8 +24,11 @@
 			'SCROLLPAGINATION.PREVIOUS' : 'Previous polls…',
 			'COMMON.DEBATE_CLOSED' : 'This poll is closed',
 			'COMMON.CLOSE' : 'Close',
+			'COMMON.FINISH' : 'Finish',
+			'COMMON.NEXT_QUESTION' : 'Next question',
 			'VIDEOTUTORIAL.CREATE_ACCOUNT' : 'Create account',
-			'VIDEOTUTORIAL.CREATE_DEBATE' : 'Create Poll'
+			'VIDEOTUTORIAL.CREATE_DEBATE' : 'Create Poll',
+			'QUESTIONARY.GO_TO_FIRST_DEBATE' : 'Go to first Debate'
 			
 	};
 
@@ -61,7 +64,10 @@
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-35396202-1']);
+  _gaq.push(['_setDomainName',window.location.host]);
   _gaq.push(['_trackPageview']);
+  
+  
 
   function logAnalytics(){
 	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -114,10 +120,13 @@
             <ul>
 			
 			
+			
             
             
-                <li><a href="/">Home</a></li>
-                <li><a href="/debates">Opinion polls</a></li>
+            
+
+                <li id="headerTabDebates"><a id="headerTabDebatesText" href="/debates">Opinion polls</a></li>
+                <li id="headerTabLaws"><a id="headerTabLawsText" href="/laws">Laws</a></li>
 
             </ul>
         </div>
@@ -172,7 +181,7 @@
     </div>
     <div id="settingsMenu" class="modalHeader">
         <ul>
-            <li><a href="javascript:loadDebates('/debates/myDebates', 1, 20,'My Polls');">My Polls</a></li>
+            <li><a href="/debates/myDebates">My Polls</a></li>
             <li><a href="/user/myAccount">My Account</a></li>
             <li><a href="/create/debate">Create poll</a></li>
             <li class="exit"><a href="/logout">Logout</a></li>
@@ -297,6 +306,8 @@ $('#searchCriteria').click(function(e) {
 });
 
 </script>
+
+
 		<!-- end include headerContent -->
  
         <div id="mainContent" class="staticContent">
@@ -514,15 +525,17 @@ $('#searchCriteria').click(function(e) {
         <li><a href="/contact">Contact Us</a></li>
     </ul>
     <div class="clear"></div>
-        <ul><li>© 2013 · All rights reserved. · Beta Version</li></ul>
-        <br>
+        <ul><li>© 2012-2014 · All rights reserved. </li></ul>
+        <div class="break"></div>
+        <div class="cookiesText">
+        Quoners complies with Laws on Data Protection in the terms established by the European Regulations. This site uses cookies to enhance the user experience but you can always turn them off in your browser. If you continue using the web, we consider you accept them.
+        </div>
 </div>
 <div id="loadertemplate" style="display:none">
 	<div class="loader">
 		<img src="/cdn/img/ajax-loader.gif" alt="Loading" title="Loading...">
 	</div>
 </div>
-
 
             <!-- end include footer -->
         </div>
@@ -574,7 +587,7 @@ $(function() {
 	
 	loginHeight=475;
 	
-	$("#loginDialog").dialog({ autoOpen: false, modal: true, resizable: false, width: 550, height: loginHeight, title:'login' });
+	$("#loginDialog").dialog({ autoOpen: false, modal: true, resizable: false, width: 550,  title:'login' });
 	
 	$("#qon_anonymousAuthButton").button().on('click',preLoginAnon);
 
@@ -593,25 +606,6 @@ $(function() {
 		$('#scope').val("email");
 		$('#qon_loginForm').submit();
 		});
-
-/*	
-	var strWindowFeatures = "menubar=no,location=no,resizable=yes,scrollbars=yes,status=yes,height=460,width=700";
-	$('#qon_loginGoogle').button().click(function(){
-		var windowObjectReference = window.open("/redirectTo/google", "externalLogin", strWindowFeatures);
-		$('#loginForm').attr("action","/signin/google");
-		$('#loginForm').attr("target","externalLogin");
-		$('#scope').val("https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo#email");
-		$('#loginForm').submit();
-		});
-	$('#qon_loginFacebook').button().click(function(){
-		var windowObjectReference = window.open("/redirectTo/facebook", "externalLogin", strWindowFeatures);
-		$('#loginForm').attr("action","/signin/facebook");
-		$('#loginForm').attr("target","externalLogin");
-		$('#scope').val("email");
-		$('#loginForm').submit();
-		});
-	*/
-
 });	
 
 preLoginAnon = function (){
@@ -628,13 +622,13 @@ preLoginAnon = function (){
 <b>Choose how to participate:</b>
 	
 		<div class="break"></div>
-		<div class="qonAuthOption">
+		<div class="qonAuthOption" id="qonAnonLoginButtonDiv">
 			<button id="qon_anonymousAuthButton" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Participate anonymously</span></button>
-		</div>
-		<div class="break"></div>
-		<div class="qonAuthOption">
-			Or participate using your social profile:<br>
 			<div class="break"></div>
+		</div>
+		<div class="qonAuthOption">
+			<p id="qonOrSocialButtons">Or participate using your social profile:</p>
+			<p id="qonSocialButtons" style="display: none">Participate using your social profile:</p>
 	 		<img class="qonSNLoginButton tip" alt="Sign in using Facebook" src="/cdn/img/icons/login-facebook.png" id="qon_loginFacebook"> 
 	 		<img class="qonSNLoginButton tip" alt="Sign in using Google" src="/cdn/img/icons/login-google.png" id="qon_loginGoogle">
 	 		&nbsp;&nbsp;
@@ -666,8 +660,5 @@ preLoginAnon = function (){
 				or <b><a href="/signup">Sign Up</a></b> to create your own account in Quoners
 			</form>
 		</div>	 
-	 
-	 
-	 
 	 
 </div></div><div id="tiptip_holder" style="max-width:200px;"><div id="tiptip_arrow"><div id="tiptip_arrow_inner"></div></div><div id="tiptip_content"></div></div></body></html>
