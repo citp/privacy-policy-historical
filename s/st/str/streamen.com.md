@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamen.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127142359id_/http%3A//www.streamen.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054328id_/http%3A//www.streamen.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Streamen - Privacy Policy
 
