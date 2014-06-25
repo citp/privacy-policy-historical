@@ -1,46 +1,35 @@
-> *The following text is extracted and transformed from the joomlavi.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106123937id_/http%3A//www.joomlavi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlavi.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085256id_/http%3A//joomlavi.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy - Joomla Template, Joomla Extension
+# Privacy Policy
 
-##  Privacy 
+**COLLECTION AND USE OF YOUR INFORMATION**
 
-Hits : 7192 
+**Personally identifiable data:**
 
-**1\. General**
+Data that identifies or can be used to identify user or user’s personal information may include your name, address, email address, User IP address( in case that it has not been deleted, clipped or anonymized) and your phone number etc…. We never collect personally identifiable information without your consent. If you do not wish to provide the requested information, however, you may not be able to complete the transaction. Joomlavi collects personally identifiable information that can be divided into the following categories:
 
-Joomlavi hereinafter announces you, our potential customers, the commitment and protection towards your privacy. For your sake and our companyâ€™s prestige we consider your privacy one of the vital elements of our business. The purpose of this Website Privacy Policy is to outline what data will be collected while you are visiting our website and how we deal with these data. Obviously, you totally have the right not to use our website if you are not happy with these policies. 
+Joomlavi Product Registration Information:  When ordering products or services on our site, you may be asked to provide certain personally identifiable information which is necessary to conclude the transaction, and for applicable products, to be eligible to receive technical support.  
+Credit Card Information: If you use a credit card to purchase our products via this Site, your name as it appears on the credit card, the credit card number, expiration date and billing address will be encrypted as it passes over the Internet. Joomlavi does not record or keep your credit card information for online credit-card transactions; rather such information is simply passed through to our contracted payment processing vendor. Joomlavi may access such information through the payment processing company, but does not do so except to process refunds or adjustments and to the extent necessary in the event of nonpayment or disputed payments, or as may be necessary for Joomlavi compliance, in Joomlavi discretion, with applicable law.  
+Technical Support: If you request technical support online, we will ask you for information necessary to complete the transaction such as your name, email address and information about your computer hardware, software, and the nature of the problem you are experiencing. In the course of providing support, your data may be transmitted to service providers that are under contract to Joomlavi and have agreed to abide by the provisions of this privacy policy. Such transmissions of your data are encrypted and secure.  
+Partner Application: If you request participation in the partner program online, we will ask you for information necessary to complete the transaction such as company name, email address, and company profile.
 
-Visiting this website means you accept all the terms of this Website Privacy Policy. Links to other websites are all clearly recognizable and we do take no responsibility for the content or the privacy policies of these websites. 
+**Non-personal Data:**
 
-**2\. Type of Information Collected**
+Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website. This non-personal information consist of data that cannot be used to identify or contact you such as demographic information regarding like user IP addresses where they have been clipped or anonymised, browser types and other anonymous statistical information involving the use of our website.
 
-Personal Data 
+**EMAIL COMMUNICATION**
 
-Data that identify or can be used to identify you or contact you and may include your name, address, email address, user IP address (in case that it has not been deleted, clipped or anonymised) and your phone number etc... We collect such information only if it is voluntarily provided. 
+Email: With your permission, Joomlavi will send you communications, including informative emails/newsletters about product upgrades, product updates, new products, and services. These communications provide you with special offers that may be of interest to you. Joomlavi uses a third-party program of outbound email technology to send email from our servers and does not collect information about you but does collect requests to unsubscribe.  
+Site Functionality  
+Cookies: A "cookie" is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our Site. Once you close your browser, the cookie simply terminates. For instance, by setting a cookie on our Site, you would not have to log in a password more than once, thereby saving time while on our Site. You may still use our Site if you reject the cookie. The only drawback to this is that you will be limited in some areas of our Site. For example, you will not be able to use certain features of our forum or other parts of the Site that offer customized settings.  
+Log Files: We (Joomlavi and/or our contracted web analytics provider(s)) do keep track of the domains from which you access our Site and Services on the World Wide Web, and may log IP addresses or other identifiers for statistical purposes. We do this to gather broad demographic information for aggregate use to identify and analyze trends and the results of our marketing efforts, to help diagnose problems with our servers and to administer the Site and Services, and analyze users' movements. We may periodically share aggregate demographic information with our business partners. IP addresses and other identifiers are not linked to personally identifiable information.  
+Links: This Site contains links to other sites. Please be aware that we Joomlavi are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Site.  
+Newsletter: If you wish to subscribe to our newsletter, we ask for contact information such as name and email address.
 
-Non-personal Data 
+**SECURITY OF YOUR INFORMATION**
 
-Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website. This non-personal information consist of data that cannot be used to identify or contact you such as demographic information regarding like user IP addresses where they have been clipped or anonymised, browser types and other anonymous statistical information involving the use of our website. 
+All information gathered on our site is stored and maintained in secure facilities that limit to access to authorized personnel only. In addition, internal security provides that this information is coded with restricted access, and our servers are kept in a secure, locked environment that limits access to authorized personnel only. All Joomlavi employees are briefed about the company's privacy and security policies on a regular basis. Our site is regularly tested for security breaches to ensure that all information collected is secure from unauthorized viewing.
 
-**3\. Purposes for which we hold your information**
+**CORRECTING/UPDATING PERSONAL INFORMATION**
 
-Non-personal Data These data are gathered from our websiteâ€™s visitors is for collect and classify purposes, from which we get better understanding about our visitors so that we could design and organize our website effectively and efficiently. Cookies A cookie is a piece of user information that is stored in userâ€™s computer. We do not use cookies. However, our business partners may use cookies on our sites (advertisers, for instance). We have no control or access to these cookies; we just have given them the permission to set cookies for advertising. Personal Data We will process your submitted personal data for these following purposes: \- To provide you with the information you have requested. \- To contact you if required in any communication you might send to us or to respond to your queries. \- To send you the Joomlavi Newsletter or Event Alerts. 
-
-**4\. Disclosure of Information to Third Parties**
-
-Non-personal data might be provided to third parties, where such information is combined with similar information from other users of our website. For example, we may inform third parties the number of users who visit our website, the demographic breakdown of our community users of our website or the activities that visitors engage in while staying in our website. The third parties to whom we may provide this information comprise potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties. We will not give your personal data to the third parties unless you consented to this disclosure or unless the third party is required to fulfill your order (in such circumstances, the third party is bound to similar data protection terms). We will disclosure your data only if we believe in a good faith that we are required to disclosure it in order to comply with an applicable law, a summons, a search warrant, a court or regulatory order, or other statutory requirement. 
-
-**5\. Links**
-
-Our website contains hyperlinks that may link to other websites. Please be aware that we take no responsibility for the privacy terms of these websites. We encourage you to be aware when you leave our website and read the privacy statements of each and every website that collect personal identifiable information. The privacy statements in this Website Privacy Policy are applied solely to our website. 
-
-**6\. How to contact us**
-
-Any questions regard to our Website Privacy Policy please send to **info(at)Joomlavi(dot)com**
-
-**7\. Changes to The Website Privacy Policy**
-
-Any change regards to this Website Privacy Policy will be updated here so you will always be aware of what data we collect and how it is used; as well as you will know under which circumstances we will disclosure it. In any case where we decide to user Personal Data in a manner significantly different from what stated in this Website Privacy Policy, we will send you an email to notify about this at the time we collect the data. You will have to make choice whether or not we could use your information in the new manner. 
-
-  
-
+If your personal information changes (eg. Name, address, postal code, telephone number, etc.) or you no longer desire our services, we will endeavor to provide the way to correct, update or remove this information.
