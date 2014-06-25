@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gunsnfreedom.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108231410id_/http%3A//gunsnfreedom.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsnfreedom.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131841id_/http%3A//gunsnfreedom.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Affiliate Disclosure
+# Affiliate Disclosure & Privacy
 
 ## **Privacy Policy for Gunsnfreedom.com**
 
@@ -64,4 +64,4 @@ While we attempt to always provide recommendations for products and services tha
 
 This affiliate disclosure is subject to change without notice. Please check back frequently to review its content.
 
-This Affiliate Disclosure was last updated on: July 31, 2011
+This Affiliate Disclosure was last updated on: July 31, 2013
