@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesslstore.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807105026id_/https%3A//www.thesslstore.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesslstore.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233638id_/https%3A//www.thesslstore.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: TheSSL Store.com Read our Privacy Policy
 
@@ -42,8 +42,7 @@ To view our entire detailed Privacy Policy [click here](https://web.archive.org/
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-The SSL Store  
-146 2nd Street North, Suite 106  
-St. Petersburg, Florida 33701  
-United States  
+The SSL Store™  
+146 2nd St. N. #106,  
+St. Petersburg, FL 33701 US  
 [Send an E-mail for Information](mailto:%69%6E%66%6F%40%74%68%65%53%53%4C%73%74%6F%72%65%2E%63%6F%6D)
