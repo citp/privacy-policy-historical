@@ -1,0 +1,470 @@
+<!--The following is the downloaded HTML source of the smartwebsearch.info privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625053445id_/http%3A//smartwebsearch.info/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link rel="shortcut icon" href="icon-search.png">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Smart Web Search - Your Own Search Engine</title>
+
+<script src="http://www.marghoobsuleman.com/misc/jquery.js"></script>
+<!-- <msdropdown> -->
+<link rel="stylesheet" type="text/css" href="css/msdropdown/dd.css">
+<script src="js/msdropdown/jquery.dd.min.js"></script>
+<!-- </msdropdown> -->
+<link rel="stylesheet" type="text/css" href="css/msdropdown/flags.css">
+
+
+<style>
+body
+{
+	margin:0px;
+	padding:0px;
+}
+
+a
+{
+	font-family:Calibri;
+	font-size:16pt;
+	color:#d94f36;
+	text-decoration:none;
+}
+
+#Results
+{
+	font-size:12pt;
+	font-family:Calibri;
+	color:#f1f1f2;
+	text-align:justify;
+}
+li
+{
+	font-family:Verdana, Geneva, sans-serif;
+	width:10px;
+}
+#title
+{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:18px;
+}
+#search
+{
+	background-image:url(images/searchbar.jpg);
+	width:640px;
+	height:100px;
+	margin-top:3%;
+	background-position:center;
+	background-repeat:no-repeat;
+	z-index:1000;
+	background-size:500px;
+}
+#seachtxt
+{
+	/*width:380px;
+	margin-left:-8px;
+	border-radius:3px;
+	height:22px;
+	margin-top:-25px;
+	padding:5px;
+	color:#666;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:24px;
+	background-image:url(images/txt.png);
+	background-size:400px 38px;
+	border:none;
+	z-index:1000;
+	background-repeat:no-repeat;
+	position:absolute;*/
+
+}
+#searchbtn
+{
+	width:80px;
+	height:40px;
+	opacity:1;
+	cursor:pointer;
+	background-image:url(images/searchbtn.jpg);
+	background-size:90px;
+	background-position:0px 6px;
+	border:none;
+	margin-left:-45px;
+	margin-top:-6px;
+}
+#pagination
+{
+	 height:80px;
+	 width:70%;
+	 border:solid 0px #036;
+}
+#pagination input
+{
+	 font-size:12px;
+	 color:#F63;
+	 font-family:Tahoma, Geneva, sans-serif;
+	 background-color:none;
+	 border:none;
+	 cursor:pointer;
+}
+#pagination input:hover
+{
+	 text-decoration:underline;
+}
+#topsearch
+{
+	width:100%;
+
+	box-shadow:0px 0px 0px #333;
+	height:120px;
+}
+#colortheme
+{
+	width:100%;
+	height:60px;
+	border-radius:8px;
+	margin-top:3px;
+	
+}
+#minilink
+{
+	color:#43a18e;
+}
+#footer
+{
+	background-image:url(images/footer.png);
+	width:100%;
+	height:45px;
+	background-color:#33333d;
+	background-position:center;
+	background-position:0px -32px;
+	bottom:0%;
+	position:absolute;
+	background-repeat:repeat-x;
+	position:fixed;
+	border:solid 0px;
+}
+
+#footer a
+{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#FFF;
+}
+#Results
+{
+	font-size:12px;
+}
+</style>
+
+<script src="colortheme.js" type="text/javascript">
+</script>
+ <script>
+	function abc()
+	{
+		
+		var searchtxt = document.getElementById("seachtxt").value;
+		
+		window.open("http://result.smartwebsearch.info/images.php?word="+searchtxt,"_self");
+	}
+	function web()
+	{
+		
+		var searchtxt = document.getElementById("seachtxt").value;
+		
+		window.open("http://result.smartwebsearch.info/web.php?word="+searchtxt,"_self");
+	}
+	function news()
+	{
+		
+		var searchtxt = document.getElementById("seachtxt").value;
+		
+		window.open("http://result.smartwebsearch.info/news.php?word="+searchtxt,"_self");
+	}
+	function videos()
+	{
+		
+		var searchtxt = document.getElementById("seachtxt").value;
+		
+		window.open("http://result.smartwebsearch.info/videos.php?word="+searchtxt,"_self");
+	}
+	
+	function pagincationhide()
+	{
+		document.getElementById("pagincation").style.display = "none";
+	}
+	
+	function pagincationshow()
+	{
+		document.getElementById("pagincation").style.display = "block";
+	}
+	
+		function changelang()
+{
+	var lang_val = document.getElementById('countries').value;
+	if(lang_val == "eng")
+	{
+		window.open("http://www.smartwebsearch.info","_self");
+	}
+	else if(lang_val == "ger")
+	{
+		window.open("http://www.smartwebsearch.info/de","_self");
+	}
+	else if(lang_val == "fr")
+	{
+		window.open("http://www.smartwebsearch.info/fr","_self");
+	}
+	else if(lang_val == "spa")
+	{
+		window.open("http://www.smartwebsearch.info/es","_self");
+	}
+	else if(lang_val == "it")
+	{
+		window.open("http://www.smartwebsearch.info/tl","_self");
+	}
+}
+
+	</script>
+    
+</head>
+
+<body style="background-color: rgb(51, 51, 61);">
+
+    <style>
+
+	#resultcount
+	{
+		color:#46b29b;
+	}
+    #resultpage
+    {
+        color:#46b29b;
+    }
+	
+	</style>
+    <script>
+			document.body.style.backgroundColor = "#33333d";
+			document.getElementById("topsearch").style.backgroundColor = "#33333d";
+		
+			document.getElementById("resultcount").style.color = "#FFF";
+			
+		</script>
+    <div id="header" style="width:100%;height:66px;position:absolute;top:0%;background-image:url(images/header.png);background-position:center">
+<!--
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<!-- Translate This button: 
+<div class="translate_this notranslate" style="margin-left:-8%;">
+<a class="translate_this_drop translate_this_tc_icon" title="Translate" href="http://translationcloud.com" style="opacity:0">translator</a>
+	<a class="translate_this_drop translate_this_translate_text" title="Translate" href="http://translationcloud.com" style="opacity:0">Translate</a>
+	<span class="translate_this_separator"> | </span>
+	<a class="translate_this_no_drop" title="French" href="http://translationcloud.com/languages/french/" rel="fr" style="opacity:0">French</a> 
+	<a class="translate_this_no_drop" title="Spanish" href="http://translationcloud.com/languages/spanish/" rel="es" style="opacity:0">Spanish translation</a> 
+
+	<a class="translate_this_no_drop" title="German" href="http://translationcloud.com/languages/german/" rel="de">translate German</a> 
+	<a class="translate_this_no_drop" title="Chinese" href="http://translationcloud.com/languages/chinese/" rel="zh-CHS" style="opacity:0">translate Chinese</a>
+</div>
+<script src="http://s1.translationcloud.com/_3_0/javascript/e.js?translate_this_src=en"></script>
+
+-->
+<center>
+
+<div id="colortheme">
+	
+	<div style="position:relative;width:1000px;height:120px;border:solid 0px;margin-top:0px;" align="right">
+    <br>
+     <img src="images/colortheme.png" style="position:absolute;right:0%;">
+    <form action="#" method="post">
+    <input type="submit" name="yellow" style="width:20px;height:25px;border:solid 1px;right:1.2%;cursor:pointer;margin-left:-30px;opacity:0" onclick="changetheme('edc948')">
+    	
+        <input type="submit" name="red" style="width:20px;height:25px;border:solid 1px;right:3.6%;cursor:pointer;opacity:0" onclick="changetheme('e15c4a')">
+        
+        <input type="submit" name="orange" style="width:20px;height:25px;border:solid 1px;right:6%;cursor:pointer;opacity:0" value="" onclick="changetheme('e17c3d')">
+       
+        <input type="submit" name="green" style="width:20px;height:25px;border:solid 1px;right:8.6%;cursor:pointer;opacity:0" onclick="changetheme('46b29b')">
+      
+        <input type="submit" name="black" style="width:30px;height:25px;border:solid 1px;right:12%;cursor:pointer;background-color:#0F6;opacity:0" onclick="changetheme('33333d')">
+        </form>
+ 		
+         
+    </div>
+    
+    
+</div>
+
+
+<div id="home" style="width:1000px;position:relative;border:solid 0px;height:50px;margin-top:-90px;">
+	<a href="index.php"> 
+    <img src="images/home.png" width="20" style="position:absolute;left:-2%;bottom:0%">
+    </a>
+     
+     
+             <div style="position:absolute;left:1%;bottom:0%;width:173px;height:40px;border:solid 0px;color:#FFF;font-family:Tahoma, Geneva, sans-serif;font-size:12px;display:table"> <span style="font-size:14px;">Choose Country</span>
+   <select onchange="changelang();" name="countries" id="countries" style="margin-left:13px !important;height:20px !important;margin-top:18px;">
+
+
+    	<option value="eng" data-image="english.gif"></option>
+        <option value="ger" data-image="german.gif" data-imagecss="flag de" data-title="Germany"></option>
+        <option value="fr" data-image="italy.png" data-imagecss="flag de" data-title="France"></option>
+        <option value="spa" data-image="span.gif" data-imagecss="flag de" data-title="Spain"></option>
+        <option value="it" data-image="italy1.png" data-imagecss="flag de" data-title="Italy"></option>
+    </select>
+      </div>
+ </div></center>
+      </div>
+    <script>
+$(document).ready(function() {
+$("#countries").msDropdown();
+})
+</script>
+
+
+<script>
+$(document).ready(function() {
+	$("#countries").msDropdown();
+})
+</script>
+    
+    
+   
+
+
+
+
+<br><br><br>
+<center>
+<div id="topsearch" align="center">
+<img src="images/innerheader.png">
+<div style="width:556px;height:34px;border:solid 0px;position:relative;margin-top:-124px;">
+         
+        <form action="#" method="get">
+        <div style="border:solid 0px;width:386px;height:33px;float:left">
+        <input type="text" id="seachtxt" value="" name="word" style="float:left;width:100%;height:30px;background-image:url(images/txt.png);background-position:center;background-repeat:no-repeat;border-radius:5px;font-family:Verdana, Geneva, sans-serif;font-size:24px;margin-left:19px;">
+        </div>
+        <a href="#" style="border:none">
+        <div style="float:right;width:120px;height:32px;border:none">
+        <input type="submit" style="width:100%;height:35px;opacity:0">
+        </div>
+        </a>
+        </form>
+</div>
+
+<div style="width:240px;height:65px;border:solid 0px;position:relative;margin-top:15px;">
+
+<a href="#" onclick="web();">
+	<div onclick="web();" style="width:58px;height:65px;border:solid 1px;float:left;border:none">
+    
+    </div>
+</a>    
+<a href="#" onclick="abc();">
+    <div onclick="abc();" style="width:58px;height:65px;border:solid 1px;float:left;border:none">
+  
+    </div>
+</a>    
+<a href="#" onclick="news();">    
+    <div onclick="news();" style="width:58px;height:65px;border:solid 1px;float:left;border:none">
+    
+    </div>
+</a>
+<a href="#" onclick="videos();">    
+    <div onclick="videos();" style="width:58px;height:65px;border:solid 1px;float:right;border:none">
+    
+    </div>
+</a>
+
+</div>
+<table width="1000" style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">
+<tbody><tr>
+<td>
+<h2 id="resultpage">Privacy &amp; Policy</h2>
+
+<h3 id="minilink">Disclaimer/Reliance</h3>
+<p id="Results">
+This privacy policy sets out how SmartWebSearch Teacher Resources Limited (SmartWebSearch) uses and protects any information that you give SmartWebSearch when you use this website (www.smartwebsearch.info).
+</p>
+
+<p id="Results">
+SmartWebSearch is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+</p>
+<p id="Results">
+SmartWebSearch may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 08/11/2013.
+</p>
+<h3 id="minilink">What we may collect</h3>
+<p id="Results">We may collect the following information:
+</p><dl style="color:#FFF; font-size:11px">
+    <dt>name and job title</dt>
+    <dt>contact information including email address</dt>
+    <dt>demographic information such as postcode, preferences and interests</dt>
+    <dt>other information relevant to customer surveys and/or offers</dt>
+</dl>
+<p></p>
+
+
+<h3 id="minilink">What we do with the information we gather</h3>
+<p id="Results">
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+</p><dl style="color:#FFF; font-size:11px">
+<dt>Internal record keeping</dt>
+<dt> We may use the information to improve our products and services.</dt>
+<dt> We may periodically send promotional emails about new products, special offers or other information which we think you may find 
+  interesting using the email address which you have provided.</dt>
+<dt> From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, 
+  phone, fax or mail. We may use the information to customise the website according to your interests.</dt>
+  </dl>
+<p></p>
+
+<h3 id="minilink">Security</h3>
+<p id="Results">
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+</p>
+
+<h3 id="minilink">How we use cookies</h3>
+<p id="Results">
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site.  Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.<br><br>
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.<br><br>
+Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.<br><br>
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the website.
+</p>
+
+<h3 id="minilink">Advertising and use of cookies</h3>
+<p id="Results">
+</p><dl style="color:#FFF; font-size:11px">
+<dt>Third party vendors, including Google, also use cookies to serve ads based on your prior visits to our websites.</dt>
+<dt>Google's use of the DART cookie enables it and its partners to serve ads to you based on your visit to this site and/or other 
+  sites on the Internet.</dt>
+<dt>You may opt out of the use of the DART cookie by visiting the Google�s advertising opt-out page or the Network Advertising Initiative opt-out website at www.networkadvertising.org/managing/opt_out.asp.</dt>
+</dl>
+<p></p>
+
+<h3 id="minilink">Links to other websites</h3>
+<p id="Results">
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+</p>
+<h3 id="minilink">Your personal information</h3>
+<p id="Results">
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.<br>
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at smartwebsearchinfo@gmail.com.<br>
+If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+
+</p>
+</td></tr></tbody></table>
+<br><br>
+<div id="footer" style="color:#FFF">
+    <br>
+    <a href="imprint.php">Imprint</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="addon.php">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="Terms-&amp;-Condition.php">Terms &amp; Condition</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="privacy-policy.php">Privacy &amp; Policy</a>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></center></body></html>
