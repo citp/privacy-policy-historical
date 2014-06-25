@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225052231id_/http%3A//www.undertone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172106id_/http%3A//www.undertone.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Undertone
 
@@ -90,7 +90,7 @@ Undertone is very sensitive to the issue of children’s privacy. Undertone’s 
 
 NAI: Undertone is a member of the Network Advertising Initiative (“NAI”). The NAI is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. For more information, please visit www.networkadvertising.org.
 
-Ad Choices: Undertone supports deployment of Advertising Option icon (Ad Choices), in partnership with Evidon, as part of its compliance with Digital Advertising Alliance self-regulation program. As part of this service, online advertisements served by Undertone are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control.
+Ad Choices: Undertone supports deployment of Advertising Option icon (Ad Choices), in partnership with Ghostery Enterprise, as part of its compliance with Digital Advertising Alliance self-regulation program. As part of this service, online advertisements served by Undertone are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control.
 
 ### Security
 
