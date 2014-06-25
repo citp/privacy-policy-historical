@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dailytradealert.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205052749id_/http%3A//dailytradealert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytradealert.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130633id_/http%3A//dailytradealert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Trade Alert
 
-Last Updated: 9/30/2013
+Last Updated: 01/01/2014
 
 **What information do we collect?**
 
@@ -78,16 +78,17 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on **09/30/2013**
+This policy was last modified on **01/01/2014**
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.DailyTradeAlert.com  
-5033 Wilson Road  
+4994 Flat St.  
 Geneva, NY 14456  
-United States  
+United States
+
 Greg(at)DailyTradeAlert.com  
 (585) 412-2145
 
@@ -109,5 +110,3 @@ Respectfully,
 
 Daily Trade Alert  
 www.DailyTradeAlert.com
-
-[](http://www.printfriendly.com/print?url=http://dailytradealert.com/privacy-policy/)
