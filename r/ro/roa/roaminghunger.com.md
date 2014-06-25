@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roaminghunger.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031000346id_/http%3A//roaminghunger.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roaminghunger.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131350id_/http%3A//roaminghunger.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Roaming Hunger
 
