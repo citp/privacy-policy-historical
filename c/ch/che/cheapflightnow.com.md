@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cheapflightnow.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805163746id_/http%3A//www.cheapflightnow.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflightnow.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625222737id_/http%3A//www.cheapflightnow.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Statement for CheapFlightNow
 
 This document defines the policies and practices that CheapFlightNow ("CFN") uses to protect your personal information. Our goal is to protect personal information you provide us whenever you contact us or use this web site ("Site"). By visiting or using the Site, you are agreeing to these policies and practices. 
 
