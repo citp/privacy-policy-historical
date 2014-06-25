@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pictify.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124233854id_/http%3A//pictify.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pictify.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124436id_/http%3A//pictify.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Pictify - your social art network
 
@@ -44,11 +44,11 @@ Your information may be transferred to - and maintained on - computers located o
  
 
 **Our Policy Toward Children**  
-This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [help@pictify.com](mailto:help@pictify.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.  
+This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [art@pictify.com](mailto:art@pictify.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.  
  
 
 **Changing or Deleting Your Information**  
-To completely delete all Personal Information you provide to Pictify, you must contact [help@pictify.com](mailto:help@pictify.com). If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes.  
+To completely delete all Personal Information you provide to Pictify, you must contact [art@pictify.com](mailto:art@pictify.com). If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes.  
  
 
 **Links to Other Sites**  
