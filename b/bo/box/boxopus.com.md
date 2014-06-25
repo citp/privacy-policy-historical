@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boxopus.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927101829id_/http%3A//www.boxopus.com/site/page%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxopus.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063142id_/http%3A//boxopus.com/page/privacy) for the most accurate reproduction.*
 
-# Boxopus - Privacy
+# Boxopus privacy policy
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY AND THE TERMS OF USE AGREEMENT ON THIS WEBSITE. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEBSITE. YOU SHOULD CHECK THIS POLICY REGULARLY TO SEE IF ANY CHANGES HAVE BEEN MADE.**
 
@@ -82,4 +82,4 @@ We may occasionally update this Privacy Policy. When we do, we will indicate the
 
 If you have any questions regarding this Privacy Policy, please contact [info@boxopus.com](mailto:info@boxopus.com).
 
-**© 2012 boxopus, Inc. All Rights Reserved.**
+**© 2012-2013 boxopus, Inc. All Rights Reserved.**
