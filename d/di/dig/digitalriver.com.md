@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digitalriver.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229023117id_/http%3A//www.digitalriver.com/our-company/corporate-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalriver.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095750id_/http%3A//www.digitalriver.com/our-company/corporate-policies) for the most accurate reproduction.*
 
-# Corporate Policies
+# Corporate Policies - Digital River
 
-Digital River values its relationship with you. These Privacy Statement Highlights summarize, at a high level, our full Privacy Statement about how Digital River collects, uses and discloses information about you through a commerce solution on which this Privacy Policy appears, which may be but is not limited to a website or a software application (each, a “Property”). These Highlights are intended for your convenience.  In the event of any conflict between the full Privacy Statement and these Highlights, the full Digital River Privacy Statement will govern.  For more information on any of these sections, please click the “Learn more” link to review the full Privacy Statement.
+Digital River values its relationship with you. These Privacy Statement Highlights summarize, at a high level, our full Privacy Statement about how Digital River collects, uses and discloses information about you through a commerce solution on which this Privacy Policy appears, which may be but is not limited to a website or a software application (each, a “Property”). These Highlights are intended for your convenience. In the event of any conflict between the full Privacy Statement and these Highlights, the full Digital River Privacy Statement will govern. For more information on any of these sections, please click the “Learn more” link to review the full Privacy Statement.
 
 ## How We Collect Information
 
