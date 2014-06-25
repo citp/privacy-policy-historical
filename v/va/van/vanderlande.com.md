@@ -1,54 +1,142 @@
-> *The following text is extracted and transformed from the vanderlande.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105095410id_/http%3A//www.vanderlande.com/en/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanderlande.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114921id_/http%3A//vanderlande.com/en/Privacy-Policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Vanderlande Industries
+# Privacy Policy - Vanderlande
 
-Vanderlande Industries B.V., including its subsidiaries, hereinafter referred to as Vanderlande Industries, wants to protect the privacy of the personally identifiable information shared with us by our business relations. We also want to inform you about how your personal data will be used by Vanderlande Industries. Therefore, we request you to read this Privacy Policy carefully. 
+This is the Privacy Policy of Vanderlande Industries B.V (hereinafter: ‘Vanderlande Industries’). This statement explains how Vanderlande Industries deals with personal data that is obtained via the websites www.vanderlande.nl, www.vanderlande.de and www.vanderlande.com (hereinafter: ‘the Websites’) and personal data that is obtained via an offline request for information or contact. 
 
-### Scope of this Privacy Policy
+### YOUR PERSONAL DATA IS SECURE AT VANDERLANDE INDUSTRIES 
 
-In general, this Privacy Policy applies to all personal information of employees of our business relations or persons contacting our company, collected or used by Vanderlande Industries or its subsidiaries. This includes information from websites for commercial use that are owned by Vanderlande Industries and offline collections of personal data for commercial use owned by Vanderlande Industries. 
+Vanderlande Industries respects the privacy of its customers, business relations and users of its Websites and services and ensures that any personal information it receives will be protected and treated confidentially. The processing of certain categories of personal data is reported to the Dutch Data Protection Authority [College Bescherming Persoonsgegevens] under 1528652 in accordance with the Dutch Personal Data Protection Act [Wet bescherming persoonsgegevens]. 
 
-### The relevancy of sharing your personal data with Vanderlande Industries
+### COLLECTION AND USE OF PERSONAL DATA
 
-Sharing personally identifiable information enables Vanderlande Industries to offer a number of benefits to its business relations e.g.: 
+REQUEST FOR CONTACT OR INFORMATION  
+If you are curious about what Vanderlande Industries could do for you, please contact Vanderlande Industries (head office) or a local branch in another country. This can be done both by telephone and via the online contact form on the Websites.
 
-  * Request information specific to your interests
-  * Participate in online communities
-  * Receive personalised messages
-  * Save time by storing your preferences
+ONLINE CONTACT FORM  
+If you request Vanderlande Industries to provide information, make contact or schedule an appointment with you, you will need to provide at least the following personal data via the online contact form in order for this request to be processed: 
+
+  * Area of interest
+  * Company
+  * Name
+  * E-mail address
 
 
 
-You may choose to share your information with Vanderlande Industries in a number of ways online, such as completing a registration form or requesting information on Vanderlande Industries' products and services.
+Depending on your request or question, you may also be asked to provide the following personal data: 
 
-You can also share your personally identifiable information with us by communicating with one of our customer centres by e-mail or telephone. 
+  * Position
+  * Telephone number (if you wish Vanderlande Industries to call you)
+  * Country
 
-### Sharing information
 
-You should be aware that your personally identifiable information might be transferred from your home country to other Vanderlande Industries companies around the world, who may communicate with you about our products or services. If you don't agree in Vanderlande Industries doing so, please send us a letter, fax or e-mail stating such.
 
-Vanderlande Industries will not sell or provide your personal data to other third parties allowing them to use your personal data for their own purposes.
+DOWNLOAD FORM  
+Additional information about the products and solutions of Vanderlande Industries in various areas can be downloaded via the Websites. In order to download this information, you will need to provide at least the following personal data via the online download form: 
 
-Vanderlande Industries will not share any financial information you provide with other parties unless this is needed to handle your request for information, or prevent or combat fraud.  
-From time to time, this Web Site may provide links to other websites. You should carefully review the privacy policies on those sites; they may differ from the Vanderlande Industries Privacy Policy.
+  * First name and surname
+  * E-mail address
+  * Company
 
-Please note that Vanderlande Industries will release personally identifiable information if obliged to do so by law.
 
-Google Analytics is used to collect anonymous visitor data. 
 
-### Safeguarding the information you share with us
+This data is collected so that we can gain insight into interest in certain products and solutions of Vanderlande Industries and contact you, if necessary.
 
-Vanderlande Industries recognises its responsibility to protect the information entrusted to us. Vanderlande Industries uses a variety of secure techniques to protect information, supplied to it, including secure servers, firewalls, and encryption of financial data. 
+REGISTRATION FOR EVENTS  
+It is possible to register for events that are being organised and/or attended by Vanderlande Industries via the Websites. You can register via an online registration form, for which you will need to provide at least the following personal data: 
 
-### Your rights
+  * Name 
+  * Company name
+  * Address details (for sending tickets)
+  * Position
+  * Country
+  * E-mail address
+  * Telephone number (if you wish Vanderlande Industries to call you)
 
-Once you have provided us with your personally identifiable information, you will have reasonable access to that information so you can change or delete it. You may do this by requesting a copy of your profile at the contact address listed below. 
 
-### Contacting us
 
+You can request Vanderlande Industries to contact you via the online registration form in order to make an appointment at the Vanderlande stand during the relevant event. You can also ask questions or make comments.
+
+The data will be processed for the purpose of the relevant event, e.g. for sending tickets, and to contact you, if necessary.
+
+E-MAIL NEWSLETTER   
+If you wish to receive Vanderlande Industries’ free e-mail newsletter, you will need to provide at least the following personal data:
+
+  * First name and surname
+  * E-mail address
+  * Area of interest
+
+
+
+This data will be used to send you the free e-mail newsletter and to contact you, if necessary. 
+
+### COOKIES
+
+The Websites make use of cookies. A cookie is a small text file that is sent together with a website page and stored via your browser on the hard drive of your computer, tablet or telephone.   
+Please refer to our cookie policy for more information about the use of cookies on the Websites. The cookie policy explains how the Websites make use of cookies, where the cookies come from and why they are used.  
+
+
+### PROVISION TO BRANCHES OF VANDERLANDE INDUSTRIES
+
+In order to provide you with a better service, your personal data may be made available to local branches of Vanderlande Industries, including branches in countries outside the European Economic Area (‘EEA’). These branches will use your data solely for the purposes for which it has been provided, e.g. for the performance of an agreement that has been concluded with you or for providing information that you have requested. 
+
+### VANDERLANDE INDUSTRIES DOES NOT PROVIDE YOUR DATA TO THIRD PARTIES
+
+Vanderlande Industries will not provide your personal data to third parties, unless: 
+
+  * you have given express consent for this purpose;
+  * it is necessary for the performance of an agreement concluded with Vanderlande Industries;
+  * it is compulsory or permitted by law; or
+  * it is necessary for preventing or combating fraud.
+
+
+
+### RETENTION PERIOD
+
+Vanderlande Industries will not retain your data longer than is necessary for the purposes for which it is processed, unless the data must be retained longer in order to comply with statutory obligations (such as a retention obligation). The length of time for which data is retained depends on the nature of the data and the purposes for which it is processed. The retention period can thus differ for each purpose. 
+
+### SECURITY
+
+When it is processing personal data, Vanderlande Industries always maintains a security level that is adequate, in view of the latest technical developments, to prevent unauthorised access to, adaptation, disclosure or loss of personal data.
+
+The security of your personal data is obviously also based on keeping the login details of your account (username and password) confidential. Never share your login details with anyone else and always take care when using them. 
+
+### PERUSAL AND CORRECTION OF YOUR DATA
+
+You are entitled to peruse the personal information that Vanderlande Industries holds in relation to you. If the information is incorrect, you may request Vanderlande Industries to correct it. Such requests for perusal or correction of your data can be addressed in the following ways to Vanderlande Industries, accompanied by a copy of a valid form of identification: 
+
+  * by e-mail: marcom(at)vanderlande.com or
+  * in writing: Vanderlande Industries, FAO Marketing and Communications, Vanderlandelaan 2, 5466 RB Veghel.
+
+
+
+You can also use these addresses for any questions.
+
+If you have an online account at Vanderlande Industries, you can always view and, if necessary, adjust your data and personal settings by logging in and adjusting your account settings. 
+
+### RIGHT TO OBJECT
+
+You can object free of charge to the use of your personal data. Your objection to the use of your personal data can be sent by e-mail or in writing to Vanderlande Industries at the above addresses. You will receive a written response from Vanderlande Industries within four weeks.
+
+If you object to the use of your data for direct marketing purposes, Vanderlande Industries shall immediately cease to use your data for these purposes.
+
+### PRIVACY POLICY OF THIRD PARTIES
+
+This Privacy Policy does not apply to third-party websites that are associated with the Websites by means of links. Vanderlande Industries does not accept any responsibility or liability with regard to how these third parties deal with your personal data. Vanderlande Industries therefore recommends that you always familiarise yourself with the privacy policy on the websites concerned. 
+
+### AMENDMENTS
+
+This Privacy Policy may be amended. The most up-to-date version of the Privacy Policy can always be found on the Websites. Vanderlande Industries therefore recommends that you regularly consult this Privacy Policy, in any event before you provide personal data to Vanderlande Industries. 
+
+### QUESTIONS
+
+Vanderlande Industries is happy to assist you further if you have any questions or comments relating to the above.  
 Vanderlande Industries B.V.  
 Vanderlandelaan 2  
-5466 RB Veghel
+5466 RB Veghel (NL)
 
-Phone +31 (0)413 49 49 49  
-Fax: +31 (0)413 36 29 10 
+Telephone: +31 (0)413 49 49 49  
+Fax: +31 (0)413 36 29 10  
+E-mail: info@vanderlande.com 
+
+© 2012 Vanderlande Industries B.V., all rights reserved. 
