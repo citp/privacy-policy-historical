@@ -1,29 +1,72 @@
-> *The following text is extracted and transformed from the executiveplacements.com privacy policy that was archived on 2009-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090206110101id_/http%3A//www.kasshku.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the executiveplacements.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091944id_/http%3A//www.executiveplacements.com/privacy_policy.php) for the most accurate reproduction.*
 
-# BitPlus InfoTech - Privacy Statement
+# Executive Placements - Privacy Policy
 
-| 
+**What information do we collect?**
 
-** Privacy Statement**
+We collect information from you when you register on our site and upload your CV. 
 
-**Your Privacy**
+When registering on our site, as appropriate, you may be asked to enter inter alia, your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-  
-We respect your right to privacy and we understand that visitors to our website (www.kasshku.com) need to be in control of their personal information. We also want to present information on www.kasshku.com that is tailored to the needs of our visitors. For this reason, we may ask you to register or to provide personal information when you visit certain areas of our site, download software, posting query, joining as a partner. We will use this information to ensure the content, services, and advertising that we provide are tailored to your current and future needs. If you provide us with your mailing address or telephone number, Kasshku Information Technologies and its partners may use this information to alert you to product upgrades, special offers, updated information, and new services. If you provide your e-mail address, Kasshku Information Technologies may contact you via e-mail as well. If you choose not to register or provide personal information, you will still be granted to most of Kasshku Information Technologies and its partners Web sites. However, you will not have access to areas that require personal identification.
+**What do we use your information for?**
 
-**Use of Information**
+Any of the information we collect from you may be used in one of the following ways: 
 
-  
-Any information you provide to Kasshku Information Technologies over this website is maintained and accessible only by Kasshku Information Technologies and its alliance partners. Kasshku Information Technologies obtains this information to broadcast important information such as product updates and special offers. Kasshku Information Technologies will not disclose any information about any individual user to entities outside of those partners except to comply with applicable law or valid legal process.
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-**Third-party web sites**
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-  
-The Kasshku Information Technologies contains links to third-party web sites. The linked sites are not under the control of Kasshku Information Technologies, and Kasshku Information Technologies is not responsible for the contents of any linked site or any link contained in a linked site. Kasshku Information Technologies is providing these links only as a convenience, and the inclusion of a link does not imply endorsement of the linked site by Kasshku Information Technologies.
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-**Information Sharing**
+\- To send periodic emails
 
-  
-The individually identifiable information that you provide will be used extensively within the Kasshku Information Technologies website to provide a personalized experience for you. Kasshku Information Technology's use of the information submitted by you may be altered to better suit visitors.
+The email address you provide may be used to send you job information, respond to inquiries, and/or other requests or questions.
 
-|  | 
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users that are based on their visit to your sites and/or other sites across the Internet.
+
+Users may opt out of using the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+The cookies of other third-party vendors or ad networks may also be used to serve ads on www.executiveplacements.com. You may opt out of some third-party vendors' use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.executiveplacements.com/disclaimer.php](https://web.archive.org/web/20140625091944id_/http%3A//www.executiveplacements.com/disclaimer.php)
+
+**Your Consent**
+
+By using our site, you consent to our [websites privacy policy](http://www.executiveplacements.com/).
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+http://www.executiveplacements.com
+
+This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zendesk](http://www.rhinosupport.com/zendesk.htm) and save!
