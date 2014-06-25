@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tranceaddict.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915041414id_/http%3A//www.tranceaddict.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tranceaddict.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052449id_/http%3A//www.tranceaddict.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -35,7 +35,13 @@ Our site requests information from users via surveys or contests. Participation 
 
 **Tell-A-Friend**
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. TranceAddict **™** will automatically send the friend a one-time email inviting them to visit the site. TranceAddict **™** stores this information for the sole purpose of sending this one-time email (to prevent duplication and spam abuse). The friend may contact TranceAddict **™** at [http://www.tranceaddict.com/feedback.shtml ](http://www.tranceaddict.com/feedback.shtml) to request the removal of this information from our database. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend?s name and email address. TranceAddict **™** will automatically send the friend a one-time email inviting them to visit the site. TranceAddict **™** stores this information for the sole purpose of sending this one-time email (to prevent duplication and spam abuse). The friend may contact TranceAddict **™** at [http://www.tranceaddict.com/contact.php ](http://www.tranceaddict.com/contact.php) to request the removal of this information from our database. 
+
+**Google Ads / Reporting**
+
+We use Google Analytics software to help give us insight as to who our visitors are - we also utilize Google Analytics Demographics and Interest Reporting. TranceAddict and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
+
+Many sites on the net use this reporting tool - if you would like to opt-out please visit https://google.com/settings and follow the instructions.
 
 **Sharing Legal Disclaimer**
 
@@ -43,15 +49,13 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 **Notification of Changes**
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users? personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
 **Link Theft** We do not condone direct link(s) to digital media and other large files on external web/ftp sites on the TranceAddict.com forums. Please link to the originating source and have respect for other webmasters and the time they put in to maintain their pages. Alternatively, it is also not acceptable to post direct links to files on our TranceAddict.com servers - please direct all links to www.tranceaddict.com instead. 
-
-If you find evidence of an individual doing so then please leave [feedback ](http://www.tranceaddict.com/feedback.shtml) with all relevant details.
 
 **Contact Information**
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at: [http://www.tranceaddict.com/feedback.shtml ](http://www.tranceaddict.com/feedback.shtml)
 
   
-**Last Modified:** September 18th 2010
+**Last Modified:** March 28th 2014
