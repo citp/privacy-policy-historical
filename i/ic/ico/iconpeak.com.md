@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconpeak.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106100943id_/http%3A//www.iconpeak.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconpeak.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134409id_/http%3A//iconpeak.com/privacy.html) for the most accurate reproduction.*
 
 # Iconpeak - Mobile Advertising
 
