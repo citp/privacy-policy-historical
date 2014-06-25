@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiandatingforfree.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806031245id_/http%3A//www.christiandatingforfree.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiandatingforfree.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052026id_/http%3A//www.christiandatingforfree.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Christian Dating For Free | Online Community of Single Christians
 
@@ -59,7 +59,8 @@ As stated in the [Website Terms of Use](http://www.christiandatingforfree.com/te
 
 CDFF has implemented and maintains reasonable security procedures and practices to protect against the unauthorized access, use, modification, destruction or disclosure of Your Personal Information.
 
- **6.   LOST OR STOLEN INFORMATION**
+  
+**6.   LOST OR STOLEN INFORMATION**
 
 You must promptly notify us if Your user name or password is lost, stolen or used without permission.  In such an event, we will remove that user name or password from Your account and update our records accordingly.
 
