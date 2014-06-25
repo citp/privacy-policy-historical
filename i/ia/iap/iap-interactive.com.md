@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the iap-interactive.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212015221id_/http%3A//www.iap-interactive.com/PrivacyPolicy/tabid/147/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iap-interactive.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115958id_/http%3A//www.iap-interactive.com/PrivacyPolicy/tabid/147/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Untitled Document
 
 ## How we use your information
 
@@ -47,16 +49,16 @@ We will use the information you provide to:
 If you join our Panel+ program and install the Ipsos Panel+ Application, we will also collect information from you via the Ipsos Panel+ Application. This Application will collect the following information:
 
   * a) Details of any advertising material, including any audio or video advertising material that the App presented to you in place of, or in addition to the actual advertising material contained on the website visited.
-  * b) In order to help with any requests for help or support when installing, using or uninstalling our App, the App also logs the following events: 
+  * b) In order to help with any requests for help or support when installing, using or uninstalling our App, the App also logs the following events:
     * Date and time of installation and when uninstalled.
     * Installation failure reason. For example, the version of Windows™ is too old to support the App, user has insufficient rights on the machine to install software, "other" error occurred, or user cancelled the installation.
     * Dates and times when the App is active.
-  * c) When you consent to our doing so, we will also use the Application to automatically collect information on how you use the internet. The information collected will vary from project to project, but will only include following: 
+  * c) When you consent to our doing so, we will also use the Application to automatically collect information on how you use the internet. The information collected will vary from project to project, but will only include following:
     * Use of key words in comments or website posts you may make.
     * Details of any Internet search engine queries and the results presented to you.
     * User clicks.
     * Details of any advertisements displayed to you online , including any audio or video advertising.
-    * Information about the websites you may have visited. This information includes: 
+    * Information about the websites you may have visited. This information includes:
       * All visited website addresses (URLs);
       * Website addresses accessed by individual webpage's as they load (also known as "Background Requests"); and
       * Details of any audio or video content accessed via the website (for example "YouTube" video content that has been viewed).
@@ -123,7 +125,7 @@ Site/Domain/Host | Cookie Name | Purpose of cookie
 ---|---|---  
 Ipsosinteractive.com  
 Panel | With your prior consent, these cookies are used to check if you have been exposed to certain online adverts, and in some cases to change the advertising displayed to you, including video any advertising, as you visit sites so that we can test different online advertising material.   
-You can withdraw your consent to this at any time by writing to epanel-uk@ipsosinteractive.com.  
+You can withdraw your consent to this at any time by writing to epanel-uk@ipsosinteractive.com.   
 TDCPM  
 TDID  
 UTID  
@@ -167,7 +169,7 @@ When you leave the panel, are removed, or the panel is closed, we will delete al
 
 ## 7\. How can you get access to your information and/or correct it?
 
-You have the right to request a copy of all the information we hold about you. If you would like a copy of some or all of your personal information please contact our Data Protection Department. They can be contacted by
+You have the right to request a copy of all the information we hold about you. If you would like a copy of some or all of your personal information please contact our Data Protection Department. They can be contacted by 
 
 Email sent to: [data.protection@ipsos-online.com](mailto:data.protection@ipsos-online.com)
 
@@ -220,7 +222,7 @@ Please quote the name of the panel and your panel membership number (if known) i
 
 ## 10\. Changes to our privacy policy
 
-We keep our privacy policy under regular review and we will place any updates on this webpage. We will also inform you of any changes via the news section of the panel members’ website. Our privacy policy was last updated on the 11thof July 2013.
+We keep our privacy policy under regular review and we will place any updates on this webpage. We will also inform you of any changes via the news section of the panel members’ website. Our privacy policy was last updated on 11thof July 2013.
 
 ## 11\. Useful Links
 
