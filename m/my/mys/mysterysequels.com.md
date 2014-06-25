@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mysterysequels.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830021809id_/http%3A//www.mysterysequels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysterysequels.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142750id_/http%3A//www.mysterysequels.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Mystery Sequels
+# Privacy Policy - Mystery Sequels
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email using our Contact form, linked from our homepage.
 
