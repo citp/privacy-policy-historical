@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupees.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112191126id_/http%3A//groupees.com/Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupees.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081756id_/https%3A//groupees.com/Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # This Privacy Policy ("Policy") explains how your personal information is collected, used, and disclosed by YAWMA LLC (“YAWMA”) with respect to your use of the Groupees website, located at www.groupees.net (the "Site"). We reserve the right to change the provisions of this Policy at any time. We will alert you to these changes by indicating the date that the Policy was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
 
