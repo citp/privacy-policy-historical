@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rent-acoder.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127073700id_/http%3A//www.rent-acoder.com/display.php%3Fid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent-acoder.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071532id_/http%3A//www.rent-acoder.com/page/privacy-policy/3) for the most accurate reproduction.*
 
-# Privacy Policy - Rent a coder - Programming and design services
+# Privacy policy - Qualified web programmers and designers
 
-Privacy Policy
+## Privacy policy
 
-Rent A Coder (We, Us, Core Soft Production, CSP) is committed to respecting your right to privacy while using our site.
+Rent A Coder (We, Us, dot com systems) is committed to respecting your right to privacy while using our site.
 
-This Privacy Policy contains information regarding our privacy practices for the entire site and subsidiary sites.
+This Privacy policy contains information regarding our privacy practices for the entire site and subsidiary sites.
 
 **Information Collection and Use  **
 
@@ -35,7 +35,7 @@ If you have questions, or if you feel we are in violation of this privacy policy
 
 **Sessions and cookies**
 
-Our Site uses cookies to save your login and password so you don't have to re-enter it each time you visit our site. If you click the "sign out" link the cookies will be cleared.
+Our Site uses cookies / sessions to give you a better experience on the website and to generate statistics.
 
 **Personal Information  **
 
