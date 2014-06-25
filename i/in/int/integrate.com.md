@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the integrate.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128095732id_/http%3A//integrate.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integrate.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055139id_/http%3A//integrate.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Integrate
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.integrate.com)
+### Integrate
 
-### Integrate.com
+Integrate shares your concern about personal privacy. Integrate recognizes that its customers, visitors, users, and others (collectively or individually, the "Users") who use the http://integrate.com website (the "Website") value their privacy. This Privacy Policy outlines important information regarding the use and disclosure of User information collected via the Website. Integrate provides this Privacy Policy to help Users make an informed decision as to whether to use or continue using the Website.
 
-Integrate.com (hereinafter "Integrate") shares your concern about personal privacy. Integrate recognizes that its customers, visitors, users, and others (collectively or individually, the "Users") who use the http://integrate.com website (the "Website") value their privacy. This Privacy Policy outlines important information regarding the use and disclosure of User information collected via the Website. Integrate provides this Privacy Policy to help Users make an informed decision as to whether to use or continue using the Website.
-
-Integrate.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site integrate.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Integrate Support at [info@integrate.com](mailto:info@integrate.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url)
-
-TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, contact Integrate Support at [info@integrate.com](mailto:info@integrate.com)
 
 ### General
 
