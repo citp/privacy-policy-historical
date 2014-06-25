@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liketodiscover.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208162230id_/http%3A//liketodiscover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liketodiscover.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081508id_/http%3A//liketodiscover.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 This privacy policy sets out how **LikeToDiscover.com** uses and protects any information that you give **LikeToDiscover.com** when you use this website.
 
