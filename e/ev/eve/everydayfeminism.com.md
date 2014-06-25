@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the everydayfeminism.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903104639id_/http%3A//everydayfeminism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayfeminism.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080946id_/http%3A//everydayfeminism.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Everyday Feminism
 
-**We collect but do not link personal and activity data.**  
+**We collect but do not link personal and activity data.**
+
 We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
 
 We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from services like Facebook.
@@ -31,7 +32,7 @@ We do not allow advertising companies to collect data through our service for ad
 
 **You can ask privacy questions or opt-out of marketing.**  
 If you have questions or concerns about our privacy policies, please contact us:  
-http://everydayfeminism.com/contact-us/ OR contact@everydayfeminism.com
+<http://everydayfeminism.com/contact-us/> OR contact@everydayfeminism.com
 
 Everyday Feminism  
 P.O. Box 111  
@@ -39,7 +40,7 @@ New Creek, WV 26743
 
 If you have given us contact information but do not want us to contact you with promotional or marketing information, you can opt-out via the unsubscribe at the bottom of emails you’ve received from us or let us know via:
 
-http://everydayfeminism.com/contact-us/
+<http://everydayfeminism.com/contact-us/>
 
 Please allow sufficient time for us to process your request.
 
@@ -58,5 +59,5 @@ Information we collect may be stored or processed on computers located in any co
 **Special situations may require disclosure of your data.**  
 To operate the service, we also may make identifiable and anonymous information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor or purchaser in a merger, acquisition, liquidation, dissolution or sale of assets. Your consent will not be required for disclosure in these cases, but we will attempt to notify you, to the extent permitted by law to do so.
 
-You can review more privacy-related information.  
+**You can review more privacy-related information.**  
 This privacy policy was last updated on November 20, 2012. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text.
