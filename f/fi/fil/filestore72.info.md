@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filestore72.info privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831213442id_/http%3A//filestore72.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filestore72.info privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134016id_/http%3A//filestore72.info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
