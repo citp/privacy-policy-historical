@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vinted.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929155156id_/http%3A//www.vinted.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinted.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625231608id_/http%3A//www.vinted.com/privacy-policy) for the most accurate reproduction.*
 
 # Vinted Inc. Privacy Policy
 
-**Date of last revision: September 4, 2013**
+**Date of last revision: June 11, 2014**
 
 Vinted Inc. (“Vinted”) is committed to protecting the privacy and security of your personal information.  We want to share with you how we treat personal information about you that we receive in connection with your use of our website and mobile applications (collectively, the “Site”).
 
@@ -40,7 +40,7 @@ We may also employ software technology known as “web beacons” or “clear GI
 
 **Opting In and Out**
 
-When you submit personal information to us through the Registration Pages on this Site, you may be given an opportunity to opt in to receiving additional information from Vinted, Vinted related entities, and/or selected third parties at the time of submitting your personal information to us.  If you opt in, you may be added to our list of users who will receive communications from us, our partners, and/or other third parties. If you initially opt in to receiving such communications and you later decide that you no longer want to receive them, you may opt out of receiving promotional and marketing communications from us and/or our partners and other third parties by emailing us at hello@vinted.com.
+When you submit personal information to us through the Registration Pages on this Site, Vinted, Vinted related entities, and or selected third parties may use this information to communicate with you regarding the Services or to tell you about service we believe will be of interest to you. If we do so, any marketing communication we send you will contain instructions permitting you to “opt-out” of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or wish to have your name deleted from our mailing lists, please contact us at hello@vinted.com. Note that as a user of our service you cannot opt-out of some administrative communications that are reasonably necessary to the service.
 
 **Links to Other Sites and Site Accounts**
 
@@ -60,4 +60,4 @@ The Site and Services may change from time to time. As a result, it may be neces
 
 **Contacting Us**
 
-If you have any questions or concerns relating to this Privacy Policy, please contact us by email at [hello@vinted.com](mailto:hello@vinted.com). 
+If you have any questions or concerns relating to this Privacy Policy, please contact us by email at [hello@vinted.com](mailto:hello@vinted.com) . 
