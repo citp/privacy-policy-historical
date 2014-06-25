@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yaladesigns.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108060204id_/http%3A//www.yaladesigns.com/customer-care/our-thoughts-on-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaladesigns.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093541id_/http%3A//www.yaladesigns.com/customer-care/our-thoughts-on-privacy) for the most accurate reproduction.*
 
 # Our Thoughts On Privacy
 
