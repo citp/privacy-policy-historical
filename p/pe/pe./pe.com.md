@@ -1,194 +1,75 @@
-> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123220820id_/http%3A//www.pe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044536id_/http%3A//www.freedom.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | PE.com
+# Freedom Communications, Inc. - Privacy Policy
 
-**Privacy Policy**
+[en Español](https://web.archive.org/web/20140625044536id_/http%3A//www.freedom.com/privacidad.html)
 
-**Last Updated February 20, 2013 and effective March 29, 2013**
+Freedom Communications, Inc. (“Freedom”) has agreed to sell the assets of the Lima News, Sedalia Democrat, Jacksonville Journal Courier and Alton Telegraph (the “Properties”) to an affiliate of Ohio Community Media, an Ohio-based publisher of community newspapers. This affiliate, called Testor FCI Acquisition, LLC (“Publisher”), plans to continue the Properties’ operations uninterrupted after the sale to provide readers with high quality local news services. 
 
-Welcome! This Privacy Policy governs the use and collection of information from you by A. H. Belo Corporation and its affiliated companies (collectively, "A. H. BELO," "we" or "us") through your use of websites, interactive services and mobile applications that display an authorized link to this Privacy Policy (collectively, the "Services"). This Privacy Policy does not apply to any information you may provide to us offline or through any means other than the Services. For example, this Privacy Policy does not apply to information you provide when you subscribe by postal mail or telephone to one of our newspapers or to information that you provide to us at a live event or when you respond by postal mail or telephone to a survey or an invitation to enter a sweepstakes. Please read this Privacy Policy carefully so that you understand our online privacy practices. By using any of our Services, you agree that your use, and any dispute over our privacy practices, is governed by this Privacy Policy and our [Terms of Service](https://web.archive.org/terms-of-service/). Understanding that technologies are rapidly evolving, we reserve the right to make changes to this Privacy Policy at any time. Any such changes will be promptly posted on this page, with an updated "effective date" posted at the beginning and/or end of this policy.
+As part of this sale, Freedom will be transferring to Publisher customer data collected from users of the Properties’ websites. Customer data transferred to Publisher will be held and maintained by Publisher pursuant to Publisher’s respective privacy policies, which can be found at the following: [http://lima.ohcommedia.com](http://lima.ohcommedia.com/), [http://sedalia.ohcommedia.com](http://sedalia.ohcommedia.com/), [http://jacksonville.ohcommedia.com](http://jacksonville.ohcommedia.com/) and [http://alton.ohcommedia.com](http://alton.ohcommedia.com/). Please do not register or submit information to any of the Properties’ websites if you do not want your customer data transferred to Publisher. 
 
-This Privacy Policy explains the following:
+This is the Privacy Policy for all Web sites owned or operated by Freedom Communications, Inc. ("Freedom" "we" or "our"), including, without limitation the Web sites listed [here](https://web.archive.org/web/20140625044536id_/http%3A//www.freedom.com/ppsites.html) (collectively, the "Site"). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to the [User Agreement](https://web.archive.org/web/20140625044536id_/http%3A//www.freedom.com/eula.html) posted on the Site.
 
-  * What types of information we collect
-  * What cookies and beacons are and why we use them
-  * How we use your personal information
-  * With whom we share your personal information
-  * Other parties that may collect information when you use our Services
-  * How you can opt-out of sharing your personal information or receiving our promotional communications
-  * How you can update your personal information or registration information
-  * What safeguards we put in place to protect your personal information
-  * What you should know about third-party sites and advertising
-  * Whether we knowingly collect personal information from children under 13
-  * How you can contact us
-  * What you should know about "phishing"
-  * When this privacy policy is effective and how changes to the privacy policy are posted
+**Managing Information Preferences**
 
+We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy or if you wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at: 
 
+17666 Fitch  
+Irvine , CA 92614  
+E-mail: [pp@freedom.com](mailto:pp@freedom.com)
 
-**What Types of Information Do We Collect?**
+If you would like to correct, update, or change your personal information with us please contact us the same way.
 
-The information we gather falls into two categories: (1) information (for example, your name, e-mail address and mailing address) that you voluntarily supply when you register, initiate transactions, or communicate with us, and (2) information collected automatically as you navigate within our Services, or read our e-mail newsletters. In some cases, it is a vendor or service provider of ours that collects the information on our behalf. Third-party providers featured on or linked to by our Services also may be gathering the same kinds of information through processes that we don’t control subject to their own separate privacy policies.
+**What Types Of Information Do We Collect?**
 
-Registration and Other Personal Information 
+We collect information that may personally identify you (such as your name, address, telephone number, email address, billing information, or other data which can be reasonably linked to such information) only if you choose to share such information with us. For example, we may collect personal information from you when you register on the Site, subscribe to one of our services, enter sweepstakes, contests or other promotions, and at other times. We also collect credit card information in connection with any purchase you make on or through the Site. The decision to provide this information is optional; however, if you decide not to register or provide such information, you may not be able to use certain features of the Site or other services.
 
-When we use the term "Personal Information" in this policy, we are referring only to information that uniquely identifies a specific individual, such as an individual’s name, phone number, mailing address, or e-mail address, and information about an individual’s activity or characteristics that is directly linked to personally-identifying information.
+We may automatically collect non-personal information that does not identify an individual user, such as IP (internet protocol) address, ISP (internet service provider), the Web browser used to visit the Site, the time the Site is visited, which Web pages were visited on the Site, a unique mobile device identifier (in connection with the use of the Sites or related services from mobile devices) and other anonymous Site usage data.
 
-We may ask you for Personal Information when you register for or use various aspects of our Services, including when you order products, complete a survey, enter a contest, or report a problem with our Services. We may also collect contact information for other individuals when you use the sharing tools available within our Services to share content or offers with your friends and associates. We use this information to facilitate the communications you request. Please note that if you use any "send-to-friend" features of our Services, your e-mail address may be included in the communication sent to your friend. 
+We also use cookies (a small file containing a string of characters that uniquely identifies your Web browser) and Web beacons (an electronic file placed within a Web site that monitors usage). We use cookies and Web beacons to improve the quality of the Site. Most Web browsers are initially set up to accept cookies, but you can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Certain of our Service Providers (defined below) may use cookies and Web beacons in connection with the services they perform on our behalf, including, without limitation, ad serving. 
 
-**Aggregated Information**
+**How Do We Use The Information We Collect?**
 
-Much of the information we collect is compiled in the form of aggregated statistics, such as the traffic generated by visits on various pages within our Services, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally and does not constitute "Personal Information" under this policy. We may use aggregated information or other anonymous information and disclose it to third parties as we see fit. Information We Collect Automatically When You Use Our Services 
+We will not sell, share, or rent personal information to third parties, and we will not otherwise disclose personal information to third parties, without your permission, except as disclosed in this Privacy Policy.
 
-A. H. BELO or third-party vendors and service providers acting on our behalf may collect certain information automatically when you use our Services, including:
+We use personal information and non-personal information for internal purposes, including: 
 
-  * Your browser type, browser identifiers, language, plug-ins, Internet domain and operating system;
-  * Your Internet Protocol (IP) address (a numerical address assigned to your computer by your Internet service provider so that other computers connected to the Internet can communicate with you online) that can sometimes be used to derive your general geographic area;
-  * The site you visited before visiting an A. H. BELO Service and the site you visited after leaving our Service;
-  * Content and advertisements you view and links you click on while navigating within our Services;
-  * Unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law;
-  * Information collected through cookies, web beacons and other tracking technologies (see additional descriptions of these terms below);
-  * Information about your interactions with our video content, such as the type of content viewed on our Services;
-  * Information about your interactions with our e-mail messages, such as the links you click on and whether you open or forward a message; and 
-  * Standard server log information.
+  * enhancing your experience at the Site;
+  * performing administration and technical support for the Site; 
+  * enabling you to enter sweepstakes, contests and other promotions;
+  * enabling you to use certain services and features available on or through the Site;
+  * creating aggregate information about demographics and usage patterns; 
+  * inviting our promotional vendors and advertisers—with your permission—to call to your attention special offers, products and services that may be of interest to you; and 
+  * enabling purchases of goods and services.
 
 
 
-**Precise Location-Based Information**
+We may use aggregate information to measure general Site usage patterns and characteristics of our user base, and we may include such aggregate information about our audience in reports to our commercial vendors. We may also disclose aggregated user statistics (for example, a certain percentage of our users live in a certain area) without your permission in order to describe our audience to existing and prospective advertisers or other third parties. However, this aggregate information does not reference names, phone numbers, e-mail addresses, or other personal information, and it is not traceable to a specific recipient or user e-mail address. 
 
-With your consent, we also may also collect information about the exact real-time location of mobile devices you use to access our Services. We use this information to provide you the content and location services you request, such as location-based weather reports and traffic maps, tell you about offers we think you will value based on your location, enable you to submit user-generated content based on your location, and otherwise improve your experience using our Services. You are not required to consent to our collection of precise location-based information to use our Services and you can adjust the settings of your mobile device to turn on and off our access to your precise location information.
+We also may share personal information with entities controlling, controlled by, or under common control with Freedom. In the event that Freedom is merged, or in the event of a transfer of our assets, we may disclose or transfer your personal information and non-personal information in connection with such transaction. 
 
-**What Are Cookies, Scripts and Web Beacons and Why Do We Use Them?**
+From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours ("Service Providers"). For example, we may contract with Service Providers to provide certain services including credit card processing, advertising, promotions, analytics tools, data management, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services. Each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of your information in order to protect your personal information from unauthorized access, destruction, use, modification, or disclosure. 
 
-**What are Cookies?**
+We may work with third-party advertising companies which may use information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you on the Site and on third-party Web sites. From the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons or pixel tags. Our Privacy Policy does not cover any use of information that a third-party advertisement serving company may collect from you. For more information about ad cookies and companies that provide users the ability to "opt-out" of the collection of information from such cookies, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
-Cookies are alphanumeric identifiers stored within your browser. Cookies are accessed and recorded by the Web sites you visit, and by the companies that deliver the advertisements you see on Web sites, so they can recognize the same browser navigating online.
+Although unlikely, in certain instances we may disclose your personal information when we have reason to believe it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Freedom or its affiliates, or to others. We may also disclose your personal information when we believe the law or legal process requires such disclosure. Please note that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your personal information to be shared or transferred to third parties without your permission. 
 
-We use cookies for the following general purposes:
+**Security**
 
-  * To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while you visited one of our Web sites. For example, if you register for an A. H. BELO Service, we may save your username and password, so you do not have to re-enter them each time you visit.
-  * To help control the display of advertisements and customize the content and advertisements you see while using our Services. 
-  * To help us measure and analyze visitor traffic and usage patterns and to improve the quality and effectiveness of our content, features, advertisements, and other communications.
+We use encryption and authentication tools to protect the security of personal information that you share with us. However, no data transmission over the Internet (or, with respect to our mobile services, over cellular phone networks) can be guaranteed to be 100% secure. As a result, while we strive to protect personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Site, and you do so at your own risk.
 
+**Links To Third-Party Web Sites**
 
+The Site may contain links to Web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked Web sites may be different from our Privacy Policy. You access such linked Web sites at your own risk. You should always read the privacy policy of a linked Web site before disclosing any personal information on such site.
 
-Third-party companies that provide some of the tools and features accessible through our Services and advertisers and other companies involved in the delivery of the advertisements that you see while using our Services also may place cookies within your browser. We do not have access to these cookies and do not control how they may be used. You can set your browser to accept or reject most cookies, or to notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) It is up to you whether to allow us or third parties to send you or to set cookies, but if you block cookies, you may not be able to view or access some of the features of our Services. Please note that certain browsers cannot be used to block or delete so-called "Flash" cookies, which use a feature of the Adobe Flash video player to store information on your computer. For information about how to delete Flash cookies, please visit the Adobe website here. 
+**Discussion Board, Forums and Other User Generated Content**
 
-**Web Beacons and Other Tracking Technologies**
+Our online chat areas, bulletin boards, social networks, mobile messaging services, other public forums and user-generated content (i.e., photos, videos) can be a useful way for you to express yourself to other online users. When you post messages or otherwise use these features, the information that you provide (including personal information) may be publicly available to, collected by, and used by third parties. We are not responsible for the content of such messages or images posted by users or such disclosures of personal information.
 
-We and our service providers and other third-party companies involved in the delivery of advertisements you see on our Services and/or while visiting other unaffiliated websites may use scripts, web beacons and/or similar technologies, to collect information about your use of our Services. Web beacons (sometimes called "transparent GIFs," "clear GIFs"or"pixel tags") embed a small graphic image (usually invisible) on a Web page or in an e-mail. When your browser downloads a web beacon, the server that sends the corresponding image to your browser can recognize and store certain types of information such as cookies previously set, the time and date that you viewed the page embedded with the beacon and a description of that page. We use web beacons to improve your experience using our Services, including providing you with content, advertising and offers customized to your interests, and to understand whether our users read email messages and access links contained within those messages.
+**Children's Privacy Statement**
 
-**How Do We Use Your Personal Information?**
+We do not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently received personal information from a child under the age of 13, we will delete such information from our records.
 
-We believe we can enhance your experience on our Services with the information you share with us. We use Personal Information to improve our advertising and marketing efforts, to statistically analyze Service usage, to improve our content and product offerings and to personalize the content, layout, and features of the Services. We will use your Personal Information to respond to your comments and questions. We may also use your Personal Information, such as your e-mail address, phone number or mailing address, to contact you regarding products and/or services that we think may be of interest to you, including products and services of third parties, unless you have elected not to receive these promotions and offers by modifying your profile as described below in "How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?"
+**Policy Changes**
 
-We may match Personal Information we collect through our Services with other information about you supplied by third parties so that we can provide you with customized product and content offerings that we believe will interest you and to otherwise improve our advertising and marketing efforts. After registering on one of our Services, you may receive communications including mail, e-mail, telephone or wireless text messages from us related to products and services that we believe will interest you. Although we hope you find these communications informative and useful, you can opt-out from receiving these types of communications from us by changing the privacy preferences in your member profile or by deleting your profile from our database. Please refer to "How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?" for additional information and instructions.
-
-**With Whom Do We Share Your Personal Information?**
-
-**Our Affiliated Companies**
-
-We may share any information, including Personal Information, that we collect through the Services with any company that is directly or indirectly owned, controlled or operated by A. H. BELO so that we and they can communicate with you about products and services that we believe may be of interest to you. The use and further disclosure of the information collected on our Services by our affiliated companies will be governed by this Privacy Policy.
-
-**Vendors, Service Providers and Provider Partners**
-
-We have today, and will in the future have, arrangements with third-party vendors and service providers, such as credit card processors, shipping companies and fulfillment services, that assist us with the operation and development of our Services. We reserve the right to share with these companies any information we collect provided that they commit not to use Personal Information collected from our users for any purpose unrelated to the services that they provide for us or our users. 
-
-To make our Services more valuable to our visitors, we may offer some features of our Services in conjunction with other unaffiliated companies ("Provider Partners") that specialize in operating such features. For example, we may offer a car buying service, personalized finance and weather information services, social networking tools, sweepstakes offers or other promotions through cooperative arrangements with Provider Partners. We share with our Provider Partners such information, including Personal Information, as is useful or necessary for them to provide you with the feature that they offer through our cooperative arrangement with them. Some of these Provider Partners may also collect their own Personal Information in connection with providing the service. Their use of such information will be subject to the terms of their respective privacy policies, which you can find on their websites or obtain by contacting the Provider Partners directly. Please refer to "Who is the Party Collecting Your Personal Information?" for additional information.
-
-**Other Disclosures**
-
-Notwithstanding anything to the contrary stated in this Policy or within our Services, we reserve the right to release Personal Information about our users when we deem such release to be appropriate to comply with law, respond to compulsory process or law enforcement requests, enforce our [Terms of Service](https://web.archive.org/terms-of-service/), or protect the rights, property or safety of our users, the public, A. H. BELO, our affiliates, or any third party. Over time, we may reorganize or transfer various assets and lines of business. Notwithstanding anything to the contrary stated herein or within our Services, we reserve the right to disclose or transfer any information we collect to third parties in connection with any proposed or actual purchase, sale, lease, merger, foreclosure, liquidation, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of A. H. BELO or our affiliates. 
-
-**What Other Parties Might Be Collecting Information When You Use Our Services?**
-
-**Third-Party Advertising, Data and Analytics Companies**
-
-We work with third-party advertising companies and data providers to target and serve some of the advertisements you see on our Services and on other websites, to send e-mails on our behalf, and to provide related analytics, forecasting and optimization services. Most of the third-party advertising and data companies we work with, including DoubleClick and Google, are members of the Network Advertising Initiative ("NAI") and/or the Digital Advertising Alliance ("DAA"). To learn more about the information collection practices of NAI and DAA members and your opt-out choices, please visit the NAI’s website here, or the DAA’s website (and opt-out mechanism) at [http://www.aboutads.info](http://www.aboutads.info/). Some of the ads you see in our Services may contain cookies and Web beacons that are managed by other third parties (e.g., advertisers or their advertising agencies) that we do not control. If you have questions regarding the data collection practices of any of the advertisers that appear on our Services, we encourage you to contact the applicable advertiser or review its privacy policy, which should be posted on the advertiser's website.
-
-We also engage Omniture, a third party analytics company, to track and analyze usage and browsing patterns of our users to help us improve our Services. For information about Omniture’s information collection practices and related opt-out choices, click here. When you visit our mobile Web sites or use our mobile applications, third-party mobile advertising networks in which we participate may collect certain information, including your unique device ID and information about your wireless carrier, carrier user ID, the make, model and operating system of your device, cookies stored on your mobile browser, location information, and information about how you navigate within our Services. These networks may collect and track such information over time and combine it with other information collected when you access other mobile Web sites and applications that participate in the network to display advertising that is customized to your interests. Our mobile advertising network relationships are subject to change but include, as of the effective date of this policy, AdMob, iAd, Jumptap, and Millennial. To review their respective privacy policies and learn about any opt-out choices they offer, please visit the following webpages: 
-
-  * AdMob - <http://www.admob.com/home/privacy>
-  * iAd - <http://support.apple.com/kb/HT4228>
-  * Jumptap - <http://www.jumptap.com/privacy-policy/>
-  * Millennial - <http://lp.mydas.mobi/rich/foundation/opt-out.php>
-
-
-
-**News Registry**
-
-We participate in the News Registry, a service operated by the News Licensing Group, LLC (NLG). The News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Services means you accept the privacy policy of the NLG News Registry. Please refer to the NLG News Registry privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
-
-**Blogs, Discussion Forums and Community or Social Networking Areas**
-
-This Privacy Policy only addresses the use and transfer of information that we collect from you. To the extent that you disclose any information to other parties, whether through interactive features, third-party services or promotions offered on or through the Services, or through other websites throughout the Internet, different policies will apply and A. H. BELO will not be responsible for the use or dissemination of such information. Our Services may offer social network tools, message boards, chat rooms or other forums or interactive areas you can use to communicate with other users or to submit and post your own content (such as stories, blogs, photos and videos, and the like). If you disclose Personal Information in one of these forums, this information can be viewed, collected, and used by others. A. H. BELO is not responsible for the use of information you disclose in these forums. We encourage you to consult the forum rules and the [Terms of Service](https://web.archive.org/terms-of-service/) regarding the policies and procedures that apply to that portion of our Services.
-
-**Co-branded Sites and Services**
-
-Our Services may operate as part of a larger group of sites and applications and may carry co-branded pages. In addition, other third-party sites or applications may use A. H. BELO’s name, or the name of one of A. H. BELO’s affiliated companies or Services. Since A. H. BELO does not control the privacy policies of third parties, you are subject to the privacy policies, if any, of such third parties, and A. H. BELO shall not be responsible for the use or dissemination of your Personal Information by such parties. Therefore, we encourage you to ask questions and review those parties’ privacy policies before you disclose your Personal Information to others.
-
-**How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?**
-
-You may choose to "opt-out" of sharing Personal Information in several ways. When choosing to use certain features of the Services, you can choose whether to share optional Personal Information in connection with the feature. If you receive e-mail, phone or mail communications from one of our Web sites that you prefer not to receive, you may opt-out from receiving these communications by modifying the contact options in your registration profile. You may change your contact options at any time by following the process described in "How Can You Update Your Personal or Registration Information," below.
-
-In addition to opting-out by managing your contact preference options, you may opt-out from receiving commercial e-mail communications from any A. H. BELO Service that contacts you by using the opt-out link or instructions included in each commercial e-mail message you receive, or by sending your request to [Customer Service](mailto:feedback@pe.com), or by postal mail to:
-
-A. H. Belo Corporation   
-Attn: Opt-Out Request   
-508 Young Street   
-Dallas, TX 75202.
-
-Please note that changing the contact preference options described above will not affect your receipt of any wireless text message communications you may have registered to receive. To unsubscribe from wireless text communications, please send your "opt-out" request, including the wireless number or wireless address you wish to remove from our list to [Customer Service](mailto:feedback@pe.com), or by sending postal mail to:
-
-A. H. Belo Corporation   
-Attn: Opt-Out Request   
-508 Young Street   
-Dallas, TX 75202.
-
-You may "opt-out" altogether from providing Personal Information to us by not registering on the Services, or registering for any A. H. BELO-sponsored promotion, and thereby not providing Personal Information. You may also choose at a later date to have your name removed from our database by deleting your registration profile. To do so, please follow the process described in "How Can You Update Your Personal or Registration Information."
-
-**How Can You Update Your Personal Information or Registration Information?**
-
-You may access all of the Web site Registration Information that we collect from you online and maintain by using the procedure described below. We use this procedure to better safeguard your Personal Information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access to your profile or making changes.
-
-You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain aspects of our Services may no longer be accessible to you.
-
-  * If you are not already logged in to the Web site, click on "Log-in" on the main navigation bar.
-  * Click on the 'My Profile' link.
-  * To change personal information click on the ‘Personal Information’ text. 
-  * Update information and click submit. 
-  * To delete your profile, submit a request to [Customer Service](mailto:feedback@pe.com).
-
-
-
-**What Safeguards Do We Put in Place to Protect Your Personal Information?**
-
-A. H. BELO maintains reasonable safeguards to protect the security and integrity of the Personal Information that you provide to us. However, no security system is impenetrable and we cannot guarantee the security of our database. Nor can we guarantee that the information you supply won't be intercepted while being transmitted to us over the Internet.
-
-For the purposes described in this policy, Personal Information may be transferred to, processed, stored and accessed by us, our affiliates and our service providers in the United States and in other jurisdictions where we or they operate. Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your Personal Information. By using the Services, you consent to this transfer, processing, storage and access of your Personal Information in and/or outside of the jurisdiction in which you reside. 
-
-**What Should You Know About Third-Party Sites and Advertising?**
-
-Our Services include links to many other Web sites, and provides access to products and services offered by third parties whose privacy policies we don’t control. When you access another site, purchase products or services, or conduct other transactions through links on our Services, use of any information you provide will be governed by the privacy policy of the operator of the site you’re visiting or of the provider of such products or services. A. H. BELO assumes no responsibility or liabilities whatsoever for the content or privacy practices of the operators of any such linked sites or of any link or linking program. A. H. BELO does not necessarily endorse companies (or related products or services) promoted on the pages to which our Services are linked. If you decide to access any of the third-party sites linked to the Services, you do so entirely at your own risk.
-
-**Do We Knowingly Collect Personal Information of Children Under 13?**
-
-Children should always get permission from their parents before sending any information about themselves (such as their names, e-mail addresses, and phone numbers) over the Internet, to us or to anyone else. We won’t knowingly allow anyone under 13 to register with our Services or to provide any other Personal Information via the Services. If you’re under 13, please do not provide us with any Personal Information about yourself (such as your name, your e-mail address or your phone number).
-
-**How Do You Contact Us?**
-
-If you have any questions or comments about our Privacy Policy, please contact [Customer Service](mailto:feedback@pe.com).
-
-**What Should You Know About "Phishing?"**
-
-What we do NOT do: a warning about "phishing."
-
-We do not and will not, at any time, request your credit card information, login name, or password, in an unsecured or unsolicited e-mail or telephone call. Identity theft and the practice currently known as "phishing" are of great concern to us. Safeguarding information to help protect you from identity theft is our priority. For more information about phishing, you may want to visit the Federal Trade Commission at <http://www.ftc.gov/>.
-
-**Your California Privacy Rights.**
-
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [Customer Service](mailto:feedback@pe.com).
-
-**When is this Privacy Policy Effective? How Do We Post Changes to the Privacy Policy?**
-
-This Privacy Policy is effective as of March 22, 2013. A. H. BELO reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page and/or on the Service. Your continued viewing, browsing, use or access of an A. H. BELO Service following our posting of a change notice will constitute your binding acceptance of those changes.
+If we decide to change our Privacy Policy, in whole or in part, we will inform you by posting the changed Privacy Policy on the Site. Your continued use of the Site constitutes your agreement to abide by the Privacy Policy as changed. If you object to any such changes, your sole recourse shall be to cease using the Site.
