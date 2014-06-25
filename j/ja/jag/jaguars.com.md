@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaguars.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205233930id_/http%3A//www.jaguars.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguars.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625230538id_/http%3A//www.jaguars.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - jaguars.com
 
@@ -9,13 +9,13 @@
 Jacksonville Jaguars Website Privacy Policy  
 Revised September 30, 2005
 
-This privacy policy applies to the Jacksonville Jaguars,Ltd website located at www.jaguars.com (the "Website"). This privacy policy also applies to information submitted by children using the message board at [mb.jaguars.com](http://forum.jaguars.com/). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it,with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
+This privacy policy applies to the Jacksonville Jaguars, LLC website located at www.jaguars.com (the "Website"). This privacy policy also applies to information submitted by children using the message board at [mb.jaguars.com](http://forum.jaguars.com/). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it,with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
-The Website is operated by Jacksonville Jaguars, Ltd. 
+The Website is operated by Jacksonville Jaguars, LLC. 
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address.  When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy. 
 
-The Jacksonville Jaguars is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent,non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site [http://www.jaguars.com/](http://prod.www.jaguars.clubs.nfl.com/).  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+The Jacksonville Jaguars is a licensee of the True Ultimate Standards Everywhere, Inc. (a Delaware corporation) (“TRUSTe”).  TRUSTe’s mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site [http://www.jaguars.com/](http://prod.www.jaguars.clubs.nfl.com/).  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact us via email at [privacy@jaguars.com](mailto:privacy@jaguars.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.
 
