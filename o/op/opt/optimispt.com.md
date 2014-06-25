@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimispt.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502205155id_/http%3A//public.optimispt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimispt.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115543id_/http%3A//optimispt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OptimisPT
 
