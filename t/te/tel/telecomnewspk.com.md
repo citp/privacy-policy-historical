@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telecomnewspk.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223111308id_/http%3A//telecomnewspk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecomnewspk.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095424id_/http%3A//telecomnewspk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Telecom News Bulletin | Telecom Magazine
 
