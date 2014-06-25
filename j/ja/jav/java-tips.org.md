@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the java-tips.org privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109031235id_/http%3A//www.java-tips.org/site-documentation/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the java-tips.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100110id_/http%3A//www.java-tips.org/site-documentation/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Java Tips - Privacy Policy
 
@@ -56,11 +56,11 @@ Top Rated Tips
 
 Statistics   
 ---  
-| Registered Users: | 1219  
+| Registered Users: | 4082  
 ---|---  
 Java SE Tips:|  614  
 Java ME Tips:|  202  
-Java EE Tips:|  184  
+Java EE Tips:|  183  
 Other API Tips:|  779  
 Java Applications:|  298  
 Java Libraries:|  209  
