@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wifi.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726235825id_/http%3A//www.wifi.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wifi.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100524id_/http%3A//wifi.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | WiFi.com
 
-## Last Revised: February 3rd, 2011
+## Last Revised: April 6th, 2014
 
 At WiFi.com, we respect the privacy of the users of our website and services. We are committed to protecting your privacy. We have created this privacy policy to demonstrate our commitment to you and help you understand it. We ask you to be aware, by using the WiFi.com website you are giving consent to the privacy policy outlined below. From time to time it may become necessary for us to revise our privacy practices and we encourage you to check with this policy often to ensure your continued agreement. We will include all updated information in this policy and post the revision date on this page.
 
