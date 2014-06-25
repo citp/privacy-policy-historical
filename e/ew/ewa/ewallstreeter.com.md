@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewallstreeter.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218052755id_/http%3A//ewallstreeter.com/page/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewallstreeter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625213625id_/http%3A//ewallstreeter.com/page/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - eWallstreeter
 
@@ -61,3 +61,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://ewallstreeter.com
 
 info@ewallstreeter.com
+
+[Back Home »](http://ewallstreeter.com/)
