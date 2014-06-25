@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picsart.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220080435id_/http%3A//picsart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picsart.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083910id_/http%3A//picsart.com/privacy) for the most accurate reproduction.*
 
 # Privacy / Picsart Artists Photos and Drawings Gallery
 
@@ -17,6 +17,8 @@ Personal information may be collected in a number of ways. We may collect certai
 _Cookies_ \- We may automatically collect certain information through the use of "cookies". Cookies are small data files that are stored on your hard drive by a Web site. Among other things, the use of cookies helps us to improve the Site and your experience on the Site. We use cookies to see which areas and features of the Site are most popular, to count the number of computers accessing the Site, to personalize your experience and to remember your preferences. If your browser is set not to accept cookies or if you reject a cookie, you may not be able to access certain features or services of the Site.
 
 _Web Beacons_ \- Web beacons, also known as gifs, are electronic images that may be used on the Site or in our emails. A Web beacon may be used on our Web pages to collect information, deliver cookies, count visits, compile statistics on usage and campaign effectiveness and in our emails to tell if an email has been opened and acted upon.
+
+ _Metadata_  \- Users can add or may have Metadata added to their User Content including a hashtag (e.g., to mark keywords when you post a photo), geotag (e.g., to mark your location to a photo), comments or other data. This makes your User Content more searchable by others and more interactive. If you geotag your photo or tag your photo using other's APIs then, your latitude and longitude will be stored with the photo and searchable (e.g., through a location or map feature) if your photo is made public by you in accordance with your privacy settings.
 
 Storage of Information & Transfer of Data
 
