@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optinmonster.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002034339id_/http%3A//optinmonster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optinmonster.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625170857id_/http%3A//optinmonster.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 **Comments**
 
-Comments and other content submitted to Livefyre anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
+Comments and other content submitted to Disqus anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
 
 **Privacy Policy Changes**
 
