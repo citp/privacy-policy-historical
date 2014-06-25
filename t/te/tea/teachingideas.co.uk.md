@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachingideas.co.uk privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811064055id_/http%3A//www.teachingideas.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingideas.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095531id_/http%3A//www.teachingideas.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,36 +12,33 @@ Please note that by visiting and using the Teaching Ideas site, you are agreeing
 
 **Changes** :
 
-We may change this policy from time to time by updating this page. You should check this page occasionally to ensure that you are happy with any changes. This policy was last updated in May 2012.
+We may change this policy from time to time by updating this page. You should check this page occasionally to ensure that you are happy with any changes. This policy was last updated in April 2014.
 
 **The information that we collect and how we use it** :
 
 The Teaching Ideas site does not collect any personal information from visitors who visit the site, read the ideas or download resources. However, visitors may share their personal information by interacting with the site in other ways:
 
   * **Mailing List** \- Visitors to Teaching Ideas can register for a monthly email newsletter. This Teaching Ideas Update mailing list is managed by [ymlp.com](http://www.ymlp.com/). All personal information provided when registering for our mailing list is saved in YMLP's database. Teaching Ideas sends out one email newsletter per month to registered users and personal information is only used to send out these monthly emails. No personal information is sold or shared with others. You can subscribe and unsubscribe from the Teaching Ideas Update mailing list [here](http://www.teachingideas.co.uk/mailinglist.htm). You can also read YMLP's [Privacy Policy](http://www.yourmailinglistprovider.com/privacy_policy.html) and [Anti-Spam Policy](http://www.yourmailinglistprovider.com/antispam_policy.html). 
-  * **Email Contributions** \- We encourage teachers to share their lesson ideas and resources with Teaching Ideas. Any contributions sent to Teaching Ideas[ via email](mailto:mark@teachingideas.com) will be saved and archived in a Google Mail account (see [Google's Privacy Policy](http://www.google.com/privacy/privacy-policy.html)). Contributors will receive email from us in relation to their contribution but emails will not be sent for any other reason. Email will be saved in case we need to contact you about your contribution again in the future. If your contribution is used on Teaching Ideas, your name will be published alongside it, unless you tell us that you would not like this information to be published.
+  * **Email Contributions** \- We encourage teachers to share their lesson ideas and resources with Teaching Ideas. Any contributions sent to Teaching Ideas[ via email](mailto:mark@teachingideas.com) will be saved and archived in a Google Mail account (see [Google's Privacy Policy](http://www.google.com/privacy/privacy-policy.html)). Contributions sent [via our form](https://web.archive.org/web/20140625095531id_/http%3A//www.teachingideas.co.uk/share.htm) will also be saved on the Jotform platform (see their [Privacy Policy](http://www.jotform.com/privacy/)) until we have reviewed them (at which point they will be deleted). Contributors will receive email from us in relation to their contribution but emails will not be sent for any other reason. Email will be saved in case we need to contact you about your contribution again in the future. If your contribution is used on Teaching Ideas, your name will be published alongside it, unless you tell us that you would not like this information to be published.
 
 
 
 **The information that others collect:**
 
-Teaching Ideas uses a number of third party services to provide additional functionality to the site and its users. These services may use cookies. Find out more about cookies on our [cookies page](https://web.archive.org/web/20130811064055id_/http%3A//www.teachingideas.co.uk/cookies.htm). The third party services used on Teaching Ideas are:
+Teaching Ideas uses a number of third party services to provide additional functionality to the site and its users. These services may use cookies. Find out more about cookies on our [cookies page](https://web.archive.org/web/20140625095531id_/http%3A//www.teachingideas.co.uk/cookies.htm). The third party services used on Teaching Ideas are:
 
   * **Google Analytics** \- Teaching Ideas uses Google Analytics to track and monitor statistics about visitors to the site. You can read the [Google Analytics Privacy Overview here](http://www.google.com/intl/en/analytics/privacyoverview.html). To opt out of being tracked by Google Analytics across all websites, Google provide [this browser add-on](http://tools.google.com/dlpage/gaoptout) which you can install on your computers.
   * **Advertisers** \- In order to provide free lesson ideas and educational resources, Teaching Ideas shows advertising, which are provided by the following services: 
     * Google Adsense and DFP - Read Google's Privacy information and opt out of targeted advertising [here](http://www.google.com/privacy/ads/).
-    * Specific Media - Read Specific Media's Privacy policy and opt out of their user interest targeting cookie [here](http://www.specificmedia.com/privacy).
     * Amazon.co.uk Affiliates - Read Amazon.co.uk's Privacy Notice [here](http://www.amazon.co.uk/gp/help/customer/display.html?nodeId=502584).
-    * Payloadz Affiliates - Read Payloadz Privacy Policy [here](https://www.payloadz.com/privacy.asp).
     * Criteo - Read Criteo's Privacy information (and opt out of their advertising) [here](http://www.criteo.com/us/privacy-policy).
-    * TradeDoubler - Read [TradeDoubler's Privacy Notice](https://www.tradedoubler.co.uk/uk-en/legal/privacy.html) and set your [TradeDoubler targeting preferences](https://www.tradedoubler.co.uk/uk-en/legal/targeting.html).
-    * Lijit - Read Lijit's Privacy information [here](http://www.lijit.com/company/privacy-policy) and opt out of their targeted advertising [here](http://www.lijit.com/choices).
-    * Affiliate Window - Read Affiliate Window's Privacy Policy [here](http://blog.affiliatewindow.com/wp-content/uploads/2012/05/Digital-Window-Privacy-Policy-May-2012.pdf).
+    * TradeDoubler - Read [TradeDoubler's Privacy Notice](http://www.tradedoubler.com/uk-en/privacy-policy/) and set your [TradeDoubler targeting preferences](http://publisher.tradedoubler.com/public/targetingCookieInformation.action).
+    * Media.net - Read Media.net's Privacy Policy [here](http://www.media.net/privacy-policy).
+    * BuySellAds - Read BuySellAds' Privacy Policy [here](http://buysellads.com/about/privacy).
   * **Disqus Comments** \- Teaching Ideas uses a service from Disqus to allow visitors to comment on lesson ideas and share their own ideas / opinions. Comments are moderated and may be deleted if inappropriate / unsuitable for use on the site. Read Disqus' privacy policy [here](http://docs.disqus.com/help/30/).
   * **RSS / Email subscriptions** \- Visitors may subscribe to the site (for free) and receive information about the latest additions to Teaching Ideas by RSS and / or email. This service is provided by Google Feedburner. Find out more about Google's privacy principles at the [Google Privacy Center](http://www.google.com/intl/en/privacy/).
   * **Outbrain** \- Teaching Ideas uses Outbrain to provide users with links to relevant articles and resources across the site. Read Outbrain's privacy policy [here](http://www.outbrain.com/privacy).
-  * **AddThis** \- Teaching Ideas uses AddThis to allow users to save and share information that they find on the site. Read about Addthis' Privacy and Data Practices [here](http://www.addthis.com/privacy).
-  * **Social Media** \- Teaching Ideas uses a number of social networks to share ideas / information and to promote our resources. Each of these networks have their own privacy policies (i.e. [Twitter](https://twitter.com/privacy), [Facebook](http://www.facebook.com/policy.php) and [LinkedIn](http://www.linkedin.com/static?key=privacy_policy)).
+  * **Social Media** \- Teaching Ideas uses a number of social networks to share ideas / information and to promote our resources. Each of these networks have their own privacy policies (i.e. [Twitter](https://twitter.com/privacy), [Facebook](http://www.facebook.com/policy.php), [Google+](http://www.google.com/policies/privacy/) and [LinkedIn](http://www.linkedin.com/static?key=privacy_policy)).
   * **Embedded resources** \- A number of the resources on Teaching Ideas may be embedded, with permission, from other third party services. Each of these services have their own privacy policies (i.e. [Google Docs](http://www.google.com/privacy/privacy-policy.html), [Youtube](http://www.youtube.com/t/privacy), [Vimeo](http://vimeo.com/privacy) and [Slideshare](http://www.slideshare.net/privacy)). 
 
 
