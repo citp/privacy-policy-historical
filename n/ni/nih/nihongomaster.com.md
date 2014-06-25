@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the nihongomaster.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106000211id_/http%3A//www.nihongomaster.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nihongomaster.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083116id_/http%3A//nihongomaster.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Nihongo Master, Learn Japanese Online
+
+### Summary
+
+If you don't feel like reading all the legal words to the right, here's a summary of important facts. 
+
+  * We will store personal information such as your Name and E-Mail address only if you give it to us.
+  * We may use browser cookies but only to enhance your experience on our site.
+  * We may collect information such as browsers, location and other technical information to improve our service.
+  * We will **never** sell your information to a 3rd Party.
+  * We use reputable 3rd Parties such as [Mail Chimp](http://www.mailchimp.com/) to maintain our newsletters so they can make sure we follow all the laws.
+
+
 
 This document was last updated on June 23, 2012 
 
