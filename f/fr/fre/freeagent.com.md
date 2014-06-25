@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeagent.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219110240id_/http%3A//www.freeagent.com/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeagent.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625171758id_/http%3A//www.freeagent.com/website/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FreeAgent
 
