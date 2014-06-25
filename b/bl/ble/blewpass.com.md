@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blewpass.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001075400id_/http%3A//www.blewpass.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blewpass.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115342id_/http%3A//blewpass.com/privacy.php) for the most accurate reproduction.*
 
 # BlewPass - Secure Proxy to Unblock Youtube
 
@@ -19,12 +19,3 @@ The service provided on this website allows access to external, third-party webs
 Our website stores a cookie on your computer, if allowed by your browser's privacy settings *. The cookie used by our service uniquely identifies you to the server and allows our website to remember your preferences.
 
 We may also use third-party advertising partners on our website. Advertisers may send you cookies or use web beacons. We have no control over cookies, web beacons or the information collected by our advertisers. Consult the third-party advertiser's privacy policy for more information on their practices.
-
-  * [Home](https://web.archive.org/web/20131001075400id_/http%3A//www.blewpass.com/index.php)
-  * [Edit Browser](https://web.archive.org/web/20131001075400id_/http%3A//www.blewpass.com/edit-browser.php)
-  * [Manage Cookies](https://web.archive.org/web/20131001075400id_/http%3A//www.blewpass.com/cookies.php)
-  * [Privacy Policy](https://web.archive.org/web/20131001075400id_/http%3A//www.blewpass.com/privacy.php)
-  * [Disclaimer](https://web.archive.org/web/20131001075400id_/http%3A//www.blewpass.com/disclaimer.php)
-  * [Terms of Use](https://web.archive.org/web/20131001075400id_/http%3A//www.blewpass.com/tou.php)
-
-
