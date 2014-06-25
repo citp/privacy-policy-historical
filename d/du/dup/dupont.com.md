@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dupont.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229033839id_/http%3A//www.dupont.com/global-links/utility-links/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dupont.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104300id_/http%3A//www.dupont.com/global-links/utility-links/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -187,8 +187,9 @@ DuPont is committed to protecting the privacy needs of children and we encourage
 
 ## CROSS-BORDER TRANSFER
 
-Your Personal Information may be stored and processed in any country where we have facilities or where we have engaged a service provider, and by using DuPont Site or App you consent to the transfer of information to countries outside of your country of residence, including to the United States, which may have different data protection rules than in your country.  
+Your Personal Information may be stored and processed in any country where we have facilities or where we have engaged a service provider, and by using DuPont Site or App you consent to the transfer of information to countries outside of your country of residence, including to the United States, which may have different data protection rules than in your country.
 
+E. I. du Pont de Nemours and Company (“DuPont US”) has certified to the Safe Harbor framework agreed to by the U.S. Department of Commerce and the EU and the US and Switzerland with respect to certain Personal Information collected by our affiliates and corporate clients located in the European Economic Area and Switzerland and transferred to DuPont US in the United States.  Please see our Safe Harbor Statement at <http://www.dupont.com/global-links/safe-harbor-statement.html>. For additional information regarding the Safe Harbor Program, see the U.S. Dept. of Commerce web site at <http://www.export.gov/safeharbor>
 
 ## SENSITIVE INFORMATION
 
@@ -206,10 +207,12 @@ We may change this Privacy Statement.  Please take a look at the “LAST UPDATE
 If you have any questions about this Privacy Statement, please contact DuPont at [DuPont Inquiry Management Center](http://www2.dupont.com/Contact/en_US/corp/Privacy/PrivacyRequest.html?lang=ENG), or please write to the following address:  
 
 
-  
-DuPont Inquiry Management Center  
-Chestnut Run Plaza 705/GS38  
-PO Box 80705  
-Wilmington, DE  19880-0705
+**DuPont Inquiry Management Center**
 
-rev. June 06, 2013
+Chestnut Run Plaza 730  
+974 Centre Road  
+Wilmington, DE 19805    
+Telephone: 302.992.6565  
+E-mail:  Privacy-Office@dupont.com
+
+rev. March 17, 2014
