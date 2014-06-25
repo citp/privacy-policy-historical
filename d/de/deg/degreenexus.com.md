@@ -1,36 +1,36 @@
-> *The following text is extracted and transformed from the degreenexus.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901154231id_/http%3A//degreenexus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreenexus.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105739id_/http%3A//www.degreenexus.com/privacy.php) for the most accurate reproduction.*
 
-# Online College and University Research | DegreeNexus.com
+# Privacy
 
-Our highest priority is that you have the benefit of the experience of visiting this site and to make sure that: 
+It has always been our highest priority that our clients are able to experience a comfortable and safe visit to our website while we ascertain: 
 
-  * your privacy is respected; 
-  * your information is safe and confidential 
-  * and that any data you giveus is protected
-
-
-
-Any personal information you giveus is: 
-
-  * never shared with any individual, other company, or organization without your express permission
-  * held in line with data protection legislation
-  * stored in a protected database
+  * That their privacy is respected, 
+  * Any information entered by our visitors are kept safe and confidential,
+  * Data protection is maintained at all time.
 
 
 
-Our data security policy is operated independently, or together with our data management partners and sponsor, meets, or exceeds, the requirements of all recent Privacy legislation. 
+We also guarantee that any and all personal information provided:
+
+  * Is never shared with any individual, company, or organization without explicitly expressed permission from our visitors.
+  * All data provided are always held in line with data protection legislation.
+  * All data provided are stored in a protected database.
+
+
+
+To that we can confirm that our data security policy is operated independently or together with our data management partners and sponsors and it meets the requirements of all recent Privacy legislations.
 
 Online Privacy Opt-in  
-Personal information is gathered only when you willingly register at any of our specialized, focused sites to give data, get newsletters, or for other information opportunities. Our policy is to keep all personal information as private and to make use of it only for the reason for which it was submitted and to give you adviceof new developments that may concern you. 
+Personal information is gathered only when one desires to register at any of our specialized websites to obtain data, newsletters or other information and opportunities. Our policy strictly aims at keeping all personal information private and is only used to satisfy the purpose for which it was submitted. 
 
-Sharing Data  
-We never share our list of consumers with any organization or company nor sell or otherwise reveal any personally identifiable information about you without your express permission.You may get a summary of your information on record with us at any time. You may also ask that we destroy any information about you and delete your information from our database at any time. 
+Data Sharing  
+Our policy strictly forbids sharing of information with any third party organizations or individuals without the expressed permission of the clients. Our registered users are free to obtain a summary of their information stored on our records at any time. Our registered users are also free to edit / delete any information provided by them from our database at a time of their choosing. 
 
-Aggregate Data  
-As with all servers on the Internet, the computers that provide the Web pages to you recognize your computer by its unique IP address or that of your ISP, such as AOL. The servers automatically save the name of the domain from which you get accessto the site and the type of operating system and web browser that you use, noting your choices and preferences. These data are gathered and analyzed to recognize broad demographic and psychographic trends. This helps us check the appeal and quality of information we make public and ensures that we only offeryou relevant and useful information. Unless you register with us, this information cannot be used to recognize you personally. 
+Data Aggregation   
+Our servers automatically save the domain name, IP address of the computer, preferred Internet Service Provider, operating system, browser information and preferences of our users and stores this data to analyze and recognize broad demographic and psychographic trends. The information is used to help us evaluate the appeal and quality of the information provided by us and ensures that what we offer to our visitors is relevant and useful. Unless one registers with us, their information cannot be used to for the stated purpose.
 
 Cookies  
-with the intention toprovide you better, we may make use of cookies to store information. A cookie is a small piece of data stored on your computer that is used by browser and that can only be understood and read by our servers. All browsers will work with cookies, but you can set your browser to reject or accept them. If your browser rejects cookies, you can still get access to our sites but some features may not be available to you. 
+With the intention to provide our visitors better service we may make use of cookies to store information. A cookie is a small piece of data stored on the computer that is used by the browser and understood and read solely by the relevant servers to obtain data about the browser’s previous activities and preferences. All browsers will work with cookies, but one can set their browser to reject or accept them, depending upon their preferences. If the browser rejects cookies, once can still get access to our sites but some of the features may not be made available. 
 
 Children and Privacy  
-We promote parents to spend time online with their children. Under no conditions do we intentionally collect 
+Some of our web pages provide content relevant to children. In compliance with our policy requirements we collect no information online from or about children below the age of 13 except when there is a need to identify a submission or to answer a question. Any such instances where related information is collected on web pages, it will be explicitly marked to the same effect. Unless required by relevant laws and parental permission is obtained in writing, the collected information will not be used to serve any other purpose apart from those stated and will not be shared with third parties. 
