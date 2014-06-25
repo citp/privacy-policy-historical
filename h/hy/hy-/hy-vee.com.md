@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228021512id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045954id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
+
+## [Company](https://web.archive.org/company/default.aspx)
 
   * [Careers](https://web.archive.org/company/careers/default.aspx)
   * [Scholarships](https://web.archive.org/company/scholarships/default.aspx)
