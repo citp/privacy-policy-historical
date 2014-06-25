@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moderndogmagazine.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125014704id_/http%3A//moderndogmagazine.com/modern-dog-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderndogmagazine.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085056id_/http%3A//moderndogmagazine.com/modern-dog-privacy-policy) for the most accurate reproduction.*
 
 # Modern Dog Privacy Policy | Modern Dog magazine
 
