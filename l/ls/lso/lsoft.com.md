@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the lsoft.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117170522id_/http%3A//www.lsoft.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsoft.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142520id_/http%3A//www.lsoft.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
 
 # L-Soft Privacy Policy
 
 * * *
 
-### Introduction
-
-At L-Soft, we are committed to the protection of your privacy and personal data. As a subscriber of our email lists, visitor to our Website, or customer of our products and services, you decide what information to give us. Any information that you provide will be held securely and in accordance with the legal regulations of data protection and electronic communication.
+At L-Soft, we are committed to the protection of your privacy and personal data. As a subscriber of our email lists, visitor to our website, or customer of our products and services, you decide what information to give us. Any information that you provide will be held securely and in accordance with the legal regulations of data protection and electronic communication.
 
 In accordance with our corporate policy, L-Soft pledges that it will never release, sell or trade your personal information without your consent. An exception must be made if we are required to do so by law or in the unlikely event of a sale of the business or transfer of assets.
 
 The information that we gather falls into two categories:
 
   * **Personally Identifiable Information:** Personally identifiable information is any kind of information about a specific user, including name, email address and company. L-Soft only collects personally identifiable information that you explicitly give us.
-  * **Non-Personally Identifiable Information:** Non-personally identifiable information is any type of information collected in Web logs, including IP address, browser type, or the use of cookies. This information is only viewed in aggregate form and is not routinely tracked to an individual site visitor except in special cases, such as responding to Internet-based attacks.
+  * **Non-Personally Identifiable Information:** Non-personally identifiable information is any type of information collected in web logs, including IP address, browser type, or the use of cookies. This information is only viewed in aggregate form and is not routinely tracked to an individual site visitor except in special cases, such as responding to Internet-based attacks.
 
 
 
@@ -37,11 +35,11 @@ L-Soft complies fully with the federal CAN-SPAM Act of 2003 and EU Directive 200
 
 ### Privacy Policy for Website
 
-As is standard practice on many Websites, L-Soft logs non-personally identifiable information about site visitors to analyze Website traffic. This information is not routinely tracked to individual site visitors. It is only viewed and analyzed in aggregate form except in special cases, such as responding to Internet-based attacks.
+As is standard practice on many websites, L-Soft logs non-personally identifiable information about site visitors to analyze website traffic. This information is not routinely tracked to individual site visitors. It is only viewed and analyzed in aggregate form except in special cases, such as responding to Internet-based attacks.
 
-  * **IP Address:** An IP address is an identifier for a computer or device on a TCP/IP network. L-Soft logs IP addresses to analyze traffic and improve the content of the Website. L-Soft does not routinely track IP addresses to individual users. In special cases, such as responding to Internet-based attacks or troubleshooting customer or subscriber problems, logs for Web and other Internet services may be used to track the particular IP addresses that are involved in the incident.
-  * **Cookie:** A cookie is a message given to a Web browser by a Web server. The message is sent back to the server each time the browser requests a page from the server. The main purpose of cookies is to identify users, and, in some cases, to prepare customized Web pages for them. The L-Soft Website uses cookies to remember user regional preferences. L-Soft also uses cookies on a permission basis by offering LISTSERV administrators, list owners and subscribers the possibility to store their passwords with the help of a cookie. L-Soft does not use cookies to track individual users.
-  * **Web Forms:** Web forms are used on the L-Soft Website as a mechanism for site visitors to contact L-Soft. The Web forms collect information, including name, email address and company name. This information is only used to answer and follow up on the request and is not shared with any third party unless explicitly mentioned.
+  * **IP Address:** An IP address is an identifier for a computer or device on a TCP/IP network. L-Soft logs IP addresses to analyze traffic and improve the content of the website. L-Soft does not routinely track IP addresses to individual users. In special cases, such as responding to Internet-based attacks or troubleshooting customer or subscriber problems, logs for web and other Internet services may be used to track the particular IP addresses that are involved in the incident.
+  * **Cookie:** A cookie is a message given to a web browser by a web server. The message is sent back to the server each time the browser requests a page from the server. The main purpose of cookies is to identify users, and, in some cases, to prepare customized web pages for them. The L-Soft website uses cookies to remember user regional preferences. L-Soft also uses cookies on a permission basis by offering LISTSERV administrators, list owners and subscribers the possibility to store their passwords with the help of a cookie. L-Soft does not use cookies to track individual users.
+  * **Web Forms:** Web forms are used on the L-Soft website as a mechanism for site visitors to contact L-Soft. The web forms collect information, including name, email address and company name. This information is only used to answer and follow up on the request and is not shared with any third party unless explicitly mentioned.
 
 
 
@@ -56,7 +54,7 @@ As is standard practice on many Websites, L-Soft logs non-personally identifiabl
 
 L-Soft welcomes your comments regarding these privacy statements. If you would like to know what L-Soft email lists you are subscribed to or to submit questions or comments, feel free to contact us at: [editor@lsoft.com](mailto:editor@lsoft.com). Your feedback will help us improve our service to our customers.
 
-To reflect this feedback, we may occasionally amend this privacy policy; thus, we encourage you to periodically review this page for any updates on our commitment to protect your information and provide you with improved content on our Website.
+To reflect this feedback, we may occasionally amend this privacy policy; thus, we encourage you to periodically review this page for any updates on our commitment to protect your information and provide you with improved content on our website.
 
 ### Legal Framework for Electronic Privacy
 
@@ -100,8 +98,7 @@ Directive 97/66/EC of the European Parliament and of the Council of 15 December 
 
 EU Directive 2006/24/CE of the European Parliament and of the Council of 15 March 2006 on the retention of data generated or processed in connection with the provision of publicly available electronic communications services or of public communications networks, amending Directive 2002/58/CE
 
-[http://eur-lex.europa.eu/Notice.do?mode=dbl&lang=en&ihmlang=en&lng1=en,it  
-&lng2=cs,da,de,el,en,es,et,fi,fr,hu,it,lt,lv,mt,nl,pl,pt,sk,sl,sv,&val=425159:cs&page= ](http://eur-lex.europa.eu/Notice.do?mode=dbl&lang=en&ihmlang=en&lng1=en,it&lng2=cs,da,de,el,en,es,et,fi,fr,hu,it,lt,lv,mt,nl,pl,pt,sk,sl,sv,&val=425159:cs&page=)
+<http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006L0024:EN:HTML>
 
 First Council Directive 68/151/EEC of 9 March 1968 on co-ordination of safeguards which, for the protection of the interests of members and others, are required by Member States of companies within the meaning of the second paragraph of Article 58 of the Treaty, with a view to making such safeguards equivalent throughout the Community
 
@@ -109,8 +106,9 @@ First Council Directive 68/151/EEC of 9 March 1968 on co-ordination of safeguard
 
 Directive 2003/58/EC of the European Parliament and of the Council 15 July 2003 amending Council Directive 68/151/EEC, as regards disclosure requirements in respect of certain types of companies, which gives the public easier and faster access to information on companies
 
-<http://europa.eu.int/eur-lex/pri/en/oj/dat/2003/l_221/l_22120030904en00130016.pdf>
+<http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0058:EN:HTML>
 
+  
   
 
 
