@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the schedulicity.com privacy policy that was archived on 2013-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604052727id_/https%3A//www.schedulicity.com/About/Privacy-Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schedulicity.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625102906id_/https%3A//www.schedulicity.com/About/Privacy-Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
@@ -12,28 +12,27 @@
 
 <title>
 	Privacy Policy | Schedulicity - Online Scheduling
-</title><link rel="icon" type="image/ico" href="/favicon.ico"><link href="//fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" type="text/css">
-    <link rel="Stylesheet" href="//static.schedulicity.com/css/shared?ck=R22.4k" type="text/css">
-    <link rel="Stylesheet" href="//static.schedulicity.com/css/fullsite?ck=R22.4k" type="text/css">
-    <link rel="Stylesheet" href="//static.schedulicity.com/css/fullsite/public?ck=R22.4k" type="text/css">
-    <link rel="Stylesheet" href="//static.schedulicity.com/css/controls?ck=R22.4k" type="text/css">
+</title><link rel="icon" type="image/ico" href="/favicon.ico"><link href="//fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" type="text/css"><link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="Stylesheet" href="//static.schedulicity.com/css/shared?ck=R31.01" type="text/css">
+    <link rel="Stylesheet" href="//static.schedulicity.com/css/fullsite?ck=R31.01" type="text/css">
+    <link rel="Stylesheet" href="//static.schedulicity.com/css/fullsite/public?ck=R31.01" type="text/css">
+    <link rel="Stylesheet" href="//static.schedulicity.com/css/controls?ck=R31.01" type="text/css">
     
-    <link rel="Stylesheet" href="//static.schedulicity.com/css/fullsite/marketing?ck=R22.4k" type="text/css">
+    <link rel="Stylesheet" href="//static.schedulicity.com/css/fullsite/marketing?ck=R31.01" type="text/css">
     
-    <link rel="Stylesheet" href="//static.schedulicity.com/css/fullsite/marketing/essentials?ck=R22.4k" type="text/css">
-    <link rel="Stylesheet" href="//static.schedulicity.com/css/fullsite/marketing/about?ck=R22.4k" type="text/css">
+    <link rel="Stylesheet" href="//static.schedulicity.com/css/fullsite/marketing/essentials?ck=R31.01" type="text/css">
+    <link rel="Stylesheet" href="//static.schedulicity.com/css/fullsite/marketing/about?ck=R31.01" type="text/css">
     
 
 
 
-    
-    <!--[if lte IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/167857d1-c627-4ce2-a3ab-b819b18dae12.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+    <!--[if lt IE 9]><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><![endif]-->
+    <!--[if gte IE 9]><!--><script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/167857d1-c627-4ce2-a3ab-b819b18dae12.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script><!--<![endif]-->
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
     
     <script src="//cdn.optimizely.com/js/8394290.js"></script>
-    <script type="text/javascript" src="//static.schedulicity.com/js/fullsite?ck=R22.4k"></script>
-    <script type="text/javascript" src="//static.schedulicity.com/js/controls?ck=R22.4k"></script>
+    <script type="text/javascript" src="//static.schedulicity.com/js/fullsite?ck=R31.01"></script>
+    <script type="text/javascript" src="//static.schedulicity.com/js/controls?ck=R31.01"></script>
     
     
     
@@ -44,6 +43,7 @@
 
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-1860017-14']);
+    _gaq.push(['_setDomainName', 'schedulicity.com']);
     _gaq.push(['_trackPageview']);
     _gaq.push(['_trackPageLoadTime']);
 
@@ -87,9 +87,11 @@
             <a href="/Home/" class="marginRightSmall">Home</a>
             <label class="profileName">{{>LoginUserModel.FullName}}</label>
             <span class="profileButton vAlignChildrenMiddle">
-                <img class="profilePic" src="{{>LoginUserModel.ImageURL}}" />
-                {{if LoginUserModel.UnreadMessageCount > 0 }}
+                <img class="profilePic" src="{{>LoginUserModel.ImageUrl}}" />
+                {{if LoginUserModel.UnreadMessageCount > 0 && LoginUserModel.UnreadMessageCount <= 99 }}
                 <span class="circle blue loginUnreadCount">{{>LoginUserModel.UnreadMessageCount}}</span>
+                {{else LoginUserModel.UnreadMessageCount > 99 }}
+                <span class="circle blue loginUnreadCount">99+</span>
                 {{/if}}
             </span>
         </div>
@@ -103,10 +105,10 @@
         });
     </script>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class="firefox major0 minor0">
+<body class="major0 minor0">
     <div id="lightboxOverlay" class="black_overlay hidden"></div>
     <div>
-        <form method="post" action="privacy-policy.aspx" id="aspnetForm">
+        <form method="post" action="Privacy-Policy.aspx" id="aspnetForm">
 <div class="aspNetHidden">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxM2RkMR+MSkqh/iTh6Ava5bI0n3zeDOFChl6/+xhJ6pAoItE=">
 </div>
@@ -117,17 +119,15 @@
     </div>
 
              
-    <div id="ctl00_ctl00_ctl00_ctl00_cphMain_divUntestedBrowser" class="homeUntestedBrowserContainer">
-        <div class="homeUntestedBrowser">
-            Whoa! We don't support that browser you're using. We understand that browser selection is a personal choice, but weird stuff may happen if you keep going. For an optimal experience, consider using
-            <a href="/SystemPages/MinimumRequirements.aspx">one of our supported browsers</a>.
-        </div>
-    </div>
+    
 
-
+    
 	<div id="container">
         <header>
-            <div class="logo"><a href="/">Schedulicity</a></div>
+           
+            
+             <div class="logo"><a href="/">Schedulicity</a></div>
+            
             <div class="headerSignInContainer clearfix">
                 
                         
@@ -220,6 +220,9 @@
                                 </div>
                             </div>
                         
+                <div id="signInIssueLightBox" class="hidden">
+                    We noticed a problem — please <a href="javascript:location.reload(true);">reload</a> the page.
+                </div>
             </div>
         </header>
 
@@ -230,7 +233,7 @@
         <div class="headerNavLinkContainer right">
             <a href="/Essentials/Everything-You-Need.aspx" class="headerNav cornerAllExtraLarge" data-path="/essentials/">Essentials</a>            
             <a href="/Why/A-Better-Way.aspx" class="headerNav cornerAllExtraLarge" data-path="/why/">Why Schedulicity</a>
-            <a href="/Company/About-Schedulicity.aspx" class="headerNav cornerAllExtraLarge" data-path="/company/about-schedulicity">About us</a>
+            <a href="/Company/About-Schedulicity.aspx" class="headerNav cornerAllExtraLarge" data-path="/company/about-schedulicity">About Us</a>
             <a href="/Business/Setup/CreateAccount.aspx" class="headerNav cornerAllExtraLarge" data-path="/business/setup">Business Sign Up</a>
         </div>
     </div>
@@ -336,7 +339,8 @@
 	            to improve and enhance the functionality of our website. If you choose to not allow
 	            a cookie on your computer, our website may not work correctly.</p>
 	        <p class="marginBottomSmall">
-	            We also may use cookies, clear gifs, and log file information to: (a) store information
+	            We also may use cookies, clear gifs, log file information, and other tracking mechanism.
+                We may use this information for any lawful purpose, including to: (a) store information
 	            so that you will not have to re-enter it during your visit or the next time you
 	            visit the Website; (b) provide custom, personalized content and information; (c)
 	            monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics
@@ -372,7 +376,7 @@
 	            (collectively “disclose”) all information collected via the Website, internally
 	            or to third parties, for any lawful purpose or to prevent harm to us or others.
 	            For example and without limitation, in our discretion we may disclose information:</p>
-	        <ul class="marginBottomSmall marginLeft">
+	        <ul class="privacyPolicyList marginBottomSmall marginLeft">
 	            <li>To service providers and others in order to deal with requests and questions from
 	                you; to personalize or enhance transactions; to verify, process, store, enforce,
 	                investigate and/or collect actual or potential transactions; and to assist or respond
@@ -459,7 +463,7 @@
 	            If you or any other person believes they are a victim of identity theft, and are
 	            therefore entitled by law to request certain business records in our control, we
 	            will attempt to verify the claim as allowed by law. You need to do all of the following:</p>
-	        <ol class="marginBottomSmall marginLeft">
+	        <ol class="privacyPolicyList marginBottomSmall marginLeft">
 	            <li>Write us at our Legal Notices Address and include in the letter the following information
 	                about the transaction that you know or can readily obtain: (a) the date of the transaction
 	                or other relevant act; (b) any other identifying information such as an account
@@ -522,7 +526,7 @@
                 <div class="link"><a href="/Site.aspx">Site Map</a></div>
                 <div class="link clearfix"><a href="/About/Privacy-Policy.aspx">Privacy Policy</a></div>
                 <div class="link clearfix"><a href="/Company/About-Schedulicity.aspx">About us</a></div>
-                <div class="copyright">© 2009-2013 Schedulicity, Inc</div>
+                <div class="copyright">© 2009-2014 Schedulicity, Inc. U.S. Pat. Nos. 8,244,566 and 8,671,009.</div>
             </div>
         </footer>
 	</div>
@@ -552,9 +556,9 @@
     
     
     
-    <script type="text/javascript" src="//static.schedulicity.com/js/fullsite/marketing?ck=R22.4k"></script>
+    <script type="text/javascript" src="//static.schedulicity.com/js/fullsite/marketing?ck=R31.01"></script>
     
-    <script type="text/javascript" src="//static.schedulicity.com/js/fullsite/about?ck=R22.4k"></script>
+    <script type="text/javascript" src="//static.schedulicity.com/js/fullsite/about?ck=R31.01"></script>
 
     <!-- begin SnapEngage code -->
     <script type="text/javascript">
@@ -567,14 +571,6 @@
     <!-- end SnapEngage code -->
 
 
-    <script type="text/javascript">
-        if (typeof Common !== 'undefined')
-        {
-            //BRJ: temporarily commented out
-            //window.currentCredentialComparisonKey = ''; // 
-            //window.currentCredentialTimer = Common.assertCurrentCrediential.periodical(8000);
-        }
-    </script>
     
     
     
