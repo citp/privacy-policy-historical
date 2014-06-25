@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthaffairs.org privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119205908id_/http%3A//www.healthaffairs.org/1540_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthaffairs.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112551id_/http%3A//www.healthaffairs.org/1540_privacy_policy.php) for the most accurate reproduction.*
 
 # Health Affairs
 
@@ -26,21 +26,11 @@ We **do not release** any information about your use of our site, including your
 
 **How To Stop Receiving Information From Us**
 
-You may choose at any time to stop receiving offer information from us about content or services. You [Contact Us](https://web.archive.org/web/20131119205908id_/http%3A//www.healthaffairs.org/1610_contact.php) to stop receiving information from us, or: 
-
-   •Call Customer Service & Fulfillment at 301-656-7401, ext. 900, or fax your request to 301-654-2845,   
-    Attn: Judie Tucker 
-
-   •Send postal mail to Customer Service, _Health Affairs_ ,  
-    7500 Old Georgetown Road, Suite 600,   
-    Bethesda, MD 20814, USA 
-
-  
-Under normal conditions, you can expect your request to take 48 to 72 hours to be processed. 
+You may choose at any time to stop receiving offer information from us about content or services. Please [Contact Us](http://content.healthaffairs.org/cgi/feedback) to stop receiving information from us.
 
 Cookies are small files that are created to store information on your computer. _Health Affairs_ does not use cookies to track what other sites you have visited or to look at or track any personal or confidential information about you. Cookies are a required feature to support the personalization, registration, and sign-in features within the _Health Affairs_ site. You may use our site without cookies if you choose not to register, sign in, or decline to use the personalization features, such as CiteTrack and e-alerts. 
 
-For more information about cookies, [click here](http://content.healthaffairs.org/help/aboutcookies.dtl).
+For more information about cookies, [click here](http://content.healthaffairs.org/help/subscriptions/privacy-policy).
 
 **Surveys**
 
