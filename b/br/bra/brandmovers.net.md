@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandmovers.net privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121200159id_/http%3A//www.brandmovers.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandmovers.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080127id_/http%3A//www.brandmovers.com/legal/privacy) for the most accurate reproduction.*
 
 # Digital Engagement | Brandmovers | The Engagement Marketers.
 
@@ -26,7 +26,7 @@ We will only use your personal information in the way we specified when it was c
 
 We may respond to subpoenas, court orders, or legal process by disclosing your personal information and other related information, if necessary. We also may disclose your personal information to establish or exercise our legal rights or defend against legal claims.
 
-POLICY PUDATES OR CHANGES
+POLICY UDATES OR CHANGES
 
 Brandmovers and its affiliates may update or change this Policy at any time and such changes will become effective immediately unless otherwise stated. Our Website will state the date it was last updated and we encourage you to review our Policy whenever you use our Website.
 
