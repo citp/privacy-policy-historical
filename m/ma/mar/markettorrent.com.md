@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markettorrent.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512123659id_/http%3A//markettorrent.com/topic/8869) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markettorrent.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053404id_/http%3A//markettorrent.com/topic/8869) for the most accurate reproduction.*
 
 # MarketTorrent.com - Privacy Policy (Page 1)
 
@@ -31,7 +31,7 @@ Categories
 
 
 
-|  Warning: in_array() expects parameter 2 to be array, string given in /var/www/markettorrent.com/fw2/_bls/arrays.inc on line 183 
+| 
 
 HOW WE PROTECT YOUR PRIVACY 
 
@@ -97,6 +97,6 @@ If you are a California resident and our customer, Cal. Civ. Code § 1798.83 per
 
 This privacy policy was last updated on 10-25-2011.
 
-This is the end of the file.
+~This is the end of the file.~
 
 | 
