@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packersnews.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116184658id_/http%3A//www.packersnews.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packersnews.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001405id_/http%3A//www.packersnews.com/section/privacy) for the most accurate reproduction.*
 
 # privacy | Packersnews | packersnews.com
 
