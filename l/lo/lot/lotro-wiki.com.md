@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the lotro-wiki.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215132417id_/http%3A//lotro-wiki.com/index.php/Lotro-Wiki.com%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotro-wiki.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140142id_/http%3A//lotro-wiki.com/index.php/Lotro-Wiki.com%3APrivacy_policy) for the most accurate reproduction.*
 
 # Lotro-Wiki.com:Privacy policy - Lotro-Wiki.com
 
 From Lotro-Wiki.com
 
-  
 Information used when registering with Lotro-Wiki.com will not be used for any commercial purpose. In fact only a unique avatar name and password is required to register, an optional email address can be provided if you choose to enhance how notifications are delivered. Registration is only required if you want to contribute to or have a more custom experience on Lotro-Wiki.com. 
 
 ## IP and other technical information
@@ -15,9 +14,9 @@ When a visitor requests or reads a page, or sends email to a Lotro-Wiki.com serv
 
 The site sets a temporary session cookie on a visitor's computer whenever a page is visited. Readers who do not intend to log in or edit may deny this cookie; it will be deleted at the end of the browser's session. More cookies may be set when one logs in to maintain logged-in status. If one saves a user name or password in one's browser, that information will be saved for up to 30 days, and this information will be resent to the server on every visit. Contributors using a public machine who do not wish to show their username to future users of the machine should clear these cookies after use. 
 
-##### Advertisement Cookies
+### Advertisement Cookies
 
-Only applies with default vector skin. 
+(The following applies only when using the default Vector skin.) 
 
   * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to any website to serve ads on this website. 
   * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to this website on other websites. 
