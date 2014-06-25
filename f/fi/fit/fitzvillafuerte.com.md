@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fitzvillafuerte.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907050518id_/http%3A//fitzvillafuerte.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitzvillafuerte.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062146id_/http%3A//fitzvillafuerte.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy » Ready To Be Rich
+
+Sponsored Links:
 
 Your privacy is respected here in my site, [fitzvillafuerte.com](http://fitzvillafuerte.com/ "Ready To Be Rich"). Please read below the disclosures regarding information gathering and dissemination practices for this web site.
 
@@ -29,3 +31,5 @@ I am also an affiliate for Paypal, Amazon Associates and many other affiliate ma
 
 **Contact Information**  
 If users have any questions or suggestions regarding my privacy policy, please contact me by filling up the [contact form](http://fitzvillafuerte.com/contact "Contact Fitz").
+
+\--- 
