@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the videorevolver.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007144428id_/http%3A//videorevolver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videorevolver.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053257id_/http%3A//videorevolver.com/privacy) for the most accurate reproduction.*
 
-# VideoRevolver: Create Amazing Web Videos That Sell More of Your Stuff Online | Privacy Policy
+# Privacy — VideoRevolver: Create Amazing Web Videos That Sell More of Your Stuff Online
 
 **Policies and Procedures**
 
 Privacy Policy – VideoRevolver.com  
-(Last Updated: March 18th, 2012)
+(Last Updated: Dec 30th, 2013)
 
 VideoRevolver.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
