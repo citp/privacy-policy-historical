@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersup.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219042213id_/http%3A//www.supersup.com/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersup.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626000906id_/http%3A//www.supersup.com/your-privacy) for the most accurate reproduction.*
 
 # Your Privacy
 
@@ -33,4 +33,4 @@ The Super Supplements site may also use "tracer tags," which are tiny graphic im
 
 You may manage, block or delete cookies and other tracking technologies by adjusting your browser's security and privacy settings but, if you do so, you may not be able to use particular features of the Super Supplements site or the Services.
 
-The Super Supplements site uses Analytics tracking code to support Display Advertising, specifically Remarketing & Google Analytics Demographics Reporting. Guests can opt out of Google Analytics for Display Advertising Interest Reporting using Google's [Ads Settings](https://www.google.com/settings/ads)
+The Super Supplements site uses Analytics tracking code to support Display Advertising, specifically Remarketing & Google Analytics Demographics Reporting. Guests can opt out of Google Analytics for Display Advertising Interest Reporting using Google's [Ads Settings](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCga3KIHiO6VIGxYIYp1NaUu-uiD6HHR3K1WDnMUVTK3HdjCwjX_Ey18feZ7wY8EbihBXqTRjsQ22K83nDB-O15Qgss3XII99O7FgVavEmlZLQFchALm-d5XMdtrVNtFik4noGuGx4CIHNukyjSXid-4J1rIdUbNOjCsB77YK-K7f7knI50)
