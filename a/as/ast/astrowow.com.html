@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the astrowow.com privacy policy that was archived on 2013-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131220033217id_/http%3A//www.astrowow.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the astrowow.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625122432id_/http%3A//astrowow.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
 
@@ -10,7 +10,7 @@
 <meta http-equiv="Cache-Control" content="NO-STORE, NO-CACHE, MUST-REVALIDATE, POST-CHECK=0, PRE-CHECK=0">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
-<meta http-equiv="Last-Modified" content="Fri, 20 Dec 2013 03:32:16 GMT">
+<meta http-equiv="Last-Modified" content="Wed, 25 Jun 2014 12:24:33 GMT">
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />-->
@@ -901,10 +901,16 @@ jQuery(function(){
         yesterday.setDate(yesterday.getDate()-1);
         tommorrow.setDate(tommorrow.getDate()+1);
 
+		$('#dvWeekly').html('');
+		$('#dvPrevWeek').html('');
+		$('#dvNextWeek').html('');
+		
         var n = getWeekNumber(today);
         var dt = getFirstDayFromWeekNumber(today.getFullYear(), n,  today.getDate());
         var cMonth = parseInt(today.getMonth()) + 1; 
-		var currentDate = today.getFullYear() + '-' + cMonth + '-' + today.getDate()
+		var currentDate = today.getFullYear() + '-' + cMonth + '-' + today.getDate();
+		
+		
         $.ajax({
             url: 'http://astrowow.com/helper/date-function.php',
             type: "POST",
@@ -915,7 +921,10 @@ jQuery(function(){
             	if (data) {
             		$('#hndPreviousWeek').val(data.PrevWeek);
             		$('#hndCurrentWeek').val(data.CurrentWeek);
-            		$('#hndNextWeek').val(data.NextWeek);            	
+            		$('#hndNextWeek').val(data.NextWeek);          	
+					console.log("hndPreviousWeek:===" + data.PrevWeek);
+					console.log("hndCurrentWeek:===" + data.CurrentWeek);
+					console.log("hndNextWeek:===" + data.NextWeek);
             	}                
             },
             error: function(error) {
@@ -964,8 +973,12 @@ jQuery(function(){
             }
             else
             {
-                $("#dvWeekly").html('<img src="http://astrowow.com/images/loading.gif" />');                
-                getWeeklyHoroscope(dt,sign_id,"dvWeekly");
+                $("#dvWeekly").html('<img src="http://astrowow.com/images/loading.gif" />');            
+				var dt = new Date;				
+                //getWeeklyHoroscope($('#hndCurrentWeek').val(), sign_id, "dvWeekly");		
+				getWeeklyHoroscope(dt, sign_id, "dvWeekly");
+				console.log("hnd:===" + dt);
+						
             }
             $("meta[property='og\\:title']").attr("content", $("#dvWeekly").html());
             return false;
@@ -1356,7 +1369,38 @@ jQuery(function(){
 			//this.href = $.data(this, 'href.tabs');
 			this.href = $(this).attr('data-link');
 		});
+		
+		
     });
+	
+	var fnGetWeekDates = function() {
+		var n = getWeekNumber(today);
+        var dt = getFirstDayFromWeekNumber(today.getFullYear(), n,  today.getDate());
+        var cMonth = parseInt(today.getMonth()) + 1; 
+		var currentDate = today.getFullYear() + '-' + cMonth + '-' + today.getDate();
+		
+		$.ajax({
+            url: 'http://astrowow.com/helper/date-function.php',
+            type: "POST",
+            dataType: "json",
+            data: {"task": "GetWeekList", "currentdate": currentDate},
+            cache: false,
+            success: function(data) {
+            	if (data) {
+            		$('#hndPreviousWeek').val(data.PrevWeek);
+            		$('#hndCurrentWeek').val(data.CurrentWeek);
+            		$('#hndNextWeek').val(data.NextWeek);          	
+					console.log("hndPreviousWeek:===" + data.PrevWeek);
+					console.log("hndCurrentWeek:===" + data.CurrentWeek);
+					console.log("hndNextWeek:===" + data.NextWeek);
+            	}
+            },
+            error: function(error) {
+                 console.log("Error:");
+                 console.log(error);
+            }
+        });
+	}
 
     var fnUpdateAddThisDaily = function(ShareTitle, Description, ShareURL) {
     	//if (window.addthis) {    	
@@ -1536,7 +1580,7 @@ jQuery(function(){
         {
             id = "dvDaily";
         }
-
+	
         language=getCookie('language');
         // Daily 1,10,2008,1,en $day, $month, $year,$sign,$language
         var url = "http://astrowow.com/bal/horoscope.php";
