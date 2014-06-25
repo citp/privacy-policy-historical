@@ -1,71 +1,126 @@
-> *The following text is extracted and transformed from the athome.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820173534id_/http%3A//www.athome.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athome.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110704id_/http%3A//www.athome.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy page
+# At Home - The Home of Endless Possibilities - Privacy Policy
 
-## Privacy Statement
+Updated January 16, 2014 
 
-At Home USA Inc. (At Home) is committed to your satisfaction. We take your privacy very seriously and strive to make the AtHome.com experience both enjoyable and trustworthy. This privacy policy may be updated from time to time and the date will be clearly denoted here. (October 30th, 2012) 
+#####  Garden Ridge. L.P. ("Us," "We" and "Our") owns and operates this website, www.athome.com (the "Website") and has created this Privacy Policy to inform you of Our information collection, use and sharing practices associated with the Website. 
 
-###  Explanation of Personal Information 
+In order to demonstrate Our commitment to your privacy, We want to notify you of: 
 
-At Home USA Inc. is not in the business of collecting your personal information. Personal information refers to information freely given on our site, such as name, phone number, address, email address, credit card information for purchases and unique identifier information (user name and password), if you choose to create an account with us. Please note that some "freely given" information is required to complete transactions on our site. Should you choose not to give this information, you may not be able to enjoy all functions of AtHome.com. 
-
-###  What Types of Information At Home Collects 
-
-  * Your domain name (where you are logging on from, i.e., AOL, etc.) 
-  * Your email address, when given for transaction or survey purposes, as part of your At Home Account registration, or if you correspond with us directly 
-  * Your personal information (as outlined above) 
-  * Transaction order information and history. You may also access this information if you are a registered At Home USA Inc. user and log on to your account. 
-
-
-
-###  Why We Collect This Information 
-
-  * We collect information about your domain name for statistical, internal reporting purposes only. This information is used to create ways to serve you better. 
-  * Email address, when provided, is maintained to keep in contact with you about issues, including but not limited to: order confirmation and status, credit card issues, shipping address verification, and, if you choose, sending you information on upcoming specials (sometimes online only) that you may be interested in. Beyond order/transaction-related emails, you will always have the opportunity to decline receiving email from us. Any special interest email you may receive will also include "opt out" instructions. If you choose to "opt out" we will promptly remove you from our promotional email address list. 
-  * Except as provided below, personal Information is kept strictly confidential and is not sold or distributed to outside parties. However, with your permission, given during checkout or at your request you may choose to be contacted by one of our Independent Sales Representatives, that will provide you with an even higher and more personalized level of customer service. You may also "opt out" or choose not to be contacted by a HomeStyle Specialist. If you believe you have been contacted by someone that might have procured (illegally) or claims he/she procured your information from us, please contact us immediately at [info@athome.com](mailto:info@athome.com). 
-  * Information on your athome.com experience, including but not limited to the length of each visit, how often you visit, which areas of our site you visit, and items that you purchase, is collected solely for the purpose of making your At Home USA Inc. experience the best it can be. This data helps us make better choices about the information we include on our site. 
-  * At Home USA Inc. reserves the right to use customer information for uses not previously disclosed in our privacy policy. However, before doing so, we will always update this policy to reflect such changes and provide you with the ability to "opt out". If you are concerned with how your information is used, please review this policy periodically. 
+  * What personally identifiable information of yours is collected through this Website
+  * Who is collecting the information
+  * How the information is used
+  * With whom the information may be shared
+  * What choices are available to you regarding collection, use and distribution of the information
+  * The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under Our control
+  * How you can correct any inaccuracies in the information We collect.
 
 
 
-###  Cookies - What They Are and How We Use Them 
+If you have questions or concerns regarding this Privacy Policy, you should contact us by [completing the Contact Form on the Website](https://web.archive.org/CustomerService). 
 
-Cookies are essential "invisible" data files that act as an electronic messenger between your computer and our web site. Cookies enable us to save personal information about you on your computer. The most basic cookie tracks what is in your shopping basket. They are also used for our convenient account option which saves you time, as you will not have to re-input your Personal Information each time you visit or shop with us. Cookies store your personal information for you. All Internet browsers have a notification option to let you know when an "invisible" cookie is being sent to you. Through your browser options you can choose not to accept the cookie. However, in not accepting the cookie, you may not be able to experience all functions of athome.com. 
+### Visiting www.athome.com
 
-###  Data Security 
+By using this Website and/or providing any information, you signify your consent to the collection, use and sharing practices described in this Privacy Policy. 
 
-At Home USA Inc. is committed to the privacy and integrity of our e-commerce transaction experience. We use industry-standard, encryption technologies when transferring and receiving customer data exchanged within our site. We have appropriate security measures in place in our physical facilities to protect against loss, misuse or alteration of information we have collected from you at our site. 
+### Types of Information Collected
 
-###  Third Parties Access to Personal Information 
+We collect certain personal and non-personal information that you provide to Us when using this Website. 
 
-In order to fulfill your orders, your shipping address information must be provided to our shipping providers and is only used to successfully deliver your order. At Home USA Inc. may also provide aggregate statistical information to our product vendors. This information does not include your personal information. We may enter into strategic marketing alliances or partnerships with third parties and vendors who may be given access to personal information, including your name, address, telephone number and email for the purpose of providing you information regarding products, press releases, advertising and services that we think will be of interest to you. In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to the Information, and we will not share information regarding your Social Security number or other personal financial data. If you feel your personal mailing information has been misused by one of our shipping providers or other partners, please email [info@athome.com](mailto:info@athome.com). 
+Personal information that you provide to Us, such as your full name, street address, e-mail address and telephone number, is collected, stored and used only for the purposes described in this Privacy Policy or as otherwise disclosed at the time We request such information from you. This personal information also may be used to contact you about sales, special offers and new site features, unless you have opted not to receive promotional communications in connection with this Website. 
 
-###  Notice of New Services and Changes 
+We also collect non-personal information about users of the Website. The non-personal information we collect on this Website is information that by itself cannot be used to identify or contact you, such as demographic information and other anonymous statistical data relating to the use of this Website. For example, we collect and store certain non-personal information automatically whenever you interact with this Website, including your IP address, browser information and reference site domain name. We also collect non-personal information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Website and to provide Our customers with a more fulfilling shopping experience. 
 
-Occasionally, we may also use the information we collect to notify you about important changes to our web site; new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by following the included "opt out" instructions when you receive such an offer or by sending us an email request at [info@athome.com](mailto:info@athome.com). 
+Your IP address, browser and reference site domain name are logged every time you visit Our Website. This data is used strictly for the analysis of load information and maximizing the efficiency of Our servers. Except as provided in this Privacy Policy, we will not share this data with anyone in any way. 
 
-###  At Home USA Inc. Account 
+Subject to the terms and conditions of this Privacy Policy, any communication or material you transmit or post to this Website by email or otherwise, including any data, questions, comments or suggestions (other than personally identifiable information which will be treated in accordance with this Privacy Policy), is and will be treated as non-confidential and non-proprietary and anything you transmit or post may be used by Us and Our affiliates for any purpose and in any form of media, including without limitation, reproduction, disclosure, transmission, publication, broadcast and posting. We are free to use any ideas, concepts, know-how, or techniques contained in any communication or material that you send to this Website for any purpose whatsoever including, but not limited to, designing, developing, manufacturing and marketing products using such information. Additionally, by accessing the Website, you permit Us to share your personal information in response to a court order, subpoena, government investigation, or as otherwise required by law. We may transfer your personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event. Additionally, We may share non-personal, non-individual statistical information with Our marketing partners, advertisers or other third parties for research or other related purposes. 
 
-For your convenience we offer the option to create an account at our site. In addition to enjoying many benefits exclusive to account holders, you will not need to re-enter your personal information each time you shop with us, as it will be stored for you and accessed with a user name and password of your choosing. Having your credit card information stored is completely optional. You can access and amend your personal information at any time on our site. You may also log on to see the status of your online orders and purchase history. If, at any time, you choose to cancel your At Home USA Inc. account, simply submit your request in writing to the address listed at the end of this privacy policy. 
+### A Special Note to Parents
 
-###  Scope of At Home USA Inc.'s Privacy Policy 
+We realize children under the age of eighteen (18) may visit the Website and encourage all children to consult with their parents prior to submitting any information to any website, including Ours. We encourage parents to supervise their children’s online activities and consider using parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing their name, address and other personal information online without parental permission. 
 
-For your convenience, At Home USA Inc. has made all of our content and e-commerce capabilities available on our Lifestyle Consultants' web sites as well, and this policy extends to all transactions conducted at those sites. 
+### Cookies, Web Beacons and Targeted Advertising 
 
-###  Children's Policy 
+Like many websites, We use "cookies," which are files stored on your computer's hard drive by your browser. These cookies help Us identify Our account holders and allow us to better optimize their shopping experience. Cookies do not include any data that will identify you personally. Most browsers accept cookies automatically, but allow you to disable them if you wish. 
 
-At Home USA Inc. encourages all parents/guardians to supervise their child's Internet activities. In this light, children under age 18 are not allowed to participate in athome.com online surveys or e-commerce activities of any kind. 
+Most browsers provide you with the option to set your browser to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you opt not to receive any cookies, certain personalized services cannot be provided to you and accordingly you may not be able to take full advantage of all of the features on Our Website. 
 
-###  Your Consent 
+We may use third-party advertising companies to provide Us with data collection and reporting services regarding Our guests' activities on Our Website, tracking and measuring performance of Our marketing efforts and your response to Our marketing efforts, and the delivery of relevant marketing messages. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness and may receive information about your browsing and buying activity on Our Website. Web beacons enable Us to recognize a browser's cookie when a browser visits Our Website and to learn which banner ads bring users to Our Website. In addition, We and Our third party service providers may use cookies to manage and track the performance of Our advertisements displayed on other websites across the Internet. 
 
-By using our web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. 
+Targeted advertising (also known as online behavioral advertising) uses information collected on an individual's web browsing behavior, such as the pages they have visited or the searches they have made. This information is then used to select which of Our advertisements should be displayed to a particular individual on websites other than this Website. The information collected is only linked to an anonymous cookie ID (alphanumeric number), and it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from Us or through third party website publishers. 
 
-###  Contact Us 
+### Security
 
-At Home USA Inc. takes extensive technical, operational and service precautions to ensure your privacy. However, due to external activities beyond our control, we cannot guarantee 100% privacy. We maintain an "open door" policy to all visitors to resolve any privacy issues should they arise as a result of visiting our site. If you feel we are not following our stated privacy policy, please contact us at: 
+We maintain physical, electronic and procedural safeguards to protect the confidentiality and security of personal information transmitted to Us using this Website. To help guard your information, our Website uses Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only We are able to decode your information. Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information. 
 
-At Home USA Inc.  
-5625 West 115th Street  
-Alsip, IL 60803  
-[info@athome.com](mailto:info@athome.com)
+To be sure your connection is secure, look at the bottom status bar of your browser window. If you see an unbroken key or a closed lock (depending on your browser) the SSL is active and your information is secure. Most browsers offer additional security alerts as well. If for some reason you are unable to connect to our secure server, please call us toll free at 832-391-7201. 
+
+We also ask customers to carefully review their accounts and immediately report any unexpected activity to Us and their issuing bank or credit card company. Additionally, We ask all our customers to take measures to help protect personal information in their online accounts, including the following: 
+
+  * Install the latest security updates and anti-virus software on your computer to help prevent malware and viruses
+  * Reset your e-mail account password
+  * Use complex passwords (a minimum of 7 alpha/numeric cAsE sEnsitive characters)
+  * Do not use the same password on more than one website
+  * Do not share your password with others
+  * Sign out/log off website sessions so that your session is closed and cannot be accessed by another user on the same computer, especially when using a public computer or terminal 
+
+
+
+### External Links/Framed Pages
+
+Our store locator functionality links to a third party website. Any data provided through this functionality is not governed by this Privacy Policy. The privacy policy of the applicable third party website governs the information collection and dissemination practices occurring on such website. 
+
+If you have accessed this Website through a link from one of Our advertising and marketing partners, Our Website may include a frame of the applicable advertising and marketing partner. The information you provide to Us through these framed web pages is collected by Us and its use is governed by this Privacy Policy. 
+
+### Receiving Promotions/Opt-Out
+
+From time to time, We will contact you about sales, special offers and new site features if you agreed to be included in Our email lists when you completed a purchase transaction with Us. To cancel Our free emails, click the "Unsubscribe" link at the bottom of any promotional email we send you. 
+
+### Customer Service
+
+In addition to being able to call Our customer service department at 832-391-7201, you may also email Us by completing the Contact Form on the Website. When you email Us, your emails are stored within Our system so that We may refer to previous emails from you as needed to properly address your questions and concerns. Except as provided in this Privacy Policy, the information you provide to Our customer service department is not shared with anyone without your consent. 
+
+### Entering Contests/Sweepstakes
+
+Whenever We run a contest or sweepstakes relating to Our Website, it will be accompanied with the rules of the contest/sweepstakes. We will also describe how the information gathered from your entry into the contest/sweepstakes will be used. Additionally, we will notify you if this information will be shared with anyone in addition to those persons and entities provided for in this Privacy Policy, such as a third party sponsoring or managing the contest/sweepstakes. 
+
+### Contacting Us
+
+You can use the Contact Us form on the Website to give Us any input which we may use to improve the Website. The only required data is your name and email address. Except as provided in this Privacy Policy, this data is not shared with anyone in any way. 
+
+### Our Third Party Relationships
+
+We have established several relationships with third parties vendors to best serve Our customers and to operate this Website. 
+
+  * Third Party Service Providers: We employ other companies and individuals to perform certain functions on Our behalf in connection with the operation of this Website. Examples include: 
+    * fulfilling orders
+    * delivering packages
+    * sending postal mail and e-mail
+    * removing repetitive information from customer lists
+    * analyzing data
+    * providing marketing assistance
+    * providing search results and links (including paid listings and links)
+    * processing credit card payments
+    * hosting and operating the Website and providing customer service
+These third parties have access to your information collected through this Website as needed to perform their functions, but may not use it for other purposes. 
+
+
+
+  * Website Evaluation, Marketing and Promotions: From time to time, We may engage other third parties to assist in providing 
+    * Website evaluation services
+    * marketing
+    * order processing
+    * fulfillment and shipping services
+    * customer service
+In addition, We may engage third parties to provide services such as fraud protection and credit risk reduction, product customization, data analysis and data cleansing. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services. 
+
+
+
+### Changes to Privacy Policy
+
+If We are going to use your personally identifiable information in a manner different from that stated at the time of collection, We will notify you via email. You will have a choice as to whether or not We use your information in this different manner. In addition, if We make any material changes in Our privacy practices that do not affect user information already stored in Our database, We will post a prominent notice on the Website notifying users of the change. In some cases where We post the notice, We will also email users who have opted to receive communications from Us, notifying them of the changes in Our privacy practices. 
+
+### Questions about Our Policies
+
+If you have any questions regarding your privacy or any of Our policies, please contact us via the Contact Us form on the Website, or call Us at 832-391-7201 
