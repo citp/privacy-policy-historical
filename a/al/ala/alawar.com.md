@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the alawar.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819132801id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alawar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221904id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Alawar Online Privacy Policy
 
 ## A. INTRODUCTION
 
-This privacy statement was last updated on [14th September 2005]. Alawar Entertainment, Inc., a Virginia corporation, and its affiliates (collectively, "Alawar") has created this privacy statement in order to disclose our information gathering and dissemination practices for this internet Website, [www.alawar.com](http://www.alawar.com/) and [www.alawargroup.com](http://www.alawargroup.com/) (collectively, "Website"). While Alawar's Website's is deemed to be a U.S. website, Alawar abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon reading this privacy statement, you will know:
+This privacy statement was last updated on 1st February 2013. Alawar Entertainment, Inc., a Virginia corporation, and its affiliates (collectively, "Alawar") has created this privacy statement in order to disclose our information gathering and dissemination practices for this internet Website, [www.alawar.com](http://www.alawar.com/) and [www.alawargroup.com](http://www.alawargroup.com/) (collectively, "Website"). While Alawar's Website's is deemed to be a U.S. website, Alawar abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon reading this privacy statement, you will know:
 
-  1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the Website.
+  1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the Website. 
   2. The organization collecting the information.
   3. How the information is used.
   4. With whom the information may be shared.
-  5. What choices are available to you regarding collection, use and distribution of the information.
-  6. Information relating to the use of this Website by children, and how parents can access their children's information.
-  7. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Alawar's control.
+  5. What choices are available to you regarding collection, use and distribution of the information. 
+  6. Information relating to the use of this Website by children, and how parents can access their children's information. 
+  7. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Alawar's control. 
   8. How you can access and correct any inaccuracies in the information collected about you.
 
 
 
-Questions regarding this statement should be directed to the Alawar site coordinator by emailing [privacy@alawar.com] or writing to us at the following address:
+Questions regarding this statement should be directed to the Alawar site coordinator by emailing privacy@alawar.com or writing to us at the following address:
 
-[Alawar Entertainment, Inc 901 N. Pitt Street Suite 325 Alexandria, VA 22314]
+Alawar Entertainment, Inc 901 N. Pitt Street Suite 325 Alexandria, VA 22314
 
 To return to the Alawar home page, please use the "Back" button on your browser.
 
-If you have any concerns or feel that there are certain issues relating to compliance with the policies outlined in this privacy statement, please submit a report at [privacy@alawar.com].
+If you have any concerns or feel that there are certain issues relating to compliance with the policies outlined in this privacy statement, please submit a report at privacy@alawar.com.
 
 **Word from the Company**
 
@@ -31,7 +31,7 @@ Alawar has a strong commitment to providing superior service to all of our custo
 
 This Privacy Policy contains numerous general and technical details about the steps we take to respect your privacy concerns. We have organized this Privacy Policy by major processes and areas so that you can quickly link to the information of most interest to you. The bottom line is that meeting your needs and expectations form the foundation of everything we do - including protecting your privacy.
 
-Personal information on this Website is collected by Alawar and if after reviewing this Privacy Policy you have any questions or privacy concerns please send an e-mail to [privacy@alawar.com].
+Personal information on this Website is collected by Alawar and if after reviewing this Privacy Policy you have any questions or privacy concerns please send an e-mail to privacy@alawar.com.
 
 **Changes in Privacy Policy**
 
@@ -69,7 +69,7 @@ When you place an order for software or services online, you may be re-directed 
 
 Credit Card information is not retained as part of the registration process. This information is processed during the purchase process and is then immediately destroyed. You are provided an opportunity on the Alawar Website to subscribe to a periodic newsletter. This newsletter is a marketing tool that allows Alawar to inform you of new Products and Services, as well as other news relevant to the company. The subscription service requires you to provide your first and last name as well as your email address. Optionally, you are asked to provide the name of the company you represent. You are given the opportunity to choose the type of information we provide to you.
 
-[ ** _While the subscription list is maintained by a trusted third party affiliate, the list remains the sole exclusive property of Alawar. Your name and email address is not shared with any third party and will not be used to send you unsolicited communications. A link is provided to allow you to change your subscription preferences, including cancellation of your subscription._** ]
+**_While the subscription list is maintained by a trusted third party affiliate, the list remains the sole exclusive property of Alawar. Your name and email address is not shared with any third party and will not be used to send you unsolicited communications. A link is provided to allow you to change your subscription preferences, including cancellation of your subscription._**
 
 When you submit personal information to Alawar through this Website, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which Alawar and its affiliates and subsidiaries maintain offices. You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors of Alawar. Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties.
 
@@ -81,7 +81,7 @@ From time to time, companies or individuals who develop software may access this
 
 **Accessing and Updating Your Personal Preferences**
 
-You may access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications from Alawar or third parties) by writing Alawar at [privacy@alawar.com].
+You may access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications from Alawar or third parties) by writing Alawar at privacy@alawar.com.
 
 **Information Relating to Children**
 
@@ -134,8 +134,8 @@ To ensure that your request is honored, you must provide Alawar with information
 Our Website uses "cookie" technology. "Cookies" are short pieces of data generated by a web server that a website stores on a user's computer. Certain pages on our Website may require the use of a cookie for purposes of keeping information you enter on multiple pages together. Cookies also enable us to customize our Website and offerings to your needs and provide you with a better online experience with us. In addition, cookies are used to:
 
   * allow registered users to sign in without typing their sign in name each time;
-  * measure usage of various pages on our Website to help us make our information; more pertinent to your needs and easy for you to access; and
-  * provide functionality such as online orders, Alawar's services and other functionality that we believe would be of interest and value to you.
+  * measure usage of various pages on our Website to help us make our information; more pertinent to your needs and easy for you to access; and 
+  * provide functionality such as online orders, Alawar's services and other functionality that we believe would be of interest and value to you. 
 
 
 
@@ -147,7 +147,7 @@ You may set your browser to block cookies (consult the instructions for your par
 
 ## D. PRIVACY-RELATED INQUIRIES AND COMPLAINTS
 
-Alawar takes and addresses its users' privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Online Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact Alawar at [law@alawar.com] or [Alawar Entertainment, Inc 901 N. Pitt Street Suite 325 Alexandria, VA 22314].
+Alawar takes and addresses its users' privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Online Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact Alawar at Legal@Alawar.com or Alawar Entertainment, Inc 901 N. Pitt Street Suite 325 Alexandria, VA 22314.
 
 In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Alawar Online Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly.
 
