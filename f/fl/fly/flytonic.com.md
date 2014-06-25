@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flytonic.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121023006id_/http%3A//www.flytonic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flytonic.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232107id_/http%3A//www.flytonic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Flytonic.com
+# Privacy Policy | Flytonic
 
 Flytonic.com takes the issue of privacy and security seriously. We assure you that all information collected by us is confidential and will not be shared or sold without consent. Personal information such as email addresses, names, and contact information are needed so we can communicate with you and provide you with the services you have requested.
 
