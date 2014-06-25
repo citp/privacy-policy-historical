@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hostek.com privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723190600id_/http%3A//hostek.com/web-hosting-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostek.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080132id_/http%3A//hostek.com/web-hosting-privacy.asp) for the most accurate reproduction.*
 
-# Windows Hosting | ColdFusion Hosting - web hosting privacy - hostek.com
+# Windows Hosting | ColdFusion Hosting - Web Hosting Privacy
 
 ## Information Collection and Use
 
-**hostek.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information** to others in ways different from what is disclosed in this statement. hostek.com may collect information from our users at several different points on our website. 
+**Hostek is the sole owner of the information collected on this site. We will not sell, share, or rent this information** to others in ways different from what is disclosed in this statement. Hostek may collect information from our users at several different points on our website. 
 
 ## Order
 
@@ -12,7 +12,7 @@ We request information from the user on our order form(s). Here a user must prov
 
 ## Cookies
 
-hostek.com in general does not implement the use of cookies. In our user Control Panel, you have the option to set a cookie so you don't have to continue to log in. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. 
+Hostek in general does not implement the use of cookies. In our user Control Panel, you have the option to set a cookie so you don't have to continue to log in. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. 
 
 ## Log Files
 
@@ -20,11 +20,11 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 
 ## Sharing
 
-**hostek.com does NOT share any information with any other company** except as noted here. We use a credit card processing company (just like every business that accepts credit cards has to) to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+**Hostek does NOT share any information with any other company** except as noted here. We use a credit card processing company (just like every business that accepts credit cards has to) to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
 
 ## Links
 
-This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. Other [sites](https://web.archive.org/web/20130723190600id_/http%3A//hostek.com/links.asp) owned operated by Advanced Online Solutions. 
+This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. Other [sites](https://web.archive.org/web/20140625080132id_/http%3A//hostek.com/links.asp) owned operated by Advanced Online Solutions. 
 
 ## Newsletter
 
@@ -48,7 +48,7 @@ We send all new accounts an email providing new account information. Established
 
 ## Correcting/Updating Personal Information:
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the user's Control Panel page or by submitting a [support ticket](http://support.hostek.com/). 
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the user's Control Panel page or by submitting a [support ticket](https://support.hostek.com/). 
 
 ## Notification of Changes
 
