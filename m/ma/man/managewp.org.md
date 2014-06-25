@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the managewp.org privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210043823id_/http%3A//managewp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managewp.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113048id_/http%3A//managewp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - ManageWP.org
 
-New to ManageWP.org? [Sign up](http://managewp.org/login/twitter) and check the [help page](http://managewp.org/help "ManageWP.org Help") to learn how to get best out of the website. [x]()
+[ManageWP.org](http://managewp.org/) is a community driven WordPress news portal. [Sign up](http://managewp.org/login/twitter) and check the [help page](http://managewp.org/help "ManageWP.org Help") to learn how to get best out of the website. [x]()
 
 ## Our Commitment To Privacy  
 
