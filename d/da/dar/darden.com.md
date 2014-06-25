@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darden.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831230405id_/http%3A//www.darden.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darden.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120931id_/http%3A//www.darden.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Notice - Darden Restaurants
 
@@ -9,7 +9,7 @@
   
 Text Size 
 
-|  Effective Date: December 19, 2012   
+|  Effective Date: April 25, 2014   
 ---  
   
 We at Darden Corporation, along with our affiliates (collectively, "Darden"), respect your concerns about privacy. This Privacy Notice applies to personal information we collect on the Darden websites on which we have posted this Privacy Notice (collectively, the "Sites"). 
@@ -20,18 +20,18 @@ This Privacy Notice describes the types of personal information we collect on th
 
 We may obtain certain personal information (such as name and other contact details) through our Sites. The types of personal information we may collect include: 
 
-  * Contact information, such as your name, postal address, e-mail address, and telephone number
-  * Names, postal addresses, e-mail addresses and telephone numbers of others to whom you ask us to send information
-  * Username and password to access Darden products and services online
-  * Payment information (such as payment card details, financial account information and billing address)
-  * Birth date
-  * Online order history
-  * Information about your education, work and military history, legal work eligibility status, and other information relevant to specific jobs for which you may apply
-  * Other personal information you may provide to us
+  * Contact information, such as your name, postal address, e-mail address, and telephone number;
+  * Names, postal addresses, e-mail addresses and telephone numbers of others to whom you ask us to send information;
+  * Username and password to access Darden products and services online;
+  * Payment information (such as payment card details, financial account information and billing address);
+  * Birth date;
+  * Online order history;
+  * Information about your education, work and military history, legal work eligibility status, and other information relevant to specific jobs for which you may apply; and
+  * Other personal information you may provide to us.
 
 
 
-In addition, when you visit our Sites, we may collect certain information by automated means, such as cookies and web beacons. The information we collect in this manner includes IP address, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our site, and dates and times of website visits. A "cookie" is a text file that websites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain "clickstream data," which is a log of content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. We may link certain data elements we have collected through automated means, such as your browser information, with other information we have obtained about you to let us know, for example, whether you have opened an e-mail we sent to you. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Sites. 
+In addition, when you visit our Sites, we may collect certain information by automated means, such as cookies and web beacons. The information we collect in this manner includes IP address, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our site, and dates and times of website visits. A "cookie" is a text file that websites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain "clickstream data," which is a log of content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. We may link certain data elements we have collected through automated means, such as your browser information, with other information we have obtained about you to let us know, for example, whether you have opened an e-mail we sent to you. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Sites. See also our "Do Not Track Policy" below. 
 
 If you use Site features operated by third-party social networking services (such as Facebook), we may receive information you have made available to those services, including the geographic location of your mobile device and other information about you (such as name, email address, gender, locale, time zone, languages, social media profile URL, personal website URL, biographical information, birthday, photo, list of devices, education history, work history, hometown, interests, current city, political views, favorite athlete and teams, relationship status and information, religion, name of significant other, and certain security settings information) and your contacts on those services. Some of these social networking services allow you to push content from our Sites to your contacts or to pull information about your contacts so you can connect with them on our Sites. Some of these services also will facilitate your registration for our Sites or enhance or personalize your experience on our Sites. You should make sure you understand the information your third-party social networking services may make available to our Sites. We may use and disclose the personal information we receive on our Sites through third-party social networking services as described in this Privacy Notice. 
 
@@ -41,24 +41,24 @@ Back to Top
 
 We may use the information we obtain through the Sites to: 
 
-  * Create and manage your account
-  * Offer and provide products and services to you
-  * Process and collect payments for gift cards
-  * Communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions
-  * Send information to others if you ask us to do so
-  * Respond to and communicate with you about your requests, questions and comments
-  * Manage your application for employment with Darden and contact you in connection with potential employment opportunities
-  * Process claims we receive in connection with our products and services
-  * Operate, evaluate and improve our business (including developing new products and services; managing our communications; determining the effectiveness of our sales, marketing and advertising; analyzing and enhancing our products, services and Sites; and performing accounting, auditing, billing, reconciliation and collection activities)
-  * Perform data analyses and other processing (including market and consumer research, trend analysis, financial analysis, anonymization, encryption and tokenization of personal information)
-  * Protect against, identify and prevent fraud and other criminal activity, claims and other liabilities
+  * Create and manage your account;
+  * Offer and provide products and services to you;
+  * Process and collect payments for gift cards;
+  * Communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions;
+  * Send information to others if you ask us to do so;
+  * Respond to and communicate with you about your requests, questions and comments;
+  * Manage your application for employment with Darden and contact you in connection with potential employment opportunities;
+  * Process claims we receive in connection with our products and services;
+  * Operate, evaluate and improve our business (including developing new products and services; managing our communications; determining the effectiveness of our sales, marketing and advertising; analyzing and enhancing our products, services and Sites; and performing accounting, auditing, billing, reconciliation and collection activities);
+  * Perform data analyses and other processing (including market and consumer research, trend analysis, financial analysis, anonymization, encryption and tokenization of personal information);
+  * Protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and
   * Comply with and enforce applicable legal requirements, relevant industry standards and our policies.
 
 
 
-In addition, we use information collected online through cookies, local shared objects (also known as “Flash cookies”), web beacons and other automated means for purposes such as (i) customizing our users’ visits to our Sites, (ii) delivering content (including advertising) tailored to our users’ interests and the manner in which our users browse our Sites, and (iii) managing our business. We may supplement data we collect through automated means with information about your location (such as your zip code) to provide you with content that may be of interest to you. We also use this information to help diagnose technical and service problems, administer our Sites, identify users of our Sites, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our Sites, how users navigate through our Sites, and how we may tailor our Sites to better meet the needs of our users. To identify local shared objects on your computer and adjust your settings, visit [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). 
+In addition, we use information collected online through cookies, local shared objects (also known as “Flash cookies”), web beacons and other automated means for purposes such as: (i) customizing our users’ visits to our Sites, (ii) delivering content (including advertising) tailored to our users’ interests and the manner in which our users browse our Sites, and (iii) managing our business. We may supplement data we collect through automated means with information about your location (such as your zip code) to provide you with content that may be of interest to you. We also use this information to help diagnose technical and service problems, administer our Sites, identify users of our Sites, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our Sites, how users navigate through our Sites, and how we may tailor our Sites to better meet the needs of our users. To identify local shared objects on your computer and adjust your settings, please visit: [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). 
 
-We may use third-party web analytics services on our Sites, such as those of Google Analytics. The analytics providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the Sites. The information collected through these means (including IP address) is disclosed to these analytics providers, who use the information to evaluate use of the Sites. To learn more about Google Analytics and how to opt out, please visit [ www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html). We may combine information we collect from you with information we receive from third parties and use it for the purposes described in this Privacy Notice. We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection. 
+We may use third-party web analytics services on our Sites, such as those of Google Analytics. The analytics providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the Sites. The information collected through these means (including IP address) is disclosed to these analytics providers, who use the information to evaluate use of the Sites. To learn more about Google Analytics and how to opt out, please visit: [ www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html). We may combine information we collect from you with information we receive from third parties and use it for the purposes described in this Privacy Notice. We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection. 
 
 Back to Top
 
@@ -66,7 +66,7 @@ Back to Top
 
 On the Sites, we may collect information about your online activities for use in providing you with advertising about products and services tailored to your individual interests. This section of our Privacy Notice provides details and explains how to exercise your choices. 
 
-You may see certain ads on other websites based on your visits to our Sites because we participate in advertising networks administered by third-party vendors. Ad networks allow us to target our messaging to users through demographic, interest-based and contextual means. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs and web beacons. The networks use this information to show you advertisements that are tailored to your individual interests. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors' advertising networks, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on these Sites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn more about how to opt out of ad network interest-based advertising, [click here](http://www.aboutads.info/choices/). 
+You may see certain ads on other websites based on your visits to our Sites because we participate in advertising networks administered by third-party vendors. Ad networks allow us to target our messaging to users through demographic, interest-based and contextual means. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs and web beacons. The networks use this information to show you advertisements that are tailored to your individual interests. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors' advertising networks, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on these Sites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn more about how to opt out of ad network interest-based advertising, please visit: <http://www.aboutads.info/choices/>. 
 
 Back to Top
 
@@ -80,12 +80,27 @@ Back to Top
 
 ####  Your Options
 
-We offer you certain choices about how we communicate with you and what information we collect from you. To update your preferences, ask us to remove your information from our newsletter e-mail lists or submit a request, please contact us as specified in the How To Contact Us section of this Privacy Notice.  
+We offer you certain choices about how we communicate with you and what information we collect from you. To update your preferences, ask us to remove your information from our newsletter e-mail lists or submit a request, please contact us as specified in the "How To Contact Us" section of this Privacy Notice.  
+Back to Top
+
+####  Notice to Canadian Residents
+
+We collect, use and disclose your personal information with your consent, which may be express or implied. **You may withdraw your consent to the use and disclosure of your personal information by us or by third parties for marketing purposes at any time by contacting us as specified below under "How to Contact Us."** If you would like to access, update or ask us to delete your preferences or the personal information that we have collected about you, please contact us, and we will respond to your request within 30 days.  
+Back to Top
+
+####  Cross-Border Transfer
+
+Your personal information may be processed, used, stored, or accessed in the United States or other countries where we have operations, and may be subject to the laws of those countries including requirements to disclose information to government authorities, courts or law enforcement agencies.  
 Back to Top
 
 ####  Notice to California Residents
 
-Subject to certain limits under California Civil Code § 1798.83, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, California residents may contact us as specified in the How to Contact Us section below.  
+Subject to certain limits under California Civil Code § 1798.83, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, California residents may contact us as specified in the "How to Contact Us" section below.  
+Back to Top
+
+####  Do Not Track Policy
+
+Our website is not designed to respond to "do not track" signals received from browsers.  
 Back to Top
 
 ####  Links To Other Websites
@@ -110,11 +125,13 @@ Back to Top
 
 ####  How To Contact Us
 
-If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by e-mail at [ComplianceEthics@darden.com](mailto:ComplianceEthics@darden.com) or by phone at 407-245-5397, ext. 7. You also may write to us at:
+If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by e-mail at [privacy@darden.com](mailto:privacy@darden.com) or by phone at 407-245-5397, ext. 7. You also may write to us at:
 
 Darden Restaurants, Inc.  
-Attention: Compliance and Ethics Office 1000 Darden Center  
-Drive  
+Attention: Privacy Department  
+c/o Compliance and Ethics Office  
+1000 Darden Center Drive  
 Orlando, FL 32837 
 
+Please note that on occasion, third parties unaffiliated with us may conduct marketing campaigns where they offer gift cards to our restaurants, which they have purchased separately, as inducements to enroll in their programs, complete surveys or take other actions. In such cases, requests directed to us to opt out of further communications will not be effective, as we have no control over the activities of such third parties.   
 Back to Top
