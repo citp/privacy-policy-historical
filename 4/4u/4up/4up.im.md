@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the 4up.im privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611005435id_/http%3A//4upfiles.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4up.im privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130310id_/http%3A//4upfiles.com/privacy_policy.html) for the most accurate reproduction.*
 
-# 4upfiles | Cloud Storage Service
+# 4 Upload Files | Cloud Storage Service
 
-### 4up.me Website Privacy Policy
+### 4upfiles.com Website Privacy Policy
 
-Thank you for visiting the 4up.me website located at www.4up.me (the "Site"). The Site is an Internet property of 4up.me Ltd. and its affiliated companies ("4up.me," "we" or "us"). This 4up.me Website Privacy Policy ("Privacy Policy") covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site; (b) become a Member (as defined in the 4up.me Website Terms and Conditions ("Terms and Conditions")); and/or (c) use the Services (as defined in the Terms and Conditions). It is important that visitors are fully informed about the use of their Personal Information. We believe in 100% permission-based marketing.
+Thank you for visiting the 4upfiles.com website located at www.4upfiles.com (the "Site"). The Site is an Internet property of 4upfiles.com Ltd. and its affiliated companies ("4upfiles.com," "we" or "us"). This 4upfiles.com Website Privacy Policy ("Privacy Policy") covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site; (b) become a Member (as defined in the 4upfiles.com Website Terms and Conditions ("Terms and Conditions")); and/or (c) use the Services (as defined in the Terms and Conditions). It is important that visitors are fully informed about the use of their Personal Information. We believe in 100% permission-based marketing.
 
-**If you are a resident of the State of California and would like to opt-out from the disclosure of your Personal Information to any third party for marketing purposes, please e-mail us at: Info@4up.me. Please be advised that where California State residents opt-out from permitting their Personal Information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law.**
+**If you are a resident of the State of California and would like to opt-out from the disclosure of your Personal Information to any third party for marketing purposes, please e-mail us at: Info@4upfiles.com. Please be advised that where California State residents opt-out from permitting their Personal Information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law.**
 
-When you register on our Site, you hereby agree and acknowledge that your Personal Information will be placed into the 4up.me database and that such Personal Information shall be shared with third parties for marketing purposes.
+When you register on our Site, you hereby agree and acknowledge that your Personal Information will be placed into the 4upfiles.com database and that such Personal Information shall be shared with third parties for marketing purposes.
 
 #### Personal Information that We Collect from You
 
 By registering with, or providing Personal Information on, the Site, users allow us and our affiliates to make their Personal Information available to third parties in accordance with the terms of this Privacy Policy, and to otherwise provide marketing offers to such users. While on the Site, submitting an application to become a Member or utilizing the Services, we may collect "Personal Information" from you. For the purposes of this Privacy Policy, Personal Information shall mean individually identifiable information from or about an individual including, but not limited to, the individual's: (a) e-mail address; (b) Facebook® account ID; (c) credit card information or PayPal® information (depending on your preferred means of payment); and/or (d) any other information requested on the applicable registration form. For purposes of this Privacy Policy, items (b) and (c) in the preceding sentence shall be referred to as "Sensitive Information."
 
-**For purposes of this Privacy Policy, Facebook shall mean Facebook Inc. Please be advised that 4up.me is not in any way affiliated with Facebook, and the Site and Services are neither endorsed, nor sponsored, by Facebook. Facebook® is a registered trademark of Facebook Inc.**
+**For purposes of this Privacy Policy, Facebook shall mean Facebook Inc. Please be advised that 4upfiles.com is not in any way affiliated with Facebook, and the Site and Services are neither endorsed, nor sponsored, by Facebook. Facebook® is a registered trademark of Facebook Inc.**
 
-**For purposes of Privacy Policy, "PayPal" shall mean PayPal, Inc. Please be advised that 4up.me is not in any way affiliated with PayPal, and the Site and Services are neither endorsed, nor sponsored, by PayPal. PayPal ® is a registered trademark of PayPal, Inc.**
+**For purposes of Privacy Policy, "PayPal" shall mean PayPal, Inc. Please be advised that 4upfiles.com is not in any way affiliated with PayPal, and the Site and Services are neither endorsed, nor sponsored, by PayPal. PayPal ® is a registered trademark of PayPal, Inc.**
 
 #### How We Use Personal Information
 
@@ -72,7 +72,7 @@ At your request, we will remove Personal Information that you have provided to u
 
 We provide users with the option to opt-out from receiving information sent via electronic mailings on behalf of third party advertisers. Users may unsubscribe from receiving e-mail at any time by following the instructions contained at the end of every e-mailing. Unsubscribe requests can only be processed if you have registered with us in the first instance. If you have not registered with us and wish to opt out of receiving e-mail from a particular sender, please review that sender's opt out policy or contact that sender.
 
-Information sent via e-mail is prepared several days in advance, so users may continue to receive e-mail from us for up to ten (10) days following the unsubscribe procedures detailed above. If, after that point, a user is still receiving e-mail from us, the user should contact us at Info@4up.me.
+Information sent via e-mail is prepared several days in advance, so users may continue to receive e-mail from us for up to ten (10) days following the unsubscribe procedures detailed above. If, after that point, a user is still receiving e-mail from us, the user should contact us at Info@j4upfiles.com.
 
 #### Your Acceptance of these Terms
 
