@@ -1,10 +1,144 @@
-> *The following text is extracted and transformed from the recipelink.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531021213id_/http%3A//www.recipelink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipelink.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073456id_/http%3A//www.recipelink.com/privacy.html) for the most accurate reproduction.*
 
 # Recipelink.com Privacy Policy
 
 [](https://web.archive.org/index.html)
 
 Join Recipelink.com for Free!
+
+[ ](http://www.pinterest.com/recipelink/)
+
+Recipe Categories
+
+  * [**Appetizers and Snacks**](https://web.archive.org/board/category/1/0)
+  * [All](https://web.archive.org/board/category/1/0)
+
+
+  * [**Beverages**](https://web.archive.org/board/category/2/0)
+  * [All](https://web.archive.org/board/category/2/0)
+
+
+  * [**Breads**](https://web.archive.org/board/category/6/0)
+  * [All](https://web.archive.org/board/category/6/0)
+  * [Assorted](https://web.archive.org/board/category/6/1)
+  * [Breakfast Breads](https://web.archive.org/board/category/6/2)
+  * [Muffins, Quick Breads](https://web.archive.org/board/category/6/3)
+  * [Yeast Breads](https://web.archive.org/board/category/6/4)
+  * [Sourdough, Friendship](https://web.archive.org/board/category/6/5)
+  * [Bread Machine](https://web.archive.org/board/category/6/6)
+  * [Stuffed Breads](https://web.archive.org/board/category/6/7)
+
+
+  * [**Breakfast and Brunch**](https://web.archive.org/board/category/5/0)
+  * [All](https://web.archive.org/board/category/5/0)
+
+
+  * [**Desserts**](https://web.archive.org/board/category/10/0)
+  * [All](https://web.archive.org/board/category/10/0)
+  * [Assorted](https://web.archive.org/board/category/10/1)
+  * [Fillings, Frostings](https://web.archive.org/board/category/10/2)
+  * [Candy, Chocolate](https://web.archive.org/board/category/10/3)
+  * [Cookies, Brownies, Bars](https://web.archive.org/board/category/10/4)
+  * [Fruit Desserts](https://web.archive.org/board/category/10/5)
+  * [Pies and Tarts](https://web.archive.org/board/category/10/6)
+  * [Puddings, Gelatin](https://web.archive.org/board/category/10/7)
+  * [Cheesecakes](https://web.archive.org/board/category/10/8)
+  * [Cakes](https://web.archive.org/board/category/10/9)
+  * [Frozen Desserts](https://web.archive.org/board/category/10/10)
+  * [Pastries](https://web.archive.org/board/category/10/11)
+
+
+  * [**Herbs and Spices**](https://web.archive.org/board/category/19/0)
+  * [All](https://web.archive.org/board/category/19/0)
+
+
+  * [**Holidays, Celebrations**](https://web.archive.org/board/category/15/0)
+  * [All](https://web.archive.org/board/category/15/0)
+
+
+  * [**Main Dishes**](https://web.archive.org/board/category/8/0)
+  * [All](https://web.archive.org/board/category/8/0)
+  * [Assorted](https://web.archive.org/board/category/8/1)
+  * [Casseroles](https://web.archive.org/board/category/8/2)
+  * [Chicken, Poultry](https://web.archive.org/board/category/8/3)
+  * [Chilis, Stews](https://web.archive.org/board/category/8/4)
+  * [Fish, Shellfish](https://web.archive.org/board/category/8/5)
+  * [Beef and Other Meats](https://web.archive.org/board/category/8/6)
+  * [Meatless](https://web.archive.org/board/category/8/7)
+  * [Pasta, Sauces](https://web.archive.org/board/category/8/8)
+  * [Rice, Grains, Pasta](https://web.archive.org/board/category/8/9)
+  * [Pork, Ham](https://web.archive.org/board/category/8/10)
+
+
+  * [**Menus**](https://web.archive.org/board/category/21/0)
+  * [All](https://web.archive.org/board/category/21/0)
+
+
+  * [**Mixes and Food Gifts**](https://web.archive.org/board/category/13/0)
+  * [All](https://web.archive.org/board/category/13/0)
+
+
+  * [**Pizza/Focaccia**](https://web.archive.org/board/category/20/0)
+  * [All](https://web.archive.org/board/category/20/0)
+
+
+  * [**Preserving**](https://web.archive.org/board/category/12/0)
+  * [All](https://web.archive.org/board/category/12/0)
+  * [Jams, Jellies](https://web.archive.org/board/category/12/1)
+  * [Pickles, Relishes](https://web.archive.org/board/category/12/2)
+  * [Fruit](https://web.archive.org/board/category/12/3)
+  * [Dried Foods](https://web.archive.org/board/category/12/4)
+  * [Other](https://web.archive.org/board/category/12/5)
+
+
+  * [**Recipe Collections**](https://web.archive.org/board/category/18/0)
+  * [All](https://web.archive.org/board/category/18/0)
+
+
+  * [**Salads**](https://web.archive.org/board/category/3/0)
+  * [All](https://web.archive.org/board/category/3/0)
+  * [Assorted](https://web.archive.org/board/category/3/1)
+  * [Fruit, Gelatin](https://web.archive.org/board/category/3/2)
+  * [Vegetables](https://web.archive.org/board/category/3/3)
+  * [Main Dish](https://web.archive.org/board/category/3/4)
+  * [Potato, Pasta](https://web.archive.org/board/category/3/5)
+  * [Rice, Grains](https://web.archive.org/board/category/3/6)
+  * [Salad Dressings](https://web.archive.org/board/category/3/7)
+
+
+  * [**Sandwiches**](https://web.archive.org/board/category/4/0)
+  * [All](https://web.archive.org/board/category/4/0)
+
+
+  * [**Side Dishes**](https://web.archive.org/board/category/9/0)
+  * [All](https://web.archive.org/board/category/9/0)
+  * [Assorted](https://web.archive.org/board/category/9/1)
+  * [Potatoes](https://web.archive.org/board/category/9/2)
+  * [Stuffings, Dressings](https://web.archive.org/board/category/9/3)
+  * [Vegetables](https://web.archive.org/board/category/9/4)
+  * [Rice, Grains](https://web.archive.org/board/category/9/5)
+  * [Beans](https://web.archive.org/board/category/9/6)
+
+
+  * [**Soups**](https://web.archive.org/board/category/7/0)
+  * [All](https://web.archive.org/board/category/7/0)
+
+
+  * [**Tips and Tricks**](https://web.archive.org/board/category/22/0)
+  * [All](https://web.archive.org/board/category/22/0)
+  * [Cooking](https://web.archive.org/board/category/22/1)
+  * [Home and Garden](https://web.archive.org/board/category/22/2)
+
+
+  * [**Toppings**](https://web.archive.org/board/category/11/0)
+  * [All](https://web.archive.org/board/category/11/0)
+  * [Rubs and Marinades](https://web.archive.org/board/category/11/1)
+  * [Sauces and Gravies](https://web.archive.org/board/category/11/2)
+  * [Glazes](https://web.archive.org/board/category/11/3)
+  * [Assorted](https://web.archive.org/board/category/11/4)
+  * [Salsas](https://web.archive.org/board/category/11/5)
+
+
 
 Recipelink.com Privacy Policy
 
@@ -20,26 +154,46 @@ We caution you not to disclose e-mail addresses or personal information about yo
 
 Latest Recipes Posted
 
-  * [Spinach Crepes with Hollandaise Sauce (ReaLemon, 1980's, with photo)](https://web.archive.org/msgbrd/board_1/2013/MAY/10955.html)
-  * [ReaLemon Eggs Benedict (1980's, with photo)](https://web.archive.org/msgbrd/board_1/2013/MAY/10954.html)
-  * [ReaLemon Hollandaise Sauce - Step-by-Step Photos (1980's)](https://web.archive.org/msgbrd/board_1/2013/MAY/10953.html)
-  * [ReaLemon Lemonade Chart (1 cup to gallons), Sparkling Lemonade, Slushy Lemonade (1980's, with photo)](https://web.archive.org/msgbrd/board_1/2013/MAY/10952.html)
-  * [TGI Friday's Black Bean Dip](https://web.archive.org/msgbrd/board_14/2013/MAY/38032.html)
-  * [1980's Lemon Chiffon Pie (RealLemon, with photo)](https://web.archive.org/msgbrd/board_1/2013/MAY/10951.html)
-  * [Lemon Ice Cubes and Tea Ice Cubes (RealLemon, 1980's, with photo)](https://web.archive.org/msgbrd/board_1/2013/MAY/10950.html)
-  * [Red Apple Ham Glaze (using Red Hots, RealLemon, 1980's, with photo)](https://web.archive.org/msgbrd/board_1/2013/MAY/10949.html)
-  * [Lemon Drop Cookies with Lemon Icing (using sour cream, RealLemon, 1980's, with photo)](https://web.archive.org/msgbrd/board_1/2013/MAY/10948.html)
-  * [Versatile Lemon Pudding (for tarts and toppings, RealLemon, 1980's, with photo)](https://web.archive.org/msgbrd/board_1/2013/MAY/10947.html)
-  * [Rainbow Party Punch (using Jello, sherbet, RealLemon, 1980's with photo)](https://web.archive.org/msgbrd/board_1/2013/MAY/10946.html)
-  * [Marinated Vegetables (appetizer, ReaLemon, 1980's, with photo)](https://web.archive.org/msgbrd/board_1/2013/MAY/10945.html)
-  * [Carrabba's Mama Mandola’s Sicilian Chicken Soup, two versions](https://web.archive.org/msgbrd/board_14/2013/MAY/38029.html)
-  * [Olive Garden's Chicken Scampi (repost)](https://web.archive.org/msgbrd/board_14/2013/MAY/38027.html)
-  * [Dallas Sheet Cake (Great American Recipe Cards, 1970's)](https://web.archive.org/msgbrd/board_1/2013/MAY/10944.html)
-  * [Layered Tostada Dip (Kraft Miracle Whip recipe, 1980's, with photo)](https://web.archive.org/msgbrd/board_31/2013/MAY/55100.html)
-  * [This Week's Mix-and-Match Daily Menu Planner is Online! May 27 - June 2](https://web.archive.org/msgbrd/board_0/2013/MAY/87718.html)
-  * [Picnic Three Bean Salad (using corn, chiles and salsa, Del Monte, 1980's, with photo)](https://web.archive.org/msgbrd/board_1/2013/MAY/10943.html)
-  * [ 18 Recipes from the Booklet: Heinz Easy Recipes for Summer Living, 1992](https://web.archive.org/msgbrd/board_1/2013/MAY/10942.html)
-  * [Devilish Deviled Eggs (using mustard and relish, Heinz recipe, 1990's, with photo)](https://web.archive.org/msgbrd/board_31/2013/MAY/55099.html)
+  * [Healthy and Diet Recipes - 06-25-14 Daily Recipe Swap](https://web.archive.org/msgbrd/board_31/2014/JUN/55827.html)
+  * [Shrimp Finger Sushi and How to Make Sushi Rice](https://web.archive.org/msgbrd/board_31/2014/JUN/55826.html)
+  * [Chicken a La King (Success rice recipe, using cooked chicken, peas and mushrooms)](https://web.archive.org/msgbrd/board_31/2014/JUN/55825.html)
+  * [Stuffed Peppers (using Success Rice and ground beef or chicken)](https://web.archive.org/msgbrd/board_31/2014/JUN/55824.html)
+  * [Chicken with Spanish Rice (using chicken breasts and green beans)](https://web.archive.org/msgbrd/board_31/2014/JUN/55823.html)
+  * [Lemon Chicken and Rice](https://web.archive.org/msgbrd/board_31/2014/JUN/55822.html)
+  * [Chicken Jambalaya (using chicken thighs and drumsticks)](https://web.archive.org/msgbrd/board_31/2014/JUN/55821.html)
+  * [Cajun Red Beans and Rice (using miso)](https://web.archive.org/msgbrd/board_31/2014/JUN/55820.html)
+  * [Baked Stuffed Peppers (using brown rice and sunflower seeds, no meat)](https://web.archive.org/msgbrd/board_31/2014/JUN/55819.html)
+  * [Apple Brown Rice Stuffing (with almonds and raisins)](https://web.archive.org/msgbrd/board_31/2014/JUN/55818.html)
+  * [A Zillion Recipes Using Rice - 06-24-14 Daily Recipe Swap](https://web.archive.org/msgbrd/board_31/2014/JUN/55817.html)
+  * [Macaroon Pie (with coconut and almonds)](https://web.archive.org/msgbrd/board_31/2014/JUN/55816.html)
+  * [Pineapple Pie with Tropical Crumb Topping (using trail mix and coconut)](https://web.archive.org/msgbrd/board_31/2014/JUN/55815.html)
+  * [Coconut Almond Bars (with butter and brown sugar crust)](https://web.archive.org/msgbrd/board_31/2014/JUN/55814.html)
+  * [Toasted Coconut Coffee Cake (yeast dough with coconut and brown sugar filling)](https://web.archive.org/msgbrd/board_31/2014/JUN/55813.html)
+  * [Chocolate Coconut Coffee Cake (Bundt cake, no knead yeast dough)](https://web.archive.org/msgbrd/board_31/2014/JUN/55812.html)
+  * [A Lovely Bunch of Coconut Recipes - 06-23-14 Daily Recipe Swap](https://web.archive.org/msgbrd/board_31/2014/JUN/55811.html)
+  * [Tender Pepper-Rubbed Strip Steaks with Grilled Vegetable Trio](https://web.archive.org/msgbrd/board_31/2014/JUN/55810.html)
+  * [Margarita Shrimp Skewers (with jalapenos and red bell peppers)](https://web.archive.org/msgbrd/board_31/2014/JUN/55809.html)
+  * [BBBQ Smoke-Grilled Salmon (with lime and Dijon marinade)](https://web.archive.org/msgbrd/board_31/2014/JUN/55808.html)
+  * [No-Burn Bbq Chicken (using chicken thighs)](https://web.archive.org/msgbrd/board_31/2014/JUN/55807.html)
+  * [BBQ Spareribs (using BBQ sauce, chili sauce, maple syrup and wine)](https://web.archive.org/msgbrd/board_31/2014/JUN/55806.html)
+  * [Portobello Muffuletta (no meat, make ahead)](https://web.archive.org/msgbrd/board_31/2014/JUN/55805.html)
+  * [Picnic Basket Baked Beans](https://web.archive.org/msgbrd/board_31/2014/JUN/55804.html)
+  * [Pasta Salad (using spaghetti and fresh vegetables)](https://web.archive.org/msgbrd/board_31/2014/JUN/55803.html)
+  * [Meat Cakes (using ground beef and Italian sausage, baked in muffin tins)](https://web.archive.org/msgbrd/board_31/2014/JUN/55802.html)
+  * [Crispy Fried Chicken (with seasoned flour using paprika and poultry seasoning)](https://web.archive.org/msgbrd/board_31/2014/JUN/55801.html)
+  * [Picnic Potato Salad (using 10 pounds of potatoes, make ahead)](https://web.archive.org/msgbrd/board_31/2014/JUN/55800.html)
+  * [This Week's Mix-and-Match Daily Menu Planner is Online! June 22-28](https://web.archive.org/msgbrd/board_0/2014/JUN/87948.html)
+  * [Dinner on the Deck and Backyard Picnic Recipes - 06-22-14 Daily Recipe Swap](https://web.archive.org/msgbrd/board_31/2014/JUN/55799.html)
+  * [Featured Recipe Collections - June 21 - July 4](https://web.archive.org/msgbrd/board_0/2014/JUN/87947.html)
+  * [Chicken Salad Deluxe Tomato Poppers](https://web.archive.org/msgbrd/board_31/2014/JUN/55798.html)
+  * [Crab Pinwheel Appetizers (make ahead)](https://web.archive.org/msgbrd/board_31/2014/JUN/55797.html)
+  * [Submarine Sandwiches with Creamy Italian Dressing](https://web.archive.org/msgbrd/board_31/2014/JUN/55796.html)
+  * [Roll Up Appetizer Sandwiches (using tortillas, make ahead)](https://web.archive.org/msgbrd/board_31/2014/JUN/55795.html)
+  * [90-Minute Soft Pretzels (topped with coarse salt, Parmesan or cinnamon sugar)](https://web.archive.org/msgbrd/board_31/2014/JUN/55794.html)
+  * [Recipes for Handheld Foods - 06-21-14 Daily Recipe Swap](https://web.archive.org/msgbrd/board_31/2014/JUN/55793.html)
+  * [Sauteed Alaska Sole Capri (using white wine and sundried tomatoes)](https://web.archive.org/msgbrd/board_31/2014/JUN/55792.html)
+  * [Alaska Halibut with Apples (with brown sugar and Cajun spice)](https://web.archive.org/msgbrd/board_31/2014/JUN/55791.html)
+  * [Chicken and Shrimp Etouffee ](https://web.archive.org/msgbrd/board_31/2014/JUN/55790.html)
   * [More...](https://web.archive.org/board/goto/98/1)
 
 
