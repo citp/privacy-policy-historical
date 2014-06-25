@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morphsuits.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219163829id_/http%3A//www.morphsuits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morphsuits.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122457id_/http%3A//www.morphsuits.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,9 @@ We implement a variety of security measures to maintain the safety of your perso
 
 ### Do we use "cookies"?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. Cookies are completely harmless to your computer and don't store personally identifiable information such as name, address or payment details, but they do provide us with encrypted information to help improve your experience of the website. For example, they help us to identify errors, suggest related and recommended products and allow you to connect with social media sites such as Facebook, Twitter, Google+ and Pinterest. Further, we use cookies if you have visited our website before to keep track of what you have in your basket and make it quicker and easier to manage your account, place an order or track your deliveries. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+As part of Morphsuit Costumes commitment to comply with recent EU legislation changes, and to ensure that we are absolutely clear about your privacy when using our website, we have detailed full information on cookies and how we use them on morphsuits.co.uk
 
 We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
