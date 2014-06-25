@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chargebee.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818173321id_/http%3A//www.chargebee.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargebee.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625160357id_/https%3A//www.chargebee.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ChargeBee
 
@@ -14,15 +14,15 @@ Any of the information we collect from you may be used in one of the following w
 
 **To improve customer service**
 
-_In the context of customer support your information helps us to more effectively respond to your customer service requests._
+ _In the context of customer support your information helps us to more effectively respond to your customer service requests._
 
 **To process transactions**
 
-_Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, other than for the express purpose of delivering the purchased product or service requested._
+ _Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, other than for the express purpose of delivering the purchased product or service requested._
 
 **To send periodic emails**
 
-_The email address you provide in the application, may be used to send you information and updates pertaining to your usage, in addition to receiving occasional company news, updates, related product or service information, etc._
+ _The email address you provide in the application, may be used to send you information and updates pertaining to your usage, in addition to receiving occasional company news, updates, related product or service information, etc._
 
 ## How do we protect your information?
 
@@ -56,11 +56,11 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.chargebee.com 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at https://www.chargebee.com 
 
 ## Your Consent
 
-By using our site, you consent to our online [privacy policy](https://web.archive.org/web/20130818173321id_/http%3A//www.chargebee.com/privacy.html). 
+By using our site, you consent to our online [privacy policy](https://web.archive.org/privacy.html). 
 
 ## Changes to our Privacy Policy
 
@@ -71,3 +71,6 @@ This policy was last modified on 14-Jun-2012 to correct a typo.
 ## Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us at [info@chargebee.com](mailto:info@chargebee.com)
+
+  
+
