@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the autorevo.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213151506id_/http%3A//www.autorevo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autorevo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625235153id_/http%3A//www.autorevo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - AutoRevo | Auto Dealer Websites | Internet Marketing | Inventory Management | Vehicle Pricing Tools
+# AutoRevo Website Privacy Policy - AutoRevo
 
-Privacy is important, especially in today's digital world. This privacy policy applies to all AutoRevo websites and all dealer websites hosted by AutoRevo, as well as websites hosted on behalf of our partners, advertisers and clients, collectively known as AutoRevo “websites”. This policy only applies to AutoRevo, not to any companies that AutoRevo does not own, or to any persons not employed by AutoRevo.
+Privacy is important, especially in today’s digital world. This privacy policy applies to all AutoRevo websites and all dealer websites hosted by AutoRevo, as well as websites hosted on behalf of our partners, advertisers and clients, collectively known as AutoRevo “websites”. This policy only applies to AutoRevo, not to any companies that AutoRevo does not own, or to any persons not employed by AutoRevo.
 
 ### INFORMATION COLLECTION AND USE
 
-AutoRevo uses first-party cookies, which are small text files with a single string of 100% anonymous text or numbers, to collect anonymous visitor information. This information is used to evaluate visitors' use of the website and to compile statistical reports on website activity using our Web Analytics vendors. AutoRevo does not collect any Personally Identifiable Information (PII) about website vendors using these tools.
+AutoRevo uses first-party cookies, which are small text files with a single string of 100% anonymous text or numbers, to collect anonymous visitor information. This information is used to evaluate visitors’ use of the website and to compile statistical reports on website activity using our Web Analytics vendors. AutoRevo does not collect any Personally Identifiable Information (PII) about website vendors using these tools.
 
-Neither AutoRevo nor the Web Analytics vendors will link, or seek to link, an IP address with the identity of a computer user. AutoRevo will not associate any data gathered from this site with any personally identifiable information from any other source. 
+Neither AutoRevo nor the Web Analytics vendors will link, or seek to link, an IP address with the identity of a computer user. AutoRevo will not associate any data gathered from this site with any personally identifiable information from any other source.
 
 Information recorded by these methods include browser type, software and hardward attributes, IP address, and any pages you viewed.
 
@@ -38,8 +38,6 @@ AutoRevo may update this policy from time to time and will post any changes on t
 
 ### QUESTIONS AND SUGGESTIONS
 
-If you have questions or suggestions, please contact us:
+If you have questions or suggestions, please contact us: [support@autorevo.com](mailto:support@autorevo.com)
 
-[support@autorevo.com](mailto:support@autorevo.com)
-
-_Last modified: February 15, 2011_
+_Last modified: February 19, 2014_
