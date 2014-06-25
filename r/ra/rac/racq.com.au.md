@@ -1,43 +1,161 @@
-> *The following text is extracted and transformed from the racq.com.au privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031090728id_/http%3A//www.racq.com.au/about_us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racq.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625161232id_/http%3A//www.racq.com.au/about_us/privacy) for the most accurate reproduction.*
 
 # Privacy | About Us | RACQ
 
-  * RACQ approach to Privacy and Spam
-  * Collection of personal information
-  * Use and disclosure of information
-  * Accuracy and correction
-  * Security
+  * Purpose
+  * Types of information that we collect
+  * Personal information
+  * Sensitive information
+  * Why we collect personal information
+  * How we collect your information
+  * Information collected online on RACQ
+  * If you chose not to give us personal information
+  * Your consent
+  * Keeping your information safe
+  * How we use your information
+  * Disclosure of your information to third parties
+  * Disclosure of your information to third parties overseas
+  * Accessing your personal information
+  * How we keep your information up to date
+  * Changes to this policy
+  * What to do if you have a complaint
 
 
 
-## RACQ approach to Privacy and Spam
+## Introduction
 
-RACQ respects your privacy and implements privacy principles modelled on the National Privacy Principles set out in the Commonwealth Privacy Act 1988. RACQ also complies with the Spam Act 2003, dealing with restrictions on sending emails with commercial content.
+The protection of your privacy and the confidentiality of your personal information is important to RACQ.
 
-## Collection of personal information
+Any information that we do collect in our dealings with you is kept confidential and will only be accessed by authorised persons within the RACQ Group and its subsidiary companies, authorised representatives and affiliated companies.  We also ensure that any agents, contractors and/or third parties we engage to provide services to you, are bound by contractual obligations to protect your personal information.
 
-RACQ collects personal information when we provide road, insurance and other services to members or non-members. The personal information needed to supply such services can include your name, personal and business address, job details, age, sex, health status, travel plans or insurance history. We may need to collect additional personal information to supply services you have requested.
+RACQ is bound by the Privacy Act 1988 (Cth) and the Privacy Principles contained within the act.  If you have any concerns about privacy, please contact us on 13 19 05 or email us at [privacy@racq.com.au](mailto:privacy@racq.com.au).
 
-At the time of collection, RACQ will take reasonable steps to make sure you are aware of why personal information is being collected, who it may be disclosed to, the consequences if it is not provided to RACQ, how it can be corrected and how RACQ can be contacted.
+## Purpose
 
-RACQ may also collect personal information using our web site when it is accessed, for example, when you access our road travel or tourist services, obtain quotes on insurance or download information provided by RACQ. RACQ's Internet Service Provider records all visits to our site and provides reports to RACQ about the date and time of visit, your Internet address and Domain Name, if applicable. You are not identified in these reports: they are statistical and are only used for improving our web site and our services.
+The purpose of this policy is to clearly outline the types of information that RACQ collect and how we store and manage that information.
 
-RACQ and its agents may also use cookies, which give messages through your web browser to a web server at the time of use. Each time you request a page from the server, the cookie may facilitate a message to a server to give RACQ a clear picture of which areas on the RACQ site are heavily accessed.
+## Types of Information that we collect
 
-Internet browsers are commonly configured to accept cookies. If you don't wish to receive cookies, you may be able to change the settings of your browser to refuse them, or to notify you each time a cookie tries to send a message to your computer, giving you the choice to accept it or not.
+We will only collect information from you that is reasonably necessary to undertake our business activities and functions.  The types of information that we will collect will depend on the products, benefits and services you have asked us to provide. 
 
-## Use and disclosure of information
+## Personal Information
 
-RACQ uses personal information to provide and market its services to members and non-members. RACQ will give you the opportunity to decline offers to receive marketing material and special offers.
+The types of personal information we may ask for include your name, address, date of birth and contact details.  We may also ask for further information that is necessary for the provision of other services, such as vehicle and/or property details.   
+We will not collect, use or disclose information about you unless it is reasonably necessary to provide you with a product or service, unless we are legally required or permitted to collect, use or disclose that information.
 
-RACQ may disclose your personal information to our service providers, agents, contractors and alliance partners from time to time to help RACQ provide services to you. If this is done, RACQ will require other parties to protect your information in the same way as RACQ. RACQ will not use personal information for other purposes without your consent.
+## Sensitive Information
 
-## Accuracy and correction
+Sensitive information, as defined by law, includes any information about a person’s racial or ethnic origin, political opinion, membership of a political association, religious beliefs or affiliations, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual preferences or practices, criminal record or health information.
 
-RACQ relies on you to provide accurate personal information. If you think that information RACQ holds about you is inaccurate or out of date, please contact RACQ on 13 1905 so reasonable steps can be taken to correct it. If you need to check the accuracy of existing records, please contact RACQ on 13 1905 so your personal information can be verified, free of charge.
+We will always explain the purpose for collecting sensitive information. For example, we may request health information to assess a claim made under an insurance policy.
 
-## Security
+## Why we collect personal information
 
-RACQ uses physical and electronic security measures to ensure personal information is not misused, lost, changed or stolen. These include restrictions on physical access, secure databases or electronic firewalls.
+RACQ collects personal information from you, in order to identify you, assess applications and provide products, benefits and services to you.  To discuss the exact information we require for each product, please contact us on 13 19 05 or visit any RACQ branch.  You may also email us at [privacy@racq.com.au](mailto:privacy@racq.com.au)
 
-While every reasonable effort is made to protect your personal information, transmitting such information via the internet is subject to some risk.
+## How we collect your information
+
+In most cases, we will only collect information from you directly, this can include written applications, face-to-face in our branches or when you contact us via telephone or electronic means such as the Internet or email.  Occasionally, we may collect personal information from other parties when required, such as to process an insurance claim.
+
+## Information collected online by RACQ
+
+It is the usual practice of RACQ to collect information about visitors to our online resources.  Information that is collected is limited and is used to identify online behavioural patterns.
+
+RACQ also use third party providers, whilst we will only deal with reputable service providers, we recommend that you read the Privacy Policy of the third party site if you are redirected.
+
+Our online resources include, but are not limited to websites and mobile applications ‘apps’.  Information collected by these resources may collect the following information:
+
+  * Server address / IP address
+  * Date and time of visit to our site
+  * Pages visited
+  * Documents downloaded
+  * The site you visited prior to visiting our website
+  * The browser that you are using to access our resources
+  * If you have visited our website before
+  * Tracking user preferences
+
+
+
+In addition to the above, mobile apps may collect location data; however, you will be notified if this is the case.
+
+Most of our online resources use sessions and/or cookies.  The functionality of these resources will function if you disable these, however, you may be unable to access some functions if these are disabled.
+
+## If you chose not to give us personal information
+
+If you chose not to provide RACQ with the information that we have requested, in most cases, we will be unable to provide the service you have applied for, or administer a service that you have already purchased.  Where this arises, we will advise you why.
+
+## Your Consent
+
+We only collect and disclose your information after obtaining your consent, or where otherwise permitted by law.  Your consent can be express or implied.  Express consent can be verbal or written, for example when you apply for membership, after signing the application, you are giving express consent to share your information with other roadside assist organisations should you require assistance outside of Queensland.  Your implied consent is taken when RACQ can reasonably conclude by some action you take, or if you decide to take no action, for example when you call us and continue to speak to us after hearing that calls maybe recorded or when you provide us with personal information that we have not specifically requested.
+
+## Keeping your information safe
+
+RACQ maintain strict protocols for the storage of information and this will only be accessed by people that have the authority to do so.  We maintain physical security (such and locks and security systems) and electronic security (such as firewalls and access controls for computer systems)
+
+We will destroy personal information if it is no longer needed: for the purposes for which we collected it; or for the purposes of meeting legal and regulatory requirements.
+
+We will properly dispose of all paper files, correspondence and any other hardcopy documents that contain personal information that is no longer needed.
+
+All information stored in electronic form that is no longer required will be deleted from our systems.
+
+## How we use your information
+
+We use the personal information we collect to provide services, benefits and products to you.  In order to do this we may need to disclose some of your personal information to other people or organisations.  This may include, but is not limited to contractors, agents or organisations that we have an alliance or arrangement with.  We may also use personal information for other purposes where you would reasonably expect us to and the purpose is related to the purpose of collection, or where otherwise permitted by law
+
+We may also from time to time, use your information to market services or products of RACQ and other companies we believe may be of interest to you.  If you do not wish to receive such material, you can contact us at any time and we will generally process your request within 14 days of receipt.
+
+## Disclosure of your information to third parties
+
+Personal information that we collect from you may be disclosed to:
+
+  * any entity to which we are required or authorised by or under law to disclose such information (for instance, law enforcement agencies and investigative agencies, courts, various other government bodies)
+  * other third parties that you have been informed of at the time when any personal information is collected from you;
+  * our contractors, agents or business partners for purposes directly related to the purpose for which the personal information is collected, for example, other roadside assist organisations should you require assistance outside of Queensland.
+  * our professional advisors and other contractors (for example IT consultants)
+  * external providers of services that where you have engaged us to act as your agent, such as booking flights, hotels tours etc
+  * other insurers, insurance investigators and claims or insurance reference services, loss adjusters and reinsurers
+
+
+
+We may also disclose your personal information where otherwise permitted or required by law.
+
+## Disclosure of your information to third parties overseas
+
+RACQ on occasion may need to disclose your personal information to an overseas recipient where you have to have engaged us to act as your agent and the services you have requested us to provide require us to deal with overseas organisations.
+
+## Accessing your personal information
+
+If you request it, we will provide you a summary of any personal information held about you in accordance with our obligations under The Privacy Act.  If you request detailed information, RACQ may charge a fee for the retrieval of this information.
+
+Any requests for information will be processed within a reasonable timeframe (usually within 10 business days).  If the retrieval of information involves accessing archived information and will take longer than normal, we will endeavour to provide you with an estimated timeframe.
+
+Under some circumstances, we may refuse you access to personal information where denying access is required or authorised by law, for example if access would pose a threat to life or the health of anyone, where the request for access is regarded as frivolous or vexatious, or where information relates to anticipated or legal proceedings.  If you are denied access to your information, we will explain why.
+
+## How we keep your information up to date
+
+We will take reasonable steps to ensure that your personal information is accurate and up to date and we will correct this as soon as we know otherwise.  You have the right to ask us to correct your information.  If you learn that your information needs to be updated, you should contact us as soon as possible and we will process your request.  If we refuse to correct your information, we will explain why in writing, and advise you of the mechanisms available to you to complain.  You also have a right for a statement to be attached to your personal information if RACQ disagrees with your request to correct the information held.
+
+## Changes to this policy
+
+The RACQ Group constantly reviews its policies, statements and procedures to keep up to date with relevant legislation. As a result we may update and change this Privacy Policy as directed by law. Any changes will be updated on our website. If you have a concern or query about this process and how it may affect you, please contact us at [privacy@racq.com.au](mailto:privacy@racq.com.au).
+
+## What to do if you have a complaint
+
+If you believe that we have not fulfilled our obligations under the Privacy Act or you do not agree with a decision made by RACQ in relation to the access or update of your personal information, you can make a complaint to us by writing to us at:
+
+**Privacy Officer  
+** Corporate Legal Department  
+PO Box 4  
+Springwood  QLD  4127  
+email: [privacy@racq.com.au](mailto:privacy@racq.com.au)
+
+Once we have received your complaint, we will investigate and endeavour to respond to you within 10 working days
+
+If you are unhappy with the response from RACQ, you can direct your complaint to the Federal Privacy Commissioner at:
+
+**Federal Privacy Commissioner  
+** GPO Box 5218  
+Sydney NSW 1042  
+Phone: 1300 363 992  
+TTY: 1800 620 241  
+email:  [privacy@privacy.gov.au](mailto:privacy@privacy.gov.au)
