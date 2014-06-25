@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otixo.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026194304id_/http%3A//otixo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otixo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104637id_/http%3A//www.otixo.com/privacy) for the most accurate reproduction.*
 
 # Otixo: Privacy Policy
 
@@ -137,4 +137,4 @@ Otixo has also established an independent recourse mechanism available to Europe
 
 ## TERMS OF USE
 
-Please also visit our [Terms of Use Agreement](https://web.archive.org/web/20131026194304id_/http%3A//otixo.com/license.html) that explains other terms governing the use of our website.
+Please also visit our [Terms of Use Agreement](https://web.archive.org/web/20140625104637id_/http%3A//www.otixo.com/license.html) that explains other terms governing the use of our website.
