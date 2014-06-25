@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directagents.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219214850id_/http%3A//directagents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directagents.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113756id_/http%3A//directagents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DirectAgents
 
@@ -36,25 +36,25 @@ New Blog Post
 
 Contact Us
 
-  * [](https://web.archive.org/work/andotherbrands/)
+  * [](https://web.archive.org/work/sherrill-tree/)
 
-Monthly ROAS hitting as high as 1000% for &OtherBrands
-
-
+PPC Campaign Climbs to New Heights
 
 
-  * [](https://web.archive.org/work/epromos/)
 
-Increased customer acquisitions by 97% year over year.
+
+  * [](https://web.archive.org/work/scholastic/)
+
+PPC resources help attract teachers to Scholastic programs
 
 
 
 
 ## New Blog Post
 
-  * [](http://directagents.com/blog/whats-new-at-direct-agents/)
+  * [](http://directagents.com/blog/direct-agents-debuts-its-new-creative-design-services-department-responsiv3/)
 
-Now offering Trading Desk, GSP, SEO & Responsive Design
+Direct Agents Debuts Its New Creative Design Team – R3
 
 
 
