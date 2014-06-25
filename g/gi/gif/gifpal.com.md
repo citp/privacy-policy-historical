@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gifpal.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222232745id_/http%3A//www.gifpal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifpal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110118id_/http%3A//gifpal.com/privacy) for the most accurate reproduction.*
 
 # GIFPAL - Privacy Policy
 
