@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muzu.tv privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604043343id_/http%3A//www.muzu.tv/site/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muzu.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625231821id_/http%3A//www.muzu.tv/site/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
