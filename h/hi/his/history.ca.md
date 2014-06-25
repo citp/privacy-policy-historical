@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the history.ca privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112730id_/http%3A//www.shawmedia.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the history.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075638id_/http%3A//www.shawmedia.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Shaw Media
 
@@ -22,12 +22,6 @@ The following defined terms are used throughout this Privacy Policy:
 
  **customer** – means an individual who:
 
-**employee** – means an employee, former employee or pensioner of a Shaw Media Company and, for the purposes of this Privacy Policy, includes the directors, shareholders and security holders of Shaw Media.
-
- **personal information** – means information about an identifiable individual, but does not include the name, title, or business address or telephone number of an employee of an organization. Publicly available information, such as a public directory listing of names, addresses, telephone numbers and electronic addresses, is not considered personal information.
-
- **privacy legislation** \- means Canada’s federal private sector privacy legislation, the _Personal Information Protection and Electronic Documents Act_ (“PIPEDA”), and substantially similar provincial privacy legislation including Alberta’s _Personal Information Protection Act_ , British Columbia’s _Personal Information Protection Act_ , and Quebec’s _An Act respecting the protection of personal information in the private sector_.
-
 (a) | subscribes for, uses, or applies to use, the products or services of a Shaw Media Company;  
 ---|---  
   
@@ -40,6 +34,12 @@ The following defined terms are used throughout this Privacy Policy:
   
 (d) | enters a contest sponsored by a Shaw Media Company.  
   
+**employee** – means an employee, former employee or pensioner of a Shaw Media Company and, for the purposes of this Privacy Policy, includes the directors, shareholders and security holders of Shaw Media.
+
+ **personal information** – means information about an identifiable individual, but does not include the name, title, or business address or telephone number of an employee of an organization. Publicly available information, such as a public directory listing of names, addresses, telephone numbers and electronic addresses, is not considered personal information.
+
+ **privacy legislation** \- means Canada’s federal private sector privacy legislation, the _Personal Information Protection and Electronic Documents Act_ (“PIPEDA”), and substantially similar provincial privacy legislation including Alberta’s _Personal Information Protection Act_ , British Columbia’s _Personal Information Protection Act_ , and Quebec’s _An Act respecting the protection of personal information in the private sector_.
+
 #### The Ten Privacy Principles
 
 This Privacy Policy has been developed in accordance with the standards set out in PIPEDA and is modelled after the Canadian Standards Association Model Code for the Protection of Personal Information, CAN/CSA-Q830-96. Accordingly, the ten principles of fair information practices (the “Principles”), as identified by the Canadian Standards Association, have been adopted by the Shaw Media Companies and represent a formal statement of the minimum requirements to be adhered to by each of the Shaw Media Companies for the protection of personal information collected from the customers and employees of the Shaw Media Companies.
@@ -288,8 +288,6 @@ _**Upon request, an individual shall be informed of the existence, use and discl
 _**An individual customer or employee shall be able to address a challenge concerning compliance with the principles in this Privacy Policy to his or her designated Privacy Officer.**_
 
 Any changes to our Privacy Policy and information handling practices will be acknowledged in this policy in a timely manner. We may add, modify or remove portions of this Privacy Policy when we feel it is appropriate to do so. You may determine when this Privacy Policy was last updated by referring to the date found at the bottom of this Privacy Policy.
-
- _Last revised Thursday, November 25, 2010._
 
 10.1 | The Shaw Media Companies shall maintain procedures for addressing and responding to all inquiries or complaints from its customers and employees about the companies’ handling of personal information.  
 ---|---  
