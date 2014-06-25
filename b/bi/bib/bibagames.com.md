@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bibagames.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806083216id_/http%3A//www.bibagames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bibagames.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061824id_/http%3A//www.bibagames.com/privacy.html) for the most accurate reproduction.*
 
 # Bibagames Privacy-bibagames.com
 
