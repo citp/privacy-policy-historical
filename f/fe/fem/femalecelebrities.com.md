@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femalecelebrities.com privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126085940id_/http%3A//www.xahead.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femalecelebrities.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125928id_/http%3A//www.xahead.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
