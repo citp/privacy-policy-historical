@@ -1,52 +1,38 @@
-> *The following text is extracted and transformed from the insidestl.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205184925id_/http%3A//www.insidestl.com/PrivacyPolicy/tabid/210/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidestl.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070040id_/http%3A//www.insidestl.com/PrivacyPolicy/tabid/210/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**PRIVACY  POLICY**
+_**PRIVACY POLICY**_
 
-insideSTL is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the insideSTL Web site and governs data collection and usage. By using the insideSTL website, you consent to the data practices described in this statement.
+insideSTL Enterprises, LLC and its affiliates respect your privacy and believe the best way to serve you on the internet is with honesty, accountability and adherence to legal standards.  We are sensitive to the issue of privacy and have structured our online activities to maximize your control over the disclosure of your own personally identifiable information.
 
-Collection of your Personal Information
+This Privacy Policy supplements our general Terms of Use, which we also urge you to read.  By using our Web site (the “Site”), you agree to be bound by the terms of this Privacy Policy and by the Terms of Use.  We may change this Privacy Policy at any time by posting revisions to the Site, and your continued use of the Site indicates your agreement to the revised terms.  Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the Site immediately.
 
-insideSTL collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. insideSTL also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+PRIVACY OF CHILDREN  
+Privacy of Children
 
-There is also information about your computer hardware and software that is automatically collected by insideSTL. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by insideSTL for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the insideSTL Web site.
+insideSTL Enterprises, LLC encourages parents and guardians to be aware of and participate in their children's online activities. We strictly adhere to the Children's Online Privacy Protection Act and will not knowingly register or otherwise collect personally identifiable information from any child under the age of 13 without the prior verifiable consent of that person’s parent or guardian.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through insideSTL public message boards, this information may be collected and used by others. Note: insideSTL does not read any of your private online communications.
+What Information is Collected.
 
-insideSTL encourages you to review the privacy statements of Web sites you choose to link to from insideSTL so that you can understand how those Web sites collect, use and share your information. insideSTL is not responsible for the privacy statements or other content on Web sites outside of the insideSTL and insideSTL family of Web sites.
+insideSTL Enterprises, LLC may collect two types of information about you: personally identifiable information (such as your name, address, telephone number and e-mail address) and aggregate information that is anonymous (such as your IP address - a number used to identify your computer when you are on the Internet - or the type of browser you are using).
 
-Use of your Personal Information
+Personally Identifiable Information: You may be required to register or otherwise voluntarily provide personally identifiable information to have access to some features of the Site. You always may choose not to provide the personally identifiable information, but this may lead to decreased functionality of the Site for you and our inability to provide you with certain products or services. We also may request you to voluntarily provide personally identifiable information that is not required to access features of our site. This information enables insideSTL Enterprises, LLC to make general improvements to the Site and better serve your specific interests.
 
-insideSTL collects and uses your personal information to operate the insideSTL Web site and deliver the services you have requested. insideSTL also uses your personally identifiable information to inform you of other products or services available from insideSTL and its affiliates. insideSTL may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+Aggregate Information: insideSTL Enterprises, LLC may transparently collect aggregate information through the use of cookies or by other means. We use this information to assess general usage patterns, administer and make improvements to the Site and collect demographic information useful in some way to insideSTL Enterprises, LLC and our business partners. We hope that by using Aggregate Information, we can update the Site to make it more useful to you and other users. We, and our business partners, reserve the right to use, maintain, update, disclose and/or sell Aggregate Information.
 
-insideSTL does not sell, rent or lease its customer lists to third parties. insideSTL may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, insideSTL may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to insideSTL, and they are required to maintain the confidentiality of your information.
+What We Will and Will Not Do with the Information You Provide
 
-insideSTL does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+insideSTL Enterprises, LLC uses information generally to compile statistical data, keep in contact with users and provide them with a better interactive experience.
 
-insideSTL keeps track of the Web sites and pages our customers visit within insideSTL, in order to determine what insideSTL services are the most popular. This data is used to deliver customized content and advertising within insideSTL to customers whose behavior indicates that they are interested in a particular subject area.
+We may use your information specifically for the following purposes: to provide easy access every time you return to the site without requiring re-entry of registration information; to keep you informed about products and services in which you may have interest; to complete business transactions; to contact you as part of a promotion; to allow you to make a posting on the Site; to administer individual accounts; to provide customer support; to meet legal requirements; to provide Internet security; and/or to analyze the collected information. Also, in the event that we are involved in a sale of a substantial portion of our business assets, customer information may be among the transferred assets.
 
-insideSTL Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on insideSTL or the site; (b) protect and defend the rights or property of insideSTL; and, (c) act under exigent circumstances to protect the personal safety of users of insideSTL, or the public.
+insideSTL Enterprises, LLC works closely with our business partners and certain other third parties who may perform functions on our behalf, such as fulfilling orders, providing promotional materials to our users, sending e-mail, managing data, processing credit card payments or providing customer service. They have access to your personally identifiable information only to the extent necessary to perform their functions and may not use it for any other purpose. Further, these business partners and other third parties may from time to time wish to extend special offers to you on their own behalf. We may use your personally identifiable information to assist our business partners in offering you these products, services and information and may act as an intermediary (for instance, sending you e-mail on their behalf).
 
-Use of Cookies
+Other than for the specific purposes set forth in this Privacy Policy, we will not disclose your personally identifiable information to any third parties unless we obtain your prior consent or are legally compelled to do so. In addition, we will not contact you without your permission except as specified above or in connection with the registration process. On the Site, you will be given the opportunity to opt out of receiving e-mails or other information from insideSTL Enterprises, LLC. If you have questions about how your personally identifiable information is used, please contact us.
 
-The insideSTL Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+Third-Party Advertising: We use third-party advertising companies to serve ads when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize insideSTL pages, or register with insideSTL site or services, a cookie helps insideSTL to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same insideSTL Web site, the information you previously provided can be retrieved, so you can easily use the insideSTL features that you customized.
+Cookies
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the insideSTL services or Web sites you visit.
-
-Security of your Personal Information
-
-insideSTL secures your personal information from unauthorized access, use or disclosure. insideSTL secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-Changes to this Statement
-
-insideSTL will occasionally update this Statement of Privacy to reflect company and customer feedback. insideSTL encourages you to periodically review this Statement to be informed of how insideSTL is protecting your information.
-
-Contact Information
-
-insideSTL welcomes your comments regarding this Statement of Privacy. If you believe that insideSTL has not adhered to this Statement, please contact insideSTL at 
-
-. We will use commercially reasonable efforts to promptly determine and remedy the problem.   
-
+When you visit the Site, we or a third-party advertiser may store or recognize some information on your computer in the form of a "cookie" or similar file that can help us in many ways. For example, cookies allow us to tailor our site to better match your interests and preferences. With most Internet browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. If you reject cookies, functionality of the Site may be severely limited, and you may not be able to take advantage of many of the Site's best features.
