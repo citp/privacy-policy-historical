@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorchannel.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129212739id_/http%3A//outdoorchannel.com/content.aspx%3Fid%3D3927) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorchannel.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052938id_/http%3A//outdoorchannel.com/content.aspx%3Fid%3D3927) for the most accurate reproduction.*
 
 # Privacy Policy | Outdoor Channel
 
@@ -42,4 +42,4 @@ Upon request , we provide site visitors to our web site with access to all infor
 
 If you feel that this web site is not following its stated information policy Privacy Policy, you may contact us at the email address or phone number below
 
-Our postal address is: **43455 Business Park Dr., Temecula, CA 92590**. We can be reached via email at [info@outdoorchannel.com](mailto:info@outdoorchannel.com) or you can reach us by telephone at **(951) 699-6991**.
+Our postal address is: **11203 East Peakview Avenue, Centennial, CO 80111**. We can be reached via email at [info@outdoorchannel.com](mailto:info@outdoorchannel.com).
