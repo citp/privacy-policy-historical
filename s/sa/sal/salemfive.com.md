@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018073209id_/https%3A//www.salemfive.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055151id_/https%3A//www.salemfive.com/index.php/customer-support/security-center/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice
 
-[printer-friendly version (.pdf)](https://www.salemfive.com/images/PDFs/privacy_notice_jan_2013.pdf "Click here to view and print Privacy Notice")  
-Rev January 2013
+[printer-friendly version (.pdf)](https://www.salemfive.com/images/PDFs/privacy_notice_jan_2014.pdf "Click here to view and print Privacy Notice")  
+Rev January 2014
 
 If you wish to retain a copy of our privacy notice for your records, please click the print button below:
 
-[](https://www.salemfive.com/images/PDFs/privacy_notice_jan_2013.pdf "Click here to view and print Privacy Notice.")
+[](https://www.salemfive.com/images/PDFs/privacy_notice_jan_2014.pdf "Click here to view and print Privacy Notice.")
 
 | 
 
