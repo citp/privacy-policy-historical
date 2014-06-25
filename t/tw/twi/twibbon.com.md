@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twibbon.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208020124id_/http%3A//twibbon.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twibbon.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060811id_/http%3A//twibbon.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Twibbon
 
@@ -18,21 +18,21 @@ We may collect the following information:
 
 
 
-When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website. This data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, the location of your ISP and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use this data to monitor the use of the Site and of our Service, to gather information about the location of our users and for the Site’s technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service.
+When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website. This data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, the location of your ISP and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use this data to monitor the use of the Site and of our Service, to gather information about the location of our users and for the Site’s technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service. 
 
 ### What we do with the information we gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * The services we provide may include advertisements, which may be targeted to you based on your use of Twibbon.com as well as via data provided by third party services including Twitter.com or Facebook.com.
+  * Internal record keeping. 
+  * We may use the information to improve our products and services. 
+  * The services we provide may include advertisements, which may be targeted to you based on your use of Twibbon.com as well as via data provided by third party services including Twitter.com or Facebook.com. 
 
 
 
 ### Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
 ### How we use cookies
 
@@ -53,8 +53,8 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@twibbon.com.
-  * We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@twibbon.com. 
+  * We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
 
 
