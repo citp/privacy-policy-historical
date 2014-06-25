@@ -1,0 +1,1009 @@
+<!--The following is the downloaded HTML source of the getaccounts.org privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625120818id_/http%3A//getaccounts.org/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
+
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800" rel="stylesheet" type="text/css">
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41856278-1', 'getaccounts.org');
+  ga('send', 'pageview');
+
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>Privacy Policy</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="stylesheet" type="text/css" media="all" href="http://getaccounts.org/wp-content/themes/twentyeleven/style.css">
+<link rel="pingback" href="http://getaccounts.org/xmlrpc.php">
+<!--[if lt IE 9]>
+<script src="http://getaccounts.org/wp-content/themes/twentyeleven/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Getaccounts » Feed" href="http://getaccounts.org/feed">
+<link rel="alternate" type="application/rss+xml" title="Getaccounts » Comments Feed" href="http://getaccounts.org/comments/feed">
+<link rel="stylesheet" id="contact-form-7-css" href="http://getaccounts.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="newsletter-sign-up-css" href="http://getaccounts.org/wp-content/plugins/newsletter-sign-up/assets/css/css.php?checkbox=1&amp;ver=3.5.2" type="text/css" media="all">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">try{jQuery.noConflict();}catch(e){};</script>
+<script type="text/javascript" src="http://getaccounts.org/wp-content/themes/twentyeleven/js/showcase.js?ver=2011-04-28"></script>
+<script type="text/javascript" src="http://getaccounts.org/wp-includes/js/comment-reply.min.js?ver=3.5.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://getaccounts.org/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://getaccounts.org/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Conditions of Use" href="http://getaccounts.org/conditions-of-use">
+<link rel="next" title="YouTube Video Packages" href="http://getaccounts.org/youtube-packages">
+
+<link rel="stylesheet" type="text/css" media="all" href="http://getaccounts.org/wp-content/plugins/acc-txt-to-by/style.css"><script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+    <script>
+              var a = [];a["youtube"] = new Array(4,8,18,34);a["facebook"] = new Array(5,15,250,1000);a["gyoutube"] = new Array(6,9,20,37);a["gfacebook"] = new Array(15,25,350,1500);
+              jQuery(function($) {
+                  var type = $("#hone").val();
+                  $("#adv_button").click(function(){$("#advanced").toggle();});
+                  if(type == "youtube"){
+                  $("#price").text("$"+a[type][0]);
+                  $("#quantbox").change(function(){
+                    var boxval1=$(this).children('option:selected').val();
+                    var boxval2=$("#geobox").children('option:selected').val();
+
+                    var subtext1 = boxval1.replace('Pack','');
+                    var subtext2 = boxval2.replace('GPack','');
+                    if(subtext2 == 1){
+                        var pricex = a[type][subtext1-1];
+                    } else {
+                        var pricex = a["g"+type][subtext1-1];
+                    }
+                    $("#price").text("$"+pricex);
+                  });
+                  $("#geobox").change(function(){
+                    var boxval2=$(this).children('option:selected').val();
+                    var boxval1=$("#quantbox").children('option:selected').val();
+
+                    var subtext1 = boxval1.replace('Pack','');
+                    var subtext2 = boxval2.replace('GPack','');
+                    if(subtext2 == 1){
+                        var pricex = a[type][subtext1-1];
+                    } else {
+                        var pricex = a["g"+type][subtext1-1];
+                    }
+                    $("#price").text("$"+pricex);
+                  });
+                  }else if(type == "youtube_accs"){
+                  	var low = 0.4;
+					var slow = 0.4;
+					var tnew = 1;
+					$("#price").text("$ 4");
+					$("#quantbox").change(function(){
+						tnew = $("#quantbox").val();
+						if(tnew > 50) {
+							$("#price").text("$ "+Math.round((50*low+slow*(tnew-50))*100)/100);
+						} else {
+							$("#price").text("$ "+Math.round(low*tnew*100)/100);
+						}
+					});
+                  } else if(type == "tumblr_accs"){
+                  	var low = 0.05;
+					var slow = 0.05;
+					var tnew = 1;
+					$("#price").text("$ 5");
+					$("#quantbox").change(function(){
+						tnew = $("#quantbox").val();
+						if(tnew > 50) {
+							$("#price").text("$ "+Math.round(slow*tnew*100)/100);
+						} else {
+							$("#price").text("$ "+Math.round(low*tnew*100)/100);
+						}
+					});
+
+				  } else if(type == "gmail_accs"){
+                  	var low = 0.2;
+					var slow = 0.2;
+					var tnew = 1;
+					$("#price").text("$ 2");
+					$("#quantbox").change(function(){
+						tnew = $("#quantbox").val();
+						if(tnew > 50) {
+							$("#price").text("$ "+Math.round(slow*tnew*100)/100);
+						} else {
+							$("#price").text("$ "+Math.round(low*tnew*100)/100);
+						}
+					});
+                  } else if(type == "instagram_accs"){
+                  	var low = 0.03;
+					var slow = 0.03;
+					var tnew = 1;
+					$("#price").text("$ 3");
+					$("#quantbox").change(function(){
+						tnew = $("#quantbox").val();
+						if(tnew > 50) {
+							$("#price").text("$ "+Math.round(slow*tnew*100)/100);
+						} else {
+							$("#price").text("$ "+Math.round(low*tnew*100)/100);
+						}
+					});
+
+					 } else if(type == "twitter_accs"){
+                  	var low = 0.16;
+					var slow = 0.16;
+					var lowa = 0.16;
+					var slowa = 0.16;
+					var tnew = 25;
+					var price = low;
+					var sprice = slow;
+					$("#price").text("$ 4");
+					$("#twittbox").change(function(){
+						if($(this).val() == "n"){
+							price = low;
+							sprice = slow;
+							$("#stockm").empty().html($("#twitstockn").val());
+							if(tnew > 25) {
+								$("#price").text("$ "+Math.round(sprice*tnew*100)/100);
+							} else {
+								$("#price").text("$ "+Math.round(price*tnew*100)/100);
+							}
+						} else if ($(this).val() == "a"){
+							price = lowa;
+							sprice = slowa;
+							$("#stockm").empty().html($("#twitstocka").val());
+							if(tnew > 25) {
+								$("#price").text("$ "+Math.round(sprice*tnew*100)/100);
+							} else {
+								$("#price").text("$ "+Math.round(price*tnew*100)/100);
+							}
+						}
+					});
+					$("#quantbox").change(function(){
+						tnew = $("#quantbox").val();
+						if(tnew > 50) {
+							$("#price").text("$ "+Math.round(sprice*tnew*100)/100);
+						} else {
+							$("#price").text("$ "+Math.round(price*tnew*100)/100);
+						}
+					});
+					$("input.buy_pic").hover(function(){
+						if(!parseInt($("#stockm").text())){
+							$("#stockm").animate({color:"red"});
+							$("#stockm").animate({color:"#373737"});
+						}
+					});
+
+					} else if(type == "facebook_accs"){
+                    var low = 0.03;
+                    var slow = 0.03;
+                    var lowa = 0.05;
+                    var slowa = 0.05;
+                    var tnew = 100;
+                    var price = low;
+                    var sprice = slow;
+                    $("#price").text("$ 3");
+                    $("#twittbox").change(function(){
+                        if($(this).val() == "n"){
+                            price = low;
+                            sprice = slow;
+                            $("#stockm").empty().html($("#facestockn").val());
+                            if(tnew > 50) {
+                                $("#price").text("$ "+Math.round(sprice*tnew*100)/100);
+                            } else {
+                                $("#price").text("$ "+Math.round(price*tnew*100)/100);
+                            }
+                        } else if ($(this).val() == "a"){
+                            price = lowa;
+                            sprice = slowa;
+                            $("#stockm").empty().html($("#facestocka").val());
+                            if(tnew > 50) {
+                                $("#price").text("$ "+Math.round(sprice*tnew*100)/100);
+                            } else {
+                                $("#price").text("$ "+Math.round(price*tnew*100)/100);
+                            }
+                        }
+                    });
+                    $("#quantbox").change(function(){
+                        tnew = $("#quantbox").val();
+                        if(tnew > 50) {
+                            $("#price").text("$ "+Math.round(sprice*tnew*100)/100);
+                        } else {
+                            $("#price").text("$ "+Math.round(price*tnew*100)/100);
+                        }
+                    });
+                    $("input.buy_pic").hover(function(){
+                        if(!parseInt($("#stockm").text())){
+                            $("#stockm").animate({color:"red"});
+                            $("#stockm").animate({color:"#373737"});
+                        }
+                    });
+
+                     } else if(type == "wordpress_accs"){
+                  	var low = 0.04;
+					var slow = 0.04;
+					var tnew = 1;
+					$("#price").text("$ 4");
+					$("#quantbox").change(function(){
+						tnew = $("#quantbox").val();
+						if(tnew > 50) {
+							$("#price").text("$ "+Math.round(slow*tnew*100)/100);
+						} else {
+							$("#price").text("$ "+Math.round(low*tnew*100)/100);
+						}
+					});
+
+                  } else if (type == "youtube_likes"){
+                  	vwerte = new Array(3,5,11,14,20,35);
+					cnviuregjbddfudfpobopfdb_views = new Array(1,1.8,3.6,5,7,10);
+					cnviuregjbddfudfpobopfdb_likes = new Array(3,5,11,14,20,35);
+					cnviuregjbddfudfpobopfdb_faves = new Array(0.8,1.8,3.5,6.5,14,26,49);
+					cnviuregjbddfudfpobopfdb_share = new Array(0.8,1.8,3.5,6.5,14,26,49);
+					cnviuregjbddfudfpobopfdb_gglep = new Array(0.8,1.8,3.5,6.5,14,26,49);
+					cnviuregjbddfudfpobopfdb_comen = new Array(4,8,16,32);
+					idd = 1; pfaktor = 1;
+					
+					$("#price").text("$ "+vwerte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('YlPack','');
+						var vurl1 ="";
+						var vurl2 ="";
+						if(vurl1 || vurl2 === ""){
+						var pricex = (vwerte[subtext1-1]*pfaktor);
+						} else if(typeof(vurl1 || vurl2) != "undefined"){
+						var pricex = (vwerte[subtext1-1]*pfaktor)+(vwerte[subtext1-1]*0,2*pfaktor);
+						} else if(typeof(vurl1 & vurl2) != "undefined"){
+						var pricex = (vwerte[subtext1-1]*pfaktor)+(vwerte[subtext1-1]*0,2*pfaktor)+(vwerte[subtext1-1]*0,5*pfaktor);
+						}
+						$("#price").text("$ "+(Math.round(100*pricex)/100));
+						if(subtext1 == 1){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+						}else if(subtext1 == 2){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+						}else if(subtext1 == 3){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+							$("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+						}else if(subtext1 == 4){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+							$("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+							$("<option/>").val("3").text("4 Days").appendTo("#quantbox2");
+						}else if(subtext1 == 5){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+							$("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+							$("<option/>").val("3").text("4 Days").appendTo("#quantbox2");
+							$("<option/>").val("4").text("5 Days").appendTo("#quantbox2");
+						}else if(subtext1 == 6){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+							$("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+							$("<option/>").val("3").text("4 Days").appendTo("#quantbox2");
+							$("<option/>").val("4").text("5 Days").appendTo("#quantbox2");
+							$("<option/>").val("5").text("6 Days").appendTo("#quantbox2");
+						}else if(subtext1 >= 7){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+							$("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+							$("<option/>").val("3").text("4 Days").appendTo("#quantbox2");
+							$("<option/>").val("4").text("5 Days").appendTo("#quantbox2");
+							$("<option/>").val("5").text("6 Days").appendTo("#quantbox2");
+							$("<option/>").val("6").text("7 Days").appendTo("#quantbox2");
+						}
+					});
+
+				   } else if (type == "youtube_subscribes"){
+                    werte = new Array(3,5,11,14,20,35);
+                    $("#price").text("$ "+werte[0]);
+                    $("#quantbox").change(function(){
+                        var boxval1=$(this).children('option:selected').val();
+                        var subtext1 = boxval1.replace('YsPack','');
+                        var pricex = werte[subtext1-1];
+                        $("#price").text("$ "+pricex);
+                    });
+
+                   } else if (type == "instagram_likes"){
+                  	werte = new Array(4,8,20,40,80,160,320);
+					$("#price").text("$ "+werte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('InstaLikePack','');
+						var pricex = werte[subtext1-1];
+						$("#price").text("$ "+pricex);
+					});
+					} else if (type == "twitter-follower"){
+                  	werte = new Array(2.5,5,12.5,25,50,75,125);
+					$("#price").text("$ "+werte[0]);
+					$("#thisprice").val(werte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('TwitterFolPack','');
+						var temp = $(".bigbox_i span").text();
+						var inputs = 1;
+						if(temp.length > 3){
+							temp = temp.split(": ");
+							if(temp.length == 2){
+								inputs = parseFloat(temp[1]);
+							} else {
+								inputs = 1;
+							}
+						}
+						if(inputs < 1) inputs = 1;
+						var pricex = werte[subtext1-1] * inputs;
+						$("#price").text("$ "+pricex);
+						$("#thisprice").val(pricex);
+					});
+					} else if (type == "twitter-retweets"){
+                  	werte = new Array(2.5,5,12.5,25,50,75,125);
+					$("#price").text("$ "+werte[0]);
+					$("#thisprice").val(werte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('TwitterReTweetPack','');
+						var temp = $(".bigbox_i span").text();
+						var inputs = 1;
+						if(temp.length > 3){
+							temp = temp.split(": ");
+							if(temp.length == 2){
+								inputs = parseFloat(temp[1]);
+							} else {
+								inputs = 1;
+							}
+						}
+						if(inputs < 1) inputs = 1;
+						var pricex = werte[subtext1-1] * inputs;
+						$("#price").text("$ "+pricex);
+						$("#thisprice").val(pricex);
+					});
+					} else if (type == "twitter-comments"){
+                    werte = new Array(2,3,7,13,24,35,56);
+                    $("#price").text("$ "+werte[0]);
+                    $("#thisprice").val(werte[0]);
+                    $("#quantbox").change(function(){
+                        var boxval1=$(this).children('option:selected').val();
+                        var subtext1 = boxval1.replace('TwitterComPack','');
+                        var temp = $(".bigbox_i span").text();
+                        var inputs = 1;
+                        if(temp.length > 3){
+                            temp = temp.split(": ");
+                            if(temp.length == 2){
+                                inputs = parseFloat(temp[1]);
+                            } else {
+                                inputs = 1;
+                            }
+                        }
+                        if(inputs < 1) inputs = 1;
+                        var pricex = werte[subtext1-1] * inputs;
+                        $("#price").text("$ "+pricex);
+                        $("#thisprice").val(pricex);
+                    });
+                    } else if (type == "twitter-favourites"){
+                    werte = new Array(2.5,5,12.5,25,50,75,125);
+                    $("#price").text("$ "+werte[0]);
+                    $("#thisprice").val(werte[0]);
+                    $("#quantbox").change(function(){
+                        var boxval1=$(this).children('option:selected').val();
+                        var subtext1 = boxval1.replace('TwitterFavPack','');
+                        var temp = $(".bigbox_i span").text();
+                        var inputs = 1;
+                        if(temp.length > 3){
+                            temp = temp.split(": ");
+                            if(temp.length == 2){
+                                inputs = parseFloat(temp[1]);
+                            } else {
+                                inputs = 1;
+                            }
+                        }
+                        if(inputs < 1) inputs = 1;
+                        var pricex = werte[subtext1-1] * inputs;
+                        $("#price").text("$ "+pricex);
+                        $("#thisprice").val(pricex);
+                    });
+                    } else if (type == "facebook_postlikes"){
+                  	werte = new Array(2.5,5,12.5,25,50,75,125);
+					$("#price").text("$ "+werte[0]);
+					$("#thisprice").val(werte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('FacebookPostLikesPack','');
+						var temp = $(".bigbox_i span").text();
+						var inputs = 1;
+						if(temp.length > 3){
+							temp = temp.split(": ");
+							if(temp.length == 2){
+								inputs = parseFloat(temp[1]);
+							} else {
+								inputs = 1;
+							}
+						}
+						if(inputs < 1) inputs = 1;
+						var pricex = werte[subtext1-1] * inputs;
+						$("#price").text("$ "+pricex);
+						$("#thisprice").val(pricex);
+					});
+					} else if (type == "instagram_follower"){
+                  	werte = new Array(5,25,50,100,150,250);
+					$("#price").text("$ "+werte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('InstaFolPack','');
+						var pricex = werte[subtext1-1];
+						$("#price").text("$ "+pricex);
+					});
+					} else if (type == "youtube_comments"){
+                  	werte = new Array(4,8,16,32);
+					$("#price").text("$ "+werte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('YcPack','');
+						var pricex = werte[subtext1-1];
+						$("#price").text("$ "+pricex);
+					});
+                  	}  else if (type == "youtube_view_package"){
+                  	werte = new Array(5,10,20,30);
+                    cnviuregjbddfudfpobopfdb_package = new Array(5,10,20,30);
+					$("#price").text("$ "+werte[2]+"");
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('YvPPack','');
+						var pricex = werte[subtext1-1];
+                        var fprice = ''+pricex+'';
+                        var temp = fprice.split('.');
+                        if(temp.length == 2)
+                            if(temp[1].length == 1)
+                                fprice = temp[0]+'.'+temp[1]+'0';
+                            else
+                                fprice = temp[0]+'.'+temp[1].substr(0,2);
+                        else
+                            fprice = temp[0]+'.00';
+						$("#price").text("$ "+fprice);
+
+                        if(subtext1 == 1){
+                            $("#quantbox2").empty();
+                            $("<option/>").val("0").text("None").appendTo("#quantbox2");
+                        }else if(subtext1 == 2){
+                            $("#quantbox2").empty();
+                            $("<option/>").val("0").text("None").appendTo("#quantbox2");
+                            $("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+                            $("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+                        }else if(subtext1 == 3){
+                            $("#quantbox2").empty();
+                            $("<option/>").val("0").text("None").appendTo("#quantbox2");
+                            $("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+                            $("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+                            $("<option/>").val("3").text("4 Days").appendTo("#quantbox2");
+                            $("<option/>").val("4").text("5 Days").appendTo("#quantbox2");
+                        }else if(subtext1 >= 4){
+                            $("#quantbox2").empty();
+                            $("<option/>").val("0").text("None").appendTo("#quantbox2");
+                            $("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+                            $("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+                            $("<option/>").val("3").text("4 Days").appendTo("#quantbox2");
+                            $("<option/>").val("4").text("5 Days").appendTo("#quantbox2");
+                            $("<option/>").val("5").text("6 Days").appendTo("#quantbox2");
+                            $("<option/>").val("6").text("7 Days").appendTo("#quantbox2");
+                        }
+                        var y0 = -1 * (subtext1 - 5)
+                        $('body').find('#pricing-table').find('.popular-plan').removeClass('popular-plan');
+                        $('body').find('#pricing-table').find('.plan'+y0+'').addClass('popular-plan');
+                        $('#thisprice').val(buildPriceString($('body').find('#pricing-table').find('.plan'+y0+'').find('.price').text()));
+                        reCalcPrice(jQuery);
+					});
+                  	} else if (type == "youtube_views"){
+                  	vwerte = new Array(4.5,9,18,27,45,90);
+					cnviuregjbddfudfpobopfdb_views = new Array(4.5,9,18,27,45,90);
+					cnviuregjbddfudfpobopfdb_likes = new Array(3,5,11,14,20,35);
+					cnviuregjbddfudfpobopfdb_faves = new Array(0.8,1.8,3.5,6.5,14,26,49);
+					cnviuregjbddfudfpobopfdb_share = new Array(0.8,1.8,3.5,6.5,14,26,49);
+					cnviuregjbddfudfpobopfdb_gglep = new Array(0.8,1.8,3.5,6.5,14,26,49);
+					cnviuregjbddfudfpobopfdb_comen = new Array(4,8,16,32);
+					idd = 1; pfaktor = 1;
+
+					$(".theplus").click(function(){
+						if(idd>9)return(1);
+						var ttd = '<span style="font-size:0.7em">th</span>';
+						if(idd==1) ttd = '<span style="font-size:0.7em">nd</span>';
+						else if(idd==2) ttd = '<span style="font-size:0.7em">rd</span>';
+						if(idd == 1) $('#yvurl').after('<hr id="the_table_hr"/>');
+						$('#yvurl tr:last').after('<tr id="yv'+(idd+1)+'"><td style="vertical-align:middle">'+(idd+1)+ttd+'</td><td><input name="urliv'+(idd)+'" class="urliv" type="text" size="30" maxlength="200"></td></tr>');
+						idd++;pfaktor++;
+						var boxval1=$("#quantbox").children('option:selected').val();
+						var subtext1 = boxval1.replace('YvPack','');
+						var vurl1 ="";
+						var vurl2 ="";
+						if(vurl1 || vurl2 === ""){
+						var pricex = (vwerte[subtext1-1]*pfaktor);
+						} else if(typeof(vurl1 || vurl2) != "undefined"){
+						var pricex = (vwerte[subtext1-1]*pfaktor)+(vwerte[subtext1-1]*0,2*pfaktor);
+						} else if(typeof(vurl1 & vurl2) != "undefined"){
+						var pricex = (vwerte[subtext1-1]*pfaktor)+(vwerte[subtext1-1]*0,2*pfaktor)+(vwerte[subtext1-1]*0,5*pfaktor);
+						}
+						$("#price").text("$ "+(Math.round(100*pricex)/100));
+					});
+
+					$(".theminus").click(function(){
+						if(idd<2)return(1);
+						if(idd == 2) $('#the_table_hr').remove();
+						$('#yvurl tr:last').remove();
+						idd--;pfaktor--;
+						var boxval1=$("#quantbox").children('option:selected').val();
+						var subtext1 = boxval1.replace('YvPack','');
+						var vurl1 ="";
+						var vurl2 ="";
+						if(vurl1 || vurl2 === ""){
+						var pricex = (vwerte[subtext1-1]*pfaktor);
+						} else if(typeof(vurl1 || vurl2) != "undefined"){
+						var pricex = (vwerte[subtext1-1]*pfaktor)+(vwerte[subtext1-1]*0,2*pfaktor);
+						} else if(typeof(vurl1 & vurl2) != "undefined"){
+						var pricex = (vwerte[subtext1-1]*pfaktor)+(vwerte[subtext1-1]*0,2*pfaktor)+(vwerte[subtext1-1]*0,5*pfaktor);
+						}
+						$("#price").text("$ "+(Math.round(100*pricex)/100));
+					});
+
+					$("#price").text("$ "+vwerte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('YvPack','');
+						var vurl1 ="";
+						var vurl2 ="";
+						if(vurl1 || vurl2 === ""){
+						var pricex = (vwerte[subtext1-1]*pfaktor);
+						} else if(typeof(vurl1 || vurl2) != "undefined"){
+						var pricex = (vwerte[subtext1-1]*pfaktor)+(vwerte[subtext1-1]*0,2*pfaktor);
+						} else if(typeof(vurl1 & vurl2) != "undefined"){
+						var pricex = (vwerte[subtext1-1]*pfaktor)+(vwerte[subtext1-1]*0,2*pfaktor)+(vwerte[subtext1-1]*0,5*pfaktor);
+						}
+						$("#price").text("$ "+(Math.round(100*pricex)/100));
+						if(subtext1 == 1){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+						}else if(subtext1 == 2){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+						}else if(subtext1 == 3){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+							$("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+						}else if(subtext1 == 4){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+							$("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+							$("<option/>").val("3").text("4 Days").appendTo("#quantbox2");
+						}else if(subtext1 == 5){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+							$("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+							$("<option/>").val("3").text("4 Days").appendTo("#quantbox2");
+							$("<option/>").val("4").text("5 Days").appendTo("#quantbox2");
+						}else if(subtext1 == 6){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+							$("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+							$("<option/>").val("3").text("4 Days").appendTo("#quantbox2");
+							$("<option/>").val("4").text("5 Days").appendTo("#quantbox2");
+							$("<option/>").val("5").text("6 Days").appendTo("#quantbox2");
+						}else if(subtext1 >= 7){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+							$("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+							$("<option/>").val("3").text("4 Days").appendTo("#quantbox2");
+							$("<option/>").val("4").text("5 Days").appendTo("#quantbox2");
+							$("<option/>").val("5").text("6 Days").appendTo("#quantbox2");
+							$("<option/>").val("6").text("7 Days").appendTo("#quantbox2");
+						}
+					});
+					 } else if (type == "twitter"){
+                  	vwerte = new Array(1,1.8,3.6,5,7,10);
+					$("#price").text("$ "+vwerte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('TwPack','');
+						var pricex = vwerte[subtext1-1];
+						$("#price").text("$ "+pricex);
+					});
+					 } else if (type == "wordpress"){
+                  	vwerte = new Array(1,1.8,3.6,5,7,10);
+					$("#price").text("$ "+vwerte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('wpPack','');
+						var pricex = vwerte[subtext1-1];
+						$("#price").text("$ "+pricex);
+					});
+					   } else if (type == "youtube_views_geo"){
+                  	vwerte = new Array(1,1.8,3.6,5,7,10);
+					cnviuregjbddfudfpobopfdb_views = new Array(1,1.8,3.6,5,7,10);
+					cnviuregjbddfudfpobopfdb_likes = new Array(3,5,11,14,20,35);
+					cnviuregjbddfudfpobopfdb_faves = new Array(0.8,1.8,3.5,6.5,14,26,49);
+					cnviuregjbddfudfpobopfdb_share = new Array(0.8,1.8,3.5,6.5,14,26,49);
+					cnviuregjbddfudfpobopfdb_gglep = new Array(0.8,1.8,3.5,6.5,14,26,49);
+					cnviuregjbddfudfpobopfdb_comen = new Array(4,8,16,32);
+					idd = 1; pfaktor = 1;
+					
+					$("#price").text("$1 "+vwerte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('YvPack','');
+						var vurl1 ="";
+						var vurl2 ="";
+						if(vurl1 || vurl2 === ""){
+						var pricex = (vwerte[subtext1-1]*pfaktor);
+						} else if(typeof(vurl1 || vurl2) != "undefined"){
+						var pricex = (vwerte[subtext1-1]*pfaktor)+(vwerte[subtext1-1]*0,2*pfaktor);
+						} else if(typeof(vurl1 & vurl2) != "undefined"){
+						var pricex = (vwerte[subtext1-1]*pfaktor)+(vwerte[subtext1-1]*0,2*pfaktor)+(vwerte[subtext1-1]*0,5*pfaktor);
+						}
+						$("#price").text("$ "+(Math.round(100*pricex)/100));
+						if(subtext1 == 1){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+						}else if(subtext1 == 2){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+						}else if(subtext1 == 3){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+							$("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+						}else if(subtext1 == 4){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+							$("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+							$("<option/>").val("3").text("4 Days").appendTo("#quantbox2");
+						}else if(subtext1 == 5){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+							$("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+							$("<option/>").val("3").text("4 Days").appendTo("#quantbox2");
+							$("<option/>").val("4").text("5 Days").appendTo("#quantbox2");
+						}else if(subtext1 == 6){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+							$("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+							$("<option/>").val("3").text("4 Days").appendTo("#quantbox2");
+							$("<option/>").val("4").text("5 Days").appendTo("#quantbox2");
+							$("<option/>").val("5").text("6 Days").appendTo("#quantbox2");
+						}else if(subtext1 >= 7){
+							$("#quantbox2").empty();
+							$("<option/>").val("0").text("None").appendTo("#quantbox2");
+							$("<option/>").val("1").text("2 Days").appendTo("#quantbox2");
+							$("<option/>").val("2").text("3 Days").appendTo("#quantbox2");
+							$("<option/>").val("3").text("4 Days").appendTo("#quantbox2");
+							$("<option/>").val("4").text("5 Days").appendTo("#quantbox2");
+							$("<option/>").val("5").text("6 Days").appendTo("#quantbox2");
+							$("<option/>").val("6").text("7 Days").appendTo("#quantbox2");
+						}
+					});
+                  } else if (type == "google_plus_1"){
+                  	werte = new Array(1,2,4,8,16);
+					$("#price").text("$ "+werte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('GooglePlusPack','');
+						var pricex = werte[subtext1-1];
+						$("#price").text("$ "+pricex);
+					});
+
+				   } else if (type == "youtube_commentupvote"){
+                  	werte = new Array(0.8,1.8,3.5,6.5,14,26,49);
+					$("#price").text("$ "+werte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('YtbComPack','');
+						var pricex = werte[subtext1-1];
+						$("#price").text("$ "+pricex);
+					});
+
+				   } else if (type == "youtube_fav"){
+                  	werte = new Array(0.8,1.8,3.5,6.5,14,26,49);
+					$("#price").text("$ "+werte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('YtbFavPack','');
+						var pricex = werte[subtext1-1];
+						$("#price").text("$ "+pricex);
+					});
+
+				   } else if (type == "facebook_follower"){
+                  	werte = new Array(5,10,25,50,100,150,250);
+					$("#price").text("$ "+werte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('FacebookFollowerPack','');
+						var pricex = werte[subtext1-1];
+						$("#price").text("$ "+pricex);
+					});
+
+				   } else if (type == "soundcloud_play"){
+                  	werte = new Array(5,10,20,50);
+					$("#price").text("$ "+werte[0]);
+					$("#quantbox").change(function(){
+						var boxval1=$(this).children('option:selected').val();
+						var subtext1 = boxval1.replace('SoundCloudPack','');
+						var pricex = werte[subtext1-1];
+						$("#price").text("$ "+pricex);
+					});
+					$(".theplus").click(function(){
+                        if(idd>9)return(1);
+                        var ttd = '<span style="font-size:0.7em">th</span>';
+                        if(idd==1) ttd = '<span style="font-size:0.7em">nd</span>';
+                        else if(idd==2) ttd = '<span style="font-size:0.7em">rd</span>';
+                        if(idd == 1) $('#yvurl').after('<hr id="the_table_hr"/>');
+                        $('#yvurl tr:last').after('<tr id="yv'+(idd+1)+'"><td style="vertical-align:middle">'+(idd+1)+ttd+'</td><td><input name="urliv'+(idd)+'" class="urliv" type="text" size="30" maxlength="200"></td></tr>');
+                        idd++;pfaktor++;
+                        var boxval1=$("#quantbox").children('option:selected').val();
+                        var subtext1 = boxval1.replace('SoundCloudPack','');
+                        var vurl1 ="";
+                        var vurl2 ="";
+                        if(vurl1 || vurl2 === ""){
+                        aktprice = (vwerte[subtext1-1]*pfaktor);
+                        var pricex = aktprice*aktfaktor;
+                        } else if(typeof(vurl1 || vurl2) != "undefined"){
+                        aktprice = (vwerte[subtext1-1]*pfaktor)+(vwerte[subtext1-1]*0,2*pfaktor);
+                        var pricex = aktprice*aktfaktor;
+                        } else if(typeof(vurl1 & vurl2) != "undefined"){
+                        aktprice = (vwerte[subtext1-1]*pfaktor)+(vwerte[subtext1-1]*0,2*pfaktor)+(vwerte[subtext1-1]*0,5*pfaktor);
+                        var pricex = aktprice*aktfaktor;
+                        }
+                        $("#price").text("$ "+(Math.round(100*pricex)/100));
+                    });
+
+                    $(".theminus").click(function(){
+                        if(idd<2)return(1);
+                        if(idd == 2) $('#the_table_hr').remove();
+                        $('#yvurl tr:last').remove();
+                        idd--;pfaktor--;
+                        var boxval1=$("#quantbox").children('option:selected').val();
+                        var subtext1 = boxval1.replace('SoundCloudPack','');
+                        var vurl1 ="";
+                        var vurl2 ="";
+                        if(vurl1 || vurl2 === ""){
+                        aktprice = (vwerte[subtext1-1]*pfaktor);
+                        var pricex = aktprice*aktfaktor;
+                        } else if(typeof(vurl1 || vurl2) != "undefined"){
+                        aktprice = (vwerte[subtext1-1]*pfaktor)+(vwerte[subtext1-1]*0,2*pfaktor);
+                        var pricex = aktprice*aktfaktor;
+                        } else if(typeof(vurl1 & vurl2) != "undefined"){
+                        aktprice = (vwerte[subtext1-1]*pfaktor)+(vwerte[subtext1-1]*0,2*pfaktor)+(vwerte[subtext1-1]*0,5*pfaktor);
+                        var pricex = aktprice*aktfaktor;
+                        }
+                        $("#price").text("$ "+(Math.round(100*pricex)/100));
+                    });
+				   };
+              });
+			  function XCRound(x, n) {
+  if (n < 1 || n > 14) return false;
+  var e = Math.pow(10, n);
+  var k = (Math.round(x * e) / e).toString();
+  if (k.indexOf('.') == -1) k += '.';
+  k += e.toString().substring(1);
+  return k.substring(0, k.indexOf('.') + n+1);
+}
+          </script>
+<!-- All in One SEO Pack 2.1 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<link rel="author" href="http://SebastianCeo">
+<meta name="description" content="Privacy Policy What information do we collect? We collect information from you when you register on our site, place an order, subscribe to our newsletter or">
+<meta name="robots" content="noindex,follow">
+
+<link rel="canonical" href="http://getaccounts.org/privacy-policy">
+<!-- /all in one seo pack -->
+
+	<style type="text/css">
+
+	
+		#site-title,
+
+		#site-description {
+
+			position: absolute !important;
+
+			clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+
+			clip: rect(1px, 1px, 1px, 1px);
+
+		}
+
+	
+	</style>
+
+	
+		<style media="print" type="text/css">
+			div.faq_answer {display: block!important;}
+			p.faq_nav {display: none;}
+		</style>
+
+	 
+<script src="http://getaccounts.org/xcShop.js"></script>
+</head>
+<body id="background-703" class="page-offer"><div id="page-product" class="hfeed">
+	<header id="branding-product" role="banner">
+<nav id="access" role="navigation">
+<div class="logo"><a class="logo-front" href="http://getaccounts.org"><img src="http://i.imgur.com/MNkTsp4.png" alt="Getaccounts Logo"></a></div>
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a>Accounts</a>
+<ul class="sub-menu">
+	<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="http://getaccounts.org/pva-youtube-accounts">Youtube</a></li>
+</ul>
+</li>
+<li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a>Social Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-679"><a>YouTube</a>
+	<ul class="sub-menu">
+		<li id="menu-item-973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-973"><a href="http://getaccounts.org/youtube-views">High Retention Views</a></li>
+		<li id="menu-item-985" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-985"><a href="http://getaccounts.org/youtube-likes">Video Likes</a></li>
+		<li id="menu-item-1004" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1004"><a href="http://getaccounts.org/youtube-comments">Comments</a></li>
+		<li id="menu-item-986" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-986"><a href="http://getaccounts.org/youtube-subscriber">Subscriber</a></li>
+		<li id="menu-item-1040" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1040"><a href="http://getaccounts.org/youtube-packages">Packages</a></li>
+	</ul>
+</li>
+	<li id="menu-item-991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-991"><a>Facebook</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1027" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1027"><a href="http://getaccounts.org/facebook-likes">Fanpage Likes</a></li>
+		<li id="menu-item-1005" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1005"><a href="http://getaccounts.org/facebook-statuspostimage-likes">Photo/Post Likes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-682"><a>Twitter</a>
+	<ul class="sub-menu">
+		<li id="menu-item-683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-683"><a href="http://getaccounts.org/twitter-followers">Followers</a></li>
+		<li id="menu-item-684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-684"><a href="http://getaccounts.org/twitter-retweets">Retweets</a></li>
+		<li id="menu-item-1022" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1022"><a href="http://getaccounts.org/twitter-tweet-favorites">Favorites</a></li>
+	</ul>
+</li>
+	<li id="menu-item-988" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-988"><a>Instagram</a>
+	<ul class="sub-menu">
+		<li id="menu-item-995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-995"><a href="http://getaccounts.org/instagram-likes">Photo Likes</a></li>
+		<li id="menu-item-989" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-989"><a href="http://getaccounts.org/instagram-followers">Followers</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1030" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1030"><a>Soundcloud</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1031" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1031"><a href="http://getaccounts.org/soundcloud-plays">Plays</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a>Software</a>
+<ul class="sub-menu">
+	<li id="menu-item-296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-296"><a href="http://getaccounts.org/backlink-checker">Backlink Checker</a></li>
+	<li id="menu-item-285" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-285"><a href="http://getaccounts.org/tumbscrape">TumbScrape</a></li>
+</ul>
+</li>
+<li id="menu-item-996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-996"><a href="http://bit.ly/1oKugha">Buy Proxies</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="http://getaccounts.org/support">Support</a></li>
+</ul></div>			<div id="xc_ShCrd"><!--- This will be the card output --></div>
+			</nav><!-- #access -->
+		
+				</header><!-- #branding -->
+<!--
+ <div id="note">
+ 	<b>
+We are aware that YouTube are views very slow in delivery, we put them on hold, <br/> if you need a refund for your campaign please contact our via Skype or Live Chat on the website support for instant refund.
+    </b>
+   </a>
+</div>
+-->
+	<div id="main">
+		
+
+		<div itemscope="" itemtype="http://schema.org/Product" id="primary-product">
+			<div id="content-product" role="main">
+
+				
+		<div id="post-703" class="post-703 page type-page status-publish hentry">
+		<header class="entry-header">
+						
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><strong>Privacy Policy</strong></p>
+<div style="font-segoe ui"><strong>What information do we collect?</strong> <p></p>
+<p>We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.  </p>
+<p>When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or credit card information. You may, however, visit our site anonymously.</p>
+<p><strong>What do we use your information for?</strong> </p>
+<p>Any of the information we collect from you may be used in one of the following ways: </p>
+<p>; To personalize your experience<br>(your information helps us to better respond to your individual needs)</p>
+<p>; To improve our website<br>(we continually strive to improve our website offerings based on the information and feedback we receive from you)</p>
+<p>; To improve customer service<br>(your information helps us to more effectively respond to your customer service requests and support needs)</p>
+<p>; To process transactions<br>
+</p><blockquote>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.<p></p></blockquote>
+<p>; To administer a contest, promotion, survey or other site feature</p>
+<p>; To send periodic emails<br>
+</p><blockquote>The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.<p></p></blockquote>
+<p>Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</p>
+<p><strong>How do we protect your information?</strong> </p>
+<p>We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. </p>
+<p>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.</p>
+<p>After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 30 days.</p>
+<p><strong>Do we use cookies?</strong> </p>
+<p>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information</p>
+<p> We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
+<p>If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.</p>
+<p><strong>Do we disclose any information to outside parties?</strong> </p>
+<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+<p><strong>Third party links</strong> </p>
+<p> Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
+<p><strong>California Online Privacy Protection Act Compliance</strong></p>
+<p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>
+<p><strong>Childrens Online Privacy Protection Act Compliance</strong> </p>
+<p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+<p><strong>Online Privacy Policy Only</strong> </p>
+<p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+<p><strong>Terms and Conditions</strong> </p>
+<p>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a href="http://getaccounts.org/conditions-of-use">http://getaccounts.org/conditions-of-use</a></p>
+<p><strong>Your Consent</strong> </p>
+<p>By using our site, you consent to our <a style="text-decoration:none; color:#3C3C3C;" href="http://www.freeprivacypolicy.com/" target="_blank">online privacy policy</a>.</p>
+<p><strong>Changes to our Privacy Policy</strong> </p>
+<p>If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. </p>
+<p>This policy was last modified on 22.10.2013</p>
+<p><strong>Contacting Us</strong> </p>
+<p>If there are any questions regarding this privacy policy you may contact us using the information below. </p>
+<p>http://getaccounts.org<br>Buttergasse 23<br>Leipzig, Sachsen 04249<br>Deutschland<br>support@getaccounts.org</p>
+<p><span></span><span></span><span></span><span></span><span></span></p>
+					</div><!-- .entry-content -->
+		
+		<div class="entry-meta">
+						
+			
+								
+					<div id="comments">
+	
+	
+	
+									
+</div><!-- #comments -->
+</div>
+</div>
+			</div><!-- #content -->
+		</div><!-- #primary -->
+</div>
+
+	</div><!-- #main -->
+</div><!-- #page -->
+
+	<footer id="colophon" role="contentinfo">
+		<div class="footer-links">
+<ul>
+<li><a href="http://getaccounts.org"><img class="footer-logo" alt="Getaccounts Logo" src="http://i.imgur.com/MNkTsp4.png"></a></li>
+<li><a href="http://getaccounts.org/about">About</a></li>	
+<li><a href="http://getaccounts.org/contact">Email us</a></li>	
+<li><a href="skype:getaccounts.org?chat">Skype</a></li>
+<li><a href="http://eepurl.com/ExW7T">Newsletter</a></li>	
+<li><a href="http://getaccounts.org/conditions-of-use">Conditions of Use</a></li>
+<li><a href="http://getaccounts.org/privacy-policy">Privacy Policy</a></li>	
+</ul>
+<p style="width: 960px;margin:0 auto;font-size:10px;margin-top: 15px;"><span style="float:left;">DISCLAIMER: This site is neither endorsed, sponsored by, nor affiliated with Google,Gmail,Youtube,Tumblr,Wordpress,Instagram, Twitter,Facebook or Yahoo.
+We are not the direct source of account creation, and act only as resellers. We are only working as a public relation service and we are not responsible for any Terms of Service or spam policy violations made by our customers. Getaccounts is just providing a service as promised for a fee.
+</span></p>
+</div>
+			
+
+			
+	</footer><!-- #colophon -->
+<script type="text/javascript" src="http://getaccounts.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.39.0-2013.07.31"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/getaccounts.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://getaccounts.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.5.1"></script>
+
+
+</body></html>
