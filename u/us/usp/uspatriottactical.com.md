@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the uspatriottactical.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022052347id_/http%3A//www.uspatriottactical.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspatriottactical.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104345id_/http%3A//uspatriottactical.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Security
-
-**  
-Privacy & Security**
+# US Patriot Privacy Policy
 
 This Privacy Policy governs the manner in which USPatriottactical.com and NextDayUniforms.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.USPatriottactical.com](http://www.uspatriottactical.com/) and [http://www.NextDayUniforms.com](http://www.nextdayuniforms.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Patriot Jack's Outfitters.
 
@@ -82,4 +79,4 @@ Columbia, SC 29210
 
 [admin@uspatriottactical.com](mailto:admin@uspatriottactical.com)
 
-This document was last updated on December 07, 2010
+This document was last updated on October, 31, 2013
