@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the feedingamerica.org privacy policy that was archived on 2013-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131230211234id_/http%3A//feedingamerica.org/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the feedingamerica.org privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625103431id_/http%3A//feedingamerica.org/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     <!-- head_title -->
@@ -118,7 +118,8 @@
 
       var cookieValue = readCookie('homepagetakeover');
       var redirectUrl = 'http://help.feedingamerica.org/site/Donation2?df_id=17341&amp;17341.donation=form1&amp;s_onsite_promo=W13C31XTO';
-     
+         $.browser.chrome = /chrom(e|ium)/.test(navigator.userAgent.toLowerCase());
+
 
      
         if (optStartDate != '' && optEndDate != '' && today.getTime() > takeoverStart.getTime() && takeoverEnd.getTime() > today.getTime() && cookieValue == null) {
@@ -127,7 +128,12 @@
           if (redirectUrl != null && redirectUrl != '') { 
             _gaq.push(['_trackEvent', 'Redirect', 'Redirect']);
              redirectUrl = redirectUrl.replace(/&amp;/g, '&');
-            window.location = redirectUrl;
+            if($.browser.chrome)
+            {
+                  setTimeout(function () { window.location.href = redirectUrl; },100);
+            }
+            else
+              window.location = redirectUrl;
           }
           else {
             window.takeover = true;
@@ -314,179 +320,92 @@ PageMethods.GetConvioUserName= function(cons_id,onSuccess,onFailed,userContext) 
 </div>
             <!-- //////////// SUBLAYOUT for overlay content //////////// -->
             
-<!--overlay_sublayout--><style type="text/css">.overlaySplash { border-top-width: medium; border-left-width: medium; z-index:10000; filter:alpha(opacity=70);-moz-opacity:.70;opacity:.70; left: 1px; background: #333; visibility: hidden; display: none; border-bottom-width: medium; width: 100%; position: absolute; top: 1px; height: 1600px; border-right-width: medium; }
-.overlaySplashinner {left:50%; margin-left:-359px;  z-index: 10001; position: absolute; top: 76px; height:550px; width: 790px; border:0; border-width:0 2px 2px 0;}
+<!--overlay_sublayout-->
+ <style type="text/css">
+    .overlaySplash { border-top-width: medium; border-left-width: medium; z-index:10000; filter:alpha(opacity=50);-moz-opacity:.50;opacity:.50; left: 1px; background: #000; border-bottom-width: medium; width: 100%; position: absolute; top: 1px; height: 1600px; border-right-width: medium; opacity: .5;}
 
+.overlaySplashinner {left:50%; margin-left:-350px; z-index: 10001; position:absolute; top: 75px; height:563px; width: 687px; background:none;  }
 
-#image-donate-link { position:absolute; top:10px; left:10px; width:650px; height:400px; }
-#image-donate-link a { display:block; width:650px; height:400px; }
+.overlayContent h3, .overlayContent p {text-indent:-9999px;}
+#overlayClose { float: right; display:block; width: 40px; height: 40px; border: 0; top:0; right:0; }
+.overlayCloseButtons #noThanks {float:left; font-weight:normal; padding:25px 0 0 25px; color:#fff;}
+#give-today {position:absolute; bottom:24px; right:30px;}
+   
+.leftcol {float:left; width:254px; padding-right:20px;}
 
-#overlay-copy {position:absolute; top:240px; left:6px;}
-#overlayClose {margin:-25px -15px 0 0; padding-left:6px; width:50px;float: right;
-  line-height:22px; text-transform: uppercase; color:#eb8423 !important; font-weight: bold;
-  background:transparent; }
-#overlayClose img {padding-left:3px; display:inline; float:right;}
-#give-today {position:absolute; bottom:65px; right:487px; z-index:9000;}
-.overlaySplashinner .message {position:absolute; bottom: 80px; left:40px;
-  font-size:18px; color:#fff; font-weight:bold;}
-#faGiftAmount {width:380px;}
-.overlaySplashinner .overlay-mini-form {padding:40px 4% 12px; width:92%; bottom:16px; left:0; display:none;
-  background:#536827; position:absolute;}
-.overlaySplashinner iframe{position: relative; z-index: 50;}
-.overlaySplashinner form {padding:10px 14px;}
-.radio {margin-right:15px; width:69px; float:left; position:relative;}
-.radio input {margin:0 auto 16px; display:block;}
-.radio:last-child input {margin-bottom:2px;}
-.radio label {margin:0 auto; display:block;
-  font-weight:bold; font-size:16px; color:#fff; text-align:center;}
-.radio:last-child label {font-size:11px; font-weight:normal;}
-.radio label .value {margin-top:4px;
-  font-weight:normal; font-size:11px; display:block;}
-#other {position:absolute; top:30px; width:65px;}
-#other {top:46px\9;}</style><script type="text/javascript">
-        //optimizely.push(['trackEvent', 'View_Overlay']);
+.overlayContent{position: relative; height:563px; width:687px;}
+#overlayClose {width: 20px; height: 20px; position: absolute; right: 13px; top: 13px;}
 
-        function clearField(thisField) {
-          thisField.value="";
-        }
+#give-today { display:block; bottom:44px; height:60px; width:270px; right:76px; }
 
-        function readCookie(name) {
-          var nameEQ = name + "=";
-          var ca = document.cookie.split(';');
-          for(var i=0;i < ca.length;i++) {
-            var c = ca[i];
-            while (c.charAt(0)==' ') c = c.substring(1,c.length);
-            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-          }
-          return null;
-        }
+.overlayCloseButtons{position: absolute; right: 147px; bottom: 42px;}
+.overlayCloseButtons a:hover{color: #2D7A39 !important}
 
-        function hideSplashForToday() {
-          document.getElementById('overlaySplash').style.visibility='hidden';
-          document.getElementById('overlaySplashinner').style.visibility='hidden';
-          document.getElementById('overlaySplash').style.display='none';
-          document.getElementById('overlaySplashinner').style.display='none';
-          newCookieExpireAtHourNextDay('2013-CYE-NonMatch','overlayVisit',2);
-        }
+#daysleft { position: absolute; top: 97px; left: 332px; z-index: 20000; font-size: 30px; color: #fff; font-family: verdana, sans-serif; font-weight: bold; }
 
-        $(function(){
-            $('#overlayClose').click(function(e){
-              e.stopPropagation();
-              $('#overlaySplash').hide();
-              $('#overlaySplashinner').hide();
-              _gaq.push(['_trackEvent','Overlay', 'Click', 'Closed']);
-              newCookieExpireAtHourNextDay('2013-CYE-NonMatch','overlayVisit',2);
-           });
+.singleDigit { color: #E98300; font-size: 37px; font-weight: bold; left: 25px; position: relative; text-align: right; text-indent:0 !important; top: 387px; width: 45px; }
+.doubleDigit { color: #E98300; font-size: 37px; font-weight: bold; left: 27px; position: relative; text-align: right; text-indent: 0 !important; top: 388px; width: 45px; }
 
-           $('#give-today').click(function(e){
-        
-            _gaq.push(['_trackEvent','Overlay', 'Click', 'Donate']);
-        
-          });
-        });
+.noDigit { display:none; }
 
-        function hideSplash() {
-        document.getElementById('overlaySplash').style.visibility='hidden';
-        document.getElementById('overlaySplashinner').style.visibility='hidden';
-        document.getElementById('overlaySplash').style.display='none';
-        document.getElementById('overlaySplashinner').style.display='none';
-        }
+.overlayClose img, #give-today img { display:none; }
+</style>
 
-        function remindSplash() {
-        document.getElementById('overlaySplash').style.visibility='hidden';
-        document.getElementById('overlaySplashinner').style.visibility='hidden';
-        document.getElementById('overlaySplash').style.display='none';
-        document.getElementById('overlaySplashinner').style.display='none';
-        }
+ <div class="overlaySplash" id="overlaySplash"></div>
+ <div class="overlaySplashinner" id="overlaySplashinner" style="background-image: url(~/media/Images/Overlay/2014/FYE/FA-FY14FYE-Overlay-match-countdown.ashx);">
+     <div class="overlayContent">
+        <a href="#" id="overlayClose" title="Close overlay" name="overlayClose">
+            <img src="~/media/Images/Overlay/2014/FYE/transparent.ashx" alt="Close">
+        </a>
 
-        function showSplash() {
-        document.getElementById('overlaySplash').style.visibility='visible';
-        document.getElementById('overlaySplashinner').style.visibility='visible';
-        document.getElementById('overlaySplash').style.display='block';
-        document.getElementById('overlaySplashinner').style.display='block';
-         if($('a#give-today').length > 0  && '' === '' ){
-        $('#overlaySplashinner').click(function (){
+        <p id="overlay-copy" class="singleDigit">4</p>
+        <a href="https://secure.feedingamerica.org/site/Donation2?df_id=18781&amp;18781.donation=form1&amp;s_onsite_promo=W14611XOL" title="Give Today!" id="give-today" name="give-today">
+        <img src="~/media/Images/Overlay/2014/FYE/transparent.ashx" alt="Donate" width="185" height="43"></a>
+
+        <span style="display: none;"><label for="denySubmit">Spam Control Text:</label>
+        <input name="denySubmit" id="denySubmit" alt="This field is used to prevent form submission by scrispts." type="text"></span>
+        <p class="hide"><span style="display: none;">Please leave this field empty</span></p>
+    </div><!--end overlay content-->
+</div><!--end overlaySplashinner-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<script type="text/javascript" src="/sitefiles/js/overlay.js"></script>
+
+<script type="text/javascript">
+function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i < ca.length; i++) {
+      var c = ca[i];
+      while (c.charAt(0)==' ') c = c.substring(1,c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+}
+
+$(document).ready( function() {
+    $('#overlayClose').on('click', function(){
+        overlay.hideSplashForToday();
+        _gaq.push(['_trackEvent','Overlay', 'Click', 'Closed']);
+    });
+
     
-        _gaq.push(['_trackEvent','Overlay', 'Click', 'Donate']);
+    var splashValue = readCookie('FiscalYearEnd14');
+    if (splashValue != 'overlayVisit') {
+        overlay.showSplash();
+        overlay.newCookieExpireAtHourNextDay('FiscalYearEnd14', 'overlayVisit', 2);
+    }
+
+    if (splashValue == 'overlayVisit') {
+        overlay.hideSplash();
+    }
     
-        window.location = $('#give-today').attr('href');
-        });
+});
+</script>
 
-        $(document).keypress(function(e) {
-        if(e.which == 13) {
-        if($('#overlaySplash').is(':visible')){
-        window.location = $('a#give-today').attr('href');
-        e.preventDefault();
-        return false;
-        }
-        }
-        });
-        $("input#other").keydown(function(e) {
-        if(e.which == 13){
-        window.location = $('a#give-today').attr('href');
-        e.preventDefault();
-        return false;
-        }
-        });
-        }
-        }
 
-        function newCookieExpireAtHourNextDay(name,value,hourNextDay /* 0 - 24 */) {
-        // get current hour, add till midnight + 2 more
-        if (hourNextDay) {
-        var date = new Date();
-        var minutesToRemove = date.getMinutes();
-        var hoursToAdd = 24 - date.getHours() + hourNextDay;
-        date.setTime(date.getTime()+((hoursToAdd*60-minutesToRemove)*60*1000));
-        var expires = "; expires="+date.toGMTString();
-        }
-        else var expires = "";
-        document.cookie = name+"="+value+expires+"; path=/; host=http://feedingamerica.org/;";
-        }
-
-        var overlayDisplayed = true;
-
-        _gaq.push(['_trackEvent', 'Overlay', 'InnerPage', '', true]);
-      </script><div id="overlaySplash" style="visibility: visible; display: block;" class="overlaySplash"></div><div id="overlaySplashinner" class="overlaySplashinner" style="background: url(&quot;~/media/Images/Overlay/2013/FA-YE2013-overlay-nomatch.ashx&quot;) no-repeat; visibility: visible; display: block;"><div class="overlayContent"><a id="overlayClose" href="#" title="Close overlay"><img src="~/media/Images/Overlay/2013/FA-YE2013-overlays-close.ashx" alt="" width="53" height="54"></a><p id="overlay-copy"></p><div id="image-donate-link"><a href="http://help.feedingamerica.org/site/Donation2?df_id=17341&amp;17341.donation=form1&amp;s_onsite_promo=W13C21XOL"> </a></div><p></p><a href="http://help.feedingamerica.org/site/Donation2?df_id=17341&amp;17341.donation=form1&amp;s_onsite_promo=W13C21XOL" id="give-today"><img src="~/media/Images/Overlay/2013/FA-YE2013-overlay-btn-nomatch.ashx" alt="" width="276" height="58"></a><span style="display: none;"><label for="denySubmit">Spam Control Text:</label><input id="denySubmit" name="denySubmit" alt="This field is used to prevent form submission by scripts." type="text"><p class="hide">Please leave this field empty</p></span></div><!--end overlay content--></div><!--end overlaySplashinner--><script type="text/javascript">
-          var splashValue = readCookie('2013-CYE-NonMatch');
-          if (splashValue!='overlayVisit') {
-            showSplash();
-            newCookieExpireAtHourNextDay('2013-CYE-NonMatch','overlayVisit',2);
-          }
-
-          if (splashValue=='overlayVisit')  {
-              hideSplash();
-          }
-        </script><script type="text/javascript">
-        function updateconviolink(radio_opt)
-        {
-          var convio_url = jQuery('#' + radio_opt.id).closest('.overlayContent').find('a#give-today').attr('href');
-          // uses querystring.js
-          var qs = new Querystring(convio_url);
-          qs.remove("set.Value");
-          //qs.remove("set.DonationLevel");
-          if(radio_opt.value != "")
-            qs.set("set.DonationLevel", radio_opt.value);
-          jQuery('#' + radio_opt.id).closest('.overlayContent').find('a#give-today').attr('href',qs.toAbsoluteUrl());
-        }
-
-        function updateconviolinkvalue(other_text)
-        {
-          var convio_url = jQuery('#' + other_text.id).closest('.overlayContent').find('a#give-today').attr('href');
-          // uses querystring.js
-          var qs = new Querystring(convio_url);
-          qs.remove("set.DonationLevel");
-          // get input siblings and do arthificial "click" on the "other" radio
-          var other_radio = jQuery('#' + other_text.id).prev().prev();
-          other_radio.trigger('click');
-          qs.set("set.DonationLevel", other_radio.val());
-          var value = jQuery('#' + other_text.id).val();
-          if (!isNaN(value)) {
-            qs.set("set.Value", value * 100);
-          }
-          jQuery('#' + other_text.id).closest('.overlayContent').find('a#give-today').attr('href',qs.toAbsoluteUrl());
-        }
-      </script>
+<script type="text/javascript">
+    //alert('Testing Date: 1/1/0001');
+</script>
             <!-- #page -->
         </div>
         <div id="ctl1">
@@ -555,7 +474,7 @@ PageMethods.GetConvioUserName= function(cons_id,onSuccess,onFailed,userContext) 
             <img src="/sitefiles/images/footer-bbb-logo.png" alt="">
         </a>
     </span>
-    ©2013 Feeding America. All rights reserved.
+    ©2014 Feeding America. All rights reserved.
         <p>
             Whenever reading a client's story, the image depicted is of the actual person being referenced.
             <br>Other images are models for illustrative representation purposes only.
