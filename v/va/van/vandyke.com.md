@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vandyke.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214162515id_/http%3A//www.vandyke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandyke.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102136id_/http%3A//www.vandyke.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
 | 
 
-**Last updated:** May 4, 2005    
+**Last updated:** June 9, 2014    
   
 ---|---  
   
@@ -23,8 +23,6 @@ Our web site may contain links to other web sites. Please be aware that we are n
 VanDyke Software uses collected information as follows:
 
 **Order Forms:** When you order, we require users to give contact information (like your name and email address) and financial information (like your account or credit card numbers). Customer contact information from the order form is used to communicate with customers about order status and to verify identity during support and customer service requests. Financial information is used solely for the purpose of billing the user for products.
-
-In European Union (EU) countries, all online transactions are handled by Digital River, Inc. on behalf of VanDyke Software. We have partnered with Digital River to ensure we are compliant with EU regulations regarding privacy of customer information. Digital River operates under a clear and comprehensive [privacy policy](http://www.digitalriver.com/corporate/privacy.shtml).
 
 **User Surveys:** Your participation in surveys is optional. We, or an authorized agent, may ask you for information regarding your experience with our software or web sites, or to provide demographic information such as age, gender, or areas of interest. We use this information to help us improve our software, plan marketing initiatives, and develop new products that may interest you.
 
