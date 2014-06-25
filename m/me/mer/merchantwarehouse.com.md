@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merchantwarehouse.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226154556id_/http%3A//merchantwarehouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantwarehouse.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070251id_/http%3A//merchantwarehouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ We also collect the information required to process product orders on the Site. 
 
 **_Gateway Services_**
 
-When you register to use Merchant Warehouse’s online processing services, or ‘Gateway Services’, you will be required to provide personally identifiable information and enter into a written agreement with Merchant Warehouse. If you order any products or services from businesses, or ‘Customers’ that use our Gateway Services, you may be  required to submit personally identifiable information for the purpose of processing orders.
+When you register to use Merchant Warehouse’s online [processing](http://merchantwarehouse.com/credit-card-processing "processing") services, or ‘Gateway Services’, you will be required to provide personally identifiable information and enter into a written agreement with Merchant Warehouse. If you order any products or services from businesses, or ‘Customers’ that use our Gateway Services, you may be  required to submit personally identifiable information for the purpose of processing orders.
 
 **_Merchant Account Applications_**
 
