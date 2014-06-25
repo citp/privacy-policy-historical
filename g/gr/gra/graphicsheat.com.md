@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicsheat.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211001710id_/http%3A//graphicsheat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsheat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071525id_/http%3A//graphicsheat.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Graphicsheat
 
