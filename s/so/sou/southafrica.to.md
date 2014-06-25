@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the southafrica.to privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202160005id_/http%3A//www.southafrica.to/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southafrica.to privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111301id_/https%3A//www.southafrica.to/privacy.php) for the most accurate reproduction.*
 
-# Cheap flights, car rentals, hotels, cruises & ballooning
+# SouthAfrica Travel Online Privacy Policy
 
 1 Aug 2009. At SouthAfrica.TO (South Africa Travel Online) we recognize that it is important to disclose a privacy policy. This page outlines the types of personal information we receive and collect when you use SouthAfrica.TO's services.
 
