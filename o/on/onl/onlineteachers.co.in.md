@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the onlineteachers.co.in privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101143842id_/http%3A//www.onlineteachers.co.in/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineteachers.co.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111107id_/http%3A//onlineteachers.co.in/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - onlineteachers.co.in
 
-##  [ Privacy Policy](http://www.onlineteachers.co.in/privacy-policy)
+##  [ Privacy Policy](http://onlineteachers.co.in/privacy-policy)
 
 Details
-     Category: [Website Related Information](http://www.onlineteachers.co.in/website-information)
+     Category: [Website Related Information](http://onlineteachers.co.in/website-information)
      Published on Saturday, 28 July 2012 06:28 
      Written by Super User 
-     Hits: 2194 
+     Hits: 3223 
 
 Onlineteachers.co.in has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and usage practices. Onlineteachers.co.in does not sell or rent your personal identification to third parties. This policy is meant for all the content published in the site.
 
