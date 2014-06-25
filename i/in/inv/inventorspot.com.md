@@ -1,72 +1,113 @@
-> *The following text is extracted and transformed from the inventorspot.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013224559id_/http%3A//inventorspot.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventorspot.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050709id_/http%3A//inventorspot.com/privacypolicy) for the most accurate reproduction.*
 
 # InventorSpot.com Privacy Policy
 
-The Site Host, through its Privacy Policy statement is notifying you of: 
+Your privacy is important to us and we have prepared this Privacy Policy to explain to you how we collect, use, and share information we obtain through your use of the Internet sites, applications and services (“Services”) that are operated by, controlled by or are affiliated with Halcyon Solutions Inc., including without limitation InventorSpot.com  (collectively, “we,” “us” or “our”). 
 
-  * What personally identifiable information of yours or third party personally identification is collected from you through the web site 
-  * The organization collecting the information 
-  * How the information is used 
-  * With whom the information may be shared 
-  * What choices are available to you regarding collection, use and distribution of the information 
-  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Site Host’s control 
-  * How you can correct any inaccuracies in the information. 
+This Privacy Policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through the Services. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. **By using the Services, you explicitly consent to such use of your information and agree to the terms of this Privacy Policy.**
 
+##     Information We Automatically Collect
 
+    We automatically collect certain information to help us understand how our users use the Services (“Usage Data”). For example, each time you visit the Services we may automatically collect your IP address, browser and computer type, access time, the Web page you came from, the URL you go to next, and the Web page(s) that you access during your visit.
 
-**Information Collection and Use**
+    We will use such Usage Data to diagnose potential problems with our Services, to administer the Services, and to gather demographic information. Our third-party advertising networks and servers will also provide us reports that will tell us how many ads were presented and clicked on the Services in a manner that does not identify personally any individual.
 
-The Site Host is the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Site Host collects information from our users at several different points on our website. 
+##     Information You Choose To Submit To Us
 
-**Registration**
+    You can visit the Services without telling us who you are or by revealing any information by which someone could personally identify you ( “Personal Information”). If, however, you wish to register to become a member of the Services, you are required to provide certain Personal Information (e.g., your name and e-mail address), and we ask that you also provide a user name and password. We use your Personal Information to fulfill your requests for products and services, to improve our Services, and to contact you from time to time about us, and our products and services. You may also choose to submit additional information about yourself (for example your gender, birth date, or zip code) by which someone could not personally identify you (“Non-Personal Information”). We may also collect additional information about you when you visit certain features of the Services . Finally, you may choose to submit your alias, bio, email, photos or any other information that you would like to share with other users of the Services (“Shared Information”).
 
-In order to use certain parts of this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. 
+##     Our Information Sharing Practices
 
-**Inventor’s Gallery**
+    (a) Generally. Except as otherwise described in this section of our Privacy Policy, we will never share your Usage Data, Personal Information, Non-Personal Information, or Shared Information (which we will refer to in this Privacy Policy collectively as “User Information”) with any third party without your permission.
 
-We request information from the user on Inventor’s Gallery. Here a user must provide contact information (like name and email information) and information about their invention. This information is used solely to present the information in the Inventor’s Gallery. 
+    (b) Advertisers. From time to time, we may share your Usage Data and Non-Personal Information to enable third parties who serve advertisements on the Services to deliver advertisements that will be relevant to you. We will not share any such information, however, in a manner that would enable the advertiser to personally identify you.
 
-**Cookies**
+    (c) Aggregated Data. From time to time, we may share aggregated User Information with third parties. We will not share any aggregated data, however, in manner that would enable the recipient to personally identify you.
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user may be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners use cookies on our site (for example, advertisers). 
+    (d) Service Providers. From time to time, we may enter into relationships with third parties who provide services to us (e.g., data management and storage services or credit card processing services). In those circumstances, we disclose User Information that is necessary for such service providers to perform those services and require that they maintain the confidentiality of such User Information.
 
-We have contracted with certain companies to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, these commpanies may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by these companies, please contact us. 
+    (e) Other Disclosure Scenarios. Notwithstanding anything in this Privacy Policy to the contrary, we reserve the right, and you hereby expressly authorize us, to share any User Information: (1) in response to subpoenas, court orders, or legal process, or to establish, protect, or exercise our legal rights or defend against legal claims; (2) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person or property; (3) if we believe it is necessary to investigate, prevent, or take action regarding significant abuse of the Services’ infrastructure or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of information); (4) to our parent company, subsidiaries, joint ventures, or other companies under common control with us (in which case we will require such entities to honor this Privacy Policy); and (5) if we are acquired by or merged with another entity.
 
- **Log Files**
+##  Public Information
 
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+    If you identify any User Information as public, you are authorizing us to share such information publicly. For example, you may elect to make certain Shared Information (such as your alias, bio, email or photos) publicly available. Also, there may be areas of the Services (e.g., message boards, discussion rooms, and other online forums) in which you are able to post information that will be available to all other users of the Services. By choosing to use these areas, you understand and agree that anyone may access, use, and disclose any information that you post to those areas.
 
-**Sharing**
+##     Cookies
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
+    We may set and access cookies on your computer. Upon your first visit to the Services, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer and stored on your hard drive when you visit a website. Many major Web services use cookies to provide useful features for their users. Each web site can send its own cookie to your browser. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent; however if you reject cookies, you will not be able to sign in to the Services or take full advantage of our Services.
 
-**Links**
+    We uses cookies for the following general purposes: (a) to track your preferences, such as the address or local zip code you enter; (b) to access your information when you sign in so we can provide you with your personalized content; (c) to display the most appropriate advertisements, based on your interests and activity on our Services; and (d) to help us improve the Services by analyzing and estimating our traffic and use of features on the Services.
 
-This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+    We may also use "pixel tags," which are small graphic files that allow us to monitor the use of the Services. A pixel tag can collect information such as the IP address of the computer that downloaded the page on which the tag appears; the URL of the page on which the pixel tag appears; the time (and length of time) the page containing the pixel tag was viewed; the type of browser that retrieved the pixel tag; and the identification number of any cookie previously placed by that server on your computer.
 
- **Third Party Advertisers**  
+    We may use pixel tags, either provided by us or by our third party advertisers and ad networks, to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and Services and use them in combination with our cookies to provide offers and information of interest to you.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+    We also may allow certain analytic services and providers of applications used on the Services (e.g., sharing buttons) to collect Non-Personally Identifiable information by placing cookies on the Services that will track certain performance of our Services, such as, web traffic, click-throughs, etc., in order to assist us and our service providers in better understanding the interests of our users and to better serve those interests.
 
- **Surveys & Contests**
+##     Advertising
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+    We may use other companies under agreements with us to serve advertisements when you visit and use the Services. These companies may collect and use click stream information, browser type, time and date, subject of advertisements clicked or scrolled over during your visits to the Services and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie, a third party web beacon and/or pixel tags to collect this information. None of them collect any personal information from your computer, such as your e-mail address. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to our cookies.
 
-**Tell-A-Friend**
+##     Targeted Advertising
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Site Host will automatically send the friend a one-time email inviting them to visit the site. Site Host stores this information for the sole purpose of sending this one-time email. The friend may contact Site Host at AmericanInventorSpot.com to request the removal of this information from our database. 
+    In order to serve offers and advertisements that may be interest to our users, we may display targeted advertisements on the Services based on Personal Information provided by our users, including zip code and profile. We do not provide this Personal Information to our advertisers when you interact with such an advertisement. However,  our advertisers (including ad serving companies) may determine based on their own analysis that a user who interacts with an advertisement targeted by us may fit into a certain demographic category such as location.
 
-**Security**
+##     Your Options and Information about Advertisers and Targeted Ads.
 
-This website takes reasonable precautions to protect our users’ information. When users submit sensitive information via the website, we endeavor to have your information protected both online and off-line. If you have any questions about the security at our website, you can contact us. 
+   We allow certain companies to serve advertisements and collect information within our Services. Most commonly, these are third party ad servers, ad agencies, technology vendors, providers of sponsored content and research firms.  We do not have access to, nor control over, advertisers' or service providers' use of cookies or other tracking technologies or how they may be used.
 
-**Correction/Updating Personal Information**
+      Third parties that may be using cookies to serve advertising on our Web sites may include:
 
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page or by contacting us. 
+[Google](http://www.google.com/intl/en/policies/privacy/)[  
+Double Click](http://www.google.com/intl/en/policies/privacy/)  
+[Tribal Fusion](http://www.tribalfusion.com/tfcompany/privacy_policy)  
+[Casale Media](http://casalemedia.com/privacy/)  
+[Burst Media](http://www.burstmedia.com/privacy.html)  
+[Amazon](http://www.amazon.com/gp/help/customer/display.html?nodeId=551434)  
+[Technorati Media](http://technoratimedia.com/privacy-policy/)  
+[Media](http://www.media.net/privacy-policy)  
+[Lijit ](http://www.lijit.com/company/privacy-policy)
 
-**Notification of Changes**
+You have choices about the collection of information by third parties on our Web site:
 
-If we decide to change our privacy policy, we will post those changes on our privacy policy so that our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. (Dated March 16, 2006) 
+1) If you would like more information about advertisers' use of cookies, and about your option not to accept these cookies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).  
+2) If you would like to opt-out of having interest-based information collected during your visits to this or other sites, [click here](http://www.aboutads.info/choices/).  
+Your access to our Web sites should not be affected if you do not accept cookies served by third parties.
 
-  
+##     Mobile
 
+   It is possible that we may from time to time offer certain location or pinpoint based services with our applications (such as, GPS assisted navigation instruction, wireless tower location, triangulation or other available location technologies). If you elect to use such location based services, we must periodically receive your location in order to provide such location-based services to you. By using the applications’ location based services, you authorize us to: (a) locate your hardware; (b) record, compile and display your location; and (c) publish your location to third parties designated by you by means of location publication controls available within the applications (e.g., settings, user preferences). As part of the applications, we may also collect and store certain information about our users, such as, users' wireless mobile subscriber ISDN and/or IMEI numbers (as applicable) and users' network access identifier information. This information will be used to provide you the services accessed through our applications. We may use third party providers to help provide services through mobile systems and such providers may use the information in accordance with our Privacy Policy. 
+
+## Social Media Features
+
+Our Web site includes Social Media Features, such as Facebook and Twitter. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+##     Choice/Opt-Out
+
+    If you have registered with our Services, we offer you the opportunity to choose not to receive communications from us. If you would like to take advantage of this opportunity, please let us know by accessing and updating your profile. Please note that sometimes these requests may take up to ten business days to process and that we are not responsible for removing information about you from the database of any third party to whom we were authorized to disclose your User Information prior to processing your request. Even if you do take advantage of this opportunity, we reserve the right to send you administrative messages relating to the Services (e.g., about changes to this Privacy Policy) and to contact you regarding any goods or services you have ordered.
+
+##     Modifying and Deleting Your Personal Information
+
+    If you would like to modify or delete from our database any User Information you previously submitted to us, please let us know by accessing and updating your profile. Please note that any User Information that we have copied may remain in back-up storage for some period of time after your request, and that if you delete certain information you may not be able to order services in the future without re-submitting such information. Also, please note that we will maintain User Information in our database whenever we are required to do so by law.
+
+##     Security
+
+    We have implemented reasonable measures to help protect your User Information from loss, misuse, or unauthorized access or disclosure. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your User Information, we cannot guarantee its security.
+
+##     Links
+
+    The Services may contain links to other websites. We are not responsible for the privacy practices of any such other website and urge you to review such practices prior to submitting any information to such websites.
+
+##     Children’s Privacy
+
+    We are committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. The Services are not intended for and may not be used by children under the age of 13. We do not knowingly collect information from children under the age of 13 and we do not target the Services to children under the age of 13.
+
+##     Changes
+
+    We may update this Privacy Policy from time to time. If under any such update we make any material change to the way in which we treat your User Information, we will inform you of such change via email or by posting a notice on relevant areas of the Services. Any updated version of this Privacy Policy will be effective as of the date set forth therein.
+
+##     Questions
+
+    If you have any questions about this Privacy Policy, please feel free to contact us by email at admin at  inventorspot.com.
+
+(Modified: October 2013)
