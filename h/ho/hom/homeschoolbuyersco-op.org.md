@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeschoolbuyersco-op.org privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126003345id_/http%3A//www.homeschoolbuyersco-op.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolbuyersco-op.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112237id_/http%3A//www.homeschoolbuyersco-op.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of the Homeschool Buyers Co-op - Homeschool Buyers Co-op
 
@@ -28,7 +28,7 @@ Periodically, we may send email to you if you have indicated a preference to rec
 If you desire to change or modify any of the information that you have previously provided to us, you may do so at the Account web page for your account on our website. 
 
 **Children**  
-Our service are intended solely for persons 13 years of age and older, or for persons under 13 years of age with parental permission and supervision. If you are under the age of 13 you may not access or use our service except with the permission and supervision of your parents. By using our service you represent and warrant to us that you are 13 years of age or older, or have the permission and supervision of your parents. 
+Our service is intended solely for persons 13 years of age and older, or for persons under 13 years of age with parental permission and supervision. If you are under the age of 13 you may not access or use our service except with the permission and supervision of your parents. By using our service you represent and warrant to us that you are 13 years of age or older, or have the permission and supervision of your parents. 
 
 **Links to Third Party Web Sites**  
 Our service may contain links to other websites and software. We are not responsible for the privacy practices or the content of these websites or software. Please visit the privacy policies of these third party sites in order o understand their privacy and information collection practices. 
