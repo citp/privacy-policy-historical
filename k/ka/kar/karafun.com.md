@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karafun.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227145331id_/http%3A//www.karafun.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karafun.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112721id_/http%3A//www.karafun.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -13,16 +13,16 @@ _**Notification about children**_ : children under the age of 13 may never discl
 
 **Information collection**
 
-_**Requested information**_  
+_**Requested information**_   
 In order to use our services, you may be asked during registration to provide some personal information including, but not limited to, your first and last name, birth date, country, email address or other contact information. If you do not wish to provide this information, you may not use the services that require it. Nevertheless, you can still visit and use the Website and the services which do not require any personal information. 
 
-_**Use of information**_  
+_**Use of information**_   
 RECISIO may use information you provide to deliver to you the services you've purchased: which include, but are not limited to, fulfilling your requests for products and services, delivering the content you've purchased, helping our support to follow-up your issues and providing you with information concerning promotions and sweepstakes if you have chosen to receive it during the registration process. 
 
-_**Disclosure of your information**_  
+_**Disclosure of your information**_   
 The information you provide will only be used by RECISIO or its agents. However, your information may be disclosed where we are obliged or permitted by law. If you post or send offensive, inappropriate or objectionable content on RECISIO's Website or otherwise engage in any disruptive behavior on the Website, RECISIO can use collected information to stop such behavior. 
 
-_**Information sharing and third party**_  
+_**Information sharing and third party**_   
 RECISIO commits itself to protecting the personal information you provide, and will not release it to any third party. Also, RECISIO will not sell, rent, swap or authorize any third party to use your e-mail address or any information that personally identifies you. 
 
 **Customer service correspondence**  
