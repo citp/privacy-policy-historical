@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailybuzzlive.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202064924id_/http%3A//dailybuzzlive.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailybuzzlive.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094821id_/http%3A//dailybuzzlive.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Daily VIRAL Buzz
+# Privacy - DailyBuzzLive.com
 
 **We only collect anonymous information.  
 **We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
