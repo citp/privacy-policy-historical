@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the medschat.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210220530id_/http%3A//www.medschat.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medschat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234256id_/http%3A//www.medschat.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - MedsChat - The People's Medicine Community
 
-Last Updated: 13 August 2013
+Last Updated: 12 February 2014
 
 Our site MedsChat.com ("MedsChat") operates an online community for our users to share their drug related questions and stories with one another. We are committed to safeguarding the privacy of our web site visitors; as such, this policy explains how we will treat your personal information.
 
 [](https://privacy.truste.com/privacy-seal/MedsChat-com/validation?rid=b3e7c82f-07c1-498e-aef0-35ef978d5f5a "TRUSTe online privacy certification")
 
-MedsChat.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Website, medschat.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
+MedsChat.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Website, medschat.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
 MedsChat.com  
 The People's Medicine Community  
@@ -21,7 +21,7 @@ Westlake Village, CA 91362
 
 **Email:** Please use our [contact form](https://web.archive.org/contact.asp) to reach us via Email.
 
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 MedsChat is the sole owner of the information collected on the MedsChat.com web site. We collect personally identifiable information from our users at several different points on our Web site.
 
@@ -65,6 +65,8 @@ Cookies are minute pieces of information that Your browser stores on Your hard d
 
 Our web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers' or Users' personally identifiable information.
+
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. Our servers are located in a secured facility and we employ firewalls for additional protection. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 If you use a discussion thread on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
@@ -89,4 +91,6 @@ When you use AddThis to bookmark and share pages on our site you will be taken t
 
 MedsChat reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
+If MedsChat is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective.
