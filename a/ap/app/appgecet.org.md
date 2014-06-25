@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appgecet.org privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210084207id_/http%3A//appgecet.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appgecet.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104324id_/http%3A//appgecet.org/privacy.aspx) for the most accurate reproduction.*
 
-# PGECET-2013
+# PGECET-2014
 
 We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and applicant information privacy. Please read the following statement to learn about our information gathering and dissemination practices. 
 
@@ -10,21 +10,21 @@ Note: Our privacy policy is subject to change at any time without notice. To mak
 
 Our site has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
 
-**PGECET 2013** website ensures that every transaction that takes between you and our PGECET website through online is in a safe and secure environment. This can be achieved, as PGECET 2013 website is protected by Secured Socket Layer (SSL) technology.
+**PGECET 2014** website ensures that every transaction that takes between you and our PGECET website through online is in a safe and secure environment. This can be achieved, as PGECET 2014 website is protected by Secured Socket Layer (SSL) technology.
 
 **2\. COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION**
 
-We collect personally identifiable information (Email Id., Name, Contact number, etc.) from you when you apply for the PGECET 2013 examination. Any one can browse some sections of our site without being an applicant for PGECET 2013. Certain activities (such as applying for the PGECET 2013 Examination, Application Status, Complaint Status, etc) do require Registration. We do use your contact information to send you information.
+We collect personally identifiable information (Email Id., Name, Contact number, etc.) from you when you apply for the PGECET 2014 examination. Any one can browse some sections of our site without being an applicant for PGECET 2014. Certain activities (such as applying for the PGECET 2014 Examination, Application Status, Complaint Status, etc) do require Registration. We do use your contact information to send you information.
 
 **3\. USE OF DEMOGRAPHIC AND PROFILE DATA**
 
-We use Personal Information for smooth conduct of PGECET. We use your personal information to check your eligibility to appear for the PGECET 2013 examination as per G.O.’s issued by AP state government from time to time. We use your personal information to resolve disputes, troubleshoot problems, help promote a safe service, collect fees owed, detect and protect us against error, fraud and other criminal activity, enforce our terms and conditions, and as otherwise described to you at the time of collection.
+We use Personal Information for smooth conduct of PGECET. We use your personal information to check your eligibility to appear for the PGECET 2014 examination as per G.O.’s issued by AP state government from time to time. We use your personal information to resolve disputes, troubleshoot problems, help promote a safe service, collect fees owed, detect and protect us against error, fraud and other criminal activity, enforce our terms and conditions, and as otherwise described to you at the time of collection.
 
 In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our website. We identify and use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is also used to help identify you and to gather broad demographic information.
 
 **4\. COOKIES**
 
-A "cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. PGECET 2013 places both permanent and temporary cookies in your computer's hard drive. PGECET 2013 cookies do not contain any of your Personally Identifiable Information.
+A "cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. PGECET 2014 places both permanent and temporary cookies in your computer's hard drive. PGECET 2014 cookies do not contain any of your Personally Identifiable Information.
 
 **5\. SHARING OF PERSONAL INFORMATION**
 
@@ -38,7 +38,7 @@ As a condition for the use of the PGECET Website, the User warrants that they wi
 
 **7\. LINKS TO OTHER SITES**
 
-Our site links to other websites that may collect Personally Identifiable Information about you. PGECET 2013 COMMITTEE is not responsible for the privacy practices or the content of those linked websites.
+Our site links to other websites that may collect Personally Identifiable Information about you. PGECET 2014 COMMITTEE is not responsible for the privacy practices or the content of those linked websites.
 
 **8\. USE OF COMMUNICATION SERVICES**
 
@@ -76,4 +76,4 @@ PGECET reserves the right, in its sole discretion, to terminate the access to th
 
 **10\. QUESTIONS?**
 
-Questions regarding this statement should be directed to the following address: [convenerpgecet2012@appgecet.org](mailto:convenerpgecet2012@appgecet.org).
+Questions regarding this statement should be directed to the following address: [ info@appgecet.org](mailto:info@appgecet.org).
