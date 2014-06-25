@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the official-drivers.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110024507id_/http%3A//www.official-drivers.com/installer/privacy.php%3Flocal%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the official-drivers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061844id_/http%3A//www.official-drivers.com/installer/privacy.php%3Flocal%3Den%26seed%3Dwindows) for the most accurate reproduction.*
 
 # Windows Drivers & Downloads - Windows
 
