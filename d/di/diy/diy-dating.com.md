@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diy-dating.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016071850id_/http%3A//diy-dating.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diy-dating.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115342id_/http%3A//diy-dating.com/privacy.php) for the most accurate reproduction.*
 
 # DIY-Dating
 
@@ -11,7 +11,7 @@ My Partners
 Help   
 | [Main Help](https://web.archive.org/master_help.php?menu=helpsub "main account help")  
 ---  
-[Contact Us](https://web.archive.org/web/20131016071850id_/http%3A//diy-dating.com/feedback.php?menu=helpsub "contact us")  
+[Contact Us](https://web.archive.org/web/20140625115342id_/http%3A//diy-dating.com/feedback.php?menu=helpsub "contact us")  
 [FAQs](https://web.archive.org/faqs.php?menu=helpsub&ori=master "FAQs")  
 [Marketing](https://web.archive.org/marketing.php?menu=helpsub "Marketing help")  
 [Tutorials](https://web.archive.org/tutorials.php?menu=helpsub "Tutorials")  
@@ -24,7 +24,7 @@ Jobs
   
 | 
 
-[Join for free](https://web.archive.org/web/20131016071850id_/http%3A//diy-dating.com/createaccount.php "create an account") | [Login](https://web.archive.org/web/20131016071850id_/http%3A//diy-dating.com/master_login.php)  
+[Join for free](https://web.archive.org/web/20140625115342id_/http%3A//diy-dating.com/createaccount.php "create an account") | [Login](https://web.archive.org/web/20140625115342id_/http%3A//diy-dating.com/master_login.php)  
   
 ---  
   
