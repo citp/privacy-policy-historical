@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the hotels.ng privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226224801id_/http%3A//www.hotels.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.ng privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074525id_/http%3A//www.hotels.ng/privacy) for the most accurate reproduction.*
 
 # Privacy Hotels.ng
+
+Privacy Hotels.ng
+
+[ ](http://hotels.ng/)
 
 ## Privacy Policy
 
@@ -16,6 +20,8 @@ This privacy policy does not apply to the practices of companies that Hotels.ng 
 You can visit the websites of Hotels.ng without revealing any personal information. However, Hotels.ng needs certain personal information if you wish to purchase our products, register for an affiliate account, receive Hotels.ng newsletter, or use certain Hotels.ng services.   
 Where required, this information may include your personal contact information and/or your company contact information. Hotels.ng will use this information to reply to your inquiries, to provide you with requested products and services, to set up your member's account, and to contact you regarding new products and services.   
 By accessing the services of Hotels.ng and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy policy. 
+
+Hotels.ng undertakes not to violate the privacy of Visa cardholders or any other cardholders who transact on Hotels.ng 
 
 ## Collection and Use of Non-Personal Information
 
@@ -47,4 +53,4 @@ Hotels.ng may at any time, without notice to you and in its sole discretion, ame
 
 ## Questions or Suggestions
 
-If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at info@hotels.com.ng. 
+If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at support@hotels.ng. 
