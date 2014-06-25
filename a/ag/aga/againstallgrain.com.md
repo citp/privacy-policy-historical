@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the againstallgrain.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221134904id_/http%3A//www.againstallgrain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the againstallgrain.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062638id_/http%3A//againstallgrain.com/privacy-policy) for the most accurate reproduction.*
 
-# Against All Grain Privacy Policy » Against All Grain Against All Grain
+# Against All Grain Privacy Policy Against All Grain | Against All Grain - Delectable paleo recipes to eat & feel great
 
-### Against All Grain Privacy Policy
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.againstallgrain.com%2Fprivacy-policy%2F&media=&description=Against%20All%20Grain%20Privacy%20Policy)
-
- **Date Last Revised: August 16, 2013**
+**Date Last Revised: August 16, 2013**
 
 ### Overview
 
@@ -36,9 +32,9 @@ In all cases, I adhere to the strictest of policies regarding the use of persona
 
 I may employ third party companies to facilitate providing you valuable services. For example, I use a cloud based email marketing management tool called MailChimp to better connect with you as my reader. In all instances I make sure that your data is transferred over a secure transmission link and that the third parties I use have the highest quality security standards in place. Today, I use two main cloud service providers to best serve you as the customer. I’ve included their website addresses and links to their security policies below for your ease of reference:
 
- **Dropbox** – [Website](https://dropbox.com/ "Dropbox Website") – [Security Policy](https://www.dropbox.com/privacy#security "Dropbox Security Policy")
+**Dropbox** – [Website](https://dropbox.com/ "Dropbox Website") – [Security Policy](https://www.dropbox.com/privacy#security "Dropbox Security Policy")
 
- **MailChimp** – [Website](https://mailchimp.com/ "MailChimp Website") – [Privacy Policy](https://mailchimp.com/legal/privacy/ "MailChimp Privacy Policy")
+**MailChimp** – [Website](https://mailchimp.com/ "MailChimp Website") – [Privacy Policy](https://mailchimp.com/legal/privacy/ "MailChimp Privacy Policy")
 
 ### Advertising
 
