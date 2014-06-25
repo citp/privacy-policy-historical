@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the newrelic.com privacy policy that was archived on 2013-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126074757id_/http%3A//newrelic.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newrelic.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625123449id_/http%3A//www.newrelic.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script type="text/javascript" async="" src="https://web.archive.org/web/20140404001827/http://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"staging-beacon-1.newrelic.com","errorBeacon":"staging-jserror.newrelic.com","licenseKey":"528f970912","applicationID":"8683","transactionName":"cV5eEkBfCF1WRBgRB1VUQ0lCQg1HUlVO","queueTime":0,"applicationTime":35,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-416.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VRUPV15Q"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){try{u?u-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(d){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t(3),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(c){"stack"in c&&(t(4),t(6),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:3,2:6,3:1,4:5,5:14,6:4,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(3),o=(t(2),t(1));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:1,2:14,3:15}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,c="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,d=e(c);if(d&&(r.rxSize=d),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(3),s=["load","error","abort","timeout"],u=s.length,c=t(2);t(5),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var c=e(o);c&&(r.txSize=c)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var d=0;u>d;d++)n.addEventListener(s[d],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:1,4:6,5:3,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,c="addEventListener",d="attachEvent",f=(""+location).split("?")[0],p=e.exports={offset:i(),origin:f,features:[]};u[c]?(u[c]("DOMContentLoaded",o,!1),s[c]("load",n,!1)):(u[d]("onreadystatechange",r),s[d]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){var n,a,c,d;try{a=this,n=u(arguments),c=r&&r(n,a)||{}}catch(f){i([f,"",[n,a,s],c])}o(e+"start",[n,a,s],c);try{return d=t.apply(a,n)}catch(p){throw o(e+"err",[n,a,p],c),p}finally{o(e+"end",[n,a,d],c)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,c="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,c?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
   <meta name="google-translate-customization" content="30d8961386e0a021-0033be4a9d2e0ce2-gaf12592de584a664-c">
   <title>New Relic Privacy Policy | New Relic</title>
   <!--[if lte IE 9]>
@@ -14,6 +16,40 @@
   <meta name="viewport" content="width=960">
   <link rel="canonical" href="http://newrelic.com/privacy">
   <meta name="google-site-verification" content="JwqBJdeL8GYECuqG-v8KewQMavgIidnBo8Ou6WiTgvs">
+  <script type="text/javascript" src="https://dkj2m377b0yzw.cloudfront.net/clients/javascript/demandbase-1.0.0-min.js"></script>
+
+<script type="text/javascript">
+  var client;
+  var experimentID = 520582489;
+  var variationID = startup = 522802308;
+  var smb = 522953048;
+  var medium = 525522668;
+  var enterprise = 520400477;
+  var DB_Obj
+
+  var demandbase_parse = function(company) {
+
+    DB_Obj = company
+    if (company && company.employee_count > 1000) {
+      variationID = enterprise;
+    } else if (company && company.employee_count > 500) {
+      variationID = medium;
+    } else if (company && company.employee_count > 25) {
+      variationID = smb;
+    }
+
+    window.optimizely = window.optimizely || [];
+    window.optimizely.push(["bucketVisitor", experimentID, variationID]);
+    window.optimizely.push(["activate", experimentID]);
+  };
+
+  if (typeof DemandbaseClient != 'undefined') {
+    client = new DemandbaseClient("18f3705ac079a1478dc2a706a351b7f7193a2366");
+  }
+
+  client.ip(demandbase_parse);
+</script>
+
     <meta property="og:title" content="New Relic: New Relic Privacy Policy">
   <meta property="og:type" content="article">
   <meta property="og:description" content="New Relic Privacy Policy">
@@ -29,18 +65,20 @@
   <meta name="msapplication-TileColor" content="#008c99">
   <meta name="msapplication-TileImage" content="http://newrelic.com/assets/newrelic/logo_NR-fb.png">
   <meta content="authenticity_token" name="csrf-param">
-<meta content="Vla+ddlloFaAkUeY4REVgsTSw/b5BNHPvCnNhdFOHkY=" name="csrf-token">
-  <link href="/assets/application-7a57d09c3c58c849601ef6fd525ef847.css" media="all" rel="stylesheet" type="text/css">
-  <link href="/assets/pages/terms-ca475045ca04a9e035852c87686243b2.css" media="all" rel="stylesheet" type="text/css">
+<meta content="6UOU7Q0G+AvtC82vfN2ljtfEKMqJng8RFY/zYBEK144=" name="csrf-token">
+  <link href="//cloud.typography.com/6635272/737342/css/fonts.css" media="all" rel="stylesheet" type="text/css">
+  <link href="/assets/application_gotham-c0135e3401ddad379d2e36eb76682e5d.css" media="all" rel="stylesheet" type="text/css">
+  <link href="/assets/pages/terms-ed06934d0b183eaf5a91c0f2d83bba29.css" media="all" rel="stylesheet" type="text/css">
     <!--[if gte IE 9]>
     <style type="text/css">.gradient {filter: none;}</style>
   <![endif]-->
-  <script type="text/javascript" async="" src="https://web.archive.org/web/20140404001827/http://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script src="/assets/application_head-b379f4e488741ed45a3fd707eb955a65.js" type="text/javascript"></script>
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+  <script src="/assets/application_head-b379f4e488741ed45a3fd707eb955a65.js" type="text/javascript"></script>
+</head>
 <body id="home-page" class="">
   <section id="tracking-tags-top" class="hidden">
-  <!-- optimizely --> 
+  <!-- optimizely -->
   <script src="//cdn.optimizely.com/js/7331003.js"></script>
+  
   <!--Twitter -->
   <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
   <script type="text/javascript">
@@ -49,166 +87,37 @@
   <noscript>
   <img height="1" width="1" style="display:none" alt="" src="https://analytics.twitter.com/i/adsct?merch_id=98spr&amp;event=1&amp;value=&amp;p_id=Twitter" />
   </noscript>
-
-  <!-- end of Twitter -->
-
 </section>
 
-  <nav class="content overflowing" id="nav_header">
-  <section>
-    <article>
+  <div id="nav-mobile" class="hidden rel">
+  <a href="/" id="link-home" class="abs">New Relic</a>
+    <a href="#signup" class="abs cta-button open-sesame" cta-type="Header Offer">
+      Create Account
+    </a>
+  <a href="#" id="nav-mobile-toggle" class="abs">
+    <span class="bar"></span>
+    <span class="bar"></span>
+    <span class="bar"></span>
+  </a>
+</div>
+<nav class="site" id="nav_header">
+  <section class="container">
+    <article class="col-xs-12">
       <span class="logo">
         <a href="/"><img alt="New Relic" src="/assets/newrelic/logo_46-15b0d64a9d6a833df7a9ae04087f7d6e.png"></a>
       </span>
-      <ul class="site rel">
-        <li id="drop-hover">
-          <a href="javascript:;" class="main" id="dropper">
-            <span class="full">You Can Monitor</span>
-            <span class="short">Monitor</span>
-            <span>&nbsp;</span>
-            <img alt="You can monitor..." src="/assets/shared/header/dropper-2cf4a1c33fb9a53a496a4c5ec771e3ec.png">
-          </a>
-          <div class="drop-it">
-            <span class="drop-it-menu rel">
-              <ul class="popper">
-                <li>
-                  <span class="icon"><span class="icon_in" id="web-apps"></span></span>
-                  <a href="/application-monitoring" class="sub top">Web Apps</a>
-                  <span class="meta abs">
-                    <a href="/application-monitoring" class="desc top">
-                      <span class="nav_slide_title">One Tool, Many Languages</span>
-                      <span class="nav_slide_copy">
-                        Stop guessing. Identify bottlenecks before they become critical.
-                      </span>
-                      <span class="nav_slide_list">
-                        • Real user monitoring
-                      </span>
-                      <span class="nav_slide_list">
-                        • Application monitoring
-                      </span>
-                      <span class="nav_slide_list">
-                        • SQL Queries and more
-                      </span>
-                      <span class="nav_slide_icons" id="icons_web">
-                        <img alt="We support these languages." src="/assets/shared/header/icons_web-a74456eb4ffd73f5133ce54ca1e3e043.png">
-                      </span>
-                    </a>
-                  </span>
-                </li>
-                <li>
-                  <span class="icon"><span class="icon_in" id="mobile-apps"></span></span>
-                  <a href="/mobile-monitoring" class="sub">Mobile Apps</a>
-                  <span class="meta abs">
-                    <a href="/mobile-monitoring" class="desc">
-                      <span class="nav_slide_title">Finally. Mobile Visibility.</span>
-                      <span class="nav_slide_copy">
-                        See exactly how your native apps perform in the wild.
-                      </span>
-                      <span class="nav_slide_list_head"><strong>
-                        Get performance by:
-                      </strong></span>
-                      <span class="nav_slide_list float">
-                        • Geography
-                      </span>
-                      <span class="nav_slide_list float">
-                        • Versions
-                      </span>
-                      <span class="nav_slide_list float">
-                        • Carriers
-                      </span>
-                      <span class="nav_slide_list float">
-                        • HTTP Requests
-                      </span>
-                      <span class="nav_slide_list float">
-                        • Devices
-                      </span>
-                      <div class="cf"></div>
-                      <span class="nav_slide_icons">
-                        <img alt="We support these OSs." src="/assets/shared/header/icons_mobile-72b73ae5d49e50f1c3d41f345c419d1c.png">
-                      </span>
-                    </a>
-                  </span>
-                </li>
-                <li>
-                  <span class="icon"><span class="icon_in" id="servers"></span></span>
-                  <a href="/server-monitoring" class="sub">Servers</a>
-                  <span class="meta abs">
-                    <a href="/server-monitoring" class="desc">
-                      <span class="nav_slide_title">From Glass to Frame.</span>
-                      <span class="nav_slide_copy">
-                        Don’t forget about server performance in managing your apps.
-                      </span>
-                      <span class="nav_slide_list_head"><strong>
-                        Keep an eye on:
-                      </strong></span>
-                      <span class="nav_slide_list float">
-                        • Server CPU
-                      </span>
-                      <span class="nav_slide_list float">
-                        • Network Activity
-                      </span>
-                      <span class="nav_slide_list float">
-                        • Physical Memory
-                      </span>
-                      <span class="nav_slide_list float">
-                        • Storage Utilization
-                      </span>
-                      <div class="cf"></div>
-                      <span class="nav_slide_icons">
-                        <img alt="We support these OSs." src="/assets/shared/header/icons_server-915663c0ec8b0285fae834cab22fbb13.png">
-                      </span>
-                    </a>
-                  </span>
-                </li>
-                <li>
-                  <span class="icon"><span class="icon_in" id="plugins"></span></span>
-                  <a href="/platform" class="sub">Database, Caching &amp; More…</a>
-                  <span class="meta abs">
-                    <a href="/platform" class="desc">
-                      <span class="nav_slide_title">Database, Network, Caching &amp; More</span>
-                      <span class="nav_slide_copy">
-                        Increase visibility with our growing library of plugins. Monitor your entire stack, from the database to the network. Don’t see a plugin you need? No problem. Building your own is easy.
-                      </span>
-                      <span class="nav_slide_icons">
-                        <img alt="Some New Relic Plugins" src="/assets/shared/header/icons_plugins-27a883883e76085f927aa0554bb9a80a.png">
-                      </span>
-                    </a>
-                  </span>
-                </li>
-                <li>
-                  <span class="icon"><span class="icon_in" id="everything"></span></span>
-                  <a href="/monitor-everything" class="sub">Show me everything</a>
-                  <span class="meta abs">
-                    <a href="/monitor-everything" class="desc">
-                      <span class="nav_slide_title">Languages, Frameworks, Mobile OSs, Oh My!</span>
-                      <span class="nav_slide_copy">
-                        From servers to source code, we’ve got the whole developer’s kitchen sink (minus the dirty cereal bowls).
-                      </span>
-                      <span class="nav_slide_list">
-                        • We’re fluent in 5 languages and counting
-                      </span>
-                      <span class="nav_slide_list">
-                        • Lots of fully-integrated frameworks
-                      </span>
-                      <span class="nav_slide_list">
-                        • From iOS to Android, we’re deeply mobile
-                      </span>
-                    </a>
-                  </span>
-                </li>
-              </ul>
-            </span>
-          </div>
-          <div class="drop-pointy abs"></div>
+      <ul class="site">
+        <li class="has-prod rel">
+          <a href="/products" class="main" id="product-open">Products <span class="arrrow abs hidden" id="prod-sub">n</span></a>
         </li>
         <li>
           <a href="/pricing" class="main">Pricing</a>
         </li>
         <li>
-          <a href="/about" class="main">About</a>
+          <a href="/about" class="main">About <span class="arrrow abs hidden">n</span></a>
         </li>
         <li>
-          <a href="/enterprise" class="main">Enterprise</a>
+          <a href="/enterprise" class="main">Enterprise <span class="arrrow abs hidden">n</span></a>
         </li>
       </ul>
       <span class="start">
@@ -218,14 +127,15 @@
         </a>
       </span>
       <span class="blog rel">
-        <span id="blog_link"><a href="/blog">Blog</a>&nbsp;&nbsp;|&nbsp;</span>
-          <a href="https://rpm.newrelic.com" id="head-signin">Sign In</a>
+        <span><a href="/support">Support</a></span>
+        <span id="blog_link"><a href="http://blog.newrelic.com/">Blog</a></span>
+          <a href="https://rpm.newrelic.com" id="head-signin">Log In</a>
           <div class="drop-it abs" id="global-signin-drop">
   <form action="https://rpm.newrelic.com/session" method="post" id="form_signin" novalidate="" class="acctSign">
     <section class="rel">
       <fieldset>
         <div class="rel">
-          <label for="login">Login Email:</label>
+          <label for="login">Log In Email:</label>
           <div class="input">
             <input type="text" name="login[email]" placeholder="me@mycompany.com" required="">
           </div>
@@ -237,10 +147,10 @@
             <input type="password" name="login[password]" placeholder="Password" required="">
           </div>
           <span class="icon abs">(</span>
-          
+          <input type="hidden" name="return_to" value="" id="login-rpm-return-to" class="hidden">
         </div>
-        <button type="submit" class="a-button">Sign In</button>
-        
+        <button type="submit" class="b-button">Sign In</button>
+        <input type="hidden" name="return_to" value="" id="login-rpm-return-to" class="hidden">
       </fieldset>
     </section>
   </form>
@@ -250,29 +160,41 @@
         <input name="utf8" type="hidden" value="✓">
         <input name="authenticity_token" type="hidden" value="">
         <div class="rel">
-          <label for="login_email" class="login-email"><strong>Email instructions</strong> to reset<br>my password to:</label>
+          <label for="login_email" class="login-email">Email instructions to:</label>
           <div class="input">
             <input id="login_email" name="login[email]" type="email" placeholder="me@mycompany.com">
           </div>
           <span class="icon abs">M</span>
         </div>
-        <button id="Login_submit" type="submit" class="a-button" data-a-type="Send Instructions">Send Instructions</button>
+        <button id="Login_submit" type="submit" class="b-button" data-a-type="Send Instructions">Send Instructions</button>
       </fieldset>
     </section>
   </form>
   <p class="acctSign"><a href="#">Forgot your password?</a></p>
-  <p class="pwRemind"><a href="#">No, I just want to sign in.</a></p>
+  <p class="pwRemind"><a href="#">No, I just want to log in.</a></p>
     <p class="signupNow">Not registered? <a href="#signup_inline" class="open-sesame scrolls"><strong>Sign up now.</strong></a></p>
   <a id="close-signin-form" href="javascript:;">×</a>
   <div class="drop-pointy abs"></div>
 </div>
 
+        <div id="search-contain" class="rel">
+  <div id="search-start" class="icon abs">s</div>
+  <div id="search-holder" class="abs">
+    <form method="post" action="" class="search">
+      <input type="search" id="st-search-input" placeholder="What are you searching for?">
+    </form>
+  </div>
+</div>
+
+
+
+
       </span>
     </article>
   </section>
 </nav>
-<div id="nav-spacer" class="content">
-  <section></section>
+<div id="nav-spacer" class="site">
+  <section class="container"></section>
 </div>
 
   
@@ -280,7 +202,7 @@
       <div id="signup_backdrop"></div>
 <div id="signup_popup" class="signup">
 
-  <a href="javascript:;" class="close-sesame">×</a>
+  <a href="javascript:;" class="close-sesame">+</a>
   <div class="form-wrapper">
 
     <div class="pre-form">
@@ -288,7 +210,7 @@
         <article class="banner">
           <div class="headline">
             <h5>Why wait? It’s free!</h5>
-            <p>Sign up now and get a free Nerd Life shirt</p>
+            <p>Sign up now.</p>
           </div>
         </article>
       </section>
@@ -314,8 +236,7 @@
       <div class="cf"></div>
       <section>
         <article class="rel">
-          <form accept-charset="UTF-8" action="https://newrelic.com/signups" id="nr-signup-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Vla+ddlloFaAkUeY4REVgsTSw/b5BNHPvCnNhdFOHkY="></div>
-
+          <form accept-charset="UTF-8" action="https://newrelic.com/signups" id="nr-signup-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="6UOU7Q0G+AvtC82vfN2ljtfEKMqJng8RFY/zYBEK144="></div>
             <section class="side-one rel">
 
               <section id="signup-errors-from-blog">
@@ -323,7 +244,6 @@
 
               <fieldset>
                 <legend class="hidden">Your Information</legend>
-
                 <div class="rel">
                   <label for="signup-full-name">What's your name?<span class="req">*</span><span class="req_label">Required&nbsp;</span></label>
                   <div id="signup-full-name-wrap" class="input">
@@ -616,10 +536,10 @@
                   <span class="icon abs">G</span>
                 </div>
 
-                <div id="us-zip" class="rel">
-                  <label for="signup-postal-code">What's your ZIP Code?<span class="req">*</span></label>
+                <div id="postal-code" class="rel">
+                  <label for="signup-postal-code">What's your Postal Code?<span class="req">*</span></label>
                   <div id="signup-postal-code-wrap" class="input">
-                    <input type="text" id="signup-postal-code" name="postal_code" placeholder="U.S. ZIP Code" data-message="Please enter your 5 digit zip code" data-as="number" data-ziptest="">
+                    <input type="text" id="signup-postal-code" name="postal_code" placeholder="Postal Code" data-postaltest="">
                   </div>
                   <span class="icon abs">M</span>
                 </div>
@@ -628,6 +548,8 @@
 
               <fieldset class="button" id="btn-one">
                 <button class="cta-button" id="form-continue" data-cta-type="Part 1 Form Continue">Next</button>
+                <br>
+                <p><small><a href="/privacy" style="color:#0ab0bf;font-weight:normal;" target="_blank">Review our Privacy Policy</a></small></p>
               </fieldset>
 
             </section>
@@ -644,33 +566,45 @@
                   <span class="icon abs">O</span>
                 </div>
 
+                <div class="rel">
+                  <label for="signup-group">What's your role?<span class="req">*</span></label>
+                  <div id="signup-group-wrap">
+                    <select name="job_title" form="nr-signup-form" id="signup-job-title" class="required" data-message="What's your role at your company?">
+                        <option value="">Your Role</option>
+                        <option value="Web Developer/Engineer">Web Developer/Engineer</option>
+                        <option value="Mobile Developer/Engineer">Mobile Developer/Engineer</option>
+                        <option value="Ops">Ops</option>
+                        <option value="DevOps">DevOps</option>
+                        <option value="Architect">Architect</option>
+                        <option value="CTO/CIO">CTO/CIO</option>
+                        <option value="CEO">CEO</option>
+                        <option value="Exec/Management (Other)">Exec/Management (Other)</option>
+                    </select>
+                  </div>
+                  <span class="icon abs">U</span>
+                </div>
+
                 <div id="signup-company-size-wrap" class="rel">
                   <label for="signup-company-size">How Big is Your Company?<span class="req">*</span></label>
                   <select name="company_size" form="nr-signup-form" id="signup-company-size" class="required" data-message="Just an approximate number">
                       <option value="">Number of People</option>
-                      <option value="Just Me">Just Me</option>
                       <option value="2-10">2-10</option>
                       <option value="11-20">11-20</option>
                       <option value="21-50">21-50</option>
                       <option value="51-100">51-100</option>
                       <option value="101-500">101-500</option>
                       <option value="501-1000">501-1,000</option>
-                      <option value="1001-5000">1,001-5,000</option>
+                      <option value="1001-2500">1,001-2,500</option>
+                      <option value="2501-5000">2,501-5,000</option>
                       <option value="5001-10000">5,001-10,000</option>
                       <option value="10,000+">10,000+</option>
+                      <option value="Just Me">Just Me</option>
                   </select>
                   <span class="icon abs">g</span>
                 </div>
 
                 <div id="pop-servers" class="rel">
                   <label for="signup-host-estimate">How many app servers do you have?<span class="req">*</span></label>
-                  <div class="pop-tool rel">
-                    <span class="tip abs">
-                      <span class="pointer abs"></span>
-                      <span class="cover abs"></span>
-                      <p>A server is either a physical computer or a virtual machine instance running a single copy of an Operating System.</p>
-                    </span>
-                  </div>
                   <div id="signup-host-estimate-wrap">
                     <select name="host_estimate" id="signup-host-estimate" class="required" data-message="Just an approximate number">
                         <option value="">Total Servers</option>
@@ -681,29 +615,13 @@
                     </select>
                   </div>
                   <span class="icon abs">Q</span>
-                </div>
-
-                <div class="rel">
-                  <label for="signup-group">What type of app are you making?<span class="req">*</span></label>
-                  <div id="signup-group-wrap">
-                    <select name="peer_group" form="nr-signup-form" id="signup-group" class="required" data-message="So we can compare your results">
-                        <option value="">Application Type</option>
-                        <option value="Blog">Blog</option>
-                        <option value="CMS/wiki">CMS/wiki</option>
-                        <option value="Consumer internet">Consumer internet</option>
-                        <option value="E-commerce">E-commerce</option>
-                        <option value="Marketing site">Marketing site</option>
-                        <option value="Mobile app">Mobile app</option>
-                        <option value="Online games">Online games</option>
-                        <option value="Online training &amp; collaboration">Online training &amp; collaboration</option>
-                        <option value="SaaS (B2B)">SaaS (B2B)</option>
-                        <option value="SaaS (Consumer)">SaaS (Consumer)</option>
-                        <option value="Streaming media">Streaming media</option>
-                        <option value="Social networking">Social networking</option>
-                        <option value="Other">Other</option>
-                    </select>
+                  <div class="pop-tool rel">
+                    <span class="tip abs">
+                      <span class="pointer abs"></span>
+                      <span class="cover abs"></span>
+                      <p>A server is either a physical computer or a virtual machine instance running a single copy of an Operating System.</p>
+                    </span>
                   </div>
-                  <span class="icon abs">x</span>
                 </div>
 
                 <div class="rel">
@@ -824,7 +742,7 @@
               </fieldset>
 
               <fieldset class="tos">
-                <p>By creating your account, you agree to our <a href="/terms" target="_blank" title="Open our Terms of Service in a new browser window, er, tab, er, something.">terms of service</a>.</p>
+                <p><input class="required" id="signup-tos-checkbox" type="checkbox" name="terms_of_service_accepted" value="true" data-message="Please accept our terms of service"><span class="text">I agree to the <a href="/terms" target="_blank">Terms of Service</a>.<br>Review our <a href="/privacy" target="_blank">Privacy Policy</a>.</span></p>
               </fieldset>
 
               <fieldset class="button">
@@ -835,13 +753,16 @@
             <section id="server-messages"></section>
 
             <section class="hidden">
-                <input id="form_page" name="form_page" type="hidden" value="http://newrelic.com/privacy">
-
+              <input id="demandbase" name="demandbase" type="hidden" value="">
+              <input id="form_page" name="form_page" type="hidden" value="http://newrelic.com/privacy">
+              <input class="ga-client-id" id="ga_client_id" name="ga_client_id" type="hidden" value="">
                 <input id="initial_mpc" name="initial_mpc" type="hidden">
 <input id="latest_mpc" name="latest_mpc" type="hidden">
 <input id="initial_http_referrer" name="initial_http_referrer" type="hidden">
 <input id="latest_http_referrer" name="latest_http_referrer" type="hidden">
-<input id="mixpanel_id" name="mixpanel_id" type="hidden" value=""> 
+<input id="mixpanel_id" name="mixpanel_id" type="hidden" value="">
+<input id="marketo_cookie" name="marketo_cookie" type="hidden">
+
             </section>
             <div id="signup-thinking" class="on-dark">
               <div class="spinner"></div>
@@ -852,13 +773,16 @@
         </article>
 
         <article class="hidden rpm_integration">
-          <form action="https://rpm.newrelic.com/session" method="post" id="login-rpm-form" class="hidden">
-            <input type="hidden" name="login[email]" value="" id="login-rpm-email" class="hidden">
-            <input type="hidden" name="login[password]" value="" id="login-rpm-password" class="hidden">
-            
-            <input type="submit" name="login_rpm" id="login-rpm" class="hidden">
-          </form>
-        </article>
+  <form action="https://rpm.newrelic.com/session" method="post" id="login-rpm-form" class="hidden">
+    <input type="hidden" name="login[email]" value="" id="login-rpm-email" class="hidden">
+    <input type="hidden" name="login[password]" value="" id="login-rpm-password" class="hidden">
+
+    <input type="hidden" name="return_to" value="" id="login-rpm-return-to" class="hidden">
+
+    <input type="submit" name="login_rpm" id="login-rpm" class="hidden">
+  </form>
+</article>
+
 
       </section>
     </div>
@@ -866,7 +790,48 @@
 </div>
 
 
-
+<div id="nav-products">
+  <section class="container">
+    <nav id="products-nav">
+      <ul>
+        <li class="mobile-back hidden">
+          <a href="#" class="main-back"><span class="arrrow">N</span> Site Menu</a>
+        </li>
+        <li class="rel">
+          <span class="arrrow abs pointer">r</span>
+          <a href="/products" class="head" onclick="NR_BASE.trackGoogleAnalyticsEvent('Nav Products Click', 'Overview')">Product Overview<span class="sub">See a complete list of our products</span></a>
+        </li>
+        <li class="rel">
+          <span class="arrrow abs pointer">r</span>
+          <a href="/application-monitoring" class="apm" onclick="NR_BASE.trackGoogleAnalyticsEvent('Nav Products Click', 'APM')">New Relic APM <span class="arrrow abs hidden" id="prod-sub">n</span></a>
+        </li>
+        <li class="rel">
+          <span class="arrrow abs pointer">r</span>
+          <a href="/mobile-monitoring" class="mobile" onclick="NR_BASE.trackGoogleAnalyticsEvent('Nav Products Click', 'Mobile')">New Relic MOBILE <span class="arrrow abs hidden" id="prod-sub">n</span></a>
+        </li>
+        <li class="rel">
+          <span class="arrrow abs pointer">r</span>
+          <a href="/insights" class="insights" onclick="NR_BASE.trackGoogleAnalyticsEvent('Nav Products Click', 'Insights')">New Relic INSIGHTS</a>
+        </li>
+        <li class="rel">
+          <span class="arrrow abs pointer">r</span>
+          <a href="/server-monitoring" class="servers" onclick="NR_BASE.trackGoogleAnalyticsEvent('Nav Products Click', 'Servers')">New Relic SERVERS</a>
+        </li>
+        <li class="rel">
+          <span class="arrrow abs pointer">r</span>
+          <a href="/real-user-monitoring" class="browser" onclick="NR_BASE.trackGoogleAnalyticsEvent('Nav Products Click', 'Browser')">New Relic BROWSER</a>
+        </li>
+        <li class="rel">
+          <span class="arrrow abs pointer">r</span>
+          <a href="/platform" class="platform" onclick="NR_BASE.trackGoogleAnalyticsEvent('Nav Products Click', 'Platform')">New Relic PLATFORM</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="col-xs-12 rel">
+      <a href="#" id="product-close" class="abs" onclick="$('#nav-products').fadeOut(250);">+</a>
+    </div>
+  </section>
+</div>
 
   <section id="html-messages">
   <!--[if lt IE 9]>
@@ -875,495 +840,280 @@
 </section>
 
   
-<div class="content stand-space on-parchment" id="hero">
-  <section>
-    <header>
+<div class="stand-space on-light" id="hero">
+  <section class="container cf">
+    <header class="col-xs-12">
       <h1>Privacy Policy</h1>
     </header>
   </section>
 </div>
 
-<div class="content stand-space on-light" id="security_details">
-  <section>
-    <article>
-      <p>New Relic, Inc (<strong>“New Relic”</strong>) is committed to protecting 
-        your privacy. We have prepared this Privacy Policy to describe to you our practices 
-        regarding the Application Data and Personal Data (each as defined below) that we collect 
-        from users of our website (located at www.newrelic.com), the New Relic RPM products 
-        (the <strong>“Products”</strong>), or related services. This Privacy Policy 
-        is incorporated into, and considered a part of, the New Relic Terms of Service, currently 
-        located at <a href="/terms">http://newrelic.com/terms</a>.</p>
+<div class="stand-space on-light" id="security_details">
+  <section class="container cf">
+    <article class="col-xs-12">
+      <p>New Relic, Inc (<strong>“New Relic”</strong>) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Application Data and Personal Data (each as defined below) that we collect from users of our website (located at www.newrelic.com), the New Relic RPM products (the <strong>“Products”</strong>), or related services. This Privacy Policy is incorporated into, and considered a part of, the New Relic Terms of Service, currently located at <a href="/terms">http://newrelic.com/terms</a>.</p>
 
-      <p>This Privacy Policy covers our collection, use and disclosure of information we 
-        collect through our website www.newrelic.com and our service rpm.newrelic.com. 
-        The use of information collected through our service shall be limited to the purpose 
-        of providing the service for which the Client has engaged New Relic.</p>
+      <p>This Privacy Policy covers our collection, use and disclosure of information we collect through our website www.newrelic.com and our service rpm.newrelic.com. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged New Relic.</p>
 
-      <p>New Relic, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy 
-        policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s 
+      <p>
+        <span id="c00f6cce-27e8-4ce1-8543-881409885289" style="float:right;padding:0 0 0 20px;"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/New-Relic,-Inc-/asc?rid=c00f6cce-27e8-4ce1-8543-881409885289"></script><a href="//privacy.truste.com/privacy-seal/New-Relic,-Inc-/validation?rid=6d18ab8c-b6a2-4c05-aaf0-ae2a559caece" title="Validate TRUSTe privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/New-Relic,-Inc-/seal?rid=6d18ab8c-b6a2-4c05-aaf0-ae2a559caece" alt="Validate TRUSTe privacy certification"></a></span>
+        New Relic, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s
         <a href="http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html">
         Program Requirements</a> and the <a href="http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html">
-        TRUSTed Cloud Program Requirements</a> including transparency, accountability and choice 
-        regarding the collection and use of your personal information. TRUSTe's mission, as 
-        an independent third party, is to accelerate online trust among consumers and organizations 
-        globally through its leading privacy trustmark and innovative trust solutions. If you 
-        have questions or complaints regarding our privacy policy or practices, please contact 
-        us at <a href="mailto:info@newrelic.com?subject=privacy policy inquiry">info@newrelic.com</a>.  
-        If you are not satisfied with our response you can contact 
-        <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>.  The TRUSTe 
-        program does not cover information that may be collected through downloadable software or 
-        through offline means. </p>
+        TRUSTed Cloud Program Requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:info@newrelic.com?subject=privacy policy inquiry">info@newrelic.com</a>.
+        If you are not satisfied with our response you can contact
+        <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>.  The TRUSTe program covers the website <a href="http://www.newrelic.com">www.newrelic.com</a>, New Relic RPM and New Relic mobile app. The TRUSTe program does not cover information that may be collected through downloadable software or through offline means. </p>
 
-      <p>New Relic complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework
-         as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of 
-         personal information from European Union member countries and Switzerland.  New Relic has certified 
-         that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, 
-         data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view 
-         New Relic’s certification, please visit
-        <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</p>
+      <p><span style="display:inline-block;float:right;padding:0 0 0 20px;">
+        <a href="https://safeharbor.export.gov/list.aspx" style="display:block;font-size:11px;font-weight:normal;color:#454545;">We self-certify compliance with:</a>
+        <a href="http://www.export.gov/safeharbor"><img alt="U.S. / EU Safe Harbor" height="70" src="/assets/pages/application_monitoring/badge-safe-harbor-6fe0aa21d18060065c41cab8efe65542.png"></a>
+        </span>
+        New Relic complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. New Relic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view New Relic’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</p>
 
       <h3>User Consent</h3>
-      <p>By submitting or making available Application Data or Personal Data through our website, 
-        Products, or related services, you agree to the terms of this Privacy Policy and you expressly 
-        consent to the processing of your Application Data and Personal Data in accordance with this 
-        Privacy Policy. Your Personal Data may be processed in the country in which it was collected 
-        and in other countries, including the United States, where laws regarding processing of 
-        Personal Data may be less stringent than the laws in your country.</p>
-        
-      <h2>Information We Collect About You</h2>  
+      <p>By submitting or making available Application Data or Personal Data through our website, Products, or related services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Application Data and Personal Data in accordance with this Privacy Policy. Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country.</p>
+
+      <h2>Information We Collect About You</h2>
 
       <h3>A Note About Children</h3>
       <p>We do not intentionally gather Personal Data about visitors who are under the age of 13.</p>
 
       <h3>Types of Data We Collect</h3>
-      <p>New Relic collects Personal Data and Anonymous Data from you when you visit our site, when 
-        you send us information or communications, and/or when you download and use our Products.  
-        <strong>“Personal Data”</strong> means data that allows someone to identify or 
-        contact you, including, for example, your name, phone number, zip code, and e-mail address. 
-        <strong>“Anonymous Data”</strong> means data about you that is not associated with 
-        or linked to your Personal Data (but does not include Application Data, which is covered later 
-        in this Privacy Policy); Anonymous Data does not permit the identification of individual persons. 
-        We collect Personal Data and Anonymous Data, as described below.</p>
+      <p>New Relic collects Personal Data and Anonymous Data from you when you visit our site, when you send us information or communications, and/or when you download and use our Products.  <strong>“Personal Data”</strong> means data that allows someone to identify or contact you, including, for example, your name, phone number, zip code, and e-mail address.  <strong>“Anonymous Data”</strong> means data about you that is not associated with or linked to your Personal Data (but does not include Application Data, which is covered later in this Privacy Policy); Anonymous Data does not permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
+</p>
 
       <h3>Personal Data You Provide to Us</h3>
-      <p>We collect Personal Data from you, such as first and last name, phone number, zip code, e-mail, 
-        professional title, company name, and password, when you purchase Products, register to receive 
-        information, or post a comment on our blog. In addition, we (or our third-party credit card or 
-        payment processor on our behalf) will collect Personal Data including your credit card number or 
-        account information when you purchase Products or services on our website. We also retain information 
-        on your behalf, such as the Personal Data described above and any correspondence or blog comments. 
-        If you provide us feedback or contact us via e-mail (e.g., in response to an employment opportunity 
-        posted on our website), we will collect your name and e-mail address, as well as any other content 
-        included in the e-mail, in order to send you a reply, and any information that you submit to us, 
-        such as a resume. When you participate in one of our surveys, we may collect additional profile 
-        information such as your name, phone number, address, and e-mail address. When you post comments 
-        on our blog, the information contained in your posting will be stored on our servers and other 
-        users will be able to see it. To request removal of your personal information from our blog or 
-        community forum, contact us at <a href="mailto:info@newrelic.com?subject=privacy policy inquiry">info@newrelic.com</a>. 
-        In some cases, we may not be able to remove your personal information, in which case we will let you know 
-        if we are unable to do so and why. We also collect other types of Personal Data that you provide to us 
-        voluntarily, such as operating system and version, information about your application and operating environment, 
-        and other requested information if you contact us via e-mail regarding support for the Products). 
-        We may also collect Personal Data at other points in our website that state that Personal Data is being collected.</p>
+      <p>We collect Personal Data from you, such as first and last name, phone number, zip code, e-mail, professional title, company name, and password, when you purchase Products, register to receive information, or post a comment on our blog. In addition, we (or our third-party credit card or payment processor on our behalf) will collect Personal Data including your credit card number or account information when you purchase Products or services on our website. We also retain information on your behalf, such as the Personal Data described above and any correspondence or blog comments. If you provide us feedback or contact us via e-mail (e.g., in response to an employment opportunity posted on our website), we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply, and any information that you submit to us, such as a resume. When you participate in one of our surveys, we may collect additional profile information such as your name, phone number, address, and e-mail address. When you post comments on our blog, the information contained in your posting will be stored on our servers and other users will be able to see it. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:info@newrelic.com?subject=privacy policy inquiry">info@newrelic.com</a>.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. We also collect other types of Personal Data that you provide to us voluntarily, such as operating system and version, information about your application and operating environment, and other requested information if you contact us via e-mail regarding support for the Products). We may also collect Personal Data at other points in our website that state that Personal Data is being collected.
+</p>
 
       <h3>Personal Data Collected via Technology</h3>
-      <p>To make our website, Products, and related services more useful to you, our servers (which may be 
-        hosted by a third-party service provider) collect Personal Data from you, such as browser type, 
-        operating system, Internet Protocol (IP) address (a number that is automatically assigned to your 
-        computer when you use the Internet, which may vary from session to session), domain name, and/or a 
-        date/time stamp for your visit. We may also use Cookies (as defined below) and navigational data 
-        like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit 
-        and the solutions and information for which you searched and which you viewed. Like most Internet 
-        services, we automatically gather this Personal Data and store it in log files each time you visit 
-        our website or access your account on our network.</p>
+      <p>To make our website, Products, and related services more useful to you, our servers (which may be hosted by a third-party service provider) collect Personal Data from you, such as browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit. We may also use Cookies (as defined below) and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and which you viewed. Like most Internet services, we automatically gather this Personal Data and store it in log files each time you visit our website or access your account on our network.</p>
 
-      <p><strong>“Cookies”</strong> are small pieces of information that a website sends to your 
-        computer’s hard drive while you are viewing a web site. We link the information we store in cookies 
-        to the personally identifiable information you submit while on our site. We may use both session Cookies 
-        (which expire once you close your web browser) and persistent Cookies (which stay on your computer until 
-        you delete them) to provide you with a more personal and interactive experience on our website. Persistent 
-        Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, 
-        some areas of our website may not work properly.</p>
-        
-      <p>The use of cookies by our [partners, affiliates, tracking utility company, service providers] is not 
-        covered by our privacy statement.  We do not have access or control over these cookies.  Our [partners, 
-        affiliates, tracking utility company, service providers] use session ID cookies to improve the quality of 
-        experience when you interact with our website, Products, and related services.</p>
+      <p><strong>“Cookies”</strong> are small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site. We link the information we store in cookies to the personally identifiable information you submit while on our site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our website. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of our website may not work properly.</p>
 
-      <p>Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web 
-        Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.  
-        Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to 
-        track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer 
-        hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the 
-        end of this sentence. We tie the information gathered by clear gifs to our customers’ personally 
-        identifiable information. </p>
-      
-      <p>We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients.  
-        This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing 
-        campaigns. </p>
-      
-      <p>We use local shared objects, also known as Flash cookies, to serve you video content. Third Parties, 
-        with whom we partner to provide these features on our site, use Flash cookies to collect and store 
-        information.</p>
-      
-      <p>Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.  
-        Cookie management tools provided by your browser will not remove Flash cookies.  To learn how to manage 
-        privacy and storage settings for Flash cookies click 
-        <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118">here</a>. </p>
-        
+      <p>The use of cookies by our [partners, affiliates, tracking utility company, service providers] is not covered by our privacy statement. We do not have access or control over these cookies. Our [partners, affiliates, tracking utility company, service providers] use session ID cookies to improve the quality of experience when you interact with our website, Products, and related services.</p>
+
+      <p>Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personally identifiable information.</p>
+
+      <p>We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. </p>
+
+      <p>We use local shared objects, also known as Flash cookies, to serve you video content. Third Parties, with whom we partner to provide these features on our site, use Flash cookies to collect and store information.</p>
+
+      <p>Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click
+      <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118">here</a>. </p>
+
       <h3>Personal Data Collected by Third Parties</h3>
-      <p>We may receive Personal Data about you from other sources like telephone or fax, from companies that provide 
-        our Products or services by way of a co-branded or private-labeled website, companies that offer their 
-        products and/or services on our website, or companies that provide services (such as payment processing 
-        services) in connection with our website (<strong>“Partner Companies”</strong>). Our Partner 
-        Companies may supply us with Personal Data, such as your name and e-mail and mailing address information, 
-        in order to help us establish the account or fulfill orders. </p>
+      <p>We may receive Personal Data about you from other sources like telephone or fax, from companies that provide our Products or services by way of a co-branded or private-labeled website, companies that offer their products and/or services on our website, or companies that provide services (such as payment processing services) in connection with our website (<strong>“Partner Companies”</strong>). Our Partner Companies may supply us with Personal Data, such as your name and e-mail and mailing address information, in order to help us establish the account or fulfill orders. </p>
 
-      <p>Except as otherwise expressly provided in this Privacy Policy, only New Relic collects Personal Data 
-        through our website, Products, or the related services provided solely by New Relic. This Privacy Policy 
-        applies only to the use and disclosure of Personal Data that we collect while you use our website, 
-        Products, or related services. </p>
+      <p>Except as otherwise expressly provided in this Privacy Policy, only New Relic collects Personal Data through our website, Products, or the related services provided solely by New Relic. This Privacy Policy applies only to the use and disclosure of Personal Data that we collect while you use our website, Products, or related services.</p>
 
-      <p>Our provision of a link to any other website or location is for your convenience and does not signify 
-        our endorsement of such other website or location or its contents. When you click on such a link, 
-        you will leave our site and go to another site. During this process, a third party may collect Personal 
-        Data or Anonymous Data from you.</p>
+      <p>Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. When you click on such a link, you will leave our site and go to another site. During this process, a third party may collect Personal Data or Anonymous Data from you.</p>
 
-      <p>We have no control over, do not review, and cannot be responsible for, these outside websites or their 
-        content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites 
-        or content, or to any collection of data after you click on a link to a third party. We encourage you 
-        to carefully read the privacy statement of any Web site you visit.</p>
+      <p>We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on a link to a third party. We encourage you to carefully read the privacy statement of any Web site you visit.</p>
 
       <h3>Use of Your Personal Data</h3>
-      <p>In general, Personal Data you submit to us is used either to respond to requests that you make, or 
-        to aid us in serving you better. New Relic uses your Personal Data in the following ways: to facilitate 
-        the creation of and secure your account on our network; identify you as a user in our system; provide 
-        improved administration of our website, Products, and related services; improve the quality of experience 
-        when you interact with our website, Products, and related services; send you a welcome e-mail to verify 
-        ownership of the e-mail address provided when your account was created; send you administrative e-mail 
-        notifications, such as security or support and maintenance advisories; respond to your inquiries related to 
-        employment opportunities or other requests; send promotional communications; provide you with hardcopy or 
-        electronic newsletters, or surveys; send upgrades and special offers related to our Products and related 
-        services and for other marketing purposes of New Relic, should you request to receive such communications 
-        from us; make telephone calls to you, from time to time, as a part of secondary fraud protection or to 
-        solicit your feedback.</p>
+      <p>In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. New Relic uses your Personal Data in the following ways: to facilitate the creation of and secure your account on our network; identify you as a user in our system; provide improved administration of our website, Products, and related services; improve the quality of experience when you interact with our website, Products, and related services; send you a welcome e-mail to verify ownership of the e-mail address provided when your account was created; send you administrative e-mail notifications, such as security or support and maintenance advisories; respond to your inquiries related to employment opportunities or other requests; send promotional communications; provide you with hardcopy or electronic newsletters, or surveys; send upgrades and special offers related to our Products and related services and for other marketing purposes of New Relic, should you request to receive such communications from us; make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback.</p>
 
-      <p>We may create Anonymous Data records from Personal Data by excluding information (such as your name) that 
-        make the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns 
-        so that we may enhance the content of our Products and services and improve site navigation. New Relic reserves 
-        the right to use for other purposes and to disclose Anonymous Data to third parties in its discretion. </p>
+      <p>We may create Anonymous Data records from Personal Data by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Products and services and improve site navigation. New Relic reserves the right to use for other purposes and to disclose Anonymous Data to third parties in its discretion.</p>
 
-      <p>If you provide feedback on any of our Products or related services to us, we may use such feedback for any 
-        purpose, provided we will not associate such feedback with your Application Data or your Personal Data. New Relic 
-        will collect any information contained in such communication and will treat the Application Data and Personal 
-        Data in such communication in accordance with this Privacy Policy.</p>
+      <p>If you provide feedback on any of our Products or related services to us, we may use such feedback for any purpose, provided we will not associate such feedback with your Application Data or your Personal Data. New Relic will collect any information contained in such communication and will treat the Application Data and Personal Data in such communication in accordance with this Privacy Policy.</p>
 
       <h3>Disclosure of Your Personal Data</h3>
-      <p>We may share your Personal Data with third parties to provide technical support or to provide specific 
-        services, such as hosting of your applications, communicating with you via live chat software or 
-        payment processing for purchases.</p>
-        
-      <p>Regardless of any choices you make regarding your Personal Data (as described below), New Relic may 
-        disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply 
-        with relevant laws or to respond to subpoenas or warrants served on New Relic; or (b) protect or 
-        defend the rights or property of New Relic or users of the Products or related services. </p>
-        
-      <p>If New Relic is involved in a merger, acquisition, or sale of all or a portion of its assets, you 
-        will be notified via email and/or a prominent notice on our Web site of any change in ownership or 
-        uses of your personal information, as well as any choices you may have regarding your personal 
-        information.</p>  
+      <p>We may share your Personal Data with third parties to provide technical support or to provide specific services, such as hosting of your applications, communicating with you via live chat software or payment processing for purchases.</p>
 
-      <p>Except as otherwise stated in this policy, we do not  sell, trade, share, or rent the Personal Data 
-        collected from our services to third parties other than as outlined in this policy. You expressly 
-        consent to the sharing of your Personal Data as described in this policy.</p>
+      <p>Regardless of any choices you make regarding your Personal Data (as described below), New Relic may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on New Relic; or (b) protect or defend the rights or property of New Relic or users of the Products or related services. </p>
+
+      <p>If New Relic is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</p>
+
+      <p>Except as otherwise stated in this policy, we do not sell, trade, share, or rent the Personal Data collected from our services to third parties other than as outlined in this policy. You expressly consent to the sharing of your Personal Data as described in this policy.</p>
+
+      <h3>Mobile Application</h3>
+      <p>When you use our New Relic mobile app, we do not ask for, access or track any specific location based information from your mobile device at any time while downloading or using our mobile apps or services. We send push notifications to alert you of new activity on New Relic. If you no longer wish to receive such push communications, please turn them off at the device level.</p>
 
       <h3>Your Choices Regarding Your Personal Data</h3>
-      <p>We offer you choices regarding the collection, use, and sharing of your Personal Data. We will 
-        periodically send you free newsletters and e-mails that directly promote the use of our site 
-        or the purchase of our Products or services. When you receive newsletters or promotional communications 
-        from us, you may indicate a preference to stop receiving further communications from us and you 
-        will have the opportunity to “opt-out” by following the unsubscribe instructions 
-        provided in the e-mail you receive or by contacting us directly (please see contact information 
-        below). Should you decide to opt-out of receiving future mailings, we may share your e-mail 
-        address with third parties to ensure that you do not receive further communications from third 
-        parties. Despite your indicated e-mail preferences, we may send you notices of any updates 
-        to our Terms of Service or Privacy Policy.</p>
+      <p>We offer you choices regarding the collection, use, and sharing of your Personal Data. We will periodically send you free newsletters and e-mails that directly promote the use of our site or the purchase of our Products or services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). Should you decide to opt-out of receiving future mailings, we may share your e-mail address with third parties to ensure that you do not receive further communications from third parties. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Service or Privacy Policy.</p>
 
-      <p>You may change any of your Personal Data in your account by editing your profile within 
-        the registration portion of our website or by sending an e-mail to us at the e-mail 
-        address set forth below. You may request deletion of your account information by us by 
-        sending an email to <a href="mailto:support@newrelic.com">support@newrelic.com</a>, but 
-        please note that we may be required (by law or otherwise) to keep this information and not 
-        delete it (or to keep this information for a certain time, in which case we will comply with 
-        your deletion request only after we have fulfilled such requirements). When we delete account 
-        information, it will be deleted from the active database, but may remain in our archives. We 
-        will otherwise retain your information for as long as your account is active or as needed to 
-        provide you services as well as is necessary to comply with our legal obligations, resolve 
-        disputes, and enforce our agreements.</p>
-        
-      <h3>Advertising</h3>  
-      <p>We partner with a third party ad network to either display advertising on our Web site or to 
-        manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to 
-        collect non-personally identifiable information about your activities on this and other Web sites 
-        to provide you targeted advertising based upon your interests. If you wish to not have this 
-        information used for the purpose of serving you targeted ads, you may opt-out by 
-        <a href="http://preferences.truste.com/">clicking here</a>.</p>  
+      <p>You may change any of your Personal Data in your account by editing your profile within the registration portion of our website or by sending an e-mail to us at the e-mail address set forth below. You may request deletion of your account information by us by sending an email to <a href="mailto:support@newrelic.com">support@newrelic.com</a>, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). We will respond to access to Personal Data within 30 days. When we delete account information, it will be deleted from the active database, but may remain in our archives. We will otherwise retain your information for as long as your account is active or as needed to provide you services as well as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+</p>
+
+      <h3>Advertising</h3>
+      <p>We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by <a href="http://preferences.truste.com/">clicking here</a>.</p>
       <p>Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p>
-        
+
       <h3>Testimonials</h3>
-      <p>We post customer testimonials on our web site which may contain personally identifiable information.  
-        We do obtain the customer's consent via email prior to posting the testimonial to post their name 
-        along with their testimonial. If you want your testimonial removed please contact us at 
-        <a href="mailto:info@newrelic.com?subject=privacy policy inquiry">info@newrelic.com</a>.</p>
-      
+      <p>We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at <a href="mailto:info@newrelic.com?subject=privacy policy inquiry">info@newrelic.com</a>.</p>
+
       <h3>Social Media Features and Widgets</h3>
-      <p>Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as 
-        the Share this button or interactive mini-programs that run on our site. These Features may collect 
-        your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature 
-        to function properly. Social Media Features and Widgets are either hosted by a third party or hosted 
-        directly on our Site. Your interactions with these Features are governed by the privacy policy of the 
-        company providing it.</p>
-      
+      <p>Our web site includes social media features, such as the Facebook Like button and widgets, such as the “Share this” button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it.</p>
+
       <h3>Your California Privacy Rights</h3>
-      <p>Our customers who are California residents may request and obtain from us once a year, free of charge, 
-        certain information about the Personal Data (if any) we disclosed to third parties for direct marketing 
-        purposes in the preceding calendar year. If applicable, this information would include a list of the 
-        categories of Personal Data that was shared and the names and addresses of all third parties with which 
-        we shared information in the immediately preceding calendar year. If you are a California resident 
-        and would like to make such a request, please submit your request in writing to 
-        <a href="mailto:info@newrelic.com?subject=privacy policy inquiry">info@newrelic.com</a></p>
-        
+      <p>Our customers who are California residents may request and obtain from us once a year, free of charge, certain information about the Personal Data (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Data that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to <a href="mailto:info@newrelic.com?subject=privacy policy inquiry">info@newrelic.com</a></p>
+
       <h3>Information Related to Data Collected for our Clients</h3>
-      <p>New Relic processes information under the direction of its Clients, and has no direct relationship 
-        with the individuals whose personal data it processes. New Relic works with its Clients to help them 
-        provide notice to their customers concerning, the purpose for which personal information is collected.</p>
-      
-      <p>We collect personally identifiable information such as first and last name, phone number, zip code, 
-        e-mail address, professional title, company name, and password from our Customers.</p>
-      
-      <p>We use this information to respond to requests that you make, or to aid us in serving you better. 
-        New Relic uses your Personal Data in the following ways: to facilitate the creation of and secure your 
-        account on our network; identify you as a user in our system; provide improved administration of our website, 
-        Products, and related services; improve the quality of experience when you interact with our website, 
-        Products, and related services; send you a welcome e-mail to verify ownership of the e-mail address provided 
-        when your account was created; send you administrative e-mail notifications, such as security or support 
-        and maintenance advisories; send promotional communications; provide you with hardcopy or electronic newsletters, 
-        or surveys; send upgrades and special offers related to our Products and related services and for other 
-        marketing purposes of New Relic, should you request to receive such communications from us; make telephone 
-        calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback.</p>
-      
-      <p>New Relic collects information under the direction of its Clients, and has no direct relationship 
-        with the individuals whose personal data it processes. New Relic works with its Clients to help 
-        them provide notice to their customers concerning, the purpose for which personal information 
-        is collected.</p>
-        
+      <p>New Relic processes information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. New Relic works with its Clients to help them provide notice to their customers concerning, the purpose for which personal information is collected.</p>
+
+      <p>We collect personally identifiable information such as first and last name, phone number, zip code, e-mail address, professional title, company name, and password from our Customers.</p>
+
+      <p>We use this information to respond to requests that you make, or to aid us in serving you better. New Relic uses your Personal Data in the following ways: to facilitate the creation of and secure your account on our network; identify you as a user in our system; provide improved administration of our website, Products, and related services; improve the quality of experience when you interact with our website, Products, and related services; send you a welcome e-mail to verify ownership of the e-mail address provided when your account was created; send you administrative e-mail notifications, such as security or support and maintenance advisories; send promotional communications; provide you with hardcopy or electronic newsletters, or surveys; send upgrades and special offers related to our Products and related services and for other marketing purposes of New Relic, should you request to receive such communications from us; make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback.</p>
+
+      <p>New Relic collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. New Relic works with its Clients to help them provide notice to their customers concerning, the purpose for which personal information is collected.</p>
+
       <h3>Choice</h3>
-      <p>We collect information for our clients, if you are a customer of one of our Clients and would no 
-        longer like to be contacted by one of our Clients that use our service, please contact the client 
-        that you interact with directly. If you are a Client and would like to update your account please 
-        email us at <a href="mailtto:support@newrelic.com">support@newrelic.com</a>.</p>
-      
+      <p>We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly. If you are a Client and would like to update your account please email us at <a href="mailtto:support@newrelic.com">support@newrelic.com</a>.</p>
+
       <h3>Access to Data Controlled by our Clients</h3>
-      <p>New Relic has no direct relationship with the individuals whose personal data it processes nor does 
-        it store the information provided to the Customer. An individual who seeks access, or who seeks to 
-        correct, amend, or delete inaccurate data should direct his query to the New Relic’s Client (the 
-        data controller). If the Client requests New Relic to remove the data, we will respond to their 
-        request within 30 business days. </p>
-      
+      <p>New Relic has no direct relationship with the individuals whose personal data it processes nor does it store the information provided to the Customer. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the New Relic’s Client (the data controller). If the Client requests New Relic to remove the data, we will respond to their request within 30 business days. </p>
+
       <h3>Types of Application Data We Collect</h3>
-      <p>New Relic collects Application Data when our Products are deployed in your applications. 
-        <strong>“Application Data”</strong> means data about the performance of your application, 
-        system data (such as version data, names of plug-ins, etc.) about the environment in which your 
-        application is operating, data about transactions in your application 
-        (<strong>“Transaction Data”</strong>), stack traces and source code snippets for certain 
-        classes of errors, and other similar data related to your application. </p>
+      <p>New Relic collects Application Data when our Products are deployed in your applications.  <strong>“Application Data”</strong> means data about the performance of your application, system data (such as version data, names of plug-ins, etc.) about the environment in which your application is operating, data about transactions in your application (<strong>“Transaction Data”</strong>), stack traces and source code snippets for certain classes of errors, and other similar data related to your application. </p>
 
       <h3>Use of Your Application Data</h3>
-      <p>Application Data we collect is primarily used to display application performance information back to 
-        the account user. It is also used by New Relic personnel to answer questions that customers may have 
-        about their account and to develop and improve our products. New Relic may also aggregate Application 
-        Data across multiple accounts and use this data to create and publish industry benchmarks or 
-        comparative application performance metrics. Individual Transaction Data collected by New Relic is 
-        obfuscated by default. Users have the option of changing the configuration of New Relic’s products so 
-        that individual Transaction Data is not obfuscated. You also have the option of disabling collection 
-        of certain types of Application Data collected through our Products and services, which you may exercise 
-        by following the instructions in the user manual for the applicable Product or service.</p>
+      <p>Application Data we collect is primarily used to display application performance information back to the account user. It is also used by New Relic personnel to answer questions that customers may have about their account and to develop and improve our products. New Relic may also aggregate Application Data across multiple accounts and use this data to create and publish industry benchmarks or comparative application performance metrics. Individual Transaction Data collected by New Relic is obfuscated by default. Users have the option of changing the configuration of New Relic’s products so that individual Transaction Data is not obfuscated. You also have the option of disabling collection of certain types of Application Data collected through our Products and services, which you may exercise by following the instructions in the user manual for the applicable Product or service.</p>
 
       <h3>Disclosure of Your Application Data</h3>
-      <p>We may share your Application Data with third parties to provide technical support or to provide 
-        specific services, such as hosting of your applications.</p>
+      <p>We may share your Application Data with third parties to provide technical support or to provide specific services, such as hosting of your applications.</p>
 
-      <p>We may enter into agreements with Partner Companies such as hosting companies or other services 
-        providers. A Partner Company may want access to Application Data that we collect from its customers. 
-        As a result, we may provide your Application Data to a Partner Company on a confidential basis in order 
-        assist the Partner Company in providing customer support. Because we do not control the privacy practices 
-        of our Partner Companies, you should read and understand their privacy policies.</p>
+      <p>We may enter into agreements with Partner Companies such as hosting companies or other services providers. A Partner Company may want access to Application Data that we collect from its customers. As a result, we may provide your Application Data to a Partner Company on a confidential basis in order assist the Partner Company in providing customer support. Because we do not control the privacy practices of our Partner Companies, you should read and understand their privacy policies.</p>
 
-      <p>New Relic may disclose Application Data if it believes in good faith that such disclosure is necessary 
-        to (a) comply with relevant laws or to respond to subpoenas or warrants served on New Relic; or (b) protect 
-        or defend the rights or property of New Relic or users of the Products or related services.</p>
-      
-      <p>If another company acquires our company or our assets, that company will possess the Application Data 
-        collected by it and us and will assume the rights and obligations regarding your Application Data as 
-        described in this Privacy Policy.</p>
-      
-      <p>Except as otherwise stated in this policy, we do not  disclose the Application Data collected from our 
-        services to third parties without consent from you. You expressly consent to the sharing of your Application 
-        Data as described in this policy.</p>
+      <p>New Relic may disclose Application Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on New Relic; or (b) protect or defend the rights or property of New Relic or users of the Products or related services.</p>
+
+      <p>If another company acquires our company or our assets, that company will possess the Application Data collected by it and us and will assume the rights and obligations regarding your Application Data as described in this Privacy Policy.</p>
+
+      <p>Except as otherwise stated in this policy, we do not disclose the Application Data collected from our services to third parties without consent from you. You expressly consent to the sharing of your Application Data as described in this policy.</p>
 
       <h3>Security of Your Application and Personal Data</h3>
-      <p>New Relic is committed to protecting the security of your Application Data and Personal Data. We use 
-        a variety of industry-standard security technologies and procedures to help protect your Application 
-        Data and Personal Data from unauthorized access, use, or disclosure. When you enter sensitive information 
-        (such as a credit card number) on our order forms, we encrypt the transmission of that information using 
-        secure socket layer technology (SSL). We also require you to enter a password to access your account 
-        information. Please do not disclose your account password to unauthorized people. Despite these measures, 
-        you should know that New Relic cannot fully eliminate security risks associated with Application Data and 
-        Personal Data and mistakes and security breaches may happen. If you have any questions about security on 
-        our Web site, you can contact us at the information below.</p>
+      <p>New Relic is committed to protecting the security of your Application Data and Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Application Data and Personal Data from unauthorized access, use, or disclosure. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We also require you to enter a password to access your account information. Please do not disclose your account password to unauthorized people. Despite these measures, you should know that New Relic cannot fully eliminate security risks associated with Application Data and Personal Data and mistakes and security breaches may happen. If you have any questions about security on our Web site, you can contact us at the information below.</p>
 
       <h3>Contact Information</h3>
-      <p>New Relic welcomes your comments or questions regarding this Privacy Policy.
-        Please e-mail us at <a href="mailto:info@newrelic.com?subject=privacy policy inquiry">info@newrelic.com</a>
-        or contact us at the following address:</p>
+      <p>New Relic welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at<a href="mailto:info@newrelic.com?subject=privacy policy inquiry">info@newrelic.com</a> or contact us at the following address:</p>
 
       <p style="margin:0;">New Relic, Inc. <br>
       Attn: Legal Department</p>
-      <p>188 Spear Street, Suite 1200<br>San Francisco, CA 94105</p>
+      <p>188 Spear Street, Suite 1200 <br> San Francisco, CA 94105</p>
 
       <h3>Changes to This Privacy Policy</h3>
 
-      <p>This Privacy Policy is subject to occasional revision, and if we make any substantial changes 
-        in the way we use your Application Data and Personal Data, we will notify you by sending you an 
-        e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the 
-        changes on our website. Any material changes to this Privacy Policy will be effective upon the 
-        earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you of the 
-        changes, thirty (30) calendar days following our posting of notice of the changes on our site, 
-        or the date that you accept the changes (e.g., by clicking an “I Accept” button
-        or similar means). These changes will be effective immediately for new users of our website, 
-        Products or related services. Please note that at all times you are responsible for updating 
-        your Personal Data to provide us with your most current e-mail address. In the event that the 
-        last e-mail address that you have provided us is not valid, or for any reason is not capable of 
-        delivering to you the notice described above, our dispatch of the e-mail containing such notice 
-        will nonetheless constitute effective notice of the changes described in the notice. In any event, 
-        changes to this Privacy Policy may affect our use of Application Data or Personal Data that you 
-        provided us prior to our notification to you of the changes. If you do not wish to permit changes 
-        in our use of your Application Data or Personal Data, you must notify us prior to the effective 
-        date of the changes that you wish to deactivate your account with us. Continued use of our website, 
-        Products, or related services, following notice of such changes shall indicate your acknowledgement 
-        of such changes and agreement to be bound by the terms and conditions of such changes.</p>
+      <p>This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Application Data and Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our website. Any material changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you of the changes, thirty (30) calendar days following our posting of notice of the changes on our site, or the date that you accept the changes (e.g., by clicking an “I Accept” button or similar means). These changes will be effective immediately for new users of our website, Products or related services. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Application Data or Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Application Data or Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of our website, Products, or related services, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.</p>
 
-      <p>This Privacy Policy was last revised on January 23, 2012.</p>
+      <p>This Privacy Policy was last revised on May 28, 2014.</p>
     </article>
   </section>
 </div>
 
+
   
-<div id="red-noise" class="content">
-  <div class="content">
-    <section>
+<div id="red-noise">
+  <div class="container">
+    <section class="col-xs-12">
       <article class="footmenu">
         <div>
-          <h6 class="serif">Product</h6>
-          <p><a href="/application-monitoring">Web Application Monitoring</a></p>
-          <p><a href="/mobile-monitoring">Mobile Application Monitoring</a></p>
-          <p><a href="/server-monitoring">Server Monitoring</a></p>
-          <p><a href="/platform">Open Platform</a></p>
-          <p><a href="http://newrelic.com/mobility">New Relic for iPhone &amp; iPad</a></p>
+          <h6>Product</h6>
+          <p class="nm"><a href="/application-monitoring">New Relic APM</a></p>
+          <p class="nm"><a href="/mobile-monitoring">New Relic Mobile</a></p>
+          <p class="nm"><a href="/insights">New Relic Insights</a></p>
+          <p class="nm"><a href="/server-monitoring">New Relic Servers</a></p>
+          <p class="nm"><a href="/real-user-monitoring">New Relic Browser</a></p>
+          <p class="nm"><a href="/platform">New Relic Platform</a></p>
+          <p class="nm" title="Get New Relic on your iPad, iPhone, or Android phone"><a href="http://newrelic.com/mobility">New Relic for iOS &amp; Android</a></p>
           <p><a href="/speedindex">App Speed Index</a></p>
-          <p><a href="/resources">Resources</a></p>
           <p><a href="/pricing">Pricing</a></p>
           <p><a href="/connect">Connect</a></p>
         </div>
         <div>
-          <h6 class="serif">Support</h6>
-          <p><a href="mailto:support@newrelic.com">support@newrelic.com</a></p>
-          <p><a href="https://support.newrelic.com/">Open a support request</a></p>
-          <p><a href="http://newrelic.com/docs">Documentation</a></p>
+          <h6>Support</h6>
           <p><a href="http://status.newrelic.com">New Relic Status</a></p>
+          <p><a href="http://newrelic.com/docs">Documentation</a></p>
+          <p><a href="https://discuss.newrelic.com">Community Forum</a></p>
+          <p><a href="https://support.newrelic.com/">Get Support</a></p>
           <p><a href="http://trust.newrelic.com">Security</a></p>
         </div>
-        <div>
-          <h6 class="serif">About</h6>
+        <div class="nm">
+          <h6>About</h6>
           <p><a href="/about">Overview</a></p>
-          <p><a href="/about/customers">Our Customers</a></p>
-          <p><a href="/partners">Our Partners</a></p>
-          <p><a href="/about/leadership">Our Leadership</a></p>
-          <p><a href="/offers">Offers</a></p>
-          <p><a href="/about/jobs">Jobs</a></p>
-          <p><a href="/about/press-releases">Press &amp; News</a></p>
+          <p><a href="/about/leadership">Leadership</a></p>
+          <p><a href="/about/news-room">News Room</a></p>
+          <p><a href="/about/culture">Careers &amp; Culture</a></p>
+          <p><a href="/about/customers">Customers</a></p>
           <p><a href="/about/contact-us">Contact Us</a></p>
+          <p><a href="/partners">Partners</a></p>
+          <p><a href="/offers">Offers</a></p>
+          <p><a href="/community">Community</a></p>
           <!--<p><a href="http://futurestack.io/" title="Learn about New Relic's first-ever user conference">{Future}Stack<sup>13</sup></a></p>-->
         </div>
         <div>
-          <h6 class="serif">Topics</h6>
+          <h6>Topics</h6>
           <p><a href="/devops">DevOps</a></p>
-            <p><a href="/software-analytics">Software Analytics</a></p>
+          <p><a href="/software-analytics">Software Analytics</a></p>
+          <p><a href="/mobile-hub">Mobile</a></p>
+        </div>
+        <div>
+          <h6>Resources</h6>
+          <p><a href="/resources/case-studies">Case Studies</a></p>
+          <p><a href="/resources/videos">Videos</a></p>
+          <p><a href="/resources/datasheets">Datasheets</a></p>
+          <p><a href="/resources/white-papers">White Papers</a></p>
+          <p><a href="/resources/ebooks">eBooks</a></p>
+          <p><a href="/resources/analyst-reports">Analyst Reports</a></p>
+          <p><a href="/resources/infographics">Infographics</a></p>
+          <p><a href="/resources/tutorials">Tutorials</a></p>
+          <p><a href="/resources/past-webinars">Webinars</a></p>
+          <p><a href="/resources">Latest Resources</a></p>
         </div>
         <div class="social">
-          <p class="facebook"><a href="http://www.facebook.com/NewRelic">Facebook</a></p>
-          <p class="feed"><a href="http://feeds2.feedburner.com/NewRelic">RSS</a></p>
-          <p class="twitter"><a href="http://www.twitter.com/NewRelic">Twitter</a></p>
-          <p class="gplus"><a href="https://plus.google.com/101892797062342077748" rel="publisher">Google +</a></p>
+          <a href="http://feeds2.feedburner.com/NewRelic" class="feed hover rel"><span class="abs">RSS</span></a>
+          <a href="https://plus.google.com/101892797062342077748" rel="publisher" class="gplus hover rel"><span class="abs">Google+</span></a>
+          <a href="http://www.twitter.com/NewRelic" class="twitter hover rel"><span class="abs">Twitter</span></a>
+          <a href="http://www.facebook.com/NewRelic" class="facebook hover rel"><span class="abs">Facebook</span></a>
         </div>
       </article>
     </section>
     <section>
       <article class="tagline">
-        <p class="serif">It's free, it's fast. Get the insights you need to improve your application's performance.</p>
+        <p>It's free, it's fast. Get the insights you need to improve your application's performance.</p>
         <div>
           <a href="#signup" class="a-button open-sesame" a-type="Footer Blue Signup">
             <span>Create Free Account</span>
           </a>
         </div>
-      <!--
-      <header>
-        
-      </header>
-      -->
+
       </article>
     </section>
   </div>
 </div>
 
-<footer class="content">
-  <section>
+<footer>
+  <section class="container cf">
     <article>
-      <span class="logo"><img alt="New Relic" src="/assets/newrelic/logo_46-15b0d64a9d6a833df7a9ae04087f7d6e.png"></span>
-      <span><a href="/terms">Terms of Service</a> &nbsp; | &nbsp; <a href="/privacy"> Privacy Policy/Your Privacy Rights</a></span>
-      <span>©2008-13 New Relic, Inc. All rights reserved. &nbsp;</span>
+      <div class="logo col-xs-12 col-md-2"><img alt="New Relic" class="lazy" data-original="/assets/newrelic/logo_46.png" src="/assets/null-5f6746fd860f69a15812b57871dd1425.png"></div>
+      <div class="col-xs-12 col-md-8 links">
+        <span>©2008-14 New Relic, Inc. All rights reserved.</span>&nbsp;&nbsp; 
+        <span><a href="/terms">Terms of Service</a></span>&nbsp;&nbsp; 
+        <span><a href="/dmca">DMCA Policy</a></span> &nbsp;&nbsp;
+        <span><a href="/privacy"> Privacy Policy/Your Privacy Rights</a></span>
+      </div>
+      <div class="gtranslate col-xs-12 col-md-2">
+        <div id="google_translate_element" style="text-align:center;margin:0 auto;padding:0 0 8px;white-space:nowrap;"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', gaTrack: true, gaId: 'UA-3047412-20'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+      </div>
     </article>
   </section>
 </footer>
 
-  <script src="/assets/application-9ee0fc389f653b897ecdbfd27d932c55.js" type="text/javascript"></script>
-  
-<div id="search-start" class="icon">s</div>
-<div id="search-holder">
-  <form method="post" action="" class="search">
-    <input type="search" id="st-search-input" placeholder="What are you searching for?">
-  </form>
-</div>
-
-
-
-
+  <script src="/assets/application-f4cefcdd56212840a8a09a22fe568b57.js" type="text/javascript"></script>
     <script>
   $('#search-start').click(function(){
-    if ($('#search-holder').width() == 245) {
-      $('#search-holder').animate({width:'240',right:'-245px'},500);
+    if ($('#search-holder').width() == 250) {
+      $('#search-holder').animate({width:0,opacity:0},500).fadeOut(0);
     } else {
-      $('#search-holder').animate({width:'245px',right:'0'},500).find('input').focus();
+      $('#search-holder').fadeIn(0).animate({width:'250px',opacity:1},500).find('input').focus();
     }
   });
   $('#search-start').click(function (event) {event.stopPropagation();});
-  $(window).scroll(function(){
-    if ($('#nav_header').hasClass('sticky')) {
-      $('#search-start').animate({height:'32px'},200).addClass('sticky');
-    } else {
-      $('#search-start').animate({height:'42px'},200).removeClass('sticky');
-    }
-  })
   var Swiftype = window.Swiftype || {};
   (function() {
     Swiftype.key = 'Ad9HfGjDw4GRkcmJjUut';
@@ -1383,25 +1133,12 @@
   }());
   </script>
 
-  <div id="google_translate_element" style="text-align:center;margin:0 auto 10px;"></div>
-<script>
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT, gaTrack: true, gaId: 'UA-3047412-20'}, 'google_translate_element');
-}
-</script>
-<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script>
+      $(function(){
+        $('#demandbase').val(JSON.stringify(DB_Obj));
+      });
+    </script>
 
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "js-agent.newrelic.com/nr-106.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","staging-beacon-3.newrelic.com","528f970912","8683","cV5eEkBfCF1WRBgRB1VUQ0lCQg1HUlVO",0,34,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-106.js"></script></body></html>
+
+<script src="https://js-agent.newrelic.com/nr-416.min.js"></script></body></html>
