@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the answersafrica.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231124946id_/http%3A//answersafrica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answersafrica.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111420id_/http%3A//answersafrica.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Answers Africa
 
 Answers Africa takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-[If you require any more information or have any questions about our privacy policy, please feel free to contact us by filling out our contact form when you click on this link](http://answersafrica.com/contact)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by filling out our contact form when you [click on this link](http://answersafrica.com/contact/)
 
 We have created this Privacy Policy to demonstrate our strong commitment to protecting your privacy. This Privacy Policy only applies to any data gathered on the Answersafrica.com web site (the “Site”), and does not apply to any other information or web site you may be visiting. Please review this Privacy Policy periodically as we may update it from time to time. This Privacy Policy is effective as of 31st January, 2013. Each time you visit the Site or provide us with information, you are, by doing so, accepting the practices described in this Privacy Policy at that time. You agree that by using the website you are expressly and affirmatively consenting to our use and disclosure of the information that you provide, and consenting to receive emails if subscribed to.
 
