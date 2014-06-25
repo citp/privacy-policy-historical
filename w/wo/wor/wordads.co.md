@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordads.co privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231193931id_/http%3A//wordads.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordads.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112604id_/http%3A//wordads.co/privacy) for the most accurate reproduction.*
 
 # Privacy — WordAds
 
