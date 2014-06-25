@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivaglammagazine.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208071612id_/http%3A//vivaglammagazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaglammagazine.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083640id_/http%3A//vivaglammagazine.com/privacy.html) for the most accurate reproduction.*
 
 # Viva Glam Magazine - Privacy Policy
 
