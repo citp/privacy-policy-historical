@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lolsofunny.tumblr.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830221757id_/http%3A//lolsofunny.tumblr.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolsofunny.tumblr.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055735id_/http%3A//lolsofunny.tumblr.com/privacypolicy) for the most accurate reproduction.*
 
-# Funny Blog on Tumblr - Funny Relatable,memes,gifs
+# LOLSOFUNNY- Daily funny posts gifs memes relatable
 
 []()
 
