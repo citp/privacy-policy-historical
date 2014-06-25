@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the dji.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121012143id_/http%3A//www.dji.com/wp-content/themes/dji/docs/privacy_policy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dji.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233430id_/http%3A//www.dji.com/policy) for the most accurate reproduction.*
 
-# DJI-Innovations | Terms.
+# Privacy Policy | DJI
 
 ### Accountability
 
 Each and every one of our employees is responsible for maintaining and protecting the personal information to which they have access. We have strict policies and procedures for protecting personal information and designated individuals within Dajiang Innovation Technology Inc. who are responsible for monitoring our compliance.
 
 Dajiang Innovation Technology Inc. has a Chief Privacy Officer who oversees privacy governance Including policy, dispute resolution, education, communications activities and reporting to our Board of Directors and Executive Management on enterprise-wide privacy matters.
+
+* * *
 
 ### Identifying Purpose
 
@@ -16,10 +18,12 @@ When you become a Dajiang Innovation Technology Inc. customer, or apply for addi
   * to understand your financial service requirements
   * to determine suitability of products and services for you
   * to determine your eligibility for certain products and services, or those of others, and offer them to you
-  * to set up and manage products and services you have requested, and
+  * to set up and manage products and services you have requested
   * to comply with legal or regulatory requirements
 
 
+
+* * *
 
 ### Obtain Consent
 
@@ -31,9 +35,13 @@ When you apply for a new product or service, we ask you for your consent to coll
 
 
 
+* * *
+
 ### Limit Collection
 
 We only collect the information we need. We may ask you to provide the some
+
+* * *
 
 ### Limit Use, Disclosure and Retention
 
@@ -49,15 +57,19 @@ Personal information may be released to legal or regulatory authorities in cases
 
 Dajiang Innovation Technology Inc. has policies in place that govern the retention of your personal information so it will be kept only for as long as it fulfills its intended purpose or as legally required.
 
-personal information:
+##### personal information:
 
 You can choose not to provide us with certain information in some situations. However, if you make this choice, we may not be able to provide you with the product, service, or information you request. We may monitor or record our Inc.oming or outgoing telephone calls and emails with you for our mutual protection (e.g. to ensure that your instructions are carried out, to document that we have made required disclosures to you, and to ensure that customer service levels are maintained).
 
 We will make certain that you are informed of the purposes listed above when you apply for any of our products or services. If a new purpose for using your personal information develops, we will ask you for your consent.
 
+* * *
+
 ### Be Accurate
 
 We have agreements and controls in place with third party service providers requiring that any information provided by us must be safeguarded and used only for the sole purpose of providing the service we have requested the company to perform.
+
+* * *
 
 ### Use Appropriate Safeguards
 
@@ -67,13 +79,19 @@ We maintain physical, electronic and procedural safeguards to protect your perso
 
 We have agreements and controls in place with third party service providers requiring that any information provided by us must be safeguarded and used only for the sole purpose of providing the service we have requested the company to perform.
 
+* * *
+
 ### Be Open
 
-The most up-to-date Privacy Code, is always available at www.dji-innovations.com and the privacy link located at the bottom of the page.
+The most up-to-date Privacy Code, is always available at www.dji.com and the privacy link located at the bottom of the page.
+
+* * *
 
 ### Give Individuals Access
 
 If you want to review or verify your personal information, or find out to whom we have disclosed it, please request this by contacting the account manager or distributors where you do business. We may need specific information from you to enable us to search for, and provide you with, the personal information we hold about you. There may be instances where we are unable to provide some of the information we hold about you and if we are unable, we will let you know the reason(s) why.
+
+* * *
 
 #### Respecting Your Privacy Preferences
 
@@ -83,6 +101,8 @@ Dajiang Innovation Technology Inc. fully respects your privacy preferences. Simp
   * Sharing - If you do not want us to share personal information about you among Dajiang Innovation Technology Inc. members, request to opt out of this type of sharing. Please note that you cannot opt out of sharing your personal information where you have requested a product or service that is jointly offered by more than one member of Dajiang Innovation Technology Inc. or when the sharing is required by law or regulation.
 
 
+
+* * *
 
 #### Definitions
 
