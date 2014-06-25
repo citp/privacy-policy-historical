@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incontact.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213222657id_/http%3A//www.incontact.com/call-center-software-company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incontact.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005008id_/http%3A//www.incontact.com/call-center-software-company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | inContact
 
@@ -60,7 +60,7 @@ Customer may elect to prohibit inContact’s use of Customer’s CPNI to market 
 
 inContact, Inc.  
 Kimm Partridge  
-Corporate Secretary  
+Assistant Corporate Secretary  
 7730 S. Union Park Ave, Suite 500  
 Midvale, UT 84047.   
 
