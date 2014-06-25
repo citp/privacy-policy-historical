@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastresistance.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214104621id_/http%3A//lastresistance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastresistance.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121505id_/http%3A//lastresistance.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The Last Resistance | The Last Resistance
 
