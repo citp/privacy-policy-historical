@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radaronline.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230123120id_/http%3A//radaronline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radaronline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625185824id_/http%3A//radaronline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Radar Online
 
@@ -10,7 +10,7 @@ If you submitted personally identifiable information to us prior to the above ef
 
 _(Effective March 1, 2009)_
 
-Welcome to HYPERLINK “[http://www.RadarOnline.com](http://www.radaronline.com/) “ www.RadarOnline.com, an interactive online news service operated by RadarOnline, LLC (“Website”, “us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also HYPERLINK “[http://www.privacyprotection.ca.gov&#8221](http://www.privacyprotection.ca.gov%26/#8221); [http://www.privacyprotection.ca.gov](http://www.privacyprotection.ca.gov/)).
+Welcome to HYPERLINK “[http://www.RadarOnline.com](http://www.radaronline.com/) ” www.RadarOnline.com, an interactive online news service operated by RadarOnline, LLC (“Website”, “us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also HYPERLINK “[http://www.privacyprotection.ca.gov&#8221](http://www.privacyprotection.ca.gov%26/#8221); [http://www.privacyprotection.ca.gov](http://www.privacyprotection.ca.gov/)).
 
 We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, including our successors, parents, subsidiaries, affiliates, and related companies, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.
 
