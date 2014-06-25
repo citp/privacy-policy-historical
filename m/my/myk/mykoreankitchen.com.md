@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mykoreankitchen.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126204351id_/http%3A//mykoreankitchen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mykoreankitchen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122648id_/http%3A//mykoreankitchen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - My Korean Kitchen
 
@@ -48,6 +48,8 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
+My Korean Kitchen is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+
 **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
@@ -70,4 +72,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 You may contact us via our [contact page](http://mykoreankitchen.com/contact/ "Contact").
 
-This policy was last modified on 30/03/2013
+This policy was last modified on 28/12/2013
