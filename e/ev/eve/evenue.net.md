@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evenue.net privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205043836id_/http%3A//paciolan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evenue.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073928id_/http%3A//paciolan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Paciolan – Your tickets, your way.
+# Privacy Policy « Paciolan
 
 Visitors to our site can submit comments or questions about our products and services and request information or to be added to our mailing list. The types of personally identifiable information that may be collected at this site include: name, organization name, address, e-mail address, telephone number, and information about your interest in and use of our products and services.
 
