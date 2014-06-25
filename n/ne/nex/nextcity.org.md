@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextcity.org privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127105358id_/http%3A//nextcity.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextcity.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044340id_/http%3A//nextcity.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Next City
 
@@ -6,7 +6,7 @@ This Privacy Statement is applicable only to www.nextcity.org (the “Site”) a
 
 ### The Information We Gather About You & What We Do With It
 
-Next City collects personal information that you voluntarily provide to us through the Site under the following circumstances: 
+Next City collects personal information that you voluntarily provide to us through the Site under the following circumstances:
 
   * If you request a subscription or purchase a product, we collect your name, email address and payment information. All credit card and billing address information used to purchase stories or subscriptions is gathered by and stored by Stripe.com. Next City never views your credit card information but may use your billing address information to deduce the regional demographics of our readership.
   * If you post a comment to our Site, we store your email address, username and any personal information provided in your comment.
@@ -31,9 +31,9 @@ You can configure your browser to accept all cookies or to alert you every time 
 
 Next City retains subscriber emails and names, which may be used for Next City’s marketing purposes and is occasionally made available to carefully screened companies whose products or services may be of interest to our readers. If you would like to be removed from this list, please write to info@nextcity.org with the subject heading “Marketing List Removal.”
 
-In rare instances, we may disclose information about you to a third party if we are required to do so by law or feel that such action is necessary to prevent the misuse of our website, or the personal or public safety of our users or the public. 
+In rare instances, we may disclose information about you to a third party if we are required to do so by law or feel that such action is necessary to prevent the misuse of our website, or the personal or public safety of our users or the public.
 
-In the event that Next City changes leadership or sells or transfer all or a part of its assets, we reserve the right to transfer any information we have about you. 
+In the event that Next City changes leadership or sells or transfer all or a part of its assets, we reserve the right to transfer any information we have about you.
 
 ### How We Protect Information
 
