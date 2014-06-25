@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the heaventhemes.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126013416id_/http%3A//heaventhemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heaventhemes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625150947id_/http%3A//heaventhemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HeavenThemes
 
 We have created this privacy statement for [Heaven Themes](http://heaventhemes.com/ "heaven themes privacy policy") in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with [HeavenThemes.com](http://heaventhemes.com/ "Privacy Policy"). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
-[](http://heaventhemes.com/v2/wp-content/uploads/2013/03/privacy-policy.jpg?37206e)
+[](http://heaventhemes.com/v2/wp-content/uploads/2013/03/privacy-policy.jpg?af021d)
 
 We recognize the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.
 
