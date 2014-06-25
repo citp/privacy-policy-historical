@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bodylogicmd.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030203448id_/http%3A//www.bodylogicmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodylogicmd.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074129id_/http%3A//www.bodylogicmd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Privacy Policy
 
 **Effective 02/08/2011**
 
@@ -17,11 +17,11 @@
 
 ## Our Commitment To Privacy:
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our [homepage](https://web.archive.org/) and at every point where personally identifiable information may be requested.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our [homepage](http://www.bodylogicmd.com/) and at every point where personally identifiable information may be requested.
 
 ## The Information We Collect:
 
-This notice applies to all information collected or submitted on [www.bodylogicmd.com](https://web.archive.org/). On some pages you may request additional information. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on [www.bodylogicmd.com](http://www.bodylogicmd.com/). On some pages you may request additional information. The types of personal information collected at these pages are:
 
   * Full Name
   * Email address
