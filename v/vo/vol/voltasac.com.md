@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voltasac.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209195807id_/http%3A//www.voltasac.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D65%26Itemid%3D65) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voltasac.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084915id_/http%3A//www.voltasac.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D65%26Itemid%3D65) for the most accurate reproduction.*
 
-# TATA VOLTAS
+# Privacy Policy
 
 Voltas Limited (also referred to as "we" "our" or "us") respects your privacy and endeavors to limit the collection of information to the extent required. We also provide adequate safeguards where such information is processed in the way of collection, recording, storing, utilization, disclosure, transfer and deletion, to name a few. In addition to complying with the applicable laws, we believe in processing the data fairly.
 
