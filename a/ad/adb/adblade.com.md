@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adblade.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819200212id_/http%3A//www.adblade.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adblade.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114346id_/http%3A//adblade.com/doc/privacy) for the most accurate reproduction.*
 
 # Adblade - Privacy Policy
 
 Overview
 
-Adblade.com and its network of owned and partnered publishers ("Adblade") places importance on the privacy of our clients and their businesses. We adhere to the policies regarding privacy and security outlined below. If you have any questions, comments or concerns, please do not hesitate to contact us at privacy@adblade.com Please familiarize yourself with the policies that are applicable to you.
+Adblade.com and its network of owned and partnered publishers ("Adblade") places importance on the privacy of our clients and their businesses. We adhere to the policies regarding privacy and security outlined below. If you have any questions, comments or concerns, please do not hesitate to contact us at [privacy@adblade.com](mailto:privacy@adblade.com) Please familiarize yourself with the policies that are applicable to you.
 
 Adblade Privacy Policy
 
@@ -54,7 +54,7 @@ We have implemented reasonable security measures to protect the information in o
 
 Conclusion
 
-Adblade works hard to respect the privacy of its users. Unless required otherwise by applicable law or legal process, Adblade will operate entirely within the policies described above. If you have any questions or concerns regarding this policy, please feel free to contact privacy@Adblade.com
+Adblade works hard to respect the privacy of its users. Unless required otherwise by applicable law or legal process, Adblade will operate entirely within the policies described above. If you have any questions or concerns regarding this policy, please feel free to contact [privacy@adblade.com](mailto:privacy@adblade.com)
 
 Adblade reserves the right to change this policy at any time due to changes in applicable laws, Adblade's business needs or otherwise. Use of Adblade.com and the advertising network of owned and partnered websites which utilize Adblade's services constitute agreement with the terms of this policy as may be amended by Adblade from time to time.
 
