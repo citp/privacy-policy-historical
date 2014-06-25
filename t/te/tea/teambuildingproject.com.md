@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the teambuildingproject.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226224530id_/http%3A//www.teambuildingproject.com%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teambuildingproject.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050622id_/http%3A//www.teambuildingproject.com/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
+Privacy Policy    [](http://www.teambuildingproject.com/?page=tbp_signup)
+
+   [](http://www.addthis.com/bookmark.php?v=300&pubid=scsbiz)
 
 The TBP intends to give you as much control as possible over your personal information. In general, you can visit the TBP on the Web without telling us who you are or revealing any information about yourself. There are times, however, when we may need information from you, such as your name and address. It is our intent to let you know before we collect personal information from you on the Internet.
 
