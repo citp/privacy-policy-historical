@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weddingsutra.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210105408id_/http%3A//weddingsutra.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingsutra.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060554id_/http%3A//weddingsutra.com/Privacy.asp) for the most accurate reproduction.*
 
-# Welcome to Weddingsutra.com
+# WeddingSutra.com :: Privacy Policy
 
 WeddingSutra is strongly committed to your right to privacy. Keeping this in mind we have formulated a privacy policy to inform you about the information we collect, why we do so and how we use the same. 
 
@@ -12,4 +12,4 @@ The information we collect from you would enable us to further improve on our co
 
 Please be aware that on our site we have advertisements and links to other websites that may collect personal information about you. This Privacy Policy does not cover the information practices or policies of such websites. We encourage you to read the privacy policies of all such sites, as their policies may be materially different from our Privacy Policy. Any material changes in the way we use personal information will be described in future versions of this Privacy Policy. 
 
-[](https://web.archive.org/web/20131210105408id_/http%3A//weddingsutra.com/index.asp)  
+[](https://web.archive.org/web/20140625060554id_/http%3A//weddingsutra.com/index.asp)  
