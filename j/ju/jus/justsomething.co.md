@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justsomething.co privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028021030id_/http%3A//justsomething.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justsomething.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045631id_/http%3A//justsomething.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Just something (creative)
 
@@ -29,3 +29,24 @@ justsomething.co has no access to or control over these cookies that are used by
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. justsomething.co’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+##### Copyright
+
+All images on justsomething.co are readily available in various places on the Internet and believed to be in public domain. Images posted are believed to be posted within our rights according to the U.S. Copyright Fair Use Act (title 17, U.S. Code.)
+
+##### Claims of infringement
+
+If you believe that any content appearing on justsomething.co infringes on your copyright, **[please let us know](http://justsomething.co/contact-us/ "Contact us")**.
+
+justsomething.co claims no credit for any images featured on this site unless otherwise noted. All visual content is copyright to its respectful owners. If you own right to any of the images, and do not wish them to appear here, **[please let us know](http://justsomething.co/contact-us/ "Contact us")** and they will be promptly removed.
+
+Email us the following informations and the infringing material will be removed as soon as possible.
+
+(a) your name, address, telephone number, and e-mail address;  
+(b) a description of the copyrighted work that you claim has been infringed;  
+(c) the exact URL or a description of each place where alleged infringing material is located;  
+(d) a statement by you that you have a good faith belief that the disputed use has not been authorized by you, your agent, or the law;  
+(e) your electronic or physical signature or the electronic or physical signature of the person authorized to act on your behalf; and  
+(f) a statement by you made under penalty of perjury, that the information in your notice is accurate, that you are the copyright owner or authorized to act on the copyright owner’s behalf
+
+Please also note that under Section 512(f) of the Copyright Act any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
