@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bounzd.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214144953id_/http%3A//www.bounzd.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bounzd.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061543id_/http%3A//www.bounzd.com/privacypolicy) for the most accurate reproduction.*
 
-# Bounzd – Privacy Policy
+# Privacy Policy
 
-#### The privacy policy of BounzD is framed in such a manner as to guide you on how BounzD Ltd. ("we", "us", “Waybeo” or "BounzD team" the creator, operator and owner of BounzD service) uses and safeguards information and resources you provide in using the Software and Service.
+####  The privacy policy of BounzD is framed in such a manner as to guide you on how BounzD Ltd. ("we", "us", “Waybeo” or "BounzD team" the creator, operator and owner of BounzD service) uses and safeguards information and resources you provide in using the Software and Service.
 
 #### Overview
 
