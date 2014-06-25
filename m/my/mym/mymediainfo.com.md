@@ -1,61 +1,96 @@
-> *The following text is extracted and transformed from the mymediainfo.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208070347id_/http%3A//thomsonreuters.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymediainfo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625211827id_/http%3A//www.nasdaqomx.com/Privacy_Statement) for the most accurate reproduction.*
 
-# Privacy Statement | Thomson Reuters
+# Privacy Statement - NASDAQ OMX
 
-This Privacy Statement relates solely to the online information collection and use practices of our Web site located at [www.thomsonreuters.com ](https://web.archive.org/ "Home Page")(this "Web Site"), and not to any subdomains of this Web Site. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns. 
+Effective Date: 04/21/2006
 
-Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: [privacy.enquiries@thomsonreuters.com](mailto:privacy.enquiries@thomsonreuters.com "Privacy Enquiries"). 
+  
+This Privacy Statement describes how your personal information is collected, used, shared, and safeguarded by NASDAQOMX.
 
-What Information About You Do We Collect? 
+#### Information Collection & Use
 
-When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services. 
+### Uses of Information
 
-**Personally Identifiable Information You Choose to Provide.**
+NASDAQOMX uses the personally identifiable information you provide us to communicate with you in response to your inquiries, to provide the services you request, and to manage your account. Any personally identifiable information gathered by NASDAQOMX will be used for internal purposes only. We will not disclose or divulge such data outside of NASDAQOMX.
 
-We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving press releases about Thomson Reuters, you are asked to submit your name and e-mail address, which we retain on file, so that we may send you the information that you requested. If you indicate on our E-mail Alert registration form that you are a member of the press, we may also send you information regarding our business. We also request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications. 
+####   
+Communications from the Site
 
-**Non-Personally Identifiable Information We Collect.**
+### Special Offers and Updates
 
-_Cookies/ Web server logs_ : Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual. 
+We may occasionally send you information on NASDAQOMX products or services.
 
-You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.   
+Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out."
 
+### Customer Service
 
-_Third Party Services_ :   We may use services hosted by third parties such as Google Analytics, to assist in providing our services and to help us understand how use our websites  is used. These services may collect information sent by a browser as part of a web page request, including IP addresses or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Please see "Cookies" in the section above for information on how you can control the use of cookies on your computer.  
+Based upon the personally identifiable information you provide us, we may send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 
+### Profile
 
-How Do We Use the Information We Collect? 
+We store information that we collect through cookies, log files, clear gifs, to create a “profile" of your preferences. On some web sites we will link your personally identifiable information to your web site actions, to information in the profile, in order to provide a more accurate understanding of the web sites usage.
 
-We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive press releases or any other type of information from us, you may send us an email through our "Contact Us" link or use our E-mail Alert form to change your preferences; or follow the "unsubscribe" link provided in the e-mail that you receive. 
+####   
+Information Sharing and Disclosure
 
-We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer. 
+### Aggregate Information (non-personally identifiable)
 
-We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement. 
+NASDAQOMX does not share aggregated demographic information with our partners and advertisers, in ways that directly identify you.
 
-We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose. 
+####   
+Personally Identifiable Information
 
-We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses. 
+### Legal Disclaimer
 
-How Do You Access And/Or Modify Your Information or Choices? 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site
 
-If you visit our Web Site and volunteer personally identifiable information, you may modify, update or delete such information by visiting the E-mail Alert area where you will have the opportunity to access and revise certain of your personally identifiable information, and to update your preferences regarding what information you want to receive from us, or by clicking on the "Contact Us" link and sending us an e-mail. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site. 
+### Choice/Opt-Out
 
-Privacy Protections for Children Using the Internet 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by emailing us at the appropriate contact associated with each web site found in the contact section of this privacy statement below.
 
-Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. We request that all visitors to our Web Site who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records. 
+You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
-Data Security 
+### Log Files
 
-We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk. 
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-Consent to Transfer 
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
 
-This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States and/or third countries. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+On certain websites we do link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to help identify individual web site usage.
 
-Links 
+### Cookies
 
-This Web Site contains links to third party sites as well as to other sites owned and/or operated by Thomson Reuters. Please be aware that Thomson Reuters is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson Reuters sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site. 
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. NASDAQOMX uses cookies on some of our websites. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-Revision Date 
+We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help" file.
 
-This Privacy Statement was last revised in June of 2012. 
+Some cookies contain the email address provided by you when completing an email profile for that site. This information is used to populate an email address box with your email address. Where appropriate some sites generate disclaimer/notice cookies to confirm that you have read and agreed to its terms of use. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+
+This privacy statement covers the use of cookies by all NASDAQOMX web sites and does not cover the use of cookies by any advertisers. [See the “Third Party advertising " section.]
+
+### Clear Gifs (Web Beacons/Web Bugs/ Embedded Pixels)
+
+In an effort to provide users with the most relevant Web site content, we may also use embedded pixel technologies to help track site usage, these technologies are used on selected pages for the purposes of identifying unique user visits as opposed to aggregate hits. The site usage information collected by these technologies is associated with cookies and may provide data about site use by registered users of NASDAQ OMX Web sites. This information is used to evaluate site content, navigability and composition as well as page response rates. Any data linking the information gathered by clear gifs to a user's personally identifiable information is used for internal tracking purposes only. We will not disclose or divulge such data linkages outside of NASDAQOMX. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. To learn more about our advertising company’s use of clear gifs, please go to http://www.omniture.com/
+
+### Links to Other Sites
+
+This Web site contains links to other sites that are not owned or controlled by NASDAQOMX. NASDAQOMX is not responsible for the privacy practices of non-NASDAQOMX web sites linked to a NASDAQOMX site. We encourage you to read the privacy statements of other linked web sites when you leave our Web site. This privacy statement applies only to information collected by this Web site.
+
+### Access to Personally Identifiable Information
+
+If your personally identifiable information changes, or if you no longer desire our service, you may update or deactivate it by contacting us at the contact information listed below.
+
+### Security
+
+NASDAQOMX takes reasonable precautions to protect your personal information. The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+### Changes in this Privacy Statement
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+### Contact Us
+
+If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.nasdaqomx.com/contactus/ "contact us").  
+ 
