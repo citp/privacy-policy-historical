@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justbestcovers.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102061401id_/http%3A//www.justbestcovers.com/articles/site/30444/terms-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justbestcovers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061524id_/http%3A//www.justbestcovers.com/articles/site/30444/terms-and-privacy-policy) for the most accurate reproduction.*
 
 # Terms And Privacy Policy | JUSTBESTCOVERS
 
