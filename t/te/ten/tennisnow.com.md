@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennisnow.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014030958id_/http%3A//tennisnow.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisnow.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234032id_/http%3A//tennisnow.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Links Directory
 
@@ -25,12 +25,3 @@ If you do not want to receive e-mails from us, you may elect to opt-out of recei
 
 **Contacting Tennis Now:**  
 If you have any questions about this privacy policy, the practices of our site, or if you have any other questions, please contact us:
-
-**Tennis Now**  
-200 West 39th Street, Suite #11   
-New York, NY 10018   
-**(914) 595-4211**  
-[media@tennisnow.com](mailto:media@tennisnow.com)
-
-  
- 
