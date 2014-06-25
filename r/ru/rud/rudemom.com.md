@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rudemom.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122112927id_/http%3A//rudemom.com/rude-moms-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rudemom.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110736id_/http%3A//rudemom.com/rude-moms-privacy-policy) for the most accurate reproduction.*
 
 # Rude Mom’s Privacy Policy | Rude Mom
 
-**0** Flares Facebook 0 Pin It Share 0 Twitter 0 Google+ 0 StumbleUpon 0 Reddit 0 LinkedIn 0 Email \-- Filament.io Made with **Flare** More Info'> **0** Flares ×
+**0** Flares Facebook 0 Pin It Share 0 Twitter 0 Google+ 0 StumbleUpon 0 Reddit 0 LinkedIn 0 Email \-- Buffer 0 Filament.io Made with **Flare** More Info'> **0** Flares ×
 
 **What information do we collect?**
 
