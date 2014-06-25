@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227144455id_/http%3A//megagames.com/privacy-statement-megagames) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121009id_/http%3A//megagames.com/privacy-statement-megagames) for the most accurate reproduction.*
 
 # Privacy Statement for MegaGames | MegaGames
 
@@ -12,11 +12,11 @@ MegaGames has created this privacy statement in order to demonstrate our firm co
 
 We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad companies, and we do not have access to this information.
 
-This site uses the services of DoubleClick, Gorilla Nation, LiveGamer, Google AdSense and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following links:
+This site uses the services of DoubleClick, Gorilla Nation, CPMStar, Google AdSense and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following links:
 
   * http://www.doubleclick.com/privacy/
   * http://www.gorillanation.com/privacy-policy
-  * http://www.livegamer.com/privacy_policy.pdf
+  * http://cpmstar.com/privacyPolicy.html
   * http://www.google.com/privacypolicy.html
 
 
