@@ -1,0 +1,366 @@
+<!--The following is the downloaded HTML source of the keywordsmania.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625054645id_/http%3A//weboxi.com/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><meta charset="utf-8"><title>
+
+</title><link href="/img/favicon.ico" rel="shortcut icon">
+  <!-- SİTİL -->
+   <link rel="stylesheet" type="text/css" href="/css/sifirlama.css"><link rel="stylesheet" type="text/css" href="/css/sitil.css"><link rel="stylesheet" type="text/css" href="/css/prettyPhoto.css"><link rel="stylesheet" type="text/css" href="/css/jqtransform.css"><link rel="stylesheet" type="text/css" href="/css/ui.css">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script src="/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/jquery.nicescroll.js"></script>
+<script type="text/javascript" src="/js/genel.js"></script>
+<script type="text/javascript" src="/js/jquery.prettyphoto.js"></script>
+<script type="text/javascript" src="/js/jquery.jqtransform.js"></script>
+<script type="text/javascript" src="/js/easing.js"></script>
+<script type="text/javascript" src="/js/jcarousel.js"></script>
+<script type="text/javascript" src="/js/arma.js"></script>
+    
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function () {
+            try {
+                w.yaCounter23555815 = new Ya.Metrika({
+                    id: 23555815,
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true
+                });
+            } catch (e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/23555815" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+
+
+
+
+</head>
+<body>
+    <form method="post" action="privacy-policy.html" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="nWVv4o21fuHqdki9cBzdYxwBz9dTWSS8T7y8f8pHMGGB+DkYNFFtjHvx4u4RoW00IYymMwK/8lIWUwgyR5W97775TVzFxvUI40pErKMH01w=">
+</div>
+
+    <!-- GENEL ŞABLON -->
+<div class="sablon">
+
+    
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#btnLogin').click(function () {
+            
+            var email = $('#txtLoginEmail').val();
+            var pass = $('#txtLoginPass').val();
+            if (email.toString().length > 4 & email.toString().indexOf("@") > -1 & pass.toString().length>4) {
+                var url = "/Controls/Login.aspx?email=" + email + "&pass=" + pass;
+
+                $.ajax({
+                    type: "POST", url: url, success: function (ret) {
+                        if (ret == "1") {
+                            window.location = window.location.pathname;
+                        }
+                    }
+                });
+            }
+        });
+        
+        $('#btnAccont').click(function () {
+            var name = $('#txtAccountName').val();
+            var email = $('#txtAccountEmail').val();
+            var pass1 = $('#txtAccountPass1').val();
+            var pass2 = $('#txtAccountPass2').val();
+            
+            if (
+                name.toString().length > 4
+                & email.toString().length > 4
+                & email.toString().indexOf("@") > -1
+                & pass1.toString().length > 4
+                & pass1.toString() == pass2.toString()
+                ) {
+                
+                var url = "/Controls/Create_Account.aspx?email=" + email + "&name=" + name + "&pass=" + pass1;
+                $.ajax({
+                    type: "POST", url: url, success: function (ret) {
+                        if (ret == "1") {
+                            url = "/Controls/Login.aspx?email=" + email + "&pass=" + pass1;
+                            $.ajax({
+                                type: "POST", url: url, success: function (ret1) {
+                                    if (ret1 == "1") {
+                                        window.location = window.location.pathname;
+                                    }
+                                }
+                            });
+                        }
+                        else {
+                            alert("registration could not be completed");
+                        }
+                    }
+                });
+
+            }
+            else {
+                alert("Enter all the fields.");
+            }
+        });
+        
+    });
+</script>
+<!-- Üye Başvurusu -->
+  <div class="acilirPencere acUyeOl" style="display:none">
+    <div class="acilir-ic uye-islem frmSitil">
+      <div class="acilir-baslik">
+        <i></i>
+        <h1>Üye Ol</h1>
+      </div>
+      <div class="acilir-icerik-u">
+        <ul>
+          <li>
+            <label>E-mail</label>
+            <input class="acilir-input" rel="Holder" size="33.6" type="text" placeholder="Your Email" id="txtAccountEmail">
+          </li>
+          <li>
+            <label>Name</label>
+            <input class="acilir-input" rel="Holder" size="33.6" type="text" placeholder="Your Name" id="txtAccountName"></li>
+          <li>
+          </li><li>
+            <label>Password</label>
+            <input class="acilir-input" rel="Holder" size="33.6" placeholder="Password" type="password" id="txtAccountPass1"></li>
+          <li>
+          </li><li>
+            <label>Password</label>
+            <input class="acilir-input" rel="Holder" size="33.6" placeholder="Password Again" type="password" id="txtAccountPass2"></li>
+          <li>
+          </li><li>
+            <span class="sg"><input type="submit" value="Login" id="btnAccont"></span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <!--/ Üye Başvurusu  /-->
+
+
+<!-- Üye Girişi -->
+  <div class="acilirPencere acUyeGirisi" style="display:none">
+    <div class="acilir-ic uye-islem frmSitil">
+      <div class="acilir-baslik">
+        <i></i>
+        <h1>Üye Girişi</h1>
+      </div>
+      <div class="acilir-icerik-u">
+        <ul>
+          <li>
+            <label>E-mail</label>
+            <input class="acilir-input" rel="Holder" size="33.6" placeholder="your email" type="text" id="txtLoginEmail">
+          </li>
+          <li>
+            <label>Şifre</label>
+            <input class="acilir-input" rel="Holder" size="33.6" type="password" placeholder="your password" id="txtLoginPass"></li>
+          <li>
+            <span class="sg"><input type="submit" value="Login" id="btnLogin"></span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <!--/ Üye Girişi /-->
+
+<!-- ÜST ALAN -->
+<div class="ust-alan">
+    <div class="logo">
+    <a href="/"></a>
+    </div>
+    <div class="menu-uyelik">
+    <div class="menu">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/categories.html">Categories</a></li>
+            <li><a href="/add_site.html">Add Your Site</a></li>
+            <li><a href="/about.html">About Us</a></li>
+        </ul>
+    </div>
+        
+    <div class="uyelik">
+        <a class="i uye-giris pencereAc" rel="acUyeGirisi" title="Login" style="cursor:pointer;">Login</a>
+        <a class="i yeni-uyelik pencereAc" rel="acUyeOl" title="Signup" style="cursor:pointer;">Signup</a>
+    </div>
+        
+    </div>
+</div>
+<!--/ ÜST ALAN /-->
+
+    <!-- ORTA ALAN -->
+  <div class="orta-alan">
+
+    <!-- Sayfalar -->
+    <div class="sayfalar">
+    
+    <div class="domain-arama">
+        <div class="domain">
+          <h1>Privacy Policy</h1>
+        </div>
+        
+<script type="text/javascript">
+    $(document).ready(function () {
+        
+        $('.arama input[type="submit"]').click(function () {
+            
+            return GoogleSearch();
+        });
+        $('.arama input[name="q"]').keypress(function (e) {
+            if (e.which == 13) {
+                return GoogleSearch();
+            }
+        });
+    });
+    function GoogleSearch() {
+        var cx = $('.google-search input[name="cx"]').val();
+        var cof = $('.google-search input[name="cof"]').val();
+        var ie = $('.google-search input[name="ie"]').val();
+        var val = $('.google-search input[name="q"]').val();
+        var siteurl = document.URL;
+        var ref = document.createElement('a');
+        ref.href = siteurl;
+        var url = '/search.aspx?cx=' + cx + '&cof=' + cof + '&ie=' + ie + '&q=' + val + '&sa=Search&siteurl=' + encodeURIComponent(siteurl) + '&ref=' + encodeURIComponent(ref.host);
+        window.location = url;
+        return false;
+    }
+</script>
+<div class="arama">
+    <div class="input-arka google-search">
+        <span class="slayt-input AutoComplete">
+            <input type="hidden" name="cx" value="partner-pub-2507800347875519:8335669896">
+            <input type="hidden" name="cof" value="FORID:10">
+            <input type="hidden" name="ie" value="UTF-8">
+            <input type="text" name="q" size="55" placeholder="http://www.domainname.com">
+            <br>
+            <span class="AutoCompleteList"></span>
+        </span>
+        <span class="slayt-sorgula">
+            <input type="submit" name="sa" value="Search" id="btnSearchDomain">
+        <i class="s1"></i>
+        </span>
+    </div>
+</div>
+      </div>
+
+      <div class="hakkinda">
+            <p><b>Advertising</b></p>
+          
+          <p>We use 3rd-party for to serve ads to make it more accessible what you want when you visit our website. The ad companies we work with (yet only Google) sometimes may use information (not any personal information contains your name, password, address, email address, telephone number or any other kind of personal information). We assure you these informations may only about your visits and it is only because to provide advertisements about what you may be interested in. We never share any kind of personal information and you will be never asked for your password except signing in process. All users are responsible for their own password security, they are not allowed to share their passwords/accounts with any other person.</p>
+          <br>
+          <p><b>Storing Data</b></p>
+          <p>Our website displays ads and some external links to 3rd-party websites offered through Google AdSense and the websites we preview. Our ads work with the DoubleClick DART cookie. Cookies are tiny information files which is stored in your computer during a visit a website. Only information will be stored is about your visit, which ad you clicked, which ad you viewed, etc. These cookies help us and Google to provide you more useful information.</p>
+          <p>For more information about DART cookie, you can visit official Google ad and content privacy policy.</p>
+          <br>
+          <p><b>External Links</b></p>
+          <p>Weboxy is not and will not (unless it is stated here) be affiliated with any other advertisers than Google on our website. Links or references to individuals or companies do not constitute an endorsement of any information, product or service you may receive from such sources. Clicking on advertisements or links that take you off our website is done at your own risk - we are not responsible for any issues resulting from interactions with advertisers, their websites, or their affiliates.</p>
+
+
+      </div>
+
+
+    </div>
+    <!--/ Sayfalar /-->
+   </div>
+  <!--/ ORTA ALAN /-->
+
+  </div>
+<!--/ GENEL ŞABLON /-->
+  <div class="cf"></div>
+
+<!-- ALT ALAN --> 
+  <div class="alt-alan">
+    <div class="alt-alanic">
+      <div class="alt-alan-ust">
+        <div class="aa-ust-sol">
+          <div class="alt-menu">
+            <ul>
+                <li><a href="/about.html">About Us</a></li>
+                <li><a href="/contact.html">Contact</a></li>
+                <li><a href="/categories.html">Categories</a></li>
+                <li><a href="/directory.html">Directory</a></li>
+                <li><a href="/add_site.html">Add Site</a></li>
+                <li><a href="/remove_site.html">Remove Site</a></li>
+            </ul>
+          </div>
+          <div class="alt-adres">
+            <div class="adres-kutu" style="display:none;">
+                <i class="alt-adres-iko"></i>
+                <label>
+                    Adress
+                    <br>
+                    Adress
+                </label>
+            </div>
+            <div class="adres-kutu" style="display:none;">
+                <i class="alt-telefon-iko"></i>
+                <label>Tel</label>
+            </div>
+            <div class="adres-kutu">
+                <i class="alt-posta-iko"></i>
+                <label>info@weboxi.com</label>
+            </div>
+            </div>
+        </div>
+        <div class="aa-ust-sag">
+          <h1>Stay Connected</h1>
+          <div class="alt-sosyal">
+            <a href="#" class="i a-sos-1"></a>
+            <a href="#" class="i a-sos-2"></a>
+            <a href="#" class="i a-sos-3"></a>
+            <a href="#" class="i a-sos-4"></a>
+            <a href="#" class="i a-sos-5"></a>
+            <a href="#" class="i a-sos-6"></a>
+          </div>
+        </div>
+      </div>
+      <div class="alt-alan-alt">
+        <label>Weboxi © 2013</label>
+          <a href="/categories.html">Categories</a>
+          <a href="/countries.html">Countries</a>
+          <a href="/directory.html">Director</a>
+          <a href="/iplist.html">IP List</a>
+          <a href="/new.html">New Web Sites</a>
+          <a href="/privacy-policy.html">Advertise</a>
+          <a href="/privacy-policy.html">Privacy Policy</a>
+          
+      </div>
+    </div>
+  </div>
+  <!--/ ALT ALAN /-->
+
+<!-- JAVA SCRİPT -->
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+            ga('create', 'UA-46791315-1', 'weboxi.com');
+            ga('send', 'pageview');
+        </script>
+    </form>
+
+
+</body></html>
