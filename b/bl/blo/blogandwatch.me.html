@@ -1,21 +1,66 @@
-<!--The following is the downloaded HTML source of the blogandwatch.me privacy policy that was archived on 2013-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131202175211id_/http%3A//blogandwatch.me/index.php/Rules-FAQs/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blogandwatch.me privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625052601id_/http%3A//blogandwatch.me/index.php/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB"><head>
-<link href="/index.php/Rules-FAQs/privacy-policy.html" rel="canonical">
-
-  <base href="http://blogandwatch.me/index.php/Rules-FAQs/privacy-policy.html">
+  <base href="http://blogandwatch.me/index.php/privacy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="keywords" content="teen, free pictures, non nude, pictures, jailbait, Gallery, softcore, pics, big tits, blogandwatch.me, Fappy Meals, Hardcore, Mature">
   <meta name="description" content="Blog and Watch - Looking for Jailbaits? Or the Teen Next Door? We Have a Huge FREE Handpicked Gallery. Check us Out. -SHE will love YOU for it!">
-  
-  <title>Privacy Policy | Rules &amp; FAQ´s</title>
-  <link rel="stylesheet" type="text/css" href="/plugins/system/jch_optimize/libs/jscss.php?f=40014e8e9ca1376662ff9854ca49fb7b-cache-plg_jch_optimize-27e0e7438ba1bf7178cfa64c6b7c7d4c&amp;type=css&amp;d=30">
-  <link href="http://blogandwatch.me/ku" rel="shortlink">
+  <meta name="generator" content="Joomla! - Open Source Content Management">
+  <title>Privacy Policy</title>
+  <link rel="stylesheet" type="text/css" href="/plugins/system/jch_optimize/libs/jscss.php?f=40014e8e9ca1376662ff9854ca49fb7b-cache-plg_jch_optimize-dac101bc703ac60d529c276863992858&amp;type=css&amp;d=30">
   <link href="/templates/traction/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
   
   
+  
   <style type="text/css">
+
+		#page-peel-banner{
+			position:relative;
+			background:transparent!important;
+		}
+		#page-peel-banner img{
+			z-index:9999;
+			position:absolute;
+	
+			right:0;
+		
+		top:0;
+		width:80px;
+		height:83.2px;
+		-ms-interpolation-mode:bicubic;
+	
+		}
+		#page-peel-banner .page-peel-banner-img{
+			z-index:8888;
+			position:absolute;
+	
+			right:0;
+		
+			top:0;
+			width:80px;
+			height:80px;
+			text-indent:-9999px;
+		}
+
+		.peeloverlay {
+			top: 0;
+			z-index: 999999;
+			display: block;
+			width:80px;
+			height:80px;
+			position: absolute;
+	
+			background: url(/modules/mod_pagepeel_banner/assets/peeloverlay.png) no-repeat top right;
+			right: 0;
+      
+			-moz-background-size: 80px 80px;
+			-o-background-size: 80px 80px;
+			-webkit-background-size: 80px 80px;
+			-khtml-background-size: 80px 80px;
+			background-size: 80px 80px !important;
+		}
+	
     .joomcat46_clr {
       clear:both;
     }
@@ -54,14 +99,95 @@
       margin-right: auto;
     }
   </style>
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
-  <script src="/media/system/js/core.js" type="text/javascript"></script>
-  <script src="/media/system/js/caption.js" type="text/javascript"></script>
-  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script type="text/javascript" async="" src="http://world.popadscdn.net/pop.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/media/system/js/mootools-core-uncompressed.js" type="text/javascript"></script>
+  <script src="/media/system/js/core-uncompressed.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption-uncompressed.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more-uncompressed.js" type="text/javascript"></script>
+  <script src="/modules/mod_pagepeel_banner/assets/cookie.js" type="text/javascript"></script>
   <script type="text/javascript">
 window.addEvent('load', function() {
 				new JCaption('img.caption');
 			});
+
+
+		jQuery.noConflict();
+		var blinking = null;
+		var bannerOpened = false;
+		var isIE = jQuery.browser.msie;
+		IEVersion = 9;
+		if(isIE){
+  		var IEVersion = parseInt(jQuery.browser.version, 10);
+		}
+
+		if( isIE && IEVersion < 9 ){
+			jQuery(".peeloverlay").remove();
+		}else{
+			function doBlink(){
+				jQuery(".peeloverlay").animate({opacity:0.8}, 300).animate({opacity:0.4}, 300);
+				blinking = setTimeout("doBlink()", 600);
+			}
+		}
+		
+		var openBanner = function(){
+			if( !isIE || IEVersion > 8 ){
+				jQuery(".peeloverlay").hide();
+			}
+	jQuery(".page-peel-banner-img").css('background-image', 'url(/images/Peel_500.jpg)');
+			jQuery("#page-peel-banner img").stop().animate({width: '500px', height: '520px'}, 800);
+			jQuery(".page-peel-banner-img").stop().animate({width: '500px', height: '500px'}, 800);
+		}
+
+		var closeBanner = function(){
+			jQuery("#page-peel-banner img").stop().animate({width: '80px', height: '83.2px'}, 800);
+	jQuery(".page-peel-banner-img").stop().animate({width: '80px', height: '80px'}, 800, function(){
+			jQuery(".page-peel-banner-img").css('background-image', 'url(/images/stories/Ads/Peel_80.jpg)');
+			if( !isIE || IEVersion > 8 ){
+				jQuery(".peeloverlay").show();
+			}
+		});
+			bannerOpened = false;
+		}
+
+		jQuery(document).ready(function(){
+			if( isIE && IEVersion < 9 ){
+				jQuery(".peeloverlay").remove();
+			}
+			jQuery("#page-peel-banner").remove().prependTo('body');
+	var pagePeelHasDisplayed=readCookie('pagePeelHasDisplayed');
+if(pagePeelHasDisplayed != 1){
+var t=setTimeout("openBanner()",100);
+createCookie('pagePeelHasDisplayed', 1, 24);
+var t=setTimeout("closeBanner()",3100);
+}
+
+			if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.toLowerCase().indexOf("android") > -1) ) {
+				var href = jQuery("#page-peel-banner a").attr("href");
+				jQuery("#page-peel-banner a").removeAttr("href").attr("rel", href);
+
+				jQuery("#page-peel-banner a").click(function(){
+					if(bannerOpened == false){
+						openBanner();
+						bannerOpened = true;
+						jQuery("#page-peel-banner a").removeAttr("rel").attr("href", href);
+						setTimeout("closeBanner()", 5000);
+						return false;
+					}else{
+						return true;
+					}
+				});
+			}else{
+				jQuery("#page-peel-banner").hover(function(){
+					openBanner();
+				}, function(){
+					closeBanner();
+				});
+			}
+
+			if( !isIE || IEVersion > 8 ){
+				doBlink();
+			}
+		});
+	
 window.addEvent('domready', function() {
 			$$('.hasHint').each(function(el) {
 				var title = el.get('title');
@@ -364,7 +490,7 @@ div.itemHeader h2.itemTitle, div.catItemHeader h3.catItemTitle, h3.userItemTitle
 				<div style="clear:both; height:0px"></div>	
 			
 									<div id="s5_menu_wrap">
-						<ul id="s5_nav" class="menu"><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="http://blogandwatch.me/"><span onclick="window.document.location.href=&quot;http://blogandwatch.me/&quot;">Home</span></a></span></span></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="/index.php/Create-an-account.html"><span onclick="window.document.location.href=&quot;/index.php/Create-an-account.html&quot;">Register</span></a></span></span></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="/index.php/Log-in.html"><span onclick="window.document.location.href=&quot;/index.php/Log-in.html&quot;">Login</span></a></span></span></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="http://go.trafficshop.com/ba53cda7" onclick="this.removeAttribute(&quot;href&quot;)" target="_blank"><span onclick="window.open(&quot;http://go.trafficshop.com/ba53cda7&quot;)">Video</span></a></span></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=amateur" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=amateur&quot;)">Amateur</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=anal" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=anal&quot;)">Anal</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=bigtit" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=bigtit&quot;)">Big Tits</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=blowjob" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=blowjob&quot;)">Blowjob</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=facial" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=facial&quot;)">Facial</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=interracial" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=interracial&quot;)">InterRacial</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=lesbian" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=lesbian&quot;)">Lesbian</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=mature" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=mature&quot;)">Mature</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=teen" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=teen&quot;)">Teen</span></a></span></li></ul></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="#"><span onclick="window.document.location.href=&quot;#&quot;">Fappy Meal</span></a></span></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="/index.php/fappy-meal/fappy-meal-non-nude"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/fappy-meal/fappy-meal-non-nude&quot;">Fappy Meal Non Nude</span></a></span></li></ul></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="#"><span onclick="window.document.location.href=&quot;#&quot;">Teen</span></a></span></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="/index.php/teen/teen-hardcore-rm"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/teen/teen-hardcore-rm&quot;">Teen Hardcore</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/teen/teen-big-tits-rm"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/teen/teen-big-tits-rm&quot;">Teen Big Tits</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/teen/teen-nude-guest"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/teen/teen-nude-guest&quot;">Teen Nude</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/teen/teen-non-nude-guest"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/teen/teen-non-nude-guest&quot;">Teen Non Nude</span></a></span></li></ul></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="#"><span onclick="window.document.location.href=&quot;#&quot;">Mature</span></a></span></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="/index.php/mature/mature-hardcore-rm"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/mature/mature-hardcore-rm&quot;">Mature Hardcore</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/mature/mature-big-tits-rm"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/mature/mature-big-tits-rm&quot;">Mature Big Tits</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/mature/mature-softcore-guest"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/mature/mature-softcore-guest&quot;">Mature Softcore</span></a></span></li></ul></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="#"><span onclick="window.document.location.href=&quot;#&quot;">Top List</span></a></span></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="/index.php/2013-09-14-00-25-24/most-viewed"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/2013-09-14-00-25-24/most-viewed&quot;">Most Viewed</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/2013-09-14-00-25-24/top-rated"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/2013-09-14-00-25-24/top-rated&quot;">Top Rated</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/2013-09-14-00-25-24/last-added"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/2013-09-14-00-25-24/last-added&quot;">Last Added</span></a></span></li></ul></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="/index.php/Video/video.html"><span onclick="window.document.location.href=&quot;/index.php/Video/video.html&quot;">Free Chat</span></a></span></span></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="http://cumsplatter.me" onclick="this.removeAttribute(&quot;href&quot;)" target="_blank"><span onclick="window.open(&quot;http://cumsplatter.me&quot;)">Our Sister Site</span></a></span></span></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="/index.php/Blog-And-Watch-ME-Support-Team.html"><span onclick="window.document.location.href=&quot;/index.php/Blog-And-Watch-ME-Support-Team.html&quot;">Contact</span></a></span></span></li></ul>						
+						<ul id="s5_nav" class="menu"><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="http://blogandwatch.me/"><span onclick="window.document.location.href=&quot;http://blogandwatch.me/&quot;">Home</span></a></span></span></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="/index.php/login"><span onclick="window.document.location.href=&quot;/index.php/login&quot;">Subscribe and Login </span></a></span></span></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="http://go.trafficshop.com/ba53cda7" onclick="this.removeAttribute(&quot;href&quot;)" target="_blank"><span onclick="window.open(&quot;http://go.trafficshop.com/ba53cda7&quot;)">Video</span></a></span></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=amateur" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=amateur&quot;)">Amateur</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=anal" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=anal&quot;)">Anal</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=bigtit" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=bigtit&quot;)">Big Tits</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=blowjob" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=blowjob&quot;)">Blowjob</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=facial" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=facial&quot;)">Facial</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=interracial" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=interracial&quot;)">InterRacial</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=lesbian" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=lesbian&quot;)">Lesbian</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=mature" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=mature&quot;)">Mature</span></a></span></li><li><span class="S5_submenu_item"><a href="http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=teen" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.fpcTraffic2.com/blind/in.cgi?account=werush&amp;niche=teen&quot;)">Teen</span></a></span></li></ul></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="#"><span onclick="window.document.location.href=&quot;#&quot;">Top List</span></a></span></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="/index.php/2013-09-14-00-25-24/most-viewed"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/2013-09-14-00-25-24/most-viewed&quot;">Most Viewed</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/2013-09-14-00-25-24/top-rated"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/2013-09-14-00-25-24/top-rated&quot;">Top Rated</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/2013-09-14-00-25-24/last-added"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/2013-09-14-00-25-24/last-added&quot;">Last Added</span></a></span></li></ul></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="/index.php/chat"><span onclick="window.document.location.href=&quot;/index.php/chat&quot;">Free Chat</span></a></span></span></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="#"><span onclick="window.document.location.href=&quot;#&quot;">Fappy Meal</span></a></span></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="/index.php/fappy-meal/subscripe-to-open-up-hardcore-and-big-tits"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/fappy-meal/subscripe-to-open-up-hardcore-and-big-tits&quot;">Subscripe to Open Up Nude, Hardcore and Big Tits!</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/fappy-meal/fappy-meal-non-nude"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/fappy-meal/fappy-meal-non-nude&quot;">Fappy Meal Non Nude</span></a></span></li></ul></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="#"><span onclick="window.document.location.href=&quot;#&quot;">Teen</span></a></span></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="/index.php/teen/teen-hardcore-rm"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/teen/teen-hardcore-rm&quot;">Teen Hardcore</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/teen/teen-big-tits-rm"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/teen/teen-big-tits-rm&quot;">Teen Big Tits</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/teen/teen-nude-guest"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/teen/teen-nude-guest&quot;">Teen Nude</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/teen/teen-non-nude-guest"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/teen/teen-non-nude-guest&quot;">Teen Non Nude</span></a></span></li></ul></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="#"><span onclick="window.document.location.href=&quot;#&quot;">Mature</span></a></span></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="/index.php/mature/mature-hardcore-rm"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/mature/mature-hardcore-rm&quot;">Mature Hardcore</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/mature/mature-big-tits-rm"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/mature/mature-big-tits-rm&quot;">Mature Big Tits</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/mature/mature-softcore-guest"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/mature/mature-softcore-guest&quot;">Mature Softcore</span></a></span></li></ul></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="/index.php/contact"><span onclick="window.document.location.href=&quot;/index.php/contact&quot;">Contact</span></a></span></span></li></ul>						
 									
 						<div style="clear:both; height:0px"></div>	
 					</div>
@@ -431,7 +557,7 @@ div.itemHeader h2.itemTitle, div.catItemHeader h3.catItemTitle, h3.userItemTitle
 	<dl class="article-info">
 	<dt class="article-info-term">Details</dt>
 	<dd class="hits">
-	Hits: 150	</dd>
+	Hits: 1080	</dd>
 	</dl>
 
 
@@ -515,10 +641,38 @@ div.itemHeader h2.itemTitle, div.catItemHeader h3.catItemTitle, h3.userItemTitle
 				<div class="s5_module_box_1">
 					<div class="s5_module_box_2">
 												<script type="text/javascript">
-    var _mnd = _mnd || [];
-    _mnd.push(['8fb11e21a6fd3214', 300, 250]);
+xxxwebtraffic_enable_adhere = false;
+xxxwebtraffic_layer_banner = false;
+xxxwebtraffic_mobile_redirect = false;
+xxxwebtraffic_max_dim = "0x0";
+//default banner house ad url 
+xxxwebtraffic_default_url = '';
+xxxwebtraffic_banner_border = ''; xxxwebtraffic_banner_ad_bg = '';
+xxxwebtraffic_banner_link_color = ''; xxxwebtraffic_banner_text_color = '';
+xxxwebtraffic_banner_text_banner = false; xxxwebtraffic_banner_image_banner = true;
+xxxwebtraffic_network_logo = false;
+xxxwebtraffic_post_click_url = '';
 </script>
-<script type="text/javascript" src="http://r.meendocash.com/br.js"></script>						<div style="clear:both; height:0px"></div>
+<script type="text/javascript" src="http://serving.xxxwebtraffic.com/showAd.php?nid=3&amp;pid=13487&amp;adtype=7&amp;sid=13053"></script>
+<noscript><a href="http://xxxwebtraffic.com">http://www.xxxwebtraffic.com | Adult Advertising</a></noscript>
+<br>
+<script type="text/javascript" src="http://ads.adamoads.com/adspot.php?id=839"></script>                                                
+<br>
+<script type="text/javascript">
+xxxwebtraffic_enable_adhere = false;
+xxxwebtraffic_layer_banner = false;
+xxxwebtraffic_mobile_redirect = false;
+xxxwebtraffic_max_dim = "0x0";
+//default banner house ad url 
+xxxwebtraffic_default_url = '';
+xxxwebtraffic_banner_border = ''; xxxwebtraffic_banner_ad_bg = '';
+xxxwebtraffic_banner_link_color = ''; xxxwebtraffic_banner_text_color = '';
+xxxwebtraffic_banner_text_banner = false; xxxwebtraffic_banner_image_banner = true;
+xxxwebtraffic_network_logo = false;
+xxxwebtraffic_post_click_url = '';
+</script>
+<script type="text/javascript" src="http://serving.xxxwebtraffic.com/showAd.php?nid=3&amp;pid=13487&amp;adtype=7&amp;sid=13053"></script>
+<noscript><a href="http://xxxwebtraffic.com">http://www.xxxwebtraffic.com | Adult Advertising</a></noscript>                                                    						<div style="clear:both; height:0px"></div>
 					</div>
 				</div>
 
@@ -551,9 +705,9 @@ div.itemHeader h2.itemTitle, div.catItemHeader h3.catItemTitle, h3.userItemTitle
       <div class="joomcat46_imgct">
         <div class="joomcat46_txt">
 <ul>
-  <li><a href="/index.php/teen/teen-softcore/teen-softcore-nude">Teen Nude</a></li>
-  <li><div class="joomcat46_starrating  hasHint" title="Rating::3.50 (6957 votes)">  <div style="width:69%"></div></div></li>
-  <li>1600646</li>
+  <li><a href="/index.php/component/joomgallery/teen/teen-softcore/teen-softcore-nude?Itemid=148">Teen Nude</a></li>
+  <li><div class="joomcat46_starrating  hasHint" title="Rating::3.62 (7067 votes)">  <div style="width:72%"></div></div></li>
+  <li>1732215</li>
 </ul>
         </div>
       <!-- close joomcat image container div -->
@@ -562,37 +716,9 @@ div.itemHeader h2.itemTitle, div.catItemHeader h3.catItemTitle, h3.userItemTitle
       <div class="joomcat46_imgct">
         <div class="joomcat46_txt">
 <ul>
-  <li><a href="/index.php/fappy-meal/fappy-meal-softcore/fappy-meal-non-nude">Fappy Meal Non Nude</a></li>
-  <li><div class="joomcat46_starrating  hasHint" title="Rating::3.45 (15598 votes)">  <div style="width:69%"></div></div></li>
-  <li>2456278</li>
-</ul>
-        </div>
-      <!-- close joomcat image container div -->
-      </div>
-    <!-- close joomcat row div -->
-    </div>
-    <div class="joomcat46_clr"></div>
-    <hr>
-    <!-- open joomcat row div -->
-    <div class="joomcat46_row">
-      <!-- open joomcat image container div -->
-      <div class="joomcat46_imgct">
-        <div class="joomcat46_txt">
-<ul>
-  <li><a href="/index.php/mature-softcore">Mature Softcore</a></li>
-  <li><div class="joomcat46_starrating  hasHint" title="Rating::1.88 (163 votes)">  <div style="width:37%"></div></div></li>
-  <li>43871</li>
-</ul>
-        </div>
-      <!-- close joomcat image container div -->
-      </div>
-      <!-- open joomcat image container div -->
-      <div class="joomcat46_imgct">
-        <div class="joomcat46_txt">
-<ul>
-  <li><a href="/index.php/teen/teen-softcore/teen-softcore-non-nude">Teen Non Nude</a></li>
-  <li><div class="joomcat46_starrating  hasHint" title="Rating::1.85 (246 votes)">  <div style="width:37%"></div></div></li>
-  <li>92956</li>
+  <li><a href="/index.php/component/joomgallery/fappy-meal/fappy-meal-softcore/fappy-meal-non-nude?Itemid=148">Fappy Meal Non Nude</a></li>
+  <li><div class="joomcat46_starrating  hasHint" title="Rating::3.59 (15827 votes)">  <div style="width:71%"></div></div></li>
+  <li>2762178</li>
 </ul>
         </div>
       <!-- close joomcat image container div -->
@@ -607,9 +733,9 @@ div.itemHeader h2.itemTitle, div.catItemHeader h3.catItemTitle, h3.userItemTitle
       <div class="joomcat46_imgct">
         <div class="joomcat46_txt">
 <ul>
-  <li><a href="/index.php/teen/teen-big-tits">Teen Big Tits</a></li>
-  <li><div class="joomcat46_starrating  hasHint" title="Rating::1.09 (200 votes)">  <div style="width:21%"></div></div></li>
-  <li>79274</li>
+  <li><a href="/index.php/component/joomgallery/teen/teen-softcore/teen-softcore-non-nude?Itemid=148">Teen Non Nude</a></li>
+  <li><div class="joomcat46_starrating  hasHint" title="Rating::2.25 (293 votes)">  <div style="width:45%"></div></div></li>
+  <li>116719</li>
 </ul>
         </div>
       <!-- close joomcat image container div -->
@@ -618,9 +744,9 @@ div.itemHeader h2.itemTitle, div.catItemHeader h3.catItemTitle, h3.userItemTitle
       <div class="joomcat46_imgct">
         <div class="joomcat46_txt">
 <ul>
-  <li><a href="/index.php/teen/teen-hardcore">Teen Hardcore</a></li>
-  <li><div class="joomcat46_starrating  hasHint" title="Rating::0.68 (227 votes)">  <div style="width:13%"></div></div></li>
-  <li>145243</li>
+  <li><a href="/index.php/component/joomgallery/mature-softcore?Itemid=148">Mature Softcore</a></li>
+  <li><div class="joomcat46_starrating  hasHint" title="Rating::2.20 (198 votes)">  <div style="width:43%"></div></div></li>
+  <li>62611</li>
 </ul>
         </div>
       <!-- close joomcat image container div -->
@@ -635,9 +761,9 @@ div.itemHeader h2.itemTitle, div.catItemHeader h3.catItemTitle, h3.userItemTitle
       <div class="joomcat46_imgct">
         <div class="joomcat46_txt">
 <ul>
-  <li><a href="/index.php/mature/mature-hardcore">Mature Hardcore</a></li>
-  <li><div class="joomcat46_starrating  hasHint" title="Rating::0.52 (115 votes)">  <div style="width:10%"></div></div></li>
-  <li>76456</li>
+  <li><a href="/index.php/component/joomgallery/teen/teen-big-tits?Itemid=148">Teen Big Tits</a></li>
+  <li><div class="joomcat46_starrating  hasHint" title="Rating::1.61 (327 votes)">  <div style="width:32%"></div></div></li>
+  <li>138846</li>
 </ul>
         </div>
       <!-- close joomcat image container div -->
@@ -646,9 +772,37 @@ div.itemHeader h2.itemTitle, div.catItemHeader h3.catItemTitle, h3.userItemTitle
       <div class="joomcat46_imgct">
         <div class="joomcat46_txt">
 <ul>
-  <li><a href="/index.php/mature/mature-big-tits">Mature Big Tits</a></li>
-  <li><div class="joomcat46_starrating  hasHint" title="Rating::0.51 (20 votes)">  <div style="width:10%"></div></div></li>
-  <li>15344</li>
+  <li><a href="/index.php/component/joomgallery/teen/teen-hardcore?Itemid=148">Teen Hardcore</a></li>
+  <li><div class="joomcat46_starrating  hasHint" title="Rating::0.90 (296 votes)">  <div style="width:18%"></div></div></li>
+  <li>270946</li>
+</ul>
+        </div>
+      <!-- close joomcat image container div -->
+      </div>
+    <!-- close joomcat row div -->
+    </div>
+    <div class="joomcat46_clr"></div>
+    <hr>
+    <!-- open joomcat row div -->
+    <div class="joomcat46_row">
+      <!-- open joomcat image container div -->
+      <div class="joomcat46_imgct">
+        <div class="joomcat46_txt">
+<ul>
+  <li><a href="/index.php/component/joomgallery/mature/mature-big-tits?Itemid=148">Mature Big Tits</a></li>
+  <li><div class="joomcat46_starrating  hasHint" title="Rating::0.85 (33 votes)">  <div style="width:17%"></div></div></li>
+  <li>28729</li>
+</ul>
+        </div>
+      <!-- close joomcat image container div -->
+      </div>
+      <!-- open joomcat image container div -->
+      <div class="joomcat46_imgct">
+        <div class="joomcat46_txt">
+<ul>
+  <li><a href="/index.php/component/joomgallery/mature/mature-hardcore?Itemid=148">Mature Hardcore</a></li>
+  <li><div class="joomcat46_starrating  hasHint" title="Rating::0.71 (162 votes)">  <div style="width:14%"></div></div></li>
+  <li>150886</li>
 </ul>
         </div>
       <!-- close joomcat image container div -->
@@ -731,7 +885,7 @@ div.itemHeader h2.itemTitle, div.catItemHeader h3.catItemTitle, h3.userItemTitle
 		
 							<div id="s5_footer">
 					<span class="footerc">
-Copyright © 2013.  Blog and Watch ME.
+Copyright © 2014.  Blog and Watch ME.
 </span>
 				</div>
 						
@@ -739,7 +893,7 @@ Copyright © 2013.  Blog and Watch ME.
 							<div class="moduletable">
 			
 <ul class="menu">
-<li class="item-233"><a href="/index.php/Webmasters/webmasters-earn-money.html">Webmasters -Earn Money!</a></li><li class="item-232"><a href="/index.php/Rules-FAQs/2256.html">§ 2256</a></li><li class="item-230 current active"><a href="/index.php/Rules-FAQs/privacy-policy.html">Privacy Policy</a></li><li class="item-231"><a href="/index.php/Rules-FAQs/term-of-use.html">Term Of Use</a></li><li class="item-146"><a href="http://blogandwatch.me/LinkEX/index.php" target="_blank">Link Exchange</a></li></ul>
+<li class="item-233"><a href="/index.php/webmasters">Webmasters -Earn Money!</a></li><li class="item-232"><a href="/index.php/2256">§ 2256</a></li><li class="item-230 current active"><a href="/index.php/privacy">Privacy Policy</a></li><li class="item-231"><a href="/index.php/term">Term Of Use</a></li></ul>
 		</div>
 	
 				</div>	
@@ -754,92 +908,52 @@ Copyright © 2013.  Blog and Watch ME.
 		<div class="s5_fourdivs_2">
 		<div class="s5_fourdivs_3">
 		<div class="s5_fourdivs_4">
-						
-<script type="text/javascript" src="/components/com_extrawatch/js/heatmap/heatmap.js"></script>
-<script type="text/javascript" src="/components/com_extrawatch/js/jdownloadurl.js"></script>
-<script type="text/javascript">
-  /* <![CDATA[ */
-  var urlBase = "/components/com_extrawatch/ajax/heatmap.php?rand=1186150513&env=ExtraWatchJoomlaEnv";
-  var clickDoc = (document.documentElement != undefined && document.documentElement.clientHeight != 0) ? document.documentElement : document.body;
-  //        var w = clickDoc.clientWidth != undefined ? clickDoc.clientWidth : window.innerWidth;
-  //        var h = clickDoc.clientHeight != undefined ? clickDoc.clientHeight : window.innerHeight;
-  var w = screen.width;
-  var h = screen.height;
-  var xx;
-
-  
-
-  
-
-  window.onload = function () {
-
-    window.document.onclick = function (evt) {
-      /*var screenHeight = window.screen.height;
-  var screenWidth = window.screen.width;
-
-  scrollx = window.pageXOffset;
-  scrolly = window.pageYOffset;
-  winw = Math.max(document.scrollWidth, document.offsetWidth, w);
-  winh = Math.max(document.scrollHeight, document.offsetHeight, h);*/
-
-      var pos = h337.util.mousePosition(evt); //relative position to element
-      var x = evt.offsetX; // offset relative within the element
-      var y = evt.offsetY;
-      var xpath = createXPathFromElement(evt.target);
-
-      var scrollx = window.pageXOffset == undefined ? clickDoc.scrollLeft : window.pageXOffset;
-      var scrolly = window.pageYOffset == undefined ? clickDoc.scrollTop : window.pageYOffset;
-
-      /* Is the click in the viewing area? Not on scrollbars. The problem still exists for FF on the horizontal scrollbar */
-      var randHashToPass = '9eca670fe7614c6c80e23af776568ba5';
-      var url = urlBase + "&action=click&uri2titleId=3519&x=" + x + "&y=" + y + "&w=" + w + "&h=" + h + "&randHash=" + randHashToPass + "&xpath=" + xpath;
-      //xx.store.addDataPoint(x,y);
-      downloadUrl(url, function (e) {
-      }, true);
-
-    }
-
-
-    function createXPathFromElement(elm) {
-      var allNodes = document.getElementsByTagName('*');
-      for (segs = []; elm && elm.nodeType == 1; elm = elm.parentNode) {
-        if (elm.hasAttribute('id')) {
-          var uniqueIdCount = 0;
-          for (var n = 0; n < allNodes.length; n++) {
-            if (allNodes[n].hasAttribute('id') && allNodes[n].id == elm.id) uniqueIdCount++;
-            if (uniqueIdCount > 1) break;
-          }
-          ;
-          if (uniqueIdCount == 1) {
-            //segs.unshift('id("' + elm.getAttribute('id') + '")');
-            segs.unshift('//*["@id=' + elm.getAttribute('id') + '"]');
-            return segs.join('/');
-          } else {
-            segs.unshift(elm.localName.toLowerCase() + '[@id="' + elm.getAttribute('id') + '"]');
-          }
-        } else if (elm.hasAttribute('class')) {
-          segs.unshift(elm.localName.toLowerCase() + '[@class="' + elm.getAttribute('class') + '"]');
-        } else {
-          for (i = 1, sib = elm.previousSibling; sib; sib = sib.previousSibling) {
-            if (sib.localName == elm.localName)  i++;
-          }
-          ;
-          segs.unshift(elm.localName.toLowerCase() + '[' + i + ']');
-        }
-        ;
-      }
-      ;
-      return segs.length ? '/' + segs.join('/') : null;
-    }
-
-    ;
-
-  
-  }
-  /* ]]> */
-</script>
-
-<img src="/components/com_extrawatch/ajax/img.php?rand=37071&amp;env=ExtraWatchJoomlaEnv" border="0" alt="" title="">		</div>
+						<script type="text/javascript" src="http://ads.adamoads.com/adspot.php?id=945"></script>		</div>
+		</div>
+		</div>
+		</div>
+			<div class="s5_fourdivs_1">
+		<div class="s5_fourdivs_2">
+		<div class="s5_fourdivs_3">
+		<div class="s5_fourdivs_4">
+						<script type="text/javascript">juicy_code='34a423y2s256s2q2u2c4x2';</script>
+<script type="text/javascript" src="http://ads.juicyads.com/jsclients/jac.js" charset="utf-8"></script>		</div>
+		</div>
+		</div>
+		</div>
+			<div class="s5_fourdivs_1">
+		<div class="s5_fourdivs_2">
+		<div class="s5_fourdivs_3">
+		<div class="s5_fourdivs_4">
+						<script data-cfasync="false" type="text/javascript">
+  var _pop = _pop || [];
+  _pop.push(['siteId', 21918]);
+  _pop.push(['minBid', 0.0005]);
+  _pop.push(['popundersPerIP', 0]);
+  _pop.push(['delayBetween', 0]);
+  _pop.push(['default', false]);
+  _pop.push(['defaultPerDay', 1]);
+  _pop.push(['topmostLayer', false]);
+  (function() {
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    pa.src = 'http://world.popadscdn.net/pop.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+  })();
+</script>		</div>
+		</div>
+		</div>
+		</div>
+			<div class="s5_fourdivs_1">
+		<div class="s5_fourdivs_2">
+		<div class="s5_fourdivs_3">
+		<div class="s5_fourdivs_4">
+						<script data-cfasync="false" src="http://popunder.fpctraffic.com/pop.js"></script>
+<script language="javascript">
+document.body.onclick=function()
+{
+	popunder('werush','light','A');
+}
+</script>		</div>
 		</div>
 		</div>
 		</div>
@@ -853,6 +967,26 @@ try {Histats.start(1,1732493,4,0,0,0,"");
 Histats.track_hits();} catch(err){};
 </script></a>
 <noscript><a href="http://www.histats.com" target="_blank"><img data-cfasync="false"  src="http://sstatic1.histats.com/0.gif?1732493&101" alt="hit counter html code" border="0"></a></noscript>		</div>
+		</div>
+		</div>
+		</div>
+			<div class="s5_fourdivs_1">
+		<div class="s5_fourdivs_2">
+		<div class="s5_fourdivs_3">
+		<div class="s5_fourdivs_4">
+						
+
+<div id="page-peel-banner">
+	<a href="http://go.trafficshop.com/ba53cda7" target="_blank">
+		<img src="/modules/mod_pagepeel_banner/assets/bg-dark.png" alt="">
+		<div class="peeloverlay"></div>
+		<span class="page-peel-banner-img" style="background:#FFFFFF url(/images/stories/Ads/Peel_80.jpg) no-repeat right top;">Blog and Watch ME</span>
+	</a>
+</div>
+<img src="/images/stories/Ads/Peel_80.jpg" alt="" style="display:none">
+
+
+		</div>
 		</div>
 		</div>
 		</div>
@@ -884,5 +1018,128 @@ Histats.track_hits();} catch(err){};
 <!-- End Body Padding -->
 	
 
-
+<script>function toggleContainer(name) {
+			var e = document.getElementById(name);// MooTools might not be available ;)
+			e.style.display = (e.style.display == 'none') ? 'block' : 'none';
+		}</script><div id="system-debug" class="profiler"><h1>Joomla! Debug Console</h1><div class="dbgHeader" onclick="toggleContainer('dbgContainersession');"><a href="javascript:void(0);"><h3>Session</h3></a></div><div style="display: none;" class="dbgContainer" id="dbgContainersession"><div class="dbgHeader" onclick="toggleContainer('dbgContainer_session');"><a href="javascript:void(0);"><h3>__default</h3></a></div><div style="display: none;" class="dbgContainer" id="dbgContainer_session"><code>session.client.browser ⇒ Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)<br></code><div class="dbgHeader" onclick="toggleContainer('dbgContainer_session1');"><a href="javascript:void(0);"><h3>user</h3></a></div><div style="display: none;" class="dbgContainer" id="dbgContainer_session1"><code>password_clear ⇒ <br></code><code>groups ⇒ <br></code></div><code>session.token ⇒ 575497a6eae4171ab0659478f2543ad5<br></code></div></div><div class="dbgHeader" onclick="toggleContainer('dbgContainerprofile_information');"><a href="javascript:void(0);"><h3>Profile Information</h3></a></div><div style="display: none;" class="dbgContainer" id="dbgContainerprofile_information"><div><code>Application 0.000 seconds (+0.000); 0.59 MB (+0.589) - afterLoad</code></div><div><code>Application 0.079 seconds (+0.079); 5.05 MB (+4.466) - afterInitialise</code></div><div><code>Application 0.088 seconds (+0.009); 5.51 MB (+0.451) - afterRoute</code></div><div><code>Application 0.113 seconds (+0.025); 6.84 MB (+1.332) - afterDispatch</code></div><div><code>Application 0.290 seconds (+0.177); 13.89 MB (+7.056) - beforeRenderModule mod_menu (Bottom Menu)</code></div><div><code>Application 0.295 seconds (+0.005); 14.03 MB (+0.134) - afterRenderModule mod_menu (Bottom Menu)</code></div><div><code>Application 0.343 seconds (+0.048); 13.97 MB (-0.059) - beforeRenderModule mod_joomcat (Categories Open To You)</code></div><div><code>Application 0.605 seconds (+0.261); 16.43 MB (+2.457) - afterRenderModule mod_joomcat (Categories Open To You)</code></div><div><code>Application 0.653 seconds (+0.048); 10.75 MB (-5.672) - afterRender</code></div></div><div class="dbgHeader" onclick="toggleContainer('dbgContainermemory_usage');"><a href="javascript:void(0);"><h3>Memory Usage</h3></a></div><div style="display: none;" class="dbgContainer" id="dbgContainermemory_usage"><code>10.79 MB (11,317,312 Bytes)</code></div><div class="dbgHeader" onclick="toggleContainer('dbgContainerqueries');"><a href="javascript:void(0);"><h3>Database Queries</h3></a></div><div style="display: none;" class="dbgContainer" id="dbgContainerqueries"><h4>36 Queries Logged</h4><ol><li><code><span class="dbgCommand">SELECT</span> `data`
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> `<span class="dbgTable">bandw_session</span>`
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> `session_id` <b class="dbgOperator">=</b> '4b8069ac51e29d03e3cbd4afa07100e9'</code></li><li><code><span class="dbgCommand">DELETE</span> 
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> `<span class="dbgTable">bandw_session</span>`
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> `time` &lt; '1403673361'</code></li><li><code><span class="dbgCommand">SELECT</span> `session_id`
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> `<span class="dbgTable">bandw_session</span>`
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> `session_id` <b class="dbgOperator">=</b> '4b8069ac51e29d03e3cbd4afa07100e9' <br>&nbsp;&nbsp;<span class="dbgCommand">LIMIT</span> 0, 1</code></li><li><code><span class="dbgCommand">INSERT</span> <span class="dbgCommand">INTO</span> `<span class="dbgTable">bandw_session</span>`
+(`session_id`, `client_id`, `time`) <br>&nbsp;&nbsp;<span class="dbgCommand">VALUES</span> 
+('4b8069ac51e29d03e3cbd4afa07100e9', 0, '1403673961')</code></li><li><code><span class="dbgCommand">SELECT</span> b.id
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_usergroups</span> <span class="dbgCommand">AS</span> a
+<br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_usergroups</span> <span class="dbgCommand">AS</span> b <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> b.lft &lt;<b class="dbgOperator">=</b> a.lft <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> b.rgt &gt;<b class="dbgOperator">=</b> a.rgt
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> a.id <b class="dbgOperator">=</b> 1</code></li><li><code><span class="dbgCommand">SELECT</span> id, rules
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> `<span class="dbgTable">bandw_viewlevels</span>`</code></li><li><code><span class="dbgCommand">SELECT</span> m.id, m.menutype, m.title, m.alias, m.note, m.path <span class="dbgCommand">AS</span> route, m.link, m.type, m.level, m.language,m.browserNav, m.access, m.params, m.home, m.img, m.template_style_id, m.component_id, m.parent_id,e.element as component
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_menu</span> <span class="dbgCommand">AS</span> m
+<br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_extensions</span> <span class="dbgCommand">AS</span> e <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> m.component_id <b class="dbgOperator">=</b> e.extension_id
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> m.published <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> m.parent_id &gt; 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> m.client_id <b class="dbgOperator">=</b> 0
+<br>&nbsp;&nbsp;<span class="dbgCommand">ORDER</span> <span class="dbgCommand">BY</span> m.lft</code></li><li><code><span class="dbgCommand">SELECT</span> <b style="color: red;">*</b> <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_template_styles</span> <br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> template <b class="dbgOperator">=</b> 'traction';</code></li><li><code><span class="dbgCommand">SELECT</span> <b style="color: red;">*</b> <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_menu</span> <br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> template_style_id <span class="dbgCommand">IN</span> (10) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> alias <b class="dbgOperator">=</b> 'privacy'</code></li><li><code><span class="dbgCommand">SELECT</span> m.published, m.id, m.title, m.module, m.position, m.content, m.showtitle, m.params,am.params as adv_params, 0 as menuid, m.publish_up, m.publish_down
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_modules</span> <span class="dbgCommand">AS</span> m
+<br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_extensions</span> <span class="dbgCommand">AS</span> e <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> e.element <b class="dbgOperator">=</b> m.module <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> e.client_id <b class="dbgOperator">=</b> m.client_id
+<br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_advancedmodules</span> as am <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> am.moduleid <b class="dbgOperator">=</b> m.id
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> m.published <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> e.enabled <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> m.client_id <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> m.access <span class="dbgCommand">IN</span> (1,1)
+<br>&nbsp;&nbsp;<span class="dbgCommand">ORDER</span> <span class="dbgCommand">BY</span> m.ordering, m.id</code></li><li><code><span class="dbgCommand">SELECT</span> m.menutype
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_menu</span> <span class="dbgCommand">AS</span> m
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> m.id <b class="dbgOperator">=</b> 230</code></li><li><code><span class="dbgCommand">SELECT</span> m.id, m.menutype, m.title, m.alias, m.note, m.path <span class="dbgCommand">AS</span> route, m.link, m.type, m.level, m.language,m.browserNav, m.access, m.params, m.home, m.img, m.template_style_id, m.component_id, m.parent_id,e.element as component
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_menu</span> <span class="dbgCommand">AS</span> m
+<br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_extensions</span> <span class="dbgCommand">AS</span> e <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> m.component_id <b class="dbgOperator">=</b> e.extension_id
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> m.published <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> m.parent_id &gt; 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> m.client_id <b class="dbgOperator">=</b> 0
+<br>&nbsp;&nbsp;<span class="dbgCommand">ORDER</span> <span class="dbgCommand">BY</span> m.lft</code></li><li><code><span class="dbgCommand">SHOW</span> <span class="dbgCommand">FULL</span> <span class="dbgCommand">COLUMNS</span> <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> `<span class="dbgTable">bandw_joomgallery_config</span>`</code></li><li><code><span class="dbgCommand">SELECT</span> <b style="color: red;">*</b>
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery_config</span>
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> `id` <b class="dbgOperator">=</b> '1'</code></li><li><code><span class="dbgCommand">SELECT</span> count(<b style="color: red;">*</b>) As imgcount,<span class="dbgCommand">SUM</span>(imgvotes) As sumimgvotes,<span class="dbgCommand">SUM</span>(imgvotesum/imgvotes) As sumimgratings
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery</span>
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> imgvotes &gt; 0</code></li><li><code><span class="dbgCommand">SELECT</span> c.cid, c.parent_id, c.name, c.access, c.published, c.hidden, c.owner
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery_catg</span> <span class="dbgCommand">AS</span> c
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> lft &gt; 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> c.published <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> c.access <span class="dbgCommand">IN</span> (1,1)
+<br>&nbsp;&nbsp;<span class="dbgCommand">ORDER</span> <span class="dbgCommand">BY</span> c.lft</code></li><li><code><span class="dbgCommand">SELECT</span> catid, <span class="dbgCommand">COUNT</span>(id) as piccount, <span class="dbgCommand">SUM</span>(hits) as hitcount
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery</span>
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> approved  <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> published <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> hidden    <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> access <span class="dbgCommand">IN</span> (1,1)
+<br>&nbsp;&nbsp;<span class="dbgCommand">GROUP</span> <span class="dbgCommand">BY</span> catid</code></li><li><code><span class="dbgCommand">SELECT</span> ca.cid,ca.name,ca.description,ca.catpath,ca.alias,ca.thumbnail,ca.lft,<span class="dbgCommand">IF</span>(<span class="dbgCommand">SUM</span>(jg.imgvotes) &gt; 0, <span class="dbgCommand">SUM</span>(<span class="dbgCommand">ROUND</span>(<span class="dbgCommand">LEAST</span>(<span class="dbgCommand">IF</span>(imgvotes &gt; 0, ((7.31<b style="color: red;">*</b>4.06) + jg.imgvotesum) / (7.31 + jg.imgvotes), 0.0), 5), 2)) / count(jg.id), 0) <span class="dbgCommand">AS</span> catrating, <span class="dbgCommand">SUM</span>(jg.imgvotes) <span class="dbgCommand">AS</span> catimgvotes,<span class="dbgCommand">SUM</span>(jg.hits) <span class="dbgCommand">AS</span> cathits
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery_catg</span> <span class="dbgCommand">AS</span> ca
+<br>&nbsp;&nbsp;<span class="dbgCommand">INNER</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_joomgallery</span> <span class="dbgCommand">AS</span> jg <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> ca.cid <b class="dbgOperator">=</b> jg.catid
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> ca.published <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> ca.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> ca.cid <span class="dbgCommand">IN</span> (3,23,46,5,34,19,18,21,20,10,32,11,12,49,50,51) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> ca.hidden    <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> ca.in_hidden <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.published <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.approved  <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.hidden    <b class="dbgOperator">=</b> 0
+<br>&nbsp;&nbsp;<span class="dbgCommand">GROUP</span> <span class="dbgCommand">BY</span> ca.cid
+<br>&nbsp;&nbsp;<span class="dbgCommand">ORDER</span> <span class="dbgCommand">BY</span> catrating <span class="dbgCommand">DESC</span> <br>&nbsp;&nbsp;<span class="dbgCommand">LIMIT</span> 0, 10</code></li><li><code><span class="dbgCommand">SELECT</span> jg.id, jg.catid, jg.imgthumbname, jg.imgfilename, jg.owner, jg.imgauthor,
+                    jg.imgdate, jg.imgtitle, jg.imgtext, jg.hits, jg.imgvotes,
+                    <span class="dbgCommand">ROUND</span>(<span class="dbgCommand">LEAST</span>(<span class="dbgCommand">IF</span>(imgvotes &gt; 0, ((7.31<b style="color: red;">*</b>4.06) + jg.imgvotesum) / (7.31 + jg.imgvotes), 0.0), 5), 2) <span class="dbgCommand">AS</span> rating,
+                    jgc.name <span class="dbgCommand">AS</span> cattitle, jgc.catpath <span class="dbgCommand">AS</span> catpath
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery</span> <span class="dbgCommand">AS</span> jg
+<br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_joomgallery_catg</span> <span class="dbgCommand">AS</span> jgc <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> jgc.cid <b class="dbgOperator">=</b> jg.catid
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> jgc.published <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.approved   <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.published  <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <span class="dbgCommand">IN</span> (3,23,46,5,34,19,18,21,20,10,32,11,12,49,50,51) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.hidden    <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.in_hidden <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.hidden     <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <b class="dbgOperator">=</b> 21
+<br>&nbsp;&nbsp;<span class="dbgCommand">ORDER</span> <span class="dbgCommand">BY</span> jg.hits <span class="dbgCommand">ASC</span> <br>&nbsp;&nbsp;<span class="dbgCommand">LIMIT</span> 0, 100</code></li><li><code><span class="dbgCommand">SELECT</span> id
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_menu</span>
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> link <span class="dbgCommand">LIKE</span> '%com_joomgallery%view<b class="dbgOperator">=</b>gallery%' <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> client_id <b class="dbgOperator">=</b> 0
+<br>&nbsp;&nbsp;<span class="dbgCommand">ORDER</span> <span class="dbgCommand">BY</span> id <span class="dbgCommand">DESC</span></code></li><li><code><span class="dbgCommand">SELECT</span> alias
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery_catg</span>
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> cid <b class="dbgOperator">=</b> 21</code></li><li><code><span class="dbgCommand">SELECT</span> jg.id, jg.catid, jg.imgthumbname, jg.imgfilename, jg.owner, jg.imgauthor,
+                    jg.imgdate, jg.imgtitle, jg.imgtext, jg.hits, jg.imgvotes,
+                    <span class="dbgCommand">ROUND</span>(<span class="dbgCommand">LEAST</span>(<span class="dbgCommand">IF</span>(imgvotes &gt; 0, ((7.31<b style="color: red;">*</b>4.06) + jg.imgvotesum) / (7.31 + jg.imgvotes), 0.0), 5), 2) <span class="dbgCommand">AS</span> rating,
+                    jgc.name <span class="dbgCommand">AS</span> cattitle, jgc.catpath <span class="dbgCommand">AS</span> catpath
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery</span> <span class="dbgCommand">AS</span> jg
+<br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_joomgallery_catg</span> <span class="dbgCommand">AS</span> jgc <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> jgc.cid <b class="dbgOperator">=</b> jg.catid
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> jgc.published <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.approved   <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.published  <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <span class="dbgCommand">IN</span> (3,23,46,5,34,19,18,21,20,10,32,11,12,49,50,51) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.hidden    <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.in_hidden <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.hidden     <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <b class="dbgOperator">=</b> 46
+<br>&nbsp;&nbsp;<span class="dbgCommand">ORDER</span> <span class="dbgCommand">BY</span> jg.hits <span class="dbgCommand">ASC</span> <br>&nbsp;&nbsp;<span class="dbgCommand">LIMIT</span> 0, 100</code></li><li><code><span class="dbgCommand">SELECT</span> alias
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery_catg</span>
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> cid <b class="dbgOperator">=</b> 46</code></li><li><code><span class="dbgCommand">SELECT</span> jg.id, jg.catid, jg.imgthumbname, jg.imgfilename, jg.owner, jg.imgauthor,
+                    jg.imgdate, jg.imgtitle, jg.imgtext, jg.hits, jg.imgvotes,
+                    <span class="dbgCommand">ROUND</span>(<span class="dbgCommand">LEAST</span>(<span class="dbgCommand">IF</span>(imgvotes &gt; 0, ((7.31<b style="color: red;">*</b>4.06) + jg.imgvotesum) / (7.31 + jg.imgvotes), 0.0), 5), 2) <span class="dbgCommand">AS</span> rating,
+                    jgc.name <span class="dbgCommand">AS</span> cattitle, jgc.catpath <span class="dbgCommand">AS</span> catpath
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery</span> <span class="dbgCommand">AS</span> jg
+<br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_joomgallery_catg</span> <span class="dbgCommand">AS</span> jgc <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> jgc.cid <b class="dbgOperator">=</b> jg.catid
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> jgc.published <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.approved   <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.published  <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <span class="dbgCommand">IN</span> (3,23,46,5,34,19,18,21,20,10,32,11,12,49,50,51) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.hidden    <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.in_hidden <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.hidden     <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <b class="dbgOperator">=</b> 20
+<br>&nbsp;&nbsp;<span class="dbgCommand">ORDER</span> <span class="dbgCommand">BY</span> jg.hits <span class="dbgCommand">ASC</span> <br>&nbsp;&nbsp;<span class="dbgCommand">LIMIT</span> 0, 100</code></li><li><code><span class="dbgCommand">SELECT</span> alias
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery_catg</span>
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> cid <b class="dbgOperator">=</b> 20</code></li><li><code><span class="dbgCommand">SELECT</span> jg.id, jg.catid, jg.imgthumbname, jg.imgfilename, jg.owner, jg.imgauthor,
+                    jg.imgdate, jg.imgtitle, jg.imgtext, jg.hits, jg.imgvotes,
+                    <span class="dbgCommand">ROUND</span>(<span class="dbgCommand">LEAST</span>(<span class="dbgCommand">IF</span>(imgvotes &gt; 0, ((7.31<b style="color: red;">*</b>4.06) + jg.imgvotesum) / (7.31 + jg.imgvotes), 0.0), 5), 2) <span class="dbgCommand">AS</span> rating,
+                    jgc.name <span class="dbgCommand">AS</span> cattitle, jgc.catpath <span class="dbgCommand">AS</span> catpath
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery</span> <span class="dbgCommand">AS</span> jg
+<br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_joomgallery_catg</span> <span class="dbgCommand">AS</span> jgc <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> jgc.cid <b class="dbgOperator">=</b> jg.catid
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> jgc.published <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.approved   <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.published  <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <span class="dbgCommand">IN</span> (3,23,46,5,34,19,18,21,20,10,32,11,12,49,50,51) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.hidden    <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.in_hidden <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.hidden     <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <b class="dbgOperator">=</b> 12
+<br>&nbsp;&nbsp;<span class="dbgCommand">ORDER</span> <span class="dbgCommand">BY</span> jg.hits <span class="dbgCommand">ASC</span> <br>&nbsp;&nbsp;<span class="dbgCommand">LIMIT</span> 0, 100</code></li><li><code><span class="dbgCommand">SELECT</span> alias
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery_catg</span>
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> cid <b class="dbgOperator">=</b> 12</code></li><li><code><span class="dbgCommand">SELECT</span> jg.id, jg.catid, jg.imgthumbname, jg.imgfilename, jg.owner, jg.imgauthor,
+                    jg.imgdate, jg.imgtitle, jg.imgtext, jg.hits, jg.imgvotes,
+                    <span class="dbgCommand">ROUND</span>(<span class="dbgCommand">LEAST</span>(<span class="dbgCommand">IF</span>(imgvotes &gt; 0, ((7.31<b style="color: red;">*</b>4.06) + jg.imgvotesum) / (7.31 + jg.imgvotes), 0.0), 5), 2) <span class="dbgCommand">AS</span> rating,
+                    jgc.name <span class="dbgCommand">AS</span> cattitle, jgc.catpath <span class="dbgCommand">AS</span> catpath
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery</span> <span class="dbgCommand">AS</span> jg
+<br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_joomgallery_catg</span> <span class="dbgCommand">AS</span> jgc <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> jgc.cid <b class="dbgOperator">=</b> jg.catid
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> jgc.published <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.approved   <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.published  <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <span class="dbgCommand">IN</span> (3,23,46,5,34,19,18,21,20,10,32,11,12,49,50,51) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.hidden    <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.in_hidden <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.hidden     <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <b class="dbgOperator">=</b> 34
+<br>&nbsp;&nbsp;<span class="dbgCommand">ORDER</span> <span class="dbgCommand">BY</span> jg.hits <span class="dbgCommand">ASC</span> <br>&nbsp;&nbsp;<span class="dbgCommand">LIMIT</span> 0, 100</code></li><li><code><span class="dbgCommand">SELECT</span> alias
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery_catg</span>
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> cid <b class="dbgOperator">=</b> 34</code></li><li><code><span class="dbgCommand">SELECT</span> jg.id, jg.catid, jg.imgthumbname, jg.imgfilename, jg.owner, jg.imgauthor,
+                    jg.imgdate, jg.imgtitle, jg.imgtext, jg.hits, jg.imgvotes,
+                    <span class="dbgCommand">ROUND</span>(<span class="dbgCommand">LEAST</span>(<span class="dbgCommand">IF</span>(imgvotes &gt; 0, ((7.31<b style="color: red;">*</b>4.06) + jg.imgvotesum) / (7.31 + jg.imgvotes), 0.0), 5), 2) <span class="dbgCommand">AS</span> rating,
+                    jgc.name <span class="dbgCommand">AS</span> cattitle, jgc.catpath <span class="dbgCommand">AS</span> catpath
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery</span> <span class="dbgCommand">AS</span> jg
+<br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_joomgallery_catg</span> <span class="dbgCommand">AS</span> jgc <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> jgc.cid <b class="dbgOperator">=</b> jg.catid
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> jgc.published <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.approved   <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.published  <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <span class="dbgCommand">IN</span> (3,23,46,5,34,19,18,21,20,10,32,11,12,49,50,51) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.hidden    <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.in_hidden <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.hidden     <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <b class="dbgOperator">=</b> 19
+<br>&nbsp;&nbsp;<span class="dbgCommand">ORDER</span> <span class="dbgCommand">BY</span> jg.hits <span class="dbgCommand">ASC</span> <br>&nbsp;&nbsp;<span class="dbgCommand">LIMIT</span> 0, 100</code></li><li><code><span class="dbgCommand">SELECT</span> alias
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery_catg</span>
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> cid <b class="dbgOperator">=</b> 19</code></li><li><code><span class="dbgCommand">SELECT</span> jg.id, jg.catid, jg.imgthumbname, jg.imgfilename, jg.owner, jg.imgauthor,
+                    jg.imgdate, jg.imgtitle, jg.imgtext, jg.hits, jg.imgvotes,
+                    <span class="dbgCommand">ROUND</span>(<span class="dbgCommand">LEAST</span>(<span class="dbgCommand">IF</span>(imgvotes &gt; 0, ((7.31<b style="color: red;">*</b>4.06) + jg.imgvotesum) / (7.31 + jg.imgvotes), 0.0), 5), 2) <span class="dbgCommand">AS</span> rating,
+                    jgc.name <span class="dbgCommand">AS</span> cattitle, jgc.catpath <span class="dbgCommand">AS</span> catpath
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery</span> <span class="dbgCommand">AS</span> jg
+<br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_joomgallery_catg</span> <span class="dbgCommand">AS</span> jgc <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> jgc.cid <b class="dbgOperator">=</b> jg.catid
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> jgc.published <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.approved   <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.published  <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <span class="dbgCommand">IN</span> (3,23,46,5,34,19,18,21,20,10,32,11,12,49,50,51) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.hidden    <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.in_hidden <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.hidden     <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <b class="dbgOperator">=</b> 32
+<br>&nbsp;&nbsp;<span class="dbgCommand">ORDER</span> <span class="dbgCommand">BY</span> jg.hits <span class="dbgCommand">ASC</span> <br>&nbsp;&nbsp;<span class="dbgCommand">LIMIT</span> 0, 100</code></li><li><code><span class="dbgCommand">SELECT</span> alias
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery_catg</span>
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> cid <b class="dbgOperator">=</b> 32</code></li><li><code><span class="dbgCommand">SELECT</span> jg.id, jg.catid, jg.imgthumbname, jg.imgfilename, jg.owner, jg.imgauthor,
+                    jg.imgdate, jg.imgtitle, jg.imgtext, jg.hits, jg.imgvotes,
+                    <span class="dbgCommand">ROUND</span>(<span class="dbgCommand">LEAST</span>(<span class="dbgCommand">IF</span>(imgvotes &gt; 0, ((7.31<b style="color: red;">*</b>4.06) + jg.imgvotesum) / (7.31 + jg.imgvotes), 0.0), 5), 2) <span class="dbgCommand">AS</span> rating,
+                    jgc.name <span class="dbgCommand">AS</span> cattitle, jgc.catpath <span class="dbgCommand">AS</span> catpath
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery</span> <span class="dbgCommand">AS</span> jg
+<br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_joomgallery_catg</span> <span class="dbgCommand">AS</span> jgc <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> jgc.cid <b class="dbgOperator">=</b> jg.catid
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> jgc.published <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.approved   <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.published  <b class="dbgOperator">=</b> 1 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <span class="dbgCommand">IN</span> (3,23,46,5,34,19,18,21,20,10,32,11,12,49,50,51) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.access <span class="dbgCommand">IN</span> (1,1) <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.hidden    <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jgc.in_hidden <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.hidden     <b class="dbgOperator">=</b> 0 <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> jg.catid <b class="dbgOperator">=</b> 11
+<br>&nbsp;&nbsp;<span class="dbgCommand">ORDER</span> <span class="dbgCommand">BY</span> jg.hits <span class="dbgCommand">ASC</span> <br>&nbsp;&nbsp;<span class="dbgCommand">LIMIT</span> 0, 100</code></li><li><code><span class="dbgCommand">SELECT</span> alias
+<br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery_catg</span>
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> cid <b class="dbgOperator">=</b> 11</code></li><li><code><span class="dbgCommand">UPDATE</span> `<span class="dbgTable">bandw_session</span>`
+<br>&nbsp;&nbsp;<span class="dbgCommand">SET</span> `data` <b class="dbgOperator">=</b> '__default|a:8:{s:15:\"session.counter\";i:1;s:19:\"session.timer.start\";i:1403673961;s:18:\"session.timer.last\";i:1403673961;s:17:\"session.timer.now\";i:1403673961;s:22:\"session.client.browser\";s:89:\"Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)\";s:8:\"registry\";O:9:\"JRegistry\":1:{s:7:\"\0<b style="color: red;">*</b>\0data\";O:8:\"stdClass\":0:{}}s:4:\"user\";O:5:\"JUser\":25:{s:9:\"\0<b style="color: red;">*</b>\0isRoot\";N;s:2:\"id\";i:0;s:4:\"name\";N;s:8:\"username\";N;s:5:\"email\";N;s:8:\"password\";N;s:14:\"password_clear\";s:0:\"\";s:8:\"usertype\";N;s:5:\"block\";N;s:9:\"sendEmail\";i:0;s:12:\"registerDate\";N;s:13:\"lastvisitDate\";N;s:10:\"activation\";N;s:6:\"params\";N;s:6:\"groups\";a:0:{}s:5:\"guest\";i:1;s:13:\"lastResetTime\";N;s:10:\"resetCount\";N;s:10:\"\0<b style="color: red;">*</b>\0_params\";O:9:\"JRegistry\":1:{s:7:\"\0<b style="color: red;">*</b>\0data\";O:8:\"stdClass\":0:{}}s:14:\"\0<b style="color: red;">*</b>\0_authGroups\";a:1:{i:0;i:1;}s:14:\"\0<b style="color: red;">*</b>\0_authLevels\";a:2:{i:0;i:1;i:1;i:1;}s:15:\"\0<b style="color: red;">*</b>\0_authActions\";N;s:12:\"\0<b style="color: red;">*</b>\0_errorMsg\";N;s:10:\"\0<b style="color: red;">*</b>\0_errors\";a:0:{}s:3:\"aid\";i:0;}s:13:\"session.token\";s:32:\"575497a6eae4171ab0659478f2543ad5\";}'
+	, `time` <b class="dbgOperator">=</b> '1403673962'
+<br>&nbsp;&nbsp;<span class="dbgCommand">WHERE</span> `session_id` <b class="dbgOperator">=</b> '4b8069ac51e29d03e3cbd4afa07100e9'</code></li></ol><h4>21 Query Types Logged, Sorted by Occurrences.</h4><h5>SELECT Tables:</h5><ol><li><code>8 × <span class="dbgCommand">SELECT</span> alias <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery_catg</span></code></li><li><code>8 × <span class="dbgCommand">SELECT</span> jg.id, jg.catid, jg.imgthumbname, jg.imgfilename, jg.owner, jg.imgauthor,                     jg.imgdate, jg.imgtitle, jg.imgtext, jg.hits, jg.imgvotes,                     <span class="dbgCommand">ROUND</span>(<span class="dbgCommand">LEAST</span>(<span class="dbgCommand">IF</span>(imgvotes &gt; 0, ((7.31<b style="color: red;">*</b>4.06) + jg.imgvotesum) / (7.31 + jg.imgvotes), 0.0), 5), 2) <span class="dbgCommand">AS</span> rating,                     jgc.name <span class="dbgCommand">AS</span> cattitle, jgc.catpath <span class="dbgCommand">AS</span> catpath <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery</span> <span class="dbgCommand">AS</span> jg <br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_joomgallery_catg</span> <span class="dbgCommand">AS</span> jgc <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> jgc.cid <b class="dbgOperator">=</b> jg.catid</code></li><li><code>2 × <span class="dbgCommand">SELECT</span> m.id, m.menutype, m.title, m.alias, m.note, m.path <span class="dbgCommand">AS</span> route, m.link, m.type, m.level, m.language,m.browserNav, m.access, m.params, m.home, m.img, m.template_style_id, m.component_id, m.parent_id,e.element as component <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_menu</span> <span class="dbgCommand">AS</span> m <br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_extensions</span> <span class="dbgCommand">AS</span> e <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> m.component_id <b class="dbgOperator">=</b> e.extension_id</code></li><li><code>1 × <span class="dbgCommand">SELECT</span> c.cid, c.parent_id, c.name, c.access, c.published, c.hidden, c.owner <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery_catg</span> <span class="dbgCommand">AS</span> c</code></li><li><code>1 × <span class="dbgCommand">SELECT</span> count(<b style="color: red;">*</b>) As imgcount,<span class="dbgCommand">SUM</span>(imgvotes) As sumimgvotes,<span class="dbgCommand">SUM</span>(imgvotesum/imgvotes) As sumimgratings <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery</span></code></li><li><code>1 × <span class="dbgCommand">SELECT</span> catid, <span class="dbgCommand">COUNT</span>(id) as piccount, <span class="dbgCommand">SUM</span>(hits) as hitcount <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery</span></code></li><li><code>1 × <span class="dbgCommand">SELECT</span> ca.cid,ca.name,ca.description,ca.catpath,ca.alias,ca.thumbnail,ca.lft,<span class="dbgCommand">IF</span>(<span class="dbgCommand">SUM</span>(jg.imgvotes) &gt; 0, <span class="dbgCommand">SUM</span>(<span class="dbgCommand">ROUND</span>(<span class="dbgCommand">LEAST</span>(<span class="dbgCommand">IF</span>(imgvotes &gt; 0, ((7.31<b style="color: red;">*</b>4.06) + jg.imgvotesum) / (7.31 + jg.imgvotes), 0.0), 5), 2)) / count(jg.id), 0) <span class="dbgCommand">AS</span> catrating, <span class="dbgCommand">SUM</span>(jg.imgvotes) <span class="dbgCommand">AS</span> catimgvotes,<span class="dbgCommand">SUM</span>(jg.hits) <span class="dbgCommand">AS</span> cathits <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery_catg</span> <span class="dbgCommand">AS</span> ca <br>&nbsp;&nbsp;<span class="dbgCommand">INNER</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_joomgallery</span> <span class="dbgCommand">AS</span> jg <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> ca.cid <b class="dbgOperator">=</b> jg.catid</code></li><li><code>1 × <span class="dbgCommand">SELECT</span> <b style="color: red;">*</b> <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_joomgallery_config</span></code></li><li><code>1 × <span class="dbgCommand">SELECT</span> id <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_menu</span></code></li><li><code>1 × <span class="dbgCommand">SELECT</span> m.menutype <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_menu</span> <span class="dbgCommand">AS</span> m</code></li><li><code>1 × <span class="dbgCommand">SELECT</span> b.id <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_usergroups</span> <span class="dbgCommand">AS</span> a <br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_usergroups</span> <span class="dbgCommand">AS</span> b <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> b.lft &lt;<b class="dbgOperator">=</b> a.lft <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> b.rgt &gt;<b class="dbgOperator">=</b> a.rgt</code></li><li><code>1 × <span class="dbgCommand">SELECT</span> `session_id` <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> `<span class="dbgTable">bandw_session</span>`</code></li><li><code>1 × <span class="dbgCommand">SELECT</span> id, rules <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> `<span class="dbgTable">bandw_viewlevels</span></code></li><li><code>1 × <span class="dbgCommand">SELECT</span> <b style="color: red;">*</b> <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_template_styles</span></code></li><li><code>1 × <span class="dbgCommand">SELECT</span> m.published, m.id, m.title, m.module, m.position, m.content, m.showtitle, m.params,am.params as adv_params, 0 as menuid, m.publish_up, m.publish_down <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_modules</span> <span class="dbgCommand">AS</span> m <br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_extensions</span> <span class="dbgCommand">AS</span> e <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> e.element <b class="dbgOperator">=</b> m.module <br>&nbsp;&nbsp;<span class="dbgCommand">AND</span> e.client_id <b class="dbgOperator">=</b> m.client_id <br>&nbsp;&nbsp;<span class="dbgCommand">LEFT</span> <span class="dbgCommand">JOIN</span> <span class="dbgTable">bandw_advancedmodules</span> as am <br>&nbsp;&nbsp;<span class="dbgCommand">ON</span> am.moduleid <b class="dbgOperator">=</b> m.id</code></li><li><code>1 × <span class="dbgCommand">SELECT</span> <b style="color: red;">*</b> <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> <span class="dbgTable">bandw_menu</span></code></li><li><code>1 × <span class="dbgCommand">SELECT</span> `data` <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> `<span class="dbgTable">bandw_session</span>`</code></li></ol><h5>OTHER Tables:</h5><ol><li><code>1 × <span class="dbgCommand">UPDATE</span> `<span class="dbgTable">bandw_session</span>` <br>&nbsp;&nbsp;<span class="dbgCommand">SET</span> `data` <b class="dbgOperator">=</b> '__default|a:8:{s:15:\"session.counter\";i:1;s:19:\"session.timer.start\";i:1403673961;s:18:\"session.timer.last\";i:1403673961;s:17:\"session.timer.now\";i:1403673961;s:22:\"session.client.browser\";s:89:\"Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)\";s:8:\"registry\";O:9:\"JRegistry\":1:{s:7:\"\0<b style="color: red;">*</b>\0data\";O:8:\"stdClass\":0:{}}s:4:\"user\";O:5:\"JUser\":25:{s:9:\"\0<b style="color: red;">*</b>\0isRoot\";N;s:2:\"id\";i:0;s:4:\"name\";N;s:8:\"username\";N;s:5:\"email\";N;s:8:\"password\";N;s:14:\"password_clear\";s:0:\"\";s:8:\"usertype\";N;s:5:\"block\";N;s:9:\"sendEmail\";i:0;s:12:\"registerDate\";N;s:13:\"lastvisitDate\";N;s:10:\"activation\";N;s:6:\"params\";N;s:6:\"groups\";a:0:{}s:5:\"guest\";i:1;s:13:\"lastResetTime\";N;s:10:\"resetCount\";N;s:10:\"\0<b style="color: red;">*</b>\0_params\";O:9:\"JRegistry\":1:{s:7:\"\0<b style="color: red;">*</b>\0data\";O:8:\"stdClass\":0:{}}s:14:\"\0<b style="color: red;">*</b>\0_authGroups\";a:1:{i:0;i:1;}s:14:\"\0<b style="color: red;">*</b>\0_authLevels\";a:2:{i:0;i:1;i:1;i:1;}s:15:\"\0<b style="color: red;">*</b>\0_authActions\";N;s:12:\"\0<b style="color: red;">*</b>\0_errorMsg\";N;s:10:\"\0<b style="color: red;">*</b>\0_errors\";a:0:{}s:3:\"aid\";i:0;}s:13:\"session.token\";s:32:\"575497a6eae4171ab0659478f2543ad5\";}'  , `time` <b class="dbgOperator">=</b> '1403673962'</code></li><li><code>1 × <span class="dbgCommand">SHOW</span> <span class="dbgCommand">FULL</span> <span class="dbgCommand">COLUMNS</span> <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> `<span class="dbgTable">bandw_joomgallery_config</span></code></li><li><code>1 × <span class="dbgCommand">INSERT</span> <span class="dbgCommand">INTO</span> `<span class="dbgTable">bandw_session</span>` (`session_id`, `client_id`, `time`) <br>&nbsp;&nbsp;<span class="dbgCommand">VALUES</span>  ('4b8069ac51e29d03e3cbd4afa07100e9', 0, '1403673961'</code></li><li><code>1 × <span class="dbgCommand">DELETE</span>  <br>&nbsp;&nbsp;<span class="dbgCommand">FROM</span> `<span class="dbgTable">bandw_session</span>`</code></li></ol></div></div>
 </body></html>
