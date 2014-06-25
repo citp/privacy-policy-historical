@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the powerhouseaffiliate.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228123717id_/http%3A//powerhouseaffiliate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhouseaffiliate.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625143317id_/http%3A//powerhouseaffiliate.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Powerhouse Affiliate
-
-## Privacy
 
 The privacy of our visitors to Vault Media Inc. websites is important to us.
 
