@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qsrinternational.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027065353id_/http%3A//www.qsrinternational.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsrinternational.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065307id_/http%3A//www.qsrinternational.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Want to know more about QSR? Read our company brochure.
 
-  * [Download PDF](https://web.archive.org/web/20131027065353id_/http%3A//www.qsrinternational.com/FileResourceHandler.ashx/RelatedDocuments/DocumentFile/499/QSR_Company_Brochure.pdf)
+  * [Download PDF](https://web.archive.org/web/20140625065307id_/http%3A//www.qsrinternational.com/FileResourceHandler.ashx/RelatedDocuments/DocumentFile/499/QSR_Company_Brochure.pdf)
 
 
 
