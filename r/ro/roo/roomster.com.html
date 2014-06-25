@@ -1,230 +1,353 @@
-<!--The following is the downloaded HTML source of the roomster.com privacy policy that was archived on 2013-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131005091406id_/http%3A//www.roomster.com/info/privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roomster.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625144458id_/https%3A//www.roomster.com/info/privacy_policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xml:lang="en" lang="en" id="Html1"><head><title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="Roomster"><head id="html_header"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"d90d03e461","applicationID":"2845148","transactionName":"MgdVYUtVW0QAWkEMVgtNdmZpG1xZB1YaFUsMFFZWQGtFWA1QVhwXBBFHTQ==","queueTime":0,"applicationTime":22,"ttGuid":"C2325C645214FE4F","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8DUVNXGwEIUFRTAwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script><meta name="keywords" content="roommate,roomate,roommate search,roommate finder,roommate wanted,rooms for rent,find a roommate,roomate wanted,share a room,find roommates,apartments,sublet apartment,apartment"><meta id="meta_description" name="description" content="Roomster - "><meta name="netinsert" content="0.0.1.2.27.1"><link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css?20140603">
+<link type="text/css" rel="stylesheet" href="https://static.roomster.com/Content/font-entypo.min.css?20140603"><link type="text/css" rel="stylesheet" href="https://static.roomster.com/Content/common_.css?20140603">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js?20140603"></script>
+<script src="https://static.roomster.com/Scripts/jquery-ui-1.10.3.custom.min.js?20140603"></script>
+<script src="https://static.roomster.com/Scripts/jquery.ui.selectmenu.js?20140603"></script>
+<script src="https://static.roomster.com/Scripts/moon.jsrouting-1.1.2.js?20140603"></script>
+<script src="https://static.roomster.com/mvc/routing.js?20140603"></script><script src="https://static.roomster.com/Scripts/common_.js?20140603"></script>
+
+    <script>$(function(){$.url.requestContext.applicationRoot="/";$.url.requestContext.routeValues={controller:"Home",action:"Default"};$.url.requestContext.dataTokens={};});</script>
+
+    <!--[if gte IE 7]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(https://static.roomster.com/css/ie7.css?20140603); /* ]]> */</style><![endif]-->
+    <!--[if gte IE 7]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(https://static.roomster.com/Content/ie7.css?20140603); /* ]]> */</style><![endif]-->
+    <script type="text/javascript" language="javascript">function imageLoadError(img){img.src="https://static.roomster.com/img/nophoto_profile.gif?20140603";return true;}
+function thumbLoadError(img){img.src="https://static.roomster.com/img/nophoto.png?20140603";return true;}</script>
+    <script type="text/javascript" language="javascript">jQuery(document).ready(function($){$('a[rel*=facebox]').facebox({loadingImage:'https://static.roomster.com/script/facebox/loading.gif?20140603',closeImage:'https://static.roomster.com/img/closePopup.png?20140603'});if($.cookie('roomster_registration')=='true'){$('#check_credit_message').dialog({width:590,height:231,modal:true,resizable:false,draggable:false});$.cookie('roomster_registration','false');};});</script>
+    <script type="text/javascript">var user_id=0;var locale='en-US';var js_global_full_app_url='/';</script>
+    
+    <title>
 	Roommate search service, roommate finder, roommates wanted.
-</title><meta name="keywords" content="roommate,roomate,roommate search,roommate finder,roommate wanted,rooms for rent,find a roommate,roomate wanted,share a room,find roommates,apartments,sublet apartment,apartment"><meta id="meta_description" name="description" content="Roomster - "><meta name="netinsert" content="0.0.1.2.27.1"><link type="text/css" rel="stylesheet" href="//static.roomster.com/Content/common_.css?20131004">
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js?20131004"></script>
-<script src="//static.roomster.com/Scripts/jquery-ui-1.10.3.custom.min.js?20131004"></script>
-<script src="//static.roomster.com/Scripts/moon.jsrouting-1.1.2.js?20131004"></script>
-<script src="//static.roomster.com/mvc/routing.js?20131004"></script><script src="//static.roomster.com/Scripts/common_.js?20131004"></script>
-
-    <link rel="stylesheet" type="text/css" href="//static.roomster.com/css/helpDeskStyle.css?20131004" media="screen">
-    <!--[if gte IE 7]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(//static.roomster.com/css/ie7.css?20131004); /* ]]> */</style><![endif]-->
-    <!--[if gte IE 7]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(//static.roomster.com/Content/ie7.css?20131004); /* ]]> */</style><![endif]-->
-    <!--[if IE 7]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(//static.roomster.com/Content/ie7only.css?20131004); /* ]]> */</style><![endif]-->
-    <link rel="stylesheet" type="text/css" href="//static.roomster.com/script/jquery/jquery.bubblepopup/jquery.bubblepopup.v2.3.1.css?20131004" media="screen">
-    
-    <script type="text/javascript" language="javascript">
-        function imageLoadError(img){img.src = "//static.roomster.com/img/nophoto_profile.gif?20131004";return true;}
-        function thumbLoadError(img){img.src = "//static.roomster.com/img/nophoto.png?20131004";return true;}
-    </script>
-
-
-    <script type="text/javascript" language="javascript" src="//static.roomster.com/script/jquery/jquery.bubblepopup/jquery.bubblepopup.v2.3.1.min.js?20131004"></script>
-    <script type="text/javascript" language="javascript">
-        jQuery(document).ready(function ($) {
-            $('a[rel*=facebox]').facebox({
-                loadingImage: '//static.roomster.com/script/facebox/loading.gif?20131004',
-                closeImage: '//static.roomster.com/img/closePopup.png?20131004'
-            });
-            if ($.cookie('roomster_registration') == 'true') {
-                //$('#check_credit_message').dialog({ width: 590, height: 231, modal: true, resizable: false, draggable: false });
-                $.cookie('roomster_registration', 'false');
-            };
-        });
-        var user_id = 0;
-        var locale = 'en-US';
-        var js_global_full_app_url = '/';
-        
-//         $(document).ready(function ($) {
-//         	var jqHeader = $("#wrap_dashboard_header");
-//        	if (jqHeader.length) {
-//         		var jqContainer = $("#container");
-//         		if (jqContainer.length) {
-//         			var containerWidth = jqContainer.width();
-//       			jqHeader.width(containerWidth);
-//         			jqHeader.show();
-//         		}
-//         	}
-//         });                
-    </script>
-    
-    </head>
+</title><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
-    <noscript>
+    
+<noscript>
+    
         <div class="noScriptWrap">
             <div class="noScriptBlock">
-                Enable javascript via your browser's settings to have Roomster's search results display correctly.
+                <a href="http://www.enable-javascript.com/" target="_blank">Enable JavaScript in your browser in order to use Roomster</a>.
             </div>
         </div>
-    </noscript>    
     
+</noscript>
 
 
 
 
-    <div class="errorNotifyBox hidden mainError" id="MainErrorMessage"></div>		
-     <div class="mainHeader landingPage">
+
+    <div class="errorNotifyBox hidden mainError" id="MainErrorMessage"></div>	
     
-<div class="nav">
-	<div id="navBlockLeft">
-        <ul class="socButtonsBlockLandPage">
-                   <li class="navMenuClear">
-                     <div class="socConnectWrapFB">
-                         <iframe src="//www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3A%2F%2Fwww.facebook.com%2Froomstercorp&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=308445162578635" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
-                      </div>                  
-                  </li>
-                  <li class="navMenuClear">
-                      <div class="socConnectWrapTw">
-                       <a href="https://twitter.com/roomster" class="twitter-follow-button" data-show-screen-name="false" data-lang="en">Follow</a>
-                        <script id="twitter-wjs" src="//platform.twitter.com/widgets.js" async=""></script>
-                      </div>                  
-                  </li>
-                  <li class="navMenuClear">
-                    <div class="socConnectWrapGP">
-                        <script type="text/javascript" src="https://apis.google.com/js/plusone.js" async=""></script>
-                        <g:plusone size="medium" href="http://www.roomster.com"></g:plusone>
-                    </div>
-                  </li>
-            </ul>
-	</div>
     
-	<div id="navBlockRight" class="navBlockRightVM">
-	    
-		<ul class="navMenuRight">
-			<!--<li class="navMenuClear"><a href="http://reviews.roomster.com" target="_blank">Blog</a> </li>-->
-			<li><a href="//www.roomster.com/info/">24/7 Support</a></li>
-            <!--<li>
-                <a onclick="$('.langSubMenu').toggle()" class="langMenu">Eng</a>
-                <div class="langSubMenu">
-                    <div class="headerDDMelem"></div>
-                    <div class="headerDropDownMenuBody">COMING SOON!</div>
-                    <div class="clickField" onclick="$('.langSubMenu').hide()"></div>
-                </div>
-            </li>-->
+    <header>
+         <div class="headerHolder"><nav>
+        
+<ul class="commonMenu">
+        <li class="settingsMenuItem firstLine">
+            <a><span class="icon"></span></a>
+            <ul class="submenu">
+                <li class="ui-state-disabled"><a></a><ul><li></li></ul></li>
+                <li>
+
+
+<script type="text/javascript" language="javascript">Roomster.Cookie.Currency=new Roomster.Cookie.Base('Roomster.Currency',1);Roomster.Cookie.OldCurrency=new Roomster.Cookie.Base('Roomster.Currency.Old',1);Roomster.Currency.MoneyPrefix='$';Roomster.Currency.MoneyPostfix='USD';Roomster.Currency.Rate='1';$(function(){$('.currencyMenu .currencyItem').click(function(event){event.stopPropagation();$('.currencySubMenu').toggle();var newCurrency=$(this).text();$('#CurrentCurrency').text(newCurrency);Roomster.Currency.Change(newCurrency);});});</script>
+<a onclick=" $('.currencySubMenu').toggle(); $('#CurrentCurrency').toggleClass('selected'); " id="CurrentCurrency">USD<span class="triangle-down"></span><span class="triangle-left"></span></a>
+<div class="currencySubMenu">
+    <div class="currencyMenu">
+        <div class="currencyColumn">
             
-
-<script type="text/javascript" language="javascript">
-    Roomster.Cookie.Currency = new Roomster.Cookie.Base('Roomster.Currency', 1);
-    
-    Roomster.Cookie.OldCurrency = new Roomster.Cookie.Base('Roomster.Currency.Old', 1);
-    Roomster.Currency.MoneyPrefix = '$';
-    Roomster.Currency.MoneyPostfix = 'USD';
-    Roomster.Currency.Rate = '1';
-    
-    $(
-        function()
-        {
-            $('.curBoby ul li').click(
-                function(event)
-                {
-                    event.stopPropagation();
-                    $('.currencySubMenu').toggle();
-                    var newCurrency = $(this).text();
-                    $('#CurrentCurrency').text(newCurrency);
-                    Roomster.Currency.Change(newCurrency);
-                });
-        });
-</script>
-
-<li>
-    <a onclick="$('.currencySubMenu').toggle(); $(this).addClass('selected')" id="CurrentCurrency">USD</a>
-    <div class="currencySubMenu">
-        <div class="headerDDMelem"></div>
-        <div class="curTitle">Select Currency</div>
-        <div class="curBoby">
-            <ul class="ulL">
-                
-                <li><span class="ARS">ARS</span></li>
-                
-                <li><span class="AUD">AUD</span></li>
-                
-                <li><span class="BRL">BRL</span></li>
-                
-                <li><span class="CAD">CAD</span></li>
-                
-                <li><span class="CHF">CHF</span></li>
-                
-                <li><span class="CNY">CNY</span></li>
-                
-                <li><span class="CZK">CZK</span></li>
-                
-                <li><span class="DKK">DKK</span></li>
-                
-                <li><span class="EUR">EUR</span></li>
-                
-                <li><span class="GBP">GBP</span></li>
-                
-                <li><span class="HKD">HKD</span></li>
-                
-                <li><span class="HUF">HUF</span></li>
-                
-                <li><span class="IDR">IDR</span></li>
-                
-                <li><span class="ILS">ILS</span></li>
-                
-                <li><span class="INR">INR</span></li>
-                
-                <li><span class="JPY">JPY</span></li>
-                
-                <li><span class="KRW">KRW</span></li>
-                
-            </ul>
-            <ul class="ulR">
-                
-                        <li><span class="MXN">MXN</span></li>
-                
-                        <li><span class="MYR">MYR</span></li>
-                
-                        <li><span class="NOK">NOK</span></li>
-                
-                        <li><span class="NZD">NZD</span></li>
-                
-                        <li><span class="PHP">PHP</span></li>
-                
-                        <li><span class="PLN">PLN</span></li>
-                
-                        <li><span class="RUB">RUB</span></li>
-                
-                        <li><span class="SEK">SEK</span></li>
-                
-                        <li><span class="SGD">SGD</span></li>
-                
-                        <li><span class="THB">THB</span></li>
-                
-                        <li><span class="TRY">TRY</span></li>
-                
-                        <li><span class="TWD">TWD</span></li>
-                
-                        <li><span class="UAH">UAH</span></li>
-                
-                        <li><span class="USD">USD</span></li>
-                
-                        <li><span class="VND">VND</span></li>
-                
-                        <li><span class="ZAR">ZAR</span></li>
-                
-            </ul>
-            <div class="cudDivider"></div>
+                <div class="currencyItem"><span class="ARS">ARS</span></div>
+            
+                <div class="currencyItem"><span class="AUD">AUD</span></div>
+            
+                <div class="currencyItem"><span class="BRL">BRL</span></div>
+            
+                <div class="currencyItem"><span class="CAD">CAD</span></div>
+            
+                <div class="currencyItem"><span class="CHF">CHF</span></div>
+            
+                <div class="currencyItem"><span class="CNY">CNY</span></div>
+            
+                <div class="currencyItem"><span class="CZK">CZK</span></div>
+            
+                <div class="currencyItem"><span class="DKK">DKK</span></div>
+            
+                <div class="currencyItem"><span class="EUR">EUR</span></div>
+            
+                <div class="currencyItem"><span class="GBP">GBP</span></div>
+            
+                <div class="currencyItem"><span class="HKD">HKD</span></div>
+            
+                <div class="currencyItem"><span class="HUF">HUF</span></div>
+            
+                <div class="currencyItem"><span class="IDR">IDR</span></div>
+            
+                <div class="currencyItem"><span class="ILS">ILS</span></div>
+            
+                <div class="currencyItem"><span class="INR">INR</span></div>
+            
+                <div class="currencyItem"><span class="JPY">JPY</span></div>
+            
+                <div class="currencyItem"><span class="KRW">KRW</span></div>
+            
         </div>
-        <div class="clickField" onclick="$('.currencySubMenu').hide(); $('#CurrentCurrency').removeClass('selected')"></div>
+        <div class="currencyColumn">
+            
+                <div class="currencyItem"><span class="MXN">MXN</span></div>
+            
+                <div class="currencyItem"><span class="MYR">MYR</span></div>
+            
+                <div class="currencyItem"><span class="NOK">NOK</span></div>
+            
+                <div class="currencyItem"><span class="NZD">NZD</span></div>
+            
+                <div class="currencyItem"><span class="PHP">PHP</span></div>
+            
+                <div class="currencyItem"><span class="PLN">PLN</span></div>
+            
+                <div class="currencyItem"><span class="RUB">RUB</span></div>
+            
+                <div class="currencyItem"><span class="SEK">SEK</span></div>
+            
+                <div class="currencyItem"><span class="SGD">SGD</span></div>
+            
+                <div class="currencyItem"><span class="THB">THB</span></div>
+            
+                <div class="currencyItem"><span class="TRY">TRY</span></div>
+            
+                <div class="currencyItem"><span class="TWD">TWD</span></div>
+            
+                <div class="currencyItem"><span class="UAH">UAH</span></div>
+            
+                <div class="currencyItem"><span class="USD">USD</span></div>
+            
+                <div class="currencyItem"><span class="VND">VND</span></div>
+            
+                <div class="currencyItem"><span class="ZAR">ZAR</span></div>
+            
+        </div>
     </div>
+    <div class="clear"></div>
+    <!--<div class="clickField" onclick="$('.currencySubMenu').hide(); $('#CurrentCurrency').removeClass('selected')"></div>-->
+</div>
+
+<div id="currencies" style="display: none;">
+    <div class="basePopupTitle"><img src="/img/icons/popupLogo.png" alt="Roomster"><span>Currency</span></div>
+    <div class="currencyMenu" style="border: none;">
+    <div class="currencyColumn">        
+        
+                <div class="currencyItem"><span class="ARS">ARS</span></div>
+            
+                <div class="currencyItem"><span class="AUD">AUD</span></div>
+            
+                <div class="currencyItem"><span class="BRL">BRL</span></div>
+            
+                <div class="currencyItem"><span class="CAD">CAD</span></div>
+            
+                <div class="currencyItem"><span class="CHF">CHF</span></div>
+            
+                <div class="currencyItem"><span class="CNY">CNY</span></div>
+            
+                <div class="currencyItem"><span class="CZK">CZK</span></div>
+            
+                <div class="currencyItem"><span class="DKK">DKK</span></div>
+            
+                <div class="currencyItem"><span class="EUR">EUR</span></div>
+            
+                <div class="currencyItem"><span class="GBP">GBP</span></div>
+            
+                <div class="currencyItem"><span class="HKD">HKD</span></div>
+            
+                <div class="currencyItem"><span class="HUF">HUF</span></div>
+            
+                <div class="currencyItem"><span class="IDR">IDR</span></div>
+            
+                <div class="currencyItem"><span class="ILS">ILS</span></div>
+            
+                <div class="currencyItem"><span class="INR">INR</span></div>
+            
+                <div class="currencyItem"><span class="JPY">JPY</span></div>
+            
+                <div class="currencyItem"><span class="KRW">KRW</span></div>
+            
+    </div>    
+    <div class="currencyColumn" style="float: right;">     
+        
+                <div class="currencyItem"><span class="MXN">MXN</span></div>
+            
+                <div class="currencyItem"><span class="MYR">MYR</span></div>
+            
+                <div class="currencyItem"><span class="NOK">NOK</span></div>
+            
+                <div class="currencyItem"><span class="NZD">NZD</span></div>
+            
+                <div class="currencyItem"><span class="PHP">PHP</span></div>
+            
+                <div class="currencyItem"><span class="PLN">PLN</span></div>
+            
+                <div class="currencyItem"><span class="RUB">RUB</span></div>
+            
+                <div class="currencyItem"><span class="SEK">SEK</span></div>
+            
+                <div class="currencyItem"><span class="SGD">SGD</span></div>
+            
+                <div class="currencyItem"><span class="THB">THB</span></div>
+            
+                <div class="currencyItem"><span class="TRY">TRY</span></div>
+            
+                <div class="currencyItem"><span class="TWD">TWD</span></div>
+            
+                <div class="currencyItem"><span class="UAH">UAH</span></div>
+            
+                <div class="currencyItem"><span class="USD">USD</span></div>
+            
+                <div class="currencyItem"><span class="VND">VND</span></div>
+            
+                <div class="currencyItem"><span class="ZAR">ZAR</span></div>
+            
+    </div>
+    <div class="clear"></div>
+        </div>
+</div></li>
+                <li>
+
+<a onclick="$('.langSubMenu').toggle(); $('.langMenu').addClass('selected');" class="langMenu" title="English (US)"><span class="icon"></span>English (US)<span class="triangle-down"></span><span class="triangle-left"></span></a>
+<div class="langSubMenu" style="direction: ltr;">
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="English (US)" lcid="1033">English (US)</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="French" lcid="1036">Français</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="Russian" lcid="1049">Русский</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="Spanish" lcid="2058">Español</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="Italian" lcid="1040">Italiano</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="Spanish (Spain)" lcid="3082">Español (España)</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="German" lcid="1031">Deutsch</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="Portuguese" lcid="2070">Português</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="Japanese" lcid="1041">日本語</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="Chinese (Simplified)" lcid="2052">中文(简体)</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="Korean" lcid="1042">한국어</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="Hebrew" lcid="1037">‏עברית</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="Arabic" lcid="1025">‏العربية</a>
+    </p>
+        
+</div>
+
+<div id="languages" style="display: none;">
+    <div class="basePopupTitle"><img src="/img/icons/popupLogo.png" alt="Roomster"><span>Languages</span></div>
+    <div>
+        
+        
+        <p><a onclick="return SetLanguage(this);" title="English (US)" lcid="1033">English (US)</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="French" lcid="1036">Français</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="Russian" lcid="1049">Русский</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="Spanish" lcid="2058">Español</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="Italian" lcid="1040">Italiano</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="Spanish (Spain)" lcid="3082">Español (España)</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="German" lcid="1031">Deutsch</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="Portuguese" lcid="2070">Português</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="Japanese" lcid="1041">日本語</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="Chinese (Simplified)" lcid="2052">中文(简体)</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="Korean" lcid="1042">한국어</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="Hebrew" lcid="1037">‏עברית</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="Arabic" lcid="1025">‏العربية</a></p>
+                         
+        
+    </div>    
+</div>
+
+<script>function SetLanguage(alink)
+{$.cookie("Roomster.Globalization",$(alink).attr("lcid"),{expires:365,path:'/'});window.location.href=window.location.href;}</script>
 </li>
-			<li class="logInButtonLi">
-                  <input type="button" value="Log In" class="buttonCSS3 landingPageLoginButton" onclick="Roomster.Dialog.Login.Show()">
-			</li>
-			<li class="menuButtonLi">
-				<input type="button" value="Sign Up" class="landingPageSignupButton" onclick="Roomster.Dialog.SignUp.Show()">
-			</li>
-		</ul>
+            </ul>
+        </li>
+        <li class="connectMenuItem firstLine">
+            <a>
+                <span class="icon"></span>
+                <span class="icon"></span>
+                <span class="icon"></span>
+            </a>
+            <ul class="submenu">
+                <li>
+                    <div class="socButtonsBlockLandPage">
+                        <div class="floatLeft">
+                            <iframe src="//www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3A%2F%2Fwww.facebook.com%2Froomstercorp&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=308445162578635" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>
+                        </div>                  
+                        <div class="floatLeft">
+                        <a href="https://twitter.com/roomster" class="twitter-follow-button" data-show-screen-name="false" data-lang="en">Follow</a>
+                        <script id="twitter-wjs" src="//platform.twitter.com/widgets.js" async=""></script>
+                        </div>                  
+                        <div class="floatLeft">
+                            <script type="text/javascript" src="https://apis.google.com/js/plusone.js" async=""></script>
+                            <g:plusone size="medium" href="http://www.roomster.com"></g:plusone>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </li>
+    </ul>
+
+    <div class="entranceControls">
+        <input type="button" value="Log In" class="inputsubmit" onclick="Roomster.Dialog.Login.Show()">
+        <input type="button" value="Sign Up" class="inputsubmit yellowButton" onclick="Roomster.Dialog.SignUp.Show()">
+    </div>
+    
+    
         
             <div class="registerBlock" id="loginPopup">
-                <p class="basePopupTitle"><img src="/img/icons/popupLogo.png">Log In</p>
+                <p class="basePopupTitle"><img src="/img/icons/popupLogo.png"></p>
                 <form action="/Login" id="frm" method="post">
-    <a href="#" class="socialLoginButton googlePlus" onclick="Roomster.SocialConnector.LoginWithProvider(Roomster.SocialConnector.GPlus)"><span class="buttonText">Login with <strong>Google</strong></span></a>
-    <a href="#" class="socialLoginButton facebook" onclick="Roomster.SocialConnector.LoginWithProvider(Roomster.SocialConnector.FB)"><span class="buttonText">Login with <strong>Facebook</strong></span></a>
-    <a href="#" class="socialLoginButton twitter" onclick="Roomster.SocialConnector.LoginWithProvider(Roomster.SocialConnector.TW)"><span class="buttonText">Login with <strong>Twitter</strong></span></a>
+    <a href="#" class="socialLoginButton googlePlus" onclick="Roomster.Dialog.Login.LoginWithProvider(Roomster.SocialConnector.GPlus)"><span class="buttonText">Login with <strong>Google</strong></span></a>
+    <a href="#" class="socialLoginButton facebook" onclick="Roomster.Dialog.Login.LoginWithProvider(Roomster.SocialConnector.FB)"><span class="buttonText">Login with <strong>Facebook</strong></span></a>
+    <a href="#" class="socialLoginButton twitter" onclick="Roomster.Dialog.Login.LoginWithProvider(Roomster.SocialConnector.TW)"><span class="buttonText">Login with <strong>Twitter</strong></span></a>
     <div class="chooseSeparator">
         <span class="separatorLine"></span>
         <span class="separatorText">or</span>
@@ -238,7 +361,7 @@
     <div class="controls">
         <div class="optionsHolder">
             <input id="RememberMe" name="RememberMe" type="checkbox" value="true"><input name="RememberMe" type="hidden" value="false">
-            <label for="remember_email_homepage">Remember me</label>
+            <label for="RememberMe">Remember me</label>
         </div>
         <a class="floatRight" href="/Account/RetrievePassword">Forgot password?</a>
         <div class="clear"></div>
@@ -246,154 +369,63 @@
     <input class="buttonCSS3 inputsubmit" onclick=" clear_name_inputs();" value="Log In" type="submit">
 </form>
     <div class="divider"></div>
-    <div class="popupFooter">Need an account? <strong><a href="/Registration/SignUp">Sign Up</a></strong></div>
+    <div class="popupFooter">Need an account?<strong><a href="/Registration/SignUp">Sign Up</a></strong></div>
 
-    <script src="//static.roomster.com/Scripts/socialLogin_.js?20131004"></script>
+    <script src="https://static.roomster.com/Scripts/socialLogin_.js?20140603"></script>
 
 
-<script type="text/javascript">
-    Roomster.SocialConnector.FB.AppId = '2395669880';
-    Roomster.SocialConnector.GPlus.ClientId = '757625519322.apps.googleusercontent.com';
-
-    var email_homepage_input = document.getElementById('email_homepage');
-    var password_homepage_txt = document.getElementById('password_txt');
-    var password_homepage_input = document.getElementById('password_homepage');
-
-    function loginBlockToggle()
-    {
-        $('.registerBlock').toggle();
-    }
-
-    function textbox_prompt_value(input, default_value, action)
-    {
-        if (action == 'onfocus')
-        {
-            if (input.value == default_value)
-            {
-                if (input == password_homepage_txt)
-                {
-                    password_homepage_txt.style.display = "none";
-                    password_homepage_input.style.display = "inline";
-                    password_homepage_input.focus();
-                }
-                else
-                {
-                    input.value = '';
-                    input.style.color = '#000000';
-                }
-            }
-        }
-        else if (action == 'onblur')
-        {
-            if (input.value == '')
-            {
-                if (input == password_homepage_input)
-                {
-                    password_homepage_txt.style.display = "inline";
-                    password_homepage_input.style.display = "none";
-                }
-                else
-                {
-                    input.value = default_value;
-                    input.style.color = '#cfcfcf';
-                }
-            }
-        }
-    }
-
-    function clear_name_inputs()
-    {
-        if (email_homepage_input.value == "Email")
-        {
-            email_homepage_input.value = "";
-        }
-        password_homepage_txt.value = "";
-    }
-
-    function initLoginFormRedirectUrl(isLoginPage)
-    {
-        var _isLoginPage = false;
-
-        if (isLoginPage === true)
-        {
-            _isLoginPage = true;
-        }
-
-        $('#frm').submit(function()
-        {
-            var returnUrl = location.search;
-
-            if (!_isLoginPage)
-            {
-                returnUrl = location.pathname + location.search;
-            }
-
-            if (returnUrl.length > 1)
-            {
-                var loginFormAction = $('#frm').attr('action');
-
-                if (loginFormAction.indexOf('ReturnUrl') <= 0)
-                {
-                    if (returnUrl.indexOf('ReturnUrl') <= 0)
-                    {
-                        returnUrl = '?ReturnUrl=' + encodeURIComponent(returnUrl);
-                    }
-
-                    if (loginFormAction[loginFormAction.length - 1] !== '/')
-                    {
-                        returnUrl = '/' + returnUrl;
-                    }
-
-                    $('#frm').attr('action', loginFormAction + returnUrl);
-                }
-            }
-        });
-    }
-
-    $(function () {
-        $("#email_homepage").placeholder();
-        $("#password_homepage").placeholder();
-                  });
-</script>                                         
+<script type="text/javascript">Roomster.SocialConnector.FB.AppId='2395669880';Roomster.SocialConnector.GPlus.ClientId='757625519322.apps.googleusercontent.com';var email_homepage_input=document.getElementById('email_homepage');var password_homepage_txt=document.getElementById('password_txt');var password_homepage_input=document.getElementById('password_homepage');function loginBlockToggle()
+{$('.registerBlock').toggle();}
+function textbox_prompt_value(input,default_value,action)
+{if(action=='onfocus')
+{if(input.value==default_value)
+{if(input==password_homepage_txt)
+{password_homepage_txt.style.display="none";password_homepage_input.style.display="inline";password_homepage_input.focus();}
+else
+{input.value='';input.style.color='#000000';}}}
+else if(action=='onblur')
+{if(input.value=='')
+{if(input==password_homepage_input)
+{password_homepage_txt.style.display="inline";password_homepage_input.style.display="none";}
+else
+{input.value=default_value;input.style.color='#cfcfcf';}}}}
+function clear_name_inputs()
+{if(email_homepage_input.value=="Email")
+{email_homepage_input.value="";}
+password_homepage_txt.value="";}
+function initLoginFormRedirectUrl(isLoginPage)
+{var _isLoginPage=false;if(isLoginPage===true)
+{_isLoginPage=true;}
+$('#frm').submit(function()
+{var returnUrl=location.search;if(!_isLoginPage)
+{returnUrl=location.pathname+location.search;}
+if(returnUrl.length>1)
+{var loginFormAction=$('#frm').attr('action');if(loginFormAction.indexOf('ReturnUrl')<=0)
+{if(returnUrl.indexOf('ReturnUrl')<=0)
+{returnUrl='?ReturnUrl='+encodeURIComponent(returnUrl);}
+if(loginFormAction[loginFormAction.length-1]!=='/')
+{returnUrl='/'+returnUrl;}
+$('#frm').attr('action',loginFormAction+returnUrl);}}});}
+$(function(){$("#email_homepage").placeholder();$("#password_homepage").placeholder();});</script>                                         
             </div>
-            <script type="text/javascript">
-                initLoginFormRedirectUrl();
-            </script>
+            <script type="text/javascript">initLoginFormRedirectUrl();</script>
         
-	</div>
-    
-	<a class="navLogo" href="/"></a>
-</div>
+    <a class="navLogo" href="/"></a>
+<script>$(".commonMenu").menu({position:{my:"left-1 top",at:"left bottom"}});$(".commonMenu").unbind('mouseenter mouseleave');$(function(){$('.commonMenu .firstLine > a').click(function(){if($(this).hasClass('ui-state-active')){$(".commonMenu").menu("collapseAll",null,true);};});});</script>
+          </nav>
+          <div class="clear"></div>
+         </div><!-- headerHolder end -->
+    </header>
 
-      </div>
-
     
-        <div class="containerHD">
-            <div class="helpDeskLeftBlock">
-                <ul class="helpDeskMenu">
-                    <li><a href="/info/">Support</a></li> 
-                    <li><a href="/info/aboutus.aspx">About</a></li>
-                    <li><a href="/info/scamProtection.aspx">Scam Protection</a></li>
-                    <li><a href="/info/tutorials.aspx">Tutorials</a></li>
-                    <li><a href="/info/tips/">Tips</a></li>
-                    <li><a href="/info/terms_of_use.aspx">Terms of Use</a></li>
-                    <li><a href="/info/privacy_policy.aspx">Privacy Policy</a></li>
-                    <li><a href="/info/faq.aspx">FAQ</a></li>
-                    <li><a href="/info/contactus.aspx">Contact</a></li>
-                    <li><a href="/info/press/">Press</a></li>
-                    <li><a href="//www.roomster.com/affiliate/" target="_blank">Affiliate</a></li>
-                    <li><a href="http://reviews.roomster.com" target="_blank">Blog</a></li>
-                </ul>
-            </div>
-            <div class="helpDeskRightBlock">
-                <div class="helpDeskTopBlock">24/7 Support Center</div>          
-                
-<script>
-    jQuery(document).ready(function ($) {
-        $(".helpDeskMenu li:nth-child(7)").addClass('current');
-    });
-</script>
-<div class="helpContent">
+    <div id="container" class="containerClear"> 
+                       
+            <table cellpadding="0" cellspacing="0" style="width:100%; border:none;">
+                <tbody><tr>
+                    <td style="vertical-align:top;">
+                        
+<script>jQuery(document).ready(function($){$(".helpDeskMenu li:nth-child(7)").addClass('current');});</script>
+<div class="helpContent" style="padding:40px;">
             <h2 class="labelHD">Privacy Policy</h2>   
             <p>Protecting your privacy is critical to Roomster. We will not sell, lease or 
 			exchange your personal data to third parties without first obtaining your 
@@ -560,63 +592,407 @@
 				</li>
 			</ol>      
 </div>
- 
-            </div>         
+
+                        
+                    </td>
+                    
+                        <td style="vertical-align:top;">
+                            
+                        </td>
+                    
+                </tr>
+            </tbody></table>            
+        
+        <div id="visitor_warning" style="display:none;" class="clearfix">
+            To contact this member
+            <a href="/reg/personal_info.aspx" style="font-weight:bold;">Sign up</a> for a free account<br>
+            or <a href="/reg/login.aspx" style="font-weight:bold;">Log in</a>
         </div>
         <div id="check_credit_message" style="display:none;" class="checkCreditPopup">
-            <p class="basePopupTitle"><img src="//static.roomster.com/img/icons/popupLogo.png?20131004">Check your credit</p>
+            <p class="basePopupTitle"><img src="https://static.roomster.com/img/icons/popupLogo.png?20140603">Check your credit</p>
             <div class="messBoxNotepadStyle">
-                <a href="http://ad.doubleclick.net/clk;250124819;75008516;d" style="font-weight:bold;" target="_blank">Check your credit</a> before you find an apartment/roommate?
+                <a href="https://www.gofreecredit.com/r/5183f1d8ac/?fname=&amp;lname=&amp;zip=&amp;email=&amp;phone1=&amp;address1=&amp;city=&amp;subid=" style="font-weight:bold;" target="_blank">Check your credit</a> before you find an apartment/roommate?
                 <!--Would you like to <a href="https://www.roomster.com/affiliate/" style="font-weight:bold;" target="_blank">become an affiliate and start making money</a> with us?<br />-->
             </div>
             <div class="divider"></div>
         </div>
+    </div>
     
 <div id="mainFooter">
-	<div class="mainFooterIn">
-            <ul class="footerLinks linkL">
-                <li>EXPLORE</li>
-                <li><a href="/info/tips">Tips</a></li>
-                <li><a href="/info/resources/links.aspx">Roomster Resource Center</a></li>
-                <li><a href="/info/faq.aspx">FAQ</a></li>
-                <li><a target="_blank" href="http://portal.hud.gov/hudportal/HUD?src=/program_offices/fair_housing_equal_opp/FHLaws/yourrights">Equal Housing Opportunity</a></li>
-                <li><a target="_blank" href="/affiliate/">Affiliate Program</a></li>
-                <li><a href="/SocialConnect">Roomster Social Connect</a></li>
-            </ul>
-            <ul class="footerLinks linkC">
-                <li>COMPANY</li>
-                <li><a href="/info/aboutus.aspx">About Us</a></li>
-                <li><a href="/info/careers">Careers</a></li>
-                <li><a href="/info/press">Press</a></li>
-                <li><a href="/info/contactus.aspx">Contact Us</a></li>
-                <li><a href="/info/terms_of_use.aspx">Terms of Use</a></li>
-                <li><a href="/info/privacy_policy.aspx">Privacy Policy</a></li>
-            </ul>
-            <ul class="footerLinks linkR">
-                <li>FIND US ON</li>
-                <li><a href="http://www.facebook.com/RoomsterCorp" target="_blank">Facebook</a></li>
-                <li><a href="http://twitter.com/#!/roomster" target="_blank">Twitter</a></li>
-                <li><a href="http://reviews.roomster.com/" target="_blank">Blog</a></li>
-                <li><a href="http://vimeo.com/roomsterroommates" target="_blank">Vimeo</a></li>
-                <li><a href="http://www.youtube.com/user/roomsterroommates" target="_blank">Youtube</a></li>
-                <li><a href="http://pinterest.com/roomster/" target="_blank">Pinterest</a></li>
-                <li><a href="http://roomster.tumblr.com/" target="_blank">Tumblr</a></li>
-            </ul>
-        <div class="footerLogoBlock">
-            <div class="lineL"></div>
-            <div class="footerLogo"></div>
-            <div class="lineR"></div>
-            <p>Roomster © 2013</p>
-        </div>
+    
+
+<div class="footer-popular-links">        
+
+    
+        <ul>
+            <li><h1>Private Rooms</h1></li>            
+                       
+            <li><a title="Private Rooms Anchorage" href="/Search/Anchorage AK US/2/0/Geo--60.733791---150.2862833--61.4838912---148.460007">Anchorage</a></li>
+                       
+            <li><a title="Private Rooms Atlanta" href="/Search/Atlanta GA US/2/0/Geo--33.6478079---84.5518189--33.8876179---84.289389">Atlanta</a></li>
+                       
+            <li><a title="Private Rooms Austin" href="/Search/Austin TX US/2/0/Geo--30.0986589---97.9383829--30.5168629---97.5684199">Austin</a></li>
+                       
+            <li><a title="Private Rooms Baltimore" href="/Search/Baltimore MD US/2/0/Geo--39.1972069---76.7115191--39.3722059---76.5294528">Baltimore</a></li>
+                       
+            <li><a title="Private Rooms Boston" href="/Search/Boston MA US/2/0/Geo--42.22788---71.191113--42.3988669---70.9232011">Boston</a></li>
+                       
+            <li><a title="Private Rooms Charleston" href="/Search/Charleston SC US/2/0/Geo--32.6685048---80.14379--32.973586---79.7971659">Charleston</a></li>
+                       
+            <li><a title="Private Rooms Chicago" href="/Search/Chicago IL US/2/0/Geo--41.6443349---87.9402669--42.023131---87.524044">Chicago</a></li>
+                       
+            <li><a title="Private Rooms Columbus" href="/Search/Columbus OH US/2/0/Geo--39.808631---83.2102799--40.1572719---82.7713781">Columbus</a></li>
+                       
+            <li><a title="Private Rooms Dallas" href="/Search/Dallas TX US/2/0/Geo--32.617537---96.9989413--33.0237921---96.4637379">Dallas</a></li>
+                       
+            <li><a title="Private Rooms Denver" href="/Search/Denver CO US/2/0/Geo--39.614431---105.109927--39.9142469---104.6002959">Denver</a></li>
+                       
+            <li><a title="Private Rooms Honolulu" href="/Search/Honolulu HI US/2/0/Geo--21.2549062---157.9494185--21.4012299---157.6485225">Honolulu</a></li>
+                       
+            <li><a title="Private Rooms Houston" href="/Search/Houston TX US/2/0/Geo--29.523624---95.7880869--30.1107319---95.014496">Houston</a></li>
+                       
+            <li><a title="Private Rooms Kansas City" href="/Search/Kansas City MO US/2/0/Geo--38.827176---94.765917--39.356662---94.385522">Kansas City</a></li>
+                       
+            <li><a title="Private Rooms Las Vegas" href="/Search/Las Vegas NV US/2/0/Geo--35.95---115.4--36.3---114.95">Las Vegas</a></li>
+                       
+            <li><a title="Private Rooms Los Angeles" href="/Search/Los Angeles CA US/2/0/Geo--33.7036917---118.6681759--34.3373061---118.1552891">Los Angeles</a></li>
+                       
+            <li><a title="Private Rooms Memphis" href="/Search/Memphis TN US/2/0/Geo--34.994185---90.3021981--35.264187---89.637081">Memphis</a></li>
+                       
+            <li><a title="Private Rooms Miami Beach" href="/Search/Miami Beach FL US/2/0/Geo--25.7551026---80.170091--25.8728059---80.1185221">Miami Beach</a></li>
+                       
+            <li><a title="Private Rooms Minneapolis" href="/Search/Minneapolis MN US/2/0/Geo--44.890144---93.329163--45.05125---93.1945439">Minneapolis</a></li>
+                       
+            <li><a title="Private Rooms Nashville" href="/Search/Nashville TN US/2/0/Geo--35.9677851---87.054903--36.4054959---86.5155879">Nashville</a></li>
+                       
+            <li><a title="Private Rooms New Orleans" href="/Search/New Orleans LA US/2/0/Geo--29.8684246---90.1380122--30.1772399---89.6260919">New Orleans</a></li>
+                       
+            <li><a title="Private Rooms New York" href="/Search/New York NY US/2/0/Geo--40.496006---74.2557349--40.9152556---73.7002721">New York</a></li>
+                       
+            <li><a title="Private Rooms Orlando" href="/Search/Orlando FL US/2/0/Geo--28.3479859---81.50773--28.6143519---81.22977">Orlando</a></li>
+                       
+            <li><a title="Private Rooms Philadelphia" href="/Search/Philadelphia PA US/2/0/Geo--39.8670041---75.280303--40.1379919---74.9557629">Philadelphia</a></li>
+                       
+            <li><a title="Private Rooms Phoenix" href="/Search/Phoenix AZ US/2/0/Geo--33.2902598---112.324056--33.92057---111.926046">Phoenix</a></li>
+                       
+            <li><a title="Private Rooms Portland" href="/Search/Portland ME US/2/0/Geo--43.6321469---70.3460949--43.727658---70.176083">Portland</a></li>
+                       
+            <li><a title="Private Rooms Portland" href="/Search/Portland OR US/2/0/Geo--45.432393---122.8369952--45.6524799---122.4718489">Portland</a></li>
+                       
+            <li><a title="Private Rooms Providence" href="/Search/Providence RI US/2/0/Geo--41.772414---71.4726422--41.861571---71.3696939">Providence</a></li>
+                       
+            <li><a title="Private Rooms San Antonio" href="/Search/San Antonio TX US/2/0/Geo--29.2241411---98.8058509--29.73872---98.222958">San Antonio</a></li>
+                       
+            <li><a title="Private Rooms San Diego" href="/Search/San Diego CA US/2/0/Geo--32.534856---117.2821665--33.114249---116.90816">San Diego</a></li>
+                       
+            <li><a title="Private Rooms San Francisco" href="/Search/San Francisco CA US/2/0/Geo--37.7034---122.527--37.812---122.3482">San Francisco</a></li>
+                       
+            <li><a title="Private Rooms San Juan" href="/Search/San Juan PR US/2/0/Geo--17.6873992---66.5927370500001--19.0822536---65.5239458499999">San Juan</a></li>
+                       
+            <li><a title="Private Rooms Savannah" href="/Search/Savannah GA US/2/0/Geo--31.8910777---81.370391--32.189996---81.0303609">Savannah</a></li>
+                       
+            <li><a title="Private Rooms Seattle" href="/Search/Seattle WA US/2/0/Geo--47.4955511---122.4359085--47.734145---122.235776">Seattle</a></li>
+                       
+            <li><a title="Private Rooms Washington" href="/Search/Washington DC US/2/0/Geo--38.7916449---77.119759--38.995548---76.909393">Washington</a></li>
+                                                
+        </ul>
+    
+        <ul>
+            <li><h1>Entire Places</h1></li>
+                       
+            <li><a title="Entire Places Anchorage" href="/Search/Anchorage AK US/5/0/Geo--60.733791---150.2862833--61.4838912---148.460007">Anchorage</a></li>
+                       
+            <li><a title="Entire Places Atlanta" href="/Search/Atlanta GA US/5/0/Geo--33.6478079---84.5518189--33.8876179---84.289389">Atlanta</a></li>
+                       
+            <li><a title="Entire Places Austin" href="/Search/Austin TX US/5/0/Geo--30.0986589---97.9383829--30.5168629---97.5684199">Austin</a></li>
+                       
+            <li><a title="Entire Places Baltimore" href="/Search/Baltimore MD US/5/0/Geo--39.1972069---76.7115191--39.3722059---76.5294528">Baltimore</a></li>
+                       
+            <li><a title="Entire Places Boston" href="/Search/Boston MA US/5/0/Geo--42.22788---71.191113--42.3988669---70.9232011">Boston</a></li>
+                       
+            <li><a title="Entire Places Charleston" href="/Search/Charleston SC US/5/0/Geo--32.6685048---80.14379--32.973586---79.7971659">Charleston</a></li>
+                       
+            <li><a title="Entire Places Chicago" href="/Search/Chicago IL US/5/0/Geo--41.6443349---87.9402669--42.023131---87.524044">Chicago</a></li>
+                       
+            <li><a title="Entire Places Columbus" href="/Search/Columbus OH US/5/0/Geo--39.808631---83.2102799--40.1572719---82.7713781">Columbus</a></li>
+                       
+            <li><a title="Entire Places Dallas" href="/Search/Dallas TX US/5/0/Geo--32.617537---96.9989413--33.0237921---96.4637379">Dallas</a></li>
+                       
+            <li><a title="Entire Places Denver" href="/Search/Denver CO US/5/0/Geo--39.614431---105.109927--39.9142469---104.6002959">Denver</a></li>
+                       
+            <li><a title="Entire Places Honolulu" href="/Search/Honolulu HI US/5/0/Geo--21.2549062---157.9494185--21.4012299---157.6485225">Honolulu</a></li>
+                       
+            <li><a title="Entire Places Houston" href="/Search/Houston TX US/5/0/Geo--29.523624---95.7880869--30.1107319---95.014496">Houston</a></li>
+                       
+            <li><a title="Entire Places Kansas City" href="/Search/Kansas City MO US/5/0/Geo--38.827176---94.765917--39.356662---94.385522">Kansas City</a></li>
+                       
+            <li><a title="Entire Places Las Vegas" href="/Search/Las Vegas NV US/5/0/Geo--35.95---115.4--36.3---114.95">Las Vegas</a></li>
+                       
+            <li><a title="Entire Places Los Angeles" href="/Search/Los Angeles CA US/5/0/Geo--33.7036917---118.6681759--34.3373061---118.1552891">Los Angeles</a></li>
+                       
+            <li><a title="Entire Places Memphis" href="/Search/Memphis TN US/5/0/Geo--34.994185---90.3021981--35.264187---89.637081">Memphis</a></li>
+                       
+            <li><a title="Entire Places Miami Beach" href="/Search/Miami Beach FL US/5/0/Geo--25.7551026---80.170091--25.8728059---80.1185221">Miami Beach</a></li>
+                       
+            <li><a title="Entire Places Minneapolis" href="/Search/Minneapolis MN US/5/0/Geo--44.890144---93.329163--45.05125---93.1945439">Minneapolis</a></li>
+                       
+            <li><a title="Entire Places Nashville" href="/Search/Nashville TN US/5/0/Geo--35.9677851---87.054903--36.4054959---86.5155879">Nashville</a></li>
+                       
+            <li><a title="Entire Places New Orleans" href="/Search/New Orleans LA US/5/0/Geo--29.8684246---90.1380122--30.1772399---89.6260919">New Orleans</a></li>
+                       
+            <li><a title="Entire Places New York" href="/Search/New York NY US/5/0/Geo--40.496006---74.2557349--40.9152556---73.7002721">New York</a></li>
+                       
+            <li><a title="Entire Places Orlando" href="/Search/Orlando FL US/5/0/Geo--28.3479859---81.50773--28.6143519---81.22977">Orlando</a></li>
+                       
+            <li><a title="Entire Places Philadelphia" href="/Search/Philadelphia PA US/5/0/Geo--39.8670041---75.280303--40.1379919---74.9557629">Philadelphia</a></li>
+                       
+            <li><a title="Entire Places Phoenix" href="/Search/Phoenix AZ US/5/0/Geo--33.2902598---112.324056--33.92057---111.926046">Phoenix</a></li>
+                       
+            <li><a title="Entire Places Portland" href="/Search/Portland ME US/5/0/Geo--43.6321469---70.3460949--43.727658---70.176083">Portland</a></li>
+                       
+            <li><a title="Entire Places Portland" href="/Search/Portland OR US/5/0/Geo--45.432393---122.8369952--45.6524799---122.4718489">Portland</a></li>
+                       
+            <li><a title="Entire Places Providence" href="/Search/Providence RI US/5/0/Geo--41.772414---71.4726422--41.861571---71.3696939">Providence</a></li>
+                       
+            <li><a title="Entire Places San Antonio" href="/Search/San Antonio TX US/5/0/Geo--29.2241411---98.8058509--29.73872---98.222958">San Antonio</a></li>
+                       
+            <li><a title="Entire Places San Diego" href="/Search/San Diego CA US/5/0/Geo--32.534856---117.2821665--33.114249---116.90816">San Diego</a></li>
+                       
+            <li><a title="Entire Places San Francisco" href="/Search/San Francisco CA US/5/0/Geo--37.7034---122.527--37.812---122.3482">San Francisco</a></li>
+                       
+            <li><a title="Entire Places San Juan" href="/Search/San Juan PR US/5/0/Geo--17.6873992---66.5927370500001--19.0822536---65.5239458499999">San Juan</a></li>
+                       
+            <li><a title="Entire Places Savannah" href="/Search/Savannah GA US/5/0/Geo--31.8910777---81.370391--32.189996---81.0303609">Savannah</a></li>
+                       
+            <li><a title="Entire Places Seattle" href="/Search/Seattle WA US/5/0/Geo--47.4955511---122.4359085--47.734145---122.235776">Seattle</a></li>
+                       
+            <li><a title="Entire Places Washington" href="/Search/Washington DC US/5/0/Geo--38.7916449---77.119759--38.995548---76.909393">Washington</a></li>
+                                                            
+        </ul>
+    
+        <ul>
+            <li><h1>Looking for Rooms</h1></li>
+                       
+            <li><a title="Looking for Rooms Anchorage" href="/Search/Anchorage AK US/1/0/Geo--60.733791---150.2862833--61.4838912---148.460007">Anchorage</a></li>
+                       
+            <li><a title="Looking for Rooms Atlanta" href="/Search/Atlanta GA US/1/0/Geo--33.6478079---84.5518189--33.8876179---84.289389">Atlanta</a></li>
+                       
+            <li><a title="Looking for Rooms Austin" href="/Search/Austin TX US/1/0/Geo--30.0986589---97.9383829--30.5168629---97.5684199">Austin</a></li>
+                       
+            <li><a title="Looking for Rooms Baltimore" href="/Search/Baltimore MD US/1/0/Geo--39.1972069---76.7115191--39.3722059---76.5294528">Baltimore</a></li>
+                       
+            <li><a title="Looking for Rooms Boston" href="/Search/Boston MA US/1/0/Geo--42.22788---71.191113--42.3988669---70.9232011">Boston</a></li>
+                       
+            <li><a title="Looking for Rooms Charleston" href="/Search/Charleston SC US/1/0/Geo--32.6685048---80.14379--32.973586---79.7971659">Charleston</a></li>
+                       
+            <li><a title="Looking for Rooms Chicago" href="/Search/Chicago IL US/1/0/Geo--41.6443349---87.9402669--42.023131---87.524044">Chicago</a></li>
+                       
+            <li><a title="Looking for Rooms Columbus" href="/Search/Columbus OH US/1/0/Geo--39.808631---83.2102799--40.1572719---82.7713781">Columbus</a></li>
+                       
+            <li><a title="Looking for Rooms Dallas" href="/Search/Dallas TX US/1/0/Geo--32.617537---96.9989413--33.0237921---96.4637379">Dallas</a></li>
+                       
+            <li><a title="Looking for Rooms Denver" href="/Search/Denver CO US/1/0/Geo--39.614431---105.109927--39.9142469---104.6002959">Denver</a></li>
+                       
+            <li><a title="Looking for Rooms Honolulu" href="/Search/Honolulu HI US/1/0/Geo--21.2549062---157.9494185--21.4012299---157.6485225">Honolulu</a></li>
+                       
+            <li><a title="Looking for Rooms Houston" href="/Search/Houston TX US/1/0/Geo--29.523624---95.7880869--30.1107319---95.014496">Houston</a></li>
+                       
+            <li><a title="Looking for Rooms Kansas City" href="/Search/Kansas City MO US/1/0/Geo--38.827176---94.765917--39.356662---94.385522">Kansas City</a></li>
+                       
+            <li><a title="Looking for Rooms Las Vegas" href="/Search/Las Vegas NV US/1/0/Geo--35.95---115.4--36.3---114.95">Las Vegas</a></li>
+                       
+            <li><a title="Looking for Rooms Los Angeles" href="/Search/Los Angeles CA US/1/0/Geo--33.7036917---118.6681759--34.3373061---118.1552891">Los Angeles</a></li>
+                       
+            <li><a title="Looking for Rooms Memphis" href="/Search/Memphis TN US/1/0/Geo--34.994185---90.3021981--35.264187---89.637081">Memphis</a></li>
+                       
+            <li><a title="Looking for Rooms Miami Beach" href="/Search/Miami Beach FL US/1/0/Geo--25.7551026---80.170091--25.8728059---80.1185221">Miami Beach</a></li>
+                       
+            <li><a title="Looking for Rooms Minneapolis" href="/Search/Minneapolis MN US/1/0/Geo--44.890144---93.329163--45.05125---93.1945439">Minneapolis</a></li>
+                       
+            <li><a title="Looking for Rooms Nashville" href="/Search/Nashville TN US/1/0/Geo--35.9677851---87.054903--36.4054959---86.5155879">Nashville</a></li>
+                       
+            <li><a title="Looking for Rooms New Orleans" href="/Search/New Orleans LA US/1/0/Geo--29.8684246---90.1380122--30.1772399---89.6260919">New Orleans</a></li>
+                       
+            <li><a title="Looking for Rooms New York" href="/Search/New York NY US/1/0/Geo--40.496006---74.2557349--40.9152556---73.7002721">New York</a></li>
+                       
+            <li><a title="Looking for Rooms Orlando" href="/Search/Orlando FL US/1/0/Geo--28.3479859---81.50773--28.6143519---81.22977">Orlando</a></li>
+                       
+            <li><a title="Looking for Rooms Philadelphia" href="/Search/Philadelphia PA US/1/0/Geo--39.8670041---75.280303--40.1379919---74.9557629">Philadelphia</a></li>
+                       
+            <li><a title="Looking for Rooms Phoenix" href="/Search/Phoenix AZ US/1/0/Geo--33.2902598---112.324056--33.92057---111.926046">Phoenix</a></li>
+                       
+            <li><a title="Looking for Rooms Portland" href="/Search/Portland ME US/1/0/Geo--43.6321469---70.3460949--43.727658---70.176083">Portland</a></li>
+                       
+            <li><a title="Looking for Rooms Portland" href="/Search/Portland OR US/1/0/Geo--45.432393---122.8369952--45.6524799---122.4718489">Portland</a></li>
+                       
+            <li><a title="Looking for Rooms Providence" href="/Search/Providence RI US/1/0/Geo--41.772414---71.4726422--41.861571---71.3696939">Providence</a></li>
+                       
+            <li><a title="Looking for Rooms San Antonio" href="/Search/San Antonio TX US/1/0/Geo--29.2241411---98.8058509--29.73872---98.222958">San Antonio</a></li>
+                       
+            <li><a title="Looking for Rooms San Diego" href="/Search/San Diego CA US/1/0/Geo--32.534856---117.2821665--33.114249---116.90816">San Diego</a></li>
+                       
+            <li><a title="Looking for Rooms San Francisco" href="/Search/San Francisco CA US/1/0/Geo--37.7034---122.527--37.812---122.3482">San Francisco</a></li>
+                       
+            <li><a title="Looking for Rooms San Juan" href="/Search/San Juan PR US/1/0/Geo--17.6873992---66.5927370500001--19.0822536---65.5239458499999">San Juan</a></li>
+                       
+            <li><a title="Looking for Rooms Savannah" href="/Search/Savannah GA US/1/0/Geo--31.8910777---81.370391--32.189996---81.0303609">Savannah</a></li>
+                       
+            <li><a title="Looking for Rooms Seattle" href="/Search/Seattle WA US/1/0/Geo--47.4955511---122.4359085--47.734145---122.235776">Seattle</a></li>
+                       
+            <li><a title="Looking for Rooms Washington" href="/Search/Washington DC US/1/0/Geo--38.7916449---77.119759--38.995548---76.909393">Washington</a></li>
+                                                                        
+        </ul>
+    
+        <ul>
+            <li><h1>Looking for Entire Places</h1></li>
+                       
+            <li><a title="Looking for Entire Places Anchorage" href="/Search/Anchorage AK US/4/0/Geo--60.733791---150.2862833--61.4838912---148.460007">Anchorage</a></li>
+                       
+            <li><a title="Looking for Entire Places Atlanta" href="/Search/Atlanta GA US/4/0/Geo--33.6478079---84.5518189--33.8876179---84.289389">Atlanta</a></li>
+                       
+            <li><a title="Looking for Entire Places Austin" href="/Search/Austin TX US/4/0/Geo--30.0986589---97.9383829--30.5168629---97.5684199">Austin</a></li>
+                       
+            <li><a title="Looking for Entire Places Baltimore" href="/Search/Baltimore MD US/4/0/Geo--39.1972069---76.7115191--39.3722059---76.5294528">Baltimore</a></li>
+                       
+            <li><a title="Looking for Entire Places Boston" href="/Search/Boston MA US/4/0/Geo--42.22788---71.191113--42.3988669---70.9232011">Boston</a></li>
+                       
+            <li><a title="Looking for Entire Places Charleston" href="/Search/Charleston SC US/4/0/Geo--32.6685048---80.14379--32.973586---79.7971659">Charleston</a></li>
+                       
+            <li><a title="Looking for Entire Places Chicago" href="/Search/Chicago IL US/4/0/Geo--41.6443349---87.9402669--42.023131---87.524044">Chicago</a></li>
+                       
+            <li><a title="Looking for Entire Places Columbus" href="/Search/Columbus OH US/4/0/Geo--39.808631---83.2102799--40.1572719---82.7713781">Columbus</a></li>
+                       
+            <li><a title="Looking for Entire Places Dallas" href="/Search/Dallas TX US/4/0/Geo--32.617537---96.9989413--33.0237921---96.4637379">Dallas</a></li>
+                       
+            <li><a title="Looking for Entire Places Denver" href="/Search/Denver CO US/4/0/Geo--39.614431---105.109927--39.9142469---104.6002959">Denver</a></li>
+                       
+            <li><a title="Looking for Entire Places Honolulu" href="/Search/Honolulu HI US/4/0/Geo--21.2549062---157.9494185--21.4012299---157.6485225">Honolulu</a></li>
+                       
+            <li><a title="Looking for Entire Places Houston" href="/Search/Houston TX US/4/0/Geo--29.523624---95.7880869--30.1107319---95.014496">Houston</a></li>
+                       
+            <li><a title="Looking for Entire Places Kansas City" href="/Search/Kansas City MO US/4/0/Geo--38.827176---94.765917--39.356662---94.385522">Kansas City</a></li>
+                       
+            <li><a title="Looking for Entire Places Las Vegas" href="/Search/Las Vegas NV US/4/0/Geo--35.95---115.4--36.3---114.95">Las Vegas</a></li>
+                       
+            <li><a title="Looking for Entire Places Los Angeles" href="/Search/Los Angeles CA US/4/0/Geo--33.7036917---118.6681759--34.3373061---118.1552891">Los Angeles</a></li>
+                       
+            <li><a title="Looking for Entire Places Memphis" href="/Search/Memphis TN US/4/0/Geo--34.994185---90.3021981--35.264187---89.637081">Memphis</a></li>
+                       
+            <li><a title="Looking for Entire Places Miami Beach" href="/Search/Miami Beach FL US/4/0/Geo--25.7551026---80.170091--25.8728059---80.1185221">Miami Beach</a></li>
+                       
+            <li><a title="Looking for Entire Places Minneapolis" href="/Search/Minneapolis MN US/4/0/Geo--44.890144---93.329163--45.05125---93.1945439">Minneapolis</a></li>
+                       
+            <li><a title="Looking for Entire Places Nashville" href="/Search/Nashville TN US/4/0/Geo--35.9677851---87.054903--36.4054959---86.5155879">Nashville</a></li>
+                       
+            <li><a title="Looking for Entire Places New Orleans" href="/Search/New Orleans LA US/4/0/Geo--29.8684246---90.1380122--30.1772399---89.6260919">New Orleans</a></li>
+                       
+            <li><a title="Looking for Entire Places New York" href="/Search/New York NY US/4/0/Geo--40.496006---74.2557349--40.9152556---73.7002721">New York</a></li>
+                       
+            <li><a title="Looking for Entire Places Orlando" href="/Search/Orlando FL US/4/0/Geo--28.3479859---81.50773--28.6143519---81.22977">Orlando</a></li>
+                       
+            <li><a title="Looking for Entire Places Philadelphia" href="/Search/Philadelphia PA US/4/0/Geo--39.8670041---75.280303--40.1379919---74.9557629">Philadelphia</a></li>
+                       
+            <li><a title="Looking for Entire Places Phoenix" href="/Search/Phoenix AZ US/4/0/Geo--33.2902598---112.324056--33.92057---111.926046">Phoenix</a></li>
+                       
+            <li><a title="Looking for Entire Places Portland" href="/Search/Portland ME US/4/0/Geo--43.6321469---70.3460949--43.727658---70.176083">Portland</a></li>
+                       
+            <li><a title="Looking for Entire Places Portland" href="/Search/Portland OR US/4/0/Geo--45.432393---122.8369952--45.6524799---122.4718489">Portland</a></li>
+                       
+            <li><a title="Looking for Entire Places Providence" href="/Search/Providence RI US/4/0/Geo--41.772414---71.4726422--41.861571---71.3696939">Providence</a></li>
+                       
+            <li><a title="Looking for Entire Places San Antonio" href="/Search/San Antonio TX US/4/0/Geo--29.2241411---98.8058509--29.73872---98.222958">San Antonio</a></li>
+                       
+            <li><a title="Looking for Entire Places San Diego" href="/Search/San Diego CA US/4/0/Geo--32.534856---117.2821665--33.114249---116.90816">San Diego</a></li>
+                       
+            <li><a title="Looking for Entire Places San Francisco" href="/Search/San Francisco CA US/4/0/Geo--37.7034---122.527--37.812---122.3482">San Francisco</a></li>
+                       
+            <li><a title="Looking for Entire Places San Juan" href="/Search/San Juan PR US/4/0/Geo--17.6873992---66.5927370500001--19.0822536---65.5239458499999">San Juan</a></li>
+                       
+            <li><a title="Looking for Entire Places Savannah" href="/Search/Savannah GA US/4/0/Geo--31.8910777---81.370391--32.189996---81.0303609">Savannah</a></li>
+                       
+            <li><a title="Looking for Entire Places Seattle" href="/Search/Seattle WA US/4/0/Geo--47.4955511---122.4359085--47.734145---122.235776">Seattle</a></li>
+                       
+            <li><a title="Looking for Entire Places Washington" href="/Search/Washington DC US/4/0/Geo--38.7916449---77.119759--38.995548---76.909393">Washington</a></li>
+                                                                        
+        </ul>
+    
+    </div> 
+    <div class="clear"></div>
+
+
+
+    <div class="footer-languages">
+         
+
+
+        <a class="language-current" title="English (US)" onclick="return SetLanguage(this);" lcid="1033">English (US)</a>&nbsp;
+
         
-            <div class="seoBlockFooter">
-                Wednesday, June 19, 2013 5:59 PM EST Roomster Classifieds provides numerous ads for rooms &amp; roommates in New York City. A room could belong to a shared house and may offer private bathroom facilities. Other ads may involve roommates looking for someone to share with in an apartment or shared house. These ads typically include practical information, such as weekly or monthly rental cost and general information regarding the location of the room. Perhaps you are a college student looking for a roommate as the new academic year approaches. You may have recently been offered a job in the area and you may be looking for a room to rent in the area.
-            </div>
+
+
+        <a class="" title="French" onclick="return SetLanguage(this);" lcid="1036">Français</a>&nbsp;
+
         
-</div>
+
+
+        <a class="" title="Russian" onclick="return SetLanguage(this);" lcid="1049">Русский</a>&nbsp;
+
+        
+
+
+        <a class="" title="Spanish" onclick="return SetLanguage(this);" lcid="2058">Español</a>&nbsp;
+
+        
+
+
+        <a class="" title="Italian" onclick="return SetLanguage(this);" lcid="1040">Italiano</a>&nbsp;
+
+            
+        <a class="more" onclick="Roomster.Dialog.Languages()">...</a>
+        <span style="padding-left:100px;">Currency: <a onclick="Roomster.Dialog.Currency()">USD</a></span>
+    </div>
+    <div class="footer-nav">
+        <ul>
+            <li><a target="_blank" href="http://support.roomster.com/hc/sections/200162490-About-Roomster">About</a></li>
+            <li><a target="_blank" href="http://support.roomster.com/hc/categories/200053395-FAQ">Support</a></li>
+            <li><a href="/Message/Contact">Contact</a></li>
+            <li><a target="_blank" href="http://support.roomster.com/hc/categories/200055970-Careers">Vacancies</a></li>
+            <li><a href="/info/terms_of_use.aspx">Terms</a></li>
+            <li><a href="/info/privacy_policy.aspx">Privacy</a></li>
+            <li><a href="http://support.roomster.com/hc/articles/200275809-Roomster-Social-Connect-Safety" target="_blank">Social Connect</a></li>
+            <li><a href="/info/resources/links.aspx">Resources</a></li>
+            <li><a target="_blank" href="http://support.roomster.com/hc/categories/200055930-Press">Press</a></li>            
+            <li><a target="_blank" href="/affiliate/">Affiliate Program</a></li>
+            <li><a target="_blank" href="http://portal.hud.gov/hudportal/HUD?src=/program_offices/fair_housing_equal_opp/FHLaws/yourrights">Fair Housing</a></li>
+        </ul>
+    </div>    
+    <div class="footer-copy">        
+        Roomster © 2014 
+        <span class="social-follow">Follow us 
+            <a href="http://www.facebook.com/RoomsterCorp" target="_blank" class="social-follow-facebook"></a>
+            <a href="http://twitter.com/#!/roomster" target="_blank" class="social-follow-twitter"></a>
+            <a href="https://plus.google.com/110760636620508942692" target="_blank" class="social-follow-googleplus"></a>
+            <a href="http://reviews.roomster.com" target="_blank" class="social-follow-blogger"></a>
+            <a href="http://vimeo.com/roomsterroommates" target="_blank" class="social-follow-vimeo"></a>
+            <a href="http://www.youtube.com/user/roomsterroommates" target="_blank" class="social-follow-youtube"></a>
+            <a href="http://pinterest.com/roomster/" target="_blank" class="social-follow-pinterest"></a>
+            <a href="http://roomster.tumblr.com/" target="_blank" class="social-follow-tumblr"></a>
+        </span>
+    </div>
+    <div class="footer-seo">Wednesday, June 11, 2014 9:18 PM EST You want and desire to find a reliable, sane roommate to share your home with. You want to escape the 10 crazy listings you saw last week in a random site. You want an awesome experience, and Roomster can help you find the perfect one because we specialize in the roommate matching service. Roomster is the largest and biggest online community for rommate match and search. Roomster is a social network for those who want to connect with other people looking and needing of an apartment, room, sublet, flat, rental, roommate. How to deal with a problem? Find a solution fast and easy with Roomster because that is what we do professionally. Don't follow crazy advice, follow the real, truthful, honest, hard-hitting service we provide. Life is like a box of chocolates and so is the roommate search, you never know what you might find. With Roomster you can have an absolut close encounter to finding the great roommate you need. Find a roommate using our free online search system, locate an easy and secure situation for you and your family. You don't have to be single to have a roommate, couples also use Roomster to find tenants, and did we mention it is free to join? It is free to join. </div>        
 </div>
 <!--google analytics-->
-<script src="https://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">_uacct = "UA-283826-1"; urchinTracker();</script>
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-283826-1']);_gaq.push(['_setDomainName','www.roomster.com']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+<!--google remarketing-->
+<script type="text/javascript">var google_conversion_id=1071235486;var google_custom_params=window.google_tag_params;var google_remarketing_only=true;</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display: inline;">
+        <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071235486/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+</noscript>
+<!-- adroll retargeting -->
+<script type="text/javascript">adroll_adv_id="T6QMXNDHIZHIXDHV6MEMO7";adroll_pix_id="XLSTAFSVB5BGLHMDTAH7PF";(function(){var oldonload=window.onload;window.onload=function(){__adroll_loaded=true;var scr=document.createElement("script");var host=(("https:"==document.location.protocol)?"https://s.adroll.com":"http://a.adroll.com");scr.setAttribute('async','true');scr.type="text/javascript";scr.src=host+"/j/roundtrip.js";((document.getElementsByTagName('head')||[null])[0]||document.getElementsByTagName('script')[0].parentNode).appendChild(scr);if(oldonload){oldonload()}};}());</script>
 
-</body></html>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
