@@ -1,24 +1,84 @@
-> *The following text is extracted and transformed from the irokotv.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919031414id_/http%3A//irokotv.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irokotv.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063535id_/http%3A//irokotv.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy on iROKOtv | Number One Home For Nollywood & Ghanaian Movies
 
-## iROKOtv Privacy Policy
-
-  1. All User information supplied by Users of iROKOtv.com as defined under the Terms & Conditions is covered by the Data Protection Act 1998.
-  2. Users can amend information provided at any time by contacting info@irokopartners.com
-  3. Users can access the data held on them on www.iROKOtv.com by contacting us at info@irokopartners.com Iroko Partners Limited makes a nominal charge of £10, to cover administration costs.
-  4. User information will not be disclosed to a third party without Users' permission. User details will be used only to provide Service(s) specifically requested by the User.
-  5. Users credit card details will not be stored by iROKOtv and neither will any customer’s details be shared with any 3rd parties.
-  6. Users' details may be transferred to another company if ownership of Iroko Partners Limited changes.
-  7. The IROKOtv.com website uses cookies. Cookies are pieces of information in the form of a very small text file, which is placed, on the Website. It can be referred to as User's Identification Card and it helps to save site log in information for the Users. Hence, when a User accesses the Website, such User may be asked to fill out a form providing personal information and such information are packaged into a cookie and sent to us, thereafter the information is stored for later use. The cookie allows interaction between the User and Website faster and easier and makes the browsing experience more efficient and enjoyable. Users may choose not to accept cookies but this will prevent proper functioning of the Services of the Website.
-  8. In addition to clause 6, IROKOtv.com website includes very small files provided by one or more advertising networks that help them more precisely to target advertising to users based on user's activity on sites within those networks. These files do not access or use information by which users can be personally identified. If you wish, you can prevent theses files from using non-personal information about you by either deleting the cookie folder in your browser or by putting your browser's privacy setting higher, but doing so will mean that you will not be presented with advertising that reflects the way that you use our, and other, websites and may well adversely affect your experience of websites that use cookies to enhance or personalise that experience. You can find out how to make these changes to your browser at this site: http://www.allaboutcookies.org/manage-cookies/"
-  9. Whenever a User requests a page, username, IP address, browser and version and operating system are stored in a log file. This information is only used for statistical purposes to help improve this site and provide accurate statistics to advertisers in the form of aggregated data.
-  10. Iroko Partners Limited cannot guarantee that third party services accessible through IROKOtv.com services operate the same Privacy Policy.
-  11. Iroko Partners Limited reserves the right to update and change this Privacy Policy at any time. However, Iroko Partners Limited will not use information submitted by a User under this current notice in a way not currently described herein without also notifying the User of such change, and giving the User an opportunity to opt-out, or otherwise prevent that new use of your information.
-  12. If you have any questions concerning this Privacy Policy or would like us to amend or destroy your details please contact us at info@irokopartners.com.
-
-  
+  *   * [ Menu ](https://web.archive.org/)
+  * [ Account ](https://web.archive.org/account/signup)
+  * [ Search ](https://web.archive.org/search)
 
 
-  
+
+##  Privacy and cookies 
+
+At iROKO Partners Limited (the “Company”); we recognize your privacy is important. This Policy explains the Company’s privacy practices on its website iROKOtv (the “Site”). This Policy also explains what information we collect about you (the “User”) and how we use this information. 
+
+This Privacy Policy is designed to be read in connection with the Site’s Terms of use, which is available here [ http://irokotv.com/about/terms ](https://web.archive.org/about/terms). By accessing or using our Site, you agree to be bound by the Terms of use and this Privacy Policy. 
+
+  1. **Types of Information we collect**
+
+All User information supplied by Users of iROKOtv.com as defined under the terms & conditions is covered by the Data Protection Act 1998. We collect personally identifiable information and Aggregate Information. 
+
+Personally identifiable Information (“PII”): This is information that lets us know the specifics of who you are, and includes, but is not limited to your Contact Data (such as your first and last name, physical street address, phone number and email address). 
+
+Aggregate Information: This is information that does not identify you as an individual. We collect anonymous data which includes, but is not limited to (i) IP address, (ii) Domain servers, and (iii) type of computer used to access our Site. Our external third party advertising partners may also collect aggregate information but not personally identifiable information. 
+
+  2. **How we collect and use information**
+
+We collect information Users provide when registering to use our Site. Through a combination of cookies and external third party tracking, we track information when Users visit or use our Site. We use PII and Aggregate information to enhance the consumer experience on the Site and the operation of our Site. We may also use your PII, to provide you with information and promotions regarding our products, to contact you regarding administrative notices, or to contact you regarding an order or, to respond to a question or request. However, our use of the information is not limited to the uses above and, one or more of such uses may apply simultaneously. 
+
+  3. **Cookies**
+
+The Site uses cookies. A cookie is a small data text file placed on the User’s computer. We use cookies to collect certain aggregate date about our Users, to deliver content specific to your interest and to prevent you entering login information at each connection. Also, the cookie enhances User experience and interaction with the Site. Users may choose not to accept cookies, but this may prevent the Site from functioning properly. 
+
+We may also use external third party advertising partners to display advertisement on the Site. As part of their services, they will place a separate cookie on your computer to help them precisely target advertising to you. Our third party advertising partners do not collect personally identifiable information. 
+
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, doing so means that you will not be presented with advertising that reflects the way that you use our, and other, websites and may adversely affect your experience of websites that use cookies to enhance or personalize that experience. You can find out how to make these changes to your browser at this site: [ http://www.allaboutcookies.org/manage-cookies/ ](http://www.allaboutcookies.org/manage-cookies/). 
+
+  4. **Release of Information**
+
+We will not sell, trade, or rent your PII to other parties without your consent. But, we may share your PII with our current or future “affiliates” (which means a Parent Company, subsidiary or company under common control), in which case we would require our affiliates to honor this Privacy Policy. 
+
+However, the use of your PII by our Service Partners, is governed by the respective privacy policies of those partners, and is not subject to our control. **Please consult each site’s privacy policy**. Except as otherwise discussed in this Privacy P olicy, this document only addresses the use and disclosure of information we collect from you. We are not responsible for the policies and practices of third parties. 
+
+We may disclose your PII as required by law, such as to comply with a subpoena or, similar legal process; and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+
+  5. **Correct and update your information**
+
+Users can modify or change their password, and e-mail address by through their “My Profile” settings. Also, Users can modify, change or delete their personal information anytime by emailing us at [ support@irokotv.com ](mailto:support@irokotv.com). 
+
+Users can access the information held on them on the Site by emailing us at [ support@irokotv.com ](mailto:support@irokotv.com). The Company makes a nominal charge of £10, to cover administration costs. 
+
+  6. **Opt out**
+
+Users may opt out of receiving communications from us by following directions in our e-mail to “unsubscribe” from our mailing list, or by sending an e-mail request to [ support@irokotv.com ](mailto:support@irokotv.com) . Users also have choices with respect to cookies, as described above. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our Site may not work properly in your case. You may opt out of interest based advertising from third party advertising agencies here [ http://www.networkadvertising.org/optout_nonppii.asp ](http://www.networkadvertising.org/optout_nonppii.asp) . 
+
+  7. **Other websites and links**
+
+Our Site contains links to other third party websites or links “Linked Websites”). **This Privacy Policy does not cover collection or use of information by Linked Websites.** We are not responsible for the privacy practices of Linked Websites. If you have questions about the privacy policies or practices of a Linked Website; you should contact the web administrator of the site directly. 
+
+  8. **Children**
+
+Users must be at least 18 years old, or the age of majority in their province, territory or country, to have our permission to use this Site. Individuals under the age of 18, or applicable age of majority, may utilize the service only with involvement of a parent or legal guardian, under such person’s account and otherwise subject to the Site’s Terms of use. Our policy is that we do not knowingly collect, use or disclose personally identifiable information about minor visitors. 
+
+  9. **Security**
+
+We transmit and store the information we collect using standard security techniques. However, given the nature of the Internet and the fact that network security measures are not foolproof, we cannot guarantee the security of such information. 
+
+  10. **Transfer of Information**
+
+This Site processes information about our Users on servers located in a number of countries. The Company may also subcontract processing or sharing of information to third parties located in other countries, other than your home country. Also, such information may be transferred to another company if ownership of IPL changes. Therefore, information may be transferred across international borders outside the country where you use our services, including to countries that do not have laws providing specific protection for personal data or those that have different legal rules on data protection. You expressly consent to this. 
+
+  11. **Retention**
+
+We may retain PII information about the User, as long as it is necessary for business purposes. Also, we may retain aggregated anonymous information indefinitely. In addition, we may retain your information for an additional period as is permitted or required to, among other things, comply with our legal obligations, resolve disputes, and enforce agreements. 
+
+  12. **Changes to the Privacy Policy**
+
+We may make changes to this Privacy Policy from time to time, and for any reason. You are advised to consult this privacy policy regularly for any changes, as we deem your continued use, following posting of any amendment, modification or change, approval of all changes. 
+
+  13. **Contact Us**
+
+If you have any questions concerning this Privacy Policy please contact us at [ support@irokotv.com ](mailto:support@irokotv.com). 
+
+
 
