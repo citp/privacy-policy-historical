@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alladult.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814161410id_/http%3A//alladult.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alladult.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132907id_/http%3A//alladult.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ The Site also offers all Members and Users a procedure for "Opting-Out" if the M
 
 **5\. DISCLOSURE**
 
-alladult.com will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to enforce any of our rights and terms and conditions or identify, contact or bring legal action against someone who may be violating the alladult.com [Terms and Conditions](https://web.archive.org/web/20130814161410id_/http%3A//alladult.com/terms.html). No personal information will be shared with any third parties without the customer's permission.
+alladult.com will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to enforce any of our rights and terms and conditions or identify, contact or bring legal action against someone who may be violating the alladult.com [Terms and Conditions](https://web.archive.org/web/20140625132907id_/http%3A//alladult.com/terms.html). No personal information will be shared with any third parties without the customer's permission.
 
 **6\. REVISIONS TO THIS PRIVACY POLICY**
 
