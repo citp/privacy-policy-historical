@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solidcommerce.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208220909id_/http%3A//solidcommerce.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidcommerce.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055834id_/http%3A//solidcommerce.com/about/privacy-policy) for the most accurate reproduction.*
 
-# eBay and Amazon Inventory Software, eBay Listing | Buy.com Inventory | Solid Commerce
+# eBay and Amazon Inventory Software, eBay Listing | Buy.com Inventory |
 
 Welcome to Liquidate Direct LLC dba Solid Commerce (“Solid Commerce”). We understand that your privacy online important to you, especially when conducting your business. This Privacy Policy describes the Solid Commerce practices for gathering, storing, using and disseminating information. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree with the terms and conditions set forth below, please do not use or access the Solid Commerce services. By accepting this Privacy Policy, you expressly consent to the use and disclosure of your personally identifiable information as outlined below. This policy may be changed from time to time. All changes will be posted to this site and you are encouraged to periodically check back to this site for any changes to the privacy policy.
 
