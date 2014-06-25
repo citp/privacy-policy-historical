@@ -1,23 +1,52 @@
-> *The following text is extracted and transformed from the realtydatatrust.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626222110id_/http%3A//vaultware.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtydatatrust.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060220id_/http%3A//www.mrisoftware.com/privacy) for the most accurate reproduction.*
 
-# VaultWare - Privacy Policy - Realty DataTrust.
+# MRI Software Privacy Policy
 
-## Privacy Policy Statement
+#####  MRI Software LLC Website Privacy Policy
 
-This privacy policy pertains and applies to usage of www.vaultware.com (the “Site”). For the privacy policy of other web sites owned and/or operated by Realty DataTrust Corporation (RDT), please see the privacy policy for the respective site. Please also view our [Terms of Use](http://www.vaultware.com/usage-terms.aspx).
+MRI Software LLC (“MRI,” the “Company,” “we,” “us,” or “our”) will endeavor to protect and develop or use technology that provides a safer online experience for the customer/consumer (“you” or “your”) and has created this privacy statement (the “Privacy Policy”) to demonstrate its firm commitment to secure and trustworthy Internet commerce and the individual's privacy.  
+By using this Web site AND ANY WEB PAGES AND CONTENT THEREIN (COLLECTIVELY, THE “SITE”), you consent to the terms of MRI’s Privacy Policy and to MRI's processing of personal information for the purposes set forth below.
 
-RDT collects a) the domain name, but not the e-mail address (where possible) of visitors to the Site, b) the e-mail addresses of those who communicate with us via e-mail, c) aggregate information on what pages visitors access, and d) user-specific information volunteered by the visitor, such as survey information and/or site registrations. RDT may use cookies to collect, store or track visitor information such as preferences and pages accessed.
+#####  Registration
 
-Generally, the information collected is used for statistical purposes to assist RDT in managing and improving the usability, functionality and content of the Site. RDT, or its authorized agents, may contact users of the Site directly in order to respond to direct inquiries, provide support or conduct research. RDT reserves the right to use any information collected for marketing purposes. In the event, you receive a marketing communication via email resulting from your use of the Site, you may opt out of future communications by following the instructions included within the email. 
+You may be required to register in order to be granted access to certain information, services and/or products at this Site. At the time of registration, you may be prompted by one of our online forms to provide certain personal information to us, including your name, company name, and email address.
 
-From time to time, we may use information collected for new, unanticipated uses not previously disclosed in our privacy policy.. RDT reserves the right to revise, amend or modify this policy at any time and in any manner. If you are concerned about how your information is or will be used, you should check back periodically.
+#####  Use of Your Personal Information
 
-The security of your personal information is important to RDT. When necessary, certain types of sensitive information will be collected on a secure server. We have appropriate security measures in place in our physical facilities to help protect against the loss, misuse or alteration of information that has been collected from you at the Site. While we make ever effort to ensure the security of our networks and systems, we can not guarantee that our measures will prevent “hackers” from illegally obtaining information.
+The personal information that you provide to MRI, may be stored, processed, and used by MRI and its affiliates for the following purposes: (a) to provide information about our company, products and/or services, including updates, notifications, and details of any offers or promotions; (b) to assist us in improving our products, services or the content of this Site; (c) to contact you to participate in a market research survey, so that we can gauge customer satisfaction and develop better products; (d) for our own internal marketing and research purposes; (e) to promote user groups; (f) to make this Site or service easier to use by eliminating the need for you to repeatedly enter the same information or by customizing this Site or service to your particular interests or preferences; (g) to analyze information for trends and statistics. We may also provide this information to an agent acting on MRI's behalf in connection with the activities described above. 
 
-There may be certain circumstances that require RDT to disclose visitor information including, but not limited to, as required by law. Other than described within, RDT does not willingly share or sell personally identifiable information collected from the user of the Site.
+MRI will occasionally hire other companies, which use cookies, to provide limited services on our behalf, such as packaging, sending, and delivering purchases and other mailings; answering customer questions about products or services; processing event registration; or performing statistical analysis of our services.  MRI will only provide those companies the personal information they need to deliver the service and any such personal information shall be subject to the third party companies’ privacy policies. 
 
-If you feel that RDT is not following its stated privacy policy, please contact us. 
+  You also hereby grant to MRI a perpetual, non-cancelable, worldwide, non-exclusive right to utilize any data that arises from the use of this Site or any MRI or its affiliates’ products by you for any legitimate business purpose, including the right to sublicense such data to third parties, subject to all legal restrictions regarding the use and disclosure of such information.
 
-Copyright ©2007 Realty DataTrust Corporation. All rights reserved.
+Except as described above, MRI will not sell, rent, or in any way intentionally disclose personal information that you provide to us on this Site to any third party (other than an agent acting on our behalf as described above), unless: (a) MRI  is required to do so by law, regulation, warrant, subpoena or court order, (b) MRI  is required in urgent circumstances to protect the personal safety of MRI  employees, users of MRI  products or services, or members of the public, or to enforce provisions of the Terms of Use; or (c) such disclosure is part of a sale or transfer of all (or substantially all) of the assets or stock of MRI  or one or more divisions or affiliates of MRI .
 
-Last revised: June 11, 2007
+#####  Use of Cookies
+
+MRI uses cookies to help us provide better customer service and to enhance the user experience and deliver personalized content. Many improvements and updates to this Site are based on the data collected through the cookies, such as total number of visitors and pages viewed. A "cookie" is a small text file stored locally in the computer used to access your account, and contains information relating to your past use of this Site. MRI may disclose the non-personally identifiable information collected, in aggregate form only, to third parties including advertisers or potential advertisers. You have the ability to accept or decline cookies. However, if you choose to decline cookies, you may not be able to fully experience the interactive feature of this Site or services you visit.
+
+#####  Bulletin Boards and Chat Rooms
+
+From time to time, portions of this Site may allow you to post information which other visitors to this Site will be able to access (such as on a "bulletin board" or during an interactive "chat" with other visitors). In the event that you choose to post information in this context, it becomes generally available to the public, and we have no ability to control or limit its use by visitors to our site. By posting the information on this Site you are providing MRI and its affiliates the right to use the information in connection with the operation of MRI's business. Therefore, we encourage you not to post any information you consider private or sensitive on this Site.
+
+#####  Children's Privacy
+
+MRI's Site, software and services do not target, and are not structured to attract, children under the age of 13. MRI does not collect any registration information from users who indicate they are under the age of 13. If MRI discovers personal data from a child, MRI will eliminate that data.  
+ 
+
+#####  Safe Harbor Privacy Policy
+
+   
+MRI adheres to the Safe Harbor Agreement between the U.S. Department of Commerce and the European Commission with respect to personally identifiable information that is transferred from the European Economic Area to the United States within the scope of MRI’s Safe Harbor certification. Read more about our  **Safe Harbor**  policy. 
+
+#####  Security of Information
+
+To protect the privacy of personal information provided by you, MRI employs industry-standard controls including physical access controls, Internet firewalls, intrusion detection, and network monitoring. Additionally, only authorized administrators and staff have access to systems containing such information. We urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.  
+
+
+#####    
+Revisions 
+
+MRI reserves the right to change this Privacy Policy at any time without notice to you, and MRI will post any changes to this Privacy Policy on this Site as soon as they go into effect. We encourage you to review the Privacy Policy regularly for any changes.  
+Effective Date:  June 1, 2014  
+
