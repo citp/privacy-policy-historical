@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newmediarockstars.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127005713id_/http%3A//newmediarockstars.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newmediarockstars.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064928id_/http%3A//newmediarockstars.com/private-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Protecting your private information is our priority. This Statement of Privacy a
 
 NMR is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this policy, you should first contact us at [info@newmediarockstars.com](mailto:info@newmediarockstars.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe may serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this policy, you should first contact us at [info@newrockstars.wpengine.com](mailto:info@newrockstars.wpengine.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe may serve as a liaison with us to resolve your concerns.
 
 ##### Collection of your Personal Information
 
@@ -80,7 +80,7 @@ Irvine, California 92618
 
 Email Address:
 
-[info@newmediarockstars.com](mailto:info@newmediarockstars.com)
+[info@newrockstars.wpengine.com](mailto:info@newrockstars.wpengine.com)
 
 Telephone number:
 
