@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vector-images.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228234215id_/http%3A//vector-images.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vector-images.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044546id_/http%3A//vector-images.com/privacy) for the most accurate reproduction.*
 
 # 
 
