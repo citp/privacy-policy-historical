@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neurosciencenews.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620161128id_/http%3A//neurosciencenews.com/neuroscience-news-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurosciencenews.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124232id_/http%3A//neurosciencenews.com/neuroscience-news-privacy-policy) for the most accurate reproduction.*
 
-# Neuroscience News Privacy Policy | Neuroscience News
+# Neuroscience News Privacy Policy | Neuroscience News Research Articles | Neuroscience Social Network
 
 ### Privacy Policy  
 _Effective July 6, 2010_
@@ -45,7 +45,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by logging in to your [Neuroscience](http://neurosciencenews.com/ "Neuroscience") News account and checking your profile. You can change your information displayed on Neuroscience News by going into your profile and settings areas and following the instructions there. Should you have any further questions, email us, or message us and we will do our best to help you. We will safeguard your information to the best of our capabilities.
+You can access all your personally identifiable information that we collect online and maintain by logging in to your Neuroscience News account and checking your profile. You can change your information displayed on Neuroscience News by going into your profile and settings areas and following the instructions there. Should you have any further questions, email us, or message us and we will do our best to help you. We will safeguard your information to the best of our capabilities.
 
 You can correct factual errors in your personally identifiable information by making changes in your member profile and settings areas, or sending us a request describing the error and your preferred outcome with the situation.
 
@@ -198,4 +198,4 @@ Evidon (formerly Better Advertising)* TRUSTe*
 
 *All of the vendors listed have links to their sites [here](http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=94149) and can be used to opt-out of information sharing, or to learn more about the networks. Any additional vendors that are allowed to serve ads should be listed at that page.
 
-If you have any questions about opting out of ads, or your information and privacy, please contact us at contact @ neurosciencenews.com. 
+If you have any questions about opting out of ads, or your information and privacy, please contact us at contact @ neurosciencenews.com.
