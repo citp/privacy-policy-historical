@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xidax.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209084510id_/http%3A//www.xidax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xidax.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172924id_/http%3A//www.xidax.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,22 +6,29 @@ This privacy policy sets out how XIDAX, LLC and its family of companies (hereina
 
 Xidax is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using Xidax’s products or services you can be assured that such information will only be used in accordance with this privacy statement. Xidax may change this policy from time to time without notice. You should periodically check with Xidax from time to time to ensure that you are happy with any changes. This policy is effective from January 1, 2010. Xidax collects Customer Information in a variety of settings. For example, when a party purchases a computer Xidax collects a variety of Customer Information for sales, service and warranty purposes; when a Customer originates a call for technical support, logs onto a Xidax website, brings a computer for repair or warranty service, Xidax, depending on the circumstances, might collect the following information:
 
-  * Name
-  * Contact information including email address.
-  * Computer hardware or software information.
-  * IP address, and ISP
-  * Other information relevant to customer needs.
+Name
 
+Contact information including email address.
 
+Computer hardware or software information.
+
+IP address, and ISP
+
+Other information relevant to customer needs.
 
 Depending on the circumstances, Xidax collects various information to understand your needs and provide you with extraordinary service, and in particular for the following reasons: 
 
-  * Internal record keeping, accounting, auditing, and customer service evaluation. 
-  * Warranty tracking.
-  * Improving Xidax's products and services.
-  * Sending promotional materials about new or improved Xidax products, or services and other information which   
+Internal record keeping, accounting, auditing, and customer service evaluation. 
+
+Warranty tracking.
+
+Improving Xidax's products and services.
+
+Sending promotional materials about new or improved Xidax products, or services and other information which   
 we think you may find interesting using the email address which you have provided.
-  * We will never sell or lease your information.
+
+We will never sell or lease your information.
+
 
 
 
@@ -47,8 +54,10 @@ Our website may contain links to enable you to visit other websites of interest 
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * whenever you are asked for personal information you may inform us that you want your information used only in certain ways; and, 
-  * if you have previously agreed for us to use your personal information for any purpose, you may change your mind at any time by notifying Xidax in writing at the following address: _________________insert address__________________________________ 
+whenever you are asked for personal information you may inform us that you want your information used only in certain ways; and, 
+
+if you have previously agreed for us to use your personal information for any purpose, you may change your mind at any time by notifying Xidax in writing at the following address: _________________insert address__________________________________ 
+
 
 
 
@@ -56,9 +65,12 @@ We will not sell or lease your personal information to third parties unless we h
 
 Xidax does not knowingly collect personal information from children under the age of 13. If we learn that we have collected personal information on a child under the age of 13, we will delete that data from our systems. Xidax encourages parents and guardians to go online with their children. Here are a few tips to help make a child's online experience safer:
 
-  * Teach children never to give personal information (such as name, address, phone number, school, etc.) unless supervised by a parent or responsible adult. 
-  * Know the sites your children are visiting and which sites are appropriate. 
-  * Look for website privacy policies. Know how your child's information is treated. 
+Teach children never to give personal information (such as name, address, phone number, school, etc.) unless supervised by a parent or responsible adult. 
+
+Know the sites your children are visiting and which sites are appropriate. 
+
+Look for website privacy policies. Know how your child's information is treated. 
+
 
 
 
