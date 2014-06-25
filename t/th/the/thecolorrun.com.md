@@ -1,19 +1,85 @@
-> *The following text is extracted and transformed from the thecolorrun.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921150810id_/http%3A//thecolorrun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecolorrun.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104554id_/http%3A//www.thecolorrun.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The Color Run™
+# Privacy Policy - The Color Run™ - The Happiest 5K On The Planet!
 
-Privacy Policy for [The Color Run](http://thecolorrun.com/ "The Color Run").
+### What information do we collect?
 
-We recognize the importance of our visitor’s privacy and we aim to preserve the Privacy by all means. The information furnished herewith will inform you on the types of personal information we receive and collect when you use (operate) and visit [The Color Run](http://thecolorrun.com/ "The Color Run"), and how we safeguard your information. You can be assured that your personal information is never leaked or sold to the third parties and they are well protected by us.
+We collect information from you when you register for an event, respond to a survey, join our VIP list or fill out a form on our website. 
 
-**Log Files** As with most other websites, we also collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser used by you to visit our site (such as Internet Explorer or Firefox), your site visit time and the pages browsed by you throughout our site.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-**Cookies and Web Beacons** We do use cookies to store information, such as your personal preferences when you visit our site. This could include showing a popup only once during your visit, or the ability to login to some of our key features, such as forums.
+### What do we use your information for?
 
-We also visualize third party advertisements on [The Color Run](http://thecolorrun.com/ "The Color Run") to support our site. Few of these advertisers may use technology such as cookies and web beacons when they advertise on our site that also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser used by you to visit our site, and in some cases, whether you have installed Flash. Such application is generally applied for geotargeting purposes, e.g., (showing New York real estate ads to someone in New York) or showing certain ads, based on specific visited sites (such as showing cooking ads to someone who frequents cooking sites).
+Any of the information we collect from you may be used in one of the following ways: 
 
-**DoubleClick DART cookies** We also may use DART cookies for ad serving through Google’s DoubleClick, The DART cookies may also be used by us for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). The cookie is used to serve your specific ads and your interests (“interest based targeting”). The ads served are to be targeted on the basis of your previous browsing history (For example, if you are viewing sites for visiting Las Vegas, you may also see Las Vegas hotel advertisements when viewing a non-related site, such as a hockey site). DART uses “non personally identifiable information”, which does NOT track your personal information, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You have the option to opt-out of this ad serving on all sites, using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
+  * **To personalize your experience**  (your information helps us to better respond to your individual needs)
+  * **To improve our website** (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * **To improve customer service** (your information helps us to more effectively respond to your customer service requests and support needs)
+  * **To process** **transactions**  
+_Your_ _information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested._
+  * **To administer a contest, promotion, survey or other site feature**
+  * **To send periodic emails**  
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.  
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, it can affect your ability to interact with our site as well as other websites and it may include the inability to login to services or programs, such as logging into forums or accounts.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless, you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+### How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+### Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+We also may use DART cookies for ad serving through Google’s DoubleClick, The DART cookies may also be used by us for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). The cookie is used to serve your specific ads and your interests (“interest based targeting”). The ads served are to be targeted on the basis of your previous browsing history (For example, if you are viewing sites for visiting Las Vegas, you may also see Las Vegas hotel advertisements when viewing a non-related site, such as a hockey site). DART uses “non personally identifiable information”, which does NOT track your personal information, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You have the option to opt-out of this ad serving on all sites, using this advertising by visiting [here](http://www.doubleclick.com/privacy/dart_adserving.aspx).
+
+### Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+### Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+### California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+### Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+### Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://thecolorrun.com/terms/>
+
+### Your Consent
+
+By using our site, you consent to our privacy policy.
+
+### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+**Mailing Address:**  
+12244 South Business Park Drive  
+Suite 100  
+Draper, UT 84020  
+United States
+
+**Email:**  
+info@thecolorrun.com
+
+**Phone:**  
+855-662-6567
