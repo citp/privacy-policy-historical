@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowtennessee.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216061601id_/http%3A//yellowtennessee.com/pr-welcome/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowtennessee.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114949id_/http%3A//yellowtennessee.com/pr-welcome/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Yellow Tennessee
 
@@ -39,5 +39,3 @@ Rachel@YellowTennessee.com
 This privacy policy was last updated on June 19, 2011. 
 
 [](http://yellowtennessee.com/wp-content/uploads/2011/06/postsiggie11.png)
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fyellowtennessee.com%2Fpr-welcome%2Fprivacy-policy%2F&media=http%3A%2F%2Fyellowtennessee.com%2Fwp-content%2Fuploads%2F2011%2F06%2Fpostsiggie11.png)
