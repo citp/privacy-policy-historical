@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themillionaireos.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223131715id_/http%3A//themillionaireos.com//mos-corp/terms/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themillionaireos.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131603id_/https%3A//www.themillionaireos.com//mos-corp/terms/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Terms of Service](https://web.archive.org/web/20131223131715id_/http%3A//themillionaireos.com//mos-corp/terms/terms-of-service.php) | [Privacy Policy](https://web.archive.org/web/20131223131715id_/http%3A//themillionaireos.com//mos-corp/terms/privacy-policy.php) | [Earnings Disclaimer](https://web.archive.org/web/20131223131715id_/http%3A//themillionaireos.com//mos-corp/terms/earnings-disclaimer.php) | [Purchase Agreement](https://web.archive.org/web/20131223131715id_/http%3A//themillionaireos.com//mos-corp/terms/purchase-agreement.php)
+[Terms of Service](https://web.archive.org/web/20140625131603id_/https%3A//www.themillionaireos.com//mos-corp/terms/terms-of-service.php) | [Privacy Policy](https://web.archive.org/web/20140625131603id_/https%3A//www.themillionaireos.com//mos-corp/terms/privacy-policy.php) | [Earnings Disclaimer](https://web.archive.org/web/20140625131603id_/https%3A//www.themillionaireos.com//mos-corp/terms/earnings-disclaimer.php) | [Purchase Agreement](https://web.archive.org/web/20140625131603id_/https%3A//www.themillionaireos.com//mos-corp/terms/purchase-agreement.php)
 
 ** PRIVACY POLICY **  
 Notice - Read This Page
@@ -42,7 +42,7 @@ We can be reached both online, by snail mail and in person using the following i
 
 **Our Online Help Desk:**<http://memberhelpcenter.com/>
 
-**Our Corporate Office:** P.O. Box 2073 Gilbert, AZ 85299 (480-999-0626)
+**Our Corporate Office:** P.O. Box 2073 Gilbert, AZ 85299 (623-505-5862)
 
 **Changes to Policies**  
 This Site reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
