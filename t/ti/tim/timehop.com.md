@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timehop.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213085346id_/http%3A//timehop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timehop.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073434id_/http%3A//timehop.com/privacy) for the most accurate reproduction.*
 
 # Timehop: What did you do 1 year ago today?
 
@@ -70,13 +70,13 @@ We reserve the right to disclose your personally identifiable information as req
 
 **7.   Choice/Opt-out**
 
-If you no longer wish to receive emails, you may opt-out of receiving them by following the instructions included in each email, or by emailing us at [legal@timehop.com](mailto:legal@timehop.com).
+If you no longer wish to receive emails, you may opt-out of receiving them by following the instructions included in each email, or by emailing us at [support@timehop.com](mailto:support@timehop.com).
 
 or
 
 DoubleDub Inc.  
-22 West 21st Street, Floor 8  
-New York, NY 10010
+401 Broadway, Suite 1700  
+New York, NY 10013
 
 Phone: 347-704-0641
 
@@ -104,4 +104,4 @@ We reserve the right, at any time, to add to, change, update, or modify this Pri
 
 **13\. Questions**
 
-If you have any questions or comments about this Privacy Policy, please contact us at [legal@timehop.com](mailto:legal@timehop.com).
+If you have any questions or comments about this Privacy Policy, please contact us at [support@timehop.com](mailto:support@timehop.com).
