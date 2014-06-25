@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ducksters.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113122409id_/http%3A//www.ducksters.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ducksters.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090355id_/http%3A//www.ducksters.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Ducksters: Privacy Policy
 
@@ -32,12 +32,24 @@ Collect personally identifiable information on the website.
 
 If it does begin collecting such information, prior consent will be obtained from the users of the site, options will be provided to not provide such information, and the uses of the information will be specified. If information will be divulged to third parties, users will be notified prior to collecting the information. 
 
-**Privacy Policy Regarding Google and Knowlera Media (KM), as a third party vendor:**
+**Privacy Policy Regarding Google Adsense as a third party vendor:**
 
-www.ducksters.com currently uses Google Adsense and KM as third party vendors to serve ads on our site. Google uses the DART cookie to enable it to serve ads to users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/). 
+www.ducksters.com currently uses the [Google Adsense](http://www.google.com/adsense/) ad network to serve ads on our site. [Google](http://www.google.com/) uses the DART cookie to enable it to serve ads to users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/). You can also visit the [Google Privacy Policy page](http://www.google.com/intl/en/policies/privacy/). 
 
-KM, Google, and Google Ad Affiliates may use online behavioral advertising (OBA) and/or multisite advertising. Cookies may be used by the Google Ad Affiliate Network and KM to collect information about goods and services that interest you. This information may be used to serve you specific ads for products and services that you have previously shown interest in. You can opt out of some of these cookies at the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+Google Adsense may use online behavioral advertising (OBA) and/or multisite advertising. Cookies may be used by the Google Adsense ads to collect information about goods and services that interest you. This information may be used to serve you specific ads for products and services that you have previously shown interest in. You can opt out of some of these cookies at the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
 
-** Please note that Google Adsense "Interest-based ads" as well as "Third party ads" are turned off for www.ducksters.com. 
+** Please note that Google Adsense "Interest-based ads" as well as "Third party ads" are turned off for www.ducksters.com. This means that the ads displayed are not behavioral or based on user information including past searches or pages viewed by the user. Also, as added protection, www.ducksters.com is tagged with Google Webmaster Tools for Child-Directed Treatment. 
+
+**Privacy Policy Regarding Analytics:**
+
+Ducksters currently uses a program called Google Analytics to track various website metrics such as the number of visiters, browser type, operating system, visitor location, the number of pages each visitor views, etc. A cookie may be placed on your computer to help track this information. This information cannot be used to determine the identity of the user. We only use these statistics as support for internal operations to track the overall health of the website. You can go here to view the [Google Analytics Privacy Overview](http://www.google.com/intl/en_uk/analytics/privacyoverview.html). 
+
+**Contact Ducksters Regarding Privacy Policy Questions**
+
+If you have any questions or concerns regarding our privacy policy please contact us at mail@ducksters.com. 
+
+**Last Updated: 4/24/14**
 
 Back to [**Ducksters**](http://www.ducksters.com/) Home Page
+
+This site is a product of TSI, Copyright 2014, All Rights Reserved. By using this site you agree to the Terms of Use.
