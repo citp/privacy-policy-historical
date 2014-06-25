@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kicksocca.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121082601id_/http%3A//kicksocca.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kicksocca.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095716id_/http%3A//kicksocca.com/privacy) for the most accurate reproduction.*
 
-# KickSocca.com - Privacy
+# Privacy - Kick Socca - Kick Socca
 
 ## Introduction
 
@@ -32,7 +32,7 @@ This information is used to assist Shainaz Media Inc. and third parties in sendi
 
 Shainaz Media Inc. will not use or share your personal information in a manner that differs from what is described within this Privacy Statement and within the registration opt-in statement without your prior consent. The following statement is prominently displayed before you can join Shainaz Media Inc.
 
-"By registering and entering your details you consent to Shainaz Media Inc. and its clients sending you information about products and/or services that may be of interest to you.You also agree to the terms and conditions of the privacy statement that govern how your information will be processed."
+“By registering and entering your details you consent to Shainaz Media Inc. and its clients sending you information about products and/or services that may be of interest to you.You also agree to the terms and conditions of the privacy statement that govern how your information will be processed.”
 
 Sponsors of the Shainaz Media Inc. questionnaires have their own privacy policies and some have their own opt-in statements, Shainaz Media Inc. strongly recommends that you read and understand this information.
 
@@ -44,9 +44,9 @@ Aggregate Information (non-personally identifiable)
 
 We do not link aggregate user data with personally identifiable information.
 
-Personally identifiable information - We Share Personally Identifiable Information with Third Parties, we share the information that you have answered within the questionnaires with the relevant client. The clients use this to profile you, this enables them to send you targeted communications.
+Personally identifiable information – We Share Personally Identifiable Information with Third Parties, we share the information that you have answered within the questionnaires with the relevant client. The clients use this to profile you, this enables them to send you targeted communications.
 
-Once you register with Shainaz Media Inc. you consent to Shainaz Media Inc. and it's clients being able to send you relevant communications.
+Once you register with Shainaz Media Inc. you consent to Shainaz Media Inc. and it’s clients being able to send you relevant communications.
 
 The collection of data by Shainaz Media Inc. through registration on third party sites may lead to your data also being held by that third party site.
 
@@ -56,9 +56,9 @@ The data that you provide to Shainaz Media Inc., is held by both Shainaz Media I
 
 Every user must agree and opt-in to the following statement before completing their Shainaz Media Inc. registration:
 
-"By registering and entering your details you consent to Shainaz Media Inc. and its clients sending you information about products and/or services that may be of interest to you. You also agree to the terms and conditions of the privacy policy that govern how your information will be processed."
+“By registering and entering your details you consent to Shainaz Media Inc. and its clients sending you information about products and/or services that may be of interest to you. You also agree to the terms and conditions of the privacy policy that govern how your information will be processed.”
 
-Each questionnaires on Shainaz Media Inc. is sponsored by a client, by giving a positive response and entering the questionnaire on Shainaz Media Inc. you are giving your consent for the sponsor / client sending you information about products and/or services that may be of interest to you. You will also have the opportunity to say "not applicable" to a sponsors questions on Shainaz Media Inc.The information you provide may be used, by Shainaz Media Inc. and its Clients, to provide you with information and offers by post. If you would prefer not to receive such offers please indicate your preference by ticking the box provided, located on the Amend Details page.
+Each questionnaires on Shainaz Media Inc. is sponsored by a client, by giving a positive response and entering the questionnaire on Shainaz Media Inc. you are giving your consent for the sponsor / client sending you information about products and/or services that may be of interest to you. You will also have the opportunity to say “not applicable” to a sponsors questions on Shainaz Media Inc.The information you provide may be used, by Shainaz Media Inc. and its Clients, to provide you with information and offers by post. If you would prefer not to receive such offers please indicate your preference by ticking the box provided, located on the Amend Details page.
 
 At times it may be appropriate for Shainaz Media Inc., its clients or sponsors to contact you with offers and information in respect of your interests or to inform you about subjects upon which you have requested information through your mobile phone or other PDA devices. Before doing so Shainaz Media Inc. will always ask you for your specific consent. If having given consent previously, you wish to withdraw this consent you may do so by logging on and amending your details on the site.
 
@@ -98,17 +98,17 @@ Personal information collected by Shainaz Media Inc. may be stored and processed
 
 ## Use of Cookies
 
-A cookie is a very small text file that a Web site saves to your computer's hard disk to store information that you provide about yourself or to store your preferences.
+A cookie is a very small text file that a Web site saves to your computer’s hard disk to store information that you provide about yourself or to store your preferences.
 
 Shainaz Media Inc. uses cookies whenever you login to Shainaz Media Inc. Shainaz Media Inc. stores your unique ID number, and the time you signed in, in an encrypted cookie on your hard disk. This cookie allows you to move from page to page at the site without having to login in again on each page. Shainaz Media Inc. uses session cookies to store data on our server that are individually identifiable when you log out of Shainaz Media Inc., these session cookies are deleted from your computer.
 
-Shainaz Media Inc. also uses cookies to improve the experience. For example, Shainaz Media Inc. may store your login details in a cookie that will remain on your computer after you log out. This cookie allows you to be automatically logged in the next time you visit Shainaz Media Inc. If you are using a public computer or do not otherwise want this information to be stored, you can un-check the "remember me" tick box when you log-in or register, and this cookie will not be used.
+Shainaz Media Inc. also uses cookies to improve the experience. For example, Shainaz Media Inc. may store your login details in a cookie that will remain on your computer after you log out. This cookie allows you to be automatically logged in the next time you visit Shainaz Media Inc. If you are using a public computer or do not otherwise want this information to be stored, you can un-check the “remember me” tick box when you log-in or register, and this cookie will not be used.
 
-The sites or services you visited may store their own cookies on your computer. Shainaz Media Inc. recommends that you read each site's privacy statement to understand their policies and practices regarding the use of cookies. You have the ability to accept or decline cookies using the settings on your browser. If you have cookies disabled in your browser you are still able to use the Shainaz Media Inc. site but you will not have the benefit of an automatic login.
+The sites or services you visited may store their own cookies on your computer. Shainaz Media Inc. recommends that you read each site’s privacy statement to understand their policies and practices regarding the use of cookies. You have the ability to accept or decline cookies using the settings on your browser. If you have cookies disabled in your browser you are still able to use the Shainaz Media Inc. site but you will not have the benefit of an automatic login.
 
 The functionality of Shainaz Media Inc. depends upon your browser accepting session cookies. Shainaz Media Inc. tracks visitors to and on the Shainaz Media Inc. site by using referrer tracking. Shainaz Media Inc. uses click thru and open mail tracking when sending emails. This process allows Shainaz Media Inc. and its clients the ability to profile the recipients of their communications.
 
-Or our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
+Or our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
 Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
 
@@ -118,16 +118,16 @@ In addition cookies are used. A cookie is a small file that is stored on your co
 
 It is possible to configure your web browser to refuse cookies or to be informed if a cookie is set. We refer to the manual of your web browser. We will not use the IP addresses or cookies to identify you personally.
 
-This privacy statement covers the use of cookies by www.kicksocca.com only and does not cover the use of cookies by any advertisers  
-
+This privacy statement covers the use of cookies by www.kicksocca.com only and does not cover the use of cookies by any advertisers
 
 ## Changes to this Privacy Statement
 
-Shainaz Media Inc. will occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top and bottom of the Privacy Statement. AS Media Inc. will obtain your opt-in consent for any updates to this Privacy Statement that materially expand the sharing or use of your personal information in ways not disclosed in this Privacy Statement at the time of collection.
+Shainaz Media Inc. will occasionally update this Privacy Statement. When we do, we will also revise the “last updated” date at the top and bottom of the Privacy Statement. AS Media Inc. will obtain your opt-in consent for any updates to this Privacy Statement that materially expand the sharing or use of your personal information in ways not disclosed in this Privacy Statement at the time of collection.
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Shainaz Media Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Shainaz Media Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us to request that we remove this information from our database.  
+Your friend may contact us to request that we remove this information from our database.
 
+If you have questions regarding this Privacy Statement, please [Contact us](https://web.archive.org/web/20140625095716id_/http://kicksocca.com/privacy/contact-us/).
 
-If you have questions regarding this Privacy Statement, please contact us.
+* * *
