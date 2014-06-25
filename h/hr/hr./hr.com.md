@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hr.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218224509id_/http%3A//www.hr.com/en/about_us/privacy_information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hr.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233740id_/http%3A//www.hr.com/en/about_us/privacy_information) for the most accurate reproduction.*
 
 # Privacy Information - The Human Resources Social Network
 
@@ -38,4 +38,4 @@ __**How HR.com protects your personal information
 **__Other websites  
 __**The Site may also contain links to other websites and advertising. The privacy policies of those websites and advertisers may significantly differ from that of our Site. It is your responsibility to contact such website operator or advertiser directly to determine their privacy policy
 
-We appreciate your participation in the HR community, and will do our best to honor your requests. To learn about the different memberships, [click here](http://www.hr.com/en/memberships/).
+We appreciate your participation in the HR community, and will do our best to honor your requests. To learn about the products and services HR.com has to offer, [click here](http://www.hr.com/en/memberships/).
