@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themepix.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210124115id_/http%3A//themepix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themepix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070604id_/http%3A//themepix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ThemePix
+# Privacy Policy | ThemePix.com
 
 We automatically collect IP addresses and Web site usage information from you when you visit our Web site. This information helps us evaluate how our visitors use and navigate our Web pages on an aggregate basis. This information is used only for our internal web trends analysis, and is never published or used to identify you in any way.
 
