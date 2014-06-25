@@ -1,53 +1,356 @@
-<!--The following is the downloaded HTML source of the pennyful.in privacy policy that was archived on 2013-08-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130819190647id_/http%3A//www.pennyful.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pennyful.in privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625065304id_/http%3A//www.pennyful.in/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head id="head"><link rel="stylesheet" type="text/css" href="http://css.pennyful.in/normalize.css"><link rel="stylesheet" type="text/css" href="http://css.pennyful.in/pennyful2.css"><link href="http://css.pennyful.in/responsive.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="http://www.pennyful.in/Styles/fonts.css">
-    <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/0775.js?439598" async="" type="text/javascript"></script><script async="" charset="utf-8" src="//v2.zopim.com/?1RnJ5aRO6fv9gbAJJVQ7Wjw4ZWIJRzyb" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-    <script type="text/javascript">        window.jQuery || document.write('<script src="js/vendor/jquery-1.8.2.min.js">\x3C/script>')</script><script src="js/vendor/jquery-1.8.2.min.js"></script>
+<!DOCTYPE html><html class="no-js" lang="en"><head id="head"><meta name="robots" content="index, follow"><link href="css/pennyful2.css" rel="stylesheet" type="text/css"><link href="http://css.pennyful.in/responsive.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="http://www.pennyful.in/Styles/fonts.css">
+    <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/0775.js?439591" async="" type="text/javascript"></script><script async="" charset="utf-8" src="//v2.zopim.com/?1RnJ5aRO6fv9gbAJJVQ7Wjw4ZWIJRzyb" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script type="text/javascript" src="http://js.pennyful.in/ZeroClipboard.js"></script>
     <script src="http://js.pennyful.in/pennyful.js" type="text/javascript"></script>
     <script src="http://www.pennyful.in/js/vendor/modernizr-2.6.1.min.js" type="text/javascript"></script>
+    <script src="http://www.pennyful.in/js/Placeholders.min.js" type="text/javascript"></script>
+    <script src="bootstrap/js/bootstrap-carousel.js" type="text/javascript"></script>
+    <script src="bootstrap/js/bootstrap-transition.js" type="text/javascript"></script>
+    <script type="text/javascript" src="bootstrap/js/bootstrap-dropdown.js"></script>
+    <script type="text/javascript">
+
+        function ClientItemSelected(source, e) {
+            //source.get_element().value = (document.all) ? e._item.innerText : e._item.textContent;
+            //alert(e._item.innerText);
+            //alert(e._item.textContent);
+            // Get selected text ignoring the highlighting <span>
+            var SelectedText;
+            // Check for IE - should really check for the availabbility of the property... if(e._item.innerText)
+            if (document.all)
+                SelectedText = e._item.innerText;
+            else
+                SelectedText = e._item.textContent;
+            // Set the value of the textbox
+            source.get_element().value = SelectedText;
+
+            // Get the value selected
+            SelectedValue = e.get_value();
+
+            //alert(SelectedText);
+            // alert(SelectedValue);
+            // Do a partial postback with the selected value tied to the control
+            //__doPostBack(source.get_element().name, SelectedValue);
+        }
+
+        function acePopulated(sender, e) {
+
+            var behavior = $find('AutoCompleteEx');
+            //alert(222);
+            //alert("sended " + sender);
+            //alert("e " + e);
+            var target = behavior.get_completionList();
+            //alert("target " + target);
+            if (behavior._currentPrefix != null) {
+                var prefix = behavior._currentPrefix.toLowerCase();
+                var i;
+                for (i = 0; i < target.childNodes.length; i++) {
+                    var sValue = target.childNodes[i].innerHTML.toLowerCase();
+                    if (sValue.indexOf(prefix) != -1) {
+                        // alert(111);
+                        var fstr = target.childNodes[i].innerHTML.substring(0, sValue.indexOf(prefix));
+                        // alert('222 ' + fstr);
+                        var pstr = target.childNodes[i].innerHTML.substring(fstr.length, fstr.length + prefix.length);
+                        //alert('333 ' + pstr);
+                        var estr = target.childNodes[i].innerHTML.substring(fstr.length + prefix.length, target.childNodes[i].innerHTML.length);
+                        //alert('444 ' + estr);
+                        target.childNodes[i].innerHTML = "<div class='autocomplete-item'>" + fstr + '<B>' + pstr + '</B>' + estr + "</div>";
+
+                    }
+                }
+            }
+
+        }
+
+        function checkRegistrationnew(name, email, mobile, pass, lblerror) {
+            try {
+                if (checkRegistration(name, email, mobile, pass, lblerror)) {
+                    return false;
+                }
+                else {
+                    /// second check
+                    if (document.getElementById(name).value.replace(/ /g, '') === "") {
+                        return false;
+                    }
+                    else {
+                        var digits = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz. ";
+                        var temp;
+                        for (var i = 0; i < document.getElementById(name).value.length; i++) {
+                            temp = document.getElementById(name).value.substring(i, i + 1);
+                            if (digits.indexOf(temp) === -1) {
+                                return false;
+                            }
+                        }
+                    }
+                    var valEmail = document.getElementById(email).value.trim();
+                    var valMobile = document.getElementById(mobile).value.trim();
+                    var emailpattern = /^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/;
+                    var re5digit = /^\d{10}$/;
+                    if (valEmail.length === 0) {
+                        return false;
+                    }
+                    else {
+                        if (emailpattern.test(valEmail)) {
+                        }
+                        else {
+                            return false;
+                        }
+                    }
+                    if ((valMobile.length !== 0)) {
+                        if (re5digit.test(valMobile)) {
+                        } else {
+                            return false;
+                        }
+                    }
+                    if (document.getElementById(pass).value === "") {
+                        return false;
+                    }
+                    else {
+                        var digits1 = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()_+|{}[]<>?,.";
+                        var temp1;
+                        for (var j = 0; j < document.getElementById(pass).value.length; j++) {
+                            temp1 = document.getElementById(pass).value.substring(j, j + 1);
+                            if (digits1.indexOf(temp1) === -1) {
+                                return false;
+                            }
+                        }
+                    }
+                    // end second check
+
+                    var valEmail = document.getElementById(email).value.trim();
+                    if (checkemailnew(valEmail)) {
+                        return true;
+                    }
+                    else {
+                        document.getElementById(lblerror).innerHTML = 'Invalid email ID.';
+                        return false;
+                    }
+                    return false;
+                }
+
+            } catch (Error) {
+                // alert(Error);
+            }
+        }
+
+        function checkemailnew(email) {
+
+            var request = new XMLHttpRequest();
+            var emailexists = '';
+            request.open('GET', 'http://www.pennyful.in/Autocomplete.asmx/validateEmailIdNew?email=' + email, false);
+            request.send(); // because of "false" above, will block until the request is done
+            // and status is available. Not recommended, however it works for simple cases.
+            if (request.status === 200) {
+                emailexists = request.responseXML.childNodes[0].firstChild.nodeValue;
+            }
+            if (emailexists === 'valid') {
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
+
+    
+    </script>
+    
+    <script>        (function () {
+            var _fbq = window._fbq || (window._fbq = []);
+            if (!_fbq.loaded) {
+                var fbds = document.createElement('script');
+                fbds.async = true;
+                fbds.src = '//connect.facebook.net/en_US/fbds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(fbds, s);
+                _fbq.loaded = true;
+            }
+            _fbq.push(['addPixelId', "1421040994818757"]);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(["track", "PixelInitialized", {}]);
+    </script>
+    
+    <style type="text/css">
+        /* AutoComplete highlighted item */
+        
+        .autocomplete_highlightedListItem
+        {
+            background-color: #898b8b;
+            color: black;
+            padding: 1px;
+            font-size: 11px;
+        }
+        
+        /* AutoComplete item */
+        
+        .autocomplete_listItem
+        {
+            background-color: window;
+            color: windowtext;
+            padding: 4px;
+            font-size: 11px;
+            position: relative;
+            z-index: 99999;
+            clear: both;
+        }
+        .autocompletionlist
+        {
+            visibility: hidden;
+            margin: 0px !important;
+            background-color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #585858;
+            border-color: #982320;
+            border: buttonshadow;
+            border-width: 1px;
+            border-style: solid;
+            padding-top: 3px;
+            padding-left: 2px;
+            padding-bottom: 3px;
+            overflow: auto;
+            font-size: 14px;
+            text-align: left;
+            list-style-type: none;
+            height: auto;
+            position: relative;
+            z-index: 99999;
+            clear: both;
+        }
+        
+        /* AutoComplete highlighted item */
+        
+        .autosearchhighlight
+        {
+            background: #1383B8;
+            color: #fff;
+            padding: 2px;
+            cursor: pointer;
+            font-size: 13px;
+            padding: 5px 0;
+            font-family: Arial;
+            font-weight: 700;
+        }
+        
+        /* AutoComplete item */
+        
+        .autocompletionlistitem
+        {
+            background-color: white;
+            color: #585858;
+            padding: 1px;
+        }
+    </style>
+    <script>
+        $(document).ready(function () {
+            Placeholders.init();
+        });
+    </script>
+    <script type="text/javascript">
+        $(function () {
+            $("#loading").ajaxStart(function () {
+                $(this).show();
+            });
+
+            $("#loading").ajaxStop(function () {
+                $(this).hide();
+            });
+        });
+
+        $(function () {
+            $("#loading1").ajaxStart(function () {
+                $(this).show();
+            });
+
+            $("#loading1").ajaxStop(function () {
+                $(this).hide();
+            });
+        });
+    </script>
 <meta name="keywords" content="Privacy Policy."><meta name="description" content="Privacy Policy of Pennyful.in"><title>
 	Privacy Policy - Pennyful.in
 </title></head>
 <body>
-    <form method="post" action="/privacy-policy" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAw9kFhACBA8PFgQeBFRleHQFET4+IFByaXZhY3kgUG9saWN5HgdWaXNpYmxlZ2RkAgYPZBYCZg9kFgQCBw8WAh4Fc3R5bGUFDWRpc3BsYXk6bm9uZTtkAgkPFgIfAgUNZGlzcGxheTpub25lO2QCBw8WAh4JaW5uZXJodG1sBQk2OSwzMiwxNDVkAgsPEGRkFgBkAg0PEGRkFgFmZAIQD2QWAmYPZBYCAgUPZBYCAgUPD2QWAh4Hb25jbGljawVScmV0dXJuIGNoZWNrTG9naW5WYWxpZGF0aW9uKCd0eHRFbWFpbElETG9naW4nLCd0eHRQYXNzd29yZExvZ2luJywnbGJsRXJyb3JMb2dpbicpO2QCEQ9kFgICAw8PZBYCHwQFNnJldHVybiB2YWxGb3JnZXQoJ3R4dEVtYWlsSURGb3Jnb3QnLCdsYmxFcnJvckZvcmdvdCcpO2QCEg9kFgJmD2QWAgIFD2QWAgILDw9kFgIfBAV6cmV0dXJuIGNoZWNrUmVnaXN0cmF0aW9uKCd0eHRVc2VybmFtZVNpZ251cCcsJ3R4dEVtYWlsSURTaWdudXAnLCd0eHRNb2JpbGVub1NpZ251cCcsJ3R4dFBhc3N3b3JkU2lnbnVwJywnbGJsRXJyb3JTaWdudXAnKTtkZHDXq1kgpN0yQIb7rciVaVFssXgrexqc2Gwp25i0p4g5">
+    <form method="post" action="privacy-policy" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAw9kFhACCQ8PFgQeBFRleHQFET4+IFByaXZhY3kgUG9saWN5HgdWaXNpYmxlZ2RkAg8PFgIeBXN0eWxlBQ1kaXNwbGF5Om5vbmU7ZAIRDxYCHwIFDWRpc3BsYXk6bm9uZTtkAiUPEGRkFgBkAikPEGRkFgFmZAItD2QWAmYPZBYCAgUPZBYCAgUPD2QWAh4Hb25jbGljawVScmV0dXJuIGNoZWNrTG9naW5WYWxpZGF0aW9uKCd0eHRFbWFpbElETG9naW4nLCd0eHRQYXNzd29yZExvZ2luJywnbGJsRXJyb3JMb2dpbicpO2QCLw9kFgICAw8PZBYCHwMFNnJldHVybiB2YWxGb3JnZXQoJ3R4dEVtYWlsSURGb3Jnb3QnLCdsYmxFcnJvckZvcmdvdCcpO2QCMQ9kFgJmD2QWAgIFD2QWAgILDw9kFgIfAwV9cmV0dXJuIGNoZWNrUmVnaXN0cmF0aW9ubmV3KCd0eHRVc2VybmFtZVNpZ251cCcsJ3R4dEVtYWlsSURTaWdudXAnLCd0eHRNb2JpbGVub1NpZ251cCcsJ3R4dFBhc3N3b3JkU2lnbnVwJywnbGJsRXJyb3JTaWdudXAnKTtkZFj1xp6FpqT3NnkZCuFCdHOt30ghO+ufoP/lHbNdMu7I">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
 
-<script src="/ScriptResource.axd?d=24w3oaGP0-9pmrtLDzJ3pzhaMLzxUj4dm3Phkv4-aBlFDog57csvGuzQZ5pmGDY4XhfnvKN76YYW3bUfKpW0n9tfJMPtdkIdES0bFNdyCwC2oxjUJxTR4Fg5h3J-Bxxo1UXMFRXfjg8jPkpR42p1ndqJosNaQsb_uj4Qa6qToUy1nleL4Uq9uHUsbevuRdt_0&amp;t=ffffffff940d030f" type="text/javascript"></script>
+<script src="/WebResource.axd?d=DVE85jy-nEvoOeHjPCovJfpsPjlhKrHcR1fp9QTaAE_H41LlyEBZ7tHV181ZrxHJulgYR2VVMjpo7oV8k_8Hg-_WC2B9eFpd1Mn9yyCRCv81&amp;t=635282340504416829" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=0Hyj4yHYZY8LZfUET4O_Ex5-yM973hOkiqxL_IYAKJCwP1J2i769xUkBStEtcMEmoczLLXgU09lOaoRGVyOUoEUGIqpmfV4LlEzUDjiXcXR1H92gjXnowIfOqU8vPweCXHQZmASECYK-iXZiCXwDSw2&amp;t=ffffffffef6a4d4b" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWEgL44basDgKJ1qiwBwLRspPcBwL6u4fPAgLIk/XIDQLE5ML0AgL9n+COAgLAoeE1Arm3k7gDAuesj5kPAsSA1/YEAradkokFAr3cxqIJAqadtbQNAtXfmJgDArPK1CAC/PqwpAMCrZax8g81xmuitn9m53a3ckQgU4Z6OY1Yji3USzHq7JKwRj39Ng==">
-    
-    <input type="hidden" name="ctl00$hf_thm_params" id="hf_thm_params" value="org_id=s4xztk07&amp;session_id=529f8b63-1111-4675-961a-a9d9ac12dc70">
+<script src="/ScriptResource.axd?d=2JfyywzhJg-zz9DbDuhQPU7YeGgs2VN-lieqD050Enr_lb6P-0cvdczh2r0_85X7TUQGmGa11aE0h-mCxtVmfsoHyf_oBTb1X3TGOgKUof-g4JG896Uak0ckVf6K-Wqy7Z5of1L5Tyf38R2XXUwlCg2&amp;t=ffffffffef6a4d4b" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=0u33o12oR0DCMLWDtB0FoQVrKzKwWKRHZST4az0gNavnwIS8qb-CpzGjI27U0JM2JHEHZKL9i3gFvK7M59aK8xWk3NZPiXsx-uO0yg_xu8TyoL93HgBDR4MWbq3AEk0fA_zLmGrYyECHBzcu8-G84A2&amp;t=ffffffffef6a4d4b" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=AnkaZPxuRVdEwthIUfC2_EXbI93LPw-o_5ieSBX43eO_I_B-NAAPYXzhy1OZtpLXkWElsdm4BLt74dPykadEwznnugPhBJnI-7CnIZ79PIXrHzfc4b44bBVHyCJYbDHaRPv9n8xguizy0jo4Dy1hzA2&amp;t=ffffffffef6a4d4b" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=8BPAL7s9NBOmQD-GyXUA7RdxH1cOL7VSZ_ZQfSCyLggzpoNinQmhhpQ3nb6-ZwZTIHIgxsHjhK_-pR_97Rbt08zdsxhl4OSehYIs0JHahwyUH8GqlLjm3yzmDCYruPcVc-jgC54dQ6xbQMWApQ1vlw2&amp;t=ffffffffef6a4d4b" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=DWy_kICXaYX72Xq1Bu1Dq-lHS_oCNGz99bVq_bxuhD51npUgk3hzWUq5rvoLMvOAbA-PNotuX_RLNDJHnZWaCXcofsY2Osg_RLiPeApiVAB0b11tn2bpV1KgN7Os3j3AI67fEv5zKOaZjv_gkyGdrg2&amp;t=ffffffffef6a4d4b" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Msdl1frD7Yp0G_qJQ5iYY66evspjzvoUWZ4L0iIuOVaVtJFLYl6kB0idXk75Uo1fVCFTGLKM7IQI-qXjAzYZvVHY3Y3lZEXvHw8rSyniSxDt5bupCp9nao1FLVg6fGQ5HYoNhlZxay9apr0PztxbRr5k3FtV9DxKkqUSue-CxdM1&amp;t=ffffffffef6a4d4b" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Pl-NaF-jfVRTuh361Wz9dctAK49-1p2zQKY_tI_eawi5dplpRXwUDpw0dvYHrPC0yH0TqEuX6_BvpSpOOmzFks6fW_8PEP4pSIWSTBKV5Bgx868z9mcWHRKCApYvD_IAEQiDxDsKpZAinJsx03az7Mg3zCD2I7-9HmdLvU-SB2I1&amp;t=ffffffffef6a4d4b" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=0avdQKEgdxhD73zIGlQbM3mAI4SlP0qwsefBBF9WyqO6I_k5LG4yhO49jxomIAC31TqUU08JnfoscNWId0WGsnNXLj2lbvd0gVZNGfl9FBVF9yi5DcV90MB5M5oHKcrJGTbdEnCNZ47Y-8kpYhN_p6KdQTabjlft4JuZ43kXUoo1&amp;t=ffffffffef6a4d4b" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWEgKN34LKDAKJ1qiwBwLRspPcBwL6u4fPAgLIk/XIDQLE5ML0AgL9n+COAgLAoeE1Arm3k7gDAuesj5kPAsSA1/YEAradkokFAr3cxqIJAqadtbQNAtXfmJgDArPK1CAC/PqwpAMCrZax8g8KznT9QU2c2/Tc2oJgXs0SiyDUvA3S0KcS/7bmEJ0A2A==">
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', ['tctl00$UpdatePanel1','UpdatePanel1','tctl00$UpdatePanel2','UpdatePanel2'], [], ['ctl00$btnLogin','btnLogin','ctl00$btnSignup','btnSignup'], 90, 'ctl00');
+//]]>
+</script>
+
+    <input type="hidden" name="ctl00$hf_thm_params" id="hf_thm_params">
     <input type="hidden" name="ctl00$hfSessionState" id="hfSessionState" value="notProfile">
-    <!-- stikcy header -->
     <div class="sticky">
         <div class="container">
             <div class="row">
                 <div class="span12">
                     <nav>
-          <ul class="topnav" style="color:#A91B71;">
+          <ul class="topnav" style="color:#A91B71; margin-right:40px;">
             <li><a href="http://www.pennyful.in" id="bcHome">Home</a></li>
              <li><span id="bcPage">&gt;&gt; Privacy Policy</span></li>
           </ul>
         </nav>
-                    <nav style="padding-left: 270px;">
+                    <nav>
+
+                    
           <ul class="topnav">
            
              <li><a href="http://www.pennyful.in/sites">Sites</a></li>
                <li><a href="http://www.pennyful.in/coupons">Coupons</a></li>
                <li><a href="http://www.pennyful.in/sales">Sales</a></li>
                <li><a href="http://www.pennyful.in/deals">Deals</a></li>
+               
           </ul>
         </nav>
+                    
                     <div class="searchbar">
-                        <div id="pnlSearchSticky">
+                        <div id="pnlSearchSticky" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'btnSearckSticky')">
 	
                             <div class="input-append">
                                 <input name="ctl00$txtSearchSticky" type="text" id="txtSearchSticky" class="span4" placeholder="Search sites or coupons" style="border-color: #37AED0;">
@@ -60,37 +363,63 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             </div>
         </div>
     </div>
-    <!--[if lt IE 7]>
-            <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
-            <![endif]-->
-    <!-- site header -->
     <header>
-  <div class="container">
-    <div class="row">
-      <div class="span3"><a href="http://www.pennyful.in"><img src="http://www.pennyful.in/img/pennyful-logo.png" alt="Pennyful logo" title="Go Home"></a></div>
-      <div class="span9">
-       <div id="UpdatePanel3">
-	
-        <div class="top">
-         
-          <nav>
-            <ul class="topnav">
-              <li><a id="idSignupLink" class="signup-link">Sign up</a></li>
-              <!--   after login show the next li which has the welcome message and hide login-->
-              <li><a id="idLoginLink" class="login-link">Login</a></li>
-              <li><span><span id="lblUser"></span></span></li>
-               <li><a href="http://www.pennyful.in/myaccount" id="idMyAccount" style="display:none;">My Account</a></li>
-               <li><a href="signout.aspx" id="idSignout" style="display:none;">Signout</a></li>
-            </ul>
-          </nav>
-        </div>
-         <div id="verifyError" class="error_red" style="display: none;">
+    <div class="container">
+        <div class="row">
+        
+                <center><span style="font-weight:normal;text-transform:uppercase;color:#C1C1C1;font-size:13px;margin:5px 0;">India's largest COUPONS &amp; cashback shopping site</span></center>
+                 <div class="span3">
+                        <a href="http://www.pennyful.in">  <img title="Coupons and CashBack at Pennyful" alt="Coupons and CashBack at Pennyful" style="border:0;" src="http://www.pennyful.in/img/pennyful-logo.png"></a>
+                 </div>
+                 <div class="span9">
+                   <div class="span9">
+                       <nav>
+                            <ul class="topnav">
+                                
+                                 <li><span id="lblUser"></span></li>
+                                <li><a href="http://www.pennyful.in/myaccount" id="idMyAccount" style="display:none;">My Account</a></li>
+                                <li><a href="signout.aspx" id="idSignout" style="display:none;">Signout</a></li>
+
+
+                               
+
+                                <li class="dropdown" style="display:none;">
+                                        <a data-toggle="dropdown" class=" notification dropdown-toggle" role="button" id="drop1"><span>142</span></a>
+                                            
+                                            <div class="dropdown-menu">
+                                                <h3>heading 1</h3>
+                                                <p>your <a href="" class="redlink">text </a>content here</p>
+                                                <h3>heading 2</h3>
+                                                <p>your text content here</p>
+                                                <h3>heading 3</h3>
+                                                <p>your text content here</p>
+                                               
+                                            </div>
+                                </li>
+
+
+                                <li><a id="idLoginLink" class="login-link">Login</a></li>
+                                <li><a id="idSignupLink" class="signup-link btn btn-main btn-mini">Sign up</a></li>
+                            </ul>
+                      </nav>
+                   </div>
+                   <div class="span9">
+                   <div class="searchbar"> 
+                          <div class="input-append">
+                           
+                            <input name="ctl00$txtSearch" type="text" id="txtSearch" class="span4" placeholder="Search sites or coupons" style="margin-left:-30px; width:392px;">
+                                     
+                           
+                             <input type="submit" name="ctl00$btnSearch" value="Search" id="btnSearch" class="btn btn-main">
+                          </div>
+                   </div>
+                    <div id="verifyError" class="error_red" style="display: none;">
                             <div style="position: relative; top: 0;">
                                 <div class="red_error_img">
                                 </div>
                                 <div style="padding: 16px 0px 0px 50px; float: left;  color:white; font-size:12px;">
                                     <div id="spanMobileVerify" style="display: none;">
-                                        Mobile: Unverified. <a href="mobile-verify.aspx">Click here</a> to verify.</div>
+                                        Mobile: Unverified. <a href="http://www.pennyful.in/mobile-verify.aspx">Click here</a> to verify.</div>
                                     <div style="clear: both;">
                                     </div>
                                 </div>
@@ -98,78 +427,62 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         </div>
                         <div id="idCorporate" style="font-size: 14px; background: none repeat scroll 0 0 #FDD002;
                         float: left; height: 20px; font-weight: bold; font-family: Arial; padding: 10px;
-                        margin:-15px 10px 10px 50px; display: none;">
+                        margin:2px 10px 10px 19px; display: none;">
                        <span id="lblCorporateMsg"></span></div>
-        
-</div>
-        <nav style="clear:both;">
-          <ul>
-             <li><a href="http://www.pennyful.in/sites">Sites</a></li>
-               <li><a href="http://www.pennyful.in/coupons">Coupons</a></li>
-               <li><a href="http://www.pennyful.in/sales">Sales</a></li>
-                <li><a href="http://www.pennyful.in/deals">Deals</a></li>
-            <li><a href="http://www.pennyful.in/refer-a-friend">Refer A Friend</a></li>
-          </ul>
-        </nav>
-      </div>
+                   </div>
+                   <div class="span9">
+                        <nav style="margin-top:5px;">
+                            <ul>
+                                <li><a href="http://www.pennyful.in/sites">Sites</a></li>
+                                <li><a href="http://www.pennyful.in/coupons">Coupons</a></li>
+                                <li><a href="http://www.pennyful.in/sales">Sales</a></li>
+                                <li><a href="http://www.pennyful.in/deals">Deals</a></li>
+                                <li><a href="http://www.pennyful.in/refer-a-friend">Refer A Friend</a></li>
+                            </ul>
+                        </nav>
+                       
+                   </div>
+                 
+                 </div>
+
+         
+        </div>
     </div>
-  </div>
-</header>
-    <!--main navigation-->
+    </header>
+    <!--nav categories starts-->
     <nav class="mainnav">
   <div class="container">
     <div class="row">
       <div class="span12">
        <ul>
-          <li class="col2"><a href="http://www.pennyful.in/categories/flowers-and-gifts/">Flowers &amp; Gifts</a>
-          </li>
-          <li><a href="http://www.pennyful.in/categories/Apparel-and-Accessories/">Apparel &amp; Accessories</a>
+         
+           <li><a href="http://www.pennyful.in/categories/mobile-recharge/">Mobile Recharge</a>
            
           </li>
-          <li><a href="http://www.pennyful.in/categories/home-and-garden/">Home &amp; Garden</a>
-           
-          </li>
-          <li class="bigcol"><a href="http://www.pennyful.in/categories/electronics-and-photo/">Electronics &amp; Photo</a>
-            
-          </li>
+          
           <li><a href="http://www.pennyful.in/categories/computers/">Computers</a>
            
           </li>
-          <li class="col2 right"><a href="http://www.pennyful.in/categories/Jewelry/">Jewelry</a>
-          
+          <li class="bigcol"><a href="http://www.pennyful.in/categories/electronics-and-photo/">Electronics</a>
+            
+          </li>
+          <li><a href="http://www.pennyful.in/categories/baby-care/">Baby Care</a>
+           
+          </li>
+          <li><a href="http://www.pennyful.in/categories/books/">Books</a>
+           
+          </li>
+
+          <li><a href="http://www.pennyful.in/categories/travel/">Travel</a>
+           
           </li>
           <li class="morecat"><a href="http://www.pennyful.in/allcategories.aspx">More Categories</a></li>
+         
         </ul>
       </div>
     </div>
   </div>
 </nav>
-    <!--informations and search-->
-    <div class="informations">
-        <div class="container">
-            <div class="row">
-                <div class="span12">
-                    <ul class="info" style="padding-top: 9px">
-                        <li style="text-transform: uppercase;">Total cashback earned by pennyful members:</li>
-                        <li style="padding-left: 5px; padding-top: 1px;">
-                            <img src="http://images.pennyful.in/rupeesymbol.png" alt="Rs."><span id="idspanTotalCB" style="float: right;">69,32,145</span></li>
-                    </ul>
-                    <div class="searchbar">
-                        <div id="pnlSearch">
-	
-                            <div class="input-append">
-                                <div class="input-append">
-                                    <input name="ctl00$txtSearch" type="text" id="txtSearch" class="span4" placeholder="Search sites or coupons" style="border-color: #37AED0;">
-                                    <input type="submit" name="ctl00$btnSearch" value="" id="btnSearch" class="btn search_icon" style="height: 30px;">
-                                </div>
-                            </div>
-                        
-</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <div>
         
     <div class="container main-container help">
@@ -185,19 +498,22 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         <div id="b">
         <p>
                 This privacy statement describes how Pennyful Online Pvt Ltd collects and
-                uses the personal information you provide on our Web site: <a href="http://www.pennyful.in">
+                uses the personal information you provide on our website: <a href="http://www.pennyful.in">
                     www.pennyful.in</a>. It also describes the choices available to you regarding
                 our use of your personal information and how you can access and update this information.<br>
                 If you have questions or concerns regarding this policy, you should contact us at
                 <a href="mailto:customercare@pennyful.in">customercare@pennyful.in</a>.
             </p>
             <div class="MsoNormal" style="color: #0b73a9;">
-                <font size="3"><b><font face="Arial">Why we collect personal information</font></b></font></div>
+                <font size="3"><b><font face="Arial">Why we collect personal information?</font></b></font></div>
             <br>
             <p>
                 We collect the following personal information from you</p>
             <ul>
                 <li>Contact Information such as name, email address, mailing address, phone number</li>
+                <li>Your Bank Account Details, such as Bank  Name, Account Number, Account Type, Branch, City,
+
+IFSC No for cashback credit</li>
                 <li>Unique Identifiers such as user name, account number, password</li>
                 <li>Preferences Information such as product wish lists, order history, marketing preferences</li>
             </ul>
@@ -207,7 +523,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <li>Demographic information such as age, education, gender, interests and zip code</li>
             </ul>
             <p>
-                As is true of most Web sites, we automatically gather information about your computer
+                As is true of most websites, we automatically gather information about your computer
                 such as your IP address, browser type, referring/exit pages, and operating system.</p>
             <p>
                 We use this information to</p>
@@ -221,7 +537,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <li>Send you marketing communications</li>
                 <li>Administer contests and sweepstakes you entered, and notify you if you won</li>
                 <li>Respond to your questions and concerns</li>
-                <li>Improve our Web site and marketing efforts</li>
+                <li>Improve our website and marketing efforts</li>
                 <li>Conduct research and analysis</li><br>
             </ul>
             <div class="MsoNormal" style="color: #0b73a9;">
@@ -255,7 +571,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     government request,</li>
                 <li>if Pennyful Online Pvt Ltd is involved in a merger, acquisition, or sale
                     of all or a portion of its assets, you will be notified via email and/or a prominent
-                    notice on our Web site of any change in ownership or uses of your personal information,
+                    notice on our website of any change in ownership or uses of your personal information,
                     as well as any choices you may have regarding your personal information, </li>
                 <li>to any other third party with your prior consent to do so. </li>
             </ul>
@@ -268,7 +584,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             <p>
                 Web beacons</p>
             <p>
-                Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel
+                Our web pages contain electronic images known as web beacons (sometimes called single-pixel
                 gifs) and are used along with cookies to compile aggregated statistics to analyze
                 how our site is used and may be used in some of our emails to let us know which
                 emails and links have been opened by recipients. This allows us to gauge the effectiveness
@@ -279,12 +595,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 links they clicked on. We use this aggregated information to understand and optimize
                 how our site is used.</p>
             <p>
-                Links to Other Web Sites</p>
+                Links to Other websites</p>
             <p>
-                Our Site includes links to other Web sites whose privacy practices may differ from
+                Our Site includes links to other websites whose privacy practices may differ from
                 those of Pennyful Online Pvt Ltd. If you submit personal information to
                 any of those sites, your information is governed by their privacy statements. We
-                encourage you to carefully read the privacy statement of any Web site you visit.
+                encourage you to carefully read the privacy statement of any website you visit.
             </p>
             <div class="MsoNormal" style="color: #0b73a9;">
                 <font size="3"><b><font face="Arial">Security</font></b></font></div>
@@ -298,12 +614,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 over the Internet, or method of electronic storage, is 100% secure, however. Therefore,
                 we cannot guarantee its absolute security.</p>
             <p>
-                If you have any questions about security on our Web site, you can contact us at
+                If you have any questions about security on our website, you can contact us at
                 <a href="mailto:customercare@pennyful.in">customercare@pennyful.in</a></p>
             <div class="MsoNormal" style="color: #0b73a9;">
                 <font size="3"><b><font face="Arial">Additional Policy Information</font></b></font></div>
             <p>
-                Our Web site includes Widgets, which are interactive mini-programs that run on our
+                Our website includes Widgets, which are interactive mini-programs that run on our
                 site to provide specific services from another company (e.g. displaying the news,
                 opinions, music, etc). Personal information, such as your email address, may be
                 collected through the Widget. Cookies may also be set by the Widget to enable it
@@ -311,7 +627,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 policy of the company that created it.
             </p>
             <p>
-                Our Web site offers publicly accessible blogs or community forums. You should be
+                Our website offers publicly accessible blogs or community forums. You should be
                 aware that any information you provide in these areas may be read, collected, and
                 used by others who access them.</p>
             <div class="MsoNormal" style="color: #0b73a9;">
@@ -361,7 +677,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     </div>
                     <div class="content">
                         <ul>
-                              <li><a href="http://www.pennyful.in/about-pennyful">About Pennyful</a></li>
+                              <li><a href="http://pennyful.freshdesk.com">About Pennyful</a></li>
                             <li><a href="http://www.pennyful.in/why-pennyful">Why Pennyful</a></li>
                             <li><a href="http://www.pennyful.in/howitworks">How it works</a></li>
                             <li><a href="http://pennyful.freshdesk.com/">Help &amp; FAQ</a></li>
@@ -371,6 +687,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <li><a href="http://www.pennyful.in/careers">Careers</a></li>
                            <li><a href="http://www.pennyful.in/press">Press Mentions</a></li>
                             <li><a href="http://www.pennyful.in/media-interviews">Interviews</a></li>
+                              <li><a href="http://www.pennyful.in/missingcashback">Missing Cashback</a></li>
                         </ul>
                     </div>
                 </div>
@@ -402,7 +719,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     </ul>
                 </div>
                 <div class="span4">
-                    <p>
+                    <p id="idItemsCount">
                         showing <span id="showing">
                             </span> of <span id="totalItems">
                                 </span>
@@ -424,9 +741,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         New user? <a href="#" class="signup-link">Signup</a>
                 </p></div>
                 <!-- start   error -->
-                <div id="divAlert" class="alert alert-error">
+                <div id="divAlert">
                     <p>
-                        <span id="lblErrorLogin"><font color="Red"></font></span>
+                        <span id="lblErrorLogin" style="color:Red;"></span>
                     </p>
                 </div>
                 <!--end error-->
@@ -435,7 +752,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <img id="imgStoreLogoLogin" src="">
                     </div>
                     <p>
-                        Youâ€™re on your way to <strong>
+                        You're on your way to <strong>
                             <span id="lblCashbackLogin"></span></strong> savings
                         at <strong>
                             <span id="lblStoreNameLogin"></span></strong>. Just
@@ -443,7 +760,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     </p>
                 </div>
                 <div class="content">
-                    <div id="pnlLogin">
+                    <div id="pnlLogin" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'btnLogin')">
 		
                         <div class="form_cont">
                             <div class="control-group ">
@@ -476,7 +793,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 Forgot Password ?</h6>
         </div>
         
-        <div id="pnlForgot">
+        <div id="pnlForgot" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'btnForgot')">
 	
             <div class="content">
                 <div class="form_cont">
@@ -488,7 +805,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <input type="submit" name="ctl00$btnForgot" value="Submit" onclick="return valForget('txtEmailIDForgot','lblErrorForgot');" id="btnForgot" title="Login" class="btn btn-main">
                     </div>
                     <div>
-                        <span id="lblErrorForgot"><font color="Red"></font></span>
+                        <span id="lblErrorForgot" style="color:Red;"></span>
                     </div>
                 </div>
             </div>
@@ -510,7 +827,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <!-- start   error -->
                 <div>
                     <p>
-                        <span id="lblErrorSignup"><font color="Red"></font></span>
+                        <span id="lblErrorSignup" style="color:Red;"></span>
                     </p>
                 </div>
                 <!--end error-->
@@ -519,14 +836,14 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <img id="imgStoreLogoSignup" src="">
                     </div>
                     <p>
-                        Youâ€™re on your way to <strong>
+                        You're on your way to <strong>
                             <span id="lblCashbackSignup"></span>
                         </strong>savings at <strong>
                             <span id="lblStoreNameSignup"></span>
-                        </strong>. Just signup below. Itâ€™s Free!</p>
+                        </strong>. Just signup below. It's Free!</p>
                 </div>
                 <div class="content">
-                    <div id="pnlSignup">
+                    <div id="pnlSignup" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'btnSignup')">
 		
                         <div class="form_cont">
                             <div class="control-group ">
@@ -545,17 +862,20 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 <input name="ctl00$txtReferrarEmailSignup" type="text" id="txtReferrarEmailSignup" placeholder="Referrer's Email (Optional)">
                             </div>
                             <div class="form-actions">
-                                <input type="submit" name="ctl00$btnSignup" value="Submit" onclick="return checkRegistration('txtUsernameSignup','txtEmailIDSignup','txtMobilenoSignup','txtPasswordSignup','lblErrorSignup');" id="btnSignup" class="btn btn-main">
+                                <input type="submit" name="ctl00$btnSignup" value="Submit" onclick="return checkRegistrationnew('txtUsernameSignup','txtEmailIDSignup','txtMobilenoSignup','txtPasswordSignup','lblErrorSignup');" id="btnSignup" class="btn btn-main">
                             </div>
                             <p class="small">
-                                By becoming a member, you agree to our <a href="http://www.pennyful.in/terms-conditions">
+                                By becoming a member, you agree to our <a class="redlink" href="http://www.pennyful.in/terms-conditions">
                                     terms and conditions</a></p>
                         </div>
                     
 	</div>
                     <div class="signin_options" style="float: left;">
                         <ul>
-                            <iframe src="http://www.pennyful.in/addthis.aspx" frameborder="0"></iframe>
+                            <iframe style="height:35px;" src="http://www.pennyful.in/addthis.aspx" frameborder="0"></iframe>
+                        </ul>
+                        <ul>
+                        <img src="http://images.pennyful.in/mailers/suratdiamond/sdpage.jpg" alt="suratdiamond">
                         </ul>
                     </div>
                     <div class="why-signup">
@@ -574,58 +894,193 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             </div>
         
 </div>
-    <div class="footerWidth">
+    <footer>
+ <div class="footerWidth">
         <div class="footer">
             <div class="menu">
                 <ul>
+                    <h5>
+                        Company Information</h5>
                     <li><a href="http://www.pennyful.in">Home</a></li>
-                    <li><a href="http://www.pennyful.in/about-pennyful">About Us</a></li>
-                    <li><a href="javascript:FreshWidget.show();">Contact Us</a></li>
-                    <li><a href="http://www.pennyful.in/press">Press Mentions</a></li>
-                    <li><a href="http://www.pennyful.in/interviews">Interviews</a></li>
+                    <li><a href="http://pennyful.freshdesk.com">About Pennyful</a></li>
+                    <li><a href="http://www.pennyful.in/why-pennyful">Why Pennyful?</a></li>
+                    <li><a href="http://www.pennyful.in/howitworks">How It Works?</a></li>
+                    <li><a href="http://blog.pennyful.in/" style="display:none">Pennyful Blog</a></li>
+                    <li><a href="http://www.pennyful.in/careers">Careers</a></li>
+                    
+                   
+                    <li><a href="http://www.pennyful.in/terms-conditions">Terms &amp; Conditions</a></li>
+                    <li><a href="http://www.pennyful.in/privacy-policy">Privacy Policy</a></li>
                 </ul>
             </div>
             <div class="menu">
                 <ul>
-                    <li><a href="http://www.pennyful.in/sites">Sites</a></li>
-                    <li><a href="http://www.pennyful.in/coupons">Coupons </a></li>
+                    <h5>
+                        Shop With Pennyful</h5>
+                    <li><a href="http://www.pennyful.in/sites">Cashback Sites</a></li>
+                    <li><a href="http://www.pennyful.in/coupons">Coupons</a></li>
                     <li><a href="http://www.pennyful.in/sales">Sales</a></li>
                     <li><a href="http://www.pennyful.in/deals">Deals</a></li>
-                    <li><a href="http://www.pennyful.in/sitemap">Site Map</a></li>
+                  
+                    <li><a href="http://www.pennyful.in/pears">PEARS</a></li>
                 </ul>
             </div>
             <div class="menu">
                 <ul>
+                    <h5>
+                        My Account</h5>                
+                    <li><a href="http://www.pennyful.in/sitemap">Sitemap</a></li>
+                    <li><a href="http://www.pennyful.in/email-Preference-login.aspx">Email Center</a></li>
+                </ul>
+            </div>
+            <div class="menu">
+                <ul>
+                    <h5>
+                        Pennyful Perks</h5>
                     <li><a href="http://www.pennyful.in/refer-a-friend">Refer A Friend</a></li>
-                    <li><a href="http://blog.pennyful.in">Blog</a></li>
+                    <li><a href="http://www.pennyful.in/online-cashback-shopping-resources.aspx">Cashback Resources</a></li>
+                </ul>
+            </div>
+               <div class="menu">
+                <ul>
+                    <h5>
+                        Press Room</h5>
+                    <li><a href="http://www.pennyful.in/pressroom">Press Room</a></li>
                 </ul>
             </div>
             <div class="menu">
                 <ul>
-                    <li><a href="http://www.pennyful.in/privacy-policy">Privacy Policy</a></li>
-                    <li><a href="http://www.pennyful.in/terms-conditions">Terms &amp; Conditions</a></li>
-                    <li><a href="http://www.pennyful.in/faq">Help</a></li>
+                    <h5>
+                        Customer Service</h5>
+                    <li><a href="javascript:FreshWidget.show();">Contact Us</a></li>
+                    <li><a href="" style="display:none">Help </a></li>
+                    <li><a href="http://pennyful.freshdesk.com">FAQ</a></li>
+                    <li><a href="http://www.pennyful.in/customertestimonial.aspx">Customer Testimonials</a></li>
+                      <li><a href="http://www.pennyful.in/missingcashback">Missing Cashback</a></li>
                 </ul>
             </div>
-            <div class="social">
+          <div class="social">
                 <ul>
-                    <li><a title="Facebook" class="facebookfooter" href="https://www.facebook.com/pennyfulindia">
+                    <h5 style="text-align:left;">Connect With Us </h5>
+                    <li><a href="https://www.facebook.com/pennyfulindia" class="facebookfooter" title="Facebook">
                         fb</a></li>
-                    <li><a title="Twitter" class="twitterfooter" href="https://twitter.com/pennyfulindia">
+                    <li><a href="https://twitter.com/pennyfulindia" class="twitterfooter" title="Twitter">
                         Twitter</a></li>
-                    <li><a title="Pinterest" class="pintrestfooter" href="http://www.pinterest.com/pennyful">
+                    <li><a href="http://www.pinterest.com/pennyfulindia" class="pintrestfooter" title="Pinterest">
                         Pinterest</a></li>
+                    <li><a href="https://plus.google.com/108521292230809492613/" class="gplus" title="Pinterest">
+                        Googleplus</a></li>
+                    <li style="display:none;"><a href="https://www.pennyfulin.tumblr.com" class="tumblr" title="Tumblr">
+                    tumblr</a></li>
+                    <li><a href="http://www.linkedin.com/company/eze-get-online-technologies-llp" class="linkedin" title="linkedin">
+                    Linkedin</a></li>
+                      <li><a href="http://blog.pennyful.in" class="blog" title="Blog">
+                    Blog</a></li>
+                    <li><a href="http://www.flickr.com/photos/109329077@N08/" class="flikr" title="flikr">
+                    Flikr</a></li>
+
                 </ul>
+            </div>
+            <div class="footPart">
+                <p style="color: #999999; font-size: 16px;">
+                    <strong>Popular Online Shopping Sites and Brands on Pennyful.in:</strong></p>
+                     <div class="footShop">
+                    <ul>
+                        <li>Mobile Recharge Sites</li>
+                        <li><a target="_blank" href="http://www.pennyful.in/aircel-cashback">
+                            Aircel</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/airtel-callhome-cashback">Airtel</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/paytm-cashback">
+                            Paytm</a></li>
+                    </ul>
+                </div>
+                <div class="footShop">
+                    <ul>
+                        <li>Flower &amp; Gifts Cashback Sites</li>
+                        <li><a target="_blank" href="http://www.pennyful.in/ferns-n-petals-cashback">
+                            Ferns N Petals</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/ezeegift-cashback">Ezeegift.com</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/flowernferns-cashback">
+                            FlowerNFerns</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/flaberry-cashback">Flaberry</a></li>
+                    </ul>
+                </div>
+                <div class="footShop">
+                    <ul>
+                        <li>Apparel &amp; Accessories Cashback Sites:</li>
+                        <li><a target="_blank" href="http://www.pennyful.in/ebay-cashback">ebay.in</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/myntra-cashback">Myntra.com</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/homeshop18-cashback">
+                            Homeshop18.com</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/jabong-cashback">Jabong.com</a></li>
+                    </ul>
+                </div>
+                <div class="footShop">
+                    <ul>
+                        <li>Home &amp; Garden Cash back Sites:</li>
+                        <li><a target="blank" href="http://www.pennyful.in/indiatimes-cashback">
+                            Indiatimes shopping</a></li>
+                        <li><a target="blank" href="http://www.pennyful.in/seventymm-cashback">Seventymm</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/tradus-cashback ">Tradus.com</a>
+                        </li>
+                        <li><a target="_blank" href="http://www.pennyful.in/yebhi-cashback">Yebhi.com</a></li>
+                    </ul>
+                </div>
+                <div class="footShop">
+                    <ul>
+                        <li>Electronics &amp; Photo Cashback Sites:</li>
+                        <li><a target="_blank" href="http://www.pennyful.in/amazon-cashback">Amazon.in|</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/imagestore-cashback">
+                            Imagestore</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/zansaar-cashback">Zansaar</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/future-bazaar-cashback">
+                            Future Bazaar</a></li>
+                    </ul>
+                </div>
+
+                <div class="footShop">
+                    <ul>
+                        <li>Computers Cashback Sites: </li>
+                        <li><a target="_blank" href="http://www.pennyful.in/bigrock-cashback">BigRock</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/deals-and-you-cashback">
+                            Deals and You</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/rediff-cashback">Rediff.com</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/naaptol-cashback">Naaptol.com</a></li>
+                    </ul>
+                </div>
+                <div class="footShop">
+                    <ul>
+                        <li>Jewelry Cashback Sites:</li>
+                        <li><a target="_blank" href="http://www.pennyful.in/bluestone-cashback">
+                            Bluestone</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/9rasa-cashback">9rasa</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/star-cj-cashback">STAR
+                            CJ</a></li>
+                        <li><a target="_blank" href="http://www.pennyful.in/surat-diamond-jewellery-cashback">Surat Diamond - Jewellery</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div style="margin-top: 20px; clear: both; display: inline-block;">
+                <p style="color: #6F7276; font-size: 12px; line-height: 18px; clear: both;">
+                    Pennyful.in is India's leading online cashback shopping and coupons site that has
+                    become a leading innovator in cashback shopping in India since its launch in 2010.
+                    Pennyful.in pays its customers to shop online. Currently, we have tied up with 150+
+                    partner sites (from Myntra.com to Snapdeal.com; Babyoye.com to Zovi.com) across
+                    India. The key differentiator at Pennyful.in is that we offer real money as cashback
+                    who do online shopping with any of our online partner sites and we also help online
+                    shoppers to discover amazing sales offers, deals, discount coupons, shopping discounts
+                    and products from their preferred online shopping sites.</p>
             </div>
             <div style="clear: both; padding: 20px 0 0 0; color: #999999; font-size: 10px;">
                 <p>
-                    Copyright 2013, Pennyful Online Pvt Ltd.
+                    Copyright 2014, Pennyful Online Pvt Ltd. All Rights Reserved.
                 </p>
             </div>
             <div style="text-align: center;">
             </div>
         </div>
     </div>
+ </footer>
     
     <script type="text/javascript">
 
@@ -649,16 +1104,16 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
     </script>
     
     
-    <p style="background: url(https://h.online-metrix.net/fp/clear.png?org_id=s4xztk07&amp;session_id=529f8b63-1111-4675-961a-a9d9ac12dc70&amp;m=1)">
-    </p>
-    <img src="https://h.online-metrix.net/fp/clear.png?org_id=s4xztk07&amp;session_id=529f8b63-1111-4675-961a-a9d9ac12dc70&amp;m=2">
-    <script src="https://h.online-metrix.net/fp/check.js?org_id=s4xztk07&amp;session_id=529f8b63-1111-4675-961a-a9d9ac12dc70"></script>
-    <object type="application/x-shockwave-flash" data="https://h.online-metrix.net/fp/fp.swf?org_id=s4xztk07&amp;session_id=529f8b63-1111-4675-961a-a9d9ac12dc70" width="1" height="1" id="thm_fp">
-        <param name="movie" value="https://h.online-metrix.net/fp/fp.swf?org_id=s4xztk07&amp;session_id=529f8b63-1111-4675-961a-a9d9ac12dc70">
-    </object>
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.AutoCompleteBehavior, {"completionInterval":10,"completionListCssClass":"autocompletionlist","completionListItemCssClass":"autocompletionlistitem","completionSetCount":5,"delimiterCharacters":"","highlightedItemCssClass":"autosearchhighlight","id":"AutoCompleteEx","minimumPrefixLength":-1,"serviceMethod":"GetStorenameAndTagsForAutosuggest","servicePath":"Autocomplete.asmx"}, {"itemSelected":ClientItemSelected,"populated":acePopulated}, null, $get("txtSearch"));
+});
+//]]>
+</script>
+</form>
     
-    </form>
-    <script src="http://js.pennyful.in/vendor/modernizr-2.6.1.min.js"></script>
     <script type="text/javascript" src="http://assets.freshdesk.com/widget/freshwidget.js"></script>
     <style type="text/css" media="screen, projection">
         @import url(http://assets.freshdesk.com/widget/freshwidget.css);
@@ -667,6 +1122,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
         FreshWidget.init("", { "queryString": "&submitThanks=Thank+you+for+contacting+us!+Kindly+allow+us+to+get+back+to+you+as+earilest.+Please+keep+an+eye+on+your+email+inbox.++In+case%2C+you+have+not+received+any+information+from+us%3B+then+please+email+us%3A+customercare%40pennyful.in%0D%0A%0D%0AThanks%2C%0D%0APennyful+Customer+Care+Team%0D%0Awww.pennyful.in", "buttonText": "Contact Us", "buttonColor": "#fff", "buttonBg": "#0F80B4", "alignment": "2", "offset": "-235px", "url": "http://pennyful.freshdesk.com", "assetUrl": "http://assets.freshdesk.com/widget" });
     </script>
+    
+    
     <script type="text/javascript">
         setTimeout(function () {
             var a = document.createElement("script");
@@ -675,15 +1132,47 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
         }, 1);
     </script>
-<!--Start of Zopim Live Chat Script-->
-<script type="text/javascript">
-window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
-$.src='//v2.zopim.com/?1RnJ5aRO6fv9gbAJJVQ7Wjw4ZWIJRzyb';z.t=+new Date;$.
-type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
-</script>
-<!--End of Zopim Live Chat Script-->
+    
+    <!--Start of Zopim Live Chat Script-->
+    <script type="text/javascript">
+        window.$zopim || (function (d, s) {
+            var z = $zopim = function (c) { z._.push(c) }, $ = z.s =
+d.createElement(s), e = d.getElementsByTagName(s)[0]; z.set = function (o) {
+    z.set._.push(o)
+}; z._ = []; z.set._ = []; $.async = !0; $.setAttribute('charset', 'utf-8');
+            $.src = '//v2.zopim.com/?1RnJ5aRO6fv9gbAJJVQ7Wjw4ZWIJRzyb'; z.t = +new Date; $.
+type = 'text/javascript'; e.parentNode.insertBefore($, e)
+        })(document, 'script');
+    </script>
+    <!--End of Zopim Live Chat Script-->
+    <script>
+        $(function () {
+            $('.formfocus').focus();
+            $('.push_button').click(function () {
+                $('.formfocus').focus();
+            });
+        });
+    </script>
+    <!-- START Google Code for Remarketing Tag -->
+    <!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+    <script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 972679325;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display: inline;">
+            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/972679325/?value=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+    <!-- END Google Code for Remarketing Tag -->
+    
 
 
 </body></html>
