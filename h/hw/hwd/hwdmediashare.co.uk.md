@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hwdmediashare.co.uk privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106182931id_/http%3A//hwdmediashare.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hwdmediashare.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625041623id_/http%3A//hwdmediashare.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy
-
-##  [ Privacy Policy](http://hwdmediashare.co.uk/privacy)
 
 Highwood Design Limited ("hwdMediaShare", "we" or "us") provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of our software service and this website (collectively, the "Services" or the "Website") collected via the Website, email, SMS, telephone, WAP or other means. This Privacy Policy may be updated from time to time for any reason, at our sole discretion. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Website. You are advised to consult this Privacy Policy regularly for any changes. By using or accessing the Website or the Services, you are accepting the practices described in this Privacy Policy, and you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.
 
