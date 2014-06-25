@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxx.co.nz privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130112230id_/http%3A//www.maxx.co.nz/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxx.co.nz privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215613id_/http%3A//www.maxx.co.nz/privacy-statement.aspx) for the most accurate reproduction.*
 
 # AT Public Transport - Privacy Statement
 
@@ -15,8 +15,8 @@ This policy is provided for your information and doesn't limit or exclude your r
 This Privacy Policy covers the following topics:
 
   1.     What personal information does Auckland Transport collect?
-  2.     How does Auckland Transport use your information?
-  3.     Sharing your information
+  2.     How does Auckland Transport use my information?
+  3.     Will Auckland Transport share my information?
   4.     Cookies
   5.     Protecting your information
   6.     Retention and storage
@@ -47,7 +47,7 @@ This information about your use is only analysed on a bulk basis for broad demog
 If you use one of our websites to complete an online application form, or create an account or register a card, we will only collect the information you provide as part of that process if you complete and submit the application or registration to us.  If you log out of our websites or cancel your application or registration before submitting it, the information you had entered will be automatically deleted.
 
 ###   
-2\. How does Auckland Transport use your information?
+2\. How does Auckland Transport use my information?
 
 The information that we collect from you may be used by us for a number of purposes connected with our business such as:
 
@@ -61,20 +61,16 @@ The information that we collect from you may be used by us for a number of purpo
 
 2.5 carrying out market and product analysis and marketing our products and services generally;
 
-2.6 providing the information to carefully selected third parties (such as our Business Partners) so that they can offer products and services which we reasonably believe may be of interest to you (unless you [](mailto:PrivacyOfficer@aucklandtransport.govt.nz)[ask us](mailto:PrivacyOfficer@aucklandtransport.govt.nz) in writing not to).
+2.6 registering your details and allocating or offering you rewards, discounts or other benefits and fulfilling any requests or requirements you may have in respect of our loyalty or reward programmes and other similar schemes;
 
-2.7 contacting you about our products and services and the products and services of carefully selected third parties which we reasonably believe may be of interest to you (unless you [ask us](mailto:PrivacyOfficer@aucklandtransport.govt.nz) in writing not to). Where such contact is via electronic means, any electronic marketing messages we and/or our selected third parties send will include an unsubscribe facility;
+2.7 carrying out any activity in connection with a legal, governmental or regulatory requirement on us or in connection with legal proceedings, crime or fraud prevention, detection or prosecution;
 
-2.8 registering your details and allocating or offering you rewards, discounts or other benefits and fulfilling any requests or requirements you may have in respect of our loyalty or reward programmes and other similar schemes;
+2.8 carrying out activities connected with the running of our business such as personnel training, quality control, network monitoring, testing and maintenance of computer and other systems and in connection with the transfer of any part of our business in respect of which you are a customer or a potential customer;
 
-2.9 carrying out any activity in connection with a legal, governmental or regulatory requirement on us or in connection with legal proceedings, crime or fraud prevention, detection or prosecution;
-
-2.10 carrying out activities connected with the running of our business such as personnel training, quality control, network monitoring, testing and maintenance of computer and other systems and in connection with the transfer of any part of our business in respect of which you are a customer or a potential customer;
-
-2.11 for general administrative and business purposes.  
+2.9 for general administrative and business purposes.
 
 ###   
-3\. Sharing your information
+3\. Will Auckland Transport share my information?
 
 There may be times when we disclose your personal information to third parties. If we do this, we will only disclose your information to:
 
@@ -92,8 +88,9 @@ If you have not [opted out](mailto:PrivacyOfficer@aucklandtransport.govt.nz) of 
 
 ### 4\. Cookies
 
-  
-"Cookies" are pieces of information that a website transfers to an individual's hard drive for record keeping purposes.  The cookie assigns you an ID which allows Auckland Transport to recognise you when you return to one of our websites.  We use cookies to deliver content specific to your interests so users do not have to register each time they use our websites. 
+"Cookies" are pieces of information that a website transfers to an individual's device's hard drive for record-keeping purposes. The cookie assigns that device an ID that allows Auckland Transport to recognise it when it is used to access an Auckland Transport website.
+
+We use cookies on Auckland Transport websites to collect standard internet log information and details of our visitors' behaviour patterns in order to  obtain statistics of the number of visits and the popular parts of those website.  These  statistics are gathered and used solely for the purposes of analysing, evaluating and improving the content of Auckland Transport's websites.
 
 ### 5\. Protecting your personal information
 
