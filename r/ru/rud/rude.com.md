@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rude.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209165704id_/http%3A//www.rude.com/main/member_policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rude.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044000id_/http%3A//rude.com/main/member_policy/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,10 +48,8 @@ _**Electronic Notification**_
 
 When you sign up with the Website, you consent to receive any privacy or other notices, agreements, disclosures, reports, documents, communications, or other records (collectively, "Notices") from the Website electronically. You consent to receive Notices electronically in either or both of the following ways: 
 
-  1. We may post the Notice on our website (www.Rude.com); or 
-  2. We may transmit the Notice to you by email, using the email address you provide to us. 
-
-
+  1. We may post the Notice on our website (www.Rude.com); or
+  2. We may transmit the Notice to you by email, using the email address you provide to us.
 
 All Notices provided to you electronically will be deemed to be "in writing." 
 
@@ -86,3 +84,6 @@ We offer Our Members the opportunity to access or modify information provided du
 _**Where to Direct Questions About Our Privacy Policy**_
 
 If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [admin@rude.com](mailto:admin@rude.com)
+
+
+
