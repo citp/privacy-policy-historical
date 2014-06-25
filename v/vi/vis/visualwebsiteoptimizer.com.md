@@ -1,33 +1,80 @@
-> *The following text is extracted and transformed from the visualwebsiteoptimizer.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122172410id_/http%3A//visualwebsiteoptimizer.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualwebsiteoptimizer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040308id_/http%3A//visualwebsiteoptimizer.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Visual Website Optimizer - Visual Website Optimizer
 
-Your privacy is of paramount importance to Visual Website Optimizer. This policy applies to all products and services offered by Visual Website Optimizer.
+### NON-LEGALESE, SIMPLE ENGLISH SUMMARY
 
-Information we gather from you:
-
-  * Because the Visual Website Optimizer Service houses your website statistics on our servers, you must register for a Visual Website Optimizer account. The registration process asks for a username, password, email address and some personally identifiable information including name, address and contact details.
-  * When you log into the Service, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser.
-  * When you send email or other communication to Visual Website Optimizer, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+  
 
 
+  * You provide your personal information (email, phone number, etc.) to us while creating an account with us. We store that information reliably. We use that information to serve you
+  * When you install our services on your website / app, we collect non-personally identifiable data of your visitors / users
+  * You (and/or your visitors) have an option to opt-out of being tracked by our services. Please see our [opt-out page](https://web.archive.org/opt-out.php) for more information
 
-If you install /opt-out.php code snippet on your website, **we DO NOT store IP address or any other personally identifable information of your website visitors or users**. In case you (or your website visitors or users) want to opt out of tracking by /opt-out.php, please see [our Opt-out page](https://web.archive.org/opt-out.php).
 
-Visual Website Optimizer will not share your personal information without your consent or unless required by law.
 
-By the nature of our Service, Visual Website Optimizer will gather non-personally identifiable statistics about the usage of your website and store that information. Visual Website Optimizer will not share your website statistics without your consent.
+  
 
-Visual Website Optimizer only processes personal information for the purpose of providing, improving, ensuring the delivery of, and developing new services to users.
 
-If Visual Website Optimizer becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
+### PRIVACY POLICY
 
-We may share with third parties certain pieces of aggregated, non-personal information such as the number of sites using Visual Website Optimizer, for example. Such information does not identify you individually.
+  1. ### 1\. INTRODUCTION:
 
-We restrict access to personal information to employees, contractors, and agents who need to know that information in order to operate, develop, or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+This Privacy Policy is part of Wingify’s [Terms of Use](https://web.archive.org/terms-conditions.php) and describes the privacy practices of Wingify. It explains when and how Wingify collects end user and client information, how we use such information, and the circumstances under which we may disclose such information to others. This Privacy Policy includes the policies that Wingify observes for compliance with laws in the State of New Delhi, India. Your privacy is of paramount importance to Wingify. This policy applies to all products and services offered by Wingify.
 
-This Privacy Policy applies to websites and services that are owned and operated by Visual Website Optimizer. We do not exercise control over the sites that may be linked from our website. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+  
 
-Visual Website Optimizer may change its Privacy Policy from time to time and at Visual Website Optimizer’s sole discretion. However, your rights will not be reduced without your explicit consent.
+  2. ### 2\. WHAT TYPE OF INFORMATION WE GATHER:
 
-Last updated: May 22, 2012
+Because the Wingify Services host your website statistics on our servers, you must register for an account for the desired services. The registration process asks for your personal information such as but not limited to:
+
+    * Username
+    * Password
+    * Email address
+    * Phone number
+
+By the nature of our Service, **Wingify will gather non-personally identifiable statistics about the usage of your website / app** and store that information.
+
+  
+
+  3. ### 3\. HOW DO WE USE THIS INFORMATION:
+
+    1. When you log into the Service, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request, browser user agent, and one or more cookies that may uniquely identify your browser.
+    2. When you send email or other communication to Wingify, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+    3. If you install [opt-out](https://web.archive.org/opt-out.php) code snippet on your website, we stop storing any information of your website visitors or users. In case you (or your website visitors or users) want to opt out of tracking, please see our [opt-out page](https://web.archive.org/opt-out.php).
+    4. Wingify will not share your personal information without your consent or unless required by law.
+    5. Wingify will not share your website / app statistics without your consent.
+    6. Wingify only processes your personal information for the purpose of providing, improving, ensuring the delivery of, and developing new services to users.
+    7. If Wingify becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before your personal information is transferred and becomes subject to a different privacy policy.
+  
+
+  4. ### 4\. DISCLOSURE OF INFORMATION TO THIRD PARTIES:
+
+We may share with third parties certain pieces of aggregated, non-personal information such as the number of websites using Wingify services. Such information does not identify you individually. Further, we restrict access to personal information to employees, contractors, and agents who need to know that information in order to operate, develop, or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+This Privacy Policy applies to websites and services that are owned and operated by Wingify. We do not exercise control over the websites that may be linked from our website. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+
+  
+
+  5. ### 5\. HOW WE PROTECT YOUR PERSONAL INFORMATION:
+
+Wingify has implemented reasonable security mechanisms to protect Wingify’s Customer Information and Customer User Data that is maintained on Wingify’s servers from loss, misuse and unauthorized access, disclosure, alteration and destruction. Examples of these security mechanisms include limited and password-protected access, high security public/private keys, encryption on processed data, and SSL encryption to protect transmission of data.
+
+However, please keep in mind that no security system is impenetrable. It may be possible for third parties to intercept or access Wingify’s Customer Information and Customer User Data in spite of these measures. Wingify cannot guarantee the security of your information and cannot be held responsible for unauthorized access to Wingify’s Customer accounts.
+
+  
+
+  6. ### 6\. CHANGES TO THIS PRIVACY POLICY:
+
+Wingify retains the discretion to amend or modify this Privacy Policy from time to time. If we make material changes to the way we collect, use or disclose Personally Identifiable Information, we will notify you by posting a clear and prominent announcement on Wingify or through a direct communication to your Wingify account.
+
+
+
+
+Wingify uses remarketing to advertise across the internet. Along with the Google Analytics cookie, the DoubleClick cookie is collected by Google based on your browsing history. This helps us gain an understanding of our visitors' Demographics and Interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with us.
+
+If you want to opt-out of this, please change your settings by going to [Google's Ad Settings page](http://www.google.com/ads/preferences/?hl=en).
+
+The terms and conditions along with privacy policies with all references, constitutes the sole and entire agreement of the parties to this agreement with respect to the subject matter contained herein, and supersedes all prior terms and conditions which were agreed by the Customer.
+
+Last updated: March 20, 2014
