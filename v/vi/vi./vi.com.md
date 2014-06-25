@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vi.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210111821id_/http%3A//www.vi.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vi.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105455id_/http%3A//www.vi.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ViSalus
+# Privacy Policy | Vi
 
 Information is collected on this website by ViSalus, Inc. doing business as ViSalus Sciences ("ViSalus"). ViSalus is committed to protecting your privacy and will use your personal information responsibly. Please read below for detailed information about our privacy policy.
 
