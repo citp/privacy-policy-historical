@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the awfulannouncing.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209225303id_/http%3A//www.awfulannouncing.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awfulannouncing.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093303id_/http%3A//awfulannouncing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Content | Site
+# Privacy Policy | Awful Announcing
 
 Bloguin knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
 This Privacy Policy covers Bloguin's treatment of personal information that Bloguin gathers when you are on any of the Bloguin websites and when you use Bloguin services. This policy does not apply to the practices of third parties that Bloguin does not own or control, or to individuals that Bloguin does not employ or manage.
+
+[](http://www.awfulannouncing.com/)
 
 Information Collected by Bloguin: We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Bloguin users:
 
