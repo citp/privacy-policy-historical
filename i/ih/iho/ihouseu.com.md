@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihouseu.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929042134id_/http%3A//ihouseu.com/privacy-statements.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihouseu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125959id_/http%3A//www.ihouseu.com/privacy-statements.html) for the most accurate reproduction.*
 
 # Privacy Statements | IHOUSEU
 
@@ -8,7 +8,7 @@ Data is only used for the purposes described in our entry on the Data Protection
 
 For administrative reasons email subscription data may be passed to and stored securely with third party service providers located outside the EEA (European Economic Area).
 
-As part of our contractual relationships with our partners (venues, promoters and affiliates) the sharing of your personal information is required in relation to the purchase of tickets from our website or that or our partners. From time to time Ihouseu Limited or its partners may send you information relating to upcoming events, offers, products or services. If you do not wish to be contacted you may unsubscribe at any time by emailing us to [unsubscribe@ihouseu.com](mailto:unsubscribe@ihouseu.com). Please type "Unsubscribe" in the subject line. If you wish to unsubsribe from a partners mailing this option will be given to you in their correspondence.
+As part of our contractual relationships with our partners (venues, promoters and affiliates) the sharing of your personal information is required in relation to the purchase of tickets from our website or that or our partners. From time to time Ihouseu Limited or its partners may send you information relating to upcoming events, offers, products or services. If you do not wish to be contacted you may unsubscribe at any time by emailing us to unsubscribe@ihouseu.com. Please type "Unsubscribe" in the subject line. If you wish to unsubsribe from a partners mailing this option will be given to you in their correspondence.
 
 Depending on your selection when you purchase a ticket, your personal information may also be provided to carefully selected third parties that may contact you by post or email with information or offers regarding their goods and services. In consenting to this policy, you are indicating that you are happy for those third parties to contact you.
 
@@ -16,19 +16,19 @@ Correspondence from our partners is subject to their relevant Privacy Policy.
 
 We do not sell, rent or exchange mailing lists.
 
-#### TV: Nile Rogers \- Nile Rogers - Ibiza interview with Nile Rogers 
+#### TV: Deepgroove \- Deepgroove - CCTV Brighton 
 
-  * [](https://web.archive.org/tv/sub-focus-behind-scenes-documentary.html)
+  * [](https://web.archive.org/tv/hed-kandi-opening-party-es-paradis.html)
 
-## Sub Focus...
+## Hed Kandi...
 
-#### Sub Focus
+#### Hed Kandi
 
-  * [](https://web.archive.org/tv/neosignal-sequenz-official-video.html)
+  * [](https://web.archive.org/tv/defected-defected-house-we-are-fstvl.html)
 
-## Neosignal...
+## Defected -...
 
-#### Neosignal
+#### Defected
 
 
 
