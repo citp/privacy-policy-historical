@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supernewss.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116205314id_/http%3A//www.supernewss.com/%3Fpage_id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supernewss.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625211547id_/http%3A//www.supernewss.com/%3Fpage_id%3D6) for the most accurate reproduction.*
 
 # Privacy Policy | SuperNewss.com
 
