@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniturextra.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210132733id_/http%3A//creativefurniture.us/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturextra.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083740id_/http%3A//creativefurniture.us/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
