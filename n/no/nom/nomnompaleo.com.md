@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nomnompaleo.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210084115id_/http%3A//nomnompaleo.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomnompaleo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070738id_/http%3A//nomnompaleo.com/legal) for the most accurate reproduction.*
 
-# Legal Stuff | Award-Winning Paleo Recipes | Nom Nom Paleo
+# Legal Stuff | Award-Winning Paleo Recipes | Nom Nom Paleo®
 
-[](http://bit.ly/ZNzsoI) [Pin It](http://pinterest.com/pin/create/button/)
+[](http://nnplanding.businesscatalyst.com/) [Pin It](http://pinterest.com/pin/create/button/)
 
 **PRIVACY**
 
