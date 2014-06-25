@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jingdaily.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214234307id_/http%3A//www.jingdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jingdaily.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085412id_/http%3A//jingdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Jing Daily: The Business of Luxury and Culture in China
 
-We can be reached via e-mail at [Editor@jingdaily.com](mailto:Editor@jingdaily.com).
+We can be reached via e-mail at [contact@jingdaily.com](mailto:Editor@jingdaily.com).
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -18,4 +18,4 @@ With respect to Ad Servers: We do not partner with or have special relationships
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. We can be reached via e-mail at [contact@jingdaily.com](mailto:contact@jingdaily.com).
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. We can be reached via e-mail at [contact@jingdaily.com](mailto:Editor@jingdaily.com).
