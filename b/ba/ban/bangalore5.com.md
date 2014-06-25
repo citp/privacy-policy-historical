@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bangalore5.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230020042id_/http%3A//www.bangalore5.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangalore5.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081731id_/http%3A//www.bangalore5.com/privacy.php) for the most accurate reproduction.*
 
-# Bangalore 5.com- buy-sell-rent-property-Online Property Portal-property services @ bangalore5.com
+# bangalore5, 2bhk apartment for sale in Bangalore, 2bhk apartment in Bangalore, Bangalore property
 
 ## Privacy Policy (Bangalore5.com)
 
@@ -23,5 +23,3 @@ You agree that BANGALORE5.com may use your personal information to contact you a
 All BANGALORE5.com websites including Bangalore5.com fully comply with all Indian Laws that are applicable. BANGALORE5.com has always cooperated with all law enforcement inquires. BANGALORE5.com may disclose all or part of your personal details in response to a request from the law enforcement authorities or in a case of bonafide requirement to prevent an imminent breach of the law. 
 
 If you require more information or have any questions regarding this statement, you may write to us : **Contact us :- office@bangalore5.com**
-
-Disclaimer: Bangalore 5.com cannot be held responsible for the accurecy of the data displayed on the site.
