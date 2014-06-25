@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinnyverse.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117155726id_/http%3A//www.spinnyverse.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinnyverse.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122613id_/http%3A//www.spinnyverse.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Example Privacy Policy
 
