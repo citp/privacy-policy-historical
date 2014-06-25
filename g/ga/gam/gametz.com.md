@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014111259id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071538id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
 
-# GameTZ - Privacy
+# Privacy
 
 This site has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information-gathering and dissemination practices for this website. 
 
