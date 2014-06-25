@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltaww.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202164138id_/http%3A//www.deltaww.com/information/privacy.aspx%3FsecID%3D6%26pid%3D1%26tid%3D0%26hl%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltaww.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043828id_/http%3A//www.deltaww.com/information/privacy.aspx%3FsecID%3D6%26pid%3D1%26tid%3D0%26hl%3Den-US) for the most accurate reproduction.*
 
 # Information - Privacy - Delta Group
 
@@ -29,11 +29,11 @@ Amendments to The Privacy Policy
 We may modify the Privacy Policy at any time, so please review it frequently. If we make substantial changes to it, we will notify you by means of a notice on our homepage.   
    
   
-|    
+|     
 ---  
   |  |  |  |   
 ---|---|---  
 Our Mission  
 To provide innovative, clean and energy-efficient solutions  
 for a better tomorrow.  
-© 2013 Delta Electronics, Inc. All Rights Reserved.
+© 2014 Delta Electronics, Inc. All Rights Reserved. 
