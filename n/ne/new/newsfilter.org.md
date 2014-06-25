@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsfilter.org privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128163550id_/http%3A//newsfilter.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsfilter.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083158id_/http%3A//newsfilter.org/privacy) for the most accurate reproduction.*
 
-# Free porn, fucked up girls and over 10,000 disturbing porn videos
+# Privacy Policy | Newsfilter.org
 
 Newsfilter is committed to user privacy in our products and services. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy.
 
@@ -15,9 +15,7 @@ Customer Feedback and Support. Provides a mechanism for requesting information f
 
 We will only use your personal information in the ways specified when it was collected. We will not subsequently change the way in which we use your personal information, unless you consent to the new usage.
 
- **Third Party Advertising**
-
-Third Party Cookies In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+ **Third Party Advertising** Third Party Cookies In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 Security measures. We protect the personal information you share with us.
 
