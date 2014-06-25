@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the transferwise.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218203113id_/https%3A//transferwise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transferwise.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625150450id_/https%3A//transferwise.com/privacy-policy) for the most accurate reproduction.*
 
-# TransferWise - Send Money Abroad - Privacy
+# TransferWise - Send Money Abroad-Privacy
 
 Protecting your data and financial details is very important to TransferWise.
 
@@ -10,7 +10,7 @@ This policy sets out the basis on which any personal data we collect from you, o
 
 We may collect and process the following data about you: 
 
-  * Information that you provide by filling in forms on the TransferWise.com website. This includes information you provide at the time of registering (such as copies of identification documents or documents verifying identification from publically accessible databases) or carrying out a transaction on the TransferWise.com website;
+  * Information that you provide by filling in forms on the TransferWise.com website. This includes information you provide at the time of registering (such as contact information, social security number, copies of identification documents or documents verifying identification from publically accessible databases) or carrying out a transaction on the TransferWise.com website;
   * If you contact us, we may keep a record of that correspondence;
   * Details of transactions you carry out through our site and of the fulfillment of your orders;
   * Details of your visits to our site.
@@ -53,7 +53,7 @@ We may disclose your personal information to any member of our group.
 
 We may disclose your personal information to third parties: 
 
-  * in the even that we sell or buy any business or assets; 
+  * in the event that we sell or buy any business or assets; 
   * if TransferWise or substantially all of its assets are acquired by a third party; or 
   * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation. This includes exchanging information with other companies and organisations for the purposes of fraud protection. 
 
@@ -72,3 +72,21 @@ Any changes we make to our privacy policy in the future will be posted on this p
 ### Contact
 
 Questions, comments and requests regarding this privacy policy are welcome and should be addressed to privacy@transferwise.com.
+
+### Other important information
+
+**Residents of California and Vermont, USA:** Other than for our everyday business purposes, we will not share your personal information with nonaffiliates or affiliates without first giving you additional privacy choices.
+
+**Residents of Texas, USA:** If you have a complaint, first contact the customer support of TransferWise at +44 208 1230 564, if you still have an unresolved complaint regarding the company's money transmission activity, please direct your complaint to: Texas Department of Banking, 2601 North Lamar Boulevard, Austin, Texas 78705, 1-877-276-5554 (toll free), [www.dob.texas.gov](http://www.dob.texas.gov/)
+
+**Links to Other Web Sites**
+
+The www.TransferWise.com site may contain links to other web sites. As such, TransferWise is not responsible for the privacy practices or the content of such web sites.
+
+**Changes to this Privacy Policy**
+
+We may amend this Privacy Policy from time to time by posting a notice of the change (or an amended Privacy Policy) on our web site at www.TransferWise.com
+
+**Questions or Comments**
+
+If you would like more information regarding this Privacy Policy or you believe that the information we have on file about you is inaccurate or incomplete, you can call us at the number on the back of your card or contact us at +44 208 1230 564.
