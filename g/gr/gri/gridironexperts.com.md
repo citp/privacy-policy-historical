@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gridironexperts.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126161905id_/http%3A//gridironexperts.com/disclaimerprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gridironexperts.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061420id_/http%3A//gridironexperts.com/disclaimerprivacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Gridiron Experts
 
 Privacy Policy
 
