@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220134446id_/https%3A//www.jangomail.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625190112id_/https%3A//www.jangomail.com/privacy.aspx) for the most accurate reproduction.*
 
 # JangoMail Privacy Policy
 
@@ -9,7 +9,7 @@ This privacy statement applies to www.jangomail.com owned and operated by JangoM
   
 
 
-JangoMail has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.jangomail.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please [contact us](https://web.archive.org/web/20131220134446id_/https%3A//www.jangomail.com/contact-us.aspx). If you are not satisfied with our response you can contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
+JangoMail has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.jangomail.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please [contact us](https://web.archive.org/web/20140625190112id_/https%3A//www.jangomail.com/contact-us.aspx). If you are not satisfied with our response you can contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
 
   
 
@@ -173,5 +173,5 @@ If you have any questions about our privacy statement, the information we have c
 JangoMail  
 8087 Washington Village Drive, Suite 201  
 Dayton, OH 45458  
-Or see the [Contact Us](https://web.archive.org/web/20131220134446id_/https%3A//www.jangomail.com/contact-us.aspx) page   
+Or see the [Contact Us](https://web.archive.org/web/20140625190112id_/https%3A//www.jangomail.com/contact-us.aspx) page   
 Last Updated November 12, 2013 
