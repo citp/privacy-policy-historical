@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the profootballspot.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025172016id_/http%3A//profootballspot.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballspot.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040419id_/http%3A//profootballspot.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - profootballspot.com
+# Privacy Policy - Forums
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
