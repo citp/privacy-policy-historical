@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pldt.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224163930id_/http%3A//www.pldt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pldt.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072921id_/http%3A//www.pldt.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PLDT
+# Privacy Policy | Official PLDT Website
 
 The policies below are applicable to the Web site and affiliate sites of Philippine Long Distance Telephone Company (PLDT) found at www.pldt.com.ph . Please be advised that the practices described in this Privacy Policy apply only to information gathered online at our Web site. They do not apply to information that you may submit to us offline or to Web sites maintained by other companies or organizations to which we may link or may have link through us.
 
