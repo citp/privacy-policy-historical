@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the siia.net privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214001351id_/http%3A//www.siia.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D48%26Itemid%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siia.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052255id_/https%3A//www.siia.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D48%26Itemid%3D21) for the most accurate reproduction.*
 
 # Privacy Policy - SIIA: Software & Information Industry Association
 
 ##  Privacy Policy
 
-[](https://web.archive.org/index.php?view=article&catid=147%3Aabout-siia-temp&id=48%3Aprivacy-policy&format=pdf&option=com_content&Itemid=21 "PDF")[](https://web.archive.org/index.php?view=article&catid=147%3Aabout-siia-temp&id=48%3Aprivacy-policy&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=21 "Print")[](https://web.archive.org/index.php?option=com_mailto&tmpl=component&link=aHR0cDovL3d3dy5zaWlhLm5ldC9pbmRleC5waHA/b3B0aW9uPWNvbV9jb250ZW50JnZpZXc9YXJ0aWNsZSZpZD00ODpwcml2YWN5LXBvbGljeSZjYXRpZD0xNDc6YWJvdXQtc2lpYS10ZW1wJkl0ZW1pZD0yMQ== "E-mail")
+[](https://web.archive.org/index.php?view=article&catid=147%3Aabout-siia-temp&id=48%3Aprivacy-policy&format=pdf&option=com_content&Itemid=21 "PDF")[](https://web.archive.org/index.php?view=article&catid=147%3Aabout-siia-temp&id=48%3Aprivacy-policy&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=21 "Print")[](https://web.archive.org/index.php?option=com_mailto&tmpl=component&link=aHR0cDovL3NpaWEubmV0L2luZGV4LnBocD9vcHRpb249Y29tX2NvbnRlbnQmdmlldz1hcnRpY2xlJmlkPTQ4OnByaXZhY3ktcG9saWN5JmNhdGlkPTE0NzphYm91dC1zaWlhLXRlbXAmSXRlbWlkPTIx "E-mail")
 
 The Software & Information Industry Association (SIIA) respects the privacy of visitors to its website, event registrants, newsletters subscribers, member companies and others SIIA customers and users. This Privacy Policy explains what personal information we collect from these users and how we use, disclose and protect it. In general, most personal information we obtain is provided voluntarily by the data subject. We limit disclosures of personal information, and when we do disclose it to third parties, we usually allow data subjects to opt-out of those disclosures.
 
