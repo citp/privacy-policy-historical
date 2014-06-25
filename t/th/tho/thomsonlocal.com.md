@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomsonlocal.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103020901id_/http%3A//www.thomsonlocal.com/businesshub/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomsonlocal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120000id_/http%3A//www.thomsonlocal.com/businesshub/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy policy | thomsonlocal business hub
 
@@ -22,7 +22,7 @@ We may collect and process the following data about you:
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service.
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service, including through our advertising partners.
 
 They enable us:
 
@@ -39,11 +39,28 @@ These third party functions and their associated privacy policies are:
 
   * Google Analytics which provides anonymous data to help guide improvements in usability and performance; the privacy policy for Google Analytics can be found at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>
   * Google Adsense which allows Google to report on the performance of advertising they provide to thomsonlocal; the privacy policy for Google Adsense can be found at <http://www.google.com/policies/privacy/ads/>
-  * AddThis which allows information to be shared across chosen social networks (cookies are only used where the user decides to share content through the provided social sharing book marks); the privacy policy for AddThis can be found at <http://www.addthis.com/privacy/privacy-policy>
 
 
 
-You may refuse to accept or delete cookies by activating the setting on your browser which allows you to refuse the setting of and/or delete cookies (for guidance on how to do this visit <http://www.aboutcookies.org/>). However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+·         Add This which allows information to be shared across chosen social networks (cookies are only used where the user decides to share content through the provided social sharing book marks); the privacy policy for AddThis can be found at <http://www.addthis.com/privacy/privacy-policy>
+
+·         Captify which collects interest information from your web browsing and searches to deliver you advertising that corresponds better to those interests. No personal data is ever passed onto any advertising partners and they cannot identify you or contact you directly. The only data they will use is:
+
+  * the referral search term (i.e., the you term entered into a search engine which then displayed our site as a search result);
+  * the onsite search term (i.e., a term you entered in the search box on our site);
+  * the type of internet browser you are using;
+  * the operating system of your PC or other device;
+  * the time and date you landed on or searched our site;
+  * time spent on our webpage;
+  * the address of the site which referred you to our site.
+
+
+
+The partners we work with for these services along with their full privacy statements can be found at : <http://www.captify.co.uk/privacy.php>
+
+  * You may refuse to accept or delete cookies by activating the setting on your browser which allows you to refuse the setting of and/or delete cookies (for guidance on how to do this visit <http://www.aboutcookies.org/>). However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+
+
 
 Please note that our advertisers may also use cookies, over which we have no control.
 
@@ -94,3 +111,5 @@ Any changes we may make to our privacy policy in the future will be posted on th
 ## **Contact**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@thomsonlocal.com](mailto:info@thomsonlocal.com).
+
+14.04.2014
