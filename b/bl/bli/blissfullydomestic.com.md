@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the blissfullydomestic.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502105001id_/http%3A//blissfullydomestic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blissfullydomestic.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043556id_/http%3A//blissfullydomestic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blissfully Domestic
 
 ## Commitment to Privacy
-
-blissfullydomestic.com is owned and operated by Blissful Media Group L.L.C. Your privacy is vastly important to us. We want you to have a safe and enjoyable time exploring our website.
 
 In our effort to be completely transparent we have provided the following information to you. Because we gather certain types of information about our visitors, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
@@ -84,7 +82,7 @@ By using our site, you consent to our website’s privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on January 15, 2013
+This policy was last modified on January 23, 2014.
 
 ### Contacting Us
 
@@ -92,4 +90,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://blissfullydomestic.com
 
-angela@blissfullydomestic.com
+shanna@blissfullydomestic.com
