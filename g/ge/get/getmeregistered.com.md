@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the getmeregistered.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805203033id_/https%3A//secure.getmeregistered.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmeregistered.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625144628id_/https%3A//secure.getmeregistered.com/privacy_policy.php%23top) for the most accurate reproduction.*
 
 # privacy policy at GetMeRegistered.com
 
-updated: July 25, 2012
+updated: July 25, 2012   
+last reviewed: May 6, 2014
 
 Get Me Registered, owner of GetMeRegistered.com, respects site visitors' personal privacy. This document describes how we use the information you provide. This policy applies only to Get Me Registered's use of your information as collected on this website. By providing your information during the use of this site, you attest your understanding and acceptance of this policy.
 
@@ -30,8 +31,14 @@ Registrant information is provided to event organizers, only for their events. G
 
 Payment information is sent via secure, encrypted HTTP (SSL) to a transaction processor. Once the processor approves or declines the transaction, payment data are discarded by Get Me Registered, except as described in the Information Collected section, above.
 
+## Our Promise
+
+Registrants' personal information will never be sold, traded, or disseminated in any way.
+
+Many other providers take your registrants' personal information and sell it to third-party companies. Your participants deserve better! Trust. Experience. Service. That's GetMeRegistered.com
+
 ## Contacting Get Me Registered
 
-[Customer service inquiries may be sent to: ](https://web.archive.org/contact.php)
+Customer service inquiries may be sent to:[ ](https://web.archive.org/contact.php#top)
 
-[ service@getmeregistered.com ](https://web.archive.org/contact.php)
+[ service@getmeregistered.com ](https://web.archive.org/contact.php#top)
