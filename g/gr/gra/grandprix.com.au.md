@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519001034id_/http%3A//grandprix.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053959id_/http%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 2014 Formula 1® Australian Grand Prix
+# Privacy Policy | 2014 Formula 1 Australian Grand Prix
 
 The Australian Grand Prix Corporation (AGPC) respects your privacy and is committed to the protection of your personal information. This Policy outlines the policy of AGPC in managing personal information which it holds.
 
@@ -41,14 +41,14 @@ AGPC collects personal information in a number of ways, including:
   * directly from you by phone, email, meetings, correspondence or from application forms you have submitted to us;
   * from third parties such as credit reporting agencies or your representatives;
   * from publicly available sources of information;
-  * from service-providers who manage the services AGPC provides to you (for example, Foxtix or the Grand Prix Travel Office); and
+  * from service-providers who manage the services AGPC provides to you (for example, Ticketmaster or the Grand Prix Travel Office); and
   * from AGPC’s own records.
 
 
 
 ## Web Site Collection
 
-AGPC collects personal information from its web sites ([www.grandprix.com.au](http://www.grandprix.com.au/ "www.grandprix.com.au") and [www.motogp.com.au](http://www.motogp.com.au/ "www.motogp.com.au")) through subscription. These web sites will, from time to time, contain links to other web sites. AGPC is not responsible for the privacy practices or the content of such other web sites.
+AGPC collects personal information from its web sites ([www.grandprix.com.au](http://www.grandprix.com.au/) and [www.motogp.com.au](http://www.motogp.com.au/)) through subscription. These web sites will, from time to time, contain links to other web sites. AGPC is not responsible for the privacy practices or the content of such other web sites.
 
 ## How might AGPC use and disclose your personal information?
 
@@ -114,9 +114,9 @@ This Policy will be reviewed from time to time to take account of new laws and t
 If you have any questions about privacy-related issues please contact AGPC’s Privacy Officer:
 
 **Phone** : (03) 9258 7100  
-**Facsimile** : (03) 9699 3727  
-**Address** : AGPC Privacy Officer  
+ **Facsimile** : (03) 9699 3727  
+ **Address** : AGPC Privacy Officer  
 Australian Grand Prix Corporation  
 PO Box 577  
 SOUTH MELBOURNE VIC 3205  
-**Email** : [privacy@grandprix.com.au](mailto:privacy@grandprix.com.au)
+ **Email** : [privacy@grandprix.com.au](mailto:privacy@grandprix.com.au)
