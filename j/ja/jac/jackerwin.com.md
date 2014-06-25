@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jackerwin.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128011748id_/http%3A//jackerwin.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackerwin.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103034id_/http%3A//jackerwin.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Jack Erwin
+# Privacy Policy - Jack Erwin
 
 #### Section 1: What do we do with your information?
 
@@ -20,11 +20,11 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at null or mailing us at:
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at help@jackerwin.com or mailing us at:
 
 Jack Erwin, Inc.  
-154 W 27th St #4E  
-New York, NY 10001
+Lafayette St #3E  
+New York, US 10012
 
 #### Section 3: Disclosure
 
@@ -102,7 +102,7 @@ If our store is acquired or merged with another company, your information may be
 
 #### Questions and Contact Information
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at null or by mail at:
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at help@jackerwin.com or by mail at:
 
 Jack Erwin, Inc.  
 154 W 27th St #4E  
