@@ -1,55 +1,55 @@
-> *The following text is extracted and transformed from the apothica.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814213712id_/http%3A//apothica.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apothica.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121959id_/http%3A//apothica.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Apothica.com Privacy Policy
 
   *   * [SEE ALL BRANDS](https://web.archive.org/see-all-brands-ap.html)
 
 
-  * [Eminence (165)](http://apothica.com/b:Eminence.html)
-  * [Isadora (136)](http://apothica.com/b:Isadora.html)
-  * [SpaRitual (136)](http://apothica.com/b:SpaRitual.html)
-  * [Voluspa (124)](http://apothica.com/b:Voluspa.html)
-  * [Clarins (113)](http://apothica.com/b:Clarins.html)
-  * [Stila Cosmetics (109)](http://apothica.com/b:Stila+Cosmetics.html)
-  * [Travel Size Products (710)](http://apothica.com/pt:Travel+Size+Products.html)
-  * [Treatments (646)](http://apothica.com/pt:Treatments.html)
-  * [Cleansers (295)](http://apothica.com/pt:Cleansers.html)
-  * [Brushes (278)](http://apothica.com/pt:Brushes.html)
-  * [Grooming Tools (268)](http://apothica.com/pt:Grooming+Tools.html)
-  * [Tools (268)](http://apothica.com/pt:Tools.html)
-  * [Anti-Aging (726)](http://apothica.com/d:Anti-Aging.html)
-  * [Hydrating (593)](http://apothica.com/d:Hydrating.html)
-  * [Cream (548)](http://apothica.com/d:Cream.html)
-  * [Soothing (294)](http://apothica.com/d:Soothing.html)
-  * [Brightening (291)](http://apothica.com/d:Brightening.html)
-  * [Exfoliating (262)](http://apothica.com/d:Exfoliating.html)
-  * [Face (2111)](http://apothica.com/sca:Face.html)
-  * [Body (891)](http://apothica.com/sca:Body.html)
-  * [Eyes (698)](http://apothica.com/sca:Eyes.html)
-  * [Tools (417)](http://apothica.com/sca:Tools.html)
-  * [Lips (404)](http://apothica.com/sca:Lips.html)
-  * [Bath (396)](http://apothica.com/sca:Bath.html)
-  * [Skin Care (3309)](http://apothica.com/pc:Skin+Care.html)
-  * [Makeup (1680)](http://apothica.com/pc:Makeup.html)
-  * [Bath & Body (1181)](http://apothica.com/pc:Bath+%26+Body.html)
-  * [Hair Care (440)](http://apothica.com/pc:Hair+Care.html)
-  * [Fragrance (350)](http://apothica.com/pc:Fragrance.html)
-  * [Mineral Makeup (273)](http://apothica.com/pc:Mineral+Makeup.html)
-  * [Vitamin E (428)](http://apothica.com/i:Vitamin+E.html)
-  * [Aloe (345)](http://apothica.com/i:Aloe.html)
-  * [Green Tea (342)](http://apothica.com/i:Green+Tea.html)
-  * [Shea Butter (294)](http://apothica.com/i:Shea+Butter.html)
-  * [Peptides (252)](http://apothica.com/i:Peptides.html)
-  * [Lavender (181)](http://apothica.com/i:Lavender.html)
+  * [Eminence (169)](http://apothica.com/b:Eminence.html)
+  * [SpaRitual (117)](http://apothica.com/b:SpaRitual.html)
+  * [Bumble and bumble (86)](http://apothica.com/b:Bumble+and+bumble.html)
+  * [La Roche-Posay (78)](http://apothica.com/b:La+Roche-Posay.html)
+  * [Peter Thomas Roth (69)](http://apothica.com/b:Peter+Thomas+Roth.html)
+  * [Zents (69)](http://apothica.com/b:Zents.html)
+  * [Treatments (537)](http://apothica.com/pt:Treatments.html)
+  * [Travel Size Products (413)](http://apothica.com/pt:Travel+Size+Products.html)
+  * [Cleansers (234)](http://apothica.com/pt:Cleansers.html)
+  * [Moisturizers (211)](http://apothica.com/pt:Moisturizers.html)
+  * [Nail Polish (139)](http://apothica.com/pt:Nail+Polish.html)
+  * [Sunscreen (134)](http://apothica.com/pt:Sunscreen.html)
+  * [Anti-Aging (688)](http://apothica.com/d:Anti-Aging.html)
+  * [Hydrating (463)](http://apothica.com/d:Hydrating.html)
+  * [Cream (339)](http://apothica.com/d:Cream.html)
+  * [Firming (277)](http://apothica.com/d:Firming.html)
+  * [Brightening (268)](http://apothica.com/d:Brightening.html)
+  * [Exfoliating (219)](http://apothica.com/d:Exfoliating.html)
+  * [Face (1489)](http://apothica.com/sca:Face.html)
+  * [Body (400)](http://apothica.com/sca:Body.html)
+  * [Eyes (301)](http://apothica.com/sca:Eyes.html)
+  * [Hair (197)](http://apothica.com/sca:Hair.html)
+  * [Sun Care (137)](http://apothica.com/sca:Sun+Care.html)
+  * [Bath (131)](http://apothica.com/sca:Bath.html)
+  * [Skin Care (2154)](http://apothica.com/pc:Skin+Care.html)
+  * [Makeup (538)](http://apothica.com/pc:Makeup.html)
+  * [Bath & Body (479)](http://apothica.com/pc:Bath+%26+Body.html)
+  * [Hair Care (233)](http://apothica.com/pc:Hair+Care.html)
+  * [Mineral Makeup (122)](http://apothica.com/pc:Mineral+Makeup.html)
+  * [Fragrance (120)](http://apothica.com/pc:Fragrance.html)
+  * [Vitamin E (283)](http://apothica.com/i:Vitamin+E.html)
+  * [Green Tea (243)](http://apothica.com/i:Green+Tea.html)
+  * [Aloe (200)](http://apothica.com/i:Aloe.html)
+  * [Shea Butter (189)](http://apothica.com/i:Shea+Butter.html)
+  * [Peptides (178)](http://apothica.com/i:Peptides.html)
+  * [Vitamin C (144)](http://apothica.com/i:Vitamin+C.html)
 
   
 | 
 
 Last updated February 5, 2010
 
-Thank you for visiting Apothica.com ("Apothica"). We want you to know that your privacy is important to us. Our customers are at the heart of everything we do, and we strive to ensure your experience with Apothica is one that you will want to repeat and share with your friends. Part of our commitment to you is to respect and protect the privacy of the personal information you provide to us. The information below is designed to inform you of what information we collect, why we collect such information, and how we secure and use the information we collect. This Privacy Policy should be read in conjunction with our [Terms of Service](https://web.archive.org/web/20130814213712id_/http%3A//apothica.com/disclaimer.html).
+Thank you for visiting Apothica.com ("Apothica"). We want you to know that your privacy is important to us. Our customers are at the heart of everything we do, and we strive to ensure your experience with Apothica is one that you will want to repeat and share with your friends. Part of our commitment to you is to respect and protect the privacy of the personal information you provide to us. The information below is designed to inform you of what information we collect, why we collect such information, and how we secure and use the information we collect. This Privacy Policy should be read in conjunction with our [Terms of Service](https://web.archive.org/web/20140625121959id_/http%3A//apothica.com/disclaimer.html).
 
-When you submit your personal information to us, you are giving us your consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy. We are always available to discuss your questions or concerns regarding this Privacy Policy and our privacy practices. If you would like to speak to a customer service representative, please contact us using one of the methods listed on the [Contact Us](https://web.archive.org/web/20130814213712id_/http%3A//apothica.com/contactus.html) page of our Web site. Please address your questions or concerns to the Customer Service department.
+When you submit your personal information to us, you are giving us your consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy. We are always available to discuss your questions or concerns regarding this Privacy Policy and our privacy practices. If you would like to speak to a customer service representative, please contact us using one of the methods listed on the [Contact Us](https://web.archive.org/web/20140625121959id_/http%3A//apothica.com/contactus.html) page of our Web site. Please address your questions or concerns to the Customer Service department.
 
 Apothica will occasionally update this Privacy Policy. When a revision is made we will revise the "last updated" date on this page. We encourage you to check the date of our Privacy Policy each time you visit our Web site for any updates or changes. Your use of our Web site constitutes your consent to this Privacy Policy, including any changes or updates.
 
@@ -59,7 +59,7 @@ Apothica will occasionally update this Privacy Policy. When a revision is made w
 
 Our Site is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices concerning our Site and have our privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact the Customer Service using on of the methods a listed on the [Contact Us](https://web.archive.org/web/20130814213712id_/http%3A//apothica.com/contactus.html) page of our Site. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact the Customer Service using on of the methods a listed on the [Contact Us](https://web.archive.org/web/20140625121959id_/http%3A//apothica.com/contactus.html) page of our Site. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 [](http://www.truste.org/ivalidate.php?url=apothica.com&sealid=101)
 
@@ -103,13 +103,13 @@ OUR SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A USER'S HARD DRIVE TO GATHER A 
       * Web beacons assist in delivering cookies and help us determine whether a Web page on our Site has been viewed and, if so, how many times. For example, any electronic image on our Site, such as an ad banner, can function as a Web beacon.
       * We may use third-party advertising companies to help us tailor our Site's content to users or to serve ads on our behalf. These companies may employ cookies and Web beacons to measure advertising effectiveness (such as which Web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and Web beacons is not linked to you directly.
 
-As an example, Facebook collects certain information via cookies and Web beacons to determine which Web pages are visited or what products are purchased. Please note that any information collected by Facebook via cookies and Web beacons is not linked to any customer's personal information collected by us.
+As an example, Facebook collects certain information via cookies and Web beacons to determine which Web pages are visited or what products are purchased. Please note that any information collected by Facebook via cookies and Web beacons is not linked to any customer's personal information collected by us. As another example, this site uses Remarketing with Google Analytics to advertise online.
 
     * Log Files: As is true of most Web sites, our Site's servers automatically recognizes the Internet URL from which you access our Site as well as the site that you came from. We may also log your Internet protocol ("IP") address, Internet service provider, browser type, operating system and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address indicates your internet service provider)
 
     * Age: We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on our Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
 
-    * Product Reviews: You may choose to submit a product review. If you post a review, you have the option to enter your name and email address. If you submit a review, your name or alias will be visible to other users but your email address will be kept private. Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to our Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information. Your review or comment might be altered or deleted if inappropriate words or terms have been used. You may withdraw your review at any time by contacting our Customer Service department. Contact information for Customer Service can be found on the [Contact Us](https://web.archive.org/web/20130814213712id_/http%3A//apothica.com/contactus.html) page of our Site.
+    * Product Reviews: You may choose to submit a product review. If you post a review, you have the option to enter your name and email address. If you submit a review, your name or alias will be visible to other users but your email address will be kept private. Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to our Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information. Your review or comment might be altered or deleted if inappropriate words or terms have been used. You may withdraw your review at any time by contacting our Customer Service department. Contact information for Customer Service can be found on the [Contact Us](https://web.archive.org/web/20140625121959id_/http%3A//apothica.com/contactus.html) page of our Site.
 
     * External Reviews: We use a series of external review services such as Bizrate.com to permit shoppers to rate their experiences while visiting and shopping at our Sites. After placing an order at our Site, you may receive the opportunity to provide feedback on your experience. This choice is optional and will not affect your order or service from our Site, whether or not you choose to provide feedback. Your feedback is collected by the external service, not us, and is governed by their privacy policies. Contact the respective review service to view their privacy polices (for example, Bizrate's privacy policy is available at <http://shop.bizrate.com/content/privacy.html>)
 
@@ -135,6 +135,8 @@ As an example, Facebook collects certain information via cookies and Web beacons
       * We may share non-personal information (such as the number of daily visitors to a particular Web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
 
       * Business Transfer. Your personal information may be disclosed as part of any merger, sale of company assets or acquisition, as well as in the event of an insolvency, bankruptcy or receivership, in which personal information would be transferred as one of the business assets of the Company.
+
+      * This site and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to this website. This site will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that merger.
 
 
 
