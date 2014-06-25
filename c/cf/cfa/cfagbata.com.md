@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cfagbata.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128170558id_/http%3A//www.cfagbata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfagbata.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002822id_/http%3A//www.cfagbata.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Author | Speaker | Coach | Digital Media Consultant | Business Expert
+# Privacy Policy | CFA is an Author | Business Coach | ICT Expert | SpeakerCFA is an Author | Business Coach | ICT Expert | Speaker
 
 ### Welcome to the Privacy Policy page of www.cfagbata.com, also Conditioned for Accomplishments (the “Site”).
 
-We understand that privacy online is important to users of our Site and this policy governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various [services](http://www.cfagbata.com/services/ "services") offered by cfagbata.com (collectively, “[Services](http://www.cfagbata.com/services/ "Services")”) (“Authorized Customers”).
+We understand that privacy online is important to users of our Site and this policy governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various [services](http://www.cfagbata.com/services/ "services") offered by cfagbata.com (collectively, “Services”) (“Authorized Customers”).
 
  **cfagbata.com respects your privacy**
 
@@ -24,7 +24,7 @@ cfagbata.com will never ask for Credit Card details and request that you **Do No
 
  **External Sites**
 
-cfagbata.com is not responsible for the content of external Internet sites. You are advised to read the [privacy policy](http://www.cfagbata.com/privacy-policy/ "privacy policy") of external sites before disclosing any personal information.
+cfagbata.com is not responsible for the content of external Internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
 
  **Cookies**
 
@@ -38,7 +38,7 @@ A “cookie” is a small data text file that is placed in your browser and allo
   * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet.
 
 
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.cfagbata.com/privacy-policy/ "privacy policy").
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 
 
