@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpinspiration.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811094808id_/http%3A//wparchive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpinspiration.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625202852id_/http%3A//wparchive.com/privacy) for the most accurate reproduction.*
 
-# Privacy - WP Archive
+# Privacy « WP Archive WP Archive
 
 The privacy of our visitors to wparchive.com is important to us.
 
