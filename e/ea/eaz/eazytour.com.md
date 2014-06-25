@@ -1,42 +1,60 @@
-> *The following text is extracted and transformed from the eazytour.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526225139id_/http%3A//www.eazytour.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eazytour.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111056id_/http%3A//www.eazytour.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### **Privacy of our customers**
+**What information do we collect?**
 
-EazyTour.com respects your individual privacy. We have therefore adopted this Privacy Policy that represents our commitment to the protection of your privacy. EazyTour.com is the sole owner of the information collected on this site. We do not, and in the future will not, sell your personally identifiable information to anyone. 
+We collect information from you when you register on our site or place an order. 
 
-We only need your personal information for fast and easy service, and we only share this with the hotel of your choice. They need it to identify you upon arrival or in case they need to contact you in case of changes in your booking. We never share your personal data with other parties except if the Dutch government obliges us to do so. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number, credit card information or EazyTour. You may, however, visit our site anonymously.
 
-#### **Cookie Statement:**
+ **What do we use your information for?**
 
-EazyTour.com makes use of cookies; small simple text files that are stored on your hard drive or computer. These files do not harm your computer in any way. The cookies can never lead back to any personal details and do not contain your name or e-mail address; they are just stored under a number that recognizes your computer. Cookies are used to trace which information, products or services interest you, so more personal advertisement can be directed at you, on this and other websites; to register how often an advertisement is displayed and to prevent that you see a specific advertisement too often. They can also save your set preferences for a specific site or service for your convenience. At any time, you can set your cookies from your browser settings. You can switch them off totally, or be warned when a website wants to set a cookie for you. If you decide to disable cookies, chances are you cannot fully use the services of EazyTour.com. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-#### **Your card details are safe:**
+; To process transactions
 
-We use your card details to guarantee the booking, some deals however require prepayment at the time of booking. The conditions can be found in the descriptions of the hotel and they are shown in the booking process as well.   
-The website of EazyTour.com is secured with the SSL technology (Secure Socket Layer). By using this technology your personal data and card details will be encrypted before this information will be sent to our secure servers.   
-To protect our customers, EazyTour.com’s servers and network are protected with firewalls and other anti-hacker technologies. Therefore we can guarantee our you that providing us with your card details is safe and secure. Rest assured, EazyTour.com will never sell your personal information. You can count on us to keep your credit card information secure and always protect your privacy. 
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-#### **SSL Technology - secured sending of information:**
+**How do we protect your information?**
 
-The SSL encryption process converts the information you enter, into bits of code, which are securely transmitted over the Internet when you submit your booking form. This scrambled data cannot be read as the information travels over the Internet.   
-Once the encrypted data is received by our secure server, it is translated back into its original form so that our systems can read and process it. Your credit card information is not transmitted over the Internet again. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order
 
-#### **Newsletters:  **
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-EazyTour.com’s newsletters (if applicable) are optional extras for registered users of EazyTour.com to keep you up to date with our latest news and offers. We hope you will find these updates useful and interesting. At any time you can unsubscribe to these newsletters through your account links on our homepage or by contacting: hotelsupport@eazytour.com.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-#### **Affiliates:  **
+ **Do we use cookies?**
 
-An affiliate is a website not owned by or operated by EazyTour.com, but uses EazyTour.com’s data and booking capabilities for processing hotel reservations. The EazyTour.com name may or may not appear on the Affiliate site. You may have accessed EazyTour.com via one of our Affiliate websites. We may share personally identifiable information with the respective Affiliate partner by providing it with reports listing the hotel bookings made via such Affiliate partner’s website. EazyTour.com is not, however, responsible for the privacy policies of such other sites. We encourage you to read the privacy statement of the Affiliate and each and every website you visit that collects personally identifiable information. This Privacy Policy applies solely to information collected by the EazyTour.com website. 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-#### **Email correspondence for confirmation and extra service:**
+We use cookies to understand and save your preferences for future visits.
 
-After you have made your booking on our website, we send you an email to confirm your booking. You don’t need to present your booking confirmation at the hotel; your reference is your given guest name.   
-To develop our booking service, we may send you after sales emails. If you do not appreciate such emails you can easily opt out by clicking on the Preferences link on the top of our Newsletter. You can alternatively send an email to hotelsupport@eazytour.nl to unsubscribe.   
-Should you have any questions or remarks about our privacy statement, please contact hotelsupport@eazytour.com. 
+ **Do we disclose any information to outside parties?**
 
-#### **Notification of changes:  **
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-Any material changes in the way EazyTour.com uses personal information will be described in future versions of this Privacy policy. We will always post changes at this page so you can keep up to date with what information we collect, how we use it, and under what circumstances, if any we disclose it. If you have any concerns about this policy or our privacy practices send them to hotelsupport@eazytour.com (referring to privacy policy in the subject) and we will attempt to respond as soon as possible. 
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.eazytour.com](http://eazytour.com/www.eazytour.com)
+
+ **Your Consent**
+
+By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+www.eazytour.com  
+54 Nguyen Duc Canh St.  
+Ho Chi Minh City, Vietnam  
+admin@eazytour.com
