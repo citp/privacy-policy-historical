@@ -1,25 +1,28 @@
-> *The following text is extracted and transformed from the desktopict.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228103806id_/http%3A//www.hdewallpaper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopict.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103249id_/http%3A//www.desktopict.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at hdewallpaper.com
+# Privacy Policy at Desktopict.com
 
-**PRIVACY POLICY  for Hdewallpaper.com**  
-**Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+The owners and operators of  **Desktopict.com**  take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+**Server Logs**
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+Like most web sites,  **Desktopict.com**  logs web-, database-, and other server-software usage and access information. This information may include your internet protocal (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, **Hdewallpaper.com**  has no access or control over these cookies that may be used by third party advertisers.
+**Cookies**
 
-**Collection of Personal Information**  
-When visiting **Hdewallpaper.com** , the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+While browsing  **Desktopict.com** , a small number of text files referred to as “cookies” may be created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not promise that every feature of **  **Desktopict.com****  will function as expected without cookies enabled.
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+**Third-Party Advertisers**
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion.
+In order to cover the costs of providing  **Desktopict.com**  as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by  **Desktopict.com** ’s privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
 
-For any problems or questions don’t hesitate to [contact us](http://hdewallpaper.com/contact-us "Contact Us").
+Google Adsense:
+
+We present you the following information about Google and the **  DoubleClick DART cookie**:
+
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+
+Users may opt out of the use of the DART cookie by visiting the  **Google ad and content network privacy policy.**
+
+For any problems or questions don’t hesitate to [Contact Us](http://www.desktopict.com/contact).
