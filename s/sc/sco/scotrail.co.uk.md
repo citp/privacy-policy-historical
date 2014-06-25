@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scotrail.co.uk privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626050411id_/http%3A//www.scotrail.co.uk/content/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotrail.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625143947id_/https%3A//www.scotrail.co.uk/content/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy policy - ScotRail
+# Privacy and cookies policy - ScotRail
 
 Privacy refers to information we obtain about you and the use we make of it in the course of our business. We also have a Security Statement that describes how sensitive information is kept safe and secure.
 
@@ -55,8 +55,106 @@ By using the Site you consent to us using your personal information for the purp
 
 ## What Are Cookies And Do You Use Them?
 
-Cookies are small amounts of information which we may store on your computer to enable our server to collect certain information from your web browser. Cookies in themselves do not identify the individual user, just the computer used. Cookies and other similar technology make it easier for you to log on to and use the Site during future visits. It also allows us to monitor website traffic, to identify you when you visit this Site, to personalise the content of the Site for you and to enable you to both carry out transactions and have access to information about your account. Cookies themselves only record which areas of the site have been visited by the computer in question, and for how long. Allowing us to create a cookie does not give us access to the rest of your computer and we will not use cookies to track your online activity once you leave our site. Cookies are read only by the server that placed them, and are unable to execute any code or virus. With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. If you want to know how to do this please look at the help menu on your web browser. However, please note that switching off cookies will mean that you may not be able to use certain features on our Site. Find out more about the use of cookies and on how to switch off cookies on [www.cookiecentral.com](http://www.cookiecentral.com/).
+Our website (www.scotrail.co.uk) uses cookies. These are small text files that are stored on your computer or handheld device in order to make sure this site’s as easy to use as possible and give you an enhanced browsing experience. With the information these files provide us with, we can keep improving our website content, appearance and how it works in general.
 
+###  **What cookies do we use?**
+
+ **Strictly Necessary Cookies  **  
+These cookies are essential to the website and are required in order for the website to operate. They support features such as;
+
+  * Linking a user to a session so that they can move from one page to the next.
+  * Detecting software on your computer which enables content on the site.
+  * Storing a previously saved journey so we can tell you of any journey updates.
+
+
+
+ **Performance Cookies  **  
+These cookies aren’t essential – but the anonymous information they provide us with is really helpful. We use these cookies to;
+
+  * Collect information about how our website is used (including which pages are visited most often, error messages and how users came to visit our website).
+  * Help us ensure that the content and features on our website are relevant for your future visits.
+
+
+
+ **Targeting or Advertising Cookies**  
+These cookies are used to determine and deliver adverts that are more relevant to you. These cookies collect information about users browsing habits. They’re typically placed by advertising networks and are shared with other organisations and advertisers.
+
+ **If you’d like to change your Cookies settings…**
+
+Here’s how to change your settings if you want to;
+
+Check the 'Help' function of your browser to determine how to update your cookie settings. If you are having difficulty there, we recommend the website: http://www.aboutcookies.org/default.aspx. It contains a step-by-step guide explaining how to update your cookies settings on most web browsers. 
+
+Please note that, in a few cases, switching off or deleting cookies may reduce the functionality of or prevent access to certain websites (including this website.) 
+
+ **More information**  
+For specific information on our website and how it uses cookies, we’ve included the following table.
+
+ **CMS**
+
+ **Classification:** Strictly necessary cookies
+
+Set by the site, these session cookies are used to determine if your browser supports javascript. They allow you to do things like make a booking and move from one page to the next. These cookies expire at the end of the session. 
+
+Name| Expires  
+---|---  
+The session ID                                  | Immediately                                         
+has_js| session  
+  
+ **Doubleclick  **
+
+ **Classification:** Targeting or advertising cookies
+
+These cookies are set by ad tracking programs spotlight or floodlight. In short, these types of cookies are used to help us understand the relevance and effectiveness of the advertising that appears on our page. They can’t be tracked back to an individual. For more information on how these cookies work click [here](http://www.google.com/policies/privacy/ads/).
+
+Name| Expires  
+---|---  
+The session ID                                  | Immediately                                         
+has_js| session  
+  
+ **Google Analytics  **
+
+ **Classification:** Performance cookies
+
+The following four cookies are set by Google analytics to track visits to the site. These cookies allow us to understand how our site’s performing and improve it where necessary. These cookies are completely anonymous and don’t contain any personal information. For more information on how these cookies work along with Google Analytics click [here](http://www.google.com/policies/privacy/ads/).
+
+Name| Expires  
+---|---  
+The session ID                                  | Immediately                                         
+has_js| session  
+  
+ **Booking engine**
+
+**Classification:** Functionality and Performance cookies
+
+Name| Details| Expiry  
+---|---|---  
+sess_track| This session cookie identifies the user to the website using a unique randomly generated id. Once the user leaves the website the session ends.| Session  
+WebTisPersonalisation| This cookie stores a unique token that can be used across the website to enable personalisation.| Session or 1st Jan 2100 if the user selects: "Remember me"  
+WebTisToken| A unique token that can be used by web pages not included inside the online booking engine to enable the personalisation of those web pages. Is only present when the user is logged in.| Session  
+WebTisLogin| This cookie indicates whether a user is logged in or not as well as storing items from the shopping basket.| Session  
+perm_track| This cookie is a unique randomly generated id that links the website users' actions across their website visits (sessions). Primarily this is used for fraud detection although it is also used for analytics.| 1st Jan 2100  
+ASP.NET_SessionID| A token generated by the webserver that powers the website this value is used to recognise the user and link their session data to their website usage. The website cannot function without this cookie.| Session  
+SecureToken| Used by SSL this randomly generated ID allows session validation in the secure areas of the website. Purchases cannot be made without this cookie.| Session  
+Google Analytics cookies: _utma, _utmb, _utmc, _utmz, utmv| These cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our site, using a service provided by Google Analytics. For more information about Google's privacy policy, please use this link:http://www.google.com/intl/en/policies/privacy.|    
+WebTrends cookies (1st and 3rd party)|  |    
+WT_FPC| Allows us to track website usage and general user behaviour. This cookies stores the date and time the cookie was created, the last visit, and the start of the most recent session.| 10 years  
+ACOOKIE| This cookie is used to track general website usage to facilitate site improvements| 2 years  
+  
+ **National Rail**
+
+ **Classification:**  Functionality / Performance cookies
+
+The following cookies are set by national rail. They are a mixture of session cookies and google analytics for the national rail website.  In order to provide you with the most up-to-date station information we pull in data from the National Rail website. For more information on how National Rail uses cookies click [here](http://www.nationalrail.co.uk/privacy/).
+
+Name| Expires  
+---|---  
+rsi_segs                                             | Now + 13 Months                                    
+JSESSIONID   | End of session  
+__utma| Now + 2 Years  
+_umtb| Now +30 Minutes  
+_umtz| Now + 6 Months  
+  
 ## Disclosures
 
 The information you provide to us will be held on our server in the United Kingdom and may be accessed by or given to our staff and to third parties including our group companies and business partners (such as our web agency, database management company and, government bodies and law enforcement agencies, successors in title to our business and suppliers we engage to process data on our behalf, who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information, fulfil and deliver orders, process credit card payments and provide support and other services on our behalf. We may also:
