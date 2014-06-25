@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the pawbonito.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011230654id_/http%3A//pawbonito.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pawbonito.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625224325id_/http%3A//www.pawbonito.com/privacy-policy) for the most accurate reproduction.*
 
-# Disclaimer | Best Animal Videos | PawBonito.com
+# Privacy Policy | Best Animal Videos | PawBonito.com
 
 Aug 4, 2013
 
-### Disclaimer
+### Privacy Policy
 
-All videos/images, unless otherwise noted, were taken from the Internet and are assumed to be in the public domain. These videos/images are not presented as our own work, unless we note it under the specific post. Copyright still belongs to the owner / creator of each work. In the event that there is still a problem or error with copyrighted material, the break of the said copyright is neither intentional. The material in question will be removed at once with any request with presented proof.
-
-All Links/embedded Videos, unless otherwise noted, were taken from the Internet and are assumed to be in the public domain. These content are not presented as our own work, unless we note it under the specific post. Copyright still belongs to the owner / creator of each work. In the event that there is still a problem or error with copyrighted material, the break of the said copyright is neither intentional. The material in question will be removed at once with any request with presented proof.
+All videos, unless otherwise noted, were taken from the Internet and are assumed to be in the public domain. These videos are not presented as our own work, unless we note it under the specific post. Copyright still belongs to the owner / creator of each work. In the event that there is still a problem or error with copyrighted material, the break of the said copyright is neither intentional. The material in question will be removed at once with any request with presented proof.
 
 **Privacy Policy for www.pawbonito.com**
 
@@ -22,13 +20,9 @@ Like many other Web sites, www.pawbonito.com makes use of log files. The informa
 **Cookies and Web Beacons**  
 www.pawbonito.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.pawbonito.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.pawbonito.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense
+**Display Ads**
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.pawbonito.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
