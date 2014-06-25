@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehackernews.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209160514id_/http%3A//thehackernews.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehackernews.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625035837id_/http%3A//thehackernews.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# The Hacker News - Security in a Serious Way: Privacy Policy
+# Privacy Policy
 
 **Privacy Policy for TheHackerNews.com**  
 
