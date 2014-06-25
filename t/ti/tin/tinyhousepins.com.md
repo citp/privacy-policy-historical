@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tinyhousepins.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220045506id_/http%3A//tinyhousepins.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyhousepins.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081157id_/http%3A//tinyhousepins.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Tiny House Pins
+# Privacy Policy, Disclaimer, Usage Policy & DMCA Policy | Tiny House Pins
 
 TinyHousePins.com Privacy Policy
 
@@ -45,6 +45,52 @@ If TinyHousePins.com is sold, the information we have obtained from you through 
 How You Can Correct or Remove Information
 
 We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on this link and/or use our Contact Us page.
+
+Legal
+
+The information and other content within this website are provided for entertainment purposes only and should not be considered advice. While all information shared here is believed to be accurate, the owner(s) and operator(s) of this website disclaim all warranties expressed, implied or statutory, regarding the accuracy, timeliness, and/or completeness of the information contained within these pages. Please seek advice from a qualified professional before doing anything.
+
+Third Party Affiliate Links
+
+TinyHousePins.com is an affiliate with some of the companies whose products are occasionally mentioned, linked to and recommended on this site. This allows us to earn commissions for sales generated through this website without any extra cost on your part. This, along with advertising, helps support our efforts while helping you find solutions.
+
+DMCA Policy
+
+TinyHousePins.com and Tiny House Media LLC are in compliance with 17 U.S.C. * 512 and the Digital Millennium Copyright Act (DMCA). Our policy is to respond to any infringement notices and take appropriate actions under the DMCA and other applicable intellectual property laws.
+
+If your copyrighted material has been posted on TinyHousePins.com and you want this material removed, you must provide a written communication that details the information listed in the following section. Please be aware that you will be liable for damages (including potential court costs and attorneys’ fees) if you misrepresent information listed on our site that is infringing on your copyrights.
+
+The following elements must be included in your copyright infringement claim:
+
+\- You must provide evidence of the authorized person to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+\- You must provide sufficient contact information so that we may contact you. Please include a valid email address, phone number and mailing address.
+
+\- You must identify in sufficient detail the copyrighted work claimed to have been infringed.
+
+\- You must provide a statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+
+\- You must provide a statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+\- The letter must be signed by the authorized person to act on behalf of the owner, or the owner itself, of the exclusive right that is allegedly being infringed.
+
+You can send the infringement notice to the address below:  
+DMCA Registered Agent  
+Tiny House Media LLC  
+857 3rd ST S  
+Naples, FL 34102  
+United States
+
+Or send an electronic copy to:  
+tinyhousemedia@gmail.com
+
+Once the proper bona fide infringement notification is received by the Designated Agent it is company policy to do the following:
+
+\- Remove or disable access to the allegedly infringing material
+
+\- To notify the content provider, user, member, or other contributor that the material has been removed or disabled
+
+\- Repeat offenders (content providers, users, members, or other contributors) will have the infringing material removed from the system and the company will terminate the content provider’s access to contributing.
 
 Updates and Effective Date
 
