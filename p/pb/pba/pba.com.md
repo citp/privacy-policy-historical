@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pba.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215162549id_/http%3A//www.pba.com/Corporate/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pba.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045436id_/http%3A//www.pba.com/Corporate/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | PBA.com
 
@@ -21,8 +21,6 @@ We need to send the information to companies who work on behalf of the PBA to pr
 We are responding to subpoenas, court orders or other legal proceedings; or
 
 We sell or acquire another business, or are acquired by another business, in which case such information may be one of the business assets transferred.
-
-Using email addresses provided at registration or otherwise, the PBA periodically sends out email newsletters and promotional email to our users about services and products offered by the PBA, its affiliates and those entities advertising on our web site. Users can indicate that they do not wish to receive email from PBA, its affiliates or those entities advertising on our web site by completing and submitting the form at <http://forum.pba.com/>. Third parties will not contact our users through the use of our email newsletter lists except through advertisements within the newsletters themselves.
 
 Our site uses session cookies to deliver content specific to users' interests and to honor their preferences. This information is used to assist us in creating a site that will serve the needs of our users.
 
