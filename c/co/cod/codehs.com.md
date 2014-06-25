@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codehs.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104012608id_/http%3A//www.codehs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codehs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060824id_/http%3A//www.codehs.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -45,9 +45,9 @@ We use cookies to understand and save your preferences for future visits and com
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
- **Childrens Online Privacy Protection Act Compliance**
+ **Children's Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
  **Terms and Conditions**
 
