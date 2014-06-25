@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evvnt.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219201636id_/http%3A//evvnt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evvnt.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133047id_/http%3A//evvnt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,15 +8,19 @@ This policy (together with our terms of use and any other documents referred to 
 
 For the purpose of the Data Protection Act 1998 (the Act), We are the data controller.
 
+## INFORMATION WE MAY COLLECT FROM YOU
+
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site [www.evvnt.com](https://web.archive.org/web/20131219201636id_/http://evvnt.com/privacy/www.evvnt.com) (our site). This includes information provided at the time of registering to use our site, purchasing products or requesting further services. We may also ask you for information when you report a problem with our site.
+  * Information that you provide by filling in forms on our site **www.evvnt.com** (our site). This includes information provided at the time of registering to use our site, purchasing products or requesting further services. We may also ask you for information when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.  
 Details of transactions you carry out through our site and of the fulfillment of your orders.
   * Details of your visits to our site and the resources that you access.
 
 
+
+## IP ADDRESSES AND COOKIES
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
@@ -31,9 +35,13 @@ For the same reason, we may obtain information about your general internet usage
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
+## WHERE WE STORE YOUR PERSONAL DATA
+
 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+## USES MADE OF THE INFORMATION
 
 We use information held about you in the following ways:
 
@@ -45,24 +53,36 @@ We use information held about you in the following ways:
 
 
 
+## DISCLOSURE OF YOUR INFORMATION
+
 We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If EVVNT Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If **evvnt** Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
   * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions of supply and other agreements; or to protect Our rights, property, or safety, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. We will not pass on your data to third parties. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [hello@evvnt.com](https://web.archive.org/web/20131219201636id_/http://evvnt.com/privacy/hello@evvnt.com).
+## YOUR RIGHTS
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. We will not pass on your data to third parties. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at **hello@evvnt.com**.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
+## ACCESS TO INFORMATION
+
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+## PAYMENT
 
 We take credit card payment via PayPal – safer, faster, more secure way to pay – your financial details are never shared. PayPal, safeguard your bank, credit or debit card details. As we offer a subscription service your credit cards details will be stored within the PayPal to enable monthly billing. We do not store your details on our internal systems.
 
+## CHANGES TO OUR PRIVACY POLICY
+
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [hello@evvnt.com](https://web.archive.org/web/20131219201636id_/http://evvnt.com/privacy/hello@evvnt.com).
+## CONTACT
 
-Questions, comments and requests regarding payment should be addresses: [payment@evvnt.com](https://web.archive.org/web/20131219201636id_/http://evvnt.com/privacy/payment@evvnt.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to **support@evvnt.com**.
+
+Questions, comments and requests regarding payment should be addressed to  **accounts@evvnt.com**.
