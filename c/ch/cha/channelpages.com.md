@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the channelpages.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116024420id_/http%3A//channelpages.com/meta/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelpages.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072215id_/http%3A//channelpages.com/meta/privacy) for the most accurate reproduction.*
 
-# Find relevant YouTube collaborations. Get paid sponsors for your YouTube channel. List your YouTube channel for FREE! - Channel Pages
+# Channel Pages Privacy Policy
 
 ### What information do we collect?
 
