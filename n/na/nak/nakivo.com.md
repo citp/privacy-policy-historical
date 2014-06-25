@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nakivo.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215172457id_/http%3A//www.nakivo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakivo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070304id_/http%3A//www.nakivo.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy | Nakivo Backup & Replication | NAKIVO.com
 
@@ -8,7 +8,7 @@ recognizes that respecting user privacy over the Internet is of utmost importanc
 
 If you have questions or concerns regarding this statement, you should first contact our site coordinator at marketing [at] nakivo.com or by postal mail to:
 
-**Nakivo Headquarters**  
+**NAKIVO Headquarters**  
 1999 S. Bascom Avenue  
 Campbell, California, USA  
 95008 
