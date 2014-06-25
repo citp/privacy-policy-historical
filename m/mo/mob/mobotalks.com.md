@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mobotalks.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227154203id_/http%3A//mobotalks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobotalks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111724id_/http%3A//mobotalks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MoboTalks
+
+**Privacy Policy for www.mobotalks.com**
 
 MoboTalks.com values our readers privacy .How ever we do collect our readers information to improve our website and to collect statistics of visitors info for our website we use Google Analytics .We never share our readers information with third parties .Your privacy is very important to us.
 
