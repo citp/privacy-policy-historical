@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the captcha.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821175305id_/http%3A//captcha.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captcha.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125925id_/http%3A//captcha.com/privacy.html) for the most accurate reproduction.*
 
 # captcha.com Privacy Policy | captcha.com
 
