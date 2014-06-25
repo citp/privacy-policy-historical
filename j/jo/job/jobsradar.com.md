@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsradar.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420071844id_/http%3A//jobsradar.com/education/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsradar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130721id_/http%3A//www.jobsradar.com/education/privacy_policy) for the most accurate reproduction.*
 
 # JobsRadar.com - Find Jobs. Showcase Your Resume. Get Hired.
 
@@ -22,9 +22,9 @@ To cancel or correct your personal information: send an email with your User Nam
 To express or ask questions regarding privacy concerns: send an email to info@JobsRadar.com 
 
 Address:  
-600 3rd Ave  
-2nd Floor  
-New York, NY 10016  
+201 Broadway Street  
+Suite 7  
+Cambridge, MA 02139  
 
 
 **Registration**
