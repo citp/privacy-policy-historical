@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independentfashionbloggers.org privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208024110id_/http%3A//heartifb.com/ifb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentfashionbloggers.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065546id_/http%3A//heartifb.com/ifb-privacy-policy) for the most accurate reproduction.*
 
 # IFB Privacy Policy | IFB
 
@@ -7,6 +7,8 @@
 **What information do we collect?**
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+
+[ ](http://heartifb.com/advertise-on-ifb/buy-an-ad-on-ifb/)
 
 Any data we request that is not required will be specified as voluntary or optional.
 
