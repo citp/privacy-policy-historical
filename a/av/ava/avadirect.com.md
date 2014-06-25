@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the avadirect.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807053015id_/http%3A//www.avadirect.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avadirect.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103905id_/http%3A//www.avadirect.com/privacy.asp) for the most accurate reproduction.*
 
 # AVADirect Custom Computers - Privacy and Security
 
 **Transaction Security**
 
-AVADirect recognizes your right for privacy and full confidentiality while shopping online. All sensitive data such as billing and shipping information are securely encrypted using Secure Socket Layers (SSL) encryption protocol. That is why you maintain control over your personal data at avadirect.com. AVADirect is commited to provide up-to-date secure environment for online shoppers. The avadirect.com web site is registered with independent site identification authorities such as [Trustwave](http://www.trustwave.com/) global certificate authority (CA) to confirm identity of our online store before any transmission is sent. Trustwave SSL Certificate gives all parties the confidence that information is being sent securely and to the right place. 
+AVADirect recognizes your right for privacy and full confidentiality while shopping online. All sensitive data such as billing and shipping information are securely encrypted using Secure Socket Layers (SSL) encryption protocol. That is why you maintain control over your personal data at avadirect.com. AVADirect is commited to provide up-to-date secure environment for online shoppers. The avadirect.com web site is registered with independent site identification authorities such as [GoDaddy.com](http://www.godaddy.com/) global certificate authority (CA) to confirm identity of our online store before any transmission is sent. Trustwave SSL Certificate gives all parties the confidence that information is being sent securely and to the right place. 
 
 **Fraud Protection**
 
