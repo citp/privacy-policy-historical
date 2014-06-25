@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the collectionsetc.com privacy policy that was archived on 2013-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204090031id_/http%3A//www.collectionsetc.com/helpPrivacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the collectionsetc.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625064431id_/http%3A//www.collectionsetc.com/helpPrivacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="//track.securedvisit.com/js/sv.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var mobileParams = '';</script><script type="text/javascript" src="//s3.amazonaws.com/madmobile/collectionsetc/js/mobiledirect.js"></script>
  
     
     <title>Collections Etc.: Privacy &amp; Security</title>
@@ -10,53 +10,269 @@
     <meta http-equiv="imagetoolbar" content="no">     
     <meta name="BaseUrl" content="http://www.collectionsetc.com/">
     <link rel="shortcut icon" media="all" href="/images/Misc/favicon.ico">
-    <link rel="stylesheet" type="text/css" media="all" href="/css/global.css">
+    <link rel="stylesheet" type="text/css" media="all" href="/css/global.css?06092014_4">
     
 	    <link rel="stylesheet" type="text/css" media="all" href="/css/info.css">
 	
-	<script type="text/javascript" async="" src="//track.securedvisit.com/js/sv.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js" type="text/javascript"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js" type="text/javascript"></script>
     <script type="text/javascript" src="/js/jQuery.js?09042012"></script>
-    <script type="text/javascript" src="/js/PageFunctions.js"></script>
+    <script type="text/javascript" src="/js/PageFunctions.js?06092014_4"></script>
   
 	
         <script type="text/javascript" src="/js/resxclsx.js"></script>
     
+
 <script type="text/javascript">
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-    var _gaq = _gaq || [];
-    //get url
+    //create GA Tracker
+    ga('create', 'UA-12650871-2', 'collectionsetc.com');
+    //load display features plugin (for demographics)
+    ga('require', 'displayfeatures');
+    //ga('require', 'linkid', 'linkid.js');
 
-    _gaq.push(['_setAccount', 'UA-12650871-2'], ['_setDomainName', '.collectionsetc.com']);
     var url = window.location.href;
     if (url.indexOf('search.aspx') > 0) {
         //search pages
-        try
-        {
-        var pathArray = window.location.pathname.split('/');
-        var searchTerm = pathArray[1];
-         _gaq.push(['_trackPageview', window.location.pathname + '?Ntt=' + searchTerm]);
-         }
-         catch(err)
-         { _gaq.push(['_trackPageview']); }
+        try {
+            var pathArray = window.location.pathname.split('/');
+            var searchTerm = pathArray[1];
+            ga('send', 'pageview', window.location.pathname + '?Ntt=' + searchTerm);
+        }
+        catch (err)
+         { ga('send', 'pageview');}
     }
-    else 
-    {
+    else {
         //non search
-        _gaq.push(['_trackPageview']);
+        ga('send', 'pageview');
     }
-    
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
 </script>
+
 <title>
 
 </title></head>
 <body id="body" itemscope="" itemtype="http://schema.org/WebPage">
-    <div id="SiteOuter">
+    <div id="overlay">
+        <div>
+            
+<!-- targeted_table -->
+<style>
+    .clearfix {
+        clear: both;
+    }
+    .containerSignup,
+    .containerThankYou {
+        font-size: 16px;
+        font-family: "Arial Black", Gadget, sans-serif;
+        color: #fff;
+        line-height: 21px;
+    }
+    .closebutton {
+        position: absolute;
+        right: -20px;
+        top: -20px;
+        cursor: pointer;
+    }
+    #containerSignup {
+        background: #BD0000;
+        width: 560px;
+        text-align: center;
+        position: relative;
+        box-shadow: 3px 3px 15px #333333;
+    }
+    .headline {
+        height: 60px;
+        width: 560px;
+        color: #2d2d2d;
+        background: url(images/content/emailPopSignup-2.png) repeat-x #fffb7e;
+        background: -webkit-linear-gradient(#ffd60a, #fffb7e); /* Safari */
+        background: -o-linear-gradient(#ffd60a, #fffb7e); /* Opera */
+        background: -moz-linear-gradient(#ffd60a, #fffb7e); /* Firefox */
+        background: linear-gradient(#ffd60a, #fffb7e); /* Standard syntax */
+        font-weight: bold;
+        font-size: 35px;
+        line-height: 65px;
+    }
+    .subhead {
+        font-size: 28px;
+        line-height: 55px;
+        font-weight: bold;
+    }
+    .offer {
+        font-size: 95px;
+        font-weight: bold;
+        line-height: 90px;
+    }
+    .subhead-2 {
+        font-size: 43px;
+        line-height: 60px;
+        font-weight: bold;
+    }
+    .box {
+        width: 445px;
+        height: 30px;
+        margin: 0 0 5px 0;
+        -moz-border-radius: 8px;
+        -webkit-border-radius: 8px;
+        -khtml-border-radius: 8px;
+        border-radius: 8px;
+        color: #2d2d2d;
+        font-size: 15px;
+        font-style: italic;
+        padding: 5px;
+    }
+    .nothanks {
+        width: 100px;
+        height: 15px;
+        background: #bbb;
+        padding: 15px;
+        text-align: center;
+        float: left;
+        margin: 5px 0 0 53px;
+        -moz-border-radius: 8px;
+        -webkit-border-radius: 8px;
+        -khtml-border-radius: 8px;
+        border-radius: 8px;
+        cursor: pointer;
+    }
+    .nothanks a {
+        color: #fff;
+        text-decoration: none;
+    }
+    .submit {
+        float: right;
+        margin: 0 48px 0 0;
+        cursor: pointer;
+    }
+    .disclaimer {
+        font-size: 12px;
+        color: #fff;
+        padding: 5px;
+    }
+    .box-23 {
+        width: 560px;
+        height: 500px;
+        z-index: 10002;
+        position: fixed;
+        left: 50%;
+        margin-top: -180px;
+        margin-left: -270px;
+    }
+    /* ThankYou Message */
+     .containerThankYou {
+        background: #fff;
+        width: 540px;
+        border: solid 1px green;
+        color: #2d2d2d;
+        padding: 25px;
+        -moz-border-radius: 8px;
+        -webkit-border-radius: 8px;
+        -khtml-border-radius: 8px;
+        border-radius: 8px;
+        display: none;
+    }
+    .thankyou-header {
+        color: green;
+    }
+    .thankyou-text {
+        font-size: 14px;
+    }
+    .thankyou {
+        cursor: pointer;
+    }
+    /*Error Message */
+   .containerError {
+        background: #fff;
+        width: 540px;
+        border: solid 1px red;
+        color: #2d2d2d;
+        padding: 25px;
+        -moz-border-radius: 8px;
+        -webkit-border-radius: 8px;
+        -khtml-border-radius: 8px;
+        border-radius: 8px;
+        display: none;
+    }
+    .emailError {
+        font-weight: bold;
+        font-style: italic;
+        font-size: 18px;
+        padding: 5px 0 5px 0;
+    }
+    .error-header {
+        font-weight: bold;
+        color: red;
+        font-size: 18px;
+    }
+    .error-text {
+        font-size: 14px;
+    }
+    .error {
+        cursor: pointer;
+    }
+</style>
+
+<div class="box-23">
+    <div class="containerSignup" id="containerSignup">
+        <img class="closebutton" src="/images/content/emailPopClose.png" onclick="ga('send', 'event', 'Popup', 'Click', 'EmailSignup Close Top Right '); CloseOverlay(true);">
+        <div class="headline">
+            <p>Welcome to Collections Etc.</p>
+        </div>
+        <div class="subhead">Sign Up For Exclusive Emails And</div>
+        <div class="offer">SAVE 15%</div>
+        <div class="subhead-2">On Your Order Today!</div>
+
+        <div class="inputrow">
+            <input class="box" id="txtEmailOverlay" name="Enter Your Email." type="text" value="Enter Your Email Address Here and Receive Special Offers." onfocus="if($(this).val() =='Enter Your Email Address Here and Receive Special Offers.'){$(this).val('');}">
+        </div>
+        <div class="emailError" id="emailError"></div>
+        <div class="nothanks"><a onclick="ga('send', 'event', 'Popup', 'Click', 'EmailSignup Close Button'); CloseOverlay(true);">No thanks.</a>
+        </div>
+        <span class="submit"><img onclick="SaveOverlay();" src="/images/content/goButton.png"></span>
+        <div class="clearfix"></div>
+        <div class="disclaimer">*Discount only available for new customers.</div>
+        <!-- <div class="privacy"><a href="/helpPrivacy.aspx">View Our Privacy Policy.</a></p></div> -->
+
+        <a href="index.aspx" manual_cm_re="HP! 2011/19/09 Version A-_-Email Signup Overlay-_-Show!"></a>
+        <a href="index.aspx" manual_cm_sp="HP! 2011/19/09 Version A-_-Email Signup Overlay-_-Show!"></a>
+    </div>
+
+    <div class="containerThankYou" id="containerThankYou">
+        <!-- <img class="closebutton-2" SRC="/images/content/close-overlay-2.png" onClick="CloseOverlay(false)" /> -->
+        <!-- <div class="thankyouheadline"><img src="/images/content/emailPopTY.png" /></div>  -->
+        <div class="thankyou-header"><b>Thank you! Check your inbox for more information.</b>
+        </div>
+        <br>
+        <div class="thankyou-text">New email subscribers qualify for a 15% discount on their next order. Stay tuned for more exciting news from Collections Etc., including exclusive promotions and savings just for you!</div>
+        <br>
+        <div class="thankyou">
+            <img src="/images/content/continue-shopping.png" onclick="CloseOverlay(false)">
+        </div>
+    </div>
+
+    <div class="containerError" id="containerError">
+        <div class="error-header"><b>Error! Something went wrong.</b>
+        </div>
+        <br>
+        <div id="txtTryAgain" class="error-text">Invalid email address. Please try again.</div>
+        <br>
+        <div class="error">
+            <img id="btnTryAgain" src="/images/content/try-again.png" onclick="GoToEmailPopup()">
+        </div>
+    </div>
+</div>
+<!-- end .box-23 -->
+
+
+<!-- /targeted_table -->
+        </div>
+    </div>
+        <div id="SiteOuter">
         <div id="SiteInner">
             <div>
                 
@@ -83,8 +299,10 @@ left:0px;
 </style>
 <![endif]-->
 
-</a><div class="headerLogo"><a href="http://www.collectionsetc.com/">
-</a><a href="http://www.collectionsetc.com"><img src="/images/content/pageElements/CElogoWith1499tag.png" border="0" itemprop="logo"></a>
+</a><div class="headerLogo" itemscope="" itemtype="http://schema.org/Brand"><a href="http://www.collectionsetc.com/">
+<meta itemprop="name" content="Collections Etc.">
+<meta itemprop="image" content="http://www.collectionsetc.com/images/content/pageElements/CElogoWith1499tag.png">
+</a><a href="http://www.collectionsetc.com" itemprop="url"><img src="/images/content/pageElements/CElogoWith1499tag.png" border="0" itemprop="logo" alt="Collections Etc."></a>
 </div>
 
 <!-- /targeted_table -->
@@ -148,8 +366,8 @@ left: -15px;
 #header .emailPromo{
 position: relative;
 top: 50px;
-left: 210px;
-width: 181px;
+left: 205px;
+width: 190px;
 }
 #header .logoTop {
 position: relative;
@@ -270,46 +488,37 @@ border-right: 1px solid #DDDDDD;
 <script type="text/javascript">
 jQuery(document).ready(function(){
 		$('#emailVIPdetails').click(function(){
-		$('#emailVIPinfoContainer').slideDown("fast");
-
-});
-$(function() {
-    _gaq.push(['_trackEvent', 'usersegment', 'Element Off', '',1, true]);	});
-		$('#emailVIP').click(function () {
+		   $('#emailVIPinfoContainer').slideDown("fast");
+                 });
+		 $('#emailVIP').click(function () {
       	        $('#emailVIPinfoContainer').slideUp("fast")
     }); 
 })
 </script>
 
 
-<script type="text/javascript">
-$(function() {
-    _gaq.push(['_trackEvent', 'usersegment', 'mar_noOfferShow_control', '',1, true]);	});
-</script>
-
 <div class="promoBar">
 <div class="onsitePromo" style="width: 430px;">
-<a href="/emailcampaigns.aspx?Target=Category&amp;Category=GIFT&amp;OfferCode=CYBER11&amp;PromoCode=CYBER11"><img src="/images/content/banners/headerBanner_FS15BFD.gif"></a>
+<a href="/Products/14-99-Store/category.aspx/_/N-pxn4"><img src="/images/content/banners/headerBanner_1499.png" "=""></a>
 </div>
 </div>
 
 <div class="emailPromo" id="emailVIPdetails">
-<img src="/images/content/pageElements/emailSignupHeaderBanner_feb2013.png">
+<img src="/images/content/pageElements/emailSignupHeaderBanner_feb2014.png">
 </div>
 
 <div id="emailVIPinfoContainer">
 
 <div class="emailInputBox">
 <div class="emailVIPformField" id="inputBox">
-<form name="frmEmailClubTop" id="frmEmailClubTop" method="post" onsubmit="return checkFormClick('top');"> 
+<form name="frmEmailClubTop" id="frmEmailClubTop" method="post" onsubmit="if(checkFormClick('top')) {ga('send', 'event', 'Page', 'Click', 'EmailSignup Header'); return true;} else {return false;}"> 
 
 <div class="emailVIPformField">
-<input name="txtemailtop" type="text" id="txtemailtop" class="emailVIPtextInput" onfocus="if(this.value=='Enter your email address...' 
-)this.value='';" value="Enter your email address...">
+<input name="txtemailtop" type="text" id="txtemailtop" class="emailVIPtextInput" onfocus="if(this.value=='Enter your email address...' )this.value='';" value="Enter your email address...">
 <div class="emailVIPsubmit"><input src="/images/content/header/submitButtonVIP.png" alt="Sign Up!" border="0" type="image"></div>
 
 <div id="emailVIP" class="detailsBox">
-<img src="/images/content/header/VIP_popBox_verA.png">
+<img src="/images/content/header/vipEmail_feb2014.jpg">
 </div>
 
 </div>
@@ -364,6 +573,7 @@ $(function() {
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/New/Outdoor-amp-Garden/category.aspx/_/N-5ykb0">Outdoor &amp; Garden</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/New/Clothing-amp-Accessories/category.aspx/_/N-5yjuc">Clothing &amp; Accessories</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/New/Etc/category.aspx/_/N-5ylb4">Etc</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/New/Clearance/category.aspx/_/N-5ykro">Clearance</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/New/14-99-Store/category.aspx/_/N-5yldw">$14.99 Store</a></li></ul></div><div class="menuColumn"><ul>
     
 <li class="special">
@@ -379,30 +589,27 @@ $(function() {
                 <div class="menu">
                     <a href="http://www.collectionsetc.com/Products/Gifts/category.aspx/_/N-m2r4" class="" id="aNavLink">Gifts</a>
                     <div class="menuDisplay"><div class="menuWrapper "><div class="menuBorder"><div class="menuColumn">
-                       <ul><li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Gifts-Under-15/category.aspx/_/N-dq38un">Gifts Under $15</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Gifts-Under-10/category.aspx/_/N-dq314u">Gifts Under $10</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Gifts-Under-5/category.aspx/_/N-dq2tf1">Gifts Under $5</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Men/category.aspx/_/N-37u3">Men</a></li>
+                       <ul><li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Men/category.aspx/_/N-37u3">Men</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Women/category.aspx/_/N-3axb">Women</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Toys/category.aspx/_/N-4btlor">Toys</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Girls/category.aspx/_/N-3ju7w6">Girls</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Boys/category.aspx/_/N-3j8sad">Boys</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Baby/category.aspx/_/N-dm9n1h">Baby</a></li></ul></div><div class="menuColumn"><ul>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Baby/category.aspx/_/N-dm9n1h">Baby</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Pets-amp-Animals/category.aspx/_/N-n6ay">Pets &amp; Animals</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Food/category.aspx/_/N-7kijy2">Food</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Religious-amp-Inspirational/category.aspx/_/N-6iet9k">Religious &amp; Inspirational</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/As-Seen-on-TV/category.aspx/_/N-3l133s">As Seen on TV</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Angel-Gifts/category.aspx/_/N-dnnsmz">Angel Gifts</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Collectibles/category.aspx/_/N-3lmisp">Collectibles</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Collectibles/category.aspx/_/N-3lmisp">Collectibles</a></li></ul></div><div class="menuColumn"><ul>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Collectible-Dolls/category.aspx/_/N-6pk0it">Collectible Dolls</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Figurines/category.aspx/_/N-6t4m5g">Figurines</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Food/category.aspx/_/N-7kijy2">Food</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Graduation-Gifts/category.aspx/_/N-3vqwck">Graduation Gifts</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Wedding-amp-Anniversary/category.aspx/_/N-dm9fbn">Wedding &amp; Anniversary</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Religious-amp-Inspirational/category.aspx/_/N-6iet9k">Religious &amp; Inspirational</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Throws-amp-Blankets/category.aspx/_/N-dmsacj">Throws &amp; Blankets</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Toys/category.aspx/_/N-4btlor">Toys</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Patriotic/category.aspx/_/N-5a698">Patriotic</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Jewelry-Gifts/category.aspx/_/N-dkzk2u">Jewelry Gifts</a></li></ul></div><div class="menuColumn"><ul>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Novelty/category.aspx/_/N-3m7ybd">Novelty</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Throws-amp-Blankets/category.aspx/_/N-dmsacj">Throws &amp; Blankets</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Figurines/category.aspx/_/N-6t4m5g">Figurines</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Unique/category.aspx/_/N-cny77">Unique</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Graduation-Gifts/category.aspx/_/N-3vqwck">Graduation Gifts</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Wedding-amp-Anniversary-Gifts/category.aspx/_/N-dm9fbn">Wedding &amp; Anniversary Gifts</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Gifts/Patriotic/category.aspx/_/N-5a698">Patriotic</a></li>
     
 <li class="special">
     <a id="ctl00_ucHeader1_TopNavLevel1_repGlobalNavCollection_ctl02_ucTopSub_hlBestSellers" class="RedText s11 B" href="http://www.collectionsetc.com/Products/Gifts/category.aspx/_/N-m2r4/Ns-0">Gifts Best Sellers</a></li>
@@ -417,20 +624,20 @@ $(function() {
                 <div class="menu">
                     <a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/category.aspx/_/N-magw" class="" id="aNavLink">Holidays &amp; Seasonal</a>
                     <div class="menuDisplay"><div class="menuWrapper "><div class="menuBorder"><div class="menuColumn">
-                       <ul><li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Christmas/category.aspx/_/N-2hqh4r">Christmas</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Holiday-Baking-amp-Cooking/category.aspx/_/N-dkfmhg">Holiday Baking &amp; Cooking</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Winter/category.aspx/_/N-ev96x">Winter</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Valentine-s-Day/category.aspx/_/N-3jyx">Valentine's Day</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Spring/category.aspx/_/N-eotpi">Spring</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/St-Patrick-s-Day/category.aspx/_/N-3inc">St. Patrick's Day</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Easter/category.aspx/_/N-3fk4">Easter</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Mother-s-Day-Gifts/category.aspx/_/N-42anpp">Mother's Day Gifts</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Summer/category.aspx/_/N-eqyvb">Summer</a></li></ul></div><div class="menuColumn"><ul>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Father-s-Day-Gifts/category.aspx/_/N-eie7n">Father's Day Gifts</a></li>
+                       <ul><li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Summer/category.aspx/_/N-eqyvb">Summer</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/4th-of-July/category.aspx/_/N-3e0i">4th of July</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Fall/category.aspx/_/N-et414">Fall</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Halloween/category.aspx/_/N-3gbx">Halloween</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Thanksgiving/category.aspx/_/N-exec5">Thanksgiving</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Winter/category.aspx/_/N-ev96x">Winter</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Christmas/category.aspx/_/N-2hqh4r">Christmas</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Holiday-Baking-amp-Cooking/category.aspx/_/N-dkfmhg">Holiday Baking &amp; Cooking</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Valentine-s-Day/category.aspx/_/N-3jyx">Valentine's Day</a></li></ul></div><div class="menuColumn"><ul>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/St-Patrick-s-Day/category.aspx/_/N-3inc">St. Patrick's Day</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Easter/category.aspx/_/N-3fk4">Easter</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Mother-s-Day-Gifts/category.aspx/_/N-42anpp">Mother's Day Gifts</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Spring/category.aspx/_/N-eotpi">Spring</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/Father-s-Day-Gifts/category.aspx/_/N-eie7n">Father's Day Gifts</a></li>
     
 <li class="special">
     <a id="ctl00_ucHeader1_TopNavLevel1_repGlobalNavCollection_ctl03_ucTopSub_hlBestSellers" class="RedText s11 B" href="http://www.collectionsetc.com/Products/Holidays-amp-Seasonal/category.aspx/_/N-magw/Ns-0">Holidays &amp; Seasonal Best Sellers</a></li>
@@ -445,7 +652,7 @@ $(function() {
                 <div class="menu">
                     <a href="http://www.collectionsetc.com/Products/For-The-Home/category.aspx/_/N-4fzlog" class="" id="aNavLink">For The Home</a>
                     <div class="menuDisplay"><div class="menuWrapper "><div class="menuBorder"><div class="menuColumn">
-                       <ul><li class="secondary"><a href="http://www.collectionsetc.com/Products/For-The-Home/HOME-DECOR/category.aspx/_/N-8xxj72">HOME DECOR</a></li>
+                       <ul><li class="secondary"><a href="http://www.collectionsetc.com/Products/For-The-Home/Home-Decor/category.aspx/_/N-8xxj72">Home Decor</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/For-The-Home/Bathroom/category.aspx/_/N-14bl8">Bathroom</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/For-The-Home/Bedding/category.aspx/_/N-58kfot">Bedding</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/For-The-Home/Kitchen-amp-Dining/category.aspx/_/N-5gb2ka">Kitchen &amp; Dining</a></li>
@@ -454,7 +661,7 @@ $(function() {
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/For-The-Home/Throw-Pillows-amp-Blankets/category.aspx/_/N-4h6hsl">Throw Pillows &amp; Blankets</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/For-The-Home/Decorative-Decals/category.aspx/_/N-dm5zv0">Decorative Decals</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/For-The-Home/Home-Accessories/category.aspx/_/N-mj3e">Home Accessories</a></li></ul></div><div class="menuColumn"><ul>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/For-The-Home/HOUSEWARES/category.aspx/_/N-docvfl">HOUSEWARES</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/For-The-Home/Housewares/category.aspx/_/N-docvfl">Housewares</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/For-The-Home/Home-Solutions/category.aspx/_/N-dmsps5">Home Solutions</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/For-The-Home/Cleaning-amp-Storage/category.aspx/_/N-dm7hvk">Cleaning &amp; Storage</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/For-The-Home/Home-Storage/category.aspx/_/N-4x974h">Home Storage</a></li>
@@ -478,26 +685,27 @@ $(function() {
                 <div class="menu">
                     <a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/category.aspx/_/N-mxm8" class="" id="aNavLink">Outdoor &amp; Garden</a>
                     <div class="menuDisplay"><div class="menuWrapper "><div class="menuBorder"><div class="menuColumn">
-                       <ul><li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Bird-Houses/category.aspx/_/N-40em">Bird Houses</a></li>
+                       <ul><li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Bird-Houses-amp-Feeders/category.aspx/_/N-dqjqzn">Bird Houses &amp; Feeders</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Barbecue-amp-Entertaining/category.aspx/_/N-dgl5uj">Barbecue &amp; Entertaining</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Feeders/category.aspx/_/N-6a2qql">Feeders</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Fence-Decorations/category.aspx/_/N-5pu066">Fence Decorations</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Fountains/category.aspx/_/N-1tfiv">Fountains</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Garden-Flags/category.aspx/_/N-do2srh">Garden Flags</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Garden-Memorials/category.aspx/_/N-5on4yn">Garden Memorials</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Garden-Stakes/category.aspx/_/N-dogawm">Garden Stakes</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Garden-Stones/category.aspx/_/N-5st674">Garden Stones</a></li></ul></div><div class="menuColumn"><ul>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Garden-Tools/category.aspx/_/N-5rmazl">Garden Tools</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Garden-Stones/category.aspx/_/N-5st674">Garden Stones</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Garden-Tools/category.aspx/_/N-5rmazl">Garden Tools</a></li></ul></div><div class="menuColumn"><ul>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Garage-Door-Magnets/category.aspx/_/N-dm5s57">Garage Door Magnets</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Lawn-Care/category.aspx/_/N-doyy7y">Lawn Care</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Lawn-Ornaments/category.aspx/_/N-41y8">Lawn Ornaments</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Outdoor-Figurines/category.aspx/_/N-5wdrtv">Outdoor Figurines</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Outdoor-Inflatables/category.aspx/_/N-5p8kkk">Outdoor Inflatables</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Outdoor-Lighting/category.aspx/_/N-63iz39">Outdoor Lighting</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Outdoor-Mats-amp-Stair-Treads/category.aspx/_/N-5telt2">Outdoor Mats &amp; Stair Treads</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Outdoor-Solutions/category.aspx/_/N-dmp2lm">Outdoor Solutions</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Outdoor-Wall-Decorations/category.aspx/_/N-5qffsc">Outdoor Wall Decorations</a></li></ul></div><div class="menuColumn"><ul>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Pathways-amp-Borders/category.aspx/_/N-do6vdb">Pathways &amp; Borders</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Patio/category.aspx/_/N-dmkcue">Patio</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Pest-Control/category.aspx/_/N-drh6p9">Pest Control</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Planters/category.aspx/_/N-43hu">Planters</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Solar-Powered/category.aspx/_/N-68afyr">Solar Powered</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Outdoor-amp-Garden/Storage-amp-Covers/category.aspx/_/N-449n">Storage &amp; Covers</a></li>
@@ -517,16 +725,15 @@ $(function() {
                 <div class="menu">
                     <a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/category.aspx/_/N-lnbk" class="" id="aNavLink">Clothing &amp; Accessories</a>
                     <div class="menuDisplay"><div class="menuWrapper "><div class="menuBorder"><div class="menuColumn">
-                       <ul><li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/SHOP-BY-SIZE/category.aspx/_/N-do988w">SHOP BY SIZE</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Spring-amp-Summer-Apparel/category.aspx/_/N-dmks9z">Spring &amp; Summer Apparel</a></li>
+                       <ul><li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Spring-amp-Summer-Apparel/category.aspx/_/N-dmks9z">Spring &amp; Summer Apparel</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Fall-amp-Winter-Apparel/category.aspx/_/N-dmr7rg">Fall &amp; Winter Apparel</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Women-s-Clothing/category.aspx/_/N-3dvvt8">Women's Clothing</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Tops-amp-Shirts/category.aspx/_/N-3i1xgc">Tops &amp; Shirts</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Pants-amp-Bottoms/category.aspx/_/N-djhrds">Pants &amp; Bottoms</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Dresses-amp-Skirts/category.aspx/_/N-dji6t5">Dresses &amp; Skirts</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Activewear/category.aspx/_/N-dmw594">Activewear</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Loungewear-amp-Intimates/category.aspx/_/N-djhjnu">Loungewear &amp; Intimates</a></li></ul></div><div class="menuColumn"><ul>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Holiday-Inspired/category.aspx/_/N-djhz3j">Holiday Inspired</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Loungewear-amp-Intimates/category.aspx/_/N-djhjnu">Loungewear &amp; Intimates</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Holiday-Inspired/category.aspx/_/N-djhz3j">Holiday Inspired</a></li></ul></div><div class="menuColumn"><ul>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Casual-Corner/category.aspx/_/N-3gv28t">Casual Corner</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Coordinating-Sets/category.aspx/_/N-3hghuj">Coordinating Sets</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Novelty-T-Shirts/category.aspx/_/N-3dag7f">Novelty T-Shirts</a></li>
@@ -534,8 +741,8 @@ $(function() {
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Womens-Accessories/category.aspx/_/N-3ehbtk">Womens Accessories</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Shoes-amp-Slippers/category.aspx/_/N-djhbvs">Shoes &amp; Slippers</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Bags-amp-Wallets/category.aspx/_/N-3f2r5u">Bags &amp; Wallets</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Men-s-Clothing/category.aspx/_/N-3cp0lm">Men's Clothing</a></li></ul></div><div class="menuColumn"><ul>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Jewelry/category.aspx/_/N-97gh4h">Jewelry</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Men-s-Clothing/category.aspx/_/N-3cp0lm">Men's Clothing</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/Jewelry/category.aspx/_/N-97gh4h">Jewelry</a></li></ul></div><div class="menuColumn"><ul>
     
 <li class="special">
     <a id="ctl00_ucHeader1_TopNavLevel1_repGlobalNavCollection_ctl06_ucTopSub_hlBestSellers" class="RedText s11 B" href="http://www.collectionsetc.com/Products/Clothing-amp-Accessories/category.aspx/_/N-lnbk/Ns-0">Clothing &amp; Accessories Best Sellers</a></li>
@@ -551,7 +758,8 @@ $(function() {
                     <a href="http://www.collectionsetc.com/Products/Etc/category.aspx/_/N-ppxc" class="" id="aNavLink">Etc</a>
                     <div class="menuDisplay"><div class="menuWrapper "><div class="menuBorder"><div class="menuColumn">
                        <ul><li class="secondary"><a href="http://www.collectionsetc.com/Products/Etc/MALLORY-LANE/category.aspx/_/N-q6lq">MALLORY LANE</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Etc/Spring-2014-Preview/category.aspx/_/N-dq13os">Spring 2014 Preview</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Etc/Limited-Quantities/category.aspx/_/N-drjjku">Limited Quantities</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Etc/Solutions/category.aspx/_/N-dofvik">Solutions</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Etc/9-99-or-Less/category.aspx/_/N-dmx04b">$9.99 or Less!</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Etc/Top-Rated-Items/category.aspx/_/N-dms2mp">Top Rated Items</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Etc/Exclusive/category.aspx/_/N-nm0i">Exclusive</a></li></ul></div><div class="menuColumn"><ul>
@@ -575,6 +783,7 @@ $(function() {
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Sale/Outdoor-amp-Garden/category.aspx/_/N-6hur0">Outdoor &amp; Garden</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Sale/Clothing-amp-Accessories/category.aspx/_/N-6huac">Clothing &amp; Accessories</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Sale/Etc/category.aspx/_/N-6hvr4">Etc</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Sale/Clearance/category.aspx/_/N-6hv7o">Clearance</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Sale/14-99-Store/category.aspx/_/N-6hvtw">$14.99 Store</a></li></ul></div><div class="menuColumn"><ul>
     
 <li class="special">
@@ -590,25 +799,27 @@ $(function() {
                 <div class="menu">
                     <a href="http://www.collectionsetc.com/Products/Clearance/category.aspx/_/N-o7ww" class="" id="aNavLink">Clearance</a>
                     <div class="menuDisplay"><div class="menuWrapper "><div class="menuBorder"><div class="menuColumn">
-                       <ul><li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Shop-Clearance-By-Percent-Savings/category.aspx/_/N-dopy55">Shop Clearance By Percent Savings</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Christmas-Outlet/category.aspx/_/N-dmn55k">Christmas Outlet</a></li>
+                       <ul><li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Clearance-CLOSEOUTS/category.aspx/_/N-drcwdm">Clearance CLOSEOUTS</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Shop-Clearance-By-Percent-Savings/category.aspx/_/N-dopy55">Shop Clearance By Percent Savings</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Gifts/category.aspx/_/N-6qf30">Gifts</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Home-Decor-Outlet/category.aspx/_/N-domqec">Home Decor Outlet</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Just-Reduced/category.aspx/_/N-drar7p">Just Reduced</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Holidays-amp-Seasonal/category.aspx/_/N-6qf5s">Holidays &amp; Seasonal</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Almost-Gone-for-Good/category.aspx/_/N-domy45">Almost Gone for Good</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/For-The-Home/category.aspx/_/N-iqdf1c">For The Home</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Outdoor-amp-Garden/category.aspx/_/N-6qfe4">Outdoor &amp; Garden</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Fall-Outlet/category.aspx/_/N-dmnsax">Fall Outlet</a></li></ul></div><div class="menuColumn"><ul>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Apparel-Outlet/category.aspx/_/N-dmufip">Apparel Outlet</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Christmas-Outlet/category.aspx/_/N-dmn55k">Christmas Outlet</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Home-Decor-Outlet/category.aspx/_/N-domqec">Home Decor Outlet</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Outdoor-amp-Garden/category.aspx/_/N-6qfe4">Outdoor &amp; Garden</a></li></ul></div><div class="menuColumn"><ul>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Clothing-amp-Accessories/category.aspx/_/N-6qexg">Clothing &amp; Accessories</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Save-Half-off-or-More/category.aspx/_/N-dmrfh9">Save Half off or More!</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Almost-Gone-for-Good/category.aspx/_/N-domy45">Almost Gone for Good</a></li>
     <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Etc/category.aspx/_/N-6qge8">Etc</a></li>
-    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/14-99-Store/category.aspx/_/N-6qgh0">$14.99 Store</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Fall-Outlet/category.aspx/_/N-dmnsax">Fall Outlet</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Apparel-Outlet/category.aspx/_/N-dmufip">Apparel Outlet</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/Save-Half-off-or-More/category.aspx/_/N-dmrfh9">Save Half off or More!</a></li>
+    <li class="secondary"><a href="http://www.collectionsetc.com/Products/Clearance/14-99-Store/category.aspx/_/N-6qgh0">$14.99 Store</a></li></ul></div><div class="menuColumn"><ul>
     
 <li class="special">
     <a id="ctl00_ucHeader1_TopNavLevel1_repGlobalNavCollection_ctl09_ucTopSub_hlBestSellers" class="RedText s11 B" href="http://www.collectionsetc.com/Products/Clearance/category.aspx/_/N-o7ww/Ns-0">Clearance Best Sellers</a></li>
 <li class="special two">
-    </li>
+    <a id="ctl00_ucHeader1_TopNavLevel1_repGlobalNavCollection_ctl09_ucTopSub_hlSale" class="RedText s11 B" href="http://www.collectionsetc.com/Products/Sale/Clearance/category.aspx/_/N-6hv7o">Clearance On Sale</a></li>
 </ul>
                     </div></div></div></div>
                 </div>
@@ -644,10 +855,10 @@ $(function() {
 
             </div>
             <div>
-                <form name="aspnetForm" method="post" action="service.aspx?name=Privacy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTkzMDU2ODE3D2QWAmYPZBYGAgIPZBYCAgMPZBYCAgkPEGRkFgFmZAIEDw8WAh4HVmlzaWJsZWhkZAIFDw8WAh8AZ2RkZHpEBY1LQgDTvI/S+F8VPWnB7TD0">
+                <form name="aspnetForm" method="post" action="/service.aspx?name=Privacy" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTkzMDU2ODE3D2QWAmYPZBYKZg9kFgJmDxYCHgRUZXh0BasBPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPnZhciBtb2JpbGVQYXJhbXMgPSAnJzs8L3NjcmlwdD48c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCcgc3JjPScvL3MzLmFtYXpvbmF3cy5jb20vbWFkbW9iaWxlL2NvbGxlY3Rpb25zZXRjL2pzL21vYmlsZWRpcmVjdC5qcyc+PC9zY3JpcHQ+ZAIDD2QWAgIDD2QWAgIJDxBkZBYBZmQCBQ8PFgIeB1Zpc2libGVoZGQCBg8PFgIfAWdkZAIHDxYCHwFnZGS9XNlyP/zyzOzjRnwAMG2CJLlvCw==">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALpzfewBgKUysOQBgLy9PDqDALWvpqBDHmJNzF2T5wnCiWkmS3s3rW/U8Zc">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALovZ3RDQKUysOQBgLy9PDqDALWvpqBDCMZEauhXB7Bh4KgOm4eJt7b5MVT">
                 
 	<table cellpadding="0" cellspacing="0" width="100%">
 		<tbody><tr>
@@ -739,89 +950,87 @@ Privacy &amp; Security
                 <td height="3819" align="center"><br>
                 <p align="left" class="HeadingSmGreen">Customer Privacy</p>
                 <p class="HeadingSmGreen">Privacy Policy <br>
-                  Last updated on: March 31, 2011</p><br><br>
+                  Last updated on: May 15, 2014</p><br><br>
                 <div align="left"><span class="HeadingSmGreen">Introduction<br>
                   <br>
-                  </span><span class="BasicText">Winston Brands Incorporated and our brands, which includes but are not limited to Collections Etc., Mallory Lane, How Helpful, Nature's Touch and Samantha's Style Shoppe (collectively Winston Brands Inc.) values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, sales and specials, and promotions. This policy describes the personal information we collect about you through our websites and catalog orders, why we collect it, how we use it and when we share it with third parties.<br>
+                  </span><span class="BasicText">Winston Brands, Inc. and our brands, which includes but are not limited to Collections Etc.®, Mallory Lane, and Samantha's Style Shoppe (collectively “Winston Brands” ) values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, sales and specials, and promotions. This policy describes the personal information we collect about you through our website and catalog orders, why we collect it, how we use it and when we share it with third parties.<br>
                   <br>
                  Our policy also describes the choices you can make about how we collect and use your information.<br>
                   <br>
-                  Our family of web sites contain links to third-party web sites. Such linked sites are not under the control of Winston Brands Incorporated and we are not responsible for the contents or privacy practices of any linked site. <br>
+                  Our web site contains links to third-party web sites. Such linked sites are not under the control of Winston Brands and we are not responsible for the contents or privacy practices of any linked site.<br>
                   <br>
                   If you have any questions about our privacy policy: <br>
-                  1. click <a class="GoldenMdLink" href="mailto:CustomerService@WinstonBrands.com">here</a> 
+                  1. click <a class="GoldenMdLink" href="emailus.aspx">here</a> 
                   to contact our Customer Care department via email, <br>
-                  2. call us at 1-620-584-5200 seven days a week, 6:00 AM to midnight 
-                  CST, or <br>
-                  3. write us at Winston Brands Incorporated Privacy Policy, Customer Care 
-                  Department, 2521 Busse Road, Elk Grove Village, IL 60007.<br>
+                  2. call us at 866-584-8010 seven days a week, 6:00 AM to midnight CST, or  <br>
+                  3. write us at Winston Brands Privacy Policy, Customer Care Department, 2521 Busse Road, Elk Grove Village, IL 60007.<br>
                   <br>
-                 If our information practices change in the future, we will let you know by posting the policy changes on our web sites or by communicating directly with you via email. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information.<br>
+                 If our information practices change in the future, we will let you know by posting the policy changes on our web site or by communicating directly with you via email. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information.<br>
                   <br>
                   </span> </div>
                 <table width="565" border="0" bordercolor="#003031">
                   <tbody><tr> 
                     <td bordercolor="#A99D67" bgcolor="#F3EEDE" class="HeadingMd"> 
-                      What information does Winston Brands Incorporated collect about me?</td>
+                      What information does Winston Brands collect about me?</td>
                   </tr>
                 </tbody></table>
                 <br>
                 <p align="left"><span class="HeadingSmGreen">Information You Provide</span><br>
-                  <span class="BasicText">If you browse our family of web sites, you may generally do so anonymously without providing any personal information. However, there are cases where we may ask you for personal data. When personally identifiable information is collected, you will know because you will have to fill out a secure form or survey. For example, when you purchase from our web sites, request a catalog, complete a survey, or register for a Preferred Customer Account, we collect information that you volunteer such as your name, postal address, telephone number, email address,  financial information, such as credit card information, or other personally identifiable information. This information is necessary to create an account, or process the order or catalog request. Winston Brands Incorporated stores financial information in an industry standard encryption format, for the purpose of processing credit card or deferred billing payments.</span>
-                  <br>
+                  <span class="BasicText">If you browse our web site, you may generally do so anonymously without providing any personal information. However, there are cases where we may ask you for personal data. When personally identifiable information is collected, you will know because you will have to fill out a secure form or survey. For example, when you purchase from our web sites, request a catalog, complete a survey, or register for a Preferred Customer Account, we collect information that you volunteer such as your name, postal address, telephone number, email address, financial information, such as credit card information, or other personally identifiable information. This information is necessary to create an account, or process the order or catalog request. Winston Brands stores financial information in an industry standard encryption format, for the purpose of processing credit card or deferred billing payments. </span>
+                  <br><br>
                   </p><p align="left"><span class="HeadingSmGreen">Information collected from you using technology</span><br>
-                  <span class="BasicText">Winston Brands Incorporated collects some information about you, using technology related to the operation of the World Wide Web, including Internet Protocol ("IP") addresses and cookies. This technology may not be readily apparent to you.</span><br>
+                  <span class="BasicText">Winston Brands collects some information about you, using technology related to the operation of the World Wide Web, including Internet Protocol ("IP") addresses and cookies. This technology may not be readily apparent to you.</span><br>
                   <br>
                   <span class="HeadingSmGreen"><em>IP Addresses</em></span><br>
-                  <span class="BasicText">Each visitor to a web site has an IP address that is associated with the place from which you access the Internet - like your ISP (Internet service provider), your company, or your university. Our web sites collect your IP address when you visit the site so that our server can send the information and content you request back to your computer. This information is not personally identifiable.</span><br>
+                  <span class="BasicText">Each visitor to a web site has an IP address that is associated with the place from which you access the Internet - like your ISP (Internet Service Provider), your company, or your university. Our web site collects your IP address when you visit the site so that our server can send the information and content you request back to your computer. This information is not personally identifiable.</span><br>
                   <span class="HelpTextBold"><em><br>
                   </em></span><span class="HeadingSmGreen"><em>Cookies</em></span><br>
-                  <span class="BasicText">Cookies are pieces of information that a web site sends to your computer while you are viewing most web sites. These pieces of information allow a web site to remember important information that will make your use of that site more productive. Cookies, by themselves, do not tell us your email address or other personally identifiable information, such as financial or private information on your computer. However, once you choose to provide us with personally identifiable information, this information may be linked to the data stored in the cookie. <br>
+                  <span class="BasicText">Cookies are pieces of information that a web site sends to your computer while you are viewing most web sites. These pieces of information allow a web site to remember important information that will make your use of that site more productive. Cookies, by themselves, do not tell us your email address or other personally identifiable information, such as financial or private information on your computer. However, once you choose to provide us with personally identifiable information, this information may be linked to the data stored in the cookie.<br>
                   <br>
-                  We use cookies to understand our family of sites' usage and to improve the content and offerings on the web sites. For example, we may use cookies to personalize your experience on one or all of our web sites (e.g. to recognize you by name when you return to the web site or when you login) and enable you to use shopping carts on the web site. We also may use cookies to display products, programs, or services that you may find of particular interest. This information may also be used by our staff to detect and resolve web site problems and to assist with customer support concerns.<br>
+                  We use cookies to understand our site’s usage and to improve the content and offerings on the web site. For example, we may use cookies to personalize your experience on our web site (e.g. to recognize you by name when you return to the web site or when you login) and enable you to use shopping carts on the web site. We also may use cookies to display products, programs, or services that you may find of particular interest. This information may also be used by our staff to detect and resolve web site problems and to assist with customer support concerns.<br>
                   <br>
-                  You may choose to have your computer warn you each time a cookie is sent or you may turn off all cookies. You do this through your browser settings. Each browser is a little different; so identify the correct way to do this through the Help menu in your specific browser. Cookies are required to be active because without them, it will not be possible to complete the checkout process.<br>
+                  You may choose to have your computer warn you each time a cookie is sent or you may turn off all cookies. You do this through your browser settings. Each browser is a little different; so identify the correct way to do this through the Help Menu in your specific browser. Cookies are required to be active because without them, it will not be possible to complete the checkout process.<br>
                   <br>
                   </span></p>
                 
                 <table width="565" border="0" bordercolor="#003031">
                   <tbody><tr> 
                     <td bordercolor="#A99D67" bgcolor="#F3EEDE" class="HeadingMd"> 
-                      How does Winston Brands Incorporated use my information? </td>
+                      How does Winston Brands use my information? </td>
                   </tr>
                 </tbody></table>
                 <p align="left" class="BasicText"><br>
-                  You, our Customer, are the most important and valuable asset of our business. We will use the information collected from you to tailor our product offering and improve your shopping experience, making shopping easier and more enjoyable. This also enables us to process your orders, confirm your orders, notify you about backorders and alert you about updates to our family of web sites, their products and our privacy statement.<br>
+                  You, our Customer, are the most important and valuable asset of our business. We will use the information collected from you to tailor our product offering and improve your shopping experience, making shopping easier and more enjoyable. This also enables us to process your orders, confirm your orders, notify you about backorders and alert you about updates to our web site, products and our privacy statement.<br>
                   <br>
                 </p>
-                <p align="left" class="BasicText">When you purchase products online from us, request a catalog or otherwise provide us with personal information, we automatically add you to our customer database. Unless you have indicated that you do not want to receive promotional materials from us, we may contact you with offers from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such communications from us, please call us at 1-620-584-5200 or <a class="GoldenMdLink" href="Privacy_OptOutForm.aspx">click here</a> for other contact information.  In addition, you may click the "Unsubscribe" link on any promotional email you receive from us to indicate you do not wish to receive such emails in the future.<br>
+                <p align="left" class="BasicText">When you purchase products online from us, request a catalog or otherwise provide us with personal information, we automatically add you to our customer database. Unless you have indicated that you do not want to receive promotional materials from us, we may contact you with offers from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such communications from us, please call us at 866-584-8010 or <a class="GoldenMdLink" href="Privacy_OptOutForm.aspx">click here</a> for other contact information. In addition, you may click the "Unsubscribe" link on any promotional email you receive from us to indicate you do not wish to receive such emails in the future.<br>
                   <br>
                 </p>
                 <p align="left" class="BasicText">If you have provided us with a valid email address, we will send you order confirmation emails and shipment confirmation emails when your order is shipped from our distribution centers. We may contact you by mail or telephone if we have questions about your order. If one or more of the items in your order is on backorder, you may receive an email notification regarding the expected delivery date.  
                   <br>
                   <br>
                 </p>
-                <p align="left" class="BasicText">Winston Brands Incorporated and third party vendors that Winston Brands Incorporated has retained use cookies and Action Tags (commonly referred to as Web Beacons or GIF tags) to perform analyses of visitor behavior, to measure the effectiveness of our advertising, and to personalize your shopping experience on our web sites.  We personalize our web sites and emails by presenting you with content and offers specific to your interests.  We may combine some of this information with personally identifiable information under certain circumstances—e.g., to personalize our site, emails and offers, to identify a visitor in order to enforce compliance with our policies or rules, in response to a subpoena, or to protect our site, guests, and others.<br>
+                <p align="left" class="BasicText">Winston Brands and third party vendors that Winston Brands has retained, use Cookies and Action Tags (commonly referred to as Web Beacons or GIF tags) to perform analyses of visitor behavior, to measure the effectiveness of our advertising, and to personalize your shopping experience on our web site. We personalize our web site and emails by presenting you with content and offers specific to your interests. We may combine some of this information with personally identifiable information under certain circumstances—e.g., to personalize our site, emails and offers, to identify a visitor in order to enforce compliance with our policies or rules, in response to a subpoena, or to protect our site, guests, and others.<br>
                   <br>
                 </p>
-                <p align="left" class="BasicText">Collections Etc also uses third party advertising companies to serve ads on our behalf across the Internet. These third party advertising companies may collect information about your visits to our family of web sites and other web sites, and your interaction with our ads. For instance, they may keep track of how many of our ads you had seen before visiting our site, or what website you visited after leaving one of our sites.  We may use demographic and preference information about users of our family web sites to allow advertisements to be targeted to those users for whom they are most pertinent. This means that users see advertising that is most likely to interest them, and advertisers direct their messages to people who are most likely be receptive, improving both the viewer’s experience and the effectiveness of the ads.  If you would like to opt out from this, please call us at 1-620-584-5200 or click <a href="mailto:CustomerService@WinstonBrands.com">here</a> for other contact information.<br>
+                <p align="left" class="BasicText">Winston Brands also uses third party advertising companies to serve ads on our behalf across the Internet. These third party advertising companies may collect information about your visits to our web site and other web sites, and your interaction with our ads. For instance, they may keep track of how many of our ads you had seen before visiting our site, or what website you visited after leaving one of our sites. We may use demographic and preference information about users of our web site to allow advertisements to be targeted to those users for whom they are most pertinent. This means that users see advertising that is most likely to interest them, and advertisers direct their messages to people who are most likely to be receptive, improving both the viewer’s experience and the effectiveness of the ads. If you would like to opt out from this, please call us at 866-584-8010 or click <a href="emailus.aspx">here</a> for other contact information.<br>
                   <br>
                 </p>
                 <table width="565" border="0" bordercolor="#003031">
                   <tbody><tr> 
                     <td bordercolor="#A99D67" bgcolor="#F3EEDE" class="HeadingMd"> 
-                      How does Winston Brands Incorporated use third party personal information?</td>
+                      How does Winston Brands use third party personal information?</td>
                   </tr>
                 </tbody></table>
                 <p align="left"> <span class="HelpTextBold"><br>
                   </span><span class="HeadingSmGreen">What is third party personal 
                   information? </span><br>
-                  <span class="BasicText">This is information we have collected through our web site from a person other than the person to whom it pertains or whom it identifies.  We collect such information when you order a gift for someone else.   Also, our product display pages allow you to send email to a friend about an item on this site.  We require your name, your email address, your friend's name and your friend's email address for this. The individual you designate will be sent a one-time email, displaying your name as the sender.</span><br>
+                  <span class="BasicText">This is information we have collected through our web site from a person other than the person to whom it pertains or whom it identifies. We collect such information when you order a gift for someone else. Also, our product display pages allow you to send an email to a friend about an item on this site. We require your name, your email address, your friend's name and your friend's email address for this purpose. The individual you designate will be sent a one-time email, displaying your name as the sender.</span><br>
                   <br>
                 </p>
                 <p align="left"><span class="HeadingSmGreen">How do we use this 
                   information? </span><br>
-                  <span class="BasicText">This information is primarily used for the purpose for which such information is collected.  For gift recipients, Winston Brands Incorporated will store and use their personal information for completing the order fulfillment process, and we may send them a catalog and other marketing material with their gift. We may on occasion contact the gift recipient in the event of a product recall due to safety or quality of material/workmanship concerns. We will not use the gift recipient’s personal information for other purposes unless they order a product or service from us, or they provide us with their permission to do so.<br><br>
+                  <span class="BasicText">This information is primarily used for the purpose for which such information is collected. For gift recipients, Winston Brands will store and use their personal information for completing the order fulfillment process, and we may send them a catalog and other marketing material with their gift. We may on occasion contact the gift recipient in the event of a product recall due to safety or quality of material/workmanship concerns. We will not use the gift recipient’s personal information for other purposes unless they order a product or service from us, or they provide us with their permission to do so.<br><br>
                   When you designate a friend to receive an email about an item on this site, we will not store the friend’s name and email address or use that information for other purposes, unless the friend orders a product from us, asks to receive our catalog or other communications, or otherwise provides us with their permission to do so.<br><br>
                   Except as noted in the next section or elsewhere in this Policy, we will share third party personal information with our business partners for other purposes only if we have received the third party's permission to do so.
                   </span><br>
@@ -830,32 +1039,31 @@ Privacy &amp; Security
                 <table width="565" border="0" bordercolor="#003031">
                   <tbody><tr> 
                     <td bordercolor="#A99D67" bgcolor="#F3EEDE" class="HeadingMd"> 
-                      When does Winston Brands Incorporated share personal information with other third parties? 
+                      When does Winston Brands share personal information with other third parties? 
                     </td>
                   </tr>
                 </tbody></table>
                 <p align="left" class="BasicText"> <br>
-                  Winston Brands Incorporated may share your personally-identifiable information, including your name, phone number, email address, mailing address, records of any transactions you conduct on our family of websites or offline with us  and/or purchasing preferences, to a select group of third party companies whose products or services you may find of interest, to allow these companies to contact you.  In addition, we may provide the information to a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites.  Our advertising partner will make the data we provide it anonymous.  If you do not want us to share this information with such companies in the future, you can have us add your name to our "do-not-share" list by <a href="javascript:popUp('Privacy_OptOutForm.aspx?AdTracking=1')">clicking here</a> to opt out or by calling us at 1-620-584-5200.   Winston Brands Incorporated also may provide links on our family of web sites to third party companies whose products or services you may find of interest, to allow these companies to offer their products or services to you.  If you choose to purchase any such third party company’s products and/or services, this is a business relationship between you and the third party company, and Winston Brands Incorporated’s only subsequent role in this transaction may be to provide your credit card information to the third party company, only upon your acceptance of third party company’s offer and if you provide your consent for us to do so.<br>
+                  Winston Brands may share your personally-identifiable information with a select group of third party companies whose products or services you may find of interest and to allow these companies to contact you. “Personally-Identifiable information” may include your name, phone number, email address, mailing address, records of any transactions, and/or purchasing preferences you conduct on our web sites or offline with us.  In addition, we may provide the information to a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain web sites. Our advertising partner will make the data we provide to them anonymous. If you do not want us to share this information with such companies in the future, you can have us add your name to our "do-not-share" list by clicking <a href="javascript:popUp('Privacy_OptOutForm.aspx?AdTracking=1')">here</a> to opt out or by calling us at 866-584-8010. Winston Brands also may provide links on our web site to third party companies whose products or services you may find of interest, to allow these companies to offer their products or services to you. If you choose to purchase any such third party company’s products and/or services, this is a business relationship between you and the third party company. Winston Brands only subsequent role in this transaction may be to provide your credit card information to the third party company, only upon your acceptance of third party companys’ offer and if you provide your consent for us to do so.<br>
                   <br>
                 </p>
-                <p align="left" class="BasicText">We provide your personal information, including IP Address, and personal information of third parties to third party agents we have hired to help us provide the products or services you have requested. For example, we use an outside shipping company to ship orders, a credit card processing company to bill customers for goods and services. Under their agreements with Winston Brands Incorporated, these companies are not permitted to retain, share, store or use personally identifiable information for any secondary purposes without permission. When you place an order with us for merchandise, we use the shipping information you provided at order entry to fulfill your order and provide this information to the shipping company. If you have paid for your order using a credit card, we transmit the information required to authorize your credit card over a secure channel to the credit card processing company for authorization. If you have selected to pay for your order with deferred billing, we transmit your personal information, and IP address to the payment solution company to authorize credit.<br>
+                <p align="left" class="BasicText">We provide your personal information, including IP Address, and personal information of third parties to third party agents we have hired to help us provide the products or services you have requested. For example, we use an outside shipping company to ship orders, a credit card processing company to bill customers for goods and services. Under their agreements with Winston Brands, these companies are not permitted to retain, share, store or use personally identifiable information for any secondary purposes without permission. When you place an order with us for merchandise, we use the shipping information you provided at order entry to fulfill your order and provide this information to the shipping company. If you have paid for your order using a credit card, we transmit the information required to authorize your credit card over a secure channel to the credit card processing company for authorization. If you have selected to pay for your order with deferred billing, we transmit your personal information, and IP address to the payment solution company to authorize credit.<br>
                   <br>
-                  We provide your name and mailing address to certain third party mailing list agents who aggregate the names and addresses that we provide along with customer names and addresses provided by other consumer product companies.  These other consumer product companies then may pay the list agent to obtain your name and address for the purpose of sending you their catalogs   If you do not want us to provide your name and address to such mailing list agents in the future, please call us at 1-620-584-5200 or <a class="GoldenMdLink" href="mailto:CustomerService@WinstonBrands.com">click here</a> for other contact information.<br>
+                  We provide your name and mailing address to certain third party mailing list agents who aggregate the names and addresses that we provide along with customer names and addresses provided by other consumer product companies. These other consumer product companies then may pay the list agent to obtain your name and address for the purpose of sending you their catalogs. If you do not want us to provide your name and address to such mailing list agents in the future, please call us at 866-584-8010 or click <a class="GoldenMdLink" href="emailus.aspx">here</a> for other contact information. <br>
                   <br>
                 </p>
                 <p align="left" class="BasicText">We may disclose personal information about you or third parties without notice in response to a subpoena or when we believe in good faith that the law permits or requires it or to respond to an emergency situation. We may also share personal information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when:<br>
                   <br>
                   1. Permitted or required by law; <br>
-                  2. Trying to protect against or prevent actual or potential 
-                  fraud or unauthorized transactions; or <br>
+                  2. Trying to protect against or prevent actual or potential fraud or unauthorized transactions; or <br>
                   3. Investigating fraud that has already taken place. <br>
                   <br>
                   Personal information is not provided to these agencies or companies for marketing purposes.<br>
                   <br>
                   We may also share statistical or aggregated information about our users with advertisers, business partners, sponsors and other third parties. No personal information is supplied in these cases. This data is used to customize our web site content and advertising to deliver a better experience to our users.<br><br>
-                  In the event Winston Brands Incorporated or its subsidiaries or affiliates or their assets are sold, merged or otherwise involved in a corporate transaction, your personal information and third party personal information will likely be involved in that transaction. Before any such change in ownership or transfer of personal information in a manner not previously disclosed in this privacy policy, we will post a notice on this web site or send out a notice. You (and any third parties) will have the opportunity at that time to opt out of any such transfer or new use of personal information.<br><br>
+                  In the event Winston Brands or its subsidiaries or affiliates or their assets are sold, merged or otherwise involved in a corporate transaction, your personal information and third party personal information will likely be involved in that transaction. Before any such change in ownership or transfer of personal information in a manner not previously disclosed in this privacy policy, we will post a notice on this web site or send out a notice. You (and any third parties) will have the opportunity at that time to opt out of any such transfer or new use of personal information.<br><br>
                   <span class="HeadingSmGreen">Third Party Sites</span><br>
-                  You may visit other web sites, through links on our site, and the companies that operate those web sites may collect, use and share your personal information in accordance with their own privacy policies. The information practices of those web sites linking from or to our site are not covered by this Policy, and we encourage you to be very cautious before you disclose your personal information to others.<br>
+                  You may visit other web sites, through links on our web site, and the companies that operate those web sites may collect, use and share your personal information in accordance with their own privacy policies. The information practices of those web sites linking from or to our web site are not covered by this policy, and we encourage you to be very cautious before you disclose your personal information to others.<br>
                   <br>
                 </p>
                 <table width="565" border="0" bordercolor="#003031">
@@ -865,17 +1073,17 @@ Privacy &amp; Security
                   </tr>
                 </tbody></table>
                 <p align="left" class="BasicText"> <br>
-                  Winston Brands Incorporated is committed to earning and keeping your trust. We understand the need for our customers’ personal information and credit card information to remain secure and private. We use industry standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see a solid key icon or a locked padlock icon in the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages on our web site requesting personal information should always have one of these icons. In addition, only authorized Winston Brands Incorporated employees have access to customer personal information on our servers. While we cannot guarantee that loss, misuse or alteration to data will not occur; we take reasonable precautions to prevent such unfortunate occurrences.<br>
+                  Winston Brands is committed to earning and keeping your trust. We understand the need for our customers’ personal information and credit card information to remain secure and private. We use industry standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see a solid key icon or a locked padlock icon in the lower portion of your browser window, this indicates that the web site is secured through Secure Sockets Layer (SSL). Pages on our web site requesting personal information should always have one of these icons. In addition, only authorized Winston Brands’ employees have access to customer personal information on our servers. While we cannot guarantee that loss, misuse or alteration to data will not occur; we take reasonable precautions to prevent such unfortunate occurrences.<br>
                   <br>
                 </p>
                 <table width="565" border="0" bordercolor="#003031">
                   <tbody><tr> 
                     <td bordercolor="#A99D67" bgcolor="#F3EEDE" class="HeadingMd"> 
-                      Does Winston Brands Incorporated have a Kids' Privacy Policy? </td>
+                      Does Winston Brands have a Kids' Privacy Policy? </td>
                   </tr>
                 </tbody></table>
                 <p align="left" class="BasicText"> <br>
-                  The Winston Brands Incorporated family of web sites are intended for adults.  We do not knowingly collect personal information from children under 18 years of age. No information should be submitted to the sites by guests under 18 years of age, and guests under 18 years old are not encouraged to register for our mailings, contests, or customer accounts. We recognize the need to protect the privacy of children. If the parent or guardian of a child under 18 believes that the child has provided us with personally identifiable information, the parent or guardian of that child should contact us at CustomerService@CollectionsEtc.com if they want this information deleted from our files.  We will delete any information inadvertently given to us without parental consent as soon as we discover it and we will not disclose it to third parties.<br>
+                  Winston Brands web site is intended for adults. We do not knowingly collect personal information from children under 18 years of age. No information should be submitted to our web site by guests under 18 years of age, and guests under 18 years old are not encouraged to register for our mailings, contests, or customer accounts. We recognize the need to protect the privacy of children. If the parent or guardian of a child under 18 believes that the child has provided us with personally-identifiable information, the parent or guardian of that child should contact us at CustomerService@CollectionsEtc.com if they want this information deleted from our files. We will delete any information inadvertently given to us without parental consent as soon as we discover it and we will not disclose it to third parties.<br>
                 </p>
                 <br>
                 <table width="565" border="0" bordercolor="#003031">
@@ -887,11 +1095,11 @@ Privacy &amp; Security
                 <br>
                 <p align="left" class="BasicText"><span class="HeadingSmGreen">For 
                   California Residents Only</span><br>
-                  Under California law (SB27 - Civil Code Section 1798.83), residents of California who have an established business relationship with Winston Brands Incorporated may choose to opt-out of Winston Brands Incorporated sharing their personal information with third parties for marketing purposes. Winston Brands Incorporated customers can also opt-out of receiving future catalogs from specific brands or the entire Winston Brands Incorporated family.</p>
+                  Under California law (SB27 - Civil Code Section 1798.83), residents of California who have an established business relationship with Winston Brands may choose to opt-out of Winston Brands sharing their personal information with third parties for marketing purposes. Winston Brands customers can also opt-out of receiving future catalogs from specific brands or the entire Winston Brands family of catalogs.</p>
                 <br>
-                <p align="left" class="BasicText">If you would like us not to share your personal information with third parties and/or would like to stop receiving Winston Brands Incorporated catalogs, <a class="GoldenMdLink" href="mailto:CustomerService@WinstonBrands.com">click here</a>.<br>
+                <p align="left" class="BasicText">If you would like us not to share your personal information with third parties and/or would like to stop receiving Winston Brands catalogs, click <a class="GoldenMdLink" href="emailus.aspx">here</a>.<br>
                   <br>
-                California customers may request further information about our compliance under SB 27 by emailing CustomerService@WinstonBrands.com AND/OR sending a written request to Winston Brands Incorporated Privacy Policy, Customer Care Department, 2521 Busse Road, Elk Grove Village, IL 60007.  We will respond in accordance with applicable legal requirements.
+                California customers may request further information about our compliance under SB 27 by emailing CustomerService@CollectionsEtc.com AND/OR by sending a written request to Winston Brands Privacy Policy, Customer Care Department, 2521 Busse Road, Elk Grove Village, IL 60007. We will respond in accordance with applicable legal requirements.
                  </p>
                 <br>
                 <table width="565" border="0" bordercolor="#003031">
@@ -906,7 +1114,7 @@ Privacy &amp; Security
                 </p>
                 <p align="left" class="BasicText"><span class="HeadingSmGreen">By 
                   Postal Mail</span><br>
-                  Winston Brands Incorporated Privacy Policy<br>
+                  Winston Brands Privacy Policy<br>
                   Customer Care Department<br>
                   2521 Busse Road<br>
                   Elk Grove Village, IL 60007<br>
@@ -914,37 +1122,33 @@ Privacy &amp; Security
                 </p>
                 <p align="left" class="BasicText"><span class="HeadingSmGreen">By 
                   Phone</span><br>
-                  Call seven days a week, 6:00 AM to midnight CST at 1-620-584-5200.<br>
+                  Call seven days a week, 6:00 AM to midnight CST at 866-584-8010.<br>
                   <br>
                   <span class="HeadingSmGreen">By email</span><br>
-                  Email: <a class="GoldenMdLink" href="mailto:CustomerService@WinstonBrands.com">CustomerService@WinstonBrands.com</a>. 
-                  Please specify the words "Privacy Policy" in the subject 
-                  line. <br>
+                  Email: <a class="GoldenMdLink" href="emailus.aspx">CustomerService@WinstonBrands.com</a>. 
+                  Please specify the words "Privacy Policy" in the subject line. <br>
                   <br>
-                  Click <a class="GoldenMdLink" href="mailto:CustomerService@WinstonBrands.com">here</a> 
-                  to unsubscribe from Winston Brands Incorporated periodic emailings. Please 
-                  specify the word "Unsubscribe" in the subject line.<br>
+                  Click <a class="GoldenMdLink" href="emailus.aspx">here</a> 
+                  to unsubscribe from Winston Brands periodic emailings. Please specify the word "Unsubscribe" in the subject line.<br>
                 </p>
                 <p align="left" class="BasicText"><span class="HeadingSmGreen">Please 
-                  note:</span> When you contact us, please provide your name and 
-                  address exactly as it appears on correspondence you have received 
-                  from us.<br>
+                  note:</span> when you contact us, please provide your name and address exactly as it appears on correspondence you have received from us.<br>
                   <br>
                 </p>
                 <table width="565" border="0" bordercolor="#003031">
                   <tbody><tr> 
                     <td bordercolor="#A99D67" bgcolor="#F3EEDE" class="HeadingMd"> 
-                      Changes to the Winston Brands Incorporated Privacy Policy </td>
+                      Changes to the Winston Brands Privacy Policy </td>
                   </tr>
                 </tbody></table>
                 <p align="left" class="BasicText"> <br>
-                  Your use of our web site constitutes your agreement to the policies and procedures set forth in this privacy policy. In the event that Winston Brands Incorporated amends its Privacy Policy, these changes will be clearly posted on our site so that you can be kept informed of how, where, when and why we collect information and how we use it.<br>
+                  Your use of our web site constitutes your agreement to the policies and procedures set forth in this privacy policy. In the event that Winston Brands amends its privacy policy, these changes will be clearly posted on our web site so that you can be kept informed of how, where, when and why we collect information and how we use it.<br>
                   <br>
-                  If you have any additional questions, please contact a Winston Brands Incorporated customer care representative at the contact points listed above.<br>
+                  If you have any additional questions, please contact a Winston Brands customer care representative at the contact points listed above.<br>
                   <br>
                 </p>
                 <p align="left" class="BasicText"> <span class="HeadingSmGreen">Trademarks &amp; Copyrights<br>
-                  </span>Winston Brands Incorporated®, the Collections Etc.® logo, Mallory Lane®, Samantha's Style Store®, How Helpful!®, Nature's Touch® and other marks on our web site and in our catalogs, mailings, and emailings are trademarks of Winston Brands Incorporated Inc., except for third-party trademarks which are the trademarks of their respective owners.  All content on this web site, including without limitation, the text, graphics, web site design, icons and images are the sole property of Winston Brands Incorporated, Inc. Copyright 2011. Replication of the content of this web site in any manner without the express written consent of Winston Brands Incorporated is strictly prohibited. 
+                  </span>Collections Etc.® logo and other marks on our web site and in our catalogs, mailings, and emailings are trademarks of Winston Brands Inc., except for third-party trademarks which are the trademarks of their respective owners. All content on this web site, including without limitation, the text, graphics, web site design, icons and images are the sole property of Winston Brands, Inc. Copyright 2014. Replication of the content of this web site in any manner without the express written consent of Winston Brands, Inc. is strictly prohibited. 
                 </p>
               </td><td> </td></tr>
             </tbody></table></td>
@@ -1127,7 +1331,7 @@ margin-left: 180px;
 </div>-->
 
 <div class="emailformFieldFooter" id="inputBox">
- <form name="frmEmailClubBtm" id="frmEmailClubBtm" method="post" onsubmit="return checkFormClick('btm');">
+ <form name="frmEmailClubBtm" id="frmEmailClubBtm" method="post" onsubmit="if(checkFormClick('btm')) {ga('send', 'event', 'Page', 'Click', 'EmailSignup Footer'); return true;} else {return false;}">
 <div class="emailFooterformField">
 <input name="txtemailbtm" type="text" id="txtemailbtm" class="emailVIPtextInput_footer" onfocus="if(this.value=='Enter your email address...' 
 )this.value='';" value="Enter your email address...">
@@ -1172,7 +1376,7 @@ margin-left: 180px;
  </tr>
 
 <tr>
-    <td align="center" colspan="8"><span style="font-family:Arial, Helvetica, sans-serif; font-size:9px;">© 2012 Collections Etc., Inc. All Rights Reserved. Reproduction in whole or in part strictly prohibited. Contact us by phone at: 1-620-584-8000.</span></td>
+    <td align="center" colspan="8" itemscope="" itemtype="http://schema.org/Organization"><span style="font-family:Arial, Helvetica, sans-serif; font-size:9px;">© 2014<span itemprop="name">Collections Etc., Inc.</span> All Rights Reserved. Reproduction in whole or in part strictly prohibited. Contact us by phone at: <span itemprop="telephone">1-620-584-8000</span>.</span></td>
  </tr>
 
 </tbody></table>
@@ -1184,18 +1388,24 @@ margin-left: 180px;
             </div>
         </div>
     </div>
-      
-   <!-- <script  type="text/javascript" src="/WebServices/HttpCombiner.ashx?s=CommonJS&t=text/javascript&v=2""></script>-->
-    <script language="javascript" type="text/javascript">function tSearch(a){return checkValidity(a);}</script>
+    
+    <!-- <script  type="text/javascript" src="/WebServices/HttpCombiner.ashx?s=CommonJS&t=text/javascript&v=2""></script>-->
+
+    <script language="javascript" type="text/javascript">        function tSearch(a) { return checkValidity(a); }</script>
+
     <!-- BEGIN MERCENT -->
+
     <script type="text/javascript" src="//cdn.mercent.com/js/tracker.js"></script>
-    <script type="text/javascript"><!-- try{mr_merchantID="CollectionsEtc";mr_Track();}catch(err){}--></script>
+
+    <script type="text/javascript"><!--        try { mr_merchantID = "CollectionsEtc"; mr_Track(); } catch (err) { }--></script>
+
     
     <!-- END MERCENT -->
-  <script type="text/javascript">if(true){$(document).ready(function(){var strHTTP=window.location.href.substring(0,5);if(strHTTP.substring(5,4)==":"){strHTTP="http";}var url=strHTTP+"://www.collectionsetc.com/WebServices/SearchSuggestions.asmx/Search";$("#NttTop").keyup(function(event){var origString=$("#NttTop").val();var code=event.keyCode;if(code<=35||code>=40){var origLength=origString.length;var regEx=/[^a-zA-Z0-9|\&|\'|\"|\-|\+|\&|\,\\/ /g/i]/;origString=origString.replace(regEx,"");origString=origString.replace("  "," ");var pos=getCursorPosition(this);$("#NttTop").val(origString);var newLength=origString.length;if(origLength==newLength){CheckSearch(url);setCursorPosition(this,pos);}}});});}</script>
-  
-   
-   
+
+    <script type="text/javascript">if(true){$(document).ready(function(){var strHTTP=window.location.href.substring(0,5);if(strHTTP.substring(5,4)==":"){strHTTP="http";}var url=strHTTP+"://www.collectionsetc.com/WebServices/SearchSuggestions.asmx/Search";$("#NttTop").keyup(function(event){var origString=$("#NttTop").val();var code=event.keyCode;if(code<=35||code>=40){var origLength=origString.length;var regEx=/[^a-zA-Z0-9|\&|\'|\"|\-|\+|\&|\,\\/ /g/i]/;origString=origString.replace(regEx,"");origString=origString.replace("  "," ");var pos=getCursorPosition(this);$("#NttTop").val(origString);var newLength=origString.length;if(origLength==newLength){CheckSearch(url);setCursorPosition(this,pos);}}});});}</script>
+
+    
+    
 
 
 <!-- SECUREDVISIT START DO NOT CHANGE-->
@@ -1212,6 +1422,29 @@ var s = d.getElementsByTagName(c)[0]; s.parentNode.insertBefore(sv, s);
 </script>
 <!-- SECUREDVISIT END -->
 
+    
+    
+        <script language="javascript" type="text/javascript">
+            $(document).ready(function() {
+                setTimeout("$('#body').append('<div id=\"background\"></div>');", 5000);
+                setTimeout(function () {ga('send', 'event', 'Popup', 'Impression', 'EmailSignup Show');$('#overlay').fadeIn(250);}, 5000);
+            });
+        </script>
+    
+
+    <script language="javascript" type="text/javascript">
+        function CloseOverlay(bCancel) {  
+               var url = 'http://www.collectionsetc.com/WebServices/EmailSignup.asmx/CloseOverlay';
+               CloseEmailOverlay(bCancel, url);
+        }
+      
+        function SaveOverlay() {
+           var url = 'http://www.collectionsetc.com/WebServices/EmailSignup.asmx/SubscribeEmail';
+           var inputValue = document.getElementById("txtEmailOverlay").value;
+           SaveEmailOverlay(url, inputValue);
+        }
+	    
+    </script>
 
 
 </div></body></html>
