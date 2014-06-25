@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfingsocially.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207020326id_/http%3A//surfingsocially.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfingsocially.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115521id_/http%3A//surfingsocially.com/privacy.php) for the most accurate reproduction.*
 
 # Surfing Socially
 
@@ -34,7 +34,7 @@ To display content that is customized to your interests and preferences;
 To run contests, select entrants, and choose prize winners;  
 To run Interactive Areas;
 
-Personal information collected by Surfing Socially may be stored and processed in USA or any other country in which Surfing Socially or its parent, affiliates, subsidiaries or agents maintain facilities, and by providing us with your personal information and using our sites or services, you consent to any such transfer of information outside of your country. If you would like to exercise any of your personal information protection rights (including the right to have your personal information deleted), please contact us via our [Support Center](http://mattbaker.biz/).
+Personal information collected by Surfing Socially may be stored and processed in USA or any other country in which Surfing Socially or its parent, affiliates, subsidiaries or agents maintain facilities, and by providing us with your personal information and using our sites or services, you consent to any such transfer of information outside of your country. If you would like to exercise any of your personal information protection rights (including the right to have your personal information deleted), please contact us via our Support Center.
 
 **Disclosing Your Personal Information**
 
@@ -46,7 +46,7 @@ If you have entered into and/or won a Surfing Socially contest, we or a contest 
 
 **Accessing Your Personal Information**
 
-If you would like to review or revise information that you previously provided to us, you may access and change your personal information in the "Update Profile" section of the site. You may also contact us via our [Support Center](http://mattbaker.biz/).
+If you would like to review or revise information that you previously provided to us, you may access and change your personal information in the "Update Profile" section of the site. You may also contact us via our Support Center.
 
 **Use of Cookies and Other Technologies**
 
@@ -80,7 +80,7 @@ If a password is used to protect your account and personal information, it is yo
 
 **Forums & Other Interactive Services **
 
-Our sites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please contact us via our [Support Center](http://mattbaker.biz/). Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems.
+Our sites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please contact us via our Support Center. Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems.
 
 **Email Referrals**
 
@@ -88,7 +88,7 @@ If you choose to use our email referral services to tell a friend about our prod
 
 **Children**
 
-We do not intend to solicit or collect personal information from anyone under the age of 18 without parental consent. If you are under 18, you shall not use or enter information on this site, including without limitation, any Interactive Areas of the site without parental consent. Please contact Customer Services via our [Support Center](http://mattbaker.biz/), to obtain the necessary parental consent forms.
+We do not intend to solicit or collect personal information from anyone under the age of 18 without parental consent. If you are under 18, you shall not use or enter information on this site, including without limitation, any Interactive Areas of the site without parental consent. Please contact Customer Services via our Support Center, to obtain the necessary parental consent forms.
 
 **Links**
 
