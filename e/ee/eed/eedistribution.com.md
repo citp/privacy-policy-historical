@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eedistribution.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905060554id_/http%3A//www.eedistribution.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eedistribution.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130857id_/http%3A//www.eedistribution.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Action Figures, Toys, Bobble Heads, and Collectibles at Entertainment Earth
 
-|  [ ](http://www.entertainmentearth.com/) |  |  [ ](http://www.entertainmentearth.com/hitlist.asp?searchfield=1966+Batman&utm_source=Wafer_A&utm_medium=promo&utm_content=1966Batman&utm_campaign=BM_090413)  
+|  [ ](http://www.entertainmentearth.com/) |  |  [ ](http://www.entertainmentearth.com/dailydeals.asp?utm_source=Wafer&utm_medium=promo&utm_content=DD&utm_campaign=DD_121813)  
 ---|---|---  
   
 |    |  |     
@@ -31,8 +31,6 @@ Product specifications, prices, ship dates and availability are subject to chang
 |     
    
   
-[](http://www.entertainmentearth.com/hitlist.asp?searchfield=1966+Batman&utm_source=Tab_728_90_A&utm_medium=promo&utm_content=1966Batman&utm_campaign=BM_090413)
-
 **PRIVACY POLICY** Entertainment Earth, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. We have made a commitment to meet the strict requirements regarding how we treat your information. The following discloses our information gathering and dissemination practices for www.entertainmentearth.com.  
 
 
