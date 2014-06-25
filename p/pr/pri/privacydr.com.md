@@ -1,94 +1,55 @@
-> *The following text is extracted and transformed from the privacydr.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204034442id_/http%3A//www.travelnow.com/index.jsp%3FpageName%3Dprivacy%26cid%3D58623) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacydr.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082402id_/http%3A//www.privacydr.com/docs/pp.php) for the most accurate reproduction.*
 
-# 1-800-Southbeach.net -- infocenter
+# 
 
-THE SUMMARY  
-IAN.com is in the travel business, not the spying business. We will not ask you for information that does not have a purpose and we will not require information to be disclosed that is not absolutely necessary. We will not sell your personally identifiable information to others, however, if you accessed this website through a IAN.com Affiliate, your personally identifiable information (other than your credit card information) may be forwarded to that Affiliate. Whether you travel the Web or travel the world, IAN.com wants you to always be safe!  THE DETAILS  
-Your privacy is important to us.  To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.  This notice shall apply to all information IAN.com collects or is submitted by the user on the IAN.com website.  To make this notice easy to find; we make it available on our homepage and at every point where personally identifiable information may be requested.  Use of Customer Information  
-IAN.com is the sole owner of the information collected on this site.  We will not sell or rent this information to others in ways that differ from what is disclosed in this statement.  General Information \- What We Collect and Why  
+Privacy Policy 
 
+PrivacyDr is committed to protecting the privacy of personal information you may provide to us when using any of our online services. This Privacy Policy describes how we treat information we receive when you transmit data to PrivacyDr. 
 
-  * IAN.com may include information about your visit in collective or aggregated data that does not identify you specifically. For example, we may tell our advertisers or investors the number of website visitors or the most popular vacation destinations.
-  * Our server recognizes domain names and the pages visited.  This data is gathered in an aggregate manner for quality control and improvement of our website.
-  * IAN.com does not market to children nor collect personal information about children at this website.
+Information Collection 
 
-Individual Information \- What We Collect and Why  
+When you purchase, download trial or evaluation versions, or register PrivacyDr Software, we may collect personal information including your name, address, email address, etc. for the purpose of recording the transaction when you engage in activities on our web site or within the PrivacyDr software. When we use a payment processing merchant we ensure that the same strict privacy criteria are in place. We do not (knowingly) collect personal information from persons under the age of eighteen. We also give users the option of receiving useful product information (such as updates, pest alerts and associated product offerings), via opt-in permission based email. We fully ensure your privacy and value your trust. We will never sell, rent, lease or trade your personal information to any third party. Likewise, your information will not be shared with a third party in any other way unless PrivacyDr is required to do so by law. PrivacyDr may engage the services of a third party from time to time and may provide certain information that includes personal information in order for the third party to perform such services. Any third parties who provide services to PrivacyDr have agreed not to disclose your information or use it for any other purpose, and are required to implement or adopt a Privacy Policy that is no less stringent than PrivacyDr Privacy Policy. You may opt out of receiving emails from us at any time by clicking the unsubscribe link in the email. By choosing to enter and submit the requested information when prompted, you are consenting to PrivacyDr collection, use, and disclosure of such information for the purposes as outlined herein. 
 
+Any information that you post to a chat room, public bulletin or forum is available to all users of that site. PrivacyDr cannot control, nor is it responsible for the use, disclosure, or dissemination of such information by any third parties. 
 
-  * Your name, email address, physical address, phone and fax number, and credit card number, expiration date and billing address are necessary to ensure we are able to make and confirm your reservation. We do not share this personal information with outside parties except to the extent necessary to complete your reservation or product order.
-  * Your contact information is needed in order to notify you in the event of any processing difficulties or unforeseen circumstances fulfilling your reservation or product order.  In some cases, paper tickets may need to be mailed to you.  The more easily we can contact you, the better we can serve you.
-  * IAN.com will use the information you provide about yourself in order to make the IAN.com website as customer friendly as possible.  We want to know you to better serve you, but do not want to invade your life.  We may ask you for more information about your travel interests.  In the future this information may be used to help IAN.com make more applicable travel recommendations. However, this information will always be optional.
+Web Site Usage 
 
-Newsletter \- What We Collect and Why  
+We may automatically collect IP addresses and Web site usage information when you access our online services. This information helps us evaluate how our visitors navigate our sites on an aggregate basis, including but not limited to the number and frequency of visitors, length of visits, etc. 
 
+How Information Is Used When Collected 
 
-  * Your email address ensures you receive the newsletter in a timely manner.
-  * Your name is optional and tells us who personally to address - just a nice touch.
-  * Although we do not want you to miss any great travel deals, you can unsubscribe to any IAN.com newsletter at anytime, by sending an email to [customers@ian.com](mailto:customers@ian.com). Please tell us the newsletter title and the email address you want removed.
+We may use information collected in the following ways: 
 
-Surveys \- What We Collect and Why  
+â€¢ To process, validate and verify purchases. 
 
+â€¢ To contact you to reconfirm or verify accuracy of information provided. 
 
-  * From time to time IAN.com conducts voluntary customer surveys, which may ask questions about broad background information and customer preferences.  This survey information is completely optional and you are under no obligation to be a part of any survey. The information IAN.com collects is used to better serve our customers by helping IAN.com determine our customer's travel needs and improve the satisfaction and use of this website.
-  * Participation in these surveys or contests is completely voluntary and  you therefore have  a choice whether or not to disclose this information.  Information requested may include demographic information including, but not limited to:  age, gender, approximate household income, how you travel, how you make your reservations, and why you travel.
-  * Your contact information may be required if a prize is to be awarded to survey respondents either at random or individually. This will enable us to contact you to notify you of details regarding your prize.
+â€¢ To register you as a customer. 
 
-COOKIES  
-Cookies are small pieces of information stored on your computer tied to information about you. We use both session ID cookies and persistent cookies. For the session ID cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following the Web browser help file directions.
+â€¢ To open and maintain a support account for you. 
 
-We use cookies to track usage of the Guest path and to serve advertisements through our advertising networks. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you reject the cookie, you may still use our website. The only drawback to this is that you will be limited in some areas of our website. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our website. 
+â€¢ To send email notifications about new, existing, enhanced products or services. 
 
-Usage of a cookie is in no way linked to any personally identifiable information while on our site. 
+â€¢ To send information on special offers, or to obtain your feedback to help enhance existing features or provide added products and services. 
 
-Advertising  
-A cookie file may also be placed on your hard drive by our third-party advertising companies. These companies may use aggregated statistics about your visits to this and other websites in order to provide advertisements about travel-related goods and services that you may be interested in. The information they collect does not include your personally identifiable information.The third-party advertising companies may also employ technology that is used to measure the effectiveness of ads. This is primarily accomplished through the use of a Web beacon (a single-pixel GIF), which is placed on our site to collect anonymous information. They may use this anonymous information about your visits to this and other sites in order to provide advertisements about goods and services of potential interest to you. No personally identifiable information is collected during this process. The information is anonymous and does not link online actions to an identifiable person. If you would like more information and want to explore the option of not having this information collected by third-party advertisers, [click here](http://www.networkadvertising.org/).
+â€¢ To enable us to personalize content, advertising and promotions based on preferences, needs, suggestions, or recommendations. 
 
-Log Files  
-We use IP addresses to analyze trends, administer the website, track users' movements, and gather broad demographic information for aggregate use.  IP addresses are not linked to personally identifiable information. 
+â€¢ To provide advance notice of termination of a trial period or an opportunity to extend a trial period, or advance notice of expiration of your software license. 
 
-Affiliates  
-An Affiliate is a Web site not owned or operated by IAN.com, but uses IAN.com's booking capabilities for processing travel reservations.  The IAN.com name may or may not appear on the Affiliate site. 
+We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our service agreements or terms of use (for example protect our intellectual property rights), and your compliance with the applicable End User License Agreement(s) contained within the PrivacyDr Software. We may also disclose or use your personal information when we, in good faith, believe that the applicable law may require us to do so. 
 
-You may have accessed IAN.com via one of our Affiliate websites. Some of our Affiliates also use cookies on our site. However, we have no access to or control over these cookies, once we have given permission for them to set cookies. Please be aware that IAN.com is in no way responsible for the privacy practices of such other websites. We encourage you to read the privacy statement of the Affiliate and each and every website you visit that collects personally identifiable information. This Privacy Statement covers the use of cookies by this website only and does not cover the use of cookies by any of our Affiliates, advertisers or other business partners. 
+Cookies 
 
-SHARING  
-Legal Disclaimer  
-Though we make every effort to preserve user privacy, we may be required by law to disclose information you have provided in obtaining our travel products or services. We may also disclose information against someone who poses a threat to our interests (such as customer fraud) or whose activities could bring harm to others. In addition, it may be necessary for us to provide customer information to third parties, such as credit card companies, for the purpose of resolving disputes that arise in the normal course of business. 
+We define a cookie as any string of data and information that is automatically stored on your computer upon access to our services. PrivacyDr employs cookies to assign temporary identification numbers to machines that access our services. This information enables us to deliver faster service capabilities to our customers or to our affiliates and/or other sales partners, prevent denial of service attacks on our systems, detect and prevent fraudulent transactions, and assist with awarding proper sales credit to our partners. All PrivacyDr cookies are 1) of limited duration, 2) less than 5KB in length, 3) only visible to PrivacyDr , and 4) devoid of any personally identifiable information. Our Cookies are mainly maintained to track our affiliates and/or other sales partners to ensure proper payments for their sales and tracking activities relating to their affiliate relationship with us. 
 
-Third Party Intermediaries  
-IAN.com uses an outside a credit card processing company and bank check processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+Links 
 
-This website makes use of a technology designed to enhance your browsing experience. The technology, provided as a hosted service application by Fireclick ®, makes use of a small and transparent Java applet to provide you with a faster browsing experience. In addition, aggregate reporting information is collected and made available to the website owner only. No personal or personally identifiable information is gathered or used for this process. 
+We may offer links from our website and software to other third party websites which may be hosted by our co-branding partners or by unrelated companies which we think may be of interest to you. Such websites are not governed by this privacy policy and PrivacyDr makes no representation as to their practices for dealing with your personal information. We recommend that you check the privacy policy of any website at the beginning of your visit. 
 
-If for any reason you do not wish to have this technology enabled while browsing this site, please [click here](javascipt:fcDisableTracking\(\);). A cookie will be set on your browser that instructs the service not to start. If you have disabled the service and wish to reactivate it, please click here. Additional information on Fireclick's technology may be found at [www.fireclick.com](http://www.fireclick.com/). 
+Policy Modifications 
 
-Suppliers  
-IAN.com provides information about travel either reserved or purchased on this website to the suppliers whose will fulfill your travel reservation. Although we offers travel products from hotel, airline, car rental and other suppliers that are reputable companies, we have not placed limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any travel suppliers whose products you purchase on this website. In addition, these travel suppliers may also contact you as necessary to obtain additional information about your confirmed reservation. 
+We may change this Privacy Policy at any time without notice to you in order to reflect our practices and provide greater protection for your information. Any changes to this Privacy Policy will be posted promptly here, so please check back periodically. 
 
-IAN.com will occasionally share aggregated information with our service providers. This information does not contain any personally identifiable information and is used to develop featured programs and content that will be of interest to our website visitors. 
+Acceptance of Terms 
 
-IAN.com may contract with a reputable third-party to facilitate the distribution of survey, promotion, or sweepstakes programs. Upon completion of these projects, all information is returned to us. 
-
-Affiliates  
-If you access our website through one of our Affiliates and make travel reservations, your personally identifiable information (other than credit card information) may be forwarded to that particular Affiliate. 
-
-Aggregate Information (non-personally identifiable information)  
-IAN.com will share aggregated demographic information with our Affiliates and advertisers. 
-
-Links  
-This site may contain links to other sites. Please be aware that IAN.com is in no way responsible for the privacy practices of such other sites.  We encourage our customers to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.  This privacy statement applies solely to information collected by the IAN.com website.  NOTIFICATION OF CHANGES  
-If IAN.com decides to change its Privacy Statement, we will post those changes this Privacy Statement so you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of email. You will have a choice as to whether or not we use your information in this different manner.  CORRECTING/UPDATING PERSONAL INFORMATION  
-If a user's personally identifiable information (such as zip code, phone, email or postal address) changes or if a user no longer desires our service, we provide a way to correct or update a user's personally identifiable information. Users can all email our Customer Support at [Customer Care](mailto:customers@ian.com) or contact us by telephone or postal mail at the contact information listed below.  CONTACT INFORMATION
-
-If users have any questions or suggestions regarding our Privacy Statement, please contact us at: 
-
-Email [Customer Care](mailto:customers@ian.com)
-
-| Postal Address: |    
----|---  
-  | 10440 North Central Expressway  
-Suite 400  
-Dallas, Texas 75231  
-USA   
-  
-This Privacy Statement is effective as of July 22, 2004 
+By using the PrivacyDr services, accessing the PrivacyDr web site and/or PrivacyDr software sites, or purchasing PrivacyDr products you are consenting to the practices relating to information collection and use that are described in this Privacy Policy. 
