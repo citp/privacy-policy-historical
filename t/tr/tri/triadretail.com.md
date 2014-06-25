@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triadretail.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211033314id_/http%3A//www.triadretail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triadretail.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082729id_/http%3A//www.triadretail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Triad Retail Media
 
@@ -106,4 +106,4 @@ For concerns or complaints that cannot be resolved between Triad and the complai
 We welcome any questions or comments you may have regarding this privacy policy or the use of personal data. In addition, if you wish to contact correct, amend or delete information about privacy related issue or for any reason at all, you may do so in mailing your request to: Privacy Policy c/o Triad Digital Media, LLC db/a Triad Retail Media, 100 Carillon Pkwy., Ste. 100, Saint Petersburg, FL  33716  
 or email to: privacy@triadretail.com.
 
-[SMS Terms and Conditions](https://web.archive.org/web/20131211033314id_/http://triadretail.com/privacy/sms-terms-and-conditions.html)
+[SMS Terms and Conditions](https://web.archive.org/web/20140625082729id_/http://triadretail.com/privacy/sms-terms-and-conditions.html)
