@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalblasphemy.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823054150id_/http%3A//digitalblasphemy.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalblasphemy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115438id_/http%3A//digitalblasphemy.com/privacy.shtml) for the most accurate reproduction.*
 
 # 
 
@@ -35,17 +35,11 @@ Member's username information stored in my server logs is used only to detect il
 
   * **Third Parties Collecting Information about Digital Blasphemy Users:** Digital Blasphemy uses third-party advertising companies to serve ads when you visit my Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
-Follow the links below to inspect the privacy policies of the sites I conduct business with.
-
-They are: 
-
-    * [Burst Media, LLC](http://www.burstmedia.com/release/privacy.asp) (serves banner ads) 
-    * [Google Adsense](http://www.google.com/privacy.html) (serves banner ads) 
-    * [Valueclick Media](https://www.valueclickmedia.com/privacy.shtml) (serves banner ads) 
+DB uses Google Adsense to serve ads and includes a Doubleclick tracking cookie in my footer which reads the cookie already on your computer to serve you better ads. 
 
 **If any of the above information is unclear, don't hesitate to write me for a clarification. Basically it all boils down to this: your privacy and peace of mind are of the utmost importance to me. I will never do anything to jeopardize your trust in me (Ryan Bliss) or my site (Digital Blasphemy)**
 
-This document was last updated on Sunday, 26-Feb-2012 09:31:29 CST 
+This document was last updated on Tuesday, 17-Sep-2013 07:31:05 CDT 
 
 
 
