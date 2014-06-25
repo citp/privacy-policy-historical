@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trysensa.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430125840id_/http%3A//www.trysensa.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trysensa.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122151id_/http%3A//www.sensa.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Sensa Weight Loss System - Official Site - Lose Weight with Sensa
+# Sensa Products, LLC Privacy Policy
 
   
 **Effective January 01, 2011**  
@@ -15,7 +15,7 @@ The security of your personal information is important to us. When you enter sen
 
 However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our site, please contact us as indicated below.  
   
-We may occasionally send you information on special offers, promotions, or product updates, or you may be a subscriber to our newsletters or you may have opted in to receive newsletters or special promotions from one of our trusted third party providers. If you ever decide you no longer wish to receive these communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by contacting the SENSA® Products Customer Service Team on our [contact page](http://www.trysensa.com/contact-us.htm) or by writing to us at the address below.  
+We may occasionally send you information on special offers, promotions, or product updates, or you may be a subscriber to our newsletters or you may have opted in to receive newsletters or special promotions from one of our trusted third party providers. If you ever decide you no longer wish to receive these communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by contacting the SENSA® Products Customer Service Team on our [contact page](http://www.sensa.com/contact-us.htm) or by writing to us at the address below.  
   
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies to collect anonymous information about how you use this site by setting and accessing cookies on your computer. These cookies track information such as how often you visit our site, what pages you view, and where you go after you leave our site. The cookies are not connected to your personal information.  
   
@@ -33,7 +33,7 @@ SENSA Products, LLC
 28516 Livingston Ave  
 Valencia, CA 91355
 
-[Email](http://www.trysensa.com/contact-us.htm)
+[Email](http://www.sensa.com/contact-us.htm)
 
 Or call (866) 514-2554  
-Mon-Sat 7:00am to 4:00pm PST 
+Mon-Fri 7:00am to 4:00pm PST 
