@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the askkissy.com privacy policy that was archived on 2012-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120731052631id_/http%3A//www.askkissy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askkissy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071637id_/http%3A//askkissy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AsKKissy.com
-
-.
-
-* * *
+# Privacy Policy | Ask Kissy.com - Celebrity Gossip
 
 **Privacy Policy for www.askkissy.com**
 
