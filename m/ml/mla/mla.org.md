@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mla.org privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111210701id_/http%3A//www.mla.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mla.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142621id_/http%3A//www.mla.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+| 
 
 The Modern Language Association is committed to protecting the privacy of its members and has adopted the following policy about the gathering and dissemination of personal information at the MLA's network of Web sites, which includes [www.mla.org](http://www.mla.org/), [www.ade.org](http://www.ade.org/), [www.adfl.org](http://www.adfl.org/), and [www.mlajournals.org](http://www.mlajournals.org/). 
 
@@ -19,3 +21,6 @@ You can set your browser to warn you before you accept a cookie. You can also se
 **5\. Other sites.** The MLA Web sites contain links to other Web sites. The MLA is not responsible for the privacy practices or content of other Web sites.
 
 If you have questions or comments about the MLA privacy policy, please write to [tcallaghan@mla.org](mailto:tcallaghan@mla.org).
+
+|   
+---|---|---
