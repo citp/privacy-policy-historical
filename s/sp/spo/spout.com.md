@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spout.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106055823id_/http%3A//www.indiewire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spout.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625213140id_/http%3A//www.indiewire.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Filmmakers, Film Industry, Film Festivals, Awards & Movie Reviews | Indiewire
+# Privacy|Filmmakers,Film Industry, Film Festivals, Awards & Movie Reviews | Indiewire
 
 **Indiewire Privacy Statement**
 
@@ -47,6 +47,3 @@ Remember that Indiewire.com contains links to other sites, such as Indiewire par
 If you have any questions about this Privacy Statement, Indiewire practices, or feel that your privacy has been compromised, please contact us at [contact@indiewire.com](mailto:contact@indiewire.com).
 
 The Privacy Statement posted on this site was updated on or about October 28, 2013. 
-
-  
-
