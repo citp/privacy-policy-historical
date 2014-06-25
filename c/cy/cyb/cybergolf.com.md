@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybergolf.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202030743id_/http%3A//www.cybergolf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybergolf.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233811id_/http%3A//www.cybergolf.com/privacy) for the most accurate reproduction.*
 
 # Cybergolf
 
@@ -11,3 +11,6 @@ Cybergolf.com analyzes information from our web server logs such as IP addresses
 Our site uses cookies to help users customize their experience on Cybergolf.
 
 Information that is sent through this site via forms is currently not encrypted. 
+
+  
+
