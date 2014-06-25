@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emagicone.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127104356id_/http%3A//emagicone.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emagicone.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100327id_/http%3A//emagicone.com/privacy-statement) for the most accurate reproduction.*
 
 # eMagicOne » Privacy Statement
 
@@ -45,6 +45,3 @@ You can review and edit your personal information at any time by logging in to y
 ## **PRIVACY QUESTIONS**
 
 If you have any questions or concerning Privacy Policy or data processing, please [contact us](http://emagicone.com/contact-us/ "contact us"). eMagicOne may update its Privacy Policy from time to time. When we change the policy, a notice will be posted on our website along with the updated Privacy Policy and also we will revise the “last updated” date at the top of this page.
-
-
-
