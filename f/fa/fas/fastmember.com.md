@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fastmember.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902205539id_/http%3A//fastmember.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastmember.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072207id_/http%3A//fastmember.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy — Fast Member
 
 This privacy policy sets out how **Fast Member** uses and protects any information that you give **Fast Member** when you use this website.
 
