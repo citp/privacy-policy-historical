@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the greytip.in privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219131816id_/http%3A//www.greytip.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greytip.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142954id_/http%3A//www.greytip.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greytip Software India
 
-At Greytip Software Pvt. Ltd., we believe it is your right to know what information we collect, how we use it, and what your options are for its use. This privacy policy applies to all of the products and services offered by Greytip or its subsidiaries or affiliated companies ("The Company", "Greytip", "Greytip Online", "Service", "we", "us", "our", and terms of similar meaning).
+At Greytip Software Pvt. Ltd., we believe it is your right to know what information we collect, how we use it, and what your options are for its use. This privacy policy applies to all of the products and services offered by Greytip or its subsidiaries or affiliated companies ("The Company", "Greytip", "greytHR", "Service", "we", "us", "our", and terms of similar meaning).
 
 Greytip Software adheres to the [US Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/) of: Notice, Choice, Onward Transfer, Access, Security, Data Integrity, and Enforcement.
 
-By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use.](https://web.archive.org/web/20131219131816id_/http%3A//www.greytip.in/terms-service)
+By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use.](https://web.archive.org/web/20140625142954id_/http%3A//www.greytip.in/terms-service)
 
 Greytip regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Greytip's treatment of personal information by contacting us through this web site or by writing to us at 
 
 Privacy Matters  
 c/o Greytip Software Pvt. Ltd.  
-#433, I C Cross, 7th Block,  
-Koramangala, Bangalore 560095  
+30/31, 100 Feet Road, Koramangala II Block   
+Bangalore 560034  
 India
 
 ## How we use and collect your information
 
 In order to provide our full range of services, we may collect the following types of information:
 
-  * **Information you provide** \- When you sign up for a Greytip Account or other Greytip service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For our SaaS customers, we also maintain Customer Data which is managed differently as explained in a later section.
-  * **Cookies** \- When you visit Greytip, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies primarily for user authentication but may also use them to improve the quality of our service by storing user preferences and tracking user trends.
-  * **Log information** \- When you access Greytip services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-  * **User communications** \- When you send email or other communications to Greytip, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+  *  **Information you provide** \- When you sign up for a Greytip Account or other Greytip service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For our SaaS customers, we also maintain Customer Data which is managed differently as explained in a later section.
+  *  **Cookies** \- When you visit Greytip, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies primarily for user authentication but may also use them to improve the quality of our service by storing user preferences and tracking user trends.
+  *  **Log information** \- When you access Greytip services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+  *  **User communications** \- When you send email or other communications to Greytip, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
 
 
 
