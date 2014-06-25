@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 9thelm.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805091721id_/http%3A//9thelm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9thelm.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073856id_/http%3A//9thelm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Your privacy is critically important to us. At 9th &Elm** **  we have a few fundamental principles:**
+**Your privacy is critically important to us. At 9thandelm** **  we have a few fundamental principles:**
 
   1. We don’t ask you for personal information unless we truly need it. 
 
