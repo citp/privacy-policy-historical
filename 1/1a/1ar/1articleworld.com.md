@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1articleworld.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026015842id_/http%3A//www.1articleworld.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1articleworld.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064844id_/http%3A//www.1articleworld.com/terms.php) for the most accurate reproduction.*
 
 # Site Terms | www.1ArticleWorld.com
 
@@ -61,6 +61,9 @@ Article submission by authors is encouraged and appreciated. Articles that don't
   * **HTML is not allowed -** Except in the author's resource box. The HTML allowed there is only hyperlinks (max 3, but 2 is better) to your website. No image links, javascript, php or asp! Any member that submits a link with the intention of causing harm to others computers or hosted sites, or uses any of the above scripting lanuages anywhere in the article will have their accounts cancelled/banned and may have their information passed onto the proper authorities. We check EVERY link and have no problem reporting suspicious links and spammers!
   
 
+  * **Right To Delete Articles -** We reserve the right to delete any article(s) or ban any author account without prior notice, if it is deemed to have copyright violations or if we receive complaints of spam or improper use of links within the article(s). 
+  
+
   * **These article subjects will be rejected! -** Any article that promotes violence, hate, prejudice, warez, porn, drugs advertising sex toys or services, or gambling or illegal activities will not be accepted and will be deleted. Articles that are obvious ads will be deleted along with press releases. Articles proposing online sex sites will be deleted. Articles with links to online sex sites will be deleted. Articles about online gambling & casino sites will be deleted. Articles with viagra links or online pharmacy content/links will be deleted. 
   
 
@@ -80,9 +83,5 @@ We can be reached by emailing us from the contact link above.
 #### Changes to this Policy 
 
 www.1ArticleWorld.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
-
-#### Governing law 
-
-This policy and the use of this Site are governed by our state's law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Seattle. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
