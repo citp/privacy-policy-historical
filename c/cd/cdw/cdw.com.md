@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdw.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214092717id_/http%3A//www.cdw.com/content/terms-conditions/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdw.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105717id_/http%3A//www.cdw.com/content/terms-conditions/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Terms and Conditions - Privacy Policy
 
@@ -15,11 +15,13 @@ When you visit our Sites, some information about your visit is automatically col
 
 
 
+Other third parties may collect information about you through our Sites, including personally identifiable information about your online activities over time and across different websites when you use our Sites. Some third parties provide us with analytics services and collect the type of information described above. Some third parties collect information on behalf of CDW and others for online advertising purposes described below.
+
 **ONLINE ADVERTISEMENTS**
 
 We may use information collected using third party cookies and Web beacons on our Sites and in our emails to deliver CDW advertising displayed to you on third party sites. We also use cookie information to know when you return to our Site after visiting these third party sites. We use this information and other information about you, including order and cart activity information, to try to understand your interests and show you relevant advertising and information about products and services offered by CDW and its partners.
 
-Certain third party ad networks may automatically collect information about your visits to this and other websites, your IP address, your ISP, and the browser you use to visit our Site (but not your name, address, email address or telephone number). They do this using cookies, Web beacons or other technologies. Information collected may be used, among other things, to deliver advertising relevant to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or Web beacons in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options).
+Certain third party ad networks may automatically collect information about your visits to this and other websites, your IP address, your ISP, and the browser you use to visit our Site (but not your name, address, email address or telephone number). They do this using cookies, Web beacons or other technologies. Information collected may be used, among other things, to deliver advertising relevant to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or Web beacons in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you would like more information about this practice and your choices, [click here](http://www.aboutads.info/choices/#completed).
 
 **USE OF INFORMATION WE COLLECT**
 
@@ -60,11 +62,11 @@ CDW takes reasonable steps to help protect your personal information in an effor
 
 **YOUR INFORMATION CHOICES AND CHANGES**
 
-You may opt-out of receiving promotional emails from CDW by following the instructions in those emails. To manage your E-mail subscription, [click here](https://web.archive.org/unsubscribeemail). To manage your Catalog subscription, [click here](https://web.archive.org/shop/Catalog/RequestCatalog.aspx). You may also make requests about your contact preferences and changes to your information by contacting your account manager. If you do not know your account manager, simply [click here](https://web.archive.org/content/contact-us/customer-relations.asp). If you opt-out of promotional emails, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
+You may opt-out of receiving promotional emails from CDW by following the instructions in those emails. To manage your E-mail subscription, [click here](https://web.archive.org/content/myaccount/subscription-center/subscriptioncenter.aspx). To manage your Catalog subscription, [click here](https://web.archive.org/shop/Catalog/RequestCatalog.aspx). You may also make requests about your contact preferences and changes to your information by contacting your account manager. If you do not know your account manager, simply [click here](https://web.archive.org/content/contact-us/customer-relations.asp). If you opt-out of promotional emails, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
 
-You may correct some personal and account information maintained in your E-Account through your E-Account. To correct any other information, please contact your account manager. If you do not know your account manager, simply [click here](https://web.archive.org/content/contact-us/customer-relations.asp) or call 866.782.4239.
+You may correct some personal and account information maintained in your E-Account through your E-Account. To request the correction or deletion of any other information or content posted on our Sites, please contact your account manager. If you do not know your account manager, simply [click here](https://web.archive.org/content/contact-us/customer-relations.asp) or call 800.800.4239.
 
-Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Site. You can also choose to opt-out of use of cookies by CDW’s third party advertising partners to deliver ads tailored to your profile and preferences. To find out more and opt-out [click here](http://www.networkadvertising.org/managing/opt_out.asp). If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.
+When you visit our Site, we and others give you the following choices about use of mechanisms for tracking, including tracking of your online activities over time and across different websites and online services by third parties. Many Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies from CDW. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Site. You can choose to opt-out of use of cookies by certain third-party analytics providers and advertising networks to deliver ads tailored to your profile and preferences. To find out more and opt-out [click here](http://www.aboutads.info/choices/#completed) or visit our [About Cookies page](https://web.archive.org/content/terms-conditions/cookies.aspx). If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice. While we and others give you choices described in this Policy, there are many ways Web browser signals and other similar mechanisms can indicate your choice to disable tracking, and we may not be aware of or honor every mechanism.
 
 **CHANGES TO THIS POLICY**
 
@@ -74,4 +76,4 @@ CDW may change this Policy from time to time. If we make any changes to this Pol
 
 If you have any questions about this Policy, please contact us by [clicking here](mailto:CDWWay@cdw.com). 
 
-Version Date: 01/24/2012
+Version Date:1/7/2014
