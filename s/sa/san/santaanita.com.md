@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the santaanita.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229025611id_/http%3A//www.santaanita.com/content/electronic-privacy-statement-santa-anita-park) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santaanita.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123723id_/http%3A//www.santaanita.com/content/electronic-privacy-statement-santa-anita-park) for the most accurate reproduction.*
 
 # Electronic Privacy Statement for Santa Anita Park | Santa Anita Park
 
-This privacy policy was last updated on February 9, 2012   
+This privacy policy was last updated on April 5, 2014   
 Your privacy is important to us. PLEASE READ 
 
 Santa Anita Park has created this electronic privacy statement in order to demonstrate our firm commitment to privacy. We believe that strong electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. The following discloses our electronic information gathering and dissemination practices for our racetrack facility and our website: [www.santaanita.com](http://www.santaanita.com/)
@@ -34,6 +34,10 @@ Santa Anita Park has the right to modify this privacy policy from time to time a
 Our website has security measures in place to protect the loss, misuse and alteration of the personal information under our control. All data is kept on secure database servers. 
 
 All data entry is done via a secure interface that provides no export facility. Please be advised, however, that the Internet and other networking communication mediums are not secure, unless specified as such, and may be subject to interception or loss which is beyond the control of Santa Anita Park. Also be advised that the security, integrity and privacy of any and all information and data exchanged between you and Santa Anita Park on this website cannot be guaranteed. 
+
+## Text Services
+
+Standard data/text message charges may apply. All those that "opt in" via a text message may be contacted by Santa Anita Park in the future. Santa Anita Park will limit contact by two (2) text messages per month (this does not include "opt in" or "keyword" text messages). You automatically "opt in" if you text a keyword to Santa Anita Park's short code '72727'. Santa Anita Park will not divulge this information to any other party, meaning messages will only be sent by Santa Anita Park. At anytime a customer may "opt out" of Santa Anita Park's text messages by replying STOP to 72727 or by e-mailing [contact@santaanita.com](mailto:contact@santaanita.com) including your phone number and that you would like to stop receiving these messages. Santa Anita Park is not liable for any charges applied by your service. 
 
 ## Confidentiality and Sharing of Information
 
