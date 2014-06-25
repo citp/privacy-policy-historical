@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adventnet.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113083220id_/http%3A//www.manageengine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventnet.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010051id_/http%3A//www.manageengine.com/privacy.html) for the most accurate reproduction.*
 
 # ManageEngine Privacy Policy
-
-| 
 
 12th October 2006
 
@@ -68,6 +66,4 @@ Any changes to our privacy policy will be posted on our websites in order to kee
 
 ## END OF PRIVACY POLICY
 
-If you have any questions or concerns regarding this privacy policy, please contact us at [legal@manageengine.com](mailto:legal@manageengine.com)  
-  
----|---
+If you have any questions or concerns regarding this privacy policy, please contact us at [legal@manageengine.com](mailto:legal@manageengine.com)
