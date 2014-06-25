@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hackread.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114012752id_/http%3A//hackread.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackread.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104611id_/http%3A//hackread.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy – HackRead – Latest Cyber Crime – Information Security – Hacking News
+# Privacy policy | Hack Read
 
-This privacy policy sets out how **HackRead** uses and protects any information that you give when you use this website.
+This privacy policy sets out how [**HackRead**](http://hackread.com/ "HackRead") uses and protects any information that you give when you use this website.
 
-**HackRead** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+[**HackRead**](http://hackread.com/ "HackRead") is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 [bw_company] may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: September 2012
 
@@ -40,9 +40,9 @@ Cookies are text files containing small amounts of information which are downloa
 
 You can find more information about cookies at:
 
-  * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
-  * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-  * For a video about cookies visit [a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies/)
+  * **[www.allaboutcookies.org](http://www.allaboutcookies.org/)**
+  * **[www.youronlinechoices.eu](http://www.youronlinechoices.eu/)**
+  * For a video about cookies visit **[a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies/)**
 
 
 
@@ -91,5 +91,4 @@ A small fee will be payable.
 
 If you would like a copy of the information held on you please write to: [bw_address]
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.  
-
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
