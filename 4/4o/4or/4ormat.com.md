@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 4ormat.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009181729id_/http%3A//4ormat.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4ormat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112745id_/http%3A//4ormat.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - 4ormat
 
 **Last Updated on 15.February.2011**
 
-This is the Privacy Policy of the 4ormat website (together with our affiliates and subsidiaries, “IdeaForm Inc.”, “we”, “us”, “our” and terms of similar meaning) and our related products and services (the “Site”). It describes the information that we collect from users of our Site (“Users”) as part of the normal operation of our Site, and how we use and disclose this information
+This is the Privacy Policy of the 4ormat website (together with our affiliates and subsidiaries, “Ideaform Inc.”, “we”, “us”, “our” and terms of similar meaning) and our related products and services (the “Site”). It describes the information that we collect from users of our Site (“Users”) as part of the normal operation of our Site, and how we use and disclose this information
 
 By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use](https://web.archive.org/terms_of_service)
 
@@ -46,7 +46,7 @@ We may also disclose personal information to the acquiror or its agents in the c
 
 **Security**
 
-IdeaForm Inc. strives to protect your personal information. For security of transactions, we use the Secure Sockets Layer (SSL) protocol, which encrypts any personal information you enter into registration forms on the Site. The encryption process protects your information, by scrambling it before it is sent to us from your computer. We also make commercially reasonable effort to ensure the security of your personal information on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot warrant the security of any information you transmit to us. 
+Ideaform Inc. strives to protect your personal information. For security of transactions, we use the Secure Sockets Layer (SSL) protocol, which encrypts any personal information you enter into registration forms on the Site. The encryption process protects your information, by scrambling it before it is sent to us from your computer. We also make commercially reasonable effort to ensure the security of your personal information on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot warrant the security of any information you transmit to us. 
 
 **Other Information Collectors**
 
