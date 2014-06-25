@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilottery.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206192937id_/http%3A//www.wilottery.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilottery.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105233id_/http%3A//www.wilottery.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,6 +13,7 @@ Information collected at this site becomes public record and may be subject to i
   * Cookies
   * Security
   * Disclaimer
+  * Players Club
   * Social Media
 
 
@@ -96,6 +97,10 @@ This information should not be construed in any way as giving business, legal, o
 ## Disclaimer
 
 Wilottery.com has links to other web sites. These include links to web sites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on Wilottery.com and this Privacy Notice will not apply. When you link to another web site, you are subject to the privacy policy of that new site.
+
+## Players Club
+
+The Wisconsin Lottery uses a third party vendor, GovDelivery, to bring you the Player's Club emails.  When joining Players Club, you are being directed to their website, and not the Lottery website.  However, your personal information is not shared with outside groups. ** [Read the GovDelivery privacy policy here](https://subscriberhelp.govdelivery.com/hc/en-us/articles/200355775-GovDelivery-Privacy-Policy)** (exit this site).
 
 ## Social Media
 
