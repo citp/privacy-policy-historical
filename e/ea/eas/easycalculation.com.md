@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the easycalculation.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128073406id_/http%3A//easycalculation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycalculation.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065429id_/http%3A//easycalculation.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
-**PRIVACY POLICY**
+#### PRIVACY POLICY
 
 Thank you for visiting EasyCalculation.com. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit the EastCalculation.com Web site, unless you affirmatively choose to make such information available to us.
 
