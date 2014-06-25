@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spendmatters.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212040947id_/https%3A//spendmatters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spendmatters.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625155426id_/http%3A//spendmatters.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « Spend Matters Spend Matters
+# Privacy Policy « Spend Matters
 
 [Home](http://spendmatters.com/) | Privacy Policy
 
