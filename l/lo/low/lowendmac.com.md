@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109015354id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110422id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
-[](https://web.archive.org/)
+[](https://web.archive.org/index.php)
 
 ## Low End Mac's Privacy Policy
 
@@ -37,8 +37,8 @@ Low End Mac is an independent publication and has not been authorized, sponsored
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it, and we don't share the information we have with others. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
 
 | 
-* Mac of the Day: [15" 'TiBook' PowerBook G4](https://web.archive.org/pb2/powerbook-g4-400-500-mhz.html), introduced 2001.01.09. A new 1" thin PowerBook design with a titanium case, 15" widescreen display.
-* List of the Day: [Vintage Macs](http://lowendmac.com/lists/vintagemacs.shtml) is for all 680x0-based Macs, from the 128K through Quadras.  
+* Mac of the Day: [600 MHz iMac G3](https://web.archive.org/2001/imac-g3-early-2001/), introduced 2001.02.22. The fastest iMac to date, the Early 2001 model introduced flowers and spots, hit 600 MHz mark.
+* List of the Day: [G4 'Books](http://lowendmac.com/lists/g4books.html) is our group for G4 iBook and PowerBook users.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/ppc/index.shtml)  
