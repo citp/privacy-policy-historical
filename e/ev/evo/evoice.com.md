@@ -1,12 +1,27 @@
-> *The following text is extracted and transformed from the evoice.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020235828id_/http%3A//www.evoice.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evoice.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625192400id_/http%3A//www.evoice.com/privacy) for the most accurate reproduction.*
 
-# eVoice Privacy Policy
+# Privacy Policy | eVoice
 
----  
+This Privacy Policy is effective on April 21st, 2009 for current users, and upon acceptance for new users. 
+
+j2 Web Services, Inc. and its subsidiaries (the "Company", "we", "us" or "our") are dedicated to establishing trusting relationships with our users by respecting their personal identity and by promoting the use of fair information practices. This privacy policy ("Policy") covers the information practices relating to the eVoice® Web Site, [www.eVoice.com](https://web.archive.org/homePage) ("Site") and all eVoice Services ("Services") offered now or in the future. For purposes of this policy, "eVoice account" is defined as both the eVoice Receptionist account and the eVoice Plus account through which you access the Services.    
+We do not share information obtained from users through our Site or Services with third parties except as otherwise specifically set forth in this Policy. 
+
   
-| 1\. Information Collection  
----  
   
+In this Policy we describe the following: 
+
+  1. What personally identifiable information the Company collects.
+  2. How the Company uses the information and with whom the Company may share users' information.
+  3. What choices are available to users regarding collection, use and distribution of the information.
+  4. What types of security procedures are in place to protect the loss, misuse or alteration of this information to the extent under the Company's control.
+  5. How users can correct any inaccuracies in the information.
+  6. How we will notify you of any changes to this Policy.
+  7. The Company's participation in the Safe Harbor program.
+  8. The Company's data retention practices. ** **
+
+
+
 The Company collects information from its users at several different points on the Site and through the Services, both directly from users (including through interactions with Customer Service and Sales) and through the use of technologies such as cookies, log files and clear gifs.
 
   1. **Registration**
@@ -55,13 +70,8 @@ For tips on protecting children's privacy online, please visit the FTC's Web sit
 (<http://www.ftc.gov/bcp/menus/consumer/data/child.shtm>).
 
 
-  
-  
-   
-  
-|  2\. Use of Personally Identifiable Information  
----  
-  
+
+
   1. **Legal, Security and Safety**
 
 The Company does not release personally identifying information about our users (other than as disclosed in this Policy) or monitor, edit or disclose the contents of users' private communications through the Services except where the Company in good faith believes that such action is necessary to: (1) comply with the law or where we have a good-faith belief that such disclosure is necessary to comply with a current judicial proceeding, a court order or legal process served on us; (2) investigate, prevent or take action regarding illegal activity; (3) protect and defend the rights or property of the Company; or (4) to protect the personal safety of our users or the public. For example, we may disclose personal information to law enforcement, other government officials or third parties in response to criminal or civil subpoenas. Sometimes, these subpoena requests come from our third party Internet, telecommunications and collocation providers all over the world who supply the network required for us to deliver our Services. In order to maintain the integrity of our network, we often cooperate with requests from these third party providers and/or requests from law enforcement or other governmental officials directed to these providers. In cases where the Company believes that disclosure of any information about a user (including account information) is necessary, we reserve the right to disclose all information in our possession about such user.
@@ -69,16 +79,16 @@ The Company does not release personally identifying information about our users 
     1. Civil Subpoena Policy   
 To request user information from the Company in a civil case, you must serve the Company with a valid subpoena, court order or search warrant and agree to the Company's terms of compensation below. All civil subpoenas should be directed to: 
 
-j2 Global Communications, Inc.   
+j2 Web Services, Inc.   
 Subpoena Department   
 6922 Hollywood Boulevard   
 5th Floor   
 Los Angeles, CA 90028   
 Fax: 1-310-943-2400 
 
-Upon receipt of a valid subpoena, it is the Company's policy to notify the subscriber whose information is sought. In non-emergency circumstances, the Company will generally not produce the subpoenaed subscriber's identity information until approximately two weeks after receipt of the subpoena, unless a formal objection is filed by the user or we are legally required to do so. 
+Upon receipt of a valid subpoena, it is the Company's policy to notify the subscriber whose information is sought. In non-emergency circumstances, the Company will generally not produce the subpoenaed subscriber's identity information until approximately two weeks after receipt of the subpoena, unless a formal objection is filed by the user or we are legally required to do so.
 
-The Company charges $90.00 per hour for research (plus additional fees if testimony or deposition is required), $0.25 per page, and $22.00 to respond via Federal Express. We will invoice the person or entity submitting the subpoena following receipt and the subpoena proponent must make payment within 15 days from the date of receipt of our invoice. Checks should be made out to j2 Global Communications, Inc.
+The Company charges $90.00 per hour for research (plus additional fees if testimony or deposition is required), $0.25 per page, and $22.00 to respond via Federal Express. We will invoice the person or entity submitting the subpoena following receipt and the subpoena proponent must make payment within 15 days from the date of receipt of our invoice. Checks should be made out to j2 Web Services, Inc.
 
   
 
@@ -106,11 +116,6 @@ In order for the Company to properly fulfill its obligations, to improve our Ser
 
 
 
-|    
-  
-| 3\. User Choices Regarding Collection, Use and Distribution of Personally Identifiable Information.  
----  
-  
   1. **Business Transitions**
 
 In the event the Company goes through a business transition, such as a merger, acquisition by another company or sale of a portion of its assets, users' personal information will, in most instances, be included as part of the assets transferred. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given a choice not to have their information used in this different manner, as described in the notification of changes section, below.
@@ -140,44 +145,18 @@ Periodically, we might offer users an opportunity to participate in sweepstakes,
 Individual users who reside in California and have provided their personally identifiable information to the Company may request once per calendar year information about Company's disclosures of certain categories of personally identifiable information to third parties for their direct marketing purposes. Such requests should be directed to the Chief Privacy Officer at [cpo@j2global.com](mailto:cpo@j2global.com). Within thirty days of receiving such a request, we will provide a list of categories of personal information shared during the immediately preceding calendar year with other businesses for their direct marketing purposes, and the names and addresses of those third parties. The Company reserves its right to not respond to requests submitted other than to the email address specified in this section.
 
 
-  
-   
-  
-| 4\. Security  
----  
-  
+
+
 The Company takes every reasonable precaution to protect its users' information. When our registration/order forms ask users to enter their personally identifiable information, that information is protected with encryption software called SSL. Any activities after you log into your account are also encrypted with SSL.
 
-While we use SSL encryption to protect personally identifiable information online, we also employ security measures to protect user-information off-line. All of our users' information, not just the personally identifiable information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerks or a Customer Service representative) are granted access to personally identifiable information. Finally, the Company servers that store personally identifiable information are in a secure environment.  
-  
-   
-  
-| 5\. Changing Your Personally Identifiable Information  
----  
-  
-If a user's personally identifiable information changes (such as phone, credit card, email or postal address), users can change their information by logging into their account on the Site. If users have cancelled their account, they must call Customer Service to change their personally identifiable information.  
-  
-   
-  
-| 6\. Notification of Changes  
----  
-  
+While we use SSL encryption to protect personally identifiable information online, we also employ security measures to protect user-information off-line. All of our users' information, not just the personally identifiable information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerks or a Customer Service representative) are granted access to personally identifiable information. Finally, the Company servers that store personally identifiable information are in a secure environment.
+
+If a user's personally identifiable information changes (such as phone, credit card, email or postal address), users can change their information by logging into their account on the Site. If users have cancelled their account, they must call Customer Service to change their personally identifiable information.
+
 If we decide to change our Policy in a non-material way, we will post those changes in this Policy, and other places we deem appropriate, so our users are always aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 
-If, however, we change our Policy in a material way, we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have deleted/deactivated their account, then they will not be contacted if we change our Policy, nor will their personal information be used in this new manner.  
-  
-   
-  
-| 7\. Safe Harbor  
----  
-  
-The Company is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site. <https://safeharbor.export.gov/list.aspx>  
-  
-   
-  
-| 8\. Data Retention  
----  
-  
-The time period for which we keep information varies according to how we use the information. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we do not retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed.  
-  
- 
+If, however, we change our Policy in a material way, we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have deleted/deactivated their account, then they will not be contacted if we change our Policy, nor will their personal information be used in this new manner.
+
+The Company is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site. <https://safeharbor.export.gov/list.aspx>
+
+The time period for which we keep information varies according to how we use the information. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we do not retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed.
