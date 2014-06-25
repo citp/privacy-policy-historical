@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ehobbyasia.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821060401id_/http%3A//shop.ehobbyasia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehobbyasia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625173252id_/http%3A//shop.ehobbyasia.com/privacy.html) for the most accurate reproduction.*
 
 # Help - Privacy
 
-Choose a topic: 
+### Choose a topic: 
 
   * Privacy Policy
   * Overview
