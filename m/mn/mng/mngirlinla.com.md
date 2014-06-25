@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mngirlinla.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220102432id_/http%3A//mngirlinla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mngirlinla.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090929id_/http%3A//mngirlinla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Minnesota Girl in the WorldMinnesota Girl in the World
 
