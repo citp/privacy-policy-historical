@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordsolver.net privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220090759id_/http%3A//wordsolver.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordsolver.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122425id_/http%3A//wordsolver.net/privacypolicy) for the most accurate reproduction.*
 
-# WordSolver.net | Turn Letters into Words!
+# WordSolver | Turn Letters into Words!
 
 Log files are maintained (and retained for a few days) and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers. 
 
