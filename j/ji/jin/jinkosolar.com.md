@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the jinkosolar.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113171023id_/http%3A//www.jinkosolar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinkosolar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050126id_/http%3A//www.jinkosolar.com/privacy.html) for the most accurate reproduction.*
 
 # Jinko Solar | Your Best Supplier of Modules,Cells & Wafers
 
-[Home](https://web.archive.org/web/20131113171023id_/http%3A//www.jinkosolar.com/index.html) > Privacy Policy
-
-Privacy Policy
+## Privacy Policy
 
 Jinko Solar issues this privacy policy as its commitment on protecting the privacy of every individual or company. This statement outlines the policy to protect the personal information you provide us when visiting the Site.
 
@@ -28,31 +26,3 @@ Changes to this Policy
 
 Please check this privacy policy periodically to inform yourself of any changes.  
  
-
-  Print this page      E-mail this page
-
-Upcoming Events
-
-[](https://web.archive.org/web/20131113171023id_/http%3A//www.jinkosolar.com/event.html)
-
-Come and meet our professionals and find out what is new in solar market for yourself.
-
-[Read more](https://web.archive.org/web/20131113171023id_/http%3A//www.jinkosolar.com/event.html)
-
-High Quality Products
-
-Success stories 
-
-[ ](https://web.archive.org/web/20131113171023id_/http%3A//www.jinkosolar.com/projectslist.html)
-
-Our high efficiency modules are widely applied in different types of projects covering Utility Scale, Commercial, and Residential
-
-[Read more](https://web.archive.org/web/20131113171023id_/http%3A//www.jinkosolar.com/projectslist.html)
-
-Global Network
-
-[](https://web.archive.org/web/20131113171023id_/http%3A//www.jinkosolar.com/contact.html)
-
-We have an international presence by establishing representative offices in Europe, US and Asia Pacific, and logistics warehouses in Europe
-
-[Read more](https://web.archive.org/web/20131113171023id_/http%3A//www.jinkosolar.com/contact.html)
