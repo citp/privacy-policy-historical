@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mp3fiesta.com privacy policy that was archived on 2013-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213065127id_/http%3A//www.mp3fiesta.com/publication/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mp3fiesta.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625084035id_/http%3A//mp3fiesta.com/publication/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN"><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -167,7 +167,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="/statistic/newReleases/">
+					<a href="/statistic/newReleases/" class="green">
 						<span class="wrapper_l">
 							<span class="wrapper_r">
 								<span class="text">New Albums</span>
@@ -175,6 +175,15 @@
 						</span>
 					</a>
 				</li>
+                <li>
+                    <a href="/upcoming/">
+						<span class="wrapper_l">
+							<span class="wrapper_r">
+								<span class="text">Upcoming albums</span>
+							</span>
+						</span>
+                    </a>
+                </li>
 				<li>
 					<a href="/artists/">
 						<span class="wrapper_l">
@@ -198,15 +207,6 @@
 						<span class="wrapper_l">
 							<span class="wrapper_r">
 								<span class="text">Download manager</span>
-							</span>
-						</span>
-					</a>
-				</li>
-				<li>
-					<a href="/publication/premium.html" class="pink">
-						<span class="wrapper_l">
-							<span class="wrapper_r">
-								<span class="text">Premium Membership</span>
 							</span>
 						</span>
 					</a>
@@ -285,7 +285,7 @@ Paying for the Site services, the Client has to notify the Administration of pre
                     <li><span><a href="/soundtracks/">Soundtracks</a></span> |</li>
                     <li><span><a href="/chart/mp3fiesta/">Most Downloaded</a></span></li>
                 </ul>
-                <p>© 2008-2013 MP3fiesta.com All rights reserved.</p>
+                <p>© 2008-2014 MP3fiesta.com All rights reserved.</p>
                 <ul>
                     <li><span><a href="/publication/about.html" rel="nofollow">About</a></span> |</li>
                     <li><span><a href="/publication/legal.html" rel="nofollow">Legal Info</a></span> |</li>
@@ -392,7 +392,111 @@ Paying for the Site services, the Client has to notify the Administration of pre
 				</div>
 	</div>
 	<div class="botz"></div>
-</div>
+</div><!-- popuper -->
+    				<link rel="stylesheet" href="http://img.mp3fiesta.com/style/popuper/popuper.css">
+				<div id="confirm-modal-popuper" class="reveal-modal">
+					<h1 class="reveal-title-box">
+						Confirm action
+						<a class="close-reveal-modal close-reveal-modal-btn">×</a>
+					</h1>
+					<div class="reveal-content-wrap">
+						<div class="reveal-content-box">
+							
+							<table class="reveal-confirm-table">
+								<tbody><tr>
+									<td>
+										<p class="reveal-title"></p>
+										<p class="reveal-content"></p>
+									</td>
+								</tr>
+							</tbody></table>
+							
+							
+							
+							<table class="confirm-actions">
+								<tbody><tr>
+									<td><a href="javascript:void(0)" class="close-reveal-modal">Cancel</a></td>
+									<td><a href="javascript:void(0)" onclick="Popuper.confirm_btn()" class="reveal-btn reveal-btn-green confirm_label">Confirm</a></td>
+								</tr>
+							</tbody></table>
+						
+						</div>
+					</div>
+				</div>
+
+				<!-- Warning modal -->
+				<div id="warning-modal-popuper" class="reveal-modal">
+					<h1 class="reveal-title-box">
+						Warning
+						<a class="close-reveal-modal close-reveal-modal-btn">×</a>
+					</h1>
+					
+					<div class="reveal-content-wrap">
+						<div class="reveal-content-box">
+							
+							<div class="warning-modal-wrap">
+						
+								<p class="reveal-title" style="text-align: center;"></p>
+								<p class="reveal-content" style="text-align: center;"></p>
+								
+								<table class="tbl-actions">
+									<tbody><tr>
+										<td><a href="javascript:void(0)" class="close-reveal-modal">Cancel</a></td>
+										<td class="warning-btn-wrag" style="padding-left: 40px;"><a onclick="Popuper.confirm_btn()" class="reveal-btn reveal-btn-green confirm_label">Confirm</a></td>
+									</tr>
+								</tbody></table>
+						
+							</div>
+							
+						</div>
+					</div>
+				</div>
+
+				<!-- Need to login modal -->
+				<div id="login-modal-popuper" class="reveal-modal">
+					<h1 class="reveal-title-box reveal-title">
+						Need to login
+						<a class="close-reveal-modal close-reveal-modal-btn">×</a>
+					</h1>
+					
+					<div class="reveal-content-wrap">
+						<div class="reveal-content-box">
+							<p class="reveal-content"></p>
+							
+							<table class="login-actions">
+								<tbody><tr>
+									<td><a href="javascript:void(0)" onclick="Popuper.login_btn()" class="reveal-btn reveal-btn-green login_label">Login</a></td>
+									<td><a href="javascript:void(0)" onclick="Popuper.signup_btn()" class="reveal-btn signup_label">Signup</a></td>
+								</tr>
+							</tbody></table>
+							
+						</div>
+					</div>
+				</div>
+
+
+				<!-- NEW modal -->
+				<div id="done-modal-popuper" class="reveal-modal">
+					<div class="reveal-content-wrap">
+						<div class="reveal-content-box">
+							<p class="reveal-content">
+                                <b>You have already purchased this album. You can find it on <a href="/account/download/">your downloads page</a>.</b>
+                            </p>
+
+							<table class="login-actions">
+								<tbody><tr>
+									<td><a href="javascript:void(0)" class="close-reveal-modal reveal-btn reveal-btn-green">Continue surfing</a></td>
+									<td><a href="/account/download/" class="reveal-btn">Go to downloads</a></td>
+								</tr>
+							</tbody></table>
+
+						</div>
+					</div>
+				</div>
+
+				<script src="/js/popuper/jquery.reveal.js"></script>
+				<script src="/js/popuper/popuper.js"></script>
+				<script src="/js/popuper/buyfunctions.js"></script>
     
     <!-- Yandex.Metrika counter -->
     <div style="display:none;">
