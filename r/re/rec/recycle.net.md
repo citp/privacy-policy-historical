@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the recycle.net privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119123450id_/http%3A//www.recycle.net/web/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recycle.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134325id_/http%3A//www.recycle.net/web/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### PRIVACY POLICY : (Updated on March 16, 2009)
+### PRIVACY POLICY / TERMS & CONDITIONS : (Updated on March 16, 2009)
 
 This is the Privacy Policy governing your use of the Recycler's World. By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Recycler's World which by use of this Site you agree to accept. 
 
