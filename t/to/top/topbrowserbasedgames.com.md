@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topbrowserbasedgames.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028052908id_/http%3A//topbrowserbasedgames.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topbrowserbasedgames.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104020id_/http%3A//topbrowserbasedgames.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - TopBrowserBasedGames.com
 
@@ -24,7 +24,9 @@ Especially for tracking purposes our website and services use so called “Cooki
 
 We hereby inform you that by clicking on an advertisement or a link you might be referred from our website or services to the website or service of the respective advertiser for the campaign or respective other third party. From the moment you leave our website or services we are no longer responsible for processing, handling and security of data that is collected by third parties especially an advertiser you were referred to. Please refer to the Privacy Policy of the respective advertiser for further information about the handling of your newly collected data from that point on.
 
-As you browse TopBrowserBasedGames.com, advertising cookies will be placed on your computer so that we can understand what you are interested in.  Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with TopBrowserBasedGames.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.  You can visit this [page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising.
+As you browse TopBrowserBasedGames.com, advertising cookies will be placed on your computer so that we can understand what you are interested in.  Our display advertising partners, then enable us to present you with retargeting advertising on other sites based on your previous interaction with TopBrowserBasedGames.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.    
+To opt out from those services please use links below: AdRoll: [Visit opt out page](http://www.networkadvertising.org/choices/)  
+Facebook:[Visit opt out page](https://www.facebook.com/ads/website_custom_audiences/)
 
 **Transfer to Officials:**  In individual cases we are entitled to provide information about data by order of the competent authority to the extent that is necessary for purposes of law enforcement, protection against threats to public safety by the police authorities of the countries, to fulfill the statutory duties of the constitutional protection authorities of the Federation and the Länder, the Federal Intelligence Service or the Military or for the enforcement of intellectual property rights. 
 
