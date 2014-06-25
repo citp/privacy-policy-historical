@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpauls.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901063517id_/http%3A//dpauls.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpauls.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063526id_/http%3A//dpauls.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | D.Pauls Travel & Tours
 
