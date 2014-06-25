@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214121223id_/http%3A//www.quantum.com/privacypolicy/Index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080946id_/http%3A//www.quantum.com/privacypolicy/Index.aspx) for the most accurate reproduction.*
 
 # Quantum Privacy Policy
 
 ## Quantum takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-[Last Version February 2010](https://web.archive.org/pdf/PrivacyPolicy-pre-9-26-2012.pdf)  
-Current Version September 2012
+[Last Version September 2012](https://web.archive.org/pdf/PrivacyPolicy-pre-9-26-2012.pdf)  
+Current Version November 2013
 
-  * [EU Privacy Policy](https://web.archive.org/pdf/EU_Privacy_Policy.pdf)
-  * [EU Safe Harbor Policy](https://web.archive.org/pdf/EU_Safe_Harbor_Policy.pdf)
+  * [EU Privacy Policy](https://iq.quantum.com/exLink.asp?16512870OY84W57I46408898) 
+  * [EU Safe Harbor Policy](https://iq.quantum.com/exLink.asp?16501958OX28T81I46403797) 
 
 
 
@@ -16,7 +16,7 @@ Current Version September 2012
 
   * This Privacy Policy applies with respect to information Quantum Corporation collects from Web sites on which a direct hyperlink to this "Privacy Policy" is posted. It describes the way we handle information learned about you from your visit to our Web sites.
   * This Privacy Policy applies to the practices of companies that Quantum owns and or controls, and the people that Quantum employs and manages.
-  * Quantum participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site.
+  * Quantum participates in the U.S.-EU Safe Harbor Framework developed by the U.S. Department of Commerce and the European Union as well as the U.S.-Swiss Safe Harbor Framework developed by the U.S. Department of Commerce and Switzerland. To view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site.](http://www.export.gov/safeharbor) 
   * Other Web sites (including those we link to) not owned or operated by or for Quantum may have different data processing practices for which we do not vouch or assume responsibility.
 
 
