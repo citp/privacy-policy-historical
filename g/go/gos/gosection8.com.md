@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosection8.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213174921id_/http%3A//www.gosection8.com/Main/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosection8.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063533id_/http%3A//www.gosection8.com/main/privacy_policy.aspx) for the most accurate reproduction.*
 
 # GoSection8.com - Section 8 Rental Housing & Apartments Listing Service for Landlords & Tenants
 
@@ -29,9 +29,9 @@ We also employ third parties to perform functions on our behalf, such as sending
 With non-personal information, we monitor site use and traffic patterns through server log files and cookies to improve our web site design and the products, courses, and services we offer.   
 We reserve the right to disclose, share and/or otherwise transfer user information, including without limitation personal information, in connection with a corporate merger, acquisition, consolidation, the sale of substantially all of company assets, or other fundamental corporate change, whatever form it may take.
 
-**To update, correct or delete you user information**
+**To update, correct or delete your user information**
 
-If at any time you would like us to correct or change any of your personal information on file, feel free to contact (info(at)gosection8.com) or by phone at 866-466-7328. Please be sure to include your email address, full name, and password(s) if you have any. We will process your submission in a timely fashion, and usually respond within 2-3 business days.
+If at any time you would like us to correct or change any of your personal information on file, feel free to fill out our [contact form](https://web.archive.org/contact_us.aspx) or call us directly at 866-466-7328. Please be sure to include your email address, full name, and password(s) if you have any. We will process your submission in a timely fashion, and usually respond within 2-3 business days.
 
 **Public Forums**
 
@@ -41,7 +41,7 @@ The Website makes online bulletin boards available to its users.  Use of these 
 
 We use Secure Sockets Layer (SSL) technology to protect the security of your online order information. SSL encrypts your order information to avoid the decoding of that information.  We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, feel free to contact info(at)gosection8.com
+If you have any questions about security on our Web site, feel free to fill out our [contact form](https://web.archive.org/contact_us.aspx).
 
 **Links to Other Web Sites and Services**
 
@@ -49,7 +49,7 @@ AHN's Website may contain links to other sites that are not under our control. T
 
 **Opting Out**
 
-Users have the option to opt-out of any email marketing related communications at any time simply by sending an email to (optout(at)gosection8.com). You also can call 866-466-7328 or write to us at Affordable Housing Network Customer Service, 5000 T-Rex Ave, Suite 150, Boca Raton, Florida 33431, to opt-out of email and/or postal mail marketing communications.
+Users have the option to opt-out of any email marketing related communications at any time simply by filling out our [contact form](https://web.archive.org/contact_us.aspx). You also can call 866-466-7328 or write to us at Affordable Housing Network Customer Service, 5000 T-Rex Ave, Suite 150, Boca Raton, Florida 33431, to opt-out of email and/or postal mail marketing communications.
 
 **Collection and Transfer To The United States**
 
@@ -61,10 +61,10 @@ This site is not intended for children under the age of 13. We will not knowingl
 
 **Other Questions? Feedback?**
 
-Please let us know if there are other questions you have about your Website experience at (info(at)gosection8.com) or call us directly at 866-466-7328. Our customer service hours are Monday through Friday 8AM to 5PM Eastern Time.
+Please let us know if there are other questions you have about your Website experience by filling out our [contact form](https://web.archive.org/contact_us.aspx) or calling us directly at 866-466-7328. Our customer service hours are Monday through Friday 8AM to 5PM Eastern Time.
 
 **Dispute Resolution**
 
-If you feel that AHN is not abiding by its posted privacy, you should contact us by email at (optout(at)gosection8.com).  We will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Policy. 
+If you feel that AHN is not abiding by its posted privacy, you should contact us by filling out our [contact form](https://web.archive.org/contact_us.aspx).  We will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Policy. 
 
 Affordable Housing Network, LLC, Attn.: Customer Service, 5000 T-Rex Ave, Suite 150, Boca Raton, Florida 33431. 
