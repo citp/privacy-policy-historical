@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frys.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204163127id_/http%3A//www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy%3Fsite%3Dcsfooter_C) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frys.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064335id_/http%3A//www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy%3Fsite%3Dcsfooter_C) for the most accurate reproduction.*
 
 # 
 
@@ -52,7 +52,7 @@ We operate cameras in and around Fry's stores for security and operational purpo
 
 **How is information used and protected?**
 
-Our goal is to provide our customers with the highest level of service possible. From your first visit to our website to the delivery of your order, we want you to be completely satisfied with the experience without compromising your privacy. By collecting information, we are able to offer you features, such as our Express Account (which saves you time during the order process), and a more customized website that better reflects your individual preferences. 
+Our goal is to provide our customers with the highest level of service possible. From your first visit to our website to the delivery of your order, we want you to be completely satisfied with the experience without compromising your privacy. By collecting information, we are able to offer you features, such as our myFry's Account (which saves you time during the order process), and a more customized website that better reflects your individual preferences. 
 
 _Usage of Information_
 
