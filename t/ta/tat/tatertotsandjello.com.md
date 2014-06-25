@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatertotsandjello.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209034845id_/http%3A//www.tatertotsandjello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatertotsandjello.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625181553id_/http%3A//www.tatertotsandjello.com/privacy) for the most accurate reproduction.*
 
 # Privacy -- Tatertots and Jello
 
