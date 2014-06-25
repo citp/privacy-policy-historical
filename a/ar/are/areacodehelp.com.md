@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the areacodehelp.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117074817id_/http%3A//www.areacodehelp.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areacodehelp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080055id_/http%3A//www.areacodehelp.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
