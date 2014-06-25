@@ -1,192 +1,41 @@
-<!--The following is the downloaded HTML source of the 1iota.com privacy policy that was archived on 2013-08-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130814063632id_/http%3A//1iota.com/Company/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1iota.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625101100id_/http%3A//1iota.com/Company/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>
-        
-	Privacy Policy - 1iota
+<!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+    <meta charset="utf-8">
+    <title>Privacy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="1iota Productions, LLC">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css">
 
-    </title>
+    <!-- HTML5 shim for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+        <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- css includes that can't be bundled -->
+    <link rel="stylesheet" type="text/css" href="/Content/themes/site/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/Content/themes/corporate/css/jquery.fancybox-thumbs.css?v=1.0.2">
+    <link rel="stylesheet" type="text/css" href="/Content/themes/corporate/css/style.css">
+
+    <link rel="stylesheet" type="text/css" href="/combres.axd/respCss/-1288509278/">
+
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/Content/icons/apple-touch-icon-144x144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/Content/icons/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/Content/icons/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/Content/icons/apple-touch-icon-57x57-precomposed.png">
+    <link rel="shortcut icon" href="/Content/icons/favicon.ico">
+
     
-<link rel="icon" type="image/ico" href="/Content/images/favicon.ico">
-<link rel="stylesheet" type="text/css" href="/combres.axd/oldCss/2069906921/">
-
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script><script type="text/javascript" src="/combres.axd/blobJs/124231910/"></script>
-<script type="text/javascript">
-
-    var jsonBlobVersion = '6623';
-    var jsonBlobUrl = 'https://s3.amazonaws.com/JsonBlobs/';
-    $(document).ready(function () {
-        io.blob.initialize(jsonBlobVersion, jsonBlobUrl);
-    });
-
-</script>
     <meta name="description" content="Learn about the Privacy Policy for 1iota.">
     <meta name="keywords" content="1iota privacy, 1iota privacy policy">
 
-    
 
-<script type="text/javascript" charset="utf-8">
-    // <![CDATA[
-    $(function () {
-        $.fn.requestTickets = function (e) {
-            var uid = $.fn.eventSettings.userId;
-            if (uid == -1) {
-                $.fn.statusMessage('Your must be logged in to request tickets.');
-            } else {
-                $('#closeBut').trigger('click');
-                $.post('/event/register/', $('#PickUpATicket').serialize(), function (data) {
-                    if (data == 1) {
-                        //$('#closeBut').trigger('click');
-                        $.fn.statusMessage('Your ticket request has been sent.');
-                    } else {
-                        $('#ErrorMessage').text(data);
-                    }
-                });
-            }
-        };
-        $.fn.handleTicketRequest = function () {
-            var wrapValue = '<div id="LoginPrompt" class="wrapper module"></div>';
-            if ($.fn.eventSettings.loggedin) {
-                wrapValue = '<div id="TicketingUI" class="wrapper module"></div>';
-            }
-            var currentDate = new Date();
-            ShowDialog(1000, 645, "", '/event/GetTicketsBlob/' + $.fn.eventSettings.eventId + '?' + currentDate.getTime().toString(), null);
-        };
-        $.fn.eventSettings = {
-            eventId: null,
-            userId: null,
-            loggedin: null
-        };
-    });
-
-    $(document).ready(function () {
-        $('.cta').click(function(e) {
-            e.preventDefault();
-            triggerUI(this); // $(this).closest('.event').attr('id'));
-        });
-        $('.gettickets').click(function (e) {
-            e.preventDefault();
-            triggerUI(this); // $(this).closest('.event').attr('id'));
-        });
-
-        $('.ticket_info').click(function (e) {
-            e.preventDefault();
-            triggerUI(this); // $(this).closest('.event').attr('id'));
-        });
-        $('.info').click(function (e) {
-            e.preventDefault();
-            triggerUI(this); // $(this).closest('.event').attr('id'));
-        });
-        //$('.comingSoon').click(function (e) {
-        //    e.preventDefault();
-        //    io.showComingSoon(this);
-        //});
-
-        if ($('.TicketSort').length > 0) {
-            // initialize sorting for each 'sorted' module on the page
-            $('.sorted').each(function () {
-                var el = $(this);
-                $.sorting3(el, el.find('.TicketSort'), el.find('.TicketDate'), el.find('.TicketCity'));
-            });
-
-        }
-
-        $('.lotteryDetails').live('click', function (e) {
-            e.preventDefault();
-            triggerLotteryUI(this);
-        });
-    });
-    triggerUI = function(element) {
-        var event = $(element).closest('.event');
-        var eventId = $(event).attr('id');
-        var isShowNav = $(event).hasClass('showNav');
-        var startDate = $(event).find('.showDate').val();
-        var cutoff = '';
-
-        if (event.length > 0) {
-            var performance = $(event).data('performance');
-            var guest = $(event).data('guest');
-
-            if ($(event).hasClass('ticketContainer')) {
-                _gaq.push(['_trackEvent', 'Ticket', 'ListGetTicketsClick', performance.Title]);
-            } else if ($(event).hasClass('calendarPerformance')) {
-                _gaq.push(['_trackEvent', 'Ticket', 'CalendarGetTicketsClick', performance.Title]);
-            } else if ($(event).hasClass('guestListItem')) {
-                _gaq.push(['_trackEvent', 'Guests', 'GuestClick', guest.Name + ':' + window.location.pathname]);
-            }
-
-            if (eventId == -1 && guest != undefined) {
-                window.location = "/Fanbase/View/" + guest.MemberId.toString();
-                return;
-            }
-        }
-
-        $(event).iotaWait();
-        $(event).trigger('startWaiting');
-        $.ajax({
-            type: 'GET',
-            url: '/event/validaterequest/' + eventId.toString(),
-            dataType: 'json',
-            success: function (data) {
-                if (Date.parse(data.CutoffTime) >= Date.parse(startDate)) {
-                    $(event).append('<div class="sold_out">Too Late</div>');
-                } else {
-                    if (data.IsSessionValid) {
-                        $.fn.eventSettings.loggedin = false;
-                    } else {
-                        $.fn.eventSettings.loggedin = true;
-                    }
-
-                    $.fn.eventSettings.eventId = eventId;
-                    if (data.IsSoldOut) {
-                        if (!isShowNav) {
-                            var soldOut = $(event).children('.sold_out');
-                            if (soldOut.length == 0) {
-                                $(event).append('<div class="sold_out">Sold Out</div>');
-                            }
-                        } else {
-                            var projectId = $(event).attr('projectId');
-                            var url = '/show/' + projectId + '?performance=' + eventId;
-                            $(event).children('.cta').unbind('click');
-                            window.location = url;
-                        }
-                    } else {
-                        $.fn.handleTicketRequest();
-                    }
-                }
-
-                $(event).trigger('stopWaiting');
-            }
-        });
-    }
-    triggerLotteryUI = function (element) {
-        var event = $(element).closest('.event');
-        var url = $(element).attr('href');
-        
-        $(event).iotaWait();
-        $(event).trigger('startWaiting');
-
-        ShowDialog(1000, 645, "", url, null);
-
-        $(event).trigger('stopWaiting');
-    }
-
-// ]]>
-</script>
-
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="/Scripts/modernizr-2.7.1.js"></script>
 <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
-<body>
-    <div class="bodyBackground"></div>
-    <div id="dialogOverlay" style=""></div>
-<!--[if IE 6]><body class="ie6"><![endif]-->
-<!--[if IE 7]><body class="ie7"><![endif]-->
-<!--[if gt IE 7]><body><![endif]-->
-<!--[if !IE]><body><![endif]-->
+<body data-spy="scroll" data-offset="50" data-target="#projectNavBarCollapse">
     
-
-<div id="fb-root"></div>
+    <div id="fb-root"></div>
 <script type="text/javascript">
     // Load the SDK Asynchronously
     (function (d) {
@@ -195,528 +44,281 @@
         js = d.createElement('script'); js.id = id; js.async = true;
         js.src = "//connect.facebook.net/en_US/all.js";
         ref.parentNode.insertBefore(js, ref);
-    } (document));
+    }(document));
 
-    var uid;
-    var accessToken;
-    var fbInitCalled = false;
-
-    window.fbAsyncInit = function (isTicketRequest) {
+    window.fbAsyncInit = function () {
         if (typeof (FB) != 'undefined') {
-            if (!fbInitCalled) {
-                fbInitCalled = true;
-                FB.init({
-                    appId: '108063815944993', // App ID
-                    channelUrl: 'http://1iota.com//Channel', // Channel File
-                    status: false, // check login status
-                    cookie: true, // enable cookies to allow the server to access the session
-                    xfbml: true  // parse XFBML
-                });
+            FB.init({
+                appId: '108063815944993', // App ID
+                channelUrl: 'http://1iota.com//Channel', // Channel File
+                status: false, // check login status
+                cookie: true, // enable cookies to allow the server to access the session
+                xfbml: true  // parse XFBML
+            });
 
-                // listen for and handle auth.statusChange events
-                FB.Event.subscribe('auth.authResponseChange ', function (response) {
-                    if (response.status === 'connected') {
-                        uid = response.authResponse.userID;
-                        accessToken = response.authResponse.accessToken;
+            FB.Event.subscribe('edge.create', function (targetUrl) {
+                _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
+
+                $.get('/Social/AddLike?url=' + targetUrl, function (success) {
+                    if (success) {
+                        io.profile.gotoNextLotteryTask(true);
                     }
                 });
-            }
+            });
         }
         else {
             setTimeout("window.fbAsyncInit(true)", 50);
         }
-    };
-    
-    function FacebookLogin() {
-        $('#facebookConnectOverlay').show();
-        $('.fbConnectError').text('');
-        $('.fbConnectError').hide();
-
-        // user has auth'd your app and is logged into Facebook
-        FB.api('/me?fields=birthday,picture,email,username,first_name,last_name,gender,location,id', function (me) {
-            var imageUrl = (me.picture.data != undefined ? me.picture.data.url : me.picture);
-            imageUrl = (imageUrl != undefined ? imageUrl : "");
-
-            $.ajax({
-                url: '/member/fblogin',
-                data: {
-                    'token': accessToken,
-                    'email': me.email,
-                    'username': me.username,
-                    'birthday': me.birthday,
-                    'firstName': me.first_name,
-                    'lastName': me.last_name,
-                    'location': me.location.name,
-                    'gender': me.gender,
-                    'profileImage': imageUrl,
-                    'fbid': me.id
-                },
-                type: 'POST',
-                success: function (data) {
-                    if (data > 0) {
-                        if ($('#loginMemberId').length > 0) {
-                            $('#loginMemberId').val(data);
-                            SubmitSignUpForm('#LoggedInTicketRequestForm');
-                        }
-                        else {
-                            //window.location = 'http://1iota.com/';
-                            var uname = GetUsernameValue();
-                            $('#loggedIn').show();
-                            $('#aUser').text(uname);
-                            $('#NavLoginForm').hide();
-                            $('#FreeSignUp').hide();
-                            $('.forgotpass').hide();
-                            $('#IotaFeed .frame').css('height', '772px');
-                            $('#insiders_feed .frame').css('height', '825px');
-                            $('.notLoggedIn').hide();
-                            GetMyTicketCount();
-                            GetMyMessagesCount();
-                            $('#facebookConnectOverlay').hide();
-                            CloseDialog();
-                        }
-                    }
-                    else {
-                        $('#facebookConnectOverlay').hide();
-                        $('.fbConnectError').text(data);
-                        $('.fbConnectError').show();
-                    }
-                },
-                error: function () {
-                    $('#facebookConnectOverlay').hide();
-                }
-            });
-        });
     }
 
 </script>
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-2830693-1']);
-        _gaq.push(['_trackPageview']);
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
-    <script type="text/javascript">!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script>
-    <div class="content-area newLayout">
-        
-        
+
+<script type="text/javascript">!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
 
 
-<div id="global">
-    <ul class="user-nav" id="loggedIn" style="display: none;">
-        <li><a href="http://1iota.com/profile/account" class="profile" title="View Profile" id="a1iota">
-                <img src="/Content/images/my1iota.png">&nbsp;My Profile
-            </a>
-        </li>
-        <li><a href="http://1iota.com/profile/tickets" class="profileTickets superscript" title="View Tickets" id="aTickets">
-                <img src="/Content/images/myTickets.png">&nbsp;My Tickets
-            </a>
-        </li>
-        <li><a href="http://1iota.com/profile/notifications" class="profileMessages superscript" title="View my Messages">
-                <img src="/Content/images/myMessages.png">&nbsp;My Messages
-            </a>
-        </li>
-        <li class="logoutli">
-            <a href="http://1iota.com/member/logout" onclick="return Logout();" id="auth-logoutlink" class="logout">
-                <img src="/Content/images/logout.png">&nbsp;Logout
-            </a>
-        </li>
-    </ul>
-    <div class="buttons notLoggedIn">
-        <ul>
-            <li><a href="/Member/LogIn" class="button light">Log In</a></li>
-            <li><a href="/member/signup" class="button mainAction">Sign Up</a></li>
-        </ul>
-    </div>
-</div>
+    
+    
 <script type="text/javascript">
-
-    function Logout() {
-        try {
-            FB.getLoginStatus(function (response) {
-                if (response.authResponse) {
-                    if (response.status === 'connected') {
-                        var accessToken = response.authResponse.accessToken;
-                        if (accessToken != '') {
-                            FB.logout(function (response) {
-                                window.location = '/member/logout';
-                                return false;
-                            });
-                        }
-                    }
-                }
-            });
-        }
-        catch (err) { return true; }
-        return true;
-    }
-
-    function GetMyTicketCount() {
-        //$.ajax({
-        //    type: 'POST',
-        //    url: '/Ticket/NumberOfAvailableTickets',
-        //    dataType: 'json',
-        //    data: '',
-        //    async: true,
-        //    success: function (data) {
-        //        if (data != '' && data != '0' && !isNaN(parseInt(data, 10))) {
-        //            $('.NumberOfMyTickets').html(data);
-        //        }
-        //    }
-        //});
-    }
-    function GetMyMessagesCount() {
-        //$.ajax({
-        //    type: 'POST',
-        //    url: '/Notifications/NumberOfMessages',
-        //    dataType: 'json',
-        //    data: '',
-        //    async: true,
-        //    success: function (data) {
-        //        if (data != '' && data != '0' && !isNaN(parseInt(data, 10))) {
-        //            $('.NumberOfMyMessages').html(data);
-        //        }
-        //    }
-        //});
-    }
-
-    checkLogin = function () {
-        $.ajax({
-            url: '/member/IsSessionActive',
-            xhrFields: {
-                withCredentials: true
-            },
-            cache: false,
-            type: 'GET',
-            dataType: 'json',
-            success: function (data) {
-                if (data == 'True') {
-                    $('#loggedIn').show();
-                    $('#aUser').text(data);
-                    $('#NavLoginForm').hide();
-                    $('#FreeSignUp').hide();
-                    $('.forgotpass').hide();
-                    $('#IotaFeed .frame').css('height', '772px');
-                    $('#insiders_feed .frame').css('height', '825px');
-                    $('.notLoggedIn').hide();
-                    $('.listEntryModule').hide();
-                }
-                else {
-                    $('#NavLoginForm').show();
-                    $('#FreeSignUp').show();
-                    $('.forgotpass').show();
-                    $('.notLoggedIn').show();
-                }
-            }
-        });
-    };
-
-    function GetUsernameValue() {
-        var username = '';
-        //$.ajax({
-        //    async: false,
-        //    url: '/member/IsSessionActive',
-        //    success: function (data) {
-        //        if (data != 'false') {
-        //            username = data;
-        //        }
-        //    }
-        //});
-        return username;
-    };
-
-    $(document).ready(checkLogin);
-
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-2830693-1']);
+    _gaq.push(['_setDomainName', '1iota.com']);
+    _gaq.push(['_trackPageview']);
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
 </script>
-        <div id="header">
-            
-       
-<div class="left">
-    <a href="/"><img src="/Content/images/1iota_logo.png" alt="Free Tickets And Shows" title="Free Tickets And Shows"></a>
-</div>
-<div class="right">
-    <ul>
-        <li><a href="/" class="">Home</a></li>
-        <li>|</li>
-        <li><a href="/Tickets" class="">Tickets</a></li>
-        <li>|</li>
-        <li><a href="/Home/Celebs" class="">Celebs</a></li>
-        <li>|</li>
-        <li><a href="/Home/Calendar" class="">Calendar</a></li>
-    </ul>
-</div>
-        
-<div class="shadow" id="ShowsNavDiv" style="display:none;">
-    <div id="ShowsTopNavControls" style="">
-        <a style="float: right;" href="#close" class="showsNavCloseBtn btn">Close</a>
-    </div>
-        
-    <div id="ShowsNavControls" style="">
-        <a style="float: right;" href="#close" class="showsNavCloseBtn btn">Close</a>
-    </div>
-</div>
 
+    <div id="SocialPlaceholder"></div>
 
-        </div>
-        <div id="Container" class="grid-six">
-            
-
-    <div class="wysiwyg">
     
-        <div id="PrivacyContent">
-            <h2 class="gotham">Privacy Policy</h2>
-            
-            <h3>Introduction</h3> 
-            
-            <p>The Privacy Policy below will govern your 1iota membership and any information you provide on this site. In order to become a member of 1iota we must ask you to provide us with information about yourself. This Privacy Policy describes the information we collect and how we use that information. 1iota takes the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. </p>
+    
 
-            <h3>Changes of Policy </h3>
-            <p>This policy may be revised over time as new features are added to 1iota or as we incorporate new suggestions from our members. If we are going to use or disclose your personally identifiable information in a manner materially different from that stated at the time we collected the information, you will be notified by email or by means of a notice on our homepage. 1iota may make improvements and/or changes in our services or products described in the site, including the terms and conditions of your use of this site, without liability. 1iota reserves the right to change these conditions at anytime. </p>
+<!--[if lt IE 9]>
 
-            <h3>Required Information</h3>
-            <p>When you register for an account with our site you will be asked for your contact information such as first and last name, gender, birthday, city, state and zip code. In order to become a basic member of 1iota, you must provide this information to us. A user can access their submitted information and make changes at anytime on the “my basic account info” section of the site. A user’s last name cannot be altered on the site due to members’ attempts to transfer e-tickets as our e-tickets are non-transferable. To alter your last name, please send an email to support@1iota.com. A user can also cancel their membership at any time by visiting the “resign your account” section of the site. </p>
-
-            <h3>Optional Information</h3>
-            <p>Our site offers users the ability to set up an optional casting profile, under the “my casting info” section of the site. Information included in this profile pertains to users' personal attributes, interests, and preferences, such as, ethnicity, hair color, eye color, height, weight and special skills. Our site also offers users the ability to submit and store photos of themselves, under the “my photo” section of the site. Our site offers users the ability to receive wireless updates by entering your wireless number on the “my wireless alerts section” of the site and checking the “please send 1iota updates and information box.” Our site offers users the ability to receive emails from the site regarding upcoming events and event updates. A user can opt-out of receiving emails by clicking the “please send me 1iota event updates and info” on the “my email preferences” section of the site. If you choose to use our referral service to email a friend about an upcoming event, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. 1iota does not store this information. </p>
-
-            <h3>Customer Feedback</h3>
-            <p>We encourage you to share your comments and questions with us. We promise to read all the mail that is sent to us, but we may not be able to respond to it all. We will retain such information in the records of your membership. We retain these records in order to measure and improve our customer service. We may, over time, delete these records if permitted by law. </p>
-
-            <h3>Use and Disclosure</h3>
-            <p>We use the information we collect about you in order 1) to provide membership services, 2) to determine your eligibility to be selected for special events and shows, and 3) to operate our site efficiently and continue to improve our membership relations and services. </p>
-
-            <h3>Disclosure to Third Parties</h3>
-            <p>1iota will not share any of your personally identifiable information with third parties except in the limited circumstances described below. </p>
-
-            <ol>
-                <li>If selected for a show, 1iota will be authorized to use the information provided, to grant you access to the event and take the proper security precautions required by event staff or security (such as background checks). Background checks will only be done when attending a national security event, which will be specified in the event description. A background check will take place upon registering for that event by the respected government agency. </li>
-                <li>We share names with affiliated nightclubs for guest-list options or table reservations, upon taking advantage of the "1iota nightlife" feature. </li>
-                <li>We use contact information to send the user information needed to maintain their account, to contact them when necessary, and to notify them of news about our company. We also use customer contact information to send the user promotional material from some of our partners. </li>
-                <li>Service Providers: We use 800-HOSTING to provide website hosting on our site. When you sign up for a basic membership with 1iota, we will share your “Required Information” and any “optional Information” as necessary for 800-HOSTING to provide that service. </li>
-                <li>We share aggregated statistical data with our business partners or for public relations. We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors. However, these statistics will not include personal identifying information. </li>
-                <li>Account information may be released when we believe, in good faith, that such release is reasonably necessary to: (1) comply with applicable law; (2) enforce or apply the terms of any of our user agreements; or (3) protect the rights, property or safety of our users and/or any third parties. </li>
-                <li>As with any other business, it is possible that in the future 1iota could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by 1 iota, including customer account information, but would continue to be bound by this Privacy Policy unless and until it is amended as described above in the "Changes of Policy" section. </li>
-                <li>Bulletin Boards/Chat Rooms: If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. We reserve the right to terminate the accounts of members who use these services in a manner inconsistent with our Terms &amp; Conditions (link). </li>
-                <li>These third parties are prohibited from using your personally identifiable information for any other purpose. </li>
-            </ol>
-
-            <h3>Cookies</h3>
-            <p>A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We do use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use session ID cookies and persistent cookies. We use session cookies for authentication purposes and we use persistent cookies only to remember user names not passwords. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your desScreenName, so you don’t have to enter it more than once. To remove a persistent cookie, uncheck the “remember me” box on the log in screen. If you reject cookies, you may still visit our site, but your ability to login will be limited. </p>
-
-            <h3>Security</h3>
-            <p>1iota is committed to handling your membership information with a high standard of security. The security of your 1iota membership also relies on your protection of your 1 iota password/Id number. We strongly urge that you never share your 1iota password/Id number with anyone. You will only be asked for your 1iota password/ID number if you are logging in as a user. If you believe someone else has obtained access to your password, please change it immediately or request it to be changed by contacting us. These guidelines are the only understanding and agreement we have regarding your use of the site. The laws of the State of California govern these guidelines. </p>
-
-            <h3>Contact Info</h3>
-            <p>
-                1iota Productions LLC<br>
-                6565 Sunset Blvd. Suite 517<br>
-                Hollywood, CA 90028<br>
-                <a href="mailto:support@1iota.com">support@1iota.com</a>
-            </p>
-            <p>(last updated on 08/3/2012)</p>
+        <div class="siteDegradedMessage" >
+            <div class="inner">Our site is best viewed in Chrome, Firefox, Safari, or Internet Explorer 9.0 or higher.  Using outdated versions of your browser may result in decreased site functionality.</div>
         </div>
+
+<![endif]-->
+
+<noscript>
+    <div class="siteDegradedMessage" >
+        <div class="inner">You must set your browser to accept cookies and to enable Javascript in order to access certain functions of this site, including requesting tickets.</div>
     </div>
+</noscript>
 
-
-        </div>
-        
-<div id="Footer">
-    <ul class="footerLinks">
-        <li><a href="http://1iota.com/">1iota</a></li>
-        <li><a href="http://1iota.com/Member/Create">Sign Up</a></li>
-        <li><a href="http://1iota.com/Company/About">About</a></li>
-        <li><a href="http://1iota.com/Company/Contact">Contact</a></li>
-        <li><a href="http://1iota.com/Company/Terms">Terms of Use</a></li>
-        <li><a href="http://1iota.com/Company/Privacy">Privacy Policy</a></li>
-        <li><a href="http://1iota.com/FAQ" class="last">FAQ</a></li>
-    </ul>
-    <div style="clear:both;">&nbsp;</div>
-    <div class="copywrite">© Copyright 2012 1iota Productions, LLC.</div>
+<div class="siteDegradedMessage" id="cookieOnlyMessage">
+    <div class="inner">You must set your browser to accept cookies in order to access certain functions of this site, including requesting tickets.</div>
 </div>
 
-    </div>
-    <div id="dialog" style="display:none;overflow:hidden;"></div>
-    <div class="modalDiv dynamic" id="SocialShoutout" style="display: none;" bindtype="Performance" performanceid="0">
-    <div class="content">
-        <div class="closeBtn"></div>
-        <div class="sharing">
-            <div class="widget">
-                <div class="socialArea facebook" style="display:;">
-                    <h3><span class="logo"></span>Bring Your Friends</h3>
-                    <textarea id="facebookPost"></textarea>
-                    <div>
-                        <div class="socialButton fb-like" id="fbShareLike" data-href="https://www.facebook.com/1iota" data-send="false" data-layout="button_count" data-colorschema="dark" data-width="375" data-show-faces="false" data-font="arial"></div>
-                        <a href="#" class="socialPostButton" data-action="post">Share</a>
-                        <div style="clear:both;"></div>
-                    </div>
-                </div>
-                <a href="#" class="BigButton facebook" id="autoShareConnection" style="display:none;" data-action="facebook" data-noreturn="true"><span class="logo"></span>Connect Facebook</a>
+    
+
+<div class="navbar-wrapper">
+    <div class="navbar navbar-static-top navbar-inverse" id="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#siteNavCollapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                    <a class="navbar-brand" href="/">
+                        <img src="/Content/images/1iota_white.png" width="130" id="logokhan">
+                    </a>
+                <noscript>
+                    <div id="GlobalSupportLink" style=""><a target="_blank" href="http://1iota.freshdesk.com/support/solutions">Need Help?</a></div>
+                </noscript>
             </div>
-            <div class="widget">
-                <div class="socialArea twitter">
-                    <h3><span class="logo"></span>Tell The World</h3>
-                    <textarea id="twitterPost"></textarea>
-                    <div>
-                        <a href="https://twitter.com/1iota" class="socialButton twitter-follow-button" onclick="_gaq.push(['_trackSocial', 'twitter', 'follow', '1iota.com']);" data-show-count="true" data-size="medium">Follow</a>
-                        <a href="#" class="socialPostButton" data-action="tweet">Tweet</a>
-                        <div id="charNum"></div>
-                        <div style="clear:both;"></div>
-                    </div>
+            <div id="siteNavCollapse" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav pull-right page">
+                        <li class="first "><a href="/">Home</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Find Tickets <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li class="first "><a href="/Tickets">Free Tickets</a></li>
+                                <li class="first "><a href="/Home/Celebs">Celebs</a></li>
+                                <li class="first "><a href="/Home/Calendar">Calendar</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li class=""><a href="/Company/About">About</a></li>
+                                <li class=""><a href="/Company/Services">Services</a></li>
+                                <li class=""><a href="/Company/Team">Team</a></li>
+                                <li class=""><a href="/Company/Credits">Credits</a></li>
+                                <li class=""><a href="/Company/Careers">Careers</a></li>
+                                <li class=""><a href="/Company/Contact">Contact</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Social <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="//www.facebook.com/1iota" target="_blank">Facebook</a></li>
+                                <li><a href="//twitter.com/1iota" target="_blank">Twitter</a></li>
+                                <li><a href="//instagram.com/1iota" target="_blank">Instagram</a></li>
+                                <li><a href="//www.youtube.com/user/1iotapresents" target="_blank">Youtube</a></li>
+                                
+                            </ul>
+                        </li>
+
+
+    <li><a href="/Member/LogIn">Log In</a></li>
+    <li><a href="/Member/SignUp">Sign Up</a></li>
+                 </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <div id="wrap">
+        
+
+
+<section class="module">
+
+    <div class="container" id="PrivacyContent">
+        <div class="row">
+            <div class="col-xs-12">
+                <h2 class="">Privacy Policy</h2>
+
+                <h3>Introduction</h3>
+
+                <p>The Privacy Policy below will govern your 1iota membership and any information you provide on this site. In order to become a member of 1iota we must ask you to provide us with information about yourself. This Privacy Policy describes the information we collect and how we use that information. 1iota takes the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. </p>
+
+                <h3>Changes of Policy </h3>
+                <p>This policy may be revised over time as new features are added to 1iota or as we incorporate new suggestions from our members. If we are going to use or disclose your personally identifiable information in a manner materially different from that stated at the time we collected the information, you will be notified by email or by means of a notice on our homepage. 1iota may make improvements and/or changes in our services or products described in the site, including the terms and conditions of your use of this site, without liability. 1iota reserves the right to change these conditions at anytime. </p>
+
+                <h3>Required Information</h3>
+                <p>When you register for an account with our site you will be asked for your contact information such as first and last name, gender, birthday, city, state and zip code. In order to become a basic member of 1iota, you must provide this information to us. A user can access their submitted information and make changes at anytime on the “my basic account info” section of the site. A user’s last name cannot be altered on the site due to members’ attempts to transfer e-tickets as our e-tickets are non-transferable. To alter your last name, please send an email to support@1iota.com. A user can also cancel their membership at any time by visiting the “resign your account” section of the site. </p>
+
+                <h3>Optional Information</h3>
+                <p>Our site offers users the ability to set up an optional casting profile, under the “my casting info” section of the site. Information included in this profile pertains to users' personal attributes, interests, and preferences, such as, ethnicity, hair color, eye color, height, weight and special skills. Our site also offers users the ability to submit and store photos of themselves, under the “my photo” section of the site. Our site offers users the ability to receive wireless updates by entering your wireless number on the “my wireless alerts section” of the site and checking the “please send 1iota updates and information box.” Our site offers users the ability to receive emails from the site regarding upcoming events and event updates. A user can opt-out of receiving emails by clicking the “please send me 1iota event updates and info” on the “my email preferences” section of the site. If you choose to use our referral service to email a friend about an upcoming event, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. 1iota does not store this information. </p>
+
+                <h3>Customer Feedback</h3>
+                <p>We encourage you to share your comments and questions with us. We promise to read all the mail that is sent to us, but we may not be able to respond to it all. We will retain such information in the records of your membership. We retain these records in order to measure and improve our customer service. We may, over time, delete these records if permitted by law. </p>
+
+                <h3>Use and Disclosure</h3>
+                <p>We use the information we collect about you in order 1) to provide membership services, 2) to determine your eligibility to be selected for special events and shows, and 3) to operate our site efficiently and continue to improve our membership relations and services. </p>
+
+                <h3>Disclosure to Third Parties</h3>
+                <p>1iota will not share any of your personally identifiable information with third parties except in the limited circumstances described below. </p>
+
+                <ol>
+                    <li>If selected for a show, 1iota will be authorized to use the information provided, to grant you access to the event and take the proper security precautions required by event staff or security (such as background checks). Background checks will only be done when attending a national security event, which will be specified in the event description. A background check will take place upon registering for that event by the respected government agency. </li>
+                    <li>We use contact information to send the user information needed to maintain their account, to contact them when necessary, and to notify them of news about our company. We also use customer contact information to send the user promotional material from some of our partners. </li>
+                    <li>We may provide the information you provide to us to the organizers of the events that you want to attend or that you actually attend, and they may use such information consistent with their own privacy policies which could be more permissive than the terms set forth in the 1iota Privacy Policy.</li>
+                    <li>We share aggregated statistical data with our business partners or for public relations. We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors. However, these statistics will not include personal identifying information. </li>
+                    <li>Account information may be released when we believe, in good faith, that such release is reasonably necessary to: (1) comply with applicable law; (2) enforce or apply the terms of any of our user agreements; or (3) protect the rights, property or safety of our users and/or any third parties. </li>
+                    <li>As with any other business, it is possible that in the future 1iota could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by 1iota, including customer account information, but would continue to be bound by this Privacy Policy unless and until it is amended as described above in the "Changes of Policy" section. </li>
+                </ol>
+
+                <h3>Cookies</h3>
+                <p>A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We do use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use session ID cookies and persistent cookies. We use session cookies for authentication purposes and we use persistent cookies only to remember user names not passwords. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your desScreenName, so you don’t have to enter it more than once. To remove a persistent cookie, uncheck the “remember me” box on the log in screen. If you reject cookies, you may still visit our site, but your ability to login will be limited. </p>
+
+                <h3>Security</h3>
+                <p>1iota is committed to handling your membership information with a high standard of security. The security of your 1iota membership also relies on your protection of your 1iota password/Id number. We strongly urge that you never share your 1iota password/Id number with anyone. You will only be asked for your 1iota password/ID number if you are logging in as a user. If you believe someone else has obtained access to your password, please change it immediately or request it to be changed by contacting us. </p>
+
+                <h3>Contact Info</h3>
+                <p>
+                    1iota Productions LLC<br>
+                    6565 Sunset Blvd. Suite 500<br>
+                    Hollywood, CA 90028<br>
+                    <a href="mailto:support@1iota.com">support@1iota.com</a>
+                </p>
+                <p>(last updated on 10/30/2013)</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    </div>
+    <div id="push"></div>
+    <footer id="footer">
+    <div class="container">
+        <a href="#top" title="" class="btn btn-iota btn-backToTop"><span class="glyphicon glyphicon-chevron-up"></span> Back To Top</a>
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                <!--<h2>about us...</h2>-->
+                <div class="row-fluid">
+                    <p><img src="/Content/images/1iota_white.png"></p>
+                </div>
+                <div class="row-fluid">
+                    <p>
+                        1iota is America's premiere Audience Casting and Fan Engagement Agency.  We connect fans with the celebrities, shows and musical events they love – and offer peerless support for all of production's audience/event production needs.
+                    </p>
+                </div>
+                <div class="row-fluid">
+                    <p class="copyright">© 2014 1iota Productions, LLC</p>
+                </div>
+                <div class="row-fluid">
+                    <a href="/Company/Privacy">Privacy Policy</a>&nbsp;•&nbsp;<a href="/Company/Terms">Terms of Use</a>
                 </div>
             </div>
-            <div style="clear:both;"></div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                <h2 class="footerHeader">navigate</h2>
+                <div class="row">
+                    <ul class="col-lg-6 col-md-6 col-sm-6 col-xs-6 unstyled footer-links">
+                        <li><a class="flink" href="/">Home</a></li>
+                        <li><a class="flink" href="/Tickets">Get Tickets</a></li>
+                            <li><a class="flink" href="/Member/LogIn">Log In</a></li>
+                            <li><a class="flink" href="/Member/SignUp">Sign Up</a></li>
+                    </ul>
+                    <ul class="col-lg-6 col-md-6 col-sm-6 col-xs-6 unstyled footer-links">
+                        <li><a class="flink" href="/Company/About">About</a></li>
+                        <li><a class="flink" href="/Company/Services">Services</a></li>
+                        <li><a class="flink" href="/Company/Team">Team</a></li>
+                        <li><a class="flink" href="/Company/Credits">Credits</a></li>
+                        <li><a class="flink" href="/Company/Careers">Careers</a></li>
+                        <li><a class="flink" href="/Company/Contact">Contact</a></li>
+                        <li><a target="_blank" class="flink" href="http://1iota.freshdesk.com/support/solutions">FAQ</a></li>
+                    </ul>
+                </div>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                <h2 class="footerHeader">connect</h2>
+
+                <a target="_blank" href="https://www.facebook.com/1iota" class="social-network sn2 facebook"></a>
+                <a target="_blank" href="https://twitter.com/1iota" class="social-network sn2 twitter"></a>
+                <a target="_blank" href="http://instagram.com/1iota" class="social-network sn2 instagram"></a>
+                <a target="_blank" href="http://1iotablog.tumblr.com/" class="social-network sn2 tumblr"></a>
+                <a target="_blank" href="http://www.youtube.com/user/1iotapresents" class="social-network sn2 youtube"></a>
+
+                <br>
+                <br>
+                <div class="listEntryModule">
+                    <h4 class="footerHeader">Newsletter</h4>
+                    <form action="/Home/JoinMailingList" id="JoinListForm" method="post">
+                        <input class="form-control" placeholder="Email Address" id="Email" name="Email" type="text" value="">
+                        <button type="submit" value="Join" class="btn btn-iota form-control submitButton">Join</button>
+                    </form>
+                </div>
+            </div>
+
         </div>
     </div>
-</div>
-    <div style="display:none" id="loginModalDiv">
-        
+</footer>
 
-<style type="text/css">
-      
-    #facebookConnect .subheading {
-        margin-bottom: 40px;
-    }
-    #facebookConnect p {
-        width: 65%;
-        margin: 0 auto;
-        color: #23464B;
-    }
-</style>
 
-<div id="SiteLogin" class="shadow loginDiv">
-    <h2 class="gotham">Log in using your existing 1iota.com account.</h2>
-    <div id="requestform">    
-        <form action="/member/login" method="post" id="NavLoginForm">
-            <div>
-                <label>E-mail:</label>
-                <input type="text" name="NavUsername" value="Email" id="GlobalUsername" onfocus="if(this.value=='Email') this.value = '';">
-            </div>
-            <div style="margin-bottom: 5px;">
-                <label>Password:</label>
-                <input type="password" name="NavPassword" value="Password" id="GlobalPassword" onfocus="if(this.value=='Password') this.value = '';">
-            </div>
-            <div style="margin-bottom: 5px;">
-                <input type="checkbox" name="RememberMe" id="RememberMe">
-                Remember me
-            </div>
-            <div style="margin-bottom: 15px;">
-                <a href="#" id="ForgotPassword">Forgot your password?</a>
-            </div>
-            <div>
-                <a class="btn" style="color: white;" href="#" onclick="return submitLogin();" id="NavLoginSubmit" value="Sign In">Log In</a>
-            </div>
-            <p id="Prompt" style="display: none; font-weight: bold; color: Red;">There was a problem with your login, please try again.</p>
-            <p id="PromptSessionExp" style="display: none;">Your session has expired. Please login again.</p>
-        </form>
-    </div>
-</div>
-<div id="facebookConnect" class="shadow loginDiv" style="float:right;">
-    <h2 class="gotham">Log in with Facebook Connect.</h2>
-    <div class="fb-login-button" onlogin="FacebookLogin()" id="auth-loginlink" scope="email,user_birthday,user_location">Log In with Facebook</div>
-    <div style="display:none;" class="errors fbConnectError" id=""></div>
-    <p>Facebook Connect allows you to log onto 1iota.com with your Facebook identity.</p>
-</div>
-<div id="facebookConnectOverlay" style="background-color: #F2F3F3;position: absolute;right:18px;top:11px;height:242px;width:370px;opacity:.9;display: none;">
-    <img src="/Content/images/ajaxLoader.gif" alt="Loading..." class="ajaxLoader" style="position: relative;left:167px;top:99px;">
-</div>
+    <script type="text/javascript" src="/combres.axd/respJs/-650822168/"></script>
+    <!-- js files that can't be bundled -->
+    <script type="text/javascript" src="/Content/themes/corporate/js/jquery.fancybox-thumbs.js?v=1.0.2"></script>
+    <script type="text/javascript" src="/Content/themes/corporate/js/jquery.fancybox-media.js?v=1.0.0"></script>
 
-<script type="text/javascript" charset="utf-8">
-    $(document).ready(function () {
-        $('#GlobalUsername').focusin(function () {
-            if ($('#GlobalUsername').val() == 'Email')
-                $('#GlobalUsername').val('');
-        });
-
-        $('#GlobalPassword').focusin(function () {
-            if ($('#GlobalPassword').val() == 'Password')
-                $('#GlobalPassword').val('');
-        });
-
-        $('#NavLoginForm').bind('keypress', function (e) { if ((e.which || e.keyCode) == 13) submitLogin(); });
-        $('#ForgotPassword').click(function (e) {
-            e.preventDefault();
-            CloseDialog();
-            ShowDialog(360, 180, "Forgot Password", '/Member/ForgotPassword', null);
-        });
-    });
-
-    function submitLogin() {
-
-        var url = '/member/loginRest/';
-        var data = {
-            NavUsername: $('#GlobalUsername').val(),
-            NavPassword: $('#GlobalPassword').val(),
-            RememberMe: $('#RememberMe').attr('checked')
-        };
-        $.post(url, data, function (data) {
-            if (data == -2) {
-                $.fn.statusMessage('This account is inactive. Please contact 1iota to activate it.');
-            } else if (data == -3) {
-                window.location = '/member/validateemail';
-            } else if (data != -1) {
-                if ($.fn.eventSettings) {
-                    $.fn.eventSettings.userId = data;
-                    $.fn.eventSettings.loggedin = true;
-                }
-                //$.fn.statusMessage('Login successful.');
-                $.iota.statusMessage('Login Successful');
-
-                $.get('/member/GetUsername/' + data, function (data) {
-                    if (data != 'false') {
-                        $('#loggedIn').show();
-                        $('#aUser').text(data);
-                        $('#NavLoginForm').hide();
-                        $('#FreeSignUp').hide();
-                        $('.forgotpass').hide();
-                        $('#IotaFeed .frame').css('height', '772px');
-                        $('#insiders_feed .frame').css('height', '825px');
-                        $('.notLoggedIn').hide();
-                        GetMyTicketCount();
-                        GetMyMessagesCount();
-                    }
-                    else {
-                        $('#NavLoginForm').show();
-                        $('#FreeSignUp').show();
-                        $('.forgotpass').show();
-                        $('.notLoggedIn').show();
-                    }
-                });
-
-                $('#Prompt').hide();
-                CloseDialog();
-            } else {
-                $.fn.statusMessage('There was a problem with your login. Please try again.');
-            }
-        });
-        return false;
-    };
-</script>
-    </div>
-        
-    
-    
-    <script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript" charset="utf-8"></script>
-
-    <script type="text/javascript" src="/combres.axd/preloadJs/1772037085/"></script>
-    <script type="text/javascript" src="/combres.axd/siteJs/-2138209675/"></script>
-
+    <script type="text/javascript" src="https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.js"></script>
     <script type="text/javascript">
-        checkMobileRedirect();
-        $(document).ready(function () {
-            $.ajaxSetup({
-                cache: false
-            });
-            $('#LogIn').click(function (e) {
-                e.preventDefault();
-                DisplayDialog(800, 275, 'Log In', '#loginModalDiv');
-            });
-
-            initTooltips();
-        });
+        FreshWidget.init("", { "queryString": "&widgetType=popup", "widgetType": "popup", "buttonType": "text", "buttonText": "Need Help?", "buttonColor": "white", "buttonBg": "#346972", "alignment": "3", "offset": "60px", "formHeight": "600px", "url": "https://1iota.freshdesk.com" });
     </script>
-<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","593603549c","2507358","bgFbMUNSVkQAUE1cDVdLfQpFfV1DIlxXQRBWCFUAQxx7WAxDWFsbFjRLDEdSW04=",0,15,new Date().getTime(),"555ABBE24158D52B","","","",""]);</script>
+
+    
+
+<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","593603549c","2507358","bgFbMUNSVkQAUE1cDVdLfQpFfV1DIlxXQRBWCFUAQxx7WAxDWFsbFjRLDEdSW04=",0,15,new Date().getTime(),"A8D2482304769D0C","","","",""]);</script>
 
 <script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
