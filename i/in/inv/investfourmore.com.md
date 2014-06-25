@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investfourmore.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219050202id_/http%3A//investfourmore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investfourmore.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082924id_/http%3A//investfourmore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Invest Four More
+# Invest Four More Privacy Policy for Registration and Orders
 
 **What information do we collect?**
 
@@ -12,15 +12,13 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways:
 
-; To process transactions
+  * To process transactions
+  * Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails
+  * The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-; To administer a contest, promotion, survey or other site feature
-
-; To send periodic emails
-
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
 **How do we protect your information?**
 
@@ -95,6 +93,6 @@ This policy was last modified on 10/11/2013
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.investfourmore.com  
-, COinfo@investfourmore.com
+info@investfourmore.com
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
