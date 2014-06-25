@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontstock.net privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808022607id_/http%3A//www.fontstock.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontstock.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215551id_/http%3A//www.fontstock.net/privacy.html) for the most accurate reproduction.*
 
 # FontStock – Privacy Policy
 
