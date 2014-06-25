@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livelaw.in privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225204214id_/http%3A//www.livelaw.in/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelaw.in privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012205id_/http%3A//www.livelaw.in/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Live Law
 
