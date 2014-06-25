@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickbank.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231011509id_/https%3A//accounts.clickbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickbank.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092119id_/https%3A//accounts.clickbank.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ClickBank
 
@@ -9,4 +9,4 @@ The following privacy statements address our information collection practices wi
 
 
 
-[ ](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.clickbank.com/seal_l "Validate TRUSTe privacy certification") [ ](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.clickbank.com/seal_l "TRUSTe online privacy certification") [ ](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.clickbank.com/seal_l "TRUSTe European Safe Harbor certification")
+[ ](https://privacy.truste.com/privacy-seal/Click-Sales,-Inc-/validation?rid=c17dfb32-02ec-404b-b206-4a6b8042b6f2 "TRUSTe online privacy certification")
