@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netobjects.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530133739id_/http%3A//netobjects.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netobjects.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071049id_/http%3A//netobjects.com/html/privacy.html) for the most accurate reproduction.*
 
 # NetObjects Privacy Policy
 
@@ -84,7 +84,5 @@ NetObjects regularly reviews its compliance with this Privacy Policy. Please fee
 NetObjects does not guarantee error-free performance under this Privacy Policy. NetObjects will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when NetObjects learns of any failure to comply with our Privacy Policy. NetObjects shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the Commonwealth of Pennsylvania and the United States to the extent applicable.   
 Last Updated: 06/08/2011 07:00:52
 
-© 2013 NetObjects Inc. All Rights Reserved.  
-NetObjects, NetObjects Fusion, SiteStyles and The Web Needs You are registered trademarks and SiteStructure, SitePublisher, SiteProducer, TeamNetObjects Fusion, Changing the World of Web Design, The Smart Way to Build Websites and Build Great Sites are trademarks of NetObjects Inc.
-
-[](http://www.netobjects.com/)
+© 2014 NetObjects Inc. All Rights Reserved.  
+NetObjects, NetObjects Fusion, SiteStyles and The Web Needs You are registered trademarks and Changing the World of Web Design, The Smart Way to Build Websites and Build Great Sites are trademarks of NetObjects Inc.
