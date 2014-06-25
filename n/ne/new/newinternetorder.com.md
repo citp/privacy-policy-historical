@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newinternetorder.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226115438id_/http%3A//newinternetorder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newinternetorder.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013438id_/http%3A//newinternetorder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | newInternetOrder.com
 
