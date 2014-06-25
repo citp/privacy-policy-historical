@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the trustedpros.ca privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129220116id_/http%3A//trustedpros.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedpros.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045118id_/http%3A//trustedpros.ca/privacy) for the most accurate reproduction.*
 
 # TrustedPros Privacy Policy
 
 **Effective Date: April 10, 2013**
-
-TrustedPros Inc. (“ **TPI** ”) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 855-890-7767, by email at info@trustedpros.ca or by mail at 1 Dundas Street West, Suite 2500, Toronto, Ontario, Canada M5G 1Z3.   If you are not satisfied with our response you can contact TRUSTe here [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 * * *
 
