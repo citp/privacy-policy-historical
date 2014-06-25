@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the c4dcafe.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819203836id_/http%3A//www.c4dcafe.com/ipb/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c4dcafe.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232525id_/http%3A//www.c4dcafe.com/ipb/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - C4D Cafe
 
   
-
-
-Forums, gallery and free tutorials dedicated to using and learning [Cinema 4D.](http://www.c4dcafe.com/ipb/) Sign up today and start enjoying what we have to offer. [Registration](http://www.c4dcafe.com/ipb/index.php?app=core&module=global&section=register) is fast and free. 
-
   
 
 
