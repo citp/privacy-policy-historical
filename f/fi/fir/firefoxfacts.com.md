@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firefoxfacts.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211012924id_/http%3A//www.firefoxfacts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firefoxfacts.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625145518id_/http%3A//www.firefoxfacts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Firefox Facts
+# Privacy Policy - Firefox Facts
 
 The following discloses the information gathering and dissemination practices for this Web blog.
 
