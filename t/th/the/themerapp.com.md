@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themerapp.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109174729id_/http%3A//themerapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themerapp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045725id_/http%3A//themerapp.com/privacy) for the most accurate reproduction.*
 
 # Themer by MyColorScreen - Privacy
 
