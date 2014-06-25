@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the evoleads.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901010630id_/http%3A//www.evoleads.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evoleads.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055010id_/http%3A//evoleads.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EvoLeads CPA Network
 
-Last updated: March 30, 2013. 
+Last updated: March 30, 2013.
 
 EvoLeads outlines important information in this Privacy Policy regarding the use and disclosure of information collected via [www.evoleads.com](http://www.evoleads.com/).  
 EvoLeads provides this Privacy Policy to help users make an informed decision as to whether to use or continue using this website. EvoLeads is not responsible for the information collection or privacy practices of third web sites or applications. 
 
-This Privacy Policy applies to EvoLead’s collection, use, storage and disclosure of information by EvoLeads on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the Website), (b) on various third party websites, and (c) to EvoLead’s other information collection, including the purchase of customer lists from third parties. 
+This Privacy Policy applies to EvoLead’s collection, use, storage and disclosure of information by EvoLeads on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the Website), (b) on various third party websites, and (c) to EvoLead’s other information collection, including the purchase of customer lists from third parties.
 
-Note: EvoLeads has the right to change this privacy policy at anytime. It is the user's responsibility to check back regularly for updates. Continued use of the website after this Policy has been updated constitutes acceptance of the updated Policy. If you do not agree to this privacy policy, please contact us to terminate your account immediately. 
+Note: EvoLeads has the right to change this privacy policy at anytime. It is the user's responsibility to check back regularly for updates. Continued use of the website after this Policy has been updated constitutes acceptance of the updated Policy. If you do not agree to this privacy policy, please contact us to terminate your account immediately.
 
 **Information collected from Third Parties.**  
 EvoLeads collects information from individuals when an individual provides information to a Third Party and EvoLeads subsequently purchases, licenses, or otherwise acquires the information from the Third Party (the Seller). Such purchased information may include, but is not limited to, an individual's name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), SMS messaging details (e.g. date, time and content of the SMS message), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the individual may have provided to the Seller (together, Third Party List Information). When acquiring Third Party List Information, EvoLeads seeks assurances from the Seller that the Seller has a right to transfer the Third Party List Information to EvoLeads and that the Seller has a right to provide offers from advertisers to the individuals whose personal information is included on the Seller's list. 
