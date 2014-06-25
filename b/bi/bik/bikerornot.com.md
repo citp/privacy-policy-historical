@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikerornot.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925004735id_/http%3A//www.bikerornot.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikerornot.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625190922id_/http%3A//www.bikerornot.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy | BikerOrNot
 
@@ -70,7 +70,7 @@ This policy was last modified on 8/16/2012.
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 **BikerOrNot**  
-360 Central Ave, Suite 1260  
+360 Central Ave, Suite 350  
 Saint Petersburg, FL 33701  
 United States of America  
 help@bikerornot.com
