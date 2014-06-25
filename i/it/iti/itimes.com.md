@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itimes.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925041206id_/http%3A//ww.itimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itimes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110022id_/http%3A//itimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Be more interesting | itimes | Privacy Policy
 
@@ -57,11 +57,10 @@ Pushpinder Singh Sahi
 Grievance Redressal Officer   
 itimes.com   
 Times Internet Limited   
-4th Floor, MPD World Tower,   
-DLF City Phase V, Opposite DLF Golf Course   
-Gurgaon, Haryana 122002   
+Plot No. 391, Udyog Vihar, Phase – III,  
+Gurgaon, Haryana 122016   
 India  
-Ph: 0124-4187000
+Ph: 0124-4518550
 
 We request you to please provide the following information in your complaint:-
 
