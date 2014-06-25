@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sc.edu privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123191300id_/http%3A//www.sc.edu/about/notices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sc.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101726id_/http%3A//www.sc.edu/about/notices/privacy) for the most accurate reproduction.*
 
 # Privacy | University of South Carolina
 
