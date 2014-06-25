@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cynthiasays.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209234002id_/http%3A//www.hisoftware.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cynthiasays.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131341id_/http%3A//www.hisoftware.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # HiSoftware: Privacy Statement
 
-## HiSoftware Global Website Data, Website Transaction and Personal Privacy Statement 
+## HiSoftware Global Website Data, Website Transaction and Personal Privacy Statement
 
 HiSoftware Inc. practice a strong privacy policy and enforces it with any partners. This statement discloses the privacy practices for the HiSoftware.com, hisoftware.biz, hisoftware.info, AccessibilityWatch.com, taggen.com, ContentQuality.Com and CynthiaSays.com. When you visit a website that is part of the HiSoftware network of sites, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company’s control; and How you can correct any inaccuracies in the information.
 
@@ -66,6 +66,15 @@ When you visit a web page, your browser sends the user agent string to the serve
 Back to Top
 
 * * *
+
+### 
+
+**Was HiSoftware affected by the Heartbleed Bug?**
+
+  * [Heartbleed OpenSSL and HiSoftware Products Statement](http://blog.hisoftware.com/2014/corporate/heartbleed-openssl-and-hisoftware-products)
+
+
+
 
 **What does HiSoftware do?**
 
