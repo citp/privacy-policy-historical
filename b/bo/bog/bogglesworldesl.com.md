@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bogglesworldesl.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902143427id_/http%3A//bogglesworldesl.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bogglesworldesl.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103146id_/http%3A//bogglesworldesl.com/privacy.htm) for the most accurate reproduction.*
 
 # Presentation: Youngsan
 
