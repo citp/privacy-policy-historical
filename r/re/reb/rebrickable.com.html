@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the rebrickable.com privacy policy that was archived on 2013-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127135906id_/http%3A//rebrickable.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rebrickable.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625133346id_/http%3A//rebrickable.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<title>Rebrickable - Privacy Policy</title> 
 
-    <link href="/css/bootstrap-bits-i-copied.css" rel="stylesheet" type="text/css">
+    <link href="/css/bootstrap-bits-i-copied.css?v=20140507" rel="stylesheet" type="text/css">
     
-	<link href="/css/isuckatdesign.css?v=20131110" rel="stylesheet" type="text/css">
+	<link href="/css/isuckatdesign.css?v=20140623" rel="stylesheet" type="text/css">
 	
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/blog/feed/">
 	
@@ -43,7 +43,7 @@
 	<!-- Facebook Stuff -->
 <meta property="og:image" content="http://rebrickable.com/img/robo3a.png">
 	<!-- JQuery -->
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=263976140282023"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=263976140282023"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script type="text/javascript">
 		window.jQuery || document.write("<script src='/js/jquery-1.8.2.min.js' type='text/javascript'>\x3C/script>")
     </script><script src="/js/jquery-1.8.2.min.js" type="text/javascript"></script>
@@ -54,8 +54,7 @@
 	<!-- JQuery UI -->
 	<!--<link rel="stylesheet" href="http://code.jquery.com/ui/1.9.0/themes/base/jquery-ui.css" />-->
 	<link rel="stylesheet" href="/css/jquery-ui-1.9.0.custom/css/redmond/jquery-ui-1.9.0.custom.min.css" type="text/css">
-	<script src="http://code.jquery.com/ui/1.10.0/jquery-ui.js"></script>
-	<!--<script src="/js/jquery-ui-1.9.0.custom.min.js"></script>-->
+	<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
 	
 	<!-- 
 		JQuery UI Touch Punch - lets UI elements work with touch devices
@@ -131,6 +130,9 @@ googletag.enableServices();
 
 <div id="wrapper"> 
 
+
+
+
 <div id="header_wrap">
 <!--[if IE 6]>
 	<div id="alert">
@@ -140,6 +142,7 @@ googletag.enableServices();
 
 
 <div id="header">
+
 
 <script type="text/javascript">   
 
@@ -157,10 +160,14 @@ googletag.enableServices();
 	        opacity:         0.6
 	    };
 		
+		// Standard close popups
 		$(document).keyup(function(e) {
 			if (e.keyCode == 27) { $.unblockUI(); }
 		});
-	
+		$('#close').click(function() {
+			$.unblockUI();
+		});
+		
 		/* Search box */
 		
 		$('#header #search #q').focus(function() {
@@ -315,7 +322,7 @@ googletag.enableServices();
 	</div>
 
 	<div class="left">
-    	<a href="/"><img src="/img/title4.png" width="320" height="100" class="left" title="Hi!" alt="Rebrickable"></a>
+    	<a href="/"><img src="http://img.rebrickable.com/img/title4.png" width="320" height="100" class="left" title="Hi!" alt="Rebrickable"></a>
  	</div>
 	
 	<div class="right pad5">
@@ -329,8 +336,8 @@ googletag.enableServices();
 	</div>
 
 	<div class="right pad5">
-		<a href="http://www.facebook.com/Rebrickable" target="_new"><img src="/img/fb24.png"></a>
-		<a href="https://twitter.com/#!/Rebrickable" target="_new"><img src="/img/tw24.png"></a>
+		<a href="http://www.facebook.com/Rebrickable" target="_new"><img src="http://img.rebrickable.com/img/fb24.png"></a>
+		<a href="https://twitter.com/#!/Rebrickable" target="_new"><img src="http://img.rebrickable.com/img/tw24.png"></a>
 		<a href="https://plus.google.com/117515181145682293511?prsrc=3" style="text-decoration:none;"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="" style="border:0;width:24px;height:24px;"></a>
 	</div>
 
@@ -363,16 +370,14 @@ googletag.enableServices();
 		    <ul>
                 <li><a href="/search?po=1" title="Find and use parts">Search Parts</a></li>
                 <li><a href="/colors" title="List all colors">Part Colors</a></li>
-                <li><a href="/design_part" title="Submit a new part to the db">Submit A Part</a></li>
     	  	</ul>
 		</li>
         <li><a href="/mocs">MOCs</a>
 		    <ul>
                 <li><a href="/mocs" title="Browse through custom LEGO creations (MOCs)">Browse MOCs</a></li>
                 <li><a href="/search?theme=0&amp;custom=1" title="Browse through custom LEGO creations (MOCs)">Search MOCs</a></li>
-                <li><a href="/mymocs" title="Create your own private MOC">My Private MOCs</a></li>
+                <li><a href="/designers" title="Top Designers for the Month">Top Designers</a></li>
                 <li><a href="/design_moc" title="Submit a publicly accessible MOC">Submit A MOC</a></li>
-                <li><a href="/competitions" title="MOC building competitions held on Rebrickable">Competitions</a></li>
     	  	</ul>
 		</li>
         <li><a href="/blog/" title="Rebrickable blog">Blog</a></li>
@@ -389,6 +394,12 @@ googletag.enableServices();
 </div>
 
 <div class="clear"></div>
+<!--
+<div class='site_msg'>
+	<p><i class='fa fa-trophy fa-lg'></i> The <a href='/blog/2014/moc-alternate-build-competition-april'>April MOC Building Competition</a> is underway!</p>
+</div>
+-->
+
 <div id="content_s"> 
 
 	<div class="pad20 panel feature">
@@ -459,9 +470,8 @@ collected through our website and not to information collected offline.<br><br>
             <p>Site Navigation</p>
               <ul class="nobullets">
                 <li><a href="/pick_set">Build Sets</a></li>
-                <li><a href="/showstats">LEGO® Statistics</a></li>
+                <li><a href="/stats/sets">LEGO® Statistics</a></li>
                 <li><a href="/sets">Set Catalog</a></li>
-                <li><a href="/parts">Part Picker</a></li>
                 <li><a href="/mocs">MOCs</a></li>
                 <li><a href="/design_set">Submit Set</a></li>
                 <li><a href="/design_moc">Submit MOC</a></li>
@@ -473,10 +483,9 @@ collected through our website and not to information collected offline.<br><br>
 		<div class="navcol">
         <p>Site Help</p>
             <ul class="nobullets">
-              <li><a href="/build_set?s=8142-1&amp;s1=8143-1&amp;s2=8156-1&amp;s3=8157-1&amp;s4=8671-1&amp;c=2">Example set build</a></li>
+              <!--<li><a href="/build_set?s=8142-1&amp;s1=8143-1&amp;s2=8156-1&amp;s3=8157-1&amp;s4=8671-1&amp;c=2">Example set build</a></li>-->
               <li><a href="/contact">Contact Us</a></li>
               <li><a href="/about">About Us</a></li>
-              <li><a href="/advertise">Advertise With Us</a></li>
               <li><a href="/blog/">Blog</a></li>
               <li><a href="/privacy">Privacy</a></li>
               <li><a href="/api/">API Docs</a></li>
@@ -487,9 +496,9 @@ collected through our website and not to information collected offline.<br><br>
         <div class="navcol">
             <p>Database Statistics</p>
             <ul class="nobullets">
-                <li>9820 x Sets</li>
-                <li>702 x MOCs</li>
-                <li>1783492 x Parts</li>
+                <li>10741 x Sets</li>
+                <li>1187 x MOCs</li>
+                <li>2202020 x Parts</li>
             </ul>
         </div>
         <div id="fb-root"></div> <!-- HACK: moved here so FB btn doesnt suck -->
@@ -525,7 +534,7 @@ collected through our website and not to information collected offline.<br><br>
             <p>© <a href="http://rebrickable.com">Rebrickable.com</a>. All rights reserved. Because it's awesome!</p>
 			<p><i>This site is hosted by <a href="http://www.linode.com/?r=86f6a984dd8000c603f803bcda44a8defedc027a">Linode</a> who are almost as awesome.</i></p>
 
-<i>Page was generated in 0.061 seconds on Thursday, November 28, 2013 12:59 UTC. Awesome!</i>        </div>
+<i>Page was generated in 0.020 seconds on Thursday, June 26, 2014 12:33 UTC. Awesome!</i>        </div>
     </div>
     
     <div class="clear"></div>
@@ -578,7 +587,7 @@ collected through our website and not to information collected offline.<br><br>
 
   (function() {
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
