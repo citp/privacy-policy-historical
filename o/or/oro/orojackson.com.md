@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orojackson.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124200545id_/http%3A//orojackson.com/pages/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orojackson.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052056id_/http%3A//orojackson.com/pages/legal) for the most accurate reproduction.*
 
 # Privacy Policy | Oro Jackson
 
@@ -68,6 +68,6 @@ Controlling cookies and cookie preferences must be handled within your browser. 
 Published:
     Jul 12, 2011
 Page views:
-    1,023
+    1,804
 
 [ ](http://orojackson.com/)
