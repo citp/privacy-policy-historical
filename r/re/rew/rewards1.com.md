@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewards1.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822061149id_/http%3A//www.rewards1.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewards1.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102514id_/http%3A//www.rewards1.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Rewards1.com - Your premier source for freebies!
 
@@ -14,7 +14,7 @@ r1 will contact you for necessary reasons including, without limitation support,
 
 r1 may share non-personally identifiable information with 3rd Party Sponsors ("Sponsors") to identify and evaluate potential earning opportunities. At no time does r1 disclose your Personal Information without your express consent. 
 
-Non-personally identifiable information is aggregate information such as gender, age, and country. 
+Non-personally identifiable information is information such as gender, age, and country of origin. 
 
 For custom reward requests which require delivery from 3rd party vendors, r1 may share Personal Information such as your name and mailing address for shipping purposes.  Vendors are required to use the information only for fulfilling the goods and services as required by r1. 
 
@@ -34,6 +34,6 @@ In accordance with the Children's Online Privacy Protection Act of 1998 ("COPPA"
 
 ## Questions or Concerns?
 
-[Contact Us](https://web.archive.org/web/20130822061149id_/http%3A//www.rewards1.com/contact-us.php). 
+[Contact Us](https://web.archive.org/web/20140625102514id_/http%3A//www.rewards1.com/contact-us.php). 
 
 This policy is subject to change at anytime, without notice.   Last revised: Aug 15, 2013
