@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phsa.ca privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816221649id_/http%3A//www.phsa.ca/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phsa.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625231831id_/https%3A//www.phsa.ca/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy | Provincial Health Services Authority
 
