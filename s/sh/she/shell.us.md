@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shell.us privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004232022id_/http%3A//www.shell.us/about-our-website/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142707id_/http%3A//www.shell.us/about-our-website/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - United States
 
@@ -36,10 +36,8 @@ To optimise our services we may wish to use your personal data for direct market
 
 Additionally, if at any time you wish us to stop using your information for any or all of the above purposes, please contact us as set out below. We will stop the use of your information for such purposes as soon as it is reasonably possible to do so.
 
-In addition, the collected personal data will (occasionally) be transferred to selected third parties, which may be located outside of the Economic European Area (“EEA”) as part of the services offered to you through our site. By way of example, this may happen if any of our servers are from time to time located in a country outside of the EEA or one of our service providers is located in a country outside of the EEA.  
+In addition, the collected personal data will (occasionally) be transferred to selected third parties, which may be located outside of the Economic European Area (“EEA”) as part of the services offered to you through our site. By way of example, this may happen if any of our servers are from time to time located in a country outside of the EEA or one of our service providers is located in a country outside of the EEA.
 
-
-  
 These third parties will not use your personal information for any other purposes than what we have agreed with them. Shell requests those third parties to implement adequate levels of protection in order to safeguard your personal information.
 
 We respect your personal information and therefore, we will take steps to ensure that your privacy rights continue to be protected if we transfer your information outside of the EEA in this way. In addition, if you use our services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those services.
@@ -90,13 +88,13 @@ We use cookies to learn more about the way you interact with our content and hel
 
 Cookies remember the type of browser you use and which additional browser software you have installed. They also remember your preferences, such as language and region, which remain as your default settings when you revisit the website. Cookies also allow you to rate pages and fill in comment forms.
 
-Some of the cookies we use are session cookies and only last until you close your browser, others are persistent cookies which are stored on your computer for longer.  For further details on the various types of cookies that we use, [please click here](http://www.shell.com/global/aboutshell/about-our-website/privacy/cookie-policy.html).
+Some of the cookies we use are session cookies and only last until you close your browser, others are persistent cookies which are stored on your computer for longer.  For further details on the various types of cookies that we use, [please click here](http://www.shell.com/global/aboutshell/website-social-mobile/about-our-website/privacy/cookie-policy.html).
 
   *  **How are third party cookies used?**
 
 
 
-For some of the functions within our websites we use third party suppliers, for example, when you visit a page with videos embedded from or links to YouTube. These videos or links (and any other content from third party suppliers) may contain third party cookies and you may wish to consult the policies of these third party websites for information regarding their use of cookies. For further details on the third party cookies that we use, [please click here](http://www.shell.com/global/aboutshell/about-our-website/privacy/cookie-policy.html).
+For some of the functions within our websites we use third party suppliers, for example, when you visit a page with videos embedded from or links to YouTube. These videos or links (and any other content from third party suppliers) may contain third party cookies and you may wish to consult the policies of these third party websites for information regarding their use of cookies. For further details on the third party cookies that we use, [please click here](http://www.shell.com/global/aboutshell/website-social-mobile/about-our-website/privacy/cookie-policy.html).
 
   *  **How do I reject and delete cookies?**
 
