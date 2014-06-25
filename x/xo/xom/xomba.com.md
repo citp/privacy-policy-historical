@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xomba.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208045803id_/http%3A//www.xomba.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xomba.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070028id_/http%3A//www.xomba.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,4 +42,4 @@ Sharing and Disclosure of Information Xomba.com Collects Except as otherwise des
 
 Changes in Our Privacy Policy From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it and when we may disclose it. A user is bound by any minor changes to the policy when she or he uses the site after those changes have been posted If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection, we will notify users by posting a notice on our website for 30 days. 
 
-Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact us at: services(at)xomba(dot)com, Xomba, Inc. PMB #102, 1650 Margaret St., Ste. 302, Jacksonville, FL, 32204-3869. 
+Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact us at: services(at)xomba(dot)com, Xomba, Inc. 8870 N Himes Ave #347 Tampa, FL 33614. 
