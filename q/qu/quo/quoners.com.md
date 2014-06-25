@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quoners.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127180806id_/http%3A//www.quoners.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quoners.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050937id_/http%3A//www.quoners.com/privacy-policy) for the most accurate reproduction.*
 
 # Quoners Privacy Policy
 
