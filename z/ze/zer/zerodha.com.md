@@ -1,57 +1,25 @@
-> *The following text is extracted and transformed from the zerodha.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524224406id_/http%3A//zerodha.com/main/zerodhaprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerodha.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130529id_/http%3A//zerodha.com/privacy-policy) for the most accurate reproduction.*
 
-# ZERODHA PRIVACY POLICY
+# Zerodha - Privacy Policy
 
-PRIVACY POLICY 
+## 1\. Collection and use of your personal information
 
-* * *
+We collect your Personal Information, and in the case of account opening, background, financial, and demographic information on the Site in order to enhance the services we offer you. Such information may include your name, date of birth, residence and employment addresses, father’s and spouses names, bank account details, scans/copies of document proofs such as PAN, passport etc. We may hold this information indefinitely as required by the law, for the purpose of offering you our services, and for other regulatory and business purposes. 
 
-Zerodha Ltd. operates the web site accessible from the URL www.Zerodha.com (the 'Web Site').
+We collect Personal Information from you only when you voluntarily submit for purposes including but not limited to a) sales and account opening queries b) account opening c) partnership / association enquiries, and others. 
 
-Zerodha Ltd. is committed to protecting your privacy and utilizing technology to give you the most powerful and safe online experience that you can get anywhere else.
+We may use the information for purposes including, but not limited to a) identity verification and background checking for account opening b) personalising services offered to you c) keeping you updated of our products and services relevant to you d) information pertaining our services you’ve subscribed to d) for legal and regulatory purposes. 
 
-Zerodha Ltd, does gather certain information that is provided by you to the Web Site. Zerodha Ltd. believes that by collecting this information it is able to provide you with a personalised web experience and assist its own sales team and advertisers in efficiently reaching an appropriate audience.
+## 2\. Collection of non-personal information
 
-Zerodha Ltd. requests and collects minimum information it believes necessary to achieve this goal.
+Even if you do not send us any Personal Information, we collect information about how you use our site (“Non-Personal Information”). This information cannot be used to identify you personally and is explained in more detail below under “Non-Personal Information”. 
 
-The following policy discloses information gathering and dissemination practices of Zerodha Ltd. for the Web Site:
+#### Cookies
 
-Registration Data
+A cookie is a small data file, often including an anonymous unique identifier that is sent from a web site’s computer and stored on your computer’s hard drive. Use of cookies is common on the Internet. A web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser permits a web site to access only the cookies it has already sent to you, not the cookies sent to you by other sites. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. (Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.) You can reset your browser to refuse all cookies or indicate when a cookie is being sent. But if you refuse cookies, some parts of the Site will not function properly and may not provide services or information you have requested. For example, without cookies, we will not be able to provide you with searches that you have asked us to save. 
 
-The Web Site's registration form may require users to give us contact information (like their name and e-mail address), unique identifiers (like their PAN Number) and demographic information (like their pin code, age or income level). The Web Site uses customer contact information from the registration form to send the users information about Zerodha.com and promotional material from partners of Zerodha Ltd. and Zerodha.com. Unique identifiers (such as PAN numbers) are collected to verify the user's identity. Demographic and profile data is also collected at the Web Site. We use this data to tailor the visitor's experience at the Web Site, showing them contents that we think they might be interested in, and display the contents according to their preferences. This information is shared with advertisers on an aggregate basis.
+#### Non-personal information
 
-Links and Co-Branded Sites
+Like many sites, we obtain Non-Personal Information such as IP (internet protocol) addresses, browser types, the name of your ISP (internet service provider), information about where a user comes from before arriving at our Site, what pages a user visits, the order of those pages, and the amount of time spent on each. A vendor performs this service for us by sending a cookie to gather this information, compile it, and report to us. We use Non-Personal Information to customize the advertising and content you see, improve our services, conduct research, and provide anonymous aggregated reporting for internal audits and third-parties. 
 
-This site contains links to other Web Sites which have not necessarily been screened or reviewed by Zerodha.com. Zerodha Ltd. is neither responsible for the privacy practices or the contents of such Web Sites nor shall we be held answerable for the inaccurate, inappropriate or offensive data, material, information, products and services that may be viewed on those sites.
-
-Order Forms
-
-The Web Site uses an order form for customers to request information, products and services. The Web Site collects visitors' contact information (like their e-mail address), unique identifiers (such as PAN numbers), financial information (like their account or credit card numbers) and demographic information (such as their pin code, age or income level). Contact information from the order form is used to send orders, information about Zerodha.com, and promotional material from some of Zerodha Ltd. and Zerodha.com partners to the visitors of the Web Site. VisitorsÂ’ contact information is also used to get in touch with the visitor when necessary. Financial information that is collected is used to check the users' qualifications and bill the user for products and services. Unique identifiers (such as PAN numbers) are also collected from Web Site visitors to verify the user's identity.
-
-Protection of your Data and Information
-
-The privacy and protection of your data and information provided to us is of vital importance. Zerodha Ltd. strives to ensure the highest level of security and confidentiality of any information you share with us. Any personally identifiable information of the customers obtained by us shall not be used or shared other than for the purposes to which the customer consents. However security and confidentiality of information cannot always be guaranteed. Hence despite our utmost efforts to protect your personal information, Zerodha Ltd. and Zerodha.com cannot warrant the security of any information you transmit to us through our online services. Such transmission of your personal information is done at your own risk.
-
-Disclosure of Customer Information
-
-Zerodha Ltd. and Zerodha.com shall not deliberately disclose customer's personally identifiable information to any unauthorized third party, save and except where such information shall be disclosed in good faith and for lawful purposes to protect the rights and property of Zerodha Ltd. and Zerodha.com.
-
-Public Forums
-
-The Web Site makes chat rooms, forums, message boards and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when disclosing any such information.
-
-Supplemental Information
-
-The Web Site supplements the information that you provide with information that is received from third parties.
-
-Children’s Guidelines
-
-The Web Site:
-
-1.  DOES NOT collect online information from children without prior parental/guardian consent or parental/guardian notification, which serves as an opportunity   
-     for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond   
-     directly to the child's request and will not be used for other purposes;   
-2.  DOES NOT collect personally identifiable offline contact information without prior parental consent;   
-3.  DOES NOT distribute any personally identifiable information to third parties without prior parental consent;   
-4.  DOES NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent;  
-5.  DOES NOT entice children through the prospect of special games, prizes or other activities.
+We use the Personal Information and the Non-Personal Information we collect on the Site (A) to provide you with the services that you ask to receive through the Site, including saving searches and, if you request it, sending you updates about those searches, (B) to receive, if you choose, to receive periodic industry updates, (C) to answer your questions or complaints, (D) to refer you to Franchisees and sales associates about finding or listing a property or to locate a sale associate; (E) to refer a listing to a friend; (F) inquiries about franchising opportunities and G) for analytical purposes to help us improve the Site and for our business generally 
