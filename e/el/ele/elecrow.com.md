@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elecrow.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903192241id_/http%3A//www.elecrow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elecrow.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101547id_/http%3A//www.elecrow.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : Elecrow bazaar , make your making more easy
+# Privacy Notice : Elecrow bazaar, Make your making more easy
 
   
 
@@ -11,11 +11,11 @@ This notice applies to all information collected or submitted on the Elecrow Sto
 
 #### The Way We Use This Information
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-We use return email addresses to answer the email we receive. We will use information stored in our database about you to provide support. Email addresses and other data collected in support requests are not shared with outside parties unless you have consented as such to provide you with support. We may email directly to our customer lists special promotional offers from outside vendors, partners or suppliers. 
+We use return email addresses to answer the email we receive. We will use information stored in our database about you to provide support. Email addresses and other data collected in support requests are not shared with outside parties unless you have consented as such to provide you with support. We may email directly to our customer lists special promotional offers from outside vendors, partners or suppliers.
 
-Elecrow uses aggregated, anonymous data for research regarding the effectiveness of the Web site and Elecrow Store's marketing, advertising and sales efforts. Elecrow does not use such anonymous information for any other purpose. 
+Elecrow uses aggregated, anonymous data for research regarding the effectiveness of the Web site and Elecrow Store's marketing, advertising and sales efforts. Elecrow does not use such anonymous information for any other purpose.
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
@@ -38,7 +38,4 @@ Should you have other questions or concerns about these privacy policies, please
   
 
 
-##  Elecrow  - Make your making easier.
-
-  
-
+## Elecrow  - Make your making easier.
