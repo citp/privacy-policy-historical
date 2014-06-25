@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the newindia.co.in privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423224808id_/http%3A//newindia.co.in/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newindia.co.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123603id_/http%3A//www.newindia.co.in/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy: The New India Assurance Co. Ltd.
+# Privacy Policy : The New India Assurance Co. Ltd.
+
+[ ](http://newindia.co.in/index.aspx)
+
+You are here: 
+
+  1. [Home](https://web.archive.org/web/20140625123603id_/http%3A//www.newindia.co.in/index.aspx)
+  2. **Privacy Policy**
+
+
 
 As a general rule, this website does not collect Personal Information about you when you visit the site automatically. You can generally visit the site without revealing Personal Information, unless you choose to provide such information. If the NIA requests you to provide personal information, adequate security measures will be taken to protect your personal information
 
