@@ -1,10 +1,17 @@
-> *The following text is extracted and transformed from the netrider.net.au privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819023803id_/http%3A//www.netrider.net.au/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netrider.net.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110840id_/http%3A//netrider.net.au/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Netrider - connecting riders!
 
-Welcome to Netrider! Login or Sign up to interact with the Netrider community.
+[ ](http://netrider.net.au/)
 
-Interested in advertising on Netrider? See our [advertising page](https://web.archive.org/pages/advertise) for more information and rates
+[](https://web.archive.org/web/20140625110840id_/http%3A//netrider.net.au/help/misc/quick-navigation-menu "Open quick navigation")
+
+**Netrider - connecting riders!**
+
+[Home](http://netrider.net.au/)
+
+  
+
 
 What information do we collect?
 
@@ -54,5 +61,3 @@ Changes to our Privacy Policy
 If we decide to update our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification. This policy was last modified on March 20th, 2012 
 
 If there are any questions regarding this privacy policy you may contact us using the 'Contact Us' link below. 
-
-[ ](http://www.netrider.net.au/)
