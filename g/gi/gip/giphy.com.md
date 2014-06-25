@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the giphy.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223190912id_/http%3A//giphy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giphy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053635id_/http%3A//giphy.com/privacy) for the most accurate reproduction.*
 
 # Search Animated GIFs on the Web - Giphy
 
-## Giphy Privacy Policy
+### Giphy Privacy Policy
 
 This Privacy Policy describes the policies and procedures of Giphy, Inc. ("we", "our" or "us") on the collection, use and disclosure of your information on www.giphy.com (the "Site") and the services, features, content or applications we offer (collectively with the Site, the "Services"). We receive information about you from various sources, including: (i) your use of the Services generally; and (ii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. 
 
