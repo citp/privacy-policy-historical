@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech4learning.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215170249id_/http%3A//www.tech4learning.com/t4l/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech4learning.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125429id_/http%3A//www.tech4learning.com/t4l/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tech4Learning
 
@@ -48,7 +48,9 @@ Personal information that you provide that does not constitute Registration Info
 
 Please note that any information you post to a public bulletin board or chat room is available to all persons accessing that Site.
 
-This Site complies with the terms of the Children's Online Privacy Protection Act (COPPA) of 1998. 
+Children
+
+Except as noted in product specific privacy policies. Tech4Learning does not knowingly collect personal information from children under 13. If we learn that we have collected the personal information of a child under 13 without first receiving verifiable parental consent we will take steps to delete the information as soon as possible. 
 
 Use of cookies
 
