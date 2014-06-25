@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cosmomusic.ca privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105014511id_/http%3A//cosmomusic.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmomusic.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081132id_/http%3A//cosmomusic.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cosmo Music
+# Privacy Policy | Cosmo Music | Cosmo Music
 
 Cosmo Music is proud to be a part of the internet community that does not promote the use of spamming and selling or renting out customer lists and information. All information submitted on this website will **never** be released to other companies.
 
