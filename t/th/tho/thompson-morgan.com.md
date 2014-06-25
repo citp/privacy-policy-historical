@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228134955id_/http%3A//www.thompson-morgan.com/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055159id_/http%3A//www.thompson-morgan.com/cookies-privacy-policy) for the most accurate reproduction.*
 
 # Thompson & Morgan - Security & Privacy Policy
 
@@ -71,6 +71,10 @@ The cookies that are used on this website are as follows:
 
 We use this information to understand how the website is being used and enable us to improve the user experience. All user data is anonymous.
 
+**Qubit**
+
+We use this information to understand how the website is being used, enabling us to personalise and improve the user experience.
+
 **[Affiliate Window](http://www.affiliatewindow.com/documents/Privacy%20Policy.pdf "affiliate window privacy policy pdf")**
 
 This cookie is set only if you get to the order confirmation page after checkout. It allows us to reward a site affiliate that has referred traffic to us.
@@ -83,13 +87,16 @@ We work with SLI Systems to provide our on-site product and information search. 
 
 Sub2 use cookies to enhance the user experience with this site by delivering both personalised content and offers whilst ensuring you see the products most relevant to you. Any information collected is not shared with any other third parties. To learn more about these cookies, please [click here.](http://webservices.sub2tech.com/optout/optout.asp "Sub2 Cookie and Privacy Policy")
 
-**_Advertising Services_**
+**_Third Party Targeting Cookies or Advertising Cookies_**
 
-For marketing purposes we work with [Google Adwords](http://www.google.com/intl/en/policies/privacy/ "google adwords privacy policy") and [Microsoft’s Ad Centre](http://privacy.microsoft.com/en-us/default.mspx "microsoft ad centre privacy policy") using pay per click advertising. Once a user clicks on an advert a cookie is set which will expire in 30 days.
+We use these cookies to help us monitor which adverts you see and to help ensure that adverts directed to you are relevant to you and your interests. They also remember that you have visited our website and are used to limit the number of times you see an advertisement and help measure the effectiveness of our advertising campaigns.  
+We currently use cookies provided by the following advertising partners, whose privacy policies and opt-out details you can find by clicking the following links: [Sub2](http://webservices.sub2tech.com/optout/optout.aspx "sub2"), [Google Adwords](http://www.google.com/intl/en/policies/privacy/ "Google Adwords") and [Microsoft Ad Centre](http://privacy.microsoft.com/en-us/default.mspx "Microsoft Ad Centre"). 
 
 There are a few external services that are used on our website mostly to display content within our web pages. For example we use [YouTube](http://www.google.co.uk/intl/en-GB/policies/ "YouTube") to show videos and [Flickr](http://info.yahoo.com/legal/us/yahoo/copyright/en-us/ "Flickr privacy policy") to display some images. As with social buttons, such as [Facebook](http://www.facebook.com/about/privacy/ "Facebook privacy policy") and [Twitter](http://twitter.com/privacy "Twitter privacy policy"), we cannot prevent these sites, or external domains from collecting information on your usage of this embedded content. If you are not logged into these services then they will not know who you are but are likely to gather anonymous usage information such as the number of times a visitor has viewed a video. We work with these external services on the basis that they adhere to their privacy policies. To view their privacy policies, please click on one of the underlined links above.
 
 Most browsers allow you to turn off cookies. To do this look at the "help" menu on your browser.
+
+By continuing to browse our website, you are consenting to our use of these cookies.
 
   
 
