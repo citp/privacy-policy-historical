@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maduraonline.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214092957id_/http%3A//www.maduraonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maduraonline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123721id_/http%3A//www.maduraonline.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -65,7 +65,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Your Consent**
 
-By using our site, you consent to our [ online privacy policy](http://www.maduraonline.com/privacy.html).
+By using our site, you consent to our [online privacy policy](http://www.maduraonline.com/privacy.html).
 
 **Changes to our Privacy Policy**
 
