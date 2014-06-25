@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unwrapindia.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531150959id_/http%3A//unwrapindia.com/stores/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unwrapindia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083445id_/http%3A//www.unwrapindia.com/stores/privacy-policy.html) for the most accurate reproduction.*
 
 # None
 
-* Use of the Site and the Service is further governed by Adjetter Media Network's Privacy Policy, which is incorporated into this Agreement by reference. Adjetter Media Network Private Limited is the operator and licensee of [www.unwrapindia.com](http://www.unwrapindia.com/). We ensure the protection and security of your personal information.
+* Use of the Site and the Service is further governed by Eye and Buy's Privacy Policy, which is incorporated into this Agreement by reference. Eye and Buy Retail Private Limited is the operator and licensee of [www.unwrapindia.com](http://www.unwrapindia.com/). We ensure the protection and security of your personal information.
 
 Personal Information refers to any information that identifies or can be used to identify, contact or locate the person, to whom such information pertains including, but not limited to, IP address, name, physical address, email address, phone number, cell phone number, fax number, email address, financial profiles, identification number and credit card information and other information such as gender, occupation and other demographic information.
 
@@ -30,11 +30,10 @@ To prevent unauthorized access, disclosure or improper use of your information, 
 
 If you have questions or concerns about our collection, use or disclosure of your personally identifiable information, please write to us at:
 
-**Adjetter Media Network Pvt Ltd**  
-2nd Floor, Tech Park   
-PESIT Campus, 100 Ft Ring Road,  
-BanaShankari 3rd Stage,   
-Bangalore - 560085, India.
+**Eye and Buy Retail Pvt Ltd**  
+#55, Double Road   
+Indiranagar,   
+Bangalore - 560038, India.
 
 #### Changes to this Privacy Policy
 
