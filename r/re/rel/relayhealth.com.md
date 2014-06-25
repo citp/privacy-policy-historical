@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relayhealth.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815032005id_/http%3A//www.relayhealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relayhealth.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234131id_/http%3A//www.relayhealth.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RelayHealth
 
@@ -57,6 +57,6 @@ We will let you update your personal information that you have provided to us. W
 
 ### Customer Service and Recourse
 
-We will tell you how you can contact us regarding our privacy statement and practices. If you have any questions about this privacy statement, our information handling practices, or any other aspects of your privacy and the security of information, please send an email to [privacy@relayhealth.com](mailto:privacy@relayhealth.com) or call us at 770-237-7164. Our mailing address is: RelayHealth, 1145 Sanctuary Parkway, Suite 200, Alpharetta, GA 30009, ATTN: Privacy Officer.
+We will tell you how you can contact us regarding our privacy statement and practices. If you have any questions about this privacy statement, our information handling practices, or any other aspects of your privacy and the security of information, please send an email to [privacy@relayhealth.com](mailto:privacy@relayhealth.com) or call us at 770-237-7164. Our mailing address is: RelayHealth, 5995 Windward Parkway, Alpharetta, GA 30005, ATTN: Privacy Officer.
 
 We retain the flexibility to update this policy. RelayHealth may periodically update this policy to describe how new Web features may affect our use of your information and to let you know of new controls and features that we may provide you. The date of the last update to this privacy statement is stated at the top of this document.
