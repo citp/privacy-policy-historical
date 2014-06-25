@@ -1,25 +1,14 @@
-> *The following text is extracted and transformed from the spyka.net privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020214023id_/http%3A//www.spyka.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyka.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092109id_/http%3A//www.spyka.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | spyka Web Group
 
-[](http://spyka.co.uk/)
-
-Just another WordPress site
-
-  * Customer email
-
-hello@spyka.co.uk
-
-
-
-
-**Last revised: 10th September 2010**
+**Last revised: 16th March 2014**
 
 This policy explains in detail how spyka Web Group (hereinafter “sWG”, “us”, “we”, “our”) use any information collected during any visit by you (hereinafter “your”, “visitor”, “user”)
 
 ##### Sites covered by this Privacy Policy
 
-This privacy policy applies to all spyka Web Group websites and domains including, but not limited to: spyka.net, spyka.co.uk, randomquirk.com, profileartist.net, spykapages.com, awesomestyles.com, justfreetemplates.com, revisesmart.co.uk, webquirk.com, spykawebdesign.com, tellymix.co.uk, tellymix.com and tellymixcdn.com.
+This privacy policy applies to all spyka Web Group websites and domains including, but not limited to: spyka.net, spyka.co.uk, randomquirk.com, zypopwebtemplates.com, zypop.net, swgf.co.uk, chartsupdate.co.uk, studentprofit.co.uk, studenteats.co.uk, awesomestyles.com, justfreetemplates.com, revisesmart.co.uk, spykawebdesign.com, tellymix.co.uk, tellymix.com and tellymixcdn.com.
 
 ##### Automatically collected information
 
