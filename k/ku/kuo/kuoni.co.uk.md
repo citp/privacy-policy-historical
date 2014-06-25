@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuoni.co.uk privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102182029id_/http%3A//www.kuoni.co.uk/kuoni-for-you/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuoni.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070402id_/http%3A//www.kuoni.co.uk/kuoni-for-you/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kuoni Travel
 
@@ -41,6 +41,8 @@ We may also use your IP (Internet Protocol) address to diagnose problems with ou
 We need your credit card details so that we can collect payment for your booking.
 
 Information you supply to us will be passed to our suppliers (such as airlines, hotels, transport companies) and agents only where necessary for the purposes of booking your holiday. This may include the transfer of information outside the EEA (European Economic Area).
+
+Read More
 
 ### Will Kuoni Travel disclose any of this personal information to third parties?
 
@@ -92,6 +94,8 @@ Kuoni’s cookies’ key features allow you to:
 Kuoni has good relationships with a small number of carefully selected suppliers who may also set cookies on behalf of us in order to improve our website and bring our customers information and offers that are relevant to you. If you would like more information about the cookies used by these suppliers, please see below.
 
 Cookies cannot harm your computer and Kuoni will not use cookies to collect personally identifiable information about you.
+
+Read More
 
 ### How to modify your browser settings to decline cookies
 
@@ -194,6 +198,8 @@ TLTSID TLTUID
 
 <http://www.tealeaf.com/company/privacy-policy.php>  
   
+Show Cookies
+
 ### Functionality
 
 'Functionality' cookies are used to help you use the Kuoni website, provide services and remember settings to improve your visit.
@@ -272,6 +278,8 @@ MyPage'   mykuoni-remembered
 
 n/a  
   
+Show Cookies
+
 ### Targeting
 
 'Targeting' cookies are linked to services provided by third parties, such as 'Like' buttons and 'Share' buttons. The third party provides these services in return for recognising that you have visited our website.
@@ -350,6 +358,8 @@ dmc
 
 <http://www.quantcast.com/privacy>  
   
+Show Cookies
+
 ### Social media
 
 We offer a share page widget on all of our web pages for Facebook, Twitter and Google+. This allows you to easily share holidays or travel related information that you are interested in with your friends, family and social networks.
