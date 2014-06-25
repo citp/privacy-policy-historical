@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wasi.lk privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919034436id_/http%3A//wasi.lk/%3Fpage_id%3D1670) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wasi.lk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084928id_/http%3A//wasi.lk/%3Fpage_id%3D1670) for the most accurate reproduction.*
 
-# Wasi.lk | Privacy Policy
+# Wasi.lk | Privacy Policy | Best Prices in Sri Lanka
 
-At Wasi.lk (hereinafter referred to as “wasi”, “us”, “we”, “our”), we are committed to safeguarding and preserving the privacy of our visitors and to comply with any applicable data protection and privacy laws. The Privacy Policy applies to all Customers and Users (collectively referred to as “Users”). In addition this Privacy Policy applies to all products and services provided by [www.wasi.lk](https://web.archive.org/web/20130919034436id_/http://wasi.lk/privacy-policy/) (hereinafter referred to as “wasi.lk” or the “Site”, “website”).
+At Wasi.lk (hereinafter referred to as “wasi”, “us”, “we”, “our”), we are committed to safeguarding and preserving the privacy of our visitors and to comply with any applicable data protection and privacy laws. The Privacy Policy applies to all Customers and Users (collectively referred to as “Users”). In addition this Privacy Policy applies to all products and services provided by [www.wasi.lk](https://web.archive.org/web/20140626062403id_/http://wasi.lk/privacy-policy/) (hereinafter referred to as “wasi.lk” or the “Site”, “website”).
 
 This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our Site. We do update this Policy from time to time so please do review this Policy regularly.
 
@@ -20,13 +20,15 @@ In running and maintaining our Site we may collect and process the following dat
 
 We know how important it is to feel safe when using your credit/debit card online. This is why we have employed the best encryption methods available today. You can feel confident about the safety of your credit/debit card when shopping on our site. We encrypt every order to protect your credit/debit card number and personal information. Encryption is a process by which we use software to scramble your credit/debit card number and personal information in transit from Wasi.lk.
 
-Wasi.lk 128/256 bit SSL Premium Certification With SSL Premium web server certificates, you can conduct secure Internet transactions with confidence. We have install RAPID SSL to encrypt data.
+Wasi.lk 128/256 bit SSL Premium Certification With SSL Premium web server certificates, you can conduct secure Internet transactions with confidence. We have installed Positive SSL to encrypt data.
 
-By using Rapid SSL we assure our visitors that credit/debit card account numbers and other confidential information cannot be viewed, intercepted or altered.
+By using Positive SSL we assure our visitors that credit/debit card account numbers and other confidential information cannot be viewed, intercepted or altered.
+
+[](http://wasi.lk/wp-content/uploads/2013/07/PositiveSSL_tl_white2.gif)
 
 ##### Credit/Debit Card Information
 
-We accept payments through Visa, MasterCard debit and credit cards with our online payment gateway managed and run by a leading Bank in Sri Lanka (Coming Soon), as well as Visa, MasterCard, Discover, & Amex cards via PayPal. We do not keep customers credit card information on file or store in our database.  Bank/PayPal verify credit/debit card information during the transaction. When passing information we use SSL to encrypt all data.
+We accept payments through Visa, MasterCard debit and credit cards with our online payment gateway managed and run by Seylan Bank Sri Lanka. We do not keep customers credit/debit card information on file or store in our database. The Bank verify credit/debit card information during the transaction. When passing information we use SSL to encrypt all data.
 
 ##### Use of Cookies
 
@@ -77,7 +79,7 @@ On occasion we include links to third parties on this Website. Where we provide 
 Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at:
 
 Wasi.lk  
-No. 14, 1st floor,  
+No. 15, 1st floor,  
 YMBA Building,  
 Colombo 08,  
 Sri Lanka
