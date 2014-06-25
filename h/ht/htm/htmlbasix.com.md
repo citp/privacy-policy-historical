@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlbasix.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016153809id_/http%3A//www.htmlbasix.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlbasix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625184636id_/http%3A//htmlbasix.com/privacy.shtml) for the most accurate reproduction.*
 
 # HTML Basix - privacy policy
 
@@ -28,11 +28,7 @@ Subscribe to the HTML Basix RSS feed.
 
 [](https://chitika.com/publishers.php?refid=basix "Get Chitika | Premium")  
   
-| 
-
-HTMLBasix fully recommends [Hostmonster](http://www.hostmonster.com/track/basix/text1) as your host of choice.   
-Masses of space, transfer, great uptime. All for a VERY affordable price!>  
-  
+|   
 ---  
   
   
@@ -61,14 +57,14 @@ We use third-party advertising companies to serve ads when you visit our website
   
 | **Visitors**|  **Pageviews**  
 ---|---  
-Total:|  8,112,262  | Total:|  21,686,041   
-Today:|  118  | Today:|  426   
-Yesterday:|  1,382  | Yesterday:|  4,572   
-Past Month:|  42,842  | Past Month:|  141,732   
+Total:|  8,442,495  | Total:|  22,557,779   
+Today:|  343  | Today:|  1,099   
+Yesterday:|  1,316  | Yesterday:|  4,838   
+Past Month:|  40,796  | Past Month:|  149,978   
   
-1,385 visitors in the last 24 hours  
-This page has been visited 45,879 times  
-**There are currently 14 visitors online**  
+1,358 visitors in the last 24 hours  
+This page has been visited 48,854 times  
+**There are currently 10 visitors online**  
 [ _click to see where_ ](http://www.htmlbasix.com/onlinepro/usersonline.cgi)  
 most people online at once:  
  **286** visitors on **06/27/2012**  
