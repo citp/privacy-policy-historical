@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcfc.co.uk privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226113117id_/http%3A//www.mcfc.co.uk/Common/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcfc.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140538id_/http%3A//www.mcfc.co.uk/Common/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Common - Manchester City FC
 
@@ -188,15 +188,3 @@ United Kingdom
 ##### How to contact us
 
 If you would like any further information or have any comments about our privacy policy or any other aspect of our website or service, please contact us at the address above.
-
-## Choose language
-
-Close
-
-English [ﻲﺑﺮﻋ](http://www.manchestercityfc.ae)
-
-## Go to the UK or US site?
-
-Close
-
-[UK](/SiteHandler.aspx?site=UK) [US](/SiteHandler.aspx?site=US)
