@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the balsamiq.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529125241id_/http%3A//www.balsamiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balsamiq.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065944id_/http%3A//balsamiq.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Balsamiq
+# Privacy Policy – Balsamiq
 
 Effective March 15th 2008.
 
@@ -12,12 +12,12 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 This notice applies to all information collected or submitted on the Balsamiq Studios LLC website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
-Name  
-Address   
-E-mail address  
-Phone number   
-Credit/Debit Card Information   
-
+> Name  
+>  Address   
+>  E-mail address  
+>  Phone number   
+>  Credit/Debit Card Information   
+> 
 
 ### How We Use Information
 
@@ -33,7 +33,7 @@ Finally, we never use or share the personally identifiable information provided 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-### Our Commitment to Children’s Privacy
+### Our Commitment to Children's Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
@@ -43,4 +43,4 @@ You can access all your personally identifiable information that we collect onli
 
 ### How to Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at +1 (415) 367-3531 or send us an e-mail at [support@balsamiq.com](mailto:support@balsamiq.com). 
+Should you have other questions or concerns about these privacy policies, please call us at +1 (415) 367-3531 or send us an e-mail at [support@balsamiq.com](mailto:support@balsamiq.com).
