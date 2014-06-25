@@ -1,100 +1,112 @@
-> *The following text is extracted and transformed from the playdora.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playdora.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113320id_/http%3A//www.playdora.com/page/Privacy%2520Policy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - Play Dora Girl Games
 
-**Go Daddy Respects Your Privacy**
+Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**Privacy Policy**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This Privacy Policy governs the manner in which PlayDora collects, uses, maintains and discloses information collected from users (each, a "User") of the http://PlayDora.com website ("Site"). This privacy policy applies to the Site and all products and services offered by PlayDora.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**Personal identification information**
 
-**Information Collection and Use**
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+PlayDora.com does not target its Website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13.We take measures to help children protect their privacy while being online. For example, We do not ask children to disclose more personal information than is necessary for them to participate in a particular activity. We do not disclose personally identifiable information of users under 13 years of age to third parties. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**Non-personal identification information**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**Parents and Children**
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Are you younger than 13? If so, you should ask your parents for permission for entering your personal information. Are you the father, mother or legal representative of a child playing games on our site and do you wish to withdraw your permission? You can do so at any time. Below a description of how it works is given. In order to cancel an account / a profile the Parent should have access to the email address associated with the account to be deleted. Upon request, the Parent will receive an email message from PlayDora.com sent to the Parent's email address (that email address should not be the email address of the account to be deleted!) containing a link to our Website. By clicking on the link a specially designed page on PlayDora.com is opened. On this page a number of data of the Parent and of the profile to be removed are displayed. Here, the Parent should fill in additional information, such as a name, address and telephone number. When the data are sent, an email message will be sent to the email address associated with the account / profile to be deleted. The Parent will have to open this email message containing a link to disable/remove the account. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Cookies**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+PlayDora.com uses cookies. A cookie is a simple small file that is sent along with pages of this Website and that is stored by your browser on your computer's hard disk. It is possible to disable cookies, but we advise against this strongly. For turning off the cookies will limit the functionality of the Website considerably. After logging in with your Username and password PlayDora.com will automatically place a cookie on your computer in order to be able to recognize you during the remainder of a session. The information that is obtained by us in this way will be used by us to remember your games page and to optimize our Website according to your wishes and preferences. Cookies make the website much easier, faster and more personal.You can opt out of some third-party vendor's use of cookies for interest-based advertising by visiting aboutads.info. There are different types of cookies.   
 
-**Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  
+**Necessary**
 
-**Updating Your Information**
+These cookies are enabled to view PlayDora.com and to use the basic functions, like the automatic login. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  
+**Functional**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+These cookies make it possible for you to save your preferred setting, like your favorite color and your avatar. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  
+**Presentation**
 
-      iii.      You may call us at: (480) 505-8800
+Because of these cookies we can show you which games are played most often and which games are best rated. These cookies also make it possible to show the error messages. 
 
-       iv.      You may fax us at: (480) 505-8844
+  
+**Third-party**
 
-**Sending Emails**
+Because of these cookies we can display advertisements tuned to your interests. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  
+**Manage cookies**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+If you want to delete cookies, you should do this in the settings of your browser. 
 
-**Compliance with Laws and Law Enforcement**
+**How we use collected information**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+PlayDora may collect and use Users personal information for the following purposes:
 
-**Third Party Service Providers**
+\- To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+\- To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
+\- To improve our Site  
+We may use feedback you provide to improve our products and services.  
+\- To run a promotion, contest, survey or other Site feature  
+To send Users information they agreed to receive about topics we think will be of interest to them.  
+\- To send periodic emails  
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**How we protect your information**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-**Supplementation of Information**
+**Sharing your personal information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-**Contests/Surveys**
+**Third party websites**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+**Advertising**
 
-**Tell-A-Friend**
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+**Ads by Google**
 
-**What Happens to my Personal Information if I Opt Out?**
+Our website contains advertisements that are supplied by the U.S. company Google. Use may be made of cookies and other technologies, such as Google Analytics, to track how Users use the Website. The information thus obtained, including the address of your computer (IP address), will be transmitted to, and stored by, Google on servers in the United States.   
+Google uses this information to track how our Website is used, to report to us about the Website and to be able to offer its advertisers information about the effectiveness of their campaigns. Google may make available this information to third parties if Google is legally required to do so, or in as far as such third parties process the information on Google's behalf. This is beyond our control. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+**Google Adsense**
 
-**Transfer of Data Abroad**
+Some of the ads may be served by Google. Google's use of the DoubleClick cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DoubleClick uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DoubleClick cookie by visiting the Google ad and content network privacy policy at [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "Google ad and content network privacy policy")
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+**Changes to this privacy policy**
 
-**Changes in Our Practices**
+PlayDora has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**Your acceptance of these terms**
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**Contacting Our Site**
+**Contacting us**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+PlayDora  
+http://cPlayDora.com
 
-* * *
+[Contact Us](http://www.playdora.com/contact.php "Contact us")
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+ **This document was last updated on 20.08.2013**  
+
