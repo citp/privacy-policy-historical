@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitedown.co privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126175552id_/http%3A//sitedown.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitedown.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115436id_/http%3A//sitedown.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Site Down
 
@@ -17,7 +17,7 @@ Site Down (“ **Site Down** ”) operates several websites including [SiteDown.
 
 Like most website operators, Site Down collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Site Down may collect data from Interest-based advertising or 3rd-party audience data (such as age, gender and interests) for internal use. Site Down's purpose in collecting non-personally identifying information is to better understand how Site Down's visitors use its website. From time to time, Site Down may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Site Down also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments. Site Down only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators where the comment was left.
+Site Down also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments. Site Down only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses and email addresses are visible and disclosed to administrators.
 
 ### Gathering of Personally-Identifying Information
 
