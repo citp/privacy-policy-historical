@@ -1,3108 +1,725 @@
-<!--The following is the downloaded HTML source of the iuhealth.org privacy policy that was archived on 2010-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101213172024id_/http%3A//www.clarian.org/portal/Clarian/about-clarian-health%3FContentID%3D/about/terms-policies/privacy.xml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iuhealth.org privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625100859id_/http%3A//iuhealth.org/patients/notice-of-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml2/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta scheme="a1afcc517bec909bf5c3fddea7c83c3d" name="TSa35563" content="58407f0e0015a74e"><!--9cc5da25f89a21d1fbb5ffa18da0bb73--><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">if(window.addEventListener){window.addEventListener("load",fetchcsloader,false);}else{if(window.attachEvent){window.attachEvent("onload",fetchcsloader);}else{onload=fetchcsloader;}}
-var jsepee={};jsepee['ILLEGAL_VALUE']=0xffff;jsepee['DEFAULT_PORT']="80";var e=document.getElementsByTagName('meta');jsepee['CSHUI_RANDOM_DATA_NODE']=null;for(var i=0;i<e.length;i++){if(e[i].getAttribute('scheme')&&e[i].getAttribute('scheme')==='a1afcc517bec909bf5c3fddea7c83c3d'){jsepee['CSHUI_RANDOM_DATA_NODE']=e[i];}}
-if(jsepee['CSHUI_RANDOM_DATA_NODE']!==undefined&&jsepee['CSHUI_RANDOM_DATA_NODE']!==null){jsepee['CSHUI_COOKIE_NAME']=jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('name')+'_77';jsepee['CSHUI_COOKIE_VALUE_TRUE']='true'+'_'+jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('content');jsepee['CSHUI_MONITOR_KEYBOARD']=true;jsepee['CSHUI_MONITOR_MOUSE']=true;}
-jsepee['CSHUI_MOUSEMOVE_EVENTS_TARGET']=3;jsepee['CSHUI_MOUSEMOVE_MAX_EVENTS']=1024;jsepee['CSHUI_MOUSEMOVE_EVENTS_COUNTER']=0;jsepee['CSHUI_MOUSEMOVE_LAST_X_LOCATION']=0;jsepee['CSHUI_MOUSEMOVE_LAST_Y_LOCATION']=0;jsepee['CSHUI_MOUSEMOVE_IS_CONTINUOUS']=0;jsepee['CSHUI_KEYBOARD_EVENTS_TARGET']=1;jsepee['CSHUI_KEYBOARD_EVENTS_COUNTER']=0;jsepee.new_url=function(){return{'literal':"",'methodId':this.method2id("GET"),'host':"",'port':"",'protocolId':"",'path':"",'fileExtension':"",'parameters':[]};};jsepee.new_das_item=function(){return{'page':{'URL':this.new_url(),'referrer':this.new_url(),'characterEncoding':"UTF-8",'cookie':[]},'links':{},'forms':{},'cshui':'false'+'_'+jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('content')};};jsepee.new_das=function(){return{};};jsepee['das']=jsepee.new_das();jsepee.protocol2id=function(protocol){if(protocol=="http:"){return 0;}else if(protocol=="https:"){return 1;}
-return this.ILLEGAL_VALUE;};jsepee.get_file_extension=function(path){var lastIndexOfSlash=path.lastIndexOf("/");var file="";if(lastIndexOfSlash<0){file=path;}else{file=path.substring(lastIndexOfSlash+1);}
-var lastIndexOfDot=file.lastIndexOf(".");var ext="";if(lastIndexOfDot>=0){ext=file.substring(lastIndexOfDot+1);}
-return ext;};jsepee.extract_parameters_from_query_string=function(search){if(!search){return[];}
-var item=search.substring(1).split("&");var params=[];for(var i=0;i<item.length;++i){var pair=item[i].split("=");params.push({name:pair[0],value:decodeURIComponent(pair[1])});}
-return params;};jsepee.get_parsed_url=function(a){return{'literal':a.href,'host':a.host,'port':a.port||this['DEFAULT_PORT'],'protocolId':this.protocol2id(a.protocol),'path':a.pathname,'fileExtension':this.get_file_extension(a.pathname),'parameters':this.extract_parameters_from_query_string(a.search)};};jsepee.is_relative_url=function(u){return/^\w+:/.test(u)===false;
-};
+<!DOCTYPE html><html class="js no-touch geolocation svg" lang="en" style=""><!--<![endif]--><head>
 
-jsepee.parse_url = function(w,nu){
- var a = w.document.createElement("a");
- a.href = nu;
- var parsed_url = this.get_parsed_url(a);
- if (this.is_relative_url(parsed_url.literal)){
-  a.href = this.url2abs(w,nu);
- }
- parsed_url = this.get_parsed_url(a);
- return parsed_url;
-};
+	
+		
+		<title>Notice of Privacy Practices | IU Health</title>
+<meta name="description" content="This Notice of Privacy describes how IU Health may use and disclose your protected health information.">
+<meta name="keywords" content="IU Health, Hospital, medical care, physicians, highly skilled, providers, patients, Indiana">
+	
 
-jsepee.update_page_URL = function(w) {
- var this_page = this['das'][w.location.href];
- var this_URL = this_page['page']['URL'];
- this_URL['literal']= w.location.href;
- this_URL['host']= w.location.host;
- this_URL['port']= w.location.port || this['DEFAULT_PORT'];
- this_URL['protocolId']= this.protocol2id(w.location.protocol);
- this_URL['path']= w.location.pathname;
- this_URL['fileExtension']= this.get_file_extension(this_URL['path']);
- this_URL['_parameters']= this.extract_parameters_from_query_string(w.location.search);
- return this;
-};
-
-jsepee.update_page_referrer = function(w) {
- var r = this.parse_url(w,w.document.referrer);
- var this_page = this['das'][w.location.href];
- var this_referrer = this_page['page']['referrer'];
- this_referrer['literal'] = r['literal'];
- this_referrer['host'] = r['host'];
- this_referrer['port'] = r['port'] || this['DEFAULT_PORT'];
- this_referrer['protocolId'] = r['protocolId'];
- this_referrer['path'] = r['path'];
- this_referrer['fileExtension'] = r['fileExtension']; 
- this_referrer['parameters'] = r['parameters']; 
-
- return this;
-};
-
-jsepee.update_page_characterEncoding = function(w) {
- var ce = w.document.characterSet;
- if (!w.document.characterSet) {
-  ce=w.document.charset;
-  if (!w.document.charset) {
-   ce = w.document.defaultCharset;
-  }
- }
- if (!ce) {
-  ce = "JSEPEE could not identify character encoding";
- }
- var this_page = this['das'][w.location.href];
- this_page.page.characterEncoding = ce;
- return this;
-};
-
-jsepee.is_cookie_enabled = function(w) {
- if (typeof w.document.cookie == "string"){
-  if (w.document.cookie.length != 0){
-   return true;
-  }
-  w.document.cookie = 'test';
-  var is_cookie_enabled = w.document.cookie == 'test';
-  w.document.cookie = "";
-  return is_cookie_enabled;
- }
- return false;
-};
-
-jsepee.extract_cookies = function(w) {
- var my_cookies = w.document.cookie || window.document.cookie || document.cookie;
- var cookies = [];
- var chunk = my_cookies.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);var cookie_name=pair[0];var cookie_value=pair.slice(1,pair.length).join('');cookies.push({name:cookie_name,value:cookie_value});}
-return cookies;};jsepee.update_page_cookies=function(w){if(this.is_cookie_enabled(w)===false){return this;}
-var this_page=this['das'][w.location.href];this_page.page.cookie=this.extract_cookies(w);return this;};jsepee.update_page=function(w){this.update_page_URL(w).update_page_referrer(w).update_page_characterEncoding(w).update_page_cookies(w);return this;};jsepee.update_parsed_url=function(w,pu){if(!this['das'][w.location.href]['links'].hasOwnProperty(pu['literal'])){this['das'][w.location.href]['links'][pu['literal']]={'literal':pu['literal'],'methodId':this.method2id("GET"),'host':pu['host'],'port':pu['port']||this[DEFAULT_PORT],'protocolId':pu['protocolId'],'path':pu['path'],'fileExtension':pu['fileExtension'],'parameters':pu['parameters']};}
-return this;};jsepee.get_html_url_sources=function(){return{"a":["href"],"applet":["code","codebase"],"area":["href"],"bgsound":["src"],"body":["background"],"embed":["src"],"frame":["longdesc","src"],"head":["profile"],"iframe":["longdesc","src"],"img":["longdesc","src","usemap"],"input":["action","src","usemap"],"link":["href"],"object":["codebase","data","usemap"],"script":["src"],"td":["background"]};};jsepee.update_links=function(w){var link=this.get_html_url_sources();for(var t in link){if(link.hasOwnProperty(t)===false){continue;}
-var node=w.document.getElementsByTagName(t);for(var i=0;i<node.length;++i){for(var j=0;j<link[t].length;++j){var n=node[i];var url=n.getAttribute(link[t][j]);if(url){this.update_parsed_url(w,this.parse_url(w,url));}}}}
-return this;};jsepee.make_form_key=function(index,action,method){return index+"|"+action+"|"+method;};jsepee.resolve_form_action_url=function(w,indx){if(w.document.forms[indx].getAttribute('action')===undefined){return w.location.href;}
-var u=w.document.forms[indx].getAttribute('action');var parsed_url=this.parse_url(w,u);return parsed_url.literal;};jsepee.resolve_form_method=function(w,indx){return w.document.forms[indx].getAttribute('method')?w.document.forms[indx].getAttribute("method").toUpperCase():"GET";};jsepee.parameter_type_enumeration={"time":0,"button":1,"checkbox":2,"file":3,"hidden":4,"image":5,"password":6,"radio":7,"submit":8,"text":9,"textarea":10,"option":11,"select":11,"select-multiple":11,"select-one":11,"range":12,"color":13,"search":14,"month":15,"url":16,"week":17,"datetime":18,"reset":19,"email":20,"number":21,"datetime-local":22,"date":23};jsepee.parameter_type2id=function(pt){if(this.parameter_type_enumeration.hasOwnProperty(pt)){return this.parameter_type_enumeration[pt];}
-return this.ILLEGAL_VALUE;};jsepee.make_parameter_key=function(parameter_name,parameter_type_id){return parameter_name+"|"+parameter_type_id;};jsepee.update_form_parameters=function(page_form,das_form){for(var i=0;i<page_form.elements.length;++i){var e=page_form.elements[i];var pname=e.name;if(pname===undefined){pname='';}
-var p={'name':pname,'type':e.type,'typeId':this.parameter_type2id(e.type.toLowerCase()),'value':{}};var pvalue='IF YOU SEE THIS VALUE THEN YOU HAVE A JSEPEE BUG';if(e.tagName=="INPUT"||e.tagName=="TEXTAREA"){pvalue=e.value;if(pvalue===undefined){pvalue='';}
-p.value[pvalue]=pvalue;}else{for(var j=0;j<e.options.length;++j){pvalue=e.options[j].value;if(pvalue===undefined){pvalue="";}
-p.value[pvalue]={pvalue:pvalue};}}
-var parameter_key=this.make_parameter_key(p['name'],p['typeId']);p.parameter_key=parameter_key;if(!das_form['parameters'].hasOwnProperty(parameter_key)){das_form['parameters'][parameter_key]=p;}else{for(var v in p['value']){if(!p['value'].hasOwnProperty(v)){continue;}
-das_form['parameters'][parameter_key]['value'][v]={v:v};}}}};jsepee.method_enumeration={"GET":1,"POST":2,"OPTIONS":3,"HEAD":4,"PUT":5,"DELETE":6,"TRACE":7,"CONNECT":8,"PROPPATCH":9,"ACL":10,"PROPFIND":11,"COPY":12,"MOVE":13,"LOCK":14,"MKCOL":15,"UNLOCK":16,"CHECKOUT":17,"CHECKIN":18,"REPORT":19,"VERSION_CONTROL":20,"MERGE":21};jsepee.method2id=function(http_method){if(this.method_enumeration.hasOwnProperty(http_method)){return this.method_enumeration[http_method];}
-return ILLEGAL_VALUE;};jsepee.update_forms=function(w){var f=this['das'][w.location.href]['forms'];for(var i=0;i<w.document.forms.length;++i){var action=this.parse_url(w,this.resolve_form_action_url(w,i));var method=this.resolve_form_method(w,i);var methodId=this.method2id(method);action['methodId']=methodId;var form_key=this.make_form_key(i,action['literal'],method);if(!f.hasOwnProperty(form_key)){f[form_key]={'methodId':methodId,'action':action,'parameters':{},'form_key':form_key};}
-this.update_form_parameters(w.document.forms[i],f[form_key]);}
-return this;};jsepee.traverse=function(w){this.update_links(w).update_forms(w);return this;};jsepee.implant_human_user_activity_indicator_event_listeners=function(w){var that=this;this.log_mousemove_event=function(e){that.das[w.location.href].cshui=jsepee['CSHUI_COOKIE_VALUE_TRUE'];that.update_cshui_cookie(w);if(that['CSHUI_MONITOR_MOUSE']){if(w.document.removeEventListener){w.document.removeEventListener('mousemove',that.log_mousemove_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'mousemove',that.log_mousemove_event);}else{w['on'+'mousemove']=null;}}
-if(that['CSHUI_MONITOR_KEYBOARD']){if(w.document.removeEventListener){w.document.removeEventListener('keypress',that.log_keyboard_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'keypress',that.log_keyboard_event);}else{w['on'+'keypress']=null;}}
-return;};this.log_keyboard_event=function(e){if(that.das[w.location.href].cshui==that['CSHUI_COOKIE_VALUE_TRUE']){return;}
-that['CSHUI_KEYBOARD_EVENTS_COUNTER']++;if(that['CSHUI_KEYBOARD_EVENTS_TARGET']<=that['CSHUI_KEYBOARD_EVENTS_COUNTER']){that.das[w.location.href].cshui=jsepee['CSHUI_COOKIE_VALUE_TRUE'];that.update_cshui_cookie(w);if(that['CSHUI_MONITOR_MOUSE']){if(w.document.removeEventListener){w.document.removeEventListener('mousemove',that.log_mousemove_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'mousemove',that.log_mousemove_event);}else{w['on'+'mousemove']=null;}}
-if(that['CSHUI_MONITOR_KEYBOARD']){if(w.document.removeEventListener){w.document.removeEventListener('keypress',that.log_keyboard_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'keypress',that.log_keyboard_event);}else{w['on'+'keypress']=null;}}}};if(this['CSHUI_MONITOR_MOUSE']){if(w.document.addEventListener){w.document.addEventListener('mousemove',this.log_mousemove_event,false);}else if(w.document.attachEvent){w.document.attachEvent("on"+'mousemove',this.log_mousemove_event);}else{w['on'+'mousemove']=this.log_mousemove_event;}}
-if(this['CSHUI_MONITOR_KEYBOARD']){if(w.document.addEventListener){w.document.addEventListener('keypress',this.log_keyboard_event,false);}else if(w.document.attachEvent){w.document.attachEvent("on"+'keypress',this.log_keyboard_event);}else{w['on'+'keypress']=this.log_keyboard_event;}}
-return this;};jsepee.load_factory=function(w){var that=this;this.do_on_load=function(){if(that['CSHUI_RANDOM_DATA_NODE']!==undefined&&that['CSHUI_RANDOM_DATA_NODE']!==null){that.implant_human_user_activity_indicator_event_listeners(w);}
-that.update_page(w).traverse(w);return that;};return this.do_on_load();};jsepee.getHTTPObject=function(w){var xhr=false;if(window.XMLHttpRequest){xhr=new XMLHttpRequest();}else if(window.ActiveXObject){try{xhr=new ActiveXObject("Msxml2.XMLHTTP");}catch(e){try{xhr=new ActiveXObject("Microsoft.XMLHTTP");}catch(e){xhr=false;}}}
-return xhr;};jsepee.parseResponse=function(request){if(request.readyState==4){if(request.status==200||request.status==304){}else{}}
-return this;};jsepee.get_base_url=function(w){var baseurl='';if(w.document.getElementsByTagName){var e=w.document.getElementsByTagName('base');if(e.length){baseurl=e[0].href;if(/^\w+:/.test(baseurl)===false){baseurl='';}}}else{baseurl=w.location.protocol+':'+w.location.host;if(w.location.port){baseurl+=':'+w.location.port;}else{baseurl+=':80';}
-baseurl+='/';}
-return baseurl;};jsepee.url2abs=function(w,rel){if(this.is_relative_url(rel)){return this.get_base_url(w)+rel;}
-return rel;};jsepee.is_jsepee_code_reference_url=function(u){return u.parameters.length==1&&u.parameters[0].name.length==32&&u.parameters[0].value.length==0;};jsepee.set_cookie=function(w,cookie_name,cookie_value){var new_cookie=cookie_name+'='+encodeURIComponent(cookie_value)+";path=/";if(w.document.cookie!==undefined){w.document.cookie=new_cookie;}else if(window.document.cookie!==undefined){window.document.cookie=new_cookie;}else{document.cookie=new_cookie;}
-return this;};jsepee.update_cshui_cookie=function(w){this.set_cookie(w,this['CSHUI_COOKIE_NAME'],this.das[w.location.href].cshui);return this;};jsepee.unload_factory=function(w){var that=this;this.do_on_unload=function(){that.update_cshui_cookie(w);return that;};return this.do_on_unload;};jsepee.attach_page_load_and_unload_handler=function(w){if(w.addEventListener){w.addEventListener("load",this.load_factory(w),false);w.addEventListener("unload",this.unload_factory(w),false);}else if(w.attachEvent){w.attachEvent("onload",this.load_factory(w));w.attachEvent("onunload",this.unload_factory(w));}else{w.onload=this.load_factory(w);w.onunload=this.unload_factory(w);}
-return this;};jsepee.frame_recurse=function(w){if(this['das'].hasOwnProperty(w.location.href)){return this;}else{this['das'][w.location.href]=this.new_das_item();}
-this.attach_page_load_and_unload_handler(w);for(var i=0;i<w.frames.length;++i){try{var u=w.frames[i].location.href;}catch(e){continue;}
-if(u.indexOf("http")!=0){continue;}
-this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.frame_recurse(window);}</script>
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  	
-  
-
-  
-  
-  	
-  
-      
-	   
-	        
 	  
-	  
+    <meta property="og:title" content="IU Health">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://iuhealth.org/favicon-200.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:description" content="Named among the 'Best Hospitals in America' by US News &amp; World Report for five consecutive years, Indiana University Health is the result of a cooperative effort of three downtown Indianapolis hospitals.">
+  
+  <meta property="og:url" content="http://iuhealth.org/patients/notice-of-privacy-policy">
+  <meta property="fb:admins" content="48608709">
+  <meta property="og:site_name" content="IU Health">
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="cache-control" content="no-cache">
+<meta htttp-tquiv="pragma" content="no-cache">
+<meta http-equiv="expires" content="0">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/assets/global/stylesheets/styles.css?v=1.0.5">
+
   
 
+  <!--[if IE 8]>
+    <script src="/assets/global/js/ie/respond.js"></script>
+  <![endif]-->
+  <!--[if lt IE 9]>
+    <script src="/assets/global/js/ie/html5shiv.js"></script>
+  <![endif]-->
 
+  <div class="fit-vids-style" id="fit-vids-style" style="display: none;">­<style>.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></div><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=006621833516924365046:bvinnmenk14"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=006621833516924365046:bvinnmenk14"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20110507050725/https://ssl.google-analytics.com/ga.js"></script><script src="/assets/global/js/app.min.js"></script><style type="text/css"></style>
 
-	
-    
-    
-
-   
-    
-	
-    
-			 
-    
-    
-
-   
-    
-	
-    
- 
-       
-           
-           
-               
-          
-			      
-		      
-			 
-           
-           
-               
-          
-			      
-		      
-				 
-					 
-					 
-                          
-				  
-					 
-					 
-                          
-							
-				                
-							
-							
-		                
-				  
-				  
-					 
-					 
-                          
-				  
-					 
-					 
-                          
-							
-				                
-							
-							
-		                
-				  
-			       
-					 
-					 
-                          
-				  
-					 
-					 
-                          
-							
-				                
-							
-							
-		                
-				  
-			  
-			 
-           
-			 
-	
-<title>Clarian.org Privacy Policy - About Clarian Health</title>
-<meta name="Description" content="Clarian Health is dedicated to protecting your privacy. We have created a
-Web site privacy policy so you can be assured that any information you share
-with us via Clarian.org will remain confidential.">
-<meta name="Keywords" content="privacy, online privacy, email, clarian health, clarian.org">
-			
-			<script language="JavaScript">							
-								document.title = 'Clarian.org Privacy Policy - About Clarian Health';
-								var metas = document.getElementsByTagName('META');
-  							</script>
-
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-</head><body><a name="pageTop"></a>
-<link rel="stylesheet" type="text/css" href="/eportal/layoutTemplates/org/css/nav.css">
-<link rel="stylesheet" type="text/css" href="/eportal/layoutTemplates/org/css/base-01B.css">
-<link rel="stylesheet" type="text/css" href="/eportal/layoutTemplates/org/css/forms-01A.css">
-<link rel="stylesheet" type="text/css" href="/eportal/layoutTemplates/org/css/tabwindow.css">
-
-<script type="text/javascript" src="/eportal/layoutTemplates/org/js/prototype.js"></script>
-<script type="text/javascript" src="/eportal/layoutTemplates/org/js/effects.js"></script>
-<script type="text/javascript" src="/eportal/layoutTemplates/org/js/accordion.js"></script>
-<script type="text/javascript" src="/eportal/layoutTemplates/js/eportal.js"></script>
-<script type="text/javascript" src="/eportal/layoutTemplates/org/js/nav.js"></script>
-<script type="text/javascript" src="/eportal/layoutTemplates/org/js/banner.js"></script>
-<script type="text/javascript" src="/eportal/layoutTemplates/org/js/slideshow.js"></script>
-
-<script type="text/javascript">
-//<![CDATA[
-function clickclear(thisfield, defaulttext) {
-if (thisfield.value == defaulttext) {
-thisfield.value = "";
-}
-}
-function clickrecall(thisfield, defaulttext) {
-if (thisfield.value == "") {
-thisfield.value = defaulttext;
-}
-}
-function clickcall(thisfield,defaulttext)
-{
-if (thisfield.value == "") {
-thisfield.value = defaulttext;
-thisfield.type= 'text';
-}
-}
-function clickclearcall(thisfield,defaulttext)
-{
-if (thisfield.value == defaulttext) {
-thisfield.value = "";
-thisfield.type= 'password';
-}
-}
-//]]>
+<script>
+  "'article aside footer header nav section time'".replace(/\w+/g,function(n){document.createElement(n)})
 </script>
 
-<script type="text/javascript">
+  <script type="text/javascript" src="/js/ganalytics.js"></script>
+  <script type="text/javascript" src="https://s3.amazonaws.com/iuhealth/actions.js"></script>
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-497082-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-
-
-
-			
-				
-
-
-
-
-
-
-
-
-
-	
-	
-		
-		
-		
-		
-		
-		
- 
-		
-			
+<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
 
 	
 
+<style type="text/css">.fancybox-margin{margin-right:0px;}</style><script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
+<body style="">
+
+  <!--[if lt IE 8]>
+  <div class="alert alert_danger upgrade_browser_message">
+    <p>
+        <strong>Your browser is out of date!</strong><br>
+        This site takes advantage of new web technologies that only modern browsers have access to. Please consider upgrading your browser to <em>improve your web experience</em>. Outdated browsers are also a <em>major source of security flaws</em>. If you are using Internet Explorer 8+ you may have Compatibility Mode on. <a href="http://windows.microsoft.com/en-us/internet-explorer/use-compatibility-view#ie=ie-8" target="_blank">Learn more about Compatibility Mode</a>.<br>
+        <strong>We suggest using <a href="http://google.com/chrome" target="_blank">Google Chrome</a>, <a href="http://getfirefox.com" target="_blank">Firefox</a> or the <a href="http://microsoft.com/windows/ie/default.htm" target="_blank">latest version of Internet Explorer</a>.</strong>
+    </p>
+  </div>
+  <![endif]-->
+
+
+	<div class="wrapper">
+		  <div class="contain utility_nav">
+    <p class="health_library_cta">Get answers in our <a href="http://iuhealth.staywellsolutionsonline.com/">Health Library</a></p>
+          <div class="frequently_used_links">
+        <a class="frequently_used_links_button">Frequently Used Links</a>
+        <select class="frequently_used_links_dropdown js_jump_select">
+          <option>Select a Frequently Used Link</option>
+          <option>---</option>
+          <option value="http://iuhealth.org/patients/my-iu-health/billing-services/">Billing Services</option>
+          <option value="http://iuhealth.org/careers/">IU Health Careers</option>
+          <option value="http://iuhealth.org/giving/">Give to IU Health</option>
+          <option value="http://iuhealth.org/about-iu-health/volunteering-at-indiana-university-health/">Volunteering with IU Health</option>
+          <option value="http://iuhealth.org/patients/medical-records/">Request Your Medical Records</option>
+          <option value="http://iuhealth.org/patients/pharmacy-info/">IU Health Pharmacies</option>
+          <option>---</option>
+          <option value="http://iuhealth.org/contact/">Map and Contact Information</option>
+          <option value="http://iuhealth.org/locations/">List of Locations and Websites</option>
+        </select>
+      </div>
+      </div>
+  <header class="main_header">
+    <div class="contain">
+              
+         <table class="global_search_container">
+            <tbody><tr>
+              <td class="global_search_container_bar">
+		        <script>
+				  (function() {
+				    var cx = '006621833516924365046:bvinnmenk14';
+				    var gcse = document.createElement('script');
+				    gcse.type = 'text/javascript';
+				    gcse.async = true;
+				    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+				        '//www.google.com/cse/cse.js?cx=' + cx;
+				    var s = document.getElementsByTagName('script')[0];
+				    s.parentNode.insertBefore(gcse, s);
+				  })();
+				</script>
+				<gcse:searchbox-only resultsurl="/search/?location=global"></gcse:searchbox-only>
+              </td>
+			  <td class="global_search_container_print">
+                <a onclick="javascript:window.print();return false;" title="Print this page">
+                  <img src="/assets/global/images/icon_print.svg" alt="Print this page">
+                </a>
+              </td>
+            </tr>
+          </tbody></table>
+            <a href="/" class="logo js_logo" title="Indiana University Health">
+                  <img src="/assets/global/images/logo.svg" alt="Indiana University Health">
+              </a>
+    </div>
+  </header>
+      <nav class="main_navigation is-mobile is-my-iuhealth">
+      <div class="contain">
+        <a class="main_navigation_search_icon js_toggle_main_navigation_search" href="#">Search</a>
+        <a class="toggle_main_navigation_menu js_toggle_main_navigation_menu" href="#" style="display: block;">Menu</a>
+      </div>
+      <div class="main_navigation_search js_main_navigation_search">
+        <div class="contain">
+          <table class="global_search_container">
+            <tbody><tr>
+              <td class="global_search_container_bar">
+            <script>
+          (function() {
+            var cx = '006621833516924365046:bvinnmenk14';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                '//www.google.com/cse/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+          })();
+        </script>
+        <gcse:searchbox-only resultsurl="/search/?location=global"></gcse:searchbox-only>
+              </td>
+            </tr>
+          </tbody></table>
+        </div>
+      </div>
+      <ul class="main_navigation_menu js_main_navigation_menu" style="display: none;">
+        <li><a href="/">Home</a></li>
+        <li><a href="/find-a-doctor">Find a Doctor</a></li>
+        <li><div class="main_navigation_menu_expand js_main_navigation_menu_expand">+</div><a href="/medical-services" class="parent">Conditions &amp; Treatments</a>
+          <ul>
+            <li><a href="/allergy-asthma">Allergy &amp; Asthma</a></li>
+            <li><a href="/arthritis-care/">Arthritis &amp; Rheumatology</a></li>
+            <li><a href="/bariatrics/">Bariatric &amp; Medical Weight Loss</a></li>
+            <li><a href="/behavioral-health/">Behavioral Health</a></li>
+            <li><a href="/cancer/">Cancer</a></li>
+            <li><a href="/dermatology/">Dermatology</a></li>
+            <li><a href="/diabetes-endocrinology/">Diabetes &amp; Endocrinology</a></li>
+            <li><a href="/ear-nose-throat/">Ear, Nose &amp; Throat</a></li>
+            <li><a href="/emergency/">Emergency Medicine</a></li>
+            <li><a href="/gastroenterology/">Gastroenterology</a></li>
+            <li><a href="/geriatrics/">Geriatrics</a></li>
+            <li><a href="/heart-cardiovascular/">Heart and Vascular Care</a></li>
+            <li><a href="/home-care/">Home Care</a></li>
+            <li><a href="/hospice/">Hospice</a></li>
+            <li><a href="/infectious-diseases/">Infectious Diseases</a></li>
+            <li><a href="/lifeline-transport/">LifeLine</a></li>
+            <li><a href="/kidney/">Nephrology &amp; Kidney Diseases</a></li>
+            <li><a href="/neuroscience/">Neurology &amp; Neurosurgery</a></li>
+            <li><a href="/maternity/">Obstetrics &amp; Gynecology</a></li>
+            <li><a href="/occupational-services/">Occupational Health</a></li>
+            <li><a href="/ophthalmology/">Ophthalmology</a></li>
+            <li><a href="/orthopedics/">Orthopedics &amp; Sports Medicine</a></li>
+            <li><a href="/pain-management/">Pain Management</a></li>
+            <li><a href="/pediatrics/">Pediatrics</a></li>
+            <li><a href="/rehabilitation/">Physical Therapy &amp; Rehabilitation</a></li>
+            <li><a href="/primary-care/">Primary Care</a></li>
+            <li><a href="/respiratory-pulmonology/">Pulmonology &amp; Respiratory Care</a></li>
+            <li><a href="/radiology/">Radiology &amp; Imaging</a></li>
+            <li><a href="/sleep-disorders/">Sleep Disorders</a></li>
+            <li><a href="/transplant/">Transplant</a></li>
+            <li><a href="/urology/">Urology</a></li>
+            <li><a href="/womens-health/">Women’s Health</a></li>
+            <li><a href="/wound-care/">Wound Care</a></li>
+          </ul>
+        </li>
+        <li><div class="main_navigation_menu_expand js_main_navigation_menu_expand">+</div><a href="/patients" class="parent">For Patients</a>
+          <ul>
+            <li><div class="main_navigation_menu_expand js_main_navigation_menu_expand">+</div><a href="/patients/my-iu-health/billing-services/" class="parent">Billing Services</a>
+              <ul>
+                <li><a href="/patients/billing/faq">Frequently Asked Questions</a></li>
+                <li><a href="/patients/billing/insurance-plans-accepted">Most Commonly Accepted Insurance(s)</a></li>
+                <li><a href="/patients/billing/financial-assistance">Financial Assistance</a></li>
+              </ul>
+            </li>
+            <li><a href="/patients/my-iu-health/health-services/">Health Services</a></li>
+            <li><a href="/patients/clinical-studies">Clinical Trials</a></li>
+            <li><a href="/patients/my-iu-health/">My IU Health</a></li>
+            <li><a href="/patient-stories">Patient Stories</a></li>
+            <li><a href="/patients/pharmacies">Pharmacies</a></li>
+            <li><a href="/patients/medical-records">Medical Records</a></li>
+            <li><a href="/patients/the-strength-of-friends">The Strength of Friends</a></li>
+            <li><a href="/patients/international-patient">International Patient Services</a></li>
+            <li><a href="/patients/notice-of-privacy-policy/">Notice of Privacy Policy</a></li>
+          </ul>
+        </li>
+        <li><div class="main_navigation_menu_expand js_main_navigation_menu_expand">+</div><a href="/health-professionals" class="parent">For Health Professionals</a>
+          <ul>
+            <li><a href="https://www.iuhealth.net/portal/IUH/patientreferrals?paf_gear_id=4700019&amp;paf_dm=full&amp;paf_gm=content&amp;task_name=displayEmailForm">Refer a Patient</a></li>
+            <li><a href="/health-professionals/24-7-transfer/">24/7 Transfer Center</a></li>
+            <li><a href="/health-professionals/pathology-laboratory/">Pathology Laboratory</a></li>
+            <li><a href="/health-professionals/lifeline/">Lifeline</a></li>
+            <li><a href="/health-professionals/medical-staff-office/">Medical Staff Office</a></li>
+            <li><a href="/researchers/">For Researchers</a></li>
+            <li><a href="/health-professionals/practice-opportunities/">Practice Opportunities</a></li>
+            <li><a href="/sim-center/">Simulation Center</a></li>
+            <li><a href="/health-professionals/join-imacs/">Join IMACS OneCall</a></li>
+            <li><a href="/education/physician-education/continuing-medical-education/">Continuing Medical Education</a></li>
+          </ul>
+        </li>
+        <li><div class="main_navigation_menu_expand js_main_navigation_menu_expand">+</div><a href="/contact" class="parent">Contact &amp; Locations</a>
+          <ul>
+            <li><a href="/contact">Map &amp; Contact Information</a></li>
+            <li><a href="/locations">List of Locations &amp; Websites</a></li>
+            <li><a href="http://www.iuhealth.net/portal/IUH/applications?&amp;paf_dm=full&amp;task_name=WebmasterForm">Questions &amp; Feedback</a></li>
+            <li><a href="/advise">Customer Advisory Group</a></li>
+          </ul>
+        </li>
+
+    <li class="main_nav_my_iu_health_mobile">
+      <div class="main_nav_my_iu_health_mobile_arrow"></div>
+      <a href="https://myiuhealth.org">Go To My IU Health</a>
+    </li>
+      </ul>
+    </nav>
+    <nav class="main_navigation is-desktop is-my-iuhealth">
+      <div class="contain">
+        <ul class="main_navigation_menu">
+          <li class="main_nav_home">
+            <a class="one-line" href="/" title="Indiana University Health Homepage." accesskey="1">Home</a>
+          </li>
+          <li class="main_nav_find_a_doctor">
+            <a class="" href="/find-a-doctor/" title="Find a doctor or other healthcare provider." accesskey="3">Find A <br>Doctor</a>
+          </li>
+          <li class="main_nav_conditions_and_treatments has-dropdown">
+            <a class="" href="/medical-services" title="Browse clinical services we provide." accesskey="2">Conditions &amp; <br>Treatments<span>+</span></a>
+            <div class="mega-menu left">
+              <div class="mega-menu-featured-links">
+                <h4 class="light"><strong>Featured</strong> Links</h4>
+                <ul class="mega-menu-links">
+                  <li><a href="/cancer/" title="Cancer">Cancer</a></li>
+                  <li><a href="/diabetes-endocrinology/" title="Diabetes &amp; Endocrinology">Diabetes &amp; Endocrinology</a></li>
+                  <li><a href="/ear-nose-throat/" title="Ear, Nose &amp; Throat">Ear, Nose &amp; Throat</a></li>
+                  <li><a href="/gastroenterology/" title="Gastroenterology">Gastroenterology</a></li>
+                  <li><a href="/geriatrics/" title="Geriatrics">Geriatrics</a></li>
+                  <li><a href="/heart-cardiovascular/" title="Heart &amp; Vascular Care">Heart &amp; Vascular Care</a></li>
+                  <li><a href="/neuroscience/" title="Neuroscience">Neuroscience</a></li>
+                </ul>
+
+                <ul class="mega-menu-links">
+                  <li><a href="/orthopedics/" title="Orthopedics &amp; Sports Medicine">Orthopedics &amp; Sports Medicine</a></li>
+                  <li><a href="/pediatrics/" title="Pediatrics">Pediatrics</a></li>
+                  <li><a href="/primary-care/" title="Primary Care">Primary Care</a></li>
+                  <li><a href="/respiratory-pulmonology/" title="Pulmonology &amp; Respiratory Care">Pulmonology &amp; Respiratory Care</a></li>
+                  <li><a href="/transplant/" title="Transplant">Transplant</a></li>
+                  <li><a href="/urology/" title="Urology">Urology</a></li>
+                  <li><a href="/womens-health/" title="Women's Health">Women's Health</a></li>
+                </ul>
+
+                <a class="btn btn_primary" href="/medical-services/" title="View All IU Health Services">View All IU Health Services</a>
+              </div>
+              <div class="mega-menu-teaser conditions-treatments">
+                <h3 class="light">Learn more about common <strong>health concerns</strong></h3>
+                <p>Use this interactive guide to see what could <br>be causing <br>your symptoms.</p>
+                <a target="_blank" class="btn btn_primary" href="http://iuhealth.staywellsolutionsonline.com/InteractiveTools/SymptomChecker/#sc_tab1">Begin</a>
+              </div>
+            </div>
+          </li>
+          <li class="main_nav_for_patients has-dropdown">
+            <a class="active" href="/patients/" title="Access information for our patients and their families." accesskey="4">For<br>Patients<span>+</span></a>
+            <div class="mega-menu left">
+              <div class="mega-menu-teaser">
+                <p>The care we provide our patients is not limited to a hospital stay. Our IU Health team aims to provide patients with the assistance to pay bills online, fill a prescription, request medical records, enroll in clinical trials, prepare for a visit, and much more.</p>
+              </div>
+              <div class="mega-menu-featured-links">
+                <h4 class="light"><strong>Featured</strong> Links</h4>
+                <ul class="mega-menu-links">
+                  <li><a href="/patients/my-iu-health/" title="My IU Health">My IU Health</a></li>
+                  <li><a href="/patients/my-iu-health/billing-services/" title="Billing Services">Billing Services</a></li>
+                  <li><a href="/patients/my-iu-health/health-services/" title="Health Services">Health Services</a></li>
+                  <li><a href="/patients/medical-records/" title="Request Your Medical Records">Request Your Medical Records</a></li>
+                  <li><a href="/patients/clinical-studies/" title="Clinical Trials">Clinical Trials</a></li>
+                  <li><a href="/patients/pharmacies/" title="IU Health Pharmacies">IU Health Pharmacies</a></li>
+                </ul>
+                <ul class="mega-menu-links">
+                  <li><a href="https://www.iuhealth.net/portal/IUH/requestanappointment?paf_dm=full" title="Request an Appointment">Request an Appointment</a></li>
+                  <li><a href="/patient-stories/" title="Patient Stories">Patient Stories</a></li>
+                  <li><a href="/patients/the-strength-of-friends/" title="The Strength of Friends">The Strength of Friends</a></li>
+                  <li><a href="/patients/international-patient/" title="International Patient Services">International Patient Services</a></li>
+                </ul>
+              </div>
+            </div>
+          </li>
+          <li class="main_nav_for_health_professionals has-dropdown">
+            <a class="" href="/health-professionals/" title="Access information for referring physicians and healthcare providers." accesskey="5">For Health <br>Professionals<span>+</span></a>
+            <div class="mega-menu right">
+              <div class="mega-menu-teaser">
+                <p>IU Health is committed to providing support to the patients we serve, but also the physician community we work within. We aim to simplify how to refer a patient, request a transfer, review lab results, participate in education and training and find potential positions.</p>
+              </div>
+              <div class="mega-menu-featured-links">
+                <h4 class="light"><strong>Featured</strong> Links</h4>
+                <ul class="mega-menu-links">
+                  <li><a href="https://www.iuhealth.net/portal/IUH/patientreferrals?paf_gear_id=4700019&amp;paf_dm=full&amp;paf_gm=content&amp;task_name=displayEmailForm" title="Refer a Patient">Refer a Patient</a></li>
+                  <li><a href="/health-professionals/24-7-transfer/" title="24/7 Transfer Center">24/7 Transfer Center</a></li>
+                  <li><a href="/health-professionals/pathology-laboratory/" title="Pathology Laboratory">Pathology Laboratory</a></li>
+                  <li><a href="/health-professionals/lifeline/" title="LifeLine">LifeLine</a></li>
+                  <li><a href="/health-professionals/medical-staff-office/" title="Medical Staff Office">Medical Staff Office</a></li>
+                </ul>
+
+                <ul class="mega-menu-links">
+                  <li><a href="/researchers/" title="For Researchers">For Researchers</a></li>
+                  <li><a href="/health-professionals/practice-opportunities/" title="Practice Opportunities">Practice Opportunities</a></li>
+                  <li><a href="/sim-center/" title="Simulation Center">Simulation Center</a></li>
+                  <li><a href="/health-professionals/join-imacs/" title="Join IMACS OneCall">Join IMACS OneCall</a></li>
+                  <li><a href="/education/physician-education/continuing-medical-education/" title="Continuing Medical Education">Continuing Medical Education</a></li>
+                </ul>
+              </div>
+            </div>
+          </li>
+          <li class="main_nav_contact_and_locations has-dropdown">
+            <a class="" href="/contact" title="Find our locations nearest to you." accesskey="6">Contact &amp; <br>Locations<span>+</span></a>
+            <div class="mega-menu right">
+              <div class="mega-menu-teaser">
+                <p>Use our interactive map to find locations closest to you, including hospitals, outpatient centers, emergency service locations, urgent care, lab centers and more.</p>
+              </div>
+              <div class="mega-menu-featured-links">
+                <h4 class="light"><strong>Featured</strong> Links</h4>
+                <ul class="mega-menu-links">
+                  <li><a href="/contact/" title="Map &amp; Contact Information">Map &amp; Contact Information</a></li>
+                  <li><a href="/locations/" title="List of Locations &amp; Websites">List of Locations &amp; Websites</a></li>
+                </ul>
+                <ul class="mega-menu-links">
+                  <li><a href="https://www.iuhealth.net/portal/IUH/applications?&amp;paf_dm=full&amp;task_name=WebmasterForm" title="Questions &amp; Feedback">Questions &amp; Feedback</a></li>
+                  <li><a href="/advise/" title="Customer Advisory Group">Customer Advisory Group</a></li>
+                </ul>
+              </div>
+            </div>
+          </li>
+
+          <li class="main_nav_my_iu_health">
+            <a href="https://myiuhealth.org">Go To <br>My IU Health<span>&gt;</span></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  
+		<div class="main_content contain">
 			
+				<ul class="breadcrumbs">
+					<li><a href="/">Home</a></li>
+					<li><a href="/patients/">patients</a></li>
+					<li>Notice of Privacy Practices</li>
+				</ul>
 
+				<h1>Notice of Privacy Practices</h1>
 
-<div id="header" style="border-top: 1px solid #b7083a;">
-	<div class="siteContainer">
-	<a href="/portal/Clarian/home"><img src="/eportal/layoutTemplates/org/img/logo_clarianhealth.gif" alt="Clarian Health" width="198" height="37" class="logo"></a>
-		<div class="headerRightCol">
-			<div class="headerSecNav">
-				<div class="headerSecNavTop"><div></div></div>
-				<div class="headerSecNavMid">
-					<ul>
-						<li><a href="/portal/Clarian/about-clarian-health">About</a></li>
-						<li><a href="/portal/Clarian/contact">Contact</a></li>
-						<li><a href="/portal/Clarian/clarian-careers">Careers</a></li>
-						<li class="employees"><a href="https://pulse.clarian.org/clarian/layoutTemplates/html/access/outside_Loginform.jsp">Employees</a></li>
-					</ul>
+				<div class="content">
+					
+					
+					
+												<h2>IU Health Privacy Practices</h2>
+
+<h2>Effective Date – July 1, 2013</h2>
+
+<p><strong>Notice of Privacy Practices</strong></p>
+
+<p>This Notice describes how “protected health information” about you may be used and disclosed, and how you can gain access to this information. Please review it carefully.</p>
+
+<p>“Protected health information” is your health information or other individually identifiable information, such as demographic data, that may identify you. Protected health information relates to your past, present or future physical or mental health or condition related to healthcare services.</p>
+
+<p>This Notice of Privacy Practices describes how Indiana University Health may use and disclose your protected health information to carry out treatment, for payment, for healthcare operations and for other purposes permitted or required by law. This Notice also describes certain rights that you may have to access your protected health information. IU Health is required to abide by the terms of this Notice of</p>
+
+<p><strong>Privacy Practices</strong></p>
+
+<p>The terms of this Notice may change at any time. The new Notice will apply to all protected health information acquired after it goes into effect. Upon your request, we will provide you with any historical Notice of Privacy Practices or you may obtain the most current copy by visiting the IU Health website at iuhealth.org.</p>
+
+<p><strong>Uses and Disclosures of Protected Health Information That Do Not Require Your Authorization</strong></p>
+
+<p>Your protected health information may be used and disclosed by IU Health, our staff and others outside of our offices who are involved in your care and treatment for the purpose of providing healthcare services to you. Your protected health information may also be used and disclosed to pay your healthcare bills and to support the operations of IU Health. The following list, by way of example rather than limitation, explains certain uses and disclosures of your protected health information that IU Health is permitted to make.&nbsp;</p>
+
+<p><strong>Treatment</strong></p>
+
+<p>IU Health will use and disclose your protected health information to provide, coordinate or manage your healthcare and any related services. This includes the coordination or management of your healthcare with another provider. For example, IU Health may disclose your protected health information, as minimally necessary, to a home health agency that provides care to you.</p>
+
+<p>IU Health will also disclose health information to physicians or other healthcare providers who may be treating you. For example, your protected health information may be provided to a physician to whom you have been referred to ensure that the physician has the necessary information to diagnose or treat you.</p>
+
+<p>In addition, we may disclose your protected health information from time-to-time to another physician or healthcare provider (e.g., specialist or laboratory) who, at the request of your physician becomes involved in your care by providing assistance with your healthcare diagnosis or treatment. As another example, a doctor treating you for a broken leg may need to know if you have diabetes because diabetes may slow the healing process.</p>
+
+<p>IU Health participates in certain Health Information Exchanges or Organizations (HIEs or HIOs). Specifically, IU Health participates in the Indiana Health Information Exchange (IHIE) and Indiana Network for Patient Care (INPC), which help to make your protected health information available to other healthcare providers who may need access to it in order to provide care or treatment to you.</p>
+
+<p><strong>Payment</strong></p>
+
+<p>IU Health may use and disclose your protected health information as necessary to obtain payment for healthcare services. This may include providing it to your health insurance plan before it approves or pays for recommended healthcare services so that it may make a determination of eligibility or coverage for insurance benefits. It may also include supplying the information to review services provided to you for medical necessity and to undertake utilization-review activities. For example, obtaining approval for a hospital stay may require that your relevant protected health information be disclosed to the health insurance plan to obtain prior plan approval.<br>
+&nbsp;</p>
+
+<p><strong>Healthcare Operations</strong></p>
+
+<p>IU Health may use or disclose your protected health information<br>
+in order to support our business activities. These activities include, but are not limited to, quality assessment activities, employee review activities, training of medical students, licensing and conducting or arranging for other business activities. IU Health may share your protected health information with “business associates,” or third-party organizations which perform services such as billing or transcription services on behalf of IU Health. IU Health has written contracts with our business associates to protect the privacy of your protected health information, and business associates are also required by law to comply with the same privacy and security requirements that apply to IU Health.</p>
+
+<p>IU Health may use and disclose your protected health information to tell you about appointments and other matters related to your care. We may contact you by mail, telephone or e-mail. We may leave voice messages at the telephone number you provide to us, and we may respond to your e-mails.</p>
+
+<p>IU Health may use and disclose medical information to tell you about possible treatment options, new services or alternatives that may be relevant to your healthcare.</p>
+
+<p><strong>Fundraising Activities</strong></p>
+
+<p>IU Health may use protected health information to contact you in an effort to raise money for its operations. It may disclose protected health information to a foundation related to IU Health so that it may raise money to support IU Health. You may contact the IU Office of Philanthropy and request, in writing or by phone, not to be contacted for this purpose.</p>
+
+<p><strong>Hospital Directory</strong></p>
+
+<p>IU Health may include limited information about you in the hospital directory while you are a patient. This information may include your name, location in the hospital and your general condition (e.g., fair or stable). This directory information may be released to people who ask for you by name so that they may generally know how you are doing. If you do not want this information shared, please let us know. Also, your religious affiliation may be given to a member of the clergy even if they do not ask for you by name.</p>
+
+<p><strong>Individuals Involved in Your Care or Payment for Your Care</strong></p>
+
+<p>Unless you indicate otherwise, IU Health may disclose to a relative, a close friend or any other person you identify, the portion of your protected health information which directly relates to that person’s involvement in your healthcare. If you are unable to agree or object to such a disclosure, we may disclose such information as necessary for your healthcare, if, based on our professional judgment, we determine that it is in your best interest. We may disclose protected health information to notify or assist in notifying a family member or personal representative (or any other person who is responsible for your care) of your location, general condition or death. Finally, we may use or disclose your protected health information to an authorized public or private entity to assist in disaster-relief efforts.</p>
+
+<p><strong>Research</strong></p>
+
+<p>IU Health performs medical research. IU Health may disclose your protected health information to researchers when their research has been approved by an institutional review board that has reviewed the research proposal and established protocols to ensure, among other things, the privacy of your protected health information. IU Health may release information about you to researchers who need to know how many patients have a specific health issue in preparation for proposed research. If a doctor caring for you believes you may be interested in, or may benefit from, a research study, your physician and the research review committee will designate someone to contact you. This individual will see if you are interested in the study, provide you with more information and give you the opportunity to participate or to decline further contact.</p>
+
+<p><strong>To Avert a Serious Threat to Health or Safety</strong></p>
+
+<p>IU Health may use and disclose protected health information about you when necessary to prevent a serious threat to your health and safety, or the health and safety of another person or the public. However, any disclosure would only be to someone who is able to help prevent the threat.</p>
+
+<p><strong>Organ and Tissue Donation</strong></p>
+
+<p>IU Health may release protected health information to organizations that handle organ procurement or organ, eye or tissue transplantation, or to an organ-donation bank as necessary to facilitate organ or tissue donation and transplantation.&nbsp;</p>
+
+<p><strong>Workers’ Compensation</strong></p>
+
+<p>IU Health may release protected health information about you for workers’ compensation or similar programs. These programs provide benefits for work-related injuries or illnesses.</p>
+
+<p><strong>Public Health Risks and Patient Safety Issues</strong></p>
+
+<p>IU Health may disclose protected health information about you for public health activities and purposes to a public health authority that is permitted by law to receive the information. For example, disclosures may be made for the purposes of preventing or controlling disease, injury or disability; to report births and deaths; to report reactions to medications or problems with products; and to notify people of recalls of products that they may be using.</p>
+
+<p><strong>Communicable Diseases</strong></p>
+
+<p>IU Health may disclose or use your protected health information to notify a person who may have been exposed to a disease or may be at risk for contracting or spreading a disease or condition; and to comply with state-mandatory disease reporting, such as cancer registries.</p>
+
+<p><strong>Abuse or Neglect</strong></p>
+
+<p>IU Health may disclose your protected health information to a public health authority authorized by law to receive reports of child abuse or neglect, and to notify the appropriate government authority if IU Health believes a patient has been the victim of abuse, neglect or domestic violence. We will only make this disclosure when required or authorized by law.</p>
+
+<p><strong>Health Oversight Activities</strong></p>
+
+<p>IU Health may disclose protected health information to a health oversight agency for activities authorized by law, such as audits, investigations, inspections and licensure. These activities are necessary for the government to monitor the healthcare system, government benefit programs and compliance with civil-rights laws.</p>
+
+<p><strong>Food and Drug Administration (FDA)</strong></p>
+
+<p>IU Health may disclose your protected health information to a person or company required by the Food and Drug Administration for the purpose of quality, safety or effectiveness of FDA-regulated products or activities, which include: to report adverse events, product defects or problems, biologic product deviations; to track products; to enable product recalls; to make repairs or replacements; or to conduct post-marketing surveillance, as required.</p>
+
+<p><strong>Legal Proceedings</strong></p>
+
+<p>IU Health may disclose protected health information in the course of any judicial or administrative proceeding, in response to an order of a court or administrative tribunal (to the extent such disclosure is expressly authorized) or in certain conditions in response to a subpoena, discovery request or other lawful process.</p>
+
+<p><strong>Law Enforcement</strong></p>
+
+<p>IU Health may disclose protected health information for certain law-enforcement purposes, such as: in response to a court order, subpoena, warrant, summons or similar process; to identify or locate a suspect, fugitive, material witness or missing person; about the victim of a crime, if under certain limited circumstances, we are unable to obtain the person’s agreement; about a death we believe may be the result of criminal conduct; about criminal conduct at the hospital; and, in emergency circumstances, to report a crime, the location of the crime or victims, or the identity, description or location of the person who committed the crime.</p>
+
+<p><strong>Coroners, Medical Examiners and Funeral Directors</strong></p>
+
+<p>IU Health may release protected health information to a coroner or medical examiner, for example, to identify a deceased person or determine the cause of death. We may also release protected health information about patients of the hospital to funeral directors as necessary to carry out their duties.</p>
+
+<p><strong>Military Activity and National Security</strong></p>
+
+<p>IU Health may use or disclose the protected health information of individuals who are Armed Forces personnel for activities deemed necessary by appropriate military-command authorities, for the purpose of a determination by the Department of Veterans Affairs of your eligibility for benefits or to foreign military authority if you are a member of that foreign military service. We may also disclose your protected health information to authorized federal officials for conducting national security and intelligence activities, including for the provision of protective services to the president or others legally authorized.</p>
+
+<p><strong>Inmates</strong></p>
+
+<p>If you are an inmate of a correctional institution or under the custody of a law enforcement official, IU Health may release protected health information about you to the correctional institution or law enforcement official. This release would be necessary for the institution to provide you with healthcare, to protect your health and safety or the health and safety of others, or for the safety and security of the correctional institution.</p>
+
+<p><strong>Uses and Disclosures of Protected Health Information That Do Require Your Authorization</strong></p>
+
+<p>As described above, IU Health will use your protected health information and disclose it outside of IU Health for treatment, payment, healthcare operations and when permitted or required by law. IU Health will not disclose or sell your protected health information for marketing purposes. In addition, certain disclosures of your psychotherapy notes, mental health records, and drug and alcohol abuse treatment records may require your prior written authorization.</p>
+
+<h2><strong>Your Rights Regarding Your Protected Health Information</strong></h2>
+
+<p><strong>Right to Inspect and Copy</strong></p>
+
+<p>You have the right to inspect and obtain an electronic or paper copy of your protected health information that may be used to make decisions about your care. This includes medical and billing records, but does not include psychotherapy notes. To inspect and obtain a copy of your protected health information, you must submit your request in writing to the IU Health Health Information Management department. If you request a copy of the information, IU Health may charge a fee for the cost of copying, mailing or other supplies associated with your request.</p>
+
+<p>IU Health may deny your request to inspect and copy in some limited circumstances. If you are denied access to protected health information, you may request that the denial be reviewed. Another licensed healthcare professional chosen by IU Health will review your request and the denial. The person conducting the review will not be the person who denied your request. We will comply with the outcome of the review. &nbsp;</p>
+
+<p><strong>Right to Amend</strong></p>
+
+<p>You have a right to request an amendment of the health information that IU Health has in our records. Your request for an amendment must be made in writing, including a reason for the request and submitted to the IU Health Risk Management department. IU Health may deny a request for an amendment if it is not in writing and does not include a reason to support the request or requests for amendment of information that: was not created by IU Health; is not part of the protected health information kept by IU Health; is not part of the information which you would be permitted to inspect and copy; or is accurate and complete.</p>
+
+<p><strong>Right to Receive Notification</strong></p>
+
+<p>Individuals will receive notifications of his or her unsecured protected health information that is breached.</p>
+
+<p><strong>Right to an Accounting of Disclosures</strong></p>
+
+<p>You have the right to request an accounting of disclosures. This is a list of disclosures IU Health has made of your protected health information, excluding disclosures for treatment, payment, healthcare operations or disclosures you authorized in writing. To request an accounting of disclosures, submit your request in writing and include the specific time period (which may not be longer than six years and may not include dates before April 14, 2003) to the IU Health Health Information Management department.</p>
+
+<p>The first accounting of disclosure in a 12-month period is free. Additional accounting of disclosures may cost a fee; you will be notified in advance of any cost involved so that you may choose to withdraw or modify your request before incurring a cost.</p>
+
+<p><strong>Right to Request Restrictions</strong></p>
+
+<p>You have the right to request a restriction on the ways your protected health information is used or disclosed. To request a restriction, submit your request in writing to the IU Health Risk Management department. The request should include what information you want to limit, whether you want to limit use or disclosure, or both, and to whom you want the limits to apply—for example, disclosures to your spouse. IU Health is not required to agree to your request. If we do agree, we will comply with your restriction unless the information is needed<br>
+to provide emergency medical treatment.</p>
+
+<p>IU Health will agree to restrict disclosures of your health information to your health insurance plan for payment and healthcare operations purposes (not for treatment) if the disclosure pertains solely to a healthcare item or service for which you paid in full.</p>
+
+<p><strong>Right to Request Confidential Communication</strong></p>
+
+<p>You have the right to request that IU Health communicate with you about healthcare matters in a certain way or at a certain location. For example, you can request that you are only contacted at work or at a specific address. Such requests should be made in writing to the IU Health Risk Management department and should specify how or where you wish to be contacted. IU Health will accommodate all reasonable requests.</p>
+
+<p><strong>Right to a Paper Copy of This Notice</strong></p>
+
+<p>You have the right to a paper copy of this Notice of Privacy Practices, even if you have agreed to receive this Notice electronically. You may also find a copy of this Notice on the<br>
+IU Health website, iuhealth.org.</p>
+
+<p><strong>Other Uses of Protected Health Information</strong></p>
+
+<p>Other uses and disclosures of your protected health information not covered by this Notice or allowed by law will be made only with your written permission. If you provide permission to use or disclose protected health information, you may revoke that permission, in writing, at any time. If you revoke your permission, IU Health will no longer use or disclose protected health information about you for the reasons covered by your written authorization. IU Health is unable to take back any disclosures it may have already made with your permission.</p>
+
+<p><strong>Changes to This Privacy Notice</strong></p>
+
+<p>IU Health reserves the right to change this Notice and to make the revised or changed Notice effective for protected health information we already have about you, as well as any information we receive in the future. The revised Notice of Privacy Practices will be posted on our website at iuhealth.org; you may also request that a revised copy be sent to you in the mail or obtain one at the time of an appointment at IU Health.</p>
+
+<p><strong>Questions or Complaints</strong></p>
+
+<p>If you believe IU Health has violated your privacy rights, you may file a complaint with IU Health or with the Secretary of the Department of Health and Human Services. You will not be penalized for filing a complaint. To file a complaint with IU Health, please submit a complaint in writing to the IU Health Risk Management department.</p>
+
+<p>If you have further questions about this Notice of Privacy Practices, please contact the IU Health Hospital Privacy Officer at 317.962.3597; or the IU Health Physicians Compliance Officer and Privacy Officer at 317.948.8906.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>IU Health Health Information Management Department<br>
+<span style="line-height: 1.6em;">Release of Information</span><br>
+<span style="line-height: 1.6em;">DG 412</span><br>
+<span style="line-height: 1.6em;">1701 N. Senate Blvd.</span><br>
+<span style="line-height: 1.6em;">Indianapolis, IN 46202</span><br>
+<span style="line-height: 1.6em;">T 317.962.8670</span></p>
+
+<p>&nbsp;</p>
+
+<p>IU Health Hospital Privacy Officer<br>
+<span style="line-height: 1.6em;">Fairbanks Hall, Room 3110</span><br>
+<span style="line-height: 1.6em;">340 W. 10th St.</span><br>
+<span style="line-height: 1.6em;">Indianapolis, IN 46202</span><br>
+<span style="line-height: 1.6em;">T 317.962.3597</span></p>
+
+<p>&nbsp;</p>
+
+<p>IU Health Office of Philanthropy<br>
+<span style="line-height: 1.6em;">Fairbanks Hall, Room 2102</span><br>
+<span style="line-height: 1.6em;">340 W. 10th St.</span><br>
+<span style="line-height: 1.6em;">Indianapolis, IN 46202</span><br>
+<span style="line-height: 1.6em;">T 317.963.9796</span></p>
+
+<p>&nbsp;</p>
+
+<p>IU Health Physicians Compliance Officer and Privacy Officer<br>
+<span style="line-height: 1.6em;">6640 Intech Blvd., Suite 310</span><br>
+<span style="line-height: 1.6em;">Indianapolis, IN 46278</span><br>
+<span style="line-height: 1.6em;">T 317.948.8906</span></p>
+
+<p>&nbsp;</p>
+
+<p>IU Health Risk Management Department<br>
+<span style="line-height: 1.6em;">Fairbanks Hall, Room 3119</span><br>
+<span style="line-height: 1.6em;">340 W. 10th St.</span><br>
+<span style="line-height: 1.6em;">Indianapolis, IN 46202</span><br>
+<span style="line-height: 1.6em;">T 317.962.2130</span></p>
+
+<p>&nbsp;</p>
+
+<p>Office for Civil Rights<br>
+<span style="line-height: 1.6em;">U.S. Department of Health and Human Services</span><br>
+<span style="line-height: 1.6em;">233 N. Michigan Ave., Suite 240</span><br>
+<span style="line-height: 1.6em;">Chicago, IL 60601</span><br>
+<span style="line-height: 1.6em;">dhhs.gov</span></p>
+					
 				</div>
-				<div class="cleardivs"></div>
-				<div class="headerSecNavBot"><div></div></div>
-			</div>
-
-			<div class="headerTools">
-				<div class="search">
-					
-							
-						
-							<form name="siteSearchFrm" method="get" action="/portal/Clarian/sitesearch">
-								<input type="hidden" name="paf_dm" value="full">
-								<input type="hidden" name="paf_gm" value="content">
-								<input type="hidden" name="task_name" value="doQuickSearch">
-								<div class="searchInput">
-						<div class="noDisplay"><label for="sitesearch">Site Search</label></div>
-								<input type="text" alt="Search this Web site" title="sitesearch" id="query" name="query" value="Search this Web site" onclick="clickclear(this, 'Search this Web site')" onblur="clickrecall(this,'Search this Web site')"></div>
-								<div><a href="JavaScript:if(!isFieldEmpty(document.siteSearchFrm.query)){document.siteSearchFrm.submit();}"><input type="image" src="/eportal/layoutTemplates/org/img/button_go_black.gif" alt="Submit" class="button"></a></div>
-																		
-									
-							</form>
-						
-						
-						
-						<div class="cleardivs"></div>
-					</div>
-				
-					<div id="quickLinks">
-						<ul>
-							<li><a href="#nogo"><img id="quickLinkmenu" name="quickLinkmenu" onmouseover="show_quickLinkSubMenu(event, this, '/include/quickNav/quickLinks.xml')" src="/eportal/layoutTemplates/org/img/button_quicklinks.gif" width="91" height="24" alt="Quick Links"><!--[if IE 7]><!--></a><!--<![endif]-->
- 								<!--[if lte IE 6]><table><tr><td><iframe frameborder="No" style="FILTER: chroma(color=#FFFFFF)"></iframe><![endif]-->
-								<ul id="quickLinkdropmenu" name="quickLinkdropmenu">
-									
-								</ul>
-								<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-							</li>
-						</ul>
-					</div>
-
-					</div>
-
-					<div class="cleardivs"></div>
-				</div>
-				<div class="cleardivs"></div>
-			</div>
-			<div class="cleardivs"></div>
-
-
-
-
-
-
-
-
-
-
-<div class="siteContainer">
-	<div id="mainNav">
-		<ul id="nav">		
-		
-            <li class="top"><a href="/portal/Clarian" class="top_link deep"><span>Home</span></a></li>
-			
-             <li class="top"><a id="hospitalmenu" name="hospitalmenu" href="/portal/Clarian/hospitals-locations" onmouseover="show_hospitalSubMenu(event, this, '/include/topNav/HospitalAndLocations.xml')" class="top_link"><span>Hospitals &amp;<br>Locations</span>
-				<!--[if gte IE 7]><!-->
-				</a>
-				<!--<![endif]-->
-				<!--[if lte IE 6]><table><tr><td><iframe class="iframehospitals" frameborder="No" style="FILTER: chroma(color=#FFFFFF)"></iframe><![endif]-->
-				<ul id="hospitaldropmenu" name="hospitaldropmenu" class="sub">
-				</ul>
-				<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-			</li>
-			
-            <li class="top "><a id="servicemenu" name="servicemenu" href="/portal/Clarian/medical-services" class="top_link" onmouseover="show_serviceSubMenu(event, this, '/include/topNav/ourServices.xml','servicedropmenu')"><span>Medical Services</span>
-				<!--[if gte IE 7]><!-->
-				</a>
-				<!--<![endif]-->
-				<!--[if lte IE 6]><table><tr><td><iframe class="iframeservices" frameborder="No" style="FILTER: chroma(color=#FFFFFF)"></iframe><![endif]-->
-				<ul id="servicedropmenu" name="servicedropmenu" class="sub">
-				</ul>
-				<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-			</li>
-
-			
-            <li class="top"><a id="findadoctormenu" name="findadoctormenu" href="/portal/Clarian/findadoctor?paf_gear_id=4800001&amp;paf_dm=full&amp;paf_gm=content" class="top_link deep" onmouseover="show_serviceSubMenu(event, this, '/include/topNav/FindADoctor.xml','findadoctordropmenu')"><span>Find a Doctor</span>
-			<!--[if gte IE 7]><!-->
-				</a>
-				<!--<![endif]-->
-				<!--[if lte IE 6]><table><tr><td><iframe class="iframefindadoc" frameborder="No" style="FILTER: chroma(color=#FFFFFF)"></iframe><![endif]-->
-				<ul id="findadoctordropmenu" name="findadoctordropmenu" class="sub">
-				</ul>
-				<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-			</li>
-			
-
-			
-           <li class="top"><a href="/portal/Clarian/Education" class="top_link"><span>A-Z Health<br>Library</span></a></li>
-			
-			
-			
-            <li class="top"><a href="/portal/Clarian/research-clinical-trials" class="top_link" onmouseover="show_serviceSubMenu(event, this,'/include/topNav/research-clinical-trials.xml','researchdropmenu')"><span>Research &amp;<br>Clinical Trials</span><!--[if gte IE 7]><!-->
-				</a>
-				<!--<![endif]-->
-				<!--[if lte IE 6]><table><tr><td><iframe class="iframeresearch" frameborder="No" style="FILTER: chroma(color=#FFFFFF)"></iframe><![endif]-->
-				<ul id="researchdropmenu" name="researchdropmenu" class="sub">
-				</ul>
-				<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-				</li>
-			
-            <li class="top"><a href="/portal/Clarian/ways-to-give" class="top_link deep" onmouseover="show_serviceSubMenu(event,this,'/include/topNav/WaysToGive.xml','waystogivedropmenu')"><span>Ways to Give</span><!--[if gte IE 7]><!--></a>
-				<!--<![endif]-->
-				<!--[if lte IE 6]><table><tr><td><iframe class="iframewaystogive" frameborder="No" style="FILTER: chroma(color=#FFFFFF)"></iframe><![endif]-->
-				<ul id="waystogivedropmenu" name="waystogivedropmenu" class="sub">
-				</ul>
-				<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-				</li>
-			
-            <li class="top"><a href="/portal/Clarian/education-training" class="top_link" onmouseover="show_serviceSubMenu(event,this,'/include/topNav/education-training.xml','Educationdropmenu')"><span>Education<br>&amp; Training</span><!--[if gte IE 7]><!--></a>
-				<!--<![endif]-->
-				<!--[if lte IE 6]><table><tr><td><iframe class="iframeeducation" frameborder="No" style="FILTER: chroma(color=#FFFFFF)"></iframe><![endif]-->
-				<ul id="Educationdropmenu" name="Educationdropmenu" class="sub">
-				</ul>
-				<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-				</li>
-			
-		</ul>
-	</div>
-</div>
-</div>
-
-
-
-
-
-
-
-
-	
-	
-	
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-	
-		
-			
-			
-		
-			
-			
-				
-			
-		
-			
-			
-				
-			
-		
-		
-	
-	
-		
-		
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-		
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-		
-		
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-	
-	<!-- Begin Tool Bar -->	
-	<div class="toolBar">
-		<div class="siteContainer">
-			<div class="pageTools">
-				<div class="floatLeft">
-					
-					<table cellpadding="0" cellspacing="0" border="0" width="179">
-						<tbody><tr>
-							<td width="52">
-								
-								
-									
-									
-									
-								
-									
-									
-									
-										
-									
-								
-									
-									
-									
-										
-									
-								
-									
-									
-									
-										
-									
-								
-								
-									
-									
-								
-									
-									 <a href="http://www.clarian.org/portal/Clarian/about-clarian-health;jsessionid=BMACKTRPKSJLDLAQA5PCJ0Q?printerFriendly=true&amp;param=param&amp;ContentID=/about/terms-policies/privacy.xml" onmouseover="window.status='Printer Friendly Version';return true;" onmouseout="window.status='';" style="border-bottom: 0;"><img src="/eportal/layoutTemplates/org/img/printerfriendly_wtext.gif" width="39" height="11" alt="Printer Friendly"></a> 
-								
-								
-							</td>
-							<td width="54">
-									
-										
-											
-											
-										
-											
-											
-												<form name="frmsendEmail" method="get" action="http://www.clarian.org/portal/Clarian/sitefunctions;jsessionid=BMACKTRPKSJLDLAQA5PCJ0Q" style="float: right;">
-													<input type="hidden" name="paf_gm" value="content">
-													<input type="hidden" name="paf_dm" value="full">
-													<input type="hidden" name="task_name" value="displayEmailForm">
-													<input type="hidden" name="resourceEmailTitle" value="">
-												</form>
-											
-										
-									
-								
-								<a style="margin: 0;" href="JavaScript:document.frmsendEmail.resourceEmailTitle.value=document.title;document.frmsendEmail.submit();" onmouseover="window.status='Email this Page to a Friend';return true;" onmouseout="window.status='';"><img src="/eportal/layoutTemplates/org/img/emailtoafriend_wtext.gif" width="45" height="11" alt="Email to a Friend"></a> </td>
-							<td width="72">
-									
-										<form action="https://www.clarian.org/portal/authentication/html/adminLoginForm.jsp;jsessionid=BMACKTRPKSJLDLAQA5PCJ0Q?_DARGS=/eportal/layoutTemplates/org/header_main.jsp" style="margin: 0;width:60px;" name="loginForm" method="post"><input value="UTF-8" type="hidden" name="_dyncharset"><input value="8768327195039357931" type="hidden" name="_dynSessConf">
-											<input value="false" type="hidden" name="/atg/userprofiling/ProfileFormHandler.roleRedirect"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.roleRedirect">
-											<input type="hidden" name="successURL" value="/portal/Clarian/about-clarian-health?secure=true&amp;param=param&amp;ContentID=/about/terms-policies/privacy.xml">
-											<input type="hidden" name="roleRedirect" value="false">
-											<input type="hidden" name="errorURL" value="https://www.clarian.org/portal/Clarian/registration;jsessionid=BMACKTRPKSJLDLAQA5PCJ0Q?paf_dm=full&amp;paf_gm=content&amp;task_name=registration_login">
-											<input value="/portal/Clarian/about-clarian-health?secure=true&amp;param=param&amp;ContentID=/about/terms-policies/privacy.xml" type="hidden" name="/atg/userprofiling/ProfileFormHandler.loginSuccessURL"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.loginSuccessURL">
-											<input value="https://www.clarian.org/portal/Clarian/registration;jsessionid=BMACKTRPKSJLDLAQA5PCJ0Q?paf_dm=full&amp;paf_gm=content&amp;task_name=registration_login" type="hidden" name="/atg/userprofiling/ProfileFormHandler.loginErrorURL"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.loginErrorURL">
-											<input type="image" style="border: 0px;" src="/eportal/layoutTemplates/org/img/bookmark_wtext.gif" alt="Bookmark" name="/atg/userprofiling/ProfileFormHandler.login"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.login">
-										<input value="/eportal/layoutTemplates/org/header_main.jsp" type="hidden" name="_DARGS"></form>
-									
-									
-								
-							</td>
-						</tr>
-					</tbody></table>
-					 </div>
-				<div class="floatRight"><a href="javascript:norm()"><img src="/eportal/layoutTemplates/org/img/textsize1.gif" width="13" height="15" alt="A"></a> <a href="javascript:big()"><img src="/eportal/layoutTemplates/org/img/textsize2.gif" width="14" height="15" alt="A"></a> <a href="javascript:biggest()"><img src="/eportal/layoutTemplates/org/img/textsize3.gif" width="15" height="15" alt="A"></a> <span class="raise"><img src="/eportal/layoutTemplates/org/img/text_size_title.gif" width="45" height="11" alt="Text Size"></span></div>
-			</div>
-			
-				
-					<form action="https://www.clarian.org/portal/authentication/html/adminLoginForm.jsp;jsessionid=BMACKTRPKSJLDLAQA5PCJ0Q?_DARGS=/eportal/layoutTemplates/org/header_main.jsp.1" name="loginForm" method="post"><input value="UTF-8" type="hidden" name="_dyncharset"><input value="8768327195039357931" type="hidden" name="_dynSessConf">
-						<input value="false" type="hidden" name="/atg/userprofiling/ProfileFormHandler.roleRedirect"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.roleRedirect">
-						<input type="hidden" name="successURL" value="/portal/Clarian/about-clarian-health?secure=true&amp;param=param&amp;ContentID=/about/terms-policies/privacy.xml">
-						<input type="hidden" name="roleRedirect" value="false">
-						<input type="hidden" name="errorURL" value="https://www.clarian.org/portal/Clarian/registration;jsessionid=BMACKTRPKSJLDLAQA5PCJ0Q?paf_dm=full&amp;paf_gm=content&amp;task_name=registration_login">
-						<input value="/portal/Clarian/about-clarian-health?secure=true&amp;param=param&amp;ContentID=/about/terms-policies/privacy.xml" type="hidden" name="/atg/userprofiling/ProfileFormHandler.loginSuccessURL"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.loginSuccessURL">
-						<input value="https://www.clarian.org/portal/Clarian/registration;jsessionid=BMACKTRPKSJLDLAQA5PCJ0Q?paf_dm=full&amp;paf_gm=content&amp;task_name=registration_login" type="hidden" name="/atg/userprofiling/ProfileFormHandler.loginErrorURL"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.loginErrorURL">
-						<div class="myClarianContainer">
-							<div class="myClarianContainerLftColLoggedOut">
-								<input type="image" class="myClarian" style="border: 0px;" src="/eportal/layoutTemplates/org/img/myclairan_title.gif" alt="Bookmark" name="/atg/userprofiling/ProfileFormHandler.login"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.login">
-								<p><a href="http://www.clarian.org/portal/Clarian/registration;jsessionid=BMACKTRPKSJLDLAQA5PCJ0Q?paf_dm=full&amp;paf_gm=content">Register</a> |
-								
-									
-										
-										
-										
-										<a href="/portal/Clarian/registration?paf_dm=full&amp;paf_gm=content&amp;task_name=registration_password">Password?</a>
-								</p>
-							</div>
-							<div class="myClarianContainerRtColLoggedOut">
-								<div class="loginInput">									
-									<label for="username">Email</label>									
-									<input value="" type="text" class="emailInput" alt="Email" name="login" id="login"><input value=" " type="hidden" name="_D:login">								
-									<label for="password">Password</label>
-									<input value="" type="password" class="passwordInput" alt="password" name="password" id="password"><input value=" " type="hidden" name="_D:password">
-								</div>
-								<div class="loginButton">
-									<input type="image" class="button" src="/eportal/layoutTemplates/org/img/button_login.gif" alt="Login" name="/atg/userprofiling/ProfileFormHandler.login"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.login">
-								</div>
-								<div class="cleardivs"></div>
-							</div>
-							<div class="cleardivs"></div>
-						</div>
-					<input value="/eportal/layoutTemplates/org/header_main.jsp.1" type="hidden" name="_DARGS"></form>
-				
-				
-			
-			<div class="cleardivs"></div>
-		</div>
-	</div>
-
-<!-- End Tool Bar -->
-
-
-
-
-
-
-
-
-<div class="breadcrumbs" style="margin: 0 0 20px 0;">
-	<div class="siteContainer">
-		
-		
-	
-	     <a href="/portal/Clarian/home">Home</a><span></span>
-		 
-							
-							
-							
-							
-											
-							
-							
-							
-							
-								
-								
-								
-								  
-								
-								
-											
-								
-							
-						
-                         <a href="/portal/Clarian/about-clarian-health?ContentID=/about/index.xml">About Clarian Health</a><span></span>
-						
-							
-							
-							
-							
-											
-							
-							
-							
-							
-								
-								
-								
-								  
-								
-								
-											
-								
-							
-						
-                         <a href="/portal/Clarian/about-clarian-health?ContentID=/about/terms-policies/index.xml">Terms and Conditions</a><span></span>
-						
-						
-                          
-							  
-							  
-								    
-									
-						
-							  
-							  
-								    
-									
-									       
-								           
-								           
-											  
-										      
-											   
-								           
-								           
-											  
-										      
-												 
-												 
-												 
-						                         
-												   
-												 
-												 
-						                         
-													
-										                
-													
-													 
-												   
-											   
-											   
-									
-						
-						
-						
-                         Clarian.org Privacy Policy
-						
-       	
-		
-	
-	</div>
-
-	<div class="cleardivs"></div>
-</div>
-<div class="cleardivs"></div>
-
-
-
-    
-	
-
-
-
-				
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-<!--<i18n:bundle baseName="atg.portal.templates.layouts_default" localeAttribute="userLocale" changeResponseLocale="false" />-->
-
-
-  
-  
-  	
-  
-
-  
-  
-  	
-  
-      
-	   
-	        
-	  
-	  
-  
-
-
-
-	
-	<div class="siteContainer">
-	
-
-
-
-
- 
-	<div class="bodyNarrowCol">
-		<!-- Secondary Nav Begins -->
-		
-
-
-
-
-
-
-
-
-<!-- Secondary Nav Begins -->
-		
-		
-			<div id="leftnavContainer" name="leftnavContainer">
-			
-    
-    
-
-   
-    
-	
-    
-
-
-    
-    
-
-   
-    
-	
-    
- 
-       
-           
-           
-               
-          
-			  
-          
-		      
-           
-			  
-
-			  
-         
-           
-           
-               
-          
-			  
-          
-		      
-				 
-					 
-					 
-                          
-				  
-					 
-					 
-                          
-							
-				                
-							
-							
-			                  <div class="secondaryNav">
-							
-						   
-		                
-				  
-			      
-				   	
-					
-              			 
-                  
-				   	
-					
-              			 
-						      
-                              
-							  <div class="padd">
-							  <img src="/images/left-navigation-image/leftnav_about.gif" width="287" height="50">
-							  </div>
-							  
-							  <div class="secondaryNavList">
-								<ul id="leftmainnav" name="leftmainnav">
-								
-                        
-                  
-           
-			  
-           
-			  
-
-			  
-         
-           
-           
-               
-          
-			  
-          
-		      
-           
-			  
-				   
-					 
-					 
-			           
-				  
-					 
-					 
-			           
-							
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-
-                            
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-															  
-
-							
-				   				
-								
-              						 
-						   
-				   				
-								
-              						 
-									   
-										    
-										
-							 								
-									 
-						   
-						   
-						   <li>
-						   
-								  <a href="/portal/Clarian/about-clarian-health?ContentID=/about/index.xml">About Clarian Health</a>
-						  
-						   </li>
-						   
-		                
-				  
-					 
-					 
-			           
-							
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-
-                            
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-															  
-
-							
-				   				
-								
-              						 
-						   
-				   				
-								
-              						 
-									   
-										    
-										
-							 								
-									 
-						   
-						   
-						   <li>
-						   
-								  <a href="/portal/Clarian/about-clarian-health?ContentID=/about/living-our-mission.xml">Mission, Values and Vision</a>
-						  
-						   </li>
-						   
-		                
-				  
-					 
-					 
-			           
-							
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-
-                            
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-															  
-
-							
-				   				
-								
-              						 
-						   
-				   				
-								
-              						 
-									   
-										    
-										
-							 								
-									 
-						   
-						   
-						   <li>
-						   
-								  <a href="/portal/Clarian/about-clarian-health?ContentID=/about/clinical-integration.xml">Clinical Integration</a>
-						  
-						   </li>
-						   
-		                
-				  
-					 
-					 
-			           
-							
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-
-                            
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-															  
-
-							
-				   				
-								
-              						 
-						   
-				   				
-								
-              						 
-									   
-										    
-										
-							 								
-									 
-						   
-						   
-						   <li>
-						   
-						   
-								<a href="/portal/Clarian/about-clarian-health?ContentID=/about/patient-safety/index.xml" onmouseover="leftnav_showSubMenu(event, this,'/include/right/about/patient-safety.xml','0')" class="fly">Patient Safety
-								<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
-								<ul id="SubMenuleftnav0" name="SubMenuleftnav0"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                                
-						  
-						   </li>
-						   
-		                
-				  
-					 
-					 
-			           
-							
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-
-                            
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-															  
-
-							
-				   				
-								
-              						 
-						   
-				   				
-								
-              						 
-									   
-										    
-										
-							 								
-									 
-						   
-						   
-						   <li>
-						   
-						   
-								<a href="/portal/Clarian/about-clarian-health?ContentID=/about/patient-rights-responsibilities/index.xml" onmouseover="leftnav_showSubMenu(event, this,'/include/right/about/patient-rights-responsibilities.xml','1')" class="fly">Patient Rights &amp; Responsibilities
-								<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
-								<ul id="SubMenuleftnav1" name="SubMenuleftnav1"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                                
-						  
-						   </li>
-						   
-		                
-				  
-					 
-					 
-			           
-							
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-
-                            
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-															  
-
-							
-				   				
-								
-              						 
-						   
-				   				
-								
-              						 
-									   
-										    
-										
-							 								
-									 
-						   
-						   
-						   <li>
-						   
-						   
-								<a href="/portal/Clarian/about-clarian-health?ContentID=/about/magnet-designation/index.xml" onmouseover="leftnav_showSubMenu(event, this,'/include/right/about/magnet-designation.xml','2')" class="fly">Magnet Designation
-								<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
-								<ul id="SubMenuleftnav2" name="SubMenuleftnav2"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                                
-						  
-						   </li>
-						   
-		                
-				  
-					 
-					 
-			           
-							
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-
-                            
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-															  
-
-							
-				   				
-								
-              						 
-						   
-				   				
-								
-              						 
-									   
-										    
-										
-							 								
-									 
-						   
-						   
-						   <li>
-						   
-						   
-								<a href="/portal/Clarian/about-clarian-health?ContentID=/about/community/index.xml" onmouseover="leftnav_showSubMenu(event, this,'/include/right/about/community.xml','3')" class="fly">In the Community
-								<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
-								<ul id="SubMenuleftnav3" name="SubMenuleftnav3"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                                
-						  
-						   </li>
-						   
-		                
-				  
-					 
-					 
-			           
-							
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-
-                            
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-															  
-
-							
-				   				
-								
-              						 
-						   
-				   				
-								
-              						 
-									   
-										    
-										
-							 								
-									 
-						   
-						   
-						   <li>
-						   
-								  <a href="/portal/Clarian/about-clarian-health?ContentID=/about/facts-figures/index.xml">Facts &amp; Figures</a>
-						  
-						   </li>
-						   
-		                
-				  
-					 
-					 
-			           
-							
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-
-                            
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-															  
-
-							
-				   				
-								
-              						 
-						   
-				   				
-								
-              						 
-									   
-										    
-										
-							 								
-									 
-						   
-						   
-						   <li>
-						   
-						   
-								<a href="/portal/Clarian/about-clarian-health?ContentID=/about/news-media/index.xml" onmouseover="leftnav_showSubMenu(event, this,'/include/right/about/news-media.xml','4')" class="fly">News &amp; Media
-								<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
-								<ul id="SubMenuleftnav4" name="SubMenuleftnav4"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                                
-						  
-						   </li>
-						   
-		                
-				  
-					 
-					 
-			           
-							
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-
-                            
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-															  
-
-							
-				   				
-								
-              						 
-						   
-				   				
-								
-              						 
-									   
-										    
-										
-							 								
-									 
-						   
-						   
-						   <li>
-						   
-						   
-								<a href="/portal/Clarian/about-clarian-health?ContentID=/about/vendor-relations/index.xml" onmouseover="leftnav_showSubMenu(event, this,'/include/right/about/vendor-relations.xml','5')" class="fly">Vendor Relations
-								<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
-								<ul id="SubMenuleftnav5" name="SubMenuleftnav5"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                                
-						  
-						   </li>
-						   
-		                
-				  
-					 
-					 
-			           
-							
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-
-                            
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-															  
-
-							
-				   				
-								
-              						 
-						   
-				   				
-								
-              						 
-									   
-										    
-										
-							 								
-									 
-						   
-						   
-						   <li>
-						   
-						   
-								<a href="/portal/Clarian/about-clarian-health?ContentID=/about/executives/index.xml" onmouseover="leftnav_showSubMenu(event, this,'/include/right/about/executives.xml','6')" class="fly">Clarian Health Executives
-								<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
-								<ul id="SubMenuleftnav6" name="SubMenuleftnav6"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                                
-						  
-						   </li>
-						   
-		                
-				  
-					 
-					 
-			           
-							
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-
-                            
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-															  
-
-							
-				   				
-								
-              						 
-						   
-				   				
-								
-              						 
-									   
-										    
-										
-							 								
-									 
-						   
-						   
-						   <li>
-						   
-								  <a href="/portal/Clarian/about-clarian-health?ContentID=/about/board-of-directors.xml">Board of Directors</a>
-						  
-						   </li>
-						   
-		                
-				  
-					 
-					 
-			           
-							
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-
-                            
-							 
-							 
-							   
-		                    
-							 
-							 
-							   
-									
-									 
-								
-							   
-		                    
-															  
-
-							
-				   				
-								
-              						 
-						   
-				   				
-								
-              						 
-									   
-										    
-										
-							 								
-									 
-						   
-						   
-						   <li>
-						   
-								  <a href="/portal/Clarian/about-clarian-health?ContentID=/about/frequently-asked-questions.xml">FAQs</a>
-						  
-						   </li>
-						   
-		                
-				  
-		 
-				
-			  
-
-			  
-         
-           
-           
-               
-          
-			  
-          
-		      
-           
-			  
-
-			  
-					 </ul>
-							</div>
-						<div class="cleardivs"></div>
-						</div>
-			 
-         
-	  
-
-
-
-			</div>
-			
-
-		<!-- Secondary Nav Ends -->
-
-		<!-- Secondary Nav Ends -->
-		<!-- Accordion Begins -->
-		
-	<div class="accordion_container"><div class="accordion_container_top"><div></div></div>
-			<div class="padd">
-			<div id="vertical_container">
-		
-
-
-
-  
-  <script type="text/javascript">
-//<![CDATA[
-                        
-Event.observe(window, 'load', loadAccordions, false);
-
-        function loadAccordions() {
-       
-        
-        var bottomAccordion = new accordion('vertical_container');
-        
-        var nestedVerticalAccordion = new accordion('vertical_nested_container', {
-          classNames : {
-                        toggle : 'vertical_accordion_toggle',
-                        toggleActive : 'vertical_accordion_toggle_active',
-                        content : 'vertical_accordion_content'
-                }
-        });
-        
-        bottomAccordion.activate($$('#vertical_container .accordion_toggle')[0]);
-                
-        }
-        
-//]]>
-</script>
-	  
-          
-            
-      
-    
-
-     
-		
-			
-				
-				
-				
-				
-
-				
-				
-			
-				
-				
-				
-				
-
-				
-					
-						
-						
-									
-
-   
-	
-	   
-		
-		<h1 class="accordion_toggle">Clarian on Twitter</h1>
-		    
-	          
-		
-	        
-	   
-	
-	
-    
-
-
-							
-							
-								<div class="accordion_content">
-		
-
-
-
-
-
-
- 
-
-
-	
-	   
-  
-			
-			
-			
-		  	
-			
-			
-						
-  
-			
-			
-			
-		  	
-			
-			
-			
-				
-
-
-
-
-
-
-
-
-
-	
-
-
-	
-
-<table cellpadding="0" cellspacing="0" border="0" class="displayContentWrap">
-			<tbody><tr>
-				<td>
-
-	
-	
-	
-	
-	
-
-   
-    <copy xmlns:java="http://xml.apache.org/xslt/java">
-            
-<div class="padd">
-                
-<script src="http://twitterjs.googlecode.com/svn/trunk/src/twitter.min.js" type="text/javascript"></script>
-
-<p>
-                    
-<strong>OUR TWEETS</strong>
-                
-</p>
-
-
-<div id="tweet">
-
-<p>
-                        
-<strong>Please wait while our tweets load...</strong>
-                    
-</p>
-
-
-<p>
-                        
-<a href="http://twitter.com/clarian_health">If you can't wait, check out what we've been twittering</a>
-                    
-</p>
-
-</div>
-
-
-<p>
-                    
-<a href="http://twitter.com/clarian_health">Follow us on Twitter</a>
-                
-</p>
-
-
-<script charset="utf-8" type="text/javascript">
-									getTwitters('tweet', { 
-									  id: '64800805', 
-									  count: 4, 
-									  enableLinks: true, 
-									  ignoreReplies: true, 
-									  clearContents: true,
-									  template: '"%text%" <a href="http://twitter.com/statuses/user_timeline/64800805.rss">%time%</a>'
-									});
-									</script>
-            
-</div>
-        
-</copy>
-
-</td>
-			</tr>
-		</tbody></table>
-<!-- XMLTransform -->
-<!-- End Main Content -->
-
-
-
-
-						
- 
-
-	
-
-			<div id="vertical_nested_container"></div>
-			<div id="horizontal_container"></div>
-		</div>
-							
-							
-
-						
-							
-				
-				
-				
-		
-		
-       	
-    
-  
-
-
-	</div>
-	</div>
-				<div class="accordion_container_bot"><div></div></div>
-		
-				<!-- Accordion Ends -->
-			</div> 
-		</div>
-
-
-	
-	<div class="bodyWideCol">
-	
-
-			<!-- Body Content Begin -->
-			<!-- Banner and Mini Ads Begin -->
-			
-			<!-- Banner and Mini Ads End -->
-
-			
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-			
-	
-	
-	
-	
-	
-<script src="/foresee/foresee-trigger.js" type="text/javascript"></script>
-	    <div class="bannerContainer">
-<div class="cleardivs"></div>
-<div class="cleardivs"></div>
-</div>
-<h1>Clarian.org Privacy Policy</h1>
-<div class="floatBodyContent">
-<div class="bodyNav">
-<div style="margin: 0px 0px 20px 0px;" class="rightNavList" id="rightNavList">
-<script type="text/javascript">
-					 var t1='/include/right/about/terms-policies.xml '  
-                      new Ajax.Request(t1, { method : 'get', onComplete : showTitleMenu } );
-                     </script>
-</div>
-<div class="cleardivs"></div>
-</div>
-</div>
-<copy xmlns:java="http://xml.apache.org/xslt/java">
-
-<p>Clarian Health is dedicated to protecting your privacy. We have created the
-following Web site privacy policy so you can be assured that any information
-you share with us via Clarian.org will remain confidential.</p>
-
-
-<h2>i. Introduction</h2>
-
-
-<p>Clarian Health is dedicated to maintaining the highest standards for
-privacy, security, credibility and reliability. We present this policy to give
-you a clear understanding of how we operate our Web site and how we handle your
-personal information.</p>
-
-
-<p>This privacy policy may be revised periodically. When we make significant
-changes that affect our collection and use of your personal information or our
-security practices, we will post a notice on the Clarian Health home page for
-30 days. We recommend that you read our privacy policy whenever you visit our
-site in case you missed our notice or have not registered for a service or
-feature of our site previously.</p>
-
-
-<p>When you visit and navigate our Web site, we will not collect personal
-information about you unless you provide us that information voluntarily. By
-"personal information," we mean data that is unique to an individual,
-such as a name, address, e-mail address or telephone number.</p>
-
-
-<h2>ii. Registration</h2>
-
-
-<p>You are always welcome to use the Clarian Health site without registering or
-providing any personal information. However, we require you to register for
-certain services, including our free health e-mails, discussion boards (when
-available), and other features, including online bill pay.&nbsp;When you use
-these features, we will clearly disclose what information is required, what
-information is optional and how that information may be used.</p>
-
-
-<p>When you register for free e-mails, we require the following personal
-information: e-mail address, first and last name, zip code, year of birth,
-gender, marital status and number of children under age 18 living in your
-household. We also ask you to select a personal password. In addition, we give
-you the option to provide additional information, including city, state and
-topics of interest.</p>
-
-
-<p>We use this information in aggregate form only. In other words, we combine
-the information with data collected from other individuals to produce
-anonymous, aggregated statistical information. We collect and use demographic
-information, such as the percentage of female visitors or the number of
-visitors of a certain age, in order to improve the content of our site. We also
-may share this anonymous, aggregated information, which does not identify
-individuals, with partners or other third parties. In instances where third
-parties may receive anonymous, aggregated user information collected on our
-site, our agreements with the third parties, including sponsors, generally
-provide that the third parties will not use the anonymous, aggregated user
-information to identify individual users or sell, disclose or provide access to
-any user information collected on our site that would identify any individual
-or connect any individual to specific illnesses or conditions.</p>
-
-
-<p>When you register to use discussion boards, we require that you provide your
-e-mail address and select a username and password. We use this information only
-if you violate our <a href="/portal/Clarian/about-clarian-health?ContentID=/about/terms-policies/terms-conditions.xml">terms
-and conditions</a> for participation in these forums and we have to contact
-you.</p>
-
-
-<p>We treat any personal information you give us as confidential. We do not
-analyze your personal information nor do we collect specific information about
-your use of our site.</p>
-
-
-<p>Clarian Health will not disclose to third parties any identifying personal
-information gathered from you during registration for e-mails and discussion
-boards and other features, unless (1) we tell you how your information will be
-used and you give Clarian Health specific permission to share this information
-or (2) Clarian Health is required to disclose such information by any
-applicable law or legal process (like a subpoena or court order). Where we
-disclose identifying personal information to third parties with your
-authorization, we will require the recipient to use the information only for
-the purpose provided.</p>
-
-
-<h2>iii. Security of Information</h2>
-
-
-<p>Clarian Health implements security procedures to protect personal
-information you submit to us from misuse or unauthorized disclosure. The
-personal information that you submit to us is stored in our secure database
-behind an electronic firewall. You can access your personal information only by
-using a password. We encourage you to change your password regularly and not to
-share it with anyone.</p>
-
-
-<p>Access to the data within Clarian Health is limited to a few computer
-technicians for our site who need to maintain the database and who also use
-passwords for that access, as well as outside vendors who may occasionally
-assist us in maintaining and improving our hardware and software tools.</p>
-
-
-<p>Clarian Health makes every effort to safeguard your personal information.
-However, like other Internet sites, we cannot guarantee that it is completely
-secure from people who might attempt to evade security measures or intercept
-transmissions over the Internet.</p>
-
-
-<p>Similarly, we cannot completely ensure the privacy of e-mail communications
-to and from our site because they are not encrypted and, therefore, not secure.
-These communications, like most Internet e-mail, could be intercepted without
-your knowledge and permission, while in transit to or from our site. If you are
-concerned about your privacy, we suggest that you do not use e-mail to
-communicate information to us that you consider sensitive.</p>
-
-
-<p>When you register for Clarian Health's free health e-mails, your information
-is not secure during transmission to us.</p>
-
-
-<h2>iv. Changing or Deleting Your Personal Information</h2>
-
-
-<p>You can change the personal information in your Clarian Health profile at
-any time by clicking on "Edit Profile" on the navigation bar at the top
-of any page on our site. If you forget your password, click on "Forgot
-Password?" at the top of any page and we will walk you through the process
-of resetting your password.</p>
-
-
-<p>Unsubscribing from our free health e-mails does not delete your personal
-information from our system, even if you unsubscribe from all e-mails. We will
-delete your personal registration information from the active and searchable
-areas of our system at your request. Be aware, however, that it is not feasible
-for us to remove every electronic record that may contain your data. We cannot
-remove copies of your information that may exist in records we create as backup
-in case our main data is lost. We also cannot delete information from
-anonymous, aggregated databases. This information cannot be linked to you.
-Clarian Health maintains and archives all personally identifiable information
-provided by users. This data is retained in our archives and not deleted.</p>
-
-
-<p>If you registered for discussion boards and also want that information
-removed, please note that in your request. Please inform us if you used a
-different e-mail address or password when registering for discussion
-boards.</p>
-
-
-<p>To have your registration information removed, <a href="mailto:webmaster@clarian.org">send your request by email</a>. You will
-receive a confirmation from us.</p>
-
-
-<h2>v. Privacy Concerns</h2>
-
-
-<p>If you have any concerns about the security or privacy of your personal
-identifiable information on the Clarian Health Web site, please <a href="mailto:webmaster@clarian.org">contact us by email</a> or send a written
-notification to:</p>
-
-
-<p>Clarian Health Marketing and Corporate Communications<br>
-Attn: Webmaster<br>
-340 W. 10th St., Suite 5200<br>
-P.O. Box 1367<br>
-Indianapolis, IN 46206</p>
-
-
-<h2>vi. E-mails</h2>
-
-
-<p>When you sign up for free health e-mails, Clarian Health maintains
-information about your selections only for the purpose of sending you the
-e-mails. We do not use identifying personal information for any other purpose
-although it may be included in anonymous, aggregated statistical
-information.</p>
-
-
-<p>We will send you only information that you request.</p>
-
-
-<p>A link for unsubscribing from e-mails is located at the bottom of each
-e-mail. You also can unsubscribe by using the "Change Profile" link at
-the bottom of any page on our site. Unsubscribing from e-mails does not delete
-your personal information from our system, even if you unsubscribe from all
-e-mails.</p>
-
-
-<h2>vii. Discussion Boards</h2>
-
-
-<p>If you are concerned about privacy, use caution when posting messages to our
-discussion boards. The discussion boards are open to the public so others using
-these areas on our site can read your posts. Any information you include when
-participating in discussion boards is available to anyone with Internet access.
-For example, if you include your e-mail address in a message you post on a
-discussion board, it is publicly accessible.</p>
-
-
-<p>Clarian Health does not collect information posted on our discussion
-boards.</p>
-
-
-<p>Discussion boards are monitored from time to time. Clarian Health reserves
-the right to remove any posts we feel are inappropriate, contain abusive
-language or threaten or violate the privacy of our company, sponsors or
-visitors as provided in our <a href="/portal/Clarian/about-clarian-health?ContentID=/about/terms-policies/terms-conditions.xml" title="">terms and
-conditions</a>.</p>
-
-
-<h2>viii. Cookies</h2>
-
-
-<p>Cookies are small bits of information placed on your computer's hard drive
-by a Web site. It is a simple text file that helps your browser to remember
-certain information that the Web site can later retrieve to streamline
-communication between your browser and the Web site. Clarian Health does not
-store this information. Our site can only read the cookies placed on your
-computer by us. We cannot access any information on your hard drive placed
-there by you or any other source. Clarian Health uses cookies for user
-convenience. The cookie will tell our system certain information so you don't
-have to fill in the same information each time you visit us.</p>
-
-
-<p>Clarian Health uses only benign cookies that have no functionality. This
-means the cookie cannot do anything to your computer's hard drive and cannot
-read information from your computer's hard drive.</p>
-
-
-<p>Cookies also may be used by Clarian Health on an aggregate basis to track
-site navigation. This information is not traceable to an individual user.
-Navigation streams are used to assist us in determining where people go when
-visiting our site and how long they stay in a particular area. This information
-is used to improve our site and may be shared with advertisers.</p>
-
-
-<p>Unlike many other Web sites, Clarian Health does not use cookies to tailor
-information that appears during your visit to your preferences or your use of
-our site.</p>
-
-
-<p>If you click on a sponsorship acknowledgment, you will be leaving Clarian
-Health and will be directed to the sponsor's site. Be aware that Clarian Health
-has no control over the practices of other Web sites. Your computer may receive
-cookies from other sites and you will not be protected by Clarian Health's
-security and privacy policies.</p>
-
-
-<p>The cookie feature can be turned off on your browser. For more information
-on turning off the cookie feature, consult your browser help section. If you
-choose to turn off cookies, you can still access all areas of our site. Once
-the cookie feature on your browser is turned off, you might have to
-"refuse" a cookie each time you encounter one searching our site.</p>
-
-
-<h2>ix. IP Addresses</h2>
-
-
-<p>An Internet Protocol (IP) address is a number that is automatically assigned
-to your computer by your Internet Service Provider (ISP) whenever you access
-the Internet. This number may be the same each time you access the Internet or
-it may change. Like other Internet sites, Clarian Health uses IP addresses to
-collect aggregate information about numbers of visitors and site usage. The
-address is logged on our server when your computer requests information from
-Clarian Health. However, to allow users to access our site anonymously, your IP
-address is not linked with personal information about you. Clarian Health
-reserves the right, in rare instances, to use IP addresses to identify
-individuals who threaten our site, service or customers.</p>
-
-
-<h2>x. Surveys, Questionnaires and Polls</h2>
-
-
-<p>When you respond to surveys, questionnaires or polls on our site, we may, at
-times, ask you for demographic information such as your gender or age. This
-information is collected only as anonymous, aggregated information and is used
-for statistical purposes. Otherwise, we do not collect or store your personal
-responses.</p>
-
-
-<h2>xi. Contests</h2>
-
-
-<p>When Clarian Health runs a contest, we may ask for personal information when
-you enter the contest. If so, we will describe in each instance why we are
-asking for that personal information and how we plan to use that
-information.</p>
-
-
-<h2>xii. Children</h2>
-
-
-<p>Clarian Health does not knowingly allow children under the age of 13 to
-register on our site for any purpose or to access any features that require
-registration. We require visitors to indicate their year of birth to register.
-If we learn that we inadvertently have collected identifying personal
-information from a child under the age of 13, we will promptly delete that
-information from our system.</p>
-
-
-<h2>xiii. Search Functions</h2>
-
-
-<p>We do not collect information about searches that you perform on our
-site.</p>
-
-
-<h2>xiv. Leaving Clarian Health</h2>
-
-
-<p>This privacy policy applies only as long as you remain on the Clarian Health
-Web site. Once you leave Clarian Health to visit another site, we have no
-control over your privacy or security issues even if you reached the other site
-by clicking on a link within Clarian Health.</p>
-
-
-<p>Throughout the Clarian Health Web site, you will see links that can lead you
-to another site. If you click on an advertisement or sponsorship acknowledgment
-while you are on Clarian Health, you will be leaving Clarian Health and will be
-directed to the advertiser or sponsor's site. Also, if you click on a link or a
-"Return to" or "Back to" banner for another Web site, you will
-be leaving Clarian Health and will be directed to the linked Web site, Clarian
-Health also offers listings of resources that contain links to the Web sites of
-government agencies and non-profit organizations. If you click on those links,
-you will be leaving Clarian Health and will be taken to the Web site of that
-agency or organization. At times, clicking on a hyperlink within an article
-will bring up information on another site without warning. In these cases,
-however, the information will appear in a second, smaller "pop-up"
-window and the Clarian Health page will remain clearly visible on your computer
-screen.</p>
-
-
-<h2>xv. Effect of Privacy Policy</h2>
-
-
-<p>This privacy policy is not intended to and does not create any contractual
-or legal rights in or on behalf of any party.</p>
-
-</copy>
-<p class="contentModified">
-<span>Content Modified on: 05/11/2009 15:41:24</span>
-</p>
-	
-	
-
-		
-			
-			<!-- //75_right_bottom  -->
-
-
-
-  
-    
-     
-      
-        
-      
-    
-
-     
-		
-			
-				
-				
-				
-				
-
-				
-				
-			
-				
-				
-				
-				
-
-				
-					
-						
-						
-									
-
-   
-	
-	   
-		
-		<div class="gearHeader">News at Clarian Health</div>
-		    
-	          
-		
-	        
-	   
-	
-	
-    
-
-
-							
-							
-								
-		
-
-
-
-
-
-
-	
-		
-			
-			
-			
-		  	
-
-			
-			
-			
-		
-			
-			
-			
-		  	
-
-			
-			
-				
-
-
-
-						
-				
-
-
-
-
-
-
-
-
-
-
-
-             
- 	         
- 	         		
-			 
-
-             
- 	         
- 	         		
-			 
-			    
-				     
-				
-			 
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-		
-	
-	<div class="Announcements"><ul>
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-		
-		
-		
-					
-	
-		
-		
-		
-		
-		 
-				  
-		 
-					
-	
-
-								
-
-	
-	<li>Dec 8, 2010&nbsp;&nbsp;<a href="/portal/Clarian/about-clarian-health?ContentID=/about/news-media/news-announcements/20101208_Riley-Simon-Family-Tower-Caring-Comfortable.xml">Riley Hospital Addition Focuses on Patient Families; Partnership of Care and Healing </a></li>
-	
-
-		
-
-		
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-		
-		
-		
-					
-	
-		
-		
-		
-		
-		 
-				  
-		 
-					
-	
-
-								
-
-	
-	<li>Dec 3, 2010&nbsp;&nbsp;<a href="/portal/Clarian/about-clarian-health?ContentID=/about/news-media/news-announcements/20101203_clarian-sports-performance-offers-golf-instruction.xml">Clarian Sports Performance Offers Five-Star Instruction for Golfers of All Ages, Skill Levels</a></li>
-	
-
-		
-
-		
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-		
-		
-		
-					
-	
-		
-		
-		
-		
-		 
-				  
-		 
-					
-	
-
-								
-
-	
-	<li>Dec 2, 2010&nbsp;&nbsp;<a href="/portal/Clarian/about-clarian-health?ContentID=/about/news-media/news-announcements/20101202_avoiding-injuries-when-playing-interactive-games.xml">When a Video Game Becomes a Contact Sport</a></li>
-	
-
-		
-
-		
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-		
-		
-		
-					
-	
-		
-		
-		
-		
-		 
-				  
-		 
-					
-	
-
-								
-
-		
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-		
-		
-		
-					
-	
-		
-		
-		
-		
-		 
-				  
-		 
-					
-	
-
-								
-
-	
-	<li>Nov 18, 2010&nbsp;&nbsp;<a href="/portal/Clarian/about-clarian-health?ContentID=/about/news-media/news-announcements/20101118_Riley-Hospital-to-open-first-phase-of-Simon-Family-Tower.xml">Riley Hospital to Open First Phase of Simon Family Tower in January</a></li>
-	
-
-		
-
-		
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-		
-	
-	
-	
-			</ul>	
-															
-			
-			
-			
-			
-			<table cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr><td align="right">For more news <a href="/portal/Clarian/about-clarian-health?paf_gear_id=5100002&amp;paf_dm=full&amp;paf_gm=content&amp;task_name=fullListing">click here</a>.</td></tr>
-			</tbody></table>
-		
-	
-	
-	
-
-
-
-	
-
-			
-</div>
-			
-			
-		
-	
-
-
-
-
-
-
-			
-							
-							
-
-						
-							
-				
-				
-				
-		
-		
-  	
-
-    
-  
-
-
-
-
-
-		<div class="cleardivs sectionSpacer"></div>
-	</div>
-
-</div>
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-			
-			
-		
-			
-			
-				
-			
-		
-			
-			
-				
-			
-		
-		
-	
-	
-		
-		
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-		
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-		
-		
-		
-			
-			
-		
-			
-			
-				
-			
-		
-	
-	
-		
-	
-	<div class="cleardivs"></div>
-	<div class="toolBar">
-		<div class="siteContainer">
-			<div class="connectWithClarian">
-				<a href="/portal/Clarian/about-clarian-health?ContentID=/about/news-media/social-media.xml"><img src="/eportal/layoutTemplates/org/img//social-media-icons.jpg" alt="Social Media icons"><span>Connect with Clarian Health</span></a>
-			</div>
-			<div class="pageTools">
-				<div class="floatLeft">
-					
-					<table cellpadding="0" cellspacing="0" border="0" width="179">
-						<tbody><tr>
-							<td width="52">
-								
-								
-									
-									
-									
-								
-									
-									
-									
-										
-									
-								
-									
-									
-									
-										
-									
-								
-									
-									
-									
-										
-									
-								
-								
-									
-									
-								
-									
-									 <a style="margin: 0;border-bottom: 0;" href="http://www.clarian.org/portal/Clarian/about-clarian-health;jsessionid=BMACKTRPKSJLDLAQA5PCJ0Q?printerFriendly=true&amp;param=param&amp;ContentID=/about/terms-policies/privacy.xml" onmouseover="window.status='Printer Friendly Version';return true;" onmouseout="window.status='';"><img src="/eportal/layoutTemplates/org/img/printerfriendly_wtext.gif" width="39" height="11" alt="Printer Friendly"></a>
-								
-								
-							</td>
-							<td width="54">
-									
-										
-											
-											
-										
-											
-											
-												<form name="frmtoolbarsendEmail" method="get" action="http://www.clarian.org/portal/Clarian/sitefunctions;jsessionid=BMACKTRPKSJLDLAQA5PCJ0Q" style="float: right;">
-													<input type="hidden" name="paf_gm" value="content">
-													<input type="hidden" name="paf_dm" value="full">
-													<input type="hidden" name="task_name" value="displayEmailForm">
-													<input type="hidden" name="resourceEmailTitle" value="">
-												</form>
-											
-										
-									
-								
-								<a style="margin: 0;" href="JavaScript:document.frmtoolbarsendEmail.resourceEmailTitle.value=document.title;document.frmtoolbarsendEmail.submit();" onmouseover="window.status='Email this Page to a Friend';return true;" onmouseout="window.status='';"><img src="/eportal/layoutTemplates/org/img/emailtoafriend_wtext.gif" width="45" height="11" alt="Email to a Friend"></a> </td>
-							<td width="72">
-									
-										<form action="https://www.clarian.org/portal/authentication/html/adminLoginForm.jsp;jsessionid=BMACKTRPKSJLDLAQA5PCJ0Q?_DARGS=/eportal/layoutTemplates/org/shared_page_template.jsp" style="margin: 0;width:60px;" name="loginForm" method="post"><input value="UTF-8" type="hidden" name="_dyncharset"><input value="8768327195039357931" type="hidden" name="_dynSessConf">
-											<input value="false" type="hidden" name="/atg/userprofiling/ProfileFormHandler.roleRedirect"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.roleRedirect">
-											<input type="hidden" name="successURL" value="/portal/Clarian/about-clarian-health?param=param&amp;ContentID=/about/terms-policies/privacy.xml">
-											<input type="hidden" name="roleRedirect" value="false">
-											<input type="hidden" name="errorURL" value="https://www.clarian.org/portal/Clarian/registration;jsessionid=BMACKTRPKSJLDLAQA5PCJ0Q?paf_dm=full&amp;paf_gm=content&amp;task_name=registration_login">
-											<input value="/portal/Clarian/about-clarian-health?param=param&amp;ContentID=/about/terms-policies/privacy.xml" type="hidden" name="/atg/userprofiling/ProfileFormHandler.loginSuccessURL"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.loginSuccessURL">
-											<input value="https://www.clarian.org/portal/Clarian/registration;jsessionid=BMACKTRPKSJLDLAQA5PCJ0Q?paf_dm=full&amp;paf_gm=content&amp;task_name=registration_login" type="hidden" name="/atg/userprofiling/ProfileFormHandler.loginErrorURL"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.loginErrorURL">
-											<input type="image" style="border: 0px;" src="/eportal/layoutTemplates/org/img/bookmark_wtext.gif" alt="Bookmark" name="/atg/userprofiling/ProfileFormHandler.login"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.login">
-										<input value="/eportal/layoutTemplates/org/shared_page_template.jsp" type="hidden" name="_DARGS"></form>
-									
-									
-								
-							</td>
-						</tr>
-					</tbody></table>
-				</div>
-				<div class="floatRight"><a href="javascript:norm()"><img src="/eportal/layoutTemplates/org/img/textsize1.gif" width="13" height="15" alt="A"></a> <a href="javascript:big()"><img src="/eportal/layoutTemplates/org/img/textsize2.gif" width="14" height="15" alt="A"></a> <a href="javascript:biggest()"><img src="/eportal/layoutTemplates/org/img/textsize3.gif" width="15" height="15" alt="A"></a> <span class="raise"><img src="/eportal/layoutTemplates/org/img/text_size_title.gif" width="45" height="11" alt="Text Size"></span></div>
-			<div class="cleardivs"></div>
-			</div>
-		<div class="cleardivs"></div>
-		</div>		
-	</div>
-	<div class="cleardivs"></div>
-
-<!-- Begin Footer -->
-<div id="footer">
-	<div class="siteContainer">
-		<div class="floatLeft">
-			<div class="awards">
-				<div><p class="awardsTitle"><span>Clarian Health Awards</span></p></div>
-				<a href="/portal/Clarian/about-clarian-health?ContentID=/about/magnet-designation/index.xml"><img src="/eportal/layoutTemplates/org/img/awards_footer_magnet.gif" width="62" height="64" alt="Magnet Award"></a>
-				<a href="/portal/Clarian/about-clarian-health?ContentID=/about/news-media/news-announcements/20100715_clarian-us-news-world-report-best-hospital-rankings.xml"><img src="/eportal/layoutTemplates/org/img/awards_footer_usnews_currentSM.gif" width="54" height="64" alt="USNews Best Hospital"></a>
-				<a href="http://www.jointcommission.org/"><img src="/eportal/layoutTemplates/org/img/awards_footer_goldseal.gif" width="63" height="64" alt="The Joint Commission Gold Seal Award" class="lastImg"></a><br><a href="http://www.topworkplaces.com/company_survey/clarian-health-partners-inc_indiana/indiana_10"><img src="/eportal/layoutTemplates/org/img/awards_footer_top_workplaces.gif" width="216" height="49" alt="Top Workplaces 2010"></a>
-			</div>			
-		</div>
-		<div class="floatRight">
-			<p>
-			1999 - <script language="JavaScript" type="text/javascript">
-            var today = new Date()
-            var year = today.getFullYear()
-            document.write(year)
-		</script>2020 ©, Clarian Health<br></p>		
+				<div class="sidebar">
+					<nav class="side_navigation js_side_navigation">
+	<ul>
+		<li><a href="/patients/" title="For Patients">For Patients</a>
 			<ul>
-				<li class="first"><a href="/portal/Clarian">Home</a></li>
-				<li><a href="/portal/Clarian/about-clarian-health">About</a></li>
-				<li><a href="/portal/Clarian/contact">Contact</a></li>
-				<li><a href="/portal/Clarian/site-map">Site Map</a></li>
-				<li><a href="https://pulse.clarian.org/clarian/layoutTemplates/html/access/outside_Loginform.jsp">Employee Login</a></li>
-				<li><a href="/portal/Clarian/about-clarian-health?ContentID=/about/terms-policies/terms-conditions.xml">Terms and Conditions</a></li>
-				<li><a href="/portal/Clarian/about-clarian-health?ContentID=/about/terms-policies/disclaimer.xml">Disclaimer</a></li>
-				<li class="last"><a href="/portal/Clarian/about-clarian-health?ContentID=/about/terms-policies/privacy.xml">Privacy</a></li>
+				<li class="js_no_expand"><a href="/patients/my-iu-health/" title="My IU Health">My IU Health</a>
+
+					<ul class="opened">
+						<li><a href="/patients/my-iu-health/billing-services/" title="Billing Services">Billing Services</a>
+							<ul>
+								<li><a href="/patients/my-iu-health/billing-services/faq/" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+								<li><a href="/patients/my-iu-health/billing-services/insurance-plans-accepted/" title="Most Commonly Accepted Insurance(s)">Most Commonly Accepted Insurance(s)</a></li>
+								<li><a href="/patients/my-iu-health/billing-services/financial-assistance/" title="Financial Assistance">Financial Assistance</a></li>
+							</ul>
+						<div class="expand side_navigation_expand js_side_navigation_expand">+</div></li>
+						<li><a href="/patients/my-iu-health/health-services/" title="Health Services">Health Services</a></li>
+					</ul>
+				</li>
+				<li><a href="/patients/clinical-studies/" title="Clinical Trials">Clinical Trials</a></li>
+				<li><a href="/patients/pharmacies/" title="Pharmacies">Pharmacies</a></li>
+				<li><a href="/patients/medical-records/" title="Request Paper Medical Records">Request Paper Medical Records</a></li>
+				<li><a href="/patients/the-strength-of-friends/" title="The Strength of Friends">The Strength of Friends</a></li>
+				<li><a href="/patients/international-patient/" title="International Patients">International Patients</a></li>
+				<li class="active"><a href="/patients/notice-of-privacy-policy/" title="Notice of Privacy Practices">Notice of Privacy Practices</a></li>
 			</ul>
-			<div class="cleardivs"></div>
+		</li>
+	</ul>
+</nav>
+									</div>
+
+			
 		</div>
-		<div class="cleardivs"></div>
 	</div>
-</div>
-<!-- End Footer -->
+	      <footer class="global_footer">
+      <div class="contain">
+      <div class="statewide_resources"><p>Access statewide IU Health Resources</p></div>
+              <ul class="nested_header_navigation footer_main_navigation">
+          <li class="footer_nav_about_us"><span>About Us</span>
+            <ul>
+              <li><a href="/about-iu-health/">About IU Health</a></li>
+              <li><a href="/giving/">Giving</a></li>
+              <li><a href="/about-iu-health/iusm/">IU School of Medicine</a></li>
+              <li><a href="/contact/">Maps &amp; Directions</a></li>
+              <li><a href="/physician-groups/">Physician Groups</a></li>
+              <li><a href="/about-iu-health/partnerships/">Partnerships</a></li>
+              <li><a href="/about-iu-health/volunteering-at-indiana-university-health/">Volunteering</a></li>
+            </ul>
+          </li>
+          <li class="footer_nav_information_for"><span>Information For</span>
+            <ul>
+              <li><a href="/patients/">Patients</a></li>
+              <li><a href="/healthy-living/">Healthy Living</a></li>
+              <li><a href="/health-professionals/">Health Professionals</a></li>
+              <li><a href="/careers/">Job Seekers</a></li>
+              <li><a href="/researchers/">Researchers</a></li>
+              <li><a href="/employees/">Team Members</a></li>
+              <li><a href="/about-iu-health/vendor-relations/">Vendors</a></li>
+            </ul>
+          </li>
+          <li class="footer_nav_business_solutions"><a href="/business-solutions/">Business Solutions</a>
+            <ul>
+              <li><a href="/business-solutions/product-suite/wellness-health-management/">Wellness &amp; Health Management</a></li>
+              <li><a href="/business-solutions/product-suite/on-site-health/">On-Site Health</a></li>
+              <li><a href="/business-solutions/product-suite/occupational-health/">Occupational Health</a></li>
+              <li><a href="/business-solutions/product-suite/employee-assistance/">Employee Assistance</a></li>
+              <li><a href="/business-solutions/product-suite/executive-health/">Executive Health</a></li>
+              <li><a href="/business-solutions/product-suite/health-plans/">Health Plans</a></li>
+            </ul>
+          </li>
+          <li class="footer_nav_stay_connected"><span>Stay Connected</span>
+            <ul>
+              <li><a href="/blog/">Blog</a></li>
+              <li><a href="/newsroom/">Newsroom</a></li>
+              <li><a href="/enewsletters/">eNewsletters</a></li>
+              <li><a href="/patient-stories/">Patient Stories</a></li>
+              <li><a href="/contact/">Contact Us</a></li>
+            </ul>
+          </li>
+          <li class="footer_nav_about_this_site"><span>About This Site</span>
+            <ul>
+              <li><a href="/sitemap/">Sitemap</a></li>
+              <li><a href="/legal-notices/">Legal Notices</a></li>
+            </ul>
+          </li>
+        </ul>
+            <ul class="nested_header_navigation footer_social_media">
+        <li><span>Connect with IU Health</span>
+          <ul>
+            <li><a target="_blank" href="https://twitter.com/IU_Health" class="twitter"></a></li>
+            <li><a target="_blank" href="https://facebook.com/IUHealth" class="facebook"></a></li>
+            <li><a target="_blank" href="https://youtube.com/iuhealth" class="youtube"></a></li>
+            <li><a target="_blank" href="https://linkedin.com/company/indiana-university-health" class="linkedin"></a></li>
+            <li><a href="/rss-feeds/" class="rss"></a></li>
+          </ul>
+        </li>
+      </ul>
+      <p class="footer_copyright">©2014 Indiana University Health</p>
+    </div>
+  </footer>
+
+      <!-- AddThis Button BEGIN -->
+    <div class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
+      <a class="addthis_button_more">Share</a>
+      <ul>
+        <li><a class="addthis_button_facebook"></a></li>
+        <li><a class="addthis_button_twitter"></a></li>
+        <li><a class="addthis_button_google_plusone_share"></a></li>
+        <li><a class="addthis_button_linkedin"></a></li>
+        <li><a class="addthis_button_email"></a></li>
+      </ul>
+    </div>
+    <script type="text/javascript">
+      var addthis_config = { "data_track_addressbar": false };
+      var addthis_share = {
+        templates : {
+          twitter: "{{title}} {{url}}"
+        },
+        url_transforms : {
+          shorten: {
+            twitter: 'bitly'
+          }
+        },
+        shorteners : {
+          bitly : {}
+        }
+      }
+    </script>
+    <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e4bfd2452ea9024"></script>
+    <!-- AddThis Button END -->
+  
+  
 
 
-
-
-        
-
-
-
-							
-				
-		 
-			 
-				 
-				
-
-				 
-				
-
-				 
-				 
-					 
-						 
-					 
-				 
-			 
-		
-		
-		
-	
 </body></html>
