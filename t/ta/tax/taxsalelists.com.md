@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the taxsalelists.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220091811id_/http%3A//www.taxsalelists.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxsalelists.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062236id_/http%3A//www.taxsalelists.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TaxSaleLists.com - Lists and Manuals for Tax Lien and Tax Deed Sales Nationwide
 
 **TaxSaleLists.com** has always been committed to maintaining the accuracy, confidentiality, and security of your personal and corporate information. We have established Privacy Principles to govern our use of customer information. 
 
-****TaxSaleLists.com** does not sell, share or distribute Customer Information to any third party organization.**
+TaxSaleLists.com does not sell, share or distribute Customer Information to any third party organization with the exception of CSP and fast cash students where we will refer their name to those offering further training prospects. 
 
 ### Accountability 
 
@@ -16,7 +16,7 @@ The purposes for which customer information is collected shall be identified bef
 
 ### Consent
 
-The knowledge and consent of the customer are required for the collection, use or disclosure of customer information except where required or permitted by law. 
+The knowledge and consent of the customer are required for the collection, use or disclosure of customer information except where required or permitted by law. CSP and FAST CASH students acknowledge they have given this permission. 
 
 ### Limiting Collection 
 
