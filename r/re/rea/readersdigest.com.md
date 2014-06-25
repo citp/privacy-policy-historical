@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228021759id_/http%3A//www.rd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625160342id_/http%3A//www.rd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest
 
@@ -84,7 +84,7 @@ Please note that no data transmission over the Internet is 100% secure. As a res
 
 **Notice to EU Visitors**
 
-RDA has registered for Safe Harbor certification with the US Department of Commerce. [Click here](http://www.rd.com/safe-harbor-privacy-policy/%3Cbr%20/%3E) to see our Safe Harbor Privacy Policy.
+RDA has registered for Safe Harbor certification with the US Department of Commerce. [Click here](http://www.rd.com/safe-harbor-privacy-policy/ "Reader's Digest Safe Harbor Privacy Policy") to see our Safe Harbor Privacy Policy.
 
 **Privacy Policy Changes**
 
