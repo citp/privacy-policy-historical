@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122223728id_/http%3A//bronto.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114135id_/http%3A//bronto.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bronto Software
 
 _Last Updated on 10/01/2011_
 
-This Privacy Policy covers our collection, use and disclosure of information we collect through our website [www.bronto.com](http://www.bronto.com/ "www.bronto.com") and our Bronto marketing platform. The use of information collected through our Bronto Marketing Platform shall be limited to the purpose of providing the service for which the Client has engaged Bronto.
+This Privacy Policy covers our collection, use and disclosure of information we collect through our website [www.bronto.com](http://www.bronto.com/) and our Bronto marketing platform. The use of information collected through our Bronto Marketing Platform shall be limited to the purpose of providing the service for which the Client has engaged Bronto.
 
 Bronto Software, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s Program Requirements and the TRUSTed Cloud Program Requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@bronto.com](mailto:privacy@bronto.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint) .
 
