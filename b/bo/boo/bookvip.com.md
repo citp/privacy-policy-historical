@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216063012id_/http%3A//bookvip.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625205649id_/http%3A//www.bookvip.com/home/privacypolicy) for the most accurate reproduction.*
 
 # BookVIP.com - Cheapest Vacation Packages To The Most Popular Destinations
 
@@ -7,7 +7,7 @@ Toll Free
 
   * [Home](http://bookvip.com/)
   * [Hot Weekly Deals](http://bookvip.com/weeklydeals)
-  * [All Vacation Deals](http://bookvip.com/vacationspecials)
+  * [All Promotional Packages](http://bookvip.com/vacationspecials)
   * [About Us](http://bookvip.com/home/aboutus)
   * [Contact Us](http://bookvip.com/home/contactus)
 
@@ -72,3 +72,8 @@ While we use encryption to protect sensitive information transmitted online, we 
 **Updates**
 
 Our Privacy Policy may change from time to time and all updates will be posted on this page.
+
+**Company Address**
+
+12345 W Dixie Hwy,  
+North Miami, FL 33161
