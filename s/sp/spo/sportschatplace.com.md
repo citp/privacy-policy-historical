@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the sportschatplace.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512063605id_/http%3A//sportschatplace.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportschatplace.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075355id_/http%3A//sportschatplace.com/copyright) for the most accurate reproduction.*
 
-# Privacy Policy » Sports Chat Place
+# Copyright » Sports Chat Place
 
-**What information do we collect?**  
+Sports Chat Place posts and supporting documents are owned, held, or licensed by the the Sports Chat Place LTD, and are available for free personal, non-commercial, and educational use, provided that ownership of the materials is properly cited. Any commercial use of the materials, without the written permission of the Sports Chat Place LTD, is strictly prohibited. If you need additional information about copyright and use of a specific digital collection created at the Sports Chat Place, please contact us [here](http://sportschatplace.com/contact-us-2).
+
+Sports Chat Place LTD is not, under any circumstances, responsible for the unauthorized use or redistribution of digital collections found on this web site.
+
+Activities offered by advertising links to other sites may be deemed an illegal activity in certain jurisdictions. Viewers are specifically warned that they should inquire into the legality of participating in any games and/or activities offered by such other sites. The owner of this website assumes no responsibility for the actions by and makes no representation or endorsement of any of these games and/or activities offered by the advertiser. As a condition of viewing this website viewers agree to hold the owner of this website harmless from any claims arising from the viewer’s participation in any of the games and/or activities offered by the advertiser.
+
+ ** ** **What information do we collect?**  
 
 We collect information from you when you register on our site, subscribe to our newsletter or mitch@sportschatplace.com. 
 
@@ -19,15 +25,11 @@ Any of the information we collect from you may be used in one of the following w
 
 ; To process transactions
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+****
 
-  
-; To send periodic emails  
+ **
 
-
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
-
-**How do we protect your information?**
+ **How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
@@ -61,7 +63,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://sportschatplace.com](http://sportschatplace.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://sportschatplace.com](http://www2.sportschatplace.com/)
 
  **Your Consent**
 
@@ -80,4 +82,8 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://sportschatplace.com  
 Chicago, Illinois 60610  
 United States  
-N. State Street 
+N. State Street 
+
+**
+
+ **Sportschatplace.com may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit  [http://www.networkadvertising.org/managing/opt_out.asp](http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org%2Fmanaging%2Fopt_out.asp&sa=D&sntz=1&usg=AFQjCNGLrN7Q3yfX4kPIuQhtUNKfQMyCNg)**
