@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the printfriendly.com privacy policy that was archived on 2013-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206234916id_/http%3A//www.printfriendly.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the printfriendly.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626000626id_/http%3A//www.printfriendly.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Privacy Policy</title>
@@ -25,13 +25,14 @@
     <!--End Google Analytics-->
     <script language="javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="/javascripts/browser_detect.js"></script>
-      <link href="/stylesheets/cache/all-re55df704template.css?1386367527" media="screen" rel="stylesheet" type="text/css">
+      <link href="/stylesheets/cache/all-r9c0dd8b8template.css?1402914732" media="screen" rel="stylesheet" type="text/css">
 
     <script type="text/javascript">
+      var isMobileTablet = false;
       function setupChromeExtension() {
         var optOut = Cookie.get('pf-chrome-optout');
         var isChrome = navigator.userAgent.match(/Chrom(e|ium)/);
-        if(isChrome && !optOut) {
+        if(isChrome && !optOut && !isMobileTablet) {
           $('#pfcom-feature').remove();
           var img = new Image();
           img.onerror = function() {
@@ -133,11 +134,10 @@
     </div>
     <!-- Footer -->
   <div id="pfcom-footer">
-    
     <a href="http://support.printfriendly.com" tite="PrintFriendly &amp; PDF Support">Support</a>  |
-    
     <a href="/about" title="About PrintFriendly &amp; PDF">About</a>  |
     <a href="/privacy" title="Privacy Policy">Privacy</a>  |
+    <a href="/terms" title="Terms and Conditions">Terms</a>  |
     NEW! <a href="http://www.instaemail.com" title="Email This Page Button"> Email This Page Button</a>
   </div>
 
