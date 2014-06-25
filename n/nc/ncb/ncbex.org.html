@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ncbex.org privacy policy that was archived on 2013-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131031045420id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ncbex.org privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625103657id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <base href="http://ncbex.org/">
@@ -20,6 +20,7 @@
 	  jQuery("#NCBESearchForm_SearchForm_Search").focus(function() {
 		  jQuery("#NCBESearchForm_SearchForm_Search").val("");
 	});
+	jQuery("#MemberLoginForm_LoginForm_Email").attr("autocomplete", "off");
 	});
 </script>
 <script>
@@ -32,70 +33,14 @@
   ga('send', 'pageview');
 
 </script>
-<link rel="stylesheet" type="text/css" href="http://ncbex.org/themes/ncbe/css/layout.css?m=1380719928">
-<link rel="stylesheet" type="text/css" href="http://ncbex.org/themes/ncbe/css/typography.css?m=1380719928">
-<link rel="stylesheet" type="text/css" href="http://ncbex.org/themes/ncbe/css/form.css?m=1380719928">
+<link rel="stylesheet" type="text/css" href="/themes/ncbe/css/layout.css?m=1396878572">
+<link rel="stylesheet" type="text/css" href="/themes/ncbe/css/typography.css?m=1396878572">
+<link rel="stylesheet" type="text/css" href="/themes/ncbe/css/form.css?m=1396878572">
 </head>
 
 <body id="index_2" onload="new ElementMaxHeight();">
 	<!-- menu script -->
-	<script type="text/javascript" src="http://ncbex.org/sapphire/thirdparty/prototype/prototype.js?m=1311691331"></script><script type="text/javascript" src="http://ncbex.org/sapphire/thirdparty/behaviour/behaviour.js?m=1311691347"></script><script type="text/javascript" src="http://ncbex.org/sapphire/javascript/prototype_improvements.js?m=1311691352"></script><script type="text/javascript" src="http://ncbex.org/sapphire/javascript/i18n.js?m=1311691330"></script><script type="text/javascript" src="http://ncbex.org/sapphire/javascript/lang/en_US.js?m=1311691347"></script><script type="text/javascript" src="http://ncbex.org/sapphire/javascript/Validator.js?m=1311691319"></script><script type="text/javascript" src="http://ncbex.org/sapphire/thirdparty/jquery/jquery.js?m=1311691365"></script><script type="text/javascript" src="http://ncbex.org/sapphire/javascript/ImageFormAction.js?m=1311691350"></script><script type="text/javascript">//<![CDATA[
-Behaviour.register({
-	'#NCBESearchForm_SearchForm': {
-		validate : function(fromAnOnBlur) {
-			initialiseForm(this, fromAnOnBlur);
-			
-
-			var error = hasHadFormError();
-			if(!error && fromAnOnBlur) clearErrorMessage(fromAnOnBlur);
-			if(error && !fromAnOnBlur) focusOnFirstErroredField();
-			
-			return !error;
-		},
-		onsubmit : function() {
-			if(typeof this.bypassValidation == 'undefined' || !this.bypassValidation) return this.validate();
-		}
-	},
-	'#NCBESearchForm_SearchForm input' : {
-		initialise: function() {
-			if(!this.old_onblur) this.old_onblur = function() { return true; } 
-			if(!this.old_onfocus) this.old_onfocus = function() { return true; } 
-		},
-		onblur : function() {
-			if(this.old_onblur()) {
-				// Don't perform instant validation for CalendarDateField fields; it creates usability wierdness.
-				if(this.parentNode.className.indexOf('calendardate') == -1 || this.value) {
-					return $('NCBESearchForm_SearchForm').validate(this);
-				} else {
-					return true;
-				}
-			}
-		}
-	},
-	'#NCBESearchForm_SearchForm textarea' : {
-		initialise: function() {
-			if(!this.old_onblur) this.old_onblur = function() { return true; } 
-			if(!this.old_onfocus) this.old_onfocus = function() { return true; } 
-		},
-		onblur : function() {
-			if(this.old_onblur()) {
-				return $('NCBESearchForm_SearchForm').validate(this);
-			}
-		}
-	},
-	'#NCBESearchForm_SearchForm select' : {
-		initialise: function() {
-			if(!this.old_onblur) this.old_onblur = function() { return true; } 
-		},
-		onblur : function() {
-			if(this.old_onblur()) {
-				return $('NCBESearchForm_SearchForm').validate(this); 
-			}
-		}
-	}
-});
-
-//]]></script><script type="text/javascript" src="themes/ncbe/udm-resources/udm-dom.js"></script>
+	<script type="text/javascript" src="themes/ncbe/udm-resources/udm-dom.js"></script>
 	<!-- keyboard navigation module -->
 	
 
@@ -109,15 +54,27 @@ Behaviour.register({
 	<fieldset>
 		<label for="NCBESearchForm_SearchForm_Search" style="display:none;">Search</label>
 		
-			<div id="Search" class="field text  nolabel"><div class="middleColumn"><input type="text" class="text nolabel" id="NCBESearchForm_SearchForm_Search" name="Search" value="Search"></div></div>
+			<div id="Search" class="field text nolabel">
+	
+	<div class="middleColumn">
+		<input type="text" name="Search" value="Search" class="text nolabel" id="NCBESearchForm_SearchForm_Search">
+	</div>
+	
+	
+	
+</div>
+
 		
 		
-			<input class="action" id="NCBESearchForm_SearchForm_action_results" type="image" name="action_results" src="themes/ncbe/images/SEARCHicon.gif" title="Search Entire Site" alt="Search Entire Site">
+			
+	<input type="image" name="action_results" value="Search Entire Site" class="action" id="NCBESearchForm_SearchForm_action_results" src="themes/ncbe/images/SEARCHicon.gif">
+
+
 		
 	</fieldset>
 </form>
 
-						<p style="padding-top: 14px;">
+						<p style="padding-top: 0px;">
 				  		<a href="https://secure.ncbex2.org/php/ncbe_number/">Sign in or Create NCBE Account</a>
 				  		</p>
 				  </div>
@@ -282,7 +239,7 @@ Behaviour.register({
 			<!--footer -->
 			<div id="footer">
 				<div class="indent">
-					©2013 National Conference of Bar Examiners • <a href="/privacy-policy">Privacy Policy</a>
+					©2014 National Conference of Bar Examiners • <a href="/privacy-policy">Privacy Policy</a>
 					• <a href="/website-terms-and-conditions-of-use">Terms and Conditions of Use</a>
 					• <a href="/contact-us">Contact Us</a>
 					• <a href="https://secure.ncbex2.org/">Administrative</a>
