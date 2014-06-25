@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiziapp.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208180530id_/http%3A//www.wiziapp.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiziapp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121153id_/http%3A//wiziapp.com/policy) for the most accurate reproduction.*
 
 # WiziApp - Wordpress iPhone App Plugin | Policy
 
