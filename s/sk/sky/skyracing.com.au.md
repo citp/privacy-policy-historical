@@ -1,215 +1,241 @@
-> *The following text is extracted and transformed from the skyracing.com.au privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230150402id_/http%3A//www.skyracing.com.au/index.php%3Fcomponent%3Dcontent%26Itemid%3D124%26id%3D100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyracing.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125055id_/http%3A//www.skyracing.com.au/index.php%3Fcomponent%3Dcontent%26Itemid%3D124%26id%3D100) for the most accurate reproduction.*
 
 # Sky Racing - Privacy Policy
 
-#### Compliance with privacy legislation
+**TABCORP MEDIA (SKY CHANNEL & 2KY) - COLLECTION NOTICE AND PRIVACY POLICY**
 
-This Privacy Statement describes the purposes for which Tabcorp Media may collect, store, use and disclose your personal information. It generally applies whenever you give personal information to us when you use our products or services or when we do wagering business with you. This Privacy Statement covers your dealings with Tabcorp Media.  It should be read in conjunction with the Tabcorp Corporate Privacy Policy, available at [www.tabcorp.com.au](http://www.tabcorp.com.au/) and the Tabcorp Wagering Privacy Policy, available at [www.tab.com.au](http://www.tab.com.au/)
+Sky Channel Pty Ltd ABN 77 009 136 010 of 79 Frenchs' Forest Road, Frenchs' Forest, New South Wales (Sky Racing) and 2KY Broadcasters Pty Limited ABN 54 000 820 057 of 495 Harris Street, Ultimo, New South Wales (Sky Sports Radio) (each Sky, we, us, our) is bound by the Privacy Act 1988 (Cth) (Privacy Act) and Australian Privacy Principles (APPs).
 
-Tabcorp Media refers to those entities in the Tabcorp Holdings Limited group of companies which hold licences to operate as a subscription narrowcast broadcaster (SKY Channel) and a commercial radio station (SKY Sports Radio). 
+You can contact our Privacy Officer about privacy issues - email privacy@tabcorp.com.au or telephone + 61 2 9452 8400 (Sky Racing) or +61 2 9218 1000.
 
-This Privacy Policy describes how Tabcorp Media will comply with our obligations under the Privacy Act 1988, including the National Privacy Principles.
+ **COLLECTION NOTICE (APP 5)**
 
-This Policy has been created in order to disclose the information gathering and dissemination practices of Tabcorp Media.  
+1. How we collect your personal information
 
-#### Collection of Personal Information
+Generally we collect directly from you (either online, by mail or over the telephone).  Where it isn't reasonable or practicable to collect information from you, we may collect it from a third party.  For example, we may collect personal information from:
 
-Tabcorp Media takes your privacy seriously.  This Privacy Policy sets out Tabcorp Media’s commitment to safeguard your personal information and describes the purposes for which we may collect, store, use and disclose your personal information.  It applies whenever you give us personal information to use when you use our products and services or when you do any business with us.  This Privacy Policy describes how we will comply with our obligations under the Privacy Act 1988, including the National Privacy Principles.
+(a) our related bodies corporate (e.g. TAB Limited or Tabcorp Wagering Manager (Vic) Pty Ltd);  
+(b) providers of subscription television services that carry our channels (e.g. Foxtel); and  
+(c) third parties that can help assess your risk to our business under the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (Cth) (AML/ CTF Act).  
+We may use cookies to collect information from your computer.  Cookies are pieces of data sent by a website to your computer and stored on the hard drive.  They allow the website to identify and interact with your computer.
 
-Your personal information is generally defined as any information or opinions that personally identify you.  The type of information that we collect from you will depend on the dealings you have with us, the requirements of any licences we hold, the accompanying conditions that apply to those licences, and the laws and regulations that apply to our business, including, but not limited to, the Anti Money Laundering and Counter Terrorism Financing Act 2006 (“the AML / CTF Act”). 
+2. What we are legally required to collect
 
-The consequences of you not providing your personal information to Tabcorp Media will also depend on your dealings with us.   
-Where reasonable and practical, we collect your personal information directly from you when you use our products and services or enter into other arrangements with us.   
-We record information that you provide to us including your responses to promotions, giveaways and competitions. Whenever a page is requested from our web server, we record the time, date and URL of the request, along with information on the browser software that is being used. This information is collected to enable us to better understand the preferences of our members and to enable us to better target our communications including competitions and prizes.  We also collect information from your computer to analyse trends, administer the Websites, diagnose problems on the Website's servers, track users’ movement, and gather broad demographic information for aggregate use and to help improve the quality of the web pages on the Website.
+We may be required to collect personal information under:  
+(a) the AML/ CTF Act;  
+(b) any licences applying to our related bodies corporate; and  
+(c) our related bodies corporate State Race Fields Approvals.  
+We may also be required to collect personal information by law enforcement agencies like the Australian Federal Police,the Australian Crime Commission and the Australian Securities and Investment Commission.
 
-The primary purposes for which we collect personal information are:
+  
+3. Our main reasons for collecting your personal information
 
-  * To identify you;
-  * To provide you with the products and services that you have requested and any benefits you may subsequently become entitled to in relation to that product or service;
-  * To manage and administer the provision of our products or services to you on an ongoing basis;
-  * To protect your use of our products or services and our ability to provide those products or services;
-  * We may also collect other information for related secondary purposes.  These include, but are not limited to, collecting information about your behaviour or habits.
+(a) To identify you.  
+(b) To manage, administer and control the quality of our products and services.  
+(c) To market our products and services to you.  
+(d) To comply with our legal obligations, including:  
+• under the AML/ CTF Act and any licences or betting rules applying to our related bodies corporate;  
+• to State racing controlling bodies (including thoroughbred, harness and greyhound); and  
+• to authorised sports controlling bodies (domestic and international).
 
+4. Our other reasons for collecting, holding, using and disclosing your personal information  
+(a) To develop and improve our products and services.  
+(b) To assist you with enquiries or complaints.  
+(c) To identify your behaviour or habits so we can better target our communications, products and services.  
+(d) To enable our related bodies corporate to market their products and services to you.  
+(e) To assess whether you pose a risk to our business or the businesses of our related bodies corporate.  
+5. What happens if we don't collect your personal information?
 
+Unfortunately, if we cannot collect your personal information we may not be able to provide our products and services to you.  For example:
 
-#### Use and Disclosure of Personal Information
+(a) we can't subscribe you to the Sky Racing Media Centre without having our basic contact details; and  
+(b) if we cannot verify your identity, we may not be able to accept advertising from you.  
+6. Disclosures to third parties
 
-We may use your personal information and disclose it to third parties for the following purposes, which include, but are not limited to:
+Generally we only give your personal information to:  
+(a) external providers of services we use to operate our business and manage our business systems (e.g. advertising agencies, market research analysts, mailing houses, printers, call centres, IT consultants, and providers of  product development, payment processing and identity verification services);  
+(b) Tabcorp Holdings Limited, Tabcorp Wagering (Vic) Pty Ltd, TAB Limited, Luxbet Pty Ltd and our other related bodies corporate;  
+(c) regulatory authorities and bodies that control or coordinate a racing code or sport, or are responsible for the integrity of a racing code or sport;  
+(d) government agencies responsible for enforcing the AML/CTF Act; and  
+(e) our employees and contractors, but only as needed to perform their jobs (they have obligations to treat the personal information they access as confidential).  
+7. Access and correction
 
-  * Providing you with a service or product;
-  * Implementing the terms and conditions of our services;
-  * Identifying your behaviour and habits and using that information to directly market to you according to your behaviour or habits;
-  * Sharing personal and betting information collected by Tabcorp Media with any related bodies corporate of Tabcorp Media including but not limited to, Tabcorp Holdings, Tabcorp Manager, TAB Limited, Luxbet, Star City Casino, Jupiters Casino, Conrad Treasury Casino and Jupiters Townsville Hotel and Casino (together referred to as “Tabcorp Wagering’s related bodies corporate”).
-  * Tabcorp Media’s related bodies corporate may use your personal and betting information to send you product, service, marketing and advertising information about them;
-  * Tabcorp Media’s related bodies corporate may use your personal and betting information to assess your risk to our businesses;
-  * If you enter any competitions on any of the Tabcorp businesses’ websites, notifying you if you are a winner;
-  * General Quality Control of our website, products and services;
-  * Developing and improving our products and services;
-  * Assisting you with any complaints you may have regarding Tabcorp Media, its related bodies corporate and its products and services;
-  * Sending you information on behalf of third parties (we will not give third parties your personal information without your permission); 
-  * Where we are required to do so by law or where the disclosure is reasonably necessary to enforce the law.  This may occur when, for example a regulatory authority, a racing code, or a Sports Controlling Body requests information from us;
-  * Complying with all obligations that we have under our licence conditions, laws and regulations.
-  * To assist a law enforcement agency or any government agency responsible for national security in the performance of its functions.
-  * Assisting any other government agencies with enquiries made under state or federal legislation, for example Child Support Agencies. 
-  * To comply with our disclosure obligations to the racing industries under our state Race Fields approvals and in accordance with our contractual obligations to the state racing industries.
-  * To comply with our disclosure obligations to authorised Sports Controlling Bodies and in accordance with our contractual obligations to those authorised Sports Controlling Bodies. 
-  * Protecting our rights or property or those of any other Tabcorp Media user, or any member of the public.
+The Privacy Policy tells you how you may access the personal information we hold about you and request its correction - see section V.
 
+8. Complaints
 
+The Privacy Policy tells you how you may complain about a breach by us of the APPs or any APP code applying to us, and explains how we will deal with your complaint - see section VI.
 
-#### Surveillance of Client Betting Accounts, including Emails
+9. Disclosing personal information overseas
+
+  
+Currently we do not disclose your personal information to recipients located outside Australia.
 
-We may retain the content of any email that you send to us. Any personal information contained within those emails, including your email address, will only be used or disclosed in the ways set out in this Policy. Your email message content may be monitored by our Internet Service Provider or Tabcorp employees for maintenance purposes or if email abuse is suspected.
+  
+ **PRIVACY POLICY**
 
-#### Sharing Information with Other Organisations
+Sky Racing and Sky Sports Radio are committed to implementing practices, procedures and systems that:  
+• ensure we comply with the APPs (and any APP code applying to us); and  
+• allow us to deal with your enquiries and complaints regarding compliance with the APPs (or any APP code applying to us).
 
-We will not sell your personal information to third party organisations.   
-We will generally only give another organisation access to your personal information when the other organisation is providing services to us that help us to operate our business or to provide services to you or where we are required to do so under laws, regulations, betting rules, licence conditions or contractual obligations.
+I. ABOUT THIS POLICY
 
-Except where we are required to provide the information in accordance with legislation, regulation, or licence conditions we will require these organisations to agree to our Policy, meet strict conditions on the use of personal information, and to comply with the Privacy Act, and the AML / CTF Act in the use, storage and disclosure of your personal information.
+Under the Privacy Act, 'personal information' is generally any information or opinions that identify you personally.
 
-Some organisations to which we disclose information are those that assist us:
+This Privacy Policy explains how we manage your personal information, including:  
+(a) the kinds of personal information we collect and hold;  
+(b) how we collect and hold your personal information;  
+(c) our reasons for collecting, holding, using and disclosing personal information;  
+(d) how you may access your personal information held by us and have it corrected;  
+(e) how you may complain about the way we deal with your personal information, and how we will deal with you complain; and  
+(f) whether we will disclose your personal information to overseas recipients, and if so the likely location(s) of those recipients.  
+By using the website at www.skyracing.com.au (Website) you accept this Privacy Policy. We may change this Privacy Policy as required at any time.  If we do, we'll post the updated version on the Website with the date of the changes.
 
-  * To provide, manage and administer the products and services that we offer.   This includes service providers (such as mail house providers, printers, and advertising agencies), postal services, call centres, customer research agencies and our advisors.
-  * To maintain, review and develop our business systems, procedures and infrastructure, including testing or upgrading our computer software;
-  * With reviews of our business operations and structure;
-  * With developing and planning new products and services. 
+II. KINDS OF INFORMATION WE COLLECT AND HOLD
 
+This depends on your dealings with us, and what is required by the laws, regulations and licence conditions applying to us.
 
+1. Online  
+When you subscribe to our media services, send feedback via the Website, or apply to advertise with us, we will ask for your:  
+• name;  
+• residential and email addresses; and  
+• telephone number.
 
-Other organisations include:
-
-  * State racing industries (including thoroughbred, harness and greyhound) in compliance with our regulatory and contractual obligations to ensure the integrity of the racing industries. 
-  * Authorised Sports Controlling Bodies in compliance with our legislative and contractual obligations to ensure the integrity of sporting events.
-  * Federal or state regulators where a request is made to us with a defined regulatory purpose. 
-
-
-
-We may also share your personal information with an organisation where we have obtained your consent.
-
-#### Marketing
-
-We may collect, use or disclose your personal information to let you know about upcoming events, promotions, promotions and new products and services or other opportunities via direct mail, email, SMS, MMS means.
-
-Our marketing activities will be related to the primary purpose of the collection of your personal information.
-
-Each time we contact you with direct marketing we will provide you with the opportunity to opt out from receipt of direct marketing activities and we will act promptly on your request to opt out.  For example, each electronic message that we send you (email, SMS, MMS) will include functionality that allows you to opt out.  Additionally, you may contact us at any time to request to opt out from further direct marketing.
-
-#### Site and Service Updates
-
-We may send you Website and service announcement updates about services for which you have registered via email. Customers are not able to unsubscribe from service announcements, which may contain important information about Tabcorp Media and the Website.
-
-#### Security of Personal Information
-
-Tabcorp Media has taken reasonable precautions to protect the security of your personal information and to ensure it is accurate and up to date.  These precautions include: protection of passwords using industry standard encryption; provisions to preserve the security of the information in our own systems and to prevent unauthorised access, modification, use or disclosure; and back-up systems to prevent accidental or malicious loss of data.
-
-Unfortunately, there is always a risk involved in sending information through any channel over the Internet and you send information over the Internet entirely at your own risk.
-
-To the extent permitted by law, we will not be responsible for any unauthorised access or use of information you send over the Internet.
-
-Our employees and contractors may have access to your personal information to a level that is necessary to enable them to perform their jobs. They are obliged to respect the confidentiality of any personal information held by us.
-
-#### Deleting, Modifying or Accessing Personal Information
-
-We will take reasonable steps to ensure that the personal information we collect is accurate, complete and up to date. You are welcome to ask for access to your personal information that we hold about you.  To do so, please contact Tabcorp Media via the means listed below.  A copy of the personal information will generally be made available to you within 30 days from the date of your request.   
- **E-mail** : _[privacy@tabcorp.com.au](mailto:privacy@tabcorp.com.au)_  
-If you have a question or need to contact a particular business operated by Tabcorp in relation to privacy, please write to the applicable address below:  
-Tabcorp Media - Privacy Officer  
-GPO Box 4168  
-SYDNEY NSW 2001  
-Although it is not always possible to remove or modify information in our databases, we will make reasonable efforts to do so.  If we have passed information to third parties we cannot delete or change the information held by those third parties.  
-There are circumstances in which Tabcorp is not required to give you access to your personal information.  We will let you know if one of these exceptions applies to your request.   
-If we intend to charge you a fee for us providing you with a copy of the personal information we hold about you, we will inform you of the cost before we provide the information to you. 
-
-#### Sensitive Information
-
-We do not generally collect sensitive information as a matter of course. Sensitive information is defined as information or opinions about your racial or ethnic origins, political opinions, membership of political associations, religious beliefs or affiliations, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual preferences or practices, criminal records or health information.  
-If we do collect sensitive information, we will collect such information where:
-
-  * We are required to do so under laws that apply to our business; or,
-  * We have obtained your consent.
-
-
-
-#### Sending Information Overseas
-
-We will only transfer personal information overseas:
-
-  * Where we have established that the country to which we are sending personal information applies similar or the same privacy protections regarding your personal information that we do; or,
-  * Where we have obtained your consent; or,
-  * Where we have taken reasonable steps to ensure that your personal information will not be held, used or disclosed by the overseas recipient in a manner which is inconsistent with Australian Privacy laws.
-
-
-
-We may collect, use and disclose your personal information overseas to assist us to determine your status as a self excluded patron in any jurisdiction either in or outside Australia. We may also collect, use or disclose your personal information overseas to assist us to understand our AML / CTF risk.
-
-#### Cookies
-
-A cookie is a piece of data stored on your hard drive containing information about your computer.  The use of cookies on websites is a common industry practice.  Cookies act as unique identifiers and distinguish between different Account Holders. They can enable us to track and target your interests to enhance your experience on the Website.  For instance, by setting a cookie on the Website, you would not have to log in a password more than once, saving you time while on the Website.
-
-The Websites use cookies to allow access to Account Holder only sections.  If a user rejects the cookie, he/she may still use the Website.  The only drawback to this is that they may not have access to Account Holder only areas of the Website.  For example, you would not be able to participate in any of our competitions that take place.
-
-Some of our business partners use cookies on the Website (for example, advertisers).  However, we have no access to or control over these cookies.
-
-We may use cookies when we conduct voting polls, surveys, and contests to limit multiple responses and registrations.
-
-We will never use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. We do not associate information obtained from cookies with personal information.
-
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. You can also delete cookies from your hard drive at any time. However, it is possible that some parts of the Website, such as the voting polls, surveys, contest, and game areas, will not function properly if you reject or delete cookies.
-
-#### Identifiers
-
-Tabcorp Media will not use an identifier assigned to an individual by a Government Agency (e.g. tax file numbers) as its own identifier; nor will it provide such an identifier to a third party without the individual’s consent, unless disclosure is necessary for Tabcorp Media to fulfil its obligations to the relevant Government Agency.  Such circumstances include where disclosure is required:
-
-  * To investigate suspected fraud or unlawful activity;
-  * Or authorised by law;
-  * Or authorised under the AML / CTF Act; or,
-  * For law enforcement purposes.
-
-
-
-#### Links to Third Party Websites
-
-This Website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every web site that collects personal information. This Policy applies solely to personal information collected by this Website.
-
-#### Notification of Changes to the Privacy Policy
-
-We may change our Privacy Policy at any time, without notice to you.  When we make changes, we will place an updated version of the Privacy Policy on our Website, with the appropriate date it was updated, on our Website at [www.skyracing.com.au](http://www.skyracing.com.au/). It is your responsibility to familiarise yourself with our Privacy Policy.
-
-#### Complaints
-
-You can raise any privacy related concern or complaint about breaches of your privacy in writing or by phone to:  
-If you have a question or need to contact a particular business operated by Tabcorp in relation to privacy, please write to the applicable address below:  
-Tabcorp Media - Privacy Officer  
-GPO Box 4168  
-SYDNEY NSW 2001
-
-#### Organisational Details
-
- _Name:_  
-SKY Sports Radio  
- _Actual address:_  
- _2KY Broadcasters Pty Limited_  
-495 Harris Street  
-Ultimo NSW 2007  
- _Postal Address:_  
-GPO Box 4168  
-Sydney NSW 2000  
- _Telephone Numbers:_  
-Telephone: +61 2 9218 1111  
-Fax: +61 2 282 9524  
- _Name:_  
-Sky Racing
-
- _Actual Address:_  
-Sky Channel Pty Limited  
-79 Frenchs’ Forest Road  
-Frenchs’ Forest NSW
-
- _Telephone Numbers:_
-
-Telephone: + 61 2 9452 8400  
-Fax: + 61 2 94524540
+We may also collect your:  
+• TAB or Luxbet account number (where required); and  
+• fax number.  
+2. AML/ CTF Act  
+Under the AML/ CTF Act we may have to:  
+• request further personal information from you; and  
+• retain the content of any email you send us.  
+3. Online behaviour  
+We may collect:  
+• your responses to promotions, giveaways and competitions;  
+• the time, date and URL of each request for a page from our web server, plus information on the browser software being used to make the request; and  
+• information from your computer or device allowing us to: analyse trends, administer the Website,  target your interests (by tracking your web navigation), and gather broad demographic information for aggregated use.   
+To do this we may use cookies (pieces of data sent by a website to your computer and stored on the hard drive).  Cookies allow the website to identify and interact with your computer. We do not use cookies to retrieve information that was not originally sent by us to you in a cookie.
+
+You can set your browser to accept or reject all cookies, or notify you when a cookie is sent.  If you reject cookies or delete our cookies, you may still use the Website, but may not have access to "account holder only" areas of it.
+
+III. HOW WE COLLECT AND HOLD PERSONAL INFORMATION
+
+Section 1 of the Collection Notice tells you how we collect Personal Information.
+
+Sky takes reasonable precautions to protect the personal information it holds from:  
+(a)  misuse, interference and loss; and  
+(b) unauthorised access, modification or disclosure
+
+These include: protection of passwords using industry standard encryption, measures to preserve system security and prevent unauthorised access, and back-up systems to prevent accidental or malicious loss of data.  Any paper copies are stored in locked cabinets or restricted access archive rooms.  Any identity documents or credit card information we collect will be stored in a secure database with limited access requiring a password or other unique identifier.
+
+We may use third party providers to store personal information electronically.  We take reasonable steps to ensure this information is held as securely as information stored on our own equipment.
+
+Unfortunately we cannot remove all risks involved in sending information through any channel over the Internet.  You send information over the Internet entirely at your own risk.
+
+IV. HOW WE USE AND DISCLOSE PERSONAL INFORMATION
+
+Sections 3 and 4 of the Collection Notice tell you the purposes for which we collect, hold, use and disclose personal information. Information about specific uses and disclosures is below.
+
+1. Service providers  
+We disclose personal information to external service providers that assist us to:  
+(a) electronically verify your identity (including online);  
+(b) provide, manage and administer our products and services (including mailing houses, printers, advertising agencies, postal services, call centres and market research analysts);  
+(c) develop and market our products and services;  
+(d) assess risks under the AML /CTF Act; and  
+(e) comply with Payment Card Industry Standards, and securely manage processing of your credit card payments and storage of your credit card details.
+
+2. Regulators/ industry bodies  
+We may disclose your personal information to:  
+(a) government authorities and law enforcement agencies;  
+(b) respond to an enquiry from a government agency under State or Federal laws (e.g. about child support);  
+(c) authorised sports controlling bodies (domestic and international);  
+(d) other organisations that coordinate a racing code or sport or are responsible for the integrity of a racing code or sport.  
+3. Related corporations  
+We may disclose personal information to our related bodies corporate, including:  
+• Tabcorp Holdings Limited;  
+• Tabcorp Wagering Manager (Vic) Pty Ltd;  
+• TAB Limited;  
+• Luxbet Pty Ltd; and  
+• other related bodies corporate as required from time to time,
+
+so they can:  
+(a) comply with the laws, regulations and licence conditions applying to them; and  
+(b) send you marketing information directly.  
+4. Marketing
+
+We also collect, hold, use and disclose your personal information for marketing purposes, in particular, to:  
+(a) let you know about upcoming events, promotions, and new products and services or other opportunities via direct mail, email, SMS, or MMS;  
+(b) enable our related bodies corporate to send you product and service information directly;  
+(c) identify your behaviour, habits and preferences; and  
+(d) send you product and service information on behalf of third parties.
+
+Each time you are sent a marketing communication, you will have the option of opting-out from future marketing communications.  You can also opt-out from future marketing communications at any time (email: privacy@tabcorp.com.au).  We will promptly action any opt-out request.
+
+V. HOW CAN I ACCESS AND CORRECT MY PERSONAL INFORMATION?
+
+We will take reasonable steps to ensure the personal information we hold about you is accurate, up-to-date and complete.  Please let us know if there's a change to any of the details you have provided to us.
+
+1. Access
+
+You have a right to ask for access to the personal information we hold about you.  Please contact the Privacy Officer at:  
+Tabcorp, GPO Box 4168, Sydney NSW 2001  
+Telephone: +61 2 9218 1000; e-mail:  privacy@tabcorp.com.au  
+Your personal information will usually be available within 30 days of your request.  If there is a fee for accessing your personal information, we will confirm the amount before providing the information.  
+We may not give access to your personal information if the APPs do not require us to (e.g. because it would have an unreasonable impact on the privacy of others).
+
+2. Corrections
+
+You have a right to ask us to correct the personal information we hold about you.  Please contact the Privacy Officer at:  
+Tabcorp, GPO Box 4168, Sydney NSW 2001  
+Telephone: +61 2 9218 1000; e-mail:  privacy@tabcorp.com.au  
+It is not always possible to remove or modify information in our databases, but we will take reasonable steps to correct your personal information so it is accurate, up-to-date, complete, relevant and not misleading.    
+If we decline to correct your personal information, you may request us to attach a statement that it is inaccurate, out-of-date, incomplete, irrelevant or misleading.   If we disclosed the information to a third party before correcting it, you may request us to notify the third party of the correction we've made.  
+We will not charge you for a correction request, for making a correction or for attaching a statement.  
+VI. MAKING COMPLAINTS
+
+If you have a concern about how we have handled your personal information, please let us know so we can fix the problem. You can contact us at:  
+Privacy Officer  
+Tabcorp, GPO Box 4168, Sydney NSW 2001  
+Telephone: +61 2 9218 1000; e-mail:  privacy@tabcorp.com.au
+
+To lodge a formal complaint, please send details to the Privacy Officer in writing.  We will respond within a reasonable time - usually 30 days.  
+If your complaint is not resolved by the Privacy Officer and concerns credit-related personal information, you may be able take it to an external dispute resolution scheme.  The Privacy Officer will give you details of the relevant scheme.  
+If your complaint is not resolved by our Privacy Officer or an external dispute resolution scheme, you can refer it to the Office of the Australian Information Commissioner. The contact details are:  
+Office of the Australian Information Commissioner  
+GPO Box 2999  
+Canberra ACT 2601, Australia  
+Phone: 1300 363 992  
+Fax: 02 9284 9666  
+www.oaic.gov.au  
+VII. DISCLOSURE OF PERSONAL INFORMATION OVERSEAS
+
+Currently we do not disclose your personal information to recipients located outside Australia.  We will only disclose personal information to an overseas recipient if:  
+(a) we've taken reasonable steps to ensure that recipient does not breach the APPs (other than APP 1); or  
+(b) we reasonably believe that:  
+• a law or scheme in the country of the recipient includes requirements that are substantially similar to the requirements of the APPs; and  
+• you can take action to enforce that law or scheme; or  
+(c)  we have informed you of the disclosure and we have your express consent; or  
+(d) the APPs otherwise allow it.  
+VIII. SENSITIVE INFORMATION  
+We won't collect sensitive information, such as your:  
+• racial or ethnic origins;  
+• political opinions;  
+• religious or philosophical beliefs;  
+• sexual preferences or practices;  
+• criminal records; or  
+• health information;  
+unless:  
+(a) you consent; or  
+(b) it is required or authorised by law .
+
+The AML / CTF Act may require us to collect sensitive information (for example, to verify your identity), and we may collect this from third parties.  The information will be stored securely in an AML / CTF Risk Register, and you will not have access to it.  You will not be informed that we have collected the sensitive information.  
+IX. HOW LONG CAN TABCORP KEEP MY PERSONAL INFORMATION?
+
+If Tabcorp:  
+• no longer needs to use or disclose your personal information for any purpose that is authorised under the APPs; and  
+• is not legally required to retain that information,  
+then it will take reasonable steps to destroy the personal information or ensure it is de-identified.
+
+Last updated: 12 March 2014
 
 #### Additional Privacy Information
 
