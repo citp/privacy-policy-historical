@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the argyllfreepress.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819042323id_/http%3A//argyllfreepress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argyllfreepress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125108id_/http%3A//argyllfreepress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Argyll Free Press
+# Privacy Argyll Free Press
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us using any of the methods listed on our contact page
 
