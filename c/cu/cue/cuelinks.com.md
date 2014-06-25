@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuelinks.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217183219id_/http%3A//www.cuelinks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuelinks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081215id_/http%3A//www.cuelinks.com/privacy_policy) for the most accurate reproduction.*
 
 # Cuelinks - A 2-minute Content Monetization Solution for your website.
 
@@ -81,7 +81,7 @@ Once the application is approved by Cuelinks, Cuelinks will provide the Publishe
 
 
 
-The Code will also drop a Skimlinks cookie when a User clicks an outbound link, so we can record anonymous information about the pages, links and Merchants visited by Users across our Publisher network. This will be used to optimise the service we provide, to deliver reporting and analytics to Publishers, so that the links we create/monetise are the products and Merchants that Users prefer.
+The Code will also drop a CueLinks cookie when a User clicks an outbound link, so we can record anonymous information about the pages, links and Merchants visited by Users across our Publisher network. This will be used to optimise the service we provide, to deliver reporting and analytics to Publishers, so that the links we create/monetise are the products and Merchants that Users prefer.
 
 Cuelinks is committed to protecting the privacy and the confidentiality of your Personal Information. Whenever Cuelinks obtains Personal Information from you, our Website uses commercially reasonable efforts and general industry standards to protect it from any unauthorized access or disclosure. Access to your Personal Information is limited to Cuelinks’ personnel and such authorized third parties who may host your data on our behalf or may assist us in providing the products and services requested by you. Cuelinks uses its best endeavours to maintain physical, electronic and procedural safeguards that aim to protect your information against loss, misuse, damage, modification, and unauthorized access or disclosure. However, Cuelinks assumes no liability whatsoever for any disclosure of Personal Information due to unauthorized third party access or other acts of third parties, or any other acts or omissions beyond reasonable control of Cuelinks.
 
