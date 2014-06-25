@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hitrader.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925100952id_/http%3A//hitrader.com/bottom/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitrader.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050530id_/http%3A//hitrader.com/bottom/privacypolicy) for the most accurate reproduction.*
 
-# Hitrader -- world-class trader’s community and new generation of wealth management platform
+# Hitrader -- World-class trader’s community and new generation of investment platform
 
   * ###### Personal Information 
 
