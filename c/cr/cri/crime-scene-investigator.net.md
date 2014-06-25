@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crime-scene-investigator.net privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124181624id_/http%3A//www.crime-scene-investigator.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crime-scene-investigator.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065032id_/http%3A//www.crime-scene-investigator.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,15 +7,7 @@
   
 
 
-[Click Here To Load This Formexperts.com Form](https://secure.blueoctane.net//forms/LHMQ72L75PAN)
-
-**Sign up now to receive our free monthly newsletter** featuring articles, news and new jobs available in Crime Scene Investigations. 
-
-[Privacy Statement  
-More about the newsletter](http://www.crime-scene-investigator.net/privacy.html)
-
-  
-
+**Sign up now to receive our free monthly newsletter** featuring articles, news and new jobs available in Crime Scene Investigations and Forensic Science. 
 
 ### Job Posting Alerts
 
@@ -102,3 +94,6 @@ Effective as of April 10, 2013
 
   
 Share this page
+
+  
+
