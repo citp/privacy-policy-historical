@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216144841id_/http%3A//quotewizard.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110931id_/http%3A//quotewizard.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | QuoteWizard Insurance Leads
 
-_This privacy policy was last updated on September 12th, 2013_
+_This privacy policy was last updated on May 12th, 2014_
 
 QuoteWizard is a service of  QuoteWizard.com LLC, which is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please re-visit this page occasionally to check for updates.
 
@@ -42,6 +42,8 @@ QuoteWizard.com LLC uses cookies to store contact information for each user. If 
 
 By submitting a quote request, you authorize  QuoteWizard.com LLC to provide your information to insurance agents, both local and national. You also authorize  QuoteWizard.com LLC to provide your information to one of our third party agent networks in the event that our primary agent network has few or no agents in your zip code. You authorize these agent networks to share your information with their vendors, suppliers, and insurance carriers in order to generate information for your quotes. By submitting a quote request, you acknowledge that  QuoteWizard.com LLC’ s service requires you to agree that our partner companies may obtain a consumer report or credit score from a consumer reporting agency (also known as a credit bureau) and that these partner companies do not have the right to obtain a consumer report or credit score without your written instruction which you are granting by clicking the submit button. Accordingly, by submitting a quote request you instruct consumer reporting agencies to provide a consumer report or credit score on you to these partner companies if requested within a reasonable date from the time you submit information to  QuoteWizard.com LLC. In the event that one of our partner companies obtains this credit information that partner company will not share this information with any other party, including insurance carriers, but insurance carriers may elect to obtain credit information on their own in connection with the quoting and underwriting of the requested insurance. Where permitted by law, some insurance companies or their agents may confirm your information, through the use of consumer reports, which may include credit score and driving record.
 
+By submitting a quote request, you also authorize  QuoteWizard.com LLC to provide the information submitted in the quote request to third party marketing partners so that they can market related products or services to you. If you do not want us to make your information available to these companies, you can [ **click here**](http://www.qw-unsub.com/unsub/unsub.form?id=1c4781e3a8f79b7ff6377e9474d852410d23e1ceee8c948da054b1aab0994ee0) to unsubscribe.
+
 ### How We Use This Information
 
 The information that is automatically collected by this web site allows  QuoteWizard.com LLC to further develop and improve the layout, design, and usability of the site, in order to better serve your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications.
@@ -57,8 +59,6 @@ In order to provide you with the most accurate quotes possible, insurance compan
 ### Your Rights—Our Obligations
 
 The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On occasion, we may use certain directory information that we collect from you to send you information, via direct mail or email, about products and services, or updates and other information that we think may be of interest to you. We may share this information with our insurance partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request that your name and address should be removed from our lists. **If you do not want to receive e-mails from us, please submit a request to have your e-mail address unsubscribed by[ clicking here](http://www.qw-unsub.com/unsub/unsub.form?id=1c4781e3a8f79b7ff6377e9474d852410d23e1ceee8c948da054b1aab0994ee0) .**
-
-Other than directory information, the data that you provide to us as you use the web site will be held in strict confidence by the company, and will be used for company purposes only.
 
 ### Our Security Measures
 
