@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vetassess.com.au privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209141553id_/http%3A//www.vetassess.com.au/privacy_disclaimer/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vetassess.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095348id_/http%3A//www.vetassess.com.au/privacy_disclaimer/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy - VETASSESS
 
@@ -66,10 +66,11 @@ VETASSESS uses cookies to understand usage of the Site and to improve the conten
 
 ## Contact details
 
-Please [contact us](https://web.archive.org/web/20131209141553id_/http%3A//www.vetassess.com.au/about_vetassess/contact_us.cfm) if you:
+Please [contact us](https://web.archive.org/web/20140625095348id_/http%3A//www.vetassess.com.au/about_vetassess/contact_us.cfm) if you:
 
   * have any questions about this policy
-  * would like to request access to the personal information that VETASSESS holds about you, or
+  * would like to request access to the personal information that VETASSESS holds about you
+  * believe we have not adhered to the principles outlined in this Privacy Policy, or
   * would like to request VETASSESS to update or correct the personal information it holds about you. 
 
 
