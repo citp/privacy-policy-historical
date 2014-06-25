@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the atlus.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205003726id_/http%3A//www.atlus.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlus.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112259id_/http%3A//www.atlus.com/privacypolicy.php) for the most accurate reproduction.*
 
 # :::: Atlus.com ::::
 
-|  |  **INDEX DIGITAL MEDIA, INC. Online Privacy Policy**  
+|  |  **Atlus U.S.A., Inc. Online Privacy Policy**  
 ---|---  
   
-At INDEX DIGITAL MEDIA, INC. (collectively, "ATLUS" or "we"), we are dedicated to protecting the privacy of those who visit us online. 
+At Atlus U.S.A., Inc. (collectively, "ATLUS" or "we"), we are dedicated to protecting the privacy of those who visit us online. 
 
 For your privacy, we do not collect or maintain data that personally identifies you without your consent. Also, we will never collect or maintain data that personally identifies children under 13 years of age without the consent of a parent or guardian. 
 
@@ -19,7 +19,7 @@ Websites covered by this Online Privacy Policy:
 [http://www.3ddotgameheroes.com](http://www.3ddotgameheroes.com/)   
 [http://www.gameofthrones-thegame.com](http://www.gameofthrones-thegame.com/)
 
-Additionally, ATLUS may own several other domain names that link to the addresses above. ATLUS may occasionally add new websites that are covered by our Online Privacy Policy, and we will make every effort to update this list in a timely manner. This Online Privacy Policy covers only websites administered by ATLUS, and not those of our Parent Company, INDEX CORPORATION, or any of its other international affiliates. This Online Privacy Policy does not cover information that is collected offline via postal mail or other forms of communication. 
+Additionally, ATLUS may own several other domain names that link to the addresses above. ATLUS may occasionally add new websites that are covered by our Online Privacy Policy, and we will make every effort to update this list in a timely manner. This Online Privacy Policy covers only websites administered by ATLUS, and not those of our Parent Company, ATLUS CO., LTD., or any of its other international affiliates. This Online Privacy Policy does not cover information that is collected offline via postal mail or other forms of communication. 
 
 _**What kind of information does ATLUS collect on its website, and how will it be used? **_
 
@@ -60,7 +60,7 @@ If you do not want to receive our ATLUS Faithful newsletter, you may simply decl
 If you have questions or are experiencing problems with opting out of contact from ATLUS, you may call us at (949) 788-0455 between the hours of 9:00 am and 5:30 pm Pacific Time, or contact us by postal mail at: Index Digital Media, Inc., 6400 Oak Canyon, Suite 100, Irvine, CA 92618. Please mark envelopes, "ATTN: Privacy Department." 
 
 _**Can I access my personal information? **_  
-Yes. If you would like to view or correct information that you previously submitted to ATLUS, you may access it by phone by calling us at (949) 788-0455 between the hours of 9:00 am and 5:30 pm Pacific Time, or by postal mail at: Index Digital Media, Inc., 6400 Oak Canyon, Suite 100, Irvine, CA 92618. Please mark envelopes, "ATTN: Privacy Department." 
+Yes. If you would like to view or correct information that you previously submitted to ATLUS, you may access it by phone by calling us at (949) 788-0455 between the hours of 9:00 am and 5:30 pm Pacific Time, or by postal mail at: Atlus U.S.A., Inc., 6400 Oak Canyon, Suite 100, Irvine, CA 92618. Please mark envelopes, "ATTN: Privacy Department." 
 
 _**There are links to other websites within ATLUS's websites. Does ATLUS's Online Privacy Policy apply to those sites? **_  
 No. While visiting ATLUS's websites, you may be directed to a third-party website for which we are not responsible. We cannot guarantee that those websites will guard your privacy to the same standard as ATLUS. Please read the privacy statement of any third-party website before you submit any personal information. 
@@ -78,14 +78,14 @@ _**Notice to parents regarding third-party websites **_
 ATLUS's websites may contain links to third-party websites, such as game retailer and game-related media websites. Please be aware that ATLUS is not responsible for the content of such websites, nor does our Online Privacy Policy cover those websites. For your peace of mind and your children's safety, please supervise your children when they are browsing the web, and always read the privacy policy of any third-party website. 
 
 _**How can I review information that my child has submitted on ATLUS's websites? **_  
-You may review or request to have deleted any information your child has submitted to us. You may also request that we not collect any personal information about your child in the future. To do this, send a written request including your child's e-mail address for verification to Index Digital Media, Inc., 6400 Oak Canyon, Suite 100, Irvine, CA 92618. Please mark your envelope, "ATTN: Children's Online Privacy." 
+You may review or request to have deleted any information your child has submitted to us. You may also request that we not collect any personal information about your child in the future. To do this, send a written request including your child's e-mail address for verification to Atlus U.S.A., Inc., 6400 Oak Canyon, Suite 100, Irvine, CA 92618. Please mark your envelope, "ATTN: Children's Online Privacy." 
 
 _**What if I have a question or complaint? **_  
-Feel free to write us at Index Digital Media, Inc., 6400 Oak Canyon, Suite 100, Irvine, CA 92618. Mark envelopes, "ATTN: Privacy Department." 
+Feel free to write us at Atlus U.S.A., Inc., 6400 Oak Canyon, Suite 100, Irvine, CA 92618. Mark envelopes, "ATTN: Privacy Department." 
 
 You may also call us at (949) 788-0455 between the hours of 9:00 am and 5:30 pm Pacific Time. Ask to speak with a Customer Service Representative and please state the nature of the call. 
 
 By using this site, you signify your assent to the ATLUS Online Privacy Policy. If you do not agree to this policy, please do not use any ATLUS websites. We reserve the right to make changes to this policy at any time. Please check the policy each time you use our web site to ensure you are aware of any changes in our privacy practices. Our privacy policy will indicate the date it was last updated. 
 
-_**Last updated: 11/12/2013 **_  
+_**Last updated: 04/03/2014 **_  
 
