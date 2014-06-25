@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupondivas.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825040145id_/http%3A//coupondivas.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondivas.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060132id_/http%3A//coupondivas.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,4 +21,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding the privacy policy of CouponDivas.com then you may contact us at kitty@coupondivas.com 
+If you have any questions regarding the privacy policy of CouponDivas.com then you may also feel free to contact us at: editor@coupondivas.com 
