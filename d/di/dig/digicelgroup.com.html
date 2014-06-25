@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the digicelgroup.com privacy policy that was archived on 2013-10-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131003000859id_/http%3A//www.digicelgroup.com/en/help_faqs/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digicelgroup.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625082429id_/http%3A//www.digicelgroup.com/en/help_faqs/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 		
@@ -32,7 +31,7 @@
 	
   <!--<script src="/assets/js/AC_RunActiveContent.js" type="text/javascript"></script>-->
 	
-  <script type="text/javascript" src="/assets/js/search.js"></script>
+  <!--<script type="text/javascript" src="/assets/js/search.js"></script>-->
   
   <!--<script type="text/javascript" src="/assets/js/jquery.min.js"></script>-->
   
@@ -141,6 +140,7 @@ function hideAdvert() {
       jq2(document).ready(function () {
      
     		jq2(".datacalc").fancybox({
+    		  'type' : 'swf',
     			'width'           	: 750,
     			'height'            : 550,
     			'padding'           : 10,
@@ -175,6 +175,9 @@ function hideAdvert() {
        
         var displayCount = getCookie("flange");
         
+      jq_flange('#flange_v2').hide();
+      displayCount = 2;
+      flangeToBeShown = false;     
          
         
         if(!splashToBeDisplayed) {
@@ -270,8 +273,10 @@ function hideAdvert() {
 
             <a id="logo" href="http://www.digicelgroup.com/en/" title="Digicel Home"><img src="/assets/img/GRP/top_logo.gif" alt="Digicel Home"></a>
             
-                       
+            		   
+		              
    
+
 
   
 
@@ -281,7 +286,9 @@ function hideAdvert() {
 				
         
            <!-- start locate -->
-               <div id="locate">
+           
+           
+               <div id="locate" style="">
                     <!-- start locate navigation -->
                         <div id="locate_navigation">
                             <!-- top small links -->
@@ -294,8 +301,8 @@ function hideAdvert() {
                         </div>
                     <!-- end locate navigation -->
                     
-                    					<form id="search" action="http://www.digicelgroup.com/en/search/" method="post"><input type="text" id="search_value" name="search_value" value="Search Digicel..." onfocus="hide_value(this)"><input type="submit" id="search_button" name="search_button" value=""></form>
-                        						                                        <ul id="retailer">
+
+					                                        <ul id="retailer">
                         <li><a class="init" href="#">Select a Market...</a>
 								
 
@@ -388,7 +395,7 @@ function hideAdvert() {
                                           Jamaica                                        </a>                                        
                                         
 							                                         
-                                        <a style="background:url(/assets/img/GRP/markets/mmr.gif) center left no-repeat; display:block;border:none;height:auto;width:auto;padding:3px 0 3px 23px; margin:0 0 0 10px;" href="http://www.digicelmyanmar.com" title="Myanmar">
+                                        <a style="background:url(/assets/img/GRP/markets/mmr.gif) center left no-repeat; display:block;border:none;height:auto;width:auto;padding:3px 0 3px 23px; margin:0 0 0 10px;" href="http://www.digicelmyanmar.com_OFF" title="Myanmar">
                                           Myanmar                                        </a>                                        
                                         
 							                                         
@@ -450,8 +457,12 @@ function hideAdvert() {
                                <!--<li class="bottom">&nbsp;</li>-->
 </ul>
                         </li>
-                    </ul>								
-								
+                    </ul>		
+
+
+					
+
+
 
                                         
                     
@@ -485,13 +496,12 @@ function hideAdvert() {
 <li id="nav_3">
 <a href="http://www.digicelgroup.com/en/services" title="Services">Services</a><ul>
 <li><a href="http://www.digicelgroup.com/en/services/digicel-online-top-up" title="Digicel Online Top Up"> Digicel Online Top Up</a></li>
-<li><a href="http://www.digicelgroup.com/en/services/digicel-live" title="Digicel Live" class="parent">Digicel Live</a><ul>
-<li><a href="http://www.digicelgroup.com/en/services/digicel-live/gprs-settings" title="GPRS settings"> GPRS settings</a></li>
+<li><a href="http://www.digicelgroup.com/en/services/roaming" title="Roaming"> Roaming</a></li>
+<li><a href="http://www.digicelgroup.com/en/wireless-broadband" title="Wireless Broadband" class="parent">4G and LTE</a><ul>
+<li><a href="http://www.digicelgroup.com/en/wireless-broadband/data-calculator" title="Data Calculator"> Data Calculator</a></li>
 </ul>
 </li>
-<li><a href="http://www.digicelgroup.com/en/services/roaming" title="Roaming"> Roaming</a></li>
-<li><a href="http://www.digicelgroup.com/en/wireless-broadband" title="Wireless Broadband"> Wireless Broadband</a></li>
-<li><a href="http://www.digicelbusiness.com/" title="Business Services"> Business Services</a></li>
+<li><a href="http://www.digicelgroup.com/en/services/business-services" title="Business Services"> Business Services</a></li>
 </ul>
 </li>
 <li id="nav_4">
@@ -501,6 +511,7 @@ function hideAdvert() {
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements" title="Achievements" class="parent">Achievements</a><ul>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicels-tchotcho-mobile-reaches-the-5-million-transactions-milestone-monitored-by-haiti-mobile-money-initiat" title="DIGICEL’S TCHOTCHO MOBILE REACHES THE 5 MILLION TRANSACTIONS MILESTONE MONITORED BY “HAITI MOBILE MONEY INITIATIVE” (HMMI)"> DIGICEL’S TCHOTCHO MOBILE REACHES THE 5 MILLION TRANSACTIONS MILESTONE MONITORED BY “HAITI MOBILE MONEY INITIATIVE” (HMMI)</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/students-in-antigua-receive-tablets-thanks-to-digicel" title="-	Students set to benefit from ‘e-learning’ platform with tablets as part of the GATE Project"> STUDENTS IN ANTIGUA RECEIVE TABLETS THANKS TO DIGICEL</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-drives-best-value-for-roamers" title="Dispenses with roaming rates across the Caribbean and US"> DIGICEL DRIVES BEST VALUE FOR ROAMERS</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-leads-project-to-deliver-high-capacity-undersea-cable-to-haiti" title="- US$16m ‘Fibralink’ Extension will Reconnect Haiti to the Global Economy through Broadband Services from July 2012"> DIGICEL LEADS PROJECT TO DELIVER HIGH-CAPACITY UNDERSEA CABLE TO HAITI</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-group-acquires-voil-in-haiti" title="Digicel Group, the best value mobile operator in the Caribbean, Central America and Pacific, has acquired Haitian mobile operator, Voilà,"> DIGICEL GROUP ACQUIRES VOILÀ IN HAITI</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-group-limited-annnounces-strong-financial-results-with-us1.1-billion-ebitda-for-the-year-ended-31-mar" title="US$1.1 BILLION EBITDA FOR THE YEAR ENDED 31 MARCH 2012"> DIGICEL GROUP LIMITED ANNNOUNCES STRONG FINANCIAL RESULTS WITH  US$1.1 BILLION EBITDA FOR THE YEAR ENDED 31 MARCH 2012</a></li>
@@ -512,30 +523,43 @@ function hideAdvert() {
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-achieves-cisco-gold-certification-in-the-caribbean-panama-and-el-salvador" title="DIGICEL ACHIEVES CISCO GOLD CERTIFICATION IN THE CARIBBEAN, PANAMA AND EL SALVADOR"> DIGICEL ACHIEVES CISCO GOLD CERTIFICATION IN THE CARIBBEAN, PANAMA AND EL SALVADOR</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-makes-major-investment-in-caribbean-premier-league" title="DIGICEL MAKES MAJOR INVESTMENT IN CARIBBEAN PREMIER LEAGUE"> DIGICEL MAKES MAJOR INVESTMENT IN CARIBBEAN PREMIER LEAGUE</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-group-wins-big-at-the-global-telecoms-business-innovation-awards-2013" title="“Best Consumer Innovation Award” plus “Outstanding Achievement Award” for Denis O’Brien"> DIGICEL GROUP WINS BIG AT THE GLOBAL TELECOMS BUSINESS INNOVATION AWARDS 2013</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-group-is-honoured-twice-at-the-world-communication-awards" title="DIGICEL GROUP IS HONOURED TWICE AT THE WORLD COMMUNICATION AWARDS"> DIGICEL GROUP IS HONOURED TWICE AT THE WORLD COMMUNICATION AWARDS</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-group-records-8-revenue-growth-in-its-full-year-results" title="Reported ongoing strong financial performance for the year ended 31 March 2013."> DIGICEL GROUP RECORDS 8% REVENUE GROWTH IN ITS FULL YEAR RESULTS</a></li>
-<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-drives-best-value-for-roamers" title="Dispenses with roaming rates across the Caribbean and US"> DIGICEL DRIVES BEST VALUE FOR ROAMERS</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/nrg-energy-and-digicel-partner-to-bring-renewable-affordable-and-reliable-electricity-to-the-people-of-the-ca" title="NRG ENERGY AND DIGICEL PARTNER TO BRING RENEWABLE, AFFORDABLE AND RELIABLE ELECTRICITY TO THE PEOPLE OF THE CARIBBEAN"> NRG ENERGY AND DIGICEL PARTNER TO BRING RENEWABLE, AFFORDABLE AND RELIABLE ELECTRICITY TO THE PEOPLE OF THE CARIBBEAN</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/papua-new-guineas-mining-provinces-to-benefit-from-digicel-and-government-partnership" title="MOU signed in Antigua and Barbuda to bring ICT programmes to PNG’s New Ireland and Enga provinces"> PAPUA NEW GUINEA’S MINING PROVINCES TO BENEFIT FROM DIGICEL AND GOVERNMENT PARTNERSHIP</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-wins-the-corporate-citizens-of-the-americas-award-for-its-education-work-in-haiti" title="DIGICEL WINS THE CORPORATE CITIZENS OF THE AMERICAS AWARD FOR ITS EDUCATION WORK IN HAITI"> DIGICEL WINS THE CORPORATE CITIZENS OF THE AMERICAS AWARD FOR ITS EDUCATION WORK IN HAITI</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-group-and-ysh-finance-sign-agreement-with-ooredoo-myanmar" title="DIGICEL GROUP AND YSH FINANCE SIGN AGREEMENT WITH OOREDOO MYANMAR"> DIGICEL GROUP AND YSH FINANCE SIGN AGREEMENT WITH OOREDOO MYANMAR</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-wins-top-prize-at-the-caribbean-advertising-federation-american-advertising-awards" title="DIGICEL WINS TOP PRIZE AT THE CARIBBEAN ADVERTISING FEDERATION AMERICAN ADVERTISING AWARDS"> DIGICEL WINS TOP PRIZE AT THE CARIBBEAN ADVERTISING FEDERATION AMERICAN ADVERTISING AWARDS</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/achievements/digicel-business-keeps-listeners-in-the-mix" title="DIGICEL BUSINESS KEEPS LISTENERS IN THE MIX"> DIGICEL BUSINESS KEEPS LISTENERS IN THE MIX</a></li>
 </ul>
 </li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/products-services" title="Products &amp; Services" class="parent">Products &amp; Services</a><ul>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/products-services/digicel-set-to-reward-thousands-of-lucky-online-customers" title="-	US$20,000 worth in prizes to be shared among the first 4,000 customers to top up online"> DIGICEL SET TO REWARD THOUSANDS OF LUCKY ONLINE CUSTOMERS</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/products-services/digicel-business-introduces-new-cloud-solutions-portfolio" title="-       Digicel Desktop as a Service and Mobile Device Management powered by Citrix"> DIGICEL BUSINESS INTRODUCES NEW CLOUD SOLUTIONS PORTFOLIO</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/products-services/digicel-launches-blackberry-z10-smartphone-powered-by-blackberry-10" title="DIGICEL LAUNCHES BLACKBERRY Z10 SMARTPHONE POWERED BY BLACKBERRY 10"> DIGICEL LAUNCHES BLACKBERRY Z10 SMARTPHONE POWERED BY BLACKBERRY 10</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/products-services/digicel-launches-the-new-blackberry-q10-smartphone-in-the-caribbean-el-salvador-and-panama" title="-	The power of BlackBerry 10 with a Classic BlackBerry Keyboard"> DIGICEL LAUNCHES THE NEW BLACKBERRY Q10 SMARTPHONE IN THE CARIBBEAN, EL SALVADOR AND PANAMA</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/products-services/digicels-tchotcho-mobile-migrates-to-utibas-mobility-platform-represents-the-first-completed-implementat" title="Digicel’s TchoTcho Mobile Migrates to Utiba’s Mobility Platform; Represents the First Completed Implementation of Digicel’s Multi-Country Migration"> Digicel’s TchoTcho Mobile Migrates to Utiba’s Mobility Platform; Represents the First Completed Implementation of Digicel’s Multi-Country Migration</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/products-services/digicel-business-recognised-by-cisco-for-excellence-in-customer-satisfaction-in-the-caribbean-panama-and" title="DIGICEL BUSINESS RECOGNISED BY CISCO FOR EXCELLENCE IN CUSTOMER SATISFACTION IN THE CARIBBEAN, PANAMA AND EL SALVADOR"> DIGICEL BUSINESS RECOGNISED BY CISCO FOR EXCELLENCE IN CUSTOMER SATISFACTION IN THE CARIBBEAN, PANAMA AND EL SALVADOR</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/products-services/digicel-launches-the-new-youthful-and-fun-blackberry-10-qwerty-smartphone-the-blackberry-q5-in-the-carib" title="DIGICEL LAUNCHES THE NEW YOUTHFUL AND FUN BLACKBERRY 10 QWERTY SMARTPHONE, THE BLACKBERRY Q5, IN THE CARIBBEAN AND PANAMA"> DIGICEL LAUNCHES THE NEW YOUTHFUL AND FUN BLACKBERRY 10 QWERTY SMARTPHONE, THE BLACKBERRY Q5, IN THE CARIBBEAN AND PANAMA</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/products-services/digicel-brightens-your-christmas-sweepstakes-official-rules" title="“DIGICEL BRIGHTENS YOUR CHRISTMAS” SWEEPSTAKES"> “DIGICEL BRIGHTENS YOUR CHRISTMAS” SWEEPSTAKES  OFFICIAL RULES</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/products-services/digicel-set-to-brighten-christmas-for-diaspora-customers" title="DIGICEL SET TO BRIGHTEN CHRISTMAS FOR DIASPORA CUSTOMERS"> DIGICEL SET TO BRIGHTEN CHRISTMAS FOR DIASPORA CUSTOMERS</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/products-services/digicel-business-named-microsoft-strategic-services-provider" title="Only provider in the region with the accolade"> DIGICEL BUSINESS NAMED MICROSOFT STRATEGIC SERVICES PROVIDER</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/products-services/m-via-pioneer-in-mobile-banking-for-the-unbanked-raises-17-million-changes-name-to-boom-financial" title="New Investor Digicel Group Bolsters Boom Financial’s Position as the Premier Mobile Banking and Money Transfer Service for U.S. Immigrants"> m-Via, Pioneer in Mobile Banking for the Unbanked, Raises $17 Million; Changes Name to Boom Financial</a></li>
 </ul>
 </li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship" title="Sponsorship" class="parent">Sponsorship</a><ul>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/usain-bolt-speaks-with-digicel-the-worlds-fastest-man-tells-digicel-what-the-world-can-expect-from-him-hours-b" title="USAIN BOLT SPEAKS WITH DIGICEL"> USAIN BOLT SPEAKS WITH DIGICEL</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/shelly-ann-fraser-pryce-live-from-london" title="SHELLY-ANN FRASER-PRYCE LIVE FROM LONDON"> SHELLY-ANN FRASER-PRYCE LIVE FROM LONDON</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/haitian-footballers-dubbed-the-backbone-of-the-digicel-academy-team" title="-	Haitian boys set to better the performance of last year’s players at the Digicel Academy"> HAITIAN FOOTBALLERS DUBBED “THE BACKBONE” OF THE DIGICEL ACADEMY TEAM</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/digicel-kick-start-programme-launches-in-jamaica" title="-	Chelsea FC Foundation coaches to train the best footballing talent in the Caribbean and Central America"> DIGICEL KICK START PROGRAMME LAUNCHES IN JAMAICA</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/digicel-launches-youth-initiative-with-chelsea-football-club" title="DIGICEL LAUNCHES YOUTH INITIATIVE WITH CHELSEA FOOTBALL CLUB"> DIGICEL LAUNCHES YOUTH INITIATIVE WITH CHELSEA FOOTBALL CLUB</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/the-2013-digicel-kick-start-clinics-launch-in-trinidad" title="-	Chelsea FC Foundation coaches will lead the search for the region’s top footballing talent"> THE 2013 DIGICEL KICK START CLINICS LAUNCH IN TRINIDAD</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/digicel-announced-as-major-sponsor-for-caribbean-premier-league" title="DIGICEL ANNOUNCED AS MAJOR SPONSOR FOR CARIBBEAN PREMIER LEAGUE"> Digicel Announced as Major Sponsor for Caribbean Premier League</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/chelsea-fc-coaches-bring-smiles-to-dozens-of-aspiring-young-footballers-in-haiti" title="-	Chelsea FC Foundation Coach, David Monk, says “experience was inspiring”"> CHELSEA FC COACHES BRING SMILES TO DOZENS OF ASPIRING YOUNG FOOTBALLERS IN HAITI</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/digicel-announces-renewed-sponsorship-of-west-indies-cricket" title="DIGICEL ANNOUNCES RENEWED SPONSORSHIP OF WEST INDIES CRICKET"> DIGICEL ANNOUNCES RENEWED SPONSORSHIP OF WEST INDIES CRICKET</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/haiti-football-scores-big-with-digicel-support-for-spain-game" title="-	National team to take on World and European Champions in International friendly"> HAITI FOOTBALL SCORES BIG WITH DIGICEL SUPPORT FOR SPAIN GAME</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/digicel-kick-start-clinics-off-to-a-great-start" title="-	Chelsea FC Foundation coaches pick Jamaica’s top three players who will attend the Digicel Academy"> DIGICEL KICK START CLINICS OFF TO A GREAT START</a></li>
+<li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/the-digicel-kick-start-clinics-helping-to-develop-regional-football" title="David Monk speaks on the growth of the programme thus far"> THE DIGICEL KICK START CLINICS HELPING TO DEVELOP REGIONAL FOOTBALL</a></li>
 <li><a href="http://www.digicelgroup.com/en/media-center/press-releases/sponsorship/digicel-launches-unprecedented-marketing-campaign-inviting-customers-to-feature-in-tv-and-press-ads-alongside-" title="Customers invited to join Usain Bolt in “The Run To London”"> DIGICEL LAUNCHES UNPRECEDENTED MARKETING CAMPAIGN INVITING CUSTOMERS TO FEATURE IN TV AND PRESS ADS ALONGSIDE USAIN BOLT</a></li>
 </ul>
 </li>
@@ -546,7 +570,6 @@ function hideAdvert() {
 </li>
 <li id="nav_5">
 <a href="http://www.digicelgroup.com/en/digicel-in-the-community" title="Digicel in the Community">Digicel in the Community</a><ul>
-<li><a href="http://www.digicelgroup.com/en/digicel-in-the-community/haiti-relief-fund" title="Haiti Relief Fund"> Haiti Relief Fund</a></li>
 <li><a href="http://www.digicelgroup.com/en/digicel-in-the-community/digicel-foundation" title="Digicel Foundation"> Digicel Foundation</a></li>
 <li><a href="http://www.digicelgroup.com/en/digicel-in-the-community/hurricane-preparedness" title="Hurricane Preparedness"> Hurricane Preparedness</a></li>
 <li><a href="http://www.digicelgroup.com/en/digicel-in-the-community/driving-mobile-phones" title="Driving &amp; Mobile Phones"> Driving &amp; Mobile Phones</a></li>
@@ -566,7 +589,7 @@ function hideAdvert() {
               
               
               
-                						<li><a href="http://www.digicelgroup.com/en/media-center" title="Latest News" target="">Latest News</a></li>												<li><a href="http://www.digicelgroup.com/en/about" title="About Us" target="">About Us</a></li>												<li><a href="http://www.digicelgroup.com/en/digicel-in-the-community" title="In the Community" target="">In the Community</a></li>										<li><a href="http://gogreen.digicelgroup.com/en/gogreen/group">Go Green</a></li>				
+                						<li><a href="http://www.digicelgroup.com/en/media-center" title="Latest News" target="">Latest News</a></li>												<li><a href="http://www.digicelgroup.com/en/about" title="About Us" target="">About Us</a></li>												<li><a href="http://www.digicelgroup.com/en/digicel-in-the-community" title="In the Community" target="">In the Community</a></li>										<li><a href="http://gogreen.digicelgroup.com/en/group">Go Green</a></li>				
 				                
                 
                 
@@ -597,6 +620,7 @@ function hideAdvert() {
 		  <!-- start sidenav -->            
 			<!-- start sidenav -->
 				<ul id="internal_menu" class="heading_right_2" style="background-image:url(/assets/img/GRP/page_headers/internal_heading_right_1.jpg );">
+				
 
 				
 				
@@ -613,12 +637,14 @@ function hideAdvert() {
 <!-- BEGIN Custom Foundation Projects & News Subnav -->
 					
 
-<!-- END Custom Foundation Projects & News Subnav -->					
+<!-- END Custom Foundation Projects & News Subnav -->
+
+									
+   
 					
                 </ul>
-
-				
-                
+  
+             
 
 				
 <!-- end sidenav -->   
@@ -736,7 +762,14 @@ Digicel reserves the right to amend or modify this Privacy Policy Statement at a
         <!-- footer -->
             <div id="footer">
                 <div id="footer_navigation">
-                    <a href="http://www.digicelgroup.com/en/sitemap" title="Site Map" target="">Site Map</a>&nbsp;<a href="http://www.digicelgroup.com/en/media-pr-contact" title="Media Contact" target="">Media Contact</a>&nbsp;<a href="http://www.digicelpacific.com" title="Digicel Pacific" target="">Digicel Pacific</a>&nbsp;<a href="http://www.digicelgroup.com/en/help_faqs/privacy" title="Privacy Policy" target="">Privacy Policy</a>&nbsp;<a href="http://www.digicelfootball.com" title="Digicel Football" target="">Digicel Football</a>&nbsp;<a href="http://www.digicelcricket.com" title="Digicel Cricket" target="">Digicel Cricket</a>&nbsp;<a href="http://www.digicelfoundation.org" title="Digicel Foundation" target="">Digicel Foundation</a>&nbsp;<a href="http://www.caribbeanjobs.com" title="Caribbean Jobs" target="">Caribbean Jobs</a>&nbsp;                </div>
+                
+                
+                
+                
+                    <a href="http://www.digicelgroup.com/en/sitemap" title="Site Map" target="">Site Map</a>&nbsp;<a href="http://www.digicelgroup.com/en/media-pr-contact" title="Media Contact" target="">Media Contact</a>&nbsp;<a href="http://www.digicelpacific.com" title="Digicel Pacific" target="">Digicel Pacific</a>&nbsp;<a href="http://www.digicelgroup.com/en/help_faqs/privacy" title="Privacy Policy" target="">Privacy Policy</a>&nbsp;<a href="http://www.digicelcricket.com" title="Digicel Cricket" target="">Digicel Cricket</a>&nbsp;<a href="http://www.digicelfoundation.org" title="Digicel Foundation" target="">Digicel Foundation</a>&nbsp;<a href="http://www.caribbeanjobs.com" title="Caribbean Jobs" target="">Caribbean Jobs</a>&nbsp;          
+          
+          
+                </div>
                 
                 © Digicel. All Rights Reserved.            </div>
         <!-- end footer -->
@@ -790,6 +823,6 @@ Digicel reserves the right to amend or modify this Privacy Policy Statement at a
         }catch(err){}
   }
   </script>  
-			
+<!-- cached on:Wednesday 25th of June 2014 03:38:29 AM -->
 
-<div id="lbOverlay" style="visibility: hidden; zoom: 1; opacity: 0;"></div><div id="lbCenter" style="width: 250px; height: 250px; margin-left: -125px; display: none;"><div id="lbImage"><a id="lbPrevLink" href="#" style="display: none;"></a><a id="lbNextLink" href="#" style="display: none;"></a></div></div><div id="lbBottomContainer" style="display: none;"><div id="lbBottom"><a id="lbCloseLink" href="#"></a><div id="lbCaption"></div><div id="lbNumber"></div><div style="clear: both;"></div></div></div></body></html>
+<!--2014-06-25 3:38:29--><div id="lbOverlay" style="visibility: hidden; zoom: 1; opacity: 0;"></div><div id="lbCenter" style="width: 250px; height: 250px; margin-left: -125px; display: none;"><div id="lbImage"><a id="lbPrevLink" href="#" style="display: none;"></a><a id="lbNextLink" href="#" style="display: none;"></a></div></div><div id="lbBottomContainer" style="display: none;"><div id="lbBottom"><a id="lbCloseLink" href="#"></a><div id="lbCaption"></div><div id="lbNumber"></div><div style="clear: both;"></div></div></div></body></html>
