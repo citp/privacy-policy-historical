@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raileasy.co.uk privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113094249id_/http%3A//www.raileasy.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raileasy.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111645id_/http%3A//www.raileasy.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -78,10 +78,10 @@ Raileasy operates an 'implied consent' policy which means that we assume you are
 
 ### Top Savings Tips
 
-  1. **1\. Book Early** \- Cheap fares are available up to 12 weeks in advance
-  2.  **2\. Avoid Travelling in Rush Hour** -Off peak is cheaper!
-  3.  **3\. Use Raileasy** -Raileasy's smart booking engine will always default to the cheapest
-  4.  **4\. Select 'Overtaken' Trains** -If you don't mind travelling for longer for cheaper
+  1. **1\. Book Early** \- [**Cheap train tickets**](https://web.archive.org/cheap-train-tickets2) are available up to 12 weeks in advance.
+  2.  **2\. Avoid Travelling in Rush Hour** -[ **Off peak**](https://web.archive.org/making-a-booking/fares-explained) train tickets are cheaper!
+  3.  **3\. Split Your Train Tickets** \- [**Split ticketing**](https://web.archive.org/home/split-ticketing), where the journey is broken down into smaller sections could save you a small fortune on the cost of train travel. Try it [**here**](http://www.raileasy.splitticketing.com/)
+  4.  **4\. Cheapest fare Finder** -Our **[cheapest](https://web.archive.org/home/cheapest-fare-finder) [fare finder](https://web.archive.org/home/cheapest-fare-finder)** searches a wider time frame to locate cheaper rail tickets throughout the day.
 
 
 
@@ -90,7 +90,7 @@ Raileasy operates an 'implied consent' policy which means that we assume you are
 
 ### Find a Cheaper Fare
 
-If you book with us then find a cheaper fare becomes available for the exact same journey on Raileasy we will refund the original **FREE OF CHARGE** when you re-book
+If you book with us then find a cheaper fare becomes available for the exact same journey on Raileasy we will refund the original **FREE OF CHARGE** when you re-book as part of our **BEST FARE GUARANTEE**
 
   
 
