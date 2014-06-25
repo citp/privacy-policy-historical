@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anyperk.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808073451id_/https%3A//anyperk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyperk.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232050id_/https%3A//anyperk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of AnyPerk | AnyPerk
 
@@ -37,4 +37,4 @@ AnyPerk may periodically update this policy. We will notify you about significan
 
 ## Questions
 
-Any questions about this Privacy Policy should be addressed to support [ at ] anyperk.com or by mail at: AnyPerk, Inc, 442 Post Street, 8th Floor, San Francisco 94102, CA
+Any questions about this Privacy Policy should be addressed to support [ at ] anyperk.com or by mail at: AnyPerk, Inc, 33 New Montgomery St., Ste. 700, San Francisco, CA 94105
