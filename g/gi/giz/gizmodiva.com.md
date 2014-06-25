@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926123334id_/http%3A//gizmodiva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044139id_/http%3A//gizmodiva.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Gadgets, fashion and tech for women – Gizmodiva
 
 User Information
 
@@ -59,3 +59,5 @@ By using the website, you signify your agreement to the terms of our Privacy Pol
 Contact Us
 
 If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact dhiram [at] gizmodiva.com.
+
+* * *
