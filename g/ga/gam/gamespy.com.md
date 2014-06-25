@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gamespy.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224004844id_/http%3A//corp.ign.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamespy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625162841id_/http%3A//corp.ign.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IGN Entertainment
 
-Updated August 2013
+Updated June 2014
 
-## Ziff Davis, Inc. Privacy Policy
+## Ziff Davis, LLC. Privacy Policy
 
-**Ziff Davis, Inc. Privacy Policy**
+**Ziff Davis, LLC. Privacy Policy**
 
 This Privacy Policy describes what information Ziff Davis and certain third parties gather, how we collect it, our information sharing practices, how users may change the way their information is collected and more.
 
@@ -38,7 +38,7 @@ _Web Beacons_ are electronic files that allow a web site to count users who have
 
 _Cookies_ are small text files that are placed on your hard disk by a Web page server. Cookies contain information that can later be read by a Web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. Like many other web sites, Ziff Davis sites use cookies to enable you to sign in to our services and to help personalize your online experience. We may use a cookie to identify members so they do not have to re-enter a user ID and password when they wish to download a utility, post to a discussion, or sign into an account. As another example, cookies can be used to control the number of times you see advertisements, like pop-ups. By allowing us to better understand how users interact with the site over time, cookies can also help us improve your experience and deliver more relevant content to you. Cookies may be created directly by our sites for these purposes, or by third-party companies operating on our behalf.
 
-_Pixel Tags,_ also known as clear gifs, beacons, spotlight tags or web bugs, are a method for passing information from the user's computer to a third party Web site. Used in conjunction with cookies, Ziff Davis may use pixel tags to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns. Pixel tags are also used as a supplement to our server logs and other methods of traffic and response measurement, and are sometimes used in conjunction with small Javascript-based applications. We may also implement pixel tags provided by other companies for the same purpose. We use clear gifs in our HTML based emails to let us know which emails have been opened by recipients.
+_Pixel Tags_ , also known as clear gifs, beacons, spotlight tags or web bugs, are a method for passing information from the user's computer to a third party Web site. Used in conjunction with cookies, Ziff Davis may use pixel tags to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns. Pixel tags are also used as a supplement to our server logs and other methods of traffic and response measurement, and are sometimes used in conjunction with small Javascript-based applications. We may also implement pixel tags provided by other companies for the same purpose. We use clear gifs in our HTML based emails to let us know which emails have been opened by recipients.
 
 You need not have cookies turned on to visit all of our sites, though cookies may be required in order for you to participate in certain areas. If you choose to become a member of certain Ziff Davis websites, you must have cookies enabled to access any member related pages (i.e., Discussion Boards, Member Profile pages, Search for a Member).
 
@@ -48,13 +48,13 @@ _Third Parties._ To improve the quality of the some of our services, we may supp
 
 **What We Provide to Third Parties:**
 
-_Statistical Reports and Mailing Lists_ The aggregate statistics that describe our online audience, which are often based on the information you provide when you subscribe, register, or browse our sites, help us sell advertising and otherwise publicize Ziff Davis and our brands. In addition, we make certain information such as the name of our users, their mailing address, phone number, email addresses, and – in certain circumstances – their employer's name, company size and other industry data available on a rental or other basis (e.g. sale) to third party providers of goods and services. To learn how you can make choices about how this information is used or shared, please visit the How You Can Change or Control What is Collected section below.
+_Statistical Reports and Mailing Lists_ The aggregate statistics that describe our online audience, which are often based on the information you provide when you subscribe, register, or browse our sites, help us sell advertising and otherwise publicize Ziff Davis and our brands. In addition, we make certain information such as the name of our users, their mailing address, phone number, email addresses, and - in certain circumstances - their employer's name, company size and other industry data (when voluntarily submitted by the user) available on a rental or other basis (e.g. sale) to third party providers of goods and services. To learn how you can make choices about how this information is used or shared, please visit the How You Can Change or Control what is Collected section below.
 
 _Email Deployment, Data Analysis E-Commerce and Other Services_ We provide customer lists, email addresses and other information to third party companies and contractors who provide us with specialized services, such as email message deployment, merge-purge (identifying and removing duplicate addresses), subscription fulfillment, and customer support and service, research, statistical analysis, data and website hosting and other data and transaction processing. These companies work on our behalf and we do not provide our lists or other data to them for their own, permanent use. Those service providers will be permitted to obtain only the personal information they need to deliver the service. They should also maintain the confidentiality of the information and are prohibited from using it for any other purpose.
 
 Please note that we engage third party service providers for the purpose of processing sales of subscriptions, to fulfill your orders for product purchases, to honor your request to be removed from promotional mailings, or other services. These service providers have access to or are provided with certain personal information (including credit card information) in order to provide us with the applicable service.
 
-_Webcasts_ At times we produce and host sponsored webcasts for a variety of companies (“Sponsors”). Data collected during the registration process and the actual event may be shared with those Sponsors and others, and is governed by our policy and the third party's privacy policy and may be used by us and the Sponsor for follow-up purposes.
+_Webcasts_ At times we produce and host sponsored webcasts for a variety of companies ("Sponsors"). Data collected during the registration process and the actual event may be shared with those Sponsors and others, and is governed by our policy and the third party's privacy policy and may be used by us and the Sponsor for follow-up purposes.
 
 _Contests/Sweepstakes_ Data collected during the registration for contests and sweepstakes is used by us and may be shared with sponsors. Please read the contest rules carefully before you submit your data.
 
@@ -66,7 +66,7 @@ _Ecommerce_ When shopping on certain of our sites or pages, users may need to pr
 
 **What Third parties and Ziff Davis May Collect:**
 
-_Online Ad Serving._ Ziff Davis and some of our advertisers use third-party advertising service companies to serve advertisements when you visit our sites. Often, these third-party advertising companies employ cookie, pixel tag and other technologies to measure the effectiveness of Web and e-mail advertisement and to create a record of interaction with our site content that they use in conjunction with their advertising which appears on other sites, or for reporting web site traffic, statistics, advertisement data and/or other activities on our sites. We will also engage third party providers to assist with the segmentation of this data. **The specific providers we use are subject to change.** As of the date of the posting of this policy, some of the current providers include DoubleClick, Omniture SiteCatalyst, comScore, and Google Analytics (for information about how to opt out of tracking methods for these entities and others [**click here**](http://www.aboutads.info/)).
+_Online Ad Serving_. Ziff Davis and some of our advertisers use third-party advertising service companies to serve advertisements when you visit our sites. Often, these third-party advertising companies employ cookie, pixel tag and other technologies to measure the effectiveness of Web and e-mail advertisement and to create a record of interaction with our site content that they use in conjunction with their advertising which appears on other sites, or for reporting web site traffic, statistics, advertisement data and/or other activities on our sites. We will also engage third party providers to assist with the segmentation of this data. **The specific providers we use are subject to change**. As of the date of the posting of this policy, some of the current providers include DoubleClick, Omniture SiteCatalyst, comScore, and Google Analytics (for information about how to opt out of tracking methods for these entities and others [**click here**](http://www.aboutads.info/)).
 
 **What Ziff Davis does with the Information it Collects**
 
@@ -118,7 +118,15 @@ _Links to Other Sites._ Ziff Davis web site may contain links to other sites who
 
 _Compliance with Law and Other Terms._ **** Subject to applicable law, we reserve the right to release information concerning any user of our sites or services when we have grounds to believe that the user is in violation of our [**Terms of Use**](http://www.ziffdavis.com/about/terms) or other published guidelines or engages in (or we have grounds to believe is engaging in) any illegal activity, and to release information in response to court and governmental orders, other enforceable requests from government entities, civil subpoenas, discovery requests and otherwise as required by law. We also may release information about users when we believe in good faith that such release is required to protect the rights, property, safety or security of Ziff Davis, any of our users or the public, or to respond to an emergency.
 
-_International._ Ziff Davis operates websites hosted in the United States and, depending on your country of residence, the submission of personally identifiable information to our sites may involve some transfer of personal information to the United States. You understand and consent to having any personal information you provide transferred to and processed in the United States. You should be aware that privacy laws in the United States may not provide protections equivalent to those of your country of residence.
+_International._ Ziff Davis operates websites in the United States and, depending on your country of residence, the submission of personally identifiable information to our sites may involve some transfer of personal information to the United States. You should be aware that privacy laws in the United States may not provide protections equivalent to those of your country of residence.
+
+California Residents. In accordance with the Online Privacy Protection Act ("CalOPPA"), we may collect Personal Information about your online activities when you use our sites. While we give our users many avenues to opt out of providing Personal Information, we do not respond to Web browsers' "do not track" signals, in accordance with California Business & Professions Code Section 22575. If you wish for us to refrain from gathering your Personal Information, please see our section on How to Change or Control What Is Collected.
+
+California's "Shine the Light" law, Civil Code Section 1798.83, permits our users who are California residents to periodically request and obtain certain information about any personal information disclosed to third parties for direct marketing purposes. If you are a California resident and wish to make such a request, please submit your request in writing to:
+
+Ziff Davis Legal Department  
+28 East 28th Street  
+New York, NY 10016
 
 **Please visit our**[ **Terms of Use**](http://www.ziffdavis.com/about/terms) **page for more information concerning your use of Ziff Davis websites and other services. The**[ **Terms of Use**](http://www.ziffdavis.com/about/terms) **are incorporated by reference into this Privacy Policy.**
 
