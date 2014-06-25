@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the botanical.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524195006id_/http%3A//botanical.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the botanical.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045230id_/http%3A//botanical.com/privacy.html) for the most accurate reproduction.*
 
 # Botanical.com Privacy Statement
 
@@ -9,8 +9,8 @@ Home of the electronic version of "A Modern Herbal" by Maud Grieve.
 
 |   
   
-_"Conservation is a state of harmony between men and land."_   
-**\-- Aldo Leopold (1886-1948)**  
+_"The scholar who cherishes the love of comfort is not fit to be deemed a scholar."_   
+**\-- The Confucian Analects**  
   
 * * *  
   
