@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesocialnetworkingacademy.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207213305id_/http%3A//the-sna.com/op/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesocialnetworkingacademy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073633id_/http%3A//the-sna.com/op/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The SNA
 
