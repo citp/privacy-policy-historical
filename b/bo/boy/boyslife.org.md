@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boyslife.org privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230013032id_/http%3A//boyslife.org/home/449/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boyslife.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105832id_/http%3A//boyslife.org/home/449/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy -- Boys' Life magazine
 
