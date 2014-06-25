@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hankypanky.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117045413id_/http%3A//www.hankypanky.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hankypanky.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090449id_/http%3A//www.hankypanky.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy on HankyPanky.com!
 
@@ -67,7 +67,7 @@ Hanky Panky is concerned about the privacy of young children and we do not knowi
 
 **_Use of Cookies, Pixel Tags/Clear GIFs/Web Beacons_**
 
-A cookie is a small data file that websites often store on your hard drive. A cookie may contain information (such as unique user ID), which is used to track the pages of the sites you’ve visited. Hanky Panky uses cookies to preserve the contents of your shopping bag between your visits as well as to measure activity on the site which allows us to determine which areas and features of the site are most popular. You can set your browser to refuse cookies or to alert you when cookies are being sent. If you turn off cookies or refuse them, though, you will not be able to make a purchase from the site, nor will we be able to recognize you as a registered user to allow you access to your account information.   
+A cookie is a small data file that websites often store on your hard drive. A cookie may contain information (such as unique user ID), which is used to track the pages of the sites you’ve visited. Hanky Panky uses cookies to preserve the contents of your shopping bag between your visits as well as to measure activity on the site which allows us to determine which areas and features of the site are most popular.  Also, third-party vendors, including Google, use cookies to serve ads based on your past visits to our websites.  ( _See_ "Customized advertising (behavioral marketing)" above.)  You can set your browser to refuse cookies or to alert you when cookies are being sent. If you turn off cookies or refuse them, though, you will not be able to make a purchase from the site, nor will we be able to recognize you as a registered user to allow you access to your account information.   
 A pixel tag, also known as a clear GIF or web beacon, is an invisible tag placed on certain pages of our site but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. If you turn off cookies the pixel tag will simply detect an anonymous website visit. 
 
 **_Notice to P3P Users_**
