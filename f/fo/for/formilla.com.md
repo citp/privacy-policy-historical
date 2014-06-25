@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the formilla.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224180355id_/http%3A//www.formilla.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formilla.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012722id_/http%3A//www.formilla.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Formilla.com
 
 #### What information do we collect?
 
@@ -70,5 +70,5 @@ This policy was last modified on 10/13/2013
 
 #### Contacting Us
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/contact-us.aspx) at any time.  
+If there are any questions regarding this privacy policy you may [contact us](http://www.formilla.com/contact-us.aspx) at any time.  
 
