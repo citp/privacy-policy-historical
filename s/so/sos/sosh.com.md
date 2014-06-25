@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sosh.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216000641id_/http%3A//sosh.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosh.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051905id_/http%3A//sosh.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy :: Sōsh :: San Francisco
+# Privacy Policy :: Sosh
 
 Offline Labs Inc., provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of <http://sosh.com/> (this “Site”). This Privacy Policy applies only to information that you provide to us through this Site. Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Site. 
 
