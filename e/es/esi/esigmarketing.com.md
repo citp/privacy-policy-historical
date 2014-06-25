@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esigmarketing.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430084140id_/http%3A//www.myesig.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esigmarketing.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091958id_/http%3A//myesig.com/privacy.php) for the most accurate reproduction.*
 
 # My eSig - Custom Email Signatures - Privacy Policy
 
@@ -63,7 +63,7 @@ This policy was last modified on February 21, 2011
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [http://www.myesig.com](http://www.myesig.com/)  
-9963 Valley View Rd  
+9961 Valley View Rd  
 Eden Prairie, MN 55344  
 USA  
 [info@myesig.com](mailto:info@myesig.com)  
