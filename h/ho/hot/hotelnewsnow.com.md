@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231143656id_/http%3A//www.hotelnewsnow.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050850id_/https%3A//hotelnewsnow.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -7,7 +7,7 @@ Effective as of 01 January 2008
 
 **Introduction**
 
-HotelNewsNow.com (“HNN”) and its affiliates are privacy conscious global organizations. The following privacy statement explains how we protect personal information gathered via the HotelNewsNow.com website.
+Hotel News Now (“HNN”) and its affiliates are privacy conscious global organizations. The following privacy statement explains how we protect personal information gathered via the HotelNewsNow.com website.
 
 If you as a visitor choose to register or submit information to this website, you agree to the use of such data in accordance with this privacy statement. Please note that this site may contain links to other sites, including, but not limited to, sites maintained by member firms and affiliates of HNN, which may not be governed by this privacy statement.
 
@@ -21,7 +21,7 @@ We do not usually seek sensitive information (e.g., data relating to race or eth
 
 **Cookies and Web Beacons**
 
-[View HotelNewsNow.com's cookies policy](https://web.archive.org/cookieinfo.aspx)
+[View the Hotel News Now cookies policy](https://web.archive.org/cookieinfo.aspx)
 
 **Information Use**
 
@@ -64,7 +64,7 @@ Other Legal Notices
 Any dispute over privacy is subject to the Privacy Policy then in effect at the time the dispute arises, as well as the laws of the [State of Tennessee][United Kingdom][State of Ohio] and our Terms of Use. If you have any concern about your privacy in connection with this policy, please send us a thorough description to:
 
   
-HotelNewsNow.com  
+Hotel News Now  
 18500 Lake Rd.  
 Suite 310  
 Rocky River, Ohio 44116
