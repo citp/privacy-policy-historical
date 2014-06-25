@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pokernews.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128084352id_/http%3A//www.pokernews.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokernews.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055429id_/http%3A//www.pokernews.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | PokerNews
 
 [Home](https://web.archive.org/)[Privacy Policy](https://web.archive.org/privacy-policy.htm)
 
-Your privacy is very important to iBus Media Ltd. (referred to herein as **“PokerNews”** , “ **we** ” or “ **us** ”), the owner and operator of the website located at www.pokernews.com as well as the local sites there under, listed here <http://www.pokernews.com/international/> (collectively, the “ **Site** ”). We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy your use of the Site by safeguarding it and utilizing appropriate software and hardware architecture, techniques, methods and procedures as customary in the industry. 
+Your privacy is very important to iBus Media Ltd. (referred to herein as **“PokerNews”** , “ **we** ” or “ **us** ”), the owner and operator of the website located at www.pokernews.com as well as the local sites there under, listed here <http://www.pokernews.com/international/> (collectively, the “ **Site** ”). We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy your use of the Site by safeguarding it and utilizing appropriate software and hardware architecture, techniques, methods and procedures as customary in the industry.
 
   1. **Consent to Privacy Policy**
 
@@ -23,7 +23,7 @@ The purpose of this Privacy Policy is to enable you to understand how we collect
     * [Who are we?](https://web.archive.org/privacy-policy.htm#who-are-we)
   2. **What Personal information is collected and for what purpose**
 
-As part of the Site account opening process and to allow us to provide services to you, we will ask you to provide us with a user name, email address and a password. In some cases we may also ask you to provide certain personal information such as your full name, date of birth, country of residence, and Twitter and Facebook user names. 
+As part of the Site account opening process and to allow us to provide services to you, we will ask you to provide us with a user name, email address and a password. In some cases we may also ask you to provide certain personal information such as your full name, date of birth, country of residence, and Twitter and Facebook user names.
 
 We, members of our corporate group, our affiliates and third parties providing services on our behalf will use your personal information described above for various purposes such as:
 
@@ -35,18 +35,16 @@ We, members of our corporate group, our affiliates and third parties providing s
     * data analysis; and
     * to comply with licensing and regulatory requirements.
 
-We may disclose your personal information:
+We may disclose your personal information if required to do so by law or by regulatory authority and/or if we believe in good faith that such action is necessary:
 
-    1. if required to do so by law or by regulatory authority;
-    2. if we believe in good faith that such action is necessary: 
-      1. to comply with any law or comply with legal process served on us;
-      2. to protect and defend our rights or property;
-      3. to any regulatory body or licensing body or authority;
-      4. to third parties who provide services to us or on our behalf; 
-      5. to any third party that purchases us or our business or any part of us or our business;
-    3. with your consent;
-    4. for the purposes of disaster recovery; or
-    5. as set out in Section 6 below.
+    * to comply with any law or comply with legal process served on us;
+    * to protect and defend our rights or property;
+    * to any regulatory body or licensing body or authority;
+    * to third parties who provide services to us or on our behalf; 
+    * to any third party that purchases us or our business or any part of us or our business; 
+      * with your consent;
+      * for the purposes of disaster recovery; or
+      * as set out in Section 6 below.
 
 Your personal information may be processed by us, other members of our corporate group, our affiliates, our agents and third parties providing services to us, in any jurisdiction and we will use all reasonable commercial efforts to comply with the terms of any data protection laws applicable to our activities.
 
@@ -56,7 +54,7 @@ It is very important that you complete the account details with valid informatio
 
   3. **Collection of Non-Personally Identifiable Information**
 
-We may use “cookies” on or in connection with our Site to maintain information about you. A cookie is a very small text document, which often includes an anonymous unique identifier. We use both “session” cookies and “persistent” cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. When you visit our Site, our computer may ask your computer for permission to employ the use of a session or persistent cookie. Our Site will then send a cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits our Site to access the cookies it has already sent to you and not the cookies sent to you by other websites. Many web browsers can be adjusted to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, our Site or certain areas or features of our Site.
+We may use “cookies” on or in connection with our Site to maintain information about you. A cookie is a very small text document, which often includes an anonymous unique identifier. We use both “session” cookies and “persistent” cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. When you visit our Site, our computer may ask your computer for permission to employ the use of a session or persistent cookie. Our Site will then send a cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits our Site to access the cookies it has already sent to you and not the cookies sent to you by other websites. Many web browsers can be adjusted to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, our Site or certain areas or features of our Site. A more detailed explanation of our cookie policy can be found [here](https://web.archive.org/cookies-information.htm).
 
 Our servers automatically collect data about your Internet Protocol address when you visit us. When you request pages from our Site, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another website or a search engine); the pages you visit on our Site; the website you visit after this Site; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Site or a referral website; and other web usage activity and data logged by our web servers. Your IP address can also be used for moderation purposes, in order to limit the creation of multiple accounts and SPAM prevention.
 
@@ -76,15 +74,15 @@ You can also visit the trade body representing these advertising companies for m
 
 PokerNews may, from time to time, initiate certain bonus programs and other promotional activities (collectively, the " **Promotions** "), in connection with which certain additional personal information may be collected from our users. Specifically, the personal information that may be collected in connection with our Promotions includes a user's name, surname, room nickname (i.e. the nickname the user gives him/herself in connection with the specific Promotion), email address, and country of residence. In addition, in certain Promotions as well as in certain cases in which further verification procedures so require, a user may also be asked to provide a telephone number and a facial photograph together with the user's ID. 
 
-PokerNews may disclose the personal information described above to such third parties with whom PokerNews partners in connection with the Promotions. 
+PokerNews may disclose the personal information described above to such third parties with whom PokerNews partners in connection with the Promotions.
 
   6. **Confidentiality**
 
-PokerNews undertakes appropriate efforts to protect the confidentiality of the identity, preferences and other information it collects about users of the Site and other than as specified in this Privacy Policy, it will not knowingly allow access to this information to anyone outside PokerNews. 
+PokerNews undertakes appropriate efforts to protect the confidentiality of the identity, preferences and other information it collects about users of the Site and other than as specified in this Privacy Policy, it will not knowingly allow access to this information to anyone outside PokerNews.
 
 You should also do your part in protecting your information. Your login credentials are confidential and you are obliged to keep your login credentials secret and confidential at all times and to take all efforts to protect their secrecy and confidentiality.
 
-Please be advised, however, that due to the nature of Internet communications and evolving technologies, unauthorized entry or use, hardware or software failure, and other factors, the security of user information may be compromised at any time. No method of transmission over the Internet, or method of electronic storage, is 100% secure. 
+Please be advised, however, that due to the nature of Internet communications and evolving technologies, unauthorized entry or use, hardware or software failure, and other factors, the security of user information may be compromised at any time. No method of transmission over the Internet, or method of electronic storage, is 100% secure.
 
   7. **Limits of Confidentiality**
 
@@ -96,7 +94,7 @@ In addition to legally required disclosures as explained in this Privacy Policy,
 
   9. **Your rights in relation to your information**
 
-We aim to keep our information about you as accurate as possible. You can write to us at any time to review, change, obtain a copy of your information or have your details altered or corrected in accordance with your rights under applicable laws, and in such event we may require evidence of your identity. In order to contact us regarding your information please e-mail info@pokernews.com. We may in certain circumstances levy a small charge to cover the cost of administration regarding any request made by you in this regard.
+We aim to keep our information about you as accurate as possible. You can write to us at any time to review, change, obtain a copy of your information or have your details altered or corrected in accordance with your rights under applicable laws, and in such event we may require evidence of your identity. In order to contact us regarding your information please [contact us](https://web.archive.org/contact.htm). We may in certain circumstances levy a small charge to cover the cost of administration regarding any request made by you in this regard.
 
   10. **Links**
 
@@ -104,9 +102,9 @@ The Site may contain links to third parties' websites. While we attempt to provi
 
   11. **Opt-Out Options**
 
-We and other members of our corporate group may occasionally send you emails with information on events and news or information regarding new services or in connection with customer support matters. If you no longer wish to receive our email newsletters, you can opt-out, at any time, by sending us an email to info@pokernews.com requesting removal of your email address from any such mailing lists. If applicable, you may also opt-out from receiving marketing communications from us by following instructions on our email communications explaining how to unsubscribe from our email mailing lists. We will take appropriate steps to fulfill your request within reasonable time; however, it may take a few days or longer to process your request during which you may still receive marketing communications from us. We reserve the right to send you non-marketing notice about your account, even if you opt-out of all email notifications.
+We and other members of our corporate group may occasionally send you emails with information on events and news or information regarding new services or in connection with customer support matters. If you no longer wish to receive our email newsletters, you can opt-out, at any time, by contacting us [here](https://web.archive.org/contact.htm) requesting removal of your email address from any such mailing lists. If applicable, you may also opt-out from receiving marketing communications from us by following instructions on our email communications explaining how to unsubscribe from our email mailing lists. We will take appropriate steps to fulfil your request within reasonable time; however, it may take a few days or longer to process your request during which you may still receive marketing communications from us. We reserve the right to send you non-marketing notice about your account, even if you opt-out of all email notifications.
 
-If you decide to terminate your account with us, you may do so by sending us an email to info@pokernews.com specifying your request and providing us with your PokerNews Username and email address with which you registered. If you terminate your account, your profile will be removed from the Site, however, deletion may not be immediate and we may continue keeping your personal information in our records for audits and other administrative purposes.
+If you decide to terminate your account with us, you may do so by contacting us [here](https://web.archive.org/contact.htm) specifying your request and providing us with your PokerNews Username and email address with which you registered. If you terminate your account, your profile will be removed from the Site, however, deletion may not be immediate and we may continue keeping your personal information in our records for audits and other administrative purposes.
 
   12. **Who are we?**
 
@@ -118,4 +116,4 @@ Isle of Man
 IM1 1JD
 
 
-_Last updated: July 18, 2012_
+_Last updated: May 7, 2014_
