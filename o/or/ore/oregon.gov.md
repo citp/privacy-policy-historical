@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oregon.gov privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607183302id_/http%3A//www.oregon.gov/DAS/ETS/EGOV/pages/termsconditions.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregon.gov privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081756id_/http%3A//www.oregon.gov/DAS/ETS/EGOV/pages/termsconditions.aspx) for the most accurate reproduction.*
 
 # Oregon E-Government Program Privacy and Terms and Conditions
 
@@ -19,14 +19,16 @@ Information Collected When You Browse State Web Pages
   5. The web pages or services you accessed at this site; and 
   6. The web site you visited prior to coming to this web site. (Note: this is included so that summary analysis can be done on how visitors get to our site, i.e., from a search engine, from a link on another site, etc.) 
 
-    
-We do not track individual user navigation choices. We do, however, summarize the information listed above to determine:   
+ 
 
+We do not track individual user navigation choices. We do, however, summarize the information listed above to determine: 
 
   * what organizations are our most frequent users (item 2 above) to better target our content for the audience. 
   * what browsers are being used on our site to determine what techniques we should use to develop pages that will work with different browsers (item 3 above). 
   * how often our pages are being visited (item 5 above). 
   * the traffic from organization names such as search engines that direct people to the site (item 6 above) 
+
+
 
 For site security purposes and to ensure that this service remains available to all users, this site may monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. If security monitoring reveals evidence of possible abuse or criminal activity, system personnel may provide the results of such monitoring to appropriate officials. Except for authorized law enforcement investigations, no attempts are made to identify individual users or their usage habits. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the state law and federal statutes including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996. 
 
