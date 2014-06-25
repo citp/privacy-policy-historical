@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the waggeneredstrom.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207075409id_/http%3A//waggeneredstrom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waggeneredstrom.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221944id_/http%3A//waggeneredstrom.com/privacy-policy) for the most accurate reproduction.*
 
-# Waggener Edstrom Worldwide | Privacy Policy
+# Privacy Policy | Waggener Edstrom Communications
 
 Waggener Edstrom Worldwide, Inc. (“Waggener Edstrom”) owns and operates this Internet site [http://www.waggeneredstrom.com](http://www.waggeneredstrom.com/) (the “Site”), located on servers in the United States. This Privacy Policy is designed to notify you about how we collect, use, disclose, and otherwise process data and personally identifiable information (“Personal Information”) that we collect in connection with this Site, in connection with Waggener Edstrom products available or enabled via the Site (“Products”), and in certain “offline” circumstances, as specified below. The Site and the Products are intended for adult audiences, and Waggener Edstrom does not knowingly collect any Personal Information from anyone under 13 years of age.
 
