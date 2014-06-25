@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabbon.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505130100id_/http%3A//www.snapdeal.com/info/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabbon.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625210845id_/http%3A//www.snapdeal.com/info/terms) for the most accurate reproduction.*
 
 # Privacy Policy - Snapdeal.com
 
@@ -124,9 +124,9 @@ You can always choose not to provide information and in such cases, if the infor
 
 You can add or update Your Personal Information on a regular basis. When You update information, Snapdeal will keep a copy of the prior version for its records.
 
-Snapdeal may, if You so choose, send direct advertisement mailers to You at the address given by You which could contain details of the products or services displayed on Snapdeal or of any third party not associated with Snapdeal. You have the option to opt-out of this direct or third party mailer by clicking at the unsubscribed link option attached to e-mail. Snapdeal respects Your privacy and if You do not want to receive e-mail or other communications from Snapdeal, please report to Snapdeal at help@snapdeal.com. 
+Snapdeal may, if You so choose, send direct advertisement mailers to You at the address given by You which could contain details of the products or services displayed on Snapdeal or of any third party not associated with Snapdeal. You have the option to opt-out of this direct or third party mailer by clicking at the unsubscribed link option attached to e-mail. Snapdeal respects Your privacy and if You do not want to receive e-mail or other communications from Snapdeal, For any query or assistance, feel free to [Contact Us](http://www.snapdeal.com/info/contactus). 
 
-If You do not want Snapdeal to use Personal Information that Snapdeal to You, please report to Snapdeal at help@snapdeal.com. .
+If You do not want Snapdeal to use Personal Information that Snapdeal to You, for any query or assistance, feel free to [Contact Us](http://www.snapdeal.com/info/contactus)
 
 The 'Help' portion of the toolbar on most browsers will tell You how to prevent Your browser from accepting new cookies, how to have the browser notify You when You receive a new cookie, or how to disable cookies altogether. Further, You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Website of its manufacturer. However, as cookies allow You to take advantage of some of the Website's features, some of the Website's features and services may not function properly if Your cookies are disabled. It is therefore, recommended that You leave the cookies turned on. For instance, if You block or otherwise reject Snapdeal's cookies, You will not be able to add items to Your shopping cart, proceed to checkout, or download any of Snapdeal's Content or avail of Snapdeal's services that require You to log in.
 
@@ -140,7 +140,7 @@ Snapdeal may make changes to this Policy, from time to time at Snapdeal's sole d
 
 If You choose to visit the Website, Your visit and any dispute over privacy is subject to this Policy and the Website's Terms of Use. In addition to the foregoing, any disputes arising under this Policy shall be governed by the laws of India. 
 
-If You have questions or concerns about this Policy, please contact Snapdeal at [help@snapdeal.com](mailto:help@snapdeal.com) with subject line-PRIVACY POLICY].
+For any query or assistance, feel free to [Contact Us](http://www.snapdeal.com/info/contactus) with subject line-PRIVACY POLICY].
 
 Copyright © Jasper Infotech Private Limited  
 All rights reserved.
