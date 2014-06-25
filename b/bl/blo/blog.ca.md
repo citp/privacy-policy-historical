@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blog.ca privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921013801id_/http%3A//www.blog.ca/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062227id_/http%3A//www.blog.ca/company/privacy.php) for the most accurate reproduction.*
 
 # blog.ca - Privacy Policy
 
@@ -8,7 +8,7 @@ Protection of our users' personal data is very important to us. Users can expect
 
 By clicking the corresponding checkbox when registering for our service, users grant us permission to collect, process, and use their personal data to the extent specified within the scope of the data processing processes described below.
 
-**A user may, of course, revoke this consent at any time.** Revocation can be sent to us – Populis GmbH, Oranienstr. 183, D-10999 Berlin – in writing. An e-mail sent to our customer service at support@blog.de is also sufficient. Users can also request written or electronic information regarding stored personal data by writing to this address.
+**A user may, of course, revoke this consent at any time.** Revocation can be sent to us – Populis GmbH, c/o Kowert, Schwanke und Von Schwerin, Spichernstraße 2, 10777 Berlin – in writing. An e-mail sent to our customer service at support@blog.de is also sufficient. Users can also request written or electronic information regarding stored personal data by writing to this address.
 
   * #### **§1.** Purpose of Data Collection and Use of Data
 
