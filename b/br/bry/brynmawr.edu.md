@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brynmawr.edu privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023075240id_/http%3A//www.brynmawr.edu/computing/policies/WebPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brynmawr.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114835id_/http%3A//www.brynmawr.edu/computing/policies/WebPrivacy.htm) for the most accurate reproduction.*
 
 # WebPrivacy
 
@@ -23,7 +23,7 @@ Bryn Mawr respects your privacy and has created this policy to ensure any person
 1\. We use personally identifiable information to support college operations. Specific purposes may also be outlined in the space it is collected.  
 2\. We will not share, sell, rent or distribute personally identifiable information submitted via the web site to other organizations or businesses except where stated or when required by law.  
 3\. We may link to sites outside the Bryn Mawr College domain. We are not responsible for the content or privacy practices of those sites. Personal web spaces hosted by Bryn Mawr, such as those on blogs.brynmawr.edu, are the sole responsibility of those sites' owners, and Bryn Mawr is not responsible for the content or privacy practices of those sites.  
-4\. If a log in is required, any personal information that is gathered may not be anonymous but will be confidential and handled within the terms of the [Bryn Mawr College Acceptable Use Policy](https://web.archive.org/web/20131023075240id_/http%3A//www.brynmawr.edu/computing/policies/AcceptableUse.htm).
+4\. If a log in is required, any personal information that is gathered may not be anonymous but will be confidential and handled within the terms of the [Bryn Mawr College Acceptable Use Policy](https://web.archive.org/web/20140625114835id_/http%3A//www.brynmawr.edu/computing/policies/AcceptableUse.htm).
 
 ### Commitment to security
 
