@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the whitespark.ca privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814164201id_/http%3A//www.whitespark.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitespark.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215440id_/http%3A//www.whitespark.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy, Whitespark
+# Privacy Policy | Whitespark
 
 We love our customers, and their privacy is extremely important to us.
 
-* * *
-
-**In a nutshell**
+### In a nutshell
 
   * We don't require any personal information that we don't actually need.
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
@@ -48,10 +46,3 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, Whitespark may change its Privacy Policy from time to time, and in Whitespark’s sole discretion. Whitespark encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-  
-
-
-* * *
-
-If you’ve made it this far, you deserve to know that this privacy policy was provided by the fine folks at [Wordpress](http://automattic.com/privacy/). We’ve altered them slightly, but man, they really saved us a lot of time and money.
