@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamspark.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205180709id_/https%3A//www.dreamspark.com/Support/PrivacyAndCookies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamspark.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065048id_/https%3A//www.dreamspark.com/Support/PrivacyAndCookies.aspx) for the most accurate reproduction.*
 
 # Microsoft DreamSpark - privacy & cookies
 
@@ -36,7 +36,7 @@ Please note that our sites may include links to third-party sites whose privacy 
 
 Access to Your Personal Information 
 
-Some Microsoft services give you the ability to view or edit your personal information online. To help prevent your personal information from being viewed by others, you first will be required to sign in. The method(s) for accessing your personal information will depend on which sites or services you have used. You can review and edit the personal information you provided at this Site by contacting the [DreamSpark Program Team](https://web.archive.org/web/20131205180709id_/https%3A//www.dreamspark.com/Student/Support.aspx). 
+Some Microsoft services give you the ability to view or edit your personal information online. To help prevent your personal information from being viewed by others, you first will be required to sign in. The method(s) for accessing your personal information will depend on which sites or services you have used. You can review and edit the personal information you provided at this Site by contacting the [DreamSpark Program Team](https://web.archive.org/web/20140625065048id_/https%3A//www.dreamspark.com/Student/Support.aspx). 
 
 Security of Your Information 
 
@@ -46,7 +46,7 @@ If a password is used to help protect your accounts and personal information, it
 Where Information is Stored and Processed 
 
 Personal information collected on Microsoft sites and services may be stored and processed in the United States or any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities. Microsoft abides by the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Economic Area, and Switzerland. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>.   
-Microsoft may retain your personal information for a variety of reasons, such as to comply with our legal obligations, resolve disputes, enforce our agreements, and as long as necessary to provide services. To learn how to access your personal information, [contact the DreamSpark Program Team](https://web.archive.org/web/20131205180709id_/https%3A//www.dreamspark.com/Student/Support.aspx). 
+Microsoft may retain your personal information for a variety of reasons, such as to comply with our legal obligations, resolve disputes, enforce our agreements, and as long as necessary to provide services. To learn how to access your personal information, [contact the DreamSpark Program Team](https://web.archive.org/web/20140625065048id_/https%3A//www.dreamspark.com/Student/Support.aspx). 
 
 Our Use of Cookies 
 
@@ -63,10 +63,10 @@ Some of the cookies we commonly use are listed in the following chart. This list
 userSessionID| Stores userid of user signed in with MAP account  
 CultureInfo| Stores locale of site  
 GuestUserSelectedLocale| Stores locale of site for anonymous user  
-UserLocaleFromUserProfile| Stores locale of user signed in with Microsoft Account  
-WelcomeUserString| Stores welcome name of user signed in with Microsoft Account  
-userLiveEmailID| Stores email address of user signed in with Microsoft Account  
-userSessionId_ds| Stores usersessionid of user signed in with Microsoft Account  
+UserLocaleFromUserProfile| Stores locale of user signed in with Microsoft account  
+WelcomeUserString| Stores welcome name of user signed in with Microsoft account  
+userLiveEmailID| Stores email address of user signed in with Microsoft account  
+userSessionId_ds| Stores usersessionid of user signed in with Microsoft account  
   
 In addition to the cookies Microsoft may set when you visit our web sites, third parties may set certain cookies on your hard drive when you visit Microsoft sites. In some cases, that is because we have hired the third party to provide certain services on our behalf, such as site analytics. In other cases, it is because our web pages contain content from third parties, such as videos, news content or ads delivered by other ad networks. Because your browser connects to those third parties’ web servers to retrieve that content, those third parties are able to set or read their own cookies on your hard drive. 
 
@@ -137,7 +137,7 @@ Contact Information
 • Microsoft welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us by using this [webform](https://support.microsoft.com/contactus/emailcontact.aspx?scid=sw;en;1310&ws=1prcen).   
 • If you have a technical or general support question, please visit <http://support.microsoft.com/> to learn more about Microsoft Support offerings.   
 • If you have a Microsoft account password question, please visit [Live Help](http://windowslivehelp.com/solution.aspx?solutionid=bf5d34bf-db28-44ca-ac9a-93838d81b2d6).   
-• For privacy questions, please [contact the DreamSpark Program Team](https://web.archive.org/web/20131205180709id_/https%3A//www.dreamspark.com/Student/Support.aspx).  
+• For privacy questions, please [contact the DreamSpark Program Team](https://web.archive.org/web/20140625065048id_/https%3A//www.dreamspark.com/Student/Support.aspx).  
 • Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA  
 To find the Microsoft subsidiary in your country or region, see <http://www.microsoft.com/worldwide/>. 
 
