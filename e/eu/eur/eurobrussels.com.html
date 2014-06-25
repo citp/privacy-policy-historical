@@ -1,24 +1,27 @@
-<!--The following is the downloaded HTML source of the eurobrussels.com privacy policy that was archived on 2013-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131228105749id_/http%3A//eurobrussels.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eurobrussels.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625135358id_/http%3A//www.eurobrussels.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-    <title>EuroBrussels - Jobs in Brussels, EU Institutions and International Organisations</title>
-  <base href="http://www.eurobrussels.com">
-  <script type="text/javascript" src="/jquery.js?1307024150"></script>
-  <script type="text/javascript" src="/jquery_ui.js?1307024150"></script>
-  <link href="/base.css?1374162839" rel="stylesheet" type="text/css">
-  <link href="/base_jobs.css?1374162839" rel="stylesheet" type="text/css">
-  <link href="/eurobrussels.css?1370447036" rel="stylesheet" type="text/css">
-  <link href="/overlay.css?1346495670" rel="stylesheet" type="text/css">
-  <script type="text/javascript" src="/cookie.js?1341520433"></script>
-      <script type="text/javascript" src="/livesearch.js?1365695312"></script>
-    <script type="text/javascript" src="/highlighted_job_infobox.js?1335897551"></script>
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <meta http-equiv="content-type" content="text/html;charset=utf-8">
-  <meta name="description" content="EuroBrussels - Jobs in Brussels, EU Institutions and International Organisations. EuroBrussels finds you European Affairs jobs in Brussels, the EU Institutions, International Organisations, Consultancy, and also EU Policy and EU Law jobs all over Europe.">
-  <meta name="keywords" content="jobs,job,Brussels,Brussels jobs,recruitment,recruit,recruiting,vacancy,Europe,Euro,EU,Belgium,international,organisation,legal,law,lawyer,lobbyist,NGO,consultant,consultancy,links,concours,European,Commission,Parliament,Bruxelles,PR,public relations,communication,public affairs,policy,politics,political,MEP,International,EBRD,EIB,ECB,UN,think tank">
-</head><body>
+	  <title>EuroBrussels - Jobs in Brussels, EU Institutions and International Organisations</title>
+	  <base href="http://eurobrussels.com">
+	  <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/jquery.js?1401133959"></script>
+	  <script type="text/javascript" src="/jquery_ui.js?1401133959"></script>
+	  <link href="/base.css?1401133959" rel="stylesheet" type="text/css">
+	  <link href="/base_jobs.css?1401133959" rel="stylesheet" type="text/css">
+	  <link href="/eurobrussels.css?1401133959" rel="stylesheet" type="text/css">
+	  <link href="/overlay.css?1401133959" rel="stylesheet" type="text/css">
+	  <script type="text/javascript" src="/cookie.js?1401133959"></script>
+	  <meta name="viewport" content="width=device-width, minimum-scale=0.5, maximum-scale=1.5">
+	  <link rel="stylesheet" type="text/css" media="screen and (max-width: 603px)" href="/base_mobile.css?1401133959">
+	  <link rel="stylesheet" type="text/css" media="screen and (max-width: 603px)" href="/eurobrussels_mobile.css?1401133959">
+	  <script type="text/javascript" src="/livesearch.js?1401133959"></script>
+      <script type="text/javascript" src="/highlighted_job_infobox.js?1401133959"></script>
+	  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+	  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+	  <meta http-equiv="content-type" content="text/html;charset=utf-8">
+	  <meta name="description" content="EuroBrussels - Jobs in Brussels, EU Institutions and International Organisations. EuroBrussels finds you European Affairs jobs in Brussels, the EU Institutions, International Organisations, Consultancy, and also EU Policy and EU Law jobs all over Europe.">
+  	  <meta name="keywords" content="jobs,job,Brussels,Brussels jobs,recruitment,recruit,recruiting,vacancy,Europe,Euro,EU,Belgium,international,organisation,legal,law,lawyer,lobbyist,NGO,consultant,consultancy,links,concours,European,Commission,Parliament,Bruxelles,PR,public relations,communication,public affairs,policy,politics,political,MEP,International,EBRD,EIB,ECB,UN,think tank">
+	</head><body>
 
 <script type="text/javascript">
 $(document).ready(function(){
@@ -30,14 +33,81 @@ $(document).ready(function(){
 });
 </script>
 
+<script type="text/javascript">
+$(function() {
+    
+    $("#feedbackFormDiv").dialog({
+        autoOpen: false,
+        width:650,
+        modal: true
+    });
+		
+	//Attach a submit handler to the form
+    $( "#feedbackFormButton" ).click(function( event ) {
+        //Check feedback comment has been entered
+        if($( "#feedback" ).val() == ''){
+            alert('Please enter a comment');
+            return false;
+        }
+        
+        //Send form contents to feedback form controller
+        $.post( "feedback", $( "#feedbackForm" ).serialize() );
+        $('#feedback').val('');
+        $('#email').val('');
+        $('#feedbackFormDiv').dialog('close');
+    });
+});
+</script>
+
+<style>  
+    #feedbackFormDiv{
+        display:none;
+        align:center;
+    }
+    #feedbackFormDiv input[type='text']{
+        padding:3px; width:300px;
+    }
+    #feedbackFormDiv textarea{
+        padding:3px; width:500px; height: 45px
+    }
+</style>
+
+<!-- The link, style by CSS to appear on the right of the page -->
+<a href="javascript:void(0)" onclick="$('#feedbackFormDiv').dialog('open');$('.ui-dialog-titlebar-close').show();" id="feedbackRight">feedback</a>
+
+<div id="feedbackFormDiv" title="Feedback - tell us what you think" style="display:none">
+    <form id="feedbackForm" action="javascript:void(0)">
+        <table>
+            <tbody><tr>
+                <td align="left">Comment: </td>
+                <td>
+                    <textarea name="feedback" id="feedback" class="text ui-widget-content ui-corner-all"></textarea>
+                 </td>
+            </tr>
+            <tr>
+                <td align="left">Email (Optional):&nbsp;&nbsp;</td>
+                <td align="left">
+                    <input type="text" name="email" id="email" class="text ui-widget-content ui-corner-all">
+                 </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="left">
+                    <input type="submit" value="Send" id="feedbackFormButton" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only">
+                </td>
+            </tr>
+        </tbody></table>
+    </form>
+</div>
+
 <!-- BEGIN wrapper -->
 <div id="wrapper">	
   <!-- BEGIN header -->
   <div id="header">
     <!-- begin logo -->
-    <div class="logo"><a href="/"><img src="images/site_logo.gif" alt="EuroBrussels Logo" title="EuroBrussels - Jobs in Brussels, EU Institutions and International Organisations"></a></div>
+    <div class="logo"><p><a href="/"><img src="images/site_logo.gif" alt="EuroBrussels Logo" title="EuroBrussels - Jobs in Brussels, EU Institutions and International Organisations"></a></p></div>
     <!-- end logo -->
-    <div class="bannerAdFrame"><a target="_blank" rel="nofollow" href="http://www.eurobrussels.com/newsletter.php"><img alt="Sign up for the EuroBrussels Newsletter" src=" http://www.eurobrussels.com/content/banners/eurobrussels_newsletter_1_blue.jpg"></a></div>
+    <div class="bannerAdFrame"><a target="_blank" rel="nofollow" href="http://www.eurobrussels.com/counter/2503/ibc_kings"><img alt="Postgraduate Diploma/Masters by distance learning" src=" http://www.eurobrussels.com/content/banners/kingscourseswebsite.gif"></a></div>
     <div class="break"></div>
       </div>
   <!-- END header -->
@@ -53,12 +123,11 @@ $(document).ready(function(){
       </ul>
     </div>
     <!-- end navigation -->
-    <div class="navigation2">
+    <div class="navigation2 noMobile">
       <ul>
         <li><a target="_top" href="/">Home</a></li>
         <li><a target="_top" href="post_job">Post Job</a></li>
 		<li><a target="_top" href="advertise">Advertise</a></li>
-		<li><a target="_top" href="about_us">About Us</a></li>
         <li class="nav2last"><a target="_top" href="contact_us">Contact Us</a></li>
       </ul>
     </div>
@@ -85,7 +154,7 @@ $(document).ready(function(){
 <p>This is a summary - full details of our privacy policy including use of our CV database can be found <a href="cv_privacy_policy">here</a>.</p></div> </div>
     <!-- END content -->
     <!-- BEGIN sidebar -->
-    <div id="sidebar">
+    <div id="sidebar" class="noMobile">
       <div class="infoBox sidebarTopJobs">
         <h3><a href="top_jobs">Top Jobs</a></h3>
 	         <p id="highlightedJobsInfoboxBtmText">
@@ -119,14 +188,16 @@ $(document).ready(function(){
           </div>
        </div>
 
-      <form action="http://app.streamsend.com/public/KBFR/50k/subscribe" method="post" novalidate="">
-        <h3><a href="newsletter">Free Newsletter</a></h3>
+      <form novalidate="" action="newsletter/subscribe" method="post">
+        <h3><a href="newsletter">Free Jobs Newsletter</a></h3>
         <p>
-          <input type="email" name="person[email_address]" placeholder="Email Address">
+          <input type="email" name="email" placeholder="Email Address">
+          <input type="hidden" name="newsletter_id" value="1">
         </p>
         <button type="submit">Subscribe</button>
       	<p class="newsletterFormPrivacyPolicy">We won't sell your email address - <a href="privacy_policy">privacy policy</a>.</p>
       </form>
+      
       <!-- end search -->
 
 	  
@@ -135,14 +206,14 @@ $(document).ready(function(){
 	        <h3><a href="education">Education &amp; Courses</a></h3>
 	   		<div class="educationSidebarBox" style="background-color:#E8EFF6;border:1px solid #E8EFF6;">
 				<p class="educationSidebarBoxLeft">
-					<a title="Global Risk Analysis" href="education.php#Exec">
-						<img height="60" width="120" src="http://www.eurobrussels.com/content/promotions/Vesalius_logo_120x60.jpg" alt="Global Risk Analysis">
+					<a title="Executive Training for leaders of the future " href="/education.php#AcademyEUI">
+						<img height="60" width="120" src="http://www.eurobrussels.com/content/banners/logo_agg_120x60.jpg" alt="Executive Training for leaders of the future ">
 					</a>
 				</p>
 
 				<p class="educationSidebarBoxRight">
-					<a title="Global Risk Analysis" href="education.php#Exec">
-						Global Risk Analysis					</a>
+					<a title="Executive Training for leaders of the future " href="/education.php#AcademyEUI">
+						Executive Training for leaders of the future 					</a>
 				</p>
 
 			<div class="break"></div>
@@ -153,7 +224,7 @@ $(document).ready(function(){
 	  
              
   	  <div class="tagCloudWrapper">
-	      <a style="font-size:16px" title="EU and International Policy Jobs in Communication/Public Relations" href="/jobs/communication_public_relations">Communication/Public Relations</a> <a style="font-size:15px" title="EU and International Policy Jobs in Consultancy" href="/jobs/consultancy">Consultancy</a> <a style="font-size:15px" title="EU and International Policy Jobs in Environment" href="/jobs/environment">Environment</a> <a style="font-size:19px" title="EU and International Policy Jobs in 3 - 5 Years Experience" href="/jobs/3_5_years_experience">Experienced</a> <a style="font-size:16px" title="EU and International Policy Jobs in Industry Association" href="/jobs/industry_association">Industry Association</a> <a style="font-size:15px" title="EU and International Policy Jobs in International Organisations" href="/jobs/international_organisations">International Organisations</a> <a style="font-size:17px" title="EU and International Policy Jobs in Internship" href="/jobs/internship">Internship</a> <a style="font-size:17px" title="EU and International Policy Jobs in 1 - 3 Years Experience" href="/jobs/1_3_years_experience">Junior</a> <a style="font-size:16px" title="EU and International Policy Jobs in NGO and Political" href="/jobs/ngo_and_political">NGO and Political</a> <a style="font-size:20px" title="EU and International Policy Jobs in 5 Years+ Experience" href="/jobs/5_years_experience">Senior</a> <a style="font-size:20px" title="EU and International Policy Jobs in Belgium" href="/jobs/belgium">Belgium</a> <a style="font-size:11px" title="EU and International Policy Jobs in France" href="/jobs/france">France</a> <a style="font-size:12px" title="EU and International Policy Jobs in Germany" href="/jobs/germany">Germany</a> <a style="font-size:10px" title="EU and International Policy Jobs in Greece" href="/jobs/greece">Greece</a> <a style="font-size:10px" title="EU and International Policy Jobs in Italy" href="/jobs/italy">Italy</a> <a style="font-size:11px" title="EU and International Policy Jobs in Luxembourg" href="/jobs/luxembourg">Luxembourg</a> <a style="font-size:11px" title="European Economist Jobs in Multiple Countries" href="/jobs/multiple_countries">Multiple Countries</a> <a style="font-size:11px" title="EU and International Policy Jobs in Netherlands" href="/jobs/netherlands">Netherlands</a> <a style="font-size:11px" title="EU and International Policy Jobs in Switzerland" href="/jobs/switzerland">Switzerland</a> <a style="font-size:11px" title="EU and International Policy Jobs in the United Kingdom" href="/jobs/united_kingdom">United Kingdom</a> <a style="font-size:12px" title="Advertise with EuroBrussels" href="/advertise.php">Advertise</a> <a style="font-size:15px" title="Subscribe to our Newsletter" href="/newsletter.php">Newsletter</a> <a style="font-size:23px" title="Recruit with EuroBrussels" href="/recruit.php">Recruit</a>	  </div>
+	      <a style="font-size:16px" title="EU and International Policy Jobs in Communication/Public Relations" href="/jobs/communication_public_relations">Communication/Public Relations</a> <a style="font-size:15px" title="EU and International Policy Jobs in Consultancy" href="/jobs/consultancy">Consultancy</a> <a style="font-size:19px" title="EU and International Policy Jobs in 3 - 5 Years Experience" href="/jobs/3_5_years_experience">Experienced</a> <a style="font-size:15px" title="EU and International Policy Jobs in Human Rights and Democracy" href="/jobs/human_rights_and_democracy">Human Rights and Democracy</a> <a style="font-size:15px" title="EU and International Policy Jobs in Industry Association" href="/jobs/industry_association">Industry Association</a> <a style="font-size:16px" title="EU and International Policy Jobs in International Organisations" href="/jobs/international_organisations">International Organisations</a> <a style="font-size:17px" title="EU and International Policy Jobs in Internship" href="/jobs/internship">Internship</a> <a style="font-size:16px" title="EU and International Policy Jobs in 1 - 3 Years Experience" href="/jobs/1_3_years_experience">Junior</a> <a style="font-size:17px" title="EU and International Policy Jobs in NGO and Political" href="/jobs/ngo_and_political">NGO and Political</a> <a style="font-size:20px" title="EU and International Policy Jobs in 5 Years+ Experience" href="/jobs/5_years_experience">Senior</a> <a style="font-size:20px" title="EU and International Policy Jobs in Belgium" href="/jobs/belgium">Belgium</a> <a style="font-size:12px" title="EU and International Policy Jobs in France" href="/jobs/france">France</a> <a style="font-size:13px" title="EU and International Policy Jobs in Germany" href="/jobs/germany">Germany</a> <a style="font-size:11px" title="EU and International Policy Jobs in Italy" href="/jobs/italy">Italy</a> <a style="font-size:12px" title="EU and International Policy Jobs in Netherlands" href="/jobs/netherlands">Netherlands</a> <a style="font-size:11px" title="EU and International Policy Jobs Outside Europe" href="/jobs/outside_europe">Outside Europe</a> <a style="font-size:11px" title="EU and International Policy Jobs in Poland" href="/jobs/poland">Poland</a> <a style="font-size:11px" title="EU and International Policy Jobs in Spain" href="/jobs/spain">Spain</a> <a style="font-size:11px" title="EU and International Policy Jobs in Sweden" href="/jobs/sweden">Sweden</a> <a style="font-size:12px" title="EU and International Policy Jobs in the United Kingdom" href="/jobs/united_kingdom">United Kingdom</a> <a style="font-size:12px" title="Advertise with EuroBrussels" href="/advertise.php">Advertise</a> <a style="font-size:15px" title="Subscribe to our Newsletter" href="/newsletter.php">Newsletter</a> <a style="font-size:23px" title="Recruit with EuroBrussels" href="/recruit.php">Recruit</a>	  </div>
 	  	  
 	  
 	  	      <div class="infoBox">
@@ -169,12 +240,12 @@ $(document).ready(function(){
 			</p>
 			<p>
 
-				<a title="IntJobs" href="/partners.php#IntJobs">
-					<img height="60" width="120" src="http://www.eurobrussels.com/content/promotions/intjobs_logo_1260x60.png" alt="IntJobs">
+				<a title="EuroEnergyJobs - Energy Jobs in Europe" href="http://euroenergyjobs.com">
+					<img height="60" width="120" src="http://euroenergyjobs.com/images/energyj_logo_120x60.jpg" alt="EuroEnergyJobs - Energy Jobs in Europe">
 				</a>
 				<br>
-				<a title="IntJobs" href="/partners.php#IntJobs">
-					IntJobs				</a>
+				<a title="EuroEnergyJobs - Energy Jobs in Europe" href="http://euroenergyjobs.com">
+					EuroEnergyJobs - Energy Jobs in Europe				</a>
 			</p>
 			<div class="break"></div>
 		  </div>
@@ -219,9 +290,7 @@ $(document).ready(function(){
   <!-- END body -->
   
   <div id="sitemapFooter">
-	<table>
-		<tbody><tr>
-			<td>
+	<div class="footerbox noMobile">
 				<h3>Job Seekers</h3>
 				<a href="/" title="EU and International Jobs">Home</a><br>
 				<a href="/job_search" title="Search for EU Jobs">Job Search</a><br>
@@ -235,7 +304,7 @@ $(document).ready(function(){
 				<a href="http://www.brusselsjobs.com" target="_blank" title="Business, Secretarial, IT, Office Jobs in Brussels">Brussels Jobs</a><br>
                 <a href="http://www.brusselslegal.com" target="_blank" title="Information about Legal Affairs in Brussels">Brussels Legal</a><br>
                 <a href="http://www.intjobs.com" target="_blank" title="Global International Affairs Jobs">Global International Affairs Jobs</a><br>                				
-                <a href="http://www.euroeconomistjobs.com" target="_blank" title="Economist Jobs in Europe">Economist Jobs in Europe</a><br>
+				<a href="http://www.euroenergyjobs.com" target="_blank" title="Energy Jobs in Europe">Energy Jobs in Europe</a><br>
 				<a href="http://www.euroengineerjobs.com" target="_blank" title="Engineer Jobs in Europe">Engineer Jobs in Europe</a><br>
 				<a href="http://www.eurosciencejobs.com" target="_blank" title="Research Science Jobs or Postdocs in Europe">Science Jobs in Europe</a><br>						
 
@@ -246,8 +315,8 @@ $(document).ready(function(){
 					<a title="Follow  EuroBrussels on Twitter" target="_blank" href="http://twitter.com/EuroBrussels"><img alt="Twitter Logo" src="images/twitter_32.png"></a>
 				</div>	
 
-							</td>
-			<td>
+							</div>
+			<div class="footerbox noMobile">
 				<h3>Recruit/Advertise</h3>
 				<a href="/post_job" title="Post a Job">Post a Job</a><br>
 				<a href="/recruit" title="Recruit with Eurobrussels">Recruitment</a><br>
@@ -255,14 +324,14 @@ $(document).ready(function(){
 				<a href="/testimonials" title="Testimonials">Testimonials</a><br>
 				<a href="/about_us" title="About Us">About Us</a><br>
 				<a href="/recruiters_guide" title="EuroBrussels Recruiter's Guide - write a better job advert">Recruiter's Guide</a><br>
-			</td>
-			<td>
+			</div>
+			<div class="footerbox noMobile">
 				<h3>Jobs by Experience</h3>
-				<a title="EU and International Policy Jobs in Internship" href="/jobs/internship">Internship (35)</a><br>
+				<a title="EU and International Policy Jobs in Internship" href="/jobs/internship">Internship (43)</a><br>
 				<a title="EU and International Policy Jobs in < 1 Years Experience" href="/jobs/1_years_experience">&lt; 1 Years Experience (2)</a><br>
-				<a title="EU and International Policy Jobs in 1 - 3 Years Experience" href="/jobs/1_3_years_experience">1 - 3 Years Experience (34)</a><br>
-				<a title="EU and International Policy Jobs in 3 - 5 Years Experience" href="/jobs/3_5_years_experience">3 - 5 Years Experience (45)</a><br>
-				<a title="EU and International Policy Jobs in 5 Years+ Experience" href="/jobs/5_years_experience">5 Years+ Experience (51)</a><br>
+				<a title="EU and International Policy Jobs in 1 - 3 Years Experience" href="/jobs/1_3_years_experience">1 - 3 Years Experience (40)</a><br>
+				<a title="EU and International Policy Jobs in 3 - 5 Years Experience" href="/jobs/3_5_years_experience">3 - 5 Years Experience (59)</a><br>
+				<a title="EU and International Policy Jobs in 5 Years+ Experience" href="/jobs/5_years_experience">5 Years+ Experience (67)</a><br>
 
 				<h3>Jobs by City</h3>
 				<a href="/jobs/amsterdam" title="EU and International Policy Jobs in Amsterdam">Amsterdam</a><br>
@@ -272,47 +341,53 @@ $(document).ready(function(){
 				<a href="/jobs/london" title="EU and International Policy Jobs in London">London</a><br>
 				<a href="/jobs/paris" title="EU and International Policy Jobs in Paris">Paris</a><br>
 				<a href="/jobs/vienna" title="EU and International Policy Jobs in Vienna">Vienna</a><br>
-			</td>
-			<td>
+			</div>
+			<div class="footerbox noMobile">
 				<h3>Jobs by Country</h3>
-                <a title="EU and International Policy Jobs in Austria" href="/jobs/austria">Austria (1)</a><br><a title="EU and International Policy Jobs in Belgium" href="/jobs/belgium">Belgium (84)</a><br><a title="EU and International Policy Jobs in France" href="/jobs/france">France (6)</a><br><a title="EU and International Policy Jobs in Germany" href="/jobs/germany">Germany (16)</a><br><a title="EU and International Policy Jobs in Greece" href="/jobs/greece">Greece (1)</a><br><a title="EU and International Policy Jobs in Hungary" href="/jobs/hungary">Hungary (1)</a><br><a title="EU and International Policy Jobs in Italy" href="/jobs/italy">Italy (1)</a><br><a title="EU and International Policy Jobs in Luxembourg" href="/jobs/luxembourg">Luxembourg (4)</a><br><a title="European Economist Jobs in Multiple Countries" href="/jobs/multiple_countries">Multiple Countries (6)</a><br><a title="EU and International Policy Jobs in Netherlands" href="/jobs/netherlands">Netherlands (3)</a><br><a title="EU and International Policy Jobs in Spain" href="/jobs/spain">Spain (1)</a><br><a title="EU and International Policy Jobs in Switzerland" href="/jobs/switzerland">Switzerland (3)</a><br><a title="EU and International Policy Jobs in Ukraine" href="/jobs/ukraine">Ukraine (1)</a><br><a title="EU and International Policy Jobs in the United Kingdom" href="/jobs/united_kingdom">United Kingdom (5)</a><br>			</td>
-			<td>
+                <a title="EU and International Policy Jobs in Austria" href="/jobs/austria">Austria (1)</a><br><a title="EU and International Policy Jobs in Belgium" href="/jobs/belgium">Belgium (85)</a><br><a title="EU and International Policy Jobs in France" href="/jobs/france">France (10)</a><br><a title="EU and International Policy Jobs in Germany" href="/jobs/germany">Germany (18)</a><br><a title="EU and International Policy Jobs in Italy" href="/jobs/italy">Italy (5)</a><br><a title="EU and International Policy Jobs in Luxembourg" href="/jobs/luxembourg">Luxembourg (2)</a><br><a title="European Economist Jobs in Multiple Countries" href="/jobs/multiple_countries">Multiple Countries (1)</a><br><a title="EU and International Policy Jobs in Netherlands" href="/jobs/netherlands">Netherlands (10)</a><br><a title="EU and International Policy Jobs Outside Europe" href="/jobs/outside_europe">Outside Europe (5)</a><br><a title="EU and International Policy Jobs in Poland" href="/jobs/poland">Poland (3)</a><br><a title="EU and International Policy Jobs in Spain" href="/jobs/spain">Spain (2)</a><br><a title="EU and International Policy Jobs in Sweden" href="/jobs/sweden">Sweden (5)</a><br><a title="EU and International Policy Jobs in Switzerland" href="/jobs/switzerland">Switzerland (1)</a><br><a title="EU and International Policy Jobs in Ukraine" href="/jobs/ukraine">Ukraine (1)</a><br><a title="EU and International Policy Jobs in the United Kingdom" href="/jobs/united_kingdom">United Kingdom (12)</a><br>			</div>
+			<div class="footerbox noMobile">
 				<h3>Jobs by Policy</h3>
-				<a title="EU and International Policy Jobs in Agriculture and Fisheries" href="/jobs/agriculture_and_fisheries">Agriculture and Fisheries (5)</a><br>
-				<a title="EU and International Policy Jobs in Competition and State Aid" href="/jobs/competition_and_state_aid">Competition and State Aid (2)</a><br>
-				<a title="EU and International Policy Jobs in Customs and Tax" href="/jobs/customs_and_tax">Customs and Tax (2)</a><br>
-				<a title="EU and International Policy Jobs in Economic and Monetary Affairs" href="/jobs/economic_and_monetary_affairs">Economic and Monetary Affairs (13)</a><br>
-				<a title="EU and International Policy Jobs in Education and Culture" href="/jobs/education_and_culture">Education and Culture (5)</a><br>
-				<a title="EU and International Policy Jobs in External Relations and Development Aid" href="/jobs/external_relations_and_development_aid">External Relations and Development Aid (10)</a><br>
-				<a title="EU and International Policy Jobs in (External) Trade" href="/jobs/external_trade">External Trade (0)</a><br>
-				<a title="EU and International Policy Jobs in Employment and Social Affairs" href="/jobs/employment_and_social_affairs">Employment and Social Affairs (7)</a><br>
-				<a title="EU and International Policy Jobs in Consumers, Public Health and Food Safety" href="/jobs/consumers_public_health_and_food_safety">Consumers, Public Health and Food Safety (10)</a><br>
-				<a title="EU and International Policy Jobs in Human Rights and Democracy" href="/jobs/human_rights_and_democracy">Human Rights and Democracy (17)</a><br>
-				<a title="EU and International Policy Jobs in Justice, Freedom and Security" href="/jobs/justice_freedom_and_security">Justice, Freedom and Security (12)</a><br>
-				<a title="EU and International Policy Jobs in Media and Information Society" href="/jobs/media_and_information_society">Media and Information Society (4)</a><br>
-				<a title="EU and International Policy Jobs in Regional and Structural Policy" href="/jobs/regional_and_structural_policy">Regional and Structural Policy (5)</a><br>
-				<a title="EU and International Policy Jobs in Research and Innovation" href="/jobs/research_and_innovation">Research and Innovation (6)</a><br>
+				<a title="EU and International Policy Jobs in Agriculture and Fisheries" href="/jobs/agriculture_and_fisheries">Agriculture and Fisheries (6)</a><br>
+				<a title="EU and International Policy Jobs in Competition and State Aid" href="/jobs/competition_and_state_aid">Competition and State Aid (3)</a><br>
+				<a title="EU and International Policy Jobs in Customs and Tax" href="/jobs/customs_and_tax">Customs and Tax (3)</a><br>
+				<a title="EU and International Policy Jobs in Economic and Monetary Affairs" href="/jobs/economic_and_monetary_affairs">Economic and Monetary Affairs (16)</a><br>
+				<a title="EU and International Policy Jobs in Education and Culture" href="/jobs/education_and_culture">Education and Culture (7)</a><br>
+				<a title="EU and International Policy Jobs in External Relations and Development Aid" href="/jobs/external_relations_and_development_aid">External Relations and Development Aid (27)</a><br>
+				<a title="EU and International Policy Jobs in (External) Trade" href="/jobs/external_trade">External Trade (1)</a><br>
+				<a title="EU and International Policy Jobs in Employment and Social Affairs" href="/jobs/employment_and_social_affairs">Employment and Social Affairs (6)</a><br>
+				<a title="EU and International Policy Jobs in Consumers, Public Health and Food Safety" href="/jobs/consumers_public_health_and_food_safety">Consumers, Public Health and Food Safety (16)</a><br>
+				<a title="EU and International Policy Jobs in Human Rights and Democracy" href="/jobs/human_rights_and_democracy">Human Rights and Democracy (30)</a><br>
+				<a title="EU and International Policy Jobs in Justice, Freedom and Security" href="/jobs/justice_freedom_and_security">Justice, Freedom and Security (15)</a><br>
+				<a title="EU and International Policy Jobs in Media and Information Society" href="/jobs/media_and_information_society">Media and Information Society (5)</a><br>
+				<a title="EU and International Policy Jobs in Regional and Structural Policy" href="/jobs/regional_and_structural_policy">Regional and Structural Policy (8)</a><br>
+				<a title="EU and International Policy Jobs in Research and Innovation" href="/jobs/research_and_innovation">Research and Innovation (20)</a><br>
 				<a title="EU and International Policy Jobs in Transport" href="/jobs/transport">Transport (5)</a><br>
-			</td>
-			<td>
+			</div>
+			<div class="footerbox">
 				<h3>Jobs by Type</h3>
 				<a title="EU and International Policy Jobs in Academic and Think Tank" href="/jobs/academic_and_think_tank">Academic and Think Tank (8)</a><br>
-				<a title="EU and International Policy Jobs in Communication/Public Relations" href="/jobs/communication_public_relations">Communication/Public Relations (31)</a><br>
-				<a title="EU and International Policy Jobs in Consultancy" href="/jobs/consultancy">Consultancy (24)</a><br>
-				<a title="EU and International Policy Jobs in EU Institution" href="/jobs/eu_institution">EU Institution (15)</a><br>
-				<a title="EU and International Policy Jobs in Economist" href="/jobs/economist">Economist (1)</a><br>
+				<a title="EU and International Policy Jobs in Communication/Public Relations" href="/jobs/communication_public_relations">Communication/Public Relations (36)</a><br>
+				<a title="EU and International Policy Jobs in Consultancy" href="/jobs/consultancy">Consultancy (29)</a><br>
+				<a title="EU and International Policy Jobs in EU Institution" href="/jobs/eu_institution">EU Institution (13)</a><br>
+				<a title="EU and International Policy Jobs in Economist" href="/jobs/economist">Economist (2)</a><br>
 				<a title="EU and International Policy Jobs in Industry Association" href="/jobs/industry_association">Industry Association (30)</a><br>
-				<a title="EU and International Policy Jobs in International Organisations" href="/jobs/international_organisations">International Organisations (26)</a><br>
-				<a title="EU and International Policy Jobs in Internship" href="/jobs/internship">Internship (35)</a><br>
-				<a title="EU and International Policy Jobs in Law Firm" href="/jobs/law_firm">Law Firm (0)</a><br>
+				<a title="EU and International Policy Jobs in International Organisations" href="/jobs/international_organisations">International Organisations (37)</a><br>
+				<a title="EU and International Policy Jobs in Internship" href="/jobs/internship">Internship (43)</a><br>
+				<a title="EU and International Policy Jobs in Law Firm" href="/jobs/law_firm">Law Firm (1)</a><br>
 				<a title="EU and International Policy Jobs in Legal" href="/jobs/legal">Legal (15)</a><br>
-				<a title="EU and International Policy Jobs in NGO and Political" href="/jobs/ngo_and_political">NGO and Political (31)</a><br>
-				<a title="EU and International Policy Jobs in Operations (Accounts,HR,IT)" href="/jobs/operations_accounts_hr_it">Operations (Accounts, HR, IT) (4)</a><br>
-				<a title="EU and International Policy Jobs in Secretarial and Assistant" href="/jobs/secretarial_and_assistant">Secretarial and Assistant (6)</a><br>
-			</td>
-		</tr>
-	</tbody></table>
-	<p class="footerCopyright">© 2013 <a href="http://www.eurojobsites.com" target="_blank">EuroJobsites Ltd</a></p>
+				<a title="EU and International Policy Jobs in NGO and Political" href="/jobs/ngo_and_political">NGO and Political (41)</a><br>
+				<a title="EU and International Policy Jobs in Operations (Accounts,HR,IT)" href="/jobs/operations_accounts_hr_it">Operations (Accounts, HR, IT) (19)</a><br>
+				<a title="EU and International Policy Jobs in Secretarial and Assistant" href="/jobs/secretarial_and_assistant">Secretarial and Assistant (2)</a><br>
+			</div>
+			
+	<p id="mobileFooterLinks" class="mobileOnly">
+		<a href="newsletter">Newsletter</a> | 
+		<a href="recruit">Recruit</a> | 
+		<a href="advertise">Advertise</a> | 
+		<a href="contact_us">Contact Us</a>
+		<br>
+	</p>
+	<p class="footerCopyright">© <a href="http://www.eurojobsites.com" target="_blank">EuroJobsites</a></p>
 </div>
   
 </div>
@@ -336,7 +411,7 @@ $(document).ready(function(){
 		This website uses cookies to make your experience better. Continued use of this website means you accept our <a href="cookie_policy">cookie policy</a>.&nbsp;&nbsp;<a href="javascript:void(0)" id="acceptCookie">Accept Cookies</a>
 	</p>
 </div>
-<script type="text/javascript" src="/newsletter_overlay.js?1341520433"></script>
+<script type="text/javascript" src="/newsletter_overlay.js?1401133959"></script>
 
 <div id="newsletterOverlay" title="EuroBrussels Newsletter" style="display:none">
         <p>
@@ -345,21 +420,23 @@ $(document).ready(function(){
         <p>
         	To receive weekly job listings from EuroBrussels, enter your email address and press subscribe.
         </p>
-        <br><br>
-        <form name="newsletter_overlay_form" method="post" action="http://app.streamsend.com/public/KBFR/50k/subscribe">
-                <input type="text" name="person[email_address]" value="">
+        <form name="newsletter_overlay_form" method="post" action="newsletter/subscribe">
+          <input type="email" name="email">
+          <input type="hidden" name="newsletter_id" value="1">
         </form>
 </div>
 
-		<!-- Google analytics -->
-		<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<script type="text/javascript">
-		var pageTracker = _gat._getTracker("UA-75170-1");
-		pageTracker._initData();
-		pageTracker._trackPageview();
+
+	  	<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-75170-1']);
+		  _gaq.push(['_trackPageview']);
+		
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
 		</script>
 
   	
