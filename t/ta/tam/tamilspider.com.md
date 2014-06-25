@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tamilspider.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208032707id_/http%3A//www.tamilspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilspider.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053116id_/http%3A//www.tamilspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # TamilSpider.com privacy policy
-
-| 
 
 * * *
 
@@ -63,4 +61,4 @@ We would request you please provide us as much information as possible to resolv
 
 [ more...](https://web.archive.org/members/TopPerformers.aspx)  
   
----|---|---
+---|---
