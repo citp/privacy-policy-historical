@@ -1,39 +1,80 @@
-> *The following text is extracted and transformed from the queryworld.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812002736id_/http%3A//www.queryworld.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queryworld.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625152259id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# QueryWorld - Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-##### Introduction 
+[Home](http://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-**QueryWorld** respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at **QueryWorld’s** Web site, [www.QueryWorld.com](http://www.queryworld.com/).
+**What information do we collect?**
 
-##### Administration
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Website Name: QueryWorld   
-Website URL: [http://www.QueryWorld.com](http://www.queryworld.com/)   
-Website Email: [info@QueryWorld.com](mailto:info@QueryWorld.com)
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-##### Part 1. Information Collection & Usage 
+**What do we use your information for?**
 
-**QueryWorld** collects information through our Web site at several points. We collect the following information about primary visitors: visitor’s domain, visitor’s IP address.
+Any of the information we collect from you may be used in one of the following ways: 
 
-**IP Address** \- An IP address is a number that’s assigned to Your computer whenever You surf the web.  We retain Your IP address to help us diagnose any problems with our servers, to administer our Website, to help identify each visitor, to gather broad anonymous demographic information, to enforce compliance with **QueryWorld’s** terms and conditions, and otherwise to protect services, customers, and others.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-**Cookies** \- Cookies are small bits of electronic information that a website can transfer to a visitor’s hard drive to help tailor and keep of visits to our Website.  The use of cookies is standard on the internet and many websites use them.  Cookies allow website operators to better customize visits to the site.  Although, **QueryWorld** does not currently utilize cookies on our Website, our third party advertising companies may, in fact, use them from time to time. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-Although most Web browsers automatically accept cookies, You can usually change Your browser to prevent that or to notify You when You are sent a cookie.  This gives You the option to accept or not accept cookies. If You would like more information on cookies, we suggest You visit <http://www.cookiecentral.com/>.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-##### Part II. Compliance with Service or Process or Law Enforcement
+• To process transactions
 
-Occasionally **QueryWorld** may be required by law enforcement or judicial authorities to provide information related to our Website to the appropriate governmental authorities. We will disclose any such information upon receipt of an appropriate court order, subpoena, or to cooperate with a law enforcement investigation. **QueryWorld** fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-##### Part III. Third Party Links, Co-brand, Relationships, and Public Forums
+• To send periodic emails
 
-In an attempt to provide increased value to our visitors **QueryWorld** may choose various 3rd party web sites to link to, link from, and frame **QueryWorld**. In specific, **QueryWorld** provides numerous 3rd party links in our search results. **QueryWorld** may also participate in co-branding and other relationships to offer e-commerce and other services and features to its users. However, we have no control over these linked sites, each of who have separate privacy and data collection practices independent of **QueryWorld**. We have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices of these websites.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-##### Part IV. Problem Resolution
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-If problems arise, users may contact **QueryWorld** by email. We are committed to resolving disputes within a one week time frame.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-##### Part V. Consent
+**How do we protect your information?**
 
-By using our Website, You consent to the collection and use of Your information by **QueryWorld** as set forth in this privacy statement.  If we decide to change our privacy policy, we will post those changes on this page so that You will always be aware of what information we collect, how we use it, and under what limited circumstances we disclose it.  Continued access of the Website shall constitute acceptance of any modifications to this privacy statement.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.HugeDomains.com](http://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](http://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
