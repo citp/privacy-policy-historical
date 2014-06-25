@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trakt.tv privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209120705id_/http%3A//trakt.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trakt.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061609id_/http%3A//trakt.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - trakt
 
@@ -41,5 +41,3 @@ This Sites is not directed to children under 18. We do not knowingly collect Per
 ## **7.** Contacting Us
 
 If you have any questions about this Privacy Policy, please contact us at [support@trakt.tv](mailto:support@trakt.tv).
-
-loading...
