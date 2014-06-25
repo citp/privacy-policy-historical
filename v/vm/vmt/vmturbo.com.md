@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vmturbo.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126030249id_/http%3A//www.vmturbo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmturbo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061421id_/http%3A//www.vmturbo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VMTurbo
+# VMTurbo's Privacy Policy | Virtualization Management & Data Center Control
+
+#### Subscribe to email updates
 
 VMTurbo, Inc. (“us”, “we”, “VMTurbo”) is committed to respecting the privacy of our customers, visitors, and other users of the VMTurbo website (“Site”). This notice describes our privacy policy (“Privacy Policy”), which covers the personal and other information that we collect on the Site. By visiting our Site, you accept the practices outlined in this Privacy Policy. We reserve the right, at any time, to add to, change, update, or modify this Privacy Policy. If we do, we will notify you by posting the amended policy on our Site and, if we are authorized to send you email, notifying you of the nature of the modifications along with a link to the modified document so that you can review it. In all cases, use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.
 
@@ -9,6 +11,11 @@ Information You Provide to Us. We may receive and electronically store any perso
 
 **Automatically Collected Traffic Data and Statistics**  
 When you visit the Site, web servers may collect general information about your visit (such as, for example, the time and date of your visit, or the address of the website from which you entered the Site), which is stored as anonymous, aggregate data (“Traffic Data”). The collection of such Traffic Data may entail the use of cookies, IP addresses or other numeric codes used to identify a computer. VMTurbo may use Traffic Data to help diagnose problems with its server, analyze trends and administer the Site. Your IP address is not linked to personally identifiable information, but is used to gather broad demographic data and to monitor statistics to improve the Site. You may, at your option, expense and responsibility, set your browser to refuse cookies or delete cookies from your computer but doing so may prohibit you from making full use of the Site.
+
+**Cookies**  
+Cookies are small packets of data sent to your browser from a web server and stored on your computer’s hard drive. Cookies can help a website recognize repeat users and allow a website to track web usage behavior. Cookies work by assigning a number to the user that has no value outside of our website. If a cookie is placed, thereafter when you visit a website, a message is sent back to the web server by the browser accessing the website. You can set your browser to notify you when you are sent a cookie, and you may also elect not to accept cookies by changing the designated settings on your web browser. However, not utilizing cookies may prevent you from using certain functions and features of websites.
+
+VMTurbo uses some cookies that are strictly necessary for the delivery of services on our website. Cookies that are necessary allow us to improve the safety and security of our website, balance the traffic on our site, and remember information that you have submitted on forms when you request services on our site. Cookies that are strictly necessary do not gather any information about you that could be used for marketing or remembering where you’ve been on the internet. VMTurbo also uses ‘performance’ cookies that collect information about how you use our website, including which pages you visit, and if you experience any errors. These cookies help us improve our website by measuring any errors, test different designs on our site, and help us measure the traffic on our site so that we can optimize our content accordingly. VMTurbo’s performance cookies are only used to help us improve how our website works, understand what interests our users and measure how effective our advertising is.
 
 **Sharing of Information**  
 Currently, VMTurbo will not share your personal information with any third parties except if (1) reasonably necessary to provide requested services to you, (2) authorized by you, or (3) VMTurbo is required to do so by law or regulation, or in the good faith belief that such action is necessary (a) to conform or comply with any legal, regulatory, law enforcement or similar requirement or investigation, (b) to enforce our Terms of Service, or (c) to protect or defend the rights or property of VMTurbo or any other user.
@@ -27,9 +34,9 @@ The Site may permit you to link to other websites on the Internet, and other web
 **Contacts**  
 If you have any comments, concerns or questions about this Privacy Policy, please contact us at [legal@vmturbo.com](mailto:legal@vmturbo.com).
 
-Last Updated on January 21, 2011.
+Last Updated on May, 2014.
 
 **VMTurbo, Inc.**  
-1 Burlington Woods Drive, Suite 101  
-Burlington, MA 01803  
+500 Boylston St, 8th floor  
+Boston, MA 02116  
 United States of America
