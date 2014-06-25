@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the crazymikesapps.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221083715id_/http%3A//www.crazymikesapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazymikesapps.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063907id_/http%3A//www.crazymikesapps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**
-
+  
 **What information do we collect?**
 
 We collect information from you when you register on our site, subscribe to our newsletter or respond to a survey.
