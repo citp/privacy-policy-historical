@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the wandisco.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209045053id_/http%3A//www.wandisco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wandisco.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625143051id_/https%3A//www.wandisco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WANdisco
 
-###  PRIVACY STATEMENT  
-
+###  Privacy Statement 
 
 Thank you for visiting WANdisco.com, a WANdisco, Inc. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at our sites. 
 
-###  THE INFORMATION WE COLLECT  
-
+###  The Information We Collect 
 
 At our site, you may order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in an online forum or community. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number and information about your interests in and use of various products, programs, and services. 
 
@@ -16,8 +14,7 @@ At certain parts of our site, only persons who provide us with the requested per
 
 We may also collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Internet Explorer, Netscape), the type of operating system you are using, (e.g., Windows 98 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
 
-###  HOW WE USE THE INFORMATION  
-
+###  How We Use The Information 
 
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
 
@@ -33,37 +30,41 @@ We may on occasion combine information we receive online with outside records to
 
 Finally, WANdisco, Inc. sites covered by this Privacy Notice will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
-###  COLLECTION OF INFORMATION BY THIRD-PARTIES AND SPONSORS  
-
+###  Collection Of Information By Third-Parties And Sponsors 
 
 Our site contains links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 
 
-###  COOKIES  
-
+###  Cookies 
 
 To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
 We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), and save your password in password-protected areas. We also may use cookies to offer you products, programs, or services. 
 
-###  OUR COMMITMENT TO SECURITY  
-
+###  Our Commitment To Security 
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
-###  OUR TRADEMARKS  
-
+###  Our Trademarks 
 
 WANdisco has registered the trademarks below or has otherwise sought protection as indicated below in the U.S and other countries. We have done this to protect and preserve the marks for our community of customers, developers, partners, and supporters for the benefit of everyone involved with WANdisco. By this we mean that people should be able to recognize when a product is from WANdisco. 
 
 You may use the WANdisco trademarks below in any blog, news article, or on your website without our written consent, as long as you use them according to this guideline, retain the capitalization structure indicated below, and retain the © symbol or ™ symbol as applicable on the right shoulder of the mark according to the usage in the list below. 
 
-Term  |  Status  |  Use   
+##### Term
+
+| 
+
+##### Status
+
+| 
+
+##### Use  
+  
 ---|---|---  
 WANdisco  |  ®  |  Computer software company, logo and its products / services   
 uberSVN  |  ®  |  Open Application Lifecycle Management Platform for Subversion   
   
-###  HOW YOU CAN ACCESS OR CORRECT INFORMATION  
-
+###  How You Can Access Or Correct Information 
 
 Access to personally identifiable information that is collected from our site may be accessible for a limited period of time from the point of collection. For example, if you created a password-protected account within our site go back to that portion of the site to review the information you provided. 
 
@@ -76,7 +77,6 @@ Pleasanton, CA 94588, USA
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
-###  HOW TO CONTACT US  
+###  How To Contact Us 
 
-
-If you have any questions or concerns about the WANdisco, Inc. online policy for this site or its implementation you may contact us at privacy [at] WANdisco [dot] com. 
+If you have any questions or concerns about the WANdisco, Inc. online policy for this site or its implementation you may contact us at [privacy@wandisco.com](mailto:privacy@wandisco.com). 
