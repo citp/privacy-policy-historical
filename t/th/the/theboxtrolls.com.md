@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the theboxtrolls.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023103426id_/http%3A//laika.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theboxtrolls.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094855id_/http%3A//laika.com/privacy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
                                       Privacy Policy
-                                       Updated August 6, 2013
 This Privacy Policy applies to the following websites (jointly and severally referred to herein as "the
 Site"): www.LAIKA.com, www.coraline.com, www.paranorman.com and www.theboxtrolls.com. The
 Site is owned, operated, licensed or controlled by LAIKA, LLC. ("LAIKA"). We know that you care
@@ -89,12 +88,12 @@ their jobs. Although we use reasonable precautions to ensure that our third part
 protect your personal information, we cannot guarantee that those companies will protect your
 personal information to the same extent described in this Privacy Policy.
 Statistical Information. LAIKA shares some information about its visitors with business partners,
-sponsors and other third parties; however, that information is statistical in nature and does not
-identify specific individuals.
+sponsors and other third parties; however, that information is statistical in nature, it is aggregated,
+and does not identify specific individuals.
 Emails. From time to time, we may send you email messages, to keep you apprised of your, Site
-
-
 developments, to inform you of new offers, and to deliver email newsletters to which you have
+
+
 subscribed. We may use a bulk email service to distribute that information. Included in each of
 these messages are simple instructions on how to remove yourself from these mailings if you do not
 wish to receive them in the future.
@@ -123,6 +122,12 @@ number, time and date of a page view, and a description of the page where the We
 placed. We use these Web beacons to tailor our Site to provide better customer service. These
 Web beacons often work in conjunction with cookies but browsers can be set to refuse cookies or
 to provide warning whenever cookies are being received.
+Do Not Track Signals
+Some web browsers have “do not track settings.” These are not yet uniform across the industry and
+our Sites are not built to respond to those browser signals. We do not participate in practices
+known as “behavioral advertising” or tracking users across other websites. As such, we do not
+participate in the behavioral advertising do not track programs. If you have any questions, please
+contact us at ask_laika@laika.com, or by phone at 503-225-1130.
 LINKS TO OTHER WEBSITES
 When you visit our Site, you could be directed to, or provided with links to, third party websites
 that are beyond our control, and that are outside our service. For example, if you click on a third
@@ -137,6 +142,8 @@ drawings or other materials to the Site, and to receive proper credit for such s
 directly collect personally identifiable information about you and your child, including (i) your
 first and last name, your email address, and your date of birth; and (ii) your child's name and
 date of birth.
+
+
 Parental Consent. When your child is asked to provide personally identifiable information, we will
 first collect your (the parent's) email address and use this information to contact you (the parent) by
 email to notify you that your child wishes to provide personally identifiable information to us,
@@ -147,8 +154,6 @@ child; or (iii) delete the child's personally identifiable information. You have
 to the collection and use of your child's personally identifiable information without consenting to
 our disclosure of such information to unaffiliated third parties.
 Use of Personally Identifiable Information Collected from Children. When we collect personally
-
-
 identifiable information from children, we will only use that information for the express purpose for
 which it was collected.
 Sharing of Personally Identifiable Information Collected from Children. Except as provided
@@ -191,6 +196,8 @@ security or for the actions of any third parties. Further, our Privacy Policy do
 anything that is inherent in the operation of the Internet, and therefore beyond our control.
 MISCELLANEOUS
 Disputes regarding use of Personal Information. All disputes regarding our use of your personal
+
+
 information and/or the terms of this Privacy Policy will be resolved as more specifically provided in
 our Site’s Terms of Use.
 Accessing Your Personally Identifiable Information. We provide you with an opportunity to access
@@ -200,8 +207,6 @@ do not share your information with third party marketers, or if you would like t
 personally identifiable information, please contact our customer service representatives at
 ask_laika@laika.com, or by phone at 503-225-1130.
 Changes to this Privacy Policy. We reserve the right at our discretion to make changes to this
-
-
 Privacy Policy at any time. We will undertake reasonable efforts to notify you of material changes
 to this statement by providing notice on our Site. Please review this page periodically for changes.
 Questions. If you at any time have questions about this Privacy Policy, please send your
