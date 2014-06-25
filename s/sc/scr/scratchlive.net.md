@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scratchlive.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430070107id_/http%3A//serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratchlive.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165935id_/http%3A//serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
 
 # Serato Websites Privacy Policy | Serato.com
 
@@ -56,11 +56,17 @@ For further information about DPS please read their [Privacy Policy](http://www.
 
 #### How is the information collected?
 
-Non-Identifiable Information is collected via two different services: 1) Google Inc.'s Google Analytics web analysis service and 2) Chartbeat Inc.'s real-time analytics service.
+Non-Identifiable Information is collected via Google Inc.'s Google Analytics web analysis service.
 
-Google Analytics uses "cookies", which are small text files stored on your computer that can identify your web usage patterns throughout our websites from one page visit to another. Google stores your usage information on the their own servers and uses it to generate reports of activity on our websites. This information is made available to Serato and may also be used in reports provided to third parties at Google's discretion. Google may also provide this information to third parties if required to do so by law. Google do not associate IP address collected via Google Analytics with IP addresses collected via other Google services (eg. Gmail).
+Google Analytics uses "cookies", which are small text files stored on your computer that can identify your web usage patterns throughout our websites from one page visit to another. Google stores your usage information on the their own servers and uses it to generate reports of activity on our websites. 
 
-For further information on Google Analytics please read Google's [Terms of Service](http://www.google.com/analytics/tos.html) and [Privacy Statement](http://www.google.com/privacy.html).
+This information is made available to Serato and may also be used in reports provided to third parties at Google's discretion. Google may also provide this information to third parties if required to do so by law. 
+
+Google may use data about your usage of Serato Websites to target advertising that is served to you on non-Serato websites. Serato Websites visitors can opt out of this level of data usage by configuring their [Google Ad Settings](https://www.google.com/settings/ads). 
+
+Google also provide a tool to opt out of all Google Analytics-related data collection. The tool is available [here](https://tools.google.com/dlpage/gaoptout/).
+
+For further information on Google Analytics please read Google's [Terms of Service](http://www.google.com/analytics/tos.html) and [Privacy Statement](http://www.google.com/privacy.html). 
 
 Identifiable Information is collected via web forms that require your direct input, and stored on Serato Servers. Ownership and control of all data provided to Serato Websites is covered in our [Website Terms and Conditions](https://web.archive.org/legal/website-terms-and-conditions).
 
