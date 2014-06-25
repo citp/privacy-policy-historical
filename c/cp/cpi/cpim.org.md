@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpim.org privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203184642id_/http%3A//www.cpim.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpim.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112044id_/http%3A//cpim.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Communist Party of India (Marxist)
 
