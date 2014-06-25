@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hobbiesonabudget.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230020822id_/http%3A//hobbiesonabudget.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbiesonabudget.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101154id_/http%3A//hobbiesonabudget.com/disclosure) for the most accurate reproduction.*
 
-# Disclosure & Privacy Policy | Hobbies On A Budget
+# Disclosure & Privacy Policy - Hobbies On A Budget
 
 This policy is valid from 06 June 2011
 
@@ -26,6 +26,6 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 To get your own policy, go to http://www.disclosurepolicy.org
 
-[](http://www.hupso.com/share/)
+  *   *   *   * [](https://www.pinterest.com/pin/create/button/)
+  *   * 
 
-[ ](http://www.jdoqocy.com/click-5325230-11648654)
