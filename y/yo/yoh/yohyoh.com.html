@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yohyoh.com privacy policy that was archived on 2013-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130921225256id_/http%3A//www.yohyoh.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yohyoh.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625101800id_/http%3A//www.yohyoh.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -8,7 +8,7 @@
 <meta name="keywords" content="Showcase your talent, products, services, jokes, funny, games">
 <meta name="viewport" content="width=device-width">
 <link rel="shortcut icon" href="/includes/yohyoh/styles/images/fav.gif">
-<link rel="stylesheet" href="/includes/yohyoh/styles/css/style.css">
+		  <link rel="stylesheet" href="/includes/yohyoh/styles/css/style.css">
 <link rel="alternate" type="application/rss+xml" title="Showcase and Get Liked" href="http://www.yohyoh.com/site/rss/rss_20_Nov_2012_07_15_51.xml">
 <!--[if IE]> <link rel="stylesheet" href="/includes/yohyoh/styles/css/ie.css"> <![endif]-->
 
@@ -24,11 +24,14 @@ if (navigator.userAgent.indexOf('Android') != -1)
 </script>
 <!-- Script for android tab(samsung galaxy) End -->
 
-
+<link rel="stylesheet" type="text/css" href="/includes/yohyoh/styles/css/cropimgareaselect-default.css">
 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.pack.js"></script>
-<script src="/includes/yohyoh/scripts/js/jquery-1.7.1.min.js"></script> 
+<script src="/includes/yohyoh/scripts/js/jquery-1.7.1.min.js"></script>
+<script src="/includes/yohyoh/scripts/js/jquery.form.js"></script>
 <script type="text/javascript" language="javascript" src="/includes/yohyoh/scripts/js/jquery.carouFredSel-6.2.0-packed.js"></script>
-<script src="/includes/yohyoh/scripts/js/jquery_formvalidation.js"></script> 
+<script src="/includes/yohyoh/scripts/js/jquery_formvalidation.js"></script>
+<script src="/includes/yohyoh/scripts/js/crop/jquery.form.min.js"></script> 
+<script src="/includes/yohyoh/scripts/js/crop/jquery.imgareaselect.pack.js"></script> 
 <script src="/includes/yohyoh/scripts/js/libs/modernizr-2.5.3.min.js"></script>
 <script src="/includes/yohyoh/scripts/js/plugins.js"></script>
 <script src="/includes/yohyoh/scripts/js/jquery.masonry.min.js"></script>
@@ -135,9 +138,15 @@ if (navigator.userAgent.indexOf('Android') != -1)
 /* Before masonry scroll images login functionality */
 	$(".login").on("click", function() {
 				//	 var top        =$(this).offset().top+20;
+					 imageid = $(this).attr('data');
+					 document.getElementById("img_likeid").value=imageid;
+					 
+					 categ_commentid=$(this).attr('categ_commentid');
+					 document.getElementById("categ_commentid").value=categ_commentid;
+					 
 					 $('.login_box').css({
 					 position: "absolute",
-					 top:36,
+					 top:57,
 					 display:"block"
 					 });
 					 });
@@ -164,6 +173,9 @@ if (navigator.userAgent.indexOf('Android') != -1)
           $container.masonry( 'appended', $newElems, true ); 
 			$(".login").on("click", function() {
 					 //var top        =$(this).offset().top+20;
+					 imageid = $(this).attr('data');
+					 document.getElementById("img_likeid").value=imageid;
+					 
 					 $('.login_box').css({
 					 position: "absolute",
 					 top:36,
@@ -171,7 +183,7 @@ if (navigator.userAgent.indexOf('Android') != -1)
 					 });
 					 });
 
-/* Script for android tab(samsung galaxy) Start */
+// Script for android tab(samsung galaxy) Start 
 
 if (navigator.userAgent.indexOf('Android') != -1)
 	{
@@ -180,7 +192,7 @@ if (navigator.userAgent.indexOf('Android') != -1)
     });	
     }
 
-/* Script for android tab(samsung galaxy) End */
+// Script for android tab(samsung galaxy) End
 		
 
 
@@ -204,13 +216,64 @@ $(document).ready(function() {
 			success : function (data) {
 				//alert(data);
 					$('#'+imageid+'_likespanel').html(data);
-					like.html('<img src="/includes/yohyoh/styles/images/likes.png" alt="" class="ajaxlike" /> <span style="color:#828282;display: block; margin-left:6px;margin-top:3px;width:20px;">Liked</span>');
+					like.html('<img src="/includes/yohyoh/styles/images/likes.png" alt="like" class="ajaxlike" style="height:18px; margin-top: -2px; width: 16px;"/>');
 					//like.html(data+' Liked');
 				} // on success callback
 			});
 	});
 
-	$(".post_comment_home").click(function() { 
+	$('.like_home').click(function(){
+		imageid	=$(this).attr('data');
+		//userid	=$(this).attr('sender');
+		userid	=$('#'+imageid+'_user').val();
+		categoryid	=$('#'+imageid+'_category').val();
+		var like	=$(this);
+		$.ajax({
+			type : 'POST', // or GET
+			url : '/includes/ajax/likes.php', // this the page url where ur insert comment script lies
+			data : {imageid:imageid,userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
+			success : function (data) {
+				//alert(imageid);
+					$('#'+imageid+'_likespanel').html(data);
+					like.html('<img src="/includes/yohyoh/styles/images/likes.png" alt="yoh" style="height:18px; margin-top: -2px; width: 16px;" />');
+					//like.html(data+' Liked');
+				} // on success callback
+			});
+	});
+
+	$(".smileys").unbind('click');
+	$( ".smileys" ).click(function() {
+	var imgthumb = $(this).attr('data');
+	//var textareaval =$('#'+imageid+'_commentpost').append(imgthumb);
+	var textareabox = $('#'+imageid+'_commentpost');
+    textareabox.val(textareabox.val() + imgthumb);
+	});
+
+	$(".smileclick").unbind('click');
+	$(".smileclick").click(function(){
+		imageid=$(this).attr('data'); 
+		$('#'+imageid+'_smileclick_close').fadeIn();
+		$('#'+imageid+'_smileclick').fadeOut();
+		$('#'+imageid+'_smileys_images').slideToggle(); 
+	 });
+
+	$(".smileclick_close").unbind('click');
+	 $(".smileclick_close").click(function(){
+		imageid=$(this).attr('data');
+		$('#'+imageid+'_smileclick').fadeIn();
+		$('#'+imageid+'_smileclick_close').fadeOut();
+		$('#'+imageid+'_smileys_images').slideToggle(); 
+	 });
+
+
+
+	$('.comment_toggle').unbind('click');
+	$(".comment_toggle").click(function(){	
+	imageid	=$(this).attr('data');	
+    $('#'+imageid+'_comment').toggle();
+	});
+
+	$(".post_comment_home").click(function() { 				
 				imageid	=$(this).attr('data');
 				$('#'+imageid+'_postcommenthomeimgs').show();
 				var top  =$(this).offset().top+20;
@@ -222,12 +285,14 @@ $(document).ready(function() {
 	
     $('.postcommenthomeimgs').unbind('click');
 
-	$('.postcommenthomeimgs').click(function(){	
+	$('.postcommenthomeimgs').click(function(event){
+		event.preventDefault();
 		imageid	=$(this).attr('data');
-		imagecomment=$('#'+imageid+'_commentpost').val();
+		imagecomment=$.trim($('#'+imageid+'_commentpost').val());
 		userid	=$('#'+imageid+'_user').val();
 		categoryid	=$('#'+imageid+'_category').val();
-		if(imagecomment==''){
+		var sessionemail_id="";
+		if((imagecomment=='') || (imagecomment.length<2)){
 			alert('Comment field can not be left blank!');
 			return false;
 		}
@@ -236,11 +301,22 @@ $(document).ready(function() {
 			return false;
 		}
 		else{
+			if(sessionemail_id==""){
+					document.getElementById("img_commentid").value=imageid;
+					document.getElementById("comment_message").value=imagecomment;
+					$('.login_box').css({
+					 position: "absolute",
+					 top:36,
+					 display:"block"
+					 });
+			}
+			else
+			{
 			$('#'+imageid+'_loading_cmnt').html("<img src='/includes/yohyoh/styles/images/loading_flow.gif' width='18px' height='18px' alt='yohyoh' />").fadeIn('fast');
 			$.ajax({
 			type : 'POST', // or GET
 			url : '/includes/ajax/comments.php', // this the page url where ur insert comment script lies
-			data : {imageid:imageid,imagecomment:imagecomment,userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
+			data : {imageid:imageid,imagecomment:addslashes(imagecomment),userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
 			success : function(data) {
 					if(data==0){
 						alert('Comment does not posted successfully');
@@ -255,9 +331,154 @@ $(document).ready(function() {
 					}
 				} // on success callback
 			});
+			}
 		}	
  
 	});
+ $('.followhome').unbind('click');
+	 $('.followhome').click(function(){
+  var receiver_user_id =$(this).attr('receiver');
+  var action =$(this).attr('action');
+  var follow =$(this);
+  $('#'+receiver_user_id+'_loadingflw').html("<img src='../includes/yohyoh/styles/images/loading_flow.gif' width='18px' height='18px' alt='YohYoh' />").fadeIn('fast');
+  $('.followhome').off('click');
+  $.ajax({
+   type : 'POST', // or GET
+   url : '/includes/ajax/profiles/follow.php', // this the page url where ur insert comment script lies
+   data : {action:action,receiver_user_id:receiver_user_id}, // GET or POST key/value parameters
+   success : function (data) {
+	   //alert(data);
+	 if(data=='follow'){
+      follow.html('Unfollow');
+      follow.attr('action','unfollow');
+     }else if(data=='unfollow'){
+      follow.html('Follow');
+      follow.attr('action','follow');
+     }
+	 $('#'+receiver_user_id+'_loadingflw').html("");
+	
+
+    } // on success callback
+   });
+ });
+
+//Newly added for profile page
+$('.delete_image').unbind('click');
+		 $(".delete_image").click(function() {
+			 delimageid	=$(this).attr('data');
+			 deluserid	=$('#'+delimageid+'_deluser').val();
+			 var parent = $(this).parent().parent().parent();
+
+			$.msgBox({
+			title: "Are You Sure",
+			content: "You want to delete this image",
+			type: "confirm",
+			buttons: [{ value: "Yes" }, { value: "No" }, { value: "Cancel"}],
+			success: function (result) {
+				if (result == "Yes") {
+							$('#load').fadeIn();		
+								
+							$.ajax({
+							   type: "POST",
+							   url: "/includes/ajax/deleteyohimage.php",
+							   data: {delimageid:delimageid,deluserid:deluserid},
+							   cache: false,
+							   success: function(data){
+							   $('#load').fadeOut();
+							   parent.slideUp('slow', function() {$(this).remove();});																
+								alert("image deleted succssfully.");
+								$("#container").masonry('reload');
+							  }
+							   
+							 });
+
+							return false;
+								
+				 
+							}
+						}
+					});
+			});
+
+
+		 $('.private_image').unbind('click');
+		 $(".private_image").click(function() {
+			 imageid	=$(this).attr('data'); //alert(priimageid);
+			 userid	=$('#'+imageid+'_deluser').val(); //alert(priuserid);
+			 var parent = $(this).parent().parent().parent();
+
+			$.msgBox({
+			title: "Are You Sure",
+			content: "You want to make this image private",
+			type: "confirm",
+			buttons: [{ value: "Yes" }, { value: "No" }, { value: "Cancel"}],
+			success: function (result) {
+				if (result == "Yes") {
+							$('#load').fadeIn();					
+								
+							$.ajax({
+							   type: "POST",
+							   url: "/includes/ajax/profiles/public_privateyohimage.php",
+							   data: {imageid:imageid,userid:userid,type:"private"},
+							   cache: false,
+							   success: function(data){
+							   //alert(data);
+							   $('#load').fadeOut();
+							   parent.fadeOut('slow', function() {$(this).remove();});							   
+							   alert("Image succssfully converted as private.");
+							   $("#container").masonry('reload');	
+							  }
+							   
+							 });
+
+							return false;
+								
+				 
+							}
+						}
+					});
+			});
+
+
+		 $('.public_image').unbind('click');
+		 $(".public_image").click(function() {
+			 imageid	=$(this).attr('data'); //alert(priimageid);
+			 userid	=$('#'+imageid+'_deluser').val(); //alert(priuserid);
+			 var parent = $(this).parent().parent().parent();
+
+			$.msgBox({
+			title: "Are You Sure",
+			content: "You want to make this image public",
+			type: "confirm",
+			buttons: [{ value: "Yes" }, { value: "No" }, { value: "Cancel"}],
+			success: function (result) {
+				if (result == "Yes") {
+							$('#load').fadeIn();					
+								
+							$.ajax({
+							   type: "POST",
+							   url: "/includes/ajax/profiles/public_privateyohimage.php",
+							   data: {imageid:imageid,userid:userid,type:"public"},
+							   cache: false,
+							   success: function(data){
+							   //alert(data);
+							   $('#load').fadeOut();
+							   parent.fadeOut('slow', function() {$(this).remove();});							   
+							   alert("Image succssfully converted as public.");
+							   $("#container").masonry('reload');	
+							  }
+							   
+							 });
+
+							return false;
+								
+				 
+							}
+						}
+					});
+			});
+
+//End Newly added for profile page
 
 
 	
@@ -297,6 +518,83 @@ $(function() {
   $('.nyroModal').nyroModal();
 });
 </script>
+
+<!-- Ajax Loader Function Start -->
+<script type="text/javascript">
+
+function showfile(typename,showcasename)
+{
+
+ $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+  $('#tab-containt').load("site/sortmedia.php?q="+typename+"&user_blog_name="+showcasename); 
+}
+
+function sitetest_ajax_request()
+{
+  $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+  $('#tab-containt').load("site/test.php"); 
+}
+
+function followed_followers_ajax_request(showcasename,chk_followed_followers)
+{
+  $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+  $('#tab-containt').load("includes/ajax/profiles/followed_followers.php?user_blog_name="+showcasename+"&chk_followed_followers="+chk_followed_followers); 
+}
+
+function likes_liked_ajax_request(showcasename,chk_likes_liked)
+{ 
+  $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+  $('#tab-containt').load("includes/ajax/profiles/likes_liked.php?user_blog_name="+showcasename+"&chk_likes_liked="+chk_likes_liked); 
+}
+
+function allactivities_ajax_request(showcasename,chk_likes_liked)
+{
+  $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+  $('#tab-containt').load("site/allactivities.php?user_blog_name="+showcasename); 
+}
+
+function video_ajax_request()
+{
+  $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+  $('#tab-containt').load("site/video.php"); 
+}
+function default_ajax_request(showcasename)
+{
+  /*$('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');*/
+   document.getElementById("tab-containt").innerHTML='<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>';
+  $('#tab-containt').load("site/default.php?user_blog_name="+showcasename); 
+}
+function aboutUser_ajax_request() {
+  $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+  $('#tab-containt').load("site/aboutUser.php"); 
+}
+function text_ajax_request() {
+  $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+  $('#tab-containt').load("site/text.php"); 
+}
+function myalbum_ajax_request(showcasename) { //alert(showcasename);
+  /*$('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');*/
+  document.getElementById("tab-containt").innerHTML='<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>';
+  $('#tab-containt').load("site/my-album.php?user_blog_name="+showcasename); 
+}
+function privatealbum_ajax_request() {
+  $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+  $('#tab-containt').load("site/private-album.php"); 
+}
+
+function pingme_msg() {
+  $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+  $('#tab-containt').load("includes/ajax/profiles/pingmemsgs.php"); 
+}
+
+function privateimages(showcasename)
+{
+	$('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+  $('#tab-containt').load("includes/ajax/profiles/private_images.php?user_blog_name="+showcasename); 
+}
+
+</script>
+<!-- ajax loader function end -->
 <script type="text/javascript">
 	var x="";
 $(function() {
@@ -358,17 +656,114 @@ function clearText(field){
     <!-- <p class="slogan">Find What People <a href="#">Likes</a>.&nbsp;&nbsp;Create Page & Reach Millions.</p> -->
 		<div><p class="slogan">Showcase &amp; promote</p>  <!-- Added by thirumal --></div>
     </div>
-
 	
-    <nav id="site-nav" class="right">
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+ $('#prepare_showcase').click(function(event){	
+		 event.stopPropagation();
+         $("#howtoprepare").toggle("fast");
+    });
+	$("#howtoprepare").on("click", function (event) {
+        event.stopPropagation();
+    });
+
+
+    $('#weshowcasebutton').click(function(event){
+        event.stopPropagation();
+         $("#weshowcaseform").toggle("fast");
+    });
+    $("#weshowcaseform").on("click", function (event) {
+        event.stopPropagation();
+    });
+
+
+
+/* Start Send Message script */
+
+	$("#sendmsg_attach").click(function(event){
+		event.stopPropagation();
+	  $("#sendmsg_browse").toggle();
+	}); 
+	
+	$("#attachfile").click(function(event){
+		event.stopPropagation();
+	  $("#sendmsg_browse").show();
+	}); 
+	
+	$("#editgroupid").unbind('click');
+	$("#postwrite").unbind('click');
+	$("#postwrite").click(function(event){
+		event.stopPropagation();
+	  $("#following_followers_list").hide();
+	  $("#fade_following_followers_list").hide();
+	  $("#sendmessageform").show();
+	  $("#sendmessageform").css('border-top', '#BABABA');
+	  $(".upload_headline").css('color', '#BABABA');
+	//  $("#uploadiconsdisplay").show(); 
+	  
+	  
+	}); 
+	
+	$("#option").click(function(event){
+		event.stopPropagation();
+	  $("#sendmessageform").show();
+	  $("#uploadiconsdisplay").hide();  
+	}); 
+
+	$("#editgroupid").click(function(event){
+		event.stopPropagation();
+	  $("#sendmessageform").show();
+	  $("#uploadiconsdisplay").hide(); 
+	}); 
+	
+	$("#sendmessageform").click(function(event){
+		event.stopPropagation();
+	 $("#uploadiconsdisplay").hide(); 
+	}); 
+	
+	
+	
+	$("#fade_following_followers_list").click(function(event){
+		event.stopPropagation();
+	 $("#following_followers_list").show();
+	}); 
+
+/* End Send Message script */
+
+});
+
+$(document).on("click", function () {
+    $("#weshowcaseform").hide();
+	$("#howtoprepare").hide();
+	$("#sendmsg_browse").hide();
+	$("#uploadiconsdisplay").show();
+	$(".upload_headline").css('color', '#E36010');
+	document.getElementById("uploadiconsdisplay").style.position = "absolute";
+});
+
+</script>
+<div id="howtoprepare" style="display:none;">			
+			<object style="margin:2%;" width="96%" height="400" id="recordedVideo" name="recordedVideo" data="http://releases.flowplayer.org/swf/flowplayer-3.2.15.swf" type="application/x-shockwave-flash">
+			<param name="movie" value="http://releases.flowplayer.org/swf/flowplayer-3.2.15.swf">
+			<param name="allowfullscreen" value="true">
+			<param name="allowscriptaccess" value="always">
+			<param name="flashvars" value="config={&quot;clip&quot;:{&quot;baseUrl&quot;:&quot;http://stream.flowplayer.org&quot;,&quot;url&quot;:&quot;http://www.yohyoh.com/site/modules/whats/images/tremendous_development .flv&quot;},&quot;canvas&quot;:{&quot;backgroundColor&quot;:&quot;#112233&quot;},&quot;plugins&quot;:{&quot;controls&quot;:{&quot;time&quot;:false,&quot;volume&quot;:false,&quot;fullscreen&quot;:false}}}">
+		</object>
+</div>
+	
+<nav id="site-nav" class="right">
       <ul>	
       
-        		<li class="upload"><a class="login"><span class="loginadd">Upload</span></a></li>
-		<li><div class="lcat_explorelist"></div></li><li class="explore_img"><a href="#" class="exlist"><span class="yoh_aboutyoh">Explore</span></a><a class="exlist" href="#"><img src="/includes/yohyoh/styles/images/explore_icon.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="15px" height="16px"></a>		
+        		<li class="upload"><a class="login"><span class="loginadd">Upload</span><img src="/includes/yohyoh/styles/images/upload.png" alt="yohyoh"></a></li>
+		<li><div id="weshowcasebutton"><span class="weshowcasenew">New</span></div></li>
+		<li class="contesthome"><a href="http://www.yohyoh.com/contest-home" target="_blank"><img src="/includes/yohyoh/styles/images/rupee_icon.png"></a></li>
+		<li class="explore_img"><a href="#" class="exlist"><span class="yoh_aboutyoh">Explore</span><img src="/includes/yohyoh/styles/images/explore.png" alt="yohyoh"></a>		
 		  <div class="lcats_explore">
 		    <ul>
 				<li><a href="http://www.yohyoh.com/health/online-doctor/live/">Online Doctor</a></li> 
-				<li><a href="http://eshop.yohyoh.com">eShop</a></li>
+				<!--<li><a href="http://eshop.yohyoh.com">eShop</a></li>-->
 				<li><a href="http://www.yohyoh.com/careers/home">Careers</a></li>
 				<li>
 					
@@ -411,18 +806,19 @@ function clearText(field){
 			</ul>
           </div>
         </li>
-		<li class="login_icon"><a class="login"><span class="yoh_aboutyoh">Login</span></a></li>
-        <li class="signup_icon"><a href="#" class="signup"><span class="yoh_aboutyoh">Signup</span></a></li>
-        <li><a class="yoh" href="#"><span class="yoh_aboutyoh">About</span></a>
+
+		<li class="about_yoh"><a class="yoh" href="#"><span class="yoh_aboutyoh">About</span><img src="/includes/yohyoh/styles/images/about.png" alt="yohyoh"></a>
 		<div class="lcats_explore terms_priv">
 		    <ul>
-				<li><a href="http://www.yohyoh.com/whats-yohyoh">Whats YohYoh</a></li> 
+				<li><a href="http://www.yohyoh.com/help/what.html" target="_blank">Whats YohYoh</a></li>
+				<li><a href="http://www.yohyoh.com/help/help.html" target="_blank">Help</a></li> 
 				<li><a href="http://www.yohyoh.com/terms-of-service">Terms of Service</a></li>
 				<li><a href="http://www.yohyoh.com/privacy-policy">Privacy Policy</a></li>
 			</ul>
 		</div>
 		</li>
-
+		<li class="login_icon"><a class="login"><span class="yoh_aboutyoh">Login</span></a></li>
+        <li class="signup_icon"><a href="#" class="signup"><span class="yoh_aboutyoh">Signup</span></a></li>
         		<li class="lang"><a href="#">News<span></span></a></li>        
       </ul>
       <div class="lang_drop">
@@ -435,7 +831,7 @@ function clearText(field){
 		<a href="/bengali-news">বাংলা</a> 
 		<a href="/kannada-news">ಕನ್ನಡ</a>
 		<a href="/malayalam-news">മലയാളം</a> </div>
-     <div class="contest_winners_link"><a href="http://www.yohyoh.com/contest-winners">I phone contest winners</a></div>
+    
       <div class="login_box">
         <h2><a href="#">YOH YOH</a> Login</h2>
         <!--<h3>Become part of the world's best photography community.</h3>-->
@@ -443,25 +839,30 @@ function clearText(field){
 		<div id="logmsg" style="display:block; width:73%; text-align:center; margin-top:5px;color:#FF0000;margin-bottom:5px;"></div>
           <div class="fleft">
             <label><strong>Email ID</strong></label>
-            <input class="text required email" type="text" name="username" onfocus="clearText(this)" placeholder="Enter your Email ID">
+            <input class="text required email" type="text" name="username" onfocus="clearText(this)" placeholder="Enter your Email ID" autofocus="">
           </div>
           <div class="fleft">
             <label><strong>Password</strong></label>
             <input class="text required" type="password" name="password" onfocus="clearText(this)" placeholder="Enter your password" onkeypress="if(event.keyCode==13) {loginvalidation(document.loginForm,'/privacy-policy');}">
           </div>
           <div class="fleft login_btn">
-           <input type="button" class="or_btn left" value="Login" onclick="loginvalidation(document.loginForm,'/privacy-policy')">
+           <input type="button" class="or_btn left" value="Login" onclick="loginvalidation(document.loginForm,'/privacy-policy')"><div id="loginmessage"></div>
           </div>
           <p style="display:block; width:73%; text-align:center; margin-top:17px;">
             <!-- <input type="checkbox">
             Remeber Me --> <a class="forget">Forgot Password ?</a> </p>
           <div class="clear">.</div>
           <input type="hidden" name="subval" value="Login">
+		  <input type="hidden" name="img_likeid" id="img_likeid">
+		  <input type="hidden" name="img_commentid" id="img_commentid">
+		  <input type="hidden" name="comment_message" id="comment_message">
+		  <input type="hidden" name="largeimagepage_id" id="largeimagepage_id">
+		  <input type="hidden" name="categ_commentid" id="categ_commentid">
         </form>
         <span class="or">OR</span>
         <div class="login_social"><span class="login_with">Login With </span> 
 
-		 <a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=4d946e29c7c4c171f52d68dd8fe74af6&amp;scope=email%2Cpublish_stream%2Cpublish_actions"><img src="/includes/yohyoh/styles/images/login_fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a> 
+		 <a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=f48d4f02c2168de4052afd4adef8f09b&amp;scope=email%2Cpublish_stream%2Cpublish_actions"><img src="/includes/yohyoh/styles/images/login_fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a> 
 		 
 		 
 		  OR <a href=".//index.php?auth=google"><img src="/includes/yohyoh/styles/images/login_gmail.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="28" height="28"></a> OR <a href=".//index.php?auth=yahoo"><img src="/includes/yohyoh/styles/images/yahoo_icon.jpg" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="28" height="28"></a>	
@@ -475,19 +876,24 @@ function clearText(field){
         <form name="signupForm" id="signupForm" method="post">
           <div class="fleft">
             <label><strong>E-mail</strong></label>
-            <input class="text required" type="text" name="email" placeholder="Enter your e-mail Id" onkeypress="if(event.keyCode==13){signupvalidation(document.signupForm,'/privacy-policy'); return false;}">
-          </div>
+            <input class="text required" type="text" name="email" placeholder="Enter your e-mail Id" onkeypress="if(event.keyCode==13){signupvalidation(document.signupForm,'/privacy-policy'); return false;}" autofocus="">
+		 </div>
+		 <div class="fleft">	
+			<label><strong>Showcase Name</strong></label>
+			<input class="text required" type="text" name="showcasename" id="showcasename" placeholder="Enter your showcase name">
+			<span style="display:block;margin-top:-14px;">ex: rahul</span>
+			          </div>
           <div class="fleft login_btn">
             <input type="hidden" name="subval" value="Signup">
-            <input type="button" class="or_btn left" value="Signup" onclick="signupvalidation(document.signupForm,'/privacy-policy')">
-          </div>
-		  <div id="signupmsg" style="color:#FF0000;float:left;width:150px;"></div>
+						<input type="button" class="or_btn left" value="Signup" onclick="signupvalidation(document.signupForm,'/privacy-policy','nodropdown')">
+			          </div>
+		  <div id="signupmsg" style="color:#FF0000;float:left; text-align:center; width:81%;"></div>
           <div class="clear">.</div>
         </form>
         <span class="or">OR</span>
         <div class="login_social"> 
 		<span class="login_with">Login With </span>
-		<a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=4d946e29c7c4c171f52d68dd8fe74af6&amp;scope=email%2Cpublish_stream%2Cpublish_actions"><img src="/includes/yohyoh/styles/images/login_fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a>  
+		<a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=f48d4f02c2168de4052afd4adef8f09b&amp;scope=email%2Cpublish_stream%2Cpublish_actions"><img src="/includes/yohyoh/styles/images/login_fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a>  
 		
 		  OR <a href=".//index.php?auth=google"><img src="/includes/yohyoh/styles/images/login_gmail.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="28" height="28"></a> OR <a href=".//index.php?auth=yahoo"><img src="/includes/yohyoh/styles/images/yahoo_icon.jpg" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="28" height="28"></a>
 
@@ -505,7 +911,7 @@ function clearText(field){
           <div class="fleft login_btn">
             <input type="button" class="or_btn left" value="INVITE" onclick="invitefriendvalidation(document.inviteForm,'/privacy-policy')">
           </div>
-		  <div id="invitemsg" style="color:#FF0000;float:left;width:150px;"></div>
+		  <div id="invitemsg" style="color:#FF0000;float:left;width:300px;"></div>
           <div class="clear">.</div>
         </form>
 	
@@ -530,20 +936,197 @@ function clearText(field){
 <!-- *************** Forget password added by development end******************* -->
 
     </nav>
-	<div class="how_show_text">
-	<a href="http://www.yohyoh.com/whats-yohyoh/start-your-showcase">How to showcase <img src="/includes/yohyoh/styles/images/showcase_howto.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="18px" height="17px"></a></div>
-	<div class="contestpage_link"> 
-	<a class="contest_new_but" href="http://www.yohyoh.com/contest-home">Win 10,000/-</a> </div>
+
+	<div id="weshowcaseform" style="display:none;">
+
+			<div id="weshowcase_box">
+				<div class="weshowcase_matter">
+				We Showcase for you !
+				</div>				 
+				<form name="weshowcaseformname" method="post" id="weshowcaseformname">
+					<div id="weshowcasemsg" style="color:#FF0000;float:left; margin: 18px 0; text-align:center; width:81%;"></div>
+					<input type="email" placeholder="rahul@email.com" name="weshowcase_email"><span class="weshowcase_name">Email</span>
+					<br>
+					<input type="text" placeholder="www.rahul.com" name="websitename"><span class="weshowcase_name">Website</span>					
+					<br>
+					<input type="text" placeholder="rahul" name="weshowcase_name"><span class="weshowcase_name">Showcase<br><span style="display: inline-block;    font-weight:normal; position: relative; top:-12px;  font-size:13px;"><b>Ex:Showcase Link appears as </b><a href="http://www.yohyoh.com/rahul" target="_blank" style="color:#959595;">yohyoh.com/rahul</a></span>
+					<br><br>
+					<div class="weshowcase_button"><input type="button" onclick="weshowcasevalidation(document.weshowcaseformname)" id="weshowcase_submit" value="Send"></div>
+				
+			</span></form></div>
+	</div>
+	
   </section>
 </header>
 
-<!-- Upload popup-->
-  <div id="add" style="display: none; width: 740px;">
-    <div class="lb_top"></div>
-    <h2>Upload</h2>
-    <div class="icons"><a href="/extract_image/"><img src="/includes/yohyoh/styles/images/add-images-active.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."><img class="act" src="/includes/yohyoh/styles/images/add-images.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people.">Add Images</a> <a href="/img_upload/index.php"><img src="/includes/yohyoh/styles/images/upload-images-active.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."><img class="act" src="/includes/yohyoh/styles/images/upload-images.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people.">Upload Images</a> <a href="/site/add_video.php" class="nyroModal"><img src="/includes/yohyoh/styles/images/add-videos-active.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."><img class="act" src="/includes/yohyoh/styles/images/add-videos.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people.">Add Videos</a> <a href="/site/add_text.php" class="nyroModal"><img src="/includes/yohyoh/styles/images/upload-text-active.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."><img class="act" src="/includes/yohyoh/styles/images/upload-text.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people.">Add Text</a><a href="add-pdf"><img src="/includes/yohyoh/styles/images/pdfupload_active_icon.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."><img class="act" src="/includes/yohyoh/styles/images/pdfupload_icon.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people.">PDF Upload</a><a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http://www.yohyoh.com/site/f.php&amp;scope=email,offline_access,publish_stream,publish_actions,user_birthday,user_location,user_work_history,user_about_me,user_hometown,user_photos"><img src="/includes/yohyoh/styles/images/fb-target.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."><img class="act" src="/includes/yohyoh/styles/images/fb-target.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people.">Fetch Images<br>from Facebook</a></div>
+<!-- Upload popup  show-upload-->
+<script type="text/javascript">
+$(document).ready(function(){
+  
+  $("#uploadicon").click(function(){ 
+	 $('#uploadicon').addClass('active');	 
+	 $('#extractimg').removeClass('active');
+	 $('#audioicon').removeClass('active');	 
+	 $('#texticon').removeClass('active');
+	 $('#pdficon').removeClass('active');
+	 $('#videoicon').removeClass('active');
+	 $('#showfacebook').removeClass('active');
+	 $('#extracturl').removeClass('active');
+    $.get("/img_upload/index.php",function(data,status){
+	  $("#uploadtoggle").show();
+	  $("#uploadform").html(data);
+    });
+  });
+
+  $("#extractimg").click(function(){
+	 $('#extractimg').addClass('active');	 
+	 $('#uploadicon').removeClass('active');
+	 $('#audioicon').removeClass('active');	 
+	 $('#texticon').removeClass('active');
+	 $('#pdficon').removeClass('active');
+	 $('#videoicon').removeClass('active');
+	 $('#showfacebook').removeClass('active');
+	 $('#extracturl').removeClass('active');
+	$.get("/extract_image/index.php",function(data,status){	
+	  $("#uploadtoggle").show();
+	  $("#uploadform").html(data);	  
+	});
+  });
+
+  $("#audioicon").click(function(){
+	 $('#audioicon').addClass('active');	 
+	 $('#uploadicon').removeClass('active');
+	 $('#extractimg').removeClass('active');	 
+	 $('#texticon').removeClass('active');
+	 $('#pdficon').removeClass('active');
+	 $('#videoicon').removeClass('active');
+	 $('#showfacebook').removeClass('active');
+	 $('#extracturl').removeClass('active');
+    $.get("/includes/ajax/pdfform.php?title=Upload Audio",function(data,status){
+	  $("#uploadtoggle").show();
+	  $("#uploadform").html(data);
+    });
+  });
+      
+  $("#videoicon").click(function(){
+	 $('#videoicon').addClass('active');	 
+	 $('#uploadicon').removeClass('active');
+	 $('#extractimg').removeClass('active');	 
+	 $('#texticon').removeClass('active');
+	 $('#pdficon').removeClass('active');
+	 $('#audioicon').removeClass('active');
+	 $('#showfacebook').removeClass('active');
+	 $('#extracturl').removeClass('active');
+	$.get("/includes/ajax/add_video.php",function(data,status){
+	  $("#uploadtoggle").show();
+	  $("#uploadform").html(data);
+    });
+  });
+  
+  $("#texticon").click(function(){
+	 $('#texticon').addClass('active');	 
+	 $('#uploadicon').removeClass('active');
+	 $('#extractimg').removeClass('active');	 
+	 $('#videoicon').removeClass('active');
+	 $('#pdficon').removeClass('active');
+	 $('#audioicon').removeClass('active');
+	 $('#showfacebook').removeClass('active');
+	 $('#extracturl').removeClass('active');
+    $.get("/includes/ajax/textform.php",function(data,status){
+	  $("#uploadtoggle").show();
+	  $("#uploadform").html(data);
+    });
+  });
+  
+  $("#pdficon").click(function(){
+	 $('#pdficon').addClass('active');	 
+	 $('#uploadicon').removeClass('active');
+	 $('#extractimg').removeClass('active');	 
+	 $('#videoicon').removeClass('active');
+	 $('#texticon').removeClass('active');
+	 $('#audioicon').removeClass('active');
+	 $('#showfacebook').removeClass('active');
+	 $('#extracturl').removeClass('active');
+    $.get("/includes/ajax/pdfform.php?title=Upload PDF File",function(data,status){
+	  $("#uploadtoggle").show();
+	  $("#uploadform").html(data);
+    });
+  });
+
+  $("#extracturl").click(function(){
+	 $('#extracturl').addClass('active');	 
+	 $('#uploadicon').removeClass('active');
+	 $('#extractimg').removeClass('active');	 
+	 $('#videoicon').removeClass('active');
+	 $('#texticon').removeClass('active');
+	 $('#audioicon').removeClass('active');
+	 $('#showfacebook').removeClass('active');
+	 $('#pdficon').removeClass('active');
+    $.get("/extracturl/index.php",function(data,status){
+	  $("#uploadtoggle").show();
+	  $("#uploadform").html(data);
+    });
+  });
+  
+});
+</script>
+
+<div id="uploadtoggle" style="display: none;">
+
+	<div id="upload_func" class="white_content">
+	<div style="margin-top:15px;"></div>
+	<div class="toggle_closebutton"><a href="javascript:void(0)" onclick="uploadtoggle('uploadtoggle')">X</a></div>
+		<div class="lb_top"></div> 
+		   
+		<div id="uploadform"></div>
+	</div>
+
 </div>
-<!-- End Upload popup--><!-- End Header top part -->
+<div id="fade" class="black_overlay"></div>
+<script type="text/javascript">
+	   
+        $(document).ready(function() {
+
+            var options = {
+            target: '#following_followers_list', //Div tag where content info will be loaded in
+            url:'/includes/ajax/sendmessage_upload.php', //The php file that handles the file that is uploaded
+            beforeSubmit: function() {
+                $('#loading_flw').html('<img src="/includes/yohyoh/media/images/loading.gif" />'); //Including a preloader, it loads into the div tag with id uploader
+            },
+            success:  function() {
+                //Here code can be included that needs to be performed if Ajax request was successful
+                $('#loading_flw').html('');
+				$('#writetext').trigger("reset");
+				//$("#following_followers_list").fadeIn();
+				//$("#following_followers_list").fadeOut(10000);
+				//document.getElementById("sendmessageform").style.display="none";
+            }
+            };
+            
+            $('#writetext').submit(function(){
+			/*if(document.getElementById("option").value=="friends"){
+				if(document.getElementById("tagname").value=='' || document.getElementById("tagslist").value==''){
+					alert("Please enter Tag Name or select Tags");
+					return false;
+				}
+			}*/
+	            $(this).ajaxSubmit(options);
+                return false;
+            });
+
+        }); 
+</script>
+
+
+
+
+
+
+
+
+ 
+
+<!-- End Header top part -->
 
 <div id="myDiv"><div id="light" style="display:none;">&nbsp;</div></div>
 <div class="wraper"> 
@@ -553,14 +1136,10 @@ function clearText(field){
  
   <div class="clear"></div>
 </div>
+
 <div class="breadcrumb">
   <ul class="breadcrumb_name">
-<li><strong><a href="http://www.yohyoh.com/">Home</a></strong></li>
-		  
-		  <li><a href="/privacy-policy/">Privacy Policy</a></li>
-
-
-		  <li></li>
+<li><strong><a href="http://www.yohyoh.com/">Home</a></strong></li><li><a href="/privacy-policy">Privacy Policy</a></li><li></li>
 		  <li></li>
 		  <li></li>
 		  <li></li>
@@ -568,9 +1147,56 @@ function clearText(field){
     
   <!-- Breadcrumb right part-->
   <ul class="cat_search_time nav">
-		  <li><a href="/actor">Actor</a></li>		
+	<div id="cmnt_followersnotification">
+	<div id="cmntnotification" style="display:block;"></div>
+</div>
+<div id="like_followersnotification">
+	<div id="likenotification" style="display:block;"></div>
+</div>
+<div id="media_followersnotification">
+	<div id="medianotification" style="display:block;"></div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){
+
+ $('#geography').click(function(event){
+		 event.stopPropagation();
+         $("#geographysearch").toggle("fast");
+    });
+	$("#geographysearch").on("click", function (event) {
+        event.stopPropagation();
+    });
+});
+
+$(document).on("click", function () {
+    $("#geographysearch").hide();
+});
+
+</script>
+
+<div id="geographysearch" style="display:none;">
+<form name="gsearch" method="POST" action="">
+	<p><input type="text" name="search_name" id="search_name" placeholder="Keyword"></p>
+	<p><select name="gcategory" id="gcategory">
+	   <option value="">Category</option>
+<option value="2d images">2d images</option><option value="3d images">3d images</option><option value="abstraction">abstraction</option><option value="accessories">accessories</option><option value="actor">actor</option><option value="actress">actress</option><option value="ads and promotions">ads and promotions</option><option value="animal">animal</option><option value="artists">artists</option><option value="arts">arts</option><option value="astronomy">astronomy</option><option value="bengali news">bengali news</option><option value="birds">birds</option><option value="books story novels">books story novels</option><option value="buildings or architecture">buildings or architecture</option><option value="calligraphy">calligraphy</option><option value="cars and motor cycles">cars and motor cycles</option><option value="cartoons">cartoons</option><option value="celebrities">celebrities</option><option value="churches">churches</option><option value="cinematography">cinematography</option><option value="computer animation">computer animation</option><option value="crafts">crafts</option><option value="deal">deal</option><option value="design">design</option><option value="digital painting">digital painting</option><option value="education">education</option><option value="english news">english news</option><option value="events">events</option><option value="fashion and life style">fashion and life style</option><option value="favicon">favicon</option><option value="fitness and excercises">fitness and excercises</option><option value="flights">flights</option><option value="flower">flower</option><option value="food">food</option><option value="fruits and vegetables">fruits and vegetables</option><option value="fun">fun</option><option value="funny">funny</option><option value="gadgets">gadgets</option><option value="gardens">gardens</option><option value="general">general</option><option value="gossips">gossips</option><option value="graffiti">graffiti</option><option value="gujrathi news">gujrathi news</option><option value="hair and beauty">hair and beauty</option><option value="hindi news">hindi news</option><option value="history">history</option><option value="home">home</option><option value="home design">home design</option><option value="hotels">hotels</option><option value="hotpictures">hotpictures</option><option value="illustration">illustration</option><option value="interior design">interior design</option><option value="internet">internet</option><option value="islands">islands</option><option value="jewelry design">jewelry design</option><option value="jobs">jobs</option><option value="jokes">jokes</option><option value="journalism">journalism</option><option value="kannada news">kannada news</option><option value="Kids">Kids</option><option value="lakes">lakes</option><option value="landscapes">landscapes</option><option value="literature">literature</option><option value="malayalam news">malayalam news</option><option value="marathi news">marathi news</option><option value="men">men</option><option value="mobiles">mobiles</option><option value="modern houses">modern houses</option><option value="modern kitchens">modern kitchens</option><option value="mountains">mountains</option><option value="movie photos">movie photos</option><option value="movies">movies</option><option value="nature">nature</option><option value="novel">novel</option><option value="others">others</option><option value="performing arts">performing arts</option><option value="pets">pets</option><option value="photography">photography</option><option value="plastics">plastics</option><option value="poultry equipment">poultry equipment</option><option value="print design">print design</option><option value="product design">product design</option><option value="products i like">products i like</option><option value="profile">profile</option><option value="programming">programming</option><option value="quote">quote</option><option value="resorts">resorts</option><option value="retouching">retouching</option><option value="science">science</option><option value="science and nature">science and nature</option><option value="space">space</option><option value="spiritual">spiritual</option><option value="sports">sports</option><option value="Storyboarding">Storyboarding</option><option value="swimming pools">swimming pools</option><option value="tamil news">tamil news</option><option value="tattoo">tattoo</option><option value="technology">technology</option><option value="telugu news">telugu news</option><option value="temples">temples</option><option value="textile design">textile design</option><option value="tourism and places">tourism and places</option><option value="toy design">toy design</option><option value="typography">typography</option><option value="videos">videos</option><option value="wallpapers">wallpapers</option><option value="watches">watches</option><option value="waterfalls">waterfalls</option><option value="web design">web design</option><option value="wedding">wedding</option><option value="women">women</option><option value="world wonders">world wonders</option><option value="yohyohvideos">yohyohvideos</option></select>
+    </p>
+	<p>
+	<select name="country" id="country">
+	<option value="">Country</option>
+	<option value="afghanistan">Afghanistan</option><option value="aland-islands">Aland Islands</option><option value="albania">Albania</option><option value="algeria">Algeria</option><option value="american-samoa">American Samoa</option><option value="andorra">Andorra</option><option value="angola">Angola</option><option value="anguilla">Anguilla</option><option value="antarctica">Antarctica</option><option value="antigua-and-barbuda">Antigua and Barbuda</option><option value="argentina">Argentina</option><option value="armenia">Armenia</option><option value="aruba">Aruba</option><option value="australia">Australia</option><option value="austria">Austria</option><option value="azerbaijan">Azerbaijan</option><option value="bahamas">Bahamas</option><option value="bahrain">Bahrain</option><option value="bangladesh">Bangladesh</option><option value="barbados">Barbados</option><option value="belarus">Belarus</option><option value="belgium">Belgium</option><option value="belize">Belize</option><option value="benin">Benin</option><option value="bermuda">Bermuda</option><option value="bhutan">Bhutan</option><option value="bolivia">Bolivia</option><option value="bosnia-and-herzegovina">Bosnia and Herzegovina</option><option value="botswana">Botswana</option><option value="bouvet-island">Bouvet Island</option><option value="brazil">Brazil</option><option value="british-indian-ocean">British Indian Ocean...</option><option value="british-virgin-islands">British Virgin Islands</option><option value="brunei">Brunei</option><option value="bulgaria">Bulgaria</option><option value="burkina-faso">Burkina Faso</option><option value="burundi">Burundi</option><option value="cambodia">Cambodia</option><option value="cameroon">Cameroon</option><option value="canada">Canada</option><option value="cape-verde">Cape Verde</option><option value="cayman-islands">Cayman Islands</option><option value="central-african-republic">Central African Republic</option><option value="chad">Chad</option><option value="chile">Chile</option><option value="china">China</option><option value="christmas-island">Christmas Island</option><option value="cocos-keeling-islands">Cocos (Keeling) Islands</option><option value="colombia">Colombia</option><option value="comoros">Comoros</option><option value="congo">Congo</option><option value="cook-islands">Cook Islands</option><option value="costa-rica">Costa Rica</option><option value="croatia">Croatia</option><option value="cyprus">Cyprus</option><option value="czech-republic">Czech Republic</option><option value="democratic-republic">Democratic Republic </option><option value="denmark">Denmark</option><option value="disputed-territory">Disputed Territory</option><option value="djibouti">Djibouti</option><option value="dominica">Dominica</option><option value="dominican-republic">Dominican Republic</option><option value="east-timor">East Timor</option><option value="ecuador">Ecuador</option><option value="egypt">Egypt</option><option value="el-salvador">El Salvador</option><option value="equatorial-guinea">Equatorial Guinea</option><option value="eritrea">Eritrea</option><option value="estonia">Estonia</option><option value="ethiopia">Ethiopia</option><option value="falkland-islands">Falkland Islands</option><option value="faroe-islands">Faroe Islands</option><option value="fiji">Fiji</option><option value="finland">Finland</option><option value="france">France</option><option value="french-guyana">French Guyana</option><option value="french-polynesia">French Polynesia</option><option value="gabon">Gabon</option><option value="gambia">Gambia</option><option value="georgia">Georgia</option><option value="germany">Germany</option><option value="ghana">Ghana</option><option value="gibraltar">Gibraltar</option><option value="greece">Greece</option><option value="greenland">Greenland</option><option value="grenada">Grenada</option><option value="guadeloupe">Guadeloupe</option><option value="guam">Guam</option><option value="guatemala">Guatemala</option><option value="guinea">Guinea</option><option value="guinea-bissau">Guinea-Bissau</option><option value="guyana">Guyana</option><option value="haiti">Haiti</option><option value="heard-island-and-mcdonald">Heard Island and Mcdonald...</option><option value="honduras">Honduras</option><option value="hong-kong">Hong Kong</option><option value="hungary">Hungary</option><option value="iceland">Iceland</option><option value="india">India</option><option value="indonesia">Indonesia</option><option value="iraq">Iraq</option><option value="iraq-saudi-arabia-neutral">Iraq-Saudi Arabia Neutral...</option><option value="ireland">Ireland</option><option value="israel">Israel</option><option value="italy">Italy</option><option value="ivory-coast">Ivory Coast</option><option value="japan">Japan</option><option value="jordan">Jordan</option><option value="kazakhstan">Kazakhstan</option><option value="kenya">Kenya</option><option value="kiribati">Kiribati</option><option value="kuwait">Kuwait</option><option value="kyrgyzstan">Kyrgyzstan</option><option value="laos">Laos</option><option value="latvia">Latvia</option><option value="lebanon">Lebanon</option><option value="lesotho">Lesotho</option><option value="liberia">Liberia</option><option value="libya">Libya</option><option value="liechtenstein">Liechtenstein</option><option value="lithuania">Lithuania</option><option value="luxembourg">Luxembourg</option><option value="macau">Macau</option><option value="macedonia">Macedonia</option><option value="madagascar">Madagascar</option><option value="malawi">Malawi</option><option value="malaysia">Malaysia</option><option value="maldives">Maldives</option><option value="mali">Mali</option><option value="malta">Malta</option><option value="marshall-islands">Marshall Islands</option><option value="martinique">Martinique</option><option value="mauritania">Mauritania</option><option value="mauritius">Mauritius</option><option value="mayotte">Mayotte</option><option value="mexico">Mexico</option><option value="moldova">Moldova</option><option value="monaco">Monaco</option><option value="mongolia">Mongolia</option><option value="montserrat">Montserrat</option><option value="morocco">Morocco</option><option value="mozambique">Mozambique</option><option value="myanmar">Myanmar</option><option value="namibia">Namibia</option><option value="nauru">Nauru</option><option value="nepal">Nepal</option><option value="netherlands">Netherlands</option><option value="netherlands-antilles">Netherlands Antilles</option><option value="new-caledonia">New Caledonia</option><option value="new-zealand">New Zealand</option><option value="nicaragua">Nicaragua</option><option value="niger">Niger</option><option value="nigeria">Nigeria</option><option value="niue">Niue</option><option value="norfolk-island">Norfolk Island</option><option value="north-korea">North Korea</option><option value="northern-mariana-islands">Northern Mariana Islands</option><option value="norway">Norway</option><option value="oman">Oman</option><option value="pakistan">Pakistan</option><option value="palau">Palau</option><option value="palestinian-occupied">Palestinian Occupied ...</option><option value="panama">Panama</option><option value="papua-new-guinea">Papua New Guinea</option><option value="paraguay">Paraguay</option><option value="peru">Peru</option><option value="philippines">Philippines</option><option value="pitcairn-islands">Pitcairn Islands</option><option value="poland">Poland</option><option value="portugal">Portugal</option><option value="puerto-rico">Puerto Rico</option><option value="qatar">Qatar</option><option value="reunion">Reunion</option><option value="romania">Romania</option><option value="russia">Russia</option><option value="rwanda">Rwanda</option><option value="saint-helena">Saint Helena </option><option value="saint-kitts-and-nevis">Saint Kitts and Nevis</option><option value="saint-lucia">Saint Lucia</option><option value="saint-pierre-and-miquelon">Saint Pierre and Miquelon</option><option value="saint-vincent">Saint Vincent </option><option value="samoa">Samoa</option><option value="san-marino">San Marino</option><option value="sao-tome-and-principe">Sao Tome and Principe</option><option value="saudi-arabia">Saudi Arabia</option><option value="senegal">Senegal</option><option value="serbia-and-montenegro">Serbia and Montenegro</option><option value="seychelles">Seychelles</option><option value="sierra-leone">Sierra Leone</option><option value="singapore">Singapore</option><option value="slovakia">Slovakia</option><option value="slovenia">Slovenia</option><option value="solomon-islands">Solomon Islands</option><option value="somalia">Somalia</option><option value="south-africa">South Africa</option><option value="south-georgia">South Georgia </option><option value="south-korea">South Korea</option><option value="spain">Spain</option><option value="spratly-islands">Spratly Islands</option><option value="sri-lanka">Sri Lanka</option><option value="suriname">Suriname</option><option value="svalbard-and-jan-mayen">Svalbard and Jan Mayen</option><option value="swaziland">Swaziland</option><option value="sweden">Sweden</option><option value="switzerland">Switzerland</option><option value="syria">Syria</option><option value="taiwan">Taiwan</option><option value="tajikistan">Tajikistan</option><option value="tanzania">Tanzania</option><option value="thailand">Thailand</option><option value="togo">Togo</option><option value="tokelau">Tokelau</option><option value="tonga">Tonga</option><option value="trinidad-and-tobago">Trinidad and Tobago</option><option value="tunisia">Tunisia</option><option value="turkey">Turkey</option><option value="turkmenistan">Turkmenistan</option><option value="turks-and-caicos-islands">Turks And Caicos Islands</option><option value="tuvalu">Tuvalu</option><option value="uganda">Uganda</option><option value="ukraine">Ukraine</option><option value="united-arab-emirates">United Arab Emirates</option><option value="united-kingdom">United Kingdom</option><option value="united-nations-neutral-zone">United Nations Neutral Zone</option><option value="united-states">United States</option><option value="united-states-minor-outly">United States Minor Outly...</option><option value="uruguay">Uruguay</option><option value="us-virgin-islands">US Virgin Islands</option><option value="uzbekistan">Uzbekistan</option><option value="vanuatu">Vanuatu</option><option value="vatican-city">Vatican City</option><option value="venezuela">Venezuela</option><option value="vietnam">Vietnam</option><option value="wallis-and-futuna">Wallis and Futuna</option><option value="western-sahara">Western Sahara</option><option value="yemen">Yemen</option><option value="zambia">Zambia</option><option value="zimbabwe">Zimbabwe</option>	</select>
+	</p>
+	<p><input type="text" name="city" id="city" placeholder="City"></p>
+	<p class="searchbut"><input type="submit" name="geography_search" value="search"></p>
+</form>
+</div>
+
+
+
+
+	  <li><a href="/actor">Actor</a></li>		
 	  <li><a href="/funny">Funny</a></li>		
-	  <li class="lacat"><a class="more" href="#">More<span></span></a></li>
+	  <li class="lacat"><a class="more" href="javascript:void(0);">More<span></span></a></li>
 
 	<!-------------------------------------------------
 	         Start of Categories
@@ -578,7 +1204,7 @@ function clearText(field){
 	<div class="lcats">
     <div id="lslides" class="lnew_slides">
       <div class="slides_container" style="overflow: hidden; position: relative; display: block;">
-        <div class="slides_control" style="position: relative; width: 3561px; height: 0px; left: -1187px;"><div class="slide" style="position: absolute; top: 0px; left: 1187px; z-index: 0;">
+        <div class="slides_control" style="position: relative; width: 3009px; height: 0px; left: -1003px;"><div class="slide" style="position: absolute; top: 0px; left: 1003px; z-index: 0;">
           <ul class="item">
 				     <li><a alt="Telugu News" title="Telugu News" href="/telugu-news">Telugu News</a></li>
                     <li><a alt="English News" title="English News" href="/english-news">English News</a></li>
@@ -604,10 +1230,8 @@ function clearText(field){
 					<li><a alt="Buildings Or Architecture" title="Buildings Or Architecture" href="/buildings-or-architecture">Buildings Or Architecture</a></li>
 					<li><a alt="Calligraphy" title="Calligraphy" href="/calligraphy">Calligraphy</a></li>
 					<li><a alt="Cars And Motor Cycles" title="Cars And Motor Cycles" href="/cars-and-motor-cycles">Cars And Motor Cycles</a></li>
-					
-					
           </ul>
-        </div><div class="slide" style="position: absolute; top: 0px; left: 1187px; z-index: 0; display: none;">
+        </div><div class="slide" style="position: absolute; top: 0px; left: 1003px; z-index: 0; display: none;">
           <ul class="item">
 					<li><a alt="Cartoons" title="Cartoons" href="/cartoons">Cartoons</a></li>
 		            <li><a alt="Contest" title="Contest" href="/contest">Contest</a></li>
@@ -638,7 +1262,7 @@ function clearText(field){
 					
 					
           </ul>
-        </div><div class="slide" style="position: absolute; top: 0px; left: 1187px; z-index: 0; display: none;">
+        </div><div class="slide" style="position: absolute; top: 0px; left: 1003px; z-index: 0; display: none;">
           <ul class="item">
 					<li><a alt="Graffiti" title="Graffiti" href="/graffiti">Graffiti</a></li>
 		            <li><a alt="Hair And Beauty" title="Hair And Beauty" href="/hair-and-beauty">Hair And Beauty</a></li>
@@ -664,12 +1288,12 @@ function clearText(field){
 					<li><a alt="Landscapes" title="Landscapes" href="/landscapes">Landscapes</a></li>
 					<li><a alt="Literature" title="Literature" href="/literature">Literature</a></li>
 					<li><a alt="Men" title="Men" href="/men">Men</a></li>
-					<li><a alt="Mobile" title="Mobile" href="/mobile">Mobile</a></li>
+					<li><a alt="Mobile" title="Mobile" href="/mobiles">Mobiles</a></li>
 					<li><a alt="Modern Houses" title="Modern Houses" href="/modern-houses">Modern Houses</a></li>
 					
 					
           </ul>
-        </div><div class="slide" style="position: absolute; top: 0px; left: 1187px; z-index: 0; display: none;">
+        </div><div class="slide" style="position: absolute; top: 0px; left: 1003px; z-index: 0; display: none;">
           <ul class="item">
 					<li><a alt="Modern Kitchens" title="Modern Kitchens" href="/modern-kitchens">Modern Kitchens</a></li>
 					<li><a alt="Movie Photos" title="Movies" href="/movies">Movies</a></li>
@@ -703,7 +1327,7 @@ function clearText(field){
 					
 					
           </ul>
-        </div><div class="slide" style="position: absolute; top: 0px; left: 1187px; z-index: 0; display: none;">
+        </div><div class="slide" style="position: absolute; top: 0px; left: 1003px; z-index: 0; display: none;">
           <ul class="item">
 					<li><a alt="Sports" title="Sports" href="/sports">Sports</a></li>
 					<li><a alt="Storyboarding" title="Storyboarding" href="/storyboarding">Storyboarding</a></li>
@@ -737,7 +1361,7 @@ function clearText(field){
   <div class="rcats">
     <div id="rslides" class="lnew_slides">
       <div class="slides_container" style="overflow: hidden; position: relative; display: block;">
-        <div class="slides_control" style="position: relative; width: 10683px; height: 0px; left: -3561px;"><div class="slide" style="position: absolute; top: 0px; left: 3561px; z-index: 0;">
+        <div class="slides_control" style="position: relative; width: 9027px; height: 0px; left: -3009px;"><div class="slide" style="position: absolute; top: 0px; left: 3009px; z-index: 0;">
           <ul class="item">
             <li><a href="http://www.yohyoh.com/health/online-doctor/live/">Online Doctor</a></li>
             <li><a href="http://eshop.yohyoh.com">Eshop</a></li>
@@ -764,7 +1388,7 @@ function clearText(field){
                     <li><a href="#">Events</a></li>
                     <li><a href="#">Flights</a></li> -->
           </ul>
-        </div><div class="slide" style="position: absolute; top: 0px; left: 3561px; z-index: 0; display: none;"> </div></div>
+        </div><div class="slide" style="position: absolute; top: 0px; left: 3009px; z-index: 0; display: none;"> </div></div>
         
       </div><a href="#" class="prev">Prev</a><a href="#" class="next">Next</a>
     <ul class="pagination"><li class="current"><a href="#0">1</a></li><li><a href="#1">2</a></li></ul></div>
@@ -779,13 +1403,16 @@ function clearText(field){
 
 
 
-	  <li><form method="POST" action="">
+	  <!--<li><form method="POST" action="">
 		  <span class="search" style="display:inline-block;">
-		  <input type="text" placeholder="Type your keyword here" name="search_name" class="search_input">
+		  <input type="text" placeholder="Type your keyword here" name="search_name" class="search_input"/>
 		  
-		  <input class="src_btn" value="Search" name="search_submit" type="submit">
+		  <input class="src_btn" value="Go" name="search_submit" type="submit" />
 		  </span>
 		  </form>
+	 </li>-->
+	 <li>
+	 	<span id="geography" class="searchicon"><img src="/includes/yohyoh/styles/images/searchicon.png"></span>
 	 </li>
 	 <li class="pop"><a class="most" href="#">Most<span></span></a>
    <ul class="menupopup">
@@ -810,8 +1437,7 @@ function clearText(field){
   </ul>  <!-- Breadcrumb right part -->
   	
 </div>
-<!-- Unique Visitors Code -->  
- <!-- End Unique Visitors Code -->  <script type="text/javascript">
+<script type="text/javascript">
 var requrl="/privacy-policy";
 
 var premiumarr = new Array();
@@ -1131,17 +1757,19 @@ $(document).ready(function() {
 					itemSelector: '.box'
 					});
 	});	
-
+</script>
+<script type="text/javascript">
  $('.postcommenthomeimgs').unbind('click');
 
-$('.postcommenthomeimgs').click(function(){		
-												  
+$('.postcommenthomeimgs').click(function(event){		
+			event.preventDefault();									  
 			//alert("scroll functionality");
-		imageid	=$(this).attr('data');
-		imagecomment	=$('#'+imageid+'_commentpost').val();
+		imageid=$(this).attr('data');
+		imagecomment=$.trim($('#'+imageid+'_commentpost').val());
 		userid	=$('#'+imageid+'_user').val();
 		categoryid	=$('#'+imageid+'_category').val();
-		if(imagecomment==''){
+		//alert(imagecomment);
+		if((imagecomment=='') || (imagecomment.length<2)){
 			alert('Comment field can not be left blank!');
 			return false;
 		}
@@ -1149,32 +1777,19 @@ $('.postcommenthomeimgs').click(function(){
 			alert('You cannot comment over 250 characters long');
 			return false;
 		}
-		else{ 
-			$('#'+imageid+'_loading_cmnt').html("<img src='/includes/yohyoh/styles/images/loading_flow.gif' width='18px' height='18px' alt='yohyoh' />").fadeIn('fast');
-			$.ajax({
-			type : 'POST', // or GET
-			url : '/includes/ajax/comments.php', // this the page url where ur insert comment script lies
-			data : {imageid:imageid,imagecomment:imagecomment,userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
-			success : function(data) {
-					if(data==0){
-						alert('Comment is not posted');
-						//$('.inner_cmtspost').append('Comment does not posted successfully');
-					}	
-					else{
-					$('#'+imageid+'_commentpost').val('');
-					var record = data.split('|*|');
-					$('#'+imageid+'_commentpanel').html(record[0]);						
-					$('#'+imageid+'_tnmc').fadeOut(100);
-					$('#'+imageid+'_loading_cmnt').fadeOut('fast');
-					$('#container').masonry('reload');
-					}
-				} // on success callback
-			});
-		}	
- 
+					document.getElementById("img_commentid").value=imageid;
+					document.getElementById("comment_message").value=imagecomment;
+					$('.login_box').css({
+					 position: "absolute",
+					 top:36,
+					 display:"block"
+					 });
 	});
-	
-	$('.like').click(function(){
+</script>
+
+
+<script type="text/javascript">
+	$('.like_home').click(function(){
 		imageid	=$(this).attr('data');
 		//userid	=$(this).attr('sender');
 		userid	=$('#'+imageid+'_user').val();
@@ -1187,7 +1802,26 @@ $('.postcommenthomeimgs').click(function(){
 			success : function (data) {
 				//alert(imageid);
 					$('#'+imageid+'_likespanel').html(data);
-					like.html('<img src="/includes/yohyoh/styles/images/likes.png" alt="yoh" class="ajax_likeimg" /> <span class="liked_ajaxtext" style="color:#828282;display: block; margin-top:3px;width:20px;">Liked</span>');
+					like.html('<img src="/includes/yohyoh/styles/images/likes.png" alt="yoh" style="height:18px; margin-top: -2px; width: 16px;" />');
+					//like.html(data+' Liked');
+				} // on success callback
+			});
+	});
+	
+	$('.like').click(function(){		
+		imageid	=$(this).attr('data');
+		//userid	=$(this).attr('sender');
+		userid	=$('#'+imageid+'_user').val();
+		categoryid	=$('#'+imageid+'_category').val();
+		var like	=$(this);
+		$.ajax({
+			type : 'POST', // or GET
+			url : '/includes/ajax/likes.php', // this the page url where ur insert comment script lies
+			data : {imageid:imageid,userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
+			success : function (data) {
+				//alert(imageid);
+					$('#'+imageid+'_likespanel').html(data);
+					like.html('<img src="/includes/yohyoh/styles/images/likes.png" alt="yoh" style="float:left; margin-right:5px; margin-top:3px;" /><span style="color:#646464;">Liked</span>');
 					//like.html(data+' Liked');
 				} // on success callback
 			});
@@ -1201,7 +1835,7 @@ Pagination for premium users related images script & style start
         <script type="text/javascript">
             $(document).ready(function(){
                 function loading_show(){
-                    $('#loading').html("<img src='http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif'/>").fadeIn('fast');
+                    $('#loading').html("<img src='http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif' alt='YohYoh' />").fadeIn('fast');
                 }
                 function loading_hide(){
                     $('#loading').fadeOut('fast');
@@ -1231,7 +1865,45 @@ Pagination for premium users related images script & style start
                 });         
                 
             });
-        </script><br>   
+</script>
+<script type="text/javascript">
+$(document).ready(function() {
+$('.followhome').unbind('click');
+ $('.followhome').click(function(){
+  var receiver_user_id =$(this).attr('receiver');
+  var action =$(this).attr('action');
+  var follow =$(this);
+  $('#'+receiver_user_id+'_loadingflw').html("<img src='../includes/yohyoh/styles/images/loading_flow.gif' width='18px' height='18px'  alt='YohYoh' />").fadeIn('fast');
+  $('.followhome').off('click');
+  $.ajax({
+   type : 'POST', // or GET
+   url : '/includes/ajax/profiles/follow.php', // this the page url where ur insert comment script lies
+   data : {action:action,receiver_user_id:receiver_user_id}, // GET or POST key/value parameters
+   success : function (data) {
+	   //alert(data);
+	 if(data=='follow'){
+      follow.html('Unfollow');
+      follow.attr('action','unfollow');
+     }else if(data=='unfollow'){
+      follow.html('Follow');
+      follow.attr('action','follow');
+     }
+	 $('#'+receiver_user_id+'_loadingflw').html("");
+	
+
+    } // on success callback
+   });
+ });
+});
+</script>
+<script>
+$(document).ready(function(){
+  $(".comment_toggle").click(function(){
+	imageid	=$(this).attr('data');	
+    $('#'+imageid+'_comment').toggle();
+  });
+});
+</script><br>   
   <footer> 
     	<section>
         	<ul>
@@ -1304,7 +1976,7 @@ Pagination for premium users related images script & style start
         	<ul>
             		<li><a alt="Literature" title="Literature" href="/literature">Literature</a></li>
 					<li><a alt="Men" title="Men" href="/men">Men</a></li>
-					<li><a alt="Mobile" title="Mobile" href="/mobile">Mobile</a></li>
+					<li><a alt="Mobile" title="Mobile" href="/mobiles">Mobiles</a></li>
 					<li><a alt="Modern Houses" title="Modern Houses" href="/modern-houses">Modern Houses</a></li>
 					
             </ul><br>
