@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madcatz.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205022550id_/http%3A//madcatz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madcatz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133236id_/http%3A//madcatz.com/privacy-policy) for the most accurate reproduction.*
 
 # Mad Catz Privacy Policy | All About the Game
 
