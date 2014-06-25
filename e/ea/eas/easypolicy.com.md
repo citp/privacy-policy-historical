@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easypolicy.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224023828id_/http%3A//www.easypolicy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypolicy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135339id_/http%3A//www.easypolicy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Easypolicy
 
@@ -26,7 +26,7 @@ As the internet is an ever evolving medium, we may change our privacy policy fro
 
 ####  Contact Information
 
-EP ONLINE MARKETING PVT. LTD.  
+Sonnen Insurance.  
 C-56A/13, 6th Floor, Sec-62,   
 Noida-201301, Uttar Pradesh, India.  
 Email: help@easypolicy.com 
