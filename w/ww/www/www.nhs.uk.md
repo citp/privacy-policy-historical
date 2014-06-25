@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the www.nhs.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629032608id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.nhs.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625223001id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
 
-# Your privacy on NHS Choices
+# Your privacy on NHS Choices - About NHS Choices - NHS Choices
 
 We collect information indirectly and directly.
 
