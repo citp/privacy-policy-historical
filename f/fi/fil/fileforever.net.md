@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileforever.net privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230132041id_/http%3A//fileforever.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileforever.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053943id_/http%3A//fileforever.net/privacy_policy.html) for the most accurate reproduction.*
 
 # FileForever > Fast , Safe And Keep Files Forever
 
@@ -6,7 +6,7 @@
 
 Thank you for visiting the fileforever.net website located at www.fileforever.net (the "Site"). The Site is an Internet property of fileforever.net Ltd. and its affiliated companies ("fileforever.net," "we" or "us"). This fileforever.net Website Privacy Policy ("Privacy Policy") covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site; (b) become a Member (as defined in the fileforever.net Website Terms and Conditions ("Terms and Conditions")); and/or (c) use the Services (as defined in the Terms and Conditions). It is important that visitors are fully informed about the use of their Personal Information. We believe in 100% permission-based marketing.
 
-**If you are a resident of the State of California and would like to opt-out from the disclosure of your Personal Information to any third party for marketing purposes, please e-mail us at: Info@fileforever.net. Please be advised that where California State residents opt-out from permitting their Personal Information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law.**
+**If you are a resident of the State of California and would like to opt-out from the disclosure of your Personal Information to any third party for marketing purposes, please e-mail us at: fileforever.net@gmail.com. Please be advised that where California State residents opt-out from permitting their Personal Information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law.**
 
 When you register on our Site, you hereby agree and acknowledge that your Personal Information will be placed into the fileforever.net database and that such Personal Information shall be shared with third parties for marketing purposes.
 
@@ -68,11 +68,11 @@ No information should be submitted to, or posted at, the Site by visitors under 
 
 #### Removal of Your Information/Opting Out
 
-At your request, we will remove Personal Information that you have provided to us. You may do so by e-mailing us at Info@fileforever.net. However, deleting your Personal Information, or otherwise opting-out of receipt of communications from us or third parties, will only change or delete the data in our database for purposes of transacting future business on the Site and for managing future communications from us and third parties. These deletions will not change or delete Personal Information already collected as part of a particular transaction in our database, which may have already been shared with third parties, all as provided above in this Privacy Policy. You will need to contact third parties who may contact you directly to change your preferences or your Personal Information that they may be using to contact you.
+At your request, we will remove Personal Information that you have provided to us. You may do so by e-mailing us at **fileforever.net@gmail.com**. However, deleting your Personal Information, or otherwise opting-out of receipt of communications from us or third parties, will only change or delete the data in our database for purposes of transacting future business on the Site and for managing future communications from us and third parties. These deletions will not change or delete Personal Information already collected as part of a particular transaction in our database, which may have already been shared with third parties, all as provided above in this Privacy Policy. You will need to contact third parties who may contact you directly to change your preferences or your Personal Information that they may be using to contact you.
 
 We provide users with the option to opt-out from receiving information sent via electronic mailings on behalf of third party advertisers. Users may unsubscribe from receiving e-mail at any time by following the instructions contained at the end of every e-mailing. Unsubscribe requests can only be processed if you have registered with us in the first instance. If you have not registered with us and wish to opt out of receiving e-mail from a particular sender, please review that sender's opt out policy or contact that sender.
 
-Information sent via e-mail is prepared several days in advance, so users may continue to receive e-mail from us for up to ten (10) days following the unsubscribe procedures detailed above. If, after that point, a user is still receiving e-mail from us, the user should contact us at Info@fileforever.net.
+Information sent via e-mail is prepared several days in advance, so users may continue to receive e-mail from us for up to ten (10) days following the unsubscribe procedures detailed above. If, after that point, a user is still receiving e-mail from us, the user should contact us at **fileforever.net@gmail.com**.
 
 #### Your Acceptance of these Terms
 
@@ -80,4 +80,4 @@ By using this Site and/or Services, you agree to the terms of our Privacy Policy
 
 #### Contacting Us about Privacy Questions or Concerns
 
-If you have any questions about this Privacy Policy, the practices of the Site or your dealings with the Site, please e-mail us at Info@fileforever.net
+If you have any questions about this Privacy Policy, the practices of the Site or your dealings with the Site, please e-mail us at **fileforever.net@gmail.com**
