@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the us-passport-service-guide.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816182413id_/http%3A//www.us-passport-service-guide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-passport-service-guide.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625213700id_/http%3A//www.us-passport-service-guide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - US Passport Service Guide
+
+This is a privately owned website and not a government agency. [Click to learn more](http://www.us-passport-service-guide.com/us-passport-service-guide.html).
 
 The following describes the Privacy Policy for our website. 
 
@@ -46,7 +48,7 @@ Google, as a third party advertisement vendor, may use cookies to serve ads on t
 
 To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies. 
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers. However, you can opt out of some, though likely not all, of these cookies in one easy location at <http://ww.networkadvertising.org/managing/opt_out.asp>
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers. However, you can opt out of some, though likely not all, of these cookies in one easy location at [http://ww.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 ## Links to Third Party Websites
 
