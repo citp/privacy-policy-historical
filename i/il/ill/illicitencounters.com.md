@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214011652id_/http%3A//www.illicitencounters.com/help/faq/id/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101350id_/http%3A//illicitencounters.com/help/faq/id/3) for the most accurate reproduction.*
 
 # Recommended Site - Married Dating UK - Illicit Encounters® - Extra marital affairs and dating
 
@@ -42,4 +42,4 @@ Payment Card Details : We do not store credit card details nor do we share cust
 
 Contacting the Web Site : If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please do not hesitate to contact us.
 
-[Back](http://buildersencounters.co.uk/help/faq/id/3)
+[Back](http://illicitencounters.com/)
