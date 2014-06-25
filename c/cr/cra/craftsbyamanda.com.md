@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the craftsbyamanda.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529164428id_/http%3A//craftsbyamanda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsbyamanda.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123341id_/http%3A//craftsbyamanda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Crafts by Amanda
 
 ## [Privacy Policy](http://craftsbyamanda.com/privacy-policy)
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fcraftsbyamanda.com%2Fprivacy-policy&media=&description=Privacy%20Policy) |   
----|---  
-  
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fcraftsbyamanda.com%2Fprivacy-policy&media=&description=Privacy%20Policy)
+
 The following describes how information about your visit to this website is handled:
 
 **Personal Information**
@@ -27,5 +26,4 @@ Children’s privacy is very important to us. We do not request any information 
 
 This website may include links to many other websites. If you choose to follow those links, once you click to another site, you are subject to the privacy policy of the new site.
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fcraftsbyamanda.com%2Fprivacy-policy&media=&description=Privacy%20Policy) |   
----|---
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fcraftsbyamanda.com%2Fprivacy-policy&media=&description=Privacy%20Policy)
