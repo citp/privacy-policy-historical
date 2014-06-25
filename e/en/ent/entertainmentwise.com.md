@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the entertainmentwise.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221003539id_/http%3A//www.entertainmentwise.com/info/69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentwise.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626003804id_/http%3A//www.entertainmentwise.com/info/69) for the most accurate reproduction.*
 
-# Privacy Policy - Celebrity Gossip, News & Photos, Movie Reviews, Competitions - Entertainmentwise
+# Privacy Policy | EntertainmentWise
+
+By [Entertainmentwise](https://web.archive.org/search/Entertainmentwise/Contributor) On August 9, 2003 
 
 **This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.entertainmentwise.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details.** "You" shall mean you, the user of the Site. "We/Us" means **Entertainmentwise.** The "Site" shall have the meaning as defined above. "Users" means the users of the Site collectively and/or individually as the context allows. "User Information" means the personal details, which may be provided by You to Us via the Site as described above.
 
@@ -27,6 +29,9 @@ We are not responsible for any actions or policies of any third parties who requ
 You should be aware that information and data may be automatically collected through the use of Cookies. "Cookies" are small text files that store basic information that a web site can use to recognise repeat site visits and as an example, re-call your name if this has been previously supplied. We may use this to observe behaviour and compile aggregate data in order to improve the Site, target the advertising and assess general effectiveness of such advertising.
 
 Cookies do not attach to Your system and damage Your files. If You do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookie feature. Note, however, that 'personalised' services may be affected if the cookie option is disabled.
+
+**Advertising  
+**We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Security**  
 Security is very important to Us. Security procedures are in place to protect the confidentiality, integrity and availability of Your User information. Your User information will not be kept longer than is necessary for the purposes stated at the collection point or in this Privacy Policy.
