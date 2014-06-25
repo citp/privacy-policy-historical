@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cowboybyte.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826235202id_/http%3A//cowboybyte.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cowboybyte.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063807id_/http%3A//cowboybyte.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / Terms & Conditions - CowboyByte
+# Privacy Policy / Terms & Conditions » CowboyByte
 
 At CowboyByte.com, the privacy of our visitors is of extreme importance to us. This Privacy Policy governs the manner in which this website collects, uses, maintains and discloses information collected from users (each, a “User”) of the CowboyByte.com website (“Site”). This privacy policy applies to the Site and all products and services offered by CowboyByte.com.
 
