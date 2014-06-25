@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 451research.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225045148id_/https%3A//451research.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 451research.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625210407id_/https%3A//451research.com/privacy-policy) for the most accurate reproduction.*
 
 # 451 Research - Privacy Policy
 
