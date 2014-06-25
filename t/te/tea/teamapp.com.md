@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamapp.com privacy policy that was archived on 2013-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130730232042id_/http%3A//www.teamapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamapp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084332id_/http%3A//teamapp.com/privacy) for the most accurate reproduction.*
 
-# Team App
+# Privacy Policy
 
 In this privacy policy, the terms "we", "us" and "ours" refers to Team Mates Pty Ltd ACN 159 770 537. The term "Website" means the website located at [teamapp.com](http://teamapp.com/) and the term "App" means our application(s) for Android, iOS and other operating systems (including Team App) referred to on our Website. 
 
@@ -22,7 +22,7 @@ We may utilise "cookies" which enable us to monitor such traffic patterns and to
 
 Personal information may be collected if you choose to register on the Website or use the App. The purpose of the collection of such information is clear from the context in which it is collected, but may include to receive updates and newsletters from us if you so elect.
 
-Where you are required to pay to purchase goods or services from us through the Website or the App, we (or a financial services provider engaged by us, such as PayPal) will also collect financial information such as credit card information.
+Where you are required to pay to purchase goods or services from us or third parties through the Website or the App, we (or a financial services provider engaged by us or a third party, such as PayPal) will (or that third party) also collect financial information such as credit card information, your mailing address etc. which may be shared with third parties in order to enable them to provide the goods and/or services purchased by you.
 
 ## IP Addresses
 
@@ -69,6 +69,10 @@ Unless in using the Website or Apps you expressly or impliedly agree to make cer
 
 In addition, our employees and contractors who provide services related to our Website and Apps are obliged to respect the confidentiality of any personal information held by us.
 
+## Sharing with businesses, individuals and clubs we do not control
+
+We work closely with other businesses, individuals and clubs we do not control. In some cases, such as clubs using our App, these clubs operate stores within the App and/or sell offerings to you via the App or Website. In other cases, we may operate stores, provide services, or sell product lines jointly with these businesses, individuals and clubs. You can tell when such a third party is involved in your transactions, and we may share your information related to those transactions with that third party.
+
 ## Access to your personal information
 
 You are entitled to have access to any personal information relating to you which you have previously supplied to us over this Website and Apps. You are entitled to edit or delete such information unless we are required by law to retain it.
@@ -94,7 +98,7 @@ If you wish to make an inquiry regarding any personal information relating to yo
 The Privacy Officer   
 Team Mates Pty Ltd   
 ACN 159 770 537   
-8 Hillhouse Road   
+P.O Box 998   
 TEMPLESTOWE VIC 3016   
 AUSTRALIA 
 
