@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bedsider.org privacy policy that was archived on 2013-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130728213020id_/http%3A//bedsider.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedsider.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084242id_/http%3A//bedsider.org/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy :: Bedsider
+# Privacy Policy: Bedsider
 
 Welcome to Bedsider.org and the Bedsider network (collectively, “Bedsider”). Bedsider is operated by The National Campaign to Prevent Teen and Unplanned Pregnancy (“The National Campaign,” “we,” or “us”).  
 
@@ -13,7 +13,7 @@ _Personal Information._ We may collect and store any information that you choose
 
 _Automatic Information._ We may automatically collect some information about your computer when you visit Bedsider.org. For example, we may collect your IP address, Web browser software (such as Internet Explorer), and referring web site. We also may collect information about your activity on Bedsider. We may combine this automatically-gathered information with other information, including personal information we have collected about you.
 
-_Cookies_. When you visit Bedsider, we may assign your computer a “cookie” (a small, unique identifier text file) to remember who you are. We also may include other information in our cookie files; for example, if you arrived at Bedsider via a link from a third-party site, we may include the URL of the linking page. We may combine the information we collect through cookies with other information, including personal information we have collected about you.
+_Cookies_. When you visit Bedsider, we may assign your computer a “cookie” (a small, unique identifier text file) to remember who you are. We also may include other information in our cookie files; for example, if you arrived at Bedsider via a link from a third-party site, we may include the URL of the linking page. In addition, we collect gender, age, and interest information from 3rd parties using Google Analytics. We may combine the information we collect through cookies with other information, including personal information we have gathered about your visit in aggregate to improve our services.
 
 ### How we use this information
 
@@ -49,7 +49,13 @@ We do not sell or rent your personal information to anyone.
 
 ### How you can delete or update your information
 
-You can delete or update the personal information you have provided on Bedsider.org by contacting us at [info@bedsider.org](mailto:info@bedsider.org).   
+You can delete or update the personal information you have provided on Bedsider.org by contacting us at [info@bedsider.org](mailto:info@bedsider.org).
+
+Website visitors who don’t want their visit data reported by Google Analytics can install the Google Analytics opt-out browser add-on. This add-on instructs the Google Analytics JavaScript running on Bedsider (and other websites) to prohibit sending visit information to Google Analytics. Additionally, visitors that have installed the opt-out browser add-on are not exposed to [Content Experiments](https://support.google.com/analytics/answer/1745147).
+
+If you want to opt-out of Analytics for the web, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout) and install the add-on for your browser. For more details on installing and uninstalling the add-on, please see the relevant help resources for your specific browser.
+
+The Google Analytics opt-out browser add-on does not prevent data from being sent to the website itself or in other ways to web analytics services.  
 
 
 ### How we protect your information
