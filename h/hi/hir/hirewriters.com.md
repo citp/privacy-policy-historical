@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirewriters.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919180211id_/http%3A//hirewriters.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirewriters.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133603id_/http%3A//hirewriters.com/privacypolicy) for the most accurate reproduction.*
 
 # Hire Writers - Privacy Policy
 
