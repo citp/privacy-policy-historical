@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodyear.eu privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108005954id_/http%3A//www.goodyear.eu/home_en/footer/privacy_statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodyear.eu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134702id_/http%3A//www.goodyear.eu/home_en/footer/privacy_statement.jsp) for the most accurate reproduction.*
 
 # Privacy Statement | Goodyear
 
