@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the renegadesuccess.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225040706id_/http%3A//www.renegadesuccess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renegadesuccess.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084808id_/http%3A//www.renegadesuccess.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Home Business Success Training by Devon Brown
+# Privacy Policy « Home Business Success Training by Devon Brown
 
 ### **Our Commitment to Privacy**
 
@@ -97,3 +97,5 @@ We take special care to protect the privacy needs of children and encourage pare
 Any updates or changes to the terms of this Privacy Statement will be posted on our Site and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Statement has changed. By using our Site, you acknowledge acceptance of this Privacy Statement in effect at the time of use.
 
 YOUR USE OF OUR SITE MEANS THAT YOU ACCEPT THE PRACTICES SET FORTH IN THIS POLICY. YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES.
+
+[](http://www.hupso.com/share/)
