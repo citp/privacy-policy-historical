@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jamonkey.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103163932id_/http%3A//jamonkey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamonkey.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102141id_/http%3A//jamonkey.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — JaMonkey - Parenting & Lifestyle | Atlanta Mom Blogger
+# Privacy Policy - JaMonkey - Atlanta Mom Blogger | Parenting & Lifestyle
 
 ### Privacy Policy
 
