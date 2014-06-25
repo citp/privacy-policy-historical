@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gilead.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215070100id_/http%3A//www.gilead.com/Privacy/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gilead.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044201id_/http%3A//www.gilead.com/Privacy/Privacy-Statement) for the most accurate reproduction.*
 
 # Gilead Privacy Statement | Gilead
 
