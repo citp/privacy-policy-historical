@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231215617id_/http%3A//www.ancestry.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112703id_/http%3A//www.ancestry.com/cs/legal/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement - Ancestry.com
 
-**Last updated on June 28, 2013**
-
-  
 1.   | What does this Privacy Statement cover?  
 ---|---  
 2.   | What personal information does Ancestry collect?  
@@ -139,7 +136,9 @@ _**"IP addresses"**_
 
 We need your IP address to deliver the Website and our service to you and to help diagnose problems with our server. Your IP address is also used to gather broad demographic information such as geographic distribution of our members.
 
-Because occasionally the Ancestry Website may be partially advertiser supported, you may not "turn off" the advertising that appears on Ancestry pages. These third-parties may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness (they do not collect personal information) and to provide in information about your activity on this Website and other Websites to provide targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) and [here](http://media1.ancestry.com/TE_optout.html) (you must do both to adequately opt-out). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+**About our advertisements**
+
+Because occasionally the Ancestry Website may be partially advertiser supported, you may not "turn off" the advertising that appears on Ancestry pages. These third-parties may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness (they do not collect personal information) and to provide in information about your activity on this Website and other Websites to provide targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) and [here](http://media1.ancestry.com/TE_optout.html) (you must do both to adequately opt-out). In addition, if you are a Facebook user and would like to opt out of receiving Facebook ads personalized based on the websites you visit, please click [here](https://www.facebook.com/ads/website_custom_audiences/). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 **8.   How do you report, change or delete information about yourself or your family?**
 
