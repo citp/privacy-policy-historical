@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sem-group.net privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227130944id_/http%3A//sem-group.net/search-engine-marketing-group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sem-group.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085133id_/http%3A//sem-group.net/search-engine-marketing-group-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,8 @@ For questions regarding this privacy policy you may call 281-727-0484 or simply 
 
 ## Testimonials
 
-Since hiring Gerald to handle my SEO and link building needs, my website has taken a drastic leap upward in the search rankings. I'm now enjoying first page rankings for many of the most desirable keywords, and my website is getting more quality traffic and more conversions. I look forward to continuing the use of Search Engine Marketing Group's services!
+I'm very impressed with how Gerald has increased my rankings in a short period of time. I have been stuck at the same spot for over a year until Gerald stepped in and helped me out. I'm excited to see what he can do for my other businesses!  
 
-Eric Brantner  
-[ericbrantner.com](http://ericbrantner.com/)
+
+Barbara Gregory  
+[www.houstonapartmenthelp.com](http://www.houstonapartmenthelp.com/)
