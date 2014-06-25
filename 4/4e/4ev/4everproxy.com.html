@@ -1,964 +1,15 @@
-<!--The following is the downloaded HTML source of the 4everproxy.com privacy policy that was archived on 2013-08-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130818145843id_/http%3A//4everproxy.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4everproxy.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625111322id_/http%3A//www.4everproxy.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+	<title>4everproxy Network - Unblock Youtube Proxy | SSL Secure</title> 
+	<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+	<meta name="keywords" content="4everproxy, 4 ever proxy, unblock youtube, youtube proxy, unblock proxy, forever proxy, ssl secure proxy">
+	<meta name="description" content="4everproxy is a fast, free, safe and secure webproxy. Unblock access to YouTube in your country. No more blocked sites and restrictions, increase your internet security.">
 
-<title>4everproxy Network - Unblock Youtube Proxy | SSL Secure</title>
-<meta name="description" content="Privacy and anonymous surfing with 4everproxy.com. No more blocked sites and restrictions, increase your internet security. Unblock YouTube, ThePirateBay, Facebook, and much more. We are video compatible and allow downloads where possible.">
-<meta name="keywords" content="4everproxy, 4 ever proxy, unblock youtube, youtube proxy, unblock proxy, forever proxy, ssl secure proxy">
+	<link rel="stylesheet" href="/themes/4everproxy_main/style.css">
 
-<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-<link rel="stylesheet" type="text/css" href="/themes/default/style.css">
-<link rel="stylesheet" type="text/css" href="/themes/default/css/style5.css">
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="http://4everproxy.com/themes/default/js/modernizr.custom.63321.js"></script>
-
-</head>
-
-
-
-<body>
-
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-		<script type="text/javascript">
-(function($){
- 
-
-
-    $.fn.shuffle = function() {
-
- 
-        var allElems = this.get(),
-
-            getRandom = function(max) {
-
-                return Math.floor(Math.random() * max);
-
-            },
-
-            shuffled = $.map(allElems, function(){
-
-                var random = getRandom(allElems.length),
-
-                    randEl = $(allElems[random]).clone(true)[0];
-
-                allElems.splice(random, 1);
-
-                return randEl;
-
-
-
-           });
-
-
-
- 
-
-
-
-        this.each(function(i){
-
-
-
-            $(this).replaceWith($(shuffled[i]));
-
-
-
-        });
- 
-        return $(shuffled);
- 
-    };
- 
-
-
-
-})(jQuery);
-
-
-
-
-
-
-
-$(document).ready(function(){
-
-
-
-$('ul#list li').shuffle();
-
-
-
-        $(".dropdown").hide();
-
-
-
-		$(".ishide").hide();
-
-
-
- 
-
-
-
-    $('#dd').click(function(){
-
-
-
-    $(".dropdown").slideToggle();
-
-
-
-    });
-
-
-
-	
-
-
-
-	$('.search-textbox').mouseover(function(){
-
-
-
-    $(".ishide").show();
-
-
-
-    });
-
-
-
-$search_box = $(".proxy-cust");
-
-
-
- 
-
-
-
-        // If the user clicks the input box and the text is "search here!",
-
-
-
-        //    set it to blank
-
-
-
-        $search_box.click(function() {
-
-
-
-            if( $search_box.attr("value") == "Proxy:Port" ) {
-
-
-
- 
-
-
-
-                // Set it to an empty string
-
-
-
-                $search_box.attr("value", "");
-
-
-
-            }
-
-
-
-        });
-
-
-
-		
-
-
-
-$ssl_box = $("a.changer");
-
-
-
- 
-
-
-
-        // If the user clicks the input box and the text is "search here!",
-
-
-
-        //    set it to blank
-
-
-
-        $ssl_box.click(function() {
-
-
-
-			if($(this).text() == "Enable it now"){
-
-
-
-				$(this).text('Disable it now');
-
-
-
-				$('.status').text('SSL is enabled - ');
-
-
-
-				$('.search-textbox').attr("value", "https://");
-
-
-
-			}else{
-
-
-
-				$(this).text('Enable it now');
-
-
-
-				$('.status').text('SSL is disabled - ');
-
-
-
-				$('.search-textbox').attr("value", "http://");
-
-
-
-			}
-
-
-
-         /*   if( $ssl_box.text() == "Enable it now" ) {
-
-
-
-                $ssl_box.text('Disable it now');
-
-
-
-				$('.status').text('SSL is enabled - ');
-
-
-
-				$('.search-textbox').attr("value", "https://");
-
-
-
-            }
-
-
-
-			if( $ssl_box.text() == "Disable it now" ) {
-
-
-
-                $ssl_box.text('Enable it now');
-
-
-
-				$('.status').text('SSL is disabled - ');
-
-
-
-				$('.search-textbox').attr("value", "http://");
-
-
-
-            }*/
-
-
-
-        });		
-
-
-
-
-
-
-
-		
-
-
-
-$email_box = $(".text-box");
-
-
-
- 
-
-
-
-        // If the user clicks the input box and the text is "search here!",
-
-
-
-        //    set it to blank
-
-
-
-        $email_box.click(function() {
-
-
-
-            if( $email_box.attr("value") == "Email Address" ) {
-
-
-
- 
-
-
-
-                // Set it to an empty string
-
-
-
-                $email_box.attr("value", "");
-
-
-
-            }
-
-
-
-        });
-
-
-
- 
-
-
-
-});
-
-
-
-		</script>
-<script language="JavaScript">
-<!--
-function JumpToIt(list) {
-    var newPage = list.options[list.selectedIndex].value
-    if (newPage != "None") {
-        location.href=newPage
-    }
-}
-//-->
-</script>
-
-
-
-	<div class="wrap">
-
-
-
-		<div class="in-wrap">
-
-
-
-			<div class="top-right-box">
-
-
-
-				<form id="email-form" name="email" method="post" action="http://groups.yahoo.com/subscribe/4everproxy">
-
-
-
-					<input type="text" name="user" value="Email Address" class="text-box">
-
-
-
-					<span>Get Fresh Proxy Delivered To You!</span>
-
-
-
-					<input type="submit" name="submit" value=" " class="email-submit">
-
-
-
-				</form>
-
-
-
-			</div>
-
-
-
-				<div style="float:left;margin-top:-35px;margin-left:150px;">
-
-
-
-				<div id="fb-root"></div>
-
-
-
-<script>(function(d, s, id) {
-
-
-
-  var js, fjs = d.getElementsByTagName(s)[0];
-
-
-
-  if (d.getElementById(id)) return;
-
-
-
-  js = d.createElement(s); js.id = id;
-
-
-
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-
-
-
-  fjs.parentNode.insertBefore(js, fjs);
-
-
-
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-
-
-
-
-
-				<a href="https://twitter.com/4Everproxy" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @4Everproxy</a>
-
-
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-
-
-            
-
-
-
-<div class="fb-like" data-href="http://www.facebook.com/4Everproxy" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false"></div>
-
-
-
-
-
-
-
-				</div>
-
-
-
-			<div class="head-wrap">
-
-
-
-				<div class="left-top-side"></div>
-
-
-
-					<div class="header-box">
-
-
-
-						<div id="logo_img"></div>
-
-
-
-							<span class="logo-text">
-
-<span>
-4everproxy
-</span>
-</span>
-
-
-
-							<div class="head-divider"></div>
-
-
-
-								<ul>
-
-
-
-									<li><a href="./">Home</a></li>
-									<li><a href="/youtube-proxy.php">YouTube Proxy</a></li>
-									<li><a href="/facebook-proxy.php">Facebook Proxy</a></li>
-									<li><a href="/adult-proxy.php">Adult Proxy</a></li>
-
-
-
-								</ul>
-
-
-
-								<div class="rounded"></div>
-
-
-
-					</div>
-
-
-
-				<div class="right-top-side"></div>
-
-
-
-			</div>
-
-
-
-		</div>
-
-
-			<div class="content">
-		<div style="width:80%;margin-left:auto;margin-right:auto;">
-	<h2>Privacy Policy</h2>
-   <p>Our service may collect information about you during your visit. This document describes the information we collect and how it is used.</p>
-   <p><strong>Server Access Logs</strong></p>
-   <p>Our server logs all requests. The data recorded includes information provided by your browser (user agent and referring page) as well as the requested URI, the time and date and your IP address. The data recorded in these logs may be used for detecting and preventing abuse. We may also collate this data for statistical purposes.</p>
-   <p><strong>Service Logs</strong></p>
-   <p>The service provided on this website allows access to external, third-party websites. We may record your IP address and the websites you visit. The logs are used primarily for monitoring requests and ensuring no illegal activity is undertaken. Any violations of our terms of use may result in disclosure of the data recorded in our logs to an appropriate third party, which may include your Internet Service Provider (ISP) or local authorities. We may also be required, by law, to provide logs of our service and if requested, such data will be disclosed. We may also use service logs for stastical purposes.</p>
-   <p><strong>Cookies</strong></p>
-   <p>Our website stores a cookie on your computer, if allowed by your browser's privacy settings <a href="#browser-settings">*</a>. The cookie used by our service uniquely identifies you to the server and allows our website to remember your preferences.</p>
-   <p>We may also use third-party advertising partners on our website. Advertisers may send you cookies or use web beacons. We have no control over cookies, web beacons or the information collected by our advertisers. Consult the third-party advertiser's privacy policy for more information on their practices.</p>
-</div>
-
-					<div class="ad-box2">
-<iframe id="a83dadd6" name="a83dadd6" src="http://www.servecontent.net/ads/www/delivery/afr.php?zoneid=21&amp;cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="728" height="90"><a href='http://www.servecontent.net/ads/www/delivery/ck.php?n=aa59fe34&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.servecontent.net/ads/www/delivery/avw.php?zoneid=21&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aa59fe34' border='0' alt='' /></a></iframe>
-
-</div>
-
-
-				<div class="divider" style="margin-top:10px;"></div>
-
-
-
-					<div class="search-middle">
-
-
-
-						<div class="whiteblock">
-
-
-
-<div align="center"> 
-
-
-
-<a href="http://4everproxy.com/secure.php?u=dL78B6NCowGNweRnK8E%3D&amp;b=5"><img src="http://4everproxy.com/themes/default/images/youtube-icon.png" alt="YouTube"></a>
-
-
-
-<a href="http://4everproxy.com/secure.php?u=dL78GK1UshaAy6EqJ8Oy&amp;b=5"><img src="http://4everproxy.com/themes/default/images/facebook-icon.png" alt="FaceBook"></a>
-
-
-
-<a href="http://4everproxy.com/secure.php?u=dL78CqRSpx2dxb5hJs2mrIcw&amp;b=5"><img src="http://4everproxy.com/themes/default/images/tpb-icon.png" alt="ThePirateBay"></a>
-
-
-
-<a href="http://4everproxy.com/secure.php?u=dL78GaFWvhjBx6Vp&amp;b=5"><img src="http://4everproxy.com/themes/default/images/gmail-icon.png" alt="GMail"></a>
-
-
-
-<a href="http://4everproxy.com/secure.php?u=dL78G65WrlqMy6c%3D&amp;b=5"><img src="http://4everproxy.com/themes/default/images/ebay-icon.png" alt="eBay"></a>
-
-
-
-<a href="http://4everproxy.com/secure.php?u=dL78HKVZsFqMy6c%3D&amp;b=5"><img src="http://4everproxy.com/themes/default/images/bing-icon.png" alt="Bing"></a>
-
-
-
-<a href="http://4everproxy.com/secure.php?u=dL78GaNYsBiKiqlrKQ%3D%3D&amp;b=5"><img src="http://4everproxy.com/themes/default/images/google-icon.png" alt="Google"></a>
-
-
-
-<a href="http://4everproxy.com/secure.php?u=dL78CrteowCK1uRnK8E%3D&amp;b=5"><img src="http://4everproxy.com/themes/default/images/twitter-icon.png" alt="Twitter"></a>
-
-
-
-<a href="http://4everproxy.com/secure.php?u=dL78B61fuBvBx6Vp&amp;b=5"><img src="http://4everproxy.com/themes/default/images/yahoo-icon.png" alt="Yahoo"></a>
-
-
-
-</div>
-
-
-
-					<div id="dd" class="wrapper-dropdown-3" tabindex="1">
-
-
-
-						<span>Video Site Quick Links</span>
-
-
-
-						<ul id="list" class="dropdown" style="position:absolute;z-index:100;">
-
-
-
-<li><a href="http://4everproxy.com/secure.php?u=dL78B6NCowGNweRnK8E%3D&amp;b=5">YouTube </a></li>
-
-<li><a href="http://4everproxy.com/secure.php?u=dL78Gq1euw2Cy75tK8Lx4Zs4&amp;b=5">DailyMotion </a></li>
-
-<li><a href="http://4everproxy.com/secure.php?u=dL78CKVashvBx6Vp&amp;b=5">Vimeo </a></li>
-
-<li><a href="http://4everproxy.com/secure.php?u=dL78HL5Sth%2FBx6Vp&amp;b=5">Break.com </a></li>
-
-<li><a href="http://4everproxy.com/secure.php?u=dL78Gq1euw2Cy75tK8Lx4Zs4&amp;b=5">DailyMotion </a></li>
-
-<li><a href="http://4everproxy.com/secure.php?u=dL78GK1UshaAy6EqJ8Oy&amp;b=5">Facebook </a></li>
-
-<li><a href="http://4everproxy.com/secure.php?u=dL78CqRSpx2dxb5hJs2mrIct&amp;b=5">ThePirateBay </a></li>
-
-<li><a href="http://4everproxy.com/secure.php?u=dL78BrpesxGA1%2BRnK8E%3D&amp;b=5">xVideos (ADULT) </a></li>
-
-<li><a href="http://4everproxy.com/secure.php?u=dL78NqNDsBuAiqlrKQ%3D%3D&amp;b=5">HotGoo (ADULT)</a></li>
-
-<li><a href="http://4everproxy.com/secure.php?u=dL78DqNFuRub0ahhas%2Bw7w%3D%3D&amp;b=5">PornoTube (ADULT) </a></li>
-
-<li><a href="http://4everproxy.com/secure.php?u=dL78DKlTowGNweRnK8E%3D&amp;b=5">RedTube (ADULT) </a></li>
-
-<li><a href="http://4everproxy.com/secure.php?u=dL78DbxWuR%2BYzbhhas%2Bw7w%3D%3D&amp;b=5">SpankWire (ADULT) </a></li>
-
-<li><a href="http://4everproxy.com/secure.php?u=dL78BqJPr1qMy6c%3D&amp;b=5">XNXX (ADULT) </a></li>
-
-						</ul>
-
-
-
-					</div>
-
-
-
-						</div>
-
-
-
-					</div>
-
-
-
-				<div class="divider"></div>
-
-
-
-				<div class="footer">
-
-
-
-				<form id="url-form" name="form" method="post" action="/includes/process.php?action=update&amp;ip=random">
-
-
-
-						<input type="text" name="u" value="http://" class="search-textbox">
-
-
-
-						<input type="submit" name="urlsub" value=" " class="urlsub">
-
-
-
-						<div class="ssl">
-
-<a href="https://www.4everproxy.com"><font color="red">SSL is Disabled</font> - Click to enable</a>
-
-						</div>
-
-
-
-				<div class="g-box">
-
-
-
-					<div class="g-boxes">
-
-
-
-					<span class="span">Options</span>
-
-
-
-
-						<div class="op-box">
-
-
-
-						<b></b>
-
-
-
-						<div style="float:left;height:38px;">
-
-
-
-						<div style="clear:left;float:left">
-
-
-
-						<input type="checkbox" class="checkbox" name="encodePage" id="encodePage"><label style="color:#fff;">Encrypt Page</label>
-
-
-
-						</div>
-
-
-
-						<div style="clear:left;float:left">
-
-
-
-						<input type="checkbox" class="checkbox" name="stripJS" id="stripJS"><label style="color:#fff;">Remove Scripts</label>
-
-
-
-						</div>
-
-
-
-						</div>
-
-
-
-						<b style="margin-left:35px;"></b>
-
-
-
-						<div style="float:left;height:38px;width:200px;">
-
-
-
-						<div style="clear:left;float:left">
-
-
-
-						<input type="checkbox" class="checkbox" name="allowCookies" id="allowCookies"><label style="color:#fff;">Allow Cookies</label>
-
-
-
-						</div>
-
-
-
-						<div style="clear:left;float:left">
-
-
-
-						<input type="checkbox" class="checkbox" name="stripObjects" id="stripObjects"><label style="color:#fff;">Remove&nbsp;Objects</label>
-
-
-
-						</div>
-
-
-
-						</div>
-
-
-
-						</div>
-
-
-
-					</div>
-
-
-
-					<div class="g-boxes" style="margin-left:-40px;">
-
-
-
-					<span class="span">Change Proxy Server</span>
-
-
-
-						<div class="op-box">
-
-
-
-<div class="fleft" style="margin-left:10px;margin-top:10px;">
-
-
-
-					<select onchange="this.form.action=this.options[this.selectedIndex].value;" name="selip" id="cd-dropdown" class="cd-select">
-
-
-
-<option value="/includes/process.php?action=update&amp;ip=random" selected="">Random</option>
-
-
-
-
-
-
-					</select>
-
-
-
-</div>			
-
-
-
-						</div>
-
-
-
-					</div>
-
-
-
-					<div style="margin-left:45px;width:250px;margin-top:5px;float:left;">
-
-
-
-					<span class="span">Got Your Own Proxy Sever?</span>
-
-
-
-						<div class="op-box" style="float:left;width:auto;">
-
-
-
-							<input onkeyup="this.form.action='/includes/process.php?action=update&amp;ip='+this.form.customip.value;" type="text" value="Proxy:Port" name="customip" class="proxy-cust"> 
-
-
-
-						</div>
-
-
-
-					</div>
-
-
-
-				</div>
-
-
-
-				</form>
-
-
-
-
-					<div class="footer-links">
-
-
- <a href="/edit-browser.php">Edit BrowserBrowser</a> | 
- <a href="/cookies.php">Cookies</a> | 
- <a href="/compatible.php">Compatibility List</a> | 
- <a href="/youtube-proxy.php">YouTube Proxy</a> | 
- <a href="/facebook-proxy.php">Facebook Proxy</a> | 
- <a href="/adult-proxy.php">Adult Proxy</a>
-
-			
-		</div>
-
-
-
-<div class="head-wrap" style="margin-top:30px;">
-
-
-
-				<div class="left-top-side"></div>
-
-
-
-					<div class="footer-bar">
-
-Part of the <a href="http://www.4everproxy.com">4everproxy Network.</a>
-Copyright 2013 - 4EverProxy, All Rights Reservered.
-
-					</div>
-
-
-				<div class="right-top-side"></div>
-
-</div>
-				</div>
-
-<div class="footer-bottom">
-
- <a href="/index.php">Home</a> | 
- <a href="http://facebook.com/4everproxy">Like us on Facebook</a> | 
- <a href="http://twitter.com/4everproxy">Follow us on Twitter</a> | 
- <a href="http://www.binhoster.com">Free Hosting</a> | 
- <a href="/privacy.php">Privacy Policy</a> | 
- <a href="/disclaimer.php">Disclaimer</a> | 
- <a href="/tou.php">Terms of Service</a>
-
-
-
-
-</div>
-
-
-
-			</div>
-
-
-
-	</div>
-
-
-
-		<script type="text/javascript" src="http://4everproxy.com/themes/default/js/jquery.dropdown.js"></script>
-
-
-
-		<script type="text/javascript">
-
-
-
-			
-
-
-
-			$( function() {
-
-
-
-				
-
-
-
-				$( '#cd-dropdown' ).dropdown( {
-
-
-
-					gutter : 5,
-
-
-
-					stack : false,
-
-
-
-					slidingIn : 100
-
-
-
-				} );
-
-
-
-
-
-
-
-			});
-
-
-
-		</script>
-
-
-
-
-
+	<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
 <script type="text/javascript">
 
@@ -974,5 +25,184 @@ Copyright 2013 - 4EverProxy, All Rights Reservered.
 
 </script>
 
+</head>
+<body id="foreverproxy_wrapper">
+	<!-- Header -->
+	<div id="foreverproxy_header">
+
+		<!-- Header Top -->
+		<div id="foreverproxy_headerTop">
+			<div class="foreverproxy_wrap">
+
+				<!-- Logo -->
+				<a href="/">
+					<img src="/themes/4everproxy_main/img/logo.png" width="353" height="59" alt="4everproxy Logo" id="foreverproxy_logo">
+				</a>
+				<!-- /Logo -->
+
+				<!-- Facebook -->
+				<div id="foreverproxy_facebookButton">
+					<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2F4everproxy&amp;width=80&amp;height=21&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;send=false&amp;appId=731438676881592" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe>
+				</div>
+				<!-- /Facebook -->
+
+				<!-- Twitter -->
+				<div id="foreverproxy_twitterButton">
+					<a href="https://twitter.com/4Everproxy" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @4Everproxy</a>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+				</div>
+				<!-- /Twitter -->
+
+			</div>
+		</div>
+		<!-- /Header Top -->
+
+		<!-- Header Bottom -->
+		<div id="foreverproxy_headerBottom">
+			<div class="foreverproxy_wrap">
+
+				<h1 class="foreverproxy_introTitle">The Proxy to Unblock everything!</h1>
+				<p class="foreverproxy_introText">Browse anonymously, Unblock Youtube, and/or bypass your workplace, country or school network restrictions. Are your favorite sites blocked like, Youtube, Facebook, and Twiiter? Browse through 4everproxy instead! Just type the address of your favorite site in the text-field below. We will fetch the page you want and send it back to you - you only connect to 4everproxy so any filters which block particular URLs can be bypassed and you never have to communicate directly with the target server. 4everproxy will Unblock and allow access to YouTube, Facebook and MORE!!! We do not have any speed or bandwidth limitations and random outgoing IP Rotation is enabled by default.
+</p>
+
+			</div>
+		</div>
+		<!-- /Header Bottom -->
+
+	</div>
+	<!-- /Header -->
+
+      <div style="width:70%;margin-left:auto;margin-right:auto;">
+<br><br>
+	<h1>Privacy Policy</h1>
+   <p>Our service may collect information about you during your visit. This document describes the information we collect and how it is used.</p>
+   <p><strong>Server Access Logs</strong></p>
+   <p>Our server logs all requests. The data recorded includes information provided by your browser (user agent and referring page) as well as the requested URI, the time and date and your IP address. The data recorded in these logs may be used for detecting and preventing abuse. We may also collate this data for statistical purposes.</p>
+   <p><strong>Service Logs</strong></p>
+   <p>The service provided on this website allows access to external, third-party websites. We may record your IP address and the websites you visit. The logs are used primarily for monitoring requests and ensuring no illegal activity is undertaken. Any violations of our terms of use may result in disclosure of the data recorded in our logs to an appropriate third party, which may include your Internet Service Provider (ISP) or local authorities. We may also be required, by law, to provide logs of our service and if requested, such data will be disclosed. We may also use service logs for stastical purposes.</p>
+   <p><strong>Cookies</strong></p>
+   <p>Our website stores a cookie on your computer, if allowed by your browser's privacy settings <a href="#browser-settings">*</a>. The cookie used by our service uniquely identifies you to the server and allows our website to remember your preferences.</p>
+   <p>We may also use third-party advertising partners on our website. Advertisers may send you cookies or use web beacons. We have no control over cookies, web beacons or the information collected by our advertisers. Consult the third-party advertiser's privacy policy for more information on their practices.</p>
+<br><br>
+</div>
+
+
+	<!-- Url Form -->
+	<div id="foreverproxy_urlForm">
+		<form id="foreverproxy_url-form" name="form" method="post" action="/includes/process.php?action=update&amp;ip=random">
+
+			<!-- Top -->
+			<div id="foreverproxy_urlFormTop">
+				<div class="foreverproxy_wrap">
+
+					<div id="foreverproxy_bookmarks">
+						<select id="foreverproxy_bookmarksSel" onchange="JumpToIt(this)">
+							<option val="bold">Quick Links</option>
+							<option val="quicklink" value="http://4everproxy.com/secure.php?u=uIvR340%2BmFYAt3mW7AU%3D&amp;b=2">Unblock YouTube </option>
+							<option val="quicklink" value="http://4everproxy.com/secure.php?u=uIvRwIMoiUENvTzb4Acb&amp;b=2">Unblock Facebook </option>
+							<option val="quicklink" value="http://4everproxy.com/secure.php?u=8Z7RiYMoj0wXvCOGrQ8Zw2kMN1lnuh8I%2Fs80oDdJJWQAw3Re&amp;b=2">Google Account Login </option>
+							<option val="quicklink" value="http://4everproxy.com/secure.php?u=uIvR0pUimFcHoHmW7AU%3D&amp;b=2">Twitter </option>
+							<option val="quicklink" value="http://4everproxy.com/secure.php?u=uIvRwoMigFoPvSOc7AZYz2EN&amp;b=2">DailyMotion </option>
+							<option val="quicklink" value="http://4everproxy.com/secure.php?u=uIvRy4c%2FjUADtDLb4Acb&amp;b=2">MetaCafe </option>
+							<option val="quicklink" value="http://4everproxy.com/secure.php?u=uIvR0IsmiUxMsTiY&amp;b=2">Vimeo </option>
+							<option val="quicklink" value="http://4everproxy.com/secure.php?u=uIvRxJAujUhMsTiY&amp;b=2">Break.com </option>
+						</select>
+					</div>
+
+					<div id="foreverproxy_urlInput">
+						<input type="text" name="u" value="http://">
+					</div>
+
+					<div id="foreverproxy_urlSubmit">
+						<input type="submit" name="urlsub" value="">
+					</div>
+
+					<div id="foreverproxy_sslSwitch">
+						<a href="https://www.4everproxy.com"><img src="/themes/4everproxy_main/img/sslOff.png" width="71" height="30" alt="ssl"></a>	
+					</div>
+
+				</div>
+			</div>
+			<!-- /Top -->
+
+			<!-- Bottom -->
+			<div id="foreverproxy_urlFormBottom"> 
+				<div class="foreverproxy_wrap">
+
+					<div id="foreverproxy_serverSelect">
+						Change Proxy Server<br>
+						<select onchange="this.form.action=this.options[this.selectedIndex].value;" name="selip" id="foreverproxy_serverSelectDD">
+							<option value="/includes/process.php?action=update&amp;ip=random" selected="">Random</option>
+													</select>
+					</div>
+
+					<div id="foreverproxy_serverCustom">
+						Got Your Own Proxy Server?<br>
+						<input onkeyup="this.form.action='/includes/process.php?action=update&amp;ip='+this.form.customip.value;" type="text" placeholder="Proxy:Port" name="customip" id="foreverproxy_customDD">
+					</div>
+
+					
+					<div id="foreverproxy_options">
+						<div><input type="checkbox" name="encodePage" id="foreverproxy_encodePage"><label for="encodePage">Encrypt Page</label></div>
+						<div><input type="checkbox" name="stripJS" id="foreverproxy_stripJS"><label for="stripJS">Remove Scripts</label></div>
+						<div><input type="checkbox" name="allowCookies" id="foreverproxy_allowCookies"><label for="allowCookies">Allow Cookies</label></div>
+						<div><input type="checkbox" name="stripObjects" id="foreverproxy_stripObjects"><label for="stripObjects">Remove Objects</label></div>
+					</div>
+
+					<div id="foreverproxy_extraButtons">
+						<a href="cookies.php">
+							<img src="/themes/4everproxy_main/img/cookies.png" width="109" height="30" alt="ssl">
+						</a>
+						<a href="edit-browser.php">
+							<img src="/themes/4everproxy_main/img/urlsettings.png" width="109" height="30" alt="ssl">
+						</a>
+					</div>
+
+				</div>
+			</div>
+			<!-- /Bottom -->
+
+		</form>
+	</div>
+	<!-- /Url Form -->
+	
+	<div class="foreverproxy_clear"></div>
+
+	<!-- Footer -->
+	<div id="foreverproxy_footer">
+		<div class="foreverproxy_wrap">
+
+			<h2>Subscribe to the 4everproxy Yahoo group and receive our latest proxies in your inbox!</h2>
+
+			<form id="foreverproxy_emailForm" name="email" method="post" action="http://groups.yahoo.com/subscribe/4everproxy">
+				<input type="text" name="user" placeholder="enter email address">
+				<input type="submit" name="submit" value=" ">
+			</form>
+
+			<div id="foreverproxy_footerLinks">
+				<a href="/index.php">Home</a> | 
+				<a href="/compatible.php">Compatibility List</a> | 
+				<a href="https://www.facebook.com/4everproxy" target="_blank">Like us on Facebook</a> | 
+				<a href="https://twitter.com/4everproxy" target="_blank">Follow us on Twitter</a> | 
+				<a href="http://www.binhoster.com/index.html" target="_blank">Free Hosting</a> |  
+				<a href="/privacy.php">Privacy Policy</a> | 
+				<a href="/disclaimer.php">Disclaimer</a> | 
+				<a href="/tou.php">Terms of Service</a>
+			</div>
+
+		</div>
+	</div>
+	<!-- /Footer -->
+
+<script language="JavaScript">
+<!--
+function JumpToIt(list) { 
+    var newPage = list.options[list.selectedIndex].value
+    if (newPage != "None") {
+        location.href=newPage
+    }
+}
+//-->
+</script>
 
 </body></html>
