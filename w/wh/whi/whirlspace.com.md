@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whirlspace.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430120929id_/http%3A//minuum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whirlspace.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082213id_/http%3A//minuum.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The Minuum Keyboard Project | By Whirlscape
+# Privacy Policy | Minuum Keyboard
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
