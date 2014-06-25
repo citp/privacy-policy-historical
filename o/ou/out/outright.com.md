@@ -1,50 +1,115 @@
-> *The following text is extracted and transformed from the outright.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219114537id_/http%3A//www.outright.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outright.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094620id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3D8830) for the most accurate reproduction.*
 
-# privacy_policy
+# Legal Agreement
 
-Outright is committed to maintaining the confidentiality and security of personal information collected from our users. Below is our privacy policy, which outlines what information we collect, how it is used, how it is stored and protected, and how you can control use of your data.
+Go Daddy Respects your privacy
 
-## Information we collect about you
+This Privacy Policy describes how we collect and use the personally identifiable information you provide on our Site.  It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update that information.
 
-### Registration information
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-When signing up for an account with Outright, we ask for your email address and for you to create a password. These two pieces of information are used to identify you on the site and provide access to your account.
+**Information Collection and Use**
 
-### Company/Business information
+Our Site and mobile application use forms in which you give us contact information (including your name, address, telephone number, and email address) so you can place orders, request information and support, and make product suggestions. For certain services, we may also request a credit card number, government identification number, or other financial information. We will then create an account number for you.
 
-In order to take advantage of all of the features within Outright, you may choose to enter additional information about your company or business, including name and contact information.
+We receive and store any information you enter on our Site, mobile application, or give us in any other way, including through email, telephone, or other communications with our customer service department. If you contact us for support, we will keep an internal record of what support was given.
 
-### Anonymous usage information
+We use your information to contact you regarding functionality changes to our products, our Site and mobile application, new Go Daddy services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Through the use of cookies, we track page-level usage of Outright across all users. All of this information is in summary form and not tied to an individual person. For example, we might track the number of returning customers who visited the reports page last week. But we would not know if it were you personally who visited the that page.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-## How your information is used
+We use information gathered about you from our Site or mobile application statistics (for example, your IP address or device operating system) to help diagnose problems with our server, and to administer our Site and mobile application. We also gather broad demographic information from this data to help us improve our Site and mobile application and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-The predominant way in which your information is used is to provide a tailored customer experience not only on the web site, but through other communication options (such as receiving an email reminder for estimated tax deadlines.)
+Our Site and mobile application use cookies to keep track of your shopping cart and receipts. We use cookies to identify you so you don't need to log in each time you visit our Site or mobile application. The cookies are linked to your customer number, which is associated with the information in your account.
 
-We may also communicate to you via email address regarding updates the to web site/service.
+Within our mobile application we use tracking technologies such as:  CI codes (click tracking), ISC (source tracking), and ITC (item tracking codes, attached to purchases at an item level, used to determine where within the application a product was added).  Our mobile application automatically collects the device's operating system, phone model, app version, and device ID, and the user's customer number.  We report this data back to our Go Daddy web services.  These results are not shared with any third parties and are used solely for deciding when to retire SDKs/OS versions and to identify characteristics of major users so that we may optimize our application for those user types.
 
-We will not share or share your personal Account Information for commercial purposes. However, we may aggregate, in an anonymous manner, financial transaction data derived from Account Information and disclose such data in the following ways, none of which can be identified with you individually:
+We do not ask you for, access, or track any location-based information from your mobile device at any time while downloading our mobile application or services.  We do not tie any personally identifiable information you submit within our mobile application to any of the tracking technologies that we use.
 
-  * To other Outright users, who wish to compare business finances relative to the broader community of Outright users.
-  * To members of the press and market research organizations, approved by Outright, who desire to understand more about how entrepreneurs run their businesses.
+This Site and our mobile application contain links to other websites. Unfortunately, Go Daddy is not responsible for the privacy practices or the content of such sites.
+
+**Security**
+
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+
+**Sending Emails**
+
+We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our ["About Go Daddy"](https://www.godaddy.com/gdshop/about.asp) page, to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site, our mobile application, and our products, or it may be reviewed and discarded.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as processing credit card payments, serving advertisements, conducting contests or surveys, performing analyses of our products or customer demographics, shipping of goods or services, and customer relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Google Analytics**
+
+We use a tool called “Google Analytics” to collect information about use of this Site, such as how often users visit the Site, what pages they visit when they do so, and what other sites they used prior to coming to this Site.  Google Analytics collects only the IP address assigned to you on the date you visit this Site, rather than your name or other identifying information.
+
+Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this Site.  This cookie cannot be used by anyone but Google, Inc.  The information generated by the cookie will be transmitted to and stored by Google on servers in the United States.
+
+We use the information received from Google Analytics only to improve services on this Site.  We do not combine the information collected through the use of Google Analytics with personally identifiable information.
+
+Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the [Google Privacy Policy](http://www.google.com/policies/privacy/).  You can prevent Google Analytics from recognizing you on return visits to this Site by [disabling the Google Analytics cookie](https://tools.google.com/dlpage/gaoptout/) on your browser.
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personally identifiable information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Targeted Advertisements**
+
+Go Daddy may display targeted offers to our customers based on the products currently owned by the customer.  These offers will display as varying product banners.  There is no personal or geolocation information collected within these product banners to build a profile about your activities or that is shared with third party advertising companies.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site or mobile application, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personally Identifiable Information if I Terminate my Go Daddy Account?**
+
+When your Go Daddy account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant Go Daddy databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Updating Your Information**
+
+You may alter, update or deactivate your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+
+  1. You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  2. You may visit your online [Account Manager](https://www.godaddy.com/gdshop/shopper_lookup.asp?isc=)
+  3. You may send mail to Go Daddy at the following postal address: 14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  4. You may call us at: (480) 505-8800
+  5. You may fax us at: (480) 505-8844
 
 
 
-We may use or disclose your information in response to a subpoena or court order, or to establish or exercise our legal rights or defend against legal claims.
+We will respond to your request for access or to modify or deactivate your information within thirty (30) days.
 
-If we deem it necessary, we will also use or share your information in order to investigate or prevent illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person or the security of our service, violations of our terms of service, or as otherwise required by law.
+**Transfer of Data Abroad**
 
-## How your data is stored
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-Outright uses third party vendors and hosting providers to supply the necessary hardware, software, communication and related technology required to run Outright. Although Outright owns all of the code, databases and rights to the Outright application, you retain all rights to your data.
+**Compliance with Laws and Law Enforcement**
 
-All of your personally identifiable information is stored in a database on one or more servers. While your contact information is stored normally, in plain text, your password is encrypted in a way that even employees of Outright cannot access it. This prevents others from being able to access your account.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-## Control of your data
+To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process.
 
-You may make changes to your personal data at any time. You may also choose to cancel your account and delete your data at any time.
+**Changes in Our Practices**
 
-## Changes to this policy
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this policy at any time. You agree to accept electronic communications and/or postings of an annual or revised Privacy Policy on the Outright web site, and that such electronic communications or postings constitute notice to you of the Privacy Policy.
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, our privacy practices, or your dealings with this Site or our mobile application, please contact us at:
+
+Go Daddy ATTN: Web Team 14455 North Hayden Rd. Suite 219 Scottsdale, AZ, 85260, U.S.A.
