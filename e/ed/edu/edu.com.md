@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the edu.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112220241id_/http%3A//www.vantagemedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072414id_/http%3A//www.vantagemedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Vantage Media Privacy Policy
+# Privacy Policy | Vantage Media
+
+Updates as of January 30, 2014
 
 ## Our Practices Regarding Privacy
 
-Your privacy rights are important to us. Vantage Media and our affiliated companies are committed to respecting your online privacy and making sure that any information you share with us by using our web sites is properly protected. 
+Your privacy rights are important to us. Vantage Media and our affiliated companies are committed to respecting your online privacy and making sure that any information you share with us by using our web sites is properly protected.
 
-We have established this Vantage Media Privacy Policy so you know the importance we place on your privacy and so you can understand how we collect and use information collected from you when you visit our website or submit any personally identifiable information to us. This policy describes our overall privacy practices regarding information we collect on our web sites and through other Internet mediums. Our policy does not apply to the practices of companies that we do not own or control. 
+We have established this Vantage Media Privacy Policy so you know the importance we place on your privacy and so you can understand how we collect and use information collected from you when you visit our website or submit any personally identifiable information to us. This policy describes our overall privacy practices regarding information we collect on our web sites and through other Internet mediums. Our policy does not apply to the practices of companies that we do not own or control.
 
 ## Website Data
 
@@ -20,11 +22,13 @@ When you visit our website, we collect information on the efficiency and working
 
 
 
-This information lets us see how users find our sites, and it tells us which pages users visit most frequently so we can make our Web sites more useful. We keep this information for an indefinite amount of time to improve the operation of our site and to provide better services to our users. 
+This information lets us see how users find our sites, and it tells us which pages users visit most frequently so we can make our Web sites more useful. We keep this information for an indefinite amount of time to improve the operation of our site and to provide better services to our users.
 
 ## Cookies
 
 Our websites use cookies (small files containing program code that reside on your computer), to provide usage statistics about our web site, and to understand where visitors learn about our web site. We also may use cookies to simplify the re-entering of your data. You can adjust your browser settings to opt out of the use of cookies by having your browser disable cookies. Look for the cookie options in your browser in the Options or Preferences menu.
+
+Additionally, we and our third party partners (e.g., third party ad networks or website analytics service providers) use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with us through your computer or mobile device. This information, which may include the pages you visit on our or our partners’ sites, which web address you came from, the type of browser/device/hardware you are using, or an IP-based geographic location, helps us recognize you, customize your website experience and make marketing messages more relevant. These companies use non-personally identifiable information (e.g., click stream information, browser type, time and date, hardware/software information) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. At this time, we do not respond to browser “do not track” signals, and we do not control third parties' collection or use of your information or whether they respond to these signals. However, we, and these third parties, may provide you with ways to choose not to have your information collected or used in this way. To learn more about targeted ads or to opt-out of this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices) or [Digital Advertising Alliance website](http://www.aboutads.info/).
 
 ## Contact Information
 
@@ -32,11 +36,11 @@ In addition to the data that your browser or Internet session sends us automatic
 
 ## Opt-Out, Your Choices and Changing Information You Provided to Us
 
-You may choose whether or not you receive communications from us as follows: You may also opt out or change or modify information you have previously provided to us by contacting us by doing any one of the following: 
+You may choose whether or not you receive communications from us as follows: You may also opt out or change or modify information you have previously provided to us by contacting us by doing any one of the following:
 
   * Marketing Email Opt-out: Each of our marketing email communications includes an opt-out link. You may click on that link and opt out from receiving marketing email.
   * Refusing Cookies: You can adjust your browser settings to opt out of the use of cookies by having your browser disable cookies. Look for the cookie options in your browser in the Options or Preferences menu.
-  * Opt Out Now: Click [here](http://edu.collegeuscom.com/7d72f080dbbc02f8031ec1fa1b33c3422adf0714e3642d3ac934235165b0e28f) to opt out. 
+  * Opt Out Now: Click [here](http://edu.collegeuscom.com/7d72f080dbbc02f8031ec1fa1b33c3422adf0714e3642d3ac934235165b0e28f) to opt out.
   * Send an email to us at: [privacy@vantagemedia.com](mailto:privacy@vantagemedia.com) with a copy to [admin@vantagemedia.com](mailto:admin@vantagemedia.com)
   * Call us at (310) 219-6202
   * Send a letter to: Vantage Media, LLC, 2101 Rosecrans Ave., Suite 2000, El Segundo, CA 90245
@@ -49,7 +53,7 @@ Different advertisers and advertising companies have different methods of follow
 
 ## Children’s Privacy
 
-Vantage Media, LLC websites are not directed at individuals less than sixteen years of age. We do not intend to collect personal information from such individuals. 
+Vantage Media, LLC websites are not directed at individuals less than sixteen years of age. We do not intend to collect personal information from such individuals.
 
 ## Questions or Comments
 
@@ -58,7 +62,7 @@ Sending a letter to: Vantage Media, LLC, 2101 Rosecrans Ave., Suite 2000, El Seg
 Calling us at (310) 219-6202  
 Emailing us at: [privacy@vantagemedia.com](mailto:privacy@vantagemedia.com) with a copy to [admin@vantagemedia.com](mailto:admin@vantagemedia.com)
 
-If you are a California resident and would like to request certain information regarding the disclosure of your personal information to third parties for direct marketing purposes, please submit your request by writing us, calling us or emailing us using the contact information listed above. 
+If you are a California resident and would like to request certain information regarding the disclosure of your personal information to third parties for direct marketing purposes, please submit your request by writing us, calling us or emailing us using the contact information listed above.
 
 ## Privacy Policy Changes
 
@@ -66,13 +70,14 @@ Vantage Media, LLC may change this Privacy Policy at any time. Should we revise 
 
 ## Definitions
 
-The definitions for certain terms used in this Privacy Policy are listed below. 
+The definitions for certain terms used in this Privacy Policy are listed below.
 
 ### Cookies
 
 Data created by a Web server that is stored on a user’s computer. It provides a way for the Web site to keep track of a user’s patterns and preferences and, with the cooperation of the Web browser, to store them on the user’s own hard disk. The cookies contain a range of URLs (Web addresses) for which they are valid. When the browser encounters those URLs again, it sends those specific cookies to the Web server. For example, if a user’s ID were stored as a cookie, it would save that person from typing in the same information all over again when accessing that service for the second and subsequent time during the same browser session. You can opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu.
 
-**_IP (Internet Protocol) Address_**  
+### IP (Internet Protocol) Address
+
 This is the address of a computer attached to a TCP/IP network. Every client and server station must have a unique IP address. Client workstations have either a permanent address or one that is dynamically assigned for each dial-up session. IP addresses are written as four sets of numbers separated by periods; for example, 211.472.58.9.
 
 ### Browser Session
