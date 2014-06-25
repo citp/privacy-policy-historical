@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coastalscents.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208205533id_/http%3A//www.coastalscents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastalscents.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625211821id_/http%3A//www.coastalscents.com/privacy-policy) for the most accurate reproduction.*
 
 # Coastal Scents: Privacy Policy
 
