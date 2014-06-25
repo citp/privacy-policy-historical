@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the founderfly.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203234414id_/http%3A//founderfly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the founderfly.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114718id_/http%3A//founderfly.com/privacy-policy) for the most accurate reproduction.*
 
 # Founder Fly | Privacy Policy
 
