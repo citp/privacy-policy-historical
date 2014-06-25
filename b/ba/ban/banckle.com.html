@@ -1,0 +1,373 @@
+<!--The following is the downloaded HTML source of the banckle.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625110349id_/http%3A//banckle.com/corporate/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://plus.google.com/+Banckle/posts" rel="publisher">	
+  <base href="http://banckle.com/corporate/privacy.html">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="keywords" content="Banckle - Privacy">
+  <meta name="author" content="Super User">
+  <meta name="description" content="Banckle - Privacy">
+  <meta name="generator" content="Joomla! - Open Source Content Management">
+  <title>Banckle - Privacy</title>
+  <link href="http://banckle.com/corporate/privacy.html" rel="canonical">
+  <link href="/templates/protostar/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+
+
+
+
+
+
+<link rel="stylesheet" href="/resources/theme/v3/css/bootstrap.css" type="text/css">
+<link rel="shortcut icon" type="image/ico" href="/resources/theme/v3/images/favicon.ico">
+<link href="/resources/theme/v3/css/banckle-menu.css" rel="stylesheet">
+<link href="/resources/theme/v3/css/style.css" rel="stylesheet">
+<link href="/resources/theme/v3/css/responsive.css" rel="stylesheet">
+<link href="/resources/theme/v3/css/internal.css" rel="stylesheet">
+<link href="/resources/theme/v3/css/tiny-accordion.css" rel="stylesheet">
+<link href="/resources/theme/v3/css/pricing.css" rel="stylesheet"> 
+<!--[if lt IE 9]>
+    <script src="/media/jui/js/html5.js"></script>
+  <![endif]-->    
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/resources/theme/v3/js/jquery-1.8.2.min.js"></script>
+   <script type="text/javascript" src="/resources/theme/v3/js/bootstrap.js"></script>  
+ <script src="/resources/theme/v3/js/tooltip.js"></script>
+   
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-16422975-1', 'banckle.com');  // Replace with property ID.
+ga('require', 'linkid', 'linkid.js');
+ga('require', 'displayfeatures');
+
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+  
+  
+
+
+<!-- Site Common JS -->
+<script type="text/javascript">
+(function($){   
+    $(document).ready(function(){
+     $('.dropdown-toggle').dropdown();
+      // dropdown
+      $('.parent').addClass('dropdown');
+      $('.parent > a').addClass('dropdown-toggle');
+      $('.parent > a').attr('data-toggle', 'dropdown');
+     $('.parent > a').attr('data-target', '#');
+      $('.parent > a').append('<b class="caret"></b>');
+      $('.parent > ul').addClass('dropdown-menu');
+     $('.nav-child .parent').removeClass('dropdown');
+     $('.nav-child .parent .caret').css('display', 'none');
+      $('.nav-child .parent').addClass('dropdown-submenu');
+	  
+$(".topmenu").click(function () {
+$(".menunav, .loginDiv ").toggleClass("hideresponsive");
+});
+$('#footer').find(".footer-pricing").click(function () {
+$("#footer-pricing").toggleClass("hideresponsive");
+});
+
+$('#footer').find(".footer-pricing-api").click(function () {
+$("#footer-pricing-api").toggleClass("hideresponsive");
+});
+
+$('#footer').find(".footer-apps").click(function () {
+$("#footer-apps").toggleClass("hideresponsive");
+});
+
+$('#footer').find(".footer-apis").click(function () {
+$("#footer-apis").toggleClass("hideresponsive");
+});
+
+$('#footer').find(".footer-marketplace").click(function () {
+$("#footer-marketplace").toggleClass("hideresponsive");
+});
+
+$('#footer').find(".footer-support").click(function () {
+$("#footer-support").toggleClass("hideresponsive");
+});
+
+$('#footer').find(".footer-corporate").click(function () {
+$("#footer-corporate").toggleClass("hideresponsive");
+});
+
+
+    });
+  })(jQuery);
+
+// A jQuery based placeholder polyfill
+$(document).ready(function(){
+function add() {
+if($(this).val() === ''){
+$(this).val($(this).attr('data-placeholder')).addClass('data-placeholder');
+}
+}
+
+function remove() {
+if($(this).val() === $(this).attr('data-placeholder')){
+$(this).val('').removeClass('data-placeholder');
+}
+}
+
+// Create a dummy element for feature detection
+if (!('data-placeholder' in $('<input>')[0])) {
+
+// Select the elements that have a placeholder attribute
+$('input[data-placeholder], textarea[data-placeholder]').blur(add).focus(remove).each(add);
+
+// Remove the placeholder text before the form is submitted
+$('form').submit(function(){
+$(this).find('input[data-placeholder], textarea[data-placeholder]').each(remove);
+});
+}
+});
+</script>
+<script type="text/javascript">
+$(document).ready(function(){
+
+$("select").bind('change',function(){
+window.location = $(':selected',this).attr('value')
+    });
+ });
+</script>
+<script type="text/javascript">
+$(document).ready(function(){
+	
+		$("#silentSignupSubmit").click(function() {
+				 var emailVal = $("#silentEmail").val();
+				 var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+
+				 if(emailVal == '') {
+					   alert("You forgot to enter the email address for Banckle Newsletter Subscription");
+					   return;
+
+					  } else if(reg.test(emailVal) == false) {
+						  alert("Please Enter a valid email address for Banckle Newsletter Subscription");
+					   return;
+					  }
+
+				 $.ajax({
+						type: "POST",
+						url: "/action/signup",
+						data: "action=doSilentRegister&email="+ emailVal,
+						success: function(){
+							alert("Success");
+							}
+							});
+
+		});
+	});
+</script>
+<script type="text/javascript">
+$(document).ready(function(){
+ 
+        $(window).scroll(function(){
+            if ($(this).scrollTop() > 100) {
+                $('.scrollup').fadeIn();
+            } else {
+                $('.scrollup').fadeOut();
+            }
+        });
+ 
+        $('.scrollup').click(function(){
+            $("html, body").animate({ scrollTop: 0 }, 600);
+            return false;
+        });
+ 
+    });
+</script>
+<!-- End Site Common JS -->
+
+  
+</head>
+
+<body>
+<div class="navbar navbar-fixed-top">
+  <div class="navbar-inner top-nav-bg top-nav-bg-cell">
+    <div class="container">
+      <div class="span3 ml-00px logo-cell"><a class="top-nav-logo" href="http://banckle.com/">&nbsp;</a></div>
+    <div class="menubtn"><button class="topmenu">Menu</button></div>
+            <!-- Menu -->
+        <ul class="nav menunav top-nav pull-right">
+<li class="item-233 deeper parent"><a href="/products.html">Products</a><ul class="nav-child unstyled small"><li class="item-235"><a class="displaynone" href="/products/cloud.html">Cloud APIs</a></li><li class="item-234"><a href="/products/apps.html">Cloud Apps</a></li></ul></li><li class="item-137"><a class="displaynone" href="/">HomePage</a></li><li class="item-247 deeper parent"><a class="displaynone" href="/cloud/pricing.html">Cloud APIs</a><ul class="nav-child unstyled small"><li class="item-248"><a href="/cloud/pricing/total.html">Banckle.Total</a></li><li class="item-249"><a href="/cloud/pricing/chat.html">Banckle.Chat</a></li><li class="item-250"><a href="/cloud/pricing/meeting.html">Banckle.Meeting</a></li><li class="item-251"><a href="/cloud/pricing/crm.html">Banckle.CRM</a></li><li class="item-252"><a href="/cloud/pricing/helpdesk.html">Banckle.Helpdesk</a></li><li class="item-253"><a href="/cloud/pricing/campaign.html">Banckle.Campaign</a></li><li class="item-254"><a href="/cloud/pricing/email.html">Banckle.Email</a></li></ul></li><li class="item-138 deeper parent"><a class="displaynone" href="/pricing.html">Cloud Apps</a><ul class="nav-child unstyled small"><li class="item-141"><a href="/pricing/total.html" title="Banckle Total Plans &amp; Pricing">Banckle.Total</a></li><li class="item-139"><a class="disabled " href="/pricing/chat.html" title="Banckle Chat Plans &amp; Pricing">Banckle.Chat</a></li><li class="item-140"><a class="disabled" href="/pricing/meeting.html" title="Banckle Meeting Plans &amp; Pricing">Banckle.Meeting</a></li><li class="item-148"><a class="disabled" href="/pricing/crm.html" title="Banckle CRM Plans &amp; Pricing">Banckle.CRM</a></li><li class="item-216"><a class="disabled" href="/pricing/helpdesk.html" title="Banckle Helpdesk Plans &amp; Pricing">Banckle.Helpdesk</a></li><li class="item-174"><a class="disabled" href="/pricing/campaign.html" title="Banckle Campaign Plans &amp; Pricing">Banckle.Campaign</a></li><li class="item-175"><a class="disabled" href="/pricing/email.html" title="Banckle Email Plans &amp; Pricing">Banckle.Email</a></li><li class="item-211"><a class="disabled displaynone" href="/pricing/chat-compare.html">Chat Compare Plans</a></li><li class="item-208"><a class="disabled displaynone" href="/pricing/meeting-compare.html">Meeting Compare Plan</a></li><li class="item-209"><a class="disabled displaynone" href="/pricing/crm-compare.html">CRM Compare Plans</a></li><li class="item-217"><a class="disabled displaynone" href="/pricing/helpdesk-compare.html">Banckle Helpdesk Compare</a></li><li class="item-210"><a class="disabled displaynone" href="/pricing/campaign-compare.html">Campaign Compare Plan</a></li><li class="item-206"><a class="disabled displaynone" href="/pricing/email-compare.html">Email Compare Pricing</a></li><li class="item-231"><a class="displaynone" href="/pricing/discontinued-products.html">Discontinued Products</a></li></ul></li><li class="item-142 deeper parent"><a class="displaynone" href="#">Apps</a><ul class="nav-child unstyled small"><li class="item-143 deeper parent"><a class="disabled" href="/apps/chat.html" title="Live Chat Application">Banckle Chat</a><ul class="nav-child unstyled small"><li class="item-224"><a class="disabled displaynone" href="/apps/chat/features.html">Banckle Chat Features</a></li></ul></li><li class="item-144 deeper parent"><a class="disabled" href="/apps/meeting.html" title="Online Web Meeting Software">Banckle Meeting</a><ul class="nav-child unstyled small"><li class="item-225"><a class="disabled displaynone" href="/apps/meeting/features.html">Banckle Meeting Features</a></li></ul></li><li class="item-145 deeper parent"><a class="disabled" href="/apps/crm.html" title="Online CRM Software for Sales">Banckle CRM</a><ul class="nav-child unstyled small"><li class="item-223"><a href="/apps/crm/features.html">Banckle CRM Features</a></li></ul></li><li class="item-214 deeper parent"><a class="disabled" href="/apps/helpdesk.html" title="Online Web Help Desk Software">Banckle Helpdesk</a><ul class="nav-child unstyled small"><li class="item-226"><a class="disabled displaynone" href="/apps/helpdesk/features.html">Banckle Helpdesk Features</a></li></ul></li><li class="item-146 deeper parent"><a class="disabled" href="/apps/campaign.html" title="Email Marketing Service">Banckle Campaign</a><ul class="nav-child unstyled small"><li class="item-227"><a class="disabled displaynone" href="/apps/campaign/features.html">Banckle Campaign Features</a></li></ul></li><li class="item-147 deeper parent"><a class="disabled" href="/apps/email.html" title="Hosted Email for Businesses">Banckle Email</a><ul class="nav-child unstyled small"><li class="item-228"><a class="disabled displaynone" href="/apps/email/features.html">Banckle Email Features</a></li></ul></li><li class="item-255"><a class="disabled displaynone" href="/apps/cloud.html">Cloud APIs</a></li><li class="item-257"><a class="disabled displaynone" href="/apps/apps.html">Cloud Apps</a></li></ul></li><li class="item-149"><a class="displaynone" href="/apis.html">APIs</a></li><li class="item-150 deeper parent"><a href="/marketplace.html">Marketplace</a><ul class="nav-child unstyled small"><li class="item-151"><a href="/marketplace/overview.html" title="Overview of Banckle Marketplace">Overview</a></li><li class="item-153"><a href="/marketplace/chat.html" title="Banckle Chat Plugins, Integrations &amp; Mobile Apps">Banckle.Chat</a></li><li class="item-154"><a href="/marketplace/meeting.html" title="Banckle.Meeting Plugins, Integrations &amp; Mobile Apps">Banckle.Meeting</a></li><li class="item-280"><a href="/marketplace/crm.html">Banckle.CRM</a></li><li class="item-300"><a href="/marketplace/helpdesk.html">Banckle.Helpdesk</a></li><li class="item-301"><a href="/marketplace/campaign.html">Banckle.Campaign</a></li></ul></li><li class="item-288 deeper parent"><a href="#">Purchase</a><ul class="nav-child unstyled small"><li class="item-289"><a class="displaynone" href="/purchase/cloud-api.html">Cloud APIs Pricing</a></li><li class="item-290"><a class="displaynone" href="/purchase/cloud-apps.html">Cloud Apps Pricing</a></li><li class="item-307"><a href="http://banckle.com/pricing/chat.html">Banckle.Chat</a></li><li class="item-308"><a href="http://banckle.com/pricing/meeting.html">Banckle.Meeting</a></li><li class="item-309"><a href="http://banckle.com/pricing/crm.html">Banckle.CRM</a></li><li class="item-310"><a href="http://banckle.com/pricing/helpdesk.html">Banckle.Helpdesk</a></li><li class="item-311"><a href="http://banckle.com/pricing/campaign.html">Banckle.Campaign</a></li><li class="item-312"><a href="http://banckle.com/pricing/email.html">Banckle.Email</a></li><li class="item-291"><a class="menulinesep" href="http://banckle.com/corporate/service-agreement.html" title="Banckle - Service Agreement">Service Agreement</a></li><li class="item-232"><a href="http://banckle.com/partners/default.html" title="Become a Banckle Partner">Partner</a></li></ul></li><li class="item-155 deeper parent"><a href="#">Support</a><ul class="nav-child unstyled small"><li class="item-157"><a href="http://banckle.com/wiki/dashboard.action" title="Banckle Apps Documentation">Docs</a></li><li class="item-156"><a href="http://community.banckle.com/forums/default.aspx" title="Get support for Banckle Apps">Forums</a></li><li class="item-160"><a href="http://banckle.com/blog">Blog</a></li><li class="item-158 deeper parent"><a class="disabled" href="/support/faqs.html" title="FAQs about Banckle">FAQs</a><ul class="nav-child unstyled small"><li class="item-200"><a href="/support/faqs/chat.html">Banckle Chat</a></li><li class="item-201"><a href="/support/faqs/meeting.html">Banckle Meeting</a></li><li class="item-202"><a href="/support/faqs/crm.html">Banckle CRM</a></li><li class="item-215"><a href="/support/faqs/helpdesk.html">Banckle Helpdesk</a></li><li class="item-203"><a href="/support/faqs/email.html">Banckle Email</a></li><li class="item-205"><a href="/support/faqs/campaign.html">Banckle Campaign</a></li><li class="item-230"><a href="/support/faqs/pricing.html">Pricing</a></li></ul></li><li class="item-159"><a href="/support/security.html" title="Security measures by Banckle">Security</a></li><li class="item-293"><a href="http://banckle.com/apis.html" title="Get support for Banckle Apps">API Explorers</a></li><li class="item-306"><a href="http://banckle.com/cloud/sdks.html" title="Banckle for Cloud SDKs">SDKs</a></li></ul></li><li class="item-161 active deeper parent"><a href="#">Corporate</a><ul class="nav-child unstyled small"><li class="item-162"><a class="displaynone" href="/corporate/overview.html" title="About Banckle">Overview</a></li><li class="item-292"><a href="/corporate/about-banckle.html" title="About Banckle">About Us</a></li><li class="item-163"><a href="/corporate/contact.html" title="Contact Banckle">Contact Us</a></li><li class="item-164"><a href="/corporate/community-buzz.html" title="Industry news about Banckle">Community Buzz</a></li><li class="item-165"><a href="/corporate/customer-list.html" title="Know our customers">Customers</a></li><li class="item-166"><a href="/corporate/testimonials.html" title="What customers are saying about Banckle?">Testimonials</a></li><li class="item-168"><a href="/corporate/press-images.html" title="Banckle Artwork for the Press">Press Images</a></li><li class="item-198 current active"><a class="displaynone" href="/corporate/privacy.html">Privacy Policy</a></li><li class="item-167"><a class="displaynone" href="/corporate/service-agreement.html" title="Banckle Service Agreement">Service Agreement</a></li></ul></li><li class="item-236 deeper parent"><a class="displaynone" href="/cloud.html">Cloud</a><ul class="nav-child unstyled small"><li class="item-237"><a href="/cloud/total.html">Banckle.Total</a></li><li class="item-238"><a href="/cloud/chat.html">Banckle.Chat</a></li><li class="item-282 deeper parent"><a href="/cloud/live-chat-api.html">Banckle.Chat</a><ul class="nav-child unstyled small"><li class="item-304"><a class="disabled displaynone" href="/cloud/live-chat-api/offer1.html">Banckle.Chat</a></li></ul></li><li class="item-239"><a href="/cloud/meeting.html">Banckle.Meeting</a></li><li class="item-283"><a href="/cloud/video-conferencing-api.html">Banckle.Meeting</a></li><li class="item-240"><a href="/cloud/crm.html">Banckle.CRM</a></li><li class="item-284"><a href="/cloud/crm-api.html">Banckle.CRM</a></li><li class="item-241"><a href="/cloud/helpdesk.html">Banckle.Helpdesk</a></li><li class="item-285"><a href="/cloud/help-desk-api.html">Banckle.Helpdesk</a></li><li class="item-242"><a href="/cloud/campaign.html">Banckle.Campaign</a></li><li class="item-286"><a href="/cloud/email-marketing-api.html">Banckle.Campaign</a></li><li class="item-243"><a href="/cloud/email.html">Banckle.Email</a></li><li class="item-287"><a href="/cloud/email-api.html">Banckle.Email</a></li><li class="item-244"><a href="/cloud/sdks.html">SDKs</a></li><li class="item-245"><a href="/cloud/faqs.html">APIs FAQ</a></li><li class="item-246 deeper parent"><a class="displaynone" href="/cloud/pricing.html">Pricing</a><ul class="nav-child unstyled small"><li class="item-258"><a href="/cloud/pricing/total.html">Banckle.Total</a></li><li class="item-259"><a href="/cloud/pricing/chat.html">Banckle.Chat</a></li><li class="item-260"><a href="/cloud/pricing/meeting.html">Banckle.Meeting</a></li><li class="item-261"><a href="/cloud/pricing/crm.html">Banckle.CRM</a></li><li class="item-262"><a href="/cloud/pricing/helpdesk.html">Banckle.Helpdesk</a></li><li class="item-263"><a href="/cloud/pricing/campaign.html">Banckle.Campaign</a></li><li class="item-264"><a href="/cloud/pricing/email.html">Banckle.Email</a></li><li class="item-294"><a class="disabled displaynone" href="/cloud/pricing/campaign-compare.html">Banckle.Campaign</a></li><li class="item-295"><a class="disabled displaynone" href="/cloud/pricing/chat-compare.html">Banckle.Chat</a></li><li class="item-296"><a class="disabled displaynone" href="/cloud/pricing/crm-compare.html">Banckle.CRM</a></li><li class="item-297"><a class="disabled displaynone" href="/cloud/pricing/helpdesk-compare.html">Banckle.Helpdesk</a></li><li class="item-298"><a class="disabled displaynone" href="/cloud/pricing/email-compare.html">Banckle.Email</a></li><li class="item-299"><a class="disabled displaynone" href="/cloud/pricing/meeting-compare.html">Banckle.Meeting</a></li></ul></li></ul></li></ul>
+
+                  
+    <ul id="loginStatusDiv" class="unstyled loginDiv">
+          </ul>
+          <script type="text/javascript">
+      var loginStatusText = $.ajax({
+                type: "GET",
+                url: '/action/loginstatus',
+                async: false,
+                data: 'text',
+                cache: false,
+                dataType: "json"
+              }).responseText;
+      $("#loginStatusDiv").html(loginStatusText);
+    </script>
+        </div>
+      </div>
+    </div>
+    <!-- End of Header -->
+        <div class="item-page">
+								
+		
+								<div class="container-fluid">
+<div class="row-fluid">
+<div class="col-12 page-title">
+<div class="container">
+<h1 class="heading1">Privacy Policy</h1>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="col-12">
+<div class="container privacy-overview">
+<p>Last updated: October 23, 2013</p>
+<p>This Privacy Policy ("Privacy Policy") applies to all of the products, services ("Products and Services") and Internet web site ("Site") offered by Banckle, a division of Aspose Pty Ltd. ("Banckle"). This Privacy Policy is designed to detail certain policies implemented throughout Banckle governing our use of Personal Information ("Personal Information" is defined as any information that identifies or can be used to identify the person to whom such information pertains) provided to Banckle via this Site, through customers' voluntary reporting of information around product and/or system errors ("Error Reports") or through customers' voluntary reporting of the installation of the Banckle software. We hope that this will assist you in understanding how we collect and use Personal Information related to our services and help you to make informed decisions when using our Products and Services. In this Privacy Policy, references to “we,” “our” and “us” refer to Banckle, while “you” and “your” refer to the Banckle customer or user.</p>
+<h4 class="heading4">I. Changes in privacy policy</h4>
+<p>Please note that the practices of Banckle, with respect to data collected and used by Banckle in connection with this website and Banckle Products and Services available or enabled via the Site, are governed by this online Privacy Policy as amended from time to time and not the Privacy Policy in effect at the time the data was collected. Banckle will post its updated Privacy Policy on our Site located at www.banckle.com so you are always aware of what Personal Information we may collect and how we may use this information. Banckle encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site, Products and Services, and/or continued transmission of Error Reports to Banckle will be subject to the then-current Privacy Policy.</p>
+<h4 class="heading4">II. Information collection and use</h4>
+<p>As a visitor to this Site, you can engage in many activities without providing any Personal Information. However, in certain sections of this Site, to use certain services, we may require you to register for an account, or we may invite you to submit questions or comments or request information, participate in surveys, questionnaires or contests, download trials or demonstrations, subscribe to newsletters or email alerts or participate in community forums. Due to the nature of some of these activities, we may ask that you complete and submit an online form with Personal Information such as your name, username, mailing address (including ZIP code), country of residence, e-mail address, employer, job title and department, and telephone and facsimile numbers. When ordering Products and Services via the Site, you may be asked to provide a credit card number and billing and shipping information. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. Similarly, if you wish to delete your information (pursuant to the mechanism set forth in "Updating your Personal Information and privacy preferences") that is mandatory, you will no longer be able to engage in that particular activity.</p>
+<p>We may use your Personal Information to deliver certain Products and Services, or information you have requested, verify your authority to enter certain password protected areas of the Site, send you notices for products and/or services that you have used or that may be of interest to you (if you have opted in to receive such notices) and improve the content and general administration of the Site.</p>
+<p>Please note that any information you post to a public bulletin board, blog or chat room, and to community help, wikis, and user profiles (the "Community Sites") is available to all persons accessing that location, and your e-mail address and other Personal Information or content you upload may also be posted on these Community Sites. The information you share, including your email address, would then be available to all persons accessing these Community Sites, and such information may be read, collected or used by others for any purpose, including sending you unsolicited messages. Banckle is not responsible for any information you elect to submit in these Community Sites or the use of such information. In addition, you should be aware that some Community Sites offer a service in which subscribers are e-mailed a copy of all messages posted to the Community Sites on a particular topic. Consequently, if you post a message to such Community Sites, your e-mail address will be sent to those subscribers who have indicated an interest in the topic of your message. If you do not wish for your Personal Information to be posted or distributed in this manner, you should not participate in the Community Sites.</p>
+<p>If you choose to transmit an Error Report to Banckle, we may collect Personal Information that is included in the information that you elect to include in the Error Report that you provide to us. We will use the Personal Information included in such Error Reports only to troubleshoot problems and errors and to prevent similar errors. Except as stated in this Privacy Policy, we will not further use or nor will we disclose any Personal Information included in these Error Reports.</p>
+<p>When you install any Banckle software, you will have the option to notify Banckle of your installation. If you choose to notify Banckle of your installation, we may collect Personal Information that is transmitted with your notification such as your email address, your domain and the version that you have installed. We will use the Personal Information included with such notifications to improve the quality of Banckle software and to manage and provide you with support and for marketing analysis. We may also use this information to send you marketing messages about Products and Services that might be of interest to you.</p>
+<h4 class="heading4">III. Children's privacy</h4>
+<p>Banckle recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. The Site and the Products and Services are intended for adult audiences, and Banckle does not knowingly collect any Personal Information from anyone under 13 years of age.</p>
+<h4 class="heading4">IV. Aggregate information</h4>
+<p>The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, IP addresses, External Web Sites (defined below) linked to, and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain Personal Information. We may use such aggregate information to analyze trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use. We may share this aggregate information with third parties to assist them in targeting advertisements to appropriate audiences.</p>
+<h4 class="heading4">V. Links to third party sites</h4>
+<p>The Site may provide links to other Web sites or resources over which Banckle does not have control ("External Web Sites"). Such links do not constitute an endorsement by Banckle of those External Web Sites. You acknowledge that Banckle is providing these links to you only as a convenience, and further agree that Banckle is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.</p>
+<h4 class="heading4">VI. Data integrity and security</h4>
+<p>We process your Personal Information in ways compatible with the purpose for which it was collected or subsequently authorized by you, the individual. To the extent necessary for such purposes, we take reasonable steps to make sure that your Personal Information is accurate, complete, current and otherwise reliable with regard to its intended use.</p>
+<p>We may employ procedural and technological measures, consistent with industry practice. Such measures are reasonably designed to help protect your Personal Information from loss, unauthorized access, disclosure, alteration or destruction. Banckle may use encryption, secure socket layer, firewalls, internal restrictions, password protection and other security measures to help prevent unauthorized access to your Personal Information.</p>
+<h4 class="heading4">VII. Use of cookies, web beacons and similar devices:</h4>
+<p>In order to improve our Products and Services and the Site and provide more convenient, relevant experiences to our customers, we and our vendors may use "cookies", "web beacons", and similar devices to track your activities. A cookie is a small amount of text that is transferred to your browser by a web server and can only be read by the server that gave it to you. Banckle does not save Personal Information in cookies.</p>
+<p>Our web pages or e-mail messages may contain a small graphic image called a web beacon, which is sometimes also called a "clear gif", that allows us to monitor and collect certain limited information about our users, such as the type of browser requesting the web beacon, the IP address of the computer that the web beacon is sent to and the time the web beacon was viewed. Web beacons can be very small and invisible to the user, but, in general, any electronic image viewed as part of a web page or e-mail, including HTML based content, can act as a web beacon. Company may use web beacons to count visitors to our web pages or to monitor how our users navigate our website, and we may include web beacons in e-mail messages in order to count how many messages we sent were actually opened or acted upon. Company uses web beacons to compile aggregate statistics about our website and our marketing campaigns. Company does not link the information collected by its web beacons to the PII you provide when registering with the website.</p>
+<p>A similar device may be used by which a Products and Services may send data to a server when a set of user-initiated events occur such as the "Add to Cart" or “Buy Now” button is clicked. This device is similar to a cookie in that it tracks your visit and the data can only be read by the server that receives the data. It is different than a cookie in that it is not browser-based, may not function as an identification card, and does not store any data on your computer.</p>
+<p>Banckle may collect usage statistics of Banckle website as well as Products and Services through embedded Google Analytics code to better understand the customer behavior. If you prefer to opt out of this feature in the application please contact us and we will guide you on the opt-out process.</p>
+<h4 class="heading4">VIII. Disclosure</h4>
+<p>While Banckle uses cookies and similar devices to track your use of the Site and the Products and Services (such as the number of downloads, types of Products and Services used and downloaded, how many users we receive daily, the Site pages visited), and web servers automatically log the IP/Internet address of your computer, Banckle does not generally use this information to identify you personally. Exceptions to this are noted in this Privacy Policy. If you expressly provide consent for the Site or the Products and Services to "remember" the unique identifier that you select when you register for various activities on the Site or the Products and Services, that unique identifier will be stored on a persistent cookie on your computer and that unique identifier will be linked to your registration information. As a result, your navigation path around the Site and the Products and Services will be tracked in identifiable form.</p>
+<p>We may provide your Personal Information that we collect and the data generated by cookies to the vendors and service agencies that we may engage to assist us. For example, we may provide your Personal Information to an organization in order to complete a service (e.g., process your payment) or diagnose an error. Such third party entities will be obligated to a written confidentiality agreement that is at least as protective of your Personal Information as the terms of this Privacy Policy and they will not be permitted to further distribute your Personal Information. We will also disclose your Personal Information if we reasonably believe we are required to do so by law, regulation or other government authority. We will not sell your Personal Information to any other company or organization except we may transfer your Personal Information to a successor entity upon a merger, consolidation or other corporate reorganization in which Banckle participates or to a purchaser of all or substantially all of Banckle's assets to which this Site relates.</p>
+<p>Personal Information that users provide about other individuals for tell-a-friend or other referral features on the Site or within Products and Services is used by Banckle to send an initial communication to the person whose details you have provided, and is not retained in Banckle's systems. If you are invited by someone else to participate in product trials, file sharing, web conferencing, live chat sessions, websites or other content, you will typically be required to contact the person who invited you to update, correct or delete the personal information they provided about you. In general, even though we may delete an account you hold with us in these types of shared editing or viewing areas, we may continue to retain information regarding your past actions with respect to content reviews or sharing initiated by others.</p>
+<h4 class="heading4">IX. Updating personal information and privacy preferences</h4>
+<p>Banckle provides you with the ability to review, correct and delete any of the Personal Information that you have provided to us. If you wish to review or correct any information you have provided to us, you may contact us by email at: 
+ <script type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy43054 = '&#105;nf&#111;' + '&#64;';
+ addy43054 = addy43054 + 'b&#97;nckl&#101;' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy43054 + '\'>');
+ document.write(addy43054);
+ document.write('<\/a>');
+ //-->\n </script><a href="mailto:info@banckle.com">info@banckle.com</a><script type="text/javascript">
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script><span style="display: none;">This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type="text/javascript">
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></span>.</p>
+<p>This Privacy Policy is effective as of: December 01, 2010</p>
+</div>
+<a class="gotop" href="/corporate/privacy.html#top">↑<br>TOP</a>
+<div class="cleafix">&nbsp;</div>
+<div class="cleafix">&nbsp;</div>
+</div>
+</div>
+</div>
+	
+						 </div>
+
+    <!-- End of Content-->
+<div class="footer-nav-border">&nbsp;</div>
+  <div id="footer" class="footer-nav">
+    <div class="container">
+      <div class="col-2  ml-00px">
+                    		<div class="moduletable footer-pricing">
+					<h3>Apps Pricing</h3>
+					<ul class="nav menu footer-ul" id="footer-pricing">
+<li class="item-169"><a href="/pricing/total.html">Banckle.Total</a></li><li class="item-170"><a href="/pricing/chat.html">Banckle.Chat</a></li><li class="item-171"><a href="/pricing/meeting.html">Banckle.Meeting</a></li><li class="item-172"><a href="/pricing/crm.html">Banckle.CRM</a></li><li class="item-218"><a href="/pricing/helpdesk.html">Banckle.Helpdesk</a></li><li class="item-173"><a href="/pricing/campaign.html">Banckle.Campaign</a></li><li class="item-176"><a href="/pricing/email.html">Banckle.Email</a></li></ul>
+		</div>
+	
+                  </div>
+      <div class="col-2 ">
+                    		<div class="moduletable footer-apps">
+					<h3>Banckle Apps</h3>
+					<ul class="nav menu footer-ul" id="footer-apps">
+<li class="item-181"><a href="/apps/chat.html">Banckle.Chat</a></li><li class="item-177"><a href="/apps/meeting.html">Banckle.Meeting</a></li><li class="item-178"><a href="/apps/crm.html">Banckle.CRM</a></li><li class="item-219"><a href="/apps/helpdesk.html">Banckle.Helpdesk</a></li><li class="item-179"><a href="/apps/campaign.html">Banckle.Campaign</a></li><li class="item-180"><a href="/apps/email.html">Banckle.Email</a></li></ul>
+		</div>
+	
+                  </div>        
+      <div class="col-2 ">
+                    		<div class="moduletable footer-marketplace">
+					<h3>Marketplace</h3>
+					<ul class="nav menu footer-ul" id="footer-marketplace">
+<li class="item-182"><a href="/marketplace/overview.html">Overview</a></li><li class="item-184"><a href="/marketplace/chat.html">Banckle.Chat</a></li><li class="item-185"><a href="/marketplace/meeting.html">Banckle.Meeting</a></li><li class="item-281"><a href="/marketplace/crm.html">Banckle.CRM</a></li><li class="item-302"><a href="http://banckle.com/marketplace/helpdesk.html">Banckle.Helpdesk</a></li><li class="item-303"><a href="http://banckle.com/marketplace/campaign.html">Banckle.Campaign</a></li></ul>
+		</div>
+			<div class="moduletable footer-support">
+					<h3>Support</h3>
+					<ul class="nav menu footer-ul" id="footer-support">
+<li class="item-186"><a href="http://community.banckle.com/forums/default.aspx">Forum</a></li><li class="item-188"><a href="/support/faqs.html">FAQs</a></li><li class="item-187"><a href="http://banckle.com/wiki/dashboard.action">Docs</a></li><li class="item-189"><a href="/support/security.html">Security</a></li></ul>
+		</div>
+	
+                  </div>
+      <div class="col-3 ">
+                    		<div class="moduletable footer-corporate">
+					<h3>Corporate</h3>
+					<ul class="nav menu footer-ul" id="footer-corporate">
+<li class="item-190"><a href="/corporate/about-banckle.html">About Us</a></li><li class="item-191"><a href="/corporate/contact.html">Contact Us</a></li><li class="item-192"><a href="/corporate/community-buzz.html">Community Buzz</a></li><li class="item-193"><a href="/corporate/customer-list.html">Customers</a></li><li class="item-194"><a href="/corporate/testimonials.html">Testimonials</a></li><li class="item-197"><a href="http://banckle.com/blog/index.php">Blog</a></li><li class="item-195"><a href="/corporate/service-agreement.html">Service Agreement</a></li><li class="item-229 active"><a href="/corporate/privacy.html">Privacy Policy</a></li><li class="item-196"><a href="/corporate/press-images.html">Press Images</a></li><li class="item-220"><a class="displaynone" href="/signup.html">Sign Up</a></li><li class="item-221"><a class="displaynone" href="/reset-password.html">Reset Password</a></li></ul>
+		</div>
+	
+                  </div>
+      <div class="col-3 stay-connected ">
+                    		<div class="moduletable">
+					<h3>Stay Connected</h3>
+					
+
+<div class="custom">
+	<div><span>Join our mailing list</span><form><input id="silentEmail" class="data-placeholder" type="email" name="email" data-placeholder="Join Our Newsletter"> <button id="silentSignupSubmit" class="btn input-button" name="silentSignupSubmit" value="Submit" type="button"><em class="icon16 icon16-mail">&nbsp;</em></button></form>
+<div class="social-icons"><a href="https://www.facebook.com/BanckleApps"><em class="icon42 icon42-facebook">&nbsp;</em></a> <a href="https://twitter.com/banckle"><em class="icon42 icon42-twitter">&nbsp;</em></a> <a href="http://www.linkedin.com/company/banckle"><em class="icon42 icon42-linkedin">&nbsp;</em></a> <a href="http://www.youtube.com/user/Banckle"><em class="icon42 icon42-youtube">&nbsp;</em></a> <a href="https://plus.google.com/+Banckle/posts"><em class="icon42 icon42-googleplus">&nbsp;</em></a> <a href="/blog/feed"><em class="icon42 icon42-rssfeed">&nbsp;</em></a></div>
+<div class="clearfix">&nbsp;</div>
+<div class="searchdiv-mobile"><form id="cse-search-box" action="http://banckle.com/search.html"><input id="textfield" class="data-placeholder" type="text" name="q" data-placeholder="Search here"> <button class="btn input-button" name="sa" value="Submit" type="submit"><em class="icon16 icon16-search">&nbsp;</em></button></form></div>
+<div class="ways2pay"><a href="https://apps.banckle.com/login.action?go=https://apps.banckle.com/dashboard/active-subscriptions.action" target="_blank"><img src="/resources/theme/v3/images/bg/ways2pay.png"></a></div>
+</div>
+<div><a class="scrollup" href="#">↑<br> TOP</a></div></div>
+		</div>
+	
+                  </div>
+      </div>
+    </div>
+  
+<footer>© Banckle 2010 - 2014. A division of <a href="http://www.aspose.com/"><img src="/resources/theme/v3/images/bg/aspose-logo.png" height="20" width="96"></a></footer>  
+  <div id="support_btn" class="middle_left" onclick="window.location='http://community.banckle.com/forums/default.aspx'">
+    <div id="middle_left_text">Support</div>
+  </div>
+   <!-- Monitoring Code --> 
+    <script type="text/javascript" async="yes" src="https://apps.banckle.com/em/visitor.do?dep=c2cc9ba92bb2e003012bc200f3a804bf"></script> 
+     
+  <div id="banckleLiveChatButton1" class="banckleLiveChatBottomRight"> 
+  <!-- Chat Link Code --> 
+  <a id="" href="#" onclick="bs_startChat({dep:'c2cc9ba92bb2e003012bc200f3a804bf'});return false;" title="Click here to contact Live Support"> <img src="https://apps.banckle.com/em/onlineImg.do?d=c2cc9ba92bb2e003012bc200f3a804bf&amp;a=/images/live-chat-available.png&amp;u=/images/leave-your-message.png" alt="Live Chat"></a> </div>  
+    <!-- End of Content-->  	
+  
+
+</body></html>
