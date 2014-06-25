@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104151948id_/http%3A//www.cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051642id_/http%3A//cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
 
 # Consulate General Of India
 
   * #### Consulate News
 
-The award ceremony for the winners of the “Tagore in My Heart” Essay Competition was held in Shenzhen University on Oct 26, 2013.The competition was organised in order to commemorate the 100th anniversary of winning of Nobel prize for Literature by Ra
+Consulate General of India in Guangzhou will be organizing the next Consular Camp in Shenzhen on Saturday July 05, 2014 from 1000-1730 hours (with lunch break from 1300-1400 hours) at the premises of Bank of India Shenzhen Branch.
 
 [More News](https://web.archive.org/news/index/2)
 
   * #### India News
 
-Tata Consultancy Services (TCS) is now the second most valuable IT services company in the world behind IBM but ahead of Accenture and HP. 
+Indian Vice President Mohammad Hamid Ansari and visiting Chinese State Councilor Yang Jiechi Tuesday launched here in the presence of some 500 people the India China Year of Friendly Exchanges. 
 
 [More News](https://web.archive.org/news/index/1)
 
 
-
+[](https://web.archive.org/map)
 
 Thank you for visiting the website of the Consulate General of India in Guangzhou and reviewing our privacy policy. We do not collect any personal information about you other than what you choose to provide us.
 
