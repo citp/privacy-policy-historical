@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scrapebrokers.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206033627id_/http%3A//scrapebrokers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapebrokers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131638id_/http%3A//scrapebrokers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ScrapeBrokers - Shop for Autoapprove Lists, Backlinks blasts
+# Privacy Policy | ScrapeBrokers - Your buddy in a mad SEO World
 
 **What information do we collect?**
 
@@ -15,10 +15,9 @@ Any of the information we collect from you may be used in one of the following w
   * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
   * To process transactions – Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
   * To send periodic emails – The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+  * How do we protect your information?
 
 
-
-**How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order
 
@@ -44,7 +43,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://scrapebrokers.com/terms-and-conditions
+Please also visit our [**Terms and Conditions**](http://scrapebrokers.com/terms-and-conditions "Terms") section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://scrapebrokers.com/terms-and-conditions
 
 **Your Consent**
 
@@ -56,7 +55,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+If there are any questions regarding this privacy policy you may contact us using the information below or the [**helpdesk**](http://www.scrapebrokers.com/support)
 
 http://scrapebrokers.com
 
