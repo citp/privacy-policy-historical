@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizbangblog.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207221320id_/http%3A//wizbangblog.com/advertising/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizbangblog.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131105id_/http%3A//wizbangblog.com/advertising/privacy.php) for the most accurate reproduction.*
 
 # About Wizbang
 
