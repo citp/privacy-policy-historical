@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the typecast.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529214316id_/http%3A//typecast.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typecast.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070955id_/http%3A//typecast.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Design in the browser with web fonts and real content — Typecast
-
-### Privacy Policy 
+# Privacy Policy - Typecast
 
 Monotype Imaging Holdings Inc., a Delaware corporation with its principal place of business at 500 Unicorn Park Drive, Woburn, MA 01801 United States of America, and its subsidiaries and affiliates worldwide (collectively, the “Company” or “Monotype Imaging”) makes information, products, and services available on our Websites (each individually, the “Site” and collectively, the “Sites”), subject to the following Privacy Policy (the “Privacy Policy”). We own and operate many Sites. You can determine if Monotype Imaging is the owner and operator of a site by referring to the Terms and Conditions of Use for the specific site. The Privacy Policy applies to all of our Sites. The owner and operator of the domain [http://typecast.com](http://typecast.com/) is Monotype Ltd, a subsidiary of Monotype Imaging Holdings Inc.
 
