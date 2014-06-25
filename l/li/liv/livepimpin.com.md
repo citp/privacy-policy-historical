@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the livepimpin.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912220244id_/http%3A//www.livepimpin.com%3Fpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livepimpin.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625205740id_/http%3A//livepimpin.com/pp) for the most accurate reproduction.*
 
-# Live Sex and Private Chat
-
-### _PRIVACY POLICY_
+# Livepimpin Privacy Policy, cam to cam live sex chat network at only 0.99c per minute
 
 **YOUR ACCEPTANCE**
 
@@ -25,7 +23,7 @@ When you do provide us with personal identifying information, such information w
 
 **OUR COOKIES**
 
-   Your browser offers so-called 'cookies,' which � if you allow their use � store small amounts of data on your computer about your visit to our site.  
+   Your browser offers so-called 'cookies,' which - if you allow their use - store small amounts of data on your computer about your visit to our site.  
 Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.  
 We may use cookies to:   
 \- Deliver content specific to your interests.  
@@ -48,16 +46,9 @@ We may use cookies to:
 
 **UNSOLICITED EMAIL RECEIVED BY YOU**
 
-   LivePimpin does not send unsolicited email to non-public addresses or to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from LivePimpin, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [support@livepimpin.com](mailto:support@livepimpin.com "Support Mail").  
+   LivePimpin does not send unsolicited email to non-public addresses or to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from LivePimpin, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [unsubscribe@livepimpin.com](mailto:unsubscribe@livepimpin.com "Unsubscribe").  
 LivePimpin also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our    Acceptable Use Policy. Further, according to our published policy, if LivePimpin becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, LivePimpin reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the LivePimpin program, termination of LivePimpin services, and forfeiture of all commissions.
 
 **CONTACT**
 
-   If you have any questions about this Privacy Policy, please contact our [customer service department](https://web.archive.org/?support "Support Form") and provide us with your name, your LivePimpin login name, and any information you feel is important.
-
-The address for correspondence by post is:
-
-Live Entertainment LLC.   
-501 Silverside Rd, Suite 105  
-Wilmington, DE, 19809  
-U.S.A
+   If you have any questions about this Privacy Policy, please contact our [customer service department](https://web.archive.org/support "Support Form") and provide us with your name, your LivePimpin login name, and any information you feel is important.
