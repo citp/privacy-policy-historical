@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practo.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225135050id_/https%3A//www.practo.com/ray/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221616id_/https%3A//www.practo.com/ray/privacy) for the most accurate reproduction.*
 
 # Practo Ray Software Privacy Policy
 
@@ -203,3 +203,13 @@ Privacy Statements
 11.1 The Users acknowledge that this privacy policy is part of the terms of use and unconditionally agree that becoming a User of the Website and its Services signifies their assent to this privacy policy. User’s visit and any dispute over privacy is subject to this policy and terms of use. Practo may update this privacy policy at any time, with or without advance notice. In the event there are significant changes in the way Practo treats User’s personally identifiable information, Practo will display a notice on the Website or send Users an email, as provided for above. Unless stated otherwise, Practo’s current privacy policy applies to all information that Practo has about Users and their account. Notwithstanding the above, Practo shall not be required to notify the Users of any changes made to the privacy policy.
 
 11.2 If a User uses the Service after notice of changes have been sent to such User or published on the Website, such User hereby provides his/her/its consent to the changed practices.  
+
+## We’re sorry. Something went wrong.
+
+Please try again after five minutes.
+
+## Fill in these details to start your trial
+
+## Great! We've sent you a verification email
+
+If you don't find it in your inbox, check your spam/junk folder.
