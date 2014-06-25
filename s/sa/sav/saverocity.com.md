@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the saverocity.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202055217id_/http%3A//saverocity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saverocity.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625160731id_/http%3A//saverocity.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Saverocity
 
 Privacy Policy for www.saverocity.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@saverocity.com
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at matt @saverocity.com
 
 At www.saverocity.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.saverocity.com and how it is used.
 
