@@ -1,40 +1,49 @@
-> *The following text is extracted and transformed from the hotelreservations.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203011843id_/http%3A//www.hotelreservations.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelreservations.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134336id_/http%3A//www.hotelreservations.com/content/privacy) for the most accurate reproduction.*
 
-# Hotel Reservations
+# Privacy Policy
 
-  
+**THE SUMMARY**
 
+HotelReservations.com is in the travel business, not the spying business. We will not ask you for information that does not have a purpose and we will not require information to be disclosed that is not absolutely necessary. Whether you travel the Web or travel the world, HotelReservations.com wants you to always be safe!
 
-## Privacy
+ **THE DETAILS**
 
-Welcome to HotelReservations.com ! 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice shall apply to all information HotelReservations.com collects or is submitted by the user on the HotelReservations.com website. To make this notice easy to find; we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-Hotel Reservations respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at Hotel Reservations’s Web site. 
+ **Use of Customer Information**
 
-Part I. Information Collection   
-Hotel Reservations collects information through our Web site at several points. We collect the following information about primary visitors: Name, address, email, phone, and company name when a reservation is made with us. 
+HotelReservations.com is the sole owner of the information collected on this site. We will not sell or rent this information to others in ways that differ from what is disclosed in this statement.
 
-Hotel Reservations does not actively market to children, and we never knowingly ask a child under 13 to divulge personal information. 
+ **General Information - What We Collect and Why**
 
-We employ cookies. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. Cookies enable Hotel Reservations to track usage patterns and deliver customized content to users. Our cookies do not collect personally identifiable information. 
+HotelReservations.com may include information about your visit in collective or aggregated data that does not identify you specifically. For example, we may tell our advertisers or investors the number of website visitors or the most popular vacation destinations.
 
-Part II. Information Usage.   
-The personal information that we gather is used solely for identification and reservation purposes and for managing online accounts. Hotel Reservations does not sell or otherwise exploit personal information. 
+Our server recognizes domain names and the pages visited. This data is gathered in an aggregate manner for quality control and improvement of our website.
 
-Hotel Reservations may gather generic and non-identifying information for marketing purposes for use by Hotel Reservations and, in some instances, by our affiliates. Information about your activity on the site may be automatically collected when you log in and is used for the sole purpose of improving the Hotel Reservations Web site. 
+HotelReservations.com does not market to children nor collect personal information about children at this website.
 
-We offer links to other Web sites. Please note: When you click on links to other Web sites, we encourage you to read their privacy policies. Their standards may differ from ours. 
+ **Individual Information - What We Collect and Why**
 
-If our policy on information collection or uses changes, will advise you by updating this policy on our web site. 
+Your name, email address, physical address, phone and fax number, and credit card number, expiration date and billing address are necessary to ensure we are able to make and confirm your reservation. We do not share this personal information with outside parties except to the extent necessary to complete your reservation or product order.
 
-Part III. Access to Information   
-Hotel Reservations strives to maintain the accuracy of our information. Users may access their own personal information and contact us about inaccuracies they may find by contacting us at the email address below. Users may also delete their information from our database by contacting us at the same address. In both cases, please contact us using the email address we have on file for you. 
+Your contact information is needed in order to notify you in the event of any processing difficulties or unforeseen circumstances fulfilling your reservation or product order. In some cases, paper tickets may need to be mailed to you. The more easily we can contact you, the better we can serve you.
 
-Part IV. Problem Resolution   
-If problems arise, users may contact Hotel Reservations by the email address below. We are committed to resolving disputes within one week. 
+HotelReservations.com will use the information you provide about yourself in order to make the HotelReservations.com website as customer friendly as possible. We want to know you to better serve you, but do not want to invade your life. We may ask you for more information about your travel interests. In the future this information may be used to help HotelReservations.com make more applicable travel recommendations. However, this information will always be optional.
 
-Part V. Data Storage and Security  
-Hotel Reservations protects user information with the following security measures: we utilize the best encryption software in the industry to provide the highest level of protection for all transmitted personal and financial data. Hotel Reservations protects your personal information by using the most sophisticated encryption software on the market. Through the encryption process, the information that you enter is converted into bits of code, thereby enabling your information to be securely transmitted over the Internet. Once we receive your information, it is returned to its original form and stored in our database. In-house state-of-the-art servers ensure complete control over all systems. 
+ **Newsletter - What We Collect and Why**
 
-  
-If you have any further questions about privacy or security, please contact us by sending an email to: privacy@Hotelreservations.com. 
+Your email address ensures you receive the newsletter in a timely manner. Your name is optional and tells us who personally to address - just a nice touch. If you no longer wish to receive our newsletter, you may opt-out of receiving them by following the unsubscribe instructions in any email you receive from us.
+
+ **Surveys - What We Collect and Why**
+
+From time to time HotelReservations.com conducts voluntary customer surveys, which may ask questions about broad background information and customer preferences. This survey information is completely optional and you are under no obligation to be a part of any survey. The information HotelReservations.com collects is used to better serve our customers by helping HotelReservations.com determine our customer's travel needs and improve the satisfaction and use of this website.
+
+Participation in these surveys or contests is completely voluntary and you therefore have a choice whether to: age, gender, approximate household income, how you travel, how you make your reservations, and why you travel.
+
+Your contact information may be required if a prize is to be awarded to survey respondents either at random or individually. This will enable us to contact you to notify you of details regarding your prize.
+
+**Family Tree**
+
+In conjunction with HotelReservations.com, Family Tree will receive a donation for every hotel booking when you select a Family Tree Package. Those packages include specific levels of assistance that are identified when you see the Family Tree logo. When available, other Family Tree donors will provide matching funds, making our effort go even further. Your private information will not be shared with Family Tree. Customer Service for Family Tree packages is being provided by Hotels For Everyone. 
+
+To learn more about Family Tree, visit their website at [www.thefamilytree.org](http://www.thefamilytree.org/)
