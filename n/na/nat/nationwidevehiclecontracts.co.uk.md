@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationwidevehiclecontracts.co.uk privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922005956id_/http%3A//www.nationwidevehiclecontracts.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwidevehiclecontracts.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625182047id_/http%3A//www.nationwidevehiclecontracts.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Nationwides Privacy And Cookie Policy
 
@@ -60,17 +60,10 @@ Our website may provide links and banner advertisements to third party sites. Pl
 
 If you feel your privacy has been breached by us, then please write to: 
 
-Compliance Manager
-
-Nationwide Vehicle Contracts Limited
-
-Unit 9, Christie Way,
-
-Christie Fields
-
-Manchester
-
-M21 7QY
+Compliance Manager  
+Nationwide Vehicle Contracts Limited  
+Unit 9, Christie Way  
+Christie Fields, Manchester, M21 7QY
 
 **Security**
 
@@ -88,7 +81,7 @@ You must not use the services and/or network systems or any part thereof for fra
 
 **Credit reference agencies**
 
-In considering your application we will search your record at credit reference agencies. They will add to your record details of our search and your application and this will be seen by other organisations that make searches.
+In considering your application we will search your record at credit reference agencies. They will add to your record details of our search and your application and this will be seen by other organisations that make searches. On occasion, we may request a credit check with more than one finance provider. 
 
 Searches will also be made in respect of directors and partners of firms applying for credit. Information held about you by the credit reference agencies may already be linked to records relating to other people with whom you have a financial association. In connection with your application you may be treated as financially linked with them and assessed with reference to any such associated records.
 
@@ -128,7 +121,7 @@ For these purposes we or they may make further searches. Although these searches
 
 We and the credit reference agencies will also use the records for statistical analysis about credit.
 
-Please telephone us on [insert number] if you want to have details of those credit reference and fraud prevention agencies from whom we obtain and to whom we pass information about you. You have a legal right to these details.
+Please telephone us on 0844 482 9595 if you want to have details of those credit reference and fraud prevention agencies from whom we obtain and to whom we pass information about you. You have a legal right to these details.
 
 **Sharing your information with others**
 
