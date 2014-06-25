@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takelessons.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123122105id_/http%3A//takelessons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takelessons.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075425id_/http%3A//takelessons.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TakeLessons
 
@@ -99,7 +99,7 @@ Services and websites we sponsor have security measures in place to protect the 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact: 
 
 Attn: Service Scout, Inc. Customer Service  
-350 10th Avenue, Suite 600  
+225 Broadway, Suite 600  
 San Diego, CA 92101  
 
 
