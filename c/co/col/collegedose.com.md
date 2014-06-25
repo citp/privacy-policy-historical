@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collegedose.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202040800id_/http%3A//collegedose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegedose.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084812id_/http%3A//collegedose.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - College Dose – Your Daily Dose of College Life
+# PRIVACY POLICY – College Dose - Your Daily Dose of College Life
 
 Online privacy is a top concern at CollegeDose.com. For further information or questions about privacy, email us at info@CollegeDose.com. Your use is based on your acceptance of how CollegeDose.com operates, as indicated in this Privacy Policy.
 
