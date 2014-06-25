@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camper.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617092238id_/http%3A//www.camper.com/html/legal/privacy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camper.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625023251id_/http%3A//www.camper.com/html/legal/privacy_en.html) for the most accurate reproduction.*
 
 # Camper. Legal Information and Privacy Policy.
 
@@ -52,7 +52,7 @@ Despite these measures, whenever you provide your personal details on the Intern
 
 ### Third parties
 
-Your details may be transferred to partners that host our websites and third parties who assist us in the design and use of the website, or provide us with services or analyze data collected. These third parties will use the data for the purposes of carrying out the tasks described above, and undertake to respect and maintain the personal details when required to do so by law. In addition your details may be transferred to companies that form part of our group (if you would like further information about these companies, please click here) and for the purposes described earlier in this Privacy Policy; if you do not want to receive information from these companies, please send us an e-mail to contact@camper.es. Other than in these cases, we do not sell, trade or transfer your personal details in any form to third parties without informing you first and in accordance with the data protection legislation currently in effect.
+Your details may be transferred to partners that host our websites and third parties who assist us in the design and use of the website, or provide us with services or analyze data collected. These third parties will use the data for the purposes of carrying out the tasks described above, and undertake to respect and maintain the personal details when required to do so by law. In addition your details may be transferred to companies that form part of our group (if you would like further information about these companies, please click here) and for the purposes described earlier in this Privacy Policy; if you do not want to receive information from these companies, please send us an e-mail to customercare@camper.es. Other than in these cases, we do not sell, trade or transfer your personal details in any form to third parties without informing you first and in accordance with the data protection legislation currently in effect.
 
 ### Hyperlinks
 
@@ -60,11 +60,50 @@ We may include hyperlinks on this website to other websites or resources operate
 
 ### Cookies
 
-During your visit to this website CAMPER may collect data of an impersonal nature, mainly through the use of cookies. A cookie is a small text file which a server can place on the hard drive of a user’s computer. It contains information about the relevant visitor’s visit to the website. Cookies can be used to collect specific information during your visit to the website. This information can help CAMPER to ensure that the website and the services more closely accommodate the requirements and preferences of the users of the website. You may configure your internet browser to notify you each time a new cookie is about to be stored on your computer so that you may decide whether to accept or reject it. Please refer to your internet browser’s help section for specific instructions. Please note that some parts of the website may not function properly if you reject cookies.
+During your visit to the website, CAMPER may collect information using cookies. A cookie is a small text file that a server can place on a user’s computer’s hard disk. It contains information about the user’s website visit. Cookies can be used to compile specific information during your visit to the website. This information can help CAMPER to ensure that the website and the services are as closely adapted as possible to its users’ needs and preferences. In view of this, we would like to inform you that you may find the following types of cookies: 
+
+CAMPER'S OWN COOKIES   
+---  
+Type  |  Denomination  |  Technical name  |  Domain  |  Description   
+Identification  |  User session ID  |  JSESSIONID  |  www.camper.com  |  User's session ID. It is thus possible to identify the different requests that a user might make during the current session. It is deleted at the end of the session   
+Browsing  |  Browser Cookies  |  __camperCountry  |  www.camper.com  |  Browser country detection. It is deleted at the end of the session.   
+__camperGeoCountry  |  www.camper.com  |  Country detection via browser IP. It is deleted at the end of the session.   
+__camperLang  |  www.camper.com  |  It detects the language and guarantees that it is not changed during the session. It is deleted after one month.   
+__camperShowPopUpNews  |  www.camper.com  |  It shows associated information to users who have subscribed to our newsletters. If they are not subscribers, no information associated with newsletters is shown. It is deleted after seven days.   
+SAVId  |  www.camper.com  |  This set of cookies makes it possible to present a version of the website optimised for the browser and the user operating system. It also facilitates direct traffic to the end users via the Level 3 network avoiding public exchange points.   
+SL_Audience   
+SL_ClassKey   
+SL_UVId   
+Website location  |  __mxsv  |  .camper.com  |  Detecting user's location during the browsing and the purchasing process. It thus provides support for Google Analytics' tracking. It is deleted at the end of the session.   
+Drupal JS-Elemente  |  has_js  |  www.camper.com  |  This cookie informs the system about whether JavaScript is enabled in the browser being utilized by the user. It is deleted at the end of the session.   
+EXTERNAL COOKIES   
+Type  |  Denomination  |  Technical name  |  Domain  |  Description   
+Identification  |  Userzoom.com  |  AWSELB  |  cdn3.userzoom.com  |  It enables users of other websites to conduct surveys. It is deleted at the end of the session.   
+Analysis  |  Browsing analysis  |  __utma  |  .camper.com  |  They make it possible to monitor user access to the website using the Google Analytics tool. You can find further information at: https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage   
+__utmb  |  .camper.com   
+__utmc  |  .camper.com   
+__utmz  |  .camper.com   
+__utmz0  |  .camper.com   
+Advertising  |  .w55c.net  |  matchgoogle  |  .w55c.net  |  It makes it possible to delimit the advertising offered to the users at other sites. It is deleted at the end of the month   
+wfivefivec  |  .w55c.net  |  It makes it possible to delimit the advertising offered to the users at other sites. It is deleted after two years.   
+apis.google.com  |  NID  |  .google.com  |  Google uses these cookies to customize the advertisements that are shown in Google's services, such as, for example, Google Search, especially when a session has not been initiated with a Google account. The cookies are also used to show advertisements beyond Google. They are deleted after six months.   
+accounts.google.com  |  NID  |  .google.com   
+web.epartner.es  |  _pf_  |  web.epartner.es  |  It makes it possible to register browsing preferences for advertising purposes. It is deleted after three months.   
+Affilinet  |  affili_10508  |  affili.net/  |  It makes it possible to control the time that elapses after clicking on the website. It also makes it possible to identify the publisher of the selected link. It is deleted after thirty days.   
+affili_10508pv  |  affili.net/  |  It makes it possible to control the time that elapses after displaying the contents of the website. It also makes it possible to identify the publisher of the selected link. It is deleted after thirty days.   
+ASP.NET_SessionId  |  affili.net/  |  It makes it possible to maintain the session with Affilinet's server. It is deleted at the end of the session.   
+Browsing  |  paypal  |  DC  |  www.paypal.com  |  This cookie is generated on downloading Paypal's corporate image. It is deleted at the end of the session.   
+static.ak.facebook.com  |  no cookies  |  www.facebook.com  |  Refer to www.facebook.com   
+s-static.ak.facebook.com  |  no cookies   
+www.facebook.com  |  no cookies   
+  
+You can set up the Internet browser so that it informs you every time that a new cookie is stored in the computer; this will enable you to decide whether to accept it or reject it. Please go to your Internet browser’s help section for specific instructions. 
+
+Please do not forget that some parts of the website may not function correctly if you reject the cookies.
 
 ### Reviewing, editing and deleting your data
 
-Under the terms of the applicable data protection rules and legislation you are entitled to inspect, correct and/or delete any personal data concerning you, as well as to revoke your consent to receive information about promotions and other matters of interest related to CAMPER, at any time. To this end you may address a request for such inspection, correction, deletion and/or objection to Ruralmed S.L. (CAMPER) Att.: department Web y SAC, Polígono Industrial s/n, 07300 Inca, Mallorca, Islas Baleares, Spain. Or by e-mail at the following address: [contact@camper.es](mailto:contact@camper.es). 
+Under the terms of the applicable data protection rules and legislation you are entitled to inspect, correct and/or delete any personal data concerning you, as well as to revoke your consent to receive information about promotions and other matters of interest related to CAMPER, at any time. To this end you may address a request for such inspection, correction, deletion and/or objection to Ruralmed S.L. (CAMPER) Att.: department Web y SAC, Polígono Industrial s/n, 07300 Inca, Mallorca, Islas Baleares, Spain. Or by e-mail at the following address: [customercare@camper.es](mailto:customercare@camper.es). 
 
 ### Changes to the Privacy Policy
 
