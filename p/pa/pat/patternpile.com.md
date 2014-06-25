@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the patternpile.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222160641id_/http%3A//patternpile.com/sewing-patterns/patternpile-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patternpile.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072955id_/http%3A//patternpile.com/sewing-patterns/patternpile-com-privacy-policy) for the most accurate reproduction.*
 
-# PatternPile.com Privacy Policy | PatternPile.com - Hundreds of Patterns for Making Handbags, Totes, Purses, Backpacks, Clutches, and more.
+# PatternPile.com Privacy Policy | PatternPile.com
 
 ### PRIVACY POLICY
 
@@ -60,4 +60,4 @@ Links:
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
 © 2012 PatternPile.com , All rights reserved.  
-Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
+Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
