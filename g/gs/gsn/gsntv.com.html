@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gsntv.com privacy policy that was archived on 2013-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213161736id_/http%3A//gsntv.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gsntv.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625115422id_/https%3A//gsntv.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns/website#" lang="en-US" ng-app="GsntvApp"><!-- A ThemeZilla design (http://www.themezilla.com) - Proudly powered by WordPress (http://wordpress.org) --><!-- BEGIN head --><head>
 	
@@ -18,7 +18,7 @@
 	<meta property="og:determiner" content="the">
 	
 	<meta name="viewport" content="width=940">
-        <meta name="description" content="GSNTV.COM - The Official TV Network Website for GSN - The American Bible Challenge, Beat The Chefs, The Pyramid, Deal or No Deal, Family Feud and many more!">
+    <meta name="description" content="GSNTV.COM - The Official TV Network Website for GSN - The Game Show Network - Featuring TV shows like The Chase, Minute To Win It, Mind Of A Man, The American Bible Challenge, Family Feud and many more">
 	<meta name="generator" content="Hoarder 1.1.1">
 <meta name="generator" content="ZillaFramework 1.0.2.5">
 	
@@ -37,7 +37,7 @@
 <link rel="stylesheet" id="screen-css" href="http://gsntv.com/wp-content/themes/hoarder/css/screen.css?ver=4.0.1" type="text/css" media="all">
 <link rel="stylesheet" id="cross-browser-css" href="http://gsntv.com/wp-content/themes/hoarder/css/cross_browser.css?ver=4.0" type="text/css" media="all">
 <link rel="stylesheet" id="shows-css" href="http://gsntv.com/wp-content/themes/hoarder/css/shows.css?ver=4.0" type="text/css" media="all">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://gsntv.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://gsntv.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
 <script type="text/javascript" src="http://p.jwpcdn.com/6/2/jwplayer.js?ver=3.5.1"></script>
 <script type="text/javascript" src="http://gsntv.com/wp-content/themes/hoarder/js/superfish.js?ver=1.4.8"></script>
 <script type="text/javascript" src="http://gsntv.com/wp-content/themes/hoarder/js/supersubs.js?ver=0.2"></script>
@@ -78,13 +78,13 @@
 
             <link rel="shortcut icon" href="http://localhost/wp-content/uploads/2013/01/favicon.png">
 
-<!-- All in One SEO Pack 2.0.4 by Michael Torbert of Semper Fi Web Design[1247,1264] -->
+<!-- All in One SEO Pack 2.0.4 by Michael Torbert of Semper Fi Web Design[1289,1306] -->
 <meta name="description" content="GSN.COM PRIVACY POLICY PLEASE READ THIS PRIVACY POLICY AND THE GSN TERMS OF SERVICE BEFORE USING THIS WEBSITE OR ANY GSN FORUM This Privacy Policy Statement">
 
 <link rel="canonical" href="http://gsntv.com/privacy/">
 <!-- /all in one seo pack -->
-        
-    <script>
+<link rel="stylesheet" href="http://gsntv.com/zilla-custom-styles.css?1403697263" type="text/css" media="screen">
+       <script>
 
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 
@@ -95,11 +95,12 @@
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
     ga('create', 'UA-41996475-1', 'gsntv.com');
+	
+	ga('require', 'displayfeatures');
 
     ga('send', 'pageview');
 
-  </script>
-    
+  </script> 
 <!-- END head -->
 </head>
 
@@ -137,6 +138,8 @@
 	<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="http://gsntv.com/shows/the-pyramid/">The Pyramid</a></li>
 	<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="http://gsntv.com/shows/shff/">Family Feud</a></li>
 	<li id="menu-item-71972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71972"><a href="http://gsntv.com/shows/mind-of-a-man/">Mind Of A Man</a></li>
+	<li id="menu-item-72632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72632"><a href="http://gsntv.com/shows/it-takes-a-church/">It Takes A Church</a></li>
+	<li id="menu-item-73540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73540"><a href="http://gsntv.com/shows/skin-wars/">Skin Wars</a></li>
 </ul>
 </li>
 <li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="/schedule/">Schedule</a></li>
@@ -182,8 +185,10 @@
                     <div class="channel-finder">
                         <h2>Channel Finder</h2>
                         <div class="channel-input">
-                            <input type="text" name="zip" value="90802" id="channelfinderzip" onclick="javascript: this.value = &quot;&quot;">
-                            <input type="button" name="search" value="SEARCH" onclick="window.open('http://gsn.viewerlink.tv/index.asp?zip='+document.getElementById('channelfinderzip').value,'winGrandChild', 'width=450,height=422');">
+							<form id="search_form" onsubmit="return false">
+								<input type="text" name="zip" value="90802" id="channelfinderzip" onclick="javascript: this.value = &quot;&quot;">
+								<input type="submit" name="search" value="SEARCH" onclick="window.open('http://gsn.viewerlink.tv/index.asp?zip='+document.getElementById('channelfinderzip').value,'winGrandChild', 'width=700,height=422');">
+							</form>
                         </div>
                     </div>
             
@@ -268,13 +273,13 @@ GSN reserves the right to change this policy at any time by notifying registered
                                                
                                 <div id="side-content">
                                     <div id="text-32" class="widget widget_text">			<div class="textwidget"><div class="advertisement">
-			<a href="http://www.gsntv.com/survey"><img src="http://gsntv.com/wp-content/uploads/2013/10/banner_survey_300x250.jpg"></a>
+			<a href="theline/"><img src="http://gsntv.com/wp-content/uploads/2014/06/300x250_The-Line-Casting.jpg"></a>
 		</div></div>
 		</div>                                        <h2 class="content-title newsletter">GSN Newsletter <span>Sign Up Now!</span></h2>
                                         <div class="sign-up">
                                             <form id="gsn-newsletter">
                                                 <input type="text" name="email" value="" id="" placeholder="your@email.com">
-                                                <input type="hidden" name="nonce" value="aa0698ed54">
+                                                <input type="hidden" name="nonce" value="2109b8ce6d">
                                                 <input type="hidden" name="show" value="">
                                                 <input type="submit" name="submit" value="SUBMIT">
                                             </form>
@@ -327,25 +332,10 @@ var gsntv_schedule = {"ajaxurl":"http:\/\/gsntv.com\/wp-admin\/admin-ajax.php"};
 <script type="text/javascript" src="http://gsntv.com/wp-includes/js/jquery/jquery.schedule.js?ver=20m"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var zilla = {"ajaxurl":"http:\/\/gsntv.com\/wp-admin\/admin-ajax.php","nonce":"1c616b4087","loading":"Loading..."};
+var zilla = {"ajaxurl":"http:\/\/gsntv.com\/wp-admin\/admin-ajax.php","nonce":"25a1c61f51","loading":"Loading..."};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://gsntv.com/wp-content/themes/hoarder/js/jquery.custom.js?ver=1.1"></script>
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-31742346-1']);
-  _gaq.push(['_setDomainName', 'gsntv.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 <!-- END body-->
 <script type="text/javascript" data-main="http://gsntv.com/wp-content/themes/hoarder/js/gsntv/Main.js" src="http://gsntv.com/wp-content/themes/hoarder/js/libs/require.min.js?ver=2.1.5"></script>
 <!-- END html-->
