@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuaodisha.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127000628id_/http%3A//www.nuaodisha.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuaodisha.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # www.nuaodisha.com : PrivacyPolicy
 
@@ -9,29 +9,42 @@
 
 
 
-  * [Send Free SMS](https://web.archive.org/web/20131127000628id_/http%3A//www.nuaodisha.com/SendSMS.aspx)
-  * [Jokes](https://web.archive.org/web/20131127000628id_/http%3A//www.nuaodisha.com/Jokes.aspx)
-  * General Information
-  * [Odisha Train Timings](https://web.archive.org/web/20131127000628id_/http%3A//www.nuaodisha.com/TrainTimingDetails.aspx)
-  * Tourist Places
-  * [Photos Of Ancient Odisha](https://web.archive.org/web/20131127000628id_/http%3A//www.nuaodisha.com/PhotosOfAncientOdisha.aspx)
-  * Odia Calendar - 2013-14
-  * [Odia Dhaga Dhamali](https://web.archive.org/web/20131127000628id_/http%3A//www.nuaodisha.com/Odia-Dhaga-Dhamali.aspx)
-  * [Odia News Links](https://web.archive.org/web/20131127000628id_/http%3A//www.nuaodisha.com/OdiaNewsLink.aspx)
-  * [Dainik Rasiphala(Horoscope)](https://web.archive.org/web/20131127000628id_/http%3A//www.nuaodisha.com/Odia-Rasiphala-Horoscope.aspx)
-  * [Ayurvedic Home Remedies](https://web.archive.org/web/20131127000628id_/http%3A//www.nuaodisha.com/Ayurvedic_Home_Remedies.aspx)
-  * [NGO Corner](https://web.archive.org/web/20131127000628id_/http%3A//www.nuaodisha.com/ViewNGO_initiative.aspx)
+  * [Send Free SMS](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/SendSMS.aspx)
+  * [Odia Jokes](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/Jokes.aspx)
+  * [Dainik Rasiphala(Horoscope)](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/Odia-Rasiphala-Horoscope.aspx)
+  * [Odia Calendar - 2014](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/Odia-Calendar-2014.aspx)
+  * [Odia Old and New MP3 Songs](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/Odia-FM-Radio.aspx)
+  * [Voter-Id Registration Steps](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/Online-VoterId-Card-Registration-Process.aspx)
+  * [Odia Dhaga Dhamali](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/Odia-Dhaga-Dhamali.aspx)
+  * [Odia e-Greeting Cards](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/OdiaGreetingCards/Shubha-Dina-Weekly-Odia-Greetings-Cards-1.aspx)
+  * [FB Comments Funny Pics](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/Facebook-Comments-Funny-Picture-Image-Photo-Nua-Odisha.html)
+  * [Odisha Train Timings](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/TrainTimingDetails.aspx)
+  * [Odisha Classified Ads](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/Odisha-Classified-Advertisements.aspx)
+  * [Odisha Exam Results](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/Odisha-Examination-Results.aspx)
+  * [Know Your PF Balance Online](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/How-to-Know-EPF-Balance-Online.html)
+  * [Apply for a PAN Card Online](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/How-to-Apply-for-a-PAN-Card-Online.html)
+  * [Trace Mobile Number Location](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/Trace-India-Mobile-Number-Location-Service-Type-and-Operator-Type.html)
+  * [Photos Of Ancient Odisha ](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/PhotosOfAncientOdisha.aspx)
+  * [Lord Jagannath Culture](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/JagannthCulture/Mahaprasad-Chhapan-Bhog.htm)
+  * [Odia Hanuman Chalisha](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/Odia-Hanuman-Chalisha.html)
+  * [Ayurvedic Home Remedies](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/Ayurvedic_Home_Remedies.aspx)
+  * [Odia Poetry and Short Stories](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/SahityaList.aspx)
+  * Odisha General Information
+  * Tourist Places of Odisha
+  * [Government of Odisha](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/GovernmentOfOdisha.aspx)
   * Pride of Odisha
   * Educational Institutions
-  * [Odia Poetry and Short Stories](https://web.archive.org/web/20131127000628id_/http%3A//www.nuaodisha.com/SahityaList.aspx)
-  * [Odia e-Greeting Cards](https://web.archive.org/web/20131127000628id_/http%3A//www.nuaodisha.com/OdiaGreetingCards/Happy-Kartika-Purninima-Odia-Greetings-Cards.aspx)
-  * [View Members](https://web.archive.org/web/20131127000628id_/http%3A//www.nuaodisha.com/ViewMembers.aspx)
-  * [Register As Member](https://web.archive.org/web/20131127000628id_/http%3A//www.nuaodisha.com/UserRegistration.aspx)
+  * [Learn Odia @ Virtual e-School](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/Learn-Odia-Language-Chat-Shali-Sishu-Raija.aspx)
+  * [How to Write Odia in Google](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/How-to-Write-Odia-In-Internet-Google-Online.html)
+  * [Health N Food Tips](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/Health-Tips.aspx)
+  * [NGO Corner](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/ViewNGO_initiative.aspx)
+  * [View Registered Members](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/ViewMembers.aspx)
+  * [Register As Member](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/UserRegistration.aspx)
 
 
 
 |   
-  |  [ ](https://web.archive.org/web/20131127000628id_/http%3A//www.nuaodisha.com/Odia-FM-Radio.aspx) |    
+  |  [ ](https://web.archive.org/web/20140625070821id_/http%3A//www.nuaodisha.com/Odia-FM-Radio.aspx) |    
 |  |   
   |  |    
   
