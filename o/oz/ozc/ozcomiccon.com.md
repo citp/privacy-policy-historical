@@ -1,56 +1,52 @@
-> *The following text is extracted and transformed from the ozcomiccon.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103021419id_/http%3A//www.ozcomiccon.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozcomiccon.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053001id_/http%3A//www.ozcomiccon.com/privacy.aspx) for the most accurate reproduction.*
 
 # Oz Comic-Con - Privacy Policy
 
 Privacy Policy  
-**For those under 18 years of age, please ensure your parent or guardian reads and explains the following information to you.**
+This Privacy Policy sets out how Reed Exhibitions collects, stores, uses and discloses personal information. This Privacy Policy may be updated from time-to-time.
 
-DCA Enterprises and Oz Comic-Con respect the privacy of the personal information of visitors and subscribers to this website and is bound by the National Privacy Principles under the Privacy Act 1988 and other laws which protect your privacy. "Personal information" refers to information which identifies you as an individual or from which your identity can be reasonably ascertained. Your name, address and phone number are examples of such personal information.
+**What kinds of personal information do we collect and hold?**  
+The personal information collected and maintained by us will depend on our interaction with you and generally includes your name, contact details and, where you purchase a ticket to an event or exhibition directly from us, credit card or debit card information. We may also collect details of our past exhibitions or events which you have attended, and details of your preferences or interests where you have provided such information to us.
 
-This Privacy Policy explains how personal information will be treated as you use this website. Any changes to this policy will be added and or amended within this link, so please ensure that you check this policy regularly.
+We may also collect and maintain your sensitive information, which could include information about your membership of any professional associations. 
 
-Additionally, there may also be specific and additional privacy provisions that apply to specific sections of the website – you should read and consider these wherever they appear – especially when they require acknowledgement that they have been read. In the event of any differences between this policy and specific provisions, the specific provisions will apply.
+For employment applications, we may collect your name, address, contact details, current and past employment information, and educational qualifications. For contractors, we may collect your name, contact details, ABN, and bank account details for payment purposes. 
 
-**Security of your personal information**
+**How do we collect your personal information?**  
+Where it is possible, we collect your personal information directly from you in person, in writing, over the telephone, by facsimile, by email or through social media. In some circumstances, we may also collect it from third parties such as through referees listed on your CV, and marketing organisations, including through the use of purchased lists.
 
-Irrespective of whether personal information is stored electronically or in hard copy form, we must take reasonable steps to protect the personal information we hold from misuse and loss and from unauthorised access, modification or disclosure.
+**Website tracking**  
+We may collect information about your visit to our site through cookies to assist us to measure and improve our website. Examples of information that we collect include: day and time of your visit, whether you have visited our website previously, whether you used a search engine to find us and some geographical information about what country and state you are in. You can set your browser to reject cookies, or to notify you when you receive one in order to accept or reject such receipt in each instance.
 
-**Information collected**
+**For what purposes do we collect, hold and use your personal information?**  
+The main purpose for collecting your personal information is to enable us to provide our services of conducting events and exhibitions. We may use and disclose your personal information for this and other purposes, including conducting our business; communicating with you; employing staff; informing you about products or services which we think may be of interest to you; marketing, improving, supporting and enhancing our services; and meeting our legal obligations.
 
-On this website, we collect personal information about you, such as your name, age, email address, address and contact telephone number when you subscribe or complete any of the forms provided. We collect this information to enable you to participate in activities such as:
+**Who do we disclose your personal information to and why?**  
+We may disclose your personal information to others for the purposes specified in the section above. This may include disclosure to our related companies; other companies or individuals who assist us in supplying our services or who perform functions on our behalf, such as support services, technology hosting and cloud service providers; where required or authorised by law to do so; and to anyone else to whom you authorise us to disclose it.
 
-  * entering competitions via Oz Comic-Con’s website, facebook or twitter;
-  * subscribing to our newsletters;
-  * responding to questions about our products and services.
-  * volunteering
-  * exhibitors
+We may also disclose your personal information (but not sensitive information) to others we have business arrangements with to enable them to offer their products and services to you.
 
-This information may be collected by us and by our third party service providers who assist us in operating the website.
+We will not use or disclose your sensitive information for any purpose, other than the purpose for which it was collected or a directly related secondary purpose, unless you otherwise consent.
 
-Like many other websites, when you read, browse or download information from our website, we or our internet service provider may also collect information such as the date and time of your visit to the website, the pages accessed and any information downloaded. This information is used for statistical, reporting and website administration, maintenance and improvement purposes only.
+These recipients may be located in countries where Reed Exhibitions has offices (see the locations listed at: http://www.reedexpo.com/en/about-us/Locations/) 
 
-Further, our website may use "cookies" from time to time. Cookies are small text files that we transfer to your computer's hard drive through your web browser to enable our systems to recognise your browser. Cookies may also be used to record non-personal information such as the date, time or duration of your visit, or the pages accessed, for website administration, statistical and maintenance purposes. Any such information is aggregated and not linked to particular individuals. The default settings of browsers like Internet Explorer always allow cookies, but users can easily erase cookies from their hard-drive, block all cookies, or receive a warning before a cookie is stored. Please note that some parts of the website may not function fully for users that disallow cookies.
+**How we hold personal information and keep it secure**  
+We will take such steps as are reasonable in the circumstances to protect your information from risks such as misuse, interference and loss, and from unauthorised access, modification or disclosure. We hold your personal information in a combination of hard copy and electronic files. We have systems and procedures in place to safeguard information, including the use of technical measures such as encrypted servers and maintaining physical security in order to prevent unauthorised access to records, documents and materials. 
 
-While we take the upmost care to protect your personal information provided via our website, twitter, facebook or directly via email, unfortunately no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, we cannot ensure or warrant the security of any information you send to us or receive from us online. This is particularly true for information you send to us via email. We have no way of protecting that information until it is received. Once we receive your email, we make our every effort to ensure its security.
+We will take steps to destroy or de-identify your personal information where we no longer require it.
 
-The Website may contain links to other sites. We are not responsible for the privacy practices or policies of those sites. Similarly, we are not responsible for the privacy practices or policies of third parties used for ticket sales
+**Access and correction of information about you**  
+If you would like to request access to, or correction of, your personal information we hold about you, please contact us on the details set out below.
 
-**Disclosure and use of personal information**
+We will provide you with access to the information we hold about you, including for the purpose of correcting or updating that information, unless there is an exception which applies under the Australian Privacy Principles.
 
-We may use or disclose personal information gleaned from our website, emails, twitter or facebook:
+We may recover from you our reasonable costs of supplying you with access to this information. However, we will not charge you for the making of the request or to correct or update your personal information.
 
-  * for the purposes for which it was collected, such as competitions;
-  * where you have provided consent to the use of information;
-  * to email you newsletters, links or other updates;
-  * to related bodies and to our service providers 
-  * for administrative purposes including research, planning, service development, security and risk management;
-  * where a third party acquires or wishes to acquire, or makes inquiries in relation to acquiring, an interest in DCA Enterprises or Oz Comic-Con;
-  * where required or authorised by law, which may include emergency situations and assisting law enforcement agencies.
+Your request to provide access to this information will be dealt with as soon as reasonably practicable.
 
-Accessing and updating your personal information and further information
+If we refuse to provide you with access to, or correct, the information, we will generally notify you of our reasons for refusal to the extent required and how you may complain about the refusal. 
 
-To request access to or correct any personal information we hold about you, please contact: [info@ozcomiccon.com](mailto:info@ozcomiccon.com).
+**Privacy Complaints and Further Information**  
+If you have a concern about your privacy or a query on how your personal information is handled by Reed Exhibitions, please contact us on the following details: ozcomiccon@yahoo.com. We will respond to your query or complaint as soon as reasonably practicable. 
 
-When making a request please provide us with specific details regarding the particular information you seek, in order to help us retrieve it. An access fee may be charged where permitted by law. In certain circumstances, we may not be required by law to provide you with access or to correct your personal information. Should we choose to decline your request then we will provide you our reasons for that decision.
-
-For information about privacy generally, or if your concerns are not resolved to your satisfaction, you can contact the Office of the Federal Privacy Commissioner on 1300 363 992 or via [privacy.gov.au](http://www.privacy.gov.au/).
+If you are not satisfied with our response, you may also contact the Office of the Australian Information Commissioner. 
