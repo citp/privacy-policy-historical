@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverwhiz.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209041407id_/http%3A//driverwhiz.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverwhiz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084753id_/http%3A//driverwhiz.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Driver Whiz Privacy Policy
 
@@ -6,7 +6,7 @@
 
 383 MEDIA, INC. (“383 MEDIA, INC.”) privacy policy (“Privacy Policy”) covers the collection and use of personal information (“Personal Information”) that we may gather any time you interact with us, such as when you visit our Web site, purchase a 383 MEDIA, INC. products, or when you contact our customer support or sales departments. This policy describes our data privacy practices, including what type of information is gathered, how 383 MEDIA, INC. uses the information, and how we safeguard your Personal Information when you submit it to us at www.driverwhiz.com. At 383 MEDIA, INC., protecting your privacy is important to us. After all, online privacy and security is what we’re all about. You expressly consent to the processing of your Personal Information according to this Privacy Policy. Personal Information may be processed by 383 MEDIA, INC. in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.
 
-Driver Whiz is certifed as a Trusted Download Program by TRUSTe signifying that the Driver Whiz application has been tested TRUSTe for compliance with TRUSTe’s TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the Driver Whiz application, please contact us at 383 Media, Inc., 4683 Chabot Drive, Suite 220, Pleasanton, CA 94588 or by email at driverwhiz@driversupport.com or by phone at 512.373.3518. If you are not satisfied with our response you can contact TRUSTe **[here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=198&sealid=112 "TRUSTe")**.
+Driver Whiz is certifed as a Trusted Download Program by TRUSTe signifying that the Driver Whiz application has been tested TRUSTe for compliance with TRUSTe’s TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the Driver Whiz application, please contact us at 383 Media, Inc., 4683 Chabot Drive, Suite 220, Pleasanton, CA 94588 or by email at support@driverwhiz.com or by phone at 512.373.3518. If you are not satisfied with our response you can contact TRUSTe **[here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=198&sealid=112 "TRUSTe")**.
 
 ### Why 383 MEDIA, INC. Collects Personal Information
 
@@ -59,7 +59,7 @@ Customers are provided the option to opt-out within each e-mail. If you no longe
   * By clicking on the auto-unsubscribe link included in each e-mail
 
 
-  * By contacting our technical support department at [driverwhiz@driversupport.com](mailto:driverwhiz@driversupport.com)
+  * By contacting our technical support department at [support@driverwhiz.com](mailto:support@driverwhiz.com)
 
 
   * By visiting your **Account** page at <http://account.driversupport.com/> and changing your preference on the form.
@@ -70,11 +70,11 @@ We will then update our database and take reasonable measures so that no further
 
 ### Transactional Messages
 
-383 MEDIA, INC. sends required notifications via e-mail to keep you informed of the status of your orders or accounts and to provide updates and technical notices. This service is used for messages that are important for the maintenance of your subscription and the functionality of our services. When you purchase or register a product online, we require an e-mail address for completion of the transaction, which we will use for these communications. In order to stop receiving these notifications, please contact our technical support team at [driverwhiz@driversupport.com](mailto:driverwhiz@driversupport.com) . You will be opted out of further communications within 10 business days.
+383 MEDIA, INC. sends required notifications via e-mail to keep you informed of the status of your orders or accounts and to provide updates and technical notices. This service is used for messages that are important for the maintenance of your subscription and the functionality of our services. When you purchase or register a product online, we require an e-mail address for completion of the transaction, which we will use for these communications. In order to stop receiving these notifications, please contact our technical support team at [support@driverwhiz.com](mailto:support@driverwhiz.com) . You will be opted out of further communications within 10 business days.
 
 ### Ways to Update Your Personal Information
 
-383 MEDIA, INC. carefully maintains our customer database in an effort to keep your Personal Information accurate for the purposes for which it is used. It is your right to be able to update your Personal Information as needed. You can correct out-of-date information, update information, remove information, delete your Personal Information or review any information previously provided to 383 MEDIA, INC. by visiting account. 383 MEDIA, INC. or by contacting our support department at [driverwhiz@driversupport.com](mailto:driverwhiz@driversupport.com) . Changes will be implemented within 10 business days. Please note, however, that we may retain certain information relating to software licensing and your information may also be retained in our archives. When contacting customer service, we will verify your identification through the use of security questions before sharing any Personal Information as it appears in our customer database.
+383 MEDIA, INC. carefully maintains our customer database in an effort to keep your Personal Information accurate for the purposes for which it is used. It is your right to be able to update your Personal Information as needed. You can correct out-of-date information, update information, remove information, delete your Personal Information or review any information previously provided to 383 MEDIA, INC. by visiting account. 383 MEDIA, INC. or by contacting our support department at [support@driverwhiz.com](mailto:support@driverwhiz.com) . Changes will be implemented within 10 business days. Please note, however, that we may retain certain information relating to software licensing and your information may also be retained in our archives. When contacting customer service, we will verify your identification through the use of security questions before sharing any Personal Information as it appears in our customer database.
 
 ### 383 MEDIA, INC.’ Commitment to Data Security
 
@@ -92,7 +92,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 ### Public forums
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at driverwhiz@driversupport.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@driverwhiz.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### Acceptance of this Privacy Policy
 
@@ -104,9 +104,10 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, and by means of a prominent notice on our home page, posted 30 calendar days prior to implementing the change.
 
-### DriverSupport.com Contact Information
+### DriverWhiz.com Contact Information
 
-For questions about this policy as well as product-related technical support: <http://account.driversupport.com/support/contact/>
+For questions about this policy as well as product-related technical support:  
+<http://driverwhiz.com/support/contact/>
 
 383 MEDIA, INC. Software Product  
 4683 Chabot Drive, Suite 220  
@@ -114,4 +115,4 @@ Pleasanton, CA 94588
 
 **Phone:** 512.373.3518  
 **Fax:** 254.983.9179  
-**Email:** driverwhiz@driversupport.com
+**Email:** support@driverwhiz.com
