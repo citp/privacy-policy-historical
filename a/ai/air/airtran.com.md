@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtran.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815044719id_/http%3A//www.airtran.com/policies/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtran.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071854id_/http%3A//www.airtran.com/policies/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - AirTran Airways
 
@@ -35,11 +35,9 @@ Additionally, AirTran Airways will comply with applicable laws that may require 
 
 Back to Top
 
-### Net Escapes and A-Savers Programs
+### Net Escapes Program
 
-[Net Escapes](https://web.archive.org/internet/web_deals.aspx) is an optional program that allows you to receive email notification of sale fares or special programs being offered by AirTran Airways. The Net Escapes program is completely optional. Each email you receive from us includes instructions at the bottom on how to remove yourself from the Net Escapes mailing list.
-
-[A-Savers](https://web.archive.org/net_escapes_sign_up.aspx) is an optional program that allows you to receive occasional email notification of special offers from select companies. We do not share your information with these companies; rather we pass their offers on to you ourselves. The A-Savers program is completely optional. Each email you receive includes instructions at the bottom on how to remove yourself from the A-Savers mailing list.
+[Net Escapes](http://www.net-escapes.com/net_escapes_sign_up.aspx) is an optional program that allows you to receive email notification of sale fares or special programs being offered by AirTran Airways. The Net Escapes program is completely optional. Each email you receive from us includes instructions at the bottom on how to remove yourself from the Net Escapes mailing list.
 
 Back to Top
 
@@ -136,18 +134,8 @@ Back to Top
 
 When you [contact AirTran Airways](http://www.airtranairways.com/contact/contact_us.aspx) through our web site, we request your name, phone number, email address and comments. We request and retain this information so that we may respond to your concerns effectively and work to improve our service.
 
-AirTran Airways  
-Customer Relations  
-5230 Clipper Dr.  
-Ste. 200  
-GC 4RC  
-Atlanta, GA 30349-8127 
-
 Reservations  
 1-800-AIR-TRAN (1-800-247-8726) 
-
-Customer Relations  
-1-866-AIR-CHAT (1-866-247-2428) 
 
 Back to Top
 
