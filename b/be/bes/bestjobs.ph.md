@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestjobs.ph privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209121314id_/http%3A//www.bestjobs.ph/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestjobs.ph privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131248id_/http%3A//bestjobs.ph/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy :: Best Jobs Philippines
 
