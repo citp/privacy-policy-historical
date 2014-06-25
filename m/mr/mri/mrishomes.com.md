@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrishomes.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806124854id_/http%3A//www.mrishomes.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrishomes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081941id_/http%3A//www.mrishomes.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MRIShomes.com
 
@@ -8,7 +8,7 @@
 
 At MRIShomes.com, we are fully committed to the protection and security of any information that you provide to us as users of our website. We want you to know that we truly respect and will protect your privacy, so you can enjoy using our services which allow us to better serve your needs.
 
-Our Privacy Policy discloses our approach to privacy and how your personal information is collected and used. Your use of our website constitutes your acceptance of this Privacy Policy and your consent to the practices it describes. This Privacy Policy only applies to the MRIShomes.com website.
+Our Privacy Policy discloses our approach to privacy and how your personal information is collected and used. Your use of our website constitutes your acceptance of this Privacy Policy and your consent to the practices it describes. This Privacy Policy applies to the MRIShomes.com website and the MRIShomes mobile apps.
 
 ### WHAT INFORMATION WE COLLECT
 
