@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinnyms.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214082925id_/http%3A//skinnyms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnyms.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121736id_/http%3A//skinnyms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,11 +30,13 @@ Persons who supply Skinny Ms. LLC with their telephone numbers on-line can chang
 Please provide your exact name and phone number.Your number will be either updated or removed from the list.
 
 **With respect to Ad Servers:**  
-To try and bring you offers that are of interest to you, Skinny Ms. LLC has relationships with other companies that we allow to place ads on this Web site. As a result of your visit to this site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
+To try and bring you offers that are of interest to you, Skinny Ms. LLC has relationships with other companies that we allow to place ads on this Web site. As a result of your visit to this site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
 
 From time to time, Skinny Ms. LLC may use customer information for new, unanticipated uses not previously disclosed in this privacy notice. If these information practices change at some time in the future they will be posted in this privacy statement to notify you of these changes and will be used for these new purposes only, and will include data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back with this privacy statement periodically.
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing Skinny Ms. LLC at the above addresses.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Accessing your information**  
 Upon request Skinny Ms. LLC provides site visitors with access to communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them, or a description of information that we maintain about them.
