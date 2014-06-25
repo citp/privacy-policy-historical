@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the easyprofitlist.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124075407id_/http%3A//easyprofitlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyprofitlist.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102504id_/http%3A//easyprofitlist.com/privacy.php) for the most accurate reproduction.*
 
 # Easy Profit List - Get Hits | More Traffic | To Build A List
 
-[](http://easyprofitlist.com/bannerclick.php?id=8482)  
-
+[](http://easyprofitlist.com/banclick.php?code=723bd01f65708dcab0548d00d78b0741&id=14024)
 
 Easy Profit List Privacy Policy
 
@@ -36,4 +35,6 @@ Links: This web site contains links to other web sites. Please note that when yo
 
   
 Copyright (c) Easy Profit List All Rights Reserved  
-[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [Recommended Site Of The Day](https://web.archive.org/recommends.php)
+[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [Recommended Site Of The Day](https://web.archive.org/recommends.php)   
+  
+
