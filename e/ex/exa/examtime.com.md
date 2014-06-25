@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the examtime.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823032457id_/https%3A//my.examtime.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examtime.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234827id_/https%3A//www.examtime.com/en/privacy_policy) for the most accurate reproduction.*
 
-# ExamTime - Changing the way you learn
+# ExamTime - Privacy Policy
 
 Examtime Limited ("We") of First Floor, 8/9 Hanover Street East, Dublin 2, Ireland are committed to protecting and respecting your privacy. 
 
@@ -54,13 +54,7 @@ We use information held about you in the following ways:
 
 
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone. 
-
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about our own products and services similar to those which were the subject of a previous subscription by you or sale to you. You will be given the opportunity to "opt out" and if you do so we will not send you any further such electronic communication. 
-
-If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have specifically consented to this. 
-
-If you would like us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the subscription application form or the registration form). 
+We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by email, post or telephone. 
 
 We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 users in the United Kingdom have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, users in London). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience. 
 
