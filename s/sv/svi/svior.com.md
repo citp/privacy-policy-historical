@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svior.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209161906id_/http%3A//svior.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svior.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124412id_/http%3A//www.svior.com/privacy.html) for the most accurate reproduction.*
 
 # Work at home
 
