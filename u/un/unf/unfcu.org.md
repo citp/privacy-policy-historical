@@ -1,83 +1,25 @@
-> *The following text is extracted and transformed from the unfcu.org privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105092334id_/http%3A//www.unfcu.org/content.aspx%3Fid%3D596) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfcu.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115555id_/https%3A//www.unfcu.org/WorkArea/linkit.aspx%3FLinkIdentifier%3DID%26ItemID%3D596) for the most accurate reproduction.*
 
-# UNFCU :: Become A Member :: Privacy Policy
+# UNFCU :: About UNFCU :: Disclosures :: Privacy Policy
 
-Privacy Policy
+###### Internet Privacy
 
-Privacy Policy
+**When you visit our website at www.unfcu.org, we want you to feel secure that we are respecting your privacy.** The majority of the UNFCU website is protected with 128 bit SSL encryption. This encryption protects the user’s information from being viewed by an unauthorized party. We protect your account information by placing it on the secure portion of our website. That is why you have to enter a unique member number and password each time you want to access your account information. In addition, you can click on “Log Out” located throughout Internet Banking to securely exit your account without closing your browser. Your password should never be shared with anyone.
 
-FACTS | WHAT DOES UNITED NATIONS FEDERAL CREDIT UNION DO WITH YOUR PERSONAL INFORMATION?  
----|---  
-WHY? | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
----|---  
-WHAT? | The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+###### (A) General Website Pages
 
-• Social Security number and Income  
-• Account balances and Payment history  
-• Credit history and Credit Scores  
-  
----|---  
-HOW? | All financial companies need to share members′ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members′ personal information; the reasons United Nations Federal Credit Union chooses to share; and whether you can limit this sharing.  
----|---  
-Reasons we can share your personal information | Does UNFCU share? | Can you limit this sharing?  
----|---|---  
-**For our everyday business purposes–**  
-such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
-**For our marketing purposes–**  
-to offer our products and services to you | Yes | Yes  
-**For joint marketing with other financial companies** | Yes | Yes  
-**For our affiliates′ everyday business purposes–**  
-information about your transactions and experiences | Yes | No  
-**For our affiliates′ everyday business purposes–**  
-information about your creditworthiness | No | No  
-**For our affiliates to market to you** | Yes | Yes  
-**For nonaffiliates to market to you** | Yes | Yes  
-To limit our sharing | • Call +1 347-686-6000– our menu will prompt you through your choice(s) or  
-• Visit us online: [http://www.unfcu.org/optout/](https://web.archive.org/optout/)
+When you browse through the UNFCU website and have not registered for any online service from UNFCU, you browse anonymously. Personal information—such as your name, address, phone number or email address—is not collected as you browse. UNFCU does, however, collect and store information, or “cookies,” on the domain you use to access our website. This includes the internet address of the site from which you linked directly to our site, and the date and time of your visit to our website. This information is used to measure the number of visitors to the various pages on the UNFCU website. This information helps us make improvements to the site and better serve our members through special marketing programs.
 
- **Please note:**  
-If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.
+###### (B) Restricted Account Access Website Pages 
 
-However, you can contact us at any time to limit our sharing.  
-  
----|---  
-Who we are  
----  
-Who is providing this notice? | United Nations Federal Credit Union  
-UNFCU Financial Services LLC dba UNFCU Financial Advisors  
-What we do  
----  
-How does UNFCU protect my personal information? | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
-How does UNFCU collect my personal information? | We collect your personal information, for example, when you
+Personal identifying information is collected when a member registers to access his/her UNFCU account(s) via the Internet. This information enables UNFCU to regulate entry to the restricted portions of its website and to measure member usage. Any personal identifying information gathered during member registrations is not shared with third parties.
 
-• Open an account or Deposit money  
-• Pay your bills or Apply for a loan  
-• Use your credit or debit cards.
+###### (C) Third Parties 
 
-We also collect your personal information from others, such as consumer reporting agencies, affiliates or other companies.  
-  
-Why can′t I limit all sharing? | Federal law gives you the right to limit only
+UNFCU will make full disclosure online when information is being collected for transference to, or usage by other parties. Please note that by accessing a link that appears on the UNFCU website, which redirects you to a website hosted by another party, you will no longer be subject to, or under the protection of the privacy and security policies of our website. We encourage you to read and evaluate the privacy and security policies on the site you are entering, which may be different than ours.
 
-• sharing for affiliates′ everyday business purposes–information about your creditworthiness  
-• affiliates from using your information to market to you  
-• sharing for nonaffiliates to market to you
+###### (D) Personal Information 
 
-State laws and individual companies may give you additional rights to limit sharing.  
-  
-What happens when I limit sharing for an account I hold jointly with someone else? | Your choices will apply to everyone on your account.  
-Definitions  
----  
-Affiliates | Companies related by common ownership or control. They can be financial and nonfinancial companies.
+Personal information contained in email sent by members and non-members may be used by UNFCU staff and volunteers to answer questions, to follow up on suggestions or complaints, or to improve the level of service UNFCU provides. We may use information you have given us to provide a service, ensure proper billing, measure consumer interest in our various services, and inform you about products and services.
 
-• Our affiliates includes UNFCU Financial Services LLC dba UNFCU Financial Advisors.  
-  
-Nonaffiliates | Companies not related by common ownership or control. They can be financial and nonfinancial companies.
-
-• Non affiliates we share with can include non profit organizations, direct marketing companies, and insurance companies.  
-  
-Joint marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
-
-• Our joint marketing partners include investment, insurance and other financial services companies.  
-  
-Other important information  
----
+[View Privacy Notice](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=2244 "Privacy Notice") 
