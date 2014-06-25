@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the scallywagandvagabond.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218060338id_/http%3A//scallywagandvagabond.com/about-this-scallywag/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scallywagandvagabond.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072907id_/http%3A//scallywagandvagabond.com/about-this-scallywag/privacy-policy) for the most accurate reproduction.*
 
-# Scallywag and Vagabond | Privacy Policy » Scallywag and Vagabond
-
-[](http://scallywagandvagabond.com/)   
-  
-
+# Privacy Policy - Scallywag and Vagabond
 
 We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
 
@@ -37,9 +33,3 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 **Contact Details**
 
 If you have any questions or concerns regarding this privacy policy, please email us at christopher@scallywagandvagabond.com
-
-  
-  
-
-
-$theme_options = get_option('option_tree'); $omc_google_analytics = get_option_tree('omc_google_analytics', $theme_options, false); $omc_copyright_text = get_option_tree('omc_copyright_text', $theme_options, false); $omc_enable_copyright = get_option_tree('omc_enable_copyright', $theme_options, false); $omc_enable_footer_widget = get_option_tree('omc_enable_footer_widget', $theme_options, false); $omc_footer_widget_logo = get_option_tree('omc_footer_widget_logo', $theme_options, false); $omc_footer_widget_text = get_option_tree('omc_footer_widget_text', $theme_options, false); $omc_footer_facebook = get_option_tree('omc_footer_facebook', $theme_options, false); $omc_footer_twitter = get_option_tree('omc_footer_twitter', $theme_options, false); $omc_footer_flickr = get_option_tree('omc_footer_flickr', $theme_options, false); $omc_footer_pinterest = get_option_tree('omc_footer_pinterest', $theme_options, false); $omc_footer_vimeo = get_option_tree('omc_footer_vimeo', $theme_options, false); $omc_footer_youtube = get_option_tree('omc_footer_youtube', $theme_options, false); ?>
