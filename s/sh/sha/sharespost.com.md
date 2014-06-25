@@ -1,158 +1,170 @@
-> *The following text is extracted and transformed from the sharespost.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521160053id_/https%3A//welcome.sharespost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharespost.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074326id_/https%3A//www.sharespost.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SharesPost
 
-At SharesPost, our most important asset is our relationship with you.
+## **Privacy Policy**
 
-SharesPost is committed to maintaining the confidentiality, integrity and security of any personal information about our users. We are proud of our privacy practices and the strength of our site security and want you to know how we protect your information and use it to provide to you the service on SharesPost (the “Service”).
+This Privacy Policy is incorporated by reference into the SharesPost [User Agreement](https://web.archive.org/terms-of-use/). The term " **SharesPost** **Financial** ," " **we** ," and " **us** " includes SharesPost Financial Corporation and its affiliates and subsidiaries. The Privacy Policy explains how SharesPost may:
 
-SharesPost stresses its privacy and security standards to guard against identity theft and provide security for your registration information ssand other data. We also re-evaluate our privacy and security policies and adapt them as necessary to deal with new challenges.
+  * collect,
+  * use, and
+  * disclose
 
-## 1\. WE LIMIT THE COLLECTION AND USE OF PERSONAL INFORMATION
 
-In order to use the Service, you need to register and in so doing, to provide a Login ID in the form of an email address, a password and your zip code. SharesPost makes every effort to allow you to retain the anonymity of your personal identity and you are free to choose a Login ID email address and password that keeps your personal identity anonymous. Additionally, in order to enjoy the full benefits of the Service you need to register as a Member, rather than a Visitor, and will provide certain, additional information in connection with registering as a Member. All information you provide as a User (whether a Visitor or a Member) is referred to collectively as the “Registration Information”.
 
-Access to your Registration Information is strictly restricted to SharesPost employees and contractors, as needed, in order to operate, develop or improve the Service. These individuals are bound by confidentiality obligations. They may be subject to discipline, including termination and prosecution, if they fail to meet these obligations.
+information we obtain through the "Service" as defined in the [User Agreement](https://web.archive.org/terms-of-use/).
 
-SharesPost requires a Login ID email address from you in the following circumstances:
+## The Service Collects Your Information
 
-  * Registration for the Service;
-  * Registration for any SharesPost Comunications;
-  * The use of any Forums on SharesPost; and
-  * To respond to any correspondence, such as emails or letters, from you.
+We collect Personal Information when you:
 
+  * register to use the Service;
+  * use the Service; and
+  * communicate with us.
 
 
-## 2\. YOUR REGISTRATION INFORMATION IS KEPT PRIVATE
 
-SharesPost does not sell or rent your Registration Information.
+We may collect information about you from third parties.
 
-SharesPost uses your Registration Information only as follows:
+We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Service.
 
-  * to analyze site usage and improve the Service;
-  * to deliver to you any administrative notices, alerts and communications relevant to your use of the Service;
-  * to fulfill your requests for certain products and services;
-  * for market research, project planning, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity;
-  * to enforce SharesPost’s Terms of Use; and
-  * as otherwise set forth in this Privacy Policy.
+## During Account Registration and Management
 
+You may need to create an account to use parts of the Service. For basic registration, you may need to provide Personal Information, such as your name, email address, and password. To use certain Service functionality you may need provide additional Personal Information, such as your address, date of birth, driver’s license number, social security number, employer information, citizenship, bank account information, financial information, investment activity, account balance, and account history.
 
+## Using the Service
 
-In the event that you access the Service as brought to you by one of our co-brand partners, through a co-branded URL, your email address used for Registration on the Service, may be provided to such co-brand partner.
+We collect the information, including Personal Information, you post to the Service as you use it, such as investment choices, survey answers, and communications with other users.
 
-If your Zip Code is requested by us, we only use your Zip Code to improve your experience. For example, SharesPost may need to determine the appropriate time zone in order to send you timely alerts as part of the Service.
+## Through Customer Service Requests
 
-## 3\. CHANGES TO YOUR REGISTRATION INFORMATION
+We may collect Personal Information, such as your name and email address, from you when you request more information about the Service. We may also collect Personal Information through your communications with our customer-support team.
 
-If your registration information changes during your subscription to SharesPost, you may update the email address and Zip code by emailing us at compliance@sharespost.com and providing us with your new information.
+## From Third Parties
 
-## 4\. REGISTRATION INFORMATION AND THIRD PARTIES
+We may collect information from our vendors and service providers who provide the Service functionality and other services for us. For example, we may collect information about your account profile and investment activity from the vendors we use to provide the Service functionality. We may obtain information from third parties, such as consumer reporting agencies, to verify the information you provide and determine whether you qualify to use certain parts of the Service. For example, we may use fraud screening services to verify that your provided information matches the bank account information on file with the bank. We may also collect your credit history and credit score from consumer reporting agencies.
 
-As described in the Terms of Use and with your consent, SharesPost may from time to time connect electronically to third parties in order to provide certain features of the Service to you. Your Registration Information or other information is shared with such third parties only if necessary, and only where such third parties abide by this Privacy Policy.
+## Using Cookies, Automatic Data Collection, and Related Technologies
 
-## 5\. ANONYMOUS OR AGGREGATED TRANSACTION DATA
+The Service collects and stores information that is generated automatically as you use it, including anonymous usage statistics. We may correlate such usage statistics with your Personal Information.
 
-SharesPost does not sell, rent or disclose your personal Registration Information. SharesPost discloses your Registration Information only to you and to third-parties who help SharesPost provide the Service to you.
+When you visit the Service, we and our third-party service providers receive and record information on our server logs from your browser, including your IP address, and from cookies and similar technology. Most browsers allow you to block and delete cookies. However, if you do that, the Service may not work properly.
 
-SharesPost may anonymize or aggregate transaction data derived from the operation of the Service and disclose such data only in a non-personally identifiable manner to:
+By using the Service, you are authorizing us to gather, parse, and retain data related to the provision of the Service.
 
-  * Advertisers and other third parties for their marketing and promotional purposes (such as how many users clicked on a particular offer);
-  * Organizations approved by SharesPost who conduct research into consumer spending.
-  * Users of the Service for purposes of comparison of their personal situation relative to the broader community.
+## How SharesPost Uses Your Information
 
+We use your personal information to
 
+  * facilitate and improve our services;
+  * validate the information you provide to use; and
+  * communicate with you.
 
-Such information does not identify you individually.
 
-## 6\. ONLINE SESSION INFORMATION AND USE IS ONLY USED TO IMPROVE YOUR EXPERIENCE
 
-When you visit SharesPost, we may collect technical and navigational information, such as computer browser type, Internet protocol address, pages visited, and average time spent on our Web site. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our Web design and functionality.
+We may use aggregate information for any purpose.
 
-We may use third party service providers to help us analyze certain online activities. For example, these service providers may help us measure the performance of our online campaigns or analyze visitor activity on SharesPost. We may permit these service providers to use cookies and other technologies to perform these services for SharesPost. We do not share any personally identifiable information about our customers with these third party service providers, and these service providers do not collect such information on our behalf. Our third party service providers are required to comply with this Privacy Policy.
+## Internal and Service-Related Usage
 
-## 7\. OFFERS FROM EXTERNAL SERVICE PROVIDERS
+We use information, including Personal Information, for internal and service-related purposes and may provide it to third parties to allow us to facilitate the Service. We may use and retain any data we collect to provide and improve our services.
 
-There may be separate products and services offered by third parties advertised by us on our site and through the Service that may be complementary to your use of SharesPost and these constitute offers or ways to save. If you choose to use these separate products or services, disclose information to the providers, and/or grant them permission to collect information about you, then their use of your information is governed by their privacy policy. You should evaluate the practices of external services providers before deciding to use their services. These third party Web sites may have different privacy policies than SharesPost and SharesPost is not responsible for their privacy practices. If you click on a link to a third party Web site, SharesPost encourages you to check the privacy policy of that Web site.
+## Information Validation and Assessment
 
-SharesPost may present links in a format that enables us to keep track of whether these links have been followed and whether any action has been taken on a third party Web site. We use this information to improve the quality of the offers and customized content on the Service.
+We may use the information you provide to assess its accuracy and your financial condition, including by performing credit checks.
 
-## 8\. BULLETIN BOARDS, BLOGS AND OTHER FORUMS ON SHARESPOST
+## Communications
 
-If you use a bulletin board, blog, chat room or other forum on the SharesPost website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+We may send email to the email address or call you at the telephone number you provide to us for informational and operational purposes, such as to provide updates about the Service and perform customer service.
 
-## 9\. SURVEYS
+## Marketing
 
-From time to time, SharesPost may ask you to participate in surveys designed to help SharesPost improve the Web site. Any information provided to SharesPost in connection with any survey will be used only in relation to that survey.
+We may use information, including Personal Information, to provide online advertising on the Service from us and our partners and to facilitate transmittal of information we think may be useful or relevant to you.
 
-SharesPost may aggregate survey data and disclose such data only in aggregate and in a non-personally identifiable manner to:
+## Aggregate Data
 
-  * Advertisers and other third parties for their marketing and promotional purposes;
-  * Users of the Service for purposes of comparison of their personal situation relative to the broader community.
-  * Such information does not identify you individually.
+We may anonymize and aggregate data collected through the Service and use it for any purpose.
 
+## SharesPost May Disclose Your Information
 
+We may share your information:
 
-## 10\. DISCLOSURE OF YOUR INFORMATION TO PROTECT OUR RIGHTS OR IF REQUIRED BY LAW
+  * with our third-party service providers;
+  * for fraud and misconduct prevention;
+  * to comply with legal obligations;
+  * to protect and defend our rights and property; and
+  * with your permission
 
-Notwithstanding any of the foregoing or any other provision contained herein, SharesPost reserves the right (and you authorize SharesPost) to share or disclose your Registration Information or other information, if SharesPost determines, in its sole discretion, that:
 
-  * Such disclosure is necessary to identify, contact, or bring legal action against you if you are or may be violating this Privacy Policy or SharesPost’s Terms of Use;
-  * Such disclosure is necessary to prevent potentially prohibited or illegal activities; or
-  * Such disclosure is necessary or required by any applicable law, rule regulation, subpoena or other legal process.
 
+We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission or pursuant to a joint marketing agreement with a financial institution.
 
+## We Use Vendors and Service Providers
 
-## 11\. YOUR INFORMATION MAY BE TRANSFERRED UPON ACQUISITION OF SHARESPOST IN ACCORDANCE WITH THIS POLICY
+We may share any information we receive with vendors and service providers retained in connection with the provision of the Service, including third parties that service, maintain, or process transactions and accounts and perform financing, insuring, sale, securitization, assignment, marketing, or other transfers of assets. For example, when you choose to use the NASDAQ Private Market website as part of our services, we may share information about you with NASDAQ Private Market to provide you the service.
 
-Registration Information and other information you have provided may be transferred to a third party as a result of a sale, acquisition, merger, reorganization or other transfer (a “Transfer”) involving SharesPost. SharesPost specifically reserves the right to transfer such information to a third party in connection with a Transfer. Should such a Transfer occur, we will use reasonable efforts to require that the new combined entity follow this Privacy Policy with respect to your information, as and to the extent required by applicable law and require that you receive notice if your information could be used contrary to this policy.
+## Fraud and Misconduct Prevention
 
-## 12\. YOU CAN TRANSPORT OR DELETE YOUR DATA
+To protect you and us from fraud or other misconduct and to validate the information you have provided to us, we may share information about you with third parties, such as consumer reporting agencies and information verification services, to verify the information you provide. We also may report any debit balance or negative credit information pertaining to your account with consumer and securities credit reporting agencies.
 
-Your information is yours. You can remove it anytime you want. When you request us to delete your account for the Service, your information will be permanently expunged from our primary production servers and further access to your account will not be possible. We will also disconnect any connection we had established to your Registration Information. However, portions of your information, may remain on our production servers indefinitely. Your data may also remain on a backup server or media. SharesPost keeps these backups to ensure our continued ability to provide the Service to you in the event of malfunction or damage to our primary production servers.
+## Marketing
 
-## 13\. COOKIES AND WEB BEACONS MAY BE USED TO ANALYZE SITE USAGE AND IMPROVE THE SERVICE
+We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission or for joint marketing pursuant to joint marketing agreements with financial institutions. We may allow access to other data collected by the Service to enable the delivery of online advertising on or off this Service or to otherwise facilitate transmittal of information we think may be useful or relevant to you.
 
-“Cookies” are alphanumeric identifiers in the form of text files that are inserted and stored by your Web browser on your computer’s hard drive. SharesPost may set and access cookies on your computer to track and store preferential information about you. SharesPost may gather anonymous information about you through cookie technology on an aggregate level only. For example, SharesPost may assign a cookie to you, to limit the amount of times you see a particular offer or to help better determine which offers to serve to you. Please note that most Internet browsers will allow you to stop cookies from being stored on your computer and to delete cookies stored on your computer. If you choose to eliminate cookies, the full functionality of the Service may be impaired for you.
+## Affiliated Companies
 
-We encode our cookies so that only we can interpret the information stored in them.
+We may share any information, including Personal Information, with affiliates and subsidiaries, as permitted by law or with your consent.
 
-Web beacons are images embedded in a Web page or email for the purpose of measuring and analyzing site usage and activity. SharesPost, or third party service providers acting on our behalf, may use Web beacons to help us analyze site usage and improve the Service.
+## As Required by Law and Similar Disclosures
 
-## 14\. YOUR INFORMATION IS SECURE AND ONLY SEEN BY YOU
+We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; or protect your, our, or others’ rights, property, or safety.
 
-Your information is yours and only you (through your registration and use of your password) have access to your information on the Service.
+## Merger, Sale, or Other Asset Transfers
 
-We may use a combination of firewall barriers, encryption techniques and authentication procedures, among others, to maintain the security of your online session and to protect SharesPost accounts and systems from unauthorized access.
+If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of SharesPost’s assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. We cannot control how such entities may use or disclose such information.
 
-When you register for the Service, SharesPost requires a password from you for your privacy and security. SharesPost uses industry-standard 128 bit secure socket layer (SSL) encryption to protect data transmissions between your browser and our servers, such as your Registration Information.
+We may also disclose your Personal Information with your permission.
 
-You must log out each time you have finished accessing your SharesPost account.
+## You May Limit Our Information Sharing
 
-## 15\. WE USE AUTHENTICATION TO ENSURE THAT ONLY YOU ACCESS YOUR ACCOUNT
+You may prevent us from sharing the Personal Information we have collected about you with non-affiliated third parties in certain circumstances. You may not limit the sharing of Personal Information for the purposes of providing the Service, our everyday business purposes, our own marketing, or for joint marketing efforts with other financial companies.
 
-Authentication is the process you go through on SharesPost to access secure areas of our Website. This process takes place when you log into your account, the two key components of which are your Login ID and Password.
+Under the law, you may opt out of our sharing of the Personal Information that we have obtained from third parties, such as your credit reports, with our affiliates, but you may not opt out of our sharing of information we collect related to your transactions and experiences using the Service. You may also opt out of our sharing of Personal Information about you to affiliates and non-affiliates so that they can market to you. We do not currently share the information as described in this paragraph with affiliates or non-affiliates. Therefore, there is no need at this time for you to opt out or take any other steps to prevent such sharing.
 
-With regards to passwords, we maintain strict rules to help prevent others from guessing your password. We also recommend that you change your password periodically. Your password must be 6-8 characters in length. You are responsible for maintaining the security of your Login ID and Password. You may not provide these credentials to any third party. If you believe that they have been stolen or been made known to others, you must contact us immediately at compliance@sharespost.com to request a change. We are not responsible if someone else accesses your account through Registration Information they have obtained from you or through a violation by you of this Privacy Policy or SharesPost’s Terms of Use.
+## Information Retention
 
-If you have a security related concern, please contact us at compliance@sharespost.com. We will work closely with you to ensure a rapid and personal response to your concerns.
+We may be required to keep different types of information for varying periods of time according to government regulations and best practices. For example, to comply with regulations imposed by the Securities and Exchange Commission, we may need to keep information for three to six years. We may keep some information longer to meet our needs and those of our customers, even after you close your account.
 
-## 16\. WE WILL NOTIFY YOU OF ANY CHANGES IN THIS PRIVACY POLICY
+## Information Security
 
-If we decide to change our Privacy Policy, we will update the date upon which this policy, including those changes became effective from at the top of this policy and post those changes to this policy, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.
 
-We reserve the right to modify this policy at any time.
+By using the Service or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Service or sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at [ legal@sharespost.com.](mailto:legal@sharespost.com)
 
-## 17\. FORMER USERS
+## International Users
 
-If you are a former User (whether Visitor and/or Member), we treat your information in the same manner that we treat information about our current users.
+By using the Service, you will transfer data to the United States.
 
-## 18\. CONTACT US IF YOU HAVE ANY QUESTIONS OR CONCERNS
+ **If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Privacy Policy.**
 
-If you have questions, comments, concerns or feedback regarding this Privacy Policy, send an e-mail to compliance@sharespost.com.
+##  **Update Your Information or Pose a Question or Suggestion**
 
-**SharesPost, Inc.**   
-1150 Bayhill Drive, Suite 300   
-San Bruno, CA 94066 
+If you would like to update or correct any information that you have provided to us through your use of the Service or otherwise, or if you have suggestions for improving this Privacy Policy, please send an email to [legal@sharespost.com.](mailto:legal@sharespost.com)
 
-Phone: 800-279-7754   
-Fax: 650-492-6871 
+## Changes to Our Privacy Policy and Practices
+
+We may revise this Privacy Policy, so review it periodically.
+
+## Posting of Revised Privacy Policy
+
+We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted. If you are concerned about how your information is used, bookmark this page and read this Privacy Policy periodically.
+
+## New Uses of Personal Information
+
+From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
+
+## Contact Information
+
+SharesPost Financial Corporation  
+1150 Bayhill Drive #300  
+San Bruno, CA 94066  
+[legal@sharespost.com](mailto:legal@sharespost.com)
