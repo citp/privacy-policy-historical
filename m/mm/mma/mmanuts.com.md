@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mmanuts.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117050623id_/http%3A//mmanuts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmanuts.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082318id_/http%3A//mmanuts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MMA Show | MMA News | Women of MMA
+# Privacy Policy | MMANUTS
 
 **What information do we collect?**
 
