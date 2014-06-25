@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycalapp.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415022941id_/http%3A//mycalapp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycalapp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085233id_/http%3A//mycalapp.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -14,7 +14,7 @@ __Information Collected__
 
 In order to give you the best experience in use of the Service, This application may collect information about you from your account on the Social Networking Site, but only if you voluntarily provide it to us, in accordance with the policies and terms of the Social Networking Site. Additionally, we may obtain information from you through your Service registration, your access and participation in message boards, comments, etc on the Service; your email of a question to our customer service desk; or your purchase of a virtual product of any type. Further, we may ask you for personal information (such as name, phone number, or email address) if you choose to sign up for any particular Service we offer (such as a newsletter or reminder service). In all such cases, the information provided will not be disclosed to third parties and will be used solely for the purpose of providing you with the Service.
 
-The types of personal information collected in conjunction with the activities listed above will vary depending on the activity. The requested information may include: (i) your name, (ii) mailing address, (iii) telephone number, (iv) email address, and, for those purchasing products or services online, credit card and billing information; and (v) information about the identity of your friends.
+The types of personal information collected in conjunction with the activities listed above will vary depending on the activity. The requested information may include: (i) your name, (ii) mailing address, (iii) telephone number, (iv) email address, and, for those purchasing products or services online, credit card and billing information; (v) information about the identity of your friends.
 
 For some activities, This application may also ask you to provide other non-personal information such as: (i) your age or date of birth; (ii) your gender; (iii) your game and platform preferences; (iv) information about the hardware you may own and/or games you may have recently purchased; (v) your interests, websites, friend information and fan pages; and, (vi) other service-related information (collectively referred to as "demographic information"). If demographic information is collected for an activity that also requires personal information, This application may combine your demographic information with your personal information. Before providing the Service any email addresses or phone numbers of your friends, you should obtain their consent. 
 
@@ -81,9 +81,10 @@ Since 2005, California Civil Code Section 1798.83 permits customers who are Cali
 _Ask a Question about Privacy Policy_
 
 If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact our Privacy Policy Administrator at:  
-Privacy Policy Administration  
-P.O. Box 30  
-Palo Alto, CA 94302-0030 
+K-Factor Media LLC  
+Attention: Privacy Policy  
+P.O. Box 606  
+San Francisco, CA 94104-0606 
 
 _Policy Regarding Children Under 13_
 
