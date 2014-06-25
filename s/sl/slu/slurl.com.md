@@ -1,102 +1,174 @@
-> *The following text is extracted and transformed from the slurl.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805232215id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slurl.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083038id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Second Life
+# Privacy Policy | Linden Lab
 
-**Date of last revision: October 11, 2011**
+### **Linden Lab Privacy Policy**
 
-At Linden Lab, we are committed to protecting your privacy and maintaining a strong bond of trust with our customers. This Privacy Policy explains the use of information collected via our Websites, the Second Life service and our customer service operations (collectively, "Second Life" or the "Service") that we operate. Your use of the Service indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy.
+Effective Date: August 1, 2013
 
-As further described below, we collect and maintain a range of data in order to provide our services to you and maintain a safe and secure platform. Access to your personal information is limited to (a) Linden Lab employees, and (b) service providers under contract who help with our business operations (such as to provide or help Linden Lab provide products or services to you, provide payment, billing or similar services, or perform anti-fraud functions). As used in this Privacy Policy, the term "personal information" means any real world information that readily may be used to identify an individual, including but not limited to a first and last name, home or other physical address, an email address, phone number or other contact information.
+Linden Research, Inc. and Linden Research UK, Ltd. (collectively **“Linden Lab”** ) respect the privacy of its online visitors and users of its products and services. We recognize the importance of protecting information collected from our users and have adopted this Privacy Policy to inform you about how we gather, store and use information derived from your use of our products, services and online sites in accordance with local law in the places where we operate.
 
-This Privacy Policy refers to the online service Second Life and any websites operated by Linden Lab where this policy appears in the footer of the page (the "Websites"). It is divided into the following sections:
+By using our online sites, products, and services (collectively, the **“Service”** ), you agree that we may collect personally identifiable information (as defined below). We will not share your personally identifiable information except as described herein.
 
-  * Your Privacy Rights
-  * The Information We Collect and How We Collect It
-  * Linden Lab's Protection and Disclosure of Your Information
-  * Information Displayed to or Collected By Other Users
-  * Linden Lab's Use of Cookies
-  * Third Party Advertisements
-  * Disclosing Personal Information in Profiles, Forums or within Second Life
-  * Amendment of This Policy
+  1. Types of Information We Collect  
 
+  2. How We Collect Your Information  
 
+  3. Use of Your Information by Linden Lab  
 
-### Your Privacy Rights
+  4. Sharing Your Information with Other Companies  
 
-If at any time you wish to opt out of receiving emails from Linden Lab containing newsletters, promotions, new features and benefit announcements, recommendations for locations and events, or special offers that target your interests in Second Life you may unsubscribe here: <http://lindenmktg.p0.com/resubscribe.jsp>.
+  5. Your Controls and Choices  
 
-You may also unsubscribe by postal mail, please address your request to:
+  6. Children's Privacy  
 
-Linden Research  
-Second Life Privacy Policy  
-ATTN: Opt-Out Administrator  
-945 Battery Street  
-San Francisco, CA 94111  
+  7. Data Transfers, Storage and Processing Globally  
 
+  8. Changes to this Privacy Policy  
 
-Please indicate what publications or services you no longer wish to receive so that we may better address your needs.
-
-### The Information We Collect and How We Collect It
-
-We collect a range of personal information and usage statistics to maintain a high-quality user experience and deliver superior customer service. We request some information directly from you during registration. We gather other pieces of data indirectly from Website traffic, your computer hardware and Internet connection, or your Second Life activities, communications and usage.
-
-There are thus different levels of information we collect, depending upon your relationship to Linden Lab and how you use the Service:
-
-  * **Website Visitor:** If you use our Websites, we automatically record information related to your IP address, Linden Lab cookie information, and aggregate information on what content you access or visit.
-  * **Mailing List Member:** If you provide us personal information in order to subscribe to our mailing list, we collect information to aid delivery and preferences such as e-mail address and message performance statistics.
-  * **Registered Website Member:** If you register on any of our Websites, we will track broad site usage information as well as aggregate usage of any Website community features such as downloads and forums.
-  * **Second Life User:** If you install or use Second Life software, we collect and aggregate a variety of data to monitor system and simulation performance, and to verify your unique identity. This includes specific and general information about your computer hardware and Internet connection, which are stored together but are not personally identifiable. We track usage of customer service resources in order to ensure high quality interactions.
-  * **In-World Conduct:** We may collect and retain any other information relating to your account data or in-world activities including chat or IM logs, IP address and logs, places visited in Second Life, and other users or parties to whom you transfer Linden dollars or other objects.
-  * **LindeX Transactions:** If you conduct transactions on the LindeX, we may collect and retain some or all of the information related to these transactions, including amounts of transactions, parties involved, time and manner of exchange and cash-out, and other circumstances of the transactions.
-  * **Additionally there are a few special situations to note:**
-    * **Intellectual Property Claim Notices:** If you notify us of an intellectual property claim, the information in your claim notice may be shared with other parties to the disagreement or third parties in our discretion and as required by law. We believe that sharing intellectual property claim information with other parties helps resolve the disagreement in many cases. For more information, see our [Intellectual Property Policy](http://wiki.secondlife.com/wiki/Linden_Lab_Official:Intellectual_Property).
-    * **Service Beta User:** If you volunteer to serve as a beta user for pre-commercial content, we will track bug reports and potentially individual system performance in an effort to rigorously test technology before it is deployed.
-    * **Former Customer:** If you cease being a customer of ours, we will keep a copy of your registration file in our database for use in the event you wish to rejoin Second Life, and for anti-fraud and other purposes.
-    * **Response to Job Postings or Unsolicited Communications:** Please note that information we receive in reference to a job posting or via unsolicited communications does not fall under the privacy terms outlined in this policy; however, information from your resume will be used solely for the purposes of evaluating your candidacy for employment.
-    * **Individuals Outside of the United States:** Anyone using Second Life or the Linden Lab Websites from outside of the United States should be aware that personal information collected on these Websites may be stored and processed in the United States or any other country in which Linden Lab or its affiliates, subsidiaries or agents maintain facilities, and by using the Service, you consent to any such transfer of information outside of your country.
-    * **We May Communicate With or Email You:** You agree that Linden Lab (including through its agents) may communicate with you via email and any similar technology for any purpose relating to the Service, the Linden Software and any services or software which may in the future be provided by Linden Lab or on Linden Lab's behalf.
+  9. Comments and Questions  
 
 
 
-### Linden Lab's Protection and Disclosure of Your Information
 
-Except under certain limited circumstances set forth here and in our [Terms of Service](https://web.archive.org/corporate/tos.php) ("Terms of Service"), Linden Lab does not disclose to third parties the personal information or other account-related information you provide us, such as IP address, without your permission. You understand, however, that Linden Lab may disclose your personal or other account-related information under the following circumstances:
+### 1.    Types of Information We Collect
+
+We collect two basic types of information – personal information and anonymous information – and we may use personal and anonymous information to create a third type of information, aggregate information. **Personal Information**   means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s first and last name, postal address, e-mail address and/or telephone number. **Anonymous Information** means information that does not directly or indirectly identify, and cannot reasonably be used to identify, an individual (including an individual’s computing device). **Aggregate Information** means information about groups or categories of individuals which does not identify and cannot reasonably be used to identify an individual. We may share Aggregate and Anonymous Information with other parties without restriction.
+
+We collect the following categories of information:
+
+  * Registration information you provide when you create an account, which may include your first name and surname, country of residence, gender, date of birth, e-mail address, username and password.
+  * Transaction information you provide when you request information or purchase a product or service from us, whether on our sites or through our applications, including your postal address, telephone number and payment information. If you conduct transactions (for instance, on Second Life’s LindeX), we may collect and retain some or all of the information related to these transactions, including transaction amount(s), parties involved, time and manner of exchange, and other transaction circumstances. 
+  * Information you provide in public forums on our Service. Please note that our sites and applications may offer chat, forums, community environments (including multiplayer gameplay) or other tools that do not have a restricted audience. If you provide Personal Information when you use any of these features, that Personal Information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party. We have no obligation to keep private personally identifiable information that you have made available to other users or the public using these functions. To request removal of your Personal Information from a public forum on one of our sites or applications, please contact [Customer Support](mailto:privacy@lindenlab.com).
+  * Information sent either one-to-one or within a limited group using our message, chat, post or similar functionality, where we are permitted by law to collect this information.
+  * Information you provide to us when you use our sites and applications, our applications on third-party sites or platforms (such as social networking sites), or link your profile from a third-party site or platform to your registered account.
+  * Location information when you visit our sites or use our applications, including location information either provided by a mobile device interacting with one of our sites or applications, or associated with your IP address, where we are permitted by law to process this information. 
+  * Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites, use our applications on third-party sites or platforms, or open e-mails that we send.
+
+
+
+Additionally there are a few special circumstances to note:
+
+  *  **Intellectual Property Claim Notices:** If you notify us of an intellectual property claim, the information in your claim notice may be shared with other parties to the disagreement or third parties in our discretion and as required by law.
+  *  **Beta Service User:** If you volunteer to serve as a beta participant for our pre-commercial content, we may track bug reports and individual system performance in an effort to test our technology rigorously before it is deployed. 
+  *  **Former Customer:** If you discontinue your use of our Service, we may keep your registration file in our database for use in the event that you elect to renew your use of our Service, as well as for anti-fraud and other such protective measures. 
+  *  **Job Postings or Unsolicited Communications:  ** Please note that information we receive in reference to a job posting or by unsolicited communications does not fall within the terms outlined in this Privacy Policy, however information from your resume will be used solely for the purpose of evaluating your candidacy for employment.
+
+
+
+### 2.    How We Collect Your Information
+
+We collect information you provide to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications, respond to customer inquiries or surveys, or otherwise interact with us.
+
+  * We collect information through technology, such as cookies and other technologies (such as web beacons and pixel tags), including when you visit our sites and applications or use our applications on third-party sites or platforms. A cookie is a small string of data which often includes an anonymous unique identifier sent to your Internet browser from a website’s computers, which is stored on your computer’s hard drive and is used to customize your use of a product or online site, keep records of your access to an online site or product, or store information needed by you on a regular basis (e.g. password retention functionality). Linden Lab (itself or through third parties acting on our behalf) use cookies for a number of purposes relating to our websites, applications and services, including to access your account information where you “login” to our websites, forums or other areas and to keep track of your website session data. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Each browser is different, so consult the “Help” menu of your browser to learn how you change your cookie preferences. Please note that if you reject all cookies, you may not be able to use certain of our (or other companies’) web pages.
+  * We participate in ad and/or affiliate networks operated by various third party companies. These companies collect and may use certain anonymous information about your visits to our Service as a function of referring Internet traffic to our Service. We do not permit these companies to collect any Personal Information about you; however these companies may collect your IP address. These companies may set and use cookies, web beacons, pixels and other technologies to collect anonymous information about your visits to our Service, and may otherwise aggregate, analyze and anonymize that data. If you would like to learn more about these specialized advertising technologies, the [Network Advertising Initiative](http://www.networkadvertising.org/) offers useful information about Internet advertising companies, including [information about how to opt-out](http://www.networkadvertising.org/choices) of certain information collection.
+  * We acquire information from other trusted sources to update or supplement the information you provided or we collected automatically. Local law may require that you authorize the third party to share your information with us before we can acquire it.
+
+
+
+Please keep in mind that when you provide information to us on a third-party site or platform (for example, through our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this Privacy Policy and the information that the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications.
+
+### 3.    Use of Your Information by Linden Lab
+
+Linden Research, Inc. (itself or in the capacity of a data processor for Linden Research UK, Ltd.)(collectively, “Linden Lab”) will be the data controller for your information. Linden Lab may have access to your information where it performs services on behalf of the data controller(s)(as a data processor) and, unless prohibited under applicable law, for use on its own behalf (as a data controller) for the following purposes:
+
+  * Provide you with the products and services you request
+  * Communicate with you about your account or transactions with us and send you information about features on our sites and applications or changes to our policies
+  * Consistent with local law and choices and controls that may be available to you: 
+    * Send you offers and promotions for our products and services or, as permitted, third-party products and services
+    * Personalize content and experiences on our sites and applications
+    * Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications. 
+  * Optimize or improve our products, services and operations
+  * Detect, investigate and prevent activities that may violate our policies or be illegal
+
+
+
+Except under certain limited circumstances as set forth here and in our [Terms of Service](http://www.lindenlab.com/tos), Linden Lab does not disclose to third parties the Personal Information or other account-related information that you provide to us without your permission. You understand, however, that Linden Lab may disclose your Personal Information or other account-related information under the following circumstances:
 
   * If we believe in good faith that such disclosure is necessary under applicable law, or to comply with legal process served on Linden Lab;
-  * In order to protect and defend the rights or interests of Linden Lab, Second Life or the users of Second Life;
-  * In order to report to law enforcement authorities, or assist in their investigation of, suspected illegal or wrongful activity, or to report any instance in which we believe a person may be in danger;
-  * To service providers with whom we have contracted to assist us with Second Life features or operations (such as anti-fraud functions, billing, collections, registration, customer support, email delivery, age verification or LindeX operations), to fulfill your service requests, offer new content or help us improve our Service. Our contracts with these third parties prohibit them from using any of your personal information for purposes unrelated to the product or service they are providing;
-  * To other third parties (a) to provide you with services you have requested, (b) to offer you information about our Service (e.g., events or features), or (c) to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service). For instance, we may provide certain information to our payment processor, to credit card associations, banks or issuers (if you are using a credit card), to PayPal (if you are using a PayPal account), or to providers of other services you request. If you choose to use these third parties' products or services, then their use of your information is governed by their privacy policies. You should evaluate the practices of third party providers before deciding to use their services; and
-  * To other business entities, should we plan to merge with or be acquired by that business entity. Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice.
+  * In order to protect and defend the rights or interests of Linden Lab, its products and services, and/or the other users of such products and services;
+  * In order to report to law enforcement authorities, or assist in their investigation of suspected illegal or wrongful activity, or to report any instance in which we believe a person may be in danger;
+  * To service providers with whom we have contracted to assist us with the features or operations (such as anti-fraud functions, billing, collections, registration, customer support, e-mail delivery, age verification, or Second Life’s LindeX operations), to fulfill your service requests, offer new content or help us improve our products and/or services. Our contracts with these third parties prohibit them from using any of your Personal Information for purposes unrelated to the product or services they are providing;
+  * To other third parties (a) to provide you with services you have requested, (b) to offer you information about our products or services (e.g. events or features), or (c) to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service). For instance, we may provide certain information to our payment processor, to credit card associations, banks or issuers (if you are using a credit card), to PayPal (if you are using a PayPal account), or to providers of other services you request. If you choose to use these third parties’ products or services, then their use of your information is governed by their privacy policies. You should evaluate the practices of third party providers before deciding to use their services; and
+  * To other business entities, should we plan to merge with or be acquired by that business entity.
 
 
 
-### Information Displayed to or Collected By Other Users
+### 4.    Sharing Your Information with Other Companies
 
-Certain account information is displayed to other users in your Second Life profile, and may be available through automated script calls and application program interfaces. This information includes your account name, account type, the date your account was established, whether or not you are currently online, user rating information, group and partner information, and whether or not you have established a payment account or transaction history with Linden Lab. Further, you agree and understand that Linden Lab does not control and is not responsible for information, privacy or security practices concerning data that you provide to, or that may otherwise be collected by, Second Life users other than Linden Lab. For instance, some services operated by Second Life users may provide content that is accessed through and located on third party (non-Linden Lab) servers that may log IP addresses. 
+We will not share your Personal Information outside of Linden Lab except in limited circumstances, including:
 
-### Linden Lab's Use of Cookies
-
-A cookie is a small string of data which often includes an anonymous unique identifier sent to your browser from a website's computers, and stored on your computer's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
-
-You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) However, if you reject all cookies, you may not be able to use certain of our (or other companies') web pages.
-
-Linden Lab and third parties acting on our behalf use cookies for a number of purposes relating to the Websites including to:
-
-  * Access your account information when you "log in" to our Websites, forums, or other areas;
-  * Keep track of your Website session data, including orders from our Land Store and the LindeX exchange; and
-  * Keep track of certain information that is then aggregated (i.e., not connected to your personal information), such as how you use our Websites, what web pages you visit, and the frequency and length of those visits.
+  * When you allow us to share your Personal Information with another company, such as:
+    * Directing us to share your Personal Information with third-party sites or platforms, such as social networking sites
+    * Please note that once we share your Personal Information with another company, the information received by the other company becomes subject to the other company’s privacy practices. 
+  * When companies perform services on our behalf; however, these companies are prohibited from using your Personal Information for purposes other than those requested by us or required by law.
+  * When we share Personal Information with third parties in connection with the sale of a business, to enforce our Terms of Service or rules, to ensure the safety and security of our users and third parties, to comply with legal process or in other cases if we believe in good faith that disclosure is required by law.
 
 
 
-### Third Party Advertisements
+### 5.    Your Controls and Choices
 
-Linden Lab participates in ad and/or affiliate networks operated by various third party companies. These companies collect and may use certain anonymous information about your visits to our Websites as a function of referring Internet traffic to our Websites. We do not permit these companies to collect any personal information about you, such as your name, address, or email address; however, we do permit these companies to collect your IP address. These companies may set and use cookies, web beacons, pixels, or other technologies to collect anonymous information about your visits to our Websites, and may otherwise aggregate, analyze and anonymize that data. If you seek information about these specialized advertising technologies, the [Network Advertising Initiative](http://www.networkadvertising.org/) offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including [information about how to opt-out](http://networkadvertising.org/optout_nonppii.asp) of their information collection.
+We provide you with the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with local law, your controls and choices may include:
 
-### Disclosing Personal Information in Profiles, Forums or within Second Life
+  * You  may correct, update and/or delete your account registration
+  * You may change your choices for subscriptions, newsletters and alerts
+  * You may choose whether to receive offers and promotions from us for our products and services, or products and services that we think may be of interest to you
+  * You may choose whether to share your Personal Information with other companies so they can send you offers and promotions about their products and services
+  * You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers by following the directions set forth above in Section 2   
 
-You may choose to disclose personal information in our online forums, via your Second Life profile, directly to other users in chat or otherwise while using Second Life. Please be aware that such information is public information and you should not expect privacy or confidentiality of this information. 
+  * You may request access to the Personal Information we hold about you and that we amend or delete it and we request third parties with whom we have shared such information to do the same
 
-### Amendment of this Policy
 
-We may need to update our Privacy Policy periodically to reflect changes in the types of information we collect, the means we use to collect information, or our usage of collected information. We will make reasonable efforts to alert you to these changes when they occur. Changes take effect immediately upon posting to our Websites. You may update the personal data you provide to us during registration by contacting our [support portal](https://web.archive.org/support/). If you wish to update your billing information, you may contact us toll-free (from the US/Canada) at 800-294-1067 or at 703-286-6277.
+
+You may exercise your controls and choices, or request access to your Personal Information, by modifying your selections at <http://lindenmktg.p0.com/resubscribe.jsp>, following instructions provided in communications we send to you, or sending correspondence regarding the publications or services you no longer wish to receive from us to the following address:
+
+Linden Lab Privacy Policy  
+Attention: Opt-Out Administrator  
+945 Battery Street  
+San Francisco, CA 94111
+
+Please be aware that if you do not allow us to collect Personal Information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences.
+
+### 6.    Children’s Privacy
+
+We recognize the need to provide further privacy protections with respect to Personal Information that we may collect from children on our sites and applications. Some of the features on our sites and applications are not directed towards children, and we do not knowingly collect Personal Information from children in connection with those features. When we direct certain sites, products or services toward children and intend to collect Personal Information from children, we take additional steps to protect their privacy, including:
+
+  * Notifying parents (including guardians) about our information practices with regard to children, including the types of Personal Information we may collect from children, the uses to which we may put that information, and whether and with whom we may share that information;
+  * In accordance with applicable law, obtaining parental consent for the collection, disclosure or use of Personal Information from their children, or for sending information about our products and services directly to their children;
+  * Limiting our collection of Personal Information from children to no more than is reasonably necessary to participate in an online activity; and
+  * Giving parents access or the ability to request access to Personal Information we have collected from their children and the ability to request that such Personal Information be changed or deleted. At any time a parent may request that we cease to collect further Personal Information from their child or request that any Personal Information that we have collected be changed or deleted from our records, in accordance with applicable law, by sending an e-mail to our [Customer Support](mailto:privacy@lindenlab.com) team.
+
+
+
+In some instances, certain portions of our Service may allow children to submit Personal Information (such as their name and/or the child’s or his or her parent’s e-mail address) without first obtaining their parent’s consent. For example, we may collect online contact information from a child for the purpose of:
+
+  * Obtaining parental consent and/or providing the child’s parent with any information regarding their child’s use of our Service, as required by law;
+  * Responding directly to a specific request from the child on a one-time basis (for instance, in response to a customer support inquiry);
+  * Responding directly more than once to a specific request from the child (for instance, to receive a newsletter or in-game communication from us), provided that in such case (i) we will use reasonable efforts to notify the child’s parent (e.g. via e-mail) of such ongoing communications with the child promptly after our initial response to the child and before making any subsequent responses to the child, and (ii) the child’s parent shall have the right to refuse further contact with the child and require the deletion of Personal Information about or collected from the child by contacting our Customer Support team;
+  * Protecting the safety of a child participant on our Service, provided that we have used reasonable efforts to provide notice to the child’s parent (e.g. via e-mail). If the parent fails to respond to such notice, we may use such online contact information for the purpose stated therein; and
+  * Protecting the security or integrity of our Service, to take precautions against liability, to respond to judicial process or to the extent permitted under other provisions of applicable laws, to provide information to law enforcement agencies or for an investigation on a matter related to public safety, to the extent reasonably necessary to do so.
+
+
+
+Parents are encouraged to spend time online with their children and to become familiar with the types of content available through our Service and on the Internet in general. Parents should regularly oversee their child’s use of e-mail and other online communications and transactional features. Control tools are available from online services and software manufacturers that can help to provide a safe online environment for children. If your child has used your credit card in connection with our Service without your permission, please contact our [Customer Support](mailto:privacy@lindenlab.com) team immediately. 
+
+### 7.    Data Transfers, Storage and Processing Globally
+
+We operate globally and may transfer your Personal Information to individual companies of Linden Research, Inc. or third parties in locations around the world for the purposes described in this Privacy Policy. Whenever your Personal Information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your Personal Information in accordance with applicable law.
+
+### 8.    Changes to this Privacy Policy
+
+From time to time, we may change this Privacy Policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent.
+
+### 9.    Comments and Questions
+
+If you have a comment or question about this Privacy Policy or our privacy practices, please send an e-mail to [privacy@lindenlab.com](mailto:privacy@lindenlab.com) or write us:
+
+Privacy Rights  
+Linden Lab  
+945 Battery Street  
+San Francisco, CA 94111
+
+### Notice to California Residents:
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your Personal Information by Linden Lab to third parties for the third parties’ direct marketing purposes. With respect to these entities, this Privacy Policy applies only to their activities within the State of California. To make such a request, please send an e-mail to [privacy@lindenlab.com](mailto:privacy@lindenlab.com) or write us at the address listed immediately above. 
