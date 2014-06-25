@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the politicaloutcast.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219080918id_/http%3A//politicaloutcast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicaloutcast.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062436id_/http%3A//politicaloutcast.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Political Outcast | Political Outcast
+# Privacy | Political Outcast
 
 **Privacy Policy for www.politicaloutcast.com**
 
@@ -8,7 +8,7 @@ At www.politicaloutcast.com the privacy of our visitors is of extreme importance
 
 **Log Files**
 
-Like many other Web sites, www.politicaloutcast.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, www.politicaloutcast.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Web browser cookies**
 
