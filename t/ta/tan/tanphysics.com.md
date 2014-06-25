@@ -1,83 +1,28 @@
-> *The following text is extracted and transformed from the tanphysics.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806124646id_/http%3A//tanphysics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tanphysics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084357id_/http%3A//tanphysics.com/privacy.php) for the most accurate reproduction.*
 
 # Tan Physics - Privacy Policy
 
-**What information do we collect?**
+### Privacy Policy
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+This privacy policy (the “Privacy Policy”) discloses how The Logic Team, Inc. uses the personal information it gathers on this site. We will notify you of changes by posting the new policy on this website. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+By using our services or submitting information, you are accepting the practices described in this Privacy Policy. Your assent to these practices is essential for us to provide our services. You can opt-out and decide not to provide the requested personal information. However, by doing so, you will not be able to purchase any products and you will not receive our email newsletters. You can also request that we no use any information you have by emailing Support@TanPhysics.com.
 
- **What do we use your information for?**
+The personal information we collect includes your name, email address, shipping address, and payment information. Other information we collect is clearly labeled at the time of collection. Our primary use of your personal information is to process and ship your order, as well as to provide customer support. We use your payment information to obtain payment. Payment information includes your name, card number, and other information necessary to process the transaction. We use an unaffiliated, credit card processing company to process your payment. We transfer your payment information—and you authorize us to do so—to this company solely for this purpose. We use your shipping information to ship you the products you order. We use unaffiliated shipping companies to ship your product. We transfer your shipping information to the shipper solely for this purpose, and you authorize us to do so. We use your email address to send you our newsletter, promotions, and reordering information. We also use your personal information to display advertising to you and to contact you if you start an order but do not complete the process.
 
-Any of the information we collect from you may be used in one of the following ways: 
+We automatically collect certain information from visitors to our site, such as Internet addresses, browser type, Internet Service Provider (ISP), referring and exit page, operating system, timestamps, and clickstream data. We also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers. This information is logged to help diagnose technical problems, and to administer our site so that we can constantly improve the quality of the services we provide. We do not respond to your browser’s “do not track” signals or other mechanisms for indicating your preference regarding the collection personally identifiable information. Instead, we use Google Analytics for remarketing (also known as retargeting) to advertise online. Third-party vendors, including Google, may show our ads to you across the Internet. Google, third-party vendors, and we use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to this website. We also permit Google to track your use of our site through its AdSense program. 
 
-• To personalize your experience
+We take measures to prevent the loss, misuse, and alteration of your information. We carefully limit access to the database in which your personal information is stored. Additionally, we share and transfer your personal information only in the ways set forth in this privacy policy.
 
-> Your information helps us to better respond to your individual needs
+We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability. 
 
-• To improve our website
+This website is directed at teenagers and adults and not to children under the age of 13. We do not knowingly collect personally identifiable information from children under the age of 13, nor do we knowingly distribute such information. We do not knowingly allow children under the age of 13 to publicly post or otherwise distribute personally identifiable contact information through our website. Similarly, because we do not collect any personally identifiable information from children under the age of 13, we do not condition the participation of a child under 13 in activities on providing personally identifiable information. If we become aware that we have inadvertently received personally identifiable information from someone under the age of 13, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of 13.
 
-> We continually strive to improve our website offerings based on the information and feedback we receive from you
+Contact us at the address below if you want us to change or delete any information that we have about you. We will respond to your request to access, update, or delete your information within ten (10) business days. Before we are able to provide you with any information, correct any inaccuracies, or delete any information, however, we may ask you to verify your identity.
 
-• To process transactions
-
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
-• To send periodic emails
-
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
- **How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be kept on file for more than 60 days in order to assist customers with re-orders and will not be accessible by unauthorized persons..
-
- **Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to help us remember and process the items in your shopping cart and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
- **Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
- **Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
- **Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://tanphysics.com](http://tanphysics.com/)
-
- **Your Consent**
-
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-TanPhysics.com  
+This website is owned and operated by:  
+The Logic Team, Inc.  
 PO Box 1084  
-Old Saybrook, CT 06475  
-USA  
-support@tanphysics.com
+Old Saybrook, CT 06475
+
+This privacy policy is effective as of March 21, 2014.
