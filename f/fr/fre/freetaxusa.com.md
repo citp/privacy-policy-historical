@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetaxusa.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806181342id_/http%3A//www.freetaxusa.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetaxusa.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626014401id_/http%3A//www.freetaxusa.com/privacy.jsp) for the most accurate reproduction.*
 
 # FreeTaxUSA® Privacy Policy Regarding Free Tax Preparation and E-file
 
@@ -10,7 +10,7 @@ FreeTaxUSA treats your financial and personally identifiable information as conf
 
 Information Collection and Use
 
-FreeTaxUSA is the sole owner of the information collected on [www.FreeTaxUSA.com](https://web.archive.org/index.jsp). Information is collected in order for taxpayers to prepare and electronically file their tax returns. Tax return information is only disclosed to appropriate government and financial institutions in order to file tax returns and comply with Internal Revenue Service requirements. The data collected includes everything that is needed to prepare a tax return, such as names, Social Security numbers, birth dates, mailing address, email address, and any tax-related information such as Form W-2s and Form 1099s. If a purchase is made, credit card information for a credit card payment or bank account information for an e-check payment will be gathered.
+FreeTaxUSA is the sole owner of the information collected on [www.FreeTaxUSA.com](https://web.archive.org/index.jsp). Information is collected in order for taxpayers to prepare and electronically file their tax returns. Tax return information is only disclosed to appropriate government and financial institutions in order to file tax returns and comply with Internal Revenue Service requirements. The data collected includes everything that is needed to prepare a tax return, such as names, Social Security numbers, birth dates, mailing address, email address, and any tax-related information (e.g. W-2s and 1099 forms). If a purchase is made, credit card information for a credit card payment or bank account information for an e-check payment will be gathered.
 
 All personally identifiable information gathered during account creation and during the use of the application to prepare taxes is encrypted using secure socket layer technology (SSL).
 
@@ -20,7 +20,7 @@ Tracking Technologies / Cookies
 
 A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on the FreeTaxUSA website. We use both session ID cookies and persistent cookies on our site. A session ID cookie is used as an additional layer of security to maintain your session while you are signed in to your account. Once a user closes the browser or clicks the Sign Out link, the cookie simply terminates. We set a persistent cookie to store information about how you got to our site. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Cookies are also used to track affiliate referrals and when collecting analytical data about usage on our site or the effectiveness of our emails. Third party cookies, or web beacons, are used to anonymously track the effectiveness of advertising and to display our ads through ad networks. This information is used in aggregate and does not contain personally identifiable information. The use of cookies by our tracking utility and ad service providers are not covered by our privacy statement. We do not have access or control over these cookies.
 
-We may use clear-gifs/web beacons in our HTML-based emails to monitor the effectiveness of our communication efforts. Links within email may contain campaign tracking codes to measure traffic in aggregate. The data collected will be anonymous and will not be used to collect any personally identifiable information.
+We may use clear-gifs/web beacons in our HTML-based emails to monitor the effectiveness of our communication efforts. Links within email may contain campaign tracking codes to measure traffic. When you click on a link in an email or open an HTML email that includes a web beacon, we record these individual responses to allow us to customize our offerings to you.
 
 Our third party tracking utility provider employs a software technology called clear gifs (a.k.a. web beacons), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
@@ -32,7 +32,7 @@ No third-party advertising appears on the FreeTaxUSA website.
 
 Usage Information
 
-Like most websites, FreeTaxUSA uses log files and analytical software to track website usage. The information collected may include IP addresses, browser types, internet service providers (ISP), referring/exit pages, platform types, and number of clicks to analyze trends, administer the site, track user movement in the aggregate, and gather broad demographic information for use in improving the site.
+Like most websites, FreeTaxUSA uses log files and analytical software to track website usage. The information collected may include IP addresses, browser types, internet service providers (ISP), referring/exit pages, platform types, and number of clicks to analyze trends, administer the site, track user movement, and gather broad demographic information for use in improving the site.
 
 Contests and Giveaways
 
