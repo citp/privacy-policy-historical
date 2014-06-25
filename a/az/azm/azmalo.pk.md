@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the azmalo.pk privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906053210id_/http%3A//www.azmalo.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azmalo.pk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625174923id_/http%3A//www.kaymu.pk/privacy-policy) for the most accurate reproduction.*
 
-# Azmalo Privacy Policy
+# Kaymu Privacy Policy
 
-Thank you for accessing the Azmalo.pk website ("Site") operated by Jade E Services (Pakistan PVT Limited). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy. This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy. Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you. We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected. You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
+Thank you for accessing the Kaymu.pk website ("Site") operated by Jade E Services (Pakistan PVT Limited). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy. This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy. Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you. We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected. You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
 
 ## Data that we collect
 
@@ -51,11 +51,11 @@ We may pass your details to other companies in our group. We may also pass your 
 
 ## No Spam, Spyware or Spoofing
 
-We and our users do not tolerate spam. Make sure to set your ‘Azmalo’ communication preferences so we communicate to you as you prefer. You are not licensed to contact other ‘Azmalo’ users without their express consent. To report ‘Azmalo’ -related spam or spoof emails to ‘Azmalo’, please report it to us. You may not use our communication tools to send spam or otherwise send content that would breach our User Agreement.
+We and our users do not tolerate spam. Make sure to set your ‘Kaymu’ communication preferences so we communicate to you as you prefer. You are not licensed to contact other ‘Kaymu’ users without their express consent. To report ‘Kaymu’ -related spam or spoof emails to ‘Kaymu’, please report it to us. You may not use our communication tools to send spam or otherwise send content that would breach our User Agreement.
 
 ## Account Protection
 
-Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your ‘Azmalo’ password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify ‘Azmalo’ and change your password.
+Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your ‘Kaymu’ password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify ‘Kaymu’ and change your password.
 
 ## Security
 
@@ -73,7 +73,7 @@ We have in place appropriate technical and security measures to prevent unauthor
 
 ## Your rights
 
-If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. Azmalo.pk, 6-A Executive Tower, Dolmen City, Karachi.
+If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. Kaymu.pk, 6-A Executive Tower, Dolmen City, Karachi.
 
 ## General
 
