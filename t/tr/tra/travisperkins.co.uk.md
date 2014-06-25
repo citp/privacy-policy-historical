@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travisperkins.co.uk privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805154459id_/http%3A//www.travisperkins.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travisperkins.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065517id_/http%3A//www.travisperkins.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Travis Perkins (" **we** " or " **us** ") is a part of the Travis Perkins Plc group of companies ("Group"). We are committed to protecting your privacy and we comply with the data protection laws applicable to the United Kingdom. This Privacy Policy explains how we use any information we collect about you and forms part of our Conditions of Use.
+Travis Perkins Trading Company (" **we** " or " **us** ") is a part of the Travis Perkins Plc group ("Group"). We are committed to protecting your privacy and we comply with the data protection laws applicable to the United Kingdom. This Privacy Policy explains how we use any information we collect about you and forms part of our Conditions of Use.
 
 **WHAT INFORMATION DO WE COLLECT ABOUT YOU?**
 
