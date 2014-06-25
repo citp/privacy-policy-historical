@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the revell.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206174816id_/http%3A//www.revell.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revell.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122509id_/http%3A//www.revell.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Revell Privacy Policy
 
   | 
 
-[Privacy Policy](https://web.archive.org/web/20131206174816id_/http%3A//www.revell.com/privacy-policy.html)
+[Privacy Policy](https://web.archive.org/web/20140625122509id_/http%3A//www.revell.com/privacy-policy.html)
 
 Revell Inc., has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for www.Revell.com. The Revell Inc. web site is a dynamic site and changes all the time. Some information given in this section is included for future intended use. By visiting this portion of our site, you can expect to be notified of:
 
@@ -31,6 +31,8 @@ Demographic and profile data may be used for marketing and targeting purposes. T
 
 Our online surveys and contests ask users for contact information (like their email address). We use contact data from our surveys to send the user information about our company. The user's contact information is only used to contact the user when necessary. However, on particular pages where we ask for your personally identifiable information, we may explicitly tell you that the data we are collecting on that page will be shared with third parties, in which case those disclosures shall override anything to the contrary in this policy. For example, before you submit answers to questions we ask in an advertiser-sponsored promotion, we will tell you that your answers will be shared with that advertiser. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In the event of a complaint, we may also receive personally identifiable information about you from other users or third parties who may communicate information to us about you in relation to that complaint.
 
+We do not allow other parties to collect personal information about your online activities over time and across different Web sites when you use our Web site.
+
 **Children's Guidelines  
 ** Children's privacy is of primary concern to us.
 
@@ -45,13 +47,15 @@ Our online surveys and contests ask users for contact information (like their em
 **Cookies and Other Tracking Methods**  
 Cookies are small pieces of information stored on your hard drive, not on our site. We use cookies or, in a limited number of cases, ISP addresses for a number of reasons.
 
-First, cookies are used to keep track of the contents of your cart while shopping.
+Cookies are used to keep track of the contents of your cart while shopping.
 
-Second, cookies allow you to store your password without having to constantly re-enter it.
+Cookies allow you to store your password without having to constantly re-enter it.
 
-Third, cookies can also help us to tailor a Web site or a marketing message to better match your needs and interests.
+Cookies can also help us to tailor a Web site or a marketing message to better match your needs and interests.
 
-Fourth,cookies allow us to better understand how users use our site, which in turn helps us focus our resources on features that are most popular with our users. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly if you do. Note: Revell Inc. places advertising on our sites that originates from outside advertisers and/or advertising agencies. In some cases, if you click on or view these ads, a cookie may be assigned by the advertiser. Revell Inc. does not control these cookies.
+Cookies allow us to better understand how users use our site, which in turn helps us focus our resources on features that are most popular with our users. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly if you do. Note: Revell Inc. places advertising on our sites that originates from outside advertisers and/or advertising agencies. In some cases, if you click on or view these ads, a cookie may be assigned by the advertiser. Revell Inc. does not control these cookies.
+
+We do not respond to "do not track" signals or other similar mechanisms.
 
 **Public Forums**  
 This site may, at some time, have chat rooms, forums, and / or message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
@@ -75,4 +79,4 @@ Our site also gives users the option to change and modify information previously
 >  Elk Grove Village, IL 60007  
 >   
   
-© 1996-2013 Revell Inc. A subsidiary of Hobbico, Inc.
+© 1996-2014 Revell Inc. A subsidiary of Hobbico, Inc.
