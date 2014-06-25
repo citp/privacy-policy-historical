@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pleasantonusd.net privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229152122id_/http%3A//pleasantonusd.net/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleasantonusd.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112421id_/http%3A//pleasantonusd.net/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pleasanton Unified School District
 
@@ -45,4 +45,4 @@ Pleasanton, CA 94566-7498
 **District Office:** 925-462-5500  
 **Email:** [info@pleasantonusd.net](mailto:info@pleasantonusd.net "Send an email to this contact.")
 
-[](http://www.printfriendly.com/print?url=http://pleasantonusd.net/site/privacy-policy/)
+[](http://www.printfriendly.com/print?url=http%3A%2F%2Fpleasantonusd.net%2Fsite%2Fprivacy-policy%2F)
