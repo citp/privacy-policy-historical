@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamucc.edu privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208003746id_/http%3A//www.tamucc.edu/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamucc.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112754id_/http%3A//www.tamucc.edu/about/privacy.html) for the most accurate reproduction.*
 
 # Texas A&M University Corpus Christi - the Island University
 
