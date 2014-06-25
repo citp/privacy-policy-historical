@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcebottle.com.au privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209061146id_/http%3A//www.sourcebottle.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcebottle.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132145id_/http%3A//www.sourcebottle.com/privacy.asp) for the most accurate reproduction.*
 
 # Free publicity for expert sources and PR professionals - connecting journalists, reporters, bloggers and writers with sources.
 
@@ -6,7 +6,7 @@
 
 SourceBottle (ABN 66 373 717 144) (‘SourceBottle’) regards privacy as an important part of our relationship with users (‘You/Your’) of the SourceBottle website (‘Website’).
 
-The following Privacy Policy conforms to Internet privacy standards. If you have questions or concerns regarding this statement, You should first contact us on (03) 9855 7867 or by email at [contact@thesourcebottle.com](mailto:privacy@sourcebottle.com.au)
+The following Privacy Policy conforms to Internet privacy standards. If you have questions or concerns regarding this statement, You should first contact us on (03) 9855 9720 or by email at [contact@sourcebottle.com](mailto:contact@sourcebottle.com)
 
 #### Collection of Information
 
@@ -20,17 +20,17 @@ Details collected from You are required in order to provide you with our service
 
 The security of Your personal information is important to us. We follow generally accepted industry standards to protect personal information submitted to us, both during transmission and once we receive it.
 
-If you have any questions about security on our Website, email us at [contact@thesourcebottle](mailto:privacy@sourcebottle.com.au)
+If you have any questions about security on our Website, email us at [contact@sourcebottle.com](mailto:contact@sourcebottle.com)
 
 #### Access to Collected Information
 
-If Your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing us at [contact@thesourcebottle.com](mailto:managereg@sourcebottle.com.au)
+If Your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing us at [contact@sourcebottle.com](mailto:contact@sourcebottle.com)
 
 #### Communications
 
 SourceBottle uses personally identifiable information for essential communications, such as emails and critical service details. We may also use this information, from time to time, for other purposes, including promotional emails.
 
-If at any time You do not wish to receive such correspondence, You can request to be removed from our mailing lists by emailing us at [contact@thesourcebottle.com](mailto:managereg@sourcebottle.com.au)
+If at any time You do not wish to receive such correspondence, You can request to be removed from our mailing lists by emailing us at [contact@sourcebottle.com](mailto:contact@sourcebottle.com)
 
 You will be notified if a third party that is not our agent/service provider attempts to collect Your personal information so you can make an informed choice as to whether or not to share your information with that party.
 
@@ -46,7 +46,7 @@ We reserve the right to disclose Your personally identifiable information as req
 
 #### Links
 
-Links on the SourceBottle site to external entities are not covered within this policy. The terms and conditions set out in this privacy statement only cover the domain name of [www.thesourcebottle.com](https://web.archive.org/web/20131209061146id_/http%3A//www.sourcebottle.com/index.asp)
+Links on the SourceBottle site to external entities are not covered within this policy. The terms and conditions set out in this privacy statement only cover the domain name of [www.sourcebottle.com](http://www.sourcebottle.com/) and [www.sourcebottle.com.au](http://www.sourcebottle.com.au/)
 
 #### Changes to Privacy Policy
 
