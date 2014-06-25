@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xertive.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511165720id_/http%3A//xertivemedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xertive.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052608id_/http%3A//www.xertivemedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Xertive Media - Privacy Policy
 
@@ -18,6 +18,10 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 
 Our clients' advertisements are displayed on many Internet sites ("Publishers"). In some cases, these Publishers may also place a cookie on your browser. In the course of delivering an ad to you, the third party ad serving party may place or recognize a unique cookie on your browser and use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you.
 
+## Data
+
+Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <http://www.aboutads.info/choices>.
+
 ## Opt Out
 
 If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature. In order to "opt out" of the benefits of cookies, you may manually delete your cookies by following the instructions contained in the Help section of your browser.
@@ -28,4 +32,4 @@ In light of the concern over protecting children's privacy online, Xertive Media
 
 ## How to Contact Us
 
-Should there be any questions or suggestions regarding the privacy policy, the support desk can be contacted [here](http://www.xertivemedia.com/contact-us/).
+Should there be any questions or suggestions regarding the privacy policy, the support desk can be contacted [here](http://xertivemedia.com/contact-us/).
