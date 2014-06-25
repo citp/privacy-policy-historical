@@ -1,59 +1,83 @@
-> *The following text is extracted and transformed from the agkidzone.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907063554id_/http%3A//www.agkidzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agkidzone.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073648id_/http%3A//www.agkidzone.com/privacy-policy) for the most accurate reproduction.*
 
 # AGKidZone Games, Online Activities, Cartoons, Coloring Pages, Videos
 
-The purpose of this policy is to inform you about the types of information we gather about you and your child when you visit our site, how we use that information, and your rights regarding our use of the information.
+**Effective Date:   This policy was updated and became effective on 11/04/2013**.
 
-AGKidZone.com and Parents.AGKidZone.com comply with the Children's Online Privacy Protection Act (COPPA). We encourage you to participate in your child's online activities and monitor your child's use of this site. 
+AGKidZone.com is a website featuring games, videos, and online and downloadable activities for kids.  We recognize that visitors to our Site will include children younger than the age of 13 (Children).  As required by The Children's Online Privacy Protection Act (COPPA), we provide this privacy policy to inform parents and legal guardians (collectively, Parents) about our privacy practices.
 
-**1\. What Is Personally Identifiable Information?**  
-Personally identifiable information is information that can identify you or your child as an individual, such as your full name, your email address, or your postal address. Some information, like a first name or age, is personal in nature, but is not personally identifiable information because it cannot be used to identify or contact you or your child. 
+This Privacy Statement explains our privacy practices for AGKidZone.com and any other website or other interactive features or downloads that are operated by AG Properties and hosted by AG Interactive Inc. (AG) and that link to this Privacy Policy (the Site), whether accessed via computer, mobile device or otherwise.  This Privacy Policy only covers information collected at the Site and does not cover information collected offline by AG (unless specifically stated) nor does it apply to our other websites or mobile apps.
 
-**2\. What Information Do You Collect and How Do You Collect It?**  
-We will only collect the personally identifiable information that is necessary for you or your child to participate in an online activity. 
+Please review our full privacy policy below -- but here are some key points to know:
 
-We do collect information in a variety of ways, although most of the information we collect is not personally identifiable information. 
+The Site does not require Children or any visitor to provide their name, address, or other contact information in order to play the games or access other content on the Site. 
 
-  1. **Registration.** When your child registers on our site, we ask that your child create a username. Your child should not use any personally identifiable information as part of his or her username. We will also ask that your child tell us his or her age. Neither the username nor age is personally identifiable information, because it can't be used to contact you or your child or identify her offline. 
+In order to keep the Site free, we have advertisements on the Site. We work with ad companies to facilitate the placement of these advertisements. However, we use only contextual-advertising methods and not interest-based (a/k/a online behavioral) advertising methods.
 
-We will also ask for your email address, so that we may contact you to explain how we use the information we collect about your child and obtain your permission to do so. 
+The Site, and its third-party service and content providers, may gather IP address, usage data and other information for analytical and other internal-operations purposes by means of cookies, beacons, and other technologies.   
+Please review this Privacy Policy carefully. In addition, please review our [Terms of Use](http://www.agkidzone.com/terms-of-use), which govern your use of the Site.
 
-We will also collect your child's email address for various communications relating to the site. This is personally identifiable information and will not be disclosed except as described below. 
+**This Privacy Policy explains:**
 
-  2. **Contests & Sweepstakes. ** From time to time we may conduct contests or sweepstakes. If your child participates in the contests or sweepstakes, under certain circumstances we may ask you for personally identifiable information such as a postal address and full name if necessary to award prizes. Personally identifiable information obtained specifically for contests and sweepstakes will not be shared with third parties.
-  3.  **Surveys and Feedback.** We may collect information in connection with surveys or online activities. We do not collect any personally identifiable information with surveys or feedback requests. Information you or your child provides in connection with feedback or surveys will not be connected with any personally identifiable information we have.
-  4.  **Website.** We use technology to collect information about the users on the site. For example, we use cookies, which are pieces of information that are placed on your computer for record-keeping purposes. As you move from page to page at our website, a cookie is the only way that we have of knowing who you are. An activity on one page may depend on what you selected on a previous page. We use a cookie to keep track of your selection. Without cookies, users may be asked to provide the same information repeatedly. Some activities may not function at all. 
-
-You can control cookies from your end. Internet browsers (like Netscape, AOL and Explorer) give you the ability to control the use of cookies. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to alert you when cookies are in use. You may set your browser to disable or refuse cookies. You can also erase a cookie that has been placed on your computer by us or by others. If you do not allow cookies to be used in the traditional way, it is possible that some parts of the website will not function as we designed them. 
-
-These techniques may transmit data directly to us, or to third parties we authorize to collect information on our behalf. None of the information collected through these methods is personally identifiable information, nor is it connected to any personally identifiable information about you or your child.
-
-  5.  **Email Communication From Us.** Our site may allow you or your child to sign up to receive newsletters, ecards, and emails from our site, containing special information or offers. In order to sign up for these activities, we will collect your child's first name and email address, and your email address if your child is under 13. If your child is under 13, we will contact you by email to notify you that your child has provided this information to us, to provide you with the opportunity to opt your child out of the collection of the information.
-  6.  **Safety and Security.** We may collect your personally identifiable information where necessary for your safety. We may also collect your personally identifiable information for the limited purposes of protecting the security and integrity of the website, taking precautions against liability, or responding to law enforcement. 
+  1. INFORMATION THE SITE COLLECTS
+  2. DISCLOSURE OF CHILDREN'S PERSONAL INFORMATION TO SERVICE PROVIDERS
+  3. THIRD-PARTY ANALYTICS PROVIDERS AND AD SERVERS
+  4. LINKS TO OTHER WEBSITES
+  5. PARENT'S RIGHTS
+  6. CHANGES TO OUR POLICY
+  7. CONTACT US
 
 
 
-**3\. Do You Disclose Personally Identifiable Information To Others?**  
-We use all of the personally identifiable information we collect only to provide services related to the website. We do not share any personally identifiable information with third parties for marketing or advertising purposes. We may engage third parties to assist with services related to the website, such as technical and processing services, order or contest fulfillment, and analysis and website performance. These third parties are required to keep the information secure, can only use your information to provide services to us, and cannot use your information for marketing or advertising.
+**INFORMATION THE SITE COLLECTS**  
+_Information Collected_. This section describes the Personal Information and Other Information the Site collects from visitors.
 
-If AG KidZone, or most or all of its assets, is transferred or sold to another entity, all information, including personally identifiable information would be transferred to that entity.
+_Personal Information._ Personal Information is information that could reasonably be used to contact you or to identify you personally ( _for example_ , first and last name, mailing address or telephone number). Personal Information also includes your IP address or other unique identifier that is associated, on a persistent or on-going basis, with your computer, mobile phone or other device you use to access the Site (Device Identifier). The Site does not generally collect name, address, or other contact information from visitors who play games or participate in other activities on the Site. However, we and our third-party service providers may collect your Device Identifier when you visit the Site. We, and our third party service providers, use this information solely to support the Site’s internal operations, including maintaining, securing, and analyzing the functioning of the Site and serving contextual advertisements.
 
-We may also share personally identifiable information with third parties in order to comply with court orders, requests by law enforcement agencies, to enforce our Terms of Service, or to protect, the rights, safety, or property of our website and other users of the website.
+The Site may also, on limited occasions, collect first name and online contact information (typically, an e-mail address) from Children solely for the following purposes:
 
-**4\. Can Personally Identifiable Information Be Reviewed Or Corrected?**  
-You can review the personally identifiable information provided by your child, request corrections to the information, ask that we delete the information from our database, or refuse further collection or use of the information by contacting help@agkidzone.com or by calling 1-866-228-2429.
+For one-time use of that information, such as to respond directly to a specific request ( _for example_ , answering a question submitted through the Site). We delete the contact information provided from our records once it is used to fulfill the specific one-time purpose and will not use it to re-contact the Child.
 
-**5\. How Do I Contact You About Your Privacy Policy?**  
-To request further information about our privacy policy, you may email us at help@agkidzone.com, or send us a letter at: AG KidZone, American Greetings Corporation, One American Road, Cleveland, Ohio, 44144.
+For the sole purpose of any of the following: to protect the security or integrity of the Site; to take precautions against liability; to respond to judicial process; and, to the extent permitted under other provisions of law, to provide information to law enforcement agencies or for an investigation on a matter related to public safety.
 
-**6\. Changes To The Privacy Policy**  
-This website will change over time as we add exciting new features. The internet will also change as new capabilities and laws emerge. As a result, this privacy policy will be updated from time to time to reflect changes in our website. The date of the last revision of the privacy policy will be at the top of this policy. You should check the policy periodically to make sure you understand any changes to it.
+If the Site offers a feature that collects Personal Information in addition to the information described above, we will, where required by COPPA, provide the Child's Parent prior notice of the Site’s privacy practices and obtain the Parent's consent to the collection of the Child's Personal Information.
 
-**7\. What Are The Privacy Policies Of The Links On Your Site?**  
-Our website may contain links to other sites, including websites directed to children. We cannot control the privacy practices of these other sites, or their content. These other sites may use cookies and collect personally identifiable information. We urge to check the applicable privacy policy of the website sponsor when connecting to other websites.
+Please note that, as required by law, we will not condition a Child's participation in an activity on the Site on the Child's disclosing more than is reasonably necessary to participate in such activity.  We use Personal Information only for the purpose that it was provided and for internal purposes.
 
-**8\. California Residents   . **  
-California Civil Code Section 1798.83 permits residents of California who are visitors to the website to request information regarding our disclosure of their personal information to Third Parties for marketing purposes. To make such a request, please [contact us](http://www.agkidzone.com/contact-us).
+**Other Information**
 
-**9\. Residents outside the U.S.**  
-Personal information collected on the website may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries or agents maintain facilities. By using the website, you consent to any such transfer of information outside of your country. 
+In addition, we and our third-party service providers (including any third-party content providers) may use a variety of technologies that automatically or passively collect certain information whenever you visit or interact with the Site (Usage Information). Usage Information may include the browser and operating system you are using, the URL or advertisement that referred you to our Site, the search terms you entered into a search engine that lead you to our Site (if applicable), all of the areas within our Site that you visit, and the time of day, among other information. We may use Usage Information for a variety of purposes, including enhancing or otherwise improving the Site and our products and services. Usage Information is generally non-identifying, but if we associate it with you as a specific and identifiable person, we treat it as Personal Information.  
+
+_Technologies Used to Collect Information_. The technologies that may be used by us and our third-party service providers to collect Personal and Usage Information include the following:
+
+_Cookies_. We use a technology called cookies on the Site. Cookies are pieces of information or data sent to your browser from a web server and stored on your device for a variety of purposes. Cookies may be used for many purposes, such as supporting game play and other activities available on the Site, as well as for analytics and similar internal purposes.  A Flash cookie is a data file placed on a device via the Adobe Flash plug-in that may be built into or downloaded by you to your device. Flash cookies may be used for various purposes, including, without limitation, enabling a Flash feature and remembering your preferences. For more information about Flash and the privacy choices Adobe offers, visit: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>. Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser settings to notify you when you've received a cookie or, alternatively, to refuse to accept cookies. It is important to note that you may not be able to use certain features on the Site if you choose not to accept or delete cookies or to adjust your Flash privacy settings.
+
+_Web Beacons_. When you visit the Site, we or our third-party service providers (such as advertising companies, advertisers and analytics companies) may set web beacons (small graphic images or other web programming code, also known as 1x1 GIFs or clear GIFs) and similar technologies on our Site. Web beacons can recognize certain types of information on your computer such as cookies, the time and date a page is viewed, and a description of the page where the web beacon is placed.  Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Site, to monitor how users navigate the Site, and to improve your experience on the Site.
+
+_Embedded Scripts_. An embedded script is programming code that is designed to collect information about your interactions with the Site, such as the links you click on. The code is temporarily downloaded onto your device from our web server or a third-party service provider, is active only while you are connected to the Site, and is deactivated or deleted thereafter.
+
+**DISCLOSURE OF CHILDREN'S PERSONAL INFORMATION TO SERVICE PROVIDERS**   
+AG does not disclose Children's Personal Information to third parties, except with regard to the safety and security of the Site as discussed above. We may also disclose Children’s Personal Information to service providers who provide support for the internal operations of the Site and who do not disclose or use the Personal Information for any other purpose. These service providers may provide support services such as hosting the Site or content available on the Site, designing and/or operating the Site's features, or performing other administrative services. We may provide these companies with access to Children's Personal Information in order for them to carry out the services they are performing on our behalf.
+
+**THIRD-PARTY ANALYTICS PROVIDERS AND AD SERVERS**
+
+We work with network advertisers, ad agencies, third-party traffic-measurement services, and other service providers to serve advertisements on the Site and to provide us with information regarding traffic on the Site, including the pages viewed and the actions users take when visiting the Site. Our service providers may set and access their own tracking technologies on your device (including cookies and web beacons) and may collect or have access to your Personal Information and other information about you (such as Usage Information), provided that any Personal Information collected will be limited to your Device Identifier and will be used only to support the internal operations of the Site or the applicable service provider. We may share Usage Information about visitors with third-party advertising companies, analytics providers and other vendors for similar purposes. 
+
+**LINKS TO OTHER WEBSITES**
+
+The Site may contain links to third-party web sites that we do not control.  We are not responsible for the privacy or data collection practices of any third party.
+
+**PARENT'S RIGHTS**
+
+Parents have the right to review and request that the AG delete any Personal Information that the Site has collected and retained about their Child. If you would like to request that AG delete any Personal Information we may have about your Child (such as first name and contact information for use in sending our newsletter) or if you would like to request that the Site make no further collection of Personal Information from your Child, please contact us as described in the [Contact Us](http://www.agkidzone.com/contact-us) section.
+
+**CHANGES TO OUR POLICY**
+
+We may update this Privacy Policy at any time and any changes will be effective upon posting. If we make any material changes in the way we use your Personal Information, we will update the Effective Date above and we will display a notice on the Site. However, we will obtain Parental consent prior to using or disclosing Personal Information in a manner materially different from the Privacy Policy posted at the time of collection and any prior Parental consent received.
+
+**CONTACT US**
+
+Questions regarding this Children’s Online Privacy Policy and use of Children's Personal Information should be directed to AG by any of the following methods:  
+**By Mail:** AG Properties One American Road, Cleveland, Ohio 44144  
+**By E-mail:**[help@agkidzone.com](mailto:help@agkidzone.com)  
+**By Phone:** 866.228.2429
