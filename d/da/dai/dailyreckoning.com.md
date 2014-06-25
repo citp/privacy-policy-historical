@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyreckoning.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013021452id_/http%3A//dailyreckoning.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyreckoning.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093553id_/http%3A//dailyreckoning.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,3 +37,62 @@ Publishers Official Site: [www.agorafinancial.com](http://www.agorafinancial.com
 Twitter: [@dailyreckoning](https://twitter.com/dailyreckoning "Daily Reckoning Twitter")  
 Facebook: [www.facebook.com/TheDailyReckoning](https://www.facebook.com/TheDailyReckoning "The Daily Reckoning on Facebook")  
 YouTube: <http://www.youtube.com/DailyReckoningUSA>
+
+###### Follow Us On These Channels:
+
+  * [Twitter](http://twitter.com/DailyReckoning)
+  * [Facebook](http://www.facebook.com/TheDailyReckoning)
+  * [Google Plus](https://plus.google.com/+dailyreckoning/posts)
+  * [LinkedIn](http://www.linkedin.com/company/the-daily-reckoning)
+  * [YouTube](http://www.youtube.com/DailyReckoningUSA)
+  * [RSS](http://feeds.feedburner.com/dailyreckoning)
+
+
+
+* * *
+
+#### Recent Media
+
+### [Medicine’s Silent Killer](http://dailyreckoning.com/medicines-silent-killer/)
+
+* * *
+
+[View All Media](http://dailyreckoning.com/category/video-audio/)
+
+* * *
+
+#### Glossary Of Terms
+
+### [NSA](http://dailyreckoning.com/got/nsa/)
+
+ **noun \ˈen-e-ˈsā\**  
+A three letter word for “perpetual surveillance”.
+
+* * *
+
+### [3D Printing](http://dailyreckoning.com/got/3d-printing/)
+
+ **noun \ˈthrē dē ˈprin-tiŋ\**  
+A process by which end-users (or “makers” as they call themselves) can create insane amounts of plastic nick-nacks, virtually at will and barely any cost, with the push of a button.
+
+* * *
+
+[View All Terms](http://dailyreckoning.com/got/)
+
+#### Humor Files
+
+* * *
+
+* * *
+
+* * *
+
+[View All Humor Files Posts](http://dailyreckoning.com/category/humor-files)
+
+#### Popular Articles
+
+* * *
+
+* * *
+
+* * *
