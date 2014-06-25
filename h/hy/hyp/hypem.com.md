@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hypem.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014153244id_/http%3A//hypem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypem.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102321id_/http%3A//hypem.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy / The Hype Machine
+# Privacy Policy / Hype Machine
 
 ## PRIVACY POLICY
 
@@ -8,11 +8,11 @@ The Hype Machine Inc. ("Hype Machine") knows that you care about how your person
 
 ### What Does This Privacy Policy Cover?
 
-This Privacy Policy covers the Hype Machine's treatment of personal information that the Hype Machine gathers when you are on the Site and when you use the Hype Machine's services (the "Services"). This policy also covers the Hype Machine's treatment of any personal information that the Hype Machine's business partners share with the Hype Machine.
+This Privacy Policy covers Hype Machine's treatment of personal information that Hype Machine gathers when you are on the Site and when you use Hype Machine's services (the "Services"). This policy also covers Hype Machine's treatment of any personal information that Hype Machine's business partners share with Hype Machine.
 
-This policy does not apply to the practices of third parties that the Hype Machine does not own or control, or to individuals that the Hype Machine does not employ or manage.
+This policy does not apply to the practices of third parties that Hype Machine does not own or control, or to individuals that Hype Machine does not employ or manage.
 
-### What Personal Information About Customers Does The Hype Machine Collect?
+### What Personal Information About Customers Does Hype Machine Collect?
 
 Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience. We collect the following types of information from our users:
 
@@ -22,13 +22,13 @@ We receive and store any information you enter on the Site or provide to us in a
 
 ### Automatic Information
 
-We receive and store certain types of information whenever you interact with us. The Hype Machine automatically receives and records certain "traffic data" on our server logs from your browser including your IP address, Hype Machine cookie information, and the page you requested. Hype Machine uses this traffic data to help diagnose problems with its server, analyze trends and administer the Site.
+We receive and store certain types of information whenever you interact with us. Hype Machine automatically receives and records certain "traffic data" on our server logs from your browser including your IP address, Hype Machine cookie information, and the page you requested. Hype Machine uses this traffic data to help diagnose problems with its server, analyze trends and administer the Site.
 
 Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our Site and its components, similar to TV ratings that indicate how many people watched a particular show. This data is only used in the aggregate. This type of collective data enables us to figure out how often customers use parts of the Site, so we can make the Site appealing to as many users as possible. In addition, we may provide statistical information, not information about you personally, to our partners about how our users, collectively, use our Site. We share this type of statistical data so that our partners also understand how often people use their areas and our Site, so that they, too, may provide you with an optimal web experience.
 
 ### E-mail Communications
 
-We may receive a confirmation when you open an e-mail from the Hype Machine if your computer supports this type of program, in order to help us make e-mails more interesting and helpful. We also send out e-mails with news or promotions. If you do not want to receive e-mail from us, please contact us at privacy@hypem.com.
+We may receive a confirmation when you open an e-mail from Hype Machine if your computer supports this type of program, in order to help us make e-mails more interesting and helpful. We also send out e-mails with news or promotions. If you do not want to receive e-mail from us, please contact us at privacy@hypem.com.
 
 ### Information From Other Sources
 
@@ -38,7 +38,7 @@ For purposes such as improving personalization of our service, we may receive in
 
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people. Hype Machine cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your username or e-mail address is.
 
-The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of the Hype Machine's most attractive features.
+The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of Hype Machine's most attractive features.
 
 Some of our business partners may use cookies on our Site (for example, advertisers). However, we have no access to or control over these cookies.
 
@@ -54,11 +54,11 @@ Information about our users is an integral part of our business. We neither rent
 
 ### Affiliated Business We Do Not Control
 
-In certain situations, the Hype Machine may provide services, or sell products jointly with affiliated businesses, including on the Site. We will share customer information that is related to such transactions with that affiliated business. We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use personal information for any purpose other than for an authorized transaction.
+In certain situations, Hype Machine may provide services, or sell products jointly with affiliated businesses, including on the Site. We will share customer information that is related to such transactions with that affiliated business. We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use personal information for any purpose other than for an authorized transaction.
 
 ### Agents
 
-We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include billing users who purchase merchandise from the Hype Machine, shipping and delivering merchandise, analyzing data, providing marketing assistance, and providing customer service. Our agents subscribe to the same level of privacy protection as we do. Unless we tell you differently, the Hype Machine's agents do not have any right to use the personal information we share with them beyond what is necessary to assist us.
+We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include billing users who purchase merchandise from Hype Machine, shipping and delivering merchandise, analyzing data, providing marketing assistance, and providing customer service. Our agents subscribe to the same level of privacy protection as we do. Unless we tell you differently, Hype Machine's agents do not have any right to use the personal information we share with them beyond what is necessary to assist us.
 
 ### Promotional Offers
 
@@ -66,11 +66,11 @@ We may send offers to certain customers on behalf of other businesses. However, 
 
 ### Business Transfers
 
-In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if the Hype Machine, or substantially all of its assets, were acquired, customer information would be one of the assets that is transferred.
+In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if Hype Machine, or substantially all of its assets, were acquired, customer information would be one of the assets that is transferred.
 
-### Protection of The Hype Machine and Others
+### Protection of Hype Machine and Others
 
-We may release personal information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of the Hype Machine, our employees, our users, or others. The Hype Machine may disclose personal information to parties in compliance with the Hype Machine's Copyright Policy, as the Hype Machine in its sole discretion believes necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, the Hype Machine may disclose name, street address, city, state, zip code, country, phone number, and e-mail address.
+We may release personal information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Hype Machine, our employees, our users, or others. Hype Machine may disclose personal information to parties in compliance with Hype Machine's Copyright Policy, as Hype Machine in its sole discretion believes necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, Hype Machine may disclose name, street address, city, state, zip code, country, phone number, and e-mail address.
 
 ### With Your Consent
 
@@ -84,7 +84,7 @@ Only employees who need personal information to perform a specific job (for exam
 
 ### What Information Can I Access?
 
-The Hype Machine allows you to access the following information about you for the singular purpose of viewing, and in certain situations, updating that information.
+Hype Machine allows you to access the following information about you for the singular purpose of viewing, and in certain situations, updating that information.
 
 You are able to add or update certain information. When you update information, however, we often maintain a copy of the unrevised information in our records.
 
