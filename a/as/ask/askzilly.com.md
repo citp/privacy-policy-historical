@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the askzilly.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115145502id_/http%3A//askzilly.com/privacy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D400%26width%3D800) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askzilly.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101156id_/http%3A//www.askzilly.com/privacy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D400%26width%3D800) for the most accurate reproduction.*
 
 # 
 
-## AskZilly PRIVACY POLICY
+## ASKZILLY PRIVACY POLICY
 
 Online Business Services SA (AskZilly) is committed to maintaining the privacy of personal information that you provide to us when using any of our online services. This Privacy Policy describes how we treat the information we receive when you transmit data to any machine owned by AskZilly.
 
