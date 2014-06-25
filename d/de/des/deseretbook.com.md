@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the deseretbook.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204035028id_/http%3A//deseretbook.com/privacy/5110611) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deseretbook.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110457id_/http%3A//deseretbook.com/privacy/5110611) for the most accurate reproduction.*
 
 # Deseret Book Privacy Policy
 
 ### Deseret Book Company Privacy Policy
 
-Â  Last Modified: May 21, 2012. This Privacy Policy is effective as of May 21, 2012 ("Effective Date").
+Last Modified: May 21, 2012. This Privacy Policy is effective as of May 21, 2012 ("Effective Date").
 
 The Privacy Policy applies to personal information that may be collected when you interact (a) with Deseret Book, Inc. and its subsidiaries ("Deseret Book"), (b) Deseret Book's websites, applications and devices listed below, operated by Deseret Book. Protecting the privacy and security of your personal information is a priority at Deseret Book, and we believe that a single, comprehensive privacy policy that is straightforward and clear is in the best interests of our customers and our businesses. As of the Effective Date this Privacy Policy covers the following: Deseret Book Bookstores, deseretbook.com, the Deseret Book Member Platinum program, and any applications distributed or sold by Deseret Book. 
 
