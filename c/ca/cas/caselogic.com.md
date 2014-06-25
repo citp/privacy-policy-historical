@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caselogic.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115162535id_/http%3A//www.caselogic.com/en/US/Company-Information/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caselogic.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012317id_/http%3A//www.caselogic.com/en-us/us/company-information/privacy-statement) for the most accurate reproduction.*
 
 # Case Logic | Privacy Statement
 
@@ -31,3 +31,24 @@ We cannot be responsible for the privacy and security practices of non- Case Log
 **How does Case Logic update its Privacy and Security Policy?**
 
 Any changes to our Privacy and Security Policy will be posted on this page so that you always know what information we collect and how we use it and the latest updates on how we maintain the secure portions of our websites. By using our website, you consent to the collection and use of information as it is disclosed in this Privacy and Security Policy Statement.
+
+**Trademark and copyright  
+**A trademark is a word, logotype, slogan, colour or shape that identifies and distinguishes the source or origin of a product or service.  All trademarks belonging to Thule Group are important and valuable assets of the company.
+
+The Thule Group respects the Intellectual Property rights of others, and we ask the same of others. 
+
+Unless otherwise indicated on this site, all trademarks, brand names and corporate logos are the property of Thule Group or its affiliates and protected by Intellectual Property Rights Law.
+
+Trademarks, brand names and corporate logos belonging to Thule Group may not be used in any way without the prior written permission from Thule Group. 
+
+The copyright of this website, including without limitation, all documents, files, text, images, graphics, devices, sound, audio-visual elements, is owned by Thule Group and is protected by Swedish and international copyright laws. (All Rights Reserved)
+
+The website or any part of it may not, apart from what is stated below, be reproduced, duplicated, copied, transferred, distributed, stored or otherwise exploited for any commercial use without prior written permission by Thule Group. No links to this website may be included in any other website without the prior written permission by Thule Group. Modifications to the contents on this website are expressly prohibited. 
+
+You are authorized to view, print and copy any document published on this website for your personal non-commercial use and provided that any such copy or print retains all copyright or other proprietary notices. 
+
+You are authorized to use information from this website if it is only used for information purposes, provided the source of information is mentioned. You may copy and print press releases and other documents classified as public. 
+
+The content of the information may not be modified and the information should be used in a way that does not harm the reputation of Thule Group. 
+
+The website may contain images that are subject to copyright of third parties.
