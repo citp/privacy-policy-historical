@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloson.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502154941id_/http%3A//www.bloson.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloson.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072031id_/http%3A//www.bloson.com/privacy.php) for the most accurate reproduction.*
 
 # Bloson
 
