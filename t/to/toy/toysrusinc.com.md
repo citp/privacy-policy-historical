@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toysrusinc.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231224915id_/http%3A//www.toysrus.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrusinc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080425id_/http%3A//www.toysrus.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Toys"R"Us/Babies"R"Us : Help Desk
 
@@ -14,7 +14,7 @@ TOYS"R"US PRIVACY POLICY
   * [WHAT ARE COOKIES AND HOW DOES TOYS"R"US USE THEM?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#cookies)
   * [HOW CAN I UPDATE OR CHANGE MY PERSONAL INFORMATION?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#update)
   * [WHAT IS TOYS"R"US' CHILDREN'S PRIVACY POLICY?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#children)
-  * [LINKED SITES](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#linked)
+  * [LINKED SITES OR ONLINE SERVICES](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#linked)
   * [HOW TO CONTACT TOYS"R"US ](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#contact)
   * [REVISIONS TO THE TOYS"R"US PRIVACY POLICY](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#revisions)
   * [YOUR CALIFORNIA PRIVACY RIGHTS](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#california)
@@ -180,9 +180,9 @@ For more information on the preloaded apps available on Tabeo, including the pri
 
 For additional tips on how to help children stay safe on the Internet, we recommend that you visit the following sites:
 
-  * [www.ftc.gov/privacy/privacyinitiatives/childrens.html](http://www.toysrus.com/helpdesk/www.ftc.gov/privacy/privacyinitiatives/childrens.html)
-  * [www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm](http://www.toysrus.com/helpdesk/www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm)
-  * [www.onguardonline.gov/features/feature-0002-featured-info-parents](http://www.toysrus.com/helpdesk/www.onguardonline.gov/features/feature-0002-featured-info-parents)
+  * [business.ftc.gov/privacy-and-security/childrens-privacy](http://business.ftc.gov/privacy-and-security/childrens-privacy)
+  * [www.onguardonline.gov/articles/0012-kids-and-socializing-online](http://www.onguardonline.gov/articles/0012-kids-and-socializing-online)
+  * [www.onguardonline.gov/features/feature-0002-featured-info-parents](http://www.onguardonline.gov/features/feature-0002-featured-info-parents)
 
 
 
