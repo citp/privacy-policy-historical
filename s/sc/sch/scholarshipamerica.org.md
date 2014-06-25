@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126131818id_/http%3A//scholarshipamerica.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083121id_/http%3A//scholarshipamerica.org/privacy.php) for the most accurate reproduction.*
 
 # Scholarship America Privacy Policy
 
@@ -34,7 +34,7 @@ Log Information – Our servers automatically record information your browser se
 Our website may use other technologies to track and analyze user activity on our site.
 
 **Does Scholarship America SHARE the information I’ve provided?**  
-Scholarship America does not share or sell any supporter information with outside organizations. For details on our privacy policy as regards applicants to scholarship programs, please [see the Scholarship Management Services website](http://scholarshipmanagement.org/privacy.php).
+Scholarship America does not share or sell any supporter information with outside organizations. For details on our privacy policy as regards applicants to scholarship programs, please [see the Scholarship Management Services website](http://www.scholarshipmanagement.org/privacy-policy).
 
 **How does Scholarship America SECURE my personal information?**  
 Scholarship America is committed to properly securing the information we collect online. To help us accomplish this, we take the following steps: 
