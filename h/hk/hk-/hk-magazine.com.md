@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hk-magazine.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204090356id_/http%3A//hk-magazine.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hk-magazine.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054551id_/http%3A//hk-magazine.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Hong Kong's City Living Authority Privacy Policy | HK Magazine
 
@@ -8,7 +8,7 @@ Effective April 1, 2013
 
 HK Magazine Online takes great care of, and respects, your privacy and your data. This policy is intended to make you aware of how we acquire your information as you sign up for our products and services, how we manage it, and how we will (and will not) use it to provide you with great new products, special deals, offers, services, contests, party invitations, and more.  We adhere to the regulations of the Personal Data (Privacy) Ordinance laws of Hong Kong as well as industry best practices.  We will not automatically add you to any email list, only those you wish to join. You can unsubscribe from any list at any time. 
 
-If you have any questions on any of the below policies, please contact [marketing@hkmagmedia.com](mailto:marketing@hkmagmedia.com?subject=Privacy%20Policy).
+If you have any questions on any of the below policies, please contact us [here](http://hk-magazine.com/contactus).
 
 **Access to Site Content and Services**
 
@@ -21,7 +21,7 @@ You must become a **Registered Member** of the site if you wish to:
   * Receive a free newsletter
   * Download a guide
   * Make a purchase from the online Store
-  * Subscribe to a PDF e-book of our print magazine issue
+  * Subscribe to a flipbook of our print magazine issue
   * Receive notices of special offers, promotions and deals from selected advertisers
 
 
