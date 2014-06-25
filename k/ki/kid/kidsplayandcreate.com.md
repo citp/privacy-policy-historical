@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsplayandcreate.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223100101id_/http%3A//www.kidsplayandcreate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsplayandcreate.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625042758id_/http%3A//www.kidsplayandcreate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,4 +20,4 @@ If you have any questions regarding the privacy policy of KidsPlayandCreate.comÂ
 
 Last updated Tue, 14 Sept 2012 17:28
 
-[](http://www.printfriendly.com/print?url=http://www.kidsplayandcreate.com/privacy-policy/)
+[](http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.kidsplayandcreate.com%2Fprivacy-policy%2F)
