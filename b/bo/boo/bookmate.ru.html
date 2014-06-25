@@ -1,0 +1,1913 @@
+<!--The following is the downloaded HTML source of the bookmate.ru privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625120723id_/http%3A//bookmate.com/about/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+    <meta charset="UTF-8">
+<script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/5295ed446ce372ce50000045.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://top-fwz1.mail.ru/js/code.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"9e83dd2037","applicationID":"72000","transactionName":"ewpYRUtfXV9dRxcEBlcQQh5JQlhFWVZB","queueTime":0,"applicationTime":327,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ8AVldADwEAVFE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+
+    <!-- Стили нужно грузить первым внешним ресурсом -->
+    <link href="https://assets.bookmate.com/pipeline/application-3387953b1bbb865ccc8e1cceb30b180f.css" media="screen" rel="stylesheet" type="text/css">
+
+    <meta content="index,follow" name="robots">
+    <!--<meta name="robots" content="index,follow">-->
+    <meta property="fb:app_id" content="124791507543584">
+
+      <meta name="description" content="Rules of privacy policy">
+
+    <title>Bookmate Online Privacy Policy</title>
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+    
+
+    
+
+    
+
+        <script language="javascript" src="http://www.everestjs.net/static/st.v2.js"></script>
+
+
+    <meta name="author" content="Bookmate">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script type="text/javascript">
+
+{// Importing `mixpanel`.
+	(function (e, t) { window.mixpanel = t; var n, r, i, s; n = e.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = ("https:" === e.location.protocol ? "https:" : "http:") + "//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"; r = e.getElementsByTagName("script")[0]; r.parentNode.insertBefore(n, r); t._i = []; t.init = function (e, n, r) { function o(e, t) { var n = t.split("."); 2 == n.length && (e = e[n[0]], t = n[1]); e[t] = function () { e.push([t].concat(Array.prototype.slice.call(arguments, 0))) } } var u = t; "undefined" !== typeof r ? u = t[r] = [] : r = "mixpanel"; u.people = u.people || []; i = ["disable", "track", "track_pageview", "track_links", "track_forms", "register", "register_once", "unregister", "identify", "alias", "name_tag", "set_config", "people.set", "people.set_once", "people.increment", "people.track_charge", "people.append"]; for (s = 0; s < i.length; s++)o(u, i[s]); t._i.push([e, n, r]) }; t.__SV = 1.2 })(document, window.mixpanel || []);
+}
+
+{// Importing `when.js`.
+	window.define = function (factory) {
+		try {
+			delete window.define;
+		} catch (e) {
+			window.define = void 0;
+		} // IE
+		window.when = factory();
+	};
+	window.define.amd = {};
+
+	(function (e, t) { "use strict"; e(function () { function e(e, t, n, i) { return r(e).then(t, n, i) } function n(e, t) { this._message = e; this.inspect = t } function r(e) { return o(function (t) { t(e) }) } function i(t) { return e(t, f) } function s() { function i(i, s, o) { e.resolve = e.resolver.resolve = function (e) { if (n) { return r(e) } n = true; i(e); return t }; e.reject = e.resolver.reject = function (e) { if (n) { return r(f(e)) } n = true; s(e); return t }; e.notify = e.resolver.notify = function (e) { o(e); return e } } var e, t, n; e = {promise: I, resolve: I, reject: I, notify: I, resolver: {resolve: I, reject: I, notify: I}}; e.promise = t = o(i); return e } function o(e) { return u(e, F.PromiseStatus && F.PromiseStatus()) } function u(e, t) { function a(e, t, n, r) { function o(i) { i._message(e, t, n, r) } s ? s.push(o) : q(function () { o(i) }) } function l() { return i ? i.inspect() : L() } function p(e, n, r) { var i = arguments; return u(function (e, t, n) { a("when", i, e, n) }, t && t.observed()) } function d(e) { if (!s) { return } i = h(e); v(s, i); s = I; if (t) { m(i, t) } } function g(e) { d(f(e)) } function y(e) { if (s) { v(s, c(e)) } } var r, i, s = []; r = new n(a, l); r.then = p; try { e(d, g, y) } catch (o) { g(o) } return r } function a(e) { return l(new p(e), function () { return C(e) }) } function f(e) { return l(new d(e), function () { return k(e) }) } function l(e, t) { return new n(function (t, n, r) { try { r(e[t].apply(e, n)) } catch (i) { r(f(i)) } }, t) } function c(e) { return new n(function (t, n, r, i) { var s = n[2]; try { i(typeof s === "function" ? s(e) : e) } catch (o) { i(o) } }) } function h(e) { if (e instanceof n) { return e } if (!(e === Object(e) && "then"in e)) { return a(e) } return o(function (t, n, r) { q(function () { try { var i = e.then; if (typeof i === "function") { M(i, e, t, n, r) } else { t(a(e)) } } catch (s) { n(s) } }) }) } function p(e) { this.value = e } function d(e) { this.reason = e } function v(e, t) { q(function () { var n, r = 0; while (n = e[r++]) { n(t) } }) } function m(e, t) { e._message("when", [function () { t.fulfilled() }, function (e) { t.rejected(e) }], z, z) } function g(e) { return e && typeof e.then === "function" } function y(t, n, r, i, s) { return e(t, function (t) { function u(r, i, s) { function d(e) { c(e) } function v(e) { l(e) } var o, u, a, f, l, c, h, p; h = t.length >>> 0; o = Math.max(0, Math.min(n, h)); a = []; u = h - o + 1; f = []; if (!o) { r(a) } else { c = function (e) { f.push(e); if (!--u) { l = c = z; i(f) } }; l = function (e) { a.push(e); if (!--o) { l = c = z; r(a) } }; for (p = 0; p < h; ++p) { if (p in t) { e(t[p], v, d, s) } } } } return o(u).then(r, i, s) }) } function b(e, t, n, r) { function i(e) { return t ? t(e[0]) : e[0] } return y(e, 1, i, n, r) } function w(e, t, n, r) { return T(e, z).then(t, n, r) } function E() { return T(arguments, z) } function S(e) { return T(e, C, k) } function x(e, t) { return T(e, t) } function T(t, n, r) { return e(t, function (t) { function i(i, s, o) { function c(t, a) { e(t, n, r).then(function (e) { u[a] = e; o(e); if (!--f) { i(u) } }, s) } var u, a, f, l; f = a = t.length >>> 0; u = []; if (!f) { i(u); return } for (l = 0; l < a; l++) { if (l in t) { c(t[l], l) } else { --f } } } return o(i) }) } function N(t, n) { var r = M(O, arguments, 1); return e(t, function (t) { var i; i = t.length; r[0] = function (t, r, s) { return e(t, function (t) { return e(r, function (e) { return n(t, e, s, i) }) }) }; return A.apply(t, r) }) } function C(e) { return{state: "fulfilled", value: e} } function k(e) { return{state: "rejected", reason: e} } function L() { return{state: "pending"} } function q(e) { if (D.push(e) === 1) { _(R) } } function R() { var e, t = 0; while (e = D[t++]) { e() } D = [] } function z(e) { return e } e.promise = o; e.resolve = r; e.reject = i; e.defer = s; e.join = E; e.all = w; e.map = x; e.reduce = N; e.settle = S; e.any = b; e.some = y; e.isPromise = g; n.prototype = {otherwise: function (e) { return this.then(I, e) }, ensure: function (e) { function t() { return r(e()) } return this.then(t, t)["yield"](this) }, yield: function (e) { return this.then(function () { return e }) }, tap: function (e) { return this.then(e)["yield"](this) }, spread: function (e) { return this.then(function (t) { return w(t, function (t) { return e.apply(I, t) }) }) }, always: function (e, t) { return this.then(e, e, t) }}; p.prototype.when = function (e) { return typeof e === "function" ? e(this.value) : this.value }; d.prototype.when = function (e, t) { if (typeof t === "function") { return t(this.reason) } else { throw this.reason } }; var A, O, M, _, D, P, H, B, j, F, I; D = []; P = t.setTimeout; F = typeof console != "undefined" ? console : e; if (typeof setImmediate === "function") { _ = setImmediate.bind(t) } else if (typeof MessageChannel !== "undefined") { var U = new MessageChannel; U.port1.onmessage = R; _ = function () { U.port2.postMessage(0) } } else if (typeof process === "object" && process.nextTick) { _ = process.nextTick } else if (typeof vertx === "object") { _ = vertx.runOnLoop } else { _ = function (e) { P(e, 0) } } H = Function.prototype; B = H.call; M = H.bind ? B.bind(B) : function (e, t) { return e.apply(t, O.call(arguments, 2)) }; j = []; O = j.slice; A = j.reduce || function (e) { var t, n, r, i, s; s = 0; t = Object(this); i = t.length >>> 0; n = arguments; if (n.length <= 1) { for (; ;) { if (s in t) { r = t[s++]; break } if (++s >= i) { throw new TypeError } } } else { r = n[1] } for (; s < i; ++s) { if (s in t) { r = e(r, t[s], s, t) } } return r }; return e }) })(typeof define === "function" && define.amd ? define : function (e) { module.exports = e() }, this);
+}
+/*
+ DIMixpanel API:
+ 0.   DIMixpanel.init(config:object);
+ 1.1. DIMixpanel.track(eventName:string, instanceName?:string);
+ 1.2. DIMixpanel.track(eventName:string, eventData:object, instanceName?:string);
+ 2.   DIMixpanel.alias(aliasName:string, instanceName?:string);
+
+ I.e.,
+ DIMixpanel.track('Click on BOOKMATE logo.');
+ DIMixpanel.track('Click on Strelka logo.', {'Logo dimensions': '100X50'}, 'Strelka campaign');
+
+ Before using DIMixpanel you should check the validity of `DIMixpanel.events`
+ and `DIMixpanel.instances` objects.
+ * */
+(function (DIMixpanel, when, windowRef) {
+	'use strict';
+
+	DIMixpanel.debugEnabled = (function (hostname) {
+		'use strict';
+
+		var devHostnames = ['dev.bookmate', 'bookmate.dev', 'localhost', 'bm.lvh.me'];
+
+		return devHostnames.some(function (devHostname) {
+			return this.indexOf(devHostname) > -1;
+		}, hostname);
+	}(windowRef.location.hostname));
+
+	DIMixpanel.events = {
+		'Login Screen Shown': function (windowRef, config) {
+			return {
+				specials: this.specials || 'none'
+			};
+		},
+		'Logged User Entered': function (windowRef, config) {
+			return undefined;
+		},
+
+        'User Landed': function(windowRef, config) {
+            var data = {
+                'Logged In' : this.loggedIn
+            };
+
+            if (window.location.pathname && window.location.pathname === '/tele2') {
+                data['special'] = 'tele2';
+            }
+
+            return data;
+        },
+
+        'Authentication Initiated' : function(windowRef, config) {
+            return {
+                source: this.source
+            };
+        },
+
+        'Authentication Successful' : function(windowRef, config) {
+            return {
+                source: this.source,
+                context: this.context
+            };
+        },
+
+        'Authentication Failed': function(windowRef, config) {
+            return {
+                source: this.source,
+                reason: this.reason
+            }
+        },
+
+		'Login Initiated': function (windowRef, config) {
+			return {
+				source: this.source
+			};
+		},
+		'Login Successful': function (windowRef, config) {
+			return {
+				source: this.source
+			};
+		},
+		'Registration Successful': function (windowRef, config) {
+			return {
+				source: this.source
+			};
+		},
+
+		'Login Failed': function (windowRef, config) {
+			return {
+				source: this.source,
+				reason: this.reason
+			};
+		},
+		'Reader Shown': function (windowRef, config) {
+			var context = DIMixpanel._getContext(windowRef, config);
+			return {
+				'Logged In': !!config.identify.unique_id,
+				Paid: this.paid,
+				context: context
+			};
+		},
+		'Please Register Screen Shown': function (windowRef, config) {
+			return undefined;
+		},
+		'Please Subscribe Screen Shown': function (windowRef, config) {
+			return undefined;
+		},
+
+        'App Download Screen Shown': function( windowRef, config ) {
+            return {
+                platform: this.platform
+            }
+        },
+
+		'Subscription Button Pressed': function (windowRef, config) {
+			return {
+				context: this.context
+			};
+		},
+		'Subscription Initiated': function (windowRef, config) {
+			return {
+				type: this.type,
+				'payment method': this.method
+			};
+		},
+		'Subscription Successful': function (windowRef, config) {
+            var
+                pathName = window.location.pathname,
+                context;
+            // end of vars
+
+            if (pathName === '/tele2') {
+                context = 'tele2_landing'
+            } else if (pathName === '/subscription') {
+                context = 'private_office';
+            }
+
+			return {
+                type: this.type,
+                'payment method': this.method,
+                'context': context
+            };
+		},
+		'Subscription Failed': function (windowRef, config) {
+            return {
+                type: this.type,
+                'payment method': this.method,
+                reason: this.reason
+            };
+        },
+        'Phone Confirmation Screen Shown' : function(windowRef, config) {
+            return {
+                context : this.context
+            };
+        },
+        'Recurrent Subscription Stopped': function(windowRef, config) {
+            return {
+                'payment method': this.method
+            };
+        },
+        'Stop Recurrent Failed': function(windowRef, config) {
+            return {
+                'payment method': this.method
+            };
+        },
+		'Big Book Page Shown': function (windowRef, config) {
+			return {
+				'Logged In': !!config.identify.unique_id
+			};
+		},
+		'Registration Failed': function (windowRef, config) {
+			return {
+				reason: this.reason
+			};
+		},
+		'Reset Password Initiated': function (windowRef, config) {
+			return undefined;
+		},
+		'Reset Password Launched': function (windowRef, config) {
+			return undefined;
+		},
+
+        'Reset Password Success': function( windowRef, config ) {
+            return undefined;
+        },
+
+		'Reset Password Error': function (windowRef, config) {
+			return {
+				reason: this.reason
+			};
+		},
+		'Install App Button Pressed': function (windowRef, config) {
+			return {
+				app     : this.app,
+                special : this.special
+			};
+		},
+		'Adding to Library': function (windowRef, config) {
+            var stdContext = DIMixpanel._getContext(windowRef, config),
+                context = this.context || {
+                    reader: 'reader',
+                    search: 'search',
+                    author: 'author',
+                    book: 'book_page'
+                }[stdContext] || 'etc';
+            return {
+                context: context
+            };
+        },
+        'Registration Button Pressed': function (windowRef, config) {
+            return {
+                context: window.location.pathname === '/tele2' ? 'tele2' : ( this.context || DIMixpanel._getContext(windowRef, config) )
+            };
+        },
+        'Paid Book Note Shown': function(windowRef, config) {
+            return undefined;
+        },
+        'Preview Button Pressed': function(windowRef, config) {
+            return undefined;
+        },
+        'NY Banner Clicked': function(windowRef, config) {
+            return undefined;
+        },
+        'Buy Present': function(windowRef, config) {
+            return undefined;
+        },
+        'Send Present Initiated': function(windowRef, config) {
+            return undefined;
+        },
+        'Send Present Success': function(windowRef, config) {
+            return undefined;
+        }
+	};
+
+	DIMixpanel._mixpanelLoaded = (function () {
+		'use strict';
+
+		var mixpanel = window.document.querySelector('script[src*="mixpanel"]'),
+			mixpanelLoaded = when.defer();
+
+		if (!mixpanel) {
+			mixpanelLoaded.reject();
+
+		} else {
+			mixpanel.addEventListener('load', mixpanelLoaded.resolve, false);
+			mixpanel.addEventListener('error', mixpanelLoaded.reject, false);
+		}
+
+		return mixpanelLoaded.promise;
+	}());
+
+	DIMixpanel._DIMixpanelInitialized = when.defer();
+
+	DIMixpanel._getContext = function (windowRef, config) {
+		'use strict';
+		var username = config.identify.unique_id || undefined,
+			location = windowRef.document.location,
+			referrer = (function (document) {
+				var link = document.createElement('a');
+				link.href = document.referrer;
+				return (!!document.referrer && link) || {};
+			}(windowRef.document)),
+			path = function (pathname) {
+				var $path = !!pathname && pathname.split('/').filter(function (bit) {
+					return bit.length > 0;
+				});
+				return $path || [];
+			},
+			locationPath = path(location.pathname),
+			referrerPath = path(referrer.pathname),
+
+			isBookmate = function (hostname) {
+				return !!hostname && (hostname.split('.').slice(-2, -1)[0] === 'bookmate');
+			},
+			contextName = function (path) {
+				if ( path[0] === username && typeof path[0] !== 'undefined' ) {
+					return 'user-library';
+				}
+				switch (path[0]) {
+				    case undefined:
+                        return 'main';
+					case 'r':
+					case 'reader':
+						return 'reader';
+					case 'authors':
+						return 'author';
+					case 'books':
+						return path[1] === 'search' ? 'search' : 'book';
+					case 'signup':
+						return 'signup';
+                    case 'tele2':
+                        return 'tele2';
+					case 'library':
+						if (path[1] === 'school') {
+							return 'school-special';
+						}
+					default:
+						return 'etc';
+				}
+			},
+			workflow = function (fromPath, toPath) {
+				var inReader = function (path) {
+					return contextName(path) === 'reader';
+				};
+				return [inReader(fromPath), inReader(toPath)];
+			},
+			$workflow = workflow(referrerPath, locationPath),
+			fromOuterSpace = !isBookmate(referrer.hostname),
+			inOuterSpace = !isBookmate(location.hostname),
+			fromReader = $workflow[0],
+			inReader = $workflow[1];
+
+		if (inOuterSpace) {
+			return 'outer-space';
+
+		} else if (fromOuterSpace && inReader) {
+			return 'direct';
+
+		} else if (fromReader || inReader) {
+			return contextName(referrerPath);
+
+		} else {
+			return contextName(locationPath);
+		}
+	};
+
+    DIMixpanel.Context = {
+        BIBLIO_NIGHT : 'library_night',
+        TELE2        : 'tele2',
+        USER_LIBRARY : 'user-library',
+        SCHOOL       : 'school-special',
+        READER       : 'reader',
+        BOOK_PAGE    : 'book',
+        SHELF        : 'shelf',
+        SEARCH       : 'search',
+        PUBLIC_SHELF : 'public_shelf',
+        RELATED_BOOK : 'related_books'
+    };
+
+    DIMixpanel._getSpecial = function() {
+
+    };
+
+	DIMixpanel._resolveInstanceName = function (instanceName) {
+		'use strict';
+		var resolvedInstanceName = instanceName || DIMixpanel.preferredInstance;
+
+		if (DIMixpanel.instances[resolvedInstanceName] === undefined) {
+			throw new TypeError('DIMixpanel: instance "' + resolvedInstanceName + '" is not recognized!'
+				+ ' Check the "DIMixpanel.instances" object.');
+		}
+
+		return resolvedInstanceName;
+	};
+
+	// If mixpanel user has been previously set up with utm-tags,
+	// the new ones (i.e. in case of utm-tags specified in the external link) will be ignored for him.
+	// This function fixes these cases with manual setting of the new tags
+	// and resetting of the old ones with the `_old` postfix.
+	DIMixpanel._fixUtmTags = function (instance) {
+		'use strict';
+		var utmTagPrefix = 'utm_',
+			oldUtmTagPostfix = '_old',
+			oldUtmTagRegExp = new RegExp('(' + oldUtmTagPostfix + ')+$'),
+			isUtmTag = function (tag) {
+				return tag.indexOf(utmTagPrefix) === 0;
+			},
+			cookieProperties = (instance.cookie && instance.cookie.properties()) || {},
+			newUtmTags = windowRef.location.search.slice(1)
+				.split('&')
+				.map(function (string) {
+					return string.split('=');
+				})
+				.filter(function (pair) {
+					return isUtmTag(pair[0]);
+				})
+				.reduce(function (tags, pair) {
+					tags[pair[0]] = pair[1];
+					return tags;
+				}, {}),
+			oldUtmTags = Object.keys(cookieProperties)
+				.filter(function (tag) {
+					return isUtmTag(tag);
+				})
+				// 'gen' stands for 'generation' as in garbage collection.
+				.reduce(function (tags, tag) {
+					var gen = (oldUtmTagRegExp.test(tag) ? 'gen1' : 'gen2');
+					tags[gen][tag] = cookieProperties[tag];
+					return tags;
+				}, {gen1: {}, gen2: {}}),
+			isConflicting = function (newUtmTags, oldUtmTags) {
+				var keys = Object.keys(newUtmTags);
+
+				return keys.length < 1 ? false : keys.some(function (key) {
+					return oldUtmTags[key] !== undefined
+						&& oldUtmTags[key] !== newUtmTags[key];
+				});
+			};
+
+		if (isConflicting(newUtmTags, oldUtmTags.gen2)) {
+
+			var oldUtmTagsFixed = Object.keys(oldUtmTags.gen2)
+				.reduce(function (oldUtmTagsFixed, tag) {
+					oldUtmTagsFixed[(tag + oldUtmTagPostfix)] = oldUtmTags.gen2[tag];
+					return oldUtmTagsFixed;
+				}, {});
+
+			instance.unregister(oldUtmTags.gen1);
+			instance.unregister(oldUtmTags.gen2);
+			instance.register(newUtmTags);
+			instance.register(oldUtmTagsFixed);
+		}
+	};
+
+	DIMixpanel._getInstance = function (instanceName) {
+		'use strict';
+		var resolvedInstanceName = DIMixpanel._resolveInstanceName(instanceName),
+			mixpanel = windowRef.mixpanel;
+
+		if (mixpanel[resolvedInstanceName] !== undefined) {
+			return mixpanel[resolvedInstanceName];
+
+		} else {
+			var config = DIMixpanel.instances[resolvedInstanceName].config,
+				instance;
+
+			mixpanel.init(config.init.token, config.set_config, resolvedInstanceName);
+			instance = mixpanel[resolvedInstanceName];
+
+			if (config.register.properties) {
+				instance.register(config.register.properties);
+			}
+			if (config.identify.unique_id) {
+				instance.identify(config.identify.unique_id);
+			}
+			if (config.name_tag.name) {
+				instance.name_tag(config.name_tag.name);
+			}
+
+			DIMixpanel._fixUtmTags(instance);
+            //instance.disable();
+			return instance;
+		}
+	};
+
+	// Mixpanel sets instances on itself like in `mixpanel.twitter.track("tweet")` for `twitter` instance.
+	// That's why the exception will be thrown in case when instance name collides with mixpanel property.
+	DIMixpanel._checkIntegrity = function () {
+		var mixpanel = windowRef.mixpanel;
+
+		Object.keys(DIMixpanel.instances)
+			.forEach(function (instance) {
+				if (mixpanel[instance] !== undefined) {
+					throw new TypeError('DIMixpanel: instance "' + instance + '" collides with the mixpanel property!'
+						+ ' You should rename it to avoid name collision.');
+				}
+			});
+	};
+
+	/* `DIMixpanel.track` API:
+	 1. DIMixpanel.track(eventName:string, instanceName?:string);
+	 2. DIMixpanel.track(eventName:string, eventData:object, instanceName?:string);
+	 * */
+	DIMixpanel.track = function (/*eventName, eventData, instanceName*/) {
+		'use strict';
+		{// Destructing the arguments list into variables.
+			var is = function (arg, type) {
+					return Object.prototype.toString.call(arg).slice(8, -1) === type;
+				},
+				arg1 = arguments[0],
+				arg2 = arguments[1],
+				arg3 = arguments[2],
+				eventName = (is(arg1, 'String') ? arg1 : undefined),
+				eventData = (is(arg2, 'Object') ? arg2 : {}),
+				instanceName = (eventData === undefined && is(arg2, 'String') ? arg2
+					: (is(arg3, 'String') ? arg3 : undefined));
+
+			if (eventName === undefined || DIMixpanel.events[eventName] === undefined) {
+				throw new TypeError('DIMixpanel: event "' + eventName + '" is not recognized!'
+					+ ' Check the "DIMixpanel.events" object.');
+			}
+		}
+
+		var done = when.defer();
+
+		when.all([DIMixpanel._mixpanelLoaded, DIMixpanel._DIMixpanelInitialized.promise])
+			.then(function () {
+				var resolvedInstanceName = DIMixpanel._resolveInstanceName(instanceName),
+					instance = DIMixpanel._getInstance(resolvedInstanceName),
+					config = DIMixpanel.instances[resolvedInstanceName].config,
+					eventProperties = DIMixpanel.events[eventName].call(eventData, windowRef, config) || {};
+
+				instance.track(eventName, eventProperties, done.resolve);
+			});
+
+		return done.promise;
+	};
+
+	/* `DIMixpanel.alias` API:
+	 1. DIMixpanel.alias(aliasName:string, instanceName?:string);
+	 * */
+	DIMixpanel.alias = function (/*aliasName, instanceName*/) {
+		'use strict';
+		{// Destructing the arguments list into variables.
+			var is = function (arg, type) {
+					return Object.prototype.toString.call(arg).slice(8, -1) === type;
+				},
+				arg1 = arguments[0],
+				arg2 = arguments[1],
+				aliasName = (is(arg1, 'String') ? arg1 : undefined),
+				instanceName = (is(arg2, 'String') ? arg2 : undefined);
+
+			if (aliasName === undefined) {
+				throw new TypeError('DIMixpanel: alias is not recognized!'
+					+ ' It should be a non-empty string.');
+			}
+		}
+
+		var done = when.defer();
+
+		when.all([DIMixpanel._mixpanelLoaded, DIMixpanel._DIMixpanelInitialized.promise])
+			.then(function () {
+				var resolvedInstanceName = DIMixpanel._resolveInstanceName(instanceName),
+					instance = DIMixpanel._getInstance(resolvedInstanceName),
+					config = DIMixpanel.instances[resolvedInstanceName].config;
+
+				if (!config.identify.unique_id) {
+					config.identify.unique_id = aliasName;
+					instance.identify(config.identify.unique_id);
+				}
+
+				instance.alias(aliasName);
+				done.resolve();
+			});
+
+		return done.promise;
+	};
+
+	DIMixpanel.init = function (config) {
+
+		DIMixpanel.preferredInstance = 'bookmate';
+
+		DIMixpanel.instances = {
+			'bookmate': {
+				config: {
+					register: {
+						properties: config['bookmate'].register
+					},
+					init: {
+						token: config['bookmate'].init
+					},
+					identify: {
+						unique_id: config['bookmate'].identify
+					},
+					name_tag: {
+						name: config['bookmate'].name_tag
+					},
+					disable: [],
+					set_config: {
+						/*If true, the Mixpanel cookie is set across all subdomains of your site, e.g. www.example.com, http://example.com. Default is true.*/
+						cross_subdomain_cookie: true,
+						/*Manually set a name for your Mixpanel cookie. If not set, we will generate a name.*/
+						cookie_name: undefined,
+						/*If true, we save Google adwords query params such as utm_source and utm_campaign as super properties. Default is true.*/
+						store_google: true,
+						/*If true, we automatically save information about user's referrer the first time we see them. Default is true.*/
+						save_referrer: true,
+						/*If true, data sent bypasses the normal queues. Only useful if Mixpanel data collection is backed up for some reason and you are just getting started. Test queue is rate-limited and should not be used in production. Default is false.*/
+						test: false,
+						/*If true, the server will respond with JSON rather than just 0 or 1.  The JSON includes an error message if an error occurs, and can help debug integration issues.  It is not recommended to leave verbose enabled since it will slow down server responses.  Default is false.*/
+						verbose: DIMixpanel.debugEnabled,
+						/*If true, we track a pageview event for Streams each time the library is loaded. Default is true.*/
+						track_pageview: true,
+						/*If true, we print debugging information to the Javascript console each time you make a track call. Default is false.*/
+						debug: DIMixpanel.debugEnabled,
+						/*Timeout in milliseconds for track_links() and track_forms(). If the timeout expires, the initial link click or form submission is immediately continued. Default is 300 ms.*/
+						track_links_timeout: 300,
+						/*Number of days for Mixpanel super properties cookie to expire. Default is 365.*/
+						cookie_expiration: 365,
+						/*If true, we automatically convert super properties from the previous version of the library. Default is false.*/
+						upgrade: false,
+						/*If set, function is called just before the initial track_pageview call. This allows you to call identify() or name_tag() before sending that first pageview.*/
+						loaded: function () {
+						}
+					}
+				}
+			},
+			'strelka': {
+				config: {
+					register: {
+						properties: config['strelka'].register
+					},
+					init: {
+						token: config['strelka'].init
+					},
+					identify: {
+						unique_id: config['strelka'].identify
+					},
+					name_tag: {
+						name: config['strelka'].name_tag
+					},
+					disable: [],
+					set_config: {
+						/*If true, the Mixpanel cookie is set across all subdomains of your site, e.g. www.example.com, http://example.com. Default is true.*/
+						cross_subdomain_cookie: true,
+						/*Manually set a name for your Mixpanel cookie. If not set, we will generate a name.*/
+						cookie_name: undefined,
+						/*If true, we save Google adwords query params such as utm_source and utm_campaign as super properties. Default is true.*/
+						store_google: true,
+						/*If true, we automatically save information about user's referrer the first time we see them. Default is true.*/
+						save_referrer: true,
+						/*If true, data sent bypasses the normal queues. Only useful if Mixpanel data collection is backed up for some reason and you are just getting started. Test queue is rate-limited and should not be used in production. Default is false.*/
+						test: false,
+						/*If true, the server will respond with JSON rather than just 0 or 1.  The JSON includes an error message if an error occurs, and can help debug integration issues.  It is not recommended to leave verbose enabled since it will slow down server responses.  Default is false.*/
+						verbose: DIMixpanel.debugEnabled,
+						/*If true, we track a pageview event for Streams each time the library is loaded. Default is true.*/
+						track_pageview: true,
+						/*If true, we print debugging information to the Javascript console each time you make a track call. Default is false.*/
+						debug: DIMixpanel.debugEnabled,
+						/*Timeout in milliseconds for track_links() and track_forms(). If the timeout expires, the initial link click or form submission is immediately continued. Default is 300 ms.*/
+						track_links_timeout: 300,
+						/*Number of days for Mixpanel super properties cookie to expire. Default is 365.*/
+						cookie_expiration: 365,
+						/*If true, we automatically convert super properties from the previous version of the library. Default is false.*/
+						upgrade: false,
+						/*If set, function is called just before the initial track_pageview call. This allows you to call identify() or name_tag() before sending that first pageview.*/
+						loaded: function () {
+						}
+					}
+				}
+			},
+			'test': {
+				config: {
+					register: {
+						properties: config['test'].register
+					},
+					init: {
+						token: config['test'].init
+					},
+					identify: {
+						unique_id: config['test'].identify
+					},
+					name_tag: {
+						name: config['test'].name_tag
+					},
+					disable: [],
+					set_config: {
+						/*If true, the Mixpanel cookie is set across all subdomains of your site, e.g. www.example.com, http://example.com. Default is true.*/
+						cross_subdomain_cookie: true,
+						/*Manually set a name for your Mixpanel cookie. If not set, we will generate a name.*/
+						cookie_name: undefined,
+						/*If true, we save Google adwords query params such as utm_source and utm_campaign as super properties. Default is true.*/
+						store_google: true,
+						/*If true, we automatically save information about user's referrer the first time we see them. Default is true.*/
+						save_referrer: true,
+						/*If true, data sent bypasses the normal queues. Only useful if Mixpanel data collection is backed up for some reason and you are just getting started. Test queue is rate-limited and should not be used in production. Default is false.*/
+						test: false,
+						/*If true, the server will respond with JSON rather than just 0 or 1.  The JSON includes an error message if an error occurs, and can help debug integration issues.  It is not recommended to leave verbose enabled since it will slow down server responses.  Default is false.*/
+						verbose: DIMixpanel.debugEnabled,
+						/*If true, we track a pageview event for Streams each time the library is loaded. Default is true.*/
+						track_pageview: true,
+						/*If true, we print debugging information to the Javascript console each time you make a track call. Default is false.*/
+						debug: DIMixpanel.debugEnabled,
+						/*Timeout in milliseconds for track_links() and track_forms(). If the timeout expires, the initial link click or form submission is immediately continued. Default is 300 ms.*/
+						track_links_timeout: 300,
+						/*Number of days for Mixpanel super properties cookie to expire. Default is 365.*/
+						cookie_expiration: 365,
+						/*If true, we automatically convert super properties from the previous version of the library. Default is false.*/
+						upgrade: false,
+						/*If set, function is called just before the initial track_pageview call. This allows you to call identify() or name_tag() before sending that first pageview.*/
+						loaded: function () {
+						}
+					}
+				}
+			}
+		};
+
+		{// DIMixpanel initialization.
+			DIMixpanel._checkIntegrity();
+			DIMixpanel._DIMixpanelInitialized.resolve();
+		}
+	};
+}((window.DIMixpanel = window.DIMixpanel || {}), window.when, window));
+
+(function () {
+	'use strict';
+
+
+	var init = '0e0360d1a05515525a1f0cf161b97cd8',
+		identify = "",
+		name_tag = undefined;
+
+	window.DIMixpanel.init({
+		'bookmate': {
+            register: {
+                'App Version': '3'
+            },
+			init: init,
+			identify: identify,
+			name_tag: name_tag
+		},
+		'strelka': {
+            register: {
+                'App Version': '3',
+                'utm_source': 'strelka',
+                'utm_medium': 'wifi',
+                'utm_campaign': 'strelkawifi'
+            },
+            init: init,
+            identify: identify,
+            name_tag: name_tag
+        },
+		'test': {
+			register: {
+				'App Version': 'test-3'
+			},
+			init: init,
+			identify: identify,
+			name_tag: name_tag
+		}
+	});
+
+}());
+</script>
+
+
+    
+  </head>
+
+  <body data-config="{&quot;debug&quot;:false,&quot;environment&quot;:&quot;production&quot;,&quot;assetHost&quot;:&quot;https://assets.bookmate.com&quot;,&quot;scriptTemplate&quot;:&quot;about&quot;,&quot;action&quot;:&quot;privacy&quot;,&quot;version&quot;:&quot;end2-8223-g94f7fe5&quot;,&quot;userInfo&quot;:{&quot;subscription&quot;:{&quot;subscribed&quot;:false}},&quot;book&quot;:{},&quot;viewingUser&quot;:{}}" class="about locale-en" data-scripts="">
+      <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter1646337 = new Ya.Metrika({id:1646337,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    trackHash:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/1646337" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+      <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = _tmr || [];
+    _tmr.push({id: "2523471", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w) {
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window);
+</script><noscript><div style="position:absolute;left:-10000px;">
+    <img src="//top-fwz1.mail.ru/counter?id=2523471;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+
+    <script type="text/javascript">
+    window.onload = function() {
+
+        var SOCIOMANTIC_DESC_MAX_LENGTH = 90,
+
+            pathname  = window.location.pathname,
+            parts     = pathname.slice(1).split('/'),
+            smProduct, tmpElement, tmp,
+
+            removeSpecChars = function(string) {
+                if (!string) {
+                    return '';
+                }
+                string = string.replace(/&nbsp;/gi, '');
+                string = string.replace(/&[a-z0-9#]+;/gi, '');
+                return string;
+            };
+
+        if (parts[0]) {
+            switch (parts[0]) {
+                case 'authors':
+                    smProduct = { category : decodeURIComponent(parts[1]) };
+                    break;
+
+                case 'lists':
+                    smProduct = { category : document.querySelector('.list-info-text').innerHTML };
+                    break;
+
+                case 'books':
+                    if (parts[1] === 'search') {
+                        smProduct = { category : decodeURIComponent(window.location.search).slice(1).split('&')[0].split('=')[1] };
+
+
+                    } else {
+                        if (document.querySelector('[role=book-cover]') === null) {
+                            return;
+                        }
+
+                        (function(){
+
+                            var bookTitle = removeSpecChars(document.querySelector('[role=bookpage-title]').innerHTML),
+                                bookAuthor = removeSpecChars(document.querySelector('[role=bookpage-author] .bookpage-author-link').innerHTML),
+                                bookDesc   = ['', '', '— читайте на Bookmate.'],
+                                symbolsLeft;
+
+                            bookAuthor.indexOf(',') !== -1 ? bookDesc[0] = bookAuthor.split(',')[0] : bookDesc[0] = bookAuthor;
+
+                            symbolsLeft = SOCIOMANTIC_DESC_MAX_LENGTH - bookDesc.join(' ').length - 5; /* погрешность */
+                            if (bookTitle.length > symbolsLeft) {
+                                bookDesc[1] = bookTitle.slice(0, symbolsLeft - 3);
+                                bookDesc[1] = bookDesc[1].slice(0, bookDesc[1].lastIndexOf(' '));
+                                bookDesc[1] = '"' + bookDesc[1] + '..."';
+                            } else {
+                                bookDesc[1] = '"' + bookTitle + '"';
+                            }
+
+                            smProduct = {
+                                identifier  : parts[1],
+                                fn          : removeSpecChars(document.querySelector('[role=bookpage-title]').innerHTML),
+                                //description : document.querySelector('[role=bookpage-annotation]').innerHTML,
+                                description : bookDesc.join(' '),
+                                category    : [],
+                                brand       : document.querySelector('[role=bookpage-author] .bookpage-author-link').innerHTML,
+                                price       : '150',
+                                amount      : '150',
+                                currency    : 'RUB',
+                                url         : window.location.href
+                            };
+
+                            /* product photo */
+                            tmp = 'http://assets.bookmate.com' + document.querySelector('[role=book-cover]').getAttribute('src');
+                            smProduct.photo = tmp.slice(0, tmp.lastIndexOf('?'));
+
+                            if (tmpElement = document.querySelector('[role=bookpage-tags]')) {
+                                Array.prototype.slice.call(tmpElement.querySelectorAll('[role=bookpage-tags-list-item-link]'), 0).forEach(function(elem) {
+                                    smProduct.category.push(elem.innerHTML);
+                                });
+                            } else if (document.querySelector('[data-availability]') !== null) {
+                                switch(document.querySelector('[data-availability]').getAttribute('data-availability')) {
+                                    case 'free':
+                                        smProduct.category.push('free');
+                                        break;
+                                    case 'paid':
+                                        smProduct.category.push('paid');
+                                        break;
+                                    case 'private':
+                                        smProduct.category.push('self-upload');
+                                        break;
+                                }
+                            }
+
+
+                        }());
+                    }
+
+                    break;
+            }
+        }
+
+        if (smProduct) {
+            window.product = smProduct;
+        }
+
+
+        /*(function(){
+            var s   = document.createElement('script');
+            var x   = document.getElementsByTagName('script')[0];
+            s.type  = 'text/javascript';
+            s.async = true;
+            s.src   = ('https:'==document.location.protocol?'https://':'http://')
+                    + 'eu-sonar.sociomantic.com/js/2010-07-01/adpan/bookmate-ru';
+            x.parentNode.insertBefore( s, x );
+        })();*/
+
+    };
+</script>
+
+    <!-- Продвинутая ассинхронная загрузка ядра JS и нераспределенных скриптов application.js -->
+    <script type="text/javascript">
+      // !function(e,t,r){function n(){for(;d[0]&&"loaded"==d[0][f];)c=d.shift(),c[o]=!i.parentNode.insertBefore(c,i)}for(var s,a,c,d=[],i=e.scripts[0],o="onreadystatechange",f="readyState";s=r.shift();)a=e.createElement(t),"async"in i?(a.async=!1,e.head.appendChild(a)):i[f]?(d.push(a),a[o]=n):e.write("<"+t+' src="'+s+'" defer></'+t+">"),a.src=s}(document,"script",[
+          // '/javascript/core.min.js?end2-8223-g94f7fe5'
+      // ]);
+    </script>
+
+    <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+
+
+    <script id="bookmate-popup-embed-template" type="text/template"><div class="bm-popup-embed"><input name="authenticity_token" type="hidden" value="alXI5TDsbCkvQ/jL9H2pVz3Rt8Bco8JPDP1YGPhST54=" /><div class="bm-popup-header"><div class="bm-popup-header-text header-select-method">Поставить книгу на другой сайт</div></div><div class="bm-popup-inner-content"><div class="bm-popup-subheader">Код для сайта</div><textarea class="bm-input bm-popup-embed-code" readonly="readonly" role="embed-code"><a href="http://bookmate.com/r#d=%BOOK_UUID%" onclick="window.open(&#39;http://bookmate.com/r#d=%BOOK_UUID%&#39;, &#39;Bookmate&#39;, {}); return false;" style="display:block;height:40px;outline:medium none;text-align:left;width:113px;text-decoration:none" target="_blank"><img height="40px" src="http://bookmate.com/pipeline/embed/read_button_static_en@2x.png" width="113px" /></a></textarea><div class="bm-popup-subheader">Пример кнопки</div><div class="bm-popup-embed-button-preview"></div></div></div></script>
+    <script id="bookmate-popup-payment-template" type="text/template"><div class="bookmate-popup-payment"><input name="authenticity_token" type="hidden" value="alXI5TDsbCkvQ/jL9H2pVz3Rt8Bco8JPDP1YGPhST54=" /><div class="popup-header"><div class="popup-header-text header-select-method">Choose a payment method</div><div class="popup-header-text header-payment-success">Subscription successful</div></div><div class="popup-payment-content-wrapper" slide="first"><div class="popup-payment-content slide-payment-details"><div class="payment-buttons-wrapper"><div class="bookmate-button popup-payment-button popup-payment-button-visa"><div class="button-icon-inverted icon-visa"></div><div class="button-icon icon-visa"></div></div><div class="bookmate-button popup-payment-button popup-payment-button-qiwi"><div class="button-icon-inverted icon-qiwi"></div><div class="button-icon icon-qiwi"></div></div><div class="bookmate-button popup-payment-button popup-payment-button-paypal"><div class="button-icon-inverted icon-paypal"></div><div class="button-icon icon-paypal"></div></div><div class="bookmate-button popup-payment-button popup-payment-button-webmoney"><div class="button-icon-inverted icon-webmoney"></div><div class="button-icon icon-webmoney"></div></div><div class="bookmate-button popup-payment-button popup-payment-button-yandex-money"><div class="button-icon-inverted icon-yandex-money"></div><div class="button-icon icon-yandex-money"></div></div><div class="bookmate-button popup-payment-button popup-payment-button-sms"><span class="button-text">SMS</span></div><div class="bookmate-button popup-payment-button popup-payment-button-promo-code"><span class="button-text">Gift code</span></div></div><div class="payment-dynamic-content"><div class="payment-subscription-interval" hidden="hidden"><div class="interval-buttons interval-buttons-webmoney"><a href="/payments/wmr/pay?amount=150" class="bookmate-button bookmate-button-grey button-interval-month" data-period="month">1 month — 150 rubles</a><a href="/payments/wmr/pay?amount=1500" class="bookmate-button bookmate-button-green button-interval-year" data-period="year">1 year — 1500 rubles</a></div><div class="interval-buttons interval-buttons-paypal"><form action="/payments/paypal/checkout" class="interval-form interval-form-month" method="post"><input data-period="month" name="amount" type="hidden" value="5.0" /><input class="bookmate-button bookmate-button-grey button-interval-month" type="submit" value="1 month — $5.00" /></form><form action="/payments/paypal/checkout" class="interval-form interval-form-year" method="post"><input data-period="year" name="amount" type="hidden" value="50.0" /><input class="bookmate-button bookmate-button-green button-interval-year" type="submit" value="1 year — $50.00" /></form></div><div class="interval-buttons interval-buttons-yandex-money" hidden="hidden"><a href="/payments/yandex/pay?amount=150" class="bookmate-button bookmate-button-grey button-interval-month" data-period="month">1 month — 150 rubles</a><a href="/payments/yandex/pay?amount=1500" class="bookmate-button bookmate-button-green button-interval-year" data-period="year">1 year — 1500 rubles</a></div><div class="interval-buttons interval-buttons-visa" hidden="hidden"><button class="bookmate-button bookmate-button-grey button-interval-month">Monthly — 150 rubles</button><button class="bookmate-button bookmate-button-green button-interval-year">Annual — 1500 rubles</button></div><div class="interval-buttons interval-buttons-qiwi" hidden="hidden"><button class="bookmate-button bookmate-button-grey button-interval-month" value="150">1 month — 150 rubles</button><button class="bookmate-button bookmate-button-green button-interval-year" value="1500">1 year — 1500 rubles</button></div></div><div class="payment-details payment-details-visa" hidden="hidden"><div class="payment-details-text">Your subscription will be automatically renewed until cancelled<br /><br /><a href="/about/russian_standard" class="payment-details-link">More info on payment via card</a></div></div><div class="payment-details payment-details-yandex-money" hidden="hidden"><div class="payment-details-text">With Yandex.Money you can easily and securely pay for goods and services on the Internet. After filling the form in our online store, you will be redirected to Yandex.Money website where you can complete your payment. If you do not have Yandex.Money account you can create one on the website.</div></div><div class="payment-details payment-details-paypal" hidden="hidden"><div class="payment-details-text">You will be redirected to the payment operator&#39;s website.</div></div><div class="payment-details payment-details-qiwi" hidden="hidden"><div class="payment-details-text">You will be redirected to the payment operator&#39;s website.</div></div><div class="payment-details payment-details-webmoney" hidden="hidden"><div class="payment-details-text">You will be redirected to the payment operator&#39;s website.</div></div><div class="payment-details payment-details-sms" hidden="hidden"><div class="payment-details-text">To purchase 1 month subscription, send an SMS with "book " to 7498.</div><div class="payment-details-text">The price of subscription when processed through SMS ranges from <span class="text-emphasis">250 to 360 rubles</span> including the operator's charge.<br />This service is only available in Russia.<br /><a href="http://rates.pl3.com/default.aspx" class="payment-details-link" target="_blank">Details of operator charges</a></div></div><div class="payment-form payment-form-visa" hidden="hidden"><div class="form-item form-item-card-number" data-card-type="unknown"><div class="form-item-label"><div class="form-item-label-text">Card number</div></div><input class="bookmate-input form-visa-input-card-number" type="text" /><div class="card-type-image-wrapper"><div class="card-type-image"></div></div></div><div class="form-item form-item-card-till-date"><div class="form-item-label"><div class="form-item-label-text">Expiration month and year</div></div><input class="bookmate-input form-visa-input-card-month" maxlength="2" type="text" /><input class="bookmate-input form-visa-input-card-year" maxlength="2" type="text" /></div><div class="form-item form-item-submit"><div class="bookmate-button bookmate-button-green button-submit" disabled="disabled">Pay</div><div class="form-item-error" hidden="hidden">Invalid card data</div></div><div class="payment-details form-visa-payment-details"><div class="payment-details-text">This website supports 128 bit encryption. Information on this page is secure.</div></div></div><div class="payment-form payment-form-qiwi" hidden="hidden"><div class="form-item form-item-phone-number"><div class="form-item-label"><div class="form-item-label-text">Phone number</div></div><input class="bookmate-input form-qiwi-input-phone-number" type="phone" value="+7" /></div><div class="form-item form-item-submit"><button class="bookmate-button bookmate-button-green button-submit" disabled="disabled">Pay</button></div><div class="payment-details form-qiwi-payment-details"><div class="payment-details-text">You will be redirected to the payment operator&#39;s website.</div></div></div><div class="payment-form payment-form-sms" hidden="hidden"><div class="form-text text-emphasis">Waiting for your SMS</div><div class="form-loader-sms"></div><div class="form-text">The page will be reloaded after the payment is processed.</div></div><div class="payment-form payment-subscription-code" hidden="hidden"><div action="/payments/promo/use_v2" class="promo-code-form" method="POST"><div class="form-text">Enter your promo-code below</div><div class="form-item form-item-code"><input autocapitalize="off" autocomplete="off" class="form-input bookmate-input promo-code-input" name="code" placeholder="Enter the code" type="text" /><button class="bookmate-button bookmate-button-green promo-code-submit" disabled="disabled">Submit</button><div class="error-message" hidden="hidden"></div></div></div></div></div></div><div class="popup-payment-content slide-payment-success"><div class="slide-payment-success-content"><div class="icon-success"></div><div class="text-success">Your subscription expires<br/>on <span class="date-till">&nbsp;25/02/2015</span></div><button class="bookmate-button bookmate-button-green button-close">Close</button></div></div></div></div></script>
+
+    
+  <section class="overlayContainer">
+  <div class="centeriser">
+    
+<section class="popupContainer embedCode">
+  <header class="underlined">
+    <h2>Embed book code for your site</h2>
+  </header>
+
+  <h3>Button</h3>
+  
+  <img alt="Read_button_static_en" height="40" hidpi_src="https://assets.bookmate.com/pipeline/embed/read_button_static_en@2x-bc6671771fe710ff0aca95575df96068.png" src="https://assets.bookmate.com/pipeline/embed/read_button_static_en-5d8b4926b0a2766fc7505d44a49fa4e9.png">
+
+  <hr>
+
+  <h3>Embed code</h3>
+
+  <form>
+    <textarea class="embedCode">&lt;a onclick="window.open('http://bookmate.com', 'Bookmate', {}); return false;" target="_blank" style="display:block;height:40px;outline:medium none;text-align:left;width:113px;text-decoration:none" href="http://bookmate.com"&gt;&lt;img width="113px" height="40px" src="http://bookmate.com/pipeline/embed/read_button_static_en@2x.png"/&gt;&lt;/a&gt;
+    </textarea>
+  </form>
+
+  <div class="closePopup btn large">Close</div>
+</section>
+
+    <section class="popupContainer bookMistake">
+  <header class="underlined">
+    <h2>An error in the book report</h2>
+  </header>
+
+  <p class="thankYou">
+    Thank's for Your attention!
+  </p>
+
+  <div class="loader"></div>
+
+  <form accept-charset="UTF-8" action="/feedback/book_mistake" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+    <meta content="authenticity_token" name="csrf-param">
+<meta content="alXI5TDsbCkvQ/jL9H2pVz3Rt8Bco8JPDP1YGPhST54=" name="csrf-token">
+
+    <input id="mistake_url" name="mistake[url]" type="hidden">
+
+    <select id="mistake_subject" name="mistake[subject]"><optgroup label="Catalogue errors"><option value="wrong name of the author or title">wrong name of the author or title</option>
+<option value="annotation or illustration does not match the content">annotation or illustration does not match the content</option>
+<option value="errors, typos in the annotation, the book title or author's name">errors, typos in the annotation, the book title or author's name</option>
+<option value="other...">other...</option></optgroup><optgroup label="Content errors"><option value="incomplete version of the book">incomplete version of the book</option>
+<option value="typos, errors in the text">typos, errors in the text</option>
+<option value="other...">other...</option></optgroup><optgroup label="Application errors"><option value="the book doesn't open">the book doesn't open</option>
+<option value="the mobile application crashes when reading">the mobile application crashes when reading</option>
+<option value="it takes too long to load (or doesn't load at all)">it takes too long to load (or doesn't load at all)</option>
+<option value="links or footnotes in the book do not open">links or footnotes in the book do not open</option>
+<option value="other...">other...</option></optgroup><optgroup label=""><option value="Wishes and comments" selected="selected">Wishes and comments</option></optgroup></select>
+
+    <textarea id="mistake_text" name="mistake[text]" placeholder="Please describe what's happening in details"></textarea>
+
+    <input class="btn large green" name="commit" type="submit" value="Send">
+    <div class="closePopup btn large">Close</div>
+</form></section>
+
+  </div>
+</section>
+
+  <input type="checkbox" class="bookmate-popup-auth-toggle" id="bookmate-auth-popup-toggle" autocomplete="off">
+<div class="bookmate-popup-auth-wrapper">
+  <label class="bookmate-popup-auth-overlay"></label>
+  <div class="bookmate-popup-auth">
+    
+
+
+<!--<section class="main auth layout-auth">
+  <section class="auth-block" id="byNetworks"><span class="loginWith">Join or login</span>
+
+<span class="auth-networks-buttons-wrapper">
+    <a href="/auth/facebook" class="bookmate-button bookmate-button-facebook checkIsClicked" id="facebookLogin">Facebook</a>
+
+    <a href="/auth/twitter" class="bookmate-button bookmate-button-twitter checkIsClicked" id="twitterLogin">Twitter</a>
+</span>
+<div class="auth-side-content">
+    <button class="bookmate-button bookmate-button-grey" id="toByEmail">Join or login by e-mail</button>
+</div><script>
+	window.addEventListener('load', function () {
+		$('#facebookLogin')
+            .on('click', Bookmate.beforeDefault(function (event) {
+                return DIMixpanel.track('Login Initiated', {source: 'Facebook'});
+            }, true));
+
+    	$('#twitterLogin')
+    		.on('click', Bookmate.beforeDefault(function (event) {
+    			return DIMixpanel.track('Login Initiated', {source: 'Twitter'});
+    		}, true));
+
+    	$('#toByEmail')
+    		.on('click', Bookmate.beforeDefault(function (event) {
+    			return DIMixpanel.track('Login Initiated', {source: 'email'});
+    		}, true));
+    });
+</script>
+</section>
+  <section class="auth-block" id="byEmail">
+<form accept-charset="UTF-8" action="/entrance" class="formtastic_auth formtastic" data-remote="true" id="new_user_session" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="alXI5TDsbCkvQ/jL9H2pVz3Rt8Bco8JPDP1YGPhST54=" /></div>
+  <input type="hidden" name="redirect" value="true" id="new-user-session-redirect-toggle"/>
+  
+  <fieldset class="formtastic-inputs"><ol>
+      <li class="string input required stringish" id="user_session_login_input"><input class="bookmate-input" id="user_session_login" name="user_session[email]" placeholder="E-mail address" type="text" />
+
+</li>
+
+    <li class="password input required stringish" id="user_session_password_input"><input class="bookmate-input" id="user_session_password" name="user_session[password]" placeholder="Password" type="password" />
+
+</li>
+</ol></fieldset>
+<input class="bookmate-button bookmate-button-green checkIsClicked" id="entrance_by_email_button" name="commit" type="submit" value="Join or login" />
+</form>
+<span class="auth-block-forgot-box">
+    <a href="#" class="auth-block-forgot-box-password" id="toForgotForm">Forgot your password?</a>
+  <span class='auth-block-forgot-box-terms'>
+
+    By joining you agree to our
+    <a href="/about/eula" class="auth-block-forgot-box-terms-link" target="__blank">Terms of Use</a>
+  </span>
+</span>
+
+
+<div class="auth-side-content">
+    <a href="#" class="bookmate-button bookmate-button-grey" id="toByNetworks">Back</a>
+</div>
+
+
+</section>
+  <section class="auth-block" id="forgotForm"><form accept-charset="UTF-8" action="http://bookmate.com/reset" class="formtastic_auth formtastic" data-remote="true" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="alXI5TDsbCkvQ/jL9H2pVz3Rt8Bco8JPDP1YGPhST54=" /></div>
+
+  <input class="bookmate-input" id="user_login" name="user[login]" placeholder="Your email address" size="30" type="text" />
+  <input class="bookmate-button bookmate-button-grey checkIsClicked" id="reset" name="commit" type="submit" value="Reset my password" />
+  <div class="email-validation-error" hidden="hidden">Invalid email address</div>
+</form>
+<div class="auth-side-content">
+    <a href="#" class="bookmate-button bookmate-button-grey" id="resetCancel">Cancel</a>
+</div>
+</section>
+</section>
+<script>
+window.addEventListener('load', function () {
+    $('#toForgotForm')
+        .on('click', Bookmate.beforeDefault(function (event) {
+            return DIMixpanel.track('Reset Password Initiated');
+        }, true));
+
+    $('#reset')
+        .on('submit', Bookmate.beforeDefault(function (event) {
+            return DIMixpanel.track('Reset Password Launched');
+        }, true));
+
+    $('#entrance_by_email_button')
+        .on('submit', Bookmate.beforeDefault(function (event) {
+            return DIMixpanel.track('Login Initiated', {source: 'email'});
+        }, true));
+});
+</script>-->
+
+
+<section class="authpopup">
+    <!--Начальный экран выбора-->
+<form class="authpopup-form authpopup-inital">
+    <h2 class="authpopup-header m-bookmate-logo"></h2>
+    <div class="authpopup-content">
+            <button class="authpopup-button m-fb m-long bookmate-button bookmate-button-blue js-fb">
+                <span class="authpopup-button-icon">F</span>
+                <span class="authpopup-button-text">Login with Facebook</span>
+            </button>
+        <button data-test="mail-phone-button" class="authpopup-button m-mail-or-phone bookmate-button bookmate-button-grey m-long js-mail-or-phone">
+            <span class="authpopup-button-text">E-mail or Phone</span>
+        </button>
+        <p class="authpopup-additional-text">or connect with</p>
+        <div class="authpopup-bottomrow">
+                <button class="authpopup-button bookmate-button bookmate-button-grey m-vk m-short js-vk">
+                    <span class="authpopup-button-icon">V</span>
+                    <span class="authpopup-button-text">Vkontakte</span>
+                </button>
+            <button class="authpopup-button bookmate-button bookmate-button-grey m-tw m-short js-tw">
+                <span class="authpopup-button-icon">T</span>
+                <span class="authpopup-button-text">Twitter</span>
+            </button>
+        </div>
+    </div>
+</form>
+
+    <!--Экран входа\регистрации-->
+<form class="authpopup-form authpopup-login">
+    <h2 class="authpopup-header m-bookmate-logo"></h2>
+    <div class="authpopup-content">
+        <input data-test="login-input" type="text" class="authpopup-input bookmate-input js-login-input" placeholder="E-mail or phone number">
+        <input data-test="pass-input" type="password" class="authpopup-input bookmate-input js-pass-input" placeholder="Password">
+        <p class="authpopup-login-terms js-terms">By joining you agree to <a href="/about/eula" class="authpopup-login-termslink" target="_blank">our Terms of Use</a></p>
+        <p class="authpopup-login-status js-status"></p>
+        <div class="authpopup-bottomrow">
+            <button data-test="login-join-button" type="submit" class="authpopup-button bookmate-button m-long js-enter" disabled="disabled">
+                <span class="authpopup-button-text">Join or login</span>
+            </button>
+        </div>
+        <div class="authpopup-underbottom">
+            <button class="authpopup-underbottom-button js-forgot">Forgot your password?</button>
+        </div>
+    </div>
+</form>
+
+    <!--Экран ввода кода подтверждения-->
+<form class="authpopup-form authpopup-entercode">
+    <h2 class="authpopup-header m-simple-text">Confirmation code</h2>
+    <div class="authpopup-content">
+        <p class="authpopup-desc">Within 30 seconds, you’ll receive a free SMS on your phone with the confirmation code</p>
+        <input type="text" class="authpopup-input bookmate-input js-code-input" placeholder="Enter the code">
+        <p class="authpopup-entercode-status js-status"></p>
+        <div class="authpopup-bottomrow">
+            <button type="submit" class="authpopup-button bookmate-button bookmate-button-green m-long js-submit" disabled="disabled">
+                <span class="authpopup-button-text">Confirm registration</span>
+            </button>
+        </div>
+        <div class="authpopup-underbottom">
+            <button class="authpopup-underbottom-button js-code-resend">The code doesn’t come</button>
+        </div>
+    </div>
+</form>
+    <!--Экран повторного ввода кода подтверждения-->
+<form class="authpopup-form authpopup-coderesend">
+    <h2 class="authpopup-header m-simple-text">Confirmation code</h2>
+    <div class="authpopup-content">
+        <p class="authpopup-desc">We just sent you another SMS confirmation</p>
+        <input type="text" class="authpopup-input bookmate-input js-code-input" placeholder="Enter the code">
+        <p class="authpopup-entercode-status js-status"></p>
+        <div class="authpopup-bottomrow">
+            <button type="submit" class="authpopup-button bookmate-button bookmate-button-green m-long js-submit" disabled="disabled">
+                <span class="authpopup-button-text">Confirm registration</span>
+            </button>
+        </div>
+        <div class="authpopup-underbottom">
+            <button class="authpopup-underbottom-button js-change-number">Change number</button>
+        </div>
+    </div>
+</form>
+    <!--Экран восстановления пароля-->
+<form class="authpopup-form authpopup-passrepair">
+    <h2 class="authpopup-header m-simple-text">Forgot your password</h2>
+    <div class="authpopup-content">
+        <input type="text" class="authpopup-input bookmate-input js-login-input" placeholder="E-mail, login or phone number">
+        <p class="authpopup-passrepair-status js-status"></p>
+        <div class="authpopup-bottomrow">
+            <button type="reset" class="authpopup-button bookmate-button bookmate-button-grey m-short js-cancel">
+                <span class="authpopup-button-text">Cancel</span>
+            </button>
+            <button type="submit" class="authpopup-button bookmate-button bookmate-button-green m-short js-submit" disabled="disabled">
+                <span class="authpopup-button-text">Reset password</span>
+            </button>
+        </div>
+    </div>
+</form>
+    <!--Экран выбора способа восстановления-->
+<form class="authpopup-form authpopup-chooserepair">
+    <h2 class="authpopup-header m-simple-text">Password recovery method</h2>
+    <div class="authpopup-content">
+        <div class="js-methods"></div>
+        <p class="authpopup-passrepair-status js-status"></p>
+        <div class="authpopup-bottomrow">
+            <button type="submit" class="authpopup-button bookmate-button bookmate-button-green m-long js-submit" disabled="disabled">
+                <span class="authpopup-button-text">Send</span>
+            </button>
+        </div>
+    </div>
+</form>
+
+<script id="authpopup-repair-methods" type="text/template">
+    {{#methods}}
+        <label class="authpopup-chooserepair-method">
+            <input type="radio" class="authpopup-chooserepair-radio js-choose-method" name="repair-method" value="{{type}}"/>
+            <span class="authpopup-chooserepair-sendto">{{value}}</span>
+            {{#is_email}}
+                <span class="authpopup-chooserepair-desc">Send me an e-mail</span>
+            {{/is_email}}
+            {{#is_phone}}
+                <span class="authpopup-chooserepair-desc">Or better, SMS</span>
+            {{/is_phone}}
+        </label>
+    {{/methods}}
+</script>
+    <!--Сброс пароля-->
+<form class="authpopup-form authpopup-passreset">
+    <h2 class="authpopup-header m-simple-text">Confirmation code</h2>
+    <div class="authpopup-content">
+        <p class="authpopup-desc">Within 30 seconds, you’ll receive a free SMS on your phone with the confirmation code</p>
+        <input type="text" class="authpopup-input bookmate-input js-code" placeholder="Enter the code">
+        <p class="authpopup-entercode-status js-status"></p>
+        <div class="authpopup-bottomrow">
+            <button type="submit" class="authpopup-button bookmate-button bookmate-button-green m-long js-reset" disabled="disabled">
+                <span class="authpopup-button-text">Reset my password</span>
+            </button>
+        </div>
+        <div class="authpopup-underbottom">
+            <button class="authpopup-underbottom-button js-resend">I haven’t received the code</button>
+        </div>
+    </div>
+</form>
+    <!--Экран повторного ввода сброса пароля-->
+<form class="authpopup-form authpopup-resendpassreset">
+    <h2 class="authpopup-header m-simple-text">Confirmation code</h2>
+    <div class="authpopup-content">
+        <p class="authpopup-desc">We just sent you another SMS confirmation</p>
+        <input type="text" class="authpopup-input bookmate-input js-code" placeholder="Enter the code">
+        <p class="authpopup-passrepair-status js-status"></p>
+        <div class="authpopup-bottomrow">
+            <button type="submit" class="authpopup-button bookmate-button bookmate-button-green m-long js-reset" disabled="disabled">
+                <span class="authpopup-button-text">Reset my password</span>
+            </button>
+        </div>
+    </div>
+</form>
+    <!--Экран ввода нового пароля-->
+<form class="authpopup-form authpopup-newpass">
+    <h2 class="authpopup-header m-simple-text">New password</h2>
+    <div class="authpopup-content">
+        <input type="text" class="authpopup-input bookmate-input js-pass" placeholder="Enter your new password">
+        <p class="authpopup-entercode-status js-status"></p>
+        <div class="authpopup-bottomrow">
+            <button type="submit" class="authpopup-button bookmate-button bookmate-button-green m-long js-submit" disabled="disabled">
+                <span class="authpopup-button-text">Save</span>
+            </button>
+        </div>
+    </div>
+</form>
+    <!--Экран ввода кода подтверждения-->
+<form class="authpopup-form authpopup-emailsent">
+    <h2 class="authpopup-header m-simple-text">Passsword has been sent</h2>
+    <div class="authpopup-content">
+        <div class="authpopup-icon-success"></div>
+        <p class="authpopup-desc">Your password has been successfully sent to your email</p>
+        <div class="authpopup-bottomrow">
+            <button type="submit" class="authpopup-button bookmate-button bookmate-button-green m-long js-submit">
+                <span class="authpopup-button-text">Close</span>
+            </button>
+        </div>
+    </div>
+</form>
+</section>
+
+<script id="authpopup-reader-addon" type="text/template">
+    <p class="authpopup-reader-addon">Join to continue reading this book for free – here or in the Bookmate app for your phone and tablet – and never lose your place</p>
+    <div class="authpopup-reader-addon-image"></div>
+</script>
+  </div>
+</div>
+
+
+  <script>
+	window.addEventListener('load', function () {
+    	$('[data-action="subscription"][data-action-trigger="banner"]')
+    		.on('click', Bookmate.beforeDefault(function (event) {
+    			return DIMixpanel.track('Subscription Button Pressed', {context: 'banner'});
+    		}));
+    });
+</script>
+
+
+  
+
+
+
+  <div class="wrapper    about about-privacy user-guest en">
+
+    <div class="layout-top">
+
+      
+<div class="layout-header">
+
+    <a href="/" class="bookmate-logo" data-mixpanelctx="logo"></a>
+
+  <nav class="layout-header-menu">
+
+
+
+
+</nav>
+  <div class="layout-header-box-right">
+    <form action="/books/search" method="GET" class="layout-header-search bookmate-input-quicksearch">
+      <div>
+        <input autocomplete="off" class="input" data-search="" id="query" name="query" placeholder="Search for books" role="input" type="text">
+        <input class="icon" type="submit">
+      </div>
+
+    </form>
+
+    
+
+          
+<div class="language-select bookmate-dropdown-toggle" no-script="true">
+  <span class="language-select-title">English</span>
+  <span class="bookmate-icon-arrow-down"></span>
+  <div class="dropdown-list">
+
+        <span class="dropdown-item">English</span>
+
+        <a href="/locale/switch?locale=ru" class="dropdown-item" data-method="post" rel="nofollow">Русский</a>
+
+        <a href="/locale/switch?locale=tr" class="dropdown-item" data-method="post" rel="nofollow">Türkçe</a>
+
+        <a href="/locale/switch?locale=es" class="dropdown-item" data-method="post" rel="nofollow">Español</a>
+  </div>
+</div>
+
+
+            <label data-test="login-button" class="jsOpenLoginWindow bookmate-button bookmate-button-green layout-header-button-login" for="bookmate-auth-popup-toggle">Login</label>
+            <!--<script type="text/javascript">
+                window.addEventListener('load', function () {
+                    var id = 'bookmate-auth-popup-toggle',
+                        $label = $('[for="' + id + '"].layout-header-button-login'),
+                        $input = $('[id="' + id + '"]');
+
+                    $label.on('click', Bookmate.beforeDefault(function (event) {
+                        return DIMixpanel.track('Registration Button Pressed')
+                            .then(function () {
+                                $input.trigger('click');
+                                throw new Error('This is a really dirty hack to prevent redispatching the event' +
+                                    ' in `Bookmate.beforeDefault`.');
+                            });
+                    }, true));
+                });
+            </script>-->
+
+</div>
+  <script>
+    window.addEventListener('load', function () {
+        $('.layout-header-menu-subscription').on('click', function ( event ) {
+          window.DIMixpanel.track('Subscription Button Pressed', {context: 'main'});
+        });
+      });
+  </script>
+
+</div>
+
+
+      
+
+        
+
+      
+      <nav class="main">
+
+  <a href="/about/copyright">Copyright Notice</a>  
+  <a href="/about/infringement_of_copyright">Takedown Notice</a>  
+  <a href="/about/copyright_conditions">Conditions at Bookmate</a>  
+  <a href="/about/eula">Terms of Use</a>  
+  <a href="/about/counter_notice">Counter Notice</a>  
+  
+    <span>Privacy Policy</span>
+  
+</nav>
+
+
+
+</div>
+    <section class="main content ">
+
+      
+      
+
+      
+
+      <div class="content-box">
+	<nav class="sub">
+  <header>
+    <h1>Bookmate Online Privacy Policy</h1>
+  </header>
+</nav>
+
+<article>
+  <h2>A. INTRODUCTION</h2>
+  <br><br>
+  <p>
+    PLEASE READ THIS DOCUMENT CAREFULLY.  IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE OUR SERVICE OR SOFTWARE.  BY CONTINUING TO USE THIS WEBSITE AND SERVICES YOU WILL BE DEEMED TO HAVE ACCEPTED THIS PRIVACY POLICY.  Your use of the Bookmate services provided herein, including any dispute concerning privacy, is subject to this privacy statement (<strong>“Privacy Policy”</strong>) and Bookmate’s Terms of Service http://www.bookmate.com/about/eula. By using the Bookmate’s Services and/or Website and/or Mobile application, defined below, you are accepting the practices set out in this Privacy Policy and those Terms of Service.  We reserve the right to modify this Privacy Policy at any time by posting the changes on this page.  Please check the revision date below to determine if the policy has been modified since you last reviewed it.  Your continued use of any portion of the Bookmate Site following posting of the updated Privacy Policy will constitute your acceptance of the changes.
+  </p>
+  <p>
+    This Privacy Policy was last updated on <strong>October 22th, 2013</strong>. Random Access Media LLC and its affiliates and its licensors (collectively, <strong>“Bookmate”</strong>) has created this Privacy Policy in order to disclose its information gathering and dissemination practices for this internet Website located at www.bookmate.com and related plug-ins, add-ons and applications (collectively, the <strong>“Website”</strong>).&nbsp; Upon reading this Privacy Policy, you will be informed regarding the following:
+  </p>
+
+  <ol>
+    <li>what personally identifiable information of yours or third party personally identifiable information is collected from you through the Website;</li>
+    <li>the organization collecting the information;</li>
+    <li>how the information is used;</li>
+    <li>with whom the information may be shared;</li>
+    <li>what choices are available to you regarding collection, use and distribution of the information;</li>
+    <li>the kind of security procedures that are in place to protect the loss, misuse or alteration of information under Bookmate’s control; and</li>
+    <li>how you can access and correct any inaccuracies in the information collected about you.</li>
+  </ol>
+
+  <p>
+    Questions regarding this Privacy Policy should be directed to the Bookmate site coordinator by emailing at
+    <a href="mailto:privacy@bookmate.com">privacy@bookmate.com</a>
+  </p>
+
+  <p>
+    If you have any concerns or feel that there are certain problems or issues relating to compliance with the policies outlined in this Privacy Policy, please submit a report by emailing at
+    <a href="mailto:privacy@bookmate.com">privacy@bookmate.com</a>.
+  </p>
+
+  <h3>Word from Bookmate</h3>
+  <p>
+    Bookmate has a strong commitment to providing superior service to all of our customers and visitors and users of this Website and particularly respecting your concerns about privacy.  We understand that you may have questions about how this Website collects and uses information and we have prepared this statement to inform you of the privacy principles that govern the Website.  We will not sell or rent your personally identifiable information or a list of our customers to third parties.  However, as described in more detail below, there are limited circumstances in which some of your information will be shared with third parties, under strict restrictions, so it is important for you to review this Privacy Policy.
+  </p>
+  <p>
+    This Privacy Policy contains numerous general and technical details about the steps we take to respect your privacy concerns.  We have organized this Privacy Policy by major processes and areas so that you can quickly link to the information of most interest to you.  The bottom line is that meeting your needs and expectations form the foundation of everything we do—including protecting your privacy.
+  </p>
+  <p>
+    Personal information on this Website is collected by Bookmate and if after reviewing this Privacy Policy you have any questions or privacy concerns please send an e-mail to
+    <a href="mailto:privacy@bookmate.com">privacy@bookmate.com</a>.
+  </p>
+
+  <h3>Changes in Privacy Policy</h3>
+  <p>
+    Bookmate wants you to be always aware of what personal information we collect, how we use it and under what circumstances we disclose it.  All personal information, as further described below, that we collect and maintain will be subject to the version of the Privacy Policy in effect at the time of such collection.  Bookmate reserves the right to change the Privacy Policy from time to time at its sole discretion, and will prominently post any material changes on the home page of the website.  You will be given the opportunity to opt-out.  If as the result of such changes, you want to alter the ways in which Bookmate is allowed to use your personal information, you can do so by following the procedure described in the Updating Your Personal Preferences section of this Privacy Policy (below).  You will be deemed to have been made aware of, and will be subject to, the changes to the Privacy Policy by your continued use of the Website after such notice has been posted for thirty (30) days with the following exception: if at the time you provide personal information to Bookmate you limit how such information will be used to communicate with you, either by Bookmate or by third parties, Bookmate will not change your preference in this regard without your express consent.
+  </p>
+
+  <h3>Third Party Websites</h3>
+  <p>
+    Bookmate does not control the information collection and distribution policies on Internet domains other than those Internet domains that are under the control of Bookmate itself. When you are on the Website, you may be directed to other sites that are beyond our control.  Bookmate is not responsible for any use of the information including click-stream data created when using such third party sites.
+  </p>
+  <p>
+    The Website may also contain advertising and other links to other web sites.  Please be aware that we are not responsible for the privacy practices or content of those other sites. Also we do not send random marketing emails to personal email addresses.  The Website may contain hyper links to external web sites owned and operated by third parties. Bookmate has no control over or association with such third party sites and Bookmate is not responsible for the accuracy, completeness and quality of the information contained within them.  Any and all contents on these external web sites do not reflect products, services or information provided by Bookmate.  You should direct any concerns regarding any external link to the site administrator or webmaster of such site.
+  </p>
+  <p>
+    We also use third-party advertising companies to serve ads when you visit our Website. These companies may use general information about your visits to this and/or other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,
+
+    <a href="http://www.networkadvertising.org/optout_nonppii.asp">
+      direct such concerns regarding to the respective company’s administrator or webmaster.
+    </a>
+    .
+  </p>
+
+  <h3>Third Party and User Content</h3>
+  <p>
+    Bookmate allows users to upload their content onto the Website  hosted on a “cloud” server to share with other users (<strong>“User Content”</strong>)  The hosting of User Content does not imply an endorsement, guarantee, warranty, or representation by Bookmate as to the legality, originality, or authenticity of the User Content.  An owner and/or a user who uploaded the User Content bears all risks associated with such User Content, including, without limitation, its potential legal or other liabiolity to the other users of the Bookmate’s services and/or Bookmate.
+  </p>
+
+  <p>
+    <strong>
+      When you are on the Website, certain content may be served by a third party. These third parties may also drop their own cookies and/or use web beacons, which may be used to identify some of your preferences or to recognize you if you have previously had contact with them. We do not control the use of such technology by third parties, the information they collect, or how they use such information.
+    </strong>
+  </p>
+
+  <h3>Legal Issues</h3>
+  <p>
+    The Website may be subject to the laws of various jurisdictions, including the laws of the United States of America as this is a the Untitled Sates based website and other jurisdiction because access to the Website may use internet traffic of different jurisdictions, including the United States of America. Bookmate will disclose personally identifiable information without your permission when required by law, or in good faith belief that such action is necessary to investigate or protect against harmful activities to Bookmate guests, visitors, associates, or property (including this Website), or to others.  As mentioned above, laws related to personal identifiable information vary by country.  For example, personally identifiable information collected in the European Union and its Member States is subject to the EU Directives concerning personal data, privacy and electronic communications, including but not limited to Directive&nbsp;2002/58/EC of the European Parliament and of the Council of&nbsp;12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector and Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data and the subsequent legislation adopted in the EU Member States.
+  </p>
+  <p>
+    Bookmate may be required by law enforcement or judicial authorities to provide personally identifiable information to appropriate governmental authorities. If requested by law enforcement or judicial authorities, we will provide this information upon receipt of the appropriate documentation.  Bookmate may also provide information to law enforcement to protect its property and the health and safety of individuals as permitted by statute.
+  </p>
+
+  <h2>B. COLLECTED INFORMATION</h2>
+
+  <h3>Browsing</h3>
+  <p>
+    The Website does not collect personally identifiable information from your computer when you browse the Website and request pages from our servers. This means that, unless you voluntarily and knowingly provide us with personally identifiable information, we will not know your name, your e-mail address, or any other personally identifiable information. We collect such information in order to make our Service function correctly and provide you the functionality that you see on this Website, as our servers use this information to deliver to you the pages on this Service. We also use this information to better understand how visitors use our Service and how we can better tune our Service, its contents and functionality to meet your needs.
+  </p>
+
+  <h3>Information We Collect</h3>
+  <p>
+    As a visitor to this Website, you can engage in many activities without providing any personal information as described above in the Browsing section of this Privacy Policy (above). In connection with subscribing to the services available on the Website or other activities, such as utilizing online software applications or purchasing or downloading any of the products and services available on the Website, Bookmate may ask you to voluntarily supply us with certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities and/or make any purchases. If you elect to engage in these activities or make purchases, however, Bookmate may ask that you provide us personal information, defined as any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including but not limited to your first and last name, mailing address (including ZIP code), e-mail address, employer, and other personal information. This information is requested in conjunction with the purchase and registration of our Products or Services.
+  </p>
+  <p>In addition, as noted below, minimum information is requested if you choose to subscribe to product updates.</p>
+  <p>
+    You never have to answer any questions, and you can decline this exchange of information at any time.  However, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information.  Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary.  If you do not provide the mandatory data with respect to a particular activity or purchase, you will not be able to engage in that activity or make such a purchase.  Bookmate will inform you of the mandatory and/or optional character of the requested and/or required information.
+  </p>
+  <p>
+    Bookmate is the sole owner of the information it gathers on the Website. <strong>Bookmate will only share your information with outside parties in ways that are described in this Privacy Policy</strong> or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on the Website and the subsequent legislation adopted in the EU Member States.
+  </p>
+  <p>
+    When you use the Website, Bookmate or third parties authorized by Bookmate may also collect certain technical and routing information about your computer to facilitate your use of the Website and its services.  When you surf the Internet, your Internet browser (such as Mozilla Firefox, Microsoft Internet Explorer, Safari or other) automatically transmits some information to Bookmate every time you access content on one of our internet domains within the Website. Examples of such information include the URL of the Web page you were just on (known as the <strong>“Refer”</strong>), the IP (or Internet Protocol) address of the computer you are using, or the browser version you are using to access our site.  All of this information may be collected by Bookmate and used to help improve our offerings to you.
+  </p>
+  <p>
+    We use such data to facilitate and track your use of the Website and its services. Bookmate also uses such environmental variables to measure traffic patterns on the Website. Without expressly informing you in each particular circumstance, we do not match such information with any of your personal information.
+  </p>
+  <p>
+    <strong>
+      Bookmate has the right to send you a periodic newsletter, and information about the updated product. This newsletter is a marketing tool that allows Bookmate to inform you of new Products and Services, as well as other news relevant to the company.  You have the right to unsubscribe from this mailing list by following the link given in the letter.
+    </strong>
+  </p>
+  <p>
+    When you submit personal information to Bookmate through this Website or related applications (e.g. mobile Bookmate Application) , you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of theу countries in which Bookmate, its affiliates, subsidiaries and third party partners maintain offices. You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors of Bookmate.  Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties.
+  </p>
+  <p>
+    Bookmate may establish relationships with various service providers whose services may become available to you from this Website or from other websites that are linked to this Website.  Typically, these providers would offer services that Bookmate customers might find useful, such as those that can be used in conjunction with Bookmate services and products.  In order to use those services, you may be required to provide personal information to the providers.  Unless expressly provided to the contrary, personal information that you provide while you are visiting a provider's Website will be subject to the privacy policy posted on such site, and personal information that you provide while on this Website in conjunction with a provider's service will be subject to this Privacy Policy.  For instance, the credit card information entered as part of the filling out the purchase form or registration process is collected by the third parties registration and/or merchant services and subject to their respective privacy policies.  You should be aware that our agreements with these service providers often provide that they will share with Bookmate personal information collected from you.  In such instances, Bookmate may use this information in a manner consistent with this Privacy Policy.
+  </p>
+
+  <h3>Personal Account</h3>
+  <p>
+    At your choice, you may create a personal account containing your personal information. A personal account is required for <strong>readings books with preservation of settings of reading; bookmarks; additions of books on the personal shelf; obtaining recommendations, news; accounting of statistical data of reading; citation of books; to share on social networks and etc.</strong> on the Website. When you create a personal account, some information about your account activity will be provided to other users of Bookmate. For instance, other users may be able to view which content you have accessed via the Website. You can access, review and update your personal account information online via the Website.
+  </p>
+  <p>
+    If you wish to deactivate your personal account, you can go to: bookmate.com. You have the right to access and change your personal information at any time by logging into your personal account, where you can view and make changes to your personal information. We cannot guarantee that information in your personal account won’t be accessible to other users either by means of Service or by means of other services including the search engines.
+  </p>
+
+  <h3>Updating Your Personal Preferences</h3>
+  <p>As a registered user you have the right to access and change your personal information at any time by logging into your personal account.</p>
+
+  <h3>Information Relating to Children</h3>
+  <p>
+    The Children's Online Privacy Protection Act (COPPA) was passed by the U.S. Congress in November 1998. COPPA provides parents with specific rights regarding their children's privacy. For additional information and resources on COPPA, please visit the Federal Trade Commission Web site at http://www.ftc.gov/. The Website and any products or services available on the Website are not directed at children under 13 years of age and, therefore, COPPA does not apply.  However, we recognize that children under the age of 13 may access this Website and subscribe to the newsletter or purchase products and services.  The collection of this information is covered above.  Parents and Legal Guardians may request from us to terminate and delete  their child’s account.  You may do so by contacting us by letter (using the address information provided at the bottom of this page) or email to
+    <a href="mailto:privacy@bookmate.com">privacy@bookmate.com</a>.
+  </p>
+
+  <h3>Securing the Transmission and Storage of Information</h3>
+  <p>
+    Bookmate operates secure data networks protected by industry standard firewall and password protection systems.  Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our users.  Bookmate takes steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, no data transmission over the Internet can be guaranteed secure.  As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us or from our online products or services, and you use these services at your own risk.
+  </p>
+  <p>
+    We treat the information you provide to us as confidential information; it is, accordingly, subject to our company’s security procedures and corporate policies regarding protection and use of confidential information. After personally identifiable information reaches Bookmate it is stored on a server with physical and electronic security features as customary in the industry, including utilization of login/password procedures and electronic firewalls designed to block unauthorized access from outside of Bookmate. Because laws applicable to personal information vary by country, our offices or other business operations may put in place additional measures that vary depending on the applicable legal requirements.  Information collected on the sites covered by this Privacy Policy is processed and stored in the United States and possibly other jurisdictions and also in other countries where Bookmate and its service providers conduct business.  All Bookmate employees are aware of our privacy and security policies.  Your information is only accessible to those employees who need it in order to perform their jobs.
+  </p>
+
+  <h2>C. USE AND DISCLOSURE OF INFORMATION</h2>
+
+  <h3>How Your Personal Information Is Used</h3>
+  <p>
+    Bookmate collects your information in order to record and support your participation in the activities you select. <strong>We will use your e-mail address to send a confirmation and, if necessary, might use the other information to contact you for help to process the purchase or service you have selected.</strong> If you subscribe to a service or upload a content, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. <strong>Your personal information is also used to keep you informed about new products, product upgrades, patches, special offers, and other products and services of Bookmate and selected third parties if you have so opted to receive such communications.</strong>
+  </p>
+  <p>
+    Bookmate may collect information about the use of the services offered via Website, such as the types of services used and how many users we receive daily. This information is collected in aggregate form, without identifying any user individually. Bookmate may use this aggregate, non-identifying statistical data for statistical analysis, marketing, or similar promotional purposes.
+  </p>
+  <p>
+    Bookmate recognizes and appreciates the importance of responsible use of information collected on this Website. Without your consent, Bookmate will not communicate any information to you regarding products, services, and special offers available from Bookmate or its affiliates, although we may find it necessary to communicate with you regarding your use of the services on this Website. Except in the particular circumstances described in this Privacy Policy, Bookmate will also not provide your name to other companies or organizations without your consent.
+  </p>
+
+  <h3>Disclosure of Information to Third Parties</h3>
+  <p>
+    <strong>Bookmate does use the services of third parties as (e.g. processing of purchase orders) that act as independent contractors on behalf of Bookmate.</strong> You may also use your third party login accounts and passwords (e.g. Facebook, Twitter, Google or other) in order to register and login to the Website and use Bookmate’s services.  These parties are contractually prohibited from using personally identifiable information for any purpose other than for the purpose Bookmate specifies.  We do provide non-personally identifiable information to certain service providers for their use on an aggregated basis for the purpose of performing their contractual obligations to us.  We prohibit the sale or transfer of personal information to entities outside of the Bookmate’s affiliates for their use without your approval.
+  </p>
+  <p>
+    Bookmate may disclose your personally identifiable information if we believe in good faith that we are required to do so in order to comply with applicable law, a subpoena, or other legal process. Bookmate may also disclose personally identifiable information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating this Privacy Policy, the terms of your agreements with the Company or to protect the safety of our users and the public or under confidentiality and licensing agreements with certain third parties which assist us in developing, operating and maintaining the Website and its content.
+  </p>
+  <p>
+    In the event that all or substantially all of Bookmate’s stock and/or all or substantially all assets are transferred or sold to another entity, Bookmate may transfer personally identifiable information to the acquiring entity. If, as a result of such a business transition, your personally identifiable information will be used in a materially different manner, you will be given choice consistent with our policy regarding notification of changes.
+  </p>
+
+  <h3>Choices Available to You </h3>
+  <p>
+    You can always choose whether or not to disclose personally identifiable information and that choice will not prevent you from using the Website. Please note, however, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information and you will be given an opportunity to “opt-in” and make your preference choices for any items that are optional and which are not prerequisite for our rendering such services.
+  </p>
+  <p>
+    You can choose at anytime to opt out of receiving emails from Bookmate or from having your personally identifiable information shared with selected companies. If you want to opt out, you can do so by editing your preferences with respect to email or the sharing of information. If you elect to “opt out” we will not, as applicable, share your personal information with third parties or send you emails. However, we may continue to use your personal information for internal purposes, to enhance your user experience or as necessary to administer the site or comply with applicable law.
+  </p>
+  <p>
+    We reserve the right to send a one-time registration confirmation email, and infrequent Service Alert messages to users to inform them of specific changes that may impact their ability to use a service they have previously signed up for, regardless of email contact opt-in status. We also reserve the right to contact you if compelled to do so as part of a legal proceeding or if there has been a violation of any applicable licensing, warranty and purchase agreements.
+  </p>
+  <p>
+    Bookmate is retaining these rights because in limited cases we feel that we may need the right to contact you as a matter of law or regarding matters that will be important to you. These rights do not allow us to contact you to market a new or existing service if you have asked us not to do so, and issuance of these types of communications is rare.
+  </p>
+  <p>
+    <strong>If you do not wish to receive e-mails with updates and information please click on the link of any letters sent by Bookmate.</strong> You may also opt-out online by updating your personal account as described in the Updating Your Personal References section of this Privacy Policy (above).
+  </p>
+  <p>
+    If you wish to opt out of receiving emails, the sharing or retention of any personal identification information, or otherwise change your personal preferences, you may contact Bookmate by email at
+    <a href="mailto:privacy@bookmate.com">privacy@bookmate.com</a>.
+  </p>
+  <p>
+    To ensure that your request is honored, you must provide Bookmate with information sufficient for us to accurately identify and access your records.  The information we require is your full name and the email address you provided to Bookmate.   Bookmate reserves the right to contact you to verify that we have accurately identified your record.
+  </p>
+
+  <h3>Cookies</h3>
+  <p>
+    Our Website uses “cookie” technology. “Cookies” are short pieces of data generated by a web server that a website stores on a user’s computer. Certain pages on our Website may require the use of a cookie for purposes of keeping information you enter on multiple pages together. Cookies also enable us to customize our Website and offerings to your needs and provide you with a better online experience with us. In addition, cookies are used to:
+  </p>
+
+  <ul>
+    <li>measure usage of various pages on our Website to help us make our information; more pertinent to your needs and easy for you to access;</li>
+    <li>identify and categorized the internet webpages from which the visitor came to the Website and observe the browsing patterns; and</li>
+    <li>
+      provide functionality such as online orders, Bookmate’s services and other functionality that we believe would be of interest and value to you.
+    </li>
+  </ul>
+
+  <p>
+    The types of cookies that we use are referred to as “session” cookies and “persistent” cookies. Session cookies are temporary and are automatically deleted once you leave the Website. Persistent cookies remain on your computer hard drive until you delete them. We do not use cookies to gather information concerning your visits to other websites, nor ascertain any personally identifiable information about you apart from what you voluntarily provide us in your dealings with Bookmate. Cookies do not, under ordinary circumstances, corrupt or damage your computer, programs, or computer files.
+  </p>
+
+  <p>
+    In addition, the service providers we use to serve and host our advertisements, and/or deliver our e-mails, use session and persistent cookies, to track the number of times the Website is accessed and whether the site was accessed from an advertisement. A cookie is placed on your computer only if and when you click on an advertisement or open the e-mail. The cookie generated from the advertisement or e-mail does not contain any personally identifiable information and will remain on your hard drive until you delete it.
+  </p>
+  <p>
+    You may set your browser to block cookies (consult the instructions for your particular browser on how to do this), although doing so may adversely affect your ability to perform certain transactions, use certain functionality and access certain content on our Website.
+  </p>
+
+  <h2>D. PRIVACY-RELATED INQUIRIES AND COMPLAINTS</h2>
+  <br><br>
+  <p>
+    Bookmate takes and addresses its users’ privacy concerns with utmost respect and attention.  If you believe that there was an instance of non-compliance with this Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact Bookmate at email:
+    <a href="mailto:privacy@bookmate.com">privacy@bookmate.com</a>.
+  </p>
+  <p>
+    In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly.
+  </p>
+  <p>
+    Please note that if you provide Bookmate with inconsistent privacy preferences (for example, by indicating on one occasion that third parties may contact you with marketing offers and indicating on another occasion that they may not), Bookmate cannot guarantee that your most recent privacy preference will be honored.
+  </p>
+
+  <br><br>
+  <p>Copyright © 2011 Random Access Media LLC, its affiliates and its licensors. All rights reserved.</p>
+</article>
+
+</div>
+
+</section>
+</div>
+  <footer class="layout-footer">
+
+  <div class="layout-footer-content">
+
+      <section class="layout-footer-main-links">
+
+            <a href="http://support.bookmate.com/hc/en-us">Help center</a>
+
+
+
+
+          <a href="/about/copyright">Copyright Notice</a>
+          
+            <span>Privacy Policy</span>
+
+            <a href="mailto:publishers@bookmate.com?subject=I'm a publisher, tell me more">Publish</a>
+
+
+          
+      </section>
+
+      <section class="layout-footer-copyright">
+          <div class="layout-footer-copyright-text">© 2007–2014 Bookmate</div>
+
+          <a href="mailto:feedback@bookmate.com">Contact us</a>
+
+          <a href="/feedback">Reviews</a>      </section>
+
+  </div>
+
+    <!--<section class="layout-footer-box-right">
+        
+    </section>-->
+
+</footer>
+
+    
+
+          <script src="https://assets.bookmate.com/javascript/core.min.js?end2-8223-g94f7fe5.js" type="text/javascript"></script>
+    <script src="https://assets.bookmate.com/pipeline/application-33afe7602b34efc2d60c724ea7e4ccd6.js" type="text/javascript"></script>
+    
+
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11301182-1']);
+  _gaq.push(['_addOrganic', "mail.ru", "q"]);
+  _gaq.push(['_addOrganic', "rambler.ru", "words"]);
+  _gaq.push(['_addOrganic', "nigma.ru", "s"]);
+  _gaq.push(['_addOrganic', "blogs.yandex.ru", "text"]);
+  _gaq.push(['_addOrganic', "webalta.ru", "q"]);
+  _gaq.push(['_addOrganic', "aport.ru", "r"]);
+  _gaq.push(['_addOrganic', "akavita.by", "z"]);
+  _gaq.push(['_addOrganic', "meta.ua", "q"]);
+  _gaq.push(['_addOrganic', "bigmir.net", "q"]);
+  _gaq.push(['_addOrganic', "tut.by", "query"]);
+  _gaq.push(['_addOrganic', "all.by", "query"]);
+  _gaq.push(['_addOrganic', "i.ua", "q"]);
+  _gaq.push(['_addOrganic', "online.ua", "q"]);
+  _gaq.push(['_addOrganic', "a.ua", "s"]);
+  _gaq.push(['_addOrganic', "ukr.net", "search_query"]);
+  _gaq.push(['_addOrganic', "search.com.ua", "q"]);
+  _gaq.push(['_addOrganic', "search.ua", "query"]);
+  _gaq.push(['_addOrganic', "poisk.ru", "text"]);
+  _gaq.push(['_addOrganic', "km.ru", "sq"]);
+  _gaq.push(['_addOrganic', "liveinternet.ru", "ask"]);
+  _gaq.push(['_addOrganic', "gogo.ru", "q"]);
+  _gaq.push(['_addOrganic', "gde.ru", "keywords"]);
+  _gaq.push(['_addOrganic', "quintura.ru", "request"]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    window.ga('create', 'UA-11301182-10', 'bookmate.com');
+    window.ga('require', 'displayfeatures');
+    window.Bookmate = window.Bookmate || {};
+    window.Bookmate.gaPromise = function (fields) {
+        return window.when.promise(function (resolve) {
+            fields.hitCallback = resolve;
+
+
+            window.ga('send', fields);
+        });
+    };
+    window.Bookmate.gaPromise({hitType: 'pageview'});
+
+  (function (document, ga) {
+      /*\
+       |*|
+       |*|  :: cookies.js ::
+       |*|
+       |*|  A complete cookies reader/writer framework with full unicode support.
+       |*|
+       |*|  https://developer.mozilla.org/en-US/docs/DOM/document.cookie
+       |*|
+       |*|  This framework is released under the GNU Public License, version 3 or later.
+       |*|  http://www.gnu.org/licenses/gpl-3.0-standalone.html
+       |*|
+       |*|  Syntaxes:
+       |*|
+       |*|  * docCookies.setItem(name, value[, end[, path[, domain[, secure]]]])
+       |*|  * docCookies.getItem(name)
+       |*|  * docCookies.removeItem(name[, path], domain)
+       |*|  * docCookies.hasItem(name)
+       |*|  * docCookies.keys()
+       |*|
+       \*/
+
+      var docCookies = {
+          getItem: function (sKey) {
+              return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+          },
+          setItem: function (sKey, sValue, vEnd, sPath, sDomain, bSecure) {
+              if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) {
+                  return false;
+              }
+              var sExpires = "";
+              if (vEnd) {
+                  switch (vEnd.constructor) {
+                      case Number:
+                          sExpires = vEnd === Infinity ? "; expires=Fri, 31 Dec 9999 23:59:59 GMT" : "; max-age=" + vEnd;
+                          break;
+                      case String:
+                          sExpires = "; expires=" + vEnd;
+                          break;
+                      case Date:
+                          sExpires = "; expires=" + vEnd.toUTCString();
+                          break;
+                  }
+              }
+              document.cookie = encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : "");
+              return true;
+          },
+
+
+          removeItem: function (sKey, sPath, sDomain) {
+              if (!sKey || !this.hasItem(sKey)) {
+                  return false;
+              }
+              document.cookie = encodeURIComponent(sKey) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + ( sDomain ? "; domain=" + sDomain : "") + ( sPath ? "; path=" + sPath : "");
+              return true;
+          },
+          hasItem: function (sKey) {
+              return (new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=")).test(document.cookie);
+          },
+          keys: /* optional method: you can safely remove it! */ function () {
+              var aKeys = document.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:\1|$)/g, "").split(/\s*(?:\=[^;]*)?;\s*/);
+              for (var nIdx = 0; nIdx < aKeys.length; nIdx++) {
+                  aKeys[nIdx] = decodeURIComponent(aKeys[nIdx]);
+              }
+              return aKeys;
+          }
+      };
+
+      ga(function (tracker) {
+          docCookies.setItem('__ga_client', tracker.get('clientId'));
+      });
+  }(window.document, window.ga));
+</script>
+
+<!-- Код тега ремаркетинга Google -->
+<!--
+С помощью тега ремаркетинга запрещается собирать информацию, по которой можно идентифицировать личность пользователя. Также запрещается размещать тег на страницах с контентом деликатного характера. Подробнее об этих требованиях и о настройке тега читайте на странице http://google.com/ads/remarketingsetup.
+Добавьте этот код на все страницы своего сайта непосредственно перед тегом </body>.
+-->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 979849411;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<div style="display: none">
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+</div>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/979849411/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/975712693/?value=0&amp;label=Sl3NCIOlzggQteOg0QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+      <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId  : 124791507543584,
+      status : true, // check login status
+      cookie : true, // enable cookies to allow the server to access the session
+      xfbml  : true  // parse XFBML
+    });
+	if (!!window._ga) {
+		window._ga.trackFacebook();
+	}
+  };
+
+  (function() {
+    var e = document.createElement('script');
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+    e.async = true;
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+
+
+      <script type="text/javascript" charset="utf-8">
+  (function(){
+    var twitterWidgets = document.createElement('script');
+    twitterWidgets.type = 'text/javascript';
+    twitterWidgets.async = true;
+    twitterWidgets.src = 'https://platform.twitter.com/widgets.js';
+
+    // Setup a callback to track once the script loads.
+    twitterWidgets.onload = _ga.trackTwitter;
+
+    document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+  })();
+</script>
+      <!-- perfectaudience -->
+<script type="text/javascript">
+  (function() {
+    window._pa = window._pa || {};
+    // _pa.orderId = "myOrderId"; // OPTIONAL: attach unique conversion identifier to conversions
+    // _pa.revenue = "19.99"; // OPTIONAL: attach dynamic purchase values to conversions
+    // _pa.productId = "myProductId"; // OPTIONAL: Include product ID for use with dynamic ads
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/5295ed446ce372ce50000045.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+<!-- /perfectaudience -->
+      
+
+  
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
