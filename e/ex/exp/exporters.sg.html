@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the exporters.sg privacy policy that was archived on 2013-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126130924id_/http%3A//exporters.sg/info/privacy_statement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the exporters.sg privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625054052id_/http%3A//www.exporters.sg/info/privacy_statement.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
 		
@@ -23,7 +23,7 @@
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 
 	
-<script type="text/javascript" src="/_global/UI_tools/javascript/library.js?t=8923"></script> <!-- common methods -->
+<script type="text/javascript" src="/_global/UI_tools/javascript/library.js?t=14052"></script> <!-- common methods -->
 
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script> <!-- jquery animation library -->
@@ -42,7 +42,7 @@
 	<script type="text/javascript" src="/_global/UI_tools/tabs/simple_tabs.js"></script>
 	<link href="/_global/UI_tools/window/window.css" rel="stylesheet" type="text/css">
 	
-<script type="text/javascript" src="/_global/UI_tools/window/window.js?t=8923"></script>
+<script type="text/javascript" src="/_global/UI_tools/window/window.js?t=14052"></script>
 
 </head><body id="INDEX_BODY"><div id="window_debug" class="SCROLLBAR" style="display:none;border:0px solid orange;background-color:#000000;height:100px"></div>
 <div id="window_canvas" name="window_canvas" class="window_canvas" onclick="HideWindow()" style="display:none;z-index:99999;top:0px;left:0px;overflow:auto;border:0px solid orange;position:absolute;width:100%;height:100%;background-color:#000000">
@@ -206,8 +206,7 @@ height:100%
 	/*background:#EDEDED;*/
 	background:#E6E6E6;
 
-	display: inline-table;
-
+	display:table;
 
 }
 /* Added to fix the column height issue */
@@ -222,19 +221,19 @@ height:100%
 
 
 #INDEX_CONTENT_RIGHT{
-	float:left;
+	float:right;
 
 	padding-left:10px;
 	padding-right:10px;
-	padding-bottom:20px;
-	padding-top:10px;
+	padding-bottom:30px;
+	padding-top:0px;
 	margin:0px;
   	zoom: 1;
 
 	width:300px;
 	background:#D2D2D2;
 
-
+	display:table;
 }
 /* Added to fix the column height issue */
 .INDEX_CONTENT_RIGHT_COPY{
@@ -438,13 +437,15 @@ function NaviSelect(value){
 
 
 </div>
-	<div id="INDEX_NAVI_MAIN"><table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:#D2D2D2;position:relative">
+	<div id="INDEX_NAVI_MAIN">
+<div>
+<table id="TOP_NAV_TABCOMMAND" cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:#D2D2D2;position:relative">
 <tbody><tr>
 	<td width="25%" align="center">
 		<div>
 			
-				<a id="myexporters_maintab_tnlist" class="MYEXPORTERS_MAINTAB" href="/tn.asp">
-				<span>Trade Networks</span>
+				<a id="myexporters_maintab_tnlist" class="TOPNAV_MAINTAB" href="/tn.asp">
+				Trade Networks
 				</a>
 			
 		</div>
@@ -452,27 +453,87 @@ function NaviSelect(value){
 	<td style="padding-left:0px;padding-right:0px" valign="top"><div style="border-left:1px solid #2D2D2D;height:10px"></div></td>
 	<td width="25%" align="center">
 		<div>
-			<a id="myexporters_maintab_members" class="MYEXPORTERS_MAINTAB" href="/membersdir.asp">Members</a>
+			
+				<a id="myexporters_maintab_members" class="TOPNAV_MAINTAB" href="/membersdir.asp">Members</a>
+			
 		</div>
 	</td>
 	<td style="padding-left:0px;padding-right:0px" valign="top"><div style="border-left:1px solid #2D2D2D;height:10px"></div></td>
 	<td width="25%" align="center">
 		<div>
-			<a id="myexporters_maintab_products" class="MYEXPORTERS_MAINTAB" href="/productdir.asp">Products</a>
+			
+				<a id="myexporters_maintab_products" class="TOPNAV_MAINTAB" href="/productdir.asp">Products</a>
+			
 		</div>
 	</td>
 	<td style="padding-left:0px;padding-right:0px" valign="top"><div style="border-left:1px solid #2D2D2D;height:10px"></div></td>
 	<td width="25%" align="center">
 		<div>
-			<a id="myexporters_maintab_buyingleads" class="MYEXPORTERS_MAINTAB" href="/rfqdir_v2.asp">Buying Leads</a>
+			
+				<a id="myexporters_maintab_buyingleads" class="TOPNAV_MAINTAB" href="/rfqdir_v2.asp">Buying Leads</a>			
+			
 		</div>
 	</td>
 	<td style="padding-left:0px;padding-right:0px" valign="top"><div style="border-left:1px solid #2D2D2D;height:10px"></div></td>
 </tr>
 </tbody></table>
 
+	<style>
+#TOPNAV_CONTENT_MEGAMENU{
+	position:absolute;
+	z-index:100;
+	/*visibility:hidden;*/ /* hide it first */
+	margin-top:2px;
+}
+.TOP_NAV_MEGAMENU_CONTENT_DIV{
+	display:none; /* hide it first */
+}
+
+.TOPNAV_CONTENT_MEGAMENU_BUTTON:hover{
+	cursor:pointer;
+	background-color: #F26D00;
+}
+
+
+</style>
+
+<script type="text/javascript" src="/_global/hm/top_nav_megamenu.js"></script>
+
+<table id="TOPNAV_CONTENT_MEGAMENU" cellpadding="0" cellspacing="0" border="0" style="border-bottom:2px solid orange;" width="1000px" curtab=""><tbody><tr>
+<td>
+	<div id="TOP_NAV_MEGAMENU_TN" class="TOP_NAV_MEGAMENU_CONTENT_DIV" loaded="">
+		
+<script type="text/javascript" src="/members_v2/myTN/tn.js"></script>
+
+
+	</div>
+	
+	<div id="TOP_NAV_MEGAMENU_MEMBER" class="TOP_NAV_MEGAMENU_CONTENT_DIV" loaded="">
+		
+	</div>
+	
+	<div id="TOP_NAV_MEGAMENU_PRODUCT" class="TOP_NAV_MEGAMENU_CONTENT_DIV" loaded="">
+		
+	</div>
+	
+	<div id="TOP_NAV_MEGAMENU_RFQ" class="TOP_NAV_MEGAMENU_CONTENT_DIV" loaded="">
+		
+	</div>
+	
+
+</td>
+</tr></tbody></table>
+
+<script language="javascript">
+$("#TOPNAV_CONTENT_MEGAMENU").hide();
+
+</script>
+
+</div>
+
+
 <style>
-.MYEXPORTERS_MAINTAB{
+.TOPNAV_MAINTAB{
 	display:block;
 	cursor:pointer;
 	width:auto;
@@ -493,10 +554,34 @@ function NaviSelect(value){
 	position: relative; /*To help in the anchoring of the ".search_filter_icon" icon image*/
 }
 
-.MYEXPORTERS_MAINTAB:hover{
+.TOPNAV_MAINTAB:hover{
 	color:#ffffff;
 	background-color:#F26D00; 
 }
+
+.TOPNAV_MAINTAB_SELECTED{
+	display:block;
+	cursor:pointer;
+	width:auto;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:0px;
+	padding-bottom:0px;
+	text-align:center;
+	height:60px;
+	line-height:60px;
+	font-family: Verdana;
+	font-size: 14px;
+    text-decoration: none;
+	font-weight: bold;
+	color: #ffffff;
+	
+	background-color:#F26D00; 
+	position: relative; /*To help in the anchoring of the ".search_filter_icon" icon image*/
+
+	color:#ffffff;
+}
+
 </style>
 
 
@@ -1194,16 +1279,12 @@ us</a>.<p></p>
 		<a class="AC4-1" href="http://www.righttap.com/">RightTap</a>
 		<br>
 		<a class="AC4-1" href="http://www.tripodica.com/">Tripodica</a>
-		<br>
-		<a class="AC4-1" href="http://www.ikloomarket.com/">iKlooMarket</a>		
-		<br>
-		<a class="AC4-1" href="http://www.ikloo.com/">Build Your Website</a>
 	</td>
 
 	<td width="150" valign="top">
 		<a class="AC3" href="/info/help/">HELP</a>
 		<br>
-		<a class="AC4-1" href="/info/help/">FAQs</a>
+		<a class="AC4-1" href="/info/help/faq.asp">FAQs</a>
 		<br>
 		<a class="AC4-1" href="/info/safetrading_center/">Safe Trading Center</a>
 		<br>
@@ -1245,10 +1326,10 @@ us</a>.<p></p>
 	<td valign="top"></td></tr>
 	<tr><td valign="top"></td>
 	<td width="950" valign="top" colspan="6">
-      	<span class="TC4">Copyright © 1998-2013 Powered by</span>	
+      	<span class="TC4">Copyright © 1998-2014 Powered by</span>	
       	<a class="AC4-1" href="http://www.unetglobal.com">UNET Global Solutions Pte Ltd.</a>
 		<span class="TC4">All rights reserved.</span> 
-		<a href="/search/load.asp?id=8:09:23 AM"><img border="0" src="/_image/spacer.gif" width="2" height="2"></a>
+		<a href="/search/load.asp?id=1:40:52 AM"><img border="0" src="/_image/spacer.gif" width="2" height="2"></a>
 		
 	</td>
 	<td valign="top"></td></tr>
