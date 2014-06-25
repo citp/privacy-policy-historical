@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the schapendoes-sheepdogs.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402215748id_/http%3A//schapendoes-sheepdogs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schapendoes-sheepdogs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115947id_/http%3A//schapendoes-sheepdogs.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy sets out how [Schapendoes-Sheepdogs.com](http://www.schapendoes-sheepdogs.com/) uses and protects any information that you give [Schapendoes-Sheepdogs.com](http://www.schapendoes-sheepdogs.com/) when you use this website.
+This privacy policy sets out how www.Schapendoes-Sheepdogs.com uses and protects any information that you give www.Schapendoes-Sheepdogs.com when you use this website.
 
-[Schapendoes-Sheepdogs.com](http://www.schapendoes-sheepdogs.com/) is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+www.Schapendoes-Sheepdogs.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-[Schapendoes-Sheepdogs.com](http://www.schapendoes-sheepdogs.com/) may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 10. mars 2012.
+[www.Schapendoes-Sheepdogs.com](http://schapendoes-sheepdogs.com/) may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 5. april 2012.
 
-### What we collect.
+### What we collect.  
+
 
 We may collect the following information:
 
@@ -21,27 +22,27 @@ We may collect the following information:
 
 ### What we do with the information we gather.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:  
+
 
   * Internal record keeping.
   * We may use the information to improve our products and services.
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax  
-or mail. We may use the information to customize the website according to your interests.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
 
 
 ### Security.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
 ### How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-We may use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+We may use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.  You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+ Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.  You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 ### Links to other websites
 
@@ -49,11 +50,11 @@ Our website may contain links to other websites of interest. However, once you h
 
 ### Controlling your personal information
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+You may choose to restrict the collection or use of your personal information in the following ways:  
+
 
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
-  * If you have previously agreed to us using your personal information for direct marketing  
-purposes,  you may change your mind at any time by writing to or emailing us at [support@schapendoessheepdogs.com](mailto:support@schapendoessheepdogs.com).
+  * If you have previously agreed to us using your personal information for direct marketing purposes,  you may change your mind at any time by writing to or emailing us at support@schapendoes-sheepdogs.com.
 
 
 
@@ -62,14 +63,3 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you as governed by the laws of Norway. A small fee may be payable. If you would like a copy of the information held on you please write to Fossingvn. 36, 3790 Helle.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-This website and its content is copyright of [www.Schapendoes-Sheepdogs.com](http://www.schapendoes-sheepdogs.com/) – **_© Schapendoes Sheepdogs 2012. All rights reserved._**
-
-Any redistribution or reproduction of part or all of the contents in any form is prohibited other than the following:
-
-  * You may print or download to a local hard disk extracts for your personal and non-commercial use only.
-  * You may copy the content to individual third parties for their personal use, but only if you acknowledge the website as the source of the material.
-
-
-
-You may not, except with our express written permission, distribute or commercially exploit the content. Nor may you transmit it or store it in any other website or other form of electronic retrieval system.
