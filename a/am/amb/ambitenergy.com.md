@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ambitenergy.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214221229id_/http%3A//ww2.ambitenergy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambitenergy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121913id_/http%3A//ww2.ambitenergy.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Ambit Energy
 
