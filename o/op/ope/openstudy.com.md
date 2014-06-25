@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openstudy.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026101702id_/http%3A//openstudy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openstudy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112612id_/http%3A//openstudy.com/privacy-policy) for the most accurate reproduction.*
 
 # OpenStudy: Study Together
 
