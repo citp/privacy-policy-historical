@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 9hoho.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112062432id_/http%3A//www.9hoho.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9hoho.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093553id_/http%3A//www.999gag.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - 9hoho.com
+# Privacy Policy - 999gag.com
 
 #### Privacy Policy for 999GAG
 
@@ -52,7 +52,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.9hoho.com](http://www.9hoho.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.999gag.com](http://www.999gag.com/)
 
  **Your Consent**
 
