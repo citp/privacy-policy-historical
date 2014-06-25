@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wrzhost.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206143002id_/http%3A//www.wrzhost.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrzhost.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050451id_/http%3A//www.wrzhost.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - WRZhost - Providing Offshore Hosting Services
+# WRZhost - Privacy Policy
 
 WRZhost respects your privacy! Any information collected by us will be securely stored and kept strictly confidential. The information you supply us will not, under any circumstance, be sold, reused, rented, loaned, distributed, or otherwise disclosed to any third party. Any information you supply WRZhost will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation of how we safeguard your personal information is described below. If you have any questions, please don't hesitate to let us know. 
 
