@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadia.edu privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126154427id_/http%3A//www.arcadia.edu/news/default.aspx%3Fid%3D3096) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadia.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113943id_/http%3A//arcadia.edu/news/default.aspx%3Fid%3D3096) for the most accurate reproduction.*
 
 # Arcadia University - Web Site Usage Policies
 
@@ -27,3 +27,23 @@ Arcadia University may also collect tracking information through the use of cook
 We use reasonable precautions to keep any personal information collected secure and follow industry-standard precautions and procedures in the transmission and storage of electronic data. Specifically, the Arcadia University Web site uses secure socket layer (SSL) encryption to process secure information allowing online users protection from interception of private information by any third party. However, we are not responsible for any breach of security resulting from an individual user's computer security failures. Arcadia University links to a variety of other Web sites and is not responsible for their privacy policies, security or how they may handle any user information they may collect.
 
 Please e-mail [WebServices@arcadia.edu](mailto:WebServices@arcadia.edu) for more information.
+
+## Contact  
+University Relations
+
+**Mailing Address:  
+** Arcadia University  
+University Relations  
+450 S. Easton Road  
+Glenside, PA 19038
+
+**Location:**  
+2035 Church Rd.
+
+**Phone:** 215-572-2969
+
+**Fax:** 215-881-8795
+
+**E-mail:**  [ur@arcadia.edu](mailto:ur@arcadia.edu)
+
+[**Staff Directory**](https://web.archive.org/news/default.aspx?id=1774 "University Relations Staff")
