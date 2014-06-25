@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the busyteacher.org privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022183713id_/http%3A//busyteacher.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busyteacher.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131447id_/http%3A//busyteacher.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for BusyTeacher.org » BusyTeacher: Free Printable Worksheets For Busy Teachers Like YOU!
-
-| 
 
 The privacy of our visitors to **http://busyteacher.org** is important to us.  
  
@@ -25,5 +23,3 @@ You can choose to disable or selectively turn off our cookies or third-party coo
  
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
-| 
