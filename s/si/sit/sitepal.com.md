@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitepal.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229201305id_/http%3A//www.oddcast.com/user/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124614id_/http%3A//www.oddcast.com/user/privacy_policy.php) for the most accurate reproduction.*
 
 # Oddcast - Privacy Policy
 
