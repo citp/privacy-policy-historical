@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myview.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221221343id_/http%3A//portal.myview.com/portal/app%3Fcmd%3DTextPage%26_ppId%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myview.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045225id_/http%3A//portal.myview.com/portal/app%3Fcmd%3DTextPage%26_ppId%3D21) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,19 +6,19 @@
 
 Effective: November 2007
 
-**Modified: December 2010**
+**Modified: June 2014**
 
 **Introduction:**
 
-Authentic Response, Inc. (“Company,” “we,” “our,” or “us”), owns and operates the websites located at [www.authenticresponse.com](http://www.authenticresponse.com/) and [www.myview.com](http://www.myview.com/) (the “Sites”). We know that your privacy is important to you.   We have been awarded TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@myview.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+Critical Mix, Inc. (“Company,” “we,” “our,” or “us”), owns and operates the websites located at [www.criticalmix.com](http://www.criticalmix.com/) and [www.myview.com](http://www.myview.com/) (the “Sites”). We know that your privacy is important to you.  
 
-Authentic Response, Inc. complies with the U.S. EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. The framework can be accessed here http://www.export.gov/safeharbor/. 
+Critical Mix, Inc. complies with the U.S. EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. The framework can be accessed here http://www.export.gov/safeharbor/. 
 
 Through the Sites, we operate MyView (“MyView”) through which we provide surveys that can be taken at the Sites or via electronic notification methods such as, but not limited to, email. We provide statistical sample to organizations that conduct research primarily for marketing or for social science purposes. We're committed to helping you understand how we manage and protect the information we collect.  We take privacy seriously, and have taken many steps to help safeguard the information we collect from you.
 
 This privacy policy (“Privacy Policy”) is provided to inform you of our policies and practices and of the choices you can make about the way your information is collected and how that information is used. By using or accessing the Sites and participating in MyView, you agree to the collection and use of your information by us in accordance with this Privacy Policy and agree to accept the terms of our Privacy Policy.  Please take a moment to review the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites or participate in MyView.
 
-If you have questions or concerns regarding this policy, you may contact the Authentic Response Privacy Office at [privacy@myview.com](mailto:privacy@myview.com). If you have any Customer Service issues, please contact Customer Service [here](http://portal.myview.com/portal/app?cmd=ContactUs&_l=1).
+If you have questions or concerns regarding this policy, you may contact the Critical Mix Privacy Office at [privacy@myview.com](mailto:privacy@myview.com). If you have any Customer Service issues, please contact Customer Service [here](http://portal.myview.com/portal/app?cmd=ContactUs&_l=1).
 
 Our privacy policy will tell you about:
 
@@ -34,10 +34,8 @@ Our privacy policy will tell you about:
 
 
 
-Thank you for using MyView, a service of Authentic Response, Inc.
+Thank you for using MyView, a service of Critical Mix, Inc.  
 
-Sincerely,  
-Jim Follett, CEO
 
 **Opt-In to MyView**
 
@@ -167,9 +165,9 @@ The terms of this Privacy Policy may change from time to time. We will notify yo
 
 **Contacting Us**
 
-We value your opinions. If you have comments or questions about our privacy policy, please send them to the Authentic Response Privacy office at [privacy@myview.com](mailto:privacy@myview.com), or contact:
+We value your opinions. If you have comments or questions about our privacy policy, please send them to the Critical Mix Privacy office at [privacy@myview.com](mailto:privacy@myview.com), or contact:
 
-_MyView \- A service of Authentic Response, Inc.  
+_MyView \- A service of Critical Mix, Inc.  
 Attn: Privacy Department  
-317 Madison Avenue, Suite 1800  
-New York, New York 10017_
+264 Riverside Avenue  
+Westport, CT 06880_
