@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gagful.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914060849id_/http%3A//www.gagful.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagful.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051320id_/http%3A//www.gagful.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gagful
 
