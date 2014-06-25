@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the crocs.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205064057id_/http%3A//www.crocs.com/privacy-security-policy/privacy-security-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crocs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122919id_/http%3A//www.crocs.com/privacy-security-policy/privacy-security-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Crocs | Privacy & Security Policy
 
-* **Our Privacy Policy has recently changed**
-
-**Effective Date of this version: May 1, 2013**
+* **Effective Date of this version: May 1, 2013**
 
   
-Thank you for visiting crocs.com, including the Crocs online store. This Website is operated by Crocs Retail, Inc., located at 7477 East Dry Creek Parkway, Niwot, CO 80503. Your access to and use of this Website is subject to the following Privacy Policy and all applicable laws.
+Thank you for visiting crocs.com, including the Crocs online store. This Website is operated by Crocs Retail, LLC., located at 7477 East Dry Creek Parkway, Niwot, CO 80503. Your access to and use of this Website is subject to the following Privacy Policy and all applicable laws.
 
 We understand your concerns about privacy and we want to assure you that Crocs takes privacy matters seriously. Therefore, we are providing this Privacy Policy explaining our online information practices and the choices you can make about the way your information, including your Personal Information, is collected and used. If you have questions regarding this Privacy Policy, you may direct them to [privacy@crocs.com](mailto:privacy@crocs.com). 
 
@@ -51,7 +49,7 @@ The terms _“Automatic Anonymous Information”_ and _“AAI”_ refer to infor
 
 The term _“Content”_ refers to all of the software and code comprising or used to operate this Website, and all of the text, photographs, images, illustrations, graphics, sound recordings, video and audio-video clips, and other materials available on this Website.
 
-The terms _“Crocs,” “we,” “us,”_ and _“our”_ refer to Crocs Retail, Inc.
+The terms _“Crocs,” “we,” “us,”_ and _“our”_ refer to Crocs Retail, LLC.
 
 The term _“Feedback”_ refers to all of the software and code comprising or used to operate this Website, and all of the text, photographs, images, illustrations, graphics, sound recordings, video and audio-video clips, and other materials available on this Website.
 
@@ -61,7 +59,7 @@ The term _“Privacy Policy”_ refers to this online privacy policy.
 
 The term _“User-Generated Content”_ refers to all of the text, photographs, images, illustrations, graphics, sound recordings, video, audio-video clips, and other material that you post on or through our Website using the social networking tools we make available to you and that does not constitute Feedback. One way that User-Generated Content differs from other information you provide to us is that, once submitted, User-Generated Content is made available on our Website to others. Examples of User-Generated Content are information you provide as part of a product review and comments you make in response to a blog post.
 
-The term _“Website”_ ” refers to crocs.com, including the Crocs online store, which is owned and operated by Crocs Retail, Inc.
+The term _“Website”_ ” refers to crocs.com, including the Crocs online store, which is owned and operated by Crocs Retail, LLC.
 
 The terms _“you”_ and _“your”_ mean any user of this Website. 
 
@@ -226,7 +224,7 @@ Need more help? You can refer to our [Help Center](http://www.crocs.com/on/deman
 
 You may also contact us at:   
 Privacy Manager   
-Crocs Retail, Inc.   
+Crocs Retail, LLC.   
 7477 East Dry Creek Parkway   
 Niwot, CO 80503   
 (303) 848-7000 
