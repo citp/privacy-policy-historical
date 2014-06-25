@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acwholesalers.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807113754id_/https%3A//www.acwholesalers.com/company/content.jsp%3Fcp%3D300016) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acwholesalers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625170636id_/https%3A//www.acwholesalers.com/Security-and-Privacy/300016.acp) for the most accurate reproduction.*
 
 # ACWholesalers Security & Privacy Policy
 
