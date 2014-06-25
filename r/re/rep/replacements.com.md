@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replacements.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217024720id_/http%3A//www.replacements.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replacements.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102458id_/http%3A//replacements.com/privacy.htm) for the most accurate reproduction.*
 
 # Replacements, Ltd.
 
@@ -49,7 +49,11 @@ When purchasing items from a bridal registry, we request the following informati
 
 Disclosure to Third Party Companies
 
-We do not sell or otherwise release any information regarding our customers to any third party. In rare cases, we may be required to provide information to courts of competent jurisdiction, regulatory authorities or agencies, or law enforcement officials in accordance with applicable law.
+We do not sell or rent any information regarding our customers to any third party. We never disclose any information to third parties for a third parties’ direct marketing purposes.
+
+We may share the information we collect from and about you with companies or individuals that provide services or perform functions that enable us to serve you. These functions or services may include order fulfillment, package delivery, communications, postal or email delivery, customer service, data analysis, credit or payment processing, and the like. These companies or individuals may need information about you to perform their work. These companies or individuals are carefully selected and must agree to safeguard your information in strict compliance with this policy when we deem appropriate.
+
+If some or all of our business assets are sold or transferred, we may transfer the corresponding information regarding our customers. We also may retain a copy of that information. 
 
 Cookies
 
