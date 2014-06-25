@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the collarspace.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817145029id_/http%3A//collarspace.com/personals/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collarspace.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121033id_/http%3A//collarspace.com/personals/privacy.htm) for the most accurate reproduction.*
 
 # 
 
-Privacy Policy for www.collarme.com 
+Privacy Policy for www.collarspace.com 
 
 Effective Date : August 27, 2002
 
@@ -12,7 +12,7 @@ Last Updated : October 23, 2007
 
 A. The operative parties referred to in this Privacy Policy (“Policy”) are and you, the user of this site.
 
-1\. is the publisher of www.collarme.com. Hereinafter, when first-person pronouns are used in this Policy, (us, we, our, ours, etc.) they are referring to the or www.collarme.com. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to www.collarme.com. Hereinafter, shall be referred to as COMPANY, or will be referred to in first-person, plural, pronouns.
+1\. is the publisher of www.collarspace.com. Hereinafter, when first-person pronouns are used in this Policy, (us, we, our, ours, etc.) they are referring to the or www.collarspace.com. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to www.collarspace.com. Hereinafter, shall be referred to as COMPANY, or will be referred to in first-person, plural, pronouns.
 
 2\. **You, the User** – As the user of this SITE, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the SITE shall be referred to in applicable second-person pronouns.
 
@@ -103,7 +103,7 @@ It is our policy not to use or share the personal information about Visitors or 
 
 **VII.** **Transmittals from Us**
 
-We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting Collarme Support using the "Support" link at the bottom of the Collarme.com homepage. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account or to the operation of the SITE. 
+We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting Collarspace Support using the "Support" link at the bottom of the Collarspace.com homepage. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account or to the operation of the SITE. 
 
 If you provide your information to us, use the SITE, or subscribe to any of our Services, you will have created a commercial relationship with us. In having done so, you understand that even unsolicited commercial email sent from us or our affiliates is not SPAM as that term is defined under the law. 
 
