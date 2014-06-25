@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vopium.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207152126id_/http%3A//vopium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vopium.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072412id_/http%3A//vopium.com/privacy-policy) for the most accurate reproduction.*
 
 # Vopium Privacy Policy
 
@@ -15,6 +15,10 @@ Vopium collects and processes, or has third party service providers who collect 
 
 
 In this Privacy Statement, the following capitalised definitions are used in the singular and plural.
+
+**_What are Cookies: A Cookie is a small file which is placed on your computer or device when you visit a website. Cookies are essential for the functionality of most websites and help users access the content that they looking for. Cookies also monitor website performance and usage, providing information that helps improve products and services and also identify areas that may require maintenance. Cookies can remember your preferences on websites including saving your username to make log-in easier when you return._**
+
+**_How to control the use of Cookies: You are not obliged to accept Cookies. Browsers lets you view the Cookies that you have installed and control their use. You can allow them, delete them individually or delete all. But note that most websites only function properly with Cookies, and you may experience slowing down of your browsing experience or even being blocked from content you require if you chose to delete Cookies. In order to manage your Cookies, please follow the instructions of your browser supplier._**
 
 Communications Content: Any information that is communicated by you when utilising Vopium Software and/or Vopium Services being this calls or SMS terminated via cellular network, VoIP, 3G data, WiFi etc. or instant messages through Vopium or 3rd party providers supported through the Vopium Service;
 
