@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyletter.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206184230id_/http%3A//tinyletter.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyletter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090334id_/http%3A//www.tinyletter.com/site/privacy.html) for the most accurate reproduction.*
 
 # TinyLetter
 
@@ -101,7 +101,7 @@ MailChimp accounts require a username and password to log in. You must keep your
 
 ## 12\. Safe Harbor Certification.
 
-MailChimp complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework, which is overseen by the U.S. Department of Commerce and covers the collection, use, and retention of personal data from European Union member countries and Switzerland. We certify that we follow the principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+MailChimp complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework, which is overseen by the U.S. Department of Commerce and covers the collection, use, and retention of personal data from European Union member countries and Switzerland. We certify that we follow the principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. A data processing agreement is available upon request, please contact privacy@mailchimp.com.
 
 ## 13\. Accuracy of Data, Transparency, and Choice
 
