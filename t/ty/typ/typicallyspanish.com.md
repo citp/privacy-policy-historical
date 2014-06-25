@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203021028id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081246id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Page - Spain news - Topsite for Spanish News in English - TypicallySpanish.com -
 
@@ -10,10 +10,10 @@ We can, however, disclose personal data to comply with legal requirements, deman
 
 ###  Contact email 
 
-The contact email urgent@typicallyspanish.com is designed as where citizens can access our services and aims, in accordance with Article 37.e) of Law 15/1999 of 13 December on the Protection of Personal Data, to provide information to people about their rights regarding treatment of personal data. 
+The contact email [feedback@typicallyspanish.com](mailto:feedback@typicallyspanish.com) is designed as where citizens can access our services and aims, in accordance with Article 37.e) of Law 15/1999 of 13 December on the Protection of Personal Data, to provide information to people about their rights regarding treatment of personal data. 
 
 The personal data you provide by e-mail is recorded in the **database owned by Howard Brereton, NIE X0892424R and address C /Los Huertos, 83, Edificio Coronado, Entrance 1, Apartment 62, 29780 Nerja (Málaga),** who aims to answer any of your questions and who also may obtain statistical data from them.   
-This email is purely informative, and does not in any case, provide answers of binding legal effect. 
+This page is purely informative, and does not in any case, provide answers of binding legal effect. 
 
 ###  Right of access, opposition, rectification and cancellation 
 
@@ -61,7 +61,7 @@ With this information we can analyse the visitor numbers of www.typicallyspanish
 
 You consent to receive commercial communications from us in your email or any other similar means, unless you notify us that prefer not to receive such communications. If you do not want to receive commercial communications, simply follow the instructions provided in each communication. 
 
-You may not use www.typicallyspanish.com as a communication tool to collect addresses, send spam or violate any of our Terms and Conditions or our Privacy Policy. We may revise or filter your messages automatically or manually to monitor malicious activity or prohibited content but we do not store messages permanently. If the user uses our tools to send content to friends, we do not permanently store the addresses or use or disclose this data for sending commercial communications. Please contact urgent@typicallyspanish.com to report the spam made by other users. 
+You may not use www.typicallyspanish.com as a communication tool to collect addresses, send spam or violate any of our Terms and Conditions or our Privacy Policy. We may revise or filter your messages automatically or manually to monitor malicious activity or prohibited content but we do not store messages permanently. If the user uses our tools to send content to friends, we do not permanently store the addresses or use or disclose this data for sending commercial communications. Please contact [feedback@typicallyspanish.com](mailto:feedback@typicallyspanish.com) to report the spam made by other users. 
 
 ###  Feedback from users of Typically Spanish 
 
@@ -76,7 +76,7 @@ You may not use www.typicallyspanish.com as a communication tool to collect addr
 ###  Opting Out 
 
 Our site provides users the opportunity to opt out of receiving promotional information from us or marketing.   
-1\. By email to urgent@typicallyspanish.com   
+1\. By email to [feedback@typicallyspanish.com](mailto:feedback@typicallyspanish.com)   
 2\. By telephone (+34) 656474892   
 
 
@@ -88,16 +88,16 @@ We use many tools (encryption, passwords, physical security) to protect our user
 
 We may update this policy at any time. The updates take effect IN one of the following two circumstances: when the user uses the website, or once 30 days have elapsed since the update.   
 If we are involved in a merger or acquisition, we may share personal data about our users with another company, but this policy will continue to apply.   
-Please send questions about this policy to urgent@typicallyspanish.com. 
+Please send questions about this policy to [feedback@typicallyspanish.com](mailto:feedback@typicallyspanish.com). 
 
 ###  Data Quality and Access 
 
 This site gives users the following options for changing and modifying information previously provided. You can use the same contact if not satisfied with any comments about your company in our comments section.   
-1\. By email to urgent@typicallyspanish.com   
+1\. By email to [feedback@typicallyspanish.com](mailto:feedback@typicallyspanish.com)   
 2\. By telephone (+34) 656474892 
 
 ###  Contacting the Website 
 
 This site gives users the following options for changing and modifying information previously provided. You can use the same contact if not satisfied with any comments about your company in our comments section.   
-1\. By email to urgent@typicallyspanish.com   
+1\. By email to [feedback@typicallyspanish.com](mailto:feedback@typicallyspanish.com)   
 2\. By telephone (+34) 656474892 3\. By contact form [click here](http://www.typicallyspanish.com/form/contactform.shtml)
