@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the wallstreetinsanity.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024015425id_/http%3A//www.wallstreetinsanity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetinsanity.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102508id_/http%3A//wallstreetinsanity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wall Street Insanity
+# Privacy Policy - Wall Street Insanity
 
 Privacy Policy:  
 WallStreetInsanity.com takes your privacy seriously. This privacy policy describes what information we collect and how we use it.
 
 Website Visitors:  
-Like most web sites WallStreetInsanity.com collects information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. 
+Like most web sites WallStreetInsanity.com collects information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request.
 
-WallStreetInsanity.com may also collect and store information that you provide such as your email address when you sign up for the WallStreetInsanity.com newsletter. 
+WallStreetInsanity.com may also collect and store information that you provide such as your email address when you sign up for the WallStreetInsanity.com newsletter.
 
-WallStreetInsanity.com purpose in collecting this information includes the following general purposes: to personalize the content you see, fulfill your requests, contact you, and to improve our services. 
+WallStreetInsanity.com purpose in collecting this information includes the following general purposes: to personalize the content you see, fulfill your requests, contact you, and to improve our services.
 
 Cookies:  
-We may place a cookie on your personal computer. A cookie is a small computer file that our computer sends to your computer and that your computer sends back to us each time you make a request from our site. Cookies help us recognize you when you visit our site again. We use cookies on our site to collect session data for several purposes to personalize and improve your individual viewing experiences on our site. Most Internet browsers automatically accept cookies. However, you can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. 
+We may place a cookie on your personal computer. A cookie is a small computer file that our computer sends to your computer and that your computer sends back to us each time you make a request from our site. Cookies help us recognize you when you visit our site again. We use cookies on our site to collect session data for several purposes to personalize and improve your individual viewing experiences on our site. Most Internet browsers automatically accept cookies. However, you can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
