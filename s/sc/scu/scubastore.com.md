@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scubastore.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130215933id_/http%3A//www.scubastore.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scubastore.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005322id_/http%3A//www.scubastore.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
 
 # scubastore Privacy policy. Online dive gear and dive equipment shop.
 
