@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the focusgroup.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927004917id_/http%3A//www.focusgroup.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusgroup.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123706id_/http%3A//www.focusgroup.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # About | Privacy Policy
 
-**Last Modified 2/08/2013   **
+**Last Modified 6/12/2014  **
 
 **PRIVACY POLICY AND RESPONDENT BILL OF RIGHTS**  
 We would like to take this opportunity to thank you for visiting our website.  We appreciate that visitors may be concerned about privacy.  For this reason, we have developed the following Privacy Policy and Respondent Bill of Rights.  If you have questions regarding our Privacy Policy, please direct such questions to [yourprivacy@focuspointeglobal.com](mailto:yourprivacy@focuspointeglobal.com?subject=A%20question%20about%20your%20privacy%20policy).
@@ -19,8 +19,9 @@ In addition, our web servers automatically collect limited information about you
 
 If you decide to sign up with us for the purpose of participating in our focus groups, we will collect information about you that will enable us to determine whether you qualify for one or more focus groups, and that will enable us to invite you to participate in specific focus groups. 
 
-**BROWSER COOKIES**  
-We use browser cookies to enhance your online experience.  Browser cookies are bits of text that are placed on your computer’s hard drive when you visit certain websites.  We utilize browser cookies to tell us, for example, whether you’ve visited our website before or if you’re a new visitor.Browser cookies may enhance your online experience by saving your preferences while you are visiting a particular site.  If you wish to stop receiving browser cookies from us, please contact us so that we may suggest ways for you to disable existing browser cookies.  Please note that disabling browser cookies may prevent you from taking full advantage of all of our website features.
+**BROWSER COOKIES**
+
+We use browser cookies to enhance your online experience.  Browser cookies are bits of text that are placed on your computer’s hard drive when you visit certain websites.  We utilize browser cookies to tell us, for example, whether you have visited our website before or if you’re a new visitor. Browser cookies may enhance your online experience by saving your preferences while you are visiting a particular site. We also sometimes contract with third party companies who specialize in search engine optimization (SEO) and measurement services. Third parties may use browser cookies to collect or receive information from our website and elsewhere on the internet and use that information to provide measurement services and target participation opportunities. If you wish to find out more about the use of cookies please visit [www.aboutads.info/choices](http://www.aboutads.info/choices)[ ](http://www.aboutads.info/choices) If you wish to stop receiving browser cookies from us, please contact us so that we may suggest ways for you to disable existing browser cookies.  Please note that disabling browser cookies may prevent you from taking full advantage of all of our website features.
 
 **CONFIDENTIALITY / EXCEPTIONS**  
 We do not knowingly reveal any personal information that is provided by our visitors or focus group participants to any third parties except as provided in this Privacy Policy, when requested to do so by a governmental agency having jurisdiction, by a court of competent jurisdiction or other operation of law, or when we believe that disclosure is necessary or appropriate to prevent physical harm or financial loss in connection with an investigation of suspected or actual illegal activity.We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets.  Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use the personal information you have provided through this website in a manner that is consistent with this Privacy Policy. 
