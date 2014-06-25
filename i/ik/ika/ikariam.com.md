@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikariam.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222225424id_/http%3A//agbserver.gameforge.com/enUS-Privacy-Ikariam.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikariam.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010057id_/http%3A//agbserver.gameforge.com/enUS-Privacy-Ikariam.html) for the most accurate reproduction.*
 
 # 
 
@@ -38,7 +38,7 @@ This website uses Google Analytics, a web analysis service provided by Google In
 Cookies    
 
 
-For technical purposes and to make the visit to our Internet presence as pleasant as possible, we use, like many other companies, our own cookies in addition to Google Analytics cookies described above. After your visit to our websites, these cookies are usually automatically deleted from your hard drive; however, some cookies may be stored on your hard drive for a longer period of time for technical reasons. Your Internet browser can be set to reject cookies generally or delete them in individual cases. &lt;b&gt;If you wish to prevent cookies from being installed or would like to delete individual cookies, please follow the instructions of the manufacturer of your browser.&lt;/b&gt; Please note that you may no longer be able to use our Internet pages or only in a limited manner for technical reasons.    
+For technical purposes and to make the visit to our Internet presence as pleasant as possible, we use, like many other companies, our own cookies in addition to Google Analytics cookies described above. After your visit to our websites, these cookies are usually automatically deleted from your hard drive; however, some cookies may be stored on your hard drive for a longer period of time for technical reasons. Your Internet browser can be set to reject cookies generally or delete them in individual cases. If you wish to prevent cookies from being installed or would like to delete individual cookies, please follow the instructions of the manufacturer of your browser. Please note that you may no longer be able to use our Internet pages or only in a limited manner for technical reasons.    
 
 
 Collection of data for statistical purposes    
