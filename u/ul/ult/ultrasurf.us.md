@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultrasurf.us privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219061210id_/https%3A//ultrasurf.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrasurf.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103841id_/http%3A//ultrasurf.us/privacy.html) for the most accurate reproduction.*
 
 # Ultrareach - Privacy Policy
 
