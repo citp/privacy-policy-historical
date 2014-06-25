@@ -1,0 +1,560 @@
+<!--The following is the downloaded HTML source of the hapeetube.biz privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625085044id_/http%3A//hapeetube.biz/page/2/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- Pinoy telebisyon -->
+<meta name="copyright" content="hapeetube - hapeetube.biz 2014 - 2014">
+<meta name="author" content="hapeetube - http://hapeetube.biz/">
+<link rel="shortcut icon" href="http://hapeetube.biz/favicon.ico">
+<link rel="icon" type="image/ico" href="http://hapeetube.biz/favicon.ico">
+
+<!-- RSS FEEDS -->
+<link rel="alternate" type="application/rss+xml" title="Recently added videos" href="http://hapeetube.biz/rss/recent">
+<link rel="alternate" type="application/rss+xml" title="Most Viewed Videos" href="http://hapeetube.biz/rss/views">
+<link rel="alternate" type="application/rss+xml" title="Top Rated Videos" href="http://hapeetube.biz/rss/rating">
+<link rel="alternate" type="application/rss+xml" title="Videos Being Watched" href="http://hapeetube.biz/rss/watching">
+
+
+<meta name="keywords" content="Tv Series, News, Sports, Celebrity">
+<meta name="description" content="Pinoy Channel | filipino channel | filipino tv | pinoy tv | Find, watch, share and discuss tv shows, tv series, news, personal videos
+">
+<meta name="distribution" content="global">
+
+
+<title>Hapeetube - Privacy Policy</title>
+<meta property="og:image" content="http://hapeetube.biz/styles/Vidi/images/thumbs/processing.png">
+<link href="http://hapeetube.biz/styles/Vidi/theme/main.css" rel="stylesheet" type="text/css">
+<link href="http://hapeetube.biz/styles/Vidi/theme/easytabs.css" rel="stylesheet" type="text/css">
+<link href="http://hapeetube.biz/styles/Vidi/theme/jscroll.css" rel="stylesheet" type="text/css">
+
+
+
+
+
+<!-- Setting Template Variables -->
+<!-- Setting Template Variables -->
+
+
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
+var baseurl = 'http://hapeetube.biz';
+var imageurl = 'http://hapeetube.biz/styles/Vidi/images';
+</script>
+
+<script>
+var baseurl = 'http://hapeetube.biz';
+var imageurl = 'http://hapeetube.biz/styles/Vidi/images';
+</script>
+<link rel="stylesheet" href="http://hapeetube.biz/styles/global/jquery_ui.css" type="text/css" media="all">
+<script type="text/javascript" src="http://hapeetube.biz/js/jquery.js"></script>
+<script type="text/javascript" src="http://hapeetube.biz/js/ui/jquery-ui.js"></script>
+ 
+<script type="text/javascript">
+var embedPlayerWidth = '640';
+var embedPlayerHeight = '360';
+var autoPlayEmbed = 'yes';
+
+
+
+function updateEmbed(width,height,autoplay)
+{
+	$('#embed_code').val( $('#embed_code').val().replace(/width=\"([0-9]+)\"/g,'width="'+width+'"') );
+	$('#embed_code').val( $('#embed_code').val().replace(/width\:([0-9]+)px/g,'width:'+width+'px') );
+	$('#embed_code').val( $('#embed_code').val().replace(/height=\"([0-9]+)\"/g,'height="'+height+'"') );
+	$('#embed_code').val( $('#embed_code').val().replace(/height\:([0-9]+)px/g,'height:'+height+'px') );
+}
+
+function switchEmbedCode(type)
+{
+	if(embed_type==type)
+		return false;
+	else
+	{
+		embed_type = type;
+		
+		var alt_embed =$('#alternate_embed_code').val();
+		$('#alternate_embed_code').val($('#embed_code').val());
+		$('#embed_code').val(alt_embed);
+		
+	}
+}
+
+
+
+</script>
+
+
+<!-- Including JS Files-->
+   <script src="http://hapeetube.biz/js/jquery_plugs/cookie.js" type="text/javascript"></script>
+    <script src="http://hapeetube.biz/js/functions.js" type="text/javascript"></script>
+ <!-- Including JS Files-->
+<script type="text/javascript">
+	callURLParser();
+</script>
+<!-- Including Plugin Headers -->
+	
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'48109617-b584-4423-a8cc-6565ddd2a747'});</script>
+
+	<link rel="stylesheet" href="http://hapeetube.biz/plugins/cb_carousel/css/cbcStyle.css">
+<script src="http://hapeetube.biz/plugins/cb_carousel/js/jquery.caroufred.js"></script>
+	<script type="text/javascript">
+
+function check_file_url(objid)
+{
+	var video_link = $('#remote_play_url').val();
+	var duration = $('#linkUploadForm'+objid+' #duration').val();
+	
+	var reg = /^([0-9\:]+)$/i;
+	
+	if(!video_link)
+	{
+		alert("Please enter valid video link");
+		$('#remote_play_url').focus();
+		return false;
+	}
+	if(!duration || !reg.test(duration))
+	{
+		alert("Please enter valid video duration");
+		$('#linkUploadForm'+objid+' #duration').focus();
+		return false;
+	}
+	
+	$.post(baseurl+"/actions/embed_form_verifier.php", 
+	{ 	
+		'mode' : 'remote_play',
+		'remote_play_url' :  $('#remote_play_url').val(),
+		duration : $("#linkUploadForm"+objid+" #duration").val(),
+		file_name : file_name,
+		thumb_file :  $("#linkUploadForm"+objid+" #thumb_file").val()
+	},				
+	
+	function (data) {
+		if(data.err)
+		{
+			alert(data.err);
+		}else{
+			$("#linkUploadForm"+objid).submit();
+		}
+	}, "json");}
+	
+
+</script>
+	
+<style>
+/*
+Description: Floating Social Share
+Author: Samir Tuladhar
+Author URI: http://www.samirtuladhar.com
+*/
+
+#box{position: absolute;left: -72px;border: 1px solid #bfbfbf;padding: 6px;background-color: #eaeaea;
+}
+
+#box div{margin-bottom:4px}
+
+#main_wrap{position:relative}
+</style>
+<script type="text/javascript">
+        $(function() {
+            var offset = $("#box").offset();
+            var topPadding = 100;
+            $(window).scroll(function() {
+                if ($(window).scrollTop() > offset.top) {
+                    $("#box").stop().animate({
+                        marginTop: $(window).scrollTop() - offset.top + topPadding
+                    });
+                } else {
+                    $("#box").stop().animate({
+                        marginTop: 0
+                    });
+                };
+            });
+        });
+    </script>
+
+
+
+
+	
+	<script src="http://hapeetube.biz/js/embed_video_mod/functions.js"></script>
+<link href="http://hapeetube.biz/plugins/embed_video_mod/css/SpryTabbedPanels.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://hapeetube.biz/plugins/embed_video_mod/js/SpryTabbedPanels.js"></script>
+	<script type="text/javascript" src="http://hapeetube.biz/player/cbplayer/jwplayer.js"></script>
+<!-- Ending Plugin Headers -->
+
+
+
+<script type="text/javascript">
+
+window.onload = function() {
+		ini_cookies();
+}
+
+</script>
+
+
+
+
+
+
+
+<script>
+$(function() {
+
+	$( ".date_field" ).datepicker({ 
+		dateFormat: 'yy-mm-dd',
+		changeMonth: true,
+		changeYear: true,
+		yearRange : "1901 : c"
+		});
+});
+</script>
+
+
+<!-- ClipBucket version 2.6 -->
+
+<script src="http://hapeetube.biz/styles/Vidi/theme/jquery.easytabs.min.js"></script>
+<script src="http://hapeetube.biz/styles/Vidi/theme/functions.js" type="text/javascript"></script>
+<script src="http://hapeetube.biz/styles/Vidi/theme/jscroll.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {					   
+	$('.user_login').hide();					   
+	
+	$('#user_login').toggle(
+		function() {
+			$('.user_login').slideDown('normal');
+		},
+		function() {
+			$('.user_login').slideUp('normal');
+		}
+								
+	);
+	$('#tab-container').easytabs();
+	$('#grid').click(
+		function() {
+			$('.grid_view').removeClass('list_view');
+			$.cookie("current_style","grid_view")
+			$('.vid_sp').hide();
+		}
+	);
+	
+	$('#list').click(
+		function() {
+			$('.grid_view').addClass('list_view');
+			$.cookie("current_style","list_view")
+			$('.vid_sp').show();
+		}
+	);	
+	
+	$('.tabs li').click(
+		function() {
+			$('.tabs li').removeClass('selected')
+			$(this).addClass('selected');
+		}
+	);
+	
+	$('#side_scroll, #side_scroll2, #side_scroll3').jScrollPane({
+									"showArrows": true,
+									"scrollbarWidth": 20,
+									"dragMaxHeight": 127,
+									"reinitialiseOnImageLoad": true
+								 });						 
+	
+	$('#lang_selector').click(function(){
+  //do redirection
+});
+
+	$('#lang_selector').change(function(){
+	  var optionSelectedValue = $('#lang_selector option:selected').val();
+	  if(optionSelectedValue)
+	  window.location = "?set_site_lang="+optionSelectedValue;
+	});
+	get_video('recent_viewed_vids','#index_vid_container');
+	
+});
+
+
+</script>
+
+
+<!--[if lte IE 6]>
+<style type="text/css">
+.clearfix { height: 1%; }
+</style>
+<![endif]-->
+
+<!--[if IE 7]>
+<link href="http://hapeetube.biz/styles/Vidi/theme/ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+
+
+
+
+
+<!--[if IE 6]>
+
+<script type="text/javascript" src="http://hapeetube.biz//styles/Vidi/layout/IE6Blocker/jquery.ie6blocker.js"></script> 
+<![endif]-->
+
+
+<!--[if IE 7]>
+
+<script type="text/javascript" src="http://hapeetube.biz//styles/Vidi/layout/IE6Blocker/iee7.js"></script> 
+
+<![endif]-->
+
+<!--[if IE 8]>
+
+	<script type="text/javascript" src="http://hapeetube.biz//styles/Vidi/layout/IE6Blocker/jquery.ie6blocker.js"></script> 
+
+<![endif]-->
+
+<script>
+var IE6 = (navigator.userAgent.indexOf("MSIE 6")>=0) ? true : false;
+if(IE6) {
+   ... do stuff ...
+}
+</script>
+
+<script>
+var IE7 = (navigator.userAgent.indexOf("MSIE 7")>=0) ? true : false;
+if(IE7) {
+   ... do stuff ...
+}
+</script>
+
+
+
+<script>
+var IE8 = (navigator.userAgent.indexOf("MSIE 8")>=0) ? true : false;
+if(IE8) {
+   ... do stuff ...
+}
+
+</script>
+
+
+
+
+	 <script type="text/javascript" src="http://hapeetube.biz//styles/Vidi/layout/IE6Blocker/jquery.ie6blocker.js"></script> 
+	  <script type="text/javascript" src="http://hapeetube.biz//styles/Vidi/layout/IE6Blocker/iee7.js"></script> 
+	  <script type="text/javascript" src="http://hapeetube.biz//styles/Vidi/layout/IE6Blocker/iee8.js"></script> 
+
+
+
+
+<script type="text/javascript">
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
+<script type="text/javascript">
+googletag.defineSlot('/57652722/300x250', [300, 250], 'div-gpt-ad-1385162372323-0').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+</script>
+
+
+<script type="text/javascript">
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
+<script type="text/javascript">
+googletag.defineSlot('/57652722/728x90', [728, 90], 'div-gpt-ad-1385162446726-0').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+</script>
+
+<script type="text/javascript">
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
+<script type="text/javascript">
+googletag.defineSlot('/57652722/468x60', [468, 60], 'div-gpt-ad-1385162413633-0').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+</script>
+
+
+</head>
+
+<!-- Global Header Ends Here -->
+<body>
+
+<div class="header_container">
+	<div class="main_header">
+  <meta property="og:image" content="http://hapeetube.biz/styles/Vidi/images/thumbs/processing.png">  	<div id="quicklist_box"></div>
+<a href="http://hapeetube.biz"><div class="logo floatL"></div></a>
+
+<div class="floatR">
+<div style="float:left;">
+
+    </div>
+
+<div class="upload_video floatL"><a href="http://hapeetube.biz/upload">upload video</a></div>
+
+    
+</div>
+ <meta property="og:image" content="http://hapeetube.biz/styles/Vidi/images/thumbs/processing.png">       
+<div class="nav_bar top_round_10 floatL">
+
+    <ul>
+<li id="cbHomeTab" class=" selected"><a href="http://hapeetube.biz">Home</a></li><li id="cbVideosTab" class=""><a href="http://hapeetube.biz/videos/">Videos</a></li><li id="cbChannelsTab" class=""><a href="http://hapeetube.biz/channels/">Channels</a></li><li id="cbGroupsTab" class=""><a href="http://hapeetube.biz/groups/">Groups</a></li><li id="cbSignupTab" class=""><a href="http://hapeetube.biz/signup">Signup</a></li>
+    </ul>
+</div> <!--nav_bar end-->
+
+<div style="clear:both"></div>
+
+
+<div class="signup floatR"><a href="http://hapeetube.biz/signup">signup</a></div>
+
+    </div>
+</div> <!--header_container end-->    
+    
+    <div class="container clearfix" style="position:relative">
+      <div id="floating-box">
+    <div id="box">
+    
+<center>
+        <div><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=174075139327522&amp;xfbml=1"></script><fb:like href="" send="false" layout="box_count" width="35" show_faces="false" font=""></fb:like></div>
+
+     
+        <div><!-- Place this tag where you want the +1 button to render -->
+<g:plusone size="tall"></g:plusone>
+
+<!-- Place this tag after the last plusone tag -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></div>
+
+<div style="margin-top:3px;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div></center>
+    </div>
+  </div>
+  
+<!-- Floating box stops here -->
+    	<div class="clearfix"></div>
+
+
+
+
+    
+</div>
+        <div class="container clearfix">
+
+<div class="search_bar full_round_5">
+	<div class="search_inner floatL">    
+    <form action="http://hapeetube.biz/search_result.php" method="get" name="search" id="search" class="search">
+        <input type="text" name="query" id="query" value="Search Video" class="s_input left_round_5" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+        <input type="submit" name="search" class="top_s_button" value="">
+    </form>
+    </div>
+    
+        
+	<div class="login_con floatL">
+        <form action="http://hapeetube.biz/signup.php" method="post" name="login" style="margin:0px; padding:0px;">
+
+            <input type="text" value="username" id="username" name="username" class="login_input full_round_5" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+	        <input type="password" value="password" id="password" name="password" class="login_input full_round_5" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+            
+			<input type="submit" value="" id="login" name="login" class="login_button">
+			<div class="forgot_button floatR"><a href="http://hapeetube.biz/forgot.php" title="Forgot Your Password">F</a></div>
+
+             
+		</form>
+    </div> <!--login_con END--> 
+                
+</div> <!--search_bar end-->
+<div class="upload_left full_round_10" style="background:#f8f8f8; border:1px solid #bfbfbf; width:98.3%; margin-top:8px;">
+
+		<div class="simple_container full_round_10" style="margin-top:10px;"><div id="contact_title">Privacy Policy</div>                
+<div class="pagewrapcont">
+<div class="istok_web">   
+<p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; font-size: 12px;">
+<strong>Privacy Policy for www.</strong>hapeetube.biz
+</p><p>
+
+</p><p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; font-size: 12px;">
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@hapeetube.biz. 
+</p><p>
+</p><p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; font-size: 12px;">
+At www.hapeetube.biz, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.hapeetube.biz and how it is used. 
+</p>
+
+<p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; font-size: 12px;">
+<strong>Log Files</strong>
+Like many other Web sites, www.hapeetube.biz makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+</p>
+
+<p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; font-size: 12px;">
+<strong>Cookies and Web Beacons&nbsp;</strong>www.hapeetube.biz does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+</p>
+
+<p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; font-size: 12px;">
+<strong>DoubleClick DART Cookie </strong>
+.:: Google, as a third party vendor, uses cookies to serve ads on www.hapeetube.biz.
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.hapeetube.biz and other sites on the Internet. 
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
+</p>
+
+<p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; font-size: 12px;">
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
+Google Adsense
+</p>
+
+<p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; font-size: 12px;">
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.hapeetube.biz send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+</p>
+
+<p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; font-size: 12px;">
+www.hapeetube.biz has no access to or control over these cookies that are used by third-party advertisers. 
+</p>
+
+<p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; font-size: 12px;">
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.hapeetube.biz privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+</p>
+
+<p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; font-size: 12px;">
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
+</p> </div></div></div>
+
+</div> <!--upload_left end-->  
+
+</div> <!--container end-->       
+    	
+	
+	<div class="container clearfix">
+            <div class="footer full_round_10 clearfix">
+                <div class="footer_links clearfix full_round_5">    <a href="http://hapeetube.biz" class="f_links">Home</a>    <a href="http://hapeetube.biz/contact" class="f_links">Contact Us</a>    <a href="http://hapeetube.biz/page/19/faq" class="f_links">FAQ</a>    <a href="http://hapeetube.biz/page/2/privacy-policy" class="f_links">Privacy Policy</a>    <a href="http://hapeetube.biz/page/4/help" class="f_links">Help</a>   <div class="powered_by"> <!--<div align="center"> Forged by <a href="http://hapeetube.biz/">Hapeetube</a> </div>-->Copyright © 2014 Hapeetube </div> </div></div></div>
+             <!--footer_con end-->
+  	 <!--container end-->
+
+
+</body></html>
