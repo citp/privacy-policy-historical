@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesheep.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928014942id_/http%3A//www.gamesheep.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesheep.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172248id_/http%3A//www.gamesheep.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -90,7 +90,7 @@ GameSheep.com is a Witchhut LLC publishing product.
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. If you have any questions about our privacy policy, the information we collect and use, please contact us at: 
 
 _Postal Address_  
-Str. Sirenelor nr. 10-12  
+Bd. Tudor Vladimirescu 45  
 Sector 5, Bucuresti  
 Romania 
 
