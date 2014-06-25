@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitsubishicars.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213172713id_/http%3A//www.mitsubishicars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitsubishicars.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050650id_/http%3A//www.mitsubishicars.com/privacy) for the most accurate reproduction.*
 
 # Privacy / Mitsubishi Motors
 
@@ -97,7 +97,7 @@ Our Sites may contain links to third party websites. This privacy policy does no
 
 ### Contact Us
 
-If you have any questions or concerns about this privacy policy, please contact MMNA by calling 1-888-MITSU2013 (1-888-648-7820).
+If you have any questions or concerns about this privacy policy, please contact MMNA by calling 1-888-MITSU2014 (1-888-648-7820).
 
 ### Privacy Policy Effective Date
 
@@ -107,9 +107,8 @@ Last Updated: October 15th, 2013
 
 1 Manufacturer's Suggested Retail Price. Excludes destination/handling, tax, title, license etc. Retailer price, terms and vehicle availability may vary. See your Mitsubishi retailer for details.
 
-2 40 MPG combined (37/44 city/hwy) CVT-equipped model. Actual mileage may vary.
-
-3 Vehicle is shown with optional Exterior package and Chrome package.
-
-4 At Mitsubishi, we are so confident in the quality, reliability and durability of the cars we build that we back our passenger cars and sport utility vehicles with very extensive warranties. This list is headed by a 10-year/100,000 mile Powertrain Limited Warranty, a 5-year/60,000 mile fully transferable New Vehicle Limited Warranty and 5-years/Unlimited miles Roadside Assistance (i-MiEV comes with 3-years/36,000 miles Roadside Assistance). All Mitsubishi models come with a 7-year/100,000 mile Anti-Corrosion/Perforation Limited Warranty.  
-Excludes Lancer Evolution, Lancer Ralliart and i-MiEV, which come with a transferable Powertrain Limited Warranty of 5 years/60,000 miles and a transferable New Vehicle Limited Warranty of 3-years/36,000 miles.
+2 Legal Disclaimer:  
+*MSRP is $22,995  
+$7,500 Less Federal tax credit  
+$15,495  
+Manufacturer's Suggested Retail Price. Excludes destination/handling, tax, title, license etc. Retailer price, terms and vehicle availability may vary. Includes CHAdeMO DC quick-charge port, battery warming system and heated side-view mirrors. See your Mitsubishi retailer for details. Destination/handling charges for Mitsubishi i-MiEV $850; Alaska/Hawaii $975. Tax savings subject to rules and availability. Taxpayer must incur federal tax liability to receive full benefit. Consult your tax professional. Actual prices set by retailer.
