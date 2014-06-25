@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allhiphop.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212223251id_/http%3A//allhiphop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allhiphop.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063646id_/http%3A//allhiphop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllHipHop.com
 
