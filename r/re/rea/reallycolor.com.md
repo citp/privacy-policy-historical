@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reallycolor.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225011329id_/http%3A//www.reallycolor.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallycolor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172409id_/http%3A//www.reallycolor.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ReallyColor
 
@@ -25,6 +25,7 @@ We collect the following types of information.
 **Analytics information:**
 
 * We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, add-ons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
+* We use analytics tools and other third party technologies, such as Google Analytics and DoubleClick Cookies, to collect non-personal information in the form of various usage and user metrics when you use the Service. These tools and technologies collect and analyze certain types of information, including cookies, IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, MAC Address, mobile unique device ID, and other similar information. No personally identifiable information is ever captured by these third-party technologies. The third party analytics companies who collect information for the Service may combine the information collected with other information they have independently collected from other websites and/or other online or mobile products and services relating to your activities across their network of websites as well as online and/or mobile products and services. Many of these companies collect and use information under their own privacy policies.You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout).
 
  **Cookies and similar technologies:**
 
