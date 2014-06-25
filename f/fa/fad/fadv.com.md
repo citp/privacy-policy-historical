@@ -1,19 +1,23 @@
-> *The following text is extracted and transformed from the fadv.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122092138id_/http%3A//www.fadv.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fadv.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112400id_/http%3A//fadv.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Online Privacy Policy  **  
 First Advantage has a separate privacy statement that applies to personal information pertaining to an identified or identifiable individual that is received by First Advantage from: (i) the European Union, called the European Union Safe Harbor Privacy Policy, (ii) from Switzerland, called the Switzerland Safe Harbor Privacy Policy, (iii) from Australia and New Zealand, called the Australian and New Zealand Privacy Policy, and (iv) from Japan, called the Japanese Privacy Policy. 
 
-**Singapore Data Protection Information**  
-Our Data Protection Officer for Singapore is Kerstin Bagus. To request information or receive help with data protection issues, contact our Data Protection Officer at:   
+**Canada & Singapore Data Protection Officer**  
+Our Data Protection Officer for Canada and Singapore is **Kerstin Bagus**.
+
+To request information or receive help with data protection issues, contact our Data Protection Officer at: 
+
 Kerstin.Bagus@fadv.com  
-+1.678-694-3375 direct  
-+65 6534 3262
+Singapore: +1.678.710.7138 direct: +65 6534 3262  
+Canada: 800.833.7511
 
 Welcome to First Advantage's Web site. Please carefully read our privacy policy to understand how we will treat the information you provide while visiting this Web site ("Web site"). This policy may change from time to time. Please check the policy each time you use our Web site for the most current information. This policy only applies to this First Advantage Web site; some of First Advantage's subsidiaries and affiliates may maintain their own privacy policies. Please refer to those Web sites for further information. This Web site is not intended for children and we do not knowingly collect any information about children.  
 
-We also apply this privacy policy in the offline context in those limited cases where we require a consumer to provide his or her Social Security Number in order for the consumer to order an information product by mail or telephone.  
+We also apply this privacy policy in the offline context in those limited cases where we require a consumer to provide his or her Social Security Number in order for the consumer to order an information product by mail or telephone.
+
 First Advantage is a leading provider of risk mitigation and business solutions. We offer clients a comprehensive portfolio of best-in-class products, services and innovative tools to help them make smarter business decisions and empower them with timely, quality information. In order to market our services effectively and with due regard for the interests of consumers, we recognize that we have an obligation to protect the privacy and confidentiality of personally identifiable information (PII) that we may obtain about individuals through this Web site. Safeguarding the privacy of information we receive on this Web site is a top priority for consumers, our customers and First Advantage. 
 
 **How We Collect and Use Information on Our Web Site  **
@@ -409,45 +413,57 @@ United States
 
 **Australian and New Zealand Privacy Policy**
 
+**Last updated: March 14, 2014**
+
 **INTRODUCTION**
 
-First Advantage Australia Pty Ltd ACN 101 863 209 and First Advantage New Zealand Limited ("First Advantage", "we", "us" or "our") provides a background screening service for its clients (the Clients), to assist them in considering candidates for employment, change in the level of responsibility, other  
-circumstances where an individual's background is relevant, or to determine if further verification or investigation is necessary. 
+First Advantage Australia Pty Ltd ACN 101 863 209 and First Advantage New Zealand Limited ("First Advantage", "we", "us" or "our") provides a background screening service for its clients (“Client”), to assist them in considering individuals for employment, change in the level of responsibility, other circumstances where an individual's background is relevant (including but not limited to insurance and claims review), or to determine if further verification or investigation is necessary.  This is achieved by preparing an employment, investigative, or due diligence report for the Client.
 
-As part of our services, we receive information about candidates for the purposes of conducting our checks. Some of this information may be "personal information" for the purposes of the Australia and New Zealand Privacy Acts: Privacy Act 1988 (Cth) & Privacy Act 1993 No. 28 (Act)(collectively referred to as the “Act”).
+This policy may change from time to time. Please check the policy each time you use our Web site for the most current information. 
 
-"Personal information" is defined (i) under the Australia Privacy Act, as "information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be  
-ascertained, from the information or opinion", and (ii) under the New Zealand Privacy Act, as “Information about an identifiable individual; and includes information relating to a death that is maintained by the Registrar-General pursuant to the Births, Deaths, Marriages, and Relationship Registration Act 1995, or any former Act”. We recognise the importance of privacy issues and respect the confidentiality of the personal information candidates provide to us.
+THE INFORMATION WE COLLECT AND HOLD 
 
-We will deal with personal and sensitive information in accordance with the Act, and our Privacy Statement and this Privacy Policy (both as amended from time to time).
+As part of our services, we receive information about individuals for the purposes of conducting our checks. 
 
-In the event a candidate does not provide the information required to perform the background screening services, First Advantage may not be able to process the background check for a Client.
+Some of this information may be "personal information" for the purposes of the Australian and New Zealand Privacy Acts: Privacy Act 1988 (Cth) (Australian Privacy Act) & Privacy Act 1993 No. 28 (New Zealand Privacy Act) (collectively referred to as the “Act”). "Personal information" is defined (i) under the Australian Privacy Act, as "information or an opinion about an identified individual, or an individual who is reasonably identifiable: (a) whether the information or opinion is true or not; and (b) whether the information or opinion is recorded in a material form or not", and (ii) under the New Zealand Privacy Act, as “Information about an identifiable individual; and includes information relating to a death that is maintained by the Registrar-General pursuant to the Births, Deaths, Marriages, and Relationship Registration Act 1995, or any former Act”. (“Personal Information”)   
+Personal Information that we collect and hold about an individual will vary depending upon the background checks required by the Client and the information the individual supplies to us. Personal Information about an individual that we may collect and hold includes name, age, date of birth, employment history, reference information, education, professional qualifications, residency, sanctions, immigration status, claims, judgments, insolvency, current and previous directorships, character, personal reputation, and such other checks and enquiries as the Client considers necessary to verify information provided by an individual . 
 
-**SENSITIVE INFORMATION**
+From Clients we may collect company address and the name, email and phone number of any system users.
 
-We may collect other personal information which is sensitive information (e.g. criminal records, membership of a political association, health). Sensitive information is given a greater level of protection under the Act. The Act imposes greater obligations on us regarding any collection, use or disclosure we make of a candidate's sensitive information. Any sensitive information we collect will be done in accordance with the Act.
+From Clients and individuals, we may collect credit card payment details. 
 
-**MAIN PURPOSES FOR WHICH WE COLLECT INFORMATION**
+From the sources of our background checks we may collect the name and job title of the person who supplied us with the information. 
 
-When engaged by a Client, First Advantage verifies a candidate's information and documentation and any responses by carrying out verification checks for the purposes of enabling the Client to assess a candidate's suitability for employment, promotion, provision of services, or other purposes in accordance with their legal obligations and internal risk management policy.
+We may also collect other Personal Information which is "sensitive information". Sensitive information is given a greater level of protection under the Act. The Act imposes greater obligations on us regarding any collection, use or disclosure we make of an individual’s sensitive information. 
 
-In certain circumstances, First Advantage may be engaged by a Client because they are required by law to determine a candidate’s suitability for a position of employment, for example under the Corporations Act 2001 (Cth) and the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (Cth).
+Sensitive information about an individual that we may collect and hold includes criminal records, and membership of a professional or trade association.
 
-In order to process and verify information for a Client's request, the Client and First Advantage may collect a candidate's personal information (including but not limited to information relating to background, character and personal reputation) from the candidate and, if necessary, use some or all of the collected personal information to collect additional personal information from various other entities (the Sources). Examples of Sources include, but are not limited to, government agencies, law enforcement bodies, publicly available records, public registries, court or tribunal records, ratings agencies, educational institutions, and regulatory and licensing bodies.
+We recognise the importance of privacy issues and respect the confidentiality of the Personal Information and sensitive information individuals provide to us. We will collect and deal with Personal Information and sensitive information in accordance with the Act, and our Privacy Statement and this Privacy Policy (both as amended from time to time).
 
-Depending on the background checks required by the Client and information candidates supply to us, we may also conduct background checks and collect information regarding employment history and references (with the exception of a candidate's current employer, unless the candidate has authorised such contact or commences employment with the Client), education, professional qualifications, residency, sanctions, immigration status, criminal records, claims, judgments, current and previous directorships, character, personal reputation, and such other checks and enquiries as the Client considers necessary to verify information provided by a candidate.
+**MAIN PURPOSES FOR WHICH WE COLLECT, HOLD, USE AND DISCLOSE PERSONAL INFORMATION**
 
-We may, from time to time, need to collect information about a candidate from a third party a candidate refers us to. In these circumstances, we will assume that the candidate has referred First Advantage to them and informed them of the purposes involved in the collection, use and disclosure of the relevant personal or other information.
+When engaged by a Client, First Advantage verifies an individual’s information, documentation and any responses by carrying out verification checks for the purposes of preparing an employment, investigative, or due diligence report. This is done at the Client’s request to enable them to assess an individual’s suitability for employment, promotion, provision of services, or other purposes in accordance with their legal obligations and internal risk management policy (including but not limited to insurance and claims review).  
+In certain circumstances, First Advantage may be engaged by a Client to prepare an employment or investigative report because they are required by law to determine a candidate’s suitability for a position of employment, for example under the Corporations Act 2001 (Cth) and the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (Cth).
 
-**HOW WE STORE AND USE PERSONAL INFORMATION**
+**HOW WE COLLECT PERSONAL INFORMATION**
 
-We may use and disclose the information and documentation and any responses a candidate has provided to us to apply to the Sources for verification of a candidate's personal and other information a candidate or a third party has provided, and to conduct public record searches.
+In order to process and verify information for a Client's request, the Client and First Advantage may collect an individual’s Personal Information directly from the individual. We may also collect information about an individual from a third party a candidate refers us to. In these circumstances, we will assume that the individual has referred First Advantage to them and informed them of the purposes involved in the collection, use and disclosure of the relevant personal or other information.  
+We may use the Personal Information, documentation and any responses an individual or third party reference has provided to us to apply to various other entities (“Sources”) for verification of an individual’s  personal and other information, to collect additional Personal Information, and to conduct public record searches. Examples of Sources include, but are not limited to, government agencies, law enforcement bodies, publicly available records, public registries, court or tribunal records, insolvency registers, educational institutions, current and/or previous employers, and regulatory and licensing bodies.
 
-The personal information provided to us by a candidate and any other personal information provided by the Sources as a result of the verification process will be processed and provided by us.
+**HOW WE HOLD PERSONAL INFORMATION**
 
-First Advantage may then report the findings of its investigations to the Client via a secure means. The Client may then use that information to consider a candidate's suitability for employment, or change in the level of responsibility, other circumstances where an individual's background is relevant or to determine if further verification or investigation is necessary.
+The Personal Information provided to us by an individual, third party references, and any other Personal Information provided by the Sources, will be processed by us.  
+First Advantage will then use the Personal Information to prepare a report outlining the findings of its investigations and provide the report to the Client via a secure means. The Client may then use that information to consider an individual’s suitability for employment, change in the level of responsibility, or other circumstances where an individual's background is relevant, or to determine if further verification or investigation is necessary. If a Fit and Proper report was requested, the Client may use this to determine the status as a Fit and Proper Person for purposes of an Australian Credit Licence. If the report was requested for insurance purposes, it may be used by the client to determine eligibility for insurance or for claims payments. 
 
-We store the personal information we receive in hard copy files and/or in electronic format in a database. We take precautions to store personal information securely. We may, from time to time, need to retain personal information collected from a candidate and the Sources to comply with our contractual, statutory or other legal obligations even after the employment or other application process is completed or terminated.
+We store the Personal Information we receive in hard copy files and/or in electronic format in a database. 
+
+We take steps to protect against the loss, misuse, or unauthorized alteration of Personal Information collected through this web site and otherwise subject to this policy. We recognize the importance of security for all personally identifiable information collected by First Advantage. Once we receive Personal Information, we take steps to protect its security on our systems. In the event we request or transmit sensitive information, we use industry standard, secure socket layer (SSL) encryption.
+
+We limit access to personally-identifiable information to those employees who need this access in order to carry out their job responsibilities.
+
+When we dispose of personally identifiable information, we use procedures to dispose of Personal Information by means such as shredding documents and erasure of electronic media that information cannot be practicably read or reconstructed. 
+
+We may need to retain Personal Information collected from an individual, third party references, or Sources to comply with our contractual, statutory or other legal obligations even after the employment or other application process is completed or terminated.
 
 **IDENTIFIERS**
 
@@ -455,42 +471,44 @@ An "identifier" is a unique identification number assigned to a candidate by the
 
 **OVERSEAS TRANSFERS OF PERSONAL INFORMATION**
 
-From time to time, we will need to transfer personal information overseas in order to liaise with the Sources, the Employer and/or our offshore related entities. We will transfer personal information overseas if:
+We may disclose Personal Information to overseas recipients. The circumstances of disclosure may be as follows:
 
-  * we reasonably believe that the recipient of the information is subject to a law or a contract which effectively upholds the Australian Privacy Legislation;
-  * the candidate has consented to the transfer;
-  * the transfer is necessary for us to provide the Client with their requested service;
-  * it is not practical to obtain a candidate's consent, the transfer is for the candidate's benefit and the candidate's consent would likely be given; or
-  * we have taken reasonable steps to ensure that a candidate's personal information will not be held, used or disclosed by the recipient in a manner inconsistent with this Privacy Policy and the Privacy Act.
+  * We may need to disclose an individual’s Personal Information overseas in order to carry out our checks. For example, if an individual lived, studied or worked overseas, we may need to disclose that individual’s Personal Information overseas to liaise with Sources, employers, third party references, or educational institutions. Disclosures of this kind may be to any country in the world, depending upon the circumstances of the individual.
+  * We may also disclose an individual’s Personal Information to our related bodies corporate located overseas, most likely in Australia, India, Canada, New Zealand, the U.S. or the U.K. Personal Information may be disclosed to related bodies corporate located overseas for purposes including data storage, administrative purposes (creating internal and external reports, invoicing and trends in data), and operational and/or processing purposes in connection with the preparation of an employment or investigative report to the Client. 
 
 
 
 **ACCESS AND CORRECTION OF INFORMATION**
 
-A candidate may apply to obtain details of their personal information which is held by us. A candidate may apply for that information by contacting the Privacy Officer at the contact details set out in this Privacy Policy. Please note that the Privacy Officer listed below handles requests from Australia and New Zealand.
+An individual has a right to request access to their Personal Information which is held by us. An individual may apply for that information by contacting the Privacy Officer at the contact details set out below. We will acknowledge receipt of a request for access. Where reasonable and practicable, we will provide access to Personal Information in the form requested by an individual. A moderate fee may be charged for this information. Proof of identity may be required. 
 
-We will handle requests for access to a candidate’s personal information in accordance with the Privacy Act. However, in some circumstances permitted under the Privacy Act we may not be required to give a candidate access to the information we hold about them.
+We will handle requests for access to Personal Information in accordance with the Act. However, in some circumstances permitted under the Act we may not be required to give an individual access to the information we hold about them.
 
-It is also important to us that the information we hold about a candidate is accurate, complete and up to date. If a candidate becomes aware that this is not the case and would like to correct their personal information, they may lodge a correction request by contacting the Privacy Officer at the contact details listed in this Privacy Policy. First Advantage will make all reasonable efforts to correct the information.
+It is also important to us that the information we hold about an individual is accurate, complete and up to date. An individual has a right to request the correction of the Personal Information that First Advantage holds about them. The Individual may do so by lodging a correction request with the Privacy Officer at the contact details listed below. First Advantage will handle correction requests in accordance with the Act.
 
-Any complaints about a breach of privacy will be dealt with in accordance with our Privacy Policy. If a candidate has a complaint about the way First Advantage has dealt with their personal information, a candidate may contact our Privacy Officer at:
+Please note that the Privacy Officer listed below handles requests from Australia and New Zealand.
 
-The Privacy Officer  
-First Advantage  
-PO Box 455  
-North Sydney NSW 2059  
-Tel: + 61 2 9017 4300
+**COMPLAINTS**
 
-If a candidate is unsatisfied with the outcome, they may refer the matter to the Privacy Commissioner at:
+We will acknowledge receipt of a complaint which we will then endeavour to resolve promptly. The maximum time we will take to investigate the complaint is 30 days. If an individual is not satisfied with the outcome, a review can be requested. 
 
-Australian Residents:  
-Website: www.privacy.gov.au  
-Tel: 1300 363 992
+If you are unsatisfied with the outcome, you may refer the matter to the Privacy Commissioner at: 
 
-New Zealand Residents:  
+  * _Australian residents: to the Office of the Australian Information Commissioner by visiting www.oaic.gov.au, calling 1300 363 992 or by emailing_[ _enquiries@oaic.gov.au_](mailto:enquiries@oaic.gov.au) _._
+  * _New Zealand Residents:  
 Website: www.privacy.org.nz  
 enquiries@privacy.org.nz  
-Tel: 0800 803 909, 04-474 7590 (Wellington), or 09-302-8680 (Auckland)
+Tel: 0800 803 909, 04-474 7590 (Wellington), or 09-302-8680 (Auckland)_
+
+
+
+**THE PRIVACY OFFICER**  
+The Privacy Officer  
+First Advantage  
+PO Box R1783  
+Royal Exchange NSW 1225  
+Tel: + 61 2 9017 4300  
+Email: [privacy@fadv.com.au](mailto:privacy@fadv.com.au)
 
 **Japan Privacy Policy**
 
