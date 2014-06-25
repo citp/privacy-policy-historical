@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219193908id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050257id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.*
 
 # Leerburg | Information about our Organization and Website
 
@@ -21,7 +21,7 @@ Controller: | Ed Frawley
 Web Site: | http://leerburg.com  
 Phone | 715.235.6502  
   
-Newsletter Policy 
+**Newsletter Policy**
 
 Leerburg Enterprises, Inc. sends out a newsletter. The following people will receive this newsletter unless they opt-out and chose not to receive it:
 
@@ -37,25 +37,29 @@ Leerburg Enterprises, Inc. sends out a newsletter. The following people will rec
 
 Every newsletter has an opt-out option at the top and the bottom of the newsletter. If a person does not wish to receive our newsletter, they simply click the opt-out link and they will automatically be added to the list of people who no longer receive our newsletter. 
 
-We do not sell our email lists nor do we sell our mailing lists. 
+We do not sell our email lists nor do we sell our mailing lists.
 
-Providing Visitors with Anonymous Access
+I want to make it very clear that Leerburg will never sell customer information to other online data collection companies. Not ever! We have been asked many times to rent our mailing list. We will never do that, much less pass on customer information to a third party. 
+
+I take the stewardship of our customer's personal information very seriously. I don’t want my personal information shared with someone who is influenced by the highest bidder, and I assume our customers feel the same way.
+
+**Providing Visitors with Anonymous Access**
 
 You can access our website home page and browse our sites without disclosing your personal data.
 
-The services and links of our Web sites
+**The services and links of our Web sites**
 
 Our web site do not enable our visitors to communicate with other visitors or to post information to be accessed by others.
 
 Our websites do not include links to third party web service providers.
 
-Automatic Collection of Information
+**Automatic Collection of Information**
 
 We only use cookies for our shopping cart system & webboard. They are used for the functionality of the web site and are not used to track any personal information.
 
 We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals.
 
-Data Collection and Purpose Specification
+**Data Collection and Purpose Specification**
 
 We collect the personal data that you may volunteer while using our services. 
 
@@ -69,7 +73,7 @@ If we wish to use your personal data for new purposes, we offer you the means to
 >  By sending postal mail to this address - PO Box 218, Menomonie, WI 54751  
 >  By calling this telephone number - 715.235.6502
 
-Children's Privacy
+**Children's Privacy**
 
 We do not knowingly collect personal data from children.
 
@@ -87,7 +91,7 @@ Disclosure and Visitor Choice
 
 We do not disclose your personal data to our subsidiaries or other organizations.
 
-Confidentiality
+**Confidentiality**
 
 We give you the option of using a secure transmission method to send us the following types of personal data:
 
@@ -114,14 +118,14 @@ All our employees and data processors, who have access to, and are associated wi
 We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation.  
 
 
-Security
+**Security**
 
 We here at Leerburg Enterprises make safety of your private information a #1 priority. Where possible we put the highest safe guards on data and adhere to all industry standards on data security. 
 
 Orders are placed through a high grade 128-bit encrypted HTTPS connection. Orders are received by Leerburg over a secure, private, encrypted connection. Some information (like your email order receipt) is transferred over email, but does not contain vital information like credit card numbers, expiration dates or CVV2 Codes. Orders are processed & fulfilled by (background-checked) employees at a secure facility in Menomonie, Wisconsin. Order Records are stored digitally on a secure server with limited access (CVV2 information is not kept past processing). Paper records are securely stored for the legal number of years required per credit card company policy. Paper records do not have credit card details printed on them. We do not store any card information past the point of processing. We are fully PCI compliant.  
 
 
-Access to the personal data we may hold about you
+**Access to the personal data we may hold about you**
 
 You can ask us, by:
 
@@ -160,7 +164,7 @@ We do not reserve the right to refuse to provide you with a copy of your persona
 We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data.  
 
 
-Privacy Compliance
+**Privacy Compliance**
 
 There are no national laws or self-regulatory schemes applicable to our web site or organization.
 
@@ -172,7 +176,7 @@ In order to demonstrate that our privacy policy accords with the above privacy i
 
 
 
-Self Assessment Procedure:
+**Self Assessment Procedure:**
 
 Name or designation of the privacy policy person or service:  | Ed Frawley  
 ---|---  
@@ -181,7 +185,7 @@ Address: | PO Box 218
 Menomonie, WI 54751  
 Country | USA  
   
-Privacy Support:
+**Privacy Support:**
 
 If you have an enquiry or concern about our privacy policy, please contact:
 
@@ -198,7 +202,7 @@ URL: | http://leerburg.com
   
 We do not recommend another means by which visitors' concerns may be addressed.
 
-TABLE of personal data collected and purposes for which they are used
+**TABLE of personal data collected and purposes for which they are used**
 
 x Volunteered by each visitor  
 \- Collected from public records or bodies  
@@ -328,7 +332,7 @@ Other: |
 
 -  
   
-Other personal details and profiling data is not collected
+**Other personal details and profiling data is not collected**
 
 These include data that is:
 
