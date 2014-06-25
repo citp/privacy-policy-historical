@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desihome.info privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825032022id_/http%3A//desihome.info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desihome.info privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133821id_/http%3A//desihome.info/privacy_policy.php) for the most accurate reproduction.*
 
 # DesiHome.Info - Privacy Policy
 
