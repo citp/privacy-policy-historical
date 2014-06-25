@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the themedy.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209005638id_/http%3A//themedy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themedy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083434id_/http%3A//themedy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Themedy
-
-(last update: Mar 2011)
 
 ### Information we gather
 
@@ -43,3 +41,5 @@ Our website makes use of cookies which are small digital files that are stored i
 Your browser settings may allow you to block these cookies, but we recommend you have them enabled to help us personalise your experience of our website.
 
 Additionally, 3rd party advertisers on our site may use cookies for tracking purposes.
+
+(last update: Mar 2011)
