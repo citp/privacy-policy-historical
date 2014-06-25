@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indumenti.se privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210140031id_/http%3A//www.indumenti.se/pages/privacy-policy/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indumenti.se privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123207id_/http%3A//www.indumenti.se/pages/privacy-policy/7) for the most accurate reproduction.*
 
-# Security and Privacy Policy | Eton Store
+# Security and Privacy Policy | Swedish Mens Shirts and Suits At indumenti
 
 Indumenti is committed to protecting the privacy of our customers. This statement outlines our privacy and data protection policy.
 
