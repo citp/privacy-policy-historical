@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nethugs.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223050219id_/http%3A//nethugs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nethugs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115213id_/http%3A//nethugs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « NetHugs.com – Inspirational eCards
 
