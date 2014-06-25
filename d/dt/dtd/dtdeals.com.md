@@ -1,46 +1,205 @@
-> *The following text is extracted and transformed from the dtdeals.com privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523014817id_/http%3A//www.dealtree.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtdeals.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625200026id_/http%3A//www.bestbuy.com/site/Help-Topics/Privacy-Policy/pcmcat204400050062.c%3Fid%3Dpcmcat204400050062) for the most accurate reproduction.*
 
-# Dealtree Privacy Policy
+# Privacy Policy - Best Buy
+
+## Privacy Policy
+
+We take your privacy seriously, and we want you to know how we collect, use, share and protect your information.
+
+**This Privacy Policy tells you:**
+
+  * What information we collect
+  
+
+  * How we use that information
+  
+
+  * How we may share that information
+  
+
+  * How we protect your information
+  
+
+  * Your choices regarding your personal information
+
+
+
+This Policy applies to BestBuy.com, Best Buy stores and other locations under the Best Buy name. This Policy may not apply to other Best Buy brands such as Future Shop (FutureShop.ca), Best Buy Canada (BestBuyCanada.ca), Magnolia Audio Video (Magnoliaav.com), Geek Squad (GeekSquad.com), Pacific Sales (PacificSales.com), Best Buy China (BestBuy.com.cn), Jiangsu Five Star Appliance Co. (Five-Star.cn) among others, each of which may have their own privacy policies. We may post additional information if more details are needed to explain our privacy practices.
+
+## Information We Collect
+
+**Information You Give Us**  
+We receive and may store any information you enter on our websites or give to us in our stores. For example, we collect information from you when you place an order, create an account, call us with a question, create a Wish List, write a review, or use any of our services.
+
+The information we collect from you includes things like:
+
+  * Your name
+  
+
+  * Your mailing address
+  
+
+  * Your e-mail address
+  
+
+  * Your phone number
+  
+
+  * Your credit card number and other payment information
+  
+
+  * Your driver's license number
+  
+
+  * Credit application information, such as your Social Security number
+  
+
+  * Demographic and lifestyle information, such as age, personal interests and product preferences
+
+
+
+It may also include information you give us about other people, such as the name and address of a gift recipient, or the name and contact info of a Friends & Family Pickup person.
+
+**Information from Other Sources**  
+We may also receive information about you from other sources, including third parties that help us update, expand and analyze our records and identify new customers.
+
+**Automated Information Collection**  
+We collect information related to your interactions with our websites and apps to create a superior, personalized shopping experience, whether you are online or in our stores. This information includes your IP address, browsing behavior while on our site, browser and device characteristics, and referring URLs. This information is collected and stored using a variety of common technologies, including various types of cookies, web beacons, and tags. Our websites and mobile applications are not designed to respond to "do not track" requests from browsers. These technologies may also allow us to identify you as a particular Best Buy retail store customer when you visit our websites, and to link your activities on our websites to your interactions with us in our stores.
+
+To help us understand and enhance our interactions with you, we may permit web analytics and other providers to collect and process information on our websites using the technologies described above. We also may share personal information with those providers. We may have similar arrangements with interest-based advertisers. Interest-based advertising is covered in more detail below.
+
+**Location Information**  
+Some of our websites and mobile applications may collect certain information such as the type of mobile device you're using or your specific location to help you search for one of our stores. To allow any application to identify your location, you must enable this functionality through your mobile device's settings to allow the use of technologies such as Wi-Fi, GPS signals, cell tower position, or other technologies. Best Buy has no control over your device's settings. 
+
+**Public Forums**  
+Our websites offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. 
+
+## How We Use the Information We Collect
+
+We use the information we collect for things like:
+
+  * Fulfilling orders and requests for products, services or information
+  * Processing returns, exchanges and layaway requests
+  * Tracking and confirming online orders
+  * Delivering or installing products
+  * Managing our My Best Buy™ program
+  * Marketing and advertising products and services
+  * Conducting research and analysis
+  * Establishing and managing your accounts with us
+  * Communicating things like special events, sweepstakes, promotions and surveys 
+  * Processing Best Buy credit card or My Best Buy™ MasterCard applications
+  * Identifying you on our websites and tailoring advertisements and offers to you (both on our websites and on other websites) based on your interactions with us in our stores and online
+  * Facilitating interactions with Best Buy and others, such as enabling you to e-mail a link to a friend 
+  * Operating, evaluating and improving our business 
+
+
+
+**Data Retention**  
+We will retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+## How We Share the Information We Collect
+
+Best Buy does not sell, rent or trade your personal information to third parties.
+
+Best Buy Co., Inc. is the parent company of the Best Buy Companies ("Best Buy"), and as such, if you provide information to any of the businesses, stores or websites owned or operated by Best Buy, this information may be combined or shared among current or future Best Buy Co., Inc. entities, including affiliates and subsidiaries. 
+
+We may share your information with third parties to perform services on our behalf such as:
+
+  * Fulfilling orders
+  * Delivering packages
+  * Scheduling and performing installations
+  * Servicing products
+  * Maintaining our My Best Buy™ program
+  * Sending Best Buy marketing communications
+  * Fulfilling subscription services
+  * Conducting research and analysis
+  * Applying for credit cards and processing credit card payments 
+  * Providing chat functions 
+
+
+
+Sometimes we may be required to share personal information in response to a regulation, court order or subpoena. We may also share information when we believe it's necessary to comply with the law. We may also share information to respond to a government request or when we believe disclosure is necessary or appropriate to protect the rights, property or safety of Best Buy, our customers, or others; to prevent harm or loss; or in connection with an investigation of suspected or actual unlawful activity. 
+
+We may also share personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.
+
+We may share personal information in connection with financial products or services related to our business such as private label credit cards. We may also share personal information in connection with co-branded product or service offerings. For example, when you apply for a Best Buy credit card, we may share your personal information with our banking partners that issue the card.
+
+## How We Protect the Information We Collect
+
+Whether you are shopping online or in our stores, we use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it. Best Buy cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.
+
+We use a variety of information security measures to protect your online transactions with us. The Best Buy websites use encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL protects information you submit via our websites such as ordering information, including your name, address and credit card number. Information you provide to us via our in-store kiosk does not traverse the public Internet.
+
+## Your Choices Regarding the Information We Collect
+
+You may choose to:
+
+  * Stop receiving marketing or promotional e-mails, direct mail, phone and mobile marketing communications
+  * Update and correct your personal information 
+  * Cancel your account or request that we no longer use your information to provide you services
+  * Request removal of your personal information from our blog or community forum 
+
+
+
+To do any of these, let us know by one of these methods:
+
+  * Follow the directions in a marketing e-mail or direct mail or mobile communication that you receive from us
+  * Call 1-888-BEST BUY (1-888-237-8289) with your request and current contact information
+  * Send an e-mail with your request and current contact information to: _[PrivacyManager@bestbuy.com](mailto:PrivacyManager@bestbuy.com)_
+  * Send a letter with your request and current contact information to: 
+
+Best Buy Corporate Campus  
+Attn: Customer Care/Privacy  
+7601 Penn Avenue South  
+Richfield, MN 55423-3645 
+
 
   
-| 
 
-Dealtree Inc. is committed to respecting the privacy rights of visitors to this web site. This privacy statement discloses the privacy practices for this Dealtree-operated website. 
 
-**Dealtree Privacy Statement  
-**This privacy statement describes the measures we have taken to safeguard and protect your privacy, while providing you with a unique and rewarding online experience. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. This website uses cookies to keep track of items in your shopping cart during your website visit. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. Information collected by Dealtree is used for the purposes of processing orders, keeping you informed about your order status, for statistical purposes and for improving this Dealtree-operated website and its performance. This Dealtree-operated website uses secure order forms for customers to request information, to trade items, or purchase products. We may request personally identifiable information such as customer's contact information (like your name, email address, address, telephone number) and financial information (like your credit card information). Contact information collected from secure online forms is used to send orders and information about our company to our clients and fulfillment partners. Your contact information is also used to get in touch with you when necessary. You may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill you for products and services. 
+## Interest-Based Advertising
 
-**Security  
-**This site has taken certain security measures to protect the loss, misuse and alteration of the information under our control. Dealtree has implemented a variety of security measures to maintain the safety of your personally identifiable information. Your personally identifiable information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights. When you place orders or access your personally identifiable information, we offer the use of a secure server. All sensitive/credit information supplied by you is transmitted via Secure Socket Layer (SSL) technology and securely stored in Dealtree's database. 
+We use third-party advertising companies to display ads when you visit our websites or other sites on the Internet. These companies may collect personal and other information about your visits to this and other websites. We may also share personal information with these companies. In either case, the purpose is to provide ads about products and services that may be of interest to you.  
 
-**Service Providers and Dealtree’s Information Sharing Practices  
-**Dealtree uses third party service providers to receive and inspect your shipped product, fill and deliver your order, charge your credit card, and provide customer service. Third party service providers and suppliers are required to keep confidential any personally identifiable information received on behalf of Dealtree and are not to use it for any purpose other than to carry out the services they are performing for us. 
+  To learn more about interest-based advertising (also called behavioral advertising), visit [www.aboutads.info](http://www.aboutads.info/).   
+To opt-out of interest-based advertising, use Evidon's Global Opt-Out tool at [www.evidon.com/consumers-privacy/opt-out.](http://www.evidon.com/consumers-privacy/opt-out). There is also a Profile Manager tool which allows you to manage your interest-based preferences used by ad networks, data aggregators and others.
 
-Where applicable, Dealtree may disclose personally identifiable information to its product suppliers for the purposes of automated manufacturer warranty registration, sales reporting, and third party warranty registration.
+## Protecting Children's Privacy
 
-We may also share personally identifiable information in connection with law enforcement, fraud prevention, and other legal action, or if Dealtree reasonably believes it is necessary to do so to protect Dealtree, its customers or the public. 
+We are committed to protecting children's privacy on the Internet and we do not knowingly collect personal information from children under the age of 13.
 
-**Dealtree does not sell, trade, or rent your personally identifiable information to others.  
-**  
-**Co-branded Sites  
-**Co-branded sites are websites that Dealtree hosts, operates and manages for its clients under the client’s logo or trademarks. We collect customer data and share certain personally identifiable information as appropriate with our respective clients based on their disclosed privacy policies.
+## Links to Other Websites 
 
-**Links to Other Web Sites  
-**Please note that Dealtree has links to other web sites. When you click on one of these links, you leave Dealtree and go to another web site. We encourage you to read the privacy statements of these sites, to which we link, as their privacy policy may differ from ours. 
+Our websites link to other websites, many of which have their own privacy policies. Be sure to review the privacy policy on the site you're visiting. 
 
-**Choice/Opt-Out  
-**This Dealtree-operated website provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+## Social Media Widgets
 
-For removal from all future email notifications from Dealtree, send an email to [ customerservice@dealtree.com](mailto:customerservice@dealtree.com) with the words "opt out" in the subject line. 
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-**Correct/Update  
-**To change, update or correct customer profile information, or notification preferences previously provided, you will need to login to http://www.dealtree.com and change the information previously provided to us. 
+## Privacy Policy Updates
 
-**Notification of changes**  
-From time to time, we may choose to change our privacy practices and this Privacy Statement. We will notify you of material changes to the Privacy Statement by posting a revised Privacy Statement at this Web Site. We recommend that you check back at this Web Site on a periodic basis to review the then current Privacy Statement.  
-**  
-Contacting the Web site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can email [customerservice@dealtree.com](mailto:customerservice@dealtree.com). Your email address and comments will only be used to respond to your inquiry and will not be saved. 
+We may need to update our Privacy Policy as Best Buy and our customers grow and evolve. If we make material changes, including any change in ownership or uses of your personal information, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective, as well as inform you of any choices you may have with respect to these changes.
 
-  
-This policy was last updated on 5/26/2005.
+## TRUSTe Privacy Seal
+
+Best Buy Co., Inc. has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, www.BestBuy.com and does not cover information that may be collected behind the log in on our website.
+
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [PrivacyManager@bestbuy.com.](mailto:PrivacyManager@bestbuy.com) If you are not satisfied with our response you can contact [TRUSTe](https://feedback-form.truste.com/watchdog/request) here.
+
+## Have Questions? 
+
+If you have any questions about our Privacy Policy or practices, we'll do our best to answer them. Here's how to contact us:
+
+**Phone:**  
+1-888-BEST BUY (1-888-237-8289)
+
+**E-mail:**  
+[PrivacyManager@bestbuy.com](mailto:PrivacyManager@bestbuy.com)
+
+**Address:**  
+Best Buy Corporate Campus  
+Attn: Customer Care/Privacy  
+7601 Penn Avenue South  
+Richfield, MN 55423-3645 
+
+Last Updated 2/21/2014
