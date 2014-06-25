@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phixr.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805211418id_/http%3A//www.phixr.com/about/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phixr.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063909id_/http%3A//www.phixr.com/about/terms) for the most accurate reproduction.*
 
 # Phixr - Online Photo Editor [Legal]
 
@@ -6,7 +6,7 @@ Phixr Terms of Use
 
 By using any of the Phixr websites (hereinafter "the Site") you are agreeing to be bound by the following terms and conditions ("Terms of Use"):
 
-  * The Site is intended exclusively for personal non-commercial use and is not a generic data hosting service. Professional or corporate or commercial uses of the Site are prohibited, whereas commercial use includes all activities targeted at revenue. Commercial use of the Site requires a written express permission.
+  * The Site is intended exclusively for personal use and is not a generic data hosting service.
   * You may not use the Site's service for any illegal or unauthorized purpose. Users agree to comply with all applicable local laws regarding online conduct and acceptable content.
   * You must not, in the use of the Site, violate any laws in your jurisdiction (including but not limited to copyright laws).
   * You must not create or submit unwanted email to anyone ("spam").
@@ -80,15 +80,15 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 
 Facebook permissions
 
-For Phixr to provide all its Facebook-related services, it needs permissions to access your Facebook data. Here is which permissions are needed and what Phixr uses them for:
+For Phixr to provide all its Facebook-related services, it needs certain permissions to access your Facebook data. Here is which permissions are needed and what Phixr uses them for:
 
   * **"Your basic info"** : Phixr only uses _your name_ for tagging yourself in a photo, and the _list of your friends_ for tagging them and accessing their photos. No other information is accessed or used.
   * **"Your Photos" and "Photos shared with you"** : This is for allowing Phixr to _download your photos_ from Facebook, including photo tags.
-  * **"Post on your behalf"** : As dangerous as this might sound, in fact, this is only needed to _upload photos_ to your albums. Phixr does not "post" anything to your wall.
+  * **"Post on your behalf"** : As dangerous as this might sound, in fact, this is only needed to _upload photos_ to your albums. Phixr does not "post" anything to your wall. As of August 2013, this permission is not asked for upon entering Phixr, only later if you want to upload a photo.
 
 
 
-You can revoke all permissions from within the "Privacy" page in your Facebook account settings. If you remove Phixr as a Facebook app, permissions are revoked as well.
+You can revoke all permissions from within the "Privacy" page in your Facebook account settings. If you remove Phixr as a Facebook app, permissions are revoked and Facebook notifies Phixr; in that case Phixr will permanently delete all your Facebook related data.
 
 Information Sharing and Disclosure
 
@@ -139,4 +139,4 @@ This product makes use of algorithms described in: "Fast Anisotropic Smoothing o
 
 Products and company names are being used without references to trademarks, patents or copyrights. Therefore, the lack of a respective notice does not permit the assumption that a name is free of rights.
 
-Effective Date: May 31, 2011.
+Effective Date: November 4, 2013.
