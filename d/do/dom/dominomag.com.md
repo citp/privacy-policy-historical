@@ -1,47 +1,106 @@
-> *The following text is extracted and transformed from the dominomag.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222022947id_/http%3A//www.architecturaldigest.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominomag.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093604id_/http%3A//domino.com/about%2520us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy: architecturaldigest.com
+# domino
 
-  1. Privacy Policy 
-    * Last Revised January 8, 2009
-    * Kids and parents click here!
-    * The following Privacy Policy summarizes the various ways that The Condé Nast Publications ("Service Provider," "we" or "our") treats the information you provide while using www.architecturaldigest.com ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
-    * Please read this Privacy Policy carefully. You can access the Privacy Policy any time at http://www.architecturaldigest.com/services/privacypolicy. Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
-    * In addition to reviewing this Privacy Policy, please read our [User Agreement](https://web.archive.org/services/useragreement). Your use of the Website constitutes agreement to its terms and conditions as well. 
-    * This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
-    * I. THE TYPE OF INFORMATION THE WEBSITE COLLECTS 
+Domino Media Group, Inc. (hereafter "we", "our", or "us") has developed this Privacy Policy ("Policy") in a continued effort to protect the privacy of our users. This Policy applies to your use of our website and any related services (the "Website") under the domain name domino.com. By using or visiting the Website you agree to be bound by this Policy. If you do not agree with this Policy, please do not use the Website.
 
-      * The Website generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our publication(s), or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested. 
-      * Our servers may also automatically collect information about your computer when you visit the Website, including without limitation the type of browser software you use, the operating system you are running, the website that referred you, and your Internet Protocol ("IP") address. Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. 
-    * II. HOW THE WEBSITE USES INFORMATION PROVIDED BY YOU 
+### Information Gathered by Us
 
-      * Service Provider uses personally identifying information you supply through the Website to provide you with the service you have requested. For example, if you subscribe to any of our publications, we may use your e-mail address to send you a confirmation notice and your mailing address to send you the publication. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs. 
-      * Unless otherwise specified on the Website, Service Provider may sell or share personally identifying information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your personally identifying information shared, write to us at the street address set forth at the end of this document. If you do not wish to receive future commercial communications from us by e-mail, [click here](http://www.condenastdigital.com/emailform/optOut/entry) for instructions to be removed from Service Provider's mailing lists. If you've registered on any part of the Website, please use the mechanism on the Website that allows you to change or update your member preferences or information, if available, to keep all such date accurate and up-to-date. Otherwise, contact our Privacy Policy Coordinator as described below with your changes. 
-      * We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on the Website, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that may be managed or participated in by third parties, such as auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Service Provider will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Service Provider does not bear any responsibility for any actions or policies of third parties. We may also provide access to our database in order to cooperate with official investigations or legal proceedings, including, for example, in response to subpoenas, search warrants, court orders, or other legal process. 
-      * In addition, we reserve the right to use the information we collect about your computer, which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, and to otherwise administer our Website.
-      * While your personally identifying information is protected as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners. 
-      * In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Service Provider, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Website users may be among the transferred assets. 
-    * III. COOKIES
+  * Information Submitted by a user 
+    * Domino collects personal information when you register or request information from us. The personal information we collect is listed below:
+      * -Login Name
+      * -Password
+      * -Email address
+  * You may change your personal information by signing in to your Domino account and select "edit my account". 
+    * If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.
+    * You may also enter another person's email to share a Design. In this circumstance, we collect the following information about the recipient:
+      * -Email address
+    * In addition, at your option, your personal information can be used to keep you up date on the latest product announcements, special offers and other information we think you’d like to hear about.
+  * Non-submitted Information Collected 
+    * The Website may also collect non-personal information not associated with your identity. We collect this data to improve the Website. The non-submitted information we collect is listed below: 
+      * -IP
+      * -Time
+      * -File
+      * -Data Transferred
+      * -Browser Type and Version
+      * -Operating System
+  * Domino follows the guidelines established by the Federal Children's Online Privacy Protection Act of 1998 (COPPA). Therefore, we will never knowingly accept or solicit personally identifiable information from a user known to be under the age of thirteen (13). If you have a concern, please refer to our Terms of Service for information on how to notify us.
 
-      * You may have read about "cookies," nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Website and are given the option to save your user name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies.
-      * Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. 
-      * We may also use advertising service vendors to help present advertisements on the Website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith. If you do not want the benefits of these advertising cookies, you may be able to opt-out by visiting <http://www.networkadvertising.org/optout_nonppii.asp>.
-      * If you don't want any cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly. 
-    * IV. INFORMATION SECURITY AND NOTIFICATION
 
-      * Because no data transmission over the Internet is completely secure, and no system of physical or electronic security is impenetrable, Service Provider can not guarantee the security of the information you send to us or the security of our servers or databases, and by using the Website you agree to assume all risk in connection with the information sent to us or collected by us when you use the Website. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you by e-mail (provided we have your e-mail address).
-    * V. KIDS AND PARENTS 
 
-      * This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site. 
-      * If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. 
-      * If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.
-    * VI. PRIVACY POLICY COORDINATOR
+### Use of Gathered Information
 
-      * If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
-      * Privacy Policy Coordinator  
-The Condé Nast Publications  
-1313 Market Street  
-Wilmington, DE 19801  
-[Privacy_administration@advancemags.com](mailto:Privacy_administration@advancemags.com)
+  * Use of the Submitted Information 
+    * We will not sell or rent your personal information to others, except to the extent necessary to fulfill any requests by you to share content through another Website or partner. 
+    * Your email may be used to answer any requests made by you, or to provide status updates around the Website or its processes. 
+    * Domino may combine Your information with other information about You that Domino receives from other sources. 
+  * We may aggregate (gather up data across all user accounts) personal information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally.
+  * Your User ID and any content you generate are displayed throughout the Site. Therefore this data is available to the public. All of your activities on the Site will be identifiable to your User ID. Other people can see your items, sets, comments, and any other content you have created on the Website.
+  * Finally, we do not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above, without also providing you an opportunity to opt-out.
+
+
+
+### Sharing Information with Service Providers
+
+Domino works with other companies that help us provide products and services to you, and we may provide your personal information to these companies. For example, we give shipping companies this information so they can deliver your products efficiently. The information they receive is for shipping and delivery purposes only, and we require that the companies safeguard your personal information in accordance with Domino’s policies.
+
+### Data security
+
+  * We take a reasonable effort to protect your personal information stored in our database. Access to your personal information is limited to our authorized staff who need that information to perform their job functions.
+  * Your password is stored in an encrypted form which makes it computationally impossible for anyone, including us, to derive the plain text password from it.
+
+
+
+### **Copyright Complaints:**
+
+A.   We respect the intellectual property of others, and we ask our users to do the same. We may, in appropriate circumstances and at our discretion, in addition to our other remedies, terminate, discontinue, suspend and/or restrict the account/profile or ability to access, visit, and/or use the Service of users who infringe the copyright rights of others, and we may choose to remove, delete, erase, or disable access to Content deemed to be infringing. It is our policy to terminate the access of repeat infringers.
+
+B.   If you have reason to believe that your Content has been copied and/or is accessible on the Service in a way that constitutes copyright infringement, or that the Service contains links or other references to another site, application, destination or service that contains Content or activity that infringes your copyright rights, you may notify us by providing a document via fax, first class U.S. mail, or e-mail that includes the following information (as required by the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act, 17 U.S.C. sec. 512) to our copyright agent set forth below:
+
+                 i.        A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+
+                ii.        Identification of the copyrighted work claimed to have been infringed, or if multiple copyrighted works at the Service are covered by a single notification, a representative list of such works at the Service;
+
+               iii.        Identification of the copyrighted work that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate such copyrighted work;
+
+               iv.        Information reasonably sufficient to enable us to contact the complaining party, such as an address, telephone number, and if available, an electronic mail address at which the complaining party may be contacted;
+
+                v.        A statement that the complaining party has a good faith belief that use of the copyrighted work in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+
+               vi.        (vi) A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+C.   **IMPORTANT:**  MISREPRESENTATIONS MADE IN A NOTICE CLAIMING THAT CONTENT OR ACTIVITY IS INFRINGING VIOLATES THE DIGITAL MILLENNIUM COPYRIGHT ACT AND MAY EXPOSE YOU TO LIABILITY FOR DAMAGES (INCLUDING COSTS AND ATTORNEYS' FEES). COURTS HAVE FOUND THAT YOU MUST CONSIDER COPYRIGHT DEFENSES, LIMITATIONS OR EXCEPTIONS BEFORE SENDING A NOTICE. ACCORDINGLY, IF YOU ARE NOT SURE WHETHER CONTENT RESIDING ON OUR SERVICE INFRINGES YOUR COPYRIGHT, WE SUGGEST THAT YOU FIRST CONTACT AN ATTORNEY. IN ADDITION, PLEASE DETERMINE WHETHER THE CONTENT YOU ARE SENDING A NOTICE ABOUT IS ACTUALLY RESIDING ON OUR SERVICE BEFORE SENDING THE NOTICE.
+
+D.   **Copyright Agent:**
+
+Lauren Saul
+
+|   
+---|---  
+  
+Domino Media Group, Inc.
+
+| 
+
+Phone: 877-223-7844  
+  
+8Wright Street, First Floor
+
+| 
+
+Fax: (203) 557-3277  
+  
+Westport, CT 06880
+
+| 
+
+E-mail: [lsaul@domino.com](mailto:copyright@sabinfirm.com)  
+  
+E.   **Note: Only copyright complaints should be sent to agent. No other communications will be accepted or responded to.**
+
+### Legal disclaimer disclosure
+
+  * We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on the Website.
+  * Domino reserves the right to change or modify the Policy at any time, without prior notice, by posting the modified Policy on the Website. Your continued use of the Website indicates your acceptance of any revised Policy.
 
 
