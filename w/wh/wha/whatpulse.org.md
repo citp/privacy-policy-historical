@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whatpulse.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231234857id_/http%3A//whatpulse.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatpulse.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091842id_/http%3A//whatpulse.org/pages/privacy) for the most accurate reproduction.*
 
-# WhatPulse
+# Privacy Policy | WhatPulse
 
 The following page outlines how WhatPulse uses and protects any information that you give WhatPulse when using this website or the software client.
 
