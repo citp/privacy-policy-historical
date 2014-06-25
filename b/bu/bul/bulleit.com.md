@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulleit.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118081953id_/http%3A//www.bulleit.com/privacy-policy-cookies-notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulleit.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105810id_/http%3A//www.bulleit.com/privacy-policy-cookies-notice.aspx) for the most accurate reproduction.*
 
 # BULLEIT FRONTIER WHISKEY - PRIVACY POLICY AND COOKIE NOTICE
 
@@ -94,7 +94,7 @@ This website is operated by a member of the Diageo group of companies, the ultim
 
 All references to 'our', 'us', 'we', or ‘company’ within this policy and within the opt-in notice are deemed to refer to Diageo plc, its subsidiaries, affiliates, and/or associates, as appropriate.
 
-We endeavour to protect your personal privacy. We provide this Privacy and Cookie Notice to help you to understand what we may do with any personal information that we obtain from you. By providing your personal information to us, you signify your acceptance of our Privacy and Cookie Notice and agree that we may collect, use, and disclose your personal information as described in this Privacy and Cookie Notice. If you do not agree to this Notice, please do not provide your personal details to us. This Privacy and Cookie Notice is incorporated into, and part of, the [Terms and Conditions](https://web.archive.org/web/20131118081953id_/http%3A//www.bulleit.com/terms-conditions.aspx), that govern your use of the site in general. We will use your information only for the purposes set forth below. 
+We endeavour to protect your personal privacy. We provide this Privacy and Cookie Notice to help you to understand what we may do with any personal information that we obtain from you. By providing your personal information to us, you signify your acceptance of our Privacy and Cookie Notice and agree that we may collect, use, and disclose your personal information as described in this Privacy and Cookie Notice. If you do not agree to this Notice, please do not provide your personal details to us. This Privacy and Cookie Notice is incorporated into, and part of, the [Terms and Conditions](https://web.archive.org/web/20140625105810id_/http%3A//www.bulleit.com/terms-conditions.aspx), that govern your use of the site in general. We will use your information only for the purposes set forth below. 
 
 We may need to update this Privacy and Cookie Notice from time to time. We recommend that you check this page regularly to ensure that you have read the most recent version.
 
@@ -242,7 +242,7 @@ We take security seriously and take precautions to keep your personal informatio
 
 In the unlikely event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you of that development. If such a notification is appropriate, we will endeavour to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email.
 
-You are reminded that, in accordance with the [Terms and Conditions](https://web.archive.org/web/20131118081953id_/http%3A//www.bulleit.com/terms-conditions.aspx) for this website, which include this Privacy and Cookie Notice, you are responsible for maintaining the strict confidentiality of your account password, and you are responsible for any activity under your account and password. It is your sole responsibility to control the dissemination and use of your password, control access to and use of your account, and notify us when you wish to cancel your account. We will not be responsible or liable for any loss or damage arising from your failure to comply with this obligation. 
+You are reminded that, in accordance with the [Terms and Conditions](https://web.archive.org/web/20140625105810id_/http%3A//www.bulleit.com/terms-conditions.aspx) for this website, which include this Privacy and Cookie Notice, you are responsible for maintaining the strict confidentiality of your account password, and you are responsible for any activity under your account and password. It is your sole responsibility to control the dissemination and use of your password, control access to and use of your account, and notify us when you wish to cancel your account. We will not be responsible or liable for any loss or damage arising from your failure to comply with this obligation. 
 
 ### 10\. Unsubscribe, access, questions and further information
 
@@ -262,7 +262,7 @@ If you have any privacy-related questions, concerns or complaints, please contac
 
 ### 12\. Interfaces with Third-Party Websites
 
-The site may contain links, references, and content from other websites outside of our control. Please be aware that we have limited or no control over these websites and our Privacy and Cookie Notice does not apply to these sites. We encourage you to read the Privacy and Cookie Notices and [Terms and Conditions](https://web.archive.org/web/20131118081953id_/http%3A//www.bulleit.com/terms-conditions.aspx) of any linked, referenced, or interfacing websites you enter.
+The site may contain links, references, and content from other websites outside of our control. Please be aware that we have limited or no control over these websites and our Privacy and Cookie Notice does not apply to these sites. We encourage you to read the Privacy and Cookie Notices and [Terms and Conditions](https://web.archive.org/web/20140625105810id_/http%3A//www.bulleit.com/terms-conditions.aspx) of any linked, referenced, or interfacing websites you enter.
 
 This Privacy and Cookie Notice will be supplemented by additional legal requirements in jurisdictions where we conduct business as required. Nothing in this Privacy and Cookie Notice or otherwise will create, or add to, any right or claim (whether legal, equitable, or otherwise) that any individual or person may have at law or otherwise against the company or any third party, or any of their respective directors, officers, employees, agents, or representatives (collectively the “Diageo Group”), nor will the existence of this Privacy and Cookie Notice or its application impose or add to any obligations upon or create any liability for the Diageo Group that it does not already otherwise have under law.
 
