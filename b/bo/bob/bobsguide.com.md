@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bobsguide.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217032415id_/http%3A//www.bobsguide.com/cgi-bin/guide/privacy.pl%3FID%3Dbg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobsguide.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052834id_/http%3A//bobsguide.com/cgi-bin/guide/privacy.pl%3FID%3Dbg) for the most accurate reproduction.*
 
-# - bobsguide.com
+# Privacy policy - bobsguide.com
 
 This privacy statement is issued by MyGuides Ltd, the parent company of Bobsguide. It applies to visitors to the site. There is an additional privacy statement which applies to vendors.
 
@@ -101,7 +101,7 @@ If we are going to use your personally identifiable information in a manner diff
 
 If you find any inaccuracies in your personal information you can correct them by editing the information in your member update page at <http://www.bobsguide.com/cgi-bin/guide/memgate.pl?ID=bg>.
 
-If you have any questions regarding this statement you should first contact: Bobsguide support, MyGuides Ltd, 3rd Floor,Northumberland House, 155-157 Great Portland Street, London, W1W 6QP, by Phone number: + 44 (0) 207 462 9018 or e-mail support@bobsguide.com. 
+If you have any questions regarding this statement you should first contact: Bobsguide support, bobsguide, One Hammersmith Broadway, W6 9DL, UNITED KINGDOM by Phone number: + 44 (0) 208 080 9167 or email [support@bobsguide.com](mailto:support@bobsguide.com)
 
 To maintain the integrity and security of your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.  
 
