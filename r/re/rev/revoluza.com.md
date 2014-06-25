@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revoluza.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811110338id_/https%3A//www.revoluza.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revoluza.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142735id_/https%3A//www.revoluza.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Revoluza Privacy Policy
 
