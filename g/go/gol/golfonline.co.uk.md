@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the golfonline.co.uk privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205150437id_/http%3A//www.golfonline.co.uk/help/Privacy-and-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfonline.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013218id_/http%3A//www.golfonline.co.uk/help/Privacy-and-Security) for the most accurate reproduction.*
 
 # Golfonline : Privacy and Security
 
-Since we launched in 2000, online privacy has been a priority for us.  It’s changed a lot, but over the years we have found that it is best to do two things.  Make sure that our privacy is in line with the law, and a recognised industry standard.  As such, our privacy policy is in line with both the [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents) and the best practices of the [Which? Web Trader Code of Practice](http://www.trustedwebtraders.com/Internet-Code-of-Practice).  Below are the main subjects our customers need information about, but for anything else, please feel free to [contact us](http://www.golfonline.co.uk/contact-us) anytime. 
+Since we launched in 2000, online privacy has been a priority for us.  It’s changed a lot, but over the years we have found that it is best to do two things.  Make sure that our privacy is in line with the law, and a recognised industry standard.  As such, our privacy policy is in line with both the [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents) and the best practices of the [Which? Web Trader Code of Practice](http://www.trustedwebtraders.com/Internet-Code-of-Practice).  Below are the main subjects our customers need information about, but for anything else, please feel free to [contact us](https://web.archive.org/contact-us) anytime. 
 
 Cookies
 
@@ -63,7 +63,7 @@ This web site may contains links to other sites and user-generated content. Plea
   
 
 
-## **Contact Details**
+##  **Contact Details**
 
 We understand that most golfers do not have the time to go through pages of information on our site, so if you ever need any clarification, please contact us anytime on team@golfonline.co.uk or you can send a letter to:
 
