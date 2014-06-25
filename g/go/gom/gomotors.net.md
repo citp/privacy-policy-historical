@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gomotors.net privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116044141id_/http%3A//gomotors.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomotors.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105458id_/http%3A//gomotors.net/privacy) for the most accurate reproduction.*
 
-# Privacy - photos, videos, specs, car listings, news & reviews | Gomotors.net
+# Privacy - Photos, News, Reviews, Specs, Car listings
 
 **GoMotors Team (hereinafter referred to as "GoMotors")** recognizes that its customers, visitors, users, and others who use www.gomotors.net or other web Website owned or operated by GoMotors (the "GoMotors Website") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the GoMotors Website. GoMotors provides this Privacy Notice to help you make an informed decision about whether to use or continue using the GoMotors Website. 
 
@@ -83,4 +83,4 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 ### Contact Information
 
-Please contact GoMotors with any questions or comments about this Privacy Notice at [gomotors.net@gmail.com](https://web.archive.org/web/20131116044141id_/http://gomotors.net/privacy/gomotors.net@gmail.com)
+Please contact GoMotors with any questions or comments about this Privacy Notice at [gomotors.net@gmail.com](https://web.archive.org/web/20140625105458id_/http://gomotors.net/privacy/gomotors.net@gmail.com)
