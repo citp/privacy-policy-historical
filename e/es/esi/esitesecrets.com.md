@@ -1,22 +1,17 @@
-> *The following text is extracted and transformed from the esitesecrets.com privacy policy that was archived on 2008-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080426010651id_/http%3A//www.esitesecrets.com/index.php%3Finc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esitesecrets.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095526id_/http%3A//esitesecrets.com/privacy-policy) for the most accurate reproduction.*
 
-# eSiteSecrets.com » Privacy Policy
+# Privacy Policy
 
-## eSiteSecrets.com - Privacy Policy
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
-  
-**eSiteSecrets.com** collect personal information from users on a voluntary basis only. This information allows us to provide users with the products and services and allow access to secure and subscription areas of our site. 
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
 
-**_We do not sell or distribute our users' personal or business information to anyone for any reason._**
 
-The display of all information when in the forum, press releases, or classifieds ads may be suppressed. All users should be aware, however, that when they voluntarily display or distribute personal or business contact information, that information can be collected and used by others. This may result in unsolicited emails, postal mail, or phone calls from third parties, for which **eSiteSecrets.com** is not responsible.
 
-**CREDIT CARD SECURITY**  
-**eSiteSecrets.com** employs the highest level of encryption for secure credit card transactions. Credit card and contact information is not stored in a publically accessable system that could be compromised, and are destroyed upon successful completion and fulfillment of the transaction. With this kind of security policy, it is safer to use your credit card online with **eSiteSecrets.com** than it is to use it for mail order or telephone order transactions. If you have concerns, you should review your credit card agreement or call the company that issues your card to ask about policies regarding liability for fraudulent Internet charges.
-
-**COOKIES**  
-In addition to the personally identifiable information that **eSiteSecrets.com** actively collects when you register for products and services, we also collect anonymous information passively using cookies and Web beacons. This technology plays an important role in making the Internet work, but there is much confusion among Internet users about what cookies and Web beacons are and how they are used. 
-
-A cookie is a small text file containing a unique identification number that is transferred from a Web site to the hard drive of your computer so that the site administrator may identify your computer and passively track its activities on the Web site. This unique number identifies your Web browser to our computer system whenever you visit one of the sites in the **eSiteSecrets.com Network**. A cookie will not allow a Web site to learn any personally identifiable information (such as your real name and address) that you have not otherwise disclosed. 
-
-Cookies allow **eSiteSecrets.com** to automatically remember your Web browser when you visit our Network of Web sites. To help serve you better, **eSiteSecrets.com** generally uses cookies to allow us to deliver products and services more efficiently and measure statistics.
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
