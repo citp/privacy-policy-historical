@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zodio.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616102435id_/http%3A//www.zodio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zodio.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625154540id_/http%3A//www.zodio.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Zodio
+# Privacy Policy, | Zodio
 
 This Privacy Policy describes our policies on the collection, use, and disclosure of your information in connection with your use of our websites, emails, and mobile applications ("Site"). The terms "we", "us", and "Zodio" refer to Zodio.com, Ltd. When you use the Site, you consent to our collection, use, and disclosure of your information as described in this Privacy Policy.
 
