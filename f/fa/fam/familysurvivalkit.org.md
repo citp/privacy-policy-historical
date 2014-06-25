@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familysurvivalkit.org privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211220727id_/http%3A//www.familysurvivalkit.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familysurvivalkit.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053747id_/http%3A//www.familysurvivalkit.org/new/nfs/mst/privacy.php) for the most accurate reproduction.*
 
 # Family Survival Kit
 
@@ -37,4 +37,4 @@ We may disclose and use personally identifiable information in special circumsta
 
 **5\. CHANGES TO THIS POLICY** FamilySurvivalKit.org may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy. 
 
-6\. CONTACT INFORMATION For questions regarding this Privacy Policy please [Contact us](https://web.archive.org/web/20131211220727id_/http%3A//www.familysurvivalkit.org/contact.php). 
+6\. CONTACT INFORMATION For questions regarding this Privacy Policy please [Contact us](https://web.archive.org/web/20140625053747id_/http%3A//www.familysurvivalkit.org/new/nfs/mst/contact.php). 
