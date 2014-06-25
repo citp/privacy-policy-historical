@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the explorebranson.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628042811id_/http%3A//www.explorebranson.com/branson/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorebranson.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125253id_/http%3A//www.explorebranson.com/branson/privacy) for the most accurate reproduction.*
 
 # Privacy
+
+  1. [Home](https://web.archive.org/)
+  2. Privacy
+
 
   1. The Branson/Lakes Area Chamber of Commerce/CVB collects non-public personal information about you when you register with explorebranson.com as an e-newsletter subscriber and when you request printed information be sent to you.
   2. This personal information may include your name, address, telephone number and e-mail address. Credit card information is asked only when ordering materials.
