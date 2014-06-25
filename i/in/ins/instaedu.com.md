@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the instaedu.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221114208id_/http%3A//instaedu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instaedu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125059id_/http%3A//instaedu.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - InstaEDU
 
-## Effective 9/23/2013
+## Effective 2/28/2014
 
 InstaEDU, Inc. (" **InstaEDU** ", " **our** ", " **us** " or " **we** ") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.instaedu.com (the " **Site** "). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Privacy Policy applies only to information that you provide to us through the Site.
 
@@ -48,11 +48,13 @@ Identity theft and the practice currently known as "phishing" are of great conce
 
 If you choose to invite a friend to use the Site and Services, we may collect the email address of such friend for the purpose of sending a one-time email invitation to use the Site and Services. We will not use the email address for any other purposes. Your friend may request that we delete his or her email address from our records by contacting us at [support@instaedu.com](mailto:support@instaedu.com).
 
+If you choose to invite a friend following a Lesson on InstaEDU, information about your lesson, including but not limited to the tutor and subject of your lesson, may be shared with the friend(s) you choose to invite.
+
 ## Information Sharing and Disclosure
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
 
-_Users._ If you decide to use the Services to connect and/or video or text chat with a Tutor online, you may share your Personal Information with the Tutors with whom you connect and/or video chat or text chat. If you interact with a Tutor via the Site or Services (e.g., to schedule Lesson Services), we will share your first name (or the name of the student, as applicable) with the applicable Tutor in order to facilitate the scheduling or communication request. Additionally, if you chose to make any User Content available via the Services, we will share such User Content in accordance with the selections you make via the Services (including with Tutors, as applicable). Any information you provide before participating in Lesson Services (e.g., information on what you'd like to cover in such Lesson Services) may be shared with the applicable Tutor and publicly via the Services in connection with your first name. We recommend that you guard your sensitive information. 
+_Users._ If you decide to use the Services to connect and/or video or text chat with a Tutor online, you may share your Personal Information with the Tutors with whom you connect and/or video chat or text chat. If you interact with a Tutor via the Site or Services (e.g., to schedule Lesson Services), we will share your first name, as provided to the Site, (or the name of the student, as applicable) with the applicable Tutor in order to facilitate the scheduling or communication request. Additionally, if you chose to make any User Content available via the Services, we will share such User Content in accordance with the selections you make via the Services (including with Tutors, as applicable). Any information you provide before participating in Lesson Services (e.g., information on what you'd like to cover in such Lesson Services) may be shared with the applicable Tutor and publicly via the Services in connection with your first name. We recommend that you guard your sensitive information. 
 
 _Questions._ As a User, if you choose to post a Question via the Services, your Question and Tutor responses to your Question, if any, will be publicly viewable via the Services. We may also share your first name with any Tutor who is eligible to respond to your Question via the Services. If, as a Tutor, you choose to post a response to a Question via the Services, your response will be publicly viewable via the Services, along with the profile information described under “Tutors” below. All responses you make to Questions via the Services will be connected to your Tutor profile. 
 
