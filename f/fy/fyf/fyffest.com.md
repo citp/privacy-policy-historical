@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fyffest.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901130455id_/http%3A//fyffest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fyffest.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124006id_/http%3A//fyffest.com/privacy) for the most accurate reproduction.*
 
 # FYF Fest
 
@@ -136,6 +136,14 @@ We may change this privacy policy from time to time. We reserve the right to cha
 Through this process, members will always be aware of what information we collect, how we use it, and who we may disclose it to. Each member is bound by any change to this Privacy Policy if he or she uses the site after said changes have been posted. If, however, we change this Privacy Policy so that we are using personal information in a manner materially different from the manner as stated at the time of collection, we will notify the members here, by email, or through notice on our home page.
 
 Your use of this web site and our network, and any disputes arising from it, is subject to this Privacy Policy and our Terms of Use Agreement and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We strongly encourage you to refer to this Policy on an ongoing basis so that you understand the most current Privacy Policy terms. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+
+## European Commission's Directive on Data Protection - Safe Harbor
+
+We adhere to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection. For more information on the Safe Harbor framework, visit the Department of Commerce's website located at <http://export.gov/safeharbor/>.
+
+## Your California Privacy Rights
+
+Under the California Civil Code, residents of the State of California who have provided any personally-identifiable information to us have the right to request a list of all third parties to whom we have disclosed personally-identifiable information during the preceding year for direct marketing purposes. If you are a California resident and wish to make such a request, please send an email [privacy@groundctrl.com](mailto:privacy@groundctrl.com) or contact us at the address below.
 
 If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at the following mailing address, phone number, or email address:
 
