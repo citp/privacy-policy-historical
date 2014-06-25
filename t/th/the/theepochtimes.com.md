@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theepochtimes.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208200050id_/http%3A//www.theepochtimes.com/n3/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theepochtimes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221552id_/http%3A//www.theepochtimes.com/n3/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice » The Epoch Times
+# The Epoch Times - Privacy Notice
 
 We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
 
