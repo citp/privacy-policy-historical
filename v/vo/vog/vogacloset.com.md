@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vogacloset.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207081601id_/http%3A//vogacloset.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vogacloset.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091643id_/http%3A//vogacloset.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# VogaCloset | Privacy Policy
+# Privacy Policy | VogaCloset
 
 **BACKGROUND:**
 
