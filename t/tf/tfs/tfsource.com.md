@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tfsource.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208023712id_/http%3A//tfsource.com/stat/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfsource.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050610id_/http%3A//tfsource.com/privacy-policy) for the most accurate reproduction.*
 
-# TFsource Privacy Policy
+# TF Source Privacy Policy
+
+## TFsource Privacy Policy
 
 **What information do we collect?**  
 We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey.   
