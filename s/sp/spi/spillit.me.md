@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spillit.me privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807090135id_/http%3A//www.spillit.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spillit.me privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073608id_/http%3A//www.spillit.me/privacy) for the most accurate reproduction.*
 
 # Spillit Privacy Policy
 
-Last updated August 6th, 2012
+Last updated May 1st, 2014
 
-## Your privacy is critically important to us. At Spillit we have a few fundamental principles:
+At Spillit we have a few fundamental principles:
 
   * We won't ask you for personal information unless we really need it.
   * We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
@@ -14,7 +14,7 @@ Last updated August 6th, 2012
 
 It is Spillit's policy to respect your privacy regarding any information we may collect while operating our website.
 
-If you have questions about accessing or correcting your personal data please contact us via http://www.spillit.me/support 
+If you have questions about accessing or correcting your personal data please contact us via [support](http://spillit.me/support). 
 
 ### Website Visitors
 
@@ -42,33 +42,39 @@ Spillit takes all measures reasonably necessary to protect against the unauthori
 
 A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Spillit uses cookies to help Spillit identify and track visitors, their usage of Spillit, and their website access preferences. Spillit visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Spillit, with the drawback that certain features of Spillit may not function properly without the aid of cookies.
 
-Privacy Policy for www.Spillit.me 
+###  Privacy Policy for Spillit.me 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@spillit.me. 
 
-At www.Spillit.me, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.Spillit.me and how it is used. 
+At Spillit.me, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Spillit.me and how it is used. 
 
 **Log Files**  
-Like many other Web sites, www.Spillit.me makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, Spillit.me makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons**  
-www.Spillit.me does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+Spillit.me does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
 **DoubleClick DART Cookie**
 
-.:: Google, as a third party vendor, uses cookies to serve ads on www.Spillit.me.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.Spillit.me and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+  * Google, as a third party vendor, uses cookies to serve ads on Spillit.me.  
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to Spillit.me and other sites on the Internet.   
+
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.Spillit.me send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-www.Spillit.me has no access to or control over these cookies that are used by third-party advertisers. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.Spillit.me's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+  * Google Adsense
+
+
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on Spillit.me send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+
+Spillit.me has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Spillit.me's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
@@ -86,8 +92,8 @@ If you have questions or complaints regarding our Data Use Policy or practices, 
 
 ### Indemnification
 
-The customer or website user agrees that he/she shall defend, indemnify, save and hold Best Interenet Guy LLC. harmless from any and all demands, liabilities, losses, costs and claims, including reasonable attorney's fees asserted against us, its agents, its customers, officers and employees, that may arise or result from any product, service or information provided. 
+The customer or website user agrees that he/she shall defend, indemnify, save and hold Spillit.me harmless from any and all demands, liabilities, losses, costs and claims, including reasonable attorney's fees asserted against us, its agents, its customers, officers and employees, that may arise or result from any product, service or information provided. 
 
 ### Legal Jurisdiction
 
-This policy is governed by the laws of the state of Oregon. Any disputes or other legal action taken against Spillit or Best Internet Guy LLC must take place in a federal or state court located in the state of Oregon. Users of Best Internet Guy LLC sites must first make a good faith effort to allow Best Internet Guy LLC to correct or remedy any conflicts/issues which may arise. If a conflict/issue does arise, you are required to notify Best Internet Guy LLC in writing, sent via certified mail, and include a full description of the issue, your proposed remedy, or remedies, for the issue, and sufficient time for Best Interner Guy LLC to fully review and resolve the issue to the mutual satisfaction of the parties involved. 
+This policy is governed by the laws of the state of Texas. Any disputes or other legal action taken against Spillit must take place in a federal or state court located in the state of Texas. Users of Spillit must first make a good faith effort to allow Spillit correct or remedy any conflicts/issues which may arise. If a conflict/issue does arise, you are required to notify Spillit.me in writing, sent via certified mail, and include a full description of the issue, your proposed remedy, or remedies, for the issue, and sufficient time for Spillit to fully review and resolve the issue to the mutual satisfaction of the parties involved. 
