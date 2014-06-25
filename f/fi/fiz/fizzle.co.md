@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fizzle.co privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908014622id_/http%3A//fizzle.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fizzle.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085905id_/http%3A//fizzle.co/privacy) for the most accurate reproduction.*
 
-# Fizzle | Fizzle Privacy Policy
+# Fizzle | Fizzle Privacy Policy — Fizzle
 
 Like most website operators, Fizzle.co collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request.
 
