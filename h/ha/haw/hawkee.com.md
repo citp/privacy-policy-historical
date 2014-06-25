@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the hawkee.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809181355id_/http%3A//www.hawkee.com/about.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawkee.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094118id_/http%3A//hawkee.com/privacy.php) for the most accurate reproduction.*
 
 # Hawkee.com - About Us
-
-Hawkee strives to facilitate technical collaboration on social software development. We focus on building a community around various application platforms, scripting languages and desktop systems. Users can browse thousands of code snippets, comments, reviews and discussions to dig deep into a technical situation and come up with the best solution. Hawkee.com has been a scripting resource as far back as 1997. At that time Hawkee.com began to review and host mIRC scripts. We gained a reputation for our critical and thorough reviews and soon developed a scripting community. Hawkee focused entirely on mIRC scripts until 2004 when PHP snippets were introduced. TCL and Ruby snippets were added in 2005 and various other development platforms have been added since. 
-
-Later in 2005 we introduced our price comparison engine which featured a variety of online computer and electronics merchants. It included social features like product tagging, comments and product reviews. Since the start of 2007 we started aggregating product reviews from around the internet and have amassed quite a collection. 
-
-In December of 2006 we launched our social network system where users could befriend one another, upload images and share comments with one another. Our unique comment system allowed users to see site-wide updates on all categories of comments that we offered. 
-
-In May, 2008 we introduced a brand new design featuring an updated logo and layout. Newer features included Latest Topics on the Latest Comments page, code snippet thumbnails and a review search. 
 
 The privacy of our visitors to Hawkee.com is important to us. 
 
