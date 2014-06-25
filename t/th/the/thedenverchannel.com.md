@@ -1,52 +1,91 @@
-> *The following text is extracted and transformed from the thedenverchannel.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613174722id_/http%3A//www.thedenverchannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedenverchannel.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110047id_/http%3A//www.thedenverchannel.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy - 7NEWS Denver TheDenverChannel.com
 
-**THE E.W. SCRIPPS COMPANY PRIVACY NOTICE**
+PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective December 30, 2011.
 
-### WHAT PERSONALLY-IDENTIFIABLE INFORMATION ("PII") DOES THE E.W. SCRIPPS COMPANY COLLECT ABOUT YOU? 
+If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, you can contact us via e-mail to our Webmaster (dennews@thedenverchannel.com) , or you can also write us at:  
+KMGH-TV  
+Channel 7  
+123 Speer Boulevard  
+Denver, CO 80203-3417
 
-Contact information that you provide to us (such as your name, title and organization, address, telephone number, fax number, email address).
+PRIVACY POLICY  
+(Effective December 30, 2011)
 
-Contact information obtained via other companies' marketing lists.
+Welcome to TheDenverChannel.com ("Website"), an interactive online service operated by The E.W. Scripps Company and its subsidiaries ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov).
 
-We also track your use of our Website at: [www.thedenverchannel.com](http://www.thedenverchannel.com/) through the use of cookies and other tracking mechanisms. A cookie is a text-only string of information that a Website transfers to the cookie file of the browser on your computer's hard disk so that the Web site can remember you and your preferences. "Session" cookies are erased from memory when your browser closes. "Persistent" cookies help identify you and your preferences upon your return to the Website.
+We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.
 
-In order to change cookie preferences, you must change your browser's preferences to disable or delete cookies. Note that disabling cookies for some services may affect the ability to use that service. Security information is specific to each browser and operating system. Please check with your browser's specific company for more information. For example, to change your browser’s preferences in Internet Explorer, go to Tools > Internet Options > Privacy. The setting has to be set to _Block All Cookies_.
+This Privacy Policy, together with the Terms of Use posted on our Website, sets forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
 
-In addition, third-party advertising companies who serve ads on our Website may use cookies (or other mechanisms) to collect information about your visits to this and other Websites in order to present ads about goods or services that may be of interest to you. If you would like to obtain more information about the practices of these third-party advertisers, and to make choices about their use of your information, please visit AboutAds.Info. 
+We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy. WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE. If, at any point, we decide to use your personally identifiable information in a manner materially different than what was stated at the time it was collected, we will notify you of this change by e-mail to the last e-mail address provided to us. You will have a choice (by means of an “opt out” opportunity) as to whether we use the information in this different manner. We will use information in accordance with the Privacy Policy under which your information was collected if you opt out of the new policy.
 
-### WHY DOES THE E.W. SCRIPPS COMPANY COLLECT THIS INFORMATION?
+A. INFORMATION WE COLLECT
 
-To process your transactions, maintain your account and respond to your inquiries.
+Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, which we automatically collect when you visit our Website or that you provide us.
 
-To provide you with information about services and products that we believe may be of interest to you offered by The E.W. Scripps Company.
+(1) Personally Identifiable Information: Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, postal address, phone number, etc. As a general policy, we do not automatically collect your personally identifiable information when you visit our Website. In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Website. For instance, you may: (a) provide your name, postal/shipping address, email address, credit card number and phone number when registering with our Website, using our online store, or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club; or (c) post a general comment and/or recommendation on our Website. Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name). Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website.
 
-### HOW DOES THE E.W. SCRIPPS COMPANY SHARE YOUR PII?
+(2) Non-Personal Information: Our definition of non-personal information is any information that does not personally identify you. Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. We also automatically collect certain non-personal information from you when you access our Website. This information can include, among other things, IP addresses, the type of browser you
 
-With our vendors to perform services on our behalf.
+are using (e.g., Internet Explorer, Firefox, Safari, etc.), the
 
-With reputable third party companies that have sponsored special promotions such as contests and advertising. 
+third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Mac OS, etc.), the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits.
 
-In conjunction with a sale or similar transfer of a business. 
+B. HOW WE USE & SHARE THE INFORMATION COLLECTED
 
-When legally compelled or for other legal purposes. 
+(1) Personally Identifiable Information: The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information. We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“"affiliated companies”"), or to communicate with you about content or other information you have posted or shared with us via our Website. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below.
 
-IF YOU WANT TO LIMIT USE OR SHARING OF YOUR PII FOR MARKETING PURPOSES:
+In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc. Our vendors agree to use this information, and we share information with them, only to carry out our requests. In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use). Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.
 
-Visit us online at: <http://www.thedenverchannel.com/emailnewsletters> to unsubscribe from an e-mail newsletter or write to us at: Privacy Official, The E.W. Scripps Company, 4600 Air Way, San Diego, California, 92102 with the following instructions:
+(2) Non-Personal Information: We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you.
 
-I do not want to be contacted by The E.W. Scripps Company via these methods:
+C. OTHER USES & INFORMATION
 
-Mail ____  
-Telephone ____  
-Fax ____  
-Email ____ 
+(1) IP Addresses: An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that "serve up" web pages) automatically identify your computer by its IP address. When visitors request pages from our Website, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Website. IP addresses are considered non-personal information and may also be shared as provided above. It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor's session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Website rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public.
 
-I do not want to be contacted by The E.W. Scripps Company through any method for marketing purposes.
+(2) Cookies, etc.: "Cookies" are small text files from a website that are stored on your hard drive. These text files make using our Website more convenient by, among other things, saving your passwords and preferences for you. Cookies themselves do not typically contain any personally identifiable information. We may analyze the information derived from these cookies and other technological tools we employ (such as clear gifs/web beacons) and match this information with data provided by you or another party. We may provide our analysis and certain non-personal information to third parties (who may in turn use this information
 
-We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use. Your PII is stored in a secure location in the U.S. and access is limited to authorized persons.
+to provide advertisements tailored to your interests), but this will not
 
-To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: [kim_ngan_nguyen@kmgh.com](mailto:kim_ngan_nguyen@kmgh.com) or Privacy Official, The E.W. Scripps Company, 4600 Air Way, San Diego, California, 92102.
+involve disclosing any of your personally identifiable information. Please note that advertisers that serve advertisements on our Website and third-party content providers that serve content on our Website may also use their own cookies and other technological tools which are subject to the advertiser's privacy policies, not this Privacy Policy.
 
-Last updated: June 24, 2011. Future revisions to this Privacy Notice will be posted at this location.
+If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your hard drive. You may also delete a cookie manually from your hard drive through your internet browser or other programs. Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.
+
+(3) Email Communications: If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference. For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information, to us by email. However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us (e.g., product updates, customer support, etc.), we are sending you information about our other products and services, or you consented to being contacted by email for a particular purpose. In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, agree to some communications but not others. You may "opt out" of receiving future commercial email communications from us by clicking the "unsubscribe" link included at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications.
+
+(4) Transfer of Assets: As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and non-personal information we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
+
+(5) Other: Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website's users or the general public.
+
+(6) Your California Privacy Rights: Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at the address listed above.
+
+D. PUBLIC FORUMS
+
+We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.
+
+E. CHILDREN
+
+The features, programs, promotions and other aspects of our Website requiring the submission
+
+of personally identifiable information are not intended for children. We do not knowingly collect
+
+personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at the e-mail address or postal address listed above. A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.
+
+F. KEEPING YOUR INFORMATION SECURE
+
+We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your "personally identifiable information" (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.
+
+G. OTHER SITES/LINKS
+
+Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.
+
+H. CONTACT & OPT-OUT INFORMATION
+
+You may contact us as at the e-mail address or postal address listed above if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.  
+We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
+
+I. SOLE STATEMENT
+
+This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
