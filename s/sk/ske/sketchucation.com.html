@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sketchucation.com privacy policy that was archived on 2013-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131031010248id_/http%3A//sketchucation.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sketchucation.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625084728id_/http%3A//sketchucation.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 <link rel="stylesheet" href="/plugins/system/rokbox/themes/light/css-b518d664167dd795248190ff44b8159f.php" type="text/css">
@@ -8,25 +8,14 @@
 <link rel="stylesheet" href="/libraries/gantry/css/css-b825f3c52f788bffb336b70841e64d5d.php" type="text/css">
 
 
-<link rel="stylesheet" href="/templates/rt_halcyon/css/css-c9357e7718282261ee556f19b89e6b17.php" type="text/css">
+<link rel="stylesheet" href="/templates/rt_halcyon/css/css-485376120c3f81bfe06906b838119b18.php" type="text/css">
 
-
-
-<!--
-Unable to write to directory /var/www/html/font-awesome/css.
-Skipping gzip file creation for files:
-/font-awesome/css/font-awesome.css
--->
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/cache/js-f395b93b5501e8b986b1c0ada2227875.php"></script>
 
 
-<meta property="og:locale" content="en_US">
-<meta property="og:title" content="SketchUcation">
-<meta property="og:description" content="3D SketchUp Community for Design and Engineering Professionals">
-<meta property="og:url" content="http://sketchucation.com/">
-<meta property="og:site_name" content="SketcUcation">
-    <base href="http://sketchucation.com/privacy-policy">
+  <link rel="canonical" href="http://sketchucation.com/privacy-policy">
+  <base href="http://sketchucation.com/privacy-policy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="keywords" content="SketchUp, Trimble, SketchUcation, Plugin, Plugins, SketchUp Plugins, Ruby, Community, 3D, Engineering, Design, Architecture, Landscape, Learn, Support, Help">
   <meta name="author" content="Rich O'Brien">
@@ -88,9 +77,9 @@ window.addEvent('load', function() {
   </script>
 
 
-<link rel="stylesheet" href="http://sketchucation.com/font-awesome/css/font-awesome.css" type="text/css">
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" type="text/css">
 
-    
+
 <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-10182674-1']);
@@ -102,8 +91,9 @@ window.addEvent('load', function() {
 })();
 </script>
 <script type="text/javascript">
-function setGCookie() {var currenttime= new Date();var expires=new Date(currenttime.getTime() + 60*60000);var cook_value = 'SketchUcationPopup; expires=' + expires.toUTCString();document.cookie = 'SketchUcationPopup=' + cook_value;}function getGCookie() {
+function setGCookie() {var currenttime= new Date();var expires=new Date(currenttime.getTime() + 604800000);var cook_value = 'SketchUcationPopup; expires=' + expires.toUTCString();document.cookie = 'SketchUcationPopup=' + cook_value;}function getGCookie() {
 var c_name= "SketchUcationPopup";
+var c_value = document.cookie;
 var c_value = document.cookie;
 var c_start = c_value.indexOf(" " + c_name + "=");
 if (c_start == -1)
@@ -141,6 +131,45 @@ el.click();
 }
 });
 </script>
+<style type="text/css">#nagger{display:none;width:100%;text-align:center;color:white;padding:1px 0px;border-bottom:1px solid #999;background-color:#e74c3c;z-index:999;font-size:16px;}.nagclose {cursor:pointer;padding-left:25px;margin-right:10px;cursor:pointer;display:inline-block;float:right;}.nagtext {display:inline-block;margin-left:auto;margin-right:auto;font-size:.7em;}.nagtext a {color:#f1c40f;}.nagtext a:hover {color:#fff !important;}</style>
+<!-- ns=J -->
+
+<!-- nu=0 -->
+
+<script type="text/javascript">
+var nagCookieName = 'SUCNagnag-34=';
+window.addEvent('domready',function() {
+	var allCookies = document.cookie.split(';');
+	var cookieValue = '';	for(var i=0;i<allCookies.length;i++) {
+		var c = allCookies[i];
+		while(c.charAt(0) == ' ') c = c.substring(1,c.length);
+		if (c.indexOf(nagCookieName) == 0) {
+			cookieValue = c.substring(nagCookieName.length,c.length);
+			break;
+		}
+	}
+	if((cookieValue != 'nag-34')) {
+		document.getElementById('nagger').innerHTML='<div class="nagtext">3D Connexion Raffle opens....<a href="http://sketchucation.com/raffle">Get your code here!</a></div><div class="nagclose" onclick="switchOffNag();">X</div>';
+		document.getElementById('nagger').style.display='inline-block';
+}});
+function switchOffNag() {
+	document.getElementById('nagger').style.display='none';
+	var date = new Date();
+	date.setTime(date.getTime() + 1209600000);
+	var expires = 'expires=' + date.toGMTString();
+	var cookiestr = nagCookieName + 'nag-34' + '; ' + expires + ' path=/';
+	document.cookie = cookiestr;
+	var xmlhttp = new XMLHttpRequest();
+console.log( xmlhttp );
+	xmlhttp.open('GET','/nagger/nagoff.php?s=J&u=0',true);
+	xmlhttp.send();
+console.log( xmlhttp );
+}
+</script>
+
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+
 <script type="text/javascript" async="" src="//s3.buysellads.com/ac/bsa.js"></script></head>
 <body class="main-color-blue font-family-vollkorn font-size-is-default menu-type-fusionmenu inputstyling-enabled-1 typography-style-light col12 option-com-content menu-privacy-policy">
 <!-- BuySellAds.com Ad Code -->
@@ -153,6 +182,7 @@ el.click();
     (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
 })();
 </script>
+<div id="nagger"></div>
 <!-- End BuySellAds.com Ad Code -->
 <div class="scf-header-container">
 <div class="scf-icons-social">
@@ -162,7 +192,7 @@ el.click();
 	<li class="scf-icon-social-li"><a href="/gplus.php" title="G+1 us!" onclick="window.open(this.href,'','scrollbars=yes,resizable=no,location=no,menubar=no,status=no,toolbar=no,left='+(screen.availWidth/2-100)+',top='+(screen.availHeight/2-50)+',width=200,height=100');return false;" class="scf-social-a"><i class="icon-google-plus icon-large"></i></a></li>
 	<li class="scf-icon-social-li"><a href="https://www.youtube.com/subscription_center?add_user=irishsketchup" title="Sign up to our Youtube channel!" onclick="window.open(this.href,'','scrollbars=yes,resizable=no,location=no,menubar=no,status=no,toolbar=no,left='+(screen.availWidth/2-490)+',top='+(screen.availHeight/2-300)+',width=980,height=600');return false;" class="scf-social-a"><i class="icon-youtube-play icon-large"></i></a></li>
 </ul>
-</div><a href="/loginform_joomla_new.php?ret=aHR0cDovL3NrZXRjaHVjYXRpb24uY29tL3ByaXZhY3ktcG9saWN5" rel="rokbox[400 250]" class="scf-login-text" id="loginbox-modal-link"></a><ul class="scf-loginlogout-ul"><li class="scf-register-button-li"><a href="/register.html" class="btn">Register</a></li><li class="scf-login-button-li"><a href="/loginform-joomla.php?ret=aHR0cDovL3NrZXRjaHVjYXRpb24uY29tL3ByaXZhY3ktcG9saWN5" rel="rokbox[400 350]" class="scf-login-text">Login</a></li></ul></div>    <div id="rt-top-surround" class="topblock-overlay-dark">
+</div><a href="/loginform_joomla_new.php?ret=aHR0cDovL3NrZXRjaHVjYXRpb24uY29tL3ByaXZhY3ktcG9saWN5" rel="rokbox[400 250]" class="scf-login-text" id="loginbox-modal-link"></a><ul class="scf-loginlogout-ul"><li class="scf-register-button-li"><a href="/register.html" rel="nofollow" class="btn">Register</a></li><li class="scf-login-button-li"><a href="/loginform-joomla.php?ret=aHR0cDovL3NrZXRjaHVjYXRpb24uY29tL3ByaXZhY3ktcG9saWN5" rel="rokbox[400 350]" class="scf-login-text">Login</a></li></ul></div>    <div id="rt-top-surround" class="topblock-overlay-dark">
                   <div id="rt-top-pattern">
                         <div id="rt-navigation">
           <div class="rt-container">
@@ -207,12 +237,6 @@ Resources<span class="daddyicon"></span>
 </a>
 <div class="fusion-submenu-wrapper level2 " style="width:180px;">
 <ul class="level2" style="width:180px;">
-<li class="item113">
-                        	<a class="orphan item bullet" href="/resources/pluginstore">
-<span>
-PluginStore</span>
-</a>
-</li>
 <li class="item290">
                         	<a class="orphan item bullet" href="/resources/plugin-store-download">
 <span>
@@ -223,12 +247,6 @@ Plugin Store Download</span>
                         	<a class="orphan item bullet" href="/resources/premium-downloads">
 <span>
 Premium Downloads</span>
-</a>
-</li>
-<li class="item229">
-                        	<a class="orphan item bullet" href="/resources/sketchup-resources">
-<span>
-SketchUp Resources</span>
 </a>
 </li>
 <li class="item178">
@@ -248,11 +266,45 @@ Shop<span class="daddyicon"></span>
 </a>
 <div class="fusion-submenu-wrapper level2 " style="width:180px;">
 <ul class="level2" style="width:180px;">
-<li class="item300">
-                        	<a class="orphan item bullet" href="/shop/videos">
+<li class="item300 parent">
+                        	<a class="daddy item bullet" href="/shop/videos">
 <span>
 Videos</span>
 </a>
+<div class="fusion-submenu-wrapper level3 " style="width:180px;">
+<ul class="level3" style="width:180px;">
+<li class="item342">
+                        	<a class="orphan item bullet" href="/shop/videos/sketchup">
+<span>
+SketchUp</span>
+</a>
+</li>
+<li class="item343">
+                        	<a class="orphan item bullet" href="/shop/videos/autocad">
+<span>
+AutoCAD</span>
+</a>
+</li>
+<li class="item344">
+                        	<a class="orphan item bullet" href="/shop/videos/solidworks">
+<span>
+SolidWorks</span>
+</a>
+</li>
+<li class="item345">
+                        	<a class="orphan item bullet" href="/shop/videos/revit">
+<span>
+Revit</span>
+</a>
+</li>
+<li class="item346">
+                        	<a class="orphan item bullet" href="/shop/videos/bentley">
+<span>
+Bentley</span>
+</a>
+</li>
+</ul>
+<div class="drop-bot"></div></div>
 </li>
 <li class="item316 parent">
                         	<a class="daddy item bullet" href="/shop/textures">
@@ -375,6 +427,12 @@ CatchUp</span>
 </ul>
 <div class="drop-bot"></div></div>
 </li>
+        <li class="item113 root">
+                        	<a class="orphan item bullet" href="/pluginstore">
+<span>
+PluginStore</span>
+</a>
+</li>
     </ul>
 </div>
 <div class="clear"></div>
@@ -483,28 +541,28 @@ CatchUp</span>
 	                					<div class="module-content">
 	                	<ul class="latestnews">
 	<li class="latestnews">
-		<a href="/all-news/714-imaterialise-10-percent-off" class="latestnews">i.Materialise 10% Discount</a>
+		<a href="/all-news/1037-preview-of-overlay-mode-for-thea-for-sketchup" class="latestnews">Thea Render Interactive Render Overlay</a>
 	</li>
 	<li class="latestnews">
-		<a href="/all-news/713-3d-basecamp-2014-announced" class="latestnews">3D Basecamp 2014 Announced</a>
+		<a href="/all-news/1032-spacemouse-pro-wireless-released" class="latestnews">SpaceMouse Pro Wireless Released</a>
 	</li>
 	<li class="latestnews">
-		<a href="/all-news/712-lumenrt-4-3-released" class="latestnews">LumenRT 4.3 Released</a>
+		<a href="/all-news/1022-sketchucation-3d-conexion-raffle-june" class="latestnews">3D Connexion June Raffle goes live!</a>
 	</li>
 	<li class="latestnews">
-		<a href="/all-news/637-thea-presto-12" class="latestnews">Thea Presto Edition v1.2</a>
+		<a href="/all-news/1007-discount-for-3d-printing-sketchup" class="latestnews">3D Printing for SketchUp - Exclusive Discount</a>
 	</li>
 	<li class="latestnews">
-		<a href="/all-news/632-lightzone-open-source-darkroom" class="latestnews">LightZone - The free Digital Darkroom</a>
+		<a href="/all-news/998-lightup-3-3" class="latestnews">LightUp 3.3</a>
 	</li>
 	<li class="latestnews">
-		<a href="/all-news/630-trimble-tx8-3d-scanner" class="latestnews">Trimble TX8 High Speed 3D Scanner</a>
+		<a href="/all-news/982-3d-browser-12-5-released" class="latestnews">3D Browser 12.5 released with SketchUp 2014 support</a>
 	</li>
 	<li class="latestnews">
-		<a href="/all-news/628-3dconnexion-releases-wireless-3d-mouse" class="latestnews">World’s First Wireless 3D Mouse</a>
+		<a href="/all-news/981-may-spacemouse-winners-announced" class="latestnews">May SpaceMouse Winners</a>
 	</li>
 	<li class="latestnews">
-		<a href="/all-news/625-catchup-19-released" class="latestnews">CatchUp Edition 19 released</a>
+		<a href="/all-news/935-arckit-free-form-building-released" class="latestnews">ArcKit Freeform Model Building released</a>
 	</li>
 </ul>						<div class="clear"></div>
 					</div>
@@ -597,5 +655,10 @@ CatchUp</span>
               </div>
     </div>
                       
+
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+
+
 
 </body></html>
