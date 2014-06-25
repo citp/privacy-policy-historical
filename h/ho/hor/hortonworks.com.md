@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hortonworks.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031185506id_/http%3A//hortonworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hortonworks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080259id_/http%3A//hortonworks.com/agreements/privacy-policy) for the most accurate reproduction.*
 
 # Hortonworks Privacy Policy
+
+This Privacy Policy is written in English (U.S.) and to the extent you review any translated version of the Privacy Policy, the English version controls.  If you have any questions about this Privacy Policy please contact us at [legal@hortonworks.com](mailto:legal@hortonworks.com).
 
 Protecting the individual’s privacy on the Internet is crucial to the future of Internet-based business and the move toward a true Internet economy. Hortonworks has created this privacy policy (the “Privacy Policy”) to demonstrate our commitment to secure and trustworthy Internet commerce and the individual’s right to privacy. This Privacy Policy is effective as to all users of [www.hortonworks.com](http://www.mulesoft.com/) (the “Website”) and the services available on that site , and incorporates by reference the Terms of Use. Terms with initial capital letters used in this Privacy Policy shall have the respective meanings assigned to them in the Terms of Use. The terms “Hortonworks,” “we,” and “our” refer to Hortonworks Inc. The terms “you” and “your” refer to the user or viewer of the Website.
 
