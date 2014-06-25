@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the billiongraves.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014123944id_/http%3A//billiongraves.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billiongraves.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104135id_/http%3A//billiongraves.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Billion Graves
+# Privacy Policy | Billion Graves
 
 This privacy notice discloses the privacy practices for  **billliongraves.com**. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
@@ -19,7 +19,7 @@ We will use your information to respond to you, regarding the reason you contact
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
 **Your Access to and Control Over Information**    
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via [contact us](https://web.archive.org/web/20131014123944id_/http%3A//billiongraves.com/contactus.php) form on our website:
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via [contact us](https://web.archive.org/web/20140625104135id_/http%3A//billiongraves.com/contactus.php) form on our website:
 
   * See what data we have about you, if any.
   * Change/correct any data we have about you.
@@ -28,10 +28,4 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via the[Contact Us Form](https://web.archive.org/web/20131014123944id_/http%3A//billiongraves.com/contactus.php)**
-
-As a general policy, BillionGraves does not provide refunds for purchased services, such as Banner Advertising or BillionGraves Plus accounts. Refunds may be allowed if a customer's service is not working for reasons within the control of BillionGraves, or if an error has been made by BillionGraves on charges to the customers.
-
-If a customer requests a refund, it must be requested within 30 days of a charge, and the customer must also supply a reason for the refund request. If BillionGraves determines a refund is appropriate, the money for the requested transaction is refunded back to the customer. If the refund is for a recurring billing product, then the return policy allows for the most recent payment to be returned. A refund on a recurring billing product will also result in a cancellation of future service.
-
-If customers request a cancellation for their recurring billing product no future charges will be charged to their account. Keep in mind, a cancellation will not generate a refund - it will only stop any future charges.
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via the[Contact Us Form](https://web.archive.org/web/20140625104135id_/http%3A//billiongraves.com/contactus.php)**
