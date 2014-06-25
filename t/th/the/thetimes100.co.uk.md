@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetimes100.co.uk privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130105856id_/http%3A//businesscasestudies.co.uk/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimes100.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060801id_/http%3A//businesscasestudies.co.uk/info/privacy-policy) for the most accurate reproduction.*
 
-# The Times 100
+# Business Case Studies
 
 The following statement explains our policy regarding the personal information we collect about you.
 
