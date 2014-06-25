@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226080855id_/http%3A//help.donedeal.ie/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625185821id_/http%3A//help.donedeal.ie/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | What can we help you with?
 
@@ -170,7 +170,7 @@ DoneDeal may, from time to time, contain links to and from the websites of our p
 
 ## 9\. Access by children
 
-If you are aged 16 or under you must get one or your parents or a guardian’s permission before providing personal data to us by using the DoneDeal Website. If you do not have this permission you should not use the DoneDeal Website. We may ask you at any time to confirm and produce this permission in writing.
+If you are aged 16 or under, you must get one of your parent’s or a guardian’s permission before providing personal data to us by using the DoneDeal Website. If you do not have this permission, you should not use the DoneDeal Website. We may ask you at any time to confirm and produce this permission in writing.
 
 ## 10\. Questions or Comments
 
