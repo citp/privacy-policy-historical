@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkmyfile.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103004539id_/https%3A//www.checkmyfile.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkmyfile.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101428id_/https%3A//www.checkmyfile.com/privacy.htm) for the most accurate reproduction.*
 
 # Credit Report, Credit Reference, Credit Check - checkmyfile
 
