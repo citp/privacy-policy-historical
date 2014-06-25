@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardianlv.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121234448id_/http%3A//guardianlv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardianlv.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044730id_/http%3A//guardianlv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -88,4 +88,4 @@ Las Vegas, Nevada 89119
 United States  
 donahue@guardianexpress.net
 
-This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
+This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/). 
