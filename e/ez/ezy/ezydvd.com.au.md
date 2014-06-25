@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ezydvd.com.au privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014194653id_/http%3A//www.ezydvd.com.au/info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezydvd.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626004211id_/http%3A//www.ezydvd.com.au/info/PrivacyPolicy) for the most accurate reproduction.*
 
 # EzyDVD - Australia's first and largest online DVD and Blu-ray store
 
-At EzyDVD.com.au, we would like to assure you that we take your information and privacy very seriously. The following is a description of what we do and don't do with your details.
+At EzyDVD.com.au, we would like to assure you that we and our related companies take your information and privacy very seriously. EzyDVD will take all reasonable steps to protect user privacy, consistent with the Australian Privacy Principals.The EzyDVD website is operated and managed by Elan Media Partners Pty Limited (Elan) on behalf of EzyDVD. Elan will only collect and use your personal information for the purpose of managing and operating the website and as outlined below. Please click here to access Elan’s Privacy Policy. By continuing to use this website you agree that you have read and understood Elan’s Privacy Policy. Should you have any questions or queries in respect of their Privacy Policy please contact Elan directly at [info@elanmediapartners.com](mailto:info@elanmediapartners.com)
 
 **Information you provide us**
 
@@ -44,6 +44,8 @@ Third party companies and individuals have been engaged to perform functions on 
 With organizations that we operate but do not own, your information will be shared with that business. Please note, that we only go into partnerships with stores who have the same regard to Privacy as we do. We will not at any time share your financial information with the partner store. 
   * **Industry Groups**  
 From time to time we provide statistical information about sales, trading patterns and navigation techniques to reputable third parties. This may comprise data collected about you and other users to form aggregate results. However, we will not provide any direct personal information that identifies you as our customer.
+  * **Overseas Recipients**  
+At this time EzyDVD do not disclose information to overseas recipients. Should this change in the future this policy will be uploaded to include such information and individuals notified. 
   * **Verification of Accounts**  
 We do use various details to verify information given to us by our members. At times, we use: 
     * names on member accounts to compare with information on credit cards
@@ -95,3 +97,15 @@ If you share a computer with someone or are using a computer in a public place l
 
 
 If you need more assistance please contact our Customer Support team by email at enquiriesdesk@ezydvd.com.au. Normal business hours are from 9.00am to 5.00pm Monday to Friday (AEST).
+
+Should you wish to complain about our use of your personal information please contact:
+
+    Privacy Officer
+
+    EzyDVD
+
+    PO Box 3531
+
+    Rhodes Shopping Centre
+
+    RHODES NSW 2138
