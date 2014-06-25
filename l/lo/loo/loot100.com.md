@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loot100.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216050616id_/http%3A//www.loot100.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loot100.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625161329id_/http%3A//www.loot100.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Loot100.com:Privacy Policy
 
@@ -17,8 +17,8 @@ _We assemble the following types of information from and about the members regis
 
 **__Personal Information__**
 
-  * _These include the personal contact, profile and Identity details you provide us at the time of registration as a member. This includes contact details information (email id, residential address, landline telephone and mobile numbers), personal identity information (name, gender, age, photo, etc). We also seek the proof of these details at the time of claiming the prize, especially the identity, age and residential address proofs._
-  * _At the time of declaring the prize winner, we will collect some of your financial information or your share thereof as an up-line chain member of a quiz winning member._ _At the time of claiming the prize if the player chose for net banking then we will need to collect your **bank account details** (name of the bank, bank account number, IFSC code or branch address, etc)._
+  * _These include the personal contact, profile and Identity details you provide us at the time of registration as a member. This includes contact details information (email id, residential address, landline telephone and mobile numbers), personal identity information (name, gender, age, photo, etc). We also seek the proof of these details at the time of purchase of coupons, claiming the prize, especially the identity, age and residential address proofs._
+  * _At the time of declaring the prize winner, we will collect some of your financial information or your share thereof as an up-line chain member of a quiz winning member. At the time of purchase of coupons, you are requested to provide information related to your billing address. Your financial information like account number, bank name and code will be collected by Internet Payment Gateways service provider and we do not make any record of that information with us._
 
 
 
@@ -26,14 +26,14 @@ _We assemble the following types of information from and about the members regis
 **__Website and Service Usage Information__**
 
   * _Firstly, we record your website usage identity elements information (your user id, email address, passwords and other security related information, etc.)._
-  * _We also  maintain information about your usage and navigation of Loot100.com services, for instance the URLs of website, download information and its pages that you visit, the time taken to answer quiz questions, the number of correct answers given, the number of quizzes played, etc._
+  * _We also  maintain information about your usage and navigation of Loot100.com services, for instance the URLs of website, download information and its pages that you visit, coupons you purchased, the time taken to answer quiz questions, the number of correct answers given, the number of quizzes entered, etc._
   * _We also keep a track of your log information and our website’s used sessions by you - your web requests, IP address, date and time of request, browser language, browser type, etc._
-  * _We also sustain your amount transaction information and the playing account balance on the financial information front, that you carry out on the website Loot100.com – your balance at the time of opening of your playing account, your 'top-up' amounts with which you 'recharge' you’re playing balance from time to time and your spends on playing the daily contests on the website Loot100.com._
-  * _Lastly, we do  keep the log information of all your posts with the Loot100 personnel regarding either your membership updates and registration, any query resolution you may have sought, opening of your playing account, any documents you may have submitted to us or sought from us, any prize claims you may have made, etc._
+  * _We also sustain your purchase record, your bonus points transaction information and the bonus points balance on your profile front, that you carry out on the website Loot100.com – your points balance at the time of opening of your user account, your 'top-up' bonus points with which you 'received due to your purchases at Loot100.com._ Also we keep the track of points used by you to enter the quizzes.
+  * _Lastly, we do  keep the log information of all your posts with the Loot100 personnel regarding either your membership updates and registration, any query resolution you may have sought, opening of your user account, any documents you may have submitted to us or sought from us, any prize claims you may have made, etc._
 
 
 
-_To communicate with you_ _and conduct our regular business, we   assemble a lot of your personal and usage information, enabling you to become a member of the site, open and manage your playing account, assist you in proper and smooth playing of the daily contests you play on the website. Moreover, when you  win prizes on Loot100.com, this record provides assistance  assists you in claiming the quiz prize.
+_To communicate with you_ _and conduct our regular business, we   assemble a lot of your personal and usage information, enabling you to become a member of the site, open and manage your user account, assist you in proper and smooth purchase of coupons, your experience with the merchants, the daily contests you enter on the website. Moreover, when you win prizes on Loot100.com, this record provides assistance assists you in claiming the quiz prize.
 
 We do not intend to use your personal information in any other way, nor do we intend to disclose any of your personal information outside the realm of this Privacy Policy. We will take your prior permission if we desire to use or share this information for any other purposes or reasons and use it only if you permit us.
 
@@ -74,7 +74,7 @@ _The usage of the website Loot100.com while becoming a registered member of the 
 
 **__General Exceptions__**
 
-_To conduct our business, to enforce our own rights, to secure our systems, or to enforce our own 'terms and conditions' (including investigation of potential violation of playing terms and conditions) If we are required to monitor, intercept, disclose or store your 'personal information' by enforceable government requests or law we will do so in the manner as prescribed by the land laws. Without your knowledge, such monitoring, interception, disclosure or storage may take place. For any damages howsoever and whatsoever arises from such monitoring, disclosure, interception or storage of your personal information, so for that we have no liability to you or to any third party.
+_To conduct our business, to enforce our own rights, to secure our systems, or to enforce our own 'terms and conditions' (including investigation of potential violation of terms and conditions) If we are required to monitor, intercept, disclose or store your 'personal information' by enforceable government requests or law we will do so in the manner as prescribed by the land laws. Without your knowledge, such monitoring, interception, disclosure or storage may take place. For any damages howsoever and whatsoever arises from such monitoring, disclosure, interception or storage of your personal information, so for that we have no liability to you or to any third party.
 
 Any information which you may provide at the time of using our services in an unencrypted manner and in an open, forum including or public environment (without limitation) any chat room, blog , communities, discussion forum, etc will not constitute 'personal information' and will not be confidential, and is not subject to protect under this Privacy Policy.
 
@@ -86,7 +86,7 @@ _
 
 _This Privacy Policy may change from time to time and changes will be posted on this page accordingly.
 
-This 'Privacy Policy' was last updated on the 10th day of April, 2012.
+This 'Privacy Policy' was last updated on the 5th day of Feb, 2014.
 
 If you have any questions about this Privacy Policy, please freely contact us through the contact details given on our website under the link 
 
