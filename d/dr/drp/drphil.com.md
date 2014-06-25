@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the drphil.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103005403id_/http%3A//drphil.com/members/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drphil.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051337id_/http%3A//www.drphil.com/members/privacypolicy) for the most accurate reproduction.*
 
 # Dr. Phil.com - Privacy Policy
 
-## Privacy Policy
-
-Effective Date: June 12, 2008 
+Effective Date: January 6, 2014 
 
 This Privacy Policy applies only to drphil.com (however accessed and/or used, whether via personal computers, mobile devices, or otherwise), which is owned or controlled by Peteski Productions, Inc. ("Company," "we," "our" or "us") or other interactive features that are accessible or downloadable through drphil.com and that post a link to this Privacy Policy (collectively, the "Web Site"). This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected at any other web site or offline by Company (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Sites, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information. 
 
@@ -20,6 +18,7 @@ Information From Other Sources
 Send To A Friend  
 How Information May Be Collected  
 Cookies  
+Do Not Track  
 Web Beacons  
 How We Use The Information Collected  
 Third-Party Ad Serving & Audience and Traffic Measurement Services  
@@ -57,11 +56,15 @@ We may ask you to provide us with two types of information: (1) personal informa
 
 If you send a friend a communication from the Web Site, the information you provide (names, e-mail addresses, phone numbers, etc.) is used on a one-time basis to facilitate the communication and is not used for any other marketing purpose, unless we obtain additional consent. 
 
-Return to Top **_HOW INFORMATION MAY BE COLLECTED_**
+Return to Top **_HOW INFORMATION MAY BE COLLECTED (including Do Not Track)_**
 
 **Cookies**
 
-The Web Site uses standard technology called "cookies," which are small data files that are transferred to your computer (or other Internet-accessing device) when you visit the Web Site and allow your browser to accept cookies. Cookies automatically identify your web browser to the Web Site whenever you visit the Web Site, and may make navigating and using the Web Site easier for you. Also, by tracking how and when you use the Web Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Web Site are based on data obtained from cookies. Additionally, accepting cookies may allow you to, among other things, personalize your experience on the Web Site. Cookies may also allow the Web Site to present to you advertising that may be of interest to you as well as limit how often you see certain ads that may detract from your user experience on our Web Site. If you do not want to allow information to be collected through the use of cookies, you can generally opt out of providing this information by setting your browser to reject cookies. However, please be aware that some areas of the Web Site may not provide you with an acceptable user experience if you have disabled the use of cookies. 
+The Web Site uses standard technology called "cookies," which are small data files that are transferred to your computer (or other Internet-accessing device) when you visit the Web Site and allow your browser to accept cookies. Cookies automatically identify your web browser to the Web Site whenever you visit the Web Site, and may make navigating and using the Web Site easier for you. Also, by tracking how and when you use the Web Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Web Site are based on data obtained from cookies. Additionally, accepting cookies may allow you to, among other things, personalize your experience on the Web Site. Cookies may also allow the Web Site to present to you advertising that may be of interest to you as well as limit how often you see certain ads that may detract from your user experience on our Web Site. If you do not want to allow information to be collected through the use of cookies, you can generally opt out of providing this information by setting your browser to reject cookies. However, please be aware that some areas of the Web Site may not provide you with an acceptable user experience if you have disabled the use of cookies.
+
+**Do Not Track**
+
+Some Internet browsers include the ability to transmit “Do Not Track” signals. Since uniform standards for “Do Not Track” signals have not been adopted, this Web Site does not process or respond to “Do Not Track” signals. To learn more about “Do Not Track”, please visit “All About Do Not Track” at <http://www.allaboutdnt.com/>. 
 
 **Web Beacons**
 
@@ -101,7 +104,13 @@ Please note that information submitted to the Web Site via a "Ask Dr. Phil," "Se
 
 Return to Top **_THIRD-PARTY AD SERVING & AUDIENCE AND TRAFFIC MEASUREMENT SERVICES_**
 
-The Web Site may use third party network advertisers to serve advertisements on the Web Site and may use a traffic measurement service to analyze traffic on the Web Site. Network advertisers are third parties that display advertisements based on your visits to the Web Site and other web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Although advertisers and other companies do not have access to cookies set by the Web Site, the Web Site's third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser or they may otherwise have access to non-personal information. These third party cookies are set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies and web beacons are governed by each third party's specific privacy policy, not this one. While we may use a variety of companies to serve advertisements on the Web Site, you may wish to visit http://www.networkadvertising.org/managing/opt_out.asp, which provides information regarding the "opt-out" procedures of certain third party ad servers we may use. 
+The Web Site may use third party network advertisers to serve advertisements on the Web Site and may use a traffic measurement service to analyze traffic on the Web Site. These third parties include advertisers, advertising agencies, and ad networks that may collect information about you when you view or interact with one of their advertisements and may collect information about your online activities over time and across different Web sites. Third parties may serve, track and/or analyze ads on our Web Site, and thereby may collect information about your online activities. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. 
+
+Although advertisers and other companies do not have access to cookies set by the Web Site, the Web Site's third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser or they may otherwise have access to non-personal information. These third party cookies are set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies and web beacons are governed by each third party's specific privacy policy, not this one. 
+
+Some of these companies are members of the Network Advertising Initiative ("NAI"), which offers a single location to opt out of receiving tailored ads from member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit the [NAI consumer opt out page.](http://www.networkadvertising.org/optout_nonppii.asp)
+
+Also, through the Digital Advertising Alliance ("DAA"), several media and marketing associations have developed an industry self-regulatory program to give consumers a better understanding of and greater control over ads that are customized based on their online behavior across different Web Sites. To learn more and make choices about interest-based ads from participating third parties, please visit the [DAA consumer opt out page.](http://www.aboutads.info/choices/)
 
 Return to Top **_WITH WHOM INFORMATION MAY BE SHARED_**
 
@@ -132,7 +141,7 @@ The Web Site may contain web pages through which you can correct or update some 
 
 Return to Top **_CHAT ROOMS, FORUMS, AND MESSAGE BOARDS_**
 
-The Web Site may make chat rooms, forums, message boards, and user diaries available to its users. If you post personal information online, it will generally be publicly available (except in certain circumstances, such as "non-shared" user diaries) and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, message board, or diary. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when disclosing personal information in these areas. Your use of chat rooms, forums, message boards and diaries is subject to our [Terms of Use](https://web.archive.org/members/termsofuse/) and Submission Guidelines
+The Web Site may make chat rooms, forums, message boards, and user blogs available to its users. If you post personal information online, it will generally be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, message board, or blog. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when disclosing personal information in these areas. Your use of chat rooms, forums, message boards and blogs is subject to our [Terms of Use](https://web.archive.org/members/termsofuse/) and Submission Guidelines
 
 Return to Top **_THIRD PARTY CONTENT AND LINKS TO OTHER WEB SITES_**
 
