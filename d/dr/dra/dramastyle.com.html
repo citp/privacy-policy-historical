@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dramastyle.com privacy policy that was archived on 2013-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130906050236id_/http%3A//www.dramastyle.com/privatepolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dramastyle.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625070500id_/http%3A//dramastyle.com/privatepolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11" itemscope="" itemtype="http://schema.org/Blog">
 	<title>
@@ -17,11 +17,11 @@
 
     
   
-  <meta property="og:title" content="DRAMASTYLE">
+  <meta property="og:title" content="Welcome to DramaStyle! Watch the drama &amp; movies here ! - Dramastyle Private Policy">
 	<meta property="og:url" content="http://dramastyle.com/privatepolicy.php">
   <meta property="og:image" content="">
   <meta property="fb:admins" content="134722843338781">
-	<meta property="og:description" content="JINUA,DRAMASTYLE ">
+	<meta property="og:description" content="DRAMASTORY,DRAMASTYLE ">
   
   <meta name="robots" content="INDEX,FOLLOW"> 
   <meta name="Googlebot" content="index,follow,archive"> 
@@ -149,20 +149,17 @@
 
 
 
+
 <!-- Header First //-->
+
 <div id="TopFirstBar">
 	   <div class="MainbarBanner">
 	   	    <div class="LeftPanel">
-	   	    	
 	   	    	   <div class="LeftPanel">
-	   	    	     
-	   	    	     <a class="logo" href="/" title="watch drama &amp; movie on dramastyle."></a>
-	   	    	    
+	   	    	     <a class="logo" href="/" title="watch drama &amp; movie on Dramastyle."></a>
 	   	    	   </div>
-	   	    	   <div class="SignUpPanel"><a title="Sign up with dramastyle!" class="signup" href="/"></a></div>
-	   	    	
+	   	    	   <div class="SignUpPanel"><a title="Sign up with Dramastyle!" class="signup" href="/"></a></div>
 	   	    </div>
-	   	    
 	   	    <div class="RightPanel">
 	   	    	      
 	   	    	      
@@ -194,10 +191,10 @@
 					            	<li><a href="/show/">Show</a></li><li class="Divider "></li>
 					            	<li><a href="/movie/">Movie</a></li><li class="Divider "></li>
 					            	<li><a href="http://www.askkpop.com/galleries/"><font color="yellow">K-POP</font> <font color="green">galleries</font></a></li><li class="Divider "></li>
-					            	<li><a href="http://www.askactor.com/recap/"><font color="#fa982e">Recap</font></a></li><li class="Divider "></li>
+					            	<li><a href="http://www.askkpop.com/singers/"><font color="#fa982e">Singers</font></a></li><li class="Divider "></li>
 					            	<li><a href="http://www.askkpop.com/albums/">Music</a></li><li class="Divider "></li>
 					            	<li><a href="/whats_new/"><font color="#faf328">New?</font></a></li><li class="Divider "></li>
-					            	<li><a href="/genre/">Genre</a></li><li class="Divider "></li>
+					            	<li><a href="http://www.askkpop.com/videos/">Videos</a></li><li class="Divider "></li>
 					            	
 					            </ul>
 				          </div>
@@ -250,14 +247,59 @@
 
 <!-- Header Adsense //-->	
 <div class="MainbarBanner" style="text-align: right; margin-top: 20px;">
-    
-
-<a href="http://www.kpopstyle.net/star-fashion/md-choice.html" target="_new"><img src="http://www.kpopstyle.net/media/banners/728x90/kpopstyle_acc_banner_728x280_1.jpg" border="0"></a>
-
+<iframe style="overflow-x: hidden; overflow-y: hidden; border:0px; margin-right:0px;" src="http://banner.kpopstyle.net/getBanner.php?banner_agency=kpopstyle&amp;banner_size=728x90" id="kpopstyle_728x90_banner" name="kpopstyle_728x90_banner" width="728" height="90" scrolling="no" frameborder="0"></iframe>
 </div>
 
 
  
+ 
+ <script language="javascript">
+<!--
+var ExpDate = new Date();
+
+function getCookieVal (offset) {
+   var endstr = document.cookie.indexOf (";", offset);
+   if (endstr == -1) endstr = document.cookie.length;
+   return unescape(document.cookie.substring(offset, endstr));
+}
+
+function GetCookie (name) {
+   var arg = name + "=";
+   var alen = arg.length;
+   var clen = document.cookie.length;
+   var i = 0;
+   while (i < clen) { //while open
+      var j = i + alen;
+      if (document.cookie.substring(i, j) == arg)
+         return getCookieVal (j);
+      i = document.cookie.indexOf(" ", i) + 1;
+      if (i == 0) break; 
+   } //while close
+	return null;
+}
+
+function SetCookie (name, value) {
+   var argv = SetCookie.arguments;
+   var argc = SetCookie.arguments.length;
+   var expires = (2 < argc) ? argv[2] : null;
+   var path = (3 < argc) ? argv[3] : null;
+   var domain = (4 < argc) ? argv[4] : null;
+   var secure = (5 < argc) ? argv[5] : false;
+   document.cookie = name + "=" + escape (value) +
+      ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+      ((path == null) ? "" : ("; path=" + path)) +
+      ((domain == null) ? "" : ("; domain=" + domain)) +
+      ((secure == true) ? "; secure" : "");
+}
+
+function SetCookieVal () {
+   pathname = location.pathname;
+   var myDomain = pathname.substring(0, pathname.lastIndexOf('/')) +'/';
+   ExpDate.setTime(ExpDate.getTime() + 1000*60*55);
+   SetCookie('MyCookie', 'Hello Cookie!', ExpDate, myDomain);
+}
+//-->
+</script>
 
 
 
@@ -336,7 +378,9 @@
 	
 </div>		
 
-
+<!--
+<iframe  style='overflow-x: hidden; overflow-y: hidden; border:0px; margin-right:0px;' src='http://banner.kpopstyle.net/getBanner.php?banner_agency=kpopstyle&banner_size=320x250' id='kpopstyle_320x250_banner1' name='kpopstyle_320x250_banner1' width='320' HEIGHT='250'  scrolling='no' frameborder='0'></iframe>
+//-->
 
 <!--
 <div style="width:200px;border:1px solid #191919; margin-top:10px;margin-left:5px;">	
@@ -352,9 +396,222 @@
 <table style="width: 200px; border-collapse: collapse;  BACKGROUND-COLOR: #e2d6c6;" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr><td style="text-align:left; padding: 0 0 0 0;" height="3" bgcolor="#f07b26"></td></tr>
           <tr><td bgcolor="#474750" style="text-align:left; padding: 5px 5px 5px 5px;" height="25"><font color="#ffffff" style="font-family:georgia, times, serif;font-size:1.5em;font-style:italic">Most popular Article</font> </td></tr>
-  
+          <tr>
+          <td style="background:#e8e2d9;">
           
-</tbody></table>
+             
+                <center><div style="width:160px; font-family:times, 'times new roman', serif;font-size:12px;font-style:italic;font-color:#d25c22">June 23, 2014, 10:26 am</div></center>
+                <div onclick="go_Actor_Url('http://www.askkpop.com/article/Kim-Hyun-joong-releases-latest-single/');" class="entry-article" style="margin-left:20px; width:160px; height:130px; background: #e8e2d9 url( http://static.askkpop.com/images/upload/0/ifrit/2014/06/25/Kim_Hyun-joong_small.jpg)  no-repeat;	cursor:pointer; " align="center">
+                </div>
+             
+           </td>
+         </tr>
+          <tr>
+          <td style="background:#e8e2d9;">
+             <div style="padding:5px 5px 5px 5px; margin-left:10px;"><a title="Kim Hyun-joong Once Again Proved his Star Power with His....." href="http://www.askkpop.com/article/Kim-Hyun-joong-releases-latest-single/"><font color="#474750"><b>Kim Hyun-joong Once Again Proved his Star Power with His.......</b></font></a> 
+            <!-- <DIV style="padding:5px 5px 5px 5px;">
+
+Kim Hyun-joong, a singer and an actor once again attested his star power in Japan very last week along with his most…..</DIV> //-->
+             </div>
+             
+             <hr style="line-height:3px;">
+
+          </td></tr><tr>
+         
+                  </tr><tr>
+          <td style="background:#e8e2d9;">
+          
+             
+                <center><div style="width:160px; font-family:times, 'times new roman', serif;font-size:12px;font-style:italic;font-color:#d25c22">June 23, 2014, 12:03 am</div></center>
+                <div onclick="go_Actor_Url('http://www.askkpop.com/article/1-000-Song-Challenge-ends-long-run/');" class="entry-article" style="margin-left:20px; width:160px; height:130px; background: #e8e2d9 url( http://static.askkpop.com/images/upload/2/ifrit/2014/06/23/1-000-Song-Challenge-ends-long-run_small.jpg)  no-repeat;	cursor:pointer; " align="center">
+                </div>
+             
+           </td>
+         </tr>
+          <tr>
+          <td style="background:#e8e2d9;">
+             <div style="padding:5px 5px 5px 5px; margin-left:10px;"><a title="1,000 Song Challenge' ends long run" href="http://www.askkpop.com/article/1-000-Song-Challenge-ends-long-run/"><font color="#474750"><b>1,000 Song Challenge' ends long run..</b></font></a> 
+            <!-- <DIV style="padding:5px 5px 5px 5px;">
+On the 22nd of June, one more era of Korean entertainment has officially came to an end when comedian Lee Hwi-jae, who…..</DIV> //-->
+             </div>
+             
+             <hr style="line-height:3px;">
+
+          </td></tr><tr>
+         
+                  </tr><tr>
+          <td style="background:#e8e2d9;">
+          
+             
+                <center><div style="width:160px; font-family:times, 'times new roman', serif;font-size:12px;font-style:italic;font-color:#d25c22">June 22, 2014, 9:54 pm</div></center>
+                <div onclick="go_Actor_Url('http://www.askkpop.com/article/Seo-Yeong-to-star-in-quot-Minor-Club-quot/');" class="entry-article" style="margin-left:20px; width:160px; height:130px; background: #e8e2d9 url( http://static.askkpop.com/images/upload/0/robotman/2014/06/25/Seo_Yeong_1_small.jpg)  no-repeat;	cursor:pointer; " align="center">
+                </div>
+             
+           </td>
+         </tr>
+          <tr>
+          <td style="background:#e8e2d9;">
+             <div style="padding:5px 5px 5px 5px; margin-left:10px;"><a title="Seo Yeong to Play as a Perfect Career Woman Yeon-jae in ....." href="http://www.askkpop.com/article/Seo-Yeong-to-star-in-quot-Minor-Club-quot/"><font color="#474750"><b>Seo Yeong to Play as a Perfect Career Woman Yeon-jae in .......</b></font></a> 
+            <!-- <DIV style="padding:5px 5px 5px 5px;">
+Actress Seo Yeong will be featured in a new movie named "Minor Club".  "Minor Club" is a comical melodrama about outsi…..</DIV> //-->
+             </div>
+             
+             <hr style="line-height:3px;">
+
+          </td></tr><tr>
+         
+                  </tr><tr>
+          <td style="background:#e8e2d9;">
+          
+             
+                <center><div style="width:160px; font-family:times, 'times new roman', serif;font-size:12px;font-style:italic;font-color:#d25c22">June 22, 2014, 5:40 pm</div></center>
+                <div onclick="go_Actor_Url('http://www.askkpop.com/article/GOT7-thanks-fans-for-their-thoughtful-care-package/');" class="entry-article" style="margin-left:20px; width:160px; height:130px; background: #e8e2d9 url( http://static.askkpop.com/images/upload/0/desire/2014/06/25/GOT7_small.jpg)  no-repeat;	cursor:pointer; " align="center">
+                </div>
+             
+           </td>
+         </tr>
+          <tr>
+          <td style="background:#e8e2d9;">
+             <div style="padding:5px 5px 5px 5px; margin-left:10px;"><a title="[ASKKPOP] GOT7 Got a Care Package from its Fans" href="http://www.askkpop.com/article/GOT7-thanks-fans-for-their-thoughtful-care-package/"><font color="#474750"><b>[ASKKPOP] GOT7 Got a Care Package from its Fans..</b></font></a> 
+            <!-- <DIV style="padding:5px 5px 5px 5px;">
+GOT7&rsquo;s supporters have lately put collectively a care package for the members, and they give back the favor in k…..</DIV> //-->
+             </div>
+             
+             <hr style="line-height:3px;">
+
+          </td></tr><tr>
+         
+                  </tr><tr>
+          <td style="background:#e8e2d9;">
+          
+             
+                <center><div style="width:160px; font-family:times, 'times new roman', serif;font-size:12px;font-style:italic;font-color:#d25c22">June 22, 2014, 1:40 pm</div></center>
+                <div onclick="go_Actor_Url('http://www.askkpop.com/article/Yoo-Jae-Suk-and-Noh-Hong-Chul-to-join-MBC-broadcasting-team-for-South-Korea-vs-Algeria-match/');" class="entry-article" style="margin-left:20px; width:160px; height:130px; background: #e8e2d9 url( http://static.askkpop.com/images/upload/0/asianlook/2014/06/25/Noh_Hong_Chul_broadcasting_team_small.jpg)  no-repeat;	cursor:pointer; " align="center">
+                </div>
+             
+           </td>
+         </tr>
+          <tr>
+          <td style="background:#e8e2d9;">
+             <div style="padding:5px 5px 5px 5px; margin-left:10px;"><a title="[ASKKPOP] Yoo Jae Suk and Noh Hong Chul will Likely be J....." href="http://www.askkpop.com/article/Yoo-Jae-Suk-and-Noh-Hong-Chul-to-join-MBC-broadcasting-team-for-South-Korea-vs-Algeria-match/"><font color="#474750"><b>[ASKKPOP] Yoo Jae Suk and Noh Hong Chul will Likely be J.......</b></font></a> 
+            <!-- <DIV style="padding:5px 5px 5px 5px;">If you have tuned in for the MBC broadcast for the South Korea - Algeria match on the 22nd of June for the 2014 FIFA Wor…..</DIV> //-->
+             </div>
+             
+             <hr style="line-height:3px;">
+
+          </td></tr><tr>
+         
+                  </tr><tr>
+          <td style="background:#e8e2d9;">
+          
+             
+                <center><div style="width:160px; font-family:times, 'times new roman', serif;font-size:12px;font-style:italic;font-color:#d25c22">June 22, 2014, 1:10 pm</div></center>
+                <div onclick="go_Actor_Url('http://www.askkpop.com/article/K-Will-unveils-behind-the-scenes-cuts-for-his-new-music-video-featuring-Park-Min-Woo/');" class="entry-article" style="margin-left:20px; width:160px; height:130px; background: #e8e2d9 url( http://static.askkpop.com/images/upload/19/asian/2014/06/22/K-Will-unveils-behind-the-scenes-cuts-for-his-new-music-video-featuring-Park-Min-Woo_small.jpg)  no-repeat;	cursor:pointer; " align="center">
+                </div>
+             
+           </td>
+         </tr>
+          <tr>
+          <td style="background:#e8e2d9;">
+             <div style="padding:5px 5px 5px 5px; margin-left:10px;"><a title="[ASKKPOP] K.Will's Music Video Comeback Featuring Park M....." href="http://www.askkpop.com/article/K-Will-unveils-behind-the-scenes-cuts-for-his-new-music-video-featuring-Park-Min-Woo/"><font color="#474750"><b>[ASKKPOP] K.Will's Music Video Comeback Featuring Park M.......</b></font></a> 
+            <!-- <DIV style="padding:5px 5px 5px 5px;">
+K.Will, a Korean ballad singer has unvieled and upped the hype for his return with 'Day One Starting Today' with a few…..</DIV> //-->
+             </div>
+             
+             <hr style="line-height:3px;">
+
+          </td></tr><tr>
+         
+                  </tr><tr>
+          <td style="background:#e8e2d9;">
+          
+             
+                <center><div style="width:160px; font-family:times, 'times new roman', serif;font-size:12px;font-style:italic;font-color:#d25c22">June 22, 2014, 10:27 am</div></center>
+                <div onclick="go_Actor_Url('http://www.askkpop.com/article/quot-Jeong-Do-jeon-quot-Pitch-and-roll/');" class="entry-article" style="margin-left:20px; width:160px; height:130px; background: #e8e2d9 url( http://static.askkpop.com/images/upload/7/heej0130/2014/06/23/quot-Jeong-Do-jeon-quot-Pitch-and-roll_small.jpg)  no-repeat;	cursor:pointer; " align="center">
+                </div>
+             
+           </td>
+         </tr>
+          <tr>
+          <td style="background:#e8e2d9;">
+             <div style="padding:5px 5px 5px 5px; margin-left:10px;"><a title="Lee Seong-gye Declared Subjugation to Joeng Do-jeon" href="http://www.askkpop.com/article/quot-Jeong-Do-jeon-quot-Pitch-and-roll/"><font color="#474750"><b>Lee Seong-gye Declared Subjugation to Joeng Do-jeon..</b></font></a> 
+            <!-- <DIV style="padding:5px 5px 5px 5px;">
+
+Lee Seong-gye claimed defeat to Joeng Do-jeon.  On the episode of the KBS 1TV "Jeong Do-jeon" , Jeong Do-jeon (Jo Ja…..</DIV> //-->
+             </div>
+             
+             <hr style="line-height:3px;">
+
+          </td></tr><tr>
+         
+                  </tr><tr>
+          <td style="background:#e8e2d9;">
+          
+             
+                <center><div style="width:160px; font-family:times, 'times new roman', serif;font-size:12px;font-style:italic;font-color:#d25c22">June 22, 2014, 8:22 am</div></center>
+                <div onclick="go_Actor_Url('http://www.askkpop.com/article/Young-Singles-Spend-Most-on-Rent/');" class="entry-article" style="margin-left:20px; width:160px; height:130px; background: #e8e2d9 url( http://static.askkpop.com/images/upload/0/gdulri/2014/06/24/rent_small.jpg)  no-repeat;	cursor:pointer; " align="center">
+                </div>
+             
+           </td>
+         </tr>
+          <tr>
+          <td style="background:#e8e2d9;">
+             <div style="padding:5px 5px 5px 5px; margin-left:10px;"><a title="Where Does Young Singles Spent Most of their Money" href="http://www.askkpop.com/article/Young-Singles-Spend-Most-on-Rent/"><font color="#474750"><b>Where Does Young Singles Spent Most of their Money..</b></font></a> 
+            <!-- <DIV style="padding:5px 5px 5px 5px;">
+Single guys and ladies within their 20s and 30s spend most of their money on rent, in accordance to a current straw po…..</DIV> //-->
+             </div>
+             
+             <hr style="line-height:3px;">
+
+          </td></tr><tr>
+         
+                  </tr><tr>
+          <td style="background:#e8e2d9;">
+          
+             
+                <center><div style="width:160px; font-family:times, 'times new roman', serif;font-size:12px;font-style:italic;font-color:#d25c22">15 hour  ago</div></center>
+                <div onclick="go_Actor_Url('http://www.askkpop.com/article/episodes-1-and-2-captures-for-the-Korean-drama-Endless-Love/');" class="entry-article" style="margin-left:20px; width:160px; height:130px; background: #e8e2d9 url( http://static.askkpop.com/images/upload/6/withdonut/2014/06/24/episodes-1-and-2-captures-for-the-Korean-drama-Endless-Love_small.jpg)  no-repeat;	cursor:pointer; " align="center">
+                </div>
+             
+           </td>
+         </tr>
+          <tr>
+          <td style="background:#e8e2d9;">
+             <div style="padding:5px 5px 5px 5px; margin-left:10px;"><a title="episodes 1 and 2 captures for the Korean drama 'Endless ....." href="http://www.askkpop.com/article/episodes-1-and-2-captures-for-the-Korean-drama-Endless-Love/"><font color="#474750"><b>episodes 1 and 2 captures for the Korean drama 'Endless .......</b></font></a> 
+            <!-- <DIV style="padding:5px 5px 5px 5px;">Added episodes 1 and 2 captures for the Korean drama&quot;Endless Love&quot;(2014)Directed byLee Hyeon-jikWritten byNah …..</DIV> //-->
+             </div>
+             
+             <hr style="line-height:3px;">
+
+          </td></tr><tr>
+         
+                  </tr><tr>
+          <td style="background:#e8e2d9;">
+          
+             
+                <center><div style="width:160px; font-family:times, 'times new roman', serif;font-size:12px;font-style:italic;font-color:#d25c22">June 21, 2014, 10:27 am</div></center>
+                <div onclick="go_Actor_Url('http://www.askkpop.com/article/Korean-dramas-starting-today-2014-06-21-in-Korea/');" class="entry-article" style="margin-left:20px; width:160px; height:130px; background: #e8e2d9 url( http://static.askkpop.com/images/upload/0/jaicoree/2014/06/24/Endless_Love_small.jpg)  no-repeat;	cursor:pointer; " align="center">
+                </div>
+             
+           </td>
+         </tr>
+          <tr>
+          <td style="background:#e8e2d9;">
+             <div style="padding:5px 5px 5px 5px; margin-left:10px;"><a title="Korean Drama " endless="" love"="" has="" been="" launched"="" href="http://www.askkpop.com/article/Korean-dramas-starting-today-2014-06-21-in-Korea/"><font color="#474750"><b>Korean Drama "Endless Love" Has Been Launched..</b></font></a> 
+            <!-- <DIV style="padding:5px 5px 5px 5px;">
+
+On June 21st, Korean drama "Endless Love"(2014) has been launched.
+Details of the drama are given below.
+Directed …..</DIV> //-->
+             </div>
+             
+             <hr style="line-height:3px;">
+
+          </td></tr><tr>
+         
+          
+          
+</tr></tbody></table>
 <script language="javascript">
 <!--
 function go_Actor_Url(url)
@@ -372,7 +629,8 @@ function go_Actor_Url(url)
 
 <div style="width:200px;border:1px solid #191919; margin-top:10px;">	
 <div style="padding-bottom: 20px; padding-left: 20px; padding-right: 20px; padding-top: 20px;">
-<a target="_new" href="http://www.kpopstyle.net/clothing.html"><img border="0" src="http://www.kpopstyle.net/media/banners/160x600/kpopstyle_banner_160x600_2.jpg"></a></div>
+<iframe style="overflow-x: hidden; overflow-y: hidden; border:0px; margin-right:0px;" src="http://banner.kpopstyle.net/getBanner.php?banner_agency=kpopstyle&amp;banner_size=160x600" id="kpopstyle_320x250_banner1" name="kpopstyle_160x600_banner1" width="160" height="600" scrolling="no" frameborder="0"></iframe>
+</div>
 </div>
 
 <div style="width:200px;border:1px solid #191919; margin-top:10px;background:#ffffff;">	
@@ -381,6 +639,9 @@ function go_Actor_Url(url)
 
 </div>
 
+<!--
+<iframe  style='overflow-x: hidden; overflow-y: hidden; border:0px; margin-right:0px;' src='http://banner.kpopstyle.net/getBanner.php?banner_agency=kpopstyle&banner_size=320x250' id='kpopstyle_320x250_banner1' name='kpopstyle_320x250_banner1' width='320' HEIGHT='250'  scrolling='no' frameborder='0'></iframe>
+//-->
 
 <div style="width:200px;border:1px solid #191919; background : #ffffff; margin-top:16px; height:1370px;">
 	<iframe src="http://www.askkpop.com/includes/featured_video_iframe.htm?limit=14" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:1370px;" allowtransparency="true"></iframe>
@@ -401,7 +662,7 @@ function go_Actor_Url(url)
     
 	  <!-- Footer Area //-->
     
-    <div class="secondaryColor" id="Footer" style="margin-top: 0.1em; border-top-width: 0px; border-top-style: solid;">
+    <div class="secondaryColor" id="Footer" style="   margin-top: 0.1em; border-top-width: 0px; border-top-style: solid;">
             <div id="footer">
                   
                   <table width="940" height="30" border="0" cellpadding="0" align="center" cellspacing="0" style="background: #1d1d1d;">
