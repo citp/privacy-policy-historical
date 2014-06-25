@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquebondage.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924003518id_/http%3A//www.uniquebondage.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquebondage.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073154id_/http%3A//uniquebondage.com/information/privacy.shtml) for the most accurate reproduction.*
 
 # 2257 at Unique Bondage
 
