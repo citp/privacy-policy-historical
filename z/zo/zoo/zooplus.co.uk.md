@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2013-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130706023407id_/http%3A//www.zooplus.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120019id_/http%3A//www.zooplus.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Pet Supplies, Pet Food, Dog Food, Cat Food and Pet Accessories at Zooplus
 
@@ -19,6 +19,7 @@ How secure is your personal data?
 Security of payment transaction  
 Non-disclosure to third parties   
 Your Password   
+Use of Social Media Plugins   
 Website optimisation   
 
 
@@ -55,12 +56,11 @@ zooplus offers a special service in case you should forget your password: At the
 
 As only you or persons authorised by you have access to your email account, your password is safeguarded against unauthorised access. Please note: You should not entrust a third party with your log-in information and use the SSL encryption when ordering whenever it is available. 
 
-####  Website optimisation 
+####  Use of Social Media Plugins 
 
-This website uses Criteo technology to collect and store information about your browsing activity for marketing purposes. For this, only anonymous non-personal data is collected and stored. This data is stored on your computer as a "cookie" text file. Using an algorithm, Criteo analyses your browsing activity in order to provide you with targeted product offerings in the form of personalized advertising banners on other (publisher) websites. There is absolutely no way data can be used to identify who you are. 
+This website uses Social Media Plugins (“Plugins”) from Facebook, Google Plus, Pinterest and Twitter. You can identify the Plugins by their Facebook, Twitter, Pin-It and +1 logos. When you use our website, the Plugins set up a direct connection between your browser and the servers of the social networks, and this allows them to receive information that your IP-address has visited our website. If you click on one of the buttons whilst you are logged-in to one of the social networks, the information that you have visited our website will be logged with your social network account. If you are a member of any of the aforementioned social networks and would prefer that the service providers do not collect data about you via our website and connect it with your membership information, then you must ensure that you log out of the relevant social network before visiting our website. Please note that, as the owners of this website, we do not control what data is collected about you via the plugins, or how it is used by the social media websites concerned. Further information on what data is collected via the plugins, and how this data is used, can be found in the data protection policies of each individual social media organisation. You can find their data protection policies here: <http://www.facebook.com/policy.php>, <http://twitter.com/privacy>, <http://pinterest.com/about/privacy/> und <https://www.google.com/intl/de/+/policy/>. 
 
-Collected data is used solely to improve our offering. Your data is neither passed on to third parties, nor used for other purposes. You may deactivate this completely anonymous analysis of your browsing activity at Criteo under the following link: [Criteo Opt-out](http://www.criteo.com/privacy-policy/opt-out)
+####  Retargeting 
 
-You can find additional information on Criteo technology in the [Criteo Privacy Policy ](http://www.criteo.com/en/privacy-policy)
-
-During your shopping session at zooplus.co.uk, we transfer a permanent cookie onto your hard drive. This allows our systems to save the shopping cart while you are shopping with us. Please be advised that permanent cookies are mandatory for shopping with zooplus. We ensure you that no other information will be stored in our systems. 
+Technology from NextPerformance GmbH is implemented on www.zooplus.co.uk, in order to collect and record data regarding user behaviour on the website. This enables appropriate and personalised advertisements to be displayed on partner websites. This data is not the user's personal data. For further information, and to deactivate NextPerformance technology for your browser, visit the NextPerformance website:  
+http://www.nextperf.com/privacy/ . 
